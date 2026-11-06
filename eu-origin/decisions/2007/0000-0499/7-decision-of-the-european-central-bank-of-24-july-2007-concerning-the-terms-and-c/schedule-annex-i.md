@@ -1,0 +1,1481 @@
+---
+title: Decision of the European Central Bank of 24 July 2007 concerning the terms and conditions of TARGET2-ECB (ECB/2007/7) (2007/601/EC), ANNEX I
+act: Decision of the European Central Bank of 24 July 2007 concerning the terms and conditions of TARGET2-ECB (ECB/2007/7) (2007/601/EC)
+section: schedule-annex-i
+status: revised
+text_date: '2019-11-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2007/7/schedule/annex-i
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Decision of the European Central Bank of 24 July 2007 concerning the terms and conditions of TARGET2-ECB (ECB/2007/7) (2007/601/EC), ANNEX I
+
+> Text as at 2019-11-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## ANNEX I — TERMS AND CONDITIONS FOR THE OPENING AND OPERATION OF A PM ACCOUNT IN TARGET2-ECB[^c000004]
+
+*Extent: E+W+S+N.I.*
+
+### TITLE I — GENERAL PROVISIONS
+
+#### Article 1. Definitions
+
+For the purposes of these Terms and Conditions (hereinafter the ‘Conditions’), the following definitions apply:
+
+- ‘ addressable BIC holder[^c000001][^c000005] ’ means an entity which: (a) holds a Business Identifier Code (BIC); (b) is not recognised as an indirect participant in the PM; and (c) is a correspondent or customer of a PM account holder or a branch of a direct or indirect participant in the PM, and is able to submit payment orders to and receive payments from a TARGET2 component system via the PM account holder,
+- ‘ ancillary system[^c000006] ’ means a system managed by an entity that is subject to supervision and/or oversight by a competent authority and complies with the oversight requirements for the location of infrastructures offering services in euro, as amended from time to time and published on the ECB's website [^f00004] , in which payments and/or financial instruments are exchanged and/or cleared or recorded with (a) the monetary obligations settled in TARGET2 and/or (b) funds held in TARGET2, in accordance with Guideline ECB/2012/27 [^f00005] and a bilateral arrangement between the ancillary system and the relevant Eurosystem CB,
+- ‘ancillary system central bank (ASCB)’ means the Eurosystem CB with which the relevant AS has a bilateral arrangement for the settlement of AS payment instructions in the PM,
+- ‘Ancillary System Interface (ASI)’ means the technical device allowing an AS to use a range of special, predefined services for the submission and settlement of AS payment instructions,
+- ‘ available liquidity ’ means a credit balance on a participant's PM account and, if applicable, any intraday credit line granted by the relevant euro area NCB in relation to such account but not yet drawn upon, or, if applicable, decreased by the amount of any processed reservations of liquidity on the PM account,
+- . . . . .[^c000007]
+- ‘ Business Identifier Code (BIC) ’ means a code as defined by ISO Standard No 9362,
+- ‘branch’ means a branch within the meaning of point (17) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council [^f00007] ,
+- ‘business day’ or ‘TARGET2 business day’ means any day on which TARGET2 is open for the settlement of payment orders, as set out in Appendix V,
+- ‘capacity opinion’ means a participant-specific opinion that contains an assessment of a participant's legal capacity to enter into and carry out its obligations under these Conditions,
+- ‘central banks (CBs)’ means the Eurosystem CBs and the connected CBs,
+- ‘connected CB’ means a national central bank (NCB), other than a Eurosystem CB, which is connected to TARGET2 pursuant to a specific agreement,
+- . . . . .[^c000008]
+- ‘[^c000009] Contingency Solution ’ means the SSP functionality that processes very critical and critical payments in contingency,
+- ‘ credit institution ’ means either: (a) a credit institution within the meaning of point (1) of Article 4(1) of Regulation (EU) No 575/2013 and Section 2(1) no 2 and Section 2(6) no 2 of the (Kreditwesengesetz) KWG, that is subject to supervision by a competent authority; or (b) another credit institution within the meaning of Article 123(2) of the Treaty that is subject to scrutiny of a standard comparable to supervision by a competent authority,
+- ‘credit instruction’ means a payment instruction submitted by an AS and addressed to the ASCB to debit one of the accounts kept and/or managed by the AS in the PM, and to credit a settlement bank's PM account or sub-account by the amount specified therein,
+- ‘credit transfer order’ means an instruction by a payer to make funds available to a payee by means of a book entry on a PM account,
+- ‘debit instruction’ means a payment instruction addressed to the SCB and submitted by an AS to debit a settlement bank's PM account or sub-account by the amount specified therein, on the basis of a debit mandate, and to credit either one of the AS's accounts in the PM or another settlement bank's PM account or sub-account,
+- ‘[^c000010] direct debit authorisation ’ means a general instruction by a payer to its CB entitling and obliging that CB to debit the payer's account upon receipt of a valid direct debit instruction from a payee,
+- ‘direct debit instruction’ means an instruction from a payee submitted to its CB pursuant to which the CB of the payer debits the payer's account by the amount specified in the instruction, on the basis of a direct debit authorization,
+- ‘debit mandate’ means an authorisation by a settlement bank in the form provided by the Eurosystem CBs in the static data forms addressed to both its AS and its SCB, entitling the AS to submit debit instructions, and instructing the SCB to debit the settlement bank's PM account or sub-account as a result of debit instructions,
+- ‘[^c000011] deposit facility ’ means a Eurosystem standing facility which counterparties may use to make overnight deposits with an NCB at a pre-specified deposit rate,
+- ‘ deposit facility rate ’ means the interest rate applicable to the deposit facility,
+- ‘ T2S Dedicated Cash Account (T2S DCA)[^c000012] ’ means an account held by a T2S DCA holder, opened in TARGET2-ECB, and used for cash payments in relation to securities settlement in T2S,
+- ‘entry disposition’ means a payment processing phase during which TARGET2-ECB attempts to settle a payment order which has been accepted pursuant to Article 12, by means of specific procedures, as described in Article 18,
+- ‘[^c000013] euro area NCB ’ means the national central bank (NCB) of a Member State whose currency is the euro,
+- ‘[^c000014] Eurosystem CB ’ means the ECB or a euro area NCB,
+- ‘ event of default ’ means any impending or existing event, the occurrence of which may threaten the performance by a participant of its obligations under these Conditions or any other rules applying to the relationship between that participant and the ECB or any other CB, including:
+  - ((a)) where the participant no longer meets the access criteria laid down in Article 4 or the requirements laid down in Article 6(1)(a);
+  - ((b)) the opening of insolvency proceedings in relation to the participant;
+  - ((c)) the submission of an application relating to the proceedings referred to in point (b);
+  - ((d)) the issue by the participant of a written declaration of its inability to pay all or any part of its debts or to meet its obligations arising in relation to intraday credit;
+  - ((e)) the entry of the participant into a voluntary general agreement or arrangement with its creditors;
+  - ((f)) where the participant is, or is deemed by its CB to be, insolvent or unable to pay its debts;
+  - ((g)) where the participant's credit balance on its PM account, T2S DCA or TIPS DCA, or all or a substantial part of the participant's assets are subject to a freezing order, attachment, seizure or any other procedure that is intended to protect the public interest or the rights of the participant's creditors;
+  - ((h)) where participation of the participant in another TARGET2 component system and/or in an ancillary system has been suspended or terminated;
+  - ((i)) where any material representation or pre-contractual statement made by the participant or which is implied to have been made by the participant under the applicable law is incorrect or untrue;
+  - ((j)) the assignment of all or a substantial part of the participant's assets,
+- ‘[^c000015] Information and Control Module (ICM) ’ means the SSP module that allows PM account holders to obtain online information and gives them the possibility to submit liquidity transfer orders, manage liquidity and, if applicable, initiate backup payment orders or payment orders to the Contingency Solution in a contingency,
+- ‘ICM broadcast message’ means information made simultaneously available to all or a selected group of PM account holders via the ICM,
+- ‘indirect participant’ means a credit institution established in the European Union or the European Economic Area (EEA), which has entered into an agreement with a PM account holder to submit payment orders and receive payments via such PM account holder's PM account, and which has been recognised by a TARGET2 component system as an indirect participant,
+- ‘insolvency proceedings’ means insolvency proceedings within the meaning of Article 2(j) of the Settlement Finality Directive,
+- ‘[^c000016] instant payment order ’ means, in line with the European Payments Council's SEPA Instant Credit Transfer (SCT Inst) scheme, a payment instruction which can be executed 24 hours a day any calendar day of the year, with immediate or close to immediate processing and notification to the payer,
+- ‘instructing participant’ means a TARGET2 participant that has initiated a payment order,
+- ‘intraday credit’ means credit extended for a period of less than one business day,
+- ‘ Linked PM account ’ means the PM account with which a TIPS DCA is associated for the purpose of liquidity management and payment of TIPS fees,
+- ‘liquidity transfer order’ means a payment order, the main purpose of which is to transfer liquidity between different accounts of the same participant,
+- ‘marginal lending facility’ means a Eurosystem standing facility which counterparties may use to receive overnight credit from a Eurosystem CB at the pre-specified marginal lending rate,
+- ‘marginal lending rate’ means the interest rate applicable to the marginal lending facility,
+- ‘multi-addressee access’ means the facility by which branches or credit institutions established in the Union or the EEA can access the relevant TARGET2 component system by submitting payment orders and/or receiving payments directly to and from the TARGET2 component system; this facility authorises these entities to submit their payment orders through the direct participant's PM account without that participant's involvement,
+- ‘Main PM account’ means the PM account to which a T2S DCA is linked and on which any remaining balance must be automatically repatriated from the T2S DCA at the end of the day,
+- ‘TARGET2 network service provider’ means the undertaking appointed by the ECB's Governing Council to provide computerised network connections for the purpose of submitting payment messages in TARGET2,
+- ‘non-settled payment order’ means a payment order that is not settled on the same-business day as that on which it is accepted,
+- ‘ participant ’ \[or ‘ direct participant ’ \] means an entity that holds at least one PM account (PM account holder) and/or one T2S Dedicated Cash Account (T2S DCA holder) and/or one TIPS Dedicated Cash Account (TIPS DCA holder) with a Eurosystem CB,
+- ‘Participant Interface (PI)’ means the technical device allowing direct participants to submit and settle payment orders via the services offered in the PM,
+- ‘[^c000017] payee ’ , except where used in Article 33, means a TARGET2 participant whose PM account will be credited as a result of a payment order being settled,
+- ‘ payer ’ , except where used in Article 33, means a TARGET2 participant whose PM account will be debited as a result of a payment order being settled,
+- ‘payment instruction’ or ‘AS payment instruction’ means a credit instruction or a debit instruction,
+- ‘ payment order ’ means a credit transfer order, a liquidity transfer order, a direct debit instruction, a PM to T2S DCA liquidity transfer order or a PM to TIPS DCA liquidity transfer order,
+- ‘Payments Module (PM)’ means an SSP module in which payments of TARGET2 participants are settled on PM accounts,
+- ‘PM account’ means an account held by a TARGET2 participant in the PM with a CB which is necessary for such TARGET2 participant to:
+  - ((a)) submit payment orders or receive payments via TARGET2; and
+  - ((b)) settle such payments with such CB,
+- ‘ positive recall answer ’ means, in line with the SCT Inst scheme, a payment order initiated by the receiver of a recall request, in response to a recall request, for the benefit of the sender of that recall request,
+- ‘public sector body’ means an entity within the ‘public sector’, the latter term as defined in Article 3 of Council Regulation (EC) No 3603/93 of 13 December 1993 specifying definitions for the application of the prohibitions referred to in Articles 104 and 104b(1) of the Treaty [^f00008] ,
+- ‘ PM to TIPS DCA liquidity transfer order ’ means the instruction to transfer a specified amount of funds from a PM account to a TIPS DCA,
+- ‘ PM to T2S DCA liquidity transfer order ’ means the instruction to transfer a specified amount of funds from a PM account to a T2S DCA,
+- ‘ recall request ’ means, in line with the SCT Inst scheme, a message from a TIPS DCA holder requesting reimbursement of a settled instant payment order,
+- ‘settlement bank’ means a participant whose PM account or sub-account is used to settle AS payment instructions,
+- ‘settlement central bank (SCB)’ means a Eurosystem CB holding a settlement bank's PM account,
+- ‘Settlement Finality Directive’ means Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems[^f00009];
+- ‘Single Shared Platform (SSP)’ means the single technical platform infrastructure provided by the SSP-providing NCBs,
+- ‘SSP-providing NCBs’ means the Deutsche Bundesbank, the Banque de France and the Banca d'Italia in their capacity as the CBs building and operating the SSP for the Eurosystem's benefit,
+- ‘static data collection form’ means a form developed by the ECB for the purpose of registering applicants for TARGET2-ECB services and registering any changes in relation to the provision of such services,
+- ‘suspension’ means the temporary freezing of the rights and obligations of a participant for a period of time to be determined by the ECB,
+- ‘ TARGET Instant Payment Settlement (TIPS) service ’ means the settlement in central bank money of instant payment orders on the TIPS Platform,
+- ‘TARGET2-ECB’ means the TARGET2 component system of the ECB,
+- ‘TARGET2’ means the entirety resulting from all TARGET2 component systems of the CBs,
+- ‘TARGET2 component system’ means any of the CBs' real-time gross settlement (RTGS) systems that form part of TARGET2,
+- ‘TARGET2 CUG’ means a subset of the TARGET2 network service provider's customers grouped for the purpose of their use of the relevant services and products of the TARGET2 network service provider when accessing the PM,
+- ‘TARGET2 participant’ means any participant in any TARGET2 component system,
+- ‘ TARGET2-Securities (T2S) ’ or ‘ T2S Platform ’ means the set of hardware, software and other technical infrastructure components through which the Eurosystem provides the services to CSDs and Eurosystem CBs that allow core, neutral and borderless settlement of securities transactions on a delivery-versus-payment basis in central bank money,
+- ‘technical malfunction of TARGET2’ means any difficulty, defect or failure in the technical infrastructure and/or the computer systems used by TARGET2-ECB, or any other event that makes it impossible to execute and complete the same business-day processing of payments in TARGET2-ECB ,
+- ‘ TIPS Dedicated Cash Account (TIPS DCA) ’ means an account held by a TIPS DCA holder, opened in TARGET2-ECB, and used for the provision of instant payment services to its customers,
+- ‘ TIPS DCA to PM liquidity transfer order ’ means the instruction to transfer a specified amount of funds from a TIPS DCA to a PM account,
+- ‘ TIPS network service provider ’ means an undertaking which has: (a) met all of the necessary conditions to connect to, and established a technical connection to, the TIPS Platform in accordance with the rules and procedures set out in Appendix V to Annex III to Decision ECB/2007/7; and (b) signed the TIPS connectivity hosting terms and conditions which are available on the ECB's website,
+- ‘ TIPS Platform ’ means the single technical platform infrastructure provided by the TIPS Platform-providing NCBs,
+- ‘ TIPS Platform-providing NCBs ’ means the Deutsche Bundesbank, the Banco de España, the Banque de France and the Banca d'Italia in their capacity as the CBs building and operating the TIPS Platform for the Eurosystem's benefit,
+- ‘[^c000018] User Detailed Functional Specifications (UDFS) ’ means the most up-to-date version of the UDFS, which is the technical documentation that details how a participant interacts with TARGET2.
+
+#### Article 1a. Scope
+
+The present Conditions govern the relationship between the ECB and its PM account holder as far the opening and the operation of the PM account is concerned.
+
+#### Article 2. Appendices
+
+1. The following Appendices form an integral part of these Conditions:
+
+Appendix I
+
+Technical specifications for the processing of payment orders
+
+Appendix II
+
+TARGET2 compensation scheme
+
+Appendix III
+
+Terms of reference for capacity and country opinions
+
+Appendix IV
+
+Business continuity and contingency procedures
+
+Appendix V
+
+Operating schedule
+
+Appendix VI[^c000019]
+
+Fee schedule and invoicing
+
+2. In the event of any conflict or inconsistency between the content of any appendix and the content of any other provision in these Conditions, the latter shall prevail.
+
+#### Article 3. General description of TARGET2
+
+1. TARGET2 provides real-time gross settlement for payments in euro, with settlement in central bank money across PM accounts, T2S DCAs for the purpose of securities transactions and TIPS DCAs for the purpose of instant payments.
+
+2. The following transactions are processed in TARGET2-ECB:
+
+- (a) transactions directly resulting from or made in connection with Eurosystem monetary policy operations;
+- (b) settlement of the euro leg of foreign exchange operations involving the Eurosystem;
+- (c) settlement of euro transfers resulting from transactions in cross-border large-value netting systems;
+- (d) settlement of euro transfers resulting from transactions in euro retail payment systems of systemic importance;
+- (e) settlement of the cash leg of securities transactions;
+- (f) T2S DCA to T2S DCA liquidity transfer orders, T2S DCA to PM liquidity transfer orders and PM to T2S DCA liquidity transfer orders;
+- (fa) instant payment orders;
+- (fb) positive recall answers;
+- (fc) TIPS DCA to PM liquidity transfer orders and PM to TIPS DCA liquidity transfer orders; and
+- (g) any other transactions in euro addressed to TARGET2 participants.
+
+3. TARGET2 provides real-time gross settlement for payments in euro, with settlement in central bank money across PM accounts, T2S DCAs and TIPS DCAs. TARGET2 is established and functions on the basis of the SSP through which payment orders are submitted and processed and through which payments are ultimately received in the same technical manner. As far as the technical operation of the T2S DCAs is concerned, TARGET2 is technically established and functions on the basis of the T2S Platform. As far as the technical operation of the TIPS DCAs is concerned, TARGET2 is technically established and functions on the basis of the TIPS Platform.
+
+4. The ECB is the provider of services under these Conditions. Acts and omissions of the SSP-providing NCBs shall be considered acts and omissions of the ECB, for which it shall assume liability in accordance with Article 25 below. Participation pursuant to these Conditions shall not create a contractual relationship between PM account holders and the SSP-providing NCBs when any of the latter acts in that capacity. Instructions, messages or information which a PM account holder receives from, or sends to, the SSP in relation to the services provided under these Conditions are deemed to be received from, or sent to, the ECB.
+
+5. TARGET2 is legally structured as a multiplicity of payment systems composed of all the TARGET2 component systems, which are designated as ‘ systems ’ under the national laws implementing the Settlement Finality Directive. TARGET2-ECB is designated as a ‘ system ’ under § 1(16) of the KWG.
+
+6. Participation in TARGET2 takes effect via participation in a TARGET2 component system. These Conditions describe the mutual rights and obligations of PM account holders in TARGET2-ECB and the ECB. The rules on the processing of payment orders under these Conditions (Title IV and Appendix I) refer to all payment orders submitted or payments received by any PM account holder.
+
+7. No intraday credit is provided to participants in TARGET2-ECB.
+
+### TITLE II — PARTICIPATION
+
+#### Article 4. Access criteria
+
+Entities managing ancillary systems (including entities established outside the EEA) and acting in that capacity, whose access to TARGET2-ECB has been approved by the Governing Council, shall be the only entities that are eligible for participation in TARGET2-ECB.
+
+#### Article 5. Direct participants
+
+Direct participants in TARGET2-ECB shall comply with the requirements set out in Article 6(1) and (2). They shall have at least one PM account with the ECB.
+
+#### Article 6. Application procedure
+
+1. To join TARGET2-ECB, applicant participants shall fulfil the following technical and legal requirements:
+
+- (a) install, manage, operate and monitor and ensure the security of the necessary IT infrastructure to connect to the SSP and submit payment orders to it. In doing so, applicant participants may involve third parties, but retain sole liability. In particular, applicant participants shall enter into an agreement with the TARGET2 network service provider to obtain the necessary connection and admissions, in accordance with the technical specifications in Appendix I;
+- (b) have passed the tests required by the ECB;
+- (c) provide a capacity opinion in the form specified in Appendix III, unless the information and representations to be provided in such capacity opinion have already been obtained by the ECB in another context; and
+- (d) for entities established outside the EEA, provide a country opinion in the form specified in Appendix III, unless the information and representations to be provided in such country opinion have already been obtained by the ECB in another context.
+
+2. Applicants shall apply in writing to the ECB, as a minimum enclosing the following documents/information:
+
+- (a) completed static data collection forms as provided by the ECB,
+- (b) the capacity opinion, if required by the ECB, and
+- (c) the country opinion, if required by the ECB.
+
+3. The ECB may also request any additional information it deems necessary to decide on the application to participate.
+
+4. The ECB shall reject the application to participate if:
+
+- (a) access criteria referred to in Article 4 are not met;
+- (b) one or more of the participation criteria referred to in paragraph 1 are not met; and/or
+- (c) in the ECB’s assessment, such participation would endanger the overall stability, soundness and safety of TARGET2-ECB or of any other TARGET2 component system, would jeopardise the ECB’s performance of its tasks as described in the Statute of the European System of Central Banks and of the European Central Bank, or poses risks on the grounds of prudence.
+
+5. The ECB shall communicate its decision on the application to participate to the applicant within one month of the ECB's receipt of the application to participate. Where the ECB requests additional information pursuant to paragraph 3, the decision shall be communicated within one month of the ECB's receipt of this information from the applicant. Any rejection decision shall contain reasons for the rejection.
+
+#### Article 7. TARGET2 directory
+
+1. The TARGET2 directory is the database of BICs used for the routing of payment orders addressed to:
+
+- (a) TARGET2 participants and their branches with multi-addressee access;
+- (b) indirect participants of TARGET2, including those with multi-addressee access; and
+- (c) addressable BIC holders of TARGET2.
+
+It shall be updated weekly.
+
+2. Unless otherwise requested by the participant, its BIC(s) shall be published in the TARGET2 directory.
+
+3. Participants may only distribute the TARGET2 directory to their branches and entities with multi-addressee access.
+
+4. Entities specified in paragraph 1(b) and (c) shall only use their BIC in relation to one direct participant.
+
+5.[^c000020] Participants acknowledge that the ECB and other CBs may publish participants’ names and BICs.
+
+### TITLE III — OBLIGATIONS OF THE PARTIES
+
+#### Article 8. Obligations of the ECB and the participants
+
+1. The ECB shall offer the services described in Title IV. Save where otherwise provided in these Conditions or required by law, the ECB shall use all reasonable means within its power to perform its obligations under these Conditions, without guaranteeing a result.
+
+2. Participants shall pay to the ECB the fees laid down in Appendix VI.
+
+3. Participants shall ensure that they are connected to TARGET2-ECB on business days, in accordance with the operating schedule in Appendix V.
+
+4. The participant represents and warrants to the ECB that the performance of its obligations under these Conditions does not breach any law, regulation or by-law applicable to it or any agreement by which it is bound.
+
+#### Article 9. Cooperation and information exchange
+
+1. In performing their obligations and exercising their rights under these Conditions, the ECB and participants shall cooperate closely to ensure the stability, soundness and safety of TARGET2-ECB. They shall provide each other with any information or documents relevant for the performance of their respective obligations and the exercise of their respective rights under these Conditions, without prejudice to any banking secrecy obligations.
+
+2. The ECB shall establish and maintain a system support desk to assist participants in relation to difficulties arising in connection with system operations.
+
+3. Up-to-date information on the SSP's operational status shall be available on the TARGET2 Information System (T2IS) on a dedicated webpage on the ECB's website. The T2IS may be used to obtain information on any event affecting the normal operation of TARGET2.
+
+4. The ECB may either communicate messages to participants by means of an ICM broadcast or by any other means of communication.
+
+4a. The holder of the Linked PM account shall be responsible for informing in a timely manner its TIPS DCA holders of any relevant ICM broadcast message, including those related to the suspension or termination of any TIPS DCA holder's participation in TARGET2-ECB.
+
+5. Participants are responsible for the timely update of existing static data collection forms and the submission of new static data collection forms to the ECB. Participants are responsible for verifying the accuracy of information relating to them that is entered into TARGET2-ECB by the ECB.
+
+6. The ECB shall be deemed to be authorised to communicate to the SSP-providing NCBs any information relating to participants which the SSP-providing NCBs may need in their role as service administrators, in accordance with the contract entered into with the TARGET2 network service provider.
+
+7. Participants shall inform the ECB about any change in their legal capacity and relevant legislative changes affecting issues covered by the country opinion relating to them.
+
+8. Participants shall immediately inform the ECB if an event of default occurs in relation to themselves or if they are subject to crisis prevention measures or crisis management measures within the meaning of Directive 2014/59/EU of the European Parliament and of the Council [^f00010] or any other equivalent applicable legislation.
+
+### TITLE IV — MANAGEMENT OF PM ACCOUNTS AND PROCESSING OF PAYMENT ORDERS
+
+#### Article 10. Opening and management of PM accounts
+
+1. The ECB shall open and operate at least one PM account for each participant. Upon request by a participant acting as a settlement bank, the ECB shall open one or more sub-accounts in TARGET2-ECB to be used for dedicating liquidity.
+
+2. No debit balance shall be allowed on PM accounts.
+
+3.[^c000021] PM accounts and their sub-accounts shall be remunerated either at 0 % or the deposit facility rate, whichever is lower.
+
+4. Participants shall use the ICM to obtain information on their liquidity position. The ECB shall provide a daily statement of accounts to any participant that has opted for such service.
+
+5. A PM account holder accepting its PM account to be designated as the Main PM account shall be bound by any invoices related to the opening and operation of each T2S DCA linked to that PM account, as set out in Appendix VI to this Annex, including any penalties levied in accordance with paragraph 9(d) of Annex IIIa, regardless of the content of, or any non-compliance with, the contractual or other arrangements between that PM account holder and the T2S DCA holder.
+
+6. A Main PM account holder shall be bound by any invoices, as set out in Appendix VI to this Annex, for the linkage to each T2S DCA to which the PM account is linked.
+
+7. A PM account holder accepting its PM account to be designated as the Linked PM account shall be bound by any invoices related to the opening and operation of each TIPS DCA linked to that PM account, as set out in Appendix VI to this Annex, regardless of the content of, or any non-compliance with, the contractual or other arrangements between that PM account holder and the TIPS DCA holder. A Linked PM account may be linked to a maximum of 10 TIPS DCAs.
+
+8. The holder of a Linked PM account shall have an overview of the liquidity available on the TIPS DCAs linked to that PM account and ensure the TIPS DCA holders are aware of their responsibility to manage that liquidity.
+
+#### Article 11. Types of payment orders
+
+The following are classified as payment orders for the purposes of TARGET2:
+
+- ((a)) credit transfer orders;
+- ((b)) direct debit instructions carried out under a direct debit authorisation;
+- ((c)) liquidity transfer orders;
+- ((d)) PM to T2S DCA liquidity transfer orders; and
+- ((e)) PM to TIPS DCA liquidity transfer orders.
+
+#### Article 12. Acceptance and rejection of payment orders
+
+1. Payment orders submitted by participants are deemed accepted by the ECB if:
+
+- (a) the payment message complies with the rules established by the TARGET2 network service provider;
+- (b) the payment message complies with the formatting rules and conditions of TARGET2-ECB and passes the double-entry check described in Appendix I; and
+- (c) in cases where a payer or a payee has been suspended, the suspended participant's CB's explicit consent has been obtained.
+
+2. The ECB shall immediately reject any payment order that does not fulfil the conditions laid down in paragraph 1. The ECB shall inform the participant of any rejection of a payment order, as specified in Appendix I.
+
+3. The SSP attaches its timestamp for the processing of payment orders in the sequence of their receipt.
+
+#### Article 13. Priority rules
+
+1. Instructing participants shall designate every payment order as one of the following:
+
+- (a) normal payment order (priority class 2);
+- (b) urgent payment order (priority class 1); or
+- (c) highly urgent payment order (priority class 0).
+
+If a payment order does not indicate the priority, it shall be treated as a normal payment order.
+
+2. Highly urgent payment orders may only be designated by:
+
+- (a) CBs; and
+- (b) participants, in cases of payments to and from CLS Bank International, with the exception of payments related to the CLS CCP service and, at the discretion of the Governing Council, the CLSNow service, and liquidity transfers in relation to ancillary system settlement using the ASI.
+
+All payment instructions submitted by an ancillary system through the ASI to debit or credit the participants' PM accounts and all PM to T2S DCA liquidity transfer orders and PM to TIPS DCA liquidity transfer orders submitted shall be deemed to be highly urgent payment orders.
+
+3. Liquidity transfer orders initiated via the ICM are urgent payment orders.
+
+4. In the case of urgent and normal payment orders, the payer may change the priority via the ICM with immediate effect. It shall not be possible to change the priority of a highly urgent payment order.
+
+#### Article 14. Liquidity limits
+
+1. A participant may limit the use of available liquidity for payment orders in relation to other TARGET2 participants, except any of the CBs, by setting bilateral or multilateral limits. Such limits may only be set in relation to normal payment orders.
+
+2. By setting a bilateral limit, a participant instructs the ECB that an accepted payment order shall not be settled if the sum of its outgoing normal payment orders to another TARGET2 participant's PM account minus the sum of all incoming urgent and normal payments from such TARGET2 participant's PM account would exceed this bilateral limit.
+
+3. A participant may set a multilateral limit for any relationship that is not subject to a bilateral limit. A multilateral limit may only be set if the participant has set at least one bilateral limit. If a participant sets a multilateral limit, it instructs the ECB that an accepted payment order shall not be settled if the sum of its outgoing normal payment orders to all TARGET2 participants' PM accounts in relation to which no bilateral limit has been set, minus the sum of all incoming urgent and normal payments from such PM accounts would exceed this multilateral limit.
+
+4. The minimum amount of any of the limits shall be EUR 1 million. A bilateral or a multilateral limit with an amount of zero shall be treated as if no limit has been set. Limits between zero and EUR 1 million are not possible.
+
+5. Limits may be changed in real time with immediate effect or with effect from the next business day via the ICM. If a limit is changed to zero, it shall not be possible to change it again on the same business day. The setting of a new bilateral or multilateral limit shall only be effective from the next business day.
+
+#### Article 15. Liquidity reservation facilities
+
+1. Participants may reserve liquidity for highly urgent or urgent payment orders via the ICM.
+
+2. By requesting to reserve a certain amount of liquidity for highly urgent payment orders, a participant instructs the ECB only to settle urgent and normal payment orders if there is available liquidity after the amount reserved for highly urgent payment orders has been deducted.
+
+3. By requesting to reserve a certain amount of liquidity for urgent payment orders, a participant instructs the ECB only to settle normal payment orders if there is available liquidity after the amount reserved for urgent and highly urgent payment orders has been deducted.
+
+4. After receipt of the reservation request the ECB shall check whether the amount of liquidity on the participant’s PM account is sufficient for the reservation. If this is not the case, only the liquidity available on the PM account shall be reserved. The rest of the requested liquidity shall be reserved if additional liquidity becomes available.
+
+5. The level of the liquidity reservation may be changed. Participants may make a request via the ICM to reserve new amounts with immediate effect or with effect from the next business day.
+
+#### Article 15a. Standing instructions for liquidity reservation and dedication of liquidity
+
+1. Participants may predefine the default amount of liquidity reserved for highly urgent or urgent payment orders via the ICM. Such standing instruction or a change to such instruction shall take effect from the next business day.
+
+2. Participants may predefine via the ICM the default amount of liquidity set aside for ancillary system settlement. Such standing instruction or a change to such instruction shall take effect from the next business day. Participants shall be deemed to have instructed the ECB to dedicate liquidity on their behalf if the relevant ancillary system so requests.
+
+#### Article 16. Predetermined settlement times
+
+1. Instructing participants may predetermine the settlement time of the payment orders within a business day by using the Earliest Debit Time Indicator or the Latest Debit Time Indicator.
+
+2. When the Earliest Debit Time Indicator is used, the accepted payment order is stored and only entered into the entry disposition at the indicated time.
+
+3. When the Latest Debit Time Indicator is used, the accepted payment order shall be returned as non-settled if it cannot be settled by the indicated debit time. 15 minutes prior to the defined debit time, the instructing participant shall be sent an automatic notification via the ICM. Instructing participant may also use the Latest Debit Time Indicator solely as a warning indicator. In such cases, the payment order concerned shall not be returned.
+
+4. Instructing participants can change the Earliest Debit Time Indicator and the Latest Debit Time Indicator via the ICM.
+
+5. Further technical details are contained in Appendix I.
+
+#### Article 17. Payment orders submitted in advance
+
+1. Payment orders may be submitted up to five business days before the specified settlement date (warehoused payment orders).
+
+2. Warehoused payment orders shall be accepted and entered into the entry disposition on the date specified by the instructing participant at the start of daytime processing, as referred to in Appendix V. They shall be placed in front of payment orders of the same priority.
+
+3. Articles 13(3), 20(2) and 23(1)(a) shall apply mutatis mutandis to warehoused payment orders.
+
+#### Article 18. Settlement of payment orders in the entry disposition
+
+1. Unless instructing participants have indicated the settlement time in the manner described in Article 16, accepted payment orders shall be settled immediately or at the latest by the end of the business day on which they were accepted, provided that sufficient funds are available on the payer's PM account and taking into account any liquidity limits and liquidity reservations as referred to in Articles 14 and 15.
+
+2. Funding may be provided by:
+
+- (a) the available liquidity on the PM account; or
+- (b) incoming payments from other TARGET2 participants, subject to the applicable optimisation procedures.
+
+3. For highly urgent payment orders the ‘first in, first out’ (FIFO) principle shall apply. This means that highly urgent payment orders shall be settled in chronological order. Urgent and normal payment orders shall not be settled for as long as highly urgent payment orders are queued.
+
+4. For urgent payment orders the FIFO principle shall also apply. Normal payment orders shall not be settled if urgent and highly urgent payment orders are queued.
+
+5. By derogation from paragraphs 3 and 4, payment orders with a lower priority (or of the same priority but accepted later) may be settled before payment orders with a higher priority (or of the same priority which were accepted earlier), if the payment orders with a lower priority would net out with payments to be received and result on balance in a liquidity increase for the payer.
+
+6. Normal payment orders shall be settled in accordance with the FIFO by-passing principle. This means that they may be settled immediately (independently of other queued normal payments accepted at an earlier time) and may therefore breach the FIFO principle, provided that sufficient funds are available.
+
+7. Further details on the settlement of payment orders in the entry disposition are contained in Appendix I.
+
+#### Article 19. Settlement and return of queued payment orders
+
+1. Payment orders that are not settled immediately in the entry disposition shall be placed in the queues in accordance with the priority to which they were designated by the relevant participant, as referred to in Article 13.
+
+2. To optimise the settlement of queued payment orders, the ECB may use the optimisation procedures described in Appendix I.
+
+3. Except for highly urgent payment orders, the payer may change the queue position of payment orders in a queue (i.e. reorder them) via the ICM. Payment orders may be moved either to the front or to the end of the respective queue with immediate effect at any time during daytime processing, as referred to in Appendix V.
+
+4. At the request of a payer, the ECB may decide to change the queue position of a highly urgent payment order (except for highly urgent payment orders in the context of settlement procedures 5 and 6) provided that this change would not affect the smooth settlement by ancillary systems in TARGET2 or would not otherwise give rise to systemic risk.
+
+5. Liquidity transfer orders initiated in the ICM shall be immediately returned as non-settled if there is insufficient liquidity. Other payment orders shall be returned as non-settled if they cannot be settled by the cut-off times for the relevant message type, as specified in Appendix V.
+
+#### Article 20. Entry of payment orders into the system and their irrevocability
+
+1. For the purposes of the first sentence of Article 3(1) of the Settlement Finality Directive and the third sentence of § 116, § 96(2), § 82 and § 340(3) of the German Insolvency Code ( *Insolvenzordnung* ) and the last sentence of § 46(2) of the KWG, payment orders are deemed entered into TARGET2-ECB at the moment that the relevant participant’s PM account is debited.
+
+2. Payment orders may be revoked until they are entered into TARGET2-ECB in accordance with paragraph 1. Payment orders that are included in an algorithm, as referred to in Appendix I, may not be revoked during the period that the algorithm is running.
+
+### TITLE V — SECURITY REQUIREMENTS AND CONTINGENCY ISSUES
+
+#### Article 21. Business continuity and contingency procedures
+
+1. In the event of an abnormal external event or any other event which affects the operation of the SSP, the business continuity and contingency procedures described in Appendix IV shall apply.
+
+2. The Eurosystem provides a Contingency Solution if the events described in paragraph 1 occur. Connection to and use of the Contingency Solution shall be mandatory for participants considered by the ECB to be critical. Other participants may, on request, connect to the Contingency Solution.
+
+#### Article 22. Security requirements
+
+1. Participants shall implement adequate security controls to protect their systems from unauthorised access and use. Participants shall be exclusively responsible for the adequate protection of the confidentiality, integrity and availability of their systems.
+
+2. Participants shall inform the ECB of any security-related incidents in their technical infrastructure and, where appropriate, security-related incidents that occur in the technical infrastructure of the third party providers. The ECB may request further information about the incident and, if necessary, request that the participant take appropriate measures to prevent a recurrence of such an event.
+
+3. The ECB may impose additional security requirements, in particular with regard to cybersecurity or the prevention of fraud, on all participants and/or on participants that are considered critical by the ECB.
+
+4. Participants shall provide the ECB with their TARGET2 self-certification and their attestation of adherence to the TARGET2 network service provider’s endpoint security requirements. In the event of non-adherence to the latter, participants shall provide a document describing alternative mitigating measures to the satisfaction of the ECB.
+
+### TITLE VI — THE INFORMATION AND CONTROL MODULE
+
+#### Article 23. Use of the ICM
+
+1. The ICM:
+
+- (a) allows participants to access information relating to their accounts and to manage liquidity;
+- (b) may be used to initiate liquidity transfer orders, TIPS DCA to PM liquidity transfer orders, PM to TIPS DCA liquidity transfer orders, PM to T2S DCA liquidity transfer orders and, when the ICM is used in combination with the T2S value added services, T2S DCA to PM liquidity transfer orders; and
+- (c) allows participants to initiate backup liquidity redistribution and backup contingency payments or payment orders to the Contingency Solution in the event of a failure of the participant’s payment infrastructure.
+
+2. Further technical details relating to the ICM are contained in Appendix I.
+
+### TITLE VII — COMPENSATION, LIABILITY REGIME AND EVIDENCE
+
+#### Article 24. Compensation scheme
+
+If a payment order cannot be settled on the same business day on which it was accepted due to a technical malfunction of TARGET2, the ECB shall offer to compensate the direct participants concerned in accordance with the special procedure laid down in Appendix II.
+
+#### Article 25. Liability regime
+
+1. In performing their obligations pursuant to these Conditions, the ECB and the participants shall be bound by a general duty of reasonable care in relation to each other.
+
+2. The ECB shall be liable to its participants in cases of fraud (including but not limited to wilful misconduct) or gross negligence, for any loss arising out of the operation of TARGET2-ECB. In cases of ordinary negligence, the ECB's liability shall be limited to the participant's direct loss, i.e. the amount of the transaction in question and/or the loss of interest thereon, excluding any consequential loss.
+
+3. The ECB is not liable for any loss that results from any malfunction or failure in the technical infrastructure (including but not limited to the ECB's computer infrastructure, programmes, data, applications or networks), if such malfunction or failure arises in spite of the ECB having adopted those measures that are reasonably necessary to protect such infrastructure against malfunction or failure, and to resolve the consequences of such malfunction or failure (the latter including but not limited to initiating and completing the business continuity and contingency procedures referred to in Appendix IV).
+
+4. The ECB shall not be liable:
+
+- (a) to the extent that the loss is caused by the participant; or
+- (b) if the loss arises out of external events beyond the ECB's reasonable control (force majeure).
+
+5. Notwithstanding Sections 675(u), 675(v), 675(x), 675(y), 675(z), 676(a), 676(c) of the German Civil Code ( *Bürgerliches Gesetzbuch* ), paragraphs 1 to 4 shall apply to the extent that the ECB's liability can be excluded.
+
+6. The ECB and the participants shall take all reasonable and practicable steps to mitigate any damage or loss referred to in this Article.
+
+7. In performing some or all of its obligations under these Conditions, the ECB may commission third parties in its own name, particularly telecommunications or other network providers or other entities, if this is necessary to meet the ECB's obligations or is standard market practice. The ECB's obligation shall be limited to the due selection and commissioning of any such third parties and the ECB's liability shall be limited accordingly. For the purposes of this paragraph, the SSP-providing NCBs shall not be considered as third parties.
+
+#### Article 26. Evidence
+
+1. Unless otherwise provided in these Conditions, all payment and payment processing-related messages in relation to TARGET2, such as confirmations of debits or credits, or statement messages, between the ECB and participants shall be made through the TARGET2 network service provider.
+
+2. Electronic or written records of the messages retained by the ECB or by the TARGET2 network service provider shall be accepted as a means of evidence of the payments processed through the ECB. The saved or printed version of the original message of the TARGET2 network service provider shall be accepted as a means of evidence, regardless of the form of the original message.
+
+3. If a participant's connection to the TARGET2 network service provider fails, the participant shall use the alternative means of transmission of messages laid down in Appendix IV. In such cases, the saved or printed version of the message produced by the ECB shall have the same evidential value as the original message, regardless of its form.
+
+4. The ECB shall keep complete records of payment orders submitted and payments received by participants for a period of 10 years from the time at which such payment orders are submitted and payments are received.
+
+5. The ECB's own books and records (whether kept on paper, microfilm, microfiche, by electronic or magnetic recording, in any other mechanically reproducible form or otherwise) shall be accepted as a means of evidence of any obligations of the participants and of any facts and events that the parties rely on.
+
+### TITLE VIII — TERMINATION OF PARTICIPATION AND CLOSURE OF ACCOUNTS
+
+#### Article 27. Duration and ordinary termination of participation
+
+1. Without prejudice to Article 28, participation in TARGET2-ECB is for an indefinite period of time.
+
+2. A participant may terminate its participation in TARGET2-ECB at any time giving 14 business days' notice thereof, unless it agrees a shorter notice period with the ECB.
+
+3. The ECB may terminate a participant's participation in TARGET2-ECB at any time giving three months' notice thereof, unless it agrees a different notice period with that participant.
+
+4. On termination of participation, the confidentiality duties laid down in Article 32 remain in force for a period of five years starting on the date of termination.
+
+5. On termination of participation, the PM accounts of the participant concerned shall be closed in accordance with Article 29.
+
+#### Article 28. Suspension and extraordinary termination of participation
+
+1. A participant's participation in TARGET2-ECB shall be immediately terminated without prior notice or suspended if one of the following events of default occurs:
+
+- (a) the opening of insolvency proceedings; and/or
+- (b) the participant no longer meets the access criteria laid down in Article 4.
+
+For the purposes of this paragraph, the taking of crisis prevention measures or crisis management measures within the meaning of Directive 2014/59/EU of the European Parliament and of the Council [^f00011] against a PM account holder shall not automatically qualify as the opening of insolvency proceedings.
+
+2. The ECB may terminate without prior notice or suspend the participant's participation in TARGET2-ECB if:
+
+- (a) one or more events of default (other than those referred to in paragraph 1) occur;
+- (b) the participant is in material breach of these Conditions;
+- (c) the participant fails to carry out any material obligation to the ECB;
+- (d) the participant is excluded from, or otherwise ceases to be a member of, a TARGET2 CUG; and/or *(affected by repeal, see note)*[^c000022]
+- (e) any other participant-related event occurs which, in the ECB’s assessment, would threaten the overall stability, soundness and safety of TARGET2-ECB or of any other TARGET2 component system, which would jeopardise the ECB’s performance of its tasks as described in the Statute of the European System of Central Banks and of the European Central Bank, or poses risks on the grounds of prudence;
+- (f) the ECB suspends, limits or terminates the participant's access to intraday credit pursuant to paragraph 12 of Annex III to Guideline ECB/2012/27.
+
+3. In exercising its discretion under paragraph 2, the ECB shall take into account, inter alia, the seriousness of the event of default or events mentioned in subparagraphs (a) to (c).
+
+4.
+
+- (a) In the event that the ECB suspends or terminates a PM account holder's participation in TARGET2-ECB under paragraph 1 or 2, the ECB shall immediately inform, by means of an ICM broadcast message or a T2S broadcast message, that PM account holder, other CBs and PM account holders and T2S DCA holders in all of the TARGET2 component systems of such suspension or termination. Such message shall be deemed to have been issued by the home CB of the PM account holder and T2S DCA holder that receives the message.
+- (b)[^c000023] In the event that the ECB is informed by another CB of a suspension or termination of a participant in another TARGET2 component system, the ECB shall immediately inform its participants of such suspension or termination by means of an ICM broadcast message. *(affected by repeal, see note)*[^c000023]
+- (c) Once such an ICM broadcast message has been received by the participants, the latter shall be deemed informed of the termination/suspension of a participant's participation in TARGET2-ECB or another TARGET2 component system. The participants shall bear any losses arising from the submission of a payment order to participants whose participation has been suspended or terminated if such payment order was entered into TARGET2-ECB after receipt of the ICM broadcast message.
+
+5. Upon termination of a participant's participation, TARGET2-ECB shall not accept any new payment orders from such participant. Payment orders in the queue, warehoused payment orders or new payment orders in favour of such participant shall be returned.
+
+6. If a PM account holder is suspended from TARGET2-ECB on grounds other than those specified in paragraph (1)(a), all of its incoming payments and outgoing payment orders shall be stored and only entered into the entry disposition after they have been explicitly accepted by the suspended PM account holder's CB.
+
+7.[^c000003] If a PM account holder is suspended from TARGET2-ECB on the grounds specified in paragraph (1)(a), any outgoing payment orders from that PM account holder shall only be processed on the instructions of its representatives, including those appointed by a competent authority or a court, such as the PM account holder's insolvency administrator, or pursuant to an enforceable decision of a competent authority or a court providing instructions as to how the payments are to be processed. All incoming payments shall be processed in accordance with paragraph 6.
+
+#### Article 29. Closure of PM accounts
+
+1. Participants may close their PM accounts at any time provided they give the ECB 14 business days' notice thereof.
+
+2. On termination of participation, pursuant to either Article 27 or 28, the ECB shall close the PM accounts of the participant concerned, after having:
+
+- (a) settled or returned any queued payment orders; and
+- (b) made use of its rights of pledge and set-off under Article 30.
+
+### TITLE IX — FINAL PROVISIONS
+
+#### Article 30. The ECB's rights of pledge and set-off
+
+1. The ECB shall have a pledge over the participant's existing and future credit balances on its PM accounts, thereby collateralising any current and future claims arising out of the legal relationship between the parties.
+
+2. On the occurrence of:
+
+- (a) an event of default referred to in Article 28(1); or
+- (b) any other event of default or event referred to in Article 28(2) that has led to the termination or suspension of the participant's participation in TARGET2-ECB
+
+notwithstanding the commencement of any insolvency proceedings in respect of a participant and notwithstanding any assignment, judicial or other attachment or other disposition of or in respect of the participant's rights, all obligations of the participant shall be automatically and immediately accelerated, without prior notice and without the need for any prior approval of any authority, so as to be immediately due. In addition, the mutual obligations of the participant and the ECB shall automatically be set off against each other, and the party owing the higher amount shall pay to the other the difference.
+
+3. The ECB shall promptly give the participant notice of any set-off pursuant to paragraph 2 after such set-off has taken place.
+
+4. The ECB may without prior notice debit any participant's PM account by any amount which the participant owes the ECB resulting from the legal relationship between the participant and the ECB.
+
+#### Article 31. Security rights in relation to funds on sub-accounts
+
+1. The ECB shall have a pledge over the balance on a participant's sub-account opened for the settlement of AS-related payment instructions under the arrangements between the relevant ancillary system and its CB. Such balance shall collateralise the participant's obligation referred to in paragraph 7 towards the ECB in relation to such settlement.
+
+2. The ECB shall freeze the balance on the sub-account of the participant upon communication by the ancillary system (via a ‘ start-of-cycle ’ message). Where applicable, the ECB shall thereafter increase or reduce the frozen balance by crediting or debiting cross-system settlement payments to or from the sub-account or crediting liquidity transfers to the sub-account or crediting liquidity transfers to the sub-account. Such freezing shall expire upon communication by the ancillary system (via an ‘ end-of-cycle ’ message).
+
+3. By confirming the freezing of the balance on the participant’s sub-account, the ECB guarantees to the ancillary system payment up to the amount of this particular balance. By confirming, where applicable, the increase or reduction of the frozen balance upon crediting or debiting cross-system settlement payments to or from the sub-account or crediting liquidity transfers to the sub-account, the guarantee is automatically increased or reduced in the amount of the payment. Without prejudice to the abovementioned increase or reduction of the guarantee, the guarantee shall be irrevocable, unconditional and payable on first demand. If the ECB is not the ancillary system’s CB, the ECB shall be deemed instructed to issue the abovementioned guarantee to the ancillary system’s CB.
+
+4. In the absence of any insolvency proceedings in relation to the participant, the AS-related payment instructions for the squaring of the participant's settlement obligation shall be settled without drawing on the guarantee and without recourse to the security right over the balance on the participant's sub-account.
+
+5. In the event of the participant's insolvency, the AS-related payment instruction for the squaring of the participant's settlement obligation shall be a first demand for payment under the guarantee; the debiting of the instructed amount from the participant's sub-account (and crediting of the AS's technical account) shall therefore equally involve the discharge of the guarantee obligation by the ECB and a realisation of its collateral right over the balance on the participant's sub-account.
+
+6. The guarantee shall expire upon communication by the ancillary system that the settlement has been completed (via an ‘end-of-cycle’ message).
+
+7. The participant shall be obliged to reimburse to the ECB any payment made by the latter under such guarantee.
+
+#### Article 32. Confidentiality
+
+1. The ECB shall keep confidential all sensitive or secret information, including when such information relates to payment, technical or organisational information belonging to the participant, participants from the same group or the participant's customers, unless the participant or its customer has given its written consent to disclose.
+
+1a. By derogation from paragraph 1, the participant agrees that information on any action taken under Article 28 shall not be considered as confidential.
+
+2. By derogation from paragraph 1, the participant agrees that the ECB may disclose payment, technical or organisational information regarding the participant, participants from the same group or the participant's customers obtained in the course of the operation of TARGET2-ECB to:
+
+- (a) other CBs or third parties that are involved in the operation of TARGET2-ECB, to the extent that this is necessary for the efficient functioning of TARGET2 or the monitoring of the participant's or its group's exposure;
+- (b) other CBs in order to carry out the analyses necessary for market operations, monetary policy functions, financial stability or financial integration; or
+- (c) supervisory, resolution and oversight authorities of Member States and the Union, including CBs, to the extent that this is necessary for the performance of their public tasks, and provided in all such cases that the disclosure is not in conflict with the applicable law.
+
+The ECB shall not be liable for the financial and commercial consequences of such disclosure.
+
+3. By derogation from paragraph 1 and provided that this does not make it possible, whether directly or indirectly, to identify the participant or the participant's customers, the ECB may use, disclose or publish payment information regarding the participant or the participant's customers for statistical, historical, scientific or other purposes in the exercise of its public functions or of functions of other public entities to which the information is disclosed.
+
+4. Information relating to the operation of TARGET2-ECB to which participants have had access, may only be used for the purposes laid down in these Conditions. Participants shall keep such information confidential, unless the ECB has explicitly given its written consent to disclose. Participants shall ensure that any third parties to whom they outsource, delegate or subcontract tasks which have or may have an impact on the performance of their obligations under these Conditions are bound by the confidentiality requirements in this Article.
+
+5. The ECB shall be authorised, in order to settle payment orders, to process and transfer the necessary data to the TARGET2 network service provider.
+
+#### Article 33. Data protection, prevention of money laundering, administrative or restrictive measures and related issues
+
+1. Participants shall be deemed to be aware of, and shall comply with, all obligations on them relating to legislation on data protection, prevention of money laundering, the financing of terrorism, proliferation-sensitive nuclear activities and the development of nuclear weapons delivery systems, in particular in terms of implementing appropriate measures concerning any payments debited or credited on their PM accounts. Participants shall also acquaint themselves with the TARGET2 network service provider’s data retrieval policy prior to entering into the contractual relationship with the TARGET2 network service provider .
+
+2. Participants shall be deemed to have authorised the ECB to obtain any information relating to them from any financial or supervisory authority or trade body, whether national or foreign, if such information is necessary for the participant's participation in TARGET2-ECB.
+
+3.[^c000024] Participants, when acting as the payment service provider of a payer or payee, shall comply with all requirements resulting from administrative or restrictive measures imposed pursuant to Article 75 or 215 of the Treaty on the Functioning of the European Union to which they are subject, including with respect to notification and/or the obtaining of consent from a competent authority in relation to the processing of transactions. In addition:
+
+- (a) when the ECB is the payment service provider of a participant that is a payer:
+  - ((i)) the participant shall make the required notification or obtain consent on behalf of the central bank that is primarily required to make notification or obtain consent, and shall provide the ECB with evidence of having made a notification or having received consent; and
+  - ((ii)) the participant shall not enter any payment order for the transfer of funds to an account held by an entity different than the participant, into TARGET2 until it has obtained confirmation from the ECB that the required notification has been made or the consent has been obtained by or on behalf of the payment service provider of the payee;
+- (b) when the ECB is a payment service provider of a participant that is a payee, the participant shall make the required notification or obtain consent on behalf of the central bank that is primarily required to make notification or obtain consent, and shall provide the ECB with evidence of having made a notification or having received consent.
+
+For the purposes of this paragraph, the terms ‘ payment service provider ’ , ‘ payer ’ and ‘ payee ’ shall have the meanings given to them in the applicable administrative or restrictive measures.
+
+#### Article 34. Notices
+
+1. Except where otherwise provided for in these Conditions, all notices required or permitted pursuant to these Conditions shall be sent by registered post, facsimile or otherwise in writing or by an authenticated message through the TARGET2 network service provider. Notices to the ECB shall be submitted to the European Central Bank, Director-General of the ECB's Directorate-General Payment Systems and Market Infrastructure, Sonnemannstrasse 22, 60314 Frankfurt am Main, Germany or to the BIC address of the ECB: ECBFDEFF. Notices to the participant shall be sent to it at the address, fax number or its BIC address as the participant may from time to time notify to the ECB.
+
+2. To prove that a notice has been sent, it shall be sufficient to prove that the notice was delivered to the relevant address or that the envelope containing such notice was properly addressed and posted.
+
+3. All notices shall be given in English.
+
+4. Participants shall be bound by all forms and documents of the ECB that the participants have filled in and/or signed, including but not limited to static data collection forms, as referred to in Article 6(2)(a), and information provided under Article 9(5), which were submitted in compliance with paragraphs 1 and 2 and which the ECB reasonably believes to have received from the participants, their employees or agents.
+
+#### Article 35. Contractual relationship with TARGET2 network service provider
+
+1. For the purposes of these Conditions, the TARGET2 network service provider is SWIFT. Each participant shall enter into a separate agreement with SWIFT regarding the services to be provided by SWIFT in relation to the participant's use of TARGET2-ECB. The legal relationship between a participant and SWIFT shall be exclusively governed by SWIFT's terms and conditions.
+
+2. Each participant shall also participate in a TARGET2 CUG, as specified by the SSP-providing NCBs acting as the SWIFT service administrator for the SSP. Admission and exclusion of a participant to or from a TARGET2 CUG shall take effect once communicated to SWIFT by the SWIFT service administrator.
+
+3. Participants shall comply with the TARGET2 SWIFT Service Profile, as made available by the ECB.
+
+4. The services to be provided by SWIFT shall not form part of the services to be performed by the ECB in respect of TARGET2.
+
+5. The ECB shall not be liable for any acts, errors or omissions of SWIFT (including its directors, staff and subcontractors) as provider of SWIFT services, or for any acts, errors or omissions of network providers selected by participants to gain access to the SWIFT network.
+
+#### Article 36. Amendment procedure
+
+The ECB may at any time unilaterally amend these Conditions, including the Appendices. Amendments to these Conditions, including the Appendices, shall be announced by means of communication in writing to the participants. Amendments shall be deemed to have been accepted unless the participant expressly objects within 14 days of being informed of such amendments. In the event that a participant objects to the amendment, the ECB is entitled immediately to terminate that participant's participation in TARGET2-ECB and close any of its PM accounts.
+
+#### Article 37. Third party rights
+
+1. Any rights, interests, obligations, responsibilities and claims arising from or relating to these Conditions shall not be transferred, pledged or assigned by participants to any third party without the ECB's written consent.
+
+2. These Conditions do not create any rights in favour of or obligations in relation to any entity other than the ECB and participants in TARGET2-ECB.
+
+#### Article 38. Governing law, jurisdiction and place of performance
+
+1. The bilateral relationship between the ECB and participants in TARGET2-ECB shall be governed by the law of the Federal Republic of Germany.
+
+2. Without prejudice to the competence of the Court of Justice of the European Union, any dispute arising from a matter relating to the relationship referred to in paragraph 1 falls under the exclusive competence of the courts of Frankfurt am Main.
+
+3. The place of performance concerning the legal relationship between the ECB and the participants shall be Frankfurt am Main, Federal Republic of Germany.
+
+#### Article 39. Severability
+
+If any provision in these Conditions is or becomes invalid, this shall not prejudice the applicability of all the other provisions of these Conditions.
+
+#### Article 40. Entry into force and binding nature
+
+1. These Conditions become effective from 19 May 2008, unless the ECB communicates another date of entry into force to the participants.
+
+2. By requesting a PM account in TARGET2-ECB, applicant participants automatically agree to these Conditions between themselves and in relation to the ECB.
+
+Appendix I
+
+TECHNICAL SPECIFICATIONS FOR THE PROCESSING OF PAYMENT ORDERS
+
+In addition to the terms and conditions of TARGET2-ECB, the following rules shall apply to the processing of payment orders:
+
+1\.
+
+Technical requirements for participation in TARGET2-ECB regarding infrastructure, network and formats
+
+- ((1)) TARGET2 uses SWIFT services for the exchange of messages. Each participant therefore needs a connection to SWIFT’s Secure IP Network. Each participant’s PM account shall be identified by an eight- or 11-digit SWIFT BIC. Furthermore, each participant shall pass a series of tests to prove its technical and operational competence before it may participate in TARGET2-ECB.
+- ((2)) For the submission of payment orders and the exchange of payment messages in the PM the SWIFTNet FIN Y-copy service shall be used. A dedicated SWIFT Closed User Group (CUG) shall be set up for this purpose. Payment orders within such TARGET2 CUG shall be directly addressed to the receiving TARGET2 participant by entering its BIC in the header of the SWIFTNet FIN message.
+- ((3)) For the information and control services the following SWIFTNet services may be used:
+  - ((a)) SWIFTNet InterAct;
+  - ((b)) SWIFTNet FileAct; and/or
+  - ((c)) SWIFTNet Browse.
+- ((4)) The security of the message exchange between participants shall rely exclusively on SWIFT’s Public Key Infrastructure (PKI) service. Information on the PKI service is available in the documentation provided by SWIFT.
+- ((5)) The ‘bilateral relationship management’ service provided by SWIFT’s Relationship Management Application (RMA) shall only be used with the central destination BIC of the SSP and not for payment messages between TARGET2 participants.
+
+2\.
+
+Payment message types
+
+- ((1)) The following SWIFTNet FIN/SWIFT system message types are processed:
+
+  | Message Type | Type of use | Description |
+  | --- | --- | --- |
+  | MT 103 | Mandatory | Customer payment |
+  | MT 103+ | Mandatory | Customer payment (Straight Through Processing) |
+  | MT 202 | Mandatory | Bank-to-bank payment |
+  | MT 202COV | Mandatory | Cover payment |
+  | MT 204 | Optional | Direct debit payment |
+  | MT 011 | Optional | Delivery notification |
+  | MT 012 | Optional | Sender notification |
+  | MT 019 | Mandatory | Abort notification |
+  | MT 900 | Optional | Confirmation of Debit/Credit line change |
+  | MT 910 | Optional | Confirmation of Credit/Credit line change |
+  | MT 940/950 | Optional | (Customer) Statement Message |
+- ((2)) When they register with TARGET2-ECB, direct participants shall declare which optional message types they will use, with the exception of MT 011 and MT 012 messages in relation to which direct participants shall decide from time to time whether or not to receive them with reference to specific messages.
+- ((3)) Participants shall comply with the SWIFT message structure and field specifications, as defined in the SWIFT documentation and under the restrictions set out for TARGET2, as described in Chapter 9.1.2.2 of the User Detailed Functional Specifications (UDFS), Book 1.
+- ((4)) Field contents shall be validated at the level of TARGET2-ECB in accordance with the UDFS requirements. Participants may agree among each other on specific rules regarding the field contents. However, in TARGET2-ECB there shall be no specific checks as to whether participants comply with any such rules.
+- ((5)) MT 202COV messages shall be used for making cover payments, i.e. payments made by correspondent banks to settle (cover) credit transfer messages which are submitted to a customer’s bank by other, more direct means. Customer details contained in MT 202COV shall not be displayed in the ICM.
+
+3\.
+
+Double-entry check
+
+- ((1)) All payment orders shall pass a double-entry check, the aim of which is to reject payment orders that have been submitted more than once by mistake.
+- ((2)) The following fields of the SWIFT message types shall be checked:
+
+  | Details | Part of the SWIFT message | Field |
+  | --- | --- | --- |
+  | Sender | Basic Header | LT Address |
+  | Message Type | Application Header | Message Type |
+  | Receiver | Application Header | Destination Address |
+  | Transaction Reference Number (TRN) | Text Block | :20 |
+  | Related Reference | Text Block | :21 |
+  | Value Date | Text Block | :32 |
+  | Amount | Text Block | :32 |
+- ((3)) If all the fields described in subparagraph 2 in relation to a newly submitted payment order are identical to those in relation to a payment order that has already been accepted, the newly submitted payment order shall be returned.
+
+4\.
+
+Error codes
+
+If a payment order is rejected, the instructing participant shall receive an abort notification (MT 019) indicating the reason for the rejection by using error codes. The error codes are defined in Chapter 9.4.2 of the UDFS.
+
+5\.
+
+Predetermined settlement times
+
+- ((1)) For payment orders using the Earliest Debit Time Indicator, the codeword ‘/FROTIME/’shall be used.
+- ((2)) For payment orders using the Latest Debit Time Indicator, two options shall be available.
+  - ((a)) Codeword ‘/REJTIME/’: if the payment order cannot be settled by the indicated debit time, the payment order shall be returned.
+  - ((b)) Codeword ‘/TILTIME/’: if the payment order cannot be settled by the indicated debit time, the payment order shall not be returned but shall be kept in the relevant queue.
+
+  Under both options, if a payment order with a Latest Debit Time Indicator is not settled 15 minutes prior to the time indicated therein, a notification shall automatically be sent via the ICM.
+- ((3)) If the codeword ‘/CLSTIME/’ is used, the payment shall be treated in the same way as a payment order referred to in subparagraph 2(b).
+
+6\.
+
+Settlement of payment orders in the entry disposition
+
+- ((1)) Offsetting checks and, if appropriate, extended offsetting checks (both terms as defined in paragraphs 2 and 3) shall be carried out on payment orders entered into the entry disposition to provide quick, liquidity-saving gross settlement of payment orders.
+- ((2)) An offsetting check shall determine whether the payee’s payment orders that are at the front of the highly urgent or, if inapplicable, the urgent queue are available to be offset against the payer’s payment order (hereinafter ‘offsetting payment orders’). If an offsetting payment order does not provide sufficient funds for the respective payer’s payment order in the entry disposition, it shall be determined whether there is sufficient available liquidity on the payer’s PM account.
+- ((3)) If the offsetting check fails, the ECB may apply an extended offsetting check. An extended offsetting check determines whether offsetting payment orders are available in any of the payee’s queues regardless of when they joined the queue. However, if in the queue of the payee there are higher priority payment orders addressed to other TARGET2 participants, the FIFO principle may only be breached if settling such an offsetting payment order would result in a liquidity increase for the payee.
+
+7\.
+
+Settlement of payment orders in the queue
+
+- ((1)) The treatment of payment orders placed in queues depends on the priority class to which it was designated by the instructing participant.
+- ((2)) Payment orders in the highly urgent and urgent queues shall be settled by using the offsetting checks described in paragraph 6, starting with the payment order at the front of the queue in cases where there is an increase in liquidity or there is an intervention at queue level (change of queue position, settlement time or priority, or revocation of the payment order).
+- ((3)) Payments orders in the normal queue shall be settled on a continuous basis including all highly urgent and urgent payment orders that have not yet been settled. Different optimisation mechanisms (algorithms) are used. If an algorithm is successful, the included payment orders will be settled; if an algorithm fails, the included payment orders will remain in the queue. Three algorithms (1 to 3) shall be applied to offset payment flows. By means of Algorithm 4, settlement procedure 5 (as defined in Chapter 2.8.1 of the UDFS) shall be available for the settlement of payment instructions of ancillary systems. To optimise the settlement of highly urgent ancillary system transactions on participants’ sub-accounts, a special algorithm (Algorithm 5) shall be used.
+  - ((a)) Under Algorithm 1 (‘all-or-nothing’) the ECB shall, both for each relationship in respect of which a bilateral limit has been set and also for the total sum of relationships for which a multilateral limit has been set:
+    - ((i)) calculate the overall liquidity position of each TARGET2 participant’s PM account by establishing whether the aggregate of all outgoing and incoming payment orders pending in the queue is negative or positive and, if it is negative, check whether it exceeds that participant’s available liquidity (the overall liquidity position shall constitute the ‘total liquidity position’); and
+    - ((ii)) check whether limits and reservations set by each TARGET2 participant in relation to each relevant PM account are respected.
+
+    If the outcome of these calculations and checks is positive for each relevant PM account, the ECB and other CBs involved shall settle all payments simultaneously on the PM accounts of the TARGET2 participants concerned.
+  - ((b)) Under Algorithm 2 (‘partial’) the ECB shall:
+    - ((i)) calculate and check the liquidity positions, limits and reservations of each relevant PM account as under Algorithm 1; and
+    - ((ii)) if the total liquidity position of one or more relevant PM accounts is negative, extract single payment orders until the total liquidity position of each relevant PM account is positive.
+
+    Thereafter, the ECB and the other CBs involved shall, provided there are sufficient funds, settle all remaining payments (except the extracted payment orders) simultaneously on the PM accounts of the TARGET2 participants concerned.
+
+    When extracting payment orders, the ECB shall start from the TARGET2 participant’s PM account with the highest negative total liquidity position and from the payment order at the end of the queue with the lowest priority. The selection process shall only run for a short time, to be determined by the ECB at its discretion.
+  - ((c)) Under Algorithm 3 (‘multiple’) the ECB shall:
+    - ((i)) compare pairs of TARGET2 participants’ PM accounts to determine whether queued payment orders can be settled within the available liquidity of the two TARGET2 participants’ PM accounts concerned and within the limits set by them (by starting from the pair of PM accounts with the smallest difference between the payment orders addressed to each other), and the CB(s) involved shall book those payments simultaneously on the two TARGET2 participants’ PM accounts; and
+    - ((ii)) if, in relation to a pair of PM accounts as described under point (i), liquidity is insufficient to fund the bilateral position, extract single payment orders until there is sufficient liquidity. In this case the CB(s) involved shall settle the remaining payments, except the extracted ones, simultaneously on the two TARGET2 participants’ PM accounts.
+
+    After performing the checks specified under subparagraphs (i) to (ii), the ECB shall check the multilateral settlement positions (between a participant’s PM account and other TARGET2 participants’ PM accounts in relation to which a multilateral limit has been set). For this purpose, the procedure described under subparagraphs (i) to (ii) shall apply mutatis mutandis.
+  - ((d)) Under Algorithm 4 (‘partial plus ancillary system settlement’) the ECB shall follow the same procedure as for Algorithm 2, but without extracting payment orders in relation to the settlement of an ancillary system (which settles on a simultaneous multilateral basis).
+  - ((e)) Under Algorithm 5 (‘ancillary system settlement via sub-accounts’) the ECB shall follow the same procedure as for Algorithm 1, subject to the modification that the ECB shall start Algorithm 5 via the Ancillary System Interface and shall only check whether sufficient funds are available on participants’ sub-accounts. Moreover, no limits and reservations shall be taken into account. Algorithm 5 shall also run during night-time settlement.
+- ((4)) Payment orders entered into the entry disposition after the start of any of algorithms 1 to 4 may nevertheless be settled immediately in the entry disposition if the positions and limits of the TARGET2 participants’ PM accounts concerned are compatible with both the settlement of these payment orders and the settlement of payment orders in the current optimisation procedure. However, two algorithms shall not run simultaneously.
+- ((5)) During daytime processing the algorithms shall run sequentially. As long as there is no pending simultaneous multilateral settlement of an ancillary system, the sequence shall be as follows:
+  - ((a)) algorithm 1,
+  - ((b)) if algorithm 1 fails, then algorithm 2,
+  - ((c)) if algorithm 2 fails, then algorithm 3, or if algorithm 2 succeeds, repeat algorithm 1.
+
+  When simultaneous multilateral settlement (‘procedure 5’) in relation to an ancillary system is pending, Algorithm 4 shall run.
+- ((6)) The algorithms shall run flexibly by setting a pre-defined time lag between the application of different algorithms to ensure a minimum interval between the running of two algorithms. The time sequence shall be automatically controlled. Manual intervention shall be possible.
+- ((7)) While included in a running algorithm, a payment order shall not be reordered (change of the position in a queue) or revoked. Requests for reordering or revocation of a payment order shall be queued until the algorithm is complete. If the payment order concerned is settled while the algorithm is running, any request to reorder or revoke shall be rejected. If the payment order is not settled, the participant’s requests shall be taken into account immediately.
+
+8\.
+
+Use of the ICM
+
+- ((1)) The ICM may be used for obtaining information and managing liquidity. SWIFT’s Secure IP Network (SIPN) shall be the underlying technical communications network for exchanging information and running control measures.
+- ((2)) With the exception of warehoused payment orders and static data information, only data in relation to the current business day shall be available via the ICM. The screens shall be offered in English only.
+- ((3)) Information shall be provided in ‘pull’ mode, which means that each participant has to ask to be provided with information.
+- ((4)) The following modes shall be available for using the ICM:
+  - ((a)) *Application-to-application mode (A2A)*
+
+    In A2A, information and messages are transferred between the PM and the participant’s internal application. The participant therefore has to ensure that an appropriate application is available for the exchange of XML messages (requests and responses) with the ICM via a standardised interface. Further details are contained in the ICM User Handbook and in Book 4 of the UDFS.
+  - ((b)) *User-to-application mode (U2A)*
+
+    U2A permits direct communication between a participant and the ICM. The information is displayed in a browser running on a PC system (SWIFT Alliance WebStation or another interface, as may be required by SWIFT). For U2A access the IT infrastructure has to be able to support cookies and JavaScript. Further details are described in the ICM User Handbook.
+- ((5)) Each participant shall have at least one SWIFT Alliance WebStation, or another interface, as may be required by SWIFT, to have access to the ICM via U2A.
+- ((6)) Access rights to the ICM shall be granted by using SWIFT’s ‘Role Based Access Control’. The SWIFT ‘Non Repudiation of Emission’ (NRE) service, which may be used by participants, allows the recipient of an XML message to prove that such message has not been altered.
+- ((7)) If a participant has technical problems and is unable to submit any payment order, it may generate preformatted backup liquidity redistribution and backup contingency payments by using the ICM. The ECB shall open such functionality upon request of the participant.
+- ((8)) Participants may also use the ICM to transfer liquidity:
+  - ((a)) from their PM account to their account outside the PM;
+  - ((b)) between the PM account and the participant’s sub-accounts; and *(affected by repeal, see note)*[^c000025]
+  - ((c)) from the PM account to the technical account managed by the ancillary system using settlement procedure 6 real-time;
+  - ((d)) by means of a PM to T2S DCA liquidity transfer order or, when the ICM is used in combination with the T2S value added services, a T2S DCA to PM liquidity transfer order; and
+  - ((e)) by means of a PM to TIPS DCA liquidity transfer order or a TIPS DCA to PM liquidity transfer order.
+
+9\.
+
+The UDFS and the ICM User Handbook
+
+Further details and examples explaining the above rules are contained in the UDFS and the ICM User Handbook, as amended from time to time and published on the ECB’s website in English.
+
+Appendix II
+
+TARGET2 COMPENSATION SCHEME
+
+1\.
+
+General principles
+
+- ((a)) If there is a technical malfunction of TARGET2, direct participants may submit claims for compensation in accordance with the TARGET2 compensation scheme laid down in this Appendix.
+- ((b)) Unless otherwise decided by the ECB's Governing Council, the TARGET2 compensation scheme shall not apply if the technical malfunction of TARGET2 arises out of external events beyond the reasonable control of the CBs concerned or as a result of acts or omissions by third parties.
+- ((c)) Compensation under the TARGET2 compensation scheme shall be the only compensation procedure offered in the event of a technical malfunction of TARGET2. Participants may, however, use other legal means to claim for losses. If a participant accepts a compensation offer under the TARGET2 compensation scheme, this shall constitute the participant's irrevocable agreement that it thereby waives all claims in relation to the payment orders concerning which it accepts compensation (including any claims for consequential loss) it may have against any CB, and that the receipt by it of the corresponding compensation payment constitutes full and final settlement of all such claims. The participant shall indemnify the CBs concerned, up to a maximum of the amount received under the TARGET2 compensation scheme, in respect of any further claims which are raised by any other participant or any other third party in relation to the payment order or payment concerned.
+- ((d)) The making of a compensation offer shall not constitute an admission of liability by the ECB or any other CB in respect of a technical malfunction of TARGET2.
+
+2\.
+
+Conditions for compensation offers
+
+- ((a)) A payer may submit a claim for an administration fee and interest compensation if, due to a technical malfunction of TARGET2, a payment order was not settled on the business day on which it was accepted;
+- ((b)) A payee may submit a claim for an administration fee if due to a technical malfunction of TARGET2 it did not receive a payment that it was expecting to receive on a particular business day. The payee may also submit a claim for interest compensation if one or more of the following conditions are met:
+  - ((i)) in the case of participants that have access to the marginal lending facility: due to a technical malfunction of TARGET2, a payee had recourse to the marginal lending facility; and/or
+  - ((ii)) in the case of all participants: it was technically impossible to have recourse to the money market or such refinancing was impossible on other, objectively reasonable grounds.
+
+3\.
+
+Calculation of compensation
+
+- ((a)) With respect to a compensation offer for a payer:
+  - ((i)) the administration fee shall be EUR 50 for the first non-settled payment order, EUR 25 for each of the next four such payment orders and EUR 12,5 for each further such payment order. The administration fee shall be calculated separately in relation to each payee;
+  - ((ii)) interest compensation shall be determined by applying a reference rate to be fixed from day to day. This reference rate shall be the lower of the euro overnight index average (EONIA) rate and the marginal lending rate. The reference rate shall be applied to the amount of the payment order not settled as a result of the technical malfunction of TARGET2 for each day in the period from the date of the actual or, in relation to payment orders referred to in paragraph 2(b)(ii), intended submission of the payment order until the date on which the payment order was or could have been successfully settled. Any interest or charges resulting from the placing of any non-settled payment orders on deposit with the Eurosystem shall be deducted from, or charged to, the amount of any compensation, as the case may be; and
+  - ((iii)) no interest compensation shall be payable if and in so far as funds resulting from non-settled payment orders were placed in the market or used to fulfil minimum reserve requirements.
+- ((b)) With respect to a compensation offer for a payee:
+  - ((i)) the administration fee shall be EUR 50 for the first non-settled payment order, EUR 25 for each of the next four such payment orders and EUR 12,5 for each further such payment order. The administration fee shall be calculated separately in relation to each payer;
+  - ((ii)) the method set out in subparagraph (a)(ii) for calculating interest compensation shall apply except that interest compensation shall be payable at a rate equal to the difference between the marginal lending rate and the reference rate, and shall be calculated on the amount of any recourse to the marginal lending facility occurring as a result of the technical malfunction of TARGET2.
+
+4\.
+
+Procedural rules
+
+- ((a)) A claim for compensation shall be submitted on the claim form available on the website of the ECB in English (see www.ecb.int). Payers shall submit a separate claim form in respect of each payee and payees shall submit a separate claim form in respect of each payer. Sufficient additional information and documents shall be provided to support the information indicated in the claim form. Only one claim may be submitted in relation to a specific payment or payment order.
+- ((b)) Within four weeks of a technical malfunction of TARGET2, participants shall submit their claim form(s) to the ECB. Any additional information and evidence requested by the ECB shall be supplied within two weeks of such request being made.
+- ((c)) Unless otherwise decided by the ECB's Governing Council and communicated to the participants, all received claims shall be assessed no later than 14 weeks after the technical malfunction of TARGET2 occurs.
+- ((d)) The ECB shall communicate the result of the assessment referred to in subparagraph (c) to the relevant participants. If the assessment entails a compensation offer, the participants concerned shall, within four weeks of the communication of such offer, either accept or reject it, in respect of each payment or payment order comprised within each claim, by signing a standard letter of acceptance (in the form available on the website of the ECB (see www.ecb.int). If such letter has not been received by the ECB within four weeks, the participants concerned shall be deemed to have rejected the compensation offer.
+- ((e)) The ECB shall make compensation payments on receipt of a participant's letter of acceptance of compensation. No interest shall be payable on any compensation payment.
+
+Appendix III
+
+TERMS OF REFERENCE FOR CAPACITY AND COUNTRY OPINIONS
+
+Terms of reference for capacity opinions for participants in TARGET2
+
+The European Central Bank
+
+Kaiserstrasse 29
+
+D-60311 Frankfurt am Main
+
+Germany
+
+**Participation in TARGET2-ECB**
+
+\[location\], \[date\]
+
+Dear Sir or Madam,
+
+We have been asked to provide this Opinion as \[in-house or external\] legal advisers to \[specify name of Participant or branch of Participant\] in respect of issues arising under the laws of \[jurisdiction in which the Participant is established; hereinafter the ‘jurisdiction’\] in connection with the participation of \[specify name of Participant\] (hereinafter the ‘Participant’) in TARGET2-ECB (hereinafter the ‘System’).
+
+This Opinion is confined to the laws of \[jurisdiction\] as they exist as on the date of this Opinion. We have made no investigation of the laws of any other jurisdiction as a basis for this Opinion, and do not express or imply any opinion in this regard. Each of the statements and opinions presented below applies with equal accuracy and validity under the laws of \[jurisdiction\], whether or not the Participant acts through its head office or one or more branches established inside or outside of \[jurisdiction\] in submitting payment orders and receiving payments.
+
+I.
+
+DOCUMENTS EXAMINED
+
+For the purposes of this Opinion, we have examined:
+
+- ((1)) a certified copy of the \[specify relevant constitutional document(s)\] of the Participant such as is/are in effect on the date hereof;
+- ((2)) \[if applicable\] an extract from the \[specify relevant company register\] and \[if applicable\] \[register of credit institutions or analogous register\];
+- ((3)) \[to the extent applicable\] a copy of the Participant's licence or other proof of authorisation to provide banking, investment, funds transfer or other financial services in \[jurisdiction\];
+- ((4)) \[if applicable\] a copy of a resolution adopted by the board of directors or the relevant governing body of the Participant on \[insert date\], \[insert year\], evidencing the Participant's agreement to adhere to the System Documents, as defined below; and
+- ((5)) \[specify all powers of attorney and other documents constituting or evidencing the requisite power of the person or persons signing the relevant System Documents (as defined below) on behalf of the Participant\];
+
+and all other documents relating to the Participant's constitution, powers, and authorisations necessary or appropriate for the provision of this Opinion (hereinafter the ‘Participant Documents’).
+
+For the purposes of this Opinion, we have also examined:
+
+- ((1)) the terms and conditions of TARGET2-ECB dated \[insert date\] (hereinafter the ‘Rules’); and
+- ((2)) \[…\].
+
+The Rules and the \[…\] shall be referred to hereinafter as the ‘System Documents’ (and collectively with the Participant Documents as the ‘Documents’).
+
+II.
+
+ASSUMPTIONS
+
+For the purposes of this Opinion we have assumed in relation to the Documents that:
+
+- ((1)) the System Documents with which we have been provided are originals or true copies;
+- ((2)) the terms of the System Documents and the rights and obligations created by them are valid and legally binding under the laws of the Federal Republic of Germany by which they are expressed to be governed, and the choice of the laws of the Federal Republic of Germany to govern the System Documents is recognised by the laws of the Federal Republic of Germany;
+- ((3)) the Participant Documents are within the capacity and power of and have been validly authorised, adopted or executed and, where necessary, delivered by the relevant parties; and
+- ((4)) the Participant Documents are binding on the parties to which they are addressed, and there has been no breach of any of their terms.
+
+III.
+
+OPINIONS REGARDING THE PARTICIPANT
+
+A.
+
+The Participant is a corporation duly established and registered or otherwise duly incorporated or organised under the laws of \[jurisdiction\].
+
+B.
+
+The Participant has all the requisite corporate powers to execute and perform the rights and obligations under the System Documents to which it is party.
+
+C.
+
+The adoption or execution and the performance by the Participant of the rights and obligations under the System Documents to which the Participant is party will not in any way breach any provision of the laws or regulations of \[jurisdiction\] applicable to the Participant or the Participant Documents.
+
+D.
+
+No additional authorisations, approvals, consents, filings, registrations, notarisations or other certifications of or with any court or governmental, judicial or public authority that is competent in \[jurisdiction\] are required by the Participant in connection with the adoption, validity or enforceability of any of the System Documents or the execution or performance of the rights and obligations thereunder.
+
+E.
+
+The Participant has taken all necessary corporate action and other steps necessary under the laws of \[jurisdiction\] to ensure that its obligations under the System Documents are legal, valid and binding
+
+This Opinion is stated as of its date and is addressed solely to the ECB and the \[Participant\]. No other persons may rely on this Opinion, and the contents of this Opinion may not be disclosed to persons other than its intended recipients and their legal counsel without our prior written consent, with the exception of the national central banks of the European System of Central Banks \[and \[the national central bank/relevant regulatory authorities\] of \[jurisdiction\]\].
+
+Yours faithfully,
+
+\[signature\]
+
+Terms of reference for country opinions for non-EEA participants in TARGET2
+
+The European Central Bank
+
+Kaiserstrasse 29
+
+D-60311 Frankfurt am Main
+
+Germany
+
+**TARGET2-ECB**
+
+\[location\], \[date\]
+
+Dear Sir or Madam,
+
+We have been asked as \[external\] legal advisers to \[specify name of Participant or branch of Participant\] (the Participant) in respect of issues arising under the laws of \[jurisdiction in which the Participant is established; hereinafter the ‘jurisdiction’\] to provide this Opinion under the laws of \[jurisdiction\] in connection with the participation of the Participant in a system which is a component of TARGET2 (hereinafter the ‘System’). References herein to the laws of \[jurisdiction\] include all applicable regulations of \[jurisdiction\]. We express an opinion herein under the law of \[jurisdiction\], with particular regard to the Participant established outside the Federal Republic of Germany in relation to rights and obligations arising from participation in the System, as presented in the System Documents defined below.
+
+This Opinion is confined to the laws of \[jurisdiction\] as they exist on the date of this Opinion. We have made no investigation of the laws of any other jurisdiction as a basis for this Opinion, and do not express or imply any opinion in this regard. We have assumed that there is nothing in the laws of another jurisdiction which affects this Opinion.
+
+1\.
+
+DOCUMENTS EXAMINED
+
+For the purposes of this Opinion, we have examined the documents listed below and such other documents as we have deemed necessary or appropriate:
+
+- ((1)) the terms and conditions of TARGET2-ECB dated \[insert date\] (hereinafter the ‘Rules’); and
+- ((2)) any other document governing the System and/or the relationship between the Participant and other participants in the System, and between the participants in the System and the ECB.
+
+The Rules and the \[…\] shall be referred to hereinafter as the ‘System Documents’.
+
+2\.
+
+ASSUMPTIONS
+
+For the purposes of this Opinion we have assumed in relation to the System Documents that:
+
+- ((1)) the System Documents are within the capacity and power of and have been validly authorised, adopted or executed and, where necessary, delivered by the relevant parties;
+- ((2)) the terms of the System Documents and the rights and obligations created by them are valid and legally binding under the laws of the Federal Republic of Germany, by which they are expressed to be governed, and the choice of the laws of the Federal Republic of Germany to govern the System Documents is recognised by the laws of the Federal Republic of Germany;
+- ((3)) the participants in the System through which any payment orders are sent or payments are received, or through which any rights or obligations under the System Documents are executed or performed, are licensed to provide funds transfer services, in all relevant jurisdictions; and
+- ((4)) the documents submitted to us in copy or as specimens conform to the originals.
+
+3\.
+
+OPINION
+
+Based on and subject to the foregoing, and subject in each case to the points set out below, we are of the opinion that:
+
+3.1.
+
+Country-specific legal aspects \[to the extent applicable\]
+
+The following characteristics of the legislation of \[jurisdiction\] are consistent with and in no way set aside the obligations of the Participant arising out of the System Documents: \[list of country-specific legal aspects\].
+
+3.2.
+
+General insolvency and crisis management issues
+
+- *Types of insolvency and crisis management proceedings*
+  - The only types of insolvency proceedings (including composition or rehabilitation) which, for the purpose of this Opinion, shall include all proceedings in respect of the Participant’s assets or any branch it may have in \[jurisdiction\] to which the Participant may become subject in \[jurisdiction\], are the following: \[list proceedings in original language and English translation\] (together collectively referred to as ‘ Insolvency Proceedings ’ ).
+  - In addition to Insolvency Proceedings, the Participant, any of its assets, or any branch it may have in \[jurisdiction\] may become subject in \[jurisdiction\] to \[list any applicable moratorium, receivership, or any other proceedings as a result of which payments to and/or from the Participant may be suspended, or limitations can be imposed in relation to such payments, or similar proceedings, including crisis prevention and crisis management measures equivalent to those defined in Directive 2014/59/EU, in original language and English translation\] (hereinafter collectively referred to as ‘ Proceedings ’ ).
+- *Insolvency treaties*
+  - \[jurisdiction\] or certain political subdivisions within \[jurisdiction\], as specified, is/are party to the following insolvency treaties: \[specify, if applicable which have or may have an impact on this Opinion\].
+
+3.3.
+
+Enforceability of System Documents
+
+Subject to the points set out below, all provisions of the System Documents will be binding and enforceable in accordance with their terms under the laws of \[jurisdiction\], in particular in the event of the opening of any Insolvency Proceedings or Proceedings with respect to the Participant.
+
+In particular, we are of the opinion that:
+
+3.3.a
+
+Processing of payment orders
+
+The provisions on processing of payment orders \[list of sections\] of the Rules are valid and enforceable. In particular, all payment orders processed pursuant to such sections will be valid, binding and will be enforceable under the laws of \[jurisdiction\]. The provision of the Rules which specifies the precise point in time at which payment orders submitted by the Participant to the System become enforceable and irrevocable (Article 20 of the Rules) is valid, binding and enforceable under the laws of \[jurisdiction\].
+
+3.3.b
+
+Authority of the ECB to perform its functions
+
+The opening of Insolvency Proceedings or Proceedings in respect of the Participant will not affect the authority and powers of the ECB arising out of the System Documents. \[Specify \[to the extent applicable\] that: the same opinion is also applicable in respect of any other entity which provides the Participants with services directly and necessarily required for participating in the System (e.g. TARGET2 network service provider)\].
+
+3.3.c
+
+Remedies in the event of default
+
+\[Where applicable to the Participant, the provisions contained in Article 30 of the Rules regarding accelerated performance of claims which have not yet matured, the set-off of claims for using the deposits of the Participant, the enforcement of a pledge, suspension and termination of participation, claims for default interest, and termination of agreements and transactions (Articles 27-31 of the Rules) are valid and enforceable under the laws of \[jurisdiction\].\]
+
+3.3.d
+
+Suspension and termination
+
+Where applicable to the Participant, the provisions contained in Articles 27 and 28 of the Rules (in respect of suspension and termination of the Participant's participation in the System on the opening of Insolvency Proceedings or Proceedings or other events of default, as defined in the System Documents, or if the Participant represents any kind of systemic risk or has serious operational problems) are valid and enforceable under the laws of \[jurisdiction\].
+
+3.3.e
+
+Assignment of rights and obligations
+
+The rights and obligations of the Participant cannot be assigned, altered or otherwise transferred by the Participant to third parties without the prior written consent of the ECB.
+
+3.3.f
+
+Choice of governing law and jurisdiction
+
+The provisions contained in Articles 34 and 38 of the Rules, and in particular in respect of the governing law, the resolution of a dispute, competent courts, and service of process are valid and enforceable under the laws of \[jurisdiction\].
+
+3.4.
+
+Voidable preferences
+
+We are of the opinion that no obligation arising out of the System Documents, the performance thereof, or compliance therewith prior to the opening of any Insolvency Proceedings or Proceedings in respect of the Participant may be set aside in any such proceedings as a preference, voidable transaction or otherwise under the laws of \[jurisdiction\].
+
+In particular, and without limitation to the foregoing, we express this opinion in respect of any payment orders submitted by any participant in the System. In particular, we are of the opinion that the provisions of Article 20 of the Rules establishing the enforceability and irrevocability of payment orders will be valid and enforceable and that a payment order submitted by any participant and processed pursuant to Title IV of the Rules may not be set aside in any Insolvency Proceedings or Proceedings as a preference, voidable transaction or otherwise under the laws of \[jurisdiction\].
+
+3.5.
+
+Attachment
+
+If a creditor of the Participant seeks an attachment order (including any freezing order, order for seizure or any other public or private law procedure that is intended to protect the public interest or the rights of the Participant's creditors) — hereinafter referred to as an ‘Attachment’ — under the laws of \[jurisdiction\] from a court or governmental, judicial or public authority that is competent in \[jurisdiction\], we are of the opinion that \[insert the analysis and discussion\].
+
+3.6.
+
+Collateral \[if applicable\]
+
+3.6.a
+
+Assignment of rights or deposit of assets for collateral purposes, pledge and/or repo
+
+Assignments for collateral purposes will be valid and enforceable under the laws of \[jurisdiction\]. Specifically, the creation and enforcement of a pledge or repo under the Rules will be valid and enforceable under the laws of \[jurisdiction\].
+
+3.6.b
+
+Priority of assignees’, pledgees’ or repo purchasers’ interest over that of other claimants
+
+In the event of Insolvency Proceedings or Proceedings in respect of the Participant, the rights or assets assigned for collateral purposes, or pledged by the Participant in favour of the ECB or other participants in the System, will rank in priority of payment above the claims of all other creditors of the Participant and will not be subject to priority or preferential creditors.
+
+3.6.c
+
+Enforcing title to security
+
+Even in the event of Insolvency Proceedings or Proceedings in respect of the Participant, other participants in the System and the ECB as pledgees will still be free to enforce and collect the Participant's rights or assets through the action of the ECB pursuant to the Rules.
+
+3.6.d
+
+Form and registration requirements
+
+There are no form requirements for the assignment for collateral purposes of, or the creation and enforcement of a pledge or repo over the Participant's rights or assets and it is not necessary for the assignment for collateral purposes, pledge or repo, as applicable, or any particulars of such assignment, pledge or repo, as applicable, to be registered or filed with any court or governmental, judicial or public authority that is competent in \[jurisdiction\].
+
+3.7.
+
+Branches \[to the extent applicable\]
+
+3.7.a
+
+Opinion applies to action through branches
+
+Each of the statements and opinions presented above with regard to the Participant applies with equal accuracy and validity under the laws of \[jurisdiction\] in situations where the Participant acts through its one or more of its branches established outside \[jurisdiction\].
+
+3.7.b
+
+Conformity with law
+
+Neither the execution and performance of the rights and obligations under the System Documents nor the submission, transmission or receipt of payment orders by a branch of the Participant will in any respect breach the laws of \[jurisdiction\].
+
+3.7.c
+
+Required authorisations
+
+Neither the execution and performance of the rights and obligations under the System Documents nor the submission, transmission or receipt of payment orders by a branch of a Participant will require any additional authorisations, approvals, consents, filings, registrations, notarisations or other certifications of or with any court or governmental, judicial or public authority that is competent in \[jurisdiction\].
+
+This Opinion is stated as of its date and is addressed solely to the ECB and the \[Participant\]. No other persons may rely on this Opinion, and the contents of this Opinion may not be disclosed to persons other than its intended recipients and their legal counsel without our prior written consent, with the exception of the national central banks of the European System of Central Banks \[and \[the national central bank/relevant regulatory authorities\] of \[jurisdiction\]\].
+
+Yours faithfully,
+
+\[signature\]
+
+Appendix IV
+
+BUSINESS CONTINUITY AND CONTINGENCY PROCEDURE
+
+1\.
+
+General provisions
+
+- ((a)) This Appendix sets out the arrangements between the ECB and participants, or ancillary systems, if one or more components of the SSP or the telecommunications network fail or are affected by an abnormal external event, or if the failure affects any participant or ancillary system.
+- ((b)) All references to specific times in this Appendix are to the local time at the seat of the ECB, i.e. Central European Time (CET) [^f00012] .
+
+2\.
+
+Measures of business continuity and contingency processing
+
+- ((a)) In the event that an abnormal external event occurs and/or there is a failure of the SSP or the telecommunications network which affects the normal operation of TARGET2, the ECB shall be entitled to adopt business continuity and contingency processing measures.
+- ((b)) The following main business continuity and contingency processing measures shall be available in TARGET2:
+  - ((i)) relocating the operation of the SSP to an alternative site;
+  - ((ii)) changing the SSP's operating hours; and
+  - ((iii)) initiating contingency processing of very critical and critical payments, as defined in paragraph 6(c) and (d) respectively.
+- ((c)) In relation to business continuity and contingency processing measures, the ECB shall have full discretion regarding whether and which measures are adopted to settle payment orders.
+
+3\.
+
+Incident communication
+
+- ((a)) Information about the failure of the SSP and/or an abnormal external event shall be communicated to participants through the domestic communication channels, the ICM and T2IS. In particular, communications to participants shall include the following information:
+  - ((i)) a description of the event;
+  - ((ii)) the anticipated delay in processing (if known);
+  - ((iii)) information on the measures already taken; and
+  - ((iv)) the advice to participants.
+- ((b)) In addition, the ECB may notify participants of any other existing or anticipated event which has the potential to affect the normal operation of TARGET2.
+
+4\.
+
+Relocation the operation of the SSP to an alternative site
+
+- ((a)) In the event that any of the events referred to in paragraph 2(a) occurs, the operation of the SSP may be relocated to an alternative site, either within the same region or in another region.
+- ((b)) In the event that the operation of the SSP or the T2S Platform, as referred to in Annex II, is relocated from one region (Region 1) to another region (Region 2), the participants shall endeavour to reconcile their positions up to the point of the failure or the occurrence of the abnormal external events and provide to the ECB all relevant information in this respect.
+- ((c)) Where a[^c000026] PM to T2S DCA liquidity transfer order is debited on the participant's PM account on the SSP in Region 1, but, after reconciliation, is not shown as debited on the SSP in Region 2, the CB responsible for the participant shall debit the participant's PM account in Region 2 to return the participant's PM account balance to the level it had prior to the relocation.
+
+5\.
+
+Change of operating hours
+
+- ((a)) The daytime processing of TARGET2 may be extended or the opening time of a new business day may be delayed. During any extended operating time of TARGET2, payment orders shall be processed in accordance with the terms and conditions of TARGET2-ECB, subject to the modifications contained in this Appendix.
+- ((b)) Daytime processing may be extended and the closing time thereby delayed if an SSP failure has occurred during the day but has been resolved before 18.00. Such a closing time delay shall in normal circumstances not exceed two hours and shall be announced as early as possible to participants. If such a delay is announced before 16.50, the minimum period of one hour between the cut-off time for customer and interbank payment orders shall remain in place. Once such a delay is announced it may not be withdrawn.
+- ((c)) The closing time shall be delayed in cases where an SSP failure has occurred before 18:00 and has not been resolved by 18.00. The ECB shall immediately communicate the delay of closing time to participants.
+- ((d)) Upon recovery of the SSP, the following steps shall take place:
+  - ((i)) The ECB shall seek to settle all queued payments within one hour; this time is reduced to 30 minutes in the event that the SSP failure occurs at 17.30 or later (in cases where the SSP failure was ongoing at 18.00).
+  - ((ii)) Participants' final balances shall be established within one hour; this time shall be reduced to 30 minutes in the event that the SSP failure occurs at 17.30 or later, in cases where the SSP failure was ongoing at 18.00.
+  - ((iii)) At the cut-off time for interbank payments, the end-of-day processing, including recourse to the Eurosystem standing facilities shall take place.
+- ((e)) Ancillary systems that require liquidity in the early morning need to have established means to cope with cases where the daytime processing cannot be started in time due to an SSP failure on the previous day.
+
+6\.
+
+Contingency processing
+
+- ((a)) If the ECB deems it necessary to do so, it shall initiate the contingency processing of payment orders using the Contingency Solution of the SSP. In such cases, only a minimum service level shall be provided to participants. The ECB shall inform its participants of the start of contingency processing by any available means of communication.
+- ((b)) In contingency processing, payment orders shall be submitted by the participants and authorised by the ECB. In addition, the participants may submit files containing payment instructions, which may be uploaded into the Contingency Solution by the ECB.
+- ((c)) The following payments shall be considered as ‘very critical’ and the ECB shall use best efforts to process them in contingency situations:
+  - ((i)) CLS Bank International-related payments, with the exception of payments related to the CLS CCP service and, at the discretion of the Governing Council, the CLSNow service;
+  - ((ii)) end-of-day settlement of EURO1; and
+  - ((iii)) central counterparty margin calls.
+- ((d)) Payments required to avoid systemic risk shall be considered as ‘ critical ’ and the ECB may decide to initiate contingency processing in relation to them.
+- ((e)) Participants shall submit payment orders for contingency processing directly into the Contingency Solution and information to payees shall be provided through encrypted and authenticated email, as well as via authenticated fax Participants shall submit files which contain payment instructions to the ECB for uploading into the Contingency Solution and which authorise the ECB to do so. The ECB may, exceptionally, also manually input payments on behalf of participants. Information concerning account balances and debit and credit entries may be obtained via the ECB.
+- ((f)) Payment orders that have already been submitted to TARGET2-ECB, but are queued, may also undergo contingency processing. In such cases the ECB shall endeavour to avoid the double processing of payment orders, but the participants shall bear the risk of such double processing if it occurred.
+- ((g)) For contingency processing of payment orders, participants shall provide additional collateral. During contingency processing, incoming contingency payments may be used to fund outgoing contingency payments. For the purposes of contingency processing, participants' available liquidity may not be taken into account by the ECB.
+
+7\.
+
+Failures linked to participants or ancillary systems
+
+- ((a)) In the event that a participant has a problem that prevents it from settling payments in TARGET2 it shall be its responsibility to resolve the problem. In particular, a participant may use in-house solutions or the ICM functionality, i.e. backup liquidity redistribution and backup contingency payments (e.g. CLS, EURO1).
+- ((b)) If a participant decides to use the ICM functionality for making backup liquidity redistribution, the ECB shall, if the participant so requests, open this functionality via the ICM. If the participant so requests, the ECB shall transmit an ICM broadcast message to inform other participants about the participant’s use of backup liquidity redistribution. The participant shall be responsible for sending such backup liquidity redistribution exclusively to other participants with which it has bilaterally agreed on the use of such payments and for any further steps in relation to such payments.
+- ((c)) If the measures referred to in subparagraph (a) are exhausted or if they are inefficient, the participant may request support from the ECB.
+- ((d)) In the event that a failure affects an ancillary system, that ancillary system shall be responsible for resolving the failure. If the ancillary system so requests, the ECB may act on its behalf. The ECB shall have discretion to decide what support it gives to the ancillary system, including during the night-time operations of the ancillary system. The following contingency measures may be taken:
+  - ((i)) the ancillary system initiates clean payments (i.e. payments that are not linked to the underlying transaction) via the Participant Interface;
+  - ((ii)) the ECB creates and/or processes XML instructions/files on behalf of the ancillary system; and/or
+  - ((iii)) the ECB makes clean payments on behalf of the ancillary system.
+- ((e)) The detailed contingency measures with respect to ancillary systems shall be contained in the bilateral arrangements between the ECB and the relevant ancillary system.
+
+8\.
+
+Other provisions
+
+- ((a)) In the event that certain data are unavailable because one of the events referred to in paragraph 3(a) has occurred, the ECB is entitled to start or continue processing payment orders and/or operate TARGET2-ECB on the basis of the last available data, as determined by the ECB. If so requested by the ECB, participants and ancillary systems shall resubmit their FileAct/Interact messages or take any other action deemed appropriate by the ECB.
+- ((b)) In the event of a failure of the ECB, some or all of its technical functions in relation to TARGET2-ECB may be performed by other Eurosystem CBs or the operational team of the SSP .
+- ((c)) The ECB may require that the participants participate in regular or ad hoc testing of business continuity and contingency processing measures, training or any other preventative arrangements, as deemed necessary by the ECB. Any costs incurred by the participants as a result of such testing or other arrangements shall be borne solely by the participants.
+
+Appendix V
+
+OPERATING SCHEDULE
+
+1\.
+
+TARGET2 is open on all days, except Saturdays, Sundays, New Year’s Day, Good Friday and Easter Monday (according to the calendar applicable at the seat of the ECB), 1 May, Christmas Day and 26 December.
+
+2\.
+
+The reference time for the system is the local time at the seat of the ECB, i.e. CET.
+
+3\.
+
+The current business day is opened during the evening of the previous business day and operates to the following schedule:
+
+<table>
+<tfoot>
+<tr><td colspan="2">‘ Daytime operations ’ means daytime processing and end-of-day processing.</td></tr>
+<tr><td colspan="2">Ends 15 minutes later on the last day of the Eurosystem reserve maintenance period.</td></tr>
+<tr><td colspan="2">Starts 15 minutes later on the last day of the Eurosystem reserve maintenance period.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Time</th><th>Description</th></tr>
+<tr><td>6.45-7.00</td><td>Business window to prepare daytime operations</td></tr>
+<tr><td>7.00-18.00</td><td>Daytime processing</td></tr>
+<tr><td>17.00</td><td>Cut-off time for customer payments, i.e. payments where the originator and/or the beneficiary of a payment is not a direct or indirect participant as identified in the system by the use of an MT 103 or MT 103+ message</td></tr>
+<tr><td>18.00</td><td>Cut-off time for interbank payments, i.e. payments other than customer payments<br>Cut-off time for liquidity transfers between TARGET2 and TIPS</td></tr>
+<tr><td>Shortly after 18.00</td><td>Completion of last algorithms in TARGET2</td></tr>
+<tr><td>Upon completion of last algorithms</td><td>TARGET2 sends message to TIPS to initiate change of business day in TIPS</td></tr>
+<tr><td>Shortly after completion of last algorithms</td><td>End-of-day files (General Ledger) received from TIPS</td></tr>
+<tr><td>18.00-18.45</td><td>End-of-day processing</td></tr>
+<tr><td>18.15</td><td>General cut-off time for the use of standing facilities</td></tr>
+<tr><td>(Shortly after)<br>18.30</td><td>Data for the update of accounting systems are available to CBs</td></tr>
+<tr><td>18.45-19.30</td><td>Start-of-day processing (new business day)</td></tr>
+<tr><td>19.00 -19.30</td><td>Provision of liquidity on the PM account</td></tr>
+<tr><td>19.30</td><td>‘ Start-of-procedure ’ message and settlement of the standing orders to transfer liquidity from the PM accounts to the subaccounts/technical account (ancillary system-related settlement)<br>Start of liquidity transfers between TARGET2 and TIPS</td></tr>
+<tr><td>19.30 -22.00</td><td>Execution of additional liquidity transfers via the ICM for settlement procedure 6 real time; execution of additional liquidity transfers via the ICM before the ancillary system sends the ‘ start of cycle ’ messages for settlement procedure 6 interfaced; settlement period of night-time ancillary system operations (only for ancillary system settlement procedure 6 real-time and settlement procedure 6 interfaced)</td></tr>
+<tr><td>22.00-1.00</td><td>Technical maintenance window</td></tr>
+<tr><td>1.00-7.00</td><td>Settlement procedure of night-time ancillary system operations (only for ancillary system settlement procedure 6 real-time and settlement procedure 6 interfaced)<br>Liquidity transfers between TARGET2 and TIPS</td></tr>
+</tbody>
+</table>
+
+[^f00013][^f00014][^f00014][^f00015][^f00015][^f00015][^f00014][^f00015][^f00015]
+
+4\.
+
+The ICM is available for liquidity transfers from 19.30 [^f00016] until 18.00 the next day, except during the technical maintenance period from 22.00 until 1.00.
+
+5\.
+
+The operating hours may be changed in the event that business continuity measures are adopted in accordance with paragraph 5 of Appendix IV.
+
+6\.
+
+Up-to-date information on the SSP's operational status shall be available on the TARGET2 Information System (T2IS) on a dedicated webpage on the ECB's website. The information on the SSP's operational status on T2IS and the ECB's website shall only be updated during normal business hours.
+
+Appendix VI
+
+**FEE SCHEDULE AND INVOICING**
+
+**Fees for direct participants**
+
+1\.
+
+The monthly fee for the processing of payment orders in TARGET2-ECB for direct participants, depending on which option the direct participant has chosen, shall be either:
+
+- ((a)) EUR 150 per PM account plus a flat fee per transaction (debit entry) of EUR 0,80; or
+- ((b)) EUR 1 875 per PM account plus a fee per transaction (debit entry) determined as follows, based on the volume of transactions (number of processed items) per month:
+
+  | Band | From | To | Price (EUR) |
+  | --- | --- | --- | --- |
+  | 1 | 1 | 10 000 | 0,60 |
+  | 2 | 10 001 | 25 000 | 0,50 |
+  | 3 | 25 001 | 50 000 | 0,40 |
+  | 4 | 50 001 | 100 000 | 0,20 |
+  | 5 | Above 100 000 | — | 0,125 |
+
+  Liquidity transfers between a participant's PM account and its sub-accounts shall not be subject to a charge.
+
+  PM to T2S DCA liquidity transfer orders or PM to TIPS DCA liquidity transfer orders sent from a participant's PM account and T2S DCA to PM liquidity transfer orders or TIPS DCA to PM liquidity transfer orders received on a participant's PM account shall be charged according to the pricing option (a) or (b) above chosen for that PM account.
+
+2\.
+
+There shall be an additional monthly fee for direct participants who do not wish the BIC of their account to be published in the TARGET2 directory of EUR 30 per account.
+
+3\.
+
+The monthly fee for direct participants subscribing to the TARGET2 value-added services for T2S shall be EUR 50 for those participants that have opted for option (a) in paragraph 1, and EUR 625 for those participants that have opted for option (b) in paragraph 1.
+
+**Fees for Main PM account holders**
+
+4\.
+
+In addition to the fees set out in paragraphs 1 to 3 of this Appendix, a monthly fee of EUR 250 for each linked T2S DCA shall be charged to Main PM account holders.
+
+5\.
+
+The Main PM account holders shall be charged the following fees for T2S services connected with the linked T2S DCA(s) . These items shall be billed separately.
+
+| Tariff items | Price (eurocent) | Explanation |
+| --- | --- | --- |
+| *Settlement services* |  |  |
+| T2S DCA to T2S DCA liquidity transfer orders | 14,1 | per transfer |
+| Intra-balance movement (i.e. blocking, unblocking, reservation of liquidity etc.) | 9,4 | per transaction |
+| *Information services* |  |  |
+| A2A reports | 0,4 | Per business item in any A2A report generated |
+| A2A queries | 0,7 | Per queried business item in any A2A query generated |
+| U2A queries | 10 | Per executed search function |
+| U2A queries downloaded | 0,7 | Per queried business item in any U2A query generated and downloaded |
+| Messages bundled into a file | 0,4 | Per message in a file |
+| Transmissions | 1,2 | Per transmission |
+
+**Fees for Linked PM account holders**
+
+5a.
+
+The holder of the Linked PM account shall be charged the following fees for the TIPS service connected with the TIPS DCAs linked to that PM account.
+
+| Tariff items | Price (euro cent) | Explanation |
+| --- | --- | --- |
+| Settlement services |  |  |
+| Instant payment order | 0,20 | To be charged also for unsettled transactions |
+| Recall request | 0,00 |  |
+| Negative recall answer | 0,00 |  |
+| Positive recall answer | 0,20 | To be charged to the holder of the Linked PM account associated with the TIPS DCA to be credited (also for unsettled transactions) |
+
+5b.
+
+Up to the first ten million instant payment orders and positive recall answers, cumulatively, received by the TIPS Platform by the end of 2019, shall be free of charge. The ECB shall charge Linked PM account holders for any further instant payment orders and positive recall answers received by the TIPS Platform by the end of 2019, in the following year.
+
+**Invoicing**
+
+6\.
+
+In the case of direct participants, the following invoicing rules apply. The direct participant shall receive the relevant invoices for the previous month specifying the fees to be paid, no later than on the ninth business day of the following month. Payments shall be made no later than the 14th business day of that month to the account specified by the ECB or shall be debited from an account specified by the PM account holder.
+
+**Fee schedule and invoicing for ancillary systems**
+
+7\.
+
+An ancillary system using the ASI or the Participant Interface, irrespective of the number of any accounts it may hold with the ASCB and/or the SCB, shall be subject to a fee schedule consisting of the following elements:
+
+- ((a)) A fixed monthly fee of EUR 1 000 to be charged to each ancillary system (Fixed Fee I).
+- ((b)) A second monthly fixed fee of between EUR 417 and EUR 8 334 , in proportion to the underlying gross value of the ancillary system's euro cash settlement transactions (Fixed Fee II).
+
+  | Band | From (EUR million/day) | To (EUR million/day) | Annual fee (EUR) | Monthly fee (EUR) |
+  | --- | --- | --- | --- | --- |
+  | 1 | 0 | below 1 000 | 5 000 | 417 |
+  | 2 | 1 000 | below 2 500 | 10 000 | 833 |
+  | 3 | 2 500 | below 5 000 | 20 000 | 1 667 |
+  | 4 | 5 000 | below 10 000 | 30 000 | 2 500 |
+  | 5 | 10 000 | below 50 000 | 40 000 | 3 333 |
+  | 6 | 50 000 | below 500 000 | 50 000 | 4 167 |
+  | 7 | 500 000 and above | — | 100 000 | 8 334 |
+
+  The gross value of the ancillary system's euro cash settlement transactions shall be calculated by the ASCB once a year on the basis of such gross value during the previous year and the calculated gross value shall be applied for calculating the fee from 1 January of each calendar year. The gross value shall exclude transactions settled on T2S DCAs and TIPS DCAs .
+- ((c)) A transaction fee calculated on the same basis as the schedule established for PM account holders, in line with paragraph 1. The ancillary system may choose one of the two options: either to pay a flat EUR 0,80 fee per payment instruction (Option A) or to pay a fee calculated on a degressive basis (Option B), subject to the following modifications:
+  - ((i)) for Option B, the limits of the bands relating to volume of payment instructions are divided by two; and
+  - ((ii)) a monthly fixed fee of EUR 150 (under Option A) or EUR 1 875 (under Option B) shall be charged in addition to Fixed Fee I and Fixed Fee II.
+- ((d)) In addition to the fees set out in points (a) to (c), an ancillary system using the ASI or the Participant Interface shall also be subject to the following fees:
+  - ((i)) If the ancillary system makes use of the TARGET2 value-added services for T2S, the monthly fee for the use of the value added services shall be EUR 50 for those systems that have chosen option A and EUR 625 for those systems that have chosen option B. This fee shall be charged for each account held by the ancillary system that uses the services;
+  - ((ii)) If the ancillary system holds a Main PM account linked to one or more T2S DCAs , the monthly fee shall be EUR 250 for each linked T2S DCA ; and
+  - ((iii)) The ancillary system as Main PM account holder shall be charged the following fees for T2S services connected with the linked T2S DCA(s) . These items shall be billed separately:
+
+    | Tariff items | Price (eurocent) | Explanation |
+    | --- | --- | --- |
+    | *Settlement services* |  |  |
+    | T2S DCA to T2S DCA liquidity transfer orders | 9 | per transfer |
+    | Intra-balance movement (i.e. blocking, unblocking, reservation of liquidity etc.) | 6 | per transaction |
+    | *Information services* |  |  |
+    | A2A reports | 0,4 | Per business item in any A2A report generated |
+    | A2A queries | 0,7 | Per queried business item in any A2A query generated |
+    | U2A queries | 10 | Per executed search function |
+    | U2A queries downloaded | 0,7 | Per queried business item in any U2A query generated and downloaded |
+    | Messages bundled into a file | 0,4 | Per message in a file |
+    | Transmissions | 1,2 | Per transmission |
+  - ((iv)) The ancillary system as Linked PM account holder shall be charged the following fees for TIPS service connected with the linked TIPS DCA(s):
+
+    | Tariff items | Price (euro cent) | Explanation |
+    | --- | --- | --- |
+    | Settlement services |  |  |
+    | Instant payment order | 0,20 | To be charged also for unsettled transactions |
+    | Recall request | 0,00 |  |
+    | Negative recall answer | 0,00 |  |
+    | Positive recall answer | 0,20 | To be charged to the holder of the Linked PM account associated with the TIPS DCA to be credited (also for unsettled transactions) |
+
+    Up to the first ten million instant payment orders and positive recall answers, cumulatively, received by the TIPS Platform by the end of 2019, shall be free of charge. The ECB shall charge the ancillary system as Linked PM account holder for any further instant payment orders and positive recall answers received by the TIPS Platform by the end of 2019, in the following year.
+
+8\.
+
+Any fee payable in relation to a payment instruction submitted or payment received by an ancillary system, via either the Participant Interface or the ASI, shall be exclusively charged to this ancillary system. The Governing Council may establish more detailed rules for the determination of billable transactions settled via the ASI.
+
+9\.
+
+Each ancillary system shall receive an invoice from its ASCB for the previous month based on the fees referred to in subparagraph 1, no later than the ninth business day of the following month. Payments shall be made no later than the 14th business day of this month to the account specified by the ASCB or shall be debited from an account specified by the ancillary system.
+
+10\.
+
+For the purposes of paragraphs 7 to 9, each ancillary system that has been designated under Directive 98/26/EC shall be treated separately, even if two or more of them are operated by the same legal entity. The same rule shall apply to the ancillary systems that have not been designated under Directive 98/26/EC, in which case the ancillary systems shall be identified by reference to the following criteria: (a) a formal arrangement, based on a contractual or legislative instrument, e.g. an agreement among the participants and the system operator; (b) with multiple membership; (c) with common rules and standardised arrangements; and (d) for the clearing, netting and/or settlement of payments and/or securities between the participants.
+
+## Annotations
+
+[^c000004]: Textual amendment: Substituted by [Decision (EU) 2015/929 of the European Central Bank of 26 May 2015 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2015/22)](https://www.legislation.gov.uk/eudn/2015/22).
+
+[^c000001]: Textual amendment: Substituted by [Decision (EU) 2018/1625 of the European Central Bank of 8 October 2018 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2018/24)](https://www.legislation.gov.uk/eudn/2018/24).
+
+[^c000005]: Textual amendment: Substituted by [Decision of the European Central Bank of 2 November 2010 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2010/19) (2010/673/EU)](https://www.legislation.gov.uk/eudn/2010/19).
+
+[^c000006]: Textual amendment: Substituted by [Decision of the European Central Bank of 6 October 2009 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2009/22) (2009/768/EC)](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009D0022%2801%29).
+
+[^f00004]: Footnote: The Eurosystem's current policy for the location of infrastructure is set out in the following statements, which are available on the ECB's website at www.ecb.europa.eu: (a) the policy statement on euro payment and settlement systems located outside the euro area of[^c000001][^c000006] 3 November 1998 ; (b) the Eurosystem's policy line with regard to consolidation in central counterparty clearing of 27 September 2001 ; (c) the Eurosystem policy principles on the location and operation of infrastructures settling euro-denominated payment transactions of 19 July 2007 ; (d) the Eurosystem policy principles on the location and operation of infrastructures settling euro-denominated payment transactions: specification of ‘ legally and operationally located in the euro area ’ of 20 November 2008 ; (e) the Eurosystem oversight policy framework, revised version of July 2016.
+
+[^f00005]: Footnote: Guideline ECB/2012/27 of the European Central Bank of 5 December 2012 on a Trans-European Automated Real-time Gross settlement Express Transfer system (TARGET2) ( [OJ L 30, 30.1.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.030.01.0001.01.ENG) ).
+
+[^c000007]: Textual amendment: Deleted by [Decision of the European Central Bank of 6 October 2009 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2009/22) (2009/768/EC)](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009D0022%2801%29).
+
+[^f00007]: Footnote: Regulation (EU) No 575/2013 of the European Parliament and of the Council of[^c000004] 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 ( [OJ L 176, 27.6.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0001.01.ENG) ).
+
+[^c000008]: Textual amendment: Deleted by [Decision (EU) 2019/1848 of the European Central Bank of 29 October 2019 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2019/32)](https://www.legislation.gov.uk/eudn/2019/32).
+
+[^c000009]: Textual amendment: Inserted by [Decision (EU) 2019/1848 of the European Central Bank of 29 October 2019 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2019/32)](https://www.legislation.gov.uk/eudn/2019/32).
+
+[^c000010]: Textual amendment: Substituted by [Decision (EU) 2016/821 of the European Central Bank of 26 April 2016 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2016/9)](https://www.legislation.gov.uk/eudn/2016/9).
+
+[^c000011]: Textual amendment: Inserted by [Decision of the European Central Bank of 16 June 2014 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2014/27) (2014/418/EU)](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014D0027%2801%29).
+
+[^c000012]: Textual amendment: Inserted by [Decision (EU) 2015/929 of the European Central Bank of 26 May 2015 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2015/22)](https://www.legislation.gov.uk/eudn/2015/22).
+
+[^c000013]: Textual amendment: Inserted by [Decision of the European Central Bank of 11 December 2012 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2012/31) (2013/31/EU)](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012D0031%2801%29).
+
+[^c000014]: Textual amendment: Substituted by [Decision of the European Central Bank of 11 December 2012 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2012/31) (2013/31/EU)](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012D0031%2801%29).
+
+[^c000015]: Textual amendment: Substituted by [Decision (EU) 2019/1848 of the European Central Bank of 29 October 2019 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2019/32)](https://www.legislation.gov.uk/eudn/2019/32).
+
+[^c000016]: Textual amendment: Inserted by [Decision (EU) 2018/1625 of the European Central Bank of 8 October 2018 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2018/24)](https://www.legislation.gov.uk/eudn/2018/24).
+
+[^c000017]: Textual amendment: Substituted by [Decision of the European Central Bank of 15 November 2011 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2011/19) (2011/749/EU)](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0019%2801%29).
+
+[^f00008]: Footnote: [OJ L 332, 31.12.1993, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.332.01.0001.01.ENG)[^c000005] .
+
+[^f00009]: Footnote: [OJ L 166, 11.6.1998, p. 45](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.166.01.0045.01.ENG).
+
+[^c000018]: Textual amendment: Inserted by [Decision of the European Central Bank of 2 November 2010 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2010/19) (2010/673/EU)](https://www.legislation.gov.uk/eudn/2010/19).
+
+[^c000019]: Textual amendment: Substituted by [Decision (EU) 2017/2081 of the European Central Bank of 10 October 2017 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2017/30)](https://www.legislation.gov.uk/eudn/2017/30).
+
+[^c000020]: Textual amendment: Inserted by [Decision of the European Central Bank of 6 October 2009 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2009/22) (2009/768/EC)](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009D0022%2801%29).
+
+[^f00010]: Footnote: Directive 2014/59/EU of the European Parliament and of the Council of[^c000015] 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council ( [OJ L 173, 12.6.2014, p. 190](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0190.01.ENG) ).
+
+[^c000021]: Textual amendment: Substituted by [Decision of the European Central Bank of 16 June 2014 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2014/27) (2014/418/EU)](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014D0027%2801%29).
+
+[^f00011]: Footnote: Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council ( [OJ L 173, 12.6.2014, p. 190](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0190.01.ENG) ).
+
+[^c000022]: Textual amendment: Deleted by [Decision of the European Central Bank of 2 November 2010 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2010/19) (2010/673/EU)](https://www.legislation.gov.uk/eudn/2010/19).
+
+[^c000023]: Textual amendment: Deleted by [Decision (EU) 2016/821 of the European Central Bank of 26 April 2016 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2016/9)](https://www.legislation.gov.uk/eudn/2016/9).
+
+[^c000003]: Textual amendment: Inserted by [Decision (EU) 2017/2081 of the European Central Bank of 10 October 2017 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2017/30)](https://www.legislation.gov.uk/eudn/2017/30).
+
+[^c000024]: Textual amendment: Inserted by [Decision of the European Central Bank of 15 November 2011 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2011/19) (2011/749/EU)](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0019%2801%29).
+
+[^c000025]: Textual amendment: Deleted by [Decision (EU) 2015/929 of the European Central Bank of 26 May 2015 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2015/22)](https://www.legislation.gov.uk/eudn/2015/22).
+
+[^f00012]: Footnote: CET takes into account the change to Central European Summer Time.
+
+[^c000026]: Textual amendment: Inserted by [Decision (EU) 2016/821 of the European Central Bank of 26 April 2016 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2016/9)](https://www.legislation.gov.uk/eudn/2016/9).
+
+[^f00013]: Footnote: ‘ Daytime operations ’ means daytime processing and end-of-day processing.
+
+[^f00014]: Footnote: Ends 15 minutes later on the last day of the Eurosystem reserve maintenance period.
+
+[^f00015]: Footnote: Starts 15 minutes later on the last day of the Eurosystem reserve maintenance period.
+
+[^f00016]: Footnote: Starts 15 minutes later on the last day of the Eurosystem reserve maintenance period.

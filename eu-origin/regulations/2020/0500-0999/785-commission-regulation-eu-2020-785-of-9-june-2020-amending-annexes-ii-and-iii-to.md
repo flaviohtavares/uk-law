@@ -1,0 +1,503 @@
+---
+title: Commission Regulation (EU) 2020/785 of 9 June 2020 amending Annexes II and III to Regulation (EC) No 396/2005 of the European Parliament and of the Council as regards maximum residue levels for chromafenozide, fluometuron, pencycuron, sedaxane, tau-fluvalinate and triazoxide in or on certain products (Text with EEA relevance)
+id: eur/2020/785
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2020-06-09'
+text_date: '2020-06-09'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/785
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2020/785/pdfs/eur_20200785_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2020/785/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EU) 2020/785 of 9 June 2020 amending Annexes II and III to Regulation (EC) No 396/2005 of the European Parliament and of the Council as regards maximum residue levels for chromafenozide, fluometuron, pencycuron, sedaxane, tau-fluvalinate and triazoxide in or on certain products (Text with EEA relevance)
+
+> Text as at 2020-06-09.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EU) 2020/785
+
+of 9 June 2020
+
+amending Annexes II and III to Regulation (EC) No 396/2005 of the European Parliament and of the Council as regards maximum residue levels for chromafenozide, fluometuron, pencycuron, sedaxane, tau-fluvalinate and triazoxide in or on certain products
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive 91/414/EEC[^f00001], and in particular Article 14(1)(a) and Article 49(2) thereof,
+
+Whereas:
+
+- ((1)) For chromafenozide, fluometuron, pencycuron, sedaxane and tau-fluvalinate maximum residue levels (MRLs) were set in Part A of Annex III to Regulation (EC) No 396/2005. For triazoxide no MRLs were set in Regulation (EC) No 396/2005 and as this active substance is not included in Annex IV to that Regulation, the default value of 0,01 mg/kg laid down in Article 18(1)(b) of that Regulation applies.
+- ((2)) For chromafenozide the European Food Safety Authority (‘the Authority’), submitted a reasoned opinion on the review of the existing MRLs in accordance with Article 12(1) of Regulation (EC) No 396/2005[^f00002]. No uses are authorised and no import tolerances exist for chromafenozide in the Union. The Authority concluded that setting the MRL at the Limit of Determination (LOD) would provide a satisfactory level of protection for consumers in the Union. Therefore, MRLs should be set in Annex II to Regulation (EC) No 396/2005 at the specific LOD.
+- ((3)) For fluometuron the Authority submitted a reasoned opinion on the existing MRLs in accordance with Article 12(1) of Regulation (EC) No 396/2005[^f00003]. It recommended keeping the existing MRL for cotton seeds. No other authorisations exist for this substance. As there is no risk for consumers, the MRL for that product should be set in Annex II to Regulation (EC) No 396/2005 at the existing level.
+- ((4)) For pencycuron the Authority submitted a reasoned opinion on the existing MRLs in accordance with Article 12(1) of Regulation (EC) No 396/2005[^f00004]. It proposed to change the residue definition and concluded that concerning the MRLs for all commodities some information was not available and that further consideration by risk managers was required. As a risk for consumers cannot be excluded, MRLs should be set in Annex II to Regulation (EC) No 396/2005 at the specific LOD.
+- ((5)) For sedaxane the Authority submitted a reasoned opinion on the existing MRLs in accordance with Article 12(1) of Regulation (EC) No 396/2005[^f00005]. It proposed to change the residue definition and recommended keeping the existing MRLs. As there is no risk for consumers, MRLs should be set in Annex II to Regulation (EC) No 396/2005 at the existing level.
+- ((6)) For tau-fluvalinate the Authority submitted a reasoned opinion on the existing MRLs in accordance with Article 12(1) of Regulation (EC) No 396/2005[^f00006]. It proposed to change the residue definition and recommended lowering the MRLs for cherries (sweet), strawberries, beetroots, carrots, broccoli, beans (without pods), peas (without pods), sesame seeds, rapeseeds/canola seeds, cotton seeds, barley, oats, swine (muscle, fat, kidney), kidney (bovine, sheep, goat, equine), milk (cattle, sheep, goat, horse). For other products, the Authority recommended raising or keeping the existing MRLs. As there is no risk for consumers, the MRLs for those products should be set in Annex II to Regulation (EC) No 396/2005 at the existing level or the level identified by the Authority. It concluded that concerning the MRLs for cucumbers, poultry fat and poultry edible offals (other than liver and kidney) some information was not available and that further consideration by risk managers was required. These MRLs will be reviewed; the review will take into account the information available within two years from the publication of this Regulation.
+- ((7)) For triazoxide the Authority submitted a reasoned opinion on the existing MRLs in accordance with Article 12(1) of Regulation (EC) No 396/2005[^f00007]. It recommended lowering the MRLs for barley, oats, rye and wheat. No other authorisations exist for this substance. As there is no risk for consumers, the MRLs for those products should be set in Annex II to Regulation (EC) No 396/2005 at the specific LOD or the level identified by the Authority.
+- ((8)) As regards products on which the use of the plant protection product concerned is not authorised, and for which no import tolerances or Codex maximum residue limits (CXLs) exist, MRLs should be set at the specific LOD or the default MRL should apply, as provided for in Article 18(1)(b) of Regulation (EC) No 396/2005.
+- ((9)) The Commission consulted the European Union reference laboratories for residues of pesticides as regards the need to adapt certain limits of determination. As regards several substances, those laboratories concluded that for certain commodities technical development requires the setting of specific limits of determination.
+- ((10)) Based on the reasoned opinions of the Authority and taking into account the factors relevant to the matter under consideration, the appropriate modifications to the MRLs fulfil the requirements of Article 14(2) of Regulation (EC) No 396/2005.
+- ((11)) Through the World Trade Organisation, the trading partners of the Union were consulted on the new MRLs and their comments have been taken into account.
+- ((12)) Regulation (EC) No 396/2005 should therefore be amended accordingly.
+- ((13)) In order to allow for the normal marketing, processing and consumption of products, this Regulation should provide for a transitional arrangement for products which have been produced before the modification of the MRLs and for which information shows that a high level of consumer protection is maintained.
+- ((14)) A reasonable period should be allowed to elapse before the modified MRLs become applicable in order to permit Member States, third countries and food business operators to prepare themselves to meet the new requirements which will result from the modification of the MRLs.
+- ((15)) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Annexes II and III to Regulation (EC) No 396/2005 are amended in accordance with the Annex to this Regulation.
+
+**Article 2.** Regulation (EC) No 396/2005 as it stood before being amended by this Regulation shall continue to apply to products which were produced in the Union or imported into the Union before 6 January 2021.
+
+**Article 3.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 6 January 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 9 June 2020.
+
+*For the Commission*
+
+*The President*
+
+Ursula von der Leyen
+
+## ANNEX
+
+Annexes II and III to Regulation (EC) No 396/2005 are amended as follows:
+
+- ((1)) in Annex II, the following columns for chromafenozide, fluometuron, pencycuron, sedaxane, tau-fluvalinate and triazoxide are added:
+
+  > **Pesticide residues and maximum residue levels (mg/kg)**
+  >
+  > <table>
+  > <tfoot>
+  > <tr><td colspan="8">(*) Limit of analytical determination</td></tr>
+  > <tr><td colspan="8">(a) For the complete list of products of plant and animal origin to which MRLs apply, reference should be made to Annex I.</td></tr>
+  > <tr><td colspan="8">(F) = Fat soluble</td></tr>
+  > <tr><td colspan="8"><strong>Pencycuron (sum of pencycuron and pencycuron-PB-amine, expressed as pencycuron) (F) (R) (A)</strong></td></tr>
+  > <tr><td colspan="8">(A) The EU reference labs identified the reference standard for the pencycuron-PB-amine as commercially not available. When re-viewing the MRL, the Commission will take into account the commercial availability of the reference standard referred to in the first sentence by 16 June 2021, or, if that reference standard is not commercially available by that date, the unavailability of it.</td></tr>
+  > <tr><td colspan="8">(R) = The residue definition differs for the following combinations pesticide-code number:</td></tr>
+  > <tr><td colspan="8">Pencycuron - code 1000000: pencycuron (F)</td></tr>
+  > <tr><td colspan="8"><strong>Fluvalinate (sum of isomers) (F) resulting from the use of tau-fluvalinate</strong></td></tr>
+  > <tr><td colspan="8">(+) The European Food Safety Authority identified some information on residue trials as unavailable. When re-viewing the MRL, the Commission will take into account the information referred to in the first sentence, if it is submitted by 16 June 2022, or, if that information is not submitted by that date, the lack of it.<strong>0232010 Cucumbers</strong></td></tr>
+  > <tr><td colspan="8">(+) The European Food Safety Authority identified some information on livestock metabolism and feeding studies as unavailable. When re-viewing the MRL, the Commission will take into account the information referred to in the first sentence, if it is submitted by 16 June 2022, or, if that information is not submitted by that date, the lack of it.<strong>1016020 Fat</strong> <strong>1016050 Edible offals (other than liver and kidney)</strong></td></tr>
+  > </tfoot>
+  > <tbody>
+  > <tr><th>Code number</th><th>Groups and examples of individual products to which the MRLs apply (a)</th><th>Chromafenozide</th><th>Fluometuron</th><th>Pencycuron (sum of pencycuron and pencycuron-PB-amine, expressed as pencycuron) (F) (R) (A)</th><th>Sedaxane (sum of isomers)</th><th>Fluvalinate (sum of isomers) (F) resulting from the use of tau-fluvalinate</th><th>Triazoxide</th></tr>
+  > <tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th>(6)</th><th>(7)</th><th>(8)</th></tr>
+  > <tr><td>0100000</td><td><strong>FRUITS, FRESH or FROZEN; TREE NUTS</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td></td><td></td></tr>
+  > <tr><td>0110000</td><td><strong>Citrus fruits</strong></td><td></td><td></td><td></td><td></td><td>0,4</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0110010</td><td>Grapefruits</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0110020</td><td>Oranges</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0110030</td><td>Lemons</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0110040</td><td>Limes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0110050</td><td>Mandarins</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0110990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120000</td><td><strong>Tree nuts</strong></td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0120010</td><td>Almonds</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120020</td><td>Brazil nuts</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120030</td><td>Cashew nuts</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120040</td><td>Chestnuts</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120050</td><td>Coconuts</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120060</td><td>Hazelnuts/cobnuts</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120070</td><td>Macadamias</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120080</td><td>Pecans</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120090</td><td>Pine nut kernels</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120100</td><td>Pistachios</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120110</td><td>Walnuts</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0120990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0130000</td><td><strong>Pome fruits</strong></td><td></td><td></td><td></td><td></td><td>0,3</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0130010</td><td>Apples</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0130020</td><td>Pears</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0130030</td><td>Quinces</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0130040</td><td>Medlars</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0130050</td><td>Loquats/Japanese medlars</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0130990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0140000</td><td><strong>Stone fruits</strong></td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0140010</td><td>Apricots</td><td></td><td></td><td></td><td></td><td>0,3</td><td></td></tr>
+  > <tr><td>0140020</td><td>Cherries (sweet)</td><td></td><td></td><td></td><td></td><td><strong>0,4</strong></td><td></td></tr>
+  > <tr><td>0140030</td><td>Peaches</td><td></td><td></td><td></td><td></td><td>0,3</td><td></td></tr>
+  > <tr><td>0140040</td><td>Plums</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0140990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0150000</td><td><strong>Berries and small fruits</strong></td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0151000</td><td><strong>(a) grapes</strong></td><td></td><td></td><td></td><td></td><td>1</td><td></td></tr>
+  > <tr><td>0151010</td><td>Table grapes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0151020</td><td>Wine grapes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0152000</td><td><strong>(b) strawberries</strong></td><td></td><td></td><td></td><td></td><td><strong>0,3</strong></td><td></td></tr>
+  > <tr><td>0153000</td><td><strong>(c) cane fruits</strong></td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0153010</td><td>Blackberries</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0153020</td><td>Dewberries</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0153030</td><td>Raspberries (red and yellow)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0153990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0154000</td><td><strong>(d) other small fruits and berries</strong></td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0154010</td><td>Blueberries</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0154020</td><td>Cranberries</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0154030</td><td>Currants (black, red and white)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0154040</td><td>Gooseberries (green, red and yellow)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0154050</td><td>Rose hips</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0154060</td><td>Mulberries (black and white)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0154070</td><td>Azaroles/Mediterranean medlars</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0154080</td><td>Elderberries</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0154990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0160000</td><td><strong>Miscellaneous fruitswith</strong></td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0161000</td><td><strong>(a) edible peel</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0161010</td><td>Dates</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0161020</td><td>Figs</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0161030</td><td>Table olives</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0161040</td><td>Kumquats</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0161050</td><td>Carambolas</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0161060</td><td>Kaki/Japanese persimmons</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0161070</td><td>Jambuls/jambolans</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0161990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0162000</td><td><strong>(b) inedible peel, small</strong></td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0162010</td><td>Kiwi fruits (green, red, yellow)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0162020</td><td>Litchis/lychees</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0162030</td><td>Passionfruits/maracujas</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0162040</td><td>Prickly pears/cactus fruits</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0162050</td><td>Star apples/cainitos</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0162060</td><td>American persimmons/Virginia kaki</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0162990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0163000</td><td><strong>(c) inedible peel, large</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0163010</td><td>Avocados</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0163020</td><td>Bananas</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0163030</td><td>Mangoes</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0163040</td><td>Papayas</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0163050</td><td>Granate apples/pomegranates</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0163060</td><td>Cherimoyas</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0163070</td><td>Guavas</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0163080</td><td>Pineapples</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0163090</td><td>Breadfruits</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0163100</td><td>Durians</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0163110</td><td>Soursops/guanabanas</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0163990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0200000</td><td><strong>VEGETABLES, FRESH or FROZEN</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0210000</td><td><strong>Root and tuber vegetables</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td></td><td><strong>0,01(*)</strong></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0211000</td><td><strong>(a) potatoes</strong></td><td></td><td></td><td></td><td>0,02</td><td></td><td></td></tr>
+  > <tr><td>0212000</td><td><strong>(b) tropical root and tuber vegetables</strong></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td><td></td></tr>
+  > <tr><td>0212010</td><td>Cassava roots/manioc</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0212020</td><td>Sweet potatoes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0212030</td><td>Yams</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0212040</td><td>Arrowroots</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0212990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213000</td><td><strong>(c) other root and tuber vegetables except sugar beets</strong></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td><td></td></tr>
+  > <tr><td>0213010</td><td>Beetroots</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213020</td><td>Carrots</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213030</td><td>Celeriacs/turnip rooted celeries</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213040</td><td>Horseradishes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213050</td><td>Jerusalem artichokes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213060</td><td>Parsnips</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213070</td><td>Parsley roots/Hamburg roots parsley</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213080</td><td>Radishes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213090</td><td>Salsifies</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213100</td><td>Swedes/rutabagas</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213110</td><td>Turnips</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0213990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0220000</td><td><strong>Bulb vegetables</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0220010</td><td>Garlic</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0220020</td><td>Onions</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0220030</td><td>Shallots</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0220040</td><td>Spring onions/green onions and Welsh onions</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0220990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0230000</td><td><strong>Fruiting vegetables</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0231000</td><td><strong>(a) Solanaceae and Malvaceae</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0231010</td><td>Tomatoes</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0231020</td><td>Sweet peppers/bell peppers</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0231030</td><td>Aubergines/eggplants</td><td></td><td></td><td></td><td></td><td>0,15</td><td></td></tr>
+  > <tr><td>0231040</td><td>Okra/lady's fingers</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0231990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0232000</td><td><strong>(b) cucurbits with edible peel</strong></td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>0232010</td><td>Cucumbers</td><td></td><td></td><td></td><td></td><td><strong>(+)</strong></td><td></td></tr>
+  > <tr><td>0232020</td><td>Gherkins</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0232030</td><td>Courgettes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0232990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0233000</td><td><strong>(c) cucurbits with inedible peel</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0233010</td><td>Melons</td><td></td><td></td><td></td><td></td><td>0,09</td><td></td></tr>
+  > <tr><td>0233020</td><td>Pumpkins</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0233030</td><td>Watermelons</td><td></td><td></td><td></td><td></td><td><strong>0,09</strong></td><td></td></tr>
+  > <tr><td>0233990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0234000</td><td><strong>(d) sweet corn</strong></td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0239000</td><td><strong>(e) other fruiting vegetables</strong></td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0240000</td><td><strong>Brassica vegetables(excluding brassica roots and brassica baby leaf crops)</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0241000</td><td><strong>(a) flowering brassica</strong></td><td></td><td></td><td></td><td></td><td><strong>0,3</strong></td><td></td></tr>
+  > <tr><td>0241010</td><td>Broccoli</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0241020</td><td>Cauliflowers</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0241990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0242000</td><td><strong>(b) head brassica</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0242010</td><td>Brussels sprouts</td><td></td><td></td><td></td><td></td><td><strong>0,15</strong></td><td></td></tr>
+  > <tr><td>0242020</td><td>Head cabbages</td><td></td><td></td><td></td><td></td><td><strong>0,3</strong></td><td></td></tr>
+  > <tr><td>0242990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0243000</td><td><strong>(c) leafy brassica</strong></td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0243010</td><td>Chinese cabbages/pe-tsai</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0243020</td><td>Kales</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0243990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0244000</td><td><strong>(d) kohlrabies</strong></td><td></td><td></td><td></td><td></td><td><strong>0,08</strong></td><td></td></tr>
+  > <tr><td>0250000</td><td><strong>Leaf vegetables, herbs and edible flowers</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0251000</td><td><strong>(a) lettuces and salad plants</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,7</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0251010</td><td>Lamb's lettuces/corn salads</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0251020</td><td>Lettuces</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0251030</td><td>Escaroles/broad-leaved endives</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0251040</td><td>Cresses and other sprouts and shoots</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0251050</td><td>Land cresses</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0251060</td><td>Roman rocket/rucola</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0251070</td><td>Red mustards</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0251080</td><td>Baby leaf crops (including brassica species)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0251990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0252000</td><td><strong>(b) spinaches and similar leaves</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0252010</td><td>Spinaches</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0252020</td><td>Purslanes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0252030</td><td>Chards/beet leaves</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0252990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0253000</td><td><strong>(c) grape leaves and similar species</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0254000</td><td><strong>(d) watercresses</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0255000</td><td><strong>(e) witloofs/Belgian endives</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0256000</td><td><strong>(f) herbs and edible flowers</strong></td><td><strong>0,02(*)</strong></td><td><strong>0,02(*)</strong></td><td><strong>0,04(*)</strong></td><td><strong>0,02(*)</strong></td><td><strong>0,02(*)</strong></td><td><strong>0,002(*)</strong></td></tr>
+  > <tr><td>0256010</td><td>Chervil</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0256020</td><td>Chives</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0256030</td><td>Celery leaves</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0256040</td><td>Parsley</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0256050</td><td>Sage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0256060</td><td>Rosemary</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0256070</td><td>Thyme</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0256080</td><td>Basil and edible flowers</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0256090</td><td>Laurel/bay leaves</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0256100</td><td>Tarragon</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0256990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0260000</td><td><strong>Legume vegetables</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0260010</td><td>Beans (with pods)</td><td></td><td></td><td></td><td></td><td><strong>0,6</strong></td><td></td></tr>
+  > <tr><td>0260020</td><td>Beans (without pods)</td><td></td><td></td><td></td><td></td><td><strong>0,05</strong></td><td></td></tr>
+  > <tr><td>0260030</td><td>Peas (with pods)</td><td></td><td></td><td></td><td></td><td><strong>0,6</strong></td><td></td></tr>
+  > <tr><td>0260040</td><td>Peas (without pods)</td><td></td><td></td><td></td><td></td><td><strong>0,05</strong></td><td></td></tr>
+  > <tr><td>0260050</td><td>Lentils</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0260990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0270000</td><td><strong>Stem vegetables</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td></td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0270010</td><td>Asparagus</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0270020</td><td>Cardoons</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0270030</td><td>Celeries</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0270040</td><td>Florence fennels</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0270050</td><td>Globe artichokes</td><td></td><td></td><td></td><td></td><td>0,8</td><td></td></tr>
+  > <tr><td>0270060</td><td>Leeks</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0270070</td><td>Rhubarbs</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0270080</td><td>Bamboo shoots</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0270090</td><td>Palm hearts</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0270990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0280000</td><td><strong>Fungi, mosses and lichens</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0280010</td><td>Cultivated fungi</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0280020</td><td>Wild fungi</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0280990</td><td>Mosses and lichens</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0290000</td><td><strong>Algae and prokaryotes organisms</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0300000</td><td><strong>PULSES</strong></td><td>0,01(*)</td><td><strong>0,005(*)</strong></td><td><strong>0,02(*)</strong></td><td>0,01(*)</td><td><strong>0,01(*)</strong></td><td><strong>0,003(*)</strong></td></tr>
+  > <tr><td>0300010</td><td>Beans</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0300020</td><td>Lentils</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0300030</td><td>Peas</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0300040</td><td>Lupins/lupini beans</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0300990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0400000</td><td><strong>OILSEEDS AND OIL FRUITS</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0401000</td><td><strong>Oilseeds</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0401010</td><td>Linseeds</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>0401020</td><td>Peanuts/groundnuts</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0401030</td><td>Poppy seeds</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0401040</td><td>Sesame seeds</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0401050</td><td>Sunflower seeds</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0401060</td><td>Rapeseeds/canola seeds</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>0401070</td><td>Soyabeans</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0401080</td><td>Mustard seeds</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>0401090</td><td>Cotton seeds</td><td></td><td></td><td></td><td></td><td><strong>0,09</strong></td><td></td></tr>
+  > <tr><td>0401100</td><td>Pumpkin seeds</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>0401110</td><td>Safflower seeds</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>0401120</td><td>Borage seeds</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>0401130</td><td>Gold of pleasure seeds</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>0401140</td><td>Hemp seeds</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>0401150</td><td>Castor beans</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0401990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0402000</td><td><strong>Oil fruits</strong></td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0402010</td><td>Olives for oil production</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0402020</td><td>Oil palms kernels</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0402030</td><td>Oil palms fruits</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0402040</td><td>Kapok</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0402990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0500000</td><td><strong>CEREALS</strong></td><td>0,01(*)</td><td><strong>0,005(*)</strong></td><td><strong>0,02(*)</strong></td><td>0,01(*)</td><td></td><td><strong>0,003(*)</strong></td></tr>
+  > <tr><td>0500010</td><td>Barley</td><td></td><td></td><td></td><td></td><td><strong>0,4</strong></td><td></td></tr>
+  > <tr><td>0500020</td><td>Buckwheat and other pseudocereals</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0500030</td><td>Maize/corn</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0500040</td><td>Common millet/proso millet</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0500050</td><td>Oat</td><td></td><td></td><td></td><td></td><td><strong>0,4</strong></td><td></td></tr>
+  > <tr><td>0500060</td><td>Rice</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0500070</td><td>Rye</td><td></td><td></td><td></td><td></td><td>0,05</td><td></td></tr>
+  > <tr><td>0500080</td><td>Sorghum</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>0500090</td><td>Wheat</td><td></td><td></td><td></td><td></td><td>0,05</td><td></td></tr>
+  > <tr><td>0500990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>0600000</td><td><strong>TEAS, COFFEE, HERBAL INFUSIONS, COCOA AND CAROBS</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0610000</td><td><strong>Teas</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0620000</td><td><strong>Coffee beans</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0630000</td><td><strong>Herbal infusions from</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0631000</td><td><strong>(a) flowers</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0631010</td><td>Chamomile</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0631020</td><td>Hibiscus/roselle</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0631030</td><td>Rose</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0631040</td><td>Jasmine</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0631050</td><td>Lime/linden</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0631990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0632000</td><td><strong>(b) leaves and herbs</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0632010</td><td>Strawberry</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0632020</td><td>Rooibos</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0632030</td><td>Mate/maté</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0632990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0633000</td><td><strong>(c) roots</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0633010</td><td>Valerian</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0633020</td><td>Ginseng</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0633990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0639000</td><td><strong>(d) any other parts of the plant</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0640000</td><td><strong>Cocoa beans</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0650000</td><td><strong>Carobs/Saint John's breads</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0700000</td><td><strong>HOPS</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0800000</td><td><strong>SPICES</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0810000</td><td><strong>Seed spices</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0810010</td><td>Anise/aniseed</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0810020</td><td>Black caraway/black cumin</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0810030</td><td>Celery</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0810040</td><td>Coriander</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0810050</td><td>Cumin</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0810060</td><td>Dill</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0810070</td><td>Fennel</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0810080</td><td>Fenugreek</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0810090</td><td>Nutmeg</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0810990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0820000</td><td><strong>Fruit spices</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0820010</td><td>Allspice/pimento</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0820020</td><td>Sichuan pepper</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0820030</td><td>Caraway</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0820040</td><td>Cardamom</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0820050</td><td>Juniper berry</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0820060</td><td>Peppercorn (black, green and white)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0820070</td><td>Vanilla</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0820080</td><td>Tamarind</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0820990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0830000</td><td><strong>Bark spices</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0830010</td><td>Cinnamon</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0830990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0840000</td><td><strong>Root and rhizome spices</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0840010</td><td>Liquorice</td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0840020</td><td>Ginger (10)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0840030</td><td>Turmeric/curcuma</td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0840040</td><td>Horseradish (11)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0840990</td><td>Others (2)</td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0850000</td><td><strong>Bud spices</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0850010</td><td>Cloves</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0850020</td><td>Capers</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0850990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0860000</td><td><strong>Flower pistil spices</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0860010</td><td>Saffron</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0860990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0870000</td><td><strong>Aril spices</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,1(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,005(*)</strong></td></tr>
+  > <tr><td>0870010</td><td>Mace</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0870990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0900000</td><td><strong>SUGAR PLANTS</strong></td><td>0,01(*)</td><td>0,01(*)</td><td><strong>0,02(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,001(*)</strong></td></tr>
+  > <tr><td>0900010</td><td>Sugar beet roots</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0900020</td><td>Sugar canes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0900030</td><td>Chicory roots</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>0900990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1000000</td><td><strong>PRODUCTS OF ANIMAL ORIGIN -TERRESTRIAL ANIMALS</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1010000</td><td><strong>Commodities from</strong></td><td>0,01(*)</td><td><strong>0,005(*)</strong></td><td><strong>0,01(*)</strong></td><td><strong>0,01(*)</strong></td><td></td><td><strong>0,01(*)</strong></td></tr>
+  > <tr><td>1011000</td><td><strong>(a) swine</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1011010</td><td>Muscle</td><td></td><td></td><td></td><td></td><td><strong>0,015</strong></td><td></td></tr>
+  > <tr><td>1011020</td><td>Fat</td><td></td><td></td><td></td><td></td><td><strong>0,05</strong></td><td></td></tr>
+  > <tr><td>1011030</td><td>Liver</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1011040</td><td>Kidney</td><td></td><td></td><td></td><td></td><td><strong>0,01(*)</strong></td><td></td></tr>
+  > <tr><td>1011050</td><td>Edible offals (other than liver and kidney)</td><td></td><td></td><td></td><td></td><td><strong>0,05</strong></td><td></td></tr>
+  > <tr><td>1011990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1012000</td><td><strong>(b) bovine</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1012010</td><td>Muscle</td><td></td><td></td><td></td><td></td><td>0,05</td><td></td></tr>
+  > <tr><td>1012020</td><td>Fat</td><td></td><td></td><td></td><td></td><td>0,3</td><td></td></tr>
+  > <tr><td>1012030</td><td>Liver</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1012040</td><td>Kidney</td><td></td><td></td><td></td><td></td><td><strong>0,015</strong></td><td></td></tr>
+  > <tr><td>1012050</td><td>Edible offals (other than liver and kidney)</td><td></td><td></td><td></td><td></td><td>0,3</td><td></td></tr>
+  > <tr><td>1012990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1013000</td><td><strong>(c) sheep</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1013010</td><td>Muscle</td><td></td><td></td><td></td><td></td><td>0,05</td><td></td></tr>
+  > <tr><td>1013020</td><td>Fat</td><td></td><td></td><td></td><td></td><td>0,3</td><td></td></tr>
+  > <tr><td>1013030</td><td>Liver</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1013040</td><td>Kidney</td><td></td><td></td><td></td><td></td><td><strong>0,015</strong></td><td></td></tr>
+  > <tr><td>1013050</td><td>Edible offals (other than liver and kidney)</td><td></td><td></td><td></td><td></td><td>0,3</td><td></td></tr>
+  > <tr><td>1013990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1014000</td><td><strong>d) goat</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1014010</td><td>Muscle</td><td></td><td></td><td></td><td></td><td>0,05</td><td></td></tr>
+  > <tr><td>1014020</td><td>Fat</td><td></td><td></td><td></td><td></td><td>0,3</td><td></td></tr>
+  > <tr><td>1014030</td><td>Liver</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1014040</td><td>Kidney</td><td></td><td></td><td></td><td></td><td><strong>0,015</strong></td><td></td></tr>
+  > <tr><td>1014050</td><td>Edible offals (other than liver and kidney)</td><td></td><td></td><td></td><td></td><td>0,3</td><td></td></tr>
+  > <tr><td>1014990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1015000</td><td><strong>(e) equine</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1015010</td><td>Muscle</td><td></td><td></td><td></td><td></td><td>0,05</td><td></td></tr>
+  > <tr><td>1015020</td><td>Fat</td><td></td><td></td><td></td><td></td><td>0,3</td><td></td></tr>
+  > <tr><td>1015030</td><td>Liver</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1015040</td><td>Kidney</td><td></td><td></td><td></td><td></td><td><strong>0,015</strong></td><td></td></tr>
+  > <tr><td>1015050</td><td>Edible offals (other than liver and kidney)</td><td></td><td></td><td></td><td></td><td>0,3</td><td></td></tr>
+  > <tr><td>1015990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1016000</td><td><strong>(f) poultry</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1016010</td><td>Muscle</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1016020</td><td>Fat</td><td></td><td></td><td></td><td></td><td><strong>0,03 (+)</strong></td><td></td></tr>
+  > <tr><td>1016030</td><td>Liver</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1016040</td><td>Kidney</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1016050</td><td>Edible offals (other than liver and kidney)</td><td></td><td></td><td></td><td></td><td><strong>0,03 (+)</strong></td><td></td></tr>
+  > <tr><td>1016990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1017000</td><td><strong>(g) other farmed terrestrial animals</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1017010</td><td>Muscle</td><td></td><td></td><td></td><td></td><td><strong>0,05</strong></td><td></td></tr>
+  > <tr><td>1017020</td><td>Fat</td><td></td><td></td><td></td><td></td><td><strong>0,3</strong></td><td></td></tr>
+  > <tr><td>1017030</td><td>Liver</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1017040</td><td>Kidney</td><td></td><td></td><td></td><td></td><td><strong>0,015</strong></td><td></td></tr>
+  > <tr><td>1017050</td><td>Edible offals (other than liver and kidney)</td><td></td><td></td><td></td><td></td><td><strong>0,3</strong></td><td></td></tr>
+  > <tr><td>1017990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td>0,01(*)</td><td></td></tr>
+  > <tr><td>1020000</td><td><strong>Milk</strong></td><td>0,01(*)</td><td><strong>0,005(*)</strong></td><td><strong>0,01(*)</strong></td><td><strong>0,01(*)</strong></td><td></td><td><strong>0,01(*)</strong></td></tr>
+  > <tr><td>1020010</td><td>Cattle</td><td></td><td></td><td></td><td></td><td><strong>0,03</strong></td><td></td></tr>
+  > <tr><td>1020020</td><td>Sheep</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>1020030</td><td>Goat</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>1020040</td><td>Horse</td><td></td><td></td><td></td><td></td><td><strong>0,03</strong></td><td></td></tr>
+  > <tr><td>1020990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td><strong>0,02</strong></td><td></td></tr>
+  > <tr><td>1030000</td><td><strong>Birds eggs</strong></td><td>0,01(*)</td><td><strong>0,005(*)</strong></td><td><strong>0,01(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,01(*)</strong></td></tr>
+  > <tr><td>1030010</td><td>Chicken</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1030020</td><td>Duck</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1030030</td><td>Geese</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1030040</td><td>Quail</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1030990</td><td>Others (2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1040000</td><td><strong>Honey and other apiculture products (7)</strong></td><td>0,05(*)</td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td><strong>0,05(*)</strong></td><td>0,05(*)</td><td><strong>0,05(*)</strong></td></tr>
+  > <tr><td>1050000</td><td><strong>Amphibians and Reptiles</strong></td><td>0,01(*)</td><td><strong>0,005(*)</strong></td><td><strong>0,01(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,01(*)</strong></td></tr>
+  > <tr><td>1060000</td><td><strong>Terrestrial invertebrate animals</strong></td><td>0,01(*)</td><td><strong>0,005(*)</strong></td><td><strong>0,01(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,01(*)</strong></td></tr>
+  > <tr><td>1070000</td><td><strong>Wild terrestrial vertebrate animals</strong></td><td>0,01(*)</td><td><strong>0,005(*)</strong></td><td><strong>0,01(*)</strong></td><td><strong>0,01(*)</strong></td><td>0,01(*)</td><td><strong>0,01(*)</strong></td></tr>
+  > <tr><td>1100000</td><td><strong>PRODUCTS OF ANIMAL ORIGIN - FISH, FISHPRODUCTS AND ANY OTHER MARINE AND FRESHWATER FOOD PRODUCTS (8)</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1200000</td><td><strong>PRODUCTS OR PART OF PRODUCTS EXCLUSIVELY USED FOR ANIMAL FEED PRODUCTION (8)</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > <tr><td>1300000</td><td><strong>PROCESSED FOOD PRODUCTS (9)</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  > </tbody>
+  > </table>
+- ((2)) in Part A of Annex III, the columns for chromafenozide, fluometuron, pencycuron, sedaxane and tau-fluvalinate are deleted.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 70, 16.3.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.070.01.0001.01.ENG).
+
+[^f00002]: Footnote: European Food Safety Authority; Reasoned opinion on the review of the existing maximum residue levels for chromafenozide according to Article 12 of Regulation (EC) No 396/2005. *EFSA Journal* 2019;17(1):5533.
+
+[^f00003]: Footnote: European Food Safety Authority; Reasoned opinion on the review of the existing maximum residue levels for fluometuron according to Article 12 of Regulation (EC) No 396/2005. *EFSA Journal* 2019;17(1):5560.
+
+[^f00004]: Footnote: European Food Safety Authority; Reasoned opinion on the review of the existing maximum residue levels for pencycuron according to Article 12 of Regulation (EC) No 396/2005. *EFSA Journal* 2018;16(12):5518.
+
+[^f00005]: Footnote: European Food Safety Authority; Reasoned opinion on the review of the existing maximum residue levels for sedaxane according to Article 12 of Regulation (EC) No 396/2005. *EFSA Journal* 2019;17(1):5544.
+
+[^f00006]: Footnote: European Food Safety Authority; Reasoned opinion on the review of the existing maximum residue levels for tau-fluvalinate according to Article 12 of Regulation (EC) No 396/2005. *EFSA Journal* 2018;16(11):5475.
+
+[^f00007]: Footnote: European Food Safety Authority; Reasoned opinion on the review of the existing maximum residue levels for triazoxide according to Article 12 of Regulation (EC) No 396/2005. *EFSA Journal* 2019;17(1):5525.

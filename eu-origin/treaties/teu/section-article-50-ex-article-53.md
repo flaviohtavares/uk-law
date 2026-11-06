@@ -1,0 +1,23 @@
+---
+title: Consolidated version of the Treaty on European Union, section Article 50 (ex Article 53)
+act: Consolidated version of the Treaty on European Union
+section: Article 50 (ex Article 53)
+status: revised
+text_date: '2020-03-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eut/teu/section/Article 50 (ex Article 53)
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Consolidated version of the Treaty on European Union, section Article 50 (ex Article 53)
+
+> Text as at 2020-03-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 50 (ex Article 53). Applicability of the transitional provisions
+
+*Extent: E+W+S+N.I.*
+
+If and as long as there are Member States with a derogation, Articles 42 to 47 shall be applicable.

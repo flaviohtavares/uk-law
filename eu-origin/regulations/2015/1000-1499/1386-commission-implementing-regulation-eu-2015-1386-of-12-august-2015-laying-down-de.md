@@ -1,0 +1,538 @@
+---
+title: Commission Implementing Regulation (EU) 2015/1386 of 12 August 2015 laying down detailed rules implementing Regulation (EU) No 223/2014 of the European Parliament and of the Council as regards the models for the management declaration, the audit strategy, the audit opinion and the annual control report
+id: eur/2015/1386
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2015-08-12'
+text_date: '2015-08-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2015/1386
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2015/1386/pdfs/eur_20151386_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2015/1386/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) 2015/1386 of 12 August 2015 laying down detailed rules implementing Regulation (EU) No 223/2014 of the European Parliament and of the Council as regards the models for the management declaration, the audit strategy, the audit opinion and the annual control report
+
+> Text as at 2015-08-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Regulation (EU) 2015/1386
+
+of 12 August 2015
+
+laying down detailed rules implementing Regulation (EU) No 223/2014 of the European Parliament and of the Council as regards the models for the management declaration, the audit strategy, the audit opinion and the annual control report
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 223/2014 of the European Parliament and of the Council of 11 March 2014 on the Fund for European Aid to the Most Deprived[^f00001], and in particular Articles 32(10) and 34(6) thereof,
+
+After consulting the Committee for the Fund for European Aid for the Most Deprived,
+
+Whereas:
+
+(1)
+
+Commission Implementing Regulation (EU) 2015/341[^f00002] lays down provisions necessary for the submission of certain information to the Commission. In order to ensure implementation of the programmes financed by the Fund for European Aid to the Most Deprived (the ‘FEAD’), it is necessary to lay down further provisions for the application of Regulation (EU) No 223/2014. To facilitate a comprehensive view and the access to those provisions, those provisions should be set out in one implementing act.
+
+(2)
+
+To harmonise standards for the preparation and presentation of the management declaration for which a managing authority is responsible pursuant to point (e) of Article 32(4) of Regulation (EU) No 223/2014, it is necessary to set out uniform conditions for its content in the form of a standard model.
+
+(3)
+
+To harmonise standards for the preparation and presentation of the audit strategy, the audit opinion and the annual control report for which an audit authority is responsible pursuant to Article 34(4) and the first subparagraph of Article 34(5) of Regulation (EU) No 223/2014, a model should be provided setting out uniform conditions for the structure, and specifying the nature and the quality of the information to be used in their preparation.
+
+(4)
+
+In order to allow for the prompt application of the measures provided for in this Regulation, this Regulation should enter into force on the day following that of its publication in the *Official Journal of the European Union*,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1. Model for the management declaration
+
+The management declaration referred to in point (e) of Article 32(4) of Regulation (EU) No 223/2014 shall be submitted for each operational programme in accordance with the model set out in Annex I to this Regulation.
+
+## Article 2. Models for the audit strategy, the audit opinion and the annual control report
+
+1. The audit strategy referred to in Article 34(4) of Regulation (EU) No 223/2014 shall be prepared in accordance with the model set out in Annex II to this Regulation.
+
+2. The audit opinion referred to in point (a) of the first subparagraph of Article 34(5) of Regulation (EU) No 223/2014 shall be drawn up in accordance with the model set out in Annex III to this Regulation.
+
+3. The annual control report referred to in point (b) of the first subparagraph of Article 34(5) of Regulation (EU) No 223/2014 shall be drawn up in accordance with the model set out in Annex IV to this Regulation.
+
+## Article 3. Entry into force
+
+This Regulation shall enter into force on the day following its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 12 August 2015.
+
+*For the Commission*
+
+*The President*
+
+Jean-Claude Juncker
+
+## ANNEX I — Model for the management declaration
+
+I/We, the undersigned (*name(s), first name(s), title(s) or function(s)*), Head of the managing authority for the operational programme (*name of the operational programme, CCI*)
+
+based on the implementation of the (*name of operational programme*) during the accounting year ended 30 June (*year*),
+
+based on my/our own judgment and on all information available to me/us at the date of the accounts submitted to the Commission, including the results from administrative and on-the-spot verifications carried out in accordance with Article 32(5) of Regulation (EU) No 223/2014 and from audits and controls in relation to the expenditure included in the payment applications submitted to the Commission in respect of the accounting year ended 30 June … (year),
+
+and taking into account my/our obligations under Regulation (EU) No 223/2014 and in particular Article 32 thereof,
+
+hereby declare that:
+
+- the information in the accounts is properly presented, complete and accurate in accordance with Article 49(1) of Regulation (EU) No 223/2014,
+- the expenditure entered in the accounts was used for its intended purpose, as defined in Regulation (EU) No 223/2014, and in accordance with the principle of sound financial management,
+- the management and control system put in place for the operational programme gives the necessary guarantees concerning the legality and regularity of the underlying transactions, in conformity with the applicable law.
+
+I/We confirm that irregularities identified in final audit or control reports in relation to the accounting year and reported in the annual summary attached to this declaration as required under Article 32(4)(e) of Regulation (EU) No 223/2014, have been appropriately treated in the accounts. Where necessary, adequate follow-up was given to deficiencies in the management and control system reported in those reports or is on-going as regards the following required remedial actions: … (if appropriate indicate which remedial actions are still on-going, at the date of signing the declaration).
+
+I/We also confirm that expenditure which is subject to an ongoing assessment of its legality and regularity has been excluded from the accounts pending conclusion of the assessment, for possible inclusion in an interim payment application in a subsequent accounting year as provided for in Article 49(2) of Regulation (EU) No 223/2014.
+
+Furthermore, I/we confirm the reliability of data relating to indicators \[, (for OP I only) including, where relevant, data based on informed estimations in accordance with Commission Delegated Regulation (EU) No 1255/2014[^f00003]\]/\[(for OP II only) and data relating to the progress of the operational programme, required under Article 32(2)(a) of Regulation (EU) No 223/2014\]. I/we confirm that effective and proportionate anti-fraud measures under Article 32(4)(c) of Regulation (EU) No 223/2014 are in place and take account of the risks identified and that I/we am/are not aware of any undisclosed matter related to the implementation of the operational programme which could be damaging to the reputation of the Fund for European Aid to the Most Deprived.
+
+Date
+
+Signature(s)
+
+## ANNEX II — Model for the audit strategy
+
+1\.
+
+**INTRODUCTION**
+
+This section shall include the following information:
+
+- Identification of the operational programme(s) (title(s) and CCI[^f00004]) and period covered by the audit strategy.
+- Identification of the audit authority responsible for drawing up, monitoring and updating the audit strategy and of any other bodies that have contributed to this document.
+- Reference to the status of the audit authority (national, regional or local public body) and the body in which it is located.
+- Reference to the mission statement, audit charter or national legislation (where applicable) setting out the functions and responsibilities of the audit authority and other bodies carrying out audits under its responsibility.
+- Confirmation by the audit authority that the bodies carrying out audits pursuant to Article 34(2) of Regulation (EU) No 223/2014 have the requisite functional independence (and organisational independence, where applicable under Article 31(5) of Regulation (EU) No 223/2014).
+
+2\.
+
+**RISK ASSESSMENT**
+
+This section shall include the following information:
+
+- Explanation of the risk assessment method followed.
+- Reference to internal procedures for updating the risk assessment.
+
+3\.
+
+**METHODOLOGY**
+
+This section shall include the following information:
+
+3.1.
+
+**Overview**
+
+- Reference to audit manuals or procedures containing the description of the main steps of the audit work, including the classification and treatment of the errors detected.
+- Reference to the internationally accepted audit standards that the audit authority shall take into account for its audit work, as established by Article 34(3) of Regulation (EU) No 223/2014.
+- Reference to the procedures in place for drawing up the control report and audit opinion to be submitted to the Commission in accordance with Article 34(5) of Regulation (EU) No 223/2014.
+
+3.2.
+
+**Audits on the functioning of management and control systems (system audits)**
+
+Indication of the bodies to be audited and the related key requirements in the context of system audits. Where applicable, reference to the audit body on which the audit authority relies to perform these audits.
+
+Indication of any system audits targeted to specific thematic areas, such as:
+
+- quality of the administrative and on-the-spot verifications referred to in Article 32(5) of Regulation (EU) No 223/2014, including in relation to the respect of public procurement rules, equal opportunities, reduction and prevention of food waste, and Union law on consumer product safety;
+- functioning and security of IT systems set up in accordance with Articles 28(d), 32(2)(d) and 33(d) of Regulation (EU) No 223/2014; and their connection with the IT system, referred to in Article 30(4) of Regulation (EU) No 223/2014 (‘SFC 2014’);
+- reliability of data relating to indicators and, for OP II, data relating to the progress of the operational programme in achieving its objectives provided by the managing authority under Article 32(2)(a) of Regulation (EU) No 223/2014;
+- reporting of withdrawals and recoveries;
+- implementation of effective and proportionate anti-fraud measures underpinned by a fraud risk assessment in line with Article 32(4)(c) of Regulation (EU) No 223/2014.
+
+3.3.
+
+**Audits of operations**
+
+Description of (or reference to internal document specifying) the sampling methodology to be used in line with Article 34(1) Regulation (EU) No 223/2014 and Article 6 of Commission Delegated Regulation (EU) No 532/2014[^f00005] and other specific procedures in place for audits of operations, namely related with the classification and treatment of the errors detected, including suspected fraud.
+
+3.4.
+
+**Audits of the accounts**
+
+Description of the audit approach for the audit of the accounts.
+
+3.5.
+
+**Verification of the management declaration**
+
+Reference to the internal procedures setting out the work involved in the verification of the assertions contained in the management declaration, for the purpose of the audit opinion.
+
+4\.
+
+**AUDIT WORK PLANNED**
+
+This section shall include the following information:
+
+- Description and justification of the audit priorities and specific objectives in relation to the current accounting year and the two subsequent accounting years, together with an explanation of the linkage of the risk assessment results to the audit work planned.
+- An indicative schedule of audit assignments in relation to the current accounting year and the two subsequent accounting years for system audits (including audits targeted to specific thematic areas), as follows:
+
+  | Authorities/Bodies or specific thematic areas to be audited | CCI | OP Title | Body responsible for auditing | Result of risk assessment | 20xxAudit objective and scope | 20xxAudit objective and scope | 20xxAudit objective and scope |
+  | --- | --- | --- | --- | --- | --- | --- | --- |
+  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |
+
+5\.
+
+**RESOURCES**
+
+This section shall include the following information:
+
+- Organisation chart of the audit authority and information on its relationship with any audit body that carries out audits as referred to in Article 34(2) of Regulation (EU) No 223/2014, where appropriate.
+- Indication of planned resources to be allocated in relation to the current accounting year and the two subsequent accounting years.
+
+## ANNEX III — Model for the audit opinion
+
+To the European Commission, Directorate-General …
+
+1\.
+
+**INTRODUCTION**
+
+I, the undersigned, representing the …\[name of the audit authority designated by Member State\], independent in the sense of Article 31(4) \[and (5), where applicable\] of Regulation (EU) No 223/2014, have audited the accounts for the accounting year started on 1 July … \[year\] and ended 30 June … \[year\][^f00006] and dated … \[date of the accounts submitted to the Commission\] (hereafter ‘the accounts’), the legality and regularity of the expenditure for which reimbursement has been requested from the Commission in reference to the accounting year (and included in the accounts), the functioning of the management and control system, and verified the management declaration, for the purposes of Article 59(5) of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council[^f00007]
+
+in relation to the operational programme …\[name of operational programme, CCI number\] (hereafter ‘the programme’),
+
+in order to issue an audit opinion in accordance with Article 34(5)(a) of Regulation (EU) No 223/2014.
+
+2\.
+
+**RESPONSIBILITIES OF THE MANAGING AND CERTIFYING AUTHORITIES**
+
+…\[name of the managing authority\], designated as the managing authority of the programme, and the …\[name of the certifying authority\], designated as the certifying authority of the programme, are responsible for ensuring a proper functioning of the management and control system with regard to the functions established by the Articles 32 and 33 of Regulation (EU) No 223/2014.
+
+In particular, it is responsibility of the …\[name of the certifying authority\], designated as the certifying authority of the programme, to draw up the accounts (in accordance with Article 49 of Regulation (EU) No 223/2014) and certify their completeness, accuracy and veracity, as provided for in Article 33(b) and (c) of Regulation (EU) No 223/2014.
+
+Moreover, in accordance with Article 33(c) of Regulation (EU) No 223/2014 it is the responsibility of the certifying authority to certify that the expenditure entered in the accounts complies with applicable law and has been incurred in respect of operations selected for funding in accordance with the criteria applicable to the programme and complying with applicable law[^f00008].
+
+3\.
+
+**RESPONSIBILITIES OF THE AUDIT AUTHORITY**
+
+As established by Article 34(5)(a) of Regulation (EU) No 223/2014, my responsibility is to independently express an opinion on whether the accounts give a true and fair view, whether expenditure for which reimbursement has been requested from the Commission and which are declared in the accounts is legal[^f00009] and regular, and whether the management and control system put in place functions properly. My responsibility is also to include in the opinion a statement as to whether the audit work puts in doubt the assertions made in the management declaration[^f00010].
+
+The audits in respect of the programme were carried out in accordance with the audit strategy and took account of internationally accepted audit standards. These standards require that the audit authority complies with ethical requirements, plans and performs the audit work in order to obtain reasonable assurance for the purpose of the audit opinion.
+
+An audit involves performing procedures to obtain sufficient appropriate evidence to support the opinion set out below. The procedures performed depend on the auditor's professional judgment, including assessing the risk of material non-compliance, whether due to fraud or error. The audit procedures performed are those I believe are appropriate in the circumstances.
+
+I believe that the audit evidence gathered is sufficient and appropriate to provide the basis for my opinion, \[*in case there are any scope limitation:*\] except those which are mentioned in section 4 ‘Scope limitation’.
+
+The main findings drawn from the audits in respect of the programme are reported in the attached annual control report pursuant to Article 34(5)(b) of Regulation (EU) No 223/2014.
+
+4\.
+
+**SCOPE LIMITATION**
+
+**Either**
+
+There were no limitations on the audit scope.
+
+**Or**
+
+The audit scope was limited by the following factors:
+
+- ((a)) …
+- ((b)) …
+- ((c)) ….
+
+\[Indicate any limitation on the audit scope, for example any lack of supporting documentation, cases under legal proceedings, and estimate under ‘Qualified opinion’ below, the amounts of expenditure and the Union contribution affected and the impact of the scope limitation on the audit opinion. Further explanations in this regard shall be provided in the annual control report, as appropriate.\]
+
+5\.
+
+**OPINION**
+
+**Either**
+
+*(Unqualified opinion)*
+
+In my opinion, and based on the audit work performed:
+
+- the accounts give a true and fair view, as established by Article 7(5) of Delegated Regulation (EU) No 532/2014;
+- the expenditure in the accounts for which reimbursement has been requested from the Commission is legal and regular,
+- the management and control system put in place functions properly.
+
+The audit work carried out does not put in doubt the assertions made in the management declaration.
+
+**Or**
+
+*(Qualified opinion)*
+
+In my opinion, and based on the audit work performed:
+
+- the accounts give a true and fair view, as established by Article 7(5) of Delegated Regulation (EU) No 532/2014;
+- the expenditure in the accounts for which reimbursement has been requested from the Commission is legal and regular;
+- the management and control system put in place functions properly,
+
+except in the following aspects:
+
+- in relation to material matters related to the accounts: …
+
+  *and/or* \[delete as appropriate\]
+- in relation to material matters related to the legality and regularity of the expenditure in the accounts for which reimbursement has been requested from the Commission: …
+- *and/or* \[delete as appropriate\] in relation to material matters related to the functioning of the management and control system[^f00011]: ….
+
+Therefore, I estimate that the impact of the qualification(s) is \[limited\]/\[significant\]. \[delete as appropriate\]
+
+This impact corresponds to … \[amount in EUR and %\] of the total expenditure declared. The Union contribution affected is thus … \[amount in EUR\].
+
+The audit work carried out *does not put/puts* \[delete as appropriate\] in doubt the assertions made in the management declaration.
+
+*\[Where the audit work carried out puts in doubt the assertions made in the management declaration, the Audit Authority shall disclose in this section the aspects leading to this conclusion.\]*
+
+**Or**
+
+*(Adverse opinion)*
+
+In my opinion, and based on the audit work performed:
+
+- the accounts *give/do* ***not*** *give* \[delete as appropriate\] a true and fair view, as established by Article 7(5) of Delegated Regulation (EU) No 532/2014;
+- the expenditure in the accounts for which reimbursement has been requested from the Commission *is/is* ***not*** \[delete as appropriate\] legal and regular;
+- the management and control system put in place *functions/does* ***not*** *function* \[delete as appropriate\] properly.
+
+This adverse opinion is based on the following aspects:
+
+- in relation to material matters related to the accounts: …
+
+  *and/or* \[delete as appropriate\]
+- in relation to material matters related to the legality and regularity of the expenditure in the accounts for which reimbursement has been requested from the Commission: …
+
+  *and/or* \[delete as appropriate\]
+- in relation to material matters related to the functioning of the management and control system[^f00012]: …
+
+The audit work carried out puts in doubt the assertions made in the management declaration for the following aspects: …
+
+\[The audit authority may also include emphasis of matter, not affecting its opinion, as established by internationally accepted auditing standards. A disclaimer of opinion may be foreseen in exceptional cases.[^f00013]\]
+
+Date
+
+Signature
+
+## ANNEX IV — Model for the annual control report
+
+1\.
+
+**INTRODUCTION**
+
+This section shall include the following information:
+
+- Identification of the responsible audit authority and other bodies that have been involved in preparing the report.
+- Reference period (i.e. the accounting year[^f00014]).
+- Audit period (during which the audit work took place).
+- Identification of the operational programme(s) covered by the report and of its/their managing and certifying authorities. \[Where the annual control report covers more than one programme, the information shall be broken down by programme, identifying in each section the information that is specific for the programme, except for section 10.2 where such information shall be provided under section 5.\]
+- Description of the steps taken to prepare the report and to draw up the audit opinion.
+
+2\.
+
+**SIGNIFICANT CHANGES IN MANAGEMENT AND CONTROL SYSTEM(S)**
+
+This section shall include the following information:
+
+- Details of any significant changes in the management and control systems related with managing and certifying authorities' responsibilities, in particular with respect to the delegation of functions to new intermediate bodies, and confirmation of their compliance with Articles 28 and 29 of Regulation (EU) No 223/2014 based on the audit work carried out by the audit authority under Article 34 of that Regulation.
+- Information relating to the monitoring of the designated bodies according to Article 35(5) and (6) of Regulation (EU) No 223/2014.
+- The dates from which these changes apply, the dates of notification of the changes to the audit authority, as well as the impact of these changes on the audit work are to be indicated.
+
+3\.
+
+**CHANGES TO THE AUDIT STRATEGY**
+
+This section shall include the following information:
+
+- Details of any changes that have been made to the audit strategy, and explanation of the reasons. In particular, indicate any change to the sampling method used for the audit of operations (see section 5 below).
+- Differentiation between the changes made or proposed at a late stage, which do not affect the work done during the reference period, and the changes made during the reference period, that affect the audit work and results. Only the changes compared to the previous version of the audit strategy are included.
+
+4\.
+
+**SYSTEM AUDITS**
+
+This section shall include the following information:
+
+- Details of the bodies (including the audit authority) that have carried out audits on the proper functioning of the management and control system of the programme (as provided for in Article 34(1) of Regulation (EU) No 223/2014) — hereafter ‘system audits’.
+- Description of the basis for the audits carried out, including a reference to the audit strategy applicable, more particularly to the risk assessment methodology and the results that led to establishing the audit plan for system audits. In case the risk assessment has been updated, this shall be described in section 3 above covering the changes of the audit strategy.
+- In relation to the table in section 10.1 below, description of the main findings and conclusions drawn from system audits, including the audits targeted to specific thematic areas, as defined in section 3.2 of Annex II to this Regulation.
+- Indication of whether any problems identified were considered to be of a systemic character, and of the measures taken, including a quantification of the irregular expenditure and any related financial corrections, in line with Article 5(5) of Delegated Regulation (EU) No 532/2014.
+- Information on the follow-up of audit recommendations from system audits from previous accounting years.
+- Level of assurance obtained following the system audits (low/average/high) and justification.
+
+5\.
+
+**AUDITS OF OPERATIONS**
+
+This section shall include the following information:
+
+- Indication of the bodies (including the audit authority) that carried out the audits of operations (as provided for in Article 34(1) of Regulation (EU) No 223/2014 and Article 5 of Delegated Regulation (EU) No 532/2014).
+- Description of the sampling methodology applied and information whether the methodology is in accordance with the audit strategy.
+- Indication of the parameters used for statistical sampling and explanation of the underlying calculations and professional judgment applied. The sampling parameters include: materiality level, confidence level, sampling unit, expected error rate, sampling interval, population value, population size, sample size, information on stratification (if applicable). The underlying calculations for sample selection and the total error rate (as defined in Article 6(14) of Delegated Regulation (EU) No 532/2014) shall be disclosed in section 10.3 below, in a format allowing an understanding of the basic steps taken, in accordance with the specific sampling method used.
+- Reconciliation between the total expenditure declared in euro to the Commission in respect of the accounting year and the population from which the random sample was drawn (column ‘A’ of table in section 10.2 below). Reconciling items include negative sampling units where financial corrections have been made in respect of the accounting year.
+- Where there are negative sampling units, confirmation that they have been treated as a separate population in accordance with Article 6(7) of Delegated Regulation (EU) No 532/2014. Analysis of the principal results of the audits of these units, namely focusing on verifying whether the decisions to apply financial corrections (taken by the Member State or by the Commission) have been registered in the accounts as withdrawals or recoveries.
+- In case of the use of non-statistical sampling, indicate the reasons for using the method in line with Article 34(1) of Regulation (EU) No 223/2014, the percentage of operations/expenditure covered through audits, the steps taken to ensure randomness of the sample (and thus its representativity) and to ensure a sufficient size of the sample enabling the audit authority to draw up a valid audit opinion. A projected error rate is calculated also in case of non-statistical sampling.
+- Analysis of the principal results of the audits of operations, describing the number of sample items audited, the respective amount and types[^f00015] of error by operation, the nature[^f00016] of errors found, the stratum error rate and corresponding main deficiencies or irregularities,[^f00017] the upper limit of the error rate (where applicable), root causes, corrective measures proposed (including those intending to avoid these errors in subsequent payment applications) and the impact on the audit opinion. Where necessary, provide further explanations on the data presented in sections 10.2 and 10.3 below, in particular concerning the total error rate.
+- Explanations concerning the financial corrections relating to the accounting year and implemented by the certifying authority/managing authority before submitting the accounts to the Commission, and resulting from the audits of operations, including flat rate or extrapolated corrections, as detailed in section 10.2 below.
+- Comparison of the total error rate and the residual total error rate[^f00018] (as shown in section 10.2 below) with the set materiality level, in order to ascertain if the population is materially misstated and the impact on the audit opinion.
+- Information on the results of the audit of the complementary sample (as established in Article 6(12) of Delegated Regulation (EU) No 532/2014), if any.
+- Details of whether any problems identified were considered to be systemic in nature, and the measures taken, including a quantification of the irregular expenditure and any related financial corrections.
+- Information on the follow-up of audits of operations carried out in previous years, in particular on deficiencies of systemic nature.
+- Conclusions drawn from the overall results of the audits of operations with regard to the effectiveness of the management and control system.
+
+6\.
+
+**AUDITS OF ACCOUNTS**
+
+This section shall include the following information:
+
+- Indication of the authorities/bodies that have carried out audits of accounts.
+- Description of audit approach used to verify the elements of the accounts defined in Article 49 of Regulation (EU) No 223/2014. This shall include a reference to the audit work carried out in the context of system audits (detailed in section 4 above) and the audits of operations (detailed in section 5 above) with relevancy for the assurance required on the accounts.
+- Indication of the conclusions drawn from the audit in regard to the completeness, accuracy and veracity of the accounts, including an indication on the financial corrections made and reflected in the accounts as a follow-up to the results of the system audits and/or audit on operations.
+- Indication of whether any problems identified were considered to be systemic in nature, and the measures taken.
+
+7\.
+
+**COORDINATION BETWEEN AUDIT BODIES AND SUPERVISORY WORK BY THE AUDIT AUTHORITY (where applicable)**
+
+This section shall include the following information:
+
+- Description of the procedure for coordination between the audit authority and any audit body that carries out audits as foreseen in Article 34(2) of Regulation (EU) No 223/2014, where appropriate.
+- Description of the procedure for supervision and quality review applied by the audit authority to such audit body(ies).
+
+8\.
+
+**OTHER INFORMATION**
+
+This section shall include the following information:
+
+- Where applicable, information on reported fraud and suspicions of fraud detected in the context of the audits performed by the audit authority (including the cases reported by other national or Union bodies and related to operations audited by the audit authority), together with the measures taken.
+- Where applicable, subsequent events occurred after the submission of the accounts to the audit authority and before the transmission of the annual control report under Article 34(5)(b) of Regulation (EU) No 223/2014 to the Commission and considered when establishing the level of assurance and opinion by the audit authority.
+
+9\.
+
+**OVERALL LEVEL OF ASSURANCE**
+
+This section shall include the following information:
+
+- Indication of the overall level of assurance on the proper functioning of the management and control system,[^f00019] and explanation of how such level was obtained from the combination of the results of the system audits (as reflected in section 10.2 below) and audits of operations (as reflected in section 10.3 below). Where relevant, the audit authority shall take also account of the results of other national or Union audit work carried out in relation to the accounting year.
+- Assessment of any mitigating actions implemented, such as financial corrections and assessment of the need for any additional corrective measures necessary, both from a system and financial perspective.
+
+10\.
+
+**ANNEXES TO THE ANNUAL CONTROL REPORT**
+
+10.1.
+
+Results of systems audits:
+
+<table>
+<tfoot>
+<tr><td colspan="19"><em>Note:</em> The parts in grey in the table above refer to key requirements that are not applicable to audited entity.</td></tr>
+</tfoot>
+<tbody>
+<tr><th rowspan="3"><strong>Audited Entity</strong></th><th rowspan="3"></th><th rowspan="3"><strong>Title of the audit</strong></th><th rowspan="3"><strong>Date of the final audit report</strong></th><th colspan="13"><strong>Operational Programme: [CCI and Name of the OP]</strong></th><th rowspan="3"><strong>Overall assessment (category 1, 2, 3, 4)</strong>[as defined in Table 2- Annex II of Delegated Regulation (EU) No 532/2014]</th><th rowspan="3"><strong>Comments</strong></th></tr>
+<tr><th colspan="13"><strong>Key requirements (as applicable)</strong>[as defined in Table 1of Annex II to Delegated Regulation (EU) No 532/2014]</th></tr>
+<tr><th><strong>KR 1</strong></th><th><strong>KR 2</strong></th><th><strong>KR 3</strong></th><th><strong>KR 4</strong></th><th><strong>KR 5</strong></th><th><strong>KR 6</strong></th><th><strong>KR 7</strong></th><th><strong>KR 8</strong></th><th><strong>KR 9</strong></th><th><strong>KR 10</strong></th><th><strong>KR 11</strong></th><th><strong>KR 12</strong></th><th><strong>KR 13</strong></th></tr>
+<tr><td rowspan="2">MA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="2">IB(s)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="2">CA</td><td></td><td></td><td></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+10.2
+
+Results of audits of operations:
+
+<table>
+<tfoot>
+<tr><td colspan="11">The column ‘A’ shall refer to the population from which the random sample was drawn, i.e. total amount of eligible public expenditure entered into the accounting system of the certifying authority which has been included in payment applications submitted to the Commission (as established by Article 49(1)(a) of Regulation (EU) No 223/2014), less negative sampling units if any. Where applicable, explanations shall be provided in section 5.4.</td></tr>
+<tr><td colspan="11">The total error rate is calculated before any financial corrections are applied in relation to the audited sample or the population from which the random sample was drawn. Where the random sample covers more than one Fund or programme, the total error rate (calculated) presented in column ‘D’ concerns the whole population. Where stratification is used, further information by stratum shall be provided in section 5.7.</td></tr>
+<tr><td colspan="11">Where applicable, column ‘G’ shall refer to expenditure audited in the context of a complementary sample.</td></tr>
+<tr><td colspan="11">Amount of expenditure audited (in case sub-sampling is applied under Article 6(9) of Delegated Regulation (EU) No 532/2014, only the amount of the expenditure items effectively audited under Article 5 of that Delegated Regulation shall be included in this column).</td></tr>
+<tr><td colspan="11">Percentage of expenditure audited in relation to the population.</td></tr>
+</tfoot>
+<tbody>
+<tr><th rowspan="3"><strong>Programme CCI number</strong></th><th rowspan="3"><strong>Programme title</strong></th><th><strong>A</strong></th><th colspan="2"><strong>B</strong></th><th><strong>C</strong></th><th><strong>D</strong></th><th><strong>E</strong></th><th><strong>F</strong></th><th><strong>G</strong></th><th><strong>H</strong></th></tr>
+<tr><th rowspan="2"><strong>Amount in Euros corresponding to the population from which the sample was drawn</strong></th><th colspan="2"><strong>Expenditure in reference to the accounting year audited for the random sample</strong></th><th rowspan="2"><strong>Amount of irregular expenditure in random sample</strong></th><th rowspan="2"><strong>Total error rate</strong></th><th rowspan="2"><strong>Corrections implemented as a result of the total error rate</strong></th><th rowspan="2"><strong>Residual total error rate</strong></th><th rowspan="2"><strong>Other expenditure audited</strong></th><th rowspan="2"><strong>Amount of irregular expenditure in other expenditure audited</strong></th></tr>
+<tr><th><strong>Amount</strong></th><th><strong>%</strong></th></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^f00021][^f00022][^f00023][^f00024][^f00025]
+
+10.3
+
+Calculations underlying the random sample selection and the total error rate
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 72, 12.3.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.072.01.0001.01.ENG).
+
+[^f00002]: Footnote: Commission Implementing Regulation (EU) 2015/341 of 20 February 2015 laying down detailed rules for implementing Regulation (EU) No 223/2014 of the European Parliament and of the Council as regards the models for submission of certain information to the Commission ([OJ L 60, 4.3.2015, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.060.01.0001.01.ENG)).
+
+[^f00003]: Footnote: Commission Delegated Regulation (EU) No 1255/2014 of 17 July 2014 supplementing Regulation (EU) No 223/2014 of the European Parliament and of the Council on the Fund for European Aid to the Most Deprived by laying down the content of the annual and final implementation reports, including the list of common indicators ([OJ L 337, 25.11.2014, p. 46](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.337.01.0046.01.ENG)).
+
+[^f00004]: Footnote: Indicate the operational programmes covered by a common management and control system, in case a single audit strategy is prepared for two operational programmes, as foreseen in Article 34(4) of Regulation (EU) No 223/2014.
+
+[^f00005]: Footnote: Commission Delegated Regulation (EU) No 532/2014 of 13 March 2014 supplementing Regulation (EU) No 223/2014 of the European Parliament and of the Council on the Fund for European Aid to the Most Deprived ([OJ L 148, 20.5.2014, p. 54](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.148.01.0054.01.ENG)).
+
+[^f00006]: Footnote: Accounting year means the period from 1 July to 30 June, except for the first accounting year, in respect of which it means the period from the start date for eligibility of expenditure until 30 June 2015. The final accounting year shall be from 1 July 2023 to 30 June 2024.
+
+[^f00007]: Footnote: Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 ([OJ L 298, 26.10.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.298.01.0001.01.ENG)).
+
+[^f00008]: Footnote: As defined in Article 5(12) of Regulation (EU) No 223/2014.
+
+[^f00009]: Footnote: As established by Article 5(12) of Regulation (EU) No 223/2014.
+
+[^f00010]: Footnote: In line with Article 59(5) of Regulation (EU, Euratom) No 966/2012.
+
+[^f00011]: Footnote: In case the management and control system is affected, the body or bodies and the aspect(s) of their systems that did not comply with requirements and/or did not operate effectively shall be indicated in the opinion, except where this information is already clearly disclosed in the annual control report and the opinion paragraph refers to the specific section(s) of this report where such information is disclosed.
+
+[^f00012]: Footnote: Same remark as in previous footnote.
+
+[^f00013]: Footnote: These exceptional cases should be related to unforeseeable, external factors outside the remit of the audit authority.
+
+[^f00014]: Footnote: As defined in Article 2(14) of Regulation (EU) No 223/2014.
+
+[^f00015]: Footnote: Random, systemic, anomalous.
+
+[^f00016]: Footnote: For instance: eligibility, public procurement.
+
+[^f00017]: Footnote: The stratum error rate is to be disclosed where stratification was applied under Article 6(10) of Delegated Regulation (EU) No 532/2014, covering sub-populations with similar characteristics such as operations consisting of financial contributions to high-value items.
+
+[^f00018]: Footnote: Total errors minus corrections referred to in section 5.8, divided by the total population.
+
+[^f00019]: Footnote: The overall level of assurance shall correspond to one of the four categories defined in Table 2 of Annex II to Delegated Regulation (EU) No 532/2014.
+
+[^f00021]: Footnote: The column ‘A’ shall refer to the population from which the random sample was drawn, i.e. total amount of eligible public expenditure entered into the accounting system of the certifying authority which has been included in payment applications submitted to the Commission (as established by Article 49(1)(a) of Regulation (EU) No 223/2014), less negative sampling units if any. Where applicable, explanations shall be provided in section 5.4.
+
+[^f00022]: Footnote: The total error rate is calculated before any financial corrections are applied in relation to the audited sample or the population from which the random sample was drawn. Where the random sample covers more than one Fund or programme, the total error rate (calculated) presented in column ‘D’ concerns the whole population. Where stratification is used, further information by stratum shall be provided in section 5.7.
+
+[^f00023]: Footnote: Where applicable, column ‘G’ shall refer to expenditure audited in the context of a complementary sample.
+
+[^f00024]: Footnote: Amount of expenditure audited (in case sub-sampling is applied under Article 6(9) of Delegated Regulation (EU) No 532/2014, only the amount of the expenditure items effectively audited under Article 5 of that Delegated Regulation shall be included in this column).
+
+[^f00025]: Footnote: Percentage of expenditure audited in relation to the population.

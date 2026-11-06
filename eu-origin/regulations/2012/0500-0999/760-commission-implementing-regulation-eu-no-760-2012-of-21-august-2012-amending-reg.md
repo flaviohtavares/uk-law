@@ -1,0 +1,123 @@
+---
+title: Commission Implementing Regulation (EU) No 760/2012 of 21 August 2012 amending Regulation (EC) No 595/2004 as regards the intensity of controls carried out by Member States in the framework of the milk quota system
+id: eur/2012/760
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2012-08-21'
+text_date: '2012-08-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2012/760
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2012/760/pdfs/eur_20120760_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2012/760/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) No 760/2012 of 21 August 2012 amending Regulation (EC) No 595/2004 as regards the intensity of controls carried out by Member States in the framework of the milk quota system
+
+> Text as at 2012-08-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Regulation (EU) No 760/2012
+
+of 21 August 2012
+
+amending Regulation (EC) No 595/2004 as regards the intensity of controls carried out by Member States in the framework of the milk quota system
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1234/2007 of 22 October 2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation)[^f00001], and in particular Article 85 in conjunction with Article 4 thereof,
+
+Whereas:
+
+(1)
+
+Article 22 of Commission Regulation (EC) No 595/2004 of 30 March 2004 laying down detailed rules for applying Council Regulation (EC) No 1788/2003 establishing a levy in the milk and milk products sector[^f00002], provides for the intensity of controls which are to be performed by Member States on milk delivered under the quota system. If the total adjusted deliveries have been less than 95 % of the deliveries part of the national quota in each of the three preceding 12-month periods, the control intensity on deliveries may be reduced from 2 % to 1 % of the producers and from 40 % to 20 % of the quantity of milk declared after adjustment.
+
+(2)
+
+The administrative complexity of those controls is relatively high and should be simplified.
+
+(3)
+
+Member States have gained years of experience with those controls and use a general control plan on the basis of risk analyses.
+
+(4)
+
+The results of the audits of the Commission in the Member States show that in almost all cases no corrections were required.
+
+(5)
+
+In accordance with Annex IX to Regulation (EC) No 1234/2007, the milk quota system ends in 2015.
+
+(6)
+
+It is therefore appropriate to fix the intensity of the controls on deliveries in all Member States at 1 % of the producers and at 20 % of the quantity of milk delivered declared after adjustment and to double the number of controls only in case of significant irregularities or discrepancies.
+
+(7)
+
+Regulation (EC) No 595/2004 should therefore be amended accordingly.
+
+(8)
+
+As the proposed amendments intend to decrease the intensity of the controls and thus to alleviate the administrative burden for Member States, they should apply in respect of the current 12-month period which has started on 1 April 2012. It is therefore necessary that this Regulation apply as from that date.
+
+(9)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for the Common Organisation of Agricultural Markets,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Regulation (EC) No 595/2004 is amended as follows:
+
+- ((1)) Article 19(3) is replaced by the following:
+
+  > 3. Controls shall be deemed to be completed once an inspection report of the controls is available.
+  >
+  > All inspection reports shall be completed no later than 18 months after the end of the 12-month period concerned.
+  >
+  > However, where the controls provided for in Article 20 are combined with other controls, the time limits laid down for other controls and the establishment of the respective inspection reports shall be respected.
+
+  ;
+- ((2)) Article 22 is amended as follows:
+  - ((a)) paragraph 1 is replaced by the following:
+
+    > 1. The controls referred to in Article 21(1) shall cover at least:
+    >
+    > - (a) 1 % of the producers for each 12-month period;
+    > - (b) 20 % of the quantity of milk declared after adjustment for the period concerned; and
+    > - (c) a representative sample of transport of milk between selected producers and purchasers.
+    >
+    > The transport controls referred to in point (c) shall be carried out in particular at unloading at the dairies.
+  - ((b)) A new paragraph 4 is added:
+
+    > 4. If a control reveals significant irregularities or discrepancies in a region or part of a region, the competent authority shall double the number of controls during the 12-month period concerned and the following 12-month period in that region or part of that region.
+
+**Article 2.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 1 April 2012.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 21 August 2012.
+
+*For the Commission*
+
+*The President*
+
+José Manuel Barroso
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 299, 16.11.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.299.01.0001.01.ENG).
+
+[^f00002]: Footnote: [OJ L 94, 31.3.2004, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.094.01.0022.01.ENG).

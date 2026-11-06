@@ -1,0 +1,127 @@
+---
+title: Commission Implementing Regulation (EU) 2018/1968 of 12 December 2018 opening a tariff quota for the year 2019 for the import into the Union of certain goods originating in Norway resulting from the processing of agricultural products covered by Regulation (EU) No 510/2014 of the European Parliament and of the Council
+id: eur/2018/1968
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2018-12-12'
+text_date: '2018-12-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2018/1968
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2018/1968/pdfs/eur_20181968_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2018/1968/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) 2018/1968 of 12 December 2018 opening a tariff quota for the year 2019 for the import into the Union of certain goods originating in Norway resulting from the processing of agricultural products covered by Regulation (EU) No 510/2014 of the European Parliament and of the Council
+
+> Text as at 2018-12-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Regulation (EU) 2018/1968
+
+of 12 December 2018
+
+opening a tariff quota for the year 2019 for the import into the Union of certain goods originating in Norway resulting from the processing of agricultural products covered by Regulation (EU) No 510/2014 of the European Parliament and of the Council
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 510/2014 of the European Parliament and of the Council of 16 April 2014 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products and repealing Council Regulations (EC) No 1216/2009 and (EC) No 614/2009[^f00001], and in particular Article 16(1)(a) thereof,
+
+Having regard to Council Decision 2004/859/EC of 25 October 2004 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Kingdom of Norway on Protocol 2 to the bilateral Free Trade Agreement between the European Economic Community and the Kingdom of Norway[^f00002], and in particular Article 3 thereof,
+
+Whereas:
+
+(1)
+
+Protocol 2 to the Agreement between the European Economic Community and the Kingdom of Norway of 14 May 1973[^f00003] (‘the bilateral Free Trade Agreement between the European Economic Community and the Kingdom of Norway’) and Protocol 3 to the Agreement on the European Economic Area (‘EEA Agreement’)[^f00004] determine the trade arrangements for certain agricultural and processed agricultural products between the Contracting Parties.
+
+(2)
+
+Protocol 3 to the EEA Agreement provides for a zero rate of duty for waters containing added sugar or other sweetening matter or flavoured, classified under CN code 2202 10 00, and other non-alcoholic beverages, not containing products of headings 0401 to 0404 or fat obtained from products of headings 0401 to 0404, classified under CN codes 2202 91 00 and 2202 99.
+
+(3)
+
+The Union zero rate of duty for those waters and those other beverages has been temporarily, for an unlimited period of time, suspended for Norway by the Agreement in the form of an Exchange of Letters between the European Community and the Kingdom of Norway concerning Protocol 2 to the bilateral Free Trade Agreement between the European Economic Community and the Kingdom of Norway[^f00005] (‘the Agreement in the form of an Exchange of Letters’). In accordance with the Agreement in the form of an Exchange of Letters, duty-free imports of goods with CN codes 2202 10 00, ex 2202 91 00 and ex 2202 99 that originate in Norway are to be allowed only within the limits of a duty-free quota. A duty is to be paid for imports that exceed the quota allocation.
+
+(4)
+
+Commission Implementing Regulation (EU) 2017/2310[^f00006] opened a tariff quota for the year 2018 for the import into the Union of goods classified under CN codes 2202 10 00, ex 2202 91 00 and ex 2202 99 originating in Norway.
+
+(5)
+
+The Agreement in the form of an Exchange of Letters requires that if the above mentioned tariff quota has been exhausted by 31 October of 2018, the tariff quota applicable from 1 January of the following year is to be increased by 10 %. According to data collected from the customs database ‘Quota 2’ (management of tariff quotas in accordance Commission Implementing Regulation (EU) 2015/2447[^f00007]), the annual quota for 2018 for certain waters and beverages opened by Implementing Regulation (EU) 2017/2310 was exhausted on 17 September 2018.
+
+(6)
+
+Therefore, an increased tariff quota should be opened for the waters and beverages in question from 1 January to 31 December 2019. The annual quota opened for 2018 by Implementing Regulation (EU) 2017/2310 was of a volume of 19,033 million litres. Hence, a quota for 2019 should be opened for a 10 % higher volume of 20,936 million litres.
+
+(7)
+
+The tariff quota opened by this Regulation should be managed in accordance with the relevant rules laid down in Implementing Regulation (EU) 2015/2447.
+
+(8)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Committee on horizontal questions concerning trade in processed agricultural products not listed in Annex I,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** 1. From 1 January to 31 December 2019, the duty free tariff quota set out in the Annex is open for goods originating in Norway which are listed in that Annex, under the conditions specified therein.
+
+2. The rules of origin laid down in Protocol 3 to the Agreement between the European Economic Community and the Kingdom of Norway of 14 May 1973 shall apply to the goods listed in the Annex to this Regulation.
+
+3. For quantities imported above the quota volume set out in the Annex, a preferential duty of 0,047 EUR/litre shall apply.
+
+**Article 2.** The duty free tariff quota referred to in Article 1(1) shall be managed by the Commission in accordance with Articles 49 to 54 of Implementing Regulation (EU) 2015/2447.
+
+**Article 3.** This Regulation shall enter into force on the seventh day following that of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 1 January 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 12 December 2018.
+
+*For the Commission*
+
+*The President*
+
+Jean-Claude Juncker
+
+## ANNEX — Duty free tariff quota for 2019 applicable to imports into the Union of certain goods originating in Norway
+
+<table>
+<tbody>
+<tr><th>Order No</th><th>CN code</th><th>TARIC code</th><th>Description of goods</th><th>Quota Volume</th></tr>
+<tr><td rowspan="5">09.0709</td><td>2202 10 00</td><td></td><td>–<br>Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured</td><td rowspan="5">20,936 million litres</td></tr>
+<tr><td>ex 2202 91 00</td><td>10</td><td>–<br>Non-alcoholic beer containing sugar</td></tr>
+<tr><td>ex 2202 99 11</td><td>11<br>19</td><td>–<br>Soya-based beverages with a protein content of 2,8 % or more by weight containing sugar (sucrose or invert sugar)</td></tr>
+<tr><td>ex 2202 99 15</td><td>11<br>19</td><td>–<br>Soya-based beverages with a protein content of less than 2,8 % by weight; beverages based on nuts of Chapter 8, cereals of Chapter 10 or seeds of Chapter 12 containing sugar (sucrose or invert sugar)</td></tr>
+<tr><td>ex 2202 99 19</td><td>11<br>19</td><td>–<br>Other non-alcoholic beverages containing sugar (sucrose or invert sugar)</td></tr>
+</tbody>
+</table>
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 150, 20.5.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.150.01.0001.01.ENG).
+
+[^f00002]: Footnote: [OJ L 370, 17.12.2004, p. 70](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.370.01.0070.01.ENG).
+
+[^f00003]: Footnote: [OJ L 171, 27.6.1973, p. 2](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1973.171.01.0002.01.ENG).
+
+[^f00004]: Footnote: [OJ L 1, 3.1.1994, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1994.001.01.0003.01.ENG).
+
+[^f00005]: Footnote: [OJ L 370, 17.12.2004, p. 72](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.370.01.0072.01.ENG).
+
+[^f00006]: Footnote: Commission Implementing Regulation (EU) 2017/2310 of 13 December 2017 opening a tariff quota for the year 2018 for the import into the Union of certain goods originating in Norway resulting from the processing of agricultural products covered by Regulation (EU) No 510/2014 of the European Parliament and of the Council ([OJ L 331, 14.12.2017, p. 36](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.331.01.0036.01.ENG)).
+
+[^f00007]: Footnote: Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code ([OJ L 343, 29.12.2015, p. 558](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.343.01.0558.01.ENG)).

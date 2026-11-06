@@ -1,0 +1,41 @@
+---
+title: Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance), section Article 53
+act: Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance)
+section: Article 53
+status: revised
+text_date: '2018-12-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2019/6/section/Article 53
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance), section Article 53
+
+> Text as at 2018-12-11.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 53. Subsequent recognition of marketing authorisations by additional Member States concerned
+
+*Extent: E+W+S+N.I.*
+
+1. After completion of a decentralised procedure laid down in Article 49 or a mutual recognition procedure laid down in Article 52 granting a marketing authorisation, the marketing authorisation holder may submit an application for a marketing authorisation for the veterinary medicinal product to the competent authorities in additional Member States concerned and to the competent authority in the reference Member State referred to in Article 49 or 52, as applicable, in accordance with the procedure laid down in this Article. In addition to the data referred to in Article 8, the application shall include the following:
+
+- (a) a list of all decisions granting, suspending or revoking marketing authorisations which concern the veterinary medicinal product;
+- (b) information on the variations introduced since the grant of the marketing authorisation by decentralised procedure laid down in Article 49(7) or by mutual recognition procedure laid down in Article 52(8);
+- (c) a summary report on pharmacovigilance data.
+
+2. The competent authority in the reference Member State referred to in Article 49 or 52, as applicable, shall forward within 60 days to the competent authorities in the additional Member States concerned the decision to grant the marketing authorisation and any variations thereto and shall, within that period, prepare and forward an updated assessment report concerning that marketing authorisation and those variations, as applicable, and inform the applicant accordingly.
+
+3. The competent authority in each additional Member State concerned shall grant a marketing authorisation in conformity with the updated assessment report referred to in paragraph 2 within 60 days of receipt of both the data and information referred to in paragraph 1 and the complete translations of the summary of product characteristics, labelling and package leaflet.
+
+4. By derogation from paragraph 3 of this Article, if the competent authority in an additional Member State concerned has reasons for refusing the marketing authorisation on the ground that the veterinary medicinal product would pose a potential serious risk to human or animal health or to the environment, it shall, at the latest within a period of 60 days of receipt of both the data and information referred to in paragraph 1 and updated assessment report referred to in paragraph 2 of this Article raise its objections and provide a detailed statement of the reasons to the competent authority in the reference Member State referred to in Article 49 or 52, as applicable, and to the competent authorities in the Member States concerned, referred to in those Articles, and to the applicant.
+
+5. In the case of objections raised by the competent authority in an additional Member State concerned in accordance with paragraph 4, the competent authority in the reference Member State shall take any appropriate steps in order to seek an agreement as regards the objections made. The competent authorities in the reference Member State and in the additional Member State concerned shall make their best efforts to reach an agreement on the action to be taken.
+
+6. The competent authority in the reference Member State shall provide the applicant with the opportunity to provide, orally or in writing, the applicant’s point of view as regards the objections raised by the competent authority in an additional Member State concerned.
+
+7. Where, following the steps taken by the competent authority in the reference Member State, an agreement is reached by the competent authorities in the reference Member State and in the Member States which have already granted a marketing authorisation and the competent authorities in the additional Member States concerned, the competent authorities in the additional Member States concerned shall grant a marketing authorisation in accordance with paragraph 3.
+
+8. If the competent authority in the reference Member State has not been able to find an agreement with the competent authorities in the Member States concerned and additional Member States concerned at the latest within 60 days from the date on which the objections referred to in paragraph 4 of this Article were raised, it shall refer the application together with the updated assessment report referred to in paragraph 2 of this Article and the objections of the competent authorities in the additional Member States concerned to the coordination group in accordance with the review procedure laid down in Article 54.

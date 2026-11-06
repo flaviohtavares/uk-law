@@ -1,0 +1,82 @@
+---
+title: Commission Regulation (EC) No 222/2005 of 10 February 2005 amending Regulation (EC) No 1943/2003 as regards the exchange rate applicable for the implementation of aid to producer groups granted preliminary recognition in the fruit and vegetable sector
+id: eur/2005/222
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2005-02-10'
+text_date: '2005-02-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2005/222
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2005/222/pdfs/eur_20050222_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2005/222/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 222/2005 of 10 February 2005 amending Regulation (EC) No 1943/2003 as regards the exchange rate applicable for the implementation of aid to producer groups granted preliminary recognition in the fruit and vegetable sector
+
+> Text as at 2005-02-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 222/2005
+
+of 10 February 2005
+
+amending Regulation (EC) No 1943/2003 as regards the exchange rate applicable for the implementation of aid to producer groups granted preliminary recognition in the fruit and vegetable sector
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables[^f00001], and in particular Article 48 thereof,
+
+Whereas:
+
+(1)
+
+Article 3(2) of Commission Regulation (EC) No 1943/2003 of 3 November 2003 laying down rules for the application of Council Regulation (EC) No 2200/96 as regards aid to producer groups granted preliminary recognition[^f00002] sets the calculation parameters and the ceilings for the aid provided for in Article 14(2)(a) of Regulation (EC) No 2200/96. These parameters and ceilings are not prices or amounts which are either granted or collected. Articles 2 and 3 of Council Regulation (EC) No 2799/98 of 15 December 1998 establishing agrimonetary arrangements for the euro[^f00003] do not, therefore, apply to them.
+
+(2)
+
+These parameters and ceilings apply to each of the aid instalments referred to in point (d) of the first subparagraph of Article 3(2) of Regulation (EC) No 1943/2003. To express them in the national currencies of the non-participating Member States within the meaning of Article 1 of Regulation (EC) No 2799/98, the exchange rates in force on the first day of the period for which the aid is granted should be used.
+
+(3)
+
+Regulation (EC) No 1943/2003 should therefore be amended accordingly.
+
+(4)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** The following paragraph 3 is hereby added to Article 3 of Regulation (EC) No 1943/2003:
+
+> 3. The exchange rate applicable to the amounts in euro referred to in paragraph 2 shall be the rate most recently published by the European Central Bank prior to the first day of the period for which the aid in question is granted.
+
+**Article 2.** This Regulation shall enter into force on the third day following its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 10 February 2005.
+
+*For the Commission*
+
+Mariann Fischer Boel
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 297, 21.11.1996, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1996.297.01.0001.01.ENG). Regulation as last amended by Commission Regulation (EC) No 47/2003 ([OJ L 7, 11.1.2003, p. 64](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.007.01.0064.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 286, 4.11.2003, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.286.01.0005.01.ENG). Regulation as amended by Regulation (EC) No 2113/2004 ([OJ L 366, 11.12.2004, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.366.01.0010.01.ENG)).
+
+[^f00003]: Footnote: [OJ L 349, 24.12.1998, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.349.01.0001.01.ENG).

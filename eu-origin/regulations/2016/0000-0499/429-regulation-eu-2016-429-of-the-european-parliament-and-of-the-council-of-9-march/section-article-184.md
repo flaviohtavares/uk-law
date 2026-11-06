@@ -1,0 +1,29 @@
+---
+title: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 184
+act: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)
+section: Article 184
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2016/429/section/Article 184
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 184
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 184. Review, suspension and withdrawal of approvals by the competent authority
+
+*Extent: E+W+S+N.I.*
+
+1. The competent authority shall keep approvals of establishments granted in accordance with Article 181(1) under review, at appropriate intervals based on the risk involved.
+
+2. Where a competent authority identifies serious deficiencies in an establishment as regards compliance with the requirements laid down in Article 181(1) and the rules adopted pursuant to Article 181(2), and the operator of that establishment is not able to provide adequate guarantees that those deficiencies will be eliminated, the competent authority shall initiate procedures to withdraw the approval of the establishment.
+
+However, the competent authority may merely suspend, rather than withdraw, approval of an establishment where the operator can guarantee that it will eliminate those deficiencies within a reasonable period of time.
+
+3. Approval shall only be granted after withdrawal or restored after suspension in accordance with paragraph 2 when the competent authority is satisfied that the establishment fully complies with all the requirements of this Regulation appropriate for that type of establishment.

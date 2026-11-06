@@ -1,0 +1,49 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 138
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 138
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 138
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 138
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 138. Non-Compliance with the Solvency Capital Requirement
+
+*Extent: E+W+S+N.I.*
+
+1. Insurance and reinsurance undertakings shall immediately inform the supervisory authority as soon as they observe that the Solvency Capital Requirement is no longer complied with, or where there is a risk of non-compliance in the following three months.
+
+2. Within two months from the observation of non-compliance with the Solvency Capital Requirement the insurance or reinsurance undertaking concerned shall submit a realistic recovery plan for approval by the supervisory authority.
+
+3. The supervisory authority shall require the insurance or reinsurance undertaking concerned to take the necessary measures to achieve, within six months from the observation of non-compliance with the Solvency Capital Requirement, the re-establishment of the level of eligible own funds covering the Solvency Capital Requirement or the reduction of its risk profile to ensure compliance with the Solvency Capital Requirement.
+
+The supervisory authority may, if appropriate, extend that period by three months.
+
+4.[^c000004] In the event of exceptional adverse situations affecting insurance and reinsurance undertakings representing a significant share of the market or of the affected lines of business, as declared by EIOPA, and where appropriate after consulting the ESRB, the supervisory authority may extend, for affected undertakings, the period set out in the second subparagraph of paragraph 3 by a maximum period of seven years, taking into account all relevant factors including the average duration of the technical provisions.
+
+Without prejudice to the powers of EIOPA under Article 18 of Regulation (EU) No 1094/2010, for the purposes of this paragraph EIOPA shall, following a request by the supervisory authority concerned, declare the existence of exceptional adverse situations. The supervisory authority concerned may make a request if insurance or reinsurance undertakings representing a significant share of the market or of the affected lines of business are unlikely to meet one of the requirements set out in paragraph 3. Exceptional adverse situations exist where the financial situation of insurance or reinsurance undertakings representing a significant share of the market or of the affected lines of business are seriously or adversely affected by one or more of the following conditions:
+
+- (a) a fall in financial markets which is unforeseen, sharp and steep;
+- (b) a persistent low interest rate environment;
+- (c) a high-impact catastrophic event.
+
+EIOPA shall, in cooperation with the supervisory authority concerned, assess on a regular basis whether the conditions referred to in the second subparagraph still apply. EIOPA shall, in cooperation with the supervisory authority concerned, declare when an exceptional adverse situation has ceased to exist.
+
+The insurance or reinsurance undertaking concerned shall, every three months, submit a progress report to its supervisory authority setting out the measures taken and the progress made to re-establish the level of eligible own funds covering the Solvency Capital Requirement or to reduce the risk profile to ensure compliance with the Solvency Capital Requirement.
+
+The extension referred to in the first subparagraph shall be withdrawn where that progress report shows that there was no significant progress in achieving the re-establishment of the level of eligible own funds covering the Solvency Capital Requirement or the reduction of the risk profile to ensure compliance with the Solvency Capital Requirement between the date of the observation of non-compliance of the Solvency Capital Requirement and the date of the submission of the progress report.
+
+5. In exceptional circumstances, where the supervisory authority is of the opinion that the financial situation of the undertaking concerned will deteriorate further, it may also restrict or prohibit the free disposal of the assets of that undertaking. That supervisory authority shall inform the supervisory authorities of the host Member States of any measures it has taken. Those authorities shall, at the request of the supervisory authority of the home Member State, take the same measures. The supervisory authority of the home Member State shall designate the assets to be covered by such measures.
+
+## Annotations
+
+[^c000004]: Textual amendment: Substituted by [Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)](https://www.legislation.gov.uk/eudr/2014/51).

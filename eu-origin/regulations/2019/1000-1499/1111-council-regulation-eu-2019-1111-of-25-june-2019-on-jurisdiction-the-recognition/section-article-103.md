@@ -1,0 +1,39 @@
+---
+title: Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast), section Article 103
+act: Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast)
+section: Article 103
+status: revised
+text_date: '2019-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2019/1111/section/Article 103
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast), section Article 103
+
+> Text as at 2019-06-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 103. Information to be communicated to the Commission
+
+*Extent: E+W+S+N.I.*
+
+1. The Member States shall communicate to the Commission the following:
+
+- (a) any authorities referred to in point (b) of point (2) and point (3) of Article 2(2) and Article 74(2);
+- (b) the courts and authorities competent to issue certificates as referred to in Article 36(1) and Article 66 and the courts competent to rectify certificates as referred to in Article 37(1), Article 48(1), 49, and Article 66(3) in conjunction with Article 37(1);
+- (c) the courts referred to in Article 30(3), Article 52, Article 40(1), Article 58(1) and Article 62 as well as the authorities and courts referred to in Article 61(2);
+- (d) the authorities competent for enforcement referred to in Article 52;
+- (e) the redress procedures referred to in Articles 61 and 62;
+- (f) the names, addresses and means of communication for the Central Authorities designated pursuant to Article 76;
+- (g) the categories of close relatives referred to in Article 82(2), where applicable;
+- (h) the languages accepted for communications to Central Authorities pursuant to Article 91(3);
+- (i) the languages accepted for the translations pursuant to Article 80(3), Article 81(2), Article 82(4) and Article 91(2).
+
+2. The Member States shall communicate the information referred to in paragraph 1 to the Commission by 23 April 2021.
+
+3. The Member States shall communicate to the Commission any changes to the information referred to in paragraph 1.
+
+4. The Commission shall make the information referred to in paragraph 1 publicly available through appropriate means, including through the European e-Justice Portal.

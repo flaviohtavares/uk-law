@@ -1,0 +1,58 @@
+---
+title: Commission Delegated Regulation (EU) 2020/688 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council, as regards animal health requirements for movements within the Union of terrestrial animals and hatching eggs (Text with EEA relevance), section Article 20
+act: Commission Delegated Regulation (EU) 2020/688 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council, as regards animal health requirements for movements within the Union of terrestrial animals and hatching eggs (Text with EEA relevance)
+section: Article 20
+status: revised
+text_date: '2019-12-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/688/section/Article 20
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2020/688 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council, as regards animal health requirements for movements within the Union of terrestrial animals and hatching eggs (Text with EEA relevance), section Article 20
+
+> Text as at 2019-12-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 20. Supplementary requirements for movements of kept porcine animals to Member States or zones thereof with disease-free status or with an approved eradication programme for infection with Aujeszky’s disease virus
+
+*Extent: E+W+S+N.I.*
+
+1. Operators shall only move kept porcine animals to another Member State or zone thereof with the status free from infection with Aujeszky’s disease virus when in compliance with the requirements set out in Article 19, not vaccinated against infection with Aujeszky’s disease virus and provided that the requirements in either point (a) or point (b) are fulfilled:
+
+- (a) if the animals come from an establishment free from infection with Aujeszky’s disease virus,
+
+  either
+
+  - ((i)) the establishment is situated in a Member State or zone thereof with the status free from infection with Aujeszky’s disease virus;
+
+    or
+  - ((ii)) the animals have been subjected to a serological test for the detection of antibodies against whole Aujeszky’s disease virus with the diagnostic method provided for in Part 7 of Annex I, with a negative result, on a sample taken during the last 15 days prior to their departure. For porcine animals less than four months old born to dams vaccinated with a gE-deleted vaccine, the diagnostic method for the detection of antibodies against Aujeszky’s disease virus gE protein provided for in Part 7 of Annex I may be used. The number of porcine animals tested must allow at least for the detection of 10 % seroprevalence of the consignment with 95 % confidence;
+- (b) if the animals come from an establishment not free from infection with Aujeszky’s disease virus, the following requirements are fulfilled:
+  - ((i)) the animals have been kept in an approved quarantine establishment for a period of at least 30 days;
+
+    and
+  - ((ii)) the animals have been subjected to a serological test for the detection of antibodies against whole Aujeszky’s disease virus with the diagnostic method provided for in Part 7 of Annex I, with a negative result, carried out on samples taken on two occasions at an interval of not less than 30 days, the last sample taken during the last 15 days prior to departure.
+
+2. Operators shall only move kept porcine animals to another Member State or zone thereof with an approved eradication programme for infection with Aujeszky’s disease virus when in compliance with the requirements set out in Article 19 and provided that the requirements in either point (a) or point (b) are fulfilled:
+
+- (a) if the animals come from an establishment free from infection with Aujeszky’s disease virus,
+
+  either
+
+  - ((i)) the establishment is situated in a Member State or zone thereof with the status free from infection with Aujeszky’s disease virus;
+
+    or
+  - ((ii)) the establishment is situated in a Member State or zone thereof with an approved eradication programme for infection with Aujeszky’s disease virus;
+
+    or
+  - ((iii)) the animals have been subjected to a serological test for the detection of antibodies against whole Aujeszky’s disease virus or antibodies against Aujeszky’s disease virus-gE protein, where applicable, with one of the diagnostic methods provided for in Part 7 of Annex I, with a negative result, on a sample taken during the last 15 days prior to their departure. The number of porcine animals tested must allow at least for the detection of 10 % seroprevalence of the consignment with 95 % confidence;
+- (b) if the animals come from an establishment not free from infection with Aujeszky’s disease virus the following requirements are fulfilled:
+  - ((i)) they have been kept in an approved quarantine establishment for a period of at least 30 days;
+
+    and
+  - ((ii)) they have been subjected to a serological test for the detection of antibodies against whole Aujeszky’s disease virus or antibodies against Aujeszky’s disease virus gE protein, where applicable, with one of the diagnostic methods provided for in Part 7 of Annex I, with a negative result, carried out on samples taken on two occasions at an interval of not less than 30 days, the last sample taken during the last 15 days prior to departure.
+
+3. The provisions in paragraph 1 and 2 shall not apply to kept porcine animals intended for slaughter as referred to in Article 21.

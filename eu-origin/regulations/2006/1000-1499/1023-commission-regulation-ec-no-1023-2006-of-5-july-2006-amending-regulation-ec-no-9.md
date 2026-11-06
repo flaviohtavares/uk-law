@@ -1,0 +1,102 @@
+---
+title: Commission Regulation (EC) No 1023/2006 of 5 July 2006 amending Regulation (EC) No 958/2003 laying down detailed rules for the application of Council Decision 2003/286/EC as regards the concessions in the form of Community tariff quotas on certain cereal products originating in the Republic of Bulgaria and amending Regulation (EC) No 2809/2000
+id: eur/2006/1023
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2006-07-05'
+text_date: '2006-07-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2006/1023
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2006/1023/pdfs/eur_20061023_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2006/1023/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 1023/2006 of 5 July 2006 amending Regulation (EC) No 958/2003 laying down detailed rules for the application of Council Decision 2003/286/EC as regards the concessions in the form of Community tariff quotas on certain cereal products originating in the Republic of Bulgaria and amending Regulation (EC) No 2809/2000
+
+> Text as at 2006-07-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 1023/2006
+
+of 5 July 2006
+
+amending Regulation (EC) No 958/2003 laying down detailed rules for the application of Council Decision 2003/286/EC as regards the concessions in the form of Community tariff quotas on certain cereal products originating in the Republic of Bulgaria and amending Regulation (EC) No 2809/2000
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Decision 2003/286/EC of 8 April 2003 on the conclusion of a Protocol adjusting the trade aspects of the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part, to take account of the outcome of negotiations between the parties on new mutual agricultural concessions[^f00001], and in particular Article 3(2) thereof,
+
+Whereas:
+
+(1)
+
+In accordance with Decision 2003/286/EC, the Community has undertaken to establish for each marketing year import tariff quotas at a zero rate of duty for wheat, meslin, wheat gluten and maize originating in the Republic of Bulgaria.
+
+(2)
+
+In the light of the experience gained in applying Commission Regulation (EC) No 958/2003[^f00002], certain provisions of that Regulation should be clarified and simplified.
+
+(3)
+
+In order to ensure that the actual quantities being requested by individual traders may be verified, it is necessary to specify that traders must submit only one import licence application per period concerned, and to provide for a penalty in the event of a failure to meet this requirement.
+
+(4)
+
+Regulation (EC) No 958/2003 should therefore be amended accordingly.
+
+(5)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Regulation (EC) No 958/2003 is hereby amended as follows:
+
+- 1.. The following Article 1a is added:
+
+  > **Article 1a.** Traders may submit only one import licence application per period concerned under Article 2(1). Where traders submit more than one application, all their applications shall be rejected and the securities lodged when the applications were submitted shall be taken over by the Member State concerned.
+- 2.. Article 2 is amended as follows:
+  - ((a)) Paragraph 1 is replaced by the following:
+
+    > 1. Applications for import licences shall be lodged with the competent authorities of the Member States no later than 13.00 Brussels time on the second Monday of each month.
+    >
+    > Applicants shall submit their licence applications to the competent authorities of the Member State in which they are registered for VAT purposes.
+    >
+    > Each license application shall be for a quantity not exceeding the quantity available for the import of the relevant product in the marketing year concerned.
+  - ((b)) Paragraph 3 is replaced by the following:
+
+    > 3. If the total of the quantities for each product concerned since the start of the marketing year and the quantity referred to in paragraph 2 exceeds the quota for the marketing year concerned, the Commission shall set, no later than the third working day after the applications were lodged, a single application coefficient to be applied to the quantities requested.
+  - ((c)) Paragraph 4 is replaced by the following:
+
+    > 4. After applying, where necessary, the application coefficients fixed in accordance with paragraph 3, the competent authorities of the Member States shall issue, on the fourth working day following the day on which the application is submitted, the import licences corresponding to the applications sent to the Commission in accordance with paragraph 2.
+    >
+    > No later than 18.00, Brussels time, on the day the import licences are issued, the competent authorities shall notify the Commission electronically, on the basis of the model annexed hereto, of the total quantity resulting from the sum of the quantities for which import licences have been issued on that same day.
+
+**Article 2.** This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 5 July 2006.
+
+*For the Commission*
+
+Mariann Fischer Boel
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 102, 24.4.2003, p. 60](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.102.01.0060.01.ENG).
+
+[^f00002]: Footnote: [OJ L 136, 4.6.2003, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.136.01.0003.01.ENG). Regulation as last amended by Regulation (EC) No 1046/2005 ([OJ L 172, 5.7.2005, p. 79](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.172.01.0079.01.ENG)).

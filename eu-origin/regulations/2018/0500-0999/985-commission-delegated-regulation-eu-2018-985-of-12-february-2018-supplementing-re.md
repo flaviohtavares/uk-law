@@ -1,0 +1,537 @@
+---
+title: Commission Delegated Regulation (EU) 2018/985 of 12 February 2018 supplementing Regulation (EU) No 167/2013 of the European Parliament and of the Council as regards environmental and propulsion unit performance requirements for agricultural and forestry vehicles and their engines and repealing Commission Delegated Regulation (EU) 2015/96 (Text with EEA relevance)
+id: eur/2018/985
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2018-02-12'
+text_date: '2020-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2018/985
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2018/985/pdfs/eur_20180985_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2018/985/pdfs/eur_20180985_2020-07-01_en.pdf
+- http://www.legislation.gov.uk/eur/2018/985/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2018/985 of 12 February 2018 supplementing Regulation (EU) No 167/2013 of the European Parliament and of the Council as regards environmental and propulsion unit performance requirements for agricultural and forestry vehicles and their engines and repealing Commission Delegated Regulation (EU) 2015/96 (Text with EEA relevance)
+
+> Text as at 2020-07-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Delegated Regulation (EU) 2018/985
+
+of 12 February 2018
+
+supplementing Regulation (EU) No 167/2013 of the European Parliament and of the Council as regards environmental and propulsion unit performance requirements for agricultural and forestry vehicles and their engines and repealing Commission Delegated Regulation (EU) 2015/96
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles[^f00001], and in particular Articles 19(6) and 20(8), 28(6) and 53(12), thereof,
+
+Whereas:
+
+(1)
+
+Having regard to the European strategy on clean and energy efficient vehicles[^f00002], the detailed technical requirements for the type-approval of agricultural and forestry vehicles with regard to their environmental and propulsion unit performance should aim at improving the environmental performance of such vehicles and at the same time strengthening the competitiveness of the Union's automotive industry.
+
+(2)
+
+A considerable reduction in hydrocarbon emissions from agricultural and forestry vehicles is necessary to improve air quality and comply with limit values for pollution. That objective should be achieved not only by reducing the hydrocarbon tailpipe and evaporative emissions from these vehicles, but also by helping to reduce volatile particle levels.
+
+(3)
+
+Given the application of the provisions of Regulation (EU) 2016/1628 of the European Parliament and of the Council[^f00003] — on engine categories, exhaust emission limits, test cycles, emission durability periods, exhaust emission requirements, the monitoring of emissions of in-service engines and the conduct of measurements and tests, as well as the transitional provisions and provisions allowing the early EU type-approval and the placing on the market of Stage V engines — to the environmental performance of agricultural and forestry vehicles, the provisions of this Regulation covering the remaining aspects of such approval should be closely modelled on those contained in Regulation (EU) 2016/1628.
+
+(4)
+
+For the purposes of the engine pollutant emission stage for agricultural and forestry vehicle engines, referred to as ‘Stage V’, that will succeed the one laid down in Commission Delegated Regulation (EU) 2015/96[^f00004], ambitious gaseous and particulate matter pollutant emission limits should be set while aligning with international standards in order to reduce emissions of particulate matter and ozone precursors such as nitrogen oxides and hydrocarbons.
+
+(5)
+
+A standardised method of measuring fuel consumption and carbon dioxide emissions of agricultural and forestry vehicle engines is necessary to ensure that no technical barriers to trade arise between the Member States. For the same reason, it is also appropriate to ensure that customers and users are supplied with objective and precise information regarding the same subjects.
+
+(6)
+
+In order to ensure that new vehicles, components and separate technical units placed on the market provide a high level of environmental protection, equipment or parts that can be fitted to agricultural and forestry vehicles and which are capable of significantly impairing the functioning of systems that are essential in terms of environmental protection should be subject to prior control by an approval authority before they are placed on the market. For that purpose, technical provisions concerning the requirements that those parts or equipment have to comply with should be laid down.
+
+(7)
+
+Technical progress and high-level environmental protection require prescribing technical requirements for the introduction of Stage V in relation to agricultural and forestry vehicles, replacing the previous engine pollutant emission stages laid down in Delegated Regulation (EU) 2015/96. The necessary technical requirements concerning in particular engine categories, limit values and implementation dates in this Regulation, should be aligned to the ones in Regulation (EU) 2016/1628.
+
+(8)
+
+By Council Decision 97/836/EC[^f00005], the Union has acceded to the Agreement of the United Nations Economic Commission for Europe (UNECE) concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions (Revised 1958 Agreement). In its communication ‘CARS 2020: Action Plan for a competitive and sustainable automotive industry in Europe’[^f00006], the Commission stressed that the acceptance of international regulations under the 1958 UNECE Agreement is the best way to remove non-tariff barriers to trade. Therefore, references to the corresponding UNECE regulations should be used, where appropriate, for the purposes of laying down requirements for EU type-approval. That possibility is provided for in Regulation (EU) No 167/2013.
+
+(9)
+
+Concerning environmental and propulsion unit performance requirements of agricultural and forestry vehicles, UNECE regulations should be used on an equal basis to Union legislation in order to avoid duplication not only of technical requirements but also of certification and administrative procedures. Type-approval should be based directly on internationally agreed standards because that approach can improve market access in third countries, in particular in those which are contracting parties to the Revised 1958 Agreement, thus enhancing the Union industry's competitiveness.
+
+(10)
+
+It should be possible for engines which before the entry into force of this Regulation were not subject to pollutant emission-related type-approval at Union level and for vehicles equipped with such engines to be placed on the market until the mandatory dates of application of Regulation (EU) 2016/1628 for the placing on the market of the corresponding engine category, provided they comply with applicable national rules.
+
+(11)
+
+Union legislation should not lay down technical requirements which cannot be reasonably met in time. The industry should be provided sufficient lead time as regards the application of Stage V engine pollutant emission limits to agricultural and forestry vehicles. Therefore, it is necessary to lay down transitional measures allowing for the granting of EU type-approvals and exemptions in accordance with the legislation applicable before the day of entry into force of this Regulation during a limited period of time. In particular, it is necessary to permit for a limited period of time the application of engine pollutant emission stages preceding Stage V in parallel with the latter due to technical difficulties of certain vehicle categories, mainly narrow-track tractors, in complying with Stage V from the mandatory dates of application of Regulation (EU) 2016/1628 for the placing on the market of engines.
+
+(12)
+
+In order to take account of logistic supply constraints and to allow for ‘just in time’ production flow, and to avoid unnecessary costs and administrative burden, an engine manufacturer should, with the consent of the vehicle manufacturer, be allowed to deliver an engine based on an approved type separately from its exhaust after-treatment system.
+
+(13)
+
+The provisions on the engine pollutant emission stages preceding Stage V are laid down in Delegated Regulation (EU) 2015/96. Those provisions, concerning type-approval or placing on the market of tractors, should only apply until the mandatory dates of application of Regulation (EU) 2016/1628 for the EU type-approval of engines or for their placing on the market, respectively, or beyond those dates in accordance with the transitional provisions. Delegated Regulation (EU) 2015/96 should therefore be repealed from the entry into force of this Regulation,
+
+HAS ADOPTED THIS REGULATION:
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1. Subject matter
+
+This Regulation establishes
+
+- ((a)) the detailed technical requirements on the environmental and propulsion unit performance and permissible external sound levels for the approval of:
+  - ((i)) agricultural and forestry vehicles;
+  - ((ii)) engines with regard to their installation and the impact this has on engine performance;
+  - ((iii)) their systems, components and separate technical units; and
+- ((b)) the test procedures necessary to assess the compliance with the requirements referred to in point (a).
+
+This Regulation also establishes the detailed requirements with regard to type-approval procedures and conformity of production.
+
+### Article 2. Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+- ((1)) ‘engine’ means an energy converter, other than a gas turbine, designed to transform chemical energy (input) into mechanical energy (output) with an internal combustion process; it includes, where they have been installed, the emission control system and the communication interface (hardware and messages) between the engine's electronic control unit(s) and any other powertrain or vehicle control unit necessary to comply with Chapters II and III of Regulation (EU) 2016/1628;
+- ((2)) ‘engine type’ means a group of engines which do not differ in essential engine characteristics;
+- ((3)) ‘engine family’ means a manufacturer's grouping of engine types which, through their design, have similar exhaust emission characteristics, and respect the applicable emission limit values;
+- ((4)) ‘parent engine’ means an engine type selected from an engine family in such a way that its emissions characteristics are representative of that engine family;
+- ((5)) ‘replacement engine’ means an engine that meets both of the following criteria:
+  - ((a)) it is exclusively used to replace an engine already placed on the market and installed in an agricultural and forestry vehicle;
+  - ((b)) it complies with an emission stage which is lower than that applicable on the date of the engine's replacement;
+- ((6)) ‘net power’ means the engine power in kW obtained on a test bench at the end of the crankshaft, or its equivalent, measured in accordance with the method of measuring the power of engines specified in UNECE Regulation No 120[^f00007] using a reference fuel or fuel combination laid down in Article 25(2) of Regulation (EU) 2016/1628;
+- ((7)) ‘transition engine’ means an engine that has an engine production date that is prior to the date laid down in Annex III to Regulation (EU) 2016/1628 in respect of the placing on the market of Stage V engines and that meets at least one of the following conditions:
+  - ((a)) it complies with the latest applicable emission limits laid down in the relevant legislation applicable on 20 July 2018;
+  - ((b)) it falls within a power range, or is used or intended to be used in an application that was not subject to pollutant emission related type-approval in accordance with Delegated Regulation (EU) 2015/96 on 20 July 2018;
+  - ((c)) it is an engine in the power range 56-130 kW, meeting the Stage IIIB requirements and installed or intended to be installed in a tractor of categories T2, T4.1 or C2;
+- ((8)) ‘exhaust after-treatment system’ means a catalyst, particulate filter, deNOx system, combined deNOx particulate filter or any other emission-reducing device, with the exception of exhaust gas recirculation and turbochargers, that is part of the emission control system but is installed downstream of the engine exhaust ports;
+- ((9)) ‘external noise-abatement device’ means a component, system or separate technical unit which is part of the exhaust and the silencing system, including the exhaust system, the air intake system, the silencer or any systems, components, and separate technical units with a relevance to the permissible external sound levels emitted by the agricultural or forestry vehicle, of a type fitted to the vehicle at the time of type-approval or extension of type-approval;
+- ((10)) ‘SI engine’ means an engine that works on the spark-ignition (‘SI’) principle;
+- ((11)) ‘track belt’ means a continuous flexible rubber like belt, reinforced internally to enable the tractive forces;
+- ((12)) ‘track chain’ means a continuous metallic chain which engages with the track driver and where each link is with a transversal metallic track shoe, the latter optionally padded with a rubber strip for road surface protection;
+- ((13)) ‘in-service engine’ means an engine that is operated in agricultural and forestry vehicle over its normal operating patterns, conditions and payloads, and is used to perform the emission monitoring tests as referred to in Article 19 of Regulation (EU) 2016/1628;
+- ((14)) ‘maximum net power’ means the highest value of the net power on the nominal full-load power curve for the engine type;
+- ((15)) ‘engine production date’ means the date, expressed as the month and year, on which the engine passes the final check, after it has left the production line, and is ready to be delivered or to be put into stock;
+- ((16)) ‘vehicle production date’ means the month and year in which an agricultural and forestry vehicle passes the final check after it has left the production line and which are indicated on the statutory marking of that vehicle;
+- ((17)) ‘end-user’ means any natural or legal person, other than the manufacturer, vehicle manufacturer, importer or distributor, that is responsible for operating the engine installed in agricultural and forestry vehicles;
+- ((18)) ‘exhaust gas recirculation’ or ‘EGR’ means a technical device that is part of the emission control system and reduces emissions by routing exhaust gases that have been expelled from the combustion chamber(s) back into the engine to be mixed with incoming air before or during combustion, except for the use of valve timing to increase the amount of residual exhaust gas in the combustion chamber(s) that is mixed with incoming air before or during combustion;
+- ((19)) ‘tampering’ means inactivation, adjustment or modification of the emission control system, including any software or other logical control elements of such a system, that has the effect, whether intended or not, of worsening the emissions performance of the engine;
+- ((20)) ‘pollution control device’ means a component, system or separate technical unit which is part of the exhaust after-treatment system;
+- ((21)) ‘initial entry into service’ means:
+  - ((a)) where the registration of agricultural or forestry vehicles is compulsory, the first registration in a Member State;
+  - ((b)) where the registration of agricultural or forestry vehicles is compulsory only for road circulation or is not compulsory in a Member State, the placing on the market.
+
+## CHAPTER II — SUBSTANTIVE REQUIREMENTS
+
+### Article 3. Pollutant emissions
+
+The manufacturer shall ensure that agricultural and forestry vehicles and the engines installed in them are designed, constructed and assembled so as to comply with the provisions applicable to engine categories NRE or NRS laid down in Regulation (EU) 2016/1628 and in the delegated and implementing acts adopted pursuant thereto, with the adaptations laid down in Part 1 of Annex I to this Regulation; the specific requirements laid down in Part 2 of Annex I to this Regulation shall be also complied with.
+
+Alternatively, agricultural and forestry vehicles and the engines installed in them may be designed, constructed and assembled so as to comply with the provisions applicable to engine category ATS laid down in Regulation (EU) 2016/1628 and in the delegated and implementing acts adopted pursuant thereto, with the adaptations laid down in Part 1 of Annex I to this Regulation, where such vehicles are equipped with a SI engine and fulfil either of the following conditions:
+
+- ((a)) are equipped with a straddle seat and handlebar;
+- ((b)) are equipped with a steering wheel and bench seats or bucket seats in one or more rows and achieve a maximum design speed greater than or equal to 25 km/h.
+
+The specific requirements laid down in Part 2 of Annex I to this Regulation shall be also complied with.
+
+### Article 4. External sound levels
+
+In order to meet the requirements of Article 19(4) of Regulation (EU) No 167/2013, the manufacturer shall ensure that agricultural and forestry vehicles and their systems, components and separate technical units that may affect the vehicle's external sound levels are designed, constructed and assembled, and that their external sound levels are measured so as to comply with the requirements laid down in Annex II.
+
+### Article 5. Propulsion performance
+
+For the purposes of the evaluation of propulsion unit performance of agricultural and forestry vehicles, the measurements of net power, engine torque and specific fuel consumption shall be carried out by the manufacturer in accordance with paragraph 5 of UNECE Regulation No 120, 01 series of amendments. During those measurements, the presence of the approval authority or technical service representatives is not necessary.
+
+Instead of performing the measurements laid down in the first paragraph, a vehicle or engine manufacturer may attest the fulfilment of the requirements of the first paragraph by submitting, to the approval authority, an approval issued under the UNECE Regulation No 120, 01 series of amendments.
+
+## CHAPTER III — TYPE-APPROVAL PROCEDURES
+
+### Article 6. EU type-approval of an agricultural and forestry vehicle with regard to pollutant emissions
+
+1. EU type-approval in accordance with Regulation (EU) No 167/2013 shall only be granted to an agricultural and forestry vehicle, where it complies with the requirements with regard to pollutant emissions laid down in Regulation (EU) 2016/1628 and in the delegated and implementing acts adopted pursuant thereto with the adaptations laid down in Part 1 of Annex I to this Regulation; the specific requirements laid down in Part 2 of Annex I to this Regulation shall be also complied with.
+
+2. In addition to the requirements under Regulation (EU) No 167/2013 and Commission Implementing Regulation (EU) 2015/504[^f00008], an application for EU type-approval of an agricultural and forestry vehicle with an approved engine type or family shall be accompanied by a copy of the EU type-approval certificate or an approval certificate issued in accordance with the provisions referred to in Article 11 of this Regulation for the engine type or engine family and, where applicable, for the systems, components and separate technical units which are installed in the agricultural and forestry vehicle.
+
+3. In addition to the requirements under Regulation (EU) No 167/2013 and Implementing Regulation (EU) 2015/504, an application for EU type-approval of an agricultural and forestry vehicle without an approved engine type or family shall be accompanied by an information document relating to EU type-approval of a type of (or a type of a vehicle with regard to) an installation of an engine/engine family system in accordance with Appendix 1 to Annex I to Implementing Regulation (EU) 2015/504 and an information document relating to EU type-approval of an engine, engine family as a component or a separate technical unit in accordance with Appendix 3 to Annex I to Implementing Regulation (EU) 2015/504.
+
+For the purposes of such an application, the manufacturer shall submit to the technical service responsible for conducting the approval tests an agricultural and forestry vehicle engine conforming to the characteristics of the engine type or, where applicable, parent engine.
+
+### Article 7. EU type-approval of an engine or an engine family with regard to pollutant emissions
+
+EU type-approval in accordance with Regulation (EU) No 167/2013 shall only be granted to an engine type or an engine family where it complies with the requirements with regard to pollutant emissions laid down in Regulation (EU) 2016/1628 and in the delegated and implementing acts adopted pursuant thereto with the adaptations laid down in Part 1 of Annex I to this Regulation; the specific requirements laid down in Part 2 of Annex I to this Regulation shall be also complied with. The application for EU type-approval shall be accompanied by the information folder in accordance with Article 2 of Implementing Regulation (EU) 2015/504.
+
+### Article 8. EU type-approval of an agricultural and forestry vehicle with regard to external sound levels
+
+1. EU type-approval in accordance with Regulation (EU) No 167/2013 shall only be granted to an agricultural and forestry vehicle where it complies with the requirements with regard to external sound levels laid down in paragraphs 2 to 5 and in Annex II to this Regulation.
+
+2. The technical services shall measure the external sound level of agricultural and forestry vehicles of category T equipped with pneumatic tyres and of category C equipped with track belts in motion, for type-approval purposes, in accordance with the test conditions and methods laid down in point 1.3.1 of Annex II.
+
+3. The technical services shall measure the external sound level of stationary agricultural and forestry vehicles of categories T and C equipped with track belts, for type-approval purposes, in accordance with the test conditions and methods laid down in point 1.3.2 of Annex II. They shall record the results in accordance with the provisions laid down in point 1.3.2.4 of Annex II.
+
+4. The technical services shall measure the external sound level of agricultural and forestry vehicles of category C equipped with track chains, for type-approval purposes, in accordance with the stationary test conditions and methods laid down in point 1.3.2 of Annex II.
+
+5. The technical services shall measure the external sound level of agricultural and forestry vehicles of category C equipped with track chains in motion, for the type-approval purposes, in accordance with the test conditions and methods laid down in point 1.3.3 of Annex II. They shall record the results.
+
+6. The application for type-approval shall be accompanied by the information folder in accordance with Article 2 of Implementing Regulation (EU) 2015/504.
+
+### Article 9. Extension of EU type-approvals
+
+The EU type-approval regarding pollutant emissions and external sound level requirements may be extended by the type-approval authorities to different vehicle variants, versions and engine types and families, provided that those vehicle variants, versions, engine types and families satisfy the requirements on pollutant emissions and external sound levels set out in Article 19(3) and (4) of Regulation (EU) No 167/2013.
+
+### Article 10. Subsequent changes affecting the environmental and propulsion unit performance
+
+The manufacturer shall notify to the approval authority without delay any changes to systems, components and separate technical units that may affect the environmental and propulsion unit performance of the agricultural and forestry vehicles of the approved type placed on the market in accordance with Article 19 of Regulation (EU) No 167/2013.
+
+The notification referred to in the first paragraph shall include the following:
+
+- ((a)) evidence that the changes referred to in the first paragraph do not deteriorate the environmental performance of a vehicle compared to the environmental performance demonstrated at type-approval;
+- ((b)) description of the engine type or the engine family, including the exhaust after-treatment system, in accordance with Article 11 of and Annex IX to Commission Implementing Regulation (EU) 2017/656[^f00009];
+- ((c)) information in accordance with Appendix 2 to Annex I to Implementing Regulation (EU) 2015/504.
+
+## CHAPTER IV — EQUIVALENCE
+
+### Article 11. Equivalence of alternative type-approvals
+
+1. EU type-approvals and the corresponding statutory markings of engine types or engine families granted on the basis of Regulation (EU) 2016/1628 shall be recognised as equivalent to type-approvals and approval marks granted to engines in accordance with this Regulation.
+
+2. A statement of conformity granted on the basis of Article 31 of Regulation (EU) 2016/1628 shall be accepted by national authorities for the purposes of EU type-approval, under this Regulation, of agricultural and forestry vehicles equipped with engines bearing that statement of conformity.
+
+3. Type-approvals granted to engines and the corresponding statutory markings that are in conformity with UNECE regulations referred to in Article 42(2) of Regulation (EU) 2016/1628 as well as EU type-approvals granted to engines on the basis of the Union acts referred to in Article 42(3) of that Regulation shall be recognised as equivalent to the EU type-approvals granted to engines in accordance with this Regulation and to the corresponding statutory markings required in accordance with Implementing Regulation (EU) 2015/504 provided that the requirements of Annex XIII to Commission Delegated Regulation (EU) 2017/654[^f00010] are met.
+
+## CHAPTER V — ACCESS TO VEHICLE REPAIR AND MAINTENANCE INFORMATION
+
+### Article 12. Obligation on engine manufacturers
+
+For the purposes of fulfilling the obligations laid down in Articles 53 to 56 of Regulation (EU) No 167/2013 and Article 8 of Commission Delegated Regulation (EU) No 1322/2014[^f00011], where the manufacturer of an agricultural or forestry vehicle is not the engine manufacturer, the engine manufacturer shall make available to the vehicle manufacturer the information necessary to fulfil those obligations.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+### Article 13. Transitional provisions
+
+1. From 21 July 2018:
+
+- (a) the approval authorities shall not refuse to grant an EU type-approval or a national type-approval to a new engine type or new engine family where that engine type or engine family complies with Articles 3, 5 and 7;
+- (b) the approval authorities shall not refuse to grant an EU type-approval or a national type-approval to a new vehicle type where that vehicle type complies with Articles 3 to 6 and Article 8;
+- (c) the Member States shall permit the placing on the market, sale and entry into service of engines complying with Articles 3, 5 and 7 or with Article 11 and the placing on the market, sale, registration and entry into service of agricultural and forestry vehicles complying with Articles 3 to 6 and Article 8.
+
+2. Until the mandatory date of application of Regulation (EU) 2016/1628 in respect of EU type-approval of the engine category concerned, as laid down in Annex III to that Regulation, approval authorities shall continue to grant EU type-approvals and exemptions to agricultural and forestry vehicle types or engine types and engine families in accordance with Delegated Regulation (EU) 2015/96, in its version applicable on 20 July 2018.
+
+3. As of the mandatory dates of application of Regulation (EU) 2016/1628 in respect of the placing on the market of the engine category concerned, as laid down in Annex III to that Regulation, the Member States shall no longer permit the placing on the market, sale, registration or entry into service of vehicles or the placing on the market, sale or entry into service of engines type-approved on the basis of Delegated Regulation (EU) 2015/96.
+
+Until those dates, Member States may permit the placing on the market, sale, registration or entry into service of vehicles or the placing on the market, sale or entry into service of engines in accordance with the requirements laid down in Delegated Regulation (EU) 2015/96. The flexibility scheme provided for in Article 14 of that Delegated Regulation shall apply only to agricultural and forestry vehicles fitted with engines approved in accordance with the requirements of the emission limits stage immediately preceding the applicable one.
+
+4. Engines that were not subject to pollutant emission related type-approval in accordance with Delegated Regulation (EU) 2015/96 on 20 July 2018 may continue to be placed on the market, sold or to enter into service until the mandatory date of application of Regulation (EU) 2016/1628 in respect of the placing on the market of the engine category concerned, as laid down in Annex III to that Regulation, on the basis of the national rules in force.
+
+Agricultural and forestry vehicles type-approved in accordance with Regulation (EU) No 167/2013 and equipped with those engines may continue to be placed on the market, sold, registered or to enter into service until the same dates.
+
+5. Transition engines may continue to be placed on the market, sold or to enter into service during the 24 months following the mandatory date of application of Regulation (EU) 2016/1628 in respect of the placing on the market of the engine category concerned, as laid down in Annex III to that Regulation.
+
+Agricultural and forestry vehicles equipped with transition engines may be placed on the market, sold, registered or enter into service during the 24 months following the mandatory date of application of Regulation (EU) 2016/1628 in respect of the placing on the market of the engine category concerned, as laid down in Annex III to that Regulation, provided that those vehicles fulfil both of the following conditions:
+
+- (a) they have a production date not later than 18 months following the mandatory date of application of Regulation (EU) 2016/1628 in respect of the placing on the market of the engine category concerned, as laid down in Annex III to that Regulation;
+- (b) they are marked in accordance with the requirements in point 2.1 of Part 2 in Annex I to this Regulation.
+
+For engines of sub-categories of category NRE for which the mandatory date of application set out in Annex III to Regulation (EU) 2016/1628 in respect of the placing on the market is[^c000001] 1 January 2020 , Member States shall authorise the extension of the 24-month period and of the 18-month period referred to in the first and second subparagraphs by additional 12 months for vehicle manufacturers with a total yearly production of less than 100 units of agricultural and forestry vehicles equipped with an engine. For the purposes of the calculation of that total yearly production, all vehicle manufacturers under the control of the same natural or legal person shall be considered to be a single vehicle manufacturer.
+
+For engines of all sub-categories for which the mandatory date of application set out in Annex III to Regulation (EU) 2016/1628 in respect of the placing on the market is[^c000002] 1 January 2019 , the 24-month period and the 18-month period referred to in the first and second subparagraphs shall be extended by 12 months.
+
+6. For the purposes of the placing on the market of replacement engines for agricultural and forestry vehicles in accordance with paragraphs 10 and 11 of Article 58 of Regulation (EU) 2016/1628, manufacturers shall ensure that the replacement engines comply with the marking requirements referred to in point 6 of Annex XX to Commission Delegated Regulation (EU) 2015/208[^f00012], Article 32(2)(e) of Regulation (EU) 2016/1628 and points 1 and 5.4 of Annex IV to Implementing Regulation (EU) 2015/504.
+
+### Article 14. Exemptions
+
+1. With the consent of the vehicle manufacturer, an engine manufacturer may deliver to that vehicle manufacturer an engine separately from its exhaust after-treatment system in accordance with the provisions laid down in Annex X to Delegated Regulation (EU) 2017/654.
+
+2. Member States may authorise the temporary placing on the market, for the purposes of field testing in accordance with the provisions of Annex XI to Delegated Regulation (EU) 2017/654, of engines that have not been EU type-approved in accordance with Articles 3, 5 and 7 of this Regulation.
+
+### Article 15. Repeal
+
+Delegated Regulation (EU) 2015/96 is repealed.
+
+### Article 16. Entry into force and application
+
+This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Requirements for EU type-approval regarding pollutant emissions
+
+PART 1
+
+***Adaptation to the requirements laid down in Regulation (EU) 2016/1628***
+
+1\.
+
+For the purposes of granting an EU type-approval regarding pollutant emissions, in accordance with the provisions of Regulation (EU) No 167/2013, of an agricultural and forestry vehicle or an engine type or an engine family as a component, the following adaptations to the provisions of Regulation (EU) 2016/1628 applicable pursuant to Article 19(3) of Regulation (EU) No 167/2013 shall be taken into account:
+
+- The references to ‘non-road mobile machinery’ in Regulation (EU) 2016/1628 shall be read as references to ‘agricultural and forestry vehicle’.
+- The references to the ‘original equipment manufacturer’ or ‘OEM’ in Regulation (EU) 2016/1628 shall be read as references to the ‘vehicle manufacturer’.
+- The dates of application for placing on the market of engines referred to in Annex III to Regulation (EU) 2016/1628 shall be read as dates of application for initial entry into service of engines and vehicles.
+- The dates for EU type-approval of engines, or, where applicable, the dates for type-approval of an engine type or engine family laid down in Annex III to Regulation (EU) 2016/1628 shall be read as dates for EU type-approval of a vehicle type or, where applicable, an engine type or an engine family.
+
+2\.
+
+Engine manufacturers shall use the parameters laid down in Annex IX to Implementing Regulation (EU) 2017/656 when defining engine types and engine families and their operation modes.
+
+PART 2
+
+***Specific requirements***
+
+1\.
+
+In addition to the provisions of Article 28 of Regulation (EU) No 167/2013 and Article 7 of Delegated Regulation (EU) No 1322/2014, the conformity of production of engines shall be checked in accordance with the provisions of Article 26 of Regulation (EU) 2016/1628 and those of Article 3 of Delegated Regulation (EU) 2017/654.
+
+2\.
+
+Marking
+
+2.1.
+
+The engine shall bear a statutory marking in accordance with Annex IV to Implementing Regulation (EU) 2015/504.
+
+3\.
+
+Monitoring of emissions of in-service engines
+
+3.1.
+
+Engine manufacturers shall comply with the requirements on monitoring of emissions of in-service engines laid down in Article 19 of Regulation (EU) 2016/1628 and Commission Delegated Regulation (EU) 2017/655[^f00013].
+
+4\.
+
+Engine installation in the vehicle
+
+4.1.
+
+The engine installed in an agricultural and forestry vehicle shall present the same pollutant emissions performance as it did at type-approval.
+
+4.2.
+
+The engine installation in an agricultural and forestry vehicle shall comply with the requirements included in the information and instructions that the engine manufacturer shall provide to the vehicle manufacturer, as laid down in point 4.3.
+
+4.3.
+
+The engine manufacturer shall provide to the vehicle manufacturer all the information and instructions to ensure that the engine conforms to the approved engine type when installed in the vehicle. Instructions for this purpose shall be clearly identified to the vehicle manufacturer in conformity with the requirements laid down in Article 43(2) of Regulation (EU) 2016/1628 and Article 17 of Delegated Regulation (EU) 2017/654.
+
+5\.
+
+The engine manufacturer shall make available to the vehicle manufacturer all the relevant information and necessary instructions intended for the end-user, as laid down in Article 43(3) and (4) of Regulation (EU) 2016/1628 and Article 18 of Delegated Regulation (EU) 2017/654.
+
+6\.
+
+Prevention of tampering
+
+6.1.
+
+Engine manufacturers shall apply the provisions concerning technical details laid down in Annex X to Implementing Regulation (EU) 2017/656 for the prevention of tampering.
+
+## ANNEX II — Requirements for external sound emissions
+
+1\.
+
+Permissible external sound levels
+
+1.1.
+
+The instrumentation system, including the microphones, cables and windscreen shall meet the requirements for a Class 1 instrument laid down in IEC 61672-1:2013. The filters shall meet the requirements for a Class 1 instrument given in IEC 61260:1995.
+
+1.2.
+
+Conditions of measurement
+
+1.2.1.
+
+Measurements shall be made on agricultural and forestry vehicles with their unladen mass in running order in a sufficiently silent and open area (ambient noise and wind noise at least 10 dB(A) below the external sound level being measured).
+
+1.2.2.
+
+This area may take the form, for instance, of an open space of 50 metres radius having a central part of at least 20 metres radius which is practically level; it may be surfaced with concrete, asphalt, or similar material and may not be covered with powdery snow, tall grass, loose soil or ashes.
+
+1.2.3.
+
+The surface of the test track shall be such as not to cause excessive tyre noise. This condition applies only to measurement of the external sound made by agricultural and forestry vehicles in motion.
+
+1.2.4.
+
+Measurement shall be carried out in fine weather with little wind. No person other than the observer taking the readings from the apparatus may remain near the agricultural and forestry vehicle or the microphone, as the presence of spectators near either the agricultural and forestry vehicle or the microphone may considerably affect the readings from the apparatus. Marked fluctuations of the pointer which appear to be unrelated to the characteristics of the general sound level shall be ignored in taking readings.
+
+1.3.
+
+Method of measurement
+
+1.3.1.
+
+Measurement of external sound level of agricultural and forestry vehicles in motion
+
+1.3.1.1.
+
+At least two measurements shall be made on each side of the agricultural and forestry vehicle. Preliminary measurements may be made for adjustment purposes but shall be disregarded.
+
+1.3.1.2.
+
+The microphone shall be situated 1,2 metres above ground level at a distance of 7,5 metres from the path of the agricultural and forestry vehicle's centre line, CC, measured along the perpendicular PP′ to that line (figure 1).
+
+1.3.1.3.
+
+Two lines AA′ and BB′, parallel to line PP′ and situated respectively 10 metres forward and 10 metres rearward of the line, shall be marked out on the test track. Agricultural and forestry vehicles shall approach line AA′ at a steady speed, as specified below. The throttle shall then be fully opened as rapidly as practicable and held in the fully opened position until the rear of the agricultural and forestry vehicles crosses line BB′; the throttle shall then be closed again as rapidly as possible. Where the agricultural or forestry vehicle is coupled to a trailer, this shall not be taken into account in determining when line BB′ is crossed.
+
+1.3.1.4.
+
+The maximum sound level recorded shall constitute the result of the measurement.
+
+*Figure 1*
+
+[image: see source](https://www.legislation.gov.uk/eur/2018/985/images/eur_20180985_2020-07-01_en_001)
+
+1.3.1.5.
+
+The steady speed before approaching line AA′ shall be three quarters of the maximum design speed (v<sub>max</sub>) as declared by the manufacturer which can be attained in the highest gear used for road movement.
+
+1.3.1.6.
+
+Interpretation of results
+
+1.3.1.6.1.
+
+To take account of inaccuracies in the measuring instruments, the result obtained from each measurement shall be determined by deducting 1 dB(A) from the meter reading.
+
+1.3.1.6.2.
+
+Measurements shall be considered valid where the difference between two consecutive measurements on the same side of the agricultural and forestry vehicle does not exceed 2 dB(A).
+
+1.3.1.6.3.
+
+The highest sound level measured shall constitute the test result. Should that result exceed the maximum permissible sound level for the category of agricultural and forestry vehicle tested by at least 1 dB(A), two further measurements shall be made. Three of the four measurements thus obtained must fall within the prescribed limits.
+
+1.3.2.
+
+Measurement of external sound with agricultural and forestry vehicle stationary
+
+1.3.2.1.
+
+Position of sound-level meter
+
+Measurements shall be made at point X (shown in figure 2) at a distance of 7 metres from the nearest surface of the agricultural and forestry vehicle. The microphone shall be situated 1,2 metres above ground level.
+
+1.3.2.2.
+
+Number of measurements: at least two measurements shall be made.
+
+1.3.2.3.
+
+Agricultural and forestry vehicle test conditions
+
+1.3.2.3.1.
+
+The engine of an agricultural and forestry vehicle without a speed governor shall be run at three quarters of the rpm speed at which, in accordance with the agricultural and forestry vehicle manufacturer, it develops its maximum net power. The rpm speed of the engine shall be measured by means of an independent instrument, e.g. a roller bed and a tachometer. Where the engine is fitted with a governor preventing the engine from exceeding the speed at which it develops its maximum net power, it shall be run at the maximum speed permitted by the governor.
+
+1.3.2.3.2.
+
+Before taking any measurements, the engine shall be brought to its normal running temperature.
+
+1.3.2.4.
+
+Interpretation of results
+
+1.3.2.4.1.
+
+All external sound-level readings recorded shall be given in the report. The engine speed shall be recorded in accordance with the provisions of Article 8. The state of loading of the agricultural and forestry vehicle shall also be recorded.
+
+1.3.2.4.2.
+
+The measurements shall be considered valid where the difference between two consecutive measurements on the same side of the agricultural and forestry vehicle does not exceed 2 dB(A).
+
+1.3.2.4.3.
+
+The maximum figure recorded shall constitute the result of the measurement.
+
+1.3.3.
+
+External sound testing provisions for C-category vehicles with track chains in motion
+
+For agricultural and forestry vehicles of C category equipped with track chains, the noise in motion shall be measured with vehicles with their unladen mass in running order travelling at a constant speed of 5 km/h (+/– 0,5 km/h), with the engine at rated speed over a layer of humid sand as specified by paragraph 5.3.2 of ISO 6395:2008. The microphone shall be situated in accordance with the provisions of point 1.3.1. The measured noise value shall be recorded in the test report.
+
+2\.
+
+Exhaust system (Silencer)
+
+2.1.
+
+Where the agricultural and forestry vehicle is fitted with a device designed to reduce the exhaust noise (silencer), the requirements of this section shall apply. Where the inlet of the engine is fitted with an air filter which is necessary in order to ensure compliance with the permissible sound level, the filter shall be considered to be part of the silencer, and the requirements of this point 2 shall also apply to that filter.
+
+The exhaust tailpipe must be positioned in such a way that the exhaust gases cannot penetrate inside the cab.
+
+*Figure 2*
+
+**Measuring positions for stationary agricultural and forestry vehicles**
+
+[image: see source](https://www.legislation.gov.uk/eur/2018/985/images/eur_20180985_2020-07-01_en_002)
+
+2.2.
+
+A drawing of the exhaust system must be annexed to the agricultural and forestry vehicle type-approval certificate.
+
+2.3.
+
+The silencer must be marked with a reference to its make and type which is clearly legible and indelible.
+
+2.4.
+
+The use of fibrous absorbent material is permitted in the construction of silencers only where the following conditions are fulfilled:
+
+- the fibrous absorbent material may not be placed in those parts of the silencer through which gases pass;
+- suitable devices must ensure that the fibrous absorbent material is kept in place for the whole time that the silencer is being used;
+- the fibrous absorbent material must be resistant to a temperature at least 20 % higher than the operating temperature (degrees C) which may occur in the region of the silencer where those fibrous absorbent materials are situated.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 60, 2.3.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.060.01.0001.01.ENG).
+
+[^f00002]: Footnote: COM(2010) 186 final, 28.4.2010.
+
+[^f00003]: Footnote: Regulation (EU) 2016/1628 of the European Parliament and of the Council of 14 September 2016 on requirements relating to gaseous and particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile machinery, amending Regulations (EU) No 1024/2012 and (EU) No 167/2013, and amending and repealing Directive 97/68/EC ([OJ L 252, 16.9.2016, p. 53](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.252.01.0053.01.ENG)).
+
+[^f00004]: Footnote: Commission Delegated Regulation (EU) 2015/96 of 1 October 2014 supplementing Regulation (EU) No 167/2013 of the European Parliament and of the Council as regards environmental and propulsion unit performance requirements of agricultural and forestry vehicles ([OJ L 16, 23.1.2015, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.016.01.0001.01.ENG)).
+
+[^f00005]: Footnote: Council Decision 97/836/EC of 27 November 1997 with a view to accession by the European Community to the Agreement of the United Nations Economic Commission for Europe concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions (‘Revised 1958 Agreement’) ([OJ L 346, 17.12.1997, p. 78](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1997.346.01.0078.01.ENG)).
+
+[^f00006]: Footnote: COM(2012) 636 final of 8 November 2012.
+
+[^f00007]: Footnote: Regulation No 120 of the Economic Commission for Europe of the United Nations (UNECE) — Uniform provisions concerning the approval of internal combustion engines to be installed in agricultural and forestry tractors and in non-road mobile machinery, with regard to the measurement of the net power, net torque and specific fuel consumption \[2015/1000\] ([OJ L 166, 30.6.2015, p. 170](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.166.01.0170.01.ENG)).
+
+[^f00008]: Footnote: Commission Implementing Regulation (EU) 2015/504 of 11 March 2015 implementing Regulation (EU) No 167/2013 of the European Parliament and of the Council with regard to the administrative requirements for the approval and market surveillance of agricultural and forestry vehicles ([OJ L 85, 28.3.2015, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.085.01.0001.01.ENG)).
+
+[^f00009]: Footnote: Commission Implementing Regulation (EU) 2017/656 of 19 December 2016 laying down the administrative requirements relating to emission limits and type-approval of internal combustion engines for non-road mobile machinery in accordance with Regulation (EU) 2016/1628 of the European Parliament and of the Council ([OJ L 102, 13.4.2017, p. 364](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.102.01.0364.01.ENG)).
+
+[^f00010]: Footnote: Commission Delegated Regulation (EU) 2017/654 of 19 December 2016 supplementing Regulation (EU) 2016/1628 of the European Parliament and of the Council with regard to technical and general requirements relating to emission limits and type-approval for internal combustion engines for non-road mobile machinery ([OJ L 102, 13.4.2017, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.102.01.0001.01.ENG)).
+
+[^f00011]: Footnote: Commission Delegated Regulation (EU) No 1322/2014 of 19 September 2014 supplementing and amending Regulation (EU) No 167/2013 of the European Parliament and of the Council with regard to vehicle construction and general requirements for the approval of agricultural and forestry vehicles ([OJ L 364, 18.12.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.364.01.0001.01.ENG)).
+
+[^c000001]: Textual amendment: Substituted by [Commission Delegated Regulation (EU) 2020/1564 of 6 August 2020 amending Delegated Regulation (EU) 2018/985 as regards its transitional provisions in order to address the impact of the COVID-19 crisis](https://www.legislation.gov.uk/eur/2020/1564).
+
+[^c000002]: Textual amendment: Inserted by [Commission Delegated Regulation (EU) 2020/1564 of 6 August 2020 amending Delegated Regulation (EU) 2018/985 as regards its transitional provisions in order to address the impact of the COVID-19 crisis](https://www.legislation.gov.uk/eur/2020/1564).
+
+[^f00012]: Footnote: Commission Delegated Regulation (EU) 2015/208 of 8 December 2014 supplementing Regulation (EU) No 167/2013 of the European Parliament and of the Council with regard to vehicle functional safety requirements for the approval of agricultural and forestry vehicles ([OJ L 42, 17.2.2015, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.042.01.0001.01.ENG)).
+
+[^f00013]: Footnote: Commission Delegated Regulation (EU) 2017/655 of 19 December 2016 supplementing Regulation (EU) 2016/1628 of the European Parliament and of the Council with regard to monitoring of gaseous pollutant emissions from in-service internal combustion engines installed in non-road mobile machinery ([OJ L 102, 13.4.2017, p. 334](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.102.01.0334.01.ENG)).

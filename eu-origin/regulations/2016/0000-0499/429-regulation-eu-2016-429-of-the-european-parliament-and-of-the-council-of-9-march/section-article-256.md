@@ -1,0 +1,37 @@
+---
+title: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 256
+act: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)
+section: Article 256
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2016/429/section/Article 256
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 256
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 256. Information obligations
+
+*Extent: E+W+S+N.I.*
+
+1. Member States shall provide the public with clear and easily accessible information concerning the animal health requirements applicable to non–commercial movements of pet animals, including:
+
+- (a) conditions for the grant of certain derogations referred to in point (d) of Article 252(4);
+- (b) conditions for the grant of derogations referred to in point (e) of Article 252(4);
+- (c) requirements for the application of the means of identification referred to in point (a)(ii) of Article 252(1);
+- (d) conditions applicable to non–commercial movements into Member States' territories of pet animals of the species referred to in Part B of Annex I, which are laid down by their national rules as provided for in Articles 248(3) and 250(3);
+- (e) conditions applicable to non–commercial movements into Member States' territories of pet animals from certain countries and territories laid down by their national rules as referred to in Article 251;
+- (f) any relevant information concerning certain prevention and risk-mitigation measures as referred to in point (b) of Article 252(1).
+
+2. Member States shall establish internet–based information pages providing the information referred to in paragraph 1, and shall communicate the internet address of those pages to the Commission.
+
+3. The Commission shall assist the Member States in making that information available to the public by providing on its internet page:
+
+- (a) links to the internet–based information pages of the Member States;
+- (b) the information referred to in points (a) and (d) of paragraph 1, and the information made available to the public as referred to in point (b) of Article 244(2) in additional languages, as appropriate.

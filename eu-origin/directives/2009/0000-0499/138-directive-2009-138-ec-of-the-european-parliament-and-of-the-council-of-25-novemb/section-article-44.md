@@ -1,0 +1,79 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 44
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 44
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 44
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 44
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 44. Risk management
+
+*Extent: E+W+S+N.I.*
+
+1. Insurance and reinsurance undertakings shall have in place an effective risk-management system comprising strategies, processes and reporting procedures necessary to identify, measure, monitor, manage and report, on a continuous basis the risks, at an individual and at an aggregated level, to which they are or could be exposed, and their interdependencies.
+
+That risk-management system shall be effective and well integrated into the organisational structure and in the decision-making processes of the insurance or reinsurance undertaking with proper consideration of the persons who effectively run the undertaking or have other key functions.
+
+2. The risk-management system shall cover the risks to be included in the calculation of the Solvency Capital Requirement as set out in Article 101(4) as well as the risks which are not or not fully included in the calculation thereof.
+
+The risk-management system shall cover at least the following areas:
+
+- (a) underwriting and reserving;
+- (b) asset–liability management;
+- (c) investment, in particular derivatives and similar commitments;
+- (d) liquidity and concentration risk management;
+- (e) operational risk management;
+- (f) reinsurance and other risk-mitigation techniques.
+
+The written policy on risk management referred to in Article 41(3) shall comprise policies relating to points (a) to (f) of the second subparagraph of this paragraph.
+
+Where insurance or reinsurance undertakings apply the matching adjustment referred to in Article 77b or the volatility adjustment referred to in Article 77d, they shall set up a liquidity plan projecting the incoming and outgoing cash flows in relation to the assets and liabilities subject to those adjustments.[^c000002]
+
+2a. As regards asset-liability management, insurance and reinsurance undertakings shall regularly assess:
+
+- (a) the sensitivity of their technical provisions and eligible own funds to the assumptions underlying the extrapolation of the relevant risk-free interest rate term structure referred to in Article 77a;
+- (b) where the matching adjustment referred to in Article 77b is applied:
+  - ((i)) the sensitivity of their technical provisions and eligible own funds to the assumptions underlying the calculation of the matching adjustment, including the calculation of the fundamental spread referred to in Article 77c(1)(b), and the possible effect of a forced sale of assets on their eligible own funds;
+  - ((ii)) the sensitivity of their technical provisions and eligible own funds to changes in the composition of the assigned portfolio of assets;
+  - ((iii)) the impact of a reduction of the matching adjustment to zero;
+- (c) where the volatility adjustment referred to in Article 77d is applied:
+  - ((i)) the sensitivity of their technical provisions and eligible own funds to the assumptions underlying the calculation of the volatility adjustment and the possible effect of a forced sale of assets on their eligible own funds;
+  - ((ii)) the impact of a reduction of the volatility adjustment to zero.
+
+Insurance and reinsurance undertakings shall submit the assessments referred to in points (a), (b) and (c) of the first subparagraph annually to the supervisory authority as part of the information reported under Article 35. Where the reduction of the matching adjustment or the volatility adjustment to zero would result in non-compliance with the Solvency Capital Requirement, the undertaking shall also submit an analysis of the measures it could apply in such a situation to re-establish the level of eligible own funds covering the Solvency Capital Requirement or to reduce its risk profile to restore compliance with the Solvency Capital Requirement.
+
+Where the volatility adjustment referred to in Article 77d is applied, the written policy on risk management referred to in Article 41(3) shall comprise a policy on the criteria for the application of the volatility adjustment.
+
+3. As regards investment risk, insurance and reinsurance undertakings shall demonstrate that they comply with Chapter VI, Section 6.
+
+4. Insurance and reinsurance undertakings shall provide for a risk-management function which shall be structured in such a way as to facilitate the implementation of the risk-management system.
+
+4a. In order to avoid overreliance on external credit assessment institutions when they use external credit rating assessment in the calculation of technical provisions and the Solvency Capital Requirement, insurance and reinsurance undertakings shall assess the appropriateness of those external credit assessments as part of their risk management by using additional assessments wherever practicably possible in order to avoid any automatic dependence on external assessments.
+
+In order to ensure uniform conditions of application of this paragraph, EIOPA shall develop draft implementing technical standards on the procedures for assessing external credit assessments.
+
+EIOPA shall submit those draft implementing technical standards to the Commission by 30 June 2015 .
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the second subparagraph in accordance with Article 15 of Regulation (EU) No 1094/2010.
+
+5. For insurance and reinsurance undertakings using a partial or full internal model approved in accordance with Articles 112 and 113 the risk-management function shall cover the following additional tasks:
+
+- (a) to design and implement the internal model;
+- (b) to test and validate the internal model;
+- (c) to document the internal model and any subsequent changes made to it;
+- (d) to analyse the performance of the internal model and to produce summary reports thereof;
+- (e) to inform the administrative, management or supervisory body about the performance of the internal model, suggesting areas needing improvement, and up-dating that body on the status of efforts to improve previously identified weaknesses.
+
+## Annotations
+
+[^c000002]: Textual amendment: Inserted by [Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)](https://www.legislation.gov.uk/eudr/2014/51).

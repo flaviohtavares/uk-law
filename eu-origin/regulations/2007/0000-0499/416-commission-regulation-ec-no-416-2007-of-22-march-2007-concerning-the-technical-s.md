@@ -1,0 +1,882 @@
+---
+title: Commission Regulation (EC) No 416/2007 of 22 March 2007 concerning the technical specifications for Notices to Skippers as referred to in Article 5 of Directive 2005/44/EC of the European Parliament and of the Council on harmonised river information services (RIS) on inland waterways in the Community
+id: eur/2007/416
+type: EuropeanUnionRegulation
+category: euretained
+status: repealed
+made_date: '2007-03-22'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2007/416
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2007/416/pdfs/eur_20070416_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2007/416/pdfs/eur_20070416_2007-03-13_en.pdf
+- http://www.legislation.gov.uk/eur/2007/416/pdfs/eur_20070416_2018-12-29_en.pdf
+- http://www.legislation.gov.uk/eur/2007/416/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 416/2007 of 22 March 2007 concerning the technical specifications for Notices to Skippers as referred to in Article 5 of Directive 2005/44/EC of the European Parliament and of the Council on harmonised river information services (RIS) on inland waterways in the Community
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Commission Regulation (EC) No 416/2007
+
+of 22 March 2007
+
+concerning the technical specifications for Notices to Skippers as referred to in Article 5 of Directive 2005/44/EC of the European Parliament and of the Council on harmonised river information services (RIS) on inland waterways in the Community (revoked)
+
+[^key-ea74e6aa3fbe3057225503224a7c493c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 1.**[^key-ea74e6aa3fbe3057225503224a7c493c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 2.**[^key-ea74e6aa3fbe3057225503224a7c493c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^key-ea74e6aa3fbe3057225503224a7c493c]
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 1.
+
+GENERAL PROVISIONS
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 1.1.
+
+**Definitions**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 1.2.
+
+**Primary functions and performance requirements for Notices to Skippers (NtS)**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 2.
+
+PROVISION OF NOTICES TO SKIPPERS
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.
+
+NTS MESSAGE TYPES
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.
+
+STRUCTURE OF NTS AND ENCODING OF NTS MESSAGES
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.1.
+
+**General structure**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Figure 1
+
+**Notice to Skippers message structure**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.1.1.
+
+*Identification section*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.1.2.
+
+*Fairway and traffic related message*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.1.3.
+
+*Water related message*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.1.4.
+
+*Ice related message*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.1.5.
+
+*Weather related message*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.2.
+
+**Explanation of XML tags and code values in the NtS Reference Tables**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.3.
+
+**Identification of fairway sections and objects in NtS messages**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.4.
+
+**Rules for encoding of NtS messages**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] A.
+
+NOTICES TO SKIPPERS ENCODING GUIDE FOR EDITORS
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Abbreviations:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 1.
+
+**Background, structure and purpose of NtS Encoding Guides**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 2.
+
+**Selection of the NtS message type**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.
+
+**FTM basic considerations, steps towards publication of an FTM**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.2.1.
+
+Yes:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.2.2.
+
+No:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.3.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.3.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.4.
+
+Content of the FTM is to be entered
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.5.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.5.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.5.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.6.
+
+The communication section is to be entered if applicable
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.7.
+
+The limitation section is to be entered if applicable
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.8.
+
+The start date of the validity of the message is to be set
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.9.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.
+
+**FTM explanation of codes**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.1.
+
+Subject\_code:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.2.
+
+Reason\_code
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.3.
+
+Limitation\_code:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.4.
+
+Limitation interval\_code: Definition of use of interval codes:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.5.
+
+Indication\_code:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.5.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.5.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.5.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.5.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.5.6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.6.
+
+Position\_code (objects):
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.7.
+
+Position\_code (fairways/waterways):
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.8.
+
+Position\_code (limitations):
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.8.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.8.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.8.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.8.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.9.
+
+Target\_group\_code (see chapter 3.5)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.10.
+
+Reporting\_code
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.10.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.10.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.10.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.11.
+
+Communication\_code
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.12.
+
+Type\_code:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 5.
+
+**WRM basic considerations**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.
+
+**ICEM basic considerations, steps towards publication of an ICEM**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.1.
+
+Is there a need to publish information via NtS ICEM?
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.2.1.
+
+Yes:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.2.2.
+
+No:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.5.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.5.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.5.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.
+
+**WERM basic considerations**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 8.
+
+**Rules for certain elements**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 8.1.
+
+*Rules for the element ‘ name ’ related to objects*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 8.2.
+
+*Rules for the element ‘ name ’ related to fairways*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 8.3.
+
+*Rules for the elements ‘ value ’ and ‘ unit ’ within limitations*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] B.
+
+NOTICES TO SKIPPERS ENCODING GUIDE FOR APPLICATION DEVELOPERS
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 1.
+
+**Background & Structure**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 1.1.
+
+*Purpose of NtS Encoding Guide*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 1.1.1.
+
+NtS Encoding Guide for editors
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 1.1.2.
+
+NtS Encoding Guide for application developers (this document)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 2.
+
+**NtS messages and sections**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Figure 2
+
+**Visualisation of the NtS message structure: mandatory element (1), mandatory element that may occur one or two times (1…2), mandatory element that has to occur two times (2), mandatory elements that may occur as often as necessary (1-n), optional element that may occur as often as necessary (0…n)**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.
+
+**WRM basic considerations**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.1.
+
+*Filling of nts\_number section in the WRM*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 3.2.
+
+*Filling of WRM including predictions*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Figure 3
+
+**Visualisation of water level prediction confidence interval: most probable value (black), confidence interval upper boarder (violet), confidence interval lower boarder (red), measured water level (blue)**
+
+(The x-axis shows the time; the y-axis shows the water level in cm)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.
+
+**ICEM processes**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.1.
+
+*New ICEM*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 4.2.
+
+*Update of an existing ICEM*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 5.
+
+**WERM basic considerations**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 5.1.
+
+*Filling of nts\_number section in the WERM*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 5.2.
+
+*Filling of WERM ‘ weather\_category\_code ’*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.
+
+**FTM processes**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.1.
+
+*New FTM*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.2.
+
+*Update/withdrawal of an existing FTM*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.3.
+
+*Waterway and/or object related FTM*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.4.
+
+*Automatic ordering of limitation codes*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 6.5.
+
+*Handling of limitation period*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.
+
+**General implementation rules**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.1.
+
+*Filling of the ‘ number\_section ’*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.2.
+
+*Filling of elements ‘ from ’ , ‘ originator ’ , ‘ organisation ’ and ‘ source ’*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.3.
+
+*Omission of elements*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.4.
+
+*Automatic filling of date\_issue*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.5.
+
+*Handling of time zone information in NtS messages*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.6.
+
+*Handling of Seconds in NtS messages*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.7.
+
+*Format of decimals in NtS messages*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.8.
+
+*Units to be used in NtS messages*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.9.
+
+*Rules for the elements ‘ name ’ , ‘ position\_code ’ and ‘ type\_code ’*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Table 1
+
+**Matching ‘ RIS Index function\_code ’  — ‘ NtS type\_code ’**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.10.
+
+*Rules for the element ‘ fairway\_name ’*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.11.
+
+*Clarifications for translations in the spreadsheet ‘ reference\_code ’*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.12.
+
+*Recommendation for the element ‘ coordinate ’*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.13.
+
+*Handling of target groups*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.14.
+
+*Display of valid messages at a given time*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 7.15.
+
+*Optional functions to increase user friendliness of NtS editor tools*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 8.
+
+**NtS XML Message Structure**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.
+
+**NtS Web Service**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.1.
+
+*Objective*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.2.
+
+*Basic Principles and constraints*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.2.1.
+
+Web standards
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.2.2.
+
+Interaction model and encoding method for NtS WS
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.3.
+
+*General specifications and recommendations*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.3.1.
+
+Specification: Version information
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.3.2.
+
+Specification: Structure of namespaces
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.3.3.
+
+Recommendation: Use of namespaces
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.3.4.
+
+Recommendation: Use of namespace prefixes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.3.5.
+
+Specification: Use of ISRS Location Codes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Invalid ISRS Location Code queries
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Case 1: No ids element in request
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Valid query without ids parameter
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Case 2: One id element in request
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Valid query with one id parameter
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Matching and not matching messages for one id parameter
+
+**Case 3: Two id elements in request**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Valid query with two id parameters
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Matching and not matching messages for two id parameters
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Combination: Multiple ids elements in request
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Valid query with multiple ids elements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.4.
+
+*NtS Message Service (implementation specification)*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.4.1.
+
+Request
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.4.2.
+
+Response
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] 9.5.
+
+*Generation of services and clients*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Glossary
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Appendix C
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c] Appendix D
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ea74e6aa3fbe3057225503224a7c493c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-ea74e6aa3fbe3057225503224a7c493c]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(g)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

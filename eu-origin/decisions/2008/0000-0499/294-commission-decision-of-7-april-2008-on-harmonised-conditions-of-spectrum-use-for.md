@@ -1,0 +1,98 @@
+---
+title: Commission Decision of 7 April 2008 on harmonised conditions of spectrum use for the operation of mobile communication services on aircraft (MCA services) in the Community (notified under document number C(2008) 1256) (Text with EEA relevance) (2008/294/EC)
+id: eudn/2008/294
+type: EuropeanUnionDecision
+category: euretained
+status: repealed
+made_date: '2008-04-07'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2008/294
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2008/294/pdfs/eudn_20080294_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2008/294/pdfs/eudn_20080294_2013-11-14_en.pdf
+- http://www.legislation.gov.uk/eudn/2008/294/pdfs/eudn_20080294_2016-12-20_en.pdf
+- http://www.legislation.gov.uk/eudn/2008/294/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Decision of 7 April 2008 on harmonised conditions of spectrum use for the operation of mobile communication services on aircraft (MCA services) in the Community (notified under document number C(2008) 1256) (Text with EEA relevance) (2008/294/EC)
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Commission Decision
+
+of 7 April 2008
+
+on harmonised conditions of spectrum use for the operation of mobile communication services on aircraft (MCA services) in the Community
+
+(notified under document number C(2008) 1256)
+
+(Text with EEA relevance)
+
+(2008/294/EC) (revoked)
+
+[^key-14155668821491e419dc15a71c8be49e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 1.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 2.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 3.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 4.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 5.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 6.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^key-14155668821491e419dc15a71c8be49e]
+
+[^key-14155668821491e419dc15a71c8be49e] 1.
+
+**Frequency bands and systems allowed for MCA Services**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-14155668821491e419dc15a71c8be49e] 2.
+
+**Prevention of connection of mobile terminals to ground networks**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-14155668821491e419dc15a71c8be49e] 3.
+
+**Technical parameters**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-14155668821491e419dc15a71c8be49e] (a)
+
+**Equivalent isotropic radiated power (e.i.r.p.), outside the aircraft, from the NCU/aircraft BTS/aircraft Node B**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-14155668821491e419dc15a71c8be49e] (b)
+
+**Equivalent isotropic radiated power (e.i.r.p.), outside the aircraft, from the on-board terminal**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-14155668821491e419dc15a71c8be49e] (c)
+
+**Operational requirements**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-14155668821491e419dc15a71c8be49e]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

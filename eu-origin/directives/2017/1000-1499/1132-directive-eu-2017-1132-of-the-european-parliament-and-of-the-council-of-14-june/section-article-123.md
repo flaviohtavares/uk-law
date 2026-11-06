@@ -1,0 +1,59 @@
+---
+title: Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) (Text with EEA relevance), section Article 123
+act: Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) (Text with EEA relevance)
+section: Article 123
+status: revised
+text_date: '2020-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2017/1132/section/Article 123
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) (Text with EEA relevance), section Article 123
+
+> Text as at 2020-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 123. Disclosure[^c000003]
+
+*Extent: E+W+S+N.I.*
+
+1. Member States shall ensure that the following documents are disclosed by the company and made publicly available in the register of the Member State of each of the merging companies, at least one month before the date of the general meeting referred to in Article 126:
+
+- (a) the common draft terms of the cross-border merger; and
+- (b) a notice informing the members, creditors and representatives of the employees of the merging company, or, where there are no such representatives, the employees themselves, that they may submit to their respective company, at the latest five working days before the date of the general meeting, comments concerning the common draft terms of the cross-border merger.
+
+Member States may require that the independent expert report be disclosed and made publicly available in the register.
+
+Member States shall ensure that the company is able to exclude confidential information from the disclosure of the independent expert report.
+
+The documents disclosed in accordance with this paragraph shall also be accessible through the system of interconnection of registers.
+
+2. Member States may exempt merging companies from the disclosure requirement referred to in paragraph 1 of this Article where, for a continuous period beginning at least one month before the date fixed for the general meeting referred to in Article 126 and ending not earlier than the conclusion of that meeting, those companies make the documents referred to in paragraph 1 of this Article available on their websites free of charge to the public.
+
+However, Member States shall not subject that exemption to any requirements or constraints other than those which are necessary to ensure the security of the website and the authenticity of the documents, and which are proportionate to achieving those objectives.
+
+3. Where merging companies make the common draft terms of the cross-border merger available in accordance with paragraph 2 of this Article, they shall submit to their respective register, at least one month before the date of the general meeting referred to in Article 126, the following information:
+
+- (a) for each of the merging companies its legal form and name and the location of its registered office and the legal form and name proposed for any newly created company and the proposed location of its registered office;
+- (b) the register in which the documents referred to in Article 14 are filed in respect of each of the merging companies, and the registration number of the respective company in that register;
+- (c) an indication, for each of the merging companies, of the arrangements made for the exercise of the rights of creditors, employees and members; and
+- (d) details of the website from which the common draft terms of the cross-border merger, the notice referred to in paragraph 1, the independent expert report and complete information on the arrangements referred to in point (c) of this paragraph may be obtained online and free of charge.
+
+The register of the Member State of each of the merging companies shall make publicly available the information referred to in points (a) to (d) of the first subparagraph.
+
+4. Member States shall ensure that the requirements referred to in paragraphs 1 and 3 can be fulfilled fully online without the necessity for the applicants to appear in person before any competent authority in the Member States of the merging companies, in accordance with the relevant provisions of Chapter III of Title I.
+
+5. Where the approval of the merger is not required by the general meeting of the acquiring company in accordance with Article 126(3), the disclosure referred to in paragraphs 1, 2 and 3 of this Article shall be made at least one month before the date of the general meeting of the other merging company or companies.
+
+6. Member States may require, in addition to the disclosure referred to in paragraphs 1, 2 and 3 of this Article, that the common draft terms of the cross-border merger, or the information referred to in paragraph 3 of this Article, be published in their national gazette or through a central electronic platform in accordance with Article 16(3). In that instance, Member States shall ensure that the register transmits the relevant information to the national gazette or to a central electronic platform.
+
+7. Member States shall ensure that the documentation referred to in paragraph 1 or the information referred to in paragraph 3 is accessible to the public free of charge through the system of interconnection of registers.
+
+Member States shall further ensure that any fees charged to the company by the registers for the disclosure referred to in paragraphs 1 and 3 and, where applicable, for the publication referred to in paragraph 6 do not exceed the recovery of the cost of providing such services.
+
+## Annotations
+
+[^c000003]: Textual amendment: Substituted by [Directive (EU) 2019/2121 of the European Parliament and of the Council of 27 November 2019 amending Directive (EU) 2017/1132 as regards cross-border conversions, mergers and divisions (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/2121).

@@ -1,0 +1,126 @@
+---
+title: Regulation (EU) 2018/1717 of the European Parliament and of the Council of 14 November 2018 amending Regulation (EU) No 1093/2010 as regards the location of the seat of the European Banking Authority (Text with EEA relevance)
+id: eur/2018/1717
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2018-11-14'
+text_date: '2018-11-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2018/1717
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2018/1717/pdfs/eur_20181717_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2018/1717/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2018/1717 of the European Parliament and of the Council of 14 November 2018 amending Regulation (EU) No 1093/2010 as regards the location of the seat of the European Banking Authority (Text with EEA relevance)
+
+> Text as at 2018-11-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Regulation (EU) 2018/1717 of the European Parliament and of the Council
+
+of 14 November 2018
+
+amending Regulation (EU) No 1093/2010 as regards the location of the seat of the European Banking Authority
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+After consulting the European Central Bank,
+
+Having regard to the opinion of the European Economic and Social Committee[^f00001],
+
+Acting in accordance with the ordinary legislative procedure[^f00002],
+
+Whereas:
+
+(1)
+
+In the context of the United Kingdom’s notification on 29 March 2017 of its intention to withdraw from the Union pursuant to Article 50 of the Treaty on European Union (TEU), the other 27 Member States, meeting on 20 November 2017 in the margins of the Council, selected Paris, France, as the new seat of the European Supervisory Authority (European Banking Authority) (the ‘Authority’).
+
+(2)
+
+Taking note of the ‘Joint report from the negotiators of the European Union and the United Kingdom Government on progress during phase 1 of negotiations under Article 50 TEU on the United Kingdom’s orderly withdrawal from the European Union’ of 8 December 2017 and in particular its chapter on financial settlement, and of the commitment of the United Kingdom to contribute to the general budget of the Union for the financial years 2019 and 2020 as if it remained in the Union and to contribute to its share of the financing of the commitments outstanding at 31 December 2020, the costs of relocation of the seat of the Authority arising from the decision of the United Kingdom to withdraw from the Union are to be borne by all Union taxpayers through the general budget of the Union. The United Kingdom has offered to discuss with those Union agencies that are located in London how they could reduce their withdrawal costs.
+
+(3)
+
+Having regard to Article 50(3) TEU, the Authority should take its new seat as of 30 March 2019.
+
+(4)
+
+To ensure the proper functioning of the Authority in its new location, a headquarters agreement should be concluded between the Authority and France and a building project in accordance with Article 88 of Commission Delegated Regulation (EU) No 1271/2013[^f00003] should be approved before the Authority takes up its new seat. The new premises should be ready and fit for the purpose of permanent relocation by 30 March 2019. The headquarters agreement should reflect the responsibility of the French authorities to provide the most appropriate conditions in order to ensure the proper functioning of the Authority in the context of its relocation.
+
+(5)
+
+The transfer of the seat of the Authority does not call into question the establishment plan as adopted by the European Parliament and the Council, nor the application of the Staff Regulations to officials or other agents who work at the Authority.
+
+(6)
+
+The relocation of the Authority should not have any consequences with regard to the execution of the distinct mandates of the European Supervisory Authorities or the maintenance of their separate legal status. The relocation might allow, where applicable, for the sharing among Union agencies of administrative support services and facility management services which are not related to core activities.
+
+(7)
+
+Relations between Union institutions are to be carried out in mutual sincere cooperation, with each institution acting within the limits of the powers conferred on it in the TEU and in the Treaty on the Functioning of the European Union and in conformity with the procedures, conditions and objectives set out therein.
+
+(8)
+
+To give the Authority sufficient time to relocate, this Regulation should enter into force as a matter of urgency following its adoption in accordance with the ordinary legislative procedure.
+
+(9)
+
+Regulation (EU) No 1093/2010 of the European Parliament and of the Council[^f00004] should therefore be amended accordingly,
+
+HAVE ADOPTED THIS REGULATION:
+
+**Article 1.** Article 7 of Regulation (EU) No 1093/2010 is replaced by the following:
+
+> **Article 7. Seat**
+>
+> The Authority shall have its seat in Paris, France.
+>
+> The location of the seat of the Authority shall not affect the Authority’s execution of its tasks and powers, the organisation of its governance structure, the operation of its main organisation, or the main financing of its activities, while allowing, where applicable, for the sharing with Union agencies of administrative support services and facility management services which are not related to the core activities of the Authority. By 30 March 2019 and every 12 months thereafter, the Commission shall report to the European Parliament and the Council on the compliance of the European Supervisory Authorities with that requirement.
+
+**Article 2.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall apply from 30 March 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Strasbourg, 14 November 2018.
+
+*For the European Parliament*
+
+*The President*
+
+A. Tajani
+
+*For the Council*
+
+*The President*
+
+K. Edtstadler
+
+## Annotations
+
+[^f00001]: Footnote: [OJ C 197, 8.6.2018, p. 72](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2018.197.01.0072.01.ENG).
+
+[^f00002]: Footnote: Position of the European Parliament of 25 October 2018 (not yet published in the Official Journal) and decision of the Council of 9 November 2018.
+
+[^f00003]: Footnote: Commission Delegated Regulation (EU) No 1271/2013 of 30 September 2013 on the framework financial regulation for the bodies referred to in Article 208 of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council ([OJ L 328, 7.12.2013, p. 42](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.328.01.0042.01.ENG)).
+
+[^f00004]: Footnote: Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC ([OJ L 331, 15.12.2010, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.331.01.0012.01.ENG)).

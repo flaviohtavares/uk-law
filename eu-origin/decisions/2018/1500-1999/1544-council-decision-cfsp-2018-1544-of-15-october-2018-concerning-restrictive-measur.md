@@ -1,0 +1,211 @@
+---
+title: Council Decision (CFSP) 2018/1544 of 15 October 2018 concerning restrictive measures against the proliferation and use of chemical weapons
+id: eudn/2018/1544
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2018-10-15'
+text_date: '2020-10-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2018/1544
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2018/1544/pdfs/eudn_20181544_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2018/1544/pdfs/eudn_20181544_2019-01-21_en.pdf
+- http://www.legislation.gov.uk/eudn/2018/1544/pdfs/eudn_20181544_2019-10-16_en.pdf
+- http://www.legislation.gov.uk/eudn/2018/1544/pdfs/eudn_20181544_2020-10-15_en.pdf
+- http://www.legislation.gov.uk/eudn/2018/1544/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision (CFSP) 2018/1544 of 15 October 2018 concerning restrictive measures against the proliferation and use of chemical weapons
+
+> Text as at 2020-10-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision (CFSP) 2018/1544
+
+of 15 October 2018
+
+concerning restrictive measures against the proliferation and use of chemical weapons
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1)
+
+The European Union supports the international treaties and regimes for disarmament, non-proliferation and arms controls.
+
+(2)
+
+The Union supports the effective implementation and universalisation of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction (hereafter ‘CWC’), and underlines its support for and the importance of the Organisation for the Prohibition of Chemical Weapons (OPCW) and its Technical Secretariat. The Union strongly condemns the proliferation and use of chemical weapons anywhere, by anyone, under any circumstances. In order to support the prohibition laid down by the CWC against the use of chemical weapons, which poses a serious threat to international security, the Union considers it necessary to take specific measures against those who resort to such weapons or contribute to developing or using them. The Union is committed to contributing to identifying and holding accountable individuals, entities, groups or governments responsible for the use of chemical weapons, as well as those who assist or encourage such activities. It is equally important to address the preparatory steps before use such as the development, production, acquisition, transfer and stockpiling of chemical weapons.
+
+(3)
+
+In this regard, the Union expressed its support to the Decision of the Conference of the States Parties to the CWC addressing the threat from chemical weapons use, adopted on 27 June 2018.
+
+(4)
+
+The Union and its Member States support the other international initiatives aimed at tackling the threat of chemical weapons, such as the Australia Group which, by coordinating and harmonising national export control measures, assists in the fulfilment of obligations under the CWC and the Biological and Toxin Weapons Convention, as well as ‘the Proliferation Security Initiative’ and the International Partnership against Impunity for the Use of Chemical Weapons. The Union and its Member States also support the implementation of relevant UNSC Resolutions, notably Resolutions 1540 (2004), 2118 (2013), 2209 (2015), 2235 (2015) and 2325 (2016).
+
+(5)
+
+On 22 March 2018, the European Council concluded that the use of chemical weapons, including the use of any toxic chemicals as weapons under any circumstances, is completely unacceptable, must be systematically and rigorously condemned and constitutes a security threat to us all. On 28 June 2018, the European Council called for the adoption as soon as possible of a new EU regime of restrictive measures to address the use and proliferation of chemical weapons.
+
+(6)
+
+This Decision contributes to the Union's efforts to counter the proliferation and use of chemical weapons. The scope and definition of chemical weapons referred to in this Decision should be the same as provided for by the CWC.
+
+(7)
+
+Further action by the Union is needed in order to implement certain measures,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** ‘Chemical weapons’ means chemical weapons as defined in Article II of the Chemical Weapons Convention (CWC).
+
+**Article 2.** 1. Member States shall take the measures necessary to prevent the entry into, or transit through, their territories of:
+
+- (a) natural persons who are responsible for, provide financial, technical or material support for or are otherwise involved in:
+  - ((i)) manufacturing, acquiring, possessing, developing, transporting, stockpiling or transferring chemical weapons;
+  - ((ii)) using chemical weapons;
+  - ((iii)) engaging in any preparations for the use of chemical weapons;
+- (b) natural persons who assist, encourage or induce any natural or legal person, entity or body to engage in any activity referred to in point (a) of this paragraph and thereby cause or contribute to a danger that such activities may be carried out; and
+- (c) natural persons associated with the natural persons listed in points (a) and (b);
+
+as listed in the Annex.
+
+2. Paragraph 1 shall not oblige a Member State to refuse its own nationals entry into its territory.
+
+3. Paragraph 1 shall be without prejudice to the cases where a Member State is bound by an obligation of international law, namely:
+
+- (a) as a host country of an international intergovernmental organisation;
+- (b) as a host country to an international conference convened by, or under the auspices of, the United Nations;
+- (c) under a multilateral agreement conferring privileges and immunities; or
+- (d) pursuant to the 1929 Treaty of Conciliation (Lateran Pact) concluded by the Holy See (Vatican City State) and Italy.
+
+4. Paragraph 3 shall be considered as applying also in cases where a Member State is host country of the Organisation for Security and Cooperation in Europe (OSCE).
+
+5. The Council shall be duly informed in all cases where a Member State grants an exemption pursuant to paragraph 3 or 4.
+
+6. Member States may grant exemptions from the measures imposed under paragraph 1 where travel is justified on the grounds of urgent humanitarian need, or on grounds of attending intergovernmental meetings and those promoted or hosted by the Union, or hosted by a Member State holding the Chairmanship in office of the OSCE, where a political dialogue is conducted that directly promotes the policy objectives of the restrictive measures, including implementing the legal prohibitions against chemical weapons and the achievement of chemical weapons disarmament. Member States may also grant exemptions from the measures imposed under paragraph 1 where entry or transit is necessary for the fulfilment of a judicial process.
+
+7. A Member State wishing to grant exemptions referred to in paragraph 6 shall notify the Council in writing. The exemption shall be deemed to be granted unless one or more of the Council members raises an objection in writing within two working days of receiving notification of the proposed exemption. Should one or more of the Council members raise an objection, the Council, acting by a qualified majority, may decide to grant the proposed exemption.
+
+8. Where, pursuant to paragraphs 3, 4, 6 or 7 a Member State authorises the entry into, or transit through its territory of persons listed in the Annex, the authorisation shall be strictly limited to the purpose for which it is given and to the persons directly concerned thereby.
+
+**Article 3.** 1. All funds and economic resources belonging to, owned, held or controlled by:
+
+- (a) natural or legal persons, entities or bodies who are responsible for, provide financial, technical or material support for or are otherwise involved in:
+  - ((i)) manufacturing, acquiring, possessing, developing, transporting, stockpiling or transferring chemical weapons;
+  - ((ii)) using chemical weapons;
+  - ((iii)) engaging in any preparations for the use of chemical weapons;
+- (b) natural or legal persons, entities or bodies which assist, encourage or induce, in any way, any natural or legal person, entity or body to engage in any activity referred to in point (a) of this paragraph and thereby cause or contribute to a danger that such activities may be carried out; and
+- (c) natural or legal persons, entities or bodies associated with the natural or legal persons, entities and bodies covered by points (a) and (b) of this paragraph;
+
+as listed in the Annex, shall be frozen.
+
+2. No funds or economic resources shall be made available directly or indirectly to or for the benefit of the natural or legal persons, entities or bodies listed in the Annex.
+
+3. By way of derogation from paragraphs 1 and 2, the competent authority of a Member State may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as it deems appropriate, after having determined that the funds or economic resources concerned are:
+
+- (a) necessary to satisfy the basic needs of the natural or legal persons, entities or bodies listed in the Annex and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+- (b) intended exclusively for the payment of reasonable professional fees and the reimbursement of incurred expenses associated with the provision of legal services;
+- (c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;
+- (d) necessary for extraordinary expenses, provided that the competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation; or
+- (e) to be paid into or from an account of a diplomatic or consular mission or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic or consular mission or international organisation.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph.
+
+4. By way of derogation from paragraph 1, the competent authorities of a Member State may authorise the release of certain frozen funds or economic resources, provided that the following conditions are met:
+
+- (a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in paragraph 1 was listed in the Annex, or a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+- (b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+- (c) the decision is not for the benefit of a natural or legal person, entity or body listed in the Annex; and
+- (d) recognition of the decision is not contrary to public policy in the Member State concerned.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph.
+
+5. Paragraph 1 shall not prevent a natural or legal person, an entity or body listed in the Annex from making a payment due under a contract entered into prior to the date on which such natural or legal person, entity or body was listed therein, provided that the Member State concerned has determined that the payment is not, directly or indirectly, received by a natural or legal person, entity or body referred to in paragraph 1.
+
+6. Paragraph 2 shall not apply to the addition to frozen accounts of:
+
+- (a) interest or other earnings on those accounts;
+- (b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which those accounts became subject to the measures provided for in paragraphs 1 and 2; or
+- (c) payments due under judicial, administrative or arbitral decisions rendered in the Union or enforceable in the Member State concerned;
+
+provided that any such interest, other earnings and payments remain subject to the measures provided for in paragraph 1.
+
+**Article 4.** 1. The Council, acting by unanimity upon a proposal from a Member State or from the High Representative of the Union for Foreign Affairs and Security Policy, shall establish and amend the list in the Annex.
+
+2. The Council shall communicate the decision referred to in paragraph 1, including the grounds for the listing, to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing such person, entity or body with an opportunity to present observations.
+
+3. Where observations are submitted, or where substantial new evidence is presented, the Council shall review the decision referred to in paragraph 1 and inform the natural or legal person, entity or body concerned accordingly.
+
+**Article 5.** 1. The Annex shall include the grounds for listing the natural and legal persons, entities and bodies referred to in Articles 2 and 3.
+
+2. The Annex shall also contain, where available, the information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include names, including aliases, date and place of birth, nationality, passport and identity card numbers, gender, address if known, and function or profession. With regard to legal persons, entities or bodies, such information may include names, place and date of registration, registration number and place of business.
+
+**Article 6.** No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Decision, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, in particular a claim for extension or payment of a bond, guarantee or indemnity, in particular a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+- ((a)) designated natural or legal persons, entities or bodies listed in the Annex;
+- ((b)) any natural or legal person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in point (a).
+
+**Article 7.** In order to maximise the impact of the measures set out in this Decision, the Union shall encourage third States to adopt restrictive measures similar to those provided for in this Decision.
+
+**Article 8.**[^c000001] This Decision shall apply until 16 October 2021 . This Decision shall be kept under constant review. It shall be renewed, or amended as appropriate, if the Council deems that its objectives have not been met.
+
+**Article 9.** This Decision shall enter into force on the date of its publication in the *Official Journal of the European Union*.
+
+## ANNEX — LIST OF NATURAL AND LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLES 2 AND 3
+
+A.[^c000002]
+
+NATURAL PERSONS
+
+| Name | Identifying information | Grounds for designation | Date of listing |
+| --- | --- | --- | --- |
+| 1\.<br>Tariq YASMINA | a.k.a.: Tarq Yasmina [image: see source](https://www.legislation.gov.uk/eudn/2018/1544/images/eudn_20181544_2020-10-15_en_001)<br>Gender: male;<br>Title: Colonel;<br>Nationality: Syrian | Tariq Yasmina acts as the liaison officer between the Scientific Studies and Research Centre (SSRC) and the Presidential Palace, and, as such, is involved in the use and preparations for the use of chemical weapons by the Syrian regime. | 21.1.2019 |
+| 2\.<br>Khaled NASRI | a.k.a.: Mohammed Khaled Nasri; Haled Natsri; [image: see source](https://www.legislation.gov.uk/eudn/2018/1544/images/eudn_20181544_2020-10-15_en_002)<br>[image: see source](https://www.legislation.gov.uk/eudn/2018/1544/images/eudn_20181544_2020-10-15_en_003)<br>Gender: male;<br>Title: Head of Institute 1000 of the SSRC;<br>Nationality: Syrian | Khaled Nasri is the Director of Institute 1000, the division of the Scientific Studies and Research Centre (SSRC) responsible for developing and producing computer and electronic systems for Syria's chemical weapons programme. | 21.1.2019 |
+| 3\.<br>Walid ZUGHAIB | a.k.a.: Zughib, Zgha'ib, Zughayb; [image: see source](https://www.legislation.gov.uk/eudn/2018/1544/images/eudn_20181544_2020-10-15_en_004)<br>Title: Doctor, Head of Institute 2000 of the SSRC;<br>Gender: male;<br>Nationality: Syrian | Walid Zughaib is the Director of Institute 2000, the division of the Scientific Studies and Research Centre (SSRC) responsible for mechanical development and production for Syria's chemical weapons programme. | 21.1.2019 |
+| 4\.<br>Firas AHMED | a.k.a.: Ahmad; [image: see source](https://www.legislation.gov.uk/eudn/2018/1544/images/eudn_20181544_2020-10-15_en_005)<br>Title: Colonel, Head of Security Office at Institute 1000 of the SSRC;<br>Gender: male;<br>Date of birth: 21 January 1967 ;<br>Nationality: Syrian | Firas Ahmed is the Director of the Security Office of Institute 1000, the division of the Scientific Studies and Research Centre (SSRC) responsible for developing and producing computer and electronic systems for Syria's chemical weapons programme. He was involved in transferring and concealing chemical weapons related materials following Syria's accession to the Chemical Weapons Convention. | 21.1.2019 |
+| 5\.<br>Said SAID | a.k.a.: Saeed, Sa’id Sa’id, [image: see source](https://www.legislation.gov.uk/eudn/2018/1544/images/eudn_20181544_2020-10-15_en_006)<br>Title: Doctor, member of Institute 3000 (a.k.a. Institute 6000) of the SSRC;<br>Gender: male;<br>Date of birth: 11 December 1955 | Said Said is a significant figure in Institute 3000 a.k.a. Institute 6000, the division of the Scientific Studies and Research Centre (SSRC) that is responsible for developing and producing Syria’s chemical weapons. | 21.1.2019 |
+| 6\.<br>Anatoliy Vladimirovich CHEPIGA | Анатолий Владимирович ЧЕПИГА, a.k.a.: Ruslan BOSHIROV<br>Gender: male;<br>Dates of birth: 5 April 1979 ; 12 Apr 1978 ;<br>Places of Birth: Nikolaevka, Amur Oblast, Russia; Dushanbe, Tajikistan | GRU Officer Anatoliy Chepiga (a.k.a. Ruslan Boshirov) possessed, transported and then, during the weekend of 4 March 2018 , in Salisbury, used a toxic nerve agent ( ‘ Novichok ’ ). On 5 September 2018 , the UK Crown Prosecution Service charged Ruslan Boshirov for conspiracy to murder Sergei Skripal; for the attempted murder of Sergei Skripal, Yulia Skripal and Nick Bailey; for the use and possession of Novichok; and for causing grievous bodily harm with intent to Yulia Skripal and Nick Bailey. | 21.1.2019 |
+| 7\.<br>Alexander Yevgeniyevich MISHKIN | Александр Евгеньевич МИШКИН, a.k.a.: Alexander PETROV<br>Gender: male;<br>Date of birth: 13 July 1979 ;<br>Places of Birth: Loyga, Russia; Kotlas, Russia | GRU Officer Alexander Mishkin (a.k.a. Alexander Petrov) possessed, transported and then, during the weekend of 4 March 2018 , in Salisbury, used a toxic nerve agent ( ‘ Novichok ’ ). On 5 September 2018 , the UK Crown Prosecution Service charged Alexander Petrov for conspiracy to murder Sergei Skripal; for the attempted murder of Sergei Skripal, Yulia Skripal and Nick Bailey; for the use and possession of Novichok; and for causing grievous bodily harm with intent to Yulia Skripal and Nick Bailey. | 21.1.2019 |
+| 8\.<br>Vladimir Stepanovich ALEXSEYEV | Владимир Степанович АЛЕКСЕЕВ<br>Gender: male;<br>Title: First Deputy Head of the GRU | Vladimir Stepanovich Alexseyev is the First Deputy Head of the GRU (a.k.a. GU). Given his senior leadership role in the GRU, Alexseyev is responsible for the possession, transport and use in Salisbury during the weekend of 4 March 2018 of the toxic nerve agent ‘ Novichok ’ by officers from the GRU. | 21.1.2019 |
+| 9\.<br>Igor Olegovich KOSTYUKOV | Игорь Олегович КОСТЮКОВ<br>Gender: male;<br>Title: Head of the GRU | Igor Olegovich Kostyukov, given his senior leadership role as First Deputy Head of the GRU (a.k.a. GU) at that time, is responsible for the possession, transport and use in Salisbury during the weekend of 4 March 2018 of the toxic nerve agent ‘ Novichok ’ by officers from the GRU. | 21.1.2019 |
+| 10.[^c000003]<br>Andrei Veniaminovich YARIN<br>(Андрей Вениаминович ЯРИН) | Gender: male;<br>Date of birth: 13 February 1970 ;<br>Place of birth: Nizhny Tagil;<br>Nationality: Russian;<br>Title: Chief of the Presidential Domestic Policy Directorate | Andrei Yarin is Chief of the Presidential Domestic Policy Directorate in the Presidential Executive Office in the Russian Federation. In this function, he is in charge of designing and implementing internal political orientations. Andrei Yarin was also appointed to a task force inside the Presidential Executive Office whose role was to counter Alexei Navalny’s influence in Russian society including through operations meant to discredit him.<br>Alexei Navalny has been the target of systematic harassment and repression by State and judicial actors in the Russian Federation due to his prominent role in the political opposition.<br>Alexei Navalny’s activities were closely monitored by the authorities of the Russian Federation during his journey to Siberia in August 2020. On 20 August 2020 , he was taken seriously ill and admitted to a hospital in Omsk, Russian Federation. On 22 August 2020 , he was transported to a hospital in Berlin, Germany. A specialised laboratory in Germany subsequently found clear evidence, also corroborated by laboratories in France and Sweden, that Alexei Navalny had been poisoned with a toxic nerve agent of the Novichok group. This toxic agent is accessible only to State authorities in the Russian Federation.<br>In these circumstances, it is reasonable to conclude that the poisoning of Alexei Navalny was only possible with the consent of the Presidential Executive Office. Given his senior leadership role in that Office, Andrei Yarin is therefore responsible for inducing and providing support to the persons who carried out or were involved in the poisoning of Alexei Navalny with the Novichok nerve agent, which constitutes a use of chemical weapons under the Chemical Weapons Convention. | 15.10.2020 |
+| 11.[^c000004]<br>Sergei Vladilenovich KIRIYENKO<br>(Сергей Владиленович КИРИЕНКО) | Gender: male;<br>Date of birth: 26 July 1962 ;<br>Place of birth: Sukhumi;<br>Nationality: Russian;<br>Title: First Deputy Chief of Staff of the Presidential Executive Office | Sergei Kiriyenko is the First Deputy Chief of Staff of the Presidential Executive Office of the Russian Federation. In this function, he is responsible for domestic affairs, including political groups and activities.<br>Alexei Navalny has been the target of systematic harassment and repression by State and judicial actors in the Russian Federation due to his prominent role in the political opposition.<br>Alexei Navalny’s activities were closely monitored by the authorities of the Russian Federation during his journey to Siberia in August 2020. On 20 August 2020 , he was taken seriously ill and admitted to a hospital in Omsk, Russian Federation. On 22 August 2020 , he was transported to a hospital in Berlin, Germany. A specialised laboratory in Germany subsequently found clear evidence, also corroborated by laboratories in France and Sweden, that Alexei Navalny had been poisoned with a toxic nerve agent of the Novichok group. This toxic agent is accessible only to State authorities in the Russian Federation.<br>In these circumstances, it is reasonable to conclude that the poisoning of Alexei Navalny was only possible with the consent of the Presidential Executive Office. Given his senior leadership role in that Office, Sergei Kiriyenko is therefore responsible for inducing and providing support to the persons who carried out or were involved in the poisoning of Alexei Navalny with the Novichok nerve agent, which constitutes a use of chemical weapons under the Chemical Weapons Convention. | 15.10.2020 |
+| 12\.<br>Sergei Ivanovich MENYAILO<br>(Сергей Иванович МЕНЯЙЛО) | Gender: male;<br>Date of birth: 22 August 1960 ;<br>Place of birth: Alagir;<br>Nationality: Russian;<br>Title: Plenipotentiary Representative of the President of the Russian Federation in the Siberian Federal District | Sergei Menyailo is the Plenipotentiary Representative of the President of the Russian Federation in the Siberian Federal District and in this capacity he is responsible for ensuring the implementation of the constitutional powers of the President including the implementation of domestic and foreign policy of the State. Sergei Menyailo is also a non-permanent member of the Security Council of the Russian Federation.<br>Alexei Navalny has been the target of systematic harassment and repression by State and judicial actors in the Russian Federation due to his prominent role in the political opposition.<br>Alexei Navalny’s activities were closely monitored by the authorities of the Russian Federation during his journey to Siberia in August 2020. On 20 August 2020 , he was taken seriously ill and admitted to a hospital in Omsk, Russian Federation. On 22 August 2020 , he was transported to a hospital in Berlin, Germany. A specialised laboratory in Germany subsequently found clear evidence, also corroborated by laboratories in France and Sweden, that Alexei Navalny had been poisoned with a toxic nerve agent of the Novichok group. This toxic agent is accessible only to State authorities in the Russian Federation.<br>In these circumstances, it is reasonable to conclude that the poisoning of Alexei Navalny was only possible with the consent of the Presidential Executive Office.<br>Given his senior leadership role as the representative of that Office in the Siberian Federal District, Sergei Menyailo is therefore responsible for inducing and providing support to the persons who carried out or were involved in the poisoning of Alexei Navalny with the Novichok nerve agent, which constitutes a use of chemical weapons under the Chemical Weapons Convention. | 15.10.2020 |
+| 13\.<br>Aleksandr Vasilievich BORTNIKOV<br>(Александр Васильевич БОРТНИКОВ) | Gender: male;<br>Date of birth: 15 November 1951 ;<br>Place of birth: Perm;<br>Nationality: Russian;<br>Title: Director of the Federal Security Service of the Russian Federation | Aleksandr Bortnikov is the Director of the Federal Security Service of the Russian Federation and in this capacity he is responsible for the activities of the principal security agency in Russia.<br>Alexei Navalny has been the target of systematic harassment and repression by State and judicial actors in the Russian Federation due to his prominent role in the political opposition.<br>Alexei Navalny’s activities were closely monitored by the Federal Security Service of the Russian Federation during his journey to Siberia in August 2020. On 20 August 2020 , he was taken seriously ill and admitted to a hospital in Omsk, Russian Federation. On 22 August 2020 , he was transported to a hospital in Berlin, Germany. A specialised laboratory in Germany subsequently found clear evidence, also corroborated by laboratories in France and Sweden, that Alexei Navalny had been poisoned with a toxic nerve agent of the Novichok group. This toxic agent is accessible only to State authorities in the Russian Federation.<br>In these circumstances and taking into account that Alexei Navalny was under surveillance at the time of his poisoning, it is reasonable to conclude that the poisoning was only possible with the involvement of the Federal Security Service.<br>Given his senior leadership role in the Federal Security Service, Aleksandr Bortnikov is therefore responsible for providing support to the persons who carried out or were involved in the poisoning of Alexei Navalny with the Novichok nerve agent, which constitutes a use of chemical weapons under the Chemical Weapons Convention. | 15.10.2020 |
+| 14\.<br>Pavel Anatolievich POPOV<br>(Павел Анатольевич ПОПОВ) | Gender: male;<br>Date of birth: 01 January 1957 ;<br>Place of Birth: Krasnoyarsk;<br>Nationality: Russian;<br>Title: Deputy Minister of Defence of the Russian Federation | Pavel Popov is the Deputy Minister in the Ministry of Defence of the Russian Federation and in this capacity he has overall responsibility for research activities. This includes the oversight and development of the Ministry’s scientific and technical capabilities, including the development of potential and modernisation of existing weapons and military equipment.<br>The Russian Ministry of Defence took on the responsibility for the chemical weapons stocks inherited from the Soviet Union and their safe storage until their destruction could be completed.<br>On 20 August 2020 , Alexei Navalny was taken seriously ill and admitted to a hospital in Omsk, Russian Federation. On 22 August 2020 , he was transported to a hospital in Berlin, Germany. A specialised laboratory in Germany subsequently found clear evidence, also corroborated by laboratories in France and Sweden, that Alexei Navalny had been poisoned with a toxic nerve agent of the Novichok group. This toxic agent is accessible only to State authorities in the Russian Federation.<br>As a consequence of the overall responsibility of the Ministry of Defence for the safe storage and destruction of chemical weapons, the use of such chemical weapons in the territory of the Russian Federation could only be as a result of intent or negligence by the Ministry of Defence and its political leadership.<br>Given his senior leadership role in the Ministry of Defence of the Russian Federation, Pavel Popov is therefore responsible for assisting the persons who carried out or were involved in the poisoning of Alexei Navalny with the Novichok nerve agent, which constitutes a use of chemical weapons under the Chemical Weapons Convention. | 15.10.2020 |
+| 15\.<br>Aleksei Yurievich KRIVORUCHKO<br>(Алексей Юрьевич КРИВОРУЧКО) | Gender: male;<br>Date of birth: 17 July 1975 ;<br>Place of Birth: Stavropol;<br>Nationality: Russian;<br>Title: Deputy Minister of Defence of the Russian Federation | Aleksei Krivoruchko is the Deputy Minister in the Ministry of Defence of the Russian Federation with the overall responsibility for armaments. This includes the oversight of the Ministry’s stocks of weapons and military equipment. He is also responsible for their elimination within the framework of the implementation of international treaties assigned to the Ministry of Defence.<br>The Russian Ministry of Defence took on the responsibility for the chemical weapons stocks inherited from the Soviet Union and their safe storage until their destruction could be completed.<br>On 20 August 2020 , Alexei Navalny was taken seriously ill and admitted to a hospital in Omsk, Russian Federation. On 22 August 2020 , he was transported to a hospital in Berlin, Germany. A specialised laboratory in Germany subsequently found clear evidence, also corroborated by laboratories in France and Sweden, that Alexei Navalny had been poisoned with a toxic nerve agent of the Novichok group. This toxic agent is accessible only to State authorities in the Russian Federation.<br>As a consequence of the overall responsibility of the Ministry of Defence for the safe storage and destruction of chemical weapons, the use of such chemical weapons in the territory of the Russian Federation could only be as a result of intent or negligence by the Ministry of Defence and its political leadership.<br>Given his senior leadership role in the Ministry of Defence of the Russian Federation, Aleksei Krivoruchko is therefore responsible for assisting the persons who carried out or were involved in the poisoning of Alexei Navalny with the Novichok nerve agent, which constitutes a use of chemical weapons under the Chemical Weapons Convention. | 15.10.2020 |
+
+B.
+
+LEGAL PERSONS, ENTITIES AND BODIES
+
+| Name | Identifying information | Grounds for designation | Date of listing |
+| --- | --- | --- | --- |
+| 1\.<br>Scientific Studies and Research Centre (SSRC) | a.k.a.: Centre d'Études et de Recherches Scientifiques (CERS), Centre de Recherche de Kaboun<br>Address:<br>Barzeh Street,<br>Po Box 4470,<br>Damascus | The Scientific Studies and Research Centre (SSRC) is the Syrian regime's principal entity for the development of chemical weapons.<br>The SSRC is responsible for the development and production of chemical weapons, as well as the missiles to deliver them, operating at a number of sites in Syria. | 21.1.2019 |
+| 2\.<br>State Scientific Research Institute for Organic Chemistry and Technology (GosNIIOKhT)<br>(Государственный научно-исследовательский институт органической химии и технологии) | Address: Shosse Entuziastov 23, 11124 Moscow, Moscow Oblast, Russia ;<br>Phone: +7 (495) 673 7530;<br>Fax: +7 (495) 673 2218;<br>Web: http://gosniiokht.ru<br>E-mail: dir@gosniiokht.ru | The State Scientific Research Institute for Organic Chemistry and Technology (GosNIIOKhT) is a state research institute with the responsibility for the destruction of chemical weapons stocks inherited from the Soviet Union.<br>The institute in its original role before 1994 was involved in the development and production of chemical weapons including the toxic nerve agent now know as ‘ Novichok ’ . After 1994, the same facility took part in the government’s programme for the destruction of the stocks of chemical weapons inherited from the Soviet Union.<br>On 20 August 2020 , Alexei Navalny was taken seriously ill and admitted to a hospital in Omsk, Russian Federation. On 22 August 2020 , he was transported to a hospital in Berlin, Germany. A specialised laboratory in Germany subsequently found clear evidence, also corroborated by laboratories in France and Sweden, that Alexei Navalny had been poisoned with a toxic nerve agent of the Novichok group. This toxic agent is accessible only to State authorities in the Russian Federation.<br>The deployment of a toxic nerve agent of the Novichok group would therefore only be possible due to the failure of the Institute to carry out its responsibility to destroy the stockpiles of chemical weapons. | 15.10.2020 |
+
+## Annotations
+
+[^c000001]: Textual amendment: Substituted by [Council Decision (CFSP) 2020/1466 of 12 October 2020 amending Decision (CFSP) 2018/1544 concerning restrictive measures against the proliferation and use of chemical weapons](https://www.legislation.gov.uk/eudn/2020/1466).
+
+[^c000002]: Textual amendment: Inserted by [Council Decision (CFSP) 2019/86 of 21 January 2019 amending Decision (CFSP) 2018/1544 concerning restrictive measures against the proliferation and use of chemical weapons](https://www.legislation.gov.uk/eudn/2019/86).
+
+[^c000003]: Textual amendment: Inserted by [Council Decision (CFSP) 2020/1482 of 14 October 2020 amending Decision (CFSP) 2018/1544 concerning restrictive measures against the proliferation and use of chemical weapons](https://www.legislation.gov.uk/eudn/2020/1482).
+
+[^c000004]: Editorial: Substituted by [Corrigendum to Council Decision (CFSP) 2020/1482 of 14 October 2020 amending Decision (CFSP) 2018/1544 concerning restrictive measures against the proliferation and use of chemical weapons (Official Journal of the European Union L 341 of 15 October 2020)](https://www.legislation.gov.uk/eudn/2020/1482/pdfs/eudncs_20201482_en_001.pdf).

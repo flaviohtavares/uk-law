@@ -1,0 +1,89 @@
+---
+title: Council Decision of 10 July 2012 appointing six Bulgarian members and eight Bulgarian alternate members of the Committee of the Regions (2012/403/EU)
+id: eudn/2012/403
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2012-07-10'
+text_date: '2012-07-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2012/403
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2012/403/pdfs/eudn_20120403_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2012/403/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision of 10 July 2012 appointing six Bulgarian members and eight Bulgarian alternate members of the Committee of the Regions (2012/403/EU)
+
+> Text as at 2012-07-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision
+
+of 10 July 2012
+
+appointing six Bulgarian members and eight Bulgarian alternate members of the Committee of the Regions
+
+(2012/403/EU)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 305 thereof,
+
+Having regard to the proposal of the Bulgarian Government,
+
+Whereas:
+
+(1)
+
+On 22 December 2009 and on 18 January 2010, the Council adopted Decisions 2009/1014/EU[^f00001] and 2010/29/EU[^f00002] appointing the members and alternate members of the Committee of the Regions for the period from 26 January 2010 to 25 January 2015.
+
+(2)
+
+Six members’ seats on the Committee of the Regions have become vacant following the end of the terms of office of Ms Katya DOYCHEVA, Ms Dora IANKOVA, Mr Orhan MUMUN, Ms Penka PENKOVA, Mr Georgi SLAVOV and Mr Bozhidar YOTOV. Six alternate members’ seats have become vacant following the end of the terms of office of Mr Ivo ANDONOV, Ms Shukran IDRIZ, Mr Veselin LICHEV, Mr Rumen RASHEV, Mr Svetlin TANCHEV and Mr Nayden ZELENOGORSKI. Two alternate members’ seats will become vacant following the appointment of Mr Ahmed AHMEDOV and Mr Krassimir KOSTOV as members of the Committee of the Regions,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** The following are hereby appointed to the Committee of the Regions for the remainder of the current term of office, which runs until 25 January 2015:
+
+- ((a)) as members:
+  - Mr Ahmed AHMEDOV, *Mayor, Municipality of Tsar Kaloyan*
+  - Ms Tanya HRISTOVA, *Mayor, Municipality of Gabrovo*
+  - Mr Krassimir KOSTOV, *Mayor, Municipality of Shumen*
+  - Mr Madzhid MANDADZHA, *Mayor, Municipality of Stambolovo*
+  - Mr Zhivko TODOROV, *Mayor, Municipality of Stara Zagora*
+  - Mr Luydmil VESSELINOV, *Mayor, Municipality of Popovo*,
+
+  and
+- ((b)) as alternate members:
+  - Mr Nida AHMEDOV, *Mayor, Municipality of Kaolinovo*
+  - Mr Ivan ALEKSIEV, *Mayor, Municipality of Pomorie*
+  - Mr Atanas KAMBITOV, *Mayor, Municipality of Blagoevgrad*
+  - Ms Kornelia MARINOVA, *Municipal Councillor, Municipality of Lovech*
+  - Ms Sebihan MEHMED, *Mayor, Municipality of Krumovgrad*
+  - Ms Anastassya MLADENOVA, *Municipal Councillor, Municipality of Peshtera*
+  - Mr Fahri MOLAYSSENOV, *Mayor, Municipality of Madan*
+  - Mr Georgi SLAVOV, *Mayor, Municipality of Yambol*.
+
+**Article 2.** This Decision shall enter into force on the day of its adoption.
+
+Done at Brussels, 10 July 2012.
+
+*For the Council*
+
+*The President*
+
+V. Shiarly
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 348, 29.12.2009, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.348.01.0022.01.ENG).
+
+[^f00002]: Footnote: [OJ L 12, 19.1.2010, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.012.01.0011.01.ENG).

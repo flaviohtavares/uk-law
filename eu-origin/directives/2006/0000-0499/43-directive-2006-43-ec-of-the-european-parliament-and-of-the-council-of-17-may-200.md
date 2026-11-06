@@ -1,0 +1,1134 @@
+---
+title: Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (Text with EEA relevance)
+id: eudr/2006/43
+type: EuropeanUnionDirective
+category: euretained
+status: revised
+made_date: '2006-05-17'
+text_date: '2014-06-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2006/43
+pdf_urls:
+- http://www.legislation.gov.uk/eudr/2006/43/pdfs/eudr_20060043_adopted_en.pdf
+- http://www.legislation.gov.uk/eudr/2006/43/pdfs/eudr_20060043_2008-03-21_en.pdf
+- http://www.legislation.gov.uk/eudr/2006/43/pdfs/eudr_20060043_2013-07-19_en.pdf
+- http://www.legislation.gov.uk/eudr/2006/43/pdfs/eudr_20060043_2014-06-16_en.pdf
+- http://www.legislation.gov.uk/eudr/2006/43/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (Text with EEA relevance)
+
+> Text as at 2014-06-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Directive 2006/43/EC of the European Parliament and of the Council
+
+of 17 May 2006
+
+on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 44(2)(g) thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the European Economic and Social Committee[^f00001],
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty[^f00002],
+
+Whereas:
+
+(1)
+
+Currently, the Fourth Council Directive 78/660/EEC of 25 July 1978 on the annual accounts of certain types of companies[^f00003], the Seventh Council Directive 83/349/EEC of 13 June 1983 on consolidated accounts[^f00004], Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions[^f00005] and Council Directive 91/674/EEC of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings[^f00006] require that the annual accounts or consolidated accounts be audited by one or more persons entitled to carry out such audits.
+
+(2)
+
+The conditions for the approval of persons responsible for carrying out the statutory audit were laid down in the Eighth Council Directive 84/253/EEC of 10 April 1984 on the approval of persons responsible for carrying out the statutory audits of accounting documents[^f00007].
+
+(3)
+
+The lack of a harmonised approach to statutory auditing in the Community was the reason why the Commission proposed, in its 1998 Communication on the statutory audit in the European Union: the way forward[^f00008], the creation of a Committee on Auditing which could develop further action in close cooperation with the accounting profession and Member States.
+
+(4)
+
+On the basis of the work of that Committee, on 15 November 2000 the Commission issued a Recommendation on quality assurance for the statutory audit in the European Union: minimum requirements[^f00009] and on 16 May 2002 a Recommendation on Statutory Auditors' Independence in the EU: A Set of Fundamental Principles[^f00010].
+
+(5)
+
+This Directive aims at high-level — though not full — harmonisation of statutory audit requirements. A Member State requiring statutory audit may impose more stringent requirements, unless otherwise provided for by this Directive.
+
+(6)
+
+Audit qualifications obtained by statutory auditors on the basis of this Directive should be considered equivalent. It should therefore no longer be possible for Member States to insist that a majority of the voting rights in an audit firm must be held by locally approved auditors or that a majority of the members of the administrative or management body of an audit firm must be locally approved.
+
+(7)
+
+The statutory audit requires adequate knowledge of matters such as company law, fiscal law and social law. Such knowledge should be tested before a statutory auditor from another Member State can be approved.
+
+(8)
+
+In order to protect third parties, all approved auditors and audit firms should be entered in a register which is accessible to the public and which contains basic information concerning statutory auditors and audit firms.
+
+(9)
+
+Statutory auditors should adhere to the highest ethical standards. They should therefore be subject to professional ethics, covering at least their public-interest function, their integrity and objectivity and their professional competence and due care. The public-interest function of statutory auditors means that a broader community of people and institutions rely on the quality of a statutory auditor's work. Good audit quality contributes to the orderly functioning of markets by enhancing the integrity and efficiency of financial statements. The Commission may adopt implementing measures on professional ethics as minimum standards. When doing so, it might consider the principles contained in the International Federation of Accountants (IFAC) Code of Ethics.
+
+(10)
+
+It is important that statutory auditors and audit firms respect the privacy of their clients. They should therefore be bound by strict rules on confidentiality and professional secrecy which, however, should not impede proper enforcement of this Directive. Those confidentiality rules should also apply to any statutory auditor or audit firm which has ceased to be involved in a specific audit task.
+
+(11)
+
+Statutory auditors and audit firms should be independent when carrying out statutory audits. They may inform the audited entity of matters arising from the audit, but should abstain from the internal decision processes of the audited entity. If they find themselves in a situation where the significance of the threats to their independence, even after application of safeguards to mitigate those threats, is too high, they should resign or abstain from the audit engagement. The conclusion that there is a relationship which compromises the auditor's independence may be different as regards the relationship between the auditor and the audited entity from that in respect of the relationship between the network and the audited entity. Where a cooperative within the meaning of Article 2(14), or a similar entity as referred to in Article 45 of Directive 86/635/EEC, is required or permitted under national provisions to be a member of a non-profit-making auditing entity, an objective, reasonable and informed party would not conclude that the membership-based relationship compromises the statutory auditor's independence, provided that when such an auditing entity is conducting a statutory audit of one of its members, the principles of independence are applied to the auditors carrying out the audit and those persons who may be in a position to exert influence on the statutory audit. Examples of threats to the independence of a statutory auditor or audit firm are a direct or indirect financial interest in the audited entity and the provision of additional non-audit services. Also, the level of fees received from one audited entity and/or the structure of the fees can threaten the independence of a statutory auditor or audit firm. Types of safeguards to be applied to mitigate or eliminate those threats include prohibitions, restrictions, other policies and procedures, and disclosure. Statutory auditors and audit firms should refuse to undertake any additional non-audit service that compromises their independence. The Commission may adopt implementing measures on independence as minimum standards. In doing so, the Commission might take into consideration the principles contained in the abovementioned Recommendation of 16 May 2002. In order to determine the independence of auditors, the concept of a ‘network’ in which auditors operate needs to be clear. In this regard, various circumstances have to be taken into account, such as instances where a structure could be defined as a network because it is aimed at profit- or cost-sharing. The criteria for demonstrating that there is a network should be judged and weighed on the basis of all factual circumstances available, such as whether there are common usual clients.
+
+(12)
+
+In cases of self-review or self-interest, where appropriate to safeguard the statutory auditor's or audit firm's independence, it should be for the Member State rather than the statutory auditor or the audit firm to decide whether the statutory auditor or audit firm should resign or abstain from an audit engagement with regard to its audit clients. However, this should not lead to a situation where Member States have a general duty to prevent statutory auditors or audit firms from providing non-audit services to their audit clients. For the purposes of determining whether it is appropriate, in cases of self-interest or self-review, that a statutory auditor or audit firm should not carry out statutory audits, so as to safeguard the statutory auditor's or audit firm's independence, the factors to be taken into account should include the question whether or not the audited public-interest entity has issued transferable securities admitted to trading on a regulated market within the meaning of point 14 of Article 4(1) of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments[^f00011].
+
+(13)
+
+It is important to ensure consistently high quality in all statutory audits required by Community law. All statutory audits should therefore be carried out on the basis of international auditing standards. Measures implementing those standards in the Community should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission[^f00012]. A technical committee or group on auditing should assist the Commission in the assessment of the technical soundness of all the international auditing standards, and should also involve the system of public oversight bodies of the Member States. In order to achieve a maximum degree of harmonisation, Member States should be allowed to impose additional national audit procedures or requirements only if these stem from specific national legal requirements relating to the scope of the statutory audit of annual or consolidated accounts, meaning that those requirements have not been covered by the adopted international auditing standards. Member States could maintain those additional audit procedures until the audit procedures or requirements have been covered by subsequently adopted international auditing standards. If, however, the adopted international auditing standards contain audit procedures the performance of which would create a specific legal conflict with national law stemming from specific national requirements related to the scope of the statutory audit, Member States may carve out the conflicting part of the international auditing standard as long as those conflicts exist, provided the measures referred to in Article 26(3) are applied. Any addition or carving out by Member States should add a high level of credibility to the annual accounts of companies and be conducive to the public good. The above implies that Member States may, for example, require an additional auditor's report to the supervisory board or prescribe other reporting and audit requirements based on national corporate governance rules.
+
+(14)
+
+For the Commission to adopt an international auditing standard for application in the Community, it must be generally accepted internationally and have been developed with full participation of all interested parties following an open and transparent procedure, add to the credibility and quality of annual accounts and consolidated accounts and be conducive to the European public good. The need for the adoption of an International Auditing Practice Statement as part of a standard should be assessed in accordance with Decision 1999/468/EC on a case-by-case basis. The Commission should ensure that before the start of the adoption process a review is conducted in order to verify whether those requirements have been met and report to members of the Committee set up under this Directive on the outcome of the review.
+
+(15)
+
+In the case of consolidated accounts, it is important that there be a clear definition of responsibilities as between the statutory auditors who audit components of the group. For this purpose, the group auditor should bear full responsibility for the audit report.
+
+(16)
+
+In order to increase comparability between companies applying the same accounting standards, and to enhance public confidence in the audit function, the Commission may adopt a common audit report for the audit of annual accounts or consolidated accounts prepared on the basis of approved international accounting standards, unless an appropriate standard for such a report has been adopted at Community level.
+
+(17)
+
+Regular inspections are a good means of achieving a consistently high quality in statutory audits. Statutory auditors and audit firms should therefore be subject to a system of quality assurance that is organised in a manner which is independent from the reviewed statutory auditors and audit firms. For the application of Article 29 on quality assurance systems, Member States may decide that if individual auditors have a common quality assurance policy, only the requirements for audit firms need to be considered. Member States may organise the system of quality assurance in such a manner that each individual auditor is to be subject to a quality assurance review at least every six years. In this respect, the funding for the quality assurance system should be free from undue influence. The Commission should have the competence to adopt implementing measures in matters relevant to the organisation of quality assurance systems, and in respect of its funding, in cases where public confidence in the quality assurance system is seriously compromised. The public oversight systems of Member States should be encouraged to find a coordinated approach to the carrying-out of quality assurance reviews with a view to avoiding the imposition of unnecessary burdens on the parties concerned.
+
+(18)
+
+Investigations and appropriate penalties help to prevent and correct inadequate execution of a statutory audit.
+
+(19)
+
+Statutory auditors and audit firms are responsible for carrying out their work with due care and thus should be liable for the financial damage caused by a lack of the care owed. However, the auditors' and audit firms' ability to obtain professional indemnity insurance cover may be affected by whether they are subject to unlimited financial liability. For its part, the Commission intends examining these issues, taking into account the fact that liability regimes of the Member States may vary considerably.
+
+(20)
+
+Member States should organise an effective system of public oversight for statutory auditors and audit firms on the basis of home country control. The regulatory arrangements for public oversight should make possible effective cooperation at Community level in respect of the Member States' oversight activities. The public oversight system should be governed by non-practitioners who are knowledgeable in the areas relevant to statutory audit. These non-practitioners may be specialists who have never been linked with the audit profession or former practitioners who have left the profession. Member States may, however, allow a minority of practitioners to be involved in the governance of the public oversight system. Competent authorities of Member States should cooperate with each other whenever necessary for the purpose of carrying out their oversight duties on statutory auditors or audit firms approved by them. Such cooperation can make an important contribution to ensuring consistently high quality in the statutory audit in the Community. Since it is necessary to ensure effective cooperation and coordination at European level among competent authorities designated by Member States, the designation of one entity, responsible for ensuring cooperation, should be without prejudice to the ability of each single authority to cooperate directly with the other competent authorities of the Member States.
+
+(21)
+
+In order to ensure compliance with Article 32(3) on principles of public oversight, a non-practitioner is deemed to be knowledgeable in the areas relevant to the statutory audit either because of his or her past professional skill or, alternatively, because he or she has knowledge of at least one of the subjects listed in Article 8.
+
+(22)
+
+The statutory auditor or audit firm should be appointed by the general meeting of shareholders or members of the audited entity. In order to protect the independence of the auditor it is important that dismissal should be possible only where there are proper grounds and if those grounds are communicated to the authority or authorities responsible for public oversight.
+
+(23)
+
+Since public-interest entities have a higher visibility and are economically more important, stricter requirements should apply in the case of a statutory audit of their annual or consolidated accounts.
+
+(24)
+
+Audit committees and an effective internal control system help to minimise financial, operational and compliance risks, and enhance the quality of financial reporting. Member States might have regard to the Commission Recommendation of 15 February 2005 on the role of non-executive or supervisory directors of listed companies and on the committees of the (supervisory) board[^f00013], which sets out how audit committees should be established and function. Member States may determine that the functions assigned to the audit committee or a body performing equivalent functions may be performed by the administrative or supervisory body as a whole. With regard to the duties of the audit committee under Article 41, the statutory auditor or audit firm should in no way be subordinated to the committee.
+
+(25)
+
+Member States may also decide to exempt public-interest entities which are collective investment undertakings whose transferable securities are admitted to trading on a regulated market from the requirement to have an audit committee. This option takes into account the fact that where a collective investment undertaking functions merely for the purpose of pooling assets, the employment of an audit committee will not always be appropriate. The financial reporting and related risks are not comparable to those of other public-interest entities. In addition, undertakings for collective investment in transferable securities (UCITS) and their management companies operate in a strictly defined regulatory environment and are subject to specific governance mechanisms such as controls exercised by their depositary. For those collective investment undertakings which are not harmonised by Directive 85/611/EEC[^f00014] but are subject to equivalent safeguards as provided for by that Directive, Member States should, in this particular case, be allowed to provide for equal treatment with Community-harmonised collective investment undertakings.
+
+(26)
+
+In order to reinforce the independence of auditors of public-interest entities, the key audit partner(s) auditing such entities should rotate. To organise such rotation, Member States should require a change of key audit partner(s) dealing with an audited entity, while allowing the audit firm with which the key audit partner(s) is/are associated to continue being the statutory auditor of such entity. Where a Member State considers it appropriate in order to attain the objectives pursued, that Member State might, alternatively, require a change of audit firm, without prejudice to Article 42(2).
+
+(27)
+
+The interrelation of capital markets underlines the need also to ensure high-quality work performed by auditors from third countries in relation to the Community capital market. The auditors concerned should therefore be registered so as to make them subject to quality assurance reviews and to the system of investigations and penalties. Derogations on the basis of reciprocity should be possible subject to an equivalence testing to be performed by the Commission in cooperation with Member States. In any case, an entity which has issued transferable securities on a regulated market within the meaning of point 14 of Article 4(1) of Directive 2004/39/EC should always be audited by an auditor either registered in a Member State or overseen by competent authorities of the third country from which the auditor comes from, provided that the said third country is acknowledged by the Commission or a Member State as meeting the requirements equivalent to Community requirements in the field of principles of oversight, quality assurance systems and systems of investigations and penalties, and that the basis of this arrangement is reciprocity. While one Member State may consider a third country's quality assurance system equivalent, other Member States should not be bound to accept that assessment, nor should the Commission's decision be pre-empted thereby.
+
+(28)
+
+The complexity of international group audits requires good cooperation between the competent authorities of Member States and those of third countries. Member States should therefore ensure that competent authorities of third countries can have access to audit working papers and other documents through the national competent authorities. In order to protect the rights of the parties concerned and at the same time facilitate access to those papers and documents, Member States should be allowed to grant direct access to the competent authorities of third countries, subject to the agreement of the national competent authority. One of the relevant criteria for the granting of access is whether the competent authorities in third countries meet requirements which the Commission has declared adequate. Pending such a decision by the Commission, and without prejudice thereto, Member States may assess whether the requirements are adequate.
+
+(29)
+
+Disclosure of information as referred to in Articles 36 and 47 should be in accordance with the rules on the transfer of personal data to third countries as laid down in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data[^f00015].
+
+(30)
+
+The measures necessary for the implementation of this Directive should be adopted in accordance with Decision 1999/468/EC and with due regard to the declaration made by the Commission in the European Parliament on 5 February 2002 concerning the implementation of financial services legislation.
+
+(31)
+
+The European Parliament should be given a period of three months from the first transmission of draft amendments and implementing measures to allow it to examine them and to give its opinion. However, in urgent and duly justified cases, it should be possible to shorten that period. If, within that period, a resolution is adopted by the European Parliament, the Commission should re-examine the draft amendments or measures.
+
+(32)
+
+Since the objectives of this Directive — namely requiring the application of a single set of international auditing standards, the updating of the educational requirements, the definition of professional ethics and the technical implementation of the cooperation between competent authorities of Member States and between those authorities and the authorities of third countries, in order further to enhance and harmonise the quality of statutory audit in the Community and to facilitate cooperation between Member States and with third countries so as to strengthen confidence in the statutory audit — cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale and effects of this Directive, be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+
+(33)
+
+With a view to rendering the relationship between the statutory auditor or audit firm and the audited entity more transparent, Directives 78/660/EEC and 83/349/EEC should be amended so as to require disclosure of the audit fee and the fee paid for non-audit services in the notes to the annual accounts and the consolidated accounts.
+
+(34)
+
+Directive 84/253/EEC should be repealed because it lacks a comprehensive set of rules to ensure an appropriate audit infrastructure, such as public oversight, disciplinary systems and systems of quality assurance, and because it does not provide specifically for regulatory cooperation between Member States and third countries. In order to ensure legal certainty, there is a clear need to indicate that statutory auditors and audit firms that have been approved under Directive 84/253/EEC are considered as approved under this Directive,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1. Subject matter
+
+This Directive establishes rules concerning the statutory audit of annual and consolidated accounts.
+
+Article 29 of this Directive shall not apply to the statutory audit of annual and consolidated financial statements of public-interest entities unless specified in Regulation (EU) No 537/2014 of the European Parliament and the Council[^c000001] [^f00016] .
+
+### Article 2. Definitions
+
+For the purpose of this Directive, the following definitions shall apply:
+
+- 1.. ‘[^c000002] statutory audit ’ means an audit of annual financial statements or consolidated financial statements in so far as:
+  - ((a)) required by Union law;
+  - ((b)) required by national law as regards small undertakings;
+  - ((c)) voluntarily carried out at the request of small undertakings which meets national legal requirements that are equivalent to those for an audit under point (b), where national legislation defines such audits as statutory audits;
+- 2.. ‘statutory auditor’ means a natural person who is approved in accordance with this Directive by the competent authorities of a Member State to carry out statutory audits;
+- 3.. ‘audit firm’ means a legal person or any other entity, regardless of its legal form, that is approved in accordance with this Directive by the competent authorities of a Member State to carry out statutory audits;
+- 4.. ‘ third-country audit entity ’ means an entity, regardless of its legal form, which carries out audits of the annual or consolidated financial statements of a company incorporated in a third country, other than an entity which is registered as an audit firm in any Member State as a consequence of approval in accordance with Article 3;
+- 5.. ‘ third-country auditor ’ means a natural person who carries out audits of the annual or consolidated financial statements of a company incorporated in a third country, other than a person who is registered as a statutory auditor in any Member State as a consequence of approval in accordance with Articles 3 and 44;
+- 6.. ‘group auditor’ means the statutory auditor(s) or audit firm(s) carrying out the statutory audit of consolidated accounts;
+- 7.. ‘network’ means the larger structure:
+  - which is aimed at cooperation and to which a statutory auditor or an audit firm belongs, and
+  - which is clearly aimed at profit- or cost-sharing or shares common ownership, control or management, common quality-control policies and procedures, a common business strategy, the use of a common brand-name or a significant part of professional resources;
+- 8.. ‘affiliate of an audit firm’ means any undertaking, regardless of its legal form, which is connected to an audit firm by means of common ownership, control or management;
+- 9.. ‘audit report’ means the report referred to in Article 51a of Directive 78/660/EEC and Article 37 of Directive 83/349/EEC issued by the statutory auditor or audit firm;
+- 10.. ‘ competent authorities ’ means the authorities designated by law that are in charge of the regulation and/or oversight of statutory auditors and audit firms or of specific aspects thereof; the reference to ‘ competent authority ’ in a specific Article means a reference to the authority responsible for the functions referred to in that Article;
+- 11.. . . . . .[^c000003]
+- 12.. ‘international accounting standards’ means International Accounting Standards (IAS), International Financial Reporting Standards (IFRS) and related Interpretations (SIC-IFRIC interpretations), subsequent amendments to those standards and related interpretations, and future standards and related interpretations issued or adopted by the International Accounting Standards Board (IASB);
+- 13.. ‘ public-interest entities ’ means:
+  - ((a)) entities governed by the law of a Member State whose transferable securities are admitted to trading on a regulated market of any Member State within the meaning of point 14 of Article 4(1) of Directive 2004/39/EC;
+  - ((b)) credit institutions as defined in point 1 of Article 3(1) of Directive 2013/36/EU of the European Parliament and of the Council [^f00017] , other than those referred to in Article 2 of that Directive;
+  - ((c)) insurance undertakings within the meaning of Article 2(1) of Directive 91/674/EEC; or
+  - ((d)) entities designated by Member States as public-interest entities, for instance undertakings that are of significant public relevance because of the nature of their business, their size or the number of their employees;
+- 14.. ‘cooperative’ means a European Cooperative Society as defined in Article 1 of Council Regulation (EC) No 1435/2003 of 22 July 2003 on the Statute for a European Cooperative Society (SCE)[^f00018], or any other cooperative for which a statutory audit is required under Community law, such as credit institutions as defined in point 1 of Article 1 of Directive 2000/12/EC and insurance undertakings within the meaning of Article 2(1) of Directive 91/674/EEC;
+- 15.. ‘ non-practitioner ’ means any natural person who, during his or her involvement in the governance of the public oversight system and during the period of three years immediately preceding that involvement, has not carried out statutory audits, has not held voting rights in an audit firm, has not been a member of the administrative, management or supervisory body of an audit firm and has not been employed by, or otherwise associated with, an audit firm;
+- 16.. ‘key audit partner(s)’ mean(s):
+  - ((a)) the statutory auditor(s) designated by an audit firm for a particular audit engagement as being primarily responsible for carrying out the statutory audit on behalf of the audit firm; or
+  - ((b)) in the case of a group audit, at least the statutory auditor(s) designated by an audit firm as being primarily responsible for carrying out the statutory audit at the level of the group and the statutory auditor(s) designated as being primarily responsible at the level of material subsidiaries; or
+  - ((c)) the statutory auditor(s) who sign(s) the audit report;
+- 17.. ‘medium-sized undertakings’ means the undertakings referred to in Article 1(1) and Article 3(3) of Directive 2013/34/EU of the European Parliament and of the Council [^f00019] ;
+- 18.. ‘ small undertakings ’ means the undertakings referred to in Article 1(1) and Article 3(2) of Directive 2013/34/EU;
+- 19.. ‘ home Member State ’ means a Member State in which a statutory auditor or audit firm is approved in accordance with Article 3(1);
+- 20.. ‘ host Member State ’ means a Member State in which a statutory auditor approved by his or her home Member State seeks to be also approved in accordance with Article 14, or a Member State in which an audit firm approved by its home Member State seeks to be registered or is registered in accordance with Article 3a.
+
+## CHAPTER II — APPROVAL, CONTINUING EDUCATION AND MUTUAL RECOGNITION
+
+### Article 3. Approval of statutory auditors and audit firms
+
+1. A statutory audit shall be carried out only by statutory auditors or audit firms which are approved by the Member State requiring the statutory audit.
+
+2. Each Member State shall designate the competent authority to be responsible for approving statutory auditors and audit firms.
+
+[^c000003]. . . . .
+
+3. Without prejudice to Article 11, the competent authorities of the Member States may approve as statutory auditors only natural persons who satisfy at least the conditions laid down in Articles 4 and 6 to 10.
+
+4. The competent authorities of the Member States may approve as audit firms only those entities which satisfy the following conditions:
+
+- (a) the natural persons who carry out statutory audits on behalf of an audit firm must satisfy at least the conditions imposed by Articles 4 and 6 to 12 and must be approved as statutory auditors in the Member State concerned;
+- (b) a majority of the voting rights in an entity must be held by audit firms which are approved in any Member State or by natural persons who satisfy at least the conditions imposed by Articles 4 and 6 to 12. Member States may provide that such natural persons must also have been approved in another Member State. For the purpose of the statutory audit of cooperatives, savings banks and similar entities as referred to in Article 45 of Directive 86/635/EEC, a subsidiary or legal successor of a cooperative, savings bank or similar entity as referred to in Article 45 of Directive 86/635/EEC, Member States may lay down other specific provisions in relation to voting rights;
+- (c) a majority — up to a maximum of 75 % — of the members of the administrative or management body of the entity must be audit firms which are approved in any Member State or natural persons who satisfy at least the conditions imposed by Articles 4 and 6 to 12. Member States may provide that such natural persons must also have been approved in another Member State. Where such a body has no more than two members, one of those members must satisfy at least the conditions in this point;
+- (d) the firm must satisfy the condition imposed by Article 4.
+
+Member States may set additional conditions only in relation to point (c). Such conditions shall be proportionate to the objectives pursued and shall not go beyond what is strictly necessary.
+
+### Article 3a. Recognition of audit firms
+
+1. By way of derogation from Article 3(1), an audit firm which is approved in a Member State shall be entitled to perform statutory audits in another Member State provided that the key audit partner who carries out the statutory audit on behalf of the audit firm complies with point (a) of Article 3(4) in the host Member State.
+
+2. An audit firm that wishes to carry out statutory audits in a Member State other than its home Member State shall register with the competent authority in the host Member State in accordance with Articles 15 and 17.
+
+3. The competent authority in the host Member State shall register the audit firm if it is satisfied that the audit firm is registered with the competent authority in the home Member State. Where the host Member State intends to rely on a certificate attesting to the registration of the audit firm in the home Member State, the competent authority in the host Member State may require that the certificate issued by the competent authority in the home Member State be not more than three months old. The competent authority in the host Member State shall inform the competent authority in the home Member State of the registration of the audit firm.
+
+### Article 4. Good repute
+
+The competent authorities of a Member State may grant approval only to natural persons or firms of good repute.
+
+### Article 5. Withdrawal of approval
+
+1. Approval of a statutory auditor or an audit firm shall be withdrawn if the good repute of that person or firm has been seriously compromised. Member States may, however, provide for a reasonable period of time for the purpose of meeting the requirements of good repute.
+
+2. Approval of an audit firm shall be withdrawn if any of the conditions imposed in Article 3(4), points (b) and (c) is no longer fulfilled. Member States may, however, provide for a reasonable period of time for the purpose of fulfilling those conditions.
+
+3. Where the approval of a statutory auditor or of an audit firm is withdrawn for any reason, the competent authority of the home Member State where the approval is withdrawn shall communicate that fact and the reasons for the withdrawal to the relevant competent authorities of host Member States where the statutory auditor or the audit firm is also registered in accordance with Article 3a, point (c) of Article 16(1) and point (i) of Article 17(1).
+
+### Article 6. Educational qualifications
+
+Without prejudice to Article 11, a natural person may be approved to carry out a statutory audit only after having attained university entrance or equivalent level, then completed a course of theoretical instruction, undergone practical training and passed an examination of professional competence of university final or equivalent examination level, organised or recognised by the Member State concerned.
+
+The competent authorities referred to in Article 32 shall cooperate with each other with a view to achieving a convergence of the requirements set out in this Article. When engaging in such cooperation, those competent authorities shall take into account developments in auditing and in the audit profession and, in particular, convergence that has already been achieved by the profession. They shall cooperate with the Committee of European Auditing Oversight Bodies (CEAOB) and the competent authorities referred to in Article 20 of Regulation (EU) No 537/2014 in so far as such convergence relates to the statutory audit of public-interest entities.
+
+### Article 7. Examination of professional competence
+
+The examination of professional competence referred to in Article 6 shall guarantee the necessary level of theoretical knowledge of subjects relevant to statutory audit and the ability to apply such knowledge in practice. Part at least of that examination shall be written.
+
+### Article 8. Test of theoretical knowledge
+
+1. The test of theoretical knowledge included in the examination shall cover the following subjects in particular:
+
+- (a) general accounting theory and principles;
+- (b) legal requirements and standards relating to the preparation of annual and consolidated accounts;
+- (c) international accounting standards;
+- (d) financial analysis;
+- (e) cost and management accounting;
+- (f) risk management and internal control;
+- (g) auditing and professional skills;
+- (h) legal requirements and professional standards relating to statutory audit and statutory auditors;
+- (i) international auditing standards as referred to in Article 26;
+- (j) professional ethics and independence.
+
+2. It shall also cover at least the following subjects insofar as they are relevant to auditing:
+
+- (a) company law and corporate governance;
+- (b) the law of insolvency and similar procedures;
+- (c) tax law;
+- (d) civil and commercial law;
+- (e) social security law and employment law;
+- (f) information technology and computer systems;
+- (g) business, general and financial economics;
+- (h) mathematics and statistics;
+- (i) basic principles of the financial management of undertakings.
+
+3.[^c000003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 9. Exemptions
+
+1. By way of derogation from Articles 7 and 8, a Member State may provide that a person who has passed a university or equivalent examination or holds a university degree or equivalent qualification in one or more of the subjects referred to in Article 8 may be exempted from the test of theoretical knowledge in the subjects covered by that examination or degree.
+
+2. By way of derogation from Article 7, a Member State may provide that a holder of a university degree or equivalent qualification in one or more of the subjects referred to in Article 8 may be exempted from the test of the ability to apply in practice his or her theoretical knowledge of such subjects if he or she has received practical training in those subjects attested by an examination or diploma recognised by the State.
+
+### Article 10. Practical training
+
+1. In order to ensure the ability to apply theoretical knowledge in practice, a test of which is included in the examination, a trainee shall complete a minimum of three years' practical training in, inter alia, the auditing of annual financial statements, consolidated financial statements or similar financial statements. At least two thirds of such practical training shall be completed with a statutory auditor or an audit firm approved in any Member State.
+
+2. Member States shall ensure that all training is carried out with persons providing adequate guarantees regarding their ability to provide practical training.
+
+### Article 11. Qualification through long-term practical experience
+
+A Member State may approve a person who does not satisfy the conditions laid down in Article 6 as a statutory auditor, if he or she can show either:
+
+- ((a)) that he or she has, for 15 years, engaged in professional activities which have enabled him or her to acquire sufficient experience in the fields of finance, law and accountancy, and has passed the examination of professional competence referred to in Article 7, or
+- ((b)) that he or she has, for seven years, engaged in professional activities in those fields and has, in addition, undergone the practical training referred to in Article 10 and passed the examination of professional competence referred to in Article 7.
+
+### Article 12. Combination of practical training and theoretical instruction
+
+1. Member States may provide that periods of theoretical instruction in the fields referred to in Article 8 shall count towards the periods of professional activity referred to in Article 11, provided that such instruction is attested by an examination recognised by the State. Such instruction shall not last less than one year, nor may it reduce the period of professional activity by more than four years.
+
+2. The period of professional activity and practical training shall not be shorter than the course of theoretical instruction together with the practical training required in Article 10.
+
+### Article 13. Continuing education
+
+Member States shall ensure that statutory auditors are required to take part in appropriate programmes of continuing education in order to maintain their theoretical knowledge, professional skills and values at a sufficiently high level, and that failure to respect the continuing education requirements is subject to appropriate sanctions as referred to in Article 30.
+
+### Article 14. Approval of statutory auditors from another Member State
+
+1. The competent authorities shall establish procedures for the approval of statutory auditors who have been approved in other Member States. Those procedures shall not go beyond the requirement to complete an adaptation period as defined in point (g) of Article 3(1) of Directive 2005/36/EC of the European Parliament and of the Council [^f00020] or to pass an aptitude test as defined in point (h) of that provision.
+
+2. The host Member State shall decide whether the applicant seeking approval is to be subject to an adaptation period as defined in point (g) of Article 3(1) of Directive 2005/36/EC or an aptitude test as defined in point (h) of that provision.
+
+The adaptation period shall not exceed three years and the applicant shall be subject to an assessment.
+
+The aptitude test shall be conducted in one of the languages permitted by the language rules applicable in the host Member State concerned. It shall cover only the statutory auditor's adequate knowledge of the laws and regulations of that host Member State in so far as it is relevant to statutory audits.
+
+3. The competent authorities shall cooperate within the framework of the CEAOB with a view to achieving a convergence of the requirements of the adaptation period and the aptitude test. They shall enhance the transparency and predictability of the requirements. They shall cooperate with the CEAOB and with the competent authorities referred to in Article 20 of Regulation (EU) No 537/2014 in so far as such convergence relates to statutory audits of public-interest entities.
+
+## CHAPTER III — REGISTRATION
+
+### Article 15. Public register
+
+1. Each Member State shall ensure that statutory auditors and audit firms are entered in a public register in accordance with Articles 16 and 17. In exceptional circumstances, Member States may derogate from the requirements laid down in this Article and Article 16 regarding disclosure only to the extent necessary to mitigate an imminent and significant threat to the personal security of any person.
+
+2. Member States shall ensure that each statutory auditor and audit firm is identified in the public register by an individual number. Registration information shall be stored in the register in electronic form and shall be electronically accessible to the public.
+
+3. The public register shall also contain the name and address of the competent authorities responsible for approval as referred to in Article 3, for quality assurance as referred to in Article 29, for investigations and penalties on statutory auditors and audit firms as referred to in Article 30, and for public oversight as referred to in Article 32.
+
+4. Member States shall ensure that the public register is fully operational by 29 June 2009.
+
+### Article 16. Registration of statutory auditors
+
+1. As regards statutory auditors, the public register shall contain at least the following information:
+
+- (a) name, address and registration number;
+- (b) if applicable, the name, address, website address and registration number of the audit firm(s) by which the statutory auditor is employed, or with whom he or she is associated as a partner or otherwise;
+- (c) all other registration(s) as statutory auditor with the competent authorities of other Member States and as auditor with third countries, including the name(s) of the registration authority(ies), and, if applicable, the registration number(s).
+
+2. Third-country auditors registered in accordance with Article 45 shall be clearly indicated in the register as such and not as statutory auditors.
+
+### Article 17. Registration of audit firms
+
+1. As regards audit firms, the public register shall contain at least the following information:
+
+- (a) name, address and registration number;
+- (b) legal form;
+- (c) contact information, the primary contact person and, where applicable, the website address;
+- (d) address of each office in the Member State;
+- (e) name and registration number of all statutory auditors employed by or associated as partners or otherwise with the audit firm;
+- (f) names and business addresses of all owners and shareholders;
+- (g) names and business addresses of all members of the administrative or management body;
+- (h) if applicable, the membership of a network and a list of the names and addresses of member firms and affiliates or an indication of the place where such information is publicly available;
+- (i) all other registration(s) as audit firm with the competent authorities of other Member States and as audit entity with third countries, including the name(s) of the registration authority(ies), and, if applicable, the registration number(s);
+- (j) where applicable, whether the audit firm is registered pursuant to Article 3a(3).
+
+2. Third-country audit entities registered in accordance with Article 45 shall be clearly indicated in the register as such and not as audit firms.
+
+### Article 18. Updating of registration information
+
+Member States shall ensure that statutory auditors and audit firms notify the competent authorities in charge of the public register without undue delay of any change of information contained in the public register. The register shall be updated without undue delay after notification.
+
+### Article 19. Responsibility for registration information
+
+The information provided to the relevant competent authorities in accordance with Articles 16, 17 and 18 shall be signed by the statutory auditor or audit firm. Where the competent authority provides for the information to be made available electronically, that can, for example, be done by means of an electronic signature as defined in point 1 of Article 2 of Directive 1999/93/EC of the European Parliament and of the Council of 13 December 1999 on a Community framework for electronic signatures[^f00021].
+
+### Article 20. Language
+
+1. The information entered in the public register shall be drawn up in one of the languages permitted by the language rules applicable in the Member State concerned.
+
+2. Member States may additionally allow the information to be entered in the public register in any other official language(s) of the Community. Member States may require the translation of the information to be certified.
+
+In all cases, the Member State concerned shall ensure that the register indicates whether or not the translation is certified.
+
+## CHAPTER IV — PROFESSIONAL ETHICS, INDEPENDENCE, OBJECTIVITY, CONFIDENTIALITY AND PROFESSIONAL SECRECY
+
+### Article 21. Professional ethics and scepticism
+
+1. Member States shall ensure that all statutory auditors and audit firms are subject to principles of professional ethics, covering at least their public-interest function, their integrity and objectivity and their professional competence and due care.
+
+2. Member States shall ensure that, when the statutory auditor or the audit firm carries out the statutory audit, he, she or it maintains professional scepticism throughout the audit, recognising the possibility of a material misstatement due to facts or behaviour indicating irregularities, including fraud or error, notwithstanding the statutory auditor's or the audit firm's past experience of the honesty and integrity of the audited entity's management and of the persons charged with its governance.
+
+The statutory auditor or the audit firm shall maintain professional scepticism in particular when reviewing management estimates relating to fair values, the impairment of assets, provisions, and future cash flow relevant to the entity's ability to continue as a going concern.
+
+For the purposes of this Article, ‘ professional scepticism ’ means an attitude that includes a questioning mind, being alert to conditions which may indicate possible misstatement due to error or fraud, and a critical assessment of audit evidence.
+
+### Article 22. Independence and objectivity
+
+1. Member States shall ensure that, when carrying out a statutory audit, a statutory auditor or an audit firm, and any natural person in a position to directly or indirectly influence the outcome of the statutory audit, is independent of the audited entity and is not involved in the decision-taking of the audited entity.
+
+Independence shall be required at least during both the period covered by the financial statements to be audited and the period during which the statutory audit is carried out.
+
+Member States shall ensure that a statutory auditor or an audit firm takes all reasonable steps to ensure that, when carrying out a statutory audit, his, her or its independence is not affected by any existing or potential conflict of interest or business or other direct or indirect relationship involving the statutory auditor or the audit firm carrying out the statutory audit and, where appropriate, its network, managers, auditors, employees, any other natural persons whose services are placed at the disposal or under the control of the statutory auditor or the audit firm, or any person directly or indirectly linked to the statutory auditor or the audit firm by control.
+
+The statutory auditor or the audit firm shall not carry out a statutory audit if there is any threat of self-review, self-interest, advocacy, familiarity or intimidation created by financial, personal, business, employment or other relationships between:
+
+- the statutory auditor, the audit firm, its network, and any natural person in a position to influence the outcome of the statutory audit, and
+- the audited entity,
+
+as a result of which an objective, reasonable and informed third party, taking into account the safeguards applied, would conclude that the statutory auditor's or the audit firm's independence is compromised.
+
+2. Member States shall ensure that a statutory auditor, an audit firm, their key audit partners, their employees, and any other natural person whose services are placed at the disposal or under the control of such statutory auditor or audit firm and who is directly involved in statutory audit activities, and persons closely associated with them within the meaning of Article 1(2) of Commission Directive 2004/72/EC [^f00022] , do not hold or have a material and direct beneficial interest in, or engage in any transaction in any financial instrument issued, guaranteed, or otherwise supported by, any audited entity within their area of statutory audit activities, other than interests owned indirectly through diversified collective investment schemes, including managed funds such as pension funds or life insurance.
+
+3. Member States shall ensure that a statutory auditor or audit firm documents in the audit working papers all significant threats to his, her or its independence as well as the safeguards applied to mitigate those threats.
+
+4. Member States shall ensure that persons or firms referred to in paragraph 2 do not participate in or otherwise influence the outcome of a statutory audit of any particular audited entity if they:
+
+- (a) own financial instruments of the audited entity, other than interests owned indirectly through diversified collective investment schemes;
+- (b) own financial instruments of any entity related to an audited entity, the ownership of which may cause, or may be generally perceived as causing, a conflict of interest, other than interests owned indirectly through diversified collective investment schemes;
+- (c) have had an employment, or a business or other relationship with that audited entity within the period referred in paragraph 1 that may cause, or may be generally perceived as causing, a conflict of interest.
+
+5. Persons or firms referred to in paragraph 2 shall not solicit or accept pecuniary and non-pecuniary gifts or favours from the audited entity or any entity related to an audited entity unless an objective, reasonable and informed third party would consider the value thereof as trivial or inconsequential.
+
+6. If, during the period covered by the financial statements, an audited entity is acquired by, merges with, or acquires another entity, the statutory auditor or the audit firm shall identify and evaluate any current or recent interests or relationships, including any non-audit services provided to that entity, which, taking into account available safeguards, could compromise the auditor's independence and ability to continue with the statutory audit after the effective date of the merger or acquisition.
+
+As soon as possible, and in any event within three months, the statutory auditor or the audit firm shall take all such steps as may be necessary to terminate any current interests or relationships that would compromise its independence and shall, where possible, adopt safeguards to minimise any threat to its independence arising from prior and current interests and relationships.
+
+### Article 22a. Employment by audited entities of former statutory auditors or of employees of statutory auditors or audit firms
+
+1. Member States shall ensure that a statutory auditor or a key audit partner who carries out a statutory audit on behalf of an audit firm does not, before a period of at least one year, or in the case of statutory audit of public-interest entities a period of at least two years, has elapsed since he or she ceased to act as a statutory auditor or key audit partner in connection with the audit engagement:
+
+- (a) take up a key management position in the audited entity;
+- (b) where applicable, become a member of the audit committee of the audited entity or, where such committee does not exist, of the body performing equivalent functions to an audit committee;
+- (c) become a non-executive member of the administrative body or a member of the supervisory body of the audited entity.
+
+2. Member States shall ensure that employees and partners other than key audit partners of a statutory auditor or of an audit firm carrying out a statutory audit, as well as any other natural person whose services are placed at the disposal or under the control of such statutory auditor or audit firm, do not, when such employees, partners or other natural persons are personally approved as statutory auditors, take up any of the duties referred to in points (a), (b) and (c) of paragraph 1 before a period of at least one year has elapsed since he or she was directly involved in the statutory audit engagement.
+
+### Article 22b. Preparation for the statutory audit and assessment of threats to independence
+
+Member States shall ensure that, before accepting or continuing an engagement for a statutory audit, a statutory auditor or an audit firm assesses and documents the following:
+
+- whether he, she or it complies with the requirements of Article 22 of this Directive;
+- whether there are threats to his, her or its independence and the safeguards applied to mitigate those threats;
+- whether he, she or it has the competent employees, time and resources needed in order to carry out the statutory audit in an appropriate manner;
+- whether, in the case of an audit firm, the key audit partner is approved as statutory auditor in the Member State requiring the statutory audit;
+
+Member States may provide simplified requirements for the audits referred in points (b) and (c) of point 1 of Article 2.
+
+### Article 23. Confidentiality and professional secrecy
+
+1. Member States shall ensure that all information and documents to which a statutory auditor or audit firm has access when carrying out a statutory audit are protected by adequate rules on confidentiality and professional secrecy.
+
+2. Confidentiality and professional secrecy rules relating to statutory auditors or audit firms shall not impede enforcement of the provisions of this Directive or of Regulation (EU) No 537/2014.
+
+3. Where a statutory auditor or an audit firm is replaced by another statutory auditor or audit firm, the former statutory auditor or audit firm shall provide the incoming statutory auditor or audit firm with access to all relevant information concerning the audited entity and the most recent audit of that entity.
+
+4. A statutory auditor or audit firm who has ceased to be engaged in a particular audit assignment and a former statutory auditor or audit firm shall remain subject to the provisions of paragraphs 1 and 2 with respect to that audit assignment.
+
+5. Where a statutory auditor or an audit firm carries out a statutory audit of an undertaking which is part of a group whose parent undertaking is situated in a third country, the confidentiality and professional secrecy rules referred to in paragraph 1 of this Article shall not impede the transfer by the statutory auditor or the audit firm of relevant documentation concerning the audit work performed to the group auditor situated in a third country if such documentation is necessary for the performance of the audit of consolidated financial statements of the parent undertaking.
+
+A statutory auditor or an audit firm that carries out the statutory audit of an undertaking which has issued securities in a third country, or which forms part of a group issuing statutory consolidated financial statements in a third country, may only transfer the audit working papers or other documents relating to the audit of that entity that he, she or it holds to the competent authorities in the relevant third countries under the conditions set out in Article 47.
+
+The transfer of information to the group auditor situated in a third country shall comply with Chapter IV of Directive 95/46/EC and the applicable national rules on personal data protection.
+
+### Article 24. Independence and objectivity of the statutory auditors carrying out the statutory audit on behalf of audit firms
+
+Member States shall ensure that the owners or shareholders of an audit firm as well as the members of the administrative, management and supervisory bodies of such a firm, or of an affiliated firm, do not intervene in the execution of a statutory audit in any way which jeopardises the independence and objectivity of the statutory auditor who carries out the statutory audit on behalf of the audit firm.
+
+### Article 24a. Internal organisation of statutory auditors and audit firms
+
+1. Member States shall ensure that a statutory auditor or an audit firm complies with the following organisational requirements:
+
+- (a) an audit firm shall establish appropriate policies and procedures to ensure that its owners or shareholders, as well as the members of the administrative, management and supervisory bodies of the firm, or of an affiliate firm, do not intervene in the carrying-out of a statutory audit in any way which jeopardises the independence and objectivity of the statutory auditor who carries out the statutory audit on behalf of the audit firm;
+- (b) a statutory auditor or an audit firm shall have sound administrative and accounting procedures, internal quality control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for information processing systems.
+
+  Those internal quality control mechanisms shall be designed to secure compliance with decisions and procedures at all levels of the audit firm or of the working structure of the statutory auditor;
+- (c) a statutory auditor or an audit firm shall establish appropriate policies and procedures to ensure that his, her or its employees and any other natural persons whose services are placed at his, her or its disposal or under his, her or its control, and who are directly involved in the statutory audit activities, have appropriate knowledge and experience for the duties assigned;
+- (d) a statutory auditor or an audit firm shall establish appropriate policies and procedures to ensure that outsourcing of important audit functions is not undertaken in such a way as to impair the quality of the statutory auditor's or the audit firm's internal quality control and the ability of the competent authorities to supervise the statutory auditor's or the audit firm's compliance with the obligations laid down in this Directive and, where applicable, in Regulation (EU) No 537/2014;
+- (e) a statutory auditor or an audit firm shall establish appropriate and effective organisational and administrative arrangements to prevent, identify, eliminate or manage and disclose any threats to their independence as referred to in 22, 22a and 22b;
+- (f) a statutory auditor or an audit firm shall establish appropriate policies and procedures for carrying out statutory audits, coaching, supervising and reviewing employees activities and organising the structure of the audit file as referred to in Article 24b(5);
+- (g) a statutory auditor or an audit firm shall establish an internal quality control system to ensure the quality of the statutory audit.
+
+  The quality control system shall at least cover the policies and procedures described in point (f). In the case of an audit firm, responsibility for the internal quality control system shall lie with a person who is qualified as a statutory auditor;
+- (h) a statutory auditor or an audit firm shall use appropriate systems, resources and procedures to ensure continuity and regularity in the carrying out of his, her or its statutory audit activities;
+- (i) a statutory auditor or an audit firm shall also establish appropriate and effective organisational and administrative arrangements for dealing with and recording incidents which have, or may have, serious consequences for the integrity of his, her or its statutory audit activities;
+- (j) a statutory auditor or an audit firm shall have in place adequate remuneration policies, including profit-sharing policies, providing sufficient performance incentives to secure audit quality. In particular, the amount of revenue that the statutory auditor or the audit firm derives from providing non-audit services to the audited entity shall not form part of the performance evaluation and remuneration of any person involved in, or able to influence the carrying out of, the audit;
+- (k) a statutory auditor or an audit firm shall monitor and evaluate the adequacy and effectiveness of his, her or its systems, internal quality control mechanisms and arrangements established in accordance with this Directive and, where applicable, Regulation (EU) No 537/2014 and take appropriate measures to address any deficiencies. A statutory auditor or an audit firm shall in particular carry out an annual evaluation of the internal quality control system, referred to in point (g). A statutory auditor or an audit firm shall keep records of the findings of that evaluation and any proposed measure to modify the internal quality control system.
+
+The policies and procedures referred to in the first subparagraph shall be documented and communicated to the employees of the statutory auditor or the audit firm.
+
+Member States may provide simplified requirements for the audits referred in points (b) and (c) of point 1 of Article 2.
+
+Any outsourcing of audit functions as referred to in point (d) of this paragraph shall not affect the responsibility of the statutory auditor or the audit firm towards the audited entity.
+
+2. The statutory auditor or the audit firm shall take into consideration the scale and complexity of his, her or its activities when complying with the requirements set out in paragraph 1 of this Article.
+
+The statutory auditor or the audit firm shall be able to demonstrate to the competent authority that the policies and procedures designed to achieve such compliance are appropriate given the scale and complexity of activities of the statutory auditor or the audit firm.
+
+### Article 24b. Organisation of the work
+
+1. Member States shall ensure that, when the statutory audit is carried out by an audit firm, that audit firm designates at least one key audit partner. The audit firm shall provide the key audit partner(s) with sufficient resources and with personnel that have the necessary competence and capabilities to carry out his, her or its duties appropriately.
+
+Securing audit quality, independence and competence shall be the main criteria when the audit firm selects the key audit partner(s) to be designated.
+
+The key audit partner(s) shall be actively involved in the carrying-out of the statutory audit.
+
+2. When carrying out the statutory audit, the statutory auditor shall devote sufficient time to the engagement and shall assign sufficient resources to enable him or her to carry out his or her duties appropriately.
+
+3. Member States shall ensure that the statutory auditor or the audit firm keeps records of any breaches of the provisions of this Directive and, where applicable, of Regulation (EU) No 537/2014. Member States may exempt statutory auditors and audit firms from this obligation with regard to minor breaches. Statutory auditors and audit firms shall also keep records of any consequence of any breach, including the measures taken to address such breach and to modify their internal quality control system. They shall prepare an annual report containing an overview of any such measures taken and shall communicate that report internally.
+
+When a statutory auditor or an audit firm asks external experts for advice, he, she or it shall document the request made and the advice received.
+
+4. A statutory auditor or an audit firm shall maintain a client account record. Such record shall include the following data for each audit client:
+
+- (a) the name, the address and the place of business;
+- (b) in the case of an audit firm, the name(s) of the key audit partner(s);
+- (c) the fees charged for the statutory audit and the fees charged for other services in any financial year.
+
+5. A statutory auditor or an audit firm shall create an audit file for each statutory audit.
+
+The statutory auditor or the audit firm shall document at least the data recorded pursuant to Article 22b(1) of this Directive, and, where applicable, Articles 6 to 8 of Regulation (EU) No 537/2014.
+
+The statutory auditor or the audit firm shall retain any other data and documents that are of importance in support of the report referred to in Articles 28 of this Directive and, where applicable, Articles 10 and 11 of Regulation (EU) No 537/2014 and for monitoring compliance with this Directive and other applicable legal requirements.
+
+The audit file shall be closed no later than 60 days after the date of signature of the audit report referred to in Article 28 of this Directive and, where applicable, Article 10 of Regulation (EU) No 537/2014.
+
+6. The statutory auditor or the audit firm shall keep records of any complaints made in writing about the performance of the statutory audits carried out.
+
+7. Member States may lay down simplified requirements with regard to paragraphs 3 and 6 for the audits referred to in points (b) and (c) of point 1 of Article 2.
+
+### Article 25. Audit fees
+
+Member States shall ensure that adequate rules are in place which provide that fees for statutory audits:
+
+- ((a)) are not influenced or determined by the provision of additional services to the audited entity;
+- ((b)) cannot be based on any form of contingency.
+
+### Article 25a. Scope of the statutory audit
+
+Without prejudice to the reporting requirements referred to in Article 28 of this Directive and, where applicable, Articles 10 and 11 of Regulation (EU) No 537/2014, the scope of the statutory audit shall not include assurance on the future viability of the audited entity or on the efficiency or effectiveness with which the management or administrative body has conducted or will conduct the affairs of the entity.
+
+## CHAPTER V — AUDITING STANDARDS AND AUDIT REPORTING
+
+### Article 26. Auditing standards
+
+1. Member States shall require statutory auditors and audit firms to carry out statutory audits in compliance with international auditing standards adopted by the Commission in accordance with paragraph 3.
+
+Member States may apply national auditing standards, procedures or requirements as long as the Commission has not adopted an international auditing standard covering the same subject-matter.
+
+2. For the purposes of paragraph 1, ‘ international auditing standards ’ means International Standards on Auditing (ISAs), International Standard on Quality Control (ISQC 1) and other related Standards issued by the International Federation of Accountants (IFAC) through the International Auditing and Assurance Standards Board (IAASB), in so far as they are relevant to the statutory audit.
+
+3. The Commission shall be empowered to adopt, by means of delegated acts in accordance with Article 48a, the international auditing standards referred to in paragraph 1 in the area of audit practice, independence and internal quality controls of statutory auditors and audit firms for the purposes of the application of those standards within the Union.
+
+The Commission may adopt the international auditing standards only if they:
+
+- (a) have been developed with proper due process, public oversight and transparency, and are generally accepted internationally;
+- (b) contribute a high level of credibility and quality to the annual or consolidated financial statements in conformity with the principles set out in Article 4(3) of Directive 2013/34/EC;
+- (c) are conducive to the Union public good; and
+- (d) do not amend any of the requirements of this Directive or supplement any of its requirements apart from those set out in Chapter IV and Articles 27 and 28.
+
+4. Notwithstanding the second subparagraph of paragraph 1, Member States may impose audit procedures or requirements in addition to the international auditing standards adopted by the Commission, only
+
+- (a) if those audit procedures or requirements are necessary in order to give effect to national legal requirements relating to the scope of statutory audits; or
+- (b) to the extent necessary to add to the credibility and quality of financial statements.
+
+Member States shall communicate the audit procedures or requirements to the Commission at least three months before their entry into force or, in the case of requirements already existing at the time of adoption of an international auditing standard, at the latest within three months of the adoption of the relevant international auditing standard.
+
+5. Where a Member State requires the statutory audit of small undertakings, it may provide that application of the auditing standards referred to in paragraph 1 is to be proportionate to the scale and complexity of the activities of such undertakings. Member States may take measures in order to ensure the proportionate application of the auditing standards to the statutory audits of small undertakings.
+
+### Article 27. Statutory audits of consolidated financial statements
+
+1. Member States shall ensure that in the case of a statutory audit of the consolidated financial statements of a group of undertakings:
+
+- (a) in relation to the consolidated financial statements, the group auditor bears the full responsibility for the audit report referred to in Article 28 of this Directive and, where applicable, Article 10 of Regulation (EU) No 537/2014 and for, where applicable, the additional report to the audit committee as referred to in Article 11 of that Regulation;
+- (b) the group auditor evaluates the audit work performed by any third-country auditor(s) or statutory auditor(s) and third-country audit entity(ies), or audit firm(s) for the purpose of the group audit, and documents the nature, timing and extent of the work performed by those auditors, including, where applicable, the group auditor's review of relevant parts of those auditors' audit documentation;
+- (c) the group auditor reviews the audit work performed by third-country auditor(s) or statutory auditor(s) and third-country audit entity(ies) or audit firm(s) for the purpose of the group audit and documents it.
+
+The documentation retained by the group auditor shall be such as to enable the relevant competent authority to review the work of the group auditor.
+
+For the purposes of point (c) of the first subparagraph of this paragraph, the group auditor shall request the agreement of the third-country auditor(s), statutory auditor(s), third-country audit entity(ies) or audit firm(s) concerned to the transfer of relevant documentation during the conduct of the audit of consolidated financial statements, as a condition of the reliance by the group auditor on the work of those third-country auditor(s), statutory auditor(s), third-country audit entity(ies) or audit firm(s).
+
+2. Where the group auditor is unable to comply with point (c) of the first subparagraph of paragraph 1, he, she or it shall take appropriate measures and inform the relevant competent authority.
+
+Such measures shall, as appropriate, include carrying out additional statutory audit work, either directly or by outsourcing such tasks, in the relevant subsidiary.
+
+3. Where the group auditor is subject to a quality assurance review or an investigation concerning the statutory audit of the consolidated financial statements of a group of undertakings, the group auditor shall, when requested, make available to the competent authority the relevant documentation he, she or it retains concerning the audit work performed by the respective third-country auditor(s), statutory auditor(s), third-country audit entity(ies) or audit firm(s) for the purpose of the group audit, including any working papers relevant to the group audit.
+
+The competent authority may request additional documentation on the audit work performed by any statutory auditor(s) or audit firm(s) for the purpose of the group audit from the relevant competent authorities pursuant to Article 36.
+
+Where a parent undertaking or a subsidiary undertaking of a group of undertakings is audited by an auditor or auditor(s) or an audit entity(ies) from a third country, the competent authority may request additional documentation on the audit work performed by any third-country auditor(s) or third country audit entity(ies) from the relevant competent authorities from third countries through the working arrangements referred to in Article 47.
+
+By way of derogation from the third subparagraph, where a parent undertaking or a subsidiary undertaking of a group of undertakings is audited by an auditor or auditors or an audit entity or entities from a third country that has no working arrangements as referred to in Article 47, the group auditor shall, when requested, also be responsible for ensuring proper delivery of the additional documentation of the audit work performed by such third-country auditor(s) or audit entity(ies), including the working papers relevant to the group audit. In order to ensure such delivery, the group auditor shall retain a copy of such documentation, or alternatively agree with the third-country auditor(s) or audit entity(ies) that he, she or it is to be given unrestricted access to such documentation upon request, or take any other appropriate action. Where audit working papers cannot, for legal or other reasons, be passed from a third country to the group auditor, the documentation retained by the group auditor shall include evidence that he or she has undertaken the appropriate procedures in order to gain access to the audit documentation, and in the case of impediments other than legal ones arising from the legislation of the third country concerned, evidence supporting the existence of such impediments.
+
+### Article 28. Audit reporting
+
+1. The statutory auditor(s) or the audit firm(s) shall present the results of the statutory audit in an audit report. The report shall be prepared in accordance with the requirements of auditing standards adopted by the Union or Member State concerned, as referred to in Article 26.
+
+2. The audit report shall be in writing and shall:
+
+- (a) identify the entity whose annual or consolidated financial statements are the subject of the statutory audit; specify the annual or consolidated financial statements and the date and period they cover; and identify the financial reporting framework that has been applied in their preparation;
+- (b) include a description of the scope of the statutory audit which shall, as a minimum, identify the auditing standards in accordance with which the statutory audit was conducted;
+- (c) include an audit opinion, which shall be either unqualified, qualified or an adverse opinion and shall state clearly the opinion of the statutory auditor(s) or the audit firm(s) as to:
+  - ((i)) whether the annual financial statements give a true and fair view in accordance with the relevant financial reporting framework; and,
+  - ((ii)) where appropriate, whether the annual financial statements comply with statutory requirements.
+
+  If the statutory auditor(s) or the audit firm(s) are unable to express an audit opinion, the report shall contain a disclaimer of opinion;
+- (d) refer to any other matters to which the statutory auditor(s) or the audit firm(s) draw(s) attention by way of emphasis without qualifying the audit opinion;
+- (e) include an opinion and statement, both of which shall be based on the work undertaken in the course of the audit, referred to in the second subparagraph of Article 34(1) of Directive 2013/34/EU;
+- (f) provide a statement on any material uncertainty relating to events or conditions that may cast significant doubt about the entity's ability to continue as a going concern;
+- (g) identify the place of establishment of the statutory auditor(s) or the audit firm(s).
+
+Member States may lay down additional requirements in relation to the content of the audit report.
+
+3. Where the statutory audit was carried out by more than one statutory auditor or audit firm, the statutory auditor(s) or the audit firm(s) shall agree on the results of the statutory audit and submit a joint report and opinion. In the case of disagreement, each statutory auditor or audit firm shall submit his, her or its opinion in a separate paragraph of the audit report and shall state the reason for the disagreement.
+
+4. The audit report shall be signed and dated by the statutory auditor. Where an audit firm carries out the statutory audit, the audit report shall bear the signature of at least the statutory auditor(s) carrying out the statutory audit on behalf of the audit firm. Where more than one statutory auditor or audit firm have been simultaneously engaged, the audit report shall be signed by all statutory auditors or at least by the statutory auditors carrying out the statutory audit on behalf of every audit firm. In exceptional circumstances Member States may provide that such signature(s) need not be disclosed to the public if such disclosure could lead to an imminent and significant threat to the personal security of any person.
+
+In any event, the name(s) of the person(s) involved shall be known to the relevant competent authorities.
+
+5. The report of the statutory auditor or the audit firm on the consolidated financial statements shall comply with the requirements set out in paragraphs 1 to 4. In reporting on the consistency of the management report and the financial statements as required by point (e) of paragraph 2, the statutory auditor or the audit firm shall consider the consolidated financial statements and the consolidated management report. Where the annual financial statements of the parent undertaking are attached to the consolidated financial statements, the reports of the statutory auditors or the audit firms required by this Article may be combined.
+
+## CHAPTER VI — QUALITY ASSURANCE
+
+### Article 29. Quality assurance systems
+
+1. Each Member State shall ensure that all statutory auditors and audit firms are subject to a system of quality assurance which meets at least the following criteria:
+
+- (a) the quality assurance system shall be organised in such a manner that it is independent of the reviewed statutory auditors and audit firms and is subject to public oversight;
+- (b) the funding for the quality assurance system shall be secure and free from any possible undue influence by statutory auditors or audit firms;
+- (c) the quality assurance system shall have adequate resources;
+- (d) the persons who carry out quality assurance reviews shall have appropriate professional education and relevant experience in statutory audit and financial reporting combined with specific training on quality assurance reviews;
+- (e) the selection of reviewers for specific quality assurance review assignments shall be effected in accordance with an objective procedure designed to ensure that there are no conflicts of interest between the reviewers and the statutory auditor or audit firm under review;
+- (f) the scope of the quality assurance review, supported by adequate testing of selected audit files, shall include an assessment of compliance with applicable auditing standards and independence requirements, of the quantity and quality of resources spent, of the audit fees charged and of the internal quality control system of the audit firm;
+- (g) the quality assurance review shall be the subject of a report which shall contain the main conclusions of the quality assurance review;
+- (h) quality assurance reviews shall take place on the basis of an analysis of the risk and, in the case of statutory auditors and audit firms carrying out statutory audits as defined in point (a) of point 1 of Article 2, at least every six years;
+- (i) the overall results of the quality assurance system shall be published annually;
+- (j) recommendations of quality reviews shall be followed up by the statutory auditor or audit firm within a reasonable period;
+- (k) quality assurance reviews shall be appropriate and proportionate in view of the scale and complexity of the activity of the reviewed statutory auditor or audit firm.
+
+If the recommendations referred to in point (j) are not followed up, the statutory auditor or audit firm shall, if applicable, be subject to the system of disciplinary actions or penalties referred to in Article 30.
+
+2. For the purpose of point (e) of paragraph 1, at least the following criteria shall apply to the selection of reviewers:
+
+- (a) reviewers shall have appropriate professional education and relevant experience in statutory audit and financial reporting combined with specific training on quality assurance reviews;
+- (b) a person shall not be allowed to act as a reviewer in a quality assurance review of a statutory auditor or an audit firm until at least three years have elapsed since that person ceased to be a partner or an employee of, or otherwise associated with, that statutory auditor or audit firm;
+- (c) reviewers shall declare that there are no conflicts of interest between them and the statutory auditor and the audit firm to be reviewed.
+
+3. For the purpose of point (k) of paragraph 1, Member States shall require competent authorities, when undertaking quality assurance reviews of the statutory audits of annual or consolidated financial statements of medium-sized and small undertakings, to take account of the fact that the auditing standards adopted in accordance with Article 26 are designed to be applied in a manner that is proportionate to the scale and complexity of the business of the audited entity.
+
+## CHAPTER VII — INVESTIGATIONS AND SANCTIONS
+
+### Article 30. Systems of investigations and sanctions
+
+1. Member States shall ensure that there are effective systems of investigations and sanctions to detect, correct and prevent inadequate execution of the statutory audit.
+
+2. Without prejudice to Member States' civil liability regimes, Member States shall provide for effective, proportionate and dissuasive sanctions in respect of statutory auditors and audit firms, where statutory audits are not carried out in conformity with the provisions adopted in the implementation of this Directive, and, where applicable, Regulation (EU) No 537/2014.
+
+Member States may decide not to lay down rules for administrative sanctions for infringements which are already subject to national criminal law. In that event, they shall communicate to the Commission the relevant criminal law provisions.
+
+3. Member States shall provide that measures taken and sanctions imposed on statutory auditors and audit firms are to be appropriately disclosed to the public. Sanctions shall include the possibility of withdrawal of approval. Member States may decide that such disclosure shall not contain personal data within the meaning of point (a) of Article 2 of Directive 95/46/EC.
+
+4. By 17 June 2016 the Member States shall notify the rules referred to in paragraph 2 to the Commission. They shall notify the Commission without delay of any subsequent amendment thereto.
+
+### Article 30a. Sanctioning powers
+
+1. Member States shall provide for competent authorities to have the power to take and/or impose at least the following administrative measures and sanctions for breaches of the provisions of this Directive and, where applicable, of Regulation (EU) No 537/2014:
+
+- (a) a notice requiring the natural or legal person responsible for the breach to cease the conduct and to abstain from any repetition of that conduct;
+- (b) a public statement which indicates the person responsible and the nature of the breach, published on the website of competent authorities;
+- (c) a temporary prohibition, of up to three years' duration, banning the statutory auditor, the audit firm or the key audit partner from carrying out statutory audits and/or signing audit reports;
+- (d) a declaration that the audit report does not meet the requirements of Article 28 of this Directive or, where applicable, Article 10 of Regulation (EU) No 537/2014;
+- (e) a temporary prohibition, of up to three years' duration, banning a member of an audit firm or a member of an administrative or management body of a public-interest entity from exercising functions in audit firms or public-interest entities;
+- (f) the imposition of administrative pecuniary sanctions on natural and legal persons.
+
+2. Member States shall ensure that the competent authorities are able to exercise their sanctioning powers in accordance with this Directive and national law and in any of the following ways:
+
+- (a) directly;
+- (b) in collaboration with other authorities;
+- (c) by application to the competent judicial authorities.
+
+3. Member States may confer on competent authorities other sanctioning powers in addition to those referred to in paragraph 1.
+
+4. By way of derogation from paragraph 1, Member States may confer on authorities supervising public-interest entities, when they are not designated as the competent authority pursuant to Article 20(2) of Regulation (EU) No 537/2014, powers to impose sanctions for breaches of reporting duties provided for by that Regulation.
+
+### Article 30b. Effective application of sanctions
+
+When laying down rules pursuant to Article 30, Member States shall require that, when determining the type and level of administrative sanctions and measures, competent authorities are to take into account all relevant circumstances, including where appropriate:
+
+- ((a)) the gravity and the duration of the breach;
+- ((b)) the degree of responsibility of the responsible person;
+- ((c)) the financial strength of the responsible person, for example as indicated by the total turnover of the responsible undertaking or the annual income of the responsible person, if that person is a natural person;
+- ((d)) the amounts of the profits gained or losses avoided by the responsible person, in so far as they can be determined;
+- ((e)) the level of cooperation of the responsible person with the competent authority;
+- ((f)) previous breaches by the responsible legal or natural person.
+
+Additional factors may be taken into account by competent authorities, where such factors are specified in national law.
+
+### Article 30c. Publication of sanctions and measures
+
+1. Competent authorities shall publish on their official website at least any administrative sanction imposed for breach of the provisions of this Directive or of Regulation (EU) No 537/2014 in respect of which all rights of appeal have been exhausted or have expired, as soon as reasonably practicable immediately after the person sanctioned has been informed of that decision, including information concerning the type and nature of the breach and the identity of the natural or legal person on whom the sanction has been imposed.
+
+Where Member States permit publication of sanctions which are subject to appeal, competent authorities shall, as soon as reasonably practicable, also publish on their official website information concerning the status and outcome of any appeal.
+
+2. Competent authorities shall publish the sanctions imposed on an anonymous basis, and in a manner which is in conformity with national law, in any of the following circumstances:
+
+- (a) where, in the event that the sanction is imposed on a natural person, publication of personal data is shown to be disproportionate by an obligatory prior assessment of the proportionality of such publication;
+- (b) where publication would jeopardise the stability of financial markets or an ongoing criminal investigation;
+- (c) where publication would cause disproportionate damage to the institutions or individuals involved.
+
+3. Competent authorities shall ensure that any publication in accordance with paragraph 1 is of proportionate duration and that it remains on their official website for a minimum period of five years after all rights of appeal have been exhausted or have expired.
+
+The publication of sanctions and measures and of any public statement shall respect fundamental rights as laid down in the Charter of Fundamental Rights of the European Union, in particular the right to respect for private and family life and the right to the protection of personal data. Member States may decide that such publication or any public statement is not to contain personal data within the meaning of point (a) of Article 2 of Directive 95/46/EC.
+
+### Article 30d. Appeal
+
+Member States shall ensure that decisions taken by the competent authority in accordance with this Directive and Regulation (EU) No 537/2014 are subject to a right of appeal.
+
+### Article 30e. Reporting of breaches
+
+1. Member States shall ensure that effective mechanisms are established to encourage reporting of breaches of this Directive or of Regulation (EU) No 537/2014 to the competent authorities.
+
+2. The mechanisms referred to in paragraph 1 shall include at least:
+
+- (a) specific procedures for the receipt of reports of breaches and their follow-up;
+- (b) protection of personal data concerning both the person who reports the suspected or actual breach and the person who is suspected of committing, or who has allegedly committed that breach, in compliance with the principles laid down in Directive 95/46/EC;
+- (c) appropriate procedures to ensure the right of the accused person to a defence and to be heard before the adoption of a decision concerning him or her, and the right to seek an effective remedy before a tribunal against any decision or measure concerning him or her.
+
+3. Member States shall ensure that audit firms establish appropriate procedures for their employees to report potential or actual breaches of this Directive or of Regulation (EU) No 537/2014 internally through a specific channel.
+
+### Article 30f. Exchange of information
+
+1. Competent authorities shall provide the CEAOB annually with aggregated information regarding all administrative measures and all sanctions imposed in accordance with this chapter. The CEAOB shall publish that information in an annual report.
+
+2. Competent authorities shall immediately communicate to the CEAOB all temporary prohibitions referred to in points c) and e) of Article 30a(1).
+
+## CHAPTER VIII — PUBLIC OVERSIGHT AND REGULATORY ARRANGEMENTS BETWEEN MEMBER STATES
+
+### Article 32. Principles of public oversight
+
+1. Member States shall organise an effective system of public oversight for statutory auditors and audit firms based on the principles set out in paragraphs 2 to 7, and shall designate a competent authority responsible for such oversight.
+
+2. All statutory auditors and audit firms shall be subject to public oversight.
+
+3. The competent authority shall be governed by non-practitioners who are knowledgeable in the areas relevant to statutory audit. They shall be selected in accordance with an independent and transparent nomination procedure.
+
+The competent authority may engage practitioners to carry out specific tasks and may also be assisted by experts when this is essential for the proper fulfilment of its tasks. In such instances, both the practitioners and the experts shall not be involved in any decision-making of the competent authority.
+
+4. The competent authority shall have the ultimate responsibility for the oversight of:
+
+- (a) the approval and registration of statutory auditors and audit firms;
+- (b) the adoption of standards on professional ethics, internal quality control of audit firms and auditing, except where those standards are adopted or approved by other Member State authorities;
+- (c) continuing education;
+- (d) quality assurance systems;
+- (e) investigative and administrative disciplinary systems.
+
+4a. Member States shall designate one or more competent authorities to carry out the tasks provided for in this Directive. Member States shall designate only one competent authority bearing the ultimate responsibility for the tasks referred in this Article except for the purpose of the statutory audit of cooperatives, savings banks or similar entities as referred to in Article 45 of Directive 86/635/EEC, or a subsidiary or legal successor of a cooperative, savings bank or similar entity as referred to in Article 45 of Directive 86/635/EEC.
+
+Member States shall inform the Commission of their designation.
+
+The competent authorities shall be organised in such a manner that conflicts of interests are avoided.
+
+4b. Member States may delegate or allow the competent authority to delegate any of its tasks to other authorities or bodies designated or otherwise authorised by law to carry out such tasks.
+
+The delegation shall specify the delegated tasks and the conditions under which they are to be carried out. The authorities or bodies shall be organised in such a manner that conflicts of interest are avoided.
+
+Where the competent authority delegates tasks to other authorities or bodies, it shall be able to reclaim the delegated competences on a case-by-case basis.
+
+5. The competent authority shall have the right, where necessary, to initiate and conduct investigations in relation to statutory auditors and audit firms and the right to take appropriate action.
+
+Where a competent authority engages experts to carry out specific assignments, it shall ensure that there are no conflicts of interest between those experts and the statutory auditor or the audit firm in question. Such experts shall comply with the same requirements as those provided for in point (a) of Article 29(2).
+
+The competent authority shall be given the powers necessary to enable it to carry out its tasks and responsibilities under this Directive.
+
+6. The competent authority shall be transparent. This shall include the publication of annual work programmes and activity reports.
+
+7. The system of public oversight shall be adequately funded and shall have adequate resources to initiate and conduct investigations, as referred to in paragraph 5. The funding of the public oversight system shall be secure and free from any undue influence by statutory auditors or audit firms.
+
+### Article 33. Cooperation between public oversight systems at Community level
+
+Member States shall ensure that regulatory arrangements for public oversight systems permit effective cooperation at Community level in respect of Member States' oversight activities. To that end, each Member State shall make one entity specifically responsible for ensuring that cooperation.
+
+### Article 34. Mutual recognition of regulatory arrangements between Member States
+
+1. Regulatory arrangements of Member States shall respect the principle of home-country regulation and oversight by the Member State in which the statutory auditor or audit firm is approved and the audited entity has its registered office.
+
+Without prejudice to the first subparagraph, audit firms approved in one Member State that perform audit services in another Member State pursuant to Article 3a shall be subject to quality assurance review in the home Member State and oversight in the host Member State of any audit carried out there.
+
+2. In the case of a statutory audit of consolidated financial statements, the Member State requiring that statutory audit may not impose additional requirements in relation to the statutory audit concerning registration, quality assurance review, auditing standards, professional ethics and independence on a statutory auditor or an audit firm carrying out a statutory audit of a subsidiary established in another Member State.
+
+3. In the case of a company whose securities are traded on a regulated market in a Member State other than that in which that company has its registered office, the Member State in which the securities are traded may not impose any additional requirements in relation to the statutory audit concerning registration, quality assurance review, auditing standards, professional ethics and independence on a statutory auditor or an audit firm carrying out the statutory audit of the annual or consolidated financial statements of that company.
+
+4. Where a statutory auditor or an audit firm is registered in any Member State as a consequence of approval in accordance with Article 3 or Article 44 and that statutory auditor or audit firm provides audit reports concerning annual financial statements or consolidated financial statements as referred to in Article 45(1), the Member State in which the statutory auditor or the audit firm is registered shall subject that statutory auditor or audit firm to its systems of oversight, its quality assurance systems and its systems of investigation and sanctions.
+
+### Article 35. Designation of competent authorities (affected by repeal, see note)[^c000003][^c000003]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 36. Professional secrecy and regulatory cooperation between Member States
+
+1. The competent authorities of Member States responsible for approval, registration, quality assurance, inspection and discipline, the competent authorities designated in accordance with Article 20 of Regulation (EU) No 537/2014 and the relevant European Supervisory Authorities shall cooperate with each other whenever necessary for the purpose of carrying out their respective responsibilities and tasks under this Directive and Regulation (EU) No 537/2014. The competent authorities in a Member State shall render assistance to competent authorities in other Member States and to the relevant European Supervisory Authorities. In particular, competent authorities shall exchange information and cooperate in investigations relating to the carrying-out of statutory audits.
+
+2. The obligation of professional secrecy shall apply to all persons who are employed or who have been employed by competent authorities. Information covered by professional secrecy may not be disclosed to any other person or authority except by virtue of the laws, regulations or administrative procedures of a Member State.
+
+3. Paragraph 2 shall not prevent competent authorities from exchanging confidential information. Information thus exchanged shall be covered by the obligation of professional secrecy, to which persons employed or formerly employed by competent authorities are subject. The obligation of professional secrecy shall also apply to any other person to whom the competent authorities have delegated tasks in relation to the purposes set out in this Directive.
+
+4. Competent authorities shall, on request, and without undue delay, supply any information required for the purpose referred to in paragraph 1. Where necessary, the competent authorities receiving any such request shall, without undue delay, take the necessary measures to gather the required information. Information thus supplied shall be covered by the obligation of professional secrecy to which the persons employed or formerly employed by the competent authorities that received the information are subject.
+
+If the requested competent authority is not able to supply the required information without undue delay, it shall notify the requesting competent authority of the reasons therefor.
+
+The competent authorities may refuse to act on a request for information where:
+
+- (a) supplying information might adversely affect the sovereignty, security or public order of the requested Member State or breach national security rules; or
+- (b) judicial proceedings have already been initiated in respect of the same actions and against the same persons before the authorities of the requested Member State; or
+- (c) final judgment has already been passed in respect of the same actions and on the same persons by the competent authorities of the requested Member State.
+
+Without prejudice to the obligations to which they are subject in judicial proceedings, competent authorities or European Supervisory Authorities which receive information pursuant to paragraph 1 may use it only for the exercise of their functions within the scope of this Directive or Regulation (EU) No 537/2014 and in the context of administrative or judicial proceedings specifically related to the exercise of those functions.
+
+4a. Member States may allow competent authorities to transmit to the competent authorities responsible for supervising public-interest entities, to central banks, to the European System of Central Banks and to the European Central Bank, in their capacity as monetary authorities, and to the European Systemic Risk Board, confidential information intended for the performance of their tasks. Such authorities or bodies shall not be prevented from communicating to the competent authorities information that the competent authorities may need in order to carry out their duties under Regulation (EU) No 537/2014.
+
+5. Where a competent authority concludes that activities contrary to the provisions of this Directive are being or have been carried out on the territory of another Member State, it shall notify the competent authority of the other Member State of that conclusion in as specific a manner as possible. The competent authority of the other Member State shall take appropriate action. It shall inform the notifying competent authority of the outcome and, to the extent possible, of significant interim developments.
+
+6. A competent authority of one Member State may also request that an investigation be carried out by the competent authority of another Member State on the latter's territory.
+
+It may further request that some of its own personnel be allowed to accompany the personnel of the competent authority of that other Member State in the course of the investigation.
+
+The investigation shall be subject throughout to the overall control of the Member State on whose territory it is conducted.
+
+The competent authorities may refuse to act on a request for an investigation to be carried out as provided for in the first subparagraph, or on a request for its personnel to be accompanied by personnel of a competent authority of another Member State as provided for in the second subparagraph, where:
+
+- (a) such an investigation might adversely affect the sovereignty, security or public order of the requested Member State or breach national security rules; or
+- (b) judicial proceedings have already been initiated in respect of the same actions and against the same persons before the authorities of the requested Member State; or
+- (c) final judgment has already been passed in respect of the same actions on such persons by the competent authorities of the requested Member State.
+
+7.[^c000003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## CHAPTER IX — APPOINTMENT AND DISMISSAL
+
+### Article 37. Appointment of statutory auditors or audit firms
+
+1. The statutory auditor or audit firm shall be appointed by the general meeting of shareholders or members of the audited entity.
+
+2. Member States may allow alternative systems or modalities for the appointment of the statutory auditor or audit firm, provided that those systems or modalities are designed to ensure the independence of the statutory auditor or audit firm from the executive members of the administrative body or from the managerial body of the audited entity.
+
+3. Any contractual clause restricting the choice by the general meeting of shareholders or members of the audited entity pursuant to paragraph 1 to certain categories or lists of statutory auditors or audit firms as regards the appointment of a particular statutory auditor or audit firm to carry out the statutory audit of that entity shall be prohibited. Any such existing clauses shall be null and void.
+
+### Article 38. Dismissal and resignation of statutory auditors or audit firms
+
+1. Member States shall ensure that statutory auditors or audit firms may be dismissed only where there are proper grounds. Divergence of opinions on accounting treatments or audit procedures shall not be proper grounds for dismissal.
+
+2. Member States shall ensure that the audited entity and the statutory auditor or audit firm inform the authority or authorities responsible for public oversight concerning the dismissal or resignation of the statutory auditor or audit firm during the term of appointment and give an adequate explanation of the reasons therefor.
+
+3. In the case of a statutory audit of a public-interest entity, Member States shall ensure that it is permissible for
+
+- (a) shareholders representing 5 % or more of the voting rights or of the share capital;
+- (b) the other bodies of the audited entities when defined by national legislation; or
+- (c) the competent authorities referred to in Article 32 of this Directive or designated in accordance with Article 20(1) of Regulation (EU) No 537/2014 or, when provided for by national law, with Article 20(2) of that Regulation,
+
+to bring a claim before a national court for the dismissal of the statutory auditor(s) or the audit firm(s) where there are proper grounds for so doing.
+
+## CHAPTER X — AUDIT COMMITTEE
+
+### Article 39. Audit committee
+
+1. Member States shall ensure that each public-interest entity has an audit committee. The audit committee shall be either a stand-alone committee or a committee of the administrative body or supervisory body of the audited entity. It shall be composed of non-executive members of the administrative body and/or members of the supervisory body of the audited entity and/or members appointed by the general meeting of shareholders of the audited entity or, for entities without shareholders, by an equivalent body.
+
+At least one member of the audit committee shall have competence in accounting and/or auditing.
+
+The committee members as a whole shall have competence relevant to the sector in which the audited entity is operating.
+
+A majority of the members of the audit committee shall be independent of the audited entity. The chairman of the audit committee shall be appointed by its members or by the supervisory body of the audited entity, and shall be independent of the audited entity. Member States may require the chairman of the audit committee to be elected annually by the general meeting of shareholders of the audited entity.
+
+2. By way of derogation from paragraph 1, Member States may decide that in the case of public-interest entities which meet the criteria set out in points (f) and (t) of Article 2(1) of Directive 2003/71/EC of the European Parliament and of the Council [^f00023] , the functions assigned to the audit committee may be performed by the administrative or supervisory body as a whole, provided that where the chairman of such a body is an executive member, he or she shall not act as chairman whilst such body is performing the functions of the audit committee.
+
+Where an audit committee forms part of the administrative body or of the supervisory body of the audited entity in accordance with paragraph 1, Member States may permit or require the administrative body or the supervisory body, as appropriate, to perform the functions of the audit committee for the purpose of the obligations set out in this Directive and in Regulation (EU) No 537/2014.
+
+3. By way of derogation from paragraph 1, Member States may decide that the following public-interest entities are not required to have an audit committee:
+
+- (a) any public-interest entity which is a subsidiary undertaking within the meaning of point 10 of Article 2 of Directive 2013/34/EU if that entity fulfils the requirements set out in paragraphs 1, 2 and 5 of this Article, Article 11(1), Article 11(2) and Article 16(5) of Regulation (EU) No 537/2014 at group level;
+- (b) any public-interest entity which is an UCITS as defined in Article 1(2) of Directive 2009/65/EC of the European Parliament and of the Council [^f00024] or an alternative investment fund (AIF) as defined in Article 4(1)(a) of Directive 2011/61/EU of the European Parliament and of the Council [^f00025] ;
+- (c) any public-interest entity the sole business of which is to act as an issuer of asset backed securities as defined in point 5 of Article 2 of Commission Regulation (EC) No 809/2004 [^f00026] ;
+- (d) any credit institution within the meaning of point 1 of Article 3(1) of Directive 2013/36/EU whose shares are not admitted to trading on a regulated market of any Member State within the meaning of point 14 of Article 4(1) of Directive 2004/39/EC and which has, in a continuous or repeated manner, issued only debt securities admitted to trading in a regulated market, provided that the total nominal amount of all such debt securities remains below EUR 100 000 000 and that it has not published a prospectus under Directive 2003/71/EC.
+
+The public-interest entities referred to in point (c) shall explain to the public the reasons why they consider that it is not appropriate for them to have either an audit committee or an administrative or supervisory body entrusted to carry out the functions of an audit committee.
+
+4. By way of derogation from paragraph 1, Member States may require or allow a public-interest entity not to have an audit committee provided that it has a body or bodies performing equivalent functions to an audit committee, established and functioning in accordance with provisions in place in the Member State in which the entity to be audited is registered. In such a case the entity shall disclose which body carries out those functions and how that body is composed.
+
+5. Where all members of the audit committee are members of the administrative or supervisory body of the audited entity, the Member State may provide that the audit committee is to be exempt from the independence requirements laid down in the fourth subparagraph of paragraph 1.
+
+6. Without prejudice to the responsibility of the members of the administrative, management or supervisory bodies, or of other members who are appointed by the general meeting of shareholders of the audited entity, the audit committee shall, inter alia:
+
+- (a) inform the administrative or supervisory body of the audited entity of the outcome of the statutory audit and explain how the statutory audit contributed to the integrity of financial reporting and what the role of the audit committee was in that process;
+- (b) monitor the financial reporting process and submit recommendations or proposals to ensure its integrity;
+- (c) monitor the effectiveness of the undertaking's internal quality control and risk management systems and, where applicable, its internal audit, regarding the financial reporting of the audited entity, without breaching its independence;
+- (d) monitor the statutory audit of the annual and consolidated financial statements, in particular, its performance, taking into account any findings and conclusions by the competent authority pursuant to Article 26(6) of Regulation (EU) No 537/2014;
+- (e) review and monitor the independence of the statutory auditors or the audit firms in accordance with Articles 22, 22a, 22b, 24a and 24b of this Directive and Article 6 of Regulation (EU) No 537/2014, and in particular the appropriateness of the provision of non-audit services to the audited entity in accordance with Article 5 of that Regulation;
+- (f) be responsible for the procedure for the selection of statutory auditor(s) or audit firm(s) and recommend the statutory auditor(s) or the audit firm(s) to be appointed in accordance with Article 16 of Regulation (EU) No 537/2014 except when Article 16(8) of Regulation (EU) No 537/2014 is applied.
+
+## CHAPTER XI — INTERNATIONAL ASPECTS
+
+### Article 44. Approval of auditors from third countries
+
+1. Subject to reciprocity, the competent authorities of a Member State may approve a third-country auditor as statutory auditor if that person has furnished proof that he or she complies with requirements equivalent to those laid down in Articles 4 and 6 to 13.
+
+2. The competent authorities of a Member State shall, before granting approval to a third-country auditor who meets the requirements of paragraph 1, apply the requirements laid down in Article 14.
+
+### Article 45. Registration and oversight of third-country auditors and audit entities
+
+1. The competent authorities of a Member State shall, in accordance with Articles 15, 16 and 17, register every third-country auditor and audit entity, where that third-country auditor or audit entity provides an audit report concerning the annual or consolidated financial statements of an undertaking incorporated outside the Union whose transferable securities are admitted to trading on a regulated market of that Member State within the meaning of point 14 of Article 4(1) of Directive 2004/39/EC, except when the undertaking in question is an issuer exclusively of outstanding debt securities for which one of the following applies:
+
+- (a) they have been admitted to trading on a regulated market in a Member State within the meaning of point (c) of Article 2(1) of Directive 2004/109/EC of the European Parliament and of the Council [^f00027] prior to 31 December 2010 and the denomination per unit of which is, at the date of issue, at least EUR 50 000 or, in the case of debt securities denominated in another currency, equivalent, at the date of issue, to at least EUR 50 000 ;
+- (b) they are admitted to trading on a regulated market in a Member State within the meaning of point (c) of Article 2(1) of Directive 2004/109/EC from 31 December 2010 and the denomination per unit of which is, at the date of issue, at least EUR 100 000 or, in case of debt securities denominated in another currency, equivalent, at the date of issue, to at least EUR 100 000 .
+
+2. Articles 18 and 19 shall apply.
+
+3. Member States shall subject registered third-country auditors and audit entities to their systems of oversight, their quality assurance systems and their systems of investigation and penalties. A Member State may exempt a registered third-country auditor or audit entity from being subject to its quality assurance system if another Member State's or third country's system of quality assurance that has been assessed as equivalent in accordance with Article 46 has carried out a quality review of the third-country auditor or audit entity concerned during the previous three years.
+
+4. Without prejudice to Article 46, audit reports concerning annual accounts or consolidated accounts referred to in paragraph 1 of this Article issued by third-country auditors or audit entities that are not registered in the Member State shall have no legal effect in that Member State.
+
+5. A Member State may register a third-country audit entity only if:
+
+- (a) it meets requirements which are equivalent to those laid down in Article 3(3); *(affected by repeal, see note)*[^c000003]
+- (b) the majority of the members of the administrative or management body of the third-country audit entity meet requirements which are equivalent to those laid down in Articles 4 to 10;
+- (c) the third-country auditor carrying out the audit on behalf of the third-country audit entity meets requirements which are equivalent to those laid down in Articles 4 to 10;
+- (d) the audits of the annual or consolidated financial statements referred to in paragraph 1 are carried out in accordance with international auditing standards as referred to in Article 26, as well as the requirements laid down in Articles 22, 22b and 25, or with equivalent standards and requirements;
+- (e) it publishes on its website an annual transparency report which includes the information referred to in Article 13 of Regulation (EU) No 537/2014 or it complies with equivalent disclosure requirements.
+
+5a. A Member State may register a third-country auditor only if he or she meets the requirements set out in points (c), (d) and (e) of paragraph 5 of this Article.
+
+6. In order to ensure uniform conditions of application of point (d) of paragraph 5 of this Article, the Commission shall be empowered to decide upon the equivalence referred to therein by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2). Member States may assess the equivalence referred to in point (d) of paragraph 5 of this Article as long as the Commission has not taken any such decision.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 48a for the purpose of establishing the general equivalence criteria to be used in assessing whether the audits of the financial statements referred to in paragraph 1 of this Article are carried out in accordance with international auditing standards as referred to in Article 26 and the requirements laid down in Articles 22, 24 and 25. Such criteria, which are applicable to all third countries, shall be used by Member States when assessing equivalence at national level.
+
+### Article 46. Derogation in the case of equivalence
+
+1. Member States may disapply or modify the requirements in Article 45(1) and (3) on the basis of reciprocity only if the third-country auditors or audit entities are subject to systems of public oversight, quality assurance and investigations and penalties in the third country that meet requirements equivalent to those of Articles 29, 30 and 32.
+
+2. In order to ensure uniform conditions for the application of paragraph 1 of this Article, the Commission shall be empowered to decide upon the equivalence referred to therein by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2). Once the Commission has recognised the equivalence referred to in paragraph 1 of this Article, Member States may decide to rely on such equivalence partially or entirely and thus to disapply or modify the requirements in Article 45(1) and (3) partially or entirely. Member States may assess the equivalence referred to in paragraph 1 of this Article or rely on the assessments carried out by other Member States as long as the Commission has not taken any such decision. If the Commission decides that the requirement of equivalence referred to in paragraph 1 of this Article is not complied with, it may allow the third-country auditors and third-country audit entities concerned to continue their audit activities in accordance with the requirements of the relevant Member State during an appropriate transitional period.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 48a for the purpose of establishing the general equivalence criteria, based on the requirements laid down in Articles 29, 30 and 32, which are to be used in assessing whether the public oversight, quality assurance, investigation and sanctions systems of a third country are equivalent to those of the Union. Such general criteria shall be used by Member States when assessing equivalence at national level in the absence of a Commission decision in respect of the third country concerned.
+
+3. Member States shall communicate to the Commission:
+
+- (a) their assessments of the equivalence referred to in paragraph 2; and
+- (b) the main elements of their cooperative arrangements with third-country systems of public oversight, quality assurance and investigations and penalties, on the basis of paragraph 1.
+
+### Article 47. Cooperation with competent authorities from third countries
+
+1. Member States may allow the transfer to the competent authorities of a third country of audit working papers or other documents held by statutory auditors or audit firms approved by them, and of inspection or investigation reports relating to the audits in question, provided that:
+
+- (a) those audit working papers or other documents relate to audits of companies which have issued securities in that third country or which form part of a group issuing statutory consolidated financial statements in that third country;
+- (b) the transfer takes place via the home competent authorities to the competent authorities of that third country and at their request;
+- (c) the competent authorities of the third country concerned meet requirements which have been declared adequate in accordance with paragraph 3;
+- (d) there are working arrangements on the basis of reciprocity agreed between the competent authorities concerned;
+- (e) the transfer of personal data to the third country is in accordance with Chapter IV of Directive 95/46/EC.
+
+2. The working arrangements referred to in paragraph 1(d) shall ensure that:
+
+- (a) justification as to the purpose of the request for audit working papers and other documents is provided by the competent authorities;
+- (b) the persons employed or formerly employed by the competent authorities of the third country that receive the information are subject to obligations of professional secrecy;
+- (ba) the protection of the commercial interests of the audited entity, including its industrial and intellectual property, is not undermined;
+- (c) the competent authorities of the third country may use audit working papers and other documents only for the exercise of their functions of public oversight, quality assurance and investigations that meet requirements equivalent to those of Articles 29, 30 and 32;
+- (d) the request from a competent authority of a third country for audit working papers or other documents held by a statutory auditor or audit firm can be refused:
+  - where the provision of those working papers or documents would adversely affect the sovereignty, security or public order of the Community or of the requested Member State, or *(affected by repeal, see note)*[^c000003]
+  - where judicial proceedings have already been initiated in respect of the same actions and against the same persons before the authorities of the requested Member State, or
+  - where final judgment has already been passed in respect of the same actions and on the same statutory auditors or audit firms by the competent authorities of the requested Member State.
+
+3. In order to facilitate cooperation, the Commission shall be empowered to decide upon the adequacy referred to in point (c) of paragraph 1 of this Article by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2). Member States shall take the measures necessary to comply with the Commission's decision.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 48a for the purpose of establishing the general adequacy criteria in accordance with which the Commission is to assess whether the competent authorities of third countries may be recognised as adequate to cooperate with the competent authorities of Member States on the exchange of audit working papers or other documents held by statutory auditors and audit firms. The general adequacy criteria shall be based on the requirements of Article 36 or essentially equivalent functional results relating to a direct exchange of audit working papers or other documents held by statutory auditors or audit firms.
+
+4. In exceptional cases and by way of derogation from paragraph 1, Member States may allow statutory auditors and audit firms approved by them to transfer audit working papers and other documents directly to the competent authorities of a third country, provided that:
+
+- (a) investigations have been initiated by the competent authorities in that third country;
+- (b) the transfer does not conflict with the obligations with which statutory auditors and audit firms are required to comply in relation to the transfer of audit working papers and other documents to their home competent authority;
+- (c) there are working arrangements with the competent authorities of that third country that allow the competent authorities in the Member State reciprocal direct access to audit working papers and other documents of that third-country's audit entities;
+- (d) the requesting competent authority of the third country informs in advance the home competent authority of the statutory auditor or audit firm of each direct request for information, indicating the reasons therefor;
+- (e) the conditions referred to in paragraph 2 are respected.
+
+5.[^c000003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6. Member States shall communicate to the Commission the working arrangements referred to in paragraphs 1 and 4.
+
+## CHAPTER XII — TRANSITIONAL AND FINAL PROVISIONS
+
+### Article 48. Committee procedure
+
+1. The Commission shall be assisted by a committee (hereinafter referred to as ‘the Committee’). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council [^f00028] .
+
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+2a.[^c000005] Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+3.[^c000006] By 31 December 2010 and, thereafter, at least every three years, the Commission shall review the provisions concerning its implementing powers and present a report to the European Parliament and to the Council on the functioning of those powers. The report shall examine, in particular, the need for the Commission to propose amendments to this Directive in order to ensure the appropriate scope of the implementing powers conferred on the Commission. The conclusion as to whether or not an amendment is necessary shall be accompanied by a detailed statement of reasons. If necessary, the report shall be accompanied by a legislative proposal to amend the provisions conferring implementing powers on the Commission.
+
+### Article 48a. Exercise of the delegation
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Articles 26(3), 45(6), 46(2) and 47(3) shall be conferred on the Commission for a period of five years from 16 June 2014 . The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3. The delegation of power referred to in Articles 26(3), 45(6), 46(2) and 47(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5. A delegated act adopted pursuant to Articles 26(3), 45(6), 46(2) and 47(3) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of four months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 49. Amendment of Directive 78/660/EEC and Directive 83/349/EEC (affected by repeal, see note)[^c000003][^c000003]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 50. Repeal of Directive 84/253/EEC
+
+Directive 84/253/EEC shall be repealed with effect from 29 June 2006. References to the repealed Directive shall be construed as references to this Directive.
+
+### Article 51. Transitional provision
+
+Statutory auditors or audit firms that are approved by the competent authorities of the Member States in accordance with Directive 84/253/EEC before the entry into force of the provisions referred to in Article 53(1) shall be considered as having been approved in accordance with this Directive.
+
+### Article 52. Minimum harmonisation
+
+Member States requiring statutory audit may impose more stringent requirements, unless otherwise provided for by this Directive.
+
+### Article 53. Transposition
+
+1. Before 29 June 2008 Member States shall adopt and publish the provisions necessary to comply with this Directive. They shall forthwith inform the Commission thereof.
+
+2. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+3. Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 54. Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
+
+### Article 55. Addressees
+
+This Directive is addressed to the Member States.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ C 157, 28.6.2005, p. 115](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2005.157.01.0115.01.ENG).
+
+[^f00002]: Footnote: Opinion of the European Parliament of 28 September 2005 (not yet published in the Official Journal) and Council Decision of 25 April 2006.
+
+[^f00003]: Footnote: [OJ L 222, 14.8.1978, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1978.222.01.0011.01.ENG). Directive as last amended by Directive 2003/51/EC of the European Parliament and of the Council ([OJ L 178, 17.7.2003, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.178.01.0016.01.ENG)).
+
+[^f00004]: Footnote: [OJ L 193, 18.7.1983, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1983.193.01.0001.01.ENG). Directive as last amended by Directive 2003/51/EC.
+
+[^f00005]: Footnote: [OJ L 372, 31.12.1986, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1986.372.01.0001.01.ENG). Directive as last amended by Directive 2003/51/EC.
+
+[^f00006]: Footnote: [OJ L 374, 31.12.1991, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.374.01.0007.01.ENG). Directive as amended by Directive 2003/51/EC.
+
+[^f00007]: Footnote: [OJ L 126, 12.5.1984, p. 20](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1984.126.01.0020.01.ENG).
+
+[^f00008]: Footnote: [OJ C 143, 8.5.1998, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.1998.143.01.0012.01.ENG).
+
+[^f00009]: Footnote: [OJ L 91, 31.3.2001, p. 91](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.091.01.0091.01.ENG).
+
+[^f00010]: Footnote: [OJ L 191, 19.7.2002, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.191.01.0022.01.ENG).
+
+[^f00011]: Footnote: [OJ L 145, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.145.01.0001.01.ENG).
+
+[^f00012]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
+
+[^f00013]: Footnote: [OJ L 52, 25.2.2005, p. 51](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.052.01.0051.01.ENG).
+
+[^f00014]: Footnote: Council Directive 85/611/EEC of 20 December 1985 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) ([OJ L 375, 31.12.1985, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1985.375.01.0003.01.ENG)). Directive as last amended by Directive 2005/1/EC of the European Parliament and of the Council ([OJ L 79, 24.3.2005, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.079.01.0009.01.ENG)).
+
+[^f00015]: Footnote: [OJ L 281, 23.11.1995, p. 31](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1995.281.01.0031.01.ENG). Directive as amended by Regulation (EC) No 1882/2003 ([OJ L 284, 31.10.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.284.01.0001.01.ENG)).
+
+[^c000001]: Textual amendment: Inserted by [Directive 2014/56/EU of the European Parliament and of the Council of 16 April 2014 amending Directive 2006/43/EC on statutory audits of annual accounts and consolidated accounts (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2014/56).
+
+[^f00016]: Footnote: Regulation (EU) No 537/2014 of the European Parliament and of the Council of[^c000001] 16 April 2014 on specific requirements regarding statutory audit of public-interest entities ( [OJ L 158, 27.5.2014, p. 77](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.158.01.0077.01.ENG) ).
+
+[^c000002]: Textual amendment: Substituted by [Directive 2014/56/EU of the European Parliament and of the Council of 16 April 2014 amending Directive 2006/43/EC on statutory audits of annual accounts and consolidated accounts (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2014/56).
+
+[^c000003]: Textual amendment: Deleted by [Directive 2014/56/EU of the European Parliament and of the Council of 16 April 2014 amending Directive 2006/43/EC on statutory audits of annual accounts and consolidated accounts (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2014/56).
+
+[^f00017]: Footnote: Directive 2013/36/EU of the European Parliament and of the Council of[^c000002] 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC ( [OJ L 176, 27.6.2013, p. 338](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0338.01.ENG) ).
+
+[^f00018]: Footnote: [OJ L 207, 18.8.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.207.01.0001.01.ENG).
+
+[^f00019]: Footnote: Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC ( [OJ L 182, 29.6.2013, p. 19](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.182.01.0019.01.ENG) ).
+
+[^f00020]: Footnote: Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications ( [OJ L 255, 30.9.2005, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.255.01.0022.01.ENG) ).
+
+[^f00021]: Footnote: [OJ L 13, 19.1.2000, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.013.01.0012.01.ENG).
+
+[^f00022]: Footnote: Commission Directive 2004/72/EC of 29 April 2004 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards accepted market practices, the definition of inside information in relation to derivatives on commodities, the drawing up of lists of insiders, the notification of managers' transactions and the notification of suspicious transactions ( [OJ L 162, 30.4.2004, p. 70](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.162.01.0070.01.ENG) ).
+
+[^f00023]: Footnote: Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC ( [OJ L 345, 31.12.2003, p. 64](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.345.01.0064.01.ENG) ).
+
+[^f00024]: Footnote: Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) ( [OJ L 302, 17.11.2009, p. 32](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.302.01.0032.01.ENG) ).
+
+[^f00025]: Footnote: Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 ( [OJ L 174, 1.7.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.174.01.0001.01.ENG) ).
+
+[^f00026]: Footnote: Commission Regulation (EC) No 809/2004 of 29 April 2004 implementing Directive 2003/71/EC of the European Parliament and of the Council as regards information contained in prospectuses as well as the format, incorporation by reference and publication of such prospectuses and dissemination of advertisements ( [OJ L 149, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.149.01.0001.01.ENG) ).
+
+[^f00027]: Footnote: Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC ( [OJ L 390, 31.12.2004, p. 38](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.390.01.0038.01.ENG) ).
+
+[^f00028]: Footnote: Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing power ( [OJ L 55, 28.2.2011, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.055.01.0013.01.ENG) ).
+
+[^c000005]: Textual amendment: Inserted by [Directive 2008/30/EC of the European Parliament and of the Council of 11 March 2008 amending Directive 2006/43/EC on statutory audits of annual accounts and consolidated accounts, as regards the implementing powers conferred on the Commission (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2008/30).
+
+[^c000006]: Textual amendment: Substituted by [Directive 2008/30/EC of the European Parliament and of the Council of 11 March 2008 amending Directive 2006/43/EC on statutory audits of annual accounts and consolidated accounts, as regards the implementing powers conferred on the Commission (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2008/30).

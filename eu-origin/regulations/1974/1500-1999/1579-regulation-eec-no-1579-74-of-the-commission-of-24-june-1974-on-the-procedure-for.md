@@ -1,0 +1,141 @@
+---
+title: Regulation (EEC) No 1579/74 of the Commission of 24 June 1974 on the procedure for calculating the import levy on products processed from cereals and from rice and for the advance fixing of this levy for these products and for compound feedingstuffs manufactured from cereals
+id: eur/1974/1579
+type: EuropeanUnionRegulation
+category: euretained
+status: revised-with-pending-changes
+made_date: '1974-06-24'
+text_date: '1974-06-24'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/1974/1579
+pdf_urls:
+- http://www.legislation.gov.uk/eur/1974/1579/pdfs/eur_19741579_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/1974/1579/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EEC) No 1579/74 of the Commission of 24 June 1974 on the procedure for calculating the import levy on products processed from cereals and from rice and for the advance fixing of this levy for these products and for compound feedingstuffs manufactured from cereals
+
+> **Warning: changes not yet applied to this text (3).** Text as at 1974-06-24. See https://www.legislation.gov.uk/changes/affected/eur/1974/1579
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Regulation (EEC) No 1579/74 of the Commission
+
+of 24 June 1974
+
+on the procedure for calculating the import levy on products processed from cereals and from rice and for the advance fixing of this levy for these products and for compound feedingstuffs manufactured from cereals
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community;
+
+Having regard to Council Regulation No 120/67/EEC[^f00001] of 13 June 1967 on the common organization of the market in cereals, as last amended by Regulation (EEC) No 1125/74[^f00002], and in particular Articles 15 (3) and 24 thereof;
+
+Having regard to Council Regulation No 359/67/EEC[^f00003] of 25 July 1967 on the common organization of the market in rice, as last amended by Regulation (EEC) No 1129/74[^f00004], and in particular Articles 13 (3) and 25 thereof;
+
+Having regard to Council Regulation (EEC) No 1052/68[^f00005] of 23 July 1968 on the import and export system for products processed from cereals and from rice, as last amended by Regulation (EEC) No 881/73[^f00006], and in particular Articles 2 (2) and 5 thereof;
+
+Whereas the variable component of the levy on the processed products covered by Regulation (EEC) No 1052/68 is normally fixed for a month and altered in the intervening period in line with variations of the levy on the basic product; whereas these variations do not always have an immediate effect on the price of imported processed products; whereas, moreover, the abovementioned Regulation provided that the variable component should not be altered during the month unless the variation in the levy on basic products reaches a certain limit to be fixed;
+
+Whereas, with a view to the implementation of Article 5 of Regulation (EEC) No 1052/68, the variable component of the levy on processed products qualifying for a production refund granted on basic products used in their manufacture should be reduced by the amount of such refund on the quantities of such products used for calculating the variable component;
+
+Whereas, in accordance with Article 15 (3) of Regulation 120/67/EEC and Article 13 (3) of Regulation No 359/67/EEC, the provisions for the advance fixing of the import levy may be extended in whole or in part to cover processed products and compound feeding stuffs manufactured from cereals; whereas, in view of market conditions and the requirements of international trade, in respect of these products, such extension should now be carried out;
+
+Whereas, owing to the conditions in and the sensitivity of the malt trade, provision should be made, where a levy is fixed in advance, for the charging of a premium so that malt imported under this system reaches the Community under conditions that cannot upset the market;
+
+Whereas Commission Regulation (EEC) No 1080/68[^f00007] of 26 July 1968 on the procedure for calculating the levy on products processed from cereals and from rice and for the advance fixing of the levy for some of these products, as last amended by Regulation (EEC) No 1047/73[^f00008], provides for the advance fixing of the import levy only for certain processed products; whereas, moreover, that Regulation has been amended several times; whereas, in the interests of clarity, it should be replaced by this Regulation;
+
+Whereas the measures provided for in this Regulation are in accordance with the Opinion of the Management Committee for Cereals,
+
+HAS ADOPTED THIS REGULATION:
+
+## TITLE I — Alteration of the levy
+
+**Article 1.** 1. Where, during the month of importation of products covered by Regulation (EEC) No 1052/68, the levy in force for 100 kg of the basic product exceeds by 0·25 unit of account the average levy, adjusted in accordance with the second subparagraph of Article 2 (1) of that Regulation, on the same quantity during the first 25 days of the preceding month, the variable component of the levy on the processed product shall be increased by an amount equal to the ascertained excess, rounded to 0·25 unit of account or to the nearest multiple of 0·25 unit of account, the amount of such excess then being multipled by the coefficient shown in column 4 of the Annex to Regulation (EEC) No 1052/68.
+
+This increase shall apply on the day following ascertainment of the excess.
+
+Where, subsequently during the same month, the levy in force differs by not less than 0·25 unit of account per 100 kg of basic product from the variable component increased as specified above (prior to multiplication by the abovementioned), that variable component shall be increased or reduced by an amount equal to the ascertained difference, rounded to 0·25 unit of account or to the nearest multiple of 0·25 unit of account, the rounded differences being then multiplied by the abovementioned coefficient.
+
+However, the amount of the levy may in no case be reduced below the level fixed on the first day of the month.
+
+2. For the application of paragraph 1 to products falling within tariff subheading 23.02 A, the levy on 100 kg of ‘basic product’ shall be calculated by adding together the levies on 100 kg of common wheat, 100 kg of barley and 100 kg of maize and dividing the total by 3.
+
+## TITLE II — Levy on products qualifying for a production refund
+
+**Article 2.** The variable component of the levy calculated in accordance with Article 2 of Regulation (EEC) No 1052/68 applicable to 100 kg of processed products listed in Article 6 of that Regulation shall be reduced by an amount equal to the production refund granted on the date of importation for:
+
+- ((a)) 180 kg of maize for processing, in respect of maize groats and meal for the brewing industry;
+- ((b)) 161 kg of maize for starch processing, in respect of flours and meals of sago, manioc, arrowroot, salep and other roots and tubers falling within subheading 07.06 A of the Common Customs Tariff;
+- ((c)) 220 kg of common wheat for starch processing, in respect of wheat starch;
+- ((d)) 152 kg of broken rice for starch processing, in respect of rice starch;
+- ((e)) 161 kg of maize for starch processing, in respect of starches other than those of wheat or rice;
+- ((f)) 400 kg of common wheat for starch processing, in respect of wheat gluten;
+- ((g)) 200 kg of maize for starch processing, in respect of residues from the manufacture of starch from maize (excluding concentrated steeping liquors), of a protein content, calculated on the dry product, exceeding 40 % by weight;
+- ((h)) 210 kg of maize for starch processing, in respect of glucose with or without added flavouring or colouring matter in the form of white crystalline powder, whether or not agglomerated;
+- ((i)) 161 kg of maize for starch processing, in respect of any other glucose, and glucose syrup, with or without added flavouring or colouring.
+
+## TITLE III — Advance fixing of the levy
+
+**Article 3.** 1. In respect of imports of the products referred to in Article 1 (d) of Regulation No 120/67/EEC and in Article 1 (c) of Regulation No 359/67/EEC, the levy applicable on the day on which the licence is applied for shall, if the applicant so requests when applying for the licence, and provided he does so before 1300 hours, be applicable in respect of an importation to be effected at any time during the period of validity of the licence.
+
+In the case referred to in the preceding subparagraph, the levy shall be adjusted if necessary in relation to the threshold price in force during the month of importation for the basic products or products taken as a basis for the calculation of the variable component of the levy, without prejudice to the possible application of the second subparagraph of Article 15 (3) of Regulation No 120/67/EEC.
+
+This adjustment shall be made by increasing or reducing the levy by the difference between the threshold price in force in the month of the application for 100 kg of the basic product and that in force in the month of importation that difference being adjusted by the coefficient shown in column 4 of the Annex to Regulation (EEC) No 1052/68.
+
+2. With regard to products falling within tariff heading No 11.07 a premium shall be added to the levy fixed in advance. This premium shall, per 100 kg of processed products, be equal to the premium applicable under Article 15 of Regulation No 120/67/EEC and under Council Regulation No 140/67/EEC[^f00009] of 21 June 1967 on rules for the advance fixing of levies on cereals, as last amended by Regulation (EEC) No 2435/70[^f00010], and in accordance with the scale in force on the day on which the licence was applied for, to the quantity of the basic product taken as a basis for the calculation of the variable component of the levy.
+
+Without prejudice to the possible application of Article 9 (b) of Regulation No 140/67/EEC, the premium shall be determined in relation to the month of actual importation of the processed product, the premium applicable to an importation effected during the last month of validity of the import licence being equal to that applicable to an importation effected during the preceding month.
+
+**Article 4.** For each of the products covered by this Title, the period for which it is possible to obtain advance fixing of the levy may be reduced in accordance with the procedure laid down in Article 26 of Regulation No 120/67/EEC.
+
+## TITLE IV — General provisions
+
+**Article 5.** Member States shall communicate to the Commission on the fifteenth of each month in respect of the preceding month:
+
+- ((a)) the total quantities of processed products for which import licences have been issued;
+- ((b)) the quantities for which import licences have been issued with advance fixing of the levy.
+
+These particulars shall be broken down by specific rates of levy on the products.
+
+**Article 6.** Regulation (EEC) No 1080/68 is hereby repealed.
+
+This Regulation shall enter into force on the third day following its publication in the *Official Journal of the European Communities*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 24 June 1974.
+
+*For the Commission*
+
+*The President*
+
+François-Xavier Ortoli
+
+## Annotations
+
+[^f00001]: Footnote: [OJ No 117, 19. 6. 1967, p. 2269/67](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.P_.1967.117.01.2269.01.ENG).
+
+[^f00002]: Footnote: [OJ No L 128, 10. 5. 1974, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1974.128.01.0012.01.ENG).
+
+[^f00003]: Footnote: [OJ No 174, 31. 7. 1967, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.P_.1967.174.01.0001.01.ENG).
+
+[^f00004]: Footnote: [OJ No L 128, 10. 5. 1974, p. 20](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1974.128.01.0020.01.ENG).
+
+[^f00005]: Footnote: [OJ No L 179, 25. 5. 1968, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1968.179.01.0008.01.ENG).
+
+[^f00006]: Footnote: [OJ No L 86, 31. 3. 1973, p. 30](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1973.086.01.0030.01.ENG).
+
+[^f00007]: Footnote: [OJ No L 181, 27. 7. 1968, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1968.181.01.0006.01.ENG).
+
+[^f00008]: Footnote: [OJ No L 104, 19. 4. 1973, p. 30](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1973.104.01.0030.01.ENG).
+
+[^f00009]: Footnote: [OJ No 125, 26. 6. 1967, p. 2456](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.P_.1967.125.01.2456.01.ENG).
+
+[^f00010]: Footnote: [OJ No 262, 3. 12. 1970, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.X_.1970.262.01.0003.01.ENG).

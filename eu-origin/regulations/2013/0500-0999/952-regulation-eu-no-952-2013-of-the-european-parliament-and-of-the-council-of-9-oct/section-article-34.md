@@ -1,0 +1,73 @@
+---
+title: Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast), section Article 34
+act: Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)
+section: Article 34
+status: revised-with-pending-changes
+text_date: '2022-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2013/952/section/Article 34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast), section Article 34
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2022-07-01. See https://www.legislation.gov.uk/changes/affected/eur/2013/952
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 34. Management of decisions relating to binding information
+
+*Extent: E+W+S+N.I.*
+
+1. A BTI decision shall cease to be valid before the end of the period referred to in Article 33(3) where it no longer conforms to the law, as a result of either of the following:
+
+- (a) the adoption of an amendment to the nomenclatures referred to in points (a) and (b) of Article 56(2);
+- (b) the adoption of measures referred to in Article 57(4);
+
+with effect from the date of application of such amendment or measures.
+
+2. A BOI decision shall cease to be valid before the end of the period referred to in Article 33(3) in any of the following cases:
+
+- (a) where a regulation is adopted or an agreement is concluded by, and becomes applicable in, the Union, and the BOI decision no longer conforms to the law thereby laid down, with effect from the date of application of that regulation or agreement;
+- (b) where it is no longer compatible with the Agreement on Rules of Origin established in the World Trade Organisation (WTO) or with the explanatory notes or an origin opinion adopted for the interpretation of that Agreement, with effect from the date of their publication in the *Official Journal of the European Union*.
+
+3. BTI or BOI decisions shall not cease to be valid with retroactive effect.
+
+4. By way of derogation from Article 23(3) and Article 27, BTI and BOI decisions shall be annulled where they are based on inaccurate or incomplete information from the applicants.
+
+5. BTI and BOI decisions shall be revoked in accordance with Article 23(3) and Article 28. However, such decisions shall not be revoked upon application by the holder of the decision.
+
+6. BTI and BOI decisions may not be amended.
+
+7. The customs authorities shall revoke BTI decisions:
+
+- (a) where they are no longer compatible with the interpretation of any of the nomenclatures referred to in points (a) and (b) of Article 56(2) resulting from any of the following:
+  - ((i)) explanatory notes referred to in the second indent of point (a) of Article 9(1) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff[^f00013], with effect from the date of their publication in the *Official Journal of the European Union*;
+  - ((ii)) a judgment of the Court of Justice of the European Union, with effect from the date of publication of the operative part of the judgment in the *Official Journal of the European Union*;
+  - ((iii)) classification decisions, classification opinions or amendments of the explanatory notes to the Nomenclature of the Harmonized Commodity Description and Coding System, adopted by the Organization set-up by the Convention establishing a Customs Co-operation Council, done at Brussels on 15 December 1950, with effect from the date of publication of the Commission Communication in the 'C' series of the *Official Journal of the European Union*; or
+- (b) in other specific cases.
+
+8. BOI decisions shall be revoked:
+
+- (a) where they are no longer compatible with a judgment of the Court of Justice of the European Union, with effect from the date of publication of the operative part of the judgment in the *Official Journal of the European Union*; or
+- (b) in other specific cases.
+
+9.[^c000002] Where a BTI or BOI decision ceases to be valid in accordance with point (b) of paragraph 1 or with paragraph 2, or is revoked in accordance with paragraph 5, 7 or 8, the BTI or BOI decision may still be used in respect of binding contracts which were based upon that decision and were concluded before it ceased to be valid or was revoked. That extended use shall not apply where a BOI decision is taken for goods to be exported.
+
+The extended use referred to in the first subparagraph shall not exceed six months from the date on which the BTI or BOI decision ceases to be valid or is revoked. However, a measure referred to in Article 57(4) or in Article 67 may exclude that extended use or lay down a shorter period of time. In the case of products for which an import or export certificate is submitted when customs formalities are carried out, the period of six months shall be replaced by the period of validity of the certificate.
+
+In order to benefit from the extended use of a BTI or BOI decision, the holder of that decision shall lodge an application to the customs authority that took the decision within 30 days of the date on which it ceases to be valid or is revoked, indicating the quantities for which a period of extended use is requested and the Member State or Member States in which goods will be cleared under the period of extended use. That customs authority shall take a decision on the extended use and notify the holder, without delay, and at the latest within 30 days of the date on which it receives all the information required in order to enable it to take that decision.
+
+10. The Commission shall notify the customs authorities where:
+
+- (a) the taking of BTI and BOI decisions, for goods whose correct and uniform tariff classification or determination of origin is not ensured, is suspended; or
+- (b) the suspension referred to in point (a) is withdrawn.
+
+11. The Commission may adopt decisions requesting Member States to revoke BTI or BOI decisions, to ensure a correct and uniform tariff classification or determination of the origin of goods.
+
+## Annotations
+
+[^f00013]: Footnote: [OJ L 256, 7.9.1987, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.256.01.0001.01.ENG).
+
+[^c000002]: Textual amendment: Substituted by [Regulation (EU) 2019/474 of the European Parliament and of the Council of 19 March 2019 amending Regulation (EU) No 952/2013 laying down the Union Customs Code](https://www.legislation.gov.uk/eur/2019/474).

@@ -1,0 +1,240 @@
+---
+title: Commission Regulation (EC) No 1707/2005 of 18 October 2005 establishing unit values for the determination of the customs value of certain perishable goods
+id: eur/2005/1707
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2005-10-18'
+text_date: '2005-10-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2005/1707
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2005/1707/pdfs/eur_20051707_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2005/1707/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 1707/2005 of 18 October 2005 establishing unit values for the determination of the customs value of certain perishable goods
+
+> Text as at 2005-10-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 1707/2005
+
+of 18 October 2005
+
+establishing unit values for the determination of the customs value of certain perishable goods
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code[^f00001],
+
+Having regard to Commission Regulation (EEC) No 2454/93[^f00002] laying down provisions for the implementation of Regulation (EEC) No 2913/92, and in particular Article 173(1) thereof,
+
+Whereas:
+
+(1)
+
+Articles 173 to 177 of Regulation (EEC) No 2454/93 provide that the Commission shall periodically establish unit values for the products referred to in the classification in Annex 26 to that Regulation.
+
+(2)
+
+The result of applying the rules and criteria laid down in the abovementioned Articles to the elements communicated to the Commission in accordance with Article 173(2) of Regulation (EEC) No 2454/93 is that unit values set out in the Annex to this Regulation should be established in regard to the products in question,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** The unit values provided for in Article 173(1) of Regulation (EEC) No 2454/93 are hereby established as set out in the table in the Annex hereto.
+
+**Article 2.** This Regulation shall enter into force on 21 October 2005.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 18 October 2005.
+
+*For the Commission*
+
+Günter Verheugen
+
+*Vice-President*
+
+## ANNEX
+
+<table>
+<tbody>
+<tr><th rowspan="2">Code</th><th>Description</th><th colspan="6">Amount of unit values per 100 kg</th></tr>
+<tr><th>Species, varieties, CN code</th><th>EURLTLSEK</th><th>CYPLVLGBP</th><th>CZKMTL</th><th>DKKPLN</th><th>EEKSIT</th><th>HUFSKK</th></tr>
+<tr><td rowspan="3">1.10</td><td rowspan="3">New potatoes<br>0701 90 50</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>—</td><td>—</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.30</td><td rowspan="3">Onions (other than seed)<br>0703 10 19</td><td>27,09</td><td>15,53</td><td>803,98</td><td>202,2</td><td>423,92</td><td>6 867,71</td></tr>
+<tr><td>93,55</td><td>18,88</td><td>11,63</td><td>106,54</td><td>6 489,21</td><td>1 054,62</td></tr>
+<tr><td>255,68</td><td>18,57</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.40</td><td rowspan="3">Garlic<br>0703 20 00</td><td>143,44</td><td>82,21</td><td>4 256,55</td><td>1 070,53</td><td>2 244,4</td><td>36 360,08</td></tr>
+<tr><td>495,28</td><td>99,97</td><td>61,58</td><td>564,06</td><td>34 356,18</td><td>5 583,54</td></tr>
+<tr><td>1 353,66</td><td>98,32</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.50</td><td rowspan="3">Leeks<br>ex 0703 90 00</td><td>62,17</td><td>35,63</td><td>1 844,83</td><td>463,98</td><td>972,75</td><td>15 758,85</td></tr>
+<tr><td>214,66</td><td>43,33</td><td>26,69</td><td>244,47</td><td>14 890,34</td><td>2 419,97</td></tr>
+<tr><td>586,69</td><td>42,61</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.60</td><td>Cauliflowers<br>0704 10 00</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td rowspan="3">1.80</td><td rowspan="3">White cabbages and red cabbages<br>0704 90 10</td><td>47,92</td><td>27,46</td><td>1 421,98</td><td>357,63</td><td>749,79</td><td>12 146,76</td></tr>
+<tr><td>165,46</td><td>33,4</td><td>20,57</td><td>188,44</td><td>11 477,32</td><td>1 865,29</td></tr>
+<tr><td>452,22</td><td>32,84</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.90</td><td rowspan="3">Sprouting broccoli or calabrese (<em>Brassica oleracea L. convar. botrytis (L.) Alef var. italica Plenck</em>)<br>ex 0704 90 90</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>—</td><td>—</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.100</td><td rowspan="3">Chinese cabbage<br>ex 0704 90 90</td><td>104,01</td><td>59,61</td><td>3 086,39</td><td>776,24</td><td>1 627,4</td><td>26 364,45</td></tr>
+<tr><td>359,13</td><td>72,48</td><td>44,65</td><td>409,0</td><td>24 911,44</td><td>4 048,59</td></tr>
+<tr><td>981,53</td><td>71,29</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.110</td><td>Cabbage lettuce (head lettuce)<br>0705 11 00</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td rowspan="3">1.130</td><td rowspan="3">Carrots<br>ex 0706 10 00</td><td>30,3</td><td>17,36</td><td>899,12</td><td>226,13</td><td>474,09</td><td>7 680,44</td></tr>
+<tr><td>104,62</td><td>21,12</td><td>13,01</td><td>119,15</td><td>7 257,15</td><td>1 179,43</td></tr>
+<tr><td>285,94</td><td>20,77</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.140</td><td rowspan="3">Radishes<br>ex 0706 90 90</td><td>52,35</td><td>30,0</td><td>1 553,43</td><td>390,69</td><td>819,1</td><td>13 269,68</td></tr>
+<tr><td>180,75</td><td>36,48</td><td>22,47</td><td>205,86</td><td>12 538,35</td><td>2 037,72</td></tr>
+<tr><td>494,02</td><td>35,88</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.160</td><td rowspan="3">Peas (<em>Pisum sativum</em>)<br>0708 10 00</td><td>469,07</td><td>268,82</td><td>13 919,19</td><td>3 500,72</td><td>7 339,36</td><td>118 899,94</td></tr>
+<tr><td>1 619,61</td><td>326,9</td><td>201,37</td><td>1 844,53</td><td>112 347,03</td><td>18 258,56</td></tr>
+<tr><td>4 426,57</td><td>321,5</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.170</td><td>Beans:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.170.1</td><td rowspan="3">—<br>Beans (<em>Vigna</em> spp., <em>Phaseolus</em> spp.)<br>ex 0708 20 00</td><td>96,32</td><td>55,2</td><td>2 858,21</td><td>718,85</td><td>1 507,08</td><td>24 415,24</td></tr>
+<tr><td>332,57</td><td>67,13</td><td>41,35</td><td>378,76</td><td>23 069,65</td><td>3 749,26</td></tr>
+<tr><td>908,96</td><td>66,02</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.170.2</td><td rowspan="3">—<br>Beans (<em>Phaseolus</em> spp., <em>vulgaris</em> var. <em>Compressus Savi</em>)<br>ex 0708 20 00</td><td>151,09</td><td>86,59</td><td>4 483,44</td><td>1 127,6</td><td>2 364,04</td><td>38 298,29</td></tr>
+<tr><td>521,68</td><td>105,29</td><td>64,86</td><td>594,13</td><td>36 187,57</td><td>5 881,18</td></tr>
+<tr><td>1 425,82</td><td>103,56</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.180</td><td>Broad beans<br>ex 0708 90 00</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>1.190</td><td>Globe artichokes<br>0709 10 00</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>1.200</td><td>Asparagus:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.200.1</td><td rowspan="3">—<br>green<br>ex 0709 20 00</td><td>245,47</td><td>140,68</td><td>7 284,19</td><td>1 832,0</td><td>3 840,83</td><td>62 222,7</td></tr>
+<tr><td>847,57</td><td>171,07</td><td>105,38</td><td>965,28</td><td>58 793,43</td><td>9 555,07</td></tr>
+<tr><td>2 316,51</td><td>168,25</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.200.2</td><td rowspan="3">—<br>other<br>ex 0709 20 00</td><td>416,59</td><td>238,75</td><td>12 361,81</td><td>3 109,03</td><td>6 518,17</td><td>105 596,5</td></tr>
+<tr><td>1 438,39</td><td>290,32</td><td>178,84</td><td>1 638,15</td><td>99 776,78</td><td>16 215,65</td></tr>
+<tr><td>3 931,29</td><td>285,53</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.210</td><td rowspan="3">Aubergines (eggplants)<br>0709 30 00</td><td>95,74</td><td>54,87</td><td>2 840,98</td><td>714,51</td><td>1 498,0</td><td>24 268,07</td></tr>
+<tr><td>330,57</td><td>66,72</td><td>41,1</td><td>376,48</td><td>22 930,59</td><td>3 726,66</td></tr>
+<tr><td>903,49</td><td>65,62</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.220</td><td rowspan="3">Ribbed celery (<em>Apium graveolens L., var. dulce (Mill.) Pers.</em>)<br>ex 0709 40 00</td><td>138,52</td><td>79,39</td><td>4 110,44</td><td>1 033,79</td><td>2 167,37</td><td>35 112,05</td></tr>
+<tr><td>478,28</td><td>96,53</td><td>59,47</td><td>544,7</td><td>33 176,93</td><td>5 391,89</td></tr>
+<tr><td>1 307,2</td><td>94,94</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.230</td><td rowspan="3">Chantarelles<br>0709 59 10</td><td>334,34</td><td>191,61</td><td>9 921,21</td><td>2 495,21</td><td>5 231,28</td><td>84 748,5</td></tr>
+<tr><td>1 154,41</td><td>233,0</td><td>143,53</td><td>1 314,73</td><td>80 077,77</td><td>13 014,18</td></tr>
+<tr><td>3 155,13</td><td>229,16</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">1.240</td><td rowspan="3">Sweet peppers<br>0709 60 10</td><td>102,83</td><td>58,93</td><td>3 051,29</td><td>767,41</td><td>1 608,89</td><td>26 064,56</td></tr>
+<tr><td>355,04</td><td>71,66</td><td>44,14</td><td>404,35</td><td>24 628,07</td><td>4 002,54</td></tr>
+<tr><td>970,37</td><td>70,48</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1.250</td><td>Fennel<br>0709 90 50</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td rowspan="3">1.270</td><td rowspan="3">Sweet potatoes, whole, fresh (intended for human consumption)<br>0714 20 10</td><td>90,44</td><td>51,83</td><td>2 683,72</td><td>674,96</td><td>1 415,08</td><td>22 924,76</td></tr>
+<tr><td>312,27</td><td>63,03</td><td>38,83</td><td>355,64</td><td>21 661,31</td><td>3 520,38</td></tr>
+<tr><td>853,47</td><td>61,99</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2.10</td><td>Chestnuts (<em>Castanea</em> spp.) fresh<br>ex 0802 40 00</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td rowspan="3">2.30</td><td rowspan="3">Pineapples, fresh<br>ex 0804 30 00</td><td>56,15</td><td>32,18</td><td>1 666,16</td><td>419,04</td><td>878,54</td><td>14 232,62</td></tr>
+<tr><td>193,87</td><td>39,13</td><td>24,1</td><td>220,79</td><td>13 448,22</td><td>2 185,6</td></tr>
+<tr><td>529,87</td><td>38,48</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.40</td><td rowspan="3">Avocados, fresh<br>ex 0804 40 00</td><td>134,06</td><td>76,83</td><td>3 978,15</td><td>1 000,52</td><td>2 097,61</td><td>33 982,01</td></tr>
+<tr><td>462,89</td><td>93,43</td><td>57,55</td><td>527,17</td><td>32 109,17</td><td>5 218,36</td></tr>
+<tr><td>1 265,13</td><td>91,89</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2.50</td><td>Guavas and mangoes, fresh<br>ex 0804 50</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>2.60</td><td>Sweet oranges, fresh:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.60.1</td><td rowspan="3">—<br>Sanguines and semi-sanguines<br>ex 0805 10 20</td><td>44,39</td><td>25,44</td><td>1 317,23</td><td>331,29</td><td>694,55</td><td>11 251,98</td></tr>
+<tr><td>153,27</td><td>30,94</td><td>19,06</td><td>174,55</td><td>10 631,85</td><td>1 727,88</td></tr>
+<tr><td>418,9</td><td>30,42</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.60.2</td><td rowspan="3">—<br>Navels, navelines, navelates, salustianas, vernas, Valencia lates, Maltese, shamoutis, ovalis, trovita and hamlins<br>ex 0805 10 20</td><td>44,68</td><td>25,61</td><td>1 325,84</td><td>333,45</td><td>699,09</td><td>11 325,56</td></tr>
+<tr><td>154,27</td><td>31,14</td><td>19,18</td><td>175,7</td><td>10 701,38</td><td>1 739,18</td></tr>
+<tr><td>421,64</td><td>30,62</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.60.3</td><td rowspan="3">—<br>Others<br>ex 0805 10 20</td><td>46,11</td><td>26,43</td><td>1 368,27</td><td>344,12</td><td>721,46</td><td>11 687,96</td></tr>
+<tr><td>159,21</td><td>32,13</td><td>19,8</td><td>181,32</td><td>11 043,81</td><td>1 794,83</td></tr>
+<tr><td>435,14</td><td>31,6</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2.70</td><td>Mandarins (including tangerines and satsumas), fresh; clementines, wilkings and similar citrus hybrids, fresh:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.70.1</td><td rowspan="3">—<br>Clementines<br>ex 0805 20 10</td><td>46,01</td><td>26,37</td><td>1 365,3</td><td>343,38</td><td>719,9</td><td>11 662,61</td></tr>
+<tr><td>158,86</td><td>32,06</td><td>19,75</td><td>180,93</td><td>11 019,86</td><td>1 790,94</td></tr>
+<tr><td>434,19</td><td>31,54</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.70.2</td><td rowspan="3">—<br>Monreales and satsumas<br>ex 0805 20 30</td><td>94,45</td><td>54,13</td><td>2 802,71</td><td>704,89</td><td>1 477,82</td><td>23 941,19</td></tr>
+<tr><td>326,12</td><td>65,82</td><td>40,55</td><td>371,41</td><td>22 621,72</td><td>3 676,47</td></tr>
+<tr><td>891,32</td><td>64,74</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.70.3</td><td rowspan="3">—<br>Mandarines and wilkings<br>ex 0805 20 50</td><td>87,77</td><td>50,3</td><td>2 604,49</td><td>655,04</td><td>1 373,3</td><td>22 247,94</td></tr>
+<tr><td>303,05</td><td>61,17</td><td>37,68</td><td>345,14</td><td>21 021,79</td><td>3 416,45</td></tr>
+<tr><td>828,28</td><td>60,16</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.70.4</td><td rowspan="3">—<br>Tangerines and others<br>ex 0805 20 70<br>ex 0805 20 90</td><td>61,87</td><td>35,46</td><td>1 835,86</td><td>461,72</td><td>968,02</td><td>15 682,2</td></tr>
+<tr><td>213,62</td><td>43,12</td><td>26,56</td><td>243,28</td><td>14 817,91</td><td>2 408,2</td></tr>
+<tr><td>583,84</td><td>42,4</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.85</td><td rowspan="3">Limes (<em>Citrus aurantifolia, Citrus latifolia</em>), fresh<br>0805 50 90</td><td>73,1</td><td>41,89</td><td>2 169,11</td><td>545,54</td><td>1 143,73</td><td>18 528,86</td></tr>
+<tr><td>252,39</td><td>50,94</td><td>31,38</td><td>287,44</td><td>17 507,68</td><td>2 845,34</td></tr>
+<tr><td>689,82</td><td>50,1</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2.90</td><td>Grapefruit, fresh:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.90.1</td><td rowspan="3">—<br>white<br>ex 0805 40 00</td><td>72,17</td><td>41,36</td><td>2 141,63</td><td>538,63</td><td>1 129,24</td><td>18 294,11</td></tr>
+<tr><td>249,19</td><td>50,3</td><td>30,98</td><td>283,8</td><td>17 285,87</td><td>2 809,29</td></tr>
+<tr><td>681,08</td><td>49,47</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.90.2</td><td rowspan="3">—<br>pink<br>ex 0805 40 00</td><td>67,62</td><td>38,75</td><td>2 006,61</td><td>504,67</td><td>1 058,05</td><td>17 140,77</td></tr>
+<tr><td>233,48</td><td>47,13</td><td>29,03</td><td>265,91</td><td>16 196,1</td><td>2 632,18</td></tr>
+<tr><td>638,14</td><td>46,35</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.100</td><td rowspan="3">Table grapes<br>0806 10 10</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>—</td><td>—</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.110</td><td rowspan="3">Water melons<br>0807 11 00</td><td>55,77</td><td>31,96</td><td>1 654,92</td><td>416,22</td><td>872,61</td><td>14 136,58</td></tr>
+<tr><td>192,56</td><td>38,87</td><td>23,94</td><td>219,3</td><td>13 357,47</td><td>2 170,85</td></tr>
+<tr><td>526,3</td><td>38,22</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2.120</td><td>Melons (other than water melons):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.120.1</td><td rowspan="3">—<br>Amarillo, cuper, honey dew (including cantalene), onteniente, piel de sapo (including verde liso), rochet, tendral, futuro<br>ex 0807 19 00</td><td>56,94</td><td>32,63</td><td>1 689,57</td><td>424,93</td><td>890,88</td><td>14 432,57</td></tr>
+<tr><td>196,59</td><td>39,68</td><td>24,44</td><td>223,9</td><td>13 637,15</td><td>2 216,3</td></tr>
+<tr><td>537,32</td><td>39,03</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.120.2</td><td rowspan="3">—<br>Other<br>ex 0807 19 00</td><td>104,32</td><td>59,79</td><td>3 095,56</td><td>778,54</td><td>1 632,23</td><td>26 442,73</td></tr>
+<tr><td>360,19</td><td>72,7</td><td>44,78</td><td>410,21</td><td>24 985,4</td><td>4 060,61</td></tr>
+<tr><td>984,45</td><td>71,5</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2.140</td><td>Pears</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.140.1</td><td rowspan="3">—<br>Pears — nashi (<em>Pyrus pyrifolia</em>),<br>Pears — Ya (<em>Pyrus bretscheideri</em>)<br>ex 0808 20 50</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>—</td><td>—</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.140.2</td><td rowspan="3">—<br>Other<br>ex 0808 20 50</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>—</td><td>—</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.150</td><td rowspan="3">Apricots<br>0809 10 00</td><td>116,2</td><td>66,59</td><td>3 448,12</td><td>867,21</td><td>1 818,13</td><td>29 454,38</td></tr>
+<tr><td>401,22</td><td>80,98</td><td>49,88</td><td>456,93</td><td>27 831,06</td><td>4 523,09</td></tr>
+<tr><td>1 096,57</td><td>79,64</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.160</td><td rowspan="3">Cherries<br>0809 20 95<br>0809 20 05</td><td>473,31</td><td>271,25</td><td>14 045,0</td><td>3 532,36</td><td>7 405,69</td><td>119 974,62</td></tr>
+<tr><td>1 634,24</td><td>329,85</td><td>203,19</td><td>1 861,2</td><td>113 362,48</td><td>18 423,59</td></tr>
+<tr><td>4 466,58</td><td>324,41</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.170</td><td rowspan="3">Peaches<br>0809 30 90</td><td>89,29</td><td>51,17</td><td>2 649,62</td><td>666,39</td><td>1 397,1</td><td>22 633,46</td></tr>
+<tr><td>308,3</td><td>62,23</td><td>38,33</td><td>351,12</td><td>21 386,06</td><td>3 475,65</td></tr>
+<tr><td>842,63</td><td>61,2</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.180</td><td rowspan="3">Nectarines<br>ex 0809 30 10</td><td>143,55</td><td>82,27</td><td>4 259,7</td><td>1 071,33</td><td>2 246,07</td><td>36 387,05</td></tr>
+<tr><td>495,65</td><td>100,04</td><td>61,63</td><td>564,48</td><td>34 381,66</td><td>5 587,68</td></tr>
+<tr><td>1 354,67</td><td>98,39</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.190</td><td rowspan="3">Plums<br>0809 40 05</td><td>81,11</td><td>46,48</td><td>2 406,78</td><td>605,31</td><td>1 269,06</td><td>20 559,1</td></tr>
+<tr><td>280,05</td><td>56,52</td><td>34,82</td><td>318,94</td><td>19 426,03</td><td>3 157,11</td></tr>
+<tr><td>765,4</td><td>55,59</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.200</td><td rowspan="3">Strawberries<br>0810 10 00</td><td>281,43</td><td>161,29</td><td>8 351,15</td><td>2 100,34</td><td>4 403,42</td><td>71 336,88</td></tr>
+<tr><td>971,72</td><td>196,13</td><td>120,82</td><td>1 106,67</td><td>67 405,3</td><td>10 954,66</td></tr>
+<tr><td>2 655,83</td><td>192,89</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.205</td><td rowspan="3">Raspberries<br>0810 20 10</td><td>304,95</td><td>174,77</td><td>9 049,09</td><td>2 275,87</td><td>4 771,43</td><td>77 298,73</td></tr>
+<tr><td>1 052,93</td><td>212,52</td><td>130,92</td><td>1 199,15</td><td>73 038,57</td><td>11 870,18</td></tr>
+<tr><td>2 877,78</td><td>209,01</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.210</td><td rowspan="3">Fruit of the species <em>Vaccinium myrtillus</em><br>0810 40 30</td><td>1 455,44</td><td>834,11</td><td>43 188,73</td><td>10 862,09</td><td>22 772,69</td><td>368 924,93</td></tr>
+<tr><td>5 025,34</td><td>1 014,3</td><td>624,82</td><td>5 723,23</td><td>348 592,43</td><td>56 653,0</td></tr>
+<tr><td>13 734,84</td><td>997,56</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.220</td><td rowspan="3">Kiwi fruit (<em>Actinidia chinensis Planch.</em>)<br>0810 50 00</td><td>148,22</td><td>84,94</td><td>4 398,17</td><td>1 106,15</td><td>2 319,08</td><td>37 569,87</td></tr>
+<tr><td>511,76</td><td>103,29</td><td>63,63</td><td>582,83</td><td>35 499,29</td><td>5 769,32</td></tr>
+<tr><td>1 398,7</td><td>101,59</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.230</td><td rowspan="3">Pomegranates<br>ex 0810 90 95</td><td>108,39</td><td>62,12</td><td>3 216,36</td><td>808,93</td><td>1 695,93</td><td>27 474,7</td></tr>
+<tr><td>374,25</td><td>75,54</td><td>46,53</td><td>426,22</td><td>25 960,49</td><td>4 219,08</td></tr>
+<tr><td>1 022,87</td><td>74,29</td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3">2.240</td><td rowspan="3">Khakis (including sharon fruit)<br>ex 0810 90 95</td><td>257,38</td><td>147,5</td><td>7 637,36</td><td>1 920,82</td><td>4 027,05</td><td>65 239,57</td></tr>
+<tr><td>888,67</td><td>179,37</td><td>110,49</td><td>1 012,08</td><td>61 644,03</td><td>10 018,35</td></tr>
+<tr><td>2 428,83</td><td>176,41</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2.250</td><td>Lychees<br>ex 0810 90</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+</tbody>
+</table>
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 302, 19.10.1992, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1992.302.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 648/2005 ([OJ L 117, 4.5.2005, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.117.01.0013.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 253, 11.10.1993, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.253.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 883/2005 ([OJ L 148, 11.6.2005, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.148.01.0005.01.ENG)).

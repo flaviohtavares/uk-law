@@ -1,0 +1,35 @@
+---
+title: Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (Text with EEA relevance), section Article 186
+act: Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (Text with EEA relevance)
+section: Article 186
+status: revised-with-pending-changes
+text_date: '2026-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2013/575/section/Article 186
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (Text with EEA relevance), section Article 186
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-01-01. See https://www.legislation.gov.uk/changes/affected/eur/2013/575
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 186. Own funds requirement and risk quantification[^c000001]
+
+*Extent: E+W+S+N.I.*
+
+For the purpose of calculating own funds requirements institutions shall meet the following standards:
+
+- ((a)) the estimate of potential loss shall be robust to adverse market movements relevant to the long-term risk profile of the institution's specific holdings. The data used to represent return distributions shall reflect the longest sample period for which data is available and meaningful in representing the risk profile of the institution's specific equity exposures. The data used shall be sufficient to provide conservative, statistically reliable and robust loss estimates that are not based purely on subjective or judgmental considerations. The shock employed shall provide a conservative estimate of potential losses over a relevant long-term market or business cycle. The institution shall combine empirical analysis of available data with adjustments based on a variety of factors in order to attain model outputs that achieve appropriate realism and conservatism. In constructing value at risk (VaR) models estimating potential quarterly losses, institutions may use quarterly data or convert shorter horizon period data to a quarterly equivalent using an analytically appropriate method supported by empirical evidence and through a well-developed and documented thought process and analysis. Such an approach shall be applied conservatively and consistently over time. Where only limited relevant data is available the institution shall add appropriate margins of conservatism;
+- ((b)) the models used shall capture adequately all of the material risks embodied in equity returns including both the general market risk and specific risk exposure of the institution's equity portfolio. The internal models shall adequately explain historical price variation, capture both the magnitude and changes in the composition of potential concentrations, and be robust to adverse market environments. The population of risk exposures represented in the data used for estimation shall be closely matched to or at least comparable with those of the institution's equity exposures;
+- ((c)) the internal model shall be appropriate for the risk profile and complexity of an institution's equity portfolio. Where an institution has material holdings with values that are highly non-linear in nature the internal models shall be designed to capture appropriately the risks associated with such instruments;
+- ((d)) mapping of individual positions to proxies, market indices, and risk factors shall be plausible, intuitive, and conceptually sound;
+- ((e)) institutions shall demonstrate through empirical analyses the appropriateness of risk factors, including their ability to cover both general and specific risk;
+- ((f)) the estimates of the return volatility of equity exposures shall incorporate relevant and available data, information, and methods. Independently reviewed internal data or data from external sources including pooled data shall be used;
+- ((g)) a rigorous and comprehensive stress-testing programme shall be in place.
+
+## Annotations
+
+[^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).

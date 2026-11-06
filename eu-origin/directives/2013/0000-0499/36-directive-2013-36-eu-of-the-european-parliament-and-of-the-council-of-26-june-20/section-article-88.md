@@ -1,0 +1,61 @@
+---
+title: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 88
+act: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance)
+section: Article 88
+status: revised
+text_date: '2020-12-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2013/36/section/Article 88
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 88
+
+> Text as at 2020-12-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 88. Governance arrangements
+
+*Extent: E+W+S+N.I.*
+
+1. Member States shall ensure that the management body defines, oversees and is accountable for the implementation of the governance arrangements that ensure effective and prudent management of an institution, including the segregation of duties in the organisation and the prevention of conflicts of interest.
+
+Those arrangements shall comply with the following principles:
+
+- (a) the management body must have the overall responsibility for the institution and approve and oversee the implementation of the institution's strategic objectives, risk strategy and internal governance;
+- (b) the management body must ensure the integrity of the accounting and financial reporting systems, including financial and operational controls and compliance with the law and relevant standards;
+- (c) the management body must oversee the process of disclosure and communications;
+- (d) the management body must be responsible for providing effective oversight of senior management;
+- (e) the chairman of the management body in its supervisory function of an institution must not exercise simultaneously the functions of a chief executive officer within the same institution, unless justified by the institution and authorised by competent authorities.
+
+Member States shall ensure that the management body monitors and periodically assesses the effectiveness of the institution's governance arrangements and takes appropriate steps to address any deficiencies.
+
+Member States shall ensure that data on loans to members of the management body and their related parties are properly documented and made available to competent authorities upon request.[^c000002]
+
+For the purposes of this Article, the term ‘ related party ’ means:
+
+- (a) a spouse, registered partner in accordance with national law, child or parent of a member of the management body;
+- (b) a commercial entity, in which a member of the management body or his or her close family member as referred to in point (a) has a qualifying holding of 10 % or more of capital or of voting rights in that entity, or in which those persons can exercise significant influence, or in which those persons hold senior management positions or are members of the management body.
+
+2. Member States shall ensure that institutions which are significant in terms of their size, internal organisation and the nature, scope and complexity of their activities establish a nomination committee composed of members of the management body who do not perform any executive function in the institution concerned.
+
+The nomination committee shall:
+
+- (a) identify and recommend, for the approval of the management body or for approval of the general meeting, candidates to fill management body vacancies, evaluate the balance of knowledge, skills, diversity and experience of the management body and prepare a description of the roles and capabilities for a particular appointment, and assess the time commitment expected.
+
+  Furthermore, the nomination committee shall decide on a target for the representation of the underrepresented gender in the management body and prepare a policy on how to increase the number of the underrepresented gender in the management body in order to meet that target. The target, policy and its implementation shall be made public in accordance with Article 435(2)(c) of Regulation (EU) No 575/2013;
+- (b) periodically, and at least annually, assess the structure, size, composition and performance of the management body and make recommendations to the management body with regard to any changes;
+- (c) periodically, and at least annually, assess the knowledge, skills and experience of individual members of the management body and of the management body collectively, and report to the management body accordingly;
+- (d) periodically review the policy of the management body for selection and appointment of senior management and make recommendations to the management body.
+
+In performing its duties, the nomination committee shall, to the extent possible and on an ongoing basis, take account of the need to ensure that the management body's decision making is not dominated by any one individual or small group of individuals in a manner that is detrimental to the interests of the institution as a whole.
+
+The nomination committee shall be able to use any forms of resources that it considers to be appropriate, including external advice, and shall receive appropriate funding to that effect.
+
+Where, under national law, the management body does not have any competence in the process of selection and appointment of any of its members, this paragraph shall not apply.
+
+## Annotations
+
+[^c000002]: Textual amendment: Inserted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).

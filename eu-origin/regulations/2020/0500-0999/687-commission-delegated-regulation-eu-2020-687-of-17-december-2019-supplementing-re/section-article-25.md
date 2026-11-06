@@ -1,0 +1,33 @@
+---
+title: Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance), section Article 25
+act: Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance)
+section: Article 25
+status: revised
+text_date: '2019-12-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/687/section/Article 25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance), section Article 25
+
+> Text as at 2019-12-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 25. Measures to be applied in establishments keeping animals of listed species in the protection zone
+
+*Extent: E+W+S+N.I.*
+
+1. The competent authority shall order without delay the application of the following measures in establishments in the protection zone keeping animals of listed species, other than the establishment in which the category A disease has been confirmed:
+
+- (a) to keep animals of listed species separate from wild animals and animals of non-listed species;
+- (b) to implement additional surveillance in order to identify any further spread of the category A disease to the establishments, including any increased morbidity or mortality or significant drop in production data; any such increase or drop shall be immediately notified to the competent authority;
+- (c) when appropriate, to implement adequate means of controlling insects and rodents and other disease vectors in and around the establishment;
+- (d) to use appropriate means of disinfection at the entrances and exits of the establishment;
+- (e) to apply appropriate biosecurity measures to all persons in contact with kept animals of listed species or entering or leaving the establishment as well as to means of transport in order to avoid any risk of spread of the relevant category A disease;
+- (f) to keep records of all persons visiting the establishment, maintain them up to date in order to facilitate disease surveillance and control and made them available to the competent authority upon request;
+- (g) to dispose entire bodies or parts of dead or killed kept animals of listed species according to Article 22(3).
+
+2. By way of derogation of point (f) of paragraph 1 the records on visitors are not required in establishments where animals referred to in Article 13(2) are kept, if visitors have no access to the areas where the animals are kept.

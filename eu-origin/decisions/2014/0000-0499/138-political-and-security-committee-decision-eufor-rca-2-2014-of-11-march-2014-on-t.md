@@ -1,0 +1,111 @@
+---
+title: Political and Security Committee Decision EUFOR RCA/2/2014 of 11 March 2014 on the establishment of the Committee of Contributors for the European Union military operation in the Central African Republic (EUFOR RCA) (2014/138/CFSP)
+id: eudn/2014/138
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2014-03-11'
+text_date: '2014-03-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2014/138
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2014/138/pdfs/eudn_20140138_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2014/138/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Political and Security Committee Decision EUFOR RCA/2/2014 of 11 March 2014 on the establishment of the Committee of Contributors for the European Union military operation in the Central African Republic (EUFOR RCA) (2014/138/CFSP)
+
+> Text as at 2014-03-11.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Political and Security Committee Decision EUFOR RCA/2/2014
+
+of 11 March 2014
+
+on the establishment of the Committee of Contributors for the European Union military operation in the Central African Republic (EUFOR RCA)
+
+(2014/138/CFSP)
+
+THE POLITICAL AND SECURITY COMMITTEE,
+
+Having regard to the Treaty on European Union, and in particular the third paragraph of Article 38 thereof,
+
+Having regard to Council Decision 2014/73/CFSP of 10 February 2014 on a European Union military operation in the Central African Republic (EUFOR RCA)[^f00001], and in particular Article 8(5) thereof,
+
+Whereas:
+
+(1)
+
+Pursuant to Article 8(5) of Decision 2014/73/CFSP, the Council authorised the Political and Security Committee (PSC) to take relevant decisions on the setting-up of a Committee of Contributors (CoC) for the European Union military operation in the Central African Republic (EUFOR RCA).
+
+(2)
+
+The European Council Conclusions of Nice of 7, 8 and 9 December 2000 and those of Brussels of 24 and 25 October 2002 laid down the arrangements for the participation of third States in crisis management operations and the setting up of a CoC.
+
+(3)
+
+The CoC should be a forum for discussing all the problems, in relation to the management of EUFOR RCA, with the contributing third States. The PSC, which exercises the political control and strategic direction of EUFOR RCA, should take account of the views expressed by the CoC.
+
+(4)
+
+In accordance with Article 5 of Protocol No 22 on the position of Denmark, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, Denmark does not participate in the elaboration and the implementation of decisions and actions of the Union which have defence implications. Consequently, Denmark is not participating in the adoption of this Decision and is neither bound by it nor subject to its application,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1. Establishment and terms of reference
+
+A Committee of Contributors (CoC) for the European Union military operation in the Central African Republic (EUFOR RCA) is hereby established. Its terms of reference are laid down in the European Council Conclusions of Nice of 7, 8 and 9 December 2000 and those of Brussels of 24 and 25 October 2002.
+
+## Article 2. Composition
+
+1. The CoC members shall be the following:
+
+- representatives of all Member States,
+- representatives of third States participating in EUFOR RCA and providing significant contributions.
+
+2. A representative of the Commission may also attend the CoC meetings.
+
+## Article 3. Information from the EU Operation Commander
+
+The CoC shall receive information from the EU Operation Commander.
+
+## Article 4. Chair
+
+The CoC shall be chaired by the High Representative of the Union for Foreign Affairs and Security Policy, or by his or her representative, in close consultation with the Chairman of the European Union Military Committee, or with his or her representative.
+
+## Article 5. Meetings
+
+1. The CoC shall be convened by the Chair on a regular basis. Where circumstances require, emergency meetings may be convened on the Chair’s initiative, or at the request of a member.
+
+2. The Chair shall circulate in advance a provisional agenda and documents relating to the meeting. The Chair shall be responsible for conveying the outcome of the CoC’s discussions to the PSC.
+
+## Article 6. Confidentiality
+
+1. In accordance with Council Decision 2013/488/EU[^f00002], the Council’s security rules shall apply to the meetings and proceedings of the CoC. In particular, representatives in the CoC shall possess adequate security clearance.
+
+2. The deliberations of the CoC shall be covered by the obligation of professional secrecy, except insofar as the CoC unanimously decides otherwise.
+
+## Article 7. Entry into force
+
+This Decision shall enter into force on the date of its adoption.
+
+Done at Brussels, 11 March 2014.
+
+*For the Political and Security Committee*
+
+*The Chairperson*
+
+W. Stevens
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 40, 11.2.2014, p. 59](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.040.01.0059.01.ENG).
+
+[^f00002]: Footnote: Council Decision 2013/488/EU of 23 September 2013 on the security rules for protecting EU classified information ([OJ L 274, 15.10.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.274.01.0001.01.ENG)).

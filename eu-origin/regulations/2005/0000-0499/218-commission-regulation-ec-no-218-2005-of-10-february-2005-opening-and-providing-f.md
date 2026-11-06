@@ -1,0 +1,273 @@
+---
+title: Commission Regulation (EC) No 218/2005 of 10 February 2005 opening and providing for the administration of an autonomous tariff quota for garlic from 1 January 2005
+id: eur/2005/218
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2005-02-10'
+text_date: '2005-02-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2005/218
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2005/218/pdfs/eur_20050218_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2005/218/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 218/2005 of 10 February 2005 opening and providing for the administration of an autonomous tariff quota for garlic from 1 January 2005
+
+> Text as at 2005-02-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 218/2005
+
+of 10 February 2005
+
+opening and providing for the administration of an autonomous tariff quota for garlic from 1 January 2005
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia,
+
+Having regard to the Act of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular the first paragraph of Article 41 thereof,
+
+Whereas:
+
+(1)
+
+Commission Regulation (EC) No 565/2002[^f00001] establishes the method for managing tariff quotas and introduces a system of certificates of origin for garlic imported from third countries.
+
+(2)
+
+Commission Regulation (EC) No 228/2004 of 3 February 2004 laying down transitional measures applicable to Regulation (EC) No 565/2002 by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia[^f00002] adopts measures allowing importers from these countries to benefit from Regulation (EC) No 565/2002. The aim of the measures is to make a distinction between traditional importers and new importers in the new Member States, and to adapt the definition of the reference quantity so that these importers may benefit from the system.
+
+(3)
+
+To ensure uninterrupted supplies to the enlarged Community market while taking account of the economic supply conditions in the new Member States prior to accession, a new autonomous and temporary import tariff quota should be opened for fresh or chilled garlic falling within CN code 0703 20 00. This new tariff quota is in addition to those opened by Commission Regulations (EC) No 1077/2004[^f00003] and (EC) No 1743/2004[^f00004].
+
+(4)
+
+This new quota must be transitional and must not prejudge the outcome of the negotiations under way in the context of the World Trade Organisation (WTO) as a result of the accession of new members.
+
+(5)
+
+The Management Committee for fresh Fruit and Vegetables has not delivered an opinion within the time limit set by its chairman,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** 1. An autonomous tariff quota of 4 400 tonnes, (bearing the serial number 09.4115), hereinafter the ‘autonomous quota’, shall be opened from 1 January 2005 for Community imports of fresh or chilled garlic falling within CN code 0703 20 00.
+
+2. The *ad valorem* duty applicable to products imported under the autonomous quota shall be 9,6 %.
+
+**Article 2.** Regulations (EC) No 565/2002 and (EC) No 228/2004 shall apply to the management of the autonomous quota, subject to the provisions of this Regulation.
+
+However, Articles 1, 5(5) and 6(1) of Regulation (EC) No 565/2002 shall not apply to the management of the autonomous quota.
+
+**Article 3.** Import licences issued under the autonomous quota, hereinafter ‘licences’, shall be valid until 30 June 2005.
+
+Box 24 of licences shall show one of the entries listed in Annex I.
+
+**Article 4.** 1. Importers may submit licence applications to the competent authorities of the Member States in the five working days following the date of entry into force of this Regulation.
+
+Box 20 of licence applications shall show one of the entries listed in Annex II.
+
+2. Licence applications submitted by a single importer may not relate to a quantity exceeding 10 % of the autonomous quota.
+
+**Article 5.** The autonomous quota shall be allocated as follows:
+
+- 70 % to traditional importers,
+- 30 % to new importers.
+
+If the quantity allocated to one of the categories of importers is not used in full, the balance may be allocated to the other category.
+
+**Article 6.** 1. Member States shall notify the Commission, on the seventh working day following the entry into force of this Regulation, of the quantities for which licence applications have been made.
+
+2. Licences shall be issued on the twelfth working day following the entry into force of this Regulation, unless the Commission has taken special measures under paragraph 3.
+
+3. If the Commission finds, on the basis of the information notified under paragraph 1, that licence applications exceed the quantities available for a category of importers under Article 5, it shall adopt, by means of a regulation, a single reduction percentage for the applications in question.
+
+**Article 7.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 10 February 2005.
+
+*For the Commission*
+
+Mariann Fischer Boel
+
+*Member of the Commission*
+
+## ANNEX I — Entries referred to in Article 3
+
+— in Spanish
+
+Certificado expedido en virtud del Reglamento (CE) n<sup>o</sup> 218/2005 y válido únicamente hasta el 30 de junio de 2005
+
+— in Czech
+
+licence vydaná na základě nařízení (ES) č. 218/2005 a platná pouze do 30. června 2005
+
+— in Danish
+
+licens udstedt i henhold til forordning (EF) nr. 218/2005 og kun gyldig til den 30. juni 2005
+
+— in German
+
+Lizenz gemäß der Verordnung (EG) Nr. 218/2005 erteilt und nur bis zum 30. Juni 2005 gültig
+
+— in Estonian
+
+määruse (EÜ) nr 218/2005 kohaselt esitatud litsentsitaotlus kehtib ainult kuni 30. juunini 2005
+
+— in Greek
+
+πιστοποιητικά που εκδίδονται κατ’ εφαρμογήν του κανονισμού (ΕΚ) αριθ. 218/2005 και ισχύουν έως τις 30 Ιουνίου 2005.
+
+— in English
+
+licence issued under Regulation (EC) No 218/2005 and valid only until 30 June 2005
+
+— in French
+
+certificat émis au titre du règlement (CE) n<sup>o</sup> 218/2005 et valable seulement jusqu'au 30 juin 2005
+
+— in Italian
+
+Domanda di titolo presentata ai sensi del regolamento (CE) n. 218/2005 e valida soltanto fino al 30 giugno 2005
+
+— in Latvian
+
+licence ir izsniegta saskaņā ar Regulu (EK) Nr. 218/2005 un ir derīga tikai līdz 2005. gada 30. jūnijam
+
+— in Lithuanian
+
+licencija, išduota pagal Reglamento (EB) Nr. 218/2005 nuostatas, galiojanti tik iki 2005 m. birželio 30 d.
+
+— in Hungarian
+
+a 218/2005/EK rendelet szerinti engedélykérelem, 2005. június 30-ig érvényes
+
+— in Dutch
+
+overeenkomstig Verordening (EG) nr. 218/2005 afgegeven certificaat dat slechts geldig is tot en met 30 juni 2005
+
+— in Polish
+
+pozwolenie wydane zgodnie z rozporządzeniem (WE) nr 218/2005 i ważne wyłącznie do dnia 30 czerwca 2005 r.
+
+— in Portuguese
+
+certificado emitido a título do Regulamento (CE) n.<sup>o</sup> 218/2005 e eficaz somente até 30 de Junho de 2005
+
+— in Slovak
+
+licencia vydaná na základe nariadenia (ES) č. 218/2005 a platná len do 30. júna 2005
+
+— in Slovene
+
+dovoljenje, izdano v skladu z Uredbo (ES) št. 218/2005 in veljavno samo do 30. junija 2005
+
+— in Finnish
+
+asetuksen (EY) N:o 218/2005 mukainen todistus, joka on voimassa ainoastaan 30 päivään kesäkuuta 2005
+
+— in Swedish
+
+Licens utfärdad enligt förordning (EG) nr 218/2005, giltig endast till och med den 30 juni 2005.
+
+## ANNEX II — Entries referred to in Article 4(1)
+
+— in Spanish
+
+Solicitud de certificado presentada al amparo del Reglamento (CE) n<sup>o</sup> 218/2005
+
+— in Czech
+
+žádost o licenci podaná na základě nařízení (ES) č. 218/2005
+
+— in Danish
+
+licensansøgning i henhold til forordning (EF) nr. 218/2005
+
+— in German
+
+Lizenzantrag gemäß der Verordnung (EG) Nr. 218/2005
+
+— in Estonian
+
+määruse (EÜ) nr 218/2005 kohaselt esitatud litsentsitaotlus
+
+— in Greek
+
+αίτηση χορήγησης πιστοποιητικού κατ’ εφαρμογήν του κανονισμού (ΕΚ) αριθ. 218/2005
+
+— in English
+
+licence application under Regulation (EC) No 218/2005
+
+— en français
+
+demande de certificat faite au titre du règlement (CE) n<sup>o</sup> 218/2005
+
+— in Italian
+
+domanda di titolo presentata ai sensi del regolamento (CE) n. 218/2005
+
+— in Latvian
+
+licence pieprasīta saskaņā ar Regulu (EK) Nr. 218/2005
+
+— in Lithuanian
+
+prašymas išduoti licenciją pagal Reglamentą (EB) Nr. 218/2005
+
+— in Hungarian
+
+a 218/2005/EK rendelet szerinti engedélykérelem
+
+— in Dutch
+
+overeenkomstig Verordening (EG) nr. 218/2005 ingediende certificaataanvraag
+
+— in Polish
+
+wniosek o pozwolenie przedłożony zgodnie z rozporządzeniem (WE) nr 218/2005
+
+— in Portuguese
+
+pedido de certificado apresentado a título do Regulamento (CE) n.<sup>o</sup> 218/2005
+
+— in Slovak
+
+žiadosť o licenciu na základe nariadenia (ES) č. 218/2005
+
+— in Slovene
+
+dovoljenje, izdano v skladu z Uredbo (ES) št. 218/2005
+
+— in Finnish
+
+asetuksen (EY) N:o 218/2005 mukainen todistushakemus
+
+— in Swedish
+
+Licensansökan enligt förordning (EG) nr 218/2005
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 86, 3.4.2002, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.086.01.0011.01.ENG). Regulation as last amended by Regulation (EC) No 537/2004 ([OJ L 86, 24.3.2004, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.086.01.0009.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 39, 11.2.2004, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.039.01.0010.01.ENG).
+
+[^f00003]: Footnote: [OJ L 203, 8.6.2004, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.203.01.0007.01.ENG).
+
+[^f00004]: Footnote: [OJ L 311, 8.10.2004, p. 19](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.311.01.0019.01.ENG).

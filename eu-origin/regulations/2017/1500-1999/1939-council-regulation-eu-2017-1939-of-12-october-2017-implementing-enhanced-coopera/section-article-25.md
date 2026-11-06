@@ -1,0 +1,43 @@
+---
+title: Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’), section Article 25
+act: Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’)
+section: Article 25
+status: revised
+text_date: '2017-10-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2017/1939/section/Article 25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’), section Article 25
+
+> Text as at 2017-10-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 25. Exercise of the competence of the EPPO
+
+*Extent: E+W+S+N.I.*
+
+1. The EPPO shall exercise its competence either by initiating an investigation under Article 26 or by deciding to use its right of evocation under Article 27. If the EPPO decides to exercise its competence, the competent national authorities shall not exercise their own competence in respect of the same criminal conduct.
+
+2. Where a criminal offence that falls within the scope of Article 22 caused or is likely to cause damage to the Union’s financial interests of less than EUR 10 000, the EPPO may only exercise its competence if:
+
+- (a) the case has repercussions at Union level which require an investigation to be conducted by the EPPO; or
+- (b) officials or other servants of the Union, or members of the institutions of the Union could be suspected of having committed the offence.
+
+The EPPO shall, where appropriate, consult the competent national authorities or bodies of the Union to establish whether the criteria set out in points (a) and (b) of the first subparagraph are met.
+
+3. The EPPO shall refrain from exercising its competence in respect of any offence falling within the scope of Article 22 and shall, upon consultation with the competent national authorities, refer the case without undue delay to the latter in accordance with Article 34 if:
+
+- (a) the maximum sanction provided for by national law for an offence falling within the scope of Article 22(1) is equal to or less severe than the maximum sanction for an inextricably linked offence as referred to in Article 22(3) unless the latter offence has been instrumental to commit the offence falling within the scope of Article 22(1); or
+- (b) there is a reason to assume that the damage caused or likely to be caused, to the Union’s financial interests by an offence as referred to in Article 22 does not exceed the damage caused, or likely to be caused to another victim.
+
+Point (b) of the first subparagraph of this paragraph shall not apply to offences referred to in Article 3(2)(a), (b) and (d) of Directive (EU) 2017/1371 as implemented by national law.
+
+4. The EPPO may, with the consent of the competent national authorities, exercise its competence for offences referred to in Article 22 in cases which would otherwise be excluded due to application of paragraph 3(b) of this Article if it appears that the EPPO is better placed to investigate or prosecute.
+
+5. The EPPO shall inform the competent national authorities without undue delay of any decision to exercise or to refrain from exercising its competence.
+
+6. In the case of disagreement between the EPPO and the national prosecution authorities over the question of whether the criminal conduct falls within the scope of Article 22(2), or (3) or Article 25(2) or (3), the national authorities competent to decide on the attribution of competences concerning prosecution at national level shall decide who is to be competent for the investigation of the case. Member States shall specify the national authority which will decide on the attribution of competence.

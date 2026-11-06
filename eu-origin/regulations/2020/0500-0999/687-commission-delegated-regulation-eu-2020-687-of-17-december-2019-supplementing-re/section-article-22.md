@@ -1,0 +1,42 @@
+---
+title: Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance), section Article 22
+act: Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance)
+section: Article 22
+status: revised
+text_date: '2019-12-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/687/section/Article 22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance), section Article 22
+
+> Text as at 2019-12-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 22. Measures to be applied in the restricted zone
+
+*Extent: E+W+S+N.I.*
+
+1. The competent authority shall without delay compile and keep up to date an inventory of all establishments keeping animals of listed species located in the restricted zone including the species, categories and number of animals in each establishment; for poultry, the number of animals may be estimated.
+
+2. The competent authority may, in order to prevent the spreading of the disease and based on epidemiological information or other evidence, implement preventive killing, in accordance with Article 12(1) and (2), or slaughtering of kept animals of listed species in the establishments located in the restricted zone.
+
+3. The competent authority shall order and supervise that all movements of entire bodies or parts of dead wild and kept animals of listed species from the restricted zone are destined for processing or disposal in accordance with Regulation (EC) No 1069/2009 in a plant approved for those purposes:
+
+- (a) within the territory of the Member State; or
+- (b) in another Member State in accordance with Article 48(1) and (3) of Regulation (EC) No 1069/2009, where it is not feasible to process or dispose the entire bodies or parts of dead animals in an approved plant in the territory of the Member State where the outbreak occurred.
+
+4. The competent authority shall impose specific conditions for the transport of animals and products through the restricted zone in order to ensure that they are performed:
+
+- (a) without stopping or unloading in the restricted zone;
+- (b) prioritising major highways or mainline railways; and
+- (c) avoiding the vicinity of establishments keeping animals of listed species.
+
+5. Animal by-products originating from and moved outside the restricted zone shall be accompanied by an animal health certificate issued by an official veterinarian stating that they are allowed to be moved from the restricted zone under the conditions established by the competent authority in accordance with this Chapter.
+
+6. The competent authority may decide that the certificate referred to in paragraph 5 shall not be issued for movements of animal by-products within the Member State concerned when that authority considers that an alternative system is in place ensuring that consignments of such products are traceable and that products fulfil the animal health requirements for such movements.
+
+7. Any collection of samples in the establishments in the restricted zone keeping animals of listed species for purposes other than to confirm or rule out the presence of the relevant category A diseases must be authorised by the competent authority.

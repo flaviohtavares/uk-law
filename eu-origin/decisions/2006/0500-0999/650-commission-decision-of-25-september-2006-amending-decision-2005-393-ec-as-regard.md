@@ -1,0 +1,183 @@
+---
+title: Commission Decision of 25 September 2006 amending Decision 2005/393/EC as regards restricted zones in relation to bluetongue (notified under document number C(2006) 4227) (Text with EEA relevance) (2006/650/EC)
+id: eudn/2006/650
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2006-09-25'
+text_date: '2006-09-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2006/650
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2006/650/pdfs/eudn_20060650_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2006/650/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Decision of 25 September 2006 amending Decision 2005/393/EC as regards restricted zones in relation to bluetongue (notified under document number C(2006) 4227) (Text with EEA relevance) (2006/650/EC)
+
+> Text as at 2006-09-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Decision
+
+of 25 September 2006
+
+amending Decision 2005/393/EC as regards restricted zones in relation to bluetongue
+
+(notified under document number C(2006) 4227)
+
+(Text with EEA relevance)
+
+(2006/650/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Directive 2000/75/EC of 20 November 2000 laying down specific provisions for the control and eradication of bluetongue[^f00001], and in particular Article 8(3) thereof,
+
+Whereas:
+
+(1)
+
+Directive 2000/75/EC lays down control rules and measures to combat bluetongue in the Community, including the establishment of protection and surveillance zones and a ban on animals leaving those zones.
+
+(2)
+
+Commission Decision 2005/393/EC of 23 May 2005 on protection and surveillance zones in relation to bluetongue and conditions applying to movements from or through these zones[^f00002] provides for the demarcation of the global geographic areas where protection and surveillance zones (‘the restricted zones’) are to be established by the Member States in relation to bluetongue.
+
+(3)
+
+Following the notification of outbreaks of bluetongue in mid-August and early September 2006 by Belgium, Germany, France and the Netherlands, the Commission has amended several times Decision 2005/393/EC as regards the demarcation of the restricted zones concerned.
+
+(4)
+
+On 8 September 2006, the Netherlands informed the Commission of a new confirmed case of bluetongue in cattle in the north part of the country. In view of those findings, the restricted zone should be extended to the whole of the Netherlands.
+
+(5)
+
+Following a substantiated request submitted by Germany, it is appropriate to amend the demarcation of the restricted zone in Germany.
+
+(6)
+
+Decision 2005/393/EC should be amended accordingly.
+
+(7)
+
+The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** Annex I to Decision 2005/393/EC is amended in accordance with the Annex to this Decision.
+
+**Article 2.** This Decision is addressed to the Member States.
+
+Done at Brussels, 25 September 2006.
+
+*For the Commission*
+
+Markos Kyprianou
+
+*Member of the Commission*
+
+## ANNEX
+
+Annex I to Decision 2005/393/EC is amended as follows:
+
+- 1.. The list of restricted zones *in Zone F (serotype 8)* which relates to the Netherlands is replaced by the following:
+
+  > The Netherlands
+  >
+  > Whole territory.
+- 2.. The list of restricted zones in *Zone F (serotype 8)* which relates to Germany is replaced by the following:
+
+  > Germany:
+  >
+  > Hessen
+  >
+  > - im Landkreis Kassel die Gemeinden Breuna, Liebenau, Zierenberg, Wolfhagen, Naumburg, Bad Emstal, Schauenburg, Habichtswald, Calden, Ahnatal, Baunatal, Hofgeismar, Grebenstein, Fuldabrück
+  > - Stadt Kassel
+  > - im Schwalm-Eder-Kreis die Gemeinden Fritzlar, Niedenstein, Gudensberg, Wabern, Borken (Hessen), Bad Zwesten, Jesberg, Gilserberg, Schwalmstadt, Neuental, Frielendorf, Homberg (Efze), Neukirchen, Schrecksbach, Willingshausen, Edermünde, Guxhagen, Körle, Melsungen, Felsberg, Malsfeld, Knüllwald, Schwarzenborn, Oberaula, Ottrau, Morschen
+  > - Landkreis Waldeck-Frankenberg
+  > - im Landkreis Hersfeld-Rotenburg die Gemeinden Ludwigsau, Neuenstein, Kirchheim, Niederaula, Breitenbach a. Herzberg
+  > - im Landkreis Fulda die Gemeinden Bad Salzschlirf, Großenlüder, Fulda, Hosenfeld, Neuhof, Flieden, Eichenzell, Kalbach
+  > - Landkreis Marburg-Biedenkopf
+  > - Vogelsbergkreis
+  > - Lahn-Dill-Kreis
+  > - Landkreis Gießen
+  > - Landkreis Limburg-Weilburg
+  > - Wetteraukreis
+  > - Hochtaunuskreis
+  > - Stadt Frankfurt am Main
+  > - Stadt Offenbach
+  > - Landkreis Offenbach
+  > - Main-Kinzig-Kreis
+  > - Rheingau-Taunus-Kreis
+  > - Stadt Wiesbaden
+  > - Main-Taunus-Kreis
+  > - Landkreis Groß-Gerau
+  > - Stadt Darmstadt
+  > - Landkreis Darmstadt-Dieburg
+  > - im Landkreis Bergstraße die Gemeinden Groß-Rohrheim, Biblis, Lampertheim, Bürstadt, Zwingenberg, Bensheim, Einhausen, Lorsch, Heppenheim, Lautertal, Lindenfels
+  >
+  > Niedersachsen
+  >
+  > - Stadt Osnabrück
+  > - Im Landkreis Grafschaft Bentheim die Gemeinden Bad Bentheim, Suddendorf, Ohne, Samern, Schüttorf, Quendorf, Isterberg, Nordhorn, Engden
+  > - Im Landkreis Emsland die Gemeinden Emsbüren, Salzbergen, Lünne, Spelle, Schapen
+  > - Im Landkreis Osnabrück die Gemeinden Glandorf, Bad Laer, Bad Rothenfelde, Dissen, Bad Iburg, Hilter, Melle, Bissendorf, Georgsmarienhütte, Hagen, Hasbergen
+  >
+  > Nordrhein-Westfalen
+  >
+  > Gesamtes Landesgebiet
+  >
+  > Rheinland-Pfalz
+  >
+  > - Kreis Ahrweiler
+  > - Kreis Altenkirchen
+  > - Kreis Alzey-Worms
+  > - Im Kreis Bad Dürkheim die Verbandsgemeinden Lambrecht (Pfalz), Hettenleidelheim, Freinsheim, Grünstadt Land
+  > - Stadt Bad Dürkheim
+  > - Kreis Bad Kreuznach
+  > - Kreis Bernkastel-Wittlich
+  > - Kreis Birkenfeld
+  > - Kreis Bitburg-Prüm
+  > - Kreis Cochem-Zell
+  > - Kreis Daun
+  > - Donnersbergkreis
+  > - Stadt Grünstadt
+  > - Kreis Kaiserslautern
+  > - Stadt Kaiserslautern
+  > - Stadt Koblenz
+  > - Kreis Kusel
+  > - Stadt Mainz
+  > - Kreis Mainz Bingen
+  > - Kreis Mayen-Koblenz
+  > - Kreis Neuwied
+  > - Im Kreis Südwestpfalz die Verbandsgemeinden Wallhalben, Waldfischbach-Burgalben, Thaleischweiler-Fröschen, Zweibrücken-Land sowie die Ortsgemeinden Donsieders, Clausen, Leimen aus der Verbandsgemeinde Rodalben, die verbandsfreie Gemeinde Rodalben und die Exklave zu Wilgartswiesen in der Verbandsgemeinde Rodalben
+  > - In der Stadt Pirmasens die Stadtteile Windsberg, Hengsberg, Fehrbach
+  > - Rhein-Hunsrück-Kreis
+  > - Rhein-Lahn-Kreis
+  > - Im Rhein-Pfalz Kreis die Verbandsgemeinde Heßheim, verbandsfreie Gemeinde Bobenheim-Roxheim
+  > - Stadt Trier
+  > - Kreis Trier-Saarburg
+  > - Westerwaldkreis
+  > - Stadt Worms
+  > - Stadt Zweibrücken
+  >
+  > Saarland
+  >
+  > Gesamtes Landesgebiet.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 327, 22.12.2000, p. 74](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.327.01.0074.01.ENG).
+
+[^f00002]: Footnote: [OJ L 130, 24.5.2005, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.130.01.0022.01.ENG). Decision as last amended by Decision 2006/633/EC ([OJ L 258, 21.9.2006, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.258.01.0007.01.ENG)).

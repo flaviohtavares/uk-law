@@ -1,0 +1,68 @@
+---
+title: Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance), section Article 22
+act: Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance)
+section: Article 22
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/692/section/Article 22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance), section Article 22
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 22. The third country or territory of origin of ungulates or zone thereof
+
+*Extent: E+W+S+N.I.*
+
+1. Consignments of ungulates, other than equine animals, shall only be permitted to enter the Union if the animals of the consignment originate from a third country or territory or zone thereof free from the category A diseases referred to in the table set out in point 1 of Part A of Annex IV for the period referred to in that table.
+
+2. Consignments of equine animals shall only be permitted to enter the Union if the animals of the consignment originate from a third country or territory or zone thereof:
+
+- (a) free from the listed diseases referred in the table set out in point 2 of Part A of Annex IV for the period referred to in that table;
+- (b) where none of the listed diseases referred to in the table set out in point 3 of Part A of Annex IV has been reported during the referred period.
+
+3. The periods referred to in paragraph 1 and 2 may be reduced for diseases included in Part B of Annex IV under the relevant specific conditions referred therein.
+
+4. Consignments of ungulates shall only be permitted to enter the Union if the animals of the consignment originate from a third country or territory or zone thereof where vaccination against the category A diseases referred to in Part C of Annex IV has not been carried out in accordance with the details set out in:
+
+- (a) point 1 of that Annex in the case of ungulates, other than equine animals;
+- (b) point 2 of that Annex in the case of equine animals.
+
+5. As regards infection with *Mycobacterium tuberculosis* complex (*M. bovis, M. caprae, M. tuberculosis*), consignments of bovine animals shall only be permitted to enter the Union if the animals of the consignment either:
+
+- (a) originate from a third country or territory or zone thereof free from that disease without vaccination;
+
+  or
+- (b) comply with the requirements set out in point 1 of Annex V.
+
+6. As regards infection with *Brucella abortus, B. melitensis* and *B. suis*, consignments of bovine, ovine and caprine animals shall only be permitted to enter the Union if the animals of the consignment either:
+
+- (a) originate from a third country or territory or zone thereof free from that disease without vaccination;
+
+  or
+- (b) comply with the requirements set out in point 2 of Annex V.
+
+7. As regards infection with bluetongue virus (serotypes 1-24), consignments of ungulates of listed species shall only be permitted to enter the Union if the animals of the consignment either:
+
+- (a) originate from a third country or territory or zone thereof free from that disease for a period of 2 years prior to the date of dispatch to the Union; or
+- (b) comply with one of the specific conditions set out in of Part A of Annex VI.
+
+8. As regards enzootic bovine leukosis, consignments of bovine animals shall only be permitted to enter the Union if those animals either:
+
+- (a) originate from a third country or territory or zone thereof free from that disease;
+
+  or
+- (b) comply with the specific conditions set out in Part B of Annex VI.
+
+9. Consignments of ungulates intended for entry into Member States or zones thereof with disease-free status or with an approved eradication programme for the category C diseases referred to in Annex VII, for which the species of ungulates are listed, shall only be permitted to enter the Union if the animals of the consignment:
+
+- (a) originate from third country or territory or zone thereof free from those diseases for the relevant species;
+
+  or
+- (b) comply with the relevant additional requirements set out in that Annex.

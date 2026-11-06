@@ -1,0 +1,58 @@
+---
+title: Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance), section Article 123
+act: Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance)
+section: Article 123
+status: revised
+text_date: '2018-12-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2019/6/section/Article 123
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance), section Article 123
+
+> Text as at 2018-12-11.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 123. Controls
+
+*Extent: E+W+S+N.I.*
+
+1. Competent authorities shall carry out controls of the following persons:
+
+- (a) manufacturers and importers of veterinary medicinal products and active substances;
+- (b) distributors of active substances;
+- (c) marketing authorisation holders;
+- (d) holders of a wholesale distribution authorisation;
+- (e) retailers;
+- (f) owners and keepers of food-producing animals;
+- (g) veterinarians;
+- (h) holders of a registration for homeopathic veterinary medicinal products;
+- (i) holders of veterinary medicinal products referred to in Article 5(6); and
+- (j) any other persons having obligations under this Regulation.
+
+2. The controls referred to in paragraph 1 shall be carried out regularly, on a risk-basis, in order to verify that the persons referred to in paragraph 1 comply with this Regulation.
+
+3. The risk-based controls referred to in paragraph 2 shall be carried out by the competent authorities taking account of at least:
+
+- (a) the intrinsic risks associated with the activities of the persons referred to in paragraph 1 and the location of their activities;
+- (b) the past record of the persons referred to paragraph 1 as regards the results of controls performed on them and their previous compliance;
+- (c) any information that might indicate non-compliance;
+- (d) the potential impact of non-compliance on public health, animal health, animal welfare and the environment.
+
+4. Controls may also be carried out on the request of a competent authority of another Member State, the Commission or the Agency.
+
+5. Controls shall be carried out by representatives of the competent authority.
+
+6. Inspections may be carried out as part of the controls. Such inspections may be made unannounced. During those inspections the representatives of a competent authority shall at least be empowered to:
+
+- (a) inspect the premises, equipment, means of transport, records, documents and systems, related to the objective of the inspection;
+- (b) inspect and take samples with a view to submitting them for an independent analysis by an Official Medicines Control Laboratory or by a laboratory designated for that purpose by a Member State;
+- (c) document any evidence deemed necessary by the representatives;
+- (d) carry out the same controls on any parties performing the tasks required under this Regulation with, for or on behalf of the persons referred to in paragraph 1.
+
+7. The representatives of the competent authorities shall keep a record of every control that they carry out and where necessary shall draw up a report. The person referred to in paragraph 1 shall be promptly informed in writing by the competent authority of any case of non-compliance identified through the controls and shall have the opportunity to submit comments within a time limit set by the competent authority.
+
+8. The competent authorities shall have procedures or arrangements in place to ensure that staff performing controls are free from any conflict of interest.

@@ -1,0 +1,50 @@
+---
+title: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (Text with EEA relevance), section Article 17
+act: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (Text with EEA relevance)
+section: Article 17
+status: revised
+text_date: '2026-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2018/1139/section/Article 17
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (Text with EEA relevance), section Article 17
+
+> Text as at 2026-05-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 17. Regulations as regards airworthiness[^key-a517e97f12e10d342490cf62b4df874b]
+
+*Extent: E+W+S+N.I.*
+
+1. In order to ensure [^key-d94b5df8dfa3bed38ab82881f6f5c60a]... compliance with the essential requirements referred to in Article 9, for the aircraft referred to in points (a) and (b) of Article 2(1), other than unmanned aircraft, and their engines, propellers, parts and non-installed equipment, the Secretary of State[^key-278c86e11be3d25b009fb1a616e99c64] shall, on the basis of the principles set out in Article 4 and with a view to achieving the objectives set out in Article 1, make regulations[^key-923b2a6c9134521fa400e70712f89334] laying down detailed provisions concerning:
+
+- (a) the rules and procedures for maintaining the certificates referred to in Article 14 and in point (a) of the first subparagraph of Article 18(2);
+- (b) the rules and procedures for issuing, maintaining, amending, limiting, suspending or revoking the approvals referred to in Article 15(2) and for the situations in which such approvals are not to be required;
+- (c) the rules and procedures for declarations referred to in Article 15(5), and for the situations in which such declarations are to be required;
+- (d) the rules and procedures for issuing, maintaining, amending, limiting, suspending or revoking the licences referred to in Article 16, and for the situations in which such licences are not to be required;
+- (e) the privileges and responsibilities of the holders of the approvals and licences issued pursuant to Articles 15(2) and 16, and of the organisations making declarations in accordance with Article 15(5);
+- (f) the rules and procedures for the maintenance of products, parts and non-installed equipment;
+- (g) the rules and procedures for the continuing airworthiness management of aircraft;
+- (h) additional airworthiness requirements for products, parts and non-installed equipment, the design of which has already been certified, needed to support continuing airworthiness and safety improvements.
+
+[^key-a768dfd3975ced71dc948ae374726784]...
+
+2. When making those regulations, the Secretary of State[^key-4336ca1b73f46970f569f8d52f681403] shall ensure compliance with the essential requirements referred to in Article 9 and take due account of the international standards and recommended practices, in particular those set out in Annexes 1, 6 and 8 to the Chicago Convention.
+
+## Annotations
+
+[^key-a517e97f12e10d342490cf62b4df874b]: Textual amendment: Word in [Art. 17](https://www.legislation.gov.uk/eur/2018/1139/article/17) heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [97(2)](https://www.legislation.gov.uk/uksi/2019/645/regulation/97/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d94b5df8dfa3bed38ab82881f6f5c60a]: Textual amendment: Words in [Art. 17(1)](https://www.legislation.gov.uk/eur/2018/1139/article/17/1) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [97(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/645/regulation/97/3/a/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-278c86e11be3d25b009fb1a616e99c64]: Textual amendment: Words in [Art. 17(1)](https://www.legislation.gov.uk/eur/2018/1139/article/17/1) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [97(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/645/regulation/97/3/a/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-923b2a6c9134521fa400e70712f89334]: Textual amendment: Words in [Art. 17(1)](https://www.legislation.gov.uk/eur/2018/1139/article/17/1) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [97(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/645/regulation/97/3/a/iii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a768dfd3975ced71dc948ae374726784]: Textual amendment: Words in [Art. 17(1)](https://www.legislation.gov.uk/eur/2018/1139/article/17/1) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [97(3)(b)](https://www.legislation.gov.uk/uksi/2019/645/regulation/97/3/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4336ca1b73f46970f569f8d52f681403]: Textual amendment: Words in [Art. 17(2)](https://www.legislation.gov.uk/eur/2018/1139/article/17/2) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [97(4)](https://www.legislation.gov.uk/uksi/2019/645/regulation/97/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

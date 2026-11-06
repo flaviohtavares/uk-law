@@ -1,0 +1,111 @@
+---
+title: Decision (EU) 2017/2442 of the European Central Bank of 8 December 2017 amending Decision (EU) 2016/2164 on the approval of the volume of coin issuance in 2017 (ECB/2017/39)
+id: eudn/2017/39
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2017-12-08'
+text_date: '2017-12-08'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2017/39
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2017/39/pdfs/eudn_20170039_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/39/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Decision (EU) 2017/2442 of the European Central Bank of 8 December 2017 amending Decision (EU) 2016/2164 on the approval of the volume of coin issuance in 2017 (ECB/2017/39)
+
+> Text as at 2017-12-08.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Decision (EU) 2017/2442 of the European Central Bank
+
+of 8 December 2017
+
+amending Decision (EU) 2016/2164 on the approval of the volume of coin issuance in 2017 (ECB/2017/39)
+
+THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 128(2) thereof,
+
+Having regard to Decision (EU) 2015/2332 of the European Central Bank of 4 December 2015 on the procedural framework for the approval of the volume of euro coin issuance (ECB/2015/43)[^f00001], and in particular Article 2 thereof,
+
+Whereas:
+
+(1)
+
+The European Central Bank (ECB) has the exclusive right since 1 January 1999 to approve the volume of coins issued by the Member States whose currency is the euro.
+
+(2)
+
+Based on the estimates of demand for euro coins in 2017 that the Member States whose currency is the euro submitted to the ECB, the ECB approved the total volume of euro coins intended for circulation and euro collector coins not intended for circulation in 2017 in Decision (EU) 2016/2164 of the European Central Bank (ECB/2016/43)[^f00002].
+
+(3)
+
+On 19 October 2017, the Italian Ministry of Finance requested that the volume of euro coins that Italy may issue in 2017 be increased from EUR 96,0 million to EUR 141,0 million to be able to respond to an unexpected rise in the demand for coins. The ECB has approved this request for an increase in the volume of euro coins intended for circulation that Italy may issue in 2017.
+
+(4)
+
+Therefore, Decision (EU) 2016/2164 (ECB/2016/43) should be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1. Amendment
+
+The table in Article 1 of Decision (EU) 2016/2164 (ECB/2016/43) is replaced by the following:
+
+> <table>
+> <tbody>
+> <tr><td colspan="4"><em>(EUR million)</em></td></tr>
+> <tr><th></th><th colspan="3">Volume of euro coins approved for issuance in 2017</th></tr>
+> <tr><th rowspan="2"></th><th rowspan="2">Circulation coins</th><th>Collector coins</th><th rowspan="2">Volume of coin issuance</th></tr>
+> <tr><th>(not intended for circulation)</th></tr>
+> <tr><th>Belgium</th><td>51,0</td><td>1,0</td><td>52,0</td></tr>
+> <tr><th>Germany</th><td>419,0</td><td>219,0</td><td>638,0</td></tr>
+> <tr><th>Estonia</th><td>9,7</td><td>0,3</td><td>10,0</td></tr>
+> <tr><th>Ireland</th><td>30,7</td><td>0,8</td><td>31,5</td></tr>
+> <tr><th>Greece</th><td>106,3</td><td>0,6</td><td>106,9</td></tr>
+> <tr><th>Spain</th><td>359,3</td><td>30,0</td><td>389,3</td></tr>
+> <tr><th>France</th><td>224,3</td><td>51,0</td><td>275,3</td></tr>
+> <tr><th>Italy</th><td>139,2</td><td>1,8</td><td>141,0</td></tr>
+> <tr><th>Cyprus</th><td>14,0</td><td>0,1</td><td>14,1</td></tr>
+> <tr><th>Latvia</th><td>16,3</td><td>0,3</td><td>16,6</td></tr>
+> <tr><th>Lithuania</th><td>30,0</td><td>0,3</td><td>30,3</td></tr>
+> <tr><th>Luxembourg</th><td>17,7</td><td>0,2</td><td>17,9</td></tr>
+> <tr><th>Malta</th><td>10,2</td><td>0,2</td><td>10,4</td></tr>
+> <tr><th>Netherlands</th><td>25,0</td><td>4,0</td><td>29,0</td></tr>
+> <tr><th>Austria</th><td>87,2</td><td>181,8</td><td>269,0</td></tr>
+> <tr><th>Portugal</th><td>62,0</td><td>3,0</td><td>65,0</td></tr>
+> <tr><th>Slovenia</th><td>24,0</td><td>2,0</td><td>26,0</td></tr>
+> <tr><th>Slovakia</th><td>15,6</td><td>1,4</td><td>17,0</td></tr>
+> <tr><th>Finland</th><td>35,0</td><td>10,0</td><td>45,0</td></tr>
+> <tr><td><strong>Total</strong></td><td><strong>1 676,5</strong></td><td><strong>507,8</strong></td><td><strong>2 184,3</strong></td></tr>
+> </tbody>
+> </table>
+
+## Article 2. Taking effect
+
+This Decision shall take effect on the day of its notification to the addressees.
+
+## Article 3. Addressees
+
+This Decision is addressed to the Member States whose currency is the euro.
+
+Done at Frankfurt am Main, 8 December 2017.
+
+*The President of the ECB*
+
+Mario Draghi
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 328, 12.12.2015, p. 123](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.328.01.0123.01.ENG).
+
+[^f00002]: Footnote: Decision (EU) 2016/2164 of the European Central Bank of 30 November 2016 on the approval of the volume of coin issuance in 2017 (ECB/2016/43) ([OJ L 333, 8.12.2016, p. 73](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.333.01.0073.01.ENG)).

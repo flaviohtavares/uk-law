@@ -1,0 +1,242 @@
+---
+title: Council Decision 2011/781/CFSP of 1 December 2011 on the European Union Police Mission (EUPM) in Bosnia and Herzegovina (BiH)
+id: eudn/2011/781
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2011-12-01'
+text_date: '2011-12-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2011/781
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2011/781/pdfs/eudn_20110781_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2011/781/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision 2011/781/CFSP of 1 December 2011 on the European Union Police Mission (EUPM) in Bosnia and Herzegovina (BiH)
+
+> Text as at 2011-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision 2011/781/CFSP
+
+of 1 December 2011
+
+on the European Union Police Mission (EUPM) in Bosnia and Herzegovina (BiH)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union and, in particular, Article 28, Articles 42(4) and 43(2) thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1)
+
+On 8 December 2009, the Council adopted Decision 2009/906/CFSP[^f00001] on the European Union Police Mission (EUPM) in Bosnia and Herzegovina (BiH). That Decision expires on 31 December 2011.
+
+(2)
+
+EUPM should be continued until 30 June 2012.
+
+(3)
+
+The command and control structure of EUPM should be without prejudice to the contractual responsibilities of the Head of Mission towards the Commission for implementing the budget of EUPM.
+
+(4)
+
+The Watch-Keeping Capability should be activated for EUPM.
+
+(5)
+
+EUPM will be conducted in the context of a situation which may deteriorate and could impede the achievement of the Union's external action as set out in Article 21 of the Treaty on European Union (TEU),
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1. Mission
+
+1. The European Union Police Mission (EUPM) in Bosnia and Herzegovina (BiH), established by Joint Action 2002/210/CFSP[^f00002], shall be continued from 1 January 2012 until 30 June 2012.
+
+2. EUPM shall operate in accordance with the mission statement as set out in Article 2 and shall carry out the key tasks as set out in Article 3.
+
+## Article 2. Mission statement
+
+As part of the broader rule of law approach in BiH and in the region, EUPM shall support BiH relevant Law Enforcement Agencies (LEAs) and the criminal justice system in the fight against organised crime and corruption, in enhancing the interaction between police and prosecutors and in fostering regional and international cooperation.
+
+EUPM shall provide operational advice to the European Union Special Representative (EUSR) to support him in his role. Through its work and its network within the country, EUPM shall contribute to overall efforts to ensure that the Union is fully informed of developments in BiH.
+
+With a view to the closure of the mission, EUPM shall prepare a hand-over of the remaining key tasks to the EUSR Office.
+
+EUPM shall support the temporary arrangements for Common Security and Defence Policy (CSDP) warehousing pending the formation of permanent warehousing arrangements.
+
+## Article 3. Mission key tasks
+
+In order to accomplish its mission, the key tasks of EUPM shall be to:
+
+- ((1)) provide strategic advice to LEAs and political authorities in BiH on combating organised crime and corruption;
+- ((2)) promote and facilitate coordination and cooperation mechanisms vertically as well as horizontally between relevant LEAs, with a particular focus on State level agencies;
+- ((3)) ensure a successful hand-over between EUPM and the EUSR Office;
+- ((4)) contribute to the coordination of Union and Member States' efforts in the field of the rule of law.
+
+## Article 4. Structure of the Mission
+
+1. EUPM shall consist of the following elements:
+
+- (a) main headquarters in Sarajevo, composed of the Head of the Mission and staff as defined in the Operation Plan (OPLAN);
+- (b) four Field Offices in Sarajevo, Banja Luka, Mostar and Tuzla.
+
+2. These elements shall be subject to further detailed arrangements in the OPLAN.
+
+## Article 5. Civilian Operation Commander
+
+1. The Civilian Planning and Conduct Capability Director shall be the Civilian Operation Commander for EUPM.
+
+2. The Civilian Operation Commander, under the political control and strategic direction of the Political and Security Committee (PSC) and the overall authority of the High Representative of the Union for Foreign Affairs and Security Policy (HR), shall exercise command and control of EUPM at the strategic level.
+
+3. The Civilian Operation Commander shall ensure proper and effective implementation of the Council's decisions as well as the PSC's decisions, including by issuing instructions at the strategic level as required to the Head of Mission and providing him with advice and technical support.
+
+4. All seconded staff shall remain under the full command of the national authorities of the seconding State or Union institution concerned. National authorities shall transfer Operational Control of their personnel, teams and units to the Civilian Operation Commander.
+
+5. The Civilian Operation Commander shall have overall responsibility for ensuring that the Union's duty of care is properly discharged.
+
+6. The Civilian Operation Commander and the EUSR shall consult each other as required.
+
+## Article 6. Head of Mission
+
+1. The Head of Mission shall assume responsibility for, and exercise command and control of, EUPM at theatre level.
+
+2. The Head of Mission shall exercise command and control over personnel, teams and units from contributing States as assigned by the Civilian Operation Commander together with administrative and logistic responsibility including over assets, resources and information placed at the disposal of EUPM.
+
+3. The Head of Mission shall issue instructions to all EUPM staff for the effective conduct of EUPM in theatre, assuming its coordination and day-to-day management, and following the instructions at the strategic level of the Civilian Operation Commander.
+
+4. The Head of Mission shall be responsible for the implementation of EUPM's budget. For this purpose, the Head of Mission shall sign a contract with the Commission.
+
+5. The Head of Mission shall be responsible for disciplinary control over staff. For seconded staff, disciplinary action shall be exercised by the national or Union authority concerned.
+
+6. The Head of Mission shall represent EUPM in the operations area and shall ensure its appropriate visibility.
+
+7. The Head of Mission shall coordinate, as appropriate, with other Union actors on the ground. The Head of Mission shall, without prejudice to the chain of command, receive local political guidance from the EUSR.
+
+## Article 7. EUPM Staff
+
+1. The numbers and competence of EUPM staff shall be consistent with the mission statement set out in Article 2, the mission key tasks set out in Article 3 and the structure set out in Article 4.
+
+2. EUPM shall consist primarily of staff seconded by Member States or Union institutions. Each Member State or Union institution shall bear the costs relating to any of the staff seconded by it, including travel expenses to and from the place of deployment, salaries, medical coverage and allowances other than applicable daily allowances, as well as hardship and risk allowances.
+
+3. International civilian staff and local staff may also be recruited by EUPM, as required, on a contractual basis, if the functions required are not provided by personnel seconded by Member States. Exceptionally, in duly justified cases, where no qualified applications from Member States are available, nationals from participating third States may be recruited on a contractual basis, as appropriate.
+
+4. All staff shall abide by the Mission-specific minimum security operating standards and the Mission security plan supporting the Union field security policy. As regards the protection of EU classified information with which staff are entrusted in the course of their duties, all staff shall respect the security principles and minimum standards established by Council Decision 2011/292/EU of 31 March 2011 on the security rules for protecting EU classified information[^f00003].
+
+## Article 8. Status of Mission and EUPM staff
+
+1. The necessary arrangements shall be made regarding the continuation of the Agreement between the Union and BiH of 4 October 2002 on the activities of EUPM in BiH for the duration of EUPM.
+
+2. The State or Union institution having seconded a staff member shall be responsible for answering any claims linked to the secondment, from or concerning the staff member. The State or Union institution in question shall be responsible for bringing any action against the seconded person.
+
+3. The conditions of employment and the rights and obligations of international and local civilian staff shall be laid down in the contracts between the Head of Mission and the staff member.
+
+## Article 9. Chain of command
+
+1. EUPM shall have a unified chain of command, as a crisis management operation.
+
+2. Under the responsibility of the Council and the HR, the PSC shall exercise political control and strategic direction of EUPM.
+
+3. The Civilian Operation Commander, under the political control and strategic direction of the PSC and the overall authority of the HR, shall be the commander of EUPM at the strategic level and, as such, shall issue instructions to the Head of Mission and provide him with advice and technical support.
+
+4. The Civilian Operation Commander shall report to the Council through the HR.
+
+5. The Head of Mission shall exercise command and control of EUPM at theatre level and shall be directly responsible to the Civilian Operation Commander.
+
+## Article 10. Political control and strategic direction
+
+1. The PSC shall exercise, under the responsibility of the Council and the HR, political control and strategic direction of EUPM. The Council hereby authorises the PSC to take the relevant decisions for this purpose in accordance with the third paragraph of Article 38 TEU. This authorisation shall include the powers to appoint a Head of Mission, upon a proposal by the HR, and to amend the Concept of Operations (CONOPS) and the OPLAN. The powers of decision with respect to the objectives and termination of EUPM shall remain vested in the Council.
+
+2. The PSC shall report to the Council at regular intervals.
+
+3. The PSC shall receive, on a regular basis and as required, reports by the Civilian Operation Commander and the Head of Mission on issues within their areas of responsibility.
+
+## Article 11. Participation of third States
+
+1. Without prejudice to the decision-making autonomy of the Union and its single institutional framework, third States may be invited to contribute to EUPM, provided that they bear the cost of the staff seconded by them, including salaries, all risk insurance cover, daily subsistence allowances and travel expenses to and from BiH, and that they contribute to the running costs of EUPM, as appropriate.
+
+2. Third States contributing to EUPM shall have the same rights and obligations in terms of day-to-day management of EUPM as Member States.
+
+3. The Council hereby authorises the PSC to take the relevant decisions on acceptance of the proposed contributions and to establish a Committee of Contributors.
+
+4. Detailed arrangements regarding the participation of third States shall be covered by agreements concluded pursuant to Article 37 TEU and in accordance with Article 218 of the Treaty on the Functioning of the European Union. The HR may negotiate such agreements. Where the Union and a third State conclude an agreement establishing a framework for the participation of that third State in Union crisis-management operations, the provisions of that agreement shall apply in the context of EUPM.
+
+## Article 12. Financial arrangements
+
+1. The financial reference amount to cover the expenditure related to EUPM for the period from 1 January 2012 to 30 June 2012 shall be EUR 5 250 000.
+
+2. All expenditure shall be managed in accordance with the rules and procedures applicable to the general budget of the Union. In accordance with the Financial Regulation, the Head of Mission may conclude technical arrangements with Member States, participating third States, and other international actors regarding the provision of equipment, services and premises to EUPM. The Head of Mission shall be responsible for the management of a warehouse stocking used equipment that may also be used to respond to urgent requirements in CSDP deployments. Nationals of participating third States and host country nationals shall be allowed to tender for contracts.
+
+3. The Head of Mission shall report fully to, and be supervised by, the Commission regarding the activities undertaken in the framework of his contract.
+
+4. The financial arrangements shall respect the operational requirements of EUPM, including compatibility of equipment and interoperability of its teams.
+
+5. The expenditure related to EUPM shall be eligible as of 1 January 2012.
+
+## Article 13. Security
+
+1. The Civilian Operation Commander shall direct the Head of Mission's planning of security measures and ensure their proper and effective implementation for EUPM in accordance with Articles 5 and 9, in coordination with the Security Directorate of the European External Action Service (EEAS).
+
+2. The Head of Mission shall be responsible for the security of EUPM and for ensuring compliance with minimum security requirements applicable to EUPM, in line with the policy of the Union on the security of personnel deployed outside the Union in an operational capacity under Title V of the TEU, and its supporting instruments.
+
+3. The Head of Mission shall be assisted by a Senior Mission Security Officer (SMSO), who shall report to the Head of Mission and also maintain a close functional relationship with the Security Directorate of the EEAS.
+
+4. The Head of Mission, in consultation with the Security Directorate of the EEAS, shall appoint Area Security Officers in the four field offices, who, under the authority of the SMSO, shall be responsible for the day-to-day management of all security aspects of the respective EUPM elements.
+
+5. EUPM staff shall undergo mandatory security training before taking up their duties, in accordance with the OPLAN. They shall also receive regular in-theatre refresher training organised by the SMSO.
+
+## Article 14. Coordination
+
+1. Without prejudice to the chain of command, the Head of Mission shall act in close coordination with the Union Delegation in BiH to ensure consistency of Union action in support of BiH.
+
+2. The Head of Mission shall coordinate closely with the Union Heads of Missions in BiH.
+
+3. The Head of Mission shall cooperate with the other international actors present in the country, in particular Organisation for Security and Cooperation in Europe, the Council of Europe and the International Criminal Investigation Training Assistance Programme.
+
+## Article 15. Release of classified information
+
+1. The HR shall be authorised to release to the third States associated with this Decision, as appropriate and in accordance with the needs of EUPM, EU classified information and documents up to ‘RESTREINT UE’ level generated for the purposes of EUPM, in accordance with Decision 2011/292/EU.
+
+2. In the event of a specific and immediate operational need, the HR shall also be authorised to release to the host State any EU classified information and documents up to ‘RESTREINT UE’ level which are generated for the purposes of EUPM, in accordance with Decision 2011/292/EU. In all other cases, such information and documents shall be released to the host State in accordance with the appropriate procedures for cooperation by the host State with the Union.
+
+3. The HR shall be authorised to release to the third States associated with this Decision any EU non-classified documents connected with the deliberations of the Council relating to EUPM and covered by the obligation of professional secrecy pursuant to Article 6(1) of the Council's Rules of Procedure[^f00004].
+
+## Article 16. Watch-Keeping Capability
+
+The Watch-Keeping Capability shall be activated for EUPM.
+
+## Article 17. Entry into force
+
+This Decision shall enter into force on the day of its adoption.
+
+It shall apply from 1 January 2012 until 30 June 2012.
+
+Done at Brussels, 1 December 2011.
+
+*For the Council*
+
+*The President*
+
+C. Ashton
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 322, 9.12.2009, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.322.01.0022.01.ENG).
+
+[^f00002]: Footnote: [OJ L 70, 13.3.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.070.01.0001.01.ENG).
+
+[^f00003]: Footnote: [OJ L 141, 27.5.2011, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.141.01.0017.01.ENG).
+
+[^f00004]: Footnote: Council Decision 2009/937/EU of 1 December 2009 adopting the Council's Rules of Procedure ([OJ L 325, 11.12.2009, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.325.01.0035.01.ENG)).

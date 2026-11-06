@@ -1,0 +1,47 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 238
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 238
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 238
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 238
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 238. Subsidiaries of an insurance or reinsurance undertaking: determination of the Solvency Capital Requirement
+
+*Extent: E+W+S+N.I.*
+
+1. Without prejudice to Article 231, the Solvency Capital Requirement of the subsidiary shall be calculated as set out in paragraphs 2, 4, and 5 of this Article.
+
+2. Where the Solvency Capital Requirement of the subsidiary is calculated on the basis of an internal model approved at group level in accordance with Article 231 and the supervisory authority having authorised the subsidiary considers that its risk profile deviates significantly from this internal model, and as long as that undertaking does not properly address the concerns of the supervisory authority, that authority may, in the cases referred to in Article 37, propose to set a capital add-on to the Solvency Capital Requirement of that subsidiary resulting from the application of such model or, in exceptional circumstances where such capital add-on would not be appropriate, to require that undertaking to calculate its Solvency Capital Requirement on the basis of the standard formula. The supervisory authority shall discuss its proposal within the college of supervisors and communicate the grounds for such proposals to both the subsidiary and the college of supervisors.
+
+3. Where the Solvency Capital Requirement of the subsidiary is calculated on the basis of the standard formula and the supervisory authority having authorised the subsidiary considers that its risk profile deviates significantly from the assumptions underlying the standard formula, and as long as that undertaking does not properly address the concerns of the supervisory authority, that authority may, in exceptional circumstances, propose that the undertaking replace a subset of the parameters used in the standard formula calculation by parameters specific to that undertaking when calculating the life, non-life and health underwriting risk modules, as set out in Article 110, or in the cases referred to in Article 37, to set a capital add-on to the Solvency Capital Requirement of that subsidiary.
+
+The supervisory authority shall discuss its proposal within the college of supervisors and communicate the grounds for such proposal to both the subsidiary and the college of supervisors.
+
+4.[^c000004] The college of supervisors shall do everything within its power to reach an agreement on the proposal of the supervisory authority having authorised the subsidiary or on other possible measures.
+
+That agreement shall be recognised as determinative and shall be applied by the supervisory authorities concerned.
+
+5. Where the supervisory authority and the group supervisor disagree, either supervisor may, within one month from the proposal of the supervisory authority, refer the matter to EIOPA and request its assistance in accordance with Article 19 of Regulation (EU) No 1094/2010. In that case, EIOPA may act in accordance with the powers conferred to it by that Article, and shall take its decision within one month of such referral. The one-month period shall be deemed the conciliation period within the meaning of Article 19(2) of that Regulation. The matter shall not be referred to EIOPA after the end of the one-month period referred to in this subparagraph or after an agreement has been reached within the college in accordance with paragraph 4 of this Article.
+
+The supervisory authority having authorised that subsidiary shall defer its decision and await any decision that EIOPA may take in accordance with Article 19 of that Regulation, and shall take its decision in conformity with EIOPA's decision.
+
+That decision shall be recognised as determinative and shall be applied by the supervisory authorities concerned.
+
+The decision shall state the full reasons on which it is based.
+
+The decision shall be submitted to the subsidiary and to the college of supervisors.
+
+## Annotations
+
+[^c000004]: Textual amendment: Substituted by [Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)](https://www.legislation.gov.uk/eudr/2014/51).

@@ -1,0 +1,42 @@
+---
+title: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, section Article 17
+act: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax
+section: Article 17
+status: revised
+text_date: '2020-12-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2006/112/section/Article 17
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, section Article 17
+
+> Text as at 2020-12-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Article 17.** 1. The transfer by a taxable person of goods forming part of his business assets to another Member State shall be treated as a supply of goods for consideration.
+
+‘Transfer to another Member State’ shall mean the dispatch or transport of movable tangible property by or on behalf of the taxable person, for the purposes of his business, to a destination outside the territory of the Member State in which the property is located, but within the Community.
+
+2. The dispatch or transport of goods for the purposes of any of the following transactions shall not be regarded as a transfer to another Member State:
+
+- (a) the supply of the goods by the taxable person within the territory of the Member State in which the dispatch or transport ends, in accordance with the conditions laid down in Article 33;
+- (b) the supply of the goods, for installation or assembly by or on behalf of the supplier, by the taxable person within the territory of the Member State in which dispatch or transport of the goods ends, in accordance with the conditions laid down in Article 36;
+- (c) the supply of the goods by the taxable person on board a ship, an aircraft or a train in the course of a passenger transport operation, in accordance with the conditions laid down in Article 37;
+- (d)[^c000006] the supply of gas through a natural gas system situated within the territory of the Community or any network connected to such a system, the supply of electricity or the supply of heat or cooling energy through heating or cooling networks, in accordance with the conditions laid down in Articles 38 and 39;
+- (e) the supply of the goods by the taxable person within the territory of the Member State, in accordance with the conditions laid down in Articles 138, 146, 147, 148, 151 or 152;
+- (f)[^c000011] the supply of a service performed for the taxable person and consisting in valuations of, or work on, the goods in question physically carried out within the territory of the Member State in which dispatch or transport of the goods ends, provided that the goods, after being valued or worked upon, are returned to that taxable person in the Member State from which they were initially dispatched or transported;
+- (g) the temporary use of the goods within the territory of the Member State in which dispatch or transport of the goods ends, for the purposes of the supply of services by the taxable person established within the Member State in which dispatch or transport of the goods began;
+- (h) the temporary use of the goods, for a period not exceeding twenty-four months, within the territory of another Member State, in which the importation of the same goods from a third country with a view to their temporary use would be covered by the arrangements for temporary importation with full exemption from import duties.
+
+3. If one of the conditions governing eligibility under paragraph 2 is no longer met, the goods shall be regarded as having been transferred to another Member State. In such cases, the transfer shall be deemed to take place at the time when that condition ceases to be met.
+
+## Annotations
+
+[^c000006]: Textual amendment: Substituted by [Council Directive 2009/162/EU of 22 December 2009 amending various provisions of Directive 2006/112/EC on the common system of value added tax](https://www.legislation.gov.uk/eudr/2009/162).
+
+[^c000011]: Textual amendment: Substituted by [Council Directive 2010/45/EU of 13 July 2010 amending Directive 2006/112/EC on the common system of value added tax as regards the rules on invoicing](https://www.legislation.gov.uk/eudr/2010/45).

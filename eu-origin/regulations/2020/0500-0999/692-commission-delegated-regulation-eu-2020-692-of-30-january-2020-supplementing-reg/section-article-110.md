@@ -1,0 +1,45 @@
+---
+title: Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance), section Article 110
+act: Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance)
+section: Article 110
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/692/section/Article 110
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance), section Article 110
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 110. Derogations and special requirements for consignments of less than 20 hatching eggs of poultry other than ratites
+
+*Extent: E+W+S+N.I.*
+
+By way of derogation from Articles 101, 102, 106, 107 and 108, consignments of less than 20 hatching eggs of poultry other than ratites shall be permitted to enter the Union if they comply with the following requirements:
+
+- ((a)) they come from establishments:
+  - ((i)) registered by the competent authority of the third country or territory of origin;
+  - ((ii)) where no confirmed case of infection with low pathogenic avian influenza viruses was reported within the period of 21 days prior to the date of collection of the hatching eggs;
+  - ((iii)) within a 10 km radius of the establishments, including, where appropriate, the territory of a neighbouring country, there has been no outbreak of highly pathogenic avian influenza or infection with Newcastle disease virus for a period of at least 30 days prior to the date of collection of the hatching eggs;
+- ((b)) in relation to vaccination against highly pathogenic avian influenza:
+  - ((i)) the hatching eggs have not been vaccinated against highly pathogenic avian influenza;
+  - ((ii)) where the flocks of origin have been vaccinated against highly pathogenic avian influenza, guarantees for compliance with the minimum requirements for vaccination programmes and additional surveillance set out in Annex XIII, have been provided by the third country or territory of origin;
+- ((c)) in relation to vaccination against Newcastle disease virus, the hatching eggs have not been vaccinated against Newcastle disease virus and where the flock of origin has been vaccinated against infection with Newcastle disease virus:
+  - ((i)) guarantees have been provided by the competent authority of the third country or territory of origin that the vaccines used comply either with:
+    - the general and the specific criteria for vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV,
+
+      or
+    - the general criteria for recognised vaccines against infection with Newcastle disease virus set out in point 1 of Annex XV and the hatching eggs meet the animal health requirements set out in point 2 of Annex XV for poultry and hatching eggs originating from a third country or territory or zone thereof where vaccines used against infection with Newcastle disease virus do not meet the specific criteria set out in point 1 of Annex XV;
+  - ((ii)) the information set out in point 4 of Annex XV must be provided for the consignment;
+- ((d)) they come from flocks which have been subjected to a clinical inspection, carried out by an official veterinarian in the third country or territory or origin or zone thereof, within 24 hours prior to the time of loading of the consignments of hatching eggs for dispatch to the Union for the purpose of the detection of signs indicative of the occurrence of diseases, including the relevant listed diseases referred to in Annex I and emerging diseases and the flocks showed no disease symptoms or grounds for suspecting the presence of any of those diseases;
+- ((e)) they come from flocks which:
+  - ((i)) have been isolated on the establishment of origin for a period of at least 21 days prior to the collection of the eggs;
+  - ((ii)) were found not to be infected or showed any grounds for suspecting any infection by the following agents, in tests performed in accordance with the requirements for testing of consignments of less than 20 heads of poultry other than ratites and less than 20 hatching eggs thereof prior to the entry into the Union, set out in Annex XVII:
+    - *Salmonella* Pullorum, *Salmonella* Gallinarum and *Mycoplasma gallisepticum* in case of *Gallus gallus*,
+    - *Salmonella arizonae* (serogroup O:18(k)), *Salmonella* Pullorum, *Salmonella* Gallinarum, *Mycoplasma meleagridis* and *Mycoplasma gallisepticum* in case of *Meleagris gallopavo*,
+    - *Salmonella* Pullorum and *Salmonella* Gallinarum in case of *Numida meleagris, Coturnix coturnix, Phasianus colchicus, Perdix perdix, Anas* spp.

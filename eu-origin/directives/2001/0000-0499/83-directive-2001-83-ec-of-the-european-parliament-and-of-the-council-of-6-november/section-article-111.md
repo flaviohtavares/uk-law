@@ -1,0 +1,81 @@
+---
+title: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, section Article 111
+act: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use
+section: Article 111
+status: revised
+text_date: '2019-07-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2001/83/section/Article 111
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, section Article 111
+
+> Text as at 2019-07-26.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Article 111.** 1.[^c000011] The competent authority of the Member State concerned shall, in cooperation with the Agency, ensure that the legal requirements governing medicinal products are complied with, by means of inspections, if necessary unannounced, and, where appropriate, by asking an Official Medicines Control Laboratory or a laboratory designated for that purpose to carry out tests on samples. This cooperation shall consist in sharing information with the Agency on both inspections that are planned and that have been conducted. Member States and the Agency shall cooperate in the coordination of inspections in third countries. The inspections shall include but not be limited to the ones mentioned in paragraphs 1a to 1f.
+
+1a. Manufacturers, located in the Union or in third countries, and wholesale distributors of medicinal products shall be subject to repeated inspections.
+
+1b. The competent authority of the Member State concerned shall have a system of supervision including by inspections at an appropriate frequency based on risk, at the premises of the manufacturers, importers, or distributors of active substances, located on its territory, and effective follow-up thereof.
+
+Whenever it considers that there are grounds for suspecting non-compliance with the legal requirements laid down in this Directive, including the principles and guidelines of good manufacturing practice and good distribution practices referred to in point (f) of Article 46 and in Article 47, the competent authority may carry out inspections at the premises of:
+
+- (a) manufacturers or distributors of active substances located in third countries;
+- (b) manufacturers or importers of excipients.
+
+1c. Inspections referred to in paragraphs 1a and 1b may also be carried out in the Union and in third countries at the request of a Member State, the Commission or the Agency.
+
+1d. Inspections may also take place at the premises of marketing authorisation holders and of brokers of medicinal products.
+
+1e. In order to verify whether the data submitted in order to obtain a conformity certificate comply with the monographs of the European Pharmacopoeia, the standardisation body of the nomenclatures and the quality norms within the meaning of the Convention relating to the elaboration of the European Pharmacopoeia (the European Directorate for the Quality of Medicines and Healthcare) may ask the Commission or the Agency to request such an inspection when the starting material concerned is the subject of a European Pharmacopoeia monograph.
+
+1f. The competent authority of the Member State concerned may carry out inspections of starting material manufacturers at the specific request of the manufacturer.
+
+1g. Inspections shall be carried out by officials representing the competent authority who shall be empowered to:
+
+- (a) inspect the manufacturing or commercial establishments of manufacturers of medicinal products, of active substances or of excipients, and any laboratories employed by the holder of the manufacturing authorisation to carry out checks pursuant to Article 20;
+- (b) take samples including with a view to independent tests being carried out by an Official Medicines Control Laboratory or a laboratory designated for that purpose by a Member State;
+- (c) examine any documents relating to the object of the inspection, subject to the provisions in force in the Member States on 21 May 1975 placing restrictions on these powers with regard to the description of the manufacturing method;
+- (d) inspect the premises, records, documents and pharmacovigilance system master file of the marketing authorisation holder or any firms employed by the marketing authorisation holder to perform the activities described in Title IX.
+
+1h. Inspections shall be carried out in accordance with the guidelines referred to in Article 111a.
+
+2. Member States shall take all appropriate steps to ensure that the manufacturing processes used in the manufacture of immunological products are properly validated and attain batch-to-batch consistency.
+
+3. After every inspection as referred to in paragraph 1, the competent authority shall report on whether the inspected entity complies with the principles and guidelines of good manufacturing practice and good distribution practices referred to in Articles 47 and 84, as applicable, or on whether the marketing authorisation holder complies with the requirements laid down in Title IX.
+
+The competent authority which carried out the inspection shall communicate the content of those reports to the inspected entity.
+
+Before adopting the report, the competent authority shall give the inspected entity concerned the opportunity to submit comments.
+
+4. Without prejudice to any arrangements which may have been concluded between the Union and third countries, a Member State, the Commission or the Agency may require a manufacturer established in a third country to submit to an inspection as referred to in this Article.
+
+5. Within 90 days of an inspection as referred to in paragraph 1, a certificate of good manufacturing practice or good distribution practices shall, when applicable, be issued to the inspected entity if the outcome of the inspection shows that it complies with the principles and guidelines of good manufacturing practice or good distribution practices as provided for by Union legislation.
+
+If inspections are performed as part of the certification procedure for the monographs of the European Pharmacopoeia, a certificate shall be drawn up.
+
+6. Member States shall enter the certificates of good manufacturing practice and good distribution practices which they issue in a Union database managed by the Agency on behalf of the Union. Pursuant to Article 52a(7), Member States shall also enter information in that database regarding the registration of importers, manufacturers and distributors of active substances. The database shall be publicly accessible.
+
+7.[^c000005] If the outcome of the inspection as referred to in points (a), (b) and (c) of paragraph 1g or the outcome of an inspection of a distributor of medicinal products or active substances or a manufacturer of excipients used as starting materials *(affected by repeal, see note)*[^c000023] is that the inspected entity does not comply with the legal requirements and/or the principles and guidelines of good manufacturing practice or good distribution practices as provided for by Union law, the information shall be entered in the Union database as provided for in paragraph 6.
+
+8.[^c000009] If the outcome of the inspection referred to in point (d) of paragraph 1g is that the marketing authorisation holder does not comply with the pharmacovigilance system as described in the pharmacovigilance system master file and with Title IX, the competent authority of the Member State concerned shall bring the deficiencies to the attention of the marketing authorisation holder and give him the opportunity to submit comments.
+
+In such case the Member State concerned shall inform the other Member States, the Agency and the Commission.
+
+Where appropriate, the Member State concerned shall take the necessary measures to ensure that a marketing authorisation holder is subject to effective, proportionate and dissuasive penalties.
+
+## Annotations
+
+[^c000011]: Textual amendment: Substituted by [Directive 2011/62/EU of the European Parliament and of the Council of 8 June 2011 amending Directive 2001/83/EC on the Community code relating to medicinal products for human use, as regards the prevention of the entry into the legal supply chain of falsified medicinal products (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2011/62).
+
+[^c000005]: Textual amendment: Substituted by [Directive 2010/84/EU of the European Parliament and of the Council of 15 December 2010 amending, as regards pharmacovigilance, Directive 2001/83/EC on the Community code relating to medicinal products for human use (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2010/84).
+
+[^c000023]: Textual amendment: Deleted by [Directive 2011/62/EU of the European Parliament and of the Council of 8 June 2011 amending Directive 2001/83/EC on the Community code relating to medicinal products for human use, as regards the prevention of the entry into the legal supply chain of falsified medicinal products (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2011/62).
+
+[^c000009]: Textual amendment: Inserted by [Directive 2010/84/EU of the European Parliament and of the Council of 15 December 2010 amending, as regards pharmacovigilance, Directive 2001/83/EC on the Community code relating to medicinal products for human use (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2010/84).

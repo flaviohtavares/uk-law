@@ -1,0 +1,92 @@
+---
+title: Commission Regulation (EC) No 1804/2006 of 7 December 2006 laying down transitional measures to be adopted on account of the accession of Bulgaria and Romania in respect of the reserve drawn up in accordance with Article 46 of Regulation (EC) No 1043/2005
+id: eur/2006/1804
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2006-12-07'
+text_date: '2006-12-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2006/1804
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2006/1804/pdfs/eur_20061804_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2006/1804/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 1804/2006 of 7 December 2006 laying down transitional measures to be adopted on account of the accession of Bulgaria and Romania in respect of the reserve drawn up in accordance with Article 46 of Regulation (EC) No 1043/2005
+
+> Text as at 2006-12-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 1804/2006
+
+of 7 December 2006
+
+laying down transitional measures to be adopted on account of the accession of Bulgaria and Romania in respect of the reserve drawn up in accordance with Article 46 of Regulation (EC) No 1043/2005
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Treaty of Accession of Bulgaria and Romania,
+
+Having regard to the Act of Accession of Bulgaria and Romania, and in particular the second subparagraph of Article 41 thereof,
+
+Whereas:
+
+(1)
+
+Commission Regulation (EC) No 1043/2005 of 30 June 2005 implementing Council Regulation (EC) No 3448/93 as regards the system of granting export refunds on certain agricultural products exported in the form of goods not covered by Annex I to the Treaty, and the criteria for fixing the amount of such refunds[^f00001] provides that, other than for certain exemptions, the granting of export refunds on goods is conditional on production of a refund certificate.
+
+(2)
+
+Refund certificates are made available to operators in six tranches over the budget period, with deadlines for applications applying in respect of each tranche. In circumstances where the level of refund certificate applications for an individual tranche is less than the amount available for that tranche, operators may lodge applications on a weekly basis for refund certificates to be issued in respect of any remaining amount available for that tranche for which refund certificate applications have not yet been lodged. Refund certificates may only be issued to applicants established in the Community.
+
+(3)
+
+On the occasion of the forthcoming accession of Bulgaria and Romania operators in these States will, due to the combination of the seasonal holiday period and the moratorium on the lodging of weekly applications for refund certificates in the period from 7 January until 21 January (at the latest), have limited opportunity to apply for refund certificates valid for use in the interval between accession and early February 2007.
+
+(4)
+
+In these circumstances it is appropriate to adopt a special temporary measure exempting such operators from the requirement of presenting refund certificates in the period from 1 January 2007 to 28 February 2007.
+
+(5)
+
+Accordingly, it is appropriate to derogate from Article 47(2) of Regulation (EC) No 1043/2005 so as to enable operators in Bulgaria and Romania to qualify, in the period from 1 January 2007 to 28 February 2007, subject to the entry into force of the Act of Accession on the 1 January 2007, for the exemption provided for by Article 46 of that Regulation.
+
+(6)
+
+For administrative reasons it is appropriate that the special measures adopted under this regulation apply only in respect of qualifying applications submitted in the budget year ending 15 October 2007.
+
+(7)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee on horizontal questions concerning trade in processed agricultural products not listed in Annex I to the Treaty,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** By way of derogation from Article 47 of Regulation (EC) No 1043/2005, for the budgeting year ending 15 October 2007, the specified limit of EUR 75 000 mentioned in the first subparagraph of paragraph 2 shall not apply to applications from operators established in Bulgaria or Romania in respect of exports taking place in the period from 1 January 2007 to 28 February 2007.
+
+**Article 2.** This Regulation shall enter into force subject to and on the date of the entry into force of the Treaty of Accession of Bulgaria and Romania.
+
+It shall expire on the 16 October 2007.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 7 December 2006.
+
+*For the Commission*
+
+Günter Verheugen
+
+*Vice-President*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 172, 5.7.2005, p. 24](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.172.01.0024.01.ENG). Regulation as last amended by Regulation (EC) No 1580/2006 ([OJ L 291, 21.10.2006, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.291.01.0008.01.ENG)).

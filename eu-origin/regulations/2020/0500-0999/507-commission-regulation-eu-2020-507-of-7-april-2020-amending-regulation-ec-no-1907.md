@@ -1,0 +1,114 @@
+---
+title: Commission Regulation (EU) 2020/507 of 7 April 2020 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council as regards the percentage of registration dossiers to be selected for compliance checking (Text with EEA relevance)
+id: eur/2020/507
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2020-04-07'
+text_date: '2020-04-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/507
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2020/507/pdfs/eur_20200507_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2020/507/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EU) 2020/507 of 7 April 2020 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council as regards the percentage of registration dossiers to be selected for compliance checking (Text with EEA relevance)
+
+> Text as at 2020-04-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EU) 2020/507
+
+of 7 April 2020
+
+amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council as regards the percentage of registration dossiers to be selected for compliance checking
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC[^f00001], and in particular Article 41(7) thereof,
+
+Whereas:
+
+(1)
+
+In order to ensure that registration dossiers comply with Regulation (EC) No 1907/2006, Article 41 of that Regulation requires the European Chemicals Agency (‘the Agency’) to select a specific percentage of registration dossiers for compliance checking. This check may lead to a draft decision requiring the registrant(s) to submit any information needed to bring the registration(s) into compliance with the relevant information requirements.
+
+(2)
+
+The assessment by the Agency[^f00002] and the Commission[^f00003] concerning the operation of Regulation (EC) No 1907/2006 as well as a study conducted by the German competent authorities[^f00004] indicate that likely a significant number of the registration dossiers are non-compliant, hampering the effective achievement of the objectives of Regulation (EC) No 1907/2006.
+
+(3)
+
+In the ‘General Report on the operation of REACH and review of certain elements’, the Commission identified non-compliance of registration dossiers as an issue requiring urgent action.
+
+(4)
+
+Following the expiry of the last registration deadline, better advance planning with regard to compliance checks is possible based on improved knowledge of the actual numbers of registered substances and the dossier evaluation experience acquired by the Agency.
+
+(5)
+
+Following consultation with the Agency as reflected in the REACH evaluation Joint Action Plan[^f00005] agreed by the Commission services and ECHA, which the Council has requested in its Conclusions of 26 June 2019[^f00006], the Commission considers that in order to enhance compliance with the relevant information requirements, the minimum percentage of registration dossiers to be checked for compliance on all elements listed in Article 41(1) of Regulation (EC) No 1907/2006 should be increased from 5 % to 20 % of the total received by the Agency for each tonnage band by the 2018 deadline. Such percentage is considered realistic for the Agency in view of its resources.
+
+(6)
+
+In the Joint Action Plan agreed by the Commission services and ECHA, it has been agreed that the target of 20 % should be achieved by 31 December 2023 for registrations in tonnage bands of 100 tonnes or more per year and by 31 December 2027 for registrations in tonnage bands of less than 100 tonnes per year, submitted by the 2018 deadline.
+
+(7)
+
+Regulation (EC) No 1907/2006 should therefore be amended accordingly.
+
+(8)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Committee established under Article 133 of Regulation (EC) No 1907/2006,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** In Article 41(5) of Regulation (EC) No 1907/2006, the first and the second sentences are replaced by the following:
+
+> To check compliance of registration dossiers with this Regulation, the Agency shall select, until 31 December 2023, a percentage of those dossiers no lower than 20 % of the total received by the Agency for registrations in tonnage bands of 100 tonnes or more per year.
+>
+> The Agency shall, until 31 December 2027, also select a percentage no lower than 20 % of the total received by the Agency for registrations in tonnage bands of less than 100 tonnes per year.
+>
+> When selecting dossiers for compliance checking, the Agency shall give priority, but not exclusively, to dossiers meeting at least one of the following criteria:
+
+.
+
+**Article 2.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 7 April 2020.
+
+*For the Commission*
+
+*The President*
+
+Ursula von der Leyen
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 396, 30.12.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.396.01.0001.01.ENG).
+
+[^f00002]: Footnote: European Chemicals Agency’s annual evaluation reports and reports on the operation of the Regulation (EC) No 1907/2006: https://echa.europa.eu/about-us/the-way-we-work/plans-and-reports
+
+[^f00003]: Footnote: Communication from the Commission to the European Parliament, the Council and the European Economic and Social Committee ‘Commission General Report on the operation of REACH and review of certain elements’, COM(2018) 116 final.
+
+[^f00004]: Footnote: https://www.bfr.bund.de/cm/349/data-quality-of-environmental-endpoints-in-registrations.pdf
+
+[^f00005]: Footnote: REACH Evaluation Joint Action Plan – Ensuring compliance of REACH registrations –
+
+    https://echa.europa.eu/documents/10162/21877836/final\_echa\_com\_reach\_evaluation\_action\_plan\_en
+
+[^f00006]: Footnote: Towards a Sustainable Chemicals Policy Strategy of the Union – Council conclusions of 26 June 2019, http://data.consilium.europa.eu/doc/document/ST-10713-2019-INIT/en/pdf – point 18.

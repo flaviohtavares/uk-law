@@ -1,0 +1,124 @@
+---
+title: Commission Regulation (EU) No 583/2012 of 2 July 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of polysorbates (E 432-436) in coconut milk (Text with EEA relevance)
+id: eur/2012/583
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2012-07-02'
+text_date: '2012-07-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2012/583
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2012/583/pdfs/eur_20120583_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2012/583/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EU) No 583/2012 of 2 July 2012 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of polysorbates (E 432-436) in coconut milk (Text with EEA relevance)
+
+> Text as at 2012-07-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EU) No 583/2012
+
+of 2 July 2012
+
+amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of polysorbates (E 432-436) in coconut milk
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives[^f00001], and in particular Article 10(3) and Article 30(5) thereof,
+
+Whereas:
+
+(1)
+
+Annex II to Regulation (EC) No 1333/2008 lays down a Union list of food additives approved for use in foods and their conditions of use.
+
+(2)
+
+That list may be amended in accordance with the procedure referred to in Regulation (EC) No 1331/2008 of the European Parliament and of the Council of 16 December 2008 establishing a common authorisation procedure for food additives, food enzymes and food flavourings[^f00002].
+
+(3)
+
+Pursuant to Article 3(1) of Regulation (EC) No 1331/2008, the Union list of food additives may be updated either on the initiative of the Commission or following an application.
+
+(4)
+
+An application for authorisation of the use of polyoxyethylene sorbitan monooleate (polysorbate 80, E 433) as an emulsifier in coconut milk was submitted and has been made available to the Member States.
+
+(5)
+
+Coconut milk, which is a fruit preparation made of the internal layer below the peel of coconut together with water via homogenisation, cannot remain in the form of an emulsion without the use of an emulsifier. Polyoxyethylene sorbitan monooleate (polysorbate 80, E 433) and polysorbates (E 432-436) in general have been approved as the most effective emulsifiers used for this purpose in third countries.
+
+(6)
+
+To the group of polysorbates (E 432-436) an acceptable daily intake (ADI) value was allocated at a level of 10 mg/kg bw/day by the Scientific Committee on Food in its opinion of 8 July 1983[^f00003]. The Report from the Commission on Dietary Food Additive Intake in the European Union[^f00004] concluded that polysorbates (E 432-436) may require a more realistic intake assessment based on actual use levels of the food additives. The European Food Safety Authority (‘the Authority’) is expected to carry out that intake assessment during the re-evaluation of polysorbates (E 432-436) by the end of 2016 as foreseen by Commission Regulation (EU) No 257/2010[^f00005]. Until then, only insignificant contributors to the total intake of those substances should be examined for a potential extension of use. The expected intake of polysorbates (E 432-436) via its use in coconut milk as assessed on the basis of total market distribution data of coconut milk provided by the applicant remains far below the ADI and thus will not lead to a significant additional exposure. Coconut milk is a non-widely consumed product, which is mainly used for the preparation of Asian food and desserts. The assessed intake is negligible and much less than 1 % of ADI, which is not considered to be a significant contributor. Therefore, that particular extension of use is not considered to be of safety concern.
+
+(7)
+
+Pursuant to Article 3(2) of Regulation (EC) No 1331/2008, the Commission is to seek the opinion of the Authority in order to update the Union list of food additives set out in Annex II to Regulation (EC) No 1333/2008, except where the update in question is not liable to have an effect on human health. Since the authorisation of use of polysorbates (E 432-436) as emulsifiers in coconut milk constitutes an update of that list which is not liable to have an effect on human health, it is not necessary to seek the opinion of the Authority.
+
+(8)
+
+In Annex II to Regulation (EC) No 1333/2008 polysorbates (E 432-436) are authorised as a group, as they belong to the same chemical group of substances defined as mixtures of the partial esters of sorbitol and its mono- and dianhydrides with fatty acids. It is therefore appropriate to allow the use of all polysorbates (E 432-436) in coconut milk and not only the use of the food additive polyoxyethylene sorbitan monooleate (polysorbate 80, E 433).
+
+(9)
+
+Pursuant to the transitional provisions of Commission Regulation (EU) No 1129/2011 of 11 November 2011 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council by establishing a Union list of food additives[^f00006], Annex II establishing the Union list of food additives approved for use in foods and conditions of use applies from 1 June 2013. In order to allow the use of polysorbates (E 432-436) in coconut milk before that date, it is necessary to specify an earlier date of application with regard to that food additive.
+
+(10)
+
+Therefore, Annex II to Regulation (EC) No 1333/2008 should be amended accordingly.
+
+(11)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health and neither the European Parliament nor the Council has opposed them,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Annex II to Regulation (EC) No 1333/2008 is amended in accordance with the Annex to this Regulation.
+
+**Article 2.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 2 July 2012.
+
+*For the Commission*
+
+*The President*
+
+José Manuel Barroso
+
+## ANNEX
+
+In Part E of Annex II to Regulation (EC) No 1333/2008 the following entry is inserted in the food category 04.2.4.1 ‘Fruit and vegetable preparations excluding compote’ after the entry for E 405:
+
+> |  |  |  |  |  |  |  |
+> | --- | --- | --- | --- | --- | --- | --- |
+> |  | E 432-436 | Polysorbates | 500 | (1) | only coconut milk | Period of application:<br>From 23 July 2012 |
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 354, 31.12.2008, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.354.01.0016.01.ENG).
+
+[^f00002]: Footnote: [OJ L 354, 31.12.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.354.01.0001.01.ENG).
+
+[^f00003]: Footnote: Report of the Scientific Committee for Food concerning emulsifiers, stabilisers, thickeners and gelling agents (15th series, 1985).
+
+[^f00004]: Footnote: COM(2001) 542 final.
+
+[^f00005]: Footnote: [OJ L 80, 26.3.2010, p. 19](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.080.01.0019.01.ENG).
+
+[^f00006]: Footnote: [OJ L 295, 12.11.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.295.01.0001.01.ENG).

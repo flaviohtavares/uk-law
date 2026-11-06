@@ -1,0 +1,168 @@
+---
+title: Commission Delegated Regulation (EU) 2018/171 of 19 October 2017 on supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards for the materiality threshold for credit obligations past due (Text with EEA relevance)
+id: eur/2018/171
+type: EuropeanUnionRegulation
+category: euretained
+status: revised-with-pending-changes
+made_date: '2017-10-19'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2018/171
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2018/171/pdfs/eur_20180171_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2018/171/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2018/171 of 19 October 2017 on supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards for the materiality threshold for credit obligations past due (Text with EEA relevance)
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/eur/2018/171
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Delegated Regulation (EU) 2018/171
+
+of 19 October 2017
+
+on supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards for the materiality threshold for credit obligations past due
+
+(Text with EEA relevance)
+
+[^key-4c539885c57014869351e3525487e98f][^key-e26b51f4c00cedc28715609e17bcde3b]
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012[^f00001], and in particular the third subparagraph of Article 178(6) thereof,
+
+Whereas:
+
+(1)
+
+Since the market and economic conditions within the same jurisdiction are similar, the competent authorities should set one single threshold for the assessment of materiality of a credit obligation as referred to in Article 178(1)(b) of Regulation (EU) No 575/2013 for all institutions in their respective jurisdictions. Such a materiality threshold, that should remain consistent over time, brings the added benefit of increased comparability of capital requirements among institutions in the same jurisdiction.
+
+(2)
+
+On the one hand, the amount that can be considered material depends on the level of the overall credit obligation. On the other hand, institutions tend to consider all amounts below a certain level as immaterial, regardless of their relation to the overall credit obligation. Therefore, the materiality threshold should consist of two components; an absolute component (an absolute amount) and a relative component (the percentage of the overall credit obligation that the amount past due represents). The past due credit obligation should, as a consequence, be considered material when both the limit expressed as an absolute amount and the limit expressed as a percentage are exceeded.
+
+(3)
+
+Between various obligors, there are significant differences in average income and average amounts of credit obligations. Therefore, the materiality thresholds should be differentiated accordingly, with separate absolute components of the threshold for retail exposures and for other exposures.
+
+(4)
+
+The materiality threshold should be adapted to the local particularities of each jurisdiction. The differences in economic conditions, including the different price levels in jurisdictions, justify that the absolute component of the materiality threshold can vary from jurisdiction to jurisdiction. Such differentiation, however, is rarely justified with regard to the relative component. As a result, the relative component should in principle be the same in all jurisdictions, while some flexibility should be allowed for the absolute component. This will enable the competent authorities to set the materiality threshold at an appropriate level, up to a specified maximum, taking into account the specific conditions in their respective jurisdictions.
+
+(5)
+
+Even though the conditions for setting the materiality threshold across the different jurisdictions in the Union should be harmonised, some differences in the levels of the thresholds applicable in the different jurisdictions should be allowed to remain, reflecting different levels of risk that are perceived as reasonable by relevant competent authorities under national market specificities. The appropriate level of the materiality threshold might therefore have to be discussed in the framework of the different colleges of supervisors.
+
+(6)
+
+The materiality threshold can have a significant impact on the calculation of capital requirements and expected losses for all institutions in the relevant jurisdiction, irrespective of the method used for such calculation. For those reasons, when defining the materiality threshold, the competent authorities should take into account a variety of factors, including the specific risk characteristics of retail exposures. The specific risk characteristics for retail exposures and exposures other than retail exposures should be considered separately
+
+(7)
+
+The materiality threshold set by a competent authority of a particular jurisdiction might also have to be applied by institutions operating on a cross-border basis. The level of a threshold set by the competent authority of another jurisdiction might therefore be an important factor when a competent authority is assessing whether the level of risk reflected by a certain threshold is reasonable. Therefore, materiality thresholds defined by the competent authorities should be transparent and should be notified to the European Banking Authority (EBA) so that they can be made public.
+
+(8)
+
+The competent authorities should set the materiality threshold at a level that corresponds to the level of risk they consider reasonable. As that level of risk depends on the way the materiality threshold is applied in the default identification process, it is necessary for competent authorities when setting the threshold to make certain assumptions about how the amounts and ratios which will be compared with the absolute and relative component of the materiality threshold will be calculated and at which stage of the default identification process the materiality threshold applies. In that context, the threshold should be set in such a way that institutions are able to identify obligors that pose significantly higher risks because of partial or irregular but systematically late payments, and to identify a material credit obligation past due in a timely manner.
+
+(9)
+
+The materiality of past due credit obligations forms part of the definition of default in Article 178(1)(b) of Regulation (EU) No 575/2013. For institutions that use the Internal Ratings Based Approach (‘IRB Approach’), any change of that definition leads to material changes in the rating systems that are used for calculating own funds requirements for credit risk. Therefore, a competent authority should not change the materiality threshold unless it is inadequate due to changed market or economic conditions leading to significant distortions in the default identification processes
+
+(10)
+
+The competent authorities should be allowed to defer the application of the materiality thresholds for institutions that are required to perform material changes to their IRB models and for institutions for which the implementation of such thresholds is burdensome because their previous approach for determining the materiality of past due exposures is significantly different from those thresholds. Furthermore, for institutions using the IRB Approach but applying the Standardised Approach to part of their exposures on the basis of Article 148 or 150 of Regulation (EU) No 575/2013, the date of application of the new materiality thresholds should be aligned for all exposures of those institutions. However, to prevent excessive delays in the application of thresholds across the Union, such longer periods should be limited.
+
+(11)
+
+The competent authorities should be allowed sufficient time to perform the comprehensive analysis necessary for setting the materiality threshold at a reasonable level.
+
+(12)
+
+This Regulation is based on the draft regulatory technical standards submitted by the EBA to the Commission
+
+(13)
+
+The EBA has conducted open public consultations on the draft regulatory technical standards on which this Regulation is based, analysed the potential related costs and benefits and requested the opinion of the Banking Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council[^f00002],
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1. Conditions for setting the materiality threshold for retail exposures
+
+1. A competent authority shall set for all institutions in its jurisdiction a single materiality threshold for retail exposures.
+
+However, for institutions applying the definition of default laid down in points (a) and (b) of the first subparagraph of Article 178(1) of Regulation (EU) 575/2013 at the level of an individual credit facility, the competent authority may set a separate single materiality threshold for retail exposures.
+
+2. The materiality threshold referred to in the first subparagraph of paragraph 1 shall consist of an absolute and a relative component.
+
+The absolute component shall be expressed as a maximum amount for the sum of all amounts past due owed by an obligor to the institution, the parent undertaking of that institution or any of its subsidiaries (‘credit obligation past due’). The maximum amount shall not exceed 100 EUR or the equivalent of that amount in the relevant national currency.
+
+The relative component shall be expressed as a percentage reflecting the amount of the credit obligation past due in relation to the total amount of all on-balance sheet exposures to that obligor of the institution, the parent undertaking of that institution or any of its subsidiaries, excluding equity exposures. The percentage shall be between 0 % and 2,5 % and shall be set at 1 % whenever that percentage reflects a level of risk that the competent authority considers to be reasonable in accordance with Article 3
+
+3. The materiality threshold referred to in the second subparagraph of paragraph 1 shall be set in accordance with the conditions laid down in paragraph 2, with the only difference that ‘credit obligation past due’ and ‘total amount of all on-balance sheet exposures of the institution to that obligor, excluding equity exposures’ shall refer to the amounts of the credit obligation of the obligor that result from a single credit facility granted by the institution, the parent undertaking or any of its subsidiaries.
+
+4. When setting the materiality threshold in accordance with this Article, the competent authority shall take into account the risk characteristics of retail exposures and the specification of retail exposures as set out in Article 147 of Regulation (EU) No 575/2013 for banks applying the Internal Ratings Based Approach and in Article 123 of that Regulation for institutions that apply the Standardised Approach.
+
+5. When setting the materiality threshold in accordance with this Article, the competent authority shall assume that the obligor is defaulted when both the limit expressed as the absolute component of the materiality threshold and the limit expressed as the relative component of that threshold are exceeded either for 90 consecutive days or for 180 consecutive days, where all of the exposures included in the calculation of the credit obligation past due are secured by residential or SME commercial real estate and the 90 days have been replaced by 180 days in accordance with Article 178(1)(b) of Regulation (EU) No 575/2013 for those exposures.
+
+## Article 2. Materiality threshold for exposures other than retail exposures
+
+1. A competent authority shall set for all institutions in its jurisdiction a single materiality threshold for exposures other than retail exposures.
+
+2. The materiality threshold referred to in paragraph 1 shall be set in accordance with the conditions laid down in Article 1(2) with the only difference that the absolute component of that materiality threshold shall not exceed 500 EUR or the equivalent of that amount in the relevant national currency.
+
+3. When setting the materiality threshold in accordance with this Article, the competent authority shall take into account the risk characteristics of exposures other than retail exposures.
+
+4. When setting the materiality threshold in accordance with this Article, the competent authority shall assume that the obligor is defaulted when both the limit expressed as the absolute component of the materiality threshold and the limit expressed as the relative component of that threshold are exceeded either for 90 consecutive days or for 180 consecutive days, where the exposures included in the calculation of the credit obligation past due are exposures to a public sector entity and the 90 days have been replaced by 180 days in accordance with Article 178(1)(b) of Regulation (EU) No 575/2013 for those exposures.
+
+## Article 3. Level of risk
+
+A competent authority shall consider that a materiality threshold reflects a reasonable level of risk, pursuant to the requirements in Article 178(2)(d) of Regulation (EU) No 575/2013, where that threshold neither leads to the recognition of an excessive number of defaults that are due to other circumstances than financial difficulties of an obligor nor to significant delays in the recognition of defaults that are due to financial difficulties of an obligor.
+
+## Article 4. Notification of the materiality thresholds
+
+A competent authority shall notify EBA of the materiality thresholds set in its jurisdiction. A component authority setting the relative component of the materiality threshold at a higher or lower percentage than 1 % shall substantiate that choice to EBA.
+
+## Article 5. Updating of the materiality thresholds
+
+Where the absolute component of the materiality threshold is set in a currency other than the euro and where, due to volatility of currency exchange rates, the equivalent of that component is higher than 100 EUR for retail exposures or 500 EUR for exposures other than retail exposures, the threshold shall remain unchanged, unless the competent authority substantiates to EBA that the materiality threshold no longer reflects a level of risk that the competent authority considers to be reasonable.
+
+## Article 6. Date of application of the materiality thresholds
+
+A competent authority shall set a date for the application of the materiality threshold which may vary for different categories of institutions but which shall be no later than 31 December 2020 for institutions using the Standardised Approach laid down in Part Three, Title II, Chapter 2 of Regulation (EU) 575/2013.
+
+## Article 7. Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 7 May 2018.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 19 October 2017.
+
+*For the Commission*
+
+*The President*
+
+Jean-Claude Juncker
+
+## Annotations
+
+[^key-4c539885c57014869351e3525487e98f]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/4) (with saving on [I](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/I)P completion day by S.I. 2019/680, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^key-e26b51f4c00cedc28715609e17bcde3b]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^f00001]: Footnote: [OJ L 176, 27.6.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0001.01.ENG).
+
+[^f00002]: Footnote: Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC ([OJ L 331, 15.12.2010, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.331.01.0012.01.ENG)).

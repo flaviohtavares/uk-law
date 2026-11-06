@@ -1,0 +1,65 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 260
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 260
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 260
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 260
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 260. Parent undertakings outside the Union: verification of equivalence[^c000004]
+
+*Extent: E+W+S+N.I.*
+
+1. In the case referred to in Article 213(2)(c), the supervisory authorities concerned shall verify whether the insurance and reinsurance undertakings, the parent undertaking of which has its head office outside the Union, are subject to supervision, by a third-country supervisory authority, which is equivalent to that provided for by this Title on the supervision at the level of the group of insurance and reinsurance undertakings referred to in Article 213(2)(a) and (b).
+
+Where no delegated act has been adopted in accordance with paragraph 2, 3 or 5 of this Article, the verification shall be carried out by the supervisory authority, which would be the group supervisor if the criteria set out in Article 247(2) were to apply (the ‘ acting group supervisor ’ ), at the request of the parent undertaking or of any of the insurance and reinsurance undertakings authorised in the Union or on its own initiative. EIOPA shall assist the acting group supervisor in accordance with Article 33(2) of Regulation (EU) No 1094/2010.
+
+In so doing, that acting group supervisor shall, assisted by EIOPA, consult the other supervisory authorities concerned, before taking a decision on equivalence. That decision shall be taken in accordance with the criteria adopted in accordance with paragraph 2. The acting group supervisor shall not take any decision in relation to a third country that is in opposition to any previous decision taken vis-à-vis that third country, save where it is necessary to take into account significant changes to the supervisory regime laid down in Title I and to the supervisory regime in the third country.
+
+Where supervisory authorities disagree with the decision taken in accordance with the third subparagraph, they may refer the matter to EIOPA and request its assistance in accordance with Article 19 of Regulation (EU) No 1094/2010 within three months after notification of the decision by the acting group supervisor. In that case, EIOPA may act in accordance with the powers conferred on it by that Article.
+
+2. The Commission may adopt delegated acts in accordance with Article 301a specifying the criteria for assessing whether the prudential regime in a third country for the supervision of groups is equivalent to that laid down in this Title.
+
+3. If the criteria adopted in accordance with paragraph 2 of this Article have been fulfilled by a third country, the Commission may, in accordance with Article 301a, and assisted by EIOPA in accordance with Article 33(2) of Regulation (EU) No 1094/2010, adopt delegated acts determining that the prudential regime of that third country is equivalent to that laid down in this Title.
+
+Such a delegated act shall be regularly reviewed to take into account any changes to the prudential regime for the supervision of groups laid down in this Title, and to the prudential regime in the third country for the supervision of groups, and to any other change in regulation that may affect the decision on equivalence.
+
+EIOPA shall publish and keep up to date on its website a list of all third countries referred to in the first subparagraph.
+
+4. In the absence of a delegated act adopted by the Commission in accordance with paragraph 3 or 5 of this Article, Article 262 shall apply.
+
+5. By way of derogation from paragraph 3, and even if the criteria specified in paragraph 2 have not been fulfilled, the Commission may, for a limited period and in accordance with Article 301a, and assisted by EIOPA in accordance with Article 33(2) of Regulation (EU) No 1094/2010, adopt delegated acts determining that the prudential regime of a third country applied to undertakings the parent undertaking of which has its head office outside the Union on 1 January 2014 is temporarily equivalent to that laid down in Title I, if that third country has complied with at least the following criteria:
+
+- (a) it has given a commitment to the Union to adopt and apply a prudential regime that is capable of being assessed equivalent in accordance with paragraph 3, before the end of that limited period and to engage in the equivalence assessment process;
+- (b) it has established a work programme to fulfil the commitment under point (a);
+- (c) it has allocated sufficient resources to fulfil the commitment under point (a);
+- (d) it has a prudential regime that is risk based and establishes quantitative and qualitative solvency requirements and requirements relating to supervisory reporting and transparency and to the supervision of groups;
+- (e) it has entered into written arrangements to cooperate and exchange confidential supervisory information with EIOPA and supervisory authorities as defined in Article 13(10);
+- (f) it has an independent system of supervision;
+- (g) it has established obligations on professional secrecy for all persons acting on behalf of its supervisory authorities, in particular on the exchange of information with EIOPA and supervisory authorities as defined in Article 13(10).
+
+Any delegated acts on temporary equivalence shall take into account the reports by the Commission in accordance with Article 177(2). Those delegated acts shall be regularly reviewed, on the basis of progress reports by the relevant third country, which are presented to and assessed by the Commission annually. EIOPA shall assist the Commission in the assessment of those progress reports.
+
+EIOPA shall publish and keep up to date on its website a list of all third countries referred to in the first subparagraph.
+
+The Commission may adopt delegated acts in accordance with Article 301a further specifying the conditions laid down in the first subparagraph. Delegated acts may also cover powers for supervisory authorities to impose additional supervisory reporting requirements during the period of temporary equivalence.
+
+6. The limited period referred to in paragraph 5 shall end on 31 December 2020 or on the date on which, in accordance with paragraph 3, the prudential regime of that third country has been deemed to be equivalent to that laid down in this Title, whichever is the earlier.
+
+That period may be extended by a maximum of one more year, where such time is necessary for EIOPA and the Commission to carry out the assessment of equivalence for the purposes of paragraph 3.
+
+7. Where a delegated act determining that the prudential regime of a third country is temporarily equivalent is adopted in accordance with paragraph 5, Member States shall apply Article 261, unless there is an insurance or reinsurance undertaking situated in a Member State which has a balance sheet total that exceeds the balance sheet total of the parent undertaking situated outside the Union. In that case, the task of the group supervisor shall be exercised by the acting group supervisor.
+
+## Annotations
+
+[^c000004]: Textual amendment: Substituted by [Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)](https://www.legislation.gov.uk/eudr/2014/51).

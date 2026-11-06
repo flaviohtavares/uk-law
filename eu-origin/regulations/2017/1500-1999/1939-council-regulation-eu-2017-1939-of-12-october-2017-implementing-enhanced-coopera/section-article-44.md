@@ -1,0 +1,46 @@
+---
+title: Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’), section Article 44
+act: Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’)
+section: Article 44
+status: revised
+text_date: '2017-10-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2017/1939/section/Article 44
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’), section Article 44
+
+> Text as at 2017-10-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 44. Case management system
+
+*Extent: E+W+S+N.I.*
+
+1. The EPPO shall establish a case management system, which shall be held and managed in accordance with the rules established in this Regulation and in the internal rules of procedure of the EPPO.
+
+2. The purpose of the case management system shall be to:
+
+- (a) support the management of investigations and prosecutions conducted by the EPPO, in particular by managing internal information workflows and by supporting investigative work in cross-border cases;
+- (b) ensure secure access to information on investigations and prosecutions at the Central Office and by the European Delegated Prosecutors;
+- (c) allow for the cross-referencing of information and the extraction of data for operational analysis and statistical purposes;
+- (d) facilitate monitoring to ensure that the processing of operational personal data is lawful and complies with the relevant provisions of this Regulation.
+
+3. The case management system may be linked to the secure telecommunications connection referred to in Article 9 of Council Decision 2008/976/JHA[^f00023].
+
+4. The case management system shall contain:
+
+- (a) a register of information obtained by the EPPO in accordance with Article 24, including any decisions in relation to that information,
+- (b) an index of all case files;
+- (c) all information from the case files stored electronically in the case management system in accordance with Article 45(3).
+
+The index shall not contain any operational personal data other than data needed to identify cases or establish cross-links between different case files.
+
+5. For the processing of operational personal data, the EPPO may only establish automated data files other than case files in accordance with this Regulation and with the internal rules of procedure of the EPPO. Details on such other automated data files shall be notified to the European Data Protection Supervisor.
+
+## Annotations
+
+[^f00023]: Footnote: Council Decision 2008/976/JHA of 16 December 2008 on the European Judicial Network ([OJ L 348, 24.12.2008, p. 130](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.348.01.0130.01.ENG)).

@@ -1,0 +1,93 @@
+---
+title: Commission Regulation (EC) No 1893/2004 of 29 October 2004 amending Regulation (EC) No 815/2004 laying down transitional measures as regards exports of milk and milk products pursuant to Regulation (EC) No 174/1999, by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union
+id: eur/2004/1893
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2004-10-29'
+text_date: '2004-10-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2004/1893
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2004/1893/pdfs/eur_20041893_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2004/1893/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 1893/2004 of 29 October 2004 amending Regulation (EC) No 815/2004 laying down transitional measures as regards exports of milk and milk products pursuant to Regulation (EC) No 174/1999, by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union
+
+> Text as at 2004-10-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 1893/2004
+
+of 29 October 2004
+
+amending Regulation (EC) No 815/2004 laying down transitional measures as regards exports of milk and milk products pursuant to Regulation (EC) No 174/1999, by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia,
+
+Having regard to the Act of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular the first paragraph of Article 41 thereof,
+
+Whereas:
+
+(1)
+
+Commission Decision 2004/280/EC of 19 March 2004 laying down transitional measures for the marketing of certain products of animal origin obtained in the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia[^f00001] (hereinafter the new Member States) provides for measures to facilitate the transition from the existing regime in the new Member States to that resulting from the application of the Community veterinary legislation. According to Article 3 of that Decision, Member States shall authorise, from 1 May to 31 August 2004, the trade in products which are obtained before the accession date in establishments in the new Member States, authorised to export milk products to the Community, provided that the products bear the Community export health mark of the establishment concerned and are accompanied by a document which certifies that they were produced in conformity with that Decision.
+
+(2)
+
+Consequently, Commission Regulation (EC) No 815/2004[^f00002] provided that products, which meet the requirements of Article 3 of Decision 2004/280/EC and are authorised to be traded for the period from 1 May to 31 August 2004, should be eligible for an export refund.
+
+(3)
+
+Commission Decision 2004/700/EC provides for an extension of the provisions of Article 3 of Decision 2004/280/EC until 30 April 2005. It is appropriate therefore to further extend the provisions of Article 1 of Regulation (EC) No 815/2004.
+
+(4)
+
+Regulation (EC) No 815/2004 should be amended accordingly.
+
+(5)
+
+In order to avoid any inconsistency for operators, this Regulation should apply as from 1 September 2004.
+
+(6)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Regulation (EC) No 815/2004 is amended as follows:
+
+- 1.. In the first paragraph of Article 1, the date ‘31 August 2004’ is replaced by the date ‘30 April 2005’.
+- 2.. In the second paragraph of Article 2, the date ‘31 August 2004’ is replaced by the date ‘30 April 2005’.
+
+**Article 2.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+It shall apply to export declarations accepted from 1 September 2004 to 30 April 2005.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 29 October 2004.
+
+*For the Commission*
+
+Franz Fischler
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 87, 25.3.2004, p. 60](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.087.01.0060.01.ENG). Decision amended by Decision 2004/700/EC ([OJ L 318, 19.10.2004, p. 21](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.318.01.0021.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 153, 30.4.2004, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.153.01.0017.01.ENG). Corrected version in [OJ L 231, 30.6.2004, p. 14](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.231.01.0014.01.ENG).

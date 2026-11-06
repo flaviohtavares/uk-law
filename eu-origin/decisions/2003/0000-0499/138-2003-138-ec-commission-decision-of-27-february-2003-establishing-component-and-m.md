@@ -1,0 +1,40 @@
+---
+title: '2003/138/EC: Commission Decision of 27 February 2003 establishing component and material coding standards for vehicles pursuant to Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles (Text with EEA relevance) (notified under document number C(2003) 620)'
+id: eudn/2003/138
+type: EuropeanUnionDecision
+category: euretained
+status: repealed
+made_date: null
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2003/138
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2003/138/pdfs/eudn_20030138_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2003/138/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# 2003/138/EC: Commission Decision of 27 February 2003 establishing component and material coding standards for vehicles pursuant to Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles (Text with EEA relevance) (notified under document number C(2003) 620)
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+2003/138/EC: Commission Decision
+
+of 27 February 2003 establishing component and material coding standards for vehicles pursuant to Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles (Text with EEA relevance) (notified under document number C(2003) 620) (revoked)
+
+[^key-52ad4a8a4abde353f8e31e018f2ae256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Articles.**[^key-52ad4a8a4abde353f8e31e018f2ae256] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-52ad4a8a4abde353f8e31e018f2ae256]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

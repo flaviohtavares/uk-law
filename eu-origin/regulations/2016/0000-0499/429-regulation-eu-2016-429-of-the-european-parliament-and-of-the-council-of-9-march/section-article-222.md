@@ -1,0 +1,41 @@
+---
+title: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 222
+act: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)
+section: Article 222
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2016/429/section/Article 222
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 222
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 222. General animal health obligations for operators and delegated acts
+
+*Extent: E+W+S+N.I.*
+
+1. Operators shall take appropriate preventive measures to ensure that, during all stages of the production, processing and distribution of products of animal origin from aquatic animals, other than live aquatic animals, those products do not cause the spread of:
+
+- (a) listed diseases as referred to in point (d) of Article 9(1), taking into account the health status of the place of production, processing and destination;
+- (b) emerging diseases.
+
+2. Operators shall ensure that products of animal origin from aquatic animals, other than live aquatic animals, do not come from establishments or food businesses, or are not obtained from animals which come from such establishments or food businesses, that are subject to:
+
+- (a) emergency measures as provided for in Articles 257 and 258 and any rules adopted pursuant to Article 259, unless derogations have been provided for in respect of those rules in Part VII (Articles 257 to 262);
+- (b) movement restrictions applicable to aquatic animals and products of animal origin from aquatic animals, as provided for in point (c) of Article 32(1), point (e) of Article 55(1), Article 56, point (a) of Article 61(1), Article 62(1), point (c) of Article 65(1), point (b) of Article 70(1), point (a) of Article 74(1), point (b) of Article 76(2), Article 76(3), Article 79, Article 81 and Article 82(2) and (3) and the rules adopted pursuant to Article 55(2), Articles 63 and 67, and Articles 70(3), 71(3), 74(4), 76(5) and 83(2), unless derogation from those movement restrictions have been provided for in those rules.
+
+3. The Commission shall adopt delegated acts in accordance with Article 264 concerning detailed requirements supplementing those referred to in paragraph 2 of this Article in relation to movements of products of animal origin from aquatic animals other than live aquatic animals, as regards:
+
+- (a) the diseases, and species of aquatic animals concerned by the diseases, for which emergency measures or movement restrictions as referred to in paragraph 2 of this Article apply;
+- (b) the types of products of animal origin from aquatic animals;
+- (c) the risk-mitigation measures applied to the products of animal origin from aquatic animals at the places of origin and destination;
+- (d) the intended use of the products of animal origin from aquatic animals;
+- (e) the place of destination of the products of animal origin from aquatic animals.
+
+4. This Article shall not apply to products of animal origin from wild aquatic animals harvested or caught for direct human consumption.

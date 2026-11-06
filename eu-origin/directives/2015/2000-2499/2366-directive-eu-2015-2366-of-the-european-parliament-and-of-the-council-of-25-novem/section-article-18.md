@@ -1,0 +1,42 @@
+---
+title: Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance), section Article 18
+act: Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance)
+section: Article 18
+status: revised
+text_date: '2015-12-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2015/2366/section/Article 18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance), section Article 18
+
+> Text as at 2015-12-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 18. Activities
+
+*Extent: E+W+S+N.I.*
+
+1. Apart from the provision of payment services, payment institutions shall be entitled to engage in the following activities:
+
+- (a) the provision of operational and closely related ancillary services such as ensuring the execution of payment transactions, foreign exchange services, safekeeping activities, and the storage and processing of data;
+- (b) the operation of payment systems, without prejudice to Article 35;
+- (c) business activities other than the provision of payment services, having regard to applicable Union and national law.
+
+2. Where payment institutions engage in the provision of one or more payment services, they may hold only payment accounts which are used exclusively for payment transactions.
+
+3. Any funds received by payment institutions from payment service users with a view to the provision of payment services shall not constitute a deposit or other repayable funds within the meaning of Article 9 of Directive 2013/36/EU, or electronic money as defined in point (2) of Article 2 of Directive 2009/110/EC.
+
+4. Payment institutions may grant credit relating to payment services as referred to in point (4) or (5) of Annex I only if all of the following conditions are met:
+
+- (a) the credit shall be ancillary and granted exclusively in connection with the execution of a payment transaction;
+- (b) notwithstanding national rules on providing credit by credit cards, the credit granted in connection with a payment and executed in accordance with Article 11(9) and Article 28 shall be repaid within a short period which shall in no case exceed 12 months;
+- (c) such credit shall not be granted from the funds received or held for the purpose of executing a payment transaction;
+- (d) the own funds of the payment institution shall at all times and to the satisfaction of the supervisory authorities be appropriate in view of the overall amount of credit granted.
+
+5. Payment institutions shall not conduct the business of taking deposits or other repayable funds within the meaning of Article 9 of Directive 2013/36/EU.
+
+6. This Directive shall be without prejudice to Directive 2008/48/EC, other relevant Union law or national measures regarding conditions for granting credit to consumers not harmonised by this Directive that comply with Union law.

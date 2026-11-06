@@ -1,0 +1,37 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 162
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 162
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 162
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 162
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 162. Principle of authorisation and conditions
+
+*Extent: E+W+S+N.I.*
+
+1. Member States shall make access to the business referred to in the first subparagraph of Article 2(1) by any undertaking with a head office outside the Community subject to an authorisation.
+
+2. A Member State may grant an authorisation where the undertaking fulfils at least the following conditions:
+
+- (a) it is entitled to pursue insurance business under its national law;
+- (b) it establishes a branch in the territory of the Member State in which authorisation is sought;
+- (c) it undertakes to set up at the place of management of the branch accounts specific to the business which it pursues there, and to keep there all the records relating to the business transacted;
+- (d) it designates a general representative, to be approved by the supervisory authorities;
+- (e) it possesses in the Member State in which authorisation is sought assets of an amount equal to at least one half of the absolute floor prescribed in Article 129(1)(d) in respect of the Minimum Capital Requirement and deposits one fourth of that absolute floor as security;
+- (f) it undertakes to cover the Solvency Capital Requirement and the Minimum Capital Requirement in accordance with the requirements referred to in Articles 100 and 128;
+- (g) it communicates the name and address of the claims representative appointed in each Member State other than the Member State in which the authorisation is sought where the risks to be covered are classified under class 10 of Part A of Annex I, other than carrier’s liability;
+- (h) it submits a scheme of operations in accordance with the provisions in Article 163;
+- (i) it fulfils the governance requirements laid down in Chapter IV, Section 2.
+
+3. For the purposes of this Chapter, ‘branch’ means a permanent presence in the territory of a Member State of an undertaking referred to in paragraph 1, which receives authorisation in that Member State and which pursues insurance business.

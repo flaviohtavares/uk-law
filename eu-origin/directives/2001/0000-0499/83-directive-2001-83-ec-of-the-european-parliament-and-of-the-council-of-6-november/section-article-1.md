@@ -1,0 +1,249 @@
+---
+title: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, section Article 1
+act: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use
+section: Article 1
+status: revised
+text_date: '2019-07-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2001/83/section/Article 1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, section Article 1
+
+> Text as at 2019-07-26.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Article 1.** For the purposes of this Directive, the following terms shall bear the following meanings:
+
+[^c000001]
+
+2.[^c000002] Medicinal product
+
+- ((a)) Any substance or combination of substances presented as having properties for treating or preventing disease in human beings; or
+- ((b)) Any substance or combination of substances which may be used in or administered to human beings either with a view to restoring, correcting or modifying physiological functions by exerting a pharmacological, immunological or metabolic action, or to making a medical diagnosis.
+
+3\. Substance
+
+Any matter irrespective of origin which may be:
+
+- human, e.g.
+
+  human blood and human blood products;
+- animal, e.g.
+
+  micro-organisms, whole animals, parts of organs, animal secretions, toxins, extracts, blood products;
+- vegetable, e.g.
+
+  micro-organisms, plants, parts of plants, vegetable secretions, extracts;
+- chemical, e.g.
+
+  elements, naturally occurring chemical materials and chemical products obtained by chemical change or synthesis.
+
+3a.[^c000003] Active substance
+
+Any substance or mixture of substances intended to be used in the manufacture of a medicinal product and that, when used in its production, becomes an active ingredient of that product intended to exert a pharmacological, immunological or metabolic action with a view to restoring, correcting or modifying physiological functions or to make a medical diagnosis.
+
+3b. Excipient
+
+Any constituent of a medicinal product other than the active substance and the packaging material.
+
+4\. Immunological medicinal product
+
+Any medicinal product consisting of vaccines, toxins, serums or allergen products:
+
+- ((a)) vaccines, toxins and serums shall cover in particular:
+  - ((i)) agents used to produce active immunity, such as cholera vaccine, BCG, polio vaccines, smallpox vaccine;
+  - ((ii)) agents used to diagnose the state of immunity, including in particular tuberculin and tuberculin PPD, toxins for the Schick and Dick Tests, brucellin;
+  - ((iii)) agents used to produce passive immunity, such as diphtheria antitoxin, anti-smallpox globulin, antilymphocytic globulin;
+- ((b)) ‘allergen product’ shall mean any medicinal product which is intended to identify or induce a specific acquired alteration in the immunological response to an allergizing agent.
+
+4a.[^c000004] *Advanced therapy medicinal product*
+
+A product as defined in Article 2 of Regulation (EC) No 1394/2007 of the European Parliament and of the Council of 13 November 2007 on advanced therapy medicinal products [^f00020] .
+
+5\. Homeopathic medicinal product
+
+Any medicinal product prepared from substances called homeopathic stocks in accordance with a homeopathic manufacturing procedure described by the European Pharmacopoeia or, in the absence thereof, by the pharmacopoeias currently used officially in the Member States. A homeopathic medicinal product may contain a number of principles.
+
+6\. Radiopharmaceutical
+
+Any medicinal product which, when ready for use, contains one or more radionuclides (radioactive isotopes) included for a medicinal purpose.
+
+7\. Radionuclide generator
+
+Any system incorporating a fixed parent radionuclide from which is produced a daughter radionuclide which is to be obtained by elution or by any other method and used in a radiopharmaceutical.
+
+8\. Kit
+
+Any preparation to be reconsitituted or combined with radionuclides in the final radiopharmaceutical, usually prior to its administration.
+
+9\. Radionuclide precursor
+
+Any other radionuclide produced for the radio-labelling of another substance prior to administration.
+
+10\. Medicinal products derived from human blood or human plasma
+
+Medicinal products based on blood constitutents which are prepared industrially by public or private establishments, such medicinal products including, in particular, albumin, coagulating factors and immunoglobulins of human origin.
+
+11.[^c000005] Adverse reaction
+
+A response to a medicinal product which is noxious and unintended.
+
+12\. Serious adverse reaction
+
+An adverse reaction which results in death, is life-threatening, requires inpatient hospitalisation or prolongation of existing hospitalisation, results in persistent or significant disability or incapacity, or is a congenital anomaly/birth defect.
+
+13\. Unexpected adverse reaction
+
+An adverse reaction, the nature, severity or outcome of which is not consistent with the summary of product characteristics.
+
+[^c000006]
+
+15\. Post-authorisation safety study
+
+Any study relating to an authorised medicinal product conducted with the aim of identifying, characterising or quantifying a safety hazard, confirming the safety profile of the medicinal product, or of measuring the effectiveness of risk management measures.
+
+16\. Abuse of medicinal products
+
+Persistent or sporadic, intentional excessive use of medicinal products which is accompanied by harmful physical or psychological effets.
+
+17\. Wholesale distribution of medicinal products
+
+All activities consisting of procuring, holding, supplying or exporting medicinal products, apart from supplying medicinal products to the public. Such activities are carried out with manufacturers or their depositories, importers, other wholesale distributors or with pharmacists and persons authorized or entitled to supply medicinal products to the public in the Member State concerned.
+
+17a. Brokering of medicinal products
+
+All activities in relation to the sale or purchase of medicinal products, except for wholesale distribution, that do not include physical handling and that consist of negotiating independently and on behalf of another legal or natural person.
+
+18\. Public service obligation
+
+The obligation placed on wholesalers to guarantee permanently an adequate range of medicinal products to meet the requirements of a specific geographical area and to deliver the supplies requested within a very short time over the whole of the area in question.
+
+18a[^c000007] Representative of the marketing authorisation holder
+
+The person, commonly known as local representative, designated by the marketing authorisation holder to represent him in the Member State concerned.
+
+19\. Medicinal Prescription
+
+Any medicinal prescription issued by a professional person qualified to do so.
+
+20\. Name of the medicinal product
+
+The name, which may be either an invented name not liable to confusion with the common name, or a common or scientific name accompanied by a trade mark or the name of the marketing authorisation holder.
+
+21\. Common name
+
+The international non-proprietary name recommended by the World Health Organization, or, if one does not exist, the usual common name.
+
+22\. Strength of the medicinal product
+
+The content of the active substances expressed quantitatively per dosage unit, per unit of volume or weight according to the dosage form.
+
+23\. Immediate packaging
+
+The container or other form of packaging immediately in contact with the medicinal product.
+
+24\. Outer packaging
+
+The packaging into which is placed the immediate packaging.
+
+25\. Labelling
+
+Information on the immediate or outer packaging.
+
+26\. Package leaflet
+
+A leaflet containing information for the user which accompanies the medicinal product.
+
+26a.[^c000008] Variation or variation to the terms of a marketing authorisation
+
+An amendment to the contents of the particulars and documents referred to in:
+
+- ((a)) Article 8(3) and Articles 9 to 11 of this Directive and Annex I thereto, Article 6(2) of Regulation (EC) No 726/2004 and in Article 7 of Regulation (EC) No 1394/2007; and
+- ((b)) the terms of the decision granting the marketing authorisation for a medicinal product for human use, including the summary of the product characteristics and any conditions, obligations, or restrictions affecting the marketing authorisation, or changes to the labelling or the package leaflet related to changes to the summary of the product characteristics.
+
+27\. Agency
+
+The European Medicines Agency established by Regulation (EC) No 726/2004 [^f00021] .
+
+28\. Risks related to use of the medicinal product
+
+- any risk relating to the quality, safety or efficacy of the medicinal product as regards patients' health or public health;
+- any risk of undesirable effects on the environment.
+
+28a. Risk-benefit balance
+
+An evaluation of the positive therapeutic effects of the medicinal product in relation to the risks as defined in point 28, first indent.
+
+28b.[^c000009] Risk management system
+
+a set of pharmacovigilance activities and interventions designed to identify, characterise, prevent or minimise risks relating to a medicinal product, including the assessment of the effectiveness of those activities and interventions.
+
+28c. Risk management plan
+
+a detailed description of the risk management system.
+
+28d. Pharmacovigilance system
+
+a system used by the marketing authorisation holder and by Member States to fulfil the tasks and responsibilities listed in Title IX and designed to monitor the safety of authorised medicinal products and detect any change to their risk-benefit balance.
+
+28e. Pharmacovigilance system master file
+
+A detailed description of the pharmacovigilance system used by the marketing authorisation holder with respect to one or more authorised medicinal products.
+
+29.[^c000010] Traditional herbal medicinal product
+
+A herbal medicinal product that fulfils the conditions laid down in Article 16a(1).
+
+30\. Herbal medicinal product
+
+Any medicinal product, exclusively containing as active ingredients one or more herbal substances or one or more herbal preparations, or one or more such herbal substances in combination with one or more such herbal preparations.
+
+31\. Herbal substances
+
+All mainly whole, fragmented or cut plants, plant parts, algae, fungi, lichen in an unprocessed, usually dried, form, but sometimes fresh. Certain exudates that have not been subjected to a specific treatment are also considered to be herbal substances. Herbal substances are precisely defined by the plant part used and the botanical name according to the binomial system (genus, species, variety and author).
+
+32\. Herbal preparations
+
+Preparations obtained by subjecting herbal substances to treatments such as extraction, distillation, expression, fractionation, purification, concentration or fermentation. These include comminuted or powdered herbal substances, tinctures, extracts, essential oils, expressed juices and processed exudates.
+
+33\. Falsified medicinal product
+
+Any medicinal product with a false representation of:
+
+- ((a)) its identity, including its packaging and labelling, its name or its composition as regards any of the ingredients including excipients and the strength of those ingredients;
+- ((b)) its source, including its manufacturer, its country of manufacturing, its country of origin or its marketing authorisation holder; or
+- ((c)) its history, including the records and documents relating to the distribution channels used.
+
+This definition does not include unintentional quality defects and is without prejudice to infringements of intellectual property rights.
+
+## Annotations
+
+[^c000001]: Textual amendment: Deleted by [Directive 2004/27/EC of the European Parliament and of the Council of 31 March 2004 amending Directive 2001/83/EC on the Community code relating to medicinal products for human use](https://www.legislation.gov.uk/eudr/2004/27).
+
+[^c000002]: Textual amendment: Substituted by [Directive 2004/27/EC of the European Parliament and of the Council of 31 March 2004 amending Directive 2001/83/EC on the Community code relating to medicinal products for human use](https://www.legislation.gov.uk/eudr/2004/27).
+
+[^c000003]: Textual amendment: Inserted by [Directive 2011/62/EU of the European Parliament and of the Council of 8 June 2011 amending Directive 2001/83/EC on the Community code relating to medicinal products for human use, as regards the prevention of the entry into the legal supply chain of falsified medicinal products (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2011/62).
+
+[^c000004]: Textual amendment: Inserted by [Regulation (EC) No 1394/2007 of the European Parliament and of the Council of 13 November 2007 on advanced therapy medicinal products and amending Directive 2001/83/EC and Regulation (EC) No 726/2004 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2007/1394).
+
+[^f00020]: Footnote: [OJ L 324, 10.12.2007, p. 121](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.324.01.0121.01.ENG)[^c000004] .
+
+[^c000005]: Textual amendment: Substituted by [Directive 2010/84/EU of the European Parliament and of the Council of 15 December 2010 amending, as regards pharmacovigilance, Directive 2001/83/EC on the Community code relating to medicinal products for human use (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2010/84).
+
+[^c000006]: Textual amendment: Deleted by [Directive 2010/84/EU of the European Parliament and of the Council of 15 December 2010 amending, as regards pharmacovigilance, Directive 2001/83/EC on the Community code relating to medicinal products for human use (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2010/84).
+
+[^c000007]: Textual amendment: Inserted by [Directive 2004/27/EC of the European Parliament and of the Council of 31 March 2004 amending Directive 2001/83/EC on the Community code relating to medicinal products for human use](https://www.legislation.gov.uk/eudr/2004/27).
+
+[^c000008]: Textual amendment: Inserted by [Regulation (EU) 2019/5 of the European Parliament and of the Council of 11 December 2018 amending Regulation (EC) No 726/2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, Regulation (EC) No 1901/2006 on medicinal products for paediatric use and Directive 2001/83/EC on the Community code relating to medicinal products for human use (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/5).
+
+[^f00021]: Footnote: [OJ L 136, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.136.01.0001.01.ENG)[^c000002] .
+
+[^c000009]: Textual amendment: Inserted by [Directive 2010/84/EU of the European Parliament and of the Council of 15 December 2010 amending, as regards pharmacovigilance, Directive 2001/83/EC on the Community code relating to medicinal products for human use (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2010/84).
+
+[^c000010]: Textual amendment: Inserted by [Directive 2004/24/EC of the European Parliament and of the Council of 31 March 2004 amending, as regards traditional herbal medicinal products, Directive 2001/83/EC on the Community code relating to medicinal products for human use](https://www.legislation.gov.uk/eudr/2004/24).

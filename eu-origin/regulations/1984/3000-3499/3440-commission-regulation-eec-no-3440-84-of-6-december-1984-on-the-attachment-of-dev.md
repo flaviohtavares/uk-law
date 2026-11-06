@@ -1,0 +1,280 @@
+---
+title: Commission Regulation (EEC) No 3440/84 of 6 December 1984 on the attachment of devices to trawls, Danish seines and similar nets
+id: eur/1984/3440
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '1984-12-06'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/1984/3440
+pdf_urls:
+- http://www.legislation.gov.uk/eur/1984/3440/pdfs/eur_19843440_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/1984/3440/pdfs/eur_19843440_1989-08-14_en.pdf
+- http://www.legislation.gov.uk/eur/1984/3440/pdfs/eur_19843440_2007-02-19_en.pdf
+- http://www.legislation.gov.uk/eur/1984/3440/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EEC) No 3440/84 of 6 December 1984 on the attachment of devices to trawls, Danish seines and similar nets
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EEC) No 3440/84
+
+of 6 December 1984
+
+on the attachment of devices to trawls, Danish seines and similar nets
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 171/83 of 25 January 1983 laying down certain technical measures for the conservation of fishery resources[^f00001], as last amended by Regulation (EEC) No 2664/84[^f00002], and in particular Article 21 thereof,
+
+Whereas Article 7 of Regulation (EEC) No 171/83 prohibits the use of any device by means of which the mesh in any part of a fishing net is obstructed or otherwise effectively diminished;
+
+Whereas, having regard to Article 2 of Regulation (EEC) No 171/83, these provisions apply only to trawls, Danish seines and similar nets;
+
+Whereas Article 7 of Regulation (EEC) No 171/83 allows the attachment of devices to nets to be authorized;
+
+Whereas it is appropriate to define certain parts of a trawl;
+
+Whereas it is not necessary to prohibit the attachment of devices to trawls when fishing for species for which a minimum mesh size is not specified in Regulation (EEC) No 171/83;
+
+Whereas the use of certain devices whose effect is to reduce wear and tear on trawls, Danish seines or similar nets, to strengthen such nets, to limit the escape of catches to the forward part of such nets, or to improve their efficiency and security of use, may be authorized;
+
+Whereas the purpose of a bottom-side chafer is to protect the underside of the trawl from wear and tear;
+
+Whereas the purpose of a top-side chafer is to protect the top or side panels of the codend from wear and tear should the rear end of the trawl twist along its axis during fishing operations;
+
+Whereas the purpose of a strengthening bag is to strengthen the codend and to prevent it from bursting when filled with fish and when the trawl is hauled on board;
+
+Whereas the purpose of a chafing piece is to prevent the lifting strap from cutting the netting of the codend;
+
+Whereas the purpose of a codline is to close the codend;
+
+Whereas a limited length of the rearmost part of the codend may be folded back into the opening of the codend itself in order to assure a better closure of the codend;
+
+Whereas the purpose of a lifting strap is to make it possible to close off the rear section of the codend in order to facilitate its loading aboard;
+
+Whereas the purpose of a round strap is to limit the extension of the diameter of the codend;
+
+Whereas the purpose of a flapper is to allow catches to pass from the front to the back of the trawl but to limit their possibility of return;
+
+Whereas the purpose of a sieve netting is to catch fish, shrimps, or other species selectively;
+
+Whereas the purpose of a strengthening rope is to strengthen the trawl, or to prevent stones and debris from reaching the codend;
+
+Whereas the purpose of a torquette is to improve the closing of the codend by the codline;
+
+Whereas the purpose of a trouser codend is to reduce the risk of a total loss of catches when fishing on rough grounds;
+
+Whereas to that end, certain detailed rules concerning these devices, and in particular technical descriptions thereof, must be drawn up and the conditions subject to which they may be used must be defined;
+
+Whereas derogations to this Regulation which cover specific cases may be adopted if necessary;
+
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fishery Resources,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** For the purposes of this Regulation the word ‘trawl’ shall correspond to the terms ‘trawl, Danish seine or similar net’.
+
+**Article 2.** Technical terms which are used in this Regulation or which describe some of the devices or constructions which normally form an integral part of, or may be used with, a trawl are defined in the Annex.
+
+**Article 3.** Article 4 to 15 contain the definitions of certain devices which may be attached to trawls and which are liable to obstruct the mesh in any part of a trawl or to diminish the dimensions of the mesh, and the conditions under which they may be used.
+
+## Article 4. Bottom-side chafer
+
+1. A bottom-side chafer may be formed of any piece of canvas, netting, or any other material.
+
+2. More than one bottom-side chafer may be used at the same time and they may overlap.
+
+3. Bottom-side chafers may be attached only to the outside of the trawl and only to the lower half of any part of the trawl. They may be fastened only at their front and side edges.
+
+4. If strengthening bags or chafing pieces are used, the bottom-side chafer may be attached only outside the strengthening bags or chafing pieces and in the manner specified in paragraph 3.
+
+## Article 5. Top-side chafer
+
+1. The use of either of two types of top-side chafer designated type A and type B, is permitted.
+
+2. A type A top-side chafer may be formed of any rectangular piece of netting which has a mesh size equal to at least that of the codend. Its width shall be at least one and a half times the width of the codend which is covered, such widths to be measured perpendicular to the long axis of the codend. It may be attached by its forward and lateral edges only to the upper half of the outside of the codend. If a lifting strap is fitted to the codend, the top-side chafer shall be fastened in such a manner that it does not extend more than four meshes forward of the rear lifting strap. If a lifting strap is not fitted the top-side chafer shall be fastened in such a manner that it does not cover more than the last rear third of the codend. In both cases the top-side chafer shall end not less than four meshes in front of the codline.
+
+3. A type B top-side chafer may be formed of any rectangular piece of netting which must be made of twine which has the same diameter as that of which the codend is made and have a mesh size equal to twice that of the codend. It may completely cover the upper half of the codend *sensu stricto*; it shall be attached only its four edges in such a way that, at the points of attachment, the side of each mesh coincides with two sides of the meshes of the codend.
+
+4. It is prohibited to use more than one top-side chafer at any time.
+
+5.[^c000001] It is prohibited to use a top-side chafer together with strengthening bags except for trawls having a mesh size equal to or less than 60 millimetres.
+
+6.[^c000002] Notwithstanding paragraph 1, in the Skagerrak and in the Kattegat it is prohibited to use a type A top-side chafer.
+
+7. In the Skagerrak and the Kattegat it is prohibited to attach a top-side chafer to trawls having a mesh size larger than 70 millimetres.
+
+## Article 6. Strengthening bag[^c000003]
+
+1. A strengthening bag is a cylindrical piece of netting completely surrounding the codend of a trawl and which may be attached to the codend at intervals. It shall have at least the same dimensions (length and width) as that part of the codend to which it is attached.
+
+2. The provisions of paragraph 3 and 4 shall not apply in the Skagerrak and the Kattegat.
+
+3. It is prohibited to use more than one strengthening bag except when attached to trawls having a mesh size equal to or less than 60 millimetres, for which two strengthening bags may be used.
+
+4. The mesh size shall be equal to at least twice that of the codend. If a second strengthening bag is used, its minimum mesh size shall be 120 millimetres.
+
+5. The provisions of paragraphs 6, 7, 8 and 9 shall apply only in the Skagerrak and the Kattegat.
+
+6. It is prohibited to attach a strengthening bag to trawls having a mesh size larger than 70 millimetres.
+
+7. It is prohibited to use a strengthening bag and a top-side chafer simultaneously.
+
+8. It is prohibited to use a strengthening bag of which the mesh size is less than 80 millimetres.
+
+9. It is prohibited to use more than one strengthening bag except when attached to trawls having a mesh size of less than 16 millimetres, for which two strengthening bags may be used. Notwithstanding paragraph 8, the mesh size of one of these strengthening bags may be less than 80 millimetres but not less than 35 millimetres.
+
+10. It is prohibited to use a strengthening bag which extends forward of the codend.
+
+11. If a strengthening bag is constructed of sections of cylindrical netting, the sections may not overlap by more than four meshes at the points of attachment.
+
+12. Strengthening bags attached to trawls having a mesh size greater than 60 millimetres shall not extend more than two metres in front of the rear lifting strap.
+
+13. Notwithstanding paragraph 1, strengthening bags smaller than the dimensions of the codend may be attached to nets having a mesh size equal to or less than 60 millimetres.
+
+## Article 7. Chafing or protection piece
+
+1. A chafing or protection piece is a short cylindrical piece of netting with the same circumference as the codend or strengthening bags, if any, and which surrounds the codend or the strengthening bags at the points of attachment of the lifting strap.
+
+2. It is prohibited to use a chafing piece if a lifting strap is not attached to the codend.
+
+3. It is prohibited to use a chafing piece which is more than 1 metre long.
+
+4. The chafing piece may be attached only in front of and behind each lifting strap.
+
+5. The mesh size of the chafing piece shall be at least equal to that of the codend.
+
+6. The circumference of the chafing piece shall be compared to that of the codend or the strengthening bags, if any, by stretching them with the same force.
+
+## Article 8. Codline
+
+1. A codline is a rope making it possible to close the rear of the codend and/or strengthening bags by means of either a knot which can be easily loosened or a mechanical device.
+
+2. The codline shall be attached at a distance which is not more than 1 metre from the rear meshes of the codend, which may be folded back into the codend. However, if a ‘torquette’ complying with Article 14 is attached, the codline shall be passed through the rearmost meshes of the codend.
+
+3. More than one codline may be used per trawl. A codline may not enclose a bottom-side chafer or top-side chafer.
+
+4.[^c000004] By way of derogation of the provisions laid down in paragraph 2, it shall be permitted for vessels operating pump aboard systems to attach a codline at a distance which is no more than 10 m from the rear meshes of the codend, when fishing with trawls with a mesh size of less than 70 mm.
+
+## Article 9. Lifting straps
+
+1. A lifting strap is a piece of rope or wire loosely encircling the circumference of the codend or the strengthening bag, if any, and attached to it by means of loops or rings. More than one lifting strap may be used at any time.
+
+2. Their minimum length shall conform to the same rules as those governing round straps, as defined in Article 10, except that the lifting strap nearest to the codline may be shorter.
+
+## Article 10. Round straps
+
+1. Round straps are ring-shaped ropes which encircle the codend or the strengthening bag at regular intervals and which are attached to it.
+
+2. The length of a round strap shall be not less than 40 % of the circumference of the codend, the circumference being measured as the product of the number of meshes in the circumference of the codend multiplied by the actual mesh size, except for the rearmost round strap called ‘back strap’ if it is attached not more than 2 metres from the codline meshes, measured when the meshes are stretched lengthwise.
+
+3. The distance separating two successive round straps shall be not less than 1 metre.
+
+4. A round strap may encircle the strengthening bags but may not encircle a top-side or bottom-side chafer.
+
+## Article 11. Flapper
+
+1. A flapper is a piece of netting with a mesh size at least equal to that of the codend, fastened inside a trawl, in such a way that it allows catches to pass from the front to the rear of the trawl but limits their possibility of return.
+
+2. The flapper shall be attached at its front end and may be attached at its lateral edges inside the codend or in front of the codend.
+
+3. The distance from the point of forward attachment of the flapper to the rear end of the codend shall be at least three times the length of the flapper.
+
+4. In the Skagerrak and the Kattegat the length of the flapper shall not extend more than the length of 20 meshes into the codend.
+
+## Article 12. Sieve netting
+
+1. A sieve netting is a piece of netting with a mesh size which must be at least twice the mesh size of the codend.
+
+2. The sieve netting shall be attached inside the trawl in front of the codend and shall not extend into the codend by more than one-third of the length of the codend.
+
+It may be attached to the trawl at all edges.
+
+3. Up to two pieces of sieve netting may be used at the same time, provided that these are attached to the upper half and lower half of the trawl respectively and do not overlap at any point.
+
+## Article 13. Strengthening ropes
+
+1. A strengthening rope is any rope, other than a lacing rope, attached to any part of the trawl.
+
+2. It is prohibited to attach strengthening ropes inside the codend.
+
+## Article 14. ‘Torquette’
+
+1. A ‘torquette’ is a piece of netting fixed inside the codend at its rear end. The ‘torquette’ may be folded back into the codend.
+
+2. The mesh size shall not be less than the mesh size of the codend.
+
+3. The ‘torquette’ shall be attached at its forward edge only and no further forward than the last five meshes of the codend and shall not extend backwards more than 1 metre from the rear of the last meshes of the codend.
+
+## Article 15. Median lacing of a trouser codend
+
+Meshes may be laced together in order to build a trouser codend, by joining lengthwise the upper and lower halves of a codend.
+
+**Article 16.**[^key-b76480ca3cd6f0020b8f46caf7002b51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-b76480ca3cd6f0020b8f46caf7002b51]...
+
+## ANNEX — Definitions of certain technical terms, devices or constructions which may normally form an integral part of, or be used in conjunction with, a trawl
+
+Codend
+
+The codend is the rearmost part of the trawl, having either a cylindrical shape, i.e. the same circumference throughout or a tapering shape.
+
+The codend includes the codend *sensu stricto* and the lengthening piece.
+
+Codend sensu stricto
+
+The codend *sensu stricto* is made up of one or more panels (pieces of netting) of the same mesh size attached to one another along their sides in the axis of the trawl by a lacing where a lacing rope may also be attached.
+
+Lengthening lacing
+
+The lengthening piece is made of one or more panels located just in front of the codend *sensu stricto*.
+
+Strengthening lacing
+
+A strengthening lacing is made of rows of meshes which may be laced together in order to strengthen the netting.
+
+Lacing rope
+
+A lacing rope is defined as rope running lengthwise along the join between two pieces of netting in the direction of the axis of the trawl.
+
+Float
+
+A float is a buoyant unit used to give lift or to mark the position of a trawl, or both.
+
+Kite
+
+A kite is a unit used to give lift to the trawl.
+
+Electro-mechanical devices
+
+Devices such as transducers which are used to provide information about the position of the net in the water and the extent to which it is filled with fish.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ No L 24, 27.1.1983, p. 14](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1983.024.01.0014.01.ENG).
+
+[^f00002]: Footnote: [OJ No L 253, 21.9.1984, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1984.253.01.0001.01.ENG).
+
+[^c000001]: Textual amendment: Substituted by [Commission Regulation (EEC) No 955/87 of 1 April 1987 amending Regulation (EEC) No 3440/84 on the attachment of devices to trawls, Danish seines and similar nets](https://www.legislation.gov.uk/eur/1987/955).
+
+[^c000002]: Textual amendment: Inserted by [Commission Regulation (EEC) No 2122/89 of 14 July 1989 amending Regulation (EEC) No 3440/84 on the attachment of devices to trawls, Danish seines and similar nets](https://www.legislation.gov.uk/eur/1989/2122).
+
+[^c000003]: Textual amendment: Substituted by [Commission Regulation (EEC) No 2122/89 of 14 July 1989 amending Regulation (EEC) No 3440/84 on the attachment of devices to trawls, Danish seines and similar nets](https://www.legislation.gov.uk/eur/1989/2122).
+
+[^c000004]: Textual amendment: Inserted by [Commission Regulation (EC) No 146/2007 of 15 February 2007 amending Regulation (EEC) No 3440/84 as regards conditions for certain trawls for vessels operating pump aboard systems](https://www.legislation.gov.uk/eur/2007/146).
+
+[^key-b76480ca3cd6f0020b8f46caf7002b51]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/eur/1984/3440/article/16) and following words in Signature omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

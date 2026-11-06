@@ -1,0 +1,28 @@
+---
+title: Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance), section Article 18
+act: Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance)
+section: Article 18
+status: revised
+text_date: '2019-12-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/687/section/Article 18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance), section Article 18
+
+> Text as at 2019-12-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 18. Measures to be applied in the epidemiologically linked establishments and other locations of relevance, including means of transport
+
+*Extent: E+W+S+N.I.*
+
+1. When the tracing provided for in Article 17(1) demonstrates that animals of listed species were dispatched from or to the affected establishment during the period referred to in paragraph 2 of that Article, the competent authority shall:
+
+- (a) carry out investigations and impose restriction and biosecurity measures in accordance with Article 6, Article 7 and Article 8 in the establishments of destination or origin of the movement; or
+- (b) immediately extend the measures in Article 12 to the establishment of origin or the establishment of destination of the movement in the case that there is epidemiological evidence of spreading of the disease to, from or through that establishment.
+
+2. The competent authority shall apply the measures referred to in paragraph 1 in other establishments and locations of relevance, including means of transport, likely to be contaminated as a result of contact with animals, products, materials, substances, persons or means of transport from the affected establishment identified in the frame of the tracing referred to in Article 17 or based on any other relevant information from the epidemiological enquiry, as referred to in Article 57 of the Regulation (EU) 2016/429.

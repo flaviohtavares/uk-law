@@ -1,0 +1,183 @@
+---
+title: Council Decision (CFSP) 2019/1720 of 14 October 2019 concerning restrictive measures in view of the situation in Nicaragua
+id: eudn/2019/1720
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2019-10-14'
+text_date: '2020-10-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2019/1720
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2019/1720/pdfs/eudn_20191720_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2019/1720/pdfs/eudn_20191720_2020-05-04_en.pdf
+- http://www.legislation.gov.uk/eudn/2019/1720/pdfs/eudn_20191720_2020-10-14_en.pdf
+- http://www.legislation.gov.uk/eudn/2019/1720/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision (CFSP) 2019/1720 of 14 October 2019 concerning restrictive measures in view of the situation in Nicaragua
+
+> Text as at 2020-10-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision (CFSP) 2019/1720
+
+of 14 October 2019
+
+concerning restrictive measures in view of the situation in Nicaragua
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1)
+
+On 21 January 2019, the Council adopted conclusions in which it firmly condemned the repression of the press and civil society as well as the use of anti-terrorist laws to repress dissenting opinions in Nicaragua. The Council emphasised that, since April 2018, demonstrations have been brutally repressed by security forces and pro-government armed groups, leading to several hundred dead and injured and the arrest of hundreds of citizens with widespread irregularities and arbitrariness in detention and judicial procedures. It recalled the need to ensure accountability for all crimes committed since April 2018, whoever the perpetrators. It urged the Nicaraguan government to re-engage in a process of meaningful and results-oriented national dialogue, including on the adoption of electoral reforms.
+
+(2)
+
+The Council conclusions underlined the readiness of the Union to use all its policy instruments to contribute to a peaceful negotiated way out of the current crisis and to react to a further deterioration of human rights and the rule of law in Nicaragua.
+
+(3)
+
+The Council remains deeply concerned about the continuing deterioration of human rights, democracy and the rule of law in Nicaragua.
+
+(4)
+
+In that context, targeted restrictive measures should be imposed against persons and entities responsible for serious human rights violations or abuses or for the repression of civil society and democratic opposition in Nicaragua, as well as persons and entities whose actions, policies or activities otherwise undermine democracy and the rule of law in Nicaragua, and persons associated with them.
+
+(5)
+
+Further Union action is needed in order to implement certain measures,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** 1. Member States shall take the measures necessary to prevent the entry into, or transit through, their territories of natural persons:
+
+- (a) responsible for serious human rights violations or abuses or for the repression of civil society and democratic opposition in Nicaragua;
+- (b) whose actions, policies or activities otherwise undermine democracy or the rule of law in Nicaragua;
+- (c) associated with those referred to in points (a) and (b);
+
+as listed in the Annex.
+
+2. Paragraph 1 shall not oblige a Member State to refuse its own nationals entry into its territory.
+
+3. Paragraph 1 shall be without prejudice to the cases where a Member State is bound by an obligation of international law, namely:
+
+- (a) as a host country of an international intergovernmental organisation;
+- (b) as a host country to an international conference convened by, or under the auspices of, the United Nations;
+- (c) under a multilateral agreement conferring privileges and immunities; or
+- (d) pursuant to the 1929 Treaty of Conciliation (Lateran Pact) concluded by the Holy See (Vatican City State) and Italy.
+
+4. Paragraph 3 shall be considered as applying also in cases where a Member State is host country of the Organisation for Security and Cooperation in Europe (OSCE).
+
+5. A Member State that grants an exemption pursuant to paragraph 3 or 4 shall duly inform the Council in any such case.
+
+6. Member States may grant exemptions from the measures imposed under paragraph 1 where travel is justified on the grounds of urgent humanitarian need, or on grounds of attending intergovernmental meetings and those promoted or hosted by the Union, or hosted by a Member State holding the Chairmanship in office of the OSCE, where a political dialogue is conducted that directly promotes the policy objectives of restrictive measures, including promoting human rights and the rule of law in Nicaragua.
+
+7. A Member State wishing to grant exemptions referred to in paragraph 6 shall notify the Council in writing. The exemption shall be deemed to be granted unless one or more of the Council members raises an objection in writing within two working days of receiving notification of the proposed exemption. Should one or more of the Council members raise an objection, the Council, acting by a qualified majority, may decide to grant the proposed exemption.
+
+8. Where, pursuant to paragraph 3, 4, 6 or 7, a Member State authorises the entry into, or transit through, its territory of persons listed in the Annex, the authorisation shall be strictly limited to the purpose for which it is given and to the persons directly concerned thereby.
+
+**Article 2.** 1. All funds and economic resources belonging to, owned, held or controlled by, natural or legal persons, entities or bodies:
+
+- (a) responsible for serious human rights violations or abuses or for the repression of civil society and democratic opposition in Nicaragua;
+- (b) whose actions, policies or activities otherwise undermine democracy or the rule of law in Nicaragua;
+- (c) associated with the natural or legal persons, entities or bodies referred to in points (a) and (b);
+
+as listed in the Annex, shall be frozen.
+
+2. No funds or economic resources shall be made available directly or indirectly to or for the benefit of the natural or legal persons, entities or bodies listed in the Annex.
+
+3. The competent authority of a Member State may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as it deems appropriate, after having determined that the funds or economic resources concerned are:
+
+- (a) necessary to satisfy the basic needs of the natural or legal persons, entities or bodies listed in the Annex and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+- (b) intended exclusively for the payment of reasonable professional fees and the reimbursement of incurred expenses associated with the provision of legal services;
+- (c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;
+- (d) necessary for extraordinary expenses, provided that the competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation; or
+- (e) to be paid into or from an account of a diplomatic or consular mission or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic or consular mission or international organisation.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph.
+
+4. By way of derogation from paragraph 1, the competent authorities of a Member State may authorise the release of certain frozen funds or economic resources, provided that the following conditions are met:
+
+- (a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in paragraph 1 was listed in the Annex, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+- (b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+- (c) the decision is not for the benefit of a natural or legal person, entity or body listed in the Annex; and
+- (d) recognition of the decision is not contrary to public policy in the Member State concerned.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph.
+
+5. Paragraph 1 shall not prevent a natural or legal person, entity or body listed in the Annex from making a payment due under a contract or agreement entered into, or an obligation that arose, prior to the date on which such natural or legal person, entity or body was listed therein, provided that the Member State concerned has determined that the payment is not, directly or indirectly, received by a natural or legal person, entity or body referred to in paragraph 1.
+
+6. Paragraph 2 shall not apply to the addition to frozen accounts of:
+
+- (a) interest or other earnings on those accounts;
+- (b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which those accounts became subject to the measures provided for in paragraphs 1 and 2; or
+- (c) payments due under judicial, administrative or arbitral decisions rendered in the Union or enforceable in the Member State concerned;
+
+provided that any such interest, other earnings and payments remain subject to the measures provided for in paragraph 1.
+
+**Article 3.** By way of derogation from Article 2(1) and (2), the competent authorities of a Member State may authorise the release of certain frozen funds or economic resources belonging to a natural or legal person, entity or body listed in the Annex, or the making available of certain funds or economic resources to a natural or legal person, entity or body listed in the Annex, under such conditions as the competent authorities deem appropriate, after having determined that the provision of such funds or economic resources is necessary for humanitarian purposes, such as delivering or facilitating the delivery of assistance, including medical supplies, food or the transfer of humanitarian workers and related assistance or for evacuations from Nicaragua.
+
+**Article 4.** 1. The Council, acting by unanimity upon a proposal from a Member State or from the High Representative of the Union for Foreign Affairs and Security Policy (the "High Representative"), shall establish and amend the list set out in the Annex.
+
+2. The Council shall communicate the decision referred to in paragraph 1, including the grounds for the listing, to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing such person, entity or body with an opportunity to present observations.
+
+3. Where observations are submitted, or where substantial new evidence is presented, the Council shall review the decision referred to in paragraph 1 and inform the natural or legal person, entity or body concerned accordingly.
+
+**Article 5.** 1. The Annex shall include the grounds for listing the natural and legal persons, entities and bodies referred to in Article 1(1) and Article 2(1).
+
+2. The Annex shall also contain available information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include names and aliases, date and place of birth, nationality, passport and identity card numbers, gender, address if known, and function or profession. With regard to legal persons, entities or bodies, such information may include names, place and date of registration, registration number and place of business.
+
+**Article 6.** 1. The Council and the High Representative shall process personal data in order to carry out their tasks under this Decision, in particular:
+
+- (a) as regards the Council, for preparing and making amendments to the Annex;
+- (b) as regards the High Representative, for preparing amendments to the Annex.
+
+2. The Council and the High Representative may process, where applicable, relevant data relating to criminal offences committed by listed natural persons, and to criminal convictions or security measures concerning such persons, only to the extent that such processing is necessary for the preparation of the Annex.
+
+3. For the purposes of this Decision, the Council and the High Representative are designated as ‘controller’ within the meaning of Article 3(8) of Regulation (EU) 2018/1725 of the European Parliament and of the Council[^f00001], in order to ensure that the natural persons concerned can exercise their rights under Regulation (EU) 2018/1725.
+
+**Article 7.** No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Decision, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, in particular a claim for extension or payment of a bond, guarantee or indemnity, in particular a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+- ((a)) natural or legal persons, entities or bodies listed in the Annex;
+- ((b)) any natural or legal person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in point (a).
+
+**Article 8.** In order to maximise the impact of the measures set out in this Decision, the Union shall encourage third States to adopt restrictive measures similar to those provided for in this Decision.
+
+**Article 9.**[^c000001] This Decision shall apply until 15 October 2021 and shall be kept under constant review. It shall be renewed, or amended as appropriate, if the Council deems that its objectives have not been met.
+
+**Article 10.** This Decision shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+## ANNEX
+
+**List of natural and legal persons, entities and bodies referred to in Articles 1 and 2**
+
+|  | Name | Identifying information | Reasons | Date of listing |
+| --- | --- | --- | --- | --- |
+| 1.[^c000002] | Ramón Antonio AVELLÁN MEDAL | Date of birth: 11 November 1954<br>Place of birth: Jinotepe, Nicaragua<br>Passport number: A0008696<br>Issued: 17 October 2011<br>Expires: 17 October 2021<br>Gender: male | Deputy Director-General of the Nicaraguan National Police (NNP) and former chief of the police in Masaya. Responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua, including by coordinating the repression of protesters in Masaya in 2018. | 4.5.2020 |
+| 2\. | Sonia CASTRO GONZÁLEZ | Date of birth: 29 September 1967<br>Place of birth: Carazo, Nicaragua<br>Passport number: A00001526<br>Issued: 19 November 2019<br>Expires: 19 November 2028<br>ID number: 0422909670000N<br>Gender: female | Special advisor to the President of Nicaragua on health issues and former Minister of Health. Responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua, including by hindering access to emergency medical assistance for injured civilians involved in demonstrations and ordering hospital staff to report demonstrators who have been brought to hospital by the police. | 4.5.2020 |
+| 3\. | Francisco Javier DÍAZ MADRIZ | Date of birth: 3 August 1961<br>Gender: male | General Director of the Nicaraguan National Police (NNP) since 23 August 2018 and former Deputy General Director of NNP. Responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua, including by leading police forces committing violence against civilians, including excessive use of force, arbitrary arrests and detentions and torture. | 4.5.2020 |
+| 4\. | Néstor MONCADA LAU | Date of birth: 2 March 1954<br>Gender: male | Personal advisor to the President of Nicaragua on national security matters. In this capacity, he has been directly involved in and responsible for decision-making on national security matters and the establishment of repressive policies carried out by the State of Nicaragua against people taking part in demonstrations, opposition representatives and journalists in Nicaragua from April 2018 onwards. | 4.5.2020 |
+| 5\. | Luís PÉREZ OLIVAS | Date of birth: 8 January 1956<br>Gender: male | General Commissioner and Legal Assistance Main Officer (DAEJ) in the ‘ El Chipote ’ penitentiary centre. Responsible for serious human rights violations, including torture, use of extensive force, mistreatment of detainees and other forms of degrading treatment. | 4.5.2020 |
+| 6\. | Justo PASTOR URBINA | Date of birth: 29 January 1956<br>Gender: male | Head of Police Special Operations Unit (DOEP). He has been directly involved in the implementation of repressive policies against demonstrators and the opposition in Nicaragua, particularly in Managua. In this context, he is responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua. | 4.5.2020 |
+
+## Annotations
+
+[^f00001]: Footnote: Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC ([OJ L 295, 21.11.2018, p. 39](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.295.01.0039.01.ENG)).
+
+[^c000001]: Textual amendment: Substituted by [Council Decision (CFSP) 2020/1467 of 12 October 2020 amending Decision (CFSP) 2019/1720 concerning restrictive measures in view of the situation in Nicaragua](https://www.legislation.gov.uk/eudn/2020/1467).
+
+[^c000002]: Textual amendment: Inserted by [Council Decision (CFSP) 2020/607 of 4 May 2020 amending Decision (CFSP) 2019/1720 concerning restrictive measures in view of the situation in Nicaragua](https://www.legislation.gov.uk/eudn/2020/607).

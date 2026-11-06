@@ -1,0 +1,82 @@
+---
+title: Council Regulation (EU) 2015/229 of 12 February 2015 amending Regulation (EU) No 267/2012 concerning restrictive measures against Iran
+id: eur/2015/229
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2015-02-12'
+text_date: '2015-02-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2015/229
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2015/229/pdfs/eur_20150229_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2015/229/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EU) 2015/229 of 12 February 2015 amending Regulation (EU) No 267/2012 concerning restrictive measures against Iran
+
+> Text as at 2015-02-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Regulation (EU) 2015/229
+
+of 12 February 2015
+
+amending Regulation (EU) No 267/2012 concerning restrictive measures against Iran
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 215 thereof,
+
+Having regard to Council Decision 2010/413/CFSP of 26 July 2010 concerning restrictive measures against Iran and repealing Common Position 2007/140/CFSP[^f00001],
+
+Having regard to the joint proposal from the High Representative of the Union for Foreign Affairs and Security Policy and the European Commission,
+
+Whereas:
+
+(1)
+
+Council Regulation (EU) No 267/2012[^f00002] gives effect to the measures provided for in Decision 2010/413/CFSP.
+
+(2)
+
+On 12 February 2015, the Council adopted Decision (CFSP) 2015/236[^f00003] amending Decision 2010/413/CFSP in order to extend, until 30 June 2015, the exemption provided for in Article 20(14) of that Decision concerning acts and transactions carried out with regard to listed entities in so far as necessary for the execution of obligations provided for in contracts concluded before 23 January 2012 or in ancillary contracts necessary for the execution of such obligations where the supply of Iranian crude oil and petroleum products or the proceeds derived from their supply are for the reimbursement of outstanding amounts with respect to contracts concluded before 23 January 2012 to persons or entities within the territories of Member States or under their jurisdiction, where those contracts specifically provide for such reimbursements.
+
+(3)
+
+That measure falls within the scope of the Treaty and regulatory action at the level of the Union is therefore necessary in order to implement it, in particular with a view to ensuring its uniform application by economic operators in all Member States.
+
+(4)
+
+Regulation (EU) No 267/2012 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** In point (b) of Article 28a of Regulation (EU) No 267/2012, the words ‘until 31 December 2014’ are replaced by the words ‘until 30 June 2015’.
+
+**Article 2.** This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 12 February 2015.
+
+*For the Council*
+
+*The President*
+
+E. Rinkēvičs
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 195, 27.7.2010, p. 39](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.195.01.0039.01.ENG).
+
+[^f00002]: Footnote: Council Regulation (EU) No 267/2012 of 23 March 2012 concerning restrictive measures against Iran and repealing Regulation (EU) No 961/2010 ([OJ L 88, 24.3.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.088.01.0001.01.ENG)).
+
+[^f00003]: Footnote: See page 18 of this Official Journal.

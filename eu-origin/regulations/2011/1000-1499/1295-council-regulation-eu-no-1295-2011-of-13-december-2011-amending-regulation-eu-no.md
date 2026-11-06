@@ -1,0 +1,95 @@
+---
+title: Council Regulation (EU) No 1295/2011 of 13 December 2011 amending Regulation (EU) No 1284/2009 imposing certain specific restrictive measures in respect of the Republic of Guinea
+id: eur/2011/1295
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2011-12-13'
+text_date: '2011-12-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2011/1295
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2011/1295/pdfs/eur_20111295_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2011/1295/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EU) No 1295/2011 of 13 December 2011 amending Regulation (EU) No 1284/2009 imposing certain specific restrictive measures in respect of the Republic of Guinea
+
+> Text as at 2011-12-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Regulation (EU) No 1295/2011
+
+of 13 December 2011
+
+amending Regulation (EU) No 1284/2009 imposing certain specific restrictive measures in respect of the Republic of Guinea
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 215(1) thereof,
+
+Having regard to Council Decision 2011/706/CFSP of 27 October 2011 amending Decision 2010/638/CFSP concerning restrictive measures against the Republic of Guinea[^f00001],
+
+Having regard to the joint proposal from the High Representative of the Union for Foreign Affairs and Security Policy and the Commission,
+
+Whereas:
+
+(1)
+
+Council Regulation (EU) No 1284/2009[^f00002] imposed certain specific restrictive measures in respect of the Republic of Guinea, in accordance with Council Common Position 2009/788/CFSP[^f00003] (later replaced by Council Decision 2010/638/CFSP[^f00004]), in response to the violent crackdown by security forces on political demonstrators in Conakry on 28 September 2009.
+
+(2)
+
+Decision 2010/638/CFSP was amended by Decision 2011/706/CFSP in order to modify, inter alia, the scope of the measures relating to military equipment and equipment capable of being used for internal repression.
+
+(3)
+
+Certain aspects of those measures fall within the scope of the Treaty and, therefore, notably with a view to ensuring their uniform application by economic operators in all Member States, regulatory action at the level of the Union is necessary in order to implement them.
+
+(4)
+
+Regulation (EU) No 1284/2009 should be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Paragraph (1) of Article 4 of Regulation (EU) No 1284/2009 is replaced by the following:
+
+> 1. By way of derogation from Articles 2 and 3, the competent authorities of the Member States as indicated in the websites listed in Annex III, may in duly justified cases authorise:
+>
+> - (a) the sale, supply, transfer or export of equipment which might be used for internal repression, provided it is intended solely for humanitarian or protective use, or for institution-building programmes of the United Nations (UN) and the European Union, or for European Union and UN crisis management operations;
+> - (b) the sale, supply, transfer or export of non-lethal equipment which might be used for internal repression, provided it is intended solely to enable the police and gendarmerie of the Republic of Guinea to use only appropriate and proportionate force while maintaining public order;
+> - (c) the provision of financing, financial assistance, technical assistance, brokering services and other services related to equipment or to programmes and operations referred to in points (a) and (b);
+> - (d) the provision of financing, financial assistance, technical assistance, brokering services and other services related to non-lethal military equipment intended solely for humanitarian or protective use, for institution-building programmes of the UN and the European Union, or for European Union and UN crisis management operations;
+> - (e) the provision of financing, financial assistance, technical assistance, brokering services and other services related to non-lethal military equipment intended solely to enable the police and gendarmerie of the Republic of Guinea to use only appropriate and proportionate force while maintaining public order;
+> - (f) provision of financing, financial assistance, technical assistance, brokering services and other services related to non-combat vehicles which have been manufactured or fitted with materials to provide ballistic protection, intended solely for protective use of personnel of the European Union and its Member States in the Republic of Guinea.
+
+.
+
+**Article 2.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 13 December 2011.
+
+*For the Council*
+
+*The President*
+
+M. Cichocki
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 281, 28.10.2011, p. 28](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.281.01.0028.01.ENG).
+
+[^f00002]: Footnote: [OJ L 346, 23.12.2009, p. 26](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.346.01.0026.01.ENG).
+
+[^f00003]: Footnote: [OJ L 281, 28.10.2009, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.281.01.0007.01.ENG).
+
+[^f00004]: Footnote: [OJ L 280, 26.10.2010, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.280.01.0010.01.ENG).

@@ -1,0 +1,98 @@
+---
+title: Commission Regulation (EC) No 2647/98 of 9 December 1998 laying down detailed rules for the application of Council Regulation (EC) No 2330/98 providing for an offer of compensation to certain producers of milk and milk products temporarily restricted in carrying out their trade and establishing the form for applications for compensation
+id: eur/1998/2647
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '1998-12-09'
+text_date: '1998-12-09'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/1998/2647
+pdf_urls:
+- http://www.legislation.gov.uk/eur/1998/2647/pdfs/eur_19982647_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/1998/2647/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 2647/98 of 9 December 1998 laying down detailed rules for the application of Council Regulation (EC) No 2330/98 providing for an offer of compensation to certain producers of milk and milk products temporarily restricted in carrying out their trade and establishing the form for applications for compensation
+
+> Text as at 1998-12-09.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 2647/98
+
+of 9 December 1998
+
+laying down detailed rules for the application of Council Regulation (EC) No 2330/98 providing for an offer of compensation to certain producers of milk and milk products temporarily restricted in carrying out their trade and establishing the form for applications for compensation
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 2330/98 of 22 October 1998 providing for an offer of compensation to certain producers of milk and milk products temporarily restricted in carrying out their trade[^f00001], and in particular Articles 9 and 16 thereof,
+
+Whereas, pursuant to Article 9 of Regulation (EC) No 2330/98, applications for compensation must be addressed by the producers concerned to the competent authority designated for that purpose in each Member State, using a standard form; whereas such forms must be drawn up to serve as working documents for the competent authorities, each of those authorities having the right, having regard to the differences in administrative requirements, to adapt the content;
+
+Whereas, pursuant to Article 16 of that Regulation, the Commission was instructed to adopt detailed rules for its application and, in particular, the provisions regarding payment of the costs of the agents of the producers in question;
+
+Whereas it is necessary to take account in the compensation offer of the fees of agents incurred by producers in pursuing their claims against the Community institutions prior to the entry into force of Regulation (EC) No 2330/98; whereas the reasons which led the Council to determine that the compensation should be calculated on a flat-rate basis apply also with regard to the costs of agents; whereas, moreover, a single agent has frequently represented a large number of producers; whereas therefore the reimbursement of fees on a flat-rate basis is considered appropriate;
+
+Whereas those producers who brought proceedings before the Court of First Instance will have incurred higher agents' fees and should therefore receive a higher flat-rate amount; whereas in certain specific cases the possibility should also be foreseen to reimburse costs in excess of the flat-rate amount;
+
+Whereas it is considered appropriate to introduce, by way of receipt in full and final settlement, a single document for the whole of the Community, without prejudice to the Commission's right to adjust the wording thereof in respect of a Member State if necessary;
+
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** The form referred to in Article 9 of Regulation (EC) No 2330/98 shall be as set out in Annex I.
+
+The competent authority may adapt the form to take account of information already at its disposal, or in order to obtain additional information or evidence necessary for the purpose of implementing the provisions of Regulation (EC) No 2330/98, and in particular Article 5(3) and (4) thereof.
+
+**Article 2.** The costs incurred by a producer in respect of payment of an agent who has acted in his name and on his behalf in dealing with the Community institutions shall be reimbursed on a flat-rate basis at the rate of 0,5 % of the amount of the compensation referred to in Article 10 of Regulation (EC) No 2330/98, subject to a minimum of ECU 500 in the case of producers who have brought proceedings against the Community in the Court of First Instance, and a minimum of ECU 250 in other cases.
+
+The reimbursement shall be made by the competent authority only on request by the producer in the form referred to in Article 1 and upon presentation of the bill for the agent's fees.
+
+However, the sum paid to the producer may not exceed the amount shown on the bill and each producer may claim only the fees of one agent.
+
+**Article 3.** Notwithstanding the provisions of Article 2, in those cases which have been the subject of a ruling by the Court of First Instance on the issue of the liability of the Community Institutions, the amount of costs may be agreed directly between the Community Institutions and the agents of the producers concerned.
+
+**Article 4.** For the purposes of this Regulation, a body which renders services solely against payment of dues shall not be considered an agent.
+
+**Article 5.** Subject to verifying that the agent's bill concerns costs relating to services performed prior to the entry into force of Regulation (EC) No 2330/98, the competent authority shall indicate and include in the compensation offer made to the producer the amount determined in accordance with Article 2 or, where appropriate, the amount agreed in accordance with Article 3 and notified to the competent authority.
+
+Articles 11 and 12 of Regulation (EC) No 2330/98 shall also apply to the aforementioned sum.
+
+**Article 6.** The statement of receipt in full and final settlement referred to in Article 13(3) of Regulation (EC) No 2330/98 shall be made on the standard form in Annex II.
+
+At the request of a Member State, the Commission may decide to alter the standard form in respect of that Member State in order to take account of specific relevant national provisions.
+
+**Article 7.** This Regulation shall enter into force on the third day following its publication in the *Official Journal of the European Communities.*
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 9 December 1998.
+
+*For the Commission*
+
+Franz Fischler
+
+*Member of the Commission*
+
+## ANNEX I
+
+[image: see source](https://www.legislation.gov.uk/eur/1998/2647/images/eur_19982647_1998-12-09_en_001) [image: see source](https://www.legislation.gov.uk/eur/1998/2647/images/eur_19982647_1998-12-09_en_002) [image: see source](https://www.legislation.gov.uk/eur/1998/2647/images/eur_19982647_1998-12-09_en_003)
+
+## ANNEX II
+
+[image: see source](https://www.legislation.gov.uk/eur/1998/2647/images/eur_19982647_1998-12-09_en_004)
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 291, 30. 10. 1998, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.291.01.0004.01.ENG).

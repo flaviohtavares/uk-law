@@ -1,0 +1,1283 @@
+---
+title: Commission Implementing Decision (EU) 2019/666 of 25 April 2019 amending the Annex to Implementing Decision 2014/709/EU concerning animal health control measures relating to African swine fever in certain Member States (notified under document C(2019) 3253) (Text with EEA relevance)
+id: eudn/2019/666
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2019-04-25'
+text_date: '2019-04-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2019/666
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2019/666/pdfs/eudn_20190666_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2019/666/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Decision (EU) 2019/666 of 25 April 2019 amending the Annex to Implementing Decision 2014/709/EU concerning animal health control measures relating to African swine fever in certain Member States (notified under document C(2019) 3253) (Text with EEA relevance)
+
+> Text as at 2019-04-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Decision (EU) 2019/666
+
+of 25 April 2019
+
+amending the Annex to Implementing Decision 2014/709/EU concerning animal health control measures relating to African swine fever in certain Member States
+
+*(notified under document C(2019) 3253)*
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Directive 89/662/EEC of 11 December 1989 concerning veterinary checks in intra-Community trade with a view to the completion of the internal market[^f00001], and in particular Article 9(4) thereof,
+
+Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary checks applicable in intra-Union trade in certain live animals and products with a view to the completion of the internal market[^f00002], and in particular Article 10(4) thereof,
+
+Having regard to Council Directive 2002/99/EC of 16 December 2002 laying down the animal health rules governing the production, processing, distribution and introduction of products of animal origin for human consumption[^f00003], and in particular Article 4(3) thereof,
+
+Whereas:
+
+(1)
+
+Commission Implementing Decision 2014/709/EU[^f00004] lays down animal health control measures in relation to African swine fever in certain Member States, where there have been confirmed cases of that disease in domestic or feral pigs (the Member States concerned). The Annex to that Implementing Decision demarcates and lists certain areas of the Member States concerned in Parts I to IV thereof, differentiated by the level of risk based on the epidemiological situation as regards that disease. The Annex to Implementing Decision 2014/709/EU has been amended several times to take account of changes in the epidemiological situation in the Union as regards African swine fever that need to be reflected in that Annex. The Annex to Implementing Decision 2014/709/EU was last amended by Commission Implementing Decision (EU) 2019/617[^f00005], following instances of African swine fever in Lithuania and Poland.
+
+(2)
+
+Since the date of adoption of Implementing Decision (EU) 2019/617, there have been further instances of African swine fever in domestic pigs in Romania that also need to be reflected in the Annex to Implementing Decision 2014/709/EU.
+
+(3)
+
+In April 2019, an outbreak of African swine fever in domestic pigs was observed in the county of Argeș in Romania in an area currently listed in Part I of the Annex to Implementing Decision 2014/709/EU. This outbreak of African swine fever in domestic pigs constitutes an increased level of risk which should be reflected in that Annex. Accordingly, this area of Romania affected by African swine fever should be listed in Part III of the Annex to Implementing Decision 2014/709/EU instead of in Part I thereof.
+
+(4)
+
+In order to take account of recent developments in the epidemiological evolution of African swine fever in the Union, and in order to combat the risks associated with the spread of that disease in a proactive manner, a new high-risk area of a sufficient size should be demarcated for Romania and duly listed in Part III of the Annex to Implementing Decision 2014/709/EU. The Annex to Implementing Decision 2014/709/EU should therefore be amended accordingly.
+
+(5)
+
+The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** The Annex to Implementing Decision 2014/709/EU is replaced by the text set out in the Annex to this Decision.
+
+**Article 2.** This Decision is addressed to the Member States.
+
+Done at Brussels, 25 April 2019.
+
+*For the Commission*
+
+Jyrki Katainen
+
+*Vice-President*
+
+## ANNEX
+
+The Annex to Implementing Decision 2014/709/EU is replaced by the following:
+
+> ANNEX
+>
+> **PART I**
+>
+> 1\.
+>
+> **Belgium**
+>
+> The following areas in Belgium:
+>
+> - in Luxembourg province:
+>   - the area is delimited clockwise by:
+>   - Frontière avec la France,
+>   - Rue Mersinhat,
+>   - La N818 jusque son intersection avec la N83,
+>   - La N83 jusque son intersection avec la N884,
+>   - La N884 jusque son intersection avec la N824,
+>   - La N824 jusque son intersection avec Le Routeux,
+>   - Le Routeux,
+>   - Rue d'Orgéo,
+>   - Rue de la Vierre,
+>   - Rue du Bout-d'en-Bas,
+>   - Rue Sous l'Eglise,
+>   - Rue Notre-Dame,
+>   - Rue du Centre,
+>   - La N845 jusque son intersection avec la N85,
+>   - La N85 jusque son intersection avec la N40,
+>   - La N40 jusque son intersection avec la N802,
+>   - La N802 jusque son intersection avec la N825,
+>   - La N825 jusque son intersection avec la E25-E411,
+>   - La E25-E411 jusque son intersection avec la N40,
+>   - N40: Burnaimont, Rue de Luxembourg, Rue Ranci, Rue de la Chapelle,
+>   - Rue du Tombois,
+>   - Rue Du Pierroy,
+>   - Rue Saint-Orban,
+>   - Rue Saint-Aubain,
+>   - Rue des Cottages,
+>   - Rue de Relune,
+>   - Rue de Rulune,
+>   - Route de l'Ermitage,
+>   - N87: Route de Habay,
+>   - Chemin des Ecoliers,
+>   - Le Routy,
+>   - Rue Burgknapp,
+>   - Rue de la Halte,
+>   - Rue du Centre,
+>   - Rue de l'Eglise,
+>   - Rue du Marquisat,
+>   - Rue de la Carrière,
+>   - Rue de la Lorraine,
+>   - Rue du Beynert,
+>   - Millewée,
+>   - Rue du Tram,
+>   - Millewée,
+>   - N4: Route de Bastogne, Avenue de Longwy, Route de Luxembourg,
+>   - Frontière avec le Grand-Duché de Luxembourg,
+>   - Frontière avec la France,
+>   - La N87 jusque son intersection avec la N871 au niveau de Rouvroy,
+>   - La N871 jusque son intersection avec la N88,
+>   - La N88 jusque son intersection avec la rue Baillet Latour,
+>   - La rue Baillet Latour jusque son intersection avec la N811,
+>   - La N811 jusque son intersection avec la N88,
+>   - La N88 jusque son intersection avecla N883 au niveau d'Aubange,
+>   - La N883 jusque son intersection avec la N81 au niveau d'Aubange,
+>   - La N81 jusque son intersection avec la E25-E411,
+>   - La E25-E411 jusque son intersection avec la N40,
+>   - La N40 jusque son intersection avec la rue du Fet,
+>   - Rue du Fet,
+>   - Rue de l'Accord jusque son intersection avec la rue de la Gaume,
+>   - Rue de la Gaume jusque son intersection avec la rue des Bruyères,
+>   - Rue des Bruyères,
+>   - Rue de Neufchâteau,
+>   - Rue de la Motte,
+>   - La N894 jusque son intersection avec la N85,
+>   - La N85 jusque son intersection avec la frontière avec la France.
+>
+> 2\.
+>
+> **Bulgaria**
+>
+> The following areas in Bulgaria:
+>
+> - in Varna the whole region excluding the villages covered in Part II;
+> - in Silistra region:
+>   - whole municipality of Glavinitza,
+>   - whole municipality of Tutrakan,
+>   - whithinmunicipality of Dulovo:
+>     - Boil,
+>     - Vokil,
+>     - Grancharovo,
+>     - Doletz,
+>     - Oven,
+>     - Okorsh,
+>     - Oreshene,
+>     - Paisievo,
+>     - Pravda,
+>     - Prohlada,
+>     - Ruyno,
+>     - Sekulovo,
+>     - Skala,
+>     - Yarebitsa,
+>   - within municipality of Sitovo:
+>     - Bosna,
+>     - Garvan,
+>     - Irnik,
+>     - Iskra,
+>     - Nova Popina,
+>     - Polyana,
+>     - Popina,
+>     - Sitovo,
+>     - Yastrebna,
+>   - within municipality of Silistra:
+>     - Vetren,
+> - in Dobrich region:
+>   - whole municipality of Baltchik,
+>   - wholemunicipality of General Toshevo,
+>   - whole municipality of Dobrich,
+>   - whole municipality of Dobrich-selska (Dobrichka),
+>   - within municipality of Krushari:
+>     - Severnyak,
+>     - Abrit,
+>     - Dobrin,
+>     - Alexandria,
+>     - Polkovnik Dyakovo,
+>     - Poruchik Kardzhievo,
+>     - Zagortzi,
+>     - Zementsi,
+>     - Koriten,
+>     - Krushari,
+>     - Bistretz,
+>     - Efreytor Bakalovo,
+>     - Telerig,
+>     - Lozenetz,
+>     - Krushari,
+>     - Severnyak,
+>     - Severtsi,
+>   - within municipality of Kavarna:
+>     - Krupen,
+>     - Belgun,
+>     - Bilo,
+>     - Septemvriytsi,
+>     - Travnik,
+>   - whole municipality of Tervel, except Brestnitsa and Kolartzi,
+> - in Ruse region:
+>   - within municipality of Slivo pole:
+>     - Babovo,
+>     - Brashlen,
+>     - Golyamo vranovo,
+>     - Malko vranovo,
+>     - Ryahovo,
+>     - Slivo pole,
+>     - Borisovo,
+>   - within municipality of Ruse:
+>     - Sandrovo,
+>     - Prosena,
+>     - Nikolovo,
+>     - Marten,
+>     - Dolno Ablanovo,
+>     - Ruse,
+>     - Chervena voda,
+>     - Basarbovo,
+>   - within municipality of Ivanovo:
+>     - Krasen,
+>     - Bozhichen,
+>     - Pirgovo,
+>     - Mechka,
+>     - Trastenik,
+>   - within municipality of Borovo:
+>     - Batin,
+>     - Gorno Ablanovo,
+>     - Ekzarh Yosif,
+>     - Obretenik,
+>     - Batin,
+>   - within municipality of Tsenovo:
+>     - Krivina,
+>     - Belyanovo,
+>     - Novgrad,
+>     - Dzhulyunitza,
+>     - Beltzov,
+>     - Tsenovo,
+>     - Piperkovo,
+>     - Karamanovo,
+> - in Veliko Tarnovo region:
+>   - within municipality of Svishtov:
+>     - Sovata,
+>     - Vardim,
+>     - Svishtov,
+>     - Tzarevets,
+>     - Bulgarsko Slivovo,
+>     - Oresh,
+> - in Pleven region:
+>   - within municipality of Belene:
+>     - Dekov,
+>     - Belene,
+>     - Kulina voda,
+>     - Byala voda,
+>   - within municipality of Nikopol:
+>     - Lozitza,
+>     - Dragash voyvoda,
+>     - Lyubenovo,
+>     - Nikopol,
+>     - Debovo,
+>     - Evlogievo,
+>     - Muselievo,
+>     - Zhernov,
+>     - Cherkovitza,
+>   - within municipality of Gulyantzi:
+>     - Somovit,
+>     - Dolni vit,
+>     - Milkovitsa,
+>     - Shiyakovo,
+>     - Lenkovo,
+>     - Kreta,
+>     - Gulyantzi,
+>     - Brest,
+>     - Dabovan,
+>     - Zagrazhdan,
+>     - Gigen,
+>     - Iskar,
+>   - within municipality of Dolna Mitropoliya:
+>     - Komarevo,
+>     - Baykal,
+>     - Slavovitsa,
+>     - Bregare,
+>     - Orehovitsa,
+>     - Krushovene,
+>     - Stavertzi,
+>     - Gostilya,
+> - in Vratza region:
+>   - within municipality of Oryahovo:
+>     - Dolni vadin,
+>     - Gorni vadin,
+>     - Ostrov,
+>     - Galovo,
+>     - Leskovets,
+>     - Selanovtsi,
+>     - Oryahovo,
+>   - within municipality of Miziya:
+>     - Saraevo,
+>     - Miziya,
+>     - Voyvodovo,
+>     - Sofronievo,
+>   - within municipality of Kozloduy:
+>     - Harlets,
+>     - Glozhene,
+>     - Butan,
+>     - Kozloduy,
+> - in Montana region:
+>   - within municipality of Valtchedram:
+>     - Dolni Tzibar,
+>     - Gorni Tzibar,
+>     - Ignatovo,
+>     - Zlatiya,
+>     - Razgrad,
+>     - Botevo,
+>     - Valtchedram,
+>     - Mokresh,
+>   - within municipality Lom:
+>     - Kovatchitza,
+>     - Stanevo,
+>     - Lom,
+>     - Zemphyr,
+>     - Dolno Linevo,
+>     - Traykovo,
+>     - Staliyska mahala,
+>     - Orsoya,
+>     - Slivata,
+>     - Dobri dol,
+>   - within municipality of Brusartsi:
+>     - Vasilyiovtzi,
+>     - Dondukovo,
+> - in Vidin region:
+>   - within municipality of Ruzhintsi:
+>     - Dinkovo,
+>     - Topolovets,
+>     - Drenovets,
+>   - within municipality of Dimovo:
+>     - Artchar,
+>     - Septemvriytzi,
+>     - Yarlovitza,
+>     - Vodnyantzi,
+>     - Shipot,
+>     - Izvor,
+>     - Mali Drenovetz,
+>     - Lagoshevtzi,
+>     - Darzhanitza,
+>   - within municipality of Vidin:
+>     - Vartop,
+>     - Botevo,
+>     - Gaytantsi,
+>     - Tzar Simeonovo,
+>     - Ivanovtsi,
+>     - Zheglitza,
+>     - Sinagovtsi,
+>     - Dunavtsi,
+>     - Bukovets,
+>     - Bela Rada,
+>     - Slana bara,
+>     - Novoseltsi,
+>     - Ruptzi,
+>     - Akatsievo,
+>     - Vidin,
+>     - Inovo,
+>     - Kapitanovtsi,
+>     - Pokrayna,
+>     - Antimovo,
+>     - Kutovo,
+>     - Slanotran,
+>     - Koshava,
+>     - Gomotartsi.
+>
+> 3\.
+>
+> **Estonia**
+>
+> The following areas in Estonia:
+>
+> - Hiiu maakond.
+>
+> 4\.
+>
+> **Hungary**
+>
+> The following areas in Hungary:
+>
+> - Borsod-Abaúj-Zemplén megye 651100, 651300, 651400, 651500, 651610, 651700, 651801, 651802, 651803, 651900, 652000, 652200, 652300, 652601, 652602, 652603, 652700, 652900, 653000, 653100, 653200, 653300, 653401, 653403, 653500, 653600, 653700, 653800, 653900, 654000, 654201, 654202, 654301, 654302, 654400, 654501, 654502, 654600, 654700, 654800, 654900, 655000, 655100, 655200, 655300, 655500, 655600, 655700, 655800, 655901, 655902, 656000, 656100, 656200, 656300, 656400, 656600, 657300, 657400, 657500, 657600, 657700, 657800, 657900, 658000, 658201, 658202 és 658403 kódszámú vadgazdálkodási egységeinek teljes területe,
+> - Hajdú-Bihar megye 900750, 900850, 900860, 900930, 900950, 901050, 901150, 901250, 901260, 901270, 901350, 901450, 901551, 901560, 901570, 901580, 901590, 901650, 901660, 901750, 901950, 902050, 902150, 902250, 902350, 902450, 902850, 902860, 902950, 902960, 903050, 903150, 903250, 903350, 903360, 903370, 903450, 903550, 904450, 904460, 904550, 904650, 904750, 904760, 905450 és 905550 kódszámú vadgazdálkodási egységeinek teljes területe,
+> - Heves megye 702550, 703350, 703360, 703450, 703550, 703610, 703750, 703850, 703950, 704050, 704150, 704250, 704350, 704450, 704550, 704650, 704750, 704850, 704950, 705050, és 705350 kódszámúvadgazdálkodási egységeinek teljes területe,
+> - Jász-Nagykun-Szolnok megye 750150, 750160, 750250, 750260, 750350, 750450, 750460, 750550, 750650, 750750, 750850, 750950, 751150, 752150 és 755550 kódszámú vadgazdálkodási egységeinek teljes területe,
+> - Nógrád megye 550710, 550810, 551450, 551460, 551550, 551650, 551710, 552010, 552150, 552250, 552350, 552360, 552450, 552460, 552520, 552550, 552610, 552620, 552710, 552850, 552860, 552950, 552960, 552970, 553050, 553110, 553250, 553260, 553350, 553650, 553750, 553850, 553910 és 554050 kódszámú vadgazdálkodási egységeinek teljes területe,
+> - Pest megye 571250, 571350, 571550, 571610, 571750, 571760, 572250, 572350, 572550, 572850, 572950, 573360, 573450, 580050 és 580450 kódszámú vadgazdálkodási egységeinek teljes területe,
+> - Szabolcs-Szatmár-Bereg megye 851950, 852350, 852450, 852550, 852750, 853560, 853650, 853751, 853850, 853950, 853960, 854050, 854150, 854250, 854350, 855250, 855350, 855450, 855460, 855550, 855650, 855660, 855750, 855850, 855950, 855960, 856012, 856050, 856150, 856260, 857050, 857150, 857350 és 857450 kódszámú vadgazdálkodási egységeinek teljes területe.
+>
+> 5\.
+>
+> **Latvia**
+>
+> The following areas in Latvia:
+>
+> - Aizputes novada Aizputes, Cīravas, Lažas, Kazdangas pagasts un Aizputes pilsēta,
+> - Alsungas novads,
+> - Durbes novada Dunalkas un Tadaiķu pagasts,
+> - Kuldīgas novada Gudenieku pagasts,
+> - Pāvilostas novada Sakas pagasts un Pāvilostas pilsēta,
+> - Stopiņu novada daļa, kas atrodas uz rietumiem no autoceļa V36, P4 un P5, Acones ielas, Dauguļupes ielas un Dauguļupītes,
+> - Ventspils novada Jūrkalnes pagasts,
+> - Grobiņas novada Bārtas un Gaviezes pagasts,
+> - Rucavas novada Dunikas pagasts.
+>
+> 6\.
+>
+> **Lithuania**
+>
+> The following areas in Lithuania:
+>
+> - Jurbarko rajono savivaldybė: Smalininkų ir Viešvilės seniūnijos,
+> - Kelmės rajono savivaldybė: Kelmės, Kelmės apylinkių, Kražių, Kukečių seniūnijos dalis į pietus nuo kelio Nr. 2128 ir į vakarus nuo kelio Nr. 2106, Liolių, Pakražančio seniūnijos, Tytuvėnų seniūnijos dalis į vakarus ir šiaurę nuo kelio Nr. 157 ir į vakarus nuo kelio Nr. 2105 ir Tytuvėnų apylinkių seniūnijos dalis į šiaurę nuo kelio Nr. 157 ir į vakarus nuo kelio Nr. 2105, ir Vaiguvos seniūnijos,
+> - Pagėgių savivaldybė,
+> - Plungės rajono savivaldybė,
+> - Raseinių rajono savivaldybė: Girkalnio ir Kalnujų seniūnijos dalis į šiaurę nuo kelio Nr A1, Nemakščių, Paliepių, Raseinių, Raseinių miesto ir Viduklės seniūnijos,
+> - Rietavo savivaldybė,
+> - Skuodo rajono savivaldybė,
+> - Šilalės rajono savivaldybė,
+> - Šilutės rajono savivaldybė: Juknaičių, Kintų, Šilutės ir Usėnų seniūnijos,
+> - Tauragės rajono savivaldybė: Lauksargių, Skaudvilės, Tauragės, Mažonų, Tauragės miesto ir Žygaičių seniūnijos.
+>
+> 7\.
+>
+> **Poland**
+>
+> The following areas in Poland:
+>
+> - w województwie warmińsko-mazurskim:
+>   - gmina Ruciane – Nida i część gminy Pisz położona na południe od linii wyznaczonej przez drogę nr 58 oraz miasto Pisz w powiecie piskim,
+>   - część gminy Miłki położona na zachód od linii wyznaczonej przez drogę nr63, część gminy Ryn położona na południe od linii kolejowej łączącej miejscowości Giżycko i Kętrzyn, część gminy wiejskiej Giżycko położona na południe od linii wyznaczonej przez drogę nr 59 biegnącą od zachodniej granicy gminy do granicy miasta Giżycko, na południe od linii wyznaczonej przez drogę nr 63 biegnącą od południowej granicy gminy do granicy miasta Giżycko i na południe od granicy miasta Giżycko w powiecie giżyckim,
+>   - gminy Mikołajki, Piecki, część gminy Sorkwity położona na południe od drogi nr 16 i część gminy wiejskiej Mrągowo położona na południe od linii wyznaczonej przez drogę nr 16 biegnącą od zachodniej granicy gminy do granicy miasta Mrągowo oraz na południe od linii wyznaczonej przez drogę nr 59 biegnącą od wschodniej granicy gminy do granicy miasta Mrągowo w powiecie mrągowskim,
+>   - gminy Dźwierzuty i Świętajno w powiecie szczycieńskim,
+>   - gminy Gronowo Elbląskie, Markusy, Rychliki, część gminy Elbląg położona na wschód i na południe od granicy powiatu miejskiego Elbląg i na południe od linii wyznaczonej przez drogę nr S7 biegnącą od granicy powiatu miejskiego Elbląg do wschodniej granicy gminy Elbląg i część gminy Tolkmicko niewymieniona w części II załącznika w powiecie elbląskim oraz strefa wód przybrzeżnych Zalewu Wiślanego i Zatoki Elbląskiej,
+>   - gminy Barczewo, Biskupiec, Dobre Miasto, Dywity, Jeziorany, Jonkowo i Świątki w powiecie olsztyńskim,
+>   - gminy Łukta, Miłakowo, Małdyty, Miłomłyn i Morąg w powiecie ostródzkim,
+>   - gmina Zalewo w powiecie iławskim,
+> - w województwie podlaskim:
+>   - gminy Rudka, Wyszki, część gminy Brańsk położona na północ od linii od linii wyznaczonej przez drogę nr 66 biegnącą od wschodniej granicy gminy do granicy miasta Brańsk i miasto Brańsk w powiecie bielskim,
+>   - gmina Perlejewo w powiecie siemiatyckim,
+>   - gminy Kolno z miastem Kolno, Mały Płock i Turośl w powiecie kolneńskim,
+>   - gmina Poświętne w powiecie białostockim,
+>   - gminy Kołaki Kościelne, Rutki, Szumowo, część gminy Zambrów położona na południe od linii wyznaczonej przez drogę nr S8 i miasto Zambrów w powiecie zambrowskim,
+>   - gminy Kulesze Kościelne, Nowe Piekuty, Szepietowo, Klukowo, Ciechanowiec, Wysokie Mazowieckie z miastem Wysokie Mazowieckie, Czyżew w powiecie wysokomazowieckim,
+>   - gminy Miastkowo, Nowogród i Zbójna w powiecie łomżyńskim;
+> - w województwie mazowieckim:
+>   - gminy Ceranów, Kosów Lacki, Sabnie, Sterdyń, część gminy Bielany położona na zachód od linii wyznaczonej przez drogę nr 63 i część gminy wiejskiej Sokołów Podlaskipołożona na zachód od linii wyznaczonej przez drogę nr 63 w powiecie sokołowskim,
+>   - gminy Grębków, Korytnica, Liw, Łochów, Miedzna, Sadowne, Stoczek, Wierzbno i miasto Węgrów w powiecie węgrowskim,
+>   - gminy Rzekuń, Troszyn, Lelis, Czerwin i Goworowo w powiecie ostrołęckim,
+>   - powiat miejski Ostrołęka,
+>   - powiat ostrowski,
+>   - gminy Karniewo, Maków Mazowiecki, Rzewnie i Szelków w powiecie makowskim,
+>   - gmina Krasne w powiecie przasnyskim,
+>   - gminy Mała Wieś i Wyszogród w powiecie płockim,
+>   - gminy Ciechanów z miastem Ciechanów, Glinojeck, Gołymin – Ośrodek, Ojrzeń, Opinogóra Górna i Sońsk w powiecie ciechanowskim,
+>   - gminy Baboszewo, Czerwińsk nad Wisłą, Naruszewo, Płońsk z miastem Płońsk, Sochocin i Załuski w powiecie płońskim,
+>   - gminy Gzy, Obryte, Zatory, Pułtusk i część gminy Winnica położona na wschód od linii wyznaczonej przez drogę łączącą miejscowości Bielany, Winnica i Pokrzywnica w powiecie pułtuskim,
+>   - gminy Brańszczyk, Długosiodło, Rząśnik, Wyszków, Zabrodzie i część gminy Somianka położona na północ od linii wyznaczonej przez drogę nr 62 w powiecie wyszkowskim,
+>   - gminy Jadów, Klembów, Poświętne, Strachówkai Tłuszcz w powiecie wołomińskim,
+>   - gminy Dobre, Stanisławów, część gminy Jakubów położona na północ od linii wyznaczonej przez drogę nr 92, część gminy Kałuszyn położona na północ od linii wyznaczonej przez drogi nr 2 i 92, i część gminy Mińsk Mazowiecki położona na północ od linii wyznaczonej przez drogę nr A2 w powiecie mińskim,
+>   - gminy Garbatka Letnisko, Gniewoszów i Sieciechów w powiecie kozienickim,
+>   - gminy Baranów i Jaktorów w powiecie grodziskim,
+>   - powiat żyrardowski,
+>   - gminy Belsk Duży, Błędów, Goszczyn i Mogielnica w powiecie grójeckim,
+>   - gminy Białobrzegi, Promna, Stara Błotnica, Wyśmierzyce i część gminy Stromiec położona na południe od linii wyznaczonej przez drogę nr 48 w powiecie białobrzeskim,
+>   - gminy Jedlińsk, Jastrzębia i Pionki z miastem Pionki w powiecie radomskim,
+>   - gminy Iłów, Nowa Sucha, Rybno, część gminy Teresin położona na południe od linii wyznaczonej przez drogę nr 92, część gminy wiejskiej Sochaczew położona na południe od linii wyznaczonej przez drogę nr 92 i część miasta Sochaczew położona na południowy zachód od linii wyznaczonej przez drogi nr 50 i 92 w powiecie sochaczewskim,
+>   - gmina Policzna w powiecie zwoleńskim,
+>   - gmina Solec nad Wisłą w powiecie lipskim;
+> - w województwie lubelskim:
+>   - gminy Bełżyce, Borzechów, Bychawa, Niedrzwica Duża, Jastków, Konopnica, Głusk, Strzyżewice, Wysokie, Wojciechów i Zakrzew w powiecie lubelskim,
+>   - gminy Miączyn, Nielisz, Sitno, Stary Zamość, Komarów-Osada i część gminy wiejskiej Zamość położona na północ od linii wyznaczonej przez drogę nr 74 w powiecie zamojskim,
+>   - powiat miejski Zamość,
+>   - gminy Jeziorzany i Kock w powiecie lubartowskim,
+>   - gminy Adamów i Serokomla w powiecie łukowskim,
+>   - gminy Kłoczew, Nowodwór, Ryki, Ułęż i miasto Dęblin w powiecie ryckim,
+>   - gminy Janowiec, i część gminy wiejskiej Puławy położona na zachód od rzeki Wisły w powiecie puławskim,
+>   - gminy Chodel, Karczmiska, Łaziska, Opole Lubelskie, Poniatowa i Wilków w powiecie opolskim,
+>   - miasto Świdnik w powiecie świdnickim;
+>   - gminy Gorzków, Rudnik i Żółkiewkaw powiecie krasnostawskim,
+>   - gminy Bełżec, Jarczów, Lubycza Królewska, Rachanie, Susiec, Ulhówek i część gminy Łaszczów położona na południe od linii wyznaczonej przez drogę nr 852 w powiecie tomaszowskim,
+>   - gminy Łukowa i Obsza w powiecie biłgorajskim,
+>   - powiat miejski Lublin,
+>   - gminy Kraśnik z miastem Kraśnik, Szastarka, Trzydnik Duży, Urzędów, Wilkołaz i Zakrzówek w powiecie kraśnickim,
+>   - gminy Modliborzyce i Potok Wielki w powiecie janowskim;
+> - w województwie podkarpackim:
+>   - gminy Horyniec-Zdrój, Narol, Stary Dzików, Wielkie Oczy, Oleszyce i Lubaczów z miastem Lubaczóww powiecie lubaczowskim,
+>   - gminy Laszki i Wiązownica w powiecie jarosławskim,
+>   - gminy Pysznica, Zaleszany i miasto Stalowa Wola w powiecie stalowowolskim,
+>   - gmina Gorzyce w powiecie tarnobrzeskim;
+> - w województwie świętokrzyskim:
+>   - gminy Tarłów i Ożarów w powiecie opatowskim,
+>   - gminy Dwikozy, Zawichost i miasto Sandomierz w powiecie sandomierskim.
+>
+> 8\.
+>
+> **Romania**
+>
+> The following areas in Romania:
+>
+> - Județul Alba,
+> - Județul Cluj,
+> - Județul Harghita,
+> - Județul Hunedoara,
+> - Județul Iași,
+> - Județul Neamț,
+> - Județul Vâlcea,
+> - Restul județului Mehedinți care nu a fost inclus în Partea III cu următoarele comune:
+>   - Comuna Garla Mare,
+>   - Hinova,
+>   - Burila Mare,
+>   - Gruia,
+>   - Pristol,
+>   - Dubova,
+>   - Municipiul Drobeta Turnu Severin,
+>   - Eselnița,
+>   - Salcia,
+>   - Devesel,
+>   - Svinița,
+>   - Gogoșu,
+>   - Simian,
+>   - Orșova,
+>   - Obârșia Closani,
+>   - Baia de Aramă,
+>   - Bala,
+>   - Florești,
+>   - Broșteni,
+>   - Corcova,
+>   - Isverna,
+>   - Balta,
+>   - Podeni,
+>   - Cireșu,
+>   - Ilovița,
+>   - Ponoarele,
+>   - Ilovăț,
+>   - Patulele,
+>   - Jiana,
+>   - Iyvoru Bârzii,
+>   - Malovat,
+>   - Bălvănești,
+>   - Breznița Ocol,
+>   - Godeanu,
+>   - Padina Mare,
+>   - Corlățel,
+>   - Vânju Mare,
+>   - Vânjuleț,
+>   - Obârșia de Câmp,
+>   - Vânători,
+>   - Vladaia,
+>   - Punghina,
+>   - Cujmir,
+>   - Oprișor,
+>   - Dârvari,
+>   - Căzănești,
+>   - Husnicioara,
+>   - Poroina Mare,
+>   - Prunișor,
+>   - Tămna,
+>   - Livezile,
+>   - Rogova,
+>   - Voloiac,
+>   - Sisești,
+>   - Sovarna,
+>   - Bălăcița,
+> - Județul Gorj,
+> - Județul Suceava,
+> - Județul Mureș,
+> - Județul Sibiu,
+> - Județul Caraș-Severin.
+>
+> **PART II**
+>
+> 1\.
+>
+> **Belgium**
+>
+> The following areas in Belgium:
+>
+> - in Luxembourg province:
+>   - the area is delimited clockwise by:
+>   - La frontière avec la France au niveau de Florenville,
+>   - La N85 jusque son intersection avec la N894 au niveau de Florenville,
+>   - La N894 jusque son intersection avec larue de la Motte,
+>   - La rue de la Motte jusque son intersection avec la rue de Neufchâteau,
+>   - La rue de Neufchâteau,
+>   - La rue des Bruyères jusque son intersection avec la rue de la Gaume,
+>   - La rue de la Gaume jusque son intersection avec la rue de l'Accord,
+>   - La rue de l'Accord,
+>   - La rue du Fet,
+>   - La N40 jusque son intersection avec la E25-E411,
+>   - La E25-E411 jusque son intersection avec la N81 au niveau de Weyler,
+>   - La N81 jusque son intersection avec la N883 au niveau d'Aubange,
+>   - La N883 jusque son intersection avec la N88 au niveau d'Aubange,
+>   - La N88 jusque son intersection avec la N811,
+>   - La N811 jusque son intersection avec la rue Baillet Latour,
+>   - La rue Baillet Latour jusque son intersection avec la N88,
+>   - La N88 jusque son intersection avec la N871,
+>   - La N871 jusque son intersection avec la N87 au niveau de Rouvroy,
+>   - La N87 jusque son intersection avec la frontière avec la France.
+>
+> 2\.
+>
+> **Bulgaria**
+>
+> The following areas in Bulgaria:
+>
+> - in Varna region:
+>   - within municipality of Beloslav:
+>     - Razdelna,
+>   - within municipalty of Devnya:
+>     - Devnya,
+>     - Povelyanovo,
+>     - Padina,
+>   - within municipality of Vetrino:
+>     - Gabarnitsa,
+>   - within municipality of Provadiya:
+>     - Staroselets,
+>     - Petrov dol,
+>     - Provadiya,
+>     - Dobrina,
+>     - Manastir,
+>     - Zhitnitsa,
+>     - Tutrakantsi,
+>     - Bozveliysko,
+>     - Barzitsa,
+>     - Tchayka,
+>   - within municipality of Avren:
+>     - Trastikovo,
+>     - Sindel,
+>     - Avren,
+>     - Kazashka reka,
+>     - Yunak,
+>     - Tsarevtsi,
+>     - Dabravino,
+>   - within municipality of Dalgopol:
+>     - Tsonevo,
+>     - Velichkovo,
+>   - within municipality of Dolni chiflik:
+>     - Nova shipka,
+>     - Goren chiflik,
+>     - Pchelnik,
+>     - Venelin,
+> - in Silistra region:
+>   - within municipality of Kaynardzha:
+>     - Voynovo,
+>     - Kaynardzha,
+>     - Kranovo,
+>     - Zarnik,
+>     - Dobrudzhanka,
+>     - Golesh,
+>     - Svetoslav,
+>     - Polkovnik Cholakovo,
+>     - Kamentzi,
+>     - Gospodinovo,
+>     - Davidovo,
+>     - Sredishte,
+>     - Strelkovo,
+>     - Poprusanovo,
+>     - Posev,
+>   - within municipality of Alfatar:
+>     - Alfatar,
+>     - Alekovo,
+>     - Bistra,
+>     - Kutlovitza,
+>     - Tzar Asen,
+>     - Chukovetz,
+>     - Vasil Levski,
+>   - within municipality of Silistra:
+>     - Glavan,
+>     - Silistra,
+>     - Aydemir,
+>     - Babuk,
+>     - Popkralevo,
+>     - Bogorovo,
+>     - Bradvari,
+>     - Sratzimir,
+>     - Bulgarka,
+>     - Tsenovich,
+>     - Sarpovo,
+>     - Srebarna,
+>     - Smiletz,
+>     - Profesor Ishirkovo,
+>     - Polkovnik Lambrinovo,
+>     - Kalipetrovo,
+>     - Kazimir,
+>     - Yordanovo,
+>   - within municipality of Sitovo:
+>     - Dobrotitza,
+>     - Lyuben,
+>     - Slatina,
+>   - within municipality of Dulovo:
+>     - Varbino,
+>     - Polkovnik Taslakovo,
+>     - Kolobar,
+>     - Kozyak,
+>     - Mezhden,
+>     - Tcherkovna,
+>     - Dulovo,
+>     - Razdel,
+>     - Tchernik,
+>     - Poroyno,
+>     - Vodno,
+>     - Zlatoklas,
+>     - Tchernolik,
+> - in Dobrich region:
+>   - within municipality of Krushari:
+>     - Kapitan Dimitrovo,
+>     - Ognyanovo,
+>     - Zimnitza,
+>     - Gaber,
+>   - within municipality of Dobrich-selska:
+>     - Altsek,
+>     - Vodnyantsi,
+>     - Feldfebel Denkovo,
+>     - Hitovo,
+>   - within municipality of Tervel:
+>     - Brestnitza,
+>     - Kolartzi,
+>     - Angelariy,
+>     - Balik,
+>     - Bezmer,
+>     - Bozhan,
+>     - Bonevo,
+>     - Voynikovo,
+>     - Glavantsi,
+>     - Gradnitsa,
+>     - Guslar,
+>     - Kableshkovo,
+>     - Kladentsi,
+>     - Kochmar,
+>     - Mali izvor,
+>     - Nova Kamena,
+>     - Onogur,
+>     - Polkovnik Savovo,
+>     - Popgruevo,
+>     - Profesor Zlatarski,
+>     - Sartents,
+>     - Tervel,
+>     - Chestimenstko,
+>   - within municipality Shabla:
+>     - Shabla,
+>     - Tyulenovo,
+>     - Bozhanovo,
+>     - Gorun,
+>     - Gorichane,
+>     - Prolez,
+>     - Ezeretz,
+>     - Zahari Stoyanovo,
+>     - Vaklino,
+>     - Granichar,
+>     - Durankulak,
+>     - Krapetz,
+>     - Smin,
+>     - Staevtsi,
+>     - Tvarditsa,
+>     - Chernomortzi,
+>   - within municipality of Kavarna:
+>     - Balgarevo,
+>     - Bozhurets,
+>     - Vranino,
+>     - Vidno,
+>     - Irechek,
+>     - Kavarna,
+>     - Kamen briag,
+>     - Mogilishte,
+>     - Neykovo,
+>     - Poruchik Chunchevo,
+>     - Rakovski,
+>     - Sveti Nikola,
+>     - Seltse,
+>     - Topola,
+>     - Travnik,
+>     - Hadzhi Dimitar,
+>     - Chelopechene.
+>
+> 3\.
+>
+> **Estonia**
+>
+> The following areas in Estonia:
+>
+> - Eesti Vabariik (välja arvatud Hiiu maakond).
+>
+> 4\.
+>
+> **Hungary**
+>
+> The following areas in Hungary:
+>
+> - Heves megye 700150, 700250, 700260, 700350, 700450, 700460, 700550, 700650, 700750, 700850, 700860, 700950, 701050, 701111, 701150, 701250, 701350, 701550, 701560, 701650, 701750, 701850, 701950, 702050, 702150, 702250, 702260, 702350, 702450, 702750, 702850, 702950, 703050, 703150, 703250, 703370, 705150,705250, 705450,705510 és 705610 kódszámú vadgazdálkodási egységeinek teljes területe,
+> - Szabolcs-Szatmár-Bereg megye 850950, 851050, 851150, 851250, 851350, 851450, 851550, 851560, 851650, 851660, 851751, 851752, 852850, 852860, 852950, 852960, 853050, 853150, 853160, 853250, 853260, 853350, 853360, 853450, 853550, 854450, 854550, 854560, 854650, 854660, 854750, 854850, 854860, 854870, 854950, 855050, 855150, 856250, 856350, 856360, 856450, 856550, 856650, 856750, 856760, 856850, 856950, 857650, valamint 850150, 850250, 850260, 850350, 850450, 850550, 852050, 852150, 852250 és 857550, továbbá 850650, 850850, 851851 és 851852 kódszámú vadgazdálkodási egységeinek teljes területe,
+> - Nógrád megye 550110, 550120, 550130, 550210, 550310, 550320, 550450, 550460, 550510, 550610, 550950, 551010, 551150, 551160, 551250, 551350, 551360, 551810 és 551821 kódszámú vadgazdálkodási egységeinek teljes területe,
+> - Borsod-Abaúj-Zemplén megye 650100, 650200, 650300, 650400, 650500, 650600, 650700, 650800, 650900, 651000, 651200, 652100, 655400, 656701, 656702, 656800, 656900, 657010, 657100, 658100, 658310, 658401, 658402, 658404, 658500, 658600, 658700, 658801, 658802, 658901, 658902, 659000, 659100, 659210, 659220, 659300, 659400, 659500, 659601, 659602, 659701, 659800, 659901, 660000, 660100, 660200, 660400, 660501, 660502, 660600 és 660800, valamint 652400, 652500 és 652800 kódszámú vadgazdálkodási egységeinek teljes területe,
+> - Hajdú-Bihar megye 900150, 900250, 900350, 900450, 900550, 900650, 900660, 900670 és 901850 kódszámú vadgazdálkodási egységeinek teljes területe.
+>
+> 5\.
+>
+> **Latvia**
+>
+> The following areas in Latvia:
+>
+> - Ādažu novads,
+> - Aizputes novada Kalvenes pagasts,
+> - Aglonas novads,
+> - Aizkraukles novads,
+> - Aknīstes novads,
+> - Alojas novads,
+> - Alūksnes novads,
+> - Amatas novads,
+> - Apes novads,
+> - Auces novads,
+> - Babītes novads,
+> - Baldones novads,
+> - Baltinavas novads,
+> - Balvu novads,
+> - Bauskas novads,
+> - Beverīnas novads,
+> - Brocēnu novada Blīdenes pagasts, Remtes pagasta daļa uz austrumiem no autoceļa 1154 un P109,
+> - Burtnieku novads,
+> - Carnikavas novads,
+> - Cēsu novads,
+> - Cesvaines novads,
+> - Ciblas novads,
+> - Dagdas novads,
+> - Daugavpils novads,
+> - Dobeles novads,
+> - Dundagas novads,
+> - Durbes novada Durbes un Vecpils pagasts,
+> - Engures novads,
+> - Ērgļu novads,
+> - Garkalnes novads,
+> - Gulbenes novads,
+> - Iecavas novads,
+> - Ikšķiles novads,
+> - Ilūkstes novads,
+> - Inčukalna novads,
+> - Jaunjelgavas novads,
+> - Jaunpiebalgas novads,
+> - Jaunpils novads,
+> - Jēkabpils novads,
+> - Jelgavas novads,
+> - Kandavas novads,
+> - Kārsavas novads,
+> - Ķeguma novads,
+> - Ķekavas novads,
+> - Kocēnu novads,
+> - Kokneses novads,
+> - Krāslavas novads,
+> - Krimuldas novads,
+> - Krustpils novads,
+> - Kuldīgas novada Ēdoles, Īvandes, Padures, Rendas, Kabiles, Rumbas, Kurmāles, Pelču, Snēpeles, Turlavas, Laidu un Vārmes pagasts, Kuldīgas pilsēta,
+> - Lielvārdes novads,
+> - Līgatnes novads,
+> - Limbažu novads,
+> - Līvānu novads,
+> - Lubānas novads,
+> - Ludzas novads,
+> - Madonas novads,
+> - Mālpils novads,
+> - Mārupes novads,
+> - Mazsalacas novads,
+> - Mērsraga novads,
+> - Naukšēnu novads,
+> - Neretas novads,
+> - Ogres novads,
+> - Olaines novads,
+> - Ozolnieku novads,
+> - Pārgaujas novads,
+> - Pļaviņu novads,
+> - Preiļu novads,
+> - Priekules novads,
+> - Priekuļu novads,
+> - Raunas novads,
+> - republikas pilsēta Daugavpils,
+> - republikas pilsēta Jelgava,
+> - republikas pilsēta Jēkabpils,
+> - republikas pilsēta Jūrmala,
+> - republikas pilsēta Rēzekne,
+> - republikas pilsēta Valmiera,
+> - Rēzeknes novads,
+> - Riebiņu novads,
+> - Rojas novads,
+> - Ropažu novads,
+> - Rugāju novads,
+> - Rundāles novads,
+> - Rūjienas novads,
+> - Salacgrīvas novads,
+> - Salas novads,
+> - Salaspils novads,
+> - Saldus novada Novadnieku, Kursīšu, Zvārdes, Pampāļu, Šķēdes, Nīgrandes, Zaņas, Ezeres, Rubas, Jaunauces un Vadakstes pagasts,
+> - Saulkrastu novads,
+> - Sējas novads,
+> - Siguldas novads,
+> - Skrīveru novads,
+> - Skrundas novads,
+> - Smiltenes novads,
+> - Stopiņu novada daļa, kas atrodas uz austrumiem no autoceļa V36, P4 un P5, Acones ielas, Dauguļupes ielas un Dauguļupītes,
+> - Strenču novads,
+> - Talsu novads,
+> - Tērvetes novads,
+> - Tukuma novads,
+> - Vaiņodes novads,
+> - Valkas novads,
+> - Varakļānu novads,
+> - Vārkavas novads,
+> - Vecpiebalgas novads,
+> - Vecumnieku novads,
+> - Ventspils novada Ances, Tārgales, Popes, Vārves, Užavas, Piltenes, Puzes, Ziru, Ugāles, Usmas un Zlēku pagasts, Piltenes pilsēta,
+> - Viesītes novads,
+> - Viļakas novads,
+> - Viļānu novads,
+> - Zilupes novads.
+>
+> 6\.
+>
+> **Lithuania**
+>
+> The following areas in Lithuania:
+>
+> - Alytaus miesto savivaldybė,
+> - Alytaus rajono savivaldybė,
+> - Anykščių rajono savivaldybė,
+> - Akmenės rajono savivaldybė: Ventos ir Papilės seniūnijos,
+> - Biržų miesto savivaldybė,
+> - Biržų rajono savivaldybė,
+> - Birštono savivaldybė,
+> - Druskininkų savivaldybė,
+> - Elektrėnų savivaldybė,
+> - Ignalinos rajono savivaldybė,
+> - Jonavos rajono savivaldybė,
+> - Joniškio rajono savivaldybė: Kepalių, Kriukų, Saugėlaukio ir Satkūnų seniūnijos,
+> - Jurbarko rajono savivaldybė,
+> - Kaišiadorių rajono savivaldybė,
+> - Kalvarijos savivaldybė,
+> - Kauno miesto savivaldybė,
+> - Kauno rajono savivaldybė,
+> - Kazlų Rūdos savivaldybė,
+> - Kelmės rajono savivaldybė: Tytuvėnų seniūnijos dalis į rytus ir pietus nuo kelio Nr. 157 ir į rytus nuo kelio Nr. 2105 ir Tytuvėnų apylinkių seniūnijos dalis į pietus nuo kelio Nr. 157 ir į rytus nuo kelio Nr. 2105, Užvenčio, Kukečių dalis į šiaurę nuo kelio Nr. 2128 ir į rytus nuo kelio Nr. 2106, ir Šaukėnų seniūnijos,
+> - Kėdainių rajono savivaldybė,
+> - Kupiškio rajono savivaldybė,
+> - Lazdijų rajono savivaldybė: Būdviečio, Kapčiamieščio, Krosnos, Kučiūnų ir Noragėlių seniūnijos,
+> - Marijampolės savivaldybė,
+> - Mažeikių rajono savivaldybė: Šerkšnėnų, Sedos ir Židikų seniūnijos,
+> - Molėtų rajono savivaldybė,
+> - Pakruojo rajono savivaldybė,
+> - Panevėžio rajono savivaldybė,
+> - Panevėžio miesto savivaldybė,
+> - Pasvalio rajono savivaldybė,
+> - Radviliškio rajono savivaldybė,
+> - Prienų rajono savivaldybė,
+> - Raseinių rajono savivaldybė: Ariogalos, Betygalos, Pagojukų, Šiluvos, Kalnujų seniūnijos ir Girkalnio seniūnijos dalis į pietus nuo kelio Nr. A1,
+> - Rokiškio rajono savivaldybė,
+> - Šakių rajono savivaldybė,
+> - Šalčininkų rajono savivaldybė,
+> - Šiaulių miesto savivaldybė,
+> - Šiaulių rajono savivaldybė: Šiaulių kaimiškoji seniūnija,
+> - Šilutės rajono savivaldybė: Rusnės seniūnija,
+> - Širvintų rajono savivaldybė,
+> - Švenčionių rajono savivaldybė,
+> - Tauragės rajono savivaldybė: Batakių ir Gaurės seniūnijos,
+> - Telšių rajono savivaldybė,
+> - Trakų rajono savivaldybė,
+> - Ukmergės rajono savivaldybė,
+> - Utenos rajono savivaldybė,
+> - Varėnos rajono savivaldybė,
+> - Vilniaus miesto savivaldybė,
+> - Vilniaus rajono savivaldybė,
+> - Vilkaviškio rajono savivaldybė,
+> - Visagino savivaldybė,
+> - Zarasų rajono savivaldybė.
+>
+> 7\.
+>
+> **Poland**
+>
+> The following areas in Poland:
+>
+> - w województwie warmińsko-mazurskim:
+>   - Gminy Kalinowo, Prostki, Stare Juchy i gmina wiejska Ełk w powiecie ełckim,
+>   - gminy Godkowo, Milejewo, Młynary, Pasłęk, część gminy Elbląg położona na północ od linii wyznaczonej przez drogę nr S7 biegnącą od granicy powiatu miejskigo Elbląg do wschodniej granicy gminy Elbląg, i część obszaru lądowego gminy Tolkmicko położona na południe od linii brzegowej Zalewu Wiślanego i Zatoki Elbląskiej do granicy z gminą wiejską Elbląg w powiecie elbląskim,
+>   - powiat miejski Elbląg,
+>   - gminy Kruklanki, Wydminy, część gminy Miłki położona na wschód od linii wyznaczonej przez drogę nr 63, część gminy Ryn położona na północ od linii kolejowej łączącej miejscowości Giżycko i Kętrzyn i część gminy wiejskiej Giżycko położona na północ od linii wyznaczonej przez drogę nr 59 biegnącą od zachodniej granicy gminy do granicy miasta Giżycko, na północ od linii wyznaczonej przez drogę nr 63 biegnącą od południowej granicy gminy do granicy miasta Giżycko i na północ od granicy miasta Giżycka i miasto Giżycko w powiecie giżyckim,
+>   - gmina Dubeninki, część gminy Gołdap położona na wschód od linii wyznaczonej przez drogę nr 65 biegnącą od południowej granicy gminy do skrzyżowania z drogą nr 1815N i na północ od linii wyznaczonej przez drogę nr 1815N biegnącą od zachodniej granicy gminy do skrzyżowania z drogą nr 65 w powiecie gołdapskim,
+>   - gmina Pozezdrze i część gminy Węgorzewo położona na zachód od linii wyznaczonej przez drogę nr 63 biegnącą od południowo-wschodniej granicy gminy do skrzyżowania z drogą nr 650, a następnie na południe od linii wyznaczonej przez drogę nr 650 biegnącą od skrzyżowania z drogą nr 63 do skrzyżowania z drogą biegnącą do miejscowości Przystań i na wschód od linii wyznaczonej przez drogę łączącą miejscowości Przystań, Pniewo, Kamionek Wielki, Radzieje, Dłużec w powiecie węgorzewskim,
+>   - gminy Olecko, Świętajno, Wieliczki i część gminy Kowale Oleckie położona na wschód od linii wyznaczonej przez drogę nr 65 i na południowy wschód od linii wyznaczonej przez drogę łączącą miejscowości Kowale Oleckie, Guzy, Wężewo, Sokółki biegnącą do południowej granicy gminy w powiecie oleckim,
+>   - gminy Orzysz, Biała Piska i część gminy Pisz położona na północ od linii wyznaczonej przez drogę nr 58 w powiecie piskim,
+>   - gminy Górowo Iławeckie z miastem Górowo Iławeckie, Bisztynek, część gminy wiejskiej Bartoszyce położona na zachód od linii wyznaczonej przez drogę nr 51 biegnącą od północnej granicy gminy do skrzyżowania z drogą nr 57 i na zachód od linii wyznaczonej przez drogę nr 57 biegnącą od skrzyżowania z drogą nr 51 do południowej granicy gminy i miasto Bartoszyce w powiecie bartoszyckim,
+>   - gmina Kolno w powiecie olsztyńskim,
+>   - powiat braniewski,
+>   - gminy Kętrzyn z miastem Kętrzyn, Reszeli część gminy Korsze położona na południe od linii wyznaczonej przez drogę biegnącą od wschodniej granicy łączącą miejscowości Krelikiejmy i Sątoczno i na wschód od linii wyznaczonej przez drogę łączącą miejscowości Sątoczno, Sajna Wielka biegnącą do skrzyżowania z drogą nr 590 w miejscowości Glitajny, a następnie na wschód od drogi nr 590 do skrzyżowania z drogą nr 592 i na południe od linii wyznaczonej przez drogę nr 592 biegnącą od zachodniej granicy gminy do skrzyżowania z drogą nr 590 w powiecie kętrzyńskim,
+>   - powiat lidzbarski,
+>   - część gminy Sorkwity położona na północ od drogi nr 16 i część gminy wiejskiej Mrągowo położona na północ od linii wyznaczonej przez drogę nr 16 biegnącą od zachodniej granicy gminy do granicy miasta Mrągowo oraz na północ od linii wyznaczonej przez drogę nr 59 biegnącą od wschodniej granicy gminy do granicy miasta Mrągowo w powiecie mrągowskim;
+> - w województwie podlaskim:
+>   - powiat grajewski,
+>   - powiat moniecki,
+>   - powiat sejneński,
+>   - gminy Łomża, Piątnica, Śniadowo, Jedwabne, Przytuły i Wiznaw powiecie łomżyńskim,
+>   - powiat miejski Łomża,
+>   - gminy Mielnik, Nurzec – Stacja, Grodzisk, Drohiczyn, Dziadkowice, Milejczyce i Siemiatycze z miastem Siemiatyczew powiecie siemiatyckim,
+>   - powiat hajnowski,
+>   - gminy Kobylin-Borzymyi Sokoły w powiecie wysokomazowieckim,
+>   - część gminy Zambrów położona na północ od linii wyznaczonej przez drogę nr S8 w powiecie zambrowskim,
+>   - gminy Grabowo i Stawiski w powiecie kolneńskim,
+>   - gminy Czarna Białostocka, Dobrzyniewo Duże, Gródek, Juchnowiec Kościelny,Łapy, Michałowo, Supraśl, Suraż, Turośń Kościelna, Tykocin, Wasilków, Zabłudów, Zawady i Choroszcz w powiecie białostockim,
+>   - gminy Boćki, Orla, Bielsk Podlaski z miastem Bielsk Podlaski i część gminy Brańsk położona na południe od linii od linii wyznaczonej przez drogę nr 66 biegnącą od wschodniej granicy gminy do granicy miasta Brańsk w powiecie bielskim,
+>   - powiat suwalski,
+>   - powiat miejski Suwałki,
+>   - powiat augustowski,
+>   - powiat sokólski,
+>   - powiat miejski Białystok;
+> - w województwie mazowieckim:
+>   - gminy Korczew, Kotuń, Paprotnia, Przesmyki, Wodynie, Skórzec, Mokobody, Mordy, Siedlce, Suchożebry i Zbuczyn w powiecie siedleckim,
+>   - powiat miejski Siedlce,
+>   - gminy Repki, Jabłonna Lacka, część gminy Bielany położona na wschód od linii wyznaczonej przez drogę nr 63 i część gminy wiejskiej Sokołów Podlaski położona na wschód od linii wyznaczonej przez drogę nr 63 w powiecie sokołowskim,
+>   - powiat łosicki,
+>   - gminy Brochów, Młodzieszyn, część gminy Teresin położona na północ od linii wyznaczonej przez drogę nr 92, część gminy wiejskiej Sochaczew położona na północ od linii wyznaczonej przez drogę nr 92 i część miasta Sochaczew położona na północny wschód od linii wyznaczonej przez drogi nr 50 i 92 w powiecie sochaczewskim,
+>   - powiat nowodworski,
+>   - gminy Joniec i Nowe Miasto w powiecie płońskim,
+>   - gminy Pokrzywnica, Świercze i część gminy Winnica położona na zachód od linii wyznaczonej przez drogę łączącą miejscowości Bielany, Winnica i Pokrzywnica w powiecie pułtuskim,
+>   - gminy Dąbrówka, Kobyłka, Marki, Radzymin, Wołomin, Zielonka i Ząbki w powiecie wołomińskim,
+>   - część gminy Somianka położona na południe od linii wyznaczonej przez drogę nr 62 w powiecie wyszkowskim,
+>   - gminy Cegłów, Dębe Wielkie, Halinów, Latowicz, Mrozy, Siennica, Sulejówek, część gminy Jakubów położona na południe od linii wyznaczoenj przez drogę nr 92, część gminy Kałuszyn położona na południe od linii wyznaczonej przez drogi nr 2 i 92 i część gminy Mińsk Mazowiecki położona na południe od linii wyznaczonej przez drogę nr A2 i miasto Mińsk Mazowiecki w powiecie mińskim,
+>   - powiat garwoliński,
+>   - powiat otwocki,
+>   - powiat warszawski zachodni,
+>   - powiat legionowski,
+>   - powiat piaseczyński,
+>   - powiat pruszkowski,
+>   - gminy Chynów, Grójec, Jasieniec, Pniewy i Warkaw powiecie grójeckim,
+>   - gminy Milanówek, Grodzisk Mazowiecki, Podkowa Leśna i Żabia Wola w powiecie grodziskim,
+>   - gminy Grabów nad Pilicą, Magnuszew, Głowaczów, Kozienice w powiecie kozienickim,
+>   - część gminy Stromiec położona na północ od linii wyznaczonej przez drogę nr 48 w powiecie białobrzeskim,
+>   - powiat miejski Warszawa;
+> - w województwie lubelskim:
+>   - gminy Borki, Czemierniki, Kąkolewnica, Komarówka Podlaska, Wohyń i Radzyń Podlaski z miastem Radzyń Podlaski w powiecie radzyńskim,
+>   - gminy Stoczek Łukowski z miastem Stoczek Łukowski, Wola Mysłowska, Trzebieszów, Krzywda, Stanin, część gminy wiejskiej Łuków położona na wschód od linii wyznaczonej przez drogę nr 63 biegnącą od północnej granicy gminy do granicy miasta Łuków i na północ od linii wyznaczonej przez drogę nr 806 biegnącą od wschodniej granicy miasta Łuków do wschodniej granicy gminy wiejskiej Łuków i miasto Łuków w powiecie łukowskim,
+>   - gminy Janów Podlaski, Kodeń, Tuczna, Leśna Podlaska, Rossosz, Łomazy, Konstantynów, Piszczac, Rokitno, Biała Podlaska, Zalesie, Terespol z miastem Terespol, Drelów, Międzyrzec Podlaski z miastem Międzyrzec Podlaski w powiecie bialskim,
+>   - powiatmiejski Biała Podlaska,
+>   - gmina Łęczna i część gminy Spiczyn położona na zachód od linii wyznaczonej przez drogę nr 829 w powiecie łęczyńskim,
+>   - część gminy Siemień położona na zachód od linii wyznaczonej przez drogę nr 815 i część gminy Milanów położona na zachód od drogi nr 813 w powiecie parczewskim,
+>   - gminy Niedźwiada, Ostrówek, Abramów, Firlej, Kamionka, Michów i Lubartów z miastem Lubartów, w powiecie lubartowskim,
+>   - gminy Jabłonna, Krzczonów, Niemce, Garbów i Wólka w powiecie lubelskim,
+>   - gminy Mełgiew, Rybczewice i Piaski w powiecie świdnickim,
+>   - gmina Fajsławice, Izbica, Kraśniczyn, część gminy Krasnystaw położona na zachód od linii wyznaczonej przez drogę nr 17 biegnącą od północno – wschodniej granicy gminy do granicy miasta Krasnystaw, miasto Krasnystaw iczęść gminy Łopiennik Górny położona na zachód od linii wyznaczonej przez drogę nr 17 w powiecie krasnostawskim,
+>   - gminy Dołhobyczów, Mircze, Trzeszczany, Werbkowice i część gminy wiejskiej Hrubieszów położona na południe od linii wyznaczonej przez drogę nr 844 oraz na południe od linii wyznaczonej przez drogę nr 74 i miasto Hrubieszów w powiecie hrubieszowskim,
+>   - gmina Telatyn, Tyszowce i część gminy Łaszczów położona na północ od linii wyznaczonej przez drogę nr 852 w powiecie tomaszowskim,
+>   - część gminy Wojsławice położona na zachód od linii wyznaczonej przez drogę biegnącą od północnej granicy gminy przez miejscowość Wojsławice do południowej granicy gminy w powiecie chełmskim,
+>   - gmina Grabowiec i Skierbieszów w powiecie zamojskim,
+>   - gminy Markuszów, Nałęczów, Kazimierz Dolny, Końskowola, Kurów, Wąwolnica, Żyrzyn, Baranów, część gminy wiejskiej Puławy położona na wschód od rzeki Wisły i miasto Puławy w powiecie puławskim,
+>   - gminy Annopol, Dzierzkowice i Gościeradów w powiecie kraśnickim,
+>   - gmina Józefów nad Wisłą w powiecie opolskim,
+>   - gmina Stężyca w powiecie ryckim;
+> - w województwie podkarpackim:
+>   - gminy Radomyśl nad Sanem i Zaklików w powiecie stalowowolskim.
+>
+> 8\.
+>
+> **Romania**
+>
+> The following areas in Romania:
+>
+> - Restul județului Maramureș care nu a fost inclus în Partea III cu următoarele comune:
+>   - Comuna Vișeu de Sus,
+>   - Comuna Moisei,
+>   - Comuna Borșa,
+>   - Comuna Oarța de Jos,
+>   - Comuna Suciu de Sus,
+>   - Comuna Coroieni,
+>   - Comuna Târgu Lăpuș,
+>   - Comuna Vima Mică,
+>   - Comuna Boiu Mare,
+>   - Comuna Valea Chioarului,
+>   - Comuna Ulmeni,
+>   - Comuna Băsești,
+>   - Comuna Baia Mare,
+>   - Comuna Tăuții Magherăuș,
+>   - Comuna Cicărlău,
+>   - Comuna Seini,
+>   - Comuna Ardusat,
+>   - Comuna Farcasa,
+>   - Comuna Salsig,
+>   - Comuna Asuaju de Sus,
+>   - Comuna Băița de sub Codru,
+>   - Comuna Bicaz,
+>   - Comuna Grosi,
+>   - Comuna Recea,
+>   - Comuna Baia Sprie,
+>   - Comuna Sisesti,
+>   - Comuna Cernesti,
+>   - Copalnic Mănăstur,
+>   - Comuna Dumbrăvița,
+>   - Comuna Cupseni,
+>   - Comuna Șomcuța Mare,
+>   - Comuna Sacaleșeni,
+>   - Comuna Remetea Chioarului,
+>   - Comuna Mireșu Mare,
+>   - Comuna Ariniș,
+> - Județul Bistrița-Năsăud.
+>
+> **PART III**
+>
+> 1\.
+>
+> **Latvia**
+>
+> The following areas in Latvia:
+>
+> - Brocēnu novada Cieceres un Gaiķu pagasts, Remtes pagasta daļa uz rietumiem no autoceļa 1154 un P109, Brocēnu pilsēta,
+> - Saldus novada Saldus, Zirņu, Lutriņu un Jaunlutriņu pagasts, Saldus pilsēta.
+>
+> 2\.
+>
+> **Lithuania**
+>
+> The following areas in Lithuania:
+>
+> - Akmenės rajono savivaldybė: Akmenės, Kruopių, Naujosios Akmenės kaimiškoji ir Naujosios Akmenės miesto seniūnijos,
+> - Joniškio rajono savivaldybė: Gaižaičių, Gataučių, Joniškio, Rudiškių, Skaistgirio, Žagarės seniūnijos,
+> - Lazdijų rajono savivaldybė: Lazdijų miesto, Lazdijų, Seirijų, Šeštokų, Šventežerio ir Veisiejų seniūnijos,
+> - Mažeikių rajono savivaldybės: Laižuvos, Mažeikių apylinkės, Mažeikių, Reivyčių, Tirkšlių ir Viekšnių seniūnijos,
+> - Šiaulių rajono savivaldybės: Bubių, Ginkūnų, Gruzdžių, Kairių, Kuršėnų kaimiškoji, Kuršėnų miesto, Kužių, Meškuičių, Raudėnų ir Šakynos seniūnijos.
+>
+> 3\.
+>
+> **Poland**
+>
+> The following areas in Poland:
+>
+> - w województwie warmińsko-mazurskim:
+>   - gmina Sępopol i część gminy wiejskiej Bartoszyce położona na wschód od linii wyznaczonej przez drogę nr 51 biegnącą od północnej granicy gminy do skrzyżowania z drogą nr 57 i na wschód od linii wyznaczonej przez drogę nr 57 biegnącą od skrzyżowania z drogą nr 51 do południowej granicy gminy w powiecie bartoszyckim,
+>   - gminy Srokowo, Barciany i część gminy Korsze położona na północ od linii wyznaczonej przez drogę biegnącą od wschodniej granicy łączącą miejscowości Krelikiejmy i Sątoczno i na zachód od linii wyznaczonej przez drogę łączącą miejscowości Sątoczno, Sajna Wielka biegnącą do skrzyżowania z drogą nr 590 w miejscowości Glitajny, a następnie na zachód od drogi nr 590 do skrzyżowania z drogą nr 592 i na północ od linii wyznaczonej przez drogę nr 592 biegnącą od zachodniej granicy gminy do skrzyżowania z drogą nr 590 w powiecie kętrzyńskim,
+>   - gmina Budry i część gminy Węgorzewo położona na wschód od linii wyznaczonej przez drogę nr 63 biegnącą od południowo-wschodniej granicy gminy do skrzyżowania z drogą nr 650, a następnie na północ od linii wyznaczonej przez drogę nr 650 biegnącą od skrzyżowania z drogą nr 63 do skrzyżowania z drogą biegnącą do miejscowości Przystań i na zachód od linii wyznaczonej przez drogę łączącą miejscowości Przystań, Pniewo, Kamionek Wielki, Radzieje, Dłużec w powiecie węgorzewskim,
+>   - gmina Banie Mazurskie i część gminy Gołdap położona na zachód od linii wyznaczonej przez drogę nr 65 biegnącą od południowej granicy gminy do skrzyżowania z drogą nr 1815N i na południe od linii wyznaczonej przez drogę nr 1815N biegnącą od zachodniej granicy gminy do skrzyżowania z drogą nr 65 w powiecie gołdapskim,
+>   - część gminy Kowale Oleckie położona na zachód od linii wyznaczonej przez drogę biegnącą od południowej granicy gminy łączącą miejscowości Sokółki, Wężewo, Guzy, Kowale Oleckie do skrzyżowania z drogą nr 65 i na zachód od linii wyznaczonej przez drogę nr 65 biegnacą od tego skrzyżowania do północnej granicy gminy w powiecie oleckim,
+> - w województwie mazowieckim:
+>   - gminy Domanice i Wiśniew w powiecie siedleckim,
+> - w województwie lubelskim:
+>   - gminy Białopole, Dubienka, Chełm, Leśniowice, Wierzbica, Sawin, Ruda Huta, Dorohusk, Kamień, Rejowiec, Rejowiec Fabryczny z miastem Rejowiec Fabryczny, Siedliszcze, Żmudź i część gminy Wojsławice położona na wschód od linii wyznaczonej przez drogę biegnącą od północnej granicy gminy do miejscowości Wojsławice do południowej granicy gminy w powiecie chełmskim,
+>   - powiat miejski Chełm,
+>   - gmina Siennica Różana część gminy Łopiennik Górny położona na wschód od linii wyznaczonej przez drogę nr 17 i część gminy Krasnystaw położona na wschód od linii wyznaczonej przez drogę nr 17 biegnącą od północno – wschodniej granicy gminy do granicy miasta Krasnystaw w powiecie krasnostawskim,
+>   - gminy Hanna, Hańsk, Wola Uhruska, Urszulin, Stary Brus, Wyryki i gmina wiejska Włodawa w powiecie włodawskim,
+>   - gminy Cyców, Ludwin, Puchaczów, Milejów i część gminy Spiczyn położona na wschód od linii wyznaczonej przez drogę nr 829 w powiecie łęczyńskim,
+>   - gmina Trawniki w powiecie świdnickim,
+>   - gminy Jabłoń, Podedwórze, Dębowa Kłoda, Parczew, Sosnowica, część gminy Siemień położona na wschód od linii wyznaczonej przez drogę nr 815 i część gminy Milanów położona na wschód od drogi nr 813 w powiecie parczewskim,
+>   - gminy Sławatycze, Sosnówka, i Wisznice w powiecie bialskim,
+>   - gmina Ulan Majorat w powiecie radzyńskim,
+>   - gminy Ostrów Lubelski, Serniki i Uścimów w powiecie lubartowskim,
+>   - gmina Wojcieszków i część gminy wiejskiej Łuków położona na zachód od linii wyznaczonej przez drogę nr 63 biegnącą od północnej granicy gminy do granicy miasta Łuków, a następnie na północ, zachód, południe i wschód od linii stanowiącej północną, zachodnią, południową i wschodnią granicę miasta Łuków do jej przecięcia się z drogą nr 806 i na południe od linii wyznaczonej przez drogę nr 806 biegnącą od wschodniej granicy miasta Łuków do wschodniej granicy gminy wiejskiej Łuków w powiecie łukowskim,
+>   - gminy Horodło, Uchanie i część gminy wiejskiej Hrubieszów położona na północ od linii wyznaczonej przez drogę nr 844 biegnącą od zachodniej granicy gminy wiejskiej Hrubieszów do granicy miasta Hrubieszów oraz na północ od linii wyznaczonej przez drogę nr 74 biegnącą od wschodniej granicy miasta Hrubieszów do wschodniej granicy gminy wiejskiej Hrubieszów w powiecie hrubieszowskim,
+> - w województwie podkarpackim:
+>   - gmina Cieszanóww powiecie lubaczowskim.
+>
+> 4\.
+>
+> **Romania**
+>
+> The following areas in Romania:
+>
+> - Zona orașului București,
+> - Județul Constanța,
+> - Județul Satu Mare,
+> - Județul Tulcea,
+> - Județul Bacău,
+> - Județul Bihor,
+> - Județul Brăila,
+> - Județul Buzău,
+> - Județul Călărași,
+> - Județul Dâmbovița,
+> - Județul Galați,
+> - Județul Giurgiu,
+> - Județul Ialomița,
+> - Județul Ilfov,
+> - Județul Prahova,
+> - Județul Sălaj,
+> - Județul Vaslui,
+> - Județul Vrancea,
+> - Județul Teleorman,
+> - Partea din județul Maramureș cu următoarele delimitări:
+>   - Comuna Petrova,
+>   - Comuna Bistra,
+>   - Comuna Repedea,
+>   - Comuna Poienile de sub Munte,
+>   - Comuna Vișeu e Jos,
+>   - Comuna Ruscova,
+>   - Comuna Leordina,
+>   - Comuna Rozavlea,
+>   - Comuna Strâmtura,
+>   - Comuna Bârsana,
+>   - Comuna Rona de Sus,
+>   - Comuna Rona de Jos,
+>   - Comuna Bocoiu Mare,
+>   - Comuna Sighetu Marmației,
+>   - Comuna Sarasau,
+>   - Comuna Câmpulung la Tisa,
+>   - Comuna Săpânța,
+>   - Comuna Remeti,
+>   - Comuna Giulești,
+>   - Comuna Ocna Șugatag,
+>   - Comuna Desești,
+>   - Comuna Budești,
+>   - Comuna Băiuț,
+>   - Comuna Cavnic,
+>   - Comuna Lăpuș,
+>   - Comuna Dragomirești,
+>   - Comuna Ieud,
+>   - Comuna Saliștea de Sus,
+>   - Comuna Săcel,
+>   - Comuna Călinești,
+>   - Comuna Vadu Izei,
+>   - Comuna Botiza,
+>   - Comuna Bogdan Vodă,
+>   - Localitatea Groșii Țibileșului, comuna Suciu de Sus,
+>   - Localitatea Vișeu de Mijloc, comuna Vișeu de Sus,
+>   - Localitatea Vișeu de Sus, comuna Vișeu de Sus.
+> - Partea din județul Mehedinți cu următoarele comune:
+>   - Comuna Strehaia,
+>   - Comuna Greci,
+>   - Comuna Brejnita Motru,
+>   - Comuna Butoiești,
+>   - Comuna Stângăceaua,
+>   - Comuna Grozesti,
+>   - Comuna Dumbrava de Jos,
+>   - Comuna Băcles,
+>   - Comuna Bălăcița,
+> - Județul Argeș,
+> - Județul Olt,
+> - Județul Dolj,
+> - Județul Arad,
+> - Județul Timiș,
+> - Județul Covasna,
+> - Județul Brașov,
+> - Județul Botoșani.
+>
+> **PART IV**
+>
+> **Italy**
+>
+> The following areas in Italy:
+>
+> - tutto il territorio della Sardegna.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 395, 30.12.1989, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.395.01.0013.01.ENG).
+
+[^f00002]: Footnote: [OJ L 224, 18.8.1990, p. 29](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1990.224.01.0029.01.ENG).
+
+[^f00003]: Footnote: [OJ L 18, 23.1.2003, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.018.01.0011.01.ENG).
+
+[^f00004]: Footnote: Commission Implementing Decision 2014/709/EU of 9 October 2014 concerning animal health control measures relating to African swine fever in certain Member States and repealing Implementing Decision 2014/178/EU ([OJ L 295, 11.10.2014, p. 63](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.295.01.0063.01.ENG)).
+
+[^f00005]: Footnote: Commission Implementing Decision (EU) 2019/617 of 15 April 2019 amending the Annex to Implementing Decision 2014/709/EU concerning animal health control measures relating to African swine fever in certain Member States ([OJ L 105, 16.4.2019, p. 37](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.105.01.0037.01.ENG)).

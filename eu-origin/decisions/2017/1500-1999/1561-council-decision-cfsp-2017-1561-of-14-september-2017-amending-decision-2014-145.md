@@ -1,0 +1,181 @@
+---
+title: Council Decision (CFSP) 2017/1561 of 14 September 2017 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+id: eudn/2017/1561
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2017-09-14'
+text_date: '2017-09-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2017/1561
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2017/1561/pdfs/eudn_20171561_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/1561/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision (CFSP) 2017/1561 of 14 September 2017 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+
+> Text as at 2017-09-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision (CFSP) 2017/1561
+
+of 14 September 2017
+
+amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+
+Having regard to Council Decision 2014/145/CFSP of 17 March 2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine[^f00001], and in particular Article 3(1) and (3) thereof,
+
+Having regard to the proposal of the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1)
+
+On 17 March 2014, the Council adopted Decision 2014/145/CFSP.
+
+(2)
+
+On 13 March 2017, the Council adopted Decision (CFSP) 2017/445[^f00002], thereby renewing the measures provided for in Decision 2014/145/CFSP for a further six months.
+
+(3)
+
+In view of the continuing undermining or threatening of the territorial integrity, sovereignty and independence of Ukraine, Decision 2014/145/CFSP should be renewed for a further six months.
+
+(4)
+
+The Council has reviewed the individual designations set out in the Annex to Decision 2014/145/CFSP and decided to amend the information concerning certain individuals and entities.
+
+(5)
+
+The entries for four deceased persons should be deleted from the list of designated persons and entities.
+
+(6)
+
+Following changes in the ownership structure of three entities, the Annex to Decision 2014/145/CFSP should be amended in order to keep the measures against them in place.
+
+(7)
+
+Decision 2014/145/CFSP should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** Decision 2014/145 is amended as follows:
+
+- ((1)) in Article 2, the following paragraph is added:
+
+  > 7. By way of derogation from paragraph 2, a Member State may authorise payments to the Crimean Sea Ports for services provided at the ports of Kerch Fishery Port, Yalta Commercial Port and Evpatoria Commercial Port, and services provided by Gosgidrografiya and by Port-Terminal branches of the Crimean Sea Ports.
+
+  ;
+- ((2)) in Article 6, the second paragraph is replaced by the following:
+
+  > This Decision shall apply until 15 March 2018.
+
+  .
+
+**Article 2.** The Annex to Decision 2014/145/CFSP shall be amended in accordance with the Annex to this Decision.
+
+**Article 3.** This Decision shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+Done at Brussels, 14 September 2017.
+
+*For the Council*
+
+*The President*
+
+A. Anvelt
+
+## ANNEX
+
+The Annex to Decision 2014/145/CFSP is amended as follows:
+
+- ((1)) the entries concerning the following persons are deleted:
+
+  Persons
+
+  |  |  |
+  | --- | --- |
+  | 15\. | Oleg Evgenevich PANTELEEV |
+  | 44\. | Valeriy Dmitrievich BOLOTOV |
+  | 136\. | Mikhail Sergeevich TOLSTYKH |
+  | 139\. | Sergey Anatolievich LITVIN |
+- ((2)) the entries concerning the following entities are deleted:
+
+  Entities
+
+  |  |  |
+  | --- | --- |
+  | 2\. | Limited Liability Company ‘Port Feodosia’ |
+  | 12\. | State ferry enterprise ‘Kerch ferry’ |
+  | 14\. | Company ‘Kerch seaport’/‘Kamysh-Burun’ |
+- ((3)) the following entity is added:
+
+  Entities
+
+  |  | Name | Identifying information | Reasons | Date of listing |
+  | --- | --- | --- | --- | --- |
+  | 38\. | ‘State Unitary Enterprise of the Crimean Republic “Crimean Sea Ports”’<br>(‘Государственное унитарное предприятие Республики Крым “Крымские морские порты”’), including branches:<br>- Feodosia Commercial Port,<br>- Kerch Ferry,<br>- Kerch Commercial Port. | 28 Kirova Street<br>Kerch 298312<br>Crimea<br>(298312, Республика Крым, гор. Керчь, ул. Кирова, дом 28) | The ‘Parliament of Crimea’ adopted Resolution No 1757-6/14 on 17 March 2014‘On nationalisation of some companies belonging to the Ukrainian Ministries of Infrastructure or Agriculture’ and Resolution No 1865-6/14 on 26 March 2014‘On State-Owned Enterprise “Crimean Sea Ports”’ (‘О Государственном предприятии “Крымские морские порты”’) declaring the appropriation of assets belonging to several State enterprises which were merged into the ‘State Unitary Enterprise of the Crimean Republic “Crimean Sea Ports”’ on behalf of the ‘Republic of Crimea’. Those enterprises were thus effectively confiscated by the Crimean ‘authorities’ and the ‘Crimean Sea Ports’ has benefited from the illegal transfer of their ownership. | 16.9.2017 |
+- ((4)) the entries concerning the persons and entities listed below are replaced by the following entries:
+
+  Persons
+
+  |  | Name | Identifying information | Reasons | Date of listing |
+  | --- | --- | --- | --- | --- |
+  | 1\. | Sergey Valeryevich AKSYONOV,<br>Sergei Valerievich AKSENOV (Сергей Валерьевич АКСЁНОВ),<br>Serhiy Valeriyovych AKSYONOV (Сергiй Валерiйович АКСЬОНОВ) | DOB: 26.11.1972<br>POB: Beltsy (Bălţi), now Republic of Moldova | Aksyonov was elected ‘Prime Minister of Crimea’ in the Crimean Verkhovna Rada on 27 February 2014 in the presence of pro-Russian gunmen. His ‘election’ was decreed unconstitutional by the acting Ukrainian President Oleksandr Turchynov on 1 March 2014. He actively lobbied for the ‘referendum’ of 16 March 2014 and was one of the co-signatories of the ‘treaty on Crimea's accession to the Russian Federation’ of 18 March 2014. On 9 April 2014, he was appointed acting ‘Head’ of the so-called ‘Republic of Crimea’ by President Putin. On 9 October 2014, he was formally ‘elected’‘Head’ of the so-called ‘Republic of Crimea’. Aksyonov subsequently decreed that the offices of ‘Head’ and ‘Prime Minister’ be combined.<br>Member of the Russia State Council. Since January 2017, member of the High Council of United Russia Party.<br>For his involvement in the annexation process he has been awarded with Russian State order ‘For Merit to the Fatherland’ — first degree. | 17.3.2014 |
+  | 3\. | Rustam Ilmirovich TEMIRGALIEV (Рустам Ильмирович ТЕМИРГАЛИЕВ)<br>Rustam Ilmyrovych TEMIRHALIIEV (Рустам Ільмирович ТЕМІРГАЛІЄВ) | DOB: 15.8.1976<br>POB: Ulan-Ude, Buryat ASSR (Russian SFSR) | As former Deputy Prime Minister of Crimea, Temirgaliev played a relevant role in the decisions taken by the ‘Supreme Council’ concerning the ‘referendum’ of 16 March 2014 against the territorial integrity of Ukraine. He lobbied actively for the integration of Crimea into the Russian Federation.<br>On 11 June 2014 he resigned from his function as ‘First Deputy Prime Minister’ of the so-called ‘Republic of Crimea’.<br>Remains active in supporting separatist actions or policies. | 17.3.2014 |
+  | 5\. | Aleksei Mikhailovich CHALIY (Алексей Михайлович ЧАЛЫЙ)<br>Oleksiy Mykhaylovych CHALYY (Олексій Михайлович ЧАЛИЙ) | DOB: 13.6.1961<br>POB: Moscow or Sevastopol | Chaliy became ‘People's Mayor of Sevastopol’ by popular acclamation on 23 February 2014 and accepted this ‘vote’. He actively campaigned for Sevastopol to become a separate entity of the Russian Federation following a referendum on 16 March 2014. He was one of the co-signatories of the ‘treaty on Crimea's accession to the Russian Federation’ of 18 March 2014. He was acting ‘governor’ of Sevastopol from 1 to 14 April 2014 and is a former ‘elected’ Chairman of the ‘Legislative Assembly’ of the City of Sevastopol. Member of the ‘Legislative Assembly’ of the City of Sevastopol.<br>For his involvement in the annexation process he has been awarded with Russian State order ‘For Merit to the Fatherland’ — first degree. | 17.3.2014 |
+  | 21\. | Aleksandr Viktorovich GALKIN (Александр Викторович ГАЛКИН) | DOB: 22.3.1958<br>POB: Ordzhonikidze, North Ossetian ASSR | Former Commander of Russia's Southern Military District (‘SMD’), the forces of which are in Crimea; the Black Sea Fleet comes under Galkin's command; much of the force movement into Crimea has come through the SMD.<br>SMD forces are deployed in Crimea. He is responsible for part of the Russian military presence in Crimea which is undermining the sovereignty of Ukraine and assisted the Crimean authorities in preventing public demonstrations against moves towards a referendum and incorporation into Russia. Additionally the Black Sea Fleet falls within the District's control.<br>Currently employed by the Central apparatus of the Russian Ministry of Defence. Aide to the Minister of Defence since 19 January 2017. | 17.3.2014 |
+  | 45\. | Andrei Evgenevich PURGIN (Андрей Евгеньевич ПУРГИН)<br>Andriy Yevhenovych PURHIN (Андрiй Євгенович ПУРГIН) | DOB: 26.1.1972<br>POB: Donetsk | Active participant and organiser of separatist actions, coordinator of actions of the ‘Russian tourists’ in Donetsk. Co-founder of a ‘Civic Initiative of Donbass for the Eurasian Union’. Former ‘First Deputy Chairman of the Council of Ministers’. Until 4 September 2015‘Chairman’ of the ‘People's Council of the Donetsk People's Republic’.<br>As of February 2017 deprived from his mandate of member of the ‘People's Council of the Donetsk People's Republic’ upon decision of the so-called ‘People's Council’.<br>Remains active in supporting separatist actions or policies. | 29.4.2014 |
+  | 47\. | Sergey Gennadevich TSYPLAKOV (Сергей Геннадьевич ЦЫПЛАКОВ)<br>Serhiy Hennadiyovych TSYPLAKOV (Сергій Геннадійович ЦИПЛАКОВ) | DOB: 1.5.1983<br>POB: Khartsyzsk, Donetsk region | One of the leaders of the ideologically radical organisation ‘People's Militia of Donbas’. He took active part in the seizure of a number of State buildings in the Donetsk region.<br>Member of the ‘People's Council of the Donetsk People's Republic’, Chair of the ‘People's Council Committee on Information Policy and Information Technology’. | 29.4.2014 |
+  | 53\. | Oleg Grigorievich KOZYURA (Олег Григорьевич КОЗЮРА)<br>Oleh Hryhorovych KOZYURA (Олег Григорович КОЗЮРА) | DOB: 30.12.1965 or 19.12.1962<br>POB: Simferopol, Crimea or Zaporizhia | Former Head of the Federal Migration Service office for Sevastopol. Responsible for the systematic and expedited issuance of Russian passports for the residents of Sevastopol.<br>Currently assistant to Sevastopol Municipal Council Deputy Mikhail Chaly. | 12.5.2014 |
+  | 58\. | Roman Viktorovich LYAGIN (Роман Викторович ЛЯГИН)<br>Roman Viktorovych LIAHIN (Роман Вікторович ЛЯГІН) | DOB: 30.5.1980<br>POB: Donetsk, Ukraine | Former head of the ‘Donetsk People's Republic’ Central Electoral Commission. Actively organised the referendum on 11 May 2014 on the self-determination of the ‘Donetsk People's Republic’. Former ‘Minister of Labour and Social Policy’.<br>Remains active in supporting separatist actions and policies. | 12.5.2014 |
+  | 61\. | Igor Sergeievich SHEVCHENKO (Игорь Сергеевич ШЕВЧЕНКО) | DOB: 9.2<br>POB: Sevastopol, Crimea | Prosecutor of Sevastopol. Actively implementing Russia's annexation of Sevastopol. | 12.5.2014 |
+  | 68\. | Aleksey Vyacheslavovich KARYAKIN (Алексей Вячеславович КАРЯКИН)<br>Oleksiy Vyacheslavovych KARYAKIN (Олексій В'ячеславович КАРЯКІН) | DOB: 7.4.1980 or 7.4.1979<br>POB: Stakhanov, Lugansk region | Until 25 March 2016 so-called ‘Supreme Council Chair of the Lugansk People's Republic’. Former member of the so-called ‘People's Council of the Lugansk People's Republic’.<br>Responsible for the separatist ‘governmental’ activities of the ‘Supreme Council’, responsible for asking the Russian Federation to recognise the independence of the ‘Lugansk People's Republic’.<br>Signatory of the Memorandum of Understanding on the ‘Novorossiya union’.<br>Remains active in supporting separatist actions or policies. | 12.7.2014 |
+  | 73\. | Mikhail Efimovich FRADKOV (Михаил Ефимович ФРАДКОВ) | DOB: 1.9.1950<br>POB: Kurumoch, Kuibyshev region | Former permanent member of the Security Council of the Russian Federation; Former Director of the Foreign Intelligence Service of the Russian Federation. As a member of the Security Council, which provides advice on and coordinates national security affairs, he was involved in shaping the policy of the Russian Government threatening the territorial integrity, sovereignty and independence of Ukraine.<br>As of 4 January 2017, Director of the Russian Institute for Strategic Studies. He is also the Chairperson of the Board of Directors of ‘Almaz-Antey’.<br>Remains active in supporting separatist actions and policies. | 25.7.2014 |
+  | 86\. | Serhii Anatoliyovych ZDRILIUK a.k.a Abwehr<br>(Сергей Анатольевич ЗДРИЛЮК)<br>(Сергій Анатолійович ЗДРИЛЮК) | DOB: 23.6.1972 (or 23.7.1972)<br>POB: Vinnytsia region | Senior aid to Igor Strelkov/Girkin who is responsible for actions which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine. In taking on and acting in this capacity, Zdriliuk has therefore supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine.<br>Remains active in supporting separatist actions and policies. | 25.7.2014 |
+  | 87\. | Vladimir ANTYUFEYEV (a.k.a. Vladimir SHEVTSOV, Vladimir Iurievici ANTIUFEEV, Vladimir Gheorghievici ALEXANDROV, Vadim Gheorghievici SHEVTSOV)<br>(Владимир АНТЮФЕЕВ) | DOB: 19.2.1951<br>POB: Novosibirsk | Former ‘Minister of State Security’ in the separatist region of Transnistria. Former vice-prime minister of the ‘Donetsk People's Republic’, responsible for security and law enforcement. In his capacity, he was responsible for the separatist ‘governmental’ activities of the so-called ‘government of the Donetsk People's Republic’.<br>Remains active in supporting separatist actions and policies. | 25.7.2014 |
+  | 93\. | Konstantin Valerevich MALOFEEV<br>(Константин Валерьевич МАЛОФЕЕВ) | DOB: 3.7.1974<br>POB: Puschino, Moscow region | Mr Malofeev is closely linked to Ukrainian separatists in Eastern Ukraine and Crimea. He is a former employer of Mr Borodai, former so-called ‘Prime Minister’ of the ‘Donetsk People's Republic’ and met with Mr Aksyonov, so-called ‘Prime Minister’ of the so-called ‘Republic of Crimea’, during the period of the Crimean annexation process. The Ukrainian Government has opened a criminal investigation into his alleged material and financial support to separatists. In addition, he gave a number of public statements supporting the annexation of Crimea and the incorporation of Ukraine into Russia and notably stated in June 2014 that ‘You can't incorporate the whole of Ukraine into Russia. The East (of Ukraine) maybe’.<br>Therefore, Mr Malofeev is acting in support of the destabilisation of Eastern Ukraine. | 30.7.2014 |
+  | 127\. | Oleg Evgenevich BUGROV (Олег Евгеньевич БУГРОВ)<br>Oleh Yevhenovych BUHROV (Олег Євгенович БУГРОВ) | DOB: 29.8.1969 or 1973<br>POB: Sverdlovsk, Luhansk | Former ‘Defence Minister’ of the so-called ‘Lugansk People's Republic’.<br>In taking on and acting in this capacity, he has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine. | 29.11.2014 |
+  | 131\. | Yevgeniy Vyacheslavovich ORLOV (a.k.a. Yevhen Vyacheslavovych ORLOV)<br>(Евгений Вячеславович ОРЛОВ) | DOB: 10.5.1980 or 21.10.1983<br>POB: Snezhnoye, Donetsk region<br>г. Снежное, Донецкой области | Member of the ‘National Council’ of the so-called ‘Donetsk People's Republic’. Chairman of the public movement ‘Free Donbass’.<br>In taking on and acting in this capacity, he has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine. | 29.11.2014 |
+  | 137\. | Eduard Aleksandrovich BASURIN (Эдуард Александрович БАСУРИН)<br>Eduard Oleksandrovych BASURIN (Едуард Олександрович БАСУРІН) | DOB: 27.6.1966<br>POB: Donetsk | Spokesperson of the Ministry of Defence of the so-called ‘Donetsk People's Republic’.<br>In taking on and acting in this capacity, he has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine.<br>Remains an active military commander in so-called ‘DNR’. | 16.2.2015 |
+  | 143\. | Evgeny Vladimirovich MANUYLOV (Евгений Владимирович МАНУЙЛОВ)<br>Yevhen Volodymyrovych MANUYLOV (Євген Володимирович МАНУЙЛОВ) | DOB: 5.1.1967<br>POB: Baranykivka, Bilovodsk Raion, Luhansk region<br>с. Бараниковка Беловодского района Луганской области | So-called ‘Minister of Finance’ of the so-called ‘Lugansk People's Republic’.<br>In taking on and acting in this capacity, he has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and further destabilised Ukraine. | 16.2.2015 |
+  | 147\. | Anatoly Ivanovich ANTONOV (Анатолий Иванович АНТОНОВ) | DOB 15.5.1955<br>POB: Omsk | Former Deputy Minister of Defence and, in that capacity, involved in supporting the deployment of Russian troops in Ukraine.<br>According to the present Russian Ministry of Defence structure, in that capacity he participated in shaping and implementing the policy of the Russian Government. These policies threaten the territorial integrity, sovereignty and independence of Ukraine.<br>As of 28 December 2016, Deputy Minister of Foreign Affairs. | 16.2.2015 |
+
+  Entities
+
+  |  | Name | Identifying information | Reasons | Date of listing |
+  | --- | --- | --- | --- | --- |
+  | 1\. | State Unitary Enterprise of the ‘Republic of Crimea’‘Chernomorneftegaz’<br>(formerly known as PJSC ‘Chernomorneftegaz’) | Prospekt Kirov 52, Simferopol, Crimea, 295000<br>пр.Кирова 52, г. Симферополь, Крым, 295000<br>Phone number:<br>\+7 (3652) 66-70-00<br>\+7 (3652) 66-78-00 | On 17.3.2014, the ‘Parliament of Crimea’ adopted a resolution declaring the appropriation of assets belonging to the Chernomorneftegaz enterprise on behalf of the ‘Republic of Crimea’. The enterprise is thus effectively confiscated by the Crimean ‘authorities’. Re-registered on 29.11.2014 as State Unitary Enterprise of the ‘Republic of Crimea’‘Chernomorneftegaz’ (Государственное унитарное предприятие Республики Крым ‘Черноморнефтегаз’). Founder: The Ministry of Fuel and Energy of the Republic of Crimea (Министерство топлива и энергетики Республики Крым). | 12.5.2014 |
+  | 3\. | So-called ‘Lugansk People's Republic’<br>‘Луганская народная республика’<br>‘Luganskaya narodnaya respublika’ | Official website:<br>http://lugansk-online.info<br>Phone number:<br>\+38-099-160-74-14 | The so-called ‘Lugansk People's Republic’ was established on 27 April 2014.<br>Responsible for organising the illegal referendum on 11 May 2014. Declaration of independence on 12 May 2014.<br>On 22 May 2014, the so-called ‘People's Republics’ of Donetsk and Lugansk created the so-called ‘Federal State of Novorossiya’.<br>This is in breach of Ukrainian constitutional law, and, as a consequence, of international law, thus undermining the territorial integrity, sovereignty and independence of Ukraine.<br>It is also involved in the recruitment to the separatist ‘Army of Southeast’ and other illegal armed separatist groups, thus undermining the stability or security of Ukraine. | 25.7.2014 |
+  | 5\. | So-called ‘Federal State of Novorossiya’<br>‘Федеративное государство Новороссия’<br>‘Federativnoye Gosudarstvo Novorossiya’ | Official press releases:<br>http://novorossia.su/official<br>http://frn2016.netdo.ru/<br>https://www.novorosinform.org/ | On 24 May 2014, the so-called ‘People's Republics’ of Donetsk and Lugansk signed an agreement on the creation of the unrecognized so-called ‘Federal State of Novorossiya’.<br>This is in breach of Ukrainian constitutional law, and, as a consequence, of international law, thus threatening the territorial integrity, sovereignty and independence of Ukraine. | 25.7.2014 |
+  | 6\. | International Union of Public Associations ‘Great Don Army’<br>Международный Союз Общественных Объединений ‘Всевеликое Войско Донское’ | Official website:<br>http://xn--80aaaajfjszd7a3b0e.xn--p1ai/<br>Phone number:<br>\+7-8-908-178-65-57<br>Social media: Cossack National Guard http://vk.com/kazak\_nac\_guard<br>Address: 346465 Russia, Rostov Region, October District, St Zaplavskaya, Str Shosseynaya 1<br>Second address: Voroshilovskiy Prospekt 12/85-87/13, Rostov-on-Don | The ‘Great Don army’ established the ‘Cossack National Guard’, responsible for fighting against the Ukrainian government forces in Eastern Ukraine, thus undermining the territorial integrity, sovereignty and independence of Ukraine as well as threatening the stability or security of Ukraine.<br>Associated with Mr Nikolay Kozitsyn, who is Commander of Cossack forces and responsible for commanding separatists in Eastern Ukraine fighting against the Ukrainian government forces. | 25.7.2014 |
+  | 7\. | ‘Sobol’<br>‘Соболь’ | Official web site:<br>http://soboli.net<br>Social media:<br>http://vk.com/sobolipress<br>Phone number:<br>(0652) 60-23-93<br>Email: SoboliPress@gmail.com<br>Address: Crimea, Simferopol, str. Kiev, 4 (area bus station ‘Central’). | Radical paramilitary organisation, responsible for openly supporting using force to end Ukraine's control over Crimea, thus undermining the territorial integrity, sovereignty and independence of Ukraine.<br>Responsible for training separatists to fight against the Ukrainian government forces in Eastern Ukraine, thus threatening the stability or security of Ukraine. | 25.7.2014 |
+  | 13\. | State Unitary Enterprise of the City of Sevastopol, ‘Sevastopol seaport’<br>ГУП ГС ‘Севастопольский морской порт’<br>(formerly known as State enterprise ‘Sevastopol commercial seaport’<br>Государственное предприятие ‘Севастопольский морской торговьй порт’<br>Gosudarstvenoye predpriyatiye ‘Sevastopolski morskoy torgovy port’) | Nakhimov Square 5, 299011) Sevastopol<br>(пл. Нахимова, 5, г. Севастополь, 299011)<br>Code: 1149204004707 | The ownership of the entity was transferred contrary to the Ukrainian law. On 17.3.2014 the ‘Parliament of Crimea’ adopted a resolution No 1757-6/14 ‘On nationalization of some companies belonging to the Ukrainian ministries of infrastructure or agriculture’ declaring the appropriation of assets belonging to the state enterprise ‘Sevastopol commercial seaport’ on behalf of the ‘Republic of Crimea’. The enterprise is thus effectively confiscated by the Crimean ‘authorities’. In terms of volume of trade, it is the biggest commercial seaport in Crimea. Re-registered on 6.6.2014 as State Unitary Enterprise of the City of Sevastopol ‘Sevastopol seaport’ (Государственное унитарное предприятие города Севастополя ‘Севастопольский морской порт’). Founder: The Government of Sevastopol (Правительство Севастополя). | 25.7.2014 |
+  | 15\. | State Unitary Enterprise of the ‘Republic of Crimea’‘Universal-Avia’<br>Государственное унитарное предприятие Республики Крым ‘Универсал-Авиа’<br>(formerly known as State enterprise Universal -Avia<br>Государственное предприятие ‘Универсал-Авиа’<br>Gosudarstvenoye predpriyatiye ‘Universal-Avia’) | Aeroflotskaya Street 5, 295024, Simferopol<br>ул. Аэрофлотская, дом 5, 295024, г. Симферополь,), | The ownership of the entity was transferred contrary to Ukrainian law. On 24.3.2014, the ‘Presidium of the Parliament of Crimea’ adopted a decision ‘On State-owned Enterprise “Gosudarstvenoye predpriyatiye Universal-Avia”(‘О Государственном предприятии “Универсал-Авиа”’)’ No 1794-6/14 declaring the appropriation of assets belonging to the state enterprise ‘Universal-Avia’ on behalf of the ‘Republic of Crimea’. The enterprise is thus effectively confiscated by the Crimean ‘authorities’. Re-registered on 15.1.2015 as State Unitary Enterprise of the ‘Republic of Crimea’‘Universal-Avia’(Государственное унитарное предприятие Республики Крым ‘Универсал-Авиа’). Founder: The Ministry of Transportation of the ‘Republic of Crimea’ (Министерство транспорта Республики Крым). | 25.7.2014 |
+  | 17\. | Crimean Republican Enterprise ‘Azov distillery plant’<br>Крымское республиканское предприятие ‘Азовский ликёро-водочннй завод’<br>Azovsky likerovodochny zavod | 40 Zeleznodorozhnaya str.,<br>296178 Azovskoye, Jankoysky district<br>(Джанкойский район, 296178<br>пгт. Азовское, ул. Железнодорожная, 40)<br>code: 01271681 | The ownership of the entity was transferred contrary to Ukrainian law. On 9 April 2014, the ‘Presidium of the Parliament of Crimea’ adopted a decision No 1991-6/14 ‘On the amendments to the Resolution of the State Council of the “Republic of Crimea”’ of 26 March 2014 No 1836-6/14 ‘On nationalization of the property of enterprises, institutions and organizations of agro-industrial complex, located in the territory of the “Republic of Crimea”’ declaring the appropriation of assets belonging to the ‘Azovsky likerovodochny zavod’ on behalf of the ‘Republic of Crimea’. The enterprise is thus effectively confiscated by the Crimean ‘authorities’.<br>Reportedly declared bankrupt. Managed by Sinergiya. | 25.7.2014 |
+  | 18\. | Federal State Budgetary Enterprise ‘Production-Agrarian Union “Massandra”’ of the Administration of the President of the Russian Federation<br>‘Производственно-аграрное объединение “Массандра” Управления делами Президента Российской Федерации’<br>(formerly known as State concern ‘National Association of producers “Massandra”’<br>Национальное производственно-аграрное объединение ‘Массандра’<br>Nacionalnoye proizvodstvenno agrarnoye obyedinenye Massandra) | 298650, Crimea, Yalta, Massandra, str. Vinodela Egorova 9.<br>298650, Крым, г.Ялта,<br>пгт. Массандра,<br>ул. Винодела Егорова, д. 9<br>Website: http://massandra.su | The ownership of the entity was transferred contrary to the Ukrainian law. On 9 April 2014, the ‘Presidium of the Parliament of Crimea’ adopted a decision No 1991-6/14 ‘On the amendments to the Resolution of the State Council of the “Republic of Crimea”’ of 26 March 2014 No 1836-6/14 ‘On nationalization of the property of enterprises, institutions and organizations of agro-industrial complex, located in the territory of the “Republic of Crimea”’ declaring the appropriation of assets belonging to the state concern ‘National Association of producers “Massandra”’ on behalf of the ‘Republic of Crimea’. The enterprise is thus effectively confiscated by the Crimean ‘authorities’. Re-registered on 1.8.2014 Federal State Budgetary Enterprise ‘Proizvodstvenno agrarnoye obyedinenye “Massandra”’ of the Administration of the President of the Russian Federation (Федеральное государственное унитарное предприятие ‘Производственно-аграрное объединение “Массандра” Управления делами Президента Российской Федерации’). Founder: The Administration of the President of the Russian Federation (Управление делами Президента Российской Федерации). | 25.7.2014 |
+  | 19\. | Federal state budget institution for science and research ‘All- Russia national scientific research institute for wine growing and wine making “Magarach” Russian Academy of Sciences’<br>Федеральное государственное бюджетное учреждение науки ‘Всероссийский национальный научно-исследовательский институт виноградарства и виноделия “Магарач” РАН’<br>(Formerly known as State Unitary Enterprise of the ‘Republic of Crimea’‘National Institute of Wine “Magarach”’<br>Formerly known as ‘State enterprise “Magarach” of the national institute of wine’<br>Государственное предприятие Агрофирма ‘Магарач’ Национального института винограда и вина ‘Магарач’<br>Gosudarstvenoye predpriyatiye Agrofirma ‘Magarach’ nacionalnogo instituta vinograda i vina ‘Magarach’) | 298600, Kirov Street 31 Yalta, Crimea<br>298600, Крым, г. Ялта, ул. Кирова, 31 | The ownership of the entity was transferred contrary to the Ukrainian law. On 9 April 2014, the ‘Presidium of the Parliament of Crimea’ adopted a decision No 1991-6/14 ‘On the amendments to the Resolution of the State Council of the “Republic of Crimea”’ of 26 March 2014 No 1836-6/14 ‘On nationalization of the property of enterprises, institutions and organizations of agro-industrial complex, located in the territory of the “Republic of Crimea”’ declaring the appropriation of assets belonging to the state enterprise ‘Gosudarstvenoye predpriyatiye Agrofirma “Magarach” nacionalnogo instituta vinograda i vina “Magarach”’ on behalf of the ‘Republic of Crimea’. The enterprise is thus effectively confiscated by the Crimean ‘authorities’. Re-registered on 15 January 2015 as ‘State Unitary Institution of the “Republic of Crimea” National Institute of Wine “Magarach”’ (Государственное бюджетное учреждение Республики Крым ‘Национальный научно-исследовательский институт винограда и вина “Магарач”’). Founder: The Ministry of Agriculture of the ‘Republic of Crimea’ (Министерство сельского хозяйства Республики Крым).<br>On 7 February 2017, State Unitary Enterprise of the ‘Republic of Crimea’‘National Institute of Wine “Magarach”’ was transformed into Federal Budgetary scientific facility ‘All-Russia scientific-research institute of viticulture and winemaking “Magarach”’, Russian Academy of Sciences | 25.7.2014 |
+  | 20\. | State enterprise of the ‘Republic of Crimea’ Sparkling wine plant ‘Novy Svet’<br>Государственное унитарное предприятие Республики Крым ‘Завод шампанских вин “Новый Свет”’<br>Formerly known as State Unitary Enterprise of the ‘Republic of Crimea’‘Factory of sparkling wine “Novy Svet”’<br>(formerly known as State enterprise sparkling wine plant ‘Novy Svet’<br>Государственное предприятие Завод шампанских вин ‘Новый свет’<br>Gosudarstvenoye predpriyatiye Zavod shampanskykh vin ‘Novy Svet’) | 298032, Crimea, Sudak, urban village Novy Svet, str. Shalapina 1.<br>298032, Крым, г. Судак, пгт. Новый Свет, ул. Шаляпина, д.1 | The ownership of the entity was transferred contrary to Ukrainian law. On 9 April 2014, the ‘Presidium of the Parliament of Crimea’ adopted a decision No 1991 -6/14 ‘On the amendments to the Resolution of the State Council of the “Republic of Crimea”’ of 26 March 2014 No 1836-6/14 ‘On nationalization of the property of enterprises, institutions and organizations of agro-industrial complex, located in the territory of the “Republic of Crimea” declaring the appropriation of assets belonging to the state enterprise “Zavod shampanskykh vin Novy Svet”’ on behalf of the ‘Republic of Crimea’. The enterprise is thus effectively confiscated by the Crimean ‘authorities’. Re-registered on 4.1.2015 as State Unitary Enterprise of the ‘Republic of Crimea’‘Factory of sparkling wine “Novy Svet”’ (Государственное унитарное предприятие Республики Крым ‘Завод шампанских вин “Новый Свет”’). Founder: The Ministry of Agriculture of the Republic of Crimea (Министерство сельского хозяйства Республики Крым). | 25.7.2014 |
+  | 23\. | Russian National Commercial Bank<br>(Российский национальный коммерческий банк) | 295000, Simferopol, Naberezhnaja str named after 60th anniversary of USSR, 34<br>295000, Симферополь, ул. Набережная имени 60–летия СССР, д. 34<br>Website: http://www.rncb.ru | After the illegal annexation of Crimea, Russian National Commercial Bank (RNCB) became fully owned by the so- called ‘Republic of Crimea’. In January 2016 became a property of Federal Agency for State Property Management, also known as Rosimushchestvo (Федеральное агентство по управлению государственным имуществом (Росимущество)).<br>It has become the dominant player in the market, while it had no presence in Crimea before the annexation. By buying or taking over from branches of retreating banks operating in Crimea, RNCB supported materially and financially the actions of the Russian government to integrate Crimea into the Russian Federation, thus undermining Ukraine's territorial integrity. | 30.7.2014 |
+  | 25\. | Peace to Luhansk Region (Mir Luganschine) Мир Луганщине | https://mir-lug.info/ | Public ‘organisation’ that presented candidates in the so-called ‘elections’ of the so-called ‘Luhansk People's Republic’2 November 2014. These ‘elections’ are in breach of Ukrainian law and therefore illegal.<br>In participating formally in the illegal ‘elections’ it has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and to further destabilise Ukraine. Headed by Igor PLOTNITSKY. | 29.11.2014 |
+  | 26\. | Free Donbass (a.k.a. ‘Free Donbas’, ‘Svobodny Donbass’) Свободньιй Донбасс | http://www.odsd.ru/ | Public ‘organisation’ that presented candidates in the so-called ‘elections’ of the so-called ‘Donetsk People's Republic’2 November 2014. These elections are in breach of Ukrainian law and therefore illegal.<br>In participating formally in the illegal ‘elections’ it has therefore actively supported actions and policies which undermine the territorial integrity, sovereignty and independence of Ukraine, and to further destabilise Ukraine. | 29.11.2014 |
+  | 30\. | Sparta battalion<br>Батальон ‘Спарта’ |  | Armed separatist group which has actively supported actions which undermine the territorial integrity, sovereignty and independence of Ukraine and further destabilise Ukraine.<br>Part of the so-called ‘1st Army Corps’ of the ‘Donetsk People's Republic’. | 16.2.2015 |
+  | 31\. | Somali battalion<br>Батальон ‘Сомали’ |  | Armed separatist group which has actively supported actions which undermine the territorial integrity, sovereignty and independence of Ukraine and further destabilise Ukraine.<br>Part of the so-called ‘1st Army Corps’ of the ‘Donetsk People's Republic’. | 16.2.2015 |
+  | 37\. | Movement ‘Novorossiya’ of Igor STRELKOV<br>Движение ‘Новороссия’ Игоря СТРЕЛКОВА | http://novorossia.pro/ | The Movement ‘Novorossiya’/‘New Russia’ was established in November 2014 in Russia and is headed by Russian officer Igor Strelkov/Girkin (identified as a staff member of the Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU)).<br>According to its stated objectives, it aims at providing all-round, effective assistance to ‘Novorossiya’, including by helping militia fighting in Eastern Ukraine, thereby supporting policies undermining the territorial integrity, sovereignty and independence of Ukraine.<br>Associated with a person listed for undermining the territorial integrity of Ukraine. | 16.2.2015 |
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 78, 17.3.2014, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.078.01.0016.01.ENG).
+
+[^f00002]: Footnote: Council Decision (CFSP) 2017/445 of 13 March 2017 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine ([OJ L 67, 14.3.2017, p. 88](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.067.01.0088.01.ENG)).

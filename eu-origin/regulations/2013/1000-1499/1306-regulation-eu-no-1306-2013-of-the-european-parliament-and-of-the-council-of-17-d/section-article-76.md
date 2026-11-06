@@ -1,0 +1,51 @@
+---
+title: Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008, section Article 76
+act: Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008
+section: Article 76
+status: revised-with-pending-changes
+text_date: '2025-06-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2013/1306/section/Article 76
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008, section Article 76
+
+> **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 76. Delegated powers
+
+*Extent: E+W+S+N.I.*
+
+1. In order to ensure that the integrated system provided for in this Chapter is implemented in an efficient, coherent and non-discriminatory way which ensures proper management of public money[^key-481b422759be385233769e8037703008], the appropriate authority may make regulations[^key-a29f59b9d7546d6d457003f1977f72f2] concerning:
+
+- (a) specific definitions needed to ensure a harmonised implementation of the integrated system [^key-358359830a744ac78784efe93636ba83]...;
+- (b) with regards to Articles 67 to 75, rules on further measures necessary to ensure the compliance with control requirements laid down in this Regulation or in sectoral agricultural legislation to be taken [^key-f9c840488130b50135ce1a54ead37b35]... in respect of producers, services, bodies, organisations or other operators, such as slaughterhouses or associations involved in the procedure for the granting of the aid, where this Regulation does not provide for relevant administrative penalties; such measures shall as far as possible, follow, mutatis mutandis, the provisions on penalties set out in paragraphs (1) to (5) of Article 77.
+
+2. In order to ensure a correct distribution of the funds resulting from the aid applications provided for in Article 72 to the entitled beneficiaries and to allow for verification of the fulfilment by them of the obligations related thereto, the appropriate authority may make regulations[^key-276f4a06a0adf663e9d64b90b2740177] concerning:
+
+- (a) the basic features, technical rules, including, for the update of reference parcels, appropriate tolerance margins taking into account the outline and condition of the parcel, and including rules on the inclusion of landscape features located adjacent to a parcel, and quality requirements for the identification system for agricultural parcels provided for in Article 70 and for the identification of the beneficiaries as provided for in Article 73;
+- (aa) (Extent: W))[^key-5c97c39a553af229ef84b14f4f31387c] the basic features, technical rules and quality requirements of the system for the identification and registration of payment entitlements provided for in Article 71; *(Extent: W)*
+- (b)[^key-bfc1a502e8f5579abf641162396f293b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the rules to establish the definition of the basis for the calculation of aid, including rules on how to deal with certain cases in which eligible areas contain landscape features or trees; such rules may allow, in relation to areas under permanent grassland, for scattered landscape features and trees, the total area of which does not exceed a specified percentage of the reference parcel, to be part of the eligible area automatically[^key-d9f36efa5fde145db5d16e370010bdb2] without a requirement to map them for that purpose.
+
+## Annotations
+
+[^key-481b422759be385233769e8037703008]: Textual amendment: Words in [Art. 76(1)](https://www.legislation.gov.uk/eur/2013/1306/article/76/1) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [17(a)(i)](https://www.legislation.gov.uk/uksi/2019/748/regulation/17/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a29f59b9d7546d6d457003f1977f72f2]: Textual amendment: Words in [Art. 76(1)](https://www.legislation.gov.uk/eur/2013/1306/article/76/1) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2019/748/regulation/17/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-358359830a744ac78784efe93636ba83]: Textual amendment: Words in [Art. 76(1)(a)](https://www.legislation.gov.uk/eur/2013/1306/article/76/1/a) omitted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [17(a)(iia)](https://www.legislation.gov.uk/uksi/2019/748/regulation/17/a/iia) (as inserted by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(7)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/7/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); note that Art 76(1)(a) was previously substituted with a similar effect (31.1.2020 in so far as it relates to the Common Agricultural Policy direct payment schemes) by [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [7(14)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/90/regulation/7/14/a/iii)
+
+[^key-f9c840488130b50135ce1a54ead37b35]: Textual amendment: Words in [Art. 76(1)(b)](https://www.legislation.gov.uk/eur/2013/1306/article/76/1/b) omitted (31.12.2020) by virtue of [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [17(a)(iii)](https://www.legislation.gov.uk/uksi/2019/748/regulation/17/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-276f4a06a0adf663e9d64b90b2740177]: Textual amendment: Words in [Art. 76(2)](https://www.legislation.gov.uk/eur/2013/1306/article/76/2) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [17(b)(i)](https://www.legislation.gov.uk/uksi/2019/748/regulation/17/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5c97c39a553af229ef84b14f4f31387c]: Textual amendment: [Art. 76(2)(aa)](https://www.legislation.gov.uk/eur/2013/1306/article/76/2/aa) inserted (W.) (26.3.2021 in so far as it relates to domestic support for rural development) by [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [15(3)](https://www.legislation.gov.uk/wsi/2021/400/regulation/15/3)
+
+[^key-bfc1a502e8f5579abf641162396f293b]: Textual amendment: [Art. 76(2)(b)](https://www.legislation.gov.uk/eur/2013/1306/article/76/2/b) omitted (31.12.2020) by virtue of [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [17(b)(ia)](https://www.legislation.gov.uk/uksi/2019/748/regulation/17/b/ia) (as inserted by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(7)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d9f36efa5fde145db5d16e370010bdb2]: Textual amendment: Words in [Art. 76(2)(c)](https://www.legislation.gov.uk/eur/2013/1306/article/76/2/c) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [17(b)(ii)](https://www.legislation.gov.uk/uksi/2019/748/regulation/17/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

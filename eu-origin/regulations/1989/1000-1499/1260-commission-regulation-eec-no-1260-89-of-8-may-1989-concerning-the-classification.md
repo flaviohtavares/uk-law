@@ -1,0 +1,77 @@
+---
+title: Commission Regulation (EEC) No 1260/89 of 8 May 1989 concerning the classification of certain goods within the combined nomenclature
+id: eur/1989/1260
+type: EuropeanUnionRegulation
+category: euretained
+status: revised-with-pending-changes
+made_date: '1989-05-08'
+text_date: '1989-05-08'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/1989/1260
+pdf_urls:
+- http://www.legislation.gov.uk/eur/1989/1260/pdfs/eur_19891260_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/1989/1260/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EEC) No 1260/89 of 8 May 1989 concerning the classification of certain goods within the combined nomenclature
+
+> **Warning: changes not yet applied to this text (3).** Text as at 1989-05-08. See https://www.legislation.gov.uk/changes/affected/eur/1989/1260
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EEC) No 1260/89
+
+of 8 May 1989
+
+concerning the classification of certain goods within the combined nomenclature
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 2658/87[^f00001] on the tariff and statistical nomenclature and on the Common Customs Tariff, as last amended by Regulation (EEC) No 20/89[^f00002], and in particular Article 9 thereof,
+
+Whereas, in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;
+
+Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and these rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivisions to it and which is established by specific Community provisions, with a view to the application of tariff or other measures relating to trade in goods;
+
+Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed hereto must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;
+
+Whereas the nomenclature committee has not delivered an opinion within the time limit set by its chairman,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+
+**Article 2.** This Regulation shall enter into force on the 21st day after its publication in the *Official Journal of the European Communities*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 8 May 1989.
+
+*For the Commission*
+
+Christiane Scrivener
+
+*Member of the Commission*
+
+## ANNEX
+
+| Description of the goods | CN code classification | Reasons |
+| --- | --- | --- |
+| (1) | (2) | (3) |
+| A product having the appearance of a soft white wax, consisting of a mixture of alpha-olefins which have even-numbered carbon chains of 18 to 26 atoms, of which the 20- and 22-carbon chains represent more than 80 % by weight of the total | 2712 90 90 | Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature and the texts of CN codes 2712 and 2712 90 90. It is a product similar to those mentioned in the second part of CN code 2712 |
+| \[4,4'-bis(l,1,3,3-tetrametilbutil)-2,2'-thiodiphenolato-0,0',S\](butilamina)nickel(II) | 2930 90 90 | Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the interpretation of the combined nomenclature, note 6 to Chapter 29 and the texts of CN codes 2930 and 2930 90 90 |
+| A solution in a volatile organic solvent (25 % by weight approximately) of a triazin derivate (75 % by weight approximately), formed by the reorganization of polymerization of hexmaethylene diisocyanate (HMDI), in which the free isocyanate groups are protected | 3911 90 90 | Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature, note 3e to Chapter 39 and the texts of CN codes 3911 and 3911 90 90.<br>The product has a polymeric character and is considered to be a prepolymer |
+
+## Annotations
+
+[^f00001]: Footnote: [OJ No L 256, 7. 9. 1987, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.256.01.0001.01.ENG).
+
+[^f00002]: Footnote: [OJ No L 4, 6. 1. 1989, p. 19](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.004.01.0019.01.ENG).

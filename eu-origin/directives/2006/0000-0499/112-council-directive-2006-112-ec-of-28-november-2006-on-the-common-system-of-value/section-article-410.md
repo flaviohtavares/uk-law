@@ -1,0 +1,30 @@
+---
+title: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, section Article 410
+act: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax
+section: Article 410
+status: revised
+text_date: '2020-12-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2006/112/section/Article 410
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, section Article 410
+
+> Text as at 2020-12-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Article 410.** 1. By way of derogation from Article 71, the importation of goods within the meaning of Article 408 shall terminate without the occurrence of a chargeable event if one of the following conditions is met:
+
+- (a) the imported goods are dispatched or transported outside the enlarged Community;
+- (b) the imported goods within the meaning of Article 408(1)(a) are other than means of transport and are redispatched or transported to the Member State from which they were exported and to the person who exported them;
+- (c) the imported goods within the meaning of Article 408(1)(a) are means of transport which were acquired or imported before the date of accession in accordance with the general conditions of taxation in force on the domestic market of one of the new Member States or of one of the Member States of the Community or which have not been subject, by reason of their exportation, to any exemption from, or refund of, VAT.
+
+2. The condition referred to in paragraph 1(c) shall be deemed to be fulfilled in the following cases:
+
+- (a) when the date of first entry into service of the means of transport was more than eight years before the accession to the European Union.
+- (b) when the amount of tax due by reason of the importation is insignificant.

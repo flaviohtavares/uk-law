@@ -1,0 +1,179 @@
+---
+title: Council Decision (CFSP) 2015/440 of 16 March 2015 extending the mandate of the European Union Special Representative for the Horn of Africa
+id: eudn/2015/440
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2015-03-16'
+text_date: '2015-03-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2015/440
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2015/440/pdfs/eudn_20150440_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2015/440/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision (CFSP) 2015/440 of 16 March 2015 extending the mandate of the European Union Special Representative for the Horn of Africa
+
+> Text as at 2015-03-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision (CFSP) 2015/440
+
+of 16 March 2015
+
+extending the mandate of the European Union Special Representative for the Horn of Africa
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 33 and Article 31(2) thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1)
+
+On 8 December 2011, the Council adopted Decision 2011/819/CFSP[^f00001] appointing Mr Alexander RONDOS as the European Union Special Representative (EUSR) for the Horn of Africa. The EUSR's mandate is to expire on 28 February 2015.
+
+(2)
+
+The mandate of the EUSR should be further extended until 31 October 2015.
+
+(3)
+
+The EUSR will implement the mandate in the context of a situation which may deteriorate and could impede the achievement of the objectives of the Union's external action as set out in Article 21 of the Treaty,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1. European Union Special Representative
+
+The mandate of Mr Alexander RONDOS as the EUSR for the Horn of Africa is extended until 31 October 2015. The Council may decide that the mandate of the EUSR be terminated earlier, based on an assessment by the Political and Security Committee (PSC) and a proposal from the High Representative of the Union for Foreign Affairs and Security Policy (HR).
+
+For the purposes of the mandate of the EUSR, the Horn of Africa is defined as comprising the Republic of Djibouti, the State of Eritrea, the Federal Democratic Republic of Ethiopia, the Republic of Kenya, the Federal Republic of Somalia, the Republic of the Sudan, the Republic of South Sudan and the Republic of Uganda. For issues with broader regional implications, the EUSR shall engage with countries and regional entities beyond the Horn of Africa, as appropriate.
+
+## Article 2. Policy objectives
+
+1. The mandate of the EUSR shall be based on the policy objectives of the Union in relation to the Horn of Africa, as set out in its strategic framework adopted on 14 November 2011 and in relevant Council conclusions, namely to contribute actively to regional and international efforts to achieve peaceful coexistence and lasting peace, security and development within and among the countries in the region. The EUSR shall furthermore aim to enhance the quality, intensity, impact and visibility of the Union's multifaceted engagement in the Horn of Africa.
+
+2. The policy objectives shall include, inter alia:
+
+- (a) the continued stabilisation of Somalia, particularly as approached from a regional dimension;
+- (b) the peaceful coexistence of Sudan and South Sudan as two viable and prosperous states with robust and accountable political structures;
+- (c) the resolution of current conflicts and avoidance of potential conflicts between or within countries in the region;
+- (d) support for political, security and economic regional cooperation.
+
+## Article 3. Mandate
+
+1. In order to achieve the Union's policy objectives in relation to the Horn of Africa, the mandate of the EUSR shall be to:
+
+- (a) engage with all relevant stakeholders of the region, governments, regional authorities, international and regional organisations, civil society and diasporas, with a view to furthering the Union's objectives, and contribute to a better understanding of the role of the Union in the region;
+- (b) represent the Union in relevant international forums, as appropriate, and ensure visibility for Union support to crisis management, as well as conflict resolution and prevention;
+- (c) encourage and support effective political and security cooperation and economic integration in the region through the Union's partnership with the African Union (AU) and regional organisations, in particular the Intergovernmental Authority on Development (IGAD);
+- (d) follow political developments in the region and contribute to the development of the Union's policy towards the region, including in relation to Somalia, Sudan, South Sudan, the Ethiopia-Eritrea border issue and implementation of the Algiers Agreement, the Nile Basin initiative and other concerns in the region that impact on its security, stability and prosperity;
+- (e) with regard to Somalia, and working in close coordination with the EU Special Envoy for Somalia and relevant regional and international partners, including the United Nations (UN) Secretary-General Special Representative for Somalia and the AU, contribute actively to actions and initiatives leading to further stabilisation and post transition arrangements for Somalia, with an emphasis on promoting a coordinated and coherent international approach towards Somalia, building good neighbourly relations and supporting the development of the security sector in Somalia, including, through the European Union military mission to contribute to the training of Somali security forces (EUTM Somalia), the European Union-led naval force (EUNAVFOR Atalanta), the European Union Mission on Regional Maritime Capacity Building in the Horn of Africa (EUCAP Nestor) and the Union's continued support to the African Union Mission in Somalia (Amisom), working closely with Member States;
+- (f) with regard to Sudan and South Sudan, and working in close cooperation with the respective Heads of Union delegations, contribute to the coherence and effectiveness of Union policy towards Sudan and South Sudan and support their peaceful coexistence, in particular through implementation of the Addis Agreements and resolution of the outstanding issues following the Comprehensive Peace Agreement, including Abyei, political solutions to the ongoing conflicts, particularly in Darfur, Southern Kordofan and Blue Nile, institution-building in South Sudan and national reconciliation. In this regard, the EUSR shall contribute to a coherent international approach in close cooperation with the AU and in particular the AU High Level Implementation Panel for Sudan (AUHIP), the UN and other leading regional and international stakeholders;
+- (g) follow closely the trans-boundary challenges affecting the Horn of Africa, including terrorism, radicalisation, maritime security and piracy, organised crime, arms smuggling, refugee and migration flows and any political and security consequences of humanitarian crises;
+- (h) promote humanitarian access throughout the region;
+- (i) contribute to the implementation of Council Decision 2011/168/CFSP[^f00002] and the Union's human rights policy, in cooperation with the EUSR for Human Rights, including the EU Guidelines on human rights, in particular the EU Guidelines on children and armed conflict as well as the EU Guidelines on violence against women and girls and combating all forms of discrimination against them, and the Union's policy regarding UN Security Council Resolution 1325 (2000), including by monitoring and reporting on developments as well as formulating recommendations in this regard.
+
+2. For the purpose of the fulfilment of the mandate, the EUSR shall, inter alia:
+
+- (a) advise and report on the definition of Union positions in international forums, as appropriate, in order to promote proactively the Union's comprehensive policy approach towards the Horn of Africa;
+- (b) maintain an overview of all activities of the Union.
+
+## Article 4. Implementation of the mandate
+
+1. The EUSR shall be responsible for the implementation of the mandate, acting under the authority of the HR.
+
+2. The PSC shall maintain a privileged link with the EUSR and shall be the EUSR's primary point of contact with the Council. The PSC shall provide the EUSR with strategic guidance and political direction within the framework of the mandate, without prejudice to the powers of the HR.
+
+3. The EUSR shall work in close coordination with the European External Action Service (EEAS) and its relevant departments, Union delegations in the region and the Commission.
+
+## Article 5. Financing
+
+1. The financial reference amount intended to cover the expenditure related to the mandate of the EUSR for the period from 1 March 2015 to 31 October 2015 shall be EUR 1 770 000.
+
+2. The expenditure shall be managed in accordance with the procedures and rules applicable to the general budget of the Union.
+
+3. The management of the expenditure shall be subject to a contract between the EUSR and the Commission. The EUSR shall be accountable to the Commission for all expenditure.
+
+## Article 6. Constitution and composition of the team
+
+1. Within the limits of the EUSR's mandate and the corresponding financial means made available, the EUSR shall be responsible for constituting his team. The team shall include the expertise on specific policy and security issues as required by the mandate. The EUSR shall promptly and regularly inform the Council and the Commission of the composition of his team.
+
+2. Member States, the institutions of the Union and the EEAS may propose the secondment of staff to work with the EUSR. The salary of such seconded personnel shall be covered by the Member State, the institution of the Union concerned or the EEAS, respectively. Experts seconded by Member States to the institutions of the Union or the EEAS may also be posted to the EUSR. International contracted staff shall have the nationality of a Member State.
+
+3. All seconded personnel shall remain under the administrative authority of the sending Member State, the sending institution of the Union or the EEAS, and shall carry out their duties and act in the interest of the mandate of the EUSR.
+
+4. The EUSR staff shall be co-located with the relevant EEAS departments or Union delegations in order to contribute to the coherence and consistency of their respective activities.
+
+## Article 7. Privileges and immunities of the EUSR and the staff of the EUSR
+
+The privileges, immunities and further guarantees necessary for the completion and smooth functioning of the mission of the EUSR and the members of the EUSR's staff shall be agreed with the host countries, as appropriate. Member States and the EEAS shall grant all necessary support to such effect.
+
+## Article 8. Security of EU classified information
+
+The EUSR and the members of his team shall respect the security principles and minimum standards established by Council Decision 2013/488/EU[^f00003].
+
+## Article 9. Access to information and logistical support
+
+1. Member States, the Commission, the EEAS and the General Secretariat of the Council shall ensure that the EUSR is given access to any relevant information.
+
+2. The Union delegations in the region and the Member States, as appropriate, shall provide logistical support in the region.
+
+## Article 10. Security
+
+In accordance with the Union's policy on the security of personnel deployed outside the Union in an operational capacity under Title V of the Treaty, the EUSR shall take all reasonably practicable measures, in accordance with the EUSR's mandate and the security situation in the geographical area of responsibility, for the security of all personnel under the direct authority of the EUSR, in particular by:
+
+- ((a)) establishing a mission-specific security plan based on guidance from the EEAS, including mission-specific physical, organisational and procedural security measures, governing the management of the secure movement of personnel to, and within, the mission area as well as the management of security incidents and including a mission contingency plan and evacuation plan;
+- ((b)) ensuring that all personnel deployed outside the Union are covered by high-risk insurance, as required by the conditions in the mission area;
+- ((c)) ensuring that all members of the EUSR's team to be deployed outside the Union, including locally contracted personnel, have received appropriate security training before or upon arriving in the mission area, based on the risk ratings assigned to the mission area by the EEAS;
+- ((d)) ensuring that all agreed recommendations made following regular security assessments are implemented, and providing the Council, the HR and the Commission with written reports on their implementation and on other security issues within the framework of the progress and the mandate implementation reports.
+
+## Article 11. Reporting
+
+1. The EUSR shall regularly provide the HR and the PSC with oral and written reports. The EUSR shall also report to Council working parties, as necessary. Regular reports shall be circulated through the COREU network. The EUSR may provide the Foreign Affairs Council with reports. In accordance with Article 36 of the Treaty, the EUSR may be involved in briefing the European Parliament.
+
+2. The EUSR shall report on the best way of pursuing Union initiatives, such as the contribution of the Union to reforms, and including the political aspects of relevant Union development projects, in coordination with the Union delegations in the region.
+
+## Article 12. Coordination
+
+1. The EUSR shall contribute to the unity, consistency and effectiveness of the Union's actions and shall help ensure that all Union instruments and Member States' action are engaged consistently, to attain the Union's policy objectives. The activities of the EUSR shall be coordinated with those of Union delegations and of the Commission. The EUSR shall provide regular briefings to Member States' missions and Union delegations in the region.
+
+2. In the field, close liaison shall be maintained with the Heads of the Union delegations and the Heads of Member States' missions. They shall make every effort to assist the EUSR in the implementation of the mandate. The EUSR, in close coordination with the relevant Union delegations, shall provide local political guidance to the Force Commander of EUNAVFOR Atalanta, the EU Mission Commander of EUTM Somalia and the Head of Mission of EUCAP Nestor. The EUSR, the EU Operation Commanders and the Civilian Operation Commander shall consult each other as required.
+
+3. The EUSR shall closely cooperate with the authorities of the countries involved, the UN, the AU, IGAD, other national regional and international stakeholders, and also with civil society in the region.
+
+## Article 13. Review
+
+The implementation of this Decision and its consistency with other contributions from the Union to the region shall be kept under regular review. The EUSR shall present the Council, the HR and the Commission with a comprehensive mandate implementation report by 31 August 2015.
+
+## Article 14. Entry into force
+
+This Decision shall enter into force on the date of its adoption.
+
+It shall apply from 1 March 2015.
+
+Done at Brussels, 16 March 2015.
+
+*For the Council*
+
+*The President*
+
+F. Mogherini
+
+## Annotations
+
+[^f00001]: Footnote: Council Decision 2011/819/CFSP of 8 December 2011 appointing the European Union Special Representative for the Horn of Africa ([OJ L 327, 9.12.2011, p. 62](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.327.01.0062.01.ENG)).
+
+[^f00002]: Footnote: Council Decision 2011/168/CFSP of 21 March 2011 on the International Criminal Court and repealing Common Position 2003/444/CFSP ([OJ L 76, 22.3.2011, p. 56](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.076.01.0056.01.ENG)).
+
+[^f00003]: Footnote: Council Decision 2013/488/EU of 23 September 2013 on the security rules for protecting EU classified information ([OJ L 274, 15.10.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.274.01.0001.01.ENG)).

@@ -1,0 +1,25 @@
+---
+title: Commission Delegated Regulation (EU) 2019/715 of 18 December 2018 on the framework financial regulation for the bodies set up under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council, section Article 51
+act: Commission Delegated Regulation (EU) 2019/715 of 18 December 2018 on the framework financial regulation for the bodies set up under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council
+section: Article 51
+status: revised
+text_date: '2018-12-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2019/715/section/Article 51
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2019/715 of 18 December 2018 on the framework financial regulation for the bodies set up under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council, section Article 51
+
+> Text as at 2018-12-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 51. Accounting rules
+
+*Extent: E+W+S+N.I.*
+
+The accounting officer of the Union body shall apply the rules adopted by the accounting officer of the Commission based on internationally accepted accounting standards for the public sector.
+
+For the purposes of the first paragraph of this Article, Articles 80 to 84 and 87 of Regulation (EU, Euratom) 2018/1046 shall apply. Articles 85 and 86 of Regulation (EU, Euratom) 2018/1046 shall apply mutatis mutandis.

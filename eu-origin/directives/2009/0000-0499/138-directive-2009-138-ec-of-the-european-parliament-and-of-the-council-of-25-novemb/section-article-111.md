@@ -1,0 +1,60 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 111
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 111
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 111
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 111
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 111. Delegated acts and regulatory and implementing technical standards concerning Articles 103 to 109[^c000004]
+
+*Extent: E+W+S+N.I.*
+
+1. The Commission shall adopt delegated acts in accordance with Article 301a providing for the following:
+
+- (a) a standard formula in accordance with Articles 101 and 103 to 109;
+- (b) any sub-modules necessary or covering more precisely the risks which fall under the respective risk modules referred to in Article 104 as well as any subsequent updates;
+- (c) the methods, assumptions and standard parameters to be calibrated to the confidence level referred to in Article 101(3) and to be used when calculating each of the risk modules or sub-modules of the basic Solvency Capital Requirement laid down in Articles 104, 105 and 304, the symmetric adjustment mechanism and the appropriate period of time, expressed in the number of months, as referred to in Article 106, and the appropriate approach for integrating the method referred to in Article 304 in the Solvency Capital Requirement as calculated in accordance with the standard formula;
+- (d) the correlation parameters, including, where necessary, those set out in Annex IV, and the procedures for updating those parameters;
+- (e) where insurance and reinsurance undertakings use risk-mitigation techniques, the methods and assumptions to be used to assess the changes in the risk profile of the undertaking concerned and to adjust the calculation of the Solvency Capital Requirement;
+- (f) the qualitative criteria that the risk-mitigation techniques referred to in point (e) must fulfil in order to ensure that the risk has been effectively transferred to a third party;
+- (fa) the method and parameters to be used when assessing the capital requirement for counterparty default risk in the case of exposures to qualifying central counterparties, those parameters ensuring consistency with the treatment of such exposures in the case of credit institutions and financial institutions within the meaning of Article 4(1)(1) and (26) of Regulation (EU) No 575/2013;
+- (g) the methods and parameters to be used when assessing the capital requirement for operational risk set out in Article 107, including the percentage referred to in Article 107(3);
+- (h) the methods and adjustments to be used to reflect the reduced scope for risk diversification of insurance and reinsurance undertakings relating to ring-fenced funds;
+- (i) the method to be used when calculating the adjustment for the loss absorbing capacity of technical provisions or deferred taxes, as laid down in Article 108;
+- (j) the subset of standard parameters in the life, non-life and health underwriting risk modules that may be replaced by undertaking-specific parameters as set out in Article 104(7);
+- (k) the standardised methods to be used by the insurance or reinsurance undertaking to calculate the undertaking-specific parameters referred to in point (j), and any criteria with respect to the completeness, accuracy, and appropriateness of the data used that must be met before supervisory approval is given together with the procedure to be followed for such approval;
+- (l) the simplified calculations provided for specific sub-modules and risk modules, as well as the criteria that insurance and reinsurance undertakings, including captive insurance and reinsurance undertakings, shall be required to fulfil in order to be entitled to use each of those simplifications, as set out in Article 109;
+- (m) the approach to be used with respect to related undertakings within the meaning of Article 212 in the calculation of the Solvency Capital Requirement, in particular the calculation of the equity risk sub-module referred to in Article 105(5), taking into account the likely reduction in the volatility of the value of those related undertakings arising from the strategic nature of those investments and the influence exercised by the participating undertaking on those related undertakings;
+- (n) how to use external credit assessments from ECAIs in the calculation of the Solvency Capital Requirement in accordance with the standard formula and the allocation of external credit assessments to a scale of credit quality steps referred to in Article 109a(1) which shall be consistent with the use of external credit assessments from ECAIs in the calculation of the capital requirements for credit institutions as defined in Article 4(1)(1) of Regulation (EU) No 575/2013 and financial institutions as defined in Article 4(1)(26) thereof;
+- (o) the detailed criteria for the equity index referred to in Article 109a(2)(c);
+- (p) the detailed criteria for the adjustments for currencies pegged to the euro for the purpose of facilitating the calculation of the currency risk sub-module referred to in Article 109a(2)(d);
+- (q) the conditions for a categorisation of regional governments and local authorities referred to in Article 109a(2)(a).
+
+2. In order to ensure uniform conditions of application of this Article, EIOPA shall develop draft implementing technical standards on the procedures for supervisory approval of undertaking-specific parameters referred to in point (k) of paragraph 1.
+
+EIOPA shall submit those draft implementing technical standards to the Commission by 31 October 2014 .
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1094/2010.
+
+3. By 31 December 2020 , the Commission shall make an assessment of the appropriateness of the methods, assumptions and standard parameters used when calculating the Solvency Capital Requirement standard formula. It shall in particular take into account the performance of any asset class and financial instruments, the behaviour of investors in those assets and financial instruments as well as developments in international standard setting in financial services. The review of certain asset classes may be prioritised. The Commission shall present a report to the European Parliament and to the Council, accompanied, where appropriate, by proposals for the amendment of this Directive, or of delegated or implementing acts adopted pursuant hereto.
+
+4. In order to ensure consistent harmonisation in relation to the Solvency Capital Requirement, EIOPA shall, subject to Article 301b, develop draft regulatory technical standards to specify quantitative limits and asset eligibility criteria where those risks are not adequately covered by a sub-module.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1094/2010.
+
+Those regulatory technical standards shall apply to assets covering technical provisions, excluding assets held in respect of life insurance contracts where the investment risk is borne by the policy holders. They shall be reviewed by the Commission in the light of developments in the standard formula and financial markets.
+
+## Annotations
+
+[^c000004]: Textual amendment: Substituted by [Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)](https://www.legislation.gov.uk/eudr/2014/51).

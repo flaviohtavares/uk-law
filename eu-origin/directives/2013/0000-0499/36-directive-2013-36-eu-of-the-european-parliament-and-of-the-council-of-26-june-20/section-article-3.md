@@ -1,0 +1,105 @@
+---
+title: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 3
+act: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance)
+section: Article 3
+status: revised
+text_date: '2020-12-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2013/36/section/Article 3
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 3
+
+> Text as at 2020-12-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 3. Definitions
+
+*Extent: E+W+S+N.I.*
+
+1. For the purposes of this Directive, the following definitions shall apply:
+
+- ((1)) 'credit institution' means credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((2)) 'investment firm' means investment firm as defined in point (2) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((3)) 'institution' means institution as defined in point (3) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((4)) 'local firm' means local firm as defined in point (4) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((5)) 'insurance undertaking' means insurance undertaking as defined in point (5) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((6)) 'reinsurance undertaking' means reinsurance undertaking as defined in point (6) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((7)) 'management body' means an institution's body or bodies, which are appointed in accordance with national law, which are empowered to set the institution's strategy, objectives and overall direction, and which oversee and monitor management decision-making, and include the persons who effectively direct the business of the institution;
+- ((8)) 'management body in its supervisory function' means the management body acting in its role of overseeing and monitoring management decision-making;
+- ((9)) 'senior management' means those natural persons who exercise executive functions within an institution and who are responsible, and accountable to the management body, for the day-to-day management of the institution;
+- ((10)) 'systemic risk' means a risk of disruption in the financial system with the potential to have serious negative consequences for the financial system and the real economy;
+- ((11)) 'model risk' means the potential loss an institution may incur, as a consequence of decisions that could be principally based on the output of internal models, due to errors in the development, implementation or use of such models;
+- ((12)) 'originator' means originator as defined in point (13) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((13)) 'sponsor' means sponsor as defined in point (14) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((14)) 'parent undertaking' means parent undertaking as defined in point (15) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((15)) 'subsidiary' means subsidiary as defined in point (16) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((16)) 'branch' means branch as defined in point (17) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((17)) 'ancillary services undertaking' means ancillary services undertaking as defined in point (18) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((18)) 'asset management company' means asset management company as defined in point (19) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((19)) 'financial holding company' means financial holding company as defined in point (20) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((20)) 'mixed financial holding company' means mixed financial holding company as defined in point (21) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((21)) 'mixed activity holding company' means mixed activity holding company as defined in point (22) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((22)) 'financial institution' means financial institution as defined in point (26) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((23)) 'financial sector entity' means financial sector entity as defined in point (27) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((24)) 'parent institution in a Member State' means parent institution in a Member State as defined in point (28) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((25)) 'EU parent institution' means EU parent institution as defined in point (29) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((26)) 'parent financial holding company in a Member State' means parent financial holding company in a Member State as defined in point (30) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((27)) 'EU parent financial holding company' means EU parent financial holding company as defined in point (31) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((28)) 'parent mixed financial holding company in a Member State' means parent mixed financial holding company in a Member State as defined in point (32) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((29)) 'EU parent mixed financial holding company' means EU parent mixed financial holding company as defined in point (33) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((30)) 'systemically important institution' means an EU parent institution, an EU parent financial holding company, an EU parent mixed financial holding company or an institution the failure or malfunction of which could lead to systemic risk;
+- ((31)) 'central counterparty' means central counterparty as defined in point (34) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((32)) 'participation' means participation as defined in point (35) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((33)) 'qualifying holding' means qualifying holding as defined in point (36) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((34)) 'control' means control as defined in point (37) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((35)) 'close links' means close links as defined in point (38) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((36)) 'competent authority' means competent authority as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((37)) 'consolidating supervisor' means consolidating supervisor as defined in point (41) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((38)) 'authorisation' means authorisation as defined in point (42) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((39)) 'home Member State' means home Member State as defined in point (43) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((40)) 'host Member State' means host Member State as defined in point (44) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((41)) 'ESCB central banks' means ESCB central banks as defined in point (45) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((42)) 'central banks' means central banks as defined in point (46) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((43)) 'consolidated situation' means consolidated situation as defined in point (47) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((44)) 'consolidated basis' means consolidated basis as defined in point (48) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((45)) 'sub-consolidated basis' means sub-consolidated basis as defined in point (49) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((46)) 'financial instrument' means financial instrument as defined in point (50) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((47)) 'own funds' means own funds as defined in point (118) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((48)) 'operational risk' means operational risk as defined in point (52) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((49)) 'credit risk mitigation' means credit risk mitigation as defined in point (57) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((50)) 'securitisation' means securitisation as defined in point (61) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((51)) 'securitisation position' means securitisation position as defined in point (62) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((52)) 'securitisation special purpose entity' means securitisation special purpose entity as defined in point (66) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((53)) 'discretionary pension benefits' means discretionary pension benefits as defined in point (73) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((54)) 'trading book' means trading as defined in point (86) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((55)) 'regulated market' means regulated market as defined in point (92) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((56)) 'leverage' means leverage as defined in point (93) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((57)) 'risk of excessive leverage' means risk of excessive leverage as defined in point (94) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((58)) 'external credit assessment institution' means external credit assessment institution as defined in point (98) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((59)) 'internal approaches' means the internal ratings based approach referred to in Article 143(1), the internal models approach referred to in Article 221, the own estimates approach referred to in Article 225, the advanced measurement approaches referred to in Article 312(2), the internal models method referred to in Articles 283 and 363, and the internal assessment approach referred to in Article 259(3) of Regulation (EU) No 575/2013;[^c000001]
+- ((60)) ‘resolution authority[^c000002]’ means a resolution authority as defined in point (18) of Article 2(1) of Directive 2014/59/EU of the European Parliament and of the Council [^f00021] ;
+- ((61)) ‘ global systemically important institution ’ or ‘ G-SII ’ means a G-SII as defined in point (133) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((62)) ‘ non-EU global systemically important institution ’ or ‘ non-EU G-SII ’ means a non-EU G-SII as defined in point (134) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((63)) ‘ group ’ means a group as defined in point (138) of Article 4(1) of Regulation (EU) No 575/2013;
+- ((64)) ‘ third-country group ’ means a group of which the parent undertaking is established in a third country;
+- ((65)) ‘ gender neutral remuneration policy ’ means a remuneration policy based on equal pay for male and female workers for equal work or work of equal value.
+
+2. Where this Directive refers to the management body and, pursuant to national law, the managerial and supervisory functions of the management body are assigned to different bodies or different members within one body, the Member State shall identify the bodies or members of the management body responsible in accordance with its national law, unless otherwise specified by this Directive.
+
+3. In order to ensure that requirements or supervisory powers laid down in this Directive or in Regulation (EU) No 575/2013 apply on a consolidated or sub-consolidated basis in accordance with this Directive and that Regulation, the terms ‘ institution ’ , ‘ parent institution in a Member State ’ , ‘ EU parent institution ’ and ‘ parent undertaking ’ shall also include:
+
+- (a) financial holding companies and mixed financial holding companies that have been granted approval in accordance with Article 21a of this Directive;
+- (b) designated institutions controlled by an EU parent financial holding company, an EU parent mixed financial holding company, a parent financial holding company in a Member State or a parent mixed financial holding company in a Member State where the relevant parent is not subject to approval in accordance with Article 21a(4) of this Directive; and
+- (c) financial holding companies, mixed financial holding companies or institutions designated pursuant to point (d) of Article 21a(6) of this Directive.
+
+## Annotations
+
+[^c000001]: Textual amendment: Substituted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).
+
+[^c000002]: Textual amendment: Inserted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).
+
+[^f00021]: Footnote: Directive 2014/59/EU of the European Parliament and of the Council of[^c000002] 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council ( [OJ L 173, 12.6.2014, p. 190](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0190.01.ENG) ).

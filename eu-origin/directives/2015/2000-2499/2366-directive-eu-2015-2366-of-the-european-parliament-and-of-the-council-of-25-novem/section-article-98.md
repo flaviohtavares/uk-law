@@ -1,0 +1,48 @@
+---
+title: Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance), section Article 98
+act: Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance)
+section: Article 98
+status: revised
+text_date: '2015-12-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2015/2366/section/Article 98
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance), section Article 98
+
+> Text as at 2015-12-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 98. Regulatory technical standards on authentication and communication
+
+*Extent: E+W+S+N.I.*
+
+1. EBA shall, in close cooperation with the ECB and after consulting all relevant stakeholders, including those in the payment services market, reflecting all interests involved, develop draft regulatory technical standards addressed to payment service providers as set out in Article 1(1) of this Directive in accordance with Article 10 of Regulation (EU) No 1093/2010 specifying:
+
+- (a) the requirements of the strong customer authentication referred to in Article 97(1) and (2);
+- (b) the exemptions from the application of Article 97(1), (2) and (3), based on the criteria established in paragraph 3 of this Article;
+- (c) the requirements with which security measures have to comply, in accordance with Article 97(3) in order to protect the confidentiality and the integrity of the payment service users’ personalised security credentials; and
+- (d) the requirements for common and secure open standards of communication for the purpose of identification, authentication, notification, and information, as well as for the implementation of security measures, between account servicing payment service providers, payment initiation service providers, account information service providers, payers, payees and other payment service providers.
+
+2. The draft regulatory technical standards referred to in paragraph 1 shall be developed by EBA in order to:
+
+- (a) ensure an appropriate level of security for payment service users and payment service providers, through the adoption of effective and risk-based requirements;
+- (b) ensure the safety of payment service users’ funds and personal data;
+- (c) secure and maintain fair competition among all payment service providers;
+- (d) ensure technology and business-model neutrality;
+- (e) allow for the development of user-friendly, accessible and innovative means of payment.
+
+3. The exemptions referred to in point (b) of paragraph 1 shall be based on the following criteria:
+
+- (a) the level of risk involved in the service provided;
+- (b) the amount, the recurrence of the transaction, or both;
+- (c) the payment channel used for the execution of the transaction.
+
+4. EBA shall submit the draft regulatory technical standards referred to in paragraph 1 to the Commission by 13 January 2017.
+
+Power is delegated to the Commission to adopt those regulatory technical standards in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+5. In accordance with Article 10 of Regulation (EU) No 1093/2010, EBA shall review and, if appropriate, update the regulatory technical standards on a regular basis in order, inter alia, to take account of innovation and technological developments.

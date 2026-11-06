@@ -1,0 +1,39 @@
+---
+title: Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’), section Article 39
+act: Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’)
+section: Article 39
+status: revised
+text_date: '2017-10-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2017/1939/section/Article 39
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’), section Article 39
+
+> Text as at 2017-10-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 39. Dismissal of the case
+
+*Extent: E+W+S+N.I.*
+
+1. Where prosecution has become impossible, pursuant to the law of the Member State of the handling European Delegated Prosecutor, the Permanent Chamber shall, based on a report provided by the European Delegated Prosecutor handling the case in accordance with Article 35(1), decide to dismiss the case against a person on account of any of the following grounds:
+
+- (a) the death of the suspect or accused person or winding up of a suspect or accused legal person;
+- (b) the insanity of the suspect or accused person;
+- (c) amnesty granted to the suspect or accused person;
+- (d) immunity granted to the suspect or accused person, unless it has been lifted;
+- (e) expiry of the national statutory limitation to prosecute;
+- (f) the suspect’s or accused person’s case has already been finally disposed of in relation to the same acts;
+- (g) the lack of relevant evidence.
+
+2. A decision in accordance with paragraph 1 shall not bar further investigations on the basis of new facts which were not known to the EPPO at the time of the decision and which become known after the decision. The decision to reopen investigations on the basis of such new facts shall be taken by the competent Permanent Chamber.
+
+3. Where the EPPO is competent in accordance with Article 22(3), it shall dismiss a case only after consultation with the national authorities of the Member State referred to in Article 25(6). If applicable, the Permanent Chamber shall refer the case to the competent national authorities in accordance with Article 34(6), (7) and (8).
+
+The same applies where the EPPO exercises a competence in respect of offences referred to in points (a) and (b) of Article 3(2) of Directive (EU) 2017/1371 and where the damage caused or likely to be caused to the Union’s financial interests does not exceed the damage caused or likely to be caused to another victim.
+
+4. Where a case has been dismissed, the EPPO shall officially notify the competent national authorities and shall inform the relevant institutions, bodies, offices and agencies of the Union, as well as, where appropriate under national law, the suspects or accused persons and the crime victims, of such dismissal. The dismissed cases may also be referred to OLAF or to the competent national administrative or judicial authorities for recovery or other administrative follow-up.

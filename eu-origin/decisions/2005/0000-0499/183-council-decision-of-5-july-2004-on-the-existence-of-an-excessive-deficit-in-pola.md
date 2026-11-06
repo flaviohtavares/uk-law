@@ -1,0 +1,86 @@
+---
+title: Council Decision of 5 July 2004 on the existence of an excessive deficit in Poland (2005/183/EC)
+id: eudn/2005/183
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2004-07-05'
+text_date: '2004-07-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2005/183
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2005/183/pdfs/eudn_20050183_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2005/183/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision of 5 July 2004 on the existence of an excessive deficit in Poland (2005/183/EC)
+
+> Text as at 2004-07-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision
+
+of 5 July 2004
+
+on the existence of an excessive deficit in Poland
+
+(2005/183/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 104(6) thereof,
+
+Having regard to the recommendation from the Commission,
+
+Having regard to the observations made by Poland,
+
+Whereas:
+
+(1)
+
+According to Article 104 of the Treaty Member States are to avoid excessive government deficits; this applies also to Member States with a derogation, the case of all countries that joined the European Union on 1 May 2004.
+
+(2)
+
+The Stability and Growth Pact is based on the objective of sound government finances as a means of strengthening the conditions for price stability and for strong sustainable growth conducive to employment creation.
+
+(3)
+
+The excessive deficit procedure under Article 104 provides for a decision on the existence of an excessive deficit and the Protocol on the excessive deficit procedure annexed to the Treaty sets out further provisions relating to the implementation of the excessive deficit procedure. Council Regulation (EC) No 3605/93 of 22 November 1993 on the application of the Protocol on the excessive deficit procedure annexed to the Treaty establishing the European Community[^f00001], lays down detailed rules and definitions for the application of the provision of the said Protocol.
+
+(4)
+
+Article 104(5) of the Treaty requires the Commission to address an opinion to the Council if the Commission considers that an excessive deficit in a Member State exists or may occur. Having examined all relevant factors taken into account in its report in accordance with Article 104(3) and having regard to the opinion of the Economic and Financial Committee in accordance with Article 104(4), the Commission concluded in its opinion of 24 June 2004 that there exists an excessive deficit in Poland.
+
+(5)
+
+Article 104(6) of the Treaty lays down that the Council should consider any observations which the Member State concerned may wish to make before deciding, after an overall assessment, whether an excessive deficit exists.
+
+(6)
+
+The overall assessment leads to the following conclusions: the general government deficit reached 4,1 % of GDP in 2003 in Poland, above the 3 % of GDP Treaty reference value. The excess of the general government deficit over the reference value did not result from an unusual event outside the control of the Polish authorities, nor was it the result of a severe economic downturn, in the sense of the Stability and Growth Pact. The general government deficit is likely to remain above 3 % of GDP in 2004. In particular, according to the Commission Spring 2004 forecasts, the deficit is projected to reach 6 % of GDP in 2004, while the convergence programme of Poland expects a deficit of 5,7 % of GDP. The debt ratio, which was 45,4 % in 2003, is likely to remain below the 60 % of GDP Treaty reference value in 2004. The deficit and the debt figures will have to be adjusted upward if the open pension funds are excluded from the general government sector following the Eurostat decision on the classification of the funded pension schemes,
+
+HAS ADOPTED THIS DECISON:
+
+**Article 1.** From an overall assessment it follows that an excessive deficit exists in Poland.
+
+**Article 2.** This decision is addressed to the Republic of Poland.
+
+Done at Brussels, 5 July 2004.
+
+*For the Council*
+
+*The President*
+
+G. Zalm
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 332, 31.12.1993, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.332.01.0007.01.ENG). Regulation as last amended by Commission Regulation (EC) No 351/2002 ([OJ L 55, 26.2.2002, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.055.01.0023.01.ENG)).

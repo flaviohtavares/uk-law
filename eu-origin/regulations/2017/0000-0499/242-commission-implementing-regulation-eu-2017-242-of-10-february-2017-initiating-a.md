@@ -1,0 +1,311 @@
+---
+title: Commission Implementing Regulation (EU) 2017/242 of 10 February 2017 initiating a review of Implementing Regulations (EU) 2016/184 and (EU) 2016/185 (extending the definitive countervailing and anti-dumping duty on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not) for the purposes of determining the possibility of granting an exemption from those measures to one Malaysian exporting producer, repealing the anti-dumping duty with regard to imports from that exporting producer and making imports from that exporting producer subject to registration
+id: eur/2017/242
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2017-02-10'
+text_date: '2017-02-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2017/242
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2017/242/pdfs/eur_20170242_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2017/242/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) 2017/242 of 10 February 2017 initiating a review of Implementing Regulations (EU) 2016/184 and (EU) 2016/185 (extending the definitive countervailing and anti-dumping duty on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not) for the purposes of determining the possibility of granting an exemption from those measures to one Malaysian exporting producer, repealing the anti-dumping duty with regard to imports from that exporting producer and making imports from that exporting producer subject to registration
+
+> Text as at 2017-02-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Regulation (EU) 2017/242
+
+of 10 February 2017
+
+initiating a review of Implementing Regulations (EU) 2016/184 and (EU) 2016/185 (extending the definitive countervailing and anti-dumping duty on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not) for the purposes of determining the possibility of granting an exemption from those measures to one Malaysian exporting producer, repealing the anti-dumping duty with regard to imports from that exporting producer and making imports from that exporting producer subject to registration
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/1036 of the European Parliament and of the Council of 8 June 2016 on protection against dumped imports from countries not members of the European Union[^f00001] (‘the basic anti-dumping Regulation’) and in particular Articles 11(4), 13(4) and 14(5) and to Regulation (EU) 2016/1037 of the European Parliament and of the Council of 8 June 2016 on protection against subsidised imports from countries not members of the European Union[^f00002] (‘the basic anti-subsidy Regulation’) and in particular to Articles 23(6) and 24(5) thereof,
+
+After informing the Member States,
+
+Whereas:
+
+1\.
+
+**REQUEST**
+
+(1)
+
+The European Commission (‘the Commission’) received a request for an exemption from the anti-dumping and countervailing measures applicable to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China extended to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not, as far as the applicant is concerned, pursuant to Articles 11(4) and 13(4) of the basic anti-dumping Regulation and Article 23(6) of the basic anti-subsidy Regulation.
+
+(2)
+
+The request was lodged on 21 October 2016 by Jinko Solar Technology SDN.BHD (‘the applicant’), an exporting producer of crystalline silicon photovoltaic modules or panels and cells of the type used in crystalline silicon photovoltaic modules or panels in Malaysia.
+
+2\.
+
+**PRODUCT UNDER REVIEW**
+
+(3)
+
+The product under review is crystalline silicon photovoltaic modules or panels and cells of the type used in crystalline silicon photovoltaic modules or panels (the cells have a thickness not exceeding 400 micrometres), consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not, currently falling within CN codes ex 8501 31 00, ex 8501 32 00, ex 8501 33 00, ex 8501 34 00, ex 8501 61 20, ex 8501 61 80, ex 8501 62 00, ex 8501 63 00, ex 8501 64 00 and ex 8541 40 90.
+
+(4)
+
+The following product types are excluded from the definition of the product under review:
+
+- solar chargers that consist of less than six cells, are portable and supply electricity to devices or charge batteries,
+- thin film photovoltaic products,
+- crystalline silicon photovoltaic products that are permanently integrated into electrical goods, where the function of the electrical goods is other than power generation, and where these electrical goods consume the electricity generated by the integrated crystalline silicon photovoltaic cell(s),
+- modules or panels with an output voltage not exceeding 50 V DC and a power output not exceeding 50 W solely for direct use as battery chargers in systems with the same voltage and power characteristics.
+
+3\.
+
+**EXISTING MEASURES**
+
+(5)
+
+The Council, by Implementing Regulations (EU) No 1238/2013[^f00003] and (EU) No 1239/2013[^f00004], imposed anti-dumping and countervailing measures on crystalline silicon photovoltaic modules or panels and cells of the type used in crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China (‘the original measures’). Also an Undertaking Agreement was accepted. By Implementing Regulations (EU) 2016/184[^f00005] and (EU) 2016/185[^f00006], the Commission extended the measures to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan (‘the extended measures’), whether declared as originating in Malaysia and in Taiwan or not, with the exception of imports produced by certain companies specifically mentioned.
+
+(6)
+
+On 5 December 2015 the Commission initiated expiry reviews of the anti-dumping[^f00007] and countervailing[^f00008] measures and an interim review[^f00009]. These review investigations are ongoing.
+
+4\.
+
+**GROUNDS FOR THE REVIEW**
+
+(7)
+
+The applicant claimed that it did not export the product under review to the Union during the investigation period used in the investigation that led to the extended measures, namely the period from 1 April 2014 to 31 March 2015.
+
+(8)
+
+In addition, the applicant claimed that it has not circumvented the existing measures.
+
+(9)
+
+The applicant further claimed that after the investigation period used in the investigation that led to the extended measures it has entered into an irrevocable contractual obligation to export a significant quantity to the Union.
+
+5\.
+
+**PROCEDURE**
+
+5.1.
+
+**Initiation**
+
+(10)
+
+The Commission examined the evidence available and concluded that there was sufficient evidence to justify the initiation of an investigation pursuant to Articles 11(4) and 13(4) of the basic anti-dumping Regulation and to Article 23(6) of the basic anti-subsidy Regulation for the purposes of determining the possibility of granting the applicant an exemption from the extended measures.
+
+(11)
+
+The Union industry known to be concerned was informed of the request for a review and was given an opportunity to comment. The Union industry claimed that since the applicant is related to a Chinese group subject to measures which withdrew from the Undertaking[^f00010], the risk of circumvention is particularly high.
+
+(12)
+
+The Commission will pay particular attention to this relationship and carefully examine if the relationship with the companies subject to the existing measures was not established or used to circumvent the measures. The Commission will also consider whether particular monitoring conditions should be imposed in case the investigation will conclude that granting the exemption is warranted.
+
+5.2.
+
+**Repeal of the existing anti-dumping measures and registration of imports**
+
+(13)
+
+Pursuant to Article 11(4) of the basic anti-dumping Regulation, the anti-dumping duty in force should be repealed with regard to imports of the product under review which are produced and sold for export to the Union by the applicant.
+
+(14)
+
+At the same time, such imports should be made subject to registration in accordance with Article 14(5) of the basic anti-dumping Regulation in order to ensure that, should the review result in a finding of circumvention in respect of the applicant, anti-dumping duties can be levied from the date of the registration of these imports. The amount of the applicant's possible future liabilities cannot be estimated at this stage of the investigation.
+
+5.3.
+
+**Existing anti-subsidy measures**
+
+(15)
+
+As there is no legal basis in the basic anti-subsidy Regulation to repeal the anti-subsidy measures in force, these measures will remain in force. Only should the review result in the finding that the applicant is entitled to an exemption, the anti-subsidy measures in force will be repealed through a Regulation granting such an exemption.
+
+5.4.
+
+**Review investigation period**
+
+(16)
+
+The investigation will cover the period from 1 April 2014 to 31 December 2016 (‘review investigation period’).
+
+5.5.
+
+**Investigating the applicant**
+
+(17)
+
+In order to obtain information it deems necessary for its investigation, the Commission will send a questionnaire to the applicant. The applicant must submit the completed questionnaire within 37 days of the date of entry into force of this Regulation, unless otherwise specified, pursuant to Article 6(2) of the basic anti-dumping Regulation and Article 11(2) of the basic anti-subsidy Regulation.
+
+5.6.
+
+**Other written submissions**
+
+(18)
+
+Subject to the provisions of this Regulation, all interested parties are invited to make their views known, submit information and provide supporting evidence. Unless otherwise specified, this information and supporting evidence must reach the Commission within 37 days of the date of entry into force of this Regulation.
+
+5.7.
+
+**Possibility to be heard by the Commission investigation services**
+
+(19)
+
+All interested parties may request to be heard by the Commission investigation services. Any request to be heard must be made in writing and must specify the reasons for the request. For hearings on issues pertaining to the initiation stage of the investigation the request must be submitted within 15 days of the date of entry into force of this Regulation. Thereafter, a request to be heard must be submitted within the specific deadlines set by the Commission in its communication with the parties.
+
+5.8.
+
+**Instructions for making written submissions and sending completed questionnaires and correspondence**
+
+(20)
+
+Information submitted to the Commission for the purpose of trade defence investigations shall be free from copyrights. Interested parties, before submitting to the Commission information and/or data which is subject to third-party copyrights, must request specific permission to the copyright holder explicitly allowing: (a) the Commission to use the information and data for the purpose of this trade defence proceeding; and (b) to provide the information and/or data to interested parties to this investigation in a form that allows them to exercise their right of defence.
+
+(21)
+
+All written submissions, including the information requested in this Regulation, completed questionnaires and correspondence provided by interested parties for which confidential treatment is requested should be labelled ‘Limited’[^f00011].
+
+(22)
+
+Interested parties providing ‘Limited’ information are required to furnish non- confidential summaries of it pursuant to Article 19(2) of the basic anti-dumping Regulation and Article 29(2) of the basic anti-subsidy Regulation, which will be labelled ‘For inspection by interested parties’. These summaries should be sufficiently detailed to permit a reasonable understanding of the substance of the information submitted in confidence. If an interested party providing confidential information does not furnish a non-confidential summary of it in the requested format and quality, such information may be disregarded.
+
+(23)
+
+Interested parties are invited to make all submissions and requests by email including scanned powers of attorney and certification sheets, with the exception of voluminous replies which should be submitted on a portable digital storage medium (CD-ROM, DVD, USB flash drive, etc.) by hand or by registered mail. By using email, interested parties express their agreement with the rules applicable to electronic submissions contained in the document ‘CORRESPONDENCE WITH THE EUROPEAN COMMISSION IN TRADE DEFENCE CASES’ published on the website of the Directorate-General for Trade:
+
+http://trade.ec.europa.eu/doclib/docs/2011/june/tradoc\_148003.pdf
+
+The interested parties must indicate their name, address, telephone and a valid email address and they should ensure that the provided email address is a functioning official business email which is checked on a daily basis. Once contact details are provided, the Commission will communicate with interested parties by email only, unless they explicitly request to receive all documents from the Commission by another means of communication or unless the nature of the document to be sent requires the use of a registered mail. For further rules and information concerning correspondence with the Commission including principles that apply to submissions by email, interested parties should consult the communication instructions with interested parties referred to above.
+
+Commission address for correspondence:
+
+European Commission
+
+Directorate-General for Trade
+
+Directorate H
+
+Office: CHAR 04/039
+
+1049 Brussels
+
+BELGIUM
+
+Email: Trade.solar.R659@ec.europa.eu
+
+6\.
+
+**NON-COOPERATION**
+
+(24)
+
+In cases where any interested party refuses access to or does not provide the necessary information within the time limits, or significantly impedes the investigation, findings, affirmative or negative, may be made on the basis of facts available, in accordance with Article 18 of the basic anti-dumping Regulation and Article 28 of the basic anti-subsidy Regulation.
+
+(25)
+
+Where it is found that any interested party has supplied false or misleading information, the information may be disregarded and use may be made of facts available.
+
+(26)
+
+If an interested party does not cooperate or cooperates only partially and findings are therefore based on facts available in accordance with Article 18 of the basic anti-dumping Regulation and Article 28 of the basic anti-subsidy Regulation, the result may be less favourable to that party than if it had cooperated.
+
+(27)
+
+Failure to give a computerised response will not be deemed to constitute non-cooperation, provided that the interested party shows that presenting the response as requested would result in an unreasonable extra burden or unreasonable additional cost. The interested party should immediately contact the Commission.
+
+7\.
+
+**HEARING OFFICER**
+
+(28)
+
+Interested parties may request the intervention of the Hearing Officer in trade proceedings. The Hearing Officer acts as an interface between the interested parties and the Commission investigation services. The Hearing Officer reviews requests for access to the file, disputes regarding the confidentiality of documents, requests for extension of time limits and requests by third parties to be heard. The Hearing Officer may organise a hearing with an individual interested party and mediate to ensure that the interested parties' rights of defence are being fully exercised. The Hearing Officer will also provide opportunities for a hearing involving parties to take place which would allow different views to be presented and rebuttal arguments offered.
+
+(29)
+
+A request for a hearing with the Hearing Officer should be made in writing and should specify the reasons for the request. For hearings on issues pertaining to the initial stage of the investigation the request must be submitted within 15 days of the date of entry into force of this Regulation. Thereafter, a request to be heard must be submitted within specific deadlines set by the Commission in its communication with the parties.
+
+(30)
+
+For further information and contact details interested parties may consult the Hearing Officer's web pages on DG Trade's website: http://ec.europa.eu/trade/trade-policy-and-you/contacts/hearing-officer/
+
+8\.
+
+**SCHEDULE OF THE INVESTIGATION**
+
+(31)
+
+The investigation will be concluded, pursuant to Article 11(5) of the basic anti-dumping Regulation and to Article 22(1) of the basic anti-subsidy Regulation, within nine months of the date of the entry into force of this Regulation.
+
+9\.
+
+**PROCESSING OF PERSONAL DATA**
+
+(32)
+
+Any personal data collected in this investigation will be treated in accordance with Regulation (EC) No 45/2001 of the European Parliament and of the Council[^f00012],
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** A review of Implementing Regulations (EU) 2016/184 and (EU) 2016/185, is hereby initiated pursuant to Articles 11(4) and 13(4) of Regulation (EU) 2016/1036 and Article 23(6) of Regulation (EU) 2016/1037 in order to establish whether the imports of crystalline silicon photovoltaic modules or panels and cells of the type used in crystalline silicon photovoltaic modules or panels (the cells have a thickness not exceeding 400 micrometres), consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not, currently falling within CN codes ex 8501 31 00, ex 8501 32 00, ex 8501 33 00, ex 8501 34 00, ex 8501 61 20, ex 8501 61 80, ex 8501 62 00, ex 8501 63 00, ex 8501 64 00 and ex 8541 40 90 (TARIC codes: 8501 31 00 82, 8501 31 00 83, 8501 32 00 42, 8501 32 00 43, 8501 33 00 62, 8501 33 00 63, 8501 34 00 42, 8501 34 00 43, 8501 61 20 42, 8501 61 20 43, 8501 61 80 42, 8501 61 80 43, 8501 62 00 62, 8501 62 00 63, 8501 63 00 42, 8501 63 00 43, 8501 64 00 42, 8501 64 00 43, 8541 40 90 22, 8541 40 90 23, 8541 40 90 32, 8541 40 90 33), produced by Jinko Solar Technology SDN.BHD, should be subject to the anti-dumping and anti-subsidy measures imposed by Implementing Regulations (EU) 2016/185 and (EU) 2016/184.
+
+**Article 2.** The anti-dumping duty imposed by Implementing Regulation (EU) 2016/185 is hereby repealed with regard to the imports identified in Article 1 of this Regulation.
+
+**Article 3.** The Customs authorities shall take the appropriate steps to register the imports into the Union identified in Article 1 of this Regulation, pursuant to Article 14(5) of Regulation (EU) 2016/1036.
+
+Registration shall expire nine months following the date of entry into force of this Regulation.
+
+**Article 4.** This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable to all Member States.
+
+Done at Brussels, 10 February 2017.
+
+*For the Commission*
+
+*The President*
+
+Jean-Claude Juncker
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 176, 30.6.2016, p. 21](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.176.01.0021.01.ENG).
+
+[^f00002]: Footnote: [OJ L 176, 30.6.2016, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.176.01.0055.01.ENG).
+
+[^f00003]: Footnote: Council Implementing Regulation (EU) No 1238/2013 of 2 December 2013 imposing a definitive anti-dumping duty and collecting definitively the provisional duty imposed on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China ([OJ L 325, 5.12.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.325.01.0001.01.ENG)).
+
+[^f00004]: Footnote: Council Implementing Regulation (EU) No 1239/2013 of 2 December 2013 imposing a definitive countervailing duty on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China ([OJ L 325, 5.12.2013, p. 66](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.325.01.0066.01.ENG)).
+
+[^f00005]: Footnote: Commission Implementing Regulation (EU) 2016/184 of 11 February 2016 extending the definitive countervailing duty imposed by Council Implementing Regulation (EU) No 1239/2013 on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not ([OJ L 37, 12.2.2016, p. 56](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.037.01.0056.01.ENG)).
+
+[^f00006]: Footnote: Commission Implementing Regulation (EU) 2016/185 of 11 February 2016 extending the definitive anti-dumping duty imposed by Council Regulation (EU) No 1238/2013 on imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China to imports of crystalline silicon photovoltaic modules and key components (i.e. cells) consigned from Malaysia and Taiwan, whether declared as originating in Malaysia and in Taiwan or not ([OJ L 37, 12.2.2016, p. 76](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.037.01.0076.01.ENG)).
+
+[^f00007]: Footnote: Notice of initiation 2015/C 405/08; [OJ C 405, 5.12.2015, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2015.405.01.0008.01.ENG).
+
+[^f00008]: Footnote: Notice of initiation 2015/C 405/09; [OJ C 405, 5.12.2015, p. 20](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2015.405.01.0020.01.ENG).
+
+[^f00009]: Footnote: Notice of initiation 2015/C 405/10; [OJ C 405, 5.12.2015, p. 33](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2015.405.01.0033.01.ENG).
+
+[^f00010]: Footnote: Commission Implementing Regulation (EU) 2016/1998 of 15 November 2016 withdrawing the acceptance of the undertaking for five exporting producers under Implementing Decision 2013/707/EU confirming the acceptance of an undertaking offered in connection with the anti-dumping and anti-subsidy proceedings concerning imports of crystalline silicon photovoltaic modules and key components (i.e. cells) originating in or consigned from the People's Republic of China for the period of application of definitive measures ([OJ L 308, 16.11.2016, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.308.01.0008.01.ENG)).
+
+[^f00011]: Footnote: A ‘Limited’ document is a document which is considered confidential pursuant to Article 19 of Regulation (EU) 2016/1036 and Article 6 of the WTO Agreement on Implementation of Article VI of the GATT 1994 (Anti-Dumping Agreement). It is also a document protected pursuant to Article 4 of Regulation (EC) No 1049/2001 of the European Parliament and of the Council ([OJ L 145, 31.5.2001, p. 43](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.145.01.0043.01.ENG)).
+
+[^f00012]: Footnote: Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data ([OJ L 8, 12.1.2001, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.008.01.0001.01.ENG)).

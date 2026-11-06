@@ -1,0 +1,46 @@
+---
+title: Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (Text with EEA relevance), section Article 338
+act: Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (Text with EEA relevance)
+section: Article 338
+status: revised-with-pending-changes
+text_date: '2026-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2013/575/section/Article 338
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (Text with EEA relevance), section Article 338
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-01-01. See https://www.legislation.gov.uk/changes/affected/eur/2013/575
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 338. Own funds requirement for the correlation trading portfolio[^c000001]
+
+*Extent: E+W+S+N.I.*
+
+1. The correlation trading portfolio shall consist of securitisation positions and n-th-to-default credit derivatives that meet all of the following criteria:
+
+- (a) the positions are neither re-securitisation positions, nor options on a securitisation tranche, nor any other derivatives of securitisation exposures that do not provide a pro-rata share in the proceeds of a securitisation tranche;
+- (b) all reference instruments are either of the following:
+  - ((i)) single-name instruments, including single-name credit derivatives, for which a liquid two-way market exists;
+  - ((ii)) commonly-traded indices based on those reference entities.
+
+A two-way market is deemed to exist where there are independent bona fide offers to buy and sell so that a price reasonably related to the last sales price or current bona fide competitive bid and offer quotations can be determined within one day and settled at such price within a relatively short time conforming to trade custom.
+
+2. Positions which reference any of the following shall not be part of the correlation trading portfolio:
+
+- (a) an underlying that is capable of being assigned to the exposure class ‘ retail exposures ’ or to the exposure class ‘ exposures secured by mortgages on immovable property ’ under the Standardised Approach for credit risk in an institution's non-trading book;
+- (b) a claim on a special purpose entity, collateralised, directly or indirectly, by a position that would itself not be eligible for inclusion in the correlation trading portfolio in accordance with paragraph 1 and this paragraph.
+
+3. An institution may include in the correlation trading portfolio positions which are neither securitisation positions nor n-th-to-default credit derivatives but which hedge other positions of that portfolio, provided that a liquid two-way market as described in the last subparagraph of paragraph 1 exists for the instrument or its underlyings.
+
+4. An institution shall determine the larger of the following amounts as the specific risk own funds requirement for the correlation trading portfolio:
+
+- (a) the total specific risk own funds requirement that would apply just to the net long positions of the correlation trading portfolio;
+- (b) the total specific risk own funds requirement that would apply just to the net short positions of the correlation trading portfolio.
+
+## Annotations
+
+[^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).

@@ -1,0 +1,809 @@
+---
+title: Commission Regulation (EEC) No 2692/89 of 6 September 1989 laying down detailed rules for exports of rice to Réunion
+id: eur/1989/2692
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '1989-09-06'
+text_date: '2005-11-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/1989/2692
+pdf_urls:
+- http://www.legislation.gov.uk/eur/1989/2692/pdfs/eur_19892692_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/1989/2692/pdfs/eur_19892692_1999-07-03_en.pdf
+- http://www.legislation.gov.uk/eur/1989/2692/pdfs/eur_19892692_2004-07-14_en.pdf
+- http://www.legislation.gov.uk/eur/1989/2692/pdfs/eur_19892692_2005-11-29_en.pdf
+- http://www.legislation.gov.uk/eur/1989/2692/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EEC) No 2692/89 of 6 September 1989 laying down detailed rules for exports of rice to Réunion
+
+> Text as at 2005-11-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EEC) No 2692/89
+
+of 6 September 1989
+
+laying down detailed rules for exports of rice to Réunion
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 1418/76 of 21 June 1976 on the common organization of the market in rice[^f00001], as last amended by Regulation (EEC) No 1806/89[^f00002], and in particular Articles 11a (6) and 27 thereof,
+
+Having regard to Council Regulation (EEC) No 1676/85 of 11 June 1985 on the value of the unit of account and the conversion rates to be applied for the purposes of the common agricultural policy[^f00003], as last amended by Regulation (EEC) No 1636/87[^f00004], and in particular Article 2 (4) thereof,
+
+Whereas the subsidies must be fixed so as to cover the difference between the quotations and prices for the products in question in the Community and on the world market; whereas to this end it is necessary to take into account the supply situation on the island of Réunion and the price situation for rice and broken rice on the world market and in the Community;
+
+Whereas, in view of the considerable fluctuations over periods of time in quotations for rice and broken rice on the world market and the disparity between the prices at which these products are offered by various countries on that market, the subsidy should be fixed, in order to cover the difference between world prices and prices in the Community, account being taken of forwarding costs, on the basis of the difference between representative prices in the Community and the most favourable quotations on the world market;
+
+Whereas the special arrangements laid down in Article 11a of Regulation (EEC) No 1418/76 for imports of rice to the French overseas department of Réunion include, to ensure equal treatment, a subsidy for rice coming from the Member States; whereas, in order to give Community exporters stability in the amount of this subsidy, provision should be made to fix it in advance;
+
+Whereas the amount of the subsidy fixed in advance must be subject to adjustment in line with the threshold price; whereas such adjustment of a subsidy fixed in advance for paddy or semi-milled rice can be effected only by applying the rates used for converting values pertaining to a quantity of husked or milled rice into a value pertaining to the same quantity of rice at another stage of processing; whereas the rates used should be those laid down in Article 1 of Regulation (EEC) No 467/67/EEC of the Commission of 21 August 1967 fixing the conversion rates, the processing costs and the value of the by-products for the various stages of rice processing[^f00005], as last amended by Regulation (EEC) No 2325/88[^f00006];
+
+Whereas, in order to prevent distortion of competition between operators in different Member States on the conversion into national currency of the amount of the subsidy fixed in ecus, the rates used should be those laid down by Commission Regulation (EEC) No 3294/86 of 29 October 1986 fixing the conversion rates to be applied in respect of levies and refunds in the rice sector[^f00007], as last amended by Regulation (EEC) No 2654/89[^f00008], and the operative event for application of the rate should be specified, account being taken of the exceptional arrangement applicable to the island of Réunion;
+
+Whereas Article 11a (4) of Regulation (EEC) No 1418/76 provides that a subsidy may, if appropriate, be set by tendering procedure;
+
+Whereas detailed rules for such a tendering procedure should be laid down;
+
+Whereas, in order to ensure equal treatment for all interested parties in the Community, invitations to tender must be organized in accordance with uniform principles; whereas to this end publication in the *Official Journal of the European Communities*of a decision concerning the opening of an invitation to tender should be accompanied by a notice of invitation to tender;
+
+Whereas the purpose of fixing a subsidy by means of an invitation to tender is to permit better management of deliveries; whereas to this end it is essential that tenders include the information necessary for their assessment and are accompanied by certain formal undertakings;
+
+Whereas a maximum subsidy should be fixed; whereas this method enables contracts to be awarded in respect of all the quantities concerned;
+
+Whereas there may be market situations in which it is clear from an examination of the economic aspects of the proposed exports that instead of fixing a subsidy the Commission should make no award;
+
+Whereas, in order to ensure that the subsidy document issued when a contract is awarded is used when delivery is made, a tendering security must be required; whereas this obligation cannot be met unless the offer submitted is maintained; whereas if it is withdrawn the security is therefore lost;
+
+Whereas procedures should be laid down as to the communication to tenderers of the outcome of the invitation to tender and also as to the issue of the licence necessary for the export of the quantities awarded;
+
+Whereas products covered by Article 11a (4) of Regulation (EEC) No 1418/76 have a specific destination; whereas they should therefore be accompanied as far as the competent customs office on Réunion by the control copy T5 provided for in Commission Regulation (EEC) No 2823/87 of 18 September 1987 on the documents to be used for the purpose of implementing Community measures entailing verification of the use and/or destination of goods[^f00009];
+
+Whereas it is clear from Article 11a (1) of Regulation (EEC) No 1418/76 that rice may be imported under the provisions of that Article only if intended for consumption on the island of Réunion; whereas the subsidy must not be granted for rice not so used; whereas the competent national authorities should moreover be authorized to take all necessary supervisory measures to ensure that rice imported from non-member countries or delivered from Member States under the said provisions is not re-exported;
+
+Whereas Commission Regulation (EEC) No 4142/87 of 9 December 1987 determining the conditions under which certain goods are eligible on import for a favourable tariff arrangement by reason of their end-use[^f00010]contains certain provisions which are not suitable for the special case of the products referred to in Article 11a of Regulation (EEC) No 1418/76; whereas provisions adapted to the special situation of these products should therefore be included in this Regulation;
+
+Whereas in view of this Regulation Commission Regulation (EEC) No 1031/78 of 19 May 1978 laying down detailed rules for imports of rice to Réunion[^f00011], as last amended by Regulation (EEC) No 1315/89[^f00012] should be repealed;
+
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** This Regulation lays down detailed rules of application for the provisions of Article 11a of Regulation (EEC) No 1418/76.
+
+## TITLE I — SUBSIDY
+
+### Section 1 — General provisions
+
+**Article 2.** The existing situation and outlook for
+
+- rice prices and availability of supply on the Community market,
+- market supply requirements on the island of Réunion,
+- rice prices on the world market,
+
+shall be taken into account for the fixing of the subsidy.
+
+**Article 3.** The amount of the subsidy shall be fixed by reference to the following specific factors:
+
+- ((a)) quotations and prices on the representative Community export markets;
+- ((b)) the most favourable quotations and prices in non-member States exporting to the world market;
+- ((c)) marketing costs and the most favourable transport costs from Community markets to the ports serving the market on the island of Réunion;
+- ((d)) if necessary, forwarding costs to Réunion.
+
+**Article 4.** 1. The amount of the subsidy payable shall be that applicable to the product in question on the day of acceptance of the declaration of exportation to Réunion.
+
+2.[^c000001] Where the validity of the subsidy document referred to in Article 13 extends beyond the end of the marketing year and where export takes place during the following marketing year, the amount of the subsidy resulting from the procedure provided for in Article 9 shall be adjusted where necessary by subtracting the difference between the intervention price for paddy rice in the previous and the new marketing year, exclusive of any monthly increase.
+
+3. The adjustment provided for in paragraph 2 shall take account of the conversion rates specified in Article 1 of Regulation No 467/67/EEC. If the amount of the subsidy resulting from this adjustment is below zero, that amount shall be raised to zero.
+
+**Article 5.** 1. Conversion of the amount of the subsidy into national currency shall be made at the specific agricultural conversion rate set by Regulation (EEC) No 3294/86.
+
+2. The operative date for conversion of the amount of the subsidy into national currency shall be
+
+- in cases of advance fixing of the amount, the day on which the advance fixing application is made,
+- in cases of advance fixing by means of a tendering procedure, the last day for the submission of tenders.
+
+### Section 2 — Tendering procedure
+
+**Article 6.** 1. The provisions of this section shall apply to the fixing of the subsidy by tendering procedure.
+
+2. The procedure laid down in Article 27 of Regulation (EEC) No 1418/76 shall be used for decisions to open invitations to tender and such decisions shall set the terms of the invitation. The terms must guarantee equal access to all persons established in the Community and may lay down a special period of validity for the subsidy document referred to in Article 13 to be issued to the successful tenderer or tenderers.
+
+3. The opening of the invitation to tender shall be accompanied by a notice of invitation to tender prepared by the Commission. This notice shall include *inter alia* particulars of the various dates for the submission of tenders and of the competent authorities of Member States to which such tenders must be addressed. It may also indicate the total quantity on which a subsidy may be granted. Between the publication of the said notice and the first date fixed for the submission of tenders, a period of at least 10 days must be allowed. The notice shall also indicate the closing date for the submission of tenders.
+
+4. Both the decision to open invitations to tender referred to in paragraph 2 and the notice of invitation to tender referred to in paragraph 3 shall be published in the *Official Journal of the European Communities*.
+
+**Article 7.** 1. Tenders, which shall be in writing, may either be delivered personally to the competent authority against a receipt or may be sent to such authority by registered letter or telecommunication.
+
+2. The tender shall indicate:
+
+- (a) the invitation to which the tender relates;
+- (b) the name and address of the tenderer;
+- (c) the nature and quantity of the product to be exported;
+- (d) the amount of the subsidy proposed in ecus per tonne.
+
+3. A tender shall be valid only if:
+
+- (a) before expiry of the time limit for the submission of tenders proof is furnished that the tenderer has lodged the tendering security set when the tendering procedure was opened;
+- (b) it is accompanied by a written undertaking to lodge for the quantities awarded, within two days of receiving the notice of award as referred to in Article 10, an application for the document referred to in Article 13 (1) accompanied by an application for advance fixing of a subsidy of the amount tendered.
+
+4. A tender which is not in accordance with the provisions of this Article, or which contains terms other than those indicated in the notice of invitation to tender, shall not be considered.
+
+5. Once a tender has been submitted it may not be withdrawn. The provisions of Article 13 (2) of Commission Regulation (EEC) No 3719/88[^f00013], shall not apply.
+
+**Article 8.** 1. Tenders shall be examined in private session by the competent authorities of the Member States. Persons present at the examination shall be under an obligation not to disclose any particular relating thereto.
+
+2. The tenders shall be communicated in an anonymous form and without delay to the Commission.
+
+**Article 9.** 1. On the basis of the tenders submitted, the Commission, acting under the procedure laid down in Article 27 of Regulation (EEC) No 1418/76 shall decide either to fix a maximum subsidy, having regard in particular to the criteria laid down in Articles 2 and 3 of this Regulation, or to make no award.
+
+2. If a maximum subsidy is fixed, a contract shall be awarded to any tenderer whose tender indicates a subsidy equal to or less than the maximum.
+
+**Article 10.** The competent authority of the Member State concerned shall, as soon as the Commission has reached a decision under Article 9 (1), notify in writing all tenderers of the outcome of their participation in the tendering procedure.
+
+**Article 11.** The tendering security referred to in Article 7 (3) (a) shall be released if the tender is not accepted.
+
+The primary requirements as defined in Article 20 of Commission Regulation (EEC) No 2220/85[^f00014] shall be:
+
+- maintenance of the offer
+- lodging within the time limits set, of the application referred to in Article 7 (3) (b) and of the relevant security referred to in Article 13 (9).
+
+**Article 12.** Provided that the successful tenderer has lodged the application for the subsidy document referred to in Article 13 (1) within the time limits set, that document shall be issued for the quantities for which he has been awarded a contract. In cases of *force majeure* the time limit may be extended.
+
+## TITLE II — CONTROL
+
+**Article 13.** 1. The grant of the subsidy shall be conditional on submission of a document termed ‘subsidy document’.
+
+The document shall be valid throughout the Community. It shall be issued to all parties requesting it, whatever their place of establishment in the Community. The issue of this document shall be conditional upon the lodging of a security guaranteeing the undertaking to export to the island of Réunion during the period of validity of the document.
+
+Discharge of this undertaking shall be a primary requirement as defined in Article 20 of Regulation (EEC) No 2220/85.
+
+2. The following provisions of Commission Regulation (EEC) No 3719/88 shall apply by analogy to the subsidy document:
+
+- Articles 9, 10 and 11,
+- Articles 13 to 16,
+- Article 18,
+- Articles 20 and 21 (1),
+- Articles 24 to 28,
+- Articles 36, 37 and 38.
+
+3. If the quantity exported is less than the quantity indicated in the subsidy document by not more than 7 % the obligations to export shall be deemed to have been fulfilled. If the quantity exported exceeds the quantity indicated in the document by not more than 5 % it shall be deemed to have been exported under cover of the document.
+
+4. The subsidy documents shall be drawn up at least in duplicate. The first copy, called ‘Holder's copy’ and marked ‘No I’ shall be issued without delay to the applicant and the second, called ‘Issuing agency's copy’ agency's copy” and marked ‘No 2’, shall be kept by the issuing agency. Copy No 1 of the subsidy document shall be submitted to the office where the declaration of exportation to Réunion is accepted. After attribution of the quantity and endorsement by that office, copy No 1 of the subsidy document shall be returned to the party concerned.
+
+5. Proof of exportation shall be furnished by production of copy No 1 of the subsidy document and where appropriate, of copy No 1 of the extract or extracts from the subsidy documents endorsed in accordance with paragraph 4.
+
+6. Without prejudice to Articles 36 and 37 of Regulation (EEC) No 3719/88, if the obligation to export has not been fulfilled, the security shall be forfeit in an amount equal to the difference between:
+
+- (a) 93 % of the net quantity indicated in the subsidy document, and
+- (b) the net quantity actually exported.
+
+However, if the net quantity exported amounts to less than 7 % of the net quantity indicated in the subsidy document, the whole of the security shall be forfeit. Furthermore, if the total amount of the security which should be forfeit is less than ECU 5 for a subsidy document, the Member State may release the whole of the security. On application by the holder of the document, Member States may release the security by instalments *pro rata* to the quantities of products in respect of which the proof referred to in paragraph 5 has been furnished, subject to proof that a quantity equal to at least 7 % of the net quantity indicated in the subsidy document has been exported.
+
+If the proof referred to in paragraph 5 has not, except for reasons of *force majeure*, been furnished within six months of the day on which declaration of exportation was accepted, the security shall be forfeit.
+
+7.[^c000002] The application for a subsidy document and the document itself shall include in section 20 and section 22 one of the entries listed in points A and B respectively of Annex I, written in red or underlined in red.
+
+The heading of the export licence or advance fixing certificate and section 21 shall be crossed out in red.
+
+8.[^c000003] The subsidy document shall be valid from the date of its issue as defined in Article 21(1) of Regulation (EEC) No 3719/88 until the end of the fourth-month following such date.
+
+9. The rate of the security referred to in paragraph 1 shall be ECU 30 per tonne.
+
+**Article 14.** 1. In order to benefit from the subsidy, interested parties shall:
+
+- state, when the declaration of exportation to Réunion is accepted, their intention to benefit from the subsidy,
+- furnish proof that the product in question has been released for consumption on Réunion within twelve months of the date of acceptance of the declaration of exportation.
+
+2. The proof referred to in second indent of paragraph 1 shall be furnished by production of the control copy T5 referred to in Article 1 of Regulation (EEC) No 2823/87.
+
+Among the special endorsements on the control copy, the following shall be completed:
+
+- (a) sections 33 and 103;
+- (b) section 104 shall be annotated accordingly and one of the entries listed in Annex II shall be added
+- (c) section 106 shall be annotated accordingly and one of the entries listed in Annex III shall be added.
+
+The competent customs office in Réunion shall complete section J ‘Control as to use and/or destination’ when the declaration of entry for consumption is accepted.
+
+**Article 15.** 1. The subsidy shall be granted only on products of sound and fair merchantable quality.
+
+If the quality requirements referred to in the first subparagraph are found not to be met when the declaration of release for consumption on Réunion is accepted, one of the entries listed in Annex IV shall be entered under ‘ Remarks ’ in section J of the control copy referred to in Article 14.
+
+2. The subsidy shall be granted only on products containing, to the exclusion of any other product, a percentage of the product for which the subsidy application is made of not less than 95 %.
+
+However, if the product consigned contains broken rice of CN code 1006 40 00 the subsidy shall be reduced as follows:
+
+| Percentage of broken rice | Reduction in subsidy (%) |
+| --- | --- |
+| 0 to 5 | 0 |
+| more than 5 to 10 | 4 |
+| more than 10 to 15 | 6 |
+| more than 15 to 20 | 8 |
+| more than 20 to 30 | 15 |
+| more than 30 to 40 | 30 |
+
+The subsidy shall be paid only at the written request of the party concerned by the Member State on whose territory the declaration of exportation to Réunion was accepted. The Member States may provide a special form for this purpose.
+
+Save in case of *force majeure,* entitlement to the subsidy shall be lost, unless the file for payment of the subsidy is lodged within twelve months following the day on which the customs export formalities were completed.
+
+3. If a control copy T5 is, as a result of circumstances outside the control of the interested party, not returned to the customs office of departure or to the central body within three months of the date on which it was issued, the interested party may make application to the competent authority for other documents to be accepted as equivalent, furnishing supporting documents. These must include confirmation, from the customs office which accepted the declaration of release for consumption, that release for consumption did in fact occur.
+
+**Article 16.** 1. On request by the exporter the Member State shall advance all or part of the amount of the subsidy on acceptance of the declaration of exportation of the products to Réunion, provided that a security is lodged for reimbursement of the advance plus 15 %. Member States may lay down the terms under which application may be made for an advance of part of the subsidy.
+
+2. If the amount advanced is greater than that actually due on the consignment in question, the exporter shall reimburse the difference increased by 15 %.
+
+However, if by reason of *force majeure* the necessary proof cannot be furnished, the 15 % increase shall not be recovered.
+
+**Article 17.** For products released for consumption on Réunion in accordance with the last subparagraph of Article 14 (2)
+
+- either with the benefit of Article 11a (2) or (3) of Regulation (EEC) No 1418/76,
+- or accompanied by the control copy referred to in Article 14,
+
+the competent authorities shall take all necessary control measures to ensure that:
+
+- ((a)) the verification referred to in Article 15 (1) is properly carried out by the customs authorities on the island of Réunion;
+- ((b)) the products referred to in Article 11a of Regulation (EEC) No 1418/76 cannot be re-exported from Réunion, either to a non-member State or to another part of the Community, unless proof is furnished that for the products in question the subsidy has been reimbursed or the normal levy referned to in Article 11 of that Regulation collected.
+
+These measures shall include unannounced physical checks.
+
+The Member State concerned shall notify the Commission of the measures taken and of procedures for the recovery of wrongly paid subsidies and uncollected levies.
+
+**Article 18.** 1. Member States shall inform the Commission:
+
+- each day, of the quantities of products for which the subsidy documents referred to in Article 13 were applied for during the preceding month, indicating these quantities by combined nomenclature subheading,
+- each month, of the quantities for which a request for payment of the subsidy referred to in Article 11a (4) of Regulation (EEC) No 1418/76 was lodged, indicating these quantities by combined nomenclature subheading
+
+2. France shall inform the Commission each month of the quantities of products released for consumption during the previous month in Réunion with the benefit of Article 11a (2) or (3) of Regulation (EEC) No 1418/76, indicating these quantities by combined nomenclature subheading.
+
+**Article 19.** Regulation (EEC) No 1031/78 is hereby repealed.
+
+**Article 20.** This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Communities*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I[^c000004]
+
+A.
+
+Entries referred to in Article 13(7) for Section 20
+
+— In Spanish
+
+Documento de subvención para el arroz: Reunión — artículo 11 *bis* del Reglamento (CEE) n <sup> o </sup> 1418/76
+
+— In Czech
+
+Subvenční doklad pro rýži: Réunion – článek 11a nařízení (EHS) č. 1418/76
+
+— In Danish
+
+Tilskudsdokument ris Réunion — artikel 11a i forordning (EØF) nr. 1418/76
+
+— In German
+
+Subventionsdokument Reis Réunion — Artikel 11a der Verordnung (EWG) Nr. 1418/76
+
+— In Estonian
+
+Subsiidiumidokument riisi jaoks: Réunion – Määruse (EMÜ) nr 1418/76 artikkel 11a
+
+— In Greek
+
+Έγγραφο επιδότησης για το ρύζι που αποστέλλεται στη Réunion — Άρθρο 11 του κανονισμού (ΕΟΚ) αριθ. 1418/76
+
+— In English
+
+Subsidy document for rice: Réunion — Article 11a of Regulation (EEC) No 1418/76
+
+— In French
+
+Document de subvention riz: Réunion — article 11 *bis* du règlement (CEE) n <sup> o </sup> 1418/76
+
+— In Italian
+
+Documento di sovvenzione riso: Riunione — articolo 11 *bis* del regolamento (CEE) n. 1418/76
+
+— In Latvian
+
+Subsīdiju dokuments attiecībā uz rīsiem: Reinjona – Regulas Nr. 1418/76 11.a pants
+
+— In Lithuanian
+
+Subsidijos dokumentas ryžiams: Rejunjonas – Reglamento (EEB) Nr. 1418/76 11a straipsnis
+
+— In Hungarian
+
+A rizsre vonatkozó támogatási dokumentum: Réunion – az 1418/76/EGK rendelet 11a. cikke
+
+— In Maltese
+
+Dokument ta’ sussidju tar-ross: Réunion – artikolu 11a tar-Regolament (KEE) Nru 1418/76
+
+— In Dutch
+
+Subsidiebewijs rijst Réunion — artikel 11 bis van Verordening (EEG) nr. 1418/76
+
+— In Polish
+
+Dokument subwencji dla ryżu: Réunion – artykuł 11a rozporządzenia (EWG) nr 1418/76
+
+— In Portuguese
+
+Documento de subvenção arroz Reunião — n. <sup> o </sup> 11. <sup> o </sup> A do Regulamento (CEE) n. <sup> o </sup> 1418/76
+
+— In Slovak
+
+Potvrdenie o náhrade pre ryžu: Réunion – článok 11a nariadenia (EHS) č. 1418/76
+
+— In Slovene
+
+Dokument o subvenciji za riž: Réunion – člen 11a Uredbe (EGS) št. 1418/76
+
+— In Finnish
+
+Riisiä koskeva tukiasiakirja: Réunion – asetuksen (ETY) N:o 1418/76 11 a artikla
+
+— In Swedish
+
+Subventionsdokument för ris: Réunion – artikel 11a i förordning (EEG) nr 1418/76
+
+B.
+
+Entries referred to in Article 13(7) for Section 22
+
+— In Spanish
+
+Subvención para el arroz de Reunión fijada por anticipado el … (fecha de presentación de la solicitud del documento)
+
+— In Czech
+
+Subvence pro rýži pro Réunion stanovená předem dne … (datum podání žádosti o doklad)
+
+— In Danish
+
+Tilskud ris Réunion forudfastsat den … (dato for indgivelsen af ansøgningen om dokumentet)
+
+— In German
+
+Subvention Reis Réunion, im Voraus festgesetzt am … (Eingangsdatum des Antrags für das Dokument)
+
+— In Estonian
+
+Réunioni riisitoetus on eelnevalt kinnitatud … (kuupäev, mil dokumenditaotlus esitati)
+
+— In Greek
+
+Επιδότηση για το ρύζι που αποστέλλεται στη Réunion και έχει προκαθορισθεί στις … (ημερομηνία υποβολής της αίτησης για το έγγραφο)
+
+— In English
+
+Rice subsidy Réunion fixed in advance on … (date on which the application for the document was lodged)
+
+— In French
+
+Subvention riz Réunion préfixée le … (date du dépôt de la demande du document)
+
+— In Italian
+
+Sovvenzione riso Riunione prefissata il … (giorno in cui è stato richiesto il documento)
+
+— In Latvian
+
+Rīsu subsīdija Reinjonā noteikta iepriekš … (datums, kad tika iesniegts pieteikums par dokumentu)
+
+— In Lithuanian
+
+Rejunjono ryžių subsidija … (data, kurią buvo pateikta paraiška dokumentui)
+
+— In Hungarian
+
+Rizsszubvenció, Réunion, előzetesen … -án/-én rögzítve (a dokumentum iránti kérelem benyújtásának időpontja)
+
+— In Maltese
+
+Sussidju tar-ross Réunion iffissat minn qabel fi … (data li fiha ntbaghtet l-applikazzjoni ghad-dokument)
+
+— In Dutch
+
+Subsidie rijst Réunion vooraf vastgesteld op … (datum waarop de aanvraag van het bewijs is ingediend)
+
+— In Polish
+
+Subwencje dla ryżu Réunion ustalone z wyprzedzeniem w dniu … (data złożenia wniosku o wydanie dokumentu)
+
+— In Portuguese
+
+Subvenção arroz Reunião fixada antecipadamente em … (data de apresentação do pedido do documento)
+
+— In Slovak
+
+Náhrada za ryžu pre ostrov Réunion určená predbežne dňa … (dátum, kedy bola predložená žiadosť o dokument)
+
+— In Slovene
+
+Subvencija riž Réunion določena vnaprej dne … (datum vložitve zahtevka za dokument)
+
+— In Finnish
+
+Tuki riisille – Réunion, ennakkovahvistus … (asiakirjahakemuksen jättöpäivä)
+
+— In Swedish
+
+Subvention för ris till Réunion förutfastställd den … (datum då ansökan om dokumentet lämnades in)
+
+## ANNEX II — Entries referred to in Article 14(2)(b)
+
+— In Spanish
+
+Destinado al consumo en la Reunión — artículo 11 *bis* del Reglamento (CEE) n <sup> o </sup> 1418/76
+
+— In Czech
+
+Určeno ke spotřebě na Réunionu – článek 11a nařízení (EHS) č. 1418/76
+
+— In Danish
+
+Bestemt til at overgå til frit forbrug på Réunion — artikel 11a i forordning (EØF) nr. 1418/76
+
+— In German
+
+Bestimmt zur Überführung in den freien Verkehr in Réunion — Artikel 11a der Verordnung (EWG) Nr. 1418/76
+
+— In Estonian
+
+Lubatud ringlusse tarbimiseks Réunionis – Määruse (EMÜ) nr 1418/76 artikkel 11a
+
+— In Greek
+
+Προορίζεται για κατανάλωση στη Réunion — άρθρο 11α του κανονισμού (ΕΟΚ) αριθ. 1418/76
+
+— In English
+
+To be released for consumption in Réunion — Article 11a of Regulation (EEC) No 1418/76
+
+— In French
+
+Destiné à être mis à la consommation à la Réunion — article 11 *bis* du règlement (CEE) n <sup> o </sup> 1418/76
+
+— In Italian
+
+Destinato ad essere immesso in consumo nel dipartimento francese d'oltremare della Riunione — articolo 11 *bis* del regolamento (CEE) n. 1418/76
+
+— In Latvian
+
+Paredzēts patēriņam Reinjonā – Regulas (EEK) Nr. 1418/76 11.a pants
+
+— In Lithuanian
+
+Skirti vartojimui Rejunjone – Reglamento (EEB) Nr. 1418/76 11a straipsnis
+
+— In Hungarian
+
+Réunionban fogyasztásra bocsátandó – az 1418/76/EGK rendelet 11a. cikke
+
+— In Maltese
+
+Jinħareġ għall-konsum f’Réunion – Artikolu 11a tar-Regolament (KEE) Nru 1418/76
+
+— In Dutch
+
+Bestemd voor invoer tot verbruik in Réunion — artikel 11 bis van Verordening (EEG) nr. 1418/76
+
+— In Polish
+
+Do wprowadzenia do konsumpcji w Réunion – artykuł 11a rozporządzenia (EWG) nr 1418/76
+
+— In Portuguese
+
+Destinado a ser colocado no consumo na Reunião — artigo 11. <sup> o </sup> A do Regulamento (CEE) n. <sup> o </sup> 1418/76
+
+— In Slovak
+
+Určené na uvoľnenie na spotrebu na ostrove Réunion – článok 11a nariadenia (EHS) č. 1418/76
+
+— In Slovene
+
+Določeno za sprostitev v potrošnjo v Réunionu – člen 11a Uredbe (EGS) št. 1418/76
+
+— In Finnish
+
+Tarkoitettu kulutukseen Réunionilla – asetuksen (ETY) N:o 1418/76 11 a artikla
+
+— In Swedish
+
+Avsedd att frisläppas för konsumtion på Réunion – artikel 11a i förordning (EEG) nr 1418/76
+
+## ANNEX III — Entries referred to in Article 14(2)(c)
+
+— In Spanish
+
+Subvención para el arroz de Reunión aplicable el … (fecha de aceptación de la declaración de expedición)
+
+— In Czech
+
+Subvence pro rýži pro Réunion použitelná dne … (datum přijetí vývozního prohlášení)
+
+— In Danish
+
+Tilskud til ris for Réunion gældende den … (dato for antagelsen af angivelsen om forsendelse)
+
+— In German
+
+Subvention Reis Réunion, anwendbar am … (Tag der Annahme der Lieferungserklärung)
+
+— In Estonian
+
+Réunioni riisisubsiidiumi kohaldatakse … (ekspordideklaratsiooni aktsepteerimise kuupäev)
+
+— In Greek
+
+Επιδότηση για το ρύζι Réunion που εφαρμόζεται στις … (ημερομηνία αποδοχής της δήλωσης αποστολής)
+
+— In English
+
+Réunion rice subsidy applicable on … (date of acceptance of declaration of exportation)
+
+— In French
+
+Subvention riz Réunion applicable le … (date de l'acceptation de la déclaration d'expédition)
+
+— In Italian
+
+Sovvenzione riso Riunione applicabile il … (giorno dell'accettazione della dichiarazione di spedizione)
+
+— In Latvian
+
+Reinjonas rīsu subsīdija attiecināma uz … (eksporta deklarācijas pieņemšanas datums)
+
+— In Lithuanian
+
+Rejunjono subsidijos ryžiams taikomos … (eksporto deklaracijos priėmimo data)
+
+— In Hungarian
+
+A … -án/-én alkalmazandó réunioni rizsszubvenció (a kiviteli nyilatkozat elfogadásának időpontja)
+
+— In Maltese
+
+Sussidju tar-ross Réunion applikabbli fi … (data li fiha ġiet aċċettata d-dikjarazzjoni ta' esportazzjoni)
+
+— In Dutch
+
+Subsidie rijst Réunion van toepassing op … (datum van aanvaarding van de aangifte tot verzending)
+
+— In Polish
+
+Subwencje ryżu Réunion obowiązują od dnia … (data akceptacji deklaracji eksportowej)
+
+— In Portuguese
+
+Subvenção arroz Reunião aplicável em … (data de admissão da declaração de expedição)
+
+— In Slovak
+
+Náhrada za ryžu pre Réunion uplatniteľná dňa … (dátum prijatia vyhlásenia o vývoze)
+
+— In Slovene
+
+Réunion: subvencija za riž, določena vnaprej dne … (datum vnaprejšnje določitve)
+
+— In Finnish
+
+Tuki riisille – Réunion, ennakkovahvistus … (ennakkovahvistuksen myöntämispäivä)
+
+— In Swedish
+
+Subvention för ris till Réunion giltig den … (datum då avsändningsdeklarationen mottogs)
+
+or
+
+— In Spanish
+
+Subvención para el arroz de Reunión fijada por anticipado el … (fecha de fijación anticipada)
+
+— In Czech
+
+Réunion: subvence pro rýži stanovená předem dne … (datum stanovení předem)
+
+— In Danish
+
+Tilskud for ris Réunion forudfastsat den … (dato for forudfastsættelsen)
+
+— In German
+
+Subvention Reis Réunion, im Voraus festgesetzt am … (Tag der Vorausfestsetzung)
+
+— In Estonian
+
+Réunion: riisisubsiidium on eelnevalt kinnitatud … (eelkinnituse kuupäev)
+
+— In Greek
+
+Επιδότηση για το ρύζι Réunion που έχει προκαθορισθεί στις … (ημερομηνία προκαθορισμού)
+
+— In English
+
+Réunion: rice subsidy fixed in advance on … (date of advance fixing)
+
+— In French
+
+Subvention riz Réunion préfixée le … (date de préfixation)
+
+— In Italian
+
+Sovvenzione riso Riunione prefissata il … (giorno della prefissazione)
+
+— In Latvian
+
+Rerinjona: rīsu subsīdija noteikta iepriekš … (iepriekšējas noteikšanas datums)
+
+— In Lithuanian
+
+Rejunjonas: subsidija ryžiams nustatyta iš anksto … (išankstinio nustatymo data)
+
+— In Hungarian
+
+Réunion: rizsszubvenció előzetesen … -án/-én rögzítve (az előzetes rögzítés időpontja)
+
+— In Maltese
+
+Réunion: sussidju tar-ross iffissat minn qabel fi … (data ta’ meta ġie ffissat minn qabel)
+
+— In Dutch
+
+Subsidie rijst Réunion vooraf vastgesteld op … (datum van de vaststelling vooraf)
+
+— In Polish
+
+Subwencja ryżu Réunion ustalona z góry w dniu … (data ustalenia z góry)
+
+— In Portuguese
+
+Subvenção arroz Reunião fixada antecipadamente em … (data da fixação antecipada)
+
+— In Slovak
+
+Réunion: náhrada za ryžu určená predbežne dňa … (dátum predbežného určenia)
+
+— In Slovene
+
+Réunion: subvencija za riž, določena vnaprej dne … (datum vnaprejšnje določitve)
+
+— In Finnish
+
+Tuki riisille – Réunion, sovellettavissa … alkaen (lähetysilmoituksen hyväksymispäivä)
+
+— In Swedish
+
+Subvention för ris till Réunion förutfastställd den … (datum för förutfastställelsen)
+
+## ANNEX IV — Entries referred to in Article 15(1)
+
+— In Spanish
+
+Producto que no se ajusta a las condiciones requeridas en una cantidad de … (señalar la cantidad en kilogramos, expresados en cifras y en letras)
+
+— In Czech
+
+Produkt, který neodpovídá specifikaci, v množství … (počet kilogramů, slovy i čísly)
+
+— In Danish
+
+Produkt, som ikke opfylder betingelserne for en mængde på … (angivelse af mængden i kilo med tal og bogstaver)
+
+— In German
+
+Erzeugnis nicht konform für eine Menge von … (Menge in kg in Zahlen und Buchstaben)
+
+— In Estonian
+
+Nõuetele mittevastav toote kogus … (kilogrammides, numbrite ja tähtedega)
+
+— In Greek
+
+Προϊόν μη σύμφωνο για ποσότητα … (σημειώνεται η ποσότητα σε χιλιόγραμμα, αριθμητικώς και ολογράφως)
+
+— In English
+
+(Number of kilograms, in letters and figures) not in accordance with specification …
+
+— In French
+
+Produit non conforme pour une quantité de … (indiquer la quantité en kilogrammes en chiffres et en lettres)
+
+— In Italian
+
+Prodotto non conforme ai requisiti qualitativi per una quantità pari a … kg (indicare la quantità in cifre ed in lettere)
+
+— In Latvian
+
+Produkts, kas neatbilst norādītajam daudzumam (kilogramu skaits vārdiem un cipariem) …
+
+— In Lithuanian
+
+Produktas, neatitinkantis specifikacijos … (nurodyti kiekį kilogramais, raidėmis ir skaičiais)
+
+— In Hungarian
+
+A(z) … (jelölje a mennyiséget kilogrammban, számmal és betűvel) mennyiségnek nem megfelelő összeg
+
+— In Maltese
+
+(In-numru ta’ kilogrammi, f' ittri u ċifri) mhux skond l-ispeċifikazzjoni …
+
+— In Dutch
+
+Product niet conform voor een hoeveelheid van … kg (hoeveelheid vermelden in cijfers en in letters)
+
+— In Polish
+
+(Liczba kilogramów, słownie i cyframi) niezgodnie ze specyfikacją …
+
+— In Portuguese
+
+Produto não conforme para uma quantidade de … (indicar a quantidade em quilogramas, em algarismos e por extenso)
+
+— In Slovak
+
+(Počet kilogramov, slovom a číslom) nie je v súlade so špecifikáciou …
+
+— In Slovene
+
+(količina v kilogramih, izražena z besedami in števili) ni v skladu s specifikacijo …
+
+— In Finnish
+
+ei ole vaatimusten mukainen … kg:n osalta (merkitään määrä kilogrammoina numeroin ja kirjaimin)
+
+— In Swedish
+
+Produkt som inte uppfyller kvalitetskraven för en kvantitet på … (ange kvantiteten i kilo med siffror och bokstäver).
+
+## Annotations
+
+[^f00001]: Footnote: [OJ No L 166, 25. 6. 1976, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1976.166.01.0001.01.ENG).
+
+[^f00002]: Footnote: [OJ No L 177, 24. 6. 1989, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.177.01.0001.01.ENG).
+
+[^f00003]: Footnote: [OJ No L 164, 24. 6. 1985, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1985.164.01.0001.01.ENG).
+
+[^f00004]: Footnote: [OJ No L 153, 13. 6. 1987, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.153.01.0001.01.ENG).
+
+[^f00005]: Footnote: [OJ No 204, 24. 8. 1967, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.P_.1967.204.01.0001.01.ENG).
+
+[^f00006]: Footnote: [OJ No L 202, 27. 7. 1988, p. 41](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1988.202.01.0041.01.ENG).
+
+[^f00007]: Footnote: [OJ No L 304, 30. 10. 1986, p. 25](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1986.304.01.0025.01.ENG).
+
+[^f00008]: Footnote: [OJ No L 255, 1. 9. 1989, p. 62](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.255.01.0062.01.ENG).
+
+[^f00009]: Footnote: [OJ No L 270, 23. 9. 1987, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.270.01.0001.01.ENG).
+
+[^f00010]: Footnote: [OJ No L 387, 31. 12. 1987, p. 81](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.387.01.0081.01.ENG).
+
+[^f00011]: Footnote: [OJ No L 132, 20. 5. 1978, p. 72](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1978.132.01.0072.01.ENG).
+
+[^f00012]: Footnote: [OJ No L 131, 13. 5. 1989, p. 48](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.131.01.0048.01.ENG).
+
+[^c000001]: Textual amendment: Substituted by [Commission Regulation (EC) No 1275/2004 of 12 July 2004 amending Regulation (EEC) No 2692/89 laying down detailed rules for exports of rice to Réunion as regards the correction to be made to the amount of the subsidy where there is a change in the intervention price for paddy rice at the end of the marketing year](https://www.legislation.gov.uk/eur/2004/1275).
+
+[^f00013]: Footnote: [OJ No L 331, 2. 12. 1988, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1988.331.01.0001.01.ENG).
+
+[^f00014]: Footnote: [OJ No L 205, 3. 8. 1985, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1985.205.01.0005.01.ENG).
+
+[^c000002]: Textual amendment: Substituted by [Commission Regulation (EC) No 1950/2005 of 28 November 2005 adapting several Regulations concerning the cereal, rice and potato starch markets by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union](https://www.legislation.gov.uk/eur/2005/1950).
+
+[^c000003]: Textual amendment: Substituted by [Commission Regulation (EC) No 1453/1999 of 1 July 1999 amending Regulation (EEC) No 2692/89 laying down detailed rules for exports of rice to Réunion as regards the validity of the subsidy document](https://www.legislation.gov.uk/eur/1999/1453).
+
+[^c000004]: Textual amendment: Inserted by [Commission Regulation (EC) No 1950/2005 of 28 November 2005 adapting several Regulations concerning the cereal, rice and potato starch markets by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union](https://www.legislation.gov.uk/eur/2005/1950).

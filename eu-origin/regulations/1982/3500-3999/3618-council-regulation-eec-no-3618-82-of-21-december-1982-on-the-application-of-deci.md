@@ -1,0 +1,68 @@
+---
+title: Council Regulation (EEC) No 3618/82 of 21 December 1982 on the application of Decision No 3/82 of the EEC-Norway Joint Committee amending Protocols 1 and 2 to the Agreement between the European Economic Community and the said State
+id: eur/1982/3618
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '1982-12-21'
+text_date: '1982-12-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/1982/3618
+pdf_urls:
+- http://www.legislation.gov.uk/eur/1982/3618/pdfs/eur_19823618_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/1982/3618/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EEC) No 3618/82 of 21 December 1982 on the application of Decision No 3/82 of the EEC-Norway Joint Committee amending Protocols 1 and 2 to the Agreement between the European Economic Community and the said State
+
+> Text as at 1982-12-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Regulation (EEC) No 3618/82
+
+of 21 December 1982
+
+on the application of Decision No 3/82 of the EEC-Norway Joint Committee amending Protocols 1 and 2 to the Agreement between the European Economic Community and the said State
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 113 thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas the European Economic Community signed an Agreement with the Kingdom of Norway[^f00001] on 14 May 1973 which entered into force on 1 July 1973;
+
+Whereas pursuant to Article 12a of the Agreement the Joint Committee adopted Decision No 3/82 amending Protocols 1 and 2;
+
+Whereas this Decision should be given effect in the Community,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** For the purposes of application of the Agreement between the European Economic Community and the Kingdom of Norway, Decision No 3/82 of the Joint Committee shall apply in the Community.
+
+The text of the Decision is attached to this Regulation.
+
+**Article 2.** This Regulation shall enter into force on the third day following its publication in the *Official Journal of the European Communities*.
+
+It shall apply with effect from 1 January 1982.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 21 December 1982.
+
+*For the Council*
+
+*The President*
+
+O. Møller
+
+## Annotations
+
+[^f00001]: Footnote: [OJ No L 171, 27. 6. 1973, p. 2](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1973.171.01.0002.01.ENG).

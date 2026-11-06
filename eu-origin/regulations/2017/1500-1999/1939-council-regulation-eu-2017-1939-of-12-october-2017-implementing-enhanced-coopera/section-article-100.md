@@ -1,0 +1,32 @@
+---
+title: Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’), section Article 100
+act: Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’)
+section: Article 100
+status: revised
+text_date: '2017-10-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2017/1939/section/Article 100
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’), section Article 100
+
+> Text as at 2017-10-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 100. Relations with Eurojust
+
+*Extent: E+W+S+N.I.*
+
+1. The EPPO shall establish and maintain a close relationship with Eurojust based on mutual cooperation within their respective mandates and on the development of operational, administrative and management links between them as defined in this Article. To this end, the European Chief Prosecutor and the President of Eurojust shall meet on a regular basis to discuss issues of common concern.
+
+2. In operational matters, the EPPO may associate Eurojust with its activities concerning cross-border cases, including by:
+
+- (a) sharing information, including personal data, on its investigations in accordance with the relevant provisions in this Regulation;
+- (b) inviting Eurojust or its competent national member(s) to provide support in the transmission of its decisions or requests for mutual legal assistance to, and execution in, Member States of the European Union that are members of Eurojust but do not take part in the establishment of the EPPO, as well as third countries.
+
+3. The EPPO shall have indirect access to information in Eurojust’s case management system on the basis of a hit/no-hit system. Whenever a match is found between data entered into the case management system by the EPPO and data held by Eurojust, the fact that there is a match shall be communicated to both Eurojust and the EPPO, as well as the Member State of the European Union which provided the data to Eurojust. The EPPO shall take appropriate measures to enable Eurojust to have access to information in its case management system on the basis of a hit/no-hit system.
+
+4. The EPPO may rely on the support and resources of the administration of Eurojust. To that end, Eurojust may provide services of common interest to the EPPO. The details shall be regulated by means of an Arrangement.

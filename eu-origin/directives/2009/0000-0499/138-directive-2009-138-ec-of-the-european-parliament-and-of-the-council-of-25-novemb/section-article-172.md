@@ -1,0 +1,57 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 172
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 172
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 172
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 172
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 172. Equivalence in relation to reinsurance undertakings[^c000004]
+
+*Extent: E+W+S+N.I.*
+
+1. The Commission shall adopt delegated acts in accordance with Article 301a specifying the criteria for assessing whether the solvency regime of a third country that applies to reinsurance activities of undertakings with their head office in that third country is equivalent to that laid down in Title I.
+
+2. If the criteria adopted in accordance with paragraph 1 have been fulfilled by a third country, the Commission may, in accordance with Article 301a, and assisted by EIOPA in accordance with Article 33(2) of Regulation (EU) No 1094/2010, adopt delegated acts determining that the solvency regime of that third country that applies to reinsurance activities of undertakings with the head office in that third country is equivalent to that laid down in Title I of this Directive.
+
+Those delegated acts shall be regularly reviewed, to take into account any significant changes to the supervisory regime laid down in Title I, and to the supervisory regime in the third country.
+
+EIOPA shall publish and keep up to date on its website a list of all third countries referred to in the first subparagraph.
+
+3. Where, in accordance with paragraph 2, the solvency regime of a third country has been deemed to be equivalent to that laid down in this Directive, reinsurance contracts concluded with undertakings having their head office in that third country shall be treated in the same manner as reinsurance contracts concluded with undertakings authorised in accordance with this Directive.
+
+4. By way of derogation from paragraph 2, and even if the criteria specified in accordance with paragraph 1 have not been fulfilled, the Commission may, for a limited period, in accordance with Article 301a, and assisted by EIOPA in accordance with Article 33(2) of Regulation (EU) No 1094/2010, adopt delegated acts determining that the solvency regime of a third country applied to reinsurance activities of undertakings with the head office in that third country is temporarily equivalent to that laid down in Title I, if that third country has complied with at least the following criteria:
+
+- (a) it has given a commitment to the Union to adopt and apply a solvency regime that is capable of being assessed equivalent in accordance with paragraph 2, before the end of that limited period and to engage in the equivalence assessment process;
+- (b) it has established a work programme to fulfil the commitment referred to in point (a);
+- (c) it has allocated sufficient resources to fulfil the commitment referred to in point (a);
+- (d) it has a solvency regime that is risk based and establishes quantitative and qualitative solvency requirements and requirements relating to supervisory reporting and transparency;
+- (e) it has entered into written arrangements to cooperate and exchange confidential supervisory information with EIOPA and supervisory authorities;
+- (f) it has an independent system of supervision; and
+- (g) it has established obligations on professional secrecy for all persons acting on behalf of its supervisory authorities, in particular on the exchange of information with EIOPA and supervisory authorities.
+
+Any delegated acts on temporary equivalence shall take into account the reports by the Commission in accordance with Article 177(2). Those delegated acts shall be regularly reviewed on the basis of progress reports by the relevant third country, which are presented to and assessed by the Commission annually. EIOPA shall assist the Commission in the assessment of those progress reports.
+
+EIOPA shall publish and keep up to date on its website a list of all third countries referred to in the first subparagraph.
+
+The Commission may adopt delegated acts in accordance with Article 301a further specifying the conditions laid down in the first subparagraph.
+
+5. The limited period referred to in the first subparagraph of paragraph 4 shall end on 31 December 2020 or on the date on which, in accordance with paragraph 2, the supervisory regime of that third country has been deemed to be equivalent to that laid down in Title I, whichever is the earlier.
+
+That period may be extended by up to one year where necessary for EIOPA and the Commission to carry out the assessment of equivalence for the purposes of paragraph 2.
+
+6. Reinsurance contracts concluded with undertakings having their head office in a third country, the supervisory regime of which has been deemed to be temporarily equivalent in accordance with paragraph 4, shall be accorded the same treatment as that set out in paragraph 3. Article 173 shall also apply to reinsurance undertakings having their head office in a third country, the supervisory regime of which has been deemed temporarily equivalent in accordance with paragraph 4.
+
+## Annotations
+
+[^c000004]: Textual amendment: Substituted by [Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)](https://www.legislation.gov.uk/eudr/2014/51).

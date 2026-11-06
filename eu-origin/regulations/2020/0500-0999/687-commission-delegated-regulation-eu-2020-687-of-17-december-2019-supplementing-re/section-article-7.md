@@ -1,0 +1,42 @@
+---
+title: Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance), section Article 7
+act: Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance)
+section: Article 7
+status: revised
+text_date: '2019-12-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/687/section/Article 7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance), section Article 7
+
+> Text as at 2019-12-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 7. Preliminary restriction and biosecurity measures in the event of suspicion of a category A disease in kept animals in an establishment
+
+*Extent: E+W+S+N.I.*
+
+1. In the event of suspicion of a category A disease in an establishment, the competent authority shall place the establishment under official surveillance and immediately impose the following preliminary restriction and biosecurity measures, in order to prevent the spread of the category A disease from the affected animals and the establishment to other unaffected animals or to humans:
+
+- (a) prohibition of movements of kept animals of listed species into and from the establishment;
+- (b) prohibition of movements of kept animals of non-listed species into and from the establishment;
+- (c) prohibition of movements of any product, material or substance likely to be contaminated with or likely to transmit category A diseases from the establishment;
+- (d) isolation of kept animals of listed species and protection from wild animals, animals of non-listed species and, when necessary, from insects and rodents;
+- (e) prohibition of killing of animals of listed species, unless authorised by the competent authority; and
+- (f) prohibition of non-essential movements of products, materials, substances, persons and means of transport into the establishments.
+
+2. By way of derogation from point 1(a), (b) and (c) the competent authority may authorise movements of animals and products from the establishment where a category A disease is suspected, after carrying out a risk assessment and provided that:
+
+- (a) the movements of animals and products comply with all conditions and biosecurity measures necessary in order to avoid the spread of the disease;
+- (b) in the establishment of destination there are not other kept animals of listed species; and
+- (c) the establishment of destination is not a slaughterhouse.
+
+3. Where derogations provided for in paragraph 2 are granted, the competent authority may impose the disease control measures provided for in paragraph 1 in the establishment of destination.
+
+4. The competent authority may order preventive killing, in accordance with Article 12(1) and (2), of animals of listed species in the establishment where a category A disease is suspected when the epidemiological situation so requires.
+
+5. All animal by-products from dead animals, which have died or have been killed in the establishment where a category A disease is suspected shall be processed or disposed of in accordance with Regulation (EC) No 1069/2009 to ensure that the suspected disease agent is inactivated and to prevent the spread of the disease to unaffected animals or to humans.

@@ -1,0 +1,46 @@
+---
+title: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 66
+act: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance)
+section: Article 66
+status: revised
+text_date: '2020-12-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2013/36/section/Article 66
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 66
+
+> Text as at 2020-12-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 66. Administrative penalties and other administrative measures for breaches of authorisation requirements and requirements for acquisitions of qualifying holdings
+
+*Extent: E+W+S+N.I.*
+
+1. Member States shall ensure that their laws, regulations and administrative provisions provide for administrative penalties and other administrative measures at least in respect of:
+
+- (a) carrying out the business of taking deposits or other repayable funds from the public without being a credit institution in breach of Article 9;
+- (b) commencing activities as a credit institution without obtaining authorisation in breach of Article 9;
+- (c) acquiring, directly or indirectly, a qualifying holding in a credit institution or further increasing, directly or indirectly, such a qualifying holding in a credit institution as a result of which the proportion of the voting rights or of the capital held would reach or exceed the thresholds referred to in Article 22(1) or so that the credit institution would become its subsidiary, without notifying in writing the competent authorities of the credit institution in which they are seeking to acquire or increase a qualifying holding, during the assessment period, or against the opposition of the competent authorities, in breach of Article 22(1);
+- (d) disposing, directly or indirectly, of a qualifying holding in a credit institution or reducing a qualifying holding so that the proportion of the voting rights or of the capital held would fall below the thresholds referred to in Article 25 or so that the credit institution would cease to be a subsidiary, without notifying in writing the competent authorities;[^c000001]
+- (e)[^c000002] failing to apply for approval in breach of Article 21a or any other breach of the requirements set out in that Article.
+
+2. Member States shall ensure that in the cases referred to in paragraph 1, the administrative penalties and other administrative measures that can be applied include at least the following:
+
+- (a) a public statement which identifies the natural person, institution, financial holding company or mixed financial holding company responsible and the nature of the breach;
+- (b) an order requiring the natural or legal person responsible to cease the conduct and to desist from a repetition of that conduct;
+- (c) in the case of a legal person, administrative pecuniary penalties of up to 10 % of the total annual net turnover including the gross income consisting of interest receivable and similar income, income from shares and other variable or fixed-yield securities, and commissions or fees receivable in accordance with Article 316 of Regulation (EU) No 575/2013 of the undertaking in the preceding business year;
+- (d) in the case of a natural person, administrative pecuniary penalties of up to EUR 5 000 000, or in the Member States whose currency is not the euro, the corresponding value in the national currency on 17 July 2013;
+- (e) administrative pecuniary penalties of up to twice the amount of the benefit derived from the breach where that benefit can be determined;
+- (f) suspension of the voting rights of the shareholder or shareholders held responsible for the breaches referred to in paragraph 1.
+
+Where the undertaking referred to in point (c) of the first subparagraph is a subsidiary of a parent undertaking, the relevant gross income shall be the gross income resulting from the consolidated account of the ultimate parent undertaking in the preceding business year.
+
+## Annotations
+
+[^c000001]: Textual amendment: Substituted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).
+
+[^c000002]: Textual amendment: Inserted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).

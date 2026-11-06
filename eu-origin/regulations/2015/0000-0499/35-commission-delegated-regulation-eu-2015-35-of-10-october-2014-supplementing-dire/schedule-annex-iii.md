@@ -1,0 +1,63 @@
+---
+title: Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (Text with EEA relevance), ANNEX III
+act: Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (Text with EEA relevance)
+section: schedule-annex-iii
+status: repealed
+text_date: '2024-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2015/35/schedule/annex-iii
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive 2009/138/EC of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (Text with EEA relevance), ANNEX III
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## ANNEX III — FACTOR FOR GEOGRAPHICAL DIVERSIFICATION OF PREMIUM AND RESERVE RISK[^key-d47e1c724c465df0decb570554654b62]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+[^key-d47e1c724c465df0decb570554654b62]1.
+
+For all segments set out in Annexes II and XIV, the factor for geographical diversification of a particular segment *s* referred to in Articles 116 and 147 shall be equal to the following:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-d47e1c724c465df0decb570554654b62]2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-d47e1c724c465df0decb570554654b62]3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-d47e1c724c465df0decb570554654b62]4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-d47e1c724c465df0decb570554654b62]5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-d47e1c724c465df0decb570554654b62]6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-d47e1c724c465df0decb570554654b62]7.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-d47e1c724c465df0decb570554654b62]8.
+
+Regions for the calculation of the factor for geographical diversification
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-d47e1c724c465df0decb570554654b62]: Textual amendment: Regulation revoked (30.6.2024 for the revocation of Arts. 52-54; 31.12.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 5(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/5/c/i); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

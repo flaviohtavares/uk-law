@@ -1,0 +1,1062 @@
+---
+title: Commission Implementing Regulation (EU) No 650/2014 of 4 June 2014 laying down implementing technical standards with regard to the format, structure, contents list and annual publication date of the information to be disclosed by competent authorities in accordance with Directive 2013/36/EU of the European Parliament and of the Council (Text with EEA relevance)
+id: eur/2014/650
+type: EuropeanUnionRegulation
+category: euretained
+status: revised-with-pending-changes
+made_date: '2014-06-04'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2014/650
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2014/650/pdfs/eur_20140650_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2014/650/pdfs/eur_20140650_2019-06-25_en.pdf
+- http://www.legislation.gov.uk/eur/2014/650/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) No 650/2014 of 4 June 2014 laying down implementing technical standards with regard to the format, structure, contents list and annual publication date of the information to be disclosed by competent authorities in accordance with Directive 2013/36/EU of the European Parliament and of the Council (Text with EEA relevance)
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/eur/2014/650
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Regulation (EU) No 650/2014
+
+of 4 June 2014
+
+laying down implementing technical standards with regard to the format, structure, contents list and annual publication date of the information to be disclosed by competent authorities in accordance with Directive 2013/36/EU of the European Parliament and of the Council
+
+(Text with EEA relevance)
+
+[^key-cefebf6ea28984928235482730ec946e][^key-dfb65b3bc7bb6ca5a34a171cabcb4772]
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 2013/36/EU of 26 June 2013 of the European Parliament and of the Council on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC[^f00001], and in particular Article 143(3) thereof,
+
+Whereas:
+
+(1)
+
+Directive 2013/36/EU requires competent authorities to disclose certain information in order for the internal banking market to operate with increasing effectiveness and for citizens of the Union to have adequate levels of transparency. The information disclosed should be sufficient to enable a meaningful comparison of the approaches adopted by the competent authorities of the different Member States.
+
+(2)
+
+In order to further facilitate this assessment, information from all competent authorities should be published in a common format, updated regularly and made accessible at a single electronic location. While the supervisory disclosure requirements in Title VIII of Directive 2013/36/EU extend across the field of prudential regulation, as a first step these technical standards focus on the supervisory responsibilities which stem from that Directive and from Regulation (EU) No 575/2013 of the European Parliament and of the Council[^f00002].
+
+(3)
+
+This Regulation is based on the draft implementing technical standards submitted by the European Banking Authority (EBA) to the Commission.
+
+(4)
+
+The EBA has conducted open public consultations on the draft implementing technical standards on which this Regulation is based, analysed the potential related costs and benefits, and requested the opinion of the Banking Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council[^f00003].
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1. Laws, regulations, administrative rules and general guidance
+
+Competent authorities shall, pursuant to Article 143(1)(a) of Directive 2013/36/EU, publish the information on texts of laws, regulations, administrative rules and general guidance adopted in their Member State in the field of prudential regulation using the applicable forms set out in parts 1 to 8 of Annex I.
+
+## Article 2. Options and discretions
+
+Competent authorities shall, pursuant to Article 143(1)(b) of Directive 2013/36/EU, publish the information on the manner of exercising the options and discretions available in Union law using the applicable forms set out in Parts 1 to 12 of Annex II.
+
+## Article 3. General criteria and methodologies for supervisory review and evaluation process
+
+Competent authorities shall, pursuant to Article 143(1)(c) of Directive 2013/36/EU, publish information on the general criteria and methodologies they use in the supervisory review and evaluation referred to in Article 97 of that Directive using the form set out in Annex III.
+
+## Article 4. Aggregate statistical data
+
+Competent authorities shall, pursuant to Article 143(1)(d) of Directive 2013/36/EU, publish the information on aggregate statistical data on key aspects of the implementation of the prudential framework using the forms set out in parts 1 to 6 of Annex IV.
+
+## Article 5. Annual publication date
+
+Competent authorities shall publish the information listed in Article 143(1) of Directive 2013/36/EU at a single electronic location for the first time by 31 July 2014.
+
+Competent authorities shall update the information referred to in point (d) of Article 143(1) of that Directive by 31 July of each year. That information shall cover the preceding calendar year.[^c000001]
+
+Competent authorities shall, for the institutions subject to their prudential supervision, update the information referred to in points (a) to (c) of Article 143(1) of that Directive on a regular basis, and in any event by 31 July of each year, unless there is no change in the information last published.
+
+## Article 6. Final provisions
+
+This Regulation shall enter into force on the the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — RULES AND GUIDANCE
+
+**List of templates**
+
+|  |  |
+| --- | --- |
+| Part 1 | Transposition of Directive 2013/36/EU |
+| Part 2 | Model approval |
+| Part 3 | Specialised lending exposures |
+| Part 4 | Credit risk mitigation |
+| Part 5 | Specific disclosure requirements applied to institutions |
+| Part 6 | Waivers for the application of prudential requirements |
+| Part 7 | Qualifying holdings in a credit institution |
+| Part 8 | Regulatory and financial reporting |
+
+*General remarks on filling in templates in Annex I*
+
+When publishing information on the general criteria and methodologies, competent authorities shall not disclose any supervisory measures directed at specific institutions, whether taken with respect to a single institution or to a group of institutions.
+
+PART 1
+
+**Transposition of Directive 2013/36/EU**
+
+<table>
+<tfoot>
+<tr><td colspan="6">Hyperlink(s) to the website containing the national text transposing the Union provision in question.</td></tr>
+<tr><td colspan="6">Detailed references to the national provisions, such as relevant Title, Chapter, paragraph etc.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>Transposition of provisions of Directive 2013/36/EU</th><th>Provisions of Directive 2013/36/EU</th><th>Links to national text</th><th>Reference(s) to national provisions</th><th>Available in EN (Y/N)</th></tr>
+<tr><td>010</td><td><strong>Date of the last update of information in this template</strong></td><td></td><td colspan="3"><em>(dd/mm/yyyy)</em></td></tr>
+<tr><td>020</td><td>I.<br><strong>Subject matter, scope and definitions</strong></td><td>Articles 1 to 3</td><td></td><td></td><td></td></tr>
+<tr><td>030</td><td>II.<br><strong>Competent authorities</strong></td><td>Articles 4 to 7</td><td></td><td></td><td></td></tr>
+<tr><td>040</td><td>III.<br><strong>Requirements for access to the activity of credit institutions</strong></td><td>Articles 8 to 27</td><td></td><td></td><td></td></tr>
+<tr><td>050</td><td>1.<br>General requirements for access to the activity of credit institutions</td><td>Articles 8 to 21</td><td></td><td></td><td></td></tr>
+<tr><td>060</td><td>2.<br>Qualifying holding in a credit institution</td><td>Articles 22 to 27</td><td></td><td></td><td></td></tr>
+<tr><td>070</td><td>IV.<br><strong>Initial capital of investment firms</strong></td><td>Articles 28 to 32</td><td></td><td></td><td></td></tr>
+<tr><td>080</td><td>V.<br><strong>Provisions concerning the freedom of establishment and the freedom to provide services</strong></td><td>Articles 33 to 46</td><td></td><td></td><td></td></tr>
+<tr><td>090</td><td>1.<br>General principles</td><td>Articles 33 to 34</td><td></td><td></td><td></td></tr>
+<tr><td>100</td><td>2.<br>The right of establishment of credit institutions</td><td>Articles 35 to 38</td><td></td><td></td><td></td></tr>
+<tr><td>110</td><td>3.<br>Exercise of the freedom to provide services</td><td>Article 39</td><td></td><td></td><td></td></tr>
+<tr><td>120</td><td>4.<br>Powers of the competent authorities of the host Member State</td><td>Articles 40 to 46</td><td></td><td></td><td></td></tr>
+<tr><td>130</td><td>VI.<br><strong>Relations with third countries</strong></td><td>Articles 47 to 48</td><td></td><td></td><td></td></tr>
+<tr><td>140</td><td>VII.<br><strong>Prudential supervision</strong></td><td>Articles 49 to 142</td><td></td><td></td><td></td></tr>
+<tr><td>150</td><td>1.<br>Principles of prudential supervision</td><td>Articles 49 to 72</td><td></td><td></td><td></td></tr>
+<tr><td>160</td><td>1.1<br>Competence and duties of home and host Member States</td><td>Articles 49 to 52</td><td></td><td></td><td></td></tr>
+<tr><td>170</td><td>1.2<br>Exchange of information and professional secrecy</td><td>Articles 53 to 62</td><td></td><td></td><td></td></tr>
+<tr><td>180</td><td>1.3<br>Duty of persons responsible for the legal control of annual and consolidated accounts</td><td>Article 63</td><td></td><td></td><td></td></tr>
+<tr><td>190</td><td>1.4<br>Supervisory powers, powers to impose penalties and right of appeal</td><td>Articles 64 to 72</td><td></td><td></td><td></td></tr>
+<tr><td>200</td><td>2.<br>Review processes</td><td>Articles 73 to 110</td><td></td><td></td><td></td></tr>
+<tr><td>210</td><td>2.1<br>Internal capital adequacy assessment process</td><td>Article 73</td><td></td><td></td><td></td></tr>
+<tr><td>220</td><td>2.2<br>Arrangements, processes and mechanisms of institutions</td><td>Articles 74 to 96</td><td></td><td></td><td></td></tr>
+<tr><td>230</td><td>2.3<br>Supervisory review and evaluation process</td><td>Articles 97 to 101</td><td></td><td></td><td></td></tr>
+<tr><td>240</td><td>2.4<br>Supervisory measures and powers</td><td>Articles 102 to 107</td><td></td><td></td><td></td></tr>
+<tr><td>250</td><td>2.5<br>Level of application</td><td>Articles 108 to 110</td><td></td><td></td><td></td></tr>
+<tr><td>260</td><td>3.<br>Supervision on a consolidated basis</td><td>Articles 111 to 127</td><td></td><td></td><td></td></tr>
+<tr><td>270</td><td>3.1<br>Principles for conducting supervision on a consolidated basis</td><td>Articles 111 to 118</td><td></td><td></td><td></td></tr>
+<tr><td>280</td><td>3.2<br>Financial holding companies, mixed financial holding companies and mixed-activity holding companies</td><td>Articles 119 to 127</td><td></td><td></td><td></td></tr>
+<tr><td>290</td><td>4.<br>Capital buffers</td><td>Articles 128 to 142</td><td></td><td></td><td></td></tr>
+<tr><td>300</td><td>4.1<br>Buffers</td><td>Articles 128 to 134</td><td></td><td></td><td></td></tr>
+<tr><td>310</td><td>4.2<br>Setting and calculating countercyclical capital buffers</td><td>Articles 135 to 140</td><td></td><td></td><td></td></tr>
+<tr><td>320</td><td>4.3<br>Capital conservation measures</td><td>Articles 141 to 142</td><td></td><td></td><td></td></tr>
+<tr><td>330</td><td>VIII.<br><strong>Disclosure by competent authorities</strong></td><td>Articles 143 to 144</td><td></td><td></td><td></td></tr>
+<tr><td>340</td><td>IX.<br><strong>Amendments of Directive 2002/87/EC</strong></td><td>Article 150</td><td></td><td></td><td></td></tr>
+<tr><td>350</td><td>X.<br><strong>Transitional and final provisions</strong></td><td>Articles 151 to 165</td><td></td><td></td><td></td></tr>
+<tr><td>360</td><td>1.<br>Transitional provisions on the supervision of institutions exercising the freedom of establishment and the freedom to provide services</td><td>Articles 151 to 159</td><td></td><td></td><td></td></tr>
+<tr><td>370</td><td>2.<br>Transitional provisions for capital buffers</td><td>Article 160</td><td></td><td></td><td></td></tr>
+<tr><td>380</td><td>3.<br>Final provisions</td><td>Articles 161 to 165</td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^f00005][^f00006]
+
+PART 2
+
+**Model approval**
+
+<table>
+<tbody>
+<tr><td>010</td><td><strong>Date of the last update of information in this template</strong></td><td><em>(dd/mm/yyyy)</em></td></tr>
+<tr><td colspan="2"></td><td><strong>Description of the approach</strong></td></tr>
+<tr><td></td><td colspan="2"><strong>Supervisory approach for the approval of the use of Internal Ratings Based (IRB) Approach to calculate minimum capital requirements for credit risk</strong></td></tr>
+<tr><td>020</td><td>Minimum documentation to be provided by the institutions applying for the use of IRB approach</td><td><em>[free text]</em></td></tr>
+<tr><td>030</td><td>Description of the assessment process conducted by the competent authority (use of self assessment, reliance on external auditors and on-site-inspections) and main criteria of the assessment</td><td><em>[free text]</em></td></tr>
+<tr><td>040</td><td>Form of the decisions taken by the competent authority and communication of the decisions to applicants</td><td><em>[free text]</em></td></tr>
+<tr><td></td><td colspan="2"><strong>Supervisory approach for the approval of the use of Internal Model Approach (IMA) to calculate minimum capital requirements for market risk</strong></td></tr>
+<tr><td>050</td><td>Minimum documentation to be provided by the institutions applying for the use of IMA approach</td><td><em>[free text]</em></td></tr>
+<tr><td>060</td><td>Description of the assessment process conducted by the competent authority (use of self assessment, reliance on external auditors and on-site-inspections) and main criteria of the assessment</td><td><em>[free text]</em></td></tr>
+<tr><td>070</td><td>Form of the decisions taken by the competent authority and communication of the decisions to applicants</td><td><em>[free text]</em></td></tr>
+<tr><td></td><td colspan="2"><strong>Supervisory approach for the approval of the use of Internal Model Method (IMM) to calculate minimum capital requirements for counterparty credit risk</strong></td></tr>
+<tr><td>080</td><td>Minimum documentation to be provided by the institutions applying for the use of IMM approach</td><td><em>[free text]</em></td></tr>
+<tr><td>090</td><td>Description of the assessment process conducted by the competent authority (use of self assessment, reliance on external auditors and on-site-inspections) and main criteria of the assessment</td><td><em>[free text]</em></td></tr>
+<tr><td>100</td><td>Form of the decisions taken by the competent authority and communication of the decisions to applicants</td><td><em>[free text]</em></td></tr>
+<tr><td></td><td colspan="2"><strong>Supervisory approach for the approval of the use of Advanced Measurement Approach (AMA) to calculate minimum capital requirements for operational risk</strong></td></tr>
+<tr><td>110</td><td>Minimum documentation to be provided by the institutions applying for the use of AMA approach</td><td><em>[free text]</em></td></tr>
+<tr><td>120</td><td>Description of the assessment process conducted by the competent authority (use of self assessment, reliance on external auditors and on-site-inspections) and main criteria of the assessment</td><td><em>[free text]</em></td></tr>
+<tr><td>130</td><td>Form of the decisions taken by the competent authority and communication of the decisions to applicants</td><td><em>[free text]</em></td></tr>
+</tbody>
+</table>
+
+PART 3
+
+**Specialised lending exposures**
+
+<table>
+<tbody>
+<tr><th></th><th>Regulation (EU) No 575/2013</th><th>Provisions</th><th>Information to be provided by the competent authority</th></tr>
+<tr><td>010</td><td colspan="2"><strong>Date of the last update of the information in this template</strong></td><td><em>(dd/mm/yyyy)</em></td></tr>
+<tr><td>020</td><td rowspan="3"><strong>Article 153(5)</strong></td><td>Has the competent authority published guidance to specify how institutions should take into account the factors referred to in paragraph 5 of Article 153 when assigning risk weights to specialised lending exposures?</td><td><em>[Yes/No]</em></td></tr>
+<tr><td>030</td><td>If so, please provide the reference to the national guidance</td><td><em>[reference to national text]</em></td></tr>
+<tr><td>040</td><td>Is the national guidance available in English?</td><td><em>[Yes/No]</em></td></tr>
+</tbody>
+</table>
+
+PART 4
+
+**Credit risk mitigation**
+
+<table>
+<tbody>
+<tr><th></th><th>Regulation (EU) No 575/2013</th><th>Provisions</th><th>Description</th><th colspan="2">Information to be provided by the competent authority</th></tr>
+<tr><td>010</td><td colspan="4"><strong>Date of the last update of the information in this template</strong></td><td><em>(dd/mm/yyyy)</em></td></tr>
+<tr><td>020</td><td rowspan="2"><strong>Article 201(2)</strong></td><td>Publication of the list of financial institutions that are eligible providers of unfunded credit protection or guiding criteria for identifying these financial institutions</td><td>Competent authorities shall publish and maintain the list of financial institutions that are eligible providers of unfunded credit protection under point (f) of Article 201(1) of Regulation (EU) No 575/2013 or the guiding criteria for identifying such eligible providers</td><td>List of the financial institutions or guiding criteria for their identification</td><td><em>[free text - a hyperlink to such list or guiding criteria on the competent authority's website can be provided]</em></td></tr>
+<tr><td>030</td><td>Description of the applicable prudential requirements</td><td>Competent authorities shall publish a description of the applicable prudential requirements together with the list of the eligible financial institutions or the guiding criteria for identifying these financial institutions</td><td>Description of the prudential requirements applied by the competent authority</td><td><em>[free text]</em></td></tr>
+<tr><td>040</td><td><strong>Article 227(2)(e)</strong></td><td>Condition for applying a 0 % volatility adjustment</td><td>Under the Financial collateral Comprehensive Method institutions may apply a 0 % volatility adjustment provided that the transaction is settled in a settlement system proven for that type of transaction</td><td>Detailed description on how the competent authority considers the settlement system as a proven system</td><td><em>[free text]</em></td></tr>
+<tr><td>050</td><td><strong>Article 227(2)(f)</strong></td><td>Condition for applying a 0 % volatility adjustment</td><td>Under the Financial collateral Comprehensive Method institutions may apply a 0 % volatility adjustment provided that the documentation covering the agreement or transaction is standard market documentation for repurchase transactions or securities lending or borrowing transactions in the securities concerned</td><td>Specification of the documentation to be considered as standard market documentation</td><td><em>[free text]</em></td></tr>
+<tr><td>060</td><td><strong>Article 229(1)</strong></td><td>Valuation principles for immovable property collateral under the IRB approach</td><td>The immovable property may be valued by an independent valuer at or at less than the mortgage lending value in the Member States that have laid down rigorous criteria for the assessment of this mortgage lending value in statutory or regulatory provisions</td><td>Criteria set out in the national legislation for the assessment of the mortgage lending value</td><td><em>[free text]</em></td></tr>
+</tbody>
+</table>
+
+PART 5
+
+**Specific disclosure requirements applied to institutions**
+
+<table>
+<tbody>
+<tr><th></th><th>Directive 2013/36/EU</th><th>Regulation (EU) No 575/2013</th><th>Provision</th><th>Information to be provided by the competent authority</th><th></th></tr>
+<tr><td>010</td><td colspan="4"><strong>Date of the last update of information in this template</strong></td><td><em>(dd/mm/yyyy)</em></td></tr>
+<tr><td>020</td><td><strong>Article 106(1)(a)</strong></td><td></td><td>Competent authorities may require institutions to publish information referred to in Part Eight of Regulation (EU) No 575/2013 more than once per year, and to set deadlines for publication</td><td>Frequency and deadlines for publication applicable to institutions</td><td><em>[free text]</em></td></tr>
+<tr><td>030</td><td><strong>Article 106(1)(b)</strong></td><td></td><td>Competent authorities may require institutions to use specific media and locations for publications other than the financial statements</td><td>Types of specific media to be used by institutions</td><td><em>[free text]</em></td></tr>
+<tr><td>040</td><td></td><td><strong>Article 13(1) and (2)</strong></td><td>Significant subsidiaries and those which are of material significance for their local market shall disclose information specified in Part Eight of Regulation (EU) No 575/2013 on an individual or sub-consolidated basis.</td><td>Criteria applied by the competent authority to assess the significance of a subsidiary</td><td><em>[free text]</em></td></tr>
+</tbody>
+</table>
+
+PART 6
+
+**Waivers for the application of prudential requirements**
+
+<table>
+<tbody>
+<tr><th></th><th>Regulation (EU) No 575/2013</th><th>Provisions</th><th>Description</th><th>Information to be provided by the competent authority</th><th></th></tr>
+<tr><td>010</td><td colspan="4"><strong>Date of the last update of the information in this template</strong></td><td><em>(dd/mm/yyyy)</em></td></tr>
+<tr><td>020</td><td><strong>Article 7(1) and (2)</strong><br><strong>(Individual waivers for subsidiaries)</strong></td><td>Exemption from the application on an individual basis of prudential requirements set out in Parts Two to Five and Eight of Regulation (EU) No 575/2013</td><td>The waiver may be granted to any subsidiary provided that there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities by its parent undertaking pursuant to point (a) of Article 7(1).</td><td>Criteria applied by the competent authority to assess that there is no obstacle to the prompt transfer of own funds or repayment of liabilities</td><td><em>[free text]</em></td></tr>
+<tr><td>030</td><td><strong>Article 7(3)</strong><br><strong>(Individual waivers for parent institutions)</strong></td><td>Exemption from the application on an individual basis of prudential requirements set out in Parts Two to Five and Eight of Regulation (EU) No 575/2013</td><td>The waiver may be granted to a parent institution provided that there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities to the parent institution pursuant to point (a) of Article 7(3).</td><td>Criteria applied by the competent authority to assess that there is no obstacle to the prompt transfer of own funds or repayment of liabilities</td><td><em>[free text]</em></td></tr>
+<tr><td>040</td><td><strong>Article 8</strong><br><strong>(Liquidity waivers for subsidiaries)</strong></td><td>Exemption from the application on an individual basis of liquidity requirements set out in Part Six of Regulation (EU) No 575/2013</td><td>The waiver may be granted to institutions within a sub-group provided that these institutions have entered into contracts that, to the satisfaction of the competent authorities, provide for the free movement of funds between them to enable them to meet their individual and joint obligations as they become due pursuant to point (c) of Article 8(1).</td><td>Criteria applied by the competent authority to assess whether the contracts provide for free movement of funds between the institutions in a liquidity sub-group</td><td><em>[free text]</em></td></tr>
+<tr><td>050</td><td><strong>Article 9(1)</strong><br><strong>(Individual consolidation method)</strong></td><td>Permission granted to parent institutions to incorporate subsidiaries in the calculation of their prudential requirements set out in Parts Two to Five and Eight of Regulation (EU) No 575/2013</td><td>The permission is granted only where the parent institution demonstrates fully to the competent authorities that there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds, or repayment of liabilities when due by the subsidiary incorporated in the calculation of requirements to its parent institution pursuant to Article 9(2).</td><td>Criteria applied by the competent authority to assess that there is no obstacle to the prompt transfer of own funds or repayment of liabilities</td><td><em>[free text]</em></td></tr>
+<tr><td>060</td><td><strong>Article 10</strong><br><strong>(Credit institutions permanently affiliated to a central body)</strong></td><td>Exemption from the application on an individual basis of prudential requirements set out in Parts Two to Eight of Regulation (EU) No 575/2013</td><td>Member States may maintain and make use of existing national legislation regarding the application of the waiver as long as it does not conflict with the Regulation (EU) No 575/2013 or Directive 2013/36/EU</td><td>Applicable national law / regulation regarding the application of the waiver</td><td><em>[reference to national text]</em></td></tr>
+</tbody>
+</table>
+
+PART 7
+
+**Qualifying holdings in a credit institution**
+
+<table>
+<tbody>
+<tr><th></th><th>Directive 2013/36/EU</th><th>Assessment criteria and information that is necessary for assessing the suitability of the proposed acquirer seeking to acquire a credit institution and the financial soundness of the proposed acquisition</th><th>Information to be provided by the competent authority</th><th></th></tr>
+<tr><td>010</td><td colspan="3"><strong>Date of the last update of information in this template</strong></td><td><em>(dd/mm/yyyy)</em></td></tr>
+<tr><td>020</td><td rowspan="3"><strong>Article 23(1)(a)</strong></td><td rowspan="3">Reputation of the proposed acquirer</td><td>Description on how the competent authority assesses the integrity of the proposed acquirer</td><td><em>[free text]</em></td></tr>
+<tr><td>030</td><td>Description on how the competent authority assesses the professional competence of the proposed acquirer</td><td><em>[free text]</em></td></tr>
+<tr><td>040</td><td>Practical details on the cooperation process between competent authorities pursuant to Article 24 of Directive 2013/36/EU</td><td><em>[free text]</em></td></tr>
+<tr><td>050</td><td><strong>Article 23(1)(b)</strong></td><td>Reputation, knowledge, skills and experience of any member of the management body or senior management who will direct the business of the credit institution</td><td>Description on how the competent authority assesses the reputation, knowledge, skills and experience of members of management body and senior managers</td><td><em>[free text]</em></td></tr>
+<tr><td>060</td><td rowspan="2"><strong>Article 23(1)(c)</strong></td><td rowspan="2">Financial soundness of the proposed acquirer</td><td>Description on how the competent authority assesses the financial soundness of the proposed acquirer</td><td><em>[free text]</em></td></tr>
+<tr><td>070</td><td>Practical details on the cooperation process between competent authorities pursuant to Article 24 of Directive 2013/36/EU</td><td><em>[free text]</em></td></tr>
+<tr><td>080</td><td><strong>Article 23(1)(d)</strong></td><td>Compliance of the credit institution with the prudential requirements</td><td>Description on how the competent authority assesses whether or not the credit institution will be able to comply with the prudential requirements</td><td><em>[free text]</em></td></tr>
+<tr><td>090</td><td rowspan="2"><strong>Article 23(1)(e)</strong></td><td rowspan="2">Suspicion of money laundering or terrorist financing</td><td>Description on how the competent authority assesses whether or not there are reasonable grounds to suspect money laundering or terrorist financing</td><td><em>[free text]</em></td></tr>
+<tr><td>100</td><td>Practical details on the cooperation process between competent authorities pursuant to Article 24 of Directive 2013/36/EU</td><td><em>[free text]</em></td></tr>
+<tr><td>110</td><td><strong>Article 23(4)</strong></td><td>List specifying the information to be provided to the competent authorities at the time of notification</td><td>List of information that must be provided by the proposed acquirer at the time of notification in order for the competent authority to carry out the assessment of the proposed acquirer and the proposed acquisition</td><td><em>[free text]</em></td></tr>
+</tbody>
+</table>
+
+PART 8
+
+**Regulatory and financial reporting**
+
+<table>
+<tbody>
+<tr><td>010</td><td><strong>Date of the last update of information in this template</strong></td><td>(dd/mm/yyyy)</td></tr>
+<tr><td>020</td><td colspan="2"><strong>Implementation of the reporting on financial information in accordance with the Commission Implementing Regulation 680/2014</strong></td></tr>
+<tr><td>030</td><td>Is the application of the requirement set out in Article 99(2) of Regulation (EU) No 575/2013 extended to institutions which do not apply international accounting standards as applicable under Regulation (EC) No 1606/2002?</td><td><em>[Yes/No]</em></td></tr>
+<tr><td>040</td><td><em>If so, what accounting frameworks apply to these institutions?</em></td><td><em>[free text]</em></td></tr>
+<tr><td>050</td><td><em>If so, which is the level of application of the reporting? (solo/consolidated/sub-consolidated basis)</em></td><td><em>[free text]</em></td></tr>
+<tr><td>060</td><td>Is the application of requirements set out in Article 99(2) of Regulation (EU) No 575/2013 extended to financial entities other than credit institutions or investment firms?</td><td><em>[Yes/No]</em></td></tr>
+<tr><td>070</td><td><em>If so, what types of financial entities (e.g. financial firms) are subject to these reporting requirements?</em></td><td><em>[free text]</em></td></tr>
+<tr><td>080</td><td><em>If so, what is the size of these financial entities in terms of total balance sheet (on a solo basis)?</em></td><td><em>[free text]</em></td></tr>
+<tr><td>090</td><td>Are XBRL standards used for submitting the reporting to the competent authority?</td><td><em>[Yes/No]</em></td></tr>
+<tr><td>100</td><td colspan="2"><strong>Implementation of the reporting on own funds and own funds requirements in accordance with the Commission Implementing Regulation 680/2014</strong></td></tr>
+<tr><td>110</td><td>Is the application of requirements set out in Article 99(1) of Regulation (EU) No 575/2013 extended to financial entities other than credit institutions or investment firms?</td><td><em>[Yes/No]</em></td></tr>
+<tr><td>120</td><td><em>If so, what accounting frameworks apply to these financial entities?</em></td><td><em>[free text]</em></td></tr>
+<tr><td>130</td><td><em>If so, what types of financial entities (e.g. financial firms) are subject to these reporting requirements?</em></td><td><em>[free text]</em></td></tr>
+<tr><td>140</td><td><em>If so, what is the size of these financial entities in terms of total balance sheet (on a solo basis)?</em></td><td><em>[free text]</em></td></tr>
+<tr><td>150</td><td>Are XBRL standards used for submitting the reporting to the competent authority?</td><td><em>[Yes/No]</em></td></tr>
+</tbody>
+</table>
+
+## ANNEX II — OPTIONS AND DISCRETIONS
+
+**List of templates**
+
+|  |  |
+| --- | --- |
+| Part 1 | Options and discretions set out in Directive 2013/36/EU, Regulation (EU) No 575/2013 and LCR Delegated Regulation (EU) 2015/61 |
+| Part 2 | Transitional options and discretions set out in Directive 2013/36/EU and Regulation (EU) No 575/2013 |
+| Part 3 | Variable elements of remuneration (Article 94 of Directive 2013/36/EU) |
+
+Competent authorities shall not disclose supervisory actions or decisions directed at specific institutions. When publishing information on the general criteria and methodologies, competent authorities shall not disclose any supervisory measures directed at specific institutions, whether taken with respect to a single institution or to a group of institutions.
+
+PART 1
+
+**Options and discretions set out in Directive 2013/36/EU, Regulation (EU) No 575/2013 and LCR Delegated Regulation (EU) 2015/61**
+
+<table>
+<tfoot>
+<tr><td colspan="13">‘ Y ’ (Yes) indicates that the competetent authority or Member State empowered to exercise the relevant option or discretion has exercised it.<br>‘ N ’ (No) Indicates that the competetent authority or Member State empowered to exercise the relevant option or discretion has not exercised it.<br>‘ NA ’ (Not applicable) indicates that the exercise of the option is not possible or the discretion does not exist.</td></tr>
+<tr><td colspan="13">The text of the provision in the national legislation.</td></tr>
+<tr><td colspan="13">Reference in the national legislation and hyperlink(s) to the website containing the national text transposing the Union provision in question.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>Directive 2013/36/EU</th><th>Regulation (EU) No 575/2013</th><th>LCR delegated regulation (EU) 2015/61</th><th>Adressee</th><th>Scope</th><th>Denomination</th><th>Description of the option or discretion</th><th>Exercised (Y/N/NA)</th><th>National text</th><th>Reference(s)</th><th>Available in EN (Y/N)</th><th>Details / Comments</th></tr>
+<tr><td>010</td><td colspan="7"><em>Date of the last update of information in this template</em></td><td colspan="4"><em>(dd/mm/yyyy)</em></td><td></td></tr>
+<tr><td>020</td><td>Article 9(2)</td><td></td><td></td><td>Member States</td><td>Credit Institutions</td><td>Exception to the prohibition against persons or undertakings other than credit institutions from taking deposits or other repayable funds from the public</td><td>The prohibition against persons or undertakings other than credit institutions from carrying out the business of taking deposits or other repayable funds from the public shall not apply to a Member State, a Member State's regional or local authorities, a public international bodies of which one or more Member States are members, or to cases expressly covered by national or union law, provided that those activities are subject to regulations and controls intended to protect depositors and investors.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>030</td><td>Article 12(3)</td><td></td><td></td><td>Member States</td><td>Credit Institutions</td><td>Initial capital</td><td>Member States may decide that credit institutions which do not fulfil the requirements to hold separate own funds and which were in existence on 15 December 1979 may continue to carry out their business.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>040</td><td>Article 12(3)</td><td></td><td></td><td>Member States</td><td>Credit Institutions</td><td>Initial capital</td><td>Credit Institutions for which Member States have decided that they can continue to carry out their business according to Article 12(3) of Directive 2013/36/EU may be exempted by MS from complying with the requirements contained in the first subparagraph of Article 13(1) of Directive 2013/36/EU.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>050</td><td>Article 12(4)</td><td></td><td></td><td>Member States</td><td>Credit Institutions</td><td>Initial capital</td><td>Member States may grant authorisation to particular categories of credit institutions the initial capital of which is less that EUR 5 million, provided that the initial capital is not less than EUR 1 million and the Member State concerned notifies the Commission and EBA of its reasons for exercising that option.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>060</td><td>Article 21(1)</td><td></td><td></td><td>Competent Authorities</td><td>Credit Institutions</td><td>Exemptions for credit institutions permanently affiliated to a central body</td><td>Competent authorities may exempt with regard to credit institutions permanently affiliated to a central body from the requirements set out in Articles 10, 12 and 13(1) of Directive 2013/36/EU.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>070</td><td>Article 29(3)</td><td></td><td></td><td>Member States</td><td>Investment Firms</td><td>Initial capital of particular types of investment firms</td><td>Member States may reduce the minimum amount of initial capital from EUR 125 000 to EUR 50 000 where a firm is not authorised to hold client money or securities, to deal for its own account, or to underwrite issues on a firm commitment basis.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>080</td><td>Article 32(1)</td><td></td><td></td><td>Member States</td><td>Investment Firms</td><td>Investment firms' initial capital grandfathering clause</td><td>Member States may continue authorising investment firm and firms covered by Article 30 of Directive 2013/36/EU which were in existence on or before 31 December 1995 , the own funds of which are less than the initial capital levels specified for them in Article 28(2), Article 29(1) or (3) or Article 30 of that Directive.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>090</td><td>Article 40</td><td></td><td></td><td>Competent Authorities</td><td>Credit Institutions</td><td>Reporting requirements to host competent authorities</td><td>The competent authorities of host Member States may, for information, statistical or supervisory purposes, require that all credit institutions having branches within their territories shall report to them periodically on their activities in those host Member States, in particular to assess whether a branch is significant in accordance with Article 51(1) of Directive 2013/36/EU.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>100</td><td>Article 129(2)</td><td></td><td></td><td>Member States</td><td>Investment Firms</td><td>Exemption from the requirement to maintain a capital conservation buffer for small and medium-sized investment firms</td><td>By way of derogation from paragraph 1 of Article 129, a Member State may exempt small and medium-sized investment firms from the requirements set out in that paragraph if such an exemption does not threaten the stability of the financial system of that Member State.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>110</td><td>Article 130(2)</td><td></td><td></td><td>Member States</td><td>Investment Firms</td><td>Exemption from the requirement to maintain a countercyclical capital buffer for small and medium-sized investment firms</td><td>By way of derogation from paragraph 1 of Article 130, a Member State may exempt small and medium-sized investment firms from the requirements set out in that paragraph if such an exemption does not threaten the stability of the financial system of that Member State.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>120</td><td>Article 133(18)</td><td></td><td></td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Requirement to maintain a systemic risk buffer</td><td>Member States may apply a systemic risk buffer to all exposures.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>130</td><td>Article 134(1)</td><td></td><td></td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Recognition of a systemic risk buffer rate</td><td>Other Member States may recognise the systemic risk buffer rate set according to Article 133 and may apply that buffer rate to domestically authorised institutions for the exposures located in the Member State setting that buffer rate.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>140</td><td>Article 152 first paragraph</td><td></td><td></td><td>Member Stattes</td><td>Credit Institutions</td><td>Reporting requirements to host competent authorities</td><td>The competent authorities of host Member States may, for statistical purposes, require that all credit institutions having branches within their territories shall report to them periodically on their activities in those host Member States.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>150</td><td>Article 152 second paragraph</td><td></td><td></td><td>Member States</td><td>Credit Institutions</td><td>Reporting requirements to host competent authorities</td><td>Host Member States may require that branches of credit institutions from other Member States provide the same information as they require from national credit institutions for that purpose.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>160</td><td>Article 160(6)</td><td></td><td></td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Transitional provisions for capital buffers</td><td>Member States may impose a shorter transitional period for capital buffers than that specified in paragraphs 1 to 4 of Article 160. Such a shorter transitional period may be recognised by other Member States.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>170</td><td></td><td>Article 4(2)</td><td></td><td>Member States or Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Treatment of indirect holdings in real estate</td><td>Member States or their competent authorities may allow shares constituting an equivalent indirect holding of immovable property to be treated as a direct holding of immovable property provided that such indirect holding is specifically regulated in the national law of the Member State and, when pledged as collateral, provides equivalent protection to creditors.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>180</td><td></td><td>Article 6(4)</td><td></td><td>Competent Authorities</td><td>Investment Firms</td><td>Application of requirements on an individual basis</td><td>Pending the report from the Commission in accordance with Article 508(3), competent authorities may exempt investment firms from compliance with the obligations laid down in Part Six (liquidity) taking into account the nature, scale and complexity of the investment firms' activities.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>190</td><td></td><td>Article 24(2)</td><td></td><td></td><td></td><td>Reporting and the compulsory use of IFRS</td><td>Competent authorities may require that institutions effect the valuation of assets and off-balance sheet items and the determination of own funds in accordance with International Accounting Standards as applicable under Regulation (EC) No 1606/2002).</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>200</td><td></td><td>Article 89(3)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Risk weighting and prohibition of qualifying holdings outside the financial sector</td><td>Competent authorities apply the following requirements to qualifying holdings of institutions referred to in paragraphs 1 and 2:<br>for the purpose of calculating the capital requirement in accordance with Part Three of this Regulation, institutions shall apply a risk weight of 1 250  % to the greater of the following:<br>((i)) the amount of qualifying holdings referred to in paragraph 1 in excess of 15 % of eligible capital;<br>((ii)) the total amount of qualifying holdings referred to in paragraph 2 that exceed 60 % of the eligible capital of the institution;</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>201</td><td></td><td>Article 89(3)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Risk weighting and prohibition of qualifying holdings outside the financial sector</td><td>Competent authorities apply the following requirements to qualifying holdings of institutions referred to in paragraphs 1 and 2:<br>the competent authorities shall prohibit institutions from having qualifying holdings referred to in paragraphs 1 and 2 the amount of which exceeds the percentages of eligible capital laid down in those paragraphs.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>210</td><td></td><td>Article 95(2)</td><td></td><td>Competent Authorities</td><td>Investment Firms</td><td>Requirements for investment firms with limited authorisation to provide investment services</td><td>Competent authorities may set the own fund requirements for investment firms with limited authorisation to provide investment services as the own fund requirements that would be binding on those firms according to the national transposition measures in force on 31 December 2013 for Directive 2006/49/EC and Directive 2006/48/EC.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>220</td><td></td><td>Article 99(3)</td><td></td><td>Competent Authorities</td><td>Credit Institutions</td><td>Reporting on own funds requirements and financial information</td><td>Competent authorities may require those credit institutions applying international accounting standards as applicable under Regulation (EC) No 1606/2002 for the reporting of own funds on a consolidated basis pursuant to Article 24(2) of this Regulation to also report financial information as laid down in paragraph 2 of this Article.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>230</td><td></td><td>Article 124(2)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Risk weights and criteria applied to exposures secured by mortgages on immovable property</td><td>Competent authorities may set a higher risk weight or stricter criteria than those set out in Article 125(2) and Article 126(2), where appropriate, on the basis of financial stability considerations.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>240</td><td></td><td>Article 129(1)</td><td></td><td></td><td></td><td>Exposures in the form of covered bonds</td><td>The competent authorities may, after consulting EBA, partly waive the application of point (c) of the first subparagraph and allow credit quality step 2 for up to 10 % of the total exposure of the nominal amount of outstanding covered bonds of the issuing institution, provided that significant potential concentration problems in the Member States concerned can be documented due to the application of the credit quality step 1 requirement referred to in that point.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>250</td><td></td><td>Article 164(5)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Minimum values of exposure weighted average Loss Given Default (LGD) for exposures secured by property</td><td>Based on the data collected under Article 101 and taking into account forward-looking immovable property market developments and any other relevant indicators, the competent authorities shall periodically, and at least annually, assess whether the minimum LGD values in paragraph 4 of this Article are appropriate for exposures secured by residential property or commercial immovable property located in their territory. Competent authorities may, where appropriate on the basis of financial stability considerations, set higher minimum values of exposure weighted average LGD for exposures secured by immovable property in their territory.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>260</td><td></td><td>Article 178(1)(b)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Default of an obligor</td><td>Competent authorities may replace the 90 days with 180 days for exposures secured by residential property or SME commercial immovable property in the retail exposure class, as well as exposures to public sector entities.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>270</td><td></td><td>Article 284(4)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Exposure value</td><td>Competent authorities may require an α higher than 1.4 or permit institutions to use their own estimates in accordance with Article 284 (9)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>280</td><td></td><td>Article 284(9)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Exposure value</td><td>Competent authorities may permit institutions to use their own estimates of alpha</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>290</td><td></td><td>Article 327(2)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Netting between a convertible and an offsetting position in the underlying instrument</td><td>Competent authorities may adopt an approach under which the likelihood of a particular convertible's being converted is taken into account or require an own funds requirement to cover any loss which conversion might entail.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>300</td><td></td><td>Article 395(1)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Large exposure limits for exposures to institutions</td><td>Competent authorities may set a lower large exposure limit than EUR 150 000 000 for exposures to institutions.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>310</td><td></td><td>Article 400(2)(a) 493(3)(a)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt covered bonds falling within the terms of Article 129(1), (3) and (6).</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>320</td><td></td><td>Article 400(2)(b) 493(3)(b)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt asset items constituting claims on regional governments or local authorities of Member States.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>330</td><td></td><td>Article 400(2)(c) 493(3)(c)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures incurred by an institution to its parent undertaking or subsidiaries.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>340</td><td></td><td>Article 400(2)(d) 493(3)(d)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures to regional or central credit institutions with which the credit institution is associated in a network and which are responsible for cash-clearing operations within the network.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>350</td><td></td><td>Article 400(2)(e) 493(3)(e)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures to credit institutions incurred by credit institutions, one of which operates on a non-competitive basis and provides or guarantees loans under legislative programmes or its statutes, to promote specified sectors of the economy under some form of government oversight and restrictions on the use of the loans, provided that the respective exposures arise from such loans that are passed on to the beneficiaries via credit institutions or from the guarantees of these loans.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>360</td><td></td><td>Article 400(2)(f) 493(3)(f)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures to institutions, provided that those exposures do not constitute such institutions' own funds, do not last longer than the following business day and are not denominated in a major trading currency.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>370</td><td></td><td>Article 400(2)(g) 493(3)(g)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures to central banks in the form of required minimum reserves held at those central banks which are denominated in their national currencies.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>380</td><td></td><td>Article 400(2)(h) 493(3)(h)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures to central governments in the form of statutory liquidity requirements held in government securities which are denominated and funded in their national currencies provided that, at the discretion of the competent authority, the credit assessment of those central governments assigned by a nominated External Credit Assessment Institution is investment grade.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>390</td><td></td><td>Article 400(2)(i) 493(3)(i)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt 50 % of medium/low risk off-balance sheet documentary credits and of medium/low risk off-balance sheet undrawn credit facilities referred to in Annex I and subject to the competent authorities' agreement, 80 % of guarantees other than loan guarantees which have a legal or regulatory basis and are given for their members by mutual guarantee schemes possessing the status of credit institutions.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>400</td><td></td><td>Article 400(2)(j) 493(3)(j)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt legally required guarantees used when a mortgage loan financed by issuing mortgage bonds is paid to the mortgage borrower before the final registration of the mortgage in the land register, provided that the guarantee is not used as reducing the risk in calculating the risk-weighted exposure amounts.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>410</td><td></td><td>Article 400(2)(k) 493(3)(k)</td><td></td><td>Competent Authorities</td><td>Competent Authorities</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt assets items constituting claims on and other exposures to recognised exchanges.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>420</td><td></td><td>Article 412(5)</td><td></td><td>Member States</td><td>Credit Institutions</td><td>Liquidity coverage requirement</td><td>Member States may maintain or introduce national provisions in the area of liquidity requirements before binding minimum standards for liquidity coverage requirements are specified and fully introduced in the Union in accordance with Article 460.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>430</td><td></td><td>Article 412(5)</td><td></td><td>Member States or Competent Authorities</td><td>Credit Institutions</td><td>Liquidity coverage requirement</td><td>Member states or competent authorities may require domestically authorised institutions, or a subset of those institutions to maintain a higher liquidity coverage requirement up to 100 % until the binding minimum standard is fully introduced at a rate of 100 % in accordance with Article 460.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>440</td><td></td><td>Article 413(3)</td><td></td><td>Member States</td><td>Credit Institutions</td><td>Stable funding requirement</td><td>Member States may maintain or introduce national provisions in the area of stable funding requirements before binding minimum standards for net stable funding requirements are specified and introduced in the Union in accordance with Article 510.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>450</td><td></td><td>Article 415(3)</td><td></td><td>Competent Authorities</td><td>Credit Institutions</td><td>Liquidity reporting requirements</td><td>Competent authorities may continue to collect information through monitoring tools for the purpose of monitoring compliance with existing national liquidity standards, until the full introduction of binding liquidity requirements.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>460</td><td></td><td>Article 420(2)</td><td></td><td>Competent Authorities</td><td>Credit Institutions</td><td>Liquidity outflow rate</td><td>The competent authorities may apply an outflow rate up to 5 % for trade finance off-balance sheet related products, as referred to in Article 429 and Annex 1.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>470</td><td></td><td>Article 467(2)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional treatment of unrealised losses measured at fair value</td><td>By way of derogation from paragraph 1 of Article 467, the competent authorities may, in cases where such treatment was applied before 1 January 2014 , allow institutions not to include in any element of own funds unrealised gains or losses on exposures to central governments classified in the ‘ Available for Sale ’ category of EU-endorsed IAS 39.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>480</td><td></td><td>Article 467(3) second subparagraph</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional treatment of unrealised losses measured at fair value</td><td>Competent authorities shall determine and publish the applicable percentage in the ranges specified in points (a) to (d) of paragraph 2 of Article 467.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>490</td><td></td><td>Article 468(2)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional treatment of unrealised gains measured at fair value</td><td>Competent authorities may permit institutions to include in the calculation of their Common Equity Tier 1 capital 100 % of their unrealised gains at fair value where under Article 467 institutions are required to include their unrealised losses measured at fair value in the calculation of Common Equity Tier 1 capital.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>500</td><td></td><td>Article 468(3)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional treatment of unrealised gains measured at fair value</td><td>Competent authorities shall determine and publish the applicable percentage of unrealised gains in the ranges specified in points (a) to (c) of paragraph 2 of Article 468 that is removed from Common Equity Tier 1 capital.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>510</td><td></td><td>Article 471(1)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Exemption from deduction of equity holding in insurance companies from CET1 items</td><td>By way of derogation from Article 49(1), during the period from 1 January 2014 to 31 December 2022 , competent authorities may permit institutions to not deduct equity holdings in insurance undertakings, reinsurance undertakings and insurance holding companies where the conditions set out in paragraph 1 of Article 471 are met.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>520</td><td></td><td>Article 473(1)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Introduction of amendments to IAS 19</td><td>By way of derogation from Article 481 during the period from 1 January 2014 until 31 December 2018 , competent authorities may permit institutions that prepare their accounts in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002 to add to their Common Equity Tier 1 capital the applicable amount in accordance with paragraph 2 or 3 of Article 473, as applicable, multiplied by the factor applied in accordance with paragraph 4 of Article 473.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>530</td><td></td><td>Article 478(3)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional deductions from Common Equity Tier 1, Additional Tier 1 and Tier 2 items</td><td>Competent authorities shall determine and publish an applicable percentage in the ranges specified in paragraphs 1 and 2 of Article 478 for each of the following deductions:<br>((a)) the individual deductions required pursuant to points (a) to (h) of Article 36(1), excluding deferred tax assets that rely on future profitability and arise from temporary differences;<br>((b)) the aggregate amount of deferred tax assets that rely on future profitability and arise from temporary differences and the items referred to in point (i) of Article 36(1) that is required to be deducted pursuant to Article 48;<br>((c)) each deduction required pursuant to points (b) to (d) of Article 56;<br>((d)) each deduction required pursuant to points (b) to (d) of Article 66.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>540</td><td></td><td>Article 479(4)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional recognition in consolidated Common Equity Tier 1 capital of instruments and items that do not qualify as minority interests</td><td>Competent authorities shall determine and publish the applicable percentage in the ranges specified in paragraph 3 of Article 479.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>550</td><td></td><td>Article 480(3)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional recognition of minority interests and qualifying Additional Tier 1 and Tier 2 capital</td><td>Competent authorities shall determine and publish the value of the applicable factor in the ranges specified in paragraph 2 of Article 480.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>560</td><td></td><td>Article 481(5)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Additional transitional filters and deductions</td><td>For each filter or deduction referred to in paragraphs 1 and 2 of Article 481, competent authorities shall determine and publish the applicable percentages in the ranges specified in paragraphs 3 and 4 of that Article</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>570</td><td></td><td>Article 486(6)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Limits for grandfathering of items within Common Equity Tier 1, Additional Tier 1 and Tier 2 items</td><td>Competent authorities shall determine and publish the applicable percentages in the ranges specified in paragraph 5 of Article 486.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>580</td><td></td><td>Article 495(1)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional treatment of equity exposures under the IRB approach</td><td>By way of derogation from Chapter 3 of Part Three, until 31 December 2017 , the competent authorities may exempt from the IRB treatment certain categories of equity exposures held by institutions and EU subsidiaries of institutions in that Member State as at 31 December 2007 .</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>590</td><td></td><td>Article 496(1)</td><td></td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional provision on the calculation of own fund requirements for exposures in the form of covered bonds</td><td>Until 31 December 2017 , competent authorities may waive in full or in part the 10 % limit for senior units issued by French Fonds Communs de Créances or by securitisation entities which are equivalent to French Fonds Communs de Créances laid down in points (d) and (f) of Article 129(1), provided that conditions specified in points (a) and (b) of Article 496(1) are fulfilled.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>600</td><td></td><td></td><td>Article 10(1)(b)(iii)</td><td>Competent Authorities</td><td>Credit Institutions</td><td>LCR - Liquid assets</td><td>The liquidity reserve held by the credit institution in a central bank is recognisable as Level 1 asset provided that it can be withdrawn in times of stress. The purposes under which central bank reserves may be withdrawn for the purposes of this Article must be specified in an agreement between the CA and the ECB or the central bank.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>610</td><td></td><td></td><td>Article 10(2)</td><td>Competent Authorities</td><td>Credit Institutions</td><td>LCR - Liquid assets</td><td>The market value of extremely high quality covered bonds referred to in paragraph 1(f) shall be subject to a haircut of at least 7 %. Except as specified in relation to shares and units in CIUs in points (a) and (b) of Article 15(2), no haircut shall be required on the value of the remaining level 1 assets.<br>Those cases where the higher haircuts were set to an entire asset class (all assets subject to a specific and differentiated haircut in the LCR Delegated Regulation) (e.g. to all level 1 covered bonds, etc.).</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>620</td><td></td><td></td><td>Article 12(1)(c)(i)</td><td>Competent Authorities</td><td>Credit Institutions</td><td>LCR - Level 2B assets</td><td>Shares may constitute level 2B assets provided that they form part of a major stock index in a MS or in a third country, as identified as such by the CA of a MS or the relevant public authority in a third country.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>630</td><td></td><td></td><td>Article 12(3)</td><td>Competent Authorities</td><td>Credit Institutions</td><td>LCR - Level 2B assets</td><td>For credit institutions which in accordance with their statutes of incorporation are unable for reasons of religious observance to hold interest bearing assets, the competent authority may allow to derogate from points (ii) and (iii) of paragraph 1(b) of this Article, provided there is evidence of insufficient availability of non-interest bearing assets meeting these requirements and the non-interest bearing assets in question are adequately liquid in private markets.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+<tr><td>640</td><td></td><td></td><td>Article 24(6)</td><td>Competent Authorities</td><td>Credit Institutions</td><td>LCR - Outflows from stable deposits in a third country qualifying for the 3 % rate</td><td>Credit institutions may be authorised by their competent authority to multiply by 3 % the amount of the retail deposits covered by a deposit guarantee scheme in a third country equivalent to the scheme referred to in paragraph 1 if the third country allows this treatment.</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^f00008][^f00009][^f00010]
+
+PART 2
+
+**Transitional options and discretions set out in Directive 2013/36/EU and Regulation (EU) No 575/2013**
+
+<table>
+<tbody>
+<tr><th></th><th>Directive 2013/36/EU</th><th>Regulation (EU) No 575/2013</th><th>Adressee</th><th>Scope</th><th>Denomination</th><th>Description of the option or discretion</th><th>Year(s) of application and the value in % (if applicable)</th><th>Exercised (Y/N/NA)</th><th>National text</th><th>References</th><th>Available in EN (Y/N)</th><th>Details / Comments</th></tr>
+<tr><td>010</td><td colspan="6"><em>Date of the last update of information in this template</em></td><td colspan="5"><em>(dd/mm/yyyy)</em></td><td></td></tr>
+<tr><td>011</td><td>Article 160(6)</td><td></td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Transitional provisions for capital buffers</td><td>Member States may impose a shorter transitional period for capital buffers than that specified in paragraphs 1 to 4 of Article 160. Such a shorter transitional period may be recognised by other Member States.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>012</td><td></td><td>Article 493(3)(a)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt covered bonds falling within the terms of Article 129(1), (3) and (6).</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>013</td><td></td><td>Article 493(3)(b)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt asset items constituting claims on regional governments or local authorities of Member States.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>014</td><td></td><td>Article 493(3)(c)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures incurred by an institution to its parent undertaking or subsidiaries.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>015</td><td></td><td>Article 493(3)(d)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures to regional or central credit institutions with which the credit institution is associated in a network and which are responsible for cash-clearing operations within the network.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>016</td><td></td><td>Article 493(3)(e)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures to credit institutions incurred by credit institutions, one of which operates on a non-competitive basis and provides or guarantees loans under legislative programmes or its statutes, to promote specified sectors of the economy under some form of government oversight and restrictions on the use of the loans, provided that the respective exposures arise from such loans that are passed on to the beneficiaries via credit institutions or from the guarantees of these loans.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>017</td><td></td><td>Article 493(3)(f)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures to institutions, provided that those exposures do not constitute such institutions' own funds, do not last longer than the following business day and are not denominated in a major trading currency.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>018</td><td></td><td>Article 493(3)(g)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures to central banks in the form of required minimum reserves held at those central banks which are denominated in their national currencies.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>019</td><td></td><td>Article 493(3)(h)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt exposures to central governments in the form of statutory liquidity requirements held in government securities which are denominated and funded in their national currencies provided that, at the discretion of the competent authority, the credit assessment of those central governments assigned by a nominated External Credit Assessment Institution is investment grade.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>020</td><td></td><td>Article 493(3)(i)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt 50 % of medium/low risk off-balance sheet documentary credits and of medium/low risk off-balance sheet undrawn credit facilities referred to in Annex I and subject to the competent authorities' agreement, 80 % of guarantees other than loan guarantees which have a legal or regulatory basis and are given for their members by mutual guarantee schemes possessing the status of credit institutions.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>021</td><td></td><td>Article 493(3)(j)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt legally required guarantees used when a mortgage loan financed by issuing mortgage bonds is paid to the mortgage borrower before the final registration of the mortgage in the land register, provided that the guarantee is not used as reducing the risk in calculating the risk-weighted exposure amounts.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>022</td><td></td><td>Article 493(3)(k)</td><td>Member States</td><td>Credit Institutions and Investment firms</td><td>Exemptions or partial exemptions to large exposures limits</td><td>Competent authorities may fully or partially exempt assets items constituting claims on and other exposures to recognised exchanges.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>023</td><td></td><td>Article 412(5)</td><td>Member States</td><td>Credit Institutions</td><td>Liquidity coverage requirement</td><td>Member States may maintain or introduce national provisions in the area of liquidity requirements before binding minimum standards for liquidity coverage requirements are specified and fully introduced in the Union in accordance with Article 460.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>024</td><td></td><td>Article 412(5)</td><td>Member States or Competent Authorities</td><td>Credit Institutions</td><td>Liquidity coverage requirement</td><td>Member states or competent authorities may require domestically authorised institutions, or a subset of those institutions to maintain a higher liquidity coverage requirement up to 100 % until the binding minimum standard is fully introduced at a rate of 100 % in accordance with Article 460.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>025</td><td></td><td>Article 413(3)</td><td>Member States</td><td>Credit Institutions</td><td>Stable funding requirement</td><td>Member States may maintain or introduce national provisions in the area of stable funding requirements before binding minimum standards for net stable funding requirements are specified and introduced in the Union in accordance with Article 510.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>026</td><td></td><td>Article 415(3)</td><td>Competent Authorities</td><td>Credit Institutions</td><td>Liquidity reporting requirements</td><td>Competent authorities may continue to collect information through monitoring tools for the purpose of monitoring compliance with existing national liquidity standards, until the full introduction of binding liquidity requirements.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>027</td><td></td><td>Article 467(2)</td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional treatment of unrealised losses measured at fair value</td><td>By way of derogation from paragraph 1 of Article 467, the competent authorities may, in cases where such treatment was applied before 1 January 2014 , allow institutions not to include in any element of own funds unrealised gains or losses on exposures to central governments classified in the ‘ Available for Sale ’ category of EU-endorsed IAS 39.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>028</td><td rowspan="4"></td><td rowspan="4">Article 467(3)</td><td rowspan="4">Competent Authorities</td><td rowspan="4">Credit Institutions and Investment firms</td><td rowspan="4">Transitional treatment of unrealised losses measured at fair value</td><td rowspan="4">Applicable percentage of unrealised losses pursuant to Article 467(1) that are included in the calculation of Common Equity Tier 1 items (percentage in the ranges specified in paragraph 2 of that Article)</td><td>2014 (20 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>029</td><td>2015 (40 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>030</td><td>2016 (60 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>031</td><td>2017 (80 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>032</td><td></td><td>Article 468(2) 2nd subparagrap</td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Transitional treatment of unrealised gains measured at fair value</td><td>Competent authorities may permit institutions to include in the calculation of their Common Equity Tier 1 capital 100 % of their unrealised gains at fair value where under Article 467 institutions are required to include their unrealised losses measured at fair value in the calculation of Common Equity Tier 1 capital.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>033</td><td rowspan="3"></td><td rowspan="3">Article 468(3)</td><td rowspan="3">Competent Authorities</td><td rowspan="3">Credit Institutions and Investment firms</td><td rowspan="3">Transitional treatment of unrealised gains measured at fair value</td><td rowspan="3">Competent authorities shall determine and publish the applicable percentage of unrealised gains in the ranges specified in points (a) to (c) of paragraph 2 of Article 468 that is removed from Common Equity Tier 1 capital.</td><td>2015 (60 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>034</td><td>2016 (40 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>035</td><td>2017 (20 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>036</td><td></td><td>Article 471(1)</td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Exemption from deduction of equity holding in insurance companies from CET1 items</td><td>By way of derogation from Article 49(1), during the period from 1 January 2014 to 31 December 2022 , competent authorities may permit institutions to not deduct equity holdings in insurance undertakings, reinsurance undertakings and insurance holding companies where the conditions set out in paragraph 1 of Article 471 are met.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>037</td><td></td><td>Article 473(1)</td><td>Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Introduction of amendments to IAS 19</td><td>By way of derogation from Article 481 during the period from 1 January 2014 until 31 December 2018 , competent authorities may permit institutions that prepare their accounts in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002 to add to their Common Equity Tier 1 capital the applicable amount in accordance with paragraph 2 or 3 of Article 473, as applicable, multiplied by the factor applied in accordance with paragraph 4 of Article 473.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>038</td><td rowspan="10"></td><td rowspan="10">Article 478(2)</td><td rowspan="10"></td><td rowspan="10">Credit Institutions and Investment firms</td><td rowspan="10">Deduction from Common Equity Tier 1 items for deferred tax assets that existed prior to 1 January 2014</td><td rowspan="10">Applicable percentage if the alternative applies (percentage in the ranges specified in paragraph 2 of Article 478)</td><td>2014 (0 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>039</td><td>2015 (10 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>040</td><td>2016 (20 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>041</td><td>2017 (30 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>042</td><td>2018 (40 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>043</td><td>2019 (50 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>044</td><td>2020 (60 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>045</td><td>2021 (70 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>046</td><td>2022 (80 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>047</td><td>2023 (90 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>048</td><td rowspan="4"></td><td rowspan="4">Article 478(3)(a)</td><td rowspan="4"></td><td rowspan="4">Credit Institutions and Investment firms</td><td rowspan="4">Transitional deductions from Common Equity Tier 1, Additional Tier 1 and Tier 2 items</td><td rowspan="4">Competent authorities shall determine and publish an applicable percentage in the ranges specified in paragraphs 1 and 2 of Article 478 for (a) the individual deductions required pursuant to points (a) to (h) of Article 36(1), excluding deferred tax assets that rely on future profitability and arise from temporary differences;</td><td>2014 (20 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>049</td><td>2015 (40 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>050</td><td>2016 (60 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>051</td><td>2017 (80 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>052</td><td rowspan="4"></td><td rowspan="4">Article 478(3)(b)</td><td rowspan="4"></td><td rowspan="4">Credit Institutions and Investment firms</td><td rowspan="4">Transitional deductions from Common Equity Tier 1, Additional Tier 1 and Tier 2 items</td><td rowspan="4">Competent authorities shall determine and publish an applicable percentage in the ranges specified in paragraphs 1 and 2 of Article 478 for (b) the aggregate amount of deferred tax assets that rely on future profitability and arise from temporary differences and the items referred to in point (i) of Article 36(1) that is required to be deducted pursuant to Article 48;</td><td>2014 (20 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>053</td><td>2015 (40 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>054</td><td>2016 (60 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>055</td><td>2017 (80 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>056</td><td rowspan="4"></td><td rowspan="4">Article 478(3)(c)</td><td rowspan="4"></td><td rowspan="4">Credit Institutions and Investment firms</td><td rowspan="4">Transitional deductions from Common Equity Tier 1, Additional Tier 1 and Tier 2 items</td><td rowspan="4">Competent authorities shall determine and publish an applicable percentage in the ranges specified in paragraphs 1 and 2 of Article 478 for (c) each deduction required pursuant to points (b) to (d) of Article 56;</td><td>2014 (20 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>057</td><td>2015 (40 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>058</td><td>2016 (60 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>059</td><td>2017 (80 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>060</td><td rowspan="4"></td><td rowspan="4">Article 478(3)(d)</td><td rowspan="4"></td><td rowspan="4">Credit Institutions and Investment firms</td><td rowspan="4">Transitional deductions from Common Equity Tier 1, Additional Tier 1 and Tier 2 items</td><td rowspan="4">Competent authorities shall determine and publish an applicable percentage in the ranges specified in paragraphs 1 and 2 of Article 478 for (d) each deduction required pursuant to points (b) to (d) of Article 66.</td><td>2014 (20 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>061</td><td>2015 (40 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>062</td><td>2016 (60 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>063</td><td>2017 (80 % to 100 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>064</td><td rowspan="4"></td><td rowspan="4">Article 479(4)</td><td rowspan="4"></td><td rowspan="4">Credit Institutions and Investment firms</td><td rowspan="4">Transitional recognition in consolidated Common Equity Tier 1 capital of instruments and items that do not qualify as minority interests</td><td rowspan="4">Competent authorities shall determine and publish the applicable percentage in the ranges specified in paragraph 3 of Article 479.</td><td>2014 (0 % to 80 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>065</td><td>2015 (0 % to 60 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>066</td><td>2016 (0 % to 40 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>067</td><td>2017 (0 % to 20 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>068</td><td rowspan="4"></td><td rowspan="4">Article 480(3)</td><td rowspan="4"></td><td rowspan="4">Credit Institutions and Investment firms</td><td rowspan="4">Transitional recognition of minority interests and qualifying Additional Tier 1 and Tier 2 capital</td><td rowspan="4">Competent authorities shall determine and publish the value of the applicable factor in the ranges specified in paragraph 2 of Article 480.</td><td>2014 (0,2 to 1,0)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>069</td><td>2015 (0,4 to 1,0)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>070</td><td>2016 (0,6 to 1,0)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>071</td><td>2017 (0,8 to 1,0)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>072</td><td rowspan="4"></td><td rowspan="4">Article 481(1)</td><td rowspan="4"></td><td rowspan="4">Credit Institutions and Investment firms</td><td rowspan="4"></td><td rowspan="4">Applicable percentage if a single percentage applies (percentage in the ranges specified in paragraph 3 of Article 481)</td><td>2014 (0 % to 80 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>073</td><td>2015 (0 % to 60 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>074</td><td>2016 (0 % to 40 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>075</td><td>2017 (0 % to 20 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>076</td><td rowspan="4"></td><td rowspan="4">Article 481(5)</td><td rowspan="4"></td><td rowspan="4"></td><td rowspan="4">Additional transitional filters and deductions</td><td rowspan="4">For each filter or deduction referred to in paragraphs 1 and 2 of Article 481, competent authorities shall determine and publish the applicable percentages in the ranges specified in paragraphs 3 and 4 of that Article</td><td>2014 (0 % to 80 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>077</td><td>2015 (0 % to 60 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>078</td><td>2016 (0 % to 40 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>079</td><td>2017 (0 % to 20 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>080</td><td rowspan="24"></td><td rowspan="24">Article 486(6)</td><td rowspan="24"></td><td rowspan="24">Credit Institutions and Investment firms</td><td rowspan="24">Limits for grandfathering of items within Common Equity Tier 1, Additional Tier 1 and Tier 2 items</td><td rowspan="8">Applicable percentage for determining the limits for grandfathering of items within Common Equity Tier 1 items pursuant to paragraph 2 of Article 486 (percentage in the ranges specified in paragraph 5 of that Article)</td><td>2014 (60 % to 80 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>081</td><td>2015 (40 % to 70 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>082</td><td>2016 (20 % to 60 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>083</td><td>2017 (0 % to 50 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>084</td><td>2018 (0 % to 40 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>085</td><td>2019 (0 % to 30 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>086</td><td>2020 (0 % to 20 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>087</td><td>2021 (0 % to 10 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>088</td><td rowspan="8">Applicable percentage for determining the limits for grandfathering of items within Additional Tier 1 items pursuant to paragraph 3 of Article 486 (percentage in the ranges specified in paragraph 5 of that Article)</td><td>2014 (60 % to 80 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>089</td><td>2015 (40 % to 70 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>090</td><td>2016 (20 % to 60 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>091</td><td>2017 (0 % to 50 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>092</td><td>2018 (0 % to 40 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>093</td><td>2019 (0 % to 30 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>094</td><td>2020 (0 % to 20 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>095</td><td>2021 (0 % to 10 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>096</td><td rowspan="8">Applicable percentage for determining the limits for grandfathering of items within Tier 2 items pursuant to paragraph 4 of Article 486 (percentage in the ranges specified in paragraph 5 of that Article)</td><td>2014 (60 % to 80 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>097</td><td>2015 (40 % to 70 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>098</td><td>2016 (20 % to 60 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>099</td><td>2017 (0 % to 50 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>100</td><td>2018 (0 % to 40 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>101</td><td>2019 (0 % to 30 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>102</td><td>2020 (0 % to 20 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>103</td><td>2021 (0 % to 10 %)</td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>104</td><td></td><td>Article 495(1)</td><td></td><td>Credit Institutions and Investment firms</td><td>Transitional treatment of equity exposures under the IRB approach</td><td>By way of derogation from Chapter 3 of Part Three, until 31 December 2017 , the competent authorities may exempt from the IRB treatment certain categories of equity exposures held by institutions and EU subsidiaries of institutions in that Member State as at 31 December 2007 .</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>105</td><td></td><td>Article 496(1)</td><td></td><td>Credit Institutions and Investment firms</td><td>Transitional provision on the calculation of own fund requirements for exposures in the form of covered bonds</td><td>Until 31 December 2017 , competent authorities may waive in full or in part the 10 % limit for senior units issued by French Fonds Communs de Créances or by securitisation entities which are equivalent to French Fonds Communs de Créances laid down in points (d) and (f) of Article 129(1), provided that conditions specified in points (a) and (b) of Article 496(1) are fulfilled.</td><td><em>[Year]</em></td><td>[Y/N/NA]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+</tbody>
+</table>
+
+PART 3
+
+**Variable elements of remuneration (Article 94 of Directive 2013/36 EU)**
+
+<table>
+<tbody>
+<tr><th></th><th>Directive 2013/36/EU</th><th>Adressee</th><th>Scope</th><th>Provisions</th><th>Information to disclose</th><th>Exercised (Y/N/NA)</th><th>References</th><th>Available in EN (Y/N)</th><th>Details / Comments</th></tr>
+<tr><td>010</td><td colspan="4"><em>Date of the last update of information in this template</em></td><td colspan="4"><em>(dd/mm/yyyy)</em></td><td></td></tr>
+<tr><td>020</td><td>Article 94(1)(g)(i)</td><td>Member States or Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Maximum ratio between the variable and fixed components of remuneration (% set in national law calculated as variable component divided by fixed component of remuneration)</td><td><em>[Value in %]</em></td><td>[Y/N]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>030</td><td>Article 94(1)(g)(ii)</td><td>Member States or Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Maximum level of the ratio between the variable and fixed components of remuneration which may be approved by shareholders or owners or members of the institution (% set in national law calculated as variable component divided by fixed component of remuneration)</td><td><em>[Value in %]</em></td><td>[Y/N]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>040</td><td>Article 94(1)(g)(iii)</td><td>Member States or Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Maximum part of the total variable remuneration to which the discount rate may be applied (% of the total variable remuneration)</td><td><em>[Value in %]</em></td><td>[Y/N]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+<tr><td>050</td><td>Article 94(1)(l)</td><td>Member States or Competent Authorities</td><td>Credit Institutions and Investment firms</td><td>Description of any restriction on the types and designs or prohibitions of instruments that can be used for the purposes of awarding variable remuneration</td><td><em>[Free text/value]</em></td><td>[Y/N]</td><td>Mandatory if Y</td><td>Mandatory if Y</td><td></td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**Supervisory review and evaluation process (SREP)** [^f00011]
+
+<table>
+<tfoot>
+<tr><td colspan="4">Competent authorities shall disclose the criteria and methodologies used in rows 020 to 040 and in row 050 for the overall assessment. The type of information that shall be disclosed in form of an explanatory note is described in the second column.</td></tr>
+<tr><td colspan="4">The scope of SREP to be considered both at a level of an institution and in respect of its own resources.<br>A competent authority shall explain the approach used to classify institutions into different categories for SREP purposes, describing the use of quantitative and qualitative criteria, and how financial stability or other overall supervisory objectives are affected by such categorisation.<br>A competent authority shall also explain how categorisation is put in practice for the purposes of ensuring at least a minimum engagement in SREP assessments, including the description of the frequencies for the assessment of all SREP elements for different categories of institutions.</td></tr>
+<tr><td colspan="4">Including working tools e.g. on-site inspections and off-site examinations, qualitative and quantitative criteria, statistical data used in the assessments. Hyperlinks to any guidance on the website are recommended.</td></tr>
+<tr><td colspan="4">Competent authorities shall also explain how the assessment of ICAAP and ILAAP is covered by the minimum engagement models applied for proportionality purposes based on SREP categories as well as how proportionality is applied for the purposes of specifying supervisory expectations to ICAAP and ILAAP, and in particular, any guidelines or minimum requirements for the ICAAP and ILAAP the competent authorities have issued.</td></tr>
+<tr><td colspan="4">The approach competent authorities apply to arrive to the overall SREP assessment and its communication to the institutions. The overall assessment by competent authorities is based on a review of all the elements referred to in row 020 to 040, along with any other relevant information about the institution that the competent authority may obtain.</td></tr>
+<tr><td colspan="4">Competent authorities may also disclose the policies that guide their decisions for taking supervisory measures (within the meaning of Articles 102 and 104 of the CRD) and early intervention measures (within the meaning of Article 27 of the Bank Recovery and Resolution Directive (BRRD)) whenever their assessment of an institution identifies weaknesses or inadequacies that call for supervisory intervention. Such disclosures might include the publication of internal guidelines or other documents describing general supervisory practices. However, no disclosure is required regarding decisions on individual institutions, to respect the confidentiality principle.<br>Furthermore, competent authorities may provide information regarding the implications if an institution violates relevant legal provisions or does not comply with the supervisory or early intervention measures imposed based on the SREP outcomes, e.g. it shall list enforcement procedures that are in place (where applicable).</td></tr>
+</tfoot>
+<tbody>
+<tr><td>010</td><td colspan="2"><strong>Date of the last update of information in this template</strong></td><td>(dd/mm/yyyy)</td></tr>
+<tr><td>020</td><td><strong>Scope of application of SREP</strong><br>(Articles 108 to 110 of CRD)</td><td>Description of the approach of the competent authority to the scope of application of SREP including:<br>what types of institutions are covered by/excluded from SREP, especially if the scope is different from those specified in Regulation (EU) No 575/2013 and Directive 2013/36/EU;<br>a high-level overview of how the competent authority takes into account the principle of proportionality when considering the scope of SREP and frequency of assessment of various SREP elements .</td><td><em>[free text or reference or hyperlink to such guidance]</em></td></tr>
+<tr><td>030</td><td><strong>Assessment of SREP elements</strong><br>(Articles 74 to 96 of CRD)</td><td>Description of the approach of the competent authority to the assessment of individual SREP elements (as referred to in EBA Guidelines on common procedures and methodologies for SREP- EBA/GL/2014/13) including:<br>a high-level overview of the assessment process and methodologies applied to the assessment of SREP elements, including: (1) business model analysis, (2) assessment of internal governance and institution-wide controls, (3) assessment of risks to capital, and (4) assessment of risks to liquidity and funding;<br>a high-level overview of how the competent authority takes into account the principle of proportionality when assessing individual SREP elements, including how the categorisation of institutions have been applied .</td><td><em>[free text or reference or hyperlink to such guidance]</em></td></tr>
+<tr><td>040</td><td><strong>Review and evaluation of ICAAP and ILAAP</strong><br>(Articles 73, 86, 97, 98 and 103 of CRD)</td><td>Description of the approach of the competent authority to the review and evaluation of the internal capital adequacy assessment process (ICAAP) and internal liquidity adequacy assessment process (ILAAP) as part of the SREP, and, in particular, for assessing the reliability of the ICAAP and ILAAP capital and liquidity calculations for the purposes of determining additional own funds and quantitative liquidity requirements including :<br>an overview of the methodology applied by the competent authority to review the ICAAP and ILAAP of institutions;<br>Information/reference to the competent authority requirements for submission of ICAAP and ILAAP related information, in particular covering what information need to be submitted;<br>information on whether an independent review of the ICAAP and ILAAP is required from the institution.</td><td><em>[free text or reference or hyperlink to such guidance]</em></td></tr>
+<tr><td>050</td><td><strong>Overall SREP assessment and supervisory measures</strong><br>(Articles 102 and 104 of CRD)</td><td>Description of the approach of the competent authority to the overall SREP assessment (summary) and application of supervisory measures on the basis of the overall SREP assessment .<br>Description of how SREP outcomes are linked to the application of early intervention measures according to Article 27 of Directive 2014/59/EU and determination of conditions whether the institution can be considered failing or likely to fail according to Article 32 of that Directive .</td><td><em>[free text or reference or hyperlink to such guidance]</em></td></tr>
+</tbody>
+</table>
+
+[^f00012][^f00013][^f00014][^f00015][^f00016]
+
+## ANNEX IV — AGGREGATE STATISTICAL DATA
+
+**List of templates**
+
+|  |  |
+| --- | --- |
+| Part 1 | Consolidated data per Competent Authority |
+| Part 2 | Data on credit risk |
+| Part 3 | Data on market risk |
+| Part 4 | Data on operational risk |
+| Part 5 | Data on supervisory measures and administrative penalties |
+| Part 6 | Data on waivers |
+
+*General remarks on filling in templates in Annex IV*
+
+—
+
+Competent authorities shall not disclose supervisory actions or decisions directed at specific institutions. When publishing information on the general criteria and methodologies, competent authorities shall not disclose any supervisory measures directed at specific institutions, whether taken with respect to a single institution or to a group of institutions.
+
+—
+
+Numerical cells shall include only numbers. There shall be no references to national currencies. The currency used is euros and non-euro area Member States shall convert their national currencies into euros using the ECB exchange rates (at the common reference date, i.e. the last day of the year under review), with one decimal place when disclosing amounts in millions.
+
+—
+
+Unit of disclosure shall be in millions of euro for the reported monetary amounts (hereafter – MEUR).
+
+—
+
+Percentages shall be disclosed with two decimals.
+
+—
+
+If data is not being disclosed, the reason for non-disclosure shall be provided using the EBA nomenclature, i.e. N/A (for not available) or C (for confidential).
+
+—
+
+The data shall be disclosed on an aggregated basis without identifying individual either credit institutions or investment firms.
+
+—
+
+The references to COREP templates pursuant to the Commission implementing regulation (EU) No 680/2014 are provided in Parts 1 to 4, where available.
+
+—
+
+Competent authorities shall collect data relating to XXXX year onwards on consolidated basis. This will ensure the consistency of the information collected.
+
+—
+
+The templates of this Annex shall be read in conjunction with the reporting scope of consolidation hereby defined. To ensure efficient data collection, the information for credit institutions and investment firms shall be reported separately, but the same level of consolidation shall be applied in both cases.
+
+—
+
+In order to ensure the coherence and comparability of reported data, the ECB shall publish only aggregate statistical data for supervised entities for which it conducts and exercises direct supervision at the reference date of the disclosure, while national competent authorities shall publish aggregate statistical data only for credit institutions not directly supervised by the ECB.
+
+—
+
+Data shall be compiled only for investment firms subject to CRD. Investment firms which are not subject to CRD regime are excluded from the data collection exercise.
+
+PART 1
+
+**Consolidated data per Competent Authority (year XXXX)**
+
+<table>
+<tfoot>
+<tr><td colspan="5">The total assets figure shall be the total assets value of the country for the national competent authorities, only for rows 020 and 030, and for the ECB the total assets value of Significant Institutions for the whole SSM.</td></tr>
+<tr><td colspan="5">GDP at market price; suggested source – Eurostat/ECB.</td></tr>
+<tr><td colspan="5">EEA countries shall not be included.</td></tr>
+<tr><td colspan="5">Number of branches as defined in point (1) of Article 4(1) of CRR. Any number of places of business set up in the same country by a credit institution with headquarters in a third country should be counted as a single branch.</td></tr>
+<tr><td colspan="5">Number of subsidiaries as defined in point (16) of Article 4(1) of CRR. Any subsidiary of a subsidiary undertaking shall be regarded as a subsidiary of the parent undertaking, which is at the head of those undertakings.</td></tr>
+<tr><td colspan="5">Ratio of Common Equity Tier 1 capital as defined in Article 50 of CRR to the own funds as defined in point (118) of Article 4(1) and Article 72 of CRR, expressed in percentage (%).</td></tr>
+<tr><td colspan="5">Ratio of Additional Tier 1 Capital as defined in Article 61 of CRR to the own funds as defined in point (118) of Article 4(1) and Article 72 of CRR, expressed in percentage (%).</td></tr>
+<tr><td colspan="5">Ratio of Tier 2 Capital as defined in Article 71 of CRR to the own funds as defined in point (118) of Article 4(1) and Article 72 of CRR, expressed in percentage (%).</td></tr>
+<tr><td colspan="5">The 8 % of total risk exposure amount as defined in Articles 92(3), 95, 96 and 98 of CRR.</td></tr>
+<tr><td colspan="5">The ratio of the own funds to the total risk exposure amount as defined in point (c) of Article 92(2) of CRR, expressed in percentage (%).</td></tr>
+</tfoot>
+<tbody>
+<tr><th colspan="3"></th><th>Reference to COREP template</th><th>Data</th></tr>
+<tr><td></td><th colspan="2"><strong>Number and size of credit institutions</strong></th><td></td><td></td></tr>
+<tr><td>010</td><th colspan="2">Number of credit institutions</th><td></td><td><em>[Value]</em></td></tr>
+<tr><td>020</td><th colspan="2">Total assets of the jurisdiction (in MEUR)</th><td></td><td><em>[Value]</em></td></tr>
+<tr><td>030</td><th colspan="2">Total assets of the jurisdiction as % of GDP</th><td></td><td><em>[Value]</em></td></tr>
+<tr><td></td><th colspan="2">Number and size of foreign credit institutions</th><td></td><td></td></tr>
+<tr><td>040</td><th rowspan="4">From third countries</th><th>Number of branches</th><td></td><td><em>[Value]</em></td></tr>
+<tr><td>050</td><th>Total assets of branches (in MEUR)</th><td></td><td><em>[Value]</em></td></tr>
+<tr><td>060</td><th>Number of subsidiarie</th><td></td><td><em>[Value]</em></td></tr>
+<tr><td>070</td><th>Total assets of subsidiaries (in MEUR)</th><td></td><td><em>[Value]</em></td></tr>
+<tr><td></td><th colspan="2"><strong>Total capital and capital requirements of credit institutions</strong></th><td></td><td></td></tr>
+<tr><td>080</td><th colspan="2">Total Common Equity Tier 1 capital as % of total capital</th><td>CA1 (row 020 / row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>090</td><th colspan="2">Total Additional Tier 1 capital as % of total capital</th><td>CA1 (row 530 / row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>100</td><th colspan="2">Total Tier 2 capital as % of total capital</th><td>CA1 (row 750 / row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>110</td><th colspan="2">Total capital requirements (in MEUR)</th><td>CA2 (row 010) * 8 %</td><td><em>[Value]</em></td></tr>
+<tr><td>120</td><th colspan="2">Total capital ratio (%)</th><td>CA3 (row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td></td><th colspan="2"><strong>Number and size of investment firms</strong></th><td></td><td></td></tr>
+<tr><td>130</td><th colspan="2">Number of investment firms</th><td></td><td><em>[Value]</em></td></tr>
+<tr><td>140</td><th colspan="2">Total assets (in MEUR)</th><td></td><td><em>[Value]</em></td></tr>
+<tr><td>150</td><th colspan="2">Total assets as % of GDP</th><td></td><td><em>[Value]</em></td></tr>
+<tr><td></td><th colspan="2"><strong>Total capital and capital requirements of investment firms</strong></th><td></td><td></td></tr>
+<tr><td>160</td><th colspan="2">Total Common Equity Tier 1 capital as % of total capital</th><td>CA1 (row 020 / row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>170</td><th colspan="2">Total Additional Tier 1 capital as % of total capital</th><td>CA1 (row 530 / row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>180</td><th colspan="2">Total Tier 2 capital as % of total capital</th><td>CA1 (row 750 / row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>190</td><th colspan="2">Total capital requirements (in MEUR)</th><td>CA2 (row 010) *8 %</td><td><em>[Value]</em></td></tr>
+<tr><td>200</td><th colspan="2">Total capital ratio (%)</th><td>CA3 (row 050)</td><td><em>[Value]</em></td></tr>
+</tbody>
+</table>
+
+[^f00028][^f00028][^f00029][^f00030][^f00031][^f00032][^f00033][^f00034][^f00035][^f00036][^f00037][^f00028][^f00033][^f00034][^f00035][^f00036][^f00037]
+
+PART 2
+
+**Data on credit risk (year XXXX)**
+
+<table>
+<tfoot>
+<tr><td colspan="6">Ratio of the own fund requirements for credit risk as defined in points (a) and (f) of Article 92(3) of CRR to the total own funds as defined in Articles 92(3), 95, 96 and 98 of CRR.</td></tr>
+<tr><td colspan="6">If an institution uses more than one approach, it shall be counted in each of these approaches. Hence, the sum of the percentages reported for the three approaches may be higher than 100 %.</td></tr>
+<tr><td colspan="6">In the exceptional cases, where an institution uses more than one approach, it shall be counted in each of these approaches. Hence, the sum of the percentages reported may be higher than 100 %.</td></tr>
+<tr><td colspan="6">Ratio of the own fund requirements for credit risk as defined in points (a) and (f) of Article 92(3) of CRR to the total own funds as defined in Articles 92(3), 95, 96 and 98 of CRR.</td></tr>
+<tr><td colspan="6">The percentage of the own fund requirements of investment firms that apply the SA and IRB approach respectively in relation to the total own fund requirements for credit risk as defined in points (a) and (f) of Article 92(3) of CRR.</td></tr>
+<tr><td colspan="6">The amount of the estimated losses shall be reported at the reporting reference date.</td></tr>
+<tr><td colspan="6">As defined in points (c) and (f) of Article 101(1) of CRR, respectively; the market value and mortgage lending value according to points (74) and (76) of Article 4 (1); only for the part of exposure treated as fully and completely secured according to Article 124 (1) of CRR;</td></tr>
+<tr><td colspan="6">As defined in points (a) and (d) of Article 101(1) of CRR, respectively; the market value and mortgage lending value according to points (74) and (76) of Article 4 (1).</td></tr>
+<tr><td colspan="6">When the value of the collateral has been calculated as mortgage lending value.</td></tr>
+<tr><td colspan="6">As defined in points (b) and (e) of Article 101(1) of CRR, respectively; the market value and mortgage lending value according to points (74) and (76) of Article 4 (1).</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th colspan="3">Credit risk data</th><th>Reference to COREP template</th><th>data</th></tr>
+<tr><td></td><td colspan="3"><strong>Credit institutions: Own funds requirements for credit risk</strong></td><td></td><td></td></tr>
+<tr><td>010</td><td>Credit institutions: own funds requirements for credit risk</td><td colspan="2"><strong>% of total own funds requirements</strong></td><td>CA2 (row 040) / (row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>020</td><td rowspan="6">Credit institutions: breakdown by approach</td><td rowspan="3"><strong>% based on the total number of credit institutions</strong></td><td><strong>Standardised Approach (SA)</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>030</td><td><strong>IRB approach when neither own estimates of Loss Given Default nor conversion factors are used</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>040</td><td><strong>IRB approach when own estimates of Loss Given Default and/or conversion factors are used</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>050</td><td rowspan="3"><strong>% based on total own funds requirements for credit risk</strong></td><td><strong>SA</strong></td><td>CA2 (row 050) / (row 040)</td><td><em>[Value]</em></td></tr>
+<tr><td>060</td><td><strong>IRB approach when neither own estimates of Loss Given Default nor conversion factors are used</strong></td><td>CR IRB, Foundation IRB (row 010, col 260) / CA2 (row 040)</td><td><em>[Value]</em></td></tr>
+<tr><td>070</td><td><strong>IRB approach when own estimates of Loss Given Default and/or conversion factors are used</strong></td><td>CR IRB, Advanced IRB (row 010, col 260) / CA2 (row 040)</td><td><em>[Value]</em></td></tr>
+<tr><td>080</td><td rowspan="20"><strong>Credit institutions: breakdown by IRB exposure class</strong></td><td rowspan="20"><strong>% based on total IRB risk weighted exposure amount</strong></td><td>IRB approach when neither own estimates of Loss Given Default nor conversion factors are used</td><td>CA2 (row 250 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>090</td><td>Central governments and central banks</td><td>CA2 (row 260 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>100</td><td>Institutions</td><td>CA2 (row 270 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>110</td><td>Corporates - SME</td><td>CA2 (row 280 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>120</td><td>Corporates - Specialised Lending</td><td>CA2 (row 290 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>130</td><td>Corporates - Other</td><td>CA2 (row 300 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>140</td><td><strong>IRB approach when own estimates of Loss Given Default and/or conversion factors are used</strong></td><td>CA2 (row 310 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>150</td><td>Central governments and central banks</td><td>CA2 (row 320 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>160</td><td>Institutions</td><td>CA2 (row 330 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>170</td><td>Corporates - SME</td><td>CA2 (row 340 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>180</td><td>Corporates - Specialised Lending</td><td>CA2 (row 350 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>190</td><td>Corporates - Other</td><td>CA2 (row 360 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>200</td><td>Retail - Secured by real estate SME</td><td>CA2 (row 370 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>210</td><td>Retail - Secured by real estate non-SME</td><td>CA2 (row 380 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>220</td><td>Retail - Qualifying revolving</td><td>CA2 (row 390 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>230</td><td>Retail - Other SME</td><td>CA2 (row 400 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>240</td><td>Retail - Other non-SME</td><td>CA2 (row 410 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>250</td><td><strong>Equity IRB</strong></td><td>CA2 (row 420 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>260</td><td><strong>Securitisation positions IRB</strong></td><td>CA2 (row 430 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><td>270</td><td><strong>Other non credit-obligation assets</strong></td><td>CA2 (row 450 / row 240)</td><td><em>[Value]</em></td></tr>
+<tr><th></th><th colspan="3">Credit risk data</th><th>Reference to COREP template</th><th>data</th></tr>
+<tr><td>280</td><td colspan="3"><strong>Credit institutions: Own funds requirements for credit risk</strong></td><td></td><td></td></tr>
+<tr><td>290</td><td rowspan="17">Credit institutions: breakdown by SA exposure class*</td><td rowspan="17"><strong>% based on total SA risk weighted exposure amount</strong></td><td>Central governments or central banks</td><td>CA2 (row 070 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>300</td><td>Regional governments or local authorities</td><td>CA2 (row 080 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>310</td><td>Public sector entities</td><td>CA2 (row 090 / row 050)</td><td>[Value]</td></tr>
+<tr><td>320</td><td>Multilateral Development Banks</td><td>CA2 (row 100 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>330</td><td>International Organisations</td><td>CA2 (row 110 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>340</td><td>Institutions</td><td>CA2 (row 120 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>350</td><td>Corporates</td><td>CA2 (row 130 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>360</td><td>Retail</td><td>CA2 (row 140 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>370</td><td>Secured by mortgages on immovable property</td><td>CA2 (row 150 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>380</td><td>Exposures in default</td><td>CA2 (row 160 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>390</td><td>Items associated with particular high risk</td><td>CA2 (row 170 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>400</td><td>Covered bonds</td><td>CA2 (row 180 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>410</td><td>Claims on institutions and corporates with a short-term credit assessment</td><td>CA2 (row 190 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>420</td><td>Collective investment undertakings</td><td>CA2 (row 200 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>430</td><td>Equity</td><td>CA2 (row 210 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>440</td><td>Other items</td><td>CA2 (row 211 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>450</td><td>Securitisation positions SA</td><td>CA2 (row 220 / row 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>460</td><td rowspan="2">Credit institutions: breakdown by credit risk mitigation (CRM) approach</td><td rowspan="2"><strong>% based on the total number of credit institutions</strong></td><td>Financial collateral simple method</td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>470</td><td>Financial collateral comprehensive method</td><td></td><td><em>[Value]</em></td></tr>
+<tr><td></td><td colspan="3"><strong>Investment firms: Own funds requirements for credit risk</strong></td><td></td><td></td></tr>
+<tr><td>480</td><td>Investment firms: own funds requirements for credit risk</td><td colspan="2"><strong>% of total own funds requirements</strong></td><td>CA2 (row 040) / (row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>490</td><td rowspan="4">Investment firms: breakdown by approach</td><td rowspan="2"><strong>% based on the total number of investment firms</strong></td><td>SA</td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>500</td><td>IRB</td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>510</td><td rowspan="2"><strong>% based on total own funds requirements for credit risk</strong></td><td>SA</td><td>(CA2 (row 050) / (row 040)</td><td><em>[Value]</em></td></tr>
+<tr><td>520</td><td>IRB</td><td>(CA2 (row 240) / row 040)</td><td><em>[Value]</em></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th></th><th colspan="3">Additional information on securitisation (in MEUR)</th><th>Reference to COREP template</th><th>data</th></tr>
+<tr><td></td><td colspan="3"><strong>Credit institutions: originator</strong></td><td></td><td></td></tr>
+<tr><td>530</td><td colspan="3"><strong>Total amount of securitisation exposures originated on balance sheet and off-balance sheet</strong></td><td>CR SEC SA (row 030, col 010) + CR SEC IRB (row 030, col 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>540</td><td colspan="3"><strong>Total amount of securitisation positions retained (securitisation positions - original exposure pre conversion factors) on balance sheet and off-balance sheet</strong></td><td>CR SEC SA (row 030, col 050) + CR SEC IRB (row 030, col 050)</td><td><em>[Value]</em></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th></th><th colspan="3">Exposures and losses from lending collateralised by immovable property (MEUR)</th><th>Reference to COREP template</th><th>data</th></tr>
+<tr><td>550</td><td rowspan="5">Use of residential property as collateral</td><td colspan="2"><strong>Sum of exposures secured by residential property</strong></td><td>CR IP Losses (row 010, col 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>560</td><td colspan="2"><strong>Sum of losses stemming from lending up to the reference percentages</strong></td><td>CR IP Losses (row 010, col 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>570</td><td colspan="2"><strong>Of which: immovable property valued with mortgage lending value</strong></td><td>CR IP Losses (row 010, col 020)</td><td><em>[Value]</em></td></tr>
+<tr><td>580</td><td colspan="2"><strong>Sum of overall losses</strong></td><td>CR IP Losses (row 010, col 030)</td><td><em>[Value]</em></td></tr>
+<tr><td>590</td><td colspan="2"><strong>Of which: immovable property valued with mortgage lending value</strong></td><td>CR IP Losses (row 010, col 040)</td><td><em>[Value]</em></td></tr>
+<tr><td>600</td><td rowspan="5">Use of commercial immovable property as collateral</td><td colspan="2"><strong>Sum of exposures secured by immovable commercial property</strong></td><td>CR IP Losses (row 020, col 050)</td><td><em>[Value]</em></td></tr>
+<tr><td>610</td><td colspan="2"><strong>Sum of losses stemming from lending up to the reference percentages</strong></td><td>CR IP Losses (row 020, col 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>620</td><td colspan="2"><strong>Of which: immovable property valued with mortgage lending value</strong></td><td>CR IP Losses (row 020, col 020)</td><td><em>[Value]</em></td></tr>
+<tr><td>630</td><td colspan="2"><strong>Sum of overall losses</strong></td><td>CR IP Losses (row 020, col 030)</td><td><em>[Value]</em></td></tr>
+<tr><td>640</td><td colspan="2"><strong>Of which: immovable property valued with mortgage lending value</strong></td><td>CR IP Losses (row 020, col 040)</td><td><em>[Value]</em></td></tr>
+</tbody>
+</table>
+
+[^f00038][^f00039][^f00040][^f00041][^f00039][^f00042][^f00043][^f00044][^f00045][^f00046][^f00047][^f00046][^f00044][^f00045][^f00046][^f00047][^f00046]
+
+PART 3
+
+**Data on market risk** [^f00048] **(year XXXX)**
+
+<table>
+<tfoot>
+<tr><td colspan="6">The template shall include information on all institutions and not only on those with market risk positions.</td></tr>
+<tr><td colspan="6">Ratio of the total risk exposure amount for position, foreign exchange and commodities risks as defined in point (i) of point (b), points (i) and (iii) of point (c) of Articles 92(3) of CRR and point (b) of Article 92(4) of CRR to the total risk exposure amount as defined in Articles 92(3), 95, 96 and 98 of CRR (in %).</td></tr>
+<tr><td colspan="6">If an institution uses more than one approach, it shall be counted in each of these approaches. Hence, the sum of the percentages reported may be higher than 100 %, but also lower than 100 % as entities with small trading portfolio are not obliged to determine market risk.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th colspan="3">Market risk data</th><th>Reference to COREP template</th><th>data</th></tr>
+<tr><td></td><td colspan="3"><strong>Credit institutions: Own funds requirements for market risk</strong></td><td></td><td></td></tr>
+<tr><td>010</td><td><strong>Credit institutions: own funds requirements for market risk</strong></td><td colspan="2"><strong>% of total own funds requirements</strong></td><td>CA2 (row 520) / (row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>020</td><td rowspan="4"><strong>Credit institutions: breakdown by approach</strong></td><td rowspan="2"><strong>% based on the total number of credit institutions</strong></td><td><strong>Standardised approach</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>030</td><td><strong>Internal models</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>040</td><td rowspan="2"><strong>% based on total own funds requirements for market risk</strong></td><td><strong>Standardised approach</strong></td><td>CA2 (row 530) / (row 520)</td><td><em>[Value]</em></td></tr>
+<tr><td>050</td><td><strong>Internal models</strong></td><td>CA2 (row 580) / (row 520)</td><td><em>[Value]</em></td></tr>
+<tr><td></td><td colspan="3"><strong>Investment firms: Own funds requirements for market risk</strong></td><td></td><td></td></tr>
+<tr><td>060</td><td><strong>Investment firms: own funds requirements for market risk</strong></td><td colspan="2"><strong>% of total own funds requirements</strong></td><td>CA2 (row 520) / (row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>070</td><td rowspan="4"><strong>Investment firms: breakdown by approach</strong></td><td rowspan="2"><strong>% based on the total number of investment firms</strong></td><td><strong>Standardised approach</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>080</td><td><strong>Internal models</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>090</td><td rowspan="2"><strong>% based on total own funds requirements for market risk</strong></td><td><strong>Standardised approach</strong></td><td>CA2 (row 530) / (row 520)</td><td><em>[Value]</em></td></tr>
+<tr><td>100</td><td><strong>Internal models</strong></td><td>CA2 (row 580) / (row 520)</td><td><em>[Value]</em></td></tr>
+</tbody>
+</table>
+
+[^f00049][^f00050][^f00049][^f00050]
+
+PART 4
+
+**Data on operational risk (year XXXX)**
+
+<table>
+<tfoot>
+<tr><td colspan="6">Ratio of the total risk exposure amount for operational risk as defined in Article 92(3) of CRR to the total risk exposure amount as defined in Articles 92(3), 95, 96 and 98 of CRR (in %).</td></tr>
+<tr><td colspan="6">If an institution uses more than one approach, it shall be counted in each of these approaches. Hence, the sum of the percentages reported may be higher than 100 %, but also lower than 100 % as some investment firms are not obliged to count operational risk capital charges.</td></tr>
+<tr><td colspan="6">Only with respect to entities, which use AMA or TSA/ASA approach; ratio of the total loss amount for all business lines to the sum of the relevant indicator for banking activities subject to TSA/ASA and AMA for the last year (in %).</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th colspan="3">Operational risk data</th><th>Reference to COREP template</th><th>data</th></tr>
+<tr><td></td><td colspan="3"><strong>Credit institutions: Own funds requirements for operational risk</strong></td><td></td><td></td></tr>
+<tr><td>010</td><td>Credit institutions: own funds requirements for operational risk</td><td colspan="2"><strong>% of total own funds requirements</strong></td><td>CA2 (row 590) / (row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>020</td><td rowspan="6">Credit institutions: breakdown by approach</td><td rowspan="3"><strong>% based on the total number of credit institutions</strong></td><td><strong>Basic Indicator Approach (BIA)</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>030</td><td><strong>Standardised Approach (TSA) /</strong><br><strong>Alternative Standardised Approach (ASA)</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>040</td><td><strong>Advanced Measurement Approach (AMA)</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>050</td><td rowspan="3"><strong>% based on total own funds requirements for operational risk</strong></td><td><strong>BIA</strong></td><td>CA2 (row 600) / (row 590)</td><td><em>[Value]</em></td></tr>
+<tr><td>060</td><td><strong>TSA/ASA</strong></td><td>CA2 (row 610) / (row 590)</td><td><em>[Value]</em></td></tr>
+<tr><td>070</td><td><strong>AMA</strong></td><td>CA2 (row 620) / (row 590)</td><td><em>[Value]</em></td></tr>
+<tr><td></td><td colspan="3"><strong>Credit institutions: Losses due to operational risk</strong></td><td></td><td></td></tr>
+<tr><td>080</td><td>Credit institutions: total gross loss</td><td colspan="2"><strong>Total gross loss as % of total gross income</strong></td><td>OPR Details (row 920, col 080) / OPR ((sum (row 010 to row 130), col 030)</td><td><em>[Value]</em></td></tr>
+<tr><td></td><td colspan="3"><strong>Investment firms: Own funds requirements for operational risk</strong></td><td></td><td></td></tr>
+<tr><td>090</td><td>Investment firms: own funds requirements for operational risk</td><td colspan="2"><strong>% of total own funds requirements</strong></td><td>CA2 (row 590) / (row 010)</td><td><em>[Value]</em></td></tr>
+<tr><td>100</td><td rowspan="6">Investment firms: breakdown by approach</td><td rowspan="3"><strong>% based on the total number of investment firms</strong></td><td><strong>BIA</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>110</td><td><strong>TSA/ASA</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>120</td><td><strong>AMA</strong></td><td></td><td><em>[Value]</em></td></tr>
+<tr><td>130</td><td rowspan="3"><strong>% based on total own funds requirements for operational risk</strong></td><td><strong>BIA</strong></td><td>CA2 (row 600) / (row 590)</td><td><em>[Value]</em></td></tr>
+<tr><td>140</td><td><strong>TSA/ASA</strong></td><td>CA2 (row 610) / (row 590)</td><td><em>[Value]</em></td></tr>
+<tr><td>150</td><td><strong>AMA</strong></td><td>CA2 (row 620) / (row 590)</td><td><em>[Value]</em></td></tr>
+<tr><td></td><td colspan="3"><strong>Investment firms: Losses due to operational risk</strong></td><td></td><td></td></tr>
+<tr><td>160</td><td>Investment firms: total gross loss</td><td colspan="2"><strong>Total gross loss as % of total gross income</strong></td><td>OPR Details (row 920, col 080) / OPR (sum (row 010 to row 130), col 030)</td><td><em>[Value]</em></td></tr>
+</tbody>
+</table>
+
+[^f00051][^f00052][^f00053][^f00051][^f00052][^f00053]
+
+PART 5
+
+**Data on supervisory measures and administrative penalties** [^f00055] **(year XXXX)**
+
+<table>
+<tfoot>
+<tr><td colspan="4">Information shall be reported based on the date of decision.<br>Due to differences in national regulations as well as in supervisory practices and approaches across the competent authorities the figures provided in this table might not allow for a meaningful comparison between jurisdictions. Any conclusions without carefully considering these differences can be misleading.</td></tr>
+<tr><td colspan="4">The administrative penalties imposed by competent authorities. Competent authorities shall report all administrative penalties against which there is no appeal available in their jurisdiction by the reference date of the disclosure. Competent authorities of Member States where it is permitted to publish administrative penalties subject to an appeal, shall also report those administrative penalties unless the appeal annulling the administrative penalty is issued.</td></tr>
+<tr><td colspan="4">Competent authorities shall not disclose supervisory actions or decisions directed at specific institutions. When publishing information on the general criteria and methodologies, competent authorities shall not disclose any supervisory measures directed at specific institutions, whether taken with respect to a single institution or to a group of institutions.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th colspan="2">Supervisory measures</th><th>data</th></tr>
+<tr><td></td><td colspan="2"><strong>Credit institutions</strong></td><td></td></tr>
+<tr><td>010</td><td rowspan="14">Supervisory measures taken in accordance with Article 102(1)(a)</td><td>Total number of supervisory measures taken in accordance with Article 104(1) of Directive 2013/36/EU:</td><td><em>[Value]</em></td></tr>
+<tr><td>011</td><td>to hold own funds in excess of the minimum capital requirements [Article 104(1)(a)]</td><td><em>[Value]</em></td></tr>
+<tr><td>012</td><td>to reinforce governance arrangements and internal capital management [Article 104(1)(b)]</td><td><em>[Value]</em></td></tr>
+<tr><td>013</td><td>to present a plan to restore compliance with supervisory requirements [Article 104(1)(c)]</td><td><em>[Value]</em></td></tr>
+<tr><td>014</td><td>to apply a specific provisioning policy or treatment of assets [Article 104(1)(d)]</td><td><em>[Value]</em></td></tr>
+<tr><td>015</td><td>to restrict/limit business or activities [Article 104(1)(e)]</td><td><em>[Value]</em></td></tr>
+<tr><td>016</td><td>to reduce the risk inherent in the activities, products and systems [Article 104(1)(f)]</td><td><em>[Value]</em></td></tr>
+<tr><td>017</td><td>to limit variable remuneration [Article 104(1)(g)]</td><td><em>[Value]</em></td></tr>
+<tr><td>018</td><td>to strengthen own funds by using net profits [Article 104(1)(h)]</td><td><em>[Value]</em></td></tr>
+<tr><td>019</td><td>to restrict/prohibit distributions or interest payments [Article 104(1)(i)]</td><td><em>[Value]</em></td></tr>
+<tr><td>020</td><td>to impose additional or more frequent reporting requirements [Article 104(1)(j)]</td><td><em>[Value]</em></td></tr>
+<tr><td>021</td><td>to impose specific liquidity requirements [Article 104(1)(k)]</td><td><em>[Value]</em></td></tr>
+<tr><td>022</td><td>to impose additional disclosure requirements [Article 104(1)(l)]</td><td><em>[Value]</em></td></tr>
+<tr><td>023</td><td>Number and nature of other supervisory measures taken (not listed in Article 104(1) of Directive 2013/36/EU)</td><td><em>[Value]</em></td></tr>
+<tr><td>024</td><td rowspan="14">Supervisory measures taken in accordance with Article 102(1)(b) and other provisions of Directive 2013/36/EU or Regulation (EU) No 575/2013</td><td>Total number of supervisory measures taken in accordance with Article 104(1) of Directive 2013/36/EU:</td><td><em>[Value]</em></td></tr>
+<tr><td>025</td><td>to hold own funds in excess of the minimum capital requirements [Article 104(1)(a)]</td><td><em>[Value]</em></td></tr>
+<tr><td>026</td><td>to reinforce governance arrangements and internal capital management [Article 104(1)(b)]</td><td><em>[Value]</em></td></tr>
+<tr><td>027</td><td>to present a plan to restore compliance with supervisory requirements [Article 104(1)(c)]</td><td><em>[Value]</em></td></tr>
+<tr><td>028</td><td>to apply a specific provisioning policy or treatment of assets [Article 104(1)(d)]</td><td><em>[Value]</em></td></tr>
+<tr><td>029</td><td>to restrict/limit business or activities [Article 104(1)(e)]</td><td><em>[Value]</em></td></tr>
+<tr><td>030</td><td>to reduce the risk inherent in the activities, products and systems [Article 104(1)(f)]</td><td><em>[Value]</em></td></tr>
+<tr><td>031</td><td>to limit variable remuneration [Article 104(1)(g)]</td><td><em>[Value]</em></td></tr>
+<tr><td>032</td><td>to strengthen own funds by using net profits [Article 104(1)(h)]</td><td><em>[Value]</em></td></tr>
+<tr><td>033</td><td>to restrict/prohibit distributions or interest payments [Article 104(1)(i)]</td><td><em>[Value]</em></td></tr>
+<tr><td>034</td><td>to impose additional or more frequent reporting requirements [Article 104(1)(j)]</td><td><em>[Value]</em></td></tr>
+<tr><td>035</td><td>to impose specific liquidity requirements [Article 104(1)(k)]</td><td><em>[Value]</em></td></tr>
+<tr><td>036</td><td>to impose additional disclosure requirements [Article 104(1)(l)]</td><td><em>[Value]</em></td></tr>
+<tr><td>037</td><td>Number and nature of other supervisory measures taken (not listed in Article 104(1) of Directive 2013/36/EU)</td><td><em>[Value]</em></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr><th></th><th colspan="2">Supervisory measures</th><th>data</th></tr>
+<tr><td></td><td colspan="2"><strong>Investment firms</strong></td><td></td></tr>
+<tr><td>037</td><td rowspan="14">Supervisory measures taken in accordance with Article 102(1)(a)</td><td>Total number of supervisory measures taken in accordance with Article 104(1) of Directive 2013/36/EU:</td><td><em>[Value]</em></td></tr>
+<tr><td>038</td><td>to hold own funds in excess of the minimum capital requirements [Article 104(1)(a)]</td><td><em>[Value]</em></td></tr>
+<tr><td>039</td><td>to reinforce governance arrangements and internal capital management [Article 104(1)(b)]</td><td><em>[Value]</em></td></tr>
+<tr><td>040</td><td>to present a plan to restore compliance with supervisory requirements [Article 104(1)(c)]</td><td><em>[Value]</em></td></tr>
+<tr><td>041</td><td>to apply a specific provisioning policy or treatment of assets [Article 104(1)(d)]</td><td><em>[Value]</em></td></tr>
+<tr><td>042</td><td>to restrict/limit business or activities [Article 104(1)(e)]</td><td><em>[Value]</em></td></tr>
+<tr><td>043</td><td>to reduce the risk inherent in the activities, products and systems [Article 104(1)(f)]</td><td><em>[Value]</em></td></tr>
+<tr><td>044</td><td>to limit variable remuneration [Article 104(1)(g)]</td><td><em>[Value]</em></td></tr>
+<tr><td>045</td><td>to strengthen own funds by using net profits [Article 104(1)(h)]</td><td><em>[Value]</em></td></tr>
+<tr><td>046</td><td>to restrict/prohibit distributions or interest payments [Article 104(1)(i)]</td><td><em>[Value]</em></td></tr>
+<tr><td>047</td><td>to impose additional or more frequent reporting requirements [Article 104(1)(j)]</td><td><em>[Value]</em></td></tr>
+<tr><td>048</td><td>to impose specific liquidity requirements [Article 104(1)(k)]</td><td><em>[Value]</em></td></tr>
+<tr><td>049</td><td>to impose additional disclosure requirements [Article 104(1)(l)]</td><td><em>[Value]</em></td></tr>
+<tr><td>050</td><td>Number and nature of other supervisory measures taken (not listed in Article 104(1) of Directive 2013/36/EU)</td><td><em>[Value]</em></td></tr>
+<tr><td>051</td><td rowspan="14">Supervisory measures taken in accordance with Article 102(1)(b) and other provisions of Directive 2013/36/EU or Regulation (EU) No 575/2013</td><td>Total number of supervisory measures taken in accordance with Article 104(1) of Directive 2013/36/EU:</td><td><em>[Value]</em></td></tr>
+<tr><td>052</td><td>to hold own funds in excess of the minimum capital requirements [Article 104(1)(a)]</td><td><em>[Value]</em></td></tr>
+<tr><td>053</td><td>to reinforce governance arrangements and internal capital management [Article 104(1)(b)]</td><td><em>[Value]</em></td></tr>
+<tr><td>054</td><td>to present a plan to restore compliance with supervisory requirements [Article 104(1)(c)]</td><td><em>[Value]</em></td></tr>
+<tr><td>055</td><td>to apply a specific provisioning policy or treatment of assets [Article 104(1)(d)]</td><td><em>[Value]</em></td></tr>
+<tr><td>056</td><td>to restrict/limit business or activities [Article 104(1)(e)]</td><td><em>[Value]</em></td></tr>
+<tr><td>057</td><td>to reduce the risk inherent in the activities, products and systems [Article 104(1)(f)]</td><td><em>[Value]</em></td></tr>
+<tr><td>058</td><td>to limit variable remuneration [Article 104(1)(g)]</td><td><em>[Value]</em></td></tr>
+<tr><td>059</td><td>to strengthen own funds by using net profits [Article 104(1)(h)]</td><td><em>[Value]</em></td></tr>
+<tr><td>060</td><td>to restrict/prohibit distributions or interest payments [Article 104(1)(i)]</td><td><em>[Value]</em></td></tr>
+<tr><td>061</td><td>to impose additional or more frequent reporting requirements [Article 104(1)(j)]</td><td><em>[Value]</em></td></tr>
+<tr><td>062</td><td>to impose specific liquidity requirements [Article 104(1)(k)]</td><td><em>[Value]</em></td></tr>
+<tr><td>063</td><td>to impose additional disclosure requirements [Article 104(1)(l)]</td><td><em>[Value]</em></td></tr>
+<tr><td>064</td><td>Number and nature of other supervisory measures taken (not listed in Article 104(1) of Directive 2013/36/EU)</td><td><em>[Value]</em></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr><th></th><th colspan="2">Administrative penalties</th><th>data</th></tr>
+<tr><td></td><td colspan="2"><strong>Credit institutions</strong></td><td></td></tr>
+<tr><td>065</td><td rowspan="6">Administrative penalties (for breaches of authorisation/ acquisitions of qualifying holding requirements)</td><td>Total number of administrative penalties from Article 66(2) of Directive 2013/36/EU applied:</td><td><em>[Value]</em></td></tr>
+<tr><td>066</td><td>public statements identifying the natural/legal person responsible and the nature of the breach [Article 66(2)(a)]</td><td><em>[Value]</em></td></tr>
+<tr><td>067</td><td>orders requiring the natural/legal person responsible to cease the conduct and to desist from a repetition of that conduct [Article 66(2)(b)]</td><td><em>[Value]</em></td></tr>
+<tr><td>068</td><td>administrative pecuniary penalties imposed on legal/natural person [points (c) to (e) of Article 66(2)]</td><td><em>[Value]</em></td></tr>
+<tr><td>069</td><td>suspensions of the voting rights of shareholders [Article 66(2)(f)]</td><td><em>[Value]</em></td></tr>
+<tr><td>070</td><td>Number and nature of other administrative penalties applied (not specified in Article 66(2) of Directive 2013/36/EU)</td><td><em>[free text]</em></td></tr>
+<tr><td>071</td><td rowspan="7">Administrative penalties (for other breaches of requirements imposed by Directive 2013/36/EU or Regulation (EU) No 575/2013)</td><td>Total number of administrative penalties from Article 67(2) of Directive 2013/36/EU applied:</td><td><em>[Value]</em></td></tr>
+<tr><td>072</td><td>public statements identifying the natural/legal person responsible and the nature of the breach [Article 67(2)(a)]</td><td><em>[Value]</em></td></tr>
+<tr><td>073</td><td>orders requiring the natural/legal person responsible to cease the conduct and to desist from a repetition of that conduct [Article 67(2)(b)]</td><td><em>[Value]</em></td></tr>
+<tr><td>074</td><td>withdrawals of authorisation of credit institution [Article 67(2)(c)]</td><td><em>[Value]</em></td></tr>
+<tr><td>075</td><td>temporary bans against natural person from exercising functions in credit institutions [Article 67(2)(d)]</td><td><em>[Value]</em></td></tr>
+<tr><td>076</td><td>administrative pecuniary penalties imposed on legal/natural person [points (e) to (g) of Article 67(2)]</td><td><em>[Value]</em></td></tr>
+<tr><td>077</td><td>Number and nature of other administrative penalties applied (not specified in Article 67(2) of Directive 2013/36/EU)</td><td><em>[free text]</em></td></tr>
+<tr><td></td><td colspan="2"><strong>Investment firms</strong></td><td></td></tr>
+<tr><td>078</td><td rowspan="6">Administrative penalties (for breaches of authorisation/ acquisitions of qualifying holding requirements)</td><td>Total number of administrative penalties from Article 66(2) of Directive 2013/36/EU applied:</td><td><em>[Value]</em></td></tr>
+<tr><td>079</td><td>public statements identifying the natural/legal person responsible and the nature of the breach [Article 66(2)(a)]</td><td><em>[Value]</em></td></tr>
+<tr><td>080</td><td>orders requiring the natural/legal person responsible to cease the conduct and to desist from a repetition of that conduct [Article 66(2)(b)]</td><td><em>[Value]</em></td></tr>
+<tr><td>081</td><td>administrative pecuniary penalties imposed on a legal person [points (c) to (e) of Article 66(2)]</td><td><em>[Value]</em></td></tr>
+<tr><td>082</td><td>suspensions of the voting rights of shareholders [Article 66(2)(f)]</td><td><em>[Value]</em></td></tr>
+<tr><td>083</td><td>Number and nature of other administrative penalties applied (not specified in Article 66(2) of Directive 2013/36/EU)</td><td><em>[Value]</em></td></tr>
+<tr><td>084</td><td rowspan="7">Administrative penalties (for other breaches of requirements imposed by Directive 2013/36/EU or Regulation (EU) No 575/2013)</td><td>Total number of administrative penalties from Article 66(2) of Directive 2013/36/EU applied:</td><td><em>[Value]</em></td></tr>
+<tr><td>085</td><td>public statements identifying the natural/legal person responsible and the nature of the breach [Article 67(2)(a)]</td><td><em>[Value]</em></td></tr>
+<tr><td>086</td><td>orders requiring the natural/legal person responsible to cease the conduct and to desist from a repetition of that conduct [Article 67(2)(b)]</td><td><em>[Value]</em></td></tr>
+<tr><td>087</td><td>withdrawals of authorisation of investment firms [Article 67(2)(c)]</td><td><em>[Value]</em></td></tr>
+<tr><td>088</td><td>temporary bans against natural person from exercising functions in investment firms [Article 67(2)(d)]</td><td><em>[Value]</em></td></tr>
+<tr><td>089</td><td>administrative pecuniary penalties imposed on legal/natural person [points (e) to (g) of Article 67(2)]</td><td><em>[Value]</em></td></tr>
+<tr><td>090</td><td>Number and nature of other administrative penalties applied (not specified in Article 67(2) of Directive 2013/36/EU)</td><td><em>[free text]</em></td></tr>
+</tbody>
+</table>
+
+[^f00056]
+
+PART 6
+
+**Data on waivers** [^f00057] **(year XXXX)**
+
+<table>
+<tfoot>
+<tr><td colspan="4">Competent authorities shall report Information on waiver practices based on the total number of waivers by the competent authority, which are still effective or in force. The information to be reported is limited to those entities granted a waiver. Where the information is not available, i.e. not part of the regular reporting, it shall be reported as ‘ N/A ’ .</td></tr>
+<tr><td colspan="4">The number of institutions which have been granted the waiver shall be used as a basis for counting the waivers.</td></tr>
+</tfoot>
+<tbody>
+<tr><td></td><td colspan="3"><strong>Exemption from the application on an individual basis of prudential requirements set out in Parts Two to Five, Seven and Eight of Regulation (EU) No 575/2013</strong></td></tr>
+<tr><td></td><th><strong>Legal reference in Regulation (EU) No 575/2013</strong></th><th><strong>Article 7(1) and (2)</strong> <strong>(waivers for subsidiaries)</strong></th><th><strong>Article 7(3)</strong> <strong>(waivers for parent institutions)</strong></th></tr>
+<tr><td>010</td><td>Total number of waivers granted</td><td><em>[Value]</em></td><td><em>[Value]</em></td></tr>
+<tr><td>011</td><td>Number of waivers granted to parent institutions which have or hold participations in subsidiaries established in third countries</td><td>N/A</td><td><em>[Value]</em></td></tr>
+<tr><td>012</td><td>Total amount of consolidated own funds held in the subsidiaries established in third countries (in MEUR)</td><td>N/A</td><td><em>[Value]</em></td></tr>
+<tr><td>013</td><td>Percentage of the total consolidated own funds held in subsidiaries established in third countries (%)</td><td>N/A</td><td><em>[Value]</em></td></tr>
+<tr><td>014</td><td>Percentage of the consolidated own funds requirements allocated to subsidiaries established in third countries (%)</td><td>N/A</td><td><em>[Value]</em></td></tr>
+<tr><td></td><td colspan="3"><strong>Permission granted to parent institutions to incorporate subsidiaries in the calculation of their prudential requirements set out in Parts Two to Five and Eight of Regulation (EU) No 575/2013</strong></td></tr>
+<tr><td></td><td><strong>Legal reference in Regulation (EU) No 575/2013</strong></td><th colspan="2"><strong>Article 9(1)</strong> <strong>(Individual consolidation method)</strong></th></tr>
+<tr><td>015</td><td>Total number of permissions granted</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td>016</td><td>Number of permissions granted to parent institutions to incorporarte subsidiaries established in third countries in the calculation of their requirement</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td>017</td><td>Total amount of consolidated own funds held in the subsidiaries established in third countries (in MEUR)</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td>018</td><td>Percentage of the total consolidated own funds held in subsidiaries established in third countries (%)</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td>019</td><td>Percentage of the consolidated own funds requirements allocated to subsidiaries established in third countries (%)</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td></td><td colspan="3"><strong>Exemption from the application on an individual basis of liquidity requirements set out in Part Six of Regulation (EU) No 575/2013</strong></td></tr>
+<tr><td></td><td><strong>Legal reference in Regulation (EU) No 575/2013</strong></td><th colspan="2"><strong>Article 8</strong> <strong>(Liquidity waivers for subsidiaries)</strong></th></tr>
+<tr><td>020</td><td>Total number of waivers granted</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td>021</td><td>Number of waivers granted pursuant to Article 8(2) where all institutions within a single liquidity sub-group are authorised in the same Member State</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td>022</td><td>Number of waivers granted pursuant to Article 8(1) where all institutions within a single liquidity sub-group are authorised in several Member States</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td>023</td><td>Number of waivers granted pursuant to Article 8(3) to institutions which are members of the same Institutional Protection Scheme</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td></td><td colspan="3"><strong>Exemption from the application on an individual basis of prudential requirements set out in Parts Two to Eight of Regulation (EU) No 575/2013</strong></td></tr>
+<tr><td></td><td><strong>Legal reference in Regulation (EU) No 575/2013</strong></td><th colspan="2"><strong>Article 10</strong> <strong>(Credit institutions permanently affiliated to a central body)</strong></th></tr>
+<tr><td>024</td><td>Total number of waivers granted</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td>025</td><td>Number of waivers granted to credit institutions permanently affiliated to a central body</td><td colspan="2"><em>[Value]</em></td></tr>
+<tr><td>026</td><td>Number of waivers granted to central bodies</td><td colspan="2"><em>[Value]</em></td></tr>
+</tbody>
+</table>
+
+[^f00058]
+
+## Annotations
+
+[^key-cefebf6ea28984928235482730ec946e]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see [The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. Pt. 4 para. 131](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/4) (with saving on IP completion day by [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^key-dfb65b3bc7bb6ca5a34a171cabcb4772]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^f00001]: Footnote: [OJ L 176, 27.6.2013, p. 338](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0338.01.ENG).
+
+[^f00002]: Footnote: Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 ([OJ L 176, 27.6.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0001.01.ENG)).
+
+[^f00003]: Footnote: Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC ([OJ L 331, 15.12.2010, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.331.01.0012.01.ENG)).
+
+[^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2019/912 of 28 May 2019 amending Implementing Regulation (EU) No 650/2014 laying down implementing technical standards with regard to the format, structure, contents list and annual publication date of the information to be disclosed by competent authorities in accordance with Directive 2013/36/EU of the European Parliament and of the Council (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/912).
+
+[^f00005]: Footnote: Hyperlink(s) to the website containing the national text transposing the Union provision in question.[^c000001]
+
+[^f00006]: Footnote: Detailed references to the national provisions, such as relevant Title, Chapter, paragraph etc.
+
+[^f00008]: Footnote: ‘ Y ’ (Yes) indicates that the competetent authority or Member State empowered to exercise the relevant option or discretion has exercised it.
+
+    ‘ N ’ (No) Indicates that the competetent authority or Member State empowered to exercise the relevant option or discretion has not exercised it.
+
+    ‘ NA ’ (Not applicable) indicates that the exercise of the option is not possible or the discretion does not exist.
+
+[^f00009]: Footnote: The text of the provision in the national legislation.
+
+[^f00010]: Footnote: Reference in the national legislation and hyperlink(s) to the website containing the national text transposing the Union provision in question.
+
+[^f00011]: Footnote: Competent authorities shall disclose the criteria and methodologies used in rows 020 to 040 and in row 050 for the overall assessment. The type of information that shall be disclosed in form of an explanatory note is described in the second column.
+
+[^f00012]: Footnote: The scope of SREP to be considered both at a level of an institution and in respect of its own resources.
+
+    A competent authority shall explain the approach used to classify institutions into different categories for SREP purposes, describing the use of quantitative and qualitative criteria, and how financial stability or other overall supervisory objectives are affected by such categorisation.
+
+    A competent authority shall also explain how categorisation is put in practice for the purposes of ensuring at least a minimum engagement in SREP assessments, including the description of the frequencies for the assessment of all SREP elements for different categories of institutions.
+
+[^f00013]: Footnote: Including working tools e.g. on-site inspections and off-site examinations, qualitative and quantitative criteria, statistical data used in the assessments. Hyperlinks to any guidance on the website are recommended.
+
+[^f00014]: Footnote: Competent authorities shall also explain how the assessment of ICAAP and ILAAP is covered by the minimum engagement models applied for proportionality purposes based on SREP categories as well as how proportionality is applied for the purposes of specifying supervisory expectations to ICAAP and ILAAP, and in particular, any guidelines or minimum requirements for the ICAAP and ILAAP the competent authorities have issued.
+
+[^f00015]: Footnote: The approach competent authorities apply to arrive to the overall SREP assessment and its communication to the institutions. The overall assessment by competent authorities is based on a review of all the elements referred to in row 020 to 040, along with any other relevant information about the institution that the competent authority may obtain.
+
+[^f00016]: Footnote: Competent authorities may also disclose the policies that guide their decisions for taking supervisory measures (within the meaning of Articles 102 and 104 of the CRD) and early intervention measures (within the meaning of Article 27 of the Bank Recovery and Resolution Directive (BRRD)) whenever their assessment of an institution identifies weaknesses or inadequacies that call for supervisory intervention. Such disclosures might include the publication of internal guidelines or other documents describing general supervisory practices. However, no disclosure is required regarding decisions on individual institutions, to respect the confidentiality principle.
+
+    Furthermore, competent authorities may provide information regarding the implications if an institution violates relevant legal provisions or does not comply with the supervisory or early intervention measures imposed based on the SREP outcomes, e.g. it shall list enforcement procedures that are in place (where applicable).
+
+[^f00028]: Footnote: The total assets figure shall be the total assets value of the country for the national competent authorities, only for rows 020 and 030, and for the ECB the total assets value of Significant Institutions for the whole SSM.
+
+[^f00029]: Footnote: GDP at market price; suggested source – Eurostat/ECB.
+
+[^f00030]: Footnote: EEA countries shall not be included.
+
+[^f00031]: Footnote: Number of branches as defined in point (1) of Article 4(1) of CRR. Any number of places of business set up in the same country by a credit institution with headquarters in a third country should be counted as a single branch.
+
+[^f00032]: Footnote: Number of subsidiaries as defined in point (16) of Article 4(1) of CRR. Any subsidiary of a subsidiary undertaking shall be regarded as a subsidiary of the parent undertaking, which is at the head of those undertakings.
+
+[^f00033]: Footnote: Ratio of Common Equity Tier 1 capital as defined in Article 50 of CRR to the own funds as defined in point (118) of Article 4(1) and Article 72 of CRR, expressed in percentage (%).
+
+[^f00034]: Footnote: Ratio of Additional Tier 1 Capital as defined in Article 61 of CRR to the own funds as defined in point (118) of Article 4(1) and Article 72 of CRR, expressed in percentage (%).
+
+[^f00035]: Footnote: Ratio of Tier 2 Capital as defined in Article 71 of CRR to the own funds as defined in point (118) of Article 4(1) and Article 72 of CRR, expressed in percentage (%).
+
+[^f00036]: Footnote: The 8 % of total risk exposure amount as defined in Articles 92(3), 95, 96 and 98 of CRR.
+
+[^f00037]: Footnote: The ratio of the own funds to the total risk exposure amount as defined in point (c) of Article 92(2) of CRR, expressed in percentage (%).
+
+[^f00038]: Footnote: Ratio of the own fund requirements for credit risk as defined in points (a) and (f) of Article 92(3) of CRR to the total own funds as defined in Articles 92(3), 95, 96 and 98 of CRR.
+
+[^f00039]: Footnote: If an institution uses more than one approach, it shall be counted in each of these approaches. Hence, the sum of the percentages reported for the three approaches may be higher than 100 %.
+
+[^f00040]: Footnote: In the exceptional cases, where an institution uses more than one approach, it shall be counted in each of these approaches. Hence, the sum of the percentages reported may be higher than 100 %.
+
+[^f00041]: Footnote: Ratio of the own fund requirements for credit risk as defined in points (a) and (f) of Article 92(3) of CRR to the total own funds as defined in Articles 92(3), 95, 96 and 98 of CRR.
+
+[^f00042]: Footnote: The percentage of the own fund requirements of investment firms that apply the SA and IRB approach respectively in relation to the total own fund requirements for credit risk as defined in points (a) and (f) of Article 92(3) of CRR.
+
+[^f00043]: Footnote: The amount of the estimated losses shall be reported at the reporting reference date.
+
+[^f00044]: Footnote: As defined in points (c) and (f) of Article 101(1) of CRR, respectively; the market value and mortgage lending value according to points (74) and (76) of Article 4 (1); only for the part of exposure treated as fully and completely secured according to Article 124 (1) of CRR;
+
+[^f00045]: Footnote: As defined in points (a) and (d) of Article 101(1) of CRR, respectively; the market value and mortgage lending value according to points (74) and (76) of Article 4 (1).
+
+[^f00046]: Footnote: When the value of the collateral has been calculated as mortgage lending value.
+
+[^f00047]: Footnote: As defined in points (b) and (e) of Article 101(1) of CRR, respectively; the market value and mortgage lending value according to points (74) and (76) of Article 4 (1).
+
+[^f00048]: Footnote: The template shall include information on all institutions and not only on those with market risk positions.
+
+[^f00049]: Footnote: Ratio of the total risk exposure amount for position, foreign exchange and commodities risks as defined in point (i) of point (b), points (i) and (iii) of point (c) of Articles 92(3) of CRR and point (b) of Article 92(4) of CRR to the total risk exposure amount as defined in Articles 92(3), 95, 96 and 98 of CRR (in %).
+
+[^f00050]: Footnote: If an institution uses more than one approach, it shall be counted in each of these approaches. Hence, the sum of the percentages reported may be higher than 100 %, but also lower than 100 % as entities with small trading portfolio are not obliged to determine market risk.
+
+[^f00051]: Footnote: Ratio of the total risk exposure amount for operational risk as defined in Article 92(3) of CRR to the total risk exposure amount as defined in Articles 92(3), 95, 96 and 98 of CRR (in %).
+
+[^f00052]: Footnote: If an institution uses more than one approach, it shall be counted in each of these approaches. Hence, the sum of the percentages reported may be higher than 100 %, but also lower than 100 % as some investment firms are not obliged to count operational risk capital charges.
+
+[^f00053]: Footnote: Only with respect to entities, which use AMA or TSA/ASA approach; ratio of the total loss amount for all business lines to the sum of the relevant indicator for banking activities subject to TSA/ASA and AMA for the last year (in %).
+
+[^f00055]: Footnote: Information shall be reported based on the date of decision.
+
+    Due to differences in national regulations as well as in supervisory practices and approaches across the competent authorities the figures provided in this table might not allow for a meaningful comparison between jurisdictions. Any conclusions without carefully considering these differences can be misleading.
+
+[^f00056]: Footnote: The administrative penalties imposed by competent authorities. Competent authorities shall report all administrative penalties against which there is no appeal available in their jurisdiction by the reference date of the disclosure. Competent authorities of Member States where it is permitted to publish administrative penalties subject to an appeal, shall also report those administrative penalties unless the appeal annulling the administrative penalty is issued.
+
+[^f00057]: Footnote: Competent authorities shall report Information on waiver practices based on the total number of waivers by the competent authority, which are still effective or in force. The information to be reported is limited to those entities granted a waiver. Where the information is not available, i.e. not part of the regular reporting, it shall be reported as ‘ N/A ’ .
+
+[^f00058]: Footnote: The number of institutions which have been granted the waiver shall be used as a basis for counting the waivers.

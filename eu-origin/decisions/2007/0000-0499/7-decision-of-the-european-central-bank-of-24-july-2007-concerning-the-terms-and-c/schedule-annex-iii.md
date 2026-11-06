@@ -1,0 +1,1071 @@
+---
+title: Decision of the European Central Bank of 24 July 2007 concerning the terms and conditions of TARGET2-ECB (ECB/2007/7) (2007/601/EC), ANNEX III
+act: Decision of the European Central Bank of 24 July 2007 concerning the terms and conditions of TARGET2-ECB (ECB/2007/7) (2007/601/EC)
+section: schedule-annex-iii
+status: revised
+text_date: '2019-11-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2007/7/schedule/annex-iii
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Decision of the European Central Bank of 24 July 2007 concerning the terms and conditions of TARGET2-ECB (ECB/2007/7) (2007/601/EC), ANNEX III
+
+> Text as at 2019-11-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## ANNEX III — TERMS AND CONDITIONS FOR THE OPENING AND OPERATION OF A TIPS DEDICATED CASH ACCOUNT (TIPS DCA) IN TARGET2-ECB[^c000016]
+
+*Extent: E+W+S+N.I.*
+
+### TITLE I — GENERAL PROVISIONS
+
+#### Article 1. Definitions
+
+For the purposes of these Terms and Conditions (hereinafter the ‘ Conditions ’ ), the following definitions apply:
+
+- ‘ancillary system’ means a system managed by an entity that is subject to supervision and/or oversight by a competent authority and complies with the oversight requirements for the location of infrastructures offering services in euro, as amended from time to time and published on the ECB's website [^f00024] , in which payments and/or financial instruments are exchanged and/or cleared or recorded with (a) the monetary obligations settled in TARGET2; and/or (b) funds held in TARGET2, in accordance with Guideline ECB/2012/27 [^f00025] and a bilateral arrangement between the ancillary system and the relevant Eurosystem CB,
+- ‘ authorised account user ’ means an entity which: (a) holds a Business Identifier Code (BIC); (b) is registered as such by a TIPS DCA holder; and (c) is addressable through the TIPS Platform for the settlement of instant payments,
+- ‘ Business Identifier Code (BIC) ’ means a code as defined by ISO Standard No 9362,
+- ‘ branch ’ means a branch within the meaning of point (17) of Article 4(1) of Regulation (EU) No 575/2013,
+- ‘ business day ’ or ‘ TARGET2 business day ’ means any day on which TARGET2 is open for the settlement of payment orders, as set out in Appendix III,
+- ‘ capacity opinion ’ means a participant-specific opinion that contains an assessment of a participant's legal capacity to enter into and carry out its obligations under these Conditions,
+- ‘ central banks (CBs) ’ means the Eurosystem CBs and the connected NCBs,
+- ‘ credit memorandum balance (CMB) ’ means a limit set by the TIPS DCA holder for the use of liquidity on the TIPS DCA by a specific reachable party,
+- ‘ connected NCB ’ means a national central bank (NCB), other than a Eurosystem CB, which is connected to TARGET2 pursuant to a specific agreement,
+- ‘ credit institution ’ means either: (a) a credit institution within the meaning of point (1) of Article 4(1) of Regulation (EU) No 575/2013 and Section 2(1) No 2 and Section 2(6) No 2 of the KWG that is subject to supervision by a competent authority; or (b) another credit institution within the meaning of Article 123(2) of the Treaty that is subject to scrutiny of a standard comparable to supervision by a competent authority,
+- ‘ deposit facility ’ means a Eurosystem standing facility which counterparties may use to make overnight deposits with an NCB at a pre-specified deposit rate,
+- ‘ deposit facility rate ’ means the interest rate applicable to the deposit facility,
+- ‘ TIPS Dedicated Cash Account (TIPS DCA) ’ means an account held by a TIPS DCA holder, opened in TARGET2-ECB, and used for the provision of instant payment services to its customers,
+- ‘ T2S Dedicated Cash Account (T2S DCA) ’ means an account held by a T2S DCA holder, opened in TARGET2-ECB, and used for cash payments in relation to securities settlement in T2S,
+- ‘ euro area NCB ’ means the NCB of a Member State whose currency is the euro,
+- ‘ Eurosystem CB ’ means the ECB or a euro area NCB,
+- ‘ event of default ’ means any impending or existing event, the occurrence of which may threaten the performance by a participant of its obligations under these Conditions or any other rules applying to the relationship between that participant and the ECB or any other CB, including:
+  - ((a)) where the participant no longer meets the access criteria laid down in Article 5 or the requirements laid down in Article 6(1)(a)(i) or Article 6(1)(b)(iii);
+  - ((b)) the opening of insolvency proceedings in relation to the participant;
+  - ((c)) the submission of an application relating to the proceedings referred to in point (b);
+  - ((d)) the issue by the participant of a written declaration of its inability to pay all or any part of its debts or to meet its obligations arising in relation to intraday credit;
+  - ((e)) the entry of the participant into a voluntary general agreement or arrangement with its creditors;
+  - ((f)) where the participant is, or is deemed by its CB to be, insolvent or unable to pay its debts;
+  - ((g)) where the participant's credit balance on its TIPS DCA, PM account, or T2S DCA, or all or a substantial part of the participant's assets are subject to a freezing order, attachment, seizure or any other procedure that is intended to protect the public interest or the rights of the participant's creditors;
+  - ((h)) where participation of the participant in another TARGET2 component system and/or in an ancillary system has been suspended or terminated;
+  - ((i)) where any material representation or pre-contractual statement made by the participant or which is implied to have been made by the participant under the applicable law is incorrect or untrue;
+  - ((j)) the assignment of all or a substantial part of the participant's assets,
+- ‘ Information and Control Module (ICM) ’ means the SSP module that allows TIPS DCA holders that also hold a Linked PM account to obtain online information and gives them the possibility to submit PM to TIPS DCA liquidity transfer orders and TIPS DCA to PM liquidity transfer orders, and to manage liquidity,
+- ‘ TIPS GUI ’ means the module on the TIPS Platform which allows TIPS DCA holders to obtain online information and gives them the possibility to submit TIPS DCA to PM liquidity transfer orders,
+- ‘ ICM broadcast message ’ means information made simultaneously available to all or a selected group of PM account holders via the ICM,
+- ‘ reachable party ’ means an entity which: (a) holds a BIC; (b) is designated as such by a TIPS DCA holder; (c) is a correspondent, customer or branch of a TIPS DCA holder; and (d) is addressable through the TIPS Platform and is able to submit payment orders and receive payment orders either via the TIPS DCA holder or, if so authorised by the TIPS DCA holder, directly,
+- ‘ instructing party ’ means an entity which has been designated as such by a TIPS DCA holder and which is allowed to send payment orders to the TIPS Platform and/or receive payment orders from the TIPS Platform on behalf of that TIPS DCA holder or a reachable party of that TIPS DCA holder,
+- ‘insolvency proceedings’ means insolvency proceedings within the meaning of Article 2(j) of Directive 98/26/EC of the European Parliament and of the Council [^f00026] ,
+- ‘ PM to TIPS DCA liquidity transfer order ’ means the instruction to transfer a specified amount of funds from a PM account to a TIPS DCA,
+- ‘ TIPS DCA to PM liquidity transfer order ’ means the instruction to transfer a specified amount of funds from a TIPS DCA to a PM account,
+- ‘ marginal lending facility ’ means a Eurosystem standing facility which counterparties may use to receive overnight credit from a Eurosystem CB at the pre-specified marginal lending rate,
+- ‘ Linked PM account ’ means the PM account with which a TIPS DCA is associated for the purpose of liquidity management and payment of TIPS fees,
+- ‘ TIPS network service provider ’ means an undertaking which has: (a) met all of the necessary conditions to connect to, and established a technical connection to, the TIPS Platform in accordance with the rules and procedures set out and referred to in Appendix V; and (b) signed the TIPS connectivity hosting terms and conditions which are available on the ECB's website,
+- ‘ participant ’ \[or ‘ direct participant ’ \] means an entity that holds at least one TIPS DCA (TIPS DCA holder) and/or one PM account (PM account holder) and/or one T2S DCA (T2S DCA holder) with a Eurosystem CB,
+- ‘ payee ’ , except where used in Article 30 of this Annex, means a TIPS DCA holder whose TIPS DCA will be credited as a result of a payment order being settled,
+- ‘ payer ’ , except where used in Article 30 of this Annex, means a TIPS DCA holder whose TIPS DCA will be debited as a result of a payment order being settled,
+- ‘ payment order ’ , except where used in Articles 16 to 18 of this Annex, means an instant payment order, a positive recall answer, a PM to TIPS DCA liquidity transfer order or a TIPS DCA to PM liquidity transfer order,
+- ‘ instant payment order ’ means, in line with the European Payments Council's SEPA Instant Credit Transfer (SCT Inst) scheme, a payment instruction which can be executed 24 hours a day any calendar day of the year, with immediate or close to immediate processing and notification to the payer,
+- ‘ recall request ’ means, in line with the SCT Inst scheme, a message from a TIPS DCA holder requesting reimbursement of a settled instant payment order,
+- ‘ positive recall answer ’ means, in line with the SCT Inst scheme, a payment order initiated by the receiver of a recall request, in response to a recall request, for the benefit of the sender of that recall request,
+- ‘ Single Shared Platform (SSP) ’ means the single technical platform infrastructure provided by the SSP-providing NCBs,
+- ‘ TIPS Platform ’ means the single technical platform infrastructure provided by the TIPS Platform-providing NCBs,
+- ‘ SSP-providing NCBs ’ means the Deutsche Bundesbank, the Banque de France and the Banca d'Italia in their capacity as the CBs building and operating the SSP for the Eurosystem's benefit,
+- ‘ TIPS Platform-providing NCBs ’ means the Deutsche Bundesbank, the Banco de España, the Banque de France and the Banca d'Italia in their capacity as the CBs building and operating the TIPS Platform for the Eurosystem's benefit,
+- ‘ TARGET Instant Payment Settlement (TIPS) service ’ means the settlement in central bank money of instant payment orders on the TIPS Platform,
+- ‘ static data collection form ’ means a form developed by the ECB for the purpose of registering applicant TIPS DCA holders for TARGET2-ECB services and registering any changes in relation to the provision of such services,
+- ‘ suspension ’ means the temporary freezing of the rights and obligations of a participant for a period of time to be determined by the ECB,
+- ‘ TARGET2-ECB ’ means the TARGET2 component system of the ECB,
+- ‘ TARGET2 ’ means the entirety resulting from all TARGET2 component systems of the CBs,
+- ‘ TARGET2 component system ’ means any of the CBs' real-time gross settlement (RTGS) systems that form part of TARGET2,
+- ‘ TARGET2 participant ’ means any participant in any TARGET2 component system,
+- ‘ technical malfunction of TARGET2 ’ means any difficulty, defect or failure in the technical infrastructure and/or the computer systems used by TARGET2-ECB, or any other event that makes it impossible to execute payments in TARGET2-ECB,
+- ‘ TIPS Distinguished Name (TIPS DN) ’ means the network address for the TIPS Platform which must be included in all messages intended for the system,
+- ‘ User Detailed Functional Specifications (UDFS) ’ means the most up-to-date version of the UDFS, which is the technical documentation that details how a TIPS DCA holder interacts with TARGET2.
+
+#### Article 2. Scope
+
+The present Conditions govern the relationship between the ECB and its TIPS DCA holder as far as the opening and the operation of the TIPS DCA is concerned.
+
+#### Article 3. Appendices
+
+1. The following Appendices form an integral part of these Conditions:
+
+- Appendix I: Parameters of the TIPS DCA — Technical specifications
+- Appendix II: Terms of reference for capacity and country opinions
+- Appendix III: Operating schedule
+- Appendix IV: Fee schedule
+- Appendix V: TIPS connectivity technical requirements
+
+2. In the event of any conflict or inconsistency between the content of any appendix and the content of any other provision in these Conditions, the latter shall prevail.
+
+#### Article 4. General description of TARGET2
+
+1. TARGET2 provides real-time gross settlement for payments in euro, with settlement in central bank money across PM accounts, T2S DCAs for the purpose of securities transactions and TIPS DCAs for the purpose of instant payments.
+
+2. The following transactions are processed in TARGET2-ECB:
+
+- (a) transactions directly resulting from or made in connection with Eurosystem monetary policy operations;
+- (b) settlement of the euro leg of foreign exchange operations involving the Eurosystem;
+- (c) settlement of euro transfers resulting from transactions in cross-border large-value netting systems;
+- (d) settlement of euro transfers resulting from transactions in euro retail payment systems of systemic importance;
+- (e) settlement of the cash leg of securities transactions;
+- (f) T2S DCA to T2S DCA liquidity transfer orders, T2S DCA to PM liquidity transfer orders and PM to T2S DCA liquidity transfer orders;
+- (g) instant payment orders;
+- (h) positive recall answers;
+- (i) TIPS DCA to PM liquidity transfer orders and PM to TIPS DCA liquidity transfer orders; and
+- (j) any other transactions in euro addressed to TARGET2 participants.
+
+3. TARGET2 provides real-time gross settlement for payments in euro, with settlement in central bank money across PM accounts, T2S DCAs and TIPS DCAs. TARGET2 is established and functions on the basis of the SSP through which payment orders are submitted and processed and through which payments are ultimately received in the same technical manner. As far as the technical operation of the TIPS DCAs is concerned, TARGET2 is technically established and functions on the basis of the TIPS Platform. As far as the technical operation of the T2S DCAs is concerned, TARGET2 is technically established and functions on the basis of the T2S Platform.
+
+4. The ECB is the provider of services under these Conditions. Acts and omissions of the TIPS Platform-providing NCBs shall be considered acts and omissions of ECB, for which it shall assume liability in accordance with Article 23 of this Annex. Participation pursuant to these Conditions shall not create a contractual relationship between TIPS DCA holders and the TIPS Platform-providing NCBs when any of the latter acts in that capacity. Instructions, messages or information which a TIPS DCA holder receives from, or sends to, the SSP or TIPS Platform in relation to the services provided under these Conditions are deemed to be received from, or sent to, the ECB.
+
+5. TARGET2 is legally structured as a multiplicity of payment systems composed of all the TARGET2 component systems, which are designated as ‘ systems ’ under the national laws implementing Directive 98/26/EC. TARGET2-ECB is designated as a ‘ system ’ under Section 1(16) of the KWG.
+
+6. Participation in TARGET2 takes effect via participation in a TARGET2 component system. These Conditions describe the mutual rights and obligations of TIPS DCA holders in TARGET2-ECB and the ECB. The rules on the processing of payment orders under these Conditions (Title IV and Appendix I) refer to all payment orders submitted or payments received by any TIPS DCA holder.
+
+### TITLE II — PARTICIPATION
+
+#### Article 5. Access criteria
+
+Entities managing ancillary systems (including entities established outside the EEA) and acting in that capacity, whose access to TARGET2-ECB has been approved by the Governing Council, shall be the only entities that are eligible to become TIPS DCA holders upon request in TARGET2-ECB.
+
+#### Article 6. Application procedure
+
+1. In order for ECB to open a TIPS DCA for an entity, such entity must comply with the access criteria of Article 5 and shall:
+
+- (a) fulfil the following technical requirements:
+  - ((i)) install, manage, operate and monitor and ensure the security of the necessary IT infrastructure to connect to the TIPS Platform and submit payment orders to it. In doing so, applicant TIPS DCA holders may involve third parties, but retain sole liability. In particular, applicant TIPS DCA holders shall enter into an agreement with one or more TIPS network service providers to obtain the necessary connection and admissions, in accordance with the technical specifications and requirements in Appendices I and V; and
+  - ((ii)) have passed the tests required by the ECB; and
+- (b) fulfil the following legal requirements:
+  - ((i)) provide a capacity opinion in the form specified in Appendix II, unless the information and representations to be provided in such capacity opinion have already been obtained by the ECB in another context;
+  - ((ii)) for entities established outside the EEA, provide a country opinion in the form specified in Appendix II, unless the information and representations to be provided in such country opinion have already been obtained by the ECB in another context; and
+  - ((iii)) have adhered to the SCT Inst scheme by signing the SEPA Instant Credit Transfer Adherence Agreement.
+
+2. Entities wishing to open a TIPS DCA shall apply in writing to the ECB, as a minimum enclosing the following documents/information:
+
+- (a) completed static data collection forms as provided by the ECB;
+- (b) the capacity opinion, if required by the ECB;
+- (c) the country opinion, if required by the ECB; and
+- (d) evidence of their adherence to the SCT Inst scheme.
+
+3. The ECB may also request any additional information it deems necessary to decide on the application to open a TIPS DCA.
+
+4. The ECB shall reject the application to open a TIPS DCA if:
+
+- (a) access criteria referred to in Article 5 are not met;
+- (b) one or more of the participation criteria referred to in paragraph 1 are not met; and/or
+- (c) in the ECB's assessment, opening a TIPS DCA would endanger the overall stability, soundness and safety of TARGET2-ECB or of any other TARGET2 component system, or would jeopardise the ECB's performance of its tasks as described in \[refer to relevant national law\] and the Statute of the European System of Central Banks and of the European Central Bank, or poses risks on the grounds of prudence.
+
+5. The ECB shall communicate its decision on the application to open a TIPS DCA to the applicant TIPS DCA holder within one month of the ECB's receipt thereof. Where the ECB requests additional information pursuant to paragraph 3, the decision shall be communicated within one month of the ECB's receipt of this information from the applicant TIPS DCA holder. Any rejection decision shall contain reasons for the rejection.
+
+#### Article 7. TIPS DCA holders
+
+1. TIPS DCA holders in TARGET2-ECB shall comply with the requirements set out in Article 6. They shall have at least one TIPS DCA with the ECB.
+
+2. In order to send messages to the TIPS Platform, TIPS DCA holders may access the TIPS Platform:
+
+- (a) directly, and/or
+- (b) using one or more instructing parties.
+
+For both of these methods of access, the TIPS DCA holder shall use one or more TIPS DNs.
+
+3. In order to receive messages from the TIPS Platform, TIPS DCA holders shall access the TIPS Platform:
+
+- (a) directly; or
+- (b) using one instructing party.
+
+For both of these methods of access, the TIPS DCA holder shall use one TIPS DN to receive instant payment orders.
+
+4. If the TIPS DCA holder chooses to interact with the TIPS Platform via an instructing party, as set out in paragraphs 2 and 3, messages received or sent via the instructing party are deemed to be received from or sent to the TIPS DCA holder. The TIPS DCA holder shall be bound by such actions, regardless of the content of, or any non-compliance with, the contractual or other arrangements between that TIPS DCA holder and any designated instructing party.
+
+#### Article 8. Reachable parties
+
+1. TIPS DCA holders may designate one or more reachable parties. Reachable parties must have adhered to the SCT Inst scheme and signed the SEPA Instant Credit Transfer Adherence Agreement.
+
+2. TIPS DCA holders shall provide evidence to the ECB of each designated reachable party's adherence to the SCT Inst scheme.
+
+3. A TIPS DCA holder shall inform the ECB if any designated reachable party no longer adheres to the SCT Inst scheme and shall, without undue delay, take steps to prevent the reachable party from accessing the TIPS DCA.
+
+4. The TIPS DCA holder may designate one or more instructing parties for its designated reachable parties.
+
+5. If a TIPS DCA holder designates one or more reachable parties and/or one or more instructing parties in accordance with paragraphs 1 or 4, respectively, messages received from these reachable parties or, if applicable, via these instructing parties are deemed to be received from the TIPS DCA Holder. Similarly, messages sent to these reachable parties or, if applicable, via these instructing parties are deemed to be sent to the TIPS DCA holder. The TIPS DCA holder shall be bound by such actions, regardless of the content of, or any non-compliance with, the contractual or other arrangements between that TIPS DCA holder and any of the entities referred to in paragraphs 1 and 4.
+
+#### Article 9. TIPS network service providers
+
+1. Participants shall use one or more TIPS network service providers to exchange messages with the TIPS Platform and shall enter into a separate agreement with such providers to that end.
+
+2. A list of TIPS network service providers, as amended from time to time, is available on the ECB's website. This list is provided for information purposes only. In the event that a TIPS network service provider is removed from the list of TIPS network service providers, the ECB shall inform the TIPS DCA holders using that network service provider accordingly.
+
+3. The ECB shall not be liable for any acts, errors or omissions of a TIPS network service provider (including its directors, staff and subcontractors) as provider of TIPS network services, or for any acts, errors or omissions of the TIPS network service provider selected by participants to gain access to the TIPS Platform. The ECB shall also not be liable for any loss or damages as a result of the TIPS network service provider ceasing to provide a connection to the TIPS platform, whether due to the TIPS network service providers' non-compliance with the connectivity requirements set out in and referred to in Appendix V or termination of the TIPS connectivity hosting terms and conditions or any other reason.
+
+#### Article 10. Sponsorship of network service providers
+
+1. If a TIPS DCA holder wishes to use the services of a network service provider which is not on the list of TIPS network service providers, as referred to in Article 9(2), the TIPS DCA holder may request the ECB to initiate the assessment of whether a network service provider may operate as a TIPS network service provider.
+
+2. A network service provider may operate as a TIPS network service provider provided that it successfully passed the assessment conducted in accordance with the rules and procedure set out in Appendix V and after having signed the TIPS connectivity hosting terms and conditions as published on the ECB's website and as amended from time to time.
+
+3. The ECB shall inform the TIPS DCA holder of the outcome of the assessment referred to in paragraphs 1 and 2 within 120 calendar days from the date of the receipt of the request. In the event of the rejection of the network service provider, the ECB shall inform the TIPS DCA holder of the reasons for the rejection.
+
+4. The requests referred to in paragraph 1 may be submitted to the ECB from 1 June 2019 .
+
+#### Article 11. TIPS directory
+
+1. The TIPS directory is the list of TIPS DCA holders and reachable parties.
+
+It shall be updated daily.
+
+2. TIPS DCA holders may only distribute the TIPS directory to their branches, their designated reachable parties and their instructing parties. Reachable parties may only distribute the TIPS directory to their branches.
+
+3. A specific BIC can only appear once in the TIPS directory.
+
+4. TIPS DCA holders acknowledge that the ECB and other CBs may publish their names and BICs. In addition, the ECB and other CBs may publish names and BICs of reachable parties designated by TIPS DCA holders and TIPS DCA holders shall ensure that reachable parties have agreed to such publication.
+
+### TITLE III — OBLIGATIONS OF THE PARTIES
+
+#### Article 12. Obligations of the ECB and the TIPS DCA holders
+
+1. The ECB shall open upon request of the TIPS DCA holder and operate one or more TIPS DCA(s) denominated in euro. Save where otherwise provided in these Conditions or required by law, the ECB shall use all reasonable means within its power to perform its obligations under these Conditions, without guaranteeing a result.
+
+2. Actions taken by reachable parties and instructing parties are deemed to be those of the TIPS DCA holder, including for the purposes of Directive 98/26/EC.
+
+3. The TIPS DCA holder shall register itself and its reachable parties as authorised account users for settlement purposes. For that purpose it shall only register its own BIC and/or that of a reachable party.
+
+4. The fees for TIPS DCA services are laid down in Appendix IV. The holder of the Linked PM account is liable for paying these fees.
+
+5. TIPS DCA holders shall ensure that at all times they are connected to the TIPS Platform via the TIPS DN used for the purpose of receiving messages under Article 7(3).
+
+6. TIPS DCA holders which have designated a reachable party shall ensure that at all times this reachable party is connected to the TIPS Platform via the TIPS DN used for the purpose of receiving messages under Article 8.
+
+7. The TIPS DCA holder represents and warrants to the ECB that the performance of its obligations under these Conditions does not breach any law, regulation or by-law applicable to it or any agreement by which it is bound.
+
+8. TIPS DCA holders shall ensure that the liquidity in the TIPS DCA is properly managed. This obligation shall include but is not limited to obtaining regular information on their liquidity position. The ECB shall provide a daily statement of accounts to any TIPS DCA holder that has opted for such service on the TIPS Platform. Daily statements are provided for each TARGET2 business day.
+
+9. It shall be incumbent upon TIPS DCA holders, in their own interest and under their separate agreement with their TIPS network service provider, to monitor that at all times their chosen TIPS network service provider continues to provide an active connection to the TIPS Platform and maintains its status of TIPS network service provider. This connection must be in compliance with the conditions laid out in the connectivity requirements set out and referred to in Appendix V.
+
+#### Article 13. Designation, suspension or termination of a Linked PM account
+
+1. The TIPS DCA holder shall designate a Linked PM account. The Linked PM account may be held in a TARGET2 component system other than TARGET2-ECB and may belong to a different legal entity from the TIPS DCA holder. A Linked PM account may be linked to a maximum of 10 TIPS DCAs.
+
+2. A PM account holder using internet-based access cannot be designated as a Linked PM account holder.
+
+3. If the holder of the Linked PM account and the holder of the TIPS DCA are different legal entities and the participation of that Linked PM account holder is suspended or terminated, the ECB and the TIPS DCA holder shall take all reasonable and practicable steps to mitigate any damage or loss. The TIPS DCA holder shall take all necessary steps to designate a new Linked PM account without undue delay which will then be liable for any outstanding invoices.
+
+4. The ECB shall not be liable for any losses incurred by the TIPS DCA holder as a consequence of the suspension or termination of the Linked PM account holder's participation.
+
+#### Article 14. Cooperation and information exchange
+
+1. In performing their obligations and exercising their rights under these Conditions, the ECB and TIPS DCA holders shall cooperate closely to ensure the stability, soundness and safety of TARGET2-ECB. They shall provide each other with any information or documents relevant for the performance of their respective obligations and the exercise of their respective rights under these Conditions, without prejudice to any banking secrecy obligations.
+
+2. The ECB shall establish and maintain a system support desk to assist TIPS DCA holders in relation to difficulties arising in connection with system operations.
+
+3. Up-to-date information on the operational status of the TIPS Platform and the SSP shall be available on the TARGET2 Information System (T2IS) and on the TIPS Information System on dedicated webpages on the ECB's website. The T2IS and the TIPS Information System may be used to obtain information on any event affecting the normal operation of the SSP and the TIPS Platform.
+
+4. The ECB may either communicate messages to TIPS DCA holders by means of ICM broadcast messages where they also hold a PM account, or otherwise by any other means.
+
+5. TIPS DCA holders are responsible for the timely update of existing static data collection forms and the submission of new static data collection forms to the ECB. TIPS DCA holders are responsible for verifying the accuracy of information relating to them that is entered into TARGET2-ECB by the ECB.
+
+6. TIPS DCA holders shall inform the ECB about any change in their legal capacity and relevant legislative changes affecting issues covered by the country opinion relating to them. TIPS DCA holders shall also inform the ECB if they no longer fulfill the requirements for adhering to the SCT Inst scheme.
+
+7. TIPS DCA holders shall inform the ECB of any new reachable party which they register and any changes related to such registered reachable parties.
+
+8.[^c000015] TIPS DCA holders shall immediately inform the ECB if an event of default occurs in relation to themselves or if they are subject to crisis prevention measures or crisis management measures within the meaning of Directive 2014/59/EU or any other equivalent applicable legislation.
+
+### TITLE IV — MANAGEMENT OF TIPS DCAs AND PROCESSING OF PAYMENT ORDERS
+
+#### Article 15. Opening and management of TIPS DCAs
+
+1. The ECB shall open and operate at least one TIPS DCA for each TIPS DCA holder. A TIPS DCA shall be identified by means of a unique account number of up to 34 characters which will be structured as follows.
+
+<table>
+<tbody>
+<tr><th></th><th>Name</th><th>Format</th><th>Content</th></tr>
+<tr><th rowspan="3">Part A</th><td>Account type</td><td>1 char. exactly</td><td>‘ I ’ for instant payment account</td></tr>
+<tr><td>Country code of the central bank</td><td>2 char. exactly</td><td>ISO country code<br>3166-1</td></tr>
+<tr><td>Currency code</td><td>3 char. exactly</td><td>EUR</td></tr>
+<tr><th>Part B</th><td>Account holder</td><td>11 char. exactly</td><td>BIC</td></tr>
+<tr><th>Part C</th><td>Sub-classification of the account</td><td>Up to 17 char.</td><td>Free text (alphanumeric) to be provided by the TIPS DCA holder</td></tr>
+</tbody>
+</table>
+
+2. No debit balance shall be allowed on TIPS DCAs.
+
+3. For the purpose of remuneration of overnight balances the TIPS DCA holder shall link its TIPS DCA with a PM account which it holds with ECB.
+
+4. TIPS DCAs shall either be remunerated at 0 % or the deposit facility rate, whichever is lower.
+
+#### Article 16. Types of payment orders in TIPS DCA
+
+The following are classified as payment orders for the purposes of the TIPS service:
+
+- ((a)) instant payment orders;
+- ((b)) positive recall answers; and
+- ((c)) TIPS DCA to PM liquidity transfer orders.
+
+#### Article 17. Acceptance and rejection of payment orders
+
+1. Payment orders within the meaning of Article 16 and submitted by TIPS DCA holders are deemed accepted by the ECB if:
+
+- (a) the payment message has been delivered to the TIPS Platform by the respective TIPS network service provider; and
+- (b) the payment message complies with the formatting rules and conditions of TARGET2-ECB and passes the double-entry check described in Appendix I.
+
+2. The ECB shall immediately reject any payment order that does not fulfil the conditions laid down in paragraph 1. The ECB shall inform the TIPS DCA holders of any rejection of a payment order, as specified in Appendix I. For the avoidance of doubt, if the payment order was submitted via an instructing party or by a reachable party on behalf of the TIPS DCA holder, the instructing or reachable party will receive the rejection.
+
+#### Article 18. Processing of payment orders on TIPS DCAs
+
+1. The TIPS Platform attaches its timestamp for the processing of payment orders in the sequence of their receipt.
+
+2. All payment orders submitted to the TARGET2-ECB shall be processed on a first in-first out basis without prioritisation or reordering.
+
+3. After an instant payment order has been accepted as set out in Article 17, the TARGET2-ECB shall check if sufficient funds are available on the payer's TIPS DCA.
+
+- (a) if sufficient funds are not available, the instant payment order shall be rejected;
+- (b) if sufficient funds are available, the corresponding amount shall be reserved while awaiting the payee's response. In the event of acceptance by the payee, the instant payment order shall be settled and the reservation shall be simultaneously lifted. In the event of rejection by the payee or the absence of a timely response, within the meaning of the SCT Inst scheme, the instant payment order shall be cancelled and the reservation shall be simultaneously lifted.
+
+4. Funds reserved in accordance with paragraph 3(b) shall not be available for the settlement of subsequent payment orders. For the purposes of Article 15(3) and (4), funds reserved shall count towards the remuneration of the overnight balance of the TIPS DCA holder.
+
+5. Without prejudice to paragraph 3(b), the TARGET2-ECB shall reject instant payment orders if the amount of the instant payment order exceeds any applicable CMB.
+
+6. After a TIPS DCA to PM liquidity transfer order has been accepted as set out in Article 17, the TARGET2-ECB shall check if sufficient funds are available on the payer's TIPS DCA. If sufficient funds are not available the liquidity transfer order shall be rejected. If sufficient funds are available the liquidity transfer order shall be settled immediately.
+
+7. After a positive recall answer has been accepted as set out in Article 17, TARGET2-ECB shall check if sufficient funds are available on the TIPS DCA to be debited. If sufficient funds are not available the positive recall answer shall be rejected. If sufficient funds are available the positive recall answer shall be settled immediately.
+
+8. Without prejudice to paragraph 7, TARGET2-ECB shall reject positive recall answers if the amount of the positive recall answer exceeds any applicable CMB.
+
+#### Article 19. Recall request
+
+1. A TIPS DCA holder may enter a recall request.
+
+2. The recall request shall be forwarded to the payee of the settled instant payment order which may answer positively with a positive recall answer, or negatively with a negative recall answer.
+
+#### Article 20. Moment of entry, moment of irrevocability
+
+1. For the purposes of the first sentence of Article 3(1) and Article 5 of Directive 98/26/EC and the third sentence of Section 116, Section 96(2), Section 82 and Section 340(3) of the German Insolvency Code ( *Insolvenzordnung* ) and the last sentence of Section 46(2) of the KWG:
+
+- (a) instant payment orders are deemed entered into TARGET2-ECB and irrevocable at the moment that the relevant funds on the TIPS DCA of the TIPS DCA holder are reserved;
+- (b) TIPS DCA to PM liquidity transfer orders and positive recall answers are deemed entered into TARGET2-ECB and irrevocable at the moment that the relevant TIPS DCA is debited.
+
+2. PM to TIPS DCA liquidity transfer orders are governed by the Harmonised Conditions for the opening and operation of a PM account in TARGET2 applicable to the TARGET2 component system from which they originate.
+
+### TITLE V — SECURITY REQUIREMENTS, BUSINESS CONTINUITY AND USER INTERFACE
+
+#### Article 21. Security requirements and business continuity
+
+1. TIPS DCA holders shall implement adequate security controls to protect their systems from unauthorised access and use. TIPS DCA holders shall be exclusively responsible for the adequate protection of the confidentiality, integrity and availability of their systems.
+
+2. TIPS DCA holders shall inform the ECB of any security-related incidents in their technical infrastructure and, where appropriate, security-related incidents that occur in the technical infrastructure of the third party providers. The ECB may request further information about the incident and, if necessary, request that the TIPS DCA holders take appropriate measures to prevent a recurrence of such an event.
+
+3. In the event that a TIPS DCA holder has a problem that prevents it from settling instant payment orders and positive recall answers in TARGET2-ECB, it shall be its responsibility to resolve the problem.
+
+4. In the event that a TIPS DCA holder unexpectedly submits an abnormally high number of messages, which threaten the stability of the TIPS Platform, and does not, upon request of the ECB, refrain from such behaviour without delay, the ECB may block from the TIPS Platform all further messages submitted by such TIPS DCA holder.
+
+5. The ECB may impose additional security requirements, in particular with regard to cybersecurity or the prevention of fraud, on all TIPS DCA holders.
+
+6.[^c000009] TIPS DCA holders using instructing parties in line with Article 7(2) or (3), or allowing access to their TIPS DCA as set out in Article 8(1), shall be deemed to have addressed the risk stemming from such use or access in accordance with the additional security requirements imposed upon them.
+
+#### Article 22. User interfaces
+
+1. The TIPS DCA holder, or the Linked PM account holder acting on its behalf, shall use either one or both of the following means to access that TIPS DCA:
+
+- (a) a direct connection to the TIPS Platform in either U2A or A2A modes; or
+- (b) the ICM liquidity management features for the TIPS service.
+
+2. A direct connection to the TIPS Platform allows TIPS DCA holders:
+
+- (a) to access information relating to their accounts and to manage CMBs;
+- (b) to initiate TIPS DCA to PM liquidity transfer orders; and
+- (c) to manage certain static data.
+
+3. The ICM liquidity management features for the TIPS service allows the holder of the Linked PM account:
+
+- (a) to access information relating to the balance of the TIPS DCAs;
+- (b) to manage liquidity and to initiate liquidity transfer orders to and from the TIPS DCAs.
+
+Further technical details relating to the user interfaces are contained in Appendix I.
+
+As regards the ICM, further technical details are contained in Appendix I to Annex II to Decision ECB/2007/7.
+
+### TITLE VI — LIABILITY REGIME AND EVIDENCE
+
+#### Article 23. Liability regime
+
+1. In performing their obligations pursuant to these Conditions, the ECB and the TIPS DCA holders shall be bound by a general duty of reasonable care in relation to each other.
+
+2. The ECB shall be liable to its TIPS DCA holders in cases of fraud (including but not limited to willful misconduct) or gross negligence, for any loss arising out of the operation of TARGET2-ECB. In cases of ordinary negligence, the ECB's liability shall be limited to the TIPS DCA holder's direct loss, i.e. the amount of the transaction in question and/or the loss of interest thereon, excluding any consequential loss.
+
+3. The ECB is not liable for any loss that results from any malfunction or failure in the technical infrastructure (including but not limited to the ECB's computer infrastructure, programmes, data, applications or networks), if such malfunction or failure arises in spite of the ECB having adopted those measures that are reasonably necessary to protect such infrastructure against malfunction or failure, and to resolve the consequences of such malfunction or failure.
+
+4. The ECB shall not be liable:
+
+- (a) to the extent that the loss is caused by the TIPS DCA holder; or
+- (b) if the loss arises out of external events beyond the ECB's reasonable control ( *force majeure* ).
+
+5. Notwithstanding Sections 675(u), 675(v), 675(x), 675(y), 675(z), 676(a), 676(c) of the German Civil Code *(Bürgerliches Gesetzbuch)* , paragraphs 1 to 4 shall apply to the extent that the ECB's liability can be excluded.
+
+6. The ECB and the TIPS DCA holders shall take all reasonable and practicable steps to mitigate any damage or loss referred to in this Article.
+
+7. In performing some or all of its obligations under these Conditions, the ECB may commission third parties in its own name, particularly telecommunications or other network providers or other entities, if this is necessary to meet the ECB's obligations or is standard market practice. The ECB's obligation shall be limited to the due selection and commissioning of any such third parties and the ECB's liability shall be limited accordingly. For the purposes of this paragraph, the SSP-providing NCBs and the TIPS Platform-providing NCBs shall not be considered as third parties.
+
+#### Article 24. Evidence
+
+1. Unless otherwise provided in these Conditions, all payment and payment processing-related messages in relation to TIPS DCAs, such as confirmations of debits or credits, or statement messages, between the ECB and TIPS DCA holders shall be made through the TIPS network service provider.
+
+2. Electronic or written records of the messages retained by the ECB or by the TIPS network service provider shall be accepted as a means of evidence of the payments processed through the ECB. The saved or printed version of the original message of the TIPS network service provider shall be accepted as a means of evidence, regardless of the form of the original message.
+
+3. The ECB shall keep complete records of payment orders submitted and payments received by TIPS DCA holders for a period of 10 years from the time at which such payment orders are submitted and payments are received, provided that such complete records shall cover a minimum of five years for any TIPS DCA holder in TARGET2 that is subject to continuous vigilance pursuant to restrictive measures adopted by the Council of the European Union or Member States, or more if required by specific regulations.
+
+4. The ECB's own books and records (whether kept on paper, microfilm, microfiche, by electronic or magnetic recording, in any other mechanically reproducible form or otherwise) shall be accepted as a means of evidence of any obligations of the TIPS DCA holders and of any facts and events that the parties rely on.
+
+### TITLE VII — TERMINATION AND CLOSURE OF TIPS DCAs
+
+#### Article 25. Duration and ordinary termination of TIPS DCAs
+
+1. Without prejudice to Article 26, a TIPS DCA in TARGET2-ECB is opened for an indefinite period of time.
+
+2. A TIPS DCA holder may terminate its TIPS DCA in TARGET2-ECB at any time giving 14 business days' notice thereof, unless it agrees a shorter notice period with the ECB.
+
+3. The ECB may terminate a TIPS DCA holder's TIPS DCA in TARGET2-ECB at any time giving three months' notice thereof, unless it agrees a different notice period with that TIPS DCA holder.
+
+4. On termination of the TIPS DCA, the confidentiality duties laid down in Article 29 remain in force for a period of five years starting on the date of termination.
+
+5. On termination of the TIPS DCA, it shall be closed in accordance with Article 27.
+
+#### Article 26. Suspension and extraordinary termination of participation
+
+1. A TIPS DCA holder's participation in TARGET2-ECB shall be immediately terminated without prior notice or suspended if one of the following events of default occurs:
+
+- (a) the opening of insolvency proceedings; and/or
+- (b) the TIPS DCA holder no longer meets the access criteria laid down in Article 5.
+
+For the purposes of this paragraph, the taking of crisis prevention measures or crisis management measures within the meaning of Directive 2014/59/EU of the European Parliament and of the Council [^f00027] against a TIPS DCA holder shall not automatically qualify as the opening of insolvency proceedings.
+
+2. The ECB may terminate without prior notice or suspend the TIPS DCA holder's participation in TARGET2-ECB if:
+
+- (a) one or more events of default (other than those referred to in paragraph 1) occur;
+- (b) the TIPS DCA holder is in material breach of these Conditions;
+- (c) the TIPS DCA holder fails to carry out any material obligation to the ECB;
+- (d) the TIPS DCA holder no longer has a valid agreement with a TIPS network service provider to obtain the necessary connection to the TIPS Platform;
+- (e) any other TIPS DCA holder-related event occurs which, in the ECB's assessment, would threaten the overall stability, soundness and safety of TARGET2-ECB or of any other TARGET2 component system, or which would jeopardise the ECB's performance of its tasks as described in the Statute of the European System of Central Banks and of the European Central Bank, or poses risks on the grounds of prudence.
+
+3. In exercising its discretion under paragraph 2, the ECB shall take into account, inter alia, the seriousness of the event of default or events mentioned in points 2(a) to (c).
+
+4. In the event that the ECB suspends or terminates a TIPS DCA holder’s participation in TARGET2-ECB under paragraph 1 or 2, the ECB shall immediately inform, by means of a ICM broadcast message, other CBs and PM account holders in all of the TARGET2 component systems of such suspension or termination. Such message shall be deemed to have been issued by the home CB of the PM account holder that received the message.
+
+Linked PM account holders shall have the responsibility to inform their Linked TIPS DCA holders of the suspension or termination of any TIPS DCA holder’s participation in TARGET2-ECB.
+
+In the event that the suspension or termination of a TIPS DCA holder’s participation in TARGET2-ECB occurs during the technical maintenance window, the ICM broadcast message shall be sent after the start of daytime processing on the next TARGET2 business day.
+
+5. Upon termination of a TIPS DCA holder's participation, TARGET2-ECB shall not accept any new payment orders to or from that TIPS DCA holder.
+
+6. If a TIPS DCA holder is suspended from TARGET2-ECB on grounds other than those specified in paragraph (1)(a), the suspended TIPS DCA holder's CB shall either:
+
+- (a) reject all of its incoming payment orders;
+- (b) reject all of its outgoing payment orders; or
+- (c) reject both its incoming and outgoing payment orders.
+
+7. If a TIPS DCA holder is suspended from TARGET2-ECB on the grounds specified in paragraph (1)(a), the suspended TIPS DCA holder's CB shall reject all incoming and outgoing payment orders.
+
+8. The ECB shall process instant payment orders of a TIPS DCA holder whose participation in TARGET2-ECB has been suspended or terminated under paragraph 1 or 2 and in relation to which the ECB has reserved funds on a TIPS DCA pursuant to Article 18(3)(b) prior to the suspension or termination.
+
+#### Article 27. Closure of TIPS DCAs
+
+1. TIPS DCA holders may request the ECB to close their TIPS DCAs at any time provided they give the ECB 14 business days' notice thereof.
+
+2. On termination of participation, pursuant to either Article 25 or 26, the ECB shall close the TIPS DCAs of the TIPS DCA holders concerned, after having:
+
+- (a) settled any instant payment order accepted by the payee for which funds have already been reserved; and
+- (b) made use of its rights of pledge and set-off under Article 28.
+
+### TITLE VIII — FINAL PROVISIONS
+
+#### Article 28. The ECB's rights of pledge and set-off
+
+1. The ECB shall have a pledge over the TIPS DCA holder's existing and future credit balances on its TIPS DCAs, thereby collateralising any current and future claims arising out of the legal relationship between the parties.
+
+2. On the occurrence of:
+
+- (a) an event of default, referred to in Article 26(1); or
+- (b) any other event of default or event referred to in Article 26(2) that has led to the termination or suspension of the TIPS DCA holder's participation, notwithstanding the commencement of any insolvency proceedings in respect of a TIPS DCA holder and notwithstanding any assignment, judicial or other attachment or other disposition of or in respect of the TIPS DCA holder's rights;
+
+all obligations of the TIPS DCA holder shall be automatically and immediately accelerated, without prior notice and without the need for any prior approval of any authority, so as to be immediately due. In addition, the mutual obligations of the TIPS DCA holder and the ECB shall automatically be set off against each other, and the party owing the higher amount shall pay to the other the difference.
+
+3. The ECB shall promptly give the TIPS DCA holder notice of any set-off pursuant to paragraph 2 after such set-off has taken place.
+
+4. The ECB may without prior notice debit any TIPS DCA holder's TIPS DCA by any amount which the TIPS DCA holder owes the ECB resulting from the legal relationship between the TIPS DCA holder and the ECB.
+
+#### Article 29. Confidentiality
+
+1. The ECB shall keep confidential all sensitive or secret information, including when such information relates to payment, technical or organisational information belonging to the TIPS DCA holder, TIPS DCA holders from the same group or the TIPS DCA holder's customers, unless the TIPS DCA holder or a TIPS DCA holder's customer has given its written consent to disclose.
+
+2. By derogation from paragraph 1, the TIPS DCA holder agrees that information on any action taken under Article 26 shall not be considered as confidential.
+
+3. By derogation from paragraph 1, the TIPS DCA holder agrees that the ECB may disclose payment, technical or organisational information regarding the TIPS DCA holder, other TIPS DCAs held by TIPS DCA holders from the same group or the TIPS DCA holder's customers obtained in the course of the operation of TARGET2-ECB to:
+
+- (a) other CBs or third parties that are involved in the operation of TARGET2-ECB, to the extent that this is necessary for the efficient functioning of TARGET2 or the monitoring of the TIPS DCA holder's or its group's exposure;
+- (b) other CBs in order to carry out the analysis necessary for market operations, monetary policy functions, financial stability or financial integration; or
+- (c) supervisory, resolution and oversight authorities of Member States and the Union, including CBs, to the extent that this is necessary for the performance of their public tasks, and provided in all such cases that the disclosure is not in conflict with the applicable law.
+
+The ECB shall not be liable for the financial and commercial consequences of such disclosure.
+
+4. By derogation from paragraph 1 and provided that this does not make it possible, whether directly or indirectly, to identify the TIPS DCA holder or the TIPS DCA holder's customers, the ECB may use, disclose or publish payment information regarding the TIPS DCA holder or the TIPS DCA holder's customers for statistical, historical, scientific or other purposes in the exercise of its public functions or of functions of other public entities to which the information is disclosed.
+
+5. Information relating to the operation of TARGET2-ECB to which TIPS DCA holders have had access, may only be used for the purposes laid down in these Conditions. TIPS DCA holders shall keep such information confidential, unless the ECB has explicitly given its written consent to disclose. TIPS DCA holders shall ensure that any third parties to whom they outsource, delegate or subcontract tasks which have or may have an impact on the performance of their obligations under these Conditions are bound by the confidentiality requirements in this Article.
+
+6. The ECB shall be authorised, in order to settle payment orders, to process and transfer the necessary data to any TIPS network service provider.
+
+#### Article 30. Data protection, prevention of money laundering, administrative or restrictive measures and related issues
+
+1. TIPS DCA holders shall be deemed to be aware of, and shall comply with, all obligations on them relating to legislation on data protection, prevention of money laundering and the financing of terrorism, proliferation-sensitive nuclear activities and the development of nuclear weapons delivery systems, in particular in terms of implementing appropriate measures concerning any payments debited or credited on their TIPS DCAs. TIPS DCA holders shall also acquaint themselves with their chosen TIPS network service provider's data retrieval policy prior to entering into a contractual relationship with that TIPS network service provider.
+
+2. TIPS DCA holders shall be deemed to have authorised the ECB to obtain any information relating to them from any financial or supervisory authority or trade body, whether national or foreign, if such information is necessary for the TIPS DCA holders' participation in TARGET2-ECB.
+
+3. TIPS DCA holders, when acting as the payment service provider of a payer or payee, shall comply with all requirements resulting from administrative or restrictive measures imposed pursuant to Articles 75 or 215 of the Treaty to which they are subject, including with respect to notification and/or the obtaining of consent from a competent authority in relation to the processing of transactions. In addition:
+
+- (a) when the ECB is the payment service provider of a TIPS DCA holder that is a payer:
+  - ((i)) the TIPS DCA holder shall make the required notification or obtain consent on behalf of the central bank that is primarily required to make notification or obtain consent, and shall provide the ECB with evidence of having made a notification or having received consent;
+  - ((ii)) the TIPS DCA holder shall not enter any payment order into TARGET2 with the exception of payment orders concerning the transfer of liquidity between different accounts of the same TIPS DCA holder, until it has obtained confirmation from the ECB that the required notification has been made or the consent has been obtained by or on behalf of the payment service provider of the payee;
+- (b) when the ECB is a payment service provider of a TIPS DCA holder that is a payee, the TIPS DCA holder shall make the required notification or obtain consent on behalf of the central bank that is primarily required to make notification or obtain consent, and shall provide the ECB with evidence of having made a notification or having received consent.
+
+For the purposes of this paragraph, the terms ‘ payment service provider ’ , ‘ payer ’ and ‘ payee ’ shall have the meanings ascribed to them in the applicable administrative or restrictive measures.
+
+#### Article 31. Notices
+
+1. Except where otherwise provided for in these Conditions, all notices required or permitted pursuant to these Conditions shall be sent by registered post, facsimile or otherwise in writing. Notices to the ECB shall be submitted to the European Central Bank, Director-General of the ECB's Directorate-General Payment Systems and Market Infrastructure, Sonnemannstrasse 22, 60314 Frankfurt am Main, Germany or to the BIC address of the ECB: ECBFDEFF. Notices to the TIPS DCA holder shall be sent to it at the address, fax number or its BIC address as the TIPS DCA holder may from time to time notify to the ECB.
+
+2. To prove that a notice has been sent, it shall be sufficient to prove that the notice was delivered to the relevant address or that the envelope containing such notice was properly addressed and posted.
+
+3. All notices shall be given in English.
+
+4. TIPS DCA holders shall be bound by all forms and documents of the ECB that the TIPS DCA holders have filled in and/or signed, including but not limited to static data collection forms, as referred to in Article 6(2)(a), and information provided under Article 14(5), which were submitted in compliance with paragraphs 1 and 2 and which the ECB reasonably believes to have received from the TIPS DCA holders, their employees or agents.
+
+#### Article 32. Amendment procedure
+
+The ECB may at any time unilaterally amend these Conditions, including the Appendices. Amendments to these Conditions, including the Appendices, shall be announced by means of communication in writing to the participants. Amendments shall be deemed to have been accepted unless the TIPS DCA holder expressly objects within 14 days of being informed of such amendments. In the event that a TIPS DCA holder objects to the amendment, the ECB is entitled immediately to terminate and close that TIPS DCA holder's TIPS DCA in TARGET2-ECB.
+
+#### Article 33. Third party rights
+
+1. Any rights, interests, obligations, responsibilities and claims arising from or relating to these Conditions shall not be transferred, pledged or assigned by TIPS DCA holders to any third party without the ECB's written consent.
+
+2. These Conditions do not create any rights in favour of or obligations in relation to any entity other than the ECB and TIPS DCA holders in TARGET2-ECB.
+
+#### Article 34. Governing law, jurisdiction and place of performance
+
+1. The bilateral relationship between the ECB and TIPS DCA holders in TARGET2-ECB shall be governed by German law.
+
+2. Without prejudice to the competence of the Court of Justice of the European Union, any dispute arising from a matter relating to the relationship referred to in paragraph 1 falls under the exclusive competence of the competent courts of Frankfurt am Main.
+
+3. The place of performance concerning the legal relationship between the ECB and the TIPS DCA holders shall be Frankfurt am Main, Germany.
+
+#### Article 35. Severability
+
+If any provision in these Conditions is or becomes invalid, this shall not prejudice the applicability of all the other provisions of these Conditions.
+
+#### Article 36. Entry into force and binding nature
+
+1. These Conditions become effective from 30 November 2018 .
+
+2. By requesting a TIPS DCA in TARGET2-ECB, applicant TIPS DCA holders automatically agree to these Conditions between themselves and in relation to the ECB.
+
+Appendix I
+
+**PARAMETERS OF THE TIPS DCAs — TECHNICAL SPECIFICATIONS**
+
+In addition to the Conditions, the following rules shall apply to the interaction with the TIPS Platform:
+
+1\.
+
+**Technical requirements for participation in TARGET2-ECB regarding infrastructure, network and formats**
+
+- ((1)) A TIPS DCA holder shall use the services of at least one TIPS network service provider for the exchange of messages.
+- ((2)) A TIPS DCA holder shall specify a TIPS DN to receive messages relevant for the TIPS DCA holder, such as in relation to reports, and floor/ceiling notifications. This may be different from the TIPS DN used for the exchange of instant payments orders.
+- ((3)) Each TIPS DCA holder shall pass a series of tests to prove its technical and operational competence before it may participate in TARGET2-ECB.
+- ((4)) For the submission of TIPS DCA to PM liquidity transfer orders the services of a TIPS network service provider or the ICM shall be used. Liquidity transfer orders shall include, inter alia, the unique account number of up to 34 characters of the sending TIPS DCA holder and the BIC of the receiving PM account.
+- ((5)) For the exchange of information with the TIPS Platform either A2A or U2A modes may be used. The security of the message exchange between the TIPS DCA and the TIPS Platform shall rely on the Public Key Infrastructure (PKI) service offered by the TIPS network service provider used. Information on the PKI service is available in the documentation provided by such TIPS network service provider.
+- ((6)) For the exchange of information with the Common Reference Data Management component U2A mode shall be used. The Common Reference Data Management component allows users to configure, create and maintain reference data needed in TIPS service.
+- ((7)) TIPS DCA holders shall comply with the ISO20022 message structure and field specifications. Message structure and field specifications are described in Chapter 3.3.2 of the TIPS UDFS.
+- ((8)) Field contents shall be validated at the level of the TIPS Platform in accordance with the TIPS UDFS requirements.
+
+2\.
+
+**Message types**
+
+The following system message types are processed, subject to subscription:
+
+| Message Type | Message Name |
+| --- | --- |
+| Pacs.002 | FIToFIPayment Status Report |
+| Pacs.004 | PaymentReturn |
+| Pacs.008 | FIToFICustomerCreditTransfer |
+| Pacs.028 | FIToFIPaymentStatusRequest |
+| camt.003 | GetAccount |
+| camt.004 | ReturnAccount |
+| camt.011 | ModifyLimit |
+| camt.019 | ReturnBusinessDayInformation |
+| camt.025 | Receipt |
+| camt.029 | ResolutionOfInvestigation |
+| camt.050 | LiquidityCreditTransfer |
+| camt.052 | BankToCustomerAccountReport |
+| camt.053 | BankToCustomerStatement |
+| camt.054 | BankToCustomerDebitCreditNotification |
+| camt.056 | FIToFIPaymentCancellationRequest |
+| acmt.010 | AccountRequestAcknowledgement |
+| acmt.011 | AccountRequestRejection |
+| acmt.015 | AccountExcludedMandateMaintenanceRequest |
+| reda.016 | PartyStatusAdviceV01 |
+| reda.022 | PartyModificationRequestV01 |
+
+3\.
+
+**Double-entry check**
+
+All payment orders shall pass a double-entry check, the aim of which is to reject payment orders that have been submitted more than once.
+
+4\.
+
+**Error codes**
+
+If an instant payment order or a positive recall answer is rejected for any reason, the TIPS DCA holder shall receive a payment status report \[pacs.002\], as described in Chapter 4.2 of the TIPS UDFS. If a liquidity transfer order is rejected for any reason, the TIPS DCA holder shall receive a rejection \[camt.025\], as described in Chapter 1.6 of the TIPS UDFS.
+
+5\.
+
+**Settlement of liquidity transfer orders**
+
+Liquidity transfer orders are not recycled, queued or offset. The different statuses for liquidity transfer orders are described in Chapter 1.4.2 of the TIPS UDFS.
+
+6\.
+
+**Use of the U2A and A2A mode**
+
+- ((1)) The U2A and A2A modes may be used for obtaining information and managing liquidity. The TIPS network service providers' networks shall be the underlying technical communications networks for exchanging information and running control measures. The following modes shall be available for use by TIPS DCA holders:
+  - ((a)) Application-to-application mode (A2A)
+
+    In A2A, information and messages are transferred between the TIPS Platform and the TIPS DCA holder's internal application. The TIPS DCA holder therefore has to ensure that an appropriate application is available for the exchange of XML messages (requests and responses).
+  - ((b)) User-to-application mode (U2A)
+
+    U2A permits direct communication between a TIPS DCA holder and the TIPS GUI. The information is displayed in a browser running on a PC system. For U2A access the IT infrastructure has to be able to support cookies and JavaScript. Further details are described in the TIPS User Handbook.
+- ((2)) The ‘ Non-Repudiation of Origin ’ (NRO) signature allows the recipient of a message to prove that such message has been issued and has not been altered.
+- ((3)) If a TIPS DCA holder has technical problems and is unable to submit a TIPS DCA to PM liquidity transfer order, it may contact its central bank which will on a best efforts basis act on behalf of the TIPS DCA holder.
+
+7\.
+
+**Relevant documentation**
+
+Further details and examples explaining the above rules are contained in the User Handbooks and UDFS as relevant for TIPS, as amended from time to time and published on the ECB's website in English.
+
+Appendix II
+
+**TERMS OF REFERENCE FOR CAPACITY AND COUNTRY OPINIONS**
+
+TERMS OF REFERENCE FOR CAPACITY OPINIONS FOR TIPS DCA HOLDERS IN TARGET2
+
+The European Central Bank
+
+Director-General of the ECB's Directorate-General Payment Systems and Market Infrastructure
+
+Sonnemannstrasse 22
+
+60314 Frankfurt am Main
+
+Germany
+
+*Participation in the TARGET2-ECB*
+
+\[location\]
+
+\[date\]
+
+Dear Sir or Madam,
+
+We have been asked to provide this Opinion as \[in-house or external\] legal advisers to \[specify name of TIPS DCA holder or branch of TIPS DCA holder\] in respect of issues arising under the laws of \[jurisdiction in which the TIPS DCA holder is established; hereinafter the ‘ jurisdiction ’ \] in connection with the participation of \[specify name of TIPS DCA holder\] (hereinafter the ‘ TIPS DCA holder ’ ) in the TARGET2-ECB (hereinafter the ‘ System ’ ).
+
+This Opinion is confined to the laws of \[jurisdiction\] as they exist as on the date of this Opinion. We have made no investigation of the laws of any other jurisdiction as a basis for this Opinion, and do not express or imply any opinion in this regard. Each of the statements and opinions presented below applies with equal accuracy and validity under the laws of \[jurisdiction\], whether or not the TIPS DCA holder acts through its head office or one or more branches established inside or outside of \[jurisdiction\] in submitting payment orders and receiving payments.
+
+I.
+
+**Documents examined**
+
+For the purposes of this Opinion, we have examined:
+
+- ((1)) a certified copy of the \[specify relevant constitutional documents\] of the TIPS DCA holder such as is/are in effect on the date hereof;
+- ((2)) \[if applicable\] an extract from the \[specify relevant company register\] and \[if applicable\] \[register of credit institutions or analogous register\];
+- ((3)) \[to the extent applicable\] a copy of the TIPS DCA holder's licence or other proof of authorisation to provide banking, investment, funds transfer or other financial services in \[jurisdiction\];
+- ((4)) \[if applicable\] a copy of a resolution adopted by the board of directors or the relevant governing body of the TIPS DCA holder on \[insert date\], \[insert year\], evidencing the TIPS DCA holder's agreement to adhere to the System Documents, as defined below; and
+- ((5)) \[specify all powers of attorney and other documents constituting or evidencing the requisite power of the person or persons signing the relevant System Documents (as defined below) on behalf of the TIPS DCA holder\];
+
+and all other documents relating to the TIPS DCA holder's constitution, powers, and authorisations necessary or appropriate for the provision of this Opinion (hereinafter the ‘ TIPS DCA holder's Documents ’ ).
+
+For the purposes of this Opinion, we have also examined:
+
+- ((1)) the Terms and Conditions for the Opening and Operation of a TIPS Dedicated Cash Account (TIPS DCA) in TARGET2-ECB dated \[insert date\] (hereinafter the ‘ Rules ’ ); and
+- ((2)) \[…\].
+
+The Rules and the \[…\] shall be referred to hereinafter as the ‘ System Documents ’ (and collectively with the TIPS DCA holder's Documents as the ‘ Documents ’ ).
+
+II.
+
+**Assumptions**
+
+For the purposes of this Opinion we have assumed in relation to the Documents that:
+
+- ((1)) the System Documents with which we have been provided are originals or true copies;
+- ((2)) the terms of the System Documents and the rights and obligations created by them are valid and legally binding under the laws of the Federal Republic of Germany by which they are expressed to be governed, and the choice of the laws of the Federal Republic of Germany to govern the System Documents is recognised by the laws of the Federal Republic of Germany;
+- ((3)) the TIPS DCA holder's Documents are within the capacity and power of and have been validly authorised, adopted or executed and, where necessary, delivered by the relevant parties; and
+- ((4)) the TIPS DCA holder's Documents are binding on the parties to which they are addressed, and there has been no breach of any of their terms.
+
+III.
+
+**Opinions regarding the TIPS DCA holder**
+
+- A.. The TIPS DCA holder is a corporation duly established and registered or otherwise duly incorporated or organised under the laws of \[jurisdiction\].
+- B.. The TIPS DCA holder has all the requisite corporate powers to execute and perform the rights and obligations under the System Documents to which it is party.
+- C.. The adoption or execution and the performance by the TIPS DCA holder of the rights and obligations under the System Documents to which the TIPS DCA holder is party will not in any way breach any provision of the laws or regulations of \[jurisdiction\] applicable to the TIPS DCA holder or the TIPS DCA holder Documents.
+- D.. No additional authorisations, approvals, consents, filings, registrations, notarisations or other certifications of or with any court or governmental, judicial or public authority that is competent in \[jurisdiction\] are required by the TIPS DCA holder in connection with the adoption, validity or enforceability of any of the System Documents or the execution or performance of the rights and obligations thereunder.
+- E.. The TIPS DCA holder has taken all necessary corporate action and other steps necessary under the laws of \[jurisdiction\] to ensure that its obligations under the System Documents are legal, valid and binding.
+
+This Opinion is stated as of its date and is addressed solely to the ECB and the \[TIPS DCA holder\]. No other persons may rely on this Opinion, and the contents of this Opinion may not be disclosed to persons other than its intended recipients and their legal counsel without our prior written consent, with the exception of the national central banks of the European System of Central Banks \[and \[the national central bank/relevant regulatory authorities\] of \[jurisdiction\]\].
+
+Yours faithfully,
+
+\[signature\]
+
+TERMS OF REFERENCE FOR COUNTRY OPINIONS FOR NON-EEA TIPS DCA HOLDERS IN TARGET2
+
+The European Central Bank
+
+Director-General of the ECB's Directorate-General Payment Systems and Market Infrastructure
+
+Sonnemannstrasse 22
+
+60314 Frankfurt am Main
+
+Germany
+
+Participation in TARGET2-ECB
+
+\[location\],
+
+\[date\]
+
+Dear Sir or Madam,
+
+We have been asked as \[external\] legal advisers to \[specify name of TIPS DCA holder or branch of TIPS DCA holder\] (the ‘ TIPS DCA holder ’ ) in respect of issues arising under the laws of \[jurisdiction in which the TIPS DCA holder is established; hereinafter the ‘ jurisdiction ’ \] to provide this Opinion under the laws of \[jurisdiction\] in connection with the participation of the TIPS DCA holder in a system which is a component of TARGET2 (hereinafter the ‘ System ’ ). References herein to the laws of \[jurisdiction\] include all applicable regulations of \[jurisdiction\]. We express an opinion herein under the law of \[jurisdiction\], with particular regard to the TIPS DCA holder established outside the Federal Republic of Germany in relation to rights and obligations arising from participation in the System, as presented in the System Documents defined below.
+
+This Opinion is confined to the laws of \[jurisdiction\] as they exist on the date of this Opinion. We have made no investigation of the laws of any other jurisdiction as a basis for this Opinion, and do not express or imply any opinion in this regard. We have assumed that there is nothing in the laws of another jurisdiction which affects this Opinion.
+
+1\.
+
+**Documents examined**
+
+For the purposes of this Opinion, we have examined the documents listed below and such other documents as we have deemed necessary or appropriate:
+
+- ((1)) the Terms and Conditions for the Opening and Operation of a TIPS Dedicated Cash Account (TIPS DCA) in TARGET2-ECB dated \[insert date\] (hereinafter the ‘ Rules ’ ); and
+- ((2)) any other document governing the System and/or the relationship between the TIPS DCA holder and other participants in the System, and between the participants in the System and the ECB.
+
+The Rules and the \[.\] shall be referred to hereinafter as the ‘ System Documents ’ .
+
+2\.
+
+**Assumptions**
+
+For the purposes of this Opinion we have assumed in relation to the System Documents that:
+
+- ((1)) the System Documents are within the capacity and power of and have been validly authorised, adopted or executed and, where necessary, delivered by the relevant parties;
+- ((2)) the terms of the System Documents and the rights and obligations created by them are valid and legally binding under the laws of the Federal Republic of Germany, by which they are expressed to be governed, and the choice of the laws of the Federal Republic of Germany to govern the System Documents is recognised by the laws of the Federal Republic of Germany;
+- ((3)) the participants in the System through which any payment orders are sent or payments are received, or through which any rights or obligations under the System Documents are executed or performed, are licensed to provide funds transfer services, in all relevant jurisdictions; and
+- ((4)) the documents submitted to us in copy or as specimens conform to the originals.
+
+3\.
+
+**Opinion**
+
+Based on and subject to the foregoing, and subject in each case to the points set out below, we are of the opinion that:
+
+3.1.
+
+*Country-specific legal aspects \[to the extent applicable\]*
+
+The following characteristics of the legislation of \[jurisdiction\] are consistent with and in no way set aside the obligations of the TIPS DCA holder arising out of the System Documents: \[list of country-specific legal aspects\].
+
+3.2.
+
+*General insolvency and crisis management issues*
+
+- *Types of insolvency and crisis management proceedings*
+  - The only types of insolvency proceedings (including composition or rehabilitation) which, for the purpose of this Opinion, shall include all proceedings in respect of the TIPS DCA holder’s assets or any branch it may have in \[jurisdiction\] to which the TIPS DCA holder may become subject in \[jurisdiction\], are the following: \[list proceedings in original language and English translation\] (together collectively referred to as ‘ Insolvency Proceedings ’ ).
+  - In addition to Insolvency Proceedings, the TIPS DCA holder, any of its assets, or any branch it may have in \[jurisdiction\] may become subject in \[jurisdiction\] to \[list any applicable moratorium, receivership, or any other proceedings as a result of which payment orders to and/or from the TIPS DCA holder may be suspended, or limitations can be imposed in relation to such payment orders, or similar proceedings, including crisis prevention and crisis management measures equivalent to those defined in Directive 2014/59/EU, in original language and English translation\] (hereinafter collectively referred to as ‘ Proceedings ’ ).
+- *Insolvency treaties*
+  - \[jurisdiction\] or certain political subdivisions within \[jurisdiction\], as specified, is/are party to the following insolvency treaties: \[specify, if applicable which have or may have an impact on this Opinion\].
+
+3.3.
+
+*Enforceability of System Documents*
+
+Subject to the points set out below, all provisions of the System Documents will be binding and enforceable in accordance with their terms under the laws of \[jurisdiction\], in particular in the event of the opening of any Insolvency Proceedings or Proceedings with respect to the TIPS DCA holder.
+
+In particular, we are of the opinion that:
+
+3.3.a.
+
+*Processing of payment orders*
+
+The provisions on processing of payment orders \[list of sections\] of the Rules are valid and enforceable. In particular, all payment orders processed pursuant to such sections will be valid, binding and will be enforceable under the laws of \[jurisdiction\]. The provision of the Rules which specifies the precise point in time at which payment orders become enforceable and irrevocable (Article 20) is valid, binding and enforceable under the laws of \[jurisdiction\].
+
+3.3.b.
+
+*Authority of the ECB to perform its functions*
+
+The opening of Insolvency Proceedings or Proceedings in respect of the TIPS DCA holder will not affect the authority and powers of the ECB arising out of the System Documents. \[Specify \[to the extent applicable\] that: the same opinion is also applicable in respect of any other entity which provides the TIPS DCA holders with services directly and necessarily required for participation in the System, e.g. TIPS network service provider\].
+
+3.3.c.
+
+*Remedies in the event of default*
+
+\[Where applicable to the TIPS DCA holder, the provisions contained in Article 28 of the Rules regarding accelerated performance of claims which have not yet matured, the set-off of claims for using the deposits of the TIPS DCA holder, the enforcement of a pledge, suspension and termination of participation, claims for default interest, and termination of agreements and transactions (Articles 25 to 28) are valid and enforceable under the laws of \[jurisdiction\].\]
+
+3.3.d.
+
+*Suspension and termination*
+
+Where applicable to the TIPS DCA holder, the provisions contained in Article 26 of the Rules (in respect of suspension and termination of the TIPS DCA holder's participation in the System on the opening of Insolvency Proceedings or Proceedings or other events of default, as defined in the System Documents, or if the TIPS DCA holder represents any kind of systemic risk or has serious operational problems) are valid and enforceable under the laws of \[jurisdiction\].
+
+3.3.e.
+
+*Assignment of rights and obligations*
+
+The rights and obligations of the TIPS DCA holder cannot be assigned, altered or otherwise transferred by the TIPS DCA holder to third parties without the prior written consent of the ECB.
+
+3.3.f.
+
+*Choice of governing law and jurisdiction*
+
+The provisions contained in Articles 31 and 34 of the Rules, and in particular in respect of the governing law, the resolution of a dispute, competent courts, and service of process are valid and enforceable under the laws of \[jurisdiction\].
+
+3.4.
+
+*Voidable preferences*
+
+We are of the opinion that no obligation arising out of the System Documents, the performance thereof, or compliance therewith prior to the opening of any Insolvency Proceedings or Proceedings in respect of the TIPS DCA holder may be set aside in any such proceedings as a preference, voidable transaction or otherwise under the laws of \[jurisdiction\].
+
+In particular, and without limitation to the foregoing, we express this opinion in respect of any transfer orders submitted by any participant in the System. In particular, we are of the opinion that the provisions of Article 20 of the Rules establishing the enforceability and irrevocability of transfer orders will be valid and enforceable and that a transfer order submitted by any participant and processed pursuant to Title IV of the Rules may not be set aside in any Insolvency Proceedings or Proceedings as a preference, voidable transaction or otherwise under the laws of \[jurisdiction\].
+
+3.5.
+
+*Attachment*
+
+If a creditor of the TIPS DCA holder seeks an attachment order (including any freezing order, order for seizure or any other public or private law procedure that is intended to protect the public interest or the rights of the TIPS DCA holder's creditors) — hereinafter referred to as an ‘ Attachment ’ — under the laws of \[jurisdiction\] from a court or governmental, judicial or public authority that is competent in \[jurisdiction\], we are of the opinion that \[insert the analysis and discussion\].
+
+3.6.
+
+*Collateral \[if applicable\]*
+
+3.6.a.
+
+*Assignment of rights or deposit of assets for collateral purposes, pledge and/or repo*
+
+Assignments for collateral purposes will be valid and enforceable under the laws of \[jurisdiction\]. Specifically, the creation and enforcement of a pledge or repo under the Rules will be valid and enforceable under the laws of \[jurisdiction\].
+
+3.6.b.
+
+*Priority of assignees', pledgees' or repo purchasers' interest over that of other claimants*
+
+In the event of Insolvency Proceedings or Proceedings in respect of the TIPS DCA holder, the rights or assets assigned for collateral purposes, or pledged by the TIPS DCA holder in favour of the ECB or other participants in the System, will rank in priority of payment above the claims of all other creditors of the TIPS DCA holder and will not be subject to priority or preferential creditors.
+
+3.6.c.
+
+*Enforcing title to security*
+
+Even in the event of Insolvency Proceedings or Proceedings in respect of the TIPS DCA holder, other participants in the System and the ECB as pledgees will still be free to enforce and collect the TIPS DCA holder's rights or assets through the action of the ECB pursuant to the Rules.
+
+3.6.d.
+
+*Form and registration requirements*
+
+There are no form requirements for the assignment for collateral purposes of, or the creation and enforcement of a pledge or repo over the TIPS DCA holder's rights or assets and it is not necessary for the \[assignment for collateral purposes, pledge or repo, as applicable\], or any particulars of such \[assignment, pledge or repo, as applicable,\] to be registered or filed with any court or governmental, judicial or public authority that is competent in \[jurisdiction\].
+
+3.7.
+
+*Branches \[to the extent applicable\]*
+
+3.7.a.
+
+*Opinion applies to action through branches*
+
+Each of the statements and opinions presented above with regard to the TIPS DCA holder applies with equal accuracy and validity under the laws of \[jurisdiction\] in situations where the TIPS DCA holder acts through its one or more of its branches established outside \[jurisdiction\].
+
+3.7.b.
+
+*Conformity with law*
+
+Neither the execution and performance of the rights and obligations under the System Documents nor the submission, transmission or receipt of payment orders by a branch of the TIPS DCA holder will in any respect breach the laws of \[jurisdiction\].
+
+3.7.c.
+
+*Required authorisations*
+
+Neither the execution and performance of the rights and obligations under the System Documents nor the submission, transmission or receipt of payment orders by a branch of a TIPS DCA holder will require any additional authorisations, approvals, consents, filings, registrations, notarisations or other certifications of or with any court or governmental, judicial or public authority that is competent in \[jurisdiction\].
+
+This Opinion is stated as of its date and is addressed solely to the ECB and the \[TIPS DCA holder\]. No other persons may rely on this Opinion, and the contents of this Opinion may not be disclosed to persons other than its intended recipients and their legal counsel without our prior written consent, with the exception of the national central banks of the European System of Central Banks \[and \[the national central bank/relevant regulatory authorities\] of \[jurisdiction\]\].
+
+Yours faithfully,
+
+\[signature\]
+
+Appendix III
+
+**OPERATING SCHEDULE**
+
+1\.
+
+The TIPS Platform is operated and available in U2A and A2A mode 24 hours a day, every day of the year.
+
+2\.
+
+After the completion of the last algorithms in TARGET2, a message is sent to the TIPS platform after which the change of business day is initiated. After the start of the new business day the TIPS Platform sends a record to the SSP of the balances on the TIPS DCAs as they stood at the time of the change of business day.
+
+3\.
+
+The SSP is operated on all days, except Saturdays, Sundays, New Year's Day, Good Friday and Easter Monday (according to the calendar applicable at the seat of the ECB), 1 May, 25 December and 26 December.
+
+4\.
+
+The reference time for the system is the local time at the seat of the ECB, i.e. CET [^f00028] .
+
+5\.
+
+The operating hours may be changed in the event that business continuity measures are adopted.
+
+6\.
+
+An overview of the operating hours and significant business events during the day is shown in the following table. Settlement of instant payment orders continues without interruption 24/7/365. Liquidity transfers are possible at all times except those indicated in the table:
+
+<table>
+<tfoot>
+<tr><td colspan="4">‘ Daytime operations ’ means daytime processing and end-of-day processing.</td></tr>
+<tr><td colspan="4">Liquidity transfers entered into the system before the cut-off time will be processed.</td></tr>
+<tr><td colspan="4">Ends 15 minutes later on the last day of the Eurosystem reserve maintenance period.</td></tr>
+<tr><td colspan="4">Starts 15 minutes later on the last day of the Eurosystem reserve maintenance period.</td></tr>
+<tr><td colspan="4">Over a weekend or on a holiday, the technical maintenance window will last throughout the weekend or the holiday, i.e., from 22.00 on Friday until 1.00 on Monday or, in the case of a holiday, from 22.00 on the last business day until 1.00 on the next business day.</td></tr>
+</tfoot>
+<tbody>
+<tr><th colspan="2">SSP schedule</th><th colspan="2">TIPS schedule (applicable to TIPS DCAs)</th></tr>
+<tr><th>Time</th><th>Description</th><th>Time</th><th>Description</th></tr>
+<tr><td>6.45-7.00</td><td>Business window to prepare daytime operations</td><td></td><td></td></tr>
+<tr><td>7.00-18.00</td><td>Daytime processing</td><td></td><td></td></tr>
+<tr><td>17.00</td><td>Cut-off time for customer payments</td><td></td><td></td></tr>
+<tr><td>18.00</td><td>Cut-off time for interbank payments<br>Cut-off time for liquidity transfers</td><td>18.00</td><td>Cut-off time for liquidity transfers</td></tr>
+<tr><td>Shortly after 18.00</td><td>Completion of last algorithms</td><td></td><td></td></tr>
+<tr><td>Upon completion of last algorithms</td><td>Send message to TIPS to inform that change of business day can be performed</td><td>Upon receipt of message from SSP</td><td>— Change of business day in TIPS — Snapshot of balances on TIPS DCAs and generation of End-of-day files (General Ledger)</td></tr>
+<tr><td>18.00-18.45</td><td>End-of-day processing</td><td></td><td></td></tr>
+<tr><td>18.15</td><td>General cut-off time for the use of standing facilities</td><td></td><td></td></tr>
+<tr><td>(Shortly after)<br>18.30</td><td>Data for the update of accounting systems are available to CBs</td><td></td><td></td></tr>
+<tr><td>18.45-19.30</td><td>Start-of-day processing (new business day)</td><td></td><td></td></tr>
+<tr><td>19.00 -19.30</td><td>Provision of liquidity on the PM account</td><td></td><td></td></tr>
+<tr><td>19.30</td><td>‘ Start-of-procedure ’ message and settlement of the standing orders to transfer liquidity from the PM accounts to the subaccounts/technical account (ancillary system-related settlement) &amp; Start of liquidity transfers between TARGET2 and TIPS</td><td>19.30</td><td>Start of liquidity transfers between TARGET2 and TIPS</td></tr>
+<tr><td>19.30 -22.00</td><td>Execution of additional liquidity transfers via the ICM for settlement procedure 6 real-time; execution of additional liquidity transfers via the ICM before the ancillary system sends the ‘ start of cycle ’ messages for settlement procedure 6 interfaced; settlement period of night-time ancillary system operations (only for ancillary system settlement procedure 6 real-time and settlement procedure 6 interfaced)</td><td></td><td></td></tr>
+<tr><td>22.00-1.00</td><td>Technical maintenance window</td><td>22.00–1.00</td><td>Liquidity transfers not possible as the SSP is closed</td></tr>
+<tr><td>1.00-7.00</td><td>Settlement procedure of night-time ancillary system operations (only for ancillary system settlement procedure 6 real-time and settlement procedure 6 interfaced)<br>Liquidity transfers between TARGET2 and TIPS</td><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^f00029][^f00030][^f00030][^f00031][^f00031][^f00032][^f00032][^f00032][^f00031][^f00031][^f00032][^f00033]
+
+7\.
+
+Up-to-date information on the operational status of the SSP and the TIPS Platform shall be available on the TARGET2 Information System (T2IS) and on the TIPS Information System on dedicated webpages on the ECB's website. The information on the operational status of the SSP and the TIPS Platform on T2IS and the ECB's website shall only be updated during normal business hours.
+
+Appendix IV
+
+**FEE SCHEDULE**
+
+**Fees for the TIPS service**
+
+1\.
+
+The following fees for the TIPS service connected with TIPS DCAs shall be charged to the Linked PM account holders:
+
+| Tariff items | Price (euro cent) | Explanation |
+| --- | --- | --- |
+| Settlement services |  |  |
+| Instant payment order | 0,20 | To be charged also for unsettled transactions |
+| Recall request | 0,00 |  |
+| Negative recall answer | 0,00 |  |
+| Positive recall answer | 0,20 | To be charged to the holder of the Linked PM account associated with the TIPS DCA to be credited (also for unsettled transactions) |
+
+2\.
+
+Up to the first ten million instant payment orders and positive recall answers, cumulatively, received by the TIPS Platform by the end of 2019, shall be free of charge. The ECB shall charge Linked PM account holders for any further instant payment orders and positive recall answers received by the TIPS Platform by the end of 2019, in the following year.
+
+3\.
+
+PM to TIPS DCA liquidity transfer orders sent from a participant's PM account and TIPS DCA to PM liquidity transfer orders received on a participant's PM account shall be charged to the Linked PM account holder in accordance with Appendix VI to Annex II.
+
+Appendix V
+
+**TIPS CONNECTIVITY TECHNICAL REQUIREMENTS**
+
+SERVICES OF THE TIPS NETWORK SERVICE PROVIDER
+
+**General service description**
+
+1\.
+
+The TIPS network service provider connects the TIPS DCA holder and/or its reachable party to the TIPS platform and provides a secure messaging service based on a Closed Group of Users (CGU) and PKI, as well as support and incident management services.
+
+2\.
+
+All the services provided by the TIPS network service provider to the TIPS DCA holders shall be offered under a separate agreement entered into between them and in accordance with the detailed requirements for network service providers set out in the connectivity documentation as it shall read from time to time (hereinafter the ‘ connectivity documentation ’ ). The connectivity documentation is available on the ECB's website and consists of: (a) the document entitled ‘ Connectivity — technical requirements ’ and the following attachments to it: ‘ MEPT — Message Exchange Processing for TIPS ’ and ‘ NSP Compliance Check Procedure ’ ; and (b) the TIPS connectivity hosting terms and conditions. The TIPS DCA holders are invited to include the connectivity documentation in their agreement with the TIPS network service provider.
+
+3\.
+
+In order for a network service provider to enter into an agreement with a TIPS DCA holder as a TIPS network service provider, a compliance check of the network service provider shall be carried out to ensure that such provider is technically compliant with the requirements set out in the document ‘ Connectivity — technical requirements ’ . This check shall include, first, an evaluation of the network service provider's technical offer. If this evaluation is positive, a second stage of the compliance check shall be carried out, which includes a series of tests of the network service provider's technical solution. The compliance check is described in further detail in the ‘ NSP Compliance Check Procedure ’ referred to in paragraph 2.
+
+4\.
+
+If the network service provider successfully completes the compliance check, it signs the TIPS connectivity hosting terms and conditions with Banca d'Italia. Such TIPS network service provider may then be used by any TIPS DCA holders, under a separate agreement entered into by the former and the latter, and their names will be published on the ECB's website, solely for information purposes. The compliance check referred to in paragraph 3 shall be carried out within 120 calendar days from the date of the official notification of the start of that procedure to the TIPS DCA holder.
+
+5\.
+
+If a network service provider does not successfully complete any stage of the compliance check referred to in paragraph 3, the ECB shall inform the TIPS DCA holder at whose request the assessment referred to in paragraph 3 was initiated, of the rejection and the reasons for it.
+
+6\.
+
+It shall be incumbent upon TIPS DCA holders, in their own interest and under their separate agreement with their TIPS network service provider, to monitor whether the connectivity services to be provided by their TIPS network service provider fulfil all the technical and operational requirements as referred to in paragraph 2 at the time of the compliance check procedure, and for the entire period of time that the TIPS DCA holders are connected to the TIPS Platform.
+
+7\.
+
+Any TIPS platform-providing NCBs' monitoring of a TIPS network service provider's compliance with the technical and operational requirements shall be undertaken in the sole interest of protecting the integrity of the TIPS Platform and, hence, without prejudice to the monitoring carried out by the TIPS DCA holder in accordance with paragraph 6.
+
+8\.
+
+A TIPS network service provider may be disconnected from the TIPS platform if it ceases to meet the conditions of the connectivity documentation described in paragraph 2 or if the TIPS connectivity hosting terms and conditions are terminated for any other reason, as laid down in those terms and conditions. If a TIPS network service provider's connection to the TIPS Platform is terminated, it will be removed from the list of TIPS network service providers.
+
+## Annotations
+
+[^c000016]: Textual amendment: Inserted by [Decision (EU) 2018/1625 of the European Central Bank of 8 October 2018 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2018/24)](https://www.legislation.gov.uk/eudn/2018/24).
+
+[^f00024]: Footnote: The Eurosystem's current policy for the location of infrastructure is set out in the following statements, which are available on the ECB's website at www.ecb.europa.eu: (a) the policy statement on euro payment and settlement systems located outside the euro area of[^c000016] 3 November 1998 ; (b) the Eurosystem's policy line with regard to consolidation in central counterparty clearing of 27 September 2001 ; (c) the Eurosystem policy principles on the location and operation of infrastructures settling euro-denominated payment transactions of 19 July 2007 ; (d) the Eurosystem policy principles on the location and operation of infrastructures settling euro-denominated payment transactions: specification of ‘ legally and operationally located in the euro area ’ of 20 November 2008 ; (e) the Eurosystem oversight policy framework, revised version of July 2016.
+
+[^f00025]: Footnote: Guideline ECB/2012/27 of 5 December 2012 on a Trans-European Automated Real-time Gross settlement Express Transfer system (TARGET2) ( [OJ L 30, 30.1.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.030.01.0001.01.ENG) ).
+
+[^f00026]: Footnote: Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems ( [OJ L 166, 11.6.1998, p. 45](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.166.01.0045.01.ENG) ).
+
+[^c000015]: Textual amendment: Substituted by [Decision (EU) 2019/1848 of the European Central Bank of 29 October 2019 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2019/32)](https://www.legislation.gov.uk/eudn/2019/32).
+
+[^c000009]: Textual amendment: Inserted by [Decision (EU) 2019/1848 of the European Central Bank of 29 October 2019 amending Decision ECB/2007/7 concerning the terms and conditions of TARGET2-ECB (ECB/2019/32)](https://www.legislation.gov.uk/eudn/2019/32).
+
+[^f00027]: Footnote: Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council ( [OJ L 173, 12.6.2014, p. 190](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0190.01.ENG) ).
+
+[^f00028]: Footnote: CET takes into account the change to Central European Summer Time.
+
+[^f00029]: Footnote: ‘ Daytime operations ’ means daytime processing and end-of-day processing.
+
+[^f00030]: Footnote: Liquidity transfers entered into the system before the cut-off time will be processed.
+
+[^f00031]: Footnote: Ends 15 minutes later on the last day of the Eurosystem reserve maintenance period.
+
+[^f00032]: Footnote: Starts 15 minutes later on the last day of the Eurosystem reserve maintenance period.
+
+[^f00033]: Footnote: Over a weekend or on a holiday, the technical maintenance window will last throughout the weekend or the holiday, i.e., from 22.00 on Friday until 1.00 on Monday or, in the case of a holiday, from 22.00 on the last business day until 1.00 on the next business day.

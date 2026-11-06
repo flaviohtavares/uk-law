@@ -1,0 +1,43 @@
+---
+title: Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance), section Article 49
+act: Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance)
+section: Article 49
+status: revised
+text_date: '2018-12-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2019/6/section/Article 49
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance), section Article 49
+
+> Text as at 2018-12-11.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 49. Procedure for decentralised marketing authorisation
+
+*Extent: E+W+S+N.I.*
+
+1. An application for a decentralised marketing authorisation shall be submitted to the competent authority in the Member State chosen by the applicant to prepare an assessment report and to act in accordance with this Section (‘reference Member State’) and to the competent authorities in the other Member States concerned.
+
+2. The application shall list the Member States concerned.
+
+3. If the applicant indicates that one or more of the Member States concerned shall no longer be considered as such, the competent authorities in those Member States shall provide to the competent authority in the reference Member State and to the competent authorities in the other Member States concerned any information they consider relevant with respect to the withdrawal of the application.
+
+4. Within 120 days of receipt of a valid application, the competent authority in the reference Member State shall prepare an assessment report containing the information referred to in Article 33 and shall forward it to the competent authorities in the Member States concerned and to the applicant.
+
+5. Within 90 days of receipt of the assessment report referred to in paragraph 4, the competent authorities in the Member States concerned shall examine the report and inform the competent authority in the reference Member State whether they have any objections to it on the ground that the veterinary medicinal product would pose a potential serious risk to human or animal health or to the environment. The competent authority in the reference Member State shall forward the assessment report resulting from that examination to the competent authorities in the Member States concerned and to the applicant.
+
+6. On the request of the competent authority in the reference Member State or the competent authority in any of the Member States concerned, the coordination group shall be convened to examine the assessment report within the period referred to in paragraph 5.
+
+7. Where the assessment report is favourable and where no competent authority has informed the competent authority in the reference Member State of an objection thereto, as referred to in paragraph 5, the competent authority in the reference Member State shall record that there is an agreement, close the procedure and, without undue delay, inform the applicant and the competent authorities in all Member States accordingly. The competent authorities in the Member States concerned shall grant a marketing authorisation in conformity with the assessment report within 30 days of receipt of both the information on the agreement from the competent authority in the reference Member State and the complete translations of the summary of product characteristics, labelling and package leaflet from the applicant.
+
+8. Where the assessment report is unfavourable and where none of the competent authorities in the Member States concerned has informed the competent authority in the reference Member State of an objection thereto, as set out in paragraph 5, the competent authority in the reference Member State shall record that there is a refusal to grant the marketing authorisation, close the procedure and, without undue delay, inform the applicant and the competent authorities in all Member States accordingly.
+
+9. Where a competent authority in a Member State concerned informs the competent authority in the reference Member State of an objection to the assessment report in accordance with paragraph 5 of this Article, the procedure referred to in Article 54 shall apply.
+
+10. If at any stage of the procedure for a decentralised marketing authorisation the competent authority in a Member State concerned invokes the reasons referred to in Article 110(1) for prohibiting the veterinary medicinal product, that Member State shall no longer be considered as a Member State concerned.
+
+11. The competent authority in the reference Member State shall make the assessment report publicly available, after deleting any commercially confidential information.

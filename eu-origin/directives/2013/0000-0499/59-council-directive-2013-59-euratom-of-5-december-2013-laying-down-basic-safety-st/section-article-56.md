@@ -1,0 +1,45 @@
+---
+title: Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom, section Article 56
+act: Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom
+section: Article 56
+status: revised
+text_date: '2014-01-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2013/59/section/Article 56
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom, section Article 56
+
+> Text as at 2014-01-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 56. Optimisation
+
+*Extent: E+W+S+N.I.*
+
+1. Member States shall ensure that all doses due to medical exposure for radiodiagnostic, interventional radiology, planning, guiding and verification purposes are kept as low as reasonably achievable consistent with obtaining the required medical information, taking into account economic and societal factors.
+
+For all medical exposure of patients for radiotherapeutic purposes, exposures of target volumes shall be individually planned and their delivery appropriately verified taking into account that doses to non-target volumes and tissues shall be as low as reasonably achievable and consistent with the intended radiotherapeutic purpose of the exposure.
+
+2. Member States shall ensure the establishment, regular review and use of diagnostic reference levels for radiodiagnostic examinations, having regard to the recommended European diagnostic reference levels where available, and where appropriate, for interventional radiology procedures, and the availability of guidance for this purpose.
+
+3. Member States shall ensure that for each medical or biomedical research project involving medical exposure:
+
+- (a) the individuals concerned participate voluntarily;
+- (b) these individuals are informed about the risks of exposure;
+- (c) a dose constraint is established for individuals for whom no direct medical benefit is expected from exposure;
+- (d) in the case of patients who voluntarily accept to undergo an experimental medical practice and who are expected to receive a diagnostic or therapeutic benefit from this practice, the dose levels concerned shall be considered on an individual basis by the practitioner and/or referrer prior to the exposure taking place.
+
+4. Member States shall ensure that the optimisation includes the selection of equipment, the consistent production of adequate diagnostic information or therapeutic outcomes, the practical aspects of medical radiological procedures, quality assurance, and the assessment and evaluation of patient doses or the verification of administered activities, taking into account economic and societal factors.
+
+5. Member States shall ensure that:
+
+- (a) dose constraints are established for the exposure of carers and comforters, where appropriate;
+- (b) appropriate guidance is established for the exposure of carers and comforters.
+
+6. Member States shall ensure that in the case of a patient undergoing treatment or diagnosis with radionuclides, the practitioner or the undertaking, as specified by Member States, provides the patient or their representative with information on the risks of ionising radiation and appropriate instructions with a view to restricting doses to persons in contact with the patient as far as reasonably achievable. For therapeutic procedures these shall be written instructions.
+
+These instructions shall be handed out before leaving the hospital or clinic or a similar institution.

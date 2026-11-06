@@ -1,0 +1,96 @@
+---
+title: Commission Regulation (EC) No 1663/2005 of 11 October 2005 amending Regulation (EC) No 1535/2003 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the aid scheme for products processed from fruit and vegetables
+id: eur/2005/1663
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2005-10-11'
+text_date: '2005-10-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2005/1663
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2005/1663/pdfs/eur_20051663_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2005/1663/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 1663/2005 of 11 October 2005 amending Regulation (EC) No 1535/2003 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the aid scheme for products processed from fruit and vegetables
+
+> Text as at 2005-10-11.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 1663/2005
+
+of 11 October 2005
+
+amending Regulation (EC) No 1535/2003 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the aid scheme for products processed from fruit and vegetables
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 2201/96 of 28 October 1996 on the common organisation of the markets in processed fruit and vegetable products[^f00001], and in particular Article 6 thereof,
+
+Whereas:
+
+(1)
+
+Article 5 of Regulation (EC) No 2201/96 establishes the Community and national processing thresholds and the provisions applicable for calculating the aid amount when a threshold overrun is recorded in a Member State, provided that the Member State in question has a processing threshold for the product concerned as specified in Annex III to that Regulation.
+
+(2)
+
+The first subparagraph of Article 23(1) of Commission Regulation (EC) No 1535/2003[^f00002] states that the processed raw material is to count against the processing threshold of the Member State where the producer organisation’s head office is situated.
+
+(3)
+
+Implementation of this provision in recent marketing years has thrown up anomalies in the aid scheme’s application, notably in the case of tomatoes. Because of this provision, the production of certain producers who are members of a producer organisation which has its head office in another Member State, or the production of producer organisations belonging to an association of producer organisations which has its head office in another Member State counts against the processing threshold of the Member State in which the producer organisation or association of producer organisations has its head office. Experience indicates that this offset should be made against the threshold of the Member State where the raw material is produced.
+
+(4)
+
+Regulation (EC) No 1535/2003 should therefore be amended accordingly.
+
+(5)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Processed Fruit and Vegetables,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Regulation (EC) No 1535/2003 is hereby amended as follows:
+
+- 1.. the first subparagraph of Article 23(1) is replaced by the following:
+
+  > In the case of tomatoes, peaches and pears, producer organisations shall submit their aid applications to the competent authorities of the Member State in which their head office is situated, provided that that Member State has a processing threshold for the product concerned specified in Annex III to Regulation (EC) No 2201/96. The quantity for which aid is sought shall count against the threshold for the Member State in which the raw material is produced.
+
+  ;
+- 2.. in the first subparagraph of Article 24, point (b) is replaced by the following:
+
+  > - ((b)) the quantity covered by the aid application whereby that quantity, broken down by contract and, if appropriate, by the aid level applicable in the Member State where the raw material is produced, may not exceed the quantity accepted for processing, after deduction of any reduction rates applied;
+- 3.. the following subparagraph is added after the first subparagraph of Article 27(1):
+
+  > The aid payable shall be that corresponding to the Member State in which the raw material is produced.
+
+**Article 2.** This Regulation shall enter into force on the seventh day following its publication in the *Official Journal of the European Union*.
+
+It shall apply from the 2006/07 marketing year.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 11 October 2005.
+
+*For the Commission*
+
+Mariann Fischer Boel
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 297, 21.11.1996, p. 29](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1996.297.01.0029.01.ENG). Regulation as last amended by Regulation (EC) No 386/2004 ([OJ L 64, 2.3.2004, p. 25](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.064.01.0025.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 218, 30.8.2003, p. 14](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0014.01.ENG). Regulation as last amended by Regulation (EC) No 180/2005 ([OJ L 30, 3.2.2005, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.030.01.0007.01.ENG)).

@@ -1,0 +1,53 @@
+---
+title: Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (Text with EEA relevance), section Article 15
+act: Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (Text with EEA relevance)
+section: Article 15
+status: revised-with-pending-changes
+text_date: '2026-07-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2014/600/section/Article 15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (Text with EEA relevance), section Article 15
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-07-06. See https://www.legislation.gov.uk/changes/affected/eur/2014/600
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 15 (affected by repeal, see note). Execution of client orders (affected by repeal, see note)[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945][^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+
+*Extent: E+W+S+N.I.*
+
+1. Systematic internalisers shall make public their quotes on a regular and continuous basis during normal trading hours. They may update their quotes at any time. They shall be allowed, under exceptional market conditions, to withdraw their quotes. *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+
+Firms that meet the definition of systematic internaliser must notify the FCA in accordance with the rules of that authority. The FCA must publish a list of the systematic internalisers in the United Kingdom for which it has received notifications.[^key-b8d047845f9147e074581d46e9239c42] *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+
+The quotes shall be made public in a manner which is easily accessible to other market participants on a reasonable commercial basis. *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+
+2. Systematic internalisers shall, while complying with *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945] the rules in section 11.2A of the Conduct of Business sourcebook,[^key-ee00a3ea7623aa6c6d4a0b0bd29667fc] *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945] [^key-b8069f63cfa3f71fa33932c9789e38a0]... Regulation (EU) 2017/575 and Regulation (EU) 2017/576 *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945], execute the orders they receive from their clients in relation to the shares, depositary receipts, ETFs, certificates and other similar financial instruments for which they are systematic internalisers at the quoted prices at the time of reception of the order. *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+
+However, in justified cases, they may execute those orders at a better price provided that the price falls within a public range close to market conditions. *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+
+3. Systematic internalisers may execute orders they receive from their professional clients at prices different than their quoted ones without having to comply with the requirements established in paragraph 2, in respect of transactions where execution in several securities is part of one transaction or in respect of orders that are subject to conditions other than the current market price. *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+
+4. Where a systematic internaliser quoting only one quote or whose highest quote is lower than the standard market size receives an order from a client of a size bigger than its quotation size, but lower than the standard market size, it may decide to execute that part of the order which exceeds its quotation size, provided that it is executed at the quoted price, except where otherwise permitted under the conditions laid down in paragraphs 2 and 3. Where the systematic internaliser is quoting in different sizes and receives an order between those sizes, which it chooses to execute, it shall execute the order at one of the quoted prices in compliance with *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945] rules 11.3.1, 11.4.1, 11.4.4A and 11.4.5 of the Conduct of Business sourcebook[^key-4075e68ad7e849fdde19d0baa710d1a0] *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945] [^key-e8a54f4c7ff4f89c28352488652e4ceb]..., except where otherwise permitted under the conditions of paragraphs 2 and 3 of this Article. *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+
+5. The Treasury may by regulations clarify[^key-2993a579a2663ed92bba4b1119e9d59c] *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945] what constitutes a reasonable commercial basis to make quotes public as referred to in paragraph 1. *(affected by repeal, see note)*[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+
+## Annotations
+
+[^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]: Textual amendment: Regulation revoked (5.4.2024 for the revocation of Sch. 3 paras. 17, 34-39, 1.12.2025 for the revocation of Art. 18b, 30.3.2026 for the revocation of Arts. 4, 4a) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [regs. 4(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/4/b), [6(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/6/b)
+
+[^key-b8d047845f9147e074581d46e9239c42]: Textual amendment: Words in Art. 15(1) substituted (31.12.2020) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [28(2)(a)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/28/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ee00a3ea7623aa6c6d4a0b0bd29667fc]: Textual amendment: Words in Art. 15(2) substituted (31.12.2020) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [28(2)(b)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/28/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b8069f63cfa3f71fa33932c9789e38a0]: Textual amendment: Words in [Art. 15(2)](https://www.legislation.gov.uk/eur/2014/600/article/15/2) omitted (23.10.2025) by virtue of [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/15/3/a) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+
+[^key-4075e68ad7e849fdde19d0baa710d1a0]: Textual amendment: Words in Art. 15(4) substituted (31.12.2020) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [28(2)(c)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/28/2/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e8a54f4c7ff4f89c28352488652e4ceb]: Textual amendment: Words in [Art. 15(4)](https://www.legislation.gov.uk/eur/2014/600/article/15/4) omitted (23.10.2025) by virtue of [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/15/3/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+
+[^key-2993a579a2663ed92bba4b1119e9d59c]: Textual amendment: Words in Art. 15(5) substituted (31.12.2020) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [28(2)(d)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/28/2/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

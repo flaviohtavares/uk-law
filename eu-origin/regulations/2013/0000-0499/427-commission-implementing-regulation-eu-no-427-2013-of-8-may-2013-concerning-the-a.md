@@ -1,0 +1,60 @@
+---
+title: Commission Implementing Regulation (EU) No 427/2013 of 8 May 2013 concerning the authorisation of selenomethionine produced by Saccharomyces cerevisiae NCYC R646 as a feed additive for all animal species and amending Regulations (EC) No 1750/2006, (EC) No 634/2007 and (EC) No 900/2009 as regards the maximum supplementation with selenised yeast (Text with EEA relevance)
+id: eur/2013/427
+type: EuropeanUnionRegulation
+category: euretained
+status: repealed
+made_date: '2013-05-08'
+text_date: '2025-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2013/427
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2013/427/pdfs/eur_20130427_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2013/427/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) No 427/2013 of 8 May 2013 concerning the authorisation of selenomethionine produced by Saccharomyces cerevisiae NCYC R646 as a feed additive for all animal species and amending Regulations (EC) No 1750/2006, (EC) No 634/2007 and (EC) No 900/2009 as regards the maximum supplementation with selenised yeast (Text with EEA relevance)
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Commission Implementing Regulation (EU) No 427/2013
+
+of 8 May 2013
+
+concerning the authorisation of selenomethionine produced by *Saccharomyces cerevisiae* NCYC R646 as a feed additive for all animal species and amending Regulations (EC) No 1750/2006, (EC) No 634/2007 and (EC) No 900/2009 as regards the maximum supplementation with selenised yeast
+
+(Text with EEA relevance) (revoked)
+
+[^key-1d5ac65ddd730c35739dce8579fe3a7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 1.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 2.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 3.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 4.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 5.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 6.**[^key-1d5ac65ddd730c35739dce8579fe3a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-1d5ac65ddd730c35739dce8579fe3a7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^key-1d5ac65ddd730c35739dce8579fe3a7d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-1d5ac65ddd730c35739dce8579fe3a7d]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 104](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/104) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

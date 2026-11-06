@@ -1,0 +1,94 @@
+---
+title: Decision (EU) 2020/547 of the European Parliament and of the Council of 17 April 2020 on the mobilisation of the Contingency Margin in 2020 to provide emergency assistance to Member States and further reinforce the Union Civil Protection Mechanism/rescEU in response to the COVID-19 outbreak
+id: eudn/2020/547
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2020-04-17'
+text_date: '2020-04-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2020/547
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2020/547/pdfs/eudn_20200547_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2020/547/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Decision (EU) 2020/547 of the European Parliament and of the Council of 17 April 2020 on the mobilisation of the Contingency Margin in 2020 to provide emergency assistance to Member States and further reinforce the Union Civil Protection Mechanism/rescEU in response to the COVID-19 outbreak
+
+> Text as at 2020-04-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Decision (EU) 2020/547 of the European Parliament and of the Council
+
+of 17 April 2020
+
+on the mobilisation of the Contingency Margin in 2020 to provide emergency assistance to Member States and further reinforce the Union Civil Protection Mechanism/rescEU in response to the COVID-19 outbreak
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Interinstitutional Agreement of 2 December 2013 between the European Parliament, the Council and the Commission on budgetary discipline, on cooperation in budgetary matters and on sound financial management[^f00001], and in particular point 14 thereof,
+
+Having regard to the proposal from the European Commission,
+
+Whereas,
+
+(1)
+
+Article 13 of Council Regulation (EU, Euratom) No 1311/2013[^f00002] has established a Contingency Margin of up to 0,03 % of the Gross National Income of the Union.
+
+(2)
+
+In accordance with Article 6 of Regulation (EU, Euratom) No 1311/2013, the Commission has calculated the absolute amount of this Contingency Margin for 2020[^f00003].
+
+(3)
+
+After having examined all other financial possibilities to react to unforeseen circumstances within the 2020 commitment ceiling for heading *3 (Security and citizenship)* of the multiannual financial framework (MFF), and having regard to the mobilisation of the Global Margin for Commitments for the full amount of 2 392 402 163 available in 2020 and of the Flexibility Instrument for the full amount of EUR 1 094 414 188 available in 2020, it is necessary to mobilise the Contingency Margin to address the needs stemming from the COVID-19 outbreak by increasing the commitment appropriations in the general budget of the Union for the financial year 2020, over and above the ceiling of heading 3 of the MFF.
+
+(4)
+
+Having regard to this very particular situation, the last-resort condition set in Article 13(1) of Regulation (EU, Euratom) No 1311/2013 is fullfilled.
+
+(5)
+
+This Decision is linked to financing included in Amending budget No 2 to the general budget of the European Union for 2020. In order to ensure coherence with that amending budget, this Decision should apply from the date of its adoption,
+
+HAVE ADOPTED THIS DECISION:
+
+**Article 1.** For the general budget of the Union for the financial year 2020, the Contingency Margin shall be mobilised to provide the amount of EUR 714 558 138 in commitment appropriations over and above the commitment ceiling of heading 3 (*Security and citizenship)* of the multiannual financial framework.
+
+**Article 2.** The total amount of EUR 714 558 138 referred to in Article 1 shall be offset against the margin under the commitment ceiling of the financial year 2020 of heading 5 (*Administration*) of the multiannual financial framework.
+
+**Article 3.** This Decision shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 17 April 2020.
+
+Done at Brussels, 17 April 2020.
+
+*For the European Parliament*
+
+*The President*
+
+D. M. Sassoli
+
+*For the Council*
+
+*The President*
+
+G. Grlić Radman
+
+## Annotations
+
+[^f00001]: Footnote: [OJ C 373, 20.12.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2013.373.01.0001.01.ENG).
+
+[^f00002]: Footnote: Council Regulation (EU, Euratom) No 1311/2013 of 2 December 2013 laying down the multiannual financial framework for the years 2014-2020 ([OJ L 347, 20.12.2013, p. 884](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0884.01.ENG)).
+
+[^f00003]: Footnote: Communication from the Commission to the Council and the European Parliament of 15 May 2019 on the technical adjustment of the financial framework for 2020 in line with movements in GNI (COM(2019) 310).

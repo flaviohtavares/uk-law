@@ -1,0 +1,122 @@
+---
+title: Commission Directive 2005/17/EC of 2 March 2005 amending certain provisions of Directive 92/105/EEC concerning plant passports
+id: eudr/2005/17
+type: EuropeanUnionDirective
+category: euretained
+status: revised-with-pending-changes
+made_date: '2005-03-02'
+text_date: '2005-03-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2005/17
+pdf_urls:
+- http://www.legislation.gov.uk/eudr/2005/17/pdfs/eudr_20050017_adopted_en.pdf
+- http://www.legislation.gov.uk/eudr/2005/17/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Directive 2005/17/EC of 2 March 2005 amending certain provisions of Directive 92/105/EEC concerning plant passports
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2005-03-02. See https://www.legislation.gov.uk/changes/affected/eudr/2005/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Directive 2005/17/EC
+
+of 2 March 2005
+
+amending certain provisions of Directive 92/105/EEC concerning plant passports
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Directive 2000/29/EC of 8 May 2000 on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community[^f00001], and in particular the second subparagraph of Article 2(1)(f), and the second subparagraph of Article 10(1) thereof,
+
+Whereas:
+
+(1)
+
+Under Commission Directive 92/105/EEC of 3 December 1992 establishing a degree of standardisation for plant passports to be used for the movement of certain plants, plant products or other objects within the Community, and establishing the detailed procedures related to the issuing of such plant passports and the conditions and detailed procedures for their replacement[^f00002], certain detailed procedures relating to the issuing of plant passports have been established.
+
+(2)
+
+New provisions should be introduced considering the labels issued in accordance with Community provisions applicable to the marketing of some officially certified seed meeting the relevant requirements of Directive 2000/29/EC, to be plant passports.
+
+(3)
+
+It appeared that many Member States already use labels without the indication ‘EC-plant passport’ for the coming season 2004 to 2005. It is appropriate to lay down rules for the use of labels during a transitional period.
+
+(4)
+
+Directive 92/105/EEC provides that the plant passports are to contain certain information including the wording ‘EEC plant passport’. Since the adoption of the Treaty on European Union, the Community is now known as the ‘European Community’, with the corresponding abbreviation ‘EC’, so that wording should be amended to ‘EC plant passport’.
+
+(5)
+
+Directive 92/105/EEC should therefore be amended accordingly.
+
+(6)
+
+The system using the above labels should be reviewed by 31 December 2006 to take into account the experiences gained.
+
+(7)
+
+The measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Plant Health,
+
+HAS ADOPTED THIS DIRECTIVE:
+
+**Article 1.** Directive 92/105/EEC is amended as follows:
+
+- 1.. Article 1(2) is amended as follows:
+  - ((a)) point (c) is replaced by the following:
+
+    > - ((c)) in the case of tubers of *Solanum tuberosum* L., intended for planting, as listed in point 18.1 of Section II of Part A of Annex IV to Council Directive 2000/29/EC[^f00003], the official label defined in Annex III to Council Directive 2002/56/EC[^f00004] may be used in place of a plant passport provided that the label provides evidence that the requirements referred to in Article 6(4) of Directive 2000/29/EC are complied with (after 31 December 2005, this label must indicate the words “EC plant passport”); compliance with the provisions governing the introduction of tubers of *Solanum tuberosum* L., intended for planting into, and their movement within, a protected zone recognised in respect of harmful organisms relating to those tubers, shall be noted either on the label or on any other trade document.
+  - ((b)) the following points (d), (e) and (f) are added:
+
+    > - ((d)) in the case of seeds of *Helianthus annuus* L., listed in point 26 of Section II of Part A of Annex IV to Directive 2000/29/EC, the official label defined in Annex IV to Council Directive 2002/57/EC[^f00005] may be used in place of a plant passport provided that the label provides evidence that the requirements referred to in Article 6(4) of Directive 2000/29/EC are complied with (after 31 August 2005, this label must indicate the words “EC plant passport”).
+    > - ((e)) in the case of seeds of *Lycopersicon lycopersicum* (L.) Karsten ex Farw. and *Phaseolus* L., listed in points 27 and 29 of Section II of Part A of Annex IV to Directive 2000/29/EC, the official label defined in Annex IV A to Council Directive 2002/55/EC[^f00006] may be used in place of a plant passport provided that the label provides evidence that the requirements referred to in Article 6(4) of Directive 2000/29/EC are complied with (after 31 August 2005, this label must indicate the words “EC plant passport”).
+    > - ((f)) in the case of seeds of *Medicago sativa* L., listed in points 28.1 and 28.2 of Section II of Part A of Annex IV to Directive 2000/29/EC, the official label defined in Annex IV Part A to Council Directive 66/401/EEC[^f00007] may be used in place of a plant passport provided that the label provides evidence that the requirements referred to in Article 6(4) of Directive 2000/29/EC are complied with (after 31 August 2005, this label must indicate the words “EC plant passport”).
+- 2.. Article 4 is deleted.
+- 3.. In the Annex, point 1 is replaced by the following:
+
+  > - 1.. “EC plant passport” (for a transitional period expiring on 1 January 2006, the wording “EEC plant passport” may be used).
+
+**Article 2.** The system whereby the labels referred to in Article 1(1) are used shall be reviewed by 31 December 2006.
+
+**Article 3.** 1. Member States shall adopt and publish, by 14 May 2005 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall apply these provisions from 15 May 2005.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+**Article 4.** This Directive shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
+
+**Article 5.** This Directive is addressed to the Member States.
+
+Done at Brussels, 2 March 2005.
+
+*For the Commission*
+
+Markos Kyprianou
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 169, 10.7.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.169.01.0001.01.ENG). Directive as last amended by Directive 2004/102/EC ([OJ L 309, 6.10.2004, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.309.01.0009.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 4, 8.1.1993, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.004.01.0022.01.ENG).
+
+[^f00003]: Footnote: [OJ L 169, 10.7.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.169.01.0001.01.ENG).
+
+[^f00004]: Footnote: [OJ L 193, 20.7.2002, p. 60](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.193.01.0060.01.ENG).
+
+[^f00005]: Footnote: [OJ L 193, 20.7.2002, p. 74](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.193.01.0074.01.ENG).
+
+[^f00006]: Footnote: [OJ L 193, 20.7.2002, p. 33](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.193.01.0033.01.ENG).
+
+[^f00007]: Footnote: [OJ 125, 11.7.1966, p. 2298/66](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.P_.1966.125.01.2298.01.ENG).

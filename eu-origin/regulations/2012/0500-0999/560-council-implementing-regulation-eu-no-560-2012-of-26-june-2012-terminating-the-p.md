@@ -1,0 +1,190 @@
+---
+title: Council Implementing Regulation (EU) No 560/2012 of 26 June 2012 terminating the partial interim review concerning the anti-dumping measures on imports of certain polyethylene terephthalate (PET) originating in India
+id: eur/2012/560
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2012-06-26'
+text_date: '2012-06-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2012/560
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2012/560/pdfs/eur_20120560_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2012/560/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Implementing Regulation (EU) No 560/2012 of 26 June 2012 terminating the partial interim review concerning the anti-dumping measures on imports of certain polyethylene terephthalate (PET) originating in India
+
+> Text as at 2012-06-26.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Implementing Regulation (EU) No 560/2012
+
+of 26 June 2012
+
+terminating the partial interim review concerning the anti-dumping measures on imports of certain polyethylene terephthalate (PET) originating in India
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1225/2009 of 30 November 2009 on protection against dumped imports from countries not members of the European Community[^f00001] (‘the basic Regulation’), and in particular Article 11(3) thereof,
+
+Having regard to the proposal submitted by the European Commission after consulting the Advisory Committee,
+
+Whereas:
+
+1\.
+
+**PROCEDURE**
+
+1.1.
+
+**Measures in force**
+
+(1)
+
+By Regulation (EC) No 2604/2000[^f00002], the Council imposed a definitive anti-dumping duty on imports of polyethylene terephthalate (PET) originating, inter alia, in India. A review pursuant to Article 11(4) of the basic Regulation concerning South Asian Petrochem Ltd was subsequently conducted and its definitive findings and conclusions are set out in Council Regulation (EC) No 1646/2005[^f00003]. Following an expiry review, the Council, by Regulation (EC) No 192/2007[^f00004], imposed a definitive anti-dumping duty for a further period of five years. The anti-dumping measures were amended by Council Regulation (EC) No 1286/2008[^f00005] following a partial interim review (‘the last review investigation’). The measures consist of specific anti-dumping duties. The rate of the duty is between EUR 87,5 and EUR 200,9 per tonne for individually named Indian producers with a residual duty rate of EUR 153,6 per tonne imposed on imports from other producers (‘the current duties’).
+
+(2)
+
+Following a name change of one Indian company, South Asian Petrochem Ltd, by Notice 2010/C 335/06[^f00006] the Commission concluded that the anti-dumping findings in respect of South Asian Petrochem Ltd should apply to Dhunseri Petrochem & Tea Limited.
+
+(3)
+
+By Regulation (EC) No 2603/2000[^f00007], the Council imposed a definitive countervailing duty on imports of PET originating, inter alia, in India. Following an accelerated review pursuant to Article 20 of Council Regulation (EC) No 597/2009 of 11 June 2009 on protection against subsidised imports from countries not members of the European Community[^f00008] (‘the basic AS Regulation’), the definitive measures were amended as set out in Council Regulation (EC) No 1645/2005[^f00009]. Following an expiry review, the Council, by Regulation (EC) No 193/2007[^f00010] imposed a definitive countervailing duty for a further period of five years. The countervailing measures were amended by Regulation (EC) No 1286/2008 following the last review investigation. The countervailing measures consist of a specific duty. The rate of the duty is between EUR 0 and EUR 106,5 per tonne for individually named Indian producers with a residual duty rate of EUR 69,4 per tonne imposed on imports from other producers (‘the current countervailing measures’).
+
+(4)
+
+Following a name change of one Indian company, South Asian Petrochem Ltd, by Notice 2010/C 335/07[^f00011], the Commission concluded that the anti-subsidy findings in respect of South Asian Petrochem Ltd should apply to Dhunseri Petrochem & Tea Limited.
+
+(5)
+
+By Decision 2005/697/EC[^f00012], the Commission accepted undertakings offered by South Asian Petrochem Ltd setting a minimum import price (‘the undertaking’). Following a name change, the Commission concluded by Notice 2010/C 335/05[^f00013] that the undertaking offered by South Asian Petrochem Ltd should apply to Dhunseri Petrochem & Tea Limited.
+
+1.2.
+
+**Request for a review**
+
+(6)
+
+A request for a partial interim review pursuant to Article 11(3) of the basic Regulation was lodged by Dhunseri Petrochem & Tea Ltd, an Indian exporting producer of PET (‘the applicant’). The request was limited in scope to dumping and to the applicant. The applicant at the same time also requested the review of the current countervailing measures. The anti-dumping and countervailing duties are applicable to imports of products produced by the applicant and sales of the applicant to the Union are covered by the undertaking.
+
+(7)
+
+The applicant provided prima facie evidence that the continued application of the current duty at its current level was no longer necessary to offset dumping. In particular, the applicant claimed that there had been significant changes in the production costs of the company and that these changes have led to a substantially lower dumping margin since the imposition of the current duties. A comparison made by the applicant of its domestic prices and its export prices to the Union suggested that the dumping margin was substantially lower than the level of current duties.
+
+1.3.
+
+**Initiation of a partial interim review**
+
+(8)
+
+Having determined, after consulting the Advisory Committee, that the request contained sufficient prima facie evidence to justify the initiation of the partial interim review, the Commission announced on 2 April 2011, by Notice 2011/C 102/09[^f00014], the initiation of a partial interim review pursuant to Article 11(3) of the basic Regulation limited to the examination of dumping as far as the applicant is concerned (‘the Notice of initiation’).
+
+1.4.
+
+**Parallel partial interim review of the countervailing measures**
+
+(9)
+
+On 2 April 2011, by Notice 2011/C 102/08[^f00015], the Commission announced the initiation of a partial interim review pursuant to Article 19 of the basic AS Regulation, limited in scope to subsidisation and to the applicant.
+
+(10)
+
+In the partial interim review of the countervailing measures it was found that the changes are not of a lasting nature. As a consequence, the review investigation was terminated without amending the measures in force.
+
+1.5.
+
+**Parties concerned**
+
+(11)
+
+The Commission officially informed the applicant, the representatives of the exporting country and the association of Union producers about the initiation of the review. Interested parties were given the opportunity to make their views known in writing and to request a hearing within the time limit set in the Notice of initiation.
+
+(12)
+
+All interested parties were informed of the possibility to request a hearing. One hearing was requested and granted.
+
+(13)
+
+In order to obtain the information deemed necessary for its investigation, the Commission sent a questionnaire to the applicant and received a reply within the deadline set for that purpose.
+
+(14)
+
+The Commission sought and verified all information deemed necessary for the determination of dumping. The Commission carried out verification visits at the premises of the applicant in Kolkata, India and in Haldia, India.
+
+2\.
+
+**WITHDRAWAL OF THE REQUEST AND TERMINATION OF THE PROCEEDING**
+
+(15)
+
+By letter to the Commission dated 18 April 2012, the applicant formally withdrew its request for the partial interim review of the anti-dumping measures applicable to imports of PET originating in India. The withdrawal is supported mainly with the further expansion of the applicant’s production capacity which demonstrates that the changes in respect of dumping are not of a lasting nature due to an imminent further decrease in production costs. The applicant claimed that it is the continuous process of change which calls into question the lasting nature of the changes established during the investigation. It was established that, although some of the changes established during the investigation were of a lasting nature, the company is indeed in a continuous process of change.
+
+(16)
+
+In view of the withdrawal, it was considered whether it would be warranted to continue the review investigation *ex officio*. The Commission services found no compelling reasons that termination would not be in the Union interest. On this basis, the review investigation should be terminated.
+
+(17)
+
+Interested parties were informed of the intention to terminate the review investigation and were given the opportunity to comment.
+
+(18)
+
+It is therefore concluded that the review concerning imports of PET originating in India should be terminated without amending the anti-dumping measures in force,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** The partial interim review of the anti-dumping measures applicable to imports of certain polyethylene terephthalate originating in India initiated pursuant to Article 11(3) of Regulation (EC) No 1225/2009 is hereby terminated without amending the anti-dumping measures in force.
+
+**Article 2.** This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Luxembourg, 26 June 2012.
+
+*For the Council*
+
+*The President*
+
+N. Wammen
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 343, 22.12.2009, p. 51](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.343.01.0051.01.ENG).
+
+[^f00002]: Footnote: [OJ L 301, 30.11.2000, p. 21](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.301.01.0021.01.ENG).
+
+[^f00003]: Footnote: [OJ L 266, 11.10.2005, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.266.01.0010.01.ENG).
+
+[^f00004]: Footnote: [OJ L 59, 27.2.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.059.01.0001.01.ENG).
+
+[^f00005]: Footnote: [OJ L 340, 19.12.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.340.01.0001.01.ENG).
+
+[^f00006]: Footnote: [OJ C 335, 11.12.2010, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2010.335.01.0006.01.ENG).
+
+[^f00007]: Footnote: [OJ L 301, 30.11.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.301.01.0001.01.ENG).
+
+[^f00008]: Footnote: [OJ L 188, 18.7.2009, p. 93](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.188.01.0093.01.ENG).
+
+[^f00009]: Footnote: [OJ L 266, 11.10.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.266.01.0001.01.ENG).
+
+[^f00010]: Footnote: [OJ L 59, 27.2.2007, p. 34](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.059.01.0034.01.ENG).
+
+[^f00011]: Footnote: [OJ C 335, 11.12.2010, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2010.335.01.0007.01.ENG).
+
+[^f00012]: Footnote: [OJ L 226, 11.10.2005, p. 62](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.226.01.0062.01.ENG).
+
+[^f00013]: Footnote: [OJ C 335, 11.12.2010, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2010.335.01.0005.01.ENG).
+
+[^f00014]: Footnote: [OJ C 102, 2.4.2011, p. 18](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.102.01.0018.01.ENG).
+
+[^f00015]: Footnote: [OJ C 102, 2.4.2011, p. 15](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.102.01.0015.01.ENG).

@@ -1,0 +1,33 @@
+---
+title: Consolidated version of the Treaty on the Functioning of the European Union, section Article 171
+act: Consolidated version of the Treaty on the Functioning of the European Union
+section: Article 171
+status: revised
+text_date: '2020-03-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eut/teec/section/Article 171
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Consolidated version of the Treaty on the Functioning of the European Union, section Article 171
+
+> Text as at 2020-03-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 171. (ex Article 155 TEC)
+
+*Extent: E+W+S+N.I.*
+
+1. In order to achieve the objectives referred to in Article 170, the Union:
+
+- shall establish a series of guidelines covering the objectives, priorities and broad lines of measures envisaged in the sphere of trans-European networks; these guidelines shall identify projects of common interest,
+- shall implement any measures that may prove necessary to ensure the interoperability of the networks, in particular in the field of technical standardisation,
+- may support projects of common interest supported by Member States, which are identified in the framework of the guidelines referred to in the first indent, particularly through feasibility studies, loan guarantees or interest-rate subsidies; the Union may also contribute, through the Cohesion Fund set up pursuant to Article 177, to the financing of specific projects in Member States in the area of transport infrastructure.
+
+The Union's activities shall take into account the potential economic viability of the projects.
+
+2. Member States shall, in liaison with the Commission, coordinate among themselves the policies pursued at national level which may have a significant impact on the achievement of the objectives referred to in Article 170. The Commission may, in close cooperation with the Member State, take any useful initiative to promote such coordination.
+
+3. The Union may decide to cooperate with third countries to promote projects of mutual interest and to ensure the interoperability of networks.

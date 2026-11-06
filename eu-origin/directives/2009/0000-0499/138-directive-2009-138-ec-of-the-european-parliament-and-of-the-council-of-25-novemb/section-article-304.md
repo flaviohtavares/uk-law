@@ -1,0 +1,44 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 304
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 304
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 304
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 304
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 304. Duration-based equity risk sub-module
+
+*Extent: E+W+S+N.I.*
+
+1. Member States may authorise life insurance undertakings providing:
+
+- (a) occupational retirement provision business in accordance with Article 4 of Directive 2003/41/EC, or
+- (b) retirement benefits paid by reference to reaching, or the expectation of reaching, retirement where the premiums paid for those benefits have a tax deduction which is authorised to policy holders in accordance with the national legislation of the Member State that has authorised the undertaking;
+
+  where
+
+  - ((i)) all assets and liabilities corresponding to the business are ring-fenced, managed and organised separately from the other activities of the insurance undertakings, without any possibility of transfer;
+  - ((ii)) the activities of the undertaking related to points (a) and (b), in relation to which the approach referred to in this paragraph is applied, are pursued only in the Member State where the undertaking has been authorised; and
+  - ((iii)) the average duration of the liabilities corresponding to the business held by the undertaking exceeds an average of 12 years;
+
+  to apply an equity risk sub-module of the Solvency Capital Requirement, which is calibrated using a Value-at-Risk measure, over a time period, which is consistent with the typical holding period of equity investments for the undertaking concerned, with a confidence level providing the policy holders and beneficiaries with a level of protection equivalent to that set out in Article 101, where the approach provided for in this Article is used only in respect of those assets and liabilities referred in point (i). In the calculation of the Solvency Capital Requirement those assets and liabilities shall be fully considered for the purpose of assessing the diversification effects, without prejudice to the need to safeguard the interests of policy holders and beneficiaries in other Member States.
+
+  Subject to the approval of the supervisory authorities, the approach set out in the first subparagraph shall be used only where the solvency and liquidity position as well as the strategies, processes and reporting procedures of the undertaking concerned with respect to asset–liability management are such as to ensure, on an ongoing basis, that it is able to hold equity investments for a period which is consistent with the typical holding period of equity investments for the undertaking concerned. The undertaking shall be able to demonstrate to the supervisory authority that that condition is verified with the level of confidence necessary to provide policy holders and beneficiaries with a level of protection equivalent to that set out in Article 101.
+
+  Insurance and reinsurance undertakings shall not revert to applying the approach set out in Article 105, except in duly justified circumstances and subject to the approval of the supervisory authorities.
+
+2.[^c000004] The Commission shall submit to the European Parliament and to the Council, by 31 December 2020 , a report on the application of the approach set out in paragraph 1 and the supervisory authorities' practices adopted pursuant to paragraph 1, accompanied, where appropriate, by adequate proposals. That report shall address, in particular, cross-border effects of the use of that approach with a view to preventing regulatory arbitrage by insurance and reinsurance undertakings.
+
+## Annotations
+
+[^c000004]: Textual amendment: Substituted by [Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)](https://www.legislation.gov.uk/eudr/2014/51).

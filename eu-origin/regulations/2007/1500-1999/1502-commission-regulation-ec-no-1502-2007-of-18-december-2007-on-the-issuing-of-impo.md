@@ -1,0 +1,72 @@
+---
+title: Commission Regulation (EC) No 1502/2007 of 18 December 2007 on the issuing of import licences for applications lodged during the first seven days of December 2007 under the tariff quota opened by Regulation (EC) No 812/2007 for pigmeat
+id: eur/2007/1502
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2007-12-18'
+text_date: '2007-12-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2007/1502
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2007/1502/pdfs/eur_20071502_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2007/1502/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 1502/2007 of 18 December 2007 on the issuing of import licences for applications lodged during the first seven days of December 2007 under the tariff quota opened by Regulation (EC) No 812/2007 for pigmeat
+
+> Text as at 2007-12-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 1502/2007
+
+of 18 December 2007
+
+on the issuing of import licences for applications lodged during the first seven days of December 2007 under the tariff quota opened by Regulation (EC) No 812/2007 for pigmeat
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 2759/75 of 29 October 1975 on the common organisation of the market in pigmeat[^f00001],
+
+Having regard to Commission Regulation (EC) No 812/2007 of 11 July 2007 opening and providing for the administration of a tariff quota for pigmeat allocated to the United States of America[^f00002], in particular Article 5(5) thereof,
+
+Whereas:
+
+(1)
+
+Regulation (EC) No 812/2007 opened tariff quotas for imports of pigmeat products.
+
+(2)
+
+The applications for import licences lodged during the first seven days of December 2007 for the subperiod 1 January to 31 March 2008 do not cover the total quantity available. The quantities for which applications have not been lodged should therefore be determined and these should be added to the quantity fixed for the following quota subperiod,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** The quantities for which import licence applications covered by the quota with serial number 09.4170 have not been lodged under Regulation (EC) No 812/2007, to be added to the subperiod 1 April to 30 June 2008, are 1 843 025 kg.
+
+**Article 2.** This Regulation shall enter into force on 19 December 2007.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 18 December 2007.
+
+*For the Commission*
+
+Jean-Luc Demarty
+
+*Director-General for Agriculture and Rural Development*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 282, 1.11.1975, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1975.282.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 1913/2005 ([OJ L 307, 25.11.2005, p. 2](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.307.01.0002.01.ENG)). Regulation (EEC) No 2759/75 will be replaced by Regulation (EC) No 1234/2007 ([OJ L 299, 16.11.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.299.01.0001.01.ENG)) as from 1 July 2008.
+
+[^f00002]: Footnote: [OJ L 182, 12.7.2007, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.182.01.0007.01.ENG).

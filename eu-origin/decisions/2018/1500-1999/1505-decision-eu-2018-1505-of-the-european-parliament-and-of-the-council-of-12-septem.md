@@ -1,0 +1,110 @@
+---
+title: Decision (EU) 2018/1505 of the European Parliament and of the Council of 12 September 2018 on the mobilisation of the European Union Solidarity Fund to provide assistance to Bulgaria, Greece, Lithuania and Poland
+id: eudn/2018/1505
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2018-09-12'
+text_date: '2018-09-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2018/1505
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2018/1505/pdfs/eudn_20181505_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2018/1505/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Decision (EU) 2018/1505 of the European Parliament and of the Council of 12 September 2018 on the mobilisation of the European Union Solidarity Fund to provide assistance to Bulgaria, Greece, Lithuania and Poland
+
+> Text as at 2018-09-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Decision (EU) 2018/1505 of the European Parliament and of the Council
+
+of 12 September 2018
+
+on the mobilisation of the European Union Solidarity Fund to provide assistance to Bulgaria, Greece, Lithuania and Poland
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 2012/2002 of 11 November 2002 establishing the European Union Solidarity Fund[^f00001], and in particular Article 4(3) thereof,
+
+Having regard to the Interinstitutional Agreement of 2 December 2013 between the European Parliament, the Council and the Commission on budgetary discipline, on cooperation in budgetary matters and on sound financial management[^f00002], and in particular point 11 thereof,
+
+Having regard to the proposal from the European Commission,
+
+Whereas:
+
+(1)
+
+The European Union Solidarity Fund ('the Fund') aims to enable the Union to respond in a rapid, efficient and flexible manner to emergency situations in order to show solidarity with the population of regions struck by natural disasters.
+
+(2)
+
+The Fund is not to exceed a maximum annual amount of EUR 500 000 000 (2011 prices), as laid down in Article 10 of Council Regulation (EU, Euratom) No 1311/2013[^f00003].
+
+(3)
+
+On 11 January 2018, Bulgaria submitted an application to mobilise the Fund, following a flooding caused by intense rainfall and violent storms of 25 and 26 October 2017.
+
+(4)
+
+On 11 October 2017, Greece submitted an application to mobilise the Fund, following an earthquake that affected the South Aegean region and the island of Kos on 20 July 2017.
+
+(5)
+
+On 22 December 2017, Lithuania submitted an application to mobilise the Fund, following a flooding caused by continuous rainfall during summer and autumn 2017.
+
+(6)
+
+On 25 October 2017, Poland submitted an application to mobilise the Fund, following exceptionally violent storms and heavy rainfall that occurred between 9 and 12 August 2017.
+
+(7)
+
+The applications by Bulgaria, Greece, Lithuania and Poland meet the conditions for providing a financial contribution from the Fund, as laid down in Article 4 of Regulation (EC) No 2012/2002.
+
+(8)
+
+The Fund should therefore be mobilised in order to provide a financial contribution to Bulgaria, Greece, Lithuania and Poland.
+
+(9)
+
+In order to minimise the time taken to mobilise the Fund, this Decision should apply from the date of its adoption,
+
+HAVE ADOPTED THIS DECISION:
+
+**Article 1.** For the general budget of the Union for the financial year 2018, the European Union Solidarity Fund shall be mobilised to provide the amount of EUR 2 258 225 to Bulgaria, EUR 2 535 796 to Greece, EUR 16 918 941 to Lithuania and EUR 12 279 244 to Poland, in commitment and payment appropriations.
+
+**Article 2.** This Decision shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 12 September 2018.
+
+Done at Strasbourg, 12 September 2018.
+
+*For the European Parliament*
+
+*The President*
+
+A. TAJANI
+
+*For the Council*
+
+*The President*
+
+K. EDTSTADLER
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 311, 14.11.2002, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.311.01.0003.01.ENG).
+
+[^f00002]: Footnote: [OJ C 373, 20.12.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2013.373.01.0001.01.ENG).
+
+[^f00003]: Footnote: Council Regulation (EU, Euratom) No 1311/2013 of 2 December 2013 laying down the multiannual financial framework for the years 2014-2020 ([OJ L 347, 20.12.2013, p. 884](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0884.01.ENG)).

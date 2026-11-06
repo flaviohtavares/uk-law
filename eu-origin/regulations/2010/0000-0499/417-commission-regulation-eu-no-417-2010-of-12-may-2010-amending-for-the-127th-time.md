@@ -1,0 +1,88 @@
+---
+title: Commission Regulation (EU) No 417/2010 of 12 May 2010 amending for the 127th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban
+id: eur/2010/417
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2010-05-12'
+text_date: '2010-05-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2010/417
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2010/417/pdfs/eur_20100417_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2010/417/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EU) No 417/2010 of 12 May 2010 amending for the 127th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban
+
+> Text as at 2010-05-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EU) No 417/2010
+
+of 12 May 2010
+
+amending for the 127th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 881/2002 of 27 May 2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban, and repealing Council Regulation (EC) No 467/2001 prohibiting the export of certain goods and services to Afghanistan, strengthening the flight ban and extending the freeze of funds and other financial resources in respect of the Taliban of Afghanistan,[^f00001] and in particular Article 7(1)(a) thereof,
+
+Whereas:
+
+(1)
+
+Annex I to Regulation (EC) No 881/2002 lists the persons, groups and entities covered by the freezing of funds and economic resources under that Regulation.
+
+(2)
+
+On 5 May 2010 the Sanctions Committee of the United Nations Security Council decided to remove three natural persons from its list of persons, groups and entities to whom the freezing of funds and economic resources should apply.
+
+(3)
+
+Annex I should therefore be updated accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Annex I to Regulation (EC) No 881/2002 is hereby amended as set out in the Annex to this Regulation.
+
+**Article 2.** This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 12 May 2010.
+
+*For the Commission, On behalf of the President,*
+
+João Vale de Almeida
+
+*Director-General for External Relations*
+
+## ANNEX
+
+Annex I to Regulation (EC) No 881/2002 is amended as follows:
+
+The following entries under the heading ‘Natural persons’ are deleted:
+
+- 1..
+
+  > Fathur Rohman **Al-Ghozhi** (*alias* (a) Al Ghozi, Fathur Rohman, (b) Al Ghozi, Fathur Rahman, (c) Al-Gozi, Fathur Rohman, (d) Al-Gozi, Fathur Rahman, (e) Alghozi, Fathur Rohman, (f) Alghozi, Fathur Rahman, (g) Al-Gozhi, Fathur Rohman, (h) Al-Gozhi, Fathur Rahman, (i) Randy Alih, (j) Randy Ali, (k) Alih Randy, (l) Randy Adam Alih, (m) Sammy Sali Jamil, (n) Sammy Salih Jamil, (o) Rony Azad, (p) Rony Azad Bin Ahad, (q) Rony Azad Bin Ahmad, (r) Rony Azad Bin Amad, (s) Edris Anwar Rodin, (t) Abu Saad, (u) Abu Sa’ad, (v) Freedom Fighter). Date of birth: 17.2.1971. Place of birth: Madiun, East Java, Indonesia. Nationality: Indonesian. Passport No: Philippines GG 672613. Other information: Reportedly killed in October 2003 in the Philippines.
+- 2..
+
+  > Huda **bin Abdul Haq** (*alias* (a) Ali Gufron, (b) Ali Ghufron, (c) Ali Gufron al Mukhlas, (d) Mukhlas, (e) Muklas, (f) Muchlas, (g) Sofwan). Date of birth: (a) 9.2.1960, (b) 2.2.1960. Place of birth: Solokuro subdistrict in Lamongan district, East Java province, Indonesia. Nationality: Indonesian. Other information: Reportedly deceased in November 2008. Date of designation referred to in Article 2a (4) (b): 9.9.2003.
+- 3..
+
+  > Imam **Samudra** (*alias* (a) Abdul Aziz ben Sihabudin, (b) Faiz Yunshar, (c) Abdul Azis, (d) Kudama, (e) Hendri, (f) Heri, (g) Fatih, (h) Abu Omar. Date of birth: 14.1.1970. Place of birth: Serang, Banten, Indonesia. Other information: Reportedly deceased in November 2008. Date of designation referred to in Article 2a (4) (b): 9.9.2003.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 139, 29.5.2002, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.139.01.0009.01.ENG).

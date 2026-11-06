@@ -1,0 +1,664 @@
+---
+title: Directive 2009/34/EC of the European Parliament and of the Council of 23 April 2009 relating to common provisions for both measuring instruments and methods of metrological control (Recast) (Text with EEA relevance)
+id: eudr/2009/34
+type: EuropeanUnionDirective
+category: euretained
+status: revised
+made_date: '2009-04-23'
+text_date: '2019-07-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/34
+pdf_urls:
+- http://www.legislation.gov.uk/eudr/2009/34/pdfs/eudr_20090034_adopted_en.pdf
+- http://www.legislation.gov.uk/eudr/2009/34/pdfs/eudr_20090034_2019-07-26_en.pdf
+- http://www.legislation.gov.uk/eudr/2009/34/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/34/EC of the European Parliament and of the Council of 23 April 2009 relating to common provisions for both measuring instruments and methods of metrological control (Recast) (Text with EEA relevance)
+
+> Text as at 2019-07-26.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Directive 2009/34/EC of the European Parliament and of the Council
+
+of 23 April 2009
+
+relating to common provisions for both measuring instruments and methods of metrological control
+
+(Recast)
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the European Economic and Social Committee[^f00001],
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty[^f00002],
+
+Whereas:
+
+(1)
+
+Council Directive 71/316/EEC of 26 July 1971 on the approximation of the laws of the Member States relating to common provisions for both measuring instruments and methods of metrological control[^f00003] has been substantially amended several times[^f00004]. Since further amendments are to be made, it should be recast in the interests of clarity.
+
+(2)
+
+In each Member State, mandatory provisions determine the technical characteristics of measuring instruments and the methods of metrological control. Those requirements differ from one Member State to another. Those differences hinder trade and may create unequal conditions of competition within the Community.
+
+(3)
+
+One of the objectives of controls in each Member State is to give assurance to customers that quantities delivered correspond to the price paid. Consequently, the aim of this Directive should not be to abolish those controls but to eliminate differences between rules in so far as these constitute a hindrance to trade.
+
+(4)
+
+Those hindrances to the functioning of the internal market can be reduced and eliminated if the same requirements apply in Member States, initially complementing national provisions in force and later, when the necessary conditions exist, replacing those provisions.
+
+(5)
+
+Even during the period when they coexist with national provisions, the Community requirements will enable firms to manufacture products which have uniform technical characteristics and can therefore be marketed and used throughout the Community after they have undergone EC controls.
+
+(6)
+
+Community technical requirements for design and functioning should ensure that instruments continuously give measurements that are sufficiently accurate for their intended purpose.
+
+(7)
+
+Compliance with technical requirements is usually confirmed by Member States before measuring instruments are placed on the market or used for the first time, and where appropriate when they are in service, such confirmation being effected in particular by means of pattern approval and verification procedures. In order to achieve free movement of such instruments within the Community, it is also necessary to provide for mutual recognition of controls among Member States and to establish appropriate EC pattern approval and initial verification procedures for this purpose as well as EC methods of metrological control in accordance with this Directive and with the relevant separate Directives.
+
+(8)
+
+The presence, on a measuring instrument or a product, of signs or marks showing that it has undergone the appropriate controls indicates that such instrument or product satisfies the relevant technical requirements of the Community, and therefore that when the instrument or product is imported or put into operation it is unnecessary to repeat the controls which have already been carried out.
+
+(9)
+
+National metrological rules cover numerous categories of measuring instruments and products. This Directive lays down the general provisions dealing, in particular, with EC pattern approval and initial verification procedures, as well as EC methods of metrological control. Implementing Directives covering the various categories of instruments and products will lay down the technical requirements as to design, functioning and accuracy, the control procedures and, where appropriate, the conditions under which Community technical requirements are to replace the national provisions in force.
+
+(10)
+
+The measures necessary for the implementation of this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission[^f00005].
+
+(11)
+
+In particular, the Commission should be empowered to amend Annexes I and II to this Directive and the annexes to the separate Directives. Since those measures are of general scope and are designed to amend non-essential elements of this Directive and the separate Directives, they must be adopted in accordance with the regulatory procedure with scrutiny provided for in Article 5a of Decision 1999/468/EC.
+
+(12)
+
+The new elements introduced into this Directive only concern the committee procedures. They therefore do not need to be transposed by the Member States.
+
+(13)
+
+This Directive should be without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Annex III, Part B,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+## CHAPTER I — BASIC PRINCIPLES
+
+**Article 1.** 1. This Directive shall apply to:
+
+- (a) instruments as defined in paragraph 2;
+- (b) units of measurement, the harmonisation of methods of measurement and metrological control and, where appropriate, the means required for application of such methods;
+- (c) the prescription, methods of measurement, metrological control and marking of quantities of pre-packaged products.
+
+2. For the purpose of this Directive, ‘instruments’ shall mean measuring instruments, components of measuring instruments, additional devices and measurement equipment.
+
+3. No Member State may, on the basis of this Directive and the separate Directives relating to it, prevent, prohibit, or restrict the placing on the market and/or entry into service of an instrument or of a product described in paragraph 1 if that instrument or product bears EC marks and/or signs in accordance with the conditions laid down in this Directive and in the separate Directives relating to the instrument or product in question.
+
+4. Member States shall attach the same value to EC pattern approval and initial verification as to the corresponding national measures.
+
+5. The separate Directives concerning the matters referred to in paragraph 1 shall specify:
+
+- in particular, the measurement procedures and characteristics of, and the technical requirements for, their design and functioning, as regards the instruments referred to in paragraph 1(a),
+- the requirements concerning points (b) and (c) of paragraph 1.
+
+6. The separate Directives may fix the date on which the existing national provisions are to be replaced by Community provisions.
+
+## CHAPTER II — EC PATTERN APPROVAL
+
+**Article 2.** 1. Member States shall grant EC pattern approval in accordance with the provisions of this Directive and of the relevant separate Directives.
+
+2. EC pattern approval of instruments shall constitute their admission to EC initial verification and, where the latter is not required, the authorisation to place them on the market and/or to put them into service. If the separate Directive(s) applicable to a category of instruments exempt(s) that category from EC pattern approval, the instruments in that category shall be admitted directly to EC initial verification.
+
+3. If their inspection equipment so permits, Member States shall grant EC pattern approval for every instrument which satisfies the requirements laid down in this Directive and the separate Directives relating to the instrument in question.
+
+4. An application for EC pattern approval may be made only by the manufacturer or his representative established within the Community. For one and the same instrument, application may be made in one Member State only.
+
+5. A Member State which has granted EC pattern approval shall take the necessary steps to ensure that it is kept informed of any modification of, or addition to, the approved pattern. It shall inform the other Member States of such alterations.
+
+Modifications of, or additions to, an approved pattern must receive additional EC pattern approval from the Member State which granted EC pattern approval, where such changes influence or might influence measurement results or the prescribed conditions for use of the instrument.
+
+However, in the case of a modified pattern, a new EC pattern approval shall be granted instead of an addition to the original EC pattern approval certificate if the pattern is modified after the provisions of this Directive or of the relevant separate Directive have been amended or adapted in such a way that the modified pattern could be approved only pursuant to the new provisions.
+
+**Article 3.** When EC pattern approval is granted for ancillary equipment, the approval shall specify:
+
+- ((a)) the patterns of instrument to which this equipment may be attached or in which it may be incorporated;
+- ((b)) the general conditions for the overall functioning of the instruments for which it is approved.
+
+**Article 4.** When an instrument has successfully completed the EC pattern approval examination laid down in this Directive and in the separate Directives relating to that instrument, the Member State which carried out that examination shall draw up an EC pattern approval certificate.
+
+That Member State shall forward that certificate to the applicant.
+
+In the cases provided for in Article 11 of this Directive or in a separate Directive, the applicant must, and in all other cases may, affix or cause to be affixed on each instrument conforming to the approved pattern the EC approval sign shown in the certificate.
+
+**Article 5.** 1. EC pattern approval shall be valid for 10 years. It may be extended for successive periods of 10 years. The number of instruments which may be manufactured in accordance with the approved pattern shall not be limited.
+
+EC pattern approvals granted on the basis of the provisions of this Directive and of a separate Directive may not be extended after the date of the entry into force of any amendment to, or adaptation of, those Community provisions, in cases where such EC pattern approvals could not have been granted on the basis of the new provisions.
+
+When EC pattern approval is not extended, that approval shall nevertheless continue to apply to instruments already in service.
+
+2. Where use is made of new techniques not provided for in a separate Directive, EC pattern approval with limited effect may be granted, after prior consultation of the other Member States.
+
+It may include the following restrictions:
+
+- (a) a limit on the number of instruments which may be covered by the approval;
+- (b) an obligation to notify the competent authorities of the places of installation;
+- (c) restrictions on use;
+- (d) special restrictions concerning the technique used.
+
+However, it may not be granted unless:
+
+- (a) the separate Directive for that category of instruments has come into force;
+- (b) no derogation has been made from the maximum permissible errors laid down in the separate Directives.
+
+The period of validity of such approval shall not exceed two years. It may be extended by up to three years.
+
+3.[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 6.** When EC pattern approval is not required for a category of instruments which meets the requirements of a separate Directive, the manufacturer may, on his own responsibility, affix to the instruments in this category the special sign described in point 3.3 of Annex I.
+
+**Article 7.** 1. The Member State which has granted EC pattern approval may withdraw it:
+
+- (a) if instruments for which this approval was granted do not conform to the approved pattern or to the provisions of the relevant separate Directive;
+- (b) if the metrological requirements specified in the certificate of approval or the provisions of Article 5(2) are not met;
+- (c) if it ascertains that approval was granted in an improper manner.
+
+2. The Member State which has granted EC pattern approval must withdraw it if the instruments constructed according to an approved pattern reveal in service a defect of a general nature which makes them unsuitable for their intended use.
+
+3. If the Member State which granted an EC pattern approval is informed by another Member State of the occurrence of one of the cases covered by paragraphs 1 and 2, it shall also take the measures provided for in those paragraphs, after consulting with that other Member State.
+
+4. The Member State which declares that the case referred to in paragraph 2 has arisen may forbid the placing on the market and putting into service of the instruments concerned until further notice.
+
+It shall immediately inform the other Member States and the Commission, stating the reasons on which its decision is based.
+
+The same procedure shall apply in the cases referred to in paragraph 1, with respect to instruments which have been exempted from EC initial verification, if the manufacturer, after due warning, does not bring the instruments into conformity with the approved pattern or with the requirements of the relevant separate Directive.
+
+5. If the Member State which granted the EC pattern approval disputes that the case referred to in paragraph 2 of which it has been informed has arisen, or disputes that the measures taken pursuant to paragraph 4 are justified, the Member States concerned shall endeavour to settle the dispute.
+
+The Commission shall be kept informed. It shall, where necessary, hold appropriate consultations with the aim of reaching a settlement.
+
+## CHAPTER III — INITIAL VERIFICATION
+
+**Article 8.** 1. EC initial verification constitutes the examination of a new or reconditioned instrument and the confirmation of its conformity to the approved pattern and/or to the requirements of this Directive and the separate Directives relating to the instrument in question. It is certified by the EC initial verification mark.
+
+2. EC initial verification of instruments may be carried out by a method other than unit checking in the cases specified in the separate Directives and in accordance with the procedures adopted.
+
+3. If their equipment so permits, Member States shall carry out EC initial verification of instruments submitted as having the measurement characteristics and satisfying the technical construction and functioning requirements laid down by the separate Directives relating to that category of instruments.
+
+4. In the case of instruments bearing the EC initial verification mark, the obligation imposed on Member States under Article 1(3) shall last until the end of the year following that in which the EC initial verification mark was affixed, unless separate Directives provide for a longer period.
+
+**Article 9.** 1. When an instrument is submitted for EC initial verification, the Member State carrying out the examination shall determine:
+
+- (a) whether the instrument belongs to a category exempt from EC pattern approval and, if so, whether it satisfies the technical construction and functioning requirements laid down by the separate Directives relating to that instrument;
+- (b) whether the instrument has received EC pattern approval and, if so, whether it conforms to the approved pattern, and to the separate Directives relating to that instrument, in force on the date of issue of that EC pattern approval.
+
+2. The examination carried out in EC initial verification relates in particular, in accordance with the separate Directives, to:
+
+- (a) the metrological characteristics;
+- (b) the maximum permissible errors;
+- (c) the construction, in so far as this guarantees that the measurement characteristics are not likely to deteriorate to any great extent under normal conditions of use;
+- (d) the presence of prescribed inscriptions and stamp plates or provisions for EC initial verification marking.
+
+**Article 10.** When an instrument has successfully undergone EC initial verification, in accordance with the requirements of this Directive and of the separate Directives, the EC partial or final verification marks described in Annex II, point 3 shall be affixed to that instrument under the responsibility of the Member State concerned in accordance with the rules laid down in that point.
+
+**Article 11.** When EC initial verification is not required for a category of instruments which meet the requirements of a separate Directive, the manufacturer shall, on his own responsibility, affix to the instruments in that category the special symbol described in point 3.4 of Annex I.
+
+## CHAPTER IV — PROVISIONS COMMON TO EC PATTERN APPROVAL AND EC INITIAL VERIFICATION
+
+**Article 12.** Member States shall take all necessary measures to prevent the use on instruments of marks or inscriptions liable to be confused with the EC signs or marks.
+
+**Article 13.** Each Member State shall notify the other Member States and the Commission of the services, agencies and institutes which are duly authorised to carry out the examinations provided for in this Directive and in the separate Directives, to issue the EC pattern approval certificates and to affix the EC initial verification marks.
+
+**Article 14.** Member States may require that the prescribed inscriptions be drawn up in their official language or languages.
+
+## CHAPTER V — CONTROL OF INSTRUMENTS IN SERVICE
+
+**Article 15.** The separate Directives shall specify the control requirements for instruments in service which bear EC signs or marks and in particular the maximum errors permitted in service. If national provisions in respect of instruments which do not bear EC signs or marks lay down less stringent requirements, the latter may serve as criteria for the controls.
+
+## CHAPTER VI — ADJUSTMENT OF DIRECTIVES TO TECHNICAL PROGRESS
+
+**Article 16.**[^c000002] The Commission is empowered to adopt delegated acts in accordance with Article 16a amending Annexes I and II to adapt them to technical progress.
+
+**Article 16a.**[^c000003] 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Article 16 shall be conferred on the Commission for a period of five years from 26 July 2019 . The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3. The delegation of power referred to in Article 16 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making [^f00006] .
+
+5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6. A delegated act adopted pursuant to Article 16 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+**No longer in force.**
+
+**Article 17.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## CHAPTER VII — FINAL PROVISIONS
+
+**Article 18.** All decisions taken pursuant to the provisions adopted in implementation of this Directive and of the separate Directives on the instruments in question and refusing to grant or extend EC pattern approval, withdrawing such approval, refusing to carry out EC initial verification or prohibiting placing on the market or entry into service shall state the reasons on which they are based. Such refusal, withdrawal or prohibition shall be notified to the party concerned, who shall at the same time be informed of the remedies available to him under the laws in force in the Member States and of the time limits allowed for the exercise of such remedies.
+
+**Article 19.** Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+**Article 20.** Directive 71/316/EEC, as amended by the acts listed in Annex III, Part A, is repealed, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Annex III, Part B.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex IV.
+
+**Article 21.** This Directive shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
+
+**Article 22.** This Directive is addressed to the Member States.
+
+## ANNEX I — EC PATTERN APPROVAL
+
+1\.
+
+Application for EC approval
+
+1.1.
+
+The application and the correspondence relating to it shall be drawn up in an official language in accordance with the laws of the Member State to which the application is made. The Member State has the right to require that the annexed documents should also be written in the same official language.
+
+The applicant shall send simultaneously to all Member States a copy of his application.
+
+1.2.
+
+The application shall contain the following information:
+
+- ((a)) the name and address of the manufacturer or the firm, or of his or its authorised representative or of the applicant;
+- ((b)) the category of instrument;
+- ((c)) the intended use;
+- ((d)) the measurement characteristics;
+- ((e)) the commercial designation, if any, or the type.
+
+1.3.
+
+The application shall be accompanied by the documents necessary for its evaluation, in duplicate, and in particular:
+
+- a description in particular of:
+  - ((a)) the construction and operation of the instrument;
+  - ((b)) the protecting arrangements ensuring correct working;
+  - ((c)) the devices for regulation and adjustment;
+  - ((d)) the intended locations for:
+    - verification marks,
+    - seals (where applicable);
+- general arrangement drawings and, where necessary, detailed drawings of important components;
+- a schematic drawing illustrating the principles of operation and, where necessary, a photograph.
+
+1.4.
+
+The application shall be accompanied, where appropriate, by documents relevant to the national approvals already granted.
+
+2\.
+
+Examination for EC approval
+
+2.1.
+
+The examination shall comprise:
+
+- a study of the documents and an examination of the measurement characteristics of the pattern in the laboratories of the metrological service, in approved laboratories or at the place of manufacture, delivery or installation;
+- if the measurement characteristics of the pattern are known in detail, only an examination of the documents submitted.
+
+2.2.
+
+The examination shall cover the entire performance of the instrument under normal conditions of use. Under such conditions, that instrument must maintain the measurement characteristics required.
+
+2.3.
+
+The nature and scope of the examination mentioned in point 2.1 may be specified by separate Directives.
+
+2.4.
+
+The metrological service may require the applicant to put at its disposal the standards and the appropriate means in terms of material and assisting personnel for the performance of the approval tests.
+
+3\.
+
+EC certificate and sign of approval
+
+3.1.
+
+The certificate shall give the results of the examination of the pattern and shall specify the other requirements which must be complied with. It shall be accompanied by descriptions, drawings and diagrams necessary to identify the pattern and to explain its functioning. The sign of approval provided for in Article 4 shall be a stylised letter ε containing:
+
+- in the upper part, the distinguishing capital letter(s) of the Member State which granted the approval (B for Belgium, BG for Bulgaria, CZ for the Czech Republic, DK for Denmark, D for Germany, EST for Estonia, IRL for Ireland, EL for Greece, E for Spain, F for France, I for Italy, CY for Cyprus, LV for Latvia, LT for Lithuania, L for Luxembourg, H for Hungary, M for Malta, NL for Netherlands, A for Austria, PL for Poland, P for Portugal, RO for Romania, SI for Slovenia, SK for Slovakia, FI for Finland, S for Sweden, UK for the United Kingdom) and the last two digits of the year of approval,
+- in the lower part, a designation to be determined by the metrological service which granted approval (an identification number).
+
+An example of this approval sign is shown in point 6.1.
+
+3.2.
+
+In the case of EC limited approval, the letter P, having the same dimensions as the stylised letter ε, shall be placed before this letter.
+
+An example of this limited approval sign is shown in point 6.2.
+
+3.3.
+
+The sign mentioned in Article 6 is the same as the EC approval sign, except that the stylised letter ε is reversed symmetrically about a vertical axis and bears no other indication unless the separate Directives stipulate otherwise.
+
+An example of this sign is shown in point 6.3.
+
+3.4.
+
+The sign mentioned in Article 11 is the same as the EC approval sign in a hexagon.
+
+An example of this sign is shown in point 6.4.
+
+3.5.
+
+The signs mentioned in points 3.1 to 3.4 and affixed by the manufacturer in accordance with the provisions of this Directive must be affixed at a visible point of each instrument and all ancillary equipment submitted for verification, and must be legible and indelible. If their affixation presents technical difficulties, exceptions may be made in separate Directives or accepted after agreement among the metrological services of Member States has been reached.
+
+4\.
+
+Depositing of a sample instrument
+
+In the cases mentioned by separate Directives, the service which granted the approval may, if it considers this necessary, request the deposition of the sample instrument for which approval has been granted. Instead of that sample instrument, the service may authorise the depositing of parts of the instrument, of scale models or of drawings, and will mention this on the EC certificate of approval.
+
+5\.
+
+Announcement of approval
+
+5.1.
+
+At the same time as the party concerned is notified, copies of the EC certificate of approval shall be sent to the Commission and to the other Member States; the latter can also obtain copies of the reports of the metrological examinations if they wish.
+
+5.2.
+
+Withdrawal of EC pattern approval and other communications concerning the extent and validity of EC pattern approval shall also be subject to the announcement procedure mentioned in point 5.1.
+
+5.3.
+
+A Member State which refuses to grant EC pattern approval shall inform the other Member States and the Commission of its decision.
+
+6\.
+
+Signs relative to EC pattern approval
+
+6.1.
+
+Sign of EC pattern approval
+
+|  |  |  |
+| --- | --- | --- |
+| Example: | [image: see source](https://www.legislation.gov.uk/eudr/2009/34/images/eudr_20090034_2019-07-26_en_001) | EC pattern approval granted by the Metrological Service of Germany in 1971 (see point 3.1, first indent).<br>Identification number of the EC pattern approval (see point 3.1, second indent). |
+
+6.2.
+
+Sign of EC limited pattern approval (see point 3.2)
+
+|  |  |  |
+| --- | --- | --- |
+| Example: | [image: see source](https://www.legislation.gov.uk/eudr/2009/34/images/eudr_20090034_2019-07-26_en_002) | EC limited pattern approval granted by the Metrological Service of Germany in 1971.<br>Identification number of the EC limited pattern approval. |
+
+6.3.
+
+Sign of exemption from EC pattern approval (see point 3.3)
+
+|  |  |
+| --- | --- |
+| Example: | [image: see source](https://www.legislation.gov.uk/eudr/2009/34/images/eudr_20090034_2019-07-26_en_003) |
+
+6.4.
+
+Sign of EC pattern approval for instruments exempt from EC initial verification (see point 3.4)
+
+|  |  |  |
+| --- | --- | --- |
+| Example: | [image: see source](https://www.legislation.gov.uk/eudr/2009/34/images/eudr_20090034_2019-07-26_en_004) | EC pattern approval granted by the Metrological Service of Germany in 1971.<br>Identification number of the EC pattern approval. |
+
+## ANNEX II — EC INITIAL VERIFICATION
+
+1\.
+
+General points
+
+1.1.
+
+The EC initial verification may be carried out in one or more stages (usually two).
+
+1.2.
+
+Subject to the provisions of the separate Directives:
+
+- the EC initial verification shall be carried out in one stage on instruments which constitute a whole on leaving the factory, that is to say instruments which, theoretically, can be transferred to their place of installation without first having to be dismantled;
+- the EC initial verification shall be carried out in two or more stages for instruments the correct functioning of which depends on the conditions in which they are installed or used;
+- the first stage of the verification procedure must ensure, in particular, that the instrument conforms to the approved EC pattern or, in the case of instruments exempt from pattern approval, that they conform to the relevant provisions.
+
+2\.
+
+Place of the EC initial verification
+
+2.1.
+
+If the separate Directives do not specify the place where verification is to be carried out, instruments which have to be verified in only one stage shall be verified at the place chosen by the metrological service concerned.
+
+2.2.
+
+Instruments which have to be verified in two or more stages shall be verified by the metrological service territorially competent.
+
+- The last stage of verification must be carried out at the place of installation.
+- The other stages of verification shall be carried out as laid down in point 2.1.
+
+2.3.
+
+In particular, when the verification takes place outside the office of verification the metrological service carrying out the verification may require the applicant:
+
+- to put at its disposal the standards and the appropriate means in terms of material and assisting personnel for the performance of the verification,
+- to provide a copy of the EC certificate of approval.
+
+3\.
+
+EC initial verification marks
+
+3.1.
+
+Description of EC initial verification marks
+
+3.1.1.
+
+Subject to the provisions of separate Directives, EC initial verification marks which are affixed in accordance with point 3.3 shall be as follows:
+
+- the final EC verification mark shall be composed of two stamps:
+  - ((a)) the first consists of a lower-case letter ‘e’ containing:
+    - in the upper half, the distinguishing capital letter(s) of the Member State where the original check is carried out (B for Belgium, BG for Bulgaria, CZ for the Czech Republic, DK for Denmark, D for Germany, EST for Estonia, IRL for Ireland, EL for Greece, E for Spain, F for France, I for Italy, CY for Cyprus, LV for Latvia, LT for Lithuania, L for Luxembourg, H for Hungary, M for Malta, NL for Netherlands, A for Austria, PL for Poland, P for Portugal, RO for Romania, SI for Slovenia, SK for Slovakia, FI for Finland, S for Sweden, UK for the United Kingdom) together, where necessary, with one or two figures identifying a territorial or administrative subdivision,
+    - in the lower half, the identification number of the verifying agent or office;
+  - ((b)) the second stamp shall consist of the last two digits of the year of the verification, in a hexagon;
+- the mark of EC partial verification shall consist solely of the first stamp. It shall also serve as a seal.
+
+3.2.
+
+Shape and dimensions of marks
+
+3.2.1.
+
+The attached drawings show the shape, dimensions and outline of the letters and numbers for the EC initial verification marks as laid down in point 3.1; the first two drawings show the various parts of the stamp and the third is an example of a stamp. The dimensions given in the drawings are relative values; they are a function of the diameter of the circle described about the lower-case letter ‘e’ and about the field of the hexagon.
+
+The actual diameters of the circles described about the marks are 1,6 mm, 3,2 mm, 6,3 mm, 12,5 mm.
+
+3.2.2.
+
+The metrological services of Member States shall mutually exchange the original drawings of the EC initial verification marks, conforming to the models in the annexed drawings.
+
+3.3.
+
+Affixing the marks
+
+3.3.1.
+
+The final EC verification mark shall be affixed at the appointed location on the instrument when the latter has been completely verified and is recognised to conform to EC requirements.
+
+3.3.2.
+
+The partial EC verification mark shall be affixed:
+
+- when verification is made in several stages, on the instrument or part of an instrument which fulfils the conditions laid down for operations other than those at the place of installation, at the place where the stamp-date is affixed or in any other place specified in the separate Directives;
+- in all cases as a seal, in the places specified in the separate Directives.
+
+[image: see source](https://www.legislation.gov.uk/eudr/2009/34/images/eudr_20090034_2019-07-26_en_005) [image: see source](https://www.legislation.gov.uk/eudr/2009/34/images/eudr_20090034_2019-07-26_en_006) [image: see source](https://www.legislation.gov.uk/eudr/2009/34/images/eudr_20090034_2019-07-26_en_007) [image: see source](https://www.legislation.gov.uk/eudr/2009/34/images/eudr_20090034_2019-07-26_en_008)
+
+## ANNEX III
+
+### PART A
+
+**Repealed Directive with list of its successive amendments**
+
+(referred to in Article 20)
+
+|  |  |
+| --- | --- |
+| Council Directive 71/316/EEC<br>([OJ L 202, 6.9.1971, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1971.202.01.0001.01.ENG)). |  |
+| 1972 Act of Accession, Annex I, point X.12<br>([OJ L 73, 27.3.1972, p. 118](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1972.073.01.0118.01.ENG)). |  |
+| Council Directive 72/427/EEC<br>([OJ L 291, 28.12.1972, p. 156](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1972.291.01.0156.01.ENG)). |  |
+| 1979 Act of Accession, Annex I, point X.A<br>([OJ L 291, 19.11.1979, p. 108](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1979.291.01.0108.01.ENG)). |  |
+| Council Directive 83/575/EEC<br>([OJ L 332, 28.11.1983, p. 43](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1983.332.01.0043.01.ENG)). |  |
+| 1985 Act of Accession, Annex I, point IX.A.7<br>([OJ L 302, 15.11.1985, p. 212](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1985.302.01.0212.01.ENG)). |  |
+| Council Directive 87/354/EEC<br>([OJ L 192, 11.7.1987, p. 43](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.192.01.0043.01.ENG)). | Only as regards references made to Directive 71/316/EEC in Article 1 and Annex, point 4 |
+| Council Directive 87/355/EEC<br>([OJ L 192, 11.7.1987, p. 46](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.192.01.0046.01.ENG)). |  |
+| Council Directive 88/665/EEC<br>([OJ L 382, 31.12.1988, p. 42](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1988.382.01.0042.01.ENG)). | Only Article 1(1) |
+| 1994 Act of Accession, Annex I, point XI.C.VII.1<br>([OJ C 241, 29.8.1994, p. 211](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.1994.241.01.0211.01.ENG)). |  |
+| Council Regulation (EC) No 807/2003<br>([OJ L 122, 16.5.2003, p. 36](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.122.01.0036.01.ENG)). | Only Annex III, point 5 |
+| 2003 Act of Accession, Annex II, point I.D.1<br>([OJ L 236, 23.9.2003, p. 64](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.236.01.0064.01.ENG)). |  |
+| Council Directive 2006/96/EC<br>([OJ L 363, 20.12.2006, p. 81](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.363.01.0081.01.ENG)). | Only as regards references made to Directive 71/316/EEC in Article 1 and Annex, point B.1 |
+| Commission Directive 2007/13/EC<br>([OJ L 73, 13.3.2007, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.073.01.0010.01.ENG)). |  |
+
+### PART B
+
+**Time limits for transposition into national law**
+
+(referred to in Article 20)
+
+| Directive | Time limit for transposition |
+| --- | --- |
+| 71/316/EEC | 30 January 1973 |
+| 83/575/EEC | 1 January 1985 |
+| 87/354/EEC | 31 December 1987 |
+| 87/355/EEC | 31 December 1987 |
+| 2006/96/EC | 1 January 2007 |
+| 2007/13/EC | 9 March 2008 |
+
+## ANNEX IV
+
+**CORRELATION TABLE**
+
+| Directive 71/316/EEC | This Directive |
+| --- | --- |
+| Article 1(1)(a) | Article 1(1), point (a) and Article 1(2) |
+| Article 1(1)(b) | Article 1(1), point (b) |
+| Article 1(1)(c) | Article 1(1), point (c) |
+| Article 1(2) | Article 1(3) |
+| Article 1(3) | Article 1(4) |
+| Article 1(4), first subparagraph | Article 1(5) |
+| Article 1(4), second subparagraph | Article 1(6) |
+| Article 2(1) | Article 2(2) |
+| Article 2(2) | Article 2(3) |
+| Article 2(3) | Article 2(4) |
+| Article 2(4) | Article 2(5) |
+| Article 2(5) | Article 2(1) |
+| Article 3, introductory wording | Article 3, introductory wording |
+| Article 3, first indent | Article 3, point (a) |
+| Article 3, second indent | Article 3, point (b) |
+| Article 4, first sentence | Article 4, first and second paragraphs |
+| Article 4, second sentence | Article 4, third paragraph |
+| Article 5(1) | Article 5(1) |
+| Article 5(2), first subparagraph | Article 5(2), first subparagraph |
+| Article 5(2), second subparagraph, introductory wording | Article 5(2), second subparagraph, introductory wording |
+| Article 5(2), second subparagraph, first indent | Article 5(2), second subparagraph, point (a) |
+| Article 5(2), second subparagraph, second indent | Article 5(2), second subparagraph, point (b) |
+| Article 5(2), second subparagraph, third indent | Article 5(2), second subparagraph, point (c) |
+| Article 5(2), second subparagraph, fourth indent | Article 5(2), second subparagraph, point (d) |
+| Article 5(2), third subparagraph, introductory wording | Article 5(2), third subparagraph, introductory wording |
+| Article 5(2), third subparagraph, first indent | Article 5(2), third subparagraph, point (a) |
+| Article 5(2), third subparagraph, second indent | Article 5(2), third subparagraph, point (b) |
+| Article 5(2), fourth subparagraph | Article 5(2), fourth subparagraph |
+| Article 5(3) | Article 5(3) |
+| Article 6 | Article 6 |
+| Article 7(1), (2) and (3) | Article 7(1), (2) and (3) |
+| Article 7(4), first sentence | Article 7(4), first subparagraph |
+| Article 7(4), second sentence | Article 7(4), second subparagraph |
+| Article 7(4), third sentence | Article 7(4), third subparagraph |
+| Article 7(5) | Article 7(5) |
+| Article 8(1), point (a) | Article 8(1) |
+| Article 8(1), point (b) | Article 8(2) |
+| Article 8(2) | Article 8(3) |
+| Article 8(3) | Article 8(4) |
+| Article 9(1) | Article 9(1) |
+| Article 9(2), introductory wording | Article 9(2), introductory wording |
+| Article 9(2), first indent | Article 9(2), point (a) |
+| Article 9(2), second indent | Article 9(2), point (b) |
+| Article 9(2), third indent | Article 9(2), point (c) |
+| Article 9(2), fourth indent | Article 9(2), point (d) |
+| Articles 10 and 11 | Articles 10 and 11 |
+| Articles 12, 13 and 14 | Articles 12, 13 and 14 |
+| Article 15 | Article 15 |
+| Article 16, first sentence | Article 16, first paragraph |
+| Article 16, second sentence | Article 16, second paragraph |
+| Article 17 | — |
+| Article 18(1) | Article 17(1) |
+| Article 18(2), first subparagraph | Article 17(2) |
+| Article 18(2), second subparagraph | — |
+| Article 18(3) | — |
+| Article 19 | Article 18 |
+| Article 20(1) | — |
+| Article 20(2) | Article 19 |
+| — | Articles 20 and 21 |
+| Article 21 | Article 22 |
+| Annex I | Annex I |
+| Points 1 and 1.1 | Points 1 and 1.1 |
+| Point 1.2, introductory wording | Point 1.2, introductory wording |
+| Point 1.2, first indent | Point 1.2(a) |
+| Point 1.2, second indent | Point 1.2(b) |
+| Point 1.2, third indent | Point 1.2(c) |
+| Point 1.2, fourth indent | Point 1.2(d) |
+| Point 1.2, fifth indent | Point 1.2(e) |
+| Point 1.3 | Point 1.3 |
+| Point 1.3.1, introductory wording | Point 1.3.1, introductory wording |
+| Point 1.3.1, first indent | Point 1.3.1(a) |
+| Point 1.3.1, second indent | Point 1.3.1(b) |
+| Point 1.3.1, third indent | Point 1.3.1(c) |
+| Point 1.3.1, fourth indent | Point 1.3.1(d) |
+| Point 1.3.2 to Point 5 | Point 1.3.2 to Point 5 |
+| Point 5.2 | Point 5.1 |
+| Point 5.3 | Point 5.2 |
+| Point 5.4 | Point 5.3 |
+| Point 6 to Point 6.4 | Point 6 to Point 6.4 |
+| Annex II | Annex II |
+| — | Annex III |
+| — | Annex IV |
+
+## Annotations
+
+[^f00001]: Footnote: Opinion of 22 October 2008 (not yet published in the Official Journal).
+
+[^f00002]: Footnote: Opinion of the European Parliament of 4 December 2008 (not yet published in the Official Journal) and Council Decision of 23 March 2009.
+
+[^f00003]: Footnote: [OJ L 202, 6.9.1971, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1971.202.01.0001.01.ENG).
+
+[^f00004]: Footnote: See Annex III, Part A.
+
+[^f00005]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
+
+[^c000001]: Textual amendment: Deleted by [Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1243).
+
+[^c000002]: Textual amendment: Substituted by [Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1243).
+
+[^c000003]: Textual amendment: Inserted by [Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1243).
+
+[^f00006]: Footnote: [OJ L 123, 12.5.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.123.01.0001.01.ENG)[^c000003] .

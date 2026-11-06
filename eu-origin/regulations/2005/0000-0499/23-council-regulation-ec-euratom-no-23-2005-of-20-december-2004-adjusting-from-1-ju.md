@@ -1,0 +1,78 @@
+---
+title: Council Regulation (EC, Euratom) No 23/2005 of 20 December 2004 adjusting, from 1 July 2004, the rate of contribution to the pension scheme of officials and other servants of the European Communities and, from 1 January 2005, the interest rate used for transfers between the Community scheme and national pension schemes
+id: eur/2005/23
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2004-12-20'
+text_date: '2004-12-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2005/23
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2005/23/pdfs/eur_20050023_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2005/23/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EC, Euratom) No 23/2005 of 20 December 2004 adjusting, from 1 July 2004, the rate of contribution to the pension scheme of officials and other servants of the European Communities and, from 1 January 2005, the interest rate used for transfers between the Community scheme and national pension schemes
+
+> Text as at 2004-12-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Regulation (EC, Euratom) No 23/2005
+
+of 20 December 2004
+
+adjusting, from 1 July 2004, the rate of contribution to the pension scheme of officials and other servants of the European Communities and, from 1 January 2005, the interest rate used for transfers between the Community scheme and national pension schemes
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Staff Regulations of officials of the European Communities and to the Conditions of employment of other servants of the European Communities, as laid down by Regulation (EEC, Euratom, ECSC) No 259/68[^f00001], as last amended by Regulation (EC, Euratom) No 723/2004[^f00002], and in particular Articles 83 and 83a of the Staff Regulations and Annex XII thereto,
+
+Having regard to the proposal presented by the Commission after consulting the Staff Regulations Committee,
+
+Whereas:
+
+(1)
+
+In accordance with Article 13 of Annex XII to the Staff Regulations, on 1 September 2004 Eurostat submitted a report on the 2004 five-yearly actuarial assessment of the pension scheme updating the parameters referred to in that Annex.
+
+(2)
+
+On the basis of that report, the rate of contribution required to maintain actuarial balance of the pension scheme of officials and other servants of the European Communities should be adjusted. Under Article 2 of Annex XII, the 2004 adjustment may not exceed 9,75 %.
+
+(3)
+
+The rate referred to in Articles 4 and 8 of Annex VIII to the Staff Regulations, and in Articles 40 and 110 of the Conditions of employment of other servants, should be amended in accordance with Article 12 of Annex XII,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** With effect from 1 July 2004, the rate of the contribution referred to in Article 83(2) of the Staff Regulations shall be 9,75 %.
+
+**Article 2.** With effect from 1 January 2005, the interest rate referred to in Articles 4 and 8 of Annex VIII to the Staff Regulations and in Articles 40 and 110 of the Conditions of employment of other servants shall be 3,9 %.
+
+**Article 3.** This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 20 December 2004.
+
+*For the Council*
+
+*The President*
+
+P. van Geel
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 56, 4.3.1968, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1968.056.01.0001.01.ENG).
+
+[^f00002]: Footnote: [OJ L 124, 27.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.124.01.0001.01.ENG).

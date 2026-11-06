@@ -1,0 +1,82 @@
+---
+title: Commission Regulation (EC) No 495/2005 of 30 March 2005 derogating from Regulation (EC) No 824/2000 as regards the period for delivering cereals into intervention in some Member States in the 2004/2005 marketing year
+id: eur/2005/495
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2005-03-30'
+text_date: '2005-03-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2005/495
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2005/495/pdfs/eur_20050495_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2005/495/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 495/2005 of 30 March 2005 derogating from Regulation (EC) No 824/2000 as regards the period for delivering cereals into intervention in some Member States in the 2004/2005 marketing year
+
+> Text as at 2005-03-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 495/2005
+
+of 30 March 2005
+
+derogating from Regulation (EC) No 824/2000 as regards the period for delivering cereals into intervention in some Member States in the 2004/2005 marketing year
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 1784/2003 of 29 September 2003 on the common organisation of the market in cereals[^f00001], and in particular Article 6 thereof,
+
+Whereas:
+
+(1)
+
+Under Commission Regulation (EC) No 824/2000 of 19 April 2000 establishing procedures for the taking-over of cereals by intervention agencies and laying down methods of analysis for determining the quality of cereals[^f00002], should an offer be admissible, operators are be informed as soon as possible of the delivery schedule. To this end, under Article 4(3) of that Regulation the final delivery to the intervention centre for which the offer is made must take place not later than the end of the fourth month following the month during which the offer was received.
+
+(2)
+
+The 2004/2005 marketing year is the first year of application of the intervention mechanism for cereals in the Member States which joined the European Community on 1 May 2004.
+
+(3)
+
+Good weather conditions led to a bumper harvest in 2004 in the new Member States, resulting in domestic market prices well below the intervention price. As a result, since the intervention period was opened in November 2004, relatively large quantities of cereals have been offered for intervention. Due to the large quantities offered for intervention and their geographical spread, it is not possible to comply with the delivery deadline of 31 March 2005. To allow sufficient quantities of cereals offered to be taken over, the delivery period should be extended, and a derogation should therefore be made from Regulation (EC) No 824/2000.
+
+(4)
+
+Given the urgency of the market situation, which requires immediate measures, provision should be made for the immediate application of the measures provided for in this Regulation.
+
+(5)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Notwithstanding the third subparagraph of Article 4(3) of Regulation (EC) No 824/2000, in the 2004/2005 marketing year the last delivery of cereals offered for intervention in the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia must take place not later than the end of the sixth month following the month during which the offer was received, and in any event not later than 31 July 2005.
+
+**Article 2.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 30 March 2005.
+
+*For the Commission*
+
+Mariann Fischer Boel
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 270, 21.10.2003, p. 78](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.270.01.0078.01.ENG).
+
+[^f00002]: Footnote: [OJ L 100, 20.4.2000, p. 31](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.100.01.0031.01.ENG). Regulation as last amended by Regulation (EC) No 777/2004 ([OJ L 123, 27.4.2004, p. 50](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.123.01.0050.01.ENG)).

@@ -1,0 +1,44 @@
+---
+title: Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom, section Article 22
+act: Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom
+section: Article 22
+status: revised
+text_date: '2014-01-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2013/59/section/Article 22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom, section Article 22
+
+> Text as at 2014-01-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 22. Practices involving the deliberate exposure of humans for non-medical imaging purposes
+
+*Extent: E+W+S+N.I.*
+
+1. Member States shall ensure the identification of practices involving non-medical imaging exposure, in particular taking into account the practices included in Annex V.
+
+2. Member States shall ensure that special attention is given to the justification of practices involving non-medical imaging exposure, in particular:
+
+- (a) all types of practices involving non-medical imaging exposure shall be justified before being generally accepted;
+- (b) each particular application of a generally accepted type of practice shall be justified;
+- (c) all individual non-medical imaging exposure procedures using medical radiological equipment shall be justified in advance, taking into account the specific objectives of the procedure and the characteristics of the individual involved;
+- (d) the general and particular justification of practices involving non-medical imaging exposure, as specified in (a) and (b), may be subject to review;
+- (e) circumstances warranting non-medical imaging exposures, without individual justification of each exposure, shall be subject to regular review.
+
+3. Member States may exempt justified practices involving non-medical imaging exposure using medical radiological equipment from the requirement for dose constraints according to point (b) of Article 6(1) and from the dose limits set out in Article 12.
+
+4. Where a Member State has determined that a particular practice involving non-medical imaging exposure is justified, it shall ensure that:
+
+- (a) the practice is subject to authorisation;
+- (b) requirements for the practice, including criteria for individual implementation, are established by the competent authority, in cooperation with other relevant bodies and medical scientific societies, as appropriate;
+- (c) for procedures using medical radiological equipment
+  - ((i)) relevant requirements identified for medical exposure as set out in Chapter VII are applied, including those for equipment, optimisation, responsibilities, training and special protection during pregnancy and the appropriate involvement of the medical physics expert;
+  - ((ii)) where appropriate, specific protocols, consistent with the objective of the exposure and required image quality, are put in place;
+  - ((iii)) where practicable, specific diagnostic reference levels are put in place;
+- (d) for procedures not using medical radiological equipment, dose constraints are significantly below the dose limit for members of the public;
+- (e) information is provided to and consent sought from the individual to be exposed, allowing for cases where the law enforcement authorities may proceed without consent of the individual according to national legislation;

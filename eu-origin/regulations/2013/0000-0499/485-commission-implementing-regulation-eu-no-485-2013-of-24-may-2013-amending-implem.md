@@ -1,0 +1,89 @@
+---
+title: Commission Implementing Regulation (EU) No 485/2013 of 24 May 2013 amending Implementing Regulation (EU) No 540/2011, as regards the conditions of approval of the active substances clothianidin, thiamethoxam and imidacloprid, and prohibiting the use and sale of seeds treated with plant protection products containing those active substances (Text with EEA relevance)
+id: eur/2013/485
+type: EuropeanUnionRegulation
+category: euretained
+status: repealed
+made_date: '2013-05-24'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2013/485
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2013/485/pdfs/eur_20130485_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2013/485/pdfs/eur_20130485_2018-12-19_en.pdf
+- http://www.legislation.gov.uk/eur/2013/485/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) No 485/2013 of 24 May 2013 amending Implementing Regulation (EU) No 540/2011, as regards the conditions of approval of the active substances clothianidin, thiamethoxam and imidacloprid, and prohibiting the use and sale of seeds treated with plant protection products containing those active substances (Text with EEA relevance)
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Commission Implementing Regulation (EU) No 485/2013
+
+of 24 May 2013
+
+amending Implementing Regulation (EU) No 540/2011, as regards the conditions of approval of the active substances clothianidin, thiamethoxam and imidacloprid, and prohibiting the use and sale of seeds treated with plant protection products containing those active substances
+
+(Text with EEA relevance) (revoked)
+
+[^key-085a8e4b812f3e16ff8136cc901d33d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 1. Amendment to Implementing Regulation (EU) No 540/2011[^key-085a8e4b812f3e16ff8136cc901d33d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 2. Prohibition of placing on the market of treated seeds[^key-085a8e4b812f3e16ff8136cc901d33d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 3. Transitional measures[^key-085a8e4b812f3e16ff8136cc901d33d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 4. Period of grace[^key-085a8e4b812f3e16ff8136cc901d33d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 5. Entry into force[^key-085a8e4b812f3e16ff8136cc901d33d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-085a8e4b812f3e16ff8136cc901d33d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Amendments to the Annex to Implementing Regulation (EU) No 540/2011[^key-085a8e4b812f3e16ff8136cc901d33d3]
+
+[^key-085a8e4b812f3e16ff8136cc901d33d3]1.
+
+The column ‘Specific provisions’ of row 121, Clothianidin, of Part A of the Annex to Implementing Regulation (EU) No 540/2011 is replaced by the following:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-085a8e4b812f3e16ff8136cc901d33d3]2.
+
+The column ‘Specific provisions’ of row 140, Thiamethoxam of Part A of the Annex to Implementing Regulation (EU) No 540/2011 is replaced by the following:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-085a8e4b812f3e16ff8136cc901d33d3]3.
+
+The column ‘Specific provisions’ of row 216, Imidacloprid, of Part A of the Annex to Implementing Regulation (EU) No 540/2011 is replaced by the following:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II — List of seeds, as referred to in Article 2[^key-085a8e4b812f3e16ff8136cc901d33d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-085a8e4b812f3e16ff8136cc901d33d3]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -1,0 +1,76 @@
+---
+title: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, section Article 59
+act: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use
+section: Article 59
+status: revised
+text_date: '2019-07-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2001/83/section/Article 59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, section Article 59
+
+> Text as at 2019-07-26.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Article 59.**[^c000002] 1. The package leaflet shall be drawn up in accordance with the summary of the product characteristics; it shall include, in the following order:
+
+- (a) for the identification of the medicinal product:
+  - ((i)) the name of the medicinal product followed by its strength and pharmaceutical form, and, if appropriate, whether it is intended for babies, children or adults. The common name shall be included where the product contains only one active substance and if its name is an invented name;
+  - ((ii)) the pharmaco-therapeutic group or type of activity in terms easily comprehensible for the patient;
+- (b) the therapeutic indications;
+- (c) a list of information which is necessary before the medicinal product is taken:
+  - ((i)) contra-indications;
+  - ((ii)) appropriate precautions for use;
+  - ((iii)) forms of interaction with other medicinal products and other forms of interaction (e.g. alcohol, tobacco, foodstuffs) which may affect the action of the medicinal product;
+  - ((iv)) special warnings;
+- (d) the necessary and usual instructions for proper use, and in particular:
+  - ((i)) the dosage,
+  - ((ii)) the method and, if necessary, route of administration;
+  - ((iii)) the frequency of administration, specifying if necessary the appropriate time at which the medicinal product may or must be administered;
+
+  and, as appropriate, depending on the nature of the product:
+
+  - ((iv)) the duration of treatment, where it should be limited;
+  - ((v)) the action to be taken in case of an overdose (such as symptoms, emergency procedures);
+  - ((vi)) what to do when one or more doses have not been taken;
+  - ((vii)) indication, if necessary, of the risk of withdrawal effects;
+  - ((viii)) a specific recommendation to consult the doctor or the pharmacist, as appropriate, for any clarification on the use of the product;
+- (e)[^c000005] a description of the adverse reactions which may occur under normal use of the medicinal product and, if necessary, the action to be taken in such a case;
+- (f) a reference to the expiry date indicated on the label, with:
+  - ((i)) a warning against using the product after that date;
+  - ((ii)) where appropriate, special storage precautions;
+  - ((iii)) if necessary, a warning concerning certain visible signs of deterioration;
+  - ((iv)) the full qualitative composition (in active substances and excipients) and the quantitative composition in active substances, using common names, for each presentation of the medicinal product;
+  - ((v)) for each presentation of the product, the pharmaceutical form and content in weight, volume or units of dosage;
+  - ((vi)) the name and address of the marketing authorisation holder and, where applicable, the name of his appointed representatives in the Member States;
+  - ((vii)) the name and address of the manufacturer;
+- (g) where the medicinal product is authorised in accordance with Articles 28 to 39 under different names in the Member States concerned, a list of the names authorised in each Member State;
+- (h) the date on which the package leaflet was last revised.
+
+For medicinal products included in the list referred to in Article 23 of Regulation (EC) No 726/2004, the following additional statement shall be included[^c000009] ‘ This medicinal product is subject to additional monitoring ’ . This statement shall be preceded by the black symbol referred to in Article 23 of Regulation (EC) No 726/2004 and followed by an appropriate standardised explanatory sentence.
+
+For all medicinal products, a standardised text shall be included, expressly asking patients to communicate any suspected adverse reaction to his/her doctor, pharmacist, healthcare professional or directly to the national spontaneous reporting system referred to in Article 107a(1), and specifying the different ways of reporting available (electronic reporting, postal address and/or others) in compliance with the second subparagraph of Article 107a(1).
+
+2. The list set out in point (c) of paragraph 1 shall:
+
+- (a) take into account the particular condition of certain categories of users (children, pregnant or breastfeeding women, the elderly, persons with specific pathological conditions);
+- (b) mention, if appropriate, possible effects on the ability to drive vehicles or to operate machinery;
+- (c) list those excipients knowledge of which is important for the safe and effective use of the medicinal product and which are included in the detailed guidance published pursuant to Article 65.
+
+3. The package leaflet shall reflect the results of consultations with target patient groups to ensure that it is legible, clear and easy to use.
+
+4. By 1 January 2013 , the Commission shall present to the European Parliament and the Council an assessment report on current shortcomings in the summary of product characteristics and the package leaflet and how they could be improved in order to better meet the needs of patients and healthcare professionals. The Commission shall, if appropriate, and on the basis of the report, and consultation with appropriate stakeholders, present proposals in order to improve the readability, layout and content of these documents.
+
+## Annotations
+
+[^c000002]: Textual amendment: Substituted by [Directive 2004/27/EC of the European Parliament and of the Council of 31 March 2004 amending Directive 2001/83/EC on the Community code relating to medicinal products for human use](https://www.legislation.gov.uk/eudr/2004/27).
+
+[^c000005]: Textual amendment: Substituted by [Directive 2010/84/EU of the European Parliament and of the Council of 15 December 2010 amending, as regards pharmacovigilance, Directive 2001/83/EC on the Community code relating to medicinal products for human use (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2010/84).
+
+[^c000009]: Textual amendment: Inserted by [Directive 2010/84/EU of the European Parliament and of the Council of 15 December 2010 amending, as regards pharmacovigilance, Directive 2001/83/EC on the Community code relating to medicinal products for human use (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2010/84).

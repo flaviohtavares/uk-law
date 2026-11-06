@@ -1,0 +1,48 @@
+---
+title: Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast), section Article 12
+act: Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast)
+section: Article 12
+status: revised
+text_date: '2019-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2019/1111/section/Article 12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast), section Article 12
+
+> Text as at 2019-06-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 12. Transfer of jurisdiction to a court of another Member State
+
+*Extent: E+W+S+N.I.*
+
+1. In exceptional circumstances, a court of a Member State having jurisdiction as to the substance of the matter may, upon application from a party or of its own motion, if it considers that a court of another Member State with which the child has a particular connection would be better placed to assess the best interests of the child in the particular case, stay the proceedings or a specific part thereof and either:
+
+- (a) set a time limit for one or more of the parties to inform the court of that other Member State of the pending proceedings and the possibility to transfer jurisdiction and to introduce an application before that court; or
+- (b) request a court of another Member State to assume jurisdiction in accordance with paragraph 2.
+
+2. The court of the other Member State may, where due to the specific circumstances of the case this is in the best interests of the child, accept jurisdiction within six weeks after:
+
+- (a) its seisure in accordance with point (a) of paragraph 1; or
+- (b) receipt of the request in accordance with point (b) of paragraph 1.
+
+The court second seised or requested to accept jurisdiction shall inform the court first seised without delay. If it accepts, the court first seised shall decline jurisdiction.
+
+3. The court first seised shall continue to exercise its jurisdiction if it has not received the acceptance of jurisdiction by the court of the other Member State within seven weeks after:
+
+- (a) the time limit set for the parties to introduce an application before a court of another Member State in accordance with point (a) of paragraph 1 has expired; or
+- (b) that court has received the request in accordance with point (b) of paragraph 1.
+
+4. For the purposes of paragraph 1, the child shall be considered to have a particular connection with a Member State if that Member State:
+
+- (a) has become the habitual residence of the child after the court referred to in paragraph 1 was seised;
+- (b) is the former habitual residence of the child;
+- (c) is the State of the nationality of the child;
+- (d) is the habitual residence of a holder of parental responsibility; or
+- (e) is the place where property of the child is located and the case concerns measures for the protection of the child relating to the administration, conservation or disposal of that property.
+
+5. Where exclusive jurisdiction of the court was established under Article 10 that court cannot transfer the jurisdiction to the court of another Member State.

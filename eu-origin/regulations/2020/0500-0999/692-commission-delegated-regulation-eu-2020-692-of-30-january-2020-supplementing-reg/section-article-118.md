@@ -1,0 +1,30 @@
+---
+title: Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance), section Article 118
+act: Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance)
+section: Article 118
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/692/section/Article 118
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (Text with EEA relevance), section Article 118
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 118. Specific animal health requirements for donor animals
+
+*Extent: E+W+S+N.I.*
+
+Consignments of semen, oocytes and embryos referred to in Article 117 shall only be permitted to enter the Union if they were collected from donor animals which comply with the following requirements:
+
+- ((a)) they do not come from an establishment, nor have been in contact with animals from an establishment, situated in a restricted zone established due to the occurrence of a category A disease or of an emerging disease relevant for the species of those kept terrestrial animals;
+- ((b)) they come from an establishment where no category D disease relevant for the species of those kept terrestrial animals has been reported for a period of at least the preceding 30 days;
+- ((c)) they have remained in a single confined establishment of origin for a period of at least 30 days prior to the collection of the semen, oocytes or embryos intended for entry into the Union;
+- ((d)) they have been clinically examined by the establishment veterinarian responsible for the activities of the confined establishment, and showed no disease symptoms on the day the semen, oocytes or embryos were collected;
+- ((e)) as much as possible, they were not used for natural breeding during a period of at least 30 days prior to the date of first collection and during the period of collection of semen, oocytes or embryos intended for entry into the Union;
+- ((f)) they are identified and registered in accordance with the rules of that confined establishment.

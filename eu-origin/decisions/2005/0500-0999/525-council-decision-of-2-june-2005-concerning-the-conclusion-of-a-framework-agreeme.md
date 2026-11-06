@@ -1,0 +1,110 @@
+---
+title: Council Decision of 2 June 2005 concerning the conclusion of a Framework Agreement between the European Community and Bosnia and Herzegovina on the general principles for the participation of Bosnia and Herzegovina in Community programmes (2005/525/EC)
+id: eudn/2005/525
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2005-06-02'
+text_date: '2005-06-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2005/525
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2005/525/pdfs/eudn_20050525_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2005/525/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision of 2 June 2005 concerning the conclusion of a Framework Agreement between the European Community and Bosnia and Herzegovina on the general principles for the participation of Bosnia and Herzegovina in Community programmes (2005/525/EC)
+
+> Text as at 2005-06-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision
+
+of 2 June 2005
+
+concerning the conclusion of a Framework Agreement between the European Community and Bosnia and Herzegovina on the general principles for the participation of Bosnia and Herzegovina in Community programmes
+
+(2005/525/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Articles 13, 71, 80, 95, 127, 137, 149, 150, 151, 152, 153, 157, 166, 175, 280 and 308 in conjunction with the second sentence of the first subparagraph of Article 300(2), the second subparagraph of Article 300(3), and Article 300(4) thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the assent of the European Parliament[^f00001],
+
+Whereas:
+
+(1)
+
+The Thessaloniki European Council of June 2003 approved the ‘Thessaloniki Agenda for the Western Balkans: moving towards European integration’, which provided for Community programmes to be opened up to the Stabilisation and Association Process (SAP) countries along the lines established for the participation of candidate countries.
+
+(2)
+
+In its communication on ‘Preparing for the participation of the Western Balkan countries in Community programmes and agencies’, the Commission advocated concluding with Albania, Bosnia and Herzegovina, Croatia, the Former Yugoslav Republic of Macedonia and Serbia and Montenegro framework agreements laying down the general principles governing each country’s participation in Community programmes.
+
+(3)
+
+In accordance with the negotiating directives adopted by the Council on 29 April 2004, the Commission, on behalf of the Community, has negotiated a Framework Agreement with Bosnia and Herzegovina on the general principles for its participation in Community programmes.
+
+(4)
+
+This Agreement was signed, on behalf of the Community, on 22 November 2004 in Brussels, subject to conclusion at a later date.
+
+(5)
+
+With regard to some of the programmes covered by the Agreement, the Treaty does not provide for powers other than those under Article 308.
+
+(6)
+
+The specific terms and conditions regarding the participation of Bosnia and Herzegovina in the Community programmes, including the financial contribution payable, should be determined by the Commission on behalf of the Community. For that purpose the Commission should be assisted by a special committee appointed by the Council.
+
+(7)
+
+Bosnia and Herzegovina may request financial assistance for participating in Community programmes under Council Regulation (EC) No 2666/2000 of 5 December 2000 on assistance for Albania, Bosnia and Herzegovina, Croatia, the Federal Republic of Yugoslavia and the Former Yugoslav Republic of Macedonia[^f00002] or under any similar Regulation providing for Community external assistance for Bosnia and Herzegovina that may be adopted in future.
+
+(8)
+
+The application of the Agreement should be reviewed periodically.
+
+(9)
+
+The Agreement should be approved,
+
+HAS DECIDED AS FOLLOWS:
+
+**Article 1.** The Framework Agreement between the European Community and Bosnia and Herzegovina on the general principles for the participation of Bosnia and Herzegovina in Community programmes is hereby approved on behalf of the Community.
+
+The text of the Agreement is attached to this Decision[^f00003].
+
+**Article 2.** 1. The Commission is authorised to determine, on behalf of the Community, the specific terms and conditions applicable to the participation of Bosnia and Herzegovina in any given programme, including the financial contribution payable. The Commission shall be assisted in this task by a special committee appointed by the Council.
+
+2. Where Bosnia and Herzegovina requests external assistance, the procedures provided for in Regulation (EC) No 2666/2000, and in similar Regulations providing for Community external assistance to Bosnia and Herzegovina that may be adopted in the future, shall apply.
+
+**Article 3.** No later than three years after the date of entry into force of the Agreement, and every three years thereafter, the Commission shall review the implementation of the Agreement and report thereon to the Council. The report shall be accompanied where necessary by appropriate proposals.
+
+**Article 4.** The President of the Council shall, on behalf of the Community, give the notifications provided for in Article 10 of the Agreement.
+
+Done at Luxembourg, 2 June 2005.
+
+*For the Council*
+
+*The President*
+
+L. Frieden
+
+## Annotations
+
+[^f00001]: Footnote: Assent delivered on 10 May 2005 (not yet published in the Official Journal).
+
+[^f00002]: Footnote: [OJ L 306, 7.12.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.306.01.0001.01.ENG). Regulation as amended by Regulation (EC) No 2415/2001 ([OJ L 327, 12.12.2001, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.327.01.0003.01.ENG)).
+
+[^f00003]: Footnote: See page 5 of this Official Journal.

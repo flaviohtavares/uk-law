@@ -1,0 +1,1321 @@
+---
+title: Regulation (EC) No 1905/2006 of the European Parliament and of the Council of 18 December 2006 establishing a financing instrument for development cooperation
+id: eur/2006/1905
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2006-12-18'
+text_date: '2013-03-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2006/1905
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2006/1905/pdfs/eur_20061905_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2006/1905/pdfs/eur_20061905_2009-10-18_en.pdf
+- http://www.legislation.gov.uk/eur/2006/1905/pdfs/eur_20061905_2011-12-31_en.pdf
+- http://www.legislation.gov.uk/eur/2006/1905/pdfs/eur_20061905_2013-03-06_en.pdf
+- http://www.legislation.gov.uk/eur/2006/1905/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EC) No 1905/2006 of the European Parliament and of the Council of 18 December 2006 establishing a financing instrument for development cooperation
+
+> Text as at 2013-03-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Regulation (EC) No 1905/2006 of the European Parliament and of the Council
+
+of 18 December 2006
+
+establishing a financing instrument for development cooperation
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 179(1) thereof,
+
+Having regard to the proposal from the Commission,
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty[^f00001],
+
+Whereas:
+
+(1)
+
+A new framework for planning and delivering assistance is proposed in order to make the Community's external assistance more effective. Council Regulation (EC) No 1085/2006[^f00002] establishes an Instrument for Pre Accession (IPA) for Community assistance to candidate and potential candidate countries. Regulation (EC) No 1638/2006[^f00003] lays down general provisions establishing a European Neighbourhood and Partnership Instrument (ENPI). Council Regulation (EC) No 1934/2006[^f00004] establishes a financing instrument for cooperation with industrialised and other high-income countries and territories. Regulation (EC) No 1717/2006[^f00005] establishes an instrument for stability. Regulation (EC) No …/2007[^f00006] establishes an instrument for nuclear safety cooperation. Regulation (EC) No 1889/2006[^f00007] establishes a financing instrument for the promotion of democracy and human rights worldwide. Council Regulation (EC) No 1257/96[^f00008] concerns humanitarian aid. This Regulation establishes a financing instrument for development cooperation providing direct support for the Community's development cooperation policy.
+
+(2)
+
+The Community pursues a development cooperation policy aimed at achieving the objectives of poverty reduction, sustainable economic and social development and the smooth and gradual integration of developing countries into the world economy.
+
+(3)
+
+The Community pursues a cooperation policy that fosters cooperation, partnerships and joint undertakings between economic players in the Community and partner countries and regions, and promotes dialogue between political, economic and social partners in relevant sectors.
+
+(4)
+
+The Community's development cooperation policy and international action are guided by the Millennium Development Goals (MDGs), such as the eradication of extreme poverty and hunger, adopted by the United Nations General Assembly on 8 September 2000, and the main development objectives and principles approved by the Community and its Member States in the context of the United Nations (UN) and other competent international organisations in the field of development cooperation.
+
+(5)
+
+With a view to policy coherence for development, it is important that Community non-development policies assist developing countries' efforts in achieving the MDGs in line with Article 178 of the Treaty establishing the European Community.
+
+(6)
+
+A political environment which guarantees peace and stability, respect for human rights, fundamental freedoms, democratic principles, the rule of law, good governance and gender equality is fundamental to long-term development.
+
+(7)
+
+Sound and sustainable economic policies are a prerequisite for development.
+
+(8)
+
+The members of the World Trade Organization (WTO) committed themselves at the 4th Ministerial Conference in Doha to mainstreaming trade in development strategies and to providing trade-related technical and capacity-building assistance as well as the necessary measures seeking to facilitate the transfer of technology through and for trade, to enhance the relationship between foreign direct investment and trade, and the mutual interrelation of trade and environment, and to help developing countries take part in new trade negotiations and implement their results.
+
+(9)
+
+The Joint Statement by the Council and the Representatives of the Governments of the Member States meeting within the Council, the European Parliament and the Commission on European Union Development Policy: ‘The European Consensus’[^f00009], of 20 December 2005, and any subsequent modifications thereto, provides the general framework for action by the Community on development matters. It should steer the planning and implementation of the development assistance and cooperation strategies.
+
+(10)
+
+Development cooperation should be implemented through geographic and thematic programmes. Geographic programmes should support the development of, and reinforce the cooperation with, countries and regions in Latin America, Asia, Central Asia, the Middle East and South Africa.
+
+(11)
+
+The Community and its Member States have concluded partnership and cooperation agreements with some of these partner countries and regions aimed at making a significant contribution to the long-term development of the partner countries and the wellbeing of their people. The essential elements on which these partnership and cooperation agreements are based are the common and universal values of respect for, and promotion of, human rights, fundamental freedoms, democratic principles and the rule of law. In this context, attention should also be given to the right to decent work and the rights of people with disabilities. The pursuit and deepening of bilateral relations between the Community and partner countries and the consolidation of multilateral institutions are important factors in making a significant contribution to balancing and developing the world economy and also in strengthening the Community's and partner countries' and regions' role and place in the world.
+
+(12)
+
+While thematic programmes should primarily support developing countries, two beneficiary countries as well as the overseas countries and territories (OCTs), whose characteristics do not meet the requirements to be defined as Official Development Assistance (ODA) recipients by the Development Assistance Committee of the Organisation for Economic Cooperation and Development (OECD/DAC) and which are covered by Article 2(4), second subparagraph, first indent, should also be eligible for thematic programmes under the conditions set out in this Regulation. The Community should finance thematic programmes in countries, territories and regions eligible for assistance under a geographic programme provided for under this Regulation, for assistance under Regulation (EC) No 1638/2006 or for geographic cooperation in accordance with the European Development Fund (EDF). Council Decision 2001/822/EC of 27 November 2001 on the association of the overseas countries and territories with the European Community (‘Overseas Association Decision’)[^f00010], which is applicable until 31 December 2011, lays down the conditions for the eligibility of OCTs for the thematic activities of development assistance funded by the general budget of the European Union, which are not altered by this Regulation.
+
+(13)
+
+Thematic programmes should provide distinctive added value and complement programmes of a geographic nature, which constitute the main framework for Community cooperation with third countries. Development cooperation implemented through thematic programmes should be subsidiary to the geographic programmes set out in this Regulation and in Regulation (EC) No 1638/2006 and to cooperation under the EDF. Thematic programmes encompass a specific area of activity of interest to a group of partner countries not determined by geography, or cooperation activities addressed to various regions or groups of partner countries, or an international operation that is not geographically specific. They also have an important role in developing Community policies externally and ensuring sectoral consistency and visibility.
+
+(14)
+
+Thematic programmes should support actions in the areas of human and social development, environment and sustainable management of natural resources, including energy, non-State actors and local authorities, food security and migration and asylum. The contents of the thematic programmes have been prepared on the basis of the corresponding communications from the Commission to the European Parliament and the Council.
+
+(15)
+
+The thematic programme on the environment and the sustainable management of resources, including energy should, *inter alia*, promote international environmental governance and Community environmental and energy policies abroad.
+
+(16)
+
+The thematic programme on migration and asylum should contribute to the realisation of the objective set out in the Conclusions of the European Council held in Brussels on 15 and 16 December 2005, namely to intensify Community financial assistance in areas concerning or related to migration in respect of its relations with third countries.
+
+(17)
+
+Community policy on food security has evolved towards supporting broad-based food security strategies at national, regional and global level, limiting the use of food aid to humanitarian situations and food crises and avoiding disruptive effects on local production and markets, and needs to take into account the specific situation of countries that are structurally fragile and highly dependent on support for food security, in order to avoid a steep reduction of Community assistance to these countries.
+
+(18)
+
+In line with the Council Conclusions of 24 May 2005 actions should be supported to improve reproductive and sexual health in developing countries and to secure respect for the rights relating thereto; financial assistance and appropriate expertise should be provided with a view to promoting a holistic approach to, and the recognition of, reproductive and sexual health and rights as defined in the Programme of Action of the International Conference on Population and Development (ICPD), including safe motherhood and universal access to a comprehensive range of safe and reliable reproductive and sexual health care and services. When cooperation measures are implemented, the decisions adopted at the ICPD must be rigorously observed, where relevant.
+
+(19)
+
+Following up on Regulation (EC) No 266/2006 of the European Parliament and of the Council of 15 February 2006 establishing accompanying measures for Sugar Protocol countries affected by the reform of the EU sugar regime[^f00011], assistance to ACP Sugar Protocol countries affected by the reform of the Common Market Organisation for sugar should also be provided and aim at supporting their adjustment process.
+
+(20)
+
+In implementing the Community's development policy, more effective aid, greater complementarity and better harmonisation, alignment and coordination of procedures, both between the Community and its Member States and in relations with other donors and development actors, are essential to ensuring the consistency and relevance of aid whilst at the same time reducing the costs borne by partner countries as approved in the Declaration on Aid Effectiveness adopted by the High Level Forum on Aid Effectiveness, held in Paris, on 2 March 2005.
+
+(21)
+
+In order to achieve the objectives of this Regulation, it is necessary to pursue a differentiated approach depending on development contexts and needs, supporting partner countries or regions with specific, tailor-made programmes, based on their own needs, strategies, priorities and assets.
+
+(22)
+
+The key to the success of development policies is whether the partner countries take ownership of the development strategies, and, to this end, the greatest possible involvement of all sections of society, including disabled people and other vulnerable groups, should be encouraged. With a view to ensuring efficiency and transparency and encouraging countries to take ownership, donors' cooperation strategies and implementation procedures should, where possible, be aligned on those of the partner countries.
+
+(23)
+
+Taking into consideration the need to ensure effective bridging between humanitarian relief and long-term development assistance, measures eligible under Regulation (EC) No 1717/2006 should not, in principle, be funded under this Regulation, except where there is a need to ensure continuity of cooperation from crisis to stable conditions for development.
+
+(24)
+
+Untying aid in line with best practices of the OECD/DAC is a key factor in adding value to aid and in building local capacity. Rules on participation in tenders and grant contracts, as well as rules concerning the origin of supplies should be set down in accordance with most recent developments concerning the untying of aid.
+
+(25)
+
+Assistance should be managed in accordance with the rules for external aid contained in Council Regulation (EC, Euratom) No 1605/2002 of 25 June 2002 on the Financial Regulation applicable to the general budget of the European Communities[^f00012], with due provisions aimed at protecting the financial interests of the Community. Continued efforts should be made to improve the implementation of development cooperation to achieve a sound balance between financial resources allocated and absorption capacity, as well as to reduce outstanding commitments.
+
+(26)
+
+This Regulation lays down a financial envelope for the period 2007-2013 constituting the prime reference for the budgetary authority, within the meaning of Point 37 of the Interinstitutional Agreement of 17 May 2006 between the European Parliament, the Council and the Commission on budgetary discipline and sound financial management[^f00013].
+
+(27)
+
+The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission[^f00014]. Programming documents and some specific implementation measures should be adopted by the management committee procedure.
+
+(28)
+
+Since the objectives of this Regulation, namely the proposed cooperation with developing countries, territories and regions that are not Community Member States and are not eligible for Community aid under Regulation (EC) No 1085/2006 or Regulation (EC) No 1638/2006 cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale of the action, be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary to achieve those objectives.
+
+(29)
+
+This Regulation makes it necessary to repeal the current set of Regulations, in view of the restructuring of the external action instruments, notably in the field of development cooperation,
+
+HAVE ADOPTED THIS REGULATION:
+
+## Article 1. Overall purpose and scope
+
+1. The Community shall finance measures aimed at supporting cooperation with developing countries, territories and regions included in the list of aid recipients of the Development Assistance Committee of the Organization for Economic Cooperation and Development (OECD/DAC), and set out in Annex I (hereinafter referred to as ‘partner countries and regions’). The Commission shall amend Annex I in accordance with regular OECD/DAC reviews of its list of aid recipients and inform the European Parliament and the Council thereof.
+
+2. The Community shall finance thematic programmes in countries, territories and regions eligible for assistance under a geographic programme of this Regulation, set out in Articles 5 to 10, for assistance under Regulation (EC) No 1638/2006 or for geographic cooperation under the European Development Fund (EDF).
+
+3. For the purposes of this Regulation, a region is defined as a geographical entity comprising more than one developing country.
+
+## TITLE I — OBJECTIVES AND GENERAL PRINCIPLES
+
+### Article 2. Objectives
+
+1. The primary and overarching objective of cooperation under this Regulation shall be the eradication of poverty in partner countries and regions in the context of sustainable development, including pursuit of the Millennium Development Goals (MDGs), as well as the promotion of democracy, good governance and respect for human rights and for the rule of law. Consistently with this objective, cooperation with partner countries and regions shall:
+
+- consolidate and support democracy, the rule of law, human rights and fundamental freedoms, good governance, gender equality and related instruments of international law;
+- foster the sustainable development — including political, economic, social and environmental aspects — of partner countries and regions, and more particularly the most disadvantaged among them;
+- encourage their smooth and gradual integration into the world economy;
+- help develop international measures to preserve and improve the quality of the environment and the sustainable management of global natural resources, in order to ensure sustainable development, including addressing climate change and biodiversity loss; and
+- strengthen the relationship between the Community and partner countries and regions.
+
+2. Community cooperation under this Regulation shall comply with the commitments and objectives in the field of development cooperation that the Community has approved in the context of the United Nations (UN) and other competent international organisations in the field of development cooperation.
+
+3. Community development policy, as laid down in Title XX of the Treaty, shall provide the legal framework for cooperation with partner countries and regions. The Joint Statement by the Council and the Representatives of the Governments of the Member States meeting within the Council, the European Parliament and the Commission on European Union Development Policy: ‘The European Consensus’, of 20 December 2005, and any subsequent modifications thereto, shall provide the general framework, orientations and focus to steer the implementation of Community cooperation with partner countries and regions under this Regulation.
+
+4. Measures referred to in Article 1(1) shall be designed so as to fulfil the criteria for Official Development Assistance (ODA) established by the OECD/DAC.
+
+Programmes referred to in Article 1(2) shall be designed so as to fulfil the criteria for ODA established by the OECD/DAC, unless:
+
+- the characteristics of the beneficiary require otherwise, or
+- the programme implements a global initiative, a community policy priority or an international obligation or commitment of the Community, as referred to in Article 11(2), and the measure does not have the characteristics to fulfil such criteria.
+
+At least 90 % of the expenditure foreseen under thematic programmes shall be designed so as to fulfil the criteria for ODA established by the OECD/DAC, without prejudice to Article 2(4), second subparagraph, first indent.
+
+5. Community assistance under this Regulation shall not be used to finance the procurement of arms or ammunition, and operations having military or defence implications.
+
+6. Measures covered by Regulation (EC) No 1717/2006 and in particular Article 4 thereof, and eligible for funding thereunder shall not, in principle, be funded under this Regulation, except where there is a need to ensure continuity of cooperation from crisis to stable conditions for development.
+
+Without prejudice to the need to ensure continuity of cooperation from crisis to stable conditions for development, measures covered by, and eligible for funding under, Council Regulation (EC) No 1257/96, shall not be funded under this Regulation.
+
+### Article 3. General principles
+
+1. The Community is founded on the values of democracy, the rule of law, respect for human rights and fundamental freedoms and seeks to develop and consolidate commitment to these values in partner countries and regions through dialogue and cooperation.
+
+2. In the implementation of this Regulation, a differentiated approach depending on development contexts and needs shall be pursued so that partner countries or regions are provided with specific, tailor-made cooperation, based on their own needs, strategies, priorities and assets.
+
+Least developed countries and low income countries shall be given priority in terms of overall resource allocation in order to achieve the MDGs. Appropriate attention shall be given to support the pro-poor development of middle income countries, particularly the lower middle income countries many of which face problems similar to those of low income countries.
+
+3. Mainstreaming of the following cross-cutting issues shall be undertaken in all programmes: the promotion of human rights, gender equality, democracy, good governance, the rights of the child and indigenous peoples' rights, environmental sustainability and combating HIV/AIDS. In addition, particular attention shall be given to strengthening the rule of law, improving access to justice and supporting civil society, as well as promoting dialogue, participation and reconciliation, and institution-building.
+
+4. The Community shall take account of the objectives laid down in Title XX of the Treaty and in Article 2 of this Regulation, in all policies which are likely to affect partner countries and regions. For measures financed under this Regulation, the Community shall also aim to ensure coherence with other areas of its external action. This shall be ensured in formulating policy, strategic planning and the programming and implementation of measures.
+
+5. The Community and the Member States shall improve coordination and complementarity of their policies on development cooperation by responding to partner countries' and regions' priorities at country and regional level. Community policy in the sphere of development cooperation shall be complementary to the policies pursued by the Member States.
+
+6. The Commission and the Member States shall seek regular and frequent exchanges of information, including with other donors, and promote better donor coordination and complementarity by working towards joint multiannual programming, based on partner countries' poverty reduction or equivalent strategies and partner countries' own budget processes, by common implementation mechanisms including shared analysis, by joint donor-wide missions and by the use of co-financing arrangements.
+
+7. Within their respective spheres of competence, the Community and the Member States shall promote a multilateral approach to global challenges and foster cooperation with multilateral and regional organisations and bodies such as international financial institutions, UN agencies, funds and programmes, and other bilateral donors.
+
+8. The Community shall promote effective cooperation with partner countries and regions in line with international best practice. It shall promote:
+
+- (a) a development process that is partner country led and owned. The Community shall increasingly align its support with partners' national development strategies, reform policies and procedures. The Community shall contribute to strengthening the process of mutual accountability between partner governments and donors and promote local expertise and local employment;
+- (b) inclusive and participatory approaches to development and a broad involvement of all segments of society in the development process and in national dialogue, including political dialogue;
+- (c) effective cooperation modalities and instruments as set out in Article 25 in line with OECD/DAC best practices, adapted to the particular circumstances of each partner country or region, with a focus on programme-based approaches, delivery of predictable aid funding, the development and use of country systems and on results-based approaches to development including, where appropriate, MDG targets and indicators;
+- (d) improved impact of policies and programming through coordination and harmonisation between donors to reduce overlap and duplication, to improve complementarity and to support donor-wide initiatives. Coordination shall take place in partner countries and regions using agreed guidelines and best practice principles on coordination and aid effectiveness;
+- (e) an MDG profile in Country Strategy Papers and in its multiannual programming.
+
+9. The Commission shall inform and have regular exchanges of views with the European Parliament.
+
+10. The Commission shall seek regular exchanges of information with civil society.
+
+## TITLE II — GEOGRAPHIC AND THEMATIC PROGRAMMES
+
+### Article 4. Implementation of Union assistance[^c000001]
+
+Consistent with the overall purpose and scope, objectives and general principles of this Regulation, Union assistance shall be implemented through the geographic and thematic programmes set out in Articles 5 to 16 and the programmes set out in Articles 17 and 17a.
+
+### Article 5. Geographic programmes
+
+1. A geographic programme shall encompass cooperation in appropriate areas of activity with partner countries and regions determined on a geographical basis.
+
+2. Consistently with the overall purpose and scope, objectives and general principles of this Regulation, Community assistance to the countries of Latin America, Asia, Central Asia, and the Middle East as set out in Annex I, as well as South Africa, shall include actions within the following areas of cooperation:
+
+- (a) supporting the implementation of policies aimed at poverty eradication and at the achievement of the MDGs;
+
+Human development:
+
+- (b) addressing the essential needs of the population with prime attention to primary education and health, in particular by:
+
+  Health:
+
+  - ((i)) increasing access to and provision of health services for lower income population groups and marginalised groups, including women and children, persons belonging to groups subject to ethnic, religious or any other discrimination and persons with disabilities, with a central focus on the related MDGs, namely reducing child mortality, improving maternal and child health and sexual and reproductive health and rights as set out in the Cairo Agenda of the International Conference on Population and Development (ICPD), addressing poverty diseases, in particular HIV/AIDS, tuberculosis and malaria;
+  - ((ii)) strengthening health systems in order to prevent human resource crises in the health sector;
+  - ((iii)) enhancing capacities particularly in areas such as public health and research and development;
+
+  Education:
+
+  - ((iv)) giving priority in primary education to achieving quality primary education followed by vocational training and to reduce inequalities in terms of access to education; promoting compulsory and free education up to the age of 15 to combat all forms of child labour;
+  - ((v)) aiming at achieving universal primary education by 2015, and at eliminating gender disparity in education;
+  - ((vi)) promoting vocational training, higher education, life-long learning, cultural, scientific and technological cooperation, academic and cultural exchanges as well as enhancing mutual understanding between partner countries and regions and the Community;
+
+Social cohesion and employment:
+
+- (c) promoting social cohesion as a priority policy of the relations between the Community and partner countries, with a focus on decent work and social and fiscal policies, thereby fighting against poverty, inequality, unemployment and exclusion of vulnerable and marginalised groups;
+- (d) combating all forms of group-based discrimination and promoting and protecting gender equality, indigenous peoples' rights and the rights of the child, including supporting implementation of the UN Convention on the Rights of the Child, and actions to address the problems faced by street children and children undertaking forms of labour that are hazardous and/or hinder full-time education;
+- (e) strengthening the institutional framework to promote and facilitate the creation of small and medium sized enterprises with a view to stimulating job creation;
+
+Governance, democracy, human rights and support for institutional reforms:
+
+- (f) promoting and protecting fundamental freedoms and human rights, strengthening democracy, the rule of law, access to justice and good governance including actions to combat corruption, which may include, but are not limited to, capacity building and strengthening the institutional and legislative framework, particularly in the areas of national administration, design and implementation of policies and management of public finances and national resources in a transparent way;
+- (g) supporting an active civil society, including civil society organisations representing people living in poverty, as well as promoting civic dialogue, participation and reconciliation, and institution-building;
+- (h) fostering cooperation and policy reform in the fields of security and justice, especially as regards asylum and migration, the fight against drugs and other trafficking including trafficking in human beings, corruption and money laundering;
+- (i) fostering cooperation and policy reform in the field of migration and asylum with partner countries and promoting capacity building initiatives to ensure the formulation and implementation of pro-development migration policies to address the root causes of migration;
+- (j) supporting effective multilateralism, in particular through compliance with, and the effective implementation of, international law and multilateral agreements relevant to the field of development;
+
+Trade and regional integration:
+
+- (k) assisting partner countries and regions on trade, investment and regional integration including technical assistance and capacity building to design and implement sound trade policies, favouring a more conducive business environment, sound economic and financial policies and private sector development, with a view to partner countries and regions benefiting from their integration into the world economy and to supporting social justice and pro-poor growth;
+- (l) supporting accession to the World Trade Organization (WTO) and implementation of WTO agreements by technical assistance and capacity building, in particular the implementation of the Agreement on Trade-Related Aspects of Intellectual Property (the TRIPS Agreement), notably in the area of public health;
+- (m) supporting economic and trade cooperation and strengthening investment relations between the Community and partner countries and regions, including by actions to promote and ensure that private actors, including local and European businesses, contribute to socially responsible and sustainable economic development, including respect for the core labour standards of the International Labour Organization (ILO) and by actions to promote local capacity building;
+
+Environment and sustainable development of natural resources:
+
+- (n) promoting sustainable development through environmental protection and sustainable management of natural resources, including protection of biodiversity, and of forests, including activities for the conservation and sustainable management of forests with active participation of local communities and forest-dependent peoples;
+- (o) supporting improvements in the urban environment;
+- (p) promoting sustainable patterns of production and consumption and the safe and sustainable management of chemicals and waste, taking into account their impacts on health;
+- (q) ensuring respect for and supporting the implementation of international environment agreements such as the Convention on Biological Diversity, the UN Convention to Combat Desertification and the UN Framework Convention on Climate Change in line with the EU Action Plan on Climate Change, and their protocols and any subsequent modifications;
+- (r) developing capacities for emergency preparedness and prevention of natural disasters;
+
+Water and energy:
+
+- (s) supporting sustainable integrated water resource management, with particular emphasis on universal access to safe drinking water and sanitation in line with the MDGs and sustainable and efficient use of water resources, including for agricultural and industrial purposes;
+- (t) fostering greater use of sustainable energy technologies;
+
+Infrastructure, communication and transport:
+
+- (u) contributing to the development of economic infrastructure, including support to regional integration, and promoting the increased use of information and communication technologies;
+
+Rural development, territorial planning, agriculture and food security:
+
+- (v) supporting sustainable rural development, including decentralisation and empowerment, particularly with a view to ensuring food security;
+
+Post-crisis situations and fragile States:
+
+- (w) reconstructing and rehabilitating, in the medium- and long-term, regions and countries affected by conflict, man-made and natural disasters, including support for mine-action, demobilisation and reintegration actions, while ensuring the continuum between relief, rehabilitation and development in accordance with Article 2(6), bearing in mind the competences of the Community and its Member States;
+- (x) carrying out medium- and long-term activities aimed at the self-sufficiency and integration or reintegration of uprooted people, ensuring that an integrated and consistent approach between humanitarian aid, rehabilitation, aid to uprooted people and development cooperation is pursued. Community action shall facilitate the move from the emergency stage to that of development, encouraging the socio-economic integration or reintegration of the people affected, and encourage the establishment or strengthening of democratic structures and the role of the population in the development process;
+- (y) in fragile or failing States, supporting the delivery of basic services and building of legitimate, effective and resilient public institutions;
+- (z) addressing development challenges common to the Community and its partners, in particular support to sectoral dialogues, to the implementation of bilateral agreements and to any other area of action consistent with the scope of this Regulation.
+
+### Article 6. Latin America
+
+Community assistance to Latin America shall support actions consistent with Article 5 and with the overall purpose and scope, objectives and general principles of this Regulation. Additional attention shall be paid to the following areas of cooperation, reflecting the specific situation in Latin America:
+
+- ((a)) promoting social cohesion as a shared goal and priority policy of Community-Latin America relations thereby fighting against poverty, inequality and exclusion. Particular attention shall be paid to social welfare and tax policies, productive investment for more and better jobs, policies to combat discrimination and production, consumption and trafficking of drugs, and improvements in basic social services, in particular health and education;
+- ((b)) encouraging greater regional integration, including the support to different processes of regional integration and to the interconnection of network infrastructures, while ensuring complementarity with activities supported by European Investment Bank (EIB) and other institutions;
+- ((c)) supporting the reinforcement of good governance and public institutions, and of the protection of human rights, including the rights of the child and indigenous peoples' rights;
+- ((d)) supporting the creation of a common EU-Latin American higher education area;
+- ((e)) promoting sustainable development in all its dimensions, with particular attention to the protection of forests and biodiversity.
+
+### Article 7. Asia
+
+Community assistance to Asia shall support actions consistent with Article 5 and with the overall purpose and scope, objectives and general principles of this Regulation. Additional attention shall be paid to the following areas of cooperation, reflecting the specific situation in Asia:
+
+- ((a)) pursuing MDGs in the field of health, including HIV/AIDS, and education, *inter alia*, through policy dialogue for sectoral reform;
+- ((b)) addressing governance issues in particular in fragile States so as to help build legitimate, effective and resilient public institutions and an active and organised civil society, and to enhance the protection of human rights, including the rights of the child;
+- ((c)) encouraging greater regional integration and cooperation through support to different processes of regional integration and dialogue;
+- ((d)) contributing to the control of epidemics and zoonoses as well as to the rehabilitation of the affected sectors;
+- ((e)) promoting sustainable development in all its dimensions, with particular attention to the protection of forests and biodiversity;
+- ((f)) fighting against production, consumption and trafficking of drugs and against other trafficking.
+
+### Article 8. Central Asia
+
+Community assistance to Central Asia shall support actions consistent with Article 5 and with the overall purpose and scope, objectives and general principles of this Regulation. Additional attention shall be paid to the following areas of cooperation, reflecting the specific situation in Central Asia:
+
+- ((a)) promoting constitutional reforms and legislative, administrative and regulatory approximation with the Community, including strengthening of national institutions and bodies responsible for the effective implementation of policies in areas covered in the Partnership and Cooperation Agreements, such as election bodies, parliaments, public administration reform and public financial management;
+- ((b)) promoting the development of a market economy and partner countries' integration into the WTO, while addressing the social aspects of the transition;
+- ((c)) supporting efficient border management and cross-border cooperation to promote sustainable economic, social and environmental development in border regions;
+- ((d)) fighting against production, consumption and trafficking of drugs and against other trafficking;
+- ((e)) fighting against HIV/AIDS;
+- ((f)) promoting regional cooperation, dialogue and integration, including with countries covered by Regulation (EC) No 1638/2006 and other Community instruments, in particular promoting cooperation in the environment — notably water and sanitation —, education, energy and transport sectors, including the security and safety of international energy supply and transport operations, on interconnections, the networks and their operators, renewable energy sources, energy efficiency.
+
+### Article 9. Middle East
+
+Community assistance to the Middle East shall support actions consistent with Article 5 and with the overall purpose and scope, objectives and general principles of this Regulation. Additional attention shall be paid to the following areas of cooperation, reflecting the specific situation in the Middle East:
+
+- ((a)) encouraging social cohesion to ensure social equity, notably in relation to the use of domestic national resources and to ensure political equality in particular through the promotion of human rights, including gender equality;
+- ((b)) promoting economic diversification, the development of a market economy, and partner countries' integration in the WTO;
+- ((c)) promoting regional cooperation, dialogue and integration, including with countries covered by Regulation (EC) No 1638/2006 and other Community instruments via the support to integration efforts within the region, for example on the economy, energy, transportation and refugees;
+- ((d)) supporting the conclusion of international agreements and the effective implementation of international law, in particular UN resolutions and multilateral conventions;
+- ((e)) addressing governance issues in particular in fragile States so as to help build legitimate, effective and resilient public institutions and an active and organised civil society, and to enhance the protection of human rights, including the rights of the child.
+
+### Article 10. South Africa
+
+Community assistance to South Africa shall support actions consistent with Article 5 and with the overall purpose and scope, objectives and general principles of this Regulation. Additional attention shall be paid to the following areas of cooperation, reflecting the specific situation in South Africa:
+
+- ((a)) supporting the consolidation of a democratic society, good governance and a State governed by the rule of law and contributing to regional and continental stability and integration;
+- ((b)) providing support to the adjustment efforts occasioned in the region by the establishment of free-trade areas under the Trade, Development and Cooperation Agreement between the Community and South Africa[^f00015] and other regional arrangements;
+- ((c)) supporting the fight against poverty, inequality and exclusion, including by addressing the basic needs of the previously disadvantaged communities;
+- ((d)) addressing the HIV/AIDS pandemic and its impacts on the South African society.
+
+### Article 11. Thematic programmes
+
+1. A thematic programme shall be subsidiary to programmes referred to in Articles 5 to 10 and shall encompass a specific area of activity of interest to a group of partner countries not determined by geography, or cooperation activities addressed to various regions or groups of partner countries, or an international operation that is not geographically specific.
+
+2. Consistently with the overall purpose and scope, objectives and general principles of this Regulation, the actions undertaken through thematic programmes shall add value to and be additional to, and coherent with, actions funded under geographic programmes. The following principles shall apply to these actions:
+
+- (a) Community policy objectives cannot be achieved in an appropriate or effective manner through geographic programmes and the thematic programme is implemented by or through an intermediary organisation such as non-governmental organisations, other non-State actors, international organisations or multilateral mechanisms. This includes global initiatives supporting the MDGs, sustainable development or global public goods and actions in Member States and acceding countries by way of derogation from Article 24 as envisaged in the relevant thematic programme,
+
+  and/or
+- (b) actions are of the following nature:
+  - multi-regional and/or cross-cutting actions, including pilot projects and innovatory policies;
+  - actions in cases where there is no agreement on the action with the partner government(s);
+  - actions relevant to the purpose of a specific thematic programme which respond to a Community policy priority or an international obligation or commitment of the Community;
+  - where appropriate, actions in cases where there is no geographic programme or it has been suspended.
+
+### Article 12. Investing in people
+
+1. The objective of Community assistance under the thematic programme ‘Investing in People’ shall be to support actions in areas which directly affect people's living standards and well-being defined below and focusing on the poorest and least developed countries and the most disadvantaged sections of the population.
+
+2. To achieve the objective referred to in paragraph 1 and consistent with Article 11, the programme shall include the following areas of activity:
+
+- (a) Good health for all:
+  - ((i)) fight against poverty diseases targeting the major communicable diseases such as laid down in the European Programme for action to confront HIV/AIDS, malaria and tuberculosis, in particular:
+    - increase the affordability of key pharmaceuticals and diagnostics for the three diseases in accordance with the provisions of the TRIPS Agreement as clarified in the Doha Declaration on the TRIPS Agreement and Public Health;
+    - encourage public and private investment in research and development for new treatments, new medicines, particularly vaccines, microbicides and innovative treatments;
+    - support global initiatives targeting the major communicable diseases in the context of poverty reduction, including the Global Fund to fight HIV/AIDS, Tuberculosis and Malaria;
+  - ((ii)) in line with the principles agreed at the ICPD and ICPD + 5, support actions to improve reproductive and sexual health in developing countries and to secure the right of women, men and adolescents to good reproductive and sexual health and provide financial assistance and appropriate expertise with a view to promoting a holistic approach to, and the recognition of, reproductive and sexual health and rights as defined in the ICPD Programme of Action, including safe motherhood and universal access to a comprehensive range of safe and reliable reproductive and sexual health care and services, supplies, education and information, including information on all kinds of family planning methods, including:
+    - reducing maternal mortality and morbidity rates, with particular reference to the countries and populations where these are highest;
+  - ((iii)) improve equitable access to health providers, commodities and health services by supporting:
+    - interventions to address the human resources crisis in health;
+    - health information systems with the ability to generate, measure and analyse disaggregated performance data to ensure better health and development outcomes and sustainability of delivery systems;
+    - improved vaccination and immunisation coverage and promotion of the availability of, and access to, existing or new vaccines;
+    - fair mechanisms for financing equitable access to health care.
+  - ((iv)) keeping a balanced approach between prevention, treatment and care, with prevention as a key priority, acknowledging that its effectiveness is increased when linked with treatment and care.
+- (b) Education, knowledge and skills:
+  - ((i)) special attention to actions taken in the context of the MDGs to achieve universal primary education by 2015 and the Dakar Framework for Action on Education for All;
+  - ((ii)) basic, secondary and higher education as well as vocational education and training to improve access to education for all children and, increasingly, for women and men of all ages, with a view to increasing knowledge, skills and employability on the job market, contributing to active citizenship and individual fulfilment on a life-long basis;
+  - ((iii)) the promotion of high quality basic education, with particular focus on access for girls, children in conflict-affected areas and children from marginalised and more vulnerable social groups to education programmes; the promotion of compulsory and free education up to the age of 15 to combat all forms of child labour;
+  - ((iv)) developing ways to measure learning outcomes in order to better assess the quality of education, especially in literacy, numeracy and essential life skills;
+  - ((v)) promoting donor harmonisation and alignment to promote universal, compulsory, free and high quality education through international or multi-country initiatives;
+  - ((vi)) supporting an inclusive knowledge-based society and contributing to bridging the digital divide, knowledge and information gaps;
+  - ((vii)) improving knowledge and innovation through science and technology as well as development of, and access to, electronic communication networks in order to improve socio-economic growth and sustainable development in conjunction with the international dimension of EU research policy.
+- (c) Gender equality:
+  - ((i)) the promotion of gender equality and women's rights, implementing global commitments as detailed in the Beijing Declaration and Platform for Action and the UN Convention on the Elimination of All Forms of Discrimination Against Women, activities include:
+    - supporting programmes that contribute to achieving the objectives of the Beijing Platform for Action with a special emphasis on gender equality in governance and political and social representation and other actions to empower women;
+    - strengthening institutional and operational capacities of key stakeholders, civil society organisations, women's organisations and networks, in their endeavours to promote gender equality and economic and social empowerment, including north-south and south-south networking and advocacy;
+    - including a gender perspective in monitoring and statistical capacity building, by supporting the development and dissemination of data and indicators disaggregated by sex, as well as gender equality data and indicators;
+    - reducing the adult illiteracy rate, with particular emphasis on female literacy;
+    - actions against violence against women.
+- (d) Other aspects of human and social development:
+  - ((i)) Culture:
+    - promotion of inter-cultural dialogue, cultural diversity and respect for the equal dignity of all cultures;
+    - promotion of international cooperation to stimulate the contribution of cultural industries to economic growth in developing countries to fully exploit its potential for fighting poverty, including addressing issues such as market access and intellectual property rights;
+    - promotion of respect for the social, cultural and spiritual values of indigenous peoples and minorities to enhance equality and justice in multi-ethnic societies in compliance with universal human rights to which everyone is entitled, including indigenous peoples and persons belonging to minorities;
+    - supporting culture as a promising economic sector for development and growth.
+  - ((ii)) Employment and social cohesion:
+    - promotion of an integrated social and economic approach including promotion of productive employment, decent work for all, social cohesion, development of human resources, equity, social security and mapping employment issues and enhancing the quality of jobs in the informal sector and empowering labour associations, in accordance with the principles of the related ILO Conventions and the Community's international commitments in these areas;
+    - promotion of the ‘decent work for all’ agenda as a universal objective, including through global and other multi-country initiatives to implement internationally agreed ILO core labour standards, assessment of trade impact on decent work, sustained and adequate mechanisms for fair financing, effective functioning — and wider coverage — of social protection systems;
+    - support for initiatives to promote the improvement of working conditions as well as the adjustment to trade liberalisation, including an employment dimension in development policies, to help spread European social values;
+    - help to promote the positive social dimension of globalisation and the EU's experience.
+  - ((iii)) Youth and children:
+    - combating all forms of child labour, trafficking of and violence against children and promotion of policies taking into consideration youth's and children's particular vulnerability and potentials, protection of their rights and interests, education, health and livelihoods, starting with participation and empowerment;
+    - enhancing developing countries' attention and capacity to develop policies benefiting youth and children;
+    - advocacy for concrete strategies and interventions to address particular problems and challenges affecting youth and children taking their best interests into account in all relevant action. Participation by children and youth should be ensured;
+    - using the Community's position as the principal donor of ODA among international institutions to urge the multilateral donors to exert pressure for the framing of policies to eliminate the worst forms of child labour, particularly the hazardous ones with a view to promoting the effective elimination of all forms of child labour, combating trafficking of, and violence against, children and promoting the role of children and youth as actors for development.
+
+### Article 13. Environment and sustainable management of natural resources including energy
+
+1. The objective of the thematic programme on environment and sustainable management of natural resources, including water, and energy, shall be to integrate environmental protection requirements into the Community's development and other external policies as well as to help promote the Community's environmental and energy policies abroad in the common interest of the Community and partner countries and regions.
+
+2. To achieve the objective referred to in paragraph 1 and consistent with Article 11, the programme shall include the following areas of activity:
+
+- (a) working upstream in assisting developing countries to achieve the MDG on environmental sustainability through capacity building for environmental integration in developing countries, supporting civil society actors, local authorities and consultative platforms, environmental monitoring and assessment, developing innovative approaches and twinning to share experience and reinforce cooperation in these areas with key countries;
+- (b) promoting implementation of Community initiatives and agreed commitments at international and regional level and/or of a transboundary character through support for sustainable development including activities to address current and future climate change issues, biodiversity, desertification, forests, land degradation fisheries and marine resources, compliance with environmental standards (for products and production processes), sound chemicals and wastes management, fight against pollution, sustainable production and consumption and environment-related migration. This also includes efforts to promote good forest governance and combat illegal logging, particularly through FLEGT, and innovative activities for the conservation and sustainable management of forests with active participation of local communities and forest dependent peoples.
+
+  With regard to water, the thematic programme will aim at establishing a framework for long term protection of water resources and promoting sustainable water use through support for policy coordination;
+- (c) better integration of environmental objectives through support for methodological work, enhancing environmental expertise available for policy work, integration and innovative actions of the Community and promoting coherence;
+- (d) strengthening environmental governance and supporting international policy development by working for coherence between the environmental and the other pillars of international governance for sustainable development and by assisting regional and international environmental monitoring and assessment, providing additional support to the Secretariats of multilateral environmental agreements, promoting effective compliance and enforcement measures for multilateral environmental agreements including through capacity building, supporting international organisations and processes, supporting civil society and policy think tanks, and improving the efficiency of international negotiations;
+- (e) supporting sustainable energy options in partner countries and regions, through integration of sustainable energy in development plans and strategies, developing institutional support and technical assistance, creating a favourable legislative and policy framework to attract new business and investors in renewable energy, enhancing the role of energy as a means to create income generation for the poor, promoting innovative financing approaches, and encouraging regional cooperation between governments, non-governmental organisations and the private sector in the above areas. The Community's strategic actions will give particular encouragement to the use of renewable energy sources, increased energy efficiency, and the development of appropriate energy regulatory frameworks in the countries and regions concerned and the replacement of especially damaging energy sources by others which are less so.
+
+### Article 14. Non-State actors and local authorities in development
+
+1. The objective of the thematic programme on non-State actors and local authorities in development shall be to co-finance initiatives proposed and/or carried out by civil society organisations and local authorities originating from the Community and partner countries in the area of development. At least 85 % of the funding foreseen under this thematic programme shall be allocated to non-State actors. The programme shall be implemented in consistency with the objective of this Regulation and to strengthen the capacity of non-State actors and local authorities in the policy making process, so as to:
+
+- (a) promote an inclusive and empowered society in order to:
+  - ((i)) benefit populations out of reach of mainstream services and resources and excluded from policy making processes;
+  - ((ii)) strengthen the capacity of civil society organisations and local authorities in partner countries, with a view to facilitating their participation in defining and implementing poverty reduction and sustainable development strategies;
+  - ((iii)) facilitate interaction between State and non-State actors in different contexts and support an increased role for local authorities in decentralisation processes;
+- (b) increase the level of awareness of the European citizen regarding development issues and mobilise active public support in the Community and acceding countries for poverty reduction and sustainable development strategies in partner countries, for fairer relations between developed and developing countries, and reinforce civil society and local authority roles for these purposes;
+- (c) achieve more efficient cooperation, foster synergies and facilitate a structured dialogue between civil society networks and local authorities' associations, within their organisations and with Community institutions.
+
+2. To achieve the objective referred to in paragraph 1 and consistent with Article 11, the programme shall include the following areas of activity:
+
+- (a) interventions in developing countries and regions which:
+  - ((i)) strengthen participatory development and processes and inclusion of all actors, especially vulnerable and marginalised groups;
+  - ((ii)) support capacity development processes of the actors concerned at country, regional or local level;
+  - ((iii)) promote mutual understanding processes;
+  - ((iv)) facilitate citizens' active engagement in development processes and at strengthening their capacity to take action;
+- (b) raising public awareness of development issues and promoting education for development in the Community and in acceding countries, to anchor development policy in European societies, to mobilise greater public support in the Community and acceding countries for action against poverty and for fairer relations between developed and developing countries, to raise awareness in the Community of the issues and difficulties facing developing countries and their peoples, and to promote the social dimension of globalisation;
+- (c) coordination and communication between civil society and local authority networks, within their organisations and between different types of stakeholders active in the European and global public debate on development.
+
+3. Support to local authorities in partner countries shall normally be carried out in the framework of country strategy papers except where the latter do not provide appropriate support, particularly in situations such as difficult partnerships, fragile states and post-conflict.
+
+Support to local authorities and their associations will take account of their contributing capacity in the calculation of Community co-financing.
+
+### Article 15. Food security
+
+1. The objective of the thematic programme on food security shall be to improve food security in favour of the poorest and most vulnerable people and contribute to achieving the MDG on poverty and hunger, through a set of actions which ensure overall coherence, complementarity and continuity of Community interventions, including in the area of the transition from relief to development.
+
+2. To achieve the objective referred to in paragraph 1 and consistently with Article 11, the programme shall include the following areas of activity:
+
+- (a) contributing to the provision of international public goods, in particular pro-poor demand driven research and technological innovation, as well as capacity development, scientific and technical South-South and South-North cooperation and twinning;
+- (b) supporting global, continental and regional programmes which notably:
+  - ((i)) support food security information and early warning;
+  - ((ii)) support food security in specific fields such as agriculture, including formulation of regional agricultural policies and access to land, agricultural trade and natural resource management;
+  - ((iii)) promote, strengthen and complement national food security and poverty reduction strategies in the short, medium and longer-term; and
+  - ((iv)) support networking of policy experts and non-State actors to foster the global food security agenda;
+- (c) advocating and advancing the food security agenda. The Community shall continue to address key food security issues in the international debate, and shall promote harmonisation, coherence and alignment of policies and aid delivery modes of development partners and donors. In particular, the promotion of the role of civil society in food security issues should be strengthened;
+- (d) addressing food insecurity in exceptional situations of transition and State fragility, playing a central role in linking relief, rehabilitation and development. The thematic programme shall:
+  - ((i)) support interventions to protect, maintain and recover productive and social assets vital for food security, to facilitate economic integration and longer term rehabilitation; and
+  - ((ii)) support crisis prevention and management, to address vulnerability to shocks and to strengthen people's resilience;
+- (e) developing innovative food security policies, strategies and approaches, and strengthening the potential for their replication and South-South dissemination. Areas for intervention may include agriculture, including land reform and land policy, sustainable management of and access to natural resources, food security in relation to rural and local development, including infrastructure, nutrition, demography and labour, migration, health and education. Consistency and complementarity with other Community programmes in these areas shall be ensured.
+
+### Article 16. Migration and asylum
+
+1. The objective of the thematic programme on cooperation with third countries in the areas of migration and asylum shall be to support them in their efforts to ensure better management of migratory flows in all their dimensions. While the subject of the thematic programme shall be primarily migration to the Community, it shall also take account of relevant south/south migratory flows.
+
+2. To achieve the objective referred to in paragraph 1 and consistent with Article 11, the programme shall include the following areas of activity:
+
+- (a) fostering the links between migration and development, especially by encouraging the contribution of diasporas to the development of their country of origin and increasing the value of migrants' return; mitigating brain drain and promoting the circular movement of skilled migrants; facilitating financial transfers of migrants to their country of origin; supporting voluntary return and reintegration of migrants and building capacities for migration management; fostering capacity building efforts to help countries in the formulation of pro-development migration policies and in their capacity to jointly manage migration flows;
+- (b) promoting well-managed labour migration, in particular by informing about legal migration and conditions of entry in and stay on the territory of the Member States of the Community; providing information on labour migration opportunities and needs in Member States and on qualifications of third country candidates for migration; supporting pre-departure training for candidates for legal migration; and encouraging the definition and implementation of legislative frameworks for migrant workers in third countries;
+- (c) fighting illegal immigration and facilitating the readmission of illegal immigrants, including between third countries, and in particular, fighting the smuggling of and trafficking in human beings; discouraging illegal immigration and raising awareness of the risks related to it; improving capacities in the areas of border, visa and passport management, including the security of documents and the introduction of biometric data, and detection of forged documents; implementing effectively readmission agreements concluded with the Community and obligations arising out of international agreements; and assisting third countries in the management of illegal immigration and in the coordination of their policies;
+- (d) protecting migrants, including the most vulnerable such as women and children against exploitation and exclusion through measures such as developing third countries' legislation in the field of migration; supporting integration and non-discrimination as well as measures to protect migrants from racism and xenophobia; preventing and fighting the smuggling of and trafficking in human beings and any form of slavery;
+- (e) promoting asylum and international protection, including through regional protection programmes, in particular in strengthening institutional capacities; supporting the registration of asylum applicants and refugees; promoting international standards and instruments on the protection of refugees; supporting the improvement of reception conditions and local integration, and working towards lasting solutions.
+
+### Article 17. ACP Sugar Protocol countries
+
+1. ACP Sugar Protocol countries listed in Annex III affected by the Community sugar reform shall benefit from a programme of accompanying measures. Community assistance to these countries shall aim at supporting their adjustment process as they are faced with new conditions on the sugar market due to the reform of the common organisation of the market in sugar. Community assistance shall take into account the countries' adaptation strategies and shall pay specific attention to the following areas of cooperation:
+
+- (a) enhancing the competitiveness of the sugar and cane sector, where this is a sustainable process, taking into account the situation of the different stakeholders in the chain;
+- (b) promoting the economic diversification of sugar-dependent areas;
+- (c) addressing broader impacts generated by the adaptation process, possibly related, but not restricted, to employment and social services, land use and environmental restoration, the energy sector, research and innovation and macro-economic stability.
+
+2. Within the amount referred to in Annex IV, the Commission shall fix the maximum amount available to each Sugar Protocol country for financing the actions referred to in paragraph 1 on the basis of the needs of each country, related in particular to the impact of the reform of the sugar sector in the country concerned and to the importance of the sugar sector to the economy. The measurement of the allocation criteria shall be based on data of campaigns preceding 2004.
+
+Further instructions regarding the allocation of the overall amount among beneficiaries shall be defined by the Commission, acting in accordance with the procedure referred to in Article 35(2).
+
+### Article 17a. Main ACP banana-supplying countries[^c000002]
+
+1. The ACP banana-supplying countries listed in Annex IIIa shall benefit from the banana accompanying measures programme (BAM programme).
+
+- (a) General objectives:
+
+  Union assistance shall aim at:
+
+  - ((i)) supporting the adjustment process following liberalisation of the Union market for bananas in the framework of the WTO;
+  - ((ii)) combating poverty by improving the living standards and conditions of farmers and persons concerned.
+- (b) General priorities:
+
+  Union assistance shall take into account the countries' policies and adaptation strategies, as well as their regional environment (in terms of proximity to outermost regions of the Union and overseas countries and territories) and shall focus on one or more of the following areas of cooperation:
+
+  - ((i)) addressing broader impacts generated by the adaptation process, particularly in local communities and the most vulnerable groups therein, related but not restricted to employment and social services, land use and environmental restoration;
+  - ((ii)) promoting the economic diversification of banana-dependent areas, where such a strategy is viable;
+  - ((iii)) enhancing the competitiveness of the banana export sector, where this is sustainable, taking into account the situation of different stakeholders in the chain.
+
+  Programmes shall promote compliance with labour and safety standards, as well as environmental standards, including the use of and exposure to pesticides.
+- (c) General expected results:
+
+  The results of the assistance shall be in line with the objectives as set out in point (a) of this paragraph. In particular, and in cooperation with the beneficiary countries, Union assistance shall pursue results to be achieved in social, environmental and economic areas.
+
+2. Within the amount referred to in Annex IV, the Commission shall fix the maximum indicative amount available to each eligible ACP banana-supplying country referred to in paragraph 1 of this Article on the basis of the following criteria:
+
+- (a) level of trade in bananas with the Union, whereby higher Union imports from the ACP country concerned will reflect positively on the allocation. This criterion is based on the size of the banana export sector to the Union in the different countries. The average of the three highest annual tonnages of bananas imported by the Union from each eligible beneficiary country over the last five years preceding 2010 will be taken into account;
+- (b) importance of banana exports to the Union in the economy, whereby higher levels of importance in the ACP country concerned will reflect positively on the allocation. This criterion will be measured by taking the value of Union banana imports from each eligible beneficiary country as a percentage of the country’s gross national income (GNI) over the last three years preceding 2010 for which data are available;
+- (c) level of development, whereby lower levels of development as recorded in the UN’s human development index (HDI) in the ACP country concerned will reflect positively on the allocation. This criterion will be measured by the average HDI over the period 2005-2007, for which the same methodology was used by the UN.
+
+The measurement of the allocation criteria shall be based on representative data preceding 2011 and covering a period not longer than five years. The indicative country allocations will take account in the same way of the three criteria across all eligible beneficiary countries.
+
+On the basis of the application of the criteria referred to above, the Commission will inform the European Parliament and Council about the intended use of the indicative financial allocation referred to in Annex IV before the adoption of the multiannual support strategies mentioned in paragraph 3 of this Article. That information will set out, for each eligible ACP banana-supplying country, the indicative amount available.
+
+3. The Commission shall adopt multiannual support strategies by analogy to Article 19, and in accordance with Article 21. It shall ensure that such strategies complement the geographic strategy papers of the countries concerned, and the temporary nature of the banana accompanying measures.
+
+The multiannual support strategies for banana accompanying measures shall include:
+
+- (a) an updated environmental profile paying due attention to the country’s banana sector, inter alia, focusing on pesticides;
+- (b) information on the achievements of past banana support programmes;
+- (c) indicators to assess progress in relation to disbursement conditions, when budget support will be chosen as the form of financing;
+- (d) the expected results of the assistance;
+- (e) a time schedule of support activities and of expected disbursements;
+- (f) the ways in which progress will be achieved and monitored in meeting internationally agreed ILO core labour standards and appropriate occupational safety and health conventions as well as relevant internationally agreed core environmental standards.
+
+In the framework of the multiannual financial framework for 2007-2013, established by Interinstitutional Agreement of 17 May 2006 between the European Parliament, the Council and the Commission in budgetary discipline and sound financial management [^f00016] , the BAM programme and the progress made by the countries concerned shall be the subject of an assessment, which shall include recommendations on any measures to be taken and the nature thereof.
+
+## TITLE III — PROGRAMMING AND ALLOCATION OF FUNDS
+
+### Article 18. General framework for programming and allocating funds
+
+1. In the case of geographic programmes, the Commission shall draw up a strategy paper and a multiannual indicative programme for each partner country or region, as provided for in Article 19, and adopt an annual action programme for each partner country or region, as provided for in Article 22.
+
+In the case of thematic programmes, the Commission shall draw up thematic strategy papers as provided for in Article 20, and adopt action programmes as provided for in Article 22.
+
+In exceptional circumstances, Community support may also take the form of special measures not covered in strategy papers or multiannual indicative programmes, as provided for in Article 23.
+
+2. The Commission shall determine the multiannual indicative allocations within each geographic programme using standard, objective and transparent resource allocation criteria, based on the needs and performance of the partner country or region concerned and bearing in mind the particular difficulties faced by countries or regions in crisis, conflict or disaster prone, alongside the specificity of the different programmes.
+
+The needs criteria include population, income per capita and the extent of poverty, income distribution and the level of social development. The performance criteria include political, economic and social progress, progress in good governance and the effective use of aid, and in particular the way a country uses scarce resources for development, beginning with its own resources.
+
+3. The Commission may include a specific financial allocation for the purpose of strengthening cooperation between the EU's outermost regions and neighbouring partner countries and regions.
+
+### Article 19. Geographic strategy papers and multiannual indicative programmes
+
+1. The preparation and implementation of strategy papers shall apply principles of aid effectiveness: national ownership, partnership, coordination, harmonisation, alignment to recipient country or regional systems and results orientation as laid down in Article 3(5) to (8).
+
+2. Strategy papers shall cover no more than the period of validity of this Regulation and aim to provide a coherent framework for cooperation between the Community and the partner country or region concerned, consistent with the overall purpose and scope, objectives, principles and policy prescriptions of, and Annex IV to, this Regulation. Multiannual indicative programmes shall be based on strategy papers.
+
+Strategy papers shall be reviewed at mid-term, or *ad hoc* if necessary, in accordance where appropriate with the principles and procedures laid down in the Partnership and Cooperation Agreements concluded with the partner countries and regions.
+
+3. Strategy papers shall, in principle, be based on a dialogue with the partner country or region which involves civil society and regional and local authorities, so as to ensure that the country or region concerned takes sufficient ownership of the process and to encourage support for national development strategies, particularly those for reducing poverty.
+
+4. Multiannual indicative programmes shall be drawn up on the basis of the strategy papers for each partner country or region. They shall be the subject of an agreement with the country or region where possible.
+
+Multiannual indicative programmes shall set out the priority areas selected for Community financing, the specific objectives, the expected results and the performance indicators.
+
+The programmes shall also set out the indicative financial allocation, both overall and per priority area; this may be given in the form of a range, where appropriate. These allocations shall be consistent with the indicative allocations set out in Annex IV.
+
+The programmes shall be adjusted where necessary, taking into account any mid-term or ad hoc reviews of strategy papers.
+
+A multiannual indicative allocation may be increased or decreased as a result of reviews, particularly in the light of special needs such as those of a post-crisis situation, or where performance has been exceptional or unsatisfactory.
+
+5. In circumstances such as crises, post conflict situations or threats to democracy, the rule of law, human rights or fundamental freedoms, a special emergency procedure may be used to conduct an ad hoc review of the country's or region's cooperation strategy. Such reviews may propose a country or region strategy to make the transition to long-term cooperation and development.
+
+6. In accordance with Article 2(6), the strategy shall ensure that measures taken under this Regulation are consistent with, and avoid duplication with, measures eligible for funding under other Community instruments, in particular Regulation (EC) No 1717/2006 and Regulation (EC) No 1257/96. Where partner countries or groups of partner countries are directly involved in, or affected by, a crisis or post-crisis situation, multiannual indicative programmes shall place special emphasis on stepping up coordination between relief, rehabilitation and development to help them make the transition from an emergency situation to the development phase; programmes for countries and regions regularly subject to natural disasters shall provide for disaster preparedness and prevention and the management of the consequences of such disasters.
+
+7. To foster regional cooperation, the Commission may decide when adopting annual action programmes of the type referred to in Article 22, or the special measures referred to in Article 23 for cooperation measures under this Chapter, that projects or programmes of a regional or cross-border nature carried out with countries listed in Annex V are eligible, in accordance with the first subparagraph of Article 2(4). Provisions may be made for this in the strategy papers and multiannual indicative programmes, referred to in this Article, and in Article 20.
+
+8. The Commission and the Member States shall consult each other, as well as other donors and development actors including representatives of civil society and regional and local authorities, at an early stage of the programming process in order to promote complementarity among their cooperation activities.
+
+### Article 20. Strategy papers for thematic programmes
+
+1. Thematic strategy papers shall cover no more than the period of validity of this Regulation. They shall set out the Community's strategy for the theme concerned, the Community's priorities, the international situation and the activities of the main partners. They shall be consistent with the overall purpose and scope, objectives, principles and policy prescriptions of, and Annex IV to, this Regulation.
+
+Thematic strategy papers shall set out the priority areas selected for financing by the Community, the specific objectives, the expected results and the performance indicators.
+
+The thematic strategy papers shall also give the indicative financial allocation, both overall and per priority area; this may be given in the form of a range, where appropriate.
+
+Strategy papers shall be reviewed at mid-term, or *ad hoc* if necessary.
+
+2. The Commission and the Member States shall consult each other, as well as other donors and development actors including representatives of civil society and local authorities, at an early stage of the programming process in order to promote complementarity among their cooperation activities.
+
+3. Resources and intervention priorities shall be laid down for participation in global initiatives.
+
+### Article 21. Adoption of strategy papers and multiannual indicative programmes
+
+Strategy papers and multiannual indicative programmes referred to in Articles 19 and 20, and any reviews thereof referred to in Article 19(2) and Article 20(1), as well as accompanying measures referred to in Articles 17 and 17a respectively, shall be adopted by the Commission in accordance with the procedure referred to in Article 35(2).
+
+## TITLE IV — IMPLEMENTATION
+
+### Article 22. Adoption of annual action programmes
+
+1. The Commission shall adopt annual action programmes based on the strategy papers and multiannual indicative programmes referred to in Articles 19 and 20.
+
+Exceptionally, for instance where an action programme has not yet been adopted, the Commission may, on the basis of the strategy papers and multiannual indicative programmes referred to in Articles 19 and 20, adopt measures not provided for in an annual action programme under the same rules and procedures as for action programmes.
+
+2. Annual action programmes shall specify the objectives pursued, the fields of intervention, the expected results, the management procedures and total amount of financing planned. They shall contain a description of the operations to be financed, an indication of the amounts allocated for each operation and an indicative implementation timetable. Objectives shall be measurable and have time bound benchmarks.
+
+3. The annual action programmes shall be adopted by the Commission in accordance with the procedure referred to in Article 35(2).
+
+4. Appropriate environmental screening shall be undertaken at project level including environmental impact assessment (EIA) for environmentally sensitive projects, in particular for major new infrastructure. Where relevant, strategic environmental assessments (SEA) shall be used in the implementation of sectoral programmes. The involvement of interested stakeholders in environmental assessments and public access to the results shall be ensured.
+
+### Article 23. Adoption of special measures not provided for in the strategy papers or multiannual indicative programmes
+
+1. In the event of unforeseen and duly justified needs or circumstances related to natural disasters, civil strife or crises, and which cannot be funded under Regulation (EC) No 1717/2006 or Regulation (EC) No 1257/96, the Commission shall adopt special measures not provided for in the strategy papers or multiannual indicative programmes (hereinafter referred to as ‘special measures’).
+
+Special measures may also be used to fund measures to ease the transition from emergency aid to long-term development operations, including those to better prepare people to deal with recurring crises.
+
+2. Special measures shall specify the objectives pursued, the intervention areas, the expected results, the management procedures and the total amount of financing. They shall contain a description of the operations to be financed, an indication of the amounts allocated for each operation and the indicative timetable for their implementation. They shall include a definition of the type of performance indicators that will have to be monitored when implementing the special measures.
+
+3. Where the cost of such measures exceeds EUR 10 million, the Commission shall adopt them under the management procedure referred to in Article 35(2). For special measures below EUR 10 million, the Commission shall send the measures to the Member States and the European Parliament for information within one month of adopting its decision.
+
+4. The procedure referred to in Article 35(2) need not be used for amendments to special measures, such as those making technical adjustments, extending the implementation period, reassigning funds within the forecast budget, or increasing or reducing the size of the budget by less than 20 % of the initial budget, provided these amendments do not affect the initial objectives set out in the Commission decision. Any such technical adjustments shall be communicated within one month to the European Parliament and to the Member States.
+
+### Article 24. Eligibility
+
+1. Without prejudice to Article 31, the following, *inter alia*, shall be eligible for funding under this Regulation for the purposes of implementing the annual action programmes referred to in Article 22 or the special measures referred to in Article 23:
+
+- (a) partner countries and regions, and their institutions;
+- (b) decentralised bodies in the partner countries, such as municipalities, provinces, departments and regions;
+- (c) joint bodies set up by the partner countries and regions with the Community;
+- (d) international organisations, including regional organisations, UN bodies, departments and missions, international and regional financial institutions and development banks, in so far as they contribute to the objectives of this Regulation;
+- (e) Community institutions and bodies, but only for the purposes of implementing the support measures referred to in Article 26;
+- (f) EU agencies;
+- (g) the following entities and bodies of the Member States, partner countries and regions and any other third country complying with the rules on access to the Community's external assistance set out in Article 31, insofar as they help to achieve the objectives of this Regulation:
+  - ((i)) public or para-Statal bodies, local authorities and consortia or representative associations thereof;
+  - ((ii)) companies, firms and other private organisations and businesses;
+  - ((iii)) financial institutions that grant, promote and finance private investment in partner countries and regions;
+  - ((iv)) non-State actors as defined in paragraph 2;
+  - ((v)) natural persons.
+
+2. The non-State, non-profit making actors eligible for financial support under this Regulation operating on an independent and accountable basis include: non governmental organisations, organisations representing indigenous peoples, organisations representing national and/or ethnic minorities, local traders' associations and citizens' groups, cooperatives, trade unions, organisations representing economic and social interests, organisations fighting corruption and fraud and promoting good governance, civil rights organisations and organisations combating discrimination, local organisations (including networks) involved in decentralised regional cooperation and integration, consumer organisations, women's and youth organisations, teaching, cultural, research and scientific organisations, universities, churches and religious associations and communities, the media and any non governmental associations and independent foundations, including independent political foundations, likely to contribute to the implementation of the objectives of this Regulation.
+
+### Article 25. Types of financing
+
+1. Community financing may take the following forms:
+
+- (a) projects and programmes;
+- (b) budget support if the partner country's management of public spending is sufficiently transparent, reliable and effective, and where it has put in place properly formulated sectoral or macroeconomic policies positively assessed by its principal donors; including, where relevant, the international financial institutions. The Commission shall consistently use an approach based on results and performance indicators and shall clearly define and monitor its conditionality and support efforts of partner countries to develop parliamentary control and audit capacities and to increase transparency and public access to information. Disbursement of budgetary support shall be conditional on satisfactory progress towards achieving the objectives in terms of impact and results;
+- (c) sectoral support;
+- (d) in exceptional cases, sectoral and general import programmes, which may take the form of:
+  - ((i)) sectoral import programmes in kind;
+  - ((ii)) sectoral import programmes providing foreign exchange to finance imports for the sector in question; or
+  - ((iii)) general import programmes providing foreign exchange to finance general imports of a wide range of products;
+- (e) funds made available to the EIB or other financial intermediaries on the basis of Commission programmes for the purpose of providing loans (in particular to support investment in and development of the private sector), risk capital (in the form of subordinated or conditional loans) or other temporary minority holdings in business capital, and contributions to guarantee funds in accordance with Article 32, to the extent that the financial risk of the Community is limited to these funds;
+- (f) interest-rate subsidies, especially for environment related loans;
+- (g) debt-relief, under internationally agreed debt relief programmes;
+- (h) grants to finance projects submitted by entities of the type listed in Article 24(1)(b), (c), (d), (f) and (g)(i) to (v);
+- (i) grants to finance the operating costs of entities of the type listed in Article 24(1)(b), (c), (d), (f) and (g)(i), (iii) and (iv);
+- (j) funding for twinning programmes between public institutions, local authorities, national public bodies or private-law entities entrusted with public service tasks of a Member State and those of a partner country or region;
+- (k) contributions to international funds, such as those managed by international or regional organisations;
+- (l) contributions to national funds set up by partner countries and regions to attract joint financing from a number of donors, or contributions to funds set up by one or more donors for the purpose of the joint implementation of projects;
+- (m) capital investments in international financial institutions and regional development banks;
+- (n) human and material resources required for effective administration and supervision of projects and programmes by partner countries and regions.
+
+2.[^c000003] Union assistance shall not in principle be used for paying taxes, duties or charges in beneficiary countries.
+
+### Article 26. Support measures
+
+1. Community financing may cover expenditure associated with the preparation, follow up, monitoring, audit and evaluation activities directly necessary for the implementation of this Regulation and the achievement of its objectives, e.g. studies, meetings, information, awareness-raising, training and publication activities, expenditure associated with computer networks for the exchange of information, and any other administrative or technical assistance expenditure necessary for the management of the programme. It shall also cover expenditure at Commission delegations on the administrative support needed to manage operations financed under this Regulation.
+
+2. These support measures are not necessarily covered by multiannual indicative programmes and may therefore be financed outside the scope of strategy papers and multiannual indicative programmes. However, they may also be financed under multiannual indicative programmes.
+
+The Commission shall adopt support measures not covered by the multiannual indicative programmes in accordance with Article 23(3) and (4).
+
+### Article 27. Co-financing
+
+1. Measures shall be eligible for co-financing from the following, *inter alia*:
+
+- (a) Member States and their regional and local authorities, and in particular their public and para-Statal agencies;
+- (b) other donor countries, and in particular their public and para-Statal agencies;
+- (c) international organisations, including regional organisations, and in particular international and regional financial institutions;
+- (d) companies, firms, other private organisations and businesses, and other non-State actors;
+- (e) partner countries and regions in receipt of funding.
+
+2. In the case of parallel co-financing, the project or programme is split into a number of clearly identifiable components, which are each financed by the different partners providing co-financing in such a way that the end-use of the financing can always be identified.
+
+In the case of joint co-financing, the total cost of a project or programme is shared between the partners providing the co-financing and the resources are pooled in such a way that it is no longer possible to identify the source of financing for any given activity undertaken as part of the project or programme.
+
+3. In the case of joint co-financing, the Commission may receive and manage funds on behalf of the bodies referred to in paragraph 1(a), (b) and (c) for the purpose of implementing joint measures. Such funds shall be treated as assigned revenue, in accordance with Article 18 of Regulation (EC, Euratom) No 1605/2002.
+
+### Article 28. Management procedures
+
+1. The measures financed under this Regulation shall be implemented in accordance with Regulation (EC, Euratom) No 1605/2002 and any revision thereof.
+
+2. In the event of co-financing and in other duly justified cases, the Commission may entrust tasks of public authority, and in particular budget implementation tasks, to the bodies referred to in Article 54(2)(c) of Regulation (EC, Euratom) No 1605/2002.
+
+3. In the case of decentralised management, the Commission may decide to use the procurement or grant procedures of the beneficiary partner country or region after verifying that they respect the relevant criteria of Regulation (EC, Euratom) No 1605/2002, provided that:
+
+- the procedures of the beneficiary partner country or region satisfy the principles of transparency, proportionality, equal treatment and non-discrimination and prevent any conflict of interests,
+- the beneficiary partner country or region undertakes to check regularly that the operations financed by the General Budget of the European Union have been properly implemented, to take appropriate measures to prevent irregularities and fraud, and, if necessary, to take legal action to recover unduly paid funds.
+
+### Article 29. Budget commitments
+
+1. Budget commitments shall be made on the basis of decisions taken by the Commission in accordance with Articles 17a(3), 22(1), 23(1) and 26(1).
+
+2. Community financing may take one of the following legal forms, *inter alia*:
+
+- financing agreements,
+- grant agreements,
+- procurement contracts,
+- employment contracts.
+
+### Article 30. Protecting the Community's financial interests
+
+1. Any agreements resulting from this Regulation shall contain provisions ensuring the protection of the Community's financial interests, in particular with respect to irregularities, fraud, corruption and any other illegal activity, in accordance with Council Regulation (EC, Euratom) No 2988/95 of 18 December 1995 on the protection of the European Communities' financial interests[^f00017], Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities' financial interests against fraud and other irregularities[^f00018] and Regulation (EC) No 1073/1999 of the European Parliament and of the Council of 25 May 1999 concerning investigations conducted by the European Antifraud Office (OLAF)[^f00019].
+
+2. Agreements shall expressly entitle the Commission and the Court of Auditors to perform audits, including document audits or on the spot audits of any contractor or subcontractor who has received Community funds. They shall also expressly authorise the Commission to carry out on-the-spot checks and inspections as provided for in Regulation (Euratom, EC) No 2185/96.
+
+3. All contracts resulting from the implementation of assistance shall ensure the rights of the Commission and the Court of Auditors under paragraph 2 during and after the performance of the contracts.
+
+### Article 31. Public procurement procedures, grant award procedures, rules of origin
+
+1. Participation in the award of procurement or grant contracts financed under this Regulation shall be open to all natural persons who are nationals of, or legal persons who are established in, a Member State of the Community, in an official candidate country as recognised by the European Community or in a Member State of the European Economic Area.
+
+Participation in the award of procurement or grant contracts financed under a geographic programme as defined in Articles 5 to 10 shall be open to all natural persons who are nationals of, or legal persons who are established in, any developing country eligible by virtue of Annex I.
+
+Participation in the award of procurement or grant contracts financed under a thematic programme as defined in Articles 11 to 16, and the programmes set out in Articles 17 and 17a, shall be open to all natural persons who are nationals of, or legal persons who are established in, a developing country, as specified by the OECD/DAC and in Annex II, in addition to natural or legal persons eligible by virtue of the thematic programme or the programmes set out in Articles 17 and 17a. The Commission shall publish and update Annex II in accordance with regular reviews of the list of aid recipients of the OECD/DAC, and inform the Council thereof.
+
+2. Participation in the award of procurement or grant contracts financed under this Regulation shall also be open to all natural persons who are nationals of or legal persons who are established in any country other than those referred in paragraph 1, where reciprocal access to their external assistance has been established.
+
+Reciprocal access shall be granted whenever a country grants eligibility on equal terms to the Member States and to the recipient country concerned.
+
+Reciprocal access shall be established by means of a specific decision concerning a given country or a given regional group of countries. Such a decision shall be adopted in accordance with the procedure referred to in Article 35(2) and shall be in force for a minimum period of one year.
+
+The granting of reciprocal access shall be based on a comparison between the Community and other donors and shall proceed at sectoral level, as defined by the OECD/DAC categories, or at country level, whether it be a donor or a recipient country. The decision to grant such reciprocity to a donor country shall be based on the transparency, consistency and proportionality of the aid provided by that donor, including its qualitative and quantitative nature. The recipient countries shall be consulted as part of the procedure described in this paragraph.
+
+Reciprocal access in the least developed countries as defined by the OECD/DAC shall be automatically granted to OECD/DAC members.
+
+3. Participation in the award of procurement or grant contracts financed under a Community instrument shall be open to international organisations.
+
+4. The above is without prejudice to the participation of categories of eligible organisations by nature or by localisation in regard to the objectives of the action to carry out.
+
+5. Experts may be of any nationality, without prejudice to the qualitative and financial requirements set out in the Community's procurement rules.
+
+6. All supplies and materials purchased under a contract financed under this Regulation shall originate from the Community or from an eligible country as defined in paragraph 1 and 2. The term ‘origin’ for the purpose of this Regulation is defined in the relevant Community legislation on rules of origin for customs purposes.
+
+7. The Commission may, in duly substantiated cases, authorise the participation of natural and legal persons from countries having traditional economic, trade or geographical links with neighbouring countries or other third countries, and the use of supplies and materials of different origin.
+
+8. The Commission may, in duly substantiated exceptional cases, authorise the participation of natural persons who are nationals of or legal persons who are established in other countries than those referred to in paragraph 1 and 2, or the purchase of supplies and materials of different origins from that set out in paragraph 6.
+
+Derogations may be justified on the basis of the unavailability of products and services in the markets of the countries concerned, for reasons of extreme urgency, or if the eligibility rules would make the realisation of a project, a programme or an action impossible or exceedingly difficult.
+
+9. Whenever Community funding covers an operation implemented through an international organisation, participation in the appropriate contractual procedures shall be open to all natural or legal persons who are eligible pursuant to paragraph 1 and 2 as well as to all natural or legal persons who are eligible pursuant to the rules of that organisation, care being taken to ensure that equal treatment is afforded to all donors. The same rules shall apply in respect of supplies, materials and experts.
+
+Whenever Community funding covers an operation co-financed with a third country, subject to reciprocity as defined in paragraph 2, or with a regional organisation, or with a Member State, participation in the appropriate contractual procedures shall be open to all natural or legal persons who are eligible pursuant to paragraph 1, 2 and 3 as well as to all natural or legal persons who are eligible under the rules of such third country, regional organisation or Member State. The same rules shall apply in respect of supplies, materials and experts.
+
+10. For the purposes of aid channelled directly through non-State actors under the thematic programme defined in Article 14, the provisions of paragraph 1 shall not apply to the eligibility criteria established for the selection of grant beneficiaries.
+
+Beneficiaries of these grants shall abide by the rules established in this Article where the implementation of aid requires the award of procurement contracts.
+
+11. In order to accelerate the eradication of poverty through the promotion of local capacities, markets and purchases, special consideration shall be given to local and regional procurement in partner countries.
+
+Tenderers who have been awarded contracts shall respect internationally agreed core labour standards, e.g. the ILO core labour standards, conventions on freedom of association and collective bargaining, elimination of forced and compulsory labour, elimination of discrimination in respect of employment and occupation, and the abolition of child labour.
+
+Access by developing countries to Community assistance shall be rendered possible by all such technical assistance as is deemed appropriate.
+
+### Article 32. Funds made available to the European Investment Bank or other financial intermediaries
+
+1. The funds referred to in Article 25(1)(e) shall be managed by the EIB, other financial intermediaries or any other bank or organisation with the capacity to manage such funds.
+
+2. The Commission shall adopt implementing provisions for paragraph 1 on a case-by-case basis to cover risk sharing, the remuneration of the intermediary responsible for implementation, the use and recovery of profits on funds, and the closure of the operation.
+
+### Article 33. Evaluation
+
+1. The Commission shall regularly monitor and review its programmes, and evaluate the results of the implementation of geographical and thematic policies and programmes, and of sectoral policies and the effectiveness of programming, where appropriate by means of independent external evaluations, in order to ascertain whether the objectives have been met and enable it to formulate recommendations with a view to improving future operations. Proposals by the European Parliament or the Council for independent external evaluations will be taken into due account. Particular attention shall be given to social sectors and to progress made towards achieving the MDGs.
+
+2. The Commission shall send its evaluation reports to the European Parliament and to the Committee referred to in Article 35 for information. Member States may request to discuss specific evaluations in the Committee referred to in Article 35(3). The results shall feed back into programme design and resource allocation.
+
+3. The Commission shall associate all relevant stakeholders, including non-State actors and local authorities, in the evaluation phase of the Community assistance provided under this Regulation.
+
+## TITLE V — FINAL PROVISIONS
+
+### Article 34. Annual report
+
+1. The Commission shall examine the progress made in implementing the measures taken under this Regulation and shall submit to the European Parliament and the Council an annual report on the implementation and the results and, as far as possible, on the main outcomes and impacts of the assistance. This report shall also be submitted to the European Economic and Social Committee and to the Committee of the Regions.
+
+2. The annual report shall contain information relating to the previous year on the measures financed, the results of monitoring and evaluation exercises, the involvement of the relevant partners, and the implementation of budget commitments and payments, broken down by country, region and cooperation sector. It shall assess the results of the assistance, using as far as possible, specific and measurable indicators of its role in meeting the objectives of this Regulation. Particular attention shall be given to social sectors and to progress made towards achieving the MDGs.
+
+### Article 35. Committee
+
+1. The Commission shall be assisted by a committee.
+
+2. Where reference is made to this paragraph, Articles 4 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof. The period laid down in Article 4(3) of the Decision shall be set at 30 days.
+
+3. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+4. The committee shall adopt its rules of procedure.
+
+5. An observer from the EIB shall take part in the committee's proceedings, with regard to questions concerning the Bank.
+
+### Article 36. Participation by a third country not eligible under this Regulation
+
+Without prejudice to Article 3(5), to ensure the coherence and effectiveness of Community assistance, the Commission may decide when adopting action programmes referred to in Article 22 or the special measures referred to in Article 23 that countries, territories and regions eligible for Community assistance under Regulation (EC) No 1085/2006 or Regulation (EC) No 1638/2006 and the EDF are eligible for measures under this Regulation where the geographic or thematic project or programme to be implemented is of a global, regional or cross border nature. Provision may be made for this method of financing in the strategy papers and multiannual indicative programmes referred to in Articles 19 and 20. The provisions of Article 10 concerning eligibility and the provisions of Article 31 concerning participation in public procurement and grant award procedures and rules of origin shall be adapted to allow the countries, territories and regions concerned to take part.
+
+### Article 37. Suspension of assistance
+
+Without prejudice to the provisions on suspension of aid in partnership and cooperation agreements with partner countries and regions, where a partner country fails to observe the principles referred to in Article 3(1), and where consultations with the partner country do not lead to a solution acceptable to both parties, or if consultations are refused or in cases of special urgency, the Council, acting by a qualified majority on a proposal from the Commission, may take appropriate measures in respect of any assistance granted to the partner country under this Regulation. Such measures may include full or partial suspension of assistance.
+
+### Article 38. Financial provisions
+
+1. The financial reference amount for the implementation of this Regulation over the period 2007-2013 is EUR 17 087 million.
+
+2. The indicative amounts allocated to each programme referred to in Articles 5 to 10, 11 to 16 and 17 to 17a are laid down in Annex IV. These amounts are established for the period 2007-2013.
+
+3. Annual appropriations shall be authorised by the budgetary authority within the limits of the multiannual financial framework.
+
+4. An indicative amount of EUR 465 million has been included in the total amount for thematic programmes to finance activities that benefit the ENPI countries.
+
+### Article 39. Repeals
+
+1. The following Regulations are hereby repealed:
+
+- (a) Regulation (EC) No 2110/2005 of the European Parliament and of the Council of 14 December 2005 on access to Community external assistance[^f00020];
+- (b) Regulation (EC) No 806/2004 of the European Parliament and of the Council of 21 April 2004 on promoting gender equality in development cooperation[^f00021];
+- (c) Regulation (EC) No 491/2004 of the European Parliament and of the Council of 10 March 2004 establishing a programme for financial and technical assistance to third countries in the areas of migration and asylum (AENEAS)[^f00022];
+- (d) Regulation (EC) No 1568/2003 of the European Parliament and of the Council of 15 July 2003 on aid to fight poverty diseases (HIV/AIDS, tuberculosis and malaria) in developing countries[^f00023];
+- (e) Regulation (EC) No 1567/2003 of the European Parliament and of the Council of 15 July 2003 on aid for policies and actions on reproductive and sexual health and rights in developing countries[^f00024];
+- (f) Regulation (EC) No 2130/2001 of the European Parliament and of the Council of 29 October 2001 on operations to aid uprooted people in Asia and Latin American developing countries[^f00025];
+- (g) Regulation (EC) No 2494/2000 of the European Parliament and of the Council of 7 November 2000 on measures to promote the conservation and sustainable management of tropical forests and other forests in developing countries[^f00026];
+- (h) Regulation (EC) No 2493/2000 of the European Parliament and of the Council of 7 November 2000 on measures to promote the full integration of the environmental dimension in the development process of developing countries[^f00027];
+- (i) Regulation (EC) No 1726/2000 of the European Parliament and of the Council of 29 June 2000 on development cooperation with South Africa[^f00028];
+- (j) Council Regulation (EC) No 1659/98 of 17 July 1998 on decentralised cooperation[^f00029];
+- (k) Council Regulation (EC) No 1658/98 of 17 July 1998 on co-financing operations with European non-governmental organisations (NGOs) in fields of interest to the developing countries[^f00030];
+- (l) Council Regulation (EC) No 1292/96 of 27 June 1996 on food-aid policy and food-aid management and special operations in support of food security[^f00031];
+- (m) Council Regulation (EEC) No 443/92 of 25 February 1992 on financial and technical assistance to, and economic cooperation with, the developing countries in Asia and Latin America[^f00032] (ALA).
+
+2. The repealed Regulations shall continue to apply for legal acts and commitments of pre 2007 budget years. Any reference to the repealed Regulations shall be deemed to be a reference to this Regulation.
+
+### Article 40. Review
+
+Not later than 31 December 2010, the Commission shall submit to the European Parliament and the Council a report evaluating the implementation of this Regulation in the first three years with, if appropriate, a legislative proposal introducing the necessary modifications, including the indicative financial allocations set out in Annex IV.
+
+### Article 41. Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 1 January 2007 to 31 December 2013.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — COUNTRIES ELIGIBLE UNDER ARTICLE 1(1)[^c000004]
+
+*Latin America*
+
+1\.
+
+Argentina
+
+2\.
+
+Bolivia
+
+3\.
+
+Brazil
+
+4\.
+
+Chile
+
+5\.
+
+Colombia
+
+6\.
+
+Costa Rica
+
+7\.
+
+Cuba
+
+8\.
+
+Ecuador
+
+9\.
+
+El Salvador
+
+10\.
+
+Guatemala
+
+11\.
+
+Honduras
+
+12\.
+
+Mexico
+
+13\.
+
+Nicaragua
+
+14\.
+
+Panama
+
+15\.
+
+Paraguay
+
+16\.
+
+Peru
+
+17\.
+
+Uruguay
+
+18\.
+
+Venezuela
+
+*Asia*
+
+19\.
+
+Afghanistan
+
+20\.
+
+Bangladesh
+
+21\.
+
+Bhutan
+
+22\.
+
+Cambodia
+
+23\.
+
+China
+
+24\.
+
+India
+
+25\.
+
+Indonesia
+
+26\.
+
+Democratic People’s Republic of Korea
+
+27\.
+
+Laos
+
+28\.
+
+Malaysia
+
+29\.
+
+Maldives
+
+30\.
+
+Mongolia
+
+31\.
+
+Myanmar
+
+32\.
+
+Nepal
+
+33\.
+
+Pakistan
+
+34\.
+
+Philippines
+
+35\.
+
+Sri Lanka
+
+36\.
+
+Thailand
+
+37\.
+
+Vietnam
+
+*Central Asia*
+
+38\.
+
+Kazakhstan
+
+39\.
+
+Kyrgyz Republic
+
+40\.
+
+Tajikistan
+
+41\.
+
+Turkmenistan
+
+42\.
+
+Uzbekistan
+
+*Middle East*
+
+43\.
+
+Iran
+
+44\.
+
+Iraq
+
+45\.
+
+Yemen
+
+*Southern Africa*
+
+46\.
+
+South Africa
+
+## ANNEX II
+
+**OECD/DAC LIST OF ODA RECIPIENTS**
+
+*Effective for reporting on 2011, 2012 and 2013 flows*
+
+<table>
+<tfoot>
+<tr><td colspan="4">Territory.</td></tr>
+<tr><td colspan="4">This is without prejudice to the status of Kosovo under international law.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Least Developed Countries</th><th>Other Low Income Countries (per capita GNI &lt; USD 1 005 in 2010)</th><th>Lower Middle Income Countries and Territories (per capita GNI USD 1 006 - USD 3 975 in 2010)</th><th>Upper Middle Income Countries and Territories (per capita GNI USD 3 976 - USD 12 275 in 2007)</th></tr>
+<tr><td>Afghanistan</td><td>Kenya</td><td>Armenia</td><td>Albania</td></tr>
+<tr><td>Angola</td><td>Korea, Democratic People’s Republic of</td><td>Belize</td><td>Algeria</td></tr>
+<tr><td>Bangladesh</td><td>Kyrgyz Rep.</td><td>Bolivia</td><td>Anguilla</td></tr>
+<tr><td>Benin</td><td>South Sudan</td><td>Cameroon</td><td>Antigua and Barbuda</td></tr>
+<tr><td>Bhutan</td><td>Tajikistan</td><td>Cape Verde</td><td>Argentina</td></tr>
+<tr><td>Burkina Faso</td><td>Zimbabwe</td><td>Congo, Rep.</td><td>Azerbaijan</td></tr>
+<tr><td>Burundi</td><td></td><td>Côte d’Ivoire</td><td>Belarus</td></tr>
+<tr><td>Cambodia</td><td></td><td>Egypt</td><td>Bosnia and Herzegovina</td></tr>
+<tr><td>Central African Rep.</td><td></td><td>El Salvador</td><td>Botswana</td></tr>
+<tr><td>Chad</td><td></td><td>Fiji</td><td>Brazil</td></tr>
+<tr><td>Comoros</td><td></td><td>Georgia</td><td>Chile</td></tr>
+<tr><td>Congo, Dem. Rep.</td><td></td><td>Ghana</td><td>China</td></tr>
+<tr><td>Djibouti</td><td></td><td>Guatemala</td><td>Colombia</td></tr>
+<tr><td>Equatorial Guinea</td><td></td><td>Guyana</td><td>Cook Islands</td></tr>
+<tr><td>Eritrea</td><td></td><td>Honduras</td><td>Costa Rica</td></tr>
+<tr><td>Ethiopia</td><td></td><td>India</td><td>Cuba</td></tr>
+<tr><td>Gambia</td><td></td><td>Indonesia</td><td>Dominica</td></tr>
+<tr><td>Guinea</td><td></td><td>Iraq</td><td>Dominican Republic</td></tr>
+<tr><td>Guinea-Bissau</td><td></td><td>Kosovo</td><td>Ecuador</td></tr>
+<tr><td>Haiti</td><td></td><td>Marshall Islands</td><td>Former Yugoslav Republic of Macedonia</td></tr>
+<tr><td>Kiribati</td><td></td><td>Micronesia, Federated States</td><td>Gabon</td></tr>
+<tr><td>Laos</td><td></td><td>Moldova</td><td>Grenada</td></tr>
+<tr><td>Lesotho</td><td></td><td>Mongolia</td><td>Iran</td></tr>
+<tr><td>Liberia</td><td></td><td>Morocco</td><td>Jamaica</td></tr>
+<tr><td>Madagascar</td><td></td><td>Nicaragua</td><td>Jordan</td></tr>
+<tr><td>Malawi</td><td></td><td>Nigeria</td><td>Kazakhstan</td></tr>
+<tr><td>Mali</td><td></td><td>Pakistan</td><td>Lebanon</td></tr>
+<tr><td>Mauritania</td><td></td><td>Papua New Guinea</td><td>Libya</td></tr>
+<tr><td>Mozambique</td><td></td><td>Paraguay</td><td>Malaysia</td></tr>
+<tr><td>Myanmar</td><td></td><td>Philippines</td><td>Maldives</td></tr>
+<tr><td>Nepal</td><td></td><td>Sri Lanka</td><td>Mauritius</td></tr>
+<tr><td>Niger</td><td></td><td>Swaziland</td><td>Mexico</td></tr>
+<tr><td>Rwanda</td><td></td><td>Syria</td><td>Montenegro</td></tr>
+<tr><td>Samoa</td><td></td><td>Tokelau</td><td>Montserrat</td></tr>
+<tr><td>São Tomé and Príncipe</td><td></td><td>Tonga</td><td>Namibia</td></tr>
+<tr><td>Senegal</td><td></td><td>Turkmenistan</td><td>Nauru</td></tr>
+<tr><td>Sierra Leone</td><td></td><td>Ukraine</td><td>Niue</td></tr>
+<tr><td>Solomon Islands</td><td></td><td>Uzbekistan</td><td>Palau</td></tr>
+<tr><td>Somalia</td><td></td><td>Vietnam</td><td>Panama</td></tr>
+<tr><td>Sudan</td><td></td><td>West Bank and Gaza Strip</td><td>Peru</td></tr>
+<tr><td>Tanzania</td><td></td><td></td><td>Serbia</td></tr>
+<tr><td>Timor-Leste</td><td></td><td></td><td>Seychelles</td></tr>
+<tr><td>Togo</td><td></td><td></td><td>South Africa</td></tr>
+<tr><td>Tuvalu</td><td></td><td></td><td>St. Helena</td></tr>
+<tr><td>Uganda</td><td></td><td></td><td>St. Kitts-Nevis</td></tr>
+<tr><td>Vanuatu</td><td></td><td></td><td>St. Lucia</td></tr>
+<tr><td>Yemen</td><td></td><td></td><td>St. Vincent and Grenadines</td></tr>
+<tr><td>Zambia</td><td></td><td></td><td>Suriname</td></tr>
+<tr><td></td><td></td><td></td><td>Thailand</td></tr>
+<tr><td></td><td></td><td></td><td>Tunisia</td></tr>
+<tr><td></td><td></td><td></td><td>Turkey</td></tr>
+<tr><td></td><td></td><td></td><td>Uruguay</td></tr>
+<tr><td></td><td></td><td></td><td>Venezuela</td></tr>
+<tr><td></td><td></td><td></td><td>Wallis and Futuna</td></tr>
+</tbody>
+</table>
+
+[^f00033][^f00034][^f00033][^f00033][^f00033][^f00033]
+
+## ANNEX III — ACP SUGAR PROTOCOL COUNTRIES
+
+- 1.. Barbados
+- 2.. Belize
+- 3.. Guyana
+- 4.. Jamaica
+- 5.. Saint Kitts and Nevis
+- 6.. Trinidad and Tobago
+- 7.. Fiji
+- 8.. Republic of the Congo
+- 9.. Côte d'Ivoire
+- 10.. Kenya
+- 11.. Madagascar
+- 12.. Malawi
+- 13.. Mauritius
+- 14.. Mozambique
+- 15.. Swaziland
+- 16.. Tanzania
+- 17.. Zambia
+- 18.. Zimbabwe
+
+## ANNEX IIIa — MAIN ACP BANANA-SUPPLYING COUNTRIES
+
+1\.
+
+Belize
+
+2\.
+
+Cameroon
+
+3\.
+
+Côte d’Ivoire
+
+4\.
+
+Dominica
+
+5\.
+
+Dominican Republic
+
+6\.
+
+Ghana
+
+7\.
+
+Jamaica
+
+8\.
+
+Saint Lucia
+
+9\.
+
+Saint Vincent and the Grenadines
+
+10\.
+
+Suriname
+
+## ANNEX IV
+
+**INDICATIVE FINANCIAL ALLOCATIONS FOR THE PERIOD 2007-2013**
+
+<table>
+<tbody>
+<tr><td colspan="2">(EUR million)</td></tr>
+<tr><td>Total</td><td>17 087</td></tr>
+<tr><td>Geographic programmes:</td><td>10 057</td></tr>
+<tr><td>Latin America</td><td>2 690</td></tr>
+<tr><td>Asia</td><td>5 187</td></tr>
+<tr><td>Central Asia</td><td>719</td></tr>
+<tr><td>Middle East</td><td>481</td></tr>
+<tr><td>South Africa</td><td>980</td></tr>
+<tr><td>Thematic programmes:</td><td>5 596</td></tr>
+<tr><td>Investing in people</td><td>1 060</td></tr>
+<tr><td>Environment and sustainable management of natural resources</td><td>804</td></tr>
+<tr><td>Non-State actors and local authorities in development</td><td>1 639</td></tr>
+<tr><td>Food security</td><td>1 709</td></tr>
+<tr><td>Migration and asylum</td><td>384</td></tr>
+<tr><td>ACP Sugar Protocol countries</td><td>1 244</td></tr>
+<tr><td>Main ACP banana-supplying countries</td><td>190</td></tr>
+</tbody>
+</table>
+
+## ANNEX V — NON-DEVELOPING COUNTRIES AND TERRITORIES
+
+- 1.. Australia
+- 2.. Bahrain
+- 3.. Brunei
+- 4.. Canada
+- 5.. Chinese Taipei
+- 6.. Hong Kong
+- 7.. Japan
+- 8.. Korea
+- 9.. Macao
+- 10.. New Zealand
+- 11.. Kuwait
+- 12.. Qatar
+- 13.. Singapore
+- 14.. United Arab Emirates
+- 15.. United States of America
+
+## Annotations
+
+[^f00001]: Footnote: Opinion of the European Parliament of 18 May 2006 (not yet published in the Official Journal), Council Common Position of 23 October 2006 (not yet published in the Official Journal) and Position of the European Parliament of 12 December 2006 (not yet published in the Official Journal).
+
+[^f00002]: Footnote: [OJ L 210, 31.7.2006, p. 82](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.210.01.0082.01.ENG).
+
+[^f00003]: Footnote: [OJ L 310, 9.11.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.310.01.0001.01.ENG).
+
+[^f00004]: Footnote: [OJ L 405, 30.12.2006, p. 40](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.405.01.0040.01.ENG).
+
+[^f00005]: Footnote: [OJ L 327, 24.11.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.327.01.0001.01.ENG).
+
+[^f00006]: Footnote: This Regulation will be adopted at a later date.
+
+[^f00007]: Footnote: [OJ L 386, 29.12.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.386.01.0001.01.ENG).
+
+[^f00008]: Footnote: [OJ L 163, 2.7.1996, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1996.163.01.0001.01.ENG). Regulation as amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council ([OJ L 284, 31.10.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.284.01.0001.01.ENG)).
+
+[^f00009]: Footnote: [OJ C 46, 24.2.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2006.046.01.0001.01.ENG).
+
+[^f00010]: Footnote: [OJ L 314, 30.11.2001, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.314.01.0001.01.ENG).
+
+[^f00011]: Footnote: [OJ L 50, 21.2.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.050.01.0001.01.ENG).
+
+[^f00012]: Footnote: [OJ L 248, 16.9.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.248.01.0001.01.ENG).
+
+[^f00013]: Footnote: [OJ C 139, 14.6.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2006.139.01.0001.01.ENG).
+
+[^f00014]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG). Decision as amended by Decision 2006/512/EC ([OJ L 200, 22.7.2006, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.200.01.0011.01.ENG)).
+
+[^c000001]: Textual amendment: Substituted by [Regulation (EU) No 1341/2011 of the European Parliament and of the Council of 13 December 2011 amending Regulation (EC) No 1905/2006 establishing a financing instrument for development cooperation](https://www.legislation.gov.uk/eur/2011/1341).
+
+[^f00015]: Footnote: Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part ([OJ L 311, 4.12.1999, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.311.01.0003.01.ENG).)
+
+[^c000002]: Textual amendment: Inserted by [Regulation (EU) No 1341/2011 of the European Parliament and of the Council of 13 December 2011 amending Regulation (EC) No 1905/2006 establishing a financing instrument for development cooperation](https://www.legislation.gov.uk/eur/2011/1341).
+
+[^f00016]: Footnote: [OJ C 139, 14.6.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2006.139.01.0001.01.ENG)[^c000002] .
+
+[^c000003]: Textual amendment: Substituted by [Regulation (EU) No 1339/2011 of the European Parliament and of the Council of 13 December 2011 amending Regulation (EC) No 1905/2006 establishing a financing instrument for development cooperation](https://www.legislation.gov.uk/eur/2011/1339).
+
+[^f00017]: Footnote: [OJ L 312, 23.12.1995, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1995.312.01.0001.01.ENG).
+
+[^f00018]: Footnote: [OJ L 292, 15.11.1996, p. 2](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1996.292.01.0002.01.ENG).
+
+[^f00019]: Footnote: [OJ L 136, 31.5.1999, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.136.01.0001.01.ENG).
+
+[^f00020]: Footnote: [OJ L 344, 27.12.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.344.01.0001.01.ENG).
+
+[^f00021]: Footnote: [OJ L 143, 30.4.2004, p. 40](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.143.01.0040.01.ENG).
+
+[^f00022]: Footnote: [OJ L 80, 18.3.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.080.01.0001.01.ENG).
+
+[^f00023]: Footnote: [OJ L 224, 6.9.2003, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.224.01.0007.01.ENG). Regulation as amended by Regulation (EC) No 2110/2005.
+
+[^f00024]: Footnote: [OJ L 224, 6.9.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.224.01.0001.01.ENG). Regulation as amended by Regulation (EC) No 2110/2005.
+
+[^f00025]: Footnote: [OJ L 287, 31.10.2001, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.287.01.0003.01.ENG). Regulation as last amended by Regulation (EC) No 2110/2005.
+
+[^f00026]: Footnote: [OJ L 288, 15.11.2000, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.288.01.0006.01.ENG). Regulation as amended by Regulation (EC) No 2110/2005.
+
+[^f00027]: Footnote: [OJ L 288, 15.11.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.288.01.0001.01.ENG). Regulation as amended by Regulation (EC) No 2110/2005.
+
+[^f00028]: Footnote: [OJ L 198, 4.8.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.198.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 2110/2005
+
+[^f00029]: Footnote: [OJ L 213, 30.7.1998, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.213.01.0006.01.ENG). Regulation as last amended by Regulation (EC) No 625/2004 of the European Parliament and of the Council ([OJ L 99, 3.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.099.01.0001.01.ENG)).
+
+[^f00030]: Footnote: [OJ L 213, 30.7.1998, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.213.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 2110/2005.
+
+[^f00031]: Footnote: [OJ L 166, 5.7.1996, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1996.166.01.0001.01.ENG). Regulation as amended by Regulation (EC) No 1726/2001 of the European Parliament and of the Council ([OJ L 234, 1.9.2001, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.234.01.0010.01.ENG)).
+
+[^f00032]: Footnote: [OJ L 52, 27.2.1992, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1992.052.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 2112/2005 ([OJ L 344, 27.12.2005, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.344.01.0023.01.ENG)).
+
+[^c000004]: Textual amendment: Substituted by [Commission Regulation (EU) No 127/2013 of 13 February 2013 amending Annexes I and II to Regulation (EC) No 1905/2006 of the European Parliament and of the Council establishing a financing instrument for development cooperation](https://www.legislation.gov.uk/eur/2013/127).
+
+[^f00033]: Footnote: Territory.[^c000004]
+
+[^f00034]: Footnote: This is without prejudice to the status of Kosovo under international law.

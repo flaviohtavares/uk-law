@@ -1,0 +1,92 @@
+---
+title: Commission Decision of 4 August 2005 amending Decision 2005/393/EC as regards the restricted zones in relation to bluetongue in Italy (notified under document number C(2005) 2929) (Text with EEA relevance) (2005/603/EC)
+id: eudn/2005/603
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2005-08-04'
+text_date: '2005-08-04'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2005/603
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2005/603/pdfs/eudn_20050603_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2005/603/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Decision of 4 August 2005 amending Decision 2005/393/EC as regards the restricted zones in relation to bluetongue in Italy (notified under document number C(2005) 2929) (Text with EEA relevance) (2005/603/EC)
+
+> Text as at 2005-08-04.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Decision
+
+of 4 August 2005
+
+amending Decision 2005/393/EC as regards the restricted zones in relation to bluetongue in Italy
+
+(notified under document number C(2005) 2929)
+
+(Text with EEA relevance)
+
+(2005/603/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Directive 2000/75/EC of 20 November 2000 laying down specific provisions for the control and eradication of bluetongue[^f00001], and in particular point (c) of Article 8 (3) and the third paragraph of Article 19 thereof,
+
+Whereas:
+
+(1)
+
+Directive 2000/75/EC lays down control rules and measures to combat bluetongue in the Community, including the establishment of protection and surveillance zones and a ban on animals leaving those zones.
+
+(2)
+
+Commission Decision 2005/393/EC of 23 May 2005 on protection and surveillance zones in relation to bluetongue and conditions applying to movements from or through these zones[^f00002] provides for the demarcation of the global geographic areas where protection and surveillance zones (the restricted zones) are to be established by the Member States in relation to bluetongue.
+
+(3)
+
+On 7 June 2005 Italy presented a report to the Standing Committee for the Food Chain and Animal Health which concludes that the surveillance system in place in Italy has proved that no virus has circulated in the province of Massa Carrara, in Toscana, for more than two years.
+
+(4)
+
+Consequently, that province should be considered free of bluetongue and, on the basis of the substantiated request submitted by Italy, deleted from the Italian provinces listed under Zone B in Annex I to Decision 2005/393/EC.
+
+(5)
+
+Decision 2005/393/EC should therefore be amended accordingly.
+
+(6)
+
+The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** In Annex I to Decision 2005/393/EC, in the part for Zone B, in the row for Toscana, ‘Massa Carrara’ is deleted.
+
+**Article 2.** This Decision shall apply from the day following its publication in the *Official Journal of the European Union*.
+
+**Article 3.** This Decision is addressed to the Member States.
+
+Done at Brussels, 4 August 2005.
+
+*For the Commission*
+
+Markos Kyprianou
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 327, 22.12.2000, p. 74](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.327.01.0074.01.ENG).
+
+[^f00002]: Footnote: [OJ L 130, 24.5.2005, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.130.01.0022.01.ENG). Decision as amended by Decision 2005/434/EC ([OJ L 151, 14.6.2005, p. 21](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.151.01.0021.01.ENG)).

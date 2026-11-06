@@ -1,0 +1,56 @@
+---
+title: Commission Regulation (EU) No 741/2010 of 17 August 2010 amending Regulations (EC) No 1490/2002 and (EC) No 2229/2004 as regards the date until which authorisations may continue to be in force in cases where the notifier has submitted an application in accordance with the accelerated procedure under Regulation (EC) No 33/2008 (Text with EEA relevance)
+id: eur/2010/741
+type: EuropeanUnionRegulation
+category: euretained
+status: repealed
+made_date: '2010-08-17'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2010/741
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2010/741/pdfs/eur_20100741_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2010/741/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EU) No 741/2010 of 17 August 2010 amending Regulations (EC) No 1490/2002 and (EC) No 2229/2004 as regards the date until which authorisations may continue to be in force in cases where the notifier has submitted an application in accordance with the accelerated procedure under Regulation (EC) No 33/2008 (Text with EEA relevance)
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Commission Regulation (EU) No 741/2010
+
+of 17 August 2010
+
+amending Regulations (EC) No 1490/2002 and (EC) No 2229/2004 as regards the date until which authorisations may continue to be in force in cases where the notifier has submitted an application in accordance with the accelerated procedure under Regulation (EC) No 33/2008
+
+(Text with EEA relevance) (revoked)
+
+[^key-bb6bc79edf01fdb18ffc624eccbf3ebe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 1. Amendment to Regulation (EC) No 1490/2002[^key-bb6bc79edf01fdb18ffc624eccbf3ebe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 2. Amendment to Regulation (EC) No 2229/2004[^key-bb6bc79edf01fdb18ffc624eccbf3ebe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 3. Entry into force[^key-bb6bc79edf01fdb18ffc624eccbf3ebe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-bb6bc79edf01fdb18ffc624eccbf3ebe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-bb6bc79edf01fdb18ffc624eccbf3ebe]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

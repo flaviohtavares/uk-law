@@ -1,0 +1,42 @@
+---
+title: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 71
+act: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)
+section: Article 71
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2016/429/section/Article 71
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 71
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 71. Additional disease control measures, coordination of measures and temporary special disease control rules concerning Sections 1 to 5 (Articles 53 to 70)
+
+*Extent: E+W+S+N.I.*
+
+1. Member States may take disease control measures additional to those provided for in Article 55, Article 61(1), Article 62, Article 65(1) and (2) and Article 68(1) and in any delegated acts adopted pursuant to Article 63, Article 67 and Article 68(2), provided that such measures respect the rules laid down in this Regulation and are necessary and proportionate to control the spread of a listed disease as referred to in point (a) of Article 9(1), taking into account:
+
+- (a) the particular epidemiological circumstances;
+- (b) the type of establishments, other locations and production concerned;
+- (c) the species and categories of animals involved;
+- (d) economic or social conditions.
+
+2. Member States shall inform the Commission without delay of:
+
+- (a) the disease control measures taken by their competent authority as provided for in Articles 58, 59, 61, 62, 64 and 65, Article 68(1), Article 69 and Article 70(1) and (2) and in any delegated acts adopted pursuant to Articles 63 and 67 and Articles 68(2) and 70(3);
+- (b) any additional disease control measures taken by them as provided for in paragraph 1.
+
+3. The Commission shall review the disease situation and the disease control measures taken by the competent authority and any additional disease control measures taken by the Member State concerned, in accordance with this Chapter, and may, by means of implementing acts, lay down special disease control measures for a limited period of time, under conditions appropriate to the epidemiological situation, where:
+
+- (a) those disease control measures are found not to be suited to the epidemiological situation;
+- (b) the listed disease referred to in point (a) of Article 9(1) appears to be spreading despite the disease control measures taken in accordance with this Chapter.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 266(2).
+
+4. On duly justified imperative grounds of urgency relating to a disease representing an emerging risk of a highly significant impact, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 266(3).

@@ -1,0 +1,59 @@
+---
+title: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 113
+act: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance)
+section: Article 113
+status: revised
+text_date: '2020-12-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2013/36/section/Article 113
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 113
+
+> Text as at 2020-12-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 113. Joint decisions on institution-specific prudential requirements[^c000001]
+
+*Extent: E+W+S+N.I.*
+
+1. The consolidating supervisor and the competent authorities responsible for the supervision of subsidiaries of an EU parent institution or an EU parent financial holding company or EU parent mixed financial holding company shall do everything within their power to reach a joint decision:
+
+- (a) on the application of Articles 73 and 97 to determine the adequacy of the consolidated level of own funds held by the group of institutions with respect to its financial situation and risk profile and the required level of own funds for the application of point (a) of Article 104(1) to each entity within the group of institutions and on a consolidated basis;
+- (b) on measures to address any significant matters and material findings relating to liquidity supervision, including relating to the adequacy of the organisation and the treatment of risks as required pursuant to Article 86 and relating to the need for institution-specific liquidity requirements in accordance with Article 105;
+- (c) on any guidance on additional own funds referred to in Article 104b(3).
+
+2. The joint decisions referred to in paragraph 1 shall be reached:
+
+- (a) for the purposes of point (a) of paragraph 1 of this Article, within four months of submission by the consolidating supervisor of a report containing the risk assessment of the group of institutions in accordance with Article 104a to the other relevant competent authorities;
+- (b) for the purposes of point (b) of paragraph 1 of this Article, within four months of submission by the consolidating supervisor of a report containing the assessment of the liquidity risk profile of the group of institutions in accordance with Articles 86 and 105;
+- (c) for the purposes of point (c) of paragraph 1 of this Article, within four months of submission by the consolidating supervisor of a report containing the risk assessment of the group of institutions in accordance with Article 104b.
+
+The joint decisions referred to in paragraph 1 of this Article shall also duly consider the risk assessment of subsidiaries performed by relevant competent authorities in accordance with Articles 73, 97, 104a and 104b.
+
+The joint decisions referred to in points (a) and (b) of paragraph 1 shall be set out in documents containing full reasons which shall be provided to the EU parent institution by the consolidating supervisor. In the event of disagreement, the consolidating supervisor shall at the request of any of the other competent authorities concerned consult EBA. The consolidating supervisor may consult EBA on its own initiative.
+
+3. In the absence of such a joint decision between the competent authorities within the time periods referred to in paragraph 2 of this Article, a decision on the application of Articles 73, 86 and 97, point (a) of Article 104(1), Article 104b and Article 105 of this Directive shall be taken on a consolidated basis by the consolidating supervisor after duly considering the risk assessment of subsidiaries performed by relevant competent authorities. If, at the end of the time periods referred to in paragraph 2 of this Article, any of the competent authorities concerned has referred the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the consolidating supervisor shall defer its decision and await any decision that EBA may take in accordance with Article 19(3) of that Regulation, and shall take its decision in conformity with the decision of EBA. The time periods referred to in paragraph 2 of this Article shall be deemed the conciliation periods within the meaning of Regulation (EU) No 1093/2010. EBA shall take its decision within one month of receipt of the referral to EBA. The matter shall not be referred to EBA after the end of the four-month period or after a joint decision has been reached.
+
+The decision on the application of Articles 73, 86 and 97, point (a) of Article 104(1), Article 104b and Article 105 of this Directive shall be taken by the respective competent authorities responsible for supervision of subsidiaries of an EU parent credit institution or EU parent financial holding company or EU parent mixed financial holding company on an individual or sub-consolidated basis after duly considering the views and reservations expressed by the consolidating supervisor. If, at the end of any of the time periods referred to in paragraph 2 of this Article, any of the competent authorities concerned has referred the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the competent authorities shall defer their decision and await any decision that EBA shall take in accordance with Article 19(3) of that Regulation, and shall take their decision in conformity with the decision of EBA. The time periods referred to in paragraph 2 of this Article shall be deemed the conciliation periods within the meaning of that Regulation. EBA shall take its decision within one month of receipt of the referral to EBA. The matter shall not be referred to EBA after the end of the four-month period or after a joint decision has been reached.
+
+The decisions shall be set out in a document containing full reasons and shall take into account the risk assessment, views and reservations of the other competent authorities expressed during the time periods referred to in paragraph 2. The document shall be provided by the consolidating supervisor to all competent authorities concerned and to the EU parent institution.
+
+Where EBA has been consulted, all the competent authorities shall consider its advice, and explain any significant deviation therefrom.
+
+4. The joint decisions referred to in paragraph 1 and the decisions taken by the competent authorities in the absence of a joint decision referred to in paragraph 3 shall be recognised as determinative and applied by the competent authorities in the Member States concerned.
+
+The joint decisions referred to in paragraph 1 of this Article and any decision taken in the absence of a joint decision in accordance with paragraph 3 of this Article, shall be updated on an annual basis or, in exceptional circumstances, where a competent authority responsible for the supervision of subsidiaries of an EU parent institution or, EU parent financial holding company or EU parent mixed financial holding company makes a written and fully reasoned request to the consolidating supervisor to update the decision on the application of point (a) of Article 104(1), Articles 104b and 105. In those exceptional circumstances, the update may be addressed on a bilateral basis between the consolidating supervisor and the competent authority making the request.
+
+5. EBA shall develop draft implementing technical standards to ensure uniform conditions of application of the joint decision process referred to in this Article, with regard to the application of Articles 73, 86 and 97, point (a) of Article 104(1), Articles 104b and 105 with a view to facilitating joint decisions.
+
+EBA shall submit those draft implementing technical standards to the Commission by 1 July 2014 .
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+## Annotations
+
+[^c000001]: Textual amendment: Substituted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).

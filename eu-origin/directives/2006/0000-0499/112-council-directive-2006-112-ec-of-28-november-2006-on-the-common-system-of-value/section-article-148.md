@@ -1,0 +1,29 @@
+---
+title: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, section Article 148
+act: Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax
+section: Article 148
+status: revised
+text_date: '2020-12-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2006/112/section/Article 148
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, section Article 148
+
+> Text as at 2020-12-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Article 148.** Member States shall exempt the following transactions:
+
+- ((a)) the supply of goods for the fuelling and provisioning of vessels used for navigation on the high seas and carrying passengers for reward or used for the purpose of commercial, industrial or fishing activities, or for rescue or assistance at sea, or for inshore fishing, with the exception, in the case of vessels used for inshore fishing, of ships' provisions;
+- ((b)) the supply of goods for the fuelling and provisioning of fighting ships, falling within the combined nomenclature (CN) code 8906 10 00, leaving their territory and bound for ports or anchorages outside the Member State concerned;
+- ((c)) the supply, modification, repair, maintenance, chartering and hiring of the vessels referred to in point (a), and the supply, hiring, repair and maintenance of equipment, including fishing equipment, incorporated or used therein;
+- ((d)) the supply of services other than those referred to in point (c), to meet the direct needs of the vessels referred to in point (a) or of their cargoes;
+- ((e)) the supply of goods for the fuelling and provisioning of aircraft used by airlines operating for reward chiefly on international routes;
+- ((f)) the supply, modification, repair, maintenance, chartering and hiring of the aircraft referred to in point (e), and the supply, hiring, repair and maintenance of equipment incorporated or used therein;
+- ((g)) the supply of services, other than those referred to in point (f), to meet the direct needs of the aircraft referred to in point (e) or of their cargoes.

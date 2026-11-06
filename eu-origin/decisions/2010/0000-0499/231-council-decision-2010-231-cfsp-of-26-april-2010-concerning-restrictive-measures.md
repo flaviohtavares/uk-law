@@ -1,0 +1,648 @@
+---
+title: Council Decision 2010/231/CFSP of 26 April 2010 concerning restrictive measures against Somalia and repealing Common Position 2009/138/CFSP
+id: eudn/2010/231
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2010-04-26'
+text_date: '2020-02-08'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2010/231
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2011-09-26_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2012-07-17_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2012-10-16_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2013-04-26_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2013-11-16_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2014-05-13_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2014-10-21_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2015-03-03_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2015-11-18_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2017-03-08_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2017-12-23_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2018-03-19_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2018-12-12_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/pdfs/eudn_20100231_2020-02-08_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/231/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision 2010/231/CFSP of 26 April 2010 concerning restrictive measures against Somalia and repealing Common Position 2009/138/CFSP
+
+> Text as at 2020-02-08.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision 2010/231/CFSP
+
+of 26 April 2010
+
+concerning restrictive measures against Somalia and repealing Common Position 2009/138/CFSP
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+
+Whereas:
+
+(1)
+
+On 10 December 2002, the Council adopted Common Position 2002/960/CFSP concerning restrictive measures against Somalia[^f00001] following United Nations Security Council Resolutions (UNSCR) 733 (1992), 1356 (2001) and 1425 (2002) relating to an arms embargo against Somalia.
+
+(2)
+
+On 16 February 2009, the Council adopted Common Position 2009/138/CFSP concerning restrictive measures against Somalia and repealing Common Position 2002/960/CFSP[^f00002], implementing UNSCR 1844 (2008) which introduced restrictive measures against those who seek to prevent or block a peaceful political process, or those who threaten the Transitional Federal Institutions (TFIs) of Somalia or the African Union Mission in Somalia (AMISOM) by force, or take action that undermines stability in Somalia or in the region.
+
+(3)
+
+On 1 March 2010, the Council adopted Council Decision 2010/126/CFSP amending Common Position 2009/138/CFSP[^f00003] and implementing UNSCR 1907 (2009) which called upon all States to inspect, in accordance with their national authorities and legislation and consistent with international law, all cargoes to and from Somalia, in their territory, including seaports and airports, if the State concerned has information that provides reasonable grounds to believe that the cargo contains items whose supply, sale, transfer or export is prohibited under the general and complete arms embargo to Somalia established pursuant to paragraph 5 of UNSCR 733 (1992) and elaborated and amended by subsequent resolutions.
+
+(4)
+
+On 19 March 2010, the United Nations Security Council (hereinafter referred to as the ‘Security Council’) adopted UNSCR 1916 (2010) which, inter alia, extended the mandate of the monitoring group referred to in paragraph 3 of UNSCR 1558 (2004) and decided to ease some restrictions and obligations under the sanctions regime to enable the delivery of supplies and technical assistance by international, regional and sub-regional organisations and to ensure the timely delivery of urgently needed humanitarian assistance by the United Nations (UN).
+
+(5)
+
+On 12 April 2010, the Sanctions Committee established by paragraph 11 of UNSCR 751 (1992) concerning Somalia (hereinafter referred to as the ‘Sanctions Committee’) adopted the list of persons and entities which are subject to restrictive measures.
+
+(6)
+
+For the sake of clarity, the measures imposed by Common Position 2009/138/CFSP as amended by Council Decision 2010/126/CFSP and the exemptions provided for in UNSCR 1916 (2010) should be integrated into a single legal instrument.
+
+(7)
+
+Common Position 2009/138/CFSP should therefore be repealed.
+
+(8)
+
+This Decision respects the fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union[^f00004] and notably the right to an effective remedy and to a fair trial, the right to property and the right to the protection of personal data. This Decision should be applied in accordance with those rights and principles.
+
+(9)
+
+This Decision also fully respects the obligations of Member States under the Charter of the United Nations and the legally binding nature of Security Council Resolutions.
+
+(10)
+
+The procedure for amending the Annex I[^c000001] to this Decision should include providing to designated persons and entities the reasons for their listing as transmitted by the Sanctions Committee, so as to give them an opportunity to present observations. Where observations are submitted or where substantial new evidence is presented, the Council should review its decision in the light of those observations and inform the person or entity concerned accordingly.
+
+(11)
+
+Further action by the Union is needed in order to implement certain measures,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** 1. The direct or indirect supply, sale or transfer of arms and related material of all types, including weapons and ammunition, military vehicles and equipment, paramilitary equipment and spare parts for the aforementioned to Somalia by nationals of Member States or from the territories of Member States shall be prohibited whether originating or not in their territories.
+
+2. The direct or indirect supply to Somalia of technical advice, financial and other assistance and training related to military activities, including in particular technical training and assistance related to the provision, manufacture, maintenance or use of the items mentioned in paragraph 1, by nationals of Member States or from the territories of the Member States, shall be prohibited.
+
+3.[^c000002] Paragraphs 1 and 2 shall not apply to:
+
+- (a) the supply, sale or transfer of arms and related material of all types, and the direct or indirect supply of technical advice, financial and other assistance and training related to military activities, intended solely for the support of or use by United Nations personnel, including the United Nations Assistance Mission in Somalia (UNSOM);
+- (b) the supply, sale or transfer of arms and related material of all types, and the direct or indirect supply of technical advice, financial and other assistance and training related to military activities, intended solely for the support of or use by the African Union Mission in Somalia (AMISOM);
+- (c) the supply, sale or transfer of arms and related material of all types, and the direct or indirect supply of technical advice, financial and other assistance and training related to military activities, intended solely for the support of or use by AMISOM’s strategic partners, operating solely under the African Union (AU) Strategic Concept of 5 January 2012 (or subsequent AU strategic concepts), and in cooperation and coordination with AMISOM;
+- (d) the supply, sale or transfer of arms and related material of all types, and the direct or indirect supply of technical advice, financial and other assistance and training related to military activities, intended solely for the support of or use by the European Union Training Mission (EUTM) in Somalia;
+- (e) the supply, sale or transfer of arms and related material of all types, intended solely for the use of Member States or international, regional and subregional organisations undertaking measures to suppress acts of piracy and armed robbery at sea off the coast of Somalia, upon the request of the Federal Government of Somalia for which it has notified the Secretary-General and provided that any measures undertaken shall be consistent with applicable international humanitarian and human rights law;
+- (f) the supply, sale or transfer of arms and related material of all types and the supply of technical advice, financial and other assistance and training related to military activities, intended solely for the development of the Somali National Security Forces, or Somali security sector institutions other than those of the Federal Government of Somalia, to provide security for the Somali people. The delivery of the items set out in Annexes II and III, and the provision of technical advice, financial and other assistance, and training related to military activities shall be subject to the relevant approval or notification requirements as follows:
+  - ((i)) the supply, sale or transfer of arms and related material of all types set out in Annex II intended solely for the development of the Somali National Security Forces, or Somali security sector institutions other than those of the Federal Government of Somalia, to provide security for the Somali people, shall be subject to approval in advance by the Sanctions Committee on a case-by-case basis, as set out in paragraphs 4a and 4b;
+  - ((ii)) the supply, sale or transfer of arms and related material of all types set out in Annex III and the supply of technical advice, financial and other assistance and training related to military activities, intended solely for the development of the Somali National Security Forces to provide security for the Somali people, shall be subject to prior notification to the Sanctions Committee as set out in paragraphs 4 and 4b;
+  - ((iii)) the supply, sale or transfer of arms and related material of all types set out in Annex III and the supply of technical advice, financial and other assistance and training related to military activities by Member States or international, regional and subregional organisations intended solely for the development of the Somali security sector institutions other than those of the Federal Government of Somalia, shall be subject to prior notification to the Sanctions Committee as set out in paragraph 4b, and may be provided in the absence of a negative decision by the Sanctions Committee within five working days of receiving such notification;
+- (g) the supply, sale or transfer of protective clothing, including flak jackets and military helmets, temporarily exported to Somalia by United Nations personnel, representatives of the media and humanitarian and development workers and associated personnel for their personal use only;
+- (h) the supply, sale or transfer of non-lethal military equipment intended solely for humanitarian or protective use, notified to the Sanctions Committee five working days in advance, and for its information only, by the supplying Member State, international, regional or subregional organisation.
+
+4. The Federal Government of Somalia has the primary responsibility to notify the Sanctions Committee at least five working days in advance of any delivery of arms and related material of all types set out in Annex III and the delivery of technical advice, financial and other assistance, and training related to military activities, to the Somali National Security Forces, as set out under point (f)(ii) of paragraph 3 of this Article. Alternatively, Member States delivering arms and related material or technical advice, financial and other assistance, and training related to military activities to the Somali National Security Forces may notify the Sanctions Committee at least five working days in advance, informing the appropriate national coordinating body within the Federal Government of Somalia of the notification and providing the Federal Government of Somalia with technical support with notification procedures where appropriate, in accordance with paragraphs 13 and 14 of UNSCR 2498 (2019). Notifications shall include details of the manufacturer and supplier of arms and related material of all types, a description of the arms and ammunition including the type, calibre and quantity, the proposed date and place of delivery, and all relevant information concerning the intended destination unit in the Somali National Security Forces, or the intended place of storage.
+
+4a. The Federal Government of Somalia has the primary responsibility to request advance approval by the Sanctions Committee at least five working days in advance of any delivery of arms and related material of all types listed in Annex II, to the Somali National Security Forces, as set out in point (f)(ii) of paragraph 3 of this Article. In the alternative, Member States delivering such items may request advance approval by the Sanctions Committee, informing the appropriate national coordinating body within the Federal Government of Somalia of the approval request and providing the Federal Government of Somalia with technical support with notification procedures where appropriate, in accordance with paragraphs 13 and 14 of UNSCR 2498 (2019).
+
+Requests for approval shall include details of the manufacturer and supplier of arms and related material of all types, a description of the arms and ammunition including the type, calibre and quantity, the proposed date and place of delivery, and all relevant information concerning the intended destination unit in the Somali National Security Forces, or the intended place of storage.
+
+4b.[^c000003] Member States shall seek approval from or notify the Sanctions Committee as applicable of the delivery of any arms and related material of all types set out in Annexes II and III, technical advice, financial and other assistance, and training related to military activities to Somali security sector institutions other than those of the Federal Government of Somalia pursuant to points (f)(i) and (f)(iii) of paragraph 3, and shall inform the Federal Government of Somalia in parallel at least five working days in advance.
+
+5. It shall be prohibited to supply, resale, transfer, or make available for use any weapons or military equipment, sold or supplied solely for the development of the Somali National Security Forces, or Somali security sector institutions other than those of the Federal Government of Somalia, to any individual or entity not in the service of the Somali National Security Forces or Somali security sector institutions to which it was originally sold or supplied, or to the selling or supplying Member State or international, regional or subregional organisation.
+
+**Article 1a.**[^c000004] 1. The direct or indirect import, purchase or transport of charcoal from Somalia, whether or not such charcoal originated in Somalia, shall be prohibited.
+
+The Union shall take the necessary measures in order to determine the relevant items to be covered by this provision.
+
+2. It shall be prohibited to provide, directly or indirectly, financing or financial assistance, as well as insurance and reinsurance, related to the import, purchase or transport of charcoal from Somalia.
+
+**Article 1b.**[^c000005] Member States shall exercise vigilance over the direct or indirect supply, sale or transfer to Somalia of items not subject to the measures set out in Article 1(1) and over the direct or indirect supply to Somalia of technical advice, financial and other assistance and training related to military activities related to those items.
+
+**Article 1c.** 1. Subject to Article 1(3), the direct or indirect supply, sale or transfer to Somalia of improvised explosive device components which appear on the EU Common Military List, and are reproduced in Annex IV to this Decision, by nationals of Member States or from the territories of Member States, shall be prohibited whether originating or not in their territories.
+
+2. The direct or indirect supply, sale or transfer to Somalia of other improvised explosive device components, as listed in Annex V to this Decision, shall be subject to prior authorisation by the competent authorities of the Member States. They shall not grant such authorisation if there is sufficient evidence to demonstrate that the items will be used, or there is a significant risk they may be used, in the manufacture in Somalia of improvised explosive devices.
+
+3. Member States shall notify the Sanctions Committee of the sale, supply or transfer of items referred to in paragraph 2 within 15 working days after the sale, supply or transfer takes place. The notifications shall contain all relevant information, including the purpose of the use of the items, the end user, the technical specifications and the quantity of the items to be shipped. They shall ensure that the Federal Government of Somalia and the Federal Member States of Somalia are provided with adequate financial and technical assistance to establish appropriate safeguards for the storage and distribution of such materials.
+
+4. Member States shall promote the exercise of vigilance by natural and legal persons subject to their jurisdiction as regards the direct or indirect supply, sale or transfer of explosive precursors and materials to Somalia that may be used in the manufacture of improvised explosive devices, other than the items listed in Annexes IV and V to this Decision. Member States shall keep records of transactions of which they are aware regarding suspicious purchases of, or enquiries into, such other items by natural or legal persons in Somalia, and shall share such information with the Federal Government of Somalia, the Sanctions Committee and the Panel of Experts on Somalia.
+
+**Article 2.** Restrictive measures as provided for in Articles 3, 5(1) and 6(1) and (2) shall be imposed against persons and entities designated by the Sanctions Committee as:
+
+- engaging in, or providing support for, acts that threaten the peace, security or stability of Somalia, where such acts include, but are not limited to:[^c000006]
+  - ((i)) planning, directing or committing acts involving sexual and gender-based violence;
+  - ((ii)) acts that threaten the peace and reconciliation process in Somalia;
+  - ((iii)) acts that threaten the Federal Government of Somalia or AMISOM by force,
+- having acted in violation of the arms embargo or the arms resale and transfer restrictions or the prohibition against providing related assistance as referred to in Article 1,
+- obstructing the delivery of humanitarian assistance to Somalia, or access to, or distribution of, humanitarian assistance in Somalia,
+- being political or military leaders recruiting or using children in armed conflicts in Somalia in violation of applicable international law,
+- being responsible for violations of applicable international law in Somalia involving the targeting of civilians including children and women in situations of armed conflict, including killing and maiming, sexual and gender-based violence, attacks on schools and hospitals and abduction and forced displacement.
+
+The relevant persons and entities are listed in the Annex I.
+
+**Article 3.** Member States shall take the necessary measures to prevent the direct and indirect supply, sale or transfer of weapons and military equipment and the direct or indirect supply of technical assistance or training, financial and other assistance including investment, brokering or other financial services, related to military activities or to the supply, sale, transfer, manufacture, maintenance or use of weapons and military equipment, to persons or entities referred to in Article 2.
+
+**Article 4.** 1. Member States shall inspect, in accordance with their national authorities and legislation and consistent with international law, all cargo to and from Somalia in their territory, including at their airports and seaports, if they have information that provides reasonable grounds to believe that the cargo contains items the supply, sale, transfer or export of which is prohibited under Article 3.
+
+2. Aircrafts and vessels transporting cargo to and from Somalia shall be subject to the requirement of additional pre-arrival or pre-departure information for all goods brought into or out of a Member State.
+
+3. Member States shall, upon discovery, seize and dispose of (either by destroying or rendering inoperable) items the supply, sale, transfer or export of which is prohibited under Article 3.
+
+**Article 4a.**[^c000007] 1. Member States may, in accordance with paragraphs 15 to 21 of UNSCR 2182 (2014), inspect, in Somali territorial waters and on the high seas off the coast of Somalia extending to and including the Arabian sea and Persian Gulf, acting nationally or through voluntary multinational naval partnerships, such as ‘ Combined Maritime Forces ’ , in cooperation with the Federal Government of Somalia, vessels bound to or from Somalia which they have reasonable grounds to believe are:
+
+- ((i)) carrying charcoal from Somalia in violation of the charcoal ban;
+- ((ii)) carrying weapons or military equipment to Somalia, directly or indirectly, in violation of the arms embargo on Somalia;
+- ((iii)) carrying weapons or military equipment to individuals or entities designated by the Sanctions Committee.
+
+2. Member States shall, when carrying out an inspection as referred to in paragraph 1, make efforts, in good faith, to first seek the consent of the vessel's flag State prior to inspections.
+
+3. Member States may, when carrying out an inspection as referred to in paragraph 1, use all necessary measures commensurate with the circumstances, in full compliance with international humanitarian law and international human rights law, as may be applicable, and making every possible effort to avoid undue delay to, or undue interference with, the exercise of the right of innocent passage or freedom of navigation.
+
+4. Member States may, upon discovery of any items the delivery, import or export of which is prohibited by the arms embargo on Somalia or the charcoal ban, seize and dispose of (such as through their destruction, rendering them inoperable or unusable, storage, or transferring them to a State other than the originating or destination States for disposal) such items. Member States may collect evidence directly relating to the carriage of such items in the course of inspection. Member States may dispose of seized charcoal through resale which shall be monitored by the Somalia and Eritrea Monitoring Group (SEMG). The disposal should be carried out in an environmentally responsible manner. Member States may authorise vessels and their crews to divert to a suitable port to facilitate such disposal, with the consent of the port State. A Member State cooperating in the disposal of such items shall provide a written report, on the steps taken to dispose or destroy them, to the Sanctions Committee no later than 30 days after such items enter its territory.
+
+5. Member States shall promptly notify to the Sanctions Committee any inspections as referred to in paragraph 1, including by submitting a report on the inspection containing all relevant details, including an explanation of the grounds for, and the results of, the inspection and where possible including the flag of the vessel, the name of the vessel, the name and identifying information of the master of the vessel, the owner of the vessel, and the original seller of the cargo, and efforts made to seek the consent of the vessel's flag State.
+
+6. Paragraph 1 shall not affect the rights or obligations or responsibilities of Member States under international law, including any rights or obligations under the United Nations Convention on the Law of the Sea, including the general principle of exclusive jurisdiction of a flag State over its vessels on the high seas, with respect to any other situation than that referred to in that paragraph.
+
+**Article 5.** 1. Member States shall take the necessary measures to prevent the entry into, or transit through, their territories of the persons referred to in Article 2.
+
+2. Paragraph 1 shall not oblige a Member State to refuse its own nationals entry into its territory.
+
+3. Paragraph 1 shall not apply where the Sanctions Committee:
+
+- (a) determines on a case-by-case basis that such entry or transit is justified on the grounds of humanitarian need, including religious obligation,
+- (b) determines on a case-by-case basis that an exemption would otherwise further the objectives of peace and national reconciliation in Somalia and stability in the region.
+
+4. In cases where, pursuant to paragraph 3, a Member State authorises the entry into, or transit through, its territory of persons designated by the Sanctions Committee, the authorisation shall be limited to the purpose for which it is given and to the persons concerned thereby.
+
+**Article 6.** 1. All funds and economic resources owned or controlled directly or indirectly by the persons or entities referred to in Article 2 or held by entities owned or controlled directly or indirectly by them or by any persons or entities acting on their behalf or at their direction, as designated by the Sanctions Committee, shall be frozen. The persons and entities concerned are identified in the Annex I.
+
+2. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of the persons or entities referred to in paragraph 1.
+
+3. Member States may allow for exemptions from the measures referred to in paragraphs 1 and 2 in respect of funds and economic resources which are:
+
+- (a) necessary for basic expenses, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+- (b) intended exclusively for the payment of reasonable professional fees and reimbursement of incurred expenses associated with the provision of legal services;
+- (c) intended exclusively for the payment of fees or service charges, in accordance with national laws, for routine holding or maintenance of frozen funds and economic resources;
+- (d) necessary for extraordinary expenses, after notification by the Member State concerned to, and approval by, the Sanctions Committee;
+- (e) the subject of a judicial, administrative or arbitral lien or judgment, in which case the funds and economic resources may be used to satisfy that lien or judgment provided that the lien or judgment was entered before designation by the Sanctions Committee of the person or entity concerned, and is not for the benefit of a person or entity referred to in Article 2, after notification by the Member State concerned to the Sanctions Committee.
+
+4. The exemptions referred to in paragraph 3(a), (b) and (c) may be made after notification to the Sanctions Committee by the Member State concerned of its intention to authorise, where appropriate, access to such funds and economic resources, and in the absence of a negative decision by the Sanctions Committee within three working days of such notification.
+
+5. Paragraph 2 shall not apply to the addition to frozen accounts of:
+
+- (a) interest or other earnings on those accounts; or
+- (b) payments due under contracts, agreements or obligations that were concluded or arose before the date on which those accounts became subject to restrictive measures,
+
+provided that any such interest, other earnings and payments remain subject to paragraph 1.
+
+6.[^c000008] Paragraphs 1 and 2 shall not apply to the payment of funds, other financial assets or economic resources necessary to ensure the timely delivery of urgently needed humanitarian assistance in Somalia, by the United Nations, its specialised agencies or programmes, humanitarian organisations having observer status with the United Nations General Assembly that provide humanitarian assistance, and their implementing partners, including bilaterally or multilaterally funded non-governmental organizations participating in the United Nations Humanitarian Response Plan for Somalia.
+
+**Article 7.** The Council shall establish the list contained in the Annex I and amend it in accordance with determinations made by either the Security Council or the Sanctions Committee.
+
+**Article 8.** 1. Where the Security Council or the Sanctions Committee lists a person or entity and has provided a statement of reasons for the designation, the Council shall include such person or entity in the Annex I. The Council shall communicate its decision and the statement of reasons to the person or entity concerned, either directly, if the address is known, or through the publication of a notice, providing such person or entity an opportunity to present observations.
+
+2. Where observations are submitted, or where substantial new evidence is presented, the Council shall review its decision and inform the person or entity accordingly.
+
+**Article 9.** The Annex I shall include, where available, information provided by the Security Council or by the Sanctions Committee necessary to identify the persons or entities concerned. With regard to persons, such information may include names including aliases, date and place of birth, nationality, passport and ID card numbers, gender, address, if known and function or profession. With regard to entities such information may include names, place and date of registration, registration number and place of business. The Annex I shall also include the date of designation by the Security Council or by the Sanctions Committee.
+
+**Article 10.** This Decision shall be reviewed, amended or repealed, as appropriate, in accordance with relevant decisions of the Security Council.
+
+**Article 11.** Common Position 2009/138/CFSP is hereby repealed.
+
+**Article 12.** This Decision shall enter into force on the date of its adoption.
+
+## ANNEX I — LIST OF PERSONS AND ENTITIES REFERRED TO IN ARTICLE 2[^c000009]
+
+I.[^c000010]
+
+**Persons**
+
+1\.
+
+Yasin Ali Baynah (a.k.a. a) Ali, Yasin Baynah, b) Ali, Yassin Mohamed, c) Baynah, Yasin, d) Baynah, Yassin, e) Baynax, Yasiin Cali, f) Beenah, Yasin, g) Beenah, Yassin, h) Beenax, Yasin, i) Beenax, Yassin, j) Benah, Yasin, k) Benah, Yassin, l) Benax, Yassin, m) Beynah, Yasin, n) Binah, Yassin, o) Cali, Yasiin Baynax)
+
+Date of birth: 24 December 1965 . Nationality: Somalia. Alt. Nationality: Sweden. Location: Rinkeby, Stockholm, Sweden; Mogadishu, Somalia.
+
+Date of UN designation: 12 April 2010 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5774673
+
+Yasin Ali Baynah has incited attacks against the Transitional Federal Government (TFG) and the African Union Mission in Somalia (AMISOM). He has also mobilised support and raised funds on behalf of the Alliance for the Re-Liberation of Somalia and Hisbul Islam, both of which have actively engaged in acts that threaten the peace and security of Somalia, including rejection of the Djibouti Agreement, and attacks on the TFG and AMISOM forces in Mogadishu.
+
+2\.
+
+Hassan Dahir Aweys (a.k.a. a) Ali, Sheikh Hassan Dahir Aweys, b) Awes, Hassan Dahir, c) Awes, Shaykh Hassan Dahir, d) Aweyes, Hassen Dahir, e) Aweys, Ahmed Dahir, f) Aweys, Sheikh, g) Aweys, Sheikh Hassan Dahir, h) Dahir, Aweys Hassan, i) Ibrahim, Mohammed Hassan, j) OAIS, Hassan Tahir, k) Uways, Hassan Tahir, l) ‘ Hassan, Sheikh ’ )
+
+Date of birth: 1935. Citizen: Somalia. Nationality: Somalia. Location: Somalia.
+
+Date of UN designation: 12 April 2010 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5774682
+
+Hassan Dahir Aweys has acted and continues to act as a senior political and ideological leader of a variety of armed opposition groups responsible for repeated violations of the general and complete arms embargo and/or acts that threaten the Djibouti peace agreement, the Transitional Federal Government (TFG) and the African Union Mission in Somalia (AMISOM) forces. Between June 2006 and September 2007, AWEYSs served as chairman of the central committee of the Islamic Courts Union; in July 2008 he declared himself chairman of the Alliance for the Re-Liberation of Somalia-Asmara wing; and in May 2009 he was named chairman of Hisbul Islam, an alliance of groups opposed to the TFG. In each of these positions, AWEYS's statements and actions have demonstrated an unequivocal and sustained intention to dismantle the TFG and expel AMISOM by force from Somalia.
+
+3\.
+
+Hassan Abdullah Hersi Al-Turki (a.k.a. a) Al-Turki, Hassan, b) Turki, Hassan, c) Turki, Hassan Abdillahi Hersi, d) Turki, Sheikh Hassan, e) Xirsi, Xasan Cabdilaahi, f) Xirsi, Xasan Cabdulle)
+
+Date of birth: circa 1944. Place of birth: Ogaden Region, Ethiopia. Nationality: Somalia. Location: Somalia.
+
+Date of UN designation: 12 April 2010 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5774683
+
+Hassan Abdullah Hersi Al-Turki has been a senior leader of an armed militia group since the mid-1990s and had engaged in numerous arms embargo violations. In 2006, al-Turki contributed forces to the Islamic Courts Union take-over of Mogadishu and emerged as a military leader in the group, aligned with al-Shabaab. Since 2006, al-Turki has made territory under his control available for training by various armed opposition groups including al-Shabaab. In September 2007, al-Turki appeared in an al-Jazeera news video showing militia training under his leadership.
+
+4\.
+
+Ahmed Abdi aw-Mohamed (a.k.a. a) Abu Zubeyr, Muktar Abdirahman, b) Abuzubair, Muktar Abdulrahim, c) Aw Mohammed, Ahmed Abdi, d) Aw-Mohamud, Ahmed Abdi, e) ‘ Godane ’ , f) ‘ Godani ’ , g) ‘ Mukhtar, Shaykh ’ , h) ‘ Zubeyr, Abu ’ )
+
+Date of birth: 10 July 1977 . Place of birth: Hargeysa, Somalia. Nationality: Somalia.
+
+Date of UN designation: 12 April 2010 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5774684
+
+Ahmed Abdi Aw-Mohamed is a senior leader of al-Shabaab and was publically named emir of the organisation in December 2007. He exercises command responsibility for al-Shabaab operations across Somalia. Aw-Mohamed has denounced the Djibouti peace process as a foreign conspiracy, and in a May 2009 audio recording to Somali media, he acknowledged that his forces were engaged in recent fighting in Mogadishu.
+
+5\.
+
+Fuad Mohamed Khalaf (a.k.a. a) Fuad Mohamed Khalif, b) Fuad Mohamed Qalaf, c) Fuad Mohammed Kalaf, d) Fuad Mohamed Kalaf, e) Fuad Mohammed Khalif, f) Fuad Khalaf, g) Fuad Shongale, h) Fuad Shongole, i) Fuad Shangole, j) Fuad Songale, k) Fouad Shongale, l) Fuad Muhammad Khalaf Shongole)
+
+Nationality: Somalia. Location: Mogadishu, Somalia. Alt. Location: Somalia. Date of UN designation: 12 April 2010 .
+
+Fuad Mohamed Khalaf has facilitated financial support to al-Shabaab; in May 2008, he held two fundraising events for al-Shabaab at mosques in Kismaayo, Somalia. In April 2008, Khalaf and several other individuals directed vehicle-borne explosive device attacks on Ethiopian bases and Somali Transitional Federal Government elements in Mogadishu, Somalia. In May 2008, Khalaf and a group of fighters attacked and captured a police station in Mogadishu, killing and wounding several soldiers.
+
+6\.
+
+Bashir Mohamed Mahamoud (a.k.a. a) Bashir Mohamed Mahmoud, b) Bashir Mahmud Mohammed, c) Bashir Mohamed Mohamud, d) Bashir Mohamed Mohamoud, e) Bashir Yare, f) Bashir Qorgab, g) Gure Gap, h) ‘ Abu Muscab ’ , i) ‘ Qorgab ’ )
+
+Date of birth: a) 1979 b) 1980 c) 1981 d) 1982. Nationality: Somalia. Location: Mogadishu, Somalia.
+
+Date of UN designation: 12 April 2010 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5774965
+
+Bashir Mohamed Mahamoud is a military commander of al-Shabaab. Mahamoud was also one of approximately ten members on al-Shabaab's leadership council as of late 2008. Mahamoud and an associate were in charge of the 10 June 2009 mortar attack against the Somali Transitional Federal Government in Mogadishu.
+
+**No longer in force.**
+
+[^c000011]7.
+
+Mohamed Sa’id (a.k.a. a) ‘Atom’, b) Mohamed Sa’id Atom, c) Mohamed Siad Atom)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8\.
+
+Fares Mohammed Mana'a (a.k.a.: a) Faris Mana'a, b) Fares Mohammed Manaa)
+
+Date of birth: 8 February 1965 . Place of birth: Sadah, Yemen. Passport No.: 00514146; Place of issue: Sanaa, Yemen. ID Card No.: 1417576; Place of issue: Al-Amana, Yemen; Date of issue: 7 January 1996 .
+
+Date of UN designation: 12 April 2010 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5774972
+
+Fares Mohammed Mana'a has directly or indirectly supplied, sold or transferred to Somalia arms or related material in violation of the arms embargo. Mana'a is a known arms trafficker. In October 2009, the Yemeni government released a blacklist of arms dealers with Mana'a ‘ on top ’ as part of an effort to stem the flood of weapons in the country, where weapons reportedly outnumber people. ‘ Faris Mana'a is a major weapons trafficker, and that's well known ’ , according to June 2009 reporting by a U.S. journalist who is a commentator on Yemeni affairs, authors a semi-annual country report, and has contributed to Jane's Intelligence Group. In a December 2007 Yemen Times article, he is referenced as ‘ Sheikh Fares Mohammed Mana'a, an arms dealer ’ . In a January 2008 Yemen Times article, he is referred to as ‘ Sheikh Faris Mana'a, an arms tradesman ’ .
+
+As of mid-2008, Yemen continues to serve as a hub for illegal arms shipments to the Horn of Africa, particularly arms shipments by boat to Somalia. There are unconfirmed reports that Faris Mana'a has participated in shipments to Somalia on numerous occasions. In 2004, Mana was involved in weapons contracts from Eastern Europe for weapons allegedly marketed to Somali fighters. Despite the Somalia UN arms embargo since 1992, Mana'a's interest in trafficking arms into Somalia can be traced back at least to 2003. Mana'a made an offer to buy thousands of arms in 2003 from Eastern Europe, and indicated that he planned to sell some of the arms in Somalia.
+
+9\.
+
+Hassan Mahat Omar (a.k.a.: a) Hassaan Hussein Adam, b) Hassane Mahad Omar, c) Xassaan Xuseen Adan, d) Asan Mahad Cumar, e) Abu Salman, f) Abu Salmaan, g) Sheikh Hassaan Hussein)
+
+Date of birth: 10 April 1979 . Place of birth: Garissa, Kenya. Nationality: Possibly Ethiopian. Passport No.: A 1180173 Kenya, expiry 20 August 2017 . ID Card No.: 23446085. Location: Nairobi, Kenya. Date of UN designation: 28 July 2011 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5774975
+
+Hassan Mahat Omar is engaging in acts that threaten the peace, security or stability of Somalia. He is an Imam and one of the leaders of Masjid-ul-Axmar, an informal Al-Shabaab affiliated centre in Nairobi. He is also involved in recruiting new members and soliciting funds for Al-Shabaab, including online at the Al-Shabaab affiliated website alqimmah.net.
+
+In addition, he has issued fatwas calling for attacks against the TFG on an Al-Shabaab chat room site.
+
+10\.
+
+Omar Hammami (a.k.a.: a) Abu Maansuur Al-Amriki, b) Abu Mansour Al-Amriki, c) Abu Mansuur Al-Amriki, d) Umar Hammami, e) Abu Mansur Al-Amriki)
+
+Date of birth: 6 May 1984 . Place of birth: Alabama, United States. Nationality: United States. Also believed to hold Syrian nationality. Passport No.: 403062567 (US). Social Security No: 423-31-3021 (US). Location: Somalia.
+
+Other information: Married to a Somali woman. Lived in Egypt in 2005 and moved to Somalia in 2009. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5774980
+
+Date of UN designation: 28 July 2011 .
+
+Omar Hammami is engaging in acts that threaten the peace, security or stability of Somalia. He is a senior member of Al-Shabaab. He is involved in recruitment, finance and payroll for foreign fighters in Somalia. He is described as an expert in explosives and warfare in general. Since October 2007 he has appeared in television reports and in Al-Shabaab propaganda videos. He has been shown in a video training Al-Shabaab fighters. He has also been shown in videos and on websites calling for more fighters to join Al-Shabaab.
+
+**No longer in force.**
+
+[^c000012]11.
+
+Jim’ale, Ali Ahmed Nur (aka (a) Jim’ale, Ahmed Ali, (b) Jim’ale, Ahmad Nur Ali, (c) Jim’ale, Sheikh Ahmed, (d) Jim’ale, Ahmad Ali, (e) Jim’ale, Shaykh Ahmed Nur)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12\.
+
+Aboud Rogo Mohammed (aka (a) Aboud Mohammad Rogo, (b) Aboud Seif Rogo, (c) Aboud Mohammed Rogo, (d) Sheikh Aboud Rogo, (e) Aboud Rogo Muhammad, (f) Aboud Rogo Mohamed)
+
+Date of birth: 11 November 1960 . Alt. dates of birth: (a) 11 November 1967 , (b) 11 November 1969 , (c) 1 January 1969 . Place of birth: Lamu Island, Kenya.
+
+Date of UN designation: 25 July 2012 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5775562
+
+Kenya-based extremist Aboud Rogo Mohammed has threatened the peace, security, or stability of Somalia, by providing financial, material, logistical, or technical support to al-Shabaab, an entity listed by the UNSC Committee established pursuant to Resolution 751 (1992) concerning Somalia and Resolution 1907 (2009) concerning Eritrea for engaging in acts that directly or indirectly threaten the peace, security, or stability of Somalia.
+
+Aboud Rogo Mohammed is an extremist Islamic cleric based in Kenya. He continues to exert influence over extremist groups in East Africa as part of his campaign to promote violence throughout East Africa. Aboud Rogo's activities include fundraising for al-Shabaab.
+
+As the main ideological leader of Al Hijra, formerly known as the Muslim Youth Center, Aboud Rogo Mohammed has used the extremist group as a pathway for radicalisation and recruitment of principally Swahili-speaking Africans for carrying out violent militant activity in Somalia. In a series of inspirational lectures between February 2009 and February 2012, Aboud repeatedly called for the violent rejection of the Somali peace process. During these lectures, Rogo repeatedly called for the use of violence against both the United Nations and the African Union Mission in Somalia (AMISOM) forces in Somalia, and urged his audiences to travel to Somalia to join al-Shabaab's fight against the Kenyan Government.
+
+Aboud Rogo Mohammed also offers guidance on how Kenyan recruits joining al-Shabaab can evade detection by the Kenyan authorities, and which routes to follow when travelling from Mombasa and/or Lamu to Al-Shabaab strongholds in Somalia, notably Kismayo. He has facilitated the travel to Somalia of numerous Kenyan recruits for al-Shabaab.
+
+In September 2011, Rogo was recruiting individuals in Mombasa, Kenya, for travel into Somalia, presumably to conduct terrorist operations. In September 2008, Rogo held a fundraising meeting in Mombasa to help finance al-Shabaab activities in Somalia.
+
+13\.
+
+Abubaker Shariff Ahmed (aka (a) Makaburi, (b) Sheikh Abubakar Ahmed, (c) Abubaker Shariff Ahmed, (d) Abu Makaburi Shariff, (e) Abubaker Shariff, (f) Abubakar Ahmed)
+
+Date of birth: 1962. Alt. date of birth: 1967. Place of birth: Kenya. Location: Majengo area, Mombasa, Kenya. Date of UN designation: 23 August 2012 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5775564
+
+Abubaker Shariff Ahmed is a leading facilitator and recruiter of young Kenyan Muslims for violent militant activity in Somalia, and a close associate of Aboud Rogo. He provides material support to extremist groups in Kenya (and elsewhere in East Africa). Through his frequent trips to Al-Shabaab strongholds in Somalia, including Kismayo, he has been able to maintain strong ties with senior Al-Shabaab members.
+
+Abubaker Shariff Ahmed is also engaged in the mobilisation and management of funding for Al-Shabaab, an entity listed by the UNSC Committee established pursuant to Resolution 751 (1992) concerning Somalia and Resolution 1907 (2009) concerning Eritrea for engaging in acts that directly or indirectly threaten the peace, security, or stability of Somalia.
+
+Abubaker Shariff Ahmed has preached at mosques in Mombasa that young men should travel to Somalia, commit extremist acts, fight for Al-Qaida, and kill US citizens.
+
+Abubaker Shariff Ahmed was arrested in late December 2010 by Kenyan authorities on suspicion of involvement in the bombing of a Nairobi bus terminal. Abubaker Shariff Ahmed is also a leader of a Kenya-based youth organisation in Mombasa with ties to Al-Shabaab.
+
+As of 2010, Abubaker Shariff Ahmed acted as a recruiter and facilitator for Al-Shabaab in the Majengo area of Mombasa, Kenya.
+
+14\.
+
+Maalim Salman (aka (a) Mu'alim Salman, (b) Mualem Suleiman, (c) Ameer Salman, (d) Ma'alim Suleiman, (e) Maalim Salman Ali, (f) Maalim Selman Ali, (g) Ma'alim Selman, (h) Ma'alin Sulayman)
+
+Date of birth: circa 1979. Place of birth: Nairobi, Kenya. Location: Somalia.
+
+Date of UN designation: 23 September 2014 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5818613
+
+Maalim Salman was chosen by al-Shabaab leader Ahmed Abdi aw-Mohamed aka Godane to be the head of African foreign fighters for al-Shabaab. He has trained foreign nationals who were seeking to join al-Shabaab as African foreign fighters, and has been involved in operations in Africa targeting tourists, entertainment establishments, and churches.
+
+Although focused mainly on operations outside of Somalia, Salman is known to reside in Somalia and train foreign fighters in Somalia before dispatching them elsewhere. Some of al-Shabaab's foreign fighters also have a presence in Somalia. For example, Salman ordered al-Shabaab foreign fighters to southern Somalia in response to an African Union Mission in Somalia (AMISOM)offensive.
+
+Among other terrorist attacks, al-Shabaab was responsible for the attack on the Westgate shopping mall in Nairobi, Kenya in September 2013, which resulted in the deaths of at least 67 people. More recently, al-Shabaab claimed the August 31, 2014 attack on the National Intelligence and Security Agency prison in Mogadishu, killing three security guards and two civilians, and injuring 15 others.
+
+15\.
+
+Ahmed Diriye (aka (a) Sheikh Ahmed Umar Abu Ubaidah, (b) Sheikh Omar Abu Ubaidaha, (c) Sheikh Ahmed Umar, (d) Sheikh Mahad Omar Abdikarim, (e) Abu Ubaidah, (f) Abu Diriye)
+
+Date of birth: circa 1972. Place of birth: Somalia. Location: Somalia.
+
+Date of UN designation: 24 September 2014 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5818614
+
+Ahmed Diriye was appointed as the new emir of Al-Shabaab following the death of the previous leader Ahmed Abdi aw-Mohamed, an individual listed by the Security Council Committee pursuant to resolutions 751 (1992) and 1907 (2009). This was publicly announced in a statement by Al-Shabaab's spokesperson, Sheikh Ali Dheere, released on 6 September 2014 . Diriye has been a senior member of Al-Shabaab and as the emir he exercises command responsibility for Al-Shabaab's operations. He will be directly responsible for Al-Shabaab's activities which continue to threaten the peace, security and stability of Somalia. Diriye has since adopted the Arabic name Sheikh Ahmed Umar Abu Ubaidah.
+
+16.[^c000014]
+
+Ahmad Iman Ali (aka: a) Sheikh Ahmed Iman Ali; b) Shaykh Ahmad Iman Ali; c) Ahmed Iman Ali; d) Abu Zinira)
+
+Date of birth: a) Approximately 1973; b) Approximately 1974
+
+Place of birth: Kenya
+
+Nationality: Kenya
+
+Date of UN designation: 8 March 2018
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/
+
+Ahmad Iman Ali was listed on 8 March 2018 pursuant to resolution 1844 (2008). Ahmad Iman Ali is a prominent Kenyan Al-Shabaab commander who has served as the group's leader in Kenya since 2012. He is director of the group's Kenyan branch operations and routinely targets Kenyan AMISOM troops in Somalia, such as a January 2016 attack on Kenyan AMISOM troops in El Adde, Somalia. Ali is also responsible for Al-Shabaab propaganda targeting the Kenyan government and civilians, such as a July 2017 video in which he issues threats to Muslims serving in Kenya's security forces. In addition to these activities, Ali has at times also served as an Al-Shabaab recruiter, focusing on poor youth in Nairobi slums, as well as a Shabaab fundraiser who utilizes mosques in an effort to secure resources. His overall goal is to destabilize Kenya by threatening, planning, and executing attacks, and to encourage young Muslims to participate in fighting against Kenyan security forces.
+
+17\.
+
+Abdifatah Abubakar Abdi (aka: Musa Muhajir)
+
+Date of birth: 15 April 1982
+
+Place of birth: Somalia
+
+Nationality: Somalia
+
+Address: a) Somalia; b) Mombasa, Kenya
+
+Date of UN designation: 08 March 2018
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/
+
+Abdifatah Abubakar Abdi was listed on 8 March 2018 pursuant to resolution 1844 (2008). In 2015, Abdifatah Abubakar Abdi was put on the Kenyan government's wanted list of terrorists known or suspected to be members of Al-Shabaab. Kenyan police report that Abdi recruits members for Al-Shabaab who provide support to Al-Shabaab, an entity listed on the United Nations Security Council Somalia and Eritrea sanctions list, inside Somalia and engages in acts that threaten the peace, security, or stability of Somalia. Among these recruits were three women arrested by Kenyan police while attempting to cross into Somalia. Abdi is wanted in connection with the June 2014 attack in Mpeketoni, Kenya that claimed numerous lives, and was believed to be planning further attacks. While Abdi may be focused on operations outside of Somalia, he is known to reside in Somalia and recruit individuals for Al-Shabaab who intend to cross the border between Kenya and Somalia.
+
+II.
+
+**Entities**
+
+Al-Shabaab (a.k.a. a) Al-Shabab, b) Shabaab, c) The Youth, d) Mujahidin Al-Shabaab Movement, e) Mujahideen Youth Movement, f) Mujahidin Youth Movement, g) MYM, h) Harakat Shabab Al-Mujahidin, i) Hizbul Shabaab, j) Hisb'ul Shabaab, k) Al-Shabaab Al-Islamiya, l) Youth Wing, m) Al-Shabaab Al-Islaam, n) Al-Shabaab Al-Jihaad, o) The Unity Of Islamic Youth, p) Harakat Al-Shabaab Al-Mujaahidiin, q) Harakatul Shabaab Al Mujaahidiin, r) Mujaahidiin Youth Movement)
+
+Location: Somalia. Date of UN designation: 12 April 2010 .
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5775567
+
+Al-Shabaab has engaged in acts that directly or indirectly threaten the peace, security, or stability of Somalia, including but not limited to: acts that threaten the Djibouti Agreement of August 18, 2008 , or the political process; and, acts that threaten the Transitional Federal Institutions (TFIs), the African Union Mission in Somalia (AMISOM), or other international peacekeeping operations related to Somalia.
+
+Al-Shabaab has also obstructed the delivery of humanitarian assistance to Somalia, or access to, or distribution of, humanitarian assistance in Somalia.
+
+According to the statement by the Chairman of the Security Council Committee established pursuant to resolution 751 (1992) concerning Somalia to the Security Council delivered on 29 July 2009 , both Al-Shabaab and Hisb'ul Islam publicly and repeatedly claimed responsibility for the attacks by forces on the Transitional Federal Government (TFG) and AMISOM. Al-Shabaab had also claimed responsibility for the killing of TFG officials, and on 19 July 2009 had raided and shut down the field offices of UNOPS, UNDSS and UNDP in the Bay and Bakool regions, in violation of paragraph (c) of resolution 1844 (2008). Al-Shabaab has also repeatedly obstructed access to, or distribution of, humanitarian assistance in Somalia.
+
+The United Nations Security Council's Report of the Secretary-General on the situation in Somalia, dated 20 July 2009 , contained the following paragraphs involving the activities of al-Shabaab in Somalia:
+
+Insurgent groups, such as al-Shabaab, are alleged to be extorting money from private companies and recruiting young people to join the fight against the Government in Mogadishu, including child soldiers. Al-Shabaab has confirmed the presence of foreign fighters within its ranks and has stated openly that it is working with al-Qaida in Mogadishu to remove the Government of Somalia. The foreign fighters, many of whom reportedly originate from Pakistan and Afghanistan, appear to be well trained and battle-tested. They have been observed wearing hoods and directing offensive operations against Government forces in Mogadishu and neighbouring regions.
+
+Al-Shabaab has intensified its strategy to coerce and intimidate the Somali population, as reflected in the carefully selected high gain assassinations and arrests of clan elders, several of whom have been murdered. On 19 June 2009 , Omar Hashi Aden, the Minister of National Security, was killed in a large-scale suicide car bomb in Beletwyne. Over 30 other people were killed in the attack, which was strongly condemned by the international community and a broad cross-section of Somali society.
+
+According to the December 2008 report from the UN Security Council Somalia Monitoring Group (2008/769), al-Shabaab is responsible for a variety of attacks within Somalia over the last several years, including:
+
+- The reported killing and beheading of a Somali driver working for the World Food Programme in September 2008,
+- The bombing of a market in Puntland that killed 20 and wounded over 100 on 6 February 2008 ,
+- A campaign of bombings and targeted killings in Somaliland intended to disrupt the 2006 parliamentary elections,
+- The murders of several foreign aid workers in 2003 and 2004.
+
+According to reporting, al-Shabaab raided United Nations compounds in Somalia on 20 July 2009 , and issued a decree banning three agencies of the United Nations from the al-Shabaab controlled areas of Somalia. Additionally, Somali Transitional Federal Government forces fought al-Shabaab and Hizbul Islam insurgents from 11 - 12 July 2009 resulting in the deaths of over 60 people. In the fighting on 11 July 2009 , al-Shabaab landed four mortars inside Villa Somalia that resulted in the deaths of three African Union Mission to Somalia (AMISOM) soldiers and injuries to eight others.
+
+According to an article published by the British Broadcasting Corporation on 22 February 2009 , al-Shabaab claimed responsibility for a suicide car bomb attack on an African Union military base in Mogadishu. According to the article, the African Union confirmed that 11 African Union peacekeepers were killed and 15 others were hurt.
+
+According to an article published by Reuters on 14 July 2009 , al-Shabaab militants made gains in 2009 in guerrilla-style attacks on Somali and African Union forces.
+
+According to an article published by Voice of America on 10 July 2009 , al-Shabaab was involved in an attack on Somali government forces in May 2009.
+
+According to an article posted on the website of the Council on Foreign Relations authored on 27 February 2009 , al-Shabaab has waged an insurgency against Somalia's transitional government and its Ethiopian supporters since 2006. Al-Shabaab killed eleven Burundian soldiers in the deadliest attack on AU peacekeepers since their deployment and states that al-Shabaab engaged in heavy fighting that killed at least fifteen people in Mogadishu.
+
+## ANNEX II — LIST OF ITEMS REFERRED TO IN POINT (F)(I) OF ARTICLE 1(3)
+
+1\.
+
+Surface to air missiles, including Man-Portable Air-Defence Systems (MANPADS).
+
+2\.
+
+Weapons with a calibre greater than 12,7 mm, and components specially designed for these, and associated ammunition. (This does not include shoulder fired anti-tank rocket launchers such as RPGs or LAWs, rifle grenades, or grenade launchers.)
+
+3\.
+
+Mortars with a calibre greater than 82 mm and associated ammunition.
+
+4\.
+
+Anti-tank guided weapons, including Anti-tank Guided Missiles (ATGMs) and ammunition and components specially designed for these items.
+
+5\.
+
+Charges and devices specifically designed or modified for military use; mines and related materiel.
+
+6\.
+
+Weapon sights with a night vision capability.
+
+7\.
+
+Aircraft, specifically designed or modified for military use. ( ‘ Aircraft ’ means fixed wing, swivel wing, rotary wing, tilt rotor or tilt wing vehicle, or helicopter.)
+
+8\.
+
+‘ Vessels ’ and amphibious vehicles specifically designed or modified for military use. ( ‘ Vessel ’ includes any ship, surface effect vehicle, vessel of small water plane area or hydrofoil and the hull or part of the hull of a vessel.)
+
+9\.
+
+Unmanned combat aerial vehicles (listed as Category IV in the UN Register of Conventional Arms).
+
+## ANNEX III — LIST OF ITEMS REFERRED TO IN POINTS (F)(II) AND (F)(III) OF ARTICLE 1(3)
+
+1\.
+
+All types of weapons with a calibre up to 12,7 mm, and associated ammunition.
+
+2\.
+
+RPG-7 and recoilless rifles, and associated ammunition.
+
+3\.
+
+Helmets manufactured according to military standards or specification, or comparable national standards.
+
+4\.
+
+Body armour or protective garments, as follows:
+
+- ((a)) soft body armour or protective garments, manufactured to military standards or specifications, or their equivalents (military standards or specifications include, as a minimum, specifications for fragmentation protection);
+- ((b)) hard body armour plates providing ballistic protection equal to or greater that level III (NIJ 0101. 06 July 2008 ) or national equivalents.
+
+5\.
+
+Ground vehicles specifically designed or modified for military use.
+
+6\.
+
+Communication equipment specifically designed or modified for military use.
+
+7\.
+
+Global Navigation Satellite Systems (GNSS) positioning equipment, specifically designed or modified for military use.
+
+## ANNEX IV — LIST OF ITEMS REFERRED TO IN ARTICLE 1C(1)
+
+1\.
+
+Tetryl (trinitrophenylmethylnitramine).
+
+2\.
+
+Equipment that is both specially designed for military use and specially designed for activating, powering with one-time operational output, discharging or detonating Improvised Explosive Devices (IEDs).
+
+3\.
+
+‘Technology’‘required’ for the ‘production’ or ‘use’ of the items listed at paragraphs 1 and 2. (The definitions of the terms ‘technology’, ‘required’, ‘production’, and ‘use’ are from the Common Military List of the European Union [^f00005] .).
+
+## ANNEX V — LIST OF ITEMS REFERRED TO IN ARTICLE 1C(2)
+
+1\.
+
+Equipment and devices, not specified by item 2 in Annex IV, that are specially designed to initiate explosives by electrical or non-electrical means (e.g. firing sets, detonators, igniters, detonating chord).
+
+2\.
+
+‘ Technology ’ ‘ required ’ for the ‘ production ’ or ‘ use ’ of the items listed in paragraph 1. (The definitions of the terms ‘ technology ’ , ‘ required ’ , ‘ production ’ and ‘ use ’ are from the Common Military List of the European Union.)
+
+3\.
+
+Explosive materials, as follows, and mixtures containing one or more thereof:
+
+- ((a)) Ammonium Nitrate Fuel Oil (ANFO);
+- ((b)) Nitrocellulose (containing more than 12,5 % nitrogen w/w);
+- ((c)) Nitroglycol;
+- ((d)) Pentaerythritol tetranitrate (PETN);
+- ((e)) Picryl chloride;
+- ((f)) 2,4,6-Trinitrotoluene (TNT).
+
+4\.
+
+Explosives precursors:
+
+- ((a)) Ammonium nitrate;
+- ((b)) Potassium nitrate;
+- ((c)) Sodium chlorate;
+- ((d)) Nitric acid;
+- ((e)) Sulphuric acid.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 334, 11.12.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.334.01.0001.01.ENG).
+
+[^f00002]: Footnote: [OJ L 46, 17.2.2009, p. 73](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.046.01.0073.01.ENG).
+
+[^f00003]: Footnote: [OJ L 51, 2.3.2010, p. 18](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.051.01.0018.01.ENG).
+
+[^f00004]: Footnote: [OJ C 364, 18.12.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2000.364.01.0001.01.ENG).
+
+[^c000001]: Textual amendment: Substituted by [Council Decision 2013/201/CFSP of 25 April 2013 amending Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2013/201).
+
+[^c000002]: Textual amendment: Substituted by [Council Decision (CFSP) 2020/170 of 6 February 2020 amending Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2020/170).
+
+[^c000003]: Textual amendment: Inserted by [Council Decision (CFSP) 2020/170 of 6 February 2020 amending Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2020/170).
+
+[^c000004]: Textual amendment: Inserted by [Council Decision 2012/388/CFSP of 16 July 2012 amending Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2012/388).
+
+[^c000005]: Textual amendment: Inserted by [Council Decision 2013/201/CFSP of 25 April 2013 amending Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2013/201).
+
+[^c000006]: Textual amendment: Substituted by [Council Decision (CFSP) 2018/1945 of 10 December 2018 amending Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2018/1945).
+
+[^c000007]: Textual amendment: Inserted by [Council Decision (CFSP) 2015/335 of 2 March 2015 amending Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2015/335).
+
+[^c000008]: Textual amendment: Substituted by [Council Decision (CFSP) 2017/2427 of 21 December 2017 amending Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2017/2427).
+
+[^c000009]: Textual amendment: Substituted by [Council Decision 2011/635/CFSP of 26 September 2011 amending Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2011/635).
+
+[^c000010]: Textual amendment: Substituted by [Council Implementing Decision (CFSP) 2017/398 of 7 March 2017 implementing Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2017/398).
+
+[^c000011]: Textual amendment: Deleted by [Council Implementing Decision (CFSP) 2015/337 of 2 March 2015 implementing Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2015/337).
+
+[^c000012]: Textual amendment: Deleted by [Council Implementing Decision (CFSP) 2015/2053 of 16 November 2015 implementing Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2015/2053).
+
+[^c000014]: Textual amendment: Inserted by [Council Implementing Decision (CFSP) 2018/417 of 16 March 2018 implementing Decision 2010/231/CFSP concerning restrictive measures against Somalia](https://www.legislation.gov.uk/eudn/2018/417).
+
+[^f00005]: Footnote: [OJ C 98, 15.3.2018, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2018.098.01.0001.01.ENG)[^c000003] .

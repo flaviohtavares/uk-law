@@ -1,0 +1,145 @@
+---
+title: Commission Regulation (EC) No 1695/2004 of 30 September 2004 fixing the rates of the refunds applicable to eggs and egg yolks exported in the form of goods not covered by Annex I to the Treaty
+id: eur/2004/1695
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2004-09-30'
+text_date: '2004-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2004/1695
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2004/1695/pdfs/eur_20041695_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2004/1695/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 1695/2004 of 30 September 2004 fixing the rates of the refunds applicable to eggs and egg yolks exported in the form of goods not covered by Annex I to the Treaty
+
+> Text as at 2004-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 1695/2004
+
+of 30 September 2004
+
+fixing the rates of the refunds applicable to eggs and egg yolks exported in the form of goods not covered by Annex I to the Treaty
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 2771/75 of 29 October 1975 on the common organisation of the market in eggs[^f00001], and in particular Article 8(3) thereof,
+
+Whereas:
+
+(1)
+
+Article 8(1) of Regulation (EEC) No 2771/75 provides that the difference between prices in international trade for the products listed in Article 1(1) of that Regulation and prices within the Community may be covered by an export refund where these goods are exported in the form of goods listed in the Annex to that Regulation. Commission Regulation (EC) No 1520/2000 of 13 July 2000 laying down common detailed rules for the application of the system of granting export refunds on certain agricultural products exported in the form of goods not covered by Annex I to the Treaty, and the criteria for fixing the amount of such refunds[^f00002], specifies the products for which a rate of refund should be fixed, to be applied where these products are exported in the form of goods listed in Annex I to Regulation (EEC) No 2771/75.
+
+(2)
+
+In accordance with Article 4(1) of Regulation (EC) No 1520/2000, the rate of the refund per 100 kilograms for each of the basic products in question must be fixed for a period of the same duration as that for which refunds are fixed for the same products exported unprocessed.
+
+(3)
+
+Article 11 of the Agreement on Agriculture concluded under the Uruguay Round lays down that the export refund for a product contained in goods may not exceed the refund applicable to that product when exported without further processing.
+
+(4)
+
+In accordance with Council Regulation (EC) No 1676/2004 of 24 September 2004 adopting autonomous and transitional measures concerning the importation of certain processed agricultural products originating in Bulgaria and the exportation of certain processed agricultural products to Bulgaria[^f00003], with effect from 1 October 2004, processed agricultural products not listed in Annex I to the Treaty which are exported to Bulgaria are not eligible for export refunds.
+
+(5)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** The rates of the refunds applicable to the basic products listed in Annex A to Regulation (EC) No 1520/2000 and in Article 1(1) of Regulation (EEC) No 2771/75, exported in the form of goods listed in Annex I to Regulation (EEC) No 2771/75, are fixed as set out in the Annex to this Regulation.
+
+**Article 2.** By way of derogation from Article 1 and with effect from 1 October 2004, the rates set out in the Annex shall not be applicable to goods not covered by Annex I to the Treaty when exported to Bulgaria.
+
+**Article 3.** This Regulation shall enter into force on 1 October 2004.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 30 September 2004.
+
+*For the Commission*
+
+Olli Rehn
+
+*Member of the Commission*
+
+## ANNEX
+
+Rates of the refunds applicable from 1 October 2004 to eggs and egg yolks exported in the form of goods not covered by Annex I to the Treaty
+
+<table>
+<tfoot>
+<tr><td colspan="4">The destinations are as follows:<br>01<br>Third countries,<br>02<br>Kuwait, Bahrain, Oman, Qatar, United Arab Emirates, Yemen, Turkey, Hong Kong SAR and Russia,<br>03<br>South Korea, Japan, Malaysia, Thailand, Taiwan and the Philippines,<br>04<br>All destinations except Switzerland and those of 02 and 03.</td></tr>
+</tfoot>
+<tbody>
+<tr><td colspan="4">(EUR/100 kg)</td></tr>
+<tr><th>CN code</th><th>Description</th><th>Destination</th><th>Rate of refund</th></tr>
+<tr><td rowspan="2">0407 00</td><td>Birds' eggs, in shell, fresh, preserved or cooked:</td><td></td><td></td></tr>
+<tr><td>– Of poultry:</td><td></td><td></td></tr>
+<tr><td rowspan="5">0407 00 30</td><td>– – Other:</td><td></td><td></td></tr>
+<tr><td rowspan="3">(a)<br>On exportation of ovalbumin of CN codes 3502 11 90 and 3502 19 90</td><td>02</td><td>6,0</td></tr>
+<tr><td>03</td><td>25,0</td></tr>
+<tr><td>04</td><td>3,0</td></tr>
+<tr><td>(b)<br>On exportation of other goods</td><td>01</td><td>3,0</td></tr>
+<tr><td rowspan="2">0408</td><td>Birds' eggs, not in shell and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter:</td><td></td><td></td></tr>
+<tr><td>– Egg yolks:</td><td></td><td></td></tr>
+<tr><td>0408 11</td><td>– – Dried:</td><td></td><td></td></tr>
+<tr><td rowspan="2">ex 0408 11 80</td><td>– – – Suitable for human consumption:</td><td></td><td></td></tr>
+<tr><td>not sweetened</td><td>01</td><td>40,0</td></tr>
+<tr><td rowspan="2">0408 19</td><td>– – Other:</td><td></td><td></td></tr>
+<tr><td>– – – Suitable for human consumption:</td><td></td><td></td></tr>
+<tr><td rowspan="2">ex 0408 19 81</td><td>– – – – Liquid:</td><td></td><td></td></tr>
+<tr><td>not sweetened</td><td>01</td><td>20,0</td></tr>
+<tr><td rowspan="3">ex 0408 19 89</td><td>– – – – Frozen:</td><td></td><td></td></tr>
+<tr><td>not sweetened</td><td>01</td><td>20,0</td></tr>
+<tr><td>– Other:</td><td></td><td></td></tr>
+<tr><td>0408 91</td><td>– – Dried:</td><td></td><td></td></tr>
+<tr><td rowspan="2">ex 0408 91 80</td><td>– – – Suitable for human consumption:</td><td></td><td></td></tr>
+<tr><td>not sweetened</td><td>01</td><td>75,0</td></tr>
+<tr><td>0408 99</td><td>– – Other:</td><td></td><td></td></tr>
+<tr><td rowspan="2">ex 0408 99 80</td><td>– – – Suitable for human consumption:</td><td></td><td></td></tr>
+<tr><td>not sweetened</td><td>01</td><td>19,0</td></tr>
+</tbody>
+</table>
+
+[^f00004]
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 282, 1.11.1975, p. 49](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1975.282.01.0049.01.ENG). Regulation as last amended by Regulation (EC) No 806/2003 ([OJ L 122, 16.5.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.122.01.0001.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 177, 15.7.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.177.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 886/2004 ([OJ L 168, 1.5.2004, p. 14](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.168.01.0014.01.ENG)).
+
+[^f00003]: Footnote: [OJ L 301, 28.9.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.301.01.0001.01.ENG).
+
+[^f00004]: Footnote: The destinations are as follows:
+
+    01
+
+    Third countries,
+
+    02
+
+    Kuwait, Bahrain, Oman, Qatar, United Arab Emirates, Yemen, Turkey, Hong Kong SAR and Russia,
+
+    03
+
+    South Korea, Japan, Malaysia, Thailand, Taiwan and the Philippines,
+
+    04
+
+    All destinations except Switzerland and those of 02 and 03.

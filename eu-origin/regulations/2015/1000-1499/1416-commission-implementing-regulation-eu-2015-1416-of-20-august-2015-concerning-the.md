@@ -1,0 +1,58 @@
+---
+title: Commission Implementing Regulation (EU) 2015/1416 of 20 August 2015 concerning the authorisation of sodium bisulphate as feed additive for all animal species (Text with EEA relevance)
+id: eur/2015/1416
+type: EuropeanUnionRegulation
+category: euretained
+status: repealed
+made_date: '2015-08-20'
+text_date: '2025-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2015/1416
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2015/1416/pdfs/eur_20151416_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2015/1416/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) 2015/1416 of 20 August 2015 concerning the authorisation of sodium bisulphate as feed additive for all animal species (Text with EEA relevance)
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Commission Implementing Regulation (EU) 2015/1416
+
+of 20 August 2015
+
+concerning the authorisation of sodium bisulphate as feed additive for all animal species
+
+(Text with EEA relevance) (revoked)
+
+[^key-4b18049806c9a855f3ec853bcf731bf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 1.**[^key-4b18049806c9a855f3ec853bcf731bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 2.**[^key-4b18049806c9a855f3ec853bcf731bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 3.**[^key-4b18049806c9a855f3ec853bcf731bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-4b18049806c9a855f3ec853bcf731bf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^key-4b18049806c9a855f3ec853bcf731bf1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^key-4b18049806c9a855f3ec853bcf731bf1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-4b18049806c9a855f3ec853bcf731bf1]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 183](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/183) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

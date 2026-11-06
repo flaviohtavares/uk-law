@@ -1,0 +1,70 @@
+---
+title: Council Decision of 14 October 2009 appointing the Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union for the period from 18 October 2009 until 31 October 2009 (2009/772/EC, Euratom)
+id: eudn/2009/772
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2009-10-14'
+text_date: '2009-10-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2009/772
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2009/772/pdfs/eudn_20090772_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2009/772/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision of 14 October 2009 appointing the Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union for the period from 18 October 2009 until 31 October 2009 (2009/772/EC, Euratom)
+
+> Text as at 2009-10-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision
+
+of 14 October 2009
+
+appointing the Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union for the period from 18 October 2009 until 31 October 2009
+
+(2009/772/EC, Euratom)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 207(2) thereof,
+
+Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 121(2) thereof,
+
+Whereas:
+
+(1)
+
+The term of office of the current Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union will end on 17 October 2009[^f00001].
+
+(2)
+
+The Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union should be appointed until 31 October 2009,
+
+HAS DECIDED AS FOLLOWS:
+
+**Article 1.** Mr Javier SOLANA MADARIAGA is hereby appointed Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union for the period from 18 October 2009 until 31 October 2009.
+
+**Article 2.** This Decision shall be notified to Mr Javier SOLANA MADARIAGA by the President of the Council.
+
+It shall be published in the *Official Journal of the European Union*.
+
+Done at Brussels, 14 October 2009.
+
+*For the Council*
+
+*The President*
+
+E. Erlandsson
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 236, 7.7.2004, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.236.01.0016.01.ENG).

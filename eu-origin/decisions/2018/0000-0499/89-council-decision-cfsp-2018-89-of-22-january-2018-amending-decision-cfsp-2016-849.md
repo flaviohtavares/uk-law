@@ -1,0 +1,96 @@
+---
+title: Council Decision (CFSP) 2018/89 of 22 January 2018 amending Decision (CFSP) 2016/849 concerning restrictive measures against the Democratic People's Republic of Korea
+id: eudn/2018/89
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2018-01-22'
+text_date: '2018-01-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2018/89
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2018/89/pdfs/eudn_20180089_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2018/89/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision (CFSP) 2018/89 of 22 January 2018 amending Decision (CFSP) 2016/849 concerning restrictive measures against the Democratic People's Republic of Korea
+
+> Text as at 2018-01-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision (CFSP) 2018/89
+
+of 22 January 2018
+
+amending Decision (CFSP) 2016/849 concerning restrictive measures against the Democratic People's Republic of Korea
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+
+Having regard to Council Decision (CFSP) 2016/849 of 27 May 2016 concerning restrictive measures against the Democratic People's Republic of Korea and repealing Decision 2013/183/CFSP[^f00001],
+
+Having regard to the proposal of the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1)
+
+On 27 May 2016 the Council adopted Decision (CSFP) 2016/849.
+
+(2)
+
+In view of the continued and accelerated nuclear and ballistic programmes of the Democratic People's Republic of Korea (DPRK), which are in breach of the DPRK's obligations as set out in several United Nations Security Council Resolutions, as evidenced by the most recent ballistic missile launch by the DPRK on 28 November 2017, 17 persons should be added to the list of persons and entities in Annex III of Decision (CFSP) 2016/849.
+
+(3)
+
+Annex III to Decision (CFSP) 2016/849 should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** Annex III to Decision (CFSP) 2016/849 is amended as set out in the Annex to this Decision.
+
+**Article 2.** This Decision shall enter into force on the date of its publication in the *Official Journal of the European Union*.
+
+Done at Brussels, 22 January 2018.
+
+*For the Council*
+
+*The President*
+
+F. Mogherini
+
+## ANNEX
+
+In Annex III to Decision (CFSP) 2016/849, under the heading ‘List of persons referred to in point (c) of Article 23(1) and point (c) of Article 27(1)’, subheading ‘A. Persons’, the following entries are added:
+
+> |  | Name | Identifying information | Date of designation | Reasons |
+> | --- | --- | --- | --- | --- |
+> | ‘2. | CHOE Chan Il |  | 22.1.2018 | Director of the Dandong office of Korea Heungjin Trading Company, a UN designated entity. Korea Heungjin is used by KOMID, another UN designated entity, for trading purposes. KOMID was designated by the UN Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons. |
+> | 3\. | KIM Chol Nam |  | 22.1.2018 | Director of the Dandong branch of Sobaeksu United Corp which has been designated by the Union. Representative of the Beijing branch of Korea Changgwang Trading Corporation, which has been identified by the UN Panel of Experts as an alias of KOMID. KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons. |
+> | 4\. | JON Chol Young | Passport number: 563410192<br>Diplomat DPRK Embassy Angola<br>Date of birth: 30.4.1975 | 22.1.2018 | Representative in Angola of Green Pine Associated Corporation and DPRK diplomat accredited to Angola.<br>Green Pine has been designated by the UN for activities including violating the UN arms embargo. Green Pine has also negotiated contracts for the refurbishment of Angolan naval vessels in violation of the prohibitions imposed by United Nations Security Council Resolutions. |
+> | 5\. | AN Jong Hyuk<br>a.k.a: An Jong Hyok | Diplomat DPRK Embassy Egypt<br>Date of birth: 14.3.1970<br>Passport number: 563410155 | 22.1.2018 | Representative of Saeng Pil Trading Corporation, an alias of Green Pine Associated Corporation, and DPRK diplomat in Egypt.<br>Green Pine has been designated by the UN for activities including breach of the UN arms embargo.<br>An Jong Hyuk was authorized to conduct all types of business on behalf of Saeng Pil, including signing and implementing contracts and banking business. The company specializes in the construction of naval vessels and the design, fabrication and installation of electronic communication and marine navigation equipment. |
+> | 6\. | CHOL Yun | Third Secretary DPRK Embassy China | 22.1.2018 | Chol Yun has been identified by the UN Panel of Experts as contact person of the DPRK Company General Precious Metal involved in the sale of lithium-6, a UN prohibited nuclear-related item, and DPRK diplomat.<br>General Precious Metal has previously been identified by the Union as an alias of the UN designated entity Green Pine. |
+> | 7\. | CHOE Kwang Hyok |  | 22.1.2018 | Choe Kwang Hyok has served as a representative of Green Pine Associated Corporation, a UN designated entity.<br>Choe Kwang Hyok has been identified by the UN Panel of Experts as chief executive of Beijing King Helong International Trading Ltd, an alias of Green Pine. He has also been identified by the UN Panel of Experts as director of Hong Kong King Helong Int'l Trading Ltd and operator of the DPRK entity named Beijing representative office of Korea Unhasu Trading Company, which are also aliases of Green Pine. |
+> | 8\. | KIM Chang Hyok<br>a.k.a: James Jin or James Kim | Date of birth: 29.4.1963<br>Place of birth: N. Hamgyong<br>Passport number: 472130058 | 22.1.2018 | Kim Chang Hyok has been identified by the UN Panel of Experts as the representative of Pan Systems Pyongyang in Malaysia. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations.<br>Established multiple accounts in Malaysia in the name of front companies of ‘Glocom’, itself a front company of designated entity Pan Systems Pyongyang. |
+> | 9\. | PARK Young Han |  | 22.1.2018 | Director of Beijing New Technology which has been identified by the UN Panel of Experts as a front company of KOMID. KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.<br>Legal representative of Guancaiweixing Trading Co., Ltd, which was identified by the UN Panel of Experts as the shipper of an intercepted shipment to Eritrea of military-related items in August 2012. |
+> | 10\. | RYANG Su Nyo | Date of birth: 11.8.1959<br>Place of birth: Japan | 22.1.2018 | Director of Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. |
+> | 11\. | PYON Won Gun | Date of birth: 13.3.1968<br>Place of birth: S. Phyongan<br>Service passport number: 836220035<br>Passport number: 290220142 | 22.1.2018 | Director of Glocom, a front company of Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations.<br>Glocom advertises radio communications equipment for military and paramilitary organizations.<br>Pyon Won Gun has also been identified by the UN Panel of Experts as a DPRK national operating Pan Systems Pyongyang. |
+> | 12\. | PAE Won Chol | Date of birth: 30.8.1969<br>Place of birth: Pyongyang<br>Diplomatic Passport number: 654310150 | 22.1.2018 | Pae Won Chol has been identified by the UN Panel of Experts as a DPRK national operating Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. |
+> | 13\. | RI Sin Song |  | 22.1.2018 | Ri Sin Song has been identified by the UN Panel of Experts as a DPRK national operating Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. |
+> | 14\. | KIM Sung Su |  | 22.1.2018 | Kim Sung Su has been identified by the UN Panel of Experts as representative of Pan Systems Pyongyang in China. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. |
+> | 15\. | KIM Pyong Chol |  | 22.1.2018 | Kim Pyong Chol has been identified by the UN Panel of Experts as a DPRK national operating Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. |
+> | 16\. | CHOE Kwang Su | Third secretary DPRK Embassy South Africa<br>Date of birth: 20.4.1955<br>Passport number: 381210143 (expiration date: 3.6.2016) | 22.1.2018 | Choe Kwang Su has been identified by the UN Panel of Experts as a representative of Haegeumgang Trading Company. In this capacity Choe Kwang Su signed a DPRK – Mozambique military cooperation contract in violation of the prohibitions imposed by United Nations Security Council Resolutions. The contract concerned the supply of arms and arm-related material to Monte Binga, a company controlled by the Government of Mozambique. |
+> | 17\. | PAK In Su<br>a.k.a: Daniel Pak | Date of birth: 22.5.1957<br>Place of birth: N. Hamgyong<br>Diplomatic passport number: 290221242 | 22.1.2018 | Pak In Su has been identified by the UN Panel of Experts as being involved in activities related to the sale of coal from DPRK in Malaysia in violation of the prohibitions imposed by the United Nations Security Council Resolutions. |
+> | 18\. | SON Young-Nam | First Secretary DPRK Embassy Bangladesh | 22.1.2018 | Son Young-Nam has been identified by the UN Panel of Experts as being involved in the smuggling of gold and other items to the DPRK in violation of the prohibitions imposed by United Nations Security Council Resolutions.’. |
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 141, 28.5.2016, p. 79](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.141.01.0079.01.ENG).

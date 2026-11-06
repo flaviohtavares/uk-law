@@ -1,0 +1,40 @@
+---
+title: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 105
+act: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)
+section: Article 105
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2016/429/section/Article 105
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 105
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 105. Record-keeping obligations of operators conducting assembly operations
+
+*Extent: E+W+S+N.I.*
+
+1. Operators conducting assembly operations subject to the registration requirement laid down in Article 93 shall keep and maintain records containing at least the following information:
+
+- (a) the species, categories, numbers and identification of kept terrestrial animals under their responsibility;
+- (b) movements of kept terrestrial animals under their responsibility, stating as appropriate:
+  - ((i)) their place of origin and destination;
+  - ((ii)) the date of such movements;
+- (c) the documents required to accompany kept terrestrial animals moved under their responsibility in accordance with point (b) of Article 112, point (b) of Article 113(1), point (c) of Article 114(1), point (b) of Article 115, point (b) of Article 117, Article 143(1) and (2), Article 164(2) and any rules adopted pursuant to Articles 118 and 120 and points (b) and (c) of Article 144(1);
+- (d) mortality of kept terrestrial animals under their responsibility; and
+- (e) biosecurity measures, surveillance, treatments, test results and other relevant information as appropriate for the species and categories of kept terrestrial animals under their responsibility.
+
+The records shall be kept and maintained in paper or electronic form.
+
+2. Operators whose activities present a low risk of spreading listed or emerging diseases may be exempted by the Member State concerned from the requirement to keep records of all or some of the information listed in paragraph 1.
+
+3. Operators shall:
+
+- (a) make the records referred to in paragraph 1 available to the competent authority on request;
+- (b) retain those records for a minimum period to be prescribed by the competent authority, which may not be less than three years.

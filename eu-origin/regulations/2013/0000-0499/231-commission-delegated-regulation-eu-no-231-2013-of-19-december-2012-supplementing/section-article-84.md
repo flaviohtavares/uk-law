@@ -1,0 +1,46 @@
+---
+title: Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision (Text with EEA relevance), section Article 84
+act: Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision (Text with EEA relevance)
+section: Article 84
+status: revised-with-pending-changes
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2013/231/section/Article 84
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision (Text with EEA relevance), section Article 84
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/eur/2013/231
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 84. Criteria for assessing prudential regulation and supervision applicable to a depositary in a third country
+
+*Extent: E+W+S+N.I.*
+
+[^key-a36827775f36ef691b07ce857f635e91]... The effectiveness of prudential regulation and supervision applicable to a depositary in a third country whether it has the same effect as that provided for under the law applicable in the United Kingdom, or in any part of the United Kingdom[^key-ade2434a851fe18c16e094198377a71f] and its effective enforcement shall be assessed against the following criteria:
+
+- ((a)) the depositary is subject to authorisation and ongoing supervision by a public competent authority with adequate resources to fulfil its tasks;
+- ((b)) the law of the third country lay down criteria for authorisation as a depositary that have the same effect as those laid down for access to the business of credit institutions or investment firms within the United Kingdom[^key-3bbc466349a665589c1858f9395407b1];
+- ((c)) the capital requirements imposed on the depositary in the third country have the same effect as those applicable in the United Kingdom[^key-c82ddeb19e79f71d465a063dcadf9c38] depending on whether the depositary is of the same nature as a credit institution or investment firm incorporated in, or formed under the law of any part of, the United Kingdom[^key-353154e8db8582333dffeb443d66afb1];
+- ((d)) the operating conditions applicable to a depositary in the third country have the same effect as those laid down for credit institutions or investment firms within the United Kingdom[^key-c34868a49e04b581ad5fab3bae244038] depending on the nature of the depositary;
+- ((e)) the requirements regarding the performance of the specific duties as AIF depositary established in the law of the third country have the same effect as those provided for in rules 3.11.4, 3.11.5, 3.11.9, 3.11.20, 3.11.21 and 3.11.23 to 3.11.30 of the Investment Funds sourcebook, regulations 29 to 32 of the AIFM Regulations 2013, and Articles 85 to 102 of this Regulation[^key-9f11112f72d52c750ed6f2c7852626a9];
+- ((f)) the law of the third country provides for the application of sufficiently dissuasive enforcement actions in the event of breach by the depositary of the requirements and conditions referred to points (a) to (e).
+
+## Annotations
+
+[^key-a36827775f36ef691b07ce857f635e91]: Textual amendment: Words in Art. 84 omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [33(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/328/regulation/33) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ade2434a851fe18c16e094198377a71f]: Textual amendment: Words in Art. 84 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [33(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/328/regulation/33) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3bbc466349a665589c1858f9395407b1]: Textual amendment: Words in Art. 84(b) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [33(2)(b)](https://www.legislation.gov.uk/uksi/2019/328/regulation/33) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c82ddeb19e79f71d465a063dcadf9c38]: Textual amendment: Words in Art. 84(c) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [33(2)(c)(i)](https://www.legislation.gov.uk/uksi/2019/328/regulation/33) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-353154e8db8582333dffeb443d66afb1]: Textual amendment: Words in Art. 84(c) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [33(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/328/regulation/33) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c34868a49e04b581ad5fab3bae244038]: Textual amendment: Words in Art. 84(d) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [33(2)(d)](https://www.legislation.gov.uk/uksi/2019/328/regulation/33) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9f11112f72d52c750ed6f2c7852626a9]: Textual amendment: Words in Art. 84(e) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [33(2)(e)](https://www.legislation.gov.uk/uksi/2019/328/regulation/33) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

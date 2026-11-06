@@ -1,0 +1,92 @@
+---
+title: Commission Regulation (EC) No 265/2009 of 31 March 2009 amending for the 105th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban
+id: eur/2009/265
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2009-03-31'
+text_date: '2009-03-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2009/265
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2009/265/pdfs/eur_20090265_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2009/265/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 265/2009 of 31 March 2009 amending for the 105th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban
+
+> Text as at 2009-03-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 265/2009
+
+of 31 March 2009
+
+amending for the 105th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 881/2002 of 27 May 2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban, and repealing Council Regulation (EC) No 467/2001 prohibiting the export of certain goods and services to Afghanistan, strengthening the flight ban and extending the freeze of funds and other financial resources in respect of the Taliban of Afghanistan,[^f00001] and in particular the first indent of Article 7(1) thereof,
+
+Whereas:
+
+(1)
+
+Annex I to Regulation (EC) No 881/2002 lists the persons, groups and entities covered by the freezing of funds and economic resources under that Regulation.
+
+(2)
+
+On 4 February 2009, the Sanctions Committee of the United Nations Security Council decided to amend the list of natural and legal persons, groups and entities to whom the freezing of funds and economic resources should apply, adding one natural person to the list given the information related to their association with Al-Qaida. The statement of reasons regarding the amendments has been provided to the Commission.
+
+(3)
+
+The Sanctions Committee amended the identifying data on 13 March 2009.
+
+(4)
+
+Annex I should be amended accordingly.
+
+(5)
+
+In order to ensure that the measures provided for in this Regulation are effective, this Regulation must enter into force immediately.
+
+(6)
+
+Since the UN list does not provide the current address for the natural person concerned, a notice should be published in the Official Journal so that the person concerned can contact the Commission and that the Commission can subsequently communicate the grounds on which this Regulation is based to the natural person concerned, provide him with the opportunity to comment on these grounds and review this Regulation in view of the comments and possible available additional information,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Annex I to Regulation (EC) No 881/2002 is hereby amended as set out in the Annex to this Regulation.
+
+**Article 2.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 31 March 2009.
+
+*For the Commission*
+
+Eneko Landáburu
+
+*Director-General for External Relations*
+
+## ANNEX
+
+Annex I to Regulation (EC) No 881/2002 is amended as follows:
+
+The following entry shall be added under the heading ‘Natural persons’:
+
+> Ibrahim Abdul Salam Mohamed Boyasseer (*alias* (a) Abu Al-Banaan, (b) Ibrahim Bouisir, (c) Ibrahim Buisir). Date of birth: 1961. Place of birth: Benghazi, Libya. Nationality: (a) Libyan, (b) Irish. Other information: lives in Ireland. Date of designation referred to in Article 2a(4)(b): 4.2.2009.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 139, 29.5.2002, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.139.01.0009.01.ENG).

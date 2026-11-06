@@ -1,0 +1,1131 @@
+---
+title: Commission Regulation (EC) No 628/2005 of 22 April 2005 imposing a provisional anti-dumping duty on imports of farmed salmon originating in Norway
+id: eur/2005/628
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2005-04-22'
+text_date: '2005-07-04'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2005/628
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2005/628/pdfs/eur_20050628_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2005/628/pdfs/eur_20050628_2005-07-04_en.pdf
+- http://www.legislation.gov.uk/eur/2005/628/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 628/2005 of 22 April 2005 imposing a provisional anti-dumping duty on imports of farmed salmon originating in Norway
+
+> Text as at 2005-07-04.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 628/2005
+
+of 22 April 2005
+
+imposing a provisional anti-dumping duty on imports of farmed salmon originating in Norway
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 384/96 of 22 December 1995 on protection against dumped imports from countries not members of the European Community[^f00001] (‘the basic Regulation’) and in particular Article 7 thereof,
+
+After consulting the Advisory Committee,
+
+Whereas:
+
+1\.
+
+PROCEDURE
+
+1.1.
+
+Measures repealed
+
+(1)
+
+On 6 March 2004, the Commission initiated a safeguard investigation, pursuant to Council Regulations 3285/94[^f00002] and 519/94[^f00003], concerning imports of farmed salmon. On 5 February 2005 the Commission imposed, by Regulation (EC) No 206/2005[^f00004] definitive safeguard measures which took the form of tariff quotas combined with a minimum price for imports. The definitive safeguard measures apply from 6 February 2005, and are subject to gradual liberalisation during the period of their application. On 23 April 2005, the Commission repealed Commission Regulation (EC) No 206/2005 by Commission Regulation (EC) No 627/2005[^f00005].
+
+1.2.
+
+Initiation
+
+(2)
+
+In parallel to the safeguard investigation, on 8 September 2004 a complaint concerning imports of farmed salmon originating in Norway was lodged by the EU Salmon Producers' Group (the complainant) representing a major proportion of the Community production of farmed salmon.
+
+(3)
+
+This complaint contained evidence of dumping of the said product and of material injury resulting there from, which was considered sufficient to justify the opening of a proceeding.
+
+(4)
+
+On 23 October 2004 the proceeding was opened by the publication of a notice of initiation[^f00006]
+
+1.3.
+
+Investigation period
+
+(5)
+
+The investigation of dumping and injury covered the period from 1 October 2003 to 30 September 2004 (‘investigation period’ or ‘IP’). With respect to the trends relevant for the injury assessment, the Commission analysed data covering the period from 1 January 2001 to 30 September 2004 (‘period considered’). The period used for the findings on undercutting, underselling and injury elimination is the aforementioned IP.
+
+1.4.
+
+Parties concerned by the proceeding
+
+(6)
+
+The Commission officially advised the complainant, Norwegian producers, traders, importers, suppliers and users known to be concerned, as well as associations known to be concerned and representatives of Norway, of the opening of the proceeding. Interested parties were given an opportunity to make their views known in writing and to request a hearing within the time limit set in the notice of initiation.
+
+(7)
+
+The Commission sought and verified all the information deemed necessary for a provisional determination of dumping, resulting injury and Community interest. To this end, the Commission sent questionnaires to all parties known to be concerned and to all the other exporters that made themselves known within the deadlines set out in the notice of initiation. In this regard, the following interested parties cooperated with the Commission and made their views known: 102 Norwegian exporters and traders; 24 Community producers; one association of Community producers; 15 importers users and processors; four users’ associations; one consumer’s association; and two suppliers. Verification visits were carried out at the premises of the following companies:
+
+- ((a)) *Producers in the Community*
+  - Celtic Atlantic Salmon Ltd (Killary), Renvyle, Co Galway, Ireland.
+  - Hoove Salmon Ltd, Whiteness Shetland, United Kingdom.
+  - Loch Duart Ltd, Scourie By Lairg, Sutherland, Scotland, United Kingdom.
+  - Orkney Sea Farms Ltd, Glasgow, United Kingdom.
+  - West Minch Salmon Ltd, Sidinish Salmon Ltd, Benbecula, Western Isles, United Kingdom.
+  - Wester Ross Salmon, Inverness, United Kingdom.
+- ((b)) *Exporters*
+  - Marine Harvest Bolga AS, N-8158 Bolga, Norway.
+  - Fjord Seafood Norway AS, Toftsundet, N-8900 Brønnøysund, Norway.
+  - Pan Fish Norway AS, Grimmergata 5, N-6002 Ålesund, Norway.
+  - Stolt Sea Farm AS, Postboks 370, Sentrum, N-0102, Oslo, Norway.
+  - Follalaks AS, N-8286 Nordfold, Norway.
+  - Nordlaks Oppdrett AS, Boks 224, N-8455 Stokmarknes, Norway.
+  - Hydrotech AS, Bentnesveien 50, N-6512 Kristiansund, Norway.
+  - Grieg Seafood AS, Postboks 234, N-5804 Bergen, Norway.
+  - Seafarm Invest AS, N-8764 Lovund, Norway.
+  - Sinkaberg-Hansen AS, Postboks 134, N-7901 Rorvik, Norway.
+- ((c)) *Importers/Processors/Users*
+  - Labeyrie, St. Vincent de Tyrosse, France.
+  - Laschinger GmbH, Bischofsmais, Germany.
+
+(8)
+
+All interested parties, who so requested and showed that there were particular reasons why they should be heard, were granted a hearing.
+
+(9)
+
+In the notice of initiation, the Commission indicated that in view of the apparent large number of exporters of the product concerned in Norway and the large number of producers of the product in the Community, the application of sampling techniques was envisaged in this investigation.
+
+2\.
+
+PRODUCT CONCERNED AND LIKE PRODUCT
+
+2.1.
+
+Product concerned
+
+(10)
+
+The product concerned is farmed (other than wild) salmon, whether or not filleted, fresh, chilled or frozen. The definition excludes other similar farmed fish products such as large (salmon) trout, biomass (live salmon) as well as wild salmon and further processed types such as smoked salmon.
+
+(11)
+
+The product is currently classifiable within CN codes ex 0302 12 00, ex 0303 11 00, ex 0303 19 00, ex 0303 22 00, ex 0304 10 13 and ex 0304 20 13 corresponding to different presentations of the product (fresh or chilled fish, fresh or chilled fillets, frozen fish and frozen fillets). Based on the physical characteristics, the production process and the substitutability of the product from the perspective of the consumer, it was found that all farmed salmon constitutes a single product. The different presentations all serve the same end use and are readily capable of being substituted between each other. Therefore, they are considered to constitute a single product for the purpose of the proceeding.
+
+2.2.
+
+Like product
+
+(12)
+
+The investigation showed that the basic physical characteristics of farmed salmon produced and sold by the Community industry in the Community, farmed salmon produced and sold on the domestic Norwegian market, and farmed salmon imported into the Community from Norway are the same and that they have the same use.
+
+(13)
+
+In reaching this determination, the following findings in particular were taken into account:
+
+- the product concerned and the Community product share the same international classification for tariff purposes. Furthermore, they share the same or similar physical properties such as taste, size, shape and texture;
+- the product concerned and the Community product were sold via similar or identical sales channels, price information was readily available to buyers and the product concerned and the product of the Community producers competed mainly on price;
+- the product concerned and the Community product both serve the same or similar end-uses, they were, therefore, alternative or substitute products and were easily interchangeable.
+
+(14)
+
+It was therefore provisionally concluded that the product concerned and the farmed salmon produced and sold on the domestic market of Norway, as well as the farmed salmon produced and sold in the Community by the Community industry have the same basic physical characteristics and uses and are therefore considered to be alike within the meaning of Article 1(4) of the basic Regulation.
+
+3\.
+
+DUMPING
+
+3.1.
+
+General
+
+(15)
+
+Although most Norwegian producers of farmed salmon sold the product concerned to the Community via traders, it was possible to make the dumping assessment at the level of the producers. Indeed, following changes in the structure of the Norwegian salmon industry, it was found that most Norwegian producers of farmed salmon were making sales of the product concerned either direct to the EU, or were able to identify sales made via unrelated traders and destined for the EU market. It was therefore possible to arrive at both a normal value and an export price at the level of the producer.
+
+3.2.
+
+Sampling
+
+(16)
+
+Section 5.1(a) of the notice of initiation indicated that the Commission may decide to apply sampling in accordance with Article 17 of the basic Regulation. In response to the request pursuant to Section 5.1(a)(i) of the notice of initiation, 102 companies provided the information requested within the specified deadline. Of these, 38 were producers of farmed salmon, which also exported the product concerned to the EU (the ‘exporting producers’). Sales were either made direct or via unrelated traders.
+
+(17)
+
+In view of the large number of companies involved, it was decided to make use of the provisions for sampling and, for this purpose, a sample of companies, with the largest export volumes to the EC was chosen, in consultation with the Norwegian authorities. There were some issues that could not be resolved with the Norwegian authorities, in particular concerning the exclusion from the sample of certain exporters with relatively low export volumes to the EC of the product concerned. The requests made by the Norwegian authorities would have meant that the principle for selection of the sample, i.e. to include as many companies that could reasonably be investigated within the time available with the largest possible representative volume of exports, would not have been respected. Therefore those claims could not be accepted. The sample comprises the ten largest Norwegian exporting producers, representing almost 80 % of the export volume to the Community of all co-operating exporting producers.
+
+(18)
+
+Following verification, for two companies included in the sample it was not possible to conclude on the basis of the information provided that sales of farmed salmon had been made to unrelated parties at arms length prices. In these circumstances, it is provisionally concluded that, pending the provision of sufficient information by these companies, these companies should not be given an individual dumping margin, but should be allocated the weighted average margin of those companies for which an individual margin could be established. However, it should be noted that the Commission will continue to investigate this issue at the definitive stage of the proceeding, and may revert to use of facts available in accordance with Article 18 of the basic Regulation, should the necessary information not be made available by the companies concerned.
+
+3.3.
+
+Normal value
+
+(19)
+
+For the determination of normal value the Commission first established, for each of the exporting producers included in the sample, whether its total domestic sales of farmed salmon were representative in comparison with its total export sales to the Community. In accordance with Article 2(2) of the basic Regulation, domestic sales were considered representative when the total domestic sales volume of each exporting producer was at least 5 % of its total export sales volume to the Community.
+
+(20)
+
+For the exporting producers having overall representative domestic sales, the Commission subsequently identified the types of farmed salmon sold domestically which were identical or directly comparable to the types sold for export to the Community.
+
+(21)
+
+For each of those types, it was established whether domestic sales were sufficiently representative for the purposes of Article 2(2) of the basic Regulation. Domestic sales of a particular type were considered sufficiently representative when the total domestic sales volume of that type during the IP represented 5 % or more of the total sales volume of the comparable type exported to the Community.
+
+(22)
+
+An examination was also made as to whether the domestic sales of each type of the product concerned sold domestically in representative quantities could be regarded as having been made in the ordinary course of trade in accordance with Article 2(4) of the basic Regulation, by establishing the proportion of profitable sales to independent customers of the type in question.
+
+(23)
+
+In cases where the sales volume of a type of farmed salmon, sold at a net sales price equal to or above its cost of production, represented more than 80 % of the total sales volume of that type, and where the weighted average price of that type was equal to or above its cost of production, normal value was based on the actual domestic price. This price was calculated as a weighted average of the prices of all domestic sales of that type made during the IP, irrespective of whether these sales were profitable or not.
+
+(24)
+
+Where the volume of profitable sales of a type of farmed salmon represented 80 % or less of the total sales volume of that type, or where the weighted average price of that type was below its cost of production, normal value was based on the actual domestic price, which was calculated as a weighted average of profitable sales of that type only, provided that these sales represented 10 % or more of the total sales volume of that type.
+
+(25)
+
+Finally, where the volume of profitable sales of any type of farmed salmon represented less than 10 % of the total sales volume of that type, it was considered that this particular type was sold in insufficient quantities for the domestic price to provide an appropriate basis for the establishment of the normal value.
+
+(26)
+
+Wherever domestic prices of a particular type sold by an exporting producer could not be used, constructed normal value was used, pursuant to Article 2(3) of the basic Regulation. In accordance with Article 2(3) of the basic Regulation, normal value was constructed by adding to each exporter’s manufacturing costs of the exported types, adjusted where necessary, a reasonable amount for selling, general and administrative expenses (‘SG&A’) and a reasonable margin of profit. To this end, the Commission examined whether the SG&A incurred and the profit realised by each of the exporting producers concerned on the domestic market constituted reliable data.
+
+(27)
+
+The actual domestic profit margin was considered reliable when the total domestic sales volume of the company concerned could be regarded as representative as compared to the volume of export sales to the Community. For companies with overall representative sales, the profit margin was determined on the basis of domestic sales of those types that were sold in the ordinary course of trade. For this purpose, the methodology set out in recital 22 to 25 was applied.
+
+(28)
+
+Where these criteria were not met, the Commission next considered whether a weighted average profit margin of the other companies with representative sales in the ordinary course of trade in Norway could be used, or the actual amounts applicable to production and sales, in the ordinary course of trade, of the same general category of products of the company concerned in their domestic market, could be used. Finally, where none of these approaches was possible, the domestic profit margin was established in accordance with Article 2(6)(c) of the basic Regulation.
+
+(29)
+
+Five companies had overall representative sales but it was found that for only one company were certain types of the product concerned, which were also exported, sold on the domestic market in the ordinary course of trade. For the remaining types of farmed salmon exported by these companies, normal value had to be constructed following the methodology explained in recital 26. Three companies were found not to have overall representative domestic sales of farmed salmon. Therefore, normal value had to be constructed for all types of the product concerned produced by these companies following the methodology explained in recital 26.
+
+(30)
+
+As indicated in recital 29, in respect of domestic profit margin, it was found that only one exporting producer had domestic sales of farmed salmon in the ordinary course of trade. As this was not considered sufficiently representative, a domestic profit of 8 % on turnover was provisionally taken in line with the approach outlined in recital 28. Such a profit margin was considered the minimum level that would be achievable for a viable industry. In addition, it should be noted that the domestic profit used was in the same order as that achieved by the company that did have domestic sales in the ordinary course of trade. This profit margin also seems to be the absolute minimum in view of the significant investment both in time and resources required to farm salmon, which have a three year growing cycle from smolt to harvestable fish. The Commission will continue to consider the issue of domestic profit in light of this investment burden, combined with the level of current interest rates in Norway and may revise its decision at the definitive stage.
+
+(31)
+
+For determination of a reasonable amount for SG&A, the Commission considered that the company specific information provided by exporting producers could provisionally be used at this stage. However, it should be noted that a number of issues, on which the appropriateness of this approach depends, still need to be clarified and further verified. The Commission will continue to investigate this issue and may decide to revise its approach at the definitive stage.
+
+3.4.
+
+Export price
+
+(32)
+
+In all cases where the product concerned was exported to the Community by way of sales to independent customers, the export price was established in accordance with Article 2(8) of the basic Regulation, namely on the basis of export prices actually paid or payable.
+
+(33)
+
+Where sales were made via a related importer in the Community, the export price was constructed on the basis of the resale prices of the importer to independent customers. Adjustments were made for all costs incurred between importation and resale by the related company, including SG&A expenses, and a reasonable profit margin of 5 % on turnover, in accordance with Article 2(9) of the basic Regulation.
+
+(34)
+
+Where export sales were made via a related trader in Norway, the export price was established on the basis of the resale price paid by the first independent buyer in the Community.
+
+3.5.
+
+Comparison
+
+(35)
+
+The normal value and export prices were compared on an ex-works basis. For the purpose of ensuring a fair comparison between the normal value and the export price, due allowance in the form of adjustments was made for differences affecting prices and price comparability in accordance with Article 2(10) of the basic Regulation. Appropriate adjustments concerning transport and insurance, credit, commission, bank charges, packing, customs duties and rebates were granted in all cases where they were found to be reasonable, accurate and supported by verified evidence. Adjustments were also made where the export sales were made via a related company located in Norway, pursuant to Article 2(10)(i) of the basic Regulation.
+
+3.6.
+
+Dumping margin
+
+3.6.1.
+
+Sampled Companies
+
+(36)
+
+For eight of the exporting producers which were included in the sample, an individual dumping margin could be calculated. For these companies, the weighted average normal value of each type of the product concerned exported to the Community was compared with the weighted average export price of the corresponding type of the product concerned, as provided for under Article 2(11) of the basic Regulation. Where exporting producers are related, the provisional dumping margin expressed as a percentage of the CIF import price at the Community border has been calculated as the weighted average of the dumping margins of the related companies, in line with the Community’s policy for related exporting producers. Such a circumstance arose in respect of two companies in this investigation.
+
+(37)
+
+The remaining two exporting producers for which it was not possible to establish an individual dumping calculation, as outlined in recital 18, were also attributed a provisional dumping margin at the level of the weighted average of the individual dumping margins provisionally established for the parties in the sample.
+
+3.6.2.
+
+Non-Sampled Companies
+
+(38)
+
+Companies which co-operated, but which were not selected in the sample, and which are not related to any of the companies included in the sample, were attributed a provisional dumping margin at the level of the weighted average of the individual dumping margins provisionally established for the parties in the sample, i.e. 25,1 %.
+
+(39)
+
+Companies which co-operated, but which were not selected in the sample, and which are related to any of the companies included in the sample, were provisionally attributed a provisional dumping margin at the same level as that attributed to the sampled company to which they are related.
+
+3.6.3.
+
+Non-Cooperating Companies
+
+(40)
+
+In order to calculate the residual dumping margin, i.e. the dumping margin for exporters in Norway which did not cooperate or did not make themselves known, the Commission first established the level of co-operation. A comparison was made between the total imports of the product concerned originating in Norway calculated on the basis of Eurostat and the actual data received from exporting producers in Norway which indicated their willingness to be included in a sample. On this basis, it was established that the level of co-operation was high, i.e. almost 80 % of the overall Norwegian exports of farmed salmon to the Community.
+
+(41)
+
+From the information available, it was concluded that these companies did not dump at a level lower than any of the companies included in the sample. The residual dumping margin was consequently set at the level of the highest individual dumping margin established for a cooperating company. On this basis, the residual level of dumping was provisionally established at 44,0 % of the CIF Community frontier price.
+
+3.6.4.
+
+Dumping Margin
+
+(42)
+
+On this basis, the provisional dumping margins expressed as a percentage of the CIF Community frontier price, duty unpaid, are:
+
+| Company | Provisional dumping margin |
+| --- | --- |
+| Marine Harvest Bolga AS, N-8158 Bolga, Norway | 21,9 % |
+| Fjord Seafood Norway AS, Toftsundet, N-8900 Brønnøysund, Norway | 37,7 % |
+| Pan Fish Norway AS, Grimmergata 5, N-6002 Ålesund, Norway | 25,4 % |
+| Stolt Sea Farm AS, Postboks 370, Sentrum, N-0102, Oslo, Norway | 13,9 % |
+| Follalaks AS, N-8286 Nordfold, Norway | 24,5 % |
+| Nordlaks Oppdrett AS, Boks 224, N-8455 Stokmarknes, Norway | 6,8 % |
+| Hydrotech AS, Bentnesveien 50, N-6512 Kristiansund, Norway | 21,9 % |
+| Grieg Seafood AS, Postboks 234, N-5804 Bergen, Norway | 22,9 % |
+| Weighted Average | 22,5 % |
+| Residual Margin | 37,7 % |
+
+4\.
+
+INJURY
+
+4.1.
+
+Definition of Community production and Community industry
+
+(43)
+
+During the IP, farmed salmon was manufactured in the Community by
+
+- Community producers which were not related to Norwegian exporters or importers and which were complainants or explicitly supported the complaint;
+- Community producers which were not related to Norwegian exporters or importers, and which did not take a position on the complaint (‘silents’);
+- Several other producers which were found to be related to Norwegian exporters or importers (‘related’).
+
+(44)
+
+Several of the other producers related to Norwegian exporters or importers made themselves known and requested to be included in the definition of the Community production. They also defined themselves as Community industry. However, this claim was rejected on the basis of the provisions of Article 4(1) of the basic Regulation. It was considered, in particular, that the relationship between these related producers and the exporters or importers of the dumped product could be such as to cause the producers concerned to behave differently from non-related producers. Consequently, the output of these other producers was not taken into consideration when calculating Community production.
+
+(45)
+
+The investigation showed that the complaining Community producers had produced around 20 000 tonnes of salmon during the IP. This represents around 90 % of the estimated total Community production of the product concerned. This constitutes a major proportion of the Community production. The complaining Community producers are therefore deemed to constitute the Community industry within the meaning of Articles 4(1) and 5(4) of the basic Regulation.
+
+4.2.
+
+Sampling for injury assessment purposes
+
+(46)
+
+In view of the large number of producers of farmed salmon in the Community, the application of sampling techniques was foreseen in the notice of initiation for the assessment of injury. The selection of the sample of Community producers was based on the largest representative volume of production that could be reasonably investigated within the time available, in accordance with Article 17 of the basic Regulation.
+
+(47)
+
+On the basis of the information provided to the Commission, the six Community producers listed above in recital 7 were initially selected for the sample and were asked to reply to a questionnaire. Verifications at the premises of these companies were carried out. The investigation showed that Celtic Atlantic Salmon Ltd did not produce farmed salmon within the whole period considered and therefore was not in a position to provide all the data and information requested in the questionnaire. Celtic Atlantic Salmon Ltd was established as a company in January 2004 after having purchased certain assets of a salmon producing company which was in receivership and could only provide data with regard to the IP. Consequently, the injury indicators discussed below as from recital 63 have been established on the basis of the verified information provided by the other five companies listed above in recital 7. However, data from Celtic Atlantic Salmon Ltd were used for the purpose of calculating undercutting and underselling.
+
+(48)
+
+The accumulated production of the five Community producers selected for the sample that fully co-operated in the investigation was at around 8 300 tonnes during the IP, or around 37 % of the estimated total Community production of farmed salmon.
+
+(49)
+
+The analysis of injury is based on (a) the performance injury indicators such as sales prices, stocks, profitability, return on investment, cash flow, investments, ability to raise capital and wages, which were established on the basis of the information verified at the level of the sample and (b) the other injury indicators, such as production, production capacity, capacity utilisation, sales volume, market share, growth, employment, productivity and magnitude of the margin of dumping which were established on the basis of data collected at the level of the Community industry as a whole.
+
+4.3.
+
+Community consumption
+
+(50)
+
+During the period considered the Community consumption developed as follows:
+
+<table>
+<thead>
+<tr><td colspan="5">Table 1</td></tr>
+<tr><td colspan="5">Community consumption</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Eurostat and data for Ireland, United Kingdom, France. All figures relate to EU 25.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2001</th><th>2002</th><th>2003</th><th>IP</th></tr>
+<tr><th>Tonnes</th><td>527 970</td><td>550 943</td><td>611 101</td><td>607 904</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>104</em></td><td><em>116</em></td><td><em>115</em></td></tr>
+</tbody>
+</table>
+
+(51)
+
+Community consumption was established on the basis of the total production by all producers in the Community plus imports from all third countries minus European Community exports. Production by all producers established in the Community was established on the basis of data provided by the countries where production is located, i.e. Ireland, United Kingdom and France. Imported and exported quantities were derived from Eurostat.
+
+(52)
+
+It should be noted that large scale farming of farmed salmon in the Community is confined to the United Kingdom (Scotland) and Ireland. Certain adjustments were made to convert net weights as reported by Eurostat to round weights or ‘whole fish equivalents’ (WFE)[^f00008] as it is common for comparisons in the industry to be made on WFE basis. Therefore, unless otherwise indicated, the figures for fresh, chilled and frozen salmon excluding fillets and for fresh, chilled and frozen salmon fillets were, depending on the presentation of the salmon, divided by the conversion factors of 0,90 and 0,65 respectively, i.e. the commonly accepted conversion factors by the salmon industry.
+
+(53)
+
+The above table shows that consumption increased between 2001 and 2003 by 16 %. In the IP consumption remained nearly on the same level as in 2003, with a slight decrease of 0,5 %. Overall the increase of consumption over the period considered was as high as 15 %.
+
+4.4.
+
+Imports into the Community from the country concerned
+
+4.4.1.
+
+Volume of the imports concerned
+
+(54)
+
+During the period considered the volume of the imports from Norway derived from Eurostat data using the methodology described in recital (51) above developed as follows:
+
+<table>
+<thead>
+<tr><td colspan="5">Table 2</td></tr>
+<tr><td colspan="5">Volume of imports concerned</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Eurostat.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2001</th><th>2002</th><th>2003</th><th>IP</th></tr>
+<tr><th>Tonnes</th><td>269 126</td><td>294 481</td><td>351 757</td><td>362 492</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>109</em></td><td><em>131</em></td><td><em>135</em></td></tr>
+</tbody>
+</table>
+
+(55)
+
+The above table shows that the volume of imports of farmed salmon from Norway increased by 35 % during the period considered. The increase was as high as 31 % between 2001 and 2003 and it further increased by 3 % between 2003 and the IP. In other words, while consumption increased by nearly 80 000 tonnes during the period considered, Norwegian exporters were able to increase their sales on the Community market by 93 000 tonnes, which represents more than the total increase of consumption.
+
+4.4.2.
+
+Market share of the imports concerned
+
+(56)
+
+The market share held by exporting producers in Norway developed as shown below:
+
+<table>
+<thead>
+<tr><td colspan="5">Table 3</td></tr>
+<tr><td colspan="5">Market share of the imports from Norway</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Eurostat, Community production and exports calculated from data for Ireland, United Kingdom, France and Latvia.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2001</th><th>2002</th><th>2003</th><th>IP</th></tr>
+<tr><th></th><td>51 %</td><td>53,5 %</td><td>57,6 %</td><td>59,6 %</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>105</em></td><td><em>113</em></td><td><em>117</em></td></tr>
+</tbody>
+</table>
+
+(57)
+
+As was the case for the imports, Norwegian market share has continuously increased during the period considered. Overall, the market share based on import volumes increased by 17 % or 8,6 percentage points during the period considered. The increase between 2002 and the IP was as high as 6,1 percentage points.
+
+4.4.3.
+
+Average prices of dumped imports
+
+(58)
+
+The price evolution of dumped imports from Norway sold on the Community market is shown below.
+
+<table>
+<thead>
+<tr><td colspan="5">Table 4</td></tr>
+<tr><td colspan="5">Average price of dumped imports from Norway (EUR/kg)</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Eurostat.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2001</th><th>2002</th><th>2003</th><th>IP</th></tr>
+<tr><th></th><td>3,13</td><td>3,04</td><td>2,64</td><td>2,64</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>97</em></td><td><em>84</em></td><td><em>84</em></td></tr>
+</tbody>
+</table>
+
+(59)
+
+Over the period considered the average price of dumped imports decreased by 16 %. The above table also shows a clear coincidence in time between the fall in price which plummeted downwards in 2003 and the surge of dumped imports on the Community market evidenced in recital 54.
+
+4.4.4.
+
+Price undercutting
+
+(60)
+
+For the purposes of calculating the level of price undercutting during the IP, the weighted average sales prices of the sampled Community industry producers were compared to the weighted average export prices of the sampled exporting producers from Norway. This comparison was made for comparable types of farmed salmon and at the same level of trade, namely for sales to the first independent customer. The comparison was made after deduction of rebates and discounts and the prices of the imports were CIF Community frontier, adjusted for customs duties.
+
+(61)
+
+The prices of the sampled Community industry producers were taken at an ex-works level, i.e. excluding transport costs and at levels of trade considered to be comparable to those of the imports concerned. For those sampled Community industry producers which sold their fish at the farm gate with a deduction of a fee paid to a processing factory, an upward adjustment was made to reflect processing and packing costs in order to make their prices comparable to those of other producers in the sample. This adjustment was made on the basis of the costs incurred by other producers in the sample for these activities or on the basis of the actual fee paid to the processing facility.
+
+(62)
+
+The results of the comparison on a weighted-average to weighted average basis showed that during the IP the products concerned originating in Norway were sold in the Community at prices which undercut the Community industry’s prices, when expressed as a percentage of the latter, at around 15 % on average.
+
+4.5.
+
+Situation of the Community industry
+
+(63)
+
+In accordance with Article 3(5) of the basic Regulation, the examination of the impact of the dumped imports on the Community industry included an evaluation of all economic factors and indices having a bearing on the State of the Community industry during the period considered.
+
+4.5.1.
+
+Production, production capacity and capacity utilisation
+
+(64)
+
+The production, the production capacity and the capacity utilization of the Community industry as a whole developed as follows:
+
+<table>
+<thead>
+<tr><td colspan="5">Table 5</td></tr>
+<tr><td colspan="5">Production, production capacity and capacity utilisation</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Community industry.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2001</th><th>2002</th><th>2003</th><th>IP</th></tr>
+<tr><th>Production (tonnes)</th><td>18 118</td><td>20 621</td><td>19 387</td><td>20 536</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>114</em></td><td><em>107</em></td><td><em>113</em></td></tr>
+<tr><th>Production capacity (tonnes)</th><td>36 994</td><td>37 112</td><td>41 862</td><td>43 662</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>100</em></td><td><em>113</em></td><td><em>118</em></td></tr>
+<tr><th>Capacity utilisation</th><td>49 %</td><td>56 %</td><td>46 %</td><td>47 %</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>113</em></td><td><em>95</em></td><td><em>96</em></td></tr>
+</tbody>
+</table>
+
+(65)
+
+Production of the Community industry first increased by 14 % between 2001 and 2002. It subsequently decreased by 6 %, but increased again by 5 % in the IP, although remaining below the level of 2002. As shown in the table above, production overall increased by 13 % during the period considered.
+
+(66)
+
+During the period considered production capacity increased by 18 %. The main increase took place in 2003 (+ 13 %). It should be noted that farmed salmon production in the European Community is effectively limited by government licences specifying the maximum amount of live fish which may be held in the water at any place at any point in time. Capacity figures given are theoretical capacity based on the total quantity licensed rather than the physical fish-holding capacity of the cages and other production material operated by the Community industry. It is therefore considered that these capacity figures are not very meaningful in the analysis.
+
+(67)
+
+Capacity utilisation first increased by 13 % between 2001 and 2002 but decreased in 2003 by around 18 % and remained more or less stable in the IP.
+
+4.5.2.
+
+Stocks
+
+(68)
+
+It should be noted that farmed salmon is practically not stocked by the Community industry, but sold immediately after harvesting to downstream industries. Therefore the evaluation of stocks does not appear to be a relevant factor in examining the economic situation of the Community industry.
+
+4.5.3.
+
+Sales volume, market shares, average unit prices in the EC and growth
+
+(69)
+
+The figures below represent the Community industry’s sales to independent customers on the Community market.
+
+<table>
+<thead>
+<tr><td colspan="5">Table 6</td></tr>
+<tr><td colspan="5">Sales volume, market shares, average unit sales prices in the EC</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Community industry with regard to sales volume and market share. With regard to average unit sales prices sampled Community industry on ex-farm level.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2001</th><th>2002</th><th>2003</th><th>IP</th></tr>
+<tr><th>Sales volume (tonnes)</th><td>17 556</td><td>18 684</td><td>18 997</td><td>19 925</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>106</em></td><td><em>108</em></td><td><em>113</em></td></tr>
+<tr><th>Market Share</th><td>3,33 %</td><td>3,38 %</td><td>3,11 %</td><td>3,28 %</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>102</em></td><td><em>93</em></td><td><em>99</em></td></tr>
+<tr><th>Average unit sales prices (EUR/kg)</th><td>3,03</td><td>3,0</td><td>2,61</td><td>2,84</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>99</em></td><td><em>86</em></td><td><em>94</em></td></tr>
+</tbody>
+</table>
+
+(70)
+
+The Community industry’s sales volumes have increased between 2001 and the IP by 13 %. In other words, the Community industry was able to increase its sales volume by 2 300 tonnes. This performance should also be seen in the light of the increase in Community consumption which was as high as 80 000 tonnes in the same period.
+
+(71)
+
+The market shares of the Community industry overall decreased during the period considered (– 1 %). It first increased between 2001 and 2002, then sharply decreased in 2003, and increased again in the IP remaining slightly below the market share of the year 2001. Given the small market share of the Community industry, it should be noted that every loss, be it even little, has a large impact on the Community industry.
+
+(72)
+
+In the period 2001 to the IP the Community industry’s average sales prices decreased by 6 %. The main decrease took place between 2002 and 2003 (– 13 percentage points), while between 2003 and the IP, prices recovered to some extent (+ 8 percentage points).
+
+(73)
+
+Over the period considered the Community consumption grew by 15 % and the Community industry increased it sales volume by 13 %. However, during the same period Community sales prices decreased (– 6 %) as well as market share (– 1 %). At the same time the imports from Norway increased by around 35 % and the gain in market share of the low-priced dumped imports was as high as 8,6 percentage points. This meant that the Community industry did not fully participate in the growth of the market over the period considered.
+
+4.5.4.
+
+Profitability, Return on Investments and Cash Flow
+
+(74)
+
+Profitability on EC sales represents the profit generated by sales of farmed salmon on the Community market. Return on Total Assets and Cash Flow could only be measured at the level of the narrowest group of products which included the like product, pursuant to Article 3(8) of the basic Regulation. In this context it should be noted that farmed salmon represented over 95 % of the economic activity of the sampled Community industry.
+
+(75)
+
+Moreover, the Return on investments has been calculated on the basis of Return on total assets since the companies constituting the Community industry are mainly, if not exclusively, active in the production and sales of the product concerned. For the purpose of this investigation, the return on investments is expressed as the profit in percent of the net book value of investments.
+
+<table>
+<thead>
+<tr><td colspan="5">Table 7</td></tr>
+<tr><td colspan="5">Profitability, Return on Investments and Cash Flow</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Sampled Community industry.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2001</th><th>2002</th><th>2003</th><th>IP</th></tr>
+<tr><th>Profitability on EC Sales</th><td>7,2 %</td><td>– 2,9 %</td><td>– 6,2 %</td><td>– 4,0 %</td></tr>
+<tr><th>Return on Investment</th><td>36,7 %</td><td>– 15,5 %</td><td>– 20,7 %</td><td>– 21,4 %</td></tr>
+<tr><th>Cash Flow (000 EUR)</th><td>3 331</td><td>– 11</td><td>951</td><td>698</td></tr>
+</tbody>
+</table>
+
+(76)
+
+During the year 2001, the Community industry was profitable at 7,2 %. Between 2001 and 2002 the profitability turned negative with a decrease of 10,1 percentage points. Since this point of time the Community industry remained loss making. It should be noted that the situation deteriorated even more between 2002 and 2003 with a loss of 6,2 % (or 3,3 percentage points). The sustained demand for salmon during the IP allowed the Community industry to slightly increase its sales prices and reduce its loss, which however remained significant (– 4 %). From the beginning to the end of the period considered the decrease in profitability was as high as 11,2 percentage points.
+
+(77)
+
+During the period considered the return on investments and cash flow followed a trend similar to that of profitability.
+
+4.5.5.
+
+Investments and ability to raise capital
+
+(78)
+
+Investments made by the Community increased during the period considered. They first decreased in 2002 and 2003, before increasing in the IP. To a certain extent, these investments can be explained by the sustained demand which has characterized the period considered. It was also found that a considerable part of the investments were made to maintain the existing production tools or to replace equipments at the end of their life cycle. Furthermore, the Community industry has been making considerable efforts to improve its competitiveness on this market in recent years. Steps to improve their efficiency and reduce costs in the face of increased competition have been taken by entering into joint arrangements for feed buying for example, or engaging into joint marketing and sales. Finally, the Community industry has also been under a process of consolidation. There have been significant changes in the structure of the salmon farming industry in the Community with a trend towards fewer companies. A number of smaller producers have either gone out of business or sold out to other producers, which invested in these companies.
+
+(79)
+
+During the period considered, it was found that the Community industry started to have more difficulties in raising capital. The Community industry’s ability to raise capital should also be seen in the light of the evolution of the cash flow of the Community industry which was negative during the IP. It is also clear that the losses accumulated by the Community industry and the level of sales prices during the period considered played a negative role when looking for outside sources of financing.
+
+4.5.6.
+
+Employment and Productivity
+
+(80)
+
+Between 2001 and the IP employment by the Community industry (overall) increased by 4 %. This increase took place, however, between 2001 and 2002 (+ 7 %) and can be explained by the increase in production realised during the period considered. As the above table shows, the increase in employment which occurred in 2002 could not be maintained because of the market situation and was followed by a decrease in 2003 and the IP.
+
+(81)
+
+Although employment increased slightly, the Community industry was able to increase its productivity during the period considered. Given the level of production and the level of personnel employed, productivity increased by 8 % during the period considered.
+
+4.5.7.
+
+Wages
+
+(82)
+
+Wages had to be decreased by 19 % during the period considered.
+
+4.5.8.
+
+Recovery from past dumping
+
+(83)
+
+It should be noted that between September 1997 and May 2003 a significant proportion of imports of farmed salmon originating in Norway has been subject to price undertakings in the context of the then existing anti-dumping and anti-subsidy measures. While the Community industry was profitable in 2001, in the course of 2002, violations of these price undertakings by certain Norwegian exporting producers began to undermine the effectiveness of that instrument and caused price falls. The current investigation shows that prices of the exporting producers in Norway have decreased by 16 % as from 2001. The major price decreases occurred as from 2002, when the violations of the undertakings then in force began to increase. Under these circumstances, it is considered that recovery from past dumping has not been possible.
+
+4.5.9.
+
+Magnitude of the actual margin of dumping
+
+(84)
+
+The impact on the Community industry of the magnitude of the actual margin of dumping, which is also significant, cannot be considered to be negligible given the volume and the prices of the imports concerned.
+
+4.6.
+
+Conclusion on injury
+
+(85)
+
+The investigation shows that between 2001 and the IP imports of the product concerned have taken place continuously in increased quantities and high volumes onto the Community market (+ 35 %), especially between 2002 and 2003. During the same period the average prices of dumped imports have decreased continuously by 16 %, plummeting downwards between 2002 and 2003 and since then staying at a very low level. It was found that Norwegian market share increased by 17 % or 8,6 percentage points during the period considered.
+
+(86)
+
+As to the situation of the Community industry, an examination of the above indicators shows that between 2001 and the IP, it gradually deteriorated. While some factors showed a positive trend during the period considered (production, production capacity, sales volumes), most indicators developed negatively (sales prices, market share, profitability, cash flow, return on investment, wages).
+
+(87)
+
+As regards the positive development of production and sales volumes, it was found that these increases only allowed the Community industry to regain lost market shares during the IP and to maintain the regained market share. Production capacity was considered to be of limited relevance as capacity figures are theoretical based on the total quantity licensed rather than the physical fish-holding capacity. In consequence, capacity utilisation decreased from 49 % to 47 % in this period, whereas productivity increased mostly due to greater use of automation (+ 8 %). During the period considered the Community market was characterized by a sustained demand as consumption grew by 15 % or by 80 000 tonnes. Although the Community industry managed to increase its production and sales volumes by both 13 %, it just managed to maintain its market share. In the same time Norwegian exporters managed to increase their sales by 93 000 tonnes and gained considerable market share.
+
+(88)
+
+Moreover, the increase in sales volume by the Community industry occurred at the expense of falling prices. This has led to a fall in profitability from a positive into a negative, loss making situation (7,2 % in 2001 to losses of – 2,9 %, – 6,2 % and – 4,0 % in 2002, 2003 and the IP respectively). Return on investments and Cash Flow followed a trend similar to that of profitability. Also wages have suffered during the period considered (– 19 %).
+
+(89)
+
+Taking account of all of these factors, the provisional conclusion reached is that the Community industry has suffered material injury within the meaning of Article 3 of the basic Regulation.
+
+5\.
+
+CAUSATION
+
+5.1.
+
+Preliminary remarks
+
+(90)
+
+In order to reach its provisional conclusion as to whether there is a causal link between the dumped imports and the injury suffered by the Community industry, the Commission first examined in accordance with Article 3(6) of the basic Regulation, the impact of the dumped imports from the country concerned on the situation in that industry.
+
+(91)
+
+Secondly, in accordance with Article 3(7) of the basic Regulation, the Commission also examined other factors which might have injured the Community industry in order to ensure that any injury caused by those factors was not wrongly attributed to the dumped imports. Known factors other than dumped imports which could at the same time be injuring the Community industry, were also analysed in order to ensure that possible injury caused by other factors was not attributed to the dumped imports.
+
+5.2.
+
+Effect of the dumped imports from the country concerned
+
+(92)
+
+The link between the injury suffered by the Community industry and the dumped imports is demonstrated in particular by the following coinciding developments: from 2001 until the end of the IP the volume of imports of Norwegian farmed salmon into the Community increased by 35 % and their market share rose to 59,6 %, meaning a gain of 8,6 percentage points at the expense of the Community industry. Norwegian prices decreased by 16 % within the period considered.
+
+(93)
+
+This development of Norwegian imports coincided with large financial losses of the Community producers. Indeed, the developments of the imports from Norway coincided with the significant declining trend of the main economic indicators pertaining to the Community industry from 2001 to the end of the IP. Between 2002 and the IP, when prices from Norway decreased by around 13 % sales prices decreased by 5 % and the loss of market share of the Community industry was as high as 3 %. As a result, the Community industry incurred losses during the IP and in the two years preceding the IP. As it is generally accepted that imports from Norway, particularly due to their large volumes, are the price leader in the Community market for farmed salmon, this situation shows that the Community industry was subject to strong price pressure exacerbated by dumped imports on the Community market. The effect of the price pressure is further evidenced by the price undercutting practised by the Norwegian exporting producers and the prices of the Community industry, which were depressed to a considerable extent during the IP.
+
+5.3.
+
+Effect of other factors
+
+5.3.1.
+
+Effect of imports originating in other third countries
+
+(94)
+
+The imports from third countries not concerned by this investigation showed the following development during the period considered:
+
+<table>
+<thead>
+<tr><td colspan="5">Table 11</td></tr>
+<tr><td colspan="5">Imports originating in other third countries</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Eurostat.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2001</th><th>2002</th><th>2003</th><th>IP</th></tr>
+<tr><th>Total other third countries than Norway (Tonnes)</th><td>82 082</td><td>106 154</td><td>108 157</td><td>117 994</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>129</em></td><td><em>132</em></td><td><em>144</em></td></tr>
+<tr><th>Market share</th><td>15,5 %</td><td>19,3 %</td><td>17,7 %</td><td>19,4 %</td></tr>
+<tr><th>Average price (EUR per kg)</th><td>2,86</td><td>2,34</td><td>2,15</td><td>2,23</td></tr>
+<tr><th>USA (Tonnes)</th><td>5 011</td><td>26 359</td><td>27 233</td><td>24 624</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>526</em></td><td><em>543</em></td><td><em>491</em></td></tr>
+<tr><th>Market share</th><td>0,9 %</td><td>4,8 %</td><td>4,5 %</td><td>4,0 %</td></tr>
+<tr><th>Average price (EUR per kg)</th><td>2,35</td><td>1,73</td><td>1,57</td><td>1,69</td></tr>
+<tr><th>Canada (Tonnes)</th><td>593</td><td>3 592</td><td>6 490</td><td>6 940</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>605</em></td><td><em>1094</em></td><td><em>1170</em></td></tr>
+<tr><th>Market share</th><td>0,1 %</td><td>0,7 %</td><td>1,1 %</td><td>1,1 %</td></tr>
+<tr><th>Average price (EUR per kg)</th><td>2,9</td><td>1,89</td><td>1,72</td><td>1,77</td></tr>
+<tr><th>Chile (Tonnes)</th><td>26 442</td><td>28 669</td><td>19 455</td><td>24 547</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>108</em></td><td><em>74</em></td><td><em>93</em></td></tr>
+<tr><th>Market share</th><td>5,0 %</td><td>5,2 %</td><td>3,2 %</td><td>4,0 %</td></tr>
+<tr><th>Average price (EUR per kg)</th><td>2,93</td><td>2,36</td><td>2,6</td><td>2,89</td></tr>
+<tr><th>Faeroe Islands (Tonnes)</th><td>40 505</td><td>37 075</td><td>41 202</td><td>37 108</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>92</em></td><td><em>102</em></td><td><em>92</em></td></tr>
+<tr><th>Market share</th><td>7,7 %</td><td>6,7 %</td><td>6,7 %</td><td>6,1 %</td></tr>
+<tr><th>Average price (EUR per kg)</th><td>2,95</td><td>2,78</td><td>2,5</td><td>2,57</td></tr>
+</tbody>
+</table>
+
+(95)
+
+The table above shows the imports volumes, market shares and average price of imported farmed salmon from all countries other than Norway and also individually for the traditional importers, i.e. USA, Canada, Chile and the Faeroe Islands.
+
+(96)
+
+It should be noted that the import statistics do not distinguish between farmed salmon and wild salmon. However, on the basis of information gathered during the investigation, it appears that the vast part of imports from USA and Canada consists most of wild salmon, so that it is unlikely that imports from these two countries could have a significant impact on the situation of the Community industry.
+
+(97)
+
+The above table also shows that import prices from Chile were above the level of those of the Community industry during the IP and that farmed salmon prices varied significantly among other third countries. Import prices from the Faeroe Islands were lower than those charged by the Norwegian exporting producers but it must be noted that the import volumes from Chile and Faeroe Islands have decreased by 7 % and 8 % respectively during the period considered.
+
+(98)
+
+These developments should be seen in the light of the development of consumption and the dumped imports from Norway. As shown in recital 51 above, consumption increased by 15 % during the period considered and consumption in the IP remained nearly on the same level as in 2003, with a slight decrease of 0,5 %. As explained in recital 55 above, the imports from Norway increased by around 35 % during the period considered and the increase between 2003 and the IP was around 3,1 %.
+
+(99)
+
+Given the above, it is therefore provisionally concluded that imports into the Community from other third countries could not be a determining reason for the material injury suffered by the Community industry.
+
+5.3.2.
+
+Effect of changes in the pattern of consumption
+
+(100)
+
+The consumption of farmed salmon in the Community increased by 15 % during the period considered to reach a level of almost 608 000 tonnes in the IP. The Community industry benefited from this growth in consumption to increase its production and sales volume. The development of consumption is therefore not considered to have contributed to the injury suffered by the Community industry.
+
+(101)
+
+It has been argued that there had been an alleged fall in consumption in the United Kingdom and that this had caused injury to the Community producers. However, the United Kingdom market cannot be isolated from the overall Community market and the increased consumption found for the Community market during the period considered. A reduction in demand for farmed salmon within a certain part of the Community, while total demand is increasing, cannot be seen as the cause of the deteriorated economic situation of the Community industry. Therefore, it was provisionally found that changes in the pattern of consumption did not contribute to the material injury suffered by the Community industry.
+
+5.3.3.
+
+Effect of changes in export performance of the Community industry
+
+(102)
+
+The effect of variations in the level of exports of the Community industry has also been examined. Exports increased by 150 %. In the light of the difficult situation on the Community market, the Community industry sought to increase their exports, which nevertheless did not rise to more than around 2 % of their overall production and sales. It is therefore provisionally concluded that any changes in the level of exports were not a cause of the material injury suffered by the Community industry. In any event, it is noted that data relating to profitability is based on data relating to Community sales to unrelated Community customers only.
+
+5.3.4.
+
+Other producers in the Community related to Norwegian producers/importers
+
+(103)
+
+It has been examined whether injury to the Community industry has been caused by other producers in the EC related to Norwegian producers. As mentioned in recital 44 these companies were not included in the definition of Community industry on the basis of Article 4(1) of the basic Regulation.
+
+(104)
+
+Five producers in the Community related to Norwegian producers/importers submitted a meaningful reply to the questionnaire. These producers represented approximately 54 % of other producers in the Community related to Norwegian producers/importers.
+
+<table>
+<thead>
+<tr><td colspan="5">Table 13</td></tr>
+<tr><td colspan="5">Sales volume, market share and average sales prices to unrelated customers of producers in the EC related to Norwegian producers/importers</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Questionnaire replies of producers in the EC related to Norwegian producers/importers.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2001</th><th>2002</th><th>2003</th><th>IP</th></tr>
+<tr><th>Sales to unrelated customers in the EC (Tonnes)</th><td>67 983</td><td>71 879</td><td>76 175</td><td>72 255</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>105</em></td><td><em>112</em></td><td><em>106</em></td></tr>
+<tr><th>Market share</th><td>12,8 %</td><td>13,0 %</td><td>12,4 %</td><td>11,9 %</td></tr>
+<tr><th>Average price (EUR per kg)</th><td>2,9</td><td>2,84</td><td>2,73</td><td>2,76</td></tr>
+</tbody>
+</table>
+
+(105)
+
+The above table shows that on the basis of the questionnaire replies, sales volumes of the five cooperating companies have increased during the period considered by 6 %, and that the decrease of their prices was around 5 %, generally in line with the developments of the Community industry. Moreover, it was also found that their market share decreased by around 1 percentage point during the period considered, which is also in line with the development for the Community industry, and that their sales prices were above the level of those of Norwegian exporting producers (around 5 % during the IP). In the same period of time Norwegian exporters managed to increase their sales by 93 000 tonnes and gained market share. However, it appears that the detriment of the economic situation of the producers in the EC related to Norwegian producers/importers may not have been as pronounced as the economic situation of the Community industry.
+
+(106)
+
+It is therefore provisionally considered that the producers in the EC related to Norwegian producers/importers did not in any significant way contribute to the material injury suffered by the Community industry.
+
+5.3.5.
+
+Effect of increased mortality on production and sales volumes
+
+(107)
+
+One interested party argued that higher than normal fish mortality rates in Ireland and disease outbreaks in the United Kingdom and Ireland in 2002 and 2003 could have caused a significant loss of production and sales volumes. However, it was found that these phenomena were limited to a small number of farms and could not have an appreciable effect on overall figures. As shown at recitals 64 and 69, production and sales volume of the Community industry increased during the period considered. Therefore, it is provisionally concluded that higher than normal fish mortality rates were not the cause of material injurious effects.
+
+5.3.6.
+
+Effect of smaller less efficient producers in the EC and higher cost of production
+
+(108)
+
+It was argued that the Norwegian industry has lower production costs than the Community producers and that this, and a failure by the Community producers to reduce production costs, is a reason for increased imports and serious injury. On the basis of the information available, it was found that whilst Norway enjoys advantages in relation to certain costs (e.g. medicines, feed, environmental regulatory cost), the Community producers enjoy advantages in relation to others (e.g. labour). Overall, it is noted that whilst the Community producers are incurring significant losses in the current market, so too are Norwegian producers, as evidenced *inter alia* by Norwegian government data and the dumping investigation. It was therefore provisionally found that the argument that Community producers were less efficient than the Norwegian exporters was not substantiated and that this could not be a cause of the injurious situation of the Community industry.
+
+5.3.7.
+
+Effect of regulatory constraints in the UK
+
+(109)
+
+An interested party argued that regulatory constraints in the UK relating to environmental controls and fish health standard, biomass consent, medication approval system and approval of locations is a reason for reducing the competitiveness of the Community industry and a reason for the serious injury suffered by the Community industry. No evidence was however produced in support of these arguments, nor were the arguments developed, nor did the verification of UK companies point to any indications in this respect. In these circumstances, these factors cannot be taken as relevant causation factors for the serious injury to the Community producers. On the contrary, it can be argued, that stricter environmental and sanitary legislation in the Community increases the attractiveness of a product in view of modern consumers.
+
+5.4.
+
+Conclusion of Causation
+
+(110)
+
+On the basis of the above, it is provisionally concluded that there is a causal link between the dumped imports and the material injury suffered by the Community industry. This conclusion is based on the fact that there were significant increases in volumes and market shares of dumped imports, which also undercut considerably the prices of the Community industry, from Norway. Moreover, there is a striking coincidence in time between the sharp rise of dumped imports made at decreasing prices and the deterioration of the financial situation of the Community industry leading to the loss making situation of the Community industry.
+
+(111)
+
+No other factors have been found which could have affected in a significant way the situation of the Community industry. It is also provisionally concluded that imports into the Community from other third countries could not be a determining reason for the material injury suffered by the Community industry.
+
+6\.
+
+COMMUNITY INTEREST
+
+6.1.
+
+General considerations
+
+(112)
+
+In accordance with Article 21(1) of the basic Regulation it has been examined whether, despite the conclusion on injurious dumping, compelling reasons existed that could lead to the conclusion that it would not be in the Community interest to introduce anti-dumping measures against imports from the country concerned. The determination of Community interest was based on an appreciation of all the various interests involved, i.e. those of the Community industry, the importers/traders/processors/users as well as the consumers of the product concerned. The Commission sent questionnaires in particular to the Community industry, producers in the EC related to Norwegian producers/importers, importers, processors, users, suppliers of the product concerned and a consumer organisation.
+
+6.2.
+
+Interest of the Community industry
+
+(113)
+
+The Community industry has been suffering from low priced imports of farmed salmon from Norway. The objective of the eventual adoption of anti-dumping measures is to re-establish fair competition on the Community market between the Community industry and their exporting counterparts in Norway. In view of the nature of the injury suffered by the Community industry, it is considered that, in the absence of measures, a further deterioration in the situation of the Community industry is unavoidable. Not adopting measures will most likely entail further injury and in the medium term, potentially the disappearance of that industry, bearing in mind the losses occurred during the period considered. Therefore, on the basis of the findings in the IP, the Community industry position is in jeopardy unless the current level of low dumped import prices is corrected. This is evidenced by continuing reports of impending bankruptcies.
+
+(114)
+
+The Community industry has been making considerable efforts to improve its competitiveness on this market in recent years. The main areas for the production of salmon in the Community are located in Scotland and Ireland where suitable conditions exist. There have been significant changes in the structure of the salmon farming industry in the Community during the last years with a trend towards fewer, larger companies. A number of smaller producers have either gone out of business or sold out to other companies in the Community, which invested in these production sites. Many of the companies constituting the Community industry have taken steps to improve their efficiency and reduce costs in the face of increased competition e.g. by raising smolts, improving feeding equipment and by entering into joint arrangements for feed buying. This has enabled the companies to increase their buying power vis-à-vis suppliers. At the same time, a number of the companies constituting the Community industry have also entered into arrangements for the joint marketing and sale of their production. This will strengthen their position in the market.
+
+(115)
+
+If however anti-dumping measures are taken, these would reinstate fair trading conditions and warrant the efforts made by the Community industry in the last years. Under these conditions the Community industry will be able to remain a viable producer of farmed salmon. The main effect of measures will be that the below cost selling of the Community industry will cease. However, given the other sources of supply, the Community industry has only a very limited possibility to increase prices. They could mainly redress their situation by increased sales volumes and consequently increased economies of scale. Moreover, the investor confidence to the business will return and the market will become stable.
+
+(116)
+
+Accordingly, it is provisionally concluded that the adoption of anti-dumping measures would be in the interest of the Community industry.
+
+6.3.
+
+Interests of producers of smolt and feed
+
+(117)
+
+It is also in the interests of the major suppliers to the Community producers (such as smolt and feed producers) to have a strong and predictable demand for their product at a fair price which allows them to make a reasonable profit. If the Community industry’s situation does not improve, many of the smolt producers will have to reduce their sales and profitability and in some cases may be threatened in their ability to continue trading. The same applies to feed producers. Therefore, it is in the interests of the smolt producers and feed producers for anti-dumping measures to be taken.
+
+6.4.
+
+Interest of producers in the EC related to Norwegian producers/importers
+
+(118)
+
+In order to evaluate the impact of measures on producers in the EC related to Norwegian producers/importers, questionnaires were sent to the known companies of the product concerned on the Community market. Five companies submitted meaningful replies.
+
+(119)
+
+These companies employed nearly 738 people in salmon related activities in the IP and had a combined turnover in excess of around EUR 250 million. These producers did either not express their view or were against the imposition of measures.
+
+(120)
+
+As shown in recital 104, these companies also suffer from the price depression caused by the Norwegian exporting producers. It is recalled, that the cooperating producers related to Norwegian exporters/importers increased their sales volumes by 6 % or by around 4 200 tonnes but they still lost market share. In the same time, Norwegian exporters managed to increase their sales by 93 000 tonnes and gained market share. Therefore, it is considered that the imposition of anti-dumping measures will also improve the economic situation of the producers in the EC related to Norwegian producers/importers.
+
+(121)
+
+Anti-dumping measures which reinstall fair trading conditions are therefore also in the interest of these producers.
+
+6.5.
+
+Interest of unrelated importers and processors (users)
+
+(122)
+
+In order to evaluate the impact on importers and processors of taking or not taking measures, questionnaires were sent to the known importers and processors of the product concerned on the Community market. The Commission also informed various organisations of importers, processors and users of the opening of the investigation. Several organizations made their views know.
+
+(123)
+
+It was found that importers and processors (users) are normally one and the same and many are in fact related to exporting producers outside the Community, particularly in Norway. Meaningful responses were received from 8 importers/processors/users. These companies represented around 9 % of total imports from Norway during the IP and roughly 6 % of consumption. Thus, their data give some indication, although it is by far not certain that they are fully representative for the whole user industry.
+
+(124)
+
+Importers and processors stressed that any increase in prices would increase their cost base, reduce their sales and profitability and may lead to job losses and even de-localisation. They also argued that employment in the fish processing sector is far higher than in the fish farming industry and in some cases provides employment in areas of low employment.
+
+(125)
+
+In this respect it was found that importers and processors may have to pay higher prices if they continue to buy Norwegian merchandise, because they would have to pay an anti-dumping duty. However, they do not have to bear all price increases because it is likely that they can pass on the increase to some degree to the subsequent steps in the distribution chain and consumers.
+
+(126)
+
+The main costs incurred by processors are the costs of the raw material and employment costs. It is true that an increase in raw material prices would increase the costs for processing. On the basis of the three most meaningful replies it was found that farmed salmon represents around 54 % of the total cost of production. These processors bought farmed salmon during the IP both in the Community (around 15 % of their purchases) and from Norway (around 83 % of their purchases). Therefore it is concluded that around 45 % of their total cost will be exposed to a duty. In this context it should also be noted that, according to the information provided by importers and processors, the costs of their raw material fell by 14 % during the period considered. During the IP, it was 9,1 percentage points cheaper than in 2001. At the same time, the information provided by them indicates that their selling prices have remained about the same in 2002 and 2003, with decreasing trend towards the IP. However, due to the low level of cooperation of users in this respect, the empirical basis is rather limited and one should be cautious in drawing conclusions for the user industry as a whole. It is also noted that only two companies reported on profitability.
+
+(127)
+
+As to employment, according to the replies received to the questionnaires, around 3 400 workers were employed in the fish processing sector in the Community although only a small proportion of those are concerned in processing farmed salmon. No evidence was found that the possible measures would lead to a decrease in the level of employment in the Community.
+
+(128)
+
+Therefore, the disadvantages likely to be suffered by importers/processors/users, if any, are not considered such as to outweigh the benefits expected to accrue to the Community producers as a consequence of the anti-dumping measures, which are considered the minimum necessary to remedy the serious injury suffered and prevent further serious deterioration in the situation of the Community producers. In addition, it should be noted that other sources of supply from other third countries also remain available.
+
+6.6.
+
+Interest of consumers
+
+(129)
+
+As the product concerned is a consumer product, the Commission informed various consumer organisations of the opening of an investigation. A response was received from one party to the effect that the beneficial effects of salmon are widely recognised and that artificially increasing the price would make good nutrition choices more difficult for consumers and damage the economic viability of importers, processors and retailers of farmed salmon. It was also claimed that the measures may prevent them from importing and continuing to sell frozen farmed salmon. Concern was also expressed that any increase in prices would make farmed salmon less affordable and stifle market growth in those Member States with a lower than average gross domestic product per head (GDP).
+
+(130)
+
+It is considered that if anti-dumping measures are imposed, economic operators will continue to have access to unlimited quantities of imports, albeit at fair prices. Further, given the magnitude of the margins between the whole fish ex-farm and the retail price of processed salmon products, it is considered that the measures are unlikely to have a material effect on retail prices, since it is unlikely that the whole price increase will be passed on to consumers. The impact on consumers is therefore considered to be minimal. In addition, loss-making price levels are probably not sustainable in the medium to long term. The interest of consumers appears therefore overall to be best served by stable prices and a sustainable market.
+
+6.7.
+
+Conclusion on Community Interest
+
+(131)
+
+On the basis of the above facts and considerations it is provisionally concluded, that there are no compelling reasons not to impose anti-dumping duties.
+
+7\.
+
+PROVISIONAL ANTI-DUMPING MEASURES
+
+7.1.
+
+Injury elimination level
+
+(132)
+
+In view of the provisional conclusions reached with regard to dumping, injury, causation and Community interest, provisional measures should be imposed in order to prevent further injury being caused to the Community industry by the dumped imports.
+
+(133)
+
+For the purpose of establishing the level of the provisional measures, account has been taken of both the dumping margin found and the amount of duty necessary to eliminate the injury sustained by the Community industry.
+
+(134)
+
+The provisional measures should be imposed at a level sufficient to eliminate the injury caused by these imports without exceeding the dumping margin found. When calculating the amount of duty necessary to remove the effects of the injurious dumping, it was considered that any measures should allow the Community industry to cover its costs of production and obtain overall a profit before tax that could be reasonably achieved by an industry of this type in the sector under normal conditions of competition, i.e. in the absence of dumped imports, on the sales of the like product in the Community. On this basis a non-injurious price was calculated for the Community industry of the like product. The non-injurious price has been obtained provisionally by adding a profit margin of 7,2 % on turnover to the cost of production. This profit margin was provisionally established on the basis of the profit achieved during the year 2001 and is a strict minimum which the Community industry could expect to obtain in the absence of injurious dumping. This issue will be further investigated after the imposition of provisional measures and after receipt of any subsequent comments by interested parties.
+
+(135)
+
+The necessary price increase was then determined on the basis of a comparison of the weighted average import price, as established for the undercutting calculations, with the average non-injurious price of products sold by the Community industry on the Community market. Any difference resulting from this comparison was then expressed as a percentage of the average import CIF value.
+
+7.2.
+
+Provisional measures
+
+(136)
+
+In the light of the foregoing, it is considered that a provisional anti-dumping duty should be imposed at the level of the dumping margin found, but should not, in accordance with Article 7(2) of the basic Regulation, be higher than the injury margin calculated above.
+
+(137)
+
+The individual company anti-dumping duty rates specified in this document were established on the basis of the findings of the present investigation. Therefore, they reflect the situation found during that investigation with respect to these companies. These duty rates (as opposed to the countrywide duty applicable to ‘all other companies’) are thus exclusively applicable to imports of products originating in the country concerned and produced by the companies and thus by the specific legal entities mentioned. Imported products produced by any other company not specifically mentioned in the operative part of this document with its name and address, including entities related to those specifically mentioned, cannot benefit from these rates and shall be subject to the duty rate applicable to ‘all other companies’.
+
+(138)
+
+Any claim requesting the application of these individual company anti-dumping duty rates (e.g. following a change in the name of the entity or following the setting up of new production or sales entities) should be addressed to the Commission[^f00021] forthwith with all relevant information, in particular any modification in the company's activities linked to production, domestic and export sales associated with, for example, that name change or that change in the production and sales entities. The Commission, if appropriate, will, after consultation of the Advisory Committee, amend the Regulation accordingly by updating the list of companies benefiting from individual duty rates.
+
+(139)
+
+On the basis of the above, the provisional duty rates are:
+
+| Company | Dumping Margin | Injury Margin | Anti-Dumping duty |
+| --- | --- | --- | --- |
+| Marine Harvest Norway AS, | 21,9 % | 15,3 % | 15,3 % |
+| Fjord Seafood Norway AS | 37,7 % | 13,5 % | 13,5 % |
+| Pan Fish Norway AS | 25,4 % | 16,1 % | 16,1 % |
+| Stolt Sea Farm AS | 13,9 % | 14,2 % | 13,9 % |
+| Follalaks AS | 24,5 % | 27,7 % | 24,5 % |
+| Nordlaks Oppdrett AS | 6,8 % | 14,6 % | 6,8 % |
+| Hydrotech AS | 21,9 % | 15,3 % | 15,3 % |
+| Grieg Seafood AS | 22,9 % | 17,2 % | 17,2 % |
+| Weighted Average | 22,5 % | 16,0 % | 16,0 % |
+| Residual Margin | 37,7 % | 27,7 % | 24,5 % |
+
+7.3.
+
+Final Provision
+
+(140)
+
+In the interest of sound administration, a period should be fixed within which the interested parties which made themselves known within the time limit specified in the notice of initiation may make their views known in writing and request a hearing. Furthermore, it should be stated that the findings concerning the imposition of duties made for the purposes of this Regulation are provisional and may have to be reconsidered for the purpose of any definitive duty,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** 1.[^c000001] A provisional anti-dumping duty is hereby imposed on imports of farmed (other than wild) salmon, whether or not filleted, fresh, chilled or frozen, falling within CN codes ex 0302 12 00 , ex 0303 11 00 , ex 0303 19 00 , ex 0303 22 00 , ex 0304 10 13 and ex 0304 20 13 (hereinafter farmed salmon) originating in Norway.
+
+2. Wild salmon shall not be subject to the provisional anti-dumping duty. For the purpose of this Regulation, wild salmon shall be that in respect of which the competent authorities of the Member State, where the customs declaration for free circulation is accepted, are satisfied, by means of all appropriate documents to be provided by interested parties, that it was caught at sea for Atlantic or Pacific salmon or in rivers for Danube salmon.
+
+3. The amount of the provisional anti-dumping duty shall be the difference between the minimum import price fixed in paragraph 4 and the free-at-Community-frontier price, before duty, if the latter is lower than the former. No duty shall be collected where the net, free-at-Community-frontier price is equal to or higher than corresponding minimum import price fixed in paragraph 4.
+
+4. For the purpose of paragraph 3, the following minimum import price shall apply per kilogram net product weight:
+
+| Presentation of farmed salmon | Minimum import price EUR/kg net product weight | TARIC code |
+| --- | --- | --- |
+| Whole fish, fresh, chilled or frozen | 2,81 | 0302 12 00 12 0302 12 00 33 0302 12 00 93 0303 11 00 93 0303 19 00 93 0303 22 00 12 0303 22 00 83 |
+| Gutted, head-on, fresh, chilled or frozen | 3,12 | 0302 12 00 13 0302 12 00 34 0302 12 00 94 0303 11 00 94 0303 19 00 94 0303 22 00 13 0303 22 00 84 |
+| Other (including gutted, head-off), fresh, chilled or frozen | 3,51 | 0302 12 00 15 0302 12 00 36 0302 12 00 96 0303 11 00 18 0303 11 00 96 0303 19 00 18 0303 19 00 96 0303 22 00 15 0303 22 00 86 |
+| Whole fish fillets and fillets cut in pieces, weighing more than 300 g per fillet, fresh, chilled or frozen | 4,99 | 0304 10 13 12 0304 10 13 93 0304 20 13 12 0304 20 13 93 |
+| Other whole fish fillets and fillets cut in pieces, weighing 300 g or less per fillet, fresh, chilled or frozen | 6,0 | 0304 10 13 15 0304 10 13 96 0304 20 13 15 0304 20 13 96 |
+
+5. The release for free circulation in the Community of the product referred to in paragraph 1 shall be subject to the provision of a security, equivalent to the amount of the provisional duty.
+
+6. In cases, where goods have been damaged before entry into free circulation and, therefore, the price actually paid or payable is apportioned for the determination of the customs value pursuant to Article 145 of Commission Regulation (EEC) No 2454/93 [^f00022] , the amount of anti-dumping duty, calculated on the basis of paragraph 4, shall be reduced by a percentage which corresponds to the apportioning of the price actually paid or payable.
+
+7. Unless otherwise specified, the provisions in force concerning customs duties shall apply.
+
+**Article 2.** Without prejudice to Article 20 of Council Regulation (EC) No 384/96, interested parties may request disclosure of the essential facts and considerations on the basis of which this Regulation was adopted, make their views known in writing and apply to be heard orally by the Commission within 30 days of the date of entry into force of this Regulation.
+
+Pursuant to Article 21(4) of Regulation (EC) No 384/96, the parties concerned may comment on the application of this Regulation within one month of the date of its entry into force.
+
+**Article 3.** This Regulation shall enter into force on 27 April 2005.
+
+Article 1 of this Regulation shall apply until 22 January 2006 .
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 56, 6.3.1996, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1996.056.01.0001.01.ENG), as last amended by Regulation (EC) No 461/2004 ([OJ L 77, 13.3.2004, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.077.01.0012.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 349, 31.12.1994, p. 53](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1994.349.01.0053.01.ENG).
+
+[^f00003]: Footnote: [OJ L 67, 10.3.1994, p. 89](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1994.067.01.0089.01.ENG).
+
+[^f00004]: Footnote: [OJ L 33, 5.2.2005, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.033.01.0008.01.ENG).
+
+[^f00005]: Footnote: See page 4 of this Official Journal.
+
+[^f00006]: Footnote: [OJ C 261, 23.10.2004, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2004.261.01.0008.01.ENG).
+
+[^f00008]: Footnote: WFE is commonly defined as the weight of a fish which has been starved and bled after slaughter.
+
+[^f00021]: Footnote: European Commission, Directorate-General for Trade, Direction B, B-1049 Brussels, Belgium.
+
+[^c000001]: Textual amendment: Substituted by [Commission Regulation (EC) No 1010/2005 of 30 June 2005 amending Regulation (EC) No 628/2005 imposing a provisional anti-dumping duty on imports of farmed salmon originating in Norway](https://www.legislation.gov.uk/eur/2005/1010).
+
+[^f00022]: Footnote: [OJ L 253, 11.10.1993, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.253.01.0001.01.ENG)[^c000001] .

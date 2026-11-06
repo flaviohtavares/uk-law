@@ -1,0 +1,39 @@
+---
+title: Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’), section Article 79
+act: Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’)
+section: Article 79
+status: revised
+text_date: '2017-10-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2017/1939/section/Article 79
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’), section Article 79
+
+> Text as at 2017-10-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 79. Tasks of the data protection officer
+
+*Extent: E+W+S+N.I.*
+
+1. The Data Protection Officer shall in particular have the following tasks, regarding the processing of personal data:
+
+- (a) ensuring, in an independent manner the EPPO’s compliance with the data protection provisions of this Regulation, of Regulation (EC) No 45/2001 and of the relevant data protection provisions in the internal rules of procedure of the EPPO; this includes monitoring compliance with this Regulation, with other Union or national data protection provisions and with the policies of the EPPO in relation to the protection of personal data, including the assignment of responsibilities, awareness-raising and training of staff involved in processing operations, and the related audits;
+- (b) informing and advising the EPPO and the staff who carry out processing of their obligations pursuant to this Regulation and to other Union or national data protection provisions;
+- (c) providing advice where requested as regards the data protection impact assessment and monitor its performance pursuant to Article 71;
+- (d) ensuring that a record of the transfer and receipt of personal data is kept in accordance with the provisions to be laid down in the internal rules of procedure of the EPPO;
+- (e) cooperating with the staff of the EPPO responsible for procedures, training and advice on data processing;
+- (f) cooperating with the European Data Protection Supervisor;
+- (g) ensuring that data subjects are informed of their rights under this Regulation;
+- (h) acting as the contact point for the European Data Protection Supervisor; on issues relating to processing, including the prior consultation referred to in Article 72, and consulting, where appropriate, with regard to any other matter;
+- (i) preparing an annual report and communicate that report to the European Chief Prosecutor and to the European Data Protection Supervisor.
+
+2. The Data Protection Officer shall carry out the functions provided for in Regulation (EC) No 45/2001 with regard to administrative personal data.
+
+3. The Data Protection Officer and the staff members of the EPPO assisting the Data Protection Officer in the performance of duties shall have access to the personal data processed by the EPPO and to its premises to the extent necessary for the performance of their tasks.
+
+4. If the Data Protection Officer considers that the provisions of Regulation (EC) No 45/2001 related to the processing of administrative personal data or the provisions of this Regulation related to the processing of operational personal data have not been complied with, the Officer shall inform the European Chief Prosecutor, requesting him/her to resolve the non-compliance within a specified time. If the European Chief Prosecutor does not resolve the non-compliance of the processing within the specified time, the Data Protection Officer shall refer the matter to the European Data Protection Supervisor.

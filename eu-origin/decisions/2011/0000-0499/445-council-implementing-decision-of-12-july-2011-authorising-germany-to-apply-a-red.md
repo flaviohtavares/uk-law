@@ -1,0 +1,88 @@
+---
+title: Council Implementing Decision of 12 July 2011 authorising Germany to apply a reduced rate of electricity tax to electricity directly provided to vessels at berth in a port (‘shore-side electricity’) in accordance with Article 19 of Directive 2003/96/EC (2011/445/EU)
+id: eudn/2011/445
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2011-07-12'
+text_date: '2011-07-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2011/445
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2011/445/pdfs/eudn_20110445_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2011/445/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Implementing Decision of 12 July 2011 authorising Germany to apply a reduced rate of electricity tax to electricity directly provided to vessels at berth in a port (‘shore-side electricity’) in accordance with Article 19 of Directive 2003/96/EC (2011/445/EU)
+
+> Text as at 2011-07-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Implementing Decision
+
+of 12 July 2011
+
+authorising Germany to apply a reduced rate of electricity tax to electricity directly provided to vessels at berth in a port (‘shore-side electricity’) in accordance with Article 19 of Directive 2003/96/EC
+
+(2011/445/EU)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity[^f00001], and in particular Article 19 thereof,
+
+Having regard to the proposal from the European Commission,
+
+Whereas:
+
+(1)
+
+By letter of 27 December 2010, Germany sought authorisation to apply a reduced rate of electricity tax to electricity directly provided to vessels at berth in a port (‘shore-side electricity’), pursuant to Article 19 of Directive 2003/96/EC.
+
+(2)
+
+With the tax reduction it intends to apply, Germany aims at promoting a more widespread use of shore-side electricity as an environmentally less harmful way for ships to satisfy their electricity needs while lying at berth in ports as compared to the burning of bunker fuels on board the vessels.
+
+(3)
+
+In so far as the use of shore-side electricity avoids emissions of air pollutants associated with the burning of bunker fuels on board the vessels at berth, it contributes to an improvement of local air quality in port cities. The measure is therefore expected to contribute to the Union’s environmental and health policy objectives.
+
+(4)
+
+Allowing Germany to apply a reduced rate of electricity taxation to shore-side electricity does not go beyond what is necessary to achieve the abovementioned objective, since on-board generation will remain the more competitive alternative in most cases. For the same reason, and because of the current relatively low degree of market penetration of the technology, the measure is unlikely to lead to significant distortions in competition during its lifetime and will thus not negatively affect the proper functioning of the internal market.
+
+(5)
+
+It follows from Article 19(2) of Directive 2003/96/EC that each authorisation granted under that provision is to be strictly limited in time. Given the need for a period long enough not to discourage port operators from making the necessary investments, but also the need to review the situation in Germany in due time and the need not to undermine future developments of the existing legal framework, it is appropriate to grant the authorisation requested for a period of 3 years, subject however to the entry into application of general provisions in the matter, at a point in time earlier than the expiry thus foreseen,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** Germany is hereby authorised to apply a reduced rate of electricity taxation to electricity directly supplied to vessels, other than private pleasure craft, berthed in ports (‘shore-side electricity’), provided that the minimum levels of taxation pursuant to Article 10 of Directive 2003/96/EC are respected.
+
+**Article 2.** This Decision shall take effect on the day of its notification.
+
+It shall expire on 16 July 2014.
+
+However, should the Council, acting on the basis of Article 113 of the Treaty, provide for general rules on tax advantages for shore-side electricity, this Decision shall expire on the day on which those general rules become applicable.
+
+**Article 3.** This Decision is addressed to the Federal Republic of Germany.
+
+Done at Brussels, 12 July 2011.
+
+*For the Council*
+
+*The President*
+
+J. Vincent-Rostowski
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 283, 31.10.2003, p. 51](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.283.01.0051.01.ENG).

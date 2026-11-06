@@ -1,0 +1,148 @@
+---
+title: Commission Implementing Regulation (EU) No 430/2012 of 22 May 2012 opening the tendering procedure for aid for private storage of olive oil
+id: eur/2012/430
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2012-05-22'
+text_date: '2012-05-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2012/430
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2012/430/pdfs/eur_20120430_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2012/430/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) No 430/2012 of 22 May 2012 opening the tendering procedure for aid for private storage of olive oil
+
+> Text as at 2012-05-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Regulation (EU) No 430/2012
+
+of 22 May 2012
+
+opening the tendering procedure for aid for private storage of olive oil
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1234/2007 of 22 October 2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation)[^f00001], and in particular Article 43(a), (d) and (j), in conjunction with Article 4, thereof,
+
+Whereas:
+
+(1)
+
+Article 33 of Regulation (EC) No 1234/2007 provides that the Commission may decide to authorise bodies, offering sufficient guarantees and approved by the Member States, to conclude contracts for the storage of olive oil that they market in the event of a serious disturbance on the market in certain regions of the European Union.
+
+(2)
+
+In Spain and Greece, Member States that together produce more than two thirds of the total olive oil production in the Union, the average olive oil price recorded on the market during the period specified in Article 4 of Commission Regulation (EC) No 826/2008 of 20 August 2008 laying down common rules for the granting of private storage aid for certain agricultural products[^f00002] is below the level indicated in Article 33 of Regulation (EC) No 1234/2007. This causes a serious disturbance on the markets of those Member States. The Union olive oil market is characterised by a high level of interdependence and therefore the serious disturbance of the Spanish and Greek market risks to propagate to all the olive oil-producing Member States.
+
+(3)
+
+Article 31 of Regulation (EC) No 1234/2007 provides that aid for private storage may be granted for olive oil and that the aid should be fixed by the Commission in advance or by means of a tendering procedure.
+
+(4)
+
+Regulation (EC) No 826/2008 has established common rules for the implementation of the private storage aid scheme. Pursuant to Article 6 of that Regulation, a tendering procedure is to be opened in accordance with the detailed rules and conditions provided for in its Article 9.
+
+(5)
+
+The global quantity up to which private storage aid can be granted should be set at a level which, according to market analysis, would contribute to the stabilisation of the market.
+
+(6)
+
+In order to facilitate the administrative and control work relating to the conclusion of contracts, the minimum quantity of product each tender must provide for should be fixed.
+
+(7)
+
+A security should be fixed in order to ensure that the operators fulfil their contractual obligations and that the measure will have its desired effect on the market.
+
+(8)
+
+In the light of the evolution of the market situation in the current marketing year and the forecasts for the following marketing year, the Commission should have the possibility to decide to shorten the term of contracts which are being performed and adjust the level of aid accordingly. That possibility has to be included in the contract, as provided for by Article 21 of Regulation (EC) No 826/2008.
+
+(9)
+
+Pursuant to Article 12(3) of Regulation (EC) No 826/2008, the time period of notification of all valid tenders by Member States to the Commission is to be fixed.
+
+(10)
+
+In order to prevent uncontrolled price falls, to react swiftly to the exceptional market situation and to ensure efficient management of this measure, this Regulation should enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+(11)
+
+The Management Committee for the Common Organisation of Agricultural Markets has not delivered an opinion within the time limit set by its Chair,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1. Subject matter
+
+1. A tendering procedure is hereby opened in order to determine the level of aid for private storage referred to in Article 31(1)(b) of Regulation (EC) No 1234/2007 for the categories of olive oil listed in the Annex to this Regulation and defined in point 1 of Annex XVI to Regulation (EC) No 1234/2007.
+
+2. The global quantity up to which aid for private storage can be granted shall be 100 000 tonnes.
+
+## Article 2. Applicable rules
+
+Regulation (EC) No 826/2008 shall apply save as otherwise provided for in this Regulation.
+
+## Article 3. Submission of tenders
+
+1. The sub-period during which tenders may be submitted in response to the first partial invitation to tender shall begin on 31 May 2012 and shall end on 5 June 2012 at 11:00 Brussels time.
+
+The sub-period during which tenders may be submitted in response to the second partial invitation to tender shall begin on the first working day following the end of the preceding sub-period and shall end on 19 June 2012 at 11:00 Brussels time.
+
+2. Tenders shall relate to a storage period of 180 days.
+
+3. Each tender shall cover a minimum quantity of at least 50 tonnes.
+
+4. Where an operator takes part in a tendering procedure for more than one category of oil or for vats located at different addresses, it shall submit a separate tender in each case.
+
+5. Tenders may be lodged only in Greece, Spain, France, Italy, Cyprus, Malta, Portugal and Slovenia.
+
+## Article 4. Securities
+
+Tenderers shall establish a security of EUR 50 per tonne of olive oil covered by a tender.
+
+## Article 5. Shortening the term of contracts
+
+The Commission may, on the basis of developments on the market in olive oil and the outlook for the future, decide, in accordance with the procedure referred to in Article 195(2) of Regulation (EC) No 1234/2007, to shorten the term of contracts which are being performed and adjust the amount of the aid accordingly. The contract with the successful tenderer shall include reference to this option.
+
+## Article 6. Notification of the tenders to the Commission
+
+In accordance with Article 12 of Regulation (EC) No 826/2008 all valid tenders shall be notified separately by Member States to the Commission, within 24 hours from the end of each tendering sub-period as referred to in Article 3(1) of this Regulation.
+
+## Article 7. Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 22 May 2012.
+
+*For the Commission, On behalf of the President*,
+
+Michel Barnier
+
+*Member of the Commission*
+
+## ANNEX — Olive oil categories referred to in Article 1(1)
+
+Extra virgin olive oil
+
+Virgin olive oil
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 299, 16.11.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.299.01.0001.01.ENG).
+
+[^f00002]: Footnote: [OJ L 223, 21.8.2008, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.223.01.0003.01.ENG).

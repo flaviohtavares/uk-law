@@ -1,0 +1,68 @@
+---
+title: Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) (Text with EEA relevance), section Article 127
+act: Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) (Text with EEA relevance)
+section: Article 127
+status: revised
+text_date: '2020-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2017/1132/section/Article 127
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) (Text with EEA relevance), section Article 127
+
+> Text as at 2020-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 127. Pre-merger certificate[^c000003]
+
+*Extent: E+W+S+N.I.*
+
+1. Member States shall designate the court, notary or other authority or authorities competent to scrutinise the legality of cross-border mergers as regards those parts of the procedure which are governed by the law of the Member State of the merging company and to issue a pre-merger certificate attesting to compliance with all relevant conditions and to the proper completion of all procedures and formalities in the Member State of the merging company ( ‘ the competent authority ’ ).
+
+Such completion of procedures and formalities may comprise the satisfaction or securing of pecuniary or non-pecuniary obligations due to public bodies or compliance with specific sectoral requirements, including securing obligations arising from ongoing proceedings.
+
+2. Member States shall ensure that the application to obtain a pre-merger certificate by the merging company is accompanied by the following:
+
+- (a) the common draft terms of the cross-border merger;
+- (b) the report and the appended opinion, if any, referred to in Article 124, as well as the report referred to in Article 125, where they are available;
+- (c) any comments submitted in accordance with Article 123(1); and
+- (d) information on the approval by the general meeting referred to in Article 126.
+
+3. Member States may require that the application to obtain a pre-merger certificate by the merging company is accompanied by additional information, such as, in particular:
+
+- (a) the number of employees at the time of the drawing up of the common draft terms of the cross-border merger;
+- (b) the existence of subsidiaries and their respective geographical location;
+- (c) information regarding the satisfaction of obligations due to public bodies by the merging company.
+
+For the purposes of this paragraph, competent authorities may request such information, if not provided by the merging company, from other relevant authorities.
+
+4. Member States shall ensure that the application referred to in paragraphs 2 and 3, including the submission of any information and documents, may be completed fully online without the necessity for the applicants to appear in person before the competent authority, in accordance with the relevant provisions of Chapter III of Title I.
+
+5. In respect of compliance with the rules concerning employee participation as laid down in Article 133, the competent authority in the Member State of the merging company shall verify that the common draft terms of the cross-border merger include information on the procedures by which the relevant arrangements are determined and on the possible options for such arrangements.
+
+6. As part of the scrutiny referred to in paragraph 1, the competent authority shall examine the following:
+
+- (a) all documents and information submitted to the competent authority in accordance with paragraphs 2 and 3;
+- (b) an indication by the merging companies that the procedure referred to in Article 133(3) and (4) has started, where relevant.
+
+7. Member States shall ensure that the scrutiny referred to in paragraph 1 is carried out within three months of the date of receipt of the documents and information concerning the approval of the cross-border merger by the general meeting of the merging company. That scrutiny shall have one of the following outcomes:
+
+- (a) where it is determined that the cross-border merger complies with all the relevant conditions and that all necessary procedures and formalities have been completed, the competent authority shall issue the pre-merger certificate;
+- (b) where it is determined that the cross-border merger does not comply with all the relevant conditions or that not all necessary procedures and formalities have been completed, the competent authority shall not issue the pre-merger certificate and shall inform the company of the reasons for its decision; in that case, the competent authority may give the company the opportunity to fulfil the relevant conditions or to complete the procedures and formalities within an appropriate period of time.
+
+8. Member States shall ensure that the competent authority does not issue the pre‐merger certificate where it is determined in compliance with national law that a cross-border merger is set up for abusive or fraudulent purposes leading to or aimed at the evasion or circumvention of Union or national law, or for criminal purposes.
+
+9. Where the competent authority, during the scrutiny referred to in paragraph 1, has serious doubts indicating that the cross-border merger is set up for abusive or fraudulent purposes leading to or aimed at the evasion or circumvention of Union or national law, or for criminal purposes, it shall take into consideration relevant facts and circumstances, such as, where relevant and not considered in isolation, indicative factors of which the competent authority has become aware, in the course of the scrutiny referred to in paragraph 1, including through consultation of relevant authorities. The assessment for the purposes of this paragraph shall be conducted on a case-by-case basis, through a procedure governed by national law.
+
+10. Where it is necessary for the purposes of the assessment under paragraphs 8 and 9 to take into account additional information or to perform additional investigative activities, the period of three months provided for in paragraph 7 may be extended by a maximum of three months.
+
+11. Where, due to the complexity of the cross-border procedure, it is not possible to carry out the assessment within the deadlines provided for in paragraphs 7 and 10, Member States shall ensure that the applicant is notified of the reasons for any delay before the expiry of those deadlines.
+
+12. Member States shall ensure that the competent authority may consult other relevant authorities with competence in the different fields concerned by the cross-border merger, including those of the Member State of the company resulting from the merger, and obtain from those authorities and from the merging company information and documents necessary to scrutinise the legality of the cross-border merger, within the procedural framework laid down in national law. For the purposes of the assessment, the competent authority may have recourse to an independent expert.
+
+## Annotations
+
+[^c000003]: Textual amendment: Substituted by [Directive (EU) 2019/2121 of the European Parliament and of the Council of 27 November 2019 amending Directive (EU) 2017/1132 as regards cross-border conversions, mergers and divisions (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/2121).

@@ -1,0 +1,40 @@
+---
+title: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 252
+act: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)
+section: Article 252
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2016/429/section/Article 252
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 252
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 252. Delegation of powers concerning the identification of pet animals and prevention and risk-mitigation measures
+
+*Extent: E+W+S+N.I.*
+
+1. The Commission shall be empowered to adopt delegated acts in accordance with Article 264 concerning:
+
+- (a) detailed species–specific requirements for:
+  - ((i)) the means of identification of pet animals of the species listed in Annex I provided for in point (a) of Article 247, point (a) of Article 248(2), point (a) of Article 249(1) and point (a) of Article 250(2);
+  - ((ii)) the application and use of those means of identification;
+- (b) detailed species–specific requirements for the prevention and risk-mitigation measures to ensure that pet animals do not pose a significant risk for the spread of listed diseases as referred to in point (d) of Article 9(1) due to movements of pet animals of the species listed in Annex I as provided for in point (b) of Article 247, point (b) of Article 248(2), point (b) of Article 249(1) and point (b) of Article 250(2).
+
+2. Where, in the case of emerging risks, imperative grounds of urgency so require, the procedure provided for in Article 265 shall apply to rules adopted pursuant to point (b) of paragraph 1 of this Article.
+
+3. The species–specific prevention and risk-mitigation measures authorised by a delegated act adopted pursuant to point (b) of paragraph 1 of this Article shall be based on adequate, reliable and validated scientific information and applied proportionately to the risk to public or animal health associated with non–commercial movements of pet animals likely to be affected by listed diseases as referred to in point (d) of Article 9(1).
+
+4. The delegated acts provided for in point (b) of paragraph 1 may also comprise the following:
+
+- (a) rules for the categorisation of Member States or parts thereof according to their animal health status and their surveillance and reporting systems with regard to certain diseases that are likely to be spread by movements of pet animals of the species listed in Annex I;
+- (b) the conditions that Member States are to fulfil in order to remain eligible for the application of the prevention and risk-mitigation measures referred to in point (b) of paragraph 1;
+- (c) the conditions for applying and documenting the prevention and risk-mitigation measures referred to in point (b) of paragraph 1;
+- (d) the criteria for granting and, where appropriate, documenting derogations in certain specified circumstances from the application of the prevention and risk-mitigation measures referred to in point (b) of paragraph 1;
+- (e) the criteria for granting and documenting derogations in certain specified circumstances from the conditions referred to in Articles 247 to 250.

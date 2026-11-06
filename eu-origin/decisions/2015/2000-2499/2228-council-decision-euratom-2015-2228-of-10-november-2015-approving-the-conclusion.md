@@ -1,0 +1,64 @@
+---
+title: Council Decision (Euratom) 2015/2228 of 10 November 2015 approving the conclusion, by the European Commission, of the amendments to Protocols 1 and 2 to the Agreement between the French Republic, the European Atomic Energy Community and the International Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean
+id: eudn/2015/2228
+type: EuropeanUnionDecision
+category: euretained
+status: repealed
+made_date: '2015-11-10'
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2015/2228
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2015/2228/pdfs/eudn_20152228_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2015/2228/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision (Euratom) 2015/2228 of 10 November 2015 approving the conclusion, by the European Commission, of the amendments to Protocols 1 and 2 to the Agreement between the French Republic, the European Atomic Energy Community and the International Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Council Decision (Euratom) 2015/2228
+
+of 10 November 2015
+
+approving the conclusion, by the European Commission, of the amendments to Protocols 1 and 2 to the Agreement between the French Republic, the European Atomic Energy Community and the International Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean (revoked)
+
+[^key-c12310e0a9c07abdd30454fb0fed3c1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+**Article 1.**[^key-c12310e0a9c07abdd30454fb0fed3c1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 2.**[^key-c12310e0a9c07abdd30454fb0fed3c1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-c12310e0a9c07abdd30454fb0fed3c1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## ANNEX[^key-c12310e0a9c07abdd30454fb0fed3c1f]
+
+[^key-c12310e0a9c07abdd30454fb0fed3c1f]I.
+
+Paragraph I of Protocol 1 to the Agreement between the French Republic, the European Atomic Energy Community and the International Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean (‘the Safeguards Agreement’) is replaced by the following:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-c12310e0a9c07abdd30454fb0fed3c1f]II.
+
+Paragraph I of Protocol 2 to the Safeguards Agreement is replaced by the following:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-c12310e0a9c07abdd30454fb0fed3c1f]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

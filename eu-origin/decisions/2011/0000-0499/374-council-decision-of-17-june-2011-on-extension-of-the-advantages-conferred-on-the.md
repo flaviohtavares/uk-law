@@ -1,0 +1,52 @@
+---
+title: Council Decision of 17 June 2011 on extension of the advantages conferred on the joint undertaking Hochtemperatur-Kernkraftwerk GmbH (HKG) (2011/374/Euratom)
+id: eudn/2011/374
+type: EuropeanUnionDecision
+category: euretained
+status: repealed
+made_date: '2011-06-17'
+text_date: '2025-05-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2011/374
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2011/374/pdfs/eudn_20110374_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2011/374/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision of 17 June 2011 on extension of the advantages conferred on the joint undertaking Hochtemperatur-Kernkraftwerk GmbH (HKG) (2011/374/Euratom)
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Council Decision
+
+of 17 June 2011
+
+on extension of the advantages conferred on the joint undertaking Hochtemperatur-Kernkraftwerk GmbH (HKG)
+
+(2011/374/Euratom) (revoked)
+
+[^key-b0cbaee637b650ecbae1573ee442b0cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+**Article 1.**[^key-b0cbaee637b650ecbae1573ee442b0cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 2.**[^key-b0cbaee637b650ecbae1573ee442b0cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 3.**[^key-b0cbaee637b650ecbae1573ee442b0cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-b0cbaee637b650ecbae1573ee442b0cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-b0cbaee637b650ecbae1573ee442b0cd]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

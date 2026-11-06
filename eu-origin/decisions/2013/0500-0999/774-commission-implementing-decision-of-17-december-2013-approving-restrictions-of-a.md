@@ -1,0 +1,121 @@
+---
+title: Commission Implementing Decision of 17 December 2013 approving restrictions of authorisations of biocidal products containing bromadiolone notified by Germany in accordance with Directive 98/8/EC of the European Parliament and of the Council (notified under document C(2013) 9030) (Only the German text is authentic) (2013/774/EU)
+id: eudn/2013/774
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2013-12-17'
+text_date: '2013-12-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2013/774
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2013/774/pdfs/eudn_20130774_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2013/774/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Decision of 17 December 2013 approving restrictions of authorisations of biocidal products containing bromadiolone notified by Germany in accordance with Directive 98/8/EC of the European Parliament and of the Council (notified under document C(2013) 9030) (Only the German text is authentic) (2013/774/EU)
+
+> Text as at 2013-12-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Decision
+
+of 17 December 2013
+
+approving restrictions of authorisations of biocidal products containing bromadiolone notified by Germany in accordance with Directive 98/8/EC of the European Parliament and of the Council
+
+(notified under document C(2013) 9030)
+
+(Only the German text is authentic)
+
+(2013/774/EU)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 98/8/EC of the European Parliament and of the Council of 16 February 1998 concerning the placing of biocidal products on the market[^f00001], and in particular Article 4(4) thereof,
+
+Whereas:
+
+(1)
+
+Annex I to Directive 98/8/EC contains the list of active substances approved at Union level for inclusion in biocidal products. Commission Directive 2009/92/EC[^f00002] added the active substance bromadiolone for use in products belonging to product-type 14, Rodenticides, as defined in Annex V to Directive 98/8/EC.
+
+(2)
+
+Bromadiolone is an anticoagulant rodenticide known to pose risks of accidental incidents with children, as well as risks for non-target animals and the environment. It has been identified as potentially persistent, liable to bioaccumulate and toxic (‘PBT’), or very persistent and very liable to bioaccumulate (‘vPvB’).
+
+(3)
+
+For reasons of public health and hygiene, it was nevertheless found to be justified to include bromadiolone and other anticoagulant rodenticides in Annex I to Directive 98/8/EC, thus allowing Member States to authorise bromadiolone-based products. However, Member States were obliged to ensure, when granting authorisation of products containing bromadiolone, that primary as well as secondary exposure of humans, non-target animals and the environment is minimised, by considering and applying all appropriate and available risk mitigation measures. The risk mitigation measures mentioned in Directive 2009/92/EC therefore include, amongst others, restriction to professional use only.
+
+(4)
+
+The company Belgagri SA (‘the applicant’) has, in accordance with Article 8 of Directive 98/8/EC, submitted applications to Ireland for authorisation of four rodenticides containing bromadiolone (‘the products’).
+
+(5)
+
+Ireland granted the authorisations of the products on 30 September 2012. The products were authorised with restrictions to ensure that the conditions of Article 5 of Directive 98/8/EC were met in Ireland. Those restrictions did not include restriction to trained or licensed professional users.
+
+(6)
+
+On 5 February 2013, the applicant submitted complete applications to Germany for mutual recognition of the first authorisations in respect of the products.
+
+(7)
+
+On 17 April 2013, Germany notified the Commission, the other Member States and the applicant of its proposal to restrict the first authorisations in accordance with Article 4(4) of Directive 98/8/EC. Germany proposed to impose a restriction on the products to use by trained or licensed professionals.
+
+(8)
+
+The Commission invited the other Member States and the applicant to submit comments to the notification in writing within 90 days in accordance with Article 27(1) of Directive 98/8/EC. No comments were submitted within that deadline. The notification was also discussed between the Commission and Member States’ Competent Authorities for biocidal products in the meeting of the Product Authorisation and Mutual Recognition Facilitation Group of 14 May 2013.
+
+(9)
+
+In accordance with Directive 98/8/EC, authorisations of biocidal products containing bromadiolone are to be subject to all appropriate and available risk mitigation measures, including the restriction to professional use only. The scientific evaluation leading to the inclusion of bromadiolone in Directive 98/8/EC concluded that only professional users could be expected to follow the instructions minimising the risk of secondary poisoning of non-target animals, and to use products in a way that prevents the selection and spreading of resistance. A restriction to professional users should therefore in principle be considered to be an appropriate risk mitigation measure, in particular in Member States where resistance to bromadiolone occurs.
+
+(10)
+
+In the absence of any indication to the contrary, restriction to professional users is therefore an appropriate and available risk mitigation measure for the authorisation of products containing bromadiolone in Germany. This conclusion is reinforced by the arguments put forward by Germany that resistance against bromadiolone in rats has been found and is thought to be developing in the country. Furthermore, Germany has a well-functioning infrastructure of trained pest control operators and licensed professionals, such as farmers, gardeners and foresters who received professional training, which means that the proposed restriction does not hinder infection prevention.
+
+(11)
+
+The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Biocidal Products,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** Germany may restrict the authorisations granted in accordance with Article 4 of Directive 98/8/EC for the products mentioned in the Annex to this Decision to use by trained or licensed professionals.
+
+**Article 2.** This Decision is addressed to the Federal Republic of Germany.
+
+Done at Brussels, 17 December 2013.
+
+*For the Commission*
+
+Janez Potočnik
+
+*Member of the Commission*
+
+## ANNEX
+
+Products for which Germany may restrict the authorisations granted in accordance with Article 4 of Directive 98/8/EC to use by trained or licensed professionals:
+
+| Product name in Ireland | Irish application reference number in the Register for Biocidal Products | Product name in Germany | German application reference number in the Register for Biocidal Products |
+| --- | --- | --- | --- |
+| Control | 2011/6289/13066/IE/AA/21745 | Control | 2011/6289/13066/DE/MA/21749 |
+| Control Bloc | 2011/6289/13146/IE/AA/21805 | Control Bloc | 2011/6289/13146/DE/MA/21809 |
+| Control Pasta | 2011/6289/13126/IE/AA/21785 | Control Pasta | 2011/6289/13126/DE/MA/21788 |
+| Control Bar | 2011/6289/13166/IE/AA/21825 | Control Bar | 2011/6289/13166/DE/MA/21829 |
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 123, 24.4.1998, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.123.01.0001.01.ENG).
+
+[^f00002]: Footnote: Commission Directive 2009/92/EC of 31 July 2009 amending Directive 98/8/EC of the European Parliament and of the Council to include bromadiolone as an active substance in Annex I thereto ([OJ L 201, 1.8.2009, p. 43](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.201.01.0043.01.ENG)).

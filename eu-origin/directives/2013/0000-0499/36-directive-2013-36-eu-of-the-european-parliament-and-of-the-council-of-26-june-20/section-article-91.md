@@ -1,0 +1,72 @@
+---
+title: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 91
+act: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance)
+section: Article 91
+status: revised
+text_date: '2020-12-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2013/36/section/Article 91
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 91
+
+> Text as at 2020-12-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 91. Management body
+
+*Extent: E+W+S+N.I.*
+
+1.[^c000001] Institutions, financial holding companies and mixed financial holding companies shall have the primary responsibility for ensuring that members of the management body are at all times of sufficiently good repute and possess sufficient knowledge, skills and experience to perform their duties. Members of the management body shall, in particular, fulfil the requirements set out in paragraphs 2 to 8.
+
+Where members of the management body do not fulfil the requirements set out in this paragraph, competent authorities shall have the power to remove such members from the management body. The competent authorities shall in particular verify whether the requirements set out in this paragraph are still fulfilled where they have reasonable grounds to suspect that money laundering or terrorist financing is being or has been committed or attempted, or there is increased risk thereof in connection with that institution.
+
+2. All members of the management body shall commit sufficient time to perform their functions in the institution.
+
+3. The number of directorships which may be held by a member of the management body at the same time shall take into account individual circumstances and the nature, scale and complexity of the institution's activities. Unless representing the Member State, members of the management body of an institution that is significant in terms of its size, internal organisation and the nature, the scope and the complexity of its activities shall, from 1 July 2014, not hold more than one of the following combinations of directorships at the same time:
+
+- (a) one executive directorship with two non-executive directorships;
+- (b) four non-executive directorships.
+
+4. For the purposes of paragraph 3, the following shall count as a single directorship:
+
+- (a) executive or non-executive directorships held within the same group;
+- (b) executive or non-executive directorships held within:
+  - ((i)) institutions which are members of the same institutional protection scheme provided that the conditions set out in Article 113(7) of Regulation (EU) No 575/2013 are fulfilled; or
+  - ((ii)) undertakings (including non-financial entities) in which the institution holds a qualifying holding.
+
+5. Directorships in organisations which do not pursue predominantly commercial objectives shall not count for the purposes of paragraph 3.
+
+6. Competent authorities may authorise members of the management body to hold one additional non-executive directorship. Competent authorities shall regularly inform EBA of such authorisations.
+
+7. The management body shall possess adequate collective knowledge, skills and experience to be able to understand the institution's activities, including the main risks. The overall composition of the management body shall reflect an adequately broad range of experience.
+
+8. Each member of the management body shall act with honesty, integrity and independence of mind to effectively assess and challenge the decisions of the senior management where necessary and to effectively oversee and monitor management decision-making. Being a member of affiliated companies or affiliated entities does not in itself constitute an obstacle to acting with independence of mind.
+
+9. Institutions shall devote adequate human and financial resources to the induction and training of members of the management body.
+
+10. Member States or competent authorities shall require institutions and their respective nomination committees to engage a broad set of qualities and competences when recruiting members to the management body and for that purpose to put in place a policy promoting diversity on the management body.
+
+11. Competent authorities shall collect the information disclosed in accordance with Article 435(2)(c) of Regulation (EU) No 575/2013 and shall use it to benchmark diversity practices. The competent authorities shall provide EBA with that information. EBA shall use that information to benchmark diversity practices at Union level.
+
+12. EBA shall issue guidelines on the following:
+
+- (a) the notion of sufficient time commitment of a member of the management body to perform his functions, in relation to the individual circumstances and the nature, scale and complexity of activities of the institution;
+- (b) the notion of adequate collective knowledge, skills and experience of the management body as referred to in paragraph 7;
+- (c) the notions of honesty, integrity and independence of mind of a member of the management body as referred to in paragraph 8;
+- (d) the notion of adequate human and financial resources devoted to the induction and training of members of the management body as referred to in paragraph 9;
+- (e) the notion of diversity to be taken into account for the selection of members of the management body as referred to in paragraph 10;
+- (f)[^c000002] the consistent application of the power referred to in the second subparagraph of paragraph 1.
+
+EBA shall issue those guidelines by 31 December 2015.
+
+13. This Article shall be without prejudice to provisions on the representation of employees in the management body as provided for by national law.
+
+## Annotations
+
+[^c000001]: Textual amendment: Substituted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).
+
+[^c000002]: Textual amendment: Inserted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).

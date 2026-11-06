@@ -1,0 +1,38 @@
+---
+title: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, section Article 126a
+act: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use
+section: Article 126a
+status: revised
+text_date: '2019-07-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2001/83/section/Article 126a
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use, section Article 126a
+
+> Text as at 2019-07-26.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Article 126a.**[^c000007] 1. In the absence of a marketing authorisation or of a pending application for a medicinal product authorised in another Member State in accordance with this Directive, a Member State may for justified public health reasons authorise the placing on the market of the said medicinal product.
+
+2.[^c000005] When a Member State avails itself of this possibility, it shall adopt the necessary measures in order to ensure that the requirements of this Directive are complied with, in particular those referred to in Titles V, VI, VIII, IX and XI. Member States may decide that Article 63(1) and (2) shall not apply to medicinal products authorised under paragraph 1.
+
+3. Before granting such a marketing authorisation, a Member State:
+
+- (a) shall notify the marketing authorisation holder, in the Member State in which the medicinal product concerned is authorised, of the proposal to grant a marketing authorisation under this Article in respect of the medicinal product concerned.
+- (b) may request the competent authority in that Member State to submit copies of the assessment report referred to in Article 21(4) and of the marketing authorisation in force in respect of the medicinal product concerned. If so requested, the competent authority in that Member State shall supply, within 30 days of receipt of the request, a copy of the assessment report and the marketing authorisation in respect of the medicinal product concerned.
+
+4. The Commission shall set up a publicly accessible register of medicinal products authorised under paragraph 1. Member States shall notify the Commission if any medicinal product is authorised, or ceases to be authorised, under paragraph 1, including the name or corporate name and permanent address of the authorisation holder. The Commission shall amend the register of medicinal products accordingly and make this register available on their website.
+
+5. No later than 30 April 2008, the Commission shall present a report to the European Parliament and the Council concerning the application of this provision with a view to proposing any necessary amendments.
+
+## Annotations
+
+[^c000007]: Textual amendment: Inserted by [Directive 2004/27/EC of the European Parliament and of the Council of 31 March 2004 amending Directive 2001/83/EC on the Community code relating to medicinal products for human use](https://www.legislation.gov.uk/eudr/2004/27).
+
+[^c000005]: Textual amendment: Substituted by [Directive 2010/84/EU of the European Parliament and of the Council of 15 December 2010 amending, as regards pharmacovigilance, Directive 2001/83/EC on the Community code relating to medicinal products for human use (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2010/84).

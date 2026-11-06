@@ -1,0 +1,808 @@
+---
+title: Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides (Text with EEA relevance)
+id: eudr/2009/128
+type: EuropeanUnionDirective
+category: euretained
+status: revised
+made_date: '2009-10-21'
+text_date: '2019-07-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/128
+pdf_urls:
+- http://www.legislation.gov.uk/eudr/2009/128/pdfs/eudr_20090128_adopted_en.pdf
+- http://www.legislation.gov.uk/eudr/2009/128/pdfs/eudr_20090128_2009-11-25_en.pdf
+- http://www.legislation.gov.uk/eudr/2009/128/pdfs/eudr_20090128_2014-06-30_en.pdf
+- http://www.legislation.gov.uk/eudr/2009/128/pdfs/eudr_20090128_2019-06-05_en.pdf
+- http://www.legislation.gov.uk/eudr/2009/128/pdfs/eudr_20090128_2019-07-26_en.pdf
+- http://www.legislation.gov.uk/eudr/2009/128/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides (Text with EEA relevance)
+
+> Text as at 2019-07-26.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Directive 2009/128/EC of the European Parliament and of the Council
+
+of 21 October 2009
+
+establishing a framework for Community action to achieve the sustainable use of pesticides
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the European Economic and Social Committee[^f00001],
+
+Having regard to the opinion of the Committee of the Regions[^f00002],
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty[^f00003],
+
+Whereas:
+
+(1)
+
+In line with Articles 2 and 7 of Decision No 1600/2002/EC of the European Parliament and of the Council of 22 July 2002 laying down the Sixth Community Environment Action Programme[^f00004], a common legal framework for achieving a sustainable use of pesticides should be established, taking account of precautionary and preventive approaches.
+
+(2)
+
+At present, this Directive should apply to pesticides which are plant protection products. However, it is anticipated that the scope of this Directive will be extended to cover biocidal products.
+
+(3)
+
+The measures provided for in this Directive should be complementary to, and not affect, measures laid down in other related Community legislation, in particular Council Directive 79/409/EEC of 2 April 1979 on the conservation of wild birds[^f00005], Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora[^f00006], Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy[^f00007], Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on maximum residue levels of pesticides in or on food and feed of plant and animal origin[^f00008] and Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 on the placing of plant protection products on the market[^f00009]. These measures should also not prejudice voluntary measures in the context of Regulations for Structural Funds or of Council Regulation (EC) No 1698/2005 of 20 September 2005 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00010].
+
+(4)
+
+Economic instruments can play a crucial role in the achievement of objectives relating to the sustainable use of pesticides. The use of such instruments at the appropriate level should therefore be encouraged while stressing that individual Member States can decide on their use without prejudice to the applicability of the State aid rules.
+
+(5)
+
+National Action Plans aimed at setting quantitative objectives, targets, measures, timetables and indicators to reduce risks and impacts of pesticide use on human health and the environment and at encouraging the development and introduction of integrated pest management and of alternative approaches or techniques in order to reduce dependency on the use of pesticides should be used by Member States in order to facilitate the implementation of this Directive. Member States should monitor the use of plant protection products containing active substances of particular concern and establish timetables and targets for the reduction of their use, in particular when it is an appropriate means to achieve risk reduction targets. National Action Plans should be coordinated with implementation plans under other relevant Community legislation and could be used for grouping together objectives to be achieved under other Community legislation related to pesticides.
+
+(6)
+
+The exchange of information on the objectives and actions Member States lay down in their National Action Plans is a very important element for achieving the objectives of this Directive. Therefore, it is appropriate to request Member States to report regularly to the Commission and to the other Member States, in particular on the implementation and results of their National Action Plans and on their experiences. On the basis of information transmitted by the Member States, the Commission should submit relevant reports to the European Parliament and to the Council, accompanied, if necessary, by appropriate legislative proposals.
+
+(7)
+
+For the preparation and modification of National Action Plans, it is appropriate to provide for the application of Directive 2003/35/EC of the European Parliament and of the Council of 26 May 2003 providing for public participation in respect of the drawing up of certain plans and programmes relating to the environment[^f00011].
+
+(8)
+
+It is essential that Member States set up systems of both initial and additional training for distributors, advisors and professional users of pesticides and certification systems to record such training so that those who use or will use pesticides are fully aware of the potential risks to human health and the environment and of the appropriate measures to reduce those risks as much as possible. Training activities for professional users may be coordinated with those organised in the framework of Regulation (EC) No 1698/2005.
+
+(9)
+
+Sales of pesticides, including Internet sales, are an important element in the distribution chain, where specific advice on safety instructions for human health and the environment should be given to the end user at the time of sale, in particular to professional users. For non-professional users who in general do not have the same level of education and training, recommendations should be given, in particular on safe handling and storage of pesticides as well as on disposal of the packaging.
+
+(10)
+
+Considering the possible risks from the use of pesticides, the general public should be better informed of the overall impacts of the use of pesticides through awareness-raising campaigns, information passed on through retailers and other appropriate measures.
+
+(11)
+
+Research programmes aimed at determining the impacts of pesticide use on human health and the environment, including studies on high-risk groups, should be promoted at European and national level.
+
+(12)
+
+To the extent that the handling and application of pesticides require the setting of minimum health and safety requirements at the workplace, covering the risks arising from exposure of workers to such products, as well as general and specific preventive measures to reduce those risks, those measures are covered by Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work[^f00012] and Directive 2004/37/EC of the European Parliament and of the Council of 29 April 2004 on the protection of workers from the risks related to their exposure to carcinogens or mutagens at work[^f00013].
+
+(13)
+
+Since Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on machinery[^f00014] will provide for rules on the placing on the market of pesticide application equipment ensuring that environmental requirements are met, it is appropriate, in order to minimise the adverse impacts of pesticides on human health and the environment caused by such equipment, to provide for systems for regular technical inspection of pesticide application equipment already in use. Member States should describe in their National Action Plans how they will ensure the implementation of those requirements.
+
+(14)
+
+Aerial spraying of pesticides has the potential to cause significant adverse impacts on human health and the environment, in particular from spray drift. Therefore, aerial spraying should generally be prohibited with derogations possible where it represents clear advantages in terms of reduced impacts on human health and the environment in comparison with other spraying methods, or where there are no viable alternatives, provided that the best available technology to reduce drift is used.
+
+(15)
+
+The aquatic environment is especially sensitive to pesticides. It is therefore necessary for particular attention to be paid to avoiding pollution of surface water and groundwater by taking appropriate measures, such as the establishment of buffer and safeguard zones or planting hedges along surface waters to reduce exposure of water bodies to spray drift, drain flow and run-off. The dimensions of buffer zones should depend in particular on soil characteristics and pesticide properties, as well as agricultural characteristics of the areas concerned. Use of pesticides in areas for the abstraction of drinking water, on or along transport routes, such as railway lines, or on sealed or very permeable surfaces can lead to higher risks of pollution of the aquatic environment. In such areas the pesticide use should, therefore, be reduced as far as possible, or eliminated, if appropriate.
+
+(16)
+
+Use of pesticides can be particularly dangerous in very sensitive areas, such as Natura 2000 sites protected in accordance with Directives 79/409/EEC and 92/43/EEC. In other places such as public parks and gardens, sports and recreation grounds, school grounds and children’s playgrounds, and in the close vicinity of healthcare facilities, the risks from exposure to pesticides are high. In these areas, the use of pesticides should be minimised or prohibited. When pesticides are used, appropriate risk management measures should be established and low-risk pesticides as well as biological control measures should be considered in the first place.
+
+(17)
+
+Handling of pesticides, including storage, diluting and mixing the pesticides and cleaning of pesticide application equipment after use, and recovery and disposal of tank mixtures, empty packaging and remnants of pesticides are particularly prone to unwanted exposure of humans and the environment. Therefore, it is appropriate to provide for specific measures addressing those activities as a complement to the measures provided for under Directive 2006/12/EC of the European Parliament and of the Council of 5 April 2006 on waste[^f00015], and Council Directive 91/689/EEC of 12 December 1991 on hazardous waste[^f00016]. Measures should also encompass non-professional users, since inappropriate handling is very likely to occur in this group of users due to their lack of knowledge.
+
+(18)
+
+The application of general principles and crop and sector-specific guidelines with respect to integrated pest management by all farmers would result in a better targeted use of all available pest control measures, including pesticides. Therefore, it would contribute to a further reduction of the risks to human health and the environment and the dependency on the use of pesticides. Member States should promote low pesticide-input pest management, in particular integrated pest management, and establish the necessary conditions and measures for its implementation.
+
+(19)
+
+On the basis of Regulation (EC) No 1107/2009 and of this Directive, implementation of the principles of integrated pest management is obligatory and the subsidiarity principle applies to the way the principles for integrated pest management are implemented. Member States should describe in their National Action Plan how they ensure the implementation of the principles of integrated pest management, with priority given wherever possible to non-chemical methods of plant protection and pest and crop management.
+
+(20)
+
+It is necessary to measure the progress achieved in the reduction of risks and adverse impacts from pesticide use for human health and the environment. Appropriate means are harmonised risk indicators that will be established at Community level. Member States should use those indicators for risk management at national level and for reporting purposes, while the Commission should calculate indicators to evaluate progress at Community level. Statistical data collected in accordance with the Community legislation concerning statistics on plant protection products should be used. Member States should be entitled to use, in addition to harmonised common indicators, their national indicators.
+
+(21)
+
+Member States should determine penalties applicable to infringements of national provisions adopted pursuant to this Directive and ensure that they are implemented. The penalties should be effective, proportionate and dissuasive.
+
+(22)
+
+Since the objective of this Directive, namely to protect human health and the environment from possible risks associated with the use of pesticides, cannot be sufficiently achieved by the Member States and can therefore be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective.
+
+(23)
+
+This Directive respects the fundamental rights and observes the principles recognised notably by the Charter of Fundamental Rights of the European Union. In particular, this Directive seeks to promote the integration into Community policies of a high level of environmental protection in accordance with the principle of sustainable development as laid down in Article 37 of that Charter.
+
+(24)
+
+The measures necessary for the implementation of this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission[^f00017].
+
+(25)
+
+In particular, the Commission should be empowered to establish and update the Annexes to this Directive. Since those measures are of general scope and are designed to amend non-essential elements of this Directive, inter alia, by supplementing it with new non-essential elements, they must be adopted in accordance with the regulatory procedure with scrutiny provided for in Article 5a of Decision 1999/468/EC.
+
+(26)
+
+In accordance with point 34 of the Interinstitutional agreement on better law-making[^f00018], Member States are encouraged to draw up, for themselves and in the interests of the Community, their own tables illustrating, as far as possible, the correlation between this Directive and the transposition measures, and to make them public,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1. Subject matter
+
+This Directive establishes a framework to achieve a sustainable use of pesticides by reducing the risks and impacts of pesticide use on human health and the environment and promoting the use of integrated pest management and of alternative approaches or techniques such as non-chemical alternatives to pesticides.
+
+### Article 2. Scope
+
+1. This Directive shall apply to pesticides that are plant protection products as defined in point 10(a) of Article 3.
+
+2. This Directive shall apply without prejudice to any other relevant Community legislation.
+
+3. The provisions of this Directive shall not prevent Member States from applying the precautionary principle in restricting or prohibiting the use of pesticides in specific circumstances or areas.
+
+### Article 3. Definitions
+
+For the purposes of this Directive, the following definitions shall apply:
+
+- 1.. ‘professional user’ means any person who uses pesticides in the course of their professional activities, including operators, technicians, employers and self-employed people, both in the farming and other sectors;
+- 2.. ‘distributor’ means any natural or legal person who makes a pesticide available on the market, including wholesalers, retailers, vendors and suppliers;
+- 3.. ‘advisor’ means any person who has acquired adequate knowledge and advises on pest management and the safe use of pesticides, in the context of a professional capacity or commercial service, including private self-employed and public advisory services, commercial agents, food producers and retailers where applicable;
+- 4.. ‘pesticide application equipment’ means any apparatus specifically intended for the application of pesticides, including accessories that are essential for the effective operation of such equipment, such as nozzles, manometers, filters, strainers and cleaning devices for tanks;
+- 5.. ‘aerial spraying’ means application of pesticides from an aircraft (plane or helicopter);
+- 6.. ‘integrated pest management’ means careful consideration of all available plant protection methods and subsequent integration of appropriate measures that discourage the development of populations of harmful organisms and keep the use of plant protection products and other forms of intervention to levels that are economically and ecologically justified and reduce or minimise risks to human health and the environment. ‘Integrated pest management’ emphasises the growth of a healthy crop with the least possible disruption to agro-ecosystems and encourages natural pest control mechanisms;
+- 7.. ‘risk indicator’ means the result of a method of calculation that is used to evaluate risks of pesticides on human health and/or the environment;
+- 8.. ‘non-chemical methods’ means alternative methods to chemical pesticides for plant protection and pest management, based on agronomic techniques such as those referred to in point 1 of Annex III, or physical, mechanical or biological pest control methods;
+- 9.. the terms ‘surface water’ and ‘groundwater’ have the same meaning as in Directive 2000/60/EC;
+- 10.. ‘pesticide’ means:
+  - ((a)) a plant protection product as defined in Regulation (EC) No 1107/2009;
+  - ((b)) a biocidal product as defined in Directive 98/8/EC of the European Parliament and of the Council of 16 February 1998 concerning the placing on the market of biocidal products[^f00019].
+
+### Article 4. National Action Plans
+
+1. Member States shall adopt National Action Plans to set up their quantitative objectives, targets, measures and timetables to reduce risks and impacts of pesticide use on human health and the environment and to encourage the development and introduction of integrated pest management and of alternative approaches or techniques in order to reduce dependency on the use of pesticides. These targets may cover different areas of concern, for example worker protection, protection of the environment, residues, use of specific techniques or use in specific crops.
+
+The National Action Plans shall also include indicators to monitor the use of plant protection products containing active substances of particular concern, especially if alternatives are available. Member States shall give particular attention to the plant protection products containing active substances approved in accordance with Council Directive 91/414/EEC of 15 July 1991 concerning the placing of plant products on the market[^f00020] which, when subject to renewal of approval under Regulation (EC) No 1107/2009 will not fulfil the criteria relevant for approval laid down in Annex II, points 3.6 to 3.8 of that Regulation.
+
+On the basis of such indicators and taking into account where applicable the risk or use reduction targets achieved already prior to the application of this Directive, timetables and targets for the reduction of use shall also be established, in particular if the reduction of use constitutes an appropriate means to achieve risk reduction with regard to priority items identified under Article 15(2)(c). These targets may be intermediate or final. Member States shall use all necessary means designed to achieve these targets.
+
+When drawing up and revising their National Action Plans, Member States shall take account of the health, social, economic and environmental impacts of the measures envisaged, of specific national, regional and local conditions and all relevant stakeholder groups. Member States shall describe in their National Action Plans how they will implement measures pursuant to Articles 5 to 15 in order to achieve the objectives referred to in the first subparagraph of this paragraph.
+
+The National Action Plans shall take into account plans under other Community legislation on the use of pesticides, such as planned measures under Directive 2000/60/EC.
+
+2.[^c000001] By 26 November 2012 , Member States shall communicate their National Action Plans to the Commission and to other Member States.
+
+National Action Plans shall be reviewed at least every five years and any substantial changes to National Action Plans shall be reported to the Commission without undue delay.
+
+3. By 26 November 2014 , the Commission shall submit to the European Parliament and to the Council a report on the information communicated by the Member States in relation to the National Action Plans. The report shall contain methods used and the implications concerning the establishment of different types of targets to reduce the risks and use of pesticides.
+
+By 26 November 2018 , the Commission shall submit to the European Parliament and to the Council a report on the experience gained by Member States on the implementation of national targets established in accordance with paragraph 1 in order to achieve the objectives of this Directive. It may be accompanied, if necessary, by appropriate legislative proposals.
+
+4. The Commission shall make information communicated in accordance with paragraph 2 available to the public on a website.
+
+5. The provisions on public participation laid down in Article 2 of Directive 2003/35/EC shall apply to the preparation and the modification of the National Action Plans.
+
+## CHAPTER II — TRAINING, SALES OF PESTICIDES, INFORMATION AND AWARENESS-RAISING
+
+### Article 5. Training
+
+1. Member States shall ensure that all professional users, distributors and advisors have access to appropriate training by bodies designated by the competent authorities. This shall consist of both initial and additional training to acquire and update knowledge as appropriate.
+
+The training shall be designed to ensure that such users, distributors and advisors acquire sufficient knowledge regarding the subjects listed in Annex I, taking account of their different roles and responsibilities.
+
+2. By 26 November 2013 , Member States shall establish certification systems and designate the competent authorities responsible for their implementation. These certificates shall, as a minimum, provide evidence of sufficient knowledge of the subjects listed in Annex I acquired by professional users, distributors and advisors either by undergoing training or by other means.
+
+Certification systems shall include requirements and procedures for the granting, renewal and withdrawal of certificates.
+
+3.[^c000002] The Commission is empowered to adopt delegated acts in accordance with Article 20a amending Annex I in order to take account of scientific and technical progress.
+
+### Article 6. Requirements for sales of pesticides
+
+1. Member States shall ensure that distributors have sufficient staff in their employment holding a certificate referred to in Article 5(2). Such persons shall be available at the time of sale to provide adequate information to customers as regards pesticide use, health and environmental risks and safety instructions to manage those risks for the products in question. Micro distributors selling only products for non-professional use may be exempted if they do not offer for sale pesticide formulations classified as toxic, very toxic, carcinogenic, mutagenic or toxic for reproduction pursuant to Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations[^f00021].
+
+2. Member States shall take necessary measures to restrict sales of pesticides authorised for professional use to persons holding a certificate referred to in Article 5(2).
+
+3. Member States shall require distributors selling pesticides to non-professional users to provide general information regarding the risks for human health and the environment of pesticide use, in particular on hazards, exposure, proper storage, handling, application and safe disposal in accordance with Community legislation on waste, as well as regarding low-risk alternatives. Member States may require pesticide producers to provide such information.
+
+4. The measures provided for in paragraphs 1 and 2 shall be established by 26 November 2015 .
+
+### Article 7. Information and awareness-raising
+
+1. Member States shall take measures to inform the general public and to promote and facilitate information and awareness-raising programmes and the availability of accurate and balanced information relating to pesticides for the general public, in particular regarding the risks and the potential acute and chronic effects for human health, non-target organisms and the environment arising from their use, and the use of non-chemical alternatives.
+
+2. Member States shall put in place systems for gathering information on pesticide acute poisoning incidents, as well as chronic poisoning developments where available, among groups that may be exposed regularly to pesticides such as operators, agricultural workers or persons living close to pesticide application areas.
+
+3. To enhance the comparability of information, the Commission, in cooperation with the Member States, shall develop by 26 November 2012 a strategic guidance document on monitoring and surveying of impacts of pesticide use on human health and the environment.
+
+## CHAPTER III — PESTICIDE APPLICATION EQUIPMENT
+
+### Article 8. Inspection of equipment in use
+
+1. Member States shall ensure that pesticide application equipment in professional use shall be subject to inspections at regular intervals. The interval between inspections shall not exceed five years until 2020 and shall not exceed three years thereafter.
+
+2. By 26 November 2016 , Member States shall ensure that pesticide application equipment has been inspected at least once. After this date only pesticide application equipment having successfully passed inspection shall be in professional use.
+
+New equipment shall be inspected at least once within a period of five years after purchase.
+
+3. By way of derogation from paragraphs 1 and 2 and, following a risk assessment for human health and the environment including an assessment of the scale of the use of the equipment, Member States may:
+
+- (a) apply different timetables and inspection intervals to pesticide application equipment not used for spraying pesticides, to handheld pesticide application equipment or knapsack sprayers and to additional pesticide application equipment that represent a very low scale of use, which shall be listed in the National Action Plans provided for in Article 4.
+
+  The following additional pesticide application equipment shall never be considered as constituting a very low scale of use:
+
+  - ((i)) spraying equipment mounted on trains or aircraft;
+  - ((ii)) boom sprayers larger than 3 m, including boom sprayers that are mounted on sowing equipment;
+- (b) exempt from inspection handheld pesticide application equipment or knapsack sprayers. In this case the Member States shall ensure that operators have been informed of the need to change regularly the accessories, of the specific risks linked to that equipment, and that operators are trained for the proper use of that application equipment in accordance with Article 5.
+
+4. The inspections shall verify that pesticide application equipment satisfies the relevant requirements listed in Annex II, in order to achieve a high level of protection for human health and the environment.
+
+Pesticide application equipment complying with harmonised standards developed in accordance with Article 20(1) shall be presumed to comply with the essential health and safety and environmental requirements.
+
+5. Professional users shall conduct regular calibrations and technical checks of the pesticide application equipment in accordance with the appropriate training received as provided for in Article 5.
+
+6. Member States shall designate bodies responsible for implementing the inspection systems and inform the Commission thereof.
+
+Each Member State shall establish certificate systems designed to allow the verification of inspections and recognise the certificates granted in other Member States following the requirements referred to in paragraph 4 and where the time period since the last inspection carried out in another Member State is equal to or shorter than the time period of the inspection interval applicable in its own territory.
+
+Member States shall endeavour to recognise the certificates issued in other Member States provided that the inspection intervals referred to in paragraph 1 are complied with.
+
+7. The Commission is empowered to adopt delegated acts in accordance with Article 20a amending Annex II in order to take account of scientific and technical progress.
+
+## CHAPTER IV — SPECIFIC PRACTICES AND USES
+
+### Article 9. Aerial spraying
+
+1. Member States shall ensure that aerial spraying is prohibited.
+
+2. By way of derogation from paragraph 1 aerial spraying may only be allowed in special cases provided the following conditions are met:
+
+- (a) there must be no viable alternatives, or there must be clear advantages in terms of reduced impacts on human health and the environment as compared with land-based application of pesticides;
+- (b) the pesticides used must be explicitly approved for aerial spraying by the Member State following a specific assessment addressing risks from aerial spraying;
+- (c) the operator carrying out the aerial spraying must hold a certificate as referred to in Article 5(2). During the transitional period where certification systems are not yet in place, Member States may accept other evidence of sufficient knowledge;
+- (d) the enterprise responsible for providing aerial spray applications shall be certified by a competent authority for authorising equipment and aircraft for aerial application of pesticides;
+- (e) if the area to be sprayed is in close proximity to areas open to the public, specific risk management measures to ensure that there are no adverse effects on the health of bystanders shall be included in the approval. The area to be sprayed shall not be in close proximity to residential areas;
+- (f) as from 2013, the aircraft shall be equipped with accessories that constitute the best available technology to reduce spray drift.
+
+3. Member States shall designate the authorities competent for establishing the specific conditions by which aerial spraying may be carried out, for examining requests pursuant to paragraph 4 and for making public information on crops, areas, circumstances and particular requirements for application including weather conditions where aerial spraying may be allowed.
+
+In the approval the competent authorities shall specify the measures necessary for warning residents and bystanders in due time and to protect the environment in the vicinity of the area sprayed.
+
+4. A professional user wishing to apply pesticides by aerial spraying shall submit a request for approval of an application plan to the competent authority accompanied by evidence to show that the conditions referred to in paragraphs 2 and 3 are fulfilled. The request for application of aerial spraying in accordance with the approved application plan shall be submitted in due time to the competent authority. It shall contain information about the provisional time of spraying and the amounts and the type of pesticides applied.
+
+Member States may provide that requests for applications of aerial spraying in accordance with an approved application plan, for which no answer was received on the decision taken within the time period laid down by the competent authorities, shall be deemed to be approved.
+
+In particular circumstances such as emergency or specific difficult situations, single requests for application of aerial spraying may also be submitted for approval. Where justified, competent authorities shall have a possibility to apply an accelerated procedure in order to verify that the conditions referred to in paragraphs 2 and 3 are fulfilled before the application of aerial spraying.
+
+5. Member States shall ensure that the conditions referred to in paragraphs 2 and 3 are met by conducting appropriate monitoring.
+
+6. The competent authorities shall keep records of the requests and approvals as referred to in paragraph 4 and shall make available to the public the relevant information contained therein such as the area to be sprayed, the provisional day and time of the spraying and the type of pesticide, in accordance with the applicable national or Community law.
+
+### Article 10. Information to the public
+
+Member States may include in their National Action Plans provisions on informing persons who could be exposed to the spray drift.
+
+### Article 11. Specific measures to protect the aquatic environment and drinking water
+
+1. Member States shall ensure that appropriate measures to protect the aquatic environment and drinking water supplies from the impact of pesticides are adopted. Those measures shall support and be compatible with relevant provisions of Directive 2000/60/EC and Regulation (EC) No 1107/2009.
+
+2. The measures provided in paragraph 1 shall include:
+
+- (a) giving preference to pesticides that are not classified as dangerous for the aquatic environment pursuant to Directive 1999/45/EC nor containing priority hazardous substances as set out in Article 16(3) of Directive 2000/60/EC;
+- (b) giving preference to the most efficient application techniques such as the use of low-drift pesticide application equipment especially in vertical crops such as hops and those found in orchards and vineyards;
+- (c) use of mitigation measures which minimise the risk of off-site pollution caused by spray drift, drain-flow and run-off. These shall include the establishment of appropriately-sized buffer zones for the protection of non-target aquatic organisms and safeguard zones for surface and groundwater used for the abstraction of drinking water, where pesticides must not be used or stored;
+- (d) reducing as far as possible or eliminating applications on or along roads, railway lines, very permeable surfaces or other infrastructure close to surface water or groundwater or on sealed surfaces with a high risk of run-off into surface water or sewage systems.
+
+### Article 12. Reduction of pesticide use or risks in specific areas
+
+Member States shall, having due regard for the necessary hygiene and public health requirements and biodiversity, or the results of relevant risk assessments, ensure that the use of pesticides is minimised or prohibited in certain specific areas. Appropriate risk management measures shall be taken and the use of low-risk plant protection products as defined in Regulation (EC) No 1107/2009 and biological control measures shall be considered in the first place. The specific areas in question are:
+
+- ((a)) areas used by the general public or by vulnerable groups as defined in Article 3 of Regulation (EC) No 1107/2009, such as public parks and gardens, sports and recreation grounds, school grounds and children’s playgrounds and in the close vicinity of healthcare facilities;
+- ((b)) protected areas as defined in Directive 2000/60/EC or other areas identified for the purposes of establishing the necessary conservation measures in accordance with the provisions of Directives 79/409/EEC and 92/43/EEC;
+- ((c)) recently treated areas used by or accessible to agricultural workers.
+
+### Article 13. Handling and storage of pesticides and treatment of their packaging and remnants
+
+1. Member States shall adopt the necessary measures to ensure that the following operations by professional users and where applicable by distributors do not endanger human health or the environment:
+
+- (a) storage, handling, dilution and mixing of pesticides before application;
+- (b) handling of packaging and remnants of pesticides;
+- (c) disposal of tank mixtures remaining after application;
+- (d) cleaning of the equipment used after application;
+- (e) recovery or disposal of pesticide remnants and their packaging in accordance with Community legislation on waste.
+
+2. Member States shall take all necessary measures regarding pesticides authorised for non-professional users to avoid dangerous handling operations. These measures may include use of pesticides of low toxicity, ready to use formulations and limits on sizes of containers or packaging.
+
+3. Member States shall ensure that storage areas for pesticides for professional use are constructed in such a way as to prevent unwanted releases. Particular attention shall be paid to location, size and construction materials.
+
+### Article 14. Integrated pest management
+
+1. Member States shall take all necessary measures to promote low pesticide-input pest management, giving wherever possible priority to non-chemical methods, so that professional users of pesticides switch to practices and products with the lowest risk to human health and the environment among those available for the same pest problem. Low pesticide-input pest management includes integrated pest management as well as organic farming according to Council Regulation (EC) No 834/2007 of 28 June 2007 on organic production and labelling of organic products[^f00022].
+
+2. Member States shall establish or support the establishment of necessary conditions for the implementation of integrated pest management. In particular, they shall ensure that professional users have at their disposal information and tools for pest monitoring and decision making, as well as advisory services on integrated pest management.
+
+3. By 30 June 2013, Member States shall report to the Commission on the implementation of paragraphs 1 and 2 and, in particular, whether the necessary conditions for implementation of integrated pest management are in place.
+
+4. Member States shall describe in their National Action Plans how they ensure that the general principles of integrated pest management as set out in Annex III are implemented by all professional users by 1 January 2014.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 20a amending Annex III in order to take account of scientific and technical progress.
+
+5. Member States shall establish appropriate incentives to encourage professional users to implement crop or sector-specific guidelines for integrated pest management on a voluntary basis. Public authorities and/or organisations representing particular professional users may draw up such guidelines. Member States shall refer to those guidelines that they consider relevant and appropriate in their National Action Plans.
+
+## CHAPTER V — INDICATORS, REPORTING AND INFORMATION EXCHANGE
+
+### Article 15. Indicators
+
+1. Harmonised risk indicators as referred to in Annex IV shall be established. However, Member States may continue to use existing national indicators or adopt other appropriate indicators in addition to the harmonised ones.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 20a amending Annex IV in order to take account of scientific and technical progress.
+
+2. Member States shall:
+
+- (a) calculate harmonised risk indicators as referred to in paragraph 1 by using statistical data collected in accordance with the Community legislation concerning statistics on plant protection products together with other relevant data;
+- (b) identify trends in the use of certain active substances;
+- (c) identify priority items, such as active substances, crops, regions or practices, that require particular attention or good practices that can be used as examples in order to achieve the objectives of this Directive to reduce the risks and impacts of pesticide use on human health and the environment and to encourage the development and introduction of integrated pest management and of alternative approaches or techniques in order to reduce dependency on the use of pesticides.
+
+3. Member States shall communicate the results of the evaluations carried out pursuant to paragraph 2 to the Commission and to other Member States and shall make this information available to the public.
+
+4. The Commission shall calculate risk indicators at Community level by using statistical data collected in accordance with the Community legislation concerning statistics on plant protection products and other relevant data, in order to estimate trends in risks from pesticide use.
+
+The Commission shall also use these data and this information to assess progress in achieving the objectives of other Community policies aimed at reducing the impact of pesticides on human health and on the environment.
+
+The results shall be made available to the public on the website referred to in Article 4(4).
+
+### Article 16. Reporting
+
+The Commission shall regularly submit to the European Parliament and to the Council a report on progress in the implementation of this Directive, accompanied where appropriate by proposals for amendments.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+### Article 17. Penalties
+
+Member States shall determine penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+Member States shall notify those provisions to the Commission by 26 November 2012 and shall notify it without delay of any subsequent amendment.
+
+### Article 18. Exchange of information and best practice
+
+The Commission shall put forward as a priority for discussion in the expert group on the thematic strategy on the sustainable use of pesticides the exchange of information and best practice in the field of sustainable use of pesticides and integrated pest management.
+
+### Article 19. Fees and charges
+
+1. Member States may recover the costs associated with any work pursuant to obligations under this Directive by means of a fee or charge.
+
+2. Member States shall ensure that the fee or charge referred to in paragraph 1 is established in a transparent manner and corresponds to the actual cost of the work involved.
+
+### Article 20. Standardisation
+
+1. The standards referred to in Article 8(4) of this Directive shall be established in accordance with the procedure provided for in Article 6(3) of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services[^f00023].
+
+The request for developing these standards may be established in consultation with the Committee referred to in Article 21(1).
+
+2. The Commission shall publish the references of the standards in the *Official Journal of the European Union*.
+
+3. When a Member State or the Commission considers that a harmonised standard does not entirely satisfy the requirements which it covers and which are set out in Annex II, the Commission or the Member State concerned shall bring the matter before the Committee set up by Article 5 of Directive 98/34/EC, giving its arguments. The Committee shall, having consulted the relevant European standardisation bodies, deliver its opinion without delay.
+
+In the light of the Committee’s opinion, the Commission shall decide to publish, not to publish, to publish with restriction, to maintain, to maintain with restriction or to withdraw the references to the harmonised standard concerned in or from the *Official Journal of the European Union*.
+
+The Commission shall inform the European standardisation body concerned and, if necessary, request the revision of the harmonised standards concerned.
+
+### Article 20a. Exercise of the delegation[^c000003]
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Article 5(3), Article 8(7), Article 14(4) and Article 15(1) shall be conferred on the Commission for a period of five years from 26 July 2019 . The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3. The delegation of power referred to in Article 5(3), Article 8(7), Article 14(4) and Article 15(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making [^f00024] .
+
+5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6. A delegated act adopted pursuant to Article 5(3), Article 8(7), Article 14(4) and Article 15(1) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 21. Committee procedure
+
+1. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health established by Article 58 of Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00025].
+
+2.[^c000004] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 22. Expenditure (affected by repeal, see note)[^c000005][^c000005]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 23. Transposition
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 26 November 2011 .
+
+When Member States adopt these measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The method of making such reference shall be laid down by Member States.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 24. Entry into force
+
+This Directive shall enter into force on the day following its publication in the *Official Journal of the European Union*.
+
+### Article 25. Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — Training subjects referred to in Article 5
+
+1\.
+
+All relevant legislation regarding pesticides and their use.
+
+2\.
+
+The existence and risks of illegal (counterfeit) plant protection products, and the methods to identify such products.
+
+3\.
+
+The hazards and risks associated with pesticides, and how to identify and control them, in particular:
+
+- ((a)) risks to humans (operators, residents, bystanders, people entering treated areas and those handling or eating treated items) and how factors such as smoking exacerbate these risks;
+- ((b)) symptoms of pesticide poisoning and first aid measures;
+- ((c)) risks to non-target plants, beneficial insects, wildlife, biodiversity and the environment in general.
+
+4\.
+
+Notions on integrated pest management strategies and techniques, integrated crop management strategies and techniques, organic farming principles, biological pest control methods, information on the general principles and crop or sector-specific guidelines for integrated pest management.
+
+5\.
+
+Initiation to comparative assessment at user level to help professional users make the most appropriate choices on pesticides with the least side effects on human health, non-target organisms and the environment among all authorised products for a given pest problem, in a given situation.
+
+6\.
+
+Measures to minimise risks to humans, non-target organisms and the environment: safe working practices for storing, handling and mixing pesticides, and disposing of empty packaging, other contaminated materials and surplus pesticides (including tank mixes), whether in concentrate or dilute form; recommended way to control operator exposure (personal protection equipment).
+
+7\.
+
+Risk-based approaches which take into account the local water extraction variables such as climate, soil and crop types, and relieves.
+
+8\.
+
+Procedures for preparing pesticide application equipment for work, including its calibration, and for its operation with minimum risks to the user, other humans, non-target animal and plant species, biodiversity and the environment, including water resources.
+
+9\.
+
+Use of pesticide application equipment and its maintenance, and specific spraying techniques (e.g. low-volume spraying and low-drift nozzles), as well as the objectives of the technical check of sprayers in use and ways to improve spray quality. Specific risks linked to use of handheld pesticide application equipment or knapsack sprayers and the relevant risk management measures.
+
+10\.
+
+Emergency action to protect human health, the environment including water resources in case of accidental spillage and contamination and extreme weather events that would result in pesticide leaching risks.
+
+11\.
+
+Special care in protection areas established under Articles 6 and 7 of Directive 2000/60/EC.
+
+12\.
+
+Health monitoring and access facilities to report on any incidents or suspected incidents.
+
+13\.
+
+Record keeping of any use of pesticides, in accordance with the relevant legislation.
+
+## ANNEX II — Health and safety and environmental requirements relating to the inspection of pesticide application equipment
+
+The inspection of pesticide application equipment shall cover all aspects important to achieve a high level of safety and protection of human health and the environment. Full effectiveness of the application operation should be ensured by proper performance of devices and functions of the equipment to guarantee the following objectives are met.
+
+The pesticide application equipment must function reliably and be used properly for its intended purpose ensuring that pesticides can be accurately dosed and distributed. The equipment must be in such a condition as to be filled and emptied safely, easily and completely and prevent leakage of pesticides. It must permit easy and thorough cleaning. It must also ensure safe operations, and be controlled and capable of being immediately stopped from the operator’s seat. Where necessary, adjustments must be simple, accurate and capable of being reproduced.
+
+Particular attention should be paid to:
+
+1\.
+
+Power transmission parts
+
+The power take-off driveshaft guard and the guard of the power input connection shall be fitted and in good condition and the protective devices and any moving or rotating power transmission parts shall not be affected in their function so as to ensure protection of the operator.
+
+2\.
+
+Pump
+
+The pump capacity shall be suited to the needs of the equipment and the pump must function properly in order to ensure a stable and reliable application rate. There shall be no leakages from the pump.
+
+3\.
+
+Agitation
+
+Agitation devices must ensure a proper recirculation in order to achieve an even concentration of the whole volume of the liquid spray mixture in the tank.
+
+4\.
+
+Spray liquid tank
+
+Spray tanks including indicator of tank content, filling devices, strainers and filters, emptying and rinsing systems, and mixing devices shall operate in such a way as to minimise accidental spillage, uneven concentration distribution, operator exposure and residual content.
+
+5\.
+
+Measuring systems, control and regulation systems
+
+All devices for measuring, switching on and off and adjusting pressure and/or flow rate shall be properly calibrated and work correctly and there shall be no leakages. Control of pressure and operation of pressure adjustment devices shall be easily possible during application. Pressure adjustment devices shall maintain a constant working pressure at constant revolutions of the pump, in order to ensure that a stable volume application rate is applied.
+
+6\.
+
+Pipes and hoses
+
+Pipes and hoses shall be in proper condition to avoid disturbance of liquid flow or accidental spillage in case of failure. There shall be no leakages from pipes or hoses when run with the maximum obtainable pressure for the system.
+
+7\.
+
+Filtering
+
+In order to avoid turbulence and heterogeneity in spray patterns, filters shall be in good condition and the mesh size of the filters shall correspond to the size of nozzles fitted on the sprayer. Where applicable the filter blockage indication system shall operate correctly.
+
+8\.
+
+Spray boom (for equipment spraying pesticides by means of a horizontally positioned boom, located close to the crop or the material to be treated).
+
+The spray boom must be in good condition and stable in all directions. The fixation and adjustment systems and the devices for damping unintended movements and slope compensation must work correctly.
+
+9\.
+
+Nozzles
+
+Nozzles must work properly to control dripping when spraying stops. To ensure homogeneity of the spray pattern, the flow rate of each individual nozzle shall not deviate significantly from the data of the flow rate tables provided by the manufacturer.
+
+10\.
+
+Distribution
+
+The transverse and vertical (in case of applications in vertical crops) distribution of the spray mixture in the target area must be even, where relevant.
+
+11\.
+
+Blower (for equipment distributing pesticides by air assistance)
+
+The blower must be in good condition and must ensure a stable and reliable air stream.
+
+## ANNEX III — General principles of integrated pest management
+
+1\.
+
+The prevention and/or suppression of harmful organisms should be achieved or supported among other options especially by:
+
+- crop rotation,
+- use of adequate cultivation techniques (e.g. stale seedbed technique, sowing dates and densities, under-sowing, conservation tillage, pruning and direct sowing),
+- use, where appropriate, of resistant/tolerant cultivars and standard/certified seed and planting material,
+- use of balanced fertilisation, liming and irrigation/drainage practices,
+- preventing the spreading of harmful organisms by hygiene measures (e.g. by regular cleansing of machinery and equipment),
+- protection and enhancement of important beneficial organisms, e.g. by adequate plant protection measures or the utilisation of ecological infrastructures inside and outside production sites.
+
+2\.
+
+Harmful organisms must be monitored by adequate methods and tools, where available. Such adequate tools should include observations in the field as well as scientifically sound warning, forecasting and early diagnosis systems, where feasible, as well as the use of advice from professionally qualified advisors.
+
+3\.
+
+Based on the results of the monitoring the professional user has to decide whether and when to apply plant protection measures. Robust and scientifically sound threshold values are essential components for decision making. For harmful organisms threshold levels defined for the region, specific areas, crops and particular climatic conditions must be taken into account before treatments, where feasible.
+
+4\.
+
+Sustainable biological, physical and other non-chemical methods must be preferred to chemical methods if they provide satisfactory pest control.
+
+5\.
+
+The pesticides applied shall be as specific as possible for the target and shall have the least side effects on human health, non-target organisms and the environment.
+
+6\.
+
+The professional user should keep the use of pesticides and other forms of intervention to levels that are necessary, e.g. by reduced doses, reduced application frequency or partial applications, considering that the level of risk in vegetation is acceptable and they do not increase the risk for development of resistance in populations of harmful organisms.
+
+7\.
+
+Where the risk of resistance against a plant protection measure is known and where the level of harmful organisms requires repeated application of pesticides to the crops, available anti-resistance strategies should be applied to maintain the effectiveness of the products. This may include the use of multiple pesticides with different modes of action.
+
+8\.
+
+Based on the records on the use of pesticides and on the monitoring of harmful organisms the professional user should check the success of the applied plant protection measures.
+
+## ANNEX IV[^c000006]
+
+### SECTION 1 — Harmonised Risk Indicators
+
+The harmonised risk indicators are listed in Sections 2 and 3 of this Annex.
+
+### SECTION 2 — Harmonised Risk Indicator 1: Hazard-based Harmonised Risk Indicator based on the quantities of active substances placed on the market in plant protection products under Regulation (EC) No 1107/2009
+
+1\.
+
+This indicator shall be based on statistics on the quantities of active substances placed on the market in plant protection products under Regulation (EC) No 1107/2009, provided to the Commission (Eurostat) under Annex I (Statistics on the placing on the market of pesticides) of Regulation (EC) No 1185/2009. Those data are categorised into 4 Groups, which are divided into 7 Categories.
+
+2\.
+
+The following general rules shall apply for the calculation of Harmonised Risk Indicator 1:
+
+- ((a)) the Harmonised Risk Indicator 1 shall be calculated on the basis of the categorisation of active substances into the 4 Groups and 7 Categories set out in Table 1;
+- ((b)) the active substances in Group 1 (categories A and B) shall be those listed in Part D of the Annex to Commission Implementing Regulation (EU) No 540/2011 [^f00026] ;
+- ((c)) the active substances in Group 2 (categories C and D) shall be those listed in Parts A and B of the Annex to Implementing Regulation (EU) No 540/2011;
+- ((d)) the active substances in Group 3 (categories E and F) shall be those listed in Part E of the Annex to Implementing Regulation (EU) No 540/2011;
+- ((e)) the active substances in Group 4 (category G) shall be those not approved under Regulation (EC) No 1107/2009, and therefore not listed in the Annex to Implementing Regulation (EU) No 540/2011;
+- ((f)) the weightings in row (vi) in Table 1 shall apply.
+
+3\.
+
+Harmonised Risk Indicator 1 shall be calculated by multiplying the annual quantities of active substances placed on the market for each Group in Table 1 by the relevant hazard weighting set out in Row (vi), followed by the aggregation of the results of these calculations.
+
+4\.
+
+The quantities of active substances placed on the market for each Group and Category in Table 1 may be calculated.
+
+*Table 1*
+
+**Categorisation of active substances and hazard weightings for the purpose of calculating Harmonised Risk Indicator 1**
+
+<table>
+<tbody>
+<tr><th rowspan="2">Row</th><th colspan="7">Groups</th></tr>
+<tr><th colspan="2">1</th><th colspan="2">2</th><th colspan="2">3</th><th>4</th></tr>
+<tr><td>(i)</td><td colspan="2">Low-risk active substances which are approved or deemed to be approved under Article 22 of Regulation (EC) No 1107/2009, and which are listed in Part D of the Annex to Implementing Regulation (EU) No 540/2011</td><td colspan="2">Active substances approved or deemed to be approved under Regulation (EC) No 1107/2009, and not falling in other categories, and which are listed in Parts A and B of the Annex to Implementing Regulation (EU) No 540/2011</td><td colspan="2">Active substances approved or deemed to be approved under Article 24 of Regulation (EC) No 1107/2009, which are candidates for substitution, and which are listed in Part E of the Annex to Implementing Regulation (EU) No 540/2011</td><td>Active substances which are not approved under Regulation (EC) No 1107/2009, and therefore which are not listed in the Annex to Implementing Regulation (EU) No 540/2011</td></tr>
+<tr><td>(ii)</td><td colspan="7">Categories</td></tr>
+<tr><td>(iii)</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td></tr>
+<tr><td>(iv)</td><td>Micro-organisms</td><td>Chemical active substances</td><td>Micro-organisms</td><td>Chemical active substances</td><td>Which are not classified as:<br>Carcinogenic Category 1A or 1B<br>and/or<br>Toxic for Reproduction Category 1A or 1B<br>and/or<br>Endocrine disruptors</td><td>Which are classified as:<br>Carcinogenic Category 1A or 1B<br>and/or<br>Toxic for Reproduction Category 1A or 1B<br>and/or<br>Endocrine disruptors, where exposure of humans is negligible</td><td></td></tr>
+<tr><td>(v)</td><td colspan="7">Hazard Weightings applicable to quantities of active substances placed on the market in products authorised under Regulation (EC) No 1107/2009</td></tr>
+<tr><td>(vi)</td><td colspan="2">1</td><td colspan="2">8</td><td colspan="2">16</td><td>64</td></tr>
+</tbody>
+</table>
+
+5\.
+
+The baseline for Harmonised Risk Indicator 1 shall be set at 100, and is equal to the average result of the above calculation for the period 2011-2013.
+
+6\.
+
+The result of Harmonised Risk Indicator 1 shall be expressed by reference to the baseline.
+
+7\.
+
+The Member States and the Commission shall calculate and publish the Harmonised Risk Indicator 1 in accordance with Article 15(2) and 15(4) of Directive 2009/128/EC for each calendar year and at the latest 20 months after the end of the year for which the Harmonised Risk Indicator 1 is being calculated.
+
+### SECTION 3 — Harmonised Risk Indicator 2: Harmonised Risk Indicator based on the number of authorisations granted under Article 53 of Regulation (EC) No 1107/2009
+
+1\.
+
+This indicator shall be based on the number of authorisations granted for plant protection products under Article 53 of Regulation (EC) No 1107/2009 as communicated to the Commission in accordance with Article 53(1) of that Regulation. Those data are categorised into 4 Groups, which are divided into 7 Categories.
+
+2\.
+
+The following general rules shall apply for the calculation of the Harmonised Risk Indicator 2:
+
+- ((a)) the Harmonised Risk Indicator 2 shall be based on the number of authorisations granted under Article 53 of Regulation (EC) No 1107/2009. It shall be calculated on the basis of the categorisation of active substances into the 4 Groups and 7 Categories set out in Table 2 of this Section;
+- ((b)) the active substances in Group 1 (categories A and B) are listed in Part D of the Annex to Implementing Regulation (EU) No 540/2011;
+- ((c)) the active substances in Group 2 (categories C and D) are those listed in Parts A and B of the Annex to Implementing Regulation (EU) No 540/2011;
+- ((d)) the active substances in Group 3 (categories E and F) shall be those listed in Part E of the Annex to Implementing Regulation (EU) No 540/2011;
+- ((e)) the active substances in Group 4 (category G) shall be those not approved under Regulation (EC) No 1107/2009, and therefore not listed in the Annex to Implementing Regulation (EU) No 540/2011;
+- ((f)) The weightings in row (vi) in Table 2 of this Section shall apply.
+
+3\.
+
+The Harmonised Risk Indicator 2 shall be calculated by multiplying the number of authorisations granted for plant protection products under Article 53 of Regulation (EC) No 1107/2009 for each Group in Table 2 by the relevant hazard weighting set out in Row (vi), followed by the aggregation of the results of these calculations.
+
+*Table 2*
+
+**Categorisation of active substances and hazard weightings for the purpose of calculating Harmonised Risk Indicator 2**
+
+<table>
+<tbody>
+<tr><th rowspan="2">Row</th><th colspan="7">Groups</th></tr>
+<tr><th colspan="2">1</th><th colspan="2">2</th><th colspan="2">3</th><th>4</th></tr>
+<tr><td>(i)</td><td colspan="2">Low-risk active substances which are approved or deemed to be approved under Article 22 of Regulation (EC) No 1107/2009, and which are listed in Part D of the Annex to Implementing Regulation (EU) No 540/2011</td><td colspan="2">Active substances approved or deemed to be approved under Regulation (EC) No 1107/2009, and not falling in other categories, and which are listed in Parts A and B of the Annex to Implementing Regulation (EU) No 540/2011</td><td colspan="2">Active substances approved or deemed to be approved under Article 24 of Regulation (EC) No 1107/2009, which are candidates for substitution, and which are listed in Part E of the Annex to Implementing Regulation (EU) No 540/2011</td><td>Active substances which are not approved under Regulation (EC) No 1107/2009, and therefore which are not listed in the Annex to Implementing Regulation (EU) No 540/2011</td></tr>
+<tr><td>(ii)</td><td colspan="7">Categories</td></tr>
+<tr><td>(iii)</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td></tr>
+<tr><td>(iv)</td><td>Micro-organisms</td><td>Chemical active substances</td><td>Micro-organisms</td><td>Chemical active substances</td><td>Which are not classified as:<br>Carcinogenic Category 1A or 1B<br>and/or<br>Toxic for Reproduction Category 1A or 1B<br>and/or<br>Endocrine disruptors</td><td>Which are classified as:<br>Carcinogenic Category 1A or 1B<br>and/or<br>Toxic for Reproduction Category 1A or 1B<br>and/or<br>Endocrine disruptors where exposure of humans is negligible</td><td></td></tr>
+<tr><td>(v)</td><td colspan="7">Hazard Weightings applicable to the number of authorisations granted under Article 53 of Regulation (EC) No 1107/2009</td></tr>
+<tr><td>(vi)</td><td colspan="2">1</td><td colspan="2">8</td><td colspan="2">16</td><td>64</td></tr>
+</tbody>
+</table>
+
+4\.
+
+The baseline for Harmonised Risk Indicator 2 shall be set at 100, and is equal to the average result of the above calculation for the period 2011-2013.
+
+5\.
+
+The result of the Harmonised Risk Indicator 2 shall be expressed by reference to the baseline.
+
+6\.
+
+The Member States and the Commission shall calculate and publish the Harmonised Risk Indicator 2 in accordance with Article 15(2) and 15(4) of Directive 2009/128/EC for each calendar year and at the latest 20 months after the end of the year for which Harmonised Risk Indicator 2 is being calculated.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ C 161, 13.7.2007, p. 48](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2007.161.01.0048.01.ENG).
+
+[^f00002]: Footnote: [OJ C 146, 30.6.2007, p. 48](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2007.146.01.0048.01.ENG).
+
+[^f00003]: Footnote: Opinion of the European Parliament of 23 October 2007 ([OJ C 263 E, 16.10.2008, p. 158](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2008.263E.01.0158.01.ENG)), Council Common Position of 19 May 2008 ([OJ C 254 E, 7.10.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2008.254E.01.0001.01.ENG)) and Position of the European Parliament of 13 January 2009 (not yet published in the Official Journal). Council Decision of 24 September 2009.
+
+[^f00004]: Footnote: [OJ L 242, 10.9.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.242.01.0001.01.ENG).
+
+[^f00005]: Footnote: [OJ L 103, 25.4.1979, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1979.103.01.0001.01.ENG).
+
+[^f00006]: Footnote: [OJ L 206, 22.7.1992, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1992.206.01.0007.01.ENG).
+
+[^f00007]: Footnote: [OJ L 327, 22.12.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.327.01.0001.01.ENG).
+
+[^f00008]: Footnote: [OJ L 70, 16.3.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.070.01.0001.01.ENG).
+
+[^f00009]: Footnote: See page 1 of this Official Journal.
+
+[^f00010]: Footnote: [OJ L 277, 21.10.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.277.01.0001.01.ENG).
+
+[^f00011]: Footnote: [OJ L 156, 25.6.2003, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.156.01.0017.01.ENG).
+
+[^f00012]: Footnote: [OJ L 131, 5.5.1998, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.131.01.0011.01.ENG).
+
+[^f00013]: Footnote: [OJ L 158, 30.4.2004, p. 50](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.158.01.0050.01.ENG).
+
+[^f00014]: Footnote: [OJ L 157, 9.6.2006, p. 24](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.157.01.0024.01.ENG).
+
+[^f00015]: Footnote: [OJ L 114, 27.4.2006, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.114.01.0009.01.ENG).
+
+[^f00016]: Footnote: [OJ L 377, 31.12.1991, p. 20](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.377.01.0020.01.ENG).
+
+[^f00017]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
+
+[^f00018]: Footnote: [OJ C 321, 31.12.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2003.321.01.0001.01.ENG).
+
+[^f00019]: Footnote: [OJ L 123, 24.4.1998, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.123.01.0001.01.ENG).
+
+[^f00020]: Footnote: [OJ L 230, 19.8.1991, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.230.01.0001.01.ENG).
+
+[^c000001]: Editorial: Substituted by [Corrigendum to Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides (Official Journal of the European Union L 309 of 24 November 2009)](https://www.legislation.gov.uk/eudr/2009/128/pdfs/eudrcs_20090128_en_001.pdf).
+
+[^c000002]: Textual amendment: Substituted by [Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1243).
+
+[^f00021]: Footnote: [OJ L 200, 30.7.1999, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.200.01.0001.01.ENG).
+
+[^f00022]: Footnote: [OJ L 189, 20.7.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.189.01.0001.01.ENG).
+
+[^f00023]: Footnote: [OJ L 204, 21.7.1998, p. 37](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.204.01.0037.01.ENG).
+
+[^c000003]: Textual amendment: Inserted by [Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1243).
+
+[^f00024]: Footnote: [OJ L 123, 12.5.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.123.01.0001.01.ENG)[^c000003] .
+
+[^f00025]: Footnote: [OJ L 31, 1.2.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.031.01.0001.01.ENG).
+
+[^c000004]: Textual amendment: Deleted by [Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1243).
+
+[^c000005]: Textual amendment: Deleted by [Regulation (EU) No 652/2014 of the European Parliament and of the Council of 15 May 2014 laying down provisions for the management of expenditure relating to the food chain, animal health and animal welfare, and relating to plant health and plant reproductive material, amending Council Directives 98/56/EC, 2000/29/EC and 2008/90/EC, Regulations (EC) No 178/2002, (EC) No 882/2004 and (EC) No 396/2005 of the European Parliament and of the Council, Directive 2009/128/EC of the European Parliament and of the Council and Regulation (EC) No 1107/2009 of the European Parliament and of the Council and repealing Council Decisions 66/399/EEC, 76/894/EEC and 2009/470/EC](https://www.legislation.gov.uk/eur/2014/652).
+
+[^c000006]: Textual amendment: Substituted by [Commission Directive (EU) 2019/782 of 15 May 2019 amending Directive 2009/128/EC of the European Parliament and of the Council as regards the establishment of harmonised risk indicators (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/782).
+
+[^f00026]: Footnote: Commission Implementing Regulation (EU) No 540/2011 of[^c000006] 25 May 2011 implementing Regulation (EC) No 1107/2009 of the European Parliament and of the Council as regards the list of approved active substances ( [OJ L 153, 11.6.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.153.01.0001.01.ENG) ).

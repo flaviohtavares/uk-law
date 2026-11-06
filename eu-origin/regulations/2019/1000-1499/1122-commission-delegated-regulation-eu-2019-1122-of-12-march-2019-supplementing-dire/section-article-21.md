@@ -1,0 +1,41 @@
+---
+title: Commission Delegated Regulation (EU) 2019/1122 of 12 March 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council as regards the functioning of the Union Registry (Text with EEA relevance), section Article 21
+act: Commission Delegated Regulation (EU) 2019/1122 of 12 March 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council as regards the functioning of the Union Registry (Text with EEA relevance)
+section: Article 21
+status: revised
+text_date: '2021-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2019/1122/section/Article 21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2019/1122 of 12 March 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council as regards the functioning of the Union Registry (Text with EEA relevance), section Article 21
+
+> Text as at 2021-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 21. Nominating and approval of authorised representatives
+
+*Extent: E+W+S+N.I.*
+
+1. When requesting the opening of an account or the registration of a verifier, the prospective account holder or verifier shall nominate a number of authorised representatives in accordance with Article 20.
+
+2. When nominating an authorised representative, the account holder shall provide information as required by the administrator. That information shall include, at a minimum, the information set out in Annex VIII.
+
+If the prospective authorised representative has already been nominated to an account and if the account holder so requests, the national administrator may use the documentation that was submitted at the earlier nomination for the purposes of verification referred to in paragraph 4.
+
+3. Within 20 working days of the receipt of a complete set of information required in accordance with paragraph 2, the national administrator shall approve an authorised representative, or inform the account holder of its refusal. Where evaluation of the nominee information requires more time, the administrator may extend the evaluation process by up to 20 additional working days, and notify the extension to the account holder.
+
+4. The national administrator shall verify whether the information and documents provided for nominating an authorised representative are complete, up-to-date, accurate and true.
+
+In the event of justified doubts, the national administrator may request assistance by another national administrator in carrying out the verification referred to in the first subparagraph. The administrator that has received such request may refuse it. The prospective account holder or verifier may explicitly ask the national administrator to request such assistance. The national administrator shall inform the prospective account holder or verifier of such assistance request.
+
+5. A national administrator may refuse to approve an authorised representative:
+
+- (a) if the information and documents provided are incomplete, out-of-date or otherwise inaccurate or false;
+- (b) if a law enforcement authority provides information or if information is available by other means to a national administrator that the prospective representative is under investigation or has been convicted in the preceding five years for fraud involving allowances, money laundering, terrorist financing or other serious crimes for which the account may be an instrument;
+- (c) for reasons set out in national law.
+
+6. If the national administrator refused to approve an authorised representative, the account holder may object to the relevant authority under national law, who shall either instruct the national administrator to approve the representative or uphold the refusal in a reasoned decision, subject to requirements of national law that pursue a legitimate objective compatible with this Regulation and are proportionate.

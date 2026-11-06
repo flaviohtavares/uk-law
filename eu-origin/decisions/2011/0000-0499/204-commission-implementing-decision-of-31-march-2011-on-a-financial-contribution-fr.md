@@ -1,0 +1,114 @@
+---
+title: Commission Implementing Decision of 31 March 2011 on a financial contribution from the Union towards emergency measures to combat avian influenza in Denmark and the Netherlands in 2010 (notified under document C(2011) 1979) (Only the Danish and Dutch texts are authentic) (2011/204/EU)
+id: eudn/2011/204
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2011-03-31'
+text_date: '2011-03-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2011/204
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2011/204/pdfs/eudn_20110204_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2011/204/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Decision of 31 March 2011 on a financial contribution from the Union towards emergency measures to combat avian influenza in Denmark and the Netherlands in 2010 (notified under document C(2011) 1979) (Only the Danish and Dutch texts are authentic) (2011/204/EU)
+
+> Text as at 2011-03-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Decision
+
+of 31 March 2011
+
+on a financial contribution from the Union towards emergency measures to combat avian influenza in Denmark and the Netherlands in 2010
+
+(notified under document C(2011) 1979)
+
+(Only the Danish and Dutch texts are authentic)
+
+(2011/204/EU)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Decision 2009/470/EC of 25 May 2009 on expenditure in the veterinary field[^f00001], and in particular Article 4(2) thereof,
+
+Whereas:
+
+(1)
+
+Avian influenza is an infectious viral disease of poultry and other captive birds with a severe impact on the profitability of poultry farming causing disturbance to trade within the Union and export to third countries.
+
+(2)
+
+In the event of an outbreak of avian influenza, there is a risk that the disease agent spreads to other poultry holdings within that Member State, but also to other Member States and to third countries through trade in live poultry or their products.
+
+(3)
+
+Council Directive 2005/94/EC[^f00002] introducing Union measures for the control of avian influenza sets out measures which in the event of an outbreak have to be immediately implemented by Member States as a matter of urgency to prevent further spread of the virus.
+
+(4)
+
+Decision 2009/470/EC lays down the procedures governing the financial contribution from the Union towards specific veterinary measures, including emergency measures. Pursuant to Article 4(2) of that Decision, Member States shall obtain a financial contribution towards the costs of certain measures to eradicate avian influenza.
+
+(5)
+
+Article 4(3), first and second indents of Decision 2009/470/EC lays down rules on the percentage of the costs incurred by the Member State that may be covered by the financial contribution from the Union.
+
+(6)
+
+The payment of a financial contribution from the Union towards emergency measures to eradicate avian influenza is subject to the rules laid down in Commission Regulation (EC) No 349/2005 of 28 February 2005 laying down rules on the Community financing of emergency measures and of the campaign to combat certain animal diseases under Council Decision 90/424/EEC[^f00003].
+
+(7)
+
+Outbreaks of avian influenza occurred in Denmark in March 2010 and the Netherlands in May 2010. Denmark and the Netherlands took measures in accordance with Directive 2005/94/EC to combat those outbreaks.
+
+(8)
+
+The authorities of Denmark and the Netherlands were able to demonstrate through reports provided in the Standing Committee on the Food Chain and Animal Health and continuous submission of information on the development of the disease situation that they have efficiently implemented the control measures provided for in Directive 2005/94/EC leading to the rapid containment of the disease.
+
+(9)
+
+The authorities of Denmark and the Netherlands have therefore fulfilled all their technical and administrative obligations with regard to the measures provided for in Article 4(2) of Decision 2009/470/EC and Article 6 of Regulation (EC) No 349/2005.
+
+(10)
+
+The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1. Financial contribution from the Union to Denmark and the Netherlands
+
+1. A financial contribution from the Union may be granted to Denmark and the Netherlands towards the costs incurred by these Member States in taking measures pursuant to Article 4(2) and (3) of Decision 2009/470/EC, to combat avian influenza in Denmark in March 2010 and in the Netherlands in May 2010.
+
+2. The financial contribution mentioned in paragraph 1 shall be fixed in a subsequent decision to be adopted in accordance with the procedure established in Article 40(2) of Decision 2009/470/EC.
+
+## Article 2. Addressees
+
+This Decision is addressed to the Kingdom of Denmark and Kingdom of the Netherlands.
+
+Done at Brussels, 31 March 2011.
+
+*For the Commission*
+
+John Dalli
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 155, 18.6.2009, p. 30](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.155.01.0030.01.ENG).
+
+[^f00002]: Footnote: [OJ L 10, 14.1.2006, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.010.01.0016.01.ENG).
+
+[^f00003]: Footnote: [OJ L 55, 1.3.2005, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.055.01.0012.01.ENG).

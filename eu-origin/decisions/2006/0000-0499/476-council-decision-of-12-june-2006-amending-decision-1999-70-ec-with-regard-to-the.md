@@ -1,0 +1,94 @@
+---
+title: Council Decision of 12 June 2006 amending Decision 1999/70/EC with regard to the external auditors of the Banque de France (2006/476/EC)
+id: eudn/2006/476
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2006-06-12'
+text_date: '2006-06-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2006/476
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2006/476/pdfs/eudn_20060476_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2006/476/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision of 12 June 2006 amending Decision 1999/70/EC with regard to the external auditors of the Banque de France (2006/476/EC)
+
+> Text as at 2006-06-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision
+
+of 12 June 2006
+
+amending Decision 1999/70/EC with regard to the external auditors of the Banque de France
+
+(2006/476/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Protocol on the statute of the European system of central banks and of the European Central Bank, annexed to the Treaty establishing the European Community, and in particular to Article 27(1) thereof,
+
+Having regard to the Council Decision 1999/70/EC of 25 January 1999 concerning the external auditors of the national central banks[^f00001],
+
+Having regard to Recommendation ECB/2006/5 of the European Central Bank of 13 April 2006 to the Council of the European Union on the external auditors of the Banque de France[^f00002],
+
+Whereas:
+
+(1)
+
+Pursuant to Article 27(1) of the Protocol on the statute of the European system of central banks and of the European Central Bank (hereinafter referred to as the ‘ECB’), the accounts of the ECB and national central banks of the Eurosystem are to be audited by independent external auditors recommended by the Governing Council of the ECB and approved by the Council of the European Union.
+
+(2)
+
+Pursuant to Article L.142-6 of the French Monetary and Financial Code, the General Council of the Banque de France appoints two statutory auditors entrusted with auditing the accounts of the Banque de France. Pursuant to Article L.823-1 of the French Commercial Code, a deputy auditor is appointed to replace the incumbent auditors in the event of their refusal, unavailability, resignation or death.
+
+(3)
+
+The mandate of the current external auditors of the Banque de France will end after the audit of the financial year 2005. It is therefore necessary to appoint external auditors from the financial year 2006.
+
+(4)
+
+The Banque de France has selected Deloitte & Associés and Mazars & Guerard as its external auditors and KPMG S.A. as its deputy auditor for the financial years 2006 to 2011 in accordance with its public procurement rules, and the ECB considers that they fulfil the necessary requirements for appointment.
+
+(5)
+
+The ECB considers that the external auditors selected by the Banque de France fulfil the necessary requirements for appointment and therefore the ECB Governing Council recommends that Deloitte & Associés and Mazars & Guerard should jointly be appointed as external auditors and that KPMG S.A. should be appointed as deputy auditor, for the financial years 2006 to 2011.
+
+(6)
+
+It is therefore appropriate to follow the recommendation of the ECB Governing Council and to amend Decision 1999/70/EC accordingly,
+
+HAS DECIDED AS FOLLOWS:
+
+**Article 1.** Article 1(4) of Decision 1999/70/EC shall be replaced by the following:
+
+> 4. Deloitte & Associés and Mazars & Guerard are hereby approved jointly as the external auditors of the Banque de France for the financial years 2006 to 2011.
+>
+> KPMG S.A. is hereby approved as the deputy auditor of the Banque de France for the financial years 2006 to 2011.
+
+**Article 2.** This Decision shall be notified to the European Central Bank.
+
+**Article 3.** This Decision shall be published in the *Official Journal of the European Union*.
+
+Done at Luxembourg, 12 June 2006.
+
+*For the Council*
+
+*The President*
+
+U. Plassnik
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 22, 29.1.1999, p. 69](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.022.01.0069.01.ENG). Decision as last amended by Decision 2006/212/EC ([OJ L 79, 16.3.2006, p. 25](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.079.01.0025.01.ENG)).
+
+[^f00002]: Footnote: [OJ C 98, 26.4.2006, p. 25](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2006.098.01.0025.01.ENG).

@@ -1,0 +1,2781 @@
+---
+title: Commission Decision of 26 January 2005 amending Decisions 2001/881/EC and 2002/459/EC as regards the list of border inspection posts (notified under document number C(2005) 126) (Text with EEA relevance) (2005/102/EC)
+id: eudn/2005/102
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2005-01-26'
+text_date: '2005-01-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2005/102
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2005/102/pdfs/eudn_20050102_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2005/102/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Decision of 26 January 2005 amending Decisions 2001/881/EC and 2002/459/EC as regards the list of border inspection posts (notified under document number C(2005) 126) (Text with EEA relevance) (2005/102/EC)
+
+> Text as at 2005-01-26.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Decision
+
+of 26 January 2005
+
+amending Decisions 2001/881/EC and 2002/459/EC as regards the list of border inspection posts
+
+(notified under document number C(2005) 126)
+
+(Text with EEA relevance)
+
+(2005/102/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market, and in particular Article 20(3) thereof[^f00001],
+
+Having regard to Council Directive 91/496/EEC of 15 July 1991 laying down the principles governing the organisation of veterinary checks on animals entering the Community from third countries and amending Directives 89/662/EEC, 90/425/EEC and 90/675/EEC[^f00002], and in particular Article 6(4) thereof,
+
+Having regard to Council Directive 97/78/EC of 18 December 1997 laying down the principles governing the organisation of veterinary checks on products entering the Community from third countries[^f00003], and in particular Article 6(2) thereof,
+
+Whereas:
+
+(1)
+
+Commission Decision 2001/881/EC of 7 December 2001 drawing up a list of border inspection posts agreed for veterinary checks on animals and animal products from third countries and updating the detailed rules concerning the checks to be carried out by the experts of the Commission[^f00004] should be updated to take account in particular of developments in certain Member States regarding those posts and of inspections carried out in accordance with that Decision. The list of border inspection posts set out in Decision 2001/881/EC (the list) includes the TRACES unit number for every border inspection post. TRACES is a computerised system introduced by Commission Decision 2004/292/EC[^f00005] and replacing the previous Animo system, which is based on the network introduced by Commission Decision 91/398/EEC[^f00006], for tracing movements of animals and certain products in intra-Community trade and imports.
+
+(2)
+
+Following a satisfactory inspection in accordance with Decision 2001/881/EC, additional border inspection posts at Daugavpils, Riga, Rezekne and Ventspils in Latvia, at Castellón in Spain, and at Gyékényes, Kelebia and Eperjeske in Hungary should be added to the list.
+
+(3)
+
+At the request of the United Kingdom the port of North Shields, and at the request of France, Divonne and the port of La Rochelle Rochefort should be deleted from the list.
+
+(4)
+
+In addition, the list should be updated to take account of recent changes concerning categories of animals or products which can be checked in the posts and the organisation of inspection centres within the posts, for a number of border inspection posts already approved in accordance with Decision 2001/881/EC.
+
+(5)
+
+The list has been amended a number of times. Accordingly, in the interests of clarity of Community legislation, it is appropriate to replace it by the list set out in this Decision. Decision 2001/881/EC should therefore be amended accordingly.
+
+(6)
+
+The list of units in Commission Decision 2002/459/EC of 4 June 2002 listing the units in the Animo computer network and repealing Decision 2000/287/EC[^f00007] includes the TRACES unit number for each border inspection post in the Community. In the interests of consistency of Community legislation, that list should accordingly be updated to take account of any relevant changes and to maintain an identical list to that set out in Decision 2001/881/EC. Decision 2002/459/EC should therefore be amended accordingly.
+
+(7)
+
+The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** The Annex to Decision 2001/881/EC is replaced by the text in Annex I to this Decision.
+
+**Article 2.** The Annex to Decision 2002/459/EC is amended in accordance with Annex II to this Decision.
+
+**Article 3.** This Decision is addressed to the Member States.
+
+Done at Brussels, 26 January 2005.
+
+*For the Commission*
+
+Markos Kyprianou
+
+*Member of the Commission*
+
+## ANNEX I
+
+> PŘÍLOHA — BILAG — ANHANG — LISA — ΠΑΡΑΡΤΗΜΑ — ANNEX — ANEXO — ANNEXE — ALLEGATO — PIELIKUMS — PRIEDAS — MELLÉKLET — ANNESS — BIJLAGE — ZAŁĄCZNIK — ANEXO — PRÍLOHA — PRILOGA — LIITE — BILAGA
+>
+> SEZNAM SCHVÁLENÝCH STANOVIŠŤ HRANIČNÍCH KONTROL
+>
+> LISTE OVER GODKENDTE GRÆNSEKONTROLSTEDER
+>
+> VERZEICHNIS DER ZUGELASSENEN GRENZKONTROLLSTELLEN
+>
+> KOKKULEPITUD PIIRIKONTROLLI PUNKTIDE NIMEKIRI
+>
+> ΚΑΤΑΛΟΓΟΣ ΤΩΝ ΕΓΚΕΚΡΙΜΕΝΩΝ ΜΕΘΟΡΙΑΚΩΝ ΣΤΑΘΜΩΝ ΕΠΙΘΕΩΡΗΣΗΣ
+>
+> LIST OF AGREED BORDER INSPECTIONS POSTS
+>
+> LISTA DE PUESTOS DE INSPECCIÓN FRONTERIZOS AUTORIZADOS
+>
+> LISTES DES POSTES D'INSPECTION FRONTALIERS AGRÉES
+>
+> ELENCO DEI POSTI DI ISPEZIONE FRONTALIERI RICONOSCIUTI
+>
+> APSTIPRINĀTO ROBEŽKONTROLES PUNKTU SARAKSTS
+>
+> SUTARTŲ PASIENIO KONTROLĖS POSTŲ SĄRAŠAS
+>
+> A MEGÁLLAPODÁS SZERINTI HATÁRELLENŐRZŐ PONTOK
+>
+> LISTA TA' POSTIJIET MIFTIEHMA GĦAL SPEZZJONIJIET TA' FRUNTIERA
+>
+> LIJST VAN DE ERKENDE INSPECTIEPOSTEN AAN DE GRENS
+>
+> WYKAZ UZGODNIONYCH PUNKTÓW KONTROLI GRANICZNEJ
+>
+> LISTA DOS POSTOS DE INSPECÇÃO APROVADOS
+>
+> ZOZNAM SCHVÁLENÝCH HRANIČNÝCH INŠPEKČNÝCH STANÍC
+>
+> SEZNAM DOGOVORJENIH MEJNIH KONTROLNIH TOČK
+>
+> LUETTELO HYVÄKSYTYISTÄ RAJATARKASTUSASEMISTA
+>
+> FÖRTECKNING ÖVER GODKÄNDA GRÄNSKONTROLLSTATIONER
+>
+> 1
+>
+> Název
+>
+> Navn
+>
+> Name
+>
+> Nimi
+>
+> Ονομασία
+>
+> Name
+>
+> Nombre
+>
+> Nom
+>
+> Nome
+>
+> Vārds
+>
+> Pavadinimas
+>
+> Név
+>
+> Isem
+>
+> Naam
+>
+> Nazwa
+>
+> Nome
+>
+> Meno
+>
+> Ime
+>
+> Nimi
+>
+> Namn
+>
+> 2
+>
+> TRACES kód
+>
+> Traces-kode
+>
+> TRACES-Code
+>
+> Traces-kood
+>
+> Κωδικός Traces
+>
+> Traces Code
+>
+> Código Traces
+>
+> Code Traces
+>
+> Codice Traces
+>
+> Dzīvnieka kods
+>
+> TRACES kodas
+>
+> Traces-kód
+>
+> Kodiċi-Traces
+>
+> Traces-code
+>
+> Kod Traces
+>
+> Código Traces
+>
+> Kód Traces
+>
+> Traces-koda
+>
+> Traces-koodi
+>
+> Traces-kod
+>
+> 3
+>
+> Typ
+>
+> Type
+>
+> Art
+>
+> Tüüp
+>
+> Φύση
+>
+> Type
+>
+> Tipo
+>
+> Type
+>
+> Tipo
+>
+> Tips
+>
+> Tipas
+>
+> Típus
+>
+> Tip
+>
+> Type
+>
+> Rodzaj punktu
+>
+> Tipo
+>
+> Typ
+>
+> Tip
+>
+> Tyyppi
+>
+> Typ
+>
+> A
+>
+> Letiště
+>
+> Lufthavn
+>
+> Flughafen
+>
+> Lennujaam
+>
+> Αεροδρόμιο
+>
+> Airport
+>
+> Aeropuerto
+>
+> Aéroport
+>
+> Aeroporto
+>
+> Lidosta
+>
+> Oro uostas
+>
+> Repülőtér
+>
+> Ajruport
+>
+> Luchthaven
+>
+> Na lotnisku
+>
+> Aeroporto
+>
+> Letisko
+>
+> Letališče
+>
+> Lentokenttä
+>
+> Flygplats
+>
+> F
+>
+> Železnice
+>
+> Jernbane
+>
+> Schiene
+>
+> Raudtee
+>
+> Σιδηρόδρομος
+>
+> Raila
+>
+> Ferrocarril
+>
+> Rail
+>
+> Ferrovia
+>
+> Dzelzceļš
+>
+> Geležinkelis
+>
+> Vasút
+>
+> Ferrovija
+>
+> Spoorweg
+>
+> Na przejściu kolejowym
+>
+> Caminho-de-ferro
+>
+> Železnica
+>
+> Železnica
+>
+> Rautatie
+>
+> Järnväg
+>
+> P
+>
+> Přístav
+>
+> Havn
+>
+> Hafen
+>
+> Sadam
+>
+> Λιμένας
+>
+> Port
+>
+> Puerto
+>
+> Port
+>
+> Porto
+>
+> Osta
+>
+> Uostas
+>
+> Kikötő
+>
+> Port
+>
+> Zeehaven
+>
+> Na przejściu morskim
+>
+> Porto
+>
+> Prístav
+>
+> Pristanišče
+>
+> Satama
+>
+> Hamn
+>
+> R
+>
+> Silnice
+>
+> Landevej
+>
+> Straße
+>
+> Maantee
+>
+> Οδός
+>
+> Road
+>
+> Carretera
+>
+> Route
+>
+> Strada
+>
+> Ceļš
+>
+> Kelias
+>
+> Közút
+>
+> Triq
+>
+> Weg
+>
+> Na przejściu drogowym
+>
+> Estrada
+>
+> Cesta
+>
+> Cesta
+>
+> Maantie
+>
+> Väg
+>
+> 4
+>
+> Kontrolní středisko
+>
+> Inspektionscenter
+>
+> Kontrollzentrum
+>
+> Kontrollkeskus
+>
+> Κέντρo ελέγχου
+>
+> Inspection centre
+>
+> Centro de inspección
+>
+> Centre d’inspection
+>
+> Centro d’ispezione
+>
+> Pārbaudes centrs
+>
+> Kontrolės centras
+>
+> Ellenőrző központ
+>
+> Ċentru ta' spezzjoni
+>
+> Inspectiecentrum
+>
+> Ośrodek kontroli
+>
+> Centro de inspecção
+>
+> Inšpekčné stredisko
+>
+> Kontrolno središče
+>
+> Tarkastuskeskus
+>
+> Kontrollcentrum
+>
+> 5
+>
+> Produkty
+>
+> Produkter
+>
+> Erzeugnisse
+>
+> Tooted
+>
+> Προϊόντα
+>
+> Products
+>
+> Productos
+>
+> Produits
+>
+> Prodotti
+>
+> Produkti
+>
+> Produktai
+>
+> Termékek
+>
+> Prodotti
+>
+> Producten
+>
+> Produkty
+>
+> Produtos
+>
+> Produkty
+>
+> Proizvodi
+>
+> Tuotteet
+>
+> Produkter
+>
+> HC
+>
+> Všechny výrobky pro lidskou spotřebu
+>
+> Alle produkter til konsum
+>
+> Alle zum menschlichen Verzehr bestimmten Erzeugnisse
+>
+> Kõik inimtarbitavad tooted
+>
+> Όλα τα προϊόντα για ανθρώπινη κατανάλωση
+>
+> All Products for Human Consumption
+>
+> Todos los productos destinados al consumo humano
+>
+> Tous produits de consommation humaine
+>
+> Prodotti per il consumo umano
+>
+> Visi patēriņa produkti
+>
+> Visi žmonių maistui tinkami vartoti produktai
+>
+> Az emberi fogyasztásra szánt összes termék
+>
+> Il-Prodotti kollha għall-Konsum tal-Bniedem
+>
+> Producten voor menselijke consumptie
+>
+> Produkty przeznaczone do spożycia przez ludzi
+>
+> Todos os produtos para consumo humano
+>
+> Všetky produkty na ľudskú spotrebu
+>
+> Vsi proizvodi za prehrano ljudi
+>
+> Kaikki ihmisravinnoksi tarkoitetut tuotteet
+>
+> Produkter avsedda för konsumtion
+>
+> NHC
+>
+> Ostatní výrobky
+>
+> Andre produkter
+>
+> Andere Erzeugnisse
+>
+> Teised tooted
+>
+> Λοιπά προϊόντα
+>
+> Other Products
+>
+> Otros productos
+>
+> Autres produits
+>
+> Altri prodotti
+>
+> Citi produkti
+>
+> Kiti produktai
+>
+> Egyéb termékek
+>
+> Prodotti Oħra
+>
+> Andere producten
+>
+> Produkty nieprzeznaczone do spożycia przez ludzi
+>
+> Outros produtos
+>
+> Ostatné produkty
+>
+> Drugi proizvodi
+>
+> Muut tuotteet
+>
+> Andra produkter
+>
+> NT
+>
+> žádné teplotní požadavky
+>
+> ingen temperaturkrav
+>
+> Ohne Temperaturanforderungen
+>
+> Ilma temperatuuri nõueteta
+>
+> Δεν απαιτείται χαμηλή θερμοκρασία
+>
+> no temperature requirements
+>
+> Sin requisitos de temperatura
+>
+> sans conditions de température
+>
+> che non richiedono temperature specifiche
+>
+> Nav prasību attiecībā uz temperatūru
+>
+> Nėra temperatūros reikalavimų
+>
+> nincsenek hőmérsékleti követelmények
+>
+> ebda ħtiġijiet ta' temperatura
+>
+> geen temperaturen vereist
+>
+> Produkty niewymagające przechowywania w obniżonej temperaturze
+>
+> sem exigências quanto à temperatura
+>
+> Žiadne požiadavky na teplotu
+>
+> Nobenih temperaturnih zahtev
+>
+> Ei alhaisen lämpötilan vaatimuksia
+>
+> Inga krav på temperatur
+>
+> T
+>
+> Zmražené/chlazené výrobky
+>
+> Frosne/kølede produkter
+>
+> Gefrorene/gekühlte Erzeugnisse
+>
+> Külmutatud/jahutatud tooted
+>
+> Προϊόντα κατεψυγμένα/διατηρημένα με απλή ψύξη
+>
+> Frozen/chilled products
+>
+> Productos congelados/refrigerados
+>
+> Produits congelés/réfrigérés
+>
+> Prodotti congelati/refrigerati
+>
+> Sasaldēti/atdzesēti produkti
+>
+> Užšaldyti/atšaldyti produktai
+>
+> Fagyasztott/hűtött termékek
+>
+> Prodotti ffriżati/mkessħin
+>
+> Bevroren/gekoelde producten
+>
+> Produkty wymagające przechowywania w obniżonej temperaturze
+>
+> Produtos congelados/refrigerados
+>
+> Mrazené/chladené produkty
+>
+> Zamrznjeni/ohlajeni proizvodi
+>
+> Pakastetut/jäähdytetyt tuotteet
+>
+> Frysta/kylda produkter
+>
+> T(FR)
+>
+> Zmražené výrobky
+>
+> Frosne produkter
+>
+> Gefrorene Erzeugnisse
+>
+> Külmutatud tooted
+>
+> Προϊόντα κατεψυγμένα
+>
+> Frozen products
+>
+> Productos congelados
+>
+> Produits congelés
+>
+> Prodotti congelati
+>
+> Sasaldēti produkti
+>
+> Užšaldyti produktai
+>
+> Fagyasztott termékek
+>
+> Prodotti ffriżati
+>
+> Bevroren producten
+>
+> Produkty wymagające przechowywania w temperaturze mrożenia
+>
+> Produtos congelados
+>
+> Mrazené produkty
+>
+> Zamrznjeni proizvodi
+>
+> Pakastetut tuotteet
+>
+> Frysta produkter
+>
+> T(CH)
+>
+> Chlazené výrobky
+>
+> Kølede produkter
+>
+> Gekühlte Erzeugnisse
+>
+> Jahutatud tooted
+>
+> Διατηρημένα με απλή ψύξη
+>
+> Chilled products
+>
+> Productos refrigerados
+>
+> Produits réfrigérés
+>
+> Prodotti refrigerati
+>
+> Atdzesēti produkti
+>
+> Atšaldyti produktai
+>
+> Hűtött termékek
+>
+> Prodotti mkessħin
+>
+> Gekoelde producten
+>
+> Produkty wymagające przechowywania w temperaturze chłodzenia
+>
+> Produtos refrigerados
+>
+> Chladené produkty
+>
+> Ohlajeni proizvodi
+>
+> Jäähdytetyt tuotteet
+>
+> Kylda produkter
+>
+> 6
+>
+> Živá zvířata
+>
+> Levende dyr
+>
+> Lebende Tiere
+>
+> Elusloomad
+>
+> Ζωντανά ζώα
+>
+> Live animals
+>
+> Animales vivos
+>
+> Animaux vivants
+>
+> Animali vivi
+>
+> Dzīvi dzīvnieki
+>
+> Gyvi gyvūnai
+>
+> Élő állatok
+>
+> Annimali ħajjin
+>
+> Levende dieren
+>
+> Zwierzęta
+>
+> Animais vivos
+>
+> Živé zvieratá
+>
+> Žive živali
+>
+> Elävät eläimet
+>
+> Levande djur
+>
+> U
+>
+> Kopytníci: skot, prasata, ovce, kozy, volně žijící a domácí lichokopytníci
+>
+> Hovdyr: Kvæg, svin, får, geder og husdyr eller vildtlevende dyr af hesteracen
+>
+> Huftiere: Rinder, Schweine, Schafe, Ziegen, Wildpferde, Hauspferde
+>
+> Kabja- ja sõralised: veised, sead, lambad, kitsed, mets- ja koduhobused
+>
+> Οπληφόρα: βοοειδή, χοίροι, πρόβατα, αίγες, άγρια και κατοικίδια μόνοπλα
+>
+> Ungulates: cattle, pigs, sheep, goats, wild and domestic solipeds
+>
+> Ungulados: bovinos, porcinos, ovinos, caprinos, solípedos domésticos y salvajes
+>
+> Ongulés: les bovins, porcins, ovins, caprins et solipèdes domestiques ou sauvages
+>
+> Ungulati: bovini, suini, ovini, caprini e solipedi domestici o selvatici
+>
+> Nagaiņi: liellopi, cūkas, aitas, kazas, savvaļas un mājas nepārnadži
+>
+> Kanopiniai: galvijai, kiaulės, avys, ožkos, laukiniai ir naminiai neporakanopiniai
+>
+> Patások: marha, sertések, juh, kecskék, vad és házi páratlanujjú patások
+>
+> Hoefdieren: runderen, varkens, schapen, geiten, wilde en gedomesticeerde eenhoevigen
+>
+> Ungulati: baqar, ħnieżer, nagħaġ, mogħoż, solipedi salvaġġi u domestiċi
+>
+> Ungulados: bovinos, suínos, ovinos, caprinos, solípedes domésticos ou selvagens
+>
+> Zwierzęta kopytne: bydło, świnie, owce, kozy, konie i koniowate
+>
+> Kopytníky: dobytok, ošípané, ovce, kozy, voľne žijúce a domáce nepárnokopytníky
+>
+> Kopitarji: govedo, prašiči, ovce, koze, divji in domači enokopitarji
+>
+> Sorkka- ja kavioeläimet: naudat, siat, lampaat, vuohet, luonnonvaraiset ja kotieläiminä pidettävät kavioeläimet
+>
+> Hovdjur: nötkreatur, svin, får, getter, vilda och tama hovdjur
+>
+> E
+>
+> Registrovaní koňovití podle definice ve směrnici Rady 90/426/EHS
+>
+> Registrerede heste som defineret i Rådets direktiv 90/426/EØF
+>
+> Registrierte Equiden wie in der Richtlinie 90/426/EWG des Rates bestimmt
+>
+> Nõukogu direktiivis 90/426/EMÜ märgitud registreeritud hobuslased
+>
+> Καταχωρισμένα ιπποειδή όπως ορίζεται στην οδηγία 90/426/ΕΟΚ του Συμβουλίου
+>
+> Registered Equidae as defined in Council Directive 90/426/EEC
+>
+> Équidos registrados definidos en la Directiva 90/426/CEE del Consejo
+>
+> Équidés enregistrés au sens de la directive 90/426/CEE du Conseil
+>
+> Equidi registrati ai sensi della direttiva 90/426/CEE del Consiglio
+>
+> Reģistrēts *Equidae* saskaņā ar Padomes Direktīvu 90/426/EEK
+>
+> Registruoti kanopiniai, kaip numatyta Tarybos direktyvoje 90/426/EEB
+>
+> A 90/426/EGK tanácsi irányelv szerint regisztrált lófélék
+>
+> Ekwidi rreġistrati kif iddefinit fid-Direttiva tal-Kunsill 90/426/KEE
+>
+> Geregistreerde paardachtigen als omschreven in Richtlijn 90/426/EEG van de Raad
+>
+> Konie i koniowate określone w dyrektywie Rady 90/426/EWG
+>
+> Equídeos registados conforme definido na Directiva 90/426/CEE do Conselho
+>
+> Registrované zvieratá koňovité, ako je definované v smernici Rady 90/426/EHS
+>
+> Registrirani kopitarji, kakor so opredeljeni v Direktivi Sveta 90/426/EGS
+>
+> Rekisteröidyt hevoseläimet kuten määritellään neuvoston direktiivissä 90/426/ETY
+>
+> Registrerade hästdjur enligt definitionen i rådets direktiv 90/426/EEG
+>
+> O
+>
+> Ostatní zvířata (včetně zvířat v zoologické zahradě)
+>
+> Andre dyr (herunder dyr fra zoologiske haver)
+>
+> Andere Tiere (einschließlich Zootiere)
+>
+> Teised loomad (k.a loomaaia loomad)
+>
+> Λοιπά ζώα (συμπεριλαμβανομένων των ζώων των ζωολογικών κήπων)
+>
+> Other animals (including zoo animals)
+>
+> Otros animales (incluidos los de zoológico)
+>
+> Autres animaux (y compris animaux de zoos)
+>
+> Altri animali (compresi gli animali dei giardini zoologici)
+>
+> Citi dzīvnieki (ieskaitot zoodārza dzīvniekus)
+>
+> Kiti gyvūnai (įskaitant zoologijos sodų gyvūnus)
+>
+> egyéb állatok (beleértve az állatkerti állatokat)
+>
+> Annimali oħra (inklużi annimali taż-żu)
+>
+> Andere dieren (met inbegrip van dierentuindieren)
+>
+> Pozostałe zwierzęta (w tym do ogrodów zoologicznych)
+>
+> Outros animais (incluindo animais de jardim zoológico)
+>
+> Ostatné zvieratá (vrátane zvierat v ZOO)
+>
+> Druge živali (vključno z živalmi za živalski vrt)
+>
+> Muut eläimet (myös eläintarhoissa olevat eläimet)
+>
+> Andra djur (även djur från djurparker)
+>
+> 5-6
+>
+> Zvláštní poznámky
+>
+> Særlige betingelser
+>
+> Spezielle Bemerkungen
+>
+> Erimärkused
+>
+> Ειδικές παρατηρήσεις
+>
+> Special remarks
+>
+> Menciones especiales
+>
+> Mentions spéciales
+>
+> Note particolari
+>
+> Īpašas atzīmes
+>
+> Specialios pastabos
+>
+> Különleges észrevételek
+>
+> Rimarki speċjali
+>
+> Bijzondere opmerkingen
+>
+> Szczególne uwagi
+>
+> Menções especiais
+>
+> Osobitné poznámky
+>
+> Posebne opombe
+>
+> Erityismainintoja
+>
+> Anmärkningar
+>
+> (\*)
+>
+> Pozdrženo na základě článku 6 směrnice 97/78/ES až do dalšího oznámení, jak je uvedeno ve sloupcích 1, 4, 5 a 6
+>
+> Ophævet indtil videre iht. artikel 6 i direktiv 97/78/EF som angivet i kolonne 1, 4, 5 og 6
+>
+> Bis auf weiteres nach Artikel 6 der Richtlinie 97/78/EG ausgesetzt, wie in den Spalten 1, 4, 5 und 6 vermerkt
+>
+> Peatatud direktiivi 97/78/EÜ artikli 6 alusel edasise teavitamiseni nagu märgitud veergudes 1, 4, 5 ja 6
+>
+> Έχει ανασταλεί σύμφωνα με το άρθρο 6 της οδηγίας 97/78/ΕΚ μέχρι νεωτέρας όπως σημειώνεται στις στήλες 1, 4, 5 και 6
+>
+> Suspended on the basis of Article 6 of Directive 97/78/EC until further notice, as noted in columns 1, 4, 5 and 6
+>
+> Autorización suspendida hasta nuevo aviso en virtud del artículo 6 de la Directiva 97/78/CE del Consejo (columnas 1, 4, 5 y 6)
+>
+> Suspendu jusqu'à nouvel ordre sur la base de l'article 6 de la directive 97/78/CE, comme indiqué dans les colonnes 1, 4, 5 et 6
+>
+> Sospeso a norma dell'articolo 6 della direttiva 97/78/CE fino a ulteriore comunicazione, secondo quanto indicato nelle colonne 1, 4, 5 e 6
+>
+> Apturēts, pamatojoties uz Direktīvas 97/98/EK 6. pantu līdz tālākiem ziņojumiem, kā minēts kolonnās 1, 4, 5 un 6
+>
+> Sustabdyta remiantis Direktyvos 97/78/EB 6 straipsniu iki tolimesnio pranešimo, kaip Murodyta 1, 4, 5 ir 6 skiltyse
+>
+> További értesítésig a 97/78/EK irányelv 6. cikke alapján felfüggesztve, amint az 1., 4., 5. és 6. oszlopban jelezve van
+>
+> Sospiża abbażi ta' l-Artikolu 6 tad-Direttiva 97/78/KE sakemm jinħareġ avviż ieħor, kif imsemmi fil-kolonni 1, 4, 5 u 6
+>
+> Erkenning voorlopig opgeschort op grond van artikel 6 van Richtlijn 97/78/EG, zoals aangegeven in de kolommen 1, 4, 5 en 6
+>
+> Zawieszona do odwołania na podstawie art. 6 dyrektywy 97/78/WE, zgodnie treścią kolumn 1, 4, 5 i 6
+>
+> Suspensas, com base no artigo 6.<sup>o</sup> da Directiva 97/78/CE, até que haja novas disposições, tal como referido nas colunas 1, 4, 5 e 6
+>
+> Pozastavené na základe článku 6 smernice 97/78/ES do ďalšieho oznámenia, ako je uvedené v stĺpcoch 1, 4, 5 a 6
+>
+> Odloženo na podlagi člena 6 Direktive 97/78/ES, do nadaljnjega, kakor je navedeno v stolpcih 1, 4, 5 in 6
+>
+> Ei sovelleta direktiivin 97/78/EY 6 artiklan perusteella kunnes toisin ilmoitetaan, siten kuin 1, 4, 5 ja 6 sarakkeessa esitetään
+>
+> Upphävd tills vidare på grundval av artikel 6 direktiv 97/78/EG, vilket anges i kolumnerna 1, 4, 5 och 6
+>
+> (1)
+>
+> Kontrola v souladu s požadavky rozhodnutí Komise 93/352/EHS s výkonem čl. 19 odst. 3 směrnice Rady 97/78/ES
+>
+> Kontrol efter Kommissionens beslutning 93/352/EØF vedtaget i henhold til artikel 19, stk. 3, i Rådets direktiv 97/78/EF
+>
+> Kontrolle erfolgt in Übereinstimmung mit den Anforderungen der Entscheidung 93/352/EG der Kommission, die in Ausführung des Artikels 19 Absatz 3 der Richtlinie 97/78/EG des Rates angenommen wurde
+>
+> Kontrollida kooskõlas komisjoni otsusega 93/352/EMÜ nõukogu direktiivi 97/78/EÜ artikli 19 lõike 3 täideviimisel
+>
+> Ελέγχεται σύμφωνα με τις απαιτήσεις της απόφασης 93/352/ΕΟΚ της Επιτροπής που έχει ληφθεί κατ’ εφαρμογή του άρθρου 19 παράγραφος 3 της οδηγίας 97/78/ΕΚ του Συμβουλίου
+>
+> Checking in line with the requirements of Commission Decision 93/352/EEC taken in execution of article 19(3) of Council Directive 97/78/EC
+>
+> De acuerdo con los requisitos de la Decisión 93/352/CEE de la Comisión, adoptada en aplicación del apartado 3 del artículo 19 de la Directiva 97/78/CE del Consejo
+>
+> Contrôles dans les conditions de la décision 93/352/CEE de la Commision prise en aplication de l'article 19, paragraphe 3, de la directive 97/78/CE du Conseil
+>
+> Controllo secondo le disposizioni della decisione 93/352/CEE della Commissione in applicazione dell'articolo 19, paragrafo 3 della direttiva 97/78/CE del Consiglio
+>
+> Pārbaude saskaņā ar Komisijas Lēmuma 93/352/EEK prasībām, ieviešot Padomes Direktīvas 97/78/EK 19. panta 3. punktu
+>
+> Patikrinimas pagal Komisijos sprendimo 93/352/EEB reikalavimus, vykdant Tarybos direktyvos 97/78/EB 19 straipsnio 3 punktą
+>
+> A 93/352/EGK bizottsági határozat követelményeivel összhangban ellenőrizve, a 97/78/EK tanácsi irányelv 19. cikkének (3) bekezdése szerint végrehajtva
+>
+> Iċċekkjar skond il-ħtiġijiet tad-Deċiżjoni tal-Kummissjoni 93/352/KEE meħuda biex jitwettaq l-Artikolu 19(3) tad-Direttiva tal-Kunsill 97/78/KE
+>
+> Controle overeenkomstig Beschikking 93/352/EEG van de Commissie, vastgesteld ter uitvoering van artikel 19, lid 3, van Richtlijn 97/78/EG van de Raad
+>
+> Kontrola zgodna z wymogami decyzji Komisji 93/352/EWG podjętej w ramach wykonania art. 19 ust. 3 dyrektywy Rady 97/78/WE
+>
+> Controlos nas condições da Decisão 93/352/CEE da Comissão, em aplicação do n.<sup>o</sup> 3 do artigo 19.<sup>o</sup> da Directiva 97/78/CE do Conselho
+>
+> Kontrola v súlade s požiadavkami rozhodnutia Komisie 93/352/EHS, prijatými pri vykonávaní článku 19 ods. 3 smernice Rady 97/78/ES
+>
+> Preverjanje v skladu z zahtevami Odločbe Komisije 93/352/EGS, z namenom izvrševanja člena 19(3) Direktive Sveta 97/78/ES
+>
+> Tarkastus suoritetaan komission päätöksen 93/352/ETY, jolla pannaan täytäntöön neuvoston direktiivin 97/78/EY 19 artiklan 3 kohta, vaatimusten mukaisesti
+>
+> Kontroll i enlighet med kraven i kommissionens beslut 93/352/EEG, som antagis för tillämpning av artikel 19.3 i rådets direktiv 97/78/EG
+>
+> (2)
+>
+> Pouze balené výrobky
+>
+> Kun emballerede produkter
+>
+> Nur umhüllte Erzeugnisse
+>
+> Ainult pakitud tooted
+>
+> Συσκευασμένα προϊόντα μόνο
+>
+> Packed products only
+>
+> Únicamente productos embalados
+>
+> Produits emballés uniquement
+>
+> Prodotti imballati unicamente
+>
+> Tikai fasēti produkti
+>
+> Tiktai supakuoti produktai
+>
+> Csak becsomagolt áruk
+>
+> Prodotti ppakkjati biss
+>
+> Uitsluitend verpakte producten
+>
+> Tylko produkty pakowane
+>
+> Apenas produtos embalados
+>
+> Len balené produkty
+>
+> Samo pakirani proizvodi
+>
+> Ainoastaan pakatut tuotteet
+>
+> Endast förpackade produkter
+>
+> (3)
+>
+> Pouze rybářské výrobky
+>
+> Kun fiskeprodukter
+>
+> Ausschließlich Fischereierzeugnisse
+>
+> Ainult pakitud kalatooted
+>
+> Αλιεύματα μόνο
+>
+> Fishery products only
+>
+> Únicamente productos pesqueros
+>
+> Produits de la pêche uniquement
+>
+> Prodotti della pesca unicamente
+>
+> Tikai zivju produkti
+>
+> Tiktai žuvininkystės produktai
+>
+> Csak halászati termékek
+>
+> Prodotti tas-sajd biss
+>
+> Uitsluitend visserijproducten
+>
+> Tylko produkty rybne
+>
+> Apenas produtos da pesca
+>
+> Len produkty rybolovu
+>
+> Samo ribiški proizvodi
+>
+> Ainoastaan kalastustuotteet
+>
+> Endast fiskeriprodukter
+>
+> (4)
+>
+> Pouze živočišné bílkoviny
+>
+> Kun animalske proteiner
+>
+> Nur tierisches Eiweiß
+>
+> Ainult loomsed valgud
+>
+> Ζωικές πρωτεΐνες μόνο
+>
+> Animal proteins only
+>
+> Únicamente proteínas animales
+>
+> Uniquement protéines animales
+>
+> Unicamente proteine animali
+>
+> Tikai dzīvnieku proteīns
+>
+> Tiktai gyvuliniai baltymai
+>
+> Csak állati fehérjék
+>
+> Proteini ta' l-annimali biss
+>
+> Uitsluitend dierlijke eiwitten
+>
+> Tylko białko zwierzęce
+>
+> Apenas proteínas animais
+>
+> Len živočíšne bielkoviny
+>
+> Samo živalske beljakovine
+>
+> Ainoastaan eläinproteiinit
+>
+> Endast djurprotein
+>
+> (5)
+>
+> Pouze surové kůže s vlnou
+>
+> Kun uld, skind og huder
+>
+> Nur Wolle, Häute und Felle
+>
+> Ainult villad, karusnahad ja loomanahad
+>
+> Έριο και δέρματα μόνο
+>
+> Wool hides and skins only
+>
+> Únicamente lana, cueros y pieles
+>
+> Laine et peaux uniquement
+>
+> Lana e pelli unicamente
+>
+> Tikai dzīvnieku vilna un zvērādas
+>
+> Tiktai vilnos, kailiai ir odos
+>
+> Csak irhák és bőrök
+>
+> Ġlud tas-suf biss
+>
+> Uitsluitend wol, huiden en vellen
+>
+> Tylko skóry futerkowe i inne
+>
+> Apenas lã e peles
+>
+> Len vlnené prikrýrky a kože
+>
+> Samo kožuh in koža
+>
+> Ainoastaan villa, vuodat ja nahat
+>
+> Endast ull, hudar och skinn
+>
+> (6)
+>
+> Pouze tekuté tuky, oleje a rybí tuky
+>
+> Nur flüssige Fette, Öle und Fischöle
+>
+> Kun flydende fedtstoffer, olier og fiskeolier
+>
+> Ainult vedelad rasvad, õlid ja kalaõlid
+>
+> Μόνον υγρά λίπη, έλαια και ιχθυέλαια
+>
+> Only liquid fats, oils, and fish oils
+>
+> Sólo grasas líquidas, aceites y aceites de pescado
+>
+> Graisses, huiles et huiles de poisson liquides uniquement
+>
+> Esclusivamente grassi liquidi, oli e oli di pesce
+>
+> Tikai šķidrie tauki, eļļa un zivju eļļa
+>
+> Tiktai skysti riebalai, aliejus ir žuvų taukai
+>
+> Csak folyékony zsírok, olajok és halolajok
+>
+> Xaħmijiet likwidi, żjut, u żjut tal-ħut biss
+>
+> Uitsluitend vloeibare vetten, oliën en visolie
+>
+> Tylko płynne tłuszcze, oleje i oleje rybne
+>
+> Apenas gorduras líquidas, óleos e óleos de peixe
+>
+> Len tekuté tuky, oleje a rybie oleje
+>
+> Samo tekoče maščobe, olja in ribja olja
+>
+> Ainoastaan nestemäiset rasvat, öljyt ja kalaöljyt
+>
+> Endast flytande fetter, oljor och fiskoljor
+>
+> (7)
+>
+> Islandští poníci (pouze od dubna do října)
+>
+> Islandske ponyer (kun fra april til oktober)
+>
+> Islandponys (nur von April bis Oktober)
+>
+> Islandi ponid (ainult aprillist oktoobrini)
+>
+> Μικρόσωμα άλογα (πόνυς) (από τον Απρίλιο έως τον Οκτώβριο μόνο)
+>
+> Icelandic ponies (from April to October only)
+>
+> Poneys de Islandia (únicamente desde abril hasta octubre)
+>
+> Poneys d’Islande (d'avril à octobre uniquement)
+>
+> Poneys islandesi (solo da aprile ad ottobre)
+>
+> Islandes poniji (tikai no aprīļa līdz oktobrim)
+>
+> Islandijos poniai (tiktai nuo balandžio iki spalio mėn.)
+>
+> Izlandi pónik (csak áprilistól októberig)
+>
+> Ponijiet Islandiżi (minn April sa Ottubru biss))
+>
+> IJslandse pony's (enkel van april tot oktober)
+>
+> Kucyki islandzkie (tylko od kwietnia do października)
+>
+> Póneis da Islândia (apenas de Abril a Outubro)
+>
+> Islandské poníky (len od apríla do októbra)
+>
+> Islandski poniji (samo od aprila do oktobra)
+>
+> Islanninponit (ainoastaan huhtikuusta lokakuuhun)
+>
+> Islandshästar (endast från april till oktober)
+>
+> (8)
+>
+> Pouze koňovití
+>
+> Kun enhovede dyr
+>
+> Nur Einhufer
+>
+> Ainult hobuslased
+>
+> Μόνο ιπποειδή
+>
+> Equidaes only
+>
+> Équidos únicamente
+>
+> Équidés uniquement
+>
+> Unicamente equidi
+>
+> Tikai *Equidae*
+>
+> Tiktai kanopiniai
+>
+> Csak lófélék
+>
+> Ekwidi biss
+>
+> Uitsluitend paardachtigen
+>
+> Tylko koniowate
+>
+> Apenas equídeos
+>
+> Len zvieratá koňovité
+>
+> Samo equidae
+>
+> Ainoastaan hevoset
+>
+> Endast hästdjur
+>
+> (9)
+>
+> Pouze tropické ryby
+>
+> Kun tropiske fisk
+>
+> Nur tropische Fische
+>
+> Ainult troopilised kalad
+>
+> Τροπικά ψάρια μόνο
+>
+> Tropical fish only
+>
+> Únicamente peces tropicales
+>
+> Poissons tropicaux uniquement
+>
+> Unicamente pesci tropicali
+>
+> Tikai tropu zivis
+>
+> Tiktai tropinės žuvys
+>
+> Csak trópusi halak
+>
+> Ħut tropikali biss
+>
+> Uitsluitend tropische vissen
+>
+> Tylko ryby tropikalne
+>
+> Apenas peixes tropicais
+>
+> Len tropické ryby
+>
+> Samo tropske ribe
+>
+> Ainoastaan trooppiset kalat
+>
+> Endast tropiska fiskar
+>
+> (10)
+>
+> Pouze kočky, psi, hlodavci, zajícovci, živé ryby, plazi a jiní ptáci kromě ptáků nadřádu běžci
+>
+> Kun katte, hunde, gnavere, harer, levende fisk, krybdyr og andre fugle end strudsefugle
+>
+> Nur Katzen, Hunde, Nagetiere, Hasentiere, lebende Fische, Reptilien und andere Vögel als Laufvögel
+>
+> Ainult kassid, koerad, närilised, jäneselised, eluskalad, roomajad ja muud linnud, välja arvatud jaanalinnulased
+>
+> Μόνο γάτες, σκύλοι, τρωκτικά, λαγόμορφα, ζωντανά ψάρια, ερπετά και πτηνά, εκτός από τα στρουθιοειδή
+>
+> Only cats, dogs, rodents, lagomorphs, live fish, reptiles and other birds than ratites
+>
+> Únicamente gatos, perros, roedores, lagomorfos, peces vivos, reptiles y aves, excepto las rátidas
+>
+> Uniquement chats, chiens, rongeurs, lagomorphes, poissons vivants, reptiles et autres oiseaux que les ratites
+>
+> Unicamente cani, gatti, roditori, lagomorfi, pesci vivi, rettili ed uccelli diversi dai ratiti
+>
+> Tikai kaķi, suņi, grauzēji, *lagomorphs*, dzīvas zivis, reptiļi un putni, izņemot ratites
+>
+> Tiktai katės, šunys, graužikai, kiškiniai, gyvos žuvys, ropliai ir kiti paukščiai, išskyrus ratitae genties paukščius
+>
+> Csak macskák, kutyák, rágcsálók, nyúlfélék, élő halak, hüllők és egyéb, nem ritka madarak
+>
+> qtates, klieb, rodenti, lagomorfi, ħut ħaj, rettili u għasafar li mhumiex ratiti, biss
+>
+> Uitsluitend katten, honden, knaagdieren, haasachtigen, levende vis, reptielen en vogels (met uitzondering van loopvogels)
+>
+> Tylko koty, psy, gryzonie, zające i króliki, żywe ryby, gady i ptaki inne niż bezgrzebieniowe
+>
+> Apenas gatos, cães, roedores, lagomorfos, peixes vivos, répteis e aves excepto ratites
+>
+> Len mačky, psy, hlodavce, zajacovité zvieratá, živé ryby, plazy a iné vtáky a bežce
+>
+> Samo mačke, psi, glodalci, lagomorfi, žive ribe, plazilci in ptiči
+>
+> Ainoastaan kissat, koirat, jyrsijät, jäniseläimet, elävät kalat, matelijat ja muut kuin sileälastaisiin kuuluvat linnut
+>
+> Endast katter, hundar, gnagare, hardjur, levande fiskar, reptiler och fåglar, andra än strutsar
+>
+> (11)
+>
+> Pouze krmiva ve velkém
+>
+> Kun foderstoffer i løs afladning
+>
+> Nur Futtermittel als Schüttgut
+>
+> Ainult pakendamata loomatoit
+>
+> Ζωοτροφές χύμα μόνο
+>
+> Only feedstuffs in bulk
+>
+> Únicamente alimentos a granel para animales
+>
+> Aliments pour animaux en vrac uniquement
+>
+> Alimenti per animali in massa unicamente
+>
+> Tikai beramā lopbarība
+>
+> Tiktai neįpakuoti pašarai
+>
+> Csak ömlesztett takarmányok
+>
+> Oġġetti ta' l-għalf fi kwantitajiet kbar biss
+>
+> Uitsluitend onverpakte diervoeders
+>
+> Tylko żywność luzem
+>
+> Apenas alimentos para animais a granel
+>
+> Len voľne uložené krmivá
+>
+> Samo krma v razsutem stanju
+>
+> Ainoastaan pakkaamaton rehu
+>
+> Endast foder i lösvikt
+>
+> (12)
+>
+> Pro (U), v případě lichokopytníků, pouze ti odeslaní do zoologické zahrady; a pro (O) pouze jednodenní kuřata, ryby, psi, kočky, hmyz nebo jiná zvířata odeslaná do zoologické zahrady.
+>
+> Ved (U), for så vidt angår dyr af hestefamilien, kun dyr sendt til en zoologisk have; og ved (O), kun daggamle kyllinger, fisk, hunde, katte, insekter eller andre dyr sendt til en zoologisk have.
+>
+> Für (U) im Fall von Einhufern, nur an einen Zoo versandte Tiere; und für (O) nur Eintagsküken, Fische, Hunde, Katzen, Insekten oder andere für einen Zoo bestimmte Tiere.
+>
+> Ainult (U) loomaaeda saatmiseks mõeldud kabjaliste puhul; ja ainult (O) ühepäevaste tibude, kalade, koerte, kasside, putukate ja teiste loomaaeda saatmiseks mõeldud loomade puhul
+>
+> Για την κατηγορία (U) στην περίπτωση των μόνοπλων, μόνο αυτά προς μεταφορά σε ζωολογικό κήπο· και για την κατηγορία (O), μόνο νεοσσοί μιας ημέρας, ψάρια, σκύλοι, γάτες, έντομα, ή άλλα ζώα προς μεταφορά σε ζωολογικό κήπο.
+>
+> For (U) in the case of solipeds, only those consigned to a zoo; and for (O), only day old chicks, fish, dogs, cats, insects, or other animals consigned to a zoo.
+>
+> En lo que se refiere a (U) en el caso de solípedos, sólo los destinados a un zoológico; en cuanto a (O), sólo polluelos de un día, peces, perros, gatos, insectos u otros animales destinados a un zoológico.
+>
+> Pour «U», dans le cas des solipèdes, uniquement ceux expédiés dans un zoo, et pour «O», uniquement les poussins d’un jour, poissons, chiens, chats, insectes ou autres animaux expédiés dans un zoo.
+>
+> Per (U) nel caso di solipedi, soltanto quelli destinati ad uno zoo, e per (O), soltanto pulcini di un giorno, pesci, cani, gatti, insetti o altri animali destinati ad uno zoo.
+>
+> (U) Tikai tie nepārnadži, kas ir nodoti zoodārzam; (O) tikai vienu dienu veci cāļi, zivis, suņi, kaķi, kukaiņi un citi dzīvnieki, kas ir nodoti zoodārzam
+>
+> (U) neporakanopinių atveju, tiktai jei vežami į zoologijos sodą, ir (O) – tiktai vienadieniai viščiukai, žuvys, šunys, katės, vabzdžiai arba kiti į zoologijos sodą vežami gyvūnai
+>
+> Az (U) esetében páratlanujjú patások csak az állatkertbe szállított egyedek; az (O) esetében csak naposcsibék, halak, kutyák, macskák, rovarok vagy egyéb állatkertbe szállított állatok.
+>
+> Għal (U) fil-każ ta' solipedi, dawk biss ikkonsenjati lil żu; u għal (O), flieles ta' ġurnata żmien, ħut, klieb, qtates, insetti, jew annimali oħra kkonsenjati lil żu, biss
+>
+> Voor (U) in het geval van eenhoevigen uitsluitend naar een zoo verzonden dieren; en voor (O) uitsluitend eendagskuikens, vissen, honden, katten, insecten of andere naar een zoo verzonden dieren.
+>
+> Przy (U) w przypadku koniowatych, tylko przeznaczone do zoo; a przy (O), tylko jednodzienne kurczęta, ryby, psy, koty, owady i inne zwierzęta przeznaczone do zoo
+>
+> Relativamente a (U), no caso dos solípedes, só os de jardim zoológico; relativamente a (O), só pintos do dia, peixes, cães, gatos, insectos, ou outros animais de jardim zoológico.
+>
+> Pre (U) v prípade nepárnokopytníkov, len tie, ktoré sa posielajú do ZOO; a pre (O) len jednodňové kurčatá, ryby, psy, mačky, hmyz alebo iné zvieratá posielané do ZOO
+>
+> Za (U) v primeru enokopitarjev, samo tisti, namenjeni v živalski vrt; in za (O), samo dan stari piščanci, ribe, psi, mačke žuželke, ali druge živali, namenjene v živalski vrt.
+>
+> Sorkka- ja kavioeläimistä (U) ainoastaan eläintarhaan tarkoitetut kavioeläimet; muista eläimistä (O) ainoastaan eläintarhaan tarkoitetut untuvikot, kalat, koirat, kissat, hyönteiset tai muut eläimet.
+>
+> För (U) när det gäller vilda och tama hovdjur, endast sådana som finns i djurparker; och för (O), endast daggamla kycklingar, fiskar, hundar, katter, insekter eller andra djur i djurparker.
+>
+> (13)
+>
+> Nagylak v Maďarsku: Toto je stanoviště hraniční kontroly (pro výrobky) a hraniční přechod (pro živá zvířata) na maďarsko-rumunské hranici, které podléhá přechodným opatřením pro výrobky i pro živá zvířata vyjednaných a stanovených ve Smlouvě o přistoupení. Viz rozhodnutí Komise 2003/630/ES – [Úř. věst. L 218, 30.8.2003, s. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) a 2004/253/ES – [Úř. věst. L 79, 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: Dette er et grænsekontrolsted (for produkter) og overgangssted (for levende dyr) på grænsen mellem Ungarn og Rumænien, som er omfattet af overgangsbestemmelser, man har forhandlet sig frem til og fastsat i tiltrædelsestraktaten, for så vidt angår såvel produkter som levende dyr. Jf. Kommissionens beslutning 2003/630/EF ([EUT L 218 af 30.8.2003, s. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG)) og 2004/253/EF ([EUT L 79 af 17.3.2004, s. 47](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.079.01.0047.01.ENG)).
+>
+> Nagylak HU: Dies ist eine Grenzkontrollstelle (für Erzeugnisse) und ein Grenzübergang (für lebende Tiere) an der Grenze zwischen Ungarn und Rumänien, der sowohl für Erzeugnisse als auch für lebende Tiere Übergangsmaßnahmen gemäß dem Beitrittsvertrag unterliegt. Siehe Entscheidungen 2003/630/EG ([ABl. L 218 vom 30.8.2003, S. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG)) und 2004/253/EG der Kommission ([ABl. L 79 vom 17.3.2004, S. 47](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.079.01.0047.01.ENG)).
+>
+> Nagylak HU: See on Ungari-Rumeenia piiri piirikontrolli punkt (toodete) ja ületuskoht (elusloomade) jaoks, mis allub läbiräägitud ja ühinemislepinguga kehtestatud üleminekumeetmetele nii toodetele kui elusloomadele. Vt komisjoni otsuseid 2003/630/EÜ – [ELT L 218, 30.8.2003, lk 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) ja 2004/253/EÜ – [ELT L 79, 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: πρόκειται για μεθοριακό σταθμό επιθεώρησης (για προϊόντα) και σημείο διέλευσης (για ζώντα ζώα) στα ουγγρορουμανικά σύνορα, που υπόκειται σε μεταβατικά μέτρα τα οποία αποτέλεσαν αντικείμενο διαπραγμάτευσης και ενσωματώθηκαν στη συνθήκη προσχώρησης τόσο για τα προϊόντα όσο και για τα ζώντα ζώα. Βλέπε απόφαση 2003/630/ΕΚ της Επιτροπής — [ΕΕ L 218 της 30.8.2003, σ. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) + 2004/253/EK — [EE L 79 της 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: This is a border inspection post (for products) and crossing point (for live animals) on the Hungarian Romanian Border, subject to transitional measures as negotiated and laid down in the Treaty of Accession for both products and live animals. See Commission Decision 2003/630/EC — [OJ L 218, 30.8.2003, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) and 2004/253/EC — [OJ L 79, 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: Se trata de un puesto de inspección fronterizo (para productos) y un punto de paso (para animales vivos) de la frontera húngaro-rumana, sujeta a medidas transitorias, tanto para productos como para animales vivos, tal como se negoció y estableció en el Tratado de adhesión. Véase la Decisión 2003/630/CE de la Comisión — [DO L 218 de 30.8.2003, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) y 2004/253/CE — [DO L 79 de 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: Il s’agit d’un poste d’inspection frontalier (pour les produits) et d’un lieu de passage en frontière (pour les animaux vivants) à la frontière entre la Hongrie et la Roumanie, qui est soumis à des mesures transitoires conformément aux négociations et aux dispositions inscrites dans le traité d’adhésion pour les produits et les animaux vivants. Voir la décision 2003/630/CE de la Commission ([JO L 218 du 30.8.2003, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG)) et 2004/253/CE ([JO L 79 du 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC)).
+>
+> Nagylak HU: si tratta di un posto d'ispezione (per i prodotti) e di un punto di attraversamento (per gli animali vivi) sul confine Ungheria-Romania, assoggettato alle misure transitorie negoziate e stabilite nel trattato di adesione per i prodotti e per gli animali vivi. Cfr. decisione 2003/630/CE della Commissione — [GU L 218 del 30.8.2003, pag. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) + 2004/253/CE — [GU L 79 del 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagilaka, Ungārija (Nagylak, HU): šis ir robežas pārbaudes punkts (produktiem) un robežas šķērsošanas punkts (dzīviem dzīvniekiem) uz Ungārijas–Rumānijas robežas, kas ir pakļauta pārejas perioda kontrolei, kā ir apspriests un formulēts Pievienošanās līgumā atiecībā gan uz produktiem, gan dzīviem dzīvniekiem. Skatīt Komisijas Lēmumus 2003/630/EK – [OV L 218, 30.8.2003, 55. lpp.](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG), un 2004/253/EK – [OV L 79, 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: tai pasienio kontrolės postas (produktams) ir vežimo punktas (gyviems gyvūnams), esantis Vengrijos – Rumunijos pasienyje, pritaikant pereinamojo laikotarpio priemones, kaip suderėta ir numatyta Stojimo sutartyje, produktams ir gyviems gyvūnams. Žr. Komisijos spendimas 2003/630/EB – [OL L 218, 2003 8 30, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) ir 2004/253/EB – [OL L 79, 2004 3 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: Ez egy határellenőrző poszt (áruk számára) és egy határátkelő a magyar-román határon, amelyre mind az áruk, mind az állatok esetében a csatlakozási szerződésben megtárgyalt és meghatározott átmeneti intézkedések vonatkoznak. Lásd a 2003/630/EK – [HL L 218., 2003.8.30., 55. o.](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) és a 2004/253/EK – [HL L 79., 2004.3.17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC). bizottsági határozatokat.
+>
+> Nagylak HU: Dan huwa post ta' spezzjoni ta' fruntiera (għall-prodotti) u l-punt tal-qsim (għall-annimali ħajjin) fuq il-Fruntiera bejn l-Ungerija u r-Rumanija, suġġett għal miżuri transizzjonali kif innegozjati u stipulati fit-Trattat ta' Adezjoni kemm għall-prodotti kif ukoll għall-annimali ħajjin. Ara d-Deċiżjonijiet tal-Kummissjoni 2003/630/KE – [OJ L 218, 30.8.2003, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) u 2004/253/KE – [OJ L 79, 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: Dit is een grensinspectiepost (voor producten) en een doorlaatpost (voor levende dieren) aan de Hongaars-Roemeense grens waar zowel voor producten als voor levende dieren overgangsmaatregelen gelden zoals overeengekomen en neergelegd in het Toetredingsverdrag. Zie Beschikkingen 2003/630/EG van de Commissie ([PB L 218 van 30.8.2003, blz. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG)) en 2004/253/EG van de Commissie ([PB L 79 van 17.3.2004, blz. 47](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.079.01.0047.01.ENG)).
+>
+> Nagylak HU: Jest to punkt kontroli granicznej (dla produktów) i przejście (dla żywych zwierząt) na granicy węgiersko-rumuńskiej, podlegający środkom tymczasowym wynegocjowanym i określonym w Traktacie o Przystąpieniu zarówno dla produktów, jak i żywych zwierząt. Patrz: decyzje Komisji 2003/630/WE – [Dz.U. L 218 z 30.8.2003, str. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) i 2004/253/WE – [Dz.U. L 79 z 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: Trata-se de um posto de inspecção fronteiriço (para produtos) e um ponto de passagem (para animais vivos) na fronteira húngaro-romena, sujeito a medidas de transição, quer para produtos quer para animais vivos, tal como negociadas e estabelecidas no Acto de Adesão. Ver Decisão 2003/630/CE — [JO L 218 de 30.8.2003, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG) + 2004/253/CE — [JO L 79 de 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: Toto je hraničná inšpekčná stanica (pre produkty) a priesečník (pre živé zvieratá) na maďarsko-rumunských hraniciach podľa prechodných opatrení, ako boli dohodnuté a ustanovené v Zmluve o pristúpení pre produkty aj živé zvieratá. Pozri rozhodnutia Komisie 2003/630/ES – Ú. v. [EÚ L 218, 30.8.2003, s. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG), a 2004/253/ES – [Ú. v. EÚ L 79, 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC).
+>
+> Nagylak HU: To je mejna kontrolna točka (za proizvode) in prehodna točka (za žive živali) na madžarsko-romunski meji, za katero veljajo prehodni ukrepi, kakor so bili izpogajani in določeni v Pogodbi o pristopu, tako za proizvode kot za žive živali. Glej odločbi Komisije 2009/630/ES ([UL L 218, 30.8.2003, str. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG)) in 2004/253/ES ([UL L 79, 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC)).
+>
+> Nagylak HU: Tämä on Unkarin Romanian rajan vastainen rajatarkastusasema (tavarat) ja ylikulkuasema (elävät eläimet), johon sovelletaan sekä tavaroiden että elävien eläinten osalta liittymissopimuksessa määrättyjä siirtymätoimenpiteitä. Ks. komission päätös 2003/630/EY ([EUVL L 218, 30.8.2003, s. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG)) ja 2004/253/EY ([EUVL L 79, 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC)).
+>
+> Nagylak HU: Detta är en gränskontrollstation (för produkter) och gränsövergång (för levande djur) vid den ungersk-rumänska gränsen, som är föremål för framförhandlade övergångsbestämmelser enligt anslutningsfördraget, både vad avser produkter och levande djur. Se kommissionens beslut 2003/630/EG ([EUT L 218, 30.8.2003, s. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.218.01.0055.01.ENG)) och 2004/253/EG ([EUT L 79, 17.3.2004](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2004:079:TOC)).
+>
+> (14)
+>
+> Určeno k přepravě přes Evropské společenství pro zásilky s určitými výrobky živočišného původu pro lidskou spotřebu, které směřují do nebo pocházejí z Ruska podle zvláštních postupů tušených v příslušném právu Společenství.
+>
+> Udpeget EF-transitsted for sendinger af visse animalske produkter til konsum, som transporteres til eller fra Rusland i henhold til de særlige procedurer, der er fastsat i de relevante EF-bestemmelser.
+>
+> Für den Versand von zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs aus oder nach Russland durch das Zollgebiet der Europäischen Gemeinschaft gemäß den in den einschlägigen Rechtsvorschriften der Gemeinschaft vorgesehenen Verfahren.
+>
+> Määratud transiidiks üle Euroopa Ühenduse teatud inimtarbimiseks mõeldud loomset päritolu toodete partiidele, mis lähevad Venemaale või tulevad sealt ning kuuluvad vastavate ühenduse õigusaktidega ettenähtud erikorra alla
+>
+> Προς διαμετακόμιση ορισμένων προϊόντων ζωικής προέλευσης που προορίζονται για κατανάλωση από τον άνθρωπο μέσω της Ευρωπαϊκής Κοινότητας, προερχόμενων από και κατευθυνόμενων προς τη Ρωσία, σύμφωνα με ειδικές διαδικασίες που προβλέπονται στη σχετική κοινοτική νομοθεσία.
+>
+> Designated for transit across the European Community for consignments of certain products of animal origin for human consumption, coming to or from Russia under the specific procedures foreseen in relevant Community legislation
+>
+> Designado para el tránsito a través de la Comunidad Europea de partidas de determinados productos de origen animal destinados al consumo humano, que tienen Rusia como origen o destino, con arreglo a los procedimientos específicos previstos en la legislación comunitaria pertinente.
+>
+> Désigné pour le transit, dans la Communauté européenne, d’envois de certains produits d’origine animale destinés à la consommation humaine, en provenance ou à destination de la Russie selon les procédures particulières prévues par la législation communautaire applicable.
+>
+> Designato per il transito nella Comunità europea di partite di taluni prodotti di origine animale destinati al consumo umano, provenienti dalla o diretti in Russia, secondo le procedure specifiche previste nella pertinente legislazione comunitaria.
+>
+> Norīkojums sūtījumu tranzītam caur Eiropas Kopienu noteiktu dzīvnieku izcelsmes produktu, kas tiek sūtīti uz Krieviju vai no tās, patēriņam saskaņā ar noteiktu, attiecīgā Kopienas likumdošanā paredzētu kārtību.
+>
+> Skirta tam tikrų gyvulinės kilmės produktų, skirtų žmonių maistui, siuntų tranzitui per Europos bendriją, vežamų į arba iš Rusijos vadovaujantis specialia atitinkamuose Bendrijos teisės aktuose numatyta tvarka.
+>
+> Az Európai Közösségen keresztül történő tranzit szállításra kijelölve bizonyos emberi fogyasztásra szánt állati eredetű termékek szállítmányai számára, amelyek Oroszországból érkeznek a vonatkozó közösségi jogszabályokban előre elrendelt különleges eljárások szerint.
+>
+> Allokat għat-traġitt tul il-Komunità Ewropea għal kunsinji ta' ċerti prodotti għall-konsum tal-bniedem li joriġinaw mill-annimali, provenjenti minn jew diretti lejn ir-Russja taħt il-proċeduri speċifiċi previsti fil-leġislazzjoni Komunitarja rilevanti
+>
+> Aangewezen voor doorvoer door de Europese Gemeenschap van partijen van bepaalde producten van dierlijke oorsprong die bestemd zijn voor menselijke consumptie, bestemd voor of afkomstig van Rusland, overeenkomstig de specifieke procedures van de relevante communautaire wetgeving.
+>
+> Przeznaczone do przewozu przez Wspólnotę Europejską przesyłek pewnych produktów pochodzenia zwierzęcego przeznaczonych do spożycia przez ludzi, przywożonych lub pochodzących z Rosji, na podstawie szczególnych procedur przewidzianych w odpowiednich przepisach Wspólnoty.
+>
+> Designado para o trânsito, na Comunidade Europeia, de remessas de certos produtos de origem animal destinados ao consumo humano, com destino à Rússia ou dela provenientes, ao abrigo dos procedimentos específicos previstos pela legislação comunitária pertinente.
+>
+> Určené na tranzit cez Európske spoločenstvo pre zásielky určitých produktov živočíšneho pôvodu na ľudskú spotrebu, pochádzajúce z Ruska, podľa osobitných postupov plánovaných v príslušnej legislatíve Spoločenstva.
+>
+> Določeno za tranzit preko Evropske skupnosti za pošiljke nekaterih proizvodov živalskega izvora za prehrano ljudi, ki prihajajo iz Rusije po posebnih postopkih, predvidenih v ustrezni zakonodaji Skupnosti.
+>
+> Asetettu passitukseen Euroopan yhteisön kautta, kun on kyse tiettyjen ihmisravinnoksi tarkoitettujen eläinperäisten tuotteiden lähetyksistä, jotka tulevat Venäjälle tai lähtevät sieltä yhteisön lainsäädännön mukaisia erityismenettelyjä noudattaen.
+>
+> För transit genom Europeiska gemenskapen av sändningar av vissa produkter av animaliskt ursprung avsedda att användas som livsmedel, som transporteras till eller från Ryssland enligt de särskilda förfaranden som fastställts i relevant gemenskapslagstiftning.
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Belgie</td></tr>
+> <tr><td colspan="6">Land: Belgien</td></tr>
+> <tr><td colspan="6">Land: Belgien</td></tr>
+> <tr><td colspan="6">Riik: Belgia</td></tr>
+> <tr><td colspan="6">Χώρα: Βέλγιο</td></tr>
+> <tr><td colspan="6">Country: Belgium</td></tr>
+> <tr><td colspan="6">País: Bélgica</td></tr>
+> <tr><td colspan="6">Pays: Belgique</td></tr>
+> <tr><td colspan="6">Paese: Belgio</td></tr>
+> <tr><td colspan="6">Valsts: Beļģija</td></tr>
+> <tr><td colspan="6">Šalis: Belgija</td></tr>
+> <tr><td colspan="6">Ország: Belgium</td></tr>
+> <tr><td colspan="6">Pajjiż: Belġju</td></tr>
+> <tr><td colspan="6">Land: België</td></tr>
+> <tr><td colspan="6">Kraj: Belgia</td></tr>
+> <tr><td colspan="6">País: Bélgica</td></tr>
+> <tr><td colspan="6">Krajina: Belgicko</td></tr>
+> <tr><td colspan="6">Država: Belgija</td></tr>
+> <tr><td colspan="6">Maa: Belgia</td></tr>
+> <tr><td colspan="6">Land: Belgien</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Antwerpen</td><td>0502699</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td rowspan="3">Brussel-Zaventem</td><td rowspan="3">0502899</td><td rowspan="3">A</td><td>Centre 1</td><td>HC</td><td></td></tr>
+> <tr><td>Centre 2</td><td>HC</td><td></td></tr>
+> <tr><td>Centre 3</td><td>NHC</td><td>U, E, O</td></tr>
+> <tr><td>Charleroi</td><td>0503299</td><td>A</td><td></td><td>HC(2)</td><td></td></tr>
+> <tr><td>Gent</td><td>0502999</td><td>P</td><td></td><td>HC-NT(6) NHC-NT(6)</td><td></td></tr>
+> <tr><td>Liège</td><td>0503099</td><td>A</td><td></td><td>HC, NHC-NT, NHC-T(FR)</td><td>U, E, O</td></tr>
+> <tr><td>Oostende</td><td>0502599</td><td>P</td><td></td><td>HC-T(2)</td><td></td></tr>
+> <tr><td rowspan="2">Oostende</td><td rowspan="2">0503199</td><td rowspan="2">A</td><td>Centre 1</td><td>HC(2)</td><td></td></tr>
+> <tr><td>Centre 2</td><td></td><td>E, O</td></tr>
+> <tr><td rowspan="2">Zeebrugge</td><td rowspan="2">0502799</td><td rowspan="2">P</td><td>OHCZ</td><td>HC, NHC</td><td></td></tr>
+> <tr><td>FCT</td><td>HC</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Česká republika</td></tr>
+> <tr><td colspan="6">Land: Tjekkiet</td></tr>
+> <tr><td colspan="6">Land: Tschechische Republik</td></tr>
+> <tr><td colspan="6">Riik: Tšehhi Vabariik</td></tr>
+> <tr><td colspan="6">Χώρα: Τσεχική Δημοκρατία</td></tr>
+> <tr><td colspan="6">Country: Czech Republic</td></tr>
+> <tr><td colspan="6">País: República Checa</td></tr>
+> <tr><td colspan="6">Pays: République tchèque</td></tr>
+> <tr><td colspan="6">Paese: Repubblica ceca</td></tr>
+> <tr><td colspan="6">Valsts: Čehija</td></tr>
+> <tr><td colspan="6">Šalis: Čekijos Respublika</td></tr>
+> <tr><td colspan="6">Ország: Cseh Köztársaság</td></tr>
+> <tr><td colspan="6">Pajjiż: Repubblika Ċeka</td></tr>
+> <tr><td colspan="6">Land: Tsjechië</td></tr>
+> <tr><td colspan="6">Kraj: Czechy</td></tr>
+> <tr><td colspan="6">País: República Checa</td></tr>
+> <tr><td colspan="6">Krajina: Česká republika</td></tr>
+> <tr><td colspan="6">Država: Češka</td></tr>
+> <tr><td colspan="6">Maa: Tšekki</td></tr>
+> <tr><td colspan="6">Land: Tjeckien</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Praha-Ruzyně</td><td>2200099</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>E, O</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Dánsko</td></tr>
+> <tr><td colspan="6">Land: Danmark</td></tr>
+> <tr><td colspan="6">Land: Dänemark</td></tr>
+> <tr><td colspan="6">Riik: Taani</td></tr>
+> <tr><td colspan="6">Χώρα: Δανία</td></tr>
+> <tr><td colspan="6">Country: Denmark</td></tr>
+> <tr><td colspan="6">País: Dinamarca</td></tr>
+> <tr><td colspan="6">Pays: Danemark</td></tr>
+> <tr><td colspan="6">Paese: Danimarca</td></tr>
+> <tr><td colspan="6">Valsts: Dānija</td></tr>
+> <tr><td colspan="6">Šalis: Danija</td></tr>
+> <tr><td colspan="6">Ország: Dánia</td></tr>
+> <tr><td colspan="6">Pajjiż: Danimarka</td></tr>
+> <tr><td colspan="6">Land: Denemarken</td></tr>
+> <tr><td colspan="6">Kraj: Dania</td></tr>
+> <tr><td colspan="6">País: Dinamarca</td></tr>
+> <tr><td colspan="6">Krajina: Dánsko</td></tr>
+> <tr><td colspan="6">Država: Danska</td></tr>
+> <tr><td colspan="6">Maa: Tanska</td></tr>
+> <tr><td colspan="6">Land: Danmark</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Ålborg 1</td><td>0902299</td><td>P</td><td></td><td>HC-T(FR)(1)(2)</td><td></td></tr>
+> <tr><td>Ålborg 2</td><td>0951699</td><td>P</td><td></td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>Århus</td><td>0902199</td><td>P</td><td></td><td>HC(1)(2), NHC-T(FR) NHC-NT(2)(11)</td><td></td></tr>
+> <tr><td>Esbjerg</td><td>0902399</td><td>P</td><td></td><td>HC-T(FR)(1)(2), NHC-T(FR)(2), NHC-NT(11)</td><td></td></tr>
+> <tr><td>Fredericia</td><td>0911099</td><td>P</td><td></td><td>HC(1)(2), NHC(2), NHC-(NT) 11</td><td></td></tr>
+> <tr><td>Hanstholm</td><td>0911399</td><td>P</td><td></td><td>HC-T(FR)(1)(3)</td><td></td></tr>
+> <tr><td rowspan="2">Hirtshals</td><td rowspan="2">0911599</td><td rowspan="2">P</td><td>Centre 1</td><td>HC-T(FR)(1)(2)</td><td></td></tr>
+> <tr><td>Centre 2</td><td>HC-T(FR)(1)(2)</td><td></td></tr>
+> <tr><td>Billund</td><td>0901799</td><td>A</td><td></td><td>HC-T(1)(2), NHC(2)</td><td>U, E, O</td></tr>
+> <tr><td rowspan="3">København</td><td rowspan="3">0911699</td><td rowspan="3">A</td><td>Centre 1</td><td>HC(1)(2), NHC(2)</td><td></td></tr>
+> <tr><td>Centre 3</td><td></td><td>U, E, O</td></tr>
+> <tr><td>Centre 2</td><td>HC(1)(2), NHC(2)</td><td></td></tr>
+> <tr><td>København</td><td>0921699</td><td>P</td><td></td><td>HC(1), NHC</td><td></td></tr>
+> <tr><td>Rønne</td><td>0941699</td><td>P</td><td></td><td>HC-T(FR)(1)(2)(3)</td><td></td></tr>
+> <tr><td>Kolding</td><td>0901899</td><td>P</td><td></td><td>NHC(11)</td><td></td></tr>
+> <tr><td>Skagen</td><td>0901999</td><td>P</td><td></td><td>HC-T(FR)(1)(2)(3)</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Německo</td></tr>
+> <tr><td colspan="6">Land: Tyskland</td></tr>
+> <tr><td colspan="6">Land: Deutschland</td></tr>
+> <tr><td colspan="6">Riik: Saksamaa</td></tr>
+> <tr><td colspan="6">Χώρα: Γερμανία</td></tr>
+> <tr><td colspan="6">Country: Germany</td></tr>
+> <tr><td colspan="6">País: Alemania</td></tr>
+> <tr><td colspan="6">Pays: Allemagne</td></tr>
+> <tr><td colspan="6">Paese: Germania</td></tr>
+> <tr><td colspan="6">Valsts: Vācija</td></tr>
+> <tr><td colspan="6">Šalis: Vokietija</td></tr>
+> <tr><td colspan="6">Ország: Németország</td></tr>
+> <tr><td colspan="6">Pajjiż: Ġermanja</td></tr>
+> <tr><td colspan="6">Land: Duitsland</td></tr>
+> <tr><td colspan="6">Kraj: Niemcy</td></tr>
+> <tr><td colspan="6">País: Alemanha</td></tr>
+> <tr><td colspan="6">Krajina: Nemecko</td></tr>
+> <tr><td colspan="6">Država: Nemčija</td></tr>
+> <tr><td colspan="6">Maa: Saksa</td></tr>
+> <tr><td colspan="6">Land: Tyskland</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Berlin-Tegel</td><td>0150299</td><td>A</td><td></td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td>Brake</td><td>0151599</td><td>P</td><td></td><td>NHC-NT(4)</td><td></td></tr>
+> <tr><td>Bremen</td><td>0150699</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Bremerhaven</td><td>0150799</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td rowspan="2">Cuxhaven</td><td rowspan="2">0151699</td><td rowspan="2">P</td><td>IC 1</td><td>HC-T (FR)(3)</td><td></td></tr>
+> <tr><td>IC 2</td><td>HC-T(FR)(3)</td><td></td></tr>
+> <tr><td>Düsseldorf</td><td>0151999</td><td>A</td><td></td><td>HC(2), NHT-CH(2)<br>NHC-NT(2)</td><td>O</td></tr>
+> <tr><td>Frankfurt/Main</td><td>0151099</td><td>A</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Hahn Airport</td><td>0155999</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Hamburg Flughafen</td><td>0150999</td><td>A</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Hamburg Hafen (*)</td><td>0150899</td><td>P</td><td></td><td>HC, NHC</td><td>(*) E(7)</td></tr>
+> <tr><td>Hannover-Langenhagen</td><td>0151799</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Kiel</td><td>0152699</td><td>P</td><td></td><td>HC, NHC</td><td>E</td></tr>
+> <tr><td>Köln</td><td>0152099</td><td>A</td><td></td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td>Konstanz Straße</td><td>0153199</td><td>R</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Lübeck</td><td>0152799</td><td>P</td><td></td><td>HC, NHC</td><td>U, E</td></tr>
+> <tr><td>München</td><td>0149699</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Rostock</td><td>0151399</td><td>P</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Rügen</td><td>0151199</td><td>P</td><td></td><td>HC,NHC</td><td></td></tr>
+> <tr><td>Schönefeld</td><td>0150599</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>U, E, O</td></tr>
+> <tr><td>Stuttgart</td><td>0149099</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Weil/Rhein</td><td>0149199</td><td>R</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Weil/Rhein Mannheim</td><td>0153299</td><td>F</td><td></td><td>HC, NHC</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Estonsko</td></tr>
+> <tr><td colspan="6">Land: Estland</td></tr>
+> <tr><td colspan="6">Land: Estland</td></tr>
+> <tr><td colspan="6">Riik: Eesti</td></tr>
+> <tr><td colspan="6">Χώρα: Εσθονία</td></tr>
+> <tr><td colspan="6">Country: Estonia</td></tr>
+> <tr><td colspan="6">País: Estonia</td></tr>
+> <tr><td colspan="6">Pays: Estonie</td></tr>
+> <tr><td colspan="6">Paese: Estonia</td></tr>
+> <tr><td colspan="6">Valsts: Igaunija</td></tr>
+> <tr><td colspan="6">Šalis: Estija</td></tr>
+> <tr><td colspan="6">Ország: Észtország</td></tr>
+> <tr><td colspan="6">Pajjiż: Estonja</td></tr>
+> <tr><td colspan="6">Land: Estland</td></tr>
+> <tr><td colspan="6">Kraj: Estonia</td></tr>
+> <tr><td colspan="6">País: Estónia</td></tr>
+> <tr><td colspan="6">Krajina: Estónsko</td></tr>
+> <tr><td colspan="6">Država: Estonija</td></tr>
+> <tr><td colspan="6">Maa: Viro</td></tr>
+> <tr><td colspan="6">Land: Estland</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Luhamaa</td><td>2300199</td><td>R</td><td></td><td>HC, NHC</td><td>U, E</td></tr>
+> <tr><td>Muuga</td><td>2300399</td><td>P</td><td>I/C 1</td><td>HC, NHC-T(FR), NHC-NT</td><td></td></tr>
+> <tr><td>Narva</td><td>2300299</td><td>R</td><td></td><td>HC, NHC-NT</td><td>O</td></tr>
+> <tr><td>Paldiski</td><td>2300599</td><td>P</td><td></td><td>HC(2), NHC-NT(2)</td><td></td></tr>
+> <tr><td>Paljassaare</td><td>2300499</td><td>P</td><td></td><td>HC-T(FR)(2)</td><td>O</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Řecko</td></tr>
+> <tr><td colspan="6">Land: Grækenland</td></tr>
+> <tr><td colspan="6">Land: Griechenland</td></tr>
+> <tr><td colspan="6">Riik: Kreeka</td></tr>
+> <tr><td colspan="6">Χώρα: Ελλάδα</td></tr>
+> <tr><td colspan="6">Country: Greece</td></tr>
+> <tr><td colspan="6">País: Grecia</td></tr>
+> <tr><td colspan="6">Pays: Grèce</td></tr>
+> <tr><td colspan="6">Paese: Grecia</td></tr>
+> <tr><td colspan="6">Valsts: Grieķija</td></tr>
+> <tr><td colspan="6">Šalis: Graikija</td></tr>
+> <tr><td colspan="6">Ország: Görögország</td></tr>
+> <tr><td colspan="6">Pajjiż: Greċja</td></tr>
+> <tr><td colspan="6">Land: Griekenland</td></tr>
+> <tr><td colspan="6">Kraj: Grecja</td></tr>
+> <tr><td colspan="6">País: Grécia</td></tr>
+> <tr><td colspan="6">Krajina: Grécko</td></tr>
+> <tr><td colspan="6">Država: Grčija</td></tr>
+> <tr><td colspan="6">Maa: Kreikka</td></tr>
+> <tr><td colspan="6">Land: Grekland</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Evzoni</td><td>1006099</td><td>R</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Athens International Airport</td><td>1005599</td><td>A</td><td>I/C 1</td><td>HC(2), NHC-NT(2)</td><td>U, E, O</td></tr>
+> <tr><td>Idomeni</td><td>1006299</td><td>F</td><td></td><td></td><td>U, E</td></tr>
+> <tr><td>Kakavia</td><td>1007099</td><td>R</td><td></td><td>HC(2), NHC-NT</td><td></td></tr>
+> <tr><td>Neos Kafkassos</td><td>1006399</td><td>F</td><td></td><td>HC(2), NHC-NT</td><td>U, E, O</td></tr>
+> <tr><td>Neos Kafkassos</td><td>1006399</td><td>R</td><td></td><td>HC, NHC-NT</td><td>U, E, O</td></tr>
+> <tr><td>Ormenion (*)</td><td>1006699</td><td>R</td><td></td><td>HC(2), NHC-NT</td><td>(*) U, (*) O, (*) E</td></tr>
+> <tr><td>Peplos (*)</td><td>1007299</td><td>R</td><td></td><td>HC(2), NHC-NT</td><td>(*) U, (*) O</td></tr>
+> <tr><td>Pireas</td><td>1005499</td><td>P</td><td></td><td>HC(2), NHC-NT,</td><td></td></tr>
+> <tr><td>Promachonas</td><td>1006199</td><td>F</td><td></td><td></td><td>U, E, O</td></tr>
+> <tr><td>Promachonas</td><td>1006199</td><td>R</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Thessaloniki</td><td>1005799</td><td>A</td><td></td><td>HC(2), NHC-NT,</td><td>O</td></tr>
+> <tr><td>Thessaloniki</td><td>1005699</td><td>P</td><td></td><td>HC(2), NHC-NT</td><td>U, E</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Španělsko</td></tr>
+> <tr><td colspan="6">Land: Spanien</td></tr>
+> <tr><td colspan="6">Land: Spanien</td></tr>
+> <tr><td colspan="6">Riik: Hispaania</td></tr>
+> <tr><td colspan="6">Χώρα: Ισπανία</td></tr>
+> <tr><td colspan="6">Country: Spain</td></tr>
+> <tr><td colspan="6">País: España</td></tr>
+> <tr><td colspan="6">Pays: Espagne</td></tr>
+> <tr><td colspan="6">Paese: Spagna</td></tr>
+> <tr><td colspan="6">Valsts: Spānija</td></tr>
+> <tr><td colspan="6">Šalis: Ispanija</td></tr>
+> <tr><td colspan="6">Ország: Spanyolország</td></tr>
+> <tr><td colspan="6">Pajjiż: Spanja</td></tr>
+> <tr><td colspan="6">Land: Spanje</td></tr>
+> <tr><td colspan="6">Kraj: Hiszpania</td></tr>
+> <tr><td colspan="6">País: Espanha</td></tr>
+> <tr><td colspan="6">Krajina: Španielsko</td></tr>
+> <tr><td colspan="6">Država: Španija</td></tr>
+> <tr><td colspan="6">Maa: Espanja</td></tr>
+> <tr><td colspan="6">Land: Spanien</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td rowspan="2">A Coruña — Laxe</td><td rowspan="2">1148899</td><td rowspan="2">P</td><td>A Coruña</td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Laxe</td><td>HC</td><td></td></tr>
+> <tr><td rowspan="2">Algeciras</td><td rowspan="2">1147599</td><td rowspan="2">P</td><td>Productos</td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Animales</td><td></td><td>U, E, O</td></tr>
+> <tr><td>Alicante</td><td>1149999</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Alicante</td><td>1148299</td><td>P</td><td></td><td>HC, NHC-NT</td><td></td></tr>
+> <tr><td>Almería</td><td>1150099</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Almería</td><td>1148399</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Asturias</td><td>1150199</td><td>A</td><td></td><td>HC(2)</td><td></td></tr>
+> <tr><td rowspan="2">Barcelona</td><td rowspan="2">1150299</td><td rowspan="2">A</td><td>Iberia</td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Flightcare</td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Barcelona</td><td>1147199</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Bilbao</td><td>1150399</td><td>A</td><td></td><td>HC(2), NHC(2),</td><td>O</td></tr>
+> <tr><td>Bilbao</td><td>1148499</td><td>P</td><td></td><td>HC, NHC-NT, NHC-T(FR)</td><td></td></tr>
+> <tr><td>Cádiz</td><td>1147499</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Cartagena</td><td>1148599</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Castellón</td><td>1149799</td><td>P</td><td></td><td>HC-NT, NHC-NT</td><td></td></tr>
+> <tr><td>Gijón</td><td>1148699</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Gran Canaria</td><td>1150499</td><td>A</td><td></td><td>HC(2), NHC-NT(2)</td><td>O</td></tr>
+> <tr><td rowspan="2">Huelva</td><td rowspan="2">1148799</td><td rowspan="2">P</td><td>Puerto Interior</td><td>HC</td><td></td></tr>
+> <tr><td>Puerto Exterior</td><td>NHC-NT</td><td></td></tr>
+> <tr><td rowspan="2">Las Palmas de Gran Canaria</td><td rowspan="2">1148199</td><td rowspan="2">P</td><td>Productos</td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Animales</td><td></td><td>U, E, O</td></tr>
+> <tr><td rowspan="4">Madrid</td><td rowspan="4">1147899</td><td rowspan="4">A</td><td>Iberia</td><td>HC(2), NHC(2)</td><td>U, E, O</td></tr>
+> <tr><td>Flightcare</td><td>HC(2), NHC-T(CH)(2)<br>NHC-NT(2)</td><td>U, E, O</td></tr>
+> <tr><td>PER4</td><td>HC-T(CH)(2)</td><td></td></tr>
+> <tr><td>SFS</td><td>HC(2), NHC-T(CH)(2)<br>NHC-NT(2)</td><td>O</td></tr>
+> <tr><td rowspan="2">Málaga</td><td rowspan="2">1150599</td><td rowspan="2">A</td><td>Iberia</td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>DHL</td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>Málaga</td><td>1147399</td><td>P</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Marín</td><td>1149599</td><td>P</td><td></td><td>HC, NHC-T(FR)<br>NHC-NT</td><td></td></tr>
+> <tr><td>Palma de Mallorca</td><td>1147999</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Pasajes (*)</td><td>1147799</td><td>P</td><td></td><td>HC (*), NHC (*)</td><td></td></tr>
+> <tr><td rowspan="2">Santa Cruz de Tenerife</td><td rowspan="2">1148099</td><td rowspan="2">P</td><td>Dársena</td><td>HC</td><td></td></tr>
+> <tr><td>Dique</td><td>NHC</td><td>U, E, O</td></tr>
+> <tr><td>Santander</td><td>1150799</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>Santander</td><td>1148999</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Santiago de Compostela</td><td>1149899</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>San Sebastián (*)</td><td>1150699</td><td>A</td><td></td><td>HC(2) (*), NHC(2) (*)</td><td></td></tr>
+> <tr><td>Sevilla</td><td>1150899</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Sevilla</td><td>1149099</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Tarragona</td><td>1149199</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Tenerife Norte</td><td>1150999</td><td>A</td><td></td><td>HC(2)</td><td></td></tr>
+> <tr><td rowspan="2">Tenerife Sur</td><td rowspan="2">1149699</td><td rowspan="2">A</td><td>Productos</td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>Animales</td><td></td><td>U, E, O</td></tr>
+> <tr><td>Valencia</td><td>1151099</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Valencia</td><td>1147299</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Vigo</td><td>1151199</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td rowspan="8">Vigo</td><td rowspan="8">1147699</td><td rowspan="8">P</td><td>T. C. Guixar</td><td>HC, NHC-T(FR)<br>NHC-NT</td><td></td></tr>
+> <tr><td>Pantalan 3</td><td>HC-T(FR)(2,3)</td><td></td></tr>
+> <tr><td>Frioya</td><td>HC-T(FR)(2,3)</td><td></td></tr>
+> <tr><td>Frigalsa</td><td>HC-T(FR)(2,3)</td><td></td></tr>
+> <tr><td>Pescanova</td><td>HC-T(FR)(2,3)</td><td></td></tr>
+> <tr><td>Vieirasa</td><td>HC-T(FR)(3)</td><td></td></tr>
+> <tr><td>Fandicosta</td><td>HC-T(FR)(2,3)</td><td></td></tr>
+> <tr><td>Frig. Morrazo</td><td>HC-T(FR)(3)</td><td></td></tr>
+> <tr><td rowspan="3">Vilagarcia-Ribeira-Caramiñal</td><td rowspan="3">1149499</td><td rowspan="3">P</td><td>Vilagarcia</td><td>HC(2), NHC(2,11)</td><td></td></tr>
+> <tr><td>Ribeira</td><td>HC</td><td></td></tr>
+> <tr><td>Caramiñal</td><td>HC</td><td></td></tr>
+> <tr><td rowspan="2">Vitoria</td><td rowspan="2">1149299</td><td rowspan="2">A</td><td>Productos</td><td>HC(2), NHC-NT(2)<br>NHC-T (CH)(2)</td><td></td></tr>
+> <tr><td>Animales</td><td></td><td>U, E, O</td></tr>
+> <tr><td>Zaragoza</td><td>1149399</td><td>A</td><td></td><td>HC(2)</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Francie</td></tr>
+> <tr><td colspan="6">Land: Frankrig</td></tr>
+> <tr><td colspan="6">Land: Frankreich</td></tr>
+> <tr><td colspan="6">Riik: Prantsusmaa</td></tr>
+> <tr><td colspan="6">Χώρα: Γαλλία</td></tr>
+> <tr><td colspan="6">Country: France</td></tr>
+> <tr><td colspan="6">País: Francia</td></tr>
+> <tr><td colspan="6">Pays: France</td></tr>
+> <tr><td colspan="6">Paese: Francia</td></tr>
+> <tr><td colspan="6">Valsts: Francija</td></tr>
+> <tr><td colspan="6">Šalis: Prancūzija</td></tr>
+> <tr><td colspan="6">Ország: Franciaország</td></tr>
+> <tr><td colspan="6">Pajjiż: Franza</td></tr>
+> <tr><td colspan="6">Land: Frankrijk</td></tr>
+> <tr><td colspan="6">Kraj: Francja</td></tr>
+> <tr><td colspan="6">País: França</td></tr>
+> <tr><td colspan="6">Krajina: Francúzsko</td></tr>
+> <tr><td colspan="6">Država: Francija</td></tr>
+> <tr><td colspan="6">Maa: Ranska</td></tr>
+> <tr><td colspan="6">Land: Frankrike</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Beauvais</td><td>0216099</td><td>A</td><td></td><td></td><td>E</td></tr>
+> <tr><td>Bordeaux</td><td>0213399</td><td>A</td><td></td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>Bordeaux</td><td>0213399</td><td>P</td><td></td><td>HC-NT</td><td></td></tr>
+> <tr><td>Boulogne</td><td>0216299</td><td>P</td><td></td><td>HC-T(1)(3), HC-NT(1)(3)</td><td></td></tr>
+> <tr><td>Brest</td><td>0212999</td><td>A</td><td></td><td>HC-T(CH)(1)(2)</td><td></td></tr>
+> <tr><td>Brest</td><td>0212999</td><td>P</td><td></td><td>HC-T(FR), NHC-T(FR)</td><td></td></tr>
+> <tr><td>Châteauroux-Déols</td><td>0213699</td><td>A</td><td></td><td>HC-T(2)</td><td></td></tr>
+> <tr><td rowspan="2">Concarneau-Douarnenez</td><td rowspan="2">0222999</td><td rowspan="2">P</td><td>Concarneau</td><td>HC-T(1)(3)</td><td></td></tr>
+> <tr><td>Douarnenez</td><td>HC-T(FR)(1)(3)</td><td></td></tr>
+> <tr><td>Deauville</td><td>0211499</td><td>A</td><td></td><td></td><td>E</td></tr>
+> <tr><td>Dunkerque</td><td>0215999</td><td>P</td><td></td><td>HC-T(1), HC-NT, NHC-NT</td><td></td></tr>
+> <tr><td>Ferney-Voltaire (Genève)</td><td>0220199</td><td>A</td><td></td><td>HC-T(1), HC-NT, NHC</td><td>O</td></tr>
+> <tr><td rowspan="4">Le Havre</td><td rowspan="4">0217699</td><td rowspan="4">P</td><td>Hangar 56</td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>Dugrand</td><td>HC-T(1)</td><td></td></tr>
+> <tr><td>EFBS</td><td>HC-T(1)</td><td></td></tr>
+> <tr><td>Fécamp</td><td>NHC-NT(6)</td><td></td></tr>
+> <tr><td rowspan="2">Lorient</td><td rowspan="2">0215699</td><td rowspan="2">P</td><td>STEF TFE</td><td>HC-T(1), HC-NT</td><td></td></tr>
+> <tr><td>CCIM</td><td>NHC</td><td></td></tr>
+> <tr><td>Lyon-Saint-Exupéry</td><td>0216999</td><td>A</td><td></td><td>HC-T(1), HC-NT, NHC</td><td>O</td></tr>
+> <tr><td rowspan="3">Marseille-Port</td><td rowspan="3">0211399</td><td rowspan="3">P</td><td>Hangar 14</td><td></td><td>U, E, O</td></tr>
+> <tr><td>Hangar 26-Mourepiane</td><td>NHC-NT</td><td></td></tr>
+> <tr><td>Hôtel des services publics de la Madrague</td><td>HC-T(1), HC-NT</td><td></td></tr>
+> <tr><td>Marseille-Fos-sur-Mer</td><td>0231399</td><td>P</td><td></td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>Marseille-aéroport</td><td>0221399</td><td>A</td><td></td><td>HC-T(1), HC-NT, NHC-NT</td><td>O</td></tr>
+> <tr><td>Nantes-Saint-Nazaire</td><td>0214499</td><td>A</td><td></td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>Nantes-Saint-Nazaire</td><td>0214499</td><td>P</td><td></td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>Nice</td><td>0210699</td><td>A</td><td></td><td>HC-T(CH)(2)</td><td>O</td></tr>
+> <tr><td rowspan="3">Orly</td><td rowspan="3">0229499</td><td rowspan="3">A</td><td>SFS</td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>Air France</td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>France Handling</td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>Réunion-Port Réunion</td><td>0229999</td><td>P</td><td></td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td>Réunion-Roland-Garros</td><td>0219999</td><td>A</td><td></td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td rowspan="4">Roissy-Charles-de-Gaulle</td><td rowspan="4">0219399</td><td rowspan="4">A</td><td>Air France</td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>France Handling</td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>Centre SFS</td><td>HC-T(1), HC-NT</td><td></td></tr>
+> <tr><td>Station animalière</td><td></td><td>U, E, O</td></tr>
+> <tr><td>Rouen</td><td>0227699</td><td>P</td><td></td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>Saint-Louis-Bâle</td><td>0216899</td><td>A</td><td></td><td>HC-T(1), HC-NT, NHC</td><td>O</td></tr>
+> <tr><td>Saint-Louis-Bâle</td><td>0216899</td><td>R</td><td></td><td>HC-T(1), HC-NT, NHC</td><td></td></tr>
+> <tr><td>Saint-Malo</td><td>0213599</td><td>P</td><td></td><td>NHC-NT</td><td></td></tr>
+> <tr><td>Saint-Julien Bardonnex</td><td>0217499</td><td>R</td><td></td><td>HC-T(1), HC-NT, NHC</td><td>U, O</td></tr>
+> <tr><td rowspan="2">Sète</td><td rowspan="2">0213499</td><td rowspan="2">P</td><td>Sète</td><td>NHC-NT</td><td></td></tr>
+> <tr><td>Frontignan</td><td>HC-T(1), HC-NT</td><td></td></tr>
+> <tr><td>Toulouse-Blagnac</td><td>0213199</td><td>A</td><td></td><td>HC-T(1)(2), HC-NT(2), NHC</td><td>O</td></tr>
+> <tr><td>Vatry</td><td>0215199</td><td>A</td><td></td><td>HC-T(CH)(2)</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Irsko</td></tr>
+> <tr><td colspan="6">Land: Irland</td></tr>
+> <tr><td colspan="6">Land: Irland</td></tr>
+> <tr><td colspan="6">Riik: Iirimaa</td></tr>
+> <tr><td colspan="6">Χώρα: Ιρλανδία</td></tr>
+> <tr><td colspan="6">Country: Ireland</td></tr>
+> <tr><td colspan="6">País: Irlanda</td></tr>
+> <tr><td colspan="6">Pays: Irlande</td></tr>
+> <tr><td colspan="6">Paese: Irlanda</td></tr>
+> <tr><td colspan="6">Valsts: Īrija</td></tr>
+> <tr><td colspan="6">Šalis: Airija</td></tr>
+> <tr><td colspan="6">Ország: Írország</td></tr>
+> <tr><td colspan="6">Pajjiż: Irlanda</td></tr>
+> <tr><td colspan="6">Land: Ierland</td></tr>
+> <tr><td colspan="6">Kraj: Irlandia</td></tr>
+> <tr><td colspan="6">País: Irlanda</td></tr>
+> <tr><td colspan="6">Krajina: Írsko</td></tr>
+> <tr><td colspan="6">Država: Irska</td></tr>
+> <tr><td colspan="6">Maa: Irlanti</td></tr>
+> <tr><td colspan="6">Land: Irland</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Dublin Airport</td><td>0802999</td><td>A</td><td></td><td></td><td>E, O</td></tr>
+> <tr><td>Dublin Port</td><td>0802899</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Shannon</td><td>0803199</td><td>A</td><td></td><td>HC(2)<br>NHC(2)</td><td>U, E, O</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Itálie</td></tr>
+> <tr><td colspan="6">Land: Italien</td></tr>
+> <tr><td colspan="6">Land: Italien</td></tr>
+> <tr><td colspan="6">Riik: Itaalia</td></tr>
+> <tr><td colspan="6">Χώρα: Ιταλία</td></tr>
+> <tr><td colspan="6">Country: Italy</td></tr>
+> <tr><td colspan="6">País: Italia</td></tr>
+> <tr><td colspan="6">Pays: Italie</td></tr>
+> <tr><td colspan="6">Paese: Italia</td></tr>
+> <tr><td colspan="6">Valsts: Itālija</td></tr>
+> <tr><td colspan="6">Šalis: Italija</td></tr>
+> <tr><td colspan="6">Ország: Olaszország</td></tr>
+> <tr><td colspan="6">Pajjiż: Italja</td></tr>
+> <tr><td colspan="6">Land: Italië</td></tr>
+> <tr><td colspan="6">Kraj: Włochy</td></tr>
+> <tr><td colspan="6">País: Itália</td></tr>
+> <tr><td colspan="6">Krajina: Taliansko</td></tr>
+> <tr><td colspan="6">Država: Italija</td></tr>
+> <tr><td colspan="6">Maa: Italia</td></tr>
+> <tr><td colspan="6">Land: Italien</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Ancona</td><td>0310199</td><td>A</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Ancona</td><td>0300199</td><td>P</td><td></td><td>HC</td><td></td></tr>
+> <tr><td>Bari</td><td>0300299</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Bergamo</td><td>0303999</td><td>A</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Bologna-Borgo Panigale</td><td>0300499</td><td>A</td><td></td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td>Campocologno</td><td>0303199</td><td>F</td><td></td><td></td><td>U</td></tr>
+> <tr><td>Chiasso</td><td>0310599</td><td>F</td><td></td><td>HC, NHC</td><td>U, O</td></tr>
+> <tr><td>Chiasso</td><td>0300599</td><td>R</td><td></td><td>HC, NHC</td><td>U, O</td></tr>
+> <tr><td>Gaeta</td><td>0303299</td><td>P</td><td></td><td>HC-T(3)</td><td></td></tr>
+> <tr><td rowspan="6">Genova</td><td rowspan="6">0301099</td><td rowspan="6">P</td><td>Calata Sanità (terminal Sech)</td><td>HC, NHC-NT</td><td rowspan="6"></td></tr>
+> <tr><td>Calata Bettolo (terminal Grimaldi)</td><td>HC-T(FR)</td></tr>
+> <tr><td>Nino Ronco (terminal Messina)</td><td>NHC-NT</td></tr>
+> <tr><td>Porto di Voltri (Voltri)</td><td>HC, NHC-NT</td></tr>
+> <tr><td>Porto di Vado (Vado Ligure — Savona)</td><td>HC-T(FR), NHC-NT</td></tr>
+> <tr><td>Ponte Paleocapa</td><td>NHC-NT(6)</td></tr>
+> <tr><td>Genova</td><td>0311099</td><td>A</td><td></td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td>Gioia Tauro</td><td>0304099</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Gran San Bernardo-Pollein</td><td>0302099</td><td>R</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>La Spezia</td><td>0303399</td><td>P</td><td></td><td>HC, NHC</td><td>U, E</td></tr>
+> <tr><td rowspan="4">Livorno — Pisa</td><td rowspan="4">0301399</td><td rowspan="4">P</td><td>Porto Commerciale</td><td>HC, NHC</td><td rowspan="4"></td></tr>
+> <tr><td>Sintermar</td><td>HC, NHC</td></tr>
+> <tr><td>Lorenzini</td><td>HC, NHC-NT</td></tr>
+> <tr><td>Terminal Darsena Toscana</td><td>HC, NHC</td></tr>
+> <tr><td>Livorno — Pisa</td><td>0304299</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>Milano — Linate</td><td>0301299</td><td>A</td><td></td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td rowspan="2">Milano — Malpensa</td><td rowspan="2">0301599</td><td rowspan="2">A</td><td>Magazzini aeroportuali</td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Cargo City</td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td>Napoli</td><td>0301899</td><td>P</td><td>Molo Bausan</td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Napoli</td><td>0311899</td><td>A</td><td></td><td>HC, NHC-NT</td><td></td></tr>
+> <tr><td>Olbia</td><td>0302299</td><td>P</td><td></td><td>HC-T(FR)(3)</td><td></td></tr>
+> <tr><td>Palermo</td><td>0301999</td><td>A</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Palermo</td><td>0311999</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td rowspan="5">Ravenna</td><td rowspan="5">0303499</td><td rowspan="5">P</td><td>Frigoterminal</td><td>HC-T(FR), HC-T(CH), HC-NT</td><td rowspan="5"></td></tr>
+> <tr><td>Sapir 1</td><td>NHC-NT</td></tr>
+> <tr><td>Sapir 2</td><td>HC-T(FR), HC-T(CH), HC-NT</td></tr>
+> <tr><td>Setramar</td><td>NHC-NT</td></tr>
+> <tr><td>Docks Cereali</td><td>NHC-NT</td></tr>
+> <tr><td>Reggio Calabria</td><td>0301799</td><td>P</td><td></td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td>Reggio Calabria</td><td>0311799</td><td>A</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td rowspan="2">Roma — Fiumicino</td><td rowspan="2">0300899</td><td rowspan="2">A</td><td>Alitalia</td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td>Cargo City ADR</td><td>HC, NHC</td><td>E, O</td></tr>
+> <tr><td>Rimini</td><td>0304199</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>Salerno</td><td>0303599</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Taranto</td><td>0303699</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Torino — Caselle</td><td>0302599</td><td>A</td><td></td><td>HC-T(2), NHC-NT(2)</td><td>O</td></tr>
+> <tr><td>Trapani</td><td>0303799</td><td>P</td><td></td><td>HC</td><td></td></tr>
+> <tr><td rowspan="3">Trieste</td><td rowspan="3">0302699</td><td rowspan="3">P</td><td>Hangar 69</td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Molo “O”</td><td></td><td>U, E</td></tr>
+> <tr><td>Mag. FRIGOMAR</td><td>HC-T (*)</td><td></td></tr>
+> <tr><td>Venezia</td><td>0312799</td><td>A</td><td></td><td>HC(2), NHC-T(CH)(2), NHC-NT(2)</td><td></td></tr>
+> <tr><td>Venezia</td><td>0302799</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Verona</td><td>0302999</td><td>A</td><td></td><td>HC(2) NHC(2)</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Kypr</td></tr>
+> <tr><td colspan="6">Land: Cypern</td></tr>
+> <tr><td colspan="6">Land: Zypern</td></tr>
+> <tr><td colspan="6">Riik: Küpros</td></tr>
+> <tr><td colspan="6">Χώρα: Κύπρος</td></tr>
+> <tr><td colspan="6">Country: Cyprus</td></tr>
+> <tr><td colspan="6">País: Chipre</td></tr>
+> <tr><td colspan="6">Pays: Chypre</td></tr>
+> <tr><td colspan="6">Paese: Cipro</td></tr>
+> <tr><td colspan="6">Valsts: Kipra</td></tr>
+> <tr><td colspan="6">Šalis: Kipras</td></tr>
+> <tr><td colspan="6">Ország: Ciprus</td></tr>
+> <tr><td colspan="6">Pajjiż: Ċipru</td></tr>
+> <tr><td colspan="6">Land: Cyprus</td></tr>
+> <tr><td colspan="6">Kraj: Cypr</td></tr>
+> <tr><td colspan="6">País: Chipre</td></tr>
+> <tr><td colspan="6">Krajina: Cyprus</td></tr>
+> <tr><td colspan="6">Država: Ciper</td></tr>
+> <tr><td colspan="6">Maa: Kypros</td></tr>
+> <tr><td colspan="6">Land: Cypern</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Larnaka</td><td>2140099</td><td>A</td><td></td><td>HC(2), NHC-NT(2)</td><td>O</td></tr>
+> <tr><td>Lemesos</td><td>2150099</td><td>P</td><td></td><td>HC(2), NHC-NT</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Lotyšsko</td></tr>
+> <tr><td colspan="6">Land: Letland</td></tr>
+> <tr><td colspan="6">Land: Lettland</td></tr>
+> <tr><td colspan="6">Riik: Läti</td></tr>
+> <tr><td colspan="6">Χώρα: Λεττονία</td></tr>
+> <tr><td colspan="6">Country: Latvia</td></tr>
+> <tr><td colspan="6">País: Letonia</td></tr>
+> <tr><td colspan="6">Pays: Lettonie</td></tr>
+> <tr><td colspan="6">Paese: Lettonia</td></tr>
+> <tr><td colspan="6">Valsts: Latvija</td></tr>
+> <tr><td colspan="6">Šalis: Latvija</td></tr>
+> <tr><td colspan="6">Ország: Lettország</td></tr>
+> <tr><td colspan="6">Pajjiż: Latvja</td></tr>
+> <tr><td colspan="6">Land: Letland</td></tr>
+> <tr><td colspan="6">Kraj: Łotwa</td></tr>
+> <tr><td colspan="6">País: Letónia</td></tr>
+> <tr><td colspan="6">Krajina: Lotyšsko</td></tr>
+> <tr><td colspan="6">Država: Latvija</td></tr>
+> <tr><td colspan="6">Maa: Latvia</td></tr>
+> <tr><td colspan="6">Land: Lettland</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Daugavpils</td><td>2981699</td><td>F</td><td></td><td>HC(2), NHC(NT)(2)</td><td>O</td></tr>
+> <tr><td>Grebņeva(14)</td><td>2972199</td><td>R</td><td></td><td>HC, NHC-T(CH), NHC-NT</td><td></td></tr>
+> <tr><td rowspan="2">Pātarnieki</td><td rowspan="2">2973199</td><td rowspan="2">R</td><td>IC1</td><td>HC, NHC-T(CH), NHC-NT</td><td></td></tr>
+> <tr><td>IC2</td><td></td><td>U, E, O</td></tr>
+> <tr><td>Rēzekne(14)</td><td>2974299</td><td>F</td><td></td><td>HC(2), NHC(NT)(2)</td><td></td></tr>
+> <tr><td>Rīga <em>(Riga port)</em></td><td>2921099</td><td>P</td><td></td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>Rīga <em>(Baltmarine Terminal)</em></td><td>2905099</td><td>P</td><td></td><td>HC-T(FR)(2)</td><td></td></tr>
+> <tr><td>Terehova(14)</td><td>2972299</td><td>R</td><td></td><td>HC, NHC-NT</td><td>E, O</td></tr>
+> <tr><td>Ventspils</td><td>2931199</td><td>P</td><td></td><td>HC(2), NHC(2)</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Litva</td></tr>
+> <tr><td colspan="6">Land: Litauen</td></tr>
+> <tr><td colspan="6">Land: Litauen</td></tr>
+> <tr><td colspan="6">Riik: Leedu</td></tr>
+> <tr><td colspan="6">Χώρα: Λιθουανία</td></tr>
+> <tr><td colspan="6">Country: Lithuania</td></tr>
+> <tr><td colspan="6">País: Lituania</td></tr>
+> <tr><td colspan="6">Pays: Lituanie</td></tr>
+> <tr><td colspan="6">Paese: Lituania</td></tr>
+> <tr><td colspan="6">Valsts: Lietuva</td></tr>
+> <tr><td colspan="6">Šalis: Lietuva</td></tr>
+> <tr><td colspan="6">Ország: Litvánia</td></tr>
+> <tr><td colspan="6">Pajjiż: Litwanja</td></tr>
+> <tr><td colspan="6">Land: Litouwen</td></tr>
+> <tr><td colspan="6">Kraj: Litwa</td></tr>
+> <tr><td colspan="6">País: Lituânia</td></tr>
+> <tr><td colspan="6">Krajina: Litva</td></tr>
+> <tr><td colspan="6">Država: Litva</td></tr>
+> <tr><td colspan="6">Maa: Liettua</td></tr>
+> <tr><td colspan="6">Land: Litauen</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Kena(14)</td><td>3001399</td><td>F</td><td></td><td>HC-T(FR), HC-NT, NHC-T(FR), NHC-NT</td><td></td></tr>
+> <tr><td>Kybartai(14)</td><td>3001899</td><td>R</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Kybartai(14)</td><td>3002199</td><td>F</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Lavoriškės(14)</td><td>3001199</td><td>R</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Medininkai(14)</td><td>3001299</td><td>R</td><td></td><td>HC, NHC-T(FR)<br>NHC-NT</td><td>U, E, O</td></tr>
+> <tr><td>Molo</td><td>3001699</td><td>P</td><td></td><td>HC-T(FR)(2), HC-NT(2)<br>NHC-T(FR)(2), NHC-NT(2)</td><td></td></tr>
+> <tr><td>Malkų įlankos</td><td>3001599</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Pilies</td><td>3002299</td><td>P</td><td></td><td>HC-T(FR)(2), HC-NT(2)<br>NHC-T(FR)(2), NHC-NT(2)</td><td></td></tr>
+> <tr><td>Panemunė(14)</td><td>3001799</td><td>R</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Pagėgiai(14)</td><td>3002099</td><td>F</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Šalčininkai(14)</td><td>3001499</td><td>R</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Vilnius</td><td>3001999</td><td>A</td><td></td><td>HC, NHC</td><td>O</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Lucembursko</td></tr>
+> <tr><td colspan="6">Land: Luxembourg</td></tr>
+> <tr><td colspan="6">Land: Luxemburg</td></tr>
+> <tr><td colspan="6">Riik: Luksemburg</td></tr>
+> <tr><td colspan="6">Χώρα: Λουξεμβούργο</td></tr>
+> <tr><td colspan="6">Country: Luxembourg</td></tr>
+> <tr><td colspan="6">País: Luxemburgo</td></tr>
+> <tr><td colspan="6">Pays: Luxembourg</td></tr>
+> <tr><td colspan="6">Paese: Lussemburgo</td></tr>
+> <tr><td colspan="6">Valsts: Luksemburga</td></tr>
+> <tr><td colspan="6">Šalis: Liuksemburgas</td></tr>
+> <tr><td colspan="6">Ország: Luxemburg</td></tr>
+> <tr><td colspan="6">Pajjiż: Lussemburgu</td></tr>
+> <tr><td colspan="6">Land: Luxemburg</td></tr>
+> <tr><td colspan="6">Kraj: Luksemburg</td></tr>
+> <tr><td colspan="6">País: Luxemburgo</td></tr>
+> <tr><td colspan="6">Krajina: Luxembursko</td></tr>
+> <tr><td colspan="6">Država: Luksemburg</td></tr>
+> <tr><td colspan="6">Maa: Luxemburg</td></tr>
+> <tr><td colspan="6">Land: Luxemburg</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td rowspan="4">Luxembourg</td><td rowspan="4">0600199</td><td rowspan="4">A</td><td>Centre 1</td><td>HC</td><td></td></tr>
+> <tr><td>Centre 2</td><td>NHC-NT</td><td></td></tr>
+> <tr><td>Centre 3</td><td></td><td>U, E, O</td></tr>
+> <tr><td>Centre 4</td><td>NHC-T(CH)(2)</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Maďarsko</td></tr>
+> <tr><td colspan="6">Land: Ungarn</td></tr>
+> <tr><td colspan="6">Land: Ungarn</td></tr>
+> <tr><td colspan="6">Riik: Ungari</td></tr>
+> <tr><td colspan="6">Χώρα: Ουγγαρία</td></tr>
+> <tr><td colspan="6">Country: Hungary</td></tr>
+> <tr><td colspan="6">País: Hungría</td></tr>
+> <tr><td colspan="6">Pays: Hongrie</td></tr>
+> <tr><td colspan="6">Paese: Ungheria</td></tr>
+> <tr><td colspan="6">Valsts: Ungārija</td></tr>
+> <tr><td colspan="6">Šalis: Vengrija</td></tr>
+> <tr><td colspan="6">Ország: Magyarország</td></tr>
+> <tr><td colspan="6">Pajjiż: Ungerija</td></tr>
+> <tr><td colspan="6">Land: Hongarije</td></tr>
+> <tr><td colspan="6">Kraj: Węgry</td></tr>
+> <tr><td colspan="6">País: Hungria</td></tr>
+> <tr><td colspan="6">Krajina: Maďarsko</td></tr>
+> <tr><td colspan="6">Država: Madžarska</td></tr>
+> <tr><td colspan="6">Maa: Unkari</td></tr>
+> <tr><td colspan="6">Land: Ungern</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Budapest-Ferihegy</td><td>2400399</td><td>A</td><td></td><td>HC(2), NHC-T(CH)(2)<br>NHC-NT(2)</td><td>O</td></tr>
+> <tr><td>Eperjeske</td><td>2402899</td><td>F</td><td></td><td>HC-T(CH)(2), HC(NT(2), NHC-T(CH)(2), NHC-NT(2),</td><td></td></tr>
+> <tr><td>Gyékényes</td><td>2400499</td><td>F</td><td></td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>Kelebia</td><td>2402499</td><td>F</td><td></td><td>HC-T(CH)(2), HC(NT(2), NHC-T(CH)(2), NHC-NT(2),</td><td></td></tr>
+> <tr><td>Letenye</td><td>2401199</td><td>R</td><td></td><td>HC(2), NHC-NT(2)</td><td>E</td></tr>
+> <tr><td>Nagylak (13)</td><td>2401699</td><td>R</td><td></td><td>HC, NHC,</td><td>U, E, O</td></tr>
+> <tr><td>Röszke</td><td>2402299</td><td>R</td><td></td><td>HC(2), NHC-NT(2)</td><td>E</td></tr>
+> <tr><td>Záhony</td><td>2402799</td><td>R</td><td></td><td>HC, NHC-NT(2)</td><td>U, E</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Malta</td></tr>
+> <tr><td colspan="6">Land: Malta</td></tr>
+> <tr><td colspan="6">Land: Malta</td></tr>
+> <tr><td colspan="6">Riik: Malta</td></tr>
+> <tr><td colspan="6">Χώρα: Μάλτα</td></tr>
+> <tr><td colspan="6">Country: Malta</td></tr>
+> <tr><td colspan="6">País: Malta</td></tr>
+> <tr><td colspan="6">Pays: Malte</td></tr>
+> <tr><td colspan="6">Paese: Malta</td></tr>
+> <tr><td colspan="6">Valsts: Malta</td></tr>
+> <tr><td colspan="6">Šalis: Malta</td></tr>
+> <tr><td colspan="6">Ország: Málta</td></tr>
+> <tr><td colspan="6">Pajjiż: Malta</td></tr>
+> <tr><td colspan="6">Land: Malta</td></tr>
+> <tr><td colspan="6">Kraj: Malta</td></tr>
+> <tr><td colspan="6">País: Malta</td></tr>
+> <tr><td colspan="6">Krajina: Malta</td></tr>
+> <tr><td colspan="6">Država: Malta</td></tr>
+> <tr><td colspan="6">Maa: Malta</td></tr>
+> <tr><td colspan="6">Land: Malta</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Luqa</td><td>3101099</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Marsaxxlok</td><td>3103099</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Nizozemsko</td></tr>
+> <tr><td colspan="6">Land: Nederlandene</td></tr>
+> <tr><td colspan="6">Land: Niederlande</td></tr>
+> <tr><td colspan="6">Riik: Madalmaad</td></tr>
+> <tr><td colspan="6">Χώρα: Κάτω Χώρες</td></tr>
+> <tr><td colspan="6">Country: Netherlands</td></tr>
+> <tr><td colspan="6">País: Países Bajos</td></tr>
+> <tr><td colspan="6">Pays: Pays-Bas</td></tr>
+> <tr><td colspan="6">Paese: Paesi Bassi</td></tr>
+> <tr><td colspan="6">Valsts: Nīderlande</td></tr>
+> <tr><td colspan="6">Šalis: Nyderlandai</td></tr>
+> <tr><td colspan="6">Ország: Hollandia</td></tr>
+> <tr><td colspan="6">Pajjiż: Olanda</td></tr>
+> <tr><td colspan="6">Land: Nederland</td></tr>
+> <tr><td colspan="6">Kraj: Niderlandy</td></tr>
+> <tr><td colspan="6">País: Países Baixos</td></tr>
+> <tr><td colspan="6">Krajina: Holandsko</td></tr>
+> <tr><td colspan="6">Država: Nizozemska</td></tr>
+> <tr><td colspan="6">Maa: Alankomaat</td></tr>
+> <tr><td colspan="6">Land: Nederländerna</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td rowspan="4">Amsterdam</td><td rowspan="4">0401399</td><td rowspan="4">A</td><td>KLM-1</td><td>HC(2), NHC</td><td></td></tr>
+> <tr><td>Aero Ground Services</td><td>HC(2), NHC-T(FR) NHC-NT(2)</td><td>O(9)(10)</td></tr>
+> <tr><td>KLM-2</td><td></td><td>U, E, O(12)</td></tr>
+> <tr><td>Freshport</td><td>HC(2) NHC(2)</td><td>O(9)(10)</td></tr>
+> <tr><td rowspan="4">Amsterdam</td><td rowspan="4">0401799</td><td rowspan="4">P</td><td>Cornelius Vrolijk</td><td>HC-T(FR)(2)(3)</td><td></td></tr>
+> <tr><td>Daalimpex Velzen</td><td>HC-T</td><td></td></tr>
+> <tr><td>PCA</td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>Kloosterboer IJmuiden</td><td>HC-T(FR)</td><td></td></tr>
+> <tr><td>Eemshaven</td><td>0401899</td><td>P</td><td></td><td>HC-T(2), NHC-T(FR)(2)</td><td></td></tr>
+> <tr><td>Harlingen</td><td>0402099</td><td>P</td><td>Daalimpex</td><td>HC-T</td><td></td></tr>
+> <tr><td>Maastricht</td><td>0401599</td><td>A</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Moerdijk</td><td>0402699</td><td>P</td><td></td><td>HC-NT</td><td></td></tr>
+> <tr><td rowspan="6">Rotterdam</td><td rowspan="6">0401699</td><td rowspan="6">P</td><td>EBS</td><td>NHC-NT(11)</td><td></td></tr>
+> <tr><td>Eurofrigo Karimatastraat</td><td>HC, NHC-T(FR), NHC-NT</td><td></td></tr>
+> <tr><td>Eurofrigo, Abel Tasmanstraat</td><td>HC</td><td></td></tr>
+> <tr><td>Kloosterboer</td><td>HC-T(FR)</td><td></td></tr>
+> <tr><td>Wibaco</td><td>HC-T(FR)(2), HC-NT(2)</td><td></td></tr>
+> <tr><td>Van Heezik</td><td>HC-T(FR)(2)</td><td></td></tr>
+> <tr><td rowspan="2">Vlissingen</td><td rowspan="2">0402199</td><td rowspan="2">P</td><td>Van Bon</td><td>HC(2), NHC</td><td></td></tr>
+> <tr><td>Kloosterboer</td><td>HC-T(2), HC-NT</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Rakousko</td></tr>
+> <tr><td colspan="6">Land: Østrig</td></tr>
+> <tr><td colspan="6">Land: Österreich</td></tr>
+> <tr><td colspan="6">Riik: Austria</td></tr>
+> <tr><td colspan="6">Χώρα: Αυστρία</td></tr>
+> <tr><td colspan="6">Country: Austria</td></tr>
+> <tr><td colspan="6">País: Austria</td></tr>
+> <tr><td colspan="6">Pays: Autriche</td></tr>
+> <tr><td colspan="6">Paese: Austria</td></tr>
+> <tr><td colspan="6">Valsts: Austrija</td></tr>
+> <tr><td colspan="6">Šalis: Austrija</td></tr>
+> <tr><td colspan="6">Ország: Ausztria</td></tr>
+> <tr><td colspan="6">Pajjiż: Awstrija</td></tr>
+> <tr><td colspan="6">Land: Oostenrijk</td></tr>
+> <tr><td colspan="6">Kraj: Austria</td></tr>
+> <tr><td colspan="6">País: Áustria</td></tr>
+> <tr><td colspan="6">Krajina: Rakúsko</td></tr>
+> <tr><td colspan="6">Država: Avstrija</td></tr>
+> <tr><td colspan="6">Maa: Itävalta</td></tr>
+> <tr><td colspan="6">Land: Österrike</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Feldkirch-Buchs</td><td>1301399</td><td>F</td><td></td><td>HC-NT(2), NHC-NT</td><td></td></tr>
+> <tr><td>Feldkirch-Tisis</td><td>1301399</td><td>R</td><td></td><td>HC(2), NHC-NT</td><td>E</td></tr>
+> <tr><td>Höchst</td><td>1300699</td><td>R</td><td></td><td>HC, NHC-NT</td><td>U, E, O</td></tr>
+> <tr><td>Linz</td><td>1300999</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O, E, U(8)</td></tr>
+> <tr><td>Wien-Schwechat</td><td>1301599</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Polsko</td></tr>
+> <tr><td colspan="6">Land: Polen</td></tr>
+> <tr><td colspan="6">Land: Polen</td></tr>
+> <tr><td colspan="6">Riik: Poola</td></tr>
+> <tr><td colspan="6">Χώρα: Πολωνία</td></tr>
+> <tr><td colspan="6">Country: Poland</td></tr>
+> <tr><td colspan="6">País: Polonia</td></tr>
+> <tr><td colspan="6">Pays: Pologne</td></tr>
+> <tr><td colspan="6">Paese: Polonia</td></tr>
+> <tr><td colspan="6">Valsts: Polija</td></tr>
+> <tr><td colspan="6">Šalis: Lenkija</td></tr>
+> <tr><td colspan="6">Ország: Lengyelország</td></tr>
+> <tr><td colspan="6">Pajjiż: Polonja</td></tr>
+> <tr><td colspan="6">Land: Polen</td></tr>
+> <tr><td colspan="6">Kraj: Polska</td></tr>
+> <tr><td colspan="6">País: Polónia</td></tr>
+> <tr><td colspan="6">Krajina: Poľsko</td></tr>
+> <tr><td colspan="6">Država: Poljska</td></tr>
+> <tr><td colspan="6">Maa: Puola</td></tr>
+> <tr><td colspan="6">Land: Polen</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Bezledy(14)</td><td>2528199</td><td>R</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td rowspan="2">Gdynia</td><td rowspan="2">2522199</td><td rowspan="2">P</td><td>IC 1</td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>IC 2</td><td>HC-T (FR)</td><td></td></tr>
+> <tr><td>Korczowa</td><td>2518199</td><td>R</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Kukuryki-Koroszczyn</td><td>2506199</td><td>R</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Kuźnica Białostocka(14)</td><td>2520199</td><td>R</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> <tr><td>Świnoujście</td><td>2532299</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Szczecin</td><td>2532199</td><td>P</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Warszawa Okęcie</td><td>2514199</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>U, E,O</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Portugalsko</td></tr>
+> <tr><td colspan="6">Land: Portugal</td></tr>
+> <tr><td colspan="6">Land: Portugal</td></tr>
+> <tr><td colspan="6">Riik: Portugal</td></tr>
+> <tr><td colspan="6">Χώρα: Πορτογαλία</td></tr>
+> <tr><td colspan="6">Country: Portugal</td></tr>
+> <tr><td colspan="6">País: Portugal</td></tr>
+> <tr><td colspan="6">Pays: Portugal</td></tr>
+> <tr><td colspan="6">Paese: Portogallo</td></tr>
+> <tr><td colspan="6">Valsts: Portugāle</td></tr>
+> <tr><td colspan="6">Šalis: Portugalija</td></tr>
+> <tr><td colspan="6">Ország: Portugália</td></tr>
+> <tr><td colspan="6">Pajjiż: Portugall</td></tr>
+> <tr><td colspan="6">Land: Portugal</td></tr>
+> <tr><td colspan="6">Kraj: Portugalia</td></tr>
+> <tr><td colspan="6">País: Portugal</td></tr>
+> <tr><td colspan="6">Krajina: Portugalsko</td></tr>
+> <tr><td colspan="6">Država: Portugalska</td></tr>
+> <tr><td colspan="6">Maa: Portugali</td></tr>
+> <tr><td colspan="6">Land: Portugal</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Aveiro</td><td>1204499</td><td>P</td><td></td><td>HC-T(FR)(3)</td><td></td></tr>
+> <tr><td>Faro</td><td>1203599</td><td>A</td><td></td><td>HC-T(2)</td><td>O</td></tr>
+> <tr><td>Funchal (Madeira)</td><td>1205699</td><td>A</td><td></td><td>HC, NHC</td><td>O</td></tr>
+> <tr><td>Funchal (Madeira)</td><td>1203699</td><td>P</td><td></td><td>HC-T</td><td></td></tr>
+> <tr><td>Horta (Açores)</td><td>1204299</td><td>P</td><td></td><td>HC-T(FR)(3)</td><td></td></tr>
+> <tr><td rowspan="2">Lisboa</td><td rowspan="2">1203399</td><td rowspan="2">A</td><td>Centre 1</td><td>HC(2), NHC-NT(2)</td><td>O</td></tr>
+> <tr><td>Centre 2</td><td></td><td>U, E</td></tr>
+> <tr><td rowspan="3">Lisboa</td><td rowspan="3">1203999</td><td rowspan="3">P</td><td>Liscont</td><td>HC(2), NHC-NT</td><td></td></tr>
+> <tr><td>Xabregas</td><td>HC-T(FR),HC-NT, NHC-NT</td><td></td></tr>
+> <tr><td>Docapesca</td><td>HC(2)</td><td></td></tr>
+> <tr><td>Peniche</td><td>1204699</td><td>P</td><td></td><td>HC-T(FR)(3)</td><td></td></tr>
+> <tr><td>Ponta Delgada (Açores)</td><td>1203799</td><td>A</td><td></td><td>NHC-NT</td><td></td></tr>
+> <tr><td>Ponta Delgada (Açores)</td><td>1205799</td><td>P</td><td></td><td>HC-T(FR)(3)<br>NHC-T(FR)(3)</td><td></td></tr>
+> <tr><td>Porto</td><td>1203499</td><td>A</td><td></td><td>HC-T, NHC-NT</td><td>O</td></tr>
+> <tr><td>Porto</td><td>1204099</td><td>P</td><td></td><td>HC-T, NHC-NT</td><td></td></tr>
+> <tr><td>Praia da Vitória (Açores)</td><td>1203899</td><td>P</td><td></td><td></td><td>U, E</td></tr>
+> <tr><td>Setúbal</td><td>1204899</td><td>P</td><td></td><td>HC(2), NHC</td><td></td></tr>
+> <tr><td>Viana do Castelo</td><td>1204399</td><td>P</td><td></td><td>HC-T(FR)(3)</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Slovinsko</td></tr>
+> <tr><td colspan="6">Land: Slovenien</td></tr>
+> <tr><td colspan="6">Land: Slowenien</td></tr>
+> <tr><td colspan="6">Riik: Sloveenia</td></tr>
+> <tr><td colspan="6">Χώρα: Σλοβενία</td></tr>
+> <tr><td colspan="6">Country: Slovenia</td></tr>
+> <tr><td colspan="6">País: Eslovenia</td></tr>
+> <tr><td colspan="6">Pays: Slovénie</td></tr>
+> <tr><td colspan="6">Paese: Slovenia</td></tr>
+> <tr><td colspan="6">Valsts: Slovēnija</td></tr>
+> <tr><td colspan="6">Šalis: Slovėnija</td></tr>
+> <tr><td colspan="6">Ország: Szlovénia</td></tr>
+> <tr><td colspan="6">Pajjiż: Slovenja</td></tr>
+> <tr><td colspan="6">Land: Slovenië</td></tr>
+> <tr><td colspan="6">Kraj: Słowenia</td></tr>
+> <tr><td colspan="6">País: Eslovénia</td></tr>
+> <tr><td colspan="6">Krajina: Slovinsko</td></tr>
+> <tr><td colspan="6">Država: Slovenija</td></tr>
+> <tr><td colspan="6">Maa: Slovenia</td></tr>
+> <tr><td colspan="6">Land: Slovenien</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Dobova</td><td>2600699</td><td>F</td><td></td><td>HC(2), NHC(2)</td><td>U, E</td></tr>
+> <tr><td>Jelsane</td><td>2600299</td><td>R</td><td></td><td>HC, NHC-NT, NHC-T(CH)</td><td>O</td></tr>
+> <tr><td>Koper</td><td>2600399</td><td>P</td><td></td><td>HC, NHC-T(CH), NHC-NT</td><td></td></tr>
+> <tr><td>Ljubljana Brnik</td><td>2600499</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Obrežje</td><td>2600599</td><td>R</td><td></td><td>HC, NHC-T(CH)(2), NHC-NT(2)</td><td>U, E, O</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Slovensko</td></tr>
+> <tr><td colspan="6">Land: Slovakiet</td></tr>
+> <tr><td colspan="6">Land: Slowakei</td></tr>
+> <tr><td colspan="6">Riik: Slovakkia</td></tr>
+> <tr><td colspan="6">Χώρα: Σλοβακία</td></tr>
+> <tr><td colspan="6">Country: Slovakia</td></tr>
+> <tr><td colspan="6">País: Eslovaquia</td></tr>
+> <tr><td colspan="6">Pays: Slovaquie</td></tr>
+> <tr><td colspan="6">Paese: Slovacchia</td></tr>
+> <tr><td colspan="6">Valsts: Slovākija</td></tr>
+> <tr><td colspan="6">Šalis: Slovakija</td></tr>
+> <tr><td colspan="6">Ország: Szlovákia</td></tr>
+> <tr><td colspan="6">Pajjiż: Slovakja</td></tr>
+> <tr><td colspan="6">Land: Slowakije</td></tr>
+> <tr><td colspan="6">Kraj: Słowacja</td></tr>
+> <tr><td colspan="6">País: Eslováquia</td></tr>
+> <tr><td colspan="6">Krajina: Slovensko</td></tr>
+> <tr><td colspan="6">Država: Slovaška</td></tr>
+> <tr><td colspan="6">Maa: Slovakia</td></tr>
+> <tr><td colspan="6">Land: Slovakien</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td rowspan="2">Vyšné Nemecké</td><td rowspan="2">3300199</td><td rowspan="2">R</td><td>I/C 1</td><td>HC, NHC</td><td></td></tr>
+> <tr><td>I/C 2</td><td></td><td>U, E</td></tr>
+> <tr><td>Čierna nad Tisou</td><td>3300299</td><td>F</td><td></td><td>HC, NHC</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Finsko</td></tr>
+> <tr><td colspan="6">Land: Finland</td></tr>
+> <tr><td colspan="6">Land: Finnland</td></tr>
+> <tr><td colspan="6">Riik: Soome</td></tr>
+> <tr><td colspan="6">Χώρα: Φινλανδία</td></tr>
+> <tr><td colspan="6">Country: Finland</td></tr>
+> <tr><td colspan="6">País: Finlandia</td></tr>
+> <tr><td colspan="6">Pays: Finlande</td></tr>
+> <tr><td colspan="6">Paese: Finlandia</td></tr>
+> <tr><td colspan="6">Valsts: Somija</td></tr>
+> <tr><td colspan="6">Šalis: Suomija</td></tr>
+> <tr><td colspan="6">Ország: Finnország</td></tr>
+> <tr><td colspan="6">Pajjiż: Finlandja</td></tr>
+> <tr><td colspan="6">Land: Finland</td></tr>
+> <tr><td colspan="6">Kraj: Finlandia</td></tr>
+> <tr><td colspan="6">País: Finlândia</td></tr>
+> <tr><td colspan="6">Krajina: Fínsko</td></tr>
+> <tr><td colspan="6">Država: Finska</td></tr>
+> <tr><td colspan="6">Maa: Suomi</td></tr>
+> <tr><td colspan="6">Land: Finland</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Hamina</td><td>1420599</td><td>P</td><td></td><td>HC(2), NHC(2)</td><td></td></tr>
+> <tr><td>Helsinki</td><td>1410199</td><td>A</td><td></td><td>HC(2), NHC(2)</td><td>O</td></tr>
+> <tr><td>Helsinki</td><td>1400199</td><td>P</td><td></td><td>HC, NHC-NT</td><td>U, E, O</td></tr>
+> <tr><td>Ivalo</td><td>1411299</td><td>R</td><td></td><td>HC, NHC</td><td></td></tr>
+> <tr><td>Vaalimaa</td><td>1410599</td><td>R</td><td></td><td>HC, NHC</td><td>U, E, O</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Švédsko</td></tr>
+> <tr><td colspan="6">Land: Sverige</td></tr>
+> <tr><td colspan="6">Land: Schweden</td></tr>
+> <tr><td colspan="6">Riik: Rootsi</td></tr>
+> <tr><td colspan="6">Χώρα: Σουηδία</td></tr>
+> <tr><td colspan="6">Country: Sweden</td></tr>
+> <tr><td colspan="6">País: Suecia</td></tr>
+> <tr><td colspan="6">Pays: Suède</td></tr>
+> <tr><td colspan="6">Paese: Svezia</td></tr>
+> <tr><td colspan="6">Valsts: Zviedrija</td></tr>
+> <tr><td colspan="6">Šalis: Švedija</td></tr>
+> <tr><td colspan="6">Ország: Svédország</td></tr>
+> <tr><td colspan="6">Pajjiż: Svezja</td></tr>
+> <tr><td colspan="6">Land: Zweden</td></tr>
+> <tr><td colspan="6">Kraj: Szwecja</td></tr>
+> <tr><td colspan="6">País: Suécia</td></tr>
+> <tr><td colspan="6">Krajina: Švédsko</td></tr>
+> <tr><td colspan="6">Država: Švedska</td></tr>
+> <tr><td colspan="6">Maa: Ruotsi</td></tr>
+> <tr><td colspan="6">Land: Sverige</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Göteborg</td><td>1614299</td><td>P</td><td></td><td>HC(1), NHC</td><td>U, E, O</td></tr>
+> <tr><td>Göteborg–Landvetter</td><td>1614199</td><td>A</td><td></td><td>HC(1), NHC</td><td>U, E, O</td></tr>
+> <tr><td>Helsingborg</td><td>1612399</td><td>P</td><td></td><td>HC(1), NHC</td><td></td></tr>
+> <tr><td>Norrköping</td><td>1605199</td><td>A</td><td></td><td></td><td>U, E</td></tr>
+> <tr><td>Norrköping</td><td>1605299</td><td>P</td><td></td><td>HC(2)</td><td></td></tr>
+> <tr><td>Stockholm</td><td>1601199</td><td>P</td><td></td><td>HC(1)</td><td></td></tr>
+> <tr><td>Stockholm–Arlanda</td><td>1601299</td><td>A</td><td></td><td>HC(1), NHC</td><td>U, E, O</td></tr>
+> <tr><td>Varberg</td><td>1613199</td><td>P</td><td></td><td>NHC</td><td>E(7)</td></tr>
+> </tbody>
+> </table>
+>
+> <table>
+> <thead>
+> <tr><td colspan="6">Země: Spojené království</td></tr>
+> <tr><td colspan="6">Land: Det Forenede Kongerige</td></tr>
+> <tr><td colspan="6">Land: Vereinigtes Königreich</td></tr>
+> <tr><td colspan="6">Riik: Ühendkuningriik</td></tr>
+> <tr><td colspan="6">Χώρα: Ηνωμένο Βασίλειο</td></tr>
+> <tr><td colspan="6">Country: United Kingdom</td></tr>
+> <tr><td colspan="6">País: Reino Unido</td></tr>
+> <tr><td colspan="6">Pays: Royaume-Uni</td></tr>
+> <tr><td colspan="6">Paese: Regno Unito</td></tr>
+> <tr><td colspan="6">Valsts: Apvienotā Karaliste</td></tr>
+> <tr><td colspan="6">Šalis: Jungtinė Karalystė</td></tr>
+> <tr><td colspan="6">Ország: Egyesült Királyság</td></tr>
+> <tr><td colspan="6">Pajjiż: Renju Unit</td></tr>
+> <tr><td colspan="6">Land: Verenigd Koninkrijk</td></tr>
+> <tr><td colspan="6">Kraj: Zjednoczone Królestwo</td></tr>
+> <tr><td colspan="6">País: Reino Unido</td></tr>
+> <tr><td colspan="6">Krajina: Spojené kráľovstvo</td></tr>
+> <tr><td colspan="6">Država: Združeno kraljestvo</td></tr>
+> <tr><td colspan="6">Maa: Yhdistynyt kuningaskunta</td></tr>
+> <tr><td colspan="6">Land: Förenade kungariket</td></tr>
+> </thead>
+> <tbody>
+> <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>
+> <tr><td>Aberdeen</td><td>0730399</td><td>P</td><td></td><td>HC-T(FR)(1,2,3)</td><td></td></tr>
+> <tr><td>Belfast</td><td>0741099</td><td>A</td><td></td><td>HC-T(1)(2), HC-NT(2), NHC(2)</td><td></td></tr>
+> <tr><td>Belfast</td><td>0740099</td><td>P</td><td></td><td>HC-T(FR)(1), NHC-T(FR),</td><td></td></tr>
+> <tr><td>Bristol</td><td>0711099</td><td>P</td><td></td><td>HC-T(FR)(1), HC-NT(1), NHC-NT</td><td></td></tr>
+> <tr><td>East Midlands</td><td>0712199</td><td>A</td><td></td><td>HC-T(1), HC-NT(1), NHC-T(FR), NHC-NT</td><td></td></tr>
+> <tr><td>Falmouth</td><td>0714299</td><td>P</td><td></td><td>HC-T(1), HC-NT(1)</td><td></td></tr>
+> <tr><td rowspan="2">Felixstowe</td><td rowspan="2">0713099</td><td rowspan="2">P</td><td>TCEF</td><td>HC-T(1), NHC-T(FR), NHC-NT</td><td></td></tr>
+> <tr><td>ATEF</td><td>HC-NT(1)</td><td></td></tr>
+> <tr><td rowspan="2">Gatwick</td><td rowspan="2">0713299</td><td rowspan="2">A</td><td>IC1</td><td></td><td>O</td></tr>
+> <tr><td>IC2</td><td>HC-T(1)(2), HC-NT(1)(2), NHC(2)</td><td></td></tr>
+> <tr><td>Glasgow</td><td>0731099</td><td>A</td><td></td><td>HC-T(1), HC-NT(1), NHC-NT</td><td></td></tr>
+> <tr><td>Glasson</td><td>0710399</td><td>P</td><td></td><td>NHC-NT</td><td></td></tr>
+> <tr><td>Goole</td><td>0714099</td><td>P</td><td></td><td>NHC-NT(4)</td><td></td></tr>
+> <tr><td>Grangemouth</td><td>0730899</td><td>P</td><td></td><td>NHC-NT(4)</td><td></td></tr>
+> <tr><td rowspan="2">Grimsby — Immingham</td><td rowspan="2">0712299</td><td rowspan="2">P</td><td>Centre 1</td><td>HC-T(FR)(1)</td><td></td></tr>
+> <tr><td>Centre 2</td><td>NHC-NT</td><td></td></tr>
+> <tr><td>Grove Wharf Wharton</td><td>0711599</td><td>P</td><td></td><td>NHC-NT</td><td></td></tr>
+> <tr><td rowspan="3">Heathrow</td><td rowspan="3">0712499</td><td rowspan="3">A</td><td>Centre 1</td><td>HC-T(1)(2), HC-NT(1)(2), NHC(2)</td><td></td></tr>
+> <tr><td>Centre 2</td><td>HC-T(1)(2), HC-NT(1(2)</td><td></td></tr>
+> <tr><td>Animal Reception Centre</td><td></td><td>U, E, O</td></tr>
+> <tr><td>Hull</td><td>0714199</td><td>P</td><td></td><td>HC-T(1), HC-NT(1), NHC-NT</td><td></td></tr>
+> <tr><td>Invergordon</td><td>0730299</td><td>P</td><td></td><td>NHC-NT(4)</td><td></td></tr>
+> <tr><td>Ipswich</td><td>0713199</td><td>P</td><td></td><td>HC-T(FR)(1), HC-NT(1), NHC-T(FR), NHC-NT</td><td></td></tr>
+> <tr><td>Liverpool</td><td>0712099</td><td>P</td><td></td><td>HC-T(FR)(1)(2), HC-NT(1), NHC-NT</td><td></td></tr>
+> <tr><td>Luton</td><td>0710099</td><td>A</td><td></td><td></td><td>U, E</td></tr>
+> <tr><td>Manchester</td><td>0713799</td><td>A</td><td></td><td>HC-T(1)(2), HC-NT(1)(2), NHC(2)</td><td>O(10)</td></tr>
+> <tr><td>Peterhead</td><td>0730699</td><td>P</td><td></td><td>HC-T(FR)(1,2,3)</td><td></td></tr>
+> <tr><td>Portsmouth</td><td>0711299</td><td>P</td><td></td><td>HC-T(FR)(1), HC-NT(1), NHC-T(FR), NHC-NT</td><td></td></tr>
+> <tr><td>Prestwick</td><td>0731199</td><td>A</td><td></td><td></td><td>U, E</td></tr>
+> <tr><td>Shoreham</td><td>0713499</td><td>P</td><td></td><td>NHC-NT(5)</td><td></td></tr>
+> <tr><td>Southampton</td><td>0711399</td><td>P</td><td></td><td>HC-T(1), HC-NT(1), NHC</td><td></td></tr>
+> <tr><td>Stansted</td><td>0714399</td><td>A</td><td></td><td>HC-NT(1)(2), NHC-NT(2)</td><td>U, E</td></tr>
+> <tr><td>Sutton Bridge</td><td>0713599</td><td>P</td><td></td><td>NHC-NT(4)</td><td></td></tr>
+> <tr><td>Thamesport</td><td>0711899</td><td>P</td><td></td><td>HC-T(1), HC-NT(1), NHC</td><td></td></tr>
+> <tr><td>Tilbury</td><td>0710899</td><td>P</td><td></td><td>HC-T(1), HC-NT(1), NHC-T(FR), NHC-NT</td><td></td></tr>
+> </tbody>
+> </table>
+
+## ANNEX II
+
+The Annex to Decision 2002/459/EC is amended as follows:
+
+- 1.. In the section for border inspection posts in ESTONIA,
+
+  the following entries are added:
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 2300399 | P | Muuga |
+  > | 2300299 | R | Narva |
+- 2.. In the section for border inspection posts in SPAIN,
+
+  the following entry is added:
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 1149799 | P | Castellón |
+- 3.. In the section for border inspection posts in FRANCE,
+
+  the following entries are deleted:
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 0211799 | P | La Rochelle Rochefort |
+  > | 0210199 | R | Divonne |
+- 4.. In the section for border inspection posts in GERMANY,
+
+  the following entry is added:
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 015199 | P | Rügen |
+- 5.. In the section for border inspection posts in HUNGARY,
+
+  the following entries are added:
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 2402899 | F | Eperjeske |
+  > | 2400499 | F | Gyékényes |
+  > | 2402499 | F | Kelebia |
+- 6.. In the section for border inspection posts in LATVIA,
+
+  the following entries are added:
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 2981699 | F | Daugavpils |
+  > | 2972199 | R | Grebneva |
+  > | 2974299 | F | Rezekne |
+  > | 2921099 | P | Riga Port |
+  > | 2905099 | P | Riga Baltmarine Terminal |
+  > | 2931199 | P | Ventspils |
+- 7.. In the section for border inspection posts in MALTA,
+
+  the following entry is added:
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 3103099 | P | Marsaxxlok |
+- 8.. In the section for border inspection posts in SLOVENIA,
+
+  the following entries are added:
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 2600699 | F | Dobova |
+  > | 2600299 | R | Jelsane |
+  > | 2600399 | P | Koper |
+  > | 2600499 | A | Brnik |
+- 9.. In the section for border inspection posts in the UNITED KINGDOM,
+
+  the following entry is deleted:
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 0712999 | P | Tyne-Northshields |
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 224, 18.8.1990, p. 29](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1990.224.01.0029.01.ENG). Directive as last amended by Directive 2002/33/EC of the European Parliament and of the Council ([OJ L 315, 19.11.2002, p. 14](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.315.01.0014.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 268, 24.9.1991, p. 56](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.268.01.0056.01.ENG). Directive as last amended by the 2003 Act of Accession.
+
+[^f00003]: Footnote: [OJ L 24, 30.1.1998, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.024.01.0009.01.ENG). Directive as last amended by Regulation (EC) No 882/2004 of the European Parliament and of the Council ([OJ L 165, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.165.01.0001.01.ENG)).
+
+[^f00004]: Footnote: [OJ L 326, 11.12.2001, p. 44](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.326.01.0044.01.ENG). Decision as last amended by Decision 2004/608/EC ([OJ L 274, 24.8.2004, p. 15](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.274.01.0015.01.ENG)).
+
+[^f00005]: Footnote: [OJ L 94, 31.3.2004, p. 63](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.094.01.0063.01.ENG).
+
+[^f00006]: Footnote: [OJ L 221, 9.8.1991, p. 30](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.221.01.0030.01.ENG).
+
+[^f00007]: Footnote: [OJ L 159, 17.6.2002, p. 27](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.159.01.0027.01.ENG). Decision as last amended by Decision 2004/477/EC ([OJ L 160, 30.4.2004, p. 53](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.160.01.0053.01.ENG)). Corrected in [OJ L 212, 12.6.2004, p. 53](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.212.01.0053.01.ENG).

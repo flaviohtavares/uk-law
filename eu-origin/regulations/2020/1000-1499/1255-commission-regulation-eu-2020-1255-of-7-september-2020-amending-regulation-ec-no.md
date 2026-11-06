@@ -1,0 +1,142 @@
+---
+title: Commission Regulation (EU) 2020/1255 of 7 September 2020 amending Regulation (EC) No 1881/2006 as regards maximum levels of polycyclic aromatic hydrocarbons (PAHs) in traditionally smoked meat and smoked meat products and traditionally smoked fish and smoked fishery products and establishing a maximum level of PAHs in powders of food of plant origin used for the preparation of beverages (Text with EEA relevance)
+id: eur/2020/1255
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2020-09-07'
+text_date: '2020-09-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/1255
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2020/1255/pdfs/eur_20201255_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2020/1255/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EU) 2020/1255 of 7 September 2020 amending Regulation (EC) No 1881/2006 as regards maximum levels of polycyclic aromatic hydrocarbons (PAHs) in traditionally smoked meat and smoked meat products and traditionally smoked fish and smoked fishery products and establishing a maximum level of PAHs in powders of food of plant origin used for the preparation of beverages (Text with EEA relevance)
+
+> Text as at 2020-09-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EU) 2020/1255
+
+of 7 September 2020
+
+amending Regulation (EC) No 1881/2006 as regards maximum levels of polycyclic aromatic hydrocarbons (PAHs) in traditionally smoked meat and smoked meat products and traditionally smoked fish and smoked fishery products and establishing a maximum level of PAHs in powders of food of plant origin used for the preparation of beverages
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EEC) No 315/93 of 8 February 1993 laying down Community procedures for contaminants in food[^f00001], and in particular Article 2(3) thereof,
+
+Whereas:
+
+(1)
+
+Commission Regulation (EC) No 1881/2006[^f00002] sets maximum levels for polycyclic aromatic hydrocarbons (PAHs) in food, including smoked meat and smoked meat products and smoked fish and smoked fishery products.
+
+(2)
+
+According to that Regulation, maximum levels for PAHs should be set at a level which is as low as reasonably achievable (ALARA) based upon good manufacturing and agricultural/fishery practices. In 2011, data for smoked fish and smoked meat showed that lower maximum levels were achievable. Nevertheless, adaptations of smoking technology were necessary in some cases. Therefore, for smoked meat and meat products and smoked fish and smoked fishery products a transition period of three years was granted before the lower maximum levels became applicable from 1 September 2014.
+
+(3)
+
+However, despite of the application of good smoking practices, it was established in 2014 that the lower levels for PAHs were unachievable in Ireland, Spain, Croatia, Cyprus, Latvia, Poland, Portugal, Romania, Slovak Republic, Finland, Sweden and the United Kingdom for certain cases of traditionally smoked meat and smoked meat products and in Ireland, Latvia, Romania, Finland, Sweden and the United Kingdom for certain cases of traditionally smoked fish and smoked fishery products. In those cases, the adaptations of smoking practices to comply with the lower maximum PAH levels could not be achieved without changing significantly the organoleptic characteristics of the food.
+
+(4)
+
+Based on the above considerations, and pursuant to Article 7(6) and (7) of Regulation (EC) No 1881/2006, a temporary derogation from the application of the lower maximum levels for PAHs as of 1 September 2014 was granted to the Member States concerned for the placing on their market of traditionally smoked meat and smoked meat products and/or smoked fish and smoked fishery products, smoked in their territory and intended for consumption in their territory. The maximum levels applicable before 1 September 2014 continued to apply to those smoked products. The derogation covered generally all smoked meat and smoked meat products and/or smoked fish and smoked fishery products, without indication of the specific names of foodstuffs.
+
+(5)
+
+In accordance with Article 7(6) and (7) of Regulation (EC) No 1881/2006, the respective Member States have continued to monitor the presence of PAHs in those products and have established programmes to implement good smoking practices where possible. The situation was also reassessed in 2018 on the basis of detailed information provided by the Member States concerned including monitoring data on the presence of PAHs in traditionally smoked meat and smoked meat products and smoked fish and smoked fishery products and information on the implementation of good smoking practices and changes in organoleptic characteristics. Following a detailed assessment of the provided information, it was concluded that the lower PAH levels were not achievable by changing smoking practices within the limits of what is economically feasible and possible without losing typical organoleptic characteristics in certain traditionally smoked meat and smoked meat products in Ireland, Spain, Croatia, Cyprus, Latvia, Poland, Portugal, Slovak Republic, Finland and Sweden and in certain traditionally smoked fish and smoked fishery products in Latvia, Finland and Sweden. Therefore a derogation for local production and consumption should be granted without a time limit for certain traditionally smoked meat and smoked meat products, fish and smoked fishery products in these Member States concerned.
+
+(6)
+
+Furthermore, certain powders of food of plant origin, used for the preparation of beverages, have been found to contain high levels of PAHs due to inappropriate drying practices applied to those powders. Given that PAHs are genotoxic carcinogens, it is therefore necessary to establish a maximum level for PAHs in those powders, achievable by applying good drying practices, with the aim to ensure a high level of human health protection.
+
+(7)
+
+Regulation (EC) No 1881/2006 should therefore be amended accordingly.
+
+(8)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1. Amendments to Regulation (EC) No 1881/2006
+
+Regulation (EC) No 1881/2006 is amended as follows:
+
+- ((1)) in Article 7, paragraphs 6 and 7 are replaced by the following:
+
+  > 6. By way of derogation from Article 1, the following Member States may authorise the placing on their market of the following traditionally smoked meat and smoked meat products, smoked in their territory and intended for consumption in their territory with levels of PAHs higher than those set out in point 6.1.4 of the Annex, provided that those products comply with the maximum levels applicable before 1 September 2014, i.e. 5,0 μg/kg for benzo(a)pyrene and 30,0 μg/kg for the sum of benzo(a)pyrene, benz(a)anthracene, benzo(b)fluoranthene and chrysene:
+  >
+  > - Ireland, Croatia, Cyprus, Spain, Poland and Portugal: traditionally smoked meat and meat products,
+  > - Latvia: traditionally smoked pork, hot smoked chicken meat, hot smoked sausages and hot smoked game meat;,
+  > - Slovak Republic: salted traditionally smoked meat, traditionally smoked bacon, traditionally smoked sausage (*klobása*), where ‘traditionally smoked’ means developing smoke by burning woods (wood logs, wood sawdust, wood chips) in a smokehouse,
+  > - Finland: traditionally hot smoked meat and meat products,
+  > - Sweden: meat and meat products smoked over glowing wood or other plant materials.
+  >
+  > Those Member States and concerned food business operators shall continue to monitor the presence of PAHs in traditionally smoked meat and smoked meat products referred to in the first subparagraph of this paragraph and shall ensure that good smoking practices are implemented where possible, without losing typical organoleptic characteristics of those products.
+  >
+  > 7. By way of derogation from Article 1, the following Member States may authorise the placing on their market of the following traditionally smoked fish and smoked fishery products, smoked in their territory and intended for consumption in their territory with levels of PAHs higher than those set out in point 6.1.5 of the Annex, provided that those smoked products comply with the maximum levels applicable before 1 September 2014, i.e. 5,0 μg/kg for benzo(a)pyrene and 30,0 μg/kg for the sum of benzo(a)pyrene, benz(a)anthracene, benzo(b)fluoranthene and chrysene:
+  >
+  > - Latvia: traditionally hot smoked fish,
+  > - Finland: traditionally hot smoked small fish and fishery products made from small fish,
+  > - Sweden: fish and fishery products smoked over glowing wood or other plant materials.
+  >
+  > Those Member States and concerned food business operators shall continue to monitor the presence of PAHs in traditionally smoked fish and smoked fishery products referred to in the first subparagraph of this paragraph and shall ensure that good smoking practices are implemented where possible, without losing typical organoleptic characteristics of those products.
+
+  ;
+- ((2)) the Annex is amended in accordance with the Annex to this Regulation.
+
+**Article 2.** Foodstuffs, listed in the Annex to this Regulation, lawfully placed on the market prior to the entry into force may remain on the market after that date until 28 March 2021.
+
+## Article 3. Entry into force and application
+
+This Regulation shall enter into force on twentieth day following that of its publication in the *Official Journal of the European Union.*
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 7 September 2020.
+
+*For the Commission*
+
+*The President*
+
+Ursula von der Leyen
+
+## ANNEX
+
+The following entry is added after entry 6.1.15 on ‘Dried spices with the exception of cardamon and smoked Capsicum spp.’ to Section 6 of the Annex to Regulation (EC) No 1881/2006:
+
+> <table>
+> <tfoot>
+> <tr><td colspan="4">the preparation of beverages refers to the use of powders that are finely ground and are to be stirred into drinks.’</td></tr>
+> </tfoot>
+> <tbody>
+> <tr><td>‘6.1.16</td><td>Powders of food of plant origin for the preparation of beverages with the exception of the products referred to in 6.1.2 and 6.1.11</td><td>10,0</td><td>50,0</td></tr>
+> </tbody>
+> </table>
+>
+> [^f00003]
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 37, 13.2.1993, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.037.01.0001.01.ENG).
+
+[^f00002]: Footnote: Commission Regulation (EC) No 1881/2006 of 19 December 2006 setting maximum levels for certain contaminants in foodstuffs ([OJ L 364, 20.12.2006, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.364.01.0005.01.ENG)).
+
+[^f00003]: Footnote: the preparation of beverages refers to the use of powders that are finely ground and are to be stirred into drinks.’

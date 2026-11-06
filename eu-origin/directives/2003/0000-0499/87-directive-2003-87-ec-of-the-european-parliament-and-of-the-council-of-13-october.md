@@ -1,0 +1,1591 @@
+---
+title: Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a system for greenhouse gas emission allowance trading within the Union and amending Council Directive 96/61/EC (Text with EEA relevance)
+id: eudr/2003/87
+type: EuropeanUnionDirective
+category: euretained
+status: revised
+made_date: '2003-10-13'
+text_date: '2020-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2003/87
+pdf_urls:
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_adopted_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2004-11-13_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2009-02-02_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2009-04-20_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2009-06-25_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2013-07-01_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2013-12-19_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2014-04-30_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2015-10-29_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2017-12-29_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2018-04-08_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/pdfs/eudr_20030087_2020-01-01_en.pdf
+- http://www.legislation.gov.uk/eudr/2003/87/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a system for greenhouse gas emission allowance trading within the Union and amending Council Directive 96/61/EC (Text with EEA relevance)
+
+> Text as at 2020-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Directive 2003/87/EC of the European Parliament and of the Council
+
+of 13 October 2003
+
+establishing a system[^c000001] for greenhouse gas emission allowance trading within the Union and amending Council Directive 96/61/EC
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof,
+
+Having regard to the proposal from the Commission[^f00001],
+
+Having regard to the opinion of the European Economic and Social Committee[^f00002],
+
+Having regard to the opinion of the Committee of the Regions[^f00003],
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty[^f00004],
+
+Whereas:
+
+(1)
+
+The Green Paper on greenhouse gas emissions trading within the European Union launched a debate across Europe on the suitability and possible functioning of greenhouse gas emissions trading within the European Union. The European Climate Change Programme has considered Community policies and measures through a multi-stakeholder process, including a scheme for greenhouse gas emission allowance trading within the Community (the Community scheme) based on the Green Paper. In its Conclusions of 8 March 2001, the Council recognised the particular importance of the European Climate Change Programme and of work based on the Green Paper, and underlined the urgent need for concrete action at Community level.
+
+(2)
+
+The Sixth Community Environment Action Programme established by Decision No 1600/2002/EC of the European Parliament and of the Council[^f00005] identifies climate change as a priority for action and provides for the establishment of a Community-wide emissions trading scheme by 2005. That Programme recognises that the Community is committed to achieving an 8 % reduction in emissions of greenhouse gases by 2008 to 2012 compared to 1990 levels, and that, in the longer-term, global emissions of greenhouse gases will need to be reduced by approximately 70 % compared to 1990 levels.
+
+(3)
+
+The ultimate objective of the United Nations Framework Convention on Climate Change, which was approved by Council Decision 94/69/EC of 15 December 1993 concerning the conclusion of the United Nations Framework Convention on Climate Change[^f00006], is to achieve stabilisation of greenhouse gas concentrations in the atmosphere at a level which prevents dangerous anthropogenic interference with the climate system.
+
+(4)
+
+Once it enters into force, the Kyoto Protocol, which was approved by Council Decision 2002/358/EC of 25 April 2002 concerning the approval, on behalf of the European Community, of the Kyoto Protocol to the United Nations Framework Convention on Climate Change and the joint fulfilment of commitments thereunder[^f00007], will commit the Community and its Member States to reducing their aggregate anthropogenic emissions of greenhouse gases listed in Annex A to the Protocol by 8 % compared to 1990 levels in the period 2008 to 2012.
+
+(5)
+
+The Community and its Member States have agreed to fulfil their commitments to reduce anthropogenic greenhouse gas emissions under the Kyoto Protocol jointly, in accordance with Decision 2002/358/EC. This Directive aims to contribute to fulfilling the commitments of the European Community and its Member States more effectively, through an efficient European market in greenhouse gas emission allowances, with the least possible diminution of economic development and employment.
+
+(6)
+
+Council Decision 93/389/EEC of 24 June 1993 for a monitoring mechanism of Community CO<sub>2</sub> and other greenhouse gas emissions[^f00008], established a mechanism for monitoring greenhouse gas emissions and evaluating progress towards meeting commitments in respect of these emissions. This mechanism will assist Member States in determining the total quantity of allowances to allocate.
+
+(7)
+
+Community provisions relating to allocation of allowances by the Member States are necessary to contribute to preserving the integrity of the internal market and to avoid distortions of competition.
+
+(8)
+
+Member States should have regard when allocating allowances to the potential for industrial process activities to reduce emissions.
+
+(9)
+
+Member States may provide that they only issue allowances valid for a five-year period beginning in 2008 to persons in respect of allowances cancelled, corresponding to emission reductions made by those persons on their national territory during a three-year period beginning in 2005.
+
+(10)
+
+Starting with the said five-year period, transfers of allowances to another Member State will involve corresponding adjustments of assigned amount units under the Kyoto Protocol.
+
+(11)
+
+Member States should ensure that the operators of certain specified activities hold a greenhouse gas emissions permit and that they monitor and report their emissions of greenhouse gases specified in relation to those activities.
+
+(12)
+
+Member States should lay down rules on penalties applicable to infringements of this Directive and ensure that they are implemented. Those penalties must be effective, proportionate and dissuasive.
+
+(13)
+
+In order to ensure transparency, the public should have access to information relating to the allocation of allowances and to the results of monitoring of emissions, subject only to restrictions provided for in Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information[^f00009].
+
+(14)
+
+Member States should submit a report on the implementation of this Directive drawn up on the basis of Council Directive 91/692/EEC of 23 December 1991 standardising and rationalising reports on the implementation of certain Directives relating to the environment[^f00010].
+
+(15)
+
+The inclusion of additional installations in the Community scheme should be in accordance with the provisions laid down in this Directive, and the coverage of the Community scheme may thereby be extended to emissions of greenhouse gases other than carbon dioxide, *inter alia* from aluminium and chemicals activities.
+
+(16)
+
+This Directive should not prevent any Member State from maintaining or establishing national trading schemes regulating emissions of greenhouse gases from activities other than those listed in Annex I or included in the Community scheme, or from installations temporarily excluded from the Community scheme.
+
+(17)
+
+Member States may participate in international emissions trading as Parties to the Kyoto Protocol with any other Party included in Annex B thereto.
+
+(18)
+
+Linking the Community scheme to greenhouse gas emission trading schemes in third countries will increase the cost-effectiveness of achieving the Community emission reductions target as laid down in Decision 2002/358/EC on the joint fulfilment of commitments.
+
+(19)
+
+Project-based mechanisms including Joint Implementation (JI) and the Clean Development Mechanism (CDM) are important to achieve the goals of both reducing global greenhouse gas emissions and increasing the cost-effective functioning of the Community scheme. In accordance with the relevant provisions of the Kyoto Protocol and Marrakech Accords, the use of the mechanisms should be supplemental to domestic action and domestic action will thus constitute a significant element of the effort made.
+
+(20)
+
+This Directive will encourage the use of more energy-efficient technologies, including combined heat and power technology, producing less emissions per unit of output, while the future directive of the European Parliament and of the Council on the promotion of cogeneration based on useful heat demand in the internal energy market will specifically promote combined heat and power technology.
+
+(21)
+
+Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control[^f00011] establishes a general framework for pollution prevention and control, through which greenhouse gas emissions permits may be issued. Directive 96/61/EC should be amended to ensure that emission limit values are not set for direct emissions of greenhouse gases from an installation subject to this Directive and that Member States may choose not to impose requirements relating to energy efficiency in respect of combustion units or other units emitting carbon dioxide on the site, without prejudice to any other requirements pursuant to Directive 96/61/EC.
+
+(22)
+
+This Directive is compatible with the United Nations Framework Convention on Climate Change and the Kyoto Protocol. It should be reviewed in the light of developments in that context and to take into account experience in its implementation and progress achieved in monitoring of emissions of greenhouse gases.
+
+(23)
+
+Emission allowance trading should form part of a comprehensive and coherent package of policies and measures implemented at Member State and Community level. Without prejudice to the application of Articles 87 and 88 of the Treaty, where activities are covered by the Community scheme, Member States may consider the implications of regulatory, fiscal or other policies that pursue the same objectives. The review of the Directive should consider the extent to which these objectives have been attained.
+
+(24)
+
+The instrument of taxation can be a national policy to limit emissions from installations temporarily excluded.
+
+(25)
+
+Policies and measures should be implemented at Member State and Community level across all sectors of the European Union economy, and not only within the industry and energy sectors, in order to generate substantial emissions reductions. The Commission should, in particular, consider policies and measures at Community level in order that the transport sector makes a substantial contribution to the Community and its Member States meeting their climate change obligations under the Kyoto Protocol.
+
+(26)
+
+Notwithstanding the multifaceted potential of market-based mechanisms, the European Union strategy for climate change mitigation should be built on a balance between the Community scheme and other types of Community, domestic and international action.
+
+(27)
+
+This Directive respects the fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union.
+
+(28)
+
+The measures necessary for the implementation of this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission[^f00012].
+
+(29)
+
+As the criteria (1), (5) and (7) of Annex III cannot be amended through comitology, amendments in respect of periods after 2012 should only be made through codecision.
+
+(30)
+
+Since the objective of the proposed action, the establishment of a Community scheme, cannot be sufficiently achieved by the Member States acting individually, and can therefore by reason of the scale and effects of the proposed action be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+## CHAPTER I — GENERAL PROVISIONS[^c000002]
+
+### Article 1. Subject matter
+
+This Directive establishes a system for greenhouse gas emission allowance trading within the Union (hereinafter referred to as the ‘EU ETS’) in order to promote reductions of greenhouse gas emissions in a cost-effective and economically efficient manner.
+
+This Directive also provides for the reductions of greenhouse gas emissions to be increased so as to contribute to the levels of reductions that are considered scientifically necessary to avoid dangerous climate change.[^c000003]
+
+This Directive also lays down provisions for assessing and implementing a stricter Union reduction commitment exceeding 20 %, to be applied upon the approval by the Union of an international agreement on climate change leading to greenhouse gas emission reductions exceeding those required in Article 9, as reflected in the 30 % commitment endorsed by the European Council of March 2007.
+
+### Article 2. Scope
+
+1. This Directive shall apply to emissions from the activities listed in Annex I and greenhouse gases listed in Annex II.
+
+2. This Directive shall apply without prejudice to any requirements pursuant to Directive 96/61/EC.
+
+3. The application of this Directive to the airport of Gibraltar is understood to be without prejudice to the respective legal positions of the Kingdom of Spain and the United Kingdom with regard to the dispute over sovereignty over the territory in which the airport is situated.
+
+### Article 3. Definitions
+
+For the purposes of this Directive the following definitions shall apply:
+
+- ((a)) ‘allowance’ means an allowance to emit one tonne of carbon dioxide equivalent during a specified period, which shall be valid only for the purposes of meeting the requirements of this Directive and shall be transferable in accordance with the provisions of this Directive;
+- ((b)) ‘[^c000004] emissions ’ means the release of greenhouse gases into the atmosphere from sources in an installation or the release from an aircraft performing an aviation activity listed in Annex I of the gases specified in respect of that activity;
+- ((c)) ‘[^c000005] greenhouse gases ’ means the gases listed in Annex II and other gaseous constituents of the atmosphere, both natural and anthropogenic, that absorb and re-emit infrared radiation;
+- ((d)) ‘greenhouse gas emissions permit’ means the permit issued in accordance with Articles 5 and 6;
+- ((e)) ‘installation’ means a stationary technical unit where one or more activities listed in Annex I are carried out and any other directly associated activities which have a technical connection with the activities carried out on that site and which could have an effect on emissions and pollution;
+- ((f)) ‘operator’ means any person who operates or controls an installation or, where this is provided for in national legislation, to whom decisive economic power over the technical functioning of the installation has been delegated;
+- ((g)) ‘person’ means any natural or legal person;
+- ((h)) ‘ new entrant ’ means any installation carrying out one or more of the activities listed in Annex I, which has obtained a greenhouse gas emissions permit for the first time within the period starting from three months before the date for submission of the list under Article 11(1), and ending three months before the date for the submission of the subsequent list under that Article;
+- ((i)) ‘the public’ means one or more persons and, in accordance with national legislation or practice, associations, organisations or groups of persons;
+- ((j)) ‘tonne of carbon dioxide equivalent’ means one metric tonne of carbon dioxide (CO<sub>2</sub>) or an amount of any other greenhouse gas listed in Annex II with an equivalent global-warming potential;[^c000006]
+- ((k)) ‘[^c000007] Annex I Party ’ means a Party listed in Annex I to the United Nations Framework Convention on Climate Change (UNFCCC) that has ratified the Kyoto Protocol as specified in Article 1(7) of the Kyoto Protocol;
+- ((l)) ‘ project activity ’ means a project activity approved by one or more Annex I Parties in accordance with Article 6 or Article 12 of the Kyoto Protocol and the decisions adopted pursuant to the UNFCCC or the Kyoto Protocol;
+- ((m)) ‘ emission reduction unit ’ or ‘ ERU ’ means a unit issued pursuant to Article 6 of the Kyoto Protocol and the decisions adopted pursuant to the UNFCCC or the Kyoto Protocol;
+- ((n)) ‘ certified emission reduction ’ or ‘ CER ’ means a unit issued pursuant to Article 12 of the Kyoto Protocol and the decisions adopted pursuant to the UNFCCC or the Kyoto Protocol;
+- ((o)) ‘ aircraft operator ’ means the person who operates an aircraft at the time it performs an aviation activity listed in Annex I or, where that person is not known or is not identified by the owner of the aircraft, the owner of the aircraft;
+- ((p)) ‘ commercial air transport operator ’ means an operator that, for remuneration, provides scheduled or non-scheduled air transport services to the public for the carriage of passengers, freight or mail;
+- ((q)) ‘administering Member State’ means the Member State responsible for administering the EU ETS in respect of an aircraft operator in accordance with Article 18a;
+- ((r)) ‘ attributed aviation emissions ’ means emissions from all flights falling within the aviation activities listed in Annex I which depart from an aerodrome situated in the territory of a Member State and those which arrive in such an aerodrome from a third country;
+- ((s)) ‘ historical aviation emissions ’ means the mean average of the annual emissions in the calendar years 2004, 2005 and 2006 from aircraft performing an aviation activity listed in Annex I;
+- ((t)) ‘ combustion ’ means any oxidation of fuels, regardless of the way in which the heat, electrical or mechanical energy produced by this process is used, and any other directly associated activities, including waste gas scrubbing;
+- ((u)) ‘ electricity generator ’ means an installation that, on or after 1 January 2005 , has produced electricity for sale to third parties, and in which no activity listed in Annex I is carried out other than the ‘ combustion of fuels ’ .
+
+## CHAPTER II — AVIATION
+
+### Article 3a. Scope
+
+The provisions of this Chapter shall apply to the allocation and issue of allowances in respect of aviation activities listed in Annex I.
+
+### Article 3b. Aviation activities
+
+By 2 August 2009 , the Commission shall, in accordance with the examination procedure referred to in Article 22a(2) , develop guidelines on the detailed interpretation of the aviation activities listed in Annex I.
+
+### Article 3c. Total quantity of allowances for aviation
+
+1. For the period from 1 January 2012 to 31 December 2012 , the total quantity of allowances to be allocated to aircraft operators shall be equivalent to 97 % of the historical aviation emissions.
+
+2. For the period referred to in Article 13 beginning on 1 January 2013 , and, in the absence of any amendments following the review referred to in Article 30(4), for each subsequent period, the total quantity of allowances to be allocated to aircraft operators shall be equivalent to 95 % of the historical aviation emissions multiplied by the number of years in the period.
+
+This percentage may be reviewed as part of the general review of this Directive.
+
+3. The Commission shall review the total quantity of allowances to be allocated to aircraft operators in accordance with Article 30(4).
+
+3a.[^c000008] Any allocation of allowances for aviation activities to and from aerodromes located in countries outside the European Economic Area ( ‘ EEA ’ ) after 31 December 2023 shall be subject to the review referred to in Article 28b.
+
+4. By 2 August 2009 , the Commission shall decide on the historical aviation emissions, based on best available data, including estimates based on actual traffic information. That decision shall be considered within the Committee referred to in Article 23(1).
+
+### Article 3d. Method of allocation of allowances for aviation through auctioning
+
+1. In the period referred to in Article 3c(1), 15 % of allowances shall be auctioned.
+
+2.[^c000009] From 1 January 2013 , 15 % of allowances shall be auctioned. The Commission shall undertake a study on the ability of the aviation sector to pass on the cost of CO <sub> 2 </sub> to its customers, in relation to the EU ETS and to the global market-based measure developed by the International Civil Aviation Organization ( ‘ ICAO ’ ). The study shall assess the ability of the aviation sector to pass on the cost of required emission units, comparing this to industries and to the power sector, with the intention of making a proposal to increase the percentage of auctioning pursuant to the review referred to in Article 28b(2), taking into account the analysis of costs passed on and considering alignment with other sectors and the competitiveness between different modes of transport.
+
+3. The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Directive concerning the detailed arrangements for the auctioning by Member States of aviation allowances in accordance with paragraphs 1 and 2 of this Article or with Article 3f(8). The number of allowances to be auctioned in each period by each Member State shall be proportionate to its share of the total attributed aviation emissions for all Member States for the reference year reported pursuant to Article 14(3) and verified pursuant to Article 15. For the period referred to in Article 3c(1), the reference year shall be 2010, and for each subsequent period referred to in Article 3c, the reference year shall be the calendar year ending 24 months before the start of the period to which the auction relates. The delegated acts shall ensure that the principles set out in the first subparagraph of Article 10(4) are respected.
+
+4. All revenues generated from the auctioning of allowances should be used to tackle climate change in the Union and third countries, inter alia, to reduce greenhouse gas emissions, to adapt to the impacts of climate change in the Union and third countries, especially developing countries, to fund research and development for mitigation and adaptation, including in particular in the fields of aeronautics and air transport, to reduce emissions through low-emission transport and to cover the cost of administering the EU ETS. Auctioning revenues should also be used to fund common projects to reduce greenhouse gas emissions from the aviation sector, such as the Single European Sky ATM Research (SESAR) Joint Undertaking and the Clean Sky Joint Technology Initiatives and any initiatives enabling the widespread use of GNSS for satellite-based navigation and interoperable capabilities within all Member States, in particular projects that improve air navigation infrastructure, the provision of air navigation services and the use of airspace. The proceeds of auctioning may also be used to fund contributions to the Global Energy Efficiency and Renewable Energy Fund, and measures to avoid deforestation. Special consideration shall be given by Member States that use those revenues for co-financing research and innovation to programmes or initiatives under the Ninth Research Framework Programme ( ‘ FP9 ’ ). Transparency on the use of revenues generated from the auctioning of allowances under this Directive is essential to meeting Union commitments.
+
+Member States shall inform the Commission of actions taken pursuant to the first subparagraph of this paragraph.
+
+5. Information provided to the Commission pursuant to this Directive does not free Member States from the notification obligation laid down in Article 88(3) of the Treaty.
+
+### Article 3e. Allocation and issue of allowances to aircraft operators
+
+1. For each period referred to in Article 3c, each aircraft operator may apply for an allocation of allowances that are to be allocated free of charge. An application may be made by submitting to the competent authority in the administering Member State verified tonne-kilometre data for the aviation activities listed in Annex I performed by that aircraft operator for the monitoring year. For the purposes of this Article, the monitoring year shall be the calendar year ending 24 months before the start of the period to which it relates in accordance with Annexes IV and V or, in relation to the period referred to in Article 3c(1), 2010. Any application shall be made at least 21 months before the start of the period to which it relates or, in relation to the period referred to in Article 3c(1), by 31 March 2011 .
+
+2. At least 18 months before the start of the period to which the application relates or, in relation to the period referred to in Article 3c(1), by 30 June 2011 , Member States shall submit applications received under paragraph 1 to the Commission.
+
+3. At least 15 months before the start of each period referred to in Article 3c(2) or, in relation to the period referred to in Article 3c(1), by 30 September 2011 , the Commission shall calculate and adopt a decision setting out:
+
+- (a) the total quantity of allowances to be allocated for that period in accordance with Article 3c;
+- (b) the number of allowances to be auctioned in that period in accordance with Article 3d;
+- (c) the number of allowances in the special reserve for aircraft operators in that period in accordance with Article 3f(1);
+- (d) the number of allowances to be allocated free of charge in that period by subtracting the number of allowances referred to in points (b) and (c) from the total quantity of allowances decided upon under point (a); and
+- (e) the benchmark to be used to allocate allowances free of charge to aircraft operators whose applications were submitted to the Commission in accordance with paragraph 2.
+
+The benchmark referred to in point (e), expressed as allowances per tonne-kilometre, shall be calculated by dividing the number of allowances referred to in point (d) by the sum of the tonne-kilometre data included in applications submitted to the Commission in accordance with paragraph 2.
+
+4. Within three months from the date on which the Commission adopts a decision under paragraph 3, each administering Member State shall calculate and publish:
+
+- (a) the total allocation of allowances for the period to each aircraft operator whose application it submitted to the Commission in accordance with paragraph 2, calculated by multiplying the tonne-kilometre data included in the application by the benchmark referred to in paragraph 3(e); and
+- (b) the allocation of allowances to each aircraft operator for each year, which shall be determined by dividing its total allocation of allowances for the period calculated under point (a) by the number of years in the period for which that aircraft operator is performing an aviation activity listed in Annex I.
+
+5. By 28 February 2012 and by 28 February of each subsequent year, the competent authority of the administering Member State shall issue to each aircraft operator the number of allowances allocated to that aircraft operator for that year under this Article or Article 3f.
+
+### Article 3f. Special reserve for certain aircraft operators
+
+1. In each period referred to in Article 3c(2), 3 % of the total quantity of allowances to be allocated shall be set aside in a special reserve for aircraft operators:
+
+- (a) who start performing an aviation activity falling within Annex I after the monitoring year for which tonne-kilometre data was submitted under Article 3e(1) in respect of a period referred to in Article 3c(2); or
+- (b) whose tonne-kilometre data increases by an average of more than 18 % annually between the monitoring year for which tonne-kilometre data was submitted under Article 3e(1) in respect of a period referred to in Article 3c(2) and the second calendar year of that period;
+
+and whose activity under point (a), or additional activity under point (b), is not in whole or in part a continuation of an aviation activity previously performed by another aircraft operator.
+
+2. An aircraft operator who is eligible under paragraph 1 may apply for a free allocation of allowances from the special reserve by making an application to the competent authority of its administering Member State. Any application shall be made by 30 June in the third year of the period referred to in Article 3c(2) to which it relates.
+
+An allocation to an aircraft operator under paragraph 1(b) shall not exceed 1 000 000 allowances.
+
+3. An application under paragraph 2 shall:
+
+- (a) include verified tonne-kilometre data in accordance with Annexes IV and V for the aviation activities listed in Annex I performed by the aircraft operator in the second calendar year of the period referred to in Article 3c(2) to which the application relates;
+- (b) provide evidence that the criteria for eligibility under paragraph 1 are fulfilled; and
+- (c) in the case of aircraft operators falling within paragraph 1(b), state:
+  - ((i)) the percentage increase in tonne-kilometres performed by that aircraft operator between the monitoring year for which tonne-kilometre data was submitted under Article 3e(1) in respect of a period referred to in Article 3c(2) and the second calendar year of that period;
+  - ((ii)) the absolute growth in tonne-kilometres performed by that aircraft operator between the monitoring year for which tonne-kilometre data was submitted under Article 3e(1) in respect of a period referred to in Article 3c(2) and the second calendar year of that period; and
+  - ((iii)) the absolute growth in tonne-kilometres performed by that aircraft operator between the monitoring year for which tonne-kilometre data was submitted under Article 3e(1) in respect of a period referred to in Article 3c(2) and the second calendar year of that period which exceeds the percentage specified in paragraph 1(b).
+
+4. No later than six months from the deadline for making an application under paragraph 2, Member States shall submit applications received under that paragraph to the Commission.
+
+5. No later than 12 months from the deadline for making an application under paragraph 2, the Commission shall decide on the benchmark to be used to allocate allowances free of charge to aircraft operators whose applications were submitted to the Commission in accordance with paragraph 4.
+
+Subject to paragraph 6, the benchmark shall be calculated by dividing the number of the allowances in the special reserve by the sum of:
+
+- (a) the tonne-kilometre data for aircraft operators falling within paragraph 1(a) included in applications submitted to the Commission in accordance with paragraphs 3(a) and 4; and
+- (b) the absolute growth in tonne-kilometres exceeding the percentage specified in paragraph 1(b) for aircraft operators falling within paragraph 1(b) included in applications submitted to the Commission in accordance with paragraphs 3(c)(iii) and 4.
+
+6. The benchmark referred to in paragraph 5 shall not result in an annual allocation per tonne-kilometre greater than the annual allocation per tonne-kilometre to aircraft operators under Article 3e(4).
+
+7. Within three months from the date on which the Commission adopts a decision under paragraph 5, each administering Member State shall calculate and publish:
+
+- (a) the allocation of allowances from the special reserve to each aircraft operator whose application it submitted to the Commission in accordance with paragraph 4. This allocation shall be calculated by multiplying the benchmark referred to in paragraph 5 by:
+  - ((i)) in the case of an aircraft operator falling within paragraph 1(a), the tonne-kilometre data included in the application submitted to the Commission under paragraphs 3(a) and 4;
+  - ((ii)) in the case of an aircraft operator falling within paragraph 1(b), the absolute growth in tonne-kilometres exceeding the percentage specified in paragraph 1(b) included in the application submitted to the Commission under paragraphs 3(c)(iii) and 4; and
+- (b) the allocation of allowances to each aircraft operator for each year, which shall be determined by dividing its allocation of allowances under point (a) by the number of full calendar years remaining in the period referred to in Article 3c(2) to which the allocation relates.
+
+8. Any unallocated allowances in the special reserve shall be auctioned by Member States.
+
+9.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 3g. Monitoring and reporting plans
+
+The administering Member State shall ensure that each aircraft operator submits to the competent authority in that Member State a monitoring plan setting out measures to monitor and report emissions and tonne-kilometre data for the purpose of an application under Article 3e and that such plans are approved by the competent authority in accordance with the acts referred to in Article 14 .
+
+## CHAPTER III — STATIONARY INSTALLATIONS
+
+### Article 3h. Scope
+
+The provisions of this Chapter shall apply to greenhouse gas emissions permits and the allocation and issue of allowances in respect of activities listed in Annex I other than aviation activities.
+
+### Article 4. Greenhouse gas emissions permits
+
+Member States shall ensure that, from 1 January 2005 , no installation carries out any activity listed in Annex I resulting in emissions specified in relation to that activity unless its operator holds a permit issued by a competent authority in accordance with Articles 5 and 6, or the installation is excluded from the EU ETS pursuant to Article 27. This shall also apply to installations opted in under Article 24.
+
+### Article 5. Applications for greenhouse gas emissions permits
+
+An application to the competent authority for a greenhouse gas emissions permit shall include a description of:
+
+- ((a)) the installation and its activities including the technology used;
+- ((b)) the raw and auxiliary materials, the use of which is likely to lead to emissions of gases listed in Annex I;
+- ((c)) the sources of emissions of gases listed in Annex I from the installation; and
+- ((d)) the measures planned to monitor and report emissions in accordance with the acts referred to in Article 14.
+
+The application shall also include a non-technical summary of the details referred to in the first subparagraph.
+
+### Article 6. Conditions for and contents of the greenhouse gas emissions permit
+
+1. The competent authority shall issue a greenhouse gas emissions permit granting authorisation to emit greenhouse gases from all or part of an installation if it is satisfied that the operator is capable of monitoring and reporting emissions.
+
+A greenhouse gas emissions permit may cover one or more installations on the same site operated by the same operator.
+
+[^c000010]. . . . .
+
+2. Greenhouse gas emissions permits shall contain the following:
+
+- (a) the name and address of the operator;
+- (b) a description of the activities and emissions from the installation;
+- (c) a monitoring plan that fulfils the requirements under the acts referred to in Article 14. Member States may allow operators to update monitoring plans without changing the permit. Operators shall submit any updated monitoring plans to the competent authority for approval;
+- (d) reporting requirements; and
+- (e) an obligation to surrender allowances, other than allowances issued under Chapter II, equal to the total emissions of the installation in each calendar year, as verified in accordance with Article 15, within four months following the end of that year.
+
+### Article 7. Changes relating to installations
+
+The operator shall inform the competent authority of any planned changes to the nature or functioning of the installation, or any extension or significant reduction of its capacity, which may require updating the greenhouse gas emissions permit. Where appropriate, the competent authority shall update the permit. Where there is a change in the identity of the installation's operator, the competent authority shall update the permit to include the name and address of the new operator.
+
+### Article 8. Coordination with Directive 2010/75/EU
+
+Member States shall take the necessary measures to ensure that, where installations carry out activities that are included in Annex I to Directive 2010/75/EU of the European Parliament and of the Council [^f00013] , the conditions and procedure for the issue of a greenhouse gas emissions permit are coordinated with those for the issue of a permit provided for in that Directive. The requirements laid down in Articles 5, 6 and 7 of this Directive may be integrated into the procedures provided for in Directive 2010/75/EU.
+
+### Article 9. Union -wide quantity of allowances
+
+The Union -wide quantity of allowances issued each year starting in 2013 shall decrease in a linear manner beginning from the mid-point of the period from 2008 to 2012. The quantity shall decrease by a linear factor of 1,74 % compared to the average annual total quantity of allowances issued by Member States in accordance with the Commission Decisions on their national allocation plans for the period from 2008 to 2012. The[^c000011] Union -wide quantity of allowances will be increased as a result of Croatia's accession only by the quantity of allowances that Croatia shall auction pursuant to Article 10(1).
+
+Starting in 2021, the linear factor shall be 2,2 %.
+
+### Article 9a. Adjustment of the Union -wide quantity of allowances
+
+1. In respect of installations that were included in the EU ETS during the period from 2008 to 2012 pursuant to Article 24(1), the quantity of allowances to be issued from 1 January 2013 shall be adjusted to reflect the average annual quantity of allowances issued in respect of those installations during the period of their inclusion, adjusted by the linear factor referred to in Article 9.
+
+2. In respect of installations carrying out activities listed in Annex I, which are only included in the EU ETS from 2013 onwards, Member States shall ensure that the operators of such installations submit to the relevant competent authority duly substantiated and independently verified emissions data in order for them to be taken into account for the adjustment of the Union -wide quantity of allowances to be issued.
+
+Any such data shall be submitted, by 30 April 2010 , to the relevant competent authority in accordance with the provisions adopted pursuant to Article 14(1).
+
+If the data submitted are duly substantiated, the competent authority shall notify the Commission thereof by 30 June 2010 and the quantity of allowances to be issued, adjusted by the linear factor referred to in Article 9, shall be adjusted accordingly. In the case of installations emitting greenhouse gases other than CO <sub> 2 </sub> , the competent authority may notify a lower amount of emissions according to the emission reduction potential of those installations.
+
+3. The Commission shall publish the adjusted quantities referred to in paragraphs 1 and 2 by 30 September 2010 .
+
+4. In respect of installations which are excluded from the EU ETS in accordance with Article 27, the Union -wide quantity of allowances to be issued from 1 January 2013 shall be adjusted downwards to reflect the average annual verified emissions of those installations in the period from 2008 to 2010, adjusted by the linear factor referred to in Article 9.
+
+### Article 10. Auctioning of allowances
+
+1. From 2019 onwards, Member States shall auction all allowances that are not allocated free of charge in accordance with Articles 10a and 10c of this Directive and that are not placed in the market stability reserve established by Decision (EU) 2015/1814 of the European Parliament and of the Council [^f00014] (the ‘ market stability reserve ’ ) or cancelled in accordance with Article 12(4) of this Directive.
+
+From 2021 onwards, and without prejudice to a possible reduction pursuant to Article 10a(5a), the share of allowances to be auctioned shall be 57 %.
+
+2 % of the total quantity of allowances between 2021 and 2030 shall be auctioned to establish a fund to improve energy efficiency and modernise the energy systems of certain Member States as set out in Article 10d ( ‘ the Modernisation Fund ’ ).
+
+The total remaining quantity of allowances to be auctioned by Member States shall be distributed in accordance with paragraph 2.
+
+1a.[^c000012] Where the volume of allowances to be auctioned by Member States in the last year of each period referred to in Article 13 of this Directive exceeds by more than 30 % the expected average auction volume for the first two years of the following period before application of Article 1(5) of Decision (EU) 2015/1814, two thirds of the difference between the volumes shall be deducted from the auction volumes in the last year of the period and added in equal instalments to the volumes to be auctioned by Member States in the first two years of the following period.
+
+2. The total quantity of allowances to be auctioned by each Member State shall be composed as follows:
+
+- (a) 90 % of the total quantity of allowances to be auctioned being distributed amongst Member States in shares that are identical to the share of verified emissions under the EU ETS for 2005 or the average of the period from 2005 to 2007, whichever one is the highest, of the Member State concerned;
+- (b) 10 % of the total quantity of allowances to be auctioned being distributed amongst certain Member States for the purposes of solidarity, growth and interconnections within the Union, thereby increasing the amount of allowances that those Member States auction under point (a) by the percentages specified in Annex IIa.
+- (c) 2 % of the total quantity of allowances to be auctioned being distributed amongst Member States the greenhouse gas emissions of which were, in 2005, at least 20 % below their emissions in the base year applicable to them under the Kyoto Protocol. The distribution of this percentage amongst the Member States concerned is set out in Annex IIb. *(affected by repeal, see note)*[^c000010]
+
+For the purposes of point (a), in respect of Member States which did not participate in the EU ETS in 2005, their share shall be calculated using their verified emissions under the EU ETS in 2007.
+
+If necessary, the percentages referred to in point (b) shall be adapted in a proportional manner to ensure that the distribution is 10 %.
+
+3. Member States shall determine the use of revenues generated from the auctioning of allowances. At least 50 % of the revenues generated from the auctioning of allowances referred to in paragraph 2, including all revenues from the auctioning referred to in paragraph 2, points (b) and (c), or the equivalent in financial value of these revenues, should be used for one or more of the following:
+
+- (a) to reduce greenhouse gas emissions, including by contributing to the Global Energy Efficiency and Renewable Energy Fund and to the Adaptation Fund as made operational by the Poznan Conference on Climate Change (COP 14 and COP/MOP 4), to adapt to the impacts of climate change and to fund research and development as well as demonstration projects for reducing emissions and for adaptation to climate change, including participation in initiatives within the framework of the European Strategic Energy Technology Plan and the European Technology Platforms;
+- (b) to develop renewable energies to meet the commitment of the Union to renewable energies, as well as to develop other technologies that contribute to the transition to a safe and sustainable low-carbon economy, and to help to meet the commitment of the Union to increase energy efficiency, at the levels agreed in relevant legislative acts;
+- (c) measures to avoid deforestation and increase afforestation and reforestation in developing countries that have ratified the international agreement on climate change, to transfer technologies and to facilitate adaptation to the adverse effects of climate change in these countries;
+- (d) forestry sequestration in the Union ;
+- (e) the environmentally safe capture and geological storage of CO <sub> 2 </sub> , in particular from solid fossil fuel power stations and a range of industrial sectors and subsectors, including in third countries;
+- (f) to encourage a shift to low-emission and public forms of transport;
+- (g) to finance research and development in energy efficiency and clean technologies in the sectors covered by this Directive;
+- (h) measures intended to improve energy efficiency, district heating systems and insulation, or to provide financial support in order to address social aspects in lower- and middle-income households;
+- (i) to cover administrative expenses of the management of the EU ETS ;
+- (j)[^c000013] to finance climate actions in vulnerable third countries, including the adaptation to the impacts of climate change;
+- (k) to promote skill formation and reallocation of labour in order to contribute to a just transition to a low carbon economy, in particular in regions most affected by the transition of jobs, in close coordination with the social partners.
+
+Member States shall be deemed to have fulfilled the provisions of this paragraph if they have in place and implement fiscal or financial support policies, including in particular in developing countries, or domestic regulatory policies, which leverage financial support, established for the purposes set out in the first subparagraph and which have a value equivalent to at least 50 % of the revenues generated from the auctioning of allowances referred to in paragraph 2, including all revenues from the auctioning referred to in paragraph 2, points (b) and (c).
+
+Member States shall inform the Commission as to the use of revenues and the actions taken pursuant to this paragraph in their reports submitted under Decision No 280/2004/EC.
+
+4. The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Directive concerning the timing, administration and other aspects of auctioning, in order to ensure that it is conducted in an open, transparent, harmonised and non-discriminatory manner. To that end, the process shall be predictable, in particular as regards the timing and sequencing of auctions and the estimated volumes of allowances to be made available.
+
+Those delegated acts shall ensure that auctions are designed to ensure that:
+
+- (a) operators, and in particular any small and medium-sized enterprises covered by the EU ETS, have full, fair and equitable access;
+- (b) all participants have access to the same information at the same time and that participants do not undermine the operation of the auctions;
+- (c) the organisation of, and participation in, the auctions is cost-efficient and undue administrative costs are avoided; and
+- (d) access to allowances is granted to small emitters.
+
+Member States shall report on the proper implementation of the auctioning rules for each auction, in particular with respect to fair and open access, transparency, price formation and technical and operational aspects. These reports shall be submitted within one month of the auction concerned and shall be published on the Commission's website.
+
+5. The Commission shall monitor the functioning of the European carbon market. Each year, it shall submit a report to the European Parliament and to the Council on the functioning of the carbon market and on other relevant climate and energy policies, including the operation of the auctions, liquidity and the volumes traded, and summarising the information provided by Member States on the financial measures referred to in Article 10a(6). If necessary, Member States shall ensure that any relevant information is submitted to the Commission at least two months before the Commission adopts the report.
+
+### Article 10a. Transitional Union -wide rules for harmonised free allocation
+
+1. The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Directive concerning the Union-wide and fully harmonised rules for the allocation of allowances referred to in paragraphs 4, 5, 7 and 19 of this Article.
+
+The measures referred to in the first subparagraph shall, to the extent feasible, determine Union -wide ex-ante benchmarks so as to ensure that allocation takes place in a manner that provides incentives for reductions in greenhouse gas emissions and energy efficient techniques, by taking account of the most efficient techniques, substitutes, alternative production processes, high efficiency cogeneration, efficient energy recovery of waste gases, use of biomass and capture and storage of CO <sub> 2 </sub> , where such facilities are available, and shall not provide incentives to increase emissions. No free allocation shall be made in respect of any electricity production, except for cases falling within Article 10c and electricity produced from waste gases.
+
+For each sector and subsector, in principle, the benchmark shall be calculated for products rather than for inputs, in order to maximise greenhouse gas emissions reductions and energy efficiency savings throughout each production process of the sector or the subsector concerned.
+
+In defining the principles for setting ex-ante benchmarks in individual sectors and subsectors, the Commission shall consult the relevant stakeholders, including the sectors and subsectors concerned.
+
+The Commission shall, upon the approval by the Union of an international agreement on climate change leading to mandatory reductions of greenhouse gas emissions comparable to those of the Union , review those measures to provide that free allocation is only to take place where this is fully justified in the light of that agreement.
+
+2. In defining the principles for setting ex-ante benchmarks in individual sectors or subsectors, the starting point shall be the average performance of the 10 % most efficient installations in a sector or subsector in the Union in the years 2007-2008. The Commission shall consult the relevant stakeholders, including the sectors and subsectors concerned.
+
+The acts pursuant to Articles 14 and 15 shall provide for harmonised rules on monitoring, reporting and verification of production-related greenhouse gas emissions with a view to determining the ex-ante benchmarks.
+
+The Commission shall adopt implementing acts for the purpose of determining the revised benchmark values for free allocation. Those acts shall be in accordance with the delegated acts adopted pursuant to paragraph 1 of this Article and shall comply with the following:
+
+- (a) For the period from 2021 to 2025, the benchmark values shall be determined on the basis of information submitted pursuant to Article 11 for the years 2016 and 2017. On the basis of a comparison of those benchmark values with the benchmark values contained in Commission Decision 2011/278/EU [^f00015] , as adopted on 27 April 2011 , the Commission shall determine the annual reduction rate for each benchmark, and shall apply it to the benchmark values applicable in the period from 2013 to 2020 in respect of each year between 2008 and 2023 to determine the benchmark values for the period from 2021 to 2025.
+- (b) Where the annual reduction rate exceeds 1,6 % or is below 0,2 %, the benchmark values for the period from 2021 to 2025 shall be the benchmark values applicable in the period from 2013 to 2020 reduced by whichever of those two percentage rates is relevant, in respect of each year between 2008 and 2023.
+- (c) For the period from 2026 to 2030, the benchmark values shall be determined in the same manner as set out in points (a) and (b) on the basis of information submitted pursuant to Article 11 for the years 2021 and 2022 and on the basis of applying the annual reduction rate in respect of each year between 2008 and 2028.
+
+By way of derogation regarding the benchmark values for aromatics, hydrogen and syngas, these benchmark values shall be adjusted by the same percentage as the refineries benchmarks in order to preserve a level playing field for producers of those products.
+
+The implementing acts referred to in the third subparagraph shall be adopted in accordance with the examination procedure referred to in Article 22a(2).
+
+In order to promote efficient energy recovery from waste gases, for the period referred to in point (b) of the third subparagraph, the benchmark value for hot metal, which predominantly relates to waste gases, shall be updated with an annual reduction rate of 0,2 %.
+
+3. Subject to paragraphs 4 and 8, and notwithstanding Article 10c, no free allocation shall be given to electricity generators, to installations for the capture of CO <sub> 2 </sub> , to pipelines for transport of CO <sub> 2 </sub> or to CO <sub> 2 </sub> storage sites.
+
+4. Free allocation shall be given to district heating as well as to high efficiency cogeneration, as defined by Directive 2012/27/EU of the European Parliament and of the Council [^f00016] , for economically justifiable demand, in respect of the production of heating or cooling. In each year subsequent to 2013, the total allocation to such installations in respect of the production of that heat shall be adjusted by the linear factor referred to in Article 9 of this Directive, except for any year in which those allocations are adjusted in a uniform manner pursuant to paragraph 5 of this Article.
+
+5. In order to respect the auctioning share set out in Article 10, for every year in which the sum of free allocations does not reach the maximum amount that respects the auctioning share, the remaining allowances up to that amount shall be used to prevent or limit reduction of free allocations to respect the auctioning share in later years. Where, nonetheless, the maximum amount is reached, free allocations shall be adjusted accordingly. Any such adjustment shall be done in a uniform manner.
+
+5a. By way of derogation from paragraph 5, an additional amount of up to 3 % of the total quantity of allowances shall, to the extent necessary, be used to increase the maximum amount available under paragraph 5.
+
+5b. Where less than 3 % of the total quantity of allowances is needed to increase the maximum amount available under paragraph 5:
+
+- a maximum of 50 million allowances shall be used to increase the amount of allowances available to support innovation in accordance with Article 10a(8); and
+- a maximum of 0,5 % of the total quantity of allowances shall be used to increase the amount of allowances available to modernise the energy systems of certain Member States in accordance with Article 10d.
+
+6. Member States should adopt financial measures in accordance with the second and fourth subparagraphs in favour of sectors or subsectors which are exposed to a genuine risk of carbon leakage due to significant indirect costs that are actually incurred from greenhouse gas emission costs passed on in electricity prices, provided that such financial measures are in accordance with State aid rules, and in particular do not cause undue distortions of competition in the internal market. Where the amount available for such financial measures exceeds 25 % of the revenues generated from the auctioning of allowances, the Member State concerned shall set out the reasons for exceeding that amount.
+
+Member States shall also seek to use no more than 25 % of the revenues generated from the auctioning of allowances for the financial measures referred to in the first subparagraph. Within three months of the end of each year, Member States that have such financial measures in place shall make available to the public, in an easily accessible form, the total amount of compensation provided per benefitting sector and subsector. As from 2018, in any year in which a Member State uses more than 25 % of the revenues generated from the auctioning of allowances for such purposes, it shall publish a report setting out the reasons for exceeding that amount. The report shall include relevant information on electricity prices for large industrial consumers benefiting from such financial measures, without prejudice to requirements regarding the protection of confidential information. The report shall also include information on whether due consideration has been given to other measures to sustainably lower indirect carbon costs in the medium to long term.
+
+The Commission shall include in the report provided for in Article 10(5), *inter alia* , an assessment of the effects of such financial measures on the internal market and, where appropriate, recommend any measures that may be necessary pursuant to that assessment.
+
+Those measures shall be such as to ensure that there is adequate protection against the risk of carbon leakage, based on *ex-ante* benchmarks for the indirect emissions of CO <sub> 2 </sub> per unit of production. Those *ex-ante* benchmarks shall be calculated for a given sector or subsector as the product of the electricity consumption per unit of production corresponding to the most efficient available technologies and of the CO <sub> 2 </sub> emissions of the relevant European electricity production mix.
+
+7. Allowances from the maximum amount referred to in paragraph 5 of this Article which were not allocated for free by 2020 shall be set aside for new entrants, together with 200 million allowances placed in the market stability reserve pursuant to Article 1(3) of Decision (EU) 2015/1814. Of the allowances set aside, up to 200 million shall be returned to the market stability reserve at the end of the period from 2021 to 2030 if not allocated for that period.
+
+From 2021, allowances that pursuant to paragraphs 19 and 20 are not allocated to installations shall be added to the amount of allowances set aside in accordance with the first sentence of the first subparagraph of this paragraph.
+
+Allocations shall be adjusted by the linear factor referred to in Article 9.
+
+No free allocation shall be made in respect of any electricity production by new entrants.
+
+[^c000010]. . . . .
+
+[^c000010]. . . . .
+
+8. 325 million allowances from the quantity which could otherwise be allocated for free pursuant to this Article, and 75 million allowances from the quantity which could otherwise be auctioned pursuant to Article 10, shall be made available to support innovation in low-carbon technologies and processes in sectors listed in Annex I, including environmentally safe carbon capture and utilisation ( ‘ CCU ’ ) that contributes substantially to mitigating climate change, as well as products substituting carbon intensive ones produced in sectors listed in Annex I, and to help stimulate the construction and operation of projects that aim at the environmentally safe capture and geological storage ( ‘ CCS ’ ) of CO <sub> 2 </sub> , as well as of innovative renewable energy and energy storage technologies; in geographically balanced locations within the territory of the Union (the ‘ innovation fund ’ ). Projects in all Member States, including small-scale projects, shall be eligible.
+
+In addition, 50 million unallocated allowances from the market stability reserve shall supplement any remaining revenues from the 300 million allowances available in the period from 2013 to 2020 under Commission Decision 2010/670/EU [^f00017] , and shall be used in a timely manner for innovation support as referred to in the first subparagraph.
+
+Projects shall be selected on the basis of objective and transparent criteria, taking into account, where relevant, the extent to which projects contribute to achieving emission reductions well below the benchmarks referred to in paragraph 2. Projects shall have the potential for widespread application or to significantly lower the costs of transitioning towards a low-carbon economy in the sectors concerned. Projects involving CCU shall deliver a net reduction in emissions and ensure avoidance or permanent storage of CO <sub> 2 </sub> . Technologies receiving support shall not yet be commercially available but shall represent breakthrough solutions or be sufficiently mature to be ready for demonstration at pre-commercial scale. Up to 60 % of the relevant costs of projects may be supported, out of which up to 40 % need not be dependent on verified avoidance of greenhouse gas emissions, provided that pre-determined milestones, taking into account the technology deployed, are attained.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Directive concerning rules on the operation of the innovation fund, including the selection procedure and criteria.
+
+Allowances shall be set aside for the projects that meet the criteria referred to in the third subparagraph. Support for these projects shall be given via Member States and shall be complementary to substantial co-financing by the operator of the installation. They could also be co-financed by the Member State concerned, as well as by other instruments. No project shall receive support via the mechanism under this paragraph that exceeds 15 % of the total number of allowances available for this purpose. These allowances shall be taken into account under paragraph 7.
+
+9. Greece, which had a gross domestic product (GDP) per capita at market prices below 60 % of the Union average in 2014, may claim, prior to the application of paragraph 7 of this Article, up to 25 million allowances from the maximum amount referred to in paragraph 5 of this Article which are not allocated for free by 31 December 2020 , for the co-financing of up to 60 % of the decarbonisation of the electricity supply of islands within its territory. Article 10d(3) shall apply *mutatis mutandis* to such allowances. Allowances may be claimed where, due to restricted access to the international debt markets, a project aiming at the decarbonisation of the electricity supply of Greece's islands could otherwise not be realised and where the European Investment Bank (EIB) confirms the financial viability and socio-economic benefits of the project.
+
+10.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+11. Subject to Article 10b, the amount of allowances allocated free of charge under paragraphs 4 to 7 of this Article in 2013 shall be 80 % of the quantity determined in accordance with the measures referred to in paragraph 1. Thereafter the free allocation shall decrease each year by equal amounts resulting in 30 % free allocation in 2020 , with a view to reaching no free allocation in 2027 *(affected by repeal, see note)*[^c000010] .
+
+12.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+13.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+16.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+17.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19. No free allocation shall be given to an installation that has ceased its operations, unless the operator demonstrates to the competent authority that this installation will resume production within a specified and reasonable time. Installations for which the greenhouse gas emissions permit has expired or has been withdrawn and installations for which the operation or resumption of operation is technically impossible shall be considered to have ceased operations.
+
+20. The level of free allocations given to installations whose operations have increased or decreased, as assessed on the basis of a rolling average of two years, by more than 15 % compared to the level initially used to determine the free allocation for the relevant period referred to in Article 11(1) shall, as appropriate, be adjusted. Such adjustments shall be carried out with allowances from, or by adding allowances to, the amount of allowances set aside in accordance with paragraph 7 of this Article.
+
+21. In order to ensure the effective, non-discriminatory and uniform application of the adjustments and threshold referred to in paragraph 20 of this Article, to avoid any undue administrative burden, and to prevent manipulation or abuse of the adjustments to the allocation, the Commission may adopt implementing acts which define further arrangements for the adjustments. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22a(2).
+
+### Article 10b. Transitional measures to support certain energy intensive industries in the event of carbon leakage
+
+1. Sectors and subsectors in relation to which the product resulting from multiplying their intensity of trade with third countries, defined as the ratio between the total value of exports to third countries plus the value of imports from third countries and the total market size for the European Economic Area (annual turnover plus total imports from third countries), by their emission intensity, measured in kgCO <sub> 2 </sub> , divided by their gross value added (in euros), exceeds 0,2, shall be deemed to be at risk of carbon leakage. Such sectors and subsectors shall be allocated allowances free of charge for the period until 2030 at 100 % of the quantity determined pursuant to Article 10a.
+
+2. Sectors and subsectors in relation to which the product resulting from multiplying their intensity of trade with third countries by their emission intensity exceeds 0,15 may be included in the group referred to in paragraph 1, using data for the years from 2014 to 2016, on the basis of a qualitative assessment and of the following criteria:
+
+- (a) the extent to which it is possible for individual installations in the sector or subsector concerned to reduce emission levels or electricity consumption;
+- (b) current and projected market characteristics, including, where relevant, any common reference price;
+- (c) profit margins as a potential indicator of long-run investment or relocation decisions, taking into account changes in costs of production relating to emission reductions.
+
+3. Sectors and subsectors that do not exceed the threshold referred to in paragraph 1, but have an emission intensity measured in kgCO <sub> 2 </sub> , divided by their gross value added (in euros), which exceeds 1,5, shall also be assessed at a 4-digit level (NACE-4 code). The Commission shall make the results of that assessment public.
+
+Within three months of the publication referred to in the first subparagraph, the sectors and subsectors referred to in that subparagraph may apply to the Commission for either a qualitative assessment of their carbon leakage exposure at a 4-digit level (NACE-4 code) or an assessment on the basis of the classification of goods used for statistics on industrial production in the Union at an 8-digit level (Prodcom). To that end, sectors and subsectors shall submit duly substantiated, complete and independently verified data to enable the Commission to carry out the assessment together with the application.
+
+Where a sector or subsector chooses to be assessed at a 4-digit level (NACE-4 code), it may be included in the group referred to in paragraph 1 on the basis of the criteria referred to in points (a), (b) and (c) of paragraph 2. Where a sector or subsector chooses to be assessed at an 8-digit level (Prodcom), it shall be included in the group referred to in paragraph 1 provided that, at that level, the threshold of 0,2 referred to in paragraph 1 is exceeded.
+
+Sectors and subsectors for which free allocation is calculated on the basis of the benchmark values referred to in the fourth subparagraph of Article 10a(2) may also request to be assessed in accordance with the third subparagraph of this paragraph.
+
+By way of derogation from paragraphs 1 and 2, a Member State may request, by 30 June 2018 , that a sector or subsector listed in the Annex to Commission Decision 2014/746/EU [^f00018] in respect of classifications at a 6-digit or an 8-digit level (Prodcom) be considered to be included in the group referred to in paragraph 1. Any such request shall only be considered where the requesting Member State establishes that the application of that derogation is justified on the basis of duly substantiated, complete, verified and audited data for the five most recent years provided by the sector or subsector concerned, and includes all relevant information with its request. On the basis of those data, the sector or subsector concerned shall be included in respect of those classifications where, within a heterogeneous 4-digit level (NACE-4 code), it is shown that it has a substantially higher trade and emission intensity at a 6-digit or an 8-digit level (Prodcom), exceeding the threshold set out in paragraph 1.
+
+4. Other sectors and subsectors are considered to be able to pass on more of the costs of allowances in product prices, and shall be allocated allowances free of charge at 30 % of the quantity determined pursuant to Article 10a. Unless otherwise decided in the review pursuant to Article 30, free allocations to other sectors and subsectors, except district heating, shall decrease by equal amounts after 2026 so as to reach a level of no free allocation in 2030.
+
+5. The Commission is empowered to adopt, by 31 December 2019 , delegated acts in accordance with Article 23 to supplement this Directive concerning the determination of sectors and subsectors deemed at risk of carbon leakage, as referred to in paragraphs 1, 2 and 3 of this Article, for activities at a 4-digit level (NACE-4 code) as far as paragraph 1 of this Article is concerned, based on data for the three most recent calendar years available.
+
+### Article 10c. Option for transitional free allocation for the modernisation of the energy sector
+
+1. By way of derogation from Article 10a(1) to (5), Member States which had in 2013 a GDP per capita at market prices (in euros) below 60 % of the Union average may give a transitional free allocation to installations for electricity generation for the modernisation, diversification and sustainable transformation of the energy sector. The investments supported shall be consistent with the transition to a safe and sustainable low-carbon economy, the objectives of the Union's 2030 climate and energy policy framework, and reaching the long-term objectives expressed in the Paris Agreement. The derogation provided for in this paragraph shall end on 31 December 2030 .
+
+2. The Member State concerned shall organise a competitive bidding process, to take place in one or more rounds between 2021 and 2030, for projects involving a total amount of investment exceeding EUR 12,5 million, in order to select the investments to be financed with free allocation. That competitive bidding process shall:
+
+- (a) comply with the principles of transparency, non-discrimination, equal treatment and sound financial management;
+- (b) ensure that only projects which contribute to the diversification of their energy mix and sources of supply, the necessary restructuring, environmental upgrading and retrofitting of the infrastructure, clean technologies, such as renewable energy technologies, or modernisation of the energy production sector, such as efficient and sustainable district heating, and of the transmission and distribution sector, are eligible to bid;
+- (c) define clear, objective, transparent and non-discriminatory selection criteria for the ranking of projects, so as to ensure that only projects are selected which:
+  - ((i)) on the basis of a cost-benefit analysis, ensure a net positive gain in terms of emission reduction and realise a pre-determined significant level of CO <sub> 2 </sub> reductions taking into account the size of the project;
+  - ((ii)) are additional, clearly respond to replacement and modernisation needs and do not supply a market-driven increase in energy demand;
+  - ((iii)) offer the best value for money; and
+  - ((iv)) do not contribute to or improve the financial viability of highly emission-intensive electricity generation or increase dependency on emission-intensive fossil fuels.
+
+By way of derogation from Article 10(1) and without prejudice to the last sentence of paragraph 1 of this Article, in the event that an investment selected through the competitive bidding process is cancelled or the intended performance is not reached, the earmarked allowances may be used through a single additional round of the competitive bidding process at the earliest one year thereafter to finance other investments.
+
+By 30 June 2019 , any Member State intending to make use of optional transitional free allocation for the modernisation of the energy sector shall publish a detailed national framework setting out the competitive bidding process, including the planned number of rounds referred to in the first subparagraph, and the selection criteria, for public comment.
+
+Where investments with a value of less than EUR 12,5 million are to be supported with free allocation and are not selected through the competitive bidding process referred to in this paragraph, the Member State shall select projects based on objective and transparent criteria. The results of this selection process shall be published for public comment. On this basis, the Member State concerned shall, by 30 June 2019 , establish, publish and submit to the Commission a list of investments. Where more than one investment is carried out within the same installation, they shall be assessed as a whole to establish whether or not the value threshold of EUR 12,5 million is exceeded, unless those investments are, independently, technically or financially viable.
+
+3. The value of the intended investments shall at least equal the market value of the free allocation, while taking into account the need to limit directly linked price increases. The market value shall be the average of the price of allowances on the common auction platform in the preceding calendar year. Up to 70 % of the relevant costs of an investment may be supported using the free allocation, provided that the remaining costs are financed by private legal entities.
+
+4. Transitional free allocations shall be deducted from the quantity of allowances that the Member State would otherwise auction. The total free allocation shall be no more than 40 % of the allowances which the Member State concerned will receive, pursuant to Article 10(2)(a), in the period from 2021 to 2030, spread out in equal annual volumes over that period.
+
+5. Where a Member State, pursuant to Article 10d(4), uses allowances distributed for the purposes of solidarity, growth and interconnections within the Union in accordance with Article 10(2)(b), that Member State may, by way of derogation from paragraph 4 of this Article, use for transitional free allocation a total quantity of up to 60 % of the allowances received in the period from 2021 to 2030 pursuant to Article 10(2)(a), using a corresponding amount of the allowances distributed in accordance with Article 10(2)(b).
+
+Any allowances not allocated under this Article by 2020 may be allocated over the period from 2021 to 2030 to investments selected through the competitive bidding process referred to in paragraph 2, unless the Member State concerned informs the Commission by 30 September 2019 of its intention not to allocate some or all of those allowances over the period from 2021 to 2030, and of the amount of allowances to be auctioned instead in 2020. Where such allowances are allocated over the period from 2021 to 2030, a corresponding amount of allowances shall be taken into account for the application of the 60 % limit set out in the first subparagraph of this paragraph.
+
+6. Allocations to operators shall be made upon demonstration that an investment selected in accordance with the rules of the competitive bidding process has been carried out. Where an investment leads to additional electricity generation capacity, the operator concerned shall also demonstrate that a corresponding amount of electricity-generation capacity with higher emission intensity has been decommissioned by it or another associated operator by the start of operation of the additional capacity.
+
+7. Member States shall require benefiting electricity generators and network operators to report, by 28 February of each year, on the implementation of their selected investments, including the balance of free allocation and investment expenditure incurred and the types of investments supported. Member States shall report on this to the Commission, and the Commission shall make such reports public.
+
+### Article 10d. Modernisation Fund
+
+1. A fund to support investments proposed by the beneficiary Member States, including the financing of small-scale investment projects, to modernise energy systems and improve energy efficiency, in Member States with a GDP per capita at market prices below 60 % of the Union average in 2013 (the ‘ Modernisation Fund ’ ), shall be established for the period from 2021 to 2030. The Modernisation Fund shall be financed through the auctioning of allowances as set out in Article 10.
+
+The investments supported shall be consistent with the aims of this Directive, as well as the objectives of the Union's 2030 climate and energy policy framework and the long-term objectives as expressed in the Paris Agreement. No support from the Modernisation Fund shall be provided to energy generation facilities that use solid fossil fuels, other than efficient and sustainable district heating in Member States with a GDP per capita at market prices below 30 % of the Union average in 2013, provided that an amount of allowances of at least an equivalent value is used for investments under Article 10c that do not involve solid fossil fuels.
+
+2. At least 70 % of the financial resources from the Modernisation Fund shall be used to support investments in the generation and use of electricity from renewable sources, the improvement of energy efficiency, except energy efficiency relating to energy generation using solid fossil fuels, energy storage and the modernisation of energy networks, including district heating pipelines, grids for electricity transmission and the increase of interconnections between Member States, as well as to support a just transition in carbon-dependent regions in the beneficiary Member States, so as to support the redeployment, re-skilling and up-skilling of workers, education, job-seeking initiatives and start-ups, in dialogue with the social partners. Investments in energy efficiency in transport, buildings, agriculture and waste shall also be eligible.
+
+3. The Modernisation Fund shall operate under the responsibility of the beneficiary Member States. The EIB shall ensure that the allowances are auctioned in accordance with the principles and modalities laid down in Article 10(4), and shall be responsible for managing the revenues. The EIB shall pass on the revenues to the Member States upon a disbursement decision from the Commission, where this disbursement for investments is in line with paragraph 2 of this Article or, where the investments do not fall into the areas listed in paragraph 2 of this Article, is in line with the recommendations of the investment committee. The Commission shall adopt its decision in a timely manner. The revenues shall be distributed amongst the Member States and according to the shares set out in Annex IIb, in accordance with paragraphs 6 to 12 of this Article.
+
+4. Any Member State concerned may use the total free allocation granted pursuant to Article 10c(4), or part of that allocation, and the amount of allowances distributed for the purposes of solidarity, growth and interconnections within the Union in accordance with Article 10(2)(b), or part of that amount, in accordance with Article 10d, to support investments within the framework of the Modernisation Fund, thereby increasing the resources distributed to that Member State. By 30 September 2019 , the Member State concerned shall notify the Commission of the respective amounts of allowances to be used under Article 10(2)(b), Article 10c and Article 10d.
+
+5. An investment committee for the Modernisation Fund is hereby established. The investment committee shall be composed of a representative from each beneficiary Member State, the Commission and the EIB, and three representatives elected by the other Member States for a period of five years. It shall be chaired by the representative of the Commission. One representative of each Member State that is not a member of the investment committee may attend meetings of the committee as an observer.
+
+The investment committee shall operate in a transparent manner. The composition of the investment committee and the curricula vitae and declarations of interests of its members shall be made available to the public and, where necessary, updated.
+
+6. Before a beneficiary Member State decides to finance an investment from its share in the Modernisation Fund, it shall present the investment project to the investment committee and to the EIB. Where the EIB confirms that an investment falls into the areas listed in paragraph 2, the Member State may proceed to finance the investment project from its share.
+
+Where an investment in the modernisation of energy systems, which is proposed to be financed from the Modernisation Fund, does not fall into the areas listed in paragraph 2, the investment committee shall assess the technical and financial viability of that investment, including the emission reductions it achieves, and issue a recommendation on financing the investment from the Modernisation Fund. The investment committee shall ensure that any investment relating to district heating achieves a substantial improvement in energy efficiency and emission reductions. That recommendation may include suggestions regarding appropriate financing instruments. Up to 70 % of the relevant costs of an investment which does not fall into the areas listed in paragraph 2 may be supported with resources from the Modernisation Fund provided that the remaining costs are financed by private legal entities.
+
+7. The investment committee shall strive to adopt its recommendations by consensus. If the investment committee is not able to decide by consensus within a deadline set by the chairman, it shall take a decision by simple majority.
+
+If the representative of the EIB does not endorse financing an investment, a recommendation shall only be adopted if a majority of two-thirds of all members vote in favour. The representative of the Member State in which the investment is to take place and the representative of the EIB shall not be entitled to cast a vote in this case. This subparagraph shall not apply to small-scale projects funded through loans provided by a national promotional bank or through grants contributing to the implementation of a national programme serving specific objectives in line with the objectives of the Modernisation Fund, provided that not more than 10 % of the Member States' share set out in Annex IIb is used under the programme.
+
+8. Any acts or recommendations by the EIB or the investment committee made pursuant to paragraphs 6 and 7 shall be made in a timely manner and state the reasons on which they are based. Such acts and recommendations shall be made public.
+
+9. The beneficiary Member States shall be responsible for following up on the implementation with respect to selected projects.
+
+10. The beneficiary Member States shall report annually to the Commission on investments financed by the Modernisation Fund. The report shall be made public and include:
+
+- (a) information on the investments financed per beneficiary Member State;
+- (b) an assessment of the added value, in terms of energy efficiency or modernisation of the energy system, achieved through the investment.
+
+11. The investment committee shall report annually to the Commission on experience with the evaluation of investments. By 31 December 2024 , taking into consideration the findings of the investment committee, the Commission shall review the areas for projects referred to in paragraph 2 and the basis on which the investment committee bases its recommendations.
+
+12. The Commission shall adopt implementing acts concerning detailed rules on the operation of the Modernisation Fund. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22a(2).
+
+### Article 11. National implementation measures
+
+1. Each Member State shall publish and submit to the Commission, by 30 September 2011 , the list of installations covered by this Directive in its territory and any free allocation to each installation in its territory calculated in accordance with the rules referred to in Article 10a(1) and Article 10c.
+
+A list of installations covered by this Directive for the five years beginning on 1 January 2021 shall be submitted by 30 September 2019 , and lists for each subsequent period of five years shall be submitted every five years thereafter. Each list shall include information on production activity, transfers of heat and gases, electricity production and emissions at sub-installation level over the five calendar years preceding its submission. Free allocations shall only be given to installations where such information is provided.
+
+2. By 28 February of each year, the competent authorities shall issue the quantity of allowances that are to be allocated for that year, calculated in accordance with Articles 10, 10a and 10c.
+
+3. Member States may not issue allowances free of charge under paragraph 2 to installations whose inscription in the list referred to in paragraph 1 has been rejected by the Commission.
+
+## CHAPTER IV — PROVISIONS APPLYING TO AVIATION AND STATIONARY INSTALLATIONS
+
+### Article 11a. Use of CERs and ERUs from project activities in the EU ETS before the entry into force of an international agreement on climate change
+
+1. Without prejudice to the application of Article 28(3) and (4), paragraphs 2 to 7 of this Article shall apply.
+
+2. To the extent that the levels of CER and ERU use, allowed to operators or aircraft operators by Member States for the period from 2008 to 2012, have not been used up or an entitlement to use credits is granted under paragraph 8, operators may request the competent authority to issue allowances to them valid from 2013 onwards in exchange for CERs and ERUs issued in respect of emission reductions up until 2012 from project types which were eligible for use in the EU ETS during the period from 2008 to 2012.
+
+Until 31 March 2015 , the competent authority shall make such an exchange on request.
+
+3. To the extent that the levels of CER and ERU use, allowed to operators or aircraft operators by Member States for the period from 2008 to 2012, have not been used up or an entitlement to use credits is granted under paragraph 8, competent authorities shall allow operators to exchange CERs and ERUs from projects that were registered before 2013 issued in respect of emission reductions from 2013 onwards for allowances valid from 2013 onwards.
+
+The first subparagraph shall apply to CERs and ERUs for all project types which were eligible for use in the EU ETS during the period from 2008 to 2012.
+
+4. To the extent that the levels of CER and ERU use, allowed to operators or aircraft operators by Member States for the period from 2008 to 2012, have not been used up or an entitlement to use credits is granted under paragraph 8, competent authorities shall allow operators to exchange CERs issued in respect of emission reductions from 2013 onwards for allowances from new projects started from 2013 onwards in LDCs.
+
+The first subparagraph shall apply to CERs for all project types which were eligible for use in the EU ETS during the period from 2008 to 2012, until those countries have ratified a relevant agreement with the Union or until 2020, whichever is the earlier.
+
+5. To the extent that the levels of CER and ERU use, allowed to operators or aircraft operators by Member States for the period from 2008 to 2012, have not been used up or an entitlement to use credits is granted under paragraph 8 and in the event that the negotiations on an international agreement on climate change are not concluded by 31 December 2009 , credits from projects or other emission reducing activities may be used in the EU ETS in accordance with agreements concluded with third countries, specifying levels of use. In accordance with such agreements, operators shall be able to use credits from project activities in those third countries to comply with their obligations under the EU ETS .
+
+6. Any agreements referred to in paragraph 5 shall provide for the use of credits in the EU ETS from project types which were eligible for use in the EU ETS during the period from 2008 to 2012, including renewable energy or energy efficiency technologies which promote technological transfer and sustainable development. Any such agreement may also provide for the use of credits from projects where the baseline used is below the level of free allocation under the measures referred to in Article 10a or below the levels required by Union legislation.
+
+7. Once an international agreement on climate change has been reached, only credits from projects from third countries which have ratified that agreement shall be accepted in the EU ETS from 1 January 2013 .
+
+8.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 11b. Project activities
+
+1. Member States shall take all necessary measures to ensure that baselines for project activities, as defined by subsequent decisions adopted under the UNFCCC or the Kyoto Protocol, undertaken in countries having signed a Treaty of Accession with the Union fully comply with the *acquis communautaire* , including the temporary derogations set out in that Treaty of Accession.
+
+The Union and its Member States shall only authorise project activities where all project participants have headquarters either in a country that has concluded the international agreement relating to such projects or in a country or sub-federal or regional entity which is linked to the EU ETS pursuant to Article 25.
+
+2. Except as provided for in paragraphs 3 and 4, Member States hosting project activities shall ensure that no ERUs or CERs are issued for reductions or limitations of greenhouse gas emissions from activities falling within the scope of this Directive.
+
+3. Until 31 December 2012 , for JI and CDM project activities which reduce or limit directly the emissions of an installation falling within the scope of this Directive, ERUs and CERs may be issued only if an equal number of allowances is cancelled by the operator of that installation.
+
+4. Until 31 December 2012 , for JI and CDM project activities which reduce or limit indirectly the emission level of installations falling within the scope of this Directive, ERUs and CERs may be issued only if an equal number of allowances is cancelled from the national registry of the Member State of the ERUs’ or CERs’ origin.
+
+5. A Member State that authorises private or public entities to participate in project activities shall remain responsible for the fulfilment of its obligations under the UNFCCC and the Kyoto Protocol and shall ensure that such participation is consistent with the relevant guidelines, modalities and procedures adopted pursuant to the UNFCCC or the Kyoto Protocol.
+
+6. In the case of hydroelectric power production project activities with a generating capacity exceeding 20 MW, Member States shall, when approving such project activities, ensure that relevant international criteria and guidelines, including those contained in the World Commission on Dams November 2000 Report ‘ Dams and Development — A New Framework for Decision-Making ’ , will be respected during the development of such project activities.
+
+7.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 12. Transfer, surrender and cancellation of allowances
+
+1. Member States shall ensure that allowances can be transferred between:
+
+- (a) persons within the Union;
+- (b) persons within the Union and persons in third countries, where such allowances are recognised in accordance with the procedure referred to in Article 25 without restrictions other than those contained in, or adopted pursuant to, this Directive.
+
+1a. The Commission shall, by 31 December 2010 , examine whether the market for emissions allowances is sufficiently protected from insider dealing or market manipulation and, if appropriate, shall bring forward proposals to ensure such protection. The relevant provisions of Directive 2003/6/EC of the European Parliament and of the Council of 28 January 2003 on insider dealing and market manipulation (market abuse) [^f00019] may be used with any appropriate adjustments needed to apply them to trade in commodities.
+
+2. Member States shall ensure that allowances issued by a competent authority of another Member State are recognised for the purpose of meeting an aircraft operator’s obligations under paragraph 2a or of meeting an operator's obligations under paragraph 3.
+
+2a. Administering Member States shall ensure that, by 30 April each year, each aircraft operator surrenders a number of allowances equal to the total emissions during the preceding calendar year from aviation activities listed in Annex I for which it is the aircraft operator, as verified in accordance with Article 15. Member States shall ensure that allowances surrendered in accordance with this paragraph are subsequently cancelled.
+
+3. For the period until 31 December 2020 , Member States shall ensure that, by 30 April each year, the operator of each installation surrenders a number of allowances, other than allowances issued under Chapter II, that is equal to the total emissions from that installation during the preceding calendar year as verified in accordance with Article 15, and that those allowances are subsequently cancelled. For the period starting from 1 January 2021 , Member States shall ensure that, by 30 April each year, the operator of each installation surrenders a number of allowances, that is equal to the total emissions from that installation during the preceding calendar year as verified in accordance with Article 15, and that those allowances are subsequently cancelled, subject to the review referred to in Article 28b.
+
+3-a. Where necessary, and for as long as is necessary, in order to protect the environmental integrity of the EU ETS, aircraft operators and other operators in the EU ETS shall be prohibited from using allowances that are issued by a Member State in respect of which there are obligations lapsing for aircraft operators and other operators. The legal act referred to in Article 19 shall include the measures necessary in the cases referred to in this paragraph.
+
+3a. An obligation to surrender allowances shall not arise in respect of emissions verified as captured and transported for permanent storage to a facility for which a permit is in force in accordance with Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide [^f00020] .
+
+4. Member States shall take the necessary steps to ensure that allowances will be cancelled at any time at the request of the person holding them. In the event of closure of electricity generation capacity in their territory due to additional national measures, Member States may cancel allowances from the total quantity of allowances to be auctioned by them referred to in Article 10(2) up to an amount corresponding to the average verified emissions of the installation concerned over a period of five years preceding the closure. The Member State concerned shall inform the Commission of such intended cancellation in accordance with the delegated acts adopted pursuant to Article 10(4).
+
+5. Paragraphs 1 and 2 apply without prejudice to Article 10c.
+
+### Article 13. Validity of allowances
+
+Allowances issued from 1 January 2013 onwards shall be valid indefinitely. Allowances issued from 1 January 2021 onwards shall include an indication showing in which ten-year period beginning from 1 January 2021 they were issued, and be valid for emissions from the first year of that period onwards.
+
+### Article 14. Monitoring and reporting of emissions
+
+1. The Commission shall adopt implementing acts concerning the detailed arrangements for the monitoring and reporting of emissions and, where relevant, activity data, from the activities listed in Annex I, for the monitoring and reporting of tonne-kilometre data for the purpose of an application under Article 3e or 3f, which shall be based on the principles for monitoring and reporting set out in Annex IV and the requirements set out in paragraph 2 of this Article. Those implementing acts shall also specify the global warming potential of each greenhouse gas in the requirements for monitoring and reporting emissions for that gas.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22a(2).
+
+2. The acts referred to in paragraph 1 shall take into account the most accurate and up-to-date scientific evidence available, in particular from the IPCC, and may also specify requirements for operators to report on emissions associated with the production of goods produced by energy intensive industries which may be subject to international competition. These acts may also specify requirements for this information to be verified independently.
+
+Those requirements may include reporting on levels of emissions from electricity generation covered by the EU ETS associated with the production of such goods.
+
+3. Member States shall ensure that each operator of an installation or an aircraft operator monitors and reports the emissions from that installation during each calendar year, or, from 1 January 2010 , the aircraft which it operates, to the competent authority after the end of that year in accordance with the acts referred to in paragraph 1.
+
+4. The acts referred to in paragraph 1 may include requirements on the use of automated systems and data exchange formats to harmonise communication on the monitoring plan, the annual emission report and the verification activities between the operator, the verifier and competent authorities.
+
+### Article 15. Verification and accreditation
+
+Member States shall ensure that the reports submitted by operators and aircraft operators pursuant to Article 14(3) are verified in accordance with the criteria set out in Annex V and any detailed provisions adopted by the Commission in accordance with this Article, and that the competent authority is informed thereof.
+
+Member States shall ensure that an operator or aircraft operator whose report has not been verified as satisfactory in accordance with the criteria set out in Annex V and any detailed provisions adopted by the Commission in accordance with this Article by 31 March each year for emissions during the preceding year cannot make further transfers of allowances until a report from that operator or aircraft operator has been verified as satisfactory.
+
+The Commission shall adopt implementing acts concerning the verification of emission reports based on the principles set out in Annex V and for the accreditation and supervision of verifiers. The Commission may also adopt implementing acts for the verification of reports submitted by aircraft operators pursuant to Article 14(3) and applications under Articles 3e and 3f, including the verification procedures to be used by verifiers. It shall specify conditions for the accreditation and withdrawal of accreditation, for mutual recognition and peer evaluation of accreditation bodies, as appropriate.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22a(2).
+
+### Article 15a. Disclosure of information and professional secrecy
+
+Member States and the Commission shall ensure that all decisions and reports relating to the quantity and allocation of allowances and to the monitoring, reporting and verification of emissions are immediately disclosed in an orderly manner ensuring non-discriminatory access.
+
+Information covered by professional secrecy may not be disclosed to any other person or authority except by virtue of the applicable laws, regulations or administrative provisions.
+
+### Article 16. Penalties
+
+1. Member States shall lay down the rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that such rules are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall notify these provisions to the Commission by *(affected by repeal, see note)*[^c000015] 31 December 2003 *(affected by repeal, see note)*[^c000015] at the latest, *(affected by repeal, see note)*[^c000015] and shall notify it without delay of any subsequent amendment affecting them.
+
+2. Member States shall ensure publication of the names of operators and aircraft operators who are in breach of requirements to surrender sufficient allowances under this Directive.
+
+3. Member States shall ensure that any operator or aircraft operator who does not surrender sufficient allowances by 30 April of each year to cover its emissions during the preceding year shall be held liable for the payment of an excess emissions penalty. The excess emissions penalty shall be EUR 100 for each tonne of carbon dioxide equivalent emitted for which the operator or aircraft operator has not surrendered allowances. Payment of the excess emissions penalty shall not release the operator or aircraft operator from the obligation to surrender an amount of allowances equal to those excess emissions when surrendering allowances in relation to the following calendar year.
+
+4. The excess emissions penalty relating to allowances issued from 1 January 2013 onwards shall increase in accordance with the European index of consumer prices.
+
+5. In the event that an aircraft operator fails to comply with the requirements of this Directive and where other enforcement measures have failed to ensure compliance, its administering Member State may request the Commission to decide on the imposition of an operating ban on the aircraft operator concerned.
+
+6. Any request by an administering Member State under paragraph 5 shall include:
+
+- (a) evidence that the aircraft operator has not complied with its obligations under this Directive;
+- (b) details of the enforcement action which has been taken by that Member State;
+- (c) a justification for the imposition of an operating ban at Union level; and
+- (d) a recommendation for the scope of an operating ban at Union level and any conditions that should be applied.
+
+7. When requests such as those referred to in paragraph 5 are addressed to the Commission, the Commission shall inform the other Member States through their representatives on the Committee referred to in Article 23(1) in accordance with the Committee’s Rules of Procedure.
+
+8. The adoption of a decision following a request pursuant to paragraph 5 shall be preceded, when appropriate and practicable, by consultations with the authorities responsible for regulatory oversight of the aircraft operator concerned. Whenever possible, consultations shall be held jointly by the Commission and the Member States.
+
+9. When the Commission is considering whether to adopt a decision following a request pursuant to paragraph 5, it shall disclose to the aircraft operator concerned the essential facts and considerations which form the basis for such decision. The aircraft operator concerned shall be given an opportunity to submit written comments to the Commission within 10 working days from the date of disclosure.
+
+10. At the request of a Member State, the Commission may, in accordance with the examination procedure referred to in Article 22a(2) , adopt a decision to impose an operating ban on the aircraft operator concerned.
+
+11. Each Member State shall enforce, within its territory, any decisions adopted under paragraph 10. It shall inform the Commission of any measures taken to implement such decisions.
+
+12. The Commission shall adopt implementing acts concerning detailed rules in respect of the procedures referred to in this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22a(2).
+
+### Article 17. Access to information
+
+Decisions relating to the allocation of allowances, information on project activities in which a Member State participates or authorises private or public entities to participate, and the reports of emissions required under the greenhouse gas emissions permit and held by the competent authority, shall be made available to the public in accordance with Directive 2003/4/EC.
+
+### Article 18. Competent authority
+
+Member States shall make the appropriate administrative arrangements, including the designation of the appropriate competent authority or authorities, for the implementation of the rules of this Directive. Where more than one competent authority is designated, the work of these authorities undertaken pursuant to this Directive must be coordinated.
+
+Member States shall in particular ensure coordination between their designated focal point for approving project activities pursuant to Article 6 (1)(a) of the Kyoto Protocol and their designated national authority for the implementation of Article 12 of the Kyoto Protocol respectively designated in accordance with subsequent decisions adopted under the UNFCCC or the Kyoto Protocol.
+
+### Article 18a. Administering Member State
+
+1. The administering Member State in respect of an aircraft operator shall be:
+
+- (a) in the case of an aircraft operator with a valid operating licence granted by a Member State in accordance with the provisions of Council Regulation (EEC) No 2407/92 of 23 July 1992 on licensing of air carriers [^f00021] , the Member State which granted the operating licence in respect of that aircraft operator; and
+- (b) in all other cases, the Member State with the greatest estimated attributed aviation emissions from flights performed by that aircraft operator in the base year.
+
+2. Where in the first two years of any period referred to in Article 3c, none of the attributed aviation emissions from flights performed by an aircraft operator falling within paragraph 1(b) of this Article are attributed to its administering Member State, the aircraft operator shall be transferred to another administering Member State in respect of the next period. The new administering Member State shall be the Member State with the greatest estimated attributed aviation emissions from flights performed by that aircraft operator during the first two years of the previous period.
+
+3. Based on the best available information, the Commission shall:
+
+- (a) before 1 February 2009 , publish a list of aircraft operators which performed an aviation activity listed in Annex I on or after 1 January 2006 specifying the administering Member State for each aircraft operator in accordance with paragraph 1; and
+- (b) before 1 February of each subsequent year, update the list to include aircraft operators which have subsequently performed an aviation activity listed in Annex I.
+
+4. The Commission may, in accordance with the examination procedure referred to in Article 22a(2) , develop guidelines relating to the administration of aircraft operators under this Directive by administering Member States.
+
+5. For the purposes of paragraph 1, ‘base year’ means, in relation to an aircraft operator which started operating in the Union after 1 January 2006 , the first calendar year of operation, and in all other cases, the calendar year starting on 1 January 2006 .
+
+### Article 18b. Assistance from Eurocontrol
+
+For the purposes of carrying out its obligations under Articles 3c(4) and 18a, the Commission may request the assistance of Eurocontrol or another relevant organisation and may conclude to that effect any appropriate agreements with those organisations.
+
+### Article 19. Registries
+
+1. Allowances issued from 1 January 2012 onwards shall be held in the Union registry for the execution of processes pertaining to the maintenance of the holding accounts opened in the Member State and the allocation, surrender and cancellation of allowances under the Commission Acts referred to in paragraph 3.
+
+Each Member State shall be able to fulfil the execution of authorised operations under the UNFCCC or the Kyoto Protocol.
+
+2. Any person may hold allowances. The registry shall be accessible to the public and shall contain separate accounts to record the allowances held by each person to whom and from whom allowances are issued or transferred.
+
+3. The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Directive by laying down all necessary requirements concerning the Union Registry for the trading period commencing on 1 January 2013 and subsequent periods, in the form of standardised electronic databases containing common data elements to track the issue, holding, transfer and cancellation, as applicable, of allowances, and to provide for public access and confidentiality, as appropriate. Those delegated acts shall also include provisions to put into effect rules on the mutual recognition of allowances in agreements to link emission trading systems.
+
+4. The Acts referred to in paragraph 3 shall contain appropriate modalities for the Union registry to undertake transactions and other operations to implement arrangements referred to in Article 25(1b). These Acts shall also include processes for the change and incident management for the Union registry with regard to issues in paragraph 1 of this Article. It shall contain appropriate modalities for the Union registry to ensure that initiatives of the Member States pertaining to efficiency improvement, administrative cost management and quality control measures are possible.
+
+### Article 20. Central Administrator
+
+1. The Commission shall designate a Central Administrator to maintain an independent transaction log recording the issue, transfer and cancellation of allowances.
+
+2. The Central Administrator shall conduct an automated check on each transaction in registries through the independent transaction log to ensure there are no irregularities in the issue, transfer and cancellation of allowances.
+
+3. If irregularities are identified through the automated check, the Central Administrator shall inform the Member State or Member States concerned who shall not register the transactions in question or any further transactions relating to the allowances concerned until the irregularities have been resolved.
+
+### Article 21. Reporting by Member States
+
+1. Each year the Member States shall submit to the Commission a report on the application of this Directive. That report shall pay particular attention to the arrangements for the allocation of allowances, the operation of registries, the application of the implementing measures on monitoring and reporting, verification and accreditation and issues relating to compliance with this Directive and on the fiscal treatment of allowances, if any. The first report shall be sent to the Commission by 30 June 2005. The report shall be drawn up on the basis of a questionnaire or outline adopted by the Commission in the form of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22a(2). The questionnaire or outline shall be sent to Member States at least six months before the deadline for the submission of the first report.
+
+2. On the basis of the reports referred to in paragraph 1, the Commission shall publish a report on the application of this Directive within three months of receiving the reports from the Member States.
+
+3. The Commission shall organise an exchange of information between the competent authorities of the Member States concerning developments relating to issues of allocation, the use of ERUs and CERs in the EU ETS , the operation of registries, monitoring, reporting, verification, accreditation, information technology, and compliance with this Directive.
+
+4. Every three years, the report referred to in paragraph 1 shall also pay particular attention to the equivalent measures adopted for small installations excluded from the EU ETS. The issue of equivalent measures adopted for small installations shall also be considered in the exchange of information referred to in paragraph 3.
+
+### Article 21a. Support of capacity-building activities
+
+In accordance with the UNFCCC, the Kyoto Protocol and any subsequent decision adopted for their implementation, the Commission and the Member States shall endeavour to support capacity-building activities in developing countries and countries with economies in transition in order to help them take full advantage of JI and the CDM in a manner that supports their sustainable development strategies and to facilitate the engagement of entities in JI and CDM project development and implementation.
+
+### Article 22. Amendments to the Annexes
+
+The Commission is empowered to adopt delegated acts in accordance with Article 23 to amend, where appropriate, the Annexes to this Directive, with the exception of Annexes I, IIa and IIb, in the light of the reports provided for in Article 21 and of the experience of the application of this Directive. Annexes IV and V may be amended in order to improve the monitoring, reporting and verification of emissions.
+
+### Article 22a. Committee procedure
+
+1. The Commission shall be assisted by the Climate Change Committee established by Article 26 of Regulation (EU) No 525/2013 of the European Parliament and of the Council [^f00022] . That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council [^f00023] .
+
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+### Article 23. Exercise of the delegation
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Articles 3d(3), 10(4), 10a(1) and (8), 10b(5), 19(3), Article 22, Articles 24(3), 24a(1), 25a(1) and Article 28c shall be conferred on the Commission for an indeterminate period of time from 8 April 2018 .
+
+3. The delegation of power referred to in Articles 3d(3), 10(4), 10a(1) and (8), 10b(5), 19(3), Article 22, Articles 24(3), 24a(1), 25a(1) and Article 28c may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making [^f00024] .
+
+5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6. A delegated act adopted pursuant to Articles 3d(3), 10(4), 10a(1) and (8), 10b(5), 19(3), Article 22, Articles 24(3), 24a(1), 25a(1) and Article 28c shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 24. Procedures for unilateral inclusion of additional activities and gases
+
+1. From 2008, Member States may apply emission allowance trading in accordance with this Directive to activities and to greenhouse gases which are not listed in Annex I, taking into account all relevant criteria, in particular the effects on the internal market, potential distortions of competition, the environmental integrity of the EU ETS and the reliability of the planned monitoring and reporting system, provided that the inclusion of such activities and greenhouse gases is approved by the Commission, in accordance with delegated acts which the Commission is empowered to adopt in accordance with Article 23.
+
+2. When the inclusion of additional activities and gases is approved, the Commission may at the same time authorise the issue of additional allowances and may authorise other Member States to include such additional activities and gases.
+
+3. On the initiative of the Commission or at the request of a Member State, these acts may be adopted on the monitoring of, and reporting on, emissions concerning activities, installations and greenhouse gases which are not listed as a combination in Annex I, if that monitoring and reporting can be carried out with sufficient accuracy.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Directive to this effect.
+
+### Article 24a. Harmonised rules for projects that reduce emissions
+
+1. In addition to the inclusions provided for in Article 24, the Commission may adopt measures for issuing allowances or credits in respect of projects administered by Member States that reduce greenhouse gas emissions not covered by the EU ETS.
+
+Such measures shall be consistent with acts adopted pursuant to former Article 11b(7) as in force before 8 April 2018 . The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Directive by setting out the procedure to be followed.
+
+Any such measures shall not result in the double-counting of emission reductions nor impede the undertaking of other policy measures to reduce emissions not covered by the EU ETS . Measures shall only be adopted where inclusion is not possible in accordance with Article 24, and the next review of the EU ETS shall consider harmonising the coverage of those emissions across the Union .
+
+2.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3. A Member State can refuse to issue allowances or credits in respect of certain types of projects that reduce greenhouse gas emissions on its own territory.
+
+Such projects will be executed on the basis of the agreement of the Member State in which the project takes place.
+
+### Article 25. Links with other greenhouse gas emissions trading systems
+
+1. Agreements should be concluded with third countries listed in Annex B to the Kyoto Protocol which have ratified the Protocol to provide for the mutual recognition of allowances between the EU ETS and other greenhouse gas emissions trading systems in accordance with the rules set out in Article 300 of the Treaty.
+
+1a. Agreements may be made to provide for the recognition of allowances between the EU ETS and compatible mandatory greenhouse gas emissions trading systems with absolute emissions caps established in any other country or in sub-federal or regional entities.
+
+1b. Non-binding arrangements may be made with third countries or with sub-federal or regional entities to provide for administrative and technical coordination in relation to allowances in the EU ETS or other mandatory greenhouse gas emissions trading systems with absolute emissions caps.
+
+2.[^c000010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 25a. Third country measures to reduce the climate change impact of aviation
+
+1. Where a third country adopts measures for reducing the climate change impact of flights departing from that third country which land in the Union, the Commission, after consulting with that third country, and with Member States within the Committee referred to in Article 22a(1), shall consider options available in order to provide for optimal interaction between the EU ETS and that country's measures.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 23 to amend Annex I to this Directive to provide for flights arriving from the third country concerned to be excluded from the aviation activities listed in Annex I or to provide for any other amendments to the aviation activities listed in Annex I, except in relation to scope, which are required by an agreement concluded pursuant to Article 218 of the Treaty on the Functioning of the European Union.
+
+The Commission may propose to the European Parliament and the Council any other amendments to this Directive.
+
+The Commission may also, where appropriate, make recommendations to the Council in accordance with Article 300(1) of the Treaty to open negotiations with a view to concluding an agreement with the third country concerned.
+
+2. The Union and its Member States shall continue to seek an agreement on global measures to reduce greenhouse gas emissions from aviation. In the light of any such agreement, the Commission shall consider whether amendments to this Directive as it applies to aircraft operators are necessary.
+
+### Article 26. Amendment of Directive 96/61/EC
+
+In Article 9(3) of Directive 96/61/EC the following subparagraphs shall be added:
+
+> Where emissions of a greenhouse gas from an installation are specified in Annex I to Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC[^f00025] in relation to an activity carried out in that installation, the permit shall not include an emission limit value for direct emissions of that gas unless it is necessary to ensure that no significant local pollution is caused.
+>
+> For activities listed in Annex I to Directive 2003/87/EC, Member States may choose not to impose requirements relating to energy efficiency in respect of combustion units or other units emitting carbon dioxide on the site.
+>
+> Where necessary, the competent authorities shall amend the permit as appropriate.
+>
+> The three preceding subparagraphs shall not apply to installations temporarily excluded from the scheme for greenhouse gas emission allowance trading within the Community in accordance with Article 27 of Directive 2003/87/EC.
+
+### Article 27. Exclusion of small installations subject to equivalent measures
+
+1. Following consultation with the operator, Member States may exclude from the EU ETS installations which have reported to the competent authority emissions of less than 25 000 tonnes of carbon dioxide equivalent and, where they carry out combustion activities, have a rated thermal input below 35 MW, excluding emissions from biomass, in each of the three years preceding the notification under point (a), and which are subject to measures that will achieve an equivalent contribution to emission reductions, if the Member State concerned complies with the following conditions:
+
+- (a) it notifies the Commission of each such installation, specifying the equivalent measures applying to that installation that will achieve an equivalent contribution to emission reductions that are in place, before the list of installations pursuant to Article 11(1) has to be submitted and at the latest when this list is submitted to the Commission;
+- (b) it confirms that monitoring arrangements are in place to assess whether any installation emits 25 000 tonnes or more of carbon dioxide equivalent, excluding emissions from biomass, in any one calendar year. Member States may allow simplified monitoring, reporting and verification measures for installations with average annual verified emissions between 2008 and 2010 which are below 5 000 tonnes a year, in accordance with Article 14;
+- (c) it confirms that if any installation emits 25 000 tonnes or more of carbon dioxide equivalent, excluding emissions from biomass, in any one calendar year or the measures applying to that installation that will achieve an equivalent contribution to emission reductions are no longer in place, the installation will be reintroduced into the EU ETS ;
+- (d) it publishes the information referred to in points (a), (b) and (c) for public comment.
+
+Hospitals may also be excluded if they undertake equivalent measures.
+
+2. If, following a period of three months from the date of notification for public comment, the Commission does not object within a further period of six months, the exclusion shall be deemed approved.
+
+Following the surrender of allowances in respect of the period during which the installation is in the EU ETS , the installation shall be excluded and the Member State shall no longer issue free allowances to the installation pursuant to Article 10a.
+
+3. When an installation is reintroduced into the EU ETS pursuant to paragraph 1(c), any allowances issued pursuant to Article 10a shall be granted starting with the year of the reintroduction. Allowances issued to these installations shall be deducted from the quantity to be auctioned pursuant to Article 10(2) by the Member State in which the installation is situated.
+
+Any such installation shall stay in the EU ETS for the rest of the period referred to in Article 11(1) during which it was reintroduced.
+
+4. For installations which have not been included in the EU ETS during the period from 2008 to 2012, simplified requirements for monitoring, reporting and verification may be applied for determining emissions in the three years preceding the notification under paragraph 1 point (a).
+
+### Article 27a. Optional exclusion of installations emitting less than 2 500  tonnes
+
+1. Member States may exclude from the EU ETS installations that have reported to the competent authority of the Member State concerned emissions of less than 2 500  tonnes of carbon dioxide equivalent, disregarding emissions from biomass, in each of the three years preceding the notification under point (a), provided that the Member State concerned:
+
+- (a) notifies the Commission of each such installation before the list of installations pursuant to Article 11(1) is to be submitted or at the latest when that list is submitted to the Commission;
+- (b) confirms that simplified monitoring arrangements are in place to assess whether any installation emits 2 500  tonnes or more of carbon dioxide equivalent, disregarding emissions from biomass, in any one calendar year;
+- (c) confirms that if any installation emits 2 500 tonnes or more of carbon dioxide equivalent, disregarding emissions from biomass, in any one calendar year, the installation will be reintroduced into the EU ETS; and
+- (d) makes the information referred to in points (a), (b) and (c) available to the public.
+
+2. When an installation is reintroduced into the EU ETS pursuant to point (c) of paragraph 1 of this Article, any allowances allocated pursuant to Article 10a shall be granted starting from the year of the reintroduction. Allowances allocated to such an installation shall be deducted from the quantity to be auctioned pursuant to Article 10(2) by the Member State in which the installation is situated.
+
+3. Member States may also exclude from the EU ETS reserve or backup units which did not operate more than 300 hours per year in each of the three years preceding the notification under point (a) of paragraph 1, under the same conditions as set out in paragraphs 1 and 2.
+
+### Article 28. Adjustments applicable upon the approval by the Union of an international agreement on climate change
+
+1. Within three months of the signature by the Union of an international agreement on climate change leading, by 2020, to mandatory reductions of greenhouse gas emissions exceeding 20 % compared to 1990 levels, as reflected in the 30 % reduction commitment as endorsed by the European Council of March 2007, the Commission shall submit a report assessing, in particular, the following elements:
+
+- (a) the nature of the measures agreed upon in the framework of the international negotiations as well as the commitments made by other developed countries to comparable emission reductions to those of the Union and the commitments made by economically more advanced developing countries to contributing adequately according to their responsibilities and respective capabilities;
+- (b) the implications of the international agreement on climate change, and consequently, options required at Union level, in order to move to the more ambitious 30 % reduction target in a balanced, transparent and equitable way, taking into account work under the Kyoto Protocol's first commitment period;
+- (c) the Union manufacturing industries' competitiveness in the context of carbon leakage risks;
+- (d) the impact of the international agreement on climate change on other Union economic sectors;
+- (e) the impact on the Union agriculture sector, including carbon leakage risks;
+- (f) the appropriate modalities for including emissions and removals related to land use, land use change and forestry in the Union ;
+- (g) afforestation, reforestation, avoided deforestation and forest degradation in third countries in the event of the establishment of any internationally recognised system in this context;
+- (h) the need for additional Union policies and measures in view of the greenhouse gas reduction commitments of the Union' and of Member States.
+
+2. On the basis of the report referred to in paragraph 1, the Commission shall, as appropriate, submit a legislative proposal to the European Parliament and to the Council amending this Directive pursuant to paragraph 1, with a view to the amending Directive entering into force upon the approval by the Union of the international agreement on climate change and in view of the emission reduction commitment to be implemented under that agreement.
+
+The proposal shall be based upon the principles of transparency, economic efficiency and cost-effectiveness, as well as fairness and solidarity in the distribution of efforts between Member States.
+
+3. The proposal shall allow, as appropriate, operators to use, in addition to the credits provided for in this Directive, CERs, ERUs or other approved credits from third countries which have ratified the international agreement on climate change.
+
+4. The proposal shall also include, as appropriate, any other measures needed to help reach the mandatory reductions in accordance with paragraph 1 in a transparent, balanced and equitable way and, in particular, shall include implementing measures to provide for the use of additional types of project credits by operators in the EU ETS to those referred to in paragraphs 2 to 5 of Article 11a or the use by such operators of other mechanisms created under the international agreement on climate change, as appropriate.
+
+5. The proposal shall include the appropriate transitional and suspensive measures pending the entry into force of the international agreement on climate change.
+
+### Article 28a. Derogations applicable in advance of the implementation of the ICAO's global market-based measure[^c000017][^c000016]
+
+1. By way of derogation from Articles 12(2a), 14(3) and Article 16, Member States shall consider the requirements set out in those provisions to be satisfied and shall take no action against aircraft operators in respect of:
+
+- (a) all emissions from flights to and from aerodromes located in countries outside the EEA in each calendar year from 1 January 2013 to 31 December 2023 , subject to the review referred to in Article 28b;
+- (b) all emissions from flights between an aerodrome located in an outermost region within the meaning of Article 349 of the Treaty on the Functioning of the European Union and an aerodrome located in another region of the EEA in each calendar year from 1 January 2013 to 31 December 2023 , subject to the review referred to in Article 28b.
+- (c)[^c000018] the surrender of allowances, corresponding to verified 2013 emissions from flights between aerodromes located in States in the EEA, taking place by *(affected by repeal, see note)*[^c000018] 30 April 2015 *(affected by repeal, see note)*[^c000018] instead of *(affected by repeal, see note)*[^c000018] 30 April 2014 *(affected by repeal, see note)*[^c000018] , and verified 2013 emissions for those flights being reported by *(affected by repeal, see note)*[^c000018] 31 March 2015 *(affected by repeal, see note)*[^c000018] instead of *(affected by repeal, see note)*[^c000018] 31 March 2014 *(affected by repeal, see note)*[^c000018] .
+
+For the purposes of Articles 11a, 12 and 14, the verified emissions from flights other than those referred to in the first subparagraph shall be considered to be the verified emissions of the aircraft operator.
+
+2. By way of derogation from Articles 3e and 3f, aircraft operators benefiting from the derogations provided for in points (a) and (b) of paragraph 1 of this Article shall be issued, each year, with a number of free allowances reduced in proportion to the reduction of the surrender obligation provided for in those points.
+
+By way of derogation from Article 3f(8), allowances that are not allocated from the special reserve shall be cancelled.
+
+From 1 January 2021 , the number of allowances allocated to aircraft operators shall be subject to the application of the linear factor referred to in Article 9, subject to the review referred to in Article 28b.
+
+As regards activity in the period from 1 January 2017 to 31 December 2023 , Member States shall, before 1 September 2018 , publish the number of aviation allowances allocated to each aircraft operator.
+
+3. By way of derogation from Article 3d, Member States shall auction a number of aviation allowances reduced in proportion to the reduction in the total number of allowances issued.
+
+4. By way of derogation from Article 3d(3), the number of allowances to be auctioned by each Member State in respect of the period from 1 January 2013 to 31 December 2023 shall be reduced to correspond to its share of attributed aviation emissions from flights which are not subject to the derogations provided for in points (a) and (b) of paragraph 1 of this Article.
+
+5. By way of derogation from Article 3g, aircraft operators shall not be required to submit monitoring plans setting out measures to monitor and report emissions in respect of flights which are subject to the derogations provided for in points (a) and (b) of paragraph 1 of this Article.
+
+6. By way of derogation from Articles 3g, 12, 15 and 18a, where an aircraft operator has total annual emissions lower than 25 000 tonnes of CO <sub> 2 </sub> , or where an aircraft operator has total annual emissions lower than 3 000 tonnes of CO <sub> 2 </sub> from flights other than those referred to in points (a) and (b) of paragraph 1 of this Article, its emissions shall be considered to be verified emissions if determined by using the small emitters tool approved under Commission Regulation (EU) No 606/2010 [^f00026] and populated by Eurocontrol with data from its ETS support facility. Member States may implement simplified procedures for non-commercial aircraft operators as long as such procedures provide no less accuracy than the small emitters tool provides.
+
+7. Paragraph 1 of this Article shall apply to countries with whom an agreement pursuant to Article 25 or 25a has been reached only in line with the terms of such agreement.
+
+8.[^c000018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 28b. Reporting and review by the Commission concerning the implementation of the ICAO's global market-based measure
+
+1. Before 1 January 2019 and regularly thereafter, the Commission shall report to the European Parliament and to the Council on progress in the ICAO negotiations to implement the global market-based measure to be applied to emissions from 2021, in particular with regard to: (i) the relevant ICAO instruments, including Standards and Recommended Practices; (ii) ICAO Council-approved recommendations relevant to the global market-based measure; (iii) the establishment of a global registry; (iv) domestic measures taken by third countries to implement the global market-based measure to be applied to emissions from 2021; (v) the implications of reservations by third countries; and (vi) other relevant international developments and applicable instruments.
+
+In line with the UNFCCC's global stocktake, the Commission shall also report on efforts to meet the aviation sector's aspirational long-term emissions reduction goal of halving aviation CO <sub> 2 </sub> emissions relative to 2005 levels by 2050.
+
+2. Within 12 months of the adoption by the ICAO of the relevant instruments, and before the global market-based measure becomes operational, the Commission shall present a report to the European Parliament and to the Council in which it shall consider ways for those instruments to be implemented in Union law through a revision of this Directive. The Commission shall, in that report, also consider the rules applicable in respect of flights within the EEA, as appropriate. It shall also examine the ambition and overall environmental integrity of the global market-based measure, including its general ambition in relation to targets under the Paris Agreement, the level of participation, its enforceability, transparency, the penalties for non-compliance, the processes for public input, the quality of offset credits, monitoring, reporting and verification of emissions, registries, accountability as well as rules on the use of biofuels. In addition, the report shall consider whether the provisions adopted under Article 28c(2) need to be revised.
+
+3. The Commission shall accompany the report referred to in paragraph 2 of this Article with a proposal, where appropriate, to the European Parliament and to the Council to amend, delete, extend or replace the derogations provided for in Article 28a, that is consistent with the Union economy-wide greenhouse gas emission reduction commitment for 2030 with the aim of preserving the environmental integrity and effectiveness of Union climate action.
+
+### Article 28c. Provisions for monitoring, reporting and verification for the purpose of the global market-based measure
+
+The Commission is empowered to adopt delegated acts in accordance with Article 23 to supplement this Directive concerning the appropriate monitoring, reporting and verification of emissions for the purpose of implementing the ICAO's global market-based measure on all routes covered by it. Those delegated acts shall be based on the relevant instruments adopted in the ICAO, shall avoid any distortion of competition and be consistent with the principles contained in the acts referred to in Article 14(1), and shall ensure that the emissions reports submitted are verified in accordance with the verification principles and criteria laid down in Article 15.
+
+### Article 29. Report to ensure the better functioning of the carbon market
+
+If, on the basis of the regular reports on the carbon market referred to in Article 10(5), the Commission has evidence that the carbon market is not functioning properly, it shall submit a report to the European Parliament and to the Council. The report may be accompanied, if appropriate, by proposals aiming at increasing transparency of the carbon market and addressing measures to improve its functioning.
+
+### Article 29a. Measures in the event of excessive price fluctuations
+
+1. If, for more than six consecutive months, the allowance price is more than three times the average price of allowances during the two preceding years on the European carbon market, the Commission shall immediately convene a meeting of the Committee established by Article 9 of Decision No 280/2004/EC.
+
+2. If the price evolution referred to in paragraph 1 does not correspond to changing market fundamentals, one of the following measures may be adopted, taking into account the degree of price evolution:
+
+- (a) a measure which allows Member States to bring forward the auctioning of a part of the quantity to be auctioned;
+- (b) a measure which allows Member States to auction up to 25 % of the remaining allowances in the new entrants reserve.
+
+Those measures shall be adopted in accordance with the management procedure referred to in Article 23(4).
+
+3. Any measure shall take utmost account of the reports submitted by the Commission to the European Parliament and to the Council pursuant to Article 29, as well as any other relevant information provided by Member States.
+
+4. The arrangements for the application of these provisions shall be laid down in the acts referred to in Article 10(4).
+
+### Article 30. Review in the light of the implementation of the Paris Agreement and the development of carbon markets in other major economies
+
+1. This Directive shall be kept under review in the light of international developments and efforts undertaken to achieve the long-term objectives of the Paris Agreement.
+
+2. The measures to support certain energy-intensive industries that may be subject to carbon leakage referred to in Articles 10a and 10b shall also be kept under review in the light of climate policy measures in other major economies. In this context, the Commission shall also consider whether measures in relation to the compensation of indirect costs should be further harmonised.
+
+3. The Commission shall report to the European Parliament and to the Council in the context of each global stocktake agreed under the Paris Agreement, in particular with regard to the need for additional Union policies and measures in view of necessary greenhouse gas reductions by the Union and its Member States, including in relation to the linear factor referred to in Article 9. The Commission may make proposals to the European Parliament and to the Council to amend this Directive where appropriate.
+
+4. Before 1 January 2020 , the Commission shall present an updated analysis of the non-CO <sub> 2 </sub> effects of aviation, accompanied, where appropriate, by a proposal on how best to address those effects.
+
+## CHAPTER V — FINAL PROVISIONS
+
+### Article 31. Implementation
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 December 2003 at the latest. They shall forthwith inform the Commission thereof. The Commission shall notify the other Member States of these laws, regulations and administrative provisions.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2. Member States shall communicate to the Commission the text of the provisions of national law which they adopt in the field covered by this Directive. The Commission shall inform the other Member States thereof.
+
+### Article 32. Entry into force
+
+This Directive shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+### Article 33. Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — CATEGORIES OF ACTIVITIES TO WHICH THIS DIRECTIVE APPLIES
+
+1\.
+
+Installations or parts of installations used for research, development and testing of new products and processes and installations exclusively using biomass are not covered by this Directive.
+
+2\.
+
+The thresholds values given below generally refer to production capacities or outputs. Where several activities falling under the same category are carried out in the same installation, the capacities of such activities are added together.
+
+3\.
+
+When the total rated thermal input of an installation is calculated in order to decide upon its inclusion in the EU ETS , the rated thermal inputs of all technical units which are part of it, in which fuels are combusted within the installation, are added together. These units could include all types of boilers, burners, turbines, heaters, furnaces, incinerators, calciners, kilns, ovens, dryers, engines, fuel cells, chemical looping combustion units, flares, and thermal or catalytic post-combustion units. Units with a rated thermal input under 3 MW and units which use exclusively biomass shall not be taken into account for the purposes of this calculation. ‘Units using exclusively biomass’ includes units which use fossil fuels only during start-up or shut-down of the unit.
+
+4\.
+
+If a unit serves an activity for which the threshold is not expressed as total rated thermal input, the threshold of this activity shall take precedence for the decision about the inclusion in the EU ETS .
+
+5\.
+
+When the capacity threshold of any activity in this Annex is found to be exceeded in an installation, all units in which fuels are combusted, other than units for the incineration of hazardous or municipal waste, shall be included in the greenhouse gas emission permit.
+
+6\.
+
+From 1 January 2012 all flights which arrive at or depart from an aerodrome situated in the territory of a Member State to which the Treaty applies shall be included.
+
+| Activities | Greenhouse gases |
+| --- | --- |
+| Combustion of fuels in installations with a total rated thermal input exceeding 20 MW (except in installations for the incineration of hazardous or municipal waste) | Carbon dioxide |
+| Refining of mineral oil | Carbon dioxide |
+| Production of coke | Carbon dioxide |
+| Metal ore (including sulphide ore) roasting or sintering, including pelletisation | Carbon dioxide |
+| Production of pig iron or steel (primary or secondary fusion) including continuous casting, with a capacity exceeding 2,5 tonnes per hour | Carbon dioxide |
+| Production or processing of ferrous metals (including ferro-alloys) where combustion units with a total rated thermal input exceeding 20 MW are operated. Processing includes, inter alia, rolling mills, re-heaters, annealing furnaces, smitheries, foundries, coating and pickling | Carbon dioxide |
+| Production of primary aluminium | Carbon dioxide and perfluorocarbons |
+| Production of secondary aluminium where combustion units with a total rated thermal input exceeding 20 MW are operated | Carbon dioxide |
+| Production or processing of non-ferrous metals, including production of alloys, refining, foundry casting, etc., where combustion units with a total rated thermal input (including fuels used as reducing agents) exceeding 20 MW are operated | Carbon dioxide |
+| Production of cement clinker in rotary kilns with a production capacity exceeding 500 tonnes per day or in other furnaces with a production capacity exceeding 50 tonnes per day | Carbon dioxide |
+| Production of lime or calcination of dolomite or magnesite in rotary kilns or in other furnaces with a production capacity exceeding 50 tonnes per day | Carbon dioxide |
+| Manufacture of glass including glass fibre with a melting capacity exceeding 20 tonnes per day | Carbon dioxide |
+| Manufacture of ceramic products by firing, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain, with a production capacity exceeding 75 tonnes per day | Carbon dioxide |
+| Manufacture of mineral wool insulation material using glass, rock or slag with a melting capacity exceeding 20 tonnes per day | Carbon dioxide |
+| Drying or calcination of gypsum or production of plaster boards and other gypsum products, where combustion units with a total rated thermal input exceeding 20 MW are operated | Carbon dioxide |
+| Production of pulp from timber or other fibrous materials | Carbon dioxide |
+| Production of paper or cardboard with a production capacity exceeding 20 tonnes per day | Carbon dioxide |
+| Production of carbon black involving the carbonisation of organic substances such as oils, tars, cracker and distillation residues, where combustion units with a total rated thermal input exceeding 20 MW are operated | Carbon dioxide |
+| Production of nitric acid | Carbon dioxide and nitrous oxide |
+| Production of adipic acid | Carbon dioxide and nitrous oxide |
+| Production of glyoxal and glyoxylic acid | Carbon dioxide and nitrous oxide |
+| Production of ammonia | Carbon dioxide |
+| Production of bulk organic chemicals by cracking, reforming, partial or full oxidation or by similar processes, with a production capacity exceeding 100 tonnes per day | Carbon dioxide |
+| Production of hydrogen (H <sub> 2 </sub> ) and synthesis gas by reforming or partial oxidation with a production capacity exceeding 25 tonnes per day | Carbon dioxide |
+| Production of soda ash (Na <sub> 2 </sub> CO <sub> 3 </sub> ) and sodium bicarbonate (NaHCO <sub> 3 </sub> ) | Carbon dioxide |
+| Capture of greenhouse gases from installations covered by this Directive for the purpose of transport and geological storage in a storage site permitted under Directive 2009/31/EC | Carbon dioxide |
+| Transport of greenhouse gases by pipelines for geological storage in a storage site permitted under Directive 2009/31/EC | Carbon dioxide |
+| Geological storage of greenhouse gases in a storage site permitted under Directive 2009/31/EC | Carbon dioxide |
+| Aviation<br>Flights which depart from or arrive in an aerodrome situated in the territory of a MemberState to which the Treaty applies.<br>This activity shall not include:<br>- ((a)) flights performed exclusively for the transport, on official mission, of a reigning Monarch and his immediate family, Heads of State, Heads of Government and Government Ministers, of a country other than a Member State, where this is substantiated by an appropriate status indicator in the flight plan;<br>- ((b)) military flights performed by military aircraft and customs and police flights;<br>- ((c)) flights related to search and rescue, fire-fighting flights, humanitarian flights and emergency medical service flights authorised by the appropriate competent authority;<br>- ((d)) any flights performed exclusively under visual flight rules as defined in Annex 2 to the Chicago Convention;<br>- ((e)) flights terminating at the aerodrome from which the aircraft has taken off and during which no intermediate landing has been made;<br>- ((f)) training flights performed exclusively for the purpose of obtaining a licence, or a rating in the case of cockpit flight crew where this is substantiated by an appropriate remark in the flight plan provided that the flight does not serve for the transport of passengers and/or cargo or for the positioning or ferrying of the aircraft;<br>- ((g)) flights performed exclusively for the purpose of scientific research or for the purpose of checking, testing or certifying aircraft or equipment whether airborne or ground-based;<br>- ((h)) flights performed by aircraft with a certified maximum take-off mass of less than 5 700  kg;<br>- ((i)) flights performed in the framework of public service obligations imposed in accordance with Regulation (EEC) No 2408/92 on routes within outermost regions, as specified in Article 299(2) of the Treaty, or on routes where the capacity offered does not exceed 30 000 seats per year ;[^c000019]<br>- ((j)) flights which, but for this point, would fall within this activity, performed by a commercial air transport operator operating either:<br>  - fewer than 243 flights per period for three consecutive four-month periods, or<br>  - flights with total annual emissions lower than 10 000 tonnes per year.<br><br>  Flights referred to in point (l) or performed exclusively for the transport, on official mission, of a reigning Monarch and his immediate family; Heads of State, Heads of Government and Government Ministers, of a Member State may not be excluded under this point;[^c000020]<br>- ((k)) from 1 January 2013 to 31 December 2030 , flights which, but for this point, would fall within this activity, performed by a non-commercial aircraft operator operating flights with total annual emissions lower than 1 000 tonnes per year (including emissions from flights referred to in point (l));<br>- ((l)) flights from aerodromes situated in Switzerland to aerodromes situated in the EEA.[^c000021] | Carbon dioxide |
+
+## ANNEX II — GREENHOUSE GASES REFERRED TO IN ARTICLES 3 AND 30
+
+Carbon dioxide (CO<sub>2</sub>)
+
+Methane (CH<sub>4</sub>)
+
+Nitrous Oxide (N<sub>2</sub>O)
+
+Hydrofluorocarbons (HFCs)
+
+Perfluorocarbons (PFCs)
+
+Sulphur Hexafluoride (SF<sub>6</sub>)
+
+## ANNEX IIa — Increases in the percentage of allowances to be auctioned by Member States pursuant to Article 10(2)(a), for the purpose of Union solidarity and growth in order to reduce emissions and adapt to the effects of climate change
+
+|  | Member State share |
+| --- | --- |
+| [^c000010] |  |
+| Bulgaria | 53 % |
+| Czech Republic | 31 % |
+| Estonia | 42 % |
+| Greece | 17 % |
+| Spain | 13 % |
+| Croatia | 26 % |
+| [^c000010] |  |
+| Cyprus | 20 % |
+| Latvia | 56 % |
+| Lithuania | 46 % |
+| [^c000010] |  |
+| Hungary | 28 % |
+| Malta | 23 % |
+| Poland | 39 % |
+| Portugal | 16 % |
+| Romania | 53 % |
+| Slovenia | 20 % |
+| Slovakia | 41 % |
+| [^c000010] |  |
+
+## ANNEX IIb — DISTRIBUTION OF FUNDS FROM THE MODERNISATION FUND UNTIL 31 DECEMBER 2030
+
+|  | Share of Modernisation Fund |
+| --- | --- |
+| Bulgaria | 5,84 % |
+| Czech Republic | 15,59 % |
+| Estonia | 2,78 % |
+| Croatia | 3,14 % |
+| Latvia | 1,44 % |
+| Lithuania | 2,57 % |
+| Hungary | 7,12 % |
+| Poland | 43,41 % |
+| Romania | 11,98 % |
+| Slovakia | 6,13 % |
+
+## ANNEX III — CRITERIA FOR NATIONAL ALLOCATION PLANS REFERRED TO IN ARTICLES 9, 22 AND 30 (affected by repeal, see note)[^c000022][^c000022]
+
+**No longer in force.**
+
+[^c000022]1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]7.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]8.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]9.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]10.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]11.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000022]12.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX IV — PRINCIPLES FOR MONITORING AND REPORTING REFERRED TO IN ARTICLE 14(1)
+
+### PART A — — Monitoring and reporting of emissions from stationary installations
+
+Monitoring of carbon dioxide emissions
+
+Emissions shall be monitored either by calculation or on the basis of measurement.
+
+Calculation
+
+Calculations of emissions shall be performed using the formula:
+
+Activity data × Emission factor × Oxidation factor
+
+Activity data (fuel used, production rate etc.) shall be monitored on the basis of supply data or measurement.
+
+Accepted emission factors shall be used. Activity-specific emission factors are acceptable for all fuels. Default factors are acceptable for all fuels except non-commercial ones (waste fuels such as tyres and industrial process gases). Seam-specific defaults for coal, and EU-specific or producer country-specific defaults for natural gas shall be further elaborated. IPCC default values are acceptable for refinery products. The emission factor for biomass shall be zero.
+
+If the emission factor does not take account of the fact that some of the carbon is not oxidised, then an additional oxidation factor shall be used. If activity-specific emission factors have been calculated and already take oxidation into account, then an oxidation factor need not be applied.
+
+Default oxidation factors developed pursuant to Directive 96/61/EC shall be used, unless the operator can demonstrate that activity-specific factors are more accurate.
+
+A separate calculation shall be made for each activity, installation and for each fuel.
+
+Measurement
+
+Measurement of emissions shall use standardised or accepted methods, and shall be corroborated by a supporting calculation of emissions.
+
+Monitoring of emissions of other greenhouse gases
+
+Standardised or accepted methods, developed by the Commission in collaboration with all relevant stakeholders and adopted pursuant to Article 14(1), shall be used.
+
+Reporting of emissions
+
+Each operator shall include the following information in the report for an installation:
+
+- A.. Data identifying the installation, including:
+  - Name of the installation;
+  - Its address, including postcode and country;
+  - Type and number of Annex I activities carried out in the installation;
+  - Address, telephone, fax and email details for a contact person; and
+  - Name of the owner of the installation, and of any parent company.
+- B.. For each Annex I activity carried out on the site for which emissions are calculated:
+  - Activity data;
+  - Emission factors;
+  - Oxidation factors;
+  - Total emissions; and
+  - Uncertainty.
+- C.. For each Annex I activity carried out on the site for which emissions are measured:
+  - Total emissions;
+  - Information on the reliability of measurement methods; and
+  - Uncertainty.
+- D.. For emissions from combustion, the report shall also include the oxidation factor, unless oxidation has already been taken into account in the development of an activity-specific emission factor.
+
+Member States shall take measures to coordinate reporting requirements with any existing reporting requirements in order to minimise the reporting burden on businesses.
+
+### PART B — — Monitoring and reporting of emissions from aviation activities
+
+Monitoring of carbon dioxide emissions
+
+Emissions shall be monitored by calculation. Emissions shall be calculated using the formula:
+
+**Fuel consumption × emission factor**
+
+Fuel consumption shall include fuel consumed by the auxiliary power unit. Actual fuel consumption for each flight shall be used wherever possible and shall be calculated using the formula:
+
+Amount of fuel contained in aircraft tanks once fuel uplift for the flight is complete – amount of fuel contained in aircraft tanks once fuel uplift for subsequent flight is complete + fuel uplift for that subsequent flight.
+
+If actual fuel consumption data are not available, a standardised tiered method shall be used to estimate fuel consumption data based on best available information.
+
+Default IPCC emission factors, taken from the 2006 IPCC Inventory Guidelines or subsequent updates of these Guidelines, shall be used unless activity-specific emission factors identified by independent accredited laboratories using accepted analytical methods are more accurate. The emission factor for biomass shall be zero.
+
+A separate calculation shall be made for each flight and for each fuel.
+
+Reporting of emissions
+
+Each aircraft operator shall include the following information in its report under Article 14(3):
+
+- A.. Data identifying the aircraft operator, including:
+  - name of the aircraft operator,
+  - its administering Member State,
+  - its address, including postcode and country and, where different, its contact address in the administering Member State,
+  - the aircraft registration numbers and types of aircraft used in the period covered by the report to perform the aviation activities listed in Annex I for which it is the aircraft operator,
+  - the number and issuing authority of the air operator certificate and operating licence under which the aviation activities listed in Annex I for which it is the aircraft operator were performed,
+  - address, telephone, fax and e-mail details for a contact person, and
+  - name of the aircraft owner.
+- B.. For each type of fuel for which emissions are calculated:
+  - fuel consumption,
+  - emission factor,
+  - total aggregated emissions from all flights performed during the period covered by the report which fall within the aviation activities listed in Annex I for which it is the aircraft operator,
+  - aggregated emissions from:
+    - all flights performed during the period covered by the report which fall within the aviation activities listed in Annex I for which it is the aircraft operator and which departed from an aerodrome situated in the territory of a Member State and arrived at an aerodrome situated in the territory of the same Member State,
+    - all other flights performed during the period covered by the report which fall within the aviation activities listed in Annex I for which it is the aircraft operator,
+  - aggregated emissions from all flights performed during the period covered by the report which fall within the aviation activities listed in Annex I for which it is the aircraft operator and which:
+    - departed from each Member State, and
+    - arrived in each Member State from a third country,
+  - uncertainty.
+
+Monitoring of tonne-kilometre data for the purpose of Articles 3e and 3f
+
+For the purpose of applying for an allocation of allowances in accordance with Article 3e(1) or Article 3f(2), the amount of aviation activity shall be calculated in tonne-kilometres using the following formula:
+
+tonne-kilometres = distance × payload
+
+where:
+
+‘ distance ’ means the great circle distance between the aerodrome of departure and the aerodrome of arrival plus an additional fixed factor of 95 km; and
+
+‘ payload ’ means the total mass of freight, mail and passengers carried.
+
+For the purposes of calculating the payload:
+
+- the number of passengers shall be the number of persons on-board excluding crew members,
+- an aircraft operator may choose to apply either the actual or standard mass for passengers and checked baggage contained in its mass and balance documentation for the relevant flights or a default value of 100 kg for each passenger and his checked baggage.
+
+Reporting of tonne-kilometre data for the purpose of Articles 3e and 3f
+
+Each aircraft operator shall include the following information in its application under Article 3e(1) or Article 3f(2):
+
+- A.. Data identifying the aircraft operator, including:
+  - name of the aircraft operator,
+  - its administering Member State,
+  - its address, including postcode and country and, where different, its contact address in the administering Member State,
+  - the aircraft registration numbers and types of aircraft used during the year covered by the application to perform the aviation activities listed in Annex I for which it is the aircraft operator,
+  - the number and issuing authority of the air operator certificate and operating licence under which the aviation activities listed in Annex I for which it is the aircraft operator were performed,
+  - address, telephone, fax and e-mail details for a contact person, and
+  - name of the aircraft owner.
+- B.. Tonne-kilometre data:
+  - number of flights by aerodrome pair,
+  - number of passenger-kilometres by aerodrome pair,
+  - number of tonne-kilometres by aerodrome pair,
+  - chosen method for calculation of mass for passengers and checked baggage,
+  - total number of tonne-kilometres for all flights performed during the year to which the report relates falling within the aviation activities listed in Annex I for which it is the aircraft operator.
+
+## ANNEX V — CRITERIA FOR VERIFICATION REFERRED TO IN ARTICLE 15
+
+### PART A — — Verification of emissions from stationary installations
+
+General Principles
+
+1\.
+
+Emissions from each activity listed in Annex I shall be subject to verification.
+
+2\.
+
+The verification process shall include consideration of the report pursuant to Article 14(3) and of monitoring during the preceding year. It shall address the reliability, credibility and accuracy of monitoring systems and the reported data and information relating to emissions, in particular:
+
+- ((a)) the reported activity data and related measurements and calculations;
+- ((b)) the choice and the employment of emission factors;
+- ((c)) the calculations leading to the determination of the overall emissions; and
+- ((d)) if measurement is used, the appropriateness of the choice and the employment of measuring methods.
+
+3\.
+
+Reported emissions may only be validated if reliable and credible data and information allow the emissions to be determined with a high degree of certainty. A high degree of certainty requires the operator to show that:
+
+- ((a)) the reported data is free of inconsistencies;
+- ((b)) the collection of the data has been carried out in accordance with the applicable scientific standards; and
+- ((c)) the relevant records of the installation are complete and consistent.
+
+4\.
+
+The verifier shall be given access to all sites and information in relation to the subject of the verification.
+
+5\.
+
+The verifier shall take into account whether the installation is registered under the Union eco-management and audit scheme (EMAS).
+
+Methodology
+
+Strategic analysis
+
+6\.
+
+The verification shall be based on a strategic analysis of all the activities carried out in the installation. This requires the verifier to have an overview of all the activities and their significance for emissions.
+
+Process analysis
+
+7\.
+
+The verification of the information submitted shall, where appropriate, be carried out on the site of the installation. The verifier shall use spot-checks to determine the reliability of the reported data and information.
+
+Risk analysis
+
+8\.
+
+The verifier shall submit all the sources of emissions in the installation to an evaluation with regard to the reliability of the data of each source contributing to the overall emissions of the installation.
+
+9\.
+
+On the basis of this analysis the verifier shall explicitly identify those sources with a high risk of error and other aspects of the monitoring and reporting procedure which are likely to contribute to errors in the determination of the overall emissions. This especially involves the choice of the emission factors and the calculations necessary to determine the level of the emissions from individual sources. Particular attention shall be given to those sources with a high risk of error and the abovementioned aspects of the monitoring procedure.
+
+10\.
+
+The verifier shall take into consideration any effective risk control methods applied by the operator with a view to minimising the degree of uncertainty.
+
+Report
+
+11\.
+
+The verifier shall prepare a report on the validation process stating whether the report pursuant to Article 14(3) is satisfactory. This report shall specify all issues relevant to the work carried out. A statement that the report pursuant to Article 14(3) is satisfactory may be made if, in the opinion of the verifier, the total emissions are not materially misstated.
+
+Minimum competency requirements for the verifier
+
+12\.
+
+The verifier shall be independent of the operator, carry out his activities in a sound and objective professional manner, and understand:
+
+- ((a)) the provisions of this Directive, as well as relevant standards and guidance adopted by the Commission pursuant to Article 14(1);
+- ((b)) the legislative, regulatory, and administrative requirements relevant to the activities being verified; and
+- ((c)) the generation of all information related to each source of emissions in the installation, in particular, relating to the collection, measurement, calculation and reporting of data.
+
+### PART B — — Verification of emissions from aviation activities
+
+13\.
+
+The general principles and methodology set out in this Annex shall apply to the verification of reports of emissions from flights falling within an aviation activity listed in Annex I.
+
+For this purpose:
+
+- ((a)) in paragraph 3, the reference to operator shall be read as if it were a reference to an aircraft operator, and in point (c) of that paragraph the reference to installation shall be read as if it were a reference to the aircraft used to perform the aviation activities covered by the report;
+- ((b)) in paragraph 5, the reference to installation shall be read as if it were a reference to the aircraft operator;
+- ((c)) in paragraph 6 the reference to activities carried out in the installation shall be read as a reference to aviation activities covered by the report carried out by the aircraft operator;
+- ((d)) in paragraph 7 the reference to the site of the installation shall be read as if it were a reference to the sites used by the aircraft operator to perform the aviation activities covered by the report;
+- ((e)) in paragraphs 8 and 9 the references to sources of emissions in the installation shall be read as if they were a reference to the aircraft for which the aircraft operator is responsible; and
+- ((f)) in paragraphs 10 and 12 the references to operator shall be read as if they were a reference to an aircraft operator.
+
+Additional provisions for the verification of aviation emission reports
+
+14\.
+
+The verifier shall in particular ascertain that:
+
+- ((a)) all flights falling within an aviation activity listed in Annex I have been taken into account. In this task the verifier shall be assisted by timetable data and other data on the aircraft operator’s traffic including data from Eurocontrol requested by that operator;
+- ((b)) there is overall consistency between aggregated fuel consumption data and data on fuel purchased or otherwise supplied to the aircraft performing the aviation activity.
+
+Additional provisions for the verification of tonne-kilometre data submitted for the purposes of Articles 3e and 3f
+
+15\.
+
+The general principles and methodology for verifying emissions reports under Article 14(3) as set out in this Annex shall, where applicable, also apply correspondingly to the verification of aviation tonne-kilometre data.
+
+16\.
+
+The verifier shall in particular ascertain that only flights actually performed and falling within an aviation activity listed in Annex I for which the aircraft operator is responsible have been taken into account in that operator’s application under Articles 3e(1) and 3f(2). In this task the verifier shall be assisted by data on the aircraft operator’s traffic including data from Eurocontrol requested by that operator. In addition, the verifier shall ascertain that the payload reported by the aircraft operator corresponds to records on payloads kept by that operator for safety purposes.
+
+## Annotations
+
+[^c000001]: Textual amendment: Substituted by [Directive (EU) 2018/410 of the European Parliament and of the Council of 14 March 2018 amending Directive 2003/87/EC to enhance cost-effective emission reductions and low-carbon investments, and Decision (EU) 2015/1814 (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2018/410).
+
+[^f00001]: Footnote: [OJ C 75 E, 26.3.2002, p. 33](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2002.075E.01.0033.01.ENG).
+
+[^f00002]: Footnote: [OJ C 221, 17.9.2002, p. 27](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2002.221.01.0027.01.ENG).
+
+[^f00003]: Footnote: [OJ C 192, 12.8.2002, p. 59](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2002.192.01.0059.01.ENG).
+
+[^f00004]: Footnote: Opinion of the European Parliament of 10 October 2002 (not yet published in the Official Journal), Council Common Position of 18 March 2003 ([OJ C 125 E, 27.5.2003, p. 72](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2003.125E.01.0072.01.ENG)), Decision of the European Parliament of 2 July 2003 (not yet published in the Official Journal) and Council Decision of 22 July 2003.
+
+[^f00005]: Footnote: [OJ L 242, 10.9.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.242.01.0001.01.ENG).
+
+[^f00006]: Footnote: [OJ L 33, 7.2.1994, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1994.033.01.0011.01.ENG).
+
+[^f00007]: Footnote: [OJ L 130, 15.5.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.130.01.0001.01.ENG).
+
+[^f00008]: Footnote: [OJ L 167, 9.7.1993, p. 31](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.167.01.0031.01.ENG). Decision as amended by Decision 1999/296/EC ([OJ L 117, 5.5.1999, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.117.01.0035.01.ENG)).
+
+[^f00009]: Footnote: [OJ L 41, 14.2.2003, p. 26](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.041.01.0026.01.ENG).
+
+[^f00010]: Footnote: [OJ L 377, 31.12.1991, p. 48](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.377.01.0048.01.ENG).
+
+[^f00011]: Footnote: [OJ L 257, 10.10.1996, p. 26](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1996.257.01.0026.01.ENG).
+
+[^f00012]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
+
+[^c000002]: Textual amendment: Inserted by [Directive 2008/101/EC of the European Parliament and of the Council of 19 November 2008 amending Directive 2003/87/EC so as to include aviation activities in the scheme for greenhouse gas emission allowance trading within the Community (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2008/101).
+
+[^c000003]: Textual amendment: Inserted by [Directive 2009/29/EC of the European Parliament and of the Council of 23 April 2009 amending Directive 2003/87/EC so as to improve and extend the greenhouse gas emission allowance trading scheme of the Community (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2009/29).
+
+[^c000004]: Textual amendment: Substituted by [Directive 2008/101/EC of the European Parliament and of the Council of 19 November 2008 amending Directive 2003/87/EC so as to include aviation activities in the scheme for greenhouse gas emission allowance trading within the Community (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2008/101).
+
+[^c000005]: Textual amendment: Substituted by [Directive 2009/29/EC of the European Parliament and of the Council of 23 April 2009 amending Directive 2003/87/EC so as to improve and extend the greenhouse gas emission allowance trading scheme of the Community (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2009/29).
+
+[^c000006]: Textual amendment: Substituted by [Directive 2004/101/EC of the European Parliament and of the Council of 27 October 2004 amending Directive 2003/87/EC establishing a scheme for greenhouse gas emission allowance trading within the Community, in respect of the Kyoto Protocol's project mechanisms (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2004/101).
+
+[^c000007]: Textual amendment: Inserted by [Directive 2004/101/EC of the European Parliament and of the Council of 27 October 2004 amending Directive 2003/87/EC establishing a scheme for greenhouse gas emission allowance trading within the Community, in respect of the Kyoto Protocol's project mechanisms (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2004/101).
+
+[^c000008]: Textual amendment: Inserted by [Regulation (EU) 2017/2392 of the European Parliament and of the Council of 13 December 2017 amending Directive 2003/87/EC to continue current limitations of scope for aviation activities and to prepare to implement a global market-based measure from 2021](https://www.legislation.gov.uk/eur/2017/2392).
+
+[^c000009]: Textual amendment: Substituted by [Regulation (EU) 2017/2392 of the European Parliament and of the Council of 13 December 2017 amending Directive 2003/87/EC to continue current limitations of scope for aviation activities and to prepare to implement a global market-based measure from 2021](https://www.legislation.gov.uk/eur/2017/2392).
+
+[^c000010]: Textual amendment: Deleted by [Directive (EU) 2018/410 of the European Parliament and of the Council of 14 March 2018 amending Directive 2003/87/EC to enhance cost-effective emission reductions and low-carbon investments, and Decision (EU) 2015/1814 (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2018/410).
+
+[^f00013]: Footnote: Directive 2010/75/EU of the European Parliament and of the Council of[^c000001] 24 November 2010 on industrial emissions (integrated pollution prevention and control) ( [OJ L 334, 17.12.2010, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.334.01.0017.01.ENG) ).
+
+[^c000011]: Textual amendment: Inserted by [Treaty between the Kingdom of Belgium, the Republic of Bulgaria, the Czech Republic, the Kingdom of Denmark, the Federal Republic of Germany, the Republic of Estonia, Ireland, the Hellenic Republic, the Kingdom of Spain, the French Republic, the Italian Republic, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Grand Duchy of Luxembourg, the Republic of Hungary, the Republic of Malta, the Kingdom of the Netherlands, the Republic of Austria, the Republic of Poland, the Portuguese Republic, Romania, the Republic of Slovenia, the Slovak Republic, the Republic of Finland, the Kingdom of Sweden, the United Kingdom of Great Britain and Northern Ireland (Member States of the European Union) and the Republic of Croatia concerning the accession of the Republic of Croatia to the European Union](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012J/ACT).
+
+[^f00014]: Footnote: Decision (EU) 2015/1814 of the European Parliament and of the Council of[^c000005] 6 October 2015 concerning the establishment and operation of a market stability reserve for the Union greenhouse gas emission trading system and amending Directive 2003/87/EC ( [OJ L 264, 9.10.2015, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.264.01.0001.01.ENG) ).
+
+[^c000012]: Textual amendment: Inserted by [Decision (EU) 2015/1814 of the European Parliament and of the Council of 6 October 2015 concerning the establishment and operation of a market stability reserve for the Union greenhouse gas emission trading scheme and amending Directive 2003/87/EC (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2015/1814).
+
+[^c000013]: Textual amendment: Inserted by [Directive (EU) 2018/410 of the European Parliament and of the Council of 14 March 2018 amending Directive 2003/87/EC to enhance cost-effective emission reductions and low-carbon investments, and Decision (EU) 2015/1814 (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2018/410).
+
+[^f00015]: Footnote: Commission Decision 2011/278/EU of[^c000013][^c000003] 27 April 2011 determining transitional Union-wide rules for harmonised free allocation of emission allowances pursuant to Article 10a of Directive 2003/87/EC of the European Parliament and of the Council ( [OJ L 130, 17.5.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.130.01.0001.01.ENG) ).
+
+[^f00016]: Footnote: Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC ( [OJ L 315, 14.11.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.315.01.0001.01.ENG) ).
+
+[^f00017]: Footnote: Commission Decision 2010/670/EU of 3 November 2010 laying down criteria and measures for the financing of commercial demonstration projects that aim at the environmentally safe capture and geological storage of CO <sub> 2 </sub> as well as demonstration projects of innovative renewable energy technologies under the system for greenhouse gas emission allowance trading within the Union established by Directive 2003/87/EC of the European Parliament and of the Council ( [OJ L 290, 6.11.2010, p. 39](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.290.01.0039.01.ENG) ).
+
+[^f00018]: Footnote: Commission Decision 2014/746/EU of 27 October 2014 determining, pursuant to Directive 2003/87/EC of the European Parliament and of the Council, a list of sectors and subsectors which are deemed to be exposed to a significant risk of carbon leakage, for the period 2015 to 2019 ( [OJ L 308, 29.10.2014, p. 114](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.308.01.0114.01.ENG) ).
+
+[^f00019]: Footnote: [OJ L 96, 12.4.2003, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.096.01.0016.01.ENG) .
+
+[^f00020]: Footnote: [OJ L 140, 5.6.2009, p. 114](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.140.01.0114.01.ENG) .
+
+[^c000015]: Textual amendment: Deleted by [Directive 2008/101/EC of the European Parliament and of the Council of 19 November 2008 amending Directive 2003/87/EC so as to include aviation activities in the scheme for greenhouse gas emission allowance trading within the Community (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2008/101).
+
+[^f00021]: Footnote: [OJ L 240, 24.8.1992, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1992.240.01.0001.01.ENG)[^c000002] .
+
+[^f00022]: Footnote: Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change and repealing Decision No 280/2004/EC ( [OJ L 165, 18.6.2013, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.165.01.0013.01.ENG) ).
+
+[^f00023]: Footnote: Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission's exercise of implementing powers ( [OJ L 55, 28.2.2011, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.055.01.0013.01.ENG) ).
+
+[^f00024]: Footnote: [OJ L 123, 12.5.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.123.01.0001.01.ENG) .
+
+[^f00025]: Footnote: [OJ L 275, 25.10.2003, p. 32](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.275.01.0032.01.ENG).’
+
+[^c000017]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 421/2014 of the European Parliament and of the Council of 16 April 2014 amending Directive 2003/87/EC establishing a scheme for greenhouse gas emission allowance trading within the Community, in view of the implementation by 2020 of an international agreement applying a single global market-based measure to international aviation emissions (Official Journal of the European Union L 129 of 30 April 2014)](https://www.legislation.gov.uk/eur/2014/421/pdfs/eurcs_20140421_en_001.pdf).
+
+[^c000016]: Textual amendment: Inserted by [Regulation (EU) No 421/2014 of the European Parliament and of the Council of 16 April 2014 amending Directive 2003/87/EC establishing a scheme for greenhouse gas emission allowance trading within the Community, in view of the implementation by 2020 of an international agreement applying a single global market-based measure to international aviation emissions (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/421).
+
+[^c000018]: Textual amendment: Deleted by [Regulation (EU) 2017/2392 of the European Parliament and of the Council of 13 December 2017 amending Directive 2003/87/EC to continue current limitations of scope for aviation activities and to prepare to implement a global market-based measure from 2021](https://www.legislation.gov.uk/eur/2017/2392).
+
+[^f00026]: Footnote: Commission Regulation (EU) No 606/2010 of[^c000009][^c000016] 9 July 2010 on the approval of a simplified tool developed by the European organisation for air safety navigation (Eurocontrol) to estimate the fuel consumption of certain small emitting aircraft operators ( [OJ L 175, 10.7.2010, p. 25](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.175.01.0025.01.ENG) ).
+
+[^c000019]: Textual amendment: Substituted by [Regulation (EU) No 421/2014 of the European Parliament and of the Council of 16 April 2014 amending Directive 2003/87/EC establishing a scheme for greenhouse gas emission allowance trading within the Community, in view of the implementation by 2020 of an international agreement applying a single global market-based measure to international aviation emissions (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/421).
+
+[^c000020]: Textual amendment: Substituted by [Commission Delegated Decision (EU) 2020/1071 of 18 May 2020 amending Directive 2003/87/EC of the European Parliament and of the Council, as regards the exclusion of incoming flights from Switzerland from the EU emissions trading system (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2020/1071).
+
+[^c000021]: Textual amendment: Inserted by [Commission Delegated Decision (EU) 2020/1071 of 18 May 2020 amending Directive 2003/87/EC of the European Parliament and of the Council, as regards the exclusion of incoming flights from Switzerland from the EU emissions trading system (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2020/1071).
+
+[^c000022]: Textual amendment: Deleted by [Directive 2009/29/EC of the European Parliament and of the Council of 23 April 2009 amending Directive 2003/87/EC so as to improve and extend the greenhouse gas emission allowance trading scheme of the Community (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2009/29).

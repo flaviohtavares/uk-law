@@ -1,0 +1,72 @@
+---
+title: Commission Implementing Decision (EU, Euratom) 2016/2366 of 19 December 2016 establishing models for statements of accounts for entitlements to own resources and a form for reports on irrecoverable amounts corresponding to the entitlements to own resources pursuant to Council Regulation (EU, Euratom) No 609/2014
+id: eudn/2016/2366
+type: EuropeanUnionDecision
+category: euretained
+status: repealed
+made_date: '2016-12-19'
+text_date: '2018-08-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2016/2366
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2016/2366/pdfs/eudn_20162366_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2016/2366/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Decision (EU, Euratom) 2016/2366 of 19 December 2016 establishing models for statements of accounts for entitlements to own resources and a form for reports on irrecoverable amounts corresponding to the entitlements to own resources pursuant to Council Regulation (EU, Euratom) No 609/2014
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Commission Implementing Decision (EU, Euratom) 2016/2366
+
+of 19 December 2016
+
+establishing models for statements of accounts for entitlements to own resources and a form for reports on irrecoverable amounts corresponding to the entitlements to own resources pursuant to Council Regulation (EU, Euratom) No 609/2014 (repealed)
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 1.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 2.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 3.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 4.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 5.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c000001]
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c000001]
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c000001]
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX IV[^c000001]
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX V[^c000001]
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c000001]: Textual amendment: Repealed by [Commission Implementing Decision (EU, Euratom) 2018/194 of 8 February 2018 establishing models for statements of accounts for entitlements to own resources and a form for reports on irrecoverable amounts corresponding to the entitlements to own resources pursuant to Council Regulation (EU, Euratom) No 609/2014](https://www.legislation.gov.uk/eudn/2018/194).

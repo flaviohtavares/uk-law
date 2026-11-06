@@ -1,0 +1,55 @@
+---
+title: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (Text with EEA relevance), section Article 119
+act: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (Text with EEA relevance)
+section: Article 119
+status: revised
+text_date: '2026-08-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2006/1907/section/Article 119
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (Text with EEA relevance), section Article 119
+
+> Text as at 2026-08-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 119. Electronic public access[^c000001]
+
+*Extent: E+W+S+N.I.*
+
+1. The following information held by the Agency on substances whether on their own, in mixtures[^c000002] or in articles, shall be made publicly available, free of charge, over the Internet in accordance with Article 77(2)(e):
+
+- (a) without prejudice to paragraph 2(f) and (g) of this Article, the name in the IUPAC nomenclature for substances fulfilling the criteria for any of the following hazard classes or categories set out in Annex I to Regulation (EC) No 1272/2008:
+  - hazard classes 2.1 to 2.4, 2.6 and 2.7, 2.8 types A and B, 2.9, 2.10, 2.12, 2.13 categories 1 and 2, 2.14 categories 1 and 2, 2.15 types A to F;
+  - hazard classes 3.1 to 3.6, 3.7 adverse effects on sexual function and fertility or on development, 3.8 effects other than narcotic effects, 3.9 and 3.10;
+  - hazard class 4.1;
+  - hazard class 5.1;
+- (b) if applicable, the name of the substance as given in EINECS;
+- (c) the classification and labelling of the substance;
+- (d) physicochemical data concerning the substance and on pathways and environmental fate;
+- (e) the result of each toxicological and ecotoxicological study;
+- (f) any derived no-effect level (DNEL) or predicted no-effect concentration (PNEC) established in accordance with Annex I;
+- (g) the guidance on safe use provided in accordance with Sections 4 and 5 of Annex VI;
+- (h) analytical methods if requested in accordance with Annexes IX or X which make it possible to detect a dangerous substance when discharged into the environment as well as to determine the direct exposure of humans.
+
+2. The following information on substances whether on their own, in mixtures or in articles, shall be made publicly available, free of charge, over the Internet in accordance with Article 77(2)(e) except where a party submitting the information submits a justification in accordance with Article 10(a)(xi), accepted as valid by the Agency, as to why such publication is potentially harmful for the commercial interests of the registrant or any other party concerned:
+
+- (a) if essential to classification and labelling, the degree of purity of the substance and the identity of impurities and/or additives which are known to be dangerous;
+- (b) the total tonnage band (i.e. 1 to 10 tonnes, 10 to 100 tonnes, 100 to 1 000 tonnes or over 1 000 tonnes) within which a particular substance has been registered;
+- (c) the study summaries or robust study summaries of the information referred to in paragraph 1(d) and (e);
+- (d) information, other than that listed in paragraph 1, contained in the safety data sheet;
+- (e) the trade name(s) of the substance;
+- (f) subject to Article 24 of Regulation (EC) No 1272/2008, the name in the IUPAC nomenclature for non-phase-in substances referred to in paragraph 1(a) of this Article for a period of six years;
+- (g) subject to Article 24 of Regulation (EC) No 1272/2008, the name in the IUPAC nomenclature for substances referred to in paragraph 1(a) of this Article that are only used as one or more of the following:
+  - ((i)) as an intermediate;
+  - ((ii)) in scientific research and development;
+  - ((iii)) in product and process orientated research and development.
+
+## Annotations
+
+[^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (Official Journal of the European Union L 396 of 30 December 2006)](https://www.legislation.gov.uk/eur/2006/1907/pdfs/eurcs_20061907_en_001.pdf).
+
+[^c000002]: Textual amendment: Substituted by [Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/1272).

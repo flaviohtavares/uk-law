@@ -1,0 +1,35 @@
+---
+title: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 159
+act: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)
+section: Article 159
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2016/429/section/Article 159
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 159
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 159. Operators' obligations in respect of movements to other Member States of germinal products of kept animals of the bovine, ovine, caprine, porcine and equine species and germinal products of poultry
+
+*Extent: E+W+S+N.I.*
+
+1. Operators shall only move germinal products of kept animals of the bovine, ovine, caprine, porcine and equine species and germinal products of poultry to another Member State if those germinal products fulfil the following conditions:
+
+- (a) they are collected, produced, processed and stored in germinal product establishments approved for that purpose in accordance with Article 97(1) and Article 99;
+- (b) they have been collected from donor animals which fulfil the necessary animal health requirements, in order to ensure that the germinal products do not spread listed diseases;
+- (c) they have been collected, produced, processed, stored and transported in such a way as to ensure that they do not spread listed diseases as referred to in point (d) of Article 9(1).
+
+2. Operators shall not move germinal products of kept animals of the bovine, ovine, caprine, porcine and equine species and germinal products of poultry from a germinal product establishment which is subject to movement restrictions affecting the listed species in question in accordance with:
+
+- (a) points (a), (c) and (e) of Article 55(1), point (f)(ii) of Article 55(1), Article 56, point (a) of Article 61(1), Article 62(1), point (c) of Article 65(1), Article 74(1), and Articles 79 and 80;
+- (b) rules adopted pursuant to Article 55(2), Articles 63 and 67, and Articles 71(3), 74(4) and 83(2); and
+- (c) emergency measures as provided for in Articles 257 and 258 and rules adopted pursuant to Article 259, unless derogations have been provided for in rules adopted pursuant to Article 258.
+
+The restrictions provided for in this paragraph shall not apply to cases where the germinal products were collected before the outbreak in question occurred and those products have been stored separately from other germinal products.

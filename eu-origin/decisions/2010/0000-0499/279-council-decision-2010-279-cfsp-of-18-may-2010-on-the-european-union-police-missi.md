@@ -1,0 +1,289 @@
+---
+title: Council Decision 2010/279/CFSP of 18 May 2010 on the European Union Police Mission in Afghanistan (EUPOL AFGHANISTAN)
+id: eudn/2010/279
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2010-05-18'
+text_date: '2016-11-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2010/279
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2010/279/pdfs/eudn_20100279_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/279/pdfs/eudn_20100279_2011-05-23_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/279/pdfs/eudn_20100279_2011-07-25_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/279/pdfs/eudn_20100279_2012-07-16_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/279/pdfs/eudn_20100279_2013-05-27_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/279/pdfs/eudn_20100279_2015-01-01_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/279/pdfs/eudn_20100279_2015-12-14_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/279/pdfs/eudn_20100279_2016-11-21_en.pdf
+- http://www.legislation.gov.uk/eudn/2010/279/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision 2010/279/CFSP of 18 May 2010 on the European Union Police Mission in Afghanistan (EUPOL AFGHANISTAN)
+
+> Text as at 2016-11-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision 2010/279/CFSP
+
+of 18 May 2010
+
+on the European Union Police Mission in Afghanistan (EUPOL AFGHANISTAN)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union and, in particular, Article 28 and Article 43(2) thereof,
+
+Whereas:
+
+(1)
+
+On 30 May 2007 the Council adopted Joint Action 2007/369/CFSP[^f00001] establishing the European Union Police Mission in Afghanistan (EUPOL AFGHANISTAN). That Joint Action expires on 30 May 2010.
+
+(2)
+
+On 8 March 2010, the Political and Security Committee (PSC) recommended to extend EUPOL AFGHANISTAN for three years.
+
+(3)
+
+The command and control structure of EUPOL AFGHANISTAN should be without prejudice to the contractual responsibilities of the Head of Mission towards the European Commission for implementing the budget.
+
+(4)
+
+The watch-keeping capability should be activated for EUPOL AFGHANISTAN.
+
+(5)
+
+EUPOL AFGHANISTAN will be conducted in the context of a situation which may deteriorate and could harm the objectives of the common foreign and security policy as set out in Article 21 of the Treaty,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1. Mission[^c000001]
+
+1. The European Union police Mission in Afghanistan ( ‘ EUPOL AFGHANISTAN ’ or the ‘ Mission ’ ), established by Joint Action 2007/369/CFSP, shall be extended from 31 May 2010 until 15 September 2017 .
+
+2. Until 31 December 2016 , EUPOL AFGHANISTAN shall operate in accordance with the objectives set out in Article 2 and carry out the tasks as set out in Article 3.
+
+3. As from 1 January 2017 , EUPOL AFGHANISTAN shall carry out the liquidation of the Mission.
+
+## Article 2. Objectives[^c000002]
+
+EUPOL AFGHANISTAN shall support Afghan authorities in the further development towards an effective and accountable civilian police service that has developed efficient interactions with the wider justice sector and respect for human rights, including the rights of women. EUPOL AFGHANISTAN shall work on a gradual and sustainable transition, safeguarding achievements already made.
+
+## Article 3. Tasks
+
+1.[^c000003] In order to fulfil the objectives set out in Article 2, EUPOL AFGHANISTAN shall:
+
+- (a) assist the Government of Afghanistan in advancing the institutional reform of the Ministry of the Interior and in developing and coherently implementing policies and a strategy towards sustainable and effective civilian policing arrangements including gender mainstreaming, especially with regard to the Afghan Uniform (Civilian) Police and the Afghan Anti-Crime Police;
+- (b) assist the Government of Afghanistan in further professionalising the Afghan National Police (ANP), in particular by supporting the sustainable recruitment, retention and integration of female police officers, the development of training infrastructure and by enhancing Afghan abilities to develop and deliver training;
+- (c) support the Afghan authorities in further developing linkages between the police and the wider rule of law and ensure appropriate interaction with the wider criminal justice system;
+- (d) improve cohesion and coordination among international actors and further work on strategy development on police reform, especially through the International Police Coordination Board (IPCB), in close coordination with the international community and through continued cooperation with key partners, including with the NATO-led Resolute Support Mission and other contributors.
+
+These tasks shall be further developed in the Operational Plan (OPLAN). The Mission shall carry out its tasks through, amongst other means, monitoring, mentoring, advising and training.
+
+2. EUPOL AFGHANISTAN shall be a non-executive Mission.
+
+3.[^c000004] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 4. Structure of the Mission
+
+1. EUPOL AFGHANISTAN shall have its Headquarters in Kabul.
+
+2. EUPOL AFGHANISTAN shall be structured in accordance with its planning documents.
+
+## Article 5. Civilian Operation Commander
+
+1. The Civilian Planning and Conduct Capability (CPCC) Director shall be the Civilian Operation Commander for EUPOL AFGHANISTAN.
+
+2. The Civilian Operation Commander, under the political control and strategic direction of the PSC and the overall authority of the High Representative of the Union for Foreign Affairs and Security Policy (HR), shall exercise command and control of EUPOL AFGHANISTAN at the strategic level.
+
+3. The Civilian Operation Commander shall ensure proper and effective implementation of the Council’s decisions as well as the PSC’s decisions, including by issuing instructions at strategic level as required to the Head of Mission.
+
+4. All seconded staff shall remain under the full command of the national authorities of the sending State or EU institution. National authorities shall transfer Operational Control (OPCON) of their personnel, teams and units to the Civilian Operation Commander.
+
+5. The Civilian Operation Commander has overall responsibility for ensuring that the Union’s duty of care is properly discharged.
+
+6. The Civilian Operation Commander and the European Union Special Representative (EUSR) shall consult each other as required.
+
+## Article 6. Head of Mission
+
+1. The Head of Mission shall assume responsibility and exercise command and control of the Mission at theatre level.
+
+1a.[^c000005] The Head of Mission shall be the representative of EUPOL AFGHANISTAN in its area of responsibility. The Head of Mission may delegate management tasks relating to staff and financial matters to staff members of EUPOL Afghanistan under his overall responsibility.
+
+2. The Head of Mission shall exercise command and control over personnel, teams and units from contributing States as assigned by the Civilian Operation Commander together with administrative and logistic responsibility including over assets, resources and information put at the disposal of the Mission.
+
+3. The Head of Mission shall issue instructions to all Mission staff, including in this case the support element in Brussels, for the effective conduct of EUPOL AFGHANISTAN in theatre, assuming its coordination and day-to-day management, following the instructions at strategic level of the Civilian Operation Commander.
+
+4.[^c000004] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5. The Head of Mission shall be responsible for disciplinary control over the staff. For seconded staff, disciplinary action shall be exercised by the national or Union authority concerned.
+
+6. The Head of Mission shall represent EUPOL AFGHANISTAN in the operations area and shall ensure appropriate visibility of the Mission.
+
+7. The Head of Mission shall coordinate, as appropriate, with other EU actors on the ground. The Head of Mission shall, without prejudice to the chain of command, receive local political guidance from the EUSR.
+
+8. The Head of Mission shall ensure that EUPOL AFGHANISTAN works closely, coordinates and cooperates with the Government of Afghanistan and relevant international actors, as appropriate, including the NATO-led Resolute Support Mission, the United Nations Assistance Mission Afghanistan (UNAMA), and third States currently involved in police reform in Afghanistan.
+
+## Article 7. Staff
+
+1. Until 31 December 2016 , the numbers and competence of EUPOL AFGHANISTAN staff shall be consistent with the objectives set out in Article 2, the tasks set out in Article 3 and the structure of the Mission set out in Article 4. As from 1 January 2017 , the numbers and competence of EUPOL AFGHANISTAN staff shall be consistent with the aim to achieve the Mission's liquidation in a swift and orderly manner.
+
+2. EUPOL AFGHANISTAN shall consist primarily of staff seconded by Member States or EU institutions.
+
+3. Each Member State or EU institution shall bear the costs related to any of the staff seconded by it, including travel expenses to and from the place of deployment, salaries, medical coverage, and allowances, other than applicable per diems as well as hardship and risk allowances.
+
+4. International civilian staff and local staff may also be recruited by EUPOL AFGHANISTAN, as required, on a contractual basis, if the functions required are not provided by personnel seconded by Member States. Exceptionally, in duly justified cases, where no qualified applications from Member States are available, nationals from participating third States may be recruited on a contractual basis, as appropriate.
+
+5. All staff shall carry out their duties and act in the interest of the Mission. All staff shall respect the security principles and minimum standards established by Council Decision 2013/488/EU [^f00002] .
+
+## Article 8. Status of EUPOL AFGHANISTAN staff
+
+1. The status of EUPOL AFGHANISTAN staff in Afghanistan, including, where appropriate the privileges, immunities and further guarantees necessary for the completion and smooth functioning of EUPOL AFGHANISTAN shall be laid down in an agreement to be concluded in accordance with Article 37 of the Treaty.
+
+2. The State or EU institution having seconded a member of staff shall be responsible for answering any claims linked to the secondment, from or concerning the member of staff. The State or EU institution in question shall be responsible for bringing any action against the person seconded.
+
+3. The conditions of employment and the rights and obligations of international and local staff shall be laid down in the contracts to be concluded between EUPOL Afghanistan and the staff members concerned.
+
+## Article 9. Chain of Command
+
+1. EUPOL AFGHANISTAN shall have a unified chain of command, as a crisis management operation.
+
+2. Under the responsibility of the Council and of the HR, the PSC shall exercise political control and strategic direction of EUPOL AFGHANISTAN.
+
+3. The Civilian Operation Commander, under the political control and strategic direction of the PSC and the overall authority of the HR, is the commander of EUPOL AFGHANISTAN at strategic level and, as such, shall issue instructions to the Head of Mission and provide him with advice and technical support.
+
+4. The Civilian Operation Commander shall report to the Council through the HR.
+
+5. The Head of Mission shall exercise command and control of EUPOL AFGHANISTAN at theatre level and shall be directly responsible to the Civilian Operation Commander.
+
+## Article 10. Political control and strategic direction
+
+1. The PSC shall exercise, under the responsibility of the Council and of the HR, political control and strategic direction of the Mission. The Council hereby authorises the PSC to take the relevant decisions for this purpose in accordance with the third paragraph of Article 38 of the Treaty. This authorisation shall include the powers to appoint a Head of Mission, upon a proposal of the HR, and to amend the CONOPS and the OPLAN. The powers of decision with respect to the objectives and termination of the Mission shall remain vested in the Council.
+
+2. The PSC shall report to the Council at regular intervals.
+
+3. The PSC shall receive on a regular basis and as required reports by the Civilian Operation Commander and the Head of Mission on issues within their areas of responsibility.
+
+## Article 11. Security
+
+1. The Civilian Operation Commander shall direct the Head of Mission’s planning of security measures and ensure their proper and effective implementation for EUPOL AFGHANISTAN in accordance with Article 5.
+
+2. The Head of Mission shall be responsible for the security of the operation and for ensuring compliance with minimum security requirements applicable to the operation, in line with the policy of the Union on the security of personnel deployed outside the Union in an operational capacity under Title V of the Treaty, and its supporting documents.
+
+3. The Head of Mission shall be assisted by a Senior Mission Security Officer (SMSO), who shall report to the Head of Mission and also maintain a close functional relationship with the European External Action Service.
+
+4. The Head of Mission shall appoint Security Officers in the provincial and regional Mission locations, who, under the authority of the SMSO shall be responsible for the day-to-day management of all security aspects of the respective Mission elements.
+
+5. EUPOL AFGHANISTAN staff shall undergo mandatory security training before their entry into function, in accordance with the OPLAN. They shall also receive regular in-theatre refresher training organised by the SMSO.
+
+6. The Head of Mission shall ensure the protection of EU classified information in accordance with Decision 2013/488/EU.
+
+## Article 12. Participation of third States
+
+1. Without prejudice to the Union’s decision-making autonomy and its single institutional framework, candidate and other third States may be invited to contribute to EUPOL AFGHANISTAN on the basis that they bear the costs of sending the police experts and/or the civilian staff seconded by them, including salaries, allowances, medical coverage, high risk insurance and travel expenses to and from Afghanistan, and contribute to the running costs of EUPOL AFGHANISTAN as appropriate.
+
+2. The Council hereby authorises the PSC to take the relevant decisions on acceptance of the proposed contributions.
+
+3. Third States making contributions to EUPOL AFGHANISTAN shall have the same rights and obligations in terms of day-to-day management of the operation as Member States taking part in the operation.
+
+4. The PSC shall take appropriate action with regard to participation arrangements and shall, if required, submit a proposal to the Council, including on possible financial participation or contributions in-kind from third States.
+
+5. Detailed arrangements regarding the participation of third States shall be the subject of agreements pursuant to Article 37 of the Treaty and additional technical arrangements as necessary. Where the Union and a third State have concluded an agreement establishing a framework for the participation of this third State in the EU crisis management operations, the provisions of such agreement shall apply in the context of this operation.
+
+## Article 12b. Legal arrangements
+
+EUPOL AFGHANISTAN shall have the capacity to procure services and supplies, enter into contracts and administrative arrangements, employ staff, hold bank accounts, acquire and dispose of assets and discharge its liabilities, and to be a party to legal proceedings, as required in order to implement this Decision.
+
+## Article 13. Financial arrangements
+
+1. The financial reference amount intended to cover the expenditure related to EUPOL AFGHANISTAN for the period from 31 May 2010 to 31 July 2011 shall be EUR 54 600 000 .
+
+The financial reference amount intended to cover the expenditure related to EUPOL AFGHANISTAN for the period from 1 August 2011 to 31 July 2012 shall be EUR 60 500 000 .
+
+The financial reference amount intended to cover the expenditure related to EUPOL AFGHANISTAN for the period from 1 August 2012 to 31 May 2013 shall be EUR 56 870 000 .
+
+The financial reference amount intended to cover the expenditure related to EUPOL AFGHANISTAN for the period from 1 June 2013 to 31 December 2014 shall be EUR 108 050 000 .
+
+The financial reference amount intended to cover the expenditure related to EUPOL AFGHANISTAN for the period from 1 January 2015 to 31 December 2015 shall be EUR 57 750 000 .
+
+The financial reference amount intended to cover the expenditure related to EUPOL AFGHANISTAN for the period from 1 January 2017 to 15 September 2017 shall be EUR 11 600 000 .
+
+2. All expenditure shall be managed in accordance with the rules and procedures applicable to the general budget of the Union. Participation of natural and legal persons in the award of procurement contracts by EUPOL AFGHANISTAN shall be open without limitations. Moreover, no rule of origin for the goods purchased by EUPOL AFGHANISTAN shall apply. Subject to the Commission's approval, the Mission may conclude technical arrangements with Member States, the host State, participating third States and other international actors regarding the provision of equipment, services and premises to EUPOL AFGHANISTAN.
+
+3. EUPOL AFGHANISTAN shall be responsible for the implementation of the Mission's budget. For that purpose, EUPOL AFGHANISTAN shall sign an agreement with the Commission.
+
+4. Without prejudice to the provisions on the status of EUPOL AFGHANISTAN and its personnel, EUPOL AFGHANISTAN shall be responsible for any claims and obligations arising from the implementation of the mandate, starting from 1 January 2015 , with the exception of any claims relating to serious misconduct by the Head of Mission, for which the Head of Mission shall bear responsibility.
+
+5. The implementation of the financial arrangements shall be without prejudice to the chain of command as provided for in Articles 5, 6 and 9 and the operational requirements of EUPOL Afghanistan, including compatibility of equipment and interoperability of its teams.
+
+6. Expenditure shall be eligible from the date when the agreement referred to in paragraph 3 is signed.
+
+## Article 13a. Project Cell
+
+1. EUPOL AFGHANISTAN shall have a Project Cell for identifying and implementing projects. EUPOL AFGHANISTAN shall, as appropriate, facilitate and provide advice on projects, implemented by Member States and third States, under their responsibility in areas related to EUPOL AFGHANISTAN and in support of its objectives.
+
+2. Subject to paragraph 3, EUPOL AFGHANISTAN shall be authorised to seek recourse to financial contributions from Member States or third States to implement projects identified as supplementing in a consistent manner EUPOL AFGHANISTAN's other actions, if the projects are:
+
+- provided for in the financial statement relating to this Decision; or
+- integrated during the mandate by means of an amendment to the financial statement requested by the Head of Mission.
+
+EUPOL AFGHANISTAN shall conclude an arrangement with those States, covering in particular the specific procedures for dealing with any complaint from third parties concerning damage caused as a result of acts or omissions by EUPOL AFGHANISTAN in the use of the funds provided by those States. Under no circumstances may the contributing States hold the Union or the HR liable for acts or omissions by EUPOL AFGHANISTAN in the use of the funds provided by those States.
+
+3. Financial contributions from third States to the Project Cell shall be subject to acceptance by the PSC.
+
+## Article 14. Release of information
+
+1. The HR shall be authorised to release to NATO, or to the NATO-led Resolute Support Mission, EU classified information and documents generated for the purposes of the Mission, in accordance with Decision 2013/488/EU. Local technical arrangements shall be drawn up to facilitate this.
+
+2. The HR shall be authorised to release to third States associated with this Decision, as appropriate and in accordance with the needs of the Mission, EU classified information and documents up to the level ‘ CONFIDENTIEL UE ’ generated for the purposes of the Mission, in accordance with Decision 2013/488/EU.
+
+3. The HR shall be authorised to release to UNAMA, as appropriate and in accordance with the operational needs of the Mission, EU classified information and documents up to the level ‘ RESTREINT UE ’ generated for the purposes of the Mission, in accordance with Decision 2013/488/EU. Local arrangements shall be drawn up for that purpose.
+
+4. In the event of a specific and immediate operational need, the HR shall also be authorised to release to the host State EU classified information and documents up to the level ‘ RESTREINT UE ’ generated for the purposes of the Mission, in accordance with Decision 2013/488/EU. Arrangements between the HR and the competent authorities of the host State shall be drawn up for that purpose.
+
+5. The HR shall be authorised to release to third States associated with this Decision, EU non-classified documents related to the deliberations of the Council with regard to the Mission covered by the obligation of professional secrecy pursuant to Article 6(1) of the Council Rules of Procedure [^f00003] .
+
+6. The HR may delegate the powers referred to in paragraphs 1, 2, 3 and 5, as well as the ability to conclude the arrangements referred to in paragraph 4, to persons placed under his/her authority, to the Civilian Operations Commander and/or to the Head of Mission.
+
+## Article 15. Watch-Keeping
+
+The Watch-Keeping Capability shall be activated for EUPOL AFGHANISTAN.
+
+## Article 16. Review
+
+1. This Decision shall be reviewed every six months in order to adjust the Mission size and scope as necessary.
+
+2. This Decision shall be reviewed, no later than three months before its expiry, in order to determine whether the Mission should be continued.
+
+## Article 17. Entry into force and duration
+
+This Decision shall enter into force on the date of its adoption.
+
+It shall apply from 31 May 2010 until 15 September 2017 .
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 139, 31.5.2007, p. 33](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.139.01.0033.01.ENG).
+
+[^c000001]: Textual amendment: Substituted by [Council Decision (CFSP) 2016/2040 of 21 November 2016 amending Decision 2010/279/CFSP on the European Union Police Mission in Afghanistan (EUPOL AFGHANISTAN), providing for its liquidation](https://www.legislation.gov.uk/eudn/2016/2040).
+
+[^c000002]: Textual amendment: Substituted by [Council Decision 2014/922/CFSP of 17 December 2014 amending and extending Decision 2010/279/CFSP on the European Union Police Mission in Afghanistan (EUPOL AFGHANISTAN)](https://www.legislation.gov.uk/eudn/2014/922).
+
+[^c000003]: Textual amendment: Substituted by [Council Decision 2013/240/CFSP of 27 May 2013 amending Decision 2010/279/CFSP on the European Union Police Mission in Afghanistan (EUPOL AFGHANISTAN)](https://www.legislation.gov.uk/eudn/2013/240).
+
+[^c000004]: Textual amendment: Deleted by [Council Decision 2014/922/CFSP of 17 December 2014 amending and extending Decision 2010/279/CFSP on the European Union Police Mission in Afghanistan (EUPOL AFGHANISTAN)](https://www.legislation.gov.uk/eudn/2014/922).
+
+[^c000005]: Textual amendment: Inserted by [Council Decision 2014/922/CFSP of 17 December 2014 amending and extending Decision 2010/279/CFSP on the European Union Police Mission in Afghanistan (EUPOL AFGHANISTAN)](https://www.legislation.gov.uk/eudn/2014/922).
+
+[^f00002]: Footnote: Council Decision 2013/488/EU of[^c000002] 23 September 2013 on the security rules for protecting EU classified information ( [OJ L 274, 15.10.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.274.01.0001.01.ENG) ).
+
+[^f00003]: Footnote: Council Decision 2009/937/EU of[^c000003] 1 December 2009 adopting the Council’s Rules of Procedure ( [OJ L 325, 11.12.2009, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.325.01.0035.01.ENG) ).

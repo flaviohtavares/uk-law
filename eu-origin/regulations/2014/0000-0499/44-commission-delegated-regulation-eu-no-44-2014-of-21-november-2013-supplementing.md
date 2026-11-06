@@ -1,0 +1,5372 @@
+---
+title: Commission Delegated Regulation (EU) No 44/2014 of 21 November 2013 supplementing Regulation (EU) No 168/2013 of the European Parliament and of the Council with regard to the vehicle construction and general requirements for the approval of two- or three-wheel vehicles and quadricycles (Text with EEA relevance)
+id: eur/2014/44
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2013-11-21'
+text_date: '2018-03-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2014/44
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2014/44/pdfs/eur_20140044_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2014/44/pdfs/eur_20140044_2016-10-16_en.pdf
+- http://www.legislation.gov.uk/eur/2014/44/pdfs/eur_20140044_2018-03-20_en.pdf
+- http://www.legislation.gov.uk/eur/2014/44/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) No 44/2014 of 21 November 2013 supplementing Regulation (EU) No 168/2013 of the European Parliament and of the Council with regard to the vehicle construction and general requirements for the approval of two- or three-wheel vehicles and quadricycles (Text with EEA relevance)
+
+> Text as at 2018-03-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Delegated Regulation (EU) No 44/2014
+
+of 21 November 2013
+
+supplementing Regulation (EU) No 168/2013 of the European Parliament and of the Council with regard to the vehicle construction and general requirements for the approval of two- or three-wheel vehicles and quadricycles
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles[^f00001], and in particular Articles 18(3), 20(2), 21(5), 25(8), 33(6) and 57(12), and Article 65 thereto,
+
+Whereas:
+
+(1)
+
+The internal market comprises an area without internal frontiers in which the free movement of goods, persons, services and capital is ensured. To that end, comprehensive EU type-approval and a strengthened market surveillance system for L-category vehicles and its systems, components and separate technical units, as defined by Regulation (EU) No 168/2013, apply.
+
+(2)
+
+The term ‘L-category vehicles’ covers a wide range of light vehicle types with two, three or four wheels, e.g. powered cycles, two- and three-wheel mopeds, two- and three-wheel motorcycles, motorcycles with side-cars and four-wheel vehicles (quadricycles) such as on-road quads, all-terrain vehicles and quadrimobiles.
+
+(3)
+
+By Council Decision 97/836/EC[^f00002], the Union acceded to the Agreement of the United Nations Economic Commission for Europe concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions (‘Revised 1958 Agreement’).
+
+(4)
+
+Manufacturers apply for type approval for L category vehicles, their systems, components or separate technical units in accordance with Regulation (EU) No 168/2013. In the Union legislation most requirements on vehicle parts are taken over from the corresponding UNECE regulations. UNECE regulations are constantly amended in line with technological progress and the respective Union regulations have to be regularly updated accordingly. In order to avoid this duplication, the CARS 21 High Level Group recommended the replacement of several Union directives by way of the incorporation and compulsory application of the corresponding UNECE regulations in Union law, referred to in Annex I.
+
+(5)
+
+The possibility of applying UNECE regulations by virtue of Union legislation that provides for the incorporation of those UNECE regulations for the purpose of EU vehicle type-approval is provided for in Regulation (EU) No 168/2013. Under that Regulation, type-approval in accordance with UNECE regulations which apply on a compulsory basis is regarded as EU type-approval in accordance with that Regulation and its delegated and implementing acts.
+
+(6)
+
+UNECE regulation No 10 on electromagnetic compatibility (EMC) should be made obligatory and replace Chapter 8 of Directive 97/24/EC of the European Parliament and of the Council of 17 June 1997 on certain components and characteristics of two or three-wheel motor vehicles[^f00003] in order for vehicles to comply with only one set of EMC requirements, which are world-wide accepted by contracting parties to the 1958 Agreement. UNECE regulation No 62 on protection against unauthorised use should be made obligatory and replace Council Directive 93/33/EEC of 14 June 1993 on protective devices intended to prevent the unauthorized use of two- or three-wheel motor vehicles[^f00004] with the same objective of mutual recognition between contracting parties to the 1958 Agreement.
+
+(7)
+
+The compulsory application of UNECE regulations helps avoiding duplication not only of technical requirements but also of certification and administrative procedures. In addition, type-approval that is directly based on internationally agreed standards could improve market access in third countries, in particular those which are contracting parties to the Revised 1958 Agreement, and thus enhance the Union industry’s competitiveness.
+
+(8)
+
+Pursuant to the provisions of Regulation (EU) No 168/2013, the L-category vehicles, systems, components and separate technical units covered by that Regulation may not be placed or made available on the market or enter into service in the Member States unless they comply with the provisions of that Regulation.
+
+(9)
+
+Functional safety or environmental performance requirements call for restrictions on tampering with certain types of L-category vehicles. If they are not to prove an obstacle to owner servicing and maintenance, such restrictions should be strictly limited to tampering which significantly modifies the vehicle’s performance and pollutant emissions, noise emissions and vehicle functional safety in a harmful way. As harmful tampering affects both items, detailed requirements regarding powertrain and noise abatement tampering prevention requirements should be laid down in this delegated act on vehicle construction.
+
+(10)
+
+Subcategories L6e-A (light on-road quads), L7e-A (heavy on-road quads) and L7e-B (heavy terrain quads) are vehicles with a high centre of gravity in comparison to their width and wheelbase. They have a wide range of passenger/load carrying configurations and they may be operated in off-road conditions. Multiple lateral static stability criteria should be established and incorporated in Annex XI regarding masses and dimensions because of the importance of vehicle rollover stability in the off-road environment. Both tilt-table angle (TTA) and lateral-stability coefficient (Kst) are used as static stability indicators. Kst is a three-dimensional static measurement and serves as an indicator of level-terrain vehicle stability, whereas the TTA test simulates a vehicle operating on a side slope and tests the static longitudinal stability. The vehicle state for these static tests ranges from the operational but otherwise unloaded L6e-A, L7e-A and L7e-B vehicles to both loaded and unloaded conditions. In addition, the vehicle should be constructed by designing the masses and dimensions of the vehicle so as to respect minimum pitch stability. Associated testing should be is representative of a fully loaded vehicle directly ascending and descending a steep slope.
+
+(11)
+
+On-board diagnostics (‘OBD’) is essential for effective and efficient repair and maintenance of vehicles. Accurate diagnostics allows the repairer to identify fast which smallest exchangeable unit has to be repaired or replaced. In order to address the rapid technical developments in the area of propulsion control systems it is appropriate to review the list of devices monitored for electric circuit malfunctions in 2017. By 1 January 2018 it should be established whether identified if additional devices and malfunctions should be added to the list set out in Appendix 2 to Annex XII to provide sufficient time to the Member States, vehicle manufacturers, their suppliers and the repair industry to adapt before the entry into force of OBD stage II.
+
+(12)
+
+OBD stage I mandatory as of 2016 should not oblige manufacturers to change fuelling hardware and should not impose fitting of an electronic carburettor or electronic fuel injection, providing the vehicle complies with the requirements laid down in Regulation (EU) No 168/2013 and its delegated acts. Compliance with the OBD stage I requirements requires that if fuel delivery, spark delivery or intake air are electronically controlled, the applicable input and/or output circuits need to be monitored, limited to the items listed in Appendix 2 to Annex XII. If for example a motorcycle would be equipped with a mechanically actuated carburettor, but at the same time with electronically controlled spark delivery, the primary ignition coil circuits need to be monitored. In the case of a mechanical carburettor fitted with a throttle position sensor providing a circuit signal as input to the PCU/ECU to determine the engine load, which on its turn would be used to electronically control spark delivery, requires monitoring of that throttle position sensor circuit. Also other sensors and/or actuator circuits captured by points 3.3.5 and 3.3.6 of Annex XII will need to be monitored although not directly used to control fuel delivery, spark delivery or intake air. An example of such a case would be the wheel speed sensor circuits in case the vehicle speed would be calculated in the PCU/ECU from the wheel rotation speeds and which would subsequently be used to control the environmental performance of the motorcycle or would be used to trigger a torque limiting default mode.
+
+(13)
+
+Unrestricted access to vehicle repair information, via a standardised format which can be used to retrieve the technical information, and effective competition on the market for vehicle repair and maintenance information (‘RMI’) services are necessary to improve the functioning of the internal market, particularly as regards the free movement of goods, freedom of establishment and freedom to provide services. A great proportion of such information relates to on-board diagnostic (OBD) systems and their interaction with other vehicle systems. It is appropriate to lay down technical specifications that manufacturers’ websites should follow, along with targeted measures to ensure reasonable access for small and medium-sized enterprises (SMEs). Common standards agreed with the involvement of stakeholders can facilitate the exchange of information between manufacturers and service providers. It is therefore appropriate that manufacturers use the technical specifications of the OASIS format and that the Commission will request in due course the European Committee for Standardisation (‘CEN’) and the International Organization for Standardization (‘ISO’) to develop this format into a standard with a view to replacing the OASIS format.
+
+(14)
+
+In order to further pursue the harmonised approach for access to RMI in all sectors of type-approval legislation taken in Chapter XV of Regulation (EU) No 168/2013 the provisions of which follow Regulations (EC) No 595/2009[^f00005] and (EC) No 715/2007[^f00006] of the European Parliament and of the Council, it is appropriate to carry over to this Regulation the provisions on access to repair and maintenance information set out in the implementing regulation to Regulations (EC) No 595/2009 and (EC) No 715/2007, namely Commission Regulation (EU) No 582/2011[^f00007] and adapt them to the specificities of the L-category vehicle sector.
+
+(15)
+
+In particular, it is appropriate to adopt specific procedures for access to vehicle repair and maintenance information in the case of multi-stage type-approval. It is also appropriate to adopt specific requirements and procedures for access to vehicle repair and maintenance information in the case of customer adaptations and small volume production.
+
+(16)
+
+In order to exclude that application of the provisions on access to repair and maintenance information imposes too much burden upon vehicle manufacturers in the short term with respect to certain systems which are carried over from old to new vehicle types, it is appropriate to introduce an exhaustive list of certain limited derogations from the general provisions on access to vehicle OBD and vehicle repair and maintenance information as exhaustively listed in this Regulation.
+
+(17)
+
+When examining the major policy areas which affect the competitiveness of the European automotive industry, the ‘CARS 21 High Level Group’ agreed on a number of recommendations aimed at enhancing the industry’s global competitiveness and employment while sustaining further progress in safety and environmental performance, which was published in a report by the Commission in 2006 entitled ‘CARS 21: A Competitive Automotive Regulatory System for the 21st century’. In the area of simplification, the High Level Group proposed, inter alia, two legislative measures, introducing the possibility of manufacturers conducting approval tests themselves, i.e. to be designated as a technical service (‘self-testing’), and the possibility of using computer simulations instead of physical tests (‘virtual testing’). This Regulation should therefore set out the detailed conditions with respect to virtual testing and self-testing as set out in Articles 32, 64 and 65 of Regulation (EU) No 168/2013.
+
+(18)
+
+Computer-aided techniques, in particular Computer- Aided-Design, are used widely throughout the engineering process from conceptual design and layout of components and equipment, through strength and dynamic analysis of assemblies to definition of manufacturing methods. Available software makes possible the use of virtual testing methods based on such techniques, the introduction of which was identified by the ‘CARS 21 High Level Group’ as a means of reducing manufacturers’ costs by no longer obliging them to build prototypes for the purposes of type-approval. Manufacturers not wishing to take advantage of virtual testing methods should be allowed to continue to use the existing physical test methods.
+
+(19)
+
+Type-approval tests are conducted by technical services duly notified to the Commission by the type-approval authorities of the Member States after their skills and competence have been assessed under the relevant international standards. Those standards contain the necessary requirements to allow a manufacturer or a subcontracting party acting on his behalf to be designated as a technical service by the approval authority within the meaning of Directive 2002/24/EC of the European Parliament and of the Council[^f00008] (the Framework Directive). However, in order to prevent potential conflicts of interest, the responsibilities of the manufacturers should be specified. In addition, the conditions under which a manufacturer may subcontract tests should be clarified.
+
+(20)
+
+One of the main features of the EU type-approval system is the high level of confidence which should exist between the approval authority and the technical services it has appointed. It is therefore important to ensure that the information exchange between technical services and approval authority is marked by transparency and clarity.
+
+(21)
+
+A virtual testing method should provide for the same level of confidence in the results as a physical test. Therefore, it is appropriate to lay down relevant conditions to ensure that the manufacturer acting as in-house technical service, a subcontracting party acting on behalf of the manufacturer or the technical service can properly validate the mathematical models used.
+
+(22)
+
+Checks on the conformity of vehicles, components or separate technical units throughout the production process are an essential part of the EU type-approval process. These conformity checks are carried out through conducting physical tests on vehicles, components or separate technical units taken from the production line. Virtual methods should not be permissible for the purposes of conformity of production testing, even if they have been used for type-approval purposes.
+
+(23)
+
+This Regulation should apply from the date of application of Regulation (EU) No 168/2013,
+
+HAS ADOPTED THIS REGULATION:
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1. Subject matter
+
+1. This Regulation establishes the detailed technical requirements and test procedures regarding vehicle construction and general requirements for the approval of L-category vehicles and the systems, components and separate technical units intended for such vehicles in accordance with Regulation (EU) No 168/2013 and sets out a list of UNECE regulations and amendments thereto.
+
+2. It also establishes performance standards for technical services and the procedure for their assessment.
+
+### Article 2. Definitions
+
+The definitions of Regulation (EU) No 168/2013 shall apply. In addition, the following definitions shall apply:
+
+- ((1)) ‘anti-tampering measures’ means a series of technical requirements and specifications the aim of which is to prevent, as far as possible, unauthorised modifications of the vehicle's powertrain which may prejudice functional safety, in particular by increasing vehicle performance, and damage the environment, and are not permitted by Annex II;
+- ((2)) ‘inlet conduit’ means the combination of the inlet passage and the intake pipe;
+- ((3)) ‘inlet passage’ means the passage for the intake of air within the cylinder, cylinder-head or crankcase;
+- ((4)) ‘intake pipe’ means a part connecting the carburettor or air-control system and the cylinder, cylinder-head or crankcase;
+- ((5)) ‘intake system’ means the combination of the inlet conduit and the intake silencer;
+- ((6)) ‘exhaust system’ means the combination of the exhaust pipe, the expansion box, the exhaust silencer and pollution control device(s);
+- ((7)) ‘special tools’ means tools in conjunction with anti-tampering devices which are made available only to distributors authorised by the vehicle manufacturer and are not available to the general public;
+- ((8)) ‘spark delivery of the ignition system’ means all the characteristics of the spark generated in the ignition system of a positive ignition ‘(PI)’ engine used to ignite the air-fuel mixture, such including timing, level and positioning;
+- ((9)) ‘fuel feed system’ means the set of components including and between fuel storage and air-fuel blending or injecting device(s);
+- ((10)) ‘conformity of production’ (CoP) means the ability to ensure that each series of products produced is in conformity with the specification, performance and marking requirements in the type-approval;
+- ((11)) ‘quality management system’ means a set of interrelated or interacting elements that organisations use to direct and control how quality policies are implemented and quality objectives are achieved;
+- ((12)) ‘audit’ means an evidence-gathering process used to evaluate how well audit criteria are being applied targeting to be objective, impartial and independent, and handled in a systematic and documented audit process;
+- ((13)) ‘corrective actions’ means a problem-solving process in the quality management process with subsequent steps taken to remove the causes of a nonconformity or undesirable situation and designed to prevent their recurrence;
+- ((14)) ‘certification’ means an attestation by a national accreditation body that an organisation meets the requirements set by harmonised standards and, where applicable, any additional requirements, including those set out in relevant sectorial schemes, for carrying out a specific conformity assessment activity;
+- ((15)) ‘coupling device for L-category vehicle’ means all parts and devices fitted to the frames, load-bearing parts of the bodywork and chassis of the vehicles by means of which towing and towed vehicles are connected together, including fixed or detachable parts for attaching, adjusting or operating the coupling devices;
+- ((16)) ‘coupling ball and towing bracket’ means a coupling device employing a spherical device and a bracket fitted on the L-category vehicle for connecting to the trailer by means of a coupling head;
+- ((17)) ‘coupling head’ means a mechanical coupling device on the drawbar of trailers for connecting to a coupling ball on the L-category vehicle;
+- ((18)) ‘coupling point’ means the centre of engagement of the coupling fitted to a towed vehicle within the coupling fitted to a towing vehicle;
+- ((19)) ‘secondary coupling’ means a connecting device capable in the event of separation of the main coupling, to ensure that the trailer remains connected to the towing vehicle and that there is some residual steering action;
+- ((20)) ‘plate edge’ means the outline of a plate which would have a total of four clearly identifiable edges if its shape were flat and rectangular and of an overall material thickness not exceeding 10 mm;
+- ((21)) ‘stem’ means any projection or part which appears to have a round or virtually round shape, including bolt and screw heads, with a relatively constant overall diameter and which has a free end that can be contacted;
+- ((22)) ‘mesh size’ means the number of openings per (linear) inch of mesh;
+- ((23)) ‘load platform’ means a platform attached to the structure of the L-category vehicle for the carriage of load;
+- ((24)) ‘standard equipment’ means the basic configuration of a vehicle equipped with all the features required under the regulatory acts referred to in Annex II to Regulation (EU) No 168/2013, including all features that are fitted without giving rise to any further specifications on configuration or equipment level;
+- ((25)) ‘optional equipment’ means features that are not included in the standard equipment and may be fitted to a vehicle under the responsibility of the manufacturer;
+- ((26)) ‘mass of the optional equipment’ means the mass of the equipment which may be fitted to the vehicle in addition to the standard equipment, in accordance with the manufacturer’s specifications;
+- ((27)) ‘mass of the coupling’ means the mass of the coupling device and the parts necessary for attaching the coupling to the vehicle;
+- ((28)) ‘technically permissible maximum mass at the coupling point’ means the mass, corresponding to the maximum permissible static vertical load on the coupling point (‘S’ or ‘U’ value), of a towing vehicle, on the basis of the construction features of the coupling and the towing vehicle;
+- ((29)) ‘actual mass’ in relation to a vehicle means the mass in running order as referred to in Article 5 of Regulation (EU) No 168/2013, plus the mass of the driver (75 kg), plus the mass of the alternative propellant storage if applicable and plus the mass of optional equipment fitted to an individual vehicle;
+- ((30)) ‘technically permissible maximum laden mass’ (M) means the maximum mass allocated to a vehicle on the basis of its construction features and design performances;
+- ((31)) ‘technically permissible maximum towable mass’ (TM) means the maximum mass capable of being towed by a towing vehicle;
+- ((32)) ‘axle’ means the common axis of rotation of two or more wheels whether power driven or freely rotating, and whether in one or more segments located in the same plane perpendicular to the longitudinal centre-line of the vehicle;
+- ((33)) ‘technically permissible maximum mass on the axle’ means the mass corresponding to the maximum permissible static vertical load transmitted to the ground by the wheels of the axle, on the basis of the construction features of the axle and the vehicle and their design performances;
+- ((34)) ‘pay-mass’ means the difference between the technically permissible maximum laden mass and the actual mass of the vehicle;
+- ((35)) ‘longitudinal plane’ means a vertical plane running parallel to the straight-ahead direction of travel of the vehicle;
+- ((36)) ‘emission control system’ means the electronic engine management controller and any emission-related component in the exhaust or evaporative system which supplies an input to or receives an output from this controller;
+- ((37)) ‘malfunction indicator’ (‘MI’) means a visible or audible indicator that clearly informs the driver of the vehicle in the event of malfunctions as referred to in Article 21 of Regulation (EU) No 168/2013;
+- ((38)) ‘malfunction’ means the failure of a component or system that would result in emissions exceeding the OBD thresholds laid down in Section (B) of Annex VI to Regulation (EU) No 168/2013, or the triggering of any operating mode which significantly reduces engine torque, or the OBD system being unable to fulfil the basic monitoring requirements of Annex XII;
+- ((39)) ‘secondary air’ means air introduced into the exhaust system by means of a pump or aspirator valve or other means intended to aid in the oxidation of HC and CO contained in the exhaust gas flow;
+- ((40)) ‘engine misfire’ means a lack of combustion in the cylinder of a positive-ignition engine due to the absence of spark, poor fuel metering, poor compression or any other cause;
+- ((41)) ‘type I test’ means the applicable driving cycle used for emission approvals;
+- ((42)) ‘[^c000001] driving cycle ’ means a test cycle consisting of engine key-on, driving mode where a malfunction would be detected if present, and engine key-off;
+- ((43)) ‘warm-up cycle’ means vehicle operation whereby the coolant temperature rises by at least 22 K from engine start-up to at least 343,2 K (70 °C);
+- ((44)) ‘fuel trim’ refers to feedback adjustments to the base fuel schedule;
+- ((45)) ‘short-term fuel trim’ refers to dynamic or instantaneous adjustments to the base fuel schedule;
+- ((46)) ‘long-term fuel trim’ refers to much more gradual adjustments to the fuel calibration schedule which compensate for vehicle differences and gradual changes that occur over time;
+- ((47)) ‘calculated load value’ means referring to an indication of the current airflow divided by peak airflow, where peak airflow is corrected for altitude, if available. This definition provides a dimensionless number that is not engine-specific and provides the service technician with an indication of the proportion of engine capacity being used (with wide open throttle as 100 %);
+- ((48)) ‘permanent emission default mode’ refers to a case where the engine management controller permanently switches to a setting that does not require an input from a failed component or system where such a failed component or system would result in increasing emissions from the vehicle exceeding the limits set out in Section (B) of Annex VI to Regulation (EU) No 168/2013;
+- ((49)) ‘power take-off unit’ means an engine-driven output provision for the purposes of powering auxiliary, vehicle-mounted equipment;
+- ((50)) ‘access to OBD’ means the availability of all emission and safety critical related on-board diagnostic information including all fault codes required for the inspection, diagnosis, servicing or repair of environmental or functional-safety-related parts of the vehicle, via the serial interface for the standard diagnostic connection, pursuant to point 3.12 of Appendix 1 to Annex XII;
+- ((51)) ‘unrestricted access to the OBD system’ means:
+  - ((a)) access not dependent on an access code obtainable only from the manufacturer, or a similar device; or
+  - ((b)) access allowing evaluation of the data produced without the need for any unique decoding information, unless that information itself is standardised information;
+- ((52)) ‘standardised data’ means that all data stream information, including all fault codes used, is produced only in accordance with industry standards which, by virtue of the fact that their format and their permitted options are clearly defined, provide for a maximum level of harmonisation in the L-category vehicle industry, and the use of which is expressly permitted in this Regulation;
+- ((53)) ‘deficiency’ in respect of vehicle OBD systems, means a situation in which up to two separate components or systems that are monitored contain temporary or permanent operating characteristics that impair their otherwise efficient OBD monitoring or do not meet all other detailed requirements for OBD;
+- ((54)) ‘significant reduction of propulsion torque’ means a propulsion torque less than or equal to 90 % of torque in normal operation mode;
+- ((55)) ‘surface of patterned mesh’ means a surface consisting of a pattern of shapes, such as round, oval, diamond, rectangular or square holes, spread evenly at intervals not exceeding 15 mm;
+- ((56)) ‘surface of grille’ means a surface consisting of parallel bars spread evenly and not more than 15 mm apart;
+- ((57)) ‘nominal surface’ means a theoretical geometrically perfect surface without taking into account surface irregularities such as protrusions or indentations;
+- ((58)) ‘inclination’ means the degree of angular deviation in relation to a vertical plane;
+- ((59)) ‘customer adaptation’ means any change to a vehicle, system, component or separate technical unit made at the request of a customer and subject to approval;
+- ((60)) ‘carry-over system’ means a system, as defined in Article 3(15) of Regulation (EU) No 168/2013, carried over from an old type of vehicle to a new type of vehicle;
+- ((61)) ‘stand’ means a device firmly attached to the vehicle and able to maintain the fully unattended vehicle in its intended parking position;
+- ((62)) ‘prop stand’ means a stand which, when extended or swung into the position of use, supports the vehicle on one side only, leaving both wheels in contact with the ground;
+- ((63)) ‘centre stand’ means a stand which, when swung into the position of use, supports the vehicle by providing one or more areas of contact between the vehicle and the ground on both sides of the longitudinal median plane of the vehicle;
+- ((64)) ‘transverse tilt’ means the sideways gradient, expressed as a percentage, of the actual supporting surface where the line formed by the intersection of the longitudinal median plane of the vehicle and the supporting surface is perpendicular to the line of maximum gradient;
+- ((65)) ‘longitudinal tilt’ means the fore and aft gradient, expressed as a percentage, of the actual supporting surface where the longitudinal median plane of the vehicle is parallel to, and thus in line with, the line of maximum gradient;
+- ((66)) ‘in-use position’ of a stand refers to a stand being extended or opened and put in the intended position for parking;
+- ((67)) ‘not-in-use position’ of a stand refers to a stand being retracted or closed and kept in the position for travelling.
+
+## CHAPTER II — OBLIGATIONS OF MANUFACTURERS REGARDING VEHICLE CONSTRUCTION
+
+### Article 3. Fitting and demonstration requirements related to vehicle construction
+
+1. In order to comply with the vehicle construction requirements as laid down in Article 18 of, and Annex II to, Regulation (EU) No 168/2013, manufacturers shall equip L-category vehicles with systems, components and separate technical units affecting functional safety and environmental protection that are designed, constructed and assembled so as to enable the vehicle in normal use and maintained according to the prescriptions of the manufacturer to comply with the detailed technical requirements and testing procedures.
+
+2. In accordance with Articles 6 to 20 manufacturers shall demonstrate by means of physical demonstration testing to the approval authority that the L-category vehicles made available on the market, registered or entering into service in the Union comply with the vehicle construction requirements of Chapter III of Regulation (EU) No 168/2013 and comply with the detailed technical requirements and test procedures laid down in Articles 6 to 20 of this Regulation.
+
+3. Manufacturers of parts and equipment[^c000003][^c000002] shall ensure that spare parts and equipment that are made available on the market or are entering into service in the Union comply with the relevant requirements of Regulation (EU) No 168/2013, as specified by the detailed technical requirements and test procedures referred to in this Regulation. An approved L-category vehicle equipped with such a spare part or equipment shall meet the same test requirements and performance limit values as a vehicle equipped with an original part or equipment satisfying endurance requirements up to and including those set out in Article 22(2) and Articles 23 and 24 of Regulation (EU) No 168/2013.
+
+4. Manufacturers shall also ensure that type-approval procedures for verifying conformity of production are followed with regard to the detailed vehicle construction requirements laid down in Article 33 of Regulation (EU) No 168/2013 and the detailed technical requirements in this Regulation.
+
+5. Where applicable, the manufacturers shall submit to the approval authority a description of the measures taken to prevent tampering with the powertrain management system including the emission and functional safety control computers.
+
+### Article 4. Application of UNECE regulations
+
+1. The UNECE regulations and amendments thereto set out in Annex I to this Regulation shall apply to type approval.
+
+2. Vehicles with a maximum design vehicle speed lower than or equal to 25 km/h shall meet all the relevant requirements of UNECE regulations applying to vehicles with a maximum vehicle design speed higher than 25 km/h.
+
+3. References to vehicle categories L<sub>1</sub>, L<sub>2</sub>, L<sub>3</sub>, L<sub>4</sub>, L<sub>5</sub>, L<sub>6</sub> and L<sub>7</sub> in the UNECE regulations shall be understood as references to vehicle categories L1e, L2e, L3e, L4e, L5e, L6e and L7e respectively under this Regulation, including any subcategories.
+
+### Article 5. Technical specifications on vehicle construction requirements and test procedures
+
+1. The vehicle construction test procedures shall be performed in accordance with the test requirements laid down in this Regulation.
+
+2. The test procedures shall be carried out or witnessed by the approval authority or, if authorised by the approval authority, by the technical service.
+
+3. The measurement methods and test results shall be reported to the approval authority in the test report format laid down pursuant to Article 32(1) of Regulation (EU) No 168/2013.
+
+### Article 6. Requirements applying to powertrain tampering prevention (anti-tampering) measures
+
+The test procedures and requirements applying to powertrain tampering prevention (anti-tampering) measures referred to in Annex II(C1) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex II to this Regulation.
+
+### Article 7. Requirements applying to the arrangements for type-approval procedures
+
+The test procedures and requirements applying to arrangements for type-approval referred to in Annex II(C2) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex III to this Regulation.
+
+### Article 8. Requirements applying to conformity of production (CoP)
+
+The test procedures and requirements applying to conformity of production (CoP) referred to in Annex II(C3) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex IV to this Regulation.
+
+### Article 9. Requirements applying to coupling devices and attachments
+
+The test procedures and requirements applying to coupling devices and attachments referred to in Annex II(C4) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex V to this Regulation.
+
+### Article 10. Requirements applying to devices to prevent unauthorised use
+
+The test procedures and requirements applying to devices to prevent unauthorised use referred to in Annex II(C5) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex VI to this Regulation.
+
+### Article 11. Requirements applying to electromagnetic compatibility (EMC)
+
+The test procedures and requirements applying to electromagnetic compatibility (EMC) referred to in Annex II(C6) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex VII to this Regulation.
+
+### Article 12. Requirements applying to external projections
+
+The test procedures and requirements applying to external projections referred to in Annex II(C7) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex VIII to this Regulation.
+
+### Article 13. Requirements applying to fuel storage
+
+The test procedures and requirements applying to fuel storage referred to in Annex II(C8) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex IX to this Regulation.
+
+### Article 14. Requirements applying to load platforms
+
+The test procedures and requirements applying to load platforms referred to in Annex II(C9) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex X to this Regulation.
+
+### Article 15. Requirements applying to masses and dimensions
+
+The test procedures and requirements applying to masses and dimensions referred to in Annex II(C10) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex XI to this Regulation.
+
+### Article 16. Requirements applying to the functional on-board diagnostics
+
+The test procedures and requirements applying to functional on-board diagnostics referred to in Annex II(C11) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex XII to this Regulation.
+
+### Article 17. Requirements applying to passenger handholds and footrests
+
+The test procedures and requirements applying to passenger handholds and footrests referred to in Annex II(C12) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex XIII to this Regulation.
+
+### Article 18. Requirements applying to the registration plate space
+
+The test procedures and requirements applying to the registration plate space referred to in Annex II(C13) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex XIV to this Regulation.
+
+### Article 19. Requirements applying to access to repair and maintenance information
+
+The test procedures and requirements applying to access to repair and maintenance information referred to in Annex II(C14) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex XV to this Regulation.
+
+### Article 20. Requirements applying to stands
+
+The test procedures and requirements applying to stands referred to in Annex II(C15) to Regulation (EU) No 168/2013 shall be conducted and verified in accordance with Annex XVI to this Regulation.
+
+## CHAPTER III — OBLIGATIONS AND REQUIREMENTS RELATING TO TECHNICAL SERVICES
+
+### Article 21. Performance standards and assessment of technical services
+
+Technical services have to comply with the performance standards and the procedure for their assessment referred to in Annex II(C16) to Regulation (EU) No 168/2013, which shall be verified in accordance with Annex XVII to this Regulation.
+
+### Article 22. Permissibility of self-testing
+
+With respect to the Self-testing by in-house technical services referred to in Article 64(1) of Regulation (EU) No 168/2013, such tests shall only be conducted where permitted in Annex III to this Regulation.
+
+## CHAPTER IV — OBLIGATIONS OF THE MEMBER STATES
+
+### Article 23. Type-approval of vehicles, systems, components and separate technical units
+
+In accordance with Articles 18, 25 and 33 of Regulation (EU) No 168/2013 and with effect from the dates laid down in Annex IV to Regulation (EU) No 168/2013, national authorities shall, as regards new vehicles not complying with Regulation (EU) No 168/2013 and this Regulation, consider certificates of conformity to be no longer valid for the purposes of Article 43(1) of Regulation (EU) No 168/2013 and shall, on grounds relating to emissions, fuel or energy consumption, or the applicable functional safety or vehicle construction requirements, prohibit the making available on the market, registration or entry into service of such vehicles.
+
+## CHAPTER V — FINAL PROVISIONS
+
+### Article 24. Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 1 January 2016.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+LIST OF ANNEXES
+
+<table>
+<tbody>
+<tr><th>Annex number</th><th>Annex title</th></tr>
+<tr><th colspan="3"><strong>C1</strong> <strong>Vehicle construction and general type-approval requirements</strong></th></tr>
+<tr><td>I</td><td>List of UNECE regulations which apply on a compulsory basis</td></tr>
+<tr><td>II</td><td>Requirements applying to powertrain tampering prevention (anti-tampering) measures</td></tr>
+<tr><td>III</td><td>Requirements applying to arrangements for type-approval procedures</td></tr>
+<tr><td>IV</td><td>Requirements applying to conformity of production (CoP)</td></tr>
+<tr><td>V</td><td>Requirements applying to coupling devices and attachments</td></tr>
+<tr><td>VI</td><td>Requirements applying to devices to prevent unauthorised use</td></tr>
+<tr><td>VII</td><td>Requirements applying to electromagnetic compatibility (EMC)</td></tr>
+<tr><td>VIII</td><td>Requirements applying to external projections</td></tr>
+<tr><td>IX</td><td>Requirements applying to fuel storage</td></tr>
+<tr><td>X</td><td>Requirements applying to load platforms</td></tr>
+<tr><td>XI</td><td>Requirements applying to masses and dimensions</td></tr>
+<tr><td>XII</td><td>Requirements applying to functional on-board diagnostics (OBD)</td></tr>
+<tr><td>XIII</td><td>Requirements applying to passenger handholds and footrests</td></tr>
+<tr><td>XIV</td><td>Requirements applying to the registration plate space</td></tr>
+<tr><td>XV</td><td>Requirements applying to access to repair and maintenance information</td></tr>
+<tr><td>XVI</td><td>Requirements applying to stands</td></tr>
+<tr><th colspan="3"><strong>C2</strong> <strong>Requirements of technical services</strong></th></tr>
+<tr><td>XVII</td><td>Performance standards and assessment of technical services</td></tr>
+</tbody>
+</table>
+
+ANNEX I
+
+**List of UNECE regulations which apply on a compulsory basis**
+
+| UNECE regulation No | Subject | Series of amendments | OJ reference | Applicability |
+| --- | --- | --- | --- | --- |
+| 10 | Electromagnetic compatibility (EMC) | Supplement 1 to the 04 series of amendments | [OJ L 254, 20.9.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.254.01.0001.01.ENG) . | L1e, L2e, L3e, L4e, L5e, L6e and L7e |
+| 62 | Protection against unauthorised use | Supplement 2 to the 00 series of amendments | [OJ L 89, 27.3.2013, p. 37](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.089.01.0037.01.ENG) . | L1e, L2e, L3e, L4e, L5e, L6e and L7e |
+
+*Explanatory note:*
+
+The fact that a component is included in this list does not make its installation mandatory. For certain components, however, mandatory installation requirements are laid down in other annexes to this Regulation.
+
+ANNEX II
+
+**Requirements applying to powertrain tampering prevention measures (anti-tampering)**
+
+1\.
+
+**Purpose and scope**
+
+1.1.
+
+The powertrain tampering prevention (anti-tampering) measures are aimed at ensuring that adverse changes to the vehicle's powertrain which have negative impacts on functional safety and/or on the environment are discouraged.
+
+1.2.
+
+The measures shall include special requirements on vehicle markings as regards maximum power, maximum design vehicle speed and stationary sound level on the statutory plate referred to in Article 39(1) of Regulation (EU) No 168/2013. The special marking of original and non-original components, separate technical units, parts and equipment affecting environmental and propulsion unit performance and functional safety shall comply with Article 39(2) and (3) of Regulation (EU) No 168/2013 in order to allow enforcement authorities to verify whether parts and equipment fitted to a vehicle in use are appropriate for the type-approved vehicle.
+
+1.3.
+
+Scope
+
+All L-category vehicles referred to in Article 2 of Regulation (EU) No 168/2013, with the exception of (sub)categories L3e-A3, L4e-A3 and L5e.
+
+2\.
+
+**General requirements**
+
+2.1.
+
+The manufacturer shall ensure that the approval authority and technical service is provided with the necessary information and, where appropriate, the necessary vehicles, propulsions, components and separate technical units to enable them to verify that the requirements of this Annex have been met.
+
+2.2.
+
+The manufacturer shall declare in the application for the type-approval its commitment not to market interchangeable components which could enable an increase in propulsion unit performance applicable to the relevant (sub)category.
+
+2.3.
+
+Interchangeability of non-identical parts between type-approved vehicles:
+
+2.3.1.
+
+The interchangeability of the following parts in an individual or combined way, shall not result in an increase of the propulsion unit performance exceeding the values measured and reported at type-approval meaning that in any case the maximum design vehicle speed and/or the maximum continuous rated and/or net engine power of the relevant category shall remain within the conformity of production boundaries set out in point 4.1.4 of Annex IV:
+
+- for vehicles equipped with a two-stroke engine: cylinder, piston, carburettor or fuel injector(s), intake pipe, exhaust system;
+- for vehicles equipped with a four-stroke engine: cylinder head, camshaft, cylinder, piston, carburettor or fuel injector(s), intake pipe, exhaust system.
+
+2.4.
+
+In no case may the approved maximum design vehicle speed and/or the maximum continuous rated and/or net engine power of the relevant (sub)category, set out in Annex I to Regulation (EU) No 168/2013 may, be exceeded meaning that in any case the vehicle’s propulsion unit performance shall remain within the conformity of production boundaries set out in point 4.1.4 of Annex IV.
+
+2.5.
+
+In the case of chains or cogged belts, the number of teeth shall be displayed on the pinions.
+
+2.6.
+
+The manufacturer shall declare that manufacturer-facilitated modifications of the following characteristics will not increase the propulsion unit performance exceeding the conformity of production boundaries set out in point 4.1.4 of Annex IV: spark delivery of the ignition system if applicable, fuel feed and delivery system, air intake system including air filter(s) (modification or removal), propulsion battery configuration or electric power to the electric motor(s) if applicable, the drive train and the control unit(s) that control the powertrain of the vehicle.
+
+2.7.
+
+If the ignition timing is adjustable, the propulsion unit performance shall be measured with the ignition advance set within ± 5° of the value at which maximum engine power is achieved.
+
+2.8.
+
+The manufacturer shall ensure that the approved vehicle complies with the following provisions on electronic system security limiting the vehicle’s environmental and propulsion unit performance.
+
+2.8.1.
+
+For a vehicle equipped with (an) electrical/electronic device(s) which limit its propulsion unit performance, the vehicle manufacturer shall provide data and evidence to the test authorities to demonstrate that modification or disconnection of the device or its wiring system will not increase performance.
+
+2.8.2.
+
+Any vehicle equipped with electronic control shall include features to prevent modification, except as permitted by the manufacturer. The manufacturer shall permit modifications necessary for the diagnosis, servicing, inspection, retrofitting or repair of the vehicle.
+
+2.8.3.
+
+Any reprogrammable computer codes or operating parameter shall be resistant to tampering and afford a level of protection at least as high as the provisions in ISO 15031-7:2001, provided that the security exchange is conducted using the communication protocols and standardised diagnostic connector prescribed in Appendix 1 to Annex XII.
+
+2.8.4.
+
+To avoid increases in propulsion unit performance, computer-coded propulsion operating parameters shall not be changeable without the use of specialised tools and procedures, e.g. soldered or potted computer components, sealed or soldered computer enclosures.
+
+2.8.5.
+
+Any removable calibration memory chips shall be potted, encased in a sealed container or protected by electronic algorithms, and shall not be changeable without the use of specialised tools and procedures.
+
+2.8.6.
+
+Manufacturers using programmable computer code systems (e.g. electrical erasable programmable read-only memory, EEPROM) shall deter unauthorised reprogramming. They shall include enhanced tamper-protection strategies and write-protect features requiring electronic access to an off-site computer maintained by the manufacturer and to which independent operators shall also have access using the protection afforded in Annex XV. Methods giving an adequate level of tamper protection, such as seed and key security access as per Keyword 2000 protocol, shall be approved by the approval authority.
+
+2.8.7.
+
+Stored on-board diagnostic trouble codes (DTCs) in the powertrain or engine control unit(s) shall not be erased by disconnection of the on board computer from the vehicle power supply or by disconnection or failure of the vehicle battery or ground.
+
+3\.
+
+**Additional specific requirements for (sub)category L1e, L2e and L6e vehicles**
+
+3.1.
+
+The acceptable tolerance for maximum vehicle speed and/or power limitation of category L1e, L2e and L6e vehicles shall be ± 5 % of the maximum design vehicle speed and/or net and/or continuous rated power classification criteria referred to in Annex I to Regulation (EU) No 168/2013.
+
+3.2.
+
+Requirements for category L1e, L2e and L6e vehicles equipped with a combustion engine
+
+3.2.1.
+
+Intake system
+
+3.2.1.1.
+
+Each intake pipe shall be fixed with shear-bolts or bolts removable only using special tools. A restricted section, indicated on the outside, shall be located inside the pipes; at that point the wall shall be less than 4 mm in thickness, or 5 mm if composed of a flexible material such as rubber.
+
+3.2.1.2.
+
+Any interference with the pipes aimed at modifying the restricted section shall lead to either the destruction of the pipes or complete and permanent malfunctioning of the engine until they are restored to their approved condition.
+
+3.2.1.3.
+
+A marking with indication of the vehicle (sub-) category as defined in Articles 2 and 4 of, and Annex I to, Regulation (EU) No 168/2013 shall be legible on the pipes.
+
+3.2.2.
+
+Engine
+
+3.2.2.1.
+
+If an engine is equipped with (a) reed valve(s), it (they) shall be fixed with shear-bolts which prevent reuse of its support or bolts removable only using special tools.
+
+3.2.2.2.
+
+After mounting, the maximum thickness of a cylinder-head gasket, if any, shall not exceed 1,3 mm.
+
+3.2.2.3.
+
+Piston for two-stroke engines.
+
+The piston, when in position at top dead centre, shall not cover the inlet port. This requirement does not apply to those parts of the transfer/scavenging port which coincide with the inlet port in the case of vehicles the engine of which is equipped with an induction system incorporating reed valve(s).
+
+3.2.2.4.
+
+For two-stroke engines, rotation of the piston through 180° shall not increase engine performance.
+
+3.2.2.5.[^c000004]
+
+For two-stroke engines, the maximum thickness of any gasket between the base of the cylinder and the crankcase, if any, may not exceed 0,5 mm, after mounting.
+
+3.2.3.
+
+Exhaust system
+
+3.2.3.1.
+
+No artificial restriction is permitted in the exhaust system. The valve guides of a four-stroke engine are not to be considered artificial restrictions.
+
+3.2.3.2.
+
+Removing the resonator tube, if installed, shall not result in an increase in propulsion unit performance.
+
+3.2.3.3.
+
+The part(s) of the exhaust system inside the silencer(s) which determine(s) the effective length of the exhaust pipe shall be affixed to the silencer(s) or expansion box(es) in such a way that it (they) cannot be removed.
+
+3.3.
+
+Continuous Variable Transmission (CVT)
+
+3.3.1.
+
+CVT Transmission covers, if available, shall be fixed by means of at a minimum 2 shear bolts or be disassembled only by using special tools.
+
+3.3.2.
+
+The CVT mechanism intended to limit the drive ratio by limitation of the effective distance between two discs shall be fully integrated in one or both discs in such a way that it is impossible to modify the effective distance beyond a limit that would result in an increase of the maximum vehicle speed of more than 10 % of this maximum permissible vehicle speed without destroying the disc system. If the manufacturer employs interchangeable spacer rings in the CVT to adjust the maximum vehicle speed, the complete removal of these rings shall not increase the maximum vehicle speed with more than 10 %.
+
+**No longer in force.**
+
+[^c000005]3.5.
+
+Continuous Variable Transmission (CVT)
+
+[^c000005]3.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]3.5.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4\.
+
+**Additional specific requirements for (sub-) categories L3e-A1 and L4e-A1**
+
+4.1.
+
+Subcategory L3e-A1 and L4e-A1 vehicles shall comply with the requirements of either points 4.2. to 4.2.3., or points 4.3., 4.3.1. and 4.3.2., or points 4.4., 4.4.1. and 4.4.2., and with points 4.5., 4.6. and 4.7. In addition, they shall comply the requirements of points 3.2.2.1., 3.2.2.3., 3.2.2.4., 3.2.2.5., 3.2.3.1. and 3.2.3.3.
+
+4.2.
+
+An irremovable sleeve must be located in the inlet conduit. If such a sleeve is located in the intake pipe, the latter shall be fixed to the engine block by means of shear-bolts or bolts removable only using special tools.
+
+4.2.1.
+
+The sleeve shall have a minimum hardness of 60 HRC. In the restricted section it shall not exceed 4 mm in thickness.
+
+4.2.2.
+
+Any interference with the sleeve aimed at removing or modifying it shall lead to either the destruction of the sleeve and its support or complete and permanent malfunctioning of the engine until it is restored to its approved condition.
+
+4.2.3.
+
+A marking with indication of the vehicle (sub-) category as defined in Articles 2 and 4 of, and Annex I to, Regulation (EU) No 168/2013 shall be legible on the surface of the sleeve or not far from it.
+
+[^c000005]4.2.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]4.2.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]4.2.6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]4.2.7.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]4.2.8.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]4.2.9.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]4.2.10.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]4.2.11.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]4.2.12.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4.3.
+
+Each intake pipe shall be fixed with shear-bolts or bolts removable only using special tools. A restricted section, indicated on the outside, shall be located inside the pipes; at that point the wall shall be less than 4 mm in thickness, or 5 mm if composed of a flexible material such as rubber.
+
+4.3.1.
+
+Any interference with the pipes aimed at modifying the restricted section shall lead to either the destruction of the pipes or complete and permanent malfunctioning of the engine until they are restored to their approved condition.
+
+4.3.2.
+
+A marking with indication of the vehicle (sub-) category as defined in Articles 2 and 4 of, and Annex I to, Regulation (EU) No 168/2013 shall be legible on the pipes.
+
+4.4.
+
+The part of the inlet conduit located in the cylinder head shall have a restricted section. In the whole inlet passage, there shall not be a more restricted section (except the valve-seat section).
+
+4.4.1.
+
+Any interference with the conduit aimed at modifying the restricted section shall lead to either the destruction of the pipe or complete and permanent malfunctioning of the engine until it is restored to its approved condition.
+
+4.4.2.
+
+A marking with indication of the vehicle category as defined in Articles 2 and 4 of, and Annex I to, Regulation (EU) No 168/2013 shall be legible on the cylinder head.
+
+4.5.
+
+The diameter of the restricted sections referred to in point 4.2. may vary according to the (sub-) category vehicle concerned.
+
+4.6.
+
+The manufacturer shall supply the diameter(s) of the restricted section(s) and demonstrate to the approval authority and technical service that this restricted section is the most critical for the passage of gases, and that there is no other section which, if modified, could increase propulsion unit performance.
+
+4.7.
+
+After mounting, the maximum thickness of a cylinder-head gasket shall not exceed 1,6 mm.
+
+5\.
+
+**Additional specific requirements for other (sub)categories of vehicle within the scope of point 1.3.**
+
+5.1.
+
+Any variant or version under the same type of vehicle of subcategory L3e-A2 or of subcategory L4e-A2 complying with the conversion requirements set out in point 4 of Annex III, shall not be derived from a L3e-A3 or L4e-A3 type, variant or version with a maximum net engine power and/or maximum continuous rated power more than twice the values set out in the classification of subcategories L3e-A2 or L4e-A2 in Annex I to Regulation (EU) No 168/2013 (e.g. 70 kW to 35 kW or lower, 50 kW to 35 kW or lower).
+
+5.2.
+
+The manufacturer shall declare that modifications and interchangeability of the characteristics and components listed below shall not lead to:
+
+- for vehicles of subcategory L3e-A2 and L4e-A2, exceeding the double of the net engine power or maximum continuous rated power, or
+- for vehicles of category L7e, exceeding the approved propulsion unit performance;
+
+5.2.1.
+
+spark delivery of the ignition system, if applicable;
+
+5.2.2.
+
+fuel feed and delivery system;
+
+5.2.3.
+
+air intake system including air filter(s) (modification or removal);
+
+5.2.4.
+
+the drive train;
+
+5.2.5.
+
+the control unit(s) that control(s) the propulsion unit performance of the powertrain;
+
+5.2.6.
+
+removal of any component (mechanical, electrical, structural, etc.) which limits full engine load leading to any change in the propulsion unit performance approved in accordance with Annex II(A) to Regulation (EU) No 168/2013;
+
+[^c000005]5.2.7.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6\.
+
+**Additional requirements for (sub)categories L1e, L2e, L3e-A1, L4e-A1 and L6e**
+
+6.1.
+
+The parts, equipment and components listed below shall be durably and indelibly marked with code number(s) and symbols assigned for identification purposes either by the vehicle manufacturer or by the manufacturer of such (replacement) parts, equipment or components. Such marking may take the form of a label provided that it remains legible in normal use and cannot be detached without being destroyed.
+
+6.2.
+
+The marking referred to in point 6.1. shall in principle be visible without dismantling the part in question or other parts of the vehicle. Where the bodywork or other parts of the vehicle obscure a marking, the vehicle manufacturer shall provide the competent authorities with indications for opening or dismantling the parts in question and the location of the marking.
+
+6.3.
+
+The characters, figures or symbols used shall be at least 2,5 mm in height and be easily legible.
+
+6.4.
+
+The parts, equipment and components referred to in point 6.1. are the following, for all (sub)categories:
+
+- any electrical/electronic device for the purpose of combustion engine or electric propulsion motor management (ECU ignition module, injectors, intake air temperature etc.),
+- carburettor or equivalent device,
+- catalytic converter(s) (only if not integrated in the silencer),
+- crankcase,
+- cylinder,
+- cylinder head,
+- exhaust pipe(s) (if separate from the silencer),
+- inlet pipe (if cast separately from the carburettor or cylinder or crankcase),
+- intake silencer (air filter),
+- restricted section (sleeve or other),
+- noise abatement device (silencer(s)),
+- transmission driven part (rear chain wheel (sprocket) or pulley),
+- transmission driving part (front chain wheel (sprocket) or pulley).
+
+6.5.
+
+In addition, for categories L1e, L2e, and L6e, the following parts, equipment and components shall be marked in accordance with point 6.1.:
+
+- transmission CVT,
+- transmission controller.
+
+ANNEX III
+
+**Requirements applying to arrangements for type-approval procedures**
+
+1\.
+
+**Type-approval process**
+
+1.1.
+
+When receiving an application for vehicle type-approval, the approval authority shall:
+
+- verify that all EU type-approval certificates issued pursuant to the regulatory acts which are applicable for vehicle type-approval cover the vehicle type and correspond to the prescribed requirements;
+- by reference to the documentation make sure that the vehicle specifications and data contained in the vehicle information document are included in the data in the information packages and in the EU type-approval certificates in respect of the relevant regulatory acts;
+- when an item number in the information document is not included in the information package of any of the regulatory acts, confirm that the relevant part or characteristic conforms to the particulars in the information folder;
+- on a selected sample of vehicles from the type to be approved carry out or arrange to be carried out inspections of vehicle parts and systems to verify that the vehicle(s) is/are built in accordance with the relevant data contained in the authenticated information package in respect of the relevant EU type-approval certificates;
+- carry out or arrange to be carried out relevant installation checks in respect of separate technical units where applicable;
+- carry out or arrange to be carried out necessary checks in respect of the presence of the devices provided for in Annex II to Regulation (EU) No 168/2013;
+- carry out or arrange to be carried out necessary checks in order to ensure that the requirements regarding gaseous-fuel systems are fulfilled, if applicable.
+
+2\.
+
+**Combination of technical specifications**
+
+2.1.
+
+The number of vehicles to be submitted shall be sufficient to permit the proper check of the various combinations to be type-approved according to the following criteria:
+
+- vehicle type, variants and versions;
+- vehicle and propulsion family;
+- transmission;
+- body style;
+- number of doors;
+- number of seating positions.
+
+3\.
+
+**Specific provisions**
+
+3.1.
+
+Where no approval certificates for any of the relevant regulatory acts are available, the approval authority shall:
+
+- arrange for the necessary tests and checks as required by each of the relevant regulatory acts;
+- verify that the vehicle conforms to the particulars in the vehicle information folder and that it meets the technical requirements of each of the relevant regulatory acts;
+- carry out or arrange to be carried out relevant installation checks in respect of separate technical units where applicable;
+- carry out or arrange to be carried out necessary checks in respect of the presence of the devices provided for in Annex II to Regulation (EU) No 168/2013 where applicable;
+- carry out or arrange to be carried out necessary checks in order to ensure that the requirements regarding gaseous-fuel systems are fulfilled, if applicable.
+
+4\.
+
+**Provisions regarding conversion of subcategories (L3e/L4e)-A2 and (L3e/L4e)-A3 motorcycles**
+
+4.1.
+
+General
+
+Provisions for conversion shall only apply to subcategories (L3e/L4e)-A2 and (L3e/L4e)-A3 motorcycles with and without side-car and vice versa.
+
+4.2.
+
+Conversion specified for subcategory (L3e/L4e)-A2 motorcycle to a (L3e/L4e)-A3 motorcycle and vice versa shall be permitted under the following controlled conditions:
+
+4.2.1.
+
+Type-approval
+
+The manufacturer shall conduct in type-approval separate tests for the (L3e/L4e)-A2 and (L3e/L4e)-A3 motorcycle configurations and demonstrate to the technical service and to the satisfaction of the approval authority the L3e motorcycle’s compliance with the provisions of point 4 and separately report on the following requirements:
+
+4.2.2.
+
+Environmental and propulsion unit performance requirements set out in Chapter III of Regulation (EU) No 168/2013, and tests referred to in Annexes II, V, VI and VII to that Regulation (EU) No 168/2013:
+
+- the environmental test types I, II, V, VII, VIII and IX referred to in Annex V to Regulation (EU) No 168/2013;
+- the propulsion unit performance requirements and tests referred to in Annex II(A2) to Regulation (EU) No 168/2013;
+- the vehicle/propulsion family definitions shall be separately determined and reported for the (L3e/L4e)-A2 and for the (L3e/L4e)-A3 motorcycle configurations.
+
+4.2.3.
+
+Functional safety requirements: tests shall be conducted and the associated requirements shall be met according to points (B2), (B4), (B14), (B17) and (B18) of Annex II to Regulation (EU) No 168/2013;
+
+4.2.4.
+
+Vehicle construction tests shall be conducted and the associated requirements shall be met according to points (C1) and (C10) of Annex II to Regulation (EU) No 168/2013 in the (L3e/L4e)-A2 configuration.
+
+4.2.5.
+
+All other type-approval requirements than the ones listed in point 4.2.2., 4.2.3 and 4.2.4. and which are set out in Annex II to Regulation (EU) No 168/2013 shall be regarded as common and equal between the (L3e/L4e)-A2 and (L3e/L4e)-A3 motorcycle configurations and shall therefore only be tested and reported once for both performance configurations. In addition, test reports related to systems, components, separate technical units, and parts or equipment of the vehicle fulfilling the same type-approval requirements on both configurations shall be accepted for the type-approval of any of these configurations.
+
+4.2.6.
+
+One WVTA shall be issued for the category (L3e/L4e)-A2 configuration motorcycle having a unique type-approval number.
+
+4.2.7.
+
+One WVTA shall be issued for the category (L3e/L4e)-A3 configuration motorcycle having a unique type-approval number. Both type-approval numbers referred to in point 4.2.6. and in this point shall be stamped into the statutory plate in accordance with Article 39 of Regulation (EU) No 168/2013 and with Annex V to Regulation (EU) No 901/2014. In order to facilitate the conversion of subcategory (L3e/L4e)-A2 into the (L3e/L4e)-A3 configuration motorcycle and vice versa, a template for a corresponding vehicle manufacturer's statement shall be attached to the information folder in accordance with Appendix 24 of part B of Annex I to Regulation (EU) No 901/2014. In addition, the dedicated entries for both the L3e-A2 and L3e-A3 configurations on the certificate of conformity shall be provided by the vehicle manufacturer in accordance with the template set out in Annex IV of Regulation (EU) No 901/2014.
+
+4.2.8.
+
+If the complete information for the conversion is not available at the time of type-approval the completed information may be introduced with an extension of the EU-WVTA. If only the number of the other EU-WVTA is missing, it may be added with a revision of the EU-WVTA.
+
+4.2.9.
+
+Electronic information of the (L3e/L4e)-A2 or A3 motorcycle
+
+The manufacturer shall program the applicable motorcycle subcategory ‘L3e-A2’ or ‘L3e-A3’ in the PCU/ECU memory of the motorcycle when converting from the (L3e/L4e)-A2 to (L3e/L4e)-A3 configuration or vice versa.
+
+4.2.9.1.
+
+This electronic information shall be made available in a readable format on request of a generic scan tool in complying with the provisions set out in Annex XII.
+
+4.2.9.2.
+
+This electronic information shall be protected against tampering in accordance with point 2.8 of Annex II.
+
+4.2.9.3.
+
+On request of the motorcycle manufacturer the vehicle may be exempted from complying with the requirements in point 4.2.9.1 and 4.2.9.2 up until 1 January 2020 under the condition that a comprehensive technical justification will be added to the information folder.
+
+4.2.10.
+
+The Certificate of Conformity (CoC) shall be filled out in accordance with the requirements set out in point 1.7. of Annex IV to Regulation (EU) No 901/2014.
+
+4.2.11.
+
+Only one vehicle identification number (VIN) of the (L3e/L4e)-A2 and A3 motorcycle configuration shall be assigned to motorcycles which can be converted from subcategories (L3e/L4e)-A2 to (L3e/L4e)-A3 or vice versa. The statutory plate fitted on the vehicle shall contain this VIN and shall bear a clear indication of the stationary noise levels in both configurations as well as the maximum net or maximum continuous rated power in the (L3e/L4e)-A2 configuration.
+
+4.3.
+
+Conversion
+
+Conversion of the (L3e/L4e)-A2 to the (L3e/L4e)-A3 configuration or vice versa shall only be performed and controlled by the motorcycle manufacturer.
+
+4.3.1.
+
+The manufacturer shall issue a declaration on request of the vehicle owner bearing the necessary information for the conversion linked by the VIN to the CoC according to the template in the annex of the certificate of conformity set out in Article 38(2) of Regulation (EU) No 168/2013 and declare that from the technical perspective the approved L3e motorcycle may be converted to the (L3e/L4e)-A2 or (L3e/L4e)-A3 performance levels.
+
+4.3.2.
+
+This manufacturer declaration shall include: the EU-Whole Vehicle type-approval (‘WVTA’) numbers, the changed data (with reference to the type-approval numbers concerned in the CoC), a brief description of the parts or equipment to be changed and the software ID and calibration verification numbers for both configurations. A specimen of the filled-out manufacturer declaration shall be included in the information folder.
+
+4.4.
+
+First registration
+
+A Member State shall not refuse first registration and shall not require any additional testing for the purposes of first registration of a new (L3e/L4e)-A2 or (L3e/L4e)-A3 motorcycle if the new motorcycle (L3e/L4e)-A2 is converted to the (L3e/L4e)-A3 performance level or vice versa under the following conditions:
+
+- the reading of the generic scan tool referred to in point 4.2.9 indicates the appropriate (L3e/L4e)-A2 or (L3e/L4e)-A3 configuration and a visual inspection leads to the conclusion, that all parts of the motorcycle necessary for the conversion are changed and/or mounted.
+- . . . . .
+
+5\.
+
+**Procedures to be followed during multi-stage EU type-approval**
+
+5.1.
+
+General
+
+5.1.1.
+
+The satisfactory operation of the process of multi-stage EU type-approval requires joint action by all the manufacturers concerned. To this end type-approval authorities shall ensure, before granting first and subsequent stage approval, that suitable arrangements exist between the relevant manufacturers for the supply and interchange of documents and information such that the completed vehicle type meets the technical requirements of all the provisions laid down in Regulation (EU) No 168/2013. Such information shall include details of relevant system, component and separate technical unit approvals and of vehicle parts which form part of the incomplete vehicle but are not yet approved.
+
+5.1.2.
+
+Type-approvals in accordance with point 5 are granted on the basis of the current state of completion of the vehicle type and shall incorporate all approvals granted at earlier stages.
+
+5.1.3.
+
+Each manufacturer in a multi-stage EU type-approval process is responsible for the approval and conformity of production of all systems, components or separate technical units manufactured by him or added by him to the previously built stage. He is not responsible for subjects which have been approved in an earlier stage except in those cases where he modifies relevant parts to an extent that the previously granted approval becomes invalid.
+
+5.2.
+
+Procedures
+
+The approval authority shall:
+
+- verify that all EU type-approval certificates issued pursuant to the regulatory acts which are applicable for vehicle type-approval cover the vehicle type at its state of completion and correspond to the prescribed requirements;
+- verify, in accordance with Article 25(6) of Regulation (EU) No 168/2013 that the vehicle type-approved at the final stage meets at that time all applicable technical requirements. That shall include a documentary check of all requirements covered by a type-approval for an incomplete vehicle granted in the course of a multistage procedure, even where granted for a different (sub)category of vehicle.
+- ensure, in accordance with Article 25(7) of Regulation (EU) No 168/2013, that the choice of approval procedure does not affect the applicable substantive requirements with which the approved vehicle type has to comply at the time of issuing of the whole-vehicle type-approval.
+- ensure that all the relevant data, taking account of the state of completion of the vehicle, is included in the information folder;
+- by reference to the documentation make sure that the vehicle specification(s) and data contained in Part I of the vehicle information folder are included in the data in the information packages and in the EU type-approval certificates, in respect of the relevant regulatory acts; and in the case of a completed vehicle, where an item number in Part I of the information folder is not included in the information package of any of the regulatory acts, confirm that the relevant part of characteristic conforms to the particulars in the information folder;
+- on a selected sample of vehicles from the type to be approved carry out or arrange to be carried out inspections of vehicle parts and systems to verify that the vehicle(s) is/are built in accordance with the relevant data contained in the authenticated information package in respect of all relevant regulatory acts;
+- carry out or arrange to be carried out relevant installation checks in respect of separate technical units where applicable.
+
+5.3.
+
+The number of vehicles to be inspected for the purposes of point 4.2.4 shall be sufficient to permit the proper control of the various combinations to be EU type-approved according to the state of completion of the vehicle and the criteria set out in 2.1.
+
+6\.
+
+**Specific conditions required of virtual testing methods and regulatory acts for which virtual and/or self-testing methods may be used by a manufacturer or a technical service**
+
+6.0.
+
+Objectives and scope
+
+6.0.1.
+
+This point 6 lays down appropriate provisions concerning virtual testing in accordance with Article 32(6) of Regulation (EU) No 168/2013. It shall not apply to the second subpoint of Article 32(3) of that Regulation.
+
+6.0.2.
+
+This point 6 also sets out topics for self-testing in accordance with the requirements in Article 64(1) of Regulation (EU) No 168/2013.
+
+6.1.
+
+List of delegated acts and their annexes
+
+*Table 3-1*
+
+**Overview of requirements listed in Regulation (EU) No 168/2013 regarding virtual and self-testing**
+
+| Requirements listed in Regulation (EU) No 168/2013 | Virtual and/or self-testing applicable ? | Subject | Restrictions/Comments |
+| --- | --- | --- | --- |
+| Section (A2) of Annex II | Self-testing | Testing procedures on maximum design vehicle speed | Only for subcategories L3e, L4e and L5e and does not include any other propulsion unit performance testing. |
+| Section (B1) of Annex II | Self-testing | Audible warning devices | Installation only |
+| Section (B7) of Annex II | Self-testing | Driver-operated controls including identification of controls, tell-tales and indicators | Speedometer only |
+| Section (B8) of Annex II | Virtual testing | Installation of lighting and light signalling devices | Dimensions only |
+| Section (B9) of Annex II | Virtual testing | Rearward visibility | Installation only;<br>only according to UNECE regulation No 81 |
+| Section (B14) of Annex II | Virtual testing | Installation of tyres | Only where clearance exceeds 10 mm. |
+| Section (C13) of Annex II | Self- and Virtual testing | Registration plate space |  |
+| Section (C15) of Annex II | Self-testing | Stands | Only point 2.5 stand retention systems. |
+| Article 39 of Regulation (EU) No 168/2013 | Self-testing | Statutory plate and EU type-approval mark |  |
+
+7\.
+
+**General conditions required for virtual testing methods**
+
+7.1.
+
+Virtual test pattern
+
+The following scheme shall be used as a basic structure for describing and conducting virtual testing:
+
+- purpose;
+- structure model;
+- boundary conditions;
+- load assumptions;
+- calculation;
+- assessment;
+- documentation.
+
+7.2.
+
+Fundamentals of computer simulation and calculation
+
+7.2.1.
+
+Mathematical model
+
+The mathematical model shall be supplied by the manufacturer. It shall reflect the complexity of the structure of the vehicle, system and components to be tested in relation to the requirements of the regulatory act and its boundary conditions. The same provisions shall apply *mutatis mutandis* for testing components or technical units independently from the vehicle.
+
+7.2.2.
+
+Process of validating the mathematical model
+
+The mathematical model shall be validated in comparison with the actual test conditions. A physical test shall be conducted for the purposes of comparing the results obtained when using the mathematical model with the results of a physical test. Comparability of the test results shall be proven. A validation report shall be drafted by the manufacturer or by the technical service and submitted to the approval authority. Any change made to the mathematical model or to the software likely to invalidate the validation report shall be brought to the attention of the approval authority, which may require that a new validation process is conducted. The flow chart of the validation process is shown in Appendix 3.
+
+7.2.3.
+
+Documentation
+
+The data and auxiliary tools used for the simulation and calculation shall be made available by the manufacturer and be documented in a suitable way.
+
+7.2.4.
+
+Tools and support
+
+At the request of the technical service, the manufacturer shall supply or provide access to the necessary tools, including appropriate software.
+
+7.2.5.
+
+In addition, the manufacturer shall provide appropriate support to the technical service.
+
+7.2.6.
+
+Providing access and support to a technical service does not remove any obligation of the technical service regarding the skills of its personnel, the payment of licence rights and respect of confidentiality.
+
+8\.
+
+**Validation process for virtual testing**
+
+8.1.
+
+*Figure 3-1* **Virtual testing validation process flow chart** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_001)
+
+ANNEX IV
+
+**Requirements applying to conformity of production**
+
+0\.
+
+**Objectives**
+
+0.1.
+
+The conformity of production (CoP) procedure aims to ensure that each vehicle, system, component, separate technical unit, part or equipment produced is in conformity with the approved type.
+
+0.2.
+
+Procedures include inseparably the assessment of quality-assurance management systems, referred to below as ‘initial assessment’ and verification and production-related controls, referred to as ‘product conformity arrangements’.
+
+1\.
+
+**Initial assessment**
+
+1.1.
+
+Before granting type-approval, the approval authority shall verify the existence of satisfactory arrangements and procedures established by the manufacturer for ensuring effective control so that vehicles, systems, components or separate technical units when in production conform to the approved type.
+
+1.2.
+
+Guidance for conducting assessments may be found in the EN ISO 19011:2011 standard — *Guidelines for quality and/or environmental management systems auditing*.
+
+1.3.
+
+The requirement in point 1.1 shall be verified to the satisfaction of the approval authority granting type-approval. The approval authority shall be satisfied with the initial assessment and the product conformity arrangements in section 2 below, taking account — as necessary — of one of the arrangements described in points 1.3.1 to 1.3.3 or a combination of those arrangements in full or in part as appropriate.
+
+1.3.1.
+
+The initial assessment and/or verification of product conformity arrangements shall be carried out by the approval authority granting the approval or by a technical service designated to act on behalf of that authority.
+
+1.3.1.1.
+
+When considering the extent of the initial assessment to be carried out, the approval authority may take account of available information relating to:
+
+- the manufacturer’s certification described in point 1.3.3 below, which has not been qualified or recognised under that point;
+- in the case of type-approval of systems, components or separate technical units, quality system assessments performed by vehicle manufacturer(s) on the premises of the manufacturer(s) of the system, component or separate technical units, according to one or more of the industry sector specifications satisfying the requirements in the EN ISO 9001:2008 or ISO/TS16949:2009 standards.
+
+1.3.2.
+
+The initial assessment and/or verification of product conformity arrangements may be carried out by the approval authority of another Member State, or the technical service designated for this purpose by that authority.
+
+1.3.2.1.
+
+In such a case, the approval authority of the other Member State shall prepare a statement of compliance outlining the areas and production facilities it has covered as relevant to the product(s) to be type-approved and to the EU Regulations according to which these products are to be type-approved.
+
+1.3.2.2.
+
+On receiving an application for a compliance statement from the approval authority granting type-approval, the approval authority of another Member State shall send forthwith the statement of compliance or advise that it is not in a position to provide such a statement.
+
+1.3.2.3.
+
+The statement of compliance shall include at least the following:
+
+- group or company (e.g. XYZ automotive);
+- particular organisation (e.g. regional division);
+- plants/sites (e.g. engine plant 1 (in country A) — vehicle plant 2 ( in country B));
+- vehicle/component range (e.g. all category LXe models);
+- areas assessed (e.g. engine assembly, body pressing and assembly, vehicle assembly);
+- documents examined (e.g. company and site quality manual and procedures);
+- date of the assessment (e.g. audit conducted from dd/mm/yyyy to dd/mm/yyyy);
+- planned monitoring visit (e.g. mm/yyyy);
+
+1.3.3.
+
+The approval authority may also accept the manufacturer’s certification to the international EN ISO 9001:2008 or ISO/TS16949:2009 standard (the scope of this certification shall in that case cover the product(s) to be approved) or an equivalent certification standard as satisfying the initial assessment requirements of point 1.1, provided that conformity of production is indeed covered by the quality management system. The manufacturer shall provide details of the certification and undertake to inform the approval authority of any revisions to its validity or scope of that certification.
+
+1.4.
+
+For the purpose of vehicle type-approval, the initial assessments carried out for granting approvals for systems, components and separate technical units of the vehicle need not be repeated but shall be complemented by an assessment covering the locations and activities relating to the assembly of the whole vehicle not covered by the former assessments.
+
+2\.
+
+**Product conformity arrangements**
+
+2.1.
+
+Every vehicle, system, component, separate technical unit, part or item of equipment pursuant to a UNECE regulation annexed to the Revised 1958 Agreement and to Regulation (EU) No 168/2013 shall be so manufactured as to conform to the type approved by meeting the requirements of this Annex, the said UNECE regulation(s) and Regulation (EU) No 168/2013.
+
+2.2.
+
+Before granting a type-approval pursuant to Regulation (EU) No 168/2013 and to a UNECE regulation annexed to the Revised 1958 Agreement, the approval authority shall verify the existence of adequate arrangements and documented control plans, to be agreed with the manufacturer for each approval, to carry out at specified intervals those tests or associated checks necessary to verify continued conformity with the approved type, including, where applicable, tests specified in Regulation (EU) No 168/2013 and the said UNECE regulation.
+
+2.3.
+
+The holder of the type-approval shall, in particular:
+
+- ensure the existence and application of procedures for effective control of the conformity of products (vehicles, systems, components, separate technical units, parts or equipment) to the approved type;
+- have access to the testing or other appropriate equipment necessary for checking conformity to each approved type;
+- ensure that test or check result data are recorded and that annexed documents remain available for a period of up to 10 years to be determined in agreement with the approval authority;
+- analyse the results of each type of test or check, in order to verify and ensure the stability of the product characteristics, making allowance for variation in industrial production;
+- ensure that for each type of product, at least the checks and the tests prescribed in Regulation (EU) No 168/2013 and its delegated and implementing acts as well as set out in the referenced and applicable UNECE regulation therein are carried out;
+- ensure that any set of samples or test pieces giving evidence of non-conformity in the type of test in question gives rise to a further sampling and test. All the necessary steps shall be taken to restore the production process to ensure conformity with the approved type.
+
+2.4.
+
+In the case of step-by-step, mixed or multi-stage type-approvals, the approval authority granting whole vehicle type-approval may request specific details regarding compliance with the conformity of production requirements set out in this Annex from any approval authority that granted type-approval of any relevant system, component or separate technical unit.
+
+2.5.
+
+If the approval authority granting whole vehicle type-approval is not satisfied with the reported information referred to in point 2.4 and has communicated this in writing to the manufacturer in question and the approval authority granting type-approval for the system, component or separate technical unit, the approval authority granting whole vehicle type-approval shall demand additional conformity of production audits or checks to be performed at the site of the manufacturer(s) of those systems, components or separate technical units and the results shall immediately be made available to the approval authority concerned.
+
+2.6.
+
+If points 2.4 and 2.5 apply and the further audit or check results are deemed not to be satisfactory in the opinion of the approval authority granting whole vehicle type-approval, the manufacturer shall ensure that conformity of production is restored as soon as possible by corrective actions to the satisfaction of the approval authority granting whole vehicle type-approval and to the satisfaction of the approval authority granting type-approval of the system, component or separate technical unit.
+
+3\.
+
+**Continued verification arrangements**
+
+3.1
+
+The authority which has granted type-approval may at any time verify the conformity of production control methods applied in each production facility by means of periodic audits. The manufacturer shall for that purpose allow access to the manufacture, inspection, testing, storage and distribution sites and shall provide all necessary information with regard to the quality management system documentation and records.
+
+3.1.1.
+
+The normal approach for such periodic audits shall be to monitor the continued effectiveness of the procedures laid down in sections 1 and 2 (initial assessment and product conformity arrangements).
+
+3.1.1.1.
+
+Surveillance activities carried out by the technical services (qualified or recognised as required in point 1.3.3) shall be accepted as satisfying the requirements of point 3.1.1 with regard to the procedures established at initial assessment.
+
+3.1.1.2.
+
+The normal frequency of these verifications by the approval authority (other than those referred to in point 3.1.1.1) shall be such as to ensure that the relevant conformity of production controls applied in accordance with sections 1 and 2 are reviewed over a period consistent with the climate of trust established by the approval authority.
+
+3.2.
+
+At every review, the records of tests and checks and production records, in particular records of those tests or checks documented as required in point 2.2, shall be available to the inspector;
+
+3.3.
+
+The inspector may select random samples to be tested in the manufacturer’s laboratory or in the facilities of the technical service, in which case only physical tests shall be carried out. The minimum number of samples may be determined according to the results of the manufacturer’s own verification.
+
+3.4.
+
+Where the level of control appears unsatisfactory, or when it seems necessary to verify the validity of the tests carried out in application of point 3.2, the inspector shall select samples to be sent to the technical service to perform physical tests according to the requirements regarding conformity of production set out in point 4 and in the UNECE regulations referred to in Regulation (EU) No 168/2013 or in its delegated acts.
+
+3.5.
+
+Where unsatisfactory results are found during an inspection or a monitoring review, the approval authority shall ensure that all necessary steps are taken to restore conformity of production as rapidly as possible.
+
+3.6.
+
+In cases where compliance with UNECE regulations is required by Regulation (EU) No 168/2013 or its delegated acts, the manufacturer may choose to apply the provisions of this Annex as an equivalent alternative to the conformity of production requirements in the respective UNECE regulations. However, if points 3.5 or 3.6 apply, all separate conformity of production requirements in the UNECE regulations have to be complied with to the satisfaction of the approval authority until it decides that conformity of production has been restored.
+
+4\.
+
+**Conformity of production test requirements in cases of an unsatisfactory level of product conformity control as referred to in point 3.4.**
+
+4.1.
+
+Environmental and propulsion unit performance requirements
+
+4.1.1.
+
+Test type I on emissions after cold start, type II on increased idle emissions and type VII on measurement of CO<sub>2</sub> emissions, fuel consumption, electric energy consumption and electric range determination
+
+4.1.1.1.
+
+Vehicles shall be manufactured in conformity with the approved vehicle type.
+
+4.1.1.2.
+
+Appropriate conformity of production checks shall be carried out to verify compliance with the conditions referred to in point 4.1.1.1.
+
+4.1.1.3.
+
+Vehicles powered by an internal combustion engine only:
+
+4.1.1.3.1.
+
+As a general rule, measures to ensure the conformity of production with regard to tailpipe pollutant and CO <sub> 2 </sub> emissions from vehicles are to be checked on the basis of the description in the type-approval certificate conforming to the model set out in Article 30(2) of Regulation (EU) No 168/2013.
+
+The control of production conformity is based on an assessment by the approval authority of the manufacturer’s auditing procedure in order to ensure conformity of the manufactured vehicle with respect to the tailpipe pollutant and CO <sub> 2 </sub> emissions.
+
+If the approval authority is not satisfied with the standard of the manufacturer’s auditing procedure, it may require that verification tests be carried out on vehicles in production.
+
+4.1.1.3.1.1.
+
+Measurements of the tailpipe pollutant and CO <sub> 2 </sub> emissions of a vehicle type that has had one or several extensions shall be carried out on the vehicle(s) available at the time of the test (vehicle(s) described in the first document or in subsequent extensions).
+
+4.1.1.3.1.1.1.
+
+Conformity of the vehicle for type I, tailpipe emissions after cold start and type VII, CO<sub>2</sub> emission test
+
+4.1.1.3.1.1.1.1.
+
+Three vehicles shall be randomly selected from the series and tested according to the requirements set out in Articles 23 and 24 of Regulation (EU) No 168/2013. Deterioration factors shall be applied to the average of the test type I pollutant emission test results as follows:
+
+- If the durability method set out in Article 23(3)(a) of Regulation (EU) No 168/2013 is applicable, the deterioration factors shall be calculated from the type I emission test results up to and including full distance referred to in Annex VII(A) to Regulation (EU) No 168/2013 and in accordance with the linear calculation method referred to in point 4.1.1.3.1.1.1.1.2. resulting in slope and offset values per emission constituent. The CoP pollutant emission results shall be calculated with the formula:
+
+  *Equation 4-1:*
+
+  Yfull = a (Xfull – XCoP) + YCoP
+
+  where:
+
+  a
+
+  slope value ((mg/km)/km) determined in accordance with test type V set out in Annex V(A) to Regulation (EU) No 168/2013;
+
+  XFull
+
+  durability mileage (km) as set out in Annex VII to Regulation (EU) No 168/2013;
+
+  XCoP
+
+  Mileage of the CoP vehicle at moment of Type I CoP test;
+
+  Yfull
+
+  CoP emission result per pollutant emission constituent in mg/km. The average CoP results shall be lower than the pollutant emission limits set out in Annex VI(A) to Regulation (EU) No 168/2013;
+
+  YCoP
+
+  pollutant emission (THC, CO, NO <sub> x </sub> , NMHC and PM if applicable) test result (mg/km) per emission constituent of test type I with CoP vehicle.
+- If the durability method set out in Article 23(3)(b) of Regulation (EU) No 168/2013 is applicable, the deterioration trend shall consist of the slope value a, as is reflected in point 4.1.1.3.1.1.1.1.1, per emission constituent calculated to comply with test type V in accordance with Annex V(A) to Regulation (EU) No 168/2013. Equation 4-1 shall be used to calculate the CoP emission results per pollutant emission constituent (Yfull).
+- If the durability method set out in Article 23(3)(c) of Regulation (EU) No 168/2013 is applicable, the fixed deterioration factors set out in Annex VII(B) to Regulation (EU) No 168/2013 shall be multiplied by the type test I result of the CoP vehicle (Ycop) to calculate the average CoP emission results per pollutant emission constituent (Yfull).
+- The average test type VII results (CO<sub>2</sub> emissions, fuel/energy consumption and electric range if applicable) shall be lower than or equal to the declared values by the manufacturer at type-approval.
+- If the average emissions of the first two vehicles comply with the requirements laid down in point 4.1.1.3.1.1.1.1 then the production conformity is considered as satisfactory.
+
+4.1.1.3.1.1.1.2.
+
+If the average emissions of the first two vehicles do not comply, the CoP procedure continues as follows:
+
+- If the authority is satisfied with the production standard deviation given by the manufacturer, the tests are carried out according to point 4.1.1.3.2.
+- If the authority is not satisfied with the production standard deviation given by the manufacturer, the tests are carried out according to point 4.1.1.3.3.
+
+4.1.1.3.1.1.1.3.
+
+The production of a series is regarded as conforming or non-conforming, on the basis of tests on the three sampled vehicles, once a pass or fail decision is reached for tailpipe pollutant and CO <sub> 2 </sub> emissions according to the test criteria applied in the appropriate table.
+
+If no pass or fail decision is reached for tailpipe pollutant and CO <sub> 2 </sub> emissions, a test is carried out on an additional vehicle (see Figure 4-1).
+
+4.1.1.3.1.1.1.4.
+
+In the case of periodically regenerating systems, the results shall be multiplied by the factor K<sub>i</sub> obtained at the time when type-approval was granted.
+
+At the request of the manufacturer, testing may be carried out immediately after a regeneration has been completed.
+
+*Figure 4-1* **Pass/fail criteria for Type I, II and VII testing** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_002)
+
+4.1.1.3.1.1.2.
+
+Notwithstanding the environmental requirements set out in Article 23 and 24 of Regulation (EU) No 168/2013, the tests will be carried out on vehicles which have travelled a maximum distance of 100 km after first start at the production line.
+
+4.1.1.3.1.1.2.1.
+
+However, at the request of the manufacturer, the tests will be carried out on vehicles which have been run in a maximum of 1 000 km.
+
+In this case, the running-in procedure will be conducted by the manufacturer, who shall undertake not to make any adjustments to those vehicles.
+
+4.1.1.3.1.1.2.2.
+
+If the manufacturer asks to be allowed to conduct a running-in procedure (‘x’ km, where x ≤ 1 000 km), it may be carried out as follows:
+
+The tailpipe pollutant and CO <sub> 2 </sub> emissions will be measured at maximum 100 km after first start on the production line and at ‘x’ km on the first tested vehicle (which can be the type-approval vehicle);
+
+The evolution coefficient (EC) of the emissions between 100 km and ‘x’ km will be calculated as follows:
+
+*Equation 4-2*:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+The value of EC may be less than 1.
+
+The subsequent vehicles will not be subjected to the running-in procedure, but their 100 km emissions will be modified by the EC.
+
+In this case, the values to be taken will be:
+
+- The value at ‘x’ km for the first vehicle;
+- The values at maximum 100 km multiplied by the evolution coefficient (EC) for the subsequent vehicles.
+
+4.1.1.3.1.1.2.3.
+
+As an alternative to this procedure, the vehicle manufacturer can use a fixed EC of 0,92 and multiply all values of tailpipe pollutant and CO <sub> 2 </sub> emissions measured at zero km by this factor.
+
+4.1.1.3.1.1.2.4.
+
+Tests for conformity of production may be performed with a commercial fuel of which the C3/C4 ratio lies between those of the reference fuels referred to in Annex II(A1) to Regulation (EU) No 168/2013 in the case of LPG, or of which the Wobbe index lies between those of the extreme reference fuels in the case of NG or H2NG. In that case, a fuel analysis shall be presented to the approval authority.
+
+4.1.1.3.2.
+
+Conformity of production when manufacturer’s statistical data are available
+
+4.1.1.3.2.1.
+
+The following sections describe the procedure to be used to verify the tailpipe pollutant and CO <sub> 2 </sub> emissions conformity of production requirements when the manufacturer’s production standard deviation is again satisfactory.
+
+4.1.1.3.2.2.
+
+With a minimum sample size of three, the sampling procedure is set so that the probability of a lot passing a test with 40 % of the production defective is 0,95 (producer’s risk = 5 %), while the probability of a lot being accepted with 65 % of the production defective is 0,1 (consumer’s risk = 10 %).
+
+4.1.1.3.2.3.
+
+The following procedure is used (see Figure 4-1):
+
+Let L be the natural logarithm of tailpipe pollutant emission limits set out in Annex VI(A) to Regulation (EU) No 168/2013 and the declared CO<sub>2</sub> type-approval emission value:
+
+x<sub>i</sub>
+
+the natural logarithm of the measurement for the i-th vehicle of the sample;
+
+s
+
+an estimate of the production standard deviation (after calculating the natural logarithm of the measurements);
+
+n
+
+the current sample number.
+
+4.1.1.3.2.4.
+
+Compute for the sample, the test statistic quantifying the sum of the standardised deviations to the limit and defined as:
+
+*Equation 4-3:*
+
+[formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+4.1.1.3.2.5.
+
+Then:
+
+- if the test statistic is greater than the pass decision number for the sample given in Table 4-1, a pass decision is reached;
+- if the test statistic is less than the fail decision number for the sample size given in Table 4-1, a fail decision is reached;
+- otherwise, an additional vehicle is tested according to Annex II(A) to Regulation (EU) No 168/2013 and the procedure is applied to the sample with one unit more.
+- *Table 4-1*
+
+  **Pass/fail decision depending on sample size; conformity of production when manufacturer’s statistical data are available**
+
+  | Sample Size(cumulative number of vehicles tested) | Pass Decision No | Fail Decision No |
+  | --- | --- | --- |
+  | (a) | (b) | (c) |
+  | 3 | 3,327 | \-4,724 |
+  | 4 | 3,261 | \-4,79 |
+  | 5 | 3,195 | \-4,856 |
+  | 6 | 3,129 | \-4,922 |
+  | 7 | 3,063 | \-4,988 |
+  | 8 | 2,997 | \-5,054 |
+  | 9 | 2,931 | \-5,12 |
+  | 10 | 2,865 | \-5,185 |
+  | 11 | 2,799 | \-5,251 |
+  | 12 | 2,733 | \-5,317 |
+  | 13 | 2,667 | \-5,383 |
+  | 14 | 2,601 | \-5,449 |
+  | 15 | 2,535 | \-5,515 |
+  | 16 | 2,469 | \-5,581 |
+  | 17 | 2,403 | \-5,647 |
+  | 18 | 2,337 | \-5,713 |
+  | 19 | 2,271 | \-5,779 |
+  | 20 | 2,205 | \-5,845 |
+  | 21 | 2,139 | \-5,911 |
+  | 22 | 2,073 | \-5,977 |
+  | 23 | 2,007 | \-6,043 |
+  | 24 | 1,941 | \-6,109 |
+  | 25 | 1,875 | \-6,175 |
+  | 26 | 1,809 | \-6,241 |
+  | 27 | 1,743 | \-6,307 |
+  | 28 | 1,677 | \-6,373 |
+  | 29 | 1,611 | \-6,439 |
+  | 30 | 1,545 | \-6,505 |
+  | 31 | 1,479 | \-6,571 |
+  | 32 | \-2,112 | \-2,112 |
+
+4.1.1.3.3.
+
+Conformity of production when manufacturer’s statistical data remain unsatisfactory or unavailable
+
+4.1.1.3.3.1.
+
+The following sections describe the procedure to be used to verify the tailpipe pollutant and CO <sub> 2 </sub> emissions conformity of production requirements when the manufacturer’s evidence of production standard deviation is either unsatisfactory or unavailable.
+
+4.1.1.3.3.2.
+
+With a minimum sample size of three, the sampling procedure is set so that the probability of a lot passing a test with 40 % of the production defective is 0,95 (producer’s risk = 5 %), while the probability of a lot being accepted with 65 % of the production defective is 0,1 (consumer’s risk = 10 %).
+
+4.1.1.3.3.3.
+
+The measurement of tailpipe pollutant and CO <sub> 2 </sub> emissions is considered to be log normally distributed and should first be transformed by taking the natural logarithms. Let m<sub>o</sub> and m denote the minimum and maximum sample sizes respectively (m<sub>o</sub> = 3 and m = 32) and let n denote the current sample number.
+
+4.1.1.3.3.4.
+
+If the natural logarithms of the measurements in the series are x<sub>1</sub>, x<sub>2</sub>, …, x<sub>j</sub> and L is the natural logarithm of the pollutant emission limits set out in Annex VI(A) to Regulation (EU) No 168/2013 and the declared CO<sub>2</sub> type-approval value, then define:
+
+*Equations 4-4:*
+
+[formula: see source](https://www.legislation.gov.uk/eur/2014/44) [formula: see source](https://www.legislation.gov.uk/eur/2014/44) [formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+4.1.1.3.3.5.
+
+Table 4-2 below shows values of the pass (A<sub>n</sub>) and fail (B<sub>n</sub>) decision numbers against current sample number. The test statistic is the ratio [formula: see source](https://www.legislation.gov.uk/eur/2014/44) and shall be used to determine whether the series has passed or failed as follows:
+
+for m<sub>o</sub> ≤ n ≤ m:
+
+- pass the series if [formula: see source](https://www.legislation.gov.uk/eur/2014/44) ;
+- fail the series if [formula: see source](https://www.legislation.gov.uk/eur/2014/44) ;
+- take another measurement if [formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+  <table>
+  <thead>
+  <tr><td colspan="3"><em>Table 4-2</em></td></tr>
+  <tr><td colspan="3"><strong>Pass/fail decision depending on sample size; conformity of production when manufacturer’s statistical data are unsatisfactory or unavailable</strong></td></tr>
+  </thead>
+  <tbody>
+  <tr><th>Sample Size(cumulative number of vehicles tested)</th><th>Pass Decision NoA<sub>n</sub></th><th>Fail Decision NoB<sub>n</sub></th></tr>
+  <tr><td>(a)</td><td>(b)</td><td>(c)</td></tr>
+  <tr><td>3</td><td>-0,8038</td><td>16,64743</td></tr>
+  <tr><td>4</td><td>-0,76339</td><td>7,68627</td></tr>
+  <tr><td>5</td><td>-0,72982</td><td>4,67136</td></tr>
+  <tr><td>6</td><td>-0,69962</td><td>3,25573</td></tr>
+  <tr><td>7</td><td>-0,67129</td><td>2,45431</td></tr>
+  <tr><td>8</td><td>-0,64406</td><td>1,94369</td></tr>
+  <tr><td>9</td><td>-0,6175</td><td>1,59105</td></tr>
+  <tr><td>10</td><td>-0,59135</td><td>1,33295</td></tr>
+  <tr><td>11</td><td>-0,56542</td><td>1,13566</td></tr>
+  <tr><td>12</td><td>-0,5396</td><td>0,9797</td></tr>
+  <tr><td>13</td><td>-0,51379</td><td>0,85307</td></tr>
+  <tr><td>14</td><td>-0,48791</td><td>0,74801</td></tr>
+  <tr><td>15</td><td>-0,46191</td><td>0,65928</td></tr>
+  <tr><td>16</td><td>-0,43573</td><td>0,58321</td></tr>
+  <tr><td>17</td><td>-0,40933</td><td>0,51718</td></tr>
+  <tr><td>18</td><td>-0,38266</td><td>0,45922</td></tr>
+  <tr><td>19</td><td>-0,3557</td><td>0,40788</td></tr>
+  <tr><td>20</td><td>-0,3284</td><td>0,36203</td></tr>
+  <tr><td>21</td><td>-0,30072</td><td>0,32078</td></tr>
+  <tr><td>22</td><td>-0,27263</td><td>0,28343</td></tr>
+  <tr><td>23</td><td>-0,2441</td><td>0,24943</td></tr>
+  <tr><td>24</td><td>-0,21509</td><td>0,21831</td></tr>
+  <tr><td>25</td><td>-0,18557</td><td>0,1897</td></tr>
+  <tr><td>26</td><td>-0,1555</td><td>0,16328</td></tr>
+  <tr><td>27</td><td>-0,12483</td><td>0,1388</td></tr>
+  <tr><td>28</td><td>-0,09354</td><td>0,11603</td></tr>
+  <tr><td>29</td><td>-0,06159</td><td>0,0948</td></tr>
+  <tr><td>30</td><td>-0,02892</td><td>0,07493</td></tr>
+  <tr><td>31</td><td>0,00449</td><td>0,05629</td></tr>
+  <tr><td>32</td><td>0,03876</td><td>0,03876</td></tr>
+  </tbody>
+  </table>
+
+4.1.1.3.3.6.
+
+Remarks
+
+The following recursive formulae are useful for computing successive values of the test statistic:
+
+*Equations 4-5:*
+
+[formula: see source](https://www.legislation.gov.uk/eur/2014/44) [formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+*(n = 2, 3, …;* [formula: see source](https://www.legislation.gov.uk/eur/2014/44) ; *v<sub>1</sub> = 0)*
+
+4.1.1.3.4.
+
+The type-approval authorities issuing the approval may at any time verify the methods applied in each production unit.
+
+4.1.1.3.5.
+
+In every inspection, the records of tests and production monitoring shall be communicated to the visiting inspector.
+
+4.1.1.3.6.
+
+The inspector may select at random the samples to be tested in the manufacturer’s laboratory. The minimum number of samples may be determined on the basis of the results of the manufacturer’s own checks.
+
+4.1.1.3.7.
+
+When the quality standard does not seem satisfactory or when it seems necessary to verify the validity of the tests conducted under point 9.4.2.2, the inspector shall collect samples to be sent to the technical service which carried out the approval tests.
+
+4.1.1.3.8.
+
+The type-approval authorities may carry out all the tests prescribed in this Annex.
+
+4.1.1.4.
+
+Vehicles powered by a hybrid electric powertrain
+
+As a general rule, measures to ensure the conformity of production with regard to tailpipe pollutant and CO <sub> 2 </sub> emissions, electric energy consumption and electric range from hybrid electric vehicles is checked on the basis of the description in the type-approval certificate conforming to the model in Article 30(2) of Regulation (EU) No 168/2013.
+
+Checks on production conformity are based on an assessment made by the approval authority of the manufacturer’s auditing procedure in order to ensure conformity of the vehicle type with respect to the emission of tailpipe pollutant and CO <sub> 2 </sub> emissions, electric energy consumption and range.
+
+If the authority is not satisfied with the standard of the manufacturer’s auditing procedure, it may require that verification tests be carried out on vehicles in production.
+
+Conformity for tailpipe pollutant and CO <sub> 2 </sub> emissions is checked using the statistical procedures described in points 4.1.1.3.1 to 4.1.1.3.3. Vehicles are tested according to the procedure described in Annex II(A) to Regulation (EU) No 168/2013.
+
+4.1.1.5.
+
+Replacement pollution control devices
+
+4.1.1.5.1.
+
+In order to test conformity as required above, a sample replacement pollution control device shall be taken from the production line of the type-approved vehicle.
+
+4.1.1.5.2.
+
+Production will be regarded as being in conformity with the provisions of this Annex if a representative parent vehicle equipped with a pollution control device randomly selected from the production line complies with the applicable requirements set out in Article 23 of Regulation (EU) No 168/2013 on environmental performance. The performance of the propulsion fitted to the representative parent vehicle shall be measured according to Annex II(A) to Regulation (EU) No 168/2013 and shall not exceed the propulsion unit performance of the original pollution control device it replaces.
+
+4.1.1.6.
+
+Actions to be taken in case of non-conformity of production
+
+If, during inspections, non-conformity is observed, the approval authority shall ensure that all necessary steps are taken to re-establish conformity of production as soon as possible.
+
+4.1.1.7.
+
+Penalties for non-conformities of production
+
+4.1.1.7.1.
+
+The approval granted in respect of a vehicle type may be withdrawn if the requirements in point 4.1.1.1 are not complied with.
+
+4.1.1.7.2.
+
+If a Member State withdraws an approval it has previously granted, it shall forthwith notify the other Member States.
+
+4.1.2.
+
+Conformity of production for test type IV, evaporative emissions
+
+For routine end-of-production-line testing, the manufacturer may demonstrate compliance by sampling vehicles which shall meet the following requirements. Alternatively, the full test procedure described in this Annex shall be carried out. At the request of the manufacturer an alternative test procedure may be used, if the procedure has been presented to and has been accepted during the type approval procedure by the technical service to the satisfaction of the approval authority.
+
+4.1.2.1.
+
+Test for leakage
+
+4.1.2.1.1.
+
+Vents to the atmosphere from the evaporative emission control system shall be isolated.
+
+4.1.2.1.2.
+
+A pressure of 3,7 kPa ± 0,1 kPa (370 ± 10 mm of H<sub>2</sub>O) shall be applied to the fuel system.
+
+4.1.2.1.3.
+
+The pressure shall be allowed to stabilise prior to isolating the fuel system from the pressure source.
+
+4.1.2.1.4.
+
+Following isolation of the fuel system, the pressure shall drop by no more than 0,5 kPa (50 mm of H<sub>2</sub>O) in five minutes.
+
+4.1.2.2.
+
+Test for venting
+
+4.1.2.2.1.
+
+Vents to the atmosphere from the emission control shall be isolated.
+
+4.1.2.2.2.
+
+A pressure of 3,7 kPa ± 0,1 kPa (370 ± 10 mm of H<sub>2</sub>O) shall be applied to the fuel system.
+
+4.1.2.2.3.
+
+The pressure shall be allowed to stabilise before the fuel system is isolated from the pressure source.
+
+4.1.2.2.4.
+
+The venting outlets from the emission control systems to the atmosphere shall be reinstated to the production condition.
+
+4.1.2.2.5.
+
+The pressure of the fuel system shall drop to below 1,0 kPa (100 mm of H<sub>2</sub>O) within two minutes.
+
+4.1.2.3.
+
+Purge test
+
+4.1.2.3.1.
+
+Equipment capable of detecting an airflow rate of 0,25 litre in one minute shall be attached to the purge inlet and a pressure vessel of sufficient size to have negligible effect on the purge system shall be connected via a switching valve to the purge inlet, or alternatively:
+
+4.1.2.3.2.
+
+The manufacturer may use a flow meter of his own choice, if acceptable to the approval authority.
+
+4.1.2.3.3.
+
+The vehicle shall be operated in such a manner that any design feature of the purge system that could restrict purge operation is detected and the circumstances noted.
+
+4.1.2.3.4.
+
+Whilst the engine is operating within the bounds noted in this point the air flow shall be determined by either:
+
+- The device being switched in a pressure drop from atmospheric to a level indicating that a volume of 0,25 litre of air has flowed into the evaporative emission control system within one minute; or
+- An alternative flow measuring device with a detectable reading of no less than 0,25 litre per minute.
+- At the request of the manufacturer, an alternative purge test procedure can be used if the procedure has been presented to, and accepted by, the technical service during the type-approval procedure.
+
+4.1.2.4.
+
+Control Methods
+
+4.1.2.4.1.
+
+The approval authority which has granted type-approval may at any time verify the conformity control methods applicable to each production unit.
+
+4.1.3.
+
+Test type VIII on sound level
+
+4.1.3.1.
+
+Vehicle conformity regarding sound level
+
+Any vehicle manufactured shall conform to an approved type of vehicle and shall be equipped with the silencer with which it was type-approved and satisfy the requirements of Article 23 and Annex VI(D) to Regulation (EU) No 168/2013 relating to the type of vehicle concerned.
+
+4.1.3.1.1.
+
+In order to test conformity as required above, a sample vehicle shall be taken from the production line of the type approved pursuant to this point 4.1.3. Production will be regarded as conforming to the provisions of this point if the sound level measured using the test method referred to in Annex VI(D) to Regulation (EU) No 168/2013 does not exceed by more than 3 dB(A) the value measured at the time of type-approval, nor by more than 1 dB(A) the limits laid down in this point.
+
+4.1.3.2.
+
+Conformity of production of a non-original replacement exhaust system
+
+4.1.3.2.1.
+
+Any exhaust system manufactured shall conform to a type approved pursuant to this point and satisfy the requirements of Annex VI(D) to Regulation (EU) No 168/2013 relating to the type of vehicle for which it is intended.
+
+4.1.3.2.2.
+
+In order to test conformity as required above, a sample exhaust will be taken from the production line of the type approved pursuant to this point 4.1.3.
+
+4.1.3.2.3.
+
+Production will be regarded as complying with this point 4.1.3 if the requirements of Annex VI(D) to Regulation (EU) No 168/2013 are satisfied and if the sound level measured using the test method referred to in that Annex does not exceed by more than 3 dB(A) the value measured at the time of type-approval.
+
+4.1.4.
+
+Conformity of production (CoP) requirements regarding maximum design vehicle speed, maximum torque, maximum continuous rated power and maximum peak power
+
+4.1.4.1.
+
+Maximum vehicle speed measurement tolerances during conformity of production (CoP) testing
+
+During a production conformity check, the maximum design vehicle speed may differ by ± 5 % from the value determined during the type-approval test.
+
+4.1.4.2.
+
+Maximum torque, maximum continuous rated power, maximum net power and maximum peak power tolerances during CoP testing
+
+*Table 4-3*
+
+**Measurement tolerance on maximum torque, maximum continuous rated power, maximum net power and maximum peak power dependent on measured power**
+
+| Measured power | Acceptable tolerance on maximum torque, maximum continuous rated power, maximum net power and maximum peak power |
+| --- | --- |
+| \< 1 kW | ≤ 20 % |
+| 1 kW \< measured power \< 11 kW | ≤ 10 % |
+| \> 11 kW | ≤ 5 % |
+
+4.1.5.
+
+Conformity of production (CoP) requirements regarding the mass in running order.
+
+The mass in running order of an L-category vehicle may deviate from the nominal value by no more than 8 % as regards the permissible lower and upper deviations, which is the negative and positive deviation around the declared nominal value of up to and including the mass in running order thresholds referred to in Annex I to Regulation (EU) No 168/2013.
+
+5\.
+
+Review of the acceptable tolerances of the mass in running order
+
+Irrespective of whether point 4 applies, Member States shall provide by 31 December 2019 to the Commission the statistics on the actual observed tolerances on the mass in running order when monitoring conformity of production. The statistics shall contain the mass in running order measured at type-approval and any positive or negative measured variation as a percentage of this type-approved mass in running order, observed during conformity of production assessment on the production line. Based on this data the Commission will assess whether or not it will be necessary to revisit the maximum allowable tolerance percentage laid down in point 4.1.5.
+
+ANNEX V
+
+**Requirements applying to coupling devices and attachments**
+
+1\.
+
+**Scope**
+
+1.1.
+
+This Annex applies to coupling devices and attachments for L-category vehicles, if fitted.
+
+1.2.
+
+This Annex states the requirements which coupling devices for L-category vehicles shall satisfy in order to:
+
+- Ensure compatibility when combining L-category vehicles with different types of trailers;
+- Ensure the safe coupling of the vehicle and trailer under all conditions of use;
+- Ensure safe procedures for coupling and uncoupling.
+
+2\.
+
+**General requirements**
+
+2.1.
+
+The coupling devices for L-category vehicles shall be manufactured and attached in accordance with good engineering practice, and shall be safe to operate. They may be approved as separate technical units under this Regulation or approved under UNECE regulation No 55[^f00010].
+
+2.2.
+
+The coupling devices shall be so designed and manufactured that in normal use, with proper maintenance and the timely replacement of wearing parts, they will continue to function satisfactorily.
+
+2.3.
+
+Every coupling device shall be accompanied by installation and operating instructions giving sufficient information for a competent person to install it on the vehicle and operate it properly. The instructions shall be in the official language or languages of the Member State in which the coupling device will be offered for sale.
+
+2.4.
+
+The materials that may be used are those for which the properties relevant to the application are laid down in a standard or those for which the properties are given in the application documentation.
+
+2.5.
+
+All parts of the coupling devices the failure of which could result in separation of the two vehicles shall be made of steel. Other materials may be used provided equivalence has been demonstrated by the manufacturer to the satisfaction of the technical service.
+
+2.6.
+
+All couplings shall be designed for positive mechanical engagement, and the closed position shall be secured at least once by positive mechanical engagement.
+
+2.7.
+
+If equipped with a coupling device, a coupling ball as specified in accordance with Appendix 1, Figure Ap1-1 shall be used on an L-category vehicle. The coupling type shall be chosen and positioned to allow maximum compatibility with a range of trailer types. However, a device other than such a coupling ball may be used, provided the requirements of point 2.8 are met and that the compatibility and interchangeability of trailers is neither necessary nor possible (dedicated combinations).
+
+2.8.
+
+Coupling devices shall be designed so as to meet the requirements for case of operation, position, mobility and strength in line with points 2.9, 2.10, 2.11 and points 3, 4 and 5.
+
+2.9.
+
+The coupling devices shall be designed and attached so as to achieve maximum safety according to good engineering practice; this also applies to the operation of the coupling.
+
+2.10.
+
+It shall be possible for one person safely to couple and uncouple the vehicles without the use of tools.
+
+2.11.
+
+It shall be possible to operate the detachable coupling devices easily by hand and without the use of tools.
+
+2.12.
+
+When placing products on the market, manufacturers of coupling devices or vehicles shall provide the consumer with guidelines and information in all official languages regarding the impact on driveability of driving an L-category vehicle with a trailer.
+
+3\.
+
+**Requirements for position**
+
+3.1.
+
+Coupling devices attached to the vehicles shall ensure unhindered and safe operation.
+
+3.2.
+
+Coupling balls attached to the vehicles shall correspond to the geometric conditions specified in figure Ap1-2 of Appendix 1.
+
+3.3.
+
+The height of the coupling point of a coupling device other than a coupling ball shall correspond to the height of the coupling point of the drawbar of the trailer within a range of ± 35 mm, provided the trailer is in a horizontal position.
+
+3.4.
+
+The shape and dimensions of the towing brackets shall correspond to the vehicle manufacturer’s requirements with respect to fixing points and any additional mounting devices required.
+
+3.5.
+
+The requirements of the vehicle manufacturer with regard to the type of the coupling device, the permissible mass of the trailer and the permissible static vertical load imposed at the coupling point shall be observed.
+
+3.6.
+
+The mounted coupling device shall not obscure the visibility of the rear licence plate and/or lighting components; otherwise a coupling device shall be used which can be dismantled without special tools.
+
+3.7.
+
+Manufacturers of towing brackets shall incorporate attachment points to which either secondary couplings or devices necessary to enable the trailer to be stopped automatically in the event of separation of the main coupling, may be attached.
+
+3.7.1.
+
+The attachment points for a secondary coupling and/or breakaway cable shall be positioned such that when in use, the secondary coupling or breakaway cable does not restrict the normal articulation of the coupling or interfere with the normal inertia braking system operation.
+
+3.7.2.
+
+A single attachment point shall be positioned within 100 mm of a vertical plane passing through the centre of articulation of the coupling. If this is not practicable, two attachment points shall be provided, one on each side of the vertical centre line and equidistant from the centre line by a maximum of 250 mm. The attachment point(s) shall be as rearward and as high as practicable.
+
+4\.
+
+**Requirements for articulation**
+
+4.1.
+
+The following articulation shall be possible with the coupling device not attached to the vehicle:
+
+- An angle of free vertical pitch of 20° above and below the horizontal centre line at all angles of horizontal rotation up to at least 90° each side of the longitudinal centre line of the device.
+- At all angles of horizontal rotation up to 90° each side of the longitudinal centre line of the device, there shall be an angle of free axial roll each side of the vertical centre line of 25° for three- and four-wheel vehicles or 40° for two-wheel vehicles.
+
+4.2.
+
+At all angles of horizontal rotation the following combinations of articulation shall be possible:
+
+- In the case of two-wheel vehicles, except where the device is used with one-wheel trailers which tilt with the two-wheel vehicle:
+  - Vertical pitch of ± 15° with axial roll of ± 40°;
+  - Axial roll of ± 30° with vertical pitch of ± 20°;
+- In the case of three-wheel vehicles or quadricycles:
+  - Vertical pitch of ± 15° with axial roll of ± 25°;
+  - Axial roll of ± 10° with vertical pitch of ± 20°.
+
+4.3.
+
+It shall be possible to couple and uncouple coupling balls when the longitudinal axis of the coupling ball in relation to the centre line of the coupling ball and mounting:
+
+- Is horizontally β = 60° right or left;
+- Is vertically α = 10° up or down;
+- Is axially rotated 10° right or left.
+
+5\.
+
+**Requirements for strength**
+
+5.1.
+
+A dynamic strength test (endurance test) shall be performed.
+
+5.1.1.
+
+The endurance test shall be performed with an alternating approximately sinusoidal load with a number of load cycles depending on the material. No cracks or fractures or other visible external damage, or any excessive permanent distortion which would be detrimental to the satisfactory operation of the device, shall occur.
+
+5.1.2.
+
+The loading basis for the dynamic test is the D-value shown below. The static vertical load shall be taken into consideration in the direction of the test load relative to the horizontal plane, depending on the position of the coupling point and the static vertical load permitted at the coupling point.
+
+*Equation 3-1*:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+where:
+
+T
+
+technically permissible maximum mass (in tonnes) of the towing vehicle;
+
+R
+
+technically permissible maximum mass (in tonnes) of the trailer;
+
+g
+
+acceleration due to gravity (assumed g = 9,81 m/s<sup>2</sup>).
+
+5.1.3.
+
+The characteristic values D and S on which the test is to be based are specified in the manufacturer’s type-approval application, S being the permitted maximum static vertical load (in kg) at the coupling point.
+
+5.2.
+
+Test procedure
+
+5.2.1.
+
+For the dynamic tests, the sample shall be placed in a suitable rig with a suitable means of force application so that it is not subjected to any additional forces or moments apart from the specified test force. In the case of alternating tests, the direction of force application shall not deviate by more than ± 10° from the specified direction. To avoid unspecified forces and moments in the sample, it may be necessary to have one joint at the point of force application and a second joint a suitable distance away.
+
+5.2.2.
+
+The test frequency shall not exceed 35 Hz. The selected frequency shall be well separated from resonant frequencies of the test set-up, including the device being tested. The number of load cycles shall be 2 × 10<sup>6</sup> for coupling devices made of steel. A higher number of load cycles may be required for coupling devices made of other materials. Generally, the crack test is to be performed in accordance with the dye penetration procedure; equivalent other procedures are also permissible.
+
+5.2.3.
+
+The coupling devices on test are to be normally mounted as rigidly as possible on a test rig in the actual position in which they will be used on the vehicle. The fixing devices shall be those specified by the manufacturer or applicant and be those intended for its attachment to the vehicle and/or have identical mechanical characteristics.
+
+5.2.4.
+
+Test conditions
+
+5.2.4.1.
+
+Preferably, couplings shall be tested in original condition as intended for use on the road. At the discretion of the manufacturer and in agreement with the technical service, flexible components may be neutralised if this is necessary for the test procedure and if there is no concern about unrealistic influence on the test result.
+
+5.2.4.2.
+
+Flexible components which are obviously overheated due to this accelerated test procedure may be replaced during the test.
+
+5.2.4.3.
+
+The test loads may be applied by means of special slack-free devices.
+
+5.2.4.4.
+
+The devices submitted for test shall be provided with all design details which may have an influence on the strength criteria (for example electrical socket plates, any markings, etc.). The test periphery ends at the anchorage points or fitting points. The geometric location of the coupling ball and the fixing points of the coupling device relating to the reference line shall be provided by the vehicle manufacturer and shown in the test report.
+
+5.2.4.5.
+
+All relative positions of the attachment points with respect to the reference line as shown in Appendix 2, for which the towing vehicle manufacturer shall provide all the necessary information to the towing device manufacturer, shall be repeated on the test bed.
+
+5.3.
+
+Test of coupling balls and towing brackets
+
+5.3.1.
+
+The assembly mounted on the test bed is subjected to a dynamic test on an alternating stress tensile testing machine (e.g. a resonance pulser). This test shall contain the following:
+
+- The test load shall be an alternating force and applied to the coupling ball at an angle of 15 ± 1°, as shown in figures Ap2-1 and Ap2-2 of Appendix 2.
+- If the ball centre is above that line parallel to the reference line as shown in figure Ap2-3 of Appendix 2, which contains the highest of the nearest fixing points, the test shall be carried out with an angle [formula: see source](https://www.legislation.gov.uk/eur/2014/44) (figure Ap2-1 of Appendix 2).
+- If the ball centre is below the line parallel to the reference line as shown in figure Ap2-3 of Appendix 2, which contains the highest of the nearest fixing points, the test shall be carried out with an angle [formula: see source](https://www.legislation.gov.uk/eur/2014/44) (figure Ap2-2 of Appendix 2). This angle is chosen in order to take account of the vertical static and dynamic load. This test method is applicable only to a permitted static load of no more than:
+
+  *Equation 3-2*:
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+- If a greater static load is requested, the test angle shall be increased to 20°. The dynamic test shall be performed with the following test force:
+
+  *Equation 3-3*:
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+5.3.2.
+
+One-piece coupling balls, including devices with non-interchangeable detachable balls and towing brackets with interchangeable balls which can be dismantled (excluding balls on integral support), shall be tested in accordance with 5.3.1.
+
+5.3.3.
+
+The test of a towing bracket which can be used with different ball units is to be carried out in accordance with the test requirements of UNECE regulation No 55.
+
+5.4.
+
+The testing requirements in point 5.3.1 shall be also applicable to coupling devices other than coupling balls.
+
+6\.
+
+**Coupling heads**
+
+6.1.
+
+Coupling heads shall be designed so that they can be used safely with the coupling balls described in Figure Ap 1-1 of Appendix 1.
+
+6.2.
+
+Coupling heads intended to be fitted to unbraked trailers, shall be fitted with a secondary coupling device or at least attachment point(s) to permit the connection of a secondary coupling device(s). The attachment point(s) shall be positioned such that when in use, the secondary coupling device(s) does not restrict the normal articulation of the coupling.
+
+6.3.
+
+An endurance test shall be performed with an alternating test force and a static test (lifting test) on each test sample.
+
+6.4.
+
+The dynamic test shall be performed with a suitable coupling ball of appropriate strength. On the test rig, the coupling head and ball shall be arranged as instructed by the manufacturer and in a way corresponding to their attachment in a vehicle. There shall be no possibility of extra forces in addition to the test force acting on the sample. The test force shall be applied along a line passing through the centre of the ball and inclined downwards to the rear at 15° (see figure Ap3-1 of Appendix 3). An endurance test shall be performed on a test sample with the following test force:
+
+*Equation 3-3*:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+6.5.
+
+The coupling ball used for the test shall have a diameter of 49 – 0<sup>+0;13</sup> mm in order to represent a worn coupling ball. The lifting force F<sub>A</sub> shall be increased smoothly and quickly to a value of:
+
+*Equation 3-4*:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+and held for 10 seconds, where:
+
+C
+
+mass of the trailer (sum of the axle loads of the trailer carrying maximum permissible load) in tonnes.
+
+6.6.
+
+If coupling devices other than coupling balls are used, the coupling head shall be tested, as applicable, in accordance with the relevant requirements of UNECE regulation No 55.
+
+Appendix 1
+
+**Specification for dimensions of a coupling ball if fitted on L-category vehicles**
+
+1\.
+
+The coupling ball system for trailers does not exclude the use of other systems (e.g. cardan couplings); however, if a ball-coupling system is used, this system shall correspond to the specification laid down in Ap1-1.
+
+1.1.
+
+*Figure Ap1-1* **Ball coupling dimensions** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_003)
+
+1.1.1.
+
+The connecting radius between the ball and the neck is tangential both to the neck and to the lower horizontal surface of the coupling ball.
+
+1.1.2.
+
+Refer to ISO/R 468:1982 and ISO 1302:2002; the roughness number N9 refers to a R<sub>a</sub> value of 6,3 μm.
+
+1.2.
+
+*Figure Ap1-2* **Clearing space for coupling balls** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_004)
+
+*Comments*:
+
+(1)
+
+350-420 mm measured at the maximum permissible vehicle mass = T;
+
+(2)
+
+min. = minimum distance, max. = maximum distance.
+
+Appendix 2
+
+**Specifications for dynamic test of coupling ball and towing bracket**
+
+1\.
+
+The test direction is shown by the example of a coupling ball with towing bracket. (Applicable by analogy to other coupling systems).
+
+1.1.
+
+*Figure Ap2-1* **Dynamic test direction on coupling ball and towing bracket – Test rig I. RL = reference line** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_005)
+
+1.2.
+
+*Figure Ap2-2* **Dynamic test direction on coupling ball and towing bracket – Test rig II. RL = reference line** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_006)
+
+1.3.
+
+*Figure Ap2-3* **Relative positions of the attachment points of a coupling device with respect to the reference line — Criteria for dynamic test angles** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_007)
+
+*Comments*:
+
+(1) HFP
+
+highest fixing point;
+
+(2) PRL
+
+parallel reference line;
+
+(3) RL
+
+reference line;
+
+(4) BC
+
+ball centre.
+
+Appendix 3
+
+**Specifications for dynamic test on coupling head**
+
+1\.
+
+The test direction is shown by the example of a coupling head.
+
+1.1.
+
+*Figure Ap3-1* **Dynamic test direction on coupling head** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_008)
+
+1.2.
+
+*Figure Ap3-2* **Static lifting test direction on coupling head** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_009)
+
+ANNEX VI
+
+**Requirements applying to devices to prevent unauthorised use**
+
+1\.
+
+**Requirements**
+
+1.1.
+
+‘Type of vehicle with regard to devices to prevent unauthorised use’ means a category of vehicles which do not differ in such essential respects as the design characteristics of the protective device preventing the unauthorised use of the vehicle;
+
+1.2.
+
+Vehicles of categories L1e with a mass in running order > 35 kg, L2e, L3e, L4e and L5e which are fitted with handlebars shall meet all the relevant requirements of UNECE regulation No 62[^f00014].
+
+1.2.1.
+
+Vehicles of categories L1e, L2e, L3e, L4e and L5e which are not fitted with handlebars shall meet all the relevant requirements of UNECE regulation No 18[^f00015] as prescribed for vehicle category N<sub>2</sub>.
+
+1.3.
+
+Vehicles of category L6e which are fitted with handlebars shall meet all the relevant requirements of UNECE regulation No 62, as prescribed for vehicle category L2e.
+
+1.3.1.
+
+Vehicles of category L6e which are not fitted with handlebars shall meet all the relevant requirements of UNECE regulation No 18, as prescribed for vehicle category N<sub>2</sub>.
+
+1.4.
+
+Vehicles of category L7e which are fitted with handlebars shall meet all the relevant requirements of UNECE regulation No 62, as prescribed for vehicle category L5e.
+
+1.4.1.
+
+Vehicles of category L7e which are not fitted with handlebars shall meet all the relevant requirements of UNECE regulation No 18, as prescribed for vehicle category N<sub>2</sub>.
+
+ANNEX VII
+
+**Requirements applying to electromagnetic compatibility (EMC)**
+
+1\.
+
+**Requirements**
+
+1.1.
+
+‘Type of vehicle with regard to electromagnetic compatibility’ means a category of vehicles which do not differ in such essential respects as the design characteristics of the electronic components, spark-plugs and their wire harnesses, and their method of attachment and location on the vehicle;
+
+1.2.
+
+Vehicles of categories L1e, L2e, L3e, L4e, L5e, L6e and L7e shall meet all the relevant requirements of UNECE regulation No 10[^f00016].
+
+ANNEX VIII
+
+**Requirements applying to external projections**
+
+1\.
+
+**Requirements applying to two-wheel mopeds and two-wheel motorcycles with or without side-car**
+
+1.1.
+
+General requirements
+
+1.1.1.
+
+Vehicles of categories L1e, L3e and L4e shall meet the following general requirements:
+
+1.1.1.1.
+
+Vehicles shall incorporate no pointed, sharp or protruding parts, pointing outwards, of such a shape, dimension, angle of direction and hardness that they increase the risk or seriousness of body lesions and lacerations suffered by any person struck or grazed by the vehicle in the event of an accident. Vehicles shall be designed so that parts and edges with which vulnerable road users such as pedestrians are likely to come into contact in the event of an accident comply with the requirements in points 1 to 1.3.8.
+
+1.1.1.2.
+
+All contactable projections or edges which are made of or covered with material such as soft rubber or soft plastic having a hardness of less than 60 Shore (A) are considered to meet the requirements in points 1.3 to 1.3.8. The hardness measurement shall be carried out with the material fitted to the vehicle as intended.
+
+1.1.2.
+
+Specific provisions for vehicles of categories L1e, L3e and L4e
+
+1.1.2.1.
+
+Vehicles shall be assessed in accordance with the provisions in points 1.2 to 1.2.4.1.
+
+1.1.2.2.
+
+In the case of vehicles fitted with a form of structure or panels intended to partially or fully enclose the rider, passenger or luggage or to cover certain vehicle components, the vehicle manufacturer may as an alternative choose to apply the relevant requirements of UNECE regulation No 26 [^f00017] as prescribed for vehicle category M1, covering either specific external projections or the full external surface of the vehicle. In such cases, particular attention shall be given to the required radii whereas the amount of projection of handles, hinges, push-buttons and aerials do not need to be checked.
+
+The relevant external projections assessed in conformity with this clause shall be clearly identified in the information document and any remaining external surface shall comply with the requirements of points 1. to 1.3.8.
+
+1.1.3.
+
+Specific provisions for vehicles of category L4e
+
+1.1.3.1.
+
+When the side-car is connected to the motorcycle, either permanently or in a detachable way, the space between the motorcycle and the side-car is exempted from assessment (see Figure 8-1).
+
+*Figure 8-1* **Top-down view of category L4e motorcycle with side-car** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_010)
+
+1.1.3.2.
+
+If the side-car can be detached from the motorcycle so that the motorcycle can be used without it, the motorcycle itself shall fulfil the requirements for solo motorcycles in points 1 to 1.3.8.
+
+**No longer in force.**
+
+[^c000005]1.1.4.
+
+Specific provisions for vehicles of category L4e
+
+[^c000005]1.1.4.1.
+
+[^c000005]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]1.1.4.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000005]1.1.4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1.2.
+
+Assessment of external projections
+
+1.2.1.
+
+A testing device conforming to the specifications laid down by Figure Ap1-1 in Appendix 1 shall be used to check the external projections of the vehicle.
+
+1.2.2.
+
+The vehicle shall be placed on a horizontal surface and kept in an upright position, initially with the steering control and steered wheel in the straight-ahead position.
+
+1.2.2.1.
+
+A 50<sup>th</sup> percentile anthropomorphic dummy or a person with similar physical characteristics shall be seated on the test vehicle in the normal riding position in such a way that it does not hamper the free rotation of the steering control. The feet shall be placed on the designated foot supports and shall not be resting on any gear shift lever or brake pedal.
+
+1.2.3.
+
+The testing device shall be moved from the front towards the rear of the vehicle, in a smooth motion, on both sides of it. If the testing device contacts the steering control or any parts mounted on it, it shall be rotated away into its fully locked position, during and after which the test continues. The testing device shall remain in contact with the vehicle or rider during the test (see Figure 8-2).
+
+*Figure 8-2* **Test device movement zones** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_011)
+
+1.2.3.1.
+
+The front of the vehicle shall be the first point of contact and the testing device shall move sideways in an outward direction following the contour of the vehicle and the rider if applicable. The testing device shall also be allowed to move inward at a rate not exceeding the rate of rearward movement (i.e. at an angle of 45° in relation to the longitudinal median plane of the vehicle).
+
+1.2.3.2.
+
+The hands and feet of the rider shall be pushed away by the testing device if it comes into direct contact with them and any relevant supports (e.g. foot supports) shall be allowed to freely rotate, fold, bend or flex as a result of contact with the testing device and assessed in all resulting intermediate positions.
+
+1.2.3.3.
+
+Parts and components of rear-view mirrors which are duly covered by the relevant component type-approval are deemed to comply with the requirements of points 1 to 1.3.8.
+
+1.2.3.4.
+
+Projections which may be contacted by the testing device in any position of intended use (e.g. passenger foot supports both in stowed and folded-out condition) shall be assessed in all positions of intended use.
+
+1.2.4.
+
+When the testing device is moved along the vehicle as described above, the projections and edges of the vehicle which are contacted by that device are considered to fall within:
+
+- group 1: if the testing device grazes parts of the vehicle, or
+- group 2: if the testing device collides with parts of the vehicle.
+
+1.2.4.1.
+
+In order to differentiate in which group the contacted projections and edges fall, the testing device shall be used in accordance with the assessment method shown in Figure 8-3 below and considered to belong to:
+
+- group 1 if 0° ≤ α \< 45°; and
+- group 2 if 45° ≤ α ≤ 90°.
+
+*Figure 8-3* **Top-down view of the testing device grazing the side of a vehicle and colliding with a protruding part** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_012)
+
+1.3.
+
+Specific requirements
+
+1.3.1.
+
+Radius requirements concerning group 1 parts (contacted by grazing):
+
+1.3.1.1.
+
+Plates:
+
+- plate edges shall have a radius of curvature of at least 0,5 mm.
+
+Structure, fairings, bodywork, etc.:
+
+- corners shall have a radius of curvature of at least 3,0 mm. A ‘corner’ means the three-dimensional shape of a surface which is not a plate edge or a stem.
+
+1.3.1.1.1.
+
+The radii on corners and plate edges shall be determined at the point(s) of contact with the testing device and there shall be a smooth transition to a smaller radius, if any, in the direction where contact between the testing device and corner or edge no longer occurs.
+
+1.3.1.2.
+
+Stems
+
+- stems or similar parts shall have an overall diameter of at least 10 mm;
+- the edges on the end of a stem shall have a radius of curvature of at least 2,0 mm.
+
+1.3.1.2.1.
+
+The radii on edges on the end of a stem shall be determined at the point(s) of contact with the testing device and may be progressively less around the full circumference of the stem end.
+
+1.3.2.
+
+Radius requirements concerning group 2 parts (contacted by collision):
+
+1.3.2.1.
+
+Plates:
+
+- plate edges shall have a radius of curvature of at least 2,0 mm;
+
+Structure, fairings, bodywork, etc.:
+
+- corners shall have a radius of curvature of at least 2,0 mm.
+
+1.3.2.1.1.
+
+The radii on corners and plate edges shall be determined at the point(s) of contact with the testing device and shall be continued or progressively less in the directions where contact between the testing device and corner or edge no longer occurs.
+
+1.3.2.2.
+
+Stems
+
+- stems or similar parts shall have an overall diameter of at least 20 mm;
+- however, a stem or a similar part may have an overall diameter of less than 20 mm, provided that its projection is less than half of its overall diameter;
+- the edges on the end of a stem shall have a radius of curvature of at least 2,0 mm.
+
+1.3.2.2.1.
+
+The radii on edges on the end of a stem shall be determined at the point(s) of contact with the testing device and may be progressively less around the full circumference of the stem end.
+
+1.3.3.
+
+The upper edge of a windscreen or fairing, transparent or not, shall have a radius of curvature of at least 2,0 mm or may be covered with protective material in compliance with point 1.1.1.2.
+
+1.3.3.1.
+
+The upper edge is bounded by planes at a 45° angle in relation to the horizontal plane (see Figure 8-4).
+
+*Figure 8-4* **View of rider through transparent windshield** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_013)
+
+1.3.3.2.
+
+If a radius is applied to the upper edge, it shall not be larger than 0,70 times the thickness of the windscreen or fairing, as measured at the upper edge.
+
+1.3.3.3.
+
+Covers which resemble windscreens or fairings and which are installed only to protect the rider’s instrument cluster or headlamp device and which have an overall projection of no more than 50 mm measured from the top surface of the relevant instrument cluster or headlamp device are exempted from the requirements in points 1.3.3, 1.3.3.1 and 1.3.3.2.
+
+1.3.4.
+
+The end of clutch and brake levers mounted on the steering control shall be perceptibly spherical and have a radius of curvature of at least 7,0 mm. The remaining outward edges of these levers shall have a radius of curvature of not less than 2,0 mm along the complete grip application area. The verification is done with the levers in non-applied position.
+
+1.3.4.1.
+
+If the levers are fully covered by protection shields and can therefore not come into contact with a person struck by the vehicle, the levers are deemed to comply with the requirements of point 1.3.4.
+
+1.3.5.
+
+The leading edge of the front mudguard or any parts mounted onto it shall have a radius of curvature of at least 2,0 mm.
+
+1.3.5.1.
+
+The leading edge of the front mudguard is bounded by two vertical planes forming a horizontal angle of 45° in relation to the longitudinal median plane of the vehicle.
+
+1.3.5.2.
+
+The radius as applied to the leading edge of the front mudguard shall not be larger than 0,70 times the thickness of the mudguard, as measured at the leading edge (e.g. in case of a round bead on the edge of sheet metal, the diameter of the bead is taken as the relevant thickness).
+
+1.3.6.
+
+The rear edge of a fuel filler cap or similar shaped device located on the upper surface of the fuel tank, for instance, and likely to be struck by the rider moving forward during a collision, shall not project more than 15 mm from the underlying surface and the transition from the underlying surface shall be smooth or perceptibly spherical. An example is given in Figure 8-5. It may project more than 15 mm from the underlying surface provided that a protective device is located behind it ensuring that the relative projection of 15 mm is not exceeded.
+
+*Figure 8-5* **Fitting requirement for filler cap on fuel tank** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_014)
+
+1.3.6.1.
+
+Fuel filler caps or similar shaped devices which are not placed forward of the rider or located below the level of the rider’s seating position are exempted from the requirements of point 1.3.6.
+
+1.3.7.
+
+Ignition key heads shall have a protective cap made from rubber or plastic with blunted edges.
+
+1.3.7.1.
+
+Ignition keys which are not required to be inserted in the ignition lock during vehicle operation, which are flush with or encased by the surrounding surface, of which the head can fold in relation to its shaft or barrel, which is located below the level of the rider’s seating position or which is not located forward of the rider are exempted from the requirements of point 1.3.7.
+
+1.3.8.
+
+Outward pointed and protruding parts of the vehicle in its normal and upright position which are not contacted by the testing device, but which could increase the risk or seriousness of body lesions and lacerations as a result of any contact with a person being struck in a collision, shall be blunted.
+
+2\.
+
+**Requirements applying to three-wheel vehicles and quadricycles**
+
+2.1.
+
+General requirements
+
+2.1.1.
+
+Vehicles of categories L2e, L5e, L6e and L7e shall meet the following general requirements.
+
+2.1.1.1.
+
+Vehicles shall incorporate no pointed, sharp or protruding parts, pointing outwards, of such a shape, dimension, angle of direction and hardness that they increase the risk or seriousness of body lesions and lacerations suffered by any person struck or grazed by the vehicle in the event of an accident. Vehicles shall be designed in such a way that parts and edges with which vulnerable road users such as pedestrians are likely to come into contact in the event of an accident comply with the requirements in points 2.1.2 to 2.1.2.1.4.
+
+2.1.2.
+
+Specific provisions for vehicles of categories L2e, L5e, L6e and L7e
+
+2.1.2.1.
+
+Vehicles shall meet all the relevant requirements of UNECE regulation No 26 as prescribed for vehicle category M<sub>1</sub>.
+
+2.1.2.1.1.
+
+However, bearing in mind the variety of forms of construction of these categories of vehicle, and whether or not the vehicle is equipped with a device for reversing, the vehicle manufacturer may, as an alternative to the requirements in point 2.1.2.1, choose to apply the requirements of points 1.1 to 1.1.2.1 and points 1.2 to 1.3.8, as prescribed for vehicles of categories L1e and L3e, covering specific external projections (e.g. of front forks, wheels, fenders, mud guards and fairings and the rear section of vehicles not equipped with a device for reversing) of the vehicle to be type-approved, in agreement with the technical service and approval authority (e.g. for a type of vehicle which has the overall appearance of a motorcycle, but which is equipped with three wheels classifying it as an L5e category vehicle).
+
+The relevant external projections assessed in conformity with this clause shall be clearly identified in the information document and any remaining external surface shall comply with the requirements of points 2 to 2.1.2.1.4.
+
+In accordance with the first subparagraph, some portions of the kinds of vehicle concerned may be assessed with the external projections testing device (see Appendix 1) and the remaining portions shall be assessed with the sphere measuring 100 mm in diameter (see UNECE Regulation No 26). In such cases, particular attention shall be given to the required radii whereas the amount of projection of handles, hinges, push-buttons and aerials does not need to be checked.
+
+2.1.2.1.2.
+
+Where vehicles are fitted with a form of structure or panels intended to partially or fully enclose the rider, passenger or luggage or to cover certain vehicle components and parts of the external surface cannot be assessed appropriately by application of point 2.1.2.1.1 (e.g. as regards the roof, roof pillars, doors, door handles, glazing, bonnet top, trunk lid, opening buttons, load platforms), these remaining external projections shall comply with all the relevant requirements of UNECE regulation No 26 as prescribed for vehicle category M<sub>1</sub>.
+
+2.1.2.1.3.
+
+In case of vehicles of categories L2e-U, L5e-B, L6e-BU and L7e-CU, the edges which can be contacted in accordance with the provisions laid down above and which are located behind the rear bulkhead, or where no rear bulkhead is present a vertical transverse plane passing through a point located 50 cm behind the R-point of the most rearward seating position, shall at least be blunted when their projection is 1,5 mm or more.
+
+2.1.2.1.4.
+
+Compliance with the requirements shall be checked without any registration plate affixed to the vehicle and any registration plate space or surface shall thus not be exempted from assessment.
+
+Appendix 1
+
+**Testing device**
+
+1\.
+
+**External projections testing device**
+
+1.1.
+
+*Figure Ap1-1* **Diagram of the testing device** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_015)
+
+2\.
+
+**Procedure for use**
+
+2.1.
+
+The testing device shall be kept in an orientation such as to ensure that the line corresponding to the angle of α = 90° remains parallel to the longitudinal median plane of the vehicle throughout the test.
+
+2.2.
+
+The lower portion of the testing device (i.e. the 100 mm high base) may be of a different design for stability or convenience purposes. However, if this lower portion comes into direct contact with the vehicle, it shall be adapted (e.g. locally trimmed down to a minimum of 150 mm in diameter) in order to allow full contact between the vehicle and the portion of the testing device between 100 mm to 1 200 mm in height.
+
+ANNEX IX
+
+**Requirements applying to fuel storage**
+
+1\.
+
+**General requirements**
+
+1.1.
+
+‘Type of vehicle with regard to fuel storage’ means a category of vehicles which do not differ in such essential respects as shape, size and material characteristics, and the method of mounting and location of the fuel tank on the vehicle;
+
+1.2.
+
+Fuel tanks of vehicles fitted with one or more of these shall meet the following general requirements:
+
+- Fuel tanks shall be made with materials of which the thermal, mechanical and chemical behaviour continues to be appropriate under their intended conditions of use.
+- Fuel tanks and adjacent vehicle parts shall be designed in such a way as not to generate any electrostatic charge which could result in sparking between the tank and the chassis of the vehicle which could ignite a mixture of air and fuel.
+- Fuel tanks shall be made so as to be corrosion-resistant.
+- Fuel tanks shall be fitted with appropriate devices (e.g. orifices or safety valves) which automatically release any excess pressure or any pressure exceeding the service pressure. Such devices shall be so designed as to preclude any risk of ignition of a mixture of air and fuel.
+- Fuel tanks shall be so designed that any fuel that may leak when they are being filled cannot fall on the vehicle’s exhaust system, engine or other drivetrain parts or on the inside of any passenger or luggage compartment, but is channelled to the ground.
+- Fuel shall be unable to flow from the filler cap or any devices fitted in order to release excess pressure, even if the tank is fully inverted. Dripping is tolerated to a maximum of 30 g/min, to be verified by means of the test described in points 2.1 to 2.1.4. If the leakage rate does not appear to be constant in nature, it shall be ensured that maximum leakage rate is determined within a one minute timeframe (i.e. not averaged over a longer timeframe).
+- No tank shall be situated in, or form, a surface (e.g. floor, wall, roof or bulkhead) of the passenger compartment or other compartment integral with it, if the vehicle is fitted with bodywork.
+  - For the purpose of this Annex, a vehicle is deemed to have a passenger or other compartment integral with it if it is fitted with safety glazing, side doors, a rear door, side pillars and/or a roof creating an enclosed or partly enclosed compartment. The technical service shall clearly justify the judgment criteria in the test report.
+- The fuel filler port shall not be situated in the passenger compartment, luggage compartment or engine compartment, if any.
+  - Further to point 1.2.7.1 above, a vehicle is deemed to have an engine compartment or a luggage compartment if it is fitted with side panels in combination with a bonnet/hood lid and/or a boot/trunk lid creating an enclosed or partly enclosed compartment. The technical service shall clearly justify the judgment criteria in the test report.
+- Fuel tanks shall pass the leak-tightness tests carried out with an internal pressure equal to twice the relative service pressure (design pressure) or an overpressure of 30 kPa, whichever is higher, as described in points 2.2 to 2.2.1. Any orifices may be blocked for the purpose of this test. The fuel tank shall not crack or leak during the test, but may remain permanently deformed.
+  - Fuel tanks made of materials other than metal are considered as meeting this requirement if they have passed the test described in points 3.4 to 3.4.1.
+- Fuel tanks made of materials other than metal shall be subject to the tests in accordance with points 3 to 3.7.5.1 in addition to those described in points 2.1 to 2.1.4.
+
+1.3.
+
+Vehicles fitted with one or more fuel tanks shall meet the following general requirements:
+
+- Fuel tanks shall be fitted and installed in such a way as to fulfil their function in all foreseeable operating conditions.
+- All parts and components of the vehicle’s fuel supply system shall be adequately protected by parts of the frame or bodywork against contact with possible obstacles on the ground. Such protection shall not be required if the relevant parts or components located beneath the vehicle are further from the ground than the parts of the frame or bodywork which are located immediately ahead of them.
+- All parts and components of the vehicle’s fuel supply system shall be designed, manufactured and installed in such a way as to withstand the effects of any internal and external corrosion to which it is exposed. No motion due to torsion, flexing and vibration of the vehicle structure, engine and transmission shall subject any part or component of the fuel supply system to abnormal friction or stress.
+- Vehicles using liquefied petroleum gas (LPG) in their propulsion system, and the LPG tanks, shall meet all relevant fitting and equipment requirements of UNECE regulation No 67[^f00018] as prescribed for vehicle category M<sub>1</sub>.
+- Vehicles using compressed natural gas (CNG) in their propulsion system, and the CNG tanks, shall meet all relevant fitting and equipment requirements of UNECE regulation No 110[^f00019] as prescribed for vehicle category M<sub>1</sub>.
+
+2\.
+
+**Fuel tank tests**
+
+2.1.
+
+Overturn test
+
+2.1.1.
+
+The tank and all its accessories shall be mounted onto a test fixture in a manner corresponding to the mode of installation on the vehicle for which the tank is intended. This also applies to systems for the compensation of the interior excess pressure.
+
+2.1.2.
+
+The test fixture shall rotate about an axis lying parallel to the longitudinal vehicle axis.
+
+2.1.3.
+
+The test shall be carried out with the tank filled to 30 % of its total rated capacity and also 90 % of its total rated capacity with a non-flammable liquid having a density and a viscosity close to those of the fuel normally used, or with water.
+
+2.1.4.
+
+The tank shall be turned from its installed position 90° to the left. The tank shall remain in this position for at least five minutes. The tank shall then be turned 90° further in the same direction. The tank shall be held in this position, in which it is completely inverted, for at least another five minutes. The tank shall be rotated back to its normal position.
+
+Testing liquid that has not flowed back from the venting system into the tank may be drained and replenished if necessary.
+
+The tank shall be turned from its installed position 90° to the right. The tank shall remain in this position for at least five minutes. The tank shall then be turned 90° further in the same direction. The tank shall be held in this position, in which it is completely inverted, for at least another five minutes. The tank shall be rotated back to its normal position.
+
+The 90° rotations shall take place at one to three minute intervals.
+
+2.2.
+
+Hydraulic test
+
+2.2.1.
+
+The tank shall be subjected to a hydraulic internal pressure test which shall be carried out on an isolated unit complete with all its accessories. The tank shall be completely filled with a non-flammable liquid having a density and a viscosity close to those of the fuel normally used, or with water. After all communication with the outside has been cut off, the pressure shall be gradually increased, through the pipe connection through which fuel is fed to the engine, to the internal pressure specified in point 1.2.9. and this pressure shall be maintained for at least 60 seconds.
+
+3\.
+
+**Specific requirements and tests for fuel tanks made of materials other than metal**
+
+3.1.
+
+Fuel tanks made of materials other than metal are subjected to the following additional tests:
+
+- permeability test,
+- shock test,
+- mechanical strength test,
+- fuel resistance test,
+- high-temperature test,
+- fire-resistance test.
+
+3.2.
+
+Permeability test to be carried out on completely new fuel tank
+
+3.2.1.
+
+The permeability test as part of type IV testing referred to in Part A of Annex V to Regulation (EU) No 168/2013 without having to take into account any diffusion measurements for the purpose of the test in accordance with this Annex, shall be carried out on a sufficient number of tanks for the purpose of testing in accordance with points 3.3 to 3.7.5.1. The total duration of the preconditioning procedure shall be composed of a pre-storage period of at least four weeks followed by a subsequent eight-week stabilised condition storage period.
+
+3.3.
+
+Shock test to be carried out on a fuel tank which has undergone the permeability test
+
+3.3.1.
+
+The fuel tank is filled up to its total rated capacity with a mixture of 50 % water and 50 % ethylene glycol or with any other coolant which does not deteriorate the fuel tank material, the cryoscopic point of which is lower than 243 ± 2 K (– 30 ± 2 °C).
+
+The temperature of the substances contained in the fuel tank during the test shall be 253 ± 2 K (– 20 ± 2 °C). The tank is cooled down to a corresponding ambient temperature. The fuel tank may also be filled with a suitably refrigerated liquid provided that it is left at the test temperature for at least an hour.
+
+A pendulum is used for the test. Its impact head shall have the form of an equilateral triangular pyramid with a radius of curvature of 3,0 mm at its peak and edges. The freely moving mass of the pendulum shall have a mass of 15 kg ± 0,5 kg and the exerted pendulum's energy shall not be less than 30,0 J for each impact on the fuel tank.
+
+The technical service may select any number of points on the fuel tank to be tested and these points shall reflect locations which are considered at risk as a result of the fitting of the tank and its position on the vehicle. Non-metal shielding shall be disregarded and frame tubing or chassis sections may be taken into account for the assessment of risk.
+
+More than one fuel tank may be used for the completion of all impacts, provided that all fuel tanks to be used have undergone the permeability test.
+
+There shall be no leakage of liquid following a single impact at any one of the tested points.
+
+3.4.
+
+Mechanical strength test to be carried out on a fuel tank which has undergone the permeability test
+
+3.4.1.
+
+The fuel tank shall be filled up to its total rated capacity, the test liquid used being water at 326 ± 2 K (53 ± 2 °C). The tank shall then be subjected to an internal pressure equal to twice the relative service pressure (design pressure) or an overpressure of 30 kPa, whichever is higher. The tank shall remain closed and pressurised for a period of not less than five hours at an ambient temperature of 326 ± 2 K (53 ± 2 °C).
+
+The fuel tank shall not show signs of leakage and any temporary or permanent deformation which may arise shall not render it unusable. Account shall be taken of specific fitting conditions if the deformation of the tank is to be assessed.
+
+3.5.
+
+Fuel resistance test to be carried out on samples of a completely new fuel tank and samples of a fuel tank which has undergone the permeability test
+
+3.5.1.
+
+Six tensile test-pieces of approximately the same thickness are taken from flat or nearly flat faces of the completely new fuel tank. Their tensile strength and elastic limits are established at 296 ± 2 K (23 ± 2 °C) at an elongation rate of 50 mm/min. The obtained values shall then be compared with the tensile strength and elasticity values obtained from similar tests carried out using a fuel tank which has undergone the permeability test. The material shall be considered to be acceptable if the tensile strength differs by no more than 25 %.
+
+3.6.
+
+High temperature test to be carried out on samples of a fuel tank which has undergone the permeability test
+
+3.6.1.
+
+The fuel tank shall be fitted to a representative part of the vehicle and filled to 50 % of its total rated capacity with water at 293 ± 2 K (20 ± 2 °C). The test setup including the fuel tank shall then be placed in an ambient temperature of 343 ± 2 K (70 ± 2 °C) for 60 minutes, after which the fuel tank shall not display any permanent deformation or leaks and shall be in fully usable condition.
+
+3.7.
+
+Fire resistance test to be carried out on samples of a fuel tank which has undergone the permeability test
+
+3.7.1.
+
+Preparation of test samples
+
+3.7.1.1.
+
+At least ten flat or nearly flat test samples 125 ± 5 mm long and 12,5 ± 0,2 mm wide shall be taken from one or more fuel tanks which have undergone the permeability test. However, if obtaining such test samples is prevented by the design characteristics (i.e. shape) of the fuel tank, it is deemed acceptable for the purpose of this test to prepare one or more special tanks with similar characteristics but with more flat or nearly flat surfaces incorporated in the walls. The overall thickness of all samples shall be within ± 5 % of the thickest sample.
+
+3.7.1.2.
+
+Two lines shall be cut into each sample, one at 25 mm and the other at 100 mm from one end.
+
+3.7.1.3.
+
+The edges of the test samples shall be sharply defined. Edges obtained by sawing shall be fine-sanded down in order to obtain a smooth finish.
+
+3.7.2.
+
+Test equipment
+
+3.7.2.1.
+
+The test chamber shall consist of a totally enclosed laboratory fume hood with a heat-resistant test-observation window. A mirror may be used in certain test enclosures in order to provide a rear view of the sample.
+
+The fume extractor fan shall be shut down during the test and should be restarted immediately after the test in order to extract combustion products.
+
+The test may also be carried out inside a metal box placed beneath the fume hood with the extractor fan operating.
+
+The top and bottom walls of the box shall incorporate ventilation holes enabling sufficient air for the combustion to pass through while not subjecting the burning sample to a draught.
+
+3.7.2.2.
+
+The supporting base shall consist of two grips which can be set in any position by means of swivel joints.
+
+3.7.2.3.
+
+The burner shall be a gas-fired ‘Bunsen’ or ‘Tirill’ type with a 10 mm nozzle. The nozzle shall not be fitted with any accessory.
+
+3.7.2.4.
+
+A metal screen with a mesh size of 20 and overall dimensions of approximately 100 × 100 mm shall be provided.
+
+3.7.2.5.
+
+A water bath with suggested dimensions of approximately 150 × 75 × 30 mm shall be provided.
+
+3.7.2.6.
+
+A timing device (in seconds) shall be provided.
+
+3.7.2.7.
+
+A graduated scale (in millimetres) shall be provided.
+
+3.7.2.8.
+
+A sliding calliper (with an accuracy of at least 0.05 mm) or equivalent measuring device shall be provided.
+
+3.7.3.
+
+Test procedure
+
+3.7.3.1.
+
+A sample is attached to one of the grips on the base by the end closest to the 100 mm mark, with its longitudinal axis horizontal and its transverse axis at 45° to the horizontal. Below the test sample, a clean woven metal screen is attached to the second grip and located 10 mm horizontally below the edge of the sample such that the sample protrudes approximately 13 mm beyond the end of the screen (see Figure 9-1). A bath full of water shall be placed on the fume hood table in such a way as to receive any incandescent particles which may fall during the test.
+
+*Figure 9-1* **Set-up for fire resistance test** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_016)
+
+3.7.3.2.
+
+The air supply to the burner shall be set in such a way as to obtain a blue flame with an approximate height of 25 mm.
+
+3.7.3.3.
+
+The burner shall be placed so that its flame touches the outer edge of the test sample (see Figure 1) at the same time the timer is started.
+
+The flame is held in contact for 30 seconds. If the sample deforms, melts or shrinks away, the flame shall be repositioned in order to maintain contact with it. However, significant deformation of the sample during the test may invalidate the result.
+
+The burner shall be withdrawn after 30 seconds or when the flame-front reaches the 25 mm mark, whichever occurs first. The burner shall be moved away at least 450 mm from the sample and the fume hood shall be closed.
+
+3.7.3.4.
+
+When the flame front reaches the 25 mm mark, the indicated time in seconds shall be noted as time t<sub>1</sub>.
+
+3.7.3.5.
+
+The timer is stopped when combustion (with or without flame) stops or reaches the mark 100 mm from the free end. The indicated time shall be noted as time t. When a sample is reignited by burning material deposited on the woven metal screen, the test result may be invalidated.
+
+3.7.3.6.
+
+If the combustion does not reach the 100 mm mark, the unburnt length from the 100 mm mark along the lower edge of the sample is measured and rounded up or down to the nearest millimetre. The burnt length is thus equal to 100 mm minus the unburnt length expressed in mm.
+
+3.7.3.7.
+
+If a sample has burnt up to or beyond the 100 mm mark, the combustion speed shall be calculated as follows: [formula: see source](https://www.legislation.gov.uk/eur/2014/44) and expressed in mm/s.
+
+3.7.3.8.
+
+The test described in points 3.7.3.1 to 3.7.3.7 shall be repeated on different samples until three samples have burnt up to or beyond the 100 mm mark or ten samples have been tested.
+
+3.7.3.9.
+
+If only one sample out of ten burns up to the 100 mm mark or beyond, the test described in points 3.7.3.1 to 3.7.3.7 shall be repeated on a maximum of ten new samples.
+
+3.7.4.
+
+Expression of results
+
+3.7.4.1.
+
+The test report shall contain at least the following detailed information:
+
+- number of samples tested,
+
+and concerning each of the individual samples:
+
+- means of identification,
+- method of preparation and storage,
+- thickness measured in each third of the sample’s length (mm with at least one decimal),
+- combustion time (s),
+- combustion length (mm),
+- statement and reason where a sample does not burn up to the 100 mm mark (e.g. because it drips, runs or breaks up into burnt particles),
+- statement when a sample is reignited by burning material deposited on the woven metal screen.
+
+3.7.4.2.
+
+If at least two samples have burnt up to or beyond the 100 mm mark, the average speed of combustion (expressed in mm/s and as derived from the multiple results calculated in accordance with the formula in point 3.7.3.7) shall be determined. The average speed of combustion is thus the average of the combustion speeds of all of the samples that have burnt up to or beyond the 100 mm mark. This value shall be compared against the requirement in points 3.7.5 to 3.7.5.1 and the calculations and verification referred to in point 3.7.4.3 shall not be carried out.
+
+3.7.4.3.
+
+The average combustion time (ACT) and average combustion length (ACL) shall be calculated if no sample out of ten or no more than one out of 20 has burnt up to the 100 mm mark.
+
+- *Equation 9-1:*
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+  ( *note:* n = number of samples)
+
+  The result is rounded up or down to the nearest five-second increment. However, an ACT of 0 seconds shall not be used. (i.e. if the combustion lasts between less than 2 seconds and 7 seconds, the ACT is 5 seconds; if the combustion lasts between 8 and 12 seconds, the ACT is 10 seconds; if the combustion lasts between 13 and 17 seconds, the ACT is 15 seconds, etc.).
+- *Equation 9-2:*
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+  ( *note:* n = number of samples)
+
+  The result is expressed in relation to the nearest 5 mm increment (i.e. ‘ less than 5 mm ’ shall be stated if the combustion length is less than 2 mm and thus in no case can an ACL of 0 mm be given).
+
+  Where a single sample out of 20 burns up to or beyond the 100 mm mark, the combustion length (i.e. the value of (100 – unburnt length <sub> i </sub> ) for that sample) shall be taken as 100 mm.
+- *Equation 9-3:*
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2014/44) in [formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+  This value shall be compared against the requirement as laid down in points 3.7.5. to 3.7.5.1.
+
+3.7.5.
+
+Requirements concerning the fire resistance of fuel tank materials other than metal
+
+3.7.5.1.
+
+The fuel tank material shall not burn at an average speed of combustion greater than 0,64 mm/s as determined in accordance with the test procedure laid down in points 3.7 to 3.7.4.3.
+
+ANNEX X
+
+**Requirements applying to load platforms**
+
+1\.
+
+**Purpose**
+
+1.1.
+
+If a load platform is fitted on an L2e, L5e-B, L6e-B, L7e-B or L7e-C (sub)category vehicle, the assembly of vehicle and load platform shall comply with a minimum set of construction criteria in order to safely transport goods.
+
+2\.
+
+**Requirements**
+
+2.1.
+
+If fitted, the load platform shall be designed to carry goods only and have an open or enclosed loading bed, which shall be virtually even and horizontal.
+
+2.2.
+
+The centre of gravity of the L-category vehicle with loaded platform and without driver shall be situated between the axles.
+
+2.3.
+
+The dimensions of the platform shall be such that:
+
+- The length of the loading bed, which means the distance from the foremost internal point to the rearmost internal point of the cargo area, measured horizontally in the longitudinal plane of the vehicle, shall not exceed 1.4 times the front or rear track width of the L-category vehicle, whichever is the larger;
+
+  Sub-subcategories L6e-BU and L7e-CU are exempted from this requirement.
+- The width of the loading bed does not exceed the maximum overall width of the L-category vehicle without platform.
+- Adequate side protection shall be provided to prevent goods loaded on the load platform from falling off.
+
+2.4.
+
+The platform shall be laid out symmetrically in relation to the longitudinal median plane of the L-category vehicle.
+
+2.5.
+
+The height of the load platform above the ground shall be no more than 1 000 mm.
+
+2.6.
+
+The load platform shall be attached to the L-category vehicle in such a way as to avoid any risk of accidental detachment.
+
+2.7.
+
+The type of platform and the way it is attached shall be such that, with a normal load, the driver’s field of vision remains adequate and the various mandatory lighting and light-signalling devices continue to fulfil their proper function.
+
+2.8.
+
+The vehicle manufacturer shall declare safe load carrying capacity for such load platform.
+
+2.9.
+
+Adequate fixing points for securing devices for the pay-mass shall be provided at the load platform.
+
+ANNEX XI
+
+**Requirements applying to masses and dimensions**
+
+1\.
+
+**Purpose**
+
+1.1.
+
+This Annex lays down the requirements for the type-approval of L-category vehicles with regard to their masses and dimensions.
+
+2\.
+
+**Submission of the vehicle’s mass specifications and test requirements to determine the mass specifications**
+
+2.1.
+
+In the application for EU type-approval for a type of vehicle as regard its masses and dimensions, the manufacturer shall provide the approval authority, for each version within a vehicle type, irrespective of the state of completion of the vehicle, details of the following masses:
+
+- the mass in running order as referred to in Article 5 of Regulation (EU) No 168/2013;
+- the actual mass;
+- the technically permissible maximum laden mass;
+- the technically permissible maximum mass on the axles;
+- if applicable, the technically permissible maximum towable mass;
+- if applicable, the technically permissible maximum masses at the coupling point, taking into account the technical features of the couplings that are fitted or can be fitted to the vehicle, as the case may be;
+- if applicable the mass of the optional equipment;
+- if applicable the mass of the superstructure;
+- if applicable the mass of the propulsion battery.
+
+2.2.
+
+When determining the masses referred to in point 2, the manufacturer shall take into account the best practices of good engineering and the best available technical knowledge in order to minimise the risks of mechanical failure, in particular those due to fatigue of materials, and to avoid damage to the road infrastructure.
+
+2.3.
+
+When determining the masses referred to in point 2, the manufacturer shall take into account the maximum vehicle speed by construction of the vehicle.
+
+Where the vehicle is equipped by the manufacturer with a vehicle speed limitation device, the maximum vehicle speed by construction shall be the true vehicle speed permitted by the vehicle speed limitation device.
+
+2.4.
+
+When determining the masses referred to in point 2, the manufacturer shall not impose restrictions on the use of the vehicle except those concerning the tyre capacities that can be adjusted to the speed by construction.
+
+2.5.
+
+For incomplete vehicles, including chassis-cabin vehicles, that require a further stage of completion, the manufacturer shall provide all relevant information to the next-stage manufacturers so that the requirements of this Regulation continue to be fulfilled.
+
+For the purposes of the first subpoint, the manufacturer shall specify the position of the centre of gravity of the mass corresponding to the sum of the load.
+
+2.6.
+
+Where the optional equipment significantly affects the masses and dimensions of the vehicle, the manufacturer shall provide the technical service with the location, mass and geometrical position of the gravity centre with respect to the axles of the optional equipment that can be fitted to the vehicle.
+
+2.7.
+
+Where the approval authority or the technical service deems it necessary, they may request the manufacturer to make available a vehicle representative of the type to be approved for the purposes of inspection.
+
+2.8.
+
+In the case of utility vehicles of subcategories L5e-B, L6e-BU and L7e-CU intended for carrying goods and designed to be equipped with exchangeable superstructures, the total mass of these superstructures shall be part of the pay-mass. In this case, the following additional conditions shall be fulfilled:
+
+- a superstructure is considered to be exchangeable if it can be easily removed from the chassis cab;
+- in the information document, the vehicle manufacturer shall provide the maximum permitted dimensions, the total mass of the superstructure, the limits for the position of the centre of gravity and a drawing with the position of fixing devices.
+
+2.9.
+
+The test conditions and requirements of Appendix 1 shall be fulfilled to determine the masses to be submitted by the manufacturer to the approval authority.
+
+3\.
+
+**Submission of the vehicle’s dimensions and test requirements to determine the dimensions**
+
+3.1.
+
+In the application for EU type-approval for a type of vehicle as regard its masses and dimensions, the manufacturer shall provide the approval authority, for each version within a vehicle type, irrespective of the state of completion of the vehicle, the following dimensions \[in mm\] of the vehicle:
+
+- length of the vehicle, which means the distance between two vertical planes perpendicular to the longitudinal plane of the vehicle and tangent to the front and rear of the vehicle, respectively;
+- width of the vehicle, which means the distance between two planes parallel to the longitudinal plane of the vehicle and tangent to the vehicle on either side of that plane;
+- height of the vehicle, which means the distance between the plane supporting the vehicle and a parallel plane tangent to the upper part of the vehicle;
+- wheelbase of the vehicle, which means the dimension referred to in point 6.4.1 of Standard ISO 612:1978;
+- for vehicles with twinned wheels or for three- or four-wheeled vehicles: track-width front and/or rear, which means the distance referred to in point 6.5 of Standard ISO 612:1978;
+- if applicable, length<sub>loading bed</sub> and width<sub>loading bed</sub>
+
+3.2.
+
+The test conditions and requirements of Appendix 1 shall be fulfilled to determine the dimensions to be submitted.
+
+3.3.
+
+The actual dimensions referred to in point 3.1 may differ from those stated by the manufacturer by not more than 3 %.
+
+Appendix 1
+
+**Specific requirements with regard to masses and dimensions of L-category vehicles**
+
+1\.
+
+**Specific requirements regarding vehicle dimensions**
+
+1.1.
+
+For the purposes of measurement of the dimensions set out in point 3 of Annex XI:
+
+- The vehicle shall be at its mass in running order, placed on a horizontal and flat surface with tyres inflated at the pressure recommended by the manufacturer;
+- The vehicle shall be in a vertical position and the wheels in a position corresponding to travel in a straight line;
+- All the wheels of the vehicle shall be borne by the supporting plane, with the exception of any spare wheel.
+
+1.2.
+
+Only the devices and equipment referred to in this point 1 shall not be taken into account for the determination of the dimensions of the vehicle.
+
+1.3.
+
+With regard to the length of the vehicle, all components of the vehicle and, in particular, any fixed component extending towards the front or rear (bumpers, mudguards, etc.) shall be included within the two planes as referred to in point 3.1.1 of Annex XI, with the exception of the coupling device.
+
+1.4.
+
+With regard to the width of a vehicle, all components of the vehicle and, in particular, all fixed components extending sideways shall be included within the two planes referred to in point 3.1.2 of Annex XI, with the exception of the rear view mirror(s).
+
+1.5.
+
+With regard to the height of a vehicle, all fixed components of the vehicle shall be included within the two planes referred to in point 3.1.3 of Annex XI, with the exception of the rear view mirror(s).
+
+1.6.
+
+Ground clearance
+
+1.6.1.
+
+For the purpose of measuring the ground clearance of an L-category vehicle type, the test vehicle shall be loaded to the actual mass.
+
+1.6.2.
+
+As an exception to point 1.6.1., for the purpose of measuring the ground clearance of a subcategory L3e-AxE vehicle type (x = 1, 2 or 3, two-wheel Enduro motorcycle) or a subcategory L3e- AxT vehicle type (x = 1, 2 or 3, two-wheel Trial motorcycle), the test Enduro or Trial motorcycle shall be loaded to its mass in running order.
+
+1.6.3.
+
+Any manually or automatically adjustable suspension system fitted to the vehicle, possibly resulting in a variable ground clearance, shall be put to its minimum setting allowing the minimum distance between vehicle and ground plane.
+
+1.6.4.
+
+The shortest distance between the ground plane and the lowest fixed point of the vehicle shall be measured between the axles and under the axle(s), if applicable in accordance with Appendix 1 to Annex II to Directive of the European Parliament and of the Council 2007/46/EC [^f00022] . That minimum measured distance shall be regarded as the ground clearance of the vehicle.
+
+1.7.
+
+An L7e-B2 vehicle (all terrain buggy) complying with the requirements set out in point 1.6 shall satisfy at least five of the following six requirements:
+
+- approach angle ≥ 25 degrees;
+- departure angle ≥ 20 degrees;
+- ramp angle ≥ 20 degrees;
+- ground clearance under the front axle ≥ 180 mm;
+- ground clearance under the rear axle ≥ 180 mm;
+- ground clearance between the axles ≥ 180 mm.
+
+1.8.
+
+The approach angle, departure angle and the ground clearances shall be measured in accordance with Appendix 1 to Annex II to Directive 2007/46/EC.
+
+2\.
+
+**Specific requirements regarding vehicle masses**
+
+2.1.
+
+The sum of the technically permissible maximum mass on the axles shall not be less than the technically permissible maximum laden mass of the vehicle.
+
+2.2.
+
+Specific requirements regarding limitation of the optional equipment mass and the technically permissible maximum laden mass of the vehicle
+
+2.2.1.
+
+For vehicle categories L2e, L5e, L6e and L7e which are limited in mass in running order, the mass of optional equipment shall be limited to 10 % of the mass in running order limits laid down in Annex I to Regulation (EU) No 168/2013.
+
+2.2.2.
+
+The technically permissible maximum laden mass of the vehicle shall not be less than the actual mass.
+
+2.3.
+
+Where the vehicle is laden to the technically permissible maximum laden mass, the mass on each axle shall not exceed the technically permissible maximum mass on that axle.
+
+2.4.
+
+Where the vehicle is laden to the technically permissible maximum laden mass, the mass on the front axle shall in no event be less than 30 % of the technically permissible maximum laden mass of the vehicle.
+
+2.4.1.
+
+Where the vehicle is laden to the technically permissible maximum laden mass plus the technically permissible maximum mass at the coupling point, the mass on the front axle shall in no event be less than 20 % of the technically permissible maximum laden mass of the vehicle.
+
+2.5.
+
+L-category vehicles can be authorised to tow a trailer ≤ 50 % of the mass in running order of the vehicle.
+
+2.6.
+
+Where a vehicle is equipped with removable seats, the verification procedure shall be limited to the condition with the maximum number of seating positions.
+
+2.7.
+
+Where a vehicle is equipped with seats and for the purposes of verifying the requirements in points 2.2, 2.3 and 2.4:
+
+- ((a)) the seats shall be adjusted as prescribed in point 2.7.1;
+- ((b)) the masses of the passengers, the pay-mass and the mass of the optional equipment shall be distributed as prescribed in points 2.7.2 to 2.7.6.
+
+2.7.1.
+
+Seat adjustment
+
+2.7.1.1.
+
+Where adjustable, the seats shall be moved to their rearmost position.
+
+2.7.1.2.
+
+Where there are other possibilities for adjusting the seat (vertical, angled, seat back, etc.), the adjusted positions shall be as specified by the vehicle manufacturer.
+
+2.7.1.3.
+
+In the case of suspension seats, the seat shall be locked in the position specified by the manufacturer.
+
+2.7.2.
+
+Distribution of the mass of the driver and passengers to measure the vehicle masses
+
+2.7.2.1.
+
+For (sub)categories L1e and L3e the mass of the driver is assumed to be 75 kg, subdivided into 65 kg occupant mass at the R-point of the rider’s seating position and 10 kg luggage mass in accordance with ISO standard 2416-1992. Where the vehicle has only one seating position (no buddy seat), a rider mass of 75 kg shall be located at that seating position.
+
+2.7.2.2.
+
+For all other L-category vehicles, the mass representing the driver shall be 75 kg and the mass(es) representing passenger(s) shall be 65 kg each.
+
+2.7.2.3.
+
+The mass for the driver and for each passenger shall be located at the seating position reference points (the ‘R points’).
+
+2.7.3.
+
+Distribution of the mass of the optional equipment
+
+2.7.3.1.
+
+The mass of the optional equipment shall be distributed in accordance with the manufacturer’s specifications.
+
+2.7.4.
+
+Distribution of the pay-mass
+
+2.7.4.1.
+
+The pay-mass shall be distributed in accordance with the manufacturer’s specifications in agreement with the technical service.
+
+2.7.5.
+
+As regards utility vehicles with bodywork of (sub)categories L2e-U, L5e-B, L6e-BU, L7e-B or L7e-CU, the pay-mass shall be distributed uniformly on the loading bed.
+
+2.7.6.
+
+As regards utility vehicles without bodywork (e.g. chassis-cab) of (sub)categories L2e-U, L5e-B, L6e-BU, L7e-B or L7e-CU the manufacturer shall state the extreme permissible positions of the centre of gravity of the pay-mass (e.g. from 0,20 m to 0,50 m in front of the first rear axle).
+
+2.8.
+
+Maximum permissible pay-mass
+
+2.8.1.
+
+The maximum permissible pay-mass of the vehicle shall be limited according to the values set out in Table Ap1-1 below.
+
+*Table Ap1-1*
+
+**Maximum permissible pay-mass**
+
+| Vehicle (sub)category | Maximum permissible pay-mass (kg) |
+| --- | --- |
+| L1e-A/L1e-B/L2e-P/L6e-A/L6e-BP | Maximum permissible pay-mass declared by the manufacturer, but in no case more than 250 kg. |
+| L2e-U/L6e-BU | Maximum permissible pay-mass declared by the manufacturer, but in no case more than 300 kg. |
+| L3e/L4e/L5e-A/L7e-A/L7e-B/L7e-CP | Maximum pay-mass declared by the manufacturer, but in no case more than the mass in running order limit of the (sub)category as referred to in Annex I to EU Regulation (EU) No 168/2013. |
+| L5e-B/L7e-CU | Maximum pay-mass declared by the manufacturer, but in no case more than 1 000 kg. |
+
+2.9.
+
+Mass of the alternative propellant storage
+
+When determining the vehicle’s mass specifications and in the applicable test requirements to determine these mass specifications, the mass of the alternative propellant storage shall be assumed being equal to:
+
+- the mass of the propulsion batteries in the case of hybrid or fully electric vehicles;
+- the mass of a gaseous-fuelling system and the mass of storage tanks for gaseous fuel in the case of mono-, bi- or multi-fuel vehicles;
+- the mass of storage tank(s) to store the compressed air in the case of vehicles propelled by pre-compressed air;
+- a liquefied gaseous fuel or compressed air filled to 90 % of the capacit(y)(ies) of ‘fuel’ mass in the gaseous fuel tank(s) if this ‘fuel’ is not taken into account in the mass in running order, in the case of a vehicle being propelled with a gaseous fuel;
+
+3\.
+
+**Specific requirements regarding the vehicle masses and dimensions of subcategories L6e-A, L7e-A and L7e-B relating to static vehicle stability**
+
+3.0.1.
+
+Objectives and scope
+
+3.0.1.1.
+
+Subcategories L6e-A (light on-road quads), L7e-A (heavy on-road quads) and L7e-B (heavy all-terrain quads) are four-wheel vehicles that may have to fulfil conflicting design criteria, as they might not only be used on hard paved surfaces but also off-road. The consequence of having to cope with all kinds of terrain may be a high centre of gravity, resulting in an instable vehicle. Minimum test requirements for static vehicle stability may positively influence the configuration of masses and dimensions in the design stage of the vehicle and increase vehicle static stability.
+
+3.0.1.2.
+
+Vehicles of subcategories L6e-A, L7e-A and L7e-B shall comply with the test requirements and performance criteria laid down in this point.
+
+3.1.
+
+Test vehicle
+
+3.1.1.
+
+The test vehicle shall be representative in terms of masses, dimensions and shape for the type-approved vehicle. It shall conform in all its components with the production series or, if the L-category vehicle is different from the production series, a full description shall be given in the test report. In selecting the test vehicle, the manufacturer and the technical service shall agree to the satisfaction of the approval authority which L-category vehicle test model is representative for related vehicle variants.
+
+3.1.2.
+
+Checks
+
+The following minimum checks on the test vehicle shall be made in accordance with the manufacturer’s specifications for the use considered: wheels, wheel rims, tyres (representative make, type, pressure), axle geometry, adjustment of the suspension and vehicle ground clearance (set according to manufacturer specifications).
+
+3.2.
+
+Lateral static stability tests
+
+3.2.1.
+
+All L6e-A, L7e-A and L7e-B subcategory vehicles shall meet the stability performance requirements listed in sections 3.2.3.3 and 3.2.4.1.3 when tested as described below. Tilt table tests shall be conducted in both the loaded configuration and operator and passenger configuration.
+
+3.2.2.
+
+Tilt Table Test
+
+3.2.2.1.
+
+Test Conditions
+
+Test conditions shall be as follows:
+
+3.2.2.1.1.
+
+Loaded Configuration
+
+3.2.2.1.1.1
+
+The test vehicle shall be in standard condition, without accessories. The test vehicle and components shall be assembled and adjusted according to the manufacturer’s instructions and specifications with the exception of point 3.2.2.1.1.5.
+
+3.2.2.1.1.2
+
+Tyres shall be inflated to the vehicle manufacturer’s recommended settings for normal operation. If more than one pressure is specified, the highest value shall be used.
+
+3.2.2.1.1.3
+
+All fluids shall be at the recommended level and the fuel tank shall be full.
+
+3.2.2.1.1.4
+
+Steerable wheels shall be held in the straight-ahead position.
+
+3.2.2.1.1.5
+
+Adjustable suspension components shall be set to the highest positions.
+
+3.2.2.1.1.6
+
+The test vehicle shall be loaded so that a test occupant weight or equivalent is placed in each seating position so that the centre of gravity of the weight(s) is 152 mm above the lowest point of the occupant-supporting surface and 254 mm forward of the seat back. A test load shall be securely and evenly distributed to the cargo area(s) so that the cargo limit(s) and the technically permissible mass declared by the manufacturer (maximum mass) are not exceeded.
+
+3.2.2.2.
+
+Operator and passenger configuration
+
+3.2.2.2.1.
+
+The test vehicle shall be in standard condition, without accessories. The test vehicle and components shall be assembled and adjusted according to the manufacturer’s instructions and specifications.
+
+3.2.2.2.2.
+
+Tyres shall be inflated to the vehicle manufacturer’s recommended settings for normal operation. If more than one pressure is specified, the lowest value shall be used.
+
+3.2.2.2.3.
+
+All fluids shall be at the recommended level and the fuel tank shall be full.
+
+3.2.2.2.4.
+
+Steerable wheels shall be held in the straight-ahead position.
+
+3.2.2.2.5.
+
+Adjustable suspension components shall be set to the manufacturer’s specified values at the point of delivery to the dealer.
+
+3.2.2.2.6.
+
+The test vehicle shall be loaded so that a test occupant weight or equivalent is placed in the operator seating position and the front outermost occupant seating position so that the centre of gravity of the weight(s) is 152 mm above the lowest point of the occupant-supporting surface and 254 mm forward of the seat back.
+
+3.2.2.3.
+
+Test Device
+
+A test platform shall be rigid, flat and constructed to be an adjustable slope, tilt table or similar device with a surface finish providing a minimum friction coefficient of 1,0, or a rail, stopper or other means no greater than 25,4 mm in height capable of preventing tyres from sliding under normal test conditions. The platform surface shall be large enough to support all wheels of the vehicle to be tested.
+
+3.2.2.4.
+
+Test Procedure
+
+The test procedure shall be as follows:
+
+- The test vehicle with test loads in place shall be put on the tilt platform so that a line through the centre of the footprint of the two lowest tyres shall be parallel to the tilt axis of the table and the steerable wheels of the vehicle shall be placed in the straight-ahead position.
+- The stability of the vehicle shall be determined directly by tilting the platform to:
+  - Loaded configuration — 20 degrees (36,4 %)
+  - Operator and passenger configuration — 28 degrees (53,2 %).
+- The platform shall be tilted back to level.
+- The tyre inflation of all tyres shall be reverified to ensure that they still conform to the test requirements.
+- The test is to be conducted with one side of the vehicle facing the platform tilt axis and repeated with the other side facing the platform tilt axis.
+
+3.2.2.5.
+
+Performance Requirements
+
+Acceptance of the lateral stability test shall require that at least one of the supporting tyre or tyres on the uphill side remains in contact with the surface.
+
+3.2.3.
+
+Static stability coefficient — Kst
+
+3.2.3.1
+
+Test Conditions
+
+Test conditions shall be as follows:
+
+- The test vehicle shall be in standard condition, without accessories. The test vehicle and components shall be assembled and adjusted according to the manufacturer’s instructions and specifications.
+- Tyres shall be inflated to the test vehicle manufacturer’s recommended settings for normal operation. If more than one pressure is specified, the lowest value shall be used.
+- All fluids shall be at the recommended level and the fuel tank shall be full.
+- Steerable wheels shall be held in the straight-ahead position.
+- Adjustable suspension components shall be set to the values specified at the point of delivery to the dealer.
+- The CG height shall be determined by ISO 10392:2011, the Balance Angle method or another scientifically valid method that produces comparable and repeatable results.
+
+3.2.3.2.
+
+Calculation Kst
+
+*Equation 11-1*:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+Where:
+
+Kst
+
+static stability coefficient
+
+CG
+
+centre of gravity
+
+Lcg
+
+location of the cg forward of the rear axle
+
+Hcg
+
+location of the cg above the ground plane
+
+t<sub>1</sub>
+
+front track width
+
+t<sub>2</sub>
+
+rear track width
+
+L
+
+wheelbase
+
+3.2.3.3.
+
+Performance Requirements
+
+3.2.3.3.1.
+
+(Sub)categories L6e-A, L7e-A and L7e-B2: Kst ≥ 1.0
+
+3.2.3.3.2.
+
+(Sub)category L7e-B1: Kst ≥ 0.7
+
+3.2.4.
+
+Pitch stability
+
+3.2.4.1.
+
+Test Conditions
+
+Test conditions shall meet those of point 3.2.2.1.
+
+3.2.4.1.1.
+
+Test Device
+
+A test platform shall be used that meets the requirements of point 3.2.2.
+
+3.2.4.1.2.
+
+Test Procedure
+
+The loaded test vehicle shall be placed on the tilting platform so that the longitudinal centreline is perpendicular to the platform tilt axis. The forward end of the test vehicle shall face the platform tilt axis. Tilt the platform to a 25 degree (46,6 %) gradient and repeat item listed in points 3.2.3 and 3.2.4. Repeat the procedure with the rear end of the test vehicle facing the platform tilt axis.
+
+3.2.4.1.3.
+
+Pitch stability performance requirements
+
+Acceptance of the pitch stability test shall require that at least one of the supporting tyre or tyres on the uphill side remains in contact with the surface.
+
+ANNEX XII
+
+**Requirements applying to functional on-board diagnostics (OBD)**
+
+1\.
+
+**Introduction**
+
+This Annex applies to the functional requirements of on-board diagnostic (OBD) systems for L-category vehicles and specifies requirements as referred to in Article 21 of Regulation (EU) No 168/2013 according to the timetable set out in Annex IV to that Regulation and referring to the OBD threshold limits set out in Section B of Annex VI to that Regulation.
+
+2\.
+
+**OBD stage I and stage II**
+
+2.1.
+
+OBD stage I.
+
+2.1.1.
+
+The technical requirements of this Annex shall be mandatory for L-category vehicles equipped with an OBD stage I system as set out in Article 21 of, and Annex IV to Regulation (EU) No 168/2013. This obligation concerns compliance with all subsequent points with the exception of those specifying OBD stage II requirements in points 2.2 and 2.3.
+
+2.2.
+
+OBD stage II
+
+2.2.1.
+
+An L-category vehicle may be equipped with an OBD stage II system if the manufacturer so chooses.
+
+2.2.2.
+
+Where an OBD stage II system is fitted, the technical requirements of this Annex shall apply. This concerns in particular the applicable points listed in Table 12-1.
+
+*Table 12-1*
+
+**OBD stage II functions and associated requirements in the points of this Annex and Appendix 1**
+
+| Topic | Point in this Annex and in Appendix 1 |
+| --- | --- |
+| General disable criterion for degradation type of diagnostics in OBD stage II | 3.2.1.1. |
+| Catalytic converter monitoring | 3.3.2.1.; 3.3.3.1. |
+| EGR efficiency/flow monitoring | 3.3.3.4. |
+| In-use performance monitoring | 2nd sub point of point 3.3. of Appendix 1, point 4 of Appendix 1 |
+| General OBD stage II requirement | 3.3. of Appendix 1 |
+| Misfire detection | 3.2.2.; 3.3.2.2.; 3.5.3.; 3.6.2.; 3.7.1.; 3.1.2. of Appendix 1 |
+| NOx after-treatment system monitoring | 3.3.3.5.; 3.3.3.6. |
+| Oxygen sensor deterioration monitoring | 3.3.2.3. |
+| Particulate filter monitoring | 3.3.3.2. |
+| Particulate matter (PM) emission monitoring | 3.3.2.5. |
+
+2.3.
+
+Electric circuit diagnostic
+
+2.3.1.
+
+For the purposes of points 3.3.5 and 3.3.6 the electric circuit and electronic failure diagnostics with regard to OBD stage I and/or II shall at a minimum contain the sensor and actuator diagnostics as well as the internal diagnostics of the electronic control units listed in Appendix 2.
+
+2.3.2.
+
+Non-continuously running electric circuit monitoring diagnostics, i.e. those electric circuit monitoring diagnostics that will run until their tests have passed on a non-continuous basis, and completion of point 3.3.6 for the items included in Appendix 2, shall be part of OBD stage II.
+
+2.3.3.
+
+By 31 December 2018, the list in Appendix 2 shall be reviewed and updated for technical progress if deemed necessary. Any malfunctions of supplemental devices to be monitored shall be applicable for OBD stage II in addition to those already identified in the table.
+
+3\.
+
+**Functional OBD requirements**
+
+3.1.
+
+L-category vehicles shall be equipped with an OBD system so designed, constructed and installed in a vehicle as to enable it to identify types of deterioration or malfunction over the entire life of the vehicle. In achieving this objective, the approval authority shall accept that vehicles which have travelled distances in excess of the Type V durability distance in Section (A) of Annex VII to Regulation (EU) No 168/2013 may show some deterioration in OBD system performance such that the OBD emission thresholds given in Section (B) of Annex VI to Regulation (EU) No 168/2013 may be exceeded before the OBD system signals a failure to the driver of the vehicle.
+
+3.1.1.
+
+Access to the OBD system required for the inspection, diagnosis, servicing or repair of the vehicle shall be unrestricted and standardised. All OBD-relevant fault codes shall be consistent with point 3.11 of Appendix 1 to this Annex.
+
+3.1.2.
+
+At the manufacturer’s discretion, to aid technicians in the efficient repair of L-category vehicles, the OBD system may be extended to monitor and report on any other on-board system. Extended diagnostic systems shall not be considered as falling under the scope of type-approval requirements.
+
+3.2.
+
+The OBD system shall be so designed, constructed and installed in a vehicle as to enable it to comply with the requirements of this Annex during conditions of normal use.
+
+3.2.1.
+
+Temporary disablement of the OBD system
+
+3.2.1.1.
+
+A manufacturer may disable the OBD system if its ability to monitor is affected by low fuel levels or below the minimum state of charge of the propulsion or electric system batteries (maximum discharge of capacity). Disablement shall not occur when the fuel tank level is above 20 per cent of the nominal capacity of the fuel tank.
+
+3.2.1.2.
+
+A manufacturer may disable the OBD system at ambient engine starting temperatures below 266.2 K (– 7 °C) or at elevations over 2 500 metres above sea level, provided it submits data and/or an engineering evaluation which adequately demonstrate that monitoring would be unreliable in such conditions. It may also request disablement of the OBD system at other ambient engine starting temperatures if it demonstrates to the authority with data and/or an engineering evaluation that misdiagnosis would occur under such conditions. It is not necessary to illuminate the malfunction indicator (MI) if the OBD thresholds are exceeded during regeneration, provided no defect is present.
+
+3.2.1.3.
+
+For vehicles designed to accommodate the installation of power take-off units, disablement of affected monitoring systems is permitted provided disablement occurs only when the power take-off unit is active.
+
+In addition to the provisions of this section, the manufacturer may temporarily disable the OBD system in the following conditions:
+
+- ((a)) For flex fuel or mono/bi fuel gas vehicles for one minute after refuelling to allow for the recognition of fuel quality and composition by the powertrain control unit(s) (PCU);
+- ((b)) For bi fuel vehicles for five seconds after fuel switching to allow for engine parameters to be readjusted;
+- ((c)) The manufacturer may deviate from these time limits if it can be demonstrated that stabilisation of the fuelling system after refuelling or fuel switching takes longer for justified technical reasons. In any case, the OBD system shall be re-enabled as soon as either the fuel quality or composition is recognised or the engine parameters are readjusted.
+
+3.2.2.
+
+Engine misfire in vehicles equipped with positive-ignition engines.
+
+3.2.2.1.
+
+Manufacturers may adopt higher misfire percentage malfunction criteria than those declared to the authority, under specific engine speed and load conditions where it can be demonstrated to the authority that the detection of lower levels of misfire would be unreliable. In terms of OBD monitoring, it is that percentage of misfires out of a total number of firing events (as declared by the manufacturer) that would result in emissions exceeding the OBD thresholds set out in Section (B) of Annex VI to Regulation (EU) No 168/2013, or that percentage that could lead to an exhaust catalyst, or catalysts, overheating, causing irreversible damage.
+
+3.2.2.2.
+
+When a manufacturer can demonstrate to the authority that the detection of higher levels of misfire percentages is still not feasible, or that misfire cannot be distinguished from other effects (e.g. rough roads, transmission shifts, after engine starting, etc.), the misfire monitoring system may be disabled when such conditions exist.
+
+3.2.3.[^c000006]
+
+Identification of deterioration or malfunctions may also be done outside a driving cycle (e.g. after engine shutdown).
+
+3.3.
+
+Description of tests
+
+3.3.1.
+
+The OBD system shall indicate the failure of an emission-related component or system when that failure results in emissions exceeding the OBD emission threshold limits referred to in Annex VI(B) to Regulation (EU) No 168/2013.
+
+3.3.2.
+
+Monitoring requirements for vehicles equipped with positive-ignition engines
+
+In satisfying the requirements of Article 21 of Regulation (EU) No 168/2013., the OBD system shall, at a minimum, monitor for:
+
+3.3.2.1.
+
+The reduction in the efficiency of the catalytic converter with respect to emissions of hydrocarbons and nitrogen oxides. Manufacturers may monitor the front catalyst alone or in combination with the next catalyst(s) downstream. Each monitored catalyst or catalyst combination shall be considered to be malfunctioning if the emissions exceed the NMHC or NO<sub>x</sub> thresholds provided for in Section B of Annex VI to Regulation (EU) No 168/2013.
+
+3.3.2.2.
+
+Engine misfire
+
+The presence of engine misfire in the engine operating region bounded by the following lines:
+
+- ((a)) low speed limit: A minimum speed of 2 500 min <sup> –1 </sup> or normal idle speed +  1 000 min <sup> –1 </sup> , whichever is the lower
+- ((b)) high speed limit: A maximum speed of 8 000 min <sup> –1 </sup> or 1 000 min <sup> –1 </sup> greater than the highest speed occurring during a type I test cycle or maximum design engine speed minus 500 min <sup> –1 </sup> , whichever is lower
+- ((c)) a line joining the following engine operating points:
+  - ((i)) a point on the low speed limit defined in (a) with the engine intake vacuum at 3,3 kPa lower than that at the positive torque line;
+  - ((ii)) a point on the high speed limit defined in (b) with the engine intake vacuum at 13,3 kPa lower than that at the positive torque.
+
+The engine operation region for misfire detection is reflected in Figure 10-1.
+
+*Figure 10-1*
+
+**Operating region for misfire detection**
+
+[image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_017)
+
+3.3.2.3.
+
+Oxygen sensor deterioration
+
+This section shall mean that the deterioration of all oxygen sensors fitted and used for monitoring malfunctions of the catalytic converter in accordance with the requirements of this Annex shall be monitored.
+
+3.3.2.4.
+
+The electronic evaporative emission purge control shall, at a minimum, be monitored for circuit continuity.
+
+3.3.2.5.
+
+For direct injection positive ignition engines, any malfunction that could lead to emissions exceeding the particulate mass (PM) OBD emission thresholds provided for in Section B of Annex VI to Regulation (EU) No 168/2013 shall be monitored in accordance with the requirements of this Annex for compression ignition engines.
+
+3.3.3.
+
+Monitoring requirements for vehicles equipped with compression ignition engines.
+
+In satisfying the requirements of Article 21 of Regulation (EU) No 168/2013, the OBD system shall monitor:
+
+- Reduction in the efficiency of the catalytic converter, where fitted;
+- The functionality and integrity of the particulate trap, where fitted.
+- The fuel-injection system electronic fuel quantity and timing actuator(s) is/are monitored for circuit continuity and total functional failure.
+- Malfunctions and the reduction in efficiency of the EGR system, shall be monitored.
+- Malfunctions and the reduction in efficiency of a NO<sub>x</sub> after-treatment system using a reagent and the reagent dosing subsystem shall be monitored.
+- Malfunctions and the reduction in efficiency of NO<sub>x</sub> after-treatment not using a reagent shall be monitored.
+
+3.3.4.
+
+If active on the selected fuel, other emission control system components or systems, or emission-related powertrain components or systems, which are connected to a computer shall be monitored, the failure of which may result in tailpipe emissions exceeding the OBD emission thresholds given in Section B of Annex VI to Regulation (EU) No 168/2013.
+
+3.3.5.
+
+Unless otherwise monitored, any other electronic powertrain component connected to a computer relevant for environmental performance and/or functional safety, including any relevant sensors to enable monitoring functions to be carried out, shall be monitored for electric/electronic circuit failures. In particular these electronic components shall be continuously monitored for any electric circuit continuity failure, shorted electric circuits, electric range/performance and stuck signal of the emissions control system.
+
+3.3.6.
+
+Unless otherwise monitored, any other powertrain component connected to a computer relevant for the environmental performance and/or functional safety, triggering any programmed ‘limp-home’ operating mode which significantly reduces engine torque, e.g. to safeguard powertrain components. Without prejudice to the list Ap2-1 the relevant diagnostic trouble code shall be stored.
+
+3.3.7.
+
+Manufacturers may demonstrate to the approval authority that certain components or systems need not be monitored if, in the event of their total failure or removal, emissions do not exceed the emission limits given in Section B of Annex VI to Regulation (EU) No 168/2013.
+
+3.4.
+
+A sequence of diagnostic checks shall be initiated at each engine start and completed at least once provided that the correct test conditions are met. The test conditions shall be selected in such a way that they all occur in the course of normal driving as represented by the Type I test. If the failure cannot be reliably detected under the Type I test conditions, the manufacturer may propose supplemental test conditions that do allow robust detection of the failure to be agreed with the technical service to the satisfaction of the approval authority.
+
+3.5.
+
+Activation of malfunction indicator (MI)
+
+3.5.1.
+
+The OBD system shall incorporate a malfunction indicator readily perceivable to the vehicle operator. The MI shall not be used for any purposes other than to indicate emergency start-up or limp-home routines to the driver. The MI shall be visible in all reasonable lighting conditions. When activated, it shall display a symbol in conformity with ISO 2575:2010, symbol F.01. A vehicle shall not be equipped with more than one general purpose MI for emission-related problems or powertrain faults leading to significantly reduced torque. Separate specific purpose tell-tales (e. g. brake system, fasten seat belt, oil pressure, etc.) are permitted. The use of red colour for an MI is prohibited.
+
+3.5.2.
+
+For strategies requiring more than two preconditioning cycles for MI activation, the manufacturer shall provide data and/or an engineering evaluation which adequately demonstrate that the monitoring system is equally effective and timely in detecting component deterioration. Strategies requiring on average more than ten driving cycles for MI activation are not accepted. The MI shall also activate whenever the powertrain control enters a permanent default mode of operation leading to a significant torque reduction or if the OBD emission thresholds in Section (B) of Annex VI to Regulation (EU) No 168/2013 are exceeded or if the OBD system is unable to fulfil the basic monitoring requirements laid down in points 3.3.2 or 3.3.3.
+
+3.5.3.
+
+The MI shall operate in a distinct warning mode, e.g. a flashing light, during any period in which engine misfire occurs at a level likely to cause catalyst damage, as specified by the manufacturer.
+
+3.5.4.
+
+The MI shall also activate when the vehicle’s ignition is in the ‘key on’ position before engine starting or cranking and deactivate if no malfunction has been detected. For vehicles not equipped with a battery, the MI shall illuminate immediately after engine starting and shall subsequently be deactivated after 5 seconds, if no malfunction has previously been detected.
+
+3.6.
+
+The OBD system shall record fault code(s) indicating the status of the emission control system or of the functional safety system leading to an operation mode with significantly reduced torque in comparison to normal operation mode. Separate status codes shall be used to identify correctly functioning emission control systems, functional safety systems and those emission control systems which need further vehicle operation to be fully evaluated. If the MI is activated due to deterioration or malfunction or permanent emission default modes of operation, a fault code shall be stored that identifies the type of malfunction. A fault code shall also be stored in the cases referred to in points 3.3.5. and 3.3.6.
+
+3.6.1.
+
+The distance travelled by the vehicle while the MI is activated shall be available at any moment through the serial port on the standardised diagnostic connector. By means of derogation for vehicles equipped with a mechanically operating odometer that does not allow input to the electronic control unit including such vehicles equipped with a CVT that does not allow for an accurate input to the electronic control unit, ‘ distance travelled ’ may be replaced with ‘ engine operation time ’ and shall be made available at any moment through the serial port on the standardised diagnostic connector.
+
+3.6.2.
+
+In the case of vehicles equipped with positive-ignition engines, misfiring cylinders need not be uniquely identified if a distinct single or multiple cylinder misfire fault code is stored.
+
+3.6.3.
+
+The MI may be activated at levels of emissions below the OBD emission thresholds set out in Section B of Annex VI to Regulation (EU) No 168/2013.
+
+3.6.3.
+
+The MI may be activated if a default mode is active without significant reduction of propulsion torque.
+
+3.7.
+
+Extinguishing the MI
+
+3.7.1.
+
+If misfire at levels likely to cause catalyst damage (as specified by the manufacturer) is no longer taking place, or if the engine is operated after changes to speed and load conditions where the level of misfire will not cause catalyst damage, the MI may be switched back to the previous state of activation during the first driving cycle on which the misfire level was detected and to the normal activated mode on subsequent driving cycles. If the MI is switched back to the previous state of activation, the corresponding fault codes and stored freeze-frame conditions may be erased.
+
+3.7.2.
+
+For all other malfunctions, the MI may be deactivated after three subsequent sequential driving cycles during which the monitoring system responsible for activating the MI ceases to detect the malfunction and if no other malfunction has been identified that would independently activate the MI.
+
+3.8.
+
+Erasing a fault code
+
+3.8.1.
+
+The OBD system may erase a fault code and the distance travelled and freeze-frame information if the same fault is not reregistered in at least 40 engine warm-up cycles.
+
+3.8.2.
+
+Stored faults shall not be erased by disconnection of the on-board computer from the vehicle power supply or by disconnection or failure of the vehicle battery or batteries.
+
+3.9.
+
+Bi-fuelled gas vehicles
+
+In general, all the OBD requirements applying to a mono-fuelled vehicle apply to bi-fuelled gas vehicles for each of the fuel types (petrol and (NG/biomethane)/LPG)). To this end, one of the following two alternatives in points 3.8.1 or 3.8.2 or any combination thereof shall be used.
+
+3.9.1.
+
+One OBD system for both fuel types
+
+3.9.1.1.
+
+The following procedures shall be executed for each diagnostic in a single OBD system for operation on petrol and on (NG/biomethane)/LPG, either independent of the fuel currently in use or fuel-type specific:
+
+- ((a)) Activation of malfunction indicator (MI) (see point 3.5);
+- ((b)) Fault code storage (see point 3.6);
+- ((c)) Extinguishing the MI (see point 3.7);
+- ((d)) Erasing a fault code (see point 3.8).
+
+For components or systems to be monitored, either separate diagnostics for each fuel type can be used or a common diagnostic.
+
+3.9.1.2.
+
+The OBD system can reside in either one or more computers.
+
+3.9.2.
+
+Two separate OBD systems, one for each fuel type.
+
+3.9.2.1.
+
+The following procedures shall be executed independently of each other when the vehicle is operated on petrol or on (NG/biomethane)/LPG:
+
+- ((a)) Activation of malfunction indicator (MI) (see point 3.5);
+- ((b)) Fault code storage (see point 3.6);
+- ((c)) Extinguishing the MI (see point 3.7);
+- ((d)) Erasing a fault code (see point 3.8).
+
+3.9.2.2.
+
+The separate OBD systems can reside in either one or more computers.
+
+3.9.3.
+
+Specific requirements regarding the transmission of diagnostic signals from bi-fuelled gas vehicles.
+
+3.9.3.1.
+
+On a request from a diagnostic scan tool, the diagnostic signals shall be transmitted on one or more source addresses. The use of source addresses is set out in ISO 15031-5:2011.
+
+3.9.3.2.
+
+Identification of fuel specific information can be realised:
+
+- ((a)) By use of source addresses; and/or
+- ((b)) By use of a fuel select switch; and/or
+- ((c)) By use of fuel specific fault codes.
+
+3.9.4.
+
+Regarding the status code (described in point 3.6), one of the following two alternatives has to be used if one or more of the diagnostics reporting readiness is fuel-type specific:
+
+- ((a)) The status code is fuel specific, i.e. use of two status codes, one for each fuel type;
+- ((b)) The status code shall indicate fully evaluated control systems for both fuel types (petrol and (NG/biomethane)/LPG)) when the control systems are fully evaluated for one of the fuel types.
+
+If none of the diagnostics reporting readiness is fuel-type specific, only one status code has to be supported.
+
+3.10.
+
+Additional provisions for vehicles employing engine shut-off strategies.
+
+3.10.1.
+
+Driving cycle
+
+3.10.1.1.
+
+Autonomous engine restarts commanded by the engine control system following an engine stall may be considered a new driving cycle or a continuation of the existing driving cycle.
+
+4\.
+
+**Requirements relating to the type-approval of on-board diagnostic systems**
+
+4.1.
+
+A manufacturer may ask the authority to accept an OBD system for type-approval even if the system contains one or more deficiencies so that the specific requirements of this Annex are not fully met.
+
+4.2.
+
+In considering the request, the authority shall determine whether compliance with the requirements of this Annex is unfeasible or unreasonable.
+
+The authority shall take into consideration data from the manufacturer detailing factors such as, but not limited to, technical feasibility, lead time and production cycles including phase-in or phase-out of engines or vehicle designs and programmed upgrades of computers, the extent to which the resultant OBD system will be effective in complying with the requirements of this Regulation and whether the manufacturer has demonstrated an acceptable level of effort to comply with those requirements.
+
+4.2.1.
+
+The authority shall not accept any deficiency request that includes the complete lack of a required diagnostic monitor.
+
+4.2.2.
+
+The authority shall not accept any deficiency request that does not respect the OBD threshold in Section (B) of Annex VI to Regulation (EU) No 168/2013.
+
+4.3.
+
+In the identified order of deficiencies, those relating to points 3.3.2.1, 3.3.2.2 and 3.3.2.3 for positive-ignition engines and points 3.3.3.1, 3.3.3.2 and 3.3.3.3 for compression-ignition engines shall be identified first.
+
+4.4.
+
+Prior to, or at the time of, type-approval, no deficiency shall be granted with regard to the requirements set out in point 3. of Appendix 1, except the requirements laid down in point 3.11. of Appendix 1.
+
+4.5.
+
+Deficiency period
+
+4.5.1.
+
+A deficiency may be carried over for a period of two years after the date of type-approval of the vehicle type unless it can be adequately demonstrated that substantial vehicle hardware modifications and additional lead-time beyond two years would be necessary to correct it. In such a case, it may be carried over for a period not exceeding three years.
+
+4.5.2.
+
+A manufacturer may ask the approval authority to grant a deficiency retrospectively when it is discovered after the original type-approval. In this case, the deficiency may be carried over for a period of two years after the date of notification to the administrative department unless it can be adequately demonstrated that substantial vehicle hardware modifications and additional lead-time beyond two years would be necessary to correct it. In such a case, it may be carried over for a period not exceeding three years.
+
+4.6.
+
+The authority shall notify all other Member States of its decision on granting a deficiency request.
+
+4.7.
+
+The vehicle family criteria laid down in table 11-1 in point 3.1. of Annex XI to Regulation (EU) No 134/2014 with regard to test type VIII shall also be applicable for the functional on-board diagnostic requirements set out in this Annex.
+
+Appendix 1
+
+**Functional aspects of on-board diagnostic (OBD) systems**
+
+1\.
+
+**Introduction**
+
+The on-board diagnostic systems fitted on L-category vehicles shall comply with the detailed information and functional requirements and verification test procedures of this Appendix in order to harmonise the systems and verify if the system is capable of meeting the requirements in Article 21 of Regulation (EU) No 168/2013.
+
+2\.
+
+**On-board diagnostic functional verification testing**
+
+2.1.
+
+The on-board diagnostic environmental system performance and functional capabilities shall be verified and demonstrated to the approval authority by performing the type VIII test procedure referred to in Annex V(A) to Regulation (EU) No 168/2013.
+
+3\.
+
+**Diagnostic signals**
+
+3.1.
+
+Upon determination of the first malfunction of any component or system, ‘freeze-frame’ engine conditions present at the time shall be stored in computer memory. Stored engine conditions shall include, but are not limited to, calculated load value, engine speed, fuel trim value(s) (if available), fuel pressure (if available), vehicle speed (if available), coolant temperature, intake manifold pressure (if available), closed- or open-loop operation (if available) and the fault code which caused the data to be stored.
+
+3.1.1.
+
+The manufacturer shall choose the most appropriate set of conditions facilitating effective and efficient repairs in freeze-frame storage. Only one frame of data is required. Manufacturers may choose to store additional frames provided that at least the required frame can be read by a generic scan tool meeting the specifications of points 3.9 and 3.10. If the fault code causing the conditions to be stored is erased in accordance with point 3.8 of Annex XII, the stored engine conditions may also be erased.
+
+3.1.2.
+
+Should a subsequent fuel system or misfire malfunction occur, any previously stored freeze-frame conditions shall be replaced by the fuel system or misfire conditions (whichever occurs first).
+
+3.2.
+
+If available, the following signals in addition to the required freeze-frame information shall be made available on demand through the serial port on the standardised diagnostic connector, if the information is available to the on-board computer or can be determined using information available to the on-board computer: diagnostic trouble codes, engine coolant temperature, fuel control system status (closed-loop, open-loop, other), fuel trim, ignition timing advance, intake air temperature, manifold air pressure, air flow rate, engine speed, throttle position sensor output value, secondary air status (upstream, downstream or atmosphere), calculated load value, vehicle speed and fuel pressure.
+
+The signals shall be provided in standard units based on the specifications in point 3.7. Actual signals shall be clearly identified separately from default value or limp-home signals.
+
+3.3.
+
+For all control systems for which specific on-board evaluation tests are conducted (catalyst, oxygen sensor, etc.) except, if applicable, misfire detection, fuel system monitoring and comprehensive component monitoring, the results of the most recent test performed by the vehicle and the limits to which the system is compared shall be made available through the serial data port on the standardised diagnostic connector according to the specifications in point 3.8. For the monitored components and systems excepted above, a pass/fail indication for the most recent test results shall be available through the standardised diagnostic connector.
+
+All OBD in-use performance data that have to be stored under point 4.6 of this Appendix shall be made available through the serial data port on the standardised diagnostic connector according to the specifications in point 3.8.
+
+3.4.
+
+The OBD requirements to which the vehicle is certified (i.e. Annex XII or the alternative requirements specified in point 5) and the major control systems monitored by the OBD system consistent with point 3.10 shall be made available through the serial data port on the standardised diagnostic connector according to the specifications in point 3.8 of this Appendix.
+
+3.5.
+
+The software identification and calibration verification numbers shall be made available through the serial port on the standardised diagnostic connector. Both numbers shall be provided in a standardised format.
+
+3.6.
+
+The diagnostic system is not required to evaluate components during malfunction if such evaluation would result in a risk to functional safety or component failure.
+
+3.7.
+
+The diagnostic system shall provide for standardised and unrestricted access to OBD and conform with the following ISO standards and/or SAE specification:
+
+3.8.
+
+One of the following standards with the restrictions described shall be used as the on-board to off-board communications link:
+
+- ISO 9141-2:1994/Amd 1:1996: ‘Road Vehicles — Diagnostic Systems — Part 2: CARB requirements for interchange of digital information’,
+- SAE J1850: March 1998 ‘Class B Data Communication Network Interface. Emission related messages shall use the cyclic redundancy check and the three-byte header and not use inter byte separation or checksums’,
+- ISO 14229-3:2012: ‘Road vehicles — Unified diagnostic services (UDS) — Part 3: Unified diagnostic services on CAN implementation’,
+- ISO 14229-4:2012: ‘Road vehicles — Unified diagnostic services (UDS) — Part 4: Unified diagnostic services on FlexRay implementation’,
+- ISO 14230-4:2000: ‘Road Vehicles — Keyword protocol 2000 for diagnostic systems — Part 4: Requirements for emission-related systems’,
+- ISO 15765-4:2011: ‘Road vehicles — Diagnostics on Controller Area Network (CAN) — Part 4: Requirements for emission-related systems’, dated 1 November 2001’,
+- ISO 22901-2:2011: ‘Road vehicles — Open diagnostic data exchange (ODX) — Part 2: Emissions-related diagnostic data’.
+
+3.9.
+
+Test equipment and diagnostic tools needed to communicate with OBD systems shall meet or exceed the functional specification in ISO 15031-4:2005: ‘Road vehicles — Communication between vehicle and external test equipment for emissions-related diagnostics — Part 4: External test equipment’.
+
+3.10.
+
+Basic diagnostic data (as specified in point 6.5.1) and bi-directional control information shall be provided using the format and units described in ISO 15031-5:2011 ‘Road vehicles — Communication between vehicle and external test equipment for emissions-related diagnostics — Part 5: Emissions-related diagnostic services’ and shall be available using a diagnostic tool meeting the requirements of ISO 15031-4:2005.
+
+3.10.1.
+
+The vehicle manufacturer shall provide the approval authority with details of any diagnostic data, e.g. PID’s, OBD monitor Id’s, Test Id’s not specified in ISO 15031-5:2011 but relating to this Regulation.
+
+3.11.
+
+When a fault is registered, the manufacturer shall identify the fault using an appropriate fault code consistent with those in ISO 15031-6:2010 ‘Road vehicles — Communication between vehicle and external test equipment for emissions-related diagnostics — Part 6: Diagnostic trouble code definitions’ relating to ‘emission-related system diagnostic trouble codes’. If this is not possible, the manufacturer may use the diagnostic trouble codes of ISO DIS 15031-6:2010. Alternatively, fault codes may be compiled and reported in accordance with ISO14229:2006. The fault codes shall be fully accessible by standardised diagnostic equipment complying with point 3.9.
+
+The vehicle manufacturer shall provide to a national standardisation body the details of any emission-related diagnostic data, e.g. PID's, OBD monitor Id's, Test Id's not specified in ISO 15031-5:2011 or ISO14229:2006, but relating to this Regulation.
+
+3.12.
+
+The connection interface between the vehicle and the diagnostic tester shall be standardised and meet all the requirements of ISO 19689:2016 ‘ Motorcycles and mopeds — Communication between vehicle and external equipment for diagnostics — Diagnostic connector and related electrical circuits, specification and use ’ or ISO 15031-3:2004 ‘ Road vehicles — Communication between vehicle and external test equipment for emissions-related diagnostics — Part 3: Diagnostic connector and related electric circuits: specification and use ’ . The preferred installation position is under the seating position. Any other position of the diagnostic connector shall be subject to the approval authority's agreement and be readily accessible by service personnel but protected from tampering by non-qualified personnel. The position of the connection interface shall be clearly indicated in the user manual.
+
+3.13.
+
+Until an OBD stage II system for L-category vehicle has been implemented on the vehicle, an alternative connection interface may be installed at the request of the vehicle manufacturer. Where such an alternative connection interface is installed, the vehicle manufacturer shall make available to test equipment manufacturers the details of the vehicle connector pin configuration free of charge. The vehicle manufacturer shall provide an adapter enabling connection to a generic scan tool. Such an adapter shall be of suitable quality for professional workshop use. It shall be provided upon request to all independent operators in a non-discriminating manner. Manufacturers may charge a reasonable and proportionate price for this adapter, taking into account the additional costs caused for the customer by this choice of the manufacturer. The connection interface and the adapter may not include any specific design elements which would require validation or certification before use, or which would restrict the exchange of vehicle data when using a generic scan tool.
+
+4\.
+
+**In-use performance**
+
+4.1.
+
+General requirements
+
+4.1.1.
+
+Each monitor of the OBD system shall be executed at least once per driving cycle in which the monitoring conditions in point 3.2 of Annex XII are met. Manufacturers shall not use the calculated ratio (or any element thereof) or any other indication of monitor frequency as a monitoring condition for any monitor.
+
+4.1.2.
+
+The in-use performance ratio (‘IUPR’) of a specific monitor M of the OBD systems and in-use performance of pollution control devices shall be:
+
+*Equation Ap1-1*:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2014/44)
+
+4.1.3.
+
+Comparison of Numerator and Denominator gives an indication of how often a specific monitor is operating relative to vehicle operation. To ensure all manufacturers are tracking IUPRM in the same manner, detailed requirements are given for defining and incrementing these counters.
+
+4.1.4.
+
+From 1 January 2024 , if, in accordance with the requirements of this Annex, the vehicle is equipped with a specific monitor M, IUPRM shall be greater than or equal to 0,1 for all monitors M.
+
+4.1.4.1.
+
+Until 31 December 2023 , the manufacturer shall demonstrate to the approval authority the functionality of IUPR determination, for new types of vehicles as of 1 January 2020 and for existing types of vehicles as of 1 January 2021 .
+
+4.1.5.
+
+The requirements of this point are deemed to be met for a particular monitor M, if for all vehicles of a particular vehicle and propulsion family manufactured in a particular calendar year the following statistical conditions hold:
+
+- ((a)) The average IUPRM is equal or above the minimum value applicable to the monitor;
+- ((b)) More than 50 % of all vehicles have an IUPRM equal or above the minimum value applicable to the monitor.
+
+4.1.6.
+
+The manufacturer shall demonstrate to the approval authority that these statistical conditions are satisfied for vehicles manufactured in a given calendar year for all monitors required to be reported by the OBD system according to point 4.6 of this Appendix not later than 18 months after the end of a calendar year. For this purpose, statistical tests shall be used which implement recognised statistical principles and confidence levels.
+
+4.1.7.
+
+For demonstration purposes of this point, the manufacturer may group vehicles within a vehicle and propulsion family by any successive non-overlapping 12-month manufacturing periods instead of calendar years. For establishing the test sample of vehicles, at least the selection criteria of Appendix 3, point 2 shall be applied. For the entire test sample of vehicles, the manufacturer shall report to the approval authority all of the in-use performance data to be reported by the OBD system in accordance with point 4.6 of this Appendix. Upon request, the approval authority which grants the approval shall make these data and the results of the statistical evaluation available to other approval authorities.
+
+4.1.8.
+
+The approval authority and the technical service may pursue further tests on vehicles or collect appropriate data recorded by vehicles to verify compliance with the requirements of this Annex.
+
+4.1.9.
+
+In-use performance-related data to be stored and reported by a vehicle’s OBD system shall be made readily available by the manufacturer to national authorities and independent operators without any encryption.
+
+4.2.
+
+NumeratorM
+
+4.2.1.
+
+The numerator of a specific monitor is a counter measuring the number of times a vehicle has been operated in such a way that all monitoring conditions necessary for the specific monitor to detect a malfunction in order to warn the driver, as they have been implemented by the manufacturer, have been encountered. The numerator shall not be incremented more than once per driving cycle, unless there is reasoned technical justification.
+
+4.3.
+
+DenominatorM
+
+4.3.1.
+
+The purpose of the denominator is to provide a counter indicating the number of vehicle driving events, taking into account special conditions for a specific monitor. The denominator shall be incremented at least once per driving cycle, if during this driving cycle such conditions are met and the general denominator is incremented as specified in point 4.5, unless the denominator is disabled according to point 4.7.
+
+4.3.2.
+
+In addition to the requirements of point 4.3.1:
+
+- Secondary air system monitor denominator(s) shall be incremented if the commanded ‘on’ operation of the secondary air system occurs for a time greater than or equal to 10 seconds. For purposes of determining this commanded ‘on’ time, the OBD system shall not include time during intrusive operation of the secondary air system solely for the purposes of monitoring.
+- Denominators of monitors of systems only active during cold start shall be incremented if the component or strategy is commanded ‘on’ for a time greater than or equal to 10 seconds.
+- The denominator(s) for monitors of Variable Valve Timing (VVT) and/or control systems shall be incremented if the component is commanded to function (e.g. commanded ‘on’, ‘open’, ‘closed’, ‘locked’, etc.) on two or more occasions during the driving cycle or for a time greater than or equal to 10 seconds, whichever occurs first.
+- For the following monitors, the denominator(s) shall be incremented by one if, in addition to meeting the requirements of this point on at least one driving cycle, at least 800 cumulative kilometres of vehicle operation have been experienced since the last time the denominator was incremented:
+  - ((i)) Diesel oxidation catalyst;
+  - ((ii)) Diesel particulate filter.
+
+4.3.3.
+
+For hybrid vehicles, vehicles that employ alternative engine start hardware or strategies (e.g. integrated starter and generators), or alternative fuel vehicles (e.g. dedicated, bi-fuel, or dual-fuel applications), the manufacturer may request the approval of the approval authority to use alternative criteria to those set out in this point for incrementing the denominator. In general, the approval authority shall not approve alternative criteria for vehicles that employ engine shut off only at or near idle/vehicle stop conditions. The authority’s approval of the alternative criteria shall be based on their equivalence to determine the amount of vehicle operation relative to the measure of conventional vehicle operation in accordance with the criteria in this point.
+
+4.4.
+
+Ignition Cycle Counter
+
+4.4.1.
+
+The ignition cycle counter indicates the number of ignition cycles a vehicle has experienced. The ignition cycle counter may not be incremented more than once per driving cycle.
+
+4.5.
+
+General Denominator
+
+4.5.1.
+
+The general denominator is a counter measuring the number of times a vehicle has been operated. It shall be incremented within 10 seconds, if the following criteria are satisfied on a single driving cycle:
+
+- ((a)) Cumulative time since engine start is greater than or equal to 600 seconds at an elevation of less than 2 440 m above sea level or an ambient pressure of more than 75,7 kPa and an ambient temperature of 266,2 K (– 7 °C) or more;
+- ((b)) Cumulative vehicle operation at or above 25 km/h occurs for 300 seconds or more at an elevation of less than 2 440 m above sea level or an ambient pressure of more than 75,7 kPa and an ambient temperature of 266,2 K (– 7 °C) or more;
+- ((c)) Continuous vehicle operation at idle (i.e. accelerator pedal released by driver and vehicle speed of 1,6 km/h or less) for 30 seconds or more at an elevation of less than 2 440 m above sea level or an ambient pressure of more than 75,7 kPa and an ambient temperature of 266,2 K (– 7 °C) or more.
+
+The general denominator may also be incremented outside the boundary conditions for altitude or ambient pressure and ambient temperature.
+
+4.6.
+
+Reporting and increasing counters
+
+4.6.1.
+
+The OBD system shall report in accordance with the ISO 15031-5:2011 specifications the ignition cycle counter and general denominator as well as separate numerators and denominators for the following monitors, if their presence on the vehicle is required by this Annex:
+
+- ((a)) Catalysts (each bank to be reported separately);
+- ((b)) Oxygen/exhaust gas sensors, including secondary oxygen sensors (each sensor to be reported separately);
+- ((c)) Evaporative system;
+- ((d)) Exhaust Gas Recirculation (EGR) system;
+- ((e)) Variable Valve Train (VVT) system;
+- ((f)) Secondary air system;
+- ((g)) Particulate filter;
+- ((h)) NO<sub>x</sub> after-treatment system (e.g. NO<sub>x</sub> adsorber, NO<sub>x</sub> reagent/catalyst system);
+- ((i)) Boost pressure control system.
+
+4.6.2.
+
+For specific components or systems that have multiple monitors which have to be reported under this point (e.g. oxygen sensor bank 1 may have multiple monitors for sensor response or other sensor characteristics), the OBD system shall separately track numerators and denominators for each of the specific monitors and report only the corresponding numerator and denominator for the specific monitor that has the lowest numerical ratio. If two or more specific monitors have identical ratios, the corresponding numerator and denominator for the specific monitor that has the highest denominator shall be reported for the specific component.
+
+4.6.2.1.
+
+Numerators and denominators for specific monitors of components or systems that are monitoring continuously for short circuit or open circuit failures are exempted from reporting.
+
+For the purposes of this point, ‘ continuously ’ means monitoring is always enabled and sampling of the signal used for monitoring occurs at a rate no less than two samples per second and the presence or the absence of the failure relevant to that monitor has to be concluded within 15 seconds. If for control purposes, a computer input component is sampled less frequently, the signal of the component may instead be evaluated each time sampling occurs.It is not required to activate an output component/system for the sole purpose of monitoring that output component/system.
+
+4.6.3.
+
+All counters, when incremented, shall be incremented by an integer of one.
+
+4.6.4.
+
+The minimum value of each counter is 0; the maximum value shall not be less than 65 535, notwithstanding any other requirements regarding standardised storage and reporting of the OBD system.
+
+4.6.5.
+
+If either the numerator or denominator for a specific monitor reaches its maximum value, both counters for that specific monitor shall be divided by two before being incremented again in accordance with points 4.2 and 4.3. If the ignition cycle counter or the general denominator reaches its maximum value, the respective counter shall change to zero at its next increment in accordance with points 4.4 and 4.5 respectively.
+
+4.6.6.
+
+Each counter shall be reset to zero only when a non-volatile memory reset occurs (e.g. reprogramming event, etc.) or, if the numbers are stored in keep-alive memory (KAM), when KAM is lost due to an interruption in electrical power to the control module (e.g. battery disconnect, etc.).
+
+4.6.7.
+
+The manufacturer shall take measures to ensure that the values of numerator and denominator cannot be reset or modified, except in cases provided for explicitly in this point.
+
+4.7.
+
+Disablement of Numerators and Denominators and of the General Denominator
+
+4.7.1.
+
+Within 10 seconds of detection of a malfunction which disables a monitor required to meet the monitoring conditions of this Annex (i.e. a pending or confirmed code is stored), the OBD system shall disable further incrementing of the corresponding numerator and denominator for each monitor that is disabled. When the malfunction is no longer detected (i.e. the pending code is erased through self-clearing or a scan tool command), incrementing of all corresponding numerators and denominators shall resume within 10 seconds.
+
+4.7.2.
+
+Within 10 seconds of the start of a power take-off operation (PTO) that disables a monitor required to meet the monitoring conditions of this Annex, the OBD system shall disable further incrementing of the corresponding numerator and denominator for each monitor that is disabled. When the PTO operation ends, incrementing of all corresponding numerators and denominators shall resume within 10 seconds.
+
+4.7.3.
+
+The OBD system shall disable further incrementing of the numerator and denominator of a specific monitor within 10 seconds, if a malfunction of any component used to determine the criteria within the definition of the specific monitor’s denominator (i.e. vehicle speed, ambient temperature, elevation, idle operation, engine cold start or time of operation) has been detected and the corresponding pending fault code has been stored. Incrementing of the numerator and denominator shall resume within 10 seconds when the malfunction is no longer present (e.g. pending code erased through self-clearing or by a scan tool command).
+
+4.7.4.
+
+The OBD system shall disable further incrementing of the general denominator within 10 seconds if a malfunction has been detected of any component used to determine whether the criteria in point 4.5 are satisfied (i.e. vehicle speed, ambient temperature, elevation, idle operation or time of operation) and the corresponding pending fault code has been stored. The general denominator may not be disabled from incrementing for any other condition. Incrementing of the general denominator shall resume within 10 seconds when the malfunction is no longer present (e.g. pending code erased through self-clearing or by a scan tool command).
+
+5\.
+
+**Access to OBD information**
+
+5.1.
+
+Applications for type-approval or type-approval amendment shall be accompanied by the relevant information concerning the vehicle OBD system. This information shall enable manufacturers of replacement or retrofit components to make the parts they manufacture compatible with the vehicle OBD system, with a view to fault-free operation assuring the vehicle user against malfunctions. Similarly, such relevant information shall enable the manufacturers of diagnostic tools and test equipment to make tools and equipment that provide for the effective and accurate diagnosis of vehicle emission control systems.
+
+5.2.
+
+Upon request, the vehicle manufacturer shall make the relevant information on the OBD system available to any interested components, diagnostic tools or test equipment manufacturer on a non-discriminatory basis:
+
+- A description of the type and number of preconditioning cycles used for the original type-approval of the vehicle;
+- A description of the type of the OBD demonstration cycle used for the original type-approval of the vehicle for the component monitored by the OBD system;
+- A comprehensive document describing all sensed components with the strategy for fault detection and MI activation (fixed number of driving cycles or statistical method), including a list of relevant secondary sensed parameters for each component monitored by the OBD system and a list of all OBD output codes and format used (with an explanation of each) associated with individual emission-related powertrain components and individual non-emission-related components, where monitoring of the component is used to determine MI activation. In particular, a comprehensive explanation for the data in service $ 05 Test ID $ 21 to FF and the data in service $ 06 shall be provided. In the case of vehicle types that use a communication link in accordance with ISO 15765-4 ‘Road vehicles — Diagnostics on Controller Area Network (CAN) — Part 4: Requirements for emissions-related systems’, a comprehensive explanation for the data in service $ 06 Test ID $ 00 to FF, for each OBD monitor ID supported, shall be provided.
+- This information may be provided in the form of a table, as follows:
+
+  <table>
+  <thead>
+  <tr><td colspan="9"><em>Figure Ap1-1</em></td></tr>
+  <tr><td colspan="9"><strong>Template OBD information list</strong></td></tr>
+  </thead>
+  <tbody>
+  <tr><th>Component</th><th>Diagnostic trouble code</th><th>Monitoring strategy</th><th>Fault detection criteria</th><th>MI activation criteria</th><th>Secondary parameters</th><th>Preconditioning</th><th>Demonstration test</th><th>Default mode</th></tr>
+  <tr><td>Catalyst</td><td>P0420</td><td>Oxygen sensor 1 and 2 signals</td><td>Difference between sensor 1 and sensor 2 signals</td><td>3rd cycle</td><td>Engine speed, engine load, A/F mode, catalyst temperature</td><td>Two Type I cycles</td><td>Type I</td><td>None</td></tr>
+  </tbody>
+  </table>
+- If an approval authority receives a request from any interested components, diagnostic tools or test equipment manufacturer for information on the OBD system of a vehicle:
+  - ((a)) the authority shall, within 30 days, ask the manufacturer of the vehicle in question to make available the information required in points 5.1 and 5.2;
+  - ((b)) the manufacturer shall submit this information to the approval authority within two months of the request;
+  - ((c)) the authority shall transmit this information to the other Member States’ approval authorities and the approval authority which granted the original type-approval shall attach this information to the vehicle type-approval information.
+- Information can be requested only for replacement or service components that are subject to type-approval or for components that form part of a system subject to type-approval.
+- The request for information shall identify the exact specification of the vehicle model for which the information is required. It shall confirm that the information is required for the development of replacement or retrofit parts or components or diagnostic tools or test equipment.
+
+6\.
+
+**Information required for the manufacture of diagnostic tools**
+
+6.1.
+
+In order to facilitate the provision of generic diagnostic tools for multi-make repairers, vehicle manufacturers shall make available the information referred to in the points below through their repair information websites.
+
+6.2.
+
+This information shall include all diagnostic tool functions and all the links to repair information and troubleshooting instructions. Access to this information may be subject to the payment of a reasonable fee.
+
+6.2.1.
+
+Communication Protocol Information
+
+The following information shall be required, indexed against vehicle make, model and variant, or other workable definition such as VIN or vehicle and systems identification:
+
+- Any additional protocol information system necessary to enable complete diagnostics in addition to the standards prescribed in point 3.8 of Appendix 1 to Annex XII, including any additional hardware or software protocol information, parameter identification, transfer functions, ‘keep alive’ requirements, or error conditions;
+- Details of how to obtain and interpret all fault codes not in accordance with the standards prescribed in point 3.11;
+- A list of all available live data parameters, including scaling and access information;
+- A list of all available functional tests, including device activation or control and the means to implement them;
+- Details of how to obtain all component and status information, time stamps, pending DTC and freeze frames;
+- Resetting adaptive learning parameters, variant coding and replacement component setup, and customer preferences;
+- PCU/ECU identification and variant coding;
+- Details of how to reset service lights;
+- Location of standardised diagnostic connector and connector details;
+- Engine code identification.
+
+6.2.2.
+
+Test and diagnosis of OBD monitored components
+
+The following information shall be required:
+
+- A description of tests to confirm its functionality, at the component or in the harness;
+- Test procedure including test parameters and component information;
+- Connection details including minimum and maximum input and output and driving and loading values;
+- Values expected under certain driving conditions including idling;
+- Electrical values for the component in its static and dynamic states;
+- Failure mode values for each of the above scenarios;
+- Failure mode diagnostic sequences including fault trees and guided fault elimination by diagnostics;
+
+6.2.3.
+
+Data required to perform the repair
+
+The following information shall be required:
+
+- ECU and component initialisation (in the event of replacements being fitted);
+- Initialisation of new or replacement ECUs where relevant using pass-through (re)programming techniques.
+
+Appendix 2
+
+**Minimum monitoring requirements for on-board diagnostic (OBD) system stages I and II**
+
+1\.
+
+**Subject matter**
+
+The following minimum monitoring requirements shall apply for OBD systems complying with the requirements of stages I and II regarding electric circuit diagnostics.
+
+2\.
+
+**Scope and monitoring requirements**
+
+If fitted, the following listed sensors and actuators shall be monitored for electric circuit malfunctions which may cause emissions to exceed the designated OBD emission thresholds laid down to in Section B of Annex VI to Regulation (EU) No 168/2013 and/or lead to activation of a default mode that results in a significant reduction of propulsion torque.
+
+2.1.
+
+*Table Ap2-1*
+
+**Overview of devices (if fitted) to be monitored in OBD stage I and/or II**
+
+<table>
+<tfoot>
+<tr><td colspan="11">Comments:</td></tr>
+<tr><td colspan="11">Only in case of an activated default mode leading to a significantly reduced propulsion torque or if a throttle by wire system is fitted.</td></tr>
+<tr><td colspan="11">If redundant APS or redundant TPS are fitted, signal cross check(s) shall meet all circuit rationality requirements. If there is only one APS or TPS fitted, APS or TPS circuit rationality monitoring is not mandatory.</td></tr>
+<tr><td colspan="11">OBD stage II: two out of three of the circuit rationality malfunctions marked with ‘ II ’ shall be monitored in addition to circuit continuity monitoring.</td></tr>
+<tr><td colspan="11">only if used as input to ECU/PCU with relevance to environmental or functional safety performance.</td></tr>
+<tr><td colspan="11">Derogation allowed if manufacturer requests, level 3 instead, actuator signal present only without indication of symptom.</td></tr>
+<tr><td colspan="11">( <sup> 3 </sup> ) Deleted.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>No</th><th>Device circuits</th><th></th><th colspan="3">Circuit continuity</th><th colspan="3">Circuit rationality</th><th>Basic monitoring requirement</th><th>Comment No</th></tr>
+<tr><th></th><th></th><th>Level, refer to 2.3</th><th>Circuit High</th><th>Circuit Low</th><th>Open Circuit</th><th>Out of Range</th><th>Performance/Plausibility</th><th>Signal stuck</th><th>Device not operational / Device not present</th><th></th></tr>
+<tr><td>1</td><td>Control module (ECU/PCU) internal error</td><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><th colspan="11">Sensor (input to control units)</th></tr>
+<tr><td>1</td><td>Accelerator (pedal/handle) position sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td></td><td></td></tr>
+<tr><td>2</td><td>Barometric pressure sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td></td><td>II</td><td></td><td></td><td></td></tr>
+<tr><td>3</td><td>Camshaft position sensor</td><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>4</td><td>Crankshaft position sensor</td><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>5</td><td>Engine coolant temperature sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>6</td><td>Exhaust control valve angle sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>7</td><td>Exhaust gas recirculation sensor</td><td>1</td><td>II</td><td>II</td><td>II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>8</td><td>Fuel rail pressure sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>9</td><td>Fuel rail temperature sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>10</td><td>Gear shift position sensor (potentiometer type)</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>11</td><td>Gear shift position sensor (switch type)</td><td>3</td><td></td><td></td><td></td><td></td><td>II</td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>12</td><td>Intake air temperature sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>13</td><td>Knock sensor (Non-resonance type)</td><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>14</td><td>Knock sensor (Resonance type)</td><td>3</td><td></td><td></td><td></td><td></td><td>I&amp;II</td><td></td><td></td><td></td></tr>
+<tr><td>15</td><td>Manifold absolute pressure sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>16</td><td>Mass air flow sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>17</td><td>Engine oil temperature sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>18</td><td>O <sub> 2 </sub> sensor (binary/linear) signals</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>19</td><td>Fuel (high) pressure sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>20</td><td>Fuel storage temperature sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>II</td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td>21</td><td>Throttle position sensor</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td></td><td></td></tr>
+<tr><td>22</td><td>Vehicle speed sensor</td><td>3</td><td></td><td></td><td></td><td></td><td>II</td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>23</td><td>Wheel speed sensor</td><td>3</td><td></td><td></td><td></td><td></td><td>II</td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><th colspan="11">Actuators (output control units)</th></tr>
+<tr><td>1</td><td>Evaporative emission system purge control valve</td><td>2</td><td>II</td><td>I&amp;II</td><td>II</td><td></td><td></td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>2</td><td>Exhaust control valve actuator (motor driven)</td><td>3</td><td></td><td></td><td></td><td></td><td>II</td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>3</td><td>Exhaust gas recirculation control</td><td>3</td><td></td><td></td><td></td><td></td><td>II</td><td></td><td></td><td></td></tr>
+<tr><td>4</td><td>Fuel injector</td><td>2</td><td></td><td>I&amp;II</td><td></td><td></td><td></td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>5</td><td>Idle air control system</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td></td><td>II</td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>6</td><td>Ignition coil primary control circuits</td><td>2</td><td></td><td>I&amp;II</td><td></td><td></td><td></td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>7</td><td>O <sub> 2 </sub> sensor heater</td><td>1</td><td>I&amp;II</td><td>I&amp;II</td><td>I&amp;II</td><td></td><td>II</td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>8</td><td>Secondary air injection system</td><td>2</td><td>II</td><td>I&amp;II</td><td>II</td><td></td><td></td><td></td><td>I&amp;II</td><td></td></tr>
+<tr><td>9</td><td>Throttle by wire actuator</td><td>3</td><td></td><td>I&amp;II</td><td></td><td></td><td></td><td></td><td>I&amp;II</td><td></td></tr>
+</tbody>
+</table>
+
+[^f00024][^f00025][^f00027][^f00027][^f00027][^f00027][^f00027][^f00027][^f00028][^f00028][^f00027][^f00027][^f00027][^f00027][^f00027][^f00027][^f00027][^f00025][^f00028][^f00028][^f00029][^f00029][^f00029][^f00029][^f00029][^f00029][^f00029]
+
+2.2.
+
+If there are more of the same device types fitted on the vehicle listed in the Table Ap2-1, those devices shall be separately monitored and reported in case of malfunctions. If a malfunction is marked with ‘I’ in Table Ap2-1 it shall mean that monitoring is mandatory for OBD stage I and if it is marked with ‘II’ it shall also be mandatory monitoring the malfunction for OBD stage II.
+
+2.3.
+
+Sensors and actuators shall be associated with a specific diagnostic level set out below that defines which type of diagnostic monitoring shall be performed:
+
+- Level 1: sensor/actuator of which at least two circuit continuity symptoms can be detected and reported (i.e. short circuit to ground, short circuit to power and open circuit).
+- Level 2: sensor/actuator of which at least one circuit continuity symptom can be detected and reported (i.e. short circuit to ground, short circuit to power and open circuit).
+- Level 3: sensor/actuator of which at least one symptom can be detected, but not reported separately.
+
+2.4.
+
+Two out of three symptoms in circuit continuity as well as in circuit rationality monitoring diagnostic may be combined, e.g.
+
+- circuit high or open and low circuit;
+- high and low or open circuit;
+- signal out of range or circuit performance and signal stuck;
+- circuit high and out of range high or circuit low and out of range low.
+
+2.5.
+
+Exemptions regarding detection
+
+Exemption from detecting certain electric circuit monitoring symptoms may be granted in the following cases if the manufacturer can demonstrate to the technical service to the satisfaction of the approval authority that:
+
+- a listed malfunction will not cause emissions to exceed the designated OBD emission threshold set out in Section B of Annex VI to Regulation (EU) No 168/2013; or
+- a listed malfunction will not cause a significant torque loss; or
+- the only feasible monitoring strategy would negatively affect vehicle functional safety or driveability in a significant way.
+
+2.6.
+
+Exemption regarding OBD emission verification tests (type VIII)
+
+At the request of the manufacturer and based on a technical justification to the satisfaction of the approval authority, certain OBD monitors listed in Table Ap2-1 may be exempted from type VIII emission verification tests referred to in Annex V(A) to Regulation (EU) No 168/2013 under the condition that the manufacturer can demonstrate to the approval authority that:
+
+- the malfunction indicator fitted to the vehicle is activated when the malfunction listed in Table Ap2-1 occurs:
+  - during the same key cycle and;
+  - immediately after expiration of a limited time delay (300 s or less) in that same key cycle, or;
+- monitoring of some of the items listed in Table Ap2-1 is physically not possible and a deficiency has been granted for this incomplete monitor. The comprehensive, technical justification why such an OBD monitor cannot run shall be added to the information folder.
+
+Appendix 3
+
+**In-use performance ratio**
+
+1\.
+
+Introduction
+
+1.1.
+
+This Appendix sets out the in-use performance ratio of a specific monitor M of the OBD systems (IUPR M) requirements for L3e, L5e-A, and L7e-A vehicles type approved in accordance with this Regulation.
+
+2\.
+
+Audit of IUPR M
+
+2.1.
+
+At the request of the approval authority, the manufacturer shall report to the type-approval authority on warranty claims, warranty repair works and OBD faults recorded at servicing, according to a format agreed at type-approval. The information shall detail the frequency and substance of faults for emissions-related components and systems. The reports shall be filed at least once in the vehicle's production cycle, for each vehicle model for the duration of 5 years of age or the distance as laid down in Annex VII(A) to Regulation (EU) No 168/2013, whichever is sooner.
+
+2.2.
+
+Parameters defining IUPR family
+
+For defining the IUPR family the OBD family parameters listed in Appendix 5 shall be used.
+
+2.3.
+
+Information requirements
+
+An audit of IUPR M will be conducted by the approval authority on the basis of information supplied by the manufacturer. Such information shall include in particular, the following:
+
+- The name and address of the manufacturer;
+- The name, address, telephone and fax numbers and e-mail address of his authorised representative within the areas covered by the manufacturer's information;
+- The model name(s) of the vehicles included in the manufacturer's information;
+- Where appropriate, the list of vehicle types covered within the manufacturer's information, i.e. for OBD and IUPR M, the OBD family in accordance with Appendix 5;
+- The vehicle identification number (VIN) codes applicable to these vehicle types within the family (VIN prefix);
+- The numbers of the type-approvals applicable to these vehicle types within the IUPR family, including, where applicable, the numbers of all extensions and field fixes/recalls (re-works);
+- Details of extensions, field fixes/recalls to those type-approvals for the vehicles covered within the manufacturer's information (if requested by the approval authority);
+- The period of time over which the manufacturer's information was collected;
+- The vehicle build period covered within the manufacturer's information (e.g. vehicles manufactured during the 2017 calendar year);
+- The manufacturer's IUPR M checking procedure, including:
+  - ((a)) vehicle location method;
+  - ((b)) vehicle selection and rejection criteria;
+  - ((c)) test types and procedures used for the programme;
+  - ((d)) the manufacturer's acceptance/rejection criteria for the family group;
+  - ((e)) geographical area(s) within which the manufacturer has collected information;
+  - ((f)) sample size and sampling plan used.
+- The results from the manufacturer's IUPR M procedure, including:
+  - ((a)) identification of the vehicles included in the programme (whether tested or not). The identification shall include the following:
+    - model name;
+    - vehicle identification number (VIN);
+    - region of use (where known
+    - date of manufacture.
+  - ((b)) the reason(s) for rejecting a vehicle from the sample:
+  - ((c)) test data, including the following:
+    - date of test/download;
+    - location of test/download;
+    - all data, as required in accordance with point 4.1.6. of Appendix 1, downloaded from the vehicle;
+    - for each monitor to be reported the in-use-performance ratio.
+- For IUPR M sampling, the following:
+  - ((a)) the average of in-use-performance ratios IUPR M of all selected vehicles for each monitor in accordance with point 4.1.4. of Appendix 1.
+  - ((b)) The percentage of selected vehicles, which have an IUPR M greater or equal to the minimum value applicable to the monitor in accordance with point 4.1.4. of Appendix 1.
+
+3\.
+
+Selection of vehicles for IUPR M
+
+3.1.
+
+The manufacturer's sampling shall be drawn from at least two Member States with substantially different vehicle operating conditions (unless only made available on the market in one Member State). Factors such as differences in fuels, ambient conditions, average road speeds, and urban/highway driving split shall be taken into consideration in the selection of the Member States.
+
+For IUPR M testing, only vehicles fulfilling the criteria of point 2.3 of Appendix 4 shall be included in the test sample.
+
+3.2.
+
+In selecting the Member States for sampling vehicles, the manufacturer may select vehicles from a Member State that is considered to be particularly representative. In this case, the manufacturer shall demonstrate to the approval authority which granted the type approval that the selection is representative (e.g. by the market having the largest annual sales of a vehicle family within the Union). When a family requires more than one sample lot to be tested as defined in point 3.3, the vehicles in the second and third sample lots shall reflect different vehicle operating conditions from those selected for the first sample.
+
+3.3.
+
+Sample size
+
+3.3.1.
+
+The number of sample lots shall depend on the annual sales volume of an OBD family in the Union, as defined in the following table:
+
+| EU registrations per calendar year (for tailpipe emissions tests) of vehicles of an OBD family with IUPR in the sampling period | Number of sample lots |
+| --- | --- |
+| up to 100 000 | 1 |
+| 100 001 to 200 000 | 2 |
+| above 200 000 | 3 |
+
+3.3.2.
+
+For IUPR, the number of sample lots to be taken is described in the table in point 3.3.1. and is based on the number of vehicles of an IUPR family that are approved with IUPR
+
+For the first sampling period of an IUPR family, all of the vehicle types in the family that are approved with IUPR shall be considered to be subject to sampling. For subsequent sampling periods, only vehicle types which have not been previously tested or are covered by emissions approvals that have been extended since the previous sampling period shall be considered to be subject to sampling.
+
+For families consisting of fewer than 5 000 EU registrations that are subject to sampling within the sampling period the minimum number of vehicles in a sample lot is six. For all other families, the minimum number of vehicles in a sample lot to be sampled is fifteen.
+
+Each sample lot shall adequately represent the sales pattern, i.e. at least high volume vehicle types (≥ 20 % of the family total) shall be represented.
+
+Vehicles of small series productions with less than 1 000 vehicles per OBD family are exempted from minimum IUPR requirements as well as the requirement to demonstrate these to the type approval authority.
+
+4\.
+
+On the basis of the audit referred to in Section 2 the approval authority shall adopt one of the following decisions and actions:
+
+- ((a)) decide that the IUPR family is satisfactory and not take any further action;
+- ((b)) decide that the data provided by the manufacturer is insufficient to reach a decision and request additional information or test data from the manufacturer;
+- ((c)) decide that based on data from the approval authority or Member State surveillance testing programmes, that information provided by the manufacturer is insufficient to reach a decision and request additional information or test data from the manufacturer;
+- ((d)) decide that the outcome of the audit for the IUPR family is unsatisfactory and proceed to have such vehicle type or IUPR family tested in accordance with Appendix 1.
+
+If according to the IUPR M audit the test criteria of point 3.2. of Appendix 4 are met for the vehicles in a sample lot, the type-approval authority must take the further action described in point (d) of this point.
+
+4.1.
+
+The approval authority, in cooperation with the manufacturer, shall select a sample of vehicles with sufficient mileage whose use under normal conditions can be reasonably assured. The manufacturer shall be consulted on the choice of the vehicles in the sample and allowed to attend the confirmatory checks of the vehicles.
+
+Appendix 4
+
+**Selecting criteria for vehicles with respect to in-use-performance ratios**
+
+1\.
+
+Introduction
+
+1.1.
+
+This Appendix sets out the criteria referred to in Section 4 of Appendix 1 to this annex regarding the selection of vehicles for testing and the procedures for IUPR M.
+
+2\.
+
+Selection criteria
+
+The criteria for acceptance of a selected vehicle are defined for IUPR M in Sections 2.1. to 2.5.
+
+2.1.
+
+The vehicle shall belong to a vehicle type that is type-approved under this Regulation and covered by a certificate of conformity in accordance with Implementing Regulation (EU) No 901/2014 [^f00030] . For checking of IUPR M, the vehicle shall be approved to the OBD standard stage II or later. It shall be registered and have been used in the Union.
+
+2.2.
+
+The vehicle shall have been in service for at least 3 000 km or 6 months, whichever is the later, and for no more than the durability mileages given for the relevant vehicles category mentioned in Annex VII(A) to Regulation (EU) No 168/2013 or 5 years, whichever is the sooner.
+
+2.3.
+
+For checking IUPR M, the test sample shall include only vehicles that:
+
+- ((a)) have collected sufficient vehicle operation data for the monitor to be tested.
+
+  For monitors required to meet the in-use monitor performance ratio and to track and report ratio data pursuant to point 4.6.1. of Appendix 1, sufficient vehicle operation data shall mean the denominator meets the criteria set forth below. The denominator, as defined in points 4.3 and 4.5 of Appendix 1, for the monitor to be tested must have a value equal to or greater than one of the following values:
+
+  - ((i)) 15 for evaporative system monitors, secondary air system monitors, and monitors utilising a denominator incremented in accordance with point 4.3.2. of Appendix 1 (e.g. cold start monitors, air conditioning system monitors, etc.); or
+  - ((ii)) 5 for particulate filter monitors and oxidation catalyst monitors utilising a denominator incremented in accordance with point 4.3.2. of Appendix 1; or
+  - ((iii)) 30 for catalyst, oxygen sensor, EGR, VVT, and all other component monitors.
+- ((b)) have not been tampered with or equipped with add-on or modified parts that would cause the OBD system not to comply with the requirements of Annex XII.
+
+2.3.
+
+If any service has taken place, it shall be to the manufacturer's recommended service intervals.
+
+2.4.
+
+The vehicle shall exhibit no indications of abuse (e.g. racing, overloading, mis-fuelling, or other misuse), or other factors (e. g. tampering) that could affect emission performance. The fault code and mileage information stored in the computer shall be taken into account. A vehicle shall not be selected for testing if the information stored in the computer shows that the vehicle has operated after a fault code was stored and a relatively prompt repair was not carried out.
+
+2.5.
+
+There shall have been no unauthorised major repair to the engine or major repair of the vehicle.
+
+3\.
+
+Plan of remedial measures
+
+3.1.
+
+The type approval authority shall request the manufacturer to submit a plan of remedial measures to remedy the non-compliance when:
+
+3.2.
+
+For IUPRM of a particular monitor M the following statistical conditions are met in a test sample, the size of which is determined in accordance with point 3.3.1. of Appendix 3.
+
+For vehicles certified to a ratio of 0,1 in accordance with point 4.1.4. of Appendix 1, the data collected from the vehicles indicate for at least one monitor M in the test sample either that the test sample average in-use-performance ratio is less than 0,1 or that 66 per cent or more of the vehicles in the test sample have an in-use monitor performance ratio of less than 0,1.
+
+3.3.
+
+The plan of remedial measures shall be filed with the type approval authority not later than 60 working days from the date of the notification referred to in point 3.1. The type approval authority shall within 30 working days declare its approval or disapproval of the plan of remedial measures. However, where the manufacturer can demonstrate, to the satisfaction of the competent type approval authority, that further time is required to investigate the non-compliance in order to submit a plan of remedial measures, an extension is granted.
+
+3.4.
+
+The remedial measures shall apply to all vehicles likely to be affected by the same defect. The need to amend the type approval documents shall be assessed.
+
+3.5.
+
+The manufacturer shall provide a copy of all communications related to the plan of remedial measures, and shall also maintain a record of the recall campaign, and supply regular status reports to the type approval authority.
+
+3.6.
+
+The plan of remedial measures shall include the requirements specified in points 3.6.1. to 3.6.11. The manufacturer shall assign a unique identifying name or number to the plan of remedial measures.
+
+3.6.1.
+
+A description of each vehicle type included in the plan of remedial measures.
+
+3.6.2.
+
+A description of the specific modifications, alterations, repairs, corrections, adjustments, or other changes to be made to bring the vehicles into conformity including a brief summary of the data and technical studies which support the manufacturer's decision as to the particular measures to be taken to correct the non-conformity.
+
+3.6.3.
+
+A description of the method by which the manufacturer informs the vehicle owners.
+
+3.6.4.
+
+A description of the proper maintenance or use, if any, which the manufacturer stipulates as a condition of eligibility for repair under the plan of remedial measures, and an explanation of the manufacturer's reasons for imposing any such condition. No maintenance or use conditions may be imposed unless it is demonstrably related to the non-conformity and the remedial measures.
+
+3.6.5.
+
+A description of the procedure to be followed by vehicle owners to obtain correction of the non-conformity. This shall include a date after which the remedial measures may be taken, the estimated time for the workshop to perform the repairs and where they can be done. The repair shall be done expediently, within a reasonable time after delivery of the vehicle.
+
+3.6.6.
+
+A copy of the information transmitted to the vehicle owner.
+
+3.6.7.
+
+A brief description of the system which the manufacturer uses to assure an adequate supply of component or systems for fulfilling the remedial action. It shall be indicated when there will be an adequate supply of components or systems to initiate the campaign.
+
+3.6.8.
+
+A copy of all instructions to be sent to those persons who are to perform the repair.
+
+3.6.9.
+
+A description of the impact of the proposed remedial measures on the emissions, fuel consumption, driveability, and safety of each vehicle type, covered by the plan of remedial measures with data, technical studies, etc. which support these conclusions.
+
+3.6.10.
+
+Any other information, reports or data the type approval authority may reasonably determine is necessary to evaluate the plan of remedial measures.
+
+3.6.11.
+
+Where the plan of remedial measures includes a recall, a description of the method for recording the repair shall be submitted to the type approval authority. If a label is used, an example of it shall be submitted.
+
+3.7.
+
+The manufacturer may be required to conduct reasonably designed and necessary tests on components and vehicles incorporating a proposed change, repair, or modification to demonstrate the effectiveness of the change, repair, or modification.
+
+3.8.
+
+The manufacturer is responsible for keeping a record of every vehicle recalled and repaired and the workshop which performed the repair. The type approval authority shall have access to the record on request for a period of 5 years from the implementation of the plan of remedial measures.
+
+3.9.
+
+The repair and/or modification or addition of new equipment shall be recorded in a certificate supplied by the manufacturer to the vehicle owner.
+
+Appendix 5
+
+**On-board diagnostics family**
+
+1\.
+
+Introduction
+
+1.1.
+
+This Appendix sets out the criteria to define a OBD family as referred to in Appendices 3 and 4
+
+2\.
+
+Selection criteria
+
+Vehicle types for which at least the parameters described below are identical are considered to belong to the same engine/emission control/OBD system combination.
+
+2.2
+
+Engine:
+
+- combustion process (i.e. positive-ignition/compression-ignition, two stroke/four stroke/rotary),
+- method of engine fuelling (i.e. single or multi-point fuel injection),
+- fuel type (i.e. petrol, diesel, flex fuel petrol/ethanol, flex fuel diesel/biodiesel, NG/biomethane, LPG, bi fuel petrol/NG/biomethane, bi fuel petrol/LPG),
+
+2.3
+
+Emission control system:
+
+- type of catalytic converter (i. e. oxidation, three-way, heated catalyst, SCR, other),
+- type of particulate trap,
+- secondary air injection (i.e. with or without),
+- exhaust gas recirculation (i.e. with or without),
+
+2.4
+
+OBD parts and functioning:
+
+- the methods of OBD functional monitoring, malfunction detection and malfunction indication to the vehicle driver.
+
+ANNEX XIII
+
+**Requirements applying to passenger handholds and footrests**
+
+1\.
+
+**General requirements**
+
+1.1.
+
+‘Type of vehicle with regard to handholds and footrests’ means a category of vehicles which do not differ in such essential respects as shape, size, material and mounting characteristics of the passenger handhold and footrests of the vehicle.
+
+1.2.
+
+For vehicles designed to carry one or more passengers but not equipped with safety belts for those passengers, the seating positions in question shall be fitted with a passenger handhold system consisting of either a strap or one or two hand-grip bars.
+
+1.2.1.
+
+Handhold straps shall be fitted close to the relevant seating position in such a way that they can be easily used by the passenger. They shall be symmetrical with respect to the longitudinal median plane of the seating position. The strap and its attachments shall be able to withstand, without snapping, a vertical traction force of 2 000 N applied statically to the centre of its surface at a maximum pressure of 2,0 MPa.
+
+1.2.2.
+
+Single hand-grip bars shall be fitted close to the relevant seating position in such a way that they can be easily used by the passenger. They shall be symmetrical with respect to the longitudinal median plane of the seating position. The hand-grip bar and its attachments shall be able to withstand, without snapping, a vertical traction force of 2 000 N applied statically to the centre of its surface at a maximum pressure of 2,0 MPa.
+
+1.2.3.
+
+Two hand-grip bars shall be fitted close to the relevant seating position in such a way that they can be easily used by the passenger. They shall be symmetrical with respect to each other and the longitudinal median plane of the seating position. They shall each be able to withstand simultaneously, without snapping, a vertical traction force of 1 000 N applied statically to the centre of their surface at a maximum pressure of 1,0 MPa.
+
+1.2.4.
+
+Design features of the vehicle which could be confused with the designated passenger handhold system shall not be permitted, unless they also meet the requirements of points 1.2.1 to 1.2.3.
+
+1.3.
+
+All seating positions of the vehicle shall be fitted either with designated footrests or a floor or floor boards on which both of the rider’s, driver’s or passenger’s feet can rest.
+
+1.3.1.
+
+The vehicle’s floor, each designated floor board and each designated footrest shall be capable of withstanding, without any resulting permanent deformation which is harmful to its function, a vertical compression force of 1 700 N, applied statically to any point on the floor or floor board or 15 mm from the end of the footrest, at a maximum pressure of 2,0 MPa.
+
+1.3.2.
+
+The space provided by each designated footrest, including the space on the floor or floor board, shall be sufficient for a foot at least 300 mm long and at least 110 mm wide to be placed safely without hampering the vehicle operator’s feet. Footrests shall be located so that no direct contact between the foot/leg and rotating parts (e.g. tyres) of the vehicle is possible when in use.
+
+1.3.3.
+
+Design features of the vehicle which could be confused with the designated footrests, floor boards or vehicle floor shall not be permitted, unless they also meet the requirements of points 1.3.1 to 1.3.2.
+
+1.3.4.
+
+Pedals enabling the vehicle to be propelled by the rider’s muscular leg power are deemed to meet the requirements of points 1.3 to 1.3.3.
+
+1.4.
+
+The maximum pressures mentioned in points 1.2.1., 1.2.2., 1.2.3. and 1.3.1. may be exceeded during testing upon agreement with the vehicle manufacturer.
+
+ANNEX XIV
+
+**Requirements applying to the registration plate space**
+
+1\.
+
+**General requirements**
+
+1.1.
+
+‘Type of vehicle with regard to registration plate space’ means a category of vehicles which do not differ in such essential respects as the dimensions of the space for mounting and fixing the registration plate(s), the location of that space and the design characteristics of the surface for mounting and fixing the front registration plate, if applicable;
+
+1.2.
+
+Vehicles shall be equipped with a space for mounting and fixing rear registration plates.
+
+1.3.
+
+Vehicles of categories L6e and L7e shall in addition be equipped with a space for mounting and fixing front registration plates.
+
+1.3.1.
+
+Front registration plates are deemed unsuitable for vehicles of categories L1e, L2e, L3e, L4e and L5e, which shall therefore not be equipped with such spaces.
+
+1.4.
+
+Shape and dimensions of the space for mounting a registration plate
+
+1.4.1.
+
+The space for mounting shall comprise of a rectangular area with the following minimum dimensions:
+
+- For vehicles of categories L1e, L2e and L6e:
+  - either
+    - width: 100 mm
+    - height: 175 mm
+  - or
+    - width: 145 mm
+    - height: 125 mm.
+- For vehicles of categories L3e, L4e, L5e and L7e:
+  - width: 280 mm
+  - height: 200 mm.
+
+1.5.
+
+Mounting and fixing of a rear registration plate on vehicles of categories L1e, L2e, L3e, L4e and L5e
+
+1.5.1.
+
+The space for mounting a rear registration plate shall be such that, after being fixed according to the manufacturer’s instructions, the plate shall have the following characteristics:
+
+- Location of the space for mounting a rear registration plate:
+  - The space for mounting a registration plate at the rear of the vehicle shall be such that the plate can be positioned entirely within the two parallel longitudinal vertical planes passing through the outer extremities of the vehicle, not taking into account any rear-view mirrors. The space itself shall not form the widest point of the vehicle.
+- The plate shall be perpendicular to the longitudinal median plane of the vehicle.
+- Position of the plate in relation to the vertical transverse plane:
+  - The plate may be inclined to the vertical at not less than – 15° and not more than 30°.
+- Height of the plate from the ground surface:
+  - The lower edge of the plate shall not be less than 0,20 m above the ground or less than the radius of any rear wheel above the ground if that is less than 0,20 m.
+  - The height of the upper edge of the plate from the ground shall not exceed 1,50 m.
+- Geometrical visibility:
+  - The plate shall be visible in the whole space within the following four planes:
+    - the two vertical planes touching the two lateral edges of the plate and forming an angle measured outwards to the left and to the right of the plate of 30° in relation to the longitudinal plane, parallel to the longitudinal median plane of the vehicle, passing through the centre of the plate;
+    - the plane touching the upper edge of the plate and forming an angle measured upwards of 15° to the horizontal;
+    - the horizontal plane through the lower edge of the plate.
+  - No structural element, even when fully transparent, shall be located in the space described above.
+
+1.6.
+
+Mounting and fixing of front and rear registration plates on vehicles of categories L6e and L7e
+
+1.6.1.
+
+The space for mounting a front or rear registration plate shall comprise a flat or virtually flat rectangular surface. A ‘virtually flat surface’ means a surface of solid material, which may also consist of patterned mesh or grille, with a radius of curvature of at least 5 000 mm;
+
+1.6.2.
+
+The surface to be covered by a front or rear registration plate may have holes or gaps; however, these shall be no more than 40 mm wide without having to take into account their length (i.e. a gap or slot shall never be wider than 40 mm, but may be longer than 40 mm).
+
+1.6.3.
+
+The surface to be covered by a front or rear registration plate may have protrusions, provided that these do not project more than 5,0 mm from the nominal surface. Patches of very soft materials, such as foam or felt to stop the registration plate vibrating, shall not be taken into account.
+
+1.6.4.
+
+The space for mounting a front or rear registration plate shall be such that, after being fixed according to the manufacturer’s instructions, the plate shall have the following characteristics:
+
+- Location of the space for mounting a front or rear registration plate:
+  - The space for mounting a registration plate at the front of the vehicle shall be such that the plate can be positioned entirely within the two parallel longitudinal vertical planes passing through the outer extremities of the vehicle, not taking into account any rear-view mirrors. The space itself shall not form the widest point of the vehicle.
+  - The space for mounting a registration plate at the rear of the vehicle shall be such that the plate can be positioned entirely within the two parallel longitudinal vertical planes passing through the outer extremities of the vehicle, not taking into account any rear-view mirrors. The space itself shall not form the widest point of the vehicle.
+  - Front and rear registration plates shall be perpendicular to the longitudinal median plane of the vehicle.
+- Position of the front and rear plate in relation to the vertical transverse plane:
+  - The plate may be inclined to the vertical at not less than – 15° and not more than 30°.
+- Height of the front and rear plate from the ground surface:
+  - The lower edge of the plate shall not be less than 0,20 m above the ground or less than the radius of any front wheel above the ground if that is less than 0,20 m.
+  - The height of the upper edge of the plate from the ground surface shall not exceed 1,50 m.
+- Geometrical visibility:
+  - Front and rear plates shall be visible in the whole space within the following four planes:
+    - the two vertical planes touching the two lateral edges of the plate and forming an angle measured outwards to the left and to the right of the plate of 30° to the longitudinal median plane of the vehicle,
+    - the plane touching the upper edge of the plate and forming an angle measured upwards of 15° to the horizontal,
+    - the horizontal plane through the lower edge of the plate.
+
+    The front plate shall be visible towards the front of the vehicle and the rear plate shall be visible towards the rear of the vehicle.
+  - No structural element, even when fully transparent, shall be located within the space described above.
+- The gap between the edges of a mounted and fixed registration plate and the actual surface of the plate space shall not exceed 5,0 mm along the complete outline of the plate.
+  - This gap may be exceeded if measured at a hole or gap in the surface of patterned mesh or between parallel bars in a surface of a grille.
+
+1.7.
+
+Other requirements
+
+1.7.1.
+
+The presence of a registration plate may not form the basis or part of the basis for attaching, mounting or clipping any other vehicle part, component or device onto it (e.g. lighting device supports may not be fixed onto a registration plate).
+
+1.7.2.
+
+No vehicle part, component or device shall become loosened or detached as a result of removal of a registration plate.
+
+1.7.3.
+
+When a registration plate is fixed, its visibility shall not be reduced under normal conditions of use due, in particular, to vibrations and dynamic forces such as driving wind forces.
+
+1.7.4.
+
+It is not permitted to provide a registration plate mounting location which can easily pivot up and/or down beyond the angles laid down in points 1.5.1.3.1 and 1.6.4.2.1 in relation to the vehicle structure in normal driving conditions (i.e. with doors or access panels closed).
+
+1.7.5.
+
+If the vehicle has the tendency to lean, a mounted registration plate of the applicable maximum dimensions which is not located in the longitudinal median plane of the vehicle shall not be the limiting factor of the maximum lean angle.
+
+2\.
+
+**Test procedure**
+
+2.1.
+
+Determination of the vertical inclination and height of the registration plate from the ground surface
+
+2.1.1.
+
+The vehicle shall be placed on a horizontal surface and, if necessary, kept in an upright position. The steered wheel(s) shall be pointed in the straight-ahead position and the vehicle’s mass shall be adjusted to that of the mass in running order, as declared by the manufacturer, before the measurements are made.
+
+2.1.2.
+
+If the vehicle is equipped with hydro-pneumatic, hydraulic or pneumatic suspension or another device which can be adjusted in relation to load, it shall be tested with the suspension or device in the normal running condition, as specified by the manufacturer.
+
+2.1.3.
+
+If the primary and visible side of the registration plate is facing downwards, the inclination measurement shall be expressed as a negative (minus) angle.
+
+2.2.
+
+Projections shall be measured perpendicularly and directly towards the nominal surface to be covered by the registration plate.
+
+2.3.
+
+The gap between the edge of the mounted and fixed registration plate and the surface shall be measured perpendicularly and directly towards the actual surface to be covered by the plate.
+
+2.4.
+
+The registration plate used for checking conformity shall be of the following size:
+
+- for vehicles of categories L1e, L2e and L6e: one of the two sizes in point 1.4.1, as specified by the vehicle manufacturer;
+- for vehicles of categories L3e, L4e, L5e and L7e: the size in point 1.4.1.
+
+ANNEX XV
+
+**Requirements applying to access to repair and maintenance information**
+
+1\.
+
+**Purpose**
+
+1.1.
+
+Access to information means the availability of all OBD and repair and maintenance information required for the inspection, diagnosis, servicing or repair of the vehicle.
+
+1.1.
+
+When applying for EU type-approval or national type-approval, the manufacturer shall provide the approval authority with proof of compliance with this Regulation as regards access to vehicle repair and maintenance information and to the information referred to in point 4.3).
+
+2\.
+
+**Compliance with access to vehicle OBD and vehicle repair and maintenance information requirements in the type-approval procedure**
+
+2.1.
+
+Approval authorities shall grant type-approval only after receiving from the manufacturer a Certificate on Access to Vehicle OBD and Vehicle Repair and Maintenance Information.
+
+2.2.
+
+The Certificate on Access to Vehicle OBD and Vehicle Repair and Maintenance Information shall serve as the proof of compliance with Chapter XV of Regulation (EU) No 168/2013.
+
+2.3.
+
+The Certificate on Access to Vehicle OBD and Vehicle Repair and Maintenance Information shall be drawn up in accordance with the model referred to in Article 57(8) of Regulation (EU) No 168/2013.
+
+2.4.
+
+The manufacturer shall ensure compliance with the technical requirements in Appendix 1 regarding access to vehicle OBD and vehicle repair and maintenance information.
+
+3\.
+
+**Fees for access**
+
+3.1.
+
+In addition to time-based access under Article 59 of Regulation (EU) No 168/2013, manufacturers may offer transaction-based access for which fees are charged per transaction and not based on the time for which access is granted. Where manufacturers offer both time-based and transaction-based access systems, independent repairers shall choose a preferred access system, either time-based or transaction-based.
+
+4\.
+
+**Service parts, diagnostic tools and test equipment**
+
+4.1.
+
+In the context of Article 57(6) of Regulation 168/2013, the manufacturer shall make the following information available to interested parties on the basis of individual arrangements to which the principle of Article 59 of Regulation 168/2013 apply and to provide contact details on its website:
+
+- relevant information to enable the development of replacement components which are critical to the correct functioning of the OBD system;
+- information to enable the development of generic diagnostic tools.
+
+4.2.
+
+For the purposes of point 4.1.1 the development of replacement components shall not be restricted by any of the following:
+
+- the unavailability of pertinent information;
+- the technical requirements relating to malfunction indication strategies if the OBD thresholds are exceeded or if the OBD system is unable to fulfil the basic OBD monitoring requirements of this Regulation;
+- specific modifications to the handling of OBD information to deal independently with vehicle operation on liquid or gaseous fuels;
+- the type-approval of gaseous-fuelled vehicles that contain a limited number of minor deficiencies.
+
+4.3.
+
+For the purposes of point 4.1.2, where manufacturers use diagnostic and test tools in accordance with ISO 22900-2:2009 regarding Modular Vehicle Communication Interface (MVCI) and ISO 22901-2:2011 on Open Diagnostic Data Exchange (‘ODX’) in their franchised networks, the ODX files shall be accessible to independent operators via the manufacturer’s website.
+
+5\.
+
+**Multi-stage type-approval**
+
+5.1.
+
+In the case of multi-stage type-approval, as defined in Article 25 of Regulation (EU) No 168/2013, the final manufacturer shall be responsible for providing access to vehicle OBD and vehicle repair and maintenance information regarding its own manufacturing stage(s) and the link to the previous stage(s).
+
+5.2.
+
+In addition, the final manufacturer shall on its website provide independent operators with the following information:
+
+- website address of the manufacturer(s) responsible for the previous stage(s);
+- name and address of all the manufacturers responsible for the previous stage(s);
+- type-approval number(s) of the previous stage(s);
+- the engine number.
+
+5.3.
+
+Manufacturers responsible for a particular stage or stages of type-approval shall be responsible for providing through their website access to vehicle OBD and vehicle repair and maintenance information regarding the stage(s) of type-approval for which they are responsible and the link to the previous stage(s).
+
+5.4.
+
+The manufacturer responsible for a particular stage or stages of type-approval shall provide the following information to the manufacturer responsible for the next stage:
+
+- the Certificate of Conformity relating to the stage(s) for which it is responsible;
+- the Certificate on Access to Vehicle OBD and Vehicle Repair and Maintenance Information, including its appendices;
+- the type-approval number corresponding to the stage(s) for which it is responsible;
+- the documents referred to in points 5.4.1, 5.4.2 and 5.4.3 as provided by the manufacturer(s) involved in the previous stage(s).
+
+5.5.
+
+Each manufacturer shall authorise the manufacturer responsible for the next stage to pass the documents to the manufacturers responsible for subsequent and final stages.
+
+5.6.
+
+In addition, on a contractual basis, the manufacturer responsible for a particular stage or stages of type-approval shall:
+
+- provide the manufacturer responsible for the next stage with access to OBD and repair and maintenance information and interface information corresponding to the particular stage(s) for which it is responsible;
+- provide, at the request of a manufacturer responsible for a subsequent stage of type-approval, with access to vehicle OBD and vehicle repair and maintenance information and interface information corresponding to the particular stage(s) for which he is responsible.
+
+5.7.
+
+A manufacturer, including a final manufacturer, may charge fees in accordance with Article 59 of Regulation (EU) No 168/2013 only in respect of the particular stage(s) for which he is responsible.
+
+5.8.
+
+A manufacturer, including a final manufacturer, shall not charge fees for providing information relating to the website address or contact details of any other manufacturer.
+
+6\.
+
+**Small volume manufacturers**
+
+6.1.
+
+Manufacturers whose world-wide annual production of a type of vehicle, system, component or separate technical unit covered by this Regulation is less than 250 units shall provide access to repair and maintenance information in a readily accessible and prompt manner, and in a manner which is non-discriminatory as compared with the provisions given or access granted to authorised dealers and repairers in accordance with Article 57(12) of Regulation (EU) No 168/2013.
+
+6.2.
+
+Vehicles, systems, components and separate technical units covered by point 1 shall be listed on the manufacturer’s repair and maintenance information website.
+
+6.3.
+
+The approval authority shall inform the Commission of all type-approvals granted to small-volume manufacturers.
+
+7\.
+
+**Carry-over systems**
+
+7.1.
+
+Until 31 December 2020, with respect to the carry-over systems listed in Appendix 2, the manufacturer may derogate from the obligation to reprogram the electronic control units in accordance with the standards mentioned in that Appendix.
+
+7.2.
+
+Such derogations shall be indicated on the Certificate on Access to Vehicle OBD and Vehicle Repair and Maintenance Information at the time of type-approval.
+
+7.3.
+
+The systems for which a manufacturer derogates from the obligation to reprogram the electronic control units in accordance with the standards mentioned in point 3.8 of Appendix 1 to Annex XII shall be listed on its repair and maintenance information website.
+
+7.4.
+
+For the servicing and reprogramming of the electronic control units in the carry-over systems that are the subject of such derogations, manufacturers shall ensure that the respective proprietary tool or equipment can be purchased or rented by independent operators.
+
+8\.
+
+**Compliance with the obligations regarding access to vehicle OBD and vehicle repair and maintenance information**
+
+8.1.
+
+An approval authority may, at any time, on their own initiative, or on the basis of a complaint or of an assessment by a technical service, check a manufacturer’s compliance with its obligations under Regulation (EU) No 168/2013, this Regulation and the terms of the Certificate on Access to Vehicle OBD and Vehicle Repair and Maintenance Information.
+
+8.2.
+
+Where an approval authority finds that a manufacturer has failed to comply with its obligations regarding access to vehicle OBD and vehicle repair and maintenance information, the approval authority which granted the relevant type-approval shall take appropriate measures to remedy the situation.
+
+8.3.
+
+Such measures may include withdrawal or suspension of type-approval, fines or other measures adopted in accordance with Regulation (EU) No 168/2013.
+
+8.4.
+
+If an independent operator or a trade association representing independent operators files a complaint to the approval authority, the authority shall carry out an audit to verify the manufacturer’s compliance with obligations concerning access to vehicle OBD and vehicle repair and maintenance information.
+
+8.5.
+
+When carrying out the audit, the approval authority may ask a technical service or any other independent expert to carry out an assessment to verify whether these obligations are met.
+
+8.6.
+
+In order to receive EU type-approval of a propulsion performance family as a separate technical unit, of a vehicle with an approved engine system with regard to on-board diagnostic fault codes and vehicle repair and maintenance information, the manufacturer shall, demonstrate that the vehicles or engine systems are subject to the tests and comply with the requirements of Annex XII regarding functional OBD.
+
+8.7.
+
+If the vehicle OBD and vehicle repair and maintenance information is not available when the application for type-approval is made, the manufacturer shall provide that information within six months of the date of type-approval.
+
+8.8.
+
+Where the vehicle is placed on the market more than six months after type-approval, the information shall be provided on the date on which the vehicle is placed on the market.
+
+8.9.
+
+The approval authority may presume on the basis of a completed Certificate on Access to Vehicle OBD and Vehicle Repair and Maintenance Information that the manufacturer has put in place satisfactory arrangements and procedures with regard to access to vehicle OBD and vehicle repair and maintenance information, provided that no complaint was made and that the manufacturer provides the certificate within the periods referred to in point 9.7.
+
+8.10.
+
+If the certificate of compliance is not provided within that period, the approval authority shall take appropriate measures to ensure compliance.
+
+9\.
+
+**Information requirements for granting access to independent operators to non-secure areas**
+
+9.1.
+
+For access to any OBD and repair and maintenance information other than that relating to secure areas of the vehicle, registration requirements for use of the manufacturer’s website by an independent operator shall require only such information as is necessary to confirm how payment for the information is to be made.
+
+10\.
+
+**Information requirements for granting access to independent operators to secure areas**
+
+10.1.
+
+For access to any OBD and repair and maintenance information concerning access to secure areas of the vehicle, the independent operator shall be approved and authorised for this purpose on the basis of documents demonstrating that it pursues a legitimate business activity and has not been convicted of relevant criminal activity.
+
+10.2.
+
+Independent operators shall be given access to vehicle security features used by authorised dealers and repair shops under protection of security technology concerning the exchange of data to ensure confidentiality, integrity and protection against replay.
+
+10.3.
+
+The Forum on Access to Vehicle Information provided for by Article 60 of Regulation (EU) No 168/2013 will specify state-of-the-art parameters for fulfilling these requirements.
+
+10.4.
+
+For information concerning access to secure areas of the vehicle, the independent operator shall present a certificate in accordance with ISO 20828:2006 to identify itself and the organisation to which it belongs. The manufacturer shall respond with its own certificate in accordance with ISO 20828:2006 to confirm to the independent operator that it is accessing a legitimate site of the manufacturer in question. Both parties shall keep a log of any such transactions indicating the vehicles and changes made to them under this provision.
+
+10.5.
+
+Access to vehicle security features used by authorised dealers and repair shops shall be made available to independent operators under protection of security technology in accordance with the requirement that the independent operator’s private key shall be protected by secure hardware.
+
+Appendix 1
+
+**Access to vehicle OBD and vehicle repair and maintenance information**
+
+1\.
+
+**Introduction**
+
+1.1.
+
+This Appendix lays down technical requirements for the accessibility of vehicle OBD and vehicle repair and maintenance information.
+
+2\.
+
+**Requirements**
+
+2.1.
+
+The manufacturer shall provide vehicle repair and maintenance information using only open text and graphic formats or formats which can be viewed and printed using only standard software plug-ins that are freely available, easy to install, in the same format as made available to authorised repairers and which run with computer operating systems commonly in use.
+
+2.1.1.
+
+Vehicle OBD and vehicle repair and maintenance information available through websites shall follow the common standard referred to in paragraph 2 of Article 57 of Regulation (EU) No 168/2013
+
+2.1.2.
+
+Where possible, keywords in the metadata shall conform to ISO 15031-2:2010. Such information shall be always available, except as required for website maintenance purposes.
+
+2.1.3.
+
+Those requiring the right to duplicate or republish the information should negotiate directly with the manufacturer concerned. Information for training material shall also be available, but may be presented through media other than websites.
+
+2.2.
+
+Information on all parts of the vehicle, with which the vehicle, as identified by the vehicle identification number (VIN) and any additional criteria such as wheelbase, engine output, trim level or options, is equipped by the vehicle manufacturer and which can be replaced by spare parts offered by the vehicle manufacturer to its authorised repairers or dealers or third parties by means of reference to original equipment (OE) parts numbers, may be made available in a database easily accessible to independent operators or be provided in the same accessible format as provided to the authorised repairer network.
+
+2.3.
+
+This database or alternative accessible format shall comprise the VIN, Original Equipment (OE) parts numbers, OE naming of the parts, validity attributes (valid-from and valid-to dates), fitting attributes and, where applicable, structuring characteristics.
+
+2.4.
+
+The information on the database or available in another accessible format shall be regularly updated. In particular, the updates shall include all modifications to individual vehicles after their production if this information is available to authorised dealers.
+
+2.5.
+
+Reprogramming of control units for the purposes of, e.g. recalibration after a repair or loading software to a replacement PCU/ECU, shall be conducted in accordance with either ISO 22900-2 or SAE J2534 or TMC RP1210B using non-proprietary hardware. Ethernet, serial cable or Local Area Network (LAN) interface and alternative media like Compact Disc (CD), Digital Versatile Disc (DVD) or solid state memory device for infotainment systems (e.g. navigation systems, telephone) may also be used, but on the condition that no proprietary communication software (e.g. drivers or plug-ins) and hardware is required. For the validation of the compatibility of the manufacturer-specific application and the vehicle communication interfaces (VCI) complying to ISO 22900-2 or SAE J2534 or TMC RP1210B, the manufacturer shall offer either a validation of independently developed VCIs or the information, and loan of any special hardware, required for a VCI manufacturer to conduct such validation himself. The conditions of Article 59 of Regulation (EU) No 168/2013 shall apply to fees for such validation or information and hardware
+
+2.6.
+
+All on-board diagnostic trouble codes shall be consistent with the requirements set out in Annex XII.
+
+2.7.
+
+In the event that vehicle OBD and vehicle repair and maintenance information available on a manufacturer’s website does not contain specific relevant information to permit the proper design and manufacture of alternative fuels retrofit systems, then any interested alternative fuels retrofit system manufacturer shall be able to access the information set out in Article 27(2)(a) by contacting the manufacturer directly with such a request. Contact details for that purpose shall be clearly indicated on the manufacturer’s website and the information shall be provided within 30 days. Such information need only be provided for alternative fuels retrofit systems that are subject to UNECE regulation 115 or for alternative fuels retrofit components that form part of systems subject to UNECE regulation 115, and need only be provided in response to a request that clearly specifies the exact specification of the vehicle model for which the information is required and that specifically confirms that the information is required for the development of alternative fuels retrofit systems or components subject to UNECE regulation 115.
+
+2.8.
+
+Manufacturers’ repair information websites shall indicate type-approval numbers by model.
+
+2.9.
+
+Manufacturers shall establish reasonable and proportionate fees for hourly, daily, monthly, annual and if applicable per-transaction access to their repair and maintenance information websites.
+
+Appendix 2
+
+**List of carry-over systems**
+
+1\.
+
+*Table Ap2-1*
+
+**List of carry over systems**
+
+| No | System name | Details |
+| --- | --- | --- |
+| 1 | Climate systems | - ((a)) Temperature control systems;<br>- ((b)) Engine-independent heater;<br>- ((c)) Engine-independent air-conditioning. |
+| 2 | Fuel storage |  |
+
+ANNEX XVI
+
+**Requirements applying to stands**
+
+1\.
+
+**General requirements**
+
+1.1.
+
+‘Type of vehicle with regard to stands’ means a category of vehicles which do not differ in such essential respects as vehicle mass, distribution of mass between axles, tyre sizes and wheel dimensions, and the design characteristics and construction material of the vehicle stand.
+
+1.2.
+
+Vehicles of categories L1e and L3e shall be fitted with at least one stand.
+
+1.2.1.
+
+Each stand fitted to the vehicle shall enable the vehicle to meet the performance requirements in points 2 to 2.5.2 without being held or supported by a person or any other external means.
+
+1.2.2.
+
+Vehicles fitted with twinned wheels may not need to be fitted with a stand provided that the performance requirements in points 3 to 3.2.5 and 3.4 to 3.4.3.4 are met.
+
+1.2.3.
+
+Prop stands fitted to vehicles of category L1e with a mass in running order of less than 35 kg are exempted from the requirements in points 2.3.3, to 2.3.4 and 2.5.2.
+
+1.3.
+
+Vehicles of category L4e shall be fitted with at least one stand under the following conditions:
+
+1.3.1.
+
+If the side-car can be detached from the motorcycle so that the motorcycle can be used without it, the motorcycle shall fulfil the requirements for solo motorcycles in points 1.2 to 1.2.2.
+
+2\.
+
+**Specific requirements**
+
+2.1.
+
+A stand shall be either a prop stand or centre stand.
+
+2.2.
+
+Where the stand swivels below or about the lower part of the vehicle, its free end shall swing to the rear of the vehicle to reach the not-in-use position.
+
+2.3.
+
+Specific requirements for prop stands
+
+2.3.1.
+
+A prop stand shall be able to support the vehicle in such a way as to provide its lateral stability whether the vehicle is on a horizontal supporting surface or on a slope. It shall also prevent the stationary vehicle leaning more deeply or being moved too easily into an upright position to such an extent that it becomes unstable and can fall or tip over.
+
+2.3.2.
+
+A prop stand shall be able to support the vehicle in such a way as to maintain full stability when the vehicle is parked on a slope. This requirement is checked in accordance with the procedures and performance requirements in points 3 to 3.2.5 and 3.4 to 3.4.3.4.
+
+2.3.3.
+
+A prop stand shall be able to swing back automatically into the not-in-use position under the following conditions:
+
+- when the vehicle is returned to its normal upright driving position, or
+- when the vehicle starts to move forward as a result of deliberate action by the driver, while in its normal upright driving position.
+
+2.3.4.
+
+The requirements in point 2.3.3 are not applicable if the vehicle is designed in such a way that it cannot be propelled when the prop stand is in the in-use position.
+
+2.3.5.
+
+A prop stand shall be so designed and constructed that it does not swing back automatically if the vehicle is being leaned down in order to bring the free end of the prop stand into contact with the ground surface.
+
+2.3.5.1.
+
+However, by way of derogation from points 1.2.1. and 2.3.5. a prop stand fitted to a vehicle of category L3e-A1E, L3e-A2E, L3e-A3E, L3e-A1T, L3e-A2T or L3e-A3T may swing back automatically when the prop stand is not being held or supported by a person.
+
+2.3.6.
+
+A prop stand shall be so designed and constructed that it does not swing back automatically if the angle of lean is altered unexpectedly or unintentionally (e.g. if the vehicle is pushed lightly by a third party or if the vehicle is subjected to a gust of wind arising from the passage of a large vehicle) under the following conditions:
+
+- when the vehicle is left unattended in its parked position, and
+- when the prop stand is in the in-use position.
+
+Compliance with this requirement shall be checked in accordance with the procedure in points 3.3, 3.3.1 and 3.3.2.
+
+2.4.
+
+Specific requirements for centre stands
+
+2.4.1.
+
+A centre stand shall be able to support the vehicle, whether or not one or both wheels are in contact with the ground surface, so as to provide its lateral stability whether the vehicle is on a horizontal supporting surface or on a slope.
+
+2.4.2.
+
+A centre stand shall be able to support the vehicle so as to maintain full stability when the vehicle is parked on a slope. This requirement is checked in accordance with the procedures and performance requirements in points 3 to 3.2.5 and 3.4 to 3.4.3.4.
+
+2.4.3.
+
+A centre stand shall be able to swing back automatically into the not-in-use position when the vehicle is moved forward purposely so as to raise the centre stand from the ground surface.
+
+2.4.4.
+
+The requirement in point 2.4.3 is not applicable if the vehicle is so designed that it cannot be propelled when the centre stand is in the in-use position.
+
+2.5.
+
+Stand retention systems
+
+2.5.1.
+
+Stands shall be provided with a retention system which holds them in the not-in-use position.
+
+2.5.2.
+
+A retention system shall consist of:
+
+- Two independent devices such as two separate springs or one spring and one other retaining device, or
+- A single device which shall be able to operate without failing for at least 10 000 normal-use cycles if the vehicle has been fitted with two stands; or 15 000 normal-use cycles if the vehicle is fitted with only one stand.
+
+3\.
+
+**Test procedure**
+
+3.1.
+
+Test surface specifications
+
+3.1.1.
+
+A testing platform shall be used for carrying out the tests and shall be so designed that it can assume a position simulating the longitudinal and transverse tilts.
+
+3.1.2.
+
+The testing platform shall be flat, rectangular and of sufficient dimensions to fully support the vehicle in the parked position while simulating the longitudinal and transverse tilts. It shall not exhibit any perceptible flexing or deformation during the tests.
+
+3.1.3.
+
+The surface of the testing platform shall be clean and dry and of sufficient roughness and friction to prevent the vehicle’s tyres from sliding on the surface during the tests.
+
+3.2.
+
+Vehicle preparation (valid for all tests)
+
+3.2.1.
+
+The vehicle’s mass shall be adjusted to that of the manufacturer’s declared mass in running order, without the rider, plus the mass of any propulsion batteries.
+
+3.2.2.
+
+The vehicle’s tyre pressures shall be adjusted to the manufacturer’s specified values.
+
+3.2.3.
+
+The vehicle’s transmission shall be put in the ‘park’ position, if available, in the case of an automatic transmission, or the ‘neutral’ position in all other cases.
+
+3.2.4.
+
+If the vehicle is fitted with a parking brake, this shall be engaged.
+
+3.2.5.
+
+The vehicle’s steering system shall be put in the locked position. If there is more than one position in which the steering can be locked, the vehicle shall undergo the following tests with the steering system locked in each available position:
+
+3.3.
+
+Test of stability of a vehicle fitted with a prop stand on a horizontal ground surface
+
+3.3.1.
+
+The vehicle is parked on the horizontal testing platform with the prop stand in the in-use position.
+
+3.3.2.
+
+The vehicle shall be manipulated in such a way as to increase by 3.0° the angle between the displaced longitudinal median plane of the vehicle (i.e. as the vehicle is parked and leaning the longitudinal median plane is displaced and thus no longer vertical) and the horizontal surface by pushing and moving the vehicle into a more vertical position.
+
+3.4.
+
+Test of stability of a vehicle parked on an inclined surface
+
+3.4.1.
+
+The vehicle is parked on the horizontal testing platform.
+
+3.4.1.1.
+
+The vehicle’s stand shall be in the in-use position. If the vehicle is fitted with more than one stand, each stand shall be assessed separately by repeating all prescribed tests.
+
+3.4.1.2.
+
+If the vehicle is fitted with twinned wheels and not fitted with a stand, compliance with point 1.2.2 may be demonstrated by performing the tests without the presence of a stand in the in-use position.
+
+3.4.2.
+
+The testing platform shall be shifted or rotated to achieve the minimum prescribed inclination in relation to the transverse tilt towards the left and the right of the vehicle, and the longitudinal tilt to the front and the back of the vehicle. These four tilt orientations shall be carried out separately, always starting from a horizontal position. The vehicle shall remain stable when the testing platform is being brought into the inclined position or may be moved into position after the platform has been set in the inclined position.
+
+3.4.3.
+
+*Table 14-1*
+
+**Tilt requirements for prop and centre stands (see also Figures 14-1 to 14-3)**
+
+<table>
+<tbody>
+<tr><th>Tilt</th><th colspan="2">Prop stand</th><th colspan="2">Centre stand</th></tr>
+<tr><th></th><th>Moped</th><th>Motorcycle</th><th>Moped</th><th>Motorcycle</th></tr>
+<tr><td>Transverse tilt<br>(to the left)</td><td>5 %</td><td>6 %</td><td>6 %</td><td>8 %</td></tr>
+<tr><td>Transverse tilt<br>(to the right)</td><td>5 %</td><td>6 %</td><td>6 %</td><td>8 %</td></tr>
+<tr><td>Longitudinal tilt<br>(downstream)</td><td>5 %</td><td>6 %</td><td>6 %</td><td>8 %</td></tr>
+<tr><td>Longitudinal tilt<br>(upstream)</td><td>6 %</td><td>8 %</td><td>12 %</td><td>14 %</td></tr>
+</tbody>
+</table>
+
+3.4.3.1.
+
+*Figure 14-1* **Transverse tilt to the left and right (prop stand)** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_018) [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_019)
+
+3.4.3.2.
+
+*Figure 14-2* **Transverse tilt to the left and right (centre stand)** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_020) [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_021)
+
+3.4.3.3.
+
+*Figure 14-3* **Longitudinal tilt downstream** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_022) *Figure 14-4* **Longitudinal tilt upstream** [image: see source](https://www.legislation.gov.uk/eur/2014/44/images/eur_20140044_2018-03-20_en_023)
+
+3.4.3.4.
+
+Where a vehicle on a tilted testing platform is resting on its centre stand and just one wheel and when this vehicle may be maintained in a position with either the centre stand and the front wheel in contact with the testing platform or the centre stand and the rear wheel in contact with the testing platform, the tests as described in points 3.4.2 to 3.4.3.3 shall be conducted solely with the vehicle resting on the centre stand and its rear wheel in contact with the testing platform.
+
+ANNEX XVII
+
+**Performance standards and assessment of technical services**
+
+1\.
+
+**General requirements**
+
+1.1.
+
+Technical services shall demonstrate appropriate skills, specific technical knowledge and proven experience in the specific fields of competence covered by Chapter XVI of Regulation (EU) No 168/2013 and Appendices 1 and 2 to Annex V to Directive 2007/46/EC.
+
+1.2.
+
+Standards with which technical services of the different categories set out in Article 63 of Regulation (EU) No 168/2013 shall comply
+
+1.2.1.
+
+The different categories of technical services shall comply with the standards set out in Appendix 1 to Annex V to Directive 2007/46/EC
+
+1.2.2.
+
+The reference to Article 41 of Directive 2007/46/EC in that Appendix shall be construed as a reference to Article 63 of Regulation (EU) No 168/2013.
+
+1.2.3.
+
+The reference to Annex IV to Directive 2007/46/EC in that Appendix shall be construed as a reference to Annex II to Regulation (EU) No 168/2013.
+
+1.3.
+
+Procedure for the assessment of the technical services
+
+1.3.1.
+
+The technical services are assessed in accordance with the procedure set out in Appendix 2 to Annex V to Directive 2007/46/EC.
+
+1.3.2.
+
+References to Article 42 of Directive 2007/46/EC in Appendix 1 to Annex V to Directive 2007/46/EC shall be construed as references to Article 66 of Regulation (EU) No 168/2013.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 60, 2.3.2013, p. 52](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.060.01.0052.01.ENG).
+
+[^f00002]: Footnote: Council Decision 97/836/EC of 27 November 1997 with a view to accession by the European Community to the Agreement of the United Nations Economic Commission for Europe concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions ('Revised 1958 Agreement') ([OJ L 346, 17.12.1997, p. 78](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1997.346.01.0078.01.ENG)).
+
+[^f00003]: Footnote: [OJ L 226, 18.8.1997, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1997.226.01.0001.01.ENG).
+
+[^f00004]: Footnote: [OJ L 188, 29.7.1993, p. 32](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.188.01.0032.01.ENG).
+
+[^f00005]: Footnote: Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC ([OJ L 188, 18.7.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.188.01.0001.01.ENG)).
+
+[^f00006]: Footnote: Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information ([OJ L 171, 29.6.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.171.01.0001.01.ENG)).
+
+[^f00007]: Footnote: Commission Regulation (EU) No 582/2011 of 25 May 2011 implementing and amending Regulation (EC) No 595/2009 of the European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) and amending Annexes I and III to Directive 2007/46/EC of the European Parliament and of the Council ([OJ L 167, 25.6.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.167.01.0001.01.ENG)).
+
+[^f00008]: Footnote: Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC ([OJ L 124, 9.5.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.124.01.0001.01.ENG)).
+
+[^c000001]: Textual amendment: Substituted by [Commission Delegated Regulation (EU) 2018/295 of 15 December 2017 amending Delegated Regulation (EU) No 44/2014, as regards vehicle construction and general requirements, and Delegated Regulation (EU) No 134/2014, as regards environmental and propulsion unit performance requirements for the approval of two- or three-wheel vehicles and quadricycles](https://www.legislation.gov.uk/eur/2018/295).
+
+[^c000003]: Editorial: Substituted by [Corrigendum to Commission Delegated Regulation (EU) 2016/1824 of 14 July 2016 amending Delegated Regulation (EU) No 3/2014, Delegated Regulation (EU) No 44/2014 and Delegated Regulation (EU) No 134/2014 with regard, respectively, to vehicle functional safety requirements, to vehicle construction and general requirements and to environmental and propulsion unit performance requirements (Official Journal of the European Union L 279 of 15 October 2016)](https://www.legislation.gov.uk/eur/2016/1824/pdfs/eurcs_20161824_en_001.pdf).
+
+[^c000002]: Textual amendment: Substituted by [Commission Delegated Regulation (EU) 2016/1824 of 14 July 2016 amending Delegated Regulation (EU) No 3/2014, Delegated Regulation (EU) No 44/2014 and Delegated Regulation (EU) No 134/2014 with regard, respectively, to vehicle functional safety requirements, to vehicle construction and general requirements and to environmental and propulsion unit performance requirements (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/1824).
+
+[^c000004]: Textual amendment: Inserted by [Commission Delegated Regulation (EU) 2016/1824 of 14 July 2016 amending Delegated Regulation (EU) No 3/2014, Delegated Regulation (EU) No 44/2014 and Delegated Regulation (EU) No 134/2014 with regard, respectively, to vehicle functional safety requirements, to vehicle construction and general requirements and to environmental and propulsion unit performance requirements (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/1824).
+
+[^c000005]: Textual amendment: Deleted by [Commission Delegated Regulation (EU) 2016/1824 of 14 July 2016 amending Delegated Regulation (EU) No 3/2014, Delegated Regulation (EU) No 44/2014 and Delegated Regulation (EU) No 134/2014 with regard, respectively, to vehicle functional safety requirements, to vehicle construction and general requirements and to environmental and propulsion unit performance requirements (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/1824).
+
+[^f00010]: Footnote: [OJ L 227, 28.8.2010, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.227.01.0001.01.ENG).
+
+[^f00014]: Footnote: [OJ L 89, 27.3.2013, p. 37](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.089.01.0037.01.ENG).
+
+[^f00015]: Footnote: [OJ L 120, 13.5.2010, p. 29](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.120.01.0029.01.ENG).
+
+[^f00016]: Footnote: [OJ L 254, 20.9.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.254.01.0001.01.ENG).
+
+[^f00017]: Footnote: [OJ L 215, 14.8.2010, p. 27](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.215.01.0027.01.ENG)[^c000002] .
+
+[^f00018]: Footnote: [OJ L 72, 14.3.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.072.01.0001.01.ENG).
+
+[^f00019]: Footnote: [OJ L 120, 7.5.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.120.01.0001.01.ENG).
+
+[^f00022]: Footnote: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) ( [OJ L 263, 9.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.263.01.0001.01.ENG) ).
+
+[^c000006]: Textual amendment: Inserted by [Commission Delegated Regulation (EU) 2018/295 of 15 December 2017 amending Delegated Regulation (EU) No 44/2014, as regards vehicle construction and general requirements, and Delegated Regulation (EU) No 134/2014, as regards environmental and propulsion unit performance requirements for the approval of two- or three-wheel vehicles and quadricycles](https://www.legislation.gov.uk/eur/2018/295).
+
+[^f00024]: Footnote: Only in case of an activated default mode leading to a significantly reduced propulsion torque or if a throttle by wire system is fitted.[^c000001]
+
+[^f00025]: Footnote: If redundant APS or redundant TPS are fitted, signal cross check(s) shall meet all circuit rationality requirements. If there is only one APS or TPS fitted, APS or TPS circuit rationality monitoring is not mandatory.
+
+[^f00027]: Footnote: OBD stage II: two out of three of the circuit rationality malfunctions marked with ‘ II ’ shall be monitored in addition to circuit continuity monitoring.
+
+[^f00028]: Footnote: only if used as input to ECU/PCU with relevance to environmental or functional safety performance.
+
+[^f00029]: Footnote: Derogation allowed if manufacturer requests, level 3 instead, actuator signal present only without indication of symptom.
+
+[^f00030]: Footnote: Commission Implementing Regulation (EU) No 901/2014 of[^c000006] 18 July 2014 implementing Regulation (EU) No 168/2013 of the European Parliament and of the Council with regard to the administrative requirements for the approval and market surveillance of two- or three-wheel vehicles and quadricycles ( [OJ L 249, 22.8.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.249.01.0001.01.ENG) ).

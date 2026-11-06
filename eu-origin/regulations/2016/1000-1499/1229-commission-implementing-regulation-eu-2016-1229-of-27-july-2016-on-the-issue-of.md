@@ -1,0 +1,173 @@
+---
+title: Commission Implementing Regulation (EU) 2016/1229 of 27 July 2016 on the issue of licences for importing rice under the tariff quotas opened for the July 2016 subperiod by Implementing Regulation (EU) No 1273/2011
+id: eur/2016/1229
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2016-07-27'
+text_date: '2016-07-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2016/1229
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2016/1229/pdfs/eur_20161229_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2016/1229/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) 2016/1229 of 27 July 2016 on the issue of licences for importing rice under the tariff quotas opened for the July 2016 subperiod by Implementing Regulation (EU) No 1273/2011
+
+> Text as at 2016-07-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Regulation (EU) 2016/1229
+
+of 27 July 2016
+
+on the issue of licences for importing rice under the tariff quotas opened for the July 2016 subperiod by Implementing Regulation (EU) No 1273/2011
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007[^f00001], and in particular Article 188 thereof,
+
+Whereas:
+
+(1)
+
+Commission Implementing Regulation (EU) No 1273/2011[^f00002] opened and provided for the administration of certain import tariff quotas for rice and broken rice, broken down by country of origin and split into several subperiods in accordance with Annex I to that Implementing Regulation.
+
+(2)
+
+July is the third subperiod for the quota provided for under Article 1(1)(a) of Implementing Regulation (EU) No 1273/2011 and the second subperiod for the quotas provided for under Article 1(1)(b), (c) and (d) of that Implementing Regulation.
+
+(3)
+
+The notifications sent in accordance with point (a) of Article 8 of Implementing Regulation (EU) No 1273/2011 show that, for the quotas with order number 09.4154 and 09.4166, the applications lodged in the first 10 working days of July 2016 under Article 4(1) of that Implementing Regulation cover a quantity greater than that available. The extent to which import licences may be issued should therefore be determined by fixing the allocation coefficient to be applied to the quantities requested under the quotas concerned, calculated in accordance with Article 7(2) of Commission Regulation (EC) No 1301/2006[^f00003].
+
+(4)
+
+Those notifications also show that, for the quotas with order number 09.4127 — 09.4128 — 09.4129 — 09.4148 — 09.4149 — 09.4150 — 09.4152 and 09.4153, the applications lodged in the first 10 working days of July 2016 under Article 4(1) of Implementing Regulation (EU) No 1273/2011 cover a quantity less than that available.
+
+(5)
+
+The total quantity available for the following subperiod should also be fixed for the quotas with order number 09.4127 — 09.4128 — 09.4129 — 09.4130 — 09.4148 — 09.4112 — 09.4116 — 09.4117 — 09.4118 — 09.4119 and 09.4166, in accordance with the first subparagraph of Article 5 of Implementing Regulation (EU) No 1273/2011.
+
+(6)
+
+In order to ensure sound management of the procedure of issuing import licences, this Regulation should enter into force immediately after its publication,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** 1. For import licence applications for rice under the quotas with order number 09.4154 and 09.4166 referred to in Implementing Regulation (EU) No 1273/2011 lodged in the first 10 working days of July 2016, licences shall be issued for the quantity requested, multiplied by the allocation coefficient set out in the Annex to this Regulation.
+
+2. The total quantity available for the following subperiod under the quotas with order number 09.4127 — 09.4128 — 09.4129 — 09.4130 — 09.4148 — 09.4112 — 09.4116 — 09.4117 — 09.4118 — 09.4119 and 09.4166 referred to in Implementing Regulation (EU) No 1273/2011 is set out in the Annex to this Regulation.
+
+**Article 2.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 27 July 2016.
+
+*For the Commission,*
+
+*On behalf of the President,*
+
+Jerzy Plewa
+
+*Director-General for Agriculture and Rural Development*
+
+## ANNEX — Quantities to be allocated for the July 2016 subperiod and quantities available for the following subperiod under Implementing Regulation (EU) No 1273/2011
+
+- ((a)) Quota of wholly milled or semi-milled rice covered by CN code 1006 30 as provided for in Article 1(1)(a) of Implementing Regulation (EU) No 1273/2011:
+
+  <table>
+  <tfoot>
+  <tr><td colspan="4">Applications cover quantities less than or equal to the quantities available: all applications are therefore acceptable.</td></tr>
+  <tr><td colspan="4">No quantity available for this subperiod.</td></tr>
+  </tfoot>
+  <tbody>
+  <tr><th>Origin</th><th>Order number</th><th>Allocation coefficient for July 2016 subperiod</th><th>Total quantity available for September 2016 subperiod (kg)</th></tr>
+  <tr><td>United States</td><td>09.4127</td><td>—</td><td>18 693 108</td></tr>
+  <tr><td>Thailand</td><td>09.4128</td><td>—</td><td>570 921</td></tr>
+  <tr><td>Australia</td><td>09.4129</td><td>—</td><td>502 800</td></tr>
+  <tr><td>Other origins</td><td>09.4130</td><td>—</td><td>0</td></tr>
+  </tbody>
+  </table>
+
+  [^f00004][^f00004][^f00004][^f00005]
+- ((b)) Quota of husked rice covered by CN code 1006 20 as provided for in Article 1(1)(b) of Implementing Regulation (EU) No 1273/2011:
+
+  <table>
+  <tfoot>
+  <tr><td colspan="4">No allocation coefficient applied for this subperiod: no licence applications were notified to the Commission.</td></tr>
+  </tfoot>
+  <tbody>
+  <tr><th>Origin</th><th>Order number</th><th>Allocation coefficient for July 2016 subperiod</th><th>Total quantity available for October 2016 subperiod (kg)</th></tr>
+  <tr><td>All countries</td><td>09.4148</td><td>—</td><td>578 000</td></tr>
+  </tbody>
+  </table>
+
+  [^f00006]
+- ((c)) Quota of broken rice covered by CN code 1006 40 00 as provided for in Article 1(1)(c) of Implementing Regulation (EU) No 1273/2011:
+
+  <table>
+  <tfoot>
+  <tr><td colspan="3">Applications cover quantities less than or equal to the quantities available: all applications are therefore acceptable.</td></tr>
+  <tr><td colspan="3">No allocation coefficient applied for this subperiod: no licence applications were notified to the Commission.</td></tr>
+  </tfoot>
+  <tbody>
+  <tr><th>Origin</th><th>Order number</th><th>Allocation coefficient for July 2016 subperiod</th></tr>
+  <tr><td>Thailand</td><td>09.4149</td><td>—</td></tr>
+  <tr><td>Australia</td><td>09.4150</td><td>—</td></tr>
+  <tr><td>Guyana</td><td>09.4152</td><td>—</td></tr>
+  <tr><td>United States</td><td>09.4153</td><td>—</td></tr>
+  <tr><td>Other origins</td><td>09.4154</td><td>8,905159 %</td></tr>
+  </tbody>
+  </table>
+
+  [^f00007][^f00008][^f00008][^f00007]
+- ((d)) Quota of wholly milled or semi-milled rice covered by CN code 1006 30 as provided for in Article 1(1)(d) of Implementing Regulation (EU) No 1273/2011:
+
+  <table>
+  <tfoot>
+  <tr><td colspan="4">No quantity available for this subperiod</td></tr>
+  </tfoot>
+  <tbody>
+  <tr><th>Origin</th><th>Order number</th><th>Allocation coefficient for July 2016 subperiod</th><th>Total quantity available for September 2016 subperiod (kg)</th></tr>
+  <tr><td>Thailand</td><td>09.4112</td><td>—</td><td>7 410</td></tr>
+  <tr><td>United States</td><td>09.4116</td><td>—</td><td>0</td></tr>
+  <tr><td>India</td><td>09.4117</td><td>—</td><td>23 603</td></tr>
+  <tr><td>Pakistan</td><td>09.4118</td><td>—</td><td>7 334</td></tr>
+  <tr><td>Other origins</td><td>09.4119</td><td>—</td><td>5 239</td></tr>
+  <tr><td>All countries</td><td>09.4166</td><td>0,597830 %</td><td>0</td></tr>
+  </tbody>
+  </table>
+
+  [^f00009][^f00009][^f00009][^f00009][^f00009]
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 347, 20.12.2013, p. 671](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0671.01.ENG).
+
+[^f00002]: Footnote: Commission Implementing Regulation (EU) No 1273/2011 of 7 December 2011 opening and providing for the administration of certain tariff quotas for imports of rice and broken rice ([OJ L 325, 8.12.2011, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.325.01.0006.01.ENG)).
+
+[^f00003]: Footnote: Commission Regulation (EC) No 1301/2006 of 31 August 2006 laying down common rules for the administration of import tariff quotas for agricultural products managed by a system of import licences ([OJ L 238, 1.9.2006, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.238.01.0013.01.ENG)).
+
+[^f00004]: Footnote: Applications cover quantities less than or equal to the quantities available: all applications are therefore acceptable.
+
+[^f00005]: Footnote: No quantity available for this subperiod.
+
+[^f00006]: Footnote: No allocation coefficient applied for this subperiod: no licence applications were notified to the Commission.
+
+[^f00007]: Footnote: Applications cover quantities less than or equal to the quantities available: all applications are therefore acceptable.
+
+[^f00008]: Footnote: No allocation coefficient applied for this subperiod: no licence applications were notified to the Commission.
+
+[^f00009]: Footnote: No quantity available for this subperiod

@@ -1,0 +1,70 @@
+---
+title: Commission Regulation (EC) No 738/97 of 24 April 1997 derogating temporarily from Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector
+id: eur/1997/738
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '1997-04-24'
+text_date: '1997-04-24'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/1997/738
+pdf_urls:
+- http://www.legislation.gov.uk/eur/1997/738/pdfs/eur_19970738_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/1997/738/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 738/97 of 24 April 1997 derogating temporarily from Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector
+
+> Text as at 1997-04-24.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 738/97
+
+of 24 April 1997
+
+derogating temporarily from Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 805/68 of 27 June 1968 on the common organization of the market in beef and veal[^f00001], as last amended by Regulation (EC) No 2222/96[^f00002], and in particular Articles 9 and 13 thereof,
+
+Whereas Article 10 (1) of Commission Regulation (EC) No 1445/95 of 26 June 1995 on rules of application for import and export licences in the beef and veal sector and repealing Regulation (EEC) No 2377/80[^f00003], as last amended by Regulation (EC) No 266/97[^f00004], provides that export licences are to be issued on the fifth working day following that on which the application is lodged, provided that no specific action is taken by the Commission in the meantime;
+
+Whereas, in view of the small quantity still available until 30 June 1997 for which licences can be issued and the small number of days on which the Official Journal is to be published in the first 10 days of May 1997, that period for reflection of five days is too short to ensure sound management of the market and should be increased temporarily to six days;
+
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Notwithstanding Article 10 (1) of Regulation (EC) No 1445/95, applications for licences lodged from 28 April to 7 May 1997 shall be issued on the sixth working day following that on which the application is lodged, provided that no specific action as referred to in paragraph 2 of that Article is taken by the Commission in the meantime.
+
+**Article 2.** This Regulation shall enter into force on the day following its publication in the *Official Journal of the European Communities*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 24 April 1997.
+
+*For the Commission*
+
+Franz Fischler
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ No L 148, 28. 6. 1968, p. 24](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1968.148.01.0024.01.ENG).
+
+[^f00002]: Footnote: [OJ No L 296, 21. 11. 1996, p. 50](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1996.296.01.0050.01.ENG).
+
+[^f00003]: Footnote: [OJ No L 143, 27. 6. 1995, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1995.143.01.0035.01.ENG).
+
+[^f00004]: Footnote: [OJ No L 45, 15. 2. 1997, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1997.045.01.0001.01.ENG).

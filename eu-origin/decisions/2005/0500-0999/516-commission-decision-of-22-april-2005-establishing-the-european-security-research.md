@@ -1,0 +1,152 @@
+---
+title: Commission decision of 22 April 2005 establishing the European Security Research Advisory Board (2005/516/EC)
+id: eudn/2005/516
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2005-04-22'
+text_date: '2005-04-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2005/516
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2005/516/pdfs/eudn_20050516_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2005/516/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission decision of 22 April 2005 establishing the European Security Research Advisory Board (2005/516/EC)
+
+> Text as at 2005-04-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission decision
+
+of 22 April 2005
+
+establishing the European Security Research Advisory Board
+
+(2005/516/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Whereas:
+
+(1)
+
+In 2003, the Commission set up a Group of Personalities in the field of security research whose primary mission was to propose principles and priorities of a European Security Research Programme (ESRP).
+
+(2)
+
+Following the report ‘Research for a Secure Europe’ presented by the Group of Personalities in 2004, the Commission Communication of 7 September 2004 entitled ‘Security Research: the Next Steps’[^f00001], proposed the setting-up of a European Security Research Advisory Board (ESRAB).
+
+(3)
+
+It is necessary to set up ESRAB and define its tasks and its structure.
+
+(4)
+
+ESRAB should contribute to the content and implementation of the ESRP.
+
+(5)
+
+ESRAB should include experts from various stakeholder groups, namely: users, industry and research organisations. According to the fields in which they operate, ESRAB should be composed of two groups having distinct but complementary roles.
+
+(6)
+
+Rules on disclosure of information by members of ESRAB should be provided for, without prejudice to the Commission’s rules on security as set out in the Annex to Commission Decision 2001/844/EC, ECSC, Euratom[^f00002].
+
+(7)
+
+It is appropriate to fix a period for the application of this Decision. The Commission will, in due time, consider the advisability of an extension,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1. Advisory Board
+
+An advisory board called ‘European Security Research Advisory Board’ (ESRAB), attached to the Commission, is hereby set up with effect from 1 July 2005.
+
+## Article 2. Tasks
+
+The Commission may consult ESRAB on any questions relating to the content and implementation of the European Security Research Programme (ESRP), to be effected through the EC framework programme for research.
+
+ESRAB shall carry out its work in full knowledge of the European policy context, in particular of the research activities carried out at the national level and in support of European research policy initiatives.
+
+More specifically, but not exclusively, ESRAB shall make recommendations to the Commission in the following areas:
+
+- ((a)) the strategic missions, focus areas and priorities setting for ESRP, on the basis of the report ‘Research for a Secure Europe’ of the Group of Personalities while taking into account the establishment of the European Defence Agency as well as national and inter-governmental activities;
+- ((b)) the technological capabilities to be put in place among the European stakeholders; it shall recommend a strategy to improve the European industry's technological base, so as to improve its competitivity;
+- ((c)) the strategic and operational aspects of the ESRP taking into account the experience and results obtained from the Preparatory Action on the enhancement of the European industrial potential in the field of security research[^f00003], from Commission services with an active interest in the field of security including research covered by the EC framework programme for research and from other expert or advisory groups;
+- ((d)) the implementation issues such as the exchange of classified information and intellectual property rights;
+- ((e)) optimising the use of publicly owned research and evaluation infrastructures in ESRP;
+- ((f)) a communications strategy to promote awareness of the ESRP as well as for providing information on stakeholders' research programmes.
+
+The Chairpersons of either ESRAB group, as defined in Article 4(1), may indicate to the Commission that it is desirable to consult the ESRAB on other questions.
+
+## Article 3. Membership of ESRAB — Nomination
+
+1. Members of ESRAB shall be nominated by the Commission from among high-level specialists and strategists having expertise in the subject areas indicated in Article 2.
+
+2. Members shall be nominated *ad personam* and no substitutes shall be appointed. Members shall serve in a personal capacity and shall advise the Commission independently of any outside instructions. They shall not disseminate information obtained by ESRAB in the course of its activities, if the Commission is of the opinion that such information is confidential.
+
+3. Members shall be nominated for a period not exceeding the expiry date of this Decision. They shall remain in function until their replacement or until the end of their term of office.
+
+4. Members who are no longer capable of contributing usefully to the work of ESRAB, who resign, or who do not respect the conditions contained in paragraph 2 of this Article or in Article 287 of the Treaty, may be replaced by the Commission, for the remainder of their term of office.
+
+5. The list of ESRAB members and subsequent appointments thereto shall be published by the Commission in the ‘C’ Series of the *Official Journal of the European Union* for information.
+
+## Article 4. Functioning
+
+1. ESRAB shall be composed of two groups:
+
+- (a) a group addressing the security research demand requirements;
+- (b) a group addressing the technology supply chain requirements;
+
+2. The ESRAB members shall elect a chairperson for each group.
+
+3. In agreement with the Commission, ad hoc subgroups may be set up to examine specific issues, based on a mandate defined by one, or both, ESRAB groups. They shall be dissolved as soon as their mandates are fulfilled.
+
+4. For the handling of specific agenda items, the Commission may invite experts or observers, including persons from Commission services having a specific competence, to guide the work of ESRAB or to participate in ad hoc sub-groups if this is deemed useful or necessary.
+
+5. The ESRAB groups shall normally meet at the Commission’s offices according to the modalities and the calendar fixed by the Commission. Both ESRAB groups may avail themselves of the secretarial services of the Commission. They may hold joint meetings so as to ensure consistency of approach and greater co-ordination. Such joint meetings shall be co-chaired by the chairpersons of the ESRAB groups.
+
+6. The ESRAB groups shall adopt agreed terms of reference, including rules of procedure, on the basis of a Commission proposal.
+
+7. A restricted intranet shall be established to circulate working documents, conclusions, minutes, or any other relevant documents.
+
+## Article 5. Expenses
+
+Travel expenses incurred by members and selected experts in connection with the activities of ESRAB, shall be reimbursed by the Commission according to Commission rules. Members and selected experts shall not be remunerated for the services they render.
+
+## Article 6. Disclosure of information
+
+Rules on disclosure of information by members of ESRAB shall be laid down in the rules of procedure of ESRAB.
+
+Any persons participating in the activities of ESRAB shall refrain from disclosing information to which they have thereby gained access.
+
+## Article 7. Applicability
+
+This Decision shall expire on 31 December 2006.
+
+Done at Brussels, 22 April 2005.
+
+*For the Commission*
+
+Günter Verheugen
+
+*Vice-President*
+
+## Annotations
+
+[^f00001]: Footnote: COM(2004) 590 final.
+
+[^f00002]: Footnote: [OJ L 317, 3.12.2001, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.317.01.0001.01.ENG). Decision as last amended by Decision 2005/94/EC, Euratom ([OJ L 31, 4.2.2005, p. 66](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.031.01.0066.01.ENG)).
+
+[^f00003]: Footnote: COM(2004) 72 final.

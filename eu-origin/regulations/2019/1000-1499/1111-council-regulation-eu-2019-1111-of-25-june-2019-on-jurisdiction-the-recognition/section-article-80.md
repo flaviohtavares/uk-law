@@ -1,0 +1,36 @@
+---
+title: Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast), section Article 80
+act: Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast)
+section: Article 80
+status: revised
+text_date: '2019-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2019/1111/section/Article 80
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast), section Article 80
+
+> Text as at 2019-06-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 80. Cooperation on collecting and exchanging information relevant in procedures in matters of parental responsibility
+
+*Extent: E+W+S+N.I.*
+
+1. Upon a request made with supporting reasons, the Central Authority of the Member State where the child is or was habitually resident or present, directly or through courts, competent authorities or other bodies:
+
+- (a) shall, where available provide, or draw up and provide a report on:
+  - ((i)) the situation of the child;
+  - ((ii)) any ongoing procedures in matters of parental responsibility for the child; or
+  - ((iii)) decisions taken in matters of parental responsibility for the child;
+- (b) shall provide any other information relevant in procedures in matters of parental responsibility in the requesting Member State, in particular about the situation of a parent, a relative or other person who may be suitable to care for the child, if the situation of the child so requires; or
+- (c) may request the court or competent authority of its Member State to consider the need to take measures for the protection of the person or property of the child.
+
+2. In any case where the child is exposed to a serious danger, the court or competent authority contemplating or having taken measures for the protection of the child, if it is aware that the child's residence has changed to, or that the child is present in, another Member State, shall inform the courts or competent authorities of that other Member State about the danger involved and the measures taken or under consideration. This information may be transmitted directly or through the Central Authorities.
+
+3. The requests referred to in paragraphs 1 and 2 and any additional documents shall be accompanied by a translation into the official language of the requested Member State or, where there are several official languages in that Member State, into the official language or one of the official languages of the place where the request is to be carried out, or any other language that the requested Member State expressly accepts. Member States shall communicate such acceptance to the Commission in accordance with Article 103.
+
+4. Except where exceptional circumstances make this impossible, the information referred to in paragraph 1 shall be transmitted to the requesting Central Authority no later than three months following the receipt of the request.

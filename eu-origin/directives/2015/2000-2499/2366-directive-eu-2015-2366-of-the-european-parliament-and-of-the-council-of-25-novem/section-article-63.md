@@ -1,0 +1,33 @@
+---
+title: Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance), section Article 63
+act: Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance)
+section: Article 63
+status: revised
+text_date: '2015-12-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2015/2366/section/Article 63
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance), section Article 63
+
+> Text as at 2015-12-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 63. Derogation for low value payment instruments and electronic money
+
+*Extent: E+W+S+N.I.*
+
+1. In the case of payment instruments which, according to the framework contract, solely concern individual payment transactions not exceeding EUR 30 or which either have a spending limit of EUR 150, or store funds which do not exceed EUR 150 at any time, payment service providers may agree with their payment service users that:
+
+- (a) point (b) of Article 69(1), points (c) and (d) of Article 70(1), and Article 74(3) do not apply if the payment instrument does not allow its blocking or prevention of its further use;
+- (b) Articles 72 and 73, and Article 74(1) and (3), do not apply if the payment instrument is used anonymously or the payment service provider is not in a position for other reasons which are intrinsic to the payment instrument to prove that a payment transaction was authorised;
+- (c) by way of derogation from Article 79(1), the payment service provider is not required to notify the payment service user of the refusal of a payment order, if the non-execution is apparent from the context;
+- (d) by way of derogation from Article 80, the payer may not revoke the payment order after transmitting the payment order or giving consent to execute the payment transaction to the payee;
+- (e) by way of derogation from Articles 83 and 84, other execution periods apply.
+
+2. For national payment transactions, Member States or their competent authorities may reduce or double the amounts referred to in paragraph 1. They may increase them for prepaid payment instruments up to EUR 500.
+
+3. Articles 73 and 74 of this Directive shall apply also to electronic money as defined in point (2) of Article 2 of Directive 2009/110/EC, except where the payer’s payment service provider does not have the ability to freeze the payment account on which the electronic money is stored or block the payment instrument. Member States may limit that derogation to payment accounts on which the electronic money is stored or to payment instruments of a certain value.

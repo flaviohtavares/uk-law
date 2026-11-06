@@ -1,0 +1,98 @@
+---
+title: Commission Regulation (EC) No 825/2005 of 30 May 2005 fixing certain indicative quantities and individual ceilings for the issue of licences for the import of bananas into the Community in the third quarter of 2005 under tariff quotas A/B and C
+id: eur/2005/825
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2005-05-30'
+text_date: '2005-05-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2005/825
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2005/825/pdfs/eur_20050825_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2005/825/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 825/2005 of 30 May 2005 fixing certain indicative quantities and individual ceilings for the issue of licences for the import of bananas into the Community in the third quarter of 2005 under tariff quotas A/B and C
+
+> Text as at 2005-05-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 825/2005
+
+of 30 May 2005
+
+fixing certain indicative quantities and individual ceilings for the issue of licences for the import of bananas into the Community in the third quarter of 2005 under tariff quotas A/B and C
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 404/93 of 13 February 1993 on the common organisation of the market in bananas[^f00001], and in particular Article 20 thereof,
+
+Whereas:
+
+(1)
+
+Article 14(1) of Commission Regulation (EC) No 896/2001 of 7 May 2001 laying down detailed rules for applying Council Regulation (EEC) No 404/93 as regards the arrangements for importing bananas into the Community[^f00002] provides that an indicative quantity expressed as the same percentage of available quantities from each of the tariff quotas A/B and C provided for in Article 18(1) of Regulation (EEC) No 404/93 may be fixed for the purposes of issuing import licences for each of the first three quarters of the year.
+
+(2)
+
+The data concerning, firstly, the quantities of bananas marketed in the Community in 2004, and in particular the actual imports, especially during the third quarter, and secondly, the supply and consumption prospects on the Community market during the same third quarter for 2005, result in indicative quantities being fixed for tariff quotas A/B and C so as to ensure adequate supplies for the Community, and the continuation of trade flows between the production and marketing sectors.
+
+(3)
+
+On the basis of the same data, in accordance with Article 14(2) of Regulation (EC) No 896/2001, the maximum quantity for which each operator may submit licence applications for the third quarter of 2005 should be fixed.
+
+(4)
+
+In view of the fact that this Regulation must apply before the start of the period for the submission of licence applications for the third quarter of 2005, provision should be made for this Regulation to enter into force immediately.
+
+(5)
+
+This Regulation must apply to operators established in the Community as constituted on 30 April 2004 since Commission Regulation (EC) No 1892/2004[^f00003] adopted transitional measures for 2005 for imports of bananas into the Community by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia.
+
+(6)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Bananas,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** The indicative quantity referred to in Article 14(1) of Regulation (EC) No 896/2001 for the issue of import licences for bananas under the tariff quotas provided for in Article 18(1) of Regulation (EEC) No 404/93 is fixed, for the third quarter of 2005, at:
+
+- ((a)) 23 % of the quantities available for traditional operators and non-traditional operators established in the Community as constituted on 30 April 2004 under tariff quotas A/B;
+- ((b)) 23 % of the quantities available for traditional operators and non-traditional operators established in the Community as constituted on 30 April 2004 under tariff quota C.
+
+**Article 2.** For the third quarter of 2005, the maximum authorised quantity referred to in Article 14(2) of Regulation (EC) No 896/2001, for licence applications for the import of bananas under the tariff quotas provided for in Article 18(1) of Regulation (EEC) No 404/93 is fixed at:
+
+- ((a)) 23 % of the reference quantity established and notified in accordance with Articles 4 and 5 of Regulation (EC) No 896/2001 for the traditional operators established in the Community as constituted on 30 April 2004 under tariff quotas A/B;
+- ((b)) 23 % of the quantity established and notified, in accordance with Article 9(3) of Regulation (EC) No 896/2001 for the non-traditional operators established in the Community as constituted on 30 April 2004 under tariff quotas A/B;
+- ((c)) 23 % of the reference quantity established and notified in accordance with Articles 4 and 5 of Regulation (EC) No 896/2001 for the traditional operators established in the Community as constituted on 30 April 2004 under tariff quota C;
+- ((d)) 23 % of the quantity established and notified, in accordance with Article 9(3) of Regulation (EC) No 896/2001 for the non-traditional operators established in the Community as constituted on 30 April 2004 under tariff quota C.
+
+**Article 3.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 30 May 2005.
+
+*For the Commission*
+
+Mariann Fischer Boel
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 47, 25.2.1993, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.047.01.0001.01.ENG). Regulation as last amended by the 2003 Act of Accession.
+
+[^f00002]: Footnote: [OJ L 126, 8.5.2001, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.126.01.0006.01.ENG). Regulation as last amended by Regulation (EC) No 838/2004 ([OJ L 127, 29.4.2004, p. 52](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.127.01.0052.01.ENG)).
+
+[^f00003]: Footnote: [OJ L 328, 30.10.2004, p. 50](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.328.01.0050.01.ENG).

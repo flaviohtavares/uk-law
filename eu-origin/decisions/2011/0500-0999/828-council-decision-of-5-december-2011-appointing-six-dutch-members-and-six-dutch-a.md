@@ -1,0 +1,87 @@
+---
+title: Council Decision of 5 December 2011 appointing six Dutch members and six Dutch alternate members of the Committee of the Regions (2011/828/EU)
+id: eudn/2011/828
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2011-12-05'
+text_date: '2011-12-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2011/828
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2011/828/pdfs/eudn_20110828_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2011/828/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision of 5 December 2011 appointing six Dutch members and six Dutch alternate members of the Committee of the Regions (2011/828/EU)
+
+> Text as at 2011-12-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision
+
+of 5 December 2011
+
+appointing six Dutch members and six Dutch alternate members of the Committee of the Regions
+
+(2011/828/EU)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 305 thereof,
+
+Having regard to the proposal of the Dutch Government,
+
+Whereas:
+
+(1)
+
+On 22 December 2009 and on 18 January 2010, the Council adopted Decisions 2009/1014/EU[^f00001] and 2010/29/EU[^f00002] appointing the members and alternate members of the Committee of the Regions for the period from 26 January 2010 to 25 January 2015.
+
+(2)
+
+Six members’ seats on the Committee of the Regions have become vacant following the end of the terms of office of Mr Sipke SWIERSTRA, Mr Léon FRISSEN, Ms Rinske KRUISINGA, Mr Dick BUURSINK, Ms Karla PEIJS and Ms Lenie DWARSHUIS-VAN DE BEEK. Four alternate members’ seats have become vacant following the end of the terms of office of Mr René VAN DIESSEN, Mr Sjoerd GALEMA, Mr Martin JAGER and Mr Joop BINNEKAMP. Two alternate members’ seats will become vacant following the appointment of Mr W.B.H.J. VAN DE DONK and Mr Co VERDAAS as members of the Committee of the Regions,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** The following are hereby appointed to the Committee of the Regions for the remainder of the current term of office, which runs until 25 January 2015:
+
+- ((a)) as members:
+  - Ms A.E. (Anne) BLIEK-DE JONG, gedeputeerde (member of the Executive Council) of the Province of Flevoland,
+  - Mr dr. J.C. (Co) VERDAAS, gedeputeerde (member of the Executive Council) of the Province of Gelderland,
+  - Mr mr. P.G. (Piet) DE VEY MESTDAGH, gedeputeerde (member of the Executive Council) of the Province of Groningen,
+  - Mr prof. dr. W.B.H.J. (Wim) VAN DE DONK, Commissaris van de Koningin (Queen’s Commissioner) Province of Noord-Brabant,
+  - Ms W.H. (Hester) MAIJ, gedeputeerde (member of the Executive Council) of the Province of Overijssel,
+  - Mr drs. R.E. (Ralph) DE VRIES, gedeputeerde (member of the Executive Council) of the Province of Utrecht;
+
+  and
+- ((b)) as alternate members:
+  - Mr H. (Henk) BRINK, gedeputeerde (member of the Executive Council) of the Province of Drenthe,
+  - Ms S.A.E. (Sietske) POEPJES, gedeputeerde (member of the Executive Council) of the Province of Fryslân,
+  - Mr drs. Th.J.F.M. (Theo) BOVENS, Commissaris van de Koningin (Queen’s Commissioner) Province of Limburg,
+  - Ms drs. E.M. (Elvira) SWEET, gedeputeerde (member of the Executive Council) of the Province of Noord-Holland,
+  - Mr drs. B.J. (Ben) DE REU, gedeputeerde (member of the Executive Council) of the Province of Zeeland,
+  - Mr mr. drs. R.A.M. (Rogier) VAN DER SANDE, gedeputeerde (member of the Executive Council) of the Province of Zuid-Holland.
+
+**Article 2.** This Decision shall enter into force on the day of its adoption.
+
+Done at Brussels, 5 December 2011.
+
+*For the Council*
+
+*The President*
+
+W. Pawlak
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 348, 29.12.2009, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.348.01.0022.01.ENG).
+
+[^f00002]: Footnote: [OJ L 12, 19.1.2010, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.012.01.0011.01.ENG).

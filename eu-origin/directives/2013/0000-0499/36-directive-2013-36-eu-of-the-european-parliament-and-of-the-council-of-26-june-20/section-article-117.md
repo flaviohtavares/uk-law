@@ -1,0 +1,70 @@
+---
+title: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 117
+act: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance)
+section: Article 117
+status: revised
+text_date: '2020-12-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2013/36/section/Article 117
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 117
+
+> Text as at 2020-12-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 117. Cooperation obligations
+
+*Extent: E+W+S+N.I.*
+
+1. The competent authorities shall cooperate closely with each other. They shall provide one another with any information which is essential or relevant for the exercise of the other authorities' supervisory tasks under this Directive and Regulation (EU) No 575/2013. In that regard, the competent authorities shall communicate on request all relevant information and shall communicate on their own initiative all essential information.
+
+The competent authorities shall cooperate with EBA for the purposes of this Directive and Regulation (EU) No 575/2013, in accordance with Regulation (EU) No 1093/2010.
+
+The competent authorities shall provide EBA with all information necessary to carry out its duties under this Directive, under Regulation (EU) No 575/2013, and under Regulation (EU) No 1093/2010, in accordance with Article 35 of Regulation (EU) No 1093/2010.
+
+Information referred to in the first subparagraph shall be regarded as essential if it could materially influence the assessment of the financial soundness of an institution or financial institution in another Member State.
+
+In particular, consolidating supervisors of EU parent institutions and institutions controlled by EU parent financial holding companies or EU parent mixed financial holding companies shall provide the competent authorities in other Member States who supervise subsidiaries of those parent undertakings with all relevant information. In determining the extent of relevant information, the importance of those subsidiaries within the financial system in those Member States shall be taken into account.
+
+The essential information referred to in the first subparagraph shall include, in particular, the following items:
+
+- (a) identification of the group's legal structure and the governance structure including organisational structure, covering all regulated entities, non-regulated entities, non-regulated subsidiaries and significant branches belonging to the group, the parent undertakings, in accordance with Article 14(3), Article 74(1) and Article 109(2), and of the competent authorities of the regulated entities in the group;
+- (b) procedures for the collection of information from the institutions in a group, and the checking of that information;
+- (c) adverse developments in institutions or in other entities of a group, which could seriously affect the institutions;
+- (d) significant penalties and exceptional measures taken by competent authorities in accordance with this Directive, including the imposition of a specific own fund requirement under Article 104 and the imposition of any limitation on the use of the Advanced Measurement Approach for the calculation of the own funds requirements under Article 312(2) of Regulation (EU) No 575/2013.
+
+2. The competent authorities may refer to EBA any of the following situations:
+
+- (a) where a competent authority has not communicated essential information;
+- (b) where a request for cooperation, in particular to exchange relevant information, has been rejected or has not been acted upon within a reasonable time.
+
+Without prejudice to Article 258 TFEU, EBA may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1093/2010.
+
+EBA may also assist the competent authorities in developing consistent cooperation practices on its own initiative in accordance with the second subparagraph of Article 19(1) of that Regulation.
+
+3. The competent authorities responsible for the supervision of institutions controlled by an EU parent institution shall where possible contact the consolidating supervisor when they need information regarding the implementation of approaches and methodologies set out in this Directive and in Regulation (EU) No 575/2013 that may already be available to the consolidating supervisor.
+
+4. The competent authorities concerned shall, before taking a decision, consult each other with regard to the following items, where such a decision is of importance for other competent authorities' supervisory tasks:[^c000004]
+
+- (a) changes in the shareholder, organisational or management structure of credit institutions in a group, which require the approval or authorisation of competent authorities; and
+- (b) significant penalties or exceptional measures taken by competent authorities, including the imposition of a specific own funds requirement under Article 104 and the imposition of any limitation on the use of the advances measurement approaches for the calculation of the own funds requirements under Article 312(2) of Regulation (EU) No 575/2013.
+
+For the purposes of point (b), the consolidating supervisor shall always be consulted.
+
+However, a competent authority may decide not to consult other competent authorities in cases of urgency or where such consultation could jeopardise the effectiveness of its decision. In such cases, the competent authority shall, without delay, inform the other competent authorities after taking its decision.
+
+5.[^c000002] Competent authorities, financial intelligence units and authorities entrusted with the public duty of supervising the obliged entities listed in points (1) and (2) of Article 2(1) of Directive (EU) 2015/849 for compliance with that Directive, shall cooperate closely with each other within their respective competences and shall provide each other with information relevant for their respective tasks under this Directive, Regulation (EU) No 575/2013 and under Directive (EU) 2015/849, provided that such cooperation and information exchange do not impinge on an on-going inquiry, investigation or proceedings in accordance with the criminal or administrative law of the Member State where the competent authority, financial intelligence unit or authority entrusted with the public duty of supervising the obliged entities listed in points (1) and (2) of Article 2(1) of Directive (EU) 2015/849 is located.
+
+EBA may assist the competent authorities in the event of a disagreement concerning the coordination of supervisory activities under this Article on its own initiative in accordance with the second subparagraph of Article 19(1) of Regulation (EU) No 1093/2010.
+
+6. By 1 January 2020 , EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, specifying the manner for cooperation and information exchange between the authorities referred to in paragraph 5 of this Article, particularly in relation to cross-border groups and in the context of identifying serious breaches of anti-money laundering rules.
+
+## Annotations
+
+[^c000004]: Editorial: Substituted by [Corrigendum to Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Official Journal of the European Union L 176 of 27 June 2013)](https://www.legislation.gov.uk/eudr/2013/36/pdfs/eudrcs_20130036_en_002.pdf).
+
+[^c000002]: Textual amendment: Inserted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).

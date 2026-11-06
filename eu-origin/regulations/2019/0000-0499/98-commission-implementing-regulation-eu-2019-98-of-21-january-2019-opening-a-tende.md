@@ -1,0 +1,118 @@
+---
+title: Commission Implementing Regulation (EU) 2019/98 of 21 January 2019 opening a tendering procedure for buying-in skimmed milk powder during the public intervention period from 1 March to 30 September 2019
+id: eur/2019/98
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2019-01-21'
+text_date: '2019-01-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2019/98
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2019/98/pdfs/eur_20190098_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2019/98/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) 2019/98 of 21 January 2019 opening a tendering procedure for buying-in skimmed milk powder during the public intervention period from 1 March to 30 September 2019
+
+> Text as at 2019-01-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Regulation (EU) 2019/98
+
+of 21 January 2019
+
+opening a tendering procedure for buying-in skimmed milk powder during the public intervention period from 1 March to 30 September 2019
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007[^f00001],
+
+Having regard to Council Regulation (EU) No 1370/2013 of 16 December 2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products[^f00002], and in particular Article 3(6) thereof,
+
+Having regard to Commission Implementing Regulation (EU) 2016/1240 of 18 May 2016 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage[^f00003], and in particular Article 12(1) thereof,
+
+Whereas:
+
+(1)
+
+Pursuant to Article 12 of Regulation (EU) No 1308/2013, public intervention is available for skimmed milk powder from 1 March to 30 September.
+
+(2)
+
+Regulation (EU) No 1370/2013 provides that the quantitative limitation for buying-in skimmed milk powder at fixed price shall be set at zero tonne for the year 2019.
+
+(3)
+
+In accordance with Article 3(2) of Regulation (EU) No 1370/2013, a tendering procedure is therefore to be opened for buying-in skimmed milk powder from the start of the public intervention period in 2019.
+
+(4)
+
+Section 3 of Chapter II of Title II of Implementing Regulation (EU) 2016/1240 lays down rules for buying-in via a tendering procedure.
+
+(5)
+
+In accordance with Article 9(1)(b) of Implementing Regulation (EU) 2016/1240 the time limit for Member States to notify the Commission of all admissible tenders should be set.
+
+(6)
+
+In the interest of efficient administration, Member States should use, for their notifications to the Commission, information systems in accordance with Commission Delegated Regulation (EU) 2017/1183[^f00004] and Commission Implementing Regulation (EU) 2017/1185[^f00005],
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1. Opening of the tendering procedure
+
+A tendering procedure is opened from 1 March to 30 September 2019 for buying-in skimmed milk powder into intervention, under the conditions provided for in Section 3 of Chapter II of Title II of Implementing Regulation (EU) 2016/1240 and in this Regulation.
+
+## Article 2. Submission of tenders
+
+1. The periods during which tenders may be submitted shall end at 11.00 (Brussels time) on the third Tuesday of the month. However, in August, the closing date for the submission of tenders shall be the fourth Tuesday of the month at 11.00 (Brussels time).
+
+If Tuesday is a public holiday the time limit shall be 11.00 (Brussels time) on the previous working day.
+
+2. Tenders shall be submitted to the paying agencies approved by the Member States[^f00006].
+
+## Article 3. Notification to the Commission
+
+The notification provided for in Article 9(1)(b) of Implementing Regulation (EU) 2016/1240 shall be made by 16.00 (Brussels time) on the closing dates for the submission of tenders as referred to in Article 2 of this Regulation, in accordance with Delegated Regulation (EU) 2017/1183 and Implementing Regulation (EU) 2017/1185.
+
+## Article 4. Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 21 January 2019.
+
+*For the Commission,*
+
+*On behalf of the President,*
+
+Jerzy Plewa
+
+*Director-General*
+
+*Directorate-General for Agriculture and Rural Development*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 347, 20.12.2013, p. 671](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0671.01.ENG).
+
+[^f00002]: Footnote: [OJ L 346, 20.12.2013, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.346.01.0012.01.ENG).
+
+[^f00003]: Footnote: [OJ L 206, 30.7.2016, p. 71](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.206.01.0071.01.ENG).
+
+[^f00004]: Footnote: Commission Delegated Regulation (EU) 2017/1183 of 20 April 2017 on supplementing Regulations (EU) No 1307/2013 and (EU) No 1308/2013 of the European Parliament and of the Council with regard to the notifications to the Commission of information and documents ([OJ L 171, 4.7.2017, p. 100](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.171.01.0100.01.ENG)).
+
+[^f00005]: Footnote: Commission Implementing Regulation (EU) 2017/1185 of 20 April 2017 laying down rules for the application of Regulations (EU) No 1307/2013 and (EU) No 1308/2013 of the European Parliament and of the Council as regards notifications to the Commission of information and documents and amending and repealing several Commission Regulations ([OJ L 171, 4.7.2017, p. 113](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.171.01.0113.01.ENG)).
+
+[^f00006]: Footnote: The addresses of the paying agencies are available on the European Commission website http://ec.europa.eu/agriculture/milk/policy-instruments/index\_en.htm

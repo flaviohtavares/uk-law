@@ -1,0 +1,34 @@
+---
+title: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 143
+act: Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)
+section: Article 143
+status: revised
+text_date: '2024-09-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2016/429/section/Article 143
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance), section Article 143
+
+> Text as at 2024-09-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 143. Obligation of operators to ensure that animals are accompanied by an animal health certificate
+
+*Extent: E+W+S+N.I.*
+
+1. Operators shall only move the following species and categories of kept terrestrial animals to another Member State if the animals in question are accompanied by an animal health certificate issued by the competent authority of the Member State of origin in accordance with Article 149(1):
+
+- (a) ungulates;
+- (b) poultry;
+- (c) kept terrestrial animals other than ungulates and poultry, intended for a confined establishment;
+- (d) kept terrestrial animals other than those referred to in points (a), (b) and (c) of this paragraph, when required in accordance with delegated acts adopted pursuant to point (c) of Article 144(1).
+
+2. In cases where kept terrestrial animals are allowed to leave a restricted zone as provided for in point (f)(ii) of Article 55(1), Article 56 and Article 64(1) and are subject to disease control measures as provided for in Articles 55(1), 65(1), 74(1), Article 79 or Article 80 or rules adopted pursuant to Article 55(2), Article 67, Articles 71(3) and 74(4), Article 83(3) or Article 259, and the animals in question are of species subject to those disease control measures, operators shall only move such kept terrestrial animals within a Member State or from one Member State to another Member State when the animals to be moved are accompanied by an animal health certificate issued by the competent authority of the Member State of origin in accordance with Article 149(1).
+
+The competent authority may decide that such a certificate does not have to be issued for movements of kept terrestrial animals within the Member State in question when that authority considers that an alternative system is in place ensuring that the consignment of such animals is traceable and that those animals fulfil the animal health requirements for such movement.
+
+3. Operators shall take all necessary measures to ensure that the animal health certificate referred to in paragraph 1 of this Article accompanies the kept terrestrial animals from their place of origin to their final place of destination, unless specific measures are provided for in rules adopted pursuant to Article 147.

@@ -1,0 +1,31 @@
+---
+title: Consolidated version of the Treaty on the Functioning of the European Union, section Article 219
+act: Consolidated version of the Treaty on the Functioning of the European Union
+section: Article 219
+status: revised
+text_date: '2020-03-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eut/teec/section/Article 219
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Consolidated version of the Treaty on the Functioning of the European Union, section Article 219
+
+> Text as at 2020-03-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 219. (ex Article 111(1) to (3) and (5) TEC)
+
+*Extent: E+W+S+N.I.*
+
+1. By way of derogation from Article 218, the Council, either on a recommendation from the European Central Bank or on a recommendation from the Commission and after consulting the European Central Bank, in an endeavour to reach a consensus consistent with the objective of price stability, may conclude formal agreements on an exchange-rate system for the euro in relation to the currencies of third States. The Council shall act unanimously after consulting the European Parliament and in accordance with the procedure provided for in paragraph 3.
+
+The Council may, either on a recommendation from the European Central Bank or on a recommendation from the Commission, and after consulting the European Central Bank, in an endeavour to reach a consensus consistent with the objective of price stability, adopt, adjust or abandon the central rates of the euro within the exchange-rate system. The President of the Council shall inform the European Parliament of the adoption, adjustment or abandonment of the euro central rates.
+
+2. In the absence of an exchange-rate system in relation to one or more currencies of third States as referred to in paragraph 1, the Council, either on a recommendation from the Commission and after consulting the European Central Bank or on a recommendation from the European Central Bank, may formulate general orientations for exchange-rate policy in relation to these currencies. These general orientations shall be without prejudice to the primary objective of the ESCB to maintain price stability.
+
+3. By way of derogation from Article 218, where agreements concerning monetary or foreign exchange regime matters need to be negotiated by the Union with one or more third States or international organisations, the Council, on a recommendation from the Commission and after consulting the European Central Bank, shall decide the arrangements for the negotiation and for the conclusion of such agreements. These arrangements shall ensure that the Union expresses a single position. The Commission shall be fully associated with the negotiations.
+
+4. Without prejudice to Union competence and Union agreements as regards economic and monetary union, Member States may negotiate in international bodies and conclude international agreements.

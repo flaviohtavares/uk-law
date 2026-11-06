@@ -1,0 +1,121 @@
+---
+title: Commission Decision of 13 February 2014 concerning the placing on the market for essential use of biocidal products containing copper (notified under document C(2014) 718) (Only the Dutch, English, Polish and Spanish texts are authentic) (2014/85/EU)
+id: eudn/2014/85
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2014-02-13'
+text_date: '2014-02-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2014/85
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2014/85/pdfs/eudn_20140085_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2014/85/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Decision of 13 February 2014 concerning the placing on the market for essential use of biocidal products containing copper (notified under document C(2014) 718) (Only the Dutch, English, Polish and Spanish texts are authentic) (2014/85/EU)
+
+> Text as at 2014-02-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Decision
+
+of 13 February 2014
+
+concerning the placing on the market for essential use of biocidal products containing copper
+
+(notified under document C(2014) 718)
+
+(Only the Dutch, English, Polish and Spanish texts are authentic)
+
+(2014/85/EU)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Commission Regulation (EC) No 1451/2007 of 4 December 2007 on the second phase of the 10-year work programme referred to in Article 16(2) of Directive 98/8/EC of the European Parliament and of the Council concerning the placing of biocidal products on the market[^f00001], and in particular Article 5(3) thereof,
+
+Whereas:
+
+(1)
+
+Pursuant to Article 4 of Commission Regulation (EC) No 1896/2000 of 7 September 2000 on the first phase of the programme referred to in Article 16(2) of Directive 98/8/EC of the European Parliament and of the Council on biocidal products[^f00002], copper was notified for use, inter alia, in product-types 2, 5 and 11, as defined in Annex V to Directive 98/8/EC of the European Parliament and of the Council of 16 February 1998 concerning the placing of biocidal products on the market[^f00003].
+
+(2)
+
+No complete dossier was submitted in support of the inclusion of copper in Annex I, IA or IB to Directive 98/8/EC within any of the relevant deadlines. Pursuant to Commission Decision 2012/78/EU of 9 February 2012 concerning the non-inclusion of certain substances in Annex I, IA or IB to Directive 98/8/EC of the European Parliament and of the Council concerning the placing of biocidal products on the market[^f00004] read in combination with Article 4(2) of Regulation (EC) No 1451/2007, copper shall no longer be placed on the market for use in product-types 2, 5 or 11 as of 1 February 2013.
+
+(3)
+
+Pursuant to Article 5 of Regulation (EC) No 1451/2007, the United Kingdom, Spain, the Netherlands and Poland have submitted separate applications to the Commission for permission to allow the placing on the market of biocidal products containing copper for the uses indicated by ‘Yes’ in the Annex to this Decision.
+
+(4)
+
+The Commission made the applications publicly available by electronic means. Comments were received and were made publicly available.
+
+(5)
+
+It follows from the applications that transmission of Legionella has been associated, in particular, with use of water such as drinking water, bathing water, showering water and water in cooling towers. Furthermore, it follows that Legionella can be fatal, especially in vulnerable groups such as hospital patients. According to the applications, selection of a suitable system for Legionella control is complex and depends on a number of parameters such as system design, age, complexity and water chemistry.
+
+(6)
+
+It also follows from some of the applications, that biocidal products containing copper are used to prevent growth of organisms in the main water inlet for offshore oil and gas platforms, where that use is essential to avoid blocking the inlet of water used for, inter alia, processing, drinking water and bathing water production, and firefighting, since blocking that inlet could be fatal for the health and safety of the staff at the installation.
+
+(7)
+
+Some comments received during the public consultation have pointed to the existence of alternative methods for water system disinfection. However, the Member States having submitted the applications have argued that, in their territories, it is necessary to have an adequate range of technical and economic feasible alternatives available to control Legionella, and, where relevant, to reduce the risk of blocking the main water inlet for offshore installations. This has been confirmed in some of the public consultations by users of the products in question, such as hospitals.
+
+(8)
+
+It therefore appears likely that not allowing use for Legionella control, or where relevant for preventing growth of organisms in the water inlet for offshore oil and gas platforms, in those Member States would currently pose a serious risk for public health. The requested derogations for essential use are therefore currently necessary.
+
+(9)
+
+However, unless a complete application for approval of copper for use in the relevant product-types is submitted without undue delay, users of biocidal products containing copper should implement alternative methods for Legionella control or organism growth prevention. It is therefore appropriate to require that, in such a case, users in those Member States are actively informed in due time to allow them to ensure that those alternative methods are effective before the biocidal products containing copper have to be withdrawn from the market,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** 1. Subject to the conditions provided for by Article 5(3) of Regulation (EC) No 1451/2007, the United Kingdom, Spain, the Netherlands and Poland may allow the placing on the market of biocidal products containing copper (EC No 231-159-6; CAS No 7440-50-8) for the uses indicated in the Annex to this Decision.
+
+2. If dossiers for the approval of copper for the product-types relevant to those uses have been submitted and validated as complete by the evaluating Member State by 31 December 2014 at the latest, the United Kingdom, Spain, the Netherlands and Poland may continue allowing that placing on the market until the deadlines provided for in Article 89 of Regulation (EU) No 528/2012 for cases where a substance is or is not approved.
+
+3. In other cases than those provided for in paragraph 2, the United Kingdom, Spain, the Netherlands and Poland may continue allowing that placing on the market until 31 December 2017 provided that those Member States ensure, as of 1 January 2015, that users are actively informed about the immediate need to effectively implement alternative methods for the relevant purposes.
+
+**Article 2.** This Decision is addressed to the Kingdom of Spain, the Kingdom of the Netherlands, the Republic of Poland and the United Kingdom of Great Britain and Northern Ireland.
+
+Done at Brussels, 13 February 2014.
+
+*For the Commission*
+
+Janez Potočnik
+
+*Member of the Commission*
+
+## ANNEX
+
+**Uses which the Member States listed hereunder may allow, subject to compliance with the conditions of Article 1**
+
+|  | United Kingdom | Spain | Netherlands | Poland |
+| --- | --- | --- | --- | --- |
+| Product-type 2: for control of Legionella in water for human use, such as bathing and showering water | Yes | Yes |  | Yes |
+| Product-type 5: for control of Legionella in drinking water | Yes | Yes | Yes |  |
+| Product-type 11: for control of Legionella in cooling tower water |  | Yes | Yes | Yes |
+| Product-type 11: for the prevention of growth of organisms in the water inlet for offshore oil and gas platforms |  |  | Yes |  |
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 325, 11.12.2007, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.325.01.0003.01.ENG).
+
+[^f00002]: Footnote: [OJ L 228, 8.9.2000, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.228.01.0006.01.ENG).
+
+[^f00003]: Footnote: [OJ L 123, 24.4.1998, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.123.01.0001.01.ENG).
+
+[^f00004]: Footnote: [OJ L 38, 11.2.2012, p. 48](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.038.01.0048.01.ENG).

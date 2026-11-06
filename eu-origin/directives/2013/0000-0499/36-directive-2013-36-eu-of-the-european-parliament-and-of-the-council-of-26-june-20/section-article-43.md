@@ -1,0 +1,33 @@
+---
+title: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 43
+act: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance)
+section: Article 43
+status: revised
+text_date: '2020-12-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2013/36/section/Article 43
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 43
+
+> Text as at 2020-12-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 43. Precautionary measures
+
+*Extent: E+W+S+N.I.*
+
+1. Before following the procedure set out in Article 41, the competent authorities of the host Member State may, in emergency situations, pending measures by the competent authorities of the home Member State or reorganisation measures referred to in Article 3 of Directive 2001/24/EC, take any precautionary measures necessary to protect against financial instability that would seriously threaten the collective interests of depositors, investors and clients in the host Member State.
+
+2. Any precautionary measures under paragraph 1 shall be proportionate to their purpose to protect against financial instability that would seriously threaten collective interests of depositors, investors and clients in the host Member State. Such precautionary measures may include a suspension of payment. They shall not result in a preference for the creditors of the credit institution in the host Member State over creditors in other Member States.
+
+3. Any precautionary measure under paragraph 1 shall cease to have effect when the administrative or judicial authorities of the home Member State take reorganisation measures under Article 3 of Directive 2001/24/EC.
+
+4. The competent authorities of the host Member State shall terminate precautionary measures where they consider those measures to have become obsolete under Article 41, unless they cease to have effect in accordance with paragraph 3 of this Article.
+
+5. The Commission, EBA and the competent authorities of the other Member States concerned shall be informed of precautionary measures taken under paragraph 1 without undue delay.
+
+Where the competent authorities of the home Member State or of any other affected Member State object to measures taken by the competent authorities of the host Member State, they may refer the matter to EBA and request its assistance in accordance with Article 19 of Regulation (EU) No 1093/2010. Where EBA acts in accordance with that Article, it shall take any decision under Article 19(3) of that Regulation within 24 hours. EBA may also assist the competent authorities in reaching an agreement on its own initiative in accordance with the second subparagraph of Article 19(1) of that Regulation.

@@ -1,0 +1,1490 @@
+---
+title: Directive (EU) 2019/879 of the European Parliament and of the Council of 20 May 2019 amending Directive 2014/59/EU as regards the loss-absorbing and recapitalisation capacity of credit institutions and investment firms and Directive 98/26/EC
+id: eudr/2019/879
+type: EuropeanUnionDirective
+category: euretained
+status: revised
+made_date: '2019-05-20'
+text_date: '2019-05-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2019/879
+pdf_urls:
+- http://www.legislation.gov.uk/eudr/2019/879/pdfs/eudr_20190879_adopted_en.pdf
+- http://www.legislation.gov.uk/eudr/2019/879/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive (EU) 2019/879 of the European Parliament and of the Council of 20 May 2019 amending Directive 2014/59/EU as regards the loss-absorbing and recapitalisation capacity of credit institutions and investment firms and Directive 98/26/EC
+
+> Text as at 2019-05-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Directive (EU) 2019/879 of the European Parliament and of the Council
+
+of 20 May 2019
+
+amending Directive 2014/59/EU as regards the loss-absorbing and recapitalisation capacity of credit institutions and investment firms and Directive 98/26/EC
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Central Bank[^f00001],
+
+Having regard to the opinion of the European Economic and Social Committee[^f00002],
+
+Acting in accordance with the ordinary legislative procedure[^f00003],
+
+Whereas:
+
+(1)
+
+On 9 November 2015, the Financial Stability Board published the Total Loss-Absorbing Capacity (TLAC) Term Sheet (‘TLAC standard’), which was endorsed by the G-20 in November 2015. The objective of the TLAC standard is to ensure that global systemically important banks, referred to as global systemically important institutions (‘G-SIIs’) in the Union framework, have the loss-absorbing and recapitalisation capacity necessary to help ensure that, in, and immediately following, a resolution, those institutions can continue to perform critical functions without putting taxpayers' funds, that is public funds, or financial stability at risk. In its Communication of 24 November 2015, ‘Towards the completion of the Banking Union’, the Commission committed itself to bringing forward a legislative proposal by the end of 2016 that would enable the TLAC standard to be implemented in Union law by the internationally agreed deadline of 2019.
+
+(2)
+
+The implementation of the TLAC standard in Union law needs to take into account the existing institution-specific minimum requirement for own funds and eligible liabilities (MREL) that applies to all credit institutions and investment firms (institutions) established in the Union, as well as to any other entity as laid down in Directive 2014/59/EU of the European Parliament and of the Council[^f00004] (entities). As the TLAC standard and the MREL pursue the same objective of ensuring that institutions and entities established in the Union have sufficient loss-absorbing and recapitalisation capacity, the two requirements should be complementary elements of a common framework.
+
+Operationally, the harmonised minimum level of the TLAC standard for G-SIIs (‘TLAC minimum requirement’) should be introduced in Union legislation through amendments to Regulation (EU) No 575/2013[^f00005], while the institution-specific add-on for G-SIIs and the institution-specific requirement for non-G-SIIs, referred to as the MREL, should be addressed through targeted amendments to Directive 2014/59/EU and Regulation (EU) No 806/2014 of the European Parliament and of the Council[^f00006]. The provisions of Directive 2014/59/EU, as amended by this Directive, on the loss-absorbing and recapitalisation capacity of institutions and entities should be applied in a manner consistent with those in Regulations (EU) No 575/2013 and (EU) No 806/2014 and in Directive 2013/36/EU of the European Parliament and of the Council[^f00007].
+
+(3)
+
+The absence of harmonised Union rules in respect of the implementation of the TLAC standard in the Union creates additional costs and legal uncertainty and makes the application of the bail-in tool for cross-border institutions and entities more difficult. The absence of harmonised Union rules also results in distortions of competition in the internal market given that the costs for institutions and entities to comply with the existing requirements and the TLAC standard might differ considerably across the Union. It is therefore necessary to remove those obstacles to the functioning of the internal market and to avoid distortions of competition resulting from the absence of harmonised Union rules in respect of the implementation of the TLAC standard. Consequently, the appropriate legal basis for this Directive is Article 114 of the Treaty on the Functioning of the European Union.
+
+(4)
+
+In line with the TLAC standard, Directive 2014/59/EU should continue to recognise both the Single Point of Entry (SPE) resolution strategy and the Multiple Point of Entry (MPE) resolution strategy. Under the SPE resolution strategy, only one group entity, usually the parent undertaking, is resolved, whereas other group entities, usually operating subsidiaries, are not put under resolution, but transfer their losses and recapitalisation needs to the entity to be resolved. Under the MPE resolution strategy, more than one group entity might be resolved. A clear identification of entities to be resolved (‘resolution entities’), that is, the entities to which resolution actions could be applied, together with subsidiaries that belong to them (‘resolution groups’), is important in order to apply the desired resolution strategy effectively. That identification is also relevant for determining the level of application of the rules on loss-absorbing and recapitalisation capacity that institutions and entities should apply. It is therefore necessary to introduce the concepts of ‘resolution entity’ and ‘resolution group’ and to amend Directive 2014/59/EU as regards group resolution planning, in order to explicitly require resolution authorities to identify the resolution entities and resolution groups within a group and to appropriately consider the implications of any planned action within the group to ensure effective group resolution.
+
+(5)
+
+Member States should ensure that institutions and entities have sufficient loss-absorbing and recapitalisation capacity to ensure a smooth and fast absorption of losses and recapitalisation with a minimum impact on taxpayers and financial stability. That should be achieved through compliance by institutions with an institution-specific MREL as set out in Directive 2014/59/EU.
+
+(6)
+
+In order to align denominators that measure the loss-absorbing and recapitalisation capacity of institutions and entities with those provided for in the TLAC standard, the MREL should be expressed as a percentage of the total risk exposure amount and of the total exposure measure of the relevant institution or entity, and institutions or entities should meet simultaneously the levels resulting from the two measurements.
+
+(7)
+
+In order to facilitate long-term planning for the issue of instruments and to establish certainty with regard to the necessary buffers, markets need timely clarity about the eligibility criteria required for instruments to be recognised as TLAC or MREL eligible liabilities.
+
+(8)
+
+In order to ensure a level playing field for institutions and entities established in the Union, including on a global level, eligibility criteria for bail-inable liabilities for the MREL should be closely aligned with those laid down in Regulation (EU) No 575/2013 for the TLAC minimum requirement, but subject to the complementary adjustments and requirements introduced in this Directive. In particular, certain debt instruments with an embedded derivative component, such as certain structured notes, should be eligible, subject to certain conditions, to meet the MREL to the extent that they have a fixed or increasing principal amount repayable at maturity that is known in advance while only an additional return is linked to that derivative component and depends on the performance of a reference asset. In view of those conditions, those debt instruments are expected to be highly loss-absorbing and easy to bail-in in resolution. Where institutions or entities hold own funds in excess of own funds requirements, that fact should not in itself affect decisions concerning the determination of the MREL. Moreover, it should be possible for institutions and entities to meet any part of their MREL with own funds.
+
+(9)
+
+The scope of liabilities used to meet the MREL includes, in principle, all liabilities resulting from claims arising from ordinary unsecured creditors (non-subordinated liabilities) unless they do not meet specific eligibility criteria set out in this Directive. To enhance the resolvability of institutions and entities through an effective use of the bail-in tool, resolution authorities should be able to require that the MREL is met with own funds and other subordinated liabilities, in particular where there are clear indications that bailed-in creditors are likely to bear losses in resolution that would exceed the losses that they would incur under normal insolvency proceedings. The resolution authorities should assess the need to require institutions and entities to meet the MREL with own funds and other subordinated liabilities where the amount of liabilities excluded from the application of the bail-in tool reaches a certain threshold within a class of liabilities that includes MREL eligible liabilities. Institutions and entities should meet the MREL with own funds and other subordinated liabilities to the extent that is necessary to prevent their creditors from incurring losses that are greater than those that creditors would otherwise incur under normal insolvency proceedings.
+
+(10)
+
+Any subordination of debt instruments requested by resolution authorities for the MREL should be without prejudice to the possibility to partly meet the TLAC minimum requirement with non-subordinated debt instruments in accordance with Regulation (EU) No 575/2013 as permitted by the TLAC standard. For resolution entities of G-SIIs, resolution entities of resolution groups with assets above EUR 100 billion (top-tier banks), and for resolution entities of certain smaller resolution groups that are considered likely to pose a systemic risk in the event of failure, taking into account the prevalence of deposits and the absence of debt instruments in the funding model, limited access to capital markets for eligible liabilities and reliance on Common Equity Tier 1 capital to meet the MREL, resolution authorities should be able to require that a part of the MREL equal to the level of loss absorption and recapitalisation referred to in Articles 37(10) and 44(5) of Directive 2014/59/EU as amended by this Directive is met with own funds and other subordinated liabilities, including own funds used to comply with the combined buffer requirement set out in Directive 2013/36/EU.
+
+(11)
+
+At the request of a resolution entity, resolution authorities should be able to reduce the part of the MREL required to be met with own funds and other subordinated liabilities up to a limit that represents the proportion of the reduction possible under Article 72b(3) of Regulation (EU) No 575/2013 in relation to the TLAC minimum requirement laid down in that Regulation., Resolution authorities should be able to require, in accordance with the principle of proportionality, that the MREL is met with own funds and other subordinated liabilities to the extent that the overall level of the required subordination in the form of own funds and eligible liabilities items due to the obligation of institutions and entities to comply with the TLAC minimum requirement, the MREL and, where applicable, the combined buffer requirement under Directive 2013/36/EU, does not exceed the greater of the level of loss absorption and recapitalisation referred to in Articles 37(10) and 44(5) of Directive 2014/59/EU as amended by this Directive or the formula set out in this Directive based on the prudential requirements under Pillar 1 and Pillar 2 and the combined buffer requirement.
+
+(12)
+
+For specific top-tier banks, resolution authorities should, subject to conditions to be assessed by the resolution authority, limit the level of the minimum subordination requirement to a certain threshold, taking also into account the possible risk of disproportionately impacting the business model of those institutions. That limitation should be without prejudice to the possibility of setting a subordination requirement above this limit through the requirement of subordination under Pillar 2, subject also to the conditions applying to Pillar 2, on the basis of alternative criteria, namely impediments to resolvability, or the feasibility and credibility of the resolution strategy, or the riskiness of the institution.
+
+(13)
+
+The MREL should allow institutions and entities to absorb losses expected in resolution or at the point of non-viability, as appropriate, and to be recapitalised after the implementation of actions provided for in the resolution plan or after the resolution of the resolution group. The resolution authorities should, on the basis of the resolution strategy they have chosen, duly justify the imposed level of the MREL and should, without undue delay, review that level to reflect any changes in the level of the requirement referred to in Article 104a of Directive 2013/36/EU. As such, the imposed level of the MREL should be the sum of the amount of the losses expected in resolution that correspond to the institution's or entity's own funds requirements and the recapitalisation amount that allows the institution or entity post-resolution, or after the exercise of write down or conversion powers, to meet its own funds requirements necessary for being authorised to pursue its activities under the chosen resolution strategy. The resolution authority should adjust downwards or upwards the recapitalisation amounts for any changes resulting from the actions set out in the resolution plan.
+
+(14)
+
+The resolution authority should be able to increase the recapitalisation amount to ensure sufficient market confidence in the institution or entity after the implementation of the actions set out in the resolution plan. The requested level of the market confidence buffer should enable the institution or entity to continue to meet the conditions for authorisation for an appropriate period, including by allowing the institution or entity to cover the costs related to the restructuring of its activities following resolution, and to sustain sufficient market confidence. The market confidence buffer should be set by reference to part of the combined buffer requirement under Directive 2013/36/EU. The resolution authorities should adjust downwards the level of the market confidence buffer if a lower level is sufficient to ensure sufficient market confidence or should adjust upwards that level where a higher level is necessary to ensure that, following the actions set out in the resolution plan, the entity continues to meet the conditions for its authorisation for an appropriate period, and to sustain sufficient market confidence.
+
+(15)
+
+In line with Commission Delegated Regulation (EU) 2016/1075[^f00008], resolution authorities should examine the investor base of an individual institution's or entity's MREL instruments. If a significant part of an institution's or entity's MREL instruments is held by retail investors that might not have received an appropriate indication of relevant risks, that could in itself constitute an impediment to resolvability. In addition, if a large part of an institution's or entity's MREL instruments is held by other institutions or entities, the systemic implications of a write down or conversion could also constitute an impediment to resolvability. Where a resolution authority finds an impediment to resolvability resulting from the size and nature of a certain investor base, it should be able to recommend to an institution or entity that it address that impediment.
+
+(16)
+
+To ensure that retail investors do not invest excessively in certain debt instruments that are eligible for the MREL, Member States should ensure that the minimum denomination amount of such instruments is relatively high or that the investment in such instruments does not represent an excessive share of the investor's portfolio. This requirement should only apply to instruments issued after the date of transposition of this Directive. This requirement is not sufficiently covered in Directive 2014/65/EU, and should therefore be enforceable under Directive 2014/59/EU and should be without prejudice to investor protection rules provided for in Directive 2014/65/EU. Where, in the course of performing their duties, resolution authorities find evidence regarding potential infringements of Directive 2014/65/EU, they should be able to exchange confidential information with market conduct authorities for the purpose of enforcing that Directive. In addition, it should also be possible for Member States to further restrict the marketing and sale of certain other instruments to certain investors.
+
+(17)
+
+To enhance their resolvability, resolution authorities should be able to impose an institution-specific MREL on G-SIIs in addition to the TLAC minimum requirement set out in Regulation (EU) No 575/2013. That institution-specific MREL should be imposed if the TLAC minimum requirement is not sufficient to absorb losses and to recapitalise a G-SII under the chosen resolution strategy.
+
+(18)
+
+When setting the level of the MREL, resolution authorities should consider the degree of the systemic relevance of an institution or entity and the potential adverse impact of its failure on financial stability. Resolution authorities should take into account the need for a level playing field between G-SIIs and other comparable institutions or entities with systemic relevance within the Union. Thus, the MREL of institutions or entities that are not G-SIIs but whose systemic relevance within the Union is comparable to the systemic relevance of G-SIIs should not diverge disproportionately from the level and composition of the MREL generally set for G-SIIs.
+
+(19)
+
+In line with Regulation (EU) No 575/2013, institutions or entities that are identified as resolution entities should be subject to the MREL only at the consolidated resolution group level. That means that resolution entities should, in order to meet their MREL, be obliged to issue eligible instruments and items to external third-party creditors that would be bailed-in in the event that the resolution entity enters resolution.
+
+(20)
+
+Institutions or entities that are not resolution entities should comply with the MREL at individual level. The loss-absorption and recapitalisation needs of those institutions or entities should be generally provided by their respective resolution entities through direct or indirect acquisition by those resolution entities of own funds instruments and eligible liabilities instruments issued by those institutions or entities and through their write down or conversion into instruments of ownership at the point where those institutions or entities are no longer viable. As such, the MREL that applies to institutions or entities that are not resolution entities should be applied together and consistently with the requirements that apply to resolution entities. That should allow resolution authorities to resolve a resolution group without placing certain of its subsidiaries under resolution, thus avoiding potentially disruptive effects on the market. The application of the MREL to institutions or entities that are not resolution entities should comply with the chosen resolution strategy, and in particular should not change the ownership relationship between institutions or entities and their resolution group after those institutions or entities have been recapitalised.
+
+(21)
+
+If both the resolution entity or the parent and its subsidiaries are established in the same Member State and are part of the same resolution group, the resolution authority should be able to waive the application of the MREL that applies to those subsidiaries that are not resolution entities or to permit them to meet the MREL with collateralised guarantees between the parent and its subsidiaries, that can be triggered when the timing conditions equivalent to those allowing the write down or conversion of eligible liabilities are met. The collateral backing the guarantee should be highly liquid and have minimal market and credit risk.
+
+(22)
+
+Regulation (EU) No 575/2013 provides that competent authorities are able to waive the application of certain solvency and liquidity requirements for credit institutions permanently affiliated to a central body (‘cooperative networks’) where certain specific conditions are met. To take account of the specificities of such cooperative networks, resolution authorities should also be able to waive the application of the MREL that applies to such credit institutions and the central body under similar conditions to those set out in Regulation (EU) No 575/2013 where credit institutions and the central body are established in the same Member State. Resolution authorities should also be able to treat credit institutions and the central body as a whole when assessing the conditions for resolution depending on the features of the solidarity mechanism. Resolution authorities should be able to ensure compliance with the external MREL requirement of the resolution group as a whole in different ways, depending on the features of the solidarity mechanism of each group, by counting eligible liabilities of entities that, in accordance with the resolution plan, are required by the resolution authorities to issue instruments eligible for the MREL outside the resolution group.
+
+(23)
+
+To ensure appropriate levels of the MREL for resolution purposes, the authorities responsible for setting the level of the MREL should be the resolution authority of the resolution entity, the group-level resolution authority, that is the resolution authority of the ultimate parent undertaking, and resolution authorities of other entities of the resolution group. Any disputes between authorities should be subject to the powers of the European Banking Authority (EBA) under Regulation (EU) No 1093/2010 of the European Parliament and of the Council[^f00009] subject to the conditions and limitations set out in this Directive.
+
+(24)
+
+Competent authorities and resolution authorities should appropriately address and remedy any breaches of the TLAC minimum requirement and of the MREL. Given that a breach of those requirements could constitute an impediment to institution or group resolvability, the existing procedures to remove impediments to resolvability should be shortened, in order to address any breaches of the requirements expediently. Resolution authorities should also be able to require institutions or entities to modify the maturity profiles of eligible instruments and items and to prepare and implement plans to restore the level of those requirements. Resolution authorities should also be able to prohibit certain distributions where they consider that an institution or entity is failing to meet the combined buffer requirement under Directive 2013/36/EU when considered in addition to the MREL.
+
+(25)
+
+To ensure the transparent application of the MREL, institutions and entities should report to their competent and resolution authorities and should disclose regularly to the public their MREL, the levels of eligible and bail-inable liabilities and the composition of those liabilities, including their maturity profile and ranking in normal insolvency proceedings. For institutions or entities that are subject to the TLAC minimum requirement, there should be consistency in the frequency of supervisory reporting and disclosure of the institution-specific MREL as provided in this Directive with those provided in Regulation (EU) No 575/2013 for the TLAC minimum requirement. While total or partial exemptions from reporting and disclosure obligations for specified institutions or entities should be allowed in certain cases specified in this Directive, such exemptions should not limit the powers of resolution authorities to request information for the purpose of performing their duties under Directive 2014/59/EU as amended by this Directive.
+
+(26)
+
+The requirement to include contractual recognition of the effects of the bail-in tool in agreements or instruments creating liabilities governed by the laws of third countries should facilitate and improve the process for bailing in those liabilities in the event of resolution. Contractual arrangements, when properly drafted and widely adopted, can offer a workable solution in cases of cross-border resolution until a statutory approach under Union law is developed or incentives to choose the law of a Member State for contracts are developed or statutory recognition frameworks to enable effective cross-border resolution are adopted in all third-country jurisdictions. Even with statutory recognition frameworks in place, contractual recognition arrangements should help to reinforce the awareness of creditors under contractual arrangements that are not governed by the law of a Member State of possible resolution action with regard to institutions or entities that are governed by Union law. There might be instances, however, where it is impracticable for institutions or entities to include those contractual terms in agreements or instruments creating certain liabilities, in particular liabilities that are not excluded from the bail-in tool under Directive 2014/59/EU, covered deposits or own funds instruments.
+
+For example, under certain circumstances, it could be considered impracticable to include contractual recognition clauses in liability contracts in cases where it is illegal under the law of the third country for an institution or entity to include such clauses in agreements or instruments creating liabilities that are governed by the laws of that third country, where an institution or entity has no power at the individual level to amend the contractual terms as they are imposed by international protocols or are based on internationally agreed standard terms, or where the liability which would be subject to the contractual recognition requirement is contingent on a breach of contract or arises from guarantees, counter-guarantees or other instruments used in the context of trade finance operations. However, a refusal by the counterparty to agree to be bound by a contractual bail-in recognition clause should not as such be considered as a cause of impracticability. EBA should develop draft regulatory technical standards to be adopted by the Commission in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010 to more precisely identify cases of impracticability. When applying those regulatory technical standards and taking into account the specificities of the market concerned, the resolution authority should specify, where it deems it necessary, categories of liabilities where there might be grounds for impracticability. In that framework, it should be for an institution or an entity to determine whether the insertion of a bail-in recognition clause in a contract or class of contracts is impracticable. Institutions and entities should provide regular updates to resolution authorities, to keep them informed of progress towards implementing contractual recognition terms.
+
+In this context, institutions and entities should indicate the contracts or classes of contracts for which the insertion of a bail-in recognition clause is impracticable and indicate a reason for this assessment. Resolution authorities should, within a reasonable timeframe, assess an institution's or an entity's determination that it is impracticable to include contractual recognition clauses in liability contracts and act to address any erroneous assessments and impediments to resolvability as a result of contractual recognition clauses not being included. Institutions and entities should be prepared to justify their determination if requested by the resolution authority to do so. In addition, in order to ensure that the resolvability of institutions and entities is not affected, liabilities for which the relevant contractual provisions are not included should not be eligible for the MREL.
+
+(27)
+
+It is useful and necessary to adjust the power of resolution authorities to suspend, for a limited period, certain contractual obligations of institutions and entities. In particular, it should be possible for a resolution authority to exercise that power before an institution or an entity is put under resolution, from the moment when the determination is made that the institution or the entity is failing or likely to fail, if a private sector measure which, in the view of the resolution authority, would, within a reasonable timeframe, prevent the failure of the institution or the entity, is not immediately available, and if exercising that power is deemed necessary to avoid the further deterioration of the financial conditions of the institution or the entity. In that context, resolution authorities should be able to exercise that power if they are not satisfied with a proposed private sector measure that is immediately available. The power to suspend certain contractual obligations would also allow resolution authorities to establish whether a resolution action is in the public interest, to choose the most appropriate resolution tools, or to ensure the effective application of one or more resolution tools. The duration of the suspension should be limited to a maximum of two business days. Up to that maximum, the suspension could continue to apply after the resolution decision is taken.
+
+(28)
+
+In order for the power to suspend certain contractual obligations to be used in a proportionate way, the resolution authorities should have the possibility to take into account the circumstances of each individual case and to determine the scope of the suspension accordingly. Furthermore, they should be able to authorise certain payments – in particular, but not limited to, administrative expenses of the institution or entity concerned - on a case-by-case basis. It should also be possible to apply the power to suspend to eligible deposits. However, the resolution authorities should carefully assess the appropriateness of applying that power to certain eligible deposits, in particular covered deposits held by natural persons and micro, small and medium-sized enterprises, and should assess the risk that the application of a suspension in respect of such deposits would severely disrupt the functioning of financial markets. Where the power to suspend certain contractual obligations is exercised in respect of covered deposits, those deposits should not be considered to be unavailable for the purposes of Directive 2014/49/EU of the European Parliament and of the Council[^f00010]. In order to ensure that, during the suspension period, depositors do not encounter financial difficulties, Member States should be able to provide that they are allowed a certain daily amount of withdrawals.
+
+(29)
+
+During the period of the suspension, resolution authorities should also consider, based, inter alia, on the resolution plan for the institution or the entity, the possibility that the institution or the entity is ultimately not put under resolution but is instead wound up under national law. In such cases, resolution authorities should establish the arrangements they deem appropriate to achieve adequate coordination with the relevant national authorities and to ensure that the suspension does not impair the effectiveness of the winding up process.
+
+(30)
+
+The power to suspend payment or delivery obligations should not apply to obligations owed to systems or operators of systems designated in accordance with Directive 98/26/EC, to central banks, to authorised central counterparties (CCPs), or to third-country CCPs recognised by European Supervisory Authority (European Securities and Markets Authority) (ESMA). Directive 98/26/EC reduces the risk associated with participation in payment and securities settlement systems, in particular by reducing disruption in the event of the insolvency of a participant in such a system. To ensure that those protections apply appropriately in crisis situations, whilst maintaining appropriate certainty for operators of payment and securities systems and other market participants, Directive 2014/59/EU should be amended to provide that a crisis prevention measure, a suspension of obligation under Article 33a or a crisis management measure should not as such be deemed to constitute insolvency proceedings within the meaning of Directive 98/26/EC, provided that the substantive obligations under the contract continue to be performed. However, nothing in Directive 2014/59/EU should prejudice the operation of a system designated under Directive 98/26/EC or the right to collateral security guaranteed by that Directive.
+
+(31)
+
+A key aspect of effective resolution is ensuring that, once institutions or entities referred to in points (b), (c) or (d) of Article 1(1) of Directive 2014/59/EU enter resolution, their counterparties in financial contracts cannot terminate their positions solely as a result of the entry into resolution of those institutions or entities. In addition, resolution authorities should be empowered to suspend payment or delivery obligations due under a contract with an institution under resolution and should have the power to restrict, for a limited period of time, the rights of counterparties to close out, accelerate or otherwise terminate financial contracts. Those requirements do not apply directly to contracts under third-country law. In the absence of a statutory cross-border recognition framework, Member States should require the institutions and entities referred to in points (b), (c) and (d) of Article 1(1) of Directive 2014/59/EU to include a contractual term in relevant financial contracts recognising that the contract may be subject to the exercise of powers by resolution authorities to suspend certain payment and delivery obligations, to restrict the enforcement of security interests or to temporarily suspend termination rights and to be bound by the requirements of Article 68 as if the financial contract was governed by the law of the relevant Member State. Such an obligation should be provided to the extent that the contract falls within the scope of those provisions. Therefore, the obligation to insert the contractual clause does not arise with respect to Articles 33a, 69, 70 and 71 of Directive 2014/59/EU as amended by this Directive in, for example, contracts with central counterparties or operators of systems designated for the purposes of Directive 98/26/EC, since with respect to these contracts, even when they are governed by the law of the relevant Member State, resolution authorities do not have the powers in those Articles.
+
+(32)
+
+The exclusion of specific liabilities of institutions or entities from the application of the bail-in tool or from the power to suspend certain payment and delivery obligations, restrict the enforcement of security interests or temporarily suspend termination rights as provided for in Directive 2014/59/EU, should also cover liabilities in relation to CCPs established in the Union and to third-country CCPs recognised by ESMA.
+
+(33)
+
+In order to ensure a common understanding of terms used in various legal instruments, it is appropriate to incorporate in Directive 98/26/EC the definitions and concepts introduced by Regulation (EU) No 648/2012 of the European Parliament and of the Council[^f00011] regarding a ‘central counterparty’ or ‘CCP’ and ‘participant’.
+
+(34)
+
+Directive 98/26/EC reduces the risk associated with participation of institutions and other entities in payment and securities settlement systems, in particular by reducing disruption in the event of the insolvency of a participant in such a system. Recital (7) of that Directive clarifies that Member States have the option to apply the provisions of that Directive to their domestic institutions which participate directly in systems governed by the law of a third country and to collateral security provided in connection with the participation in such systems. In view of the global size of, and activities within, some systems governed by the laws of a third country and the increased participation of entities established in the Union in such systems, the Commission should review how the Member States apply the option envisaged in recital (7) of that Directive and assess the need for any further amendments to that Directive with regard to such systems.
+
+(35)
+
+In order to enable the effective application of the powers to reduce, write down or convert own funds items without breaching creditors' safeguards under this Directive, Member States should ensure that claims resulting from own funds items rank in normal insolvency proceedings below any other subordinated claims. Instruments which are only partly recognised as own funds should still be treated as claims resulting from own funds for their whole amount. Partial recognition could be a result, for example, of the application of grandfathering provisions which partly derecognise an instrument or a result of the application of the amortisation calendar laid down for Tier 2 instruments in Regulation (EU) No 575/2013.
+
+(36)
+
+Since the objective of this Directive, namely to lay down uniform rules on the recovery and resolution framework for institutions and entities, cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale of the action, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective.
+
+(37)
+
+In order to allow Member States an appropriate period for the transposition and application of this Directive in their national laws, they should have eighteen months from the date of its entry into force to do so. However, the provisions of this Directive concerning public disclosure should be applied from 1 January 2024, in order to ensure that institutions and entities across the Union are allowed an appropriate period to reach the required level of the MREL in an orderly fashion,
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+## Article 1. Amendments to Directive 2014/59/EU
+
+Directive 2014/59/EU is amended as follows:
+
+- ((1)) Article 2(1) is amended as follows:
+  - ((a)) point (5) is replaced by the following:
+
+    > - “subsidiary” means a subsidiary as defined in point (16) of Article 4(1) of Regulation (EU) No 575/2013, and for the purpose of applying Articles 7, 12, 17, 18, 45 to 45m, 59 to 62, 91 and 92 of this Directive to resolution groups referred to in point (b) of point (83b) of this paragraph, includes, where and as appropriate, credit institutions that are permanently affiliated to a central body, the central body itself, and their respective subsidiaries, taking into account the way in which such resolution groups comply with Article 45e(3) of this Directive;
+    > - “material subsidiary” means a material subsidiary as defined in point (135) of Article 4(1) of Regulation (EU) No 575/2013;
+
+    ;
+  - ((b)) the following point is inserted:
+
+    > - “Common Equity Tier 1 capital” means Common Equity Tier 1 capital as calculated in accordance with Article 50 of Regulation (EU) No 575/2013;
+
+    ;
+  - ((c)) in point (70), the words ‘eligible liabilities’ are replaced by the words ‘bail-inable liabilities’;
+  - ((d)) point (71) is replaced by the following:
+
+    > - “bail-inable liabilities” means the liabilities and capital instruments that do not qualify as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments of an institution or entity referred to in point (b), (c) or (d) of Article 1(1) and that are not excluded from the scope of the bail-in tool pursuant to Article 44(2);
+    > - “eligible liabilities” means bail-inable liabilities that fulfil, as applicable, the conditions of Article 45b or point (a) of Article 45f(2) of this Directive, and Tier 2 instruments that meet the conditions of point (b) of Article 72a(1) of Regulation (EU) No 575/2013;
+    > - “subordinated eligible instruments” means instruments that meet all of the conditions referred to in Article 72a of Regulation (EU) No 575/2013 other than paragraphs (3) to (5) of Article 72b of that Regulation;
+
+    ;
+  - ((e)) the following points are inserted:
+
+    > - “resolution entity” means:
+    >   - ((a)) a legal person established in the Union, which, in accordance with Article 12, is identified by the resolution authority as an entity in respect of which the resolution plan provides for resolution action; or
+    >   - ((b)) an institution that is not part of a group that is subject to consolidated supervision pursuant to Articles 111 and 112 of Directive 2013/36/EU, in respect of which the resolution plan drawn up pursuant to Article 10 of this Directive provides for resolution action;
+    > - “resolution group” means:
+    >   - ((a)) a resolution entity and its subsidiaries that are not:
+    >     - ((i)) resolution entities themselves;
+    >     - ((ii)) subsidiaries of other resolution entities; or
+    >     - ((iii)) entities established in a third country that are not included in the resolution group in accordance with the resolution plan and their subsidiaries; or
+    >   - ((b)) credit institutions permanently affiliated to a central body and the central body itself when at least one of those credit institutions or the central body is a resolution entity, and their respective subsidiaries;
+    > - “global systemically important institution” or “G-SII” means a G-SII as defined in point (133) of Article 4(1) of Regulation (EU) No 575/2013;
+
+    ;
+  - ((f)) the following point is added:
+
+    > - ((109)) “combined buffer requirement” means combined buffer requirement as defined in point (6) of Article 128 of Directive 2013/36/EU.
+
+    ;
+- ((2)) Article 10 is amended as follows:
+  - ((a)) in paragraph 6, the following subparagraphs are added:
+
+    > The review referred to in the first subparagraph of this paragraph shall be carried out after the implementation of resolution actions or the exercise of powers referred to in Article 59.
+    >
+    > When setting the deadlines referred to in points (o) and (p) of paragraph 7 of this Article in the circumstances referred to in the third subparagraph of this paragraph, the resolution authority shall take into account the deadline to comply with the requirement referred to in Article 104b of Directive 2013/36/EU.
+
+    ;
+  - ((b)) in paragraph 7, points (o) and (p) are replaced by the following:
+    - ((o)) the requirements referred to in Article 45e and 45f and a deadline to reach that level in accordance with Article 45m;
+    - ((p)) where a resolution authority applies Article 45b(4), (5) or (7), a timeline for compliance by the resolution entity in accordance with Article 45m;’;
+- ((3)) Article 12 is amended as follows:
+  - ((a)) paragraph 1 is replaced by the following:
+
+    > 1. Member States shall ensure that group-level resolution authorities, together with the resolution authorities of subsidiaries and after consulting the resolution authorities of significant branches insofar as is relevant to the significant branch, draw up group resolution plans. The group resolution plan shall identify measures to be taken in respect of:
+    >
+    > - (a) the Union parent undertaking;
+    > - (b) the subsidiaries that are part of the group and that are established in the Union;
+    > - (c) the entities referred to in points (c) and (d) of Article 1(1); and
+    > - (d) subject to Title VI, the subsidiaries that are part of the group and that are established outside the Union.
+    >
+    > In accordance with the measures referred to in the first subparagraph, the resolution plan shall identify for each group the resolution entities and the resolution groups.
+
+    ;
+  - ((b)) paragraph 3 is amended as follows:
+    - ((i)) points (a) and (b) are replaced by the following:
+      - ((a)) set out the resolution actions that are to be taken for resolution entities in the scenarios referred to in Article 10(3), and the implications of those resolution actions in respect of other group entities referred to in points (b), (c) and (d) of Article 1(1), the parent undertaking and subsidiary institutions;
+      - ((aa)) where a group comprises more than one resolution group, set out the resolution actions that are to be taken for the resolution entities of each resolution group and the implications of those actions on both of the following:
+        - ((i)) other group entities that belong to the same resolution group;
+        - ((ii)) other resolution groups;
+      - ((b)) examine the extent to which the resolution tools could be applied, and the resolution powers exercised, with respect to resolution entities established in the Union in a coordinated manner, including measures to facilitate the purchase by a third party of the group as a whole, of separate business lines or activities that are provided by a number of group entities, or of particular group entities or resolution groups, and identify any potential impediments to a coordinated resolution;’;
+    - ((ii)) point (e) is replaced by the following:
+
+      > (e)
+      >
+      > set out any additional actions, not referred to in this Directive, which the relevant resolution authorities intend to take in relation to the entities within each resolution group;
+
+      ;
+- ((4)) Article 13 is amended as follows:
+  - ((a)) in paragraph 4, the following subparagraph is inserted after the first subparagraph:
+
+    > Where a group is composed of more than one resolution group, the planning of the resolution actions referred to in point (aa) of Article 12(3) shall be included in a joint decision as referred to in the first subparagraph of this paragraph.
+
+    ;
+  - ((b)) in paragraph 6, the first subparagraph is replaced by the following:
+
+    > In the absence of a joint decision between the resolution authorities within four months, each resolution authority that is responsible for a subsidiary and that disagrees with the group resolution plan shall make its own decision and, where appropriate, identify the resolution entity and draw up and maintain a resolution plan for the resolution group composed of entities under its jurisdiction. Each of the individual decisions of disagreeing resolution authorities shall be fully substantiated, shall set out the reasons for the disagreement with the proposed group resolution plan and shall take into account the views and reservations of the other resolution authorities and competent authorities. Each resolution authority shall notify its decision to the other members of the resolution college.
+
+    ;
+- ((5)) Article 16 is amended as follows:
+  - ((a)) in paragraph 1, the second subparagraph is replaced by the following:
+
+    > A group shall be deemed to be resolvable if it is feasible and credible for the resolution authorities either to wind up group entities under normal insolvency proceedings or to resolve that group by applying resolution tools to, and exercising resolution powers with respect to, resolution entities of that group while avoiding, to the maximum extent possible, any significant adverse consequences for the financial systems of the Member States in which group entities or branches are located, or of other Member States or of the Union, including broader financial instability or system-wide events, with a view to ensuring the continuity of critical functions carried out by those group entities, where they can be easily separated in a timely manner, or by other means.
+    >
+    > Group-level resolution authorities shall notify EBA in a timely manner whenever a group is deemed not to be resolvable.
+
+    ;
+  - ((b)) the following paragraph is added:
+
+    > 4. Member States shall ensure that, where a group is composed of more than one resolution group, the authorities referred to in paragraph 1 shall assess the resolvability of each resolution group in accordance with this Article.
+    >
+    > The assessment referred to in the first subparagraph of this paragraph shall be performed in addition to the assessment of the resolvability of the entire group and shall be made within the decision-making procedure laid down in Article 13.
+
+    ;
+- ((6)) the following Article is inserted:
+
+  > **Article 16a. Power to prohibit certain distributions**
+  >
+  > 1. Where an entity is in a situation where it meets the combined buffer requirement when considered in addition to each of the requirements referred to in points (a), (b) and (c) of Article 141a(1) of Directive 2013/36/EU, but it fails to meet the combined buffer requirement when considered in addition to the requirements referred to in Articles 45c and 45d of this Directive, when calculated in accordance with point (a) of Article 45(2) of this Directive, the resolution authority of that entity shall have the power, in accordance with paragraphs 2 and 3 of this Article, to prohibit an entity from distributing more than the Maximum Distributable Amount related to the minimum requirement for own funds and eligible liabilities (“M-MDA”), calculated in accordance with paragraph 4 of this Article, through any of the following actions:
+  >
+  > - (a) make a distribution in connection with Common Equity Tier 1 capital;
+  > - (b) create an obligation to pay variable remuneration or discretionary pension benefits, or to pay variable remuneration if the obligation to pay was created at a time when the entity failed to meet the combined buffer requirement; or
+  > - (c) make payments on Additional Tier 1 instruments.
+  >
+  > Where an entity is in the situation referred to in the first subparagraph, it shall immediately notify the resolution authority thereof.
+  >
+  > 2. In the situation referred to in paragraph 1, the resolution authority of the entity, after consulting the competent authority, shall without unnecessary delay assess whether to exercise the power referred to in paragraph 1, taking into account all of the following elements:
+  >
+  > - (a) the reason, duration and magnitude of the failure and its impact on resolvability;
+  > - (b) the development of the entity's financial situation and the likelihood of it fulfilling, in the foreseeable future, the condition referred to in point (a) of Article 32(1);
+  > - (c) the prospect that the entity will be able to ensure compliance with the requirements referred to in paragraph 1 within a reasonable timeframe;
+  > - (d) where the entity is unable to replace liabilities that no longer meet the eligibility or maturity criteria laid down in Articles 72b and 72c of Regulation (EU) No 575/2013, or in Article 45b or Article 45f(2) of this Directive, if that inability is idiosyncratic or is due to market-wide disturbance;
+  > - (e) whether the exercise of the power referred to in paragraph 1 is the most adequate and proportionate means of addressing the situation of the entity, taking into account its potential impact on both the financing conditions and resolvability of the entity concerned.
+  >
+  > The resolution authority shall repeat its assessment of whether to exercise the power referred to in paragraph 1 at least every month for as long as the entity continues to be in the situation referred to in paragraph 1.
+  >
+  > 3. If the resolution authority finds that the entity is still in the situation referred to in paragraph 1 nine months after such situation has been notified by the entity, the resolution authority, after consulting the competent authority, shall exercise the power referred to in paragraph 1, except where the resolution authority finds, following an assessment, that at least two of the following conditions are fulfilled:
+  >
+  > - (a) the failure is due to a serious disturbance to the functioning of financial markets which leads to broad-based financial market stress across several segments of financial markets;
+  > - (b) the disturbance referred to in point (a) not only results in the increased price volatility of the own funds instruments and eligible liabilities instruments of the entity or increased costs for the entity, but also leads to a full or partial closure of markets which prevents the entity from issuing own funds instruments and eligible liabilities instruments on those markets;
+  > - (c) the market closure referred to in point (b) is observed not only for the concerned entity, but also for several other entities;
+  > - (d) the disturbance referred to in point (a) prevents the concerned entity from issuing own funds instruments and eligible liabilities instruments sufficient to remedy the failure; or
+  > - (e) an exercise of the power referred to in paragraph 1 leads to negative spill-over effects for part of the banking sector, thereby potentially undermining financial stability.
+  >
+  > Where the exception referred to in the first subparagraph applies, the resolution authority shall notify the competent authority of its decision and shall explain its assessment in writing.
+  >
+  > Every month, the resolution authority shall repeat its assessment of whether the exception referred to in the first subparagraph applies.
+  >
+  > 4. The M-MDA shall be calculated by multiplying the sum calculated in accordance with paragraph 5 by the factor determined in accordance with paragraph 6. The M-MDA shall be reduced by any amount resulting from any of the actions referred to in points (a), (b) or (c) of paragraph 1.
+  >
+  > 5. The sum to be multiplied in accordance with paragraph 4 shall consist of:
+  >
+  > - (a) any interim profits not included in Common Equity Tier 1 capital pursuant to Article 26(2) of Regulation (EU) No 575/2013, net of any distribution of profits or any payment resulting from the actions referred to in points (a), (b) or (c) of paragraph 1 of this Article;
+  >
+  >   plus
+  > - (b) any year-end profits not included in Common Equity Tier 1 capital pursuant to Article 26(2) of Regulation (EU) No 575/2013, net of any distribution of profits or any payment resulting from the actions referred to in points (a), (b) or (c) of paragraph 1 of this Article;
+  >
+  >   minus
+  > - (c) amounts which would be payable by tax if the items specified in points (a) and (b) of this paragraph were to be retained.
+  >
+  > 6. The factor referred to in paragraph 4 shall be determined as follows:
+  >
+  > - (a) where the Common Equity Tier 1 capital maintained by the entity which is not used to meet any of the requirements set out in Article 92a of Regulation (EU) No 575/2013 and in Articles 45c and 45d of this Directive, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013, is within the first (that is, the lowest) quartile of the combined buffer requirement, the factor shall be 0;
+  > - (b) where the Common Equity Tier 1 capital maintained by the entity which is not used to meet any of the requirements set out in Article 92a of Regulation (EU) No 575/2013 and in Articles 45c and 45d of this Directive, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013, is within the second quartile of the combined buffer requirement, the factor shall be 0,2;
+  > - (c) where the Common Equity Tier 1 capital maintained by the entity which is not used to meet the requirements set out in Article 92a of Regulation (EU) No 575/2013 and in Articles 45c and 45d of this Directive, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013, is within the third quartile of the combined buffer requirement, the factor shall be 0,4;
+  > - (d) where the Common Equity Tier 1 capital maintained by the entity which is not used to meet the requirements set out in Article 92a of Regulation (EU) No 575/2013 and in Articles 45c and 45d of this Directive, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013, is within the fourth (that is, the highest) quartile of the combined buffer requirement, the factor shall be 0,6;
+  >
+  > The lower and upper bounds of each quartile of the combined buffer requirement shall be calculated as follows:
+  >
+  > [formula: see source](https://www.legislation.gov.uk/eudr/2019/879) [formula: see source](https://www.legislation.gov.uk/eudr/2019/879)
+  >
+  > where “Q<sub>n</sub>” = the ordinal number of the quartile concerned.
+
+  ;
+- ((7)) Article 17 is amended as follows:
+  - ((a)) paragraph 1 is replaced by the following:
+
+    > 1. Member States shall ensure that when, pursuant to an assessment of resolvability for an entity carried out in accordance with Articles 15 and 16, a resolution authority, after consulting the competent authority, determines that there are substantive impediments to the resolvability of that entity, that resolution authority shall notify in writing that determination to the entity concerned, to the competent authority and to the resolution authorities of the jurisdictions in which significant branches are located.
+
+    ;
+  - ((b)) paragraphs 3 and 4 are replaced by the following:
+
+    > 3. Within four months of the date of receipt of a notification made in accordance with paragraph 1, the entity shall propose to the resolution authority possible measures to address or remove the substantive impediments identified in the notification.
+    >
+    > The entity shall, within two weeks of the date of receipt of a notification made in accordance with paragraph 1 of this Article, propose to the resolution authority possible measures and the timeline for their implementation to ensure that the entity complies with Article 45e or 45f of this Directive and the combined buffer requirement, where a substantive impediment to resolvability is due to either of the following situations:
+    >
+    > - (a) the entity meets the combined buffer requirement when considered in addition to each of the requirements referred to points (a), (b) and (c) of Article 141a(1) of Directive 2013/36/EU, but it does not meet the combined buffer requirement when considered in addition to the requirements referred to in Articles 45c and 45d of this Directive when calculated in accordance with point (a) of Article 45(2) of this Directive; or
+    > - (b) the entity does not meet the requirements referred to in Articles 92a and 494 of Regulation (EU) No 575/2013 or the requirements referred to in Articles 45c and 45d of this Directive.
+    >
+    > The timeline for the implementation of measures proposed under the second subparagraph shall take into account the reasons for the substantive impediment.
+    >
+    > The resolution authority, after consulting the competent authority, shall assess whether the measures proposed under the first and second subparagraphs effectively address or remove the substantive impediment in question.
+    >
+    > 4. Where the resolution authority finds that the measures proposed by an entity in accordance with paragraph 3 do not effectively reduce or remove the impediments in question, it shall, either directly or indirectly through the competent authority, require the entity to take alternative measures that may achieve that objective, and notify in writing those measures to the entity, which shall propose within one month a plan to comply with them.
+    >
+    > In identifying alternative measures, the resolution authority shall demonstrate how the measures proposed by the entity would not be able to remove the impediments to resolvability and how the alternative measures proposed are proportionate in removing them. The resolution authority shall take into account the threat that those impediments to resolvability present for financial stability and the effect of the measures on the business of the entity, its stability and its ability to contribute to the economy.
+
+    ;
+  - ((c)) paragraph 5 is amended as follows:
+    - ((i)) in points (a), (b), (d), (e), (g) and (h) the word ‘institution’ is replaced by the word ‘entity’;
+    - ((ii)) the following point is inserted:
+
+      > (ha)
+      >
+      > require an institution or an entity referred to in point (b), (c) or (d) of Article 1(1) of this Directive to submit a plan to restore compliance with the requirements of Articles 45e or 45f of this Directive, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 and, where applicable, with the combined buffer requirement and with the requirements referred to in Article 45e or 45f of this Directive, expressed as a percentage of the total exposure measure referred to in Articles 429 and 429a of Regulation (EU) No 575/2013;
+
+      ;
+    - ((iii)) points (i), (j) and (k) are replaced by the following:
+
+      > - ((i)) require an institution or entity referred to in point (b), (c) or (d) of Article 1(1) to issue eligible liabilities to meet the requirements of Article 45e or Article 45f;
+      > - ((j)) require an institution or entity referred to in point (b), (c) or (d) of Article 1(1), to take other steps to meet the minimum requirement for own funds and eligible liabilities under Article 45e or Article 45f, including in particular to attempt to renegotiate any eligible liability, additional Tier 1 instrument or Tier 2 instrument it has issued, with a view to ensuring that any decision of the resolution authority to write down or convert that liability or instrument would be effected under the law of the jurisdiction governing that liability or instrument;
+      > - ((ja)) for the purpose of ensuring ongoing compliance with Article 45e or Article 45f, require an institution or entity referred to in point (b), (c) or (d) of Article 1(1), to change the maturity profile of:
+      >   - ((i)) own funds instruments, after having obtained the agreement of the competent authority, and
+      >   - ((ii)) eligible liabilities referred to in Article 45b and in point (a) of Article 45f(2);
+      > - ((k)) where an entity is the subsidiary of a mixed-activity holding company, requiring that the mixed-activity holding company set up a separate financial holding company to control the entity, if necessary in order to facilitate the resolution of the entity and to avoid the application of the resolution tools and the exercise of the powers referred to in Title IV having an adverse effect on the non-financial part of the group.
+
+      ;
+  - ((d)) paragraph 7 is replaced by the following:
+
+    > 7. Before identifying any measure referred to in paragraph 4, the resolution authority, after consulting the competent authority and, if appropriate, the designated national macroprudential authority, shall duly consider the potential effect of those measures on the particular entity, on the internal market for financial services, and on the financial stability in other Member States and in the Union as a whole.
+
+    ;
+- ((8)) in Article 18, paragraphs 1 to 7 are replaced by the following:
+
+  > 1. The group-level resolution authority together with the resolution authorities of subsidiaries, after consulting the supervisory college and the resolution authorities of the jurisdictions in which significant branches are located insofar as is relevant to the significant branch, shall consider the assessment required by Article 16 within the resolution college and shall take all reasonable steps to reach a joint decision on the application of measures identified in accordance with Article 17(4) in relation to all resolution entities and their subsidiaries that are entities referred to in Article 1(1) and are part of the group.
+  >
+  > 2. The group-level resolution authority, in cooperation with the consolidating supervisor and EBA in accordance with Article 25(1) of Regulation (EU) No 1093/2010, shall prepare and submit a report to the Union parent undertaking, to the resolution authorities of subsidiaries, which shall provide it to the subsidiaries within their remit, and to the resolution authorities of jurisdictions in which significant branches are located. The report shall be prepared after consulting the competent authorities, and shall analyse the substantive impediments to the effective application of the resolution tools and the exercising of the resolution powers in relation to the group, and also in relation to resolution groups where a group is composed of more than one resolution group. The report shall consider the impact on the group's business model and recommend any proportionate and targeted measures that, in the view of the group-level resolution authority, are necessary or appropriate to remove those impediments.
+  >
+  > Where an impediment to the resolvability of the group is due to a situation of a group entity referred to in the second subparagraph of Article 17(3), the group-level resolution authority shall notify its assessment of that impediment to the Union parent undertaking after consulting the resolution authority of the resolution entity and the resolution authorities of its subsidiary institutions.
+  >
+  > 3. Within four months of the date of receipt of the report, the Union parent undertaking may submit observations and propose to the group-level resolution authority alternative measures to remedy the impediments identified in the report.
+  >
+  > Where the impediments identified in the report are due to a situation of a group entity referred to in the second subparagraph of Article 17(3) of this Directive, the Union parent undertaking shall, within two weeks of the date of receipt of a notification made in accordance with the second subparagraph of paragraph 2 of this Article, propose to the group-level resolution authority possible measures and the timeline for their implementation to ensure that the group entity complies with the requirements referred to in Articles 45e or 45f of this Directive expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 and, where applicable, with the combined buffer requirement, and with the requirements referred to in Article 45e and 45f of this Directive expressed as a percentage of the total exposure measure referred to in Articles 429 and 429a of Regulation (EU) No 575/2013.
+  >
+  > The timeline for the implementation of measures proposed under the second subparagraph shall take into account the reasons for the substantive impediment. The resolution authority, after consulting the competent authority, shall assess whether those measures effectively address or remove the substantive impediment.
+  >
+  > 4. The group-level resolution authority shall communicate any measure proposed by the Union parent undertaking to the consolidating supervisor, EBA, the resolution authorities of the subsidiaries and the resolution authorities of the jurisdictions in which significant branches are located insofar as is relevant to the significant branch. The group-level resolution authorities and the resolution authorities of the subsidiaries, after consulting the competent authorities and the resolution authorities of jurisdictions in which significant branches are located, shall do everything within their power to reach a joint decision within the resolution college regarding the identification of substantive impediments, and if necessary, the assessment of the measures proposed by the Union parent undertaking and the measures required by the authorities in order to address or remove the impediments, which shall take into account the potential impact of the measures in all Member States where the group operates.
+  >
+  > 5. The joint decision shall be reached within four months of submission of any observations by the Union parent undertaking. Where the Union parent undertaking has not submitted any observations, the joint decision shall be reached within one month from the expiry of the four-month period referred to in the first subparagraph of paragraph 3.
+  >
+  > The joint decision concerning the impediment to resolvability due to a situation referred to in the second subparagraph of Article 17(3) shall be reached within two weeks of the submission of any observations by the Union parent undertaking in accordance with paragraph 3 of this Article.
+  >
+  > The joint decision shall be reasoned and set out in a document which shall be provided by the group-level resolution authority to the Union parent undertaking.
+  >
+  > EBA may, at the request of a resolution authority, assist the resolution authorities in reaching a joint decision in accordance with point (c) of the second paragraph of Article 31 of Regulation (EU) No 1093/2010.
+  >
+  > 6. In the absence of a joint decision within the relevant period referred to in paragraph 5, the group-level resolution authority shall make its own decision on the appropriate measures to be taken in accordance with Article 17(4) at the group level.
+  >
+  > The decision shall be fully reasoned and shall take into account the views and reservations of other resolution authorities. The decision shall be provided to the Union parent undertaking by the group-level resolution authority.
+  >
+  > If, at the end of the relevant period referred to in paragraph 5 of this Article, a resolution authority has referred a matter mentioned in paragraph 9 of this Article to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the group-level resolution authority shall defer its decision and await any decision that EBA may take in accordance with Article 19(3) of that Regulation, and shall take its decision in accordance with the decision of EBA. The relevant period referred to in paragraph 5 of this Article shall be deemed to be the conciliation period within the meaning of Regulation (EU) No 1093/2010. EBA shall take its decision within one month. The matter shall not be referred to EBA after the end of the relevant period referred to in paragraph 5 of this Article or after a joint decision has been reached. In the absence of an EBA decision, the decision of the group-level resolution authority shall apply.
+  >
+  > 6a. In the absence of a joint decision within the relevant period referred to in paragraph 5 of this Article, the resolution authority of the relevant resolution entity shall make its own decision on the appropriate measures to be taken in accordance with Article 17(4) at the resolution group level.
+  >
+  > The decision referred to in the first subparagraph shall be fully reasoned and shall take into account the views and reservations of resolution authorities of other entities of the same resolution group and the group-level resolution authority. The decision shall be provided to the resolution entity by the relevant resolution authority.
+  >
+  > If, at the end of the relevant period referred to in paragraph 5 of this Article, a resolution authority has referred a matter mentioned in paragraph 9 of this Article to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the resolution authority of the resolution entity shall defer its decision and await any decision that EBA may take in accordance with Article 19(3) of that Regulation, and shall take its decision in accordance with the decision of EBA. The relevant period referred to in paragraph 5 of this Article shall be deemed to be the conciliation period within the meaning of Regulation (EU) No 1093/2010. EBA shall take its decision within one month. The matter shall not be referred to EBA after the end of the relevant period referred to in paragraph 5 of this Article or after a joint decision has been reached. In the absence of an EBA decision, the decision of the resolution authority of the resolution entity shall apply.
+  >
+  > 7. In the absence of a joint decision, the resolution authorities of subsidiaries that are not resolution entities shall make their own decisions on the appropriate measures to be taken by subsidiaries at individual level in accordance with Article 17(4).
+  >
+  > The decision shall be fully reasoned and shall take into account the views and reservations of the other resolution authorities. The decision shall be provided to the subsidiary concerned and to the resolution entity of the same resolution group, to the resolution authority of that resolution entity and, where different, to the group-level resolution authority.
+  >
+  > If, at the end of the relevant period referred to in paragraph 5 of this Article, a resolution authority has referred a matter mentioned in paragraph 9 of this Article to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the resolution authority of the subsidiary shall defer its decision and await any decision that EBA may take in accordance with Article 19(3) of that Regulation, and shall take its decision in accordance with the decision of EBA. The relevant period referred to in paragraph 5 of this Article shall be deemed to be the conciliation period within the meaning of Regulation (EU) No 1093/2010. EBA shall take its decision within one month. The matter shall not be referred to EBA after the end of the relevant period referred to in paragraph 5 of this Article or after a joint decision has been reached. In the absence of an EBA decision, the decision of the resolution authority of the subsidiary shall apply.
+
+  ;
+- ((9)) in Article 32(1), point (b) is replaced by the following:
+
+  > (b)
+  >
+  > having regard to timing and other relevant circumstances, there is no reasonable prospect that any alternative private sector measures, including measures by an IPS, or supervisory action, including early intervention measures or the write down or conversion of relevant capital instruments and eligible liabilities in accordance with Article 59(2) taken in respect of the institution, would prevent the failure of the institution within a reasonable timeframe;
+
+  ;
+- ((10)) the following Articles are inserted:
+
+  > **Article 32a. Conditions for resolution with regard to a central body and credit institutions permanently affiliated to a central body**
+  >
+  > Member States shall ensure that resolution authorities may take a resolution action in relation to a central body and all credit institutions permanently affiliated to it that are part of the same resolution group when that resolution group complies as a whole with the conditions established in Article 32(1).
+  >
+  > **Article 32b. Insolvency proceedings in respect of institutions and entities that are not subject to resolution action**
+  >
+  > Member States shall ensure that an institution or entity referred to in points (b), (c) or (d) of Article 1(1) in relation to which the resolution authority considers that the conditions in points (a) and (b) of Article 32(1) are met, but that a resolution action would not be in the public interest in accordance with point (c) of Article 32(1), shall be wound up in an orderly manner in accordance with the applicable national law.
+
+  ;
+- ((11)) in Article 33, paragraphs 2, 3 and 4 are replaced by the following:
+
+  > 2. Member States shall ensure that resolution authorities take a resolution action in relation to an entity referred to in point (c) or (d) of Article 1(1), when that entity meets the conditions laid down in Article 32(1).
+  >
+  > 3. Where the subsidiary institutions of a mixed-activity holding company are held directly or indirectly by an intermediate financial holding company, the resolution plan shall provide that the intermediate financial holding company is identified as a resolution entity and Member States shall ensure that resolution actions for the purposes of group resolution are taken in relation to the intermediate financial holding company. Member States shall ensure that resolution authorities do not take resolution actions for the purposes of group resolution in relation to the mixed-activity holding company.
+  >
+  > 4. Subject to paragraph 3 of this Article and notwithstanding the fact that an entity referred to in point (c) or (d) of Article 1(1) does not meet the conditions laid down in Article 32(1), resolution authorities may take resolution action with regard to an entity referred to in point (c) or (d) of Article 1(1) where all of the following conditions are fulfilled:
+  >
+  > - (a) the entity is a resolution entity;
+  > - (b) one or more of the subsidiaries of the entity that are institutions, but not resolution entities, comply with the conditions laid down in Article 32(1);
+  > - (c) assets and liabilities of the subsidiaries referred to in point (b) are such that the failure of those subsidiaries threatens the resolution group as a whole, and resolution action with regard to the entity is necessary either for the resolution of such subsidiaries which are institutions or for the resolution of the relevant resolution group as a whole.
+
+  ;
+- ((12)) the following Article is inserted:
+
+  > **Article 33a. Power to suspend certain obligations**
+  >
+  > 1. Member States shall ensure that resolution authorities, after consulting the competent authorities, which shall reply in a timely manner, have the power to suspend any payment or delivery obligations pursuant to any contract to which an institution or an entity referred to in points (b), (c) or (d) of Article 1(1) is a party, where all of the following conditions are met:
+  >
+  > - (a) a determination that the institution or entity is failing or likely to fail has been made under point (a) of Article 32(1);
+  > - (b) there is no immediately available private sector measure referred to in point (b) of Article 32(1) that would prevent the failure of the institution or entity;
+  > - (c) the exercise of the power to suspend is deemed necessary to avoid the further deterioration of the financial conditions of the institution or entity; and
+  > - (d) the exercise of the power to suspend is either:
+  >   - ((i)) necessary to reach the determination provided for in point (c) of Article 32(1); or
+  >   - ((ii)) necessary to choose the appropriate resolution actions or to ensure the effective application of one or more resolution tools.
+  >
+  > 2. The power referred to in paragraph 1 of this Article shall not apply to payment or delivery obligations to the following:
+  >
+  > - (a) systems and operators of systems designated in accordance with Directive 98/26/EC;
+  > - (b) CCPs authorised in the Union pursuant to Article 14 of Regulation (EU) No 648/2012 and third-country CCPs recognised by ESMA pursuant to Article 25 of that Regulation;
+  > - (c) central banks.
+  >
+  > The resolution authorities shall set the scope of the power referred to in paragraph 1 of this Article having regard to the circumstances of each case. In particular, resolution authorities shall carefully assess the appropriateness of extending the suspension to eligible deposits according to the definition in point (4) of Article 2(1) of Directive 2014/49/EU, especially to covered deposits held by natural persons and micro, small and medium-sized enterprises.
+  >
+  > 3. Member States may provide that where the power to suspend payment or delivery obligations is exercised in respect of eligible deposits, resolution authorities ensure that depositors have access to an appropriate daily amount from those deposits.
+  >
+  > 4. The period of the suspension pursuant to paragraph 1 shall be as short as possible and shall not exceed the minimum period of time that the resolution authority considers necessary for the purposes indicated in points (c) and (d) of paragraph 1 and in any event shall not last longer than the period from the publication of a notice of suspension pursuant to paragraph 8 to midnight in the Member State of the resolution authority of the institution or entity at the end of the business day following the day of the publication.
+  >
+  > At the expiry of the period of suspension referred to in the first subparagraph, the suspension shall cease to have effect.
+  >
+  > 5. When exercising the power referred to in paragraph 1 of this Article, resolution authorities shall have regard to the impact the exercise of that power might have on the orderly functioning of financial markets and shall consider the existing national rules, as well as supervisory and judicial powers, to safeguard creditors' rights and equal treatment of creditors in normal insolvency proceedings. Resolution authorities shall in particular have regard to the potential application of national insolvency proceedings to the institution or entity as a result of the determination in point (c) of Article 32(1) and shall make the arrangements they deem appropriate to ensure adequate coordination with the national administrative or judicial authorities.
+  >
+  > 6. When payment or delivery obligations under a contract are suspended pursuant to paragraph 1, the payment or delivery obligations of any counterparties to that contract shall be suspended for the same period of time.
+  >
+  > 7. A payment or delivery obligation that would have been due during the period of the suspension shall be due immediately upon expiry of that period.
+  >
+  > 8. Member States shall ensure that resolution authorities notify the institution or the entity referred to in point (b), (c) or (d) of Article 1(1) and the authorities referred to in points (a) to (h) of Article 83(2) without delay when exercising the power referred to in paragraph 1 of this Article after a determination has been made that the institution is failing or likely to fail pursuant to point (a) of Article 32(1) and before the resolution decision is taken.
+  >
+  > The resolution authority shall publish or ensure the publication of the order or instrument by which obligations are suspended under this Article and the terms and period of suspension, by the means referred to in Article 83(4).
+  >
+  > 9. This Article is without prejudice to the provisions contained in the national law of Member States granting powers to suspend payment or delivery obligations of the institutions and entities referred to in paragraph 1 of this Article before a determination is made that those institutions or entities are failing or likely to fail under point (a) of Article 32(1) or to suspend payment or delivery obligations of institutions or entities which are to be wound up under normal insolvency proceedings, and that exceed the scope and duration provided for in this Article. Such powers shall be exercised in accordance with the scope, duration and conditions provided for in the relevant national laws. The conditions provided for in this Article shall be without prejudice to the conditions related to such power of suspension payment or delivery obligations.
+  >
+  > 10. Member States shall ensure that when a resolution authority exercises the power to suspend payment or delivery obligations with respect to an institution or an entity referred to in points (b), (c) or (d) of Article 1(1) pursuant to paragraph 1 of this Article, the resolution authority is also able, for the duration of that suspension, to exercise the power to:
+  >
+  > - (a) restrict secured creditors of that institution or entity from enforcing security interests in relation to any of the assets of that institution or entity for the same duration, in which case Article 70(2), (3) and (4) shall apply; and
+  > - (b) suspend the termination rights of any party to a contract with that institution or entity for the same duration, in which case Article 71(2) to (8) shall apply.
+  >
+  > 11. In the event that, after making a determination that an institution or entity is failing or likely to fail pursuant to point (a) of Article 32(1), a resolution authority has exercised the power to suspend payment or delivery obligations in the circumstances set out in paragraph 1 or 10 of this Article, and if resolution action is subsequently taken with respect to that institution or entity, the resolution authority shall not exercise its powers under Article 69(1), 70(1) or 71(1) with respect to that institution or entity.
+
+  ;
+- ((13)) Article 36 is amended as follows:
+  - ((a)) in paragraph 1, the words ‘capital instruments’ are replaced by the words ‘capital instruments and eligible liabilities in accordance with Article 59’;
+  - ((b)) paragraph 4 is amended as follows:
+    - ((i)) the words ‘capital instruments’ are replaced by the words ‘capital instruments and eligible liabilities in accordance with Article 59’;
+    - ((ii)) in point (d), the words ‘eligible liabilities’ are replaced by the words ‘bail-inable liabilities’;
+  - ((c)) in paragraphs 5, 12 and 13, the words ‘capital instruments’ are replaced by the words ‘capital instruments and eligible liabilities in accordance with Article 59’;
+- ((14)) Article 37 is amended as follows:
+  - ((a)) in paragraph 2, the words ‘capital instruments’ are replaced by the words ‘capital instruments and eligible liabilities’;
+  - ((b)) in point (a) of paragraph 10, the words ‘eligible liabilities’ are replaced by the words ‘bail-inable liabilities’;
+- ((15)) Article 44 is amended as follows:
+  - ((a)) paragraph 2 is amended as follows:
+    - ((i)) point (f) is replaced by the following:
+
+      > (f)
+      >
+      > liabilities with a remaining maturity of less than seven days, owed to systems or operators of systems designated in accordance with Directive 98/26/EC or to their participants and arising from the participation in such a system, or to CCPs authorised in the Union pursuant to Article 14 of Regulation (EU) No 648/2012 and third-country CCPs recognised by ESMA pursuant to Article 25 of that Regulation;
+
+      ;
+    - ((ii)) the following point is added:
+
+      > (h)
+      >
+      > liabilities to institutions or entities referred to in point (b), (c) or (d) of Article 1(1) that are part of the same resolution group without being themselves resolution entities, regardless of their maturities, except where those liabilities rank below ordinary unsecured liabilities under the relevant national law governing normal insolvency proceedings applicable on the date of transposition of this Directive; in cases where that exception applies, the resolution authority of the relevant subsidiary that is not a resolution entity shall assess whether the amount of items complying with Article 45f(2) is sufficient to support the implementation of the preferred resolution strategy.
+
+      ;
+    - ((iii)) in the fifth subparagraph, the words ‘liabilities eligible for a bail-in tool’ are replaced by the words ‘bail-inable liabilities’;
+  - ((b)) in paragraph 3, the second subparagraph is replaced by the following:
+
+    > Resolution authorities shall carefully assess whether liabilities to institutions or entities referred to in point (b), (c) or (d) of Article 1(1) that are part of the same resolution group without being themselves resolution entities and that are not excluded from the application of the write down and conversion powers under point (h) of paragraph (2) of this Article should be excluded or partially excluded under points (a) to (d) of the first subparagraph of this paragraph to ensure the effective implementation of the resolution strategy.
+    >
+    > Where a resolution authority decides to exclude or partially exclude a bail-inable liability or class of bail-inable liabilities under this paragraph, the level of write down or conversion applied to other bail-inable liabilities may be increased to take account of such exclusions, provided that the level of write down and conversion applied to other bail-inable liabilities complies with the principle in point (g) of Article 34(1).
+
+    ;
+  - ((c)) paragraph 4 is replaced by the following:
+
+    > 4. Where a resolution authority decides to exclude or partially exclude a bail-inable liability or class of bail-inable liabilities pursuant to this Article, and the losses that would have been borne by those liabilities have not been passed on fully to other creditors, the resolution financing arrangement may make a contribution to the institution under resolution to do one or both of the following:
+    >
+    > - (a) cover any losses which have not been absorbed by bail-inable liabilities and restore the net asset value of the institution under resolution to zero in accordance with point (a) of Article 46(1);
+    > - (b) purchase shares or other instruments of ownership or capital instruments in the institution under resolution, in order to recapitalise the institution in accordance with point (b) of Article 46(1).
+
+    ;
+  - ((d)) in point (a) of paragraph 5, the words ‘eligible liabilities’ are replaced by the words ‘bail-inable liabilities’;
+- ((16)) the following Article is inserted:
+
+  > **Article 44a. Selling of subordinated eligible liabilities to retail clients**
+  >
+  > 1. Member States shall ensure that a seller of eligible liabilities which meet all conditions referred to in Article 72a of Regulation (EU) No 575/2013 except for point (b) of Article 72a(1) and paragraphs 3 to 5 of Article 72b of that Regulation sells such liabilities to a retail client, as defined in point 11 of Article 4(1) of Directive 2014/65/EU, only where all of the following conditions are fulfilled:
+  >
+  > - (a) the seller has performed a suitability test in accordance with Article 25(2) of Directive 2014/65/EU;
+  > - (b) the seller is satisfied, on the basis of the test referred to in point (a), that such eligible liabilities are suitable for that retail client;
+  > - (c) the seller documents the suitability in accordance with Article 25(6) of Directive 2014/65/EU.
+  >
+  > Notwithstanding the first subparagraph, Member States may provide that the conditions laid down in points (a) to (c) of that subparagraph shall apply to sellers of other instruments qualifying as own funds or bail-inable liabilities.
+  >
+  > 2. Where the conditions set out in paragraph 1 are fulfilled and the financial instrument portfolio of that retail client does not, at the time of the purchase, exceed EUR 500 000 the seller shall ensure, on the basis of the information provided by the retail client in accordance with paragraph 3, that both of the following conditions are met at the time of the purchase:
+  >
+  > - (a) the retail client does not invest an aggregate amount exceeding 10 % of that client's financial instrument portfolio in liabilities referred to in paragraph 1;
+  > - (b) that initial investment amount invested in one or more liabilities instruments referred to in paragraph 1 is at least EUR 10 000.
+  >
+  > 3. The retail client shall provide the seller with accurate information on the retail client's financial instrument portfolio, including any investments in liabilities referred to in paragraph 1.
+  >
+  > 4. For the purposes of paragraphs 2 and 3, the retail client's financial instrument portfolio shall include cash deposits and financial instruments, but shall exclude any financial instruments that have been given as collateral.
+  >
+  > 5. Without prejudice to Article 25 of Directive 2014/65/EU, and by way of derogation from the requirements set out in paragraphs 1 to 4 of this Article, Member States may set a minimum denomination amount of at least EUR 50 000 for liabilities referred to in paragraph 1, taking into account the market conditions and practices of that Member State as well as existing consumer protection measures within the jurisdiction of that Member State.
+  >
+  > 6. Where the value of total assets of entities referred to in Article 1(1) that are established in a Member State and are subject to the requirement referred to in Article 45e does not exceed EUR 50 billion, that Member State may, by way of derogation from the requirements set out in paragraphs 1 to 5 of this Article, apply only the requirement set out in paragraph 2(b) of this Article.
+  >
+  > 7. Member States shall not be required to apply this Article to liabilities referred to in paragraph 1 issued before 28 December 2020.
+
+  ;
+- ((17)) Article 45 is replaced by the following Articles:
+
+  > **Article 45. Application and calculation of the minimum requirement for own funds and eligible liabilities**
+  >
+  > 1. Member States shall ensure that institutions and entities referred to in points (b), (c) and (d) of Article 1(1) meet, at all times, the requirements for own funds and eligible liabilities where required by and in accordance with this Article and Articles 45a to 45i.
+  >
+  > 2. The requirement referred to in paragraph 1 of this Article shall be calculated in accordance with Article 45c(3), (5) or (7), as applicable, as the amount of own funds and eligible liabilities and expressed as percentages of:
+  >
+  > - (a) the total risk exposure amount of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and
+  > - (b) the total exposure measure of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Articles 429 and 429a of Regulation (EU) No 575/2013.
+  >
+  > **Article 45a. Exemption from the minimum requirement for own funds and eligible liabilities**
+  >
+  > 1. Notwithstanding Article 45, resolution authorities shall exempt from the requirement laid down in Article 45(1) mortgage credit institutions financed by covered bonds which are not allowed to receive deposits under national law, provided that all of the following conditions are met:
+  >
+  > - (a) those institutions will be wound up in national insolvency proceedings, or in other types of proceedings laid down for those institutions and implemented in accordance with Article 38, 40 or 42; and
+  > - (b) the proceedings referred to in point (a), ensure that creditors of those institutions, including holders of covered bonds, where relevant, bear losses in a way that meets the resolution objectives.
+  >
+  > 2. Institutions exempted from the requirement laid down in Article 45(1) shall not be part of the consolidation referred to in Article 45e(1).
+  >
+  > **Article 45b. Eligible liabilities for resolution entities**
+  >
+  > 1. Liabilities shall be included in the amount of own funds and eligible liabilities of resolution entities only where they satisfy the conditions referred to in the following Articles of Regulation (EU) No 575/2013:
+  >
+  > - (a) Article 72a;
+  > - (b) Article 72b, with the exception of point (d) of paragraph 2; and
+  > - (c) Article 72c.
+  >
+  > By way of derogation from the first subparagraph of this paragraph, where this Directive refers to the requirements in Article 92a or Article 92b of Regulation (EU) No 575/2013, for the purpose of those Articles, eligible liabilities shall consist of eligible liabilities as defined in Article 72k of that Regulation and determined in accordance with Chapter 5a of Title I of Part Two of that Regulation.
+  >
+  > 2. Liabilities that arise from debt instruments with embedded derivatives, such as structured notes, that meet the conditions of the first subparagraph of paragraph 1, except for point (l) of Article 72a(2) of Regulation (EU) No 575/2013, shall be included in the amount of own funds and eligible liabilities only where one of the following conditions is met:
+  >
+  > - (a) the principal amount of the liability arising from the debt instrument is known at the time of issue, is fixed or increasing, and is not affected by an embedded derivative feature, and the total amount of the liability arising from the debt instrument, including the embedded derivative, can be valued on a daily basis by reference to an active and liquid two-way market for an equivalent instrument without credit risk, in accordance with Articles 104 and 105 of Regulation (EU) No 575/2013; or
+  > - (b) the debt instrument includes a contractual term that specifies that the value of the claim in cases of the insolvency of the issuer and of the resolution of the issuer is fixed or increasing, and does not exceed the initially paid-up amount of the liability.
+  >
+  > Debt instruments referred to in the first subparagraph, including their embedded derivatives, shall not be subject to any netting agreement and the valuation of such instruments shall not be subject to Article 49(3).
+  >
+  > The liabilities referred to in the first subparagraph shall only be included in the amount of own funds and eligible liabilities with respect to the part of the liability that corresponds to the principal amount referred to in point (a) of that subparagraph or to the fixed or increasing amount referred to in point (b) of that subparagraph.
+  >
+  > 3. Where liabilities are issued by a subsidiary established in the Union to an existing shareholder that is not part of the same resolution group, and that subsidiary is part of the same resolution group as the resolution entity, those liabilities shall be included in the amount of own funds and eligible liabilities of that resolution entity, provided that all of the following conditions are met:
+  >
+  > - (a) they are issued in accordance with point (a) of Article 45f(2);
+  > - (b) the exercise of the write down or conversion power in relation to those liabilities in accordance with Articles 59 or 62 does not affect the control of the subsidiary by the resolution entity;
+  > - (c) those liabilities do not exceed an amount determined by subtracting:
+  >   - ((i)) the sum of the liabilities issued to and bought by the resolution entity either directly or indirectly through other entities in the same resolution group and the amount of own funds issued in accordance with point (b) of Article 45f(2) from
+  >   - ((ii)) the amount required in accordance with Article 45f(1).
+  >
+  > 4. Without prejudice to the minimum requirement in Article 45c(5) or point (a) of Article 45d(1), resolution authorities shall ensure that a part of the requirement referred to in Article 45e equal to 8 % of the total liabilities, including own funds, shall be met by resolution entities that are G-SIIs or resolution entities that are subject to Article 45c(5) or (6) using own funds, subordinated eligible instruments, or liabilities as referred to in paragraph 3 of this Article. The resolution authority may permit that a level lower than 8 % of the total liabilities, including own funds, but greater than the amount resulting from the application of the formula (1-(X1/X2)) × 8 % of the total liabilities, including own funds, shall be met by resolution entities that are G-SIIs or resolution entities that are subject to Article 45c(5) or (6) using own funds, subordinated eligible instruments, or liabilities as referred in paragraph 3 of this Article, provided that all the conditions set out in Article 72b(3) of Regulation (EU) No 575/2013 are met, where, in light of the reduction that is possible under Article 72b(3) of that Regulation:
+  >
+  > - X1 = 3,5 % of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and
+  > - X2 = the sum of 18 % of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 and the amount of the combined buffer requirement.
+  >
+  > For resolution entities that are subject to Article 45c(5), where the application of the first subparagraph of this paragraph leads to a requirement greater than 27 % of the total risk exposure amount, for the resolution entity concerned, the resolution authority shall limit the part of the requirement referred to in Article 45e which is to be met using own funds, subordinated eligible instruments, or liabilities as referred to in paragraph 3 of this Article, to an amount equal to 27 % of the total risk exposure amount, if the resolution authority has assessed that:
+  >
+  > - (a) access to the resolution financing arrangement is not considered to be an option for resolving that resolution entity in the resolution plan; and
+  > - (b) where point (a) does not apply, the requirement referred to in Article 45e allows that resolution entity to meet the requirements referred to in Article 44(5) or 44(8) as applicable.
+  >
+  > In carrying out the assessment referred to in the second subparagraph, the resolution authority shall also take into account the risk of disproportionate impact on the business model of the resolution entity concerned.
+  >
+  > For resolution entities that are subject to Article 45c(6), the second subparagraph of this paragraph does not apply.
+  >
+  > 5. For resolution entities that are neither G-SIIs nor resolution entities that are subject to Article 45c(5) or (6), the resolution authority may decide that a part of the requirement referred to in Article 45e up to the greater of 8 % of the total liabilities, including own funds, of the entity and the formula referred to in paragraph 7, shall be met using own funds, subordinated eligible instruments, or liabilities as referred to in paragraph 3 of this Article, provided that the following conditions are met:
+  >
+  > - (a) non-subordinated liabilities referred to in paragraphs 1 and 2 of this Article have the same priority ranking in the national insolvency hierarchy as certain liabilities that are excluded from the application of write down and conversion powers in accordance with Article 44(2) or Article 44(3);
+  > - (b) there is a risk that, as a result of a planned application of write-down and conversion powers to non-subordinated liabilities that are not excluded from the application of write down and conversion powers in accordance with Article 44(2) or Article 44(3), creditors whose claims arise from those liabilities incur greater losses than they would incur in a winding up under normal insolvency proceedings;
+  > - (c) the amount of own funds and other subordinated liabilities does not exceed the amount necessary to ensure that the creditors referred to in point (b) do not incur losses above the level of losses that they would otherwise have incurred in the winding-up under normal insolvency proceedings.
+  >
+  > Where the resolution authority determines that, within a class of liabilities which includes eligible liabilities, the amount of the liabilities that are excluded or reasonably likely to be excluded from the application of write down and conversion powers in accordance with Article 44(2) or Article 44(3) totals more than 10 % of that class, the resolution authority shall assess the risk referred to in point (b) of the first subparagraph of this paragraph.
+  >
+  > 6. For the purposes of paragraphs 4, 5 and 7, derivative liabilities shall be included in total liabilities on the basis that full recognition is given to counterparty netting rights.
+  >
+  > The own funds of a resolution entity that are used to comply with the combined buffer requirement shall be eligible to comply with the requirements referred to in paragraphs 4, 5 and 7.
+  >
+  > 7. By derogation from paragraph 4 of this Article, the resolution authority may decide that the requirement referred to in Article 45e of this Directive shall be met by resolution entities that are G-SIIs or resolution entities that are subject to Article 45c(5) or (6) of this Directive using own funds, subordinated eligible instruments, or liabilities as referred to in paragraph 3 of this Article, to the extent that, due to the obligation of the resolution entity to comply with the combined buffer requirement and the requirements referred to in Article 92a of Regulation (EU) No 575/2013, Article 45c(5) and Article 45 e of this Directive, the sum of those own funds, instruments and liabilities does not exceed the greater of:
+  >
+  > - (a) 8 % of total liabilities, including own funds, of the entity; or
+  > - (b) the amount resulting from the application of the formula Ax2+Bx2+C, where A, B and C are the following amounts:
+  >   - A = the amount resulting from the requirement referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013;
+  >   - B = the amount resulting from the requirement referred to in Article 104a of Directive 2013/36/EU;
+  >   - C = the amount resulting from the combined buffer requirement.
+  >
+  > 8. Resolution authorities may exercise the power referred to in paragraph 7 of this Article with respect to resolution entities that are G-SIIs or that are subject to Article 45c(5) or (6), and that meet one of the conditions set out in the second subparagraph of this paragraph, up to a limit of 30 % of the total number of all resolution entities that are G-SIIs or that are subject to Article 45c(5) or (6) for which the resolution authority determines the requirement referred to in Article 45e.
+  >
+  > The conditions shall be considered by resolution authorities as follows:
+  >
+  > - (a) substantive impediments to resolvability have been identified in the preceding resolvability assessment and either:
+  >   - ((i)) no remedial action has been taken following the application of the measures referred to in Article 17(5) in the timeline required by the resolution authority, or
+  >   - ((ii)) the identified substantive impediments cannot be addressed using any of the measures referred to in Article 17(5), and the exercise of the power referred to in paragraph 7 of this Article would partially or fully compensate for the negative impact of the substantive impediments on resolvability;
+  > - (b) the resolution authority considers that the feasibility and credibility of the resolution entity's preferred resolution strategy is limited, taking into account the entity's size, its interconnectedness, the nature, scope, risk and complexity of its activities, its legal status and its shareholding structure; or
+  > - (c) the requirement referred to in Article 104a of Directive 2013/36/EU reflects the fact that the resolution entity that is a G-SII or that is subject to Article 45c(5) or (6) of this Directive is, in terms of riskiness, among the top 20 % of institutions for which the resolution authority determines the requirement referred to in Article 45(1) of this Directive.
+  >
+  > For the purposes of the percentages referred to in the first and second subparagraphs, the resolution authority shall round the number resulting from the calculation up to the closest whole number.
+  >
+  > Member States may, by taking into account the specificities of their national banking sector, including in particular the number of resolution entities that are G-SIIs or that are subject to Article 45c(5) or (6) for which the national resolution authority determines the requirement referred to in Article 45e, set the percentage referred to in the first subparagraph at a level higher than 30 %.
+  >
+  > 9. The resolution authority shall only take the decisions referred to in paragraph 5 or 7 after consulting the competent authority.
+  >
+  > When taking those decisions, the resolution authority shall also take into account:
+  >
+  > - (a) the depth of the market for the resolution entity's own funds instruments and subordinated eligible instruments, the pricing of such instruments, where they exist, and the time needed to execute any transactions necessary for the purpose of complying with the decision;
+  > - (b) the amount of eligible liabilities instruments that meet all of the conditions referred to in Article 72a of Regulation (EU) No 575/2013 that have a residual maturity below one year as of the date of the decision, with a view to making quantitative adjustments to the requirements referred to in paragraphs 5 and 7 of this Article;
+  > - (c) the availability and the amount of instruments that meet all of the conditions referred to in Article 72a of Regulation (EU) No 575/2013 other than point (d) of Article 72b(2) of that Regulation;
+  > - (d) whether the amount of liabilities that are excluded from the application of write down and conversion powers in accordance with Article 44(2) or (3) and that, in normal insolvency proceedings, rank equally with or below the highest ranking eligible liabilities is significant in comparison to the own funds and eligible liabilities of the resolution entity. Where the amount of excluded liabilities does not exceed 5 % of the amount of the own funds and eligible liabilities of the resolution entity, the excluded amount shall be considered as not being significant. Above that threshold, the significance of the excluded liabilities shall be assessed by resolution authorities;
+  > - (e) the resolution entity's business model, funding model, and risk profile, as well as its stability and ability to contribute to the economy; and
+  > - (f) the impact of possible restructuring costs on the resolution entity's recapitalisation.
+  >
+  > **Article 45c. Determination of the minimum requirement for own funds and eligible liabilities**
+  >
+  > 1. The requirement referred to in Article 45(1) shall be determined by the resolution authority, after consulting the competent authority, on the basis of the following criteria:
+  >
+  > - (a) the need to ensure that the resolution group can be resolved by the application of the resolution tools to the resolution entity, including, where appropriate, the bail-in tool, in a way that meets the resolution objectives;
+  > - (b) the need to ensure, where appropriate, that the resolution entity and its subsidiaries that are institutions or entities referred to in points (b), (c) and (d) of Article 1(1) but are not resolution entities have sufficient own funds and eligible liabilities to ensure that, if the bail-in tool or write down and conversion powers, respectively, were to be applied to them, losses could be absorbed and that it is possible to restore the total capital ratio and, as applicable, the leverage ratio, of the relevant entities to a level necessary to enable them to continue to comply with the conditions for authorisation and to carry on the activities for which they are authorised under Directive 2013/36/EU or Directive 2014/65/EU;
+  > - (c) the need to ensure, if the resolution plan anticipates the possibility for certain classes of eligible liabilities to be excluded from bail-in pursuant to Article 44(3) of this Directive or to be transferred in full to a recipient under a partial transfer, that the resolution entity has sufficient own funds and other eligible liabilities to absorb losses and to restore its total capital ratio and, as applicable, its leverage ratio, to the level necessary to enable it to continue to comply with the conditions for authorisation and to carry on the activities for which it is authorised under Directive 2013/36/EU or Directive 2014/65/EU;
+  > - (d) the size, the business model, the funding model and the risk profile of the entity;
+  > - (e) the extent to which the failure of the entity would have an adverse effect on financial stability, including through contagion to other institutions or entities, due to the interconnectedness of the entity with those other institutions or entities or with the rest of the financial system.
+  >
+  > 2. Where the resolution plan provides that resolution action is to be taken or that the power to write down and convert relevant capital instruments and eligible liabilities in accordance with Article 59 is to be exercised in accordance with the relevant scenario referred to in Article 10(3), the requirement referred to in Article 45(1) shall equal an amount sufficient to ensure that:
+  >
+  > - (a) the losses that are expected to be incurred by the entity are fully absorbed (“loss absorption”);
+  > - (b) the resolution entity and its subsidiaries that are institutions or entities referred to points (b), (c) and (d) of Article 1(1) but are not resolution entities are recapitalised to a level necessary to enable them to continue to comply with the conditions for authorisation, and to carry on the activities for which they are authorised under Directive 2013/36/EU, Directive 2014/65/EU or an equivalent legislative act for an appropriate period not longer than one year (“recapitalisation”).
+  >
+  > Where the resolution plan provides that the entity is to be wound up under normal insolvency proceedings or other equivalent national procedures, the resolution authority shall assess whether it is justified to limit the requirement referred to in Article 45(1) for that entity, so that it does not exceed an amount sufficient to absorb losses in accordance with point (a) of the first subparagraph.
+  >
+  > The assessment by the resolution authority shall, in particular, evaluate the limit referred to in the second subparagraph as regards any possible impact on financial stability and on the risk of contagion to the financial system.
+  >
+  > 3. For resolution entities, the amount referred to in the first subparagraph of paragraph 2 shall be the following:
+  >
+  > - (a) for the purpose of calculating the requirement referred to in Article 45(1), in accordance with point (a) of Article 45(2), the sum of:
+  >   - ((i)) the amount of the losses to be absorbed in resolution that corresponds to the requirements referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and Article 104a of Directive 2013/36/EU of the resolution entity at the consolidated resolution group level; and
+  >   - ((ii)) a recapitalisation amount that allows the resolution group resulting from resolution to restore compliance with its total capital ratio requirement referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and its requirement referred to in Article 104a of Directive 2013/36/EU at the consolidated resolution group level after the implementation of the preferred resolution strategy; and
+  > - (b) for the purpose of calculating the requirement referred to in Article 45(1), in accordance with point (b) of Article 45(2), the sum of:
+  >   - ((i)) the amount of the losses to be absorbed in resolution that corresponds to the resolution entity's leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 at the consolidated resolution group level; and
+  >   - ((ii)) a recapitalisation amount that allows the resolution group resulting from resolution to restore compliance with the leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 at the consolidated resolution group level after the implementation of the preferred resolution strategy.
+  >
+  > For the purposes of point (a) of Article 45(2), the requirement referred to in Article 45(1) shall be expressed in percentage terms as the amount calculated in accordance with point (a) of the first subparagraph of this paragraph, divided by the total risk exposure amount.
+  >
+  > For the purposes of point (b) of Article 45(2), the requirement referred to in Article 45(1) shall be expressed in percentage terms as the amount calculated in accordance with point (b) of the first subparagraph of this paragraph, divided by the total exposure measure.
+  >
+  > When setting the individual requirement provided in point (b) of the first subparagraph of this paragraph, the resolution authority shall take into account the requirements referred to in Articles 37(10), 44(5) and 44(8).
+  >
+  > When setting the recapitalisation amounts referred to in the previous subparagraphs, the resolution authority shall:
+  >
+  > - (a) use the most recently reported values for the relevant total risk exposure amount or total exposure measure, adjusted for any changes resulting from resolution actions set out in the resolution plan; and
+  > - (b) after consulting the competent authority, adjust the amount corresponding to the current requirement referred to in Article 104a of Directive 2013/36/EU downwards or upwards to determine the requirement that is to apply to the resolution entity after the implementation of the preferred resolution strategy.
+  >
+  > The resolution authority shall be able to increase the requirement provided in point (a)(ii) of the first subparagraph by an appropriate amount necessary to ensure that, following resolution, the entity is able to sustain sufficient market confidence for an appropriate period, which shall not exceed one year.
+  >
+  > Where the sixth subparagraph of this paragraph applies, the amount referred to in that subparagraph shall be equal to the combined buffer requirement that is to apply after the application of the resolution tools, less the amount referred to in point (a) of point (6) of Article 128 of Directive 2013/36/EU.
+  >
+  > The amount referred to in the sixth subparagraph of this paragraph shall be adjusted downwards if, after consulting the competent authority, the resolution authority determines that it would be feasible and credible for a lower amount to be sufficient to sustain market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in points (b), (c) and (d) of Article 1(1) and its access to funding without recourse to extraordinary public financial support other than contributions from resolution financing arrangements, in accordance with Article 44(5) and (8) and Article 101(2), after implementation of the resolution strategy. That amount shall be adjusted upwards if, after consulting the competent authority, the resolution authority determines that a higher amount is necessary to sustain sufficient market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in points (b), (c) and (d) of Article 1(1) and its access to funding without recourse to extraordinary public financial support other than contributions from resolution financing arrangements, in accordance with Article 44(5) and (8) and Article 101(2), for an appropriate period which shall not exceed one year.
+  >
+  > 4. EBA shall develop draft regulatory technical standards specifying the methodology to be used by resolution authorities to estimate the requirement referred to in Article 104a of Directive 2013/36/EU and the combined buffer requirement for resolution entities at the resolution group consolidated level where the resolution group is not subject to those requirements under that Directive.
+  >
+  > EBA shall submit those draft regulatory technical standards to the Commission by 28 December 2019.
+  >
+  > Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+  >
+  > 5. For resolution entities that are not subject to Article 92a of Regulation (EU) No 575/2013 and that are part of a resolution group the total assets of which exceed EUR 100 billion, the level of the requirement referred to in paragraph 3 of this Article shall be at least equal to:
+  >
+  > - (a) 13,5 % when calculated in accordance with point (a) of Article 45(2); and
+  > - (b) 5 % when calculated in accordance with point (b) of Article 45(2).
+  >
+  > By way of derogation from Article 45b, the resolution entities referred to in the first subparagraph of this paragraph shall meet a level of the requirement referred to in the first subparagraph of this paragraph that is equal to 13,5 % when calculated in accordance with point (a) of Article 45(2) and to 5 % when calculated in accordance with point (b) of Article 45(2) using own funds, subordinated eligible instruments, or liabilities as referred to in Article 45b(3) of this Directive.
+  >
+  > 6. A resolution authority may, after consulting the competent authority, decide to apply the requirements laid down in paragraph 5 of this Article to a resolution entity which is not subject to Article 92a of Regulation (EU) No 575/2013 and which is part of a resolution group the total assets of which are lower than EUR 100 billion and which the resolution authority has assessed as reasonably likely to pose a systemic risk in the event of its failure.
+  >
+  > When taking a decision as referred to in the first subparagraph of this paragraph, a resolution authority shall take into account:
+  >
+  > - (a) the prevalence of deposits, and the absence of debt instruments, in the funding model;
+  > - (b) the extent to which access to the capital markets for eligible liabilities is limited;
+  > - (c) the extent to which the resolution entity relies on Common Equity Tier 1 capital to meet the requirement referred to in Article 45e.
+  >
+  > The absence of a decision pursuant to the first subparagraph of this paragraph is without prejudice to any decision under Article 45b(5).
+  >
+  > 7. For entities that are not themselves resolution entities, the amount referred to in the first subparagraph of paragraph 2 shall be the following:
+  >
+  > - (a) for the purpose of calculating the requirement referred to in Article 45(1), in accordance with point (a) of Article 45(2), the sum of:
+  >   - ((i)) the amount of the losses to be absorbed that corresponds to the requirements referred to in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and Article 104a of Directive 2013/36/EU of the entity; and
+  >   - ((ii)) a recapitalisation amount that allows the entity to restore compliance with its total capital ratio requirement referred in point (c) of Article 92(1) of Regulation (EU) No 575/2013 and its requirement referred to in Article 104a of Directive 2013/36/EU after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 59 of this Directive or after the resolution of the resolution group; and
+  > - (b) for the purpose of calculating the requirement referred to in Article 45(1), in accordance with point (b) of Article 45(2), the sum of:
+  >   - ((i)) the amount of the losses to be absorbed that corresponds to the entity's leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013; and
+  >   - ((ii)) a recapitalisation amount that allows the entity to restore compliance with its leverage ratio requirement referred to in point (d) of Article 92(1) of Regulation (EU) No 575/2013 after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 59 of this Directive or after the resolution of the resolution group.
+  >
+  > For the purposes of point (a) of Article 45(2), the requirement referred to in Article 45(1) shall be expressed in percentage terms as the amount calculated in accordance with point (a) of the first subparagraph of this paragraph, divided by the total risk exposure amount.
+  >
+  > For the purposes of point (b) of Article 45(2), the requirement referred to in Article 45(1) shall be expressed in percentage terms as the amount calculated in accordance with point (b) of the first subparagraph of this paragraph, divided by the total exposure measure.
+  >
+  > When setting the individual requirement provided in point (b) of the first subparagraph of this paragraph, the resolution authority shall take into account the requirements referred to in Articles 37(10), 44(5) and 44(8).
+  >
+  > When setting the recapitalisation amounts referred to in the previous subparagraphs, the resolution authority shall:
+  >
+  > - (a) use the most recently reported values for the relevant total risk exposure amount or total exposure measure, adjusted for any changes resulting from actions set out in the resolution plan; and
+  > - (b) after consulting the competent authority, adjust the amount corresponding to the current requirement referred to in Article 104a of Directive 2013/36/EU downwards or upwards to determine the requirement that is to apply to the relevant entity after the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 59 of this Directive or after the resolution of the resolution group.
+  >
+  > The resolution authority shall be able to increase the requirement provided in point (a)(ii) of the first subparagraph of this paragraph by an appropriate amount necessary to ensure that, following the exercise of the power to write down or convert relevant capital instruments and eligible liabilities in accordance with Article 59, the entity is able to sustain sufficient market confidence for an appropriate period which shall not exceed one year.
+  >
+  > Where the sixth subparagraph of this paragraph applies, the amount referred to in that subparagraph shall be equal to the combined buffer requirement that is to apply after the exercise of the power referred to in Article 59 of this Directive or after the resolution of the resolution group, less the amount referred to in point (a) of point (6) of Article 128 of Directive 2013/36/EU.
+  >
+  > The amount referred to in the sixth subparagraph of this paragraph shall be adjusted downwards if, after consulting the competent authority, the resolution authority determines that it would be feasible and credible for a lower amount to be sufficient to ensure market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in points (b), (c) and (d) of Article 1(1) and its access to funding without recourse to extraordinary public financial support other than contributions from resolution financing arrangements, in accordance with paragraphs 5 and 8 of Article 44 and Article 101(2), after the exercise of the power referred to in Article 59 or after the resolution of the resolution group. That amount shall be adjusted upwards if, after consulting the competent authority, the resolution authority determines that a higher amount is necessary to sustain sufficient market confidence and to ensure both the continued provision of critical economic functions by the institution or entity referred to in points (b), (c) and (d) of Article 1(1) and its access to funding without recourse to extraordinary public financial support other than contributions from resolution financing arrangements, in accordance with Article 44(5) and (8) and Article 101(2) for an appropriate period which shall not exceed one year.
+  >
+  > 8. Where the resolution authority expects that certain classes of eligible liabilities are reasonably likely to be fully or partially excluded from bail-in pursuant to Article 44(3) or might be transferred in full to a recipient under a partial transfer, the requirement referred to in Article 45(1) shall be met using own funds or other eligible liabilities that are sufficient to:
+  >
+  > - (a) cover the amount of excluded liabilities identified in accordance with Article 44(3);
+  > - (b) ensure that the conditions referred to in paragraph 2 are fulfilled.
+  >
+  > 9. Any decision by the resolution authority to impose a minimum requirement of own funds and eligible liabilities under this Article shall contain the reasons for that decision, including a full assessment of the elements referred to in paragraphs 2 to 8 of this Article, and shall be reviewed by the resolution authority without undue delay to reflect any changes in the level of the requirement referred to in Article 104a of Directive 2013/36/EU.
+  >
+  > 10. For the purposes of paragraphs 3 and 7 of this Article, capital requirements shall be interpreted in accordance with the competent authority's application of the transitional provisions laid down in Chapters 1, 2 and 4 of Title I of Part Ten of Regulation (EU) No 575/2013 and in the provisions of national legislation exercising the options granted to the competent authorities by that Regulation.
+  >
+  > **Article 45d. Determination of the minimum requirement for own funds and eligible liabilities for resolution entities of G-SIIs and Union material subsidiaries of non-EU G-SIIs**
+  >
+  > 1. The requirement referred to in Article 45(1) for a resolution entity that is a G-SII or part of a G-SII shall consist of the following:
+  >
+  > - (a) the requirements referred to in Articles 92a and 494 of Regulation (EU) No 575/2013; and
+  > - (b) any additional requirement for own funds and eligible liabilities that has been determined by the resolution authority specifically in relation to that entity in accordance with paragraph 3 of this Article.
+  >
+  > 2. The requirement referred to in Article 45(1) for a Union material subsidiary of a non-EU G-SII shall consist of the following:
+  >
+  > - (a) the requirements referred to in Articles 92b and 494 of Regulation (EU) No 575/2013; and
+  > - (b) any additional requirement for own funds and eligible liabilities that has been determined by the resolution authority specifically in relation to that material subsidiary in accordance with paragraph 3 of this Article, which is to be met using own funds and liabilities that meet the conditions of Articles 45f and 89(2).
+  >
+  > 3. The resolution authority shall impose an additional requirement for own funds and eligible liabilities referred to in point (b) of paragraph 1 and point (b) of paragraph 2 only:
+  >
+  > - (a) where the requirement referred to in point (a) of paragraph 1 or point (a) of paragraph 2 of this Article is not sufficient to fulfil the conditions set out in Article 45c; and
+  > - (b) to an extent that ensures that the conditions set out in Article 45c are fulfilled.
+  >
+  > 4. For the purposes of Article 45h(2), where more than one G-SII entity belonging to the same G-SII are resolution entities, the relevant resolution authorities shall calculate the amount referred to in paragraph 3:
+  >
+  > - (a) for each resolution entity;
+  > - (b) for the Union parent entity as if it was the only resolution entity of the G-SII.
+  >
+  > 5. Any decision by the resolution authority to impose an additional requirement for own funds and eligible liabilities under point (b) of paragraph 1 of this Article or point (b) of paragraph 2 of this Article shall contain the reasons for that decision, including a full assessment of the elements referred to in paragraph 3 of this Article, and shall be reviewed by the resolution authority without undue delay to reflect any changes in the level of the requirement referred to in Article 104a of Directive 2013/36/EU that applies to the resolution group or the Union material subsidiary of a non-EU G-SII.
+  >
+  > **Article 45e. Application of the minimum requirement for own funds and eligible liabilities to resolution entities**
+  >
+  > 1. Resolution entities shall comply with the requirements laid down in Articles 45b to Article 45d on a consolidated basis at the level of the resolution group.
+  >
+  > 2. The resolution authority shall determine the requirement referred to in Article 45(1) for a resolution entity at the consolidated resolution group level in accordance with Article 45h, on the basis of the requirements laid down in Articles 45b to 45d and on the basis of whether the third-country subsidiaries of the group are to be resolved separately under the resolution plan.
+  >
+  > 3. For resolution groups identified in accordance with point (b) of point (83b) of Article 2(1), the relevant resolution authority shall decide, depending on the features of the solidarity mechanism and of the preferred resolution strategy, which entities in the resolution group are to be required to comply with Article 45c(3) and (5) and Article 45d(1), in order to ensure that the resolution group as a whole complies with paragraphs 1 and 2 of this Article, and how such entities are to do so in conformity with the resolution plan.
+  >
+  > **Article 45f. Application of the minimum requirement for own funds and eligible liabilities to entities that are not themselves resolution entities**
+  >
+  > 1. Institutions that are subsidiaries of a resolution entity or of a third-country entity, but are not themselves resolution entities, shall comply with the requirements laid down in Article 45c on an individual basis.
+  >
+  > A resolution authority, after consulting the competent authority, may decide to apply the requirement laid down in this Article to an entity referred to in points (b), (c) or (d) of Article 1(1) that is a subsidiary of a resolution entity but is not itself a resolution entity.
+  >
+  > By way of derogation from the first subparagraph of this paragraph, Union parent undertakings that are not themselves resolution entities, but are subsidiaries of third-country entities, shall comply with the requirements laid down in Articles 45c and 45d on a consolidated basis.
+  >
+  > For resolution groups identified in accordance with point (b) of point (83b) of Article 2(1), those credit institutions which are permanently affiliated to a central body, but are not themselves resolution entities, a central body which is not itself a resolution entity, and any resolution entities that are not subject to a requirement under Article 45e(3), shall comply with Article 45c(7) on an individual basis.
+  >
+  > The requirement referred to in Article 45(1) for an entity referred to in this paragraph shall be determined in accordance with Articles 45h and 89, where applicable, and on the basis of the requirements laid down in Article 45c.
+  >
+  > 2. The requirement referred to in Article 45(1) for entities referred to in paragraph 1 of this Article shall be met using one or more of the following:
+  >
+  > - (a) liabilities:
+  >   - ((i)) that are issued to and bought by the resolution entity, either directly or indirectly through other entities in the same resolution group that bought the liabilities from the entity that is subject to this Article, or are issued to and bought by an existing shareholder that is not part of the same resolution group as long as the exercise of write down or conversion powers in accordance with Articles 59 to 62 does not affect the control of the subsidiary by the resolution entity;
+  >   - ((ii)) that fulfil the eligibility criteria referred to in Article 72a of Regulation (EU) No 575/2013, except for points (b), (c), (k), (l) and (m) of Article 72b(2) and Article 72b(3) to (5) of that Regulation;
+  >   - ((iii)) that rank, in normal insolvency proceedings, below liabilities that do not meet the condition referred to in point (i) and that are not eligible for own funds requirements;
+  >   - ((iv)) that are subject to write down or conversion powers in accordance with Articles 59 to 62 in a manner that is consistent with the resolution strategy of the resolution group, in particular by not affecting the control of the subsidiary by the resolution entity;
+  >   - ((v)) the acquisition of ownership of which is not funded directly or indirectly by the entity that is subject to this Article;
+  >   - ((vi)) the provisions governing which do not indicate explicitly or implicitly that the liabilities would be called, redeemed, repaid or repurchased early, as applicable, by the entity that is subject to this Article, other than in the case of the insolvency or liquidation of that entity, and that entity does not otherwise provide such an indication;
+  >   - ((vii)) the provisions governing which do not give the holder the right to accelerate the future scheduled payment of interest or principal, other than in the case of the insolvency or liquidation of the entity that is subject to this Article;
+  >   - ((viii)) the level of interest or dividend payments, as applicable, due thereon is not amended on the basis of the credit standing of the entity that is subject to this Article or its parent undertaking;
+  > - (b) own funds, as follows:
+  >   - ((i)) Common Equity Tier 1 capital, and
+  >   - ((ii)) other own funds that:
+  >     - are issued to and bought by entities that are included in the same resolution group, or
+  >     - are issued to and bought by entities that are not included in the same resolution group as long as the exercise of write down or conversion powers in accordance with Articles 59 to 62 does not affect the control of the subsidiary by the resolution entity.
+  >
+  > 3. The resolution authority of a subsidiary that is not a resolution entity may waive the application of this Article to that subsidiary where:
+  >
+  > - (a) both the subsidiary and the resolution entity are established in the same Member State and are part of the same resolution group;
+  > - (b) the resolution entity complies with the requirement referred to in Article 45e;
+  > - (c) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities by the resolution entity to the subsidiary in respect of which a determination has been made in accordance with Article 59(3), in particular where resolution action is taken in respect of the resolution entity;
+  > - (d) the resolution entity satisfies the competent authority regarding the prudent management of the subsidiary and has declared, with the consent of the competent authority, that it guarantees the commitments entered into by the subsidiary, or the risks in the subsidiary are of no significance;
+  > - (e) the risk evaluation, measurement and control procedures of the resolution entity cover the subsidiary;
+  > - (f) the resolution entity holds more than 50 % of the voting rights attached to shares in the capital of the subsidiary or has the right to appoint or remove a majority of the members of the management body of the subsidiary.
+  >
+  > 4. The resolution authority of a subsidiary that is not a resolution entity may also waive the application of this Article to that subsidiary where:
+  >
+  > - (a) both the subsidiary and its parent undertaking are established in the same Member State and are part of the same resolution group;
+  > - (b) the parent undertaking complies on a consolidated basis with the requirement referred to in Article 45(1) in that Member State;
+  > - (c) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities by the parent undertaking to the subsidiary in respect of which a determination has been made in accordance with Article 59(3), in particular where resolution action or powers referred to in Article 59(1) are taken in respect of the parent undertaking;
+  > - (d) the parent undertaking satisfies the competent authority regarding the prudent management of the subsidiary and has declared, with the consent of the competent authority, that it guarantees the commitments entered into by the subsidiary, or the risks in the subsidiary are of no significance;
+  > - (e) the risk evaluation, measurement and control procedures of the parent undertaking cover the subsidiary;
+  > - (f) the parent undertaking holds more than 50 % of the voting rights attached to shares in the capital of the subsidiary or has the right to appoint or remove a majority of the members of the management body of the subsidiary.
+  >
+  > 5. Where the conditions laid down in points (a) and (b) of paragraph 3 are met, the resolution authority of a subsidiary may permit the requirement referred to in Article 45(1) to be met in full or in part with a guarantee provided by the resolution entity, which fulfils the following conditions:
+  >
+  > - (a) the guarantee is provided for at least an amount that is equivalent to the amount of the requirement for which it substitutes;
+  > - (b) the guarantee is triggered when the subsidiary is unable to pay its debts or other liabilities as they fall due, or a determination has been made in accordance with Article 59(3) in respect of the subsidiary, whichever is the earliest;
+  > - (c) the guarantee is collateralised through a financial collateral arrangement as defined in point (a) of Article 2(1) of Directive 2002/47/EC for at least 50 % of its amount;
+  > - (d) the collateral backing the guarantee fulfils the requirements of Article 197 of Regulation (EU) No 575/2013, which, following appropriately conservative haircuts, is sufficient to cover the amount collateralised as referred to in point (c);
+  > - (e) the collateral backing the guarantee is unencumbered and, in particular, is not used as collateral to back any other guarantee;
+  > - (f) the collateral has an effective maturity that fulfils the same maturity condition as that referred to in Article 72c(1) of Regulation (EU) No 575/2013; and
+  > - (g) there are no legal, regulatory or operational barriers to the transfer of the collateral from the resolution entity to the relevant subsidiary, including where resolution action is taken in respect of the resolution entity.
+  >
+  > For the purposes of point (g) of the first subparagraph, at the request of the resolution authority, the resolution entity shall provide an independent written and reasoned legal opinion or shall otherwise satisfactorily demonstrate that there are no legal, regulatory or operational barriers to the transfer of collateral from the resolution entity to the relevant subsidiary.
+  >
+  > 6. EBA shall develop draft regulatory technical standards further specifying methods to avoid that instruments recognised for the purposes of this Article indirectly subscribed, in part or in full, by the resolution entity hamper the smooth implementation of the resolution strategy. Such methods are to ensure, in particular, the proper transfer of losses to the resolution entity and the proper transfer of capital from the resolution entity to entities that are part of the resolution group but not themselves resolution entities, and provide a mechanism to avoid double counting of eligible instruments recognised for the purpose of this Article. They shall consist of a deduction regime or an equivalently robust approach and they shall ensure to entities that are not themselves the resolution entity an outcome equivalent to that of a full direct subscription by the resolution entity of eligible instruments recognised for the purpose of this Article.
+  >
+  > EBA shall submit those draft regulatory technical standards to the Commission by 28 December 2019.
+  >
+  > Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+  >
+  > **Article 45g. Waiver for a central body and credit institutions permanently affiliated to a central body**
+  >
+  > The resolution authority may partially or fully waive the application of Article 45f in respect of a central body or of a credit institution which is permanently affiliated to a central body, where all of the following conditions are met:
+  >
+  > - ((a)) the credit institution and the central body are subject to supervision by the same competent authority, are established in the same Member State and are part of the same resolution group;
+  > - ((b)) the commitments of the central body and its permanently affiliated credit institutions are joint and several liabilities, or the commitments of its permanently affiliated credit institutions are entirely guaranteed by the central body;
+  > - ((c)) the minimum requirement for own funds and eligible liabilities, and the solvency and liquidity of the central body and of all of the permanently affiliated credit institutions, are monitored as a whole on the basis of the consolidated accounts of those institutions;
+  > - ((d)) in the case of a waiver for a credit institution which is permanently affiliated to a central body, the management of the central body is empowered to issue instructions to the management of the permanently affiliated institutions;
+  > - ((e)) the relevant resolution group complies with the requirement referred to in Article 45e(3); and
+  > - ((f)) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between the central body and the permanently affiliated credit institutions in the event of resolution.
+  >
+  > **Article 45h. Procedure for determining the minimum requirement for own funds and eligible liabilities**
+  >
+  > 1. The resolution authority of the resolution entity, the group-level resolution authority, where different from the former, and the resolution authorities responsible for the subsidiaries of a resolution group that are subject to the requirement referred to in Article 45f on an individual basis shall do everything within their power to reach a joint decision on:
+  >
+  > - (a) the amount of the requirement applied at the consolidated resolution group level for each resolution entity; and
+  > - (b) the amount of the requirement applied on an individual basis to each entity of a resolution group which is not a resolution entity.
+  >
+  > The joint decision shall ensure compliance with Articles 45e and 45f and it shall be fully reasoned and provided to:
+  >
+  > - (a) the resolution entity by its resolution authority;
+  > - (b) the entities of a resolution group which are not a resolution entity by the resolution authorities of those entities;
+  > - (c) the Union parent undertaking of the group by the resolution authority of the resolution entity, when that Union parent undertaking is not itself a resolution entity from the same resolution group.
+  >
+  > The joint decision taken in accordance with this Article may provide that, where consistent with the resolution strategy and sufficient instruments complying with Article 45f(2) have not been bought directly or indirectly by the resolution entity, the requirements referred to in Article 45c(7) are partially met by the subsidiary in compliance with Article 45f(2) with instruments issued to and bought by entities not belonging to the resolution group.
+  >
+  > 2. Where more than one G-SII entity belonging to the same G-SII are resolution entities, the resolution authorities referred to in paragraph 1 shall discuss and, where appropriate and consistent with the G-SII's resolution strategy, agree on the application of Article 72e of Regulation (EU) No 575/2013 and any adjustment to minimise or eliminate the difference between the sum of the amounts referred to in point (a) of Article 45d(4) and Article 12 of Regulation (EU) No 575/2013 for individual resolution entities and the sum of the amounts referred to in point (b) of Article 45d(4) and Article 12 of Regulation (EU) No 575/2013.
+  >
+  > Such an adjustment may be applied subject to the following:
+  >
+  > - (a) the adjustment may be applied in respect of differences in the calculation of the total risk exposure amounts between the relevant Member States by adjusting the level of the requirement;
+  > - (b) the adjustment shall not be applied to eliminate differences resulting from exposures between resolution groups.
+  >
+  > The sum of the amounts referred to in point (a) of Article 45d(4) of this Directive and Article 12 of Regulation (EU) No 575/2013 for individual resolution entities shall not be lower than the sum of the amounts referred to in point (b) of Article 45d(4) of this Directive and Article 12 of Regulation (EU) No 575/2013.
+  >
+  > 3. In the absence of such a joint decision within four months, a decision shall be taken in accordance with paragraphs 4 to 6.
+  >
+  > 4. Where a joint decision is not taken within four months because of a disagreement concerning a consolidated resolution group requirement referred to in Article 45e, a decision shall be taken on that requirement by the resolution authority of the resolution entity after having duly taken into account:
+  >
+  > - (a) the assessment of entities of the resolution group that are not a resolution entity, performed by the relevant resolution authorities;
+  > - (b) the opinion of the group-level resolution authority, where different from the resolution authority of the resolution entity.
+  >
+  > Where, at the end of the four-month period, any of the resolution authorities concerned has referred the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the resolution authority of the resolution entity shall defer its decision and await any decision that EBA may take in accordance with Article 19(3) of that Regulation, and shall take its decision in accordance with the decision of EBA.
+  >
+  > The decision of EBA shall take into account points (a) and (b) of the first subparagraph.
+  >
+  > The four-month period shall be deemed to be the conciliation period within the meaning of Regulation (EU) No 1093/2010. EBA shall take its decision within one month.
+  >
+  > The matter shall not be referred to EBA after the end of the four-month period or after a joint decision has been reached.
+  >
+  > In the absence of an EBA decision within one month of the referral of the matter, the decision of the resolution authority of the resolution entity shall apply.
+  >
+  > 5. Where a joint decision is not taken within four months because of a disagreement concerning the level of the requirement referred to in Article 45f to be applied to any entity of a resolution group on an individual basis, the decision shall be taken by the resolution authority of that entity, where all of the following conditions are fulfilled:
+  >
+  > - (a) the views and reservations expressed in writing by the resolution authority of the resolution entity have been duly taken into account; and
+  > - (b) where the group-level resolution authority is different from the resolution authority of the resolution entity, the views and reservations expressed in writing by the group-level resolution authority have been duly taken into account.
+  >
+  > Where, at the end of the four-month period, the resolution authority of the resolution entity or the group-level resolution authority has referred the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the resolution authorities responsible for the subsidiaries on an individual basis shall defer their decisions and await any decision that EBA may take in accordance with Article 19(3) of that Regulation, and shall take their decisions in accordance with the decision of EBA. The decision of EBA shall take into account points (a), and (b) of the first subparagraph.
+  >
+  > The four-month period shall be deemed to be the conciliation period within the meaning of Regulation (EU) No 1093/2010. EBA shall take its decision within one month.
+  >
+  > The matter shall not be referred to EBA after the end of the four-month period or after a joint decision has been reached.
+  >
+  > The resolution authority of the resolution entity or the group-level resolution authority shall not refer the matter to EBA for binding mediation where the level set by the resolution authority of the subsidiary:
+  >
+  > - (a) is within 2 % of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 of the requirement referred to in Article 45e; and
+  > - (b) complies with Article 45c(7).
+  >
+  > In the absence of an EBA decision within one month, the decisions of the resolution authorities of the subsidiaries shall apply.
+  >
+  > The joint decision and any decisions taken in the absence of a joint decision shall be reviewed and where relevant updated on a regular basis.
+  >
+  > 6. Where a joint decision is not taken within four months because of a disagreement concerning the level of the consolidated resolution group requirement and the level of the requirement to be applied to the resolution group's entities on an individual basis, the following shall apply:
+  >
+  > - (a) a decision shall be taken on the level of the requirement to be applied to the resolution group's subsidiaries on an individual basis in accordance with paragraph 5;
+  > - (b) a decision shall be taken on the level of the consolidated resolution group requirement in accordance with paragraph 4.
+  >
+  > 7. The joint decision referred to in paragraph 1 and any decisions taken by the resolution authorities referred to in paragraphs 4, 5 and 6 in the absence of a joint decision shall be binding on the resolution authorities concerned.
+  >
+  > The joint decision and any decisions taken in the absence of a joint decision shall be reviewed and where relevant updated on a regular basis.
+  >
+  > 8. Resolution authorities, in coordination with competent authorities, shall require and verify that entities meet the requirement referred to in article 45(1), and shall take any decision pursuant to this Article in parallel with the development and the maintenance of resolution plans.
+  >
+  > **Article 45i. Supervisory reporting and public disclosure of the requirement**
+  >
+  > 1. Entities referred to in Article 1(1) that are subject to the requirement referred to in Article 45(1) shall report to their competent and resolution authorities on the following:
+  >
+  > - (a) the amounts of own funds that, where applicable, meet the conditions of point (b) of Article 45f(2) of this Directive, and the amounts of eligible liabilities, and the expression of those amounts in accordance with Article 45(2) of this Directive after any applicable deductions in accordance with Articles 72e to 72j of Regulation (EU) No 575/2013;
+  > - (b) the amounts of other bail-inable liabilities;
+  > - (c) for the items referred to in points (a) and (b):
+  >   - ((i)) their composition, including their maturity profile,
+  >   - ((ii)) their ranking in normal insolvency proceedings, and
+  >   - ((iii)) whether they are governed by the laws of a third country and, if so, which third country and whether they contain the contractual terms referred to in Article 55(1) of this Directive, points (p) and (q) of Article 52(1) and points (n) and (o) of Article 63 of Regulation (EU) No 575/2013.
+  >
+  > The obligation to report on the amounts of other bail-inable liabilities referred to in point (b) of the first subparagraph of this paragraph shall not apply to entities that, at the date of the reporting of that information, hold amounts of own funds and eligible liabilities of at least 150 % of the requirement referred to in Article 45(1) as calculated in accordance with point (a) of the first subparagraph of this paragraph.
+  >
+  > 2. The entities referred to in paragraph 1 shall report:
+  >
+  > - (a) on at least a semi-annual basis the information referred to in point (a) of paragraph 1, and
+  > - (b) on at least an annual basis the information referred to in points (b) and (c) of paragraph 1.
+  >
+  > However, at the request of the competent authority or resolution authority, the entities referred to in paragraph 1 shall report the information referred to in paragraph 1 on a more frequent basis.
+  >
+  > 3. Entities referred to in paragraph 1 shall make the following information publicly available on at least an annual basis:
+  >
+  > - (a) the amounts of own funds that, where applicable, meet the conditions of point (b) of Article 45f(2) and eligible liabilities;
+  > - (b) the composition of the items referred to in point (a), including their maturity profile and ranking in normal insolvency proceedings;
+  > - (c) the applicable requirement referred to in Article 45e or Article 45f expressed in accordance with Article 45(2).
+  >
+  > 4. Paragraphs 1 and 3 of this Article shall not apply to entities whose resolution plan provides that the entity is to be wound up under normal insolvency proceedings.
+  >
+  > 5. EBA shall develop draft implementing technical standards to specify uniform reporting templates, instructions and methodology on how to use the templates, frequency and dates of reporting, definitions and IT solutions for the supervisory reporting referred to in paragraphs 1 and 2.
+  >
+  > Such draft implementing technical standards shall specify a standardised way of providing information on the ranking of items referred in point (c) of paragraph 1 applicable in national insolvency proceedings in each Member State.
+  >
+  > For institutions or entities referred to in points (b), (c) and (d) of Article 1(1) of this Directive that are subject to Article 92a and Article 92b of Regulation (EU) No 575/2013, such draft implementing technical standards shall, where appropriate, be aligned to the implementing technical standards adopted in accordance with Article 430 of that Regulation.
+  >
+  > EBA shall submit those implementing technical standards to the Commission by 28 June 2020.
+  >
+  > Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+  >
+  > 6. EBA shall develop draft implementing technical standards to specify uniform disclosure formats, frequency and associated instructions in accordance with which disclosures required under paragraph 3 shall be made.
+  >
+  > Such uniform disclosure formats shall convey sufficiently comprehensive and comparable information to assess the risk profiles of entities referred to in Article 1(1) and their degree of compliance with the applicable requirement referred to in Article 45e or Article 45f. Where appropriate, disclosure formats shall be in tabular format.
+  >
+  > For institutions or entities referred to in points (b), (c) and (d) of Article 1(1) of this Directive that are subject to Article 92a and Article 92b of Regulation (EU) No 575/2013, such draft implementing technical standards shall, where appropriate, be aligned to the implementing technical standards adopted in accordance with Article 434a of that Regulation.
+  >
+  > EBA shall submit those implementing technical standards to the Commission by 28 June 2020.
+  >
+  > Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+  >
+  > 7. Where resolution actions have been implemented or the write-down or conversion power referred to in Article 59 have been exercised, public disclosure requirements referred to in paragraph 3 shall apply from the date of the deadline to comply with the requirements of Article 45e or Article 45f referred to in Article 45m.
+  >
+  > **Article 45j. Reporting to EBA**
+  >
+  > 1. Resolution authorities shall inform EBA of the minimum requirement for own funds and eligible liabilities that has been set, in accordance with Article 45e or Article 45f, for each entity under its jurisdiction.
+  >
+  > 2. EBA shall develop draft implementing technical standards to specify uniform reporting templates, instructions and methodology on how to use those templates, frequency and dates of reporting, definitions and IT solutions for the identification and transmission of information by resolution authorities, in coordination with competent authorities, to EBA for the purposes of paragraph 1.
+  >
+  > EBA shall submit those draft implementing technical standards to the Commission by 28 June 2020.
+  >
+  > Power is conferred on the Commission to ad0opt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+  >
+  > **Article 45k. Breaches of the minimum requirement for own funds and eligible liabilities**
+  >
+  > 1. Any breach of the minimum requirement for own funds and eligible liabilities referred to in Article 45e or Article 45f shall be addressed by the relevant authorities on the basis of at least one of the following:
+  >
+  > - (a) powers to address or remove impediments to resolvability in accordance with Articles 17 and 18;
+  > - (b) powers referred to in Article 16a;
+  > - (c) measures referred to in Article 104 of Directive 2013/36/EU;
+  > - (d) early intervention measures in accordance with Article 27;
+  > - (e) administrative penalties and other administrative measures in accordance with Articles 110 and 111.
+  >
+  > The relevant authorities may also carry out an assessment of whether the institution or entity referred to in points (b), (c) and (d) of Article 1(1) is failing or is likely to fail, in accordance with Article 32, 32a or Article 33, as applicable.
+  >
+  > 2. Resolution and competent authorities shall consult each other when they exercise their respective powers referred to in paragraph 1.
+  >
+  > **Article 45l. Reports**
+  >
+  > 1. EBA shall, in cooperation with the competent authorities and resolution authorities, submit annually a report to the Commission providing assessments on at least the following:
+  >
+  > - (a) how the requirement for own funds and eligible liabilities set in accordance with Article 45e or Article 45f has been implemented at national level, and in particular whether there have been divergences in the levels set for comparable entities across Member States;
+  > - (b) how the power referred to in Article 45b(4), (5) and (7) has been exercised by resolution authorities and whether there have been divergences in the exercise of that power across Member States;
+  > - (c) the aggregate level and composition of own funds and eligible liabilities of institutions and entities, the amounts of instruments issued in the period, and the additional amounts necessary to meet applicable requirements.
+  >
+  > 2. In addition to the annual report provided for in paragraph 1, EBA shall, every three years, submit a report to the Commission, assessing the following:
+  >
+  > - (a) the impact of the minimum requirement for own funds and eligible liabilities, and any proposed harmonised levels of that minimum requirement on the following:
+  >   - ((i)) financial markets in general and markets for unsecured debt and derivatives in particular;
+  >   - ((ii)) business models and balance sheet structures of institutions, in particular the funding profile and funding strategy of institutions, and the legal and operational structure of groups;
+  >   - ((iii)) the profitability of institutions, in particular their cost of funding;
+  >   - ((iv)) the migration of exposures to entities which are not subject to prudential supervision;
+  >   - ((v)) financial innovation;
+  >   - ((vi)) the prevalence of own funds instruments and subordinated eligible instruments and their nature and marketability;
+  >   - ((vii)) the risk-taking behaviour of institutions or entities referred to in points (b), (c) and (d) of Article 1(1);
+  >   - ((viii)) the level of asset encumbrance of institutions or entities referred to in points (b), (c) and (d) of Article 1(1);
+  >   - ((ix)) the actions taken by institutions or entities referred to in points (b), (c) and (d) of Article 1(1) to comply with the minimum requirement, and in particular the extent to which the minimum requirement has been met by asset deleveraging, long-term debt issue and capital raising; and
+  >   - ((x)) the level of lending by credit institutions, with a particular focus on lending to micro, small and medium-sized enterprises, local authorities, regional governments and public sector entities and on trade financing, including lending under official export credit insurance schemes;
+  > - (b) the interaction of the minimum requirements with the own funds requirements, leverage ratio and the liquidity requirements laid down in Regulation (EU) No 575/2013 and in Directive 2013/36/EU;
+  > - (c) the capacity of institutions or entities referred to in points (b), (c) and (d) of Article 1(1) to independently raise capital or funding from markets in order to meet any proposed harmonised minimum requirements.
+  >
+  > 3. The report referred to in paragraph 1 shall be submitted to the Commission by 30 September of the calendar year following the last year covered by the report. The first report shall be submitted to the Commission by 30 September of the year following the date of application of this Directive.
+  >
+  > The report referred to in paragraph 2 shall cover three calendar years and shall be submitted to the Commission by 31 December of the calendar year following the last year covered by the report. The first report shall be submitted to the Commission by 31 December 2022.
+  >
+  > **Article 45m. Transitional and post-resolution arrangements**
+  >
+  > 1. By way of derogation from Article 45(1), resolution authorities shall determine appropriate transitional periods for institutions or entities referred to in points (b), (c) and (d) of Article 1(1) to comply with the requirements in Articles 45e or 45f or with requirements that result from the application of Article 45b(4), (5) or (7), as appropriate. The deadline for institutions and entities to comply with the requirements in Articles 45e or 45f or the requirements that result from the application of Article 45b(4), (5) or (7) shall be 1 January 2024.
+  >
+  > The resolution authority shall determine intermediate target levels for the requirements in Articles 45e or 45f or for requirements that result from the application of Article 45b(4), (5) or (7), as appropriate, that institutions or entities referred to in points (b), (c) and (d) of Article 1(1) shall comply with at 1 January 2022. The intermediate target levels, as a rule, shall ensure a linear build-up of own funds and eligible liabilities towards the requirement.
+  >
+  > The resolution authority may set a transitional period that ends after 1 January 2024 where duly justified and appropriate on the basis of the criteria referred to in paragraph 7, taking into consideration:
+  >
+  > - (a) the development of the entity's financial situation;
+  > - (b) the prospect that the entity will be able to ensure compliance in a reasonable timeframe with the requirements in Article 45e or 45f or with a requirement that results from the application of Article 45b(4), (5) or (7); and
+  > - (c) whether the entity is able to replace liabilities that no longer meet the eligibility or maturity criteria laid down in Articles 72b and 72c of Regulation (EU) No 575/2013, and Article 45b or Article 45f(2) of this Directive, and if not, whether that inability is of an idiosyncratic nature or is due to market-wide disturbance.
+  >
+  > 2. The deadline for resolution entities to comply with the minimum level of the requirements referred to in Article 45c(5) or (6) shall be 1 January 2022.
+  >
+  > 3. The minimum levels of the requirements referred to in Article 45c(5) and (6) shall not apply within the two-year period following the date:
+  >
+  > - (a) on which the resolution authority has applied the bail-in tool; or
+  > - (b) on which the resolution entity has put in place an alternative private sector measure as referred to in point (b) of Article 32(1) by which capital instruments and other liabilities have been written down or converted into Common Equity Tier 1 instruments, or on which write down or conversion powers, in accordance with Article 59, have been exercised in respect of that resolution entity, in order to recapitalise the resolution entity without the application of resolution tools.
+  >
+  > 4. The requirements referred to in Article 45b(4) and (7) as well as Article 45c(5) and (6), as applicable, shall not apply within the three-year period following the date on which the resolution entity or the group of which the resolution entity is part has been identified as a G-SII, or the resolution entity starts to be in the situation referred to in Article 45c(5) or (6).
+  >
+  > 5. By way of derogation from Article 45(1), resolution authorities shall determine an appropriate transitional period within which to comply with the requirements of Articles 45e or 45f, or a requirement resulting from the application of Article 45b(4), (5) or (7), as appropriate, for institutions or entities referred to in points (b), (c) and (d) of Article 1(1) to which resolution tools or the write-down or conversion power referred to in Article 59 have been applied.
+  >
+  > 6. For the purposes of paragraphs 1 to 5, resolution authorities shall communicate to the institution or entity referred to in points (b), (c) and (d) of Article 1(1) a planned minimum requirement for own funds and eligible liabilities for each 12-month period during the transitional period, with a view to facilitating a gradual build-up of its loss-absorbing and recapitalisation capacity. At the end of the transitional period, the minimum requirement for own funds and eligible liabilities shall be equal to the amount determined under Article 45b(4), (5) or (7), Article 45c(5) or (6), Article 45e or Article 45f, as applicable.
+  >
+  > 7. When determining the transitional periods, resolution authorities shall take into account:
+  >
+  > - (a) the prevalence of deposits and the absence of debt instruments in the funding model;
+  > - (b) the access to the capital markets for eligible liabilities;
+  > - (c) the extent to which the resolution entity relies on Common Equity Tier 1 capital to meet the requirement referred to in Article 45e.
+  >
+  > 8. Subject to paragraph 1, resolution authorities shall not be prevented from subsequently revising either the transitional period or any planned minimum requirement for own funds and eligible liabilities communicated under paragraph 6.
+
+  ;
+- ((18)) in Article 46, the words ‘eligible liabilities’ are replaced by the words ‘bail-inable liabilities’;
+- ((19)) in point (b)(ii) of Article 47(1), the words ‘eligible liabilities’ are replaced by the words ‘bail-inable liabilities’;
+- ((20)) Article 48 is amended as follows:
+  - ((a)) in paragraph 1, point (e) is replaced by the following:
+
+    > (e)
+    >
+    > if, and only if, the total reduction of shares or other instruments of ownership, relevant capital instruments and bail-inable liabilities pursuant to points (a) to (d) of this paragraph is less than the sum of the amounts referred to in points (b) and (c) of Article 47(3), authorities reduce to the extent required the principal amount of, or outstanding amount payable in respect of, the rest of bail-inable liabilities, including debt instruments referred to in Article 108(3), in accordance with the hierarchy of claims in normal insolvency proceedings, including the ranking of deposits provided for in Article 108, pursuant to Article 44, in conjunction with the write down pursuant to points (a) to (d) of this paragraph to produce the sum of the amounts referred to in points (b) and (c) of Article 47(3).
+
+    ;
+  - ((b)) in paragraph 2, the words ‘eligible liabilities’ are replaced by the words ‘bail-inable liabilities’;
+  - ((c)) the following paragraph is added:
+
+    > 7. Member States shall ensure that, for entities referred to in points (a) to (d) of the first subparagraph of Article 1(1), all claims resulting from own funds items have, in national laws governing normal insolvency proceedings, a lower priority ranking than any claim that does not result from an own funds item.
+    >
+    > For the purposes of the first subparagraph, to the extent that an instrument is only partly recognised as an own funds item, the whole instrument shall be treated as a claim resulting from an own funds item and shall rank lower than any claim that does not result from an own funds item.
+
+    ;
+- ((21)) Article 55 is replaced by the following:
+
+  > **Article 55. Contractual recognition of bail-in**
+  >
+  > 1. Member States shall require institutions and entities referred to in points (b), (c) and (d) of Article 1(1) to include a contractual term by which the creditor or party to the agreement or instrument creating the liability recognises that that liability may be subject to the write down and conversion powers and agrees to be bound by any reduction of the principal or outstanding amount due, conversion or cancellation that is effected by the exercise of those powers by a resolution authority, provided that that liability complies with all of the following conditions:
+  >
+  > - (a) the liability is not excluded under Article 44(2);
+  > - (b) the liability is not a deposit as referred to in point (a) of Article 108;
+  > - (c) the liability is governed by the law of a third country;
+  > - (d) the liability is issued or entered into after the date on which a Member State applies the provisions adopted in order to transpose this Section.
+  >
+  > Resolution authorities may decide that the obligation in the first subparagraph of this paragraph shall not apply to institutions or entities in respect of which the requirement under Article 45(1) equals the loss-absorption amount as defined under point (a) of Article 45c(2), provided that liabilities that meet the conditions referred to in the first subparagraph and which do not include the contractual term referred to in that subparagraph are not counted towards that requirement.
+  >
+  > The first subparagraph shall not apply where the resolution authority of a Member State determines that the liabilities or instruments referred to in the first subparagraph can be subject to write down and conversion powers by the resolution authority of a Member State pursuant to the law of the third country or to a binding agreement concluded with that third country.
+  >
+  > 2. Member States shall ensure that where an institution or entity referred to in point (b), (c) or (d) of Article 1(1) reaches the determination that it is legally or otherwise impracticable to include in the contractual provisions governing a relevant liability a term required in accordance with paragraph 1, such institution or entity notifies its determination, including the designation of the class of the liability and the justification of that determination, to the resolution authority. The institution or entity shall provide the resolution authority with all information that the resolution authority requests, within a reasonable timeframe following the receipt of the notification, in order for the resolution authority to assess the effect of such notification on the resolvability of that institution or entity.
+  >
+  > Member States shall ensure that, in the case of a notification under the first subparagraph of this paragraph, the obligation to include in the contractual provisions a term required in accordance with paragraph 1 is automatically suspended from the moment of receipt by the resolution authority of the notification.
+  >
+  > In the event that the resolution authority concludes that it is not legally or otherwise impracticable to include in the contractual provisions a term required in accordance with paragraph 1, taking into account the need to ensure the resolvability of the institution or entity, it shall require, within a reasonable timeframe after the notification pursuant to the first subparagraph, the inclusion of such contractual term. The resolution authority may, in addition, require the institution or entity to amend its practices concerning the application of the exemption from contractual recognition of bail-in.
+  >
+  > The liabilities referred to in the first subparagraph of this paragraph shall not include Additional Tier 1 instruments, Tier 2 instruments and debt instruments referred to in point (48)(ii) of Article 2(1), where those instruments are unsecured liabilities. Moreover, the liabilities referred to in the first subparagraph of this paragraph shall be senior to the liabilities referred to in points (a), (b) and (c) of Article 108(2) and in Article 108(3).
+  >
+  > Where the resolution authority, in the context of the assessment of the resolvability of an institution or entity referred to in point (b), (c) or (d) of Article 1(1) in accordance with Articles 15 and 16, or at any other time, determines that, within a class of liabilities which includes eligible liabilities, the amount of liabilities that, in accordance with the first subparagraph of this paragraph, do not include the contractual term referred to in paragraph 1, together with the liabilities which are excluded from the application of the bail-in tool in accordance with Article 44(2) or which are likely to be excluded in accordance with Article 44(3) amounts to more than 10 % of that class, it shall immediately assess the impact of that particular fact on the resolvability of that institution or entity, including the impact on the resolvability resulting from the risk of breaching the creditor safeguards provided in Article 73 when applying write-down and conversion powers to eligible liabilities.
+  >
+  > Where the resolution authority concludes, on the basis of the assessment referred to in the fifth subparagraph of this paragraph, that the liabilities which, in accordance with the first subparagraph, do not include the contractual term referred to in paragraph 1, create a substantive impediment to resolvability, it shall apply the powers provided in Article 17 as appropriate to remove that impediment to resolvability.
+  >
+  > Liabilities for which the institution or entity referred to in point (b), (c) or (d) of Article 1(1) fails to include in the contractual provisions the term required by paragraph 1 of this Article or for which, in accordance with this paragraph, that requirement does not apply, shall not be counted towards the minimum requirement for own funds and eligible liabilities.
+  >
+  > 3. Member States shall ensure that resolution authorities may require institutions and entities referred to in points (b), (c) and (d) of Article 1(1) to provide authorities with a legal opinion relating to the legal enforceability and effectiveness of the contractual term referred to in paragraph 1 of this Article.
+  >
+  > 4. Where an institution or entity referred to in point (b), (c) or (d) of Article 1(1) does not include in the contractual provisions governing a relevant liability a contractual term required in accordance with paragraph 1 of this Article, that shall not prevent the resolution authority from exercising the write down and conversion powers in relation to that liability.
+  >
+  > 5. EBA shall develop draft regulatory technical standards in order to further determine the list of liabilities to which the exclusion in paragraph 1 applies, and the contents of the contractual term required in that paragraph, taking into account institutions' different business models.
+  >
+  > EBA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+  >
+  > Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+  >
+  > 6. EBA shall develop draft regulatory technical standards in order to further specify:
+  >
+  > - (a) the conditions under which it would be legally or otherwise impracticable for an institution or entity referred to in point (b), (c) or (d) of Article 1(1) to include the contractual term referred to in paragraph 1 of this Article in certain categories of liabilities;
+  > - (b) the conditions for the resolution authority to require the inclusion of the contractual term pursuant to the third subparagraph of paragraph 2;
+  > - (c) the reasonable timeframe for the resolution authority to require the inclusion of a contractual term pursuant to the third subparagraph of paragraph 2.
+  >
+  > EBA shall submit those draft regulatory technical standards to the Commission by 28 June 2020.
+  >
+  > Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+  >
+  > 7. The resolution authority shall specify, where it deems it necessary, the categories of liabilities for which an institution or entity referred to in point (b), (c) or (d) of Article 1(1) may reach the determination that it is legally or otherwise impracticable to include the contractual term referred to in paragraph 1 of this Article, based on the conditions further specified as a result of the application of paragraph 6.
+  >
+  > 8. EBA shall develop draft implementing technical standards to specify uniform formats and templates for the notification to resolution authorities for the purposes of paragraph 2.
+  >
+  > EBA shall submit those draft implementing technical standards to the Commission by 28 June 2020.
+  >
+  > Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+  ;
+- ((22)) the title of Chapter V of Title IV is replaced by the following:
+
+  > Write down or conversion of capital instruments and eligible liabilities
+
+  ;
+- ((23)) Article 59 is amended as follows:
+  - ((a)) the title is replaced by the following:
+
+    > Requirement to write down or convert relevant capital instruments and eligible liabilities
+
+    ;
+  - ((b)) paragraph 1 is replaced by the following:
+
+    > 1. The power to write down or convert relevant capital instruments and eligible liabilities may be exercised either:
+    >
+    > - (a) independently of resolution action; or
+    > - (b) in combination with a resolution action, where the conditions for resolution specified in Articles 32, 32a or 33 are met.
+    >
+    > Where relevant capital instruments and eligible liabilities have been purchased by the resolution entity indirectly through other entities in the same resolution group, the power to write down or convert those relevant capital instruments and eligible liabilities shall be exercised together with the exercise of the same power at the level of the parent undertaking of the entity concerned or at the level of other parent undertakings that are not resolution entities, so that the losses are effectively passed on to, and the entity concerned is recapitalised by, the resolution entity.
+    >
+    > After the exercise of the power to write down or convert relevant capital instruments and eligible liabilities independently of resolution action, the valuation provided for in Article 74 shall be carried out, and Article 75 shall apply.
+
+    ;
+  - ((c)) the following paragraphs are inserted:
+
+    > 1a. The power to write down or convert eligible liabilities independently of resolution action may be exercised only in relation to eligible liabilities that meet the conditions referred to in point (a) of Article 45f(2) of this Directive, except the condition related to the remaining maturity of liabilities as set out in Article 72c(1) of Regulation (EU) No 575/2013.
+    >
+    > When that power is exercised, Member States shall ensure that the write-down or conversion is done in accordance with the principle referred to in point (g) of Article 34(1).
+    >
+    > 1b. Where a resolution action is taken in relation to a resolution entity or, in exceptional circumstances in deviation from the resolution plan, in relation to an entity that is not a resolution entity, the amount that is reduced, written down or converted in accordance with Article 60(1) at the level of such an entity shall count towards the thresholds laid down in Articles 37(10) and point (a) of Article 44(5), or point (a) of Article 44(8) that apply to the entity concerned.
+
+    ;
+  - ((d)) in paragraph 2, the words ‘capital instruments’ are replaced by the words ‘capital instruments, and eligible liabilities as referred to in paragraph 1a,’;
+  - ((e)) in paragraph 3, the introductory part and points (a) and (b) are replaced by the following:
+
+    > 3. Member States shall require that resolution authorities exercise the write down or conversion power, in accordance with Article 60 and without delay, in relation to relevant capital instruments, and eligible liabilities as referred to in paragraph 1a, issued by an institution or an entity referred to in point (b), (c) or (d) of Article 1(1) when one or more of the following circumstances apply:
+    >
+    > - (a) where the determination has been made that the conditions for resolution specified in Articles 32, 32a, or 33 have been met, before any resolution action is taken; or
+    > - (b) the appropriate authority determines that unless that power is exercised in relation to the relevant capital instruments, and eligible liabilities as referred to in paragraph 1a, the institution or the entity referred to in point (b), (c) or (d) of Article 1(1) will no longer be viable;
+
+    ;
+  - ((f)) in paragraphs 4 and 10, the words ‘capital instruments’ are replaced by the words ‘capital instruments, or eligible liabilities as referred to in paragraph 1a’;
+- ((24)) Article 60 is amended as follows:
+  - ((a)) the title is replaced by the following:
+
+    > Provisions concerning the write down or conversion of relevant capital instruments and eligible liabilities
+
+    ;
+  - ((b)) in paragraph 1, the following point (d) is added:
+
+    > (d)
+    >
+    > the principal amount of eligible liabilities referred to in Article 59(1a) is written down or converted into Common Equity Tier 1 instruments or both, to the extent required to achieve the resolution objectives set out in Article 31 or to the extent of the capacity of the relevant eligible liabilities, whichever is lower.
+
+    ;
+  - ((c)) paragraph 2 is replaced by the following:
+
+    > 2. Where the principal amount of a relevant capital instrument, or an eligible liability as referred to in Article 59(1a) is written down:
+    >
+    > - (a) the reduction of that principal amount shall be permanent, subject to any write up in accordance with the reimbursement mechanism in Article 46(3);
+    > - (b) no liability to the holder of the relevant capital instrument, or of the eligible liability as referred to in Article 59(1a), shall remain under or in connection with that amount of the instrument, which has been written down, except for any liability already accrued, and any liability for damages that may arise as a result of an appeal challenging the legality of the exercise of the write down power;
+    > - (c) no compensation is paid to any holder of the relevant capital instruments, or of the liabilities as referred to in Article 59(1a), other than in accordance with paragraph 3 of this Article.
+
+    ;
+  - ((d)) paragraph 3 is amended as follows:
+    - ((i)) the introductory part is replaced by the following:
+
+      > In order to effect a conversion of relevant capital instruments, and eligible liabilities as referred to in Article 59(1a), under points (b), (c) and (d) of paragraph 1 of this Article, resolution authorities may require institutions and entities referred to in points (b), (c) and (d) of Article 1(1) to issue Common Equity Tier 1 instruments to the holders of the relevant capital instruments and such eligible liabilities. Relevant capital instruments and such liabilities may only be converted where the following conditions are met:
+
+      ;
+    - ((ii)) in point (d), the words ‘each relevant capital instrument’ is replaced by the words ‘each relevant capital instrument, or each eligible liability as referred to in Article 59(1a)’;
+- ((25)) in Article 61(3), the following subparagraph is added:
+
+  > Where the relevant capital instruments, or eligible liabilities as referred to in Article 59(1a) of this Directive, are recognised for the purposes of meeting the requirement referred to in Article 45f(1) of this Directive, the authority responsible for making the determination referred to in Article 59(3) of this Directive shall be the appropriate authority of the Member State where the institution or the entity referred to in point (b), (c) or (d) of Article 1(1) of this Directive has been authorised in accordance with Title III of Directive 2013/36/EU.
+
+  ;
+- ((26)) Article 62 is amended as follows:
+  - ((a)) paragraph 1 is replaced by the following:
+
+    > 1. Member States shall ensure that, before making a determination referred to in point (b), (c), (d) or (e) of Article 59(3) in relation to a subsidiary that issues relevant capital instruments, or eligible liabilities as referred to in Article 59(1a), for the purposes of meeting the requirement referred to in Article 45f on an individual basis or relevant capital instruments that are recognised for the purposes of meeting the own funds requirements on an individual or consolidated basis, an appropriate authority complies with the following requirements:
+    >
+    > - (a) when considering whether to make a determination referred to in point (b), (c), (d) or (e) of Article 59(3), after consulting the resolution authority of the relevant resolution entity, it notifies, within 24 hours of consulting that resolution authority
+    >   - ((i)) the consolidating supervisor and, if different, the appropriate authority in the Member State where the consolidating supervisor is located;
+    >   - ((ii)) resolution authorities of other entities within the same resolution group that directly or indirectly purchased liabilities referred to in Article 45f(2) from the entity that is subject to Article 45f(1);
+    > - (b) when considering whether to make a determination referred to in point (c) of Article 59(3), it notifies, without delay, the competent authority responsible for each institution or entity referred to in point (b), (c) or (d) of Article 1(1) that has issued the relevant capital instruments in relation to which the write down or conversion powers are to be exercised if that determination were made, and, if different, the appropriate authorities in the Member States where those competent authorities and the consolidating supervisor are located.
+
+    ;
+  - ((b)) in paragraph 4, the introductory part is replaced by the following:
+
+    > Where a notification has been made pursuant to paragraph 1, the appropriate authority, after consulting the authorities notified in accordance with points (a)(i) or (b) of that paragraph, shall assess the following matters:
+
+    ;
+- ((27)) in points (e), (f) and (j) of Article 63(1), the words ‘eligible liabilities’ are replaced by the words ‘bail-inable liabilities’;
+- ((28)) in Article 66(4), the words ‘eligible liabilities’ are replaced by the words ‘bail-inable liabilities’;
+- ((29)) Article 68 is amended as follows:
+  - ((a)) in paragraph 3, the introductory part is replaced by the following:
+
+    > Provided that the substantive obligations under the contract, including payment and delivery obligations, and provision of collateral, continue to be performed, a crisis prevention measure, a suspension of obligation under Article 33a or a crisis management measure, including the occurrence of any event directly linked to the application of such a measure, shall not, per se, make it possible for anyone to:
+
+    ;
+  - ((b)) paragraph 5 is replaced by the following:
+
+    > 5. A suspension or restriction under Articles 33a, 69, or 70 shall not constitute non-performance of a contractual obligation for the purposes of paragraphs 1 and 3 of this Article and of Article 71(1).
+
+    ;
+- ((30)) Article 69 is amended as follows:
+  - ((a)) paragraph 4 is replaced by the following:
+
+    > 4. Any suspension under paragraph 1 shall not apply to payment and delivery obligations owed to the following:
+    >
+    > - (a) systems and operators of systems designated in accordance with Directive 98/26/EC;
+    > - (b) CCPs authorised in the Union pursuant to Article 14 of Regulation (EU) No 648/2012 and third-country CCPs recognised by ESMA pursuant to Article 25 of that Regulation;
+    > - (c) central banks.
+
+    ;
+  - ((b)) in paragraph 5, the following subparagraphs are added:
+
+    > The resolution authorities shall set the scope of that power having regard to the circumstances of each case. In particular, resolution authorities shall carefully assess the appropriateness of extending the suspension to eligible deposits as defined in point (4) of Article 2(1) of Directive 2014/49/EU, especially to covered deposits held by natural persons and micro, small and medium-sized enterprises.
+    >
+    > Member States may provide that, where the power to suspend payment or delivery obligations is exercised in respect of eligible deposits, resolution authorities ensure that depositors have access to an appropriate daily amount from those deposits.
+
+    ;
+- ((31)) in Article 70, paragraph 2 is replaced by the following:
+
+  > 2. Resolution authorities shall not exercise the power referred to in paragraph 1 of this Article in relation to any of the following:
+  >
+  > - (a) security interest of systems or operators of systems designated for the purposes of Directive 98/26/EC;
+  > - (b) central counterparties authorised in the Union pursuant to Article 14 of Regulation (EU) No 648/2012 and third-country central counterparties recognised by ESMA pursuant to Article 25 of Regulation (EU) No 648/2012; and
+  > - (c) central banks, over assets pledged or provided by way of margin or collateral by the institution under resolution.
+
+  ;
+- ((32)) in Article 71, paragraph 3 is replaced by the following:
+
+  > 3. Any suspension under paragraph 1 or 2 shall not apply to:
+  >
+  > - (a) systems or operators of systems designated for the purposes of Directive 98/26/EC;
+  > - (b) central counterparties authorised in the Union pursuant to Article 14 of Regulation (EU) No 648/2012 and third-country central counterparties recognised by ESMA pursuant to Article 25 of Regulation (EU) No 648/2012; or
+  > - (c) central banks.
+
+  ;
+- ((33)) the following Article is inserted:
+
+  > **Article 71a. Contractual recognition of resolution stay powers**
+  >
+  > 1. Member States shall require institutions and entities referred to in points (b), (c) and (d) of Article 1(1) to include in any financial contract which they enter into and which is governed by third-country law, terms by which the parties recognise that the financial contract may be subject to the exercise of powers by the resolution authority to suspend or restrict rights and obligations under Articles 33a, 69, 70, and 71 and recognise that they are bound by the requirements of Article 68.
+  >
+  > 2. Member States may also require that Union parent undertakings ensure that their third-country subsidiaries include, in the financial contracts referred to in paragraph 1, terms to exclude that the exercise of the power of the resolution authority to suspend or restrict rights and obligations of the Union parent undertaking, in accordance with paragraph 1, constitutes a valid ground for early termination, suspension, modification, netting, exercise of set-off rights or enforcement of security interests on those contracts.
+  >
+  > The requirement in the first subparagraph may apply in respect of third-country subsidiaries which are:
+  >
+  > - (a) credit institutions;
+  > - (b) investment firms (or which would be investment firms if they had a head office in the relevant Member State); or
+  > - (c) financial institutions.
+  >
+  > 3. Paragraph 1 shall apply to any financial contract which:
+  >
+  > - (a) creates a new obligation, or materially amends an existing obligation after the entry into force of the provisions adopted at national level to transpose this Article;
+  > - (b) provides for the exercise of one or more termination rights or rights to enforce security interests to which Article 33a, 68, 69, 70 or 71 would apply if the financial contract were governed by the laws of a Member State.
+  >
+  > 4. Where an institution or entity does not include the contractual term required in accordance with paragraph 1 of this Article, that shall not prevent the resolution authority from applying the powers referred to in Articles 33a, 68, 69, 70 or 71 in relation to that financial contract.
+  >
+  > 5. EBA shall develop draft regulatory technical standards in order to further determine the contents of the term required in paragraph 1, taking into account institutions' and entities' different business models.
+  >
+  > EBA shall submit those draft regulatory technical standards to the Commission by 28 June 2020.
+  >
+  > Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+  ;
+- ((34)) Article 88 is amended as follows:
+  - ((a)) in paragraph 1, the first subparagraph is replaced by the following:
+
+    > Subject to Article 89, group-level resolution authorities shall establish resolution colleges to carry out the tasks referred to in Articles 12, 13, 16, 18, 45 to 45h, 91 and 92, and, where appropriate, to ensure cooperation and coordination with third-country resolution authorities.
+
+    ;
+  - ((b)) in paragraph 1, in point (i) of the second subparagraph, the words ‘Article 45’ are replaced by the words ‘Articles 45 to 45h’;
+- ((35)) Article 89 is replaced by the following:
+
+  > **Article 89. European resolution colleges**
+  >
+  > 1. Where a third-country institution or third-country parent undertaking has subsidiaries established in the Union or Union parent undertakings, established in two or more Member States, or two or more Union branches that are regarded as significant by two or more Member States, the resolution authorities of Member States where those entities are established or where those significant branches are located shall establish one single European resolution college.
+  >
+  > 2. The European resolution college referred to in paragraph 1 of this Article shall perform the functions and carry out the tasks specified in Article 88 with respect to the entities referred in paragraph 1 of this Article and, in so far as those tasks are relevant, to their branches.
+  >
+  > The tasks referred to in the first subparagraph of this paragraph shall include the setting of the requirement referred to in Articles 45 to 45h.
+  >
+  > When setting the requirement referred to in Articles 45 to 45h, members of the European resolution college shall take into consideration the global resolution strategy, if any, adopted by third-country authorities.
+  >
+  > Where, in accordance with the global resolution strategy, subsidiaries established in the Union or a Union parent undertaking and its subsidiary institutions are not resolution entities and the members of the European resolution college agree with that strategy, subsidiaries established in the Union or, on a consolidated basis, the Union parent undertaking shall comply with the requirement of Article 45f(1) by issuing instruments referred to in points (a) and (b) of Article 45f(2) to their ultimate parent undertaking established in a third country, or to the subsidiaries of that ultimate parent undertaking that are established in the same third country or to other entities under the conditions set out in points (a)(i) and (b)(ii) of Article 45f(2).
+  >
+  > 3. Where only one Union parent undertaking holds all Union subsidiaries of a third-country institution or third-country parent undertaking, the European resolution college shall be chaired by the resolution authority of the Member State where the Union parent undertaking is established.
+  >
+  > Where the first subparagraph does not apply, the resolution authority of a Union parent undertaking or a Union subsidiary with the highest value of total on-balance sheet assets held shall chair the European resolution college.
+  >
+  > 4. Member States may, by mutual agreement of all of the relevant parties, waive the requirement to establish a European resolution college if another group or college performs the same functions and carries out the same tasks specified in this Article and complies with all of the conditions and procedures, including those covering membership and participation in European resolution colleges, established in this Article and in Article 90. In such a case, all references to European resolution colleges in this Directive shall also be understood as references to those other groups or colleges.
+  >
+  > 5. Subject to paragraphs 3 and 4 of this Article, the European resolution college shall otherwise function in accordance with Article 88.
+
+  ;
+- ((36)) in point (6) of Section B and in point (17) of Section C of the Annex, the words ‘eligible liabilities’ are replaced by the words ‘bail-inable liabilities’.
+
+## Article 2. Amendments to Directive 98/26/EC
+
+Directive 98/26/EC is amended as follows:
+
+- ((1)) Article 2 is amended as follows:
+  - ((a)) point (c) is replaced by the following:
+
+    > - ((c)) “central counterparty” or “CCP” shall mean a CCP as defined in point (1) of Article 2 of Regulation (EU) No 648/2012;
+
+    ;
+  - ((b)) point (f) is replaced by the following:
+
+    > - ((f)) “participant” shall mean an institution, a central counterparty, a settlement agent, a clearing house, a system operator or a clearing member of a CCP authorised pursuant to Article 17 of Regulation (EU) No 648/2012;
+
+    ;
+- ((2)) the following Article is inserted:
+
+  > **Article 12a.** By 28 June 2021, the Commission shall review how Member States apply this Directive to their domestic institutions which participate directly in systems governed by the law of a third country and to collateral security provided in connection with participation in such systems. The Commission shall assess in particular the need for any further amendments to this Directive with regard to systems governed by the law of a third country. The Commission shall submit a report thereon to the European Parliament and the Council, accompanied where appropriate by proposals for revision of this Directive.
+
+  .
+
+## Article 3. Transposition
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 28 December 2020. They shall forthwith communicate to the Commission the text of those measures.
+
+Member States shall apply those measures as from the date of their entry into force in national law, which shall be no later than 28 December 2020.
+
+Member States shall apply point (17) of Article 1 of this Directive, as regards Article 45i(3) of Directive 2014/59/EU from 1 January 2024. Where, in accordance with Article 45m(1) of Directive 2014/59/EU, the resolution authority has set a compliance deadline that ends after 1 January 2024, the application date of point (17) of Article 1 of this Directive as regards Article 45i(3) of Directive 2014/59/EU shall be the same as the compliance deadline.
+
+2. When Member States adopt the measures referred to in paragraph 1, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such a reference is to be made.
+
+3. Member States shall communicate to the Commission and to EBA the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 4. Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+## Article 5. Addressees
+
+This Directive is addressed to the Member States.
+
+Done at Brussels, 20 May 2019.
+
+*For the European Parliament*
+
+*The President*
+
+A. Tajani
+
+*For the Council*
+
+*The President*
+
+G. Ciamba
+
+## Annotations
+
+[^f00001]: Footnote: [OJ C 34, 31.1.2018, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2018.034.01.0017.01.ENG).
+
+[^f00002]: Footnote: [OJ C 209, 30.6.2017, p. 36](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2017.209.01.0036.01.ENG).
+
+[^f00003]: Footnote: Position of the European Parliament of 16 April 2019 (not yet published in the Official Journal) and decision of the Council of 14 May 2019.
+
+[^f00004]: Footnote: Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council ([OJ L 173, 12.6.2014, p. 190](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0190.01.ENG)).
+
+[^f00005]: Footnote: Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 ([OJ L 176, 27.6.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0001.01.ENG)).
+
+[^f00006]: Footnote: Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010 ([OJ L 225, 30.7.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.225.01.0001.01.ENG)).
+
+[^f00007]: Footnote: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC ([OJ L 176, 27.6.2013, p. 338](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0338.01.ENG)).
+
+[^f00008]: Footnote: Commission Delegated Regulation (EU) 2016/1075 of 23 March 2016 supplementing Directive 2014/59/EU of the European Parliament and of the Council with regard to regulatory technical standards specifying the content of recovery plans, resolution plans and group resolution plans, the minimum criteria that the competent authority is to assess as regards recovery plans and group recovery plans, the conditions for group financial support, the requirements for independent valuers, the contractual recognition of write-down and conversion powers, the procedures and contents of notification requirements and of notice of suspension and the operational functioning of the resolution colleges ([OJ L 184, 8.7.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.184.01.0001.01.ENG)).
+
+[^f00009]: Footnote: Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC ([OJ L 331, 15.12.2010, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.331.01.0012.01.ENG)).
+
+[^f00010]: Footnote: Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes ([OJ L 173, 12.6.2014, p. 149](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0149.01.ENG)).
+
+[^f00011]: Footnote: Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories ([OJ L 201, 27.7.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.201.01.0001.01.ENG)).

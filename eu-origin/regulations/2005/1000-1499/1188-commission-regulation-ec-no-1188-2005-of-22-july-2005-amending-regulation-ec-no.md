@@ -1,0 +1,86 @@
+---
+title: Commission Regulation (EC) No 1188/2005 of 22 July 2005 amending Regulation (EC) No 761/2005 opening crisis distillation as provided for in Article 30 of Council Regulation (EC) No 1493/1999 for certain wines in France
+id: eur/2005/1188
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2005-07-22'
+text_date: '2005-07-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2005/1188
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2005/1188/pdfs/eur_20051188_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2005/1188/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 1188/2005 of 22 July 2005 amending Regulation (EC) No 761/2005 opening crisis distillation as provided for in Article 30 of Council Regulation (EC) No 1493/1999 for certain wines in France
+
+> Text as at 2005-07-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 1188/2005
+
+of 22 July 2005
+
+amending Regulation (EC) No 761/2005 opening crisis distillation as provided for in Article 30 of Council Regulation (EC) No 1493/1999 for certain wines in France
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine[^f00001], and in particular Article 33(1)(f) thereof,
+
+Whereas:
+
+(1)
+
+Commission Regulation (EC) No 761/2005[^f00002] opened crisis distillation under Article 30 of Regulation (EC) No 1493/1999 for certain quality wines produced in France for the period 23 May to 15 July 2005.
+
+(2)
+
+Since this is the first time that quality wine produced in France has been subject to crisis distillation, some problems have been encountered in launching the system. Certain producers wishing to participate in the distillation may be unable to do so within the deadline laid down. To ensure that the measure is effective, therefore, the period for concluding delivery contracts as provided for in Regulation (EC) No 761/2005 should be extended until 31 July 2005.
+
+(3)
+
+Regulation (EC) No 761/2005 should therefore be amended accordingly.
+
+(4)
+
+To ensure continuity of the measure, this Regulation should apply from 16 July 2005.
+
+(5)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** The first paragraph of Article 2 of Regulation (EC) No 761/2005 is hereby replaced by the following:
+
+> Producers may conclude contracts as provided for in Article 65 of Regulation (EC) No 1623/2000 (hereinafter referred to as the contract) from 23 May to 31 July 2005.
+
+**Article 2.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 16 July 2005.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 22 July 2005.
+
+*For the Commission*
+
+Mariann Fischer Boel
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 179, 14.7.1999, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.179.01.0001.01.ENG). Regulation last amended by Commission Regulation (EC) No 1795/2003 ([OJ L 262, 14.10.2003, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.262.01.0013.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 127, 20.5.2005, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.127.01.0006.01.ENG).

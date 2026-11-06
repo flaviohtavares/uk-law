@@ -1,0 +1,10366 @@
+---
+title: Commission Regulation (EU) No 582/2011 of 25 May 2011 implementing and amending Regulation (EC) No 595/2009 of the European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) and amending Annexes I and III to Directive 2007/46/EC of the European Parliament and of the Council (Text with EEA relevance)
+id: eur/2011/582
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2011-05-25'
+text_date: '2022-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2011/582
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2012-02-03_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2013-07-01_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2014-03-05_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2014-07-03_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2016-10-17_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2017-01-01_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2017-07-27_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2018-01-18_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2018-07-22_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2019-12-15_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/pdfs/eur_20110582_2020-09-01_en.pdf
+- http://www.legislation.gov.uk/eur/2011/582/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EU) No 582/2011 of 25 May 2011 implementing and amending Regulation (EC) No 595/2009 of the European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) and amending Annexes I and III to Directive 2007/46/EC of the European Parliament and of the Council (Text with EEA relevance)
+
+> Text as at 2022-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EU) No 582/2011
+
+of 25 May 2011
+
+implementing and amending Regulation (EC) No 595/2009 of the European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) and amending Annexes I and III to Directive 2007/46/EC of the European Parliament and of the Council
+
+(Text with EEA relevance)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC[^f00001], and in particular Articles 4(3), 5(4) and 6(2) and Article 12 thereof,
+
+Having regard to Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive)[^f00002], and in particular Article 39(7) thereof,
+
+Whereas:
+
+(1)
+
+Regulation (EC) No 595/2009 is one of the separate regulatory acts under the type-approval procedure laid down by Directive 2007/46/EC.
+
+(2)
+
+Regulation (EC) No 595/2009 requires new heavy duty vehicles and engines to comply with new emission limits and introduces additional requirements on access to information. The technical requirements will apply from 31 December 2012 for new types of vehicles and from 31 December 2013 for all new vehicles. The specific technical provisions necessary to implement Regulation (EC) No 595/2009 should be adopted. Therefore, the present Regulation aims at setting the requirements necessary for the type-approval of Euro VI specification vehicles and engines.
+
+(3)
+
+Article 5(4) of Regulation (EC) No 595/2009 requires the Commission to adopt implementing legislation setting out specific technical requirements relating to the control of emissions from vehicles. Therefore, it is appropriate to adopt those requirements.
+
+(4)
+
+Following the adoption of the main requirements for type-approval of heavy duty motor vehicles and engines by Regulation (EC) No 595/2009, it is necessary to establish administrative provisions for that EC type-approval. Those administrative requirements should include provisions for conformity of production and in-service conformity to ensure continued good performance of production vehicles and engines.
+
+(5)
+
+In accordance with Article 6 of Regulation (EC) No 595/2009, it is also necessary to establish requirements to ensure that vehicle on-board diagnostic (hereinafter ‘OBD’) and vehicle repair and maintenance information is readily accessible, so as to ensure that independent operators have access to such information.
+
+(6)
+
+In accordance with Regulation (EC) No 595/2009, the measures provided for in this Regulation regarding access to vehicle repair and maintenance information, information for diagnostic tools and the compatibility of replacement parts with vehicle OBD systems, should not be restricted to emission-related components and systems but cover all aspects of a vehicle subject to type-approval within the scope of this Regulation.
+
+(7)
+
+In accordance with Article 5 of Regulation (EC) No 595/2009, the Commission should adopt measures for implementing the use of portable measurement systems for verifying the actual in-use emissions and verifying and limiting the off-cycle emissions. It is therefore necessary to set out, within an appropriate timeframe, provisions on off-cycle emissions both at type-approval and for verifying and limiting the off-cycle emissions in actual use of the vehicles. For the purpose of in-service conformity a procedure using portable emissions measurement systems (hereinafter ‘PEMS’) should be introduced. The PEMS procedures introduced through this Regulation should be subject to an assessment on the basis of which the Commission should be empowered to amend the in-use provisions.
+
+(8)
+
+In accordance with Article 5(4)(d) of Regulation (EC) No 595/2009, it is necessary to establish requirements for type-approval of replacement pollution control devices so as to ensure that they function correctly.
+
+(9)
+
+In accordance with Article 5(4)(d) of Regulation (EC) No 595/2009, it is necessary to establish requirements for determining deterioration factors to be used for verifying the durability of engine systems. In addition and subject to the results of research and development on methods for bench ageing of engine systems the Commission should be empowered to amend the provisions for determining deterioration factors.
+
+(10)
+
+As provided for by Article 12(1) of Regulation (EC) No 595/2009, new limit values and a measurement procedure for the number of particles emitted should be introduced. The measurement procedure should be based on the work of the Particulate Measurement Programme (PMP) of the United Nations Economic Commission for Europe (hereinafter ‘UN/ECE’).
+
+(11)
+
+In accordance with Article 12(2) of Regulation (EC) No 595/2009, limit values for the World Harmonized Transient Driving Cycle (hereinafter ‘WHTC’) and the Worldwide Harmonised Steady state Cycle (hereinafter ‘WHSC’) as specified in Annex 4B to Regulation No 49 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the measures to be taken against the emission of gaseous and particulate pollutants from compression-ignition engines for use in vehicles, and the emission of gaseous pollutants from positive-ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles[^f00003] should be introduced.
+
+(12)
+
+The Commission should assess the need for specific measures regarding multi-setting engines, and should be empowered to amend the provisions in accordance with the results of that assessment.
+
+(13)
+
+Regulation (EC) No 595/2009 and Directive 2007/46/EC should therefore be amended accordingly.
+
+(14)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Technical Committee – Motor Vehicles,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1. Subject matter
+
+This Regulation lays down measures for the implementation of Articles 4, 5, 6 and 12 of Regulation (EC) No 595/2009.
+
+It also amends Regulation (EC) No 595/2009 and Directive 2007/46/EC.
+
+## Article 2. Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+- ((1)) ‘engine system’ means the engine, the emission control system and the communication interface (hardware and messages) between the engine system electronic control unit or units (hereinafter ‘ECU’) and any other powertrain or vehicle control unit;
+- ((2)) ‘service accumulation schedule’ means the ageing cycle and the service accumulation period for determining the deterioration factors for the engine-aftertreatment system family;
+- ((3)) ‘engine family’ means a manufacturers grouping of engines which, through their design as defined in Section 6 of Annex I, have similar exhaust emission characteristics; all members of the family shall comply with the applicable emission limit values;
+- ((4)) ‘engine type’ means a category of engines which do not differ in essential engine characteristics as set out in Appendix 4 to Annex I;
+- ((5)) ‘vehicle type with regard to emissions and vehicle repair and maintenance information’ means a group of vehicles which do not differ in essential engine and vehicle characteristics as set out in Appendix 4 to Annex I;
+- ((6)) ‘deNO<sub>x</sub> system’ means a selective catalytic reduction (hereinafter ‘SCR’) system, NO<sub>x</sub> adsorber, passive or active lean NO<sub>x</sub> catalyst or any other exhaust after-treatment system designed to reduce emissions of oxides of nitrogen (NO<sub>x</sub>);
+- ((7)) ‘exhaust after-treatment system’ means a catalyst (oxidation, 3-way or any other), particulate filter, deNO<sub>x</sub> system, combined deNO<sub>x</sub> particulate filter, or any other emission reducing device, that is installed downstream of the engine;
+- ((8)) ‘on-board diagnostic (OBD) system’ means a system on-board a vehicle or engine which has the capability:
+  - ((a)) of detecting malfunctions, affecting the emission performance of the engine system; and
+  - ((b)) of indicating their occurrence by means of an alert system; and
+  - ((c)) of identifying the likely area of the malfunction by means of information stored in computer memory and communicating that information off-board;
+- ((9)) ‘qualified deteriorated component or system’ (hereinafter ‘QDC’) means a component or system that has been intentionally deteriorated such as by accelerated ageing or by having been manipulated in a controlled manner and which has been accepted by the approval authority in accordance with the provisions set out in Annex 9B to UN/ECE Regulation No 49 for use when demonstrating the OBD performance of the engine system;[^c000001]
+- ((10)) ‘ECU’ means the engine system electronic control unit;
+- ((11)) ‘diagnostic trouble code’ (hereinafter ‘DTC’) means a numeric or alphanumeric identifier which identifies or labels a malfunction;
+- ((12)) ‘portable emissions measurement system’ (hereinafter ‘PEMS’) means a portable emissions measurement system meeting the requirements specified in Appendix 2 to Annex II;
+- ((13)) ‘malfunction indicator’ (hereinafter ‘MI’) means an indicator which is part of the alert system and which clearly informs the driver of the vehicle in the event of a malfunction;
+- ((14)) ‘ageing cycle’ means the vehicle or engine operation (speed, load, power) to be executed during the service accumulation period;
+- ((15)) ‘critical emission-related components’ means the following components which are designed primarily for emission control: any exhaust after-treatment system, the ECU and its associated sensors and actuators, and the exhaust gas recirculation (hereinafter ‘EGR’) system including all related filters, coolers, control valves and tubing;
+- ((16)) ‘critical emission-related maintenance’ means the maintenance to be performed on critical emission-related components;
+- ((17)) ‘emission related maintenance’ means the maintenance which substantially affects emissions or which is likely to affect emissions deterioration of the vehicle or the engine during normal in-use operation;
+- ((18)) ‘engine aftertreatment system family’ means a manufacturer’s grouping of engines that comply with the definition of engine family, but which are further grouped into engines utilising a similar exhaust after-treatment system;
+- ((19)) ‘Wobbe index (lower W<sub> l </sub> or upper W<sub> u </sub>)’ means the ratio of the corresponding calorific value of a gas per unit volume and the square root of its relative density under the same reference conditions:
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+  Which can also be expressed as
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+- ((20)) ‘λ-shift factor’ (hereinafter ‘Sλ’) means an expression, specified in Section A.5.5.1 of Appendix 5 of Annex 4 to UNECE Regulation No 49, that describes the required flexibility of the engine management system regarding a change of excess-air-ratio λ if the engine is fuelled with a gas composition different from pure methane;
+- ((21)) ‘non-emission-related maintenance’ means the maintenance which does not substantially affect emissions and which does not have a lasting effect on the emissions deterioration of the vehicle or the engine during normal in-use operation once the maintenance is performed;
+- ((22)) ‘OBD engine family’ means a manufacturer’s grouping of engine systems having common methods of monitoring and diagnosing emission-related malfunctions;
+- ((23)) ‘scan-tool’ means an external test equipment used for standardised off-board communication with the OBD system in accordance with the requirements of this Regulation;
+- ((24)) ‘Auxiliary Emission Strategy’ (hereinafter ‘AES’) means an emission strategy that becomes active and replaces or modifies a base emission strategy for a specific purpose and in response to a specific set of ambient and/or operating conditions and only remains operational as long as those conditions exist;
+- ((25)) ‘Base Emission Strategy’ (hereinafter ‘BES’) means an emission strategy that is active throughout the speed and load operating range of the engine unless an AES is activated;
+- ((26)) ‘in-use performance ratio’ means the ratio of the number of times that the conditions have existed under which a monitor, or group of monitors, should have detected a malfunction to the number of driving cycles of relevance to that monitor or group of monitors;
+- ((27)) ‘engine start’ consists of the ignition-On, cranking and start of combustion, and is completed when the engine speed reaches 150 min<sup>-1</sup> below the normal, warmed-up idle speed;
+- ((28)) ‘operating sequence’ means a sequence consisting of an engine start, an operating period (of the engine), an engine shut-off, and the time until the next start, where a specific OBD monitor runs to completion and a malfunction would be detected if present;
+- ((29)) ‘emission threshold monitoring’ means monitoring of a malfunction that leads to an excess of the OBD threshold limits (OTLs) and which consists of either or both of the following:
+  - ((a)) direct emissions measurement via a tailpipe emissions sensor(s) and a model to correlate the direct emissions to specific emissions of the applicable test-cycle;
+  - ((b)) indication of an emissions increase via correlation of computer input and output information to test-cycle specific emissions;
+- ((30)) ‘performance monitoring’ means malfunction monitoring that consists of functionality checks, and the monitoring of parameters that are not directly correlated to emission thresholds, that is done on components or systems to verify that they are operating within the proper range;
+- ((31)) ‘rationality failure’ means a malfunction where the signal from an individual sensor or component differs from that expected when assessed against signals available from other sensors or components within the control system including cases where all of the measured signals and component output data are individually within the range associated with normal operation of the associated sensor or component and where none of the sensors or components is individually indicating a malfunction;
+- ((32)) ‘total functional failure monitoring’ means monitoring in order to detect a malfunction which will lead to a complete loss of the desired function of a system;
+- ((33)) ‘malfunction’ means a failure or deterioration of an engine system, including the OBD system, that might reasonably be expected to lead either to an increase in any of the regulated pollutants emitted by the engine system or to a reduction in the effectiveness of the OBD system;
+- ((34)) ‘general denominator’ means a counter indicating the number of times a vehicle has been operated, taking into account general conditions;
+- ((35)) ‘ignition cycle counter’ means a counter indicating the number of engine starts a vehicle has experienced;
+- ((36)) ‘Driving cycle’ means a sequence consisting of an engine start, an operating period (of the vehicle), an engine shut-off, and the time until the next engine start;
+- ((37)) ‘group of monitors’ means, for the purpose of assessing the in-use performance of an OBD engine family, a set of OBD monitors used for determining the correct operation of the emission control system;
+- ((38)) ‘net power’ means the power obtained on a test bench at the end of the crankshaft or its equivalent at the corresponding engine or motor speed with the auxiliaries according to Annex XIV and determined under reference atmospheric conditions;
+- ((39)) ‘maximum net power’ means the maximum value of the net power measured at full engine load;
+- ((40)) ‘wall-flow diesel particulate filter’ means a diesel particulate filter (hereinafter ‘DPF’) in which all the exhaust gas is forced to flow through a wall which filters out the solid matter;
+- ((41)) ‘continuous regeneration’ means the regeneration process of an exhaust after-treatment system that occurs either permanently or at least once per World Harmonized Transient Driving Cycle (hereinafter ‘WHTC’) hot start test;[^c000002]
+- ((42)) ‘customer adaptation’ means any change to a vehicle, system, component or separate technical unit made at the specific request of a customer and subject to approval;[^c000003]
+- ((43)) ‘vehicle OBD information’ means information relating to an on-board diagnostic system for any electronic system on the vehicle;
+- ((44)) [^key-730bff252a4508abcf2b522aa2a8c6e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((45)) ‘diesel mode’ means the normal operating mode of a dual-fuel engine during which the engine does not use any gaseous fuel for any engine operating condition;[^c000004]
+- ((46)) ‘dual-fuel engine’ means an engine system that is designed to simultaneously operate with diesel fuel and a gaseous fuel, both fuels being metered separately, where the consumed amount of one of the fuels relative to the other one may vary depending on the operation;
+- ((47)) ‘dual-fuel mode’ means the normal operating mode of a dual-fuel engine during which the engine simultaneously uses diesel fuel and a gaseous fuel at some engine operating conditions;
+- ((48)) ‘dual-fuel vehicle’ means a vehicle that is powered by a dual-fuel engine and that supplies the fuels used by the engine from separate on-board storage systems;
+- ((49)) ‘service mode’ means a special mode of a dual-fuel engine that is activated for the purpose of repairing, or of moving the vehicle from the traffic when operation in the dual-fuel mode is not possible;
+- ((50)) ‘Gas Energy Ratio (GER)’ means in case of a dual-fuel engine, the energy content of the gaseous fuel divided by the energy content of both fuels (diesel and gaseous), expressed as a percentage, the energy content of the fuels being defined as the lower heating value;
+- ((51)) ‘average gas ratio’ means the average Gas Energy Ratio calculated over a driving cycle;
+- ((52)) ‘type 1A dual-fuel engine’ means a dual-fuel engine that operates over the hot part of the WHTC test-cycle with an average gas ratio that is not lower than 90 per cent (GER<sub> WHTC </sub> ≥ 90 %), and that does not idle using exclusively diesel fuel, and that has no diesel mode;
+- ((53)) ‘type 1B dual-fuel engine’ means a dual-fuel engine that operates over the hot part of the WHTC test-cycle with an average gas ratio that is not lower than 90 per cent (GER<sub> WHTC </sub> ≥ 90 %), and that does not idle using exclusively diesel fuel in dual-fuel mode, and that has a diesel mode;
+- ((54)) ‘type 2A dual-fuel engine’ means a dual-fuel engine that operates over the hot part of the WHTC test-cycle with an average gas ratio between 10 per cent and 90 per cent (10 % \< GER<sub> WHTC </sub> \< 90 %) and that has no diesel mode or that operates over the hot part of the WHTC test-cycle with an average gas ratio that is not lower than 90 per cent (GER<sub> WHTC </sub> ≥ 90 %), but that idles using exclusively diesel fuel, and that has no diesel mode;
+- ((55)) ‘type 2B dual-fuel engine’ means a dual-fuel engine that operates over the hot part of the WHTC test-cycle with an average gas ratio between 10 per cent and 90 per cent (10 % \< GER<sub> WHTC </sub> \< 90 %) and that has a diesel mode or that operates over the hot part of the WHTC test-cycle with an average gas ratio that is not lower than 90 per cent (GER<sub> WHTC </sub> ≥ 90 %), but that can idle using exclusively diesel fuel in dual-fuel mode, and that has a diesel mode;
+- ((56)) ‘type 3B dual-fuel engine’ means a dual-fuel engine that operates over the hot part of the WHTC test-cycle with an average gas ratio that does not exceed 10 per cent (GER<sub> WHTC </sub> ≤ 10 %) and that has a diesel mode.
+
+## Article 2a. Access to vehicle OBD and vehicle repair and maintenance information[^key-c8bcf1f6aa29c6057ad41cdbfce39dad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 2b. Multi-stage type-approval[^key-c8bcf1f6aa29c6057ad41cdbfce39dad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 2c. Customer adaptations[^key-c8bcf1f6aa29c6057ad41cdbfce39dad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 2d. Small volume manufacturers[^key-c8bcf1f6aa29c6057ad41cdbfce39dad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 2e. Carry-over systems[^key-c8bcf1f6aa29c6057ad41cdbfce39dad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 2f. Fees for access to vehicle repair and maintenance information[^key-c8bcf1f6aa29c6057ad41cdbfce39dad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 2g. Compliance with the obligations regarding access to vehicle OBD and vehicle repair and maintenance information[^key-c8bcf1f6aa29c6057ad41cdbfce39dad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 2h. Forum on Access to Vehicle Information[^key-c8bcf1f6aa29c6057ad41cdbfce39dad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 3. Requirements for type-approval
+
+1. In order to receive a GB type-approval[^key-a8a23e0347099140a5a54f0da0c27f65] of an engine system or engine family as a separate technical unit, GB type-approval[^key-985f6686e13b13f99c609786873f17e7] of a vehicle with an approved engine system with regard to emissions [^key-524916c750b97843f7efb90f63efd35e]..., or a GB type-approval of a vehicle with regard to emissions [^key-524916c750b97843f7efb90f63efd35e]..., the manufacturer shall, in accordance with the provisions of Annex I, demonstrate that the vehicles or engine systems are subject to the tests and comply with the requirements set out in Articles 4 and 14 and in Annexes III to VIII, X, XIII, XIV and XVII. The manufacturer shall also ensure compliance with the specifications of reference fuels set out in Annex IX. In the case of dual-fuel engines and vehicles, the manufacturer shall, in addition, comply with the requirements set out in Annex XVIII.
+
+In order to receive[^c000005] a GB type-approval of a vehicle with an approved engine system with regard to emissions [^key-524916c750b97843f7efb90f63efd35e]..., or a GB type-approval of a vehicle with regard to emissions [^key-524916c750b97843f7efb90f63efd35e]..., the manufacturer shall also demonstrate that the requirements laid down in Article 6 and Annex II to Commission Regulation (EU) 2017/2400[^f00005] are met with respect to the vehicle group concerned. However, that requirement shall not apply where the manufacturer indicates that new vehicles of the type to be approved will not be registered, sold or put into service in Great Britain[^key-da81392fb4c4def0c146dec3904b7de9] on or after the dates laid down in points (a), (b) and (c) of paragraph 1 of Article 24 of Regulation (EU) 2017/2400 for the respective vehicle group.
+
+1a.[^key-fcf980fbe167941796accf18922efe8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1b.[^key-fcf980fbe167941796accf18922efe8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1c.[^key-fcf980fbe167941796accf18922efe8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2. In order to receive a GB type-approval[^key-27eeebabaffcee47aedb6d4debc962d4] of a vehicle with an approved engine system with regard to emissions [^key-4ec87d207377218cd70a2e9cef3fd94f]..., or a GB type-approval of a vehicle with regard to emissions [^key-4ec87d207377218cd70a2e9cef3fd94f]... the manufacturer shall ensure compliance with the installation requirements set out in Section 4 of Annex I and, in the case of dual-fuel vehicles, with the additional installation requirements set out in Section 6 of Annex XVIII.
+
+3. In order to receive an extension of the GB type-approval[^key-bc15cecbd4b5f92c0547249240600000] of a vehicle with regard to emissions [^key-82b4476d29801af71cbfe96be1b26dd6]... type-approved under this Regulation with a reference mass exceeding 2 380 kg but not exceeding 2 610 kg, the manufacturer shall meet the requirements set out in Section 5 of Annex VIII.
+
+4. The provisions for alternative type-approval specified in point 2.4.1 of Annex X and point 2.1 of Annex XIII shall not apply for the purpose of a GB type-approval[^key-fbbea21e17b045ff907738b3582b471b] of an engine system or engine family as a separate technical unit. Those provisions shall not apply to dual-fuel engines and vehicles either.
+
+5. Any engine system and any element of design liable to affect the emission of gaseous and particulate pollutants shall be designed, constructed, assembled and installed so as to enable the engine, in normal use, to comply with the provisions of Regulation (EC) No 595/2009 and those of this Regulation. The manufacturer shall also ensure compliance with the off-cycle requirements set out in Article 14 and Annex VI to this Regulation. In the case of dual-fuel engines and vehicles, the provisions of Annex XVIII shall also apply.
+
+6. In order to receive a GB type-approval[^key-ce7a94d4ce97b65355e0a99374f612b5] of an engine system or engine family as a separate technical unit or a GB type-approval of a vehicle with regard to emissions [^key-304ad8f4f8a30dadbf28b3c563bac8d3]... for the purposes of obtaining universal fuel-range type-approval, a restricted fuel-range type-approval or a fuel-specific type-approval, the manufacturer shall ensure compliance with the requirements set out in Section 1 of Annex I.
+
+7. In order to receive a GB type-approval[^key-1d0a93cd32d781a8197177d35a1da202] in the case of a petrol or E85 fuelled engine, the manufacturer shall ensure that the specific requirements for inlets to fuel tanks for petrol and E85 fuelled vehicles laid down in Section 4.3 of Annex I are fulfilled.
+
+8. In order to receive a GB type-approval[^key-f262eab66486920fe252c9f5dec8141a] the manufacturer shall ensure that the specific requirements for electronic system security laid down in point 2.1 of Annex X are fulfilled.
+
+9. The manufacturer shall take technical measures so as to ensure that the tailpipe emissions are effectively limited, in accordance with this Regulation, throughout the normal life of the vehicle and under normal conditions of use. Those measures shall include ensuring that the security of hoses, joints and connections, used within the emission control systems, are constructed so as to conform to the original design intent.
+
+10. The manufacturer shall ensure that the emissions test results comply with the applicable limit value under the test conditions specified in this Regulation.
+
+11. The manufacturer shall determine deterioration factors that will be used to demonstrate that the gaseous and particulate emissions of an engine family or engine-aftertreatment system family remain in conformity with the emission limits set out in Annex I to Regulation (EC) No 595/2009 over the normal useful life periods set out in Article 4(2) of that Regulation.
+
+The procedures for demonstrating the compliance of an engine system or engine-aftertreatment system family over the normal useful life periods are set out in Annex VII to this Regulation.
+
+12. For positive-ignition engines subject to the test set out in Annex IV, the maximum permissible carbon monoxide content in the exhaust gases at normal engine idling speed shall be that stated by the vehicle manufacturer. However, the maximum carbon monoxide content shall not exceed 0,3 % vol.
+
+At high idle speed, the carbon monoxide content by volume of the exhaust gases shall not exceed 0,2 % vol., with the engine speed being at least 2 000 min<sup>-1</sup> and Lambda being 1 ± 0,03 or in accordance with the specifications of the manufacturer.
+
+13. In the case of a closed crankcase, manufacturers shall ensure that for the test set out in Annex V, the engine’s ventilation system does not permit the emission of any crankcase gases into the atmosphere. If the crankcase is of an open type the emissions shall be measured and added to the tailpipe emissions following the provisions set out in Annex V.
+
+14. When applying for type-approval, manufacturers shall present to the approval authority information showing that the deNO<sub>x</sub> system retains its emission control function during all conditions regularly pertaining in the territory of the Union or the United Kingdom[^key-3457064d340e0bcea28a2c7a3b7494dd], especially at low temperatures.
+
+In addition, manufacturers shall provide the approval authority with information on the operating strategy of any EGR system, including its functioning at low ambient temperatures.
+
+This information shall also include a description of any effects on emissions of operating the system under low ambient temperatures.
+
+15.[^c000006] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 4. On-board diagnostics
+
+1. Manufacturers shall ensure that all engine systems and vehicles are equipped with an OBD system.
+
+2. The OBD system shall be designed, constructed and installed on a vehicle in accordance with Annex X, so as to enable it to identify, record, and communicate the types of deterioration or malfunction specified in that Annex over the entire life of the vehicle.
+
+3. The manufacturer shall ensure that the OBD system complies with the requirements set out in Annex X, including the OBD in-use performance requirements, under all normal and reasonably foreseeable driving conditions encountered in the Union or the United Kingdom[^key-8f98bfa5d9384b33075fce6275670f3c], including the conditions of normal use specified in Annex X.
+
+4. When tested with a qualified deteriorated component, the OBD system malfunction indicator shall be activated in accordance with Annex X. The OBD system malfunction indicator may also be activated at levels of emissions below the OBD thresholds limits specified in Annex X.
+
+5. The manufacturer shall ensure that the provisions for in-use performance of an OBD engine family laid down in Annex X are followed.
+
+6. The OBD in-use performance related data shall be stored and made available without any encryption through the standard OBD communication protocol by the OBD system in accordance with the provisions of Annex X.
+
+7. If the manufacturer chooses, during a period of 3 years after the dates specified in Article 8(1) and (2) of Regulation (EC) No 595/2009 OBD systems may comply with alternative provisions as specified in Annex X to this Regulation and referring to this paragraph.
+
+8.[^key-341aae621f7ccc20786eebb988409dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 5. Application for GB type-approval of an engine system or engine family as a separate technical unit with regard to emissions ...[^key-caf2a79a50656988d6819cebf1d3f52b][^key-e01652ae1b6aa04a2c7b11d481f292a7]
+
+1. The manufacturer shall submit to the approval authority an application for GB[^key-3658030e3d20dbbdfdff9ceeae1ea638] type-approval of an engine system or engine family as a separate technical unit.
+
+2. The application referred to in paragraph 1 shall be drawn up in accordance with the model of the information document set out in Appendix 4 to Annex I. For that purpose Part 1 of that Appendix shall apply.
+
+3. Together with the application, the manufacturer shall provide a documentation package that fully explains any element of design which affects emissions, the emission control strategy of the engine system, the means by which the engine system controls the output variables which have a bearing upon emissions, whether that control is direct or indirect, and fully explains the warning and inducement system required by Sections 4 and 5 of Annex XIII. The documentation package shall consist of the following parts including the information set out in Section 8 to Annex I:
+
+- (a) a formal documentation package that shall be retained by the approval authority. The formal documentation package may be made available to interested parties upon request;
+- (b) an extended documentation package that shall remain confidential. The extended documentation package may be kept by the approval authority, or be retained by the manufacturer, at the discretion of the approval authority, but shall be made available for inspection by the approval authority at the time of approval or at any time during the validity of the approval. When the documentation package is retained by the manufacturer, the approval authority shall take the necessary measures to ensure that the documentation is not being altered after approval.
+
+4. In addition to the information referred to in paragraph 3, the manufacturer shall submit the following information:
+
+- (a) in the case of positive-ignition engines, a declaration by the manufacturer of the minimum percentage of misfires out of a total number of firing events that either would result in emissions exceeding the limits set out in Annex X if that percentage of misfire had been present from the start of the emission test as set out in Annex III or could lead to an exhaust catalyst, or catalysts, overheating prior to causing irreversible damage;
+- (b) a description of the provisions taken to prevent tampering with and modification of the emission control computer(s) including the facility for updating using a manufacturer-approved programme or calibration;
+- (c) documentation of the OBD system, in accordance with the requirements set out in Section 5 to Annex X;
+- (d)[^key-3f3b2d975e51c10771ccc7003ae46228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) a Statement of Off-Cycle Emission compliance with the requirements of Article 14 and Section 9 to Annex VI;
+- (f) a Statement of OBD in-use Performance compliance with the requirements of Appendix 6 to Annex X;
+- (g)[^key-be92b1266ad93a9c6caa33b0c283cea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) the initial plan for in-service testing according to point 2.4 of Annex II;
+- (i) where appropriate, copies of other type-approvals with the relevant data to enable extension of approvals and establishment of deterioration factors;
+- (j) where appropriate, the documentation packages necessary for the correct installation of the engine type-approved as a separate technical unit.
+
+5. The manufacturer shall submit to the technical service responsible for the type-approval tests an engine or, as appropriate, a parent engine representative of the type to be approved.
+
+6. Changes to the make of a system, component or separate technical unit that occur after a type-approval shall not automatically invalidate a type-approval, unless its original characteristics or technical parameters are changed in such a way that the functionality of the engine or pollution control system is affected.
+
+## Article 6. Administrative provisions for GB type-approval of an engine system or engine family as a separate technical unit with regard to emissions ...[^key-d134f79ff54d67fc0aa12a6d2b3619b6][^key-7d0f62c9895ba59e43b045adf2972dd5]
+
+1. If all the relevant requirements are met, the approval authority shall grant a GB type-approval[^key-3cd0790812c6c5027fcb7982ab42f4f9] of an engine system or engine family as a separate technical unit and issue a type-approval number in accordance with the numbering system set out in Annex IV to Commission Implementing Regulation 2020/683[^key-5d30fa2b12bfb4fc04f125291b75e645].
+
+Without prejudice to the provisions of Annex IV to Commission Implementing Regulation 2020/683, Section 3 of the type-approval number shall be drawn up in accordance with Appendix 9 to Annex I to this Regulation.
+
+An approval authority shall not assign the same number to another engine type.
+
+1a. As an alternative to the procedure provided for in paragraph 1, the approval authority shall grant a GB type-approval[^key-6bde8dd5ed7e73f5ba74d34e874968a7] of an engine system or engine family as a separate technical unit if all the following conditions are fulfilled:
+
+- (a) a type-approval of an engine system or engine family as separate technical unit has already been granted in accordance with UNECE Regulation No 49 at the moment of the application for GB type-approval[^key-4ddef4afc79954af1484d0fdafe1179e];
+- (b)[^key-60cbacca35256e1a2e7d77d33641d771] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the requirements set out in point 6.2 of Annex X to this Regulation are met during the transitional period specified in Article 4(7);
+- (d) all other exceptions set out in points 3.1 and 5.1 of Annex VII to this Regulation, points 2.1 and 6.1 of Annex X to this Regulation, points 2, 4.1, 5.1, 7.1, 8.1 and 10 of Annex XIII to this Regulation, and point 1 of Appendix 6 to Annex XIII to this Regulation apply.
+
+2. When granting a GB type-approval[^key-5e1c328fbf2b8756b224539bf7936529] under paragraphs 1 and 1a, the approval authority shall issue an EC type-approval certificate using the model set out in Appendix 5 to Annex I.
+
+## Article 7. Application for GB type-approval of a vehicle with an approved engine system with regard to emissions ...[^key-53f16449af5505f0b26bab4aff1f8686][^key-7660410387ecd8250b1934db803df1c4]
+
+1. The manufacturer shall submit to the approval authority an application for GB type-approval[^key-5b436641a3d5b06438f5cbce03348fdd] of a vehicle with an approved engine system with regard to emissions and access to vehicle repair and maintenance information.
+
+2. The application referred to in paragraph 1 shall be drawn up in accordance with the model of the information document set out in Part 2 of Appendix 4 to Annex I. This application shall be accompanied by a copy of the GB type-approval[^key-c7ba54d7e51a3316cd8612c123be3ed9] certificate for the engine system or engine family as a separate technical unit issued in accordance with Article 6.
+
+3. The manufacturer shall provide a documentation package that fully explains the elements of the warning and inducement system that is on board the vehicle and required by Annex XIII. This documentation package shall be provided in accordance with Article 5(3).
+
+4. In addition to the information referred to in paragraph 3, the manufacturer shall submit the following information:
+
+- (a) a description of the measures taken to prevent tampering with and modification of the vehicle control units covered by this Regulation including the facility for updating using a manufacturer-approved programme or calibration;
+- (b) a description of the OBD components on board of the vehicle, in accordance with the requirements of Section 5 of Annex X;
+- (c)[^key-504225fb4185b0abd5f719fc58432023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-e096b79ca414202ea02ca28203c8d93f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) where appropriate, copies of other type-approvals with the relevant data to enable extension of approvals.
+
+5. Changes to the make of a system, component or separate technical unit that occur after a type-approval shall not automatically invalidate a type-approval, unless its original characteristics or technical parameters are changed in such a way that the functionality of the engine or pollution control system is affected.
+
+## Article 8. Administrative provisions for GB type-approval of a vehicle with an approved engine system with regard to emissions ...[^key-6432bbf0d654b036e492b8edd7f7f7f5][^key-ba22613270578fdefe1ffca5ff73763b]
+
+1. If all the relevant requirements are met, the approval authority shall grant a GB type-approval[^key-2039826c800e15e0ac8fdf86fd028db5] of a vehicle with an approved engine system with regard to emissions [^key-b95472216627465fc3935202c63b9fec]... and issue a type-approval number in accordance with the numbering system set out in Annex IV to Commission Implementing Regulation 2020/683[^key-1ae63cb8ef83b9113e038cc861cbf69c].
+
+Without prejudice to the provisions of Annex IV to Commission Implementing Regulation 2020/683, Section 3 of the type-approval number shall be drawn up in accordance with Appendix 9 to Annex I to this Regulation.
+
+An approval authority shall not assign the same number to another vehicle type.
+
+1a. As an alternative to the procedure provided for in paragraph 1, the approval authority shall grant a GB type-approval[^key-ef84334d67fe0edc4d742cd32122a21d] of a vehicle with an approved engine system with regard to emissions and access to vehicle repair and maintenance information if all the following conditions are fulfilled:
+
+- (a) a type-approval of a vehicle with an approved engine system has already been granted in accordance with UNECE Regulation No 49 at the moment of the application for GB[^key-e365868863704522bf10fb0ba755cf1b] type-approval;
+- (b)[^key-752c5bd3747f052d972af9188e55e6bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the requirements in point 6.2 of Annex X to this Regulation are met during the transitional period specified in Article 4(7);
+- (d)[^c000008] all other exceptions set out in points 3.1 of Annex VII to this Regulation, points 2.1 and 6.1 of Annex X to this Regulation, points 2.1, 4.1, 5.1, 7.1, 8.1 and 10.1 of Annex XIII to this Regulation, and point 1.1 of Appendix 6 to Annex XIII to this Regulation apply;
+- (e) the requirements laid down in Article 6 and Annex II to Regulation (EU) 2017/2400 are met with respect to the vehicle group concerned, except where the manufacturer indicates that new vehicles of the type to be approved will not be registered, sold or put into service in Great Britain[^key-645e00f58654326d0cb3161159cdf773] on or after the dates laid down in points (a), (b) and (c) of paragraph 1 of Article 24 of that Regulation for the respective vehicle group.
+
+2. When granting a GB type-approval[^key-f1cd76023e6b50da4e67eaefebe54ace] under paragraphs 1 and 1a, the approval authority shall issue a GB type-approval certificate using the model set out in Appendix 6 to Annex I.
+
+## Article 9. Application for GB type-approval of a vehicle with regard to emissions ...[^key-c77886e9f6fccdb234a1e5859db1f1b8][^key-4d15598021ce8e3bfc9ab5434d54aabb]
+
+1. The manufacturer shall submit to the approval authority an application for GB type-approval of a vehicle with regard to emissions [^key-4d15598021ce8e3bfc9ab5434d54aabb]....
+
+2. The application referred to in paragraph 1 shall be drawn up in accordance with the model of the information document set out in Appendix 4 to Annex I. For that purpose Parts 1 and 2 of that Appendix shall apply.
+
+3. The manufacturer shall provide a documentation package that fully explains any element of design which affects emissions, the emission control strategy of the engine system, the means by which the engine system controls the output variables which have a bearing upon emissions, whether that control is direct or indirect, and fully explains the warning and inducement system required by Annex XIII. This documentation package shall be provided in accordance with Article 5(3).
+
+4. In addition to the information referred to in paragraph 3, the manufacturer shall submit the information required by Article 5(4)(a) to (i) and Article 7(4)(a) to (e).
+
+5. The manufacturer shall submit to the technical service responsible for the type-approval tests an engine representative of the type to be approved.
+
+6. Changes to the make of a system, component or separate technical unit that occur after a type-approval shall not automatically invalidate a type-approval, unless its original characteristics or technical parameters are changed in such a way that the functionality of the engine or pollution control system is affected.
+
+## Article 10. Administrative provisions for GB type-approval of a vehicle with regard to emissions ...[^key-451aad21fe4a007ab37c388a71c44b36][^key-08c315c02bf044b4ea54e6ff047bb656]
+
+1. If all the relevant requirements are met, the approval authority shall grant a GB type-approval[^key-133b693b3039cdc106a621c26fdd8a6f] of a vehicle with regard to emissions [^key-1239bdbde0495064055a8999edeac899]... and issue a type-approval number in accordance with the numbering system set out in Annex IV to Commission Implementing Regulation (EU) 2020/683[^key-d6388e46a09206609017a79ec5def2e5].
+
+Without prejudice to the provisions of Annex IV to Commission Implementing Regulation (EU) 2020/683, Section 3 of the type-approval number shall be drawn up in accordance with Appendix 9 to Annex I to this Regulation.
+
+An approval authority shall not assign the same number to another vehicle type.
+
+1a. As an alternative to the procedure provided for in paragraph 1, the approval authority shall grant a GB type-approval[^key-f0b3afba1389308b9c21dec6b2206a90] of a vehicle with regard to emissions [^key-90565b4438f7c8effdc1f4ce6cd35b65]... if all the following conditions are fulfilled:
+
+- (a) a type-approval of a vehicle has already been granted in accordance with UNECE Regulation No 49 at the moment of the application for GB[^key-3c7e7cb6e632c84dbcd70ed35df89d14] type-approval;
+- (b)[^key-a46972f66030f5ac46b20221845be13c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the requirements set out in point 6.2 of Annex X to this Regulation are met during the transitional period specified in Article 4(7);
+- (d) all other exceptions set out in points 3.1 of Annex VII to this Regulation, points 2.1 and 6.1 of Annex X to this Regulation, points 2.1, 4.1, 5.1, 7.1, 8.1 and 10.1.1 of Annex XIII to this Regulation, and point 1.1 of Appendix 6 to Annex XIII to this Regulation apply;
+- (e) the requirements laid down in Article 6 and Annex II to Regulation (EU) 2017/2400 are met with respect to the vehicle group concerned, except where the manufacturer indicates that new vehicles of the type to be approved will not be registered, sold or put into service in Great Britain[^key-27b3ae9edd290e5305ecc8dd02c3cb84] on or after the dates laid down in points (a), (b) and (c) of paragraph 1 of Article 24 of that Regulation for the respective vehicle group.
+
+2. When granting a GB type-approval[^key-bfc8cedad204eae3cd683dfa4df61361] under paragraphs 1 and 1a, the approval authority shall issue a GB type-approval certificate using the model set out in Appendix 7 to Annex I.
+
+## Article 11. Conformity of production
+
+1. Measures to ensure the conformity of production shall be taken in accordance with the provisions of Article 31 of Regulation (EU) 2018/858[^key-1e1295dc1599d4b7205c9d95db1c2a97].
+
+2. Conformity of production shall be checked on the basis of the description in the type-approval certificates set out in Appendices 5, 6 and 7 to Annex I, as applicable.
+
+3. Conformity of production shall be assessed in accordance with the specific conditions laid down in Section 7 of Annex I and the relevant statistical methods laid down in Appendices 1, 2 and 3 to that Annex.
+
+## Article 12. In-service conformity
+
+1. Measures to ensure in-service conformity of vehicles or engine systems type-approved under this Regulation or Directive 2005/55/EC of the European Parliament and of the Council[^f00006] shall be taken in accordance with Article 31 of Regulation (EU) 2018/858[^key-9bd21102843e36fe4616559f41cc71ca], and complying with the requirements of Annex II to this Regulation in the case of vehicles or engine systems type-approved under this Regulation and with the requirements of Annex XII to this Regulation in the case of vehicles or engine systems type-approved under Directive 2005/55/EC.
+
+2. The technical measures taken by the manufacturer shall be such as to ensure that the tailpipe emissions are effectively limited, throughout the normal life of the vehicles under normal conditions of use. The conformity with the provisions of this Regulation shall be checked over the normal useful life of an engine system installed in a vehicle under normal conditions of use as specified in Annex II to this Regulation.
+
+3. The manufacturer shall report the results of the in-service testing to the approval authority which granted the original type-approval in accordance with the initial plan submitted at type-approval. Any deviation from the initial plan shall be justified to the satisfaction of the approval authority.
+
+4. If the approval authority which granted the original type-approval is not satisfied with the manufacturer’s reporting in accordance with Section 10 of Annex II, or has reported evidence of unsatisfactory in-service conformity, the authority may order the manufacturer to run a test for confirmatory purposes. The approval authority shall examine the confirmatory test report supplied by the manufacturer.
+
+5. Where the approval authority which granted the original type-approval is not satisfied with the results of in-service tests or confirmatory tests in accordance with the criteria set out in Annex II, [^key-e68d56be2d673904a527b4b3f745a993]... it shall require the manufacturer to submit a plan of remedial measures to remedy the non-conformity in accordance with Article 13 and Section 9 of Annex II.
+
+6. The Secretary of State[^key-851c9ad82c1f333a80ead9297755baf2] may conduct and report their own[^key-59df42bc39a54837fbd003d596551fcc] surveillance testing, based on the in-service conformity testing procedure set out in Annex II. Information on the procurement, maintenance, and manufacturer’s participation in the activities shall be recorded. [^key-a67f4528fd452777fbebd006d163b8c2]...
+
+7.[^key-975e91575581025a0bfdd6e3330e39ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8.[^key-975e91575581025a0bfdd6e3330e39ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9.[^key-975e91575581025a0bfdd6e3330e39ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10.[^key-975e91575581025a0bfdd6e3330e39ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 13. Remedial measures
+
+1. On request of the approval authority and following in-service testing in accordance with Article 12 the manufacturer shall submit the plan of remedial measures to the approval authority no later than 60 working days after receipt of the notification from the approval authority. Where the manufacturer can demonstrate to the satisfaction of the approval authority that further time is required to investigate the reason for the non-compliance in order to submit a plan of remedial measures, an extension may be granted.
+
+2. The remedial measures shall apply to all engines in service belonging to the same engine families or OBD engine families and be extended also to engine families or OBD engine families which are likely to be affected with the same defects. The need to amend the type-approval documents shall be assessed by the manufacturer and the result reported to the approval authority.
+
+3. The approval authority shall consult the manufacturer in order to secure agreement on a plan of remedial measures and on executing the plan. If the approval authority which granted the original type-approval establishes that no agreement can be reached, the procedure set out in Article 52 of Regulation (EU) 2018/858[^key-5cd856dd98718cd5740bac7f920afeb5] shall be initiated.
+
+4. The approval authority shall within 30 working days from the date on which it has received the plan of remedial measures from the manufacturer, approve or reject the plan of remedial measures. The approval authority shall within the same time also notify the manufacturer [^key-68c5a270d7b7909c38f6d2af0c3bc494]... of its decision to approve or reject the plan of remedial measures.
+
+5. The manufacturer shall be responsible for the execution of the approved plan of remedial measures.
+
+6. The manufacturer shall keep a record of every engine system or vehicle recalled and repaired or modified and of the workshop which performed the repair. The approval authority shall have access to that record on request during the execution and for a period of 5 years after the completion of the execution of the plan.
+
+7. Any repair or modification referred to in paragraph 6 shall be recorded in a certificate supplied by the manufacturer to the owner of the engine or vehicle.
+
+## Article 14. Requirements to limit off-cycle emissions
+
+1. The manufacturer shall take all necessary measures, in accordance with this Regulation and Article 4 of Regulation (EC) No 595/2009, so as to ensure that the tailpipe emissions are effectively limited throughout the normal life of the vehicle and under all normal conditions of use.
+
+Those measures shall take the following into account:
+
+- (a) the general requirements including the performance requirements and the prohibition of defeat strategies;
+- (b) the requirements to effectively limit the tailpipe emissions under the range of ambient conditions under which the vehicle may be expected to operate, and under the range of operating conditions that may be encountered;
+- (c) the requirements with respect to off-cycle laboratory testing at type-approval;
+- (d) the requirements with respect to the PEMS demonstration test at type-approval and any additional requirements with respect to off-cycle in-use vehicle testing, as provided for in this Regulation;
+- (e) the requirement for the manufacturer to provide a statement of compliance with the requirements limiting off-cycle emissions.
+
+2. The manufacturer shall fulfil the specific requirements, together with the associated test procedures, set out in Annex VI.
+
+3.[^c000009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 15. Pollution control devices
+
+1. The manufacturer shall ensure that replacement pollution control devices intended to be fitted to GB type-approved[^key-c671d9e4ead7d0093bf639f3c7875b86] engine systems or vehicles covered by Regulation (EC) No 595/2009 are GB type-approved, as separate technical units in accordance with the requirements of this Article and of Articles 1a, 16 and 17.
+
+Catalytic converters, deNO<sub>x</sub> devices and particulate filters shall be considered to be pollution control devices for the purposes of this Regulation.
+
+2. Original replacement pollution control devices, which fall within the type covered by point 3.2.12 of Appendix 4 to Annex I and are intended for fitment to a vehicle to which the relevant type-approval document refers, do not need to comply with all provisions of Annex XI provided that they fulfil the requirements of points 2.1, 2.2 and 2.3 of that Annex.
+
+3. The manufacturer shall ensure that the original pollution control device carries identification markings.
+
+4. The identification markings referred to in paragraph 3 shall comprise the following:
+
+- (a) the vehicle or engine manufacturer's name or trade mark;
+- (b) the make and identifying part number of the original pollution control device as recorded in the information referred to in point 3.2.12.2 of Appendix 4 to Annex I.
+
+5.[^c000009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 16. Application for GB type-approval of a type of replacement pollution control device as a separate technical unit[^key-c7aee41dc4008d3048e5c29c09c29820]
+
+1. The manufacturer shall submit to the approval authority an application for GB[^key-765d9171930dd7a7df7daf8d646c0396] type-approval of a type of replacement pollution control device as a separate technical unit.
+
+2. The application shall be drawn up in accordance with the model of the information document set out in Appendix 1 to Annex XI.
+
+3.[^key-94133b591897c9bef80c270bca79582b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4. The manufacturer shall submit to the technical service responsible for the type-approval test the following:
+
+- (a) an engine system or engine systems of a type-approved in accordance with this Regulation equipped with a new original equipment pollution control device;
+- (b) one sample of the type of the replacement pollution control device;
+- (c) an additional sample of the type of the replacement pollution control device, in the case of a replacement pollution control device intended to be fitted to a vehicle equipped with an OBD system.
+
+5. For the purposes of point (a) of paragraph 4, the test engines shall be selected by the applicant with the agreement of the approval authority.
+
+The test conditions shall comply with the requirements set out in Section 6 of Annex 4 to UNECE Regulation No 49.
+
+The test engines shall respect the following requirements:
+
+- (a) they shall have no emission control system defects;
+- (b) any malfunctioning or excessively worn emission-related original part shall be repaired or replaced;
+- (c) they shall be tuned properly and set to the manufacturer's specification prior to emission testing.
+
+6. For the purposes of points (b) and (c) of paragraph 4, the sample shall be clearly and indelibly marked with the applicant's trade name or mark and its commercial designation.
+
+7. For the purposes of point (c) of paragraph 4, the sample shall be a qualified deteriorated component.
+
+## Article 17. Administrative provisions for GB type-approval of replacement pollution control device as separate technical unit[^key-eb10f34abfde07a2c56ef16a4a3e1f9f]
+
+1. If all the relevant requirements are met, the approval authority shall grant a GB type-approval[^key-e2edb7091bf2cc7b1ecde5d38737c242] for replacement pollution control devices as separate technical units and issue a type-approval number in accordance with the numbering system set out in Annex IV to Commission Implementing Regulation (EU) 2020/683[^key-9d38ba60788f2c42d4323a9a627d7f69].
+
+The approval authority shall not assign the same number to another replacement pollution control device type.
+
+The same type-approval number may cover the use of that replacement pollution control device type on a number of different vehicle or engine types.
+
+2. For the purposes of paragraph 1, the approval authority shall issue a GB type-approval[^key-82a9e9ac329a021e875a4fdbe185a504] certificate established in accordance with the model set out in Appendix 2 to Annex XI.
+
+3. If the manufacturer is able to demonstrate to the approval authority that the replacement pollution control device is of a type referred to in point 3.2.12.2 of Appendix 4 to Annex I, the granting of a type-approval shall not be dependent on verification of compliance with the requirements set out in Section 4 of Annex XI.
+
+## Article 17a. Transitional provisions for certain type-approvals and certificates of conformity[^c000010]
+
+1. With effect from 1 September 2018, the approval authority[^key-c5d5c4693e9623e00139bd5918eccae9] shall refuse, on grounds relating to emissions, to grant GB[^key-5816f9665cb872dcdd612d4838ae2cfd] type-approval [^key-3f63f4f771285583e12af3f85b360f3f]... in respect of new types of vehicles or engines tested using procedures which do not comply with points 4.2.2.2 and 4.2.2.2.1 and 4.2.2.2.2 and 4.3.1.2 and 4.3.1.2.1 and 4.3.1.2.2 of Appendix 1 to Annex II.
+
+2. With effect from 1 September 2019, the Secretary of State[^key-788ee3382ef8f940bc785b4c2ae6cea5] shall, in the case of new vehicles which do not comply with points 4.2.2.2 and 4.2.2.2.1 and 4.2.2.2.2 and 4.3.1.2 and 4.3.1.2.1 and 4.3.1.2.2 of Appendix 1 to Annex II, consider certificates of conformity issued in respect of those vehicles to be no longer valid for the purposes of Article 48 of Regulation (EU) 2018/858[^key-4ee79df460d4ad0bba8c5aa4e3c695f9] and shall, on grounds relating to emissions, prohibit the registration, sale and entry into service of such vehicles.
+
+With effect from 1 September 2019 and except in the case of replacement engines for in-service vehicles, the Secretary of State shall prohibit the sale or use of new engines which do not comply with points 4.2.2.2 and 4.2.2.2.1 and 4.3.1.2 and 4.3.1.2.1 of Appendix 1 to Annex II.
+
+## Article 18. Amendments to Regulation (EC) No 595/2009
+
+Regulation (EC) No 595/2009 is amended in accordance with Annex XV to this Regulation.
+
+## Article 19. Amendments to Directive 2007/46/EC
+
+Directive 2007/46/EC is amended in accordance with Annex XVI to this Regulation.
+
+## Article 20. Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
+
+[^key-9a2c3ba2610b83caaabf38789feb62ee]...
+
+## ANNEX I — ADMINISTRATIVE PROVISIONS FOR GB TYPE-APPROVAL[^key-908e5ad6ce7a915340c385c6e684f7cd]
+
+1\.
+
+REQUIREMENTS ON FUEL RANGE
+
+1.1.
+
+**Requirements on universal fuel range type-approval**
+
+A universal fuel range approval shall be granted subject to the requirements specified in points 1.1.1 to 1.1.6.1.
+
+1.1.1.
+
+The parent engine shall meet the requirements of this Regulation on the appropriate reference fuels specified in Annex IX. Specific requirements shall apply to engines fuelled with natural gas/biomethane, including dual-fuel engines, as laid down in point 1.1.3.
+
+1.1.2.[^c000011]
+
+If the manufacturer permits the engine family to run on market fuels that do not comply either with[^c000012] the Motor Fuel (Composition and Content) Regulations 1999[^key-c26b499982d615b84b50b7fd9875e824], or with CEN standard EN 228:2012 in the case of unleaded petrol or CEN standard EN 590:2013 in the case of diesel, such as running on FAME B100 (CEN standard EN 14214), FAME diesel blends B20/B30 (CEN standard EN 16709), paraffinic fuel (CEN standard EN 15940) or others, the manufacturer shall, in addition to the requirements in point 1.1.1, comply with the following requirements:
+
+- ((a)) declare the fuels the engine family is capable of running on in point 3.2.2.2.1 of the Information Document as set out in Part 1 of Appendix 4., either by reference to an official standard or to a production specification of a brand specific market fuel not meeting any official standard such as those mentioned in point 1.1.2. The manufacturer shall also declare that the functionality of the OBD system is not affected by the use of the declared fuel;
+- ((a1)) determine the power correction factor for each fuel declared pursuant to point 5.2.7 if applicable;[^c000013]
+- ((b)) demonstrate that the parent engine meets the requirements specified in Annex III and in Appendix 1 of Annex VI to this Regulation on the fuels declared; the approval authority may request that the demonstration requirements be further extended to those laid down in Annex VII and Annex X;
+- ((c)) be liable to meet the requirements of in-service conformity specified in Annex II on the fuels declared including any blend between the declared fuels and the market fuels included in the Motor Fuel (Composition and Content) Regulations 1999[^key-48737fe9cffb7f9c8824cae7fa39437f] and the relevant CEN standards.
+
+At the request of the manufacturer, the requirements set out in this point shall be applied to fuels used for military purposes.
+
+For the purposes of point (a) of the first subparagraph where the emission tests are performed for demonstrating compliance with the requirements of this Regulation, a fuel analysis report of the test fuel shall be attached to the test report and shall comprise at least the parameters specified in the official specification of the fuel manufacturer.
+
+1.1.3.
+
+In the case of natural gas/biomethane fuelled engines, including dual-fuel engines, the manufacturer shall demonstrate the parent engines capability to adapt to any natural gas/biomethane composition that may occur across the market. This demonstration shall be carried out in accordance with this Section and, in the case of dual-fuel engines, also in accordance with the additional provisions regarding the fuel adaptation procedure set out in paragraph 6.4 of Annex 15 to UNECE Regulation No 49.
+
+In the case of compressed natural gas/biomethane (CNG) there are generally two types of fuel, high calorific fuel (H-gas) and low calorific fuel (L-gas), but with a significant spread within both ranges; they differ significantly in their energy content expressed by the Wobbe Index and in their λ-shift factor (S<sub> λ </sub>). Natural gases with a λ-shift factor between 0,89 and 1,08 (0,89 ≤ S<sub> λ </sub> ≤ 1,08) are considered to belong to H-range, while natural gases with a λ-shift factor between 1,08 and 1,19 (1,08 ≤ S<sub> λ </sub> ≤ 1,19) are considered to belong to L-range. The composition of the reference fuels reflects the extreme variations of S<sub> λ </sub>.
+
+The parent engine shall meet the requirements of this Regulation on the reference fuels G<sub> R </sub> (fuel 1) and G<sub> 25 </sub> (fuel 2), as specified in Annex IX, without any manual readjustment to the engine fuelling system between the two tests (self-adaptation is required). One adaptation run over one WHTC hot cycle without measurement is permitted after the change of the fuel. After the adaptation run, the engine shall be cooled down in accordance with paragraph 7.6.1 of Annex 4 to UNECE Regulation No 49.
+
+In the case of liquefied natural gas/biomethane (LNG) the parent engine shall meet the requirements of this Regulation on the reference fuels G<sub> R </sub> (fuel 1) and G<sub> 20 </sub> (fuel 2), as specified in Annex IX, without any manual readjustment to the engine fuelling system between the two tests (self-adaptation is required). One adaptation run over one WHTC hot cycle without measurement is permitted after the change of the fuel. After the adaptation run, the engine shall be cooled down in accordance with paragraph 7.6.1 of Annex 4 to UN/ECE Regulation No 49.
+
+1.1.3.1.
+
+At the manufacturer's request the engine may be tested on a third fuel (fuel 3) if the λ-shift factor (S<sub>λ</sub>) lies between 0,89 (that is the lower range of G<sub>R</sub>) and 1,19 (that is the upper range of G<sub>25</sub>), for example when fuel 3 is a market fuel. The results of this test may be used as a basis for the evaluation of the conformity of the production.
+
+1.1.4.
+
+In the case of an engine fuelled with CNG which is self-adaptive for the range of H-gases on the one hand and the range of L-gases on the other hand, and which switches between the H-range and the L-range by means of a switch, the parent engine shall be tested on the relevant reference fuel as specified in Annex IX for each range, at each position of the switch. The fuels are G<sub> R </sub> (fuel 1) and G<sub> 23 </sub> (fuel 3) for the H-range of gases and G<sub> 25 </sub> (fuel 2) and G<sub> 23 </sub> (fuel 3) for the L-range of gases. The parent engine shall meet the requirements of this Regulation at both positions of the switch without any readjustment to the fuelling between the two tests at each position of the switch. One adaptation run over one WHTC hot cycle without measurement is permitted after the change of the fuel. After the adaptation run the engine shall be cooled down in accordance with paragraph 7.6.1 of Annex 4 to UNECE Regulation No 49.
+
+1.1.4.1.
+
+At the manufacturer's request the engine may be tested on a third fuel instead of G<sub>23</sub> (fuel 3) if the λ-shift factor (S<sub>λ</sub>) lies between 0,89 (that is the lower range of G<sub>R</sub>) and 1,19 (that is the upper range of G<sub>25</sub>), for example when fuel 3 is a market fuel. The results of this test may be used as a basis for the evaluation of the conformity of the production.
+
+1.1.5.
+
+In the case of natural gas/biomethane engines, the ratio of the emission results ‘r’ shall be determined for each pollutant as follows:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+or
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+and
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+1.1.6.
+
+In the case of LPG the manufacturer shall demonstrate the parent engines capability to adapt to any fuel composition that may occur across the market.
+
+In the case of LPG there are variations in C<sub> 3 </sub>/C<sub> 4 </sub> composition. These variations are reflected in the reference fuels. The parent engine shall meet the emission requirements on the reference fuels A and B as specified in Annex IX without any readjustment to the fuelling between the two tests. One adaptation run over one WHTC hot cycle without measurement is permitted after the change of the fuel. After the adaptation run the engine shall be cooled down in accordance with paragraph 7.6.1 of Annex 4 to UNECE Regulation No 49.
+
+1.1.6.1.
+
+The ratio of emission results ‘r’ shall be determined for each pollutant as follows:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+1.2.
+
+Requirements on restricted fuel range type-approval in case of engines fuelled with natural gas/biomethane or LPG, including dual-fuel engines
+
+A restricted fuel range type-approval shall be granted subject to the requirements specified in points 1.2.1 to 1.2.2.2.
+
+1.2.1.
+
+Exhaust emissions type-approval of an engine running on CNG and laid out for operation on either the range of H-gases or on the range of L-gases.
+
+The parent engine shall be tested on the relevant reference fuel, as specified in Annex IX, for the relevant range. The fuels are G<sub> R </sub> (fuel 1) and G<sub> 23 </sub> (fuel 3) for the H-range of gases and G<sub> 25 </sub> (fuel 2) and G<sub> 23 </sub> (fuel 3) for the L-range of gases. The parent engine shall meet the requirements of this Regulation without any readjustment to the fuelling between the two tests. One adaptation run over one WHTC hot cycle without measurement is permitted after the change of the fuel. After the adaptation run the engine shall be cooled down in accordance with paragraph 7.6.1 of Annex 4 to UNECE Regulation No 49.
+
+1.2.1.1.
+
+At the manufacturer's request the engine may be tested on a third fuel instead of G<sub>23</sub> (fuel 3) if the λ-shift factor (S<sub>λ</sub>) lies between 0,89 (that is the lower range of G<sub>R</sub>) and 1,19 (that is the upper range of G<sub>25</sub>), for example when fuel 3 is a market fuel. The results of this test may be used as a basis for the evaluation of the conformity of the production.
+
+1.2.1.2.
+
+The ratio of emission results ‘r’ shall be determined for each pollutant as follows:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+, or
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+, and
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+1.2.1.3.
+
+On delivery to the customer the engine shall bear a label as specified in Section 3.3 stating for which range of gases the engine is approved.
+
+1.2.2.
+
+Exhaust emissions type-approval of an engine running on natural gas/biomethane or LPG and designed for operation on one specific fuel composition.
+
+The parent engine shall meet the emission requirements on the reference fuels G<sub> R </sub> and G<sub> 25 </sub> in the case of CNG, on the reference fuels G<sub> R </sub> and G<sub> 20 </sub> in the case of LNG, or on the reference fuels A and B in the case of LPG, as specified in Annex IX. Fine-tuning of the fuelling system is allowed between the tests. This fine-tuning will consist of a recalibration of the fuelling database, without any alteration to either the basic control strategy or the basic structure of the database. If necessary, the exchange of parts that are directly related to the amount of fuel flow such as injector nozzles is allowed.
+
+1.2.2.1.
+
+In the case of CNG, at the manufacturer’s request the engine may be tested on the reference fuels G<sub> R </sub> and G<sub> 23 </sub>, or on the reference fuels G<sub> 25 </sub> and G<sub> 23 </sub>, in which case the type-approval is only valid for the H-range or the L-range of gases respectively.
+
+1.2.2.2.
+
+On delivery to the customer the engine shall bear a label as specified in point 3.3 stating for which fuel-range composition the engine has been calibrated.
+
+1.3.
+
+**Requirements on fuel-specific type-approval**
+
+1.3.1.
+
+A fuel specific type-approval may be granted for LNG fuelled engines, including dual-fuel engines, labelled with an approval mark containing the letters ‘LNG<sub> 20 </sub>’ in accordance with point 3.1 of this Annex.
+
+1.3.2.
+
+The manufacturer can only apply for a fuel specific type-approval in the case of the engine being calibrated for a specific LNG gas composition resulting in a λ-shift factor not differing by more than 3 per cent from the λ-shift factor of the G<sub> 20 </sub> fuel specified in Annex IX, and the ethane content of which does not exceed 1.5 per cent.
+
+1.3.3.
+
+In the case of a dual-fuel engine family where the engines are calibrated for a specific LNG gas composition resulting in a λ-shift factor not differing by more than 3 per cent from the λ-shift factor of the G<sub> 20 </sub> fuel specified in Annex IX, and the ethane content of which does not exceed 1.5 per cent, the parent engine shall only be tested on the G<sub> 20 </sub> reference gas fuel, as specified in Annex IX.
+
+2\.
+
+EXHAUST EMISSIONS TYPE-APPROVAL OF A MEMBER OF A FAMILY
+
+2.1.
+
+With the exception of the case mentioned in point 2.2, the type-approval of a parent engine shall be extended to all family members, without further testing, for any fuel composition within the range for which the parent engine has been approved (in the case of engines described in point 1.2.2) or the same range of fuels (in the case of engines described in either point 1.1 or 1.2) for which the parent engine has been type-approved.
+
+2.2.
+
+If the technical service determines that, with regard to the selected parent engine the submitted application does not fully represent the engine family defined in Part 1 of Appendix 4, an alternative and if necessary an additional reference test engine may be selected by the technical service and tested.
+
+3\.
+
+ENGINE MARKINGS
+
+3.1.
+
+In the case of an engine type-approved as a separate technical unit or a vehicle type-approved with regard to emissions [^key-53476219d1beaacef7d252d640bdec9e]..., the engine shall bear:
+
+- ((a)) the trademark or trade name of the manufacturer of the engine;
+- ((b)) the manufacturer's commercial description of the engine.
+
+3.2.
+
+Every engine type approved under this Regulation as a separate technical unit shall bear a GB type-approval[^key-ac44a271e99d1e0d41893e5f0e7803f0] mark. This mark shall consist of:
+
+3.2.1.
+
+A rectangle surrounding the lower-case letter ‘g’ followed by the number 11.[^key-97b412770a40a623d58d70ed151f6b6e]
+
+3.2.1.1.
+
+In case of a natural gas/biomethane engine one of the following markings to be placed after the GB type-approval[^key-aff8862f98d065696a6e56868501c420] mark:
+
+- ((a)) H in case of the engine being approved and calibrated for the H-range of gases;
+- ((b)) L in case of the engine being approved and calibrated for the L-range of gases;
+- ((c)) HL in case of the engine being approved and calibrated for both the H-range and L-range of gases;
+- ((d)) H<sub> t </sub> in case of the engine being approved and calibrated for a specific gas composition in the H-range of gases and transformable to another specific gas in the H-range of gases by fine tuning of the engine fuelling;
+- ((e)) L<sub> t </sub> in case of the engine being approved and calibrated for a specific gas composition in the L-range of gases and transformable to another specific gas in the L-range of gases after fine tuning of the engine fuelling;
+- ((f)) HL<sub> t </sub> in the case of the engine being approved and calibrated for a specific gas composition in either the H-range or the L- range of gases and transformable to another specific gas in either the H-range or the L-range of gases by fine tuning of the engine fuelling;
+- ((g)) CNG<sub> fr </sub> in all other cases where the engine is fuelled with CNG/biomethane and designed for operation on one restricted gas fuel range composition;
+- ((h)) LNG<sub> fr </sub> in the cases where the engine is fuelled with LNG and designed for operation on one restricted gas fuel range composition;
+- ((i)) LPG<sub> fr </sub> in the cases where the engine is fuelled with LPG and designed for operation on one restricted gas fuel range composition;
+- ((j)) LNG<sub> 20 </sub> in case of the engine being approved and calibrated for a specific LNG composition resulting in a λ-shift factor not differing by more than 3 per cent the λ-shift factor of the G<sub> 20 </sub> gas specified in Annex IX, and the ethane content of which does not exceed 1,5 per cent;
+- ((k)) LNG in case of the engine being approved and calibrated for any other LNG composition;
+
+3.2.1.2.
+
+For dual-fuel engines, the approval mark shall contain a series of digits after the national symbol, the purpose of which is to distinguish for which dual-fuel engine type and with which range of gases the approval has been granted. The series of digits will be constituted of two digits identifying the dual-fuel engine type as defined in Article 2, followed by the letter or letters specified in point 3.2.1.1 corresponding to the natural gas/biomethane composition used by the engine. The two digits identifying the dual- fuel engine types as defined in Article 2 are the following:
+
+- ((a)) 1A for dual-fuel engines of Type 1A;
+- ((b)) 1B for dual-fuel engines of Type 1B;
+- ((c)) 2A for dual-fuel engines of Type 2A;
+- ((d)) 2B for dual-fuel engines of Type 2B;
+- ((e)) 3B for dual-fuel engines of Type 3B;
+
+3.2.1.3.
+
+For diesel-fuelled CI engines, the approval mark shall contain the letter ‘D’ after the national symbol;
+
+3.2.1.4.
+
+For ethanol (ED95)-fuelled CI engines the approval mark shall contain the letters ‘ED’ after the national symbol;
+
+3.2.1.5.
+
+For ethanol (E85)-fuelled PI engines the approval mark shall contain ‘E85’ after the national symbol;
+
+3.2.1.6.
+
+for petrol-fuelled PI engines the approval mark shall contain the letter ‘P’ after the national symbol.
+
+3.2.2.
+
+The GB type-approval mark shall also include in the vicinity of the rectangle the ‘base approval number’ contained in Section 4 of the type-approval number referred to in Annex IV to Commission Implementing Regulation (EU) 2020/683[^key-2eef9e095f071e22ce872a1622b0f8fe], preceded by the letter indicating the emission stage for which the GB type-approval has been granted.
+
+3.2.3.
+
+The GB type-approval mark shall be affixed to the engine in such a way as to be indelible and clearly legible. It shall be visible when the engine is installed on the vehicle and shall be affixed to a part necessary for normal engine operation and not normally requiring replacement during engine life.
+
+In addition to the marking on the engine, the GB approval mark[^key-c58ca6b4f230b7232fb5b91c45359dde] may also be retrievable via the instrument cluster. It shall then be readily available for inspection and the access instructions included in the user manual of the vehicle.
+
+3.2.4.
+
+Appendix 8 gives examples of the GB approval mark.
+
+3.3.
+
+**Labels for natural gas/biomethane and LPG fuelled engines**
+
+In the case of natural gas/biomethane and LPG fuelled engines with a restricted fuel-range type-approval, the following labels containing information provided in point 3.3.1 shall be affixed.
+
+3.3.1.
+
+The following information shall be given on the label:
+
+In the case of point 1.2.1.3, the label shall state ‘ONLY FOR USE WITH NATURAL GAS RANGE H’. If applicable, ‘H’ is replaced by ‘L’.
+
+In the case of point 1.2.2.2, the label shall state ‘ONLY FOR USE WITH NATURAL GAS SPECIFICATION …’ or ‘ONLY FOR USE WITH LIQUEFIED PETROLEUM GAS SPECIFICATION …’, as applicable. All the information in the appropriate table in Annex IX shall be given with the individual constituents and limits specified by the engine manufacturer.
+
+The letters and figures shall be at least 4 mm in height.
+
+If lack of space prevents such labelling, a simplified code may be used. In this event, explanatory notes containing all the above information shall be easily accessible to any person filling the fuel tank or performing maintenance or repair on the engine and its accessories, as well as to the authorities concerned. The site and content of these explanatory notes shall be determined by agreement between the manufacturer and the approval authority.
+
+3.3.2.
+
+*Properties*
+
+Labels shall be durable for the useful life of the engine. Labels shall be clearly legible and their letters and figures shall be indelible. Additionally, labels shall be attached in such a manner that their fixing is durable for the useful life of the engine, and the labels cannot be removed without destroying or defacing them.
+
+3.3.3.
+
+*Placing*
+
+Labels shall be secured to an engine part necessary for normal engine operation and not normally requiring replacement during engine life. Additionally, these labels shall be located so as to be readily visible after the engine has been completed with all the auxiliaries necessary for engine operation.
+
+3.4.
+
+In case of an application for GB type-approval[^key-17b31abd8a072dfcc7415069d579be43] of a vehicle with an approved engine with regard to emissions [^key-d45bba8983c149784aeabaa6056f91a7]... or a GB type-approval[^key-dfc1b17b49fa0933ea02296dd5659f60] of a vehicle with regard to emissions and access to vehicle repair and maintenance information, the label specified in Section 3.3 shall also be placed close to the fuel filling aperture.
+
+4\.
+
+INSTALLATION ON THE VEHICLE
+
+4.1.
+
+The engine installation on the vehicle shall be performed in such a way as to ensure that the type-approval requirements are met. The following characteristics in respect to the type-approval of the engine shall be taken into consideration:
+
+- Intake depression shall not exceed that declared for the engine type-approval in Part 1 of Appendix 4;
+- Exhaust back pressure shall not exceed that declared for the engine type-approval in Part 1 of Appendix 4;
+- Power absorbed by the auxiliaries needed for operating the engine shall not exceed that declared for the engine type-approval in Part 1 of Appendix 4;
+- The characteristics of the exhaust after-treatment system shall be in accordance with those declared for the engine type-approval in Part 1 of Appendix 4.
+
+4.2.
+
+**Installation of a type-approved engine on a vehicle**
+
+The installation of an engine type approved as a separate technical unit on a vehicle shall, in addition, comply with the following requirements:
+
+- ((a)) as regard the compliance of the OBD system, the installation shall, according to Appendix 1 of Annex 9B to UN/ECE Regulation No 49, meet the manufacturer's installation requirements as specified in Part 1 of Appendix 4;
+- ((b)) as regards the compliance of the system ensuring the correct operation of NO<sub> x </sub> control measures, the installation shall, according to Appendix 4 of Annex 11 to UN/ECE Regulation No 49, meet the manufacturer's installation requirements as specified in Part 1 of Annex 1 to that Regulation;
+- ((c)) the installation of a dual-fuel engine type-approved as a separate technical unit on a vehicle shall, in addition, meet the specific installation requirements set out in paragraph 6 of Annex 15 to UNECE Regulation No 49 and the manufacturer’s installation requirements set out in Section 7 of Annex XVIII to this Regulation.
+
+4.3.
+
+**Inlet to fuel tanks in the case of a petrol or E85 fuelled engine**
+
+4.3.1.
+
+The inlet orifice of the petrol or E85 tank shall be designed so it prevents the tank from being filled from a fuel pump delivery nozzle that has an external diameter of 23,6 mm or greater.
+
+4.3.2.
+
+Point 4.3.1 shall not apply to a vehicle for which both of the following conditions are satisfied:
+
+- ((a)) the vehicle is designed and constructed so that no device designed to control the emission of gaseous pollutants is adversely affected by leaded petrol;
+- ((b)) the vehicle is conspicuously, legibly and indelibly marked with the symbol for unleaded petrol specified in ISO 2575:2004 in a position immediately visible to a person filling the fuel tank. Additional marking are permitted.
+
+4.3.3.
+
+Provision shall be made to prevent excess evaporative emissions and fuel spillage caused by a missing fuel filler cap. This may be achieved by using one of the following:
+
+- ((a)) an automatically opening and closing, non-removable fuel filler cap;
+- ((b)) design features which avoid excess evaporative emissions in the case of a missing fuel filler cap;
+- ((c)) or in case of M<sub>1</sub> or N<sub>1</sub> vehicles, any other provision which has the same affect. Examples may include, but are not limited to, a tethered filler cap, a chained filler cap or one utilising the same locking key for the filler cap as for the vehicle’s ignition. In this case the key shall be removable from the filler cap only in the locked condition.
+
+5\.
+
+REQUIREMENTS AND TESTS FOR IN-SERVICE TESTING
+
+5.1.
+
+**Introduction**
+
+This Section sets out the specifications and tests of the ECU data at type-approval for the purpose of in-service testing.
+
+5.2.
+
+**General Requirements**
+
+5.2.1.
+
+For the purpose of in-service testing, the calculated load (engine torque as a percentage of maximum torque and the maximum torque available at the current engine speed), the engine speed, the engine coolant temperature, the instantaneous fuel consumption, and the reference maximum engine torque as a function of engine speed shall be made available by the ECU in real time and at a frequency of at least 1 Hz, as mandatory data stream information.
+
+5.2.2.
+
+The output torque may be estimated by the ECU using built-in algorithms to calculate the produced internal torque and the friction torque.
+
+5.2.3
+
+The engine torque in Nm resulting from the above data stream information shall permit a direct comparison with the values measured when determining the engine power according to Annex XIV. In particular, any eventual corrections as regards auxiliaries shall be included in the above data stream information.
+
+5.2.4.
+
+Access to the information required in point 5.2.1 shall be provided in accordance with the requirements set out in Annex X and with the standards referred to in Appendix 6 to Annex 9B to UN/ECE Regulation No 49.
+
+5.2.5.
+
+The average load at each operating condition in Nm calculated from the information requested in point 5.2.1 shall not differ from the average measured load at that operating condition by more than:
+
+- ((a)) 7 % when determining the engine power according to Annex XIV;
+- ((b)) 10 % when performing the World Harmonised Steady state Cycle (hereinafter ‘WHSC’) test in accordance with Annex III, except for mode 1 and 13 (idle modes).
+
+The UN/ECE Regulation No 85[^f00008] allows the actual maximum load of the engine to differ from the reference maximum load by 5 % in order to address the manufacturing process variability. This tolerance is taken into account in the above values.
+
+5.2.6.
+
+External access to the information required in point 5.2.1 shall not influence the vehicle emissions or performance.
+
+5.2.7.
+
+If the difference between the measured torque value obtained with a declared market fuel and the torque calculated from the information requested in point 5.2.1 exceeds any of the values specified in point 5.2.5, a power correction factor for each additional market fuel permitted by the manufacturer in accordance with point 1.1.2 shall be determined for the engine family. The correction factor shall be calculated as the ratio between average measured peak torque \[Nm\] on the reference fuel according to Annex IX, and average measured peak torque \[Nm\] on the market fuel declared.
+
+5.3.
+
+**Verification of the availability and conformity of the ECU information required for in-service testing**
+
+5.3.1.
+
+The availability of the data stream information required in point 5.2.1 according to the requirements set out in point 5.2.2 shall be demonstrated by using an external OBD scan-tool as described in Annex X.
+
+5.3.2.
+
+In the case where this information cannot be retrieved in a proper manner, using a scan-tool that is working properly, the engine is considered as non-compliant.
+
+5.3.3.
+
+The fulfilment of the requirement referred to in point 5.2.5 shall be demonstrated for the parent engine of an engine family when determining the engine power in accordance with Annex XIV and when performing the WHSC test in accordance with Annex III and off-cycle laboratory testing at type-approval in accordance with Section 6 of Annex VI.
+
+5.3.3.1.
+
+The fulfilment of the requirement referred to in point 5.2.5 shall be demonstrated for each engine family member when determining the engine power in accordance with Annex XIV. For that purpose, additional measurements shall be performed at several part load and engine speed operating points (for example at the modes of the WHSC and some additional random points).
+
+5.3.3.2.
+
+If applicable, the power correction factor for the engine family, as referred to in point 5.2.7, shall be determined with the parent engine of the engine family.
+
+5.3.4.
+
+In the case where the engine under test does not match the requirements set out in Annex XIV concerning auxiliaries, the measured torque shall be corrected in accordance with the correction method set out in Annex 4 to UNECE Regulation No 49.
+
+5.3.5.
+
+The conformity of the ECU torque signal is considered to be demonstrated if the torque signal remains within the tolerances set out in point 5.2.5.
+
+6\.
+
+ENGINE FAMILY
+
+6.1.
+
+**Parameters defining the engine family**
+
+The engine family, as determined by the engine manufacturer, shall comply with paragraph 5.2 of Annex 4 to UNECE Regulation No 49, and, in the case of dual-fuel engines and vehicles, with paragraph 3.1 of Annex 15 to UNECE Regulation No 49.
+
+6.2.
+
+**Choice of the parent engine**
+
+The parent engine of the family shall be selected in accordance with the requirements set out in paragraph 5.2.4 of Annex 4 to UNECE Regulation No 49 and, in the case of dual-fuel engines and vehicles, with paragraph 3.1.2 of Annex 15 to UNECE Regulation No 49.
+
+6.3.
+
+**Parameters for defining an OBD engine family**
+
+The OBD engine family shall be determined by basic design parameters that shall be common to engine systems within the family in accordance with Section 6.1 of Annex 9B to UN/ECE Regulation No 49.
+
+6.4.
+
+**Extension to include a new engine system into an engine-family**
+
+6.4.1.
+
+At the request of the manufacturer and upon approval of the approval authority, a new engine system may be included as a member of a certified engine family if the criteria referred to in point 6.1 are met.
+
+6.4.2.
+
+Where the elements of design of the parent engine system correspond to those of the new engine system in accordance with point 6.2 or, in the case of a dual-fuel engine, in accordance with paragraph 3.1.2 of Annex 15 to UNECE Regulation No 49, the parent engine system shall remain unchanged and the manufacturer shall modify the information document specified in Annex I.
+
+6.4.3.
+
+Where the elements of design of the new engine system do not correspond to the parent engine system in accordance with point 6.4.2, but is representative of the whole family, the new engine system shall become the new parent engine. In this case, it shall be demonstrated that the new elements of design comply with the provisions of this Regulation and the information document specified in Annex I shall be modified.
+
+7\.
+
+CONFORMITY OF PRODUCTION
+
+7.1.
+
+**General requirements**
+
+Measures to ensure conformity of production shall be taken in accordance with Article 31 of Regulation (EU) 2018/858[^key-f552ef446946f4cb4d8eda611d1840d8]. Conformity of production shall be checked on the basis of the description in the type-approval certificates set out in Appendix 4 to this Annex. In applying Appendices 1, 2 or 3, the measured emission of the gaseous and particulate pollutants from engines subject to checking for conformity of production shall be adjusted by application of the appropriate deterioration factors (DF’s) for that engine as recorded in the Addendum to the GB type-approval certificate granted in accordance with this Regulation.
+
+The provisions of Annex IV to Regulation (EU) 2018/858[^key-a7dc3056ada23a6b20615da8a7d51020] shall be applicable where the approval authorities are not satisfied with the auditing procedure of the manufacturer.
+
+All engines subject to tests shall be randomly taken from the series production.
+
+7.2.
+
+**Emissions of pollutants**
+
+7.2.1.
+
+If emissions of pollutants are to be measured and an engine type-approval has had one or more extensions, the tests shall be carried out on the engines described in the information package relating to the relevant extension.
+
+7.2.2.
+
+Conformity of the engine subjected to a pollutant test:
+
+After submission of the engine to the authorities, the manufacturer may not carry out any adjustment to the engines selected.
+
+7.2.2.1.
+
+Three engines shall be taken from the series production of the engines under consideration. Engines shall be subjected to testing on the WHTC, and on the WHSC if applicable, for the checking of the production conformity. The limit values shall be those set out in Annex I to Regulation (EC) No 595/2009.
+
+7.2.2.2.
+
+Where the approval authority is satisfied with the production standard deviation given by the manufacturer in accordance with Annex IV to Regulation (EU) 2018/858[^key-74e56c0ac6c59e3ef089f7509e97c904], the tests shall be carried out according to Appendix 1 to this Annex.
+
+Where the approval authority is not satisfied with the production standard deviation given by the manufacturer in accordance with Annex IV to Regulation (EU) 2018/858, the tests shall be carried out according to Appendix 2 to this Annex.
+
+At the manufacturer’s request, the tests may be carried out in accordance with Appendix 3 to this Annex.
+
+7.2.2.3.
+
+On the basis of tests of the engine by sampling as set out in point 7.2.2.2, the series production of the engines under consideration is regarded as conforming where a pass decision is reached for all the pollutants and as non-conforming where a fail decision is reached for one pollutant, in accordance with the test criteria applied in the appropriate Appendix.
+
+When a pass decision has been reached for one pollutant, this decision may not be changed as a consequence of a result from any additional tests made in order to reach a decision for the other pollutants.
+
+If a pass decision is not reached for all the pollutants and if no fail decision is reached for any pollutant, a test is carried out on another engine (see Figure 1).
+
+If no decision is reached, the manufacturer may at any time decide to stop testing. In that case a fail decision is recorded.
+
+*Figure 1* **Schematic of production conformity testing** [image: see source](https://www.legislation.gov.uk/eur/2011/582/images/eur_20110582_2020-09-01_en_001)
+
+7.2.3.
+
+The tests shall be carried out on newly manufactured engines.
+
+7.2.3.1.
+
+At the request of the manufacturer, the tests may be carried out on engines which have been run-in up to a maximum of 125 hours. In this case, the running-in procedure shall be conducted by the manufacturer who shall undertake not to make any adjustments to those engines.
+
+7.2.3.2.
+
+When the manufacturer requests to conduct a running-in procedure in accordance with point 7.2.3.1, it may be carried out on either of the following:
+
+- ((a)) all the engines that are tested;
+- ((b)) the first engine tested, with the determination of an evolution coefficient as follows:
+  - ((i)) the pollutant emissions shall be measured both on the newly manufactured engine and before the maximum of 125 hours set in point 7.2.3.1 on the first engine tested;
+  - ((ii)) the evolution coefficient of the emissions between the two tests shall be calculated for each pollutant:
+    - Emissions on second test/Emissions first test
+    - The evolution coefficient may have a value less than one.
+
+The subsequent test engines shall not be subjected to the running-in procedure, but their emissions when newly manufactured shall be modified by the evolution coefficient.
+
+In this case, the values to be taken shall be the following:
+
+- ((a)) for the first engine, the values from the second test;
+- ((b)) for the other engines, the values when newly manufactured multiplied by the evolution coefficient.
+
+7.2.3.3.
+
+For diesel, ethanol (ED95), petrol, E85, LNG<sub> 20 </sub>, LNG and LPG fuelled engines, including dual-fuel engines, all those tests may be conducted with the applicable market fuels. However, at the manufacturer’s request, the reference fuels specified in Annex IX may be used. This implies tests, as described in Section 1 of this Annex, with at least two of the reference fuels for each LPG or LNG engine, including dual-fuel engines.
+
+7.2.3.4.
+
+For CNG engines, including dual-fuel engines, all those tests may be conducted with market fuel in the following way:
+
+- ((a)) for H marked engines with a market fuel within the H-range (0,89 ≤ S<sub> λ </sub> ≤ 1,00);
+- ((b)) for L marked engines with a market fuel within the L-range (1,00 ≤ S<sub> λ </sub> ≤ 1,19);
+- ((c)) for HL marked engines with a market fuel within the extreme range of the λ-shift factor (0,89 ≤ S<sub> λ </sub> ≤ 1,19).
+
+However, at the manufacturer’s request, the reference fuels specified in Annex IX may be used. This implies tests as described in Section 1 of this Annex.
+
+7.2.3.5.
+
+Non-compliance of gas and dual-fuel engines
+
+In the case of a dispute caused by the non-compliance of gas fuelled engines, including dual-fuel engines, when using a market fuel, the tests shall be performed with each reference fuel on which the parent engine has been tested, and with the possible additional third fuel as referred to in points 1.1.4.1 and 1.2.1.1 on which the parent engine may have been tested. Where applicable, the result shall be converted by a calculation applying the relevant factors ‘r’, ‘r<sub> a </sub>’ or ‘r<sub> b </sub>’ as described in points 1.1.5, 1.1.6.1 and 1.2.1.2. If r, ra or rb are less than 1, no correction shall take place. The measured results and, where applicable, the calculated results shall demonstrate that the engine meets the limit values with all relevant fuels (for example, fuels 1, 2 and fuel 3 in the case of natural gas engines and fuels A and B in the case of LPG engines).
+
+7.2.3.6.
+
+Tests for conformity of production of a gas fuelled engine laid out for operation on one specific fuel composition in accordance with Section 1.2.2 of this Annex shall be performed on the fuel for which the engine has been calibrated.
+
+7.3.
+
+**On-board diagnostics (OBD)**
+
+7.3.1.
+
+When the approval authority determines that the quality of production seems unsatisfactory, it may request a verification of the conformity of production of the OBD system. Such verification shall be carried out in accordance with the following:
+
+An engine shall be randomly taken from series production and subjected to the tests described in Annex 9B to UNECE Regulation No 49. A dual-fuel engine shall be operated in dual-fuel mode and, where applicable, in diesel mode. The tests may be carried out on an engine that has been run-in up to a maximum of 125 hours.
+
+7.3.2.
+
+The production is deemed to be in conformity if this engine complies with the requirements of the tests prescribed in Annex 9B to UNECE Regulation No 49 and, in the case of dual-fuel engines, complies with the additional requirements set out in paragraph 7 of Annex 15 to UNECE Regulation No 49.
+
+7.3.3.
+
+If the engine taken from the series production does not comply with the requirements set out in point 7.3.2, a further random sample of four engines shall be taken from the series production and subjected to the tests referred to in point 7.3.1.
+
+7.3.4.
+
+The production is deemed to conform if at least three engines out of the further random sample of four engines meet the requirements of the tests described in Annex 9B to UN/ECE Regulation No 49.
+
+7.4.
+
+**ECU information required for in-service testing**
+
+7.4.1.
+
+The availability of the data stream information requested in point 5.2.1 according to the requirements of point 5.2.2 shall be demonstrated by using an external OBD scan-tool as described in Annex X.
+
+7.4.2.
+
+In the case where this information cannot be retrieved in a proper manner while the scan-tool is working properly according to Annex X, the engine shall be considered as non-compliant.
+
+7.4.3.
+
+The conformity of the ECU torque signal with the requirements of points 5.2.2 and 5.2.3 shall be demonstrated by performing the WHSC test according to Annex III.
+
+7.4.4.
+
+In the case where the test equipment does not comply with the requirements specified in Annex XIV concerning auxiliaries, the measured torque shall be corrected in accordance with the correction method set out in Annex 4 to UNECE Regulation No 49.
+
+7.4.5.
+
+The conformity of the ECU torque signal shall be considered sufficient if the calculated torque remains within the tolerances specified in point 5.2.5.
+
+7.4.6.
+
+The availability and conformity checks of the ECU information required for in-service testing shall be performed by the manufacturer on a regular basis on each produced engine type within each produced engine family.
+
+7.4.7.
+
+The results of the manufacturer’s survey shall be made available to the approval authority at its request.
+
+7.4.8.
+
+At the request of the approval authority, the manufacturer shall demonstrate the availability or the conformity of the ECU information in serial production by performing the appropriate testing referred to in points 7.4.1 to 7.4.4 on a sample of engines selected from the same engine type. The sampling rules including sampling size and statistical pass-fail criteria shall be those specified in this Annex for checking the conformity of emissions.
+
+8\.
+
+DOCUMENTATION
+
+8.1.
+
+The documentation package required by Articles 5, 7 and 9 enabling the approval authority to evaluate the emission control strategies and the systems on-board the vehicle and engine to ensure the correct operation of NO <sub> x </sub> control measures, as well as the documentation packages required by Annex VI (off-cycle emissions), Annex X (OBD) and Annex XVIII (dual-fuel engines) shall be made available in the two following parts:
+
+- ((a)) the ‘formal documentation package’ that may be made available to interested parties upon request;
+- ((b)) the ‘extended documentation package’ that shall remain strictly confidential.
+
+8.2.
+
+The formal documentation package may be brief, provided that it exhibits evidence that all outputs permitted by a matrix obtained from the range of control of the individual unit inputs have been identified. The documentation shall describe the functional operation of the inducement system required by Annex XIII, including the parameters necessary for retrieving the information associated with that system. This material shall be retained by the approval authority.
+
+8.3.
+
+The extended documentation package shall include the following information:
+
+- ((a)) information on the operation of all AES and BES, including a description of the parameters that are modified by any AES and the boundary conditions under which the AES operate, and indication of which AES and BES are likely to be active under the conditions of the test procedures set out in Annex VI;
+- ((b)) a description of the fuel system control logic, timing strategies and switch points during all modes of operation;
+- ((c)) a full description of the inducement system required by Annex XIII, including the associated monitoring strategies;
+- ((d)) the description of the anti-tampering measures considered in point (b) of Article 5(4) and in point (a) of Article 7(4).
+
+8.3.1.
+
+The extended documentation package shall remain strictly confidential. It may be kept by the approval authority, or, at the discretion of the approval authority, may be retained by the manufacturer. In the case the manufacturer retains the documentation package, that package shall be identified and dated by the approval authority once reviewed and approved. It shall be made open for inspection by the approval authority at the time of approval or at any time during the validity of the approval.
+
+Appendix 1
+
+**Procedure for production conformity testing when standard deviation is satisfactory**
+
+1\.
+
+This Appendix describes the procedure to be used to verify production conformity for the emissions of pollutants when the manufacturer's production standard deviation is satisfactory. The applicable procedure shall be the one set out in Appendix 1 to UN/ECE Regulation No 49, with the following exceptions:
+
+- In paragraph A.1.3 of Appendix 1 to UNECE Regulation No 49, the reference to paragraph 5.3 shall be understood as reference to the table of Annex I to Regulation (EC) No 595/2009.
+- In paragraph A.1.3 of Appendix 1 to UNECE Regulation No 49, the reference to Figure 1 in paragraph 8.3 shall be understood as reference to Figure 1 of Annex I to this Regulation.
+
+Appendix 2
+
+**Procedure for production conformity testing when standard deviation is unsatisfactory or unavailable**
+
+1\.
+
+This Appendix describes the procedure to be used to verify production conformity for the emissions of pollutants when the manufacturer's production standard deviation is either unsatisfactory or unavailable. The applicable procedure shall be the one set out in Appendix 2 to UN/ECE Regulation No 49, with the following exceptions:
+
+- In paragraph A.2.3 of Appendix 2 to UNECE Regulation No 49, the reference to paragraph 5.3 shall be understood as reference to the table of Annex I to Regulation (EC) No 595/2009.
+
+Appendix 3
+
+**Procedure for production conformity testing at manufacturer’s request**
+
+1\.
+
+This Appendix describes the procedure to be used to verify, at the manufacturer's request, production conformity for the emissions of pollutants. The applicable procedure shall be the one set out in Appendix 3 to UN/ECE Regulation No 49, with the following exceptions:
+
+- In paragraph A.3.3 of Appendix 3 to UNECE Regulation No 49, the reference to paragraph 5.3 shall be understood as reference to the table of Annex I to Regulation (EC) No 595/2009.
+- In paragraph A.3.3 of Appendix 3 to UNECE Regulation No 49, the reference to Figure 1 in paragraph 8.3 shall be understood as reference to Figure 1 of Annex I to this Regulation.
+- In paragraph A.3.5 of Appendix 3 to UNECE Regulation No 49, the reference to paragraph 8.3.2 shall be understood as reference to point 7.2.2 of this Annex.
+
+Appendix 4
+
+**Models of information document**
+
+relating to:
+
+- GB type-approval[^key-a03fbbcd92ffc8355bb578db46500cfe] of an engine or engine family as a separate technical unit,
+- GB type-approval of vehicle with an approved engine with regard to emission [^M_F_9662a250-e94e-4197-efd5-91d3402ca5b1]...,
+- GB type-approval of a vehicle with regard to emissions [^M_F_9662a250-e94e-4197-efd5-91d3402ca5b1]....
+
+The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail.
+
+If the systems, components or separate technical units referred to in this Appendix have electronic controls, information concerning their performance shall be supplied.
+
+*Explanatory notes (regarding filling in the table):*
+
+Letters A, B, C, D, E corresponding to engine family members shall be replaced by the actual engine family members’ names.
+
+In case when for a certain engine characteristic same value/description applies for all engine family members the cells corresponding to A-E shall be merged.
+
+In case the family consists of more than five members new columns may be added.
+
+In the case of application for GB type-approval of an engine or engine family as a separate technical unit the general part and Part 1[^key-ba8c26d30ab4c1872eacfdca744d6268] shall be filled in.
+
+In the case of application for GB type-approval of a vehicle[^key-7d2ea80942d472222280c1ed66e12f3f] with an approved engine with regard to emissions [^M_F_d209bdc1-b609-489a-ca70-8e7e02f48292]... the general part and Part 2 shall be filled in.
+
+In the case of application for GB type-approval of a vehicle with regard to emissions [^M_F_fb5090ec-3f0b-4591-f924-95e8d4420faa]... the general part and Parts 1 and 2[^key-652867406947e3dd543399c3c959acd0] shall be filled in.
+
+Explanatory footnotes can be found in Appendix 10 to this Annex.
+
+<table>
+<tbody>
+<tr><th rowspan="2"></th><th rowspan="2"></th><th rowspan="2">Parent Engine or Engine Type</th><th colspan="5">Engine Family Members</th></tr>
+<tr><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th></tr>
+<tr><td>0.</td><td colspan="7">GENERAL</td></tr>
+<tr><td>0.l.</td><td>Make (trade name of manufacturer):</td><td colspan="6"></td></tr>
+<tr><td>0.2.</td><td>Type</td><td colspan="6"></td></tr>
+<tr><td>0.2.0.3.</td><td>Engine type as separate technical unit/engine family as separate technical unit/vehicle with an approved engine with regard to emissions .../vehicle with regard to emissions ... (<sup>1</sup>)</td><td colspan="6"></td></tr>
+<tr><td>0.2.1.</td><td>Commercial name(s) (if available):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>0.3.</td><td>Means of identification of type, if marked on the separate technical unit (<sup>b</sup>):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>0.3.1.</td><td>Location of that marking:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>0.5.</td><td>Name and address of manufacturer:</td><td colspan="6"></td></tr>
+<tr><td>0.7.</td><td>In the case of components and separate technical units, location and method of affixing of the GB approval mark:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>0.8.</td><td>Name(s) and address (es) of assembly plant(s):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>0.9.</td><td>Name and address of the manufacturer’s representative (if any):</td><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+[^key-d70adb89fe8126c6fc42dfd37845a40c][^key-d70adb89fe8126c6fc42dfd37845a40c][^key-7853ffc16f457df93a8bf3ff8754fc88]
+
+Part 1
+
+**ESSENTIAL CHARACTERISTICS OF THE (PARENT) ENGINE AND THE ENGINE TYPES WITHIN AN ENGINE FAMILY**
+
+Part 2
+
+**ESSENTIAL CHARACTERISTICS OF THE VEHICLE COMPONENTS AND SYSTEMS WITH REGARD TO EXHAUST-EMISSIONS**
+
+[^key-4b44e4bc9ef29f99f602fe3cb99f755a]...
+
+**Appendix to information document: Information on test conditions**
+
+PHOTOGRAPHS AND/OR DRAWINGS OF THE PARENT ENGINE, ENGINE TYPE AND, IF APPLICABLE, OF THE ENGINE COMPARTMENT.
+
+LIST FURTHER ATTACHMENTS IF ANY.
+
+DATE, FILE
+
+PART 1
+
+**ESSENTIAL CHARACTERISTICS OF THE (PARENT) ENGINE AND THE ENGINE TYPES WITHIN AN ENGINE FAMILY**
+
+<table>
+<tbody>
+<tr><th rowspan="2"></th><th rowspan="2"></th><th rowspan="2">Parent Engine or Engine Type</th><th colspan="5">Engine Family Members</th></tr>
+<tr><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th></tr>
+<tr><td>3.2.</td><td><strong>Internal combustion engine</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.</td><td><em>Specific engine information</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.1.</td><td>Working principle: positive ignition/compression ignition/dual-fuel (<sup> 1 </sup>)<br>Cycle four stroke/two stroke/rotary (<sup> 1 </sup>):</td><td colspan="6"></td></tr>
+<tr><td>3.2.1.1.1.</td><td>Type of dual-fuel engine: Type 1A/Type 1B/Type 2A/Type 2B/Type 3B ( <sup> 1 </sup> ) ( <sup> d1 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.1.2.</td><td>Gas Energy Ratio over the hot part of the WHTC test-cycle: … % ( <sup> d1 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.2.</td><td>Number and arrangement of cylinders:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.2.1.</td><td>Bore (<sup>l</sup>) mm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.2.2.</td><td>Stroke (<sup>l</sup>) mm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.2.3.</td><td>Firing order</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.3.</td><td>Engine capacity (<sup>m</sup>) cm<sup>3</sup></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.4.</td><td>Volumetric compression ratio (<sup>2</sup>):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.5.</td><td>Drawings of combustion chamber, piston crown and, in the case of positive-ignition engines, piston rings</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.6.</td><td>Normal engine idling speed (<sup>2</sup>) min<sup>-1</sup></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.6.1.</td><td>High engine idling speed (<sup>2</sup>) min<sup>-1</sup></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.6.2.</td><td>Idle on Diesel: yes/no ( <sup> 1 </sup> )( <sup> d1 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.7.</td><td>Carbon monoxide content by volume in the exhaust gas with the engine idling (<sup>2</sup>): % as stated by the manufacturer (positive-ignition engines only)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.8.</td><td>Maximum net power (<sup>n</sup>) … kW at … min<sup>-1</sup> (manufacturer's declared value)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.9.</td><td>Maximum permitted engine speed as prescribed by the manufacturer: min<sup>-1</sup></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.10.</td><td>Maximum net torque (<sup>n</sup>) … Nm at … min<sup>-1</sup> (manufacturer's declared value)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1.11.</td><td>Manufacturer references of the Documentation package required by Articles 5, 7 and 9 of Regulation (EU) No 582/2011 enabling the approval authority to evaluate the emission control strategies and the systems on-board the engine to ensure the correct operation of NO<sub>x</sub> control measures</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.2.</td><td><em>Fuel</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.2.2.</td><td>Heavy duty vehicles Diesel/Petrol/LPG/NG-H/NG-L/NG-HL/Ethanol (ED95)/Ethanol (E85)/LNG/LNG <sub> 20 </sub> ( <sup> 1 </sup> ) ( <sup> 6 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.2.2.1.</td><td>Fuels compatible with use by the engine declared by the manufacturer in accordance with point 1.1.2 of Annex I to Regulation (EU) No 582/2011 (as applicable)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td><em>3.2.4.</em></td><td><em>Fuel feed</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.</td><td>By fuel injection (compression ignition or dual fuel only): yes/no ( <sup> 1 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.1.</td><td>System description</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.2.</td><td>Working principle: direct injection/pre-chamber/swirl chamber (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.3.</td><td>Injection pump</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.3.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.3.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.3.3.</td><td>Maximum fuel delivery (<sup>1</sup>) (<sup>2</sup>) … mm<sup>3</sup> /stroke or cycle at an engine speed of … min<sup>-1</sup> or, alternatively, a characteristic diagram<br>(When boost control is supplied, state the characteristic fuel delivery and boost pressure versus engine speed)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.3.4.</td><td>Static injection timing (<sup>2</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.3.5.</td><td>Injection advance curve (<sup>2</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.3.6.</td><td>Calibration procedure: test bench/engine (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.4.</td><td>Governor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.4.1.</td><td>Type</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.4.2.</td><td>Cut-off point</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.4.2.1.</td><td>Speed at which cut-off starts under load: min<sup>-1</sup></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.4.2.2.</td><td>Maximum no-load speed: min<sup>-1</sup></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.4.2.3.</td><td>Idling speed: min<sup>-1</sup></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.5.</td><td>Injection piping</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.5.1.</td><td>Length: mm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.5.2.</td><td>Internal diameter: mm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.5.3.</td><td>Common rail, make and type:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.6.</td><td>Injector(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.6.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.6.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.6.3.</td><td>Opening pressure (<sup>2</sup>): kPa or characteristic diagram (<sup>2</sup>):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.7.</td><td>Cold start system</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.7.1.</td><td>Make(s):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.7.2.</td><td>Type(s):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.7.3.</td><td>Description</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.8.</td><td>Auxiliary starting aid</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.8.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.8.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.8.3.</td><td>System description</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.</td><td>Electronic controlled injection: yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.2.</td><td>Type(s):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.3.</td><td>Description of the system (in the case of systems other than continuous injection give equivalent details):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.3.1.</td><td>Make and type of the control unit (ECU)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.3.2.</td><td>Make and type of the fuel regulator</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.3.3.</td><td>Make and type of the air-flow sensor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.3.4.</td><td>Make and type of fuel distributor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.3.5.</td><td>Make and type of the throttle housing</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.3.6.</td><td>Make and type of water temperature sensor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.3.7.</td><td>Make and type of air temperature sensor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.3.8.</td><td>Make and type of air pressure sensor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.2.9.3.9.</td><td>Software calibration number(s):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.</td><td>By fuel injection (positive ignition only): yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.1.</td><td>Working principle: intake manifold (single-/multi-point/direct injection (<sup>1</sup>)/other specify):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.2.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.3.</td><td>Type(s):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.</td><td>System description (In the case of systems other than continuous injection give equivalent details)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.1.</td><td>Make and type of the control unit (ECU)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.2.</td><td>Make and type of fuel regulator</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.3.</td><td>Make and type of air-flow sensor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.4.</td><td>Make and type of fuel distributor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.5.</td><td>Make and type of pressure regulator</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.6.</td><td>Make and type of micro switch</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.7.</td><td>Make and type of idling adjustment screw</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.8.</td><td>Make and type of throttle housing</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.9.</td><td>Make and type of water temperature sensor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.10.</td><td>Make and type of air temperature sensor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.11.</td><td>Make and type of air pressure sensor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.4.12.</td><td>Software calibration number(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.5.</td><td>Injectors: opening pressure (<sup>2</sup>): … kPa or characteristic diagram (<sup>2</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.5.1.</td><td>Make</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.5.2.</td><td>Type</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.6.</td><td>Injection timing</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.7.</td><td>Cold start system</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.7.1.</td><td>Operating principle(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.3.7.2.</td><td>Operating limits/settings (<sup>1</sup>) (<sup>2</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.4.</td><td>Feed pump</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.4.4.1.</td><td>Pressure (<sup>2</sup>): … kPa or characteristic diagram (<sup>2</sup>):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.5.</td><td><em>Electrical system</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.5.1.</td><td>Rated voltage: … V, positive/negative ground (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.5.2.</td><td>Generator</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.5.2.1.</td><td>Type:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.5.2.2.</td><td>Nominal output: VA</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.</td><td><em>Ignition system (spark ignition engines only)</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.3.</td><td>Working principle</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.4.</td><td>Ignition advance curve or map (<sup>2</sup>):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.5.</td><td>Static ignition timing (<sup>2</sup>): … degrees before TDC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.6.</td><td>Spark plugs</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.6.1.</td><td>Make:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.6.2.</td><td>Type:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.6.3.</td><td>Gap setting: … mm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.7.</td><td>Ignition coil(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.7.1.</td><td>Make:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.6.7.2.</td><td>Type:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.</td><td><em>Cooling system: liquid/air</em> (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.2.</td><td>Liquid</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.2.1.</td><td>Nature of liquid</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.2.2.</td><td>Circulating pump(s): yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.2.3.</td><td>Characteristics: … or</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.2.3.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.2.3.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.2.4.</td><td>Drive ratio(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.3.</td><td>Air</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.3.1.</td><td>Fan: yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.3.2.</td><td>Characteristics … or</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.3.2.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.3.2.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.7.3.3.</td><td>Drive ratio(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.</td><td><em>Intake system</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.1.</td><td>Pressure charger: yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.1.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.1.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.1.3.</td><td>Description of the system (e.g. maximum charge pressure … kPa, wastegate, if applicable)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.2.</td><td>Intercooler: yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.2.1.</td><td>Type: air-air/air-water (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.3</td><td>Intake depression at rated engine speed and at 100 % load (compression-ignition engines only)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.3.1</td><td>Minimum allowable: … kPa</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.3.2.</td><td>Maximum allowable: … kPa</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.4.</td><td>Description and drawings of inlet pipes and their accessories (plenum chamber, heating device, additional air intakes, etc.)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.8.4.1.</td><td>Intake manifold description (include drawings and/or photos)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.9.</td><td><em>Exhaust system</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.9.1.</td><td>Description and/or drawings of the exhaust manifold</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.9.2.</td><td>Description and/or drawing of the exhaust system</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.9.2.1.</td><td>Description and/or drawing of the elements of the exhaust system that are part of the engine system</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.9.3.</td><td>Maximum allowable exhaust back pressure at rated engine speed and at 100 % load (compression-ignition engines only): … kPa (<sup>3</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td></tr>
+<tr><td>3.2.9.7.1.</td><td>Acceptable exhaust system volume (vehicle and engine system): … dm <sup> 3 </sup></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.9.7.2.</td><td>Volume of the exhaust system that is part of the engine system: … dm <sup> 3 </sup></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.10.</td><td><em>Minimum cross-sectional areas of inlet and outlet ports</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.11.</td><td colspan="7"><em>Valve timing or equivalent data</em></td></tr>
+<tr><td>3.2.11.1.</td><td>Maximum lift of valves, angles of opening and closing, or timing details of alternative distribution systems, in relation to dead centres. For variable timing system, minimum and maximum timing</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.11.2.</td><td>Reference and/or setting range (<sup>3</sup>):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.</td><td colspan="7"><em>Measures taken against air pollution</em></td></tr>
+<tr><td>3.2.12.1.1</td><td>Device for recycling crankcase gases: yes/no (<sup>2</sup>)<br>If yes, description and drawings: …<br>If no, compliance with Annex V to Regulation (EU) No 582/2011 required</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.</td><td>Additional pollution control devices (if any, and if not covered by another heading)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.</td><td>Catalytic converter: yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.1.</td><td>Number of catalytic converters and elements (provide this information below for each separate unit)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.2.</td><td>Dimensions, shape and volume of the catalytic converter(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.3.</td><td>Type of catalytic action</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.4.</td><td>Total charge of precious metals</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.5.</td><td>Relative concentration</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.6.</td><td>Substrate (structure and material)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.7.</td><td>Cell density:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.8.</td><td>Type of casing for the catalytic converter(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.9.</td><td>Location of the catalytic converter(s) (place and reference distance in the exhaust line)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.10.</td><td>Heat shield: yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.11.</td><td>Regeneration systems/method of exhaust after-treatment systems, description:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.11.5.</td><td>Normal operating temperature range … K</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.11.6.</td><td>Consumable reagents: yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.11.7.</td><td>Type and concentration of reagent needed for catalytic action</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.11.8.</td><td>Normal operational temperature range of reagent … K</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.11.9.</td><td>International standard:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.11.10.</td><td>Frequency of reagent refill: continuous/maintenance (<sup>1</sup>):</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.12.</td><td>Make of catalytic converter</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.1.13.</td><td>Identifying part number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.2.</td><td>Oxygen sensor: yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.2.1.</td><td>Make</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.2.2.</td><td>Location</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.2.3.</td><td>Control range</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.2.4.</td><td>Type</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.2.5.</td><td>Identifying part number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.3.</td><td>Air injection: yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.3.1.</td><td>Type (pulse air, air pump, etc.)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.4.</td><td>Exhaust gas recirculation (EGR): yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.4.1.</td><td>Characteristics (make, type, flow, etc.)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.</td><td>Particulate trap (PT): yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.1.</td><td>Dimensions, shape and capacity of the particulate trap</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.2.</td><td>Design of the particulate trap</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.3.</td><td>Location (reference distance in the exhaust line)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.4.</td><td>Method or system of regeneration, description and/or drawing</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.5.</td><td>Make of particulate trap</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.6.</td><td>Identifying part number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.7.</td><td>Normal operating temperature: … (K) and pressure range: (kPa)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.8.</td><td>In the case of periodic regeneration</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.8.1.1.</td><td>Number of WHTC test cycles without regeneration (n)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.8.2.1.</td><td>Number of WHTC test cycles with regeneration (n<sub>R</sub>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.9.</td><td>Other systems: yes/no (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.6.9.1</td><td>Description and operation</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.7.</td><td>On-board-diagnostic (OBD) system</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.7.0.1.</td><td>Number of OBD engine families within the engine family</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.0.2.</td><td>List of the OBD engine families (when applicable)</td><td colspan="6">OBD engine family 1:…<br>OBD engine family 2: …<br>etc. …</td></tr>
+<tr><td>3.2.12.2.7.0.3.</td><td>Number of the OBD engine family the parent engine/the engine member belongs to</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.7.0.4.</td><td>Manufacturer references of the OBD-Documentation required by point 4(c) of Article 5 and point 4 of Article 9 of Regulation (EU) No 582/2011 and specified in Annex X to that Regulation for the purpose of approving the OBD system</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.0.5.</td><td>When appropriate, manufacturer reference of the Documentation for installing in a vehicle an OBD equipped engine system</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.2.</td><td>List and purpose of all components monitored by the OBD system (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.</td><td>Written description (general working principles) for</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.1</td><td>Positive-ignition engines (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.1.1.</td><td>Catalyst monitoring (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.1.2.</td><td>Misfire detection (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.1.3.</td><td>Oxygen sensor monitoring (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.1.4.</td><td>Other components monitored by the OBD system</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.2.</td><td>Compression-ignition engines (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.2.1.</td><td>Catalyst monitoring (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.2.2.</td><td>Particulate trap monitoring (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.2.3.</td><td>Electronic fuelling system monitoring (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.2.4.</td><td>DeNO<sub>x</sub> system monitoring (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.3.2.5.</td><td>Other components monitored by the OBD system (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.4.</td><td>Criteria for MI activation (fixed number of driving cycles or statistical method) (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.5.</td><td>List of all OBD output codes and formats used (with explanation of each) (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.6.5.</td><td>OBD Communication protocol standard (<sup>4</sup>)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.7.</td><td>Manufacturer reference of the OBD related information required by of Article 5(4)(d) and Article 9(4) of Regulation (EU) No 582/2011 for the purpose of complying with the provisions on access to vehicle OBD and vehicle Repair and Maintenance Information, or</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.7.1.</td><td>As an alternative to a manufacturer reference provided in point 3.2.12.2.7.7 reference of the attachment to this Appendix that contains the following table, once completed according to the given example:<br>Component — Fault code — Monitoring strategy — Fault detection criteria — MI activation criteria — Secondary parameters — Preconditioning — Demonstration test<br>Catalyst — P0420 — Oxygen sensor 1 and 2 signals — Difference between sensor 1 and sensor 2 signals — 3rd cycle — Engine speed, engine load, A/F mode, catalyst temperature — Two Type 1 cycles — Type 1</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.8.0.</td><td>Alternative approval as provided for in point 2.4.1 of Annex X to Regulation (EU) No 582/2011 used: yes/no ( <sup> 1 </sup> )</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.</td><td>Other systems (description and operation)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.8.1.</td><td>Systems to ensure the correct operation of NO<sub>x</sub> control measures</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.8.2.</td><td>Driver inducement system</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.8.2.1.</td><td>Engine with permanent deactivation of the driver inducement, for use by the rescue services or in vehicles specified in point (d) of Article 2(2) or point (b) of Article 2(3) of Regulation (EU) 2018/858: yes/no ( <sup> 1 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.8.2.2.</td><td>Activation of the creep mode ‘disable after restart’/‘disable after fuelling’/‘disable after parking’ ( <sup> 7 </sup> ) ( <sup> 1 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.8.3.</td><td>Number of OBD engine families within the engine family considered when ensuring the correct operation of NO<sub>x</sub> control measures</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.3.1.</td><td>List of the OBD engine families within the engine family considered when ensuring the correct operation of NO <sub> x </sub> control measures (where applicable)</td><td colspan="6">OBD engine family 1: …<br>OBD engine family 2: …<br>Etc …</td></tr>
+<tr><td>3.2.12.2.8.3.2.</td><td>Number of the OBD engine family the parent engine/the engine member belongs to</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td></tr>
+<tr><td>3.2.12.2.8.5.</td><td>Reference number of the OBD engine family considered when ensuring the correct operation of NO <sub> x </sub> control measures the parent engine/the engine member belongs to</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.8.6.</td><td>Lowest concentration of the active ingredient present in the reagent that does not activate the warning system (CD<sub>min</sub>): (% vol.)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.7.</td><td>When appropriate, manufacturer reference of the Documentation for installing in a vehicle the systems to ensure the correct operation of NO<sub>x</sub> control measures</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.8.8.4.</td><td>Alternative approval as provided for in point 2.1 of Annex XIII to Regulation (EU) No 582/2011 used: yes/no ( <sup> 1 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.12.2.8.8.5.</td><td>Heated/non-heated reagent tank and dosing system (see paragraph 2.4 of Annex 11 to UNECE Regulation No 49)</td><td colspan="6"></td></tr>
+<tr><td>3.2.17.</td><td>Specific information related to gas and dual fuel engines for heavy-duty vehicles (in the case of systems laid out in a different manner, supply equivalent information)(where applicable)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.1.</td><td>Fuel: LPG/NG-H/NG-L/NG-HL (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.2.</td><td>Pressure regulator(s) or vaporiser/pressure regulator(s) (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.2.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.2.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.2.3.</td><td>Number of pressure reduction stages</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.2.4.</td><td>Pressure in final stage minimum: … kPa – maximum. kPa</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.2.5.</td><td>Number of main adjustment points</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.2.6.</td><td>Number of idle adjustment points</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.2.7.</td><td>Type-approval number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.3.</td><td>Fuelling system: mixing unit/gas injection/liquid injection/direct injection (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.3.1.</td><td>Mixture strength regulation</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.3.2.</td><td>System description and/or diagram and drawings</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.3.3.</td><td>Type-approval number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.4.</td><td>Mixing unit</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.4.1.</td><td>Number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.4.2.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.4.3.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.4.4.</td><td>Location</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.4.5.</td><td>Adjustment possibilities</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.4.6.</td><td>Type-approval number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.</td><td>Inlet manifold injection</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.1.</td><td>Injection: single point/multipoint (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.2.</td><td>Injection: continuous/simultaneously timed/sequentially timed (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.3.</td><td>Injection equipment</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.3.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.3.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.3.3.</td><td>Adjustment possibilities</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.3.4.</td><td>Type-approval number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.4.</td><td>Supply pump (if applicable)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.4.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.4.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.4.3.</td><td>Type-approval number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.5.</td><td>Injector(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.5.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.5.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.5.5.3.</td><td>Type-approval number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.</td><td>Direct injection</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.1.</td><td>Injection pump/pressure regulator (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.1.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.1.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.1.3</td><td>Injection timing</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.1.4.</td><td>Type-approval number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.2.</td><td>Injector(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.2.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.2.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.2.3.</td><td>Opening pressure or characteristic diagram (<sup>2</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.6.2.4.</td><td>Type-approval number</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.7.</td><td>Electronic control unit (ECU)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.7.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.7.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.7.3.</td><td>Adjustment possibilities</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.7.4.</td><td>Software calibration number(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.8.</td><td>NG fuel-specific equipment</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.8.1.</td><td>Variant 1 (only in the case of approvals of engines for several specific fuel compositions)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.8.1.0.1.</td><td>Self adaptive feature? Yes/No (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.8.1.0.2.</td><td>Calibration for a specific gas composition NG-H/NG-L/NG-HL (<sup>1</sup>)<br>Transformation for a specific gas composition NG-H<sub>t</sub>/NG-L<sub>t</sub>/NG-HL<sub>t</sub> (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.17.8.1.1.</td><td colspan="7"><table><tbody><tr><td>methane (CH<sub>4</sub>): … basis:</td><td>%mole</td><td>min. … %mole</td><td>max. %mole</td></tr><tr><td>ethane (C<sub>2</sub>H<sub>6</sub>): … basis:</td><td>%mole</td><td>min. … %mole</td><td>max. %mole</td></tr><tr><td>propane (C<sub>3</sub>H<sub>8</sub>): … basis:</td><td>%mole</td><td>min. … %mole</td><td>max. %mole</td></tr><tr><td>butane (C<sub>4</sub>H<sub>10</sub>): …basis:</td><td>%mole</td><td>min. … %mole</td><td>max. %mole</td></tr><tr><td>C<sub>5</sub>/C<sub>5+</sub>: … basis:</td><td>%mole</td><td>min. … %mole</td><td>max. %mole</td></tr><tr><td>oxygen (O<sub>2</sub>): … basis:</td><td>%mole</td><td>min. … %mole</td><td>max. %mole</td></tr><tr><td>inert (N<sub>2</sub>, He, etc.): … basis:</td><td>%mole</td><td>min. … %mole</td><td>max. %mole</td></tr></tbody></table></td></tr>
+<tr><td>3.2.17.9.</td><td>Where appropriate, manufacturer reference of the documentation for installing the dual-fuel engine in a vehicle ( <sup> d1 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.4.</td><td><em>CO<sub>2</sub> emissions for heavy duty engines</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.4.1.</td><td>CO <sub> 2 </sub> mass emissions WHSC test ( <sup> d3 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.4.2.</td><td>CO <sub> 2 </sub> mass emissions WHSC test in diesel mode ( <sup> d2 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.4.3.</td><td>CO <sub> 2 </sub> mass emissions WHSC test in dual-fuel mode ( <sup> d1 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.4.4.</td><td>CO <sub> 2 </sub> mass emissions WHTC test ( <sup> 5 </sup> )( <sup> d3 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.4.5.</td><td>CO <sub> 2 </sub> mass emissions WHTC test in diesel mode ( <sup> 5 </sup> )( <sup> d2 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.4.6.</td><td>CO <sub> 2 </sub> mass emissions WHTC test in dual-fuel mode ( <sup> 5 </sup> )( <sup> d1 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.5.</td><td><em>Fuel consumption for heavy duty engines</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.5.1.</td><td>Fuel consumption WHSC test ( <sup> d3 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.5.2.</td><td>Fuel consumption WHSC test in diesel mode ( <sup> d2 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.5.3.</td><td>Fuel consumption WHSC test in dual-fuel mode ( <sup> d1 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.5.4.</td><td>Fuel consumption WHTC test ( <sup> 5 </sup> )( <sup> d3 </sup> ) … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.5.5.</td><td>Fuel consumption WHTC test in diesel mode ( <sup> 5 </sup> )( <sup> d2 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.5.5.6.</td><td>Fuel consumption WHTC test in dual-fuel mode ( <sup> 5 </sup> )( <sup> d1 </sup> ): … g/kWh</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.6.</td><td><strong>Temperatures permitted by the manufacturer</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.6.1.</td><td><em>Cooling system</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.6.1.1.</td><td>Liquid cooling<br>Maximum temperature at outlet: … K</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.6.1.2.</td><td>Air cooling</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.6.1.2.1.</td><td>Reference point:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.6.1.2.2.</td><td>Maximum temperature at reference point: … K</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.6.2.</td><td><em>Maximum outlet temperature of the inlet intercooler</em>: … K</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.6.3.</td><td><em>Maximum exhaust temperature at the point in the exhaust pipe(s) adjacent to the outer flange(s) of the exhaust manifold(s) or turbocharger(s):</em> … K</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.6.4.</td><td><em>Fuel temperature:</em><br>Minimum: K – maximum: K<br>For diesel engines at injection pump inlet, for gas fuelled engines at pressure regulator final stage.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.6.5.</td><td><em>Lubricant temperature</em><br>Minimum: K – maximum: K</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8</td><td><strong>Lubrication system</strong></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.1.</td><td><em>Description of the system</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.1.1.</td><td>Position of lubricant reservoir</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.1.2.</td><td>Feed system (by pump/injection into intake/mixing with fuel, etc.) (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.2.</td><td><em>Lubricating pump</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.2.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.2.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.3.</td><td><em>Mixture with fuel</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.3.1.</td><td>Percentage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.4.</td><td><em>Oil cooler: yes/no</em> (<sup>1</sup>)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.4.1.</td><td>Drawing(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.4.1.1.</td><td>Make(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.8.4.1.2.</td><td>Type(s)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^c000015][^key-6a6bc8c454d71cc74e5ebfa100bc1ee0][^key-dadb0cca3f07b537a90a89add74a0f1e][^c000015]
+
+PART 2
+
+**ESSENTIAL CHARACTERISTICS OF THE VEHICLE COMPONENTS AND SYSTEMS WITH REGARD TO EXHAUST-EMISSIONS**
+
+<table>
+<tbody>
+<tr><th rowspan="2"></th><th rowspan="2"></th><th rowspan="2">Parent Engine or Engine Type</th><th colspan="5">Engine Family Members</th></tr>
+<tr><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th></tr>
+<tr><td>3.1</td><td><strong>Manufacturer of the engine</strong></td><td colspan="6"></td></tr>
+<tr><td>3.1.1.</td><td>Manufacturer’s engine code (as marked on the engine or other means of identification)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.1.2.</td><td>Approval number (if appropriate) including fuel identification marking:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3.2.2.</td><td><em>Fuel</em></td><td colspan="6"></td></tr>
+<tr><td>3.2.2.3.</td><td>Fuel tank inlet: restricted orifice/label</td><td colspan="6"></td></tr>
+<tr><td>3.2.2.4.1.</td><td>Dual-fuel vehicle: yes/no ( <sup> 1 </sup> )</td><td colspan="6"></td></tr>
+<tr><td>3.2.3.</td><td><em>Fuel tank(s)</em></td><td colspan="6"></td></tr>
+<tr><td>3.2.3.1.</td><td>Service fuel tank(s)</td><td colspan="6"></td></tr>
+<tr><td>3.2.3.1.1.</td><td>Number and capacity of each tank</td><td colspan="6"></td></tr>
+<tr><td>3.2.3.2.</td><td>Reserve fuel tank(s)</td><td colspan="6"></td></tr>
+<tr><td>3.2.3.2.1.</td><td>Number and capacity of each tank</td><td colspan="6"></td></tr>
+<tr><td>3.2.8.</td><td><em>Intake system</em></td><td colspan="6"></td></tr>
+<tr><td>3.2.8.3.3.</td><td>Actual Intake system depression at rated engine speed and at 100 % load on the vehicle: kPa</td><td colspan="6"></td></tr>
+<tr><td>3.2.8.4.2.</td><td>Air filter, drawings: … or …</td><td colspan="6"></td></tr>
+<tr><td>3.2.8.4.2.1.</td><td>Make(s)</td><td colspan="6"></td></tr>
+<tr><td>3.2.8.4.2.2.</td><td>Type(s)</td><td colspan="6"></td></tr>
+<tr><td>3.2.8.4.3.</td><td>Intake silencer, drawings</td><td colspan="6"></td></tr>
+<tr><td>3.2.8.4.3.1.</td><td>Make(s)</td><td colspan="6"></td></tr>
+<tr><td>3.2.8.4.3.2.</td><td>Type(s)</td><td colspan="6"></td></tr>
+<tr><td>3.2.9.</td><td><em>Exhaust system</em></td><td colspan="6"></td></tr>
+<tr><td>3.2.9.2.</td><td>Description and/or drawing of the exhaust system</td><td colspan="6"></td></tr>
+<tr><td>3.2.9.2.2.</td><td>Description and/or drawing of the elements of the exhaust system that are not part of the engine system</td><td colspan="6"></td></tr>
+<tr><td>3.2.9.3.1</td><td>Actual exhaust back pressure at rated engine speed and at 100 % load on the vehicle (compression-ignition engines only): … kPa</td><td colspan="6"></td></tr>
+<tr><td>3.2.9.7.</td><td>Complete exhaust system volume (vehicle and engine system): … dm <sup> 3 </sup></td><td colspan="6"></td></tr>
+<tr><td>3.2.9.7.1.</td><td>Acceptable exhaust system volume (vehicle and engine system): … dm <sup> 3 </sup></td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.</td><td>On-board-diagnostic (OBD) system</td><td colspan="6"></td></tr>
+<tr><td>. . .</td></tr>
+<tr><td>. . .</td></tr>
+<tr><td>. . .</td></tr>
+<tr><td>. . .</td></tr>
+<tr><td>. . .</td></tr>
+<tr><td>3.2.12.2.7.8.</td><td>OBD components on-board the vehicle</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.8.0.</td><td>Alternative approval as provided for in point 2.4.1 of Annex X to Regulation (EU) No 582/2011 used. yes/no ( <sup> 1 </sup> )</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.8.1.</td><td>List of OBD components on-board the vehicle</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.8.2.</td><td>Written description and/or drawing of the MI ( <sup> 6 </sup> )</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.7.8.3.</td><td>Written description and/or drawing of the OBD off-board communication interface ( <sup> 6 </sup> )</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.</td><td>Other systems (description and operation)</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.0.</td><td>Alternative approval as defined in point 2.1 of Annex XIII to Regulation (EU) No 582/2011 used. Yes/No</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.1.</td><td>Systems to ensure the correct operation of NO <sub> x </sub> control measures</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.2.</td><td>Driver inducement system</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.2.1.</td><td>Engine with permanent deactivation of the driver inducement, for use by the rescue services or in vehicles specified in point (d) of Article 2(2) or point (b) of Article 2(3) of Regulation (EU) 2018/858: yes/no ( <sup> 1 </sup> )</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.2.2.</td><td>Activation of the creep mode ‘disable after restart’/‘disable after fuelling’/‘disable after parking’ ( <sup> 7 </sup> )( <sup> 1 </sup> )</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.3.</td><td>When appropriate, manufacturer reference of the documentation package related to the installation on the vehicle of the system ensuring the correct operation of NO<sub>x</sub> control measures of an approved engine</td><td colspan="6"></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td>3.2.12.2.8.8.</td><td>Components on-board the vehicle of the systems ensuring the correct operation of NO <sub> x </sub> control measures</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.8.1.</td><td>List of components on-board the vehicle of the systems ensuring the correct operation of NO <sub> x </sub> control measures</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.8.2.</td><td>Where appropriate, manufacturer reference of the documentation package related to the installation on the vehicle of the system ensuring the correct operation of NO <sub> x </sub> control measures of an approved engine</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.8.3.</td><td>Written description and/or drawing of the warning signal ( <sup> 6 </sup> )</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.8.4.</td><td>Alternative approval as provided for in point 2.1. of Annex XIII to Regulation (EU) No 582/2011 used: yes/no ( <sup> 1 </sup> )</td><td colspan="6"></td></tr>
+<tr><td>3.2.12.2.8.8.5.</td><td>Heated/non heated reagent tank and dosing system (see paragraph 2.4 of Annex 11 to UNECE Regulation No 49)</td><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+[^c000015][^c000015][^c000015][^c000015][^c000015][^key-253a728f0ba78a3530b2567d1db153a3][^key-eb9b91349134025d893afbbed7a89e64][^c000015][^c000015]
+
+[^key-4af990abe9eecf58539513184b8fbd0a]PART 3
+
+|  |  |
+| --- | --- |
+| [^key-4af990abe9eecf58539513184b8fbd0a]. . . | [^key-4af990abe9eecf58539513184b8fbd0a]. . . |
+| [^key-4af990abe9eecf58539513184b8fbd0a]. . . | [^key-4af990abe9eecf58539513184b8fbd0a]. . . |
+| [^key-4af990abe9eecf58539513184b8fbd0a]. . . | [^key-4af990abe9eecf58539513184b8fbd0a]. . . |
+| [^key-4af990abe9eecf58539513184b8fbd0a]. . . | [^key-4af990abe9eecf58539513184b8fbd0a]. . . |
+| [^key-4af990abe9eecf58539513184b8fbd0a]. . . | [^key-4af990abe9eecf58539513184b8fbd0a]. . . |
+
+Appendix
+
+to information document
+
+**Information on test conditions**
+
+1\.
+
+**Spark plugs**
+
+1.1.
+
+Make:
+
+1.2.
+
+Type:
+
+1.3.
+
+Spark-gap setting:
+
+2\.
+
+**Ignition coil**
+
+2.1.
+
+Make:
+
+2.2.
+
+Type:
+
+3\.
+
+**Lubricant used**
+
+3.1.
+
+Make:
+
+3.2.
+
+Type: (state percentage of oil in mixture if lubricant and fuel mixed)
+
+4\.
+
+**Engine-driven equipment**
+
+4.1.
+
+The power absorbed by the auxiliaries/equipment needs only be determined,
+
+- ((a)) if auxiliaries/equipment required are not fitted to the engine; and/or
+- ((b)) if auxiliaries/equipment not required are fitted to the engine.
+
+*Note:* requirements for engine-driven equipment differ between emissions test and power test.
+
+4.2.
+
+Enumeration and identifying details:
+
+4.3.
+
+Power absorbed at engine speeds specific for emissions test
+
+<table>
+<thead>
+<tr><td colspan="6"><em>Table 1</em></td></tr>
+</thead>
+<tbody>
+<tr><th>Equipment</th><th>Idle</th><th>Low Speed</th><th>High Speed</th><th>Preferred Speed( <sup> 2 </sup> )</th><th>n95h</th></tr>
+<tr><td>P <sub> a </sub> Auxiliaries/equipment required according to UNECE Reg. 49, annex 4, appendix 6</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>P <sub> b </sub> Auxiliaries/equipment not required according to UNECE Reg. 49, annex 4, appendix 6</td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+5\.
+
+**Engine performance (declared by manufacturer)** (<sup>8</sup>)
+
+5.1.
+
+Engine test speeds for emissions test in accordance with Annex III to Regulation (EU) No 582/2011 ( <sup> 9 </sup> )( <sup> d5 </sup> )
+
+Low speed (n<sub>lo</sub>) … rpm
+
+High speed (n<sub>hi</sub>) … rpm
+
+Idle speed … rpm
+
+Preferred speed … rpm
+
+n95h … rpm
+
+5.2.
+
+Declared values for power test in accordance with Annex XIV to Regulation (EU) No 582/2011 ( <sup> d5 </sup> )
+
+- Idle speed … rpm
+- Speed at maximum power … rpm
+- Maximum power … kW
+- Speed at maximum torque … rpm
+- Maximum torque … Nm
+
+6\.
+
+**Dynamometer load setting information (if applicable)**
+
+6.3.
+
+Fixed load curve dynamometer setting information (if used)
+
+- Alternative dynamometer load setting method used (yes/no)
+- Inertia mass (kg):
+- Effective power absorbed at 80 km/h including running losses of the vehicle on the dynamometer (kW)
+- Effective power absorbed at 50 km/h h including running losses of the vehicle on the dynamometer (kW)
+
+6.4.
+
+Adjustable load curve dynamometer setting information (if used)
+
+- Coast down information from the test track.
+- Tyres make and type:
+- Tyre dimensions (front/rear):
+- Tyre pressure (front/rear) (kPa):
+- Vehicle test mass including driver (kg):
+- Road coast down data (if used)
+
+  <table>
+  <thead>
+  <tr><td colspan="4"><em>Table 2</em></td></tr>
+  <tr><td colspan="4"><strong>Road coast down data</strong></td></tr>
+  </thead>
+  <tbody>
+  <tr><th>V (km/h)</th><th>V2 (km/h)</th><th>V1 (km/h)</th><th>Mean corrected coast down time</th></tr>
+  <tr><td>120</td><td></td><td></td><td></td></tr>
+  <tr><td>100</td><td></td><td></td><td></td></tr>
+  <tr><td>80</td><td></td><td></td><td></td></tr>
+  <tr><td>60</td><td></td><td></td><td></td></tr>
+  <tr><td>40</td><td></td><td></td><td></td></tr>
+  <tr><td>20</td><td></td><td></td><td></td></tr>
+  </tbody>
+  </table>
+- Average corrected road power (if used)
+
+  <table>
+  <thead>
+  <tr><td colspan="2"><em>Table 3</em></td></tr>
+  <tr><td colspan="2"><strong>Average corrected road power</strong></td></tr>
+  </thead>
+  <tbody>
+  <tr><th>V (km/h)</th><th>CP corrected (kW)</th></tr>
+  <tr><td>120</td><td></td></tr>
+  <tr><td>100</td><td></td></tr>
+  <tr><td>80</td><td></td></tr>
+  <tr><td>60</td><td></td></tr>
+  <tr><td>40</td><td></td></tr>
+  <tr><td>20</td><td></td></tr>
+  </tbody>
+  </table>
+
+7\.
+
+**Test conditions for OBD testing**
+
+7.1.
+
+Test cycle used for the verification of the OBD system:
+
+7.2.
+
+Number of preconditioning cycles used before OBD verification tests:
+
+Appendix 5
+
+**Model of GB type-approval[^key-bd917e6c4d409e5aea34778815f05aad] certificate of an engine type/component as separate technical unit**
+
+Explanatory foot notes can be found in Appendix 10 to this Annex.
+
+Maximum format: A4 (210 × 297 mm)
+
+**GB TYPE-APPROVAL CERTIFICATE**
+
+|  |  |
+| --- | --- |
+| Communication concerning:<br>- GB type-approval (<sup>1</sup>)<br>- extension of GB type-approval (<sup>1</sup>)<br>- refusal of GB type-approval (<sup>1</sup>)<br>- withdrawal of GB type-approval (<sup>1</sup>) | Stamp of type-approval authority |
+
+of a type of component/separate technical unit (<sup>1</sup>) with regard to Regulation (EC) No 595/2009 as implemented by Regulation (EU) No 582/2011.
+
+Regulation (EC) No 595/2009 and Regulation (EU) No 582/2011, as last amended by …
+
+GB type-approval number:
+
+Reason for extension:
+
+*SECTION I*
+
+0.1.
+
+Make (trade name of manufacturer):
+
+0.2.
+
+Type:
+
+0.3.
+
+Means of identification of type, if marked on the component/separate technical unit (<sup>1</sup>) (<sup>a</sup>):
+
+- Location of that marking:
+
+0.4.
+
+Name and address of manufacturer:
+
+0.5.
+
+In the case of components and separate technical units, location and method of affixing of the GB approval[^key-1670c7ead25881d4e5c2ac28d747023a] mark:
+
+0.6.
+
+Name(s) and address(es) of assembly plant(s):
+
+0.7.
+
+Name and address of the manufacturer’s representative (if any)
+
+*SECTION II*
+
+1\.
+
+Additional information (where applicable): see Addendum
+
+2\.
+
+Technical service responsible for carrying out the tests:
+
+3\.
+
+Date of test report:
+
+4\.
+
+Number of test report:
+
+5\.
+
+Remarks (if any): see Addendum
+
+6\.
+
+Place:
+
+7\.
+
+Date:
+
+8\.
+
+Signature:
+
+Attachments: Information package.
+
+Test report.
+
+Addendum
+
+to GB type-approval certificate No …
+
+1\.
+
+ADDITIONAL INFORMATION
+
+1.1.
+
+Particulars to be completed in relation to the type-approval of a vehicle with an engine installed:
+
+- Make of engine (name of undertaking):
+- Type and commercial description (mention any variants):
+- Manufacturer's code as marked on the engine:
+- Category of vehicle (if applicable) (<sup>b</sup>):
+- Category of engine: Diesel/Petrol/LPG/NG-H/NG-L/NG-HL/Ethanol (ED95)/Ethanol (E85)/LNG/LNG<sub> 20 </sub> (<sup> 1 </sup>):
+- Type of dual-fuel engine: Type 1A/Type 1B/Type 2A/Type 2B/Type 3B (<sup> 1 </sup>)(<sup> d1 </sup>):
+- Name and address of manufacturer:
+- Name and address of manufacturer's authorised representative (if any):
+
+1.2.
+
+If the engine referred to in 1.1 has been type approved as a separate technical unit:
+
+- Type-approval number of the engine/engine family (<sup>1</sup>):
+- Engine Control Unit (ECU) software calibration number:
+
+1.3.
+
+Particulars to be completed in relation to the type-approval of an engine/engine family (<sup>1</sup>) as a separate technical unit (conditions to be respected in the installation of the engine on a vehicle):
+
+- Maximum and/or minimum intake depression:
+- Maximum allowable back pressure:
+- Exhaust system volume:
+- Restrictions of use (if any):
+
+1.4.
+
+Emission levels of the engine/parent engine (<sup> 1 </sup>)
+
+Deterioration Factor (DF): calculated/fixed (<sup> 1 </sup>)
+
+Specify the DF values and the emissions on the WHSC (if applicable) and WHTC tests in the table below
+
+1.4.1.
+
+*WHSC test*
+
+*Table 4*
+
+**WHSC test**
+
+<table>
+<tbody>
+<tr><th colspan="8">WHSC test (if applicable) ( <sup> 10 </sup> )( <sup> d5 </sup> )</th></tr>
+<tr><th>DF</th><th>CO</th><th>THC</th><th>NMHC ( <sup> d4 </sup> )</th><th>NO <sub> X </sub></th><th>PM Mass</th><th>NH <sub> 3 </sub></th><th>PM Number</th></tr>
+<tr><th>Mult/add ( <sup> 1 </sup> )</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Emissions</th><th>CO (mg/kWh)</th><th>THC (mg/kWh)</th><th>NMHC ( <sup> d4 </sup> ) (mg/kWh)</th><th>NO <sub> x </sub> (mg/kWh)</th><th>PM Mass (mg/kWh)</th><th>NH <sub> 3 </sub> ppm</th><th>PM Number (#/kWh)</th></tr>
+<tr><td>Test result</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Calculated with DF</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="8">CO <sub> 2 </sub> mass emission: … g/kWh</td></tr>
+<tr><td colspan="8">Fuel consumption … g/kWh</td></tr>
+</tbody>
+</table>
+
+1.4.2.
+
+*WHTC test*
+
+*Table 5*
+
+**WHTC Test**
+
+<table>
+<tbody>
+<tr><th colspan="9">WHTC test ( <sup> 10 </sup> )( <sup> d5 </sup> )</th></tr>
+<tr><th>DF</th><th>CO</th><th>THC</th><th>NMHC ( <sup> d4 </sup> )</th><th>CH4 ( <sup> d4 </sup> )</th><th>NO <sub> x </sub></th><th>PM Mass</th><th>NH <sub> 3 </sub></th><th>PM Number</th></tr>
+<tr><th>Mult/add ( <sup> 1 </sup> )</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Emissions</th><th>CO (mg/kWh)</th><th>THC (mg/kWh)</th><th>NMHC ( <sup> d4 </sup> ) (mg/kWh)</th><th>CH4 ( <sup> d4 </sup> ) (mg/kWh)</th><th>NO <sub> x </sub> (mg/kWh)</th><th>PM Mass (mg/kWh)</th><th>NH <sub> 3 </sub> ppm</th><th>PM Number (#/kWh)</th></tr>
+<tr><td>Cold start</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hot start w/o regeneration</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hot start with regeneration ( <sup> 1 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>k <sub> r,u </sub> (mult/add) ( <sup> 1 </sup> )</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr>
+<tr><td>k <sub> r,d </sub> (mult/add) ( <sup> 1 </sup> )</td></tr>
+<tr><td>Weighted test result</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Final test result with DF</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="9">CO <sub> 2 </sub> mass emission: … g/kWh</td></tr>
+<tr><td colspan="9">Fuel consumption: … g/kWh</td></tr>
+</tbody>
+</table>
+
+1.4.3.
+
+*Idle test*
+
+*Table 6*
+
+**Idle test**
+
+| Test | CO value(% vol.) | Lambda (<sup>1</sup>) | Engine speed (min<sup>–1</sup>) | Engine oil temperature (°C) |
+| --- | --- | --- | --- | --- |
+| Low idle test |  | N/A |  |  |
+| High idle test |  |  |  |  |
+
+1.4.4.
+
+*PEMS demonstration test*
+
+*Table 6a*
+
+**PEMS demonstration test**
+
+<table>
+<tbody>
+<tr><td>Vehicle type (e.g. M <sub> 3 </sub> , N <sub> 3 </sub> and application e.g. rigid or articulated truck, city bus)</td><td colspan="6"></td></tr>
+<tr><td>Vehicle description (e.g. vehicle model, prototype)</td><td colspan="6"></td></tr>
+<tr><th>Pass-fail results ( <sup> 7 </sup> )</th><th>CO</th><th>THC</th><th>NMHC</th><th>CH <sub> 4 </sub></th><th>NO <sub> x </sub></th><th>PM mass</th></tr>
+<tr><td>Work window conformity factor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>CO <sub> 2 </sub> mass window conformity factor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>Trip information</th><th colspan="2">Urban</th><th colspan="2">Rural</th><th colspan="2">Motorway</th></tr>
+<tr><td>Shares of time of the trip characterised by urban, rural and motorway operation as described in point 4.5 of Annex II to Regulation (EU) No 582/2011</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td>Shares of time of the trip characterised by accelerating, decelerating, cruising and stop as described in point 4.5.5 of Annex II to Regulation (EU) No 582/2011</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><th></th><th colspan="3">Minimum</th><th colspan="3">Maximum</th></tr>
+<tr><td>Work window average power (%)</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>CO <sub> 2 </sub> mass window duration (s)</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Work window: percentage of valid windows</td><td colspan="6"></td></tr>
+<tr><td>CO <sub> 2 </sub> mass window: percentage of valid windows</td><td colspan="6"></td></tr>
+<tr><td>Fuel consumption consistency ratio</td><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+1.5
+
+**Power measurement**
+
+1.5.1.
+
+*Engine power measured on test bench*
+
+*Table 7*
+
+**Engine power measured on test bench**
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Measured engine speed (rpm) |  |  |  |  |  |  |  |
+| Measured fuel flow (g/h) |  |  |  |  |  |  |  |
+| Measured torque (Nm) |  |  |  |  |  |  |  |
+| Measured power (kW) |  |  |  |  |  |  |  |
+| Barometric pressure (kPa) |  |  |  |  |  |  |  |
+| Water vapour pressure (kPa) |  |  |  |  |  |  |  |
+| Intake air temperature (K) |  |  |  |  |  |  |  |
+| Power correction factor |  |  |  |  |  |  |  |
+| Corrected power (kW) |  |  |  |  |  |  |  |
+| Auxiliary power (kW) (<sup>1</sup>) |  |  |  |  |  |  |  |
+| Net power (kW) |  |  |  |  |  |  |  |
+| Net torque (Nm) |  |  |  |  |  |  |  |
+| Corrected specific fuel consumption (g/kWh) |  |  |  |  |  |  |  |
+
+1.5.2.
+
+*Additional data, e.g. the power correction factor for each fuel declared (if applicable)*
+
+Appendix 6
+
+**Model of GB type-approval[^key-51902d14fab9e0437c26a23cba2a8914] certificate of a type of vehicle with an approved engine**
+
+Explanatory foot notes can be found in Appendix 10 to this Annex.
+
+Maximum format: A4 (210 × 297 mm)
+
+**GB TYPE-APPROVAL[^key-86bf9770ebd3254f99b7d4619e135f61] CERTIFICATE**
+
+|  |  |
+| --- | --- |
+| Communication concerning:<br>- GB type-approval (<sup>1</sup>)<br>- extension of GB type-approval (<sup>1</sup>)<br>- refusal of GB type-approval (<sup>1</sup>)<br>- withdrawal of GB type-approval (<sup>1</sup>) | Stamp of type-approval authority |
+
+of a type of a vehicle with an approved engine with regard to Regulation (EC) No 595/2009 as implemented by Regulation (EU) No 582/2011.
+
+Regulation (EC) No 595/2009 and Regulation (EU) No 582/2011, as last amended by …
+
+GB type-approval number:
+
+Reason for extension:
+
+*SECTION I*
+
+0.1.
+
+Make (trade name of manufacturer):
+
+0.2.
+
+Type:
+
+0.3.
+
+Means of identification of type, if marked on the component/separate technical unit (<sup>1</sup>) (<sup>a</sup>):
+
+0.3.1.
+
+Location of that marking:
+
+0.4.
+
+Name and address of manufacturer:
+
+0.5.
+
+In the case of components and separate technical units, location and method of affixing of the GB approval[^key-162b90fa68998ed3182daed2293cef6f] mark:
+
+0.6.
+
+Name(s) and address(es) of assembly plant(s):
+
+0.7.
+
+Name and address of the manufacturer's representative (if any)
+
+*SECTION II*
+
+1\.
+
+Additional information (where applicable): see Addendum
+
+2\.
+
+Technical service responsible for carrying out the tests:
+
+3\.
+
+Date of test report:
+
+4\.
+
+Number of test report:
+
+5\.
+
+Remarks (if any): see Addendum
+
+6\.
+
+Place:
+
+7\.
+
+Date:
+
+8\.
+
+Signature:
+
+Appendix 7
+
+**Model of GB type-approval[^key-e5038540752d333f11676ab62890f03d] certificate of a type of vehicle with regard to a system**
+
+Explanatory foot notes can be found in Appendix 10 to this Annex.
+
+Maximum format: A4 (210 × 297 mm)
+
+**GB TYPE-APPROVAL CERTIFICATE**
+
+|  |  |
+| --- | --- |
+| Communication concerning:<br>- GB type-approval (<sup>1</sup>)<br>- extension of GB type-approval (<sup>1</sup>)<br>- refusal of GB type-approval (<sup>1</sup>)<br>- withdrawal of GB type-approval (<sup>1</sup>) | Stamp of type-approval authority |
+
+of a type of a vehicle with regard to a system with regard to Regulation (EC) No 595/2009 as implemented by Regulation (EU) No 582/2011.
+
+Regulation (EC) No 595/2009 and Regulation (EU) No 582/2011, as last amended by …
+
+GB type-approval number:
+
+Reason for extension:
+
+*SECTION I*
+
+0.1.
+
+Make (trade name of manufacturer):
+
+0.2.
+
+Type:
+
+0.2.1.
+
+Commercial name(s) (if available):
+
+0.3.
+
+Means of identification of type, if marked on the vehicle (<sup>1</sup>) (<sup>a</sup>):
+
+0.3.1.
+
+Location of that marking:
+
+0.4.
+
+Category of vehicle (<sup>b</sup>):
+
+0.5.
+
+Name and address of manufacturer:
+
+0.6.
+
+Name(s) and address(es) of assembly plant(s):
+
+0.7.
+
+Name and address of the manufacturer's representative (if any):
+
+*SECTION II*
+
+1\.
+
+Additional information (where applicable): see Addendum
+
+2\.
+
+Technical service responsible for carrying out the tests:
+
+3\.
+
+Date of test report:
+
+4\.
+
+Number of test report:
+
+5\.
+
+Remarks (if any): see Addendum
+
+6\.
+
+Place:
+
+7\.
+
+Date:
+
+8\.
+
+Signature:
+
+Attachments: Information package.
+
+Test report.
+
+Addendum
+
+Addendum
+
+to GB type-approval certificate No …
+
+1\.
+
+ADDITIONAL INFORMATION
+
+1.1.
+
+Particulars to be completed in relation to the type-approval of a vehicle with an engine installed:
+
+- Make of engine (name of undertaking):
+- Type and commercial description (mention any variants):
+- Manufacturer’s code as marked on the engine:
+- Category of vehicle (if applicable):
+- Category of engine: Diesel/Petrol/LPG/NG-H/NG-L/NG-HL/Ethanol (ED95)/Ethanol (E85)/LNG/LNG<sub> 20 </sub> (<sup> 1 </sup>):
+- Type of dual-fuel engine: Type 1A/Type 1B/Type 2A/Type 2B/Type 3B (<sup> 1 </sup>)(<sup> d1 </sup>):
+- Name and address of manufacturer:
+- Name and address of manufacturer's authorised representative (if any):
+
+1.2.
+
+If the engine referred to in 1.1 has been type-approved as a separate technical unit:
+
+- Type-approval number of the engine/engine family (<sup>1</sup>):
+- Engine Control Unit (ECU) software calibration number:
+
+1.3.
+
+Particulars to be completed in relation to the type-approval of an engine/engine family (<sup>1</sup>) as a separate technical unit (conditions to be respected in the installation of the engine on a vehicle):
+
+- Maximum and/or minimum intake depression:
+- Maximum allowable back pressure:
+- Exhaust system volume:
+- Restrictions of use (if any):
+
+1.4.
+
+Emission levels of the engine/parent engine(<sup> 1 </sup>)
+
+Deterioration Factor (DF): calculated/fixed (<sup> 1 </sup>)
+
+Specify the DF values and the emissions on the WHSC (if applicable) and WHTC tests in the table below
+
+1.4.1.
+
+*WHSC test*
+
+*Table 4*
+
+**WHSC test**
+
+<table>
+<tbody>
+<tr><th colspan="8">WHSC test (if applicable) ( <sup> 10 </sup> )( <sup> d5 </sup> )</th></tr>
+<tr><th>DF</th><th>CO</th><th>THC</th><th>NMHC ( <sup> d4 </sup> )</th><th>NO <sub> X </sub></th><th>PM Mass</th><th>NH <sub> 3 </sub></th><th>PM Number</th></tr>
+<tr><th>Mult/add( <sup> 1 </sup> )</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Emissions</th><th>CO (mg/kWh)</th><th>THC (mg/kWh)</th><th>NMHC ( <sup> d4 </sup> ) (mg/kWh)</th><th>NO <sub> x </sub> (mg/kWh)</th><th>PM Mass (mg/kWh)</th><th>NH <sub> 3 </sub> ppm</th><th>PM Number (#/kWh)</th></tr>
+<tr><td>Test result</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Calculated with DF</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="8">CO <sub> 2 </sub> mass emission: … g/kWh</td></tr>
+<tr><td colspan="8">Fuel consumption: … g/kWh</td></tr>
+</tbody>
+</table>
+
+1.4.2.
+
+*WHTC test*
+
+*Table 5*
+
+**WHTC test**
+
+<table>
+<tbody>
+<tr><th colspan="9">WHTC test ( <sup> 10 </sup> )( <sup> d5 </sup> )</th></tr>
+<tr><th>DF</th><th>CO</th><th>THC</th><th>NMHC ( <sup> d4 </sup> )</th><th>CH4 ( <sup> d4 </sup> )</th><th>NO <sub> x </sub></th><th>PM Mass</th><th>NH <sub> 3 </sub></th><th>PM Number</th></tr>
+<tr><th>Mult/add ( <sup> 1 </sup> )</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Emissions</th><th>CO (mg/kWh)</th><th>THC (mg/kWh)</th><th>NMHC ( <sup> d4 </sup> ) (mg/kWh)</th><th>CH4 ( <sup> d4 </sup> ) (mg/kWh)</th><th>NO <sub> x </sub> (mg/kWh)</th><th>PM Mass (mg/kWh)</th><th>NH <sub> 3 </sub> ppm</th><th>PM Number (#/kWh)</th></tr>
+<tr><td>Cold start</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hot start w/o regeneration</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hot start with regeneration( <sup> 1 </sup> )</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>k <sub> r,u </sub> (mult/add)( <sup> 1 </sup> )</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr>
+<tr><td>k <sub> r,d </sub> (mult/add)( <sup> 1 </sup> )</td></tr>
+<tr><td>Weighted test result</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Final test result with DF</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="9">CO <sub> 2 </sub> mass emission: … g/kWh</td></tr>
+<tr><td colspan="9">Fuel consumption: … g/kWh</td></tr>
+</tbody>
+</table>
+
+1.4.3.
+
+*Idle test*
+
+*Table 6*
+
+**Idle test**
+
+| Test | CO value(% vol.) | Lambda (<sup>1</sup>) | Engine speed (min<sup>–1</sup>) | Engine oil temperature (°C) |
+| --- | --- | --- | --- | --- |
+| Low idle test |  | N/A |  |  |
+| High idle test |  |  |  |  |
+
+1.4.4.
+
+*PEMS demonstration test*
+
+*Table 6a*
+
+**PEMS demonstration test**
+
+<table>
+<tbody>
+<tr><td>Vehicle type (e.g. M <sub> 3 </sub> , N <sub> 3 </sub> and application e.g. rigid or articulated truck, city bus)</td><td colspan="6"></td></tr>
+<tr><td>Vehicle description (e.g. vehicle model, prototype)</td><td colspan="6"></td></tr>
+<tr><th>Pass-fail results ( <sup> 7 </sup> )</th><th>CO</th><th>THC</th><th>NMHC</th><th>CH <sub> 4 </sub></th><th>NO <sub> x </sub></th><th>PM mass</th></tr>
+<tr><td>Work window conformity factor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>CO <sub> 2 </sub> mass window conformity factor</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>Trip information</th><th colspan="2">Urban</th><th colspan="2">Rural</th><th colspan="2">Motorway</th></tr>
+<tr><td>Shares of time of the trip characterised by urban, rural and motorway operation as described in point 4.5 of Annex II to Regulation (EU) No 582/2011</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td>Shares of time of the trip characterised by accelerating, decelerating, cruising and stop as described in point 4.5.5 of Annex II to Regulation (EU) No 582/2011</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><th></th><th colspan="3">Minimum</th><th colspan="3">Maximum</th></tr>
+<tr><td>Work window average power (%)</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>CO <sub> 2 </sub> mass window duration (s)</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Work window: percentage of valid windows</td><td colspan="6"></td></tr>
+<tr><td>CO <sub> 2 </sub> mass window: percentage of valid windows</td><td colspan="6"></td></tr>
+<tr><td>Fuel consumption consistency ratio</td><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+1.5
+
+**Power measurement**
+
+1.5.1.
+
+*Engine power measured on test bench*
+
+*Table 7*
+
+**Engine power measured on test bench**
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Measured engine speed (rpm) |  |  |  |  |  |  |  |
+| Measured fuel flow (g/h) |  |  |  |  |  |  |  |
+| Measured torque (Nm) |  |  |  |  |  |  |  |
+| Measured power (kW) |  |  |  |  |  |  |  |
+| Barometric pressure (kPa) |  |  |  |  |  |  |  |
+| Water vapour pressure (kPa) |  |  |  |  |  |  |  |
+| Intake air temperature (K) |  |  |  |  |  |  |  |
+| Power correction factor |  |  |  |  |  |  |  |
+| Corrected power (kW) |  |  |  |  |  |  |  |
+| Auxiliary power (kW) (<sup>1</sup>) |  |  |  |  |  |  |  |
+| Net power (kW) |  |  |  |  |  |  |  |
+| Net torque (Nm) |  |  |  |  |  |  |  |
+| Corrected specific fuel consumption (g/kWh) |  |  |  |  |  |  |  |
+
+1.5.2.
+
+*Additional data, e.g. the power correction factor for each fuel declared (if applicable)*
+
+Appendix 8
+
+**Example of GB type-approval[^key-d3c480aa9b23016ce1f67f98594c69ce] mark** [^key-4b3be333200fb286fc456939ab26a2fa]
+
+[image: see source](https://www.legislation.gov.uk/eur/2011/582/images/eur_20110582_en_epp_001.gif)
+
+The approval mark in this Appendix affixed to an engine approved as a separate technical unit shows that the type concerned is a 2B dual-fuel, designed for operation on both the H-range and the L-range of gases, that has been approved [^key-ef397cbc15eaf8ee459a4a74b58d182f]... according to the emission stage C, as set out in Appendix 9 of this Annex.
+
+Appendix 9[^c000016]
+
+**GB type-approval[^key-43aac4e3e7d973ae86b443909409cdf9] Certification Numbering System**
+
+Section 3 of the GB type-approval number issued according to Articles 6(1), 8(1) and 10(1) shall be composed by the number of the implementing regulatory act or the latest amending regulatory act applicable to the GB type-approval. The number shall be followed by an alphabetical character reflecting the requirements of OBD and SCR systems in accordance with Table 1.
+
+*Table 1*
+
+<table>
+<tfoot>
+<tr><td colspan="11">Key:</td></tr>
+<tr><td colspan="11">‘NOx OTL’ monitoring requirements as set out in Table 1 of Annex X for compression ignition and dual-fuel engines and vehicles and Table 2 of Annex X for positive ignition engines and vehicles.</td></tr>
+<tr><td colspan="11">‘PM OTL’ monitoring requirements as set out in Table 1 of Annex X for compression ignition and dual-fuel engines and vehicles.</td></tr>
+<tr><td colspan="11">‘Performance monitoring’ requirements as set out in point 2.1.1 of Annex X.</td></tr>
+<tr><td colspan="11">Reagent quality ‘phase-in’ requirements as set out in point 7.1 of Annex XIII.</td></tr>
+<tr><td colspan="11">Reagent quality ‘general’ requirements as set out in point 7.1.1 of Annex XIII.</td></tr>
+<tr><td colspan="11">‘CO OTL’ monitoring requirements as set out in Table 2 of Annex X for positive ignition engines and vehicles.</td></tr>
+<tr><td colspan="11">IUPR ‘Phase-in’ requirements as set out in Section 6 of Annex X.</td></tr>
+<tr><td colspan="11">IUPR ‘General’ requirements as set out in Section 6 of Annex X.</td></tr>
+<tr><td colspan="11">For positive-ignition engines and vehicles equipped with such engines.</td></tr>
+<tr><td colspan="11">For compression-ignition and dual-fuel engines and vehicles equipped with such engines.</td></tr>
+<tr><td colspan="11">Only applicable to positive-ignition engines and vehicles equipped with such engines.</td></tr>
+<tr><td colspan="11">Additional provisions concerning monitoring requirements as set out in paragraph 2.3.1.2 of Annex 9A to UNECE Regulation No 49.</td></tr>
+<tr><td colspan="11">IUPR specifications are set out in Annex X. Positive Ignition engines and vehicles equipped with such engines are not subjected to IUPR.</td></tr>
+<tr><td colspan="11">ISC requirement set out in Appendix 1 to Annex II.</td></tr>
+<tr><td colspan="11">N/A<br>Not applicable.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Character</th><th>NO <sub> x </sub> OTL</th><th>PM OTL</th><th>CO OTL</th><th>IUPR</th><th>Reagent quality</th><th>Additional OBD monitors</th><th>Power threshold requirements</th><th>Implementation dates: new types</th><th>Implementation dates: all vehicles</th><th>Last date of registration</th></tr>
+<tr><td>A<br>B</td><td>Row ‘ phase-in period ’ of Table 1 or Table 2</td><td>Performance Monitoring</td><td>N/A</td><td>Phase-in</td><td>Phase-in</td><td>N/A</td><td>20 %</td><td>31.12.2012</td><td>31.12.2013</td><td>31.8.2015<br>30.12.2016</td></tr>
+<tr><td>B</td><td>Row ‘ phase-in period ’ of Tables 1 and 2</td><td>N/A</td><td>Row ‘ phase-in period ’ of Table 2</td><td>N/A</td><td>Phase-in</td><td>N/A</td><td>20 %</td><td>1.9.2014</td><td>1.9.2015</td><td>30.12.2016</td></tr>
+<tr><td>C</td><td>Row ‘ general requirements ’ of Table 1 or Table 2</td><td>Row ‘ general requirements ’ of Table 1</td><td>Row ‘ general requirements ’ of Table 2</td><td>General</td><td>General</td><td>Yes</td><td>20 %</td><td>31.12.2015</td><td>31.12.2016</td><td>31.8.2019</td></tr>
+<tr><td>D</td><td>Row ‘ general requirements ’ of Table 1 or Table 2</td><td>Row ‘ general requirements ’ of Table 1</td><td>Row ‘ general requirements ’ of Table 2</td><td>General</td><td>General</td><td>Yes</td><td>10 %</td><td>1.9.2018</td><td>1.9.2019</td><td></td></tr>
+</tbody>
+</table>
+
+[^f00017][^f00018][^f00022][^f00029][^f00028][^f00030][^f00025][^f00026][^f00026][^f00019][^f00023][^f00020][^f00025][^f00026][^f00027][^f00020][^f00024][^f00021][^f00024][^f00021]
+
+Appendix 10
+
+**Explanatory notes**
+
+(1)
+
+Delete where not applicable (there are cases where nothing needs to be deleted when more than one entry is applicable).
+
+(2)
+
+Specify the tolerance.
+
+(3)
+
+Please fill in here the upper and lower values for each variant.
+
+(4)
+
+To be documented in case of a single OBD engine family and if not already documented in the documentation package(s) referred to in line 3.2.12.2.7.0.4.
+
+(5)
+
+Value for the combined WHTC including cold and hot part in accordance with Annex VIII to this Regulation.
+
+(6)
+
+To be documented if not documented in the documentation referred to in point 3.2.12.2.7.1.1.
+
+(7)
+
+Delete as appropriate.
+
+(8)
+
+Information concerning engine performance shall only be given for the parent engine.
+
+(9)
+
+Specify the tolerance; to be within ± 3 % of the values declared by the manufacturer.
+
+(10)
+
+In the case of engines included in points 1.1.3. and 1.1.6. of Annex I to this Regulation, repeat the information for all fuels tested, where applicable.
+
+(a)
+
+If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol ‘?’ (e.g. ABC?123??).
+
+(b)
+
+Classified according to definitions listed in Article 4 of Regulation (EU) 2018/858[^key-760cad5184c4c430077532a9755f5cb5].
+
+(d)
+
+Dual-fuel engines.
+
+(d1)
+
+In case of a dual-fuel engine or vehicle.
+
+(d2)
+
+In the case of dual-fuel engines of Type 1B, Type 2B and Type 3B.
+
+(d3)
+
+Except for dual-fuel engines or vehicles.
+
+(d4)
+
+In the cases laid down in Table 1 of Annex 15 to UNECE Regulation No 49 for dual-fuel, and in Annex I to Regulation (EC) No 595/2009 for positive ignition engines.
+
+(d5)
+
+In the case of dual-fuel engines of Type 1B, Type 2B, and Type 3B, repeat the information in both dual-fuel and diesel mode.
+
+(l)
+
+This figure shall be rounded off to the nearest tenth of a millimetre.
+
+(m)
+
+This value shall be calculated and rounded off to the nearest cm<sup>3</sup>.
+
+(n)
+
+Determined in accordance with the requirements of Annex XIV.
+
+## ANNEX II — CONFORMITY OF IN-SERVICE ENGINES OR VEHICLES
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex sets out requirements for checking and demonstrating the conformity of in-service engines and vehicles.
+
+2\.
+
+PROCEDURE FOR IN-SERVICE CONFORMITY
+
+2.1.
+
+The conformity of in-service vehicles or engines of an engine family shall be demonstrated by testing vehicles on the road operated over their normal driving patterns, conditions and payloads. The in-service conformity test shall be representative for vehicles operated on their real driving routes, with their normal payload and with the usual professional driver of the vehicle. When the vehicle is operated by a driver other than the usual professional driver of the particular vehicle, the alternative driver shall be skilled and trained to operate vehicles of the category subject to be tested.
+
+2.2.
+
+If the normal in-service conditions of a particular vehicle are considered to be incompatible with the proper execution of the tests, the manufacturer or the approval authority may request that alternative driving routes and payloads are used.
+
+2.3.
+
+The manufacturer shall demonstrate to the approval authority that the chosen vehicle, driving patterns and conditions are representative for the engine family. The requirements as specified in point 4.5 shall be used to determine whether the driving patterns are acceptable for in-service conformity testing.
+
+2.4.
+
+The manufacturer shall report the schedule and the sampling plan for conformity testing at the time of the initial type-approval of a new engine family.
+
+2.5.
+
+Vehicles without a communication interface which permits the collection of the necessary ECU data as specified in points 5.2.1 and 5.2.2 of Annex I, with missing data or with a non-standard data protocol shall be considered as non-compliant.
+
+2.6.
+
+Vehicles where the collection of ECU data influences the vehicle emissions or performance shall be considered as non-compliant.
+
+2.7.
+
+Dual-fuel engines or vehicles
+
+2.7.1.
+
+Dual-fuel engines and vehicles shall comply with the following additional requirements:
+
+- A PEMS tests shall be performed in dual-fuel mode.
+- In the case of Type 1B, Type 2B and Type 3B dual-fuel engines, an additional PEMS test shall be performed in Diesel mode on the same engine and vehicle immediately after, or before, a PEMS test is performed in dual-fuel mode.
+
+  In that case, the pass or fail decision of the lot considered in the statistical procedure specified in this Annex shall be based on the following:
+
+  - ((a)) a pass decision is reached for an individual vehicle if both the PEMS test in dual-fuel mode and the PEMS test in Diesel mode have concluded a pass;
+  - ((b)) a fail decision is reached for an individual vehicle if either the PEMS test in dual-fuel mode or the PEMS test in Diesel mode has concluded a fail.
+
+3\.
+
+ENGINE OR VEHICLE SELECTION
+
+3.1.
+
+After the granting of type-approval for an engine family the manufacturer shall perform in-service testing on this engine family within 18 months from first registration of a vehicle fitted with an engine from that family. In case of multistage type-approval first registration means first registration of a completed vehicle.
+
+The testing shall be repeated at least every 2 years for each engine family periodically on vehicles over their useful life period as specified in Article 4 of Regulation (EC) No 595/2009.
+
+At the request of the manufacturer the testing may stop 5 years after the end of production.
+
+3.1.1.
+
+With a minimum sample size of three engines the sampling procedure shall be set so that the probability of a lot passing a test with 20 % of the vehicles or engines defective is 0,90 (producer’s risk = 10 %) while the probability of a lot being accepted with 60 % of the vehicles or engines defective is 0,10 (consumer’s risk = 10 %).
+
+3.1.2.
+
+The test statistic quantifying the cumulative number of non-conforming tests at the n-th test shall be determined for the sample.
+
+3.1.3.
+
+The pass or fail decision of the lot shall be made according to the following requirements:
+
+- ((a)) if the test statistic is less than or equal to the pass decision number for the sample size given in Table 1, a pass decision is reached for the lot;
+- ((b)) if the test statistic is greater than or equal to the fail decision number for the sample size given in Table 1, a fail decision is reached for the lot;
+- ((c)) otherwise, an additional engine is tested according to this Annex and the calculation procedure is applied to the sample increased by one more unit.
+
+In Table 1 the pass and fail decision numbers are calculated by means of the International Standard ISO 8422/1991.
+
+*Table 1*
+
+**Pass and fail decision numbers of the sampling plan**
+
+Minimum sample size: 3
+
+| Cumulative number of engines tested(sample size) | Pass decision number | Fail decision number |
+| --- | --- | --- |
+| 3 | — | 3 |
+| 4 | 0 | 4 |
+| 5 | 0 | 4 |
+| 6 | 1 | 4 |
+| 7 | 1 | 4 |
+| 8 | 2 | 4 |
+| 9 | 2 | 4 |
+| 10 | 3 | 4 |
+
+The approval authority shall approve the selected engines and vehicle configurations before the launch of the testing procedures. The selection shall be performed by presenting to the approval authority the criteria used for the selection of the particular vehicles.
+
+3.2.
+
+The engines and vehicles selected shall be used and registered in the Union or the United Kingdom[^key-7efa025947012de58082478f0c23b750]. The vehicle shall have been in service for at least 25 000 km.
+
+3.3.
+
+Each vehicle tested shall have a maintenance record to show that the vehicle has been properly maintained and serviced in accordance with the manufacturer’s recommendations.
+
+3.4.
+
+The OBD system shall be checked for proper functioning of the engine. Any malfunction indications and the readiness code in the OBD memory shall be recorded and any required repairs shall be carried out.
+
+Engines presenting a Class C malfunction shall not be forced to be repaired before testing. The Diagnostic Trouble Code (DTC) shall not be cleared.
+
+Engines having one of the counters required by provisions of Annex XIII not at ‘0’ may not be tested. This shall be reported to the approval authority.
+
+3.5.
+
+The engine or vehicle shall exhibit no indications of abuse (such as overloading, misfuelling, or other misuse), or other factors (such as tampering) that could affect emission performance. OBD system fault code and engine running hours information stored in the computer shall be taken into account.
+
+3.6.
+
+All emission control system components on the vehicle shall be in conformity with those stated in the applicable type-approval documents.
+
+3.7.
+
+In agreement with the approval authority, the manufacturer may run in-service conformity testing comprising fewer engines or vehicles than the number given in point 3.1, if the number of engines manufactured within an engine family is less than 500 units per year.
+
+4\.
+
+TEST CONDITIONS
+
+4.1.
+
+**Vehicle payload**
+
+Normal payload is a payload between 10 and 100 % of the maximum payload.
+
+The maximum payload is the difference between technically permissible maximum laden mass of the vehicle and the mass of the vehicle in running order as specified in accordance to Annex I to Commission Implementing Regulation (EU) 2020/683[^key-476ac896aaaeaffc3f63355bb562e7b8].
+
+For the purpose of in-service conformity testing, the payload may be reproduced and an artificial load may be used.
+
+Approval authorities may request to test the vehicle with any payload between 10 and 100 % of the maximum vehicle payload. In case the mass of the PEMS equipment needed for operation exceeds 10 % of the maximum vehicle payload this mass may be considered as minimum payload.
+
+Vehicles of category N<sub> 3 </sub> shall be tested, when applicable, with a semi-trailer.
+
+4.2.
+
+**Ambient conditions**
+
+The test shall be conducted under ambient conditions meeting the following conditions:
+
+Atmospheric pressure greater than or equal to 82,5 kPa,
+
+Temperature greater than or equal to 266 K (– 7 °C) and less than or equal to the temperature determined by the following equation at the specified atmospheric pressure:
+
+T = – 0,4514 × (101,3 – pb) + 311
+
+where:
+
+- T is the ambient air temperature, K
+- pb is the atmospheric pressure, kPa
+
+4.3.
+
+**Engine coolant temperature**
+
+The engine coolant temperature shall be in accordance with point 2.6.1 of Appendix 1.
+
+4.4.
+
+The lubricating oil, fuel and reagent shall be within the specifications issued by the manufacturer.
+
+4.4.1.
+
+The test lubricating oil shall be market oil and must comply with the specifications of the engine manufacturer.
+
+Oil samples shall be taken.
+
+4.4.2.
+
+*Fuel*
+
+The test fuel shall be market fuel covered by The Motor Fuel (Composition and Content) Regulations 1999[^key-986baa0ed67dde0ec233299053ce30cf] and the relevant CEN standards, or reference fuel as specified in Annex IX to this Regulation.
+
+4.4.2.1.
+
+If the manufacturer has, in accordance with Section 1 of Annex I to this Regulation, declared the capability to meet the requirements of this Regulation on market fuels declared in point 3.2.2.2.1 of the Information Document as set out in Appendix 4 to Annex I to this Regulation, at least one test shall be conducted on each of the declared market fuels.
+
+4.4.2.2.
+
+Fuel samples shall be taken.
+
+4.4.3.
+
+For exhaust after-treatment systems that use a reagent to reduce emissions, the reagent shall be market reagent and must comply with the specifications of the engine manufacturer. A sample of the reagent shall be taken. The reagent shall not be frozen.
+
+4.5.
+
+**Trip requirements**
+
+The shares of operation shall be expressed as a percentage of the total trip duration.
+
+The trip shall consist of urban driving followed by rural and motorway driving according to the shares specified in points 4.5.1 to 4.5.4. Where another testing order is justified for practical reasons and after the agreement of the approval authority another order may be used, however, the test shall always start with the urban driving.
+
+For the purpose of this Section, ‘approximately’ shall mean the target value ± 5 %.
+
+Urban, rural and motorway parts can be determined either on the basis of:
+
+- geographical coordinates (by means of a map), or
+- first acceleration method.
+
+In case the trip composition is determined on the basis of geographical coordinates, the vehicle should not exceed, for a cumulative period longer than 5 % of the total duration of each part of the trip, the following speed:
+
+- 50 km/h in the urban part,
+- 75 km/h in the rural part (90 km/h in the case of vehicles of categories M<sub> 1 </sub> and N<sub> 1 </sub>)
+
+In case the trip composition is determined by means of the first acceleration method, the first acceleration above 55 km/h (70 km/h in the case of vehicles of categories M<sub> 1 </sub> and N<sub> 1 </sub>) shall indicate the beginning of the rural part and the first acceleration above 75 km/h (90 km/h in the case of vehicles of categories M<sub> 1 </sub> and N<sub> 1 </sub>) shall indicate the beginning of the motorway part.
+
+The criteria for differentiation between urban, rural and motorway operation shall be agreed with the approval authority prior to the beginning of the test.
+
+Average speed in urban operation shall be between 15 and 30 km/h.
+
+Average speed in rural operation shall be between 45 and 70 km/h (60 and 90 km/h in the case of vehicles of categories M<sub> 1 </sub> and N<sub> 1 </sub>).
+
+Average speed in motorway operation shall be above 70 km/h (90 km/h in the case of vehicles of categories M<sub> 1 </sub> and N<sub> 1 </sub>).
+
+4.5.1.
+
+For M<sub> 1 </sub> and N<sub> 1 </sub> vehicles the trip shall consist of approximately 34 % urban, 33 % rural and 33 % motorway operation.
+
+4.5.2.
+
+For N<sub> 2 </sub>, M<sub> 2 </sub> and M<sub> 3 </sub> vehicles the trip shall consist of approximately 45 % urban, 25 % rural and 30 % motorway operation. M<sub> 2 </sub> and M<sub> 3 </sub> vehicles of Class I, II or Class A as defined in UN/ECE Regulation 107 shall be tested in approximately 70 % urban and 30 % rural operation.
+
+4.5.3.
+
+For N<sub> 3 </sub> vehicles the trip shall consist of approximately 30 % urban, 25 % rural and 45 % motorway operation.
+
+4.5.4.
+
+For the purpose of the assessment of the trip composition, the duration of the share shall be calculated from the moment when the coolant temperature has reached 343 K (70 °C) for the first time or after the coolant temperature is stabilised within +/– 2 K over a period of 5 minutes whichever comes first but no later than 15 minutes after engine start. In accordance with paragraph 4.5 the period elapsed to reach the coolant temperature of 343 K (70 °C) shall be operated under urban driving conditions.
+
+Artificial warming-up of the emission control systems prior to the test is prohibited.
+
+4.5.5.
+
+The following distribution of the characteristic trip values from the WHDC database may serve as additional guidance for the evaluation of the trip:
+
+- ((a)) accelerating: 26,9 % of the time;
+- ((b)) decelerating: 22,6 % of the time;
+- ((c)) cruising: 38,1 % of the time;
+- ((d)) stop (vehicle speed = 0): 12,4 % of the time.
+
+4.6.
+
+**Operational requirements**
+
+4.6.1.
+
+The trip shall be selected in such a way that the testing is uninterrupted and the data continuously sampled to reach the minimum test duration defined in point 4.6.5.
+
+4.6.2.
+
+Emissions and other data sampling shall start prior to starting the engine. Any cold start emissions may be removed from the emissions evaluation, in accordance with point 2.6 of Appendix 1.
+
+4.6.3.
+
+It shall not be permitted to combine data of different trips or to modify or remove data from a trip.
+
+4.6.4.
+
+If the engine stalls, it may be restarted, but the sampling shall not be interrupted.
+
+4.6.5.
+
+The test duration shall be long enough to complete between four and eight times the work performed during the WHTC or produce between four and eight times the CO<sub> 2 </sub> reference mass in kg/cycle from the WHTC as applicable.
+
+4.6.6.
+
+The electrical power to the PEMS system shall be supplied by an external power supply unit, and not from a source that draws its energy either directly or indirectly from the engine under test, except in the cases set out in points 4.6.6.1 and 4.6.6.2.
+
+4.6.6.1.
+
+As an alternative to point 4.6.6, the electrical power to the PEMS system may be supplied by the internal electrical system of the vehicle as long as the power demand for the test equipment does not increase the output from the engine by more than 1 % of its maximum power and measures are taken to prevent excessive discharge of the battery when the engine is not running or idling.
+
+4.6.6.2.
+
+In case of a dispute the results of measurements performed with a PEMS system powered by an external power supply shall prevail over the results acquired in accordance with the alternative method provided for in point 4.6.6.1.
+
+4.6.7.
+
+The installation of the PEMS equipment shall not influence the vehicle emissions and/or performance.
+
+4.6.8.
+
+It is recommended to operate the vehicles under normal daytime traffic conditions.
+
+4.6.9.
+
+If the approval authority is not satisfied with the data consistency check results according to Sections 3.2 of Appendix 1 to this Annex, the approval authority may consider the test to be void.
+
+4.6.10.
+
+If the particle exhaust after-treatment system undergoes a non-continuous regeneration event during the trip or an OBD class A or B malfunction occurs during the test, the manufacturer can request the trip to be voided.
+
+5\.
+
+ECU DATA STREAM
+
+5.1.
+
+Verification of the availability and conformity of the ECU data stream information required for in-service testing.
+
+5.1.1.
+
+The availability of the data stream information according to the requirements of point 5.2 of Annex I shall be demonstrated prior to the in-service test.
+
+5.1.1.1.
+
+If that information cannot be retrieved by the PEMS system in a proper manner, the availability of the information shall be demonstrated by using an external OBD scan-tool as described in Annex X.
+
+5.1.1.1.1.
+
+In the case where this information can be retrieved by the scan-tool in a proper manner, the PEMS system is considered as failing and the test is void.
+
+5.1.1.1.2.
+
+In the case where that information cannot be retrieved in a proper manner from two vehicles with engines from the same engine family, while the scan-tool is working properly, the engine is considered as non-compliant.
+
+5.1.2.
+
+Torque signal
+
+5.1.2.1.
+
+The conformity of the torque signal calculated by the PEMS equipment from the ECU data-stream information required by point 5.2.1 of Annex I shall be verified at full load.
+
+5.1.2.1.1.
+
+The method used to check this conformity is described in Appendix 4.
+
+5.1.2.2.
+
+The conformity of the ECU torque signal is considered to be sufficient if the calculated torque remains within the full load torque tolerance specified in point 5.2.5 of Annex I.
+
+5.1.2.3.
+
+If the calculated torque does not remain within the full load torque tolerance specified in point 5.2.5 of Annex I, the engine is considered to have failed the test.
+
+5.1.2.4.
+
+Dual-fuel engines and vehicles shall, in addition, comply with the requirements and exceptions related to the torque correction set out in paragraph 10.2.2. of Annex 15 to UNECE Regulation No 49.
+
+6\.
+
+EMISSIONS EVALUATION
+
+6.1.
+
+The test shall be conducted and the test results shall be calculated in accordance with the provisions of Appendix 1 to this Annex.
+
+6.2.
+
+The conformity factors shall be calculated and presented for both the CO<sub>2</sub> mass based method and the Work based method. The pass/fail decision shall be made on the basis of the results of the Work based method.
+
+6.3.
+
+The 90 % cumulative percentile of the exhaust emission conformity factors from each engine system tested, determined in accordance with the measurement and calculation procedures specified in Appendix 1, shall not exceed any of the values set out in Table 2.
+
+*Table 2*
+
+**Maximum allowed conformity factors for in-service conformity emission testing**
+
+<table>
+<tfoot>
+<tr><td colspan="2">For compression-ignition engines.</td></tr>
+<tr><td colspan="2">For positive-ignition engines.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Pollutant</th><th>Maximum allowed conformity factor</th></tr>
+<tr><td>CO</td><td>1,5</td></tr>
+<tr><td>THC</td><td>1,5</td></tr>
+<tr><td>NMHC</td><td>1,5</td></tr>
+<tr><td>CH<sub>4</sub></td><td>1,5</td></tr>
+<tr><td>NO<sub>x</sub></td><td>1,5</td></tr>
+<tr><td>PM mass</td><td>—</td></tr>
+<tr><td>PM number</td><td>—</td></tr>
+</tbody>
+</table>
+
+[^f00053][^f00054][^f00054]
+
+6.3.1.
+
+In the case of a type 2A and type 2B dual-fuel vehicle operating in dual-fuel mode, the emission limit applicable for applying the conformity factors used when performing a PEMS test shall be determined on the basis of the actual GER calculated from the fuel consumption measured over the on-road test.
+
+6.3.2.
+
+As an alternative point 6.3.1., in absence of a robust way to measure the gas or the diesel fuel consumption during the PEMS test, the manufacturer is allowed to use the GER <sub> WHTC </sub> determined on the hot part of the WHTC.
+
+7\.
+
+EVALUATION OF IN-SERVICE CONFORMITY RESULTS
+
+7.1.
+
+On the basis of the in-service conformity report referred to in Section 10, the approval authority shall either:
+
+- ((a)) decide that the in-service conformity testing of an engine system family is satisfactory and not take any further action;
+- ((b)) decide that the data provided is insufficient to reach a decision and request additional information and test data from the manufacturer;
+- ((c)) decide that the in-service conformity of an engine system family is unsatisfactory and proceed to the measures referred to in Article 13 and in Section 9 of this Annex.
+
+8\.
+
+CONFIRMATORY VEHICLE TESTING
+
+8.1.
+
+Confirmatory testing is done for the purpose of confirmation of the in-service emission functionality of an engine family.
+
+8.2.
+
+Approval authorities may conduct confirmatory testing.
+
+8.3.
+
+The confirmatory test shall be performed as vehicle testing as specified in points 2.1 and 2.2. Representative vehicles shall be selected and used under normal conditions and be tested according to the procedures defined in this Annex.
+
+8.4.
+
+A test result may be regarded as non-satisfactory when, from tests of two or more vehicles representing the same engine family, for any regulated pollutant component, the limit value as determined according to Section 6 is exceeded significantly.
+
+9\.
+
+PLAN OF REMEDIAL MEASURES
+
+9.1.
+
+The manufacturer shall submit a report to the approval authority [^key-932cc52492381b5a7924c0d9faa2cec1]... when planning to conduct remedial action, and shall submit this report when deciding to take action. The report shall specify the details of the remedial action and describe the engine families to be included in the action. The manufacturer shall report regularly to the approval authority after the start of the remedial action.
+
+9.2.
+
+The manufacturer shall provide a copy of all communications related to the plan of remedial measures, and shall maintain a record of the recall campaign, and supply regular status reports to the approval authority.
+
+9.3.
+
+The manufacturer shall assign a unique identifying name or number to the plan of remedial measures.
+
+9.4.
+
+The manufacturer shall present a plan of remedial measures which shall consist of the information specified in points 9.4.1 to 9.4.11.
+
+9.4.1.
+
+A description of each engine system type included in the plan of remedial measures.
+
+9.4.2.
+
+A description of the specific modifications, alterations, repairs, corrections, adjustments, or other changes to be made to bring the engines into conformity including a brief summary of the data and technical studies which support the manufacturer’s decision as to the particular measures to be taken to correct the non-conformity.
+
+9.4.3.
+
+A description of the method by which the manufacturer informs the engine or vehicle owners about the remedial measures.
+
+9.4.4.
+
+A description of the proper maintenance or use, if any, which the manufacturer stipulates as a condition of eligibility for repair under the plan of remedial measures, and an explanation of the manufacturer’s reasons for imposing any such condition. No maintenance or use conditions may be imposed unless it is demonstrably related to the non-conformity and the remedial measures.
+
+9.4.5.
+
+A description of the procedure to be followed by engine or vehicle owners to obtain correction of the non-conformity. This description shall include a date after which the remedial measures may be taken, the estimated time for the workshop to perform the repairs and where they can be done. The repair shall be done expediently, within a reasonable time after delivery of the vehicle.
+
+9.4.6.
+
+A copy of the information transmitted to the engine or vehicle owner.
+
+9.4.7.
+
+A brief description of the system which the manufacturer uses to assure an adequate supply of components or systems for fulfilling the remedial action. It shall be indicated when there will be an adequate supply of components or systems to initiate the campaign.
+
+9.4.8.
+
+A copy of all instructions to be sent to those persons who are to perform the repair.
+
+9.4.9.
+
+A description of the impact of the proposed remedial measures on the emissions, fuel consumption, driveability, and safety of each engine or vehicle type, covered by the plan of remedial measures with data, technical studies, etc., which support these conclusions.
+
+9.4.10.
+
+Any other information, reports or data the approval authority may reasonably determine is necessary to evaluate the plan of remedial measures.
+
+9.4.11.
+
+Where the plan of remedial measures includes a recall, a description of the method for recording the repair shall be submitted to the approval authority. If a label is used, an example of it shall be submitted.
+
+9.5.
+
+The manufacturer may be required to conduct reasonably designed and necessary tests on components and engines incorporating a proposed change, repair, or modification to demonstrate the effectiveness of the change, repair, or modification.
+
+10\.
+
+REPORTING PROCEDURES
+
+10.1.
+
+A technical report shall be submitted to the approval authority for each engine family tested. The report shall show the activities and results of the in-service conformity testing. The report shall include at least the following:
+
+10.1.1.
+
+*General*
+
+10.1.1.1.
+
+Name and address of the manufacturer.
+
+10.1.1.2.
+
+Address(es) of assembly plant(s).
+
+10.1.1.3.
+
+The name, address, telephone and fax numbers and e-mail address of the manufacturer’s representative.
+
+10.1.1.4.
+
+Type and commercial description (mention any variants).
+
+10.1.1.5.
+
+Engine family.
+
+10.1.1.6.
+
+Parent engine.
+
+10.1.1.7.
+
+Engine family members.
+
+10.1.1.8.
+
+The vehicle identification number (VIN) codes applicable to the vehicles equipped with an engine that is part of the in-service conformity check.
+
+10.1.1.9.
+
+Means and location of identification of type, if marked on the vehicle.
+
+10.1.1.10.
+
+Category of vehicle.
+
+10.1.1.11.
+
+Type of engine: petrol, ethanol (E85), diesel/NG /LPG/ethanol (ED95) (Delete as appropriate).
+
+10.1.1.12.
+
+The numbers of the type-approvals applicable to the engine types within the in-service family, including, where applicable, the numbers of all extensions and field fixes/recalls (reworks).
+
+10.1.1.13.
+
+Details of extensions, field fixes/recalls to those type-approvals for the engines covered within the manufacturer’s information.
+
+10.1.1.14.
+
+The engine build period covered within the manufacturer’s information (e.g. ‘vehicles or engines manufactured during the 2014 calendar year’).
+
+10.1.2.
+
+*Engine/vehicle selection*
+
+10.1.2.1.
+
+Vehicle or engine location method.
+
+10.1.2.2.
+
+Selection criteria for vehicles, engines, in-service families.
+
+10.1.2.3.
+
+Geographical areas within which the manufacturer has collected vehicles.
+
+10.1.3.
+
+*Equipment*
+
+10.1.3.1.
+
+PEMS Equipment, brand and type.
+
+10.1.3.2.
+
+PEMS calibration.
+
+10.1.3.3.
+
+PEMS power supply.
+
+10.1.3.4.
+
+Calculation software and version used (e.g. EMROAD 4.0).
+
+10.1.4.
+
+*Test data*
+
+10.1.4.1.
+
+Date and time of test.
+
+10.1.4.2.
+
+Location of test including details information about the test route.
+
+10.1.4.3.
+
+Weather/ambient conditions (e.g. temperature, humidity, altitude).
+
+10.1.4.4.
+
+Distances covered per vehicle on the test route.
+
+10.1.4.5.
+
+Test fuel specifications characteristics.
+
+10.1.4.6.
+
+Reagent specification (if applicable).
+
+10.1.4.7.
+
+Lubrication oil specification.
+
+10.1.4.8.
+
+Emission test results according to Appendix 1 to this Annex.
+
+10.1.5.
+
+*Engine information*
+
+10.1.5.1.
+
+Engine fuel type (e.g. diesel, ethanol ED95, NG, LPG, petrol, E85).
+
+10.1.5.2.
+
+Engine combustion system (e.g. compressed ignition or positive ignition).
+
+10.1.5.3.
+
+Type-approval number.
+
+10.1.5.4.
+
+Engine rebuilt.
+
+10.1.5.5.
+
+Engine manufacturer.
+
+10.1.5.6.
+
+Engine model.
+
+10.1.5.7.
+
+Engine production year and month.
+
+10.1.5.8.
+
+Engine identification number.
+
+10.1.5.9.
+
+Engine displacement \[litres\].
+
+10.1.5.10.
+
+Number of cylinders.
+
+10.1.5.11.
+
+Engine rated power \[kW @ rpm\].
+
+10.1.5.12.
+
+Engine peak torque \[Nm @ rpm\].
+
+10.1.5.13.
+
+Idle speed \[rpm\].
+
+10.1.5.14.
+
+Manufacturer supplied full-load torque curve available (yes/no).
+
+10.1.5.15.
+
+Manufacturer supplied full-load torque curve reference number.
+
+10.1.5.16.
+
+DeNO<sub>x</sub> system (e.g. EGR, SCR).
+
+10.1.5.17.
+
+Type of catalytic converter.
+
+10.1.5.18.
+
+Type of Particulate trap.
+
+10.1.5.19.
+
+After-treatment modified with respect to type-approval? (yes/no)
+
+10.1.5.20.
+
+Engine ECU information (Software calibration number).
+
+10.1.6.
+
+*Vehicle information*
+
+10.1.6.1.
+
+Vehicle owner.
+
+10.1.6.2.
+
+Vehicle type (e.g. M<sub>3</sub>, N<sub>3</sub>) and application (e.g. rigid or articulated truck, city bus).
+
+10.1.6.3.
+
+Vehicle manufacturer.
+
+10.1.6.4.
+
+Vehicle Identification Number.
+
+10.1.6.5.
+
+Vehicle registration number and country of registration.
+
+10.1.6.6.
+
+Vehicle model.
+
+10.1.6.7.
+
+Vehicle production year and month.
+
+10.1.6.8.
+
+Transmission type (e.g. manual, automatic or other).
+
+10.1.6.9.
+
+Number of forward gears.
+
+10.1.6.10.
+
+Odometer reading at test start \[km\].
+
+10.1.6.11.
+
+Gross vehicle combination weight rating (GVW) \[kg\].
+
+10.1.6.12.
+
+Tire size \[Not mandatory\].
+
+10.1.6.13.
+
+Tail pipe diameter \[mm\] \[Not mandatory\].
+
+10.1.6.14.
+
+Number of axles.
+
+10.1.6.15.
+
+Fuel tank(s) capacity \[litres\] \[Not mandatory\].
+
+10.1.6.16.
+
+Number of fuel tanks \[Not mandatory\].
+
+10.1.6.17.
+
+Reagent tank(s) capacity \[litres\] \[Not mandatory\].
+
+10.1.6.18.
+
+Number of reagent tanks \[Not mandatory\].
+
+10.1.7.
+
+*Test route characteristics*
+
+10.1.7.1.
+
+Odometer reading at test start \[km\]
+
+10.1.7.2.
+
+Duration \[s\]
+
+10.1.7.3.
+
+Average ambient conditions (as calculated from the instantaneous measured data)
+
+10.1.7.4.
+
+Ambient conditions sensor information (type and location of sensors)
+
+10.1.7.5.
+
+Vehicle speed information (for example cumulative speed distribution)
+
+10.1.7.6.
+
+Shares of the time of the trip characterised by urban, rural and motorway operation as described in point 4.5.
+
+10.1.7.7.
+
+Shares of the time of the trip characterised by accelerating, decelerating, cruising and stop as described in point 4.5.5.
+
+10.1.8.
+
+*Instantaneous measured data*
+
+10.1.8.1.
+
+THC concentration \[ppm\].
+
+10.1.8.2.
+
+CO concentration \[ppm\].
+
+10.1.8.3.
+
+NO<sub>x</sub> concentration \[ppm\].
+
+10.1.8.4.
+
+CO<sub>2</sub> concentration \[ppm\].
+
+10.1.8.5.
+
+CH<sub>4</sub> concentration \[ppm\] for P.I. engines only.
+
+10.1.8.6.
+
+Exhaust gas flow \[kg/h\].
+
+10.1.8.7.
+
+Exhaust temperature \[°C\].
+
+10.1.8.8.
+
+Ambient air temperature \[°C\].
+
+10.1.8.9.
+
+Ambient pressure \[kPa\].
+
+10.1.8.10.
+
+Ambient humidity \[g/kg\] \[Not mandatory\].
+
+10.1.8.11.
+
+Engine torque \[Nm\].
+
+10.1.8.12.
+
+Engine speed \[rpm\].
+
+10.1.8.13.
+
+Engine fuel flow \[g/s\].
+
+10.1.8.14.
+
+Engine coolant temperature \[°C\].
+
+10.1.8.15.
+
+Vehicle ground speed \[km/h\] from ECU and GPS.
+
+10.1.8.16.
+
+Vehicle latitude \[degree\] (Accuracy needs to be sufficient to enable the traceability of the test route).
+
+10.1.8.17.
+
+Vehicle longitude \[degree\].
+
+10.1.9.
+
+*Instantaneous calculated data*
+
+10.1.9.1.
+
+THC mass \[g/s\].
+
+10.1.9.2.
+
+CO mass \[g/s\].
+
+10.1.9.3.
+
+NO<sub>x</sub> mass \[g/s\].
+
+10.1.9.4.
+
+CO<sub>2</sub> mass \[g/s\].
+
+10.1.9.5.
+
+CH<sub>4</sub> mass \[g/s\] for P.I. engines only.
+
+10.1.9.6.
+
+THC cumulated mass \[g\].
+
+10.1.9.7.
+
+CO cumulated mass \[g\].
+
+10.1.9.8.
+
+NO<sub>x</sub> cumulated mass \[g\].
+
+10.1.9.9.
+
+CO<sub>2</sub> cumulated mass \[g\].
+
+10.1.9.10.
+
+CH<sub>4</sub> cumulated mass \[g\] for P.I. engines only.
+
+10.1.9.11.
+
+Calculated fuel rate\[g/s\].
+
+10.1.9.12.
+
+Engine power \[kW\].
+
+10.1.9.13.
+
+Engine work \[kWh\].
+
+10.1.9.14.
+
+Work window duration \[s\].
+
+10.1.9.15.
+
+Work window average engine power \[%\].
+
+10.1.9.16.
+
+Work window THC conformity factor \[-\].
+
+10.1.9.17.
+
+Work window CO conformity factor \[-\].
+
+10.1.9.18.
+
+Work window NO<sub>x</sub> conformity factor \[-\].
+
+10.1.9.19.
+
+Work window CH<sub>4</sub> conformity factor \[-\] for P.I. engines only.
+
+10.1.9.20.
+
+CO<sub>2</sub> mass window duration \[s\].
+
+10.1.9.21.
+
+CO<sub>2</sub> mass window THC conformity factor \[-\].
+
+10.1.9.22.
+
+CO<sub>2</sub> mass window CO conformity factor \[-\].
+
+10.1.9.23.
+
+CO<sub>2</sub> mass window NO<sub>x</sub> conformity factor \[-\].
+
+10.1.9.24.
+
+CO<sub>2</sub> mass window CH<sub>4</sub> conformity factor \[-\] for P.I. engines only.
+
+10.1.10.
+
+*Averaged and integrated data*
+
+10.1.10.1.
+
+Average THC concentration \[ppm\] \[Not mandatory\].
+
+10.1.10.2.
+
+Average CO concentration \[ppm\] \[Not mandatory\].
+
+10.1.10.3.
+
+Average NO<sub>x</sub> concentration \[ppm\] \[Not mandatory\].
+
+10.1.10.4.
+
+Average CO<sub>2</sub> concentration \[ppm\] \[Not mandatory\].
+
+10.1.10.5.
+
+Average CH<sub>4</sub> concentration \[ppm\] for gas engines only \[Not mandatory\].
+
+10.1.10.6.
+
+Average Exhaust gas flow \[kg/h\] \[Not mandatory\].
+
+10.1.10.7.
+
+Average Exhaust temperature \[°C\] \[Not mandatory\].
+
+10.1.10.8.
+
+THC emissions \[g\].
+
+10.1.10.9.
+
+CO emissions \[g\].
+
+10.1.10.10.
+
+NO<sub>x</sub> emissions \[g\].
+
+10.1.10.11.
+
+CO<sub>2</sub> emissions \[g\].
+
+10.1.10.12.
+
+CH<sub>4</sub> emissions \[g\] for gas engines only.
+
+10.1.11.
+
+*Pass-fail results*
+
+10.1.11.1.
+
+Minimum, maximum, and 90 % cumulative percentile for:
+
+10.1.11.2.
+
+Work window THC conformity factor \[-\].
+
+10.1.11.3.
+
+Work window CO conformity factor \[-\].
+
+10.1.11.4.
+
+Work window NO<sub>x</sub> conformity factor \[-\].
+
+10.1.11.5.
+
+Work window CH<sub>4</sub> conformity factor \[-\] for P.I. engines only.
+
+10.1.11.6.
+
+CO<sub>2</sub> mass window THC conformity factor \[-\].
+
+10.1.11.7.
+
+CO<sub>2</sub> mass window CO conformity factor \[-\].
+
+10.1.11.8.
+
+CO<sub>2</sub> mass window NO<sub>x</sub> conformity factor \[-\].
+
+10.1.11.9.
+
+CO<sub>2</sub> mass window CH<sub>4</sub> conformity factor \[-\] for P.I. engines only.
+
+10.1.11.10.
+
+Work window: Minimum and maximum average window power \[%\].
+
+10.1.11.11.
+
+CO<sub>2</sub> mass window: Minimum and maximum window duration \[s\].
+
+10.1.11.12.
+
+Work window: Percentage of valid windows.
+
+10.1.11.13.
+
+CO<sub>2</sub> mass window: Percentage of valid windows.
+
+10.1.12.
+
+*Test verifications*
+
+10.1.12.1.
+
+THC analyser zero, span and audit results, pre and post test.
+
+10.1.12.2.
+
+CO analyser zero, span and audit results, pre and post test.
+
+10.1.12.3.
+
+NO<sub>x</sub> analyser zero, span and audit results, pre and post test.
+
+10.1.12.4.
+
+CO<sub>2</sub> analyser zero, span and audit results, pre and post test.
+
+10.1.12.5.
+
+Data consistency check results, according to Section 3.2 of Appendix 1 to this Annex.
+
+10.1.12.5.1.
+
+Results of the linear regression described in point 3.2.1 of Appendix 1 to this Annex including the slope of the regression line, m, coefficient of determination, r<sup> 2 </sup> and the intercept, b, of the y-axis of the regression line.
+
+10.1.12.5.2.
+
+Result of the consistency check of the ECU data in accordance with point 3.2.2 of Appendix 1 to this Annex.
+
+10.1.12.5.3.
+
+Result of the consistency check of the Brake-specific fuel consumption in accordance with point 3.2.3 of Appendix 1 to this Annex, including the calculated Brake-specific fuel consumption and the ratio of the calculated Brake-specific fuel consumption from the PEMS measurement and the declared Brake-specific fuel consumption for the WHTC test.
+
+10.1.12.5.4.
+
+Result of the consistency check of the Odometer in accordance with point 3.2.4 of Appendix 1 to this Annex.
+
+10.1.12.5.5.
+
+Result of the consistency check of the ambient pressure in accordance with point 3.2.5 of Appendix 1 to this Annex.
+
+10.1.13.
+
+List of further attachments where these exist.
+
+Appendix 1
+
+**Test procedure for vehicle emissions testing with portable emissions measurement systems**
+
+1\.
+
+INTRODUCTION
+
+This Appendix describes the procedure to determine gaseous emissions from on-vehicle on-road measurements using Portable Emissions Measurement Systems (hereinafter ‘PEMS’). The pollutant emissions to be measured from the exhaust of the engine include the following components: carbon monoxide, total hydrocarbons and nitrogen oxides for compression ignition engines and carbon monoxide, non-methane hydrocarbons, methane and nitrogen oxides for positive ignition engines. Additionally, carbon dioxide shall be measured to enable the calculation procedures described in Section 4.
+
+For engines fuelled with natural gas, the manufacturer, technical service or approval authority may choose to measure the total hydrocarbon (THC) emissions only instead of measuring the methane and non-methane hydrocarbon emissions. In that case, the emission limit for the total hydrocarbon emissions is the same as the one specified in Annex I to Regulation (EC) No 595/2009 for methane emissions. For the purposes of the calculation of the conformity factors pursuant to points 4.2.3 and 4.3.2 of this Appendix, the applicable limit shall be the methane emission limit only.
+
+For engines fuelled with gases other than natural gas, the manufacturer, technical service or approval authority may choose to measure the total hydrocarbon (THC) emissions instead of measuring the non-methane hydrocarbon emissions. In that case, the emission limit for the total hydrocarbon emissions is the same as the one specified in Annex I to Regulation (EC) No 595/2009 for non-methane hydrocarbon emissions. For the purposes of the calculation of the Conformity Factors pursuant to points 4.2.3 and 4.3.2 of this Appendix, the applicable limit shall be the non-methane emission limit.
+
+2\.
+
+TEST PROCEDURE
+
+2.1.
+
+**General requirements**
+
+The tests shall be carried out with a PEMS comprised of:
+
+- Gas analysers to measure the concentrations of regulated gaseous pollutants in the exhaust gas.
+- An exhaust mass flow meter based on the averaging Pitot or equivalent principle.
+- A Global Positioning System (hereinafter ‘GPS’).
+- Sensors to measure the ambient temperature and pressure.
+- A connection with the vehicle ECU).
+
+2.2.
+
+**Test parameters**
+
+The parameters as specified in Table 1 shall be measured and recorded at a constant frequency of 1,0 Hz or higher. The original raw data shall be kept by the manufacturer and shall be made available, upon request, to the approval authority [^key-6c61a5e380c0f45535710f856e917e79]...:
+
+*Table 1*
+
+**Test parameters**
+
+<table>
+<tfoot>
+<tr><td colspan="3">Measured or corrected to a wet basis.</td></tr>
+<tr><td colspan="3">Gas engines only.</td></tr>
+<tr><td colspan="3">Use the ambient temperature sensor or an intake air temperature sensor.</td></tr>
+<tr><td colspan="3">The recorded value shall be either (a) the net brake engine torque in accordance with point 2.4.4 of this Appendix or (b) the net brake engine torque calculated from the torque values in accordance with point 2.4.4 of this Appendix.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Parameter</th><th>Unit</th><th>Source</th></tr>
+<tr><td>THC concentration</td><td>ppm</td><td>Analyser</td></tr>
+<tr><td>CO concentration</td><td>ppm</td><td>Analyser</td></tr>
+<tr><td>NO<sub>x</sub> concentration</td><td>ppm</td><td>Analyser</td></tr>
+<tr><td>CO<sub>2</sub> concentration</td><td>ppm</td><td>Analyser</td></tr>
+<tr><td>CH<sub>4</sub> concentration</td><td>ppm</td><td>Analyser</td></tr>
+<tr><td>Exhaust gas flow</td><td>kg/h</td><td>Exhaust Flow Meter (hereinafter ‘EFM’)</td></tr>
+<tr><td>Exhaust temperature</td><td>°K</td><td>EFM</td></tr>
+<tr><td>Ambient temperature</td><td>°K</td><td>Sensor</td></tr>
+<tr><td>Ambient pressure</td><td>kPa</td><td>Sensor</td></tr>
+<tr><td>Engine torque</td><td>Nm</td><td>ECU or Sensor</td></tr>
+<tr><td>Engine speed</td><td>rpm</td><td>ECU or Sensor</td></tr>
+<tr><td>Engine fuel flow</td><td>g/s</td><td>ECU or Sensor</td></tr>
+<tr><td>Engine coolant temperature</td><td>°K</td><td>ECU or Sensor</td></tr>
+<tr><td>Engine intake air temperature</td><td>°K</td><td>Sensor</td></tr>
+<tr><td>Vehicle ground speed</td><td>km/h</td><td>ECU and GPS</td></tr>
+<tr><td>Vehicle latitude</td><td>degree</td><td>GPS</td></tr>
+<tr><td>Vehicle longitude</td><td>degree</td><td>GPS</td></tr>
+</tbody>
+</table>
+
+[^f00055][^f00055][^f00055][^f00055][^f00055][^f00056][^f00057][^f00058][^f00057]
+
+2.2.1.
+
+*Data reporting format*
+
+Emission values as well as any other relevant parameters shall be reported and exchanged as csv-formatted data file. Parameter values shall be separated by a comma, ASCII-Code #h2C. The decimal marker of numerical values shall be a point, ASCII-Code #h2E. Lines shall be terminated by carriage return, ASCII-Code #h0D. No thousands separators shall be used.
+
+2.3.
+
+**Preparation of the vehicle**
+
+The preparation of the vehicle shall include the following:
+
+- ((a)) the check of the OBD system: any identified problems once solved shall be recorded and presented to the approval authority;
+- ((b)) the replacement of oil, fuel and reagent, if any.
+
+2.4.
+
+**Installation of the measuring equipment**
+
+2.4.1.
+
+*Main Unit*
+
+Whenever possible, PEMS shall be installed in a location where it will be subject to minimal impact from the following:
+
+- ((a)) ambient temperature changes;
+- ((b)) ambient pressure changes;
+- ((c)) electromagnetic radiation;
+- ((d)) mechanical shock and vibration;
+- ((e)) ambient hydrocarbons — if using a FID analyser that uses ambient air as FID burner air.
+
+The installation shall follow the instructions issued by the PEMS manufacturer.
+
+2.4.2.
+
+*Exhaust flow meter*
+
+The exhaust flow meter shall be attached to the vehicle’s tailpipe. The EFM sensors shall be placed between two pieces of straight tube whose length should be at least 2 times the EFM diameter (upstream and downstream). It is recommended to place the EFM after the vehicle silencer, to limit the effect of exhaust gas pulsations upon the measurement signals.
+
+2.4.3.
+
+*Global Positioning System*
+
+The antenna shall be mounted at the highest possible location, without risking interference with any obstructions encountered during on-road operation.
+
+2.4.4.
+
+*Connection with the vehicle ECU*
+
+A data logger shall be used to record the engine parameters listed in Table 1. This data logger can make use of the Control Area Network (CAN) bus of the vehicle to access the ECU data specified in Table 1 of Appendix 5 of Annex 9B to UNECE Regulation No 49 and broadcasted on the CAN according to standard protocols, such as SAE J1939, J1708 or ISO 15765-4. It may calculate the net brake engine torque or perform unit conversions.
+
+2.4.5.
+
+*Sampling of gaseous emissions*
+
+The sample line shall be heated according to the specifications of point 2.3 of Appendix 2 and properly insulated at the connection points (sample probe and back of the main unit), to avoid the presence of cold spots that could lead to a contamination of the sampling system by condensed hydrocarbons.
+
+The sample probe shall be installed in the exhaust pipe in accordance with the requirements set out in paragraph 9.3.10 of Annex 4 to UNECE Regulation No 49.
+
+If the length of the sample line is changed, the system transport times shall be verified and if necessary corrected.
+
+2.5.
+
+**Pre-test procedures**
+
+2.5.1.
+
+*Starting and stabilising the PEMS instruments*
+
+The main units shall be warmed up and stabilised according to the instrument manufacturer specifications until pressures, temperatures and flows have reached their operating set points.
+
+2.5.2.
+
+*Cleaning the sampling system*
+
+To prevent system contamination, the sampling lines of the PEMS instruments shall be purged until sampling begins, according to the instrument manufacturer specifications.
+
+2.5.3.
+
+*Checking and calibrating the analysers*
+
+The zero and span calibration and the linearity checks of the analysers shall be performed using calibration gases meeting the requirements set out in paragraph 9.3.3 of Annex 4 to UNECE Regulation No 49. A linearity check shall have been performed within three months before the actual test.
+
+2.5.4.
+
+*Cleaning the EFM*
+
+The EFM shall be purged at the pressure transducer connections in accordance with the instrument manufacturer specifications. This procedure shall remove condensation and diesel particulate matter from the pressure lines and the associated flow tube pressure measurement ports.
+
+2.6.
+
+**Emissions test run**
+
+2.6.1.
+
+***Test start***
+
+Emissions sampling, measurement of the exhaust parameters and recording of the engine and ambient data shall commence prior to starting the engine. The coolant temperature shall not exceed 303 K (30 °C) at the beginning of the test. In case ambient temperature exceeds 303 K (30 °C) at the beginning of the test, the coolant temperature shall not exceed the ambient temperature by more than 2 °C. The data evaluation shall start after the coolant temperature has reached 343 K (70 °C) for the first time or after the coolant temperature is stabilised within +/– 2 K over a period of 5 minutes whichever comes first but no later than 15 minutes after engine start.
+
+2.6.2.
+
+***Test run***
+
+Emission sampling, measurement of the exhaust parameters and recording of the engine and ambient data shall continue throughout the normal in-use operation of the engine. The engine may be stopped and started, but emissions sampling shall continue throughout the entire test.
+
+Periodic zero-checks of the PEMS gas analysers may be conducted every 2 hours and the results may be used to perform a zero drift correction. The data recorded during the checks shall be flagged and shall not be used for the emission calculations.
+
+In case of interrupted GPS signal the GPS data may be calculated based on the ECU vehicle speed and a map, for a consecutive period of less than 60 s. If the cumulative loss of GPS signal exceeds 3 % of the total trip duration, the trip should be declared void.
+
+2.6.3.
+
+*End of test sequence*
+
+At the end of the test, sufficient time shall be given to the sampling systems to allow their response times to elapse. The engine may be shut down before or after sampling is stopped.
+
+2.7.
+
+**Verification of the measurements**
+
+2.7.1.
+
+*Checking of the analysers*
+
+The zero, span and linearity checks of the analysers as described in point 2.5.3. shall be performed using calibration gases meeting the requirements set out in paragraph 9.3.3 of Annex 4 to UNECE Regulation No 49.
+
+2.7.2.
+
+*Zero drift*
+
+Zero response is defined as the mean response, including noise, to a zero gas during a time interval of at least 30 seconds. The drift of the zero response shall be less than 2 % of full scale on the lowest range used.
+
+2.7.3.
+
+*Span drift*
+
+Span response is defined as the mean response, including noise, to a span gas during a time interval of at least 30 seconds. The drift of the span response shall be less than 2 % of full scale on the lowest range used.
+
+2.7.4.
+
+*Drift verification*
+
+This shall apply only if, during the test, no zero drift correction was made.
+
+As soon as practical but no later than 30 minutes after the test is complete the gaseous analyser ranges used shall be zeroed and spanned to check their drift compared to the pre-test results.
+
+The following provisions shall apply for analyser drift:
+
+- ((a)) if the difference between the pre-test and post-test results is less than 2 % as specified in points 2.7.2 and 2.7.3, the measured concentrations may be used uncorrected or may be corrected for drift according to point 2.7.5;
+- ((b)) if the difference between the pre-test and post-test results is equal to or greater than 2 % as specified in points 2.7.2 and 2.7.3, the test shall be voided or the measured concentrations shall be corrected for drift according to point 2.7.5.
+
+2.7.5.
+
+*Drift correction*
+
+If drift correction is applied in accordance with point 2.7.4, the corrected concentration value shall be calculated in accordance with paragraph 8.6.1 of Annex 4 to UNECE Regulation No 49.
+
+The difference between the uncorrected and the corrected brake-specific emission values shall be within ± 6 % of the uncorrected brake-specific emission values. If the drift is greater than 6 %, the test shall be voided. If drift correction is applied, only the drift-corrected emission results shall be used when reporting emissions.
+
+3\.
+
+CALCULATION OF THE EMISSIONS
+
+The final test result shall be rounded in one step to the number of places to the right of the decimal point indicated by the applicable emission standard plus one additional significant figure, in accordance with ASTM E 29-06b. No rounding of intermediate values leading to the final brake-specific emission result shall be allowed.
+
+3.1.
+
+**Time alignment of data**
+
+To minimise the biasing effect of the time lag between the different signals on the calculation of mass emissions, the data relevant for emissions calculation shall be time aligned, as described in points 3.1.1 to 3.1.4.
+
+3.1.1.
+
+*Gas analysers data*
+
+The data from the gas analysers shall be properly aligned using the procedure laid down in paragraph 9.3.5 of Annex 4 to UNECE Regulation No 49.
+
+3.1.2.
+
+*Gas analysers and EFM data*
+
+The data from the gas analysers shall be properly aligned with the data of the EFM using the procedure in point 3.1.4.
+
+3.1.3.
+
+*PEMS and engine data*
+
+The data from the PEMS (gas analysers and EFM) shall be properly aligned with the data from the engine ECU using the procedure in point 3.1.4.
+
+3.1.4.
+
+*Procedure for improved time-alignment of the PEMS data*
+
+The test data listed in Table 1 are split into 3 different categories:
+
+1
+
+Gas analysers (THC, CO, CO<sub>2</sub>, NO<sub>x</sub> concentrations);
+
+2
+
+Exhaust Flow Meter (Exhaust mass flow and exhaust temperature);
+
+3
+
+Engine (Torque, speed, temperatures, fuel rate, vehicle speed from ECU).
+
+The time alignment of each category with the other categories shall be verified by finding the highest correlation coefficient between two series of parameters. All the parameters in a category shall be shifted to maximise the correlation factor. The following parameters shall be used to calculate the correlation coefficients:
+
+To time-align:
+
+- ((a)) categories 1 and 2 (Analysers and EFM data) with category 3 (Engine data): the vehicle speed from the GPS and from the ECU;
+- ((b)) category 1 with category 2: the CO<sub>2</sub> concentration and the exhaust mass;
+- ((c)) category 2 with category 3: the CO<sub>2</sub> concentration and the engine fuel flow.
+
+3.2.
+
+**Data consistency checks**
+
+3.2.1.
+
+***Analysers and EFM data***
+
+The consistency of the data (exhaust mass flow measured by the EFM and gas concentrations) shall be verified using a correlation between the measured fuel flow from the ECU and the fuel flow calculated using the formula in paragraph 8.4.1.7 of Annex 4 to UN/ECE Regulation No 49. A linear regression shall be performed for the measured and calculated fuel rate values. The method of least squares shall be used with the best fit equation having the form:
+
+y = mx + b
+
+where:
+
+— y
+
+is the calculated fuel flow \[g/s\]
+
+— m
+
+is the slope of the regression line
+
+— x
+
+is the measured fuel flow \[g/s\]
+
+— b
+
+is the y intercept of the regression line
+
+The slope (m) and the coefficient of determination (r<sup> 2 </sup>) shall be calculated for each regression line. It is recommended to perform this analysis in the range from 15 % of the maximum value to the maximum value and at a frequency greater or equal to 1 Hz. For a test to be considered valid, the following two criteria shall be evaluated:
+
+*Table 2*
+
+**Tolerances**
+
+|  |  |
+| --- | --- |
+| Slope of the regression line, m | 0,9 to 1,1 — Recommended |
+| Coefficient of determination r <sup> 2 </sup> | min. 0,90 — Mandatory |
+
+3.2.2.
+
+*ECU torque data*
+
+The consistency of the ECU torque data shall be verified by comparing the maximum ECU torque values at different engine speeds with the corresponding values on the official engine full load torque curve according to Section 5 of Annex II.
+
+3.2.3.
+
+*Brake-Specific Fuel Consumption*
+
+The Brake Specific Fuel Consumption (BSFC) shall be checked using:
+
+- ((a)) the fuel consumption calculated from the emissions data (gas analyser concentrations and exhaust mass flow data), in accordance with the formula provided for in point 8.4.1.6 of Annex 4 to UNECE Regulation No 49;
+- ((b)) the work calculated using the data from the ECU (Engine torque and engine speed).
+
+3.2.4.
+
+*Odometer*
+
+The distance indicated by the vehicle odometer shall be checked against the GPS data and verified.
+
+3.2.5.
+
+*Ambient pressure*
+
+The ambient pressure value shall be checked against the altitude indicated by the GPS data.
+
+3.3.
+
+**Dry-Wet correction**
+
+If the concentration is measured on a dry basis, it shall be converted to a wet basis in accordance with the formula provided for in paragraph 8.1. of Annex 4 to UNECE Regulation No 49.
+
+3.4.
+
+**NO<sub>x</sub> correction for humidity and temperature**
+
+The NO<sub>x</sub> concentrations measured by the PEMS shall not be corrected for ambient air temperature and humidity.
+
+3.5.
+
+**Calculation of the instantaneous gaseous emissions**
+
+The mass emissions shall be determined as described in paragraph 8.4.2.3 of Annex 4 to UNECE Regulation No 49.
+
+4\.
+
+DETERMINATION OF EMISSIONS AND CONFORMITY FACTORS
+
+4.1.
+
+**Averaging window principle**
+
+The emissions shall be integrated using a moving averaging window method, based on the reference CO<sub> 2 </sub> mass or the reference work. The principle of the calculation is as follows: The mass emissions are not calculated for the complete data set, but for sub-sets of the complete data set, the length of these sub-sets being determined so as to match the engine CO<sub> 2 </sub> mass or work measured over the reference laboratory transient cycle. The moving average calculations are conducted with a time increment Δt equal to the data sampling period. These sub-sets used to average the emissions data are referred to as ‘averaging windows’ in the following points.
+
+Any invalidated data shall not be considered for the calculation of the work or CO<sub> 2 </sub> mass and the emissions of the averaging window.
+
+The following data shall be considered as not valid data:
+
+- ((a)) zero drift check of the instruments;
+- ((b)) the data outside the conditions specified in points 4.2 and 4.3 of Annex II.
+
+The mass emissions (mg/window) shall be determined as described in paragraph 8.4.2.3 of Annex 4 to UN/ECE Regulation No 49.
+
+*Figure 1*
+
+**Vehicle speed versus time and vehicle averaged emissions, starting from the first averaging window, versus time**
+
+[image: see source](https://www.legislation.gov.uk/eur/2011/582/images/eur_20110582_2020-09-01_en_003)
+
+4.2.
+
+**Work based method**
+
+*Figure 2* **Work based method** [image: see source](https://www.legislation.gov.uk/eur/2011/582/images/eur_20110582_2020-09-01_en_004)
+
+The duration (*t*<sub>2,*i*</sub> – *t*<sub>1,*i*</sub>) of the i<sup>th</sup> averaging window is determined by:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+where:
+
+- *W(t<sub>j,i</sub>*) is the engine work measured between the start and time *t<sub>j,i</sub>*, kWh;
+- *W<sub>ref</sub>* is the engine work for the WHTC, kWh;
+- *t*<sub>2,*i*</sub> shall be selected such that:
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+Where Δt is the data sampling period, equal to 1 second or less.
+
+4.2.1.
+
+*Calculation of the specific emissions*
+
+The specific emissions *e*<sub>gas</sub> (mg/kWh) shall be calculated for each window and each pollutant in the following way:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+where:
+
+- *m* is the mass emission of the component, mg/window
+- *W(t<sub>2,i</sub>) – W(t<sub>1,i</sub>)* is the engine work during the i<sup>th</sup> averaging window, kWh
+
+4.2.1.1.
+
+Calculation of the specific emissions for a declared market fuel
+
+If a test pursuant to this Annex was performed with a market fuel declared in point 3.2.2.2.1 of Part 1 in Appendix 4 to Annex I, the specific emissions e<sub> gas </sub> (mg/kWh) shall be calculated for each window and each pollutant by multiplication of the uncorrected specific emissions with the power correction factor determined pursuant to point 1.1.2 (a1) of Annex I.
+
+4.2.2.
+
+*Selection of valid windows*
+
+4.2.2.1.
+
+Before the dates referred to in Article 17a, points 4.2.2.1.1 to 4.2.2.1.4 shall apply.
+
+4.2.2.1.1.
+
+The valid windows are the windows whose average power exceeds the power threshold of 20 % of the maximum engine power. The percentage of valid windows shall be equal or greater than 50 %.
+
+4.2.2.1.2.
+
+If the percentage of valid windows is less than 50 %, the data evaluation shall be repeated using lower power thresholds. The power threshold shall be reduced in steps of 1 % until the percentage of valid windows is equal to or greater than 50 %.
+
+4.2.2.1.3.
+
+In any case, the lower threshold shall not be lower than 15 %.
+
+4.2.2.1.4.
+
+The test shall be void if the percentage of valid windows is less than 50 % at a power threshold of 15 %.
+
+4.2.2.2.
+
+From the dates referred to in Article 17a, points 4.2.2.2.1 and 4.2.2.2.2 shall apply.
+
+4.2.2.2.1.
+
+The valid windows are the windows whose average power exceeds the power threshold of 10 % of the maximum engine power.
+
+4.2.2.2.2.
+
+The test shall be void if the percentage of valid windows is less than 50 % or if there are no valid windows in respect of nitrogen oxides (NO<sub> x </sub>) left in urban only operations after the 90 percentile rule has been applied.
+
+4.2.3.
+
+*Calculation of the conformity factors*
+
+The conformity factors shall be calculated for each individual valid window and each individual pollutant in the following way:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+where:
+
+- e is the brake-specific emission of the component, mg/kWh;
+- L is the applicable limit, mg/kWh.
+
+4.3.
+
+**CO<sub>2</sub> mass based method**
+
+*Figure 3* **CO<sub>2</sub> mass based method** [image: see source](https://www.legislation.gov.uk/eur/2011/582/images/eur_20110582_2020-09-01_en_005)
+
+The duration (t<sub>2,*i*</sub> – t<sub>1,*i*</sub>) of the i<sup>th</sup> averaging window is determined by:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+where:
+
+- *m*<sub>*CO*2</sub>(*t<sub>j,i</sub>*) is the CO<sub>2</sub> mass measured between the test start and time *t<sub>j,i</sub>*, kg;
+- *m*<sub>*CO*2,*ref*</sub> is the CO<sub>2</sub> mass determined for the WHTC, kg;
+- *t*<sub>2,*i*</sub> shall be selected such as:
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+Where Δ*t* is the data sampling period, equal to 1 second or less.
+
+The CO<sub>2</sub> masses are calculated in the windows by integrating the instantaneous emissions calculated according to the requirements introduced in point 3.5.
+
+4.3.1.
+
+***Selection of valid windows***
+
+4.3.1.1.
+
+Before the dates referred to in Article 17a, points 4.3.1.1.1 to 4.3.1.1.4 shall apply.
+
+4.3.1.1.1.
+
+The valid windows shall be the windows whose duration does not exceed the maximum duration calculated from:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+where:
+
+- D max is the maximum window duration, s,
+- P max is the maximum engine power, kW.
+
+4.3.1.1.2.
+
+If the percentage of valid windows is less than 50 %, the data evaluation shall be repeated using longer window durations. This is achieved by decreasing the value of 0,2 in the formula given in point 4.3.1 by steps of 0,01 until the percentage of valid windows is equal to or greater than 50 %.
+
+4.3.1.1.3.
+
+In any case, the lowered value in above formula shall not be lower than 0,15.
+
+4.3.1.1.4.
+
+The test shall be void if the percentage of valid windows is less than 50 % at a maximum window duration calculated in accordance with points 4.3.1.1, 4.3.1.1.2 and 4.3.1.1.3.
+
+4.3.1.2.
+
+From the dates referred to in Article 17a, points 4.3.1.2.1 and 4.3.1.2.2 shall apply.
+
+4.3.1.2.1.
+
+The valid windows shall be the windows whose duration does not exceed the maximum duration calculated from:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+where:
+
+- D max is the maximum window duration, s,
+- P max is the maximum engine power, kW.
+
+4.3.1.2.2.
+
+The test shall be void if the percentage of valid windows is less than 50 %.
+
+4.3.2.
+
+*Calculation of the conformity factors*
+
+The conformity factors shall be calculated for each individual window and each individual pollutant in the following way:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+with [formula: see source](https://www.legislation.gov.uk/eur/2011/582) (in service ratio) and
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582) (certification ratio)
+
+where:
+
+- *m* is the mass emission of the component, mg/window;
+- *m*<sub>*CO*2</sub>(*t*<sub>2,*i*</sub>) – *m*<sub>*CO*2</sub>(*t*<sub>1,*i*</sub>) is the CO<sub>2</sub> mass during the i<sup>th</sup> averaging window, kg;
+- *m*<sub>*CO*2,*ref*</sub> is the engine CO<sub>2</sub> mass determined for the WHTC, kg;
+- *m<sub>L</sub>* is the mass emission of the component corresponding to the applicable limit on the WHTC, mg.
+
+Appendix 2
+
+**Portable measurement equipment**
+
+1\.
+
+GENERAL
+
+The gaseous emissions shall be measured according to the procedure set out in Appendix 1. The present Appendix describes the characteristics of the portable measurement equipment that shall be used to perform such tests.
+
+2\.
+
+MEASURING EQUIPMENT
+
+2.1.
+
+**Gas analysers general specifications**
+
+The PEMS gas analysers specifications shall meet the requirements set out in Section 9.3.1 of Annex 4B to UN/ECE Regulation No 49.
+
+2.2.
+
+**Gas analysers technology**
+
+The gases shall be analysed using the technologies specified in paragraph 9.3.2 of Annex 4 to UNECE Regulation No 49.
+
+The oxides of nitrogen analyser may also be of the Non-Dispersive Ultra Violet (NDUV) type.
+
+2.3.
+
+**Sampling of gaseous emissions**
+
+The sampling probes shall meet the requirements set out in paragraphs A.2.1.2 and A.2.1.3 of Appendix 2 to Annex 4 to UNECE Regulation No 49. The sampling line shall be heated to 190 °C (+/– 10 °C).
+
+2.4.
+
+**Other instruments**
+
+The measuring instruments shall satisfy the requirements set out in Table 7 and paragraph 9.3.1 of Annex 4 to UNECE Regulation No 49.
+
+3\.
+
+AUXILIARY EQUIPMENT
+
+3.1.
+
+**Exhaust gas flow meter (EFM) tailpipe connection**
+
+The installation of the EFM shall not increase the backpressure by more than the value recommended by the engine manufacturer, nor increase the length of the tailpipe by more than 2 m. As for the all the components of the PEMS equipment, the installation of the EFM shall comply with the locally applicable road safety regulations and insurance requirements.
+
+3.2.
+
+**PEMS location and mounting hardware**
+
+The PEMS equipment shall be installed as specified in Section 2.4 of Appendix 1.
+
+3.3.
+
+**Electrical power**
+
+The PEMS equipment shall be powered using the method described in point 4.6.6 of Annex II.
+
+Appendix 3
+
+**Calibration of portable measurement equipment**
+
+1\.
+
+EQUIPMENT CALIBRATION AND VERIFICATION
+
+1.1.
+
+Calibration gases
+
+The PEMS gas analysers shall be calibrated using gases in accordance with the requirements set out in paragraph 9.3.3 of Annex 4 to UNECE Regulation No 49.
+
+1.2.
+
+Leakage test
+
+The PEMS leakage tests shall be conducted in accordance with the requirements set out in paragraph 9.3.4 of Annex 4 to UNECE Regulation No 49.
+
+1.3.
+
+Response time check of the analytical system
+
+The response time check of the PEMS analytical system shall be conducted in accordance with the requirements set out in paragraph 9.3.5 of Annex 4 to UNECE Regulation No 49.
+
+Appendix 4
+
+**Method to check the conformity of the ECU torque signal**
+
+1\.
+
+INTRODUCTION
+
+This Appendix describes in a non-detailed manner the method used to check the conformity of the ECU torque signal during ISC-PEMS testing.
+
+The detailed applicable procedure is left to the engine manufacturer, subject to approval of the approval authority.
+
+2\.
+
+THE ‘MAXIMUM TORQUE’ METHOD
+
+2.1.
+
+The ‘maximum torque’ method consists of demonstrating that a point on the reference maximum torque curve as a function of the engine speed has been reached during vehicle testing.
+
+2.1.1.
+
+If a market fuel declared in point 3.2.2.2.1 of Part 1 in Appendix 4 to Annex I is used for the test, the ECU torque signal shall be divided by the correction factor prior to the verification with the reference maximum torque curve performed with that market fuel.
+
+2.2.
+
+If a point on the reference maximum torque curve as a function of the engine speed has not been reached during the ISC PEMS emissions testing, the manufacturer is entitled to modify the load of the vehicle and/or the testing route as necessary in order to perform that demonstration after the ISC PEMS emissions test has been completed.
+
+## ANNEX III — VERIFYING EXHAUST EMISSIONS
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex sets out the test procedure for verifying exhaust emissions.
+
+2\.
+
+GENERAL REQUIREMENTS
+
+2.1.
+
+The requirements for conducting the tests and interpreting the results shall be those set out in Annex 4 to UNECE Regulation No 49, using the appropriate reference fuels as specified in Annex IX to this Regulation.
+
+2.2.
+
+In the case of dual-fuel engines and vehicles, the additional requirements and exceptions set out in Appendix 4 to Annex 15 to UNECE Regulation No 49 when performing an emission test shall apply.
+
+2.3.
+
+For testing positive ignition engines by using an exhaust dilution system, it is permitted to use analyser systems that meet the general requirements and calibration procedures provided for in UNECE Regulation No 83. In this case, the provisions of paragraph 9 and Appendix 2 to Annex 4 to UNECE Regulation No 49 shall not apply.
+
+However, the test procedures provided for in paragraph 7 of Annex 4 to UNECE Regulation No 49 and the emission calculations provided for in paragraph 8 of Annex 4 to UNECE Regulation No 49 shall apply.
+
+## ANNEX IV — EMISSIONS DATA REQUIRED AT TYPE-APPROVAL FOR ROADWORTHINESS PURPOSES — Measuring carbon monoxide emissions at idling speeds
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex sets out the procedure for measuring carbon monoxide emissions at idling speeds (normal and high) for positive ignition engines installed in vehicles of category M <sub> 1 </sub> with a technically permissible maximum laden mass not exceeding 7,5 tonnes, as well as in vehicles of categories M <sub> 2 </sub> and N <sub> 1 </sub> .
+
+1.2.
+
+This Annex does not apply to dual-fuel engines and vehicles.
+
+2\.
+
+GENERAL REQUIREMENTS
+
+2.1.
+
+The general requirements shall be those set out in Sections 5.3.7.1 to 5.3.7.4 of UN/ECE Regulation No 83, with the exceptions set out in Sections 2.2, 2.3 and 2.4.
+
+2.2.
+
+The atomic ratios set out in Section 5.3.7.3 shall be understood as follows:
+
+|  |  |
+| --- | --- |
+| Hcv<br>Atomic ratio of hydrogen to carbon | - for petrol (E10) 1,93<br>- for LPG 2,525<br>- for NG/biomethane 4,0<br>- for ethanol (E85) 2,74 |
+| Ocv<br>Atomic ratio of oxygen to carbon | - for petrol (E10) 0,032<br>- for LPG 0,0<br>- for NG/biomethane 0,0<br>- for ethanol (E85) 0,385 |
+
+2.3.
+
+The table in point 1.4.3 of Appendix 5 to Annex I to this Regulation shall be completed on the basis of the requirements set out in points 2.2 and 2.4 of this Annex.
+
+2.4.
+
+The manufacturer shall confirm the accuracy of the Lambda value recorded at the time of type-approval in point 2.1 of this Annex as being representative of typical production vehicles within 24 months of the date of the granting of type-approval. An assessment shall be made on the basis of surveys and studies of production vehicles.
+
+3\.
+
+TECHNICAL REQUIREMENTS
+
+3.1.
+
+The technical requirements shall be those set out in Annex 5 to UN/ECE Regulation No 83, with the exception set out in point 3.2.
+
+3.2.
+
+The reference fuels specified in Section 2.1 of Annex 5 to UN/ECE Regulation No 83 shall be understood as referring to the appropriate reference fuel specifications set out in Annex IX to this Regulation.
+
+## ANNEX V — VERIFYING EMISSIONS OF CRANKCASE GASES
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex sets out the provisions and test procedures for verifying emissions of crankcase gases.
+
+2\.
+
+GENERAL REQUIREMENTS
+
+2.1.
+
+No crankcase emissions shall be discharged directly into the ambient atmosphere, with the exception given in point 3.1.1.
+
+3\.
+
+SPECIFIC REQUIREMENTS
+
+3.1.
+
+Point 3.1.1. and 3.1.2. shall apply to compression-ignition engines, dual-fuel engines and to positive-ignition engines fuelled with natural gas/biomethane or LPG.
+
+3.1.1.
+
+Engines equipped with turbochargers, pumps, blowers, or superchargers for air induction may discharge crankcase emissions to the ambient atmosphere if the emissions are added to the exhaust emissions (either physically or mathematically) during all emission testing in accordance with paragraph 6.10 of Annex 4 to UNECE Regulation No 49.
+
+3.1.2.
+
+Crankcase emissions that are routed into the exhaust upstream of any exhaust after-treatment device during all operation are not considered to be discharged directly into the ambient atmosphere.
+
+3.2.
+
+Points 3.2.1 and 3.2.2 shall apply to positive-ignition engines fuelled with petrol or E85.
+
+3.2.1.
+
+The pressure in the crankcase shall be measured over the emission test cycles at an appropriate location. It shall be measured at the dip-stick hole with an inclined-tube manometer.
+
+3.2.1.1.
+
+The pressure in the intake manifold shall be measured to within ± 1 kPa.
+
+3.2.1.2.
+
+The pressure measured in the crankcase shall be measured to within ± 0,01 kPa.
+
+3.2.2.
+
+Compliance with point 2.1 shall be deemed satisfactory if, in every condition of measurement set out in point 3.2.1, the pressure measured in the crankcase does not exceed the atmospheric pressure prevailing at the time of measurement.
+
+## ANNEX VI — REQUIREMENTS TO LIMIT OFF-CYCLE EMISSIONS (OCE) AND IN-USE EMISSIONS
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex sets out the performance requirements and prohibition of defeat strategies for engines and vehicles type-approved according to Regulation (EC) No 595/2009 and this Regulation so as to achieve effective control of emissions under a broad range of engine and ambient operating conditions encountered during normal in-use vehicle operation. This Annex also sets out the test procedures for testing off-cycle emissions during type-approval and in actual use of the vehicle.
+
+2\.
+
+DEFINITIONS
+
+The definitions in Section 3 of Annex 10 to UN/ECE Regulation No 49 shall apply.
+
+3\.
+
+GENERAL REQUIREMENTS
+
+3.1.
+
+The general requirements shall be those set out in paragraph 4 of Annex 10 to UNECE Regulation No 49.
+
+3.2.
+
+In the case of dual-fuel engines, adaptive strategies are allowed provided that all of the following conditions are met:
+
+- ((a)) the engine always remains in the dual-fuel type that has been declared for type-approval;
+- ((b)) in case of a Type 2 dual-fuel engine, the resulting difference between the highest and the lowest GER <sub> WHTC </sub> within the family shall never exceed the percentage specified in paragraph 3.1.1 of Annex 15 to UNECE Regulation No 49;
+- ((c)) these strategies are declared and satisfy the requirements set out in this Annex.
+
+4\.
+
+PERFORMANCE REQUIREMENTS
+
+4.1.
+
+The performance requirements shall be those set out in paragraph 5 of Annex 10 to UNECE Regulation No. 49, with the exceptions provided for in point 4.1.1 of this Regulation.
+
+4.1.1.
+
+Point (a) of paragraph 5.1.2 of Annex 10 to UNECE Regulation No 49 shall be understood as follows:
+
+- ((a)) its operation is substantially included in the applicable type-approval tests, including the off-cycle test procedures provided for in paragraph 6 of Annex VI to this Regulation and the in-service provisions set out in Article 12 of this Regulation.
+
+**No longer in force.**
+
+[^c000015]4.1.2.
+
+Section 5.2.1. of Annex 10 to UN/ECE Regulation No 49 shall be understood as follows:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]4.1.3.
+
+The applicable emission limits shall be the following:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.1.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5\.
+
+AMBIENT AND OPERATING CONDITIONS
+
+5.1.
+
+The ambient and operating conditions for the purpose of this Annex shall be those set out in Section 6. of Annex 10 to UN/ECE Regulation No 49.
+
+6\.
+
+OFF-CYCLE LABORATORY TESTING AND IN-USE VEHICLE TESTING AT TYPE-APPROVAL
+
+6.1.
+
+The off-cycle test procedure during type-approval shall follow the off-cycle laboratory testing and in-use vehicle testing of engines at type-approval as described in paragraph 7 of Annex 10 to UNECE Regulation No 49 with the exception provided for in point 6.1.1.
+
+6.1.1.
+
+The first subparagraph of paragraph 7.3 of Annex 10 to UNECE Regulation No 49 shall be understood as follows:
+
+> In-use testing
+>
+> A PEMS demonstration test shall be performed at type-approval by testing the parent engine in a vehicle using the procedure described in Appendix 1 of this Annex.
+
+**No longer in force.**
+
+[^c000015]6.1.2.
+
+Section 7.2.1 of Annex 10 to UN/ECE Regulation No 49 shall be understood as follows:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]6.1.3.
+
+Section 7.3 of Annex 10 to UN/ECE Regulation No 49 shall be understood as follows:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.1.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.1.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]6.1.4.
+
+Section 7.5.4 of Annex 10 to UN/ECE Regulation No 49 shall be understood as follows:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]6.1.5.
+
+Section 7.5.5 of Annex 10 to UN/ECE Regulation No 49 shall be understood as follows:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]6.1.6.
+
+Section 7.5.6 of Annex 10 to UN/ECE Regulation No 49 shall be understood as follows:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6.2.
+
+**Dual-fuel engines and vehicles**
+
+The PEMS demonstration test at type-approval required by Annex 10 to UNECE Regulation No 49 shall be performed by testing the parent engine of a dual-fuel engine family when operating in dual-fuel mode.
+
+6.2.1.
+
+In the case of Type 1B, Type 2B and Type 3B dual-fuel engines, an additional PEMS test shall be performed in diesel mode on the same engine and vehicle immediately after or before the PEMS demonstration test performed in dual-fuel mode.
+
+In that case, certification can only be granted if both the PEMS demonstration test in dual-fuel mode and the PEMS demonstration test in diesel mode have concluded to a pass.
+
+6.3.
+
+Additional requirements with respect to in-use vehicle testing will be specified at a later stage in accordance with Article 14(3) of this Regulation.
+
+7\.
+
+STATEMENT OF OFF-CYCLE EMISSION COMPLIANCE
+
+7.1.
+
+The statement of off-cycle emission compliance shall be drawn up in accordance with paragraph 10 of Annex 10 to UNECE Regulation No 49, with the exception set out in point 7.1.1.
+
+7.1.1.
+
+The first subparagraph of paragraph 10 of Annex 10 to UNECE Regulation No 49 shall be understood as follows:
+
+> Statement of off-cycle emission compliance
+>
+> In the application for type-approval, the manufacturer shall provide a statement that the engine family or vehicle complies with the requirements set out in this Regulation limiting off-cycle emissions. In addition to this statement, compliance with the applicable emission limits and in-use requirements shall be verified through additional tests.
+
+8\.
+
+**DOCUMENTATION**
+
+Paragraph 11 of Annex 10 to UNECE Regulation No 49 shall be understood as follows:
+
+- The Approval Authority shall require that the manufacturer provides a documentation package. This should describe any element of design and emission control strategy of the engine system and the means by which it controls its output variables, whether that control is direct or indirect.
+- The information shall include a full description of the emission control strategy. In addition, this shall include information on the operation of all AES and BES, including a description of the parameters that are modified by any AES and the boundary conditions under which the AES operate, and indication of which AES and BES are likely to be active under the conditions of the test procedures in this Annex.
+- This documentation package shall be provided in accordance with the provisions of Section 8 of Annex I to this Regulation.
+
+**No longer in force.**
+
+[^c000015]9.
+
+STATEMENT OF OFF-CYCLE EMISSION COMPLIANCE
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]9.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]10.
+
+DOCUMENTATION
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Appendix 1
+
+**PEMS demonstration test at type-approval**
+
+1\.
+
+INTRODUCTION
+
+This Appendix describes the procedure for PEMS demonstration test at type-approval.
+
+2\.
+
+TEST VEHICLE
+
+2.1.
+
+The vehicle used for demonstrating the PEMS demonstration test shall be representative for the vehicle category intended for the installation of the engine system. The vehicle may be a prototype vehicle or an adapted production vehicle.
+
+2.2.
+
+The availability and conformity of the ECU data-stream information shall be demonstrated (for example following the provision of Section 5 of Annex II to this Regulation).
+
+2.3.
+
+Manufacturers shall ensure that vehicles can be tested with PEMS by an independent party on public roads by making available suitable adapters for exhaust pipes, granting access to ECU signals and making the necessary administrative arrangements. The manufacturer may charge a reasonable fee as set out in Article 7(1) of Regulation (EC) No 715/2007.
+
+3\.
+
+TEST CONDITIONS
+
+3.1.
+
+**Vehicle payload**
+
+For the purpose of the PEMS demonstration test, the payload may be reproduced and an artificial load may be used.
+
+The vehicle payload shall be 50-60 % of the maximum vehicle payload. The additional requirements set out in Annex II shall apply.
+
+3.2.
+
+**Ambient conditions**
+
+The test shall be conducted under ambient conditions as described in point 4.2 of Annex II.
+
+3.3.
+
+The engine coolant temperature shall be in accordance with point 4.3 of Annex II.
+
+3.4.
+
+**Fuel, lubricants and reagent**
+
+The fuel, lubricating oil and reagent for the exhaust after-treatment system shall follow the provisions of points 4.4 to 4.4.3 of Annex II.
+
+3.5.
+
+**Trip and operational requirements**
+
+The trip and operational requirements shall be those described in points 4.5 to 4.6.8 of Annex II.
+
+4\.
+
+EMISSIONS EVALUATION
+
+4.1.
+
+The test shall be conducted and the test results calculated in accordance with Section 6 of Annex II.
+
+5\.
+
+REPORT
+
+5.1.
+
+A technical report describing the PEMS demonstration test shall show the activities and results and give at least the following information:
+
+- ((a)) General information as described in points 10.1.1 to 10.1.1.14 of Annex II.
+- ((b)) Explanation as to why the vehicle(s) [^f00059] used for the test can be considered to be representative for the category of vehicles intended for the engine system.
+- ((c)) Information about test equipment and test data as described in points 10.1.3 to 10.1.4.8 of Annex II.
+- ((d)) Information about the tested engine as described in points 10.1.5 to 10.1.5.20 of Annex II.
+- ((e)) Information about the vehicle used for the test as described in points 10.1.6 to 10.1.6.18 of Annex II.
+- ((f)) Information about the route characteristics as described in points 10.1.7 to 10.1.7.7 of Annex II.
+- ((g)) Information about instantaneous measured and calculated data as described in points 10.1.8 to 10.1.9.24 of Annex II.
+- ((h)) Information about averaged and integrated data as described in points 10.1.10 to 10.1.10.12 of Annex II.
+- ((i)) Pass-fail results as described in points 10.1.11 to 10.1.11.13 of Annex II.
+- ((j)) Information about test verifications as described in points 10.1.12 to 10.1.12.5 of Annex II.
+
+## ANNEX VII — VERIFYING THE DURABILITY OF ENGINE SYSTEMS
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex sets out the procedures for selecting engines to be tested over a service accumulation schedule for the purpose of determining deterioration factors. The deterioration factors shall be applied in accordance with the requirements of point 3.6 of this Annex to the emissions measured according to Annex III.
+
+1.2.
+
+This Annex also sets out the emission and non-emission-related maintenance carried out on engines undergoing a service accumulation schedule. Such maintenance shall conform to the maintenance performed on in-service engines and shall be communicated to owners of new engines and vehicles.
+
+1.3.
+
+In the case of dual-fuel engines, paragraph 6.5 of Annex 15 to UNECE Regulation No 49 shall also apply.
+
+2\.
+
+SELECTION OF ENGINES FOR ESTABLISHING USEFUL LIFE DETERIORATION FACTORS
+
+2.1.
+
+The selection of the engines shall be carried out in accordance with paragraph 2 of Annex 7 to UNECE Regulation No 49.
+
+[^c000015]2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^c000015]2.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3\.
+
+ESTABLISHING USEFUL LIFE DETERIORATION FACTORS
+
+3.1.
+
+The requirements for the establishment of useful life deterioration factors shall be those set out in paragraph 3 of Annex 7 to UNECE Regulation No 49, with the exceptions provided for in points 3.1.1 to 3.1.6.
+
+3.1.1.
+
+Paragraph 3.2.1.3 of Annex 7 to UNECE Regulation No 49 shall be understood as follows:
+
+> - The emission values at the start point and at the useful life end point calculated in accordance with paragraph 3.5.2 shall meet the limit values specified in the table of Annex I to Regulation (EC) No 595/2009, but individual emission results from the test points may exceed those limit values.
+
+3.1.2.
+
+Paragraph 3.2.1.9 of Annex 7 to UNECE Regulation No 49 shall be understood as follows:
+
+> - The service accumulation schedule may be shortened by accelerated ageing on a fuel consumption basis. This shall be based on the ratio between the typical in-use fuel consumption and the fuel consumption on the ageing cycle. The service accumulation schedule shall not be reduced by more than 30 per cent, even if fuel consumption on the ageing cycle exceeds the typical in-use fuel consumption by more than 30 per cent.
+
+3.1.3.
+
+Paragraph 3.5.1 of Annex 7 to UNECE Regulation No 49 shall be understood as follows:
+
+> - For each pollutant measured on the hot WHTC and WHSC tests at each test point during the service accumulation schedule, a “ best fit ” linear regression analysis shall be made on the basis of all test results. The results of each test for each pollutant shall be expressed to the same number of decimal places as the limit value for that pollutant, as shown in the table of Annex I to Regulation (EC) No 595/2009, plus one additional decimal place. In accordance with paragraph 3.2.1.4 of Annex 7 to Regulation UNECE No 49, if it has been agreed that only one test cycle (hot WHTC or WHSC) be run at each test point and the other test cycle (hot WHTC or WHSC) run only at the beginning and at the end of the service accumulation schedule, the regression analysis shall be made only on the basis of the test results from the test cycle run at each test point.
+>
+>   At the request of the manufacturer and with the prior approval of the approval authority a non-linear regression shall be permitted.
+
+3.1.4.
+
+Paragraph 3.7.1 of Annex 7 to UN/ECE Regulation No 49 shall be understood as follows:
+
+> - The engines shall meet the respective emission limits for each pollutant, as given in the table of Annex I to Regulation (EC) No 595/2009, after application of the deterioration factors to the test result as measured in accordance with Annex III (e <sub> gas </sub> , e <sub> PM </sub> ). Depending on the type of deterioration factor (DF), the following provisions shall apply:
+>   - ((a)) multiplicative: (e <sub> gas </sub> or e <sub> PM </sub> ) \* DF ≤ emission limit
+>   - ((b)) additive: (e <sub> gas </sub> or e <sub> PM </sub> ) + DF ≤ emission limit
+
+3.1.5.
+
+Paragraph 3.8.1 of Annex 7 to UNECE Regulation No 49 shall be understood as follows:
+
+> - Conformity of production for emissions compliance shall be checked on the basis of the requirements set out in Section 7 of Annex I to this Regulation.
+
+3.1.6.
+
+Paragraph 3.8.3 of Annex 7 to UNECE Regulation No 49 shall be understood as follows:
+
+> - For the purposes of type-approval, only the deterioration factors provided for in paragraphs 3.5 or 3.6 of Annex 7 to UNECE Regulation No 49 shall be specified in points 1.4.1 and 1.4.2 of the Addendum to Appendix 5 and in points 1.4.1 and 1.4.2 of the Addendum to Appendix 7 of Annex I to this Regulation.
+
+3.2.
+
+The use of market fuels is allowed for conducting the service accumulation schedule. A reference fuel shall be used to carry out the emission test.
+
+**No longer in force.**
+
+[^c000015]3.2.1.
+
+*In-service and dynamometer service accumulation*
+
+[^c000015]3.2.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.1.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.1.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.1.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.1.6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.1.7.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.1.8.
+
+Minimum service accumulation period
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.1.9.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.1.10.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]3.3.
+
+**Engine testing**
+
+[^c000015]3.3.1.
+
+*Engine system stabilisation*
+
+[^c000015]3.3.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.2.
+
+*Service accumulation testing*
+
+[^c000015]3.3.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]3.4.
+
+**Reporting**
+
+[^c000015]3.4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]3.5.
+
+**Determination of deterioration factors**
+
+[^c000015]3.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.5.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.5.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]3.6.
+
+**Assigned deterioration factors**
+
+[^c000015]3.6.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]3.7.
+
+**Application of deterioration factors**
+
+[^c000015]3.7.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.7.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.7.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]3.8.
+
+**Checking of conformity of production**
+
+[^c000015]3.8.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.8.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.8.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4\.
+
+MAINTENANCE
+
+The requirements on maintenance shall be those set out in paragraph 4 of Annex 7 to UNECE Regulation No 49.
+
+4.1.
+
+**Emission-related scheduled maintenance**
+
+[^c000015]4.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.1.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]4.2.
+
+**Changes to scheduled maintenance**
+
+[^c000015]4.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]4.3.
+
+**Non-emission-related scheduled maintenance**
+
+[^c000015]4.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]4.4.
+
+**Repair**
+
+[^c000015]4.4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX VIII — CO<sub>2</sub> EMISSIONS AND FUEL CONSUMPTION
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex sets out the provisions and test procedures for reporting CO<sub>2</sub> emissions and fuel consumption.
+
+2\.
+
+GENERAL REQUIREMENTS
+
+2.1.
+
+The general requirements shall be those set out in paragraph 2 of Annex 12 to UNECE Regulation No 49.
+
+[^c000015]2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3\.
+
+DETERMINATION OF CO<sub>2</sub> EMISSIONS
+
+3.1.
+
+The requirements for the determination of CO <sub> 2 </sub> emissions shall be those set out in paragraph 3 of Annex 12 to UNECE Regulation No 49, with the exception provided for in point 3.1.1.
+
+3.1.1.
+
+Paragraph 3.1 and Appendix 1 of Annex 12 to UNECE Regulation No 49 shall not apply to dual-fuel engines and vehicles. Paragraph 10.3 of Annex 15 to UNECE Regulation No 49, which provides additional dual-fuel specific CO <sub> 2 </sub> determination requirements, shall apply instead.
+
+**No longer in force.**
+
+[^c000015]3.1.2.
+
+*Data evaluation*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]3.1.3.
+
+*Calculation of cycle averaged emission*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]3.2.
+
+**Dilute measurement**
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.1.
+
+*Measurement*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.2.
+
+*Data evaluation*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.3.
+
+*Calculation of cycle averaged emission*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]3.3.
+
+**Calculation of brake specific emissions**
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.1.
+
+*WHTC*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.2.
+
+*WHSC*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4\.
+
+DETERMINATION OF FUEL CONSUMPTION
+
+4.1.
+
+The requirements for the determination of fuel consumption shall be those set out in paragraph 4 of Annex 12 to UNECE Regulation No 49.
+
+**No longer in force.**
+
+[^c000015]4.2.
+
+**Data evaluation**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]4.3.
+
+**Calculation of cycle averaged fuel consumption**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]4.4.
+
+**Calculation of brake specific fuel consumption**
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.4.1.
+
+*WHTC*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.4.2.
+
+*WHSC*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5\.
+
+Provisions on CO<sub> 2 </sub> emissions and fuel consumption for extension of a GB type-approval[^key-b2da18c802c6398813248f6307ab0416] for a vehicle type-approved under Regulation (EC) No 595/2009 and this Regulation with a reference mass exceeding 2 380 kg but not exceeding 2 610 kg.
+
+5.1.
+
+The provisions on CO<sub> 2 </sub> emissions and fuel consumption for extension of a type-approval for a vehicle type-approved under this Regulation with a reference mass exceeding 2 380 kg but not exceeding 2 610 kg, shall be those set out in Appendix 1 of Annex 12 to UNECE Regulation No 49, with the exceptions provided for in points 5.1.1 and 5.1.2 of this Regulation.
+
+5.1.1.
+
+Paragraph A.1.1.1 of Appendix 1 of Annex 12 to UNECE Regulation No 49 shall be understood as follows:
+
+A.1.1.1. This Appendix sets out the provisions and test procedures for reporting CO<sub> 2 </sub> emissions and fuel consumption for extension of a GB type-approval[^key-e23339ad11e429886e20bde893cff5d0] for a vehicle type-approved under Regulation (EC) No 595/2009 and this Regulation, to a vehicle with a reference mass exceeding 2 380 kg but not exceeding 2 610 kg.
+
+5.1.2.[^c000017]
+
+Paragraph A.1.2.1 of Appendix 1 of Annex 12 to UNECE Regulation No 49 shall be understood as follows:
+
+- In order to receive an extension of a GB type-approval[^key-38af195085bc047144e3b4d99f15d28c] for a vehicle in respect of its engine type-approved under Regulation (EC) No 595/2009 and this Regulation to a vehicle with a reference mass exceeding 2 380 kg but not exceeding 2 610 kg, the manufacturer shall meet the requirements relating to the measurement of CO<sub> 2 </sub> emissions and fuel consumption established by the type 1 emissions test procedures set out in sub-annex 6 to Annex XXI to Commission Regulation (EU) 2017/1151 with only speed trace and RCB corrections. The CO<sub> 2 </sub> emissions shall be determined in accordance with table A6/2 not taking into account the criteria emission test results, where the vehicle during testing shall apply no AES and be considered as VH. The test reports specified in Appendices 8a part I until point 2.1. included and 8b of Annex I, to Commission Regulation (EU) 2017/1151, shall be submitted to the type approval authorities including the results of pollutant emissions.
+
+  The manufacturer shall provide the type approval authority with a signed declaration that all variants and versions for which this extension is requested are in conformity with the type-approval emission requirements in Regulation (EC) No 595/2009 and that the type 1 test was performed in compliance with the previous paragraph.
+
+  Existing GB type-approvals[^key-2ea934d339c71ad2f00319850fc4ef2c] for a vehicle with a reference mass exceeding 2 380 kg but not exceeding 2 610 kg, in respect of its engine type-approved under Regulation (EC) No 595/2009, may be extended at the latest by the application date of this Regulation.
+
+  For dedicated compression ignition engines fuelled with ethanol (ED95), a fixed carbon-hydrogen-oxygen ratio shall be used for the purposes of calculating fuel consumption values, which shall be C<sub> 1 </sub>H<sub> 2,92 </sub>O<sub> 0,46 </sub>.’
+
+5.2.
+
+Extension of a type-approval under this Section shall not be possible for dual-fuel vehicles.
+
+**No longer in force.**
+
+[^c000015]Appendix 1
+
+[^c000015] **Provisions on CO<sub>2</sub> emissions and fuel consumption for extension of an EC type-approval for a vehicle type approved under Regulation (EC) No 595/2009 and this Regulation with a reference mass exceeding 2 380 kg but not exceeding 2 610 kg**
+
+[^c000015]1.
+
+INTRODUCTION
+
+[^c000015]1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.
+
+GENERAL REQUIREMENTS
+
+[^c000015]2.1.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.2.
+
+Section 5.2.4 of UN/ECE Regulation 101 referred to in point 2.3 of Annex XII to Regulation (EC) No 692/2008 shall be understood as follows:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.3.
+
+Point 1.4.3 of Annex 6 to UN/ECE Regulation 101 referred to in Section 3.3 of Annex XII to Regulation (EC) No 692/2008 shall be understood as:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX IX — SPECIFICATIONS OF REFERENCE FUELS
+
+Technical data on fuels for testing compression ignition and dual-fuel engines
+
+<table>
+<thead>
+<tr><td colspan="5">Type: Diesel (B7)</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5">The values quoted in the specifications are ‘ true values ’ . In establishment of their limit values the terms of ISO 4259 Petroleum products – Determination and application of precision data in relation to methods of test have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account; in fixing a maximum and minimum value, the minimum difference is 4R (R = reproducibility). Notwithstanding this measure, which is necessary for technical reasons, the manufacturer of fuels shall nevertheless aim at a zero value where the stipulated maximum value is 2R and at the mean value in the case of quotations of maximum and minimum limits. Should it be necessary to clarify whether a fuel meets the requirements of the specifications, the terms of ISO 4259 shall be applied.</td></tr>
+<tr><td colspan="5">The range for cetane number is not in accordance with the requirements of a minimum range of 4R. However, in the case of a dispute between fuel supplier and fuel user, the terms of ISO 4259 may be used to resolve such disputes provided replicate measurements, of sufficient number to archive the necessary precision, are made in preference to single determinations.</td></tr>
+<tr><td colspan="5">Even though oxidation stability is controlled, it is likely that shelf life will be limited. Advice shall be sought from the supplier as to storage conditions and life.</td></tr>
+<tr><td colspan="5">FAME content to meet the specification of EN 14214.</td></tr>
+</tfoot>
+<tbody>
+<tr><th rowspan="2">Parameter</th><th rowspan="2">Unit</th><th colspan="2">Limits</th><th rowspan="2">Test method</th></tr>
+<tr><th>Minimum</th><th>Maximum</th></tr>
+<tr><td>Cetane Index</td><td></td><td>46,0</td><td></td><td>EN ISO 4264</td></tr>
+<tr><td>Cetane number</td><td></td><td>52,0</td><td>56,0</td><td>EN ISO 5165</td></tr>
+<tr><td>Density at 15 °C</td><td>kg/m <sup> 3 </sup></td><td>833,0</td><td>837,0</td><td>EN ISO 12185</td></tr>
+<tr><td>Distillation:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>—<br>50 % point</td><td>°C</td><td>245,0</td><td>—</td><td>EN ISO 3405</td></tr>
+<tr><td>—<br>95 % point</td><td>°C</td><td>345,0</td><td>360,0</td><td>EN ISO 3405</td></tr>
+<tr><td>—<br>final boiling point</td><td>°C</td><td>—</td><td>370,0</td><td>EN ISO 3405</td></tr>
+<tr><td>Flash point</td><td>°C</td><td>55</td><td>—</td><td>EN ISO 2719</td></tr>
+<tr><td>Cloud point</td><td>°C</td><td>—</td><td>– 10</td><td>EN 23015</td></tr>
+<tr><td>Viscosity at 40 °C</td><td>mm <sup> 2 </sup> /s</td><td>2,3</td><td>3,3</td><td>EN ISO 3104</td></tr>
+<tr><td>Polycyclic aromatic hydrocarbons</td><td>% m/m</td><td>2,0</td><td>4,0</td><td>EN 12916</td></tr>
+<tr><td>Sulphur content</td><td>mg/kg</td><td>—</td><td>10,0</td><td>EN ISO 20846<br>EN ISO 20884</td></tr>
+<tr><td>Copper corrosion 3hrs, 50 °C</td><td></td><td>—</td><td>Class 1</td><td>EN ISO 2160</td></tr>
+<tr><td>Conradson carbon residue (10 % DR)</td><td>% m/m</td><td>—</td><td>0,2</td><td>EN ISO 10370</td></tr>
+<tr><td>Ash content</td><td>% m/m</td><td>—</td><td>0,01</td><td>EN ISO 6245</td></tr>
+<tr><td>Total contamination</td><td>mg/kg</td><td>—</td><td>24</td><td>EN 12662</td></tr>
+<tr><td>Water content</td><td>mg/kg</td><td>—</td><td>200</td><td>EN ISO 12937</td></tr>
+<tr><td>Acid number</td><td>mg KOH/g</td><td>—</td><td>0,1</td><td>EN ISO 6618</td></tr>
+<tr><td>Lubricity (HFRR wear scan diameter at 60 °C)</td><td>μm</td><td>—</td><td>400</td><td>EN ISO 12156</td></tr>
+<tr><td>Oxidation stability at 110 °C</td><td>h</td><td>20,0</td><td></td><td>EN 15751</td></tr>
+<tr><td>FAME</td><td>% v/v</td><td>6,0</td><td>7,0</td><td>EN 14078</td></tr>
+</tbody>
+</table>
+
+[^c000018][^f00063][^f00064][^f00065][^f00066]
+
+<table>
+<thead>
+<tr><td colspan="5"><strong>Type: Ethanol for dedicated compression-ignition engines (ED95)</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5">Additives, such as cetane improver as specified by the engine manufacturer, may be added to the ethanol fuel, as long as no negative side effects are known. If these conditions are satisfied, the maximum allowed amount is 10 % m/m.</td></tr>
+<tr><td colspan="5">The values quoted in the specifications are ‘true values’. In establishment of their limit values the terms of ISO 4259 Petroleum products — Determination and application of precision data in relation to methods of test have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account; in fixing a maximum and minimum value, the minimum difference is 4R (R = reproducibility). Notwithstanding this measure, which is necessary for technical reasons, the manufacturer of fuels shall nevertheless aim at a zero value where the stipulated maximum value is 2R and at the mean value in the case of quotations of maximum and minimum limits. Should it be necessary to clarify whether a fuel meets the requirements of the specifications, the terms of ISO 4259 shall be applied.</td></tr>
+<tr><td colspan="5">Equivalent EN/ISO methods will be adopted when issued for properties listed above.</td></tr>
+<tr><td colspan="5">Should it be necessary to clarify whether a fuel meets the requirements of the specifications, the terms of EN 15489 shall be applied.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Parameter</th><th>Unit</th><th colspan="2">Limits</th><th rowspan="2">Test method</th></tr>
+<tr><th></th><th></th><th>Minimum</th><th>Maximum</th></tr>
+<tr><td>Total alcohol (Ethanol incl. content on higher saturated alcohols)</td><td>% m/m</td><td>92,4</td><td></td><td>EN 15721</td></tr>
+<tr><td>Other higher saturated mono-alcohols (C<sub>3</sub>-C<sub>5</sub>)</td><td>% m/m</td><td></td><td>2,0</td><td>EN 15721</td></tr>
+<tr><td>Methanol</td><td>% m/m</td><td></td><td>0,3</td><td>EN 15721</td></tr>
+<tr><td>Density at 15 °C</td><td>kg/m<sup>3</sup></td><td>793,0</td><td>815,0</td><td>EN-ISO 12185</td></tr>
+<tr><td>Acidity, calculated as acetic acid</td><td>% m/m</td><td></td><td>0,0025</td><td>EN 15491</td></tr>
+<tr><td>Appearance</td><td></td><td colspan="2">Bright and clear</td><td></td></tr>
+<tr><td>Flashpoint</td><td>°C</td><td>10</td><td></td><td>EN 3679</td></tr>
+<tr><td>Dry residue</td><td>mg/kg</td><td></td><td>15</td><td>EN 15691</td></tr>
+<tr><td>Water content</td><td>% m/m</td><td></td><td>6,5</td><td>EN 15489<br>EN-ISO 12937<br>EN 15692</td></tr>
+<tr><td>Aldehydes calculated as acetaldehyde</td><td>% m/m</td><td></td><td>0,0050</td><td>ISO 1388-4</td></tr>
+<tr><td>Esters calculated as ethylacetat</td><td>% m/m</td><td></td><td>0,1</td><td>ASTM D1617</td></tr>
+<tr><td>Sulphur content</td><td>mg/kg</td><td></td><td>10,0</td><td>EN 15485<br>EN 15486</td></tr>
+<tr><td>Sulphates</td><td>mg/kg</td><td></td><td>4,0</td><td>EN 15492</td></tr>
+<tr><td>Particulate contamination</td><td>mg/kg</td><td></td><td>24</td><td>EN 12662</td></tr>
+<tr><td>Phosphorus</td><td>mg/l</td><td></td><td>0,2</td><td>EN 15487</td></tr>
+<tr><td>Inorganic chloride</td><td>mg/kg</td><td></td><td>1,0</td><td>EN 15484 or EN 15492</td></tr>
+<tr><td>Copper</td><td>mg/kg</td><td></td><td>0,1</td><td>EN 15488</td></tr>
+<tr><td>Electrical Conductivity</td><td>μS/cm</td><td></td><td>2,5</td><td>DIN 51627-4 or<br>prEN 15938</td></tr>
+</tbody>
+</table>
+
+[^f00067][^f00068][^f00069][^f00070]
+
+**Technical data on fuels for testing positive ignition and dual-fuel engines**
+
+<table>
+<thead>
+<tr><td colspan="5">Type: Petrol (E10)</td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5">The values quoted in the specifications are ‘ true values ’ . In establishment of their limit values the terms of ISO 4259 Petroleum products - Determination and application of precision data in relation to methods of test have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account; in fixing a maximum and minimum value, the minimum difference is 4R (R = reproducibility). Notwithstanding this measure, which is necessary for technical reasons, the manufacturer of fuels shall nevertheless aim at a zero value where the stipulated maximum value is 2R and at the mean value in the case of quotations of maximum and minimum limits. Should it be necessary to clarify whether a fuel meets the requirements of the specifications, the terms of ISO 4259 shall be applied.</td></tr>
+<tr><td colspan="5">A correction factor of 0,2 for MON and RON shall be subtracted for the calculation of the final result in accordance with EN 228:2008.</td></tr>
+<tr><td colspan="5">The fuel may contain oxidation inhibitors and metal deactivators normally used to stabilise refinery gasoline streams, but detergent/dispersive additives and solvent oils shall not be added.</td></tr>
+<tr><td colspan="5">Ethanol is the only oxygenate that shall be intentionally added to the reference fuel. The ethanol used shall conform to EN 15376.</td></tr>
+<tr><td colspan="5">The actual sulphur content of the fuel used for the Type 6 test shall be reported.</td></tr>
+<tr><td colspan="5">There shall be no intentional addition of compounds containing phosphorus, iron, manganese, or lead to this reference fuel.</td></tr>
+<tr><td colspan="5">( <sup> 2 </sup> ) Equivalent EN/ISO methods will be adopted when issued for properties listed above.</td></tr>
+</tfoot>
+<tbody>
+<tr><th rowspan="2">Parameter</th><th rowspan="2">Unit</th><th colspan="2">Limits</th><th rowspan="2">Test method</th></tr>
+<tr><th>Minimum</th><th>Maximum</th></tr>
+<tr><td>Research octane number, RON</td><td></td><td>95,0</td><td>98,0</td><td>EN ISO 5164</td></tr>
+<tr><td>Motor octane number, MON</td><td></td><td>85,0</td><td>89,0</td><td>EN ISO 5163</td></tr>
+<tr><td>Density at 15 °C</td><td>kg/m <sup> 3 </sup></td><td>743,0</td><td>756,0</td><td>EN ISO 12185</td></tr>
+<tr><td>Vapour pressure (DVPE)</td><td>kPa</td><td>56,0</td><td>60,0</td><td>EN 13016-1</td></tr>
+<tr><td>Water content</td><td></td><td colspan="2">max 0,05 % v/v<br>Appearance at – 7 °C: clear and bright</td><td>EN 12937</td></tr>
+<tr><td>Distillation:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>—<br>evaporated at 70 °C</td><td>% v/v</td><td>34,0</td><td>46,0</td><td>EN ISO 3405</td></tr>
+<tr><td>—<br>evaporated at 100 °C</td><td>% v/v</td><td>54,0</td><td>62,0</td><td>EN ISO 3405</td></tr>
+<tr><td>—<br>evaporated at 150 °C</td><td>% v/v</td><td>86,0</td><td>94,0</td><td>EN ISO 3405</td></tr>
+<tr><td>—<br>final boiling point</td><td>°C</td><td>170</td><td>195</td><td>EN ISO 3405</td></tr>
+<tr><td>Residue</td><td>% v/v</td><td>—</td><td>2,0</td><td>EN ISO 3405</td></tr>
+<tr><td>Hydrocarbon analysis:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>—<br>olefins</td><td>% v/v</td><td>6,0</td><td>13,0</td><td>EN 22854</td></tr>
+<tr><td>—<br>aromatics</td><td>% v/v</td><td>25,0</td><td>32,0</td><td>EN 22854</td></tr>
+<tr><td>—<br>benzene</td><td>% v/v</td><td>—</td><td>1,0</td><td>EN 22854 EN 238</td></tr>
+<tr><td>—<br>saturates</td><td>% v/v</td><td colspan="2">report</td><td>EN 22854</td></tr>
+<tr><td>Carbon/hydrogen ratio</td><td></td><td colspan="2">report</td><td></td></tr>
+<tr><td>Carbon/oxygen ratio</td><td></td><td colspan="2">report</td><td></td></tr>
+<tr><td>Induction Period</td><td>minutes</td><td>480</td><td>—</td><td>EN ISO 7536</td></tr>
+<tr><td>Oxygen content</td><td>% m/m</td><td>3,3</td><td>3,7</td><td>EN 22854</td></tr>
+<tr><td>Solvent washed gum (Existent gum content)</td><td>mg/100 ml</td><td>—</td><td>4</td><td>EN ISO 6246</td></tr>
+<tr><td>Sulphur content</td><td>mg/kg</td><td>—</td><td>10</td><td>EN ISO 20846<br>EN ISO 20884</td></tr>
+<tr><td>Copper corrosion 3hrs, 50 °C</td><td></td><td>—</td><td>class 1</td><td>EN ISO 2160</td></tr>
+<tr><td>Lead content</td><td>mg/l</td><td>—</td><td>5</td><td>EN 237</td></tr>
+<tr><td>Phosphorus content</td><td>mg/l</td><td>—</td><td>1,3</td><td>ASTM D 3231</td></tr>
+<tr><td>Ethanol</td><td>% v/v</td><td>9,0</td><td>10,0</td><td>EN 22854</td></tr>
+</tbody>
+</table>
+
+[^f00071][^f00073][^f00073][^f00074][^f00075][^f00076][^f00077][^f00075]
+
+<table>
+<thead>
+<tr><td colspan="5"><strong>Type: Ethanol (E85)</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5">The values quoted in the specifications are ‘true values’. In establishment of their limit values the terms of ISO 4259 Petroleum products — Determination and application of precision data in relation to methods of test have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account; in fixing a maximum and minimum value, the minimum difference is 4R (R = reproducibility). Notwithstanding this measure, which is necessary for technical reasons, the manufacturer of fuels shall nevertheless aim at a zero value where the stipulated maximum value is 2R and at the mean value in the case of quotations of maximum and minimum limits. Should it be necessary to clarify whether a fuel meets the requirements of the specifications, the terms of ISO 4259 shall be applied.</td></tr>
+<tr><td colspan="5">The actual sulphur content of the fuel used for the emission tests shall be reported.</td></tr>
+<tr><td colspan="5">Ethanol to meet specification of EN 15376 is the only oxygenate that shall be intentionally added to this reference fuel.</td></tr>
+<tr><td colspan="5">The unleaded petrol content can be determined as 100 minus the sum of the percentage content of water, alcohols, MTBE and ETBE.</td></tr>
+<tr><td colspan="5">There shall be no intentional addition of compounds containing phosphorus, iron, manganese, or lead to this reference fuel.</td></tr>
+</tfoot>
+<tbody>
+<tr><th rowspan="2">Parameter</th><th rowspan="2">Unit</th><th colspan="2">Limits</th><th rowspan="2">Test method</th></tr>
+<tr><th>Minimum</th><th>Maximum</th></tr>
+<tr><td>Research octane number, RON</td><td></td><td>95,0</td><td>—</td><td>EN-ISO 5164</td></tr>
+<tr><td>Motor octane number, MON</td><td></td><td>85,0</td><td>—</td><td>EN-ISO 5163</td></tr>
+<tr><td>Density at 15 °C</td><td>kg/m<sup>3</sup></td><td colspan="2">Report</td><td>ISO 3675</td></tr>
+<tr><td>Vapour pressure</td><td>kPa</td><td>40,0</td><td>60,0</td><td>EN-ISO 13016-1 (DVPE)</td></tr>
+<tr><td>Sulphur content</td><td>mg/kg</td><td>—</td><td>10</td><td>EN 15485 or<br>EN 15486</td></tr>
+<tr><td>Oxidation stability</td><td>Minutes</td><td>360</td><td></td><td>EN-ISO 7536</td></tr>
+<tr><td>Existent gum content (solvent washed)</td><td>mg/100 ml</td><td>—</td><td>5</td><td>EN-ISO 6246</td></tr>
+<tr><td>Appearance<br>This shall be determined at ambient temperature or 15 °C whichever is higher.</td><td></td><td colspan="2">Clear and bright, visibly free of suspended or precipitated contaminants</td><td>Visual inspection</td></tr>
+<tr><td>Ethanol and higher alcohols</td><td>% v/v</td><td>83</td><td>85</td><td>EN 1601<br>EN 13132<br>EN 14517<br>E DIN 51627-3</td></tr>
+<tr><td>Higher alcohols (C<sub>3</sub>-C<sub>8</sub>)</td><td>% v/v</td><td>—</td><td>2,0</td><td>E DIN 51627-3</td></tr>
+<tr><td>Methanol</td><td>% v/v</td><td></td><td>1,0</td><td>E DIN 51627-3</td></tr>
+<tr><td>Petrol</td><td>% v/v</td><td colspan="2">Balance</td><td>EN 228</td></tr>
+<tr><td>Phosphorus</td><td>mg/l</td><td colspan="2">0,2</td><td>EN 15487</td></tr>
+<tr><td>Water content</td><td>% v/v</td><td></td><td>0,3</td><td>EN 15489 or<br>EN 15692</td></tr>
+<tr><td>Inorganic chloride content</td><td>mg/l</td><td></td><td>1</td><td>EN 15492</td></tr>
+<tr><td>pHe</td><td></td><td>6,5</td><td>9,0</td><td>EN 15490</td></tr>
+<tr><td>Copper strip corrosion<br>(3 h at 50 °C)</td><td>Rating</td><td>Class 1</td><td></td><td>EN ISO 2160</td></tr>
+<tr><td>Acidity, (as acetic acid CH<sub>3</sub>COOH)</td><td>% m/m<br>(mg/l)</td><td>—</td><td>0,005<br>(40)</td><td>EN 15491</td></tr>
+<tr><td>Electric Conductivity</td><td>μS/cm</td><td colspan="2">1,5</td><td>DIN 51627-4<br>or<br>prEN 15938</td></tr>
+<tr><td>Carbon/hydrogen ratio</td><td></td><td colspan="2">report</td><td></td></tr>
+<tr><td>Carbon/oxygen ratio</td><td></td><td colspan="2">report</td><td></td></tr>
+</tbody>
+</table>
+
+[^f00078][^f00079][^f00080][^f00081][^f00082]
+
+<table>
+<thead>
+<tr><td colspan="5"><strong>Type: LPG</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5">Balance shall be read as follows: balance = 100 - C<sub>3</sub> - &lt; C<sub>3</sub> - &gt; C<sub>4</sub>.</td></tr>
+<tr><td colspan="5">This method may not accurately determine the presence of corrosive materials if the sample contains corrosion inhibitors or other chemicals which diminish the corrosivity of the sample to the copper strip. Therefore, the addition of such compounds for the sole purpose of biasing the test method is prohibited.</td></tr>
+<tr><td colspan="5">At the request of the engine manufacturer, a higher MON could be used to perform the type-approval tests.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Parameter</th><th>Unit</th><th>Fuel A</th><th>Fuel B</th><th>Test method</th></tr>
+<tr><td>Composition:</td><td></td><td></td><td></td><td>EN 27941</td></tr>
+<tr><td>C<sub>3</sub>-content</td><td>% v/v</td><td>30 ± 2</td><td>85 ± 2</td><td></td></tr>
+<tr><td>C<sub>4</sub>-content</td><td>% v/v</td><td>Balance</td><td>Balance</td><td></td></tr>
+<tr><td>&lt; C<sub>3</sub>, &gt; C<sub>4</sub></td><td>% v/v</td><td>Maximum 2</td><td>Maximum 2</td><td></td></tr>
+<tr><td>Olefins</td><td>% v/v</td><td>Maximum 12</td><td>Maximum 15</td><td></td></tr>
+<tr><td>Evaporation residue</td><td>mg/kg</td><td>Maximum 50</td><td>Maximum 50</td><td>EN 15470</td></tr>
+<tr><td>Water at 0 °C</td><td></td><td>Free</td><td>Free</td><td>EN 15469</td></tr>
+<tr><td>Total sulphur content including odorant</td><td>mg/kg</td><td>Maximum 10</td><td>Maximum 10</td><td>EN 24260, ASTM D 3246<br>ASTM 6667</td></tr>
+<tr><td>Hydrogen sulphide</td><td></td><td>None</td><td>None</td><td>EN-ISO 8819</td></tr>
+<tr><td>Copper strip corrosion<br>(1 h at 40 °C)</td><td>Rating</td><td>Class 1</td><td>Class 1</td><td>ISO 6251</td></tr>
+<tr><td>Odour</td><td></td><td>Characteristic</td><td>Characteristic</td><td></td></tr>
+<tr><td>Motor octane number</td><td></td><td>Minimum 89,0</td><td>Minimum 89,0</td><td>EN 589 Annex B</td></tr>
+</tbody>
+</table>
+
+[^f00083][^f00083][^f00084][^f00085]
+
+<table>
+<thead>
+<tr><td colspan="6"><strong>Type: Natural gas/biomethane</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="6"><em>Notes:</em></td></tr>
+<tr><td colspan="6">Inerts + C <sub> 2+ </sub></td></tr>
+<tr><td colspan="6">Value to be determined at standard conditions 293,2 K (20 °C) and 101,3 kPa.</td></tr>
+</tfoot>
+<tbody>
+<tr><th rowspan="2">Characteristics</th><th rowspan="2">Units</th><th rowspan="2">Basis</th><th colspan="2">Limits</th><th rowspan="2">Test method</th></tr>
+<tr><th>minimum</th><th>maximum</th></tr>
+<tr><th colspan="6"><strong>Reference fuel G <sub> R </sub></strong></th></tr>
+<tr><td>Composition:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Methane</td><td></td><td>87</td><td>84</td><td>89</td><td></td></tr>
+<tr><td>Ethane</td><td></td><td>13</td><td>11</td><td>15</td><td></td></tr>
+<tr><td>Balance</td><td>% mole</td><td>—</td><td>—</td><td>1</td><td>ISO 6974</td></tr>
+<tr><td>Sulphur content</td><td>mg/m <sup> 3 </sup></td><td>—</td><td></td><td>10</td><td>ISO 6326-5</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^f00086][^f00087]
+
+<table>
+<tfoot>
+<tr><td colspan="6"><em>Notes:</em></td></tr>
+<tr><td colspan="6">Inerts (different from N <sub> 2 </sub> ) + C <sub> 2 </sub> + C <sub> 2+ </sub></td></tr>
+<tr><td colspan="6">Value to be determined at 293,2 K (20 °C) and 101,3 kPa.</td></tr>
+</tfoot>
+<tbody>
+<tr><th colspan="6"><strong>Reference fuel G <sub> 23 </sub></strong></th></tr>
+<tr><td>Composition:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Methane</td><td></td><td>92,5</td><td>91,5</td><td>93,5</td><td></td></tr>
+<tr><td>Balance</td><td>% mole</td><td>—</td><td>—</td><td>1</td><td>ISO 6974</td></tr>
+<tr><td>N <sub> 2 </sub></td><td>% mole</td><td>7,5</td><td>6,5</td><td>8,5</td><td></td></tr>
+<tr><td>Sulphur content</td><td>mg/m <sup> 3 </sup></td><td>—</td><td>—</td><td>10</td><td>ISO 6326-5</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^f00088][^f00089]
+
+<table>
+<tfoot>
+<tr><td colspan="6"><em>Notes:</em></td></tr>
+<tr><td colspan="6">Inerts (different from N <sub> 2 </sub> ) + C <sub> 2 </sub> + C <sub> 2+ </sub></td></tr>
+<tr><td colspan="6">Value to be determined at 293,2 K (20 °C) and 101,3 kPa.</td></tr>
+</tfoot>
+<tbody>
+<tr><th colspan="6"><strong>Reference fuel G <sub> 25 </sub></strong></th></tr>
+<tr><td>Composition:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Methane</td><td>% mole</td><td>86</td><td>84</td><td>88</td><td></td></tr>
+<tr><td>Balance</td><td>% mole</td><td>—</td><td>—</td><td>1</td><td>ISO 6974</td></tr>
+<tr><td>N <sub> 2 </sub></td><td>% mole</td><td>14</td><td>12</td><td>16</td><td></td></tr>
+<tr><td>Sulphur content</td><td>mg/m <sup> 3 </sup></td><td>—</td><td>—</td><td>10</td><td>ISO 6326-5</td></tr>
+</tbody>
+</table>
+
+[^f00090][^f00091]
+
+<table>
+<tfoot>
+<tr><td colspan="6"><em>Notes:</em></td></tr>
+<tr><td colspan="6">Inerts (different from N <sub> 2 </sub> ) + C <sub> 2 </sub> + C <sub> 2 </sub> +.</td></tr>
+<tr><td colspan="6">Value to be determined at 293,2 K (20 °C) and 101,3 kPa.</td></tr>
+<tr><td colspan="6">Value to be determined at 273,2 K (0 °C) and 101,3 kPa.</td></tr>
+</tfoot>
+<tbody>
+<tr><th colspan="6"><strong>Reference fuel G <sub> 20 </sub></strong></th></tr>
+<tr><td>Composition:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Methane</td><td>% mole</td><td>100</td><td>99</td><td>100</td><td>ISO 6974</td></tr>
+<tr><td>Balance</td><td>% mole</td><td>—</td><td>—</td><td>1</td><td>ISO 6974</td></tr>
+<tr><td>N <sub> 2 </sub></td><td>% mole</td><td></td><td></td><td></td><td>ISO 6974</td></tr>
+<tr><td>Sulphur content</td><td>mg/m <sup> 3 </sup></td><td>—</td><td>—</td><td>10</td><td>ISO 6326-5</td></tr>
+<tr><td>Wobbe Index (net)</td><td>MJ/m <sup> 3 </sup></td><td>48,2</td><td>47,2</td><td>49,2</td><td></td></tr>
+</tbody>
+</table>
+
+[^f00092][^f00093][^f00094]
+
+## ANNEX X — ON-BOARD DIAGNOSTICS
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex sets out the functional aspects of on-board diagnostic (OBD) systems for the control of emissions from engine systems which are covered by this Regulation.
+
+2\.
+
+GENERAL REQUIREMENTS
+
+2.1.
+
+The general requirements shall be those set out in paragraph 2 of Annex 9A to UNECE Regulation No 49, with the exceptions provided for in point 2.2.1 of this Regulation.
+
+2.1.1.
+
+Paragraphs 2.3.2.1 and 2.3.2.2 of Annex 9A to UNECE Regulation No 49 shall be understood as follows:
+
+> - The performance of the particulate after treatment device, including the filtration and continuous regeneration processes, shall be monitored against the OBD threshold limit specified in Table 1 of this Annex.
+> - Before the dates specified in Article 4(8) of this Regulation and in the case of a wall-flow diesel particulate filter (DPF), the manufacturer may choose to apply the performance monitoring requirements set out in Appendix 8 of Annex 9B to UNECE Regulation No 49 instead of the requirements set out in paragraph 2.3.2.1, if he can demonstrate with technical documentation that in case of deterioration there is a positive correlation between the loss of filtration efficiency and the loss of pressure drop (delta pressure) across the DPF under the operating conditions of the engine specified in the tests described in Appendix 8 of Annex 9B to UNECE Regulation No 49.
+
+[^key-c62434f3407e1fa0c142f36ab1138ce2]2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]2.3.
+
+**Additional provisions concerning monitoring requirements**
+
+[^c000015]2.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.3.1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.3.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.3.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.4.
+
+**Alternative approval**
+
+2.4.1.
+
+If requested by the manufacturer, for vehicles of categories M<sub> 2 </sub> and N<sub> 1 </sub>, for vehicles of categories M<sub> 1 </sub> and N<sub> 2 </sub> with a technically permissible maximum laden mass not exceeding 7,5 tonnes, and for vehicles of category M<sub> 3 </sub> Class I, Class II and Class A and Class B as defined in Section 2 (Definitions) of UN Regulation 107, as amended by the 07 series of amendments[^key-63bbbbb9203dfcec60fe5f4b46671ad7] with a permissible mass not exceeding 7,5 tonnes, compliance with the requirements set out in Annex XI to Regulation (EC) No 692/2008 shall be considered equivalent to the compliance with this Annex, in accordance with the following equivalences:
+
+2.4.1.1.
+
+The OBD standard Euro 6 – plus IUPR in Table 1 of Appendix 6 of Annex I to Regulation (EC) No 692/2008 shall be considered equivalent to the character A of Table 1 of Appendix 9 of Annex I to this Regulation.
+
+2.4.1.2.
+
+The OBD standard Euro 6 – 1 in Table 1 of Appendix 6 of Annex I to Regulation (EC) No 692/2008 shall be considered equivalent to the character B of Table 1 of Appendix 9 of Annex I to this Regulation.
+
+2.4.1.3.
+
+The OBD standard Euro 6-2 in Table 1 of Appendix 6 of Annex I to Regulation (EC) No 692/2008 shall be considered equivalent to the characters C and D of Table 1 of Appendix 9 of Annex I to this Regulation.
+
+2.4.1.a.
+
+If such alternative approval is used, the information related to OBD systems in points 3.2.12.2.7.1 to 3.2.12.2.7.4 of Part 2 of Appendix 4 to Annex I is replaced by the information in point 3.2.12.2.7 of Appendix 3 to Annex I to Regulation (EC) No 692/2008.
+
+2.4.1.b.
+
+The equivalences set out in point 2.4.1. shall apply in the following manner:
+
+- The OTL’s and dates referred to in Table 1 of Appendix 9 of Annex I to this Regulation and relevant to the assigned character for which the type-approval is sought shall apply.
+- The requirements on NO<sub> x </sub> control measures set out in points 2.1.2.2.1 to 2.1.2.2.5 of Annex XIII shall apply.
+
+2.4.2.
+
+*Small series production *(affected by repeal, see note)*[^c000006]*
+
+As an alternative to the requirements set out in Section 4 of Annex 9B to UN/ECE Regulation No 49 and those described in this Annex, engine manufacturers whose world-wide annual production of engines within an engine type subject to this Regulation is less than 500 engines per year, may obtain GB type-approval[^key-59e4bc79579bef6068ecde770ff3c9fb] on the basis of the other requirements of this Regulation when the emission control components of the engine system are at least monitored for circuit continuity, and for rationality and plausibility of sensor outputs, and when the aftertreatment system is at least monitored for total functional failure. Engine manufacturers whose world-wide annual production of engines within an engine type subject to this Regulation is less than 50 engines per year, may obtain GB type-approval on the basis of the requirements of this Regulation when the emission control components of the engine system are at least monitored for circuit continuity, and for rationality and plausibility of sensor outputs (component monitoring).
+
+A manufacturer shall not be permitted to use the alternative provisions specified in this point for more than 500 engines per year.
+
+[^c000006]2.4.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-a27b11ab7f1a3cae9ff52610dfd92f6e]2.4.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.5.
+
+**Conformity of production**
+
+The OBD system is subject to the requirements for conformity of production specified in Regulation (EU) 2018/858[^key-c6a5816b6ea3f0576555ecb87b160501].
+
+If the approval authority decides that verification of the conformity of production of the OBD system is required, the verification shall be conducted in accordance with the requirements specified in Annex I to this Regulation.
+
+2.6.
+
+**Dual-fuel engines and vehicles**
+
+2.6.1.
+
+Dual-fuel engines and vehicles shall comply with the requirements applicable to diesel engines specified in this Annex, regardless of whether operating in dual-fuel or diesel mode.
+
+2.6.2.
+
+In addition to point 2.6.1, dual-fuel engines and vehicles shall comply with the OBD requirements set out in paragraph 7 of Annex 15 to UNECE Regulation No 49.
+
+2.6.3.
+
+The provisions for alternative approval set out in point 2.4.1 shall not apply in the case of dual-fuel vehicles and engines.
+
+3\.
+
+PERFORMANCE REQUIREMENTS
+
+3.1.
+
+The performance requirements shall be those set out in Section 5 of Annex 9B to UN/ECE Regulation No 49.
+
+3.2.
+
+**OBD threshold limits**
+
+3.2.1.
+
+The OBD threshold limits (hereinafter ‘OTLs’) applicable to the OBD system are those specified in the rows ‘general requirements’ of Table 1 for compression ignition engines and of Table 2 for positive ignition engines.
+
+3.2.2.
+
+Until the end of the phase-in period set out in Article 4(7), the OBD threshold limits specified in rows ‘phase-in period’ of Table 1 for compression ignition engines and of Table 2 for positive ignition engines shall apply.
+
+*Table 1*
+
+**OTLs (compression ignition engines, including dual-fuel engines)**
+
+<table>
+<tbody>
+<tr><th></th><th colspan="2">Limit in mg/kWh</th></tr>
+<tr><th></th><th>NO <sub> x </sub></th><th>PM Mass</th></tr>
+<tr><th>phase-in period</th><td>1 500</td><td>25</td></tr>
+<tr><th>general requirements</th><td>1 200</td><td>25</td></tr>
+</tbody>
+</table>
+
+*Table 2*
+
+**OTLs (positive ignition engines)**
+
+<table>
+<tfoot>
+<tr><td colspan="3">The limit shall apply as from the dates set out in row B of Table 1 in Appendix 9 to Annex I.</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th colspan="2">Limit in mg/kWh</th></tr>
+<tr><th></th><th>NO <sub> x </sub></th><th>CO</th></tr>
+<tr><th>phase-in period</th><td>1 500</td><td>7 500</td></tr>
+<tr><th>general requirements</th><td>1 200</td><td>7 500</td></tr>
+</tbody>
+</table>
+
+[^f00096]
+
+4\.
+
+DEMONSTRATION REQUIREMENTS
+
+4.1.
+
+The demonstration requirements shall be those set out in paragraph 4 of Annex 9A to UNECE Regulation No 49.
+
+[^c000015]4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5\.
+
+DOCUMENTATION REQUIREMENTS
+
+5.1.
+
+The documentation requirements shall be those set out in paragraph 5 of Annex 9A to UNECE Regulation No 49. The documentation package shall be provided in accordance with the provisions of Article 5(3) and Section 8 of Annex I to this Regulation.
+
+6\.
+
+IN-USE PERFORMANCE REQUIREMENTS
+
+6.1.
+
+The in-use performance requirements shall be those set out in paragraph 6 of Annex 9A to UNECE Regulation No 49, with the exceptions set out in points 6.1.1 to 6.1.3 of this Regulation.
+
+6.1.1.
+
+The documentation package shall be provided in accordance with the provisions of Article 5(3) and Section 8 of Annex 1 to this Regulation.
+
+6.1.2.
+
+Minimum in-use performance ratio
+
+Paragraph 6.2.2 of Annex 9A to UNECE Regulation No 49 shall be understood as follows:
+
+> The value of minimum in-use performance ratio IUPR(min) is 0.1 for all monitors.
+
+6.1.3.
+
+The conditions set out in paragraph A.1.5 of Appendix 1 of UNECE Regulation No 49 shall be subjected to review after the end of the phase-in period specified in Article 4(7) of this Regulation.
+
+6.2.
+
+Assessment of the in-use performance during the phase-in period
+
+6.2.1.
+
+During the phase-in period set out in Article 4(7) the assessment of the in-use performance of OBD systems shall be conducted in accordance with the provisions set out in Appendix 5 of this Annex.
+
+6.2.2.
+
+During the phase-in-period set out in Article 4(7), compliance of the OBD systems with the requirements set out in paragraph 6.2.3 of Annex 9A to UNECE Regulation No 49 is not mandatory.
+
+[^c000015]6.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]6.3.
+
+**Documentation requirements**
+
+[^c000015]6.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.3.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]6.4.
+
+**Statement of OBD in-use Performance compliance**
+
+6.4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.4.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.4.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]6.5.
+
+**Assessment of the in-use performance**
+
+6.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.5.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.5.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.5.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.5.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.5.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.5.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.5.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.5.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]Appendix 1
+
+[^c000015]**Additional monitoring requirements**
+
+[^c000015]1.
+
+LOW EGR FLOW
+
+[^c000015]1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.
+
+EGR COOLER UNDERPERFORMANCE
+
+[^c000015]2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.
+
+LOW BOOST PRESSURE
+
+[^c000015]3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.
+
+MALFUNCTIONING INJECTORS
+
+[^c000015]4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]Appendix 2
+
+[^c000015]**Performance monitoring**
+
+[^c000015]1.
+
+GENERAL
+
+[^c000015]1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.
+
+DEMONSTRATION OF PERFORMANCE MONITORING
+
+[^c000015]2.1.
+
+**Approval of the failure classification**
+
+[^c000015]2.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.
+
+**Approval of the performance monitoring selected by the manufacturer**
+
+[^c000015]2.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.2.
+
+The performance threshold selected by the manufacturer for the monitor under consideration shall be determined on the parent engine of the OBD engine family during a qualification test performed as follows:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.
+
+**Qualification of a deteriorated component**
+
+[^c000015]2.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.
+
+**Demonstration of the OBD performance**
+
+[^c000015]2.4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]Appendix 3
+
+[^c000015]**Demonstration requirements in case of performance monitoring of a wall-flow diesel particulate filter**
+
+[^c000015]1.
+
+GENERAL
+
+[^c000015]1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]1.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.
+
+QUALIFICATION TEST
+
+[^c000015]2.1.
+
+**Principle**
+
+[^c000015]2.1.1.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.2.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.
+
+**Qualification process**
+
+[^c000015]2.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.
+
+**Demonstration of the OBD performance**
+
+[^c000015]2.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]Appendix 4
+
+[^c000015]**Assessment of the in-use performance of the on-board diagnostic system**
+
+[^c000015]1.
+
+GENERAL
+
+[^c000015]1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.
+
+PROCEDURE FOR DEMONSTRATING OBD IN-USE PERFORMANCE
+
+[^c000015]2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.
+
+OBD IN-USE PERFORMANCE DATA
+
+[^c000015]3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.
+
+ENGINE OR VEHICLE SELECTION
+
+[^c000015]4.1.
+
+**Engine selection**
+
+[^c000015]4.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.
+
+**Vehicle selection**
+
+[^c000015]4.2.1.
+
+*Vehicle segments*
+
+[^c000015]4.2.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.1.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.1.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.2.
+
+*Vehicle qualification*
+
+[^c000015]4.2.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.2.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.2.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.
+
+IN-USE PERFORMANCE SURVEYS
+
+[^c000015]5.1.
+
+**Collection of in-use performance data**
+
+[^c000015]5.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.2.
+
+**Assessment of the in-use performance**
+
+[^c000015]5.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.
+
+REPORT TO THE APPROVAL AUTHORITY
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Appendix 5
+
+**Assessment of the in-use performance of the on-board diagnostic system during the phase-in period**
+
+1\.
+
+GENERAL
+
+1.1.
+
+This Appendix specifies the process to be followed for the in-use performance assessment of the OBD system as regards the provisions set out in Section 6 during the phase-in period set out in Article 4(7).
+
+2\.
+
+PROCEDURE FOR OBD IN-USE PERFORMANCE ASSESSMENT
+
+2.1.
+
+The in-use performance assessment during the phase-in period set out in Article 4(7) shall consist of a survey programme including at least two in-use performance surveys, each of 9 months duration. These two surveys shall be completed not later than by 1 July 2015.
+
+2.2.
+
+Each manufacturer’s first survey shall start when the first complete or completed vehicle fitted with an engine produced by that manufacturer and type-approved according to this Regulation is put into service.
+
+2.3.
+
+The surveys shall be organised and conducted by each manufacturer, in close cooperation with the approval authority that granted the type-approval of the vehicles or engines concerned.
+
+2.4.
+
+**Data Handling During the Phase-In Period set out in Article 4(7)**
+
+2.4.1.
+
+In order to achieve the aim of the phase-in period set out in Article 4(7) with respect to improvements in the assessment of the OBD in-use performance requirements set out in Appendix 4 of this Annex, manufacturers shall provide approval authorities [^key-4acfb8d72755426ecee3d872b769878d]... with following information:
+
+- ((a)) the IUPR data that manufacturers are required to supply in accordance with Section 6 of this Appendix;
+- ((b)) additional OBD information that manufacturers are required to supply by this Regulation and that may or may not be considered to be confidential;
+- ((c)) additional data provided voluntarily by the manufacturer as an aid to achieving the aim of the phase-in period, and which may be considered to be commercially sensitive by the manufacturer.
+
+2.4.2.
+
+The passing of information considered confidential or commercially sensitive under the terms of this Regulation falling into the category referred to in points (b) or (c) of Section 2.4.1 to third parties other than those mentioned in Section 2.4.1 and 2.4.3 shall be subject to the manufacturer’s agreement.
+
+2.4.3.
+
+Examples of the kinds of aspects of the complementary data within the category defined in point (c) of Section 2.4.1 that might reasonably be thought to be commercially sensitive include the following:
+
+- ((a)) information that would permit the identity of either the vehicle or engine manufacturer, or of the vehicle operator, to be determined or to be inferred with reasonable confidence;
+- ((b)) information on measurement techniques that are under development.
+
+2.5.
+
+Section 2.4 of Appendix 4 shall apply to the problems posed by faulty or non-conformant communication interfaces.
+
+2.6.
+
+Engines or vehicles where the collection of in-use performance data influences the OBD monitoring performance shall be considered to be non-compliant.
+
+3\.
+
+OBD IN-USE PERFORMANCE DATA
+
+3.1.
+
+The OBD in-use performance data to be considered for assessing the conformity of an OBD engine family shall be those recorded by the OBD system in accordance with Section 6 of Annex 9C to UN/ECE Regulation No 49, and made available in accordance with the requirements of Section 7 of that Annex.
+
+4\.
+
+VEHICLE AND ENGINE SELECTION
+
+4.1.
+
+**Engine selection**
+
+4.1.1.
+
+In each of the two surveys required by Section 2.1 only one engine family and one OBD engine family shall be considered.
+
+4.1.2.
+
+If before 1 July 2015 a manufacturer has placed more than one engine family or OBD engine family on the market, the two surveys shall cover different engine families or OBD engine families, respectively.
+
+4.1.3.
+
+One of the surveys undertaken shall be performed using vehicles equipped with engines belonging to the engine family with the highest sales volume reasonably expected after 31 December 2013, considering information provided by the manufacturer.
+
+4.1.4.
+
+Engines of a single engine family or OBD engine family may continue to be included in the same survey even if the monitoring systems with which they are equipped are of different generations or modification states.
+
+4.2.
+
+**Vehicle selection**
+
+4.2.1.
+
+The vehicle selection rules shall be those defined in Section 4.2 of Appendix 4 to this Annex.
+
+5\.
+
+IN-USE PERFORMANCE SURVEYS
+
+5.1.
+
+**Collection of in-use performance data**
+
+5.1.1.
+
+The rules concerning the collection of in-use performance data shall be those specified in Section 5.1 of Appendix 4.
+
+Notwithstanding the provisions of Section 5.1.2 of Appendix 4, the results from the group of monitors under evaluation shall be disregarded if a minimum value of 25 for its denominator has not been reached unless disregarding the data would result in there being fewer than 10 vehicles considered for the sampling in the survey during the 9 month survey duration.
+
+5.2.
+
+**Assessment of the in-use performance**
+
+5.2.1.
+
+An assessment of the in-use performance shall be made for each group of monitors within the OBD engine family considered in a vehicle segment.
+
+5.2.2.
+
+The actual performance ratio per group of monitors for an individual engine (IUPR<sub>g</sub>) shall be calculated from the numerator<sub>g</sub> and denominator<sub>g</sub> retrieved from the OBD system of the vehicle in which it is fitted.
+
+5.2.3.
+
+The assessment of the in-use performance of the OBD engine family shall be made for each group of monitors within the OBD engine family considered in a vehicle segment in accordance with the provisions of Section 6.5.1 of this Annex
+
+5.2.4.
+
+If any of the conditions mentioned in Section 6.5.1 of this Annex is not met, this shall be reported to the approval authority together with the manufacturer’s assessment of the reason for this situation arising and, if applicable, a plan of the work that the manufacturer will undertake with the aim of correcting the issue at latest for all vehicles registered for the first time in Great Britain[^key-205a0fc1fc9c950cf8c41a0e14464e23] after the end of the phase-in period.
+
+6\.
+
+REPORT TO THE APPROVAL AUTHORITY [^key-4acfb8d72755426ecee3d872b769878d]...
+
+For each survey performed in accordance with the provisions of this Appendix, the manufacturer shall provide the approval authority [^key-4acfb8d72755426ecee3d872b769878d]... with a report on the in-use performance of the OBD engine family that contains the following information:
+
+- The list of the engine families and OBD engine families considered for the survey.
+- Information concerning the vehicles considered in the survey including the following:
+  - ((a)) the total number of vehicles considered in the survey;
+  - ((b)) the number and the type of vehicle segments;
+  - ((c)) the VIN, and a short description (type-variant-version) of each vehicle;
+  - ((d)) the segment to which an individual vehicle belongs;
+  - ((e)) the usual type of duty or mode of operation of each individual vehicle;
+  - ((f)) the accumulated mileage of each individual vehicle and/or the accumulated operating hours of its engine.
+- In-use performance information for each vehicle including the following:
+  - ((a)) the numerator<sub>g</sub>, denominator<sub>g</sub>, and in-use performance ratio (IUPR<sub>g</sub>) for each group of monitors;
+  - ((b)) the general denominator, the value of the ignition cycle counter, the total engine running hours.
+- The results of the in-use performance statistics including the following:
+  - ((a)) the average value [image: see source](https://www.legislation.gov.uk/eur/2011/582/images/eur_20110582_2020-09-01_en_006) of the IUPR<sub>g</sub> values of the sample;
+  - ((b)) the number and the percentage of engines in the sample that have an IUPR<sub>g</sub> equal to or above IUPR<sub>m</sub>(min).
+
+**No longer in force.**
+
+[^c000015]Appendix 6
+
+[^c000015]**Model of an OBD in-use performance compliance statement**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX XI — GB TYPE-APPROVAL OF REPLACEMENT POLLUTION CONTROL DEVICES AS SEPARATE TECHNICAL UNIT[^key-bfe526d74679e1c4435d11bcb2c32dc7]
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex contains additional requirements for the type-approval of replacement pollution control devices as separate technical units.
+
+2\.
+
+GENERAL REQUIREMENTS
+
+2.1.
+
+**Marking**
+
+2.1.1.
+
+Each replacement pollution control device shall bear at least the following identifications:
+
+- ((a)) the manufacturer’s name or trade mark;
+- ((b)) the make and identifying part number of the replacement pollution control device as recorded in the information document issued in accordance with the model set out in Appendix 1.
+
+2.1.2.
+
+Each original replacement pollution control device shall bear at least the following identifications:
+
+- ((a)) the vehicle or engine manufacturer’s name or trade mark;
+- ((b)) the make and identifying part number of the original replacement pollution control device as recorded in the information referred to in point 2.3.
+
+2.2.
+
+**Documentation**
+
+2.2.1.
+
+Each replacement pollution control device shall be accompanied by the following information:
+
+- ((a)) the manufacturer’s name or trade mark;
+- ((b)) the make and identifying part number of the replacement pollution control device as recorded in the information document issued in accordance with the model set out in Appendix 1;
+- ((c)) the vehicles or engines including year of manufacture for which the replacement pollution control device is approved, including, where applicable, a marking to identify if the replacement pollution control device is suitable for fitting to a vehicle that is equipped with an on-board diagnostic (OBD) system;
+- ((d)) installation instructions.
+
+The information referred to in this point shall be available in the product catalogue distributed to points of sale by the manufacturer of replacement pollution control devices.
+
+2.2.2.
+
+Each original replacement pollution control device shall be accompanied by the following information:
+
+- ((a)) the vehicle or engine manufacturer’s name or trade mark;
+- ((b)) the make and identifying part number of the original replacement pollution control device as recorded in the information mentioned in Section 2.3;
+- ((c)) the vehicles or engines for which the original replacement pollution control device is of a type covered by point 3.2.12.2.1 of Appendix 4 to Annex I, including, where applicable, a marking to identify if the original replacement pollution control device is suitable for fitting to a vehicle that is equipped with an on-board diagnostic (OBD) system;
+- ((d)) installation instructions.
+
+This information referred to in this point shall be available in the product catalogue distributed to points of sale by the vehicle or engine manufacturer.
+
+2.3.
+
+For an original replacement pollution control device, the vehicle or engine manufacturer shall provide to the approval authority the necessary information in electronic format which makes the link between the relevant part numbers and the type-approval documentation.
+
+This information shall contain the following:
+
+- ((a)) make(s) and type(s) of vehicle or engine;
+- ((b)) make(s) and type(s) of original replacement pollution control device;
+- ((c)) part number(s) of original replacement pollution control device;
+- ((d)) type-approval number of the relevant engine or vehicle type(s).
+
+3\.
+
+EC SEPARATE TECHNICAL UNIT TYPE-APPROVAL MARK
+
+3.1.
+
+Every replacement pollution control device conforming to the type approved under this Regulation as a separate technical unit shall bear a GB type-approval[^key-cde7ad3016175651d89d25e73d40edca] mark.
+
+3.2.
+
+A rectangle surrounding the lower-case letter ‘g’ followed by the number 11.[^key-eb269bb6cbb11ea1862a12cbede58613]
+
+The GB type-approval[^key-d6e3e7b4faa2254a964d990f6a9d9997] mark shall also include in the vicinity of the rectangle the ‘base approval number’ contained in Section 4 of the type-approval number referred to in Annex IV to Commission Implementing Regulation (EU) 2020/683[^key-5326262c9e316584b829c1fa35b22a6d], preceded by the two figures indicating the sequence number assigned to the latest major technical amendment to Regulation (EC) No 595/2009 or this Regulation on the date GB[^key-cd7379a81addd30deda081d8751b1551] type-approval for a separate technical unit was granted. For this Regulation, the sequence number is 00.
+
+3.3.
+
+The GB type-approval mark shall be affixed to the replacement pollution control device in such a way as to be clearly legible and indelible. It shall, wherever possible, be visible when the replacement pollution control device is installed on the vehicle.
+
+3.4.
+
+An example of the GB type-approval mark for a separate technical unit is given in Appendix 8 to Annex I.
+
+4\.
+
+TECHNICAL REQUIREMENTS
+
+4.1.
+
+**General requirements**
+
+4.1.1.
+
+The replacement pollution control device shall be designed, constructed and capable of being mounted so as to enable the engine and vehicle to comply with the rules with which it was originally in compliance and that pollutant emissions are effectively limited throughout the normal life of the vehicle under normal conditions of use.
+
+4.1.2.
+
+The installation of the replacement pollution control device shall be at the exact position of the original equipment pollution control device, and the position on the exhaust line of the exhaust gas, temperature and pressure sensors shall not be modified.
+
+4.1.3.
+
+If the original equipment pollution control device includes thermal protections, the replacement pollution control device shall include equivalent protections.
+
+4.1.4.
+
+Upon request of the applicant for the type-approval of the replacement component, the approval authority [^key-a4d79dc4683b65b4c1c35f20447d7da1]... shall make available on a non-discriminatory basis, the information referred to in points 3.2.12.2.6.8.1 and 3.2.12.2.6.8.2 in Part 1 of the information document contained in Appendix 4 to Annex I for each engine to be tested.
+
+4.2.
+
+**General durability requirements**
+
+The replacement pollution control device shall be durable, that is designed, constructed and capable of being mounted so that reasonable resistance to the corrosion and oxidation phenomena to which it is exposed is obtained, having regard to the conditions of use of the vehicle.
+
+The design of the replacement pollution control device shall be such that the elements active in controlling emissions are adequately protected from mechanical shock so as to ensure that pollutant emissions are effectively limited throughout the normal life of the vehicle under normal conditions of use.
+
+The applicant for type-approval shall provide to the approval authority details of the test used to establish robustness to mechanical shock and the results of that test.
+
+4.3.
+
+**Requirements regarding emissions**
+
+4.3.1.
+
+*Outline of procedure for evaluation of emissions*
+
+The engines indicated in point (a) of Article 16(4) equipped with a complete emissions control system, including the replacement pollution control device of the type for which approval is requested, shall be subjected to tests appropriate for the intended application as described in Annex 4 to UNECE Regulation No 49, in order to compare its performance with the original emissions control system in accordance with the procedure described in points 4.3.1.1 and 4.3.1.2.
+
+4.3.1.1.
+
+Where the replacement pollution control device does not comprise the complete emissions control system, only new original equipment or new original replacement pollution control components shall be used to provide a complete system.
+
+4.3.1.2.
+
+The emissions control system shall be aged according to the procedure described in point 4.3.2.4 and retested to establish the durability of its emissions performance.
+
+The durability of a replacement pollution control device is determined from a comparison of the two successive sets of exhaust gas emissions tests:
+
+- ((a)) the first set is that made with the replacement pollution control device which has been run in with 12 WHSC Cycles;
+- ((b)) the second set is that made with the replacement pollution control device which has been aged by the procedures detailed below.
+
+Where approval is applied for different types of engines from the same engine manufacturer, and provided that these different types of engines are fitted with an identical original equipment pollution control system, the testing may be limited to at least two engines selected after agreement with the approval authority.
+
+4.3.2.
+
+*Procedure for evaluation of emissions performance of a replacement pollution control device*
+
+4.3.2.1.
+
+The engine or engines shall be fitted with a new original equipment pollution control device according to Article 16(4).
+
+The exhaust after-treatment system shall be preconditioned with 12 WHSC cycles. After this preconditioning, the engines shall be tested in accordance with the WHDC test procedures described in Annex 4 to UNECE Regulation No 49. Three exhaust gas tests of each appropriate type shall be performed.
+
+The test engines with the original exhaust after-treatment system or original replacement exhaust after-treatment system shall comply with the limit values according to the type-approval of the engine or vehicle.
+
+4.3.2.2.
+
+Exhaust gas test with replacement pollution control device
+
+The replacement pollution control device to be evaluated shall be fitted to the exhaust after-treatment system tested according to the requirements of point 4.3.2.1, replacing the relevant original equipment exhaust after-treatment device.
+
+The exhaust after-treatment system incorporating the replacement pollution control device shall then be preconditioned with 12 WHSC cycles. After this preconditioning, the engines shall be tested in accordance with the WHDC procedures described in Annex 4 to UNECE Regulation No 49. Three exhaust gas tests of each appropriate type shall be performed.
+
+4.3.2.3.
+
+Initial evaluation of the emission of pollutants of engines equipped with replacement pollution control devices
+
+The requirements regarding emissions of the engines equipped with the replacement pollution control device shall be deemed to be fulfilled if the results for each regulated pollutant (CO, HC, NMHC, methane, NO<sub>x</sub>, NH<sub>3</sub>, particulate mass and particle number as appropriate for the type-approval of the engine) meet the following conditions:
+
+- ((1)) M ≤ 0,85S + 0,4G;
+- ((2)) M ≤ G
+
+where:
+
+M
+
+mean value of the emissions of one pollutant obtained from the three tests with the replacement pollution control device.
+
+S
+
+mean value of the emissions of one pollutant obtained from the three tests with the original or original replacement pollution control device.
+
+G
+
+limit value of the emissions of one pollutant according to the type-approval of the vehicle.
+
+4.3.2.4.
+
+Durability of emissions performance
+
+The exhaust after-treatment system tested in accordance with point 4.3.2.2 and incorporating the replacement pollution control device shall be subjected to the durability procedures described in Appendix 3.
+
+4.3.2.5.
+
+Exhaust gas test with aged replacement pollution control device
+
+The aged exhaust after-treatment system incorporating the aged replacement control device shall then be fitted to the test engine used in points 4.3.2.1 and 4.3.2.2
+
+The aged exhaust after-treatment systems shall be preconditioned with 12 WHSC cycles and subsequently tested using the WHDC procedures described in Annex 4 to UNECE Regulation No 49. Three exhaust gas tests of each appropriate type shall be performed.
+
+4.3.2.6.
+
+Determination of ageing factor for the replacement pollution control device
+
+The ageing factor for each pollutant shall be the ratio of the applied emission value at the useful life end point and that at the start of the service accumulation (e.g., if the emissions of pollutant A at the start of the service accumulation are 1.50 g/kWh and those at the useful life end point are 1.82 g/kWh, the ageing factor is 1,82/1,50 = 1,21).
+
+4.3.2.7.
+
+Evaluation of the emission of pollutants of engines equipped with replacement pollution control devices
+
+The requirements regarding emissions of the engines equipped with the aged replacement pollution control device (as described in point 4.3.2.5) shall be deemed to be fulfilled if the results for each regulated pollutant (CO, HC, NMHC, methane, NO<sub>x</sub>, NH<sub>3</sub>, particulate mass and particle number as appropriate for the type-approval of the engine) meet the following condition:
+
+M × AF ≤ G
+
+where:
+
+M
+
+mean value of the emissions of one pollutant obtained from the three tests with the preconditioned replacement pollution control device before ageing (i.e. results from Section 4.3.2)
+
+AF
+
+the aging factor for one pollutant
+
+G
+
+limit value of the emissions of one pollutant according to the type-approval of the vehicle(s).
+
+4.3.3.
+
+*Replacement pollution control device technology family*
+
+The manufacturer may identify a replacement pollution control device technology family, to be identified by basic characteristics which shall be common to devices within the family.
+
+To belong to the same replacement pollution control device technology family the replacement pollution control devices shall have the following:
+
+- ((a)) the same emissions control mechanism (oxidation catalyst, three-way catalyst, particulate filter, selective catalytic reduction for NO<sub>x</sub>, etc.);
+- ((b)) the same substrate material (same type of ceramic, or same type of metal);
+- ((c)) the same substrate type and cell density;
+- ((d)) the same catalytically active materials and, where more than one, the same ratio of catalytically active materials;
+- ((e)) the same total charge of catalytically active materials;
+- ((f)) the same type of washcoat applied by the same process.
+
+4.3.4.
+
+*Assessment of the durability of emissions performance of a replacement pollution control device by use of a technology family aging factor*
+
+Where the manufacturer has identified a replacement pollution control technology family, the procedures described in point 4.3.2 may be used to determine the Aging Factors (AFs) for each pollutant for the parent of that family. The engine on which these tests are conducted shall have a minimum engine displacement of \[0,75 dm<sup>3</sup>\] per cylinder.
+
+4.3.4.1.
+
+Determination of durability performance of family members
+
+A replacement pollution control device A within a family and intended to be mounted on an engine of displacement C<sub>A</sub> may be considered to have the same aging factors as the parent replacement pollution control device P, determined on an engine of displacement C<sub>P</sub>, if the following conditions are fulfilled:
+
+V<sub>A</sub>/C<sub>A</sub> ≥ V<sub>P</sub>/C<sub>P</sub>
+
+where:
+
+V<sub>A</sub>
+
+Substrate volume (in dm<sup>3</sup>) of replacement pollution control device A
+
+V<sub>P</sub>
+
+Substrate volume (in dm<sup>3</sup>) of the parent replacement pollution control device P of the same family; and
+
+both engines use the same method for regeneration of any emissions control devices incorporated in the original exhaust after-treatment system. This requirement shall apply only where devices requiring regeneration are incorporated in the original exhaust after-treatment system.
+
+If these conditions are fulfilled, the emissions durability performance of other members of the family may be determined from the emissions results (S) of that family member determined according to the requirements set out in points 4.3.2.1, 4.3.2.2 and 4.3.2.3 and using the Aging Factors determined for the parent of that family.
+
+4.3.5.
+
+***Fuels***
+
+In the case described in point 1.1.2 of Annex I, the test procedure laid down in points 4.3.1 to 4.3.2.7 of this Annex shall be conducted with the fuels declared by the manufacturer of the original engine system. However, in agreement with the type-approval authority, the durability procedure set out in Appendix 3 and referred to in point 4.3.2.4 may be performed only with the fuel which represents the worst case in terms of ageing.
+
+4.4.
+
+**Requirements regarding exhaust back-pressure**
+
+The back pressure shall not cause the complete exhaust system to exceed the value specified according to point 4.1.2 of Annex I.
+
+4.5.
+
+**Requirements regarding OBD compatibility (applicable only to replacement pollution control devices intended to be fitted to vehicles equipped with an OBD system)**
+
+4.5.1.
+
+OBD compatibility demonstration is required only when the original pollution control device was monitored in the original configuration.
+
+4.5.2.
+
+The compatibility of the replacement pollution control device with the OBD system shall be demonstrated by using the procedures described in Annex X to this Regulation and Annex 9B to UN/ECE Regulation No 49 for replacement pollution control devices intended to be fitted to engines or vehicles type-approved in accordance with Regulation (EC) No 595/2009 and this Regulation.
+
+4.5.3.
+
+The provisions in UN/ECE Regulation No 49 applicable to components other than pollution control devices shall not apply.
+
+4.5.4.
+
+The replacement pollution control device manufacturer may use the same preconditioning and test procedure as used during the original type-approval. In this case, the approval authority [^key-47bf467e0e70dc831d52b5cf4fbe2c21]... shall provide, on request and on a non-discriminatory basis, [^key-cee8aff280f14e3266c9886cf74d3d2a]... the number and type of preconditioning cycles and the type of test cycle used by the original equipment manufacturer for OBD testing of the pollution control device.
+
+4.5.5.
+
+In order to verify the correct installation and functioning of all other components monitored by the OBD system, the OBD system shall indicate no malfunction and have no stored fault codes prior to the installation of any of the replacement pollution control device. An evaluation of the status of the OBD system at the end of the tests described in points 4.3.2 to 4.3.2.7 may be used for this purpose.
+
+4.5.6.
+
+The malfunction indicator shall not activate during vehicle operation required by points 4.3.2 to 4.3.2.7.
+
+4.6.
+
+Requirements regarding compatibility with the NO <sub> x </sub> control measures (applicable only to replacement pollution control devices to be fitted to vehicles equipped with sensors directly measuring NO <sub> x </sub> concentration in the exhaust)
+
+4.6.1.
+
+NO<sub> x </sub> control measures compatibility demonstration is required only when the original pollution control device was monitored in the original configuration.
+
+4.6.2.
+
+The compatibility of the replacement pollution control device with the NO<sub> x </sub> control measures shall be demonstrated by using the procedures described in Annex XIII to this Regulation, for replacement pollution control devices intended to be fitted to engines or vehicles type-approved in accordance with Regulation (EC) No 595/2009 and this Regulation.
+
+4.6.3.
+
+The provisions in UN/ECE Regulation No 49 applicable to components other than pollution control devices shall not apply.
+
+4.6.4.
+
+The replacement pollution control device manufacturer may use the same preconditioning and test procedure as used during the original type-approval. In that case, the approval authority [^key-78ef710a12e6a9986a3cd2517a0f2078]... shall provide, on request and on a non-discriminatory basis, an information document presented as an appendix to the Information Document provided for in Appendix 4 to Annex I, which contains the number and type of preconditioning cycles and the type of test cycle used by the original equipment manufacturer for NO<sub> x </sub> control measures testing of the pollution control device.
+
+4.6.5.
+
+Point 4.5.5 shall apply to NO<sub> x </sub> control measures monitored by the OBD system.
+
+5\.
+
+CONFORMITY OF PRODUCTION
+
+5.1.
+
+Measures to ensure the conformity of production shall be taken in accordance with Article 31 of Regulation (EU) 2018/858[^key-29928a3d3f199d019e35ba4ac2116b5d].
+
+5.2.
+
+**Special provisions**
+
+5.2.1.
+
+The checks referred to in Section 3.2 of Annex IV to Regulation (EU) 2018/858[^key-feaa179000608777778e8f2b920ea1af] shall include compliance with the characteristics as defined under ‘type of pollution control device’ in Article 2(8) of Regulation (EC) No 692/2008.
+
+5.2.2.
+
+For the application of Article 31(3) of Regulation (EU) 2018/858[^key-67055d486de698f0bc7c722c51ec90f7], the tests described in Section 4.3 of this Annex (requirements regarding emissions) may be carried out. In this case, the holder of the approval may request, as an alternative, to use as a basis for comparison not the original equipment pollution control device, but the replacement pollution control device which was used during the type-approval tests (or another sample that has been proven to conform to the approved type). Emissions values measured with the sample under verification shall then on average not exceed by more than 15 % the mean values measured with the sample used for reference.
+
+Appendix 1
+
+**MODEL**
+
+**Information document No …**
+
+relating to the GB type-approval of replacement pollution control devices
+
+The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail.
+
+If the systems, components or separate technical units have electronic controls, information concerning their performance shall be supplied.
+
+0\.
+
+GENERAL
+
+0.1.
+
+Make (trade name of manufacturer): …
+
+0.2.
+
+Type …
+
+- Commercial name(s) (if available): …
+
+0.3.
+
+Means of identification of type: …
+
+0.5.
+
+Name and address of manufacturer: …
+
+0.7.
+
+In the case of components and separate technical units, location and method of affixing of the GB approval[^key-9dcf64e78975a97766b67cd761cde661] mark: …
+
+0.8.
+
+Name(s) and address(es) of assembly plant(s): …
+
+0.9
+
+Name and address of the manufacturer’s authorised representative (if any): …
+
+1\.
+
+DESCRIPTION OF THE DEVICE
+
+1.1.
+
+Type of the replacement pollution control device: (oxidation catalyst, three-way catalyst, SCR catalyst, particulate filter, etc.) …
+
+1.2.
+
+Drawings of the replacement pollution control device, identifying in particular all the characteristics referred to under ‘type of pollution control device’ of Article 2 of Regulation (EU) No 582/2011: …
+
+1.3.
+
+Description of the engine and vehicle type or types for which the replacement pollution control device is intended: …
+
+- Number(s) and/or symbol(s) characterising the engine and vehicle type(s): …
+- Number(s) and/or symbol(s) characterising the original pollution control device(s) which the replacement pollution control device is intended to replace: …
+- Is the replacement pollution control device intended to be compatible with OBD requirements (Yes/No)[^f00098]
+- Is the replacement pollution control device compatible with existing vehicle/engine control systems (yes/no)[^f00098]
+
+1.4.
+
+Description and drawings showing the position of the replacement pollution control device relative to the engine exhaust manifold(s): …
+
+[^key-4e626816c6707c42d505ed0d1a610241]2.
+
+. . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-4e626816c6707c42d505ed0d1a610241]2.1
+
+. . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-4e626816c6707c42d505ed0d1a610241]2.2
+
+. . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-4e626816c6707c42d505ed0d1a610241]2.41
+
+. . . . . . . . . . . . . . . . . . . . . . . .
+
+Appendix 2
+
+**MODEL GB TYPE-APPROVAL[^key-cfcbd0a74dd8715e6835614ec7e76117] CERTIFICATE**
+
+(Maximum format: A4 (210 mm × 297 mm))
+
+**GB TYPE-APPROVAL CERTIFICATE**
+
+Stamp of administration
+
+Communication concerning the:
+
+- GB type-approval (<sup>1</sup>) …,
+- extension of GB type-approval (<sup>1</sup>) …,
+- refusal of GB type-approval (<sup>1</sup>) …,
+- withdrawal of GB type-approval (<sup>1</sup>) …
+
+of a type of component/separate technical unit[^f00099]
+
+with regard to Regulation (EC) No 595/2009, as implemented by Regulation (EU) No 582/2011.
+
+Regulation (EC) No 595/2009 or Regulation (EU) No 582/2011, as last amended by S.I. …./….[^key-8c98e3b8dc2ecb3c9b20132484a3e638] …
+
+GB type-approval number: …
+
+Reason for extension: …
+
+*SECTION I*
+
+0.1.
+
+Make (trade name of manufacturer): …
+
+0.2.
+
+Type: …
+
+0.3.
+
+Means of identification of type marked on the component/separate technical unit[^f00100] (Identifying Part Number): …
+
+0.3.1.
+
+Location of that marking: …
+
+0.5.
+
+Name and address of manufacturer: …
+
+0.7.
+
+In the case of components and separate technical units, location and method of affixing of the GB approval[^key-6d73933ea2064e8384971aab97eae689] mark: …
+
+0.8.
+
+Name and address(es) of assembly plant(s): …
+
+0.9.
+
+Name and address of manufacturer’s representative: …
+
+*SECTION II*
+
+1\.
+
+Additional information
+
+1.1.
+
+Make and type of the replacement pollution control device: (oxidation catalyst, three-way catalyst, SCR catalyst, particulate filter, etc.) …
+
+1.2.
+
+Engine and vehicle type(s) for which the pollution control device type qualifies as replacement part: …
+
+1.3.
+
+Type(s) of engine on which the replacement pollution control device has been tested: …
+
+1.3.1.
+
+Has the replacement pollution control device demonstrated compatibility with OBD requirements (yes/no)[^f00099]: …
+
+2\.
+
+Technical service responsible for carrying out the tests: …
+
+3\.
+
+Date of test report: …
+
+4\.
+
+Number of test report: …
+
+5\.
+
+Remarks: …
+
+6\.
+
+Place: …
+
+7\.
+
+Date: …
+
+8\.
+
+Signature: …
+
+Attachments
+
+Information package.
+
+Test report.
+
+Appendix 3
+
+**Durability procedure for evaluation of emissions performance of a replacement pollution control device**
+
+1\.
+
+This Appendix sets out the durability procedure referred to in point 4.3.2.4 of Annex XI, for the purpose of evaluating the emissions performance of a replacement pollution control device.
+
+2\.
+
+**DESCRIPTION OF THE DURABILITY PROCEDURE**
+
+2.1.
+
+The durability procedure shall consist of a data collection phase and a service accumulation schedule.
+
+2.2.
+
+**Data collection phase**
+
+2.2.1.
+
+The selected engine, equipped with the complete exhaust after-treatment system incorporating the replacement pollution control device, shall be cooled down to ambient temperature and run one cold start WHTC test-cycle in accordance with paragraphs 7.6.1 and 7.6.2 of Annex 4 to UN/ECE Regulation No 49.
+
+2.2.2.
+
+Immediately after the cold start WHTC test-cycle, the engine shall be run for nine consecutive hot start WHTC test-cycles in accordance with paragraph 7.6.4 of Annex 4 to UN/ECE Regulation No 49.
+
+2.2.3.
+
+The test sequence set out in points 2.2.1 and 2.2.2 shall be carried out in accordance with the instructions laid down in paragraph 7.6.5 of Annex 4 to UN/ECE Regulation No 49.
+
+2.2.4.
+
+Alternatively, the relevant data can be collected by driving a fully loaded vehicle equipped with the selected exhaust after-treatment system incorporating the replacement pollution control device. The test can be carried out either on the road following the trip requirements of points 4.5 to 4.5.5 of Annex II to this Regulation with comprehensive recording of the driving data, or on a suitable chassis dynamometer. If an on-road test is chosen, the vehicle shall be driven over a cold test-cycle, as set out in Appendix 5 to this Annex, followed by nine hot test-cycles, identical to the cold one, in a way that the work developed by the engine is the same as the one achieved under points 2.2.1 and 2.2.2. If a chassis dynamometer is chosen, the simulated road gradient of the test-cycle in Appendix 5 shall be adapted to match the work developed by the engine over the WHTC.
+
+2.2.5.
+
+The type-approval authority shall refuse the temperature data obtained under point 2.2.4 if it deems those data to be unrealistic and shall request either the repetition of the test, or the carrying out of a test pursuant to points 2.2.1, 2.2.2 and 2.2.3.
+
+2.2.6.
+
+Temperatures in the replacement pollution control device shall be recorded during the whole test sequence, at the location with the highest temperature.
+
+2.2.7.
+
+In cases where the location with the highest temperature varies over time, or where that location is difficult to define, multiple bed temperatures should be recorded at suitable locations.
+
+2.2.8.
+
+The number and locations of the temperature measurements shall be selected by the manufacturer, in agreement with the type-approval authority, based on best engineering judgement.
+
+2.2.9.
+
+With the agreement of the type-approval authority, a single catalyst bed temperature or the catalyst inlet temperature may be used if measuring multiple bed temperatures is proven to be unfeasible or too difficult.
+
+*Figure 1* **Example of temperature sensors location in a generic after-treatment device** [image: see source](https://www.legislation.gov.uk/eur/2011/582/images/eur_20110582_2020-09-01_en_007) *Figure 2* **Example of temperature sensors location for DPF** [image: see source](https://www.legislation.gov.uk/eur/2011/582/images/eur_20110582_2020-09-01_en_008)
+
+2.2.10.
+
+The temperatures shall be measured and recorded at a minimum rate of once every second (1 Hz) during the test sequence.
+
+2.2.11.
+
+The measured temperatures shall be tabulated into a histogram with temperature bins no larger than 10 °C. In the case mentioned in point 2.2.7, the highest temperature each second shall be the one recorded in the histogram. Each bar of the histogram shall represent the cumulated frequency in seconds of the measured temperatures falling in the specific bin.
+
+2.2.12.
+
+The time in hours corresponding to each temperature bin must be determined and then extrapolated to the useful life of the replacement pollution control device, in accordance with the values specified in Table 1. The extrapolation shall be based on the assumption that one WHTC cycle corresponds to 20 km driving.
+
+*Table 1*
+
+**Useful life of the replacement pollution control device for each vehicle category, and equivalent WHTC test-cycles and hours of operation**
+
+| Vehicle category | Mileage (km) | Equivalent number of WHTC test-cycles | Equivalent number of hours |
+| --- | --- | --- | --- |
+| Engine systems fitted to vehicles of category M <sub> 1 </sub> , N <sub> 1 </sub> and N <sub> 2 </sub> | 114 286 | 5 714 | 2 857 |
+| Engine systems fitted to vehicles of category N <sub> 2 </sub> , N <sub> 3 </sub> with a maximum technically permissible mass not exceeding 16 tonnes and M <sub> 3 </sub> Class I, Class II and Class A, and Class B with a maximum technically permissible mass exceeding 7,5 tonnes | 214 286 | 10 714 | 5 357 |
+| Engine systems fitted to vehicles of category N <sub> 3 </sub> with a maximum technically permissible mass exceeding 16 tonnes, and M <sub> 3 </sub> , Class III and Class B with a maximum technically permissible mass exceeding 7,5 tonnes | 500 000 | 25 000 | 12 500 |
+
+2.2.13.
+
+It is allowed to perform the data collection phase for different devices at the same time.
+
+2.2.14.
+
+In the case of systems operating in the presence of active regeneration, the number, length and temperatures of the regenerations occurring during the test sequence defined in points 2.2.1 and 2.2.2 shall be recorded. If no active regeneration has occurred, the hot sequence defined in point 2.2.2 shall be extended in order to include at least two active regenerations.
+
+2.2.15.
+
+The total lubricant consumed during the data collection period, in g/h, shall be recorded, using any suitable method, as for example the drain and weigh procedure described in Appendix 6. For this purpose, the engine shall be run during 24 hours, performing consecutive WHTC test-cycles. In cases where an accurate measurement of oil consumption cannot be obtained, the manufacturer, in agreement with the type-approval authority, may use the following options for the determination of the lubricant consumption:
+
+- ((a)) a default value of 30 g/h;
+- ((b)) a value requested by the manufacturer, based on sound data and information, and agreed with the type-approval authority.
+
+2.3.
+
+**Calculation of the equivalent ageing time corresponding to a reference temperature**
+
+2.3.1.
+
+The temperatures recorded pursuant to points 2.2 to 2.2.15 shall be reduced to a reference temperature *T <sub> r </sub>*, requested by the manufacturer in agreement with the type-approval authority, within the range of the temperatures recorded during the data collection phase.
+
+2.3.2.
+
+In the case specified in point 2.2.13, the value of *T <sub> r </sub>* for each one of the devices may vary.
+
+2.3.3.
+
+The equivalent ageing time corresponding to the reference temperature shall be calculated, for each bin referred to in 2.2.11, in accordance with the following equation:
+
+Equation 1:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+Where:
+
+*R*
+
+thermal reactivity of the replacement pollution control device.
+
+The following values shall be used:
+
+- Diesel oxidation catalyst (DOC): 18 050
+- Catalysed DPF: 18 050
+- SCR or ammonia oxidation catalyst (AMOX) based on iron-zeolite (Fe-Z): 5 175
+- SCR copper-zeolite (Cu-Z): 11 550
+- SCR Vanadium (V): 5 175
+- LNT (lean-NO<sub> x </sub> trap): 18 050
+
+*T <sub> r </sub>*
+
+reference temperature, in *K* .
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+mid-point temperature, in *K* , of the temperature bin *i* to which the replacement pollution control device is exposed during the data collection phase, registered in the temperature histogram.
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+the time, in hours, corresponding to the temperature [formula: see source](https://www.legislation.gov.uk/eur/2011/582), adjusted to a full useful life basis e.g. if the histogram represented 5 hours, and useful life is 4 000 hours according to Table 1, all histogram time entries would be multiplied by [formula: see source](https://www.legislation.gov.uk/eur/2011/582).
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+the equivalent ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature *T <sub> r </sub>*, the same amount of ageing as the one that would result from exposure of the replacement pollution control device at the temperature [formula: see source](https://www.legislation.gov.uk/eur/2011/582) during the time [formula: see source](https://www.legislation.gov.uk/eur/2011/582).
+
+*i*
+
+bin number, where 1 is number for the bin with the lowest temperature and *n* the value for the bin with the highest temperature.
+
+2.3.4.
+
+The total equivalent ageing time shall be calculated in accordance with the following equation:
+
+Equation 2:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+Where:
+
+*AT*
+
+total equivalent ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature *T <sub> r </sub>*, the same amount of ageing as the one that would result from exposure of the replacement pollution control device, over its useful life, to the temperature [formula: see source](https://www.legislation.gov.uk/eur/2011/582) during the time [formula: see source](https://www.legislation.gov.uk/eur/2011/582) of each one of the *i* bins registered in the histogram.
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+the equivalent ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature *T <sub> r </sub>*, the same amount of ageing as the one that would result from exposure of the replacement pollution control device at the temperature [formula: see source](https://www.legislation.gov.uk/eur/2011/582) during the time [formula: see source](https://www.legislation.gov.uk/eur/2011/582).
+
+*i*
+
+bin number, where 1 is number for the bin with the lowest temperature and *n* the value for the bin with the highest temperature.
+
+*n*
+
+Total number of temperature bins.
+
+2.3.5.
+
+In the case referred to in point 2.2.13, *AT* shall be calculated for each device.
+
+2.4.
+
+**Service accumulation schedule**
+
+2.4.1.
+
+General requirements
+
+2.4.1.1.
+
+The service accumulation schedule shall allow acceleration of the ageing of the replacement pollution control device, using the information gathered during the data collection phase set out in point 2.2.
+
+2.4.1.2.
+
+The service accumulation schedule shall consist of a thermal accumulation schedule and a lubricant consumption accumulation schedule in accordance with point 2.4.4.6. The manufacturer, in agreement with the type-approval authority, may not have to carry out a lubricant consumption accumulation schedule in case the replacement pollution control devices are placed downstream of an after-treatment filter component (e.g. diesel particulate filter). Both the thermal accumulation schedule and the lubricant consumption accumulation schedule shall consist of a repetition of, respectively, a series of thermal and lubricant consumption sequences.
+
+2.4.1.3.
+
+In the case of replacement pollution control devices operating in the presence of active regeneration, the thermal sequence shall be complemented with an active regeneration mode.
+
+2.4.1.4.
+
+For service accumulation schedules consisting of both thermal and lubricant consumption accumulation schedules, their respective sequences shall be alternated, so that for each thermal sequence that has to be performed, the following sequence corresponds to lubricant consumption.
+
+2.4.1.5.
+
+It is allowed to perform the service accumulation schedule at the same time for different devices. In that case, a single service accumulation schedule shall be set for all the devices.
+
+2.4.2.
+
+Thermal accumulation schedule
+
+2.4.2.1.
+
+The thermal accumulation schedule shall simulate the effect of thermal ageing on the performance of a replacement pollution control device until the end of its lifetime.
+
+2.4.2.2.
+
+The engine used for the performance of the service accumulation schedule, fitted with the exhaust after-treatment system incorporating the replacement pollution control device, is operated for a minimum of three consecutive thermal sequences, as set out in Appendix 4.
+
+2.4.2.3.
+
+The temperatures shall be recorded over a minimum of two thermal sequences. The first sequence, conducted for warming up, shall not be taken into account for the purpose of temperature gathering.
+
+2.4.2.4.
+
+The temperatures shall be recorded at suitable locations, chosen in accordance with points 2.2.6 to 2.2.9, at a minimum rate of once every second (1 Hz).
+
+2.4.2.5.
+
+The effective ageing time corresponding to the thermal sequences referred to in point 2.4.2.3, shall be calculated in accordance with the following equations:
+
+- Equation 3:
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+- Equation 4:
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+Where:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+the effective ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature *T <sub> r </sub>*, the same amount of ageing as the one that would result from exposure of the replacement pollution control device at the temperature *T <sub> i </sub>* during the second *i* .
+
+*T <sub> i </sub>*
+
+the temperature, in *K* , measured in the second *i* , in each one of the thermal sequences.
+
+*R*
+
+thermal reactivity of the replacement pollution control device. The manufacturer shall agree with the type-approval authority on the *R* value to be used. It will also be possible, as alternative, to use the following default values:
+
+- Diesel oxidation catalyst (DOC): 18 050.
+- Catalysed DPF: 18 050
+- SCR or ammonia oxidation catalyst (AMOX) based on iron-zeolite (Fe-Z): 5 175
+- SCR copper-zeolite (Cu-Z): 11 550
+- SCR Vanadium (V): 5 175
+- LNT (lean-NO<sub> x </sub> trap): 18 050
+
+*T <sub> r </sub>*
+
+reference temperature, in *K* , being the same value as in equation 1.
+
+*AE*
+
+Effective ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature *T <sub> r </sub>*, the same amount of ageing as the one that would result from exposure of the replacement pollution control device during the duration of the thermal sequence.
+
+*AT*
+
+total equivalent ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature *T <sub> r </sub>*, the same amount of ageing as the one that would result from exposure of the replacement pollution control device, over its useful life, to the temperature [formula: see source](https://www.legislation.gov.uk/eur/2011/582) during the time [formula: see source](https://www.legislation.gov.uk/eur/2011/582) of each one of the *i* bins registered in the histogram.
+
+*i*
+
+number of temperature measurement.
+
+*p*
+
+total number of temperature measurements.
+
+*n <sub> c </sub>*
+
+thermal sequence number, of those conducted for the purpose of temperature gathering, in accordance with point 2.4.2.3.
+
+*C*
+
+total number of thermal sequences conducted for the purpose of temperature gathering.
+
+2.4.2.6.
+
+The total number of thermal sequences to be included in the service accumulation schedule shall be determined by applying the following equation:
+
+Equation 5:
+
+N<sub> TS </sub> = AT/AE
+
+Where:
+
+*N <sub> TS </sub>*
+
+total number of thermal sequences to be carried out during the service accumulation schedule
+
+*AT*
+
+total equivalent ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature *T <sub> r </sub>*, the same amount of ageing as the one that would result from exposure of the replacement pollution control device, over its useful life, to the temperature [formula: see source](https://www.legislation.gov.uk/eur/2011/582) during the time [formula: see source](https://www.legislation.gov.uk/eur/2011/582) of each one of the *i* bins registered in the histogram.
+
+*AE*
+
+Effective ageing time, in hours, needed to achieve, by exposing the replacement pollution control device at the temperature *T <sub> r </sub>*, the same amount of ageing as the one that would result from exposure of the replacement pollution control device during the duration of the thermal sequence.
+
+2.4.2.7.
+
+It is allowed to reduce *N <sub> TS </sub>* and, consequently the service accumulation schedule, by increasing the temperatures at which each device is exposed at each mode of the ageing cycle through the application of one or several of the following measures:
+
+- ((a)) insulating the exhaust pipe;
+- ((b)) moving the replacement pollution control device closer to the exhaust manifold;
+- ((c)) artificially heating up the temperature of the exhaust;
+- ((d)) optimising the engine settings without substantially changing the emission behaviour of the engine.
+
+2.4.2.8.
+
+When applying the measures referred to in points 2.4.4.6 and 2.4.4.7, the total ageing time calculated from *N <sub> TS </sub>* shall not be less than 10 % of the useful life listed in Table 1, e.g. the vehicle category *N <sub> 1 </sub>* shall not have an *N <sub> TS </sub>* of less than 286 thermal sequences, assuming that each sequence is 1 hour long.
+
+2.4.2.9.
+
+It is allowed to increase *N <sub> TS </sub>* and, consequently, the duration of the service accumulation schedule, by lowering the temperatures at each mode of the ageing cycle through the application of one or several of the following measures:
+
+- ((a)) moving the replacement pollution control device further away from the exhaust manifold;
+- ((b)) artificially cooling down the temperature of the exhaust;
+- ((c)) optimising the engine settings.
+
+2.4.2.10.
+
+In the case referred to in point 2.4.1.5, the following shall apply:
+
+- *N <sub> TS </sub>* shall be the same for each device, so that a single service accumulation schedule can be set up.
+- In order to achieve the same *N <sub> TS </sub>* for each device, a first *N <sub> TS </sub>* value shall be calculated for each device, with its own *AT* and *AE* values.
+- If the calculated *N <sub> TS </sub>* values are different, one or more of the measures set out in points 2.4.2.7 to 2.4.2.10 may be applied on the device or devices for which *N <sub> TS </sub>* needs to be modified, over the thermal sequences referred to in point 2.4.2.3, in order to influence the measured *T <sub> i </sub>* and therefore conveniently speed up or slow down the artificial ageing of the targeted device or devices.
+- The new *N <sub> TS </sub>* values corresponding to the new temperatures *T <sub> i </sub>* obtained in point 2.4.2.10.3 shall be calculated.
+- The steps set out in points 2.4.2.10.3 and 2.4.2.10.4 shall be repeated until the *N <sub> TS </sub>* values obtained for each device in the system match.
+- The T<sub> r </sub> values used for obtaining the different *N <sub> TS </sub>* in points 2.4.2.10.4 and 2.4.2.10.5 shall be the same ones as those used in points 2.3.2 and 2.3.5 for calculating *AT* for each device.
+
+2.4.2.11.
+
+In the case of an assembly of replacement pollution control devices constituting a system within the meaning of Article 2(20) of Regulation (EU) 2018/858[^key-9e60bbccaa81e407f6d31ffedf199935], one of the following two options may be considered for the thermal ageing of the devices:
+
+- The devices within the assembly may be either separately or jointly aged, in accordance with point 2.4.2.10.
+- If the assembly is built in such a way that it is not possible to decouple the devices (e.g. DOC + SCR in a can), the thermal ageing of the assembly shall be carried out with the highest *N <sub> TS </sub>*.
+
+2.4.3.
+
+Modified thermal accumulation schedule for devices operating in the presence of active regeneration
+
+2.4.3.1.
+
+The modified thermal accumulation schedule for devices operating in the presence of active regeneration shall simulate the effect of ageing due to both thermal load and active regeneration on a replacement pollution control device at the end of its lifetime.
+
+2.4.3.2.
+
+The engine used for the service accumulation schedule, fitted with the exhaust after-treatment system incorporating the replacement pollution control device, is operated for a minimum of three modified thermal sequences, consisting each sequence of a thermal sequence as set out in Appendix 4, followed by a complete active regeneration, during which the peak temperature reached in the after-treatment system should be not lower than the peak temperature recorded in the data collection phase.
+
+2.4.3.3.
+
+The temperatures shall be recorded over a minimum of two modified thermal sequences. The first sequence, conducted for warming up, shall not be taken into account for the purpose of temperature gathering.
+
+2.4.3.4.
+
+In order to minimise the time elapsed between the thermal sequence as set out in Appendix 4 and the subsequent active regeneration, the manufacturer may artificially trigger the active regeneration by running, after each thermal sequence as set out in Appendix 4, the engine at a steady mode that enables a high production of soot by the engine. In that case, the steady mode shall also be considered as part of the modified thermal sequence set out in point 2.4.3.2.
+
+2.4.3.5.
+
+The effective ageing time corresponding to each modified thermal sequence shall be calculated using equations 3 and 4.
+
+2.4.3.6.
+
+The total number of modified thermal sequences to be conducted during the service accumulation schedule shall be calculated using equation 5.
+
+2.4.3.7.
+
+It is allowed to reduce *N <sub> TS </sub>*, and consequently the duration of the service accumulation schedule, by increasing the temperatures at each mode of the modified thermal sequence, applying one or several of the measures set out in point 2.4.2.7.
+
+2.4.3.8.
+
+In addition to the measures referred to in point 2.4.3.7, *N <sub> TS </sub>* can also be reduced by increasing the peak temperature of the active regeneration within the modified thermal sequence, without exceeding a bed temperature of 800 °C under any circumstances.
+
+2.4.3.9.
+
+*N <sub> TS </sub>* shall never be less than 50 % of the number of active regenerations to which the replacement pollution control device is subjected during its useful life, calculated in accordance with the following equation:
+
+Equation 5:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+Where:
+
+*N <sub> AR </sub>*
+
+number of active regeneration sequences over the useful life of the replacement pollution control device.
+
+*t <sub> WHTC </sub>*
+
+equivalent number of hours corresponding to the vehicle category for which the replacement pollution control device is intended, obtained from Table 1.
+
+*t <sub> AR </sub>*
+
+duration, in hours, of an active regeneration.
+
+*t <sub> BAR </sub>*
+
+time, in hours, between two consecutive active regenerations.
+
+2.4.3.10.
+
+If, as consequence of the application of the minimum number of modified thermal sequences as set out in point 2.4.3.9, *AE × N <sub> TS </sub>* calculated using equation 4 exceeds the *AT* calculated using equation 2, the time of each mode of the thermal sequence set out in Appendix 4, and embedded in the modified thermal sequence as set out in point 2.4.3.2, may be reduced in the same proportion, in order to make *AE × N <sub> TS </sub> = AT* .
+
+2.4.3.11.
+
+It is allowed to increase *N <sub> TS </sub>* and consequently the duration of the service accumulation schedule, by lowering the temperatures at each mode of the thermal-active regeneration sequence by applying one or several of the measures set out in point 2.4.2.9.
+
+2.4.3.12.
+
+In the case referred to in point 2.4.1.5, points 2.4.2.10 and 2.4.2.11 shall apply
+
+2.4.4.
+
+Lubricant consumption accumulation schedule
+
+2.4.4.1.
+
+The lubricant consumption accumulation schedule shall simulate the effect of ageing due to chemical poisoning or deposit formation as a result of lubricant consumption, on the performance of a replacement pollution control device at the end of its lifetime.
+
+2.4.4.2.
+
+The lubricant consumed, in g/h, shall be determined over a minimum of 24 thermal sequences or a corresponding number of modified thermal sequences, using any suitable method, as for example the drain and weigh procedure described in Appendix 6. Fresh lubricant shall be used.
+
+2.4.4.3.
+
+The engine shall be equipped with a constant volume oil sump in order to avoid the need of ‘top-offs’, since oil level influences the oil consumption rate. Any suitable method, as for example the one described in the ASTM standard D7156-09, may be used.
+
+2.4.4.4.
+
+The theoretical time, in hours, that the thermal accumulation schedule or modified thermal accumulation schedule, as it corresponds, would have to be conducted, in order to obtain the same lubricant consumption as the one corresponding to the useful life of the replacement control device, shall be calculated by applying the following equation:
+
+Equation 6:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+Where:
+
+*t <sub> TAS </sub>*
+
+theoretical duration, in hours, of the service accumulation schedule required to obtain the same lubricant consumption as the one corresponding to the useful life of the replacement pollution control device, provided that the service accumulation schedule is only made up of a series of consecutive thermal sequences or consecutive modified thermal sequences.
+
+*LCR <sub> WHTC </sub>*
+
+lubricant consumption rate, in g/h determined as set out in point 2.2.15.
+
+*t <sub> WHTC </sub>*
+
+equivalent number of hours corresponding to the vehicle category for which the replacement pollution control device is intended, obtained from Table 1.
+
+*LCR <sub> TAS </sub>*
+
+lubricant consumption rate, in g/h, determined as set out in point 2.4.4.2.
+
+2.4.4.5.
+
+The number of thermal sequences or modified thermal sequences corresponding to *t <sub> TAS </sub>* shall be calculated by applying the following ratio:
+
+Equation 7:
+
+[formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+Where:
+
+*N*
+
+number of thermal sequences or modified thermal sequences corresponding to *t <sub> TAS </sub>*.
+
+*t <sub> TAS </sub>*
+
+theoretical duration, in hours, of the service accumulation schedule required to obtain the same lubricant consumption as the one corresponding to the useful life of the replacement pollution control device, provided that the service accumulation schedule was only made up of a series of consecutive thermal sequences or consecutive modified thermal sequences.
+
+*t <sub> TS </sub>*
+
+duration, in hours, of a single thermal sequence or modified thermal sequence.
+
+2.4.4.6.
+
+The value of *N* shall be compared to the value of *N <sub> TS </sub>* calculated in accordance with point 2.4.2.6 or, for devices operating in the presence of active regeneration, in accordance with point 2.4.3.5. If *N* ≤ *N <sub> TS </sub>*, it is not necessary to add a lubricant consumption accumulation schedule to the thermal accumulation schedule. If *N* > *N <sub> TS </sub>*, a lubricant consumption accumulation schedule shall be added to the thermal accumulation schedule.
+
+2.4.4.7.
+
+A lubricant consumption accumulation schedule may not have to be added if, by increasing the lubricant consumption as described in point 2.4.4.8.4, the needed lubricant consumption is already achieved with the conduction of the corresponding thermal accumulation schedule consisting of the performance of *N <sub> TS </sub>* thermal sequences or modified thermal sequences.
+
+2.4.4.8.
+
+Development of the lubricant consumption accumulation schedule
+
+2.4.4.8.1.
+
+The lubricant consumption accumulation schedule shall consist of a number of lubricant consumption sequences repeated several times, each lubricant consumption sequence being alternated with each thermal sequence or each modified thermal sequence.
+
+2.4.4.8.2.
+
+Each lubricant consumption sequence shall consist of a steady mode at constant load and speed, the load and the speed being selected in such a way that the lubricant consumption is maximised and effective thermal aging is minimised. The mode shall be determined by the manufacturer in agreement with the type-approval authority, based on best engineering judgement.
+
+2.4.4.8.3.
+
+The duration of each lubricant consumption sequence shall be determined as follows:
+
+- The engine shall be run for an appropriate period of time at the load and speed determined by the manufacturer in accordance with point 2.4.4.8.2 and the lubricant consumed, in g/h, shall be determined using any suitable method, as for example the drain and weigh procedure described in Appendix 6. Lubricant changes are to be completed at the recommended intervals.
+- The duration of each lubricant consumption sequence shall be calculated by applying the following equation:
+
+  Equation 8:
+
+  [formula: see source](https://www.legislation.gov.uk/eur/2011/582)
+
+  Where:
+
+  *t <sub> LS </sub>*
+
+  the duration, in hours, of a single lubricant consumption sequence
+
+  *LCR <sub> WHTC </sub>*
+
+  lubricant consumption rate, in g/h determined as set out in point 2.2.15.
+
+  *t <sub> WHTC </sub>*
+
+  equivalent number of hours corresponding to the vehicle category for which the replacement pollution control device is intended, obtained from Table 1.
+
+  *LCR <sub> TAS </sub>*
+
+  lubricant consumption rate, in g/h, determined as set out in point 2.4.4.2.
+
+  *LCR <sub> LAS </sub>*
+
+  lubricant consumption rate, in g/h, determined as set out in point 2.4.4.8.3.1.
+
+  *t <sub> TS </sub>*
+
+  duration, in hours, of a single thermal sequence, as set out in Appendix 4, or modified thermal sequence, as set out in point 2.4.3.2.
+
+  *N <sub> TS </sub>*
+
+  total number of thermal sequences or modified thermal sequences to be carried out during the service accumulation schedule.
+
+2.4.4.8.4.
+
+The lubricant consumption rate shall always remain below 0,5 % of the engine fuel consumption rate in order to avoid excessive ash accumulation on the front face of the replacement pollution control device.
+
+2.4.4.8.5.
+
+It is allowed to add the thermal ageing due to the conduction of the lubricant consumption sequence to the *AE* calculated in equation 4.
+
+2.4.5.
+
+Development of the complete service accumulation schedule
+
+2.4.5.1.
+
+The service accumulation schedule shall be built up alternating a thermal or a modified thermal sequence, as appropriate, with a lubricant consumption sequence. The aforementioned pattern shall be repeated *N <sub> TS </sub>* times, being the *N <sub> TS </sub>* value the one calculated either in accordance with Section 2.4.2 or with Section 2.4.3, as appropriate. An example of a complete service accumulation schedule is given in Appendix 7. A flowchart describing the development of a complete service accumulation schedule is given in Appendix 8.
+
+2.4.6.
+
+Operation of the service accumulation schedule
+
+2.4.6.1.
+
+The engine, fitted with the exhaust after-treatment system incorporating the replacement pollution control device, shall run the service accumulation schedule set out in point 2.4.5.1.
+
+2.4.6.2.
+
+The engine used for the performance of the service accumulation schedule may be different to the engine used in the data collection phase, being the latter always the one for which the replacement pollution control device to be type-approved has been designed, and the one to be tested for emissions under point 2.4.3.2.
+
+2.4.6.3.
+
+If the engine used for the performance of the service accumulation schedule features a larger displacement by 20 % or more than the engine used in the data collection phase, the exhaust system of the former should be equipped with a by-pass in order to replicate as closely as possible the exhaust flow rate of the latter at the ageing conditions selected.
+
+2.4.6.4.
+
+In the case referred to in point 2.4.6.2, the engine used for the performance of the service accumulation schedule shall be type-approved under Regulation (EC) No 595/2009. In addition, if the device or devices under test are intended for being fitted in an engine system with exhaust gas recirculation (EGR), the engine system used for the service accumulation schedule shall also be fitted with an EGR. If the device or devices under test are intended for not being fitted in an engine system with EGR, the engine system used for the service accumulation schedule shall also not be fitted with an EGR.
+
+2.4.6.5.
+
+The lubricant and the fuel used in the service accumulation schedule shall be as similar as possible to those used during the data collection phase set out in point 2.2. The lubricant must be in line with the recommendation of the engine manufacturer for which the pollution control device is designed. The fuels used should be market fuels fulfilling the corresponding requirements of the Motor Fuel (Composition and Content) Regulations 1999[^key-d171f390858925cdcdd7421fbe9ac942]. On the request of the manufacturer also reference fuels in accordance with this Regulation can be used.
+
+2.4.6.6.
+
+The lubricant shall be changed for maintenance, at the intervals scheduled by the manufacturer of the engine used in the data collection phase.
+
+2.4.6.7.
+
+In the case of an SCR, the urea injection shall be performed in accordance with the strategy defined by the manufacturer of the replacement pollution control device.
+
+Appendix 4
+
+**Sequence for thermal ageing**
+
+| Mode | Speed (% of high idle) | Load (% for a given speed) | Time (s) |
+| --- | --- | --- | --- |
+| 1 | 2,92 | 0,58 | 626 |
+| 2 | 45,72 | 1,58 | 418 |
+| 3 | 38,87 | 3,37 | 300 |
+| 4 | 20,23 | 11,36 | 102 |
+| 5 | 11,37 | 14,90 | 62 |
+| 6 | 32,78 | 18,52 | 370 |
+| 7 | 53,12 | 20,19 | 410 |
+| 8 | 59,53 | 34,73 | 780 |
+| 9 | 78,24 | 54,38 | 132 |
+| 10 | 39,07 | 62,85 | 212 |
+| 11 | 47,82 | 62,94 | 188 |
+| Regeneration mode (if applicable) | To be defined (see point 2.4.3.4) | To be defined (see point 2.4.3.4) | To be defined (see point 2.4.3.4) |
+| Lubricant consumption mode (if applicable) | To be defined according to point 2.4.4.8.2 | To be defined according to point 2.4.4.8.2 | To be defined according to point 2.4.4.8.3 |
+
+*Note:*
+
+The sequence of the modes 1 to 11 has been arranged by ascending load in order to maximise the temperature of the exhaust gas in the high load modes. With the agreement of the type-approval authority, this order can be modified in order to optimise the temperature of the exhaust gas if this can help in reducing the actual aging time.
+
+Appendix 5
+
+**Test-cycle for chassis dynamometer or on-road data gathering**
+
+| Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed | Time | Speed |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| s | km/h | s | km/h | s | km/h | s | km/h | s | km/h | s | km/h | s | km/h |
+| 1 | 0 | 261 | 22,38 | 521 | 35,46 | 781 | 18,33 | 1 041 | 39,88 | 1 301 | 66,39 | 1 561 | 86,88 |
+| 2 | 0 | 262 | 24,75 | 522 | 36,81 | 782 | 18,31 | 1 042 | 41,25 | 1 302 | 66,74 | 1 562 | 86,7 |
+| 3 | 0 | 263 | 25,55 | 523 | 37,98 | 783 | 18,05 | 1 043 | 42,07 | 1 303 | 67,43 | 1 563 | 86,81 |
+| 4 | 0 | 264 | 25,18 | 524 | 38,84 | 784 | 17,39 | 1 044 | 43,03 | 1 304 | 68,44 | 1 564 | 86,81 |
+| 5 | 0 | 265 | 23,94 | 525 | 39,43 | 785 | 16,35 | 1 045 | 44,4 | 1 305 | 69,52 | 1 565 | 86,81 |
+| 6 | 0 | 266 | 22,35 | 526 | 39,73 | 786 | 14,71 | 1 046 | 45,14 | 1 306 | 70,53 | 1 566 | 86,81 |
+| 7 | 2,35 | 267 | 21,28 | 527 | 39,8 | 787 | 11,71 | 1 047 | 45,44 | 1 307 | 71,47 | 1 567 | 86,99 |
+| 8 | 5,57 | 268 | 20,86 | 528 | 39,69 | 788 | 7,81 | 1 048 | 46,13 | 1 308 | 72,32 | 1 568 | 87,03 |
+| 9 | 8,18 | 269 | 20,65 | 529 | 39,29 | 789 | 5,25 | 1 049 | 46,79 | 1 309 | 72,89 | 1 569 | 86,92 |
+| 10 | 9,37 | 270 | 20,18 | 530 | 38,59 | 790 | 4,62 | 1 050 | 47,45 | 1 310 | 73,07 | 1 570 | 87,1 |
+| 11 | 9,86 | 271 | 19,33 | 531 | 37,63 | 791 | 5,62 | 1 051 | 48,68 | 1 311 | 73,03 | 1 571 | 86,85 |
+| 12 | 10,18 | 272 | 18,23 | 532 | 36,22 | 792 | 8,24 | 1 052 | 50,13 | 1 312 | 72,94 | 1 572 | 87,14 |
+| 13 | 10,38 | 273 | 16,99 | 533 | 34,11 | 793 | 10,98 | 1 053 | 51,16 | 1 313 | 73,01 | 1 573 | 86,96 |
+| 14 | 10,57 | 274 | 15,56 | 534 | 31,16 | 794 | 13,15 | 1 054 | 51,37 | 1 314 | 73,44 | 1 574 | 86,85 |
+| 15 | 10,95 | 275 | 13,76 | 535 | 27,49 | 795 | 15,47 | 1 055 | 51,3 | 1 315 | 74,19 | 1 575 | 86,77 |
+| 16 | 11,56 | 276 | 11,5 | 536 | 23,63 | 796 | 18,19 | 1 056 | 51,15 | 1 316 | 74,81 | 1 576 | 86,81 |
+| 17 | 12,22 | 277 | 8,68 | 537 | 20,16 | 797 | 20,79 | 1 057 | 50,88 | 1 317 | 75,01 | 1 577 | 86,85 |
+| 18 | 12,97 | 278 | 5,2 | 538 | 17,27 | 798 | 22,5 | 1 058 | 50,63 | 1 318 | 74,99 | 1 578 | 86,74 |
+| 19 | 14,33 | 279 | 1,99 | 539 | 14,81 | 799 | 23,19 | 1 059 | 50,2 | 1 319 | 74,79 | 1 579 | 86,81 |
+| 20 | 16,38 | 280 | 0 | 540 | 12,59 | 800 | 23,54 | 1 060 | 49,12 | 1 320 | 74,41 | 1 580 | 86,7 |
+| 21 | 18,4 | 281 | 0 | 541 | 10,47 | 801 | 24,2 | 1 061 | 48,02 | 1 321 | 74,07 | 1 581 | 86,52 |
+| 22 | 19,86 | 282 | 0 | 542 | 8,85 | 802 | 25,17 | 1 062 | 47,7 | 1 322 | 73,77 | 1 582 | 86,7 |
+| 23 | 20,85 | 283 | 0,5 | 543 | 8,16 | 803 | 26,28 | 1 063 | 47,93 | 1 323 | 73,38 | 1 583 | 86,74 |
+| 24 | 21,52 | 284 | 0,57 | 544 | 8,95 | 804 | 27,69 | 1 064 | 48,57 | 1 324 | 72,79 | 1 584 | 86,81 |
+| 25 | 21,89 | 285 | 0,6 | 545 | 11,3 | 805 | 29,72 | 1 065 | 48,88 | 1 325 | 71,95 | 1 585 | 86,85 |
+| 26 | 21,98 | 286 | 0,58 | 546 | 14,11 | 806 | 32,17 | 1 066 | 49,03 | 1 326 | 71,06 | 1 586 | 86,92 |
+| 27 | 21,91 | 287 | 0 | 547 | 15,91 | 807 | 34,22 | 1 067 | 48,94 | 1 327 | 70,45 | 1 587 | 86,88 |
+| 28 | 21,68 | 288 | 0 | 548 | 16,57 | 808 | 35,31 | 1 068 | 48,32 | 1 328 | 70,23 | 1 588 | 86,85 |
+| 29 | 21,21 | 289 | 0 | 549 | 16,73 | 809 | 35,74 | 1 069 | 47,97 | 1 329 | 70,24 | 1 589 | 87,1 |
+| 30 | 20,44 | 290 | 0 | 550 | 17,24 | 810 | 36,23 | 1 070 | 47,92 | 1 330 | 70,32 | 1 590 | 86,81 |
+| 31 | 19,24 | 291 | 0 | 551 | 18,45 | 811 | 37,34 | 1 071 | 47,54 | 1 331 | 70,3 | 1 591 | 86,99 |
+| 32 | 17,57 | 292 | 0 | 552 | 20,09 | 812 | 39,05 | 1 072 | 46,79 | 1 332 | 70,05 | 1 592 | 86,81 |
+| 33 | 15,53 | 293 | 0 | 553 | 21,63 | 813 | 40,76 | 1 073 | 46,13 | 1 333 | 69,66 | 1 593 | 87,14 |
+| 34 | 13,77 | 294 | 0 | 554 | 22,78 | 814 | 41,82 | 1 074 | 45,73 | 1 334 | 69,26 | 1 594 | 86,81 |
+| 35 | 12,95 | 295 | 0 | 555 | 23,59 | 815 | 42,12 | 1 075 | 45,17 | 1 335 | 68,73 | 1 595 | 86,85 |
+| 36 | 12,95 | 296 | 0 | 556 | 24,23 | 816 | 42,08 | 1 076 | 44,43 | 1 336 | 67,88 | 1 596 | 87,03 |
+| 37 | 13,35 | 297 | 0 | 557 | 24,9 | 817 | 42,27 | 1 077 | 43,59 | 1 337 | 66,68 | 1 597 | 86,92 |
+| 38 | 13,75 | 298 | 0 | 558 | 25,72 | 818 | 43,03 | 1 078 | 42,68 | 1 338 | 65,29 | 1 598 | 87,14 |
+| 39 | 13,82 | 299 | 0 | 559 | 26,77 | 819 | 44,14 | 1 079 | 41,89 | 1 339 | 63,95 | 1 599 | 86,92 |
+| 40 | 13,41 | 300 | 0 | 560 | 28,01 | 820 | 45,13 | 1 080 | 41,09 | 1 340 | 62,84 | 1 600 | 87,03 |
+| 41 | 12,26 | 301 | 0 | 561 | 29,23 | 821 | 45,84 | 1 081 | 40,38 | 1 341 | 62,21 | 1 601 | 86,99 |
+| 42 | 9,82 | 302 | 0 | 562 | 30,06 | 822 | 46,4 | 1 082 | 39,99 | 1 342 | 62,04 | 1 602 | 86,96 |
+| 43 | 5,96 | 303 | 0 | 563 | 30,31 | 823 | 46,89 | 1 083 | 39,84 | 1 343 | 62,26 | 1 603 | 87,03 |
+| 44 | 2,2 | 304 | 0 | 564 | 30,29 | 824 | 47,34 | 1 084 | 39,46 | 1 344 | 62,87 | 1 604 | 86,85 |
+| 45 | 0 | 305 | 0 | 565 | 30,05 | 825 | 47,66 | 1 085 | 39,15 | 1 345 | 63,55 | 1 605 | 87,1 |
+| 46 | 0 | 306 | 0 | 566 | 29,44 | 826 | 47,77 | 1 086 | 38,9 | 1 346 | 64,12 | 1 606 | 86,81 |
+| 47 | 0 | 307 | 0 | 567 | 28,6 | 827 | 47,78 | 1 087 | 38,67 | 1 347 | 64,73 | 1 607 | 87,03 |
+| 48 | 0 | 308 | 0 | 568 | 27,63 | 828 | 47,64 | 1 088 | 39,03 | 1 348 | 65,45 | 1 608 | 86,77 |
+| 49 | 0 | 309 | 0 | 569 | 26,66 | 829 | 47,23 | 1 089 | 40,37 | 1 349 | 66,18 | 1 609 | 86,99 |
+| 50 | 1,87 | 310 | 0 | 570 | 26,03 | 830 | 46,66 | 1 090 | 41,03 | 1 350 | 66,97 | 1 610 | 86,96 |
+| 51 | 4,97 | 311 | 0 | 571 | 25,85 | 831 | 46,08 | 1 091 | 40,76 | 1 351 | 67,85 | 1 611 | 86,96 |
+| 52 | 8,4 | 312 | 0 | 572 | 26,14 | 832 | 45,45 | 1 092 | 40,02 | 1 352 | 68,74 | 1 612 | 87,07 |
+| 53 | 9,9 | 313 | 0 | 573 | 27,08 | 833 | 44,69 | 1 093 | 39,6 | 1 353 | 69,45 | 1 613 | 86,96 |
+| 54 | 11,42 | 314 | 0 | 574 | 28,42 | 834 | 43,73 | 1 094 | 39,37 | 1 354 | 69,92 | 1 614 | 86,92 |
+| 55 | 15,11 | 315 | 0 | 575 | 29,61 | 835 | 42,55 | 1 095 | 38,84 | 1 355 | 70,24 | 1 615 | 87,07 |
+| 56 | 18,46 | 316 | 0 | 576 | 30,46 | 836 | 41,14 | 1 096 | 37,93 | 1 356 | 70,49 | 1 616 | 86,92 |
+| 57 | 20,21 | 317 | 0 | 577 | 30,99 | 837 | 39,56 | 1 097 | 37,19 | 1 357 | 70,63 | 1 617 | 87,14 |
+| 58 | 22,13 | 318 | 0 | 578 | 31,33 | 838 | 37,93 | 1 098 | 36,21 | 1 358 | 70,68 | 1 618 | 86,96 |
+| 59 | 24,17 | 319 | 0 | 579 | 31,65 | 839 | 36,69 | 1 099 | 35,32 | 1 359 | 70,65 | 1 619 | 87,03 |
+| 60 | 25,56 | 320 | 0 | 580 | 32,02 | 840 | 36,27 | 1 100 | 35,56 | 1 360 | 70,49 | 1 620 | 86,85 |
+| 61 | 26,97 | 321 | 0 | 581 | 32,39 | 841 | 36,42 | 1 101 | 36,96 | 1 361 | 70,09 | 1 621 | 86,77 |
+| 62 | 28,83 | 322 | 0 | 582 | 32,68 | 842 | 37,14 | 1 102 | 38,12 | 1 362 | 69,35 | 1 622 | 87,1 |
+| 63 | 31,05 | 323 | 0 | 583 | 32,84 | 843 | 38,13 | 1 103 | 38,71 | 1 363 | 68,27 | 1 623 | 86,92 |
+| 64 | 33,72 | 324 | 3,01 | 584 | 32,93 | 844 | 38,55 | 1 104 | 39,26 | 1 364 | 67,09 | 1 624 | 87,07 |
+| 65 | 36 | 325 | 8,14 | 585 | 33,22 | 845 | 38,42 | 1 105 | 40,64 | 1 365 | 65,96 | 1 625 | 86,85 |
+| 66 | 37,91 | 326 | 13,88 | 586 | 33,89 | 846 | 37,89 | 1 106 | 43,09 | 1 366 | 64,87 | 1 626 | 86,81 |
+| 67 | 39,65 | 327 | 18,08 | 587 | 34,96 | 847 | 36,89 | 1 107 | 44,83 | 1 367 | 63,79 | 1 627 | 87,14 |
+| 68 | 41,23 | 328 | 20,01 | 588 | 36,28 | 848 | 35,53 | 1 108 | 45,33 | 1 368 | 62,82 | 1 628 | 86,77 |
+| 69 | 42,85 | 329 | 20,3 | 589 | 37,58 | 849 | 34,01 | 1 109 | 45,24 | 1 369 | 63,03 | 1 629 | 87,03 |
+| 70 | 44,1 | 330 | 19,53 | 590 | 38,58 | 850 | 32,88 | 1 110 | 45,14 | 1 370 | 63,62 | 1 630 | 86,96 |
+| 71 | 44,37 | 331 | 17,92 | 591 | 39,1 | 851 | 32,52 | 1 111 | 45,06 | 1 371 | 64,8 | 1 631 | 87,1 |
+| 72 | 44,3 | 332 | 16,17 | 592 | 39,22 | 852 | 32,7 | 1 112 | 44,82 | 1 372 | 65,5 | 1 632 | 86,99 |
+| 73 | 44,17 | 333 | 14,55 | 593 | 39,11 | 853 | 33,48 | 1 113 | 44,53 | 1 373 | 65,33 | 1 633 | 86,92 |
+| 74 | 44,13 | 334 | 12,92 | 594 | 38,8 | 854 | 34,97 | 1 114 | 44,77 | 1 374 | 63,83 | 1 634 | 87,1 |
+| 75 | 44,17 | 335 | 11,07 | 595 | 38,31 | 855 | 36,78 | 1 115 | 45,6 | 1 375 | 62,44 | 1 635 | 86,85 |
+| 76 | 44,51 | 336 | 8,54 | 596 | 37,73 | 856 | 38,64 | 1 116 | 46,28 | 1 376 | 61,2 | 1 636 | 86,92 |
+| 77 | 45,16 | 337 | 5,15 | 597 | 37,24 | 857 | 40,48 | 1 117 | 47,18 | 1 377 | 59,58 | 1 637 | 86,77 |
+| 78 | 45,64 | 338 | 1,96 | 598 | 37,06 | 858 | 42,34 | 1 118 | 48,49 | 1 378 | 57,68 | 1 638 | 86,88 |
+| 79 | 46,16 | 339 | 0 | 599 | 37,1 | 859 | 44,16 | 1 119 | 49,42 | 1 379 | 56,4 | 1 639 | 86,63 |
+| 80 | 46,99 | 340 | 0 | 600 | 37,42 | 860 | 45,9 | 1 120 | 49,56 | 1 380 | 54,82 | 1 640 | 86,85 |
+| 81 | 48,19 | 341 | 0 | 601 | 38,17 | 861 | 47,55 | 1 121 | 49,47 | 1 381 | 52,77 | 1 641 | 86,63 |
+| 82 | 49,32 | 342 | 0 | 602 | 39,19 | 862 | 49,09 | 1 122 | 49,28 | 1 382 | 52,22 | 1 642 | 86,77 |
+| 83 | 49,7 | 343 | 0 | 603 | 40,31 | 863 | 50,42 | 1 123 | 48,58 | 1 383 | 52,48 | 1 643 | 86,77 |
+| 84 | 49,5 | 344 | 0 | 604 | 41,46 | 864 | 51,49 | 1 124 | 48,03 | 1 384 | 52,74 | 1 644 | 86,55 |
+| 85 | 48,98 | 345 | 0 | 605 | 42,44 | 865 | 52,23 | 1 125 | 48,2 | 1 385 | 53,14 | 1 645 | 86,59 |
+| 86 | 48,65 | 346 | 0 | 606 | 42,95 | 866 | 52,58 | 1 126 | 48,72 | 1 386 | 53,03 | 1 646 | 86,55 |
+| 87 | 48,65 | 347 | 0 | 607 | 42,9 | 867 | 52,63 | 1 127 | 48,91 | 1 387 | 52,55 | 1 647 | 86,7 |
+| 88 | 48,87 | 348 | 0 | 608 | 42,43 | 868 | 52,49 | 1 128 | 48,93 | 1 388 | 52,19 | 1 648 | 86,44 |
+| 89 | 48,97 | 349 | 0 | 609 | 41,74 | 869 | 52,19 | 1 129 | 49,05 | 1 389 | 51,09 | 1 649 | 86,7 |
+| 90 | 48,96 | 350 | 0 | 610 | 41,04 | 870 | 51,82 | 1 130 | 49,23 | 1 390 | 49,88 | 1 650 | 86,55 |
+| 91 | 49,15 | 351 | 0 | 611 | 40,49 | 871 | 51,43 | 1 131 | 49,28 | 1 391 | 49,37 | 1 651 | 86,33 |
+| 92 | 49,51 | 352 | 0 | 612 | 40,8 | 872 | 51,02 | 1 132 | 48,84 | 1 392 | 49,26 | 1 652 | 86,48 |
+| 93 | 49,74 | 353 | 0 | 613 | 41,66 | 873 | 50,61 | 1 133 | 48,12 | 1 393 | 49,37 | 1 653 | 86,19 |
+| 94 | 50,31 | 354 | 0,9 | 614 | 42,48 | 874 | 50,26 | 1 134 | 47,8 | 1 394 | 49,88 | 1 654 | 86,37 |
+| 95 | 50,78 | 355 | 2 | 615 | 42,78 | 875 | 50,06 | 1 135 | 47,42 | 1 395 | 50,25 | 1 655 | 86,59 |
+| 96 | 50,75 | 356 | 4,08 | 616 | 42,39 | 876 | 49,97 | 1 136 | 45,98 | 1 396 | 50,17 | 1 656 | 86,55 |
+| 97 | 50,78 | 357 | 7,07 | 617 | 40,78 | 877 | 49,67 | 1 137 | 42,96 | 1 397 | 50,5 | 1 657 | 86,7 |
+| 98 | 51,21 | 358 | 10,25 | 618 | 37,72 | 878 | 48,86 | 1 138 | 39,38 | 1 398 | 50,83 | 1 658 | 86,63 |
+| 99 | 51,6 | 359 | 12,77 | 619 | 33,29 | 879 | 47,53 | 1 139 | 35,82 | 1 399 | 51,23 | 1 659 | 86,55 |
+| 100 | 51,89 | 360 | 14,44 | 620 | 27,66 | 880 | 45,82 | 1 140 | 31,85 | 1 400 | 51,67 | 1 660 | 86,59 |
+| 101 | 52,04 | 361 | 15,73 | 621 | 21,43 | 881 | 43,66 | 1 141 | 26,87 | 1 401 | 51,53 | 1 661 | 86,55 |
+| 102 | 51,99 | 362 | 17,23 | 622 | 15,62 | 882 | 40,91 | 1 142 | 21,41 | 1 402 | 50,17 | 1 662 | 86,7 |
+| 103 | 51,99 | 363 | 19,04 | 623 | 11,51 | 883 | 37,78 | 1 143 | 16,41 | 1 403 | 49,99 | 1 663 | 86,55 |
+| 104 | 52,36 | 364 | 20,96 | 624 | 9,69 | 884 | 34,89 | 1 144 | 12,56 | 1 404 | 50,32 | 1 664 | 86,7 |
+| 105 | 52,58 | 365 | 22,94 | 625 | 9,46 | 885 | 32,69 | 1 145 | 10,41 | 1 405 | 51,05 | 1 665 | 86,52 |
+| 106 | 52,47 | 366 | 25,05 | 626 | 10,21 | 886 | 30,99 | 1 146 | 9,07 | 1 406 | 51,45 | 1 666 | 86,85 |
+| 107 | 52,03 | 367 | 27,31 | 627 | 11,78 | 887 | 29,31 | 1 147 | 7,69 | 1 407 | 52 | 1 667 | 86,55 |
+| 108 | 51,46 | 368 | 29,54 | 628 | 13,6 | 888 | 27,29 | 1 148 | 6,28 | 1 408 | 52,3 | 1 668 | 86,81 |
+| 109 | 51,31 | 369 | 31,52 | 629 | 15,33 | 889 | 24,79 | 1 149 | 5,08 | 1 409 | 52,22 | 1 669 | 86,74 |
+| 110 | 51,45 | 370 | 33,19 | 630 | 17,12 | 890 | 21,78 | 1 150 | 4,32 | 1 410 | 52,66 | 1 670 | 86,63 |
+| 111 | 51,48 | 371 | 34,67 | 631 | 18,98 | 891 | 18,51 | 1 151 | 3,32 | 1 411 | 53,18 | 1 671 | 86,77 |
+| 112 | 51,29 | 372 | 36,13 | 632 | 20,73 | 892 | 15,1 | 1 152 | 1,92 | 1 412 | 53,8 | 1 672 | 87,03 |
+| 113 | 51,12 | 373 | 37,63 | 633 | 22,17 | 893 | 11,06 | 1 153 | 1,07 | 1 413 | 54,53 | 1 673 | 87,07 |
+| 114 | 50,96 | 374 | 39,07 | 634 | 23,29 | 894 | 6,28 | 1 154 | 0,66 | 1 414 | 55,37 | 1 674 | 86,92 |
+| 115 | 50,81 | 375 | 40,08 | 635 | 24,19 | 895 | 2,24 | 1 155 | 0 | 1 415 | 56,29 | 1 675 | 87,07 |
+| 116 | 50,86 | 376 | 40,44 | 636 | 24,97 | 896 | 0 | 1 156 | 0 | 1 416 | 57,31 | 1 676 | 87,18 |
+| 117 | 51,34 | 377 | 40,26 | 637 | 25,6 | 897 | 0 | 1 157 | 0 | 1 417 | 57,94 | 1 677 | 87,32 |
+| 118 | 51,68 | 378 | 39,29 | 638 | 25,96 | 898 | 0 | 1 158 | 0 | 1 418 | 57,86 | 1 678 | 87,36 |
+| 119 | 51,58 | 379 | 37,23 | 639 | 25,86 | 899 | 0 | 1 159 | 0 | 1 419 | 57,75 | 1 679 | 87,29 |
+| 120 | 51,36 | 380 | 34,14 | 640 | 24,69 | 900 | 0 | 1 160 | 0 | 1 420 | 58,67 | 1 680 | 87,58 |
+| 121 | 51,39 | 381 | 30,18 | 641 | 21,85 | 901 | 0 | 1 161 | 0 | 1 421 | 59,4 | 1 681 | 87,61 |
+| 122 | 50,98 | 382 | 25,71 | 642 | 17,45 | 902 | 2,56 | 1 162 | 0 | 1 422 | 59,69 | 1 682 | 87,76 |
+| 123 | 48,63 | 383 | 21,58 | 643 | 12,34 | 903 | 4,81 | 1 163 | 0 | 1 423 | 60,02 | 1 683 | 87,65 |
+| 124 | 44,83 | 384 | 18,5 | 644 | 7,59 | 904 | 6,38 | 1 164 | 0 | 1 424 | 60,21 | 1 684 | 87,61 |
+| 125 | 40,3 | 385 | 16,56 | 645 | 4 | 905 | 8,62 | 1 165 | 0 | 1 425 | 60,83 | 1 685 | 87,65 |
+| 126 | 35,65 | 386 | 15,39 | 646 | 1,76 | 906 | 10,37 | 1 166 | 0 | 1 426 | 61,16 | 1 686 | 87,65 |
+| 127 | 30,23 | 387 | 14,77 | 647 | 0 | 907 | 11,17 | 1 167 | 0 | 1 427 | 61,6 | 1 687 | 87,76 |
+| 128 | 24,08 | 388 | 14,58 | 648 | 0 | 908 | 13,32 | 1 168 | 0 | 1 428 | 62,15 | 1 688 | 87,76 |
+| 129 | 18,96 | 389 | 14,72 | 649 | 0 | 909 | 15,94 | 1 169 | 0 | 1 429 | 62,7 | 1 689 | 87,8 |
+| 130 | 14,19 | 390 | 15,44 | 650 | 0 | 910 | 16,89 | 1 170 | 0 | 1 430 | 63,65 | 1 690 | 87,72 |
+| 131 | 8,72 | 391 | 16,92 | 651 | 0 | 911 | 17,13 | 1 171 | 0 | 1 431 | 64,27 | 1 691 | 87,69 |
+| 132 | 3,41 | 392 | 18,69 | 652 | 0 | 912 | 18,04 | 1 172 | 0 | 1 432 | 64,31 | 1 692 | 87,54 |
+| 133 | 0,64 | 393 | 20,26 | 653 | 0 | 913 | 19,96 | 1 173 | 0 | 1 433 | 64,13 | 1 693 | 87,76 |
+| 134 | 0 | 394 | 21,63 | 654 | 0 | 914 | 22,05 | 1 174 | 0 | 1 434 | 64,27 | 1 694 | 87,5 |
+| 135 | 0 | 395 | 22,91 | 655 | 0 | 915 | 23,65 | 1 175 | 0 | 1 435 | 65,22 | 1 695 | 87,43 |
+| 136 | 0 | 396 | 24,13 | 656 | 0 | 916 | 25,72 | 1 176 | 0 | 1 436 | 66,25 | 1 696 | 87,47 |
+| 137 | 0 | 397 | 25,18 | 657 | 0 | 917 | 28,62 | 1 177 | 0 | 1 437 | 67,09 | 1 697 | 87,5 |
+| 138 | 0 | 398 | 26,16 | 658 | 2,96 | 918 | 31,99 | 1 178 | 0 | 1 438 | 68,37 | 1 698 | 87,5 |
+| 139 | 0 | 399 | 27,41 | 659 | 7,9 | 919 | 35,07 | 1 179 | 0 | 1 439 | 69,36 | 1 699 | 87,18 |
+| 140 | 0 | 400 | 29,18 | 660 | 13,49 | 920 | 37,42 | 1 180 | 0 | 1 440 | 70,57 | 1 700 | 87,36 |
+| 141 | 0 | 401 | 31,36 | 661 | 18,36 | 921 | 39,65 | 1 181 | 0 | 1 441 | 71,89 | 1 701 | 87,29 |
+| 142 | 0,63 | 402 | 33,51 | 662 | 22,59 | 922 | 41,78 | 1 182 | 0 | 1 442 | 73,35 | 1 702 | 87,18 |
+| 143 | 1,56 | 403 | 35,33 | 663 | 26,26 | 923 | 43,04 | 1 183 | 0 | 1 443 | 74,64 | 1 703 | 86,92 |
+| 144 | 2,99 | 404 | 36,94 | 664 | 29,4 | 924 | 43,55 | 1 184 | 0 | 1 444 | 75,81 | 1 704 | 87,36 |
+| 145 | 4,5 | 405 | 38,6 | 665 | 32,23 | 925 | 42,97 | 1 185 | 0 | 1 445 | 77,24 | 1 705 | 87,03 |
+| 146 | 5,39 | 406 | 40,44 | 666 | 34,91 | 926 | 41,08 | 1 186 | 0 | 1 446 | 78,63 | 1 706 | 87,07 |
+| 147 | 5,59 | 407 | 42,29 | 667 | 37,39 | 927 | 40,38 | 1 187 | 0 | 1 447 | 79,32 | 1 707 | 87,29 |
+| 148 | 5,45 | 408 | 43,73 | 668 | 39,61 | 928 | 40,43 | 1 188 | 0 | 1 448 | 80,2 | 1 708 | 86,99 |
+| 149 | 5,2 | 409 | 44,47 | 669 | 41,61 | 929 | 40,4 | 1 189 | 0 | 1 449 | 81,67 | 1 709 | 87,25 |
+| 150 | 4,98 | 410 | 44,62 | 670 | 43,51 | 930 | 40,25 | 1 190 | 0 | 1 450 | 82,11 | 1 710 | 87,14 |
+| 151 | 4,61 | 411 | 44,41 | 671 | 45,36 | 931 | 40,32 | 1 191 | 0 | 1 451 | 82,91 | 1 711 | 86,96 |
+| 152 | 3,89 | 412 | 43,96 | 672 | 47,17 | 932 | 40,8 | 1 192 | 0 | 1 452 | 83,43 | 1 712 | 87,14 |
+| 153 | 3,21 | 413 | 43,41 | 673 | 48,95 | 933 | 41,71 | 1 193 | 0 | 1 453 | 83,79 | 1 713 | 87,07 |
+| 154 | 2,98 | 414 | 42,83 | 674 | 50,73 | 934 | 43,16 | 1 194 | 0 | 1 454 | 83,5 | 1 714 | 86,92 |
+| 155 | 3,31 | 415 | 42,15 | 675 | 52,36 | 935 | 44,84 | 1 195 | 0 | 1 455 | 84,01 | 1 715 | 86,88 |
+| 156 | 4,18 | 416 | 41,28 | 676 | 53,74 | 936 | 46,42 | 1 196 | 1,54 | 1 456 | 83,43 | 1 716 | 86,85 |
+| 157 | 5,07 | 417 | 40,17 | 677 | 55,02 | 937 | 47,91 | 1 197 | 4,85 | 1 457 | 82,99 | 1 717 | 86,92 |
+| 158 | 5,52 | 418 | 38,9 | 678 | 56,24 | 938 | 49,08 | 1 198 | 9,06 | 1 458 | 82,77 | 1 718 | 86,81 |
+| 159 | 5,73 | 419 | 37,59 | 679 | 57,29 | 939 | 49,66 | 1 199 | 11,8 | 1 459 | 82,33 | 1 719 | 86,88 |
+| 160 | 6,06 | 420 | 36,39 | 680 | 58,18 | 940 | 50,15 | 1 200 | 12,42 | 1 460 | 81,78 | 1 720 | 86,66 |
+| 161 | 6,76 | 421 | 35,33 | 681 | 58,95 | 941 | 50,94 | 1 201 | 12,07 | 1 461 | 81,81 | 1 721 | 86,92 |
+| 162 | 7,7 | 422 | 34,3 | 682 | 59,49 | 942 | 51,69 | 1 202 | 11,64 | 1 462 | 81,05 | 1 722 | 86,48 |
+| 163 | 8,34 | 423 | 33,07 | 683 | 59,86 | 943 | 53,5 | 1 203 | 11,69 | 1 463 | 80,72 | 1 723 | 86,66 |
+| 164 | 8,51 | 424 | 31,41 | 684 | 60,3 | 944 | 55,9 | 1 204 | 12,91 | 1 464 | 80,61 | 1 724 | 86,74 |
+| 165 | 8,22 | 425 | 29,18 | 685 | 61,01 | 945 | 57,11 | 1 205 | 15,58 | 1 465 | 80,46 | 1 725 | 86,37 |
+| 166 | 7,22 | 426 | 26,41 | 686 | 61,96 | 946 | 57,88 | 1 206 | 18,69 | 1 466 | 80,42 | 1 726 | 86,48 |
+| 167 | 5,82 | 427 | 23,4 | 687 | 63,05 | 947 | 58,63 | 1 207 | 21,04 | 1 467 | 80,42 | 1 727 | 86,33 |
+| 168 | 4,75 | 428 | 20,9 | 688 | 64,16 | 948 | 58,75 | 1 208 | 22,62 | 1 468 | 80,24 | 1 728 | 86,3 |
+| 169 | 4,24 | 429 | 19,59 | 689 | 65,14 | 949 | 58,26 | 1 209 | 24,34 | 1 469 | 80,13 | 1 729 | 86,44 |
+| 170 | 4,05 | 430 | 19,36 | 690 | 65,85 | 950 | 58,03 | 1 210 | 26,74 | 1 470 | 80,39 | 1 730 | 86,33 |
+| 171 | 3,98 | 431 | 19,79 | 691 | 66,22 | 951 | 58,28 | 1 211 | 29,62 | 1 471 | 80,72 | 1 731 | 86 |
+| 172 | 3,91 | 432 | 20,43 | 692 | 66,12 | 952 | 58,67 | 1 212 | 32,65 | 1 472 | 81,01 | 1 732 | 86,33 |
+| 173 | 3,86 | 433 | 20,71 | 693 | 65,01 | 953 | 58,76 | 1 213 | 35,57 | 1 473 | 81,52 | 1 733 | 86,22 |
+| 174 | 4,17 | 434 | 20,56 | 694 | 62,22 | 954 | 58,82 | 1 214 | 38,07 | 1 474 | 82,4 | 1 734 | 86,08 |
+| 175 | 5,32 | 435 | 19,96 | 695 | 57,44 | 955 | 59,09 | 1 215 | 39,71 | 1 475 | 83,21 | 1 735 | 86,22 |
+| 176 | 7,53 | 436 | 20,22 | 696 | 51,47 | 956 | 59,38 | 1 216 | 40,36 | 1 476 | 84,05 | 1 736 | 86,33 |
+| 177 | 10,89 | 437 | 21,48 | 697 | 45,98 | 957 | 59,72 | 1 217 | 40,6 | 1 477 | 84,85 | 1 737 | 86,33 |
+| 178 | 14,81 | 438 | 23,67 | 698 | 41,72 | 958 | 60,04 | 1 218 | 41,15 | 1 478 | 85,42 | 1 738 | 86,26 |
+| 179 | 17,56 | 439 | 26,09 | 699 | 38,22 | 959 | 60,13 | 1 219 | 42,23 | 1 479 | 86,18 | 1 739 | 86,48 |
+| 180 | 18,38 | 440 | 28,16 | 700 | 34,65 | 960 | 59,33 | 1 220 | 43,61 | 1 480 | 86,45 | 1 740 | 86,48 |
+| 181 | 17,49 | 441 | 29,75 | 701 | 30,65 | 961 | 58,52 | 1 221 | 45,08 | 1 481 | 86,64 | 1 741 | 86,55 |
+| 182 | 15,18 | 442 | 30,97 | 702 | 26,46 | 962 | 57,82 | 1 222 | 46,58 | 1 482 | 86,57 | 1 742 | 86,66 |
+| 183 | 13,08 | 443 | 31,99 | 703 | 22,32 | 963 | 56,68 | 1 223 | 48,13 | 1 483 | 86,43 | 1 743 | 86,66 |
+| 184 | 12,23 | 444 | 32,84 | 704 | 18,15 | 964 | 55,36 | 1 224 | 49,7 | 1 484 | 86,58 | 1 744 | 86,59 |
+| 185 | 12,03 | 445 | 33,33 | 705 | 13,79 | 965 | 54,63 | 1 225 | 51,27 | 1 485 | 86,8 | 1 745 | 86,55 |
+| 186 | 11,72 | 446 | 33,45 | 706 | 9,29 | 966 | 54,04 | 1 226 | 52,8 | 1 486 | 86,65 | 1 746 | 86,74 |
+| 187 | 10,69 | 447 | 33,27 | 707 | 4,98 | 967 | 53,15 | 1 227 | 54,3 | 1 487 | 86,14 | 1 747 | 86,21 |
+| 188 | 8,68 | 448 | 32,66 | 708 | 1,71 | 968 | 52,02 | 1 228 | 55,8 | 1 488 | 86,36 | 1 748 | 85,96 |
+| 189 | 6,2 | 449 | 31,73 | 709 | 0 | 969 | 51,37 | 1 229 | 57,29 | 1 489 | 86,32 | 1 749 | 85,5 |
+| 190 | 4,07 | 450 | 30,58 | 710 | 0 | 970 | 51,41 | 1 230 | 58,73 | 1 490 | 86,25 | 1 750 | 84,77 |
+| 191 | 2,65 | 451 | 29,2 | 711 | 0 | 971 | 52,2 | 1 231 | 60,12 | 1 491 | 85,92 | 1 751 | 84,65 |
+| 192 | 1,92 | 452 | 27,56 | 712 | 0 | 972 | 53,52 | 1 232 | 61,5 | 1 492 | 86,14 | 1 752 | 84,1 |
+| 193 | 1,69 | 453 | 25,71 | 713 | 0 | 973 | 54,34 | 1 233 | 62,94 | 1 493 | 86,36 | 1 753 | 83,46 |
+| 194 | 1,68 | 454 | 23,76 | 714 | 0 | 974 | 54,59 | 1 234 | 64,39 | 1 494 | 86,25 | 1 754 | 82,77 |
+| 195 | 1,66 | 455 | 21,87 | 715 | 0 | 975 | 54,92 | 1 235 | 65,52 | 1 495 | 86,5 | 1 755 | 81,78 |
+| 196 | 1,53 | 456 | 20,15 | 716 | 0 | 976 | 55,69 | 1 236 | 66,07 | 1 496 | 86,14 | 1 756 | 81,16 |
+| 197 | 1,3 | 457 | 18,38 | 717 | 0 | 977 | 56,51 | 1 237 | 66,19 | 1 497 | 86,29 | 1 757 | 80,42 |
+| 198 | 1 | 458 | 15,93 | 718 | 0 | 978 | 56,73 | 1 238 | 66,19 | 1 498 | 86,4 | 1 758 | 79,21 |
+| 199 | 0,77 | 459 | 12,33 | 719 | 0 | 979 | 56,33 | 1 239 | 66,43 | 1 499 | 86,36 | 1 759 | 78,48 |
+| 200 | 0,63 | 460 | 7,99 | 720 | 0 | 980 | 55,38 | 1 240 | 67,07 | 1 500 | 85,63 | 1 760 | 77,49 |
+| 201 | 0,59 | 461 | 4,19 | 721 | 0 | 981 | 54,99 | 1 241 | 68,04 | 1 501 | 86,03 | 1 761 | 76,69 |
+| 202 | 0,59 | 462 | 1,77 | 722 | 0 | 982 | 54,75 | 1 242 | 69,12 | 1 502 | 85,92 | 1 762 | 75,92 |
+| 203 | 0,57 | 463 | 0,69 | 723 | 0 | 983 | 54,11 | 1 243 | 70,08 | 1 503 | 86,14 | 1 763 | 75,08 |
+| 204 | 0,53 | 464 | 1,13 | 724 | 0 | 984 | 53,32 | 1 244 | 70,91 | 1 504 | 86,32 | 1 764 | 73,87 |
+| 205 | 0,5 | 465 | 2,2 | 725 | 0 | 985 | 52,41 | 1 245 | 71,73 | 1 505 | 85,92 | 1 765 | 72,15 |
+| 206 | 0 | 466 | 3,59 | 726 | 0 | 986 | 51,45 | 1 246 | 72,66 | 1 506 | 86,11 | 1 766 | 69,69 |
+| 207 | 0 | 467 | 4,88 | 727 | 0 | 987 | 50,86 | 1 247 | 73,67 | 1 507 | 85,91 | 1 767 | 67,17 |
+| 208 | 0 | 468 | 5,85 | 728 | 0 | 988 | 50,48 | 1 248 | 74,55 | 1 508 | 85,83 | 1 768 | 64,75 |
+| 209 | 0 | 469 | 6,72 | 729 | 0 | 989 | 49,6 | 1 249 | 75,18 | 1 509 | 85,86 | 1 769 | 62,55 |
+| 210 | 0 | 470 | 8,02 | 730 | 0 | 990 | 48,55 | 1 250 | 75,59 | 1 510 | 85,5 | 1 770 | 60,32 |
+| 211 | 0 | 471 | 10,02 | 731 | 0 | 991 | 47,87 | 1 251 | 75,82 | 1 511 | 84,97 | 1 771 | 58,45 |
+| 212 | 0 | 472 | 12,59 | 732 | 0 | 992 | 47,42 | 1 252 | 75,9 | 1 512 | 84,8 | 1 772 | 56,43 |
+| 213 | 0 | 473 | 15,43 | 733 | 0 | 993 | 46,86 | 1 253 | 75,92 | 1 513 | 84,2 | 1 773 | 54,35 |
+| 214 | 0 | 474 | 18,32 | 734 | 0 | 994 | 46,08 | 1 254 | 75,87 | 1 514 | 83,26 | 1 774 | 52,22 |
+| 215 | 0 | 475 | 21,19 | 735 | 0 | 995 | 45,07 | 1 255 | 75,68 | 1 515 | 82,77 | 1 775 | 50,25 |
+| 216 | 0 | 476 | 24 | 736 | 0 | 996 | 43,58 | 1 256 | 75,37 | 1 516 | 81,78 | 1 776 | 48,23 |
+| 217 | 0 | 477 | 26,75 | 737 | 0 | 997 | 41,04 | 1 257 | 75,01 | 1 517 | 81,16 | 1 777 | 46,51 |
+| 218 | 0 | 478 | 29,53 | 738 | 0 | 998 | 38,39 | 1 258 | 74,55 | 1 518 | 80,42 | 1 778 | 44,35 |
+| 219 | 0 | 479 | 32,31 | 739 | 0 | 999 | 35,69 | 1 259 | 73,8 | 1 519 | 79,21 | 1 779 | 41,97 |
+| 220 | 0 | 480 | 34,8 | 740 | 0 | 1 000 | 32,68 | 1 260 | 72,71 | 1 520 | 78,83 | 1 780 | 39,33 |
+| 221 | 0 | 481 | 36,73 | 741 | 0 | 1 001 | 29,82 | 1 261 | 71,39 | 1 521 | 78,52 | 1 781 | 36,48 |
+| 222 | 0 | 482 | 38,08 | 742 | 0 | 1 002 | 26,97 | 1 262 | 70,02 | 1 522 | 78,52 | 1 782 | 33,8 |
+| 223 | 0 | 483 | 39,11 | 743 | 0 | 1 003 | 24,03 | 1 263 | 68,71 | 1 523 | 78,81 | 1 783 | 31,09 |
+| 224 | 0 | 484 | 40,16 | 744 | 0 | 1 004 | 21,67 | 1 264 | 67,52 | 1 524 | 79,26 | 1 784 | 28,24 |
+| 225 | 0 | 485 | 41,18 | 745 | 0 | 1 005 | 20,34 | 1 265 | 66,44 | 1 525 | 79,61 | 1 785 | 26,81 |
+| 226 | 0,73 | 486 | 41,75 | 746 | 0 | 1 006 | 18,9 | 1 266 | 65,45 | 1 526 | 80,15 | 1 786 | 23,33 |
+| 227 | 0,73 | 487 | 41,87 | 747 | 0 | 1 007 | 16,21 | 1 267 | 64,49 | 1 527 | 80,39 | 1 787 | 19,01 |
+| 228 | 0 | 488 | 41,43 | 748 | 0 | 1 008 | 13,84 | 1 268 | 63,54 | 1 528 | 80,72 | 1 788 | 15,05 |
+| 229 | 0 | 489 | 39,99 | 749 | 0 | 1 009 | 12,25 | 1 269 | 62,6 | 1 529 | 81,01 | 1 789 | 12,09 |
+| 230 | 0 | 490 | 37,71 | 750 | 0 | 1 010 | 10,4 | 1 270 | 61,67 | 1 530 | 81,52 | 1 790 | 9,49 |
+| 231 | 0 | 491 | 34,93 | 751 | 0 | 1 011 | 7,94 | 1 271 | 60,69 | 1 531 | 82,4 | 1 791 | 6,81 |
+| 232 | 0 | 492 | 31,79 | 752 | 0 | 1 012 | 6,05 | 1 272 | 59,64 | 1 532 | 83,21 | 1 792 | 4,28 |
+| 233 | 0 | 493 | 28,65 | 753 | 0 | 1 013 | 5,67 | 1 273 | 58,6 | 1 533 | 84,05 | 1 793 | 2,09 |
+| 234 | 0 | 494 | 25,92 | 754 | 0 | 1 014 | 6,03 | 1 274 | 57,64 | 1 534 | 85,15 | 1 794 | 0,88 |
+| 235 | 0 | 495 | 23,91 | 755 | 0 | 1 015 | 7,68 | 1 275 | 56,79 | 1 535 | 85,92 | 1 795 | 0,88 |
+| 236 | 0 | 496 | 22,81 | 756 | 0 | 1 016 | 10,97 | 1 276 | 55,95 | 1 536 | 86,98 | 1 796 | 0 |
+| 237 | 0 | 497 | 22,53 | 757 | 0 | 1 017 | 14,72 | 1 277 | 55,09 | 1 537 | 87,45 | 1 797 | 0 |
+| 238 | 0 | 498 | 22,62 | 758 | 0 | 1 018 | 17,32 | 1 278 | 54,2 | 1 538 | 87,54 | 1 798 | 0 |
+| 239 | 0 | 499 | 22,95 | 759 | 0 | 1 019 | 18,59 | 1 279 | 53,33 | 1 539 | 87,25 | 1 799 | 0 |
+| 240 | 0 | 500 | 23,51 | 760 | 0 | 1 020 | 19,35 | 1 280 | 52,52 | 1 540 | 87,04 | 1 800 | 0 |
+| 241 | 0 | 501 | 24,04 | 761 | 0 | 1 021 | 20,54 | 1 281 | 51,75 | 1 541 | 86,98 |  |  |
+| 242 | 0 | 502 | 24,45 | 762 | 0 | 1 022 | 21,33 | 1 282 | 50,92 | 1 542 | 87,05 |  |  |
+| 243 | 0 | 503 | 24,81 | 763 | 0 | 1 023 | 22,06 | 1 283 | 49,9 | 1 543 | 87,1 |  |  |
+| 244 | 0 | 504 | 25,29 | 764 | 0 | 1 024 | 23,39 | 1 284 | 48,68 | 1 544 | 87,25 |  |  |
+| 245 | 0 | 505 | 25,99 | 765 | 0 | 1 025 | 25,52 | 1 285 | 47,41 | 1 545 | 87,25 |  |  |
+| 246 | 0 | 506 | 26,83 | 766 | 0 | 1 026 | 28,28 | 1 286 | 46,5 | 1 546 | 87,07 |  |  |
+| 247 | 0 | 507 | 27,6 | 767 | 0 | 1 027 | 30,38 | 1 287 | 46,22 | 1 547 | 87,29 |  |  |
+| 248 | 0 | 508 | 28,17 | 768 | 0 | 1 028 | 31,22 | 1 288 | 46,44 | 1 548 | 87,14 |  |  |
+| 249 | 0 | 509 | 28,63 | 769 | 0 | 1 029 | 32,22 | 1 289 | 47,35 | 1 549 | 87,03 |  |  |
+| 250 | 0 | 510 | 29,04 | 770 | 0 | 1 030 | 33,78 | 1 290 | 49,01 | 1 550 | 87,25 |  |  |
+| 251 | 0 | 511 | 29,43 | 771 | 0 | 1 031 | 35,08 | 1 291 | 50,93 | 1 551 | 87,03 |  |  |
+| 252 | 0 | 512 | 29,78 | 772 | 1,6 | 1 032 | 35,91 | 1 292 | 52,79 | 1 552 | 87,03 |  |  |
+| 253 | 1,51 | 513 | 30,13 | 773 | 5,03 | 1 033 | 36,06 | 1 293 | 54,66 | 1 553 | 87,07 |  |  |
+| 254 | 4,12 | 514 | 30,57 | 774 | 9,49 | 1 034 | 35,5 | 1 294 | 56,6 | 1 554 | 86,81 |  |  |
+| 255 | 7,02 | 515 | 31,1 | 775 | 13 | 1 035 | 34,76 | 1 295 | 58,55 | 1 555 | 86,92 |  |  |
+| 256 | 9,45 | 516 | 31,65 | 776 | 14,65 | 1 036 | 34,7 | 1 296 | 60,47 | 1 556 | 86,66 |  |  |
+| 257 | 11,86 | 517 | 32,14 | 777 | 15,15 | 1 037 | 35,41 | 1 297 | 62,28 | 1 557 | 86,92 |  |  |
+| 258 | 14,52 | 518 | 32,62 | 778 | 15,67 | 1 038 | 36,65 | 1 298 | 63,9 | 1 558 | 86,59 |  |  |
+| 259 | 17,01 | 519 | 33,25 | 779 | 16,76 | 1 039 | 37,57 | 1 299 | 65,2 | 1 559 | 86,92 |  |  |
+| 260 | 19,48 | 520 | 34,2 | 780 | 17,88 | 1 040 | 38,51 | 1 300 | 66,02 | 1 560 | 86,59 |  |  |
+
+Appendix 6
+
+**Drain and weigh procedure**
+
+1\.
+
+The engine shall be filled with new oil. If a constant volume oil sump system (as described in ASTM standard D7156-09) is used, the oil pump shall be turned on while filling the engine. Enough oil charge shall be added to fill up both the engine and external sump.
+
+2\.
+
+The engine shall be started and operated over the desired test cycle (see points 2.2.15 and 2.4.4.8.3.1) for a minimum of 1 hour.
+
+3\.
+
+Once the cycle is complete, oil temperature shall be allowed to stabilise at a steady-state engine condition before shutting the engine down.
+
+4\.
+
+A clean, empty oil drain pan shall be weighed.
+
+5\.
+
+Any clean supplies that are to be used during the oil drain (e.g. rags) shall be weighed.
+
+6\.
+
+The oil shall be drained for 10 minutes with the external oil pump (if equipped) powered on followed by an additional ten minutes with the pump powered off. If a constant volume sump system is not used, the oil shall be drained from the engine for a total of 20 minutes.
+
+7\.
+
+The drained oil shall be weighed.
+
+8\.
+
+The weight determined in accordance with step 7 shall be subtracted from the weight determined in accordance with step 4. The difference corresponds to the total weight of the oil removed from the engine and collected in the drain pan.
+
+9\.
+
+The oil shall be carefully returned to the engine.
+
+10\.
+
+The empty drain pan shall be weighted.
+
+11\.
+
+The weight determined in accordance with step 10 shall be subtracted from the weight determined in accordance with step 4. The result corresponds to the weight of the residual oil in the drain pan that was not returned to the engine.
+
+12\.
+
+Any dirty supplies which have previously been weighed pursuant to step 5 shall be weighed.
+
+13\.
+
+The weight determined in accordance with step 12 shall be subtracted from the weight determined in accordance with step 5. The result corresponds to the weight of the residual oil which remained on the dirty supplies that was not returned to the engine.
+
+14\.
+
+The residual oil weights calculated in accordance with steps 11 and 13 shall be subtracted from the total weight of the oil removed, calculated in accordance with step 8. The difference between those weights corresponds to the total weight of the oil returned to the engine.
+
+15\.
+
+The engine shall be operated under the desired test cycle(s) (see points 2.2.15 and 2.4.4.8.3.1).
+
+16\.
+
+Steps 3-8 shall be repeated.
+
+17\.
+
+The weight of the oil drained pursuant to step 16 shall be subtracted from the weight obtained in accordance with step 14. The difference between those weights corresponds to the total weight of the oil consumed.
+
+18\.
+
+The total weight of the oil consumed calculated pursuant to step 14 shall be divided by the duration, in hours, of the test cycles carried out in accordance with step 15. The result is the lubricant consumption rate.
+
+Appendix 7
+
+**Example of service accumulation schedule including thermal, lubricant consumption and regeneration sequences**
+
+[image: see source](https://www.legislation.gov.uk/eur/2011/582/images/eur_20110582_2020-09-01_en_009)
+
+Appendix 8
+
+**Flowchart on the performance of the service accumulation schedule**
+
+[image: see source](https://www.legislation.gov.uk/eur/2011/582/images/eur_20110582_2020-09-01_en_010)
+
+## ANNEX XII — CONFORMITY OF IN-SERVICE ENGINES AND VEHICLES TYPE-APPROVED UNDER DIRECTIVE 2005/55/EC
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex sets out requirements for the conformity of in-service engines and vehicles type-approved under Directive 2005/55/EC.
+
+2\.
+
+PROCEDURE FOR IN-SERVICE CONFORMITY
+
+2.1.
+
+For in-service conformity testing, the provisions set out in Annex 8 to UNECE Regulation No 49, amendment 5, shall apply.
+
+2.2.
+
+On the request of the manufacturer the approval authority that granted the original type-approval may decide to use the in-service conformity procedure specified in Annex II to this Regulation for engines and vehicles type-approved under Directive 2005/55/EC.
+
+2.3.
+
+If the procedures described in Annex II are used, the following exceptions shall apply:
+
+- All references to WHTC and WHSC shall be understood as references to ETC and ESC, respectively, as defined in Annex 4A to UNECE Regulation No 49, amendment 5.
+- Point 2.2 of Annex II to this Regulation shall not apply.
+- If the normal in-service conditions of a particular vehicle are considered to be incompatible with proper execution of the tests, the manufacturer or the approval authority may request that alternative driving routs and payloads are used. The requirements as specified in points 4.1 and 4.5 of Annex II to this Regulation shall be used as guideline to determine whether the driving patterns and payloads are acceptable for in-service conformity testing.
+
+  When the vehicle is operated by a driver other than the usual professional driver of the particular vehicle, this alternative driver shall be skilled and trained to operate heavy duty vehicles of the category subject to be tested.
+- Points 2.3 and 2.4 of Annex II shall not apply.
+- Point 3.1 of Annex II shall not apply.
+- The manufacturer shall perform in-service testing on this engine family. The test schedule shall be approved by the approval authority.
+
+  At the request of the manufacturer the testing may stop 5 years after the end of production.
+- At the request of the manufacturer the approval authority may decide on a sampling plan in accordance with points 3.1.1, 3.1.2 and 3.1.3 of Annex II or in accordance with Appendix 3 of Annex 8 to UNECE Regulation No 49, amendment 5.
+- Point 4.4.2 of Annex II to this Regulation shall not apply.
+- The fuel may be replaced with the appropriate reference fuel, on the request of the manufacturer.
+- The values in point 4.5 of Annex II may be used as guidance to determine whether the driving patterns and payloads are acceptable for in-service conformity testing.
+- Point 4.6.5 of Annex II shall not apply.
+- The minimum test duration shall be three times the work of the ETC or the CO<sub>2</sub> reference mass in kg/cycle from the ETC as applicable.
+- Point 5.1.1.1.2 of Annex II shall not apply.
+- In the case the data stream information referred to in point 5.1.1 of Annex II cannot be retrieved in a proper manner from two vehicles with engines from the same engine family, while the scan-tool is working properly, the engine shall be tested following the procedures set out in Annex 8 to UN/ECE Regulation No 49.
+- Confirmatory testing may be performed on an engine test bench as defined in Annex 8 to UN/ECE Regulation No 49.
+- The manufacturer may request the approval authority to perform confirmatory testing on an engine test bench as defined in Annex 8 to UN/ECE Regulation No 49 if the following conditions are met:
+  - ((a)) a fail decision has been reached for the vehicles sampled according to point 2.3.7;
+  - ((b)) the 90 % cumulative percentile of the exhaust emission conformity factors from the engine system tested, determined in accordance with the measurement and calculation procedures specified in Appendix 1 to Annex II does not exceed the value of 2,0.
+
+## ANNEX XIII — REQUIREMENTS TO ENSURE THE CORRECT OPERATION OF NO<sub>x</sub> CONTROL MEASURES
+
+1\.
+
+INTRODUCTION
+
+This Annex sets out the requirements to ensure the correct operation of NO<sub>x</sub> control measures. It includes requirements for vehicles that rely on the use of a reagent in order to reduce emissions.
+
+2\.
+
+GENERAL REQUIREMENTS
+
+The general requirements shall be those set out in paragraph 2 of Annex 11 to Regulation UNECE Regulation No 49, with the exceptions provided for in paragraphs 2.1 to 2.1.5 of this Regulation.
+
+2.1.
+
+Alternative approval
+
+2.1.1.
+
+If requested by the manufacturer, for vehicles of categories M<sub> 2 </sub> and N<sub> 1 </sub>, for vehicles of categories M<sub> 1 </sub> and N<sub> 2 </sub> with a maximum permissible mass not exceeding 7,5 tonnes and for vehicles of categories M<sub> 3 </sub> Class I, Class II and Class A and Class B as defined in Section 2 (Definitions) in UN Regulation 107, as amended by the 07 series of amendments[^key-1cf8b85b2ef782dc1c39ea8f186da516] with a permissible mass not exceeding 7,5 tonnes, compliance with the requirements set out in Annex XVI to Regulation (EC) No 692/2008 shall be considered equivalent to the compliance with this Annex.
+
+2.1.2.
+
+If the alternative approval is used:
+
+- The information related to the correct operation of NO<sub> x </sub> control measures in points 3.2.12.2.8.1 to 3.2.12.2.8.5 of Part 2 of Appendix 4 to Annex I to this Regulation is replaced by the information in point 3.2.12.2.8 of Appendix 3 of Annex I to Regulation (EC) No 692/2008.
+- The following exceptions shall apply regarding the application of the requirements set out in Annex XVI to Regulation (EC) No 692/2008 and those of this Annex:
+  - The provisions on reagent quality monitoring set out in points 7 to 7.1.3 of this Annex shall apply, instead of points 4.1 and 4.2 of Annex XVI to Regulation (EC) No 692/2008.
+  - The provisions on reagent consumption monitoring and dosing activity set out in points 8, 8.1 and 8.1.1 of this Annex shall apply, instead of points 5 to 5.5 of Annex XVI to Regulation (EC) No 692/2008.
+  - The driver warning system referred to in Sections 4, 7 and 8 of this Annex shall be understood as the driver warning system in Section 3 of Annex XVI to Regulation (EC) No 692/2008.
+  - Section 6 of Annex XVI to Regulation (EC) No 692/2008 shall not apply.
+  - The provisions set out in point 5.2 of this Annex shall apply, in the case of vehicles for use by the rescue services, or engines or vehicles specified in Article 2(2)(d) or[^key-df91f73dd49e755bd89b69e4c8f0375f] Article 2(3)(b) of Regulation (EU) 2018/858[^key-94d28f7c634dd6e1c82d7cfffb7e3c97].
+
+2.1.3.
+
+Paragraph 2.2.1 of Annex 11 to UNECE Regulation No 49 shall be understood as follows:
+
+> - Information that fully describes the functional operational characteristics of an engine system covered by this Annex shall be provided by the manufacturer in the form set out in Appendix 4 of Annex I to this Regulation.
+
+2.1.4.
+
+The first paragraph of point 2.2.4 of Annex 11 to UNECE Regulation No 49 shall be understood as follows:
+
+> - When a manufacturer applies for an approval of an engine or engine family as a separate technical unit, it shall include in the documentation package referred to in Articles 5(3), 7(3) or 9(3) of this Regulation, the appropriate requirements that will ensure that the vehicle, when used on the road or elsewhere as appropriate, will comply with the requirements set out in this Annex. This documentation shall include the following:
+
+2.1.5.
+
+Paragraph 2.3.1 of Annex 11 to UNECE Regulation No 49 shall be understood as follows:
+
+> - Any engine system falling within the scope of this Annex shall retain its emission control function during all conditions regularly pertaining in the territory of the Union or the United Kingdom[^key-fb87a97ca4b7378002415dc06b5af9b8], especially at low ambient temperatures, in line with Annex VI to this Regulation.
+
+**No longer in force.**
+
+[^c000015]2.2.
+
+**Required information**
+
+[^c000015]2.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]2.3.
+
+**Operating conditions**
+
+[^c000015]2.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]2.4.
+
+**Reagent freeze protection**
+
+[^c000015]2.4.1.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.2.
+
+*Heated reagent tank and dosing system*
+
+[^c000015]2.4.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.2.2.
+
+Demonstration
+
+[^c000015]2.4.2.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.2.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.2.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.2.2.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.3.
+
+*Non-heated reagent tank and dosing system*
+
+[^c000015]2.4.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3\.
+
+MAINTENANCE REQUIREMENTS
+
+3.1.
+
+The maintenance requirements shall be those set out in paragraph 3 of Annex 11 to UNECE Regulation No 49.
+
+[^c000015]3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.7.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4\.
+
+DRIVER WARNING SYSTEM
+
+4.1.
+
+The characteristics and operation of the driver warning system shall be those set out in paragraph 4 of Annex 11 to UNECE Regulation No 49, with the exceptions provided for in point 4.1.1 of this Regulation.
+
+4.1.1.
+
+Paragraph 4.8 of Annex 11 to UNECE Regulation No 49 shall be understood as follows:
+
+> - A facility to permit the driver to dim the visual alarms provided by the warning system may be provided on vehicles for use by the rescue services or on vehicles in the categories defined in Article 2(2)(d) or 2(3)(b) of Regulation (EU) 2018/858[^key-62ecc70efd717310397bced050399e96].
+
+[^c000015]4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.7.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.8.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.9.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.10.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5\.
+
+DRIVER INDUCEMENT SYSTEM
+
+5.1.
+
+The characteristics and operation of the driver inducement system shall be those set out in paragraph 5 of Annex 11 to UNECE Regulation No 49, with the exceptions provided for in point 5.1.1 of this Regulation.
+
+5.1.1.
+
+Paragraph 5.2 of Annex 11 to UNECE Regulation No 49 shall be understood as follows:
+
+> - The requirement for a driver inducement system shall not apply to engines or vehicles for use by the rescue services or to engines or vehicles specified in Article 2(2)(d) or 2(3)(b) of Regulation (EU) 2018/858[^key-39fcfc7393d88644b902e64946fccb1e]. Permanent deactivation of the driver inducement system shall only be done by the engine or vehicle manufacturer.
+
+[^c000015]5.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]5.3.
+
+**Low-level inducement system**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]5.4.
+
+**Severe inducement system**
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.5.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^c000015]5.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.7.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.8.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6\.
+
+REAGENT AVAILABILITY
+
+6.1.
+
+The measures regarding reagent availability shall be those set out in paragraph 6 of Annex 11 to UNECE Regulation No 49.
+
+**No longer in force.**
+
+[^c000015]6.2.
+
+**Activation of the driver warning system**
+
+[^c000015]6.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.2.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.2.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]6.3.
+
+**Activation of the driver inducement system**
+
+[^c000015]6.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]6.3.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7\.
+
+REAGENT QUALITY MONITORING
+
+7.1.
+
+The measures regarding reagent quality monitoring shall be those set out in paragraph 7 of Annex 11 to UNECE Regulation No 49, with the exceptions provided for in points 7.1.1, 7.1.2 and 7.1.3 of this Regulation.
+
+7.1.1.
+
+Paragraph 7.1.1 of Annex 11 to UNECE Regulation No 49 shall be understood as follows:
+
+> - The manufacturer shall specify a minimum acceptable reagent concentration CD<sub> min </sub>, which results in tailpipe emissions not exceeding the limit values specified in Annex I to Regulation (EC) No 595/2009.
+
+[^c000015]7.1.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]7.1.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7.1.2.
+
+Paragraph 7.1.1.1 of Annex 11 to UNECE Regulation No 49 shall be understood as follows:
+
+> - During the phase-in period specified in Article 4(7) of this Regulation and upon request of the manufacturer for the purpose of point 7.1, the reference to the NO<sub> x </sub> emission limit specified in Annex I to Regulation (EC) No595/2009 shall be replaced by the value of 900mg/kWh.
+
+7.1.3.
+
+Paragraph 7.1.1.2 of Annex 11 to UNECE Regulation No 49 shall be understood as follows:
+
+> - The correct value of CD<sub> min </sub> shall be demonstrated during type-approval by the procedure provided for in Appendix 6 of Annex 11 to UNECE Regulation No 49 and recorded in the extended documentation package as specified in Article 3 and Section 8 of Annex I to this Regulation.
+
+[^c000015]7.1.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]7.1.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]7.2.
+
+**Activation of the driver warning system**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]7.3.
+
+**Activation of the driver inducement system**
+
+[^c000015]7.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]7.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]7.3.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8\.
+
+REAGENT CONSUMPTION AND DOSING ACTIVITY
+
+8.1.
+
+The measures regarding reagent consumption monitoring and dosing activity shall be those set out in paragraph 8 of Annex 11 to UN/ECE Regulation No 49.
+
+8.1.1.
+
+Paragraph 8.4.1.1 of Annex 11 to UNECE Regulation No 49 shall be understood as follows:
+
+> - Until the end of the phase-in period specified in Article 4(7) of this Regulation, the driver warning system described in Section 4 of Annex 11 to UNECE Regulation No 49 shall be activated if a deviation of more than 50 % between the average reagent consumption and the average demanded reagent consumption by the engine system over the period to be defined by the manufacturer, which shall not be longer than the maximum period specified in paragraph 8.3.1 of Annex 11 to UNECE Regulation No 49, is detected.
+
+**No longer in force.**
+
+[^c000015]8.2.
+
+**Reagent consumption and dosing activity counters**
+
+[^c000015]8.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]8.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]8.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]8.3.
+
+**Monitoring conditions**
+
+[^c000015]8.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]8.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]8.4.
+
+**Activation of the driver warning system**
+
+[^c000015]8.4.1.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]8.4.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]8.4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]8.5.
+
+**Activation of the driver inducement system**
+
+[^c000015]8.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]8.5.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]8.5.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+9\.
+
+MONITORING FAILURES THAT MAY BE ATTRIBUTED TO TAMPERING
+
+9.1.
+
+The measures regarding monitoring failures that may be attributed to tampering shall be those set out in paragraph 6 of Annex 11 to UNECE Regulation No 49.
+
+**No longer in force.**
+
+[^c000015]9.2.
+
+**Monitoring requirements**
+
+[^c000015]9.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]9.2.2.
+
+*EGR valve counter*
+
+[^c000015]9.2.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]9.2.2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]9.2.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]9.2.3.
+
+*Monitoring system counters*
+
+[^c000015]9.2.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]9.2.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]9.2.3.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]9.3.
+
+**Activation of the driver warning system**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]9.4.
+
+**Activation of the driver inducement system**
+
+[^c000015]9.4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]9.4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]9.4.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10\.
+
+DUAL-FUEL ENGINES AND VEHICLES
+
+The requirements to ensure the correct operation of NO<sub> x </sub> control measures of dual-fuel engines and vehicles shall be those set out in paragraph 8 of Annex 15 to UNECE Regulation No 49, with the exceptions provided for in point 10.1 of this Regulation:
+
+- Paragraph 8.1 of Annex 15 to UNECE Regulation No 49 shall be understood as follows:
+
+  > - Sections 1 to 9 of this Annex shall apply to HDDF engines and vehicles, whether operating in dual-fuel or diesel mode.
+
+11\.
+
+POINT (C) OF PARAGRAPH A.1.4.3 OF APPENDIX 1 TO ANNEX 11 OF UNECE REGULATION NO 49 SHALL BE UNDERSTOOD AS FOLLOWS:
+
+> - ((c)) The achievement of the torque reduction required for low-inducement may be demonstrated at the same time as the general engine performance approval process performed in accordance with this Regulation. Separate torque measurement during the inducement system demonstration is not required in this case. The speed limitation required for severe inducement shall be demonstrated in accordance with the requirements set out in Section 5 of this Annex.
+
+12\.
+
+THE FIRST AND SECOND PARAGRAPHS OF APPENDIX 4 OF ANNEX 11 TO UNECE REGULATION 49 SHALL BE UNDERSTOOD AS FOLLOWS:
+
+> This Appendix applies when the vehicle manufacturer requests GB type-approval[^key-b9b5fa25f1d8a697f47f896f95910586] of a vehicle with an approved engine with regard to emissions [^key-e0caf4a3e314f1798b062feed7b22406]... in accordance with Regulation (EC) No 595/2009 and this Regulation.
+>
+> In this case, and in addition to the installation requirements set out in Annex I to this Regulation, a demonstration of the correct installation is required. This demonstration shall be performed by the presentation to the approval authority of a technical case using evidence, such as engineering drawings, functional analyses, and the results of previous tests.
+
+**No longer in force.**
+
+[^c000015]Appendix 1
+
+[^c000015]**Demonstration requirements**
+
+[^c000015]1.
+
+GENERAL
+
+[^c000015]1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.
+
+ENGINE FAMILIES OR OBD ENGINE FAMILIES
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.
+
+DEMONSTRATION OF THE WARNING SYSTEM ACTIVATION
+
+[^c000015]3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.
+
+**Selection of the failures to be tested**
+
+[^c000015]3.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.2.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.
+
+**Demonstration**
+
+[^c000015]3.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.5.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.6.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.6.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.6.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.
+
+DEMONSTRATION OF THE INDUCEMENT SYSTEM
+
+[^c000015]4.1.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.4.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.5.
+
+**Demonstration test of the low-level inducement system**
+
+[^c000015]4.5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.5.2.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.5.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.5.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.5.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.6.
+
+**Demonstration test of the severe inducement system**
+
+[^c000015]4.6.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.6.2.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.6.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.6.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.6.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.
+
+DEMONSTRATION OF THE VEHICLE SPEED LIMITATION FOLLOWING ACTIVATION OF THE SEVERE INDUCEMENT SYSTEM
+
+[^c000015]5.1.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.
+
+**Additional demonstration for confirming the effect of activation of the severe inducement system on a vehicle**
+
+[^c000015]5.4.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.7.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]Appendix 2
+
+[^c000015]**Description of the driver warning and inducement activation and deactivation mechanisms**
+
+[^c000015]1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.
+
+ACTIVATION AND DEACTIVATION MECHANISMS OF THE DRIVER WARNING SYSTEM
+
+[^c000015]2.1.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.1
+
+*Erasing of failure information by means of a scan-tool*
+
+[^c000015]2.2.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.1.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.
+
+ACTIVATION AND DEACTIVATION MECHANISM OF THE DRIVER INDUCEMENT SYSTEM
+
+[^c000015]3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.
+
+COUNTER MECHANISM
+
+[^c000015]4.1.
+
+**General**
+
+[^c000015]4.1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.1.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.1.3.
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.1.3.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]4.2.
+
+**Principle of counter mechanisms**
+
+[^c000015]4.2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.
+
+ILLUSTRATION OF THE ACTIVATION AND DEACTIVATION AND COUNTER MECHANISMS
+
+[^c000015]5.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]5.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]Appendix 3
+
+[^c000015]**Low-level inducement torque reduction scheme**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]Appendix 4
+
+[^c000015]**Demonstration of correct installation on a vehicle in the case of engines EC type-approved as a separate technical unit**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+[^c000015]Appendix 5
+
+[^c000015]**Access to ‘NO<sub>x</sub> control information’**
+
+[^c000015]1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.
+
+ACCESS METHODS
+
+[^c000015]2.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]2.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000015]3.
+
+INFORMATION CONTENT
+
+[^c000015]3.1.
+
+The ‘NO<sub>x</sub> control information’ shall contain at least the following information:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Appendix 6
+
+**Demonstration of the minimum acceptable reagent quality CD <sub> min </sub>**
+
+1\.
+
+The manufacturer shall demonstrate the minimum acceptable reagent quality CD <sub> min </sub> during type-approval in accordance with the provisions set out in Appendix 6 of Annex 11 to UNECE Regulation No 49, with the exceptions provided for in point 1.1 of this Appendix:
+
+- Point A.6.3 shall be understood as follows:
+
+  > - The pollutant emissions resulting from this test shall be lower than the emission limits specified in paragraphs 7.1.1. and 7.1.1.1. of this Annex
+
+## ANNEX XIV — MEASUREMENT OF NET ENGINE POWER
+
+1\.
+
+INTRODUCTION
+
+1.1.
+
+This Annex sets out requirements for measuring net engine power.
+
+2\.
+
+GENERAL
+
+2.1.
+
+The general specifications for conducting the tests and interpreting the results shall be those set out in Section 5 of UN/ECE Regulation 85 with the exceptions specified in this Annex.
+
+2.1.1.
+
+Measurement of net power according to this Annex shall be performed on all members of an engine family.
+
+2.2.
+
+**Test fuel**
+
+2.2.1.
+
+For positive-ignition engines fuelled with petrol or E85, paragraph 5.2.3.1 of UN/ECE Regulation No 85 shall be understood as follows:
+
+> The fuel used shall be the one available on the market. In any case of dispute the fuel shall be the appropriate reference fuel specified in Annex IX to Regulation (EU) No 582/2011.
+
+2.2.2.
+
+For positive ignition engines and dual-fuel engines fuelled with LPG:
+
+- In the case of an engine with self-adapting fuelling, paragraph 5.2.3.2.1 of UNECE Regulation No 85 shall be understood as follows:
+
+  > The fuel used shall be the one available on the market. In case of dispute, the fuel shall be the appropriate reference fuel specified in Annex IX to this Regulation. Instead of the reference fuels specified in Annex IX to this Regulation, the reference fuels specified in Annex 8 to UNECE Regulation No85 may be used.
+- In the case of an engine without self-adaptive fuelling, paragraph 5.2.3.2.2 of UNECE Regulation No 85 shall be understood as follows:
+
+  > The fuel used shall be the reference fuel specified in Annex IX to this Regulation or the reference fuels specified in Annex 8 to UNECE Regulation No85 may be used with the lowest C <sub> 3 </sub> -content, or
+
+2.2.3.
+
+For positive ignition engines and dual-fuel engines fuelled with NG/biomethane:
+
+- In the case of an engine with self-adaptive fuelling, paragraph 5.2.3.3.1 of UNECE Regulation No 85 shall be understood as follows:
+
+  > The fuel used shall be the one available on the market. In case of dispute the fuel shall be the appropriate reference fuel specified in Annex IX to this Regulation. Instead of the reference fuels specified in Annex IX to this regulation, the reference fuels specified in Annex 8 to UNECE Regulation No85 may be used.
+- In the case of an engine without self-adaptive fuelling, paragraph 5.2.3.3.2 of UNECE Regulation No 85 shall be understood as follows:
+
+  > The fuel used shall be the one available on the market with a Wobbe index at least 52,6 MJm <sup> -3 </sup> (20°C, 101,3 kPa). In case of dispute, the fuel used shall be the reference fuel G <sub> R </sub> specified in Annex IX to this Regulation.
+- In the case of an engine labelled for a specific range of fuels, paragraph 5.2.3.3.3 of UNECE Regulation No 85 shall be understood as follows:
+
+  > The fuel used shall be the one available on the market with a Wobbe index at least 52,6 MJm <sup> -3 </sup> (20°C, 101,3 kPa) if the engine is labelled for the H-range of gases, or at least 47,2 MJm <sup> -3 </sup> (20°C, 101,3 kPa) if the engine is labelled for the L-range of gases. In case of dispute, the fuel used shall be the reference fuel G <sub> R </sub> specified in Annex IX to this Regulation if the engine is labelled for the H-range of gases, or the reference fuel G <sub> 23 </sub> if the engine is labelled for the L-range of gases, that is the fuel with the highest Wobbe index for the relevant range, or
+
+2.2.4.
+
+For compression-ignition engines, paragraph 5.2.3.4 of UN/ECE Regulation 85 shall be understood as follows:
+
+> The fuel used shall be the one available on the market. In any case of dispute the fuel shall be the appropriate reference fuel specified in Annex IX to Regulation (EU) No 582/2011.
+
+2.3.
+
+**Engine-driven equipment**
+
+The requirements on engine-driven equipment differ between UN/ECE Regulation No 85 (power testing) and UN/ECE Regulation No 49 (emissions testing).
+
+2.3.1.
+
+For the purpose of measuring the net engine power the provisions regarding test conditions and auxiliaries as specified in Annex 5 to UN/ECE Regulation No 85 shall apply.
+
+2.3.2.
+
+For the purpose of emissions testing following the procedures provided for in Annex III to this Regulation, the provisions regarding engine power as specified in paragraph 6.3 of Annex 4 to UNECE Regulation No 49 shall apply.
+
+## ANNEX XV — AMENDMENTS TO REGULATION (EC) No 595/2009
+
+Annex I to Regulation (EC) No 595/2009 is replaced by the following:
+
+> **ANNEX I**
+>
+> **Euro VI Emission Limits**
+>
+> <table>
+> <tfoot>
+> <tr><td colspan="9">The admissible level of NO<sub>2</sub> component in the NO<sub>x</sub> limit value may be defined at a later stage.</td></tr>
+> <tr><td colspan="9">A new measurement procedure shall be introduced before 31 December 2012.</td></tr>
+> <tr><td colspan="9">A particle number limit shall be introduced before 31 December 2012.</td></tr>
+> <tr><td colspan="9">PI<br>Positive Ignition.<br>CI<br>Compression Ignition.</td></tr>
+> </tfoot>
+> <tbody>
+> <tr><th rowspan="2"></th><th colspan="8">Limit values</th></tr>
+> <tr><th>CO(mg/kWh)</th><th>THC(mg/kWh)</th><th>NMHC(mg/kWh)</th><th>CH<sub>4</sub>(mg/kWh)</th><th>NO<sub>x</sub> (mg/kWh)</th><th>NH<sub>3</sub>(ppm)</th><th>PM mass(mg/kWh)</th><th>PM number(#/kWh)</th></tr>
+> <tr><td>WHSC (CI)</td><td>1 500</td><td>130</td><td></td><td></td><td>400</td><td>10</td><td>10</td><td>8,0 × 10<sup>11</sup></td></tr>
+> <tr><td>WHTC (CI)</td><td>4 000</td><td>160</td><td></td><td></td><td>460</td><td>10</td><td>10</td><td>6,0 × 10<sup>11</sup></td></tr>
+> <tr><td>WHTC (PI)</td><td>4 000</td><td></td><td>160</td><td>500</td><td>460</td><td>10</td><td>10</td><td></td></tr>
+> </tbody>
+> </table>
+>
+> [^f00103][^f00104][^f00105]
+
+## ANNEX XVI — AMENDMENTS TO DIRECTIVE 2007/46/EC
+
+Directive 2007/46/EC is amended as follows:
+
+- ((1)) Annex I is amended as follows:
+  - ((a)) the following point 3.2.1.11 is inserted:
+
+    > 3.2.1.11.
+    >
+    > (Euro VI only) Manufacturer references of the Documentation package required by Articles 5, 7 and 9 of Regulation (EU) No 582/2011 enabling the approval authority to evaluate the emission control strategies and the Systems on-board the engine to ensure the correct operation of NO<sub>x</sub> control measures
+
+    ;
+  - ((b)) point 3.2.2.2 is replaced by the following:
+
+    > 3.2.2.2.
+    >
+    > Heavy duty vehicles Diesel/Petrol/LPG/NG-H/NG-L/NG-HL/Ethanol (ED95)/Ethanol (E85) (<sup>1</sup>) (<sup>6</sup>)
+
+    ;
+  - ((c)) the following point 3.2.2.2.1 is inserted:
+
+    > 3.2.2.2.1.
+    >
+    > (Euro VI only) Fuels compatible with use by the engine declared by the manufacturer in accordance with Section 1.1.2 of Annex I to Regulation (EU) No 582/2011 (as applicable)
+
+    ;
+  - ((d)) the following point 3.2.8.3.3 is inserted:
+
+    > 3.2.8.3.3.
+    >
+    > (Euro VI only) Actual Intake system depression at rated engine speed and at 100 % load on the vehicle: kPa
+
+    ;
+  - ((e)) the following point 3.2.9.2.1 is inserted:
+
+    > 3.2.9.2.1.
+    >
+    > (Euro VI only) Description and/or drawing of the elements of the exhaust system that are not part of the engine system
+
+    ;
+  - ((f)) the following point 3.2.9.3.1 is inserted:
+
+    > 3.2.9.3.1.
+    >
+    > (Euro VI only) Actual exhaust back pressure at rated engine speed and at 100 % load on the vehicle (compression-ignition engines only): … kPa
+
+    ;
+  - ((g)) the following point 3.2.9.7.1 is inserted:
+
+    > 3.2.9.7.1.
+    >
+    > (Euro VI only) Acceptable Exhaust system volume: …dm<sup>3</sup>
+
+    ;
+  - ((h)) the following point 3.2.12.1.1 is inserted:
+
+    > 3.2.12.1.1.
+    >
+    > (Euro VI only) Device for recycling crankcase gases: yes/no (<sup>2</sup>)
+    >
+    > If yes, description and drawings:
+    >
+    > If no, compliance with Annex V to Regulation (EU) No 582/2011 required
+
+    ;
+  - ((i)) in point 3.2.12.2.6.8.1 the following wording is added;
+
+    > (not applicable to Euro VI)
+
+    ;
+  - ((j)) the following point 3.2.12.2.6.8.1.1 is inserted:
+
+    > 3.2.12.2.6.8.1.1.
+    >
+    > (Euro VI only) Number of WHTC test cycles without regeneration (n):
+
+    ;
+  - ((k)) in points 3.2.12.2.6.8.2 the following wording is added:
+
+    > (not applicable to Euro VI)
+
+    ;
+  - ((l)) the following point 3.2.12.2.6.8.2.1 is inserted:
+
+    > 3.2.12.2.6.8.2.1.
+    >
+    > (Euro VI only) Number of WHTC test cycles with regeneration (n<sub>R</sub>):
+
+    ;
+  - ((m)) the following points 3.2.12.2.6.9 and 3.2.12.2.6.9.1 are inserted:
+
+    > 3.2.12.2.6.9.
+    >
+    > Other systems: yes/no (<sup>1</sup>)
+    >
+    > 3.2.12.2.6.9.1.
+    >
+    > Description and operation
+
+    ;
+  - ((n)) the following points 3.2.12.2.7.0.1 to 3.2.12.2.7.0.8 are inserted:
+
+    > - (Euro VI only) Number of OBD engine families within the engine family
+    > - List of the OBD engine families (when applicable)
+    > - Number of the OBD engine family the parent engine / the engine member belongs to:
+    > - Manufacturer references of the OBD-Documentation required by Article 5(4)(c) and Article 9(4) of Regulation (EU) No 582/2011 and specified in Annex X to that Regulation for the purpose of approving the OBD system
+    > - When appropriate, manufacturer reference of the Documentation for installing in a vehicle an OBD equipped engine system
+    > - When appropriate, manufacturer reference of the documentation package related to the installation on the vehicle of the OBD system of an approved engine
+    > - Written description and/or drawing of the MI (<sup>6</sup>)
+    > - Written description and/or drawing of the OBD off-board communication interface (<sup>6</sup>)
+
+    ;
+  - ((o)) the following points 3.2.12.2.7.6.5, 3.2.12.2.7.7 and 3.2.12.2.7.7.1 are inserted:
+
+    > 3.2.12.2.7.6.5.
+    >
+    > (Euro VI only) OBD Communication protocol standard: (<sup>4</sup>)
+    >
+    > 3.2.12.2.7.7.
+    >
+    > (Euro VI only) Manufacturer reference of the OBD related information required by of Article 5(4)(d) and Article 9(4) of Regulation (EU) No 582/2011 for the purpose of complying with the provisions on access to vehicle OBD and vehicle Repair and Maintenance Information, or
+    >
+    > 3.2.12.2.7.7.1.
+    >
+    > As an alternative to a manufacturer reference provided in Section 3.2.12.2.7.7 reference of the attachment to the information document set out in Appendix 4 of Annex I to Regulation (EU) No 582/2011 that contains the following table, once completed according to the given example:
+    >
+    > - Component — Fault code — Monitoring strategy — Fault detection criteria — MI activation criteria — Secondary parameters — Preconditioning — Demonstration test
+    > - Catalyst – P0420 — Oxygen sensor 1 and 2 signals — Difference between sensor 1 and sensor 2 signals — 3rd cycle — Engine speed, engine load, A/F mode, catalyst temperature — Two Type 1 cycles — Type 1
+
+    ;
+  - ((p)) the following points 3.2.12.2.8.1 to 3.2.12.2.8.8.3 are inserted:
+
+    > - (Euro VI only) Systems to ensure the correct operation of NO<sub>x</sub> control measures
+    > - (Euro VI only) Engine with permanent deactivation of the driver inducement, for use by the rescue services or in vehicles specified in Article 2(3)(b) of this Directive: yes/no
+    > - (Euro VI only) Number of OBD engine families within the engine family considered when ensuring the correct operation of NO<sub>x</sub> control measures
+    > - (Euro VI only) List of the OBD engine families (when applicable)
+    > - (Euro VI only) Number of the OBD engine family the parent engine / the engine member belongs to
+    > - (Euro VI only) Lowest concentration of the active ingredient present in the reagent that does not activate the warning system (CD<sub>min</sub>): (% vol.)
+    > - (Euro VI only) When appropriate, manufacturer reference of the Documentation for installing in a vehicle the systems to ensure the correct operation of NO<sub>x</sub> control measures
+    > - Components on-board the vehicle of the systems ensuring the correct operation of NO<sub>x</sub> control measures
+    >   - Activation of the creep mode:
+    >
+    >     “disable after restart” / “disable after fuelling” / “disable after parking” (<sup>7</sup>)
+    >   - When appropriate, manufacturer reference of the documentation package related to the installation on the vehicle of the system ensuring the correct operation of NO<sub>x</sub> control measures of an approved engine
+    >   - Written description and/or drawing of the warning signal (<sup>6</sup>)
+
+    ;
+  - ((q)) the following points 3.2.17.8.1.0.1 and 3.2.17.8.1.0.2 are inserted:
+
+    > - (Euro VI only) Self adaptive feature? Yes/No (<sup>1</sup>)
+    > - (Euro VI only) Calibration for a specific gas composition NG-H/NG-L/NG-HL (<sup>1</sup>)
+    >
+    >   Transformation for a specific gas composition NG-H<sub>t</sub>/NG-L<sub>t</sub>/NG-HL<sub>t</sub> (<sup>1</sup>)
+
+    ;
+  - ((r)) The following points 3.5.4 to 3.5.5.2 are inserted:
+
+    > - CO<sub>2</sub> emissions for heavy duty engines (Euro VI only)
+    >   - CO<sub>2</sub> mass emissions WHSC test … g/kWh
+    >   - CO<sub>2</sub> mass emissions WHTC test: … g/kWh
+    > - Fuel consumption for heavy duty engines (Euro VI only)
+    >   - Fuel consumption WHSC test: … g/kWh
+    >   - Fuel consumption WHTC test: … g/kWh
+
+    ;
+- ((2)) Part I, Section A of Annex III is amended as follows:
+  - ((a)) the following point 3.2.1.11 is inserted:
+
+    > 3.2.1.11.
+    >
+    > (Euro VI only) Manufacturer references of the Documentation package required by Articles 5, 7 and 9 of Regulation (EU) No 582/2011 enabling the approval authority to evaluate the emission control strategies and the systems on-board the engine to ensure the correct operation of NO<sub>x</sub> control measures
+
+    ;
+  - ((b)) point 3.2.2.2 is replaced by the following:
+
+    > 3.2.2.2
+    >
+    > Heavy duty vehicles Diesel/Petrol/LPG/NG-H/NG-L/NG-HL/Ethanol (ED95)/Ethanol (E85) (<sup>1</sup>) (<sup>6</sup>)
+
+    ;
+  - ((c)) the following point 3.2.2.2.1 is inserted:
+
+    > 3.2.2.2.1.
+    >
+    > (Euro VI only) Fuels compatible with use by the engine declared by the manufacturer in accordance with Section 1.1.3 of Annex I to Regulation (EU) No 582/2011 (as applicable)
+
+    ;
+  - ((d)) the following point 3.2.8.3.3 is inserted:
+
+    > 3.2.8.3.3.
+    >
+    > (Euro VI only) Actual Intake system depression at rated engine speed and at 100 % load on the vehicle: kPa
+
+    ;
+  - ((e)) the following point 3.2.9.2.1 is inserted:
+
+    > 3.2.9.2.1.
+    >
+    > (Euro VI only) Description and/or drawing of the elements of the exhaust system that are not part of the engine system
+
+    ;
+  - ((f)) the following point 3.2.9.3.1 is inserted:
+
+    > 3.2.9.3.1.
+    >
+    > (Euro VI only) Actual exhaust back pressure at rated engine speed and at 100 % load on the vehicle (compression-ignition engines only): … kPa
+
+    ;
+  - ((g)) the following point 3.2.9.7.1 is inserted:
+
+    > 3.2.9.7.1.
+    >
+    > (Euro VI only) Acceptable Exhaust system volume: …dm<sup>3</sup>
+
+    ;
+  - ((h)) the following point 3.2.12.1.1 is inserted:
+
+    > 3.2.12.1.1.
+    >
+    > (Euro VI only) Device for recycling crankcase gases: yes/no (<sup>2</sup>)
+    >
+    > If yes, description and drawings:
+    >
+    > If no, compliance with Annex V to Regulation (EU) No 582/2011 required
+
+    ;
+  - ((i)) the following points 3.2.12.2.6.9 and 3.2.12.2.6.9.1 are inserted:
+
+    > 3.2.12.2.6.9.
+    >
+    > Other systems: yes/no (<sup>1</sup>)
+    >
+    > 3.2.12.2.6.9.1.
+    >
+    > Description and operation
+
+    ;
+  - ((j)) the following points 3.2.12.2.7.0.1 to 3.2.12.2.7.0.8 are inserted:
+
+    > - (Euro VI only) Number of OBD engine families within the engine family
+    > - (Euro VI only) List of the OBD engine families (when applicable)
+    > - (Euro VI only) Number of the OBD engine family the parent engine / the engine member belongs to:
+    > - (Euro VI only) Manufacturer references of the OBD-Documentation required by Article 5(4)(c) and Article 9(4) of Regulation (EU) No 582/2011 and specified in Annex X to that Regulation for the purpose of approving the OBD system
+    > - (Euro VI only) When appropriate, manufacturer reference of the Documentation for installing in a vehicle an OBD equipped engine system
+    > - (Euro VI only) When appropriate, manufacturer reference of the documentation package related to the installation on the vehicle of the OBD system of an approved engine
+    > - (Euro VI only) Written description and/or drawing of the MI (<sup>6</sup>)
+    > - (Euro VI only) Written description and/or drawing of the OBD off-board communication interface (<sup>6</sup>)
+
+    ;
+  - ((k)) the following points 3.2.12.2.7.6.5, 3.2.12.2.7.7 and 3.2.12.2.7.7.1 are inserted:
+
+    > 3.2.12.2.7.6.5.
+    >
+    > (Euro VI only) OBD Communication protocol standard: (<sup>4</sup>)
+    >
+    > 3.2.12.2.7.7.
+    >
+    > (Euro VI only) Manufacturer reference of the OBD related information required by of Article 5(4)(d) and Article 9(4) of Regulation (EU) No 582/2011 for the purpose of complying with the provisions on access to vehicle OBD and vehicle Repair and Maintenance Information, or
+    >
+    > 3.2.12.2.7.7.1.
+    >
+    > As an alternative to a manufacturer reference provided in Section 3.2.12.2.7.7 reference of the attachment to the information document set out in Appendix 4 of Annex III to Regulation (EU) No 582/2011 that contains the following table, once completed according to the given example:
+    >
+    > - Component — Fault code — Monitoring strategy — Fault detection criteria — MI activation criteria — Secondary parameters — Preconditioning — Demonstration test
+    > - Catalyst — P0420 — Oxygen sensor 1 and 2 signals — Difference between sensor 1 and sensor 2 signals — 3rd cycle — Engine speed, engine load, A/F mode, catalyst temperature — Two Type 1 cycles — Type 1
+
+    ;
+  - ((l)) the following points 3.2.12.2.8.1 to 3.2.12.2.8.8.3 are inserted:
+
+    > - (Euro VI only) Systems to ensure the correct operation of NO<sub>x</sub> control measures
+    > - (Euro VI only) Engine with permanent deactivation of the driver inducement, for use by the rescue services or in vehicles specified in Article 2(3)(b) of this Directive: yes/no
+    > - (Euro VI only) Number of OBD engine families within the engine family considered when ensuring the correct operation of NO<sub>x</sub> control measures
+    > - (Euro VI only) List of the OBD engine families (when applicable)
+    > - (Euro VI only) Number of the OBD engine family the parent engine / the engine member belongs to
+    > - (Euro VI only) Lowest concentration of the active ingredient present in the reagent that does not activate the warning system (CD<sub>min</sub>): (% vol.)
+    > - (Euro VI only) When appropriate, manufacturer reference of the Documentation for installing in a vehicle the systems to ensure the correct operation of NO<sub>x</sub> control measures
+    > - Components on-board the vehicle of the systems ensuring the correct operation of NO<sub>x</sub> control measures
+    >   - Activation of the creep mode:
+    >
+    >     “disable after restart” / “disable after fuelling” / “disable after parking” (<sup>7</sup>)
+    >   - When appropriate, manufacturer reference of the documentation package related to the installation on the vehicle of the system ensuring the correct operation of NO<sub>x</sub> control measures of an approved engine
+    >   - Written description and/or drawing of the warning signal (<sup>6</sup>)
+
+    ;
+  - ((m)) the following points 3.2.17.8.1.0.1 and 3.2.17.8.1.0.2 are inserted:
+
+    > - (Euro VI only) Self adaptive feature? Yes/No <sup>(1)</sup>
+    > - (Euro VI only) Calibration for a specific gas composition NG-H/NG-L/NG-HL (<sup>1</sup>)
+    >
+    >   Transformation for a specific gas composition NG-H<sub>t</sub>/NG-L<sub>t</sub>/NG-HL<sub>t</sub> (<sup>1</sup>)
+
+    ;
+  - ((n)) the following points 3.5.4 to 3.5.5.2 are inserted:
+
+    > - (Euro VI only) CO<sub>2</sub> emissions for heavy duty engines
+    >   - (Euro VI only) CO<sub>2</sub> mass emissions WHSC test: … g/kWh
+    >   - (Euro VI only) CO<sub>2</sub> mass emissions WHTC test: … g/kWh
+    > - (Euro VI only) Fuel consumption for heavy duty engines
+    >   - (Euro VI only) Fuel consumption WHSC test: … g/kWh
+    >   - (Euro VI only) Fuel consumption WHTC test: … g/kWh
+
+    .
+
+## ANNEX XVII — ACCESS TO VEHICLE OBD AND VEHICLE REPAIR AND MAINTENANCE INFORMATION[^key-29776d46cdaed7fd48cb47379e533b56]
+
+**No longer in force.**
+
+[^key-29776d46cdaed7fd48cb47379e533b56]1.
+
+INTRODUCTION
+
+[^key-29776d46cdaed7fd48cb47379e533b56]1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.
+
+REQUIREMENTS
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.1.
+
+Vehicle OBD and vehicle repair and maintenance information available through websites shall follow the common standard referred to in Article 6(1) of Regulation (EC) No 595/2009. Until this standard is adopted, manufacturers shall provide vehicle OBD and vehicle repair and maintenance information in a standardised manner which is non-discriminatory compared to the provisions given or access granted to authorised dealers and repairers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.2.
+
+Access to vehicle security features used by authorised dealers and repair shops shall be made available to independent operators under protection of security technology in accordance with the following requirements:
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.7.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.8.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.9.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]Appendix 1
+
+[^key-29776d46cdaed7fd48cb47379e533b56] **Manufacturer’s Certificate on Access to Vehicle OBD and Vehicle Repair and Maintenance Information**
+
+(Manufacturer): …
+
+(Address of the manufacturer): …
+
+Certifies that
+
+it provides access to vehicle OBD and vehicle repair and maintenance information in compliance with the provisions of:
+
+- Article 6 of Regulation (EC) No 595/2009 and Article 2a of Regulation (EU) No 582/2011,
+- Article 4(6) of Regulation (EU) No 582/2011,
+- Annex I, Appendix 4, Section 16 of Regulation (EU) No 582/2011,
+- Annex X, Section 2.1 of Regulation (EU) No 582/2011,
+- Annex XVII of Regulation (EU) No 582/2011,
+
+with respect to the types of vehicle, engine, pollution control device listed in attachment to this Certificate.
+
+The following derogations are applied: Customer adaptations — Small volume — Carry-over systems.
+
+The principal website address through which the relevant information may be accessed and which is hereby certified to be in compliance with the above provisions are listed in an attachment to this Certificate along with the contact details of the responsible manufacturer’s representative whose signature is below.
+
+Where applicable: The manufacturer hereby also certifies that it has complied with the obligation provided for in Article 3(1a) of Regulation (EU) No 582/2011 to provide the relevant information for previous approvals of these vehicle types no later than six months after the date of type-approval.
+
+Done at …\[Place\]
+
+On …\[Date\]
+
+\[Signature\] \[Position\]
+
+Annexes:
+
+- Website addresses,
+- Contact details.
+
+[^key-29776d46cdaed7fd48cb47379e533b56]ANNEX I
+
+to Manufacturer’s Certificate on Access to Vehicle OBD and Vehicle Repair and Maintenance Information
+
+Website addresses referred to by this Certificate:
+
+[^key-29776d46cdaed7fd48cb47379e533b56]ANNEX II
+
+to Manufacturer’s Certificate on Access to Vehicle OBD and Vehicle Repair and Maintenance Information
+
+Contact details of the manufacturer’s representative referred to by this Certificate:
+
+[^key-29776d46cdaed7fd48cb47379e533b56]Appendix 2
+
+[^key-29776d46cdaed7fd48cb47379e533b56] **Vehicle OBD information**
+
+[^key-29776d46cdaed7fd48cb47379e533b56]1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-29776d46cdaed7fd48cb47379e533b56]3.
+
+**Information required for the manufacture of diagnostic tools**
+
+In order to facilitate the provision of generic diagnostic tools for multi-make repairers, vehicle manufacturers shall make available the information referred to in points 3.1, 3.2 and 3.3 through their repair information websites. That information shall include all diagnostic tool functions and all the links to repair information and troubleshooting instructions. The access to the information may be subject to the payment of a reasonable fee.
+
+[^key-29776d46cdaed7fd48cb47379e533b56]3.1.
+
+*Communication protocol information*
+
+The following information shall be required indexed against vehicle make, model and variant, or other workable definition such as VIN or vehicle and systems identification:
+
+- ((a)) Any additional protocol information system necessary to enable complete diagnostics in addition to the standards prescribed in Point 4.7.3 of Annex 9B to UN/ECE Regulation No 49, including any additional hardware or software protocol information, parameter identification, transfer functions, ‘keep alive’ requirements, or error conditions.
+- ((b)) Details of how to obtain and interpret all fault codes which are not in accordance with the standards prescribed in Point 4.7.3 of Annex 9B to UN/ECE Regulation No 49.
+- ((c)) A list of all available live data parameters, including scaling and access information.
+- ((d)) A list of all available functional tests, including device activation or control and the means to implement them.
+- ((e)) Details of how to obtain all component and status information, time stamps, pending DTC and freeze frames.
+- ((f)) Resetting adaptive learning parameters, variant coding and replacement component setup, and customer preferences.
+- ((g)) ECU identification and variant coding.
+- ((h)) Details of how to reset service lights.
+- ((i)) Location of diagnostic connector and connector details.
+- ((j)) Engine code identification.
+
+[^key-29776d46cdaed7fd48cb47379e533b56]3.2.
+
+*Test and diagnosis of OBD monitored components*
+
+The following information shall be required:
+
+- ((a)) A description of tests to confirm its functionality, at the component or in the harness.
+- ((b)) Test procedure including test parameters and component information.
+- ((c)) Connection details including minimum and maximum input and output and driving and loading values.
+- ((d)) Values expected under certain driving conditions including idling.
+- ((e)) Electrical values for the component in its static and dynamic states.
+- ((f)) Failure mode values for each of the above scenarios.
+- ((g)) Failure mode diagnostic sequences including fault trees and guided diagnostics elimination.
+
+[^key-29776d46cdaed7fd48cb47379e533b56]3.3.
+
+*Data required to perform the repair*
+
+The following information shall be required:
+
+- ((a)) ECU and component initialisation (in the event of replacements being fitted).
+- ((b)) Initialisation of new or replacement ECU’s where relevant using pass-through (re-) programming techniques.
+
+[^key-29776d46cdaed7fd48cb47379e533b56]Appendix 3
+
+## ANNEX XVIII — SPECIFIC TECHNICAL REQUIREMENTS FOR DUAL-FUEL ENGINES AND VEHICLES
+
+1\.
+
+Scope
+
+This Annex shall apply to the dual-fuel engines and dual-fuel vehicles covered by this Regulation and sets out the additional requirements and exceptions applicable to the manufacturer for the type-approval of dual-fuel engines and vehicles.
+
+1.1.
+
+Dual-fuel engines that operate over the hot part of the WHTC test-cycle with an average gas ratio that does not exceed 10 per cent (GER <sub> WHTC </sub> ≤ 10 %) and that do not have a diesel mode are prohibited.
+
+2\.
+
+A list of types of dual-fuel engines covered by this Regulation and of the main operational requirements is provided for in the Appendix.
+
+3\.
+
+Dual-fuel specific approval requirements
+
+3.1.
+
+The dual-fuel specific approval requirements shall be those set out in paragraph 3 of Annex 15 to UNECE Regulation No 49.
+
+4\.
+
+General requirements
+
+4.1.
+
+Dual-fuel engines and vehicles shall comply with the general requirements specified in paragraphs 4.1 to 4.7 of Annex 15 to UNECE Regulation No 49.
+
+5\.
+
+Performance requirements
+
+5.1.
+
+Emission limits applicable to Type 1A and Type 1B dual-fuel engines
+
+5.1.1.
+
+The emission limits applicable to Type 1A and Type 1B dual-fuel engines operating in dual-fuel mode are those set for PI engines in Annex I to Regulation (EC) No 595/2009.
+
+5.1.2.
+
+The emission limits applicable to Type 1B dual-fuel engines operating in diesel mode are those set for CI engines in Annex I to Regulation (EC) No 595/2009.
+
+5.2.
+
+Emission limits applicable to Type 2A and Type 2B dual-fuel engines
+
+5.2.1.
+
+Emission limits applicable over the WHSC test-cycle
+
+For Type 2A and Type 2B dual-fuel engines operating in both diesel and dual-fuel mode, the exhaust emission limits, including the PM number limit, over the WHSC test-cycle are those applicable to CI engines over the WHSC test-cycle as set in Annex I to Regulation (EC) No 595/2009.
+
+5.2.2.
+
+Emission limits applicable over the WHTC test-cycle
+
+5.2.2.1.
+
+Emission limits for CO, NO <sub> x </sub> , NH <sub> 3 </sub> and PM mass in dual-fuel mode
+
+The CO, NO <sub> x </sub> , NH <sub> 3 </sub> and PM mass emission limits over the WHTC test-cycle applicable to Type 2A and Type 2B dual-fuel engines operating in dual-fuel mode are those applicable to both CI and PI engines over the WHTC test-cycle as set in Annex I to Regulation (EC) No 595/2009.
+
+5.2.2.2.
+
+Emission limits for Hydrocarbons in dual-fuel mode
+
+5.2.2.2.1.
+
+Natural Gas/Biomethane engines
+
+The THC, NMHC and CH <sub> 4 </sub> emission limits over the WHTC test-cycle applicable to Type 2A and Type 2B dual-fuel engines operating with Natural Gas/Biomethane in dual-fuel mode are calculated from those applicable to CI and PI engines over the WHTC test-cycle as set in Annex I to Regulation (EC) No 595/2009, in accordance with the calculation procedure specified in paragraph 5.2.3 of Annex 15 to UNECE Regulation No 49.
+
+5.2.2.2.2.
+
+LPG engines
+
+The THC emission limits over the WHTC test-cycle applicable to Type 2A and Type 2B dual-fuel engines operating with LPG in dual-fuel mode are those applicable to CI engines over the WHTC test-cycle as set in Annex I to Regulation (EC) No 595/2009.
+
+5.2.2.3.
+
+Emission limits for PM number in dual-fuel mode
+
+The PM number limit over the WHTC test-cycle applicable to Type 2A and Type 2B dual-fuel engines operating in dual-fuel mode are calculated from those applicable to CI and PI engines over the WHTC test-cycle as set in Annex I to Regulation (EC) No 595/2009, in accordance with the calculation procedure specified in paragraph 5.2.4 of Annex 15 to UNECE Regulation No 49.
+
+5.2.2.4.
+
+Emission limits in diesel mode
+
+The emission limits, including the PM number limit, over the WHTC test-cycle applicable to Type 2B dual-fuel engines operating in diesel mode are those set for CI engines in Annex I to Regulation (EC) No 595/2009.
+
+5.3.
+
+Emission limits applicable to Type 3B dual-fuel engines
+
+The emissions limits applicable to Type 3B dual-fuel engines whether operating in dual-fuel mode or in diesel mode are the exhaust emission limits applicable to CI engines as set in Annex I to Regulation (EC) No 595/2009.
+
+6\.
+
+Demonstration requirements
+
+6.1.
+
+Dual-fuel engines and vehicles shall comply with the additional requirements and exceptions related to demonstration set out in paragraph 6 of Annex 15 to UNECE Regulation No 49.
+
+7\.
+
+Documentation for installing in a vehicle a type approved dual-fuel engine
+
+7.1.
+
+The manufacturer of a dual-fuel engine type-approved as separate technical unit shall include in the installation documents of its engine system the appropriate requirements that will ensure that the vehicle, when used on the road or elsewhere as appropriate, will comply with the dual-fuel specific requirements set out in this Regulation. This documentation shall include but is not limited to:
+
+- ((a)) detailed technical requirements, including the provisions ensuring the compatibility with the OBD system of the engine system;
+- ((b)) the verification procedure to be completed.
+
+The existence and the adequacy of such installation requirements may be checked during the approval process of the engine system.
+
+7.2.
+
+In the case where the vehicle manufacturer applying for a GB[^key-fa86991bcc260616fee9e64111f40ec4] type-approval of the installation of the engine system on the vehicle is the same manufacturer receiving the type-approval of the dual-fuel engine as separate technical unit, the documentation specified in point 7.1 is not required.
+
+Appendix 1
+
+**Types of dual-fuel engines and vehicles - list of main operational requirements**
+
+<table>
+<tbody>
+<tr><th></th><th>GER <sub> WHTC </sub></th><th>Idle on diesel</th><th>Warm-up on diesel</th><th>Operation on diesel solely</th><th>Operation in absence of gas</th><th>Comments</th></tr>
+<tr><th>Type 1A</th><td>GER <sub> WHTC </sub> ≥ 90 %</td><td>NOT Allowed</td><td>Allowed only on service mode</td><td>Allowed only on service mode</td><td>Service mode</td><td></td></tr>
+<tr><th>Type 1B</th><td>GER <sub> WHTC </sub> ≥ 90 %</td><td>Allowed only on Diesel mode</td><td>Allowed only on diesel mode</td><td>Allowed only on diesel &amp; service modes</td><td>Diesel mode</td><td></td></tr>
+<tr><th>Type 2A</th><td>10 % &lt; GER <sub> WHTC </sub> &lt; 90 %</td><td>Allowed</td><td>Allowed only on service mode</td><td>Allowed only on service mode</td><td>Service mode</td><td>GER <sub> WHTC </sub> ≥ 90 % allowed</td></tr>
+<tr><th>Type 2B</th><td>10 % &lt; GER <sub> WHTC </sub> &lt; 90 %</td><td>Allowed</td><td>Allowed only on diesel mode</td><td>Allowed only on diesel &amp; service modes</td><td>Diesel mode</td><td>GER <sub> WHTC </sub> ≥ 90 % allowed</td></tr>
+<tr><th>Type 3A</th><td colspan="6">NEITHER DEFINED NOR ALLOWED</td></tr>
+</tbody>
+</table>
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 188, 18.7.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.188.01.0001.01.ENG).
+
+[^f00002]: Footnote: [OJ L 263, 9.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.263.01.0001.01.ENG).
+
+[^f00003]: Footnote: [OJ L 229, 31.8.2010, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.229.01.0001.01.ENG).
+
+[^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) No 133/2014 of 31 January 2014 amending, for the purposes of adapting to technical progress as regards emission limits, Directive 2007/46/EC of the European Parliament and of the Council, Regulation (EC) No 595/2009 of the European Parliament and of the Council and Commission Regulation (EU) No 582/2011 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/133).
+
+[^c000002]: Textual amendment: Substituted by [Commission Regulation (EU) No 64/2012 of 23 January 2012 amending Regulation (EU) No 582/2011 implementing and amending Regulation (EC) No 595/2009 of the European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/64).
+
+[^c000003]: Textual amendment: Inserted by [Commission Regulation (EU) No 64/2012 of 23 January 2012 amending Regulation (EU) No 582/2011 implementing and amending Regulation (EC) No 595/2009 of the European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/64).
+
+[^key-730bff252a4508abcf2b522aa2a8c6e9]: Textual amendment: [Art. 2(44)](https://www.legislation.gov.uk/eur/2011/582/article/2/44) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/2)
+
+[^c000004]: Textual amendment: Inserted by [Commission Regulation (EU) No 133/2014 of 31 January 2014 amending, for the purposes of adapting to technical progress as regards emission limits, Directive 2007/46/EC of the European Parliament and of the Council, Regulation (EC) No 595/2009 of the European Parliament and of the Council and Commission Regulation (EU) No 582/2011 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/133).
+
+[^key-c8bcf1f6aa29c6057ad41cdbfce39dad]: Textual amendment: [Arts. 2a-2h](https://www.legislation.gov.uk/eur/2011/582/article/2a) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(3)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/3)
+
+[^key-a8a23e0347099140a5a54f0da0c27f65]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2011/582/article/3/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/b)
+
+[^key-985f6686e13b13f99c609786873f17e7]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2011/582/article/3/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/a/i)
+
+[^key-524916c750b97843f7efb90f63efd35e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2011/582/article/3/1) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/a/ii)
+
+[^c000005]: Textual amendment: Inserted by [Commission Regulation (EU) 2017/2400 of 12 December 2017 implementing Regulation (EC) No 595/2009 of the European Parliament and of the Council as regards the determination of the CO2 emissions and fuel consumption of heavy-duty vehicles and amending Directive 2007/46/EC of the European Parliament and of the Council and Commission Regulation (EU) No 582/2011 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/2400).
+
+[^f00005]: Footnote: Commission Regulation (EU) 2017/2400 of[^c000005][^c000001] 12 December 2017 implementing Regulation (EC) No 595/2009 of the European Parliament and of the Council as regards the determination of the CO <sub> 2 </sub> emissions and fuel consumption of heavy-duty vehicles and amending Directive 2007/46/EC of the European Parliament and of the Council and Commission Regulation (EU) No 582/2011 ( [OJ L 349, 29.12.2017, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.349.01.0001.01.ENG) ).
+
+[^key-da81392fb4c4def0c146dec3904b7de9]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2011/582/article/3/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/a/iii)
+
+[^key-fcf980fbe167941796accf18922efe8d]: Textual amendment: [Art. 3(1a)-(1c)](https://www.legislation.gov.uk/eur/2011/582/article/3/1a) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/c)
+
+[^key-27eeebabaffcee47aedb6d4debc962d4]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2011/582/article/3/2) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/b)
+
+[^key-4ec87d207377218cd70a2e9cef3fd94f]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2011/582/article/3/2) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/d)
+
+[^key-bc15cecbd4b5f92c0547249240600000]: Textual amendment: Words in [Art. 3(3)](https://www.legislation.gov.uk/eur/2011/582/article/3/3) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(e)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/e)
+
+[^key-82b4476d29801af71cbfe96be1b26dd6]: Textual amendment: Words in [Art. 3(3)](https://www.legislation.gov.uk/eur/2011/582/article/3/3) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/d)
+
+[^key-fbbea21e17b045ff907738b3582b471b]: Textual amendment: Words in [Art. 3(4)](https://www.legislation.gov.uk/eur/2011/582/article/3/4) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/b)
+
+[^key-ce7a94d4ce97b65355e0a99374f612b5]: Textual amendment: Words in [Art. 3(6)](https://www.legislation.gov.uk/eur/2011/582/article/3/6) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/b)
+
+[^key-304ad8f4f8a30dadbf28b3c563bac8d3]: Textual amendment: Words in [Art. 3(6)](https://www.legislation.gov.uk/eur/2011/582/article/3/6) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(f)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/f)
+
+[^key-1d0a93cd32d781a8197177d35a1da202]: Textual amendment: Words in [Art. 3(7)](https://www.legislation.gov.uk/eur/2011/582/article/3/7) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/b)
+
+[^key-f262eab66486920fe252c9f5dec8141a]: Textual amendment: Words in [Art. 3(8)](https://www.legislation.gov.uk/eur/2011/582/article/3/8) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/b)
+
+[^key-3457064d340e0bcea28a2c7a3b7494dd]: Textual amendment: Words in [Art. 3(14)](https://www.legislation.gov.uk/eur/2011/582/article/3/14) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(4)(g)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/4/g)
+
+[^c000006]: Textual amendment: Deleted by [Commission Regulation (EU) No 64/2012 of 23 January 2012 amending Regulation (EU) No 582/2011 implementing and amending Regulation (EC) No 595/2009 of the European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/64).
+
+[^key-8f98bfa5d9384b33075fce6275670f3c]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2011/582/article/4/3) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(5)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/5/a)
+
+[^key-341aae621f7ccc20786eebb988409dc2]: Textual amendment: [Art. 4(8)](https://www.legislation.gov.uk/eur/2011/582/article/4/8) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(5)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/5/b)
+
+[^key-caf2a79a50656988d6819cebf1d3f52b]: Textual amendment: Word in [Art. 5](https://www.legislation.gov.uk/eur/2011/582/article/5) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(6)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/6/a/i)
+
+[^key-e01652ae1b6aa04a2c7b11d481f292a7]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2011/582/article/5) heading omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/6/a/ii)
+
+[^key-3658030e3d20dbbdfdff9ceeae1ea638]: Textual amendment: Word in [Art. 5(1)](https://www.legislation.gov.uk/eur/2011/582/article/5/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(6)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/6/b)
+
+[^key-3f3b2d975e51c10771ccc7003ae46228]: Textual amendment: [Art. 5(4)(d)](https://www.legislation.gov.uk/eur/2011/582/article/5/4/d) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(6)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/6/c)
+
+[^key-be92b1266ad93a9c6caa33b0c283cea9]: Textual amendment: [Art. 5(4)(g)](https://www.legislation.gov.uk/eur/2011/582/article/5/4/g) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(6)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/6/c)
+
+[^key-d134f79ff54d67fc0aa12a6d2b3619b6]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2011/582/article/6) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(7)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/7/a/i)
+
+[^key-7d0f62c9895ba59e43b045adf2972dd5]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2011/582/article/6) heading omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/7/a/ii)
+
+[^key-3cd0790812c6c5027fcb7982ab42f4f9]: Textual amendment: Words in [Art. 6(1)](https://www.legislation.gov.uk/eur/2011/582/article/6/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(7)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/7/b/i)
+
+[^key-5d30fa2b12bfb4fc04f125291b75e645]: Textual amendment: Words in [Art. 6(1)](https://www.legislation.gov.uk/eur/2011/582/article/6/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/7/b/ii)
+
+[^key-6bde8dd5ed7e73f5ba74d34e874968a7]: Textual amendment: Words in [Art. 6(1a)](https://www.legislation.gov.uk/eur/2011/582/article/6/1a) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(7)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/7/c/i)
+
+[^key-4ddef4afc79954af1484d0fdafe1179e]: Textual amendment: Words in [Art. 6(1a)(a)](https://www.legislation.gov.uk/eur/2011/582/article/6/1a/a) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/7/c/ii)
+
+[^key-60cbacca35256e1a2e7d77d33641d771]: Textual amendment: [Art. 6(1a)(b)](https://www.legislation.gov.uk/eur/2011/582/article/6/1a/b) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(7)(c)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/7/c/iii)
+
+[^key-5e1c328fbf2b8756b224539bf7936529]: Textual amendment: Words in [Art. 6(2)](https://www.legislation.gov.uk/eur/2011/582/article/6/2) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(7)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/7/d)
+
+[^key-53f16449af5505f0b26bab4aff1f8686]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2011/582/article/7) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(8)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/8/a)
+
+[^key-7660410387ecd8250b1934db803df1c4]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2011/582/article/7) heading omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(8)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/8/b)
+
+[^key-5b436641a3d5b06438f5cbce03348fdd]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2011/582/article/7/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(8)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/8/a)
+
+[^key-c7ba54d7e51a3316cd8612c123be3ed9]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2011/582/article/7/2) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(8)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/8/a)
+
+[^key-504225fb4185b0abd5f719fc58432023]: Textual amendment: [Art. 7(4)(c)](https://www.legislation.gov.uk/eur/2011/582/article/7/4/c) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(8)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/8/c)
+
+[^key-e096b79ca414202ea02ca28203c8d93f]: Textual amendment: [Art. 7(4)(d)](https://www.legislation.gov.uk/eur/2011/582/article/7/4/d) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(8)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/8/c)
+
+[^key-6432bbf0d654b036e492b8edd7f7f7f5]: Textual amendment: Words in [Art. 8](https://www.legislation.gov.uk/eur/2011/582/article/8) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(9)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/9/a/i)
+
+[^key-ba22613270578fdefe1ffca5ff73763b]: Textual amendment: Words in [Art. 8](https://www.legislation.gov.uk/eur/2011/582/article/8) heading omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/9/a/ii)
+
+[^key-2039826c800e15e0ac8fdf86fd028db5]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2011/582/article/8/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(9)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/9/b)
+
+[^key-b95472216627465fc3935202c63b9fec]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2011/582/article/8/1) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(9)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/9/c/i)
+
+[^key-1ae63cb8ef83b9113e038cc861cbf69c]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2011/582/article/8/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(9)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/9/c/ii)
+
+[^key-ef84334d67fe0edc4d742cd32122a21d]: Textual amendment: Words in [Art. 8(1a)](https://www.legislation.gov.uk/eur/2011/582/article/8/1a) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(9)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/9/b)
+
+[^key-e365868863704522bf10fb0ba755cf1b]: Textual amendment: Word in [Art. 8(1a)(a)](https://www.legislation.gov.uk/eur/2011/582/article/8/1a/a) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(9)(d)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/9/d/i)
+
+[^key-752c5bd3747f052d972af9188e55e6bb]: Textual amendment: [Art. 8(1a)(b)](https://www.legislation.gov.uk/eur/2011/582/article/8/1a/b) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(9)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/9/d/ii)
+
+[^c000008]: Textual amendment: Substituted by [Commission Regulation (EU) 2017/2400 of 12 December 2017 implementing Regulation (EC) No 595/2009 of the European Parliament and of the Council as regards the determination of the CO2 emissions and fuel consumption of heavy-duty vehicles and amending Directive 2007/46/EC of the European Parliament and of the Council and Commission Regulation (EU) No 582/2011 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/2400).
+
+[^key-645e00f58654326d0cb3161159cdf773]: Textual amendment: Words in [Art. 8(1a)(e)](https://www.legislation.gov.uk/eur/2011/582/article/8/1a/e) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(9)(d)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/9/d/iii)
+
+[^key-f1cd76023e6b50da4e67eaefebe54ace]: Textual amendment: Words in [Art. 8(2)](https://www.legislation.gov.uk/eur/2011/582/article/8/2) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(9)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/9/b)
+
+[^key-c77886e9f6fccdb234a1e5859db1f1b8]: Textual amendment: Word in [Art. 9](https://www.legislation.gov.uk/eur/2011/582/article/9) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(10)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/10/a)
+
+[^key-4d15598021ce8e3bfc9ab5434d54aabb]: Textual amendment: Words in [Art. 9](https://www.legislation.gov.uk/eur/2011/582/article/9) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(10)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/10/b)
+
+[^key-451aad21fe4a007ab37c388a71c44b36]: Textual amendment: Word in [Art. 10](https://www.legislation.gov.uk/eur/2011/582/article/10) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/a)
+
+[^key-08c315c02bf044b4ea54e6ff047bb656]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2011/582/article/10) heading omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/b)
+
+[^key-133b693b3039cdc106a621c26fdd8a6f]: Textual amendment: Words in [Art. 10(1)](https://www.legislation.gov.uk/eur/2011/582/article/10/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/c/i)
+
+[^key-1239bdbde0495064055a8999edeac899]: Textual amendment: Words in [Art. 10(1)](https://www.legislation.gov.uk/eur/2011/582/article/10/1) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/b)
+
+[^key-d6388e46a09206609017a79ec5def2e5]: Textual amendment: Words in [Art. 10(1)](https://www.legislation.gov.uk/eur/2011/582/article/10/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/c/ii)
+
+[^key-f0b3afba1389308b9c21dec6b2206a90]: Textual amendment: Words in [Art. 10(1a)](https://www.legislation.gov.uk/eur/2011/582/article/10/1a) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(d)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/d/i)
+
+[^key-90565b4438f7c8effdc1f4ce6cd35b65]: Textual amendment: Words in [Art. 10(1a)](https://www.legislation.gov.uk/eur/2011/582/article/10/1a) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/b)
+
+[^key-3c7e7cb6e632c84dbcd70ed35df89d14]: Textual amendment: Word in [Art. 10(1a)(a)](https://www.legislation.gov.uk/eur/2011/582/article/10/1a/a) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/a)
+
+[^key-a46972f66030f5ac46b20221845be13c]: Textual amendment: [Art. 10(1a)(b)](https://www.legislation.gov.uk/eur/2011/582/article/10/1a/b) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/d/ii)
+
+[^key-27b3ae9edd290e5305ecc8dd02c3cb84]: Textual amendment: Words in [Art. 10(1a)(e)](https://www.legislation.gov.uk/eur/2011/582/article/10/1a/e) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(d)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/d/iii)
+
+[^key-bfc8cedad204eae3cd683dfa4df61361]: Textual amendment: Words in [Art. 10(2)](https://www.legislation.gov.uk/eur/2011/582/article/10/2) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(11)(e)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/11/e)
+
+[^key-1e1295dc1599d4b7205c9d95db1c2a97]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2011/582/article/11/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(12)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/12)
+
+[^f00006]: Footnote: [OJ L 275, 20.10.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.275.01.0001.01.ENG).
+
+[^key-9bd21102843e36fe4616559f41cc71ca]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2011/582/article/12/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(13)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/13/a)
+
+[^key-e68d56be2d673904a527b4b3f745a993]: Textual amendment: Words in [Art. 12(5)](https://www.legislation.gov.uk/eur/2011/582/article/12/5) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(13)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/13/b)
+
+[^key-851c9ad82c1f333a80ead9297755baf2]: Textual amendment: Words in [Art. 12(6)](https://www.legislation.gov.uk/eur/2011/582/article/12/6) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(13)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/13/c/i)
+
+[^key-59df42bc39a54837fbd003d596551fcc]: Textual amendment: Words in [Art. 12(6)](https://www.legislation.gov.uk/eur/2011/582/article/12/6) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(13)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/13/c/ii)
+
+[^key-a67f4528fd452777fbebd006d163b8c2]: Textual amendment: Words in [Art. 12(6)](https://www.legislation.gov.uk/eur/2011/582/article/12/6) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(13)(c)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/13/c/iii)
+
+[^key-975e91575581025a0bfdd6e3330e39ab]: Textual amendment: [Art. 12(7)-(10)](https://www.legislation.gov.uk/eur/2011/582/article/12/7) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(13)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/13/d)
+
+[^key-5cd856dd98718cd5740bac7f920afeb5]: Textual amendment: Words in [Art. 13(3)](https://www.legislation.gov.uk/eur/2011/582/article/13/3) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(14)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/14/a)
+
+[^key-68c5a270d7b7909c38f6d2af0c3bc494]: Textual amendment: Words in [Art. 13(4)](https://www.legislation.gov.uk/eur/2011/582/article/13/4) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(14)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/14/b)
+
+[^c000009]: Textual amendment: Deleted by [Commission Regulation (EU) 2016/1718 of 20 September 2016 amending Regulation (EU) No 582/2011 with respect to emissions from heavy-duty vehicles as regards the provisions on testing by means of portable emission measurement systems (PEMS) and the procedure for the testing of the durability of replacement pollution control devices (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/1718).
+
+[^key-c671d9e4ead7d0093bf639f3c7875b86]: Textual amendment: Words in [Art. 15(1)](https://www.legislation.gov.uk/eur/2011/582/article/15/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(15)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/15)
+
+[^key-c7aee41dc4008d3048e5c29c09c29820]: Textual amendment: Word in [Art. 16](https://www.legislation.gov.uk/eur/2011/582/article/16) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(16)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/16/a)
+
+[^key-765d9171930dd7a7df7daf8d646c0396]: Textual amendment: Word in [Art. 16(1)](https://www.legislation.gov.uk/eur/2011/582/article/16/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(16)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/16/a)
+
+[^key-94133b591897c9bef80c270bca79582b]: Textual amendment: [Art. 16(3)](https://www.legislation.gov.uk/eur/2011/582/article/16/3) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(16)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/16/b)
+
+[^key-eb10f34abfde07a2c56ef16a4a3e1f9f]: Textual amendment: Words in [Art. 17](https://www.legislation.gov.uk/eur/2011/582/article/17) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(17)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/17/a)
+
+[^key-e2edb7091bf2cc7b1ecde5d38737c242]: Textual amendment: Words in [Art. 17(1)](https://www.legislation.gov.uk/eur/2011/582/article/17/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(17)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/17/b)
+
+[^key-9d38ba60788f2c42d4323a9a627d7f69]: Textual amendment: Words in [Art. 17(1)](https://www.legislation.gov.uk/eur/2011/582/article/17/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(17)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/17/c)
+
+[^key-82a9e9ac329a021e875a4fdbe185a504]: Textual amendment: Words in [Art. 17(2)](https://www.legislation.gov.uk/eur/2011/582/article/17/2) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(17)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/17/b)
+
+[^c000010]: Textual amendment: Inserted by [Commission Regulation (EU) 2016/1718 of 20 September 2016 amending Regulation (EU) No 582/2011 with respect to emissions from heavy-duty vehicles as regards the provisions on testing by means of portable emission measurement systems (PEMS) and the procedure for the testing of the durability of replacement pollution control devices (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/1718).
+
+[^key-c5d5c4693e9623e00139bd5918eccae9]: Textual amendment: Words in [Art. 17a(1)](https://www.legislation.gov.uk/eur/2011/582/article/17a/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(18)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/18/a/i)
+
+[^key-5816f9665cb872dcdd612d4838ae2cfd]: Textual amendment: Word in [Art. 17a(1)](https://www.legislation.gov.uk/eur/2011/582/article/17a/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(18)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/18/a/ii)
+
+[^key-3f63f4f771285583e12af3f85b360f3f]: Textual amendment: Words in [Art. 17a(1)](https://www.legislation.gov.uk/eur/2011/582/article/17a/1) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(18)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/18/a/iii)
+
+[^key-788ee3382ef8f940bc785b4c2ae6cea5]: Textual amendment: Words in [Art. 17a(2)](https://www.legislation.gov.uk/eur/2011/582/article/17a/2) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(18)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/18/b/i)
+
+[^key-4ee79df460d4ad0bba8c5aa4e3c695f9]: Textual amendment: Words in [Art. 17a(2)](https://www.legislation.gov.uk/eur/2011/582/article/17a/2) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(18)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/18/b/ii)
+
+[^key-9a2c3ba2610b83caaabf38789feb62ee]: Textual amendment: Words in Signature omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [65(19)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/65/19)
+
+[^key-908e5ad6ce7a915340c385c6e684f7cd]: Textual amendment: Words in Annex 1 heading substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/a)
+
+[^c000011]: Textual amendment: Substituted by [Commission Regulation (EU) 2016/1718 of 20 September 2016 amending Regulation (EU) No 582/2011 with respect to emissions from heavy-duty vehicles as regards the provisions on testing by means of portable emission measurement systems (PEMS) and the procedure for the testing of the durability of replacement pollution control devices (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/1718).
+
+[^c000012]: Textual amendment: Substituted by [Commission Regulation (EU) 2018/932 of 29 June 2018 amending Regulation (EU) No 582/2011 as regards the provisions on testing by means of portable emission measurement systems (PEMS) and the requirements for universal fuel range type-approval (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/932).
+
+[^key-c26b499982d615b84b50b7fd9875e824]: Textual amendment: Words in Annex 1 point 1.1.2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/b/i)
+
+[^c000013]: Textual amendment: Inserted by [Commission Regulation (EU) 2018/932 of 29 June 2018 amending Regulation (EU) No 582/2011 as regards the provisions on testing by means of portable emission measurement systems (PEMS) and the requirements for universal fuel range type-approval (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/932).
+
+[^key-48737fe9cffb7f9c8824cae7fa39437f]: Textual amendment: Words in Annex 1 point 1.1.2(c) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/b/ii)
+
+[^key-53476219d1beaacef7d252d640bdec9e]: Textual amendment: Words in Annex 1 point 3.1 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/c)
+
+[^key-ac44a271e99d1e0d41893e5f0e7803f0]: Textual amendment: Words in Annex 1 point 3.2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/d)
+
+[^key-97b412770a40a623d58d70ed151f6b6e]: Textual amendment: Annex 1 point 3.2.1 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(e)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/e)
+
+[^key-aff8862f98d065696a6e56868501c420]: Textual amendment: Words in Annex 1 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/a)
+
+[^key-2eef9e095f071e22ce872a1622b0f8fe]: Textual amendment: Words in Annex 1 point 3.2.2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(f)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/f)
+
+[^key-c58ca6b4f230b7232fb5b91c45359dde]: Textual amendment: Words in Annex 1 points 3.2.3, 3.2.4 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(g)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/g)
+
+[^key-17b31abd8a072dfcc7415069d579be43]: Textual amendment: Words in Annex 1 point 3.4 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(h)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/h/i)
+
+[^key-d45bba8983c149784aeabaa6056f91a7]: Textual amendment: Words in Annex 1 point 3.4 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(h)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/h/iii)
+
+[^key-dfc1b17b49fa0933ea02296dd5659f60]: Textual amendment: Words in Annex 1 point 3.4 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(h)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/h/ii)
+
+[^f00008]: Footnote: [OJ L 326, 24.11.2006, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.326.01.0055.01.ENG).
+
+[^key-f552ef446946f4cb4d8eda611d1840d8]: Textual amendment: Words in Annex 1 point 7.1 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/i)
+
+[^key-a7dc3056ada23a6b20615da8a7d51020]: Textual amendment: Words in Annex 1 point 7.1 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/i)[(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/ii)
+
+[^key-74e56c0ac6c59e3ef089f7509e97c904]: Textual amendment: Words in Annex 1 point 7.2.2.2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(2)(j)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/2/j)
+
+[^key-a03fbbcd92ffc8355bb578db46500cfe]: Textual amendment: Words in [Annex 1 Appendix 4](https://www.legislation.gov.uk/eur/2011/582/annex/I/appendix/4) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/a)
+
+[^M_F_9662a250-e94e-4197-efd5-91d3402ca5b1]: Textual amendment: Words in Annex 1 Appendix 4 omitted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/b)
+
+[^key-ba8c26d30ab4c1872eacfdca744d6268]: Textual amendment: Words in Annex 1 Appendix 4 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/c/i)
+
+[^key-7d2ea80942d472222280c1ed66e12f3f]: Textual amendment: Words in Annex 1 Appendix 4 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/c/ii/aa)
+
+[^M_F_d209bdc1-b609-489a-ca70-8e7e02f48292]: Textual amendment: Words in Annex 1 Appendix 4 omitted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/c/ii/bb)
+
+[^M_F_fb5090ec-3f0b-4591-f924-95e8d4420faa]: Textual amendment: Words in Annex 1 Appendix 4 omitted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/c/iii/aa)
+
+[^key-652867406947e3dd543399c3c959acd0]: Textual amendment: Words in Annex 1 Appendix 4 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/c/iii/bb)
+
+[^key-d70adb89fe8126c6fc42dfd37845a40c]: Textual amendment: Words in [Annex 1 Appendix 4 entry 0.2.0.3](https://www.legislation.gov.uk/eur/2011/582/annex/I/appendix/4) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(d)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/d/i)
+
+[^key-7853ffc16f457df93a8bf3ff8754fc88]: Textual amendment: Words in Annex 1 Appendix 4 entry 0.7 table substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/d/ii)
+
+[^key-4b44e4bc9ef29f99f602fe3cb99f755a]: Textual amendment: Words in Annex 1 Appendix 4 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/d/iii)
+
+[^c000015]: Textual amendment: Deleted by [Commission Regulation (EU) No 133/2014 of 31 January 2014 amending, for the purposes of adapting to technical progress as regards emission limits, Directive 2007/46/EC of the European Parliament and of the Council, Regulation (EC) No 595/2009 of the European Parliament and of the Council and Commission Regulation (EU) No 582/2011 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/133).
+
+[^key-6a6bc8c454d71cc74e5ebfa100bc1ee0]: Textual amendment: Words in Annex 1 Appendix 4 Pt. 1 entry 3.2.12.2.8.2.1 inserted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(e)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/e/i)
+
+[^key-dadb0cca3f07b537a90a89add74a0f1e]: Textual amendment: Words in Annex 1 Appendix 4 Pt. 1 entry 3.2.12.2.8.2.1 substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/e/ii)
+
+[^key-253a728f0ba78a3530b2567d1db153a3]: Textual amendment: Words in Annex 1 Appendix 4, Pt. 2 inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(f)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/f/i)
+
+[^key-eb9b91349134025d893afbbed7a89e64]: Textual amendment: Words in Annex 1 Appendix 4, Pt. 2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/f/ii)
+
+[^key-4af990abe9eecf58539513184b8fbd0a]: Textual amendment: Annex 1 Appendix 4 Pt. 3 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(3)(g)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/3/g)
+
+[^key-bd917e6c4d409e5aea34778815f05aad]: Textual amendment: Words in Annex 1 Appendix 5 substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(4)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/4/a)
+
+[^key-1670c7ead25881d4e5c2ac28d747023a]: Textual amendment: Words in Annex 1 Appendix 5 Section 1 point 0.5 substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(4)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/4/b)
+
+[^key-51902d14fab9e0437c26a23cba2a8914]: Textual amendment: Words in Annex 1 Appendix 6 heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(5)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/5/a)
+
+[^key-86bf9770ebd3254f99b7d4619e135f61]: Textual amendment: Words in Annex 1 Appendix 6 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(5)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/5/b)
+
+[^key-162b90fa68998ed3182daed2293cef6f]: Textual amendment: Words in Annex 1 Appendix 6 Section 1 point 0.5 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(5)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/5/c)
+
+[^key-e5038540752d333f11676ab62890f03d]: Textual amendment: Words in Annex 1 Appendix 7 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(6)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/6)
+
+[^key-d3c480aa9b23016ce1f67f98594c69ce]: Textual amendment: Words in Annex 1 Appendix 8 heading substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(7)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/7/a)
+
+[^key-4b3be333200fb286fc456939ab26a2fa]: Textual amendment: Image in Annex 1 Appendix 8 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(7)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/7/b)
+
+[^key-ef397cbc15eaf8ee459a4a74b58d182f]: Textual amendment: Words in Annex 1 Appendix 8 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(7)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/7/c)
+
+[^c000016]: Textual amendment: Substituted by [Commission Regulation (EU) 2017/1347 of 13 July 2017 correcting Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EU) No 582/2011 and Commission Regulation (EU) 2017/1151 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Regulation (EC) No 692/2008 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/1347).
+
+[^key-43aac4e3e7d973ae86b443909409cdf9]: Textual amendment: Words in Annex 1 Appendix 9 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(8)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/8)
+
+[^f00017]: Footnote: ‘NOx OTL’ monitoring requirements as set out in Table 1 of Annex X for compression ignition and dual-fuel engines and vehicles and Table 2 of Annex X for positive ignition engines and vehicles.[^c000016]
+
+[^f00018]: Footnote: ‘PM OTL’ monitoring requirements as set out in Table 1 of Annex X for compression ignition and dual-fuel engines and vehicles.
+
+[^f00022]: Footnote: ‘CO OTL’ monitoring requirements as set out in Table 2 of Annex X for positive ignition engines and vehicles.
+
+[^f00029]: Footnote: IUPR specifications are set out in Annex X. Positive Ignition engines and vehicles equipped with such engines are not subjected to IUPR.
+
+[^f00028]: Footnote: Additional provisions concerning monitoring requirements as set out in paragraph 2.3.1.2 of Annex 9A to UNECE Regulation No 49.
+
+[^f00030]: Footnote: ISC requirement set out in Appendix 1 to Annex II.
+
+[^f00025]: Footnote: For positive-ignition engines and vehicles equipped with such engines.
+
+[^f00026]: Footnote: For compression-ignition and dual-fuel engines and vehicles equipped with such engines.
+
+[^f00019]: Footnote: ‘Performance monitoring’ requirements as set out in point 2.1.1 of Annex X.
+
+[^f00023]: Footnote: IUPR ‘Phase-in’ requirements as set out in Section 6 of Annex X.
+
+[^f00020]: Footnote: Reagent quality ‘phase-in’ requirements as set out in point 7.1 of Annex XIII.
+
+[^f00027]: Footnote: Only applicable to positive-ignition engines and vehicles equipped with such engines.
+
+[^f00024]: Footnote: IUPR ‘General’ requirements as set out in Section 6 of Annex X.
+
+[^f00021]: Footnote: Reagent quality ‘general’ requirements as set out in point 7.1.1 of Annex XIII.
+
+[^key-760cad5184c4c430077532a9755f5cb5]: Textual amendment: Words in Annex 1 Appendix 10 substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(9)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/9)
+
+[^key-7efa025947012de58082478f0c23b750]: Textual amendment: Words in [Annex 2 point 3.2](https://www.legislation.gov.uk/eur/2011/582/annex/II) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(10)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/10/a)
+
+[^key-476ac896aaaeaffc3f63355bb562e7b8]: Textual amendment: Words in [Annex 2 point 4.1](https://www.legislation.gov.uk/eur/2011/582/annex/II) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(10)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/10/b)
+
+[^key-986baa0ed67dde0ec233299053ce30cf]: Textual amendment: Words in [Annex 2 point 4.4.2](https://www.legislation.gov.uk/eur/2011/582/annex/II) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(10)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/10/c)
+
+[^f00053]: Footnote: For compression-ignition engines.
+
+[^f00054]: Footnote: For positive-ignition engines.
+
+[^key-932cc52492381b5a7924c0d9faa2cec1]: Textual amendment: Words in [Annex 2 point 9.1](https://www.legislation.gov.uk/eur/2011/582/annex/II) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(10)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/10/d)
+
+[^key-6c61a5e380c0f45535710f856e917e79]: Textual amendment: Words in [Annex 2 Appendix 1 point 2.2](https://www.legislation.gov.uk/eur/2011/582/annex/I/appendix/1) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(10)(e)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/10/e)
+
+[^f00055]: Footnote: Measured or corrected to a wet basis.
+
+[^f00056]: Footnote: Gas engines only.
+
+[^f00057]: Footnote: Use the ambient temperature sensor or an intake air temperature sensor.
+
+[^f00058]: Footnote: The recorded value shall be either (a) the net brake engine torque in accordance with point 2.4.4 of this Appendix or (b) the net brake engine torque calculated from the torque values in accordance with point 2.4.4 of this Appendix.
+
+[^f00059]: Footnote: Vehicle or vehicles in the case of a secondary engine.[^c000003]
+
+[^key-b2da18c802c6398813248f6307ab0416]: Textual amendment: Words in [Annex 8 point 5](https://www.legislation.gov.uk/eur/2011/582/annex/VIII) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(11)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/11/a)
+
+[^key-e23339ad11e429886e20bde893cff5d0]: Textual amendment: Words in [Annex 8 point 5](https://www.legislation.gov.uk/eur/2011/582/annex/VIII) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(11)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/11/a)
+
+[^c000017]: Textual amendment: Substituted by [Commission Regulation (EU) 2019/1939 of 7 November 2019 amending Regulation (EU) No 582/2011 as regards Auxiliary Emission Strategies (AES), access to vehicle OBD information and vehicle repair and maintenance information, measurement of emissions during cold engine start periods and use of portable emissions measurement systems (PEMS) to measure particle numbers, with respect to heavy duty vehicles (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1939).
+
+[^key-38af195085bc047144e3b4d99f15d28c]: Textual amendment: Words in [Annex 8 point 5.1.2](https://www.legislation.gov.uk/eur/2011/582/annex/VIII) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(11)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/11/b/i)
+
+[^key-2ea934d339c71ad2f00319850fc4ef2c]: Textual amendment: Words in [Annex 8 point 5.1.2](https://www.legislation.gov.uk/eur/2011/582/annex/VIII) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/11/b/ii)
+
+[^c000018]: Textual amendment: Substituted by [Commission Regulation (EU) No 136/2014 of 11 February 2014 amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 as regards emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and Commission Regulation (EU) No 582/2011 as regards emissions from heavy duty vehicles (Euro VI) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/136).
+
+[^f00063]: Footnote: The values quoted in the specifications are[^c000018] ‘ true values ’ . In establishment of their limit values the terms of ISO 4259 Petroleum products – Determination and application of precision data in relation to methods of test have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account; in fixing a maximum and minimum value, the minimum difference is 4R (R = reproducibility). Notwithstanding this measure, which is necessary for technical reasons, the manufacturer of fuels shall nevertheless aim at a zero value where the stipulated maximum value is 2R and at the mean value in the case of quotations of maximum and minimum limits. Should it be necessary to clarify whether a fuel meets the requirements of the specifications, the terms of ISO 4259 shall be applied.
+
+[^f00064]: Footnote: The range for cetane number is not in accordance with the requirements of a minimum range of 4R. However, in the case of a dispute between fuel supplier and fuel user, the terms of ISO 4259 may be used to resolve such disputes provided replicate measurements, of sufficient number to archive the necessary precision, are made in preference to single determinations.
+
+[^f00065]: Footnote: Even though oxidation stability is controlled, it is likely that shelf life will be limited. Advice shall be sought from the supplier as to storage conditions and life.
+
+[^f00066]: Footnote: FAME content to meet the specification of EN 14214.
+
+[^f00067]: Footnote: Additives, such as cetane improver as specified by the engine manufacturer, may be added to the ethanol fuel, as long as no negative side effects are known. If these conditions are satisfied, the maximum allowed amount is 10 % m/m.
+
+[^f00068]: Footnote: The values quoted in the specifications are ‘true values’. In establishment of their limit values the terms of ISO 4259 Petroleum products — Determination and application of precision data in relation to methods of test have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account; in fixing a maximum and minimum value, the minimum difference is 4R (R = reproducibility). Notwithstanding this measure, which is necessary for technical reasons, the manufacturer of fuels shall nevertheless aim at a zero value where the stipulated maximum value is 2R and at the mean value in the case of quotations of maximum and minimum limits. Should it be necessary to clarify whether a fuel meets the requirements of the specifications, the terms of ISO 4259 shall be applied.
+
+[^f00069]: Footnote: Equivalent EN/ISO methods will be adopted when issued for properties listed above.
+
+[^f00070]: Footnote: Should it be necessary to clarify whether a fuel meets the requirements of the specifications, the terms of EN 15489 shall be applied.
+
+[^f00071]: Footnote: The values quoted in the specifications are ‘ true values ’ . In establishment of their limit values the terms of ISO 4259 Petroleum products - Determination and application of precision data in relation to methods of test have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account; in fixing a maximum and minimum value, the minimum difference is 4R (R = reproducibility). Notwithstanding this measure, which is necessary for technical reasons, the manufacturer of fuels shall nevertheless aim at a zero value where the stipulated maximum value is 2R and at the mean value in the case of quotations of maximum and minimum limits. Should it be necessary to clarify whether a fuel meets the requirements of the specifications, the terms of ISO 4259 shall be applied.
+
+[^f00073]: Footnote: A correction factor of 0,2 for MON and RON shall be subtracted for the calculation of the final result in accordance with EN 228:2008.
+
+[^f00074]: Footnote: The fuel may contain oxidation inhibitors and metal deactivators normally used to stabilise refinery gasoline streams, but detergent/dispersive additives and solvent oils shall not be added.
+
+[^f00075]: Footnote: Ethanol is the only oxygenate that shall be intentionally added to the reference fuel. The ethanol used shall conform to EN 15376.
+
+[^f00076]: Footnote: The actual sulphur content of the fuel used for the Type 6 test shall be reported.
+
+[^f00077]: Footnote: There shall be no intentional addition of compounds containing phosphorus, iron, manganese, or lead to this reference fuel.
+
+[^f00078]: Footnote: The values quoted in the specifications are ‘true values’. In establishment of their limit values the terms of ISO 4259 Petroleum products — Determination and application of precision data in relation to methods of test have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account; in fixing a maximum and minimum value, the minimum difference is 4R (R = reproducibility). Notwithstanding this measure, which is necessary for technical reasons, the manufacturer of fuels shall nevertheless aim at a zero value where the stipulated maximum value is 2R and at the mean value in the case of quotations of maximum and minimum limits. Should it be necessary to clarify whether a fuel meets the requirements of the specifications, the terms of ISO 4259 shall be applied.
+
+[^f00079]: Footnote: The actual sulphur content of the fuel used for the emission tests shall be reported.
+
+[^f00080]: Footnote: Ethanol to meet specification of EN 15376 is the only oxygenate that shall be intentionally added to this reference fuel.
+
+[^f00081]: Footnote: The unleaded petrol content can be determined as 100 minus the sum of the percentage content of water, alcohols, MTBE and ETBE.
+
+[^f00082]: Footnote: There shall be no intentional addition of compounds containing phosphorus, iron, manganese, or lead to this reference fuel.
+
+[^f00083]: Footnote: Balance shall be read as follows: balance = 100 - C<sub>3</sub> - \< C<sub>3</sub> - > C<sub>4</sub>.
+
+[^f00084]: Footnote: This method may not accurately determine the presence of corrosive materials if the sample contains corrosion inhibitors or other chemicals which diminish the corrosivity of the sample to the copper strip. Therefore, the addition of such compounds for the sole purpose of biasing the test method is prohibited.
+
+[^f00085]: Footnote: At the request of the engine manufacturer, a higher MON could be used to perform the type-approval tests.
+
+[^f00086]: Footnote: Inerts + C <sub> 2+ </sub>
+
+[^f00087]: Footnote: Value to be determined at standard conditions 293,2 K (20 °C) and 101,3 kPa.
+
+[^f00088]: Footnote: Inerts (different from N <sub> 2 </sub> ) + C <sub> 2 </sub> + C <sub> 2+ </sub>
+
+[^f00089]: Footnote: Value to be determined at 293,2 K (20 °C) and 101,3 kPa.
+
+[^f00090]: Footnote: Inerts (different from N <sub> 2 </sub> ) + C <sub> 2 </sub> + C <sub> 2+ </sub>
+
+[^f00091]: Footnote: Value to be determined at 293,2 K (20 °C) and 101,3 kPa.
+
+[^f00092]: Footnote: Inerts (different from N <sub> 2 </sub> ) + C <sub> 2 </sub> + C <sub> 2 </sub> +.
+
+[^f00093]: Footnote: Value to be determined at 293,2 K (20 °C) and 101,3 kPa.
+
+[^f00094]: Footnote: Value to be determined at 273,2 K (0 °C) and 101,3 kPa.
+
+[^key-c62434f3407e1fa0c142f36ab1138ce2]: Textual amendment: Annex 10 point 2.2 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(12)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/12/a)
+
+[^key-63bbbbb9203dfcec60fe5f4b46671ad7]: Textual amendment: Words in Annex 10 point 2.4.1 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(12)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/12/b)
+
+[^key-59e4bc79579bef6068ecde770ff3c9fb]: Textual amendment: Words in Annex 10 Appendix 5 point 6 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(12)(f)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/12/f/iii)
+
+[^key-a27b11ab7f1a3cae9ff52610dfd92f6e]: Textual amendment: Annex 10 point 2.4.4 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(12)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/12/d)
+
+[^key-c6a5816b6ea3f0576555ecb87b160501]: Textual amendment: Words in Annex 10 point 2.5 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(12)(e)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/12/e)
+
+[^f00096]: Footnote: The limit shall apply as from the dates set out in row B of Table 1 in Appendix 9 to Annex I.
+
+[^key-4acfb8d72755426ecee3d872b769878d]: Textual amendment: Words in Annex 10 point 2.4.2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(12)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/12/c)
+
+[^key-205a0fc1fc9c950cf8c41a0e14464e23]: Textual amendment: Words in Annex 10 Appendix 5 point 5.2.4 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(12)(f)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/12/f/ii)
+
+[^key-bfe526d74679e1c4435d11bcb2c32dc7]: Textual amendment: Word in Annex 11 heading substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/a)
+
+[^key-cde7ad3016175651d89d25e73d40edca]: Textual amendment: Words in Annex 11 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/b/i)
+
+[^key-eb269bb6cbb11ea1862a12cbede58613]: Textual amendment: Words in Annex 11 point 3.2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(d)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/d/i)
+
+[^key-d6e3e7b4faa2254a964d990f6a9d9997]: Textual amendment: Words in Annex 11 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/b/ii)
+
+[^key-5326262c9e316584b829c1fa35b22a6d]: Textual amendment: Words in Annex 11 point 3.2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/d/ii)
+
+[^key-cd7379a81addd30deda081d8751b1551]: Textual amendment: Words in Annex 11 point 3 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/c)
+
+[^key-a4d79dc4683b65b4c1c35f20447d7da1]: Textual amendment: Words in Annex 11 point 4.1.4 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(e)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/e)
+
+[^key-47bf467e0e70dc831d52b5cf4fbe2c21]: Textual amendment: Words in Annex 11 point 4.5.4 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(f)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/f/i)
+
+[^key-cee8aff280f14e3266c9886cf74d3d2a]: Textual amendment: Words in Annex 11 point 4.5.4 omitted (31.12.2022 at 11.00 p.m.) by virtue of The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(f)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/f/ii)
+
+[^key-78ef710a12e6a9986a3cd2517a0f2078]: Textual amendment: Words in Annex 11 point 4.6.4 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(g)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/g)
+
+[^key-29928a3d3f199d019e35ba4ac2116b5d]: Textual amendment: Words in Annex 11 point 5.1 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(h)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/h)
+
+[^key-feaa179000608777778e8f2b920ea1af]: Textual amendment: Words in Annex 11 point 5.2.1 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/i)
+
+[^key-67055d486de698f0bc7c722c51ec90f7]: Textual amendment: Words in Annex 11 point 5.2.2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(j)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/j)
+
+[^key-9dcf64e78975a97766b67cd761cde661]: Textual amendment: Words in Annex 11 Appendix 1 point 0.7 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(k)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/k/i)
+
+[^f00098]: Footnote: Delete where not applicable.
+
+[^key-4e626816c6707c42d505ed0d1a610241]: Textual amendment: Annex 11 Appendix 1 points 2-2.3 omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(k)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/k/ii)
+
+[^key-cfcbd0a74dd8715e6835614ec7e76117]: Textual amendment: Words in Annex 11 Appendix 2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(l)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/l/i)
+
+[^f00099]: Footnote: Delete where not applicable.
+
+[^key-8c98e3b8dc2ecb3c9b20132484a3e638]: Textual amendment: Words in Annex 11 Appendix 2 inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(l)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/l/ii)
+
+[^f00100]: Footnote: If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this type-approval certificate such characters shall be represented in the document by the symbol: ‘?’ (e.g. ABC??123??).
+
+[^key-6d73933ea2064e8384971aab97eae689]: Textual amendment: Words in Annex 11 Appendix 2 Section 1 point 0.7 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(l)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/l/iii)
+
+[^key-9e60bbccaa81e407f6d31ffedf199935]: Textual amendment: Words in Annex 11 Appendix 3 point 2.4.2.11 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(m)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/m/i)
+
+[^key-d171f390858925cdcdd7421fbe9ac942]: Textual amendment: Words in Annex 11 Appendix 3 point 2.4.6.5 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(13)(m)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/13/m/ii)
+
+[^key-1cf8b85b2ef782dc1c39ea8f186da516]: Textual amendment: Words in [Annex 13 point 2.1.1](https://www.legislation.gov.uk/eur/2011/582/annex/XIII) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(14)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/14/a)
+
+[^key-df91f73dd49e755bd89b69e4c8f0375f]: Textual amendment: Words in [Annex 13 point 2.1.2.2.5](https://www.legislation.gov.uk/eur/2011/582/annex/XIII) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(14)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/14/b/i)
+
+[^key-94d28f7c634dd6e1c82d7cfffb7e3c97]: Textual amendment: Words in [Annex 13 point 2.1.2.2.5](https://www.legislation.gov.uk/eur/2011/582/annex/XIII) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(14)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/14/b/ii)
+
+[^key-fb87a97ca4b7378002415dc06b5af9b8]: Textual amendment: Words in [Annex 13 point 2.1.5](https://www.legislation.gov.uk/eur/2011/582/annex/XIII) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(14)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/14/c)
+
+[^key-62ecc70efd717310397bced050399e96]: Textual amendment: Words in [Annex 13 point 4.1.1](https://www.legislation.gov.uk/eur/2011/582/annex/XIII) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(14)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/14/d)
+
+[^key-39fcfc7393d88644b902e64946fccb1e]: Textual amendment: Words in [Annex 13 point 5.1.1](https://www.legislation.gov.uk/eur/2011/582/annex/XIII) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(14)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/14/d)
+
+[^key-b9b5fa25f1d8a697f47f896f95910586]: Textual amendment: Words in [Annex 13 point 12](https://www.legislation.gov.uk/eur/2011/582/annex/XIII) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(14)(e)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/14/e/i)
+
+[^key-e0caf4a3e314f1798b062feed7b22406]: Textual amendment: Words in [Annex 13 point 12](https://www.legislation.gov.uk/eur/2011/582/annex/XIII) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(14)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/14/e/ii)
+
+[^f00103]: Footnote: The admissible level of NO<sub>2</sub> component in the NO<sub>x</sub> limit value may be defined at a later stage.
+
+[^f00104]: Footnote: A new measurement procedure shall be introduced before 31 December 2012.
+
+[^f00105]: Footnote: A particle number limit shall be introduced before 31 December 2012.
+
+[^key-29776d46cdaed7fd48cb47379e533b56]: Textual amendment: [Annex 17](https://www.legislation.gov.uk/eur/2011/582/annex/XVII) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(15)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/15)
+
+[^key-fa86991bcc260616fee9e64111f40ec4]: Textual amendment: Words in [Annex 18 point 7.2](https://www.legislation.gov.uk/eur/2011/582/annex/XVIII) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [66(16)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/66/16)

@@ -1,0 +1,27 @@
+---
+title: Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (Text with EEA relevance), section Article 96
+act: Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (Text with EEA relevance)
+section: Article 96
+status: revised-with-pending-changes
+text_date: '2026-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2013/575/section/Article 96
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (Text with EEA relevance), section Article 96
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-01-01. See https://www.legislation.gov.uk/changes/affected/eur/2013/575
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 96. Own funds requirements for IFPRU 730K firms[^key-252d8660809aa0f2812fc3328640102a][^key-f7679e9b76a2402708a406b027d4e3e3]
+
+*Extent: E+W+S+N.I.*
+
+## Annotations
+
+[^key-252d8660809aa0f2812fc3328640102a]: Textual amendment: [Art. 96](https://www.legislation.gov.uk/eur/2013/575/article/96) omitted (1.1.2022) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2021/22/schedule/1/paragraph/18); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/b) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by [S.I. 2021/1163](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))
+
+[^key-f7679e9b76a2402708a406b027d4e3e3]: Textual amendment: [Art. 96](https://www.legislation.gov.uk/eur/2013/575/article/96) heading substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [104(a)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/104/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

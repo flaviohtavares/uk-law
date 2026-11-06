@@ -1,0 +1,92 @@
+---
+title: Council Decision of 21 December 2005 on an amendment to the Agreement Establishing the European Bank of Reconstruction and Development (EBRD), enabling the Bank to finance operations in Mongolia (2005/954/EC)
+id: eudn/2005/954
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2005-12-21'
+text_date: '2005-12-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2005/954
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2005/954/pdfs/eudn_20050954_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2005/954/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision of 21 December 2005 on an amendment to the Agreement Establishing the European Bank of Reconstruction and Development (EBRD), enabling the Bank to finance operations in Mongolia (2005/954/EC)
+
+> Text as at 2005-12-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision
+
+of 21 December 2005
+
+on an amendment to the Agreement Establishing the European Bank of Reconstruction and Development (EBRD), enabling the Bank to finance operations in Mongolia
+
+(2005/954/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 181a thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the Opinion of the European Parliament[^f00001],
+
+Whereas:
+
+(1)
+
+Although a member of the EBRD since 2000, Mongolia is not currently a country in which the Bank is authorised to carry out operations on its own resources.
+
+(2)
+
+In response to the request of the Prime Minister of Mongolia, the Board of Directors of the EBRD has expressed unanimous support to admit Mongolia as a country of operations of the Bank.
+
+(3)
+
+By Resolution adopted on 30 January 2004, the Board of Governors of the EBRD voted in favour of the necessary amendment to the Agreement Establishing the Bank, enabling it to finance operations in Mongolia. All the Governors of the Bank voted in favour of this amendment, including the Governor representing the European Community.
+
+(4)
+
+As the amendment concerns the purpose and functions of the Bank, it is necessary that it also be formally accepted by all member countries and institutions, including by the European Community.
+
+(5)
+
+Acceptance by the European Community of this amendment is necessary to achieve the Community's objectives in the field of economic, financial and technical cooperation with third countries,
+
+HAS DECIDED AS FOLLOWS:
+
+**Article 1.** The amendment to the Agreement establishing the EBRD, necessary to enable the Bank to finance operations in Mongolia, is hereby approved on behalf of the Community.
+
+The text of the amendment is attached to this Decision.
+
+**Article 2.** The Governor of the EBRD representing the European Community shall communicate to the EBRD the Declaration of Acceptance of this amendment.
+
+Done at Brussels, 21 December 2005.
+
+*For the Council*
+
+*The President*
+
+B. Bradshaw
+
+Amendment to the Agreement Establishing the European Bank for Reconstruction and Development
+
+Article 1 of the Agreement shall be replaced by the following:
+
+> **Article 1. Purpose**
+>
+> In contributing to economic progress and reconstruction, the purpose of the Bank shall be to foster the transition towards open market-oriented economies and to promote private and entrepreneurial initiative in the Central and Eastern European countries committed to and applying the principles of multiparty democracy, pluralism and market economics. The purpose of the Bank may also be carried out in Mongolia subject to the same conditions. Accordingly, any reference in this Agreement and its annexes to “Central and Eastern European countries”, “countries from Central and Eastern Europe”, “recipient country (or countries)” or “recipient member country (or countries)” shall refer to Mongolia as well.
+
+## Annotations
+
+[^f00001]: Footnote: Opinion delivered on 15 November 2005 (not yet published in the Official Journal).

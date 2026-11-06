@@ -1,0 +1,637 @@
+---
+title: Commission Decision of 3 March 2011 amending Decision 2008/457/EC laying down rules for the implementation of Council Decision 2007/435/EC establishing the European Fund for the Integration of third-country nationals for the period 2007 to 2013 as part of the General programme ‘Solidarity and Management of Migration Flows’ as regards Member States’ management and control systems, the rules for administrative and financial management and the eligibility of expenditure on projects co-financed by the Fund (notified under document C(2011) 1289) (Only the Bulgarian, Czech, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish texts are authentic) (2011/151/EU)
+id: eudn/2011/151
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2011-03-03'
+text_date: '2011-03-03'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2011/151
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2011/151/pdfs/eudn_20110151_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2011/151/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Decision of 3 March 2011 amending Decision 2008/457/EC laying down rules for the implementation of Council Decision 2007/435/EC establishing the European Fund for the Integration of third-country nationals for the period 2007 to 2013 as part of the General programme ‘Solidarity and Management of Migration Flows’ as regards Member States’ management and control systems, the rules for administrative and financial management and the eligibility of expenditure on projects co-financed by the Fund (notified under document C(2011) 1289) (Only the Bulgarian, Czech, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish texts are authentic) (2011/151/EU)
+
+> Text as at 2011-03-03.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Decision
+
+of 3 March 2011
+
+amending Decision 2008/457/EC laying down rules for the implementation of Council Decision 2007/435/EC establishing the European Fund for the Integration of third-country nationals for the period 2007 to 2013 as part of the General programme ‘Solidarity and Management of Migration Flows’ as regards Member States’ management and control systems, the rules for administrative and financial management and the eligibility of expenditure on projects co-financed by the Fund
+
+(notified under document C(2011) 1289)
+
+(Only the Bulgarian, Czech, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish texts are authentic)
+
+(2011/151/EU)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Decision 2007/435/EC of 25 June 2007 establishing the European Fund for the Integration of third-country nationals for the period 2007 to 2013 as part of the General programme ‘Solidarity and Management of Migration Flows’[^f00001], and in particular Article 21 and Article 33(4) thereof,
+
+Whereas:
+
+(1)
+
+In the light of the experience gained since the launch of the European Fund for the Integration of third-country nationals, it is appropriate to clarify the obligations in Commission Decision 2008/457/EC[^f00002] relating to transparency, equal treatment and non-discrimination when implementing projects.
+
+(2)
+
+Member States are required to report on the implementation of the annual programmes. It is therefore appropriate to clarify which information Member States have to provide.
+
+(3)
+
+In order to reduce the administrative burden on the Member States and to provide greater legal certainty the rules on the eligibility of expenditure of actions co-financed by the European Fund for the Integration of third-country nationals should be simplified and clarified.
+
+(4)
+
+Most of the changes introduced by this Decision should apply immediately. However, since the 2009 and 2010 annual programmes are ongoing, the revised rules on the eligibility of expenditure of actions co-financed by the European Fund for the Integration of third-country nationals should apply from the 2011 annual programme. Member States should nonetheless be given the possibility to apply those rules earlier under certain conditions.
+
+(5)
+
+In accordance with Article 3 of the Protocol on the position of the United Kingdom and Ireland, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, the United Kingdom is bound by the basic act and, as a consequence, by this Decision.
+
+(6)
+
+In accordance with Article 3 of the Protocol on the position of the United Kingdom and Ireland, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, Ireland is bound by the basic act and, as a consequence, by this Decision.
+
+(7)
+
+In accordance with Articles 1 and 2 of the Protocol on the position of Denmark, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, Denmark is not bound by this Decision or subject to the application thereof.
+
+(8)
+
+The measures provided for in this Decision are in accordance with the opinion of the common Committee ‘Solidarity and management of Migration Flows’ established by Decision No 574/2007/EC of the European Parliament and of the Council of 23 May 2007 establishing the External Borders Fund for the period 2007 to 2013 as part of the General programme ‘Solidarity and Management of Migration Flows’[^f00003].
+
+(9)
+
+Decision 2008/457/EC should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+**Article 1.** Decision 2008/457/EC is amended as follows:
+
+- 1.. in Article 9(1), the second sentence is replaced by the following:
+
+  ‘Any substantial change to the content of the calls for proposals shall also be published under the same conditions.’;
+- 2.. Article 11 is replaced by the following:
+
+  > **Article 11. Implementation contracts**
+  >
+  > When awarding contracts for the implementation of the projects, the State, regional or local authorities, bodies governed by public law, associations formed by one or several of such authorities or several of such bodies governed by public law shall act in accordance with the applicable Union and national public procurement law and principles.
+  >
+  > Entities other than those referred to in the first paragraph shall award contracts for the implementation of the projects following appropriate publicity in order to ensure compliance with the principles of transparency, non-discrimination and equal treatment. Contracts with a value of less than EUR 100 000 may be awarded provided the concerned entity requests at least three offers. Without prejudice to national rules, contracts with a value of less than EUR 5 000 shall not be subject to any procedural obligations.
+
+  ;
+- 3.. in Article 21, paragraph 1 is replaced by the following:
+
+  > 1. The responsible authority shall notify the Commission by formal letter of any substantial change in the management and control system and shall send a revised description of the management and control system to the Commission as soon as possible and at the latest at the time any such change takes effect.
+
+  ;
+- 4.. in Article 24, paragraph 3 is replaced by the following:
+
+  > 3. The financial tables linked to the progress reports and final reports shall present a breakdown of the amounts both by priority and by specific priority, as defined in the strategic guidelines.
+
+  ;
+- 5.. Article 25 is amended as follows:
+  - ((a)) in paragraph 1 the following sentences are added:
+
+    ‘Any changes to the audit strategy submitted in respect of Article 28(1)(c) of the basic act and accepted by the Commission shall be sent to the Commission as soon as possible. The revised audit strategy shall be established in accordance with the model in Annex VI, marking the revisions introduced.’;
+  - ((b)) paragraph 2 is replaced by the following:
+
+    > 2. Except when each of the last two annual programmes adopted by the Commission corresponds to an annual Community contribution of less than EUR 1 million, the audit authority shall submit an annual audit plan before 15 February each year, as from 2010. The audit plan shall be established in accordance with the model in Annex VI. Member States are not required to resubmit the audit strategy when submitting the annual audit plans. In the case of a combined audit strategy, as provided for in Article 28(2) of the basic act, a combined annual audit plan may be submitted.
+
+    ;
+- 6.. Article 26 is replaced by the following:
+
+  > **Article 26. Documents established by the certifying authority**
+  >
+  > 1. The certification relating to the request for a second pre-financing payment referred to in Article 37(4) of the basic act shall be drawn up by the certifying authority and transmitted by the responsible authority to the Commission in the format in Annex VIII.
+  >
+  > 2. The certification relating to the request for a final payment referred to in Article 38(1)(a) of the basic act shall be drawn up by the certifying authority and transmitted by the responsible authority to the Commission in the format in Annex IX.
+
+  ;
+- 7.. Article 37 is replaced by the following:
+
+  > **Article 37. Electronic exchange of documents**
+  >
+  > In addition to the duly signed paper versions of the documents referred to in Chapter 3, the information shall also be sent by electronic means.
+
+  ;
+- 8.. the Annexes are amended in accordance with the Annex to this Decision.
+
+**Article 2.** 1. Points 1 to 7 of Article 1 and points 1 to 5 of the Annex shall apply from the date of adoption of this Decision.
+
+2. Point 6 of the Annex shall apply from the implementation of the 2011 annual programmes at the latest.
+
+3. Member States may decide to apply point 6 of the Annex in respect of ongoing or future projects as from the 2009 and 2010 annual programmes in full respect of the principles of equal treatment, transparency and non-discrimination. In that case Member States shall apply the new rules in their entirety to the project concerned and, where necessary, shall amend the grant agreement. In respect of technical assistance expenditure only, Member States may decide to apply point 6 of the Annex as from the 2008 annual programme.
+
+**Article 3.** This Decision is addressed to the Kingdom of Belgium, the Republic of Bulgaria, the Czech Republic, the Federal Republic of Germany, the Republic of Estonia, Ireland, the Hellenic Republic, the Kingdom of Spain, the French Republic, the Italian Republic, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Grand Duchy of Luxembourg, the Republic of Hungary, the Republic of Malta, the Kingdom of the Netherlands, the Republic of Austria, the Republic of Poland, the Portuguese Republic, Romania, the Republic of Slovenia, the Slovak Republic, the Republic of Finland, the Kingdom of Sweden and the United Kingdom of Great Britain and Northern Ireland.
+
+Done at Brussels, 3 March 2011.
+
+*For the Commission*
+
+Cecilia Malmström
+
+*Member of the Commission*
+
+## ANNEX
+
+The Annexes to Decision 2008/457/EC are amended as follows:
+
+- 1.. Annex III is amended as follows:
+  - point 2 is deleted;
+  - point 4.2 is deleted;
+- 2.. Annex IV is amended as follows:
+  - Part A, point 1.2 is replaced by the following:
+
+    > 1.2.
+    >
+    > Description of the process concerning selection of projects (at the level of the Responsible Authority/Delegated authority or associated bodies) and their results
+
+    ;
+  - in Part A, point 2, table 1, last column the word ‘eligible’ is deleted;
+- 3.. Annex V, Part A is amended as follows:
+  - point 1.2 is replaced by the following:
+
+    > 1.2.
+    >
+    > Update from the progress report on the description of the organisation of the selection of projects (at the level of the Responsible Authority/Delegated authority or associated bodies) and their results, if appropriate
+
+    ;
+  - the following point 1.8 is added:
+
+    > 1.8.
+    >
+    > Confirmation that no substantial changes to the Management and control system have taken place since the last revision notified to the Commission on …
+
+    ;
+  - point 4 is replaced by the following:
+
+    > 4\.
+    >
+    > FINANCIAL IMPLEMENTATION
+    >
+    > **Final report on the implementation of the annual programme**
+    >
+    > **Table 1**
+    >
+    > **Detailed financial report**
+    >
+    > <table>
+    > <thead>
+    > <tr><td colspan="16">Member State: […]<br>Annual programme concerned: […]<br>Situation at: [day/month/year]</td></tr>
+    > </thead>
+    > <tfoot>
+    > <tr><td colspan="16">If applicable.</td></tr>
+    > </tfoot>
+    > <tbody>
+    > <tr><th colspan="4"><em>(all figures in euro)</em></th><th colspan="3">Programmed by MS (as in the Commission approved annual programme)</th><th colspan="3">Committed at the level of the MS</th><th colspan="6">Actual figures accepted by the Responsible Authority(costs incurred by the beneficiaries and final EC contribution)</th></tr>
+    > <tr><th>Actions</th><th>Projects</th><th>Ref. priority</th><th>Ref. specific priority</th><th>Total programmed costs(a)</th><th>EC contribution(b)</th><th>% EC contribution(c = b/a)</th><th>Total eligible costs(d)</th><th>EC contribution(e)</th><th>% EC contribution(f = e/d)</th><th>Total eligible costs(g)</th><th>EC contribution(h)</th><th>% EC contribution(i = h/g)</th><th>Contributions from third parties(j)</th><th>Receipts generated by the project(k)</th><th>Payment/Recovery to be made by the RA(l)</th></tr>
+    > <tr><td rowspan="2">Action 1: […]</td><td>project 1: […]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>project N: […]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td colspan="4">Total Action 1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td rowspan="2">Action …: […]</td><td>project 1: […]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>project N: […]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td colspan="4">Total Action …: […]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td rowspan="2">Action N: […]</td><td>project 1: […]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>project N: […]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td colspan="4">Total Action N</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td colspan="4">Technical assistance</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td colspan="4">Other operations</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td colspan="4">TOTAL</td><td>0</td><td>0</td><td>0 %</td><td>0</td><td>0</td><td>0 %</td><td>0</td><td>0</td><td>0 %</td><td>0</td><td></td><td></td></tr>
+    > </tbody>
+    > </table>
+    >
+    > [^f00004][^f00004]
+
+    ;
+  - point 6 is replaced by the following:
+
+    > 6\.
+    >
+    > ANNEXES
+    >
+    > Project eligible expenditure and income compliance with the non-profit rule and project summary description.
+    >
+    > **Final report on the implementation of the annual programme**
+    >
+    > **Table 6 A**
+    >
+    > **Project eligible cost and sources of income. Compliance with the principle of non-profit as set out in item I.3.3 of Annex XI.**
+    >
+    > <table>
+    > <thead>
+    > <tr><td colspan="8">Situation at: day/month/year</td></tr>
+    > </thead>
+    > <tbody>
+    > <tr><th></th><th colspan="3">Eligible cost</th><th colspan="4">Sources of income</th></tr>
+    > <tr><th></th><th>Direct costs</th><th>Indirect costs</th><th>Total eligible cost</th><th>Contribution from the EU</th><th>Contribution from third parties</th><th>Receipts generated by the project</th><th>Total income(as set out in item I.3.3 of Annex XI)</th></tr>
+    > <tr><th></th><th>(a)</th><th>(b)</th><th>(c) = (a) + (b)</th><th>(e)</th><th>(f)</th><th>(g)</th><th>(h)= (e) + (f) + (g)</th></tr>
+    > <tr><td>Project reference</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>Project reference</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>Project reference</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>etc.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td><strong>TOTAL ACTION 1</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>Project reference</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>Project reference</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>Project reference</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>etc.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td><strong>TOTAL ACTION 2</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>Project reference</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>Project reference</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>Project reference</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>etc.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td><strong>TOTAL ACTION N</strong></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>TECHNICAL ASSISTANCE</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > <tr><td>TOTAL ANNUAL PROGRAMME</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    > </tbody>
+    > </table>
+    >
+    > [image: see source](https://www.legislation.gov.uk/eudn/2011/151/images/eudn_20110151_2011-03-03_en_001)
+- 4.. Annex VIII is amended as follows:
+  - the title is replaced by the following:
+
+    > *MODEL CERTIFICATION FOR SECOND PRE-FINANCING*
+
+    ;
+  - in footnote 1 the word ‘eligible’ is deleted;
+  - point 2 is replaced by the following:
+
+    > - 2.. the expenditure declared has been incurred in respect of actions selected for funding in accordance with the criteria applicable to the annual programme;
+
+    ;
+- 5.. in Annex IX the title is replaced by the following:
+
+  > *MODEL CERTIFICATION FOR FINAL PAYMENT*
+
+  ;
+- 6.. Annex XI is replaced by the following:
+
+  > ANNEX XI
+  >
+  > **RULES ON THE ELIGIBILITY OF EXPENDITURE INTEGRATION FUND**
+  >
+  > I.
+  >
+  > **General Principles**
+  >
+  > I.1.
+  >
+  > *Basic Principles*
+  >
+  > 1\.
+  >
+  > In accordance with the basic act, for it to be eligible, expenditure must be:
+  >
+  > - ((a)) within the scope of the Fund and within its objectives, as described in Articles 1, 2 and 3 of the basic act;
+  > - ((b)) within the eligible actions listed in Article 4 of the basic act;
+  > - ((c)) needed to carry out the activities covered by the project, forming part of the multiannual and annual programmes, as approved by the Commission;
+  > - ((d)) reasonable and comply with the principles of sound financial management, in particular, value for money and cost-effectiveness;
+  > - ((e)) incurred by the final beneficiary and/or the partners in the project, who shall be established and registered in a Member State, except in the case of international public sector organisations set up by intergovernmental agreements, and specialised agencies set up by such organisations, the International Committee of the Red Cross (ICRC) and the International Federation of National Red Cross and Red Crescent Societies. With regard to Article 39(2) of this Decision, the rules applicable to the final beneficiary shall apply *mutatis mutandis* to the partners in the project;
+  > - ((f)) linked to the target groups referred to in the framework of the basic act;
+  > - ((g)) incurred in accordance with the specific provisions in the grant agreement.
+  >
+  > 2\.
+  >
+  > In the case of multiannual actions within the meaning of Article 13(6) of the basic act, only the part of the action co-financed by an annual programme is considered to be a project for the application of these eligibility rules.
+  >
+  > 3\.
+  >
+  > Projects supported by the Fund shall not be financed by other sources covered by the Community budget. Projects supported by the Fund shall be co-financed by public or private sources.
+  >
+  > I.2.
+  >
+  > *Budget of a project*
+  >
+  > The budget of a project shall be presented as follows:
+  >
+  > | Expenditure | Income |
+  > | --- | --- |
+  > | \+<br>Direct costs *(DC)*<br>\+<br>Indirect costs *(fixed percentage of DC, defined in the grant agreement)* | \+<br>Contribution from the EC *(defined as the lowest of the three amounts indicated in Article 12 of this Decision)*<br>\+<br>Contribution from the final beneficiary and the partners in the project<br>\+<br>Contribution from third parties<br>\+<br>Receipts generated by the project |
+  > | **=**<br>**Total Eligible Cost *(TEC)*** | **=**<br>**Total Income *(TI)*** |
+  >
+  > The budget shall be balanced: Total Eligible Cost shall be equal to Total Income.
+  >
+  > I.3.
+  >
+  > *Income and Non-Profit Principle*
+  >
+  > 1\.
+  >
+  > Projects supported by the Fund must be of a non-profit-making nature. If, at the end of the project, the sources of income, including receipts, exceed expenditure, the contribution to the project from the Fund shall be reduced accordingly. All sources of income for the project must be recorded in the final beneficiary’s accounts or tax documents, and must be identifiable and controllable.
+  >
+  > 2\.
+  >
+  > Project income shall come from all financial contributions granted to the project by the Fund, from public or private sources, including the final beneficiary’s own contribution, and from any receipts generated by the project. “Receipts” for the purpose of this rule covers revenue received by a project during the eligibility period as described in point I.4, from sales, rentals, services, enrolment/fees or other equivalent income.
+  >
+  > 3\.
+  >
+  > The Community contribution resulting from the application of the principle of non-profit, as referred to under Article 12(c) of this Decision, will be the “total eligible cost” minus the “contribution from third parties” and “receipts generated by the project”.
+  >
+  > I.4.
+  >
+  > *Eligibility Period*
+  >
+  > 1\.
+  >
+  > Costs relating to a project must be incurred and the respective payments (except for depreciation) made after 1 January of the year referred to in the financing decision approving the annual programmes of the Member States. The eligibility period is until 30 June of the year N[^f00005] + 2, meaning that the costs relating to a project must be incurred before this date.
+  >
+  > 2\.
+  >
+  > An exception to the eligibility period provided for in paragraph 1 is made for:
+  >
+  > - ((a)) projects supported under the 2007 annual programme, in accordance with Article 33(3) of the basic act;
+  > - ((b)) technical assistance for Member States (refer to point IV.3).
+  >
+  > I.5.
+  >
+  > *Record of expenditure*
+  >
+  > 1\.
+  >
+  > Expenditure shall correspond to payments made by the final beneficiary. These must be in the form of financial (cash) transactions, with the exception of depreciation.
+  >
+  > 2\.
+  >
+  > As a rule, expenditure shall be justified by official invoices. Where this cannot be done, expenditure shall be supported by accounting documents or supporting documents of equivalent evidential value.
+  >
+  > 3\.
+  >
+  > Expenditure must be identifiable and verifiable. In particular,
+  >
+  > - ((a)) it must be recorded in the accounting records of the final beneficiary;
+  > - ((b)) it must be determined in accordance with the applicable accounting standards of the country where the final beneficiary is established and with the usual cost accounting practices of the final beneficiary; and
+  > - ((c)) it must be declared in accordance with the requirements of applicable tax and social legislation.
+  >
+  > 4\.
+  >
+  > As necessary, the final beneficiaries are obliged to keep certified copies of the accounting documents justifying income and expenditure incurred by the partners in relation to the project concerned.
+  >
+  > 5\.
+  >
+  > The storage and processing of records provided for in paragraphs 2 to 4 must comply with the national data protection legislation.
+  >
+  > I.6.
+  >
+  > *Territorial scope*
+  >
+  > 1\.
+  >
+  > Expenditure for actions described in Article 4 of the basic act must be:
+  >
+  > - ((a)) incurred by the final beneficiaries defined in point I.1.1(e); and
+  > - ((b)) incurred in the territory of the Member States, with the exception of actions concerning pre-travel measures referred to in Article 4.1(c) of the basic act, which may be incurred in the territory of the Member States or in the country of origin.
+  >
+  > 2\.
+  >
+  > Partners in the project registered and established in third countries may participate in projects only on a no-cost basis, except in the case of international public sector organisations set up by intergovernmental agreements, and specialised agencies set up by such organisations, the International Committee of the Red Cross (ICRC) and the International Federation of National Red Cross and Red Crescent Societies.
+  >
+  > II.
+  >
+  > **Categories of eligible costs (at project level)**
+  >
+  > II.1.
+  >
+  > *Direct eligible costs*
+  >
+  > The direct eligible costs of the project are costs that, with due regard to the general conditions of eligibility set out in part I, are identifiable as specific costs directly linked to the implementation of the project. Direct costs shall be included in the estimated overall budget of the project.
+  >
+  > The following direct costs are eligible:
+  >
+  > II.1.1.
+  >
+  > Staff costs
+  >
+  > 1\.
+  >
+  > The cost of staff assigned to the project, comprising actual salaries plus social security charges and other statutory costs is eligible, provided that this corresponds to the beneficiary’s usual policy on remuneration.
+  >
+  > 2\.
+  >
+  > For international organisations, the eligible staff cost may include provisions to cover statutory obligations and entitlements relating to remuneration.
+  >
+  > 3\.
+  >
+  > The corresponding salary costs of staff of public bodies are eligible to the extent that they relate to the cost of activities which the relevant public body would not carry out if the project concerned were not undertaken; this staff shall be seconded or assigned to the implementation of the project by a written decision of the final beneficiary.
+  >
+  > 4\.
+  >
+  > Staff costs shall be detailed in the forward budget, indicating functions and number of staff.
+  >
+  > II.1.2.
+  >
+  > Travel and subsistence costs
+  >
+  > 1\.
+  >
+  > Travel and subsistence costs are eligible as direct costs for staff or other persons who participate in the activities of the project and whose travel is necessary for the implementation of the project.
+  >
+  > 2\.
+  >
+  > Travel costs shall be eligible on the basis of the actual costs incurred. Reimbursement rates shall be based on the cheapest form of public transport and flights shall, as a rule, be permitted only for journeys over 800 km (return trip), or where the geographical destination justifies travelling by air. Where a private car is used, reimbursement is normally made either on the basis of the cost of public transport, or on the basis of mileage rates in accordance with published official rules in the Member State concerned or used by the final beneficiary.
+  >
+  > 3\.
+  >
+  > Subsistence costs shall be eligible on the basis of real costs or a daily allowance. Where an organisation has its own daily rates (subsistence allowances), they shall be applied within ceilings established by the Member State in accordance with national legislation and practice. Subsistence allowances are normally understood to cover local transport (including taxis), accommodation, meals, local telephone calls and sundries.
+  >
+  > II.1.3.
+  >
+  > Equipment
+  >
+  > II.1.3.1.
+  >
+  > General rules
+  >
+  > 1\.
+  >
+  > Costs pertaining to the acquisition of equipment are only eligible if they are essential to the implementation of the project. Equipment shall have the technical properties needed for the project and comply with applicable norms and standards.
+  >
+  > 2\.
+  >
+  > The choice between leasing, rental or purchase must always be based on the least expensive option. However, if leasing or renting is not possible because of the short duration of the project or the rapid depreciation in value, purchase is accepted.
+  >
+  > II.1.3.2.
+  >
+  > Renting and leasing
+  >
+  > Expenditure in relation to renting and leasing operations is eligible for co-financing subject to the rules established in the Member State, national legislation and practice and the duration of the rental or lease for the purpose of the project.
+  >
+  > II.1.3.3.
+  >
+  > Purchasing
+  >
+  > 1\.
+  >
+  > Where equipment is purchased during the lifetime of the project, the budget must specify if the full costs or only the portion of equipment depreciation corresponding to the duration of use for the project and the rate of actual use for the project is included. The latter shall be calculated in compliance with the national rules applicable.
+  >
+  > 2\.
+  >
+  > Equipment that was purchased before the lifetime of the project, but which is used for the purpose of the project, is eligible on the basis of depreciation. However these costs are ineligible if the equipment was originally purchased through a Community grant.
+  >
+  > 3\.
+  >
+  > For individual items costing below EUR 20 000 the full purchase cost is eligible, provided, that the equipment is purchased before the last 3 months of the project. Individual items costing EUR 20 000 or more are only eligible on the basis of depreciation.
+  >
+  > II.1.4.
+  >
+  > Real estate
+  >
+  > II.1.4.1.
+  >
+  > General rules
+  >
+  > The real estate shall have the technical properties needed for the project and comply with the applicable norms and standards.
+  >
+  > II.1.4.2.
+  >
+  > Rental
+  >
+  > Rental of real estate is eligible for co-financing where there is a clear link between the rental and the objectives of the project concerned, under the conditions set out below and without prejudice to the application of stricter national rules:
+  >
+  > - ((a)) the real estate has not been purchased through a Community grant;
+  > - ((b)) the real estate is used solely for implementation of the project. If not, only the portion of the costs corresponding to the use for the project is eligible.
+  >
+  > II.1.5.
+  >
+  > Consumables, supplies and general services
+  >
+  > The costs of consumables, supplies and general services are eligible provided that they are identifiable and directly necessary for the implementation of the project.
+  >
+  > II.1.6.
+  >
+  > Subcontracting
+  >
+  > 1\.
+  >
+  > As a general rule, final beneficiaries must have the capacity to manage the projects themselves. The amount corresponding to tasks to be subcontracted under the project will have to be clearly indicated in the grant agreement.
+  >
+  > 2\.
+  >
+  > Expenditure relating to the following subcontracts is not eligible for co-financing by the Fund:
+  >
+  > - ((a)) subcontracting of tasks relating to the overall management of the project;
+  > - ((b)) subcontracting that adds to the cost of the project without adding proportionate value to it;
+  > - ((c)) subcontracting with intermediaries or consultants where payment is defined as a percentage of the total cost of the project, unless such payment is justified by the final beneficiary by reference to the actual value of the work or services provided.
+  >
+  > 3\.
+  >
+  > For all subcontracts, subcontractors shall undertake to provide all audit and control bodies with all the necessary information relating to subcontracted activities.
+  >
+  > II.1.7.
+  >
+  > Costs deriving directly from the requirements linked to Union co-financing
+  >
+  > Costs needed to meet the requirements linked to Union co-financing, such as publicity, transparency, evaluation of the project, external audit, bank guarantees, translation costs, etc., are eligible as direct costs.
+  >
+  > II.1.8.
+  >
+  > Expert fees
+  >
+  > Legal consultancy fees, notarial fees and costs of technical and financial experts are eligible.
+  >
+  > II.1.9.
+  >
+  > Specific expenses in relation to third-country nationals falling within the scope of the Fund
+  >
+  > 1\.
+  >
+  > For the purpose of assistance, purchases made by the final beneficiary for third-country nationals falling within the scope of the Fund as defined in the basic act and reimbursements by the final beneficiary of costs incurred by these persons are eligible under the following specific conditions:
+  >
+  > - ((a)) the final beneficiary shall keep the necessary information and evidence that the third-country nationals receiving this assistance fall within the scope of the Fund as defined in the basic act for the requisite period as per Article 41 of the basic act;
+  > - ((b)) the final beneficiary must keep evidence of the support provided to the third-country nationals (such as invoices and receipts) during the period provided for in Article 41 of the basic act.
+  >
+  > 2\.
+  >
+  > In case of actions which necessitates the attendance (for instance training course) of persons falling within the scope of the Fund, small cash incentives may be distributed as complementary help provided the total is not more than EUR 25 000 per project and is distributed per person for each event, course or other. The final beneficiary shall keep a list of the persons, time and date of payment and shall ensure an adequate follow-up to avoid any double-financing and misuse of funds.
+  >
+  > II.2.
+  >
+  > **Indirect eligible costs**
+  >
+  > 1\.
+  >
+  > The eligible indirect costs for the action are those costs which, with due regard for the conditions of eligibility described in point I.1.1, are not identifiable as specific costs directly linked to performance of the project.
+  >
+  > 2\.
+  >
+  > By way of derogation from point I.1.1(e) and point I.5, the indirect costs incurred in carrying out the action may be eligible for flat rate funding fixed at not more than 7 % of the total eligible direct costs.
+  >
+  > 3\.
+  >
+  > Organisations receiving an operating grant from the Union budget cannot include indirect costs in their forward budget.
+  >
+  > III.
+  >
+  > **Ineligible expenditure**
+  >
+  > The following costs are not eligible:
+  >
+  > - ((a)) VAT, except where the final beneficiary can show that he is unable to recover it;
+  > - ((b)) return on capital, debt and debt service charges, debit interest, foreign exchange commissions and exchange losses, provisions for losses or potential future liabilities, interest owed, doubtful debts, fines, financial penalties, litigation costs, and excessive or reckless expenditure;
+  > - ((c)) entertainment costs exclusively for project staff; reasonable hospitality costs at social events justified by the project, such as an event at the end of the project or meetings of the project steering group, are permitted;
+  > - ((d)) costs declared by the final beneficiary and covered by another project or work programme receiving a Community grant;
+  > - ((e)) purchase of land and the purchase, construction and renovation of real estate;
+  > - ((f)) contributions in kind.
+  >
+  > IV.
+  >
+  > **Technical assistance at the initiative of Member States**
+  >
+  > 1\.
+  >
+  > All the costs necessary for the implementation of the Fund by the responsible authority, delegated authority, audit authority, certifying authority or other bodies assisting in the tasks listed in paragraph 2 are eligible under technical assistance within the limits specified in Article 15 of the basic act.
+  >
+  > 2\.
+  >
+  > This includes the following measures:
+  >
+  > - ((a)) expenditure relating to the preparation, selection, appraisal, management and monitoring of actions;
+  > - ((b)) expenditure relating to audits and on-the-spot checks of actions or projects;
+  > - ((c)) expenditure relating to evaluations of actions or projects;
+  > - ((d)) expenditure relating to information, dissemination and transparency in relation to actions;
+  > - ((e)) expenditure on the acquisition, installation and maintenance of computerised systems for the management, monitoring and evaluation of the Funds;
+  > - ((f)) expenditure on meetings of monitoring committees and sub-committees relating to the implementation of actions; this expenditure may also include the costs of experts and other participants in these committees, including third-country participants, where their presence is essential to the effective implementation of actions;
+  > - ((g)) expenditure for the reinforcement of the administrative capacity for the implementation of the Fund.
+  >
+  > 3\.
+  >
+  > Activities linked to technical assistance must be performed and the corresponding payments made after 1 January of the year referred to in the financing decision approving the annual programmes of the Member States. The eligibility period lasts until the deadline for the submission of the final report on the implementation of the annual programme.
+  >
+  > 4\.
+  >
+  > Any procurement must be carried out in accordance with national procurement rules established in the Member State.
+  >
+  > 5\.
+  >
+  > Member States may implement technical assistance measures for this Fund together with technical assistance measures for some or all of the four Funds. However, in that case only the portion of the costs used to implement the common measure corresponding to this Fund shall be eligible for financing under this Fund, and Member States shall ensure that:
+  >
+  > - ((a)) the portion of costs for common measures is charged to the corresponding Fund in a reasonable and verifiable manner; and
+  > - ((b)) there is no double financing of costs.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 168, 28.6.2007, p. 18](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.168.01.0018.01.ENG).
+
+[^f00002]: Footnote: [OJ L 167, 27.6.2008, p. 69](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.167.01.0069.01.ENG).
+
+[^f00003]: Footnote: [OJ L 144, 6.6.2007, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.144.01.0022.01.ENG).
+
+[^f00004]: Footnote: If applicable.
+
+[^f00005]: Footnote: Where “N” is the year referred to in the financing decision approving the annual programmes of the Member States.

@@ -1,0 +1,100 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 35
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 35
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 35
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 35
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 35. Information to be provided for supervisory purposes
+
+*Extent: E+W+S+N.I.*
+
+1.[^c000004] Member States shall require insurance and reinsurance undertakings to submit to the supervisory authorities the information which is necessary for the purposes of supervision, taking into account the objectives of supervision laid down in Articles 27 and 28. Such information shall include at least the information necessary for the following when performing the process referred to in Article 36:
+
+- (a) to assess the system of governance applied by the undertakings, the business they are pursuing, the valuation principles applied for solvency purposes, the risks faced and the risk-management systems, and their capital structure, needs and management;
+- (b) to make any appropriate decisions resulting from the exercise of their supervisory rights and duties.
+
+2. Member States shall ensure that the supervisory authorities have the following powers:
+
+- (a) to determine the nature, the scope and the format of the information referred to in paragraph 1 which they require insurance and reinsurance undertakings to submit at the following points in time:
+  - ((i)) at predefined periods;
+  - ((ii)) upon occurrence of predefined events;
+  - ((iii)) during enquiries regarding the situation of an insurance or reinsurance undertaking;
+- (b) to obtain any information regarding contracts which are held by intermediaries or regarding contracts which are entered into with third parties; and
+- (c) to require information from external experts, such as auditors and actuaries.
+
+3. The information referred to in paragraphs 1 and 2 shall comprise the following:
+
+- (a) qualitative or quantitative elements, or any appropriate combination thereof;
+- (b) historic, current or prospective elements, or any appropriate combination thereof; and
+- (c) data from internal or external sources, or any appropriate combination thereof.
+
+4. The information referred to in paragraphs 1 and 2 shall comply with the following principles:
+
+- (a) it must reflect the nature, scale and complexity of the business of the undertaking concerned, and in particular the risks inherent in that business;
+- (b) it must be accessible, complete in all material respects, comparable and consistent over time; and
+- (c) it must be relevant, reliable and comprehensible.
+
+5. Member States shall require insurance and reinsurance undertakings to have appropriate systems and structures in place to fulfil the requirements laid down in paragraphs 1 to 4 as well as a written policy, approved by the administrative, management or supervisory body of the insurance or reinsurance undertaking, ensuring the ongoing appropriateness of the information submitted.
+
+6. Without prejudice to Article 129(4), where the predefined periods referred to in paragraph 2(a)(i) are shorter than one year, the supervisory authorities concerned may limit regular supervisory reporting, where:
+
+- (a) the submission of that information would be overly burdensome in relation to the nature, scale and complexity of the risks inherent in the business of the undertaking;
+- (b) the information is reported at least annually.
+
+Supervisory authorities shall not limit regular supervisory reporting with a frequency shorter than one year in the case of insurance or reinsurance undertakings that are part of a group within the meaning of Article 212(1)(c), unless the undertaking can demonstrate to the satisfaction of the supervisory authority that regular supervisory reporting with a frequency shorter than one year is inappropriate, given the nature, scale and complexity of the risks inherent in the business of the group.
+
+The limitation to regular supervisory reporting shall be granted only to undertakings that do not represent more than 20 % of a Member State's life and non-life insurance and reinsurance market respectively, where the non-life market share is based on gross written premiums and the life market share is based on gross technical provisions.
+
+Supervisory authorities shall give priority to the smallest undertakings when determining the eligibility of the undertakings for those limitations.
+
+7. The supervisory authorities concerned may limit regular supervisory reporting or exempt insurance and reinsurance undertakings from reporting on an item-by-item basis, where:
+
+- (a) the submission of that information would be overly burdensome in relation to the nature, scale and complexity of the risks inherent in the business of the undertaking;
+- (b) the submission of that information is not necessary for the effective supervision of the undertaking;
+- (c) the exemption does not undermine the stability of the financial systems concerned in the Union; and
+- (d) the undertaking is able to provide the information on an ad-hoc basis.
+
+Supervisory authorities shall not exempt from reporting on an item-by-item basis insurance or reinsurance undertakings that are part of a group within the meaning of Article 212(1)(c), unless the undertaking can demonstrate to the satisfaction of the supervisory authority that reporting on an item-by-tem basis is inappropriate, given the nature, scale and complexity of the risks inherent in the business of the group and taking into account the objective of financial stability.
+
+The exemption from reporting on an item-by-item basis shall be granted only to undertakings that do not represent more than 20 % of a Member State's life and non-life insurance or reinsurance market respectively, where the non-life market share is based on gross written premiums and the life market share is based on gross technical provisions.
+
+Supervisory authorities shall give priority to the smallest undertakings when determining the eligibility of the undertakings for those exemptions.
+
+8. For the purposes of paragraphs 6 and 7, as part of the supervisory review process, supervisory authorities shall assess whether the submission of information would be overly burdensome in relation to the nature, scale and complexity of the risks of the undertaking, taking into account, at least:
+
+- (a) the volume of premiums, technical provisions and assets of the undertaking;
+- (b) the volatility of the claims and benefits covered by the undertaking;
+- (c) the market risks that the investments of the undertaking give rise to;
+- (d) the level of risk concentrations;
+- (e) the total number of classes of life and non-life insurance for which authorisation is granted;
+- (f) possible effects of the management of the assets of the undertaking on financial stability;
+- (g) the systems and structures of the undertaking to provide information for supervisory purposes and the written policy referred to in paragraph 5;
+- (h) the appropriateness of the system of governance of the undertaking;
+- (i) the level of own funds covering the Solvency Capital Requirement and the Minimum Capital Requirement;
+- (j) whether the undertaking is a captive insurance or reinsurance undertaking only covering risks associated with the industrial or commercial group to which it belongs.
+
+9. The Commission shall adopt delegated acts in accordance with Article 301a specifying the information referred to in paragraphs 1 to 4 of this Article and the deadlines for the submission of that information, with a view to ensuring to the appropriate extent convergence of supervisory reporting.
+
+10. In order to ensure uniform conditions of application of this Article, EIOPA shall develop draft implementing technical standards on regular supervisory reporting with regard to the templates for the submission of information to the supervisory authorities referred to in paragraphs 1 and 2.
+
+EIOPA shall submit those draft implementing technical standards to the Commission by 30 June 2015 .
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1094/2010.
+
+11. In order to enhance a coherent and consistent application of paragraphs 6 and 7, EIOPA shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1094/2010 to further specify the methods to be used when determining the market shares referred to in the third subparagraph of paragraphs 6 and 7.
+
+## Annotations
+
+[^c000004]: Textual amendment: Substituted by [Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)](https://www.legislation.gov.uk/eudr/2014/51).

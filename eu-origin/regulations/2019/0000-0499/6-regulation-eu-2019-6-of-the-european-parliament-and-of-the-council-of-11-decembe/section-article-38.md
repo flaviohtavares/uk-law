@@ -1,0 +1,30 @@
+---
+title: Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance), section Article 38
+act: Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance)
+section: Article 38
+status: revised
+text_date: '2018-12-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2019/6/section/Article 38
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance), section Article 38
+
+> Text as at 2018-12-11.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 38. Protection of technical documentation
+
+*Extent: E+W+S+N.I.*
+
+1. Without prejudice to the requirements and obligations laid down in Directive 2010/63/EU, technical documentation on quality, safety and efficacy originally submitted with a view to obtaining a marketing authorisation or a variation thereof shall not be referred to by other applicants for a marketing authorisation or a variation of the terms of a marketing authorisation for a veterinary medicinal product unless:
+
+- (a) the period of the protection of technical documentation as set out in Articles 39 and 40 of this Regulation has elapsed, or is due to elapse in less than two years;
+- (b) the applicants have obtained written agreement in the form of a letter of access with regard to that documentation.
+
+2. The protection of the technical documentation as set out to in paragraph 1 (‘the protection of technical documentation’) shall also apply in Member States where the veterinary medicinal product is not authorised or is no longer authorised.
+
+3. A marketing authorisation or a variation to the terms of a marketing authorisation differing from the marketing authorisation previously granted to the same marketing authorisation holder only with regard to target species, strengths, pharmaceutical forms, administration routes or presentations shall be regarded as the same marketing authorisation as the one previously granted to the same marketing authorisation holder for the purpose of applying the rules of the protection of technical documentation.

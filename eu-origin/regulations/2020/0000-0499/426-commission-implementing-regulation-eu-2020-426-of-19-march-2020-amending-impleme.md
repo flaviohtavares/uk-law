@@ -1,0 +1,91 @@
+---
+title: Commission Implementing Regulation (EU) 2020/426 of 19 March 2020 amending Implementing Regulation (EU) 2020/402 making the exportation of certain products subject to the production of an export authorisation
+id: eur/2020/426
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2020-03-19'
+text_date: '2020-03-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/426
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2020/426/pdfs/eur_20200426_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2020/426/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) 2020/426 of 19 March 2020 amending Implementing Regulation (EU) 2020/402 making the exportation of certain products subject to the production of an export authorisation
+
+> Text as at 2020-03-19.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Regulation (EU) 2020/426
+
+of 19 March 2020
+
+amending Implementing Regulation (EU) 2020/402 making the exportation of certain products subject to the production of an export authorisation
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2015/479 of the European Parliament and of the Council of 11 March 2015 on common rules for exports[^f00001], and in particular Article 5 thereof,
+
+Whereas:
+
+(1)
+
+By Commission Implementing Regulation (EU) 2020/402[^f00002], the European Commission has made the exportation of certain personal protection equipment subject to the production of an export authorisation, given the increasing demand for such products in the European Union, and the ensuing shortages in certain Member States. This prior authorisation system concerns exports to all third countries.
+
+(2)
+
+The single market for medical and personal protective equipment is closely integrated beyond the boundaries of the Union, and so are its production value chains and distribution networks. This is particularly the case of the four member States of the European Free Trade Association. Consequently, subjecting exports of certain personal protection equipment to these countries to an export authorisation would be counterproductive, given the close integration of the production value chains and distribution networks, when such equipment is an essential product necessary to prevent the further spreading of the disease and safeguard the health of medical staff treating infected patients. It is therefore appropriate to exclude such countries from the scope of application of Implementing Regulation (EU) 2020/402.
+
+(3)
+
+It is likewise appropriate to exclude from the scope of application of Implementing Regulation (EU) 2020/402 the overseas countries and territories listed in Annex II of the Treaty, as well as the Faeroe Islands, Andorra, San Marino, and the Vatican City, since they have a particular dependency on the metropolitan supply chains of the Member States to which they are attached or on the supply chains of neighbouring Member States, respectively.
+
+(4)
+
+The authorities of the excluded countries and territories should offer adequate guarantees that they will control their own exports of the products concerned, so as to avoid undermining the objective pursued by Implementing Regulation (EU) 2020/402. The Commission should closely monitor this aspect.
+
+(5)
+
+Export of certain quantities of specific products may be authorised under specific circumstances such as to ensure the provision of supplies to the emergency operations of humanitarian organisations in third countries,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** Implementing Regulation (EU) 2020/402 is amended as follows:
+
+- ((1)) in Article 1, the following paragraph 3 is added:
+
+  > 3. Exports to Norway, Iceland, Liechtenstein, Switzerland, as well as the overseas countries and territories listed in Annex II of the Treaty and the Faeroe Islands, Andorra, San Marino and the Vatican City shall not be subject to the measures set out in paragraphs 1 and 2.
+
+  ;
+- ((2)) in Article 2(3), the third indent is replaced by the following:
+
+  > - to respond to the requests of assistance addressed to and handled by the UPCM (Union Civil Protection Mechanism), by third countries or international organisations and to enable the provisions of emergency supplies in the context of humanitarian aid.
+
+**Article 2.** This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 19 March 2020.
+
+*For the Commission*
+
+*The President*
+
+Ursula von der Leyen
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 83, 27.3.2015, p. 34](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.083.01.0034.01.ENG).
+
+[^f00002]: Footnote: Commission Implementing Regulation (EU) 2020/402 of 14 March 2020 making the exportation of certain products subject to the production of an export authorization ([OJ L 77I , 15.3.2020, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.077I.01.0001.01.ENG)).

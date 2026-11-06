@@ -1,0 +1,174 @@
+---
+title: Council Regulation (EC) No 1872/2006 of 11 December 2006 on trade in certain steel products between the Community and the Russian Federation
+id: eur/2006/1872
+type: EuropeanUnionRegulation
+category: euretained
+status: repealed
+made_date: '2006-12-11'
+text_date: '2007-11-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2006/1872
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2006/1872/pdfs/eur_20061872_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2006/1872/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Regulation (EC) No 1872/2006 of 11 December 2006 on trade in certain steel products between the Community and the Russian Federation
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Council Regulation (EC) No 1872/2006
+
+of 11 December 2006
+
+on trade in certain steel products between the Community and the Russian Federation (repealed)
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 1.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 2.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 3.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 4.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 5.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 6.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 7.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 8.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 9.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 10.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 11.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 12.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 13.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 14.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 15.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 16.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 17.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 18.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c000001]
+
+SA Flat-rolled products
+
+SA1. Coils
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+SA2. Heavy plate
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+SA3. Other flat-rolled products
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+SA4. Alloyed products
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+SA5. Alloyed quarto plates
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+SA6. Alloyed cold-rolled and coated sheets
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+SB Long products
+
+SB1. Beams
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+SB2. Wire rod
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+SB3. Other longs
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c000001]
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c000001]
+
+## ANNEX IV[^c000001]
+
+[^c000001]LISTA DE LAS AUTORIDADES NACIONALES COMPETENTES
+
+SEZNAM PŘÍSLUŠNÝCH VNITROSTÁTNÍCH ORGÁNŮ
+
+LISTE OVER KOMPETENTE NATIONALE MYNDIGHEDER
+
+LISTE DER ZUSTÄNDIGEN BEHÖRDEN DER MITGLIEDSTAATEN
+
+PÄDEVATE RIIKLIKE ASUTUSTE NIMEKIRI
+
+ΔΙΕΥΘΥΝΣΕΙΣ ΤΩΝ ΑΡΧΩΝ ΕΚΔΟΣΗΣ ΑΔΕΙΩΝ ΤΩΝ ΚΡΑΤΩΝ ΜΕΛΩΝ
+
+LIST OF THE COMPETENT NATIONAL AUTHORITIES
+
+LISTE DES AUTORITÉS NATIONALES COMPÉTENTES
+
+ELENCO DELLE COMPETENTI AUTORITA NAZIONALI
+
+VALSTU KOMPETENTO IESTĀŽU SARAKSTS
+
+ATSAKINGŲ NACIONALINIŲ INSTITUCIJŲ SĄRAŠAS
+
+AZ ILLETÉKES NEMZETI HATÓSÁGOK LISTÁJA
+
+LISTA TA' L-AWTORITAJIET KOMPETENTI NAZZJONALI
+
+LIJST VAN BEVOEGDE NATIONALE INSTANTIES
+
+LISTA WŁAŚCIWYCH ORGANÓW KRAJOWYCH
+
+LISTA DAS AUTORIDADES NACIONAIS COMPETENTES
+
+ZOZNAM PRÍSLUŠNÝCH ŠTÁTNYCH ORGÁNOV
+
+SEZNAM PRISTOJNIH NACIONALNIH ORGANOV
+
+LUETTELO TOIMIVALTAISISTA KANSALLISISTA VIRANOMAISISTA
+
+FÖRTECKNING ÖVER BEHÖRIGA NATIONELLA MYNDIGHETER
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX V[^c000001]
+
+[^c000001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c000001]: Textual amendment: Repealed by [Council Regulation (EC) No 1342/2007 of 22 October 2007 on administering certain restrictions on imports of certain steel products from the Russian Federation](https://www.legislation.gov.uk/eur/2007/1342).

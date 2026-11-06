@@ -1,0 +1,78 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 248
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 248
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 248
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 248
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 248. Rights and duties of the group supervisor and the other supervisors College of supervisors
+
+*Extent: E+W+S+N.I.*
+
+1. The rights and duties assigned to the group supervisor with regard to group supervision shall comprise the following:
+
+- (a) coordination of the gathering and dissemination of relevant or essential information for going concern and emergency situations, including the dissemination of information which is of importance for the supervisory task of a supervisory authority;
+- (b) supervisory review and assessment of the financial situation of the group;
+- (c) assessment of compliance of the group with the rules on solvency and of risk concentration and intra-group transactions as set out in Articles 218 to 245;
+- (d) assessment of the system of governance of the group, as set out in Article 246, and of whether the members of the administrative, management or supervisory body of the participating undertaking fulfil the requirements set out in Articles 42 and 257;
+- (e) planning and coordination, through regular meetings held at least annually or through other appropriate means, of supervisory activities in going-concern as well as in emergency situations, in cooperation with the supervisory authorities concerned and taking into account the nature, scale and complexity of the risks inherent in the business of all undertakings that are part of the group;
+- (f) other tasks, measures and decisions assigned to the group supervisor by this Directive or deriving from the application of this Directive, in particular leading the process for validation of any internal model at group level as set out in Articles 231 and 233 and leading the process for permitting the application of the regime established in Articles 237 to 240.
+
+2. In order to facilitate the exercise of the group supervision tasks referred to in paragraph 1, a college of supervisors, chaired by the group supervisor, shall be established.
+
+The college of supervisors shall ensure that cooperation, exchange of information and consultation processes among the supervisory authorities that are members of the college of supervisors, are effectively applied in accordance with Title III, with a view to promoting the convergence of their respective decisions and activities.
+
+Where the group supervisor fails to carry out the tasks referred to in paragraph 1 or where the members of the college of supervisors do not cooperate to the extent required in this paragraph, any of the supervisory authorities concerned may refer the matter to EIOPA and request its assistance in accordance with Article 19 of Regulation (EU) No 1094/2010. In that case, EIOPA may act in accordance with the powers conferred on it by that Article.[^c000002]
+
+3.[^c000004] The membership of the college of supervisors shall include the group supervisor, the supervisory authorities of all the Member States in which the head offices of all subsidiary undertakings are situated, and EIOPA in accordance with Article 21 of Regulation (EU) No 1094/2010.
+
+The supervisory authorities of significant branches and related undertakings shall also be allowed to participate in the college of supervisors. However, their participation shall be limited to achieving the objective of an efficient exchange of information.
+
+The effective functioning of the college of supervisors may require that some activities be carried out by a reduced number of supervisory authorities therein.
+
+4. Without prejudice to any measure adopted pursuant to this Directive, the establishment and functioning of the college of supervisors shall be based on coordination arrangements concluded by the group supervisor and the other supervisory authorities concerned.
+
+Where diverging views concerning the coordination arrangements arise, any member of the college of supervisors may refer the matter to EIOPA and request its assistance in accordance with Article 19 of Regulation (EU) No 1094/2010. In that case, EIOPA may act in accordance with the powers conferred on it by that Article. The group supervisor shall take its final decision in conformity with EIOPA's decision. The group supervisor shall transmit the decision to the other supervisory authorities concerned.
+
+After consulting the supervisory authorities concerned, the group supervisor shall duly consider any advice produced by CEIOPS within two months of receipt thereof before taking its final decision. The decision shall state the full reasons and shall contain an explanation of any significant deviation from any advice given by CEIOPS. The group supervisor shall transmit the decision to the other supervisory authorities concerned.
+
+5. Without prejudice to any measure adopted pursuant to this Directive, the coordination arrangements referred to in paragraph 4 shall specify the procedures for:
+
+- (a) the decision-making process among the supervisory authorities concerned in accordance with Articles 231, 232 and 247;
+- (b) consultation under paragraph 4 of this Article and under Article 218(5).
+
+Without prejudice to the rights and duties allocated by this Directive to the group supervisor and to other supervisory authorities, the coordination arrangements may entrust additional tasks to the group supervisor, the other supervisory authorities or EIOPA where this would result in the more efficient supervision of the group and would not impair the supervisory activities of the members of the college of supervisors in respect of their individual responsibilities.
+
+In addition, the coordination arrangements may set out procedures for:
+
+- (a) consultation among the supervisory authorities concerned, in particular as referred to in Articles 213 to 217, 219 to 221, 227, 244 to 246, 250, 256, 260 and 262;
+- (b) cooperation with other supervisory authorities.
+
+6. EIOPA shall issue guidelines for the operational functioning of colleges of supervisors on the basis of comprehensive reviews of their work in order to assess the level of convergence between them. Such reviews shall be carried out at least every three years. Member States shall ensure that the group supervisor transmits to EIOPA the information on the functioning of the colleges of supervisors and on any difficulties encountered that are relevant for those reviews.
+
+In order to ensure consistent harmonisation in relation to the coordination between supervisory authorities, EIOPA may develop draft regulatory technical standards to specify the operational functioning of colleges of supervisors based on the guidelines referred to in the first subparagraph.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1094/2010.
+
+7. In order to ensure consistent harmonisation in relation to the coordination between supervisory authorities, EIOPA shall, subject to Article 301b, develop draft regulatory technical standards to specify the coordination of group supervision for the purposes of paragraphs 1 to 6.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1094/2010.
+
+8. The Commission shall adopt delegated acts in accordance with Article 301a in regard to the definition of ‘ significant branch ’ .
+
+## Annotations
+
+[^c000002]: Textual amendment: Inserted by [Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)](https://www.legislation.gov.uk/eudr/2014/51).
+
+[^c000004]: Textual amendment: Substituted by [Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)](https://www.legislation.gov.uk/eudr/2014/51).

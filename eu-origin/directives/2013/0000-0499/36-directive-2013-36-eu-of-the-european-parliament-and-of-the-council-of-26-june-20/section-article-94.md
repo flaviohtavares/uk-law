@@ -1,0 +1,108 @@
+---
+title: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 94
+act: Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance)
+section: Article 94
+status: revised
+text_date: '2020-12-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2013/36/section/Article 94
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance), section Article 94
+
+> Text as at 2020-12-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 94. Variable elements of remuneration
+
+*Extent: E+W+S+N.I.*
+
+1. For variable elements of remuneration, the following principles shall apply in addition to, and under the same conditions as, those set out in Article 92(2):
+
+- (a) where remuneration is performance related, the total amount of remuneration is based on a combination of the assessment of the performance of the individual and of the business unit concerned and of the overall results of the institution and when assessing individual performance, financial and non-financial criteria are taken into account;
+- (b) the assessment of the performance is set in a multi-year framework in order to ensure that the assessment process is based on longer-term performance and that the actual payment of performance-based components of remuneration is spread over a period which takes account of the underlying business cycle of the credit institution and its business risks;
+- (c) the total variable remuneration does not limit the ability of the institution to strengthen its capital base;
+- (d) guaranteed variable remuneration is not consistent with sound risk management or the pay-for-performance principle and shall not be a part of prospective remuneration plans;
+- (e) guaranteed variable remuneration is exceptional, occurs only when hiring new staff and where the institution has a sound and strong capital base and is limited to the first year of employment;
+- (f) fixed and variable components of total remuneration are appropriately balanced and the fixed component represents a sufficiently high proportion of the total remuneration to allow the operation of a fully flexible policy on variable remuneration components, including the possibility to pay no variable remuneration component;
+- (g) institutions shall set the appropriate ratios between the fixed and the variable component of the total remuneration, whereby the following principles shall apply:
+  - ((i)) the variable component shall not exceed 100 % of the fixed component of the total remuneration for each individual. Member States may set a lower maximum percentage;
+  - ((ii)) Members States may allow shareholders or owners or members of the institution to approve a higher maximum level of the ratio between the fixed and variable components of remuneration provided the overall level of the variable component shall not exceed 200 % of the fixed component of the total remuneration for each individual. Member States may set a lower maximum percentage.
+
+    Any approval of a higher ratio in accordance with the first subparagraph of this point shall be carried out in accordance with the following procedure:
+
+    - the shareholders or owners or members of the institution shall act upon a detailed recommendation by the institution giving the reasons for, and the scope of, an approval sought, including the number of staff affected, their functions and the expected impact on the requirement to maintain a sound capital base;
+    - shareholders or owners or members of the institution shall act by a majority of at least 66 % provided that at least 50 % of the shares or equivalent ownership rights are represented or, failing that, shall act by a majority of 75 % of the ownership rights represented;
+    - the institution shall notify all shareholders or owners or members of the institution, providing a reasonable notice period in advance, that an approval under the first subparagraph of this point will be sought;
+    - the institution shall, without delay, inform the competent authority of the recommendation to its shareholders or owners or members, including the proposed higher maximum ratio and the reasons therefore and shall be able to demonstrate to the competent authority that the proposed higher ratio does not conflict with the institution's obligations under this Directive and under Regulation (EU) No 575/2013, having regard in particular to the institution's own funds obligations;
+    - the institution shall, without delay, inform the competent authority of the decisions taken by its shareholders or owners or members, including any approved higher maximum ratio pursuant to the first subparagraph of this point, and the competent authorities shall use the information received to benchmark the practices of institutions in that regard. The competent authorities shall provide EBA with that information and EBA shall publish it on an aggregate home Member State basis in a common reporting format. EBA may elaborate guidelines to facilitate the implementation of this indent and to ensure the consistency of the information collected;
+    - staff who are directly concerned by the higher maximum levels of variable remuneration referred to in this point shall not, where applicable, be allowed to exercise, directly or indirectly, any voting rights they may have as shareholders or owners or members of the institution;
+  - ((iii)) Member States may allow institutions to apply the discount rate referred to in the second subparagraph of this point to a maximum of 25 % of total variable remuneration provided it is paid in instruments that are deferred for a period of not less than five years. Member States may set a lower maximum percentage.
+
+    EBA shall prepare and publish, by 31 March 2014, guidelines on the applicable notional discount rate taking into account all relevant factors including inflation rate and risk, which includes length of deferral. The EBA guidelines on the discount rate shall specifically consider how to incentivise the use of instruments which are deferred for a period of not less than five years;
+- (h) payments relating to the early termination of a contract reflect performance achieved over time and do not reward failure or misconduct;
+- (i) remuneration packages relating to compensation or buy out from contracts in previous employment must align with the long-term interests of the institution including retention, deferral, performance and clawback arrangements;
+- (j) the measurement of performance used to calculate variable remuneration components or pools of variable remuneration components includes an adjustment for all types of current and future risks and takes into account the cost of the capital and the liquidity required;
+- (k) the allocation of the variable remuneration components within the institution shall also take into account all types of current and future risks;
+- (l) a substantial portion, and in any event at least 50 %, of any variable remuneration shall consist of a balance of the following:
+  - ((i)) shares or, subject to the legal structure of the institution concerned, equivalent ownership interests; or share-linked instruments or, subject to the legal structure of the institution concerned, equivalent non-cash instruments;[^c000001]
+  - ((ii)) where possible, other instruments within the meaning of Article 52 or 63 of Regulation (EU) No 575/2013 or other instruments which can be fully converted to Common Equity Tier 1 instruments or written down, that in each case adequately reflect the credit quality of the institution as a going concern and are appropriate to be used for the purposes of variable remuneration.
+
+  The instruments referred to in this point shall be subject to an appropriate retention policy designed to align incentives with the longer-term interests of the institution. Member States or their competent authorities may place restrictions on the types and designs of those instruments or prohibit certain instruments as appropriate. This point shall be applied to both the portion of the variable remuneration component deferred in accordance with point (m) and the portion of the variable remuneration component not deferred;
+- (m) a substantial portion, and in any event at least 40 %, of the variable remuneration component is deferred over a period which is not less than four to five years and is correctly aligned with the nature of the business, its risks and the activities of the staff member concerned. For members of the management body and senior management of institutions that are significant in terms of their size, internal organisation and the nature, scope and complexity of their activities, the deferral period should not be less than five years.
+
+  Remuneration payable under deferral arrangements shall vest no faster than on a pro-rata basis. In the case of a variable remuneration component of a particularly high amount, at least 60 % of the amount shall be deferred. The length of the deferral period shall be established in accordance with the business cycle, the nature of the business, its risks and the activities of the staff member concerned;
+- (n) the variable remuneration, including the deferred portion, is paid or vests only if it is sustainable according to the financial situation of the institution as a whole, and justified on the basis of the performance of the institution, the business unit and the individual concerned.
+
+  Without prejudice to the general principles of national contract and labour law, the total variable remuneration shall generally be considerably contracted where subdued or negative financial performance of the institution occurs, taking into account both current remuneration and reductions in payouts of amounts previously earned, including through malus or clawback arrangements.
+
+  Up to 100 % of the total variable remuneration shall be subject to malus or clawback arrangements. Institutions shall set specific criteria for the application of malus and clawback. Such criteria shall in particular cover situations where the staff member:
+
+  - ((i)) participated in or was responsible for conduct which resulted in significant losses to the institution;
+  - ((ii)) failed to meet appropriate standards of fitness and propriety;
+- (o) the pension policy is in line with the business strategy, objectives, values and long-term interests of the institution.
+
+  If the employee leaves the institution before retirement, discretionary pension benefits shall be held by the institution for a period of five years in the form of instruments referred to in point (l). Where an employee reaches retirement, discretionary pension benefits shall be paid to the employee in the form of instruments referred to in point (l) subject to a five-year retention period;
+- (p) staff members are required to undertake not to use personal hedging strategies or remuneration- and liability-related insurance to undermine the risk alignment effects embedded in their remuneration arrangements;
+- (q) variable remuneration is not paid through vehicles or methods that facilitate the non-compliance with this Directive or Regulation (EU) No 575/2013.
+
+2. EBA shall develop draft regulatory technical standards to specify the classes of instruments that satisfy the conditions set out in point (l)(ii) of paragraph 1.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 31 March 2014 .
+
+For the purpose of identifying staff whose professional activities have a material impact on the institution's risk profile as referred to in Article 92(3), EBA shall develop draft regulatory technical standards setting out the criteria to define the following:
+
+- (a) managerial responsibility and control functions;
+- (b) material business unit and significant impact on the relevant business unit's risk profile; and
+- (c) other categories of staff not expressly referred to in Article 92(3) whose professional activities have an impact on the institution's risk profile comparably as material as that of those categories of staff referred to therein.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 28 December 2019 .
+
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in this paragraph in accordance with Article 10 to 14 of Regulation (EU) No 1093/2010.
+
+3.[^c000002] By way of derogation from paragraph 1, the requirements set out in points (l) and (m) and in the second paragraph of point (o) of that paragraph shall not apply to:
+
+- (a) an institution that is not a large institution as defined in point (146) of Article 4(1) of Regulation (EU) No 575/2013 and the value of the assets of which is on average and on an individual basis in accordance with this Directive and Regulation (EU) No 575/2013 equal to or less than EUR 5 billion over the four-year period immediately preceding the current financial year;
+- (b) a staff member whose annual variable remuneration does not exceed EUR 50 000 and does not represent more than one third of the staff member's total annual remuneration.
+
+4. By way of derogation from point (a) of paragraph 3, a Member State may lower or increase the threshold referred to therein, provided that:
+
+- (a) the institution in relation to which the Member State makes use of this provision is not a large institution as defined in point (146) of Article 4(1) of Regulation (EU) No 575/2013 and, where the threshold is increased:
+  - ((i)) the institution meets the criteria set out in points (145)(c), (d) and (e) of Article 4(1) of Regulation (EU) No 575/2013; and
+  - ((ii)) the threshold does not exceed EUR 15 billion;
+- (b) it is appropriate to modify the threshold in accordance with this paragraph taking into account the institution's nature, scope and complexity of its activities, its internal organisation or, if applicable, the characteristics of the group to which it belongs.
+
+5. By way of derogation from point (b) of paragraph 3, a Member State may decide that staff members entitled to annual variable remuneration below the threshold and share referred to in that point shall not be subject to the exemption set out therein because of national market specificities in terms of remuneration practices or because of the nature of the responsibilities and job profile of those staff members.
+
+6. By 28 June 2023 , the Commission, in close cooperation with EBA, shall review and report on the application of paragraphs 3 to 5 and shall submit that report to the European Parliament and to the Council together with a legislative proposal, if appropriate.
+
+7. EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, facilitating the implementation of paragraphs 3, 4 and 5 and ensuring their consistent application.
+
+## Annotations
+
+[^c000001]: Textual amendment: Substituted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).
+
+[^c000002]: Textual amendment: Inserted by [Directive (EU) 2019/878 of the European Parliament and of the Council of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/878).

@@ -1,0 +1,43 @@
+---
+title: Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance), section Article 13
+act: Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance)
+section: Article 13
+status: revised
+text_date: '2019-12-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2020/687/section/Article 13
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (Text with EEA relevance), section Article 13
+
+> Text as at 2019-12-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 13. Specific derogations from Article 12(1)(a)
+
+*Extent: E+W+S+N.I.*
+
+1. In the event of an outbreak of a category A disease in establishments keeping animals of listed species in two or more epidemiological units, the competent authority may grant derogation from Article 12(1)(a) to the epidemiological units in which the disease has not been confirmed, after carrying out a risk assessment, and, when necessary, after obtaining favourable results in laboratory examinations, and provided that:
+
+- (a) the epidemiological enquiry referred to in Article 57 of Regulation (EU) 2016/429 has not revealed any epidemiological link between the epidemiological units in which the category A disease has been confirmed and those in which the disease has not been confirmed, to suspect the spread of the category A disease between them; and
+- (b) the competent authority has confirmed that, at least during the monitoring period, set out in Annex II for the relevant disease, before the confirmation of the category A disease, the epidemiological units in which the disease has not been confirmed were kept completely separated and handled by different personnel.
+
+2. The competent authority may grant derogation from Article 12(1)(a) to the following categories of animals provided that the conditions in paragraph 3 are fulfilled:
+
+- (a) animals kept in a confined establishment;
+- (b) animals kept for scientific purposes or purposes related to conservation of protected or endangered species;
+- (c) animals officially registered in advance as rare breeds; and
+- (d) animals with a duly justified high genetic, cultural or educational value.
+
+3. The competent authority shall ensure that the following conditions are fulfilled when granting the derogation provided for in paragraph 2:
+
+- (a) the competent authority has carried out an assessment of the effects of granting such derogation and, in particular, of the effects on the animal health status of the Member State concerned and of the adjacent countries and the outcome of this assessment indicated that the animal health status is not endangered;
+- (b) appropriate biosecurity measures are applied to prevent the risk of transmission of the category A disease to unaffected kept animals or to wild animals or to humans taking into account:
+  - ((i)) the disease profile; and
+  - ((ii)) the affected species of animals;
+- (c) the animals are subject to appropriate isolation and clinical surveillance, including laboratory examinations, until the competent authority can ensure that the animals do not pose a risk of transmission of the category A disease.
+
+4. The competent authority may grant specific derogations from Article 12(1)(a) to equine animals kept in establishments where an outbreak of the category A diseases referred to in Annex III has been confirmed under the conditions set out in that Annex.

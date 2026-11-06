@@ -1,0 +1,1269 @@
+---
+title: Commission Implementing Regulation (EU) No 1283/2014 of 2 December 2014 imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the Republic of Korea and Malaysia following an expiry review pursuant to Article 11(2) of Council Regulation (EC) No 1225/2009
+id: eur/2014/1283
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2014-12-02'
+text_date: '2016-03-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2014/1283
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2014/1283/pdfs/eur_20141283_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2014/1283/pdfs/eur_20141283_2016-03-05_en.pdf
+- http://www.legislation.gov.uk/eur/2014/1283/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) No 1283/2014 of 2 December 2014 imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the Republic of Korea and Malaysia following an expiry review pursuant to Article 11(2) of Council Regulation (EC) No 1225/2009
+
+> Text as at 2016-03-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Regulation (EU) No 1283/2014
+
+of 2 December 2014
+
+imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the Republic of Korea and Malaysia following an expiry review pursuant to Article 11(2) of Council Regulation (EC) No 1225/2009
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1225/2009 of 30 November 2009 on protection against dumped imports from countries not members of the European Community[^f00001], and in particular Article 11(2) thereof,
+
+Whereas:
+
+1\.
+
+**PROCEDURE**
+
+1.1.
+
+**Measures in force**
+
+(1)
+
+The anti-dumping measures in force on imports of certain tube and pipe fittings (‘TPF’ or ‘the product concerned’) originating in the Republic of Korea and Malaysia ‘the countries concerned’) were originally imposed by Council Regulation (EC) No 1514/2002[^f00002] (the ‘original measures’).
+
+(2)
+
+The anti-dumping duties in force for Malaysia are 75 %, except for the companies Anggerik Laksana Sdn Bhd and Pantech Steel Industries Sdn Bhd, which are subject to an anti-dumping duty of 59,2 % and 49,9 % respectively. For the Republic of Korea the duty is 44 % for all companies.
+
+(3)
+
+The original measures were maintained by Council Regulation (EC) No 1001/2008[^f00003] as last amended by Council Regulation (EU) No 363/2010[^f00004] (‘the measures in force’).
+
+1.2.
+
+**Measures in force in respect of other third countries**
+
+(4)
+
+Outside the scope of this proceeding, anti-dumping measures on the product concerned are currently in force on exports from the People's Republic of China and Thailand[^f00005]. The measures on the product concerned originating in China were extended to imports of the same product consigned from Taiwan[^f00006], Indonesia[^f00007], Sri Lanka[^f00008], and the Philippines[^f00009]. On 3 September 2014, the Commission initiated an expiry review under Article 11(2) of the basic Regulation on imports of TPF from People's Republic of China and extended to Taiwan, Indonesia, Sri Lanka and the Philippines. It published a Notice of Initiation in the *Official Journal of the European Union* [^f00010]. The anti-dumping measures on exports from Thailand have expired.
+
+(5)
+
+In January 2013, measures were imposed on imports of the product concerned originating in Russia and Turkey[^f00011].
+
+1.3.
+
+**Initiation of an expiry review**
+
+(6)
+
+On 8 February 2013 the European Commission (‘the Commission’) published a notice of impending expiry[^f00012] of the anti-dumping measures in force concerning TPF originating in the Republic of Korea and Malaysia.
+
+(7)
+
+On 26 June 2013, the Commission received a request for the initiation of an expiry review of those measures under Article 11(2) of Regulation (EC) No 1225/2009 (‘the basic Regulation’).
+
+(8)
+
+The request was lodged by the Defence Committee of the Steel Butt-Welding Fittings Industry of the European Union (‘the applicant’) on behalf of producers representing more than 40 % of the total Union production of the product concerned.
+
+(9)
+
+The request was based on the grounds that the expiry of the measures would likely result in recurrence of dumping and recurrence of injury to the Union industry.
+
+(10)
+
+On 15 October 2013, the Commission initiated an expiry review under Article 11(2) of the basic Regulation. It published a Notice of Initiation in the *Official Journal of the European Union* [^f00013].
+
+1.4.
+
+**Interested parties**
+
+(11)
+
+In the Notice of Initiation, the Commission invited interested parties to contact it in order to participate in the review investigation. The Commission specifically informed the applicant, other known Union producers, users and importers, exporting producers in the Republic of Korea and Malaysia, and the Korean and Malaysian authorities about the initiation of the expiry review and invited them to cooperate.
+
+(12)
+
+All interested parties had the opportunity to comment on the initiation of the review and to request a hearing with the Commission and/or the Hearing Officer in trade proceedings.
+
+1.4.1.
+
+*Sampling*
+
+(13)
+
+In the Notice of Initiation, the Commission stated that it might sample the Union producers, importers and Korean exporting producers, in accordance with Article 17 of the basic Regulation.
+
+(a)
+
+Sampling of Union producers
+
+(14)
+
+In the Notice of Initiation, the Commission stated that it had provisionally selected a sample of Union producers and invited interested parties to comment. The sample was selected on the basis of production and sales volumes of the like product during the review investigation period (‘RIP’) in the Union whilst ensuring a geographical spread and was comprised of four Union producers or groups of Union producers (five individual companies) located in Germany, France, Italy, Romania and Austria. No comments were received and the provisionally selected companies were retained in the final sample.
+
+(15)
+
+However, after the initiation of the proceeding the Commission had to exclude from the sample two Union producers due to a lack of cooperation. The two remaining companies/group of companies (three individual companies) represent 49 % of Union production and 45 % of Union sales and have production facilities in three different countries. Therefore, the modified sample was still considered representative of the Union industry.
+
+(b)
+
+Sampling of importers
+
+(16)
+
+To decide whether sampling was necessary and, if so, to select a sample, the Commission asked unrelated importers to provide information specified in the Notice of Initiation. However no importer cooperated with the investigation.
+
+(c)
+
+Sampling of exporting producers in the Republic of Korea
+
+(17)
+
+To decide whether sampling was necessary and, if so, to select a sample, the Commission asked all exporting producers in Korea to provide the information specified in the Notice of Initiation. In addition, the Commission requested the Mission of the Republic of Korea to the European Union to identify and/or contact other exporting producers, if any, that could be interested in participating in the investigation.
+
+(18)
+
+Two Korean exporting producers provided the requested information, but only one agreed to cooperate and be included in the sample. It was therefore decided that sampling of the Korean exporting producers was not necessary.
+
+(d)
+
+Exporting producers in Malaysia
+
+(19)
+
+In view of the low number of known Malaysian exporting producers, the Commission did not foresee sampling in the Notice of Initiation.
+
+(20)
+
+The Commission invited all exporting producers to make themselves known within 15 days after the publication of the Notice of Initiation. In addition, the Commission requested the Mission of Malaysia to the European Union to identify and/or contact other exporting producers, if any, that could be interested in participating in the investigation.
+
+1.4.2.
+
+*Replies to questionnaire*
+
+(21)
+
+The Commission sent questionnaires to all sampled companies in the Union, the cooperating Korean company and all known Malaysian exporting producers.
+
+(22)
+
+One Union producer failed to respond to the questionnaire while another Union producer submitted only a partial answer and failed to reply after a deficiency letter had been sent. These two Union producers were subsequently excluded from the sample (see recital 15 above). One Korean exporting producer replied to the questionnaire. None of the Malaysian exporting producers submitted a reply to the questionnaire.
+
+1.4.3.
+
+*Verification visits*
+
+(23)
+
+The Commission sought and verified all the information it deemed necessary for determining the likelihood of recurrence of dumping and resulting injury and for assessing whether the imposition of measures would be against the Union interest. Verification visits pursuant to Article 16 of the basic Regulation were carried out at the premises of the following companies:
+
+- *Union producers:*
+  - Erne Fittings GmbH, Schlins Austria and the related company Siekman Fittings, Lohne, Germany,
+  - Vallourec Fittings SA, France.
+- *Exporting producers in the Republic of Korea:*
+  - TK Corporation, Busan.
+
+1.5.
+
+**Review investigation period and the period considered**
+
+(24)
+
+The investigation of likelihood of recurrence of dumping covered the period from 1 October 2012 to 30 September 2013 (‘the review investigation period’ or ‘RIP’).
+
+(25)
+
+The examination of trends relevant for the assessment of the likelihood of a continuation or recurrence of injury covered the period from 1 January 2010 to the end of the review investigation period (‘the period considered’).
+
+1.6.
+
+**Disclosure**
+
+(26)
+
+On 12 September 2014, the Commission disclosed to all interested parties the essential facts and considerations on the basis of which it intended to maintain the anti-dumping measures in force and invited all interested parties to comment. The comments made by the interested parties were considered by the Commission and taken into account, where appropriate.
+
+2\.
+
+**PRODUCT CONCERNED AND LIKE PRODUCT**
+
+2.1.
+
+**Product concerned**
+
+(27)
+
+The product under review is tube and pipe fittings (other than cast fittings, flanges and threaded fittings), of iron or steel (not including stainless steel), with a greatest external diameter not exceeding 609,6 mm, of a kind used for butt-welding or other purposes, originating in the Republic of Korea and Malaysia, currently falling within CN codes ex 7307 93 11, ex 7307 93 19 and ex 7307 99 80 (‘the product concerned’ or TPF).
+
+2.2.
+
+**Like product**
+
+(28)
+
+The review investigation confirmed that, as in the original investigation, the TPF produced in the countries concerned, sold domestically and/or exported to the Union and/or other export markets, have the same basic physical, technical and chemical characteristics and end uses as the products sold in the Union by the Union industry.
+
+(29)
+
+The Commission decided that this product is therefore a like product within the meaning of Article 1(4) of the basic Regulation.
+
+3\.
+
+**LIKELIHOOD OF RECURRENCE OF DUMPING**
+
+(30)
+
+In accordance with Article 11(2) of the basic Regulation, the Commission examined whether the expiry of the measures in force would be likely to lead to a recurrence of dumping from the countries concerned.
+
+3.1.
+
+**Republic of Korea**
+
+3.1.1.
+
+*Preliminary remarks*
+
+(31)
+
+One of the largest Korean producers of TPF, TK Corporation, cooperated with the investigation. This cooperating company accounted for 25 %-40 % of Korean exports of TPF (the exact figure is not provided for reasons of confidentiality). TK Corporation provided the Commission with a questionnaire reply including data on domestic and export sales and cost of production. The Commission considered that the analysis of Korean dumping during the RIP and parts of the recurrence analysis could be based on this company's data given its share of Korean exports of TPF. The reply of TK Corporation was verified.
+
+3.1.2.
+
+*Dumping of imports during the RIP*
+
+(32)
+
+In the RIP only negligible volumes of TPF (less than 50 tonnes) were imported into the Union from Korea. Some of these sales were made by the sole cooperating exporting producer, TK Corporation. It was clear that these quantities were not representative as they represented less than 0,1 % of the production of TK Corporation. In addition, it was unclear whether an anti-dumping duty had been paid on imports from the TK Corporation, which casts doubt on whether they had actually entered the Union customs territory. Moreover, those sales were for three specific projects with their own specifications for fittings (therefore, an unrepresentative sale) and the sales were made as a ‘package’ with other fittings (mainly stainless steel). For the above reasons, no meaningful analysis of dumping based on imports of TPF from TK Corporation to the Union during the RIP could be made.
+
+(33)
+
+Following disclosure, TK Corporation submitted that the Commission should have based its dumping analysis on the Union export sales of the company, for the following reasons: (i) its export sales to the Union during the RIP were significant and therefore representative, as they consisted of ‘no less than 26 invoices with 282 individual transactions, despite duties being in place’; (ii) in the absence of clarity as concerns anti-dumping duty payment, some of the sales (destined for an offshore project) would not be subject to the anti-dumping duty, whereas for other sales that occurred during the RIP, anti-dumping duties were not always paid by importers as a result of misclassification of those products due to which the importers did not realise that anti-dumping duties were payable. In the meantime, importers were made aware of this error and they have since paid those anti-dumping duties retroactively; and (iii) the conditions for the export sales to the Union were normal as shorter delivery times were not applied nor were the prices charged subject to cross-compensation.
+
+(34)
+
+These comments were duly analysed. The low level of its export sales to the Union, in absolute terms as well as compared to the company's total production of the like product (being less than 0,1 %) was not contested by TK Corporation. The Commission maintains that such a very small volume in both relative and absolute terms does not qualify as being representative.
+
+(35)
+
+Furthermore, the Commission could not, on the basis of the provided documents, ascertain which part of TK Corporation's alleged Union sales had eventually been properly classified and imported and also the claim that the prices had not been subject to cross-compensation could not be verified and therefore could not be accepted as the supporting documents were only provided after the verification visit. In any event, as concerns both issues, in view of the conclusion of the analysis under recital 34 above, there is no need for the Commission to make a final determination as even the total reported Union sales volumes of TK Corporation cannot be considered sufficiently representative.
+
+(36)
+
+The Commission therefore confirms that the Union sales of TK Corporation during the RIP cannot be used for a meaningful dumping analysis in the framework of this expiry review investigation.
+
+3.1.3.
+
+*Evidence of likelihood of recurrence of dumping*
+
+(37)
+
+The Commission analysed whether there was a likelihood of recurrence of dumping should the measures lapse. When doing so, the following elements were analysed: export price to other destinations, the production capacity and spare capacity in Korea and the attractiveness of the Union market.
+
+3.1.3.1.
+
+Exports from Korea to other destinations
+
+(38)
+
+Due to the small volume of imports of TPF from Korea to the Union, and the lack of reliability of the prices made for these sales (see recitals 32 to 36), the Commission concluded that data concerning sales of TPF from Korea to other countries should be used to assess the likely future level of export prices to the Union, should the measures be allowed to lapse.
+
+(39)
+
+It was considered appropriate to first analyse Korean sales to the United States (‘US’) since, unlike any other Korean export destination, that market is of a similar size as the Union market, with many domestic producers but also with a large proportion of imports and low import tariff rates, making it a very competitive market. Furthermore, the US is the major destination for exports from Korea in general and also for TK Corporation.
+
+(40)
+
+In addition, all other export sales of TPF from Korea were also examined during the investigation.
+
+(41)
+
+Dumping calculations were made for both US sales and sales to all other export destinations (excluding the Union for the reasons mentioned in recitals 32 to 36 above).
+
+(a)
+
+Normal value
+
+(42)
+
+In accordance with Article 2(1) of the basic Regulation, the normal value for TK Corporation was based on the prices paid or payable, in the ordinary course of trade, by independent customers in its domestic market, when it is was possible to do so.
+
+(43)
+
+For the product types, which did not allow for this methodology, the normal value was constructed in accordance with Article 2(3) of the basic Regulation.
+
+(44)
+
+This was done on the basis of the actual cost of production of TK Corporation, as provided in the questionnaire reply, namely actual cost of manufacturing plus actual SGA and profit in accordance with Article 2(6) of the basic Regulation.
+
+(b)
+
+Export price
+
+(45)
+
+As explained under recitals 32 to 36 TK Corporation's Union sales could not be used for the dumping calculation and therefore export prices were based on its exports to third country markets.
+
+(46)
+
+In accordance with Article 2(9) of the basic Regulation, the export price of TK Corporation to other countries was taken, adjusted back to an ex-works level by taking into account, where appropriate, for the costs of, inter alia, transport, duties and taxes.
+
+(c)
+
+Comparison and adjustments
+
+(47)
+
+The weighted average normal value was compared with the weighted average export price of TPF, in accordance with Article 2(11) of the basic Regulation, both at ex-works level.
+
+(48)
+
+For the purpose of ensuring a fair comparison between normal value and export price, account was taken of differences in factors affecting prices and price comparability in accordance with Article 2(10) of the basic Regulation. In this respect, adjustments were made for inland and ocean freight, insurance, handling, loading and ancillary costs.
+
+(49)
+
+In order to differentiate between the various types of the product concerned, the original Product Control Number (PCN) methodology for capturing product types foresaw an 11-digit system. The dumping calculations were performed using a slightly reduced PCN structure using 7 digits. The specification standard and material grade fields were replaced by a simplified criterion which differentiated between products made from carbon steel and alloyed steel. This was because it was found that there was little difference between the standard specifications used (such as ANSI or EN) and the material grading systems followed the standard used. Therefore, the simplified system increased the level of matching for dumping (and injury) calculations for thousands of PCNs without distorting the result of the calculation itself.
+
+(50)
+
+TK Corporation requested the Commission to increase the original PCN system to 16 digits but this claim was rejected because the system used was already capable of categorising the product concerned efficiently. Furthermore, it should be pointed out that it was clear that the dumping (and injury) margins calculated would not change to any important degree if they were based on 7, 11 or 16 digits because the average prices sold by TK Corporation on the various markets varied substantially.
+
+(51)
+
+A second calculation issue concerned the volume method to be used for the dumping calculation. TK Corporation argued that since on its sales invoices, its price guidelines to (potential) customers and in its accounting ‘pieces’ are used to record quantity, pieces should also be used as unit of measurement in the calculation. The questionnaire requested quantity by weight but for some of its sales, TK Corporation replied in pieces. For those sales, the conversion from pieces to weight was provided by TK Corporation as part of the deficiency process. The Commission decided that weight was the best methodology because:
+
+- pieces as unit of measurement could lead to distortions as regards the average price per unit, as pieces do not reflect the weight per piece, which is an important determinant for the cost (and thus price) of the product concerned,
+- the weight is required for the injury calculations because this is the methodology employed by the Union producers and it would be incongruous to use different methodologies for dumping and injury (undercutting) calculations, and
+- data of Union customs offices and Korean export statistics are only recorded by weight for the product concerned.
+
+(52)
+
+Furthermore, it should be pointed out that overall the dumping margins calculated did not appear to change to any important degree if they were based on pieces, due to the significant differences found in average prices sold by TK Corporation on the various markets.
+
+(53)
+
+Following disclosure, TK Corporation resubmitted the comment that the Commission should have based its dumping calculations on pieces rather than on weight. One of the reasons provided was that TK Corporation's sales and cost data are expressed in pieces and thus, the conversion to weight would have led to distortions in the dumping margin calculations.
+
+(54)
+
+As for comparability with the Union industry, TK Corporation commented that the Commission did not calculate an injury margin, while for the dumping margin no comparison with the cost and sales data of the Union industry needs to be made. In addition, TK Corporation argued that the unit of measurement used in transactions, also by the Union industry, would be piece and not kilogram or tonne.
+
+(55)
+
+Finally, TK Corporation did not see the relevance of the data of Union customs offices and Korean export statistics being recorded by weight.
+
+(56)
+
+The above comments were duly analysed. It is firstly important to note that TK Corporation did not submit an ‘alternative’ calculation of dumping on a per piece basis. Indeed, although it claimed that a ‘per piece calculation’ would give a more accurate result, it failed to actually demonstrate this. The Commission reiterates that the dumping margins calculated are substantial and, as explained in recital 52, no significant differences were found between the dumping margins calculated based on weight and the dumping margins based on pieces. In other words, it is uncontested that whichever method was used, large dumping margins would be established. Furthermore, it is important to recall that the conversion from pieces to weight in the TK Corporation sales and cost data was done by TK Corporation itself, using their own methodology. Furthermore, its catalogue, available on its own website, provides for each type of fitting the approximate weight.
+
+(57)
+
+Transactions made by the Union industry are expressed both in weight and in pieces, as demonstrated by the invoices verified by the Commission. Apart from invoicing, weight is the methodology used for determining capacity, production volume and production costs — not only in the Union, but around the world and also in Korea. Raw materials, the largest element in the production costs of the product concerned, are purchased in tonnes. Other factors, such as energy consumption, labour and freight costs are also calculated based on weight. The Union industry also determines end year rebates to customers based on the volume (in tonnes) purchased by the customer, not on the number of pieces. Furthermore, undercutting margins needed to be (and have been — see recitals 98-105 calculated in this expiry review and, therefore, the argument that the Korean and the Union industry data would not need to be compared, as suggested by the claim summarised in recital 54 above, is incorrect.
+
+(58)
+
+Worldwide statistics collected and used as part of the investigation, including Korean export and Union customs statistics, were only expressed in weight. These were used, inter alia, to analyse Korean exports of the product concerned to the Union and to third countries. To establish TK Corporation's share in this and to cross-check its sales volumes to the Union as reported in its questionnaire reply, the conversion of TK Corporation's data to weight was necessary, as it would not have been possible to convert the Korean export statistics and the Union customs statistics to pieces.
+
+(59)
+
+Finally, it is important to note that in previous investigations (such as the investigation leading to the original measures and the first expiry review leading to the measures in force) as well as in the more recent investigations concerning the same product from Russia and Turkey, the methodology based on weight was also used.
+
+(60)
+
+In view of the above, the Commission confirms that the claim that calculations should be made on a per piece basis should be rejected.
+
+(d)
+
+Dumping during the RIP
+
+(61)
+
+The dumping margins thus calculated for TK Corporation were 46 % and 27 % depending on the export destination.
+
+3.1.3.2.
+
+Korean production capacity
+
+(62)
+
+As concerns the total Korean production capacity and spare capacity, the Commission did, in the investigation, not obtain information from any of the Korean producers except TK Corporation. The Commission had accordingly to rely on Article 18 of the basic Regulation to make findings in this respect, and the information at its disposal is the verified information provided by TK Corporation, which only concerned that company, and the country-wide information included in the expiry review request.
+
+(63)
+
+The spare capacity reported by TK Corporation was duly verified. By extrapolating the spare capacity reported by TK Corporation during the RIP on the basis of its share of the total Korean export volumes, the Commission calculated that the total spare capacity in Korea would amount to at least 15 000 tonnes, which represent around 25 % of total Union consumption. Concerning such calculation, however, it is important to note that production volumes as compared to production capacity is very company-specific and, in addition, although TK Corporation is one of the larger producers of the like product in Korea, it is only one out of many and certainly not dominant. The Commission therefore cross-checked that finding with the information contained in the request.
+
+(64)
+
+The spare capacity information provided in the request was based on estimated capacity and production figures for all Korean producers identified by the applicant. Regarding production capacity, for the three largest producers, publicly available data were used. For the other (much smaller) Korean producers, no such data were publicly available and the applicant therefore used other reasonable methods to estimate their production capacity. The applicant further assumed a certain level of Korean domestic consumption and accounted for imports into Korea as well as exports from Korea in order to estimate spare capacity. Both for the calculation of production capacity and spare capacity, appropriate deductions were made to account for production of other types of products not falling within the product scope. That totality of information was clearly considered more complete and conclusive than the information referred to in recital 63 above. No submissions have been received which would contradict these figures. On that basis, using the facts available, the spare capacity in Korea is estimated to amount to 119 300 tonnes which equals, by itself, two times the size of the Union market in the RIP.
+
+3.1.3.3.
+
+Attractiveness of the Union market
+
+(65)
+
+It is recalled that TPF is used mainly in the oil and gas industry, construction, energy generation, shipbuilding and industrial installations. None of the facts available point to a substantial growth or decline of these sectors in Korea and hence, the Korean domestic market for TPF is considered to remain rather stable for the years ahead and to not offer any substantial expansion possibilities for the Korean TPF. Besides Korea, the main export markets for these industries are the Union, the US, the Middle East countries and South-East Asia. No information collected during the investigation suggests that the demand on any of those markets would shrink or increase to a significant extent in the coming years.
+
+(66)
+
+Korean exports to the US, the Middle East countries and South-East Asia are already at high levels and therefore these markets do not have significant growth potential for the Korean industry. It is also recalled that significant dumping of 46 % was established for Korean exports to the US. The Union market, which is one of the largest markets worldwide, therefore is an attractive growth market if measures are repealed as this market so far is not yet fully exploited by the Korean exporting producers in view of the measures in force.
+
+(67)
+
+In terms of size and market conditions, the US market and the Union market are similar. On both markets there are a large number of domestic producers and imports take up a significant market share. The investigation has revealed that the average sales price on the Union market (taking into account all sales by Union producers as well as all import sales into the Union) is EUR 2 600/tonne. The average Union market price is thus similar to the average price which the Korean exporting producers obtain on the US market (EUR 2 700/tonne), with the difference that they are not subject to anti-dumping measures in the US. The current marginal Korean sales to the Union are therefore most likely the result of the existing measures on the product concerned. It is recalled that, during the RIP, the US was the largest export market for the Korean exporters. This demonstrates that the Union would be an attractive market for Korean exporters and that, should the duties be repealed, it could be expected that the Union market would attract similar large volumes as the US market. During the RIP, Korean TPF accounted for 20 %-25 % of all TPF imports to the US and between 10 % to 15 % market share of the total US TPF market (exact figures are not provided for reasons of confidentiality). In other words, Korean producers are likely to use the available spare capacity, as described in recital 64, to re-enter the Union market, if measures were repealed.
+
+(68)
+
+As explained in recital 39 above, apart from the US, there is no second destination for Korean exports which can be reliably employed in the analysis of the development of the Union market if measures would expire. Therefore, grouping all export sales to destinations other than the Union or US together in this analysis is not considered to yield reliable average prices in view of the different circumstances applicable to all these (much smaller) individual markets. In view of the limitations of this analysis, as described above, and the lack of significant growth potential of these ‘other markets’ in the near future, it is however not expected that these markets would absorb significant extra imports from Korea.
+
+3.1.3.4.
+
+Conclusion on the likelihood of recurrence of dumping
+
+(69)
+
+Given the above, there is a likelihood that, if measures were to lapse, dumping would recur. The investigation showed that Korean sales of TPF to the US and to other third countries were found to be exported at dumped prices, with dumping margins of 46 % and 27 % respectively.
+
+(70)
+
+In addition, the Korean spare capacity is significant in comparison with the Union consumption during the RIP. If this capacity is used to export to the Union and to compete on price with the Union producers or on price with the major imports from third countries, then there is a strong likelihood that such exports would be made at dumped prices.
+
+3.2.
+
+**Malaysia**
+
+3.2.1.
+
+*Preliminary remarks*
+
+(71)
+
+In the absence of cooperation from any exporting producers in Malaysia, the overall analysis had to be based on information available to the Commission from other sources. In this respect, and in accordance with the provisions of Article 18 of the basic Regulation, the Commission examined various statistical sources. The import statistics collected pursuant to Article 14(6) of the basic Regulation (‘Article 14(6) database’) provided the best information available to establish import quantities and prices for the Union market. Other sources such as Eurostat were not used because the product concerned could not be separated from other products also using the 8-digit code.
+
+3.2.2.
+
+*Dumping of imports during the RIP*
+
+(72)
+
+Article 14(6) database showed that there were no imports to the Union market from Malaysia. It was therefore concluded that no continuation of dumping had taken place during the RIP of Malaysian exports.
+
+3.2.3.
+
+*Evidence of likelihood of recurrence of dumping*
+
+(73)
+
+The Commission analysed whether there was a likelihood of recurrence of dumping should the measures lapse. When doing so, the following elements were analysed: export price to other destinations, the production capacity and spare capacity in Malaysia and the attractiveness of the Union market.
+
+3.2.3.1.
+
+Exports from Malaysia to other destinations
+
+(74)
+
+Due to the lack of imports of TPF from Malaysia to the Union market, the Commission resorted to using data from another country. The US was considered appropriate, since the market is of a similar size as the Union market, with many domestic producers but also with a large proportion of imports, making this market a very competitive one. In addition, the US is by far the largest destinations for exports from Malaysia, accounting, during the RIP, for 87 % of Malaysian exports. This approach is identical to the one applied in the previous investigation for Malaysia as well in the assessment of ‘likelihood of recurrence of injury’.
+
+(a)
+
+Normal value
+
+(75)
+
+In the absence of any cooperation from Malaysian exporting producers, the normal value was based, in accordance with Article 18 of the basic Regulation, on the data provided in the review request, namely estimated cost of manufacturing to which was added 6 % for SGA and profit, expressed as a percentage of ex-works cost. It is considered that the above percentage is conservative. This is corroborated by the fact that for the sole cooperator in this proceeding (TK Corporation, Korea) the actual figure was well above 6 %.
+
+(b)
+
+Export price
+
+(76)
+
+In accordance with Article 18 of the basic Regulation, and in the absence of cooperation from Malaysian exporting producers, the export price was calculated by using the Malaysian export prices for the product concerned to the US, derived from the US import statistics.
+
+(c)
+
+Comparison
+
+(77)
+
+The weighted average normal value was compared with the weighted average export price of TPF, in accordance with Article 2(11) of the basic Regulation, both at ex-works level.
+
+(78)
+
+For the purpose of ensuring a fair comparison between normal value and export price, account was taken of differences in factors affecting prices and price comparability in accordance with Article 2(10) of the basic Regulation. In this respect, the SGA and profit percentage mentioned above in recital 75 was on an ex-works basis and excluded inland and ocean freight, insurance, handling, loading and ancillary costs.
+
+(d)
+
+Dumping margin during the RIP
+
+(79)
+
+Following the methodology described above, which had also been employed in the first expiry review extending the measures (‘the measures in force’), the dumping margin found was 57,7 %.
+
+3.2.3.2.
+
+Malaysian production capacity
+
+(80)
+
+In the absence of cooperation from Malaysia, no information was submitted regarding production and spare capacity. The information in the request points at a total installed capacity in Malaysia of around 55 000 tonnes and a spare capacity of ca. 27 000 tonnes. The analysis leading to that volume accounted for excluding the manufacturing (capacity) of other products and it is therefore considered reasonable. The Malaysian spare capacity of 27 000 tonnes represents around 40 % of total Union consumption during the RIP.
+
+3.2.3.3.
+
+Attractiveness of the Union market
+
+(81)
+
+As concerns the development of the main user industry markets worldwide, as explained in recital 65 above, the Union market is one of the major markets for TPF and there is no information on the file which suggest that demand on those markets would shrink or increase to a significant extent in the coming years.
+
+(82)
+
+The investigation has revealed that the prices of the Union producers for sales on the Union market are higher than the Malaysian export prices to other export markets, in particular the US market. Indeed, the average Union market price is EUR 2 600/tonne, whereas US statistics show that the average US import price for Malaysian imports is EUR 1 600/tonne. Thus the Union market would be an attractive market for Malaysian exporters if the measures were repealed. This is highly relevant in view of the Malaysian spare capacity, but it is also recalled that currently 87 % of Malaysian exports are directed to the US where the Malaysian exporting producers sell at much lower prices.
+
+3.2.3.4.
+
+Conclusion on the likelihood of recurrence of dumping
+
+(83)
+
+Given the above, there is a likelihood that if measures were to lapse, dumping would recur. Malaysian sales of TPF to the US were found to be exported at dumped prices, with dumping margins of 57,7 %.
+
+(84)
+
+In addition, the Malaysian spare capacity is significant in comparison with the Union consumption during the RIP. In view of the price level in the Union, this capacity is likely to be used, at least partially, for exports to the Union if measures are repealed. It can also be expected that, in that case, a good part of the exports to the US will be redirected towards the Union market in view of the prevailing prices on the Union market as compared to those in the US.
+
+3.3.
+
+**Conclusion on the likelihood of a recurrence of dumping**
+
+(85)
+
+In the light of the above, i.e. the high dumping margins, the large spare capacities available in the countries concerned together with their high export capacities and the attractiveness of the Union market in terms of prices and size, it may be concluded that dumped imports from the Republic of Korea and Malaysia to the Union would resume if the measures were allowed to lapse.
+
+4\.
+
+**LIKELIHOOD OF RECURRENCE OF INJURY**
+
+4.1.
+
+**Definition of the Union industry and Union production**
+
+(86)
+
+The Union industry did not undergo any major structural changes compared to its situation as described in Council Regulation (EC) No 1001/2008 referred to above in recital 3. The like product was manufactured by 22 known producers in the Union during the RIP. They constitute the ‘Union industry’ within the meaning of Article 4(1) of the basic Regulation.
+
+(87)
+
+The total Union production during the RIP was established at around 57 736 tonnes. The Commission established this figure on the basis of all available facts concerning the Union industry, such as verified data of the sampled companies and data provided by the applicant.
+
+(88)
+
+The sampled companies/group of companies in the investigation represent 49 % of Union production and 45 % of Union sales (see recital 15 above). The data of the sample are thus representative for the situation of the Union industry.
+
+4.2.
+
+**Union consumption**
+
+(89)
+
+The Commission established the Union consumption on the basis of: (i) the volume of sales of the Union industry on the Union market based on data provided by the applicant; and (ii) imports from third countries based on Article 14(6) database.
+
+(90)
+
+Union consumption developed as follows:
+
+<table>
+<thead>
+<tr><td colspan="5"><em>Table 1</em></td></tr>
+<tr><td colspan="5"><strong>Union consumption (metric tonnes)</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Data provided by the applicant and Article 14(6) database</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><th>Total Union consumption</th><td>55 497</td><td>62 426</td><td>58 941</td><td>59 992</td></tr>
+<tr><th><em>Index (2010 = 100)</em></th><td><em>100</em></td><td><em>112</em></td><td><em>106</em></td><td><em>108</em></td></tr>
+</tbody>
+</table>
+
+(91)
+
+In 2011 the consumption increased by 12 % compared to the level in 2010. It decreased again in 2012 but remained above the level of 2010 (6 % increase). Between 2010 and the RIP Union consumption increased by 8 %.
+
+4.3.
+
+**Imports from the countries concerned**
+
+4.3.1.
+
+*Volume and market share of the imports from the countries concerned*
+
+**Republic of Korea**
+
+(92)
+
+The Commission established the volume of imports on the basis of information from Article 14(6) database. The market share of imports was established on the basis of data of Article 14(6) database and data provided by the applicant.
+
+(93)
+
+Imports to the Union from the Republic of Korea developed as follows:
+
+<table>
+<thead>
+<tr><td colspan="5"><em>Table 2</em></td></tr>
+<tr><td colspan="5"><strong>Import volume (metric tonnes) and market share</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Data provided by the applicant and Article 14(6) database</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><th>Volume of imports from the Republic of Korea (tonnes)</th><td>301</td><td>208</td><td>204</td><td>18</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>69</em></td><td><em>68</em></td><td><em>6</em></td></tr>
+<tr><th>Market share</th><td>0,5 %</td><td>0,3 %</td><td>0,3 %</td><td>0,03 %</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>62</em></td><td><em>64</em></td><td><em>6</em></td></tr>
+</tbody>
+</table>
+
+(94)
+
+During the period considered the volume of imports from the Republic of Korea was very low compared to the overall Union consumption. In the RIP the volume further decreased to 18 tonnes. The import levels have been at this low level since the imposition of the original measures in 2002 and can thus be assumed to be the result of the anti-dumping measures in force.
+
+**Malaysia**
+
+(95)
+
+The Commission established the volume of imports on the basis of information from Article 14(6) database. The market share of imports was established on the basis of data of Article 14(6) database and data provided by the applicant.
+
+(96)
+
+Imports into the Union from Malaysia developed as follows:
+
+<table>
+<thead>
+<tr><td colspan="5"><em>Table 3</em></td></tr>
+<tr><td colspan="5"><strong>Import volume (metric tonnes) and market share</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Data provided by the applicant and Article 14(6) database</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><th>Volume of imports from Malaysia (tonnes)</th><td>19,4</td><td>0,03</td><td>0,27</td><td>0,13</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>0</em></td><td><em>1</em></td><td><em>1</em></td></tr>
+<tr><th>Market share</th><td>0,03 %</td><td>0</td><td>0,0005 %</td><td>0,0002 %</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>0</em></td><td><em>1</em></td><td><em>1</em></td></tr>
+</tbody>
+</table>
+
+(97)
+
+During the period considered the volume of imports from Malaysia was very low compared to the overall Union consumption. The highest (but still very low) volume was imported in 2010 (19,4 tonnes) but since 2010 the volume of imports has virtually ceased. The import levels have fluctuated since the imposition of the original measures in 2002, but they have never reached the levels of pre-imposition of measures. It can thus be assumed that the very low of imports level since imposition of the original measures in 2002 is the result of the anti-dumping measures in force.
+
+4.3.2.
+
+*Prices of the imports from the countries concerned and price undercutting*
+
+**Republic of Korea**
+
+(98)
+
+During the RIP, the very few imports to the Union of the company cooperating in the investigation (TK Corporation) were significantly below the Union industry prices at CIF level. However, as stated in recital 32 above, there were doubts whether these products actually entered the Union customs territory.
+
+(99)
+
+Nevertheless the total of Korean imports to Union is very low — see recital 32 — as they only represent 0,03 % of Union market share (see Table 2 above). In view of the very limited imports from the Republic of Korea to the Union and in view of the large variety of different types of product the prices of these imports could not be used to determine the price undercutting.
+
+(100)
+
+Therefore the Commission used the export prices from Korea to the US and to other countries as a proxy to establish what would have been the undercutting if Korean companies sell at these prices to the Union.
+
+(101)
+
+As the exports worldwide of TK Corporation represented around 25 %-40 % of all of the exports of TPF from the Republic of Korea, these sales were considered representative of Korean export sales. These prices were thus used to make the comparison. The Commission adjusted upwards the export prices to take into account duty, loading and handling fee.
+
+(102)
+
+The undercutting margin thus found is 17 % for sales to US and 10 % for sales worldwide.
+
+**Malaysia**
+
+(103)
+
+No company in Malaysia cooperated with the investigation. Based on information from statistics of Article 14(6) database, the imports to the Union were negligible during the RIP (see Table 3 above). In view of the very limited imports from Malaysia and in view of the large variety of different types of product the prices of these imports could not be used to determine the price undercutting.
+
+(104)
+
+The Commission therefore established the price undercutting using the same methodology as in the previous expiry review, namely by comparing the export prices of Malaysia to the US with sales prices on the Union market. The Commission adjusted the export price to take into account duty, loading and handling fee.
+
+(105)
+
+The undercutting margin thus found is 34 % for sales to US. The Commission also compared the sales prices from Malaysia to other countries and the undercutting margin for those sales was 28 %.
+
+4.3.3.
+
+*Imports from third countries*
+
+(106)
+
+The following table shows the development of imports to the Union from other third countries during the period considered in terms of volume and market share, as well as the average price of these imports.
+
+<table>
+<thead>
+<tr><td colspan="6"><em>Table 4</em></td></tr>
+<tr><td colspan="6"><strong>Imports from third countries</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="6"><em>Source:</em> Article 14(6) database</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Country</th><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><td rowspan="5">People's Republic of China</td><td>Volume in tonnes</td><td>5 618</td><td>5 867</td><td>6 844</td><td>6 589</td></tr>
+<tr><td><em>Index</em></td><td><em>100</em></td><td><em>104</em></td><td><em>122</em></td><td><em>117</em></td></tr>
+<tr><td>Market share</td><td>10 %</td><td>9 %</td><td>12 %</td><td>11 %</td></tr>
+<tr><td>Average price</td><td>1 125</td><td>1 261</td><td>1 544</td><td>1 426</td></tr>
+<tr><td><em>Index</em></td><td><em>100</em></td><td><em>112</em></td><td><em>137</em></td><td><em>127</em></td></tr>
+<tr><td rowspan="5">Other third countries</td><td>Volume in tonnes</td><td>11 668</td><td>12 938</td><td>11 630</td><td>12 036</td></tr>
+<tr><td><em>Index</em></td><td><em>100</em></td><td><em>111</em></td><td><em>100</em></td><td><em>103</em></td></tr>
+<tr><td>Market share</td><td>21 %</td><td>21 %</td><td>20 %</td><td>20 %</td></tr>
+<tr><td>Average price</td><td>2 175</td><td>2 352</td><td>2 437</td><td>2 482</td></tr>
+<tr><td><em>Index</em></td><td><em>100</em></td><td><em>108</em></td><td><em>112</em></td><td><em>114</em></td></tr>
+<tr><td rowspan="5">Total of all third countries except the countries concerned</td><td>Volume in tonnes</td><td>17 286</td><td>18 805</td><td>18 474</td><td>18 625</td></tr>
+<tr><td><em>Index</em></td><td><em>100</em></td><td><em>109</em></td><td><em>107</em></td><td><em>108</em></td></tr>
+<tr><td>Market share</td><td>31 %</td><td>30,1 %</td><td>31,3 %</td><td>31 %</td></tr>
+<tr><td>Average price</td><td>1 834</td><td>2 011</td><td>2 106</td><td>2 108</td></tr>
+<tr><td><em>Index</em></td><td><em>100</em></td><td><em>110</em></td><td><em>115</em></td><td><em>115</em></td></tr>
+</tbody>
+</table>
+
+(107)
+
+The market share of imports originating in third countries other than the countries concerned reached 31 % of total Union consumption in RIP. The biggest market share is represented by imports from the People's Republic of China — 11 % of total Union consumption. In the RIP other substantial imports came from Thailand (4 % of the Union market), Vietnam (3 % of the Union market) and Saudi Arabia (from no imports in 2010 to 4 % market share in RIP).
+
+(108)
+
+The prices at which these imports entered the Union were relatively low in comparison to the average Union industry prices, in particular the imports from the People's Republic of China. Even with the anti-dumping duties of 58,6 % on imports from the People's Republic of China, the average price of Chinese imports is lower than Union domestic price (see Table 4 above).
+
+4.4.
+
+**Economic situation of the Union industry**
+
+4.4.1.
+
+*General remarks*
+
+(109)
+
+In accordance with Article 3(5) of the basic Regulation, the examination of the impact of the dumped imports on the Union industry included an evaluation of all economic indicators having a bearing on the state of the Union industry during the period considered.
+
+(110)
+
+For the injury analysis, the Commission distinguished between macroeconomic and microeconomic injury indicators. The Commission evaluated the macroeconomic indicators on the basis of data contained in the request for review and from statistics. The data relate to all known Union producers. The Commission evaluated the microeconomic indicators on the basis of data contained in the questionnaire replies from the sampled Union producers. The data relate to the sampled Union producers. Both sets of data have been found to be representative of the economic situation of the Union industry.
+
+(111)
+
+The macroeconomic indicators are: production, production capacity, capacity utilisation, sales volume, market share, growth, employment, productivity, magnitude of the dumping margin, and recovery from past dumping.
+
+(112)
+
+The microeconomic indicators are: average unit prices, unit cost, labour costs, inventories, profitability, cash flow, investments, return on investments, and ability to raise capital. Figures relating to the microeconomic indicators are based on verified data from the two sampled companies or group of companies only. These data are therefore only provided in indexed form or in ranges in order to ensure that its confidential nature is preserved.
+
+4.4.2.
+
+*Macroeconomic indicators*
+
+4.4.2.1.
+
+Production, production capacity and capacity utilisation
+
+(113)
+
+The total Union production, production capacity and capacity utilisation developed over the period considered as follows:
+
+<table>
+<thead>
+<tr><td colspan="5"><em>Table 5</em></td></tr>
+<tr><td colspan="5"><strong>Production, production capacity and capacity utilisation</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Request</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><th>Production volume (in tonnes)</th><td>48 017</td><td>52 754</td><td>55 787</td><td>57 736</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>110</em></td><td><em>116</em></td><td><em>120</em></td></tr>
+<tr><th>Production capacity (in tonnes)</th><td>179 912</td><td>180 364</td><td>180 364</td><td>180 364</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>100,3</em></td><td><em>100,3</em></td><td><em>100,3</em></td></tr>
+<tr><th>Capacity utilisation</th><td>26,7 %</td><td>29,2 %</td><td>30,9 %</td><td>32 %</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>110</em></td><td><em>116</em></td><td><em>120</em></td></tr>
+</tbody>
+</table>
+
+(114)
+
+The production volume increased by 20 % during the period considered. Since the Union consumption only increased by 8 % in the same period, the remaining part of the production was exported.
+
+(115)
+
+The capacity utilisation during the RIP appears to be low (32 % in the RIP). The reported capacity depicted in the table above was based, in line with the standard practice of this particular industry and the method used in the previous proceedings, on the theoretical maximum capacity on the basis of 3 shifts/day, 6 days/week, 48 weeks/year. However, in reality, the industry is only operating on the basis of 2 shifts/day, 5 days/week, 48 weeks/year. The reported capacity does therefore not necessarily reflect accurately the actual capacity during the RIP.
+
+(116)
+
+The capacity utilisation slightly increased during the period considered. The increase by 20 % of capacity utilisation reflects the increase of production volume in the period considered.
+
+4.4.2.2.
+
+Sales volume and market share
+
+(117)
+
+The Union industry's sales volume and market share developed over the period considered as follows:
+
+<table>
+<thead>
+<tr><td colspan="5"><em>Table 6</em></td></tr>
+<tr><td colspan="5"><strong>Sales volume and market share</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Request</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><th>Sales volume on the Union market (in tonnes)</th><td>38 185</td><td>43 414</td><td>40 262</td><td>41 350</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>114</em></td><td><em>105</em></td><td><em>109</em></td></tr>
+<tr><th>Market share</th><td>68,8 %</td><td>69,5 %</td><td>68,3 %</td><td>68,9 %</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>101</em></td><td><em>99</em></td><td><em>100</em></td></tr>
+</tbody>
+</table>
+
+(118)
+
+The sales volumes on the Union market increased by 14 % in 2011 compared to volumes sold in 2010. The sales volumes subsequently decreased to 41 350 tonnes representing an increase of 9 % over the period considered.
+
+(119)
+
+The market share of the Union industry remained more or less stable throughout the period considered.
+
+4.4.2.3.
+
+Growth
+
+(120)
+
+In line with the moderate growth in Union consumption during the period considered (+ 8 %) the Union producers' sales grew by 9 %.
+
+4.4.2.4.
+
+Employment and productivity
+
+(121)
+
+Employment and productivity developed over the period considered as follows:
+
+<table>
+<thead>
+<tr><td colspan="5"><em>Table 7</em></td></tr>
+<tr><td colspan="5"><strong>Employment and productivity</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Request</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><th>Number of employees</th><td>1 064</td><td>1 022</td><td>979</td><td>957</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>96</em></td><td><em>92</em></td><td><em>90</em></td></tr>
+<tr><th>Productivity (unit/employee)</th><td>45</td><td>52</td><td>57</td><td>60</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>114</em></td><td><em>126</em></td><td><em>134</em></td></tr>
+</tbody>
+</table>
+
+(122)
+
+During the period considered the number of employees progressively decreased by 10 %. As a result, together with the increase of production the productivity of the Union producers' workforce, measured as output (tonnes) per person employed per year, increased by 34 % between 2010 and the RIP.
+
+4.4.3.
+
+*Microeconomic indicators*
+
+4.4.3.1.
+
+Prices and factors affecting prices
+
+(123)
+
+The weighted average unit sales prices of the sampled Union producers to unrelated customers in the Union developed over the period considered as follows:
+
+<table>
+<thead>
+<tr><td colspan="5"><em>Table 8</em></td></tr>
+<tr><td colspan="5"><strong>Sales prices in the Union</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Verified data of the sampled companies</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><th>Average unit selling price in the Union on the total market (EUR/tonnes)</th><td>2 500-3 000</td><td>2 500-3 000</td><td>2 400-2 900</td><td>2 300-2 800</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>100</em></td><td><em>98</em></td><td><em>94</em></td></tr>
+<tr><th>Unit cost of production (EUR/tonnes)</th><td>3 500-4 000</td><td>3 300-3 800</td><td>3 400-3 900</td><td>3 300-3 800</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>94</em></td><td><em>97</em></td><td><em>94</em></td></tr>
+</tbody>
+</table>
+
+(124)
+
+During the period considered the sales prices in the Union decreased by 6 %. While the prices remained relatively stable between 2010 and 2012 the biggest decrease occurred between 2011 and the RIP.
+
+(125)
+
+Due to the important part of fixed costs in the production the increase in production by 20 % during the RIP resulted in the decrease of unit cost of production. The average unit selling price decreased accordingly.
+
+4.4.3.2.
+
+Labour costs
+
+(126)
+
+The average labour costs of the sampled Union producers developed over the period considered as follows:
+
+<table>
+<thead>
+<tr><td colspan="5"><em>Table 9</em></td></tr>
+<tr><td colspan="5"><strong>Average labour costs per employee</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Verified data of the sampled companies</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><th>Average wages per employee (EUR)</th><td>45 000-50 000</td><td>50 000-55 000</td><td>51 000-56 000</td><td>52 000-57 000</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>107</em></td><td><em>108</em></td><td><em>110</em></td></tr>
+</tbody>
+</table>
+
+(127)
+
+The average labour costs per employee had an increasing trend in the period considered. Between 2010 and the RIP the average labour costs per employee increased by 10 %.
+
+4.4.3.3.
+
+Inventories
+
+(128)
+
+Stock levels of the sampled Union producers developed over the period considered as follows:
+
+<table>
+<thead>
+<tr><td colspan="5"><em>Table 10</em></td></tr>
+<tr><td colspan="5"><strong>Inventories</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Verified data of the sampled companies</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><th>Closing stocks (in tonnes)</th><td>5 500-6 000</td><td>5 000-5 500</td><td>5 600-6 100</td><td>6 000-6 500</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>93</em></td><td><em>104</em></td><td><em>111</em></td></tr>
+<tr><th>Closing stocks as a percentage of production</th><td>25 %-30 %</td><td>20 %-25 %</td><td>21 %-26 %</td><td>22 %-27 %</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>79</em></td><td><em>83</em></td><td><em>87</em></td></tr>
+</tbody>
+</table>
+
+(129)
+
+The closing stock first decreased in 2011 by 7 % compared to 2010 and then increased by 11 % in the RIP compared to 2010. Compared to the level of production, the closing stock decreased by 13 % between 2010 and the RIP.
+
+4.4.3.4.
+
+Profitability, cash flow, investments, return on investments and ability to raise capital
+
+(130)
+
+Profitability, cash flow, investments and return on investments of the sampled Union producers developed over the period considered as follows:
+
+<table>
+<thead>
+<tr><td colspan="5"><em>Table 11</em></td></tr>
+<tr><td colspan="5"><strong>Profitability, cash flow, investments and return on investments</strong></td></tr>
+</thead>
+<tfoot>
+<tr><td colspan="5"><em>Source:</em> Verified data of the sampled companies</td></tr>
+</tfoot>
+<tbody>
+<tr><th></th><th>2010</th><th>2011</th><th>2012</th><th>RIP</th></tr>
+<tr><th>Profitability of sales in the Union to unrelated customers (% of sales turnover)</th><td>– 20 %/– 15 %</td><td>– 15 %/– 10 %</td><td>– 10 %/– 5 %</td><td>– 14 %/– 9 %</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>118</em></td><td><em>151</em></td><td><em>133</em></td></tr>
+<tr><th>Cash flow (EUR) (index)</th><td>100</td><td>– 10 515</td><td>– 6 086</td><td>– 8 933</td></tr>
+<tr><th>Investments (EUR) (index)</th><td>100</td><td>115</td><td>112</td><td>105</td></tr>
+<tr><th>Return on investments</th><td>– 25 %/– 20 %</td><td>– 45 %/– 40 %</td><td>– 40 %/– 35 %</td><td>– 45 %/– 40 %</td></tr>
+<tr><th><em>Index</em></th><td><em>100</em></td><td><em>81</em></td><td><em>64</em></td><td><em>80</em></td></tr>
+</tbody>
+</table>
+
+(131)
+
+The Commission established the profitability of the sampled Union producers by expressing the pre-tax net profit of the sales of the like product to unrelated customers in the Union as a percentage of the turnover of those sales.
+
+(132)
+
+During the period considered the Union industry suffered significant losses. In 2010 the industry registered a loss of – 20 %/– 15 %. Between 2010 and the RIP the losses decreased by 33 % but the result still remained negative in the RIP – 14 %/– 9 %. The net cash flow is the ability of the Union producers to self-finance their activities. The cash flow was positive in 2010. It suddenly fell in 2011 reaching negative values and remained negative in the RIP.
+
+(133)
+
+The investments followed an increasing trend. Compared to 2010 it increased by 15 % in 2011 and by 12 % in 2012, and remained above the level of 2010 by 5 % during RIP.
+
+(134)
+
+The return on investments is the profit in percentage of the net book value of investments. It was at – 25 %/– 20 % in 2010 then fell to around – 45 %/– 40 % where it remained in the RIP.
+
+4.4.3.5.
+
+Magnitude of the dumping margin and recovery from past dumping
+
+(135)
+
+As the imports from the countries concerned substantially decreased and were negligible during the period considered (see Tables 2 and 3 above), the magnitude of dumping margins cannot be assessed. However, in the light of the assessment referred to below in recitals 136-144, the Union industry was found to be still in a fragile and vulnerable situation.
+
+4.5.
+
+**Conclusion on the situation of the Union industry**
+
+(136)
+
+In Regulation (EC) No 1001/2008, the Council concluded that the anti-dumping measures on the imports of the product concerned from the Republic of Korea and Malaysia introduced in 2002 led to only a partial recovery of the Union industry. The (positive) development during the period considered in the previous review (January 2002-June 2007) of the injury indicators was to a large extent due to the boost in demand in 2007 and 2008.
+
+(137)
+
+After 2008 the situation of the Union industry however substantially deteriorated (compared to the situation in 2007 and 2008). This development was to a major extent due to the drop in demand after 2008.
+
+(138)
+
+Some of the indicators show a positive development since 2010. For instance, between 2010 and the RIP, the Union production increased by 20 %. This increase was partly due to the increase in the Union consumption which increased by 8 % during the same period. The increase in production resulted in a better capacity utilisation which increased by more than 20 %. The sales volumes of the Union industry increased by 9 % which correspond to the increase of Union consumption while market share of the Union companies remained the same. As the consequence of a reduction in the number of employees by 10 % the productivity also increased (by 34 %).
+
+(139)
+
+The capacity utilisation was however low. This is partly explained by the fact that the existing infrastructure was planned to be used at 3 shifts/day and 6 days/week, and the maximum capacity was calculated accordingly. However, during the period considered, Union industry was only working at two shifts/per day on 5 days/week.
+
+(140)
+
+Because of an important share of fixed costs in the production, the Union industry remained in important losses during the period considered. Despite the improvement by 30 % of the financial results between 2010 and the RIP, the losses were still significant in the RIP (loss in the range between – 14 % and – 9 %).
+
+(141)
+
+These important losses together with the significant negative cash flow are important indicators showing the vulnerable situation of the Union industry.
+
+(142)
+
+It is noted that Council Regulation (EU) No 78/2013 by which anti-dumping measures were imposed against imports of the product concerned from Russia and Turkey found that the Union industry was in an injurious and dire economic situation. The period considered by that proceeding started from January 2008 to September 2011 and partially overlaps with the period considered under the current investigation[^f00025].
+
+(143)
+
+The measures adopted in the abovementioned regulation appear to have had a positive impact since several injury indicators (for example production, capacity utilisation, profitability, productivity and consumption) show a positive trend. However, as the current investigation has demonstrated, the Union industry has not fully recovered from past dumping.
+
+(144)
+
+Therefore, the Commission concludes that the Union industry is still in a vulnerable situation and, in some aspects, far from the levels that could be expected had it recovered fully from the injury found in the previous investigations.
+
+5\.
+
+**LIKELIHOOD OF RECURRENCE OF INJURY**
+
+5.1.
+
+**Impact of the projected volume of imports and price effects in case of repeal of measures**
+
+(145)
+
+In recital 85, the Commission concluded that the repeal of the measures would in all likelihood result in a recurrence of dumped imports from the countries concerned.
+
+(146)
+
+The investigation has shown that the situation of the Union industry is vulnerable. Although the situation slightly improved in the RIP, during the period under consideration the Union industry never achieved any profits.
+
+(147)
+
+Therefore, any recurrence of dumped imports from the countries concerned would further deteriorate the precarious situation of the Union industry. These imports are susceptible to take over the market share of the Union industry on the Union market. This would result in even lower capacity utilisation by the Union industry which is one of the crucial elements contributing to the negative results of the Union industry over the period considered.
+
+(148)
+
+Any recurrence of dumped imports would exercise an even stronger price pressure on the Union industry and would thus contribute to further deterioration of the financial results of the Union industry.
+
+(149)
+
+The Commission therefore concludes that the repeal of measures against the Republic of Korea and Malaysia would in all likelihood result in a recurrence of dumped imports from these countries resulting in a downward pressure on Union industry prices, sales volumes and market share and a worsening of its economic situation. The repeal of measures against the Republic of Korea and Malaysia would therefore likely result in a recurrence of injury due to the likely exacerbation of the already bad economic situation in which the Union industry was currently found to be.
+
+6\.
+
+**UNION INTEREST**
+
+(150)
+
+In accordance with Article 21 of the basic Regulation, the Commission examined whether maintaining the existing anti-dumping measures against the Republic of Korea and Malaysia would be against the interest of the Union as a whole. The determination of the Union interest was based on an appreciation of all the various interests involved, including those of the Union industry, importers, wholesalers, and users.
+
+(151)
+
+All interested parties were given the opportunity to make their views known pursuant to Article 21(2) of the basic Regulation.
+
+(152)
+
+In the original investigation the imposition of measures was considered not to be against the interest of the Union. As this investigation is a review and measures have been in place since 2002 the analysis thereby allows the assessment of any undue negative impact on the parties concerned by the anti-dumping measures in place.
+
+(153)
+
+On this basis it was examined whether, despite the conclusions on recurrence of dumping and likelihood on recurrence of injury, compelling reasons existed which would lead to the conclusion that it was not in the Union interest to maintain the existing measures.
+
+6.1.
+
+**Interest of the Union industry**
+
+(154)
+
+Although the anti-dumping measures in force prevented dumped imports from entering the Union market, the Union industry is in a fragile situation, as confirmed by the negative trends of some key injury indicators.
+
+(155)
+
+Should the measures be allowed to lapse, it is likely that the likely influx of substantial volumes of dumped imports from the countries concerned would cause injury to recur. This influx would likely cause, amongst others, loss of market share, decrease in sales price, decrease in capacity utilisation and in general a serious deterioration of the Union industry's financial situation.
+
+(156)
+
+The Commission thus concludes that the maintenance of anti-dumping measures against the Republic of Korea and Malaysia would not be against the interest of the Union industry.
+
+6.2.
+
+**Interest of unrelated importers and users**
+
+(157)
+
+In the original investigation it was found that the impact of the imposition of measures was not likely to have a serious negative effect on the situation of importers and users in the Union. None of the importers or users cooperated in the current investigation. Bearing in mind that there is no evidence suggesting that the measures in force have considerably affected these groups, it can be concluded that the continuation of measures will not negatively affect the importers and users Union importers to any significant extent.
+
+6.3.
+
+**Conclusion on Union interest**
+
+(158)
+
+On the basis of the above, the Commission concluded that there were no compelling reasons that it is not in the Union interest to impose measures on imports of the TPF originating in the Republic of Korea and Malaysia.
+
+7\.
+
+**ANTI-DUMPING MEASURES**
+
+(159)
+
+It follows from the above considerations that, under Article 11(2) of the basic Regulation, the anti-dumping measures applicable to imports of certain tube and pipe fittings originating in the Republic of Korea and Malaysia should be maintained.
+
+(160)
+
+Nevertheless, as demonstrated by this investigation the global situation of the Union industry is gradually improving, and the imposition in 2013 of definitive anti-dumping measures against imports from Russia and Turkey of the same product (see recital 5) appears to have had an additional positive effect on the situation of the Union industry, as explained in recital 143. Consequently it was assessed that, considering the overall injury analysis and the likely market developments with the measures in place, a shorter period than five years may be enough for the Union industry to complete its economic and financial recovery.
+
+(161)
+
+Moreover, the situation of the Union industry and the injury analysis cannot be assessed only considering the (potential) imports of the product concerned from the Republic of Korea and Malaysia — the situation of the Union industry is affected by other imports and the measures against these imports, such as in particular the abovementioned measures against Russia and Turkey.
+
+(162)
+
+Therefore, it is considered that in light of the specific circumstances of this case, the measures should exceptionally not be extended for the full five-year period provided under the basic Regulation, but that they should expire at the same time as the definitive measures on imports from Turkey and Russia, in particular. Such alignment of the duration of the measures would also allow for a comprehensive and coherent examination of the effects on the Union industry of possible dumping practices, should such a review be necessary in the future.
+
+(163)
+
+These measures currently in force against imports of TPF from Russia and Turkey are due to expire on 29 January 2018. Accordingly, the definitive anti-dumping measures against imports of TPF originating in Korea and Malaysia should be accordingly aligned and should therefore expire on the same date.
+
+(164)
+
+The Defence Committee of the Steel Butt-Welding Fittings Industry of the European Union agrees that the proposed expiry date would allow for a joint review proceeding in the future should one be requested and thus a comprehensive dumping and injury analysis covering imports from several countries. They claimed however that after the review investigation period (RIP) total imports from all countries of the product concerned have massively increased whilst the average price of those imports have sharply decreased. This post-RIP development has allegedly led to a worsening of the Union industry's situation and the conditions for imposing definitive anti-dumping measures for a period of less than five years are therefore no longer present.
+
+(165)
+
+The Commission notes that the alleged post-RIP development (i.e. increased imports at decreased prices) is based on publicly available Eurostat data, which includes product types that are not covered by the current investigation. Post-RIP import statistics that are available to the Commission and which relate only to the product concerned, indicates however that the imports have decreased post-RIP by 10-15 % albeit the average price of those imports have also decreased (15-20 %). The Commission considers that the post-RIP development of imports of the product concerned, in the absence of any other supporting evidence regarding the Union industry's situation, does not render the Commission's conclusions as regard the appropriate period for imposing definitive anti-dumping measures, invalid (see recitals 160-163). This claim is therefore rejected.
+
+(166)
+
+Accordingly, and in view of the conclusions reached with regard to the likelihood of recurrence of dumping and injury, it follows that the anti-dumping measures in force applicable to imports of tube and pipe fittings originating in the Republic of Korea and Malaysia, maintained by Council Regulation (EC) No 1001/2008 as last amended by Council Regulation (EU) No 363/2010, should be maintained until 29 January 2018.
+
+(167)
+
+The Committee established by Article 15(1) of the basic Regulation did not deliver an opinion,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** 1. A definitive anti-dumping duty is imposed on imports of tube and pipe fittings (other than cast fittings, flanges and threaded fittings), of iron or steel (not including stainless steel), with a greatest external diameter not exceeding 609,6 mm, of a kind used for butt-welding or other purposes, currently falling within CN codes ex 7307 93 11, ex 7307 93 19 and ex 7307 99 80 (TARIC codes 7307 93 11 91, 7307 93 11 93, 7307 93 11 94, 7307 93 11 95, 7307 93 11 99, 7307 93 19 91, 7307 93 19 93, 7307 93 19 94, 7307 93 19 95, 7307 93 19 99, 7307 99 80 92, 7307 99 80 93, 7307 99 80 94, 7307 99 80 95 and 7307 99 80 98) and originating in the Republic of Korea and Malaysia.
+
+2. The rate of the definitive anti-dumping duty applicable to the net, free-at-Union-frontier price, before duty, of the products described in paragraph 1 and produced by the companies listed below shall be as follows:
+
+<table>
+<tbody>
+<tr><th>Country</th><th>Company</th><th>Rate of duty (%)</th><th>TARIC codes</th></tr>
+<tr><td rowspan="3">Malaysia</td><td>Anggerik Laksana Sdn Bhd, Selangor Darul Ehsan</td><td>59,2</td><td>A324</td></tr>
+<tr><td>Pantech Steel Industries Sdn Bhd</td><td>49,9</td><td>A961</td></tr>
+<tr><td>All other companies</td><td>75,0</td><td>A999</td></tr>
+<tr><td>Republic of Korea</td><td>All companies</td><td>44,0</td><td>—</td></tr>
+<tr><td rowspan="2">Republic of Korea</td><td>TK Corporation, 1499-1, Songjeong-Dong, Gangseo-Gu, Busan</td><td>32,4</td><td>C066</td></tr>
+<tr><td>All other companies</td><td>44,0</td><td>C999</td></tr>
+</tbody>
+</table>
+
+[^c000001]
+
+3. Unless otherwise specified, the provisions in force concerning customs duties shall apply.
+
+**Article 2.** This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+It shall expire on 29 January 2018.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 343, 22.12.2009, p. 51](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.343.01.0051.01.ENG).
+
+[^f00002]: Footnote: Council Regulation (EC) No 1514/2002 of 19 August 2002 imposing a definitive anti-dumping duty and collecting definitely the provisional duty imposed on imports of certain tube and pipe fittings, of iron or steel originating in the Czech Republic, Malaysia, Russia, the Republic of Korea and Slovakia ([OJ L 228, 24.8.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.228.01.0001.01.ENG)).
+
+[^f00003]: Footnote: Council Regulation (EC) No 1001/2008 of 13 October 2008 imposing a definitive duty on imports of certain tube and pipe fittings, of iron or steel, originating in the Republic of Korea and Malaysia following an expiry review pursuant to Article 11(2) of Regulation (EC) No 384/96 ([OJ L 275, 16.10.2008, p. 18](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.275.01.0018.01.ENG)).
+
+[^f00004]: Footnote: Implementing Regulation of the Council (EU) No 363/2010 of 26 April 2010 amending Regulation (EC) No 2001/2008 imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings of iron or steel originating, inter alia, in Malaysia ([OJ L 107, 29.4.2010, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.107.01.0001.01.ENG)).
+
+[^f00005]: Footnote: Council Regulation (EC) No 803/2009 of 27 August 2009 imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the People's Republic of China and Thailand, and those consigned from Taiwan, whether declared as originating in Taiwan, or not, and repealing the exemption granted to Chun Hsin Enterprise Co. Ltd and Nian Hong Pipe Fittings Co. Ltd ([OJ L 233, 4.9.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.233.01.0001.01.ENG)).
+
+[^f00006]: Footnote: Ibid.
+
+[^f00007]: Footnote: Council Regulation (EC) No 2052/2004 of 22 November 2004 extending the definitive anti-dumping duty imposed by Regulation (EC) No 964/2003 on imports of tube or pipe fittings, of iron or steel, originating in the People's Republic of China to imports of tube or pipe fittings, of iron or steel, consigned from Indonesia, whether declared as originating in Indonesia or not ([OJ L 355, 1.12.2004, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.355.01.0004.01.ENG)).
+
+[^f00008]: Footnote: Council Regulation (EC) No 2053/2004 of 22 November 2004 extending the definitive anti-dumping duty imposed by Regulation (EC) No 964/2003 on imports of tube or pipe fittings, of iron or steel, originating in the People's Republic of China to imports of tube or pipe fittings, of iron or steel, consigned from Sri Lanka, whether declared as originating in Sri Lanka or not ([OJ L 355, 1.12.2004, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.355.01.0009.01.ENG)).
+
+[^f00009]: Footnote: Council Regulation (EC) No 655/2006 of 27 April 2006 extending the definitive anti-dumping duty imposed by Regulation (EC) No 964/2003 on imports of tube or pipe fittings, of iron or steel, originating in the People's Republic of China to imports of tube or pipe fittings, of iron or steel, consigned from the Philippines, whether declared as originating in the Philippines or not ([OJ L 116, 29.4.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.116.01.0001.01.ENG)).
+
+[^f00010]: Footnote: Notice of initiation of an expiry review of the anti-dumping measures applicable to imports of certain tube and pipe fittings of iron or steel originating in the People's Republic of China and extended to Taiwan, Indonesia, Sri Lanka and the Philippines ([OJ C 295, 3.9.2014, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2014.295.01.0006.01.ENG)).
+
+[^f00011]: Footnote: Council Implementing Regulation (EC) No 78/2013 of 17 January 2013 imposing a definitive ant-dumping duty and collecting definitely the provisional duty imposed on imports of certain tube and pipe fittings of iron or steel originating in Russia and Turkey ([OJ L 27, 29.1.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.027.01.0001.01.ENG)).
+
+[^f00012]: Footnote: Notice of the impending expiry of certain anti-dumping measures ([OJ C 36, 8.2.2013, p. 24](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2013.036.01.0024.01.ENG)).
+
+[^f00013]: Footnote: Notice of initiation of an expiry review of the anti-dumping measures applicable to imports of certain tube and pipe fittings of iron or steel originating in the Republic of Korea and Malaysia ([OJ C 299, 15.10.2013, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2013.299.01.0004.01.ENG)).
+
+[^f00025]: Footnote: See more details in Commission Regulation (EU) No 699/2012 imposing a provisional anti-dumping duty, [OJ L 203, 31.7.2012, p. 37](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.203.01.0037.01.ENG).
+
+[^c000001]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2016/306 of 3 March 2016 amending Implementing Regulation (EU) No 1283/2014 imposing a definitive anti-dumping duty on imports of certain tube and pipe fittings, of iron or steel, originating in the Republic of Korea and Malaysia following an interim review pursuant to Article 11(3) of Council Regulation (EC) No 1225/2009](https://www.legislation.gov.uk/eur/2016/306).

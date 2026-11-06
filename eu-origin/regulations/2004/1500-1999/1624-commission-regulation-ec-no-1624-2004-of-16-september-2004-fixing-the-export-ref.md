@@ -1,0 +1,128 @@
+---
+title: Commission Regulation (EC) No 1624/2004 of 16 September 2004 fixing the export refunds on pigmeat
+id: eur/2004/1624
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2004-09-16'
+text_date: '2004-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2004/1624
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2004/1624/pdfs/eur_20041624_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2004/1624/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 1624/2004 of 16 September 2004 fixing the export refunds on pigmeat
+
+> Text as at 2004-09-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 1624/2004
+
+of 16 September 2004
+
+fixing the export refunds on pigmeat
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 2759/75 of 29 October 1975 on the common organisation of the market in pigmeat[^f00001], and in particular the second paragraph of Article 13(3) thereof,
+
+Whereas:
+
+(1)
+
+Article 13 of Regulation (EEC) No 2759/75 provides that the difference between prices on the world market for the products listed in Article 1(1) of that Regulation and prices for these products within the Community may be covered by an export refund.
+
+(2)
+
+It follows from applying these rules and criteria to the present situation on the market in pigmeat that the refund should be fixed as set out below.
+
+(3)
+
+In the case of products falling within CN code 0210 19 81, the refund should be limited to an amount which takes account of the qualitative characteristics of each of the products falling within these codes and of the foreseeable trend of production costs on the world market. It is important that the Community should continue to take part in international trade in the case of certain typical Italian products falling within CN code 0210 19 81.
+
+(4)
+
+Because of the conditions of competition in certain third countries, which are traditionally importers of products falling within CN codes 1601 00 and 1602, the refund for these products should be fixed so as to take this situation into account. Steps should be taken to ensure that the refund is granted only for the net weight of the edible substances, to the exclusion of the net weight of the bones possibly contained in the said preparations.
+
+(5)
+
+Article 13 of Regulation (EEC) No 2759/75 provides that the world market situation or the specific requirements of certain markets may make it necessary to vary the refund on the products listed in Article 1 of Regulation (EEC) No 2759/75 according to destination.
+
+(6)
+
+The refunds should be fixed taking account of the amendments to the refund nomenclature established by Commission Regulation (EEC) No 3846/87[^f00002].
+
+(7)
+
+Refunds should be granted only on products that are allowed to circulate freely within the Community. Therefore, to be eligible for a refund, products should be required to bear the health mark laid down in Council Directive 64/433/EEC[^f00003], Council Directive 94/65/EC[^f00004] and Council Directive 77/99/EEC[^f00005].
+
+(8)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Pigmeat,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** The list of products on which the export refund specified in Article 13 of Regulation (EEC) No 2759/75 is granted and the amount of the refund shall be as set out in the Annex hereto.
+
+The products concerned must comply with the relevant provisions on health marks laid down in:
+
+- Chapter XI of Annex I to Directive 64/433/EEC,
+- Chapter VI of Annex I to Directive 94/65/EC,
+- Chapter VI of Annex B to Directive 77/99/EEC.
+
+**Article 2.** This Regulation shall enter into force on 20 September 2004.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 16 September 2004.
+
+*For the Commission*
+
+Franz Fischler
+
+*Member of the Commission*
+
+## ANNEX — to the Commission Regulation of 16 September 2004 fixing the export refunds on pigmeat
+
+<table>
+<tfoot>
+<tr><td colspan="4"><em>NB:</em> The product codes and the ‘A’ series destination codes are set out in Commission Regulation (EEC) No 3846/87 (<a href="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.366.01.0001.01.ENG">OJ L 366, 27.3.2002, p. 1</a>) as amended.<br>The numeric destination codes are set out in Commission Regulation (EC) No 2081/2003 (<a href="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.313.01.0011.01.ENG">OJ L 313, 28.11.2003, p. 11</a>).<br>The other destinations are defined as follows:<br>P08<br>All destinations except for Bulgaria and Romania</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Product code</th><th>Destination</th><th>Unit of measurement</th><th>Amount of refund</th></tr>
+<tr><td>0210 11 31 9110</td><td>P08</td><td>EUR/100 kg</td><td>59,5</td></tr>
+<tr><td>0210 11 31 9910</td><td>P08</td><td>EUR/100 kg</td><td>59,5</td></tr>
+<tr><td>0210 19 81 9100</td><td>P08</td><td>EUR/100 kg</td><td>59,5</td></tr>
+<tr><td>0210 19 81 9300</td><td>P08</td><td>EUR/100 kg</td><td>59,5</td></tr>
+<tr><td>1601 00 91 9120</td><td>P08</td><td>EUR/100 kg</td><td>21,5</td></tr>
+<tr><td>1601 00 99 9110</td><td>P08</td><td>EUR/100 kg</td><td>16,5</td></tr>
+<tr><td>1602 41 10 9110</td><td>P08</td><td>EUR/100 kg</td><td>32,0</td></tr>
+<tr><td>1602 41 10 9130</td><td>P08</td><td>EUR/100 kg</td><td>19,0</td></tr>
+<tr><td>1602 42 10 9110</td><td>P08</td><td>EUR/100 kg</td><td>25,0</td></tr>
+<tr><td>1602 42 10 9130</td><td>P08</td><td>EUR/100 kg</td><td>19,0</td></tr>
+<tr><td>1602 49 19 9130</td><td>P08</td><td>EUR/100 kg</td><td>19,0</td></tr>
+</tbody>
+</table>
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 282, 1.11.1975, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1975.282.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 1365/2000 ([OJ L 156, 29.6.2000, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.156.01.0005.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 366, 24.12.1987, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.366.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 2180/2003 ([OJ L 335, 22.12.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.335.01.0001.01.ENG)).
+
+[^f00003]: Footnote: [OJ 121, 29.7.1964, p. 2012/64](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:P:1964:121:TOC). Directive as last amended by Directive 95/23/EC ([OJ L 243, 11.10.1995, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1995.243.01.0007.01.ENG)).
+
+[^f00004]: Footnote: [OJ L 368, 31.12.1994, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1994.368.01.0010.01.ENG).
+
+[^f00005]: Footnote: [OJ L 26, 31.1.1977, p. 85](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1977.026.01.0085.01.ENG). Directive as last amended by Directive 97/76/EC ([OJ L 10, 16.1.1998, p. 25](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.010.01.0025.01.ENG)).

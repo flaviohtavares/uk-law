@@ -1,0 +1,35 @@
+---
+title: Commission Implementing Regulation (EU) No 404/2011 of 8 April 2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy, section Article 45
+act: Commission Implementing Regulation (EU) No 404/2011 of 8 April 2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy
+section: Article 45
+status: revised
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2011/404/section/Article 45
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Implementing Regulation (EU) No 404/2011 of 8 April 2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy, section Article 45
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 45. Exchange of data ...[^c000001][^key-27b3f1c896bbd7d8a8d84071f09f3979]
+
+*Extent: E+W+S+N.I.*
+
+A fisheries administration must[^key-ebf645a9716dae27f9138a39a5d90a3f]:
+
+- ((a)) ensure that data received according to this Chapter are recorded in computer-readable form and safely stored in computerised databases for at least 3 years;
+- ((b)) take all necessary measures to ensure that the data are only used for purposes as provided for in this Regulation; and
+- ((c)) take all necessary technical measures to protect such data against any accidental or illicit destruction, accidental loss, deterioration, distribution or unauthorised consultation.
+
+## Annotations
+
+[^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2015/1962 of 28 October 2015 amending Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy](https://www.legislation.gov.uk/eur/2015/1962).
+
+[^key-27b3f1c896bbd7d8a8d84071f09f3979]: Textual amendment: Words in [Art. 45](https://www.legislation.gov.uk/eur/2011/404/article/45) heading omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(41)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/41/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ebf645a9716dae27f9138a39a5d90a3f]: Textual amendment: Words in [Art. 45](https://www.legislation.gov.uk/eur/2011/404/article/45) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(41)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/41/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

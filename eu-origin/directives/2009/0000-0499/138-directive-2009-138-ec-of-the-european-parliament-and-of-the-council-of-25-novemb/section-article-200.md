@@ -1,0 +1,35 @@
+---
+title: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 200
+act: Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)
+section: Article 200
+status: revised
+text_date: '2019-01-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2009/138/section/Article 200
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance), section Article 200
+
+> Text as at 2019-01-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 200. Management of claims
+
+*Extent: E+W+S+N.I.*
+
+1. The home Member State shall ensure that insurance undertakings adopt, in accordance with the option chosen by the Member State, or at their own choice, where the Member State so agrees, at least one of the methods for the management of claims set out in paragraphs 2, 3 and 4.
+
+Whichever solution is adopted, the interest of persons having legal expenses cover shall be regarded as safeguarded in an equivalent manner under this Section.
+
+2. Insurance undertakings shall ensure that no member of the staff who is concerned with the management of legal expenses claims or with legal advice in respect thereof pursues at the same time a similar activity in another undertaking having financial, commercial or administrative links with the first insurance undertaking and pursuing one or more of the other classes of insurance set out in Annex I.
+
+Composite insurance undertakings shall ensure that no member of the staff who is concerned with the management of legal expenses claims or with legal advice in respect thereof pursues at the same time a similar activity for another class transacted by them.
+
+3. The insurance undertaking shall entrust the management of claims in respect of legal expenses insurance to an undertaking having separate legal personality. That undertaking shall be mentioned in the separate contract or separate section referred to in Article 199.
+
+Where the undertaking having separate legal personality has links to an insurance undertaking which carries on one or more of the classes of insurance referred to in Part A of Annex I, members of the staff of the undertaking having separate legal personality who are concerned with the management of claims or with legal advice connected with such management shall not pursue the same or a similar activity in the other insurance undertaking at the same time. Member States may impose the same requirements on the members of the administrative, management or supervisory body.
+
+4. The contract shall provide that the insured persons may instruct a lawyer of their choice or, to the extent that national law so permits, any other appropriately qualified person, from the moment that those insured persons have a claim under that contract.

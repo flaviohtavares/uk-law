@@ -1,0 +1,44 @@
+---
+title: Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) (Text with EEA relevance), section Article 122
+act: Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) (Text with EEA relevance)
+section: Article 122
+status: revised
+text_date: '2020-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudr/2017/1132/section/Article 122
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) (Text with EEA relevance), section Article 122
+
+> Text as at 2020-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## Article 122. Common draft terms of cross-border mergers
+
+*Extent: E+W+S+N.I.*
+
+The management or administrative organ of each of the merging companies shall draw up the common draft terms of a cross-border merger. The common draft terms of a cross-border merger shall include at least the following particulars:
+
+- ((a)) for each of the merging companies, its legal form and name, and the location of its registered office, and the legal form and name proposed for the company resulting from the cross-border merger and the proposed location of its registered office;[^c000003]
+- ((b)) the ratio applicable to the exchange of securities or shares representing the company capital and the amount of any cash payment, where appropriate;
+- ((c)) the terms for the allotment of securities or shares representing the capital of the company resulting from the cross-border merger;
+- ((d)) the likely repercussions of the cross-border merger on employment;
+- ((e)) the date from which the holding of such securities or shares representing the company capital will entitle the holders to share in profits and any special conditions affecting that entitlement;
+- ((f)) the date from which the transactions of the merging companies will be treated for accounting purposes as being those of the company resulting from the cross-border merger;
+- ((g)) the rights conferred by the company resulting from the cross-border merger on members enjoying special rights or on holders of securities other than shares representing the company capital, or the measures proposed concerning them;
+- ((h)) any special advantages granted to members of the administrative, management, supervisory or controlling bodies of the merging companies;
+- ((i)) the instrument of constitution of the company resulting from the cross-border merger, where applicable, and the statutes if they are contained in a separate instrument;
+- ((j)) where appropriate, information on the procedures by which arrangements for the involvement of employees in the definition of their rights to participation in the company resulting from the cross-border merger are determined pursuant to Article 133;
+- ((k)) information on the evaluation of the assets and liabilities which are transferred to the company resulting from the cross-border merger;
+- ((l)) dates of the merging companies' accounts used to establish the conditions of the cross-border merger;
+- ((m)) details of the offer of cash compensation for members in accordance with Article 126a;[^c000004]
+- ((n)) any safeguards offered to creditors, such as guarantees or pledges.
+
+## Annotations
+
+[^c000003]: Textual amendment: Substituted by [Directive (EU) 2019/2121 of the European Parliament and of the Council of 27 November 2019 amending Directive (EU) 2017/1132 as regards cross-border conversions, mergers and divisions (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/2121).
+
+[^c000004]: Textual amendment: Inserted by [Directive (EU) 2019/2121 of the European Parliament and of the Council of 27 November 2019 amending Directive (EU) 2017/1132 as regards cross-border conversions, mergers and divisions (Text with EEA relevance)](https://www.legislation.gov.uk/eudr/2019/2121).

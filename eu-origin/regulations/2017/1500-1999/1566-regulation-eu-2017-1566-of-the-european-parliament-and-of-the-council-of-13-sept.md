@@ -1,0 +1,286 @@
+---
+title: Regulation (EU) 2017/1566 of the European Parliament and of the Council of 13 September 2017 on the introduction of temporary autonomous trade measures for Ukraine supplementing the trade concessions available under the Association Agreement
+id: eur/2017/1566
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2017-09-13'
+text_date: '2017-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2017/1566
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2017/1566/pdfs/eur_20171566_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2017/1566/pdfs/eur_20171566_2017-09-30_en.pdf
+- http://www.legislation.gov.uk/eur/2017/1566/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EU) 2017/1566 of the European Parliament and of the Council of 13 September 2017 on the introduction of temporary autonomous trade measures for Ukraine supplementing the trade concessions available under the Association Agreement
+
+> Text as at 2017-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Regulation (EU) 2017/1566 of the European Parliament and of the Council
+
+of 13 September 2017
+
+on the introduction of temporary autonomous trade measures for Ukraine supplementing the trade concessions available under the Association Agreement
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 207(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Acting in accordance with the ordinary legislative procedure[^f00001],
+
+Whereas:
+
+(1)
+
+The Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part[^f00002] (the ‘Association Agreement’) constitutes the basis of the relationship between the Union and Ukraine. Title IV of the Association Agreement, which relates to trade and trade-related matters, has been applied provisionally since 1 January 2016[^f00003]. In the preamble to the Association Agreement, the Parties thereto expressed their desire to strengthen and widen relations in an ambitious and innovative way.
+
+(2)
+
+In order to enhance the economic and political reform efforts undertaken by Ukraine, and to support and accelerate the development of closer economic relations with the Union, it is appropriate and necessary to increase the trade flows concerning the import of certain agricultural products and to grant concessions in the form of autonomous trade measures for certain industrial products in line with the acceleration of the elimination of customs duties on trade between the Union and Ukraine.
+
+(3)
+
+The Commission has analysed the factual rationale for selecting the products that are to be subject to this Regulation, in particular the potential impact of this Regulation on small and medium-sized beneficiaries in Ukraine, and has provided an explanation thereof to the European Parliament and to the Council. The autonomous trade measures established by this Regulation should be granted for products that are beneficial in light of that analysis. Those autonomous trade measures should take the form of the following preferential arrangements: (i) zero-tariff quotas for the agricultural products listed in Annexes I and II to this Regulation in addition to the zero-tariff quotas set out in the Association Agreement; and (ii) the full removal of import duties (‘preferential customs duties’) on importation of the industrial products listed in Annex III to this Regulation.
+
+(4)
+
+In order to prevent fraud, the entitlement to the autonomous trade measures established by this Regulation should be conditional on Ukraine having complied with all the relevant conditions for obtaining benefits under the Association Agreement, including the rules of origin of products concerned and the procedures related thereto, as well as Ukraine's involvement in close administrative cooperation with the Union, as provided for by that Agreement.
+
+(5)
+
+Ukraine should abstain from introducing new duties or charges having equivalent effect and new quantitative restrictions or measures having equivalent effect, or from increasing existing levels of duties or charges or from introducing any other restrictions. In the event that Ukraine fails to comply with any of these conditions, the Commission should be empowered to suspend temporarily all or part of the autonomous trade measures established by this Regulation.
+
+(6)
+
+Subject to an investigation by the Commission, it is necessary to provide for the reintroduction of the Common Customs Tariff duties under the Association Agreement for imports of any products falling under the scope of this Regulation which cause, or threaten to cause, serious difficulties to Union producers of like or directly competing products.
+
+(7)
+
+In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission enabling it to temporarily suspend the preferential arrangements established by this Regulation and to introduce corrective measures in cases where Union producers are or might be seriously affected by imports under this Regulation. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council[^f00004].
+
+(8)
+
+The zero-tariff quotas established by this Regulation should be administered by the Commission in accordance with Commission Implementing Regulation (EU) 2015/2447[^f00005], with the exception of the zero-tariff quotas for certain agricultural products, which should be administered by the Commission in accordance with Regulation (EU) No 1308/2013 of the European Parliament and of the Council[^f00006] and the implementing and delegated acts adopted pursuant to that Regulation.
+
+(9)
+
+Articles 2 and 3 of the Association Agreement provide that respect for democratic principles, human rights and fundamental freedoms and the principle of the rule of law, as well as efforts to combat corruption and organised crime, and measures to promote sustainable development and effective multilateralism, constitute essential elements of relations with Ukraine, which are governed by that Agreement. It is appropriate to introduce the possibility of temporarily suspending the preferential arrangements provided for in this Regulation if Ukraine fails to respect the general principles of the Association Agreement, similarly to other association agreements signed by the Union.
+
+(10)
+
+The Commission's annual report on the implementation of the Deep and Comprehensive Free Trade Area, which is an integral part of the Association Agreement, should include a detailed assessment of the implementation of the autonomous trade measures established by this Regulation.
+
+(11)
+
+In light of the difficult economic situation in Ukraine, this Regulation should enter into force on the day following that of its publication in the *Official Journal of the European Union*,
+
+HAVE ADOPTED THIS REGULATION:
+
+## Article 1. Preferential arrangements
+
+1. In addition to the zero-tariff quotas established by the Association Agreement, the agricultural products listed in Annexes I and II to this Regulation shall be admitted for import into the Union from Ukraine within the limits of Union zero-tariff quotas as set out in those Annexes. Those zero-tariff quotas shall be administered as follows:
+
+- (a) the zero-tariff quotas for the agricultural products listed in Annex I to this Regulation shall be administered by the Commission in accordance with Articles 49 to 54 of Implementing Regulation (EU) 2015/2447;
+- (b) the zero-tariff quotas for the agricultural products listed in Annex II to this Regulation shall be administered by the Commission pursuant to Article 184 of Regulation (EU) No 1308/2013 and the implementing and delegated acts adopted pursuant to that Article.
+
+2. The preferential customs duties on importation into the Union of certain industrial products originating from Ukraine shall apply in accordance with Annex III.
+
+## Article 2. Conditions for entitlement to the preferential arrangements
+
+Ukraine's entitlement to the zero-tariff quotas and preferential customs duties on importation introduced by Article 1 shall be subject to:
+
+- ((a)) Ukraine's compliance with the rules of origin of products and the procedures related thereto as provided for in the Association Agreement, in particular in Protocol I thereto concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation, and in Protocol II thereto on mutual administrative assistance in customs matters; the zero-tariff quotas and preferential customs duties on importation introduced by Article 1 of this Regulation shall apply to goods originating in or that have been shipped from a territory not under the effective control of the Government of Ukraine, if those goods have been made available to the Ukrainian authorities for examination, and if their compliance with the conditions conferring entitlement to the preferential arrangements has been verified in accordance with the Association Agreement;
+- ((b)) from 1 October 2017, the abstention by Ukraine from introducing new duties or charges having equivalent effect and new quantitative restrictions or measures having equivalent effect for imports originating in the Union, or from increasing existing levels of duties or charges or from introducing any other restrictions, including discriminatory internal administrative measures;
+- ((c)) Ukraine's respect for democratic principles, human rights and fundamental freedoms and respect for the principle of the rule of law as well as continued and sustained efforts with regard to the fight against corruption and illegal activities provided for in Articles 2, 3 and 22 of the Association Agreement; and
+- ((d)) Ukraine's continued compliance with obligations to cooperate on matters related to employment, social policy and equal opportunities in accordance with Chapter 13 of Title IV (Trade and sustainable development) and Chapter 21 of Title V (Cooperation on employment, social policy and equal opportunities) of the Association Agreement, and the goals set out in Article 420 thereof.
+
+## Article 3. Temporary suspension
+
+1. Where the Commission finds that there is sufficient evidence of failure by Ukraine to comply with the conditions set out in Article 2, it may suspend in whole or in part the preferential arrangements provided for in this Regulation, in accordance with the examination procedure referred to in Article 5(2).
+
+2. Where a Member State requests that the Commission suspend any of the preferential arrangements provided for in this Regulation on the basis of a failure to comply with the conditions set out in point (b) of Article 2, the Commission shall provide a reasoned opinion within four months of such request on whether the claim of failure to comply is substantiated. If the Commission concludes that the claim is substantiated, it shall initiate the procedure referred to in paragraph 1 of this Article.
+
+## Article 4. Safeguard clause
+
+1. Where a product originating in Ukraine is imported on terms which cause, or threaten to cause, serious difficulties to Union producers of like or directly competing products, Common Customs Tariff duties under the Association Agreement on such product may be reintroduced at any time.
+
+2. The Commission shall closely monitor the impact of this Regulation with regard to the products listed in Annexes I and II, including with regard to the prices on the Union market, taking into account the information on exports, imports and Union production of the products subject to the autonomous trade measures established by this Regulation.
+
+3. The Commission shall take a formal decision to initiate an investigation within a reasonable period of time:
+
+- at the request of a Member State, or
+- at the request of any legal person or any association that does not have legal personality, acting on behalf of the Union industry, meaning all or a major proportion of Union producers of like or directly competing products, or
+- on the Commission's own initiative if it is apparent to the Commission that there is sufficient *prima facie* evidence of serious difficulties as referred to in paragraph 1.
+
+For the purposes of this Article, ‘major proportion’ means Union producers whose collective output constitutes more than 50 % of the total Union production of the like or directly competing products produced by that portion of the Union industry which have expressed either support for or opposition to the request, and which represent no less than 25 % of total production of the like or directly competing products produced by the Union industry.
+
+Where the Commission decides to initiate an investigation, it shall publish a notice in the *Official Journal of the European Union* announcing the initiation of the investigation. The notice shall provide a summary of the information received and state that any relevant information should be sent to the Commission. It shall specify the period within which interested parties may submit their views in writing. Such period shall not exceed four months from the date of publication of the notice.
+
+4. The Commission shall seek all information it deems necessary and may verify the information received with Ukraine or any other relevant source. It may be assisted by officials of the Member State on whose territory verification might be sought, if that Member State requests such assistance by officials.
+
+5. In examining whether serious difficulties as referred to in paragraph 1 exist, the Commission shall take account, inter alia, of the following factors concerning Union producers, where the information is available:
+
+- market share,
+- production,
+- stocks,
+- production capacity,
+- capacity utilisation,
+- employment,
+- imports,
+- prices.
+
+6. The investigation shall be completed within six months of the publication of the notice referred to in paragraph 3 of this Article. The Commission may, in the case of exceptional circumstances, extend this period in accordance with the examination procedure referred to in Article 5(2).
+
+7. Within three months of the completion of the investigation, the Commission shall take a decision on whether to reintroduce the Common Customs Tariff duties under the Association Agreement by way of an implementing act, in accordance with the examination procedure referred to in Article 5(2). That implementing act shall enter into force within one month of its publication. The Common Customs Tariff duties under the Association Agreement shall be reintroduced for as long as necessary to counteract the deterioration in the economic and/or financial situation of Union producers, or for as long as the threat of such deterioration persists. The period of reintroduction shall not exceed one year, unless it is extended in duly justified circumstances. Where the facts as finally established show that the conditions set out in paragraph 1 of this Article are not met, the Commission shall adopt an implementing act terminating the investigation and proceedings in accordance with the examination procedure referred to in Article 5(2).
+
+8. Where exceptional circumstances requiring immediate action make an investigation impossible, the Commission may, after informing the Customs Code Committee referred to in Article 5(1), take any preventive measure which is necessary.
+
+## Article 5. Committee procedure
+
+1. For the implementation of point (a) of Article 1(1) and Article 4 of this Regulation, the Commission shall be assisted by the Customs Code Committee established by Article 285 of Regulation (EU) No 952/2013 of the European Parliament and of the Council[^f00007]. The Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 6. Assessment of the implementation of the autonomous trade measures
+
+The Commission's annual report on the implementation of the Deep and Comprehensive Free Trade Area shall include a detailed assessment of the implementation of the autonomous trade measures provided for in this Regulation and shall include, insofar as appropriate, an assessment of the social impact of those measures in Ukraine and in the Union. Information on the utilisation of agriculture-related tariff quotas shall be made available via the website of the Commission.
+
+## Article 7. Entry into force and application
+
+This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+It shall apply for three years from 1 October 2017.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — ZERO-TARIFF QUOTAS FOR AGRICULTURAL PRODUCTS REFERRED TO IN POINT (a) OF ARTICLE 1(1)
+
+Notwithstanding the rules for the interpretation of the Combined Nomenclature (CN), the wording of the description of the products is to be considered as having no more than an indicative value. For the purposes of this Annex, the scope of the preferential scheme is to be determined by CN codes as they exist on 1 October 2017.
+
+<table>
+<tfoot>
+<tr><td colspan="4">TARIC code 1103 19 20 10.</td></tr>
+<tr><td colspan="4">TARIC codes 1104 29 04 00, 1104 29 05 00, 1104 29 08 00, 1104 29 17 90, 1104 29 30 90, 1104 29 51 00, 1104 29 59 90, 1104 29 81 00 and 1104 29 89 90.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Order No</th><th>CN code</th><th>Description of goods</th><th>Annual quota volume(in tonnes net weight unless otherwise specified)</th></tr>
+<tr><td>09.6750</td><td>0409</td><td>Natural honey</td><td>2 500</td></tr>
+<tr><td rowspan="9">09.6751</td><td>ex 1103 19 20</td><td>Barley groats</td><td rowspan="9">7 800</td></tr>
+<tr><td>1103 19 90</td><td>Groats and meals of cereals (excl. wheat, rye, oats, maize, rice and barley)</td></tr>
+<tr><td>1103 20 90</td><td>Cereal pellets (excl. wheat, rye, oats, maize, rice and barley)</td></tr>
+<tr><td>1104 19 10</td><td>Rolled or flaked wheat grains</td></tr>
+<tr><td>1104 19 50</td><td>Rolled or flaked maize grains</td></tr>
+<tr><td>1104 19 61</td><td>Rolled barley grains</td></tr>
+<tr><td>1104 19 69</td><td>Flaked barley grains</td></tr>
+<tr><td>ex 1104 29</td><td>Worked grains (for example, hulled, pearled, sliced or kibbled), other than of oats, of rye or of maize</td></tr>
+<tr><td>1104 30</td><td>Germ of cereals, whole, rolled, flaked or ground</td></tr>
+<tr><td>09.6752</td><td>2002</td><td>Tomatoes prepared or preserved otherwise than by vinegar or acetic acid</td><td>3 000</td></tr>
+<tr><td rowspan="3">09.6753</td><td>2009 61 90</td><td>Grape juice (including grape must), of a Brix value not exceeding 30, of a value not exceeding 18 EUR per 100 kg net weight</td><td rowspan="3">500</td></tr>
+<tr><td>2009 69 11</td><td>Grape juice (including grape must), of a Brix value exceeding 67, of a value not exceeding 22 EUR per 100 kg net weight</td></tr>
+<tr><td>2009 69 71<br>2009 69 79<br>2009 69 90</td><td>Grape juice (including grape must), of a Brix value exceeding 30 but not exceeding 67, of a value not exceeding 18 EUR per 100 kg net weight</td></tr>
+<tr><td>09.6754</td><td>1004</td><td>Oats</td><td>4 000</td></tr>
+</tbody>
+</table>
+
+[^f00008][^f00009]
+
+## ANNEX II — ZERO-TARIFF QUOTAS FOR AGRICULTURAL PRODUCTS REFERRED TO IN POINT (b) OF ARTICLE 1(1)[^c000001]
+
+Notwithstanding the rules for the interpretation of the Combined Nomenclature (CN), the wording of the description of the products is to be considered as having no more than an indicative value. For the purposes of this Annex, the scope of the preferential scheme is to be determined by CN codes as they exist on 1 October 2017 .
+
+Where the CN code is preceded by ‘ ex ’ , the application of the preferential arrangements is to be determined on the basis of the CN code and the description of the product.
+
+<table>
+<tbody>
+<tr><th>Product</th><th>Tariff classification</th><th>Annual quota volume</th></tr>
+<tr><td>Common wheat, spelt and meslin other than seed</td><td>1001 99 00</td><td rowspan="6">65 000 tonnes/year</td></tr>
+<tr><td>Common wheat flour and spelt flour</td><td>1101 00 15</td></tr>
+<tr><td>Meslin flour</td><td>1101 00 90</td></tr>
+<tr><td>Cereal flour other than wheat, meslin, rye, maize, barley, oat, rice</td><td>1102 90 90</td></tr>
+<tr><td>Groats and meal of common wheat and spelt</td><td>1103 11 90</td></tr>
+<tr><td>Wheat pellets</td><td>1103 20 60</td></tr>
+<tr><td>Maize other than seed</td><td>1005 90 00</td><td rowspan="5">625 000 tonnes/year</td></tr>
+<tr><td>Maize flour</td><td>1102 20</td></tr>
+<tr><td>Groats and meal of maize</td><td>1103 13</td></tr>
+<tr><td>Maize pellets</td><td>1103 20 40</td></tr>
+<tr><td>Worked grains of maize</td><td>1104 23</td></tr>
+<tr><td>Barley, other than seed</td><td>1003 90 00</td><td rowspan="3">325 000 tonnes/year</td></tr>
+<tr><td>Barley flour</td><td>1102 90 10</td></tr>
+<tr><td>Barley pellets</td><td>ex 1103 20 25</td></tr>
+</tbody>
+</table>
+
+## ANNEX III — PREFERENTIAL CUSTOMS DUTIES APPLIED FOR THE INDUSTRIAL PRODUCTS REFERRED TO IN ARTICLE 1(2)
+
+Notwithstanding the rules for the interpretation of the Combined Nomenclature (CN), the wording of the description of the products is to be considered as having no more than an indicative value. For the purposes of this Annex, the scope of the preferential scheme is to be determined by CN codes as they exist on 1 October 2017.
+
+| CN 2016 | Description | Applied duties |
+| --- | --- | --- |
+| CHAPTER 31 — FERTILISERS |  |  |
+| 3102 21 00 | Ammonium sulphate (excl. that in pellet or similar forms, or in packages with a gross weight not exceeding 10 kg) | 0 % |
+| 3102 40 10 | Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances, with a nitrogen content not exceeding 28 % by weight (excl. those in pellet or similar forms, or in packages with a gross weight not exceeding 10 kg) | 0 % |
+| 3102 50 00 | Sodium nitrate (excl. that in pellet or similar forms, or in packages with a gross weight not exceeding 10 kg) | 0 % |
+| 3105 20 10 | Mineral or chemical fertilisers containing nitrogen, phosphorus and potassium, with a nitrogen content exceeding 10 % by weight on the dry anhydrous product (excl. those in tablets or similar forms, or in packages with a gross weight not exceeding 10 kg) | 0 % |
+| 3105 51 00 | Mineral or chemical fertilisers containing nitrates and phosphates | 0 % |
+| CHAPTER 32 — TANNING OR DYEING EXTRACTS; TANNINS AND THEIR DERIVATIVES; DYES, PIGMENTS AND OTHER COLOURING MATTER; PAINTS AND VARNISHES; PUTTY AND OTHER MASTICS; INKS |  |  |
+| 3206 11 00 | Pigments and preparations based on titanium dioxide, containing 80 % or more by weight of titanium dioxide calculated on the dry matter | 0 % |
+| CHAPTER 64 — FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES |  |  |
+| 6402 91 90 | Footwear covering the ankle, with outer soles and uppers of rubber or plastics | 0 % |
+| 6402 99 98 | Footwear with outer soles of rubber or plastics and uppers of plastics, with insoles of a length of 24 cm or more, for women | 0 % |
+| 6403 99 96 | Men's footwear with outer soles of rubber, plastics or composition leather and uppers of leather (not covering the ankle), with insoles of a length of 24 cm or more | 0 % |
+| 6403 99 98 | Footwear with outer soles of rubber, plastics or composition leather and uppers of leather, with insoles of a length of 24 cm or more, for women | 0 % |
+| CHAPTER 74 — COPPER AND ARTICLES THEREOF |  |  |
+| 7407 21 10 | Bars and rods, of copper-zinc base alloys (brass) | 0 % |
+| 7408 11 00 | Wire of refined copper, with a maximum cross-sectional dimension of more than 6 mm | 0 % |
+| CHAPTER 76 — ALUMINIUM AND ARTICLES THEREOF |  |  |
+| 7601 10 00 | Aluminium, not alloyed, unwrought | 0 % |
+| 7601 20 20 | Unwrought aluminium alloys in the form of slabs or billets | 0 % |
+| 7601 20 80 | Unwrought aluminium alloys (other than slabs and billets) | 0 % |
+| 7604 21 00 | Hollow profiles of aluminium alloys | 0 % |
+| 7604 29 90 | Solid profiles, of aluminium alloys | 0 % |
+| 7616 99 90 | Articles of aluminium, uncast | 0 % |
+| CHAPTER 85 — ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES |  |  |
+| 8525 80 99 | Video camera recorders other than those only able to record sound and images taken by the television camera | 0 % |
+| 8528 71 19 | Video tuners (excl. electronic assemblies for incorporation into automatic data-processing machines and apparatus with a microprocessor-based device incorporating a modem for gaining access to the internet and having a function of interactive information exchange capable of receiving television signals, i.e. ‘set-top boxes with communication function’) | 0 % |
+| 8528 71 99 | Reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus, not designed to incorporate a video display or screen (excl. video tuners and set-top boxes with a communication function) | 0 % |
+| 8528 72 40 | Reception apparatus for television, colour, with LCD screen | 0 % |
+
+Commission Statement related to Article 3
+
+The Commission notes that should it be impossible to implement the suspension of preferential arrangements before full utilisation of the annual zero-tariff rate quotas for agricultural products, the Commission shall endeavour proposing a reduction or suspension of these concessions in the following years.
+
+## Annotations
+
+[^f00001]: Footnote: Position of the European Parliament of 4 July 2017 (not yet published in the Official Journal) and decision of the Council of 17 July 2017.
+
+[^f00002]: Footnote: [OJ L 161, 29.5.2014, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.161.01.0003.01.ENG).
+
+[^f00003]: Footnote: Council Decision 2014/668/EU of 23 June 2014 on the signing, on behalf of the European Union, and provisional application of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Ukraine, of the other part, as regards Title III (with the exception of the provisions relating to the treatment of third-country nationals legally employed as workers in the territory of the other Party) and Titles IV, V, VI and VII thereof, as well as the related Annexes and Protocols ([OJ L 278, 20.9.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.278.01.0001.01.ENG)).
+
+[^f00004]: Footnote: Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers ([OJ L 55, 28.2.2011, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.055.01.0013.01.ENG)).
+
+[^f00005]: Footnote: Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code ([OJ L 343, 29.12.2015, p. 558](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.343.01.0558.01.ENG)).
+
+[^f00006]: Footnote: Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 ([OJ L 347, 20.12.2013, p. 671](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0671.01.ENG)).
+
+[^f00007]: Footnote: Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code ([OJ L 269, 10.10.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.269.01.0001.01.ENG)).
+
+[^f00008]: Footnote: TARIC code 1103 19 20 10.
+
+[^f00009]: Footnote: TARIC codes 1104 29 04 00, 1104 29 05 00, 1104 29 08 00, 1104 29 17 90, 1104 29 30 90, 1104 29 51 00, 1104 29 59 90, 1104 29 81 00 and 1104 29 89 90.
+
+[^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) 2017/1566 of the European Parliament and of the Council of 13 September 2017 on the introduction of temporary autonomous trade measures for Ukraine supplementing the trade concessions available under the Association Agreement (Official Journal of the European Union L 254 of 30 September 2017)](https://www.legislation.gov.uk/eur/2017/1566/pdfs/eurcs_20171566_en_001.pdf).

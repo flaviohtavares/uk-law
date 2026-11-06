@@ -1,0 +1,105 @@
+---
+title: Commission Regulation (EC) No 622/2007 of 5 June 2007 establishing conditions for the experimental fishing for sand eel for 2007 in the North Sea
+id: eur/2007/622
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2007-06-05'
+text_date: '2007-06-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2007/622
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2007/622/pdfs/eur_20070622_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2007/622/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 622/2007 of 5 June 2007 establishing conditions for the experimental fishing for sand eel for 2007 in the North Sea
+
+> Text as at 2007-06-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 622/2007
+
+of 5 June 2007
+
+establishing conditions for the experimental fishing for sand eel for 2007 in the North Sea
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 41/2007 of 21 December 2006 fixing for 2007 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and, for Community vessels, in waters where catch limitations are required[^f00001], and in particular Annexe IA thereto,
+
+Whereas:
+
+(1)
+
+Catch limits for experimental fishery for sand eel in ICES zone IV are laid down in Annex IA to Regulation (EC) No 41/2007. In accordance with footnotes accompanying the relevant catch limits in that Annex, the Commission may establish the conditions under which the quotas for the experimental fishery relating to sand eel abundance may be fished.
+
+(2)
+
+Pursuant to point 1 of Annex IID to Regulation (EC) No 41/2007, the conditions laid down in that Annex IID shall apply to Community vessels fishing in ICES zones IIIa and IV and in EC waters of ICES zone IIa with demersal trawl, seine or similar towed gears with a mesh size of less than 16 mm. Unless otherwise specified, or as a consequence of consultations or agreements between the Community and Norway, those conditions are also applicable to third country vessels authorised to fish for sand eel in EC waters of ICES zone IV.
+
+(3)
+
+Sand eel is a North Sea stock which is shared with Norway but which is currently not jointly managed. Pursuant to consultations between the Community and Norway on 30 March 2007 an agreement has been reached on conditions for the experimental fishery for sand eel in the North Sea. That agreement should be implemented into Community law.
+
+(4)
+
+With a view to fixing the fishing opportunities for sand eel as early as possible pursuant to point 8 of Annex IID to Regulation (EC) No 41/2007 the experimental fishery is carried out during April and the first half of May. It is therefore necessary that conditions for the experimental fishery for sand eel in 2007 in the North Sea are implemented as soon as possible,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1. Subject matter and scope
+
+1. This Regulation lays down the conditions under which quotas fixed in Annex IA to Regulation (EC) No 41/2007 for experimental fishery relating to sand eel abundance may be fished in 2007 in ICES zone IV.
+
+2. The conditions laid down in this Regulation shall apply in addition to the conditions set out in Annex IID to Regulation (EC) No 41/2007.
+
+## Article 2. Listing of Community fishing vessels
+
+1. Following the entry into force of this Regulation, the Member States concerned shall transmit to the Commission without delay a list of fishing vessels flying their flag intending to participate in the experimental fishing on sand eel in Norwegian waters of ICES zone IV, containing the name, registration number and international radio call sign of each vessel.
+
+2. On the basis of the information received in accordance with paragraph 1, the Commission shall establish a list of all Community fishing vessels intending to participate in the experimental fishing on sand eel in Norwegian waters and transmit it to Norway.
+
+## Article 3. Catch reporting by Community and Norwegian vessels
+
+1. Community fishing vessels shall send the catch report to the Directorate of Fisheries in Norway every third day after the vessel first enters the Norwegian zone, whenever they intend to fish sand eel or have on board trawl net with mesh size less than 16 mm.
+
+2. In addition to the notifications on catch-on-entry and catch-on-exit reports transmitted in accordance with Annex VI to Regulation (EC) No 41/2007, Norwegian fishing vessels shall send the catch report to the Commission every third day after the vessel first enters the Community waters, whenever they intend to fish sand eel or have on board trawl net with mesh size less than 16 mm.
+
+## Article 4. Access to VMS information concerning Community vessels
+
+Member States shall make available to their national scientists participating in the relevant ICES working group or, in absence thereof, directly to that working group, VMS data concerning the vessels flying their flag and participating in the experimental fishing on sand eel.
+
+## Article 5. Closure of the experimental fishery for Norwegian vessels
+
+1. For Norwegian fishing vessels the experimental fishing for sand eel shall be permitted after 6 May 2007 in EC waters of ICES zone IV only as far as:
+
+- (a) 30 % of the total effort deployed in 2005 by Norway has not been fully used and;
+- (b) the catch limit of 20 000 tonnes has not been reached.
+
+2. The fishing effort deployed by Norwegian vessels shall not exceed 25 vessels carrying out no more than one multiple-day trip each.
+
+**Article 6.** This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 5 June 2007.
+
+*For the Commission*
+
+Joe Borg
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 15, 20.1.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.015.01.0001.01.ENG). Regulation as amended by Commission Regulation (EC) No 444/2007 ([OJ L 106, 24.4.2007, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.106.01.0022.01.ENG)).

@@ -1,0 +1,84 @@
+---
+title: Commission Regulation (EC) No 1472/2007 of 13 December 2007 derogating, for the 2007/08 wine year, from Regulation (EC) No 1623/2000 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms
+id: eur/2007/1472
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2007-12-13'
+text_date: '2007-12-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2007/1472
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2007/1472/pdfs/eur_20071472_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2007/1472/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Commission Regulation (EC) No 1472/2007 of 13 December 2007 derogating, for the 2007/08 wine year, from Regulation (EC) No 1623/2000 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms
+
+> Text as at 2007-12-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commission Regulation (EC) No 1472/2007
+
+of 13 December 2007
+
+derogating, for the 2007/08 wine year, from Regulation (EC) No 1623/2000 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine[^f00001], and in particular Article 33 thereof,
+
+Whereas:
+
+(1)
+
+Under Article 27(3) of Regulation (EC) No 1493/1999 any natural or legal person or group of persons having made wine is required to deliver for distillation all the by-products of that winemaking.
+
+(2)
+
+Commission Regulation (EC) No 1623/2000[^f00002] lays down detailed rules for the implementation of this obligation to distil and Article 49 thereof provides for certain possible exemptions, in particular the possibility of replacing the distillation obligation by withdrawal of the by-products under supervision in the case of small producers who produce less than 80 hl per year.
+
+(3)
+
+The by-product collection capacity in some Member States is insufficient. To remedy this situation, the Member States should therefore be authorised to exempt other categories of producers from the obligation to distil by-products of winemaking.
+
+(4)
+
+In order that this exception may be applied to the entire wine year, this Regulation should apply from 1 August 2007.
+
+(5)
+
+The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,
+
+HAS ADOPTED THIS REGULATION:
+
+**Article 1.** By way of exemption from Article 49(4)(a) of Regulation (EC) No 1623/2000, for the 2007/08 wine year Member States may lay down, for all or part of their territory, that producers who do not exceed a production level of 100 hl obtained by them on their individual premises may fulfil the obligation to deliver by-products for distillation by having those products withdrawn under supervision.
+
+**Article 2.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 1 August 2007.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 13 December 2007.
+
+*For the Commission*
+
+Mariann Fischer Boel
+
+*Member of the Commission*
+
+## Annotations
+
+[^f00001]: Footnote: [OJ L 179, 14.7.1999, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.179.01.0001.01.ENG). Regulation as last amended by Regulation (EC) No 1234/2007 ([OJ L 299, 16.11.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.299.01.0001.01.ENG)).
+
+[^f00002]: Footnote: [OJ L 194, 31.7.2000, p. 45](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.194.01.0045.01.ENG). Regulation as last amended by Regulation (EC) No 923/2007 ([OJ L 201, 2.8.2007, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.201.01.0009.01.ENG)).

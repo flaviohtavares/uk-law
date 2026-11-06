@@ -1,0 +1,1062 @@
+---
+title: Regulation (EC) No 183/2005 of the European Parliament and of the Council of 12 January 2005 laying down requirements for feed hygiene (Text with EEA relevance)
+id: eur/2005/183
+type: EuropeanUnionRegulation
+category: euretained
+status: revised
+made_date: '2005-01-12'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eur/2005/183
+pdf_urls:
+- http://www.legislation.gov.uk/eur/2005/183/pdfs/eur_20050183_adopted_en.pdf
+- http://www.legislation.gov.uk/eur/2005/183/pdfs/eur_20050183_2009-04-20_en.pdf
+- http://www.legislation.gov.uk/eur/2005/183/pdfs/eur_20050183_2012-09-16_en.pdf
+- http://www.legislation.gov.uk/eur/2005/183/pdfs/eur_20050183_2015-11-12_en.pdf
+- http://www.legislation.gov.uk/eur/2005/183/pdfs/eur_20050183_2016-04-23_en.pdf
+- http://www.legislation.gov.uk/eur/2005/183/pdfs/eur_20050183_2019-07-26_en.pdf
+- http://www.legislation.gov.uk/eur/2005/183/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Regulation (EC) No 183/2005 of the European Parliament and of the Council of 12 January 2005 laying down requirements for feed hygiene (Text with EEA relevance)
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Regulation (EC) No 183/2005 of the European Parliament and of the Council
+
+of 12 January 2005
+
+laying down requirements for feed hygiene
+
+(Text with EEA relevance)
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 37(2) and Article 152(4)(b) thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the European Economic and Social Committee[^f00001],
+
+After consulting the Committee of the Regions,
+
+Acting in accordance with the procedure laid down in Article 251 of the Treaty[^f00002],
+
+Whereas:
+
+(1)
+
+Livestock production plays a very important part in the agricultural sector of the Community. Satisfactory results of this activity depend to a large extent on the use of safe and good quality feed.
+
+(2)
+
+The pursuit of a high level of protection of human and animal health is one of the fundamental objectives of food law, as laid down in Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003]. That Regulation also lays down other common principles and definitions for national and Community food law, including the aim of achieving free movement of feed within the Community.
+
+(3)
+
+Council Directive 95/69/EC[^f00004] established the conditions and arrangements applicable to certain categories of establishments and intermediaries in the animal feed sector, to enable them to exercise their activities. Experience has shown that these conditions and arrangements constitute a sound basis for ensuring feed safety. That Directive also established conditions for the approval of establishments producing certain substances listed in Council Directive 82/471/EEC of 30 June 1982 concerning certain products used in animal nutrition[^f00005].
+
+(4)
+
+Commission Directive 98/51/EC of 9 July 1998 laying down certain measures for implementing Council Directive 95/69/EC laying down the conditions and arrangements for approving and registering certain establishments and intermediaries operating in the animal feed sector[^f00006], established certain measures that included arrangements for imports from third countries.
+
+(5)
+
+Experience has also shown that it is necessary to ensure that all feed businesses, including aquaculture, operate in conformity with harmonised safety requirements and that it is necessary to conduct a general review in order to take into account the need to ensure a higher level of protection of human and animal health, and of the environment.
+
+(6)
+
+The principal objective of the new hygiene rules set out in this Regulation is to ensure a high level of consumer protection with regard to food and feed safety, taking particular account of the following principles:
+
+- ((a)) that primary responsibility for feed safety rests with the feed business operator;
+- ((b)) the need to ensure feed safety throughout the food chain, starting with primary production of feed, up to and including, the feeding of food-producing animals;
+- ((c)) the general implementation of procedures based on the principles of hazard analysis and critical control points (HACCP), which, together with the application of good hygiene practice, should reinforce feed business operators’ responsibility;
+- ((d)) that guides to good practice are a valuable instrument to help feed business operators at all levels of the feed chain comply with feed hygiene rules and with the application of HACCP principles;
+- ((e)) the establishment of microbiological criteria based on scientific risk criteria;
+- ((f)) the need to ensure that imported feed attains a standard that is at least equivalent to that of feed produced in the Community.
+
+(7)
+
+In order to ensure the complete application of the registration and approval system to all the feed business operators and, consequently, to guarantee full traceability, it is appropriate to ensure that they only source and use feed from establishments which are registered and/or approved in accordance with this Regulation.
+
+(8)
+
+An integrated approach is necessary to ensure feed safety from, and including, primary production of feed up to, and including, its placing on the market or export. The primary production of feed includes products which only undergo simple physical treatment such as cleaning, packaging, storage, natural drying or ensiling.
+
+(9)
+
+In accordance with the principles of proportionality and subsidiarity, Community rules should not apply to certain cases of private domestic production of feed and feeding of certain animals, nor to the direct supply of small quantities of primary production of feed at local level, nor to the retailing of pet food.
+
+(10)
+
+Feed hazards present at the level of primary production of feed should be identified and adequately controlled, to ensure that the objectives of this Regulation are met. The fundamental principles of this Regulation should therefore apply to farms which manufacture feed solely for the requirements of their own production, as well as to farms which place feed on the market. It should be taken into consideration that the risk is less if feed is produced and used for feeding animals only used for domestic consumption, or for animals which are not used for food production. The trade of small quantities of feed products at local level and the retailing of pet food shall have particular treatment in the framework of this Regulation.
+
+(11)
+
+The application of HACCP principles to primary production of feed is the medium-term objective of European hygiene legislation. But guides to good practice should already be encouraging the use of appropriate hygiene requirements.
+
+(12)
+
+Feed safety depends on a number of factors. Legislation should lay down minimum hygiene requirements. Official controls should be in place to check feed business operators’ compliance. In addition, feed business operators should take measures or adopt procedures to achieve a high level of feed safety.
+
+(13)
+
+HACCP principles can help feed business operators attain a higher standard of feed safety. HACCP principles should not be regarded as a method of self-regulation and do not replace official controls.
+
+(14)
+
+The implementation of the HACCP principles requires the full cooperation and commitment of feed businesses’ employees.
+
+(15)
+
+HACCP principles in feed production should take into account the principles contained in the Codex Alimentarius, but should allow sufficient flexibility in all situations. In certain feed business, it is not possible to identify critical control points and, in some cases, good practices can replace the monitoring of critical control points. Similarly, the requirement to establish ‘critical limits’, as set out in the Codex Alimentarius, does not require a numerical limit to be fixed in every case. The requirement to retain documents as set out in the same Code needs to be flexible to avoid undue burdens for very small businesses. It should be ensured that operations carried out by a feed business at the level of primary production of feed, including associated operations, as well as the mixing of feed with complementary feedingstuffs for the exclusive requirements of its own holding, are not obliged to follow the HACCP principles.
+
+(16)
+
+Flexibility is also necessary to accommodate the needs of feed businesses situated in regions suffering from special geographical constraints or related to structural requirements. But such flexibility should not compromise feed hygiene objectives. Provision should be made for discussion within the Standing Committee on the Food Chain and Animal Health, where appropriate.
+
+(17)
+
+A system of registration and approval by the competent authority of the Member State of all feed businesses is appropriate to ensure traceability from manufacturer to final user and to facilitate the implementation of effective official controls. The existing systems for collection of data concerning feed businesses may be used by the competent authority of the Member States to start up and implement the system provided for in this Regulation.
+
+(18)
+
+It is appropriate that an approval system for feed businesses be maintained for activities which can present a higher risk in the manufacture of feed. Provision should be made for procedures to extend the current scope of the approval system provided for in Directive 95/69/EC.
+
+(19)
+
+In order to be approved or registered, feed businesses should meet several conditions relevant to their operations, concerning facilities, equipment, personnel, production, quality control, storage and documentation, in order to ensure both feed safety and product traceability. Provision should be made for these conditions to be varied, to ensure that they are appropriate to the various types of feed business. Member States should be allowed to grant conditional approval of establishments, if it appears from the on-site visit that the establishment meets all the infrastructure and equipment requirements. However, it is also appropriate to set a maximum length of time for such conditional approval.
+
+(20)
+
+Provision should be made for temporarily suspending, amending or revoking the registration or approval, where establishments change or cease their activities or no longer fulfil the conditions applicable to their activity.
+
+(21)
+
+The traceability of feed and feed ingredients throughout the feed chain is an essential element in ensuring feed safety. Regulation (EC) No 178/2002 contains rules to ensure the traceability of feed and feed ingredients and provides a procedure for the adoption of implementing rules applicable to specific sectors.
+
+(22)
+
+Successive feed crises have shown that failures at any stage in the feed chain can have important economic consequences. The characteristics of feed production and the complexity of the feed distribution chain mean that it is difficult to withdraw feed from the market. The costs of rectifying the economic damage along the feed and food chain is often borne by public funds. The remedying of this economic consequence at a low cost to society could be improved if the operator whose activity causes economic damage in the feed sector is held financially responsible. However, establishing a general mandatory system of financial liability and financial guarantees, for example through insurance, which applies to all feed business operators may not be feasible or appropriate. The Commission should therefore consider this issue in greater depth, taking into account provisions in existing legislation with regard to liability in other spheres, as well as existing systems and practices amongst the Member States. To this end, the Commission should present a report, accompanied where appropriate by legislative proposals.
+
+(23)
+
+Feed imported into the Community must satisfy the general requirements laid down in Regulation (EC) No 178/2002 and the import conditions laid down in Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules[^f00007]. In order to avoid trade disruptions it is appropriate that, pending the completion of the implementing measures, imports continue to be authorised under the conditions laid down in Directive 98/51/EC.
+
+(24)
+
+Community products exported to third countries have to satisfy the general requirements laid down in Regulation (EC) No 178/2002.
+
+(25)
+
+It is appropriate to broaden the scope of the rapid alert system for food and feed laid down by Regulation (EC) No 178/2002 to include risks to animal health or the environment from feed used for animals not kept for food production.
+
+(26)
+
+Community legislation on feed hygiene has to be underpinned by scientific advice. To this end, the European Food Safety Authority should be consulted whenever necessary.
+
+(27)
+
+To take account of technical and scientific progress, there should be close and effective cooperation between the Commission and the Member States within the Standing Committee on the Food Chain and Animal Health.
+
+(28)
+
+This Regulation takes account of international obligations laid down in the WTO Sanitary and Phytosanitary Agreement and the international food safety standards contained in the Codex Alimentarius.
+
+(29)
+
+The Member States should lay down rules on penalties applicable to infringements of the provisions of this Regulation and ensure that they are implemented. Those penalties have to be effective, proportionate and dissuasive.
+
+(30)
+
+The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission[^f00008].
+
+(31)
+
+It is appropriate to provide for a deferred date of application of the Regulation, in order to allow the feed businesses affected by it time to adapt.
+
+(32)
+
+For the above reasons, Directives 95/69/EC and 98/51/EC should be repealed,
+
+HAVE ADOPTED THIS REGULATION:
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+### Article 1. Subject matter
+
+This Regulation lays down:
+
+- ((a)) general rules on feed hygiene;
+- ((b)) conditions and arrangements ensuring traceability of feed;
+- ((c)) conditions and arrangements for registration and approval of establishments.
+
+### Article 2. Scope
+
+1. This Regulation shall apply to:
+
+- (a) the activities of feed business operators at all stages, from and including primary production of feed, up to and including, the placing of feed on the market;
+- (b) the feeding of food-producing animals;
+- (c) imports and exports of feed from and to third countries.
+
+2. This Regulation shall not apply to:
+
+- (a) the private domestic production of feed:
+  - ((i)) for food-producing animals kept for private domestic consumption;
+
+    and
+  - ((ii)) for animals not kept for food production;
+- (b) the feeding of food-producing animals kept for private domestic consumption or for the activities mentioned in Article 1(2)(c) of Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs[^f00009];
+- (c) the feeding of animals not kept for food production;
+- (d) the direct supply of small quantities of primary production of feed at local level by the producer to local farms for use on those farms;
+- (e) the retailing of pet food.
+
+3.[^key-a8a3da5b5c318df71bd709bdd1672d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 3. Definitions
+
+For the purposes of this Regulation, the definitions in Regulation (EC) No 178/2002 shall apply, subject to the following specific definitions:
+
+- ((a)) ‘feed hygiene’ means the measures and conditions necessary to control hazards and to ensure fitness for animal consumption of a feed, taking into account its intended use;
+- ((b)) ‘feed business operator’ means the natural or legal person responsible for ensuring that the requirements of the present Regulation are met within the feed business under their control;
+- ((c)) ‘feed additives’ means substances or micro-organisms authorised under Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition[^f00010];
+- ((d)) ‘establishment’ means any unit of a feed business;
+- ((e)) ‘competent authority’ means the authority [^key-5a02afc0712d768f374994c7397f1d89]... designated to carry out official controls;
+- ((f)) ‘primary production of feed’ means the production of agricultural products, including in particular growing, harvesting, milking, rearing of animals (prior to their slaughter) or fishing resulting exclusively in products which do not undergo any other operation following their harvest, collection or capture, apart from simple physical treatment.
+- ((g)) “[^key-d479fb120a57addb1affb7c761014f66]**third country**” means any country or territory other than the British Islands;
+- ((h)) “**appropriate authority**” means—
+  - in relation to England, the Secretary of State;
+  - in relation to Wales, the Welsh Ministers;
+  - in relation to Scotland, the Scottish Ministers;
+- ((i)) “**Food Safety Authority**” means—
+  - ((i)) as regards England and Wales, the Food Standards Agency;
+  - ((ii)) as regards Scotland, Food Standards Scotland;
+- ((j)) “**prescribe**” means prescribe by regulations
+
+## CHAPTER II — OBLIGATIONS
+
+### Article 4. General obligations
+
+1.[^key-1fb34a94d278983afd3112512a70e40f] Feed business operators must ensure that all stages of production, processing and distribution under their control are carried out in accordance with relevant hygiene requirements laid down in assimilated[^key-feb5f39b58bb15858e91bf89576c66bf] law.
+
+2. When feeding food-producing animals, farmers shall take measures and adopt procedures to keep the risk of biological, chemical and physical contamination of feed, animals and animal products as low as reasonably achievable.
+
+### Article 5. Specific obligations
+
+1. For operations at the level of primary production of feed and the following associated operations:
+
+- (a) transport, storage and handling of primary products at the place of production;
+- (b) transport operations to deliver primary products from the place of production to an establishment;
+- (c) mixing of feed for the exclusive requirements of their own holdings without using additives or premixtures of additives with the exception of silage additives,
+
+feed business operators shall comply with the provisions in Annex I, where relevant for the operations carried out.
+
+2. For operations other than those referred to in paragraph 1, including mixing of feed for the exclusive requirements of their own holdings when using additives or premixtures of additives with the exception of silage additives, feed business operators shall comply with the provisions in Annex II, where relevant for the operations carried out.
+
+3.[^key-f616b14ce5dce2228f79525b8866746e] Feed business operators must:
+
+- (a) comply with specific microbiological criteria;
+- (b) take measures or adopt procedures necessary to meet specific targets.
+
+The criteria and targets referred to in points (a) and (b) may be prescribed by the appropriate authority.
+
+4. Feed business operators may use the guides provided for in Chapter III to help them comply with their obligations under this Regulation.
+
+5. Farmers shall comply with the provisions set out in Annex III when feeding food-producing animals.
+
+6. Feed business operators and farmers shall only source and use feed from establishments which are registered and/or approved in accordance with this Regulation.
+
+### Article 6. Hazard analysis and critical control points (HACCP) system
+
+1. Feed business operators carrying out operations other than those referred to in Article 5(1) shall put in place, implement and maintain, a permanent written procedure or procedures based on the HACCP principles.
+
+2. The principles referred to in paragraph 1 are the following:
+
+- (a) identify any hazards that must be prevented, eliminated or reduced to acceptable levels;
+- (b) identify the critical control points at the step or steps at which control is essential to prevent or eliminate a hazard or reduce it to acceptable levels;
+- (c) establish critical limits at critical control points which separate acceptability from unacceptability, for the prevention, elimination or reduction of identified hazards;
+- (d) establish and implement effective monitoring procedures at critical control points;
+- (e) establish corrective action when monitoring indicates that a critical control point is not under control;
+- (f) establish procedures to verify that the measures outlined in points (a) to (e) are complete and working effectively. Verification procedures shall be carried out regularly;
+- (g) establish documents and records commensurate with the nature and size of the feed businesses to demonstrate the effective application of the measures set out in points (a) to (f).
+
+3. When any modification is made in a product, process or any stage of production, processing, storage and distribution, feed business operators shall review their procedure and make the necessary changes.
+
+4. As part of the system of procedures referred to in paragraph 1, feed business operators may use guides to good practice in conjunction with guides on the application of HACCP [^key-ff8faf05e2bdfa4872185a9c3393b70a]...
+
+5.[^key-6cdc677123eef986efd40b79f02288b5] Measures to facilitate the implementation of this Article, including for small businesses, may be prescribed by the appropriate authority.
+
+### Article 7. Documents concerning the HACCP system
+
+1. Feed business operators shall:
+
+- (a) provide the competent authority with evidence of their compliance with Article 6 in the form requested by the competent authority;
+- (b) ensure that any documents describing the procedures developed in accordance with Article 6 are up-to-date at all times;
+
+2. The competent authority shall take into account the nature and size of the feed business when fixing requirements as to the form referred to in paragraph 1(a).
+
+3.[^key-699f44870ad05a1d40b8802c0f044097] Detailed arrangements for the implementation of this Article may be prescribed by the appropriate authority. Such arrangements may facilitate certain feed business operators' implementation of HACCP principles developed in accordance with Chapter 3, with a view to complying with the requirements of Article 6(1).
+
+### Article 8. Financial guarantees[^key-b98792d3870de4468b671e30fbfb667c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 9. Official controls, notification and registration
+
+1.[^key-c44ce452fbe35f0a9485a096c646af25] Feed business operators must cooperate with the competent authorities as regards matters related to compliance with assimilated[^key-dc406e9ea750615ec6a37854a885b903] law.
+
+2. Feed business operators shall:
+
+- (a) notify the appropriate competent authority of any establishments under their control, active in any of the stages of production, processing, storage, transport or distribution of feed, in the form required by the competent authority with a view to registration;
+- (b) provide the competent authority with up-to-date information on any establishments under their control as referred to in point (a), including notifying the competent authority of any significant change in activities and any closure of an existing establishment.
+
+3. The competent authority shall maintain a register or registers of establishments.
+
+### Article 10. Approval of feed business establishments
+
+Feed business operators shall ensure that establishments under their control and covered by this Regulation are approved by the competent authority, where:
+
+- ((1)) such establishments carry out one of the following activities:
+  - ((a)) manufacturing and/or placing on the market of feed additives covered by Regulation (EC) No 1831/2003 or products covered by Directive 82/471/EEC and referred to in Chapter 1 of Annex IV to this Regulation;
+  - ((b)) manufacturing and/or placing on the market of premixtures prepared using feed additives referred to in Chapter 2 of Annex IV to this Regulation;
+  - ((c)) manufacturing for placing on the market, or producing for the exclusive requirements of their holdings, compound feedingstuffs using feed additives or premixtures containing feed additives and referred to in Chapter 3 of Annex IV to this Regulation;
+- ((2)) [^key-81229db84853571de96b6fbdc49011af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  or
+- ((3)) approval is required under measures prescribed by the appropriate authority, which measures must be designed to amend non-essential elements of this Regulation by supplementing it.[^key-7d938036623826804944c5afa5fc5933]
+
+### Article 11. Requirements
+
+Feed business operators shall not operate without:
+
+- ((a)) registration as provided for in Article 9;
+
+  or
+- ((b)) approval, when required in accordance with Article 10.
+
+### Article 12. Information on national rules on approval[^key-26fe675896b13216c73fe4dba779b3ad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 13. Approval of establishments
+
+1. The competent authority shall approve establishments only where an on-site visit, prior to start-up of any activity, has demonstrated that they meet the relevant requirements of this Regulation.
+
+2. The competent authority may grant conditional approval if it appears, from the on-site visit, that the establishment meets all the infrastructure and equipment requirements. It shall grant full approval only if it appears, from a new on-site visit carried out within three months of granting conditional approval, that the establishment meets the other requirements referred to in paragraph 1. If clear progress has been made, but the establishment still does not meet all of these requirements, the competent authority may prolong conditional approval. However, conditional approval shall not exceed a total of six months.
+
+### Article 14. Suspension of registration or approval
+
+The competent authority shall temporarily suspend the registration or the approval of an establishment for one, more or all of its activities, where it is shown that the establishment no longer fulfils the conditions applicable to those activities.
+
+Such suspension shall last until the establishment again meets those conditions. Where such conditions are not met within one year, Article 15 shall apply.
+
+### Article 15. Revocation of registration or approval
+
+The competent authority shall revoke the registration or the approval of an establishment, for one or more of its activities, where:
+
+- ((a)) the establishment ceases one or more of its activities;
+- ((b)) it is shown that the establishment has not fulfilled the conditions applicable to its activities, for a period of one year;
+- ((c)) it identifies serious deficiencies or has had to stop production at an establishment repeatedly and the feed business operator is still not able to provide adequate guarantees regarding future production.
+
+### Article 16. Amendments to registration or approval of an establishment
+
+Upon request, the competent authority shall amend the registration or approval of an establishment, where it has demonstrated its capacity to develop activities which are additional to those for which it was first registered or approved, or which replace them.
+
+### Article 17. Exemption from on-site visits[^key-3d4446e08911cb3142668efe3e89b0e0]
+
+1. Competent authorities are exempted from the obligation to carry out on site visits, as provided for in Article 13, of feed businesses which act solely as traders, without holding the products on their premises.
+
+2. Such feed businesses must submit to the competent authority a declaration, in a form decided upon by the competent authority, to the effect that the feeds placed on the market by them comply with the conditions of this Regulation.
+
+### Article 18. Transitional measures
+
+1. Establishments and intermediaries approved and/or registered in accordance with Directive 95/69/EC may continue their activities, on condition that they submit, by 1 January 2006, a notification to this effect to the relevant competent authority in whose area their facilities are located.
+
+2. Establishments and intermediaries requiring neither registration nor approval in accordance with Directive 95/69/EC, but requiring registration in accordance with this Regulation may continue their activities, on condition that they submit, by 1 January 2006, an application for registration to the relevant competent authority in whose area their facilities are located.
+
+3. By 1 January 2008 the applicant must declare, in a form decided upon by the competent authority, that the conditions laid down in this Regulation are being met.
+
+4. The competent authorities shall take account of the systems already existing for the collection of data and request the notifier or the applicant to provide only additional information which guarantees compliance with the conditions of this Regulation. In particular, the competent authorities may consider as an application under paragraph 2 a notification pursuant to Article 6 of Regulation (EC) No 852/2004.
+
+### Article 19. List of registered and approved establishments
+
+1. For each activity, the competent authority shall record in a national list or lists the establishments it has registered in accordance with Article 9.
+
+2. Establishments approved by the competent authority in accordance with Article 13 shall be recorded in a national list, under an individual identifying number.
+
+3. Competent authorities[^key-9b71ccda31d547a963ba9bc518c6871d] shall keep updated the records of establishments in the lists referred to in paragraphs 1 and 2 in accordance with the decisions referred to in Articles 14, 15 and 16 to suspend, revoke or amend registration or approval.
+
+4. The list referred to in paragraph 2 must be drawn up in accordance with the model set out in Annex V, Chapter I.
+
+5. The identifying number referred to in paragraph 2 shall be in the form set out in Annex V, Chapter II.
+
+6.[^key-627b4784cff5c2d495c65004e550dd91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7. The competent authorities shall make available to the public the lists of establishments referred to in paragraph 1.
+
+## CHAPTER III — GUIDES TO GOOD PRACTICE
+
+### Article 20. Development, dissemination and use of guides[^key-8d184b1d4ba6b1d911ef4da917877351]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 21. National guides
+
+1.[^key-a4aff2069e39d7615a7065cef41c579a] When guides to good practice are developed, they must be developed and disseminated by feed business sectors:
+
+- (a) in consultation with representatives of parties whose interests may be substantially affected, such as competent authorities and user groups;
+- (b) having regard to relevant codes of practice of the Codex Alimentarius; and
+- (c) when they concern primary production of feed, having regard to the requirements set out in Annex 1.
+
+2. The Food Safety Authority must assess guides to ensure that:
+
+- (a) they have been developed in accordance with paragraph 1;
+- (b) their contents are practicable for the sectors to which they refer; and
+- (c) they are suitable as guides for compliance with Articles 4, 5 and 6, in the sectors and for the feeds concerned.
+
+3.[^key-aefb401d95b6ed241f67ad4872bf5e55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4.[^key-aefb401d95b6ed241f67ad4872bf5e55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 22. Community guides[^key-b3db5911d3967f5725415ef0750a12cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## CHAPTER IV — IMPORTS AND EXPORTS
+
+### Article 23. Imports[^key-d17a4f973ab7356830de2dd7f38ae3ef]
+
+1. Feed business operators importing feed into Great Britain from a third country must ensure that importation takes place only in accordance with the following conditions—
+
+- (a) the country of dispatch appears on a list of countries from which imports of feed are permitted;
+- (b) the establishment of dispatch appears on a list of establishments from which imports of feed are permitted;
+- (c) the feed was produced by the establishment of dispatch or by another establishment appearing on the list referred to in point (b) or in Great Britain; and
+- (d) the feed satisfies—
+  - (i)) the requirements laid down in this Regulation;
+  - (ii)) those conditions recognised by the appropriate authority to be at least equivalent to those requirements;
+  - (iii)) where a specific agreement between the United Kingdom and the exporting country exists, the requirements contained in that agreement.
+
+2. A model import certificate may be prescribed by the appropriate authority.
+
+### Article 24. Interim measures
+
+By way of derogation from Article 33 and pending the drawing up of the lists provided for in Article 23(1)(a) and (b), imports shall continue to be authorised under the conditions laid down in Article 6 of Directive 98/51/EC (reading Article 6 of Directive 98/51/EC as if the requirement imposed on the Member States were a requirement imposed on the appropriate authority and as if references to the Community were references to Great Britain)[^key-aea9204e4c8b6022cfdf0db5810e4b14].
+
+### Article 25. Exports
+
+Feed, including feed for animals not kept for food production, which is produced in Great Britain[^key-298aa663e6f0669e3ba99d8213db9b14] for placing on the market in third countries, must satisfy the provisions of Article 12 of Regulation (EC) No 178/2002.
+
+## CHAPTER V — FINAL PROVISIONS
+
+### Article 26. Implementing measures[^key-2ffde0320f7966a7e044340df1af1b29]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 27. Amendments of Annexes 1, 2 and 3[^key-22e71efa0ffbcfa499bb9a0904069dc5]
+
+The appropriate authority may prescribe amendments of Annexes 1, 2 and 3 to take account of—
+
+- (a)) the development of codes of good practice;
+- (b)) the experience gained from the implementation of HACCP-based systems pursuant to Article 6;
+- (c)) technological developments;
+- (d)) scientific advice, particularly new risk assessments;
+- (e)) the setting of feed safety targets; and
+- (f)) the development of requirements relating to specific operations.
+
+### Article 28. Derogations from Annexes 1, 2 and 3[^key-e70c4689808c9a5fecb8436143b6daed]
+
+Derogations from Annexes 1, 2 and 3 may be prescribed by the appropriate authority for particular reasons, provided that such derogations do not affect the achievement of the objectives of this Regulation.
+
+### Article 29. Rapid Alert System[^key-49183e9ea8c08247a87efce2c0fd8891]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 30. Penalties[^key-fda3eeb034c1ce699d2d6eb76f3458c0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 30a. Exercise of the delegation
+
+[^key-fda58bab50ab4e0c334dd1fa2a1000ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 31. Committee Procedure[^key-4985fe39637ae64079635fd2de4f053f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 31A. Regulations and devolved powers[^key-aa9d26d42da43a3d60aa33713eddae2b]
+
+1. Any power to make regulations under this Regulation—
+
+- (a) so far as exercisable by a Minister of the Crown, is exercisable by statutory instrument;
+- (b) so far as exercisable by the Welsh Ministers, is exercisable by statutory instrument.
+
+2. For regulations made under this Regulation by the Scottish Ministers, see also section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 (Scottish statutory instruments).
+
+3. Any power to make regulations under this Regulation includes power—
+
+- (a) to make different provision in relation to different cases or classes of case (including different provision for different areas or different classes of business); and
+- (b) to provide for such exceptions, limitations and conditions, and to make such supplementary, incidental, consequential or transitional provisions, as the appropriate authority considers necessary or expedient.
+
+4. Any statutory instrument or Scottish statutory instrument containing regulations made under this Regulation is subject to annulment in pursuance of a resolution—
+
+- (a) in the case of England, of either House of Parliament;
+- (b) in the case of Wales, of Senedd Cymru;
+- (c) in the case of Scotland, of the Scottish Parliament.
+
+5. In this Regulation, any power—
+
+- (a) of the Secretary of State to make regulations is limited to regulations which apply in relation to England only;
+- (b) of the Welsh Ministers to make regulations is limited to regulations which apply in relation to Wales only;
+- (c) of the Scottish Ministers to make regulations is limited to regulations which apply in relation to Scotland only.
+
+### Article 32. Consultation of the ... Food Safety Authority[^key-3a42bdd68e4517a99d871cf499006590][^key-e93d1a95ac56f6e52c0550e4d1a5fa6c]
+
+The appropriate authority must consult the Food Safety Authority on any matter, falling within the scope of this Regulation, that could have a significant impact on public health and, in particular, before proposing criteria or targets in accordance with Article 5(3).
+
+### Article 33. Repeal
+
+The following Directives are repealed, without prejudice to the obligations of the Member States concerning the deadlines for transposition, with effect from 1 January 2006:
+
+- ((a)) Council Directive 95/69/EC;
+- ((b)) Commission Directive 98/51/EC.
+
+### Article 34. Entry into force
+
+This Regulation shall enter into force on the date of its publication in the *Official Journal of the European Union*.
+
+It shall apply as from 1 January 2006.
+
+[^key-5514f59d95987763c299532382da7522]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — PRIMARY PRODUCTION
+
+### PART A — Requirements for feed businesses at the level of primary production of feed referred to in Article 5(1)
+
+I.
+
+Hygiene provisions
+
+1\.
+
+Feed business operators responsible for primary production of feed shall ensure that operations are managed and carried out in such a way as to prevent, eliminate or minimise hazards with the potential to compromise feed safety.
+
+2\.
+
+Feed business operators shall ensure, as far as possible, that primary products produced, prepared, cleaned, packed, stored and transported under their responsibility are protected against contamination and spoilage.
+
+3\.
+
+Feed business operators shall meet the obligations set out in points 1 and 2 by complying with appropriate assimilated[^key-3cb83b5ae98828905c1705630cfa747d][^key-b42b1cd057246e19192498a58d414cc7] law and any other enactment relating to the control of hazards, including:
+
+- ((i)) measures to control hazardous contamination such as that arising from the air, soil, water, fertilisers, plant protection products, biocides, veterinary medicinal products and handling and disposal of waste,
+
+  and
+- ((ii)) measures relating to plant health, animal health and the environment that have implications for feed safety, including programmes for the monitoring and control of zoonoses and zoonotic agents.
+
+4\.
+
+Where appropriate, feed business operators shall take adequate measures, in particular:
+
+- ((a)) to keep clean and, where necessary after cleaning, to disinfect in an appropriate manner, facilities, equipment, containers, crates and vehicles used for producing, preparing, grading, packing, storing and transporting feed;
+- ((b)) to ensure, where necessary, hygienic production, transport and storage conditions for, and the cleanliness of, feed;
+- ((c)) to use clean water whenever necessary to prevent hazardous contamination;
+- ((d)) to prevent, as far as possible, animals and pests from causing hazardous contamination;
+- ((e)) to store and handle wastes and hazardous substances, separately and securely, so as to prevent hazardous contamination;
+- ((f)) to ensure that packaging materials are not a source of hazardous contamination of feed;
+- ((g)) to take account of the results of any relevant analyses carried out on samples taken from primary products or other samples relevant to feed safety.
+
+II.
+
+Record-keeping
+
+1\.
+
+Feed business operators shall keep records relating to measures put in place to control hazards, in an appropriate manner and for an appropriate period, commensurate with the nature and size of the feed business. Feed business operators must make relevant information contained in these records available to the competent authority.
+
+2\.
+
+Feed business operators must, in particular, keep records on:
+
+- ((a)) any use of plant protection products and biocides;
+- ((b)) use of genetically modified seeds;
+- ((c)) any occurrence of pests or diseases that may affect the safety of primary products;
+- ((d)) the results of any analyses carried out on samples taken from primary products or other samples taken for diagnostic purposes that have importance for feed safety;
+- ((e)) the source and quantity of each input of feed and the destination and quantity for each output of feed.
+
+3\.
+
+Other persons, such as veterinarians, agronomists and farm technicians, may assist the feed business operators with the keeping of records relevant to the activities they carry out on the farm.
+
+### PART B — Recommendations for guides to good practice
+
+1\.
+
+Where [^key-d837c1869617ac2eff08550c301531f4]... guides referred to in Chapter III of this Regulation are drawn up, they shall contain guidance on good practices for the control of hazards in primary production of feed.
+
+2\.
+
+Guides to good practices shall include appropriate information on hazards arising in primary production of feed and actions to control hazards, including relevant measures set out in assimilated[^key-e3a1407f2182bfb3ea6ce683624d19ba][^key-3e648f152e2e5ae0daeff79db1c4ff11] law and any other enactment, such as:
+
+- ((a)) the control of contamination such as mycotoxins, heavy metals, radioactive material;
+- ((b)) the use of water, organic waste and fertilisers;
+- ((c)) the correct and appropriate use of plant protection products and biocides and their traceability;
+- ((d)) the correct and appropriate use of veterinary medicinal products and feed additives and their traceability;
+- ((e)) the preparation, storage and traceability of feed materials;
+- ((f)) the proper disposal of dead animals, waste and litter;
+- ((g)) protective measures to prevent the introduction of contagious diseases transmissible to animals through feed and any obligation to notify the competent authority thereof;
+- ((h)) procedures, practices and methods to ensure that feed is produced, prepared, packed, stored and transported under appropriate hygienic conditions, including effective cleaning and pest-control;
+- ((i)) details relating to record-keeping.
+
+## ANNEX II — REQUIREMENTS FOR FEED BUSINESSES OTHER THAN AT THE LEVEL OF PRIMARY PRODUCTION OF FEED REFERRED TO IN ARTICLE 5(1)
+
+DEFINITIONS[^c000005]
+
+For the purposes of this Annex, the following definitions shall apply:
+
+- ((a)) ‘ batch ’ means an identifiable quantity of feed determined to have common characteristics, such as origin, variety, type of packaging, packer, consignor or labelling, and, in the case of a production process, a unit of production from a single plant using uniform production parameters or a number of such units, when produced in continuous order and stored together;
+- ((b)) ‘ products derived from oils and fats ’ means any product derived directly or indirectly from crude or recovered oils and fats by oleochemical or biodiesel processing or distillation, chemical or physical refining, other than:[^c000006]
+  - the refined oil,
+  - products derived from refined oil, and
+  - feed additives;
+- ((c)) ‘fat blending’ means manufacturing of compound feed or, in case of all components belonging to the same entry in PART C of the Annex to Commission Regulation (EU) No 68/2013 [^f00012] which are derived from the same plant or animal species, of feed materials by mixing crude oils, refined oils, animal fats, oils recovered from food business operators falling within the scope of Regulation (EC) No 852/2004 or products derived thereof to produce a blended oil or fat, with the exception of the:
+  - sole storage of consecutive batches, and
+  - exclusive mixing of refined oils;
+- ((d)) ‘ refined oil or fat ’ means oil or fat that has undergone the process of refining as referred to in No 53 of the glossary of processes listed in Part B of the Annex to Regulation (EU) No 68/2013.
+
+FACILITIES AND EQUIPMENT
+
+- Feed processing and storage facilities, equipment, containers, crates, vehicles and their immediate surroundings shall be kept clean, and effective pest control programmes shall be implemented.
+- The lay-out, design, construction and size of the facilities and equipment shall:
+  - ((a)) permit adequate cleaning and/or disinfection;
+  - ((b)) be such as to minimise the risk of error and to avoid contamination, cross-contamination and any adverse effects generally on the safety and quality of the products. Machinery coming into contact with feed shall be dried following any wet cleaning process.
+- Facilities and equipment to be used for mixing and/or manufacturing operations shall undergo appropriate and regular checks, in accordance with written procedures pre-established by the manufacturer for the products.
+  - ((a)) All scales and metering devices used in the manufacture of feeds shall be appropriate for the range of weights or volumes to be measured and shall be tested for accuracy regularly.
+  - ((b)) All mixers used in the manufacture of feeds shall be appropriate for the range of weights or volumes being mixed, and shall be capable of manufacturing suitable homogeneous mixtures and homogeneous dilutions. Operators shall demonstrate the effectiveness of mixers with regard to homogeneity.
+- Facilities must have adequate natural and/or artificial lighting.
+- Drainage facilities must be adequate for the purpose intended; they must be designed and constructed to avoid the risk of contamination of feedingstuffs.
+- Water used in feed manufacture shall be of suitable quality for animals; the conduits for water shall be of an inert nature.
+- Sewage, waste and rainwater shall be disposed of in a manner which ensures that equipment and the safety and quality of feed is not affected. Spoilage and dust shall be controlled to prevent pest invasion.
+- Windows and other openings must, where necessary, be proofed against pests. Doors must be close-fitting and proofed against pests when closed.
+- Where necessary, ceilings and overhead fixtures must be designed, constructed and finished to prevent the accumulation of dirt and to reduce condensation, the growth of undesirable moulds and the shedding of particles that can affect the safety and quality of feed.
+- Establishments carrying out one or more of the following activities to place on the market products for use in feed are subject to approval by the appropriate authority in such a manner as the appropriate authority may prescribe—[^key-258153a89ba5edf40dc1d74c385deed2]
+  - ((a)) processing of crude vegetable oil except those under the scope of Regulation (EC) No 852/2004;
+  - ((b)) oleochemical manufacturing of fatty acids;
+  - ((c)) manufacturing of biodiesel;
+  - ((d)) fat blending.
+
+PERSONNEL
+
+- Feed businesses must have sufficient staff possessing the skills and qualifications necessary for the manufacture of the products concerned. An organisation chart setting out the qualifications (e.g. diplomas, professional experience) and responsibilities of the supervisory staff must be drawn up and made available to the competent authorities responsible for inspection. All the staff must be informed clearly in writing of their duties, responsibilities and powers, especially when any change is made, in such a way as to obtain the desired product quality.
+
+PRODUCTION
+
+- A qualified person responsible for production must be designated.
+- Feed business operators must ensure that the different stages of production are carried out according to pre-established written procedures and instructions aimed at defining, checking and mastering the critical points in the manufacturing process.
+- Technical or organisational measures must be taken to avoid or minimise, as necessary, any cross-contamination and errors. There must be sufficient and appropriate means of carrying out checks in the course of manufacture.
+- The presence of prohibited feed undesirable substances and other contaminants in relation to human or animal health shall be monitored, and appropriate control strategies to minimise the risk shall be put in place.
+- Waste and materials not suitable as feed should be isolated and identified. Any such materials containing hazardous levels of veterinary drugs, contaminants or other hazards shall be disposed of in an appropriate way and not used as feed.
+- Feed business operators shall take adequate measures to ensure effective tracing of the products.
+- Fat blending establishments placing products intended for feed on the market shall keep all products intended for feed physically separated from products intended for other purposes unless the latter products comply:
+  - with the requirements of this Regulation or of Article 4(2) of Regulation (EC) No 852/2004, and
+  - with Annex I to Directive 2002/32/EC of the European Parliament and the Council [^f00013] .
+- The labelling of the products shall clearly indicate whether they are intended for feed or other purposes. If a certain batch of a product is declared not intended for feed use, this declaration shall not be subsequently altered by an operator at a later stage of the chain.
+- The labelling of feed materials according to Article 16 of Regulation (EC) No 767/2009 of the European Parliament and of the Council [^f00014] should use, where available, the denominations as laid in Regulation (EU) No 68/2013.
+
+QUALITY CONTROL
+
+- Where appropriate, a qualified person responsible for quality control must be designated.
+- Feed businesses must, as part of a quality control system, have access to a laboratory with adequate staff and equipment.
+- A quality control plan must be drawn up in writing and implemented, to include, in particular, checks on the critical points in the manufacturing process, sampling procedures and frequencies, methods of analysis and their frequency, compliance with the specifications – and the destination in the event of non-compliance – from processed materials to final products.
+- Documentation relating to the raw materials used in final products must be kept by the manufacturer in order to ensure traceability. Such documentation must be available to the competent authorities for a period appropriate for the use to which the products are placed on the market. In addition, samples of ingredients and of each batch of products manufactured and placed on the market or of each specific portion of production (in the case of continuous production) must be taken in sufficient quantity using a procedure pre-established by the manufacturer and be retained, in order to ensure traceability (on a regular basis in the case of manufacture solely for the manufacturer's own needs). The samples must be sealed and labelled for easy identification; they must be stored under conditions which prevent any abnormal change in the composition of the sample or any adulteration. They must be kept at the disposal of the competent authorities for a period appropriate to the use for which the feed is placed on the market. In the case of feedingstuffs for animals not kept for food production, the manufacturer of the feedingstuff must only keep samples of the finished product.
+
+DIOXIN MONITORING FOR OILS, FATS AND DERIVED PRODUCTS
+
+- Feed business operators placing on the market fats, oils or products derived thereof intended for use in feed, including compound feed, shall analyse those products in accredited laboratories for the sum of dioxins and dioxin-like PCBs in accordance with Commission Regulation (EC) No 152/2009 [^f00015] .
+- To supplement the feed business operator's HACCP system, the analyses referred to in point 1 shall be carried out with at least the following frequencies (if not further specified, a batch of products to be analysed shall not exceed 1 000 tonnes):
+  - ((a)) Feed business operators processing crude vegetable fats and oils:
+    - ((i)) 100 % of the batches of the products derived from oils and fats of vegetable origin, except for the following:
+      - glycerine,
+      - lecithin,
+      - gums,
+      - products referred to in (ii);
+    - ((ii)) acid oils from chemical refining, soap stocks, used filter aids, used bleaching earth and incoming batches of crude coconut oil shall be analysed and documented as part of the HACCP system.
+  - ((b)) Feed business operators producing animal fat including animal fat processors:
+    - ((i)) one representative analysis per 5 000 tonnes with a minimum of one representative analysis per year of animal fat and products derived thereof belonging to category 3 material, as referred to in Article 10 of Regulation (EC) No 1069/2009 of the European Parliament and of the Council [^f00016] or from an establishment approved in accordance with Article 4 of Regulation (EC) No 853/2004 of the European Parliament and of the Council [^f00017] .
+  - ((c)) Feed business operators producing fish oil:
+    - ((i)) 100 % of the batches of fish oil if it is produced from:
+      - products derived from fish oil other than refined fish oil;
+      - fisheries with no monitoring history, of unspecified origin or from the Baltic Sea;
+      - fish by-products from establishments manufacturing fish for human consumption that are not approved under[^key-f7ff91b3c8f8ba88903816f5bad84ce4] assimilated[^key-50a5dda924d280083b63c2bcea5eb57d] law;
+      - blue whiting or menhaden;
+    - ((ii)) 100 % of the outgoing batches of products derived from fish oil other than refined fish oil;
+    - ((iii)) one representative analysis per 2 000 tonnes as regards fish oil not referred to in (i);
+    - ((iv)) fish oil decontaminated by an officially approved treatment as referred to in Annex VIII of Regulation (EC) No 767/2009 and in Commission Regulation (EU) 2015/786 [^f00018] shall be analysed and documented as part of the HACCP system.
+  - ((d)) Oleochemical industry placing feed on the market:
+    - ((i)) 100 % of incoming batches of animal fats not covered by point (b) or (h), fish oil not covered by point (c) or (h), oils and fats recovered from food business operators falling within the scope of Regulation (EC) No 852/2004 and of blended fats and oils;
+    - ((ii)) 100 % of the batches of products derived from oils and fats placed as feed on the market, except for the following:
+      - glycerine,
+      - pure distilled fatty acids from splitting,
+      - products referred to in (iii);
+    - ((iii)) crude fatty acids from splitting, fatty acids esterified with glycerol, mono and diglycerides of fatty acids, salts of fatty acids and incoming batches of crude coconut oil shall be analysed and documented as part of the HACCP system.
+  - ((e)) Biodiesel industry placing feed on the market:
+    - ((i)) 100 % of incoming batches of animal fats not covered by point (b) or (h), fish oil not covered by point (c) or (h), oils and fats recovered from food business operators falling within the scope of Regulation (EC) No 852/2004 and of blended fats and oils;
+    - ((ii)) 100 % of the batches of products derived from oils and fats placed as feed on the market, except for the following:
+      - glycerine,
+      - lecithin,
+      - gums,
+      - products referred to in (iii);
+    - ((iii)) acid oils from chemical refining, soap stocks and crude coconut oil shall be analysed and documented as part of the HACCP system.
+  - ((f)) Fat blending establishments:
+    - ((i)) 100 % of incoming batches of crude coconut oil, animal fats not covered by point (b) or (h), fish oil not covered by point (c) or (h), oils and fats recovered from food business operators falling within the scope of Regulation (EC) No 852/2004, blended fats and oils and products derived from oils and fats, except for the following:
+      - glycerine,
+      - lecithin,
+      - gums,
+      - products referred to in (ii);
+    - ((ii)) acid oils from chemical refining, crude fatty acids from splitting, pure distilled fatty acids from splitting and soap stocks shall be analysed and documented as part of the HACCP system;
+
+      or
+    - ((iii)) 100 % of the batches of blended fats and oils intended for feed.
+
+      The feed business operator shall declare to the competent authority which alternative he chooses.
+  - ((g)) Producers of compound feed for food producing animals other than those covered by point (f):
+    - ((i)) 100 % of incoming batches of crude coconut oil, animal fats not covered by point (b) or (h), fish oil not covered by point (c) or (h), oils and fats recovered from food business operators falling within the scope of Regulation (EC) No 852/2004, blended fats and oils and products derived from oils and fats, except for the following:
+      - glycerine,
+      - lecithin,
+      - gums,
+      - products referred to in (ii);
+    - ((ii)) acid oils from chemical refining, crude fatty acids from splitting, pure distilled fatty acids from splitting; filter aids, bleaching earth and soap stocks shall be analysed and documented as part of the HACCP system;
+    - ((iii)) 1 % of the batches as regards manufactured compound feed containing products referred to in (i) and (ii).
+  - ((h)) Importers placing the following feed on the market:[^c000007]
+    - ((i)) 100 % of imported batches of crude coconut oil, animal fats, fish oils, oils and fats recovered from food business operators, blended fats and oils, tocopherols extracted from vegetable oil and tocopheryl acetate made thereof and products derived from oils and fats, except for the following:
+      - glycerine,
+      - lecithin,
+      - gums,
+      - products referred to in (ii);
+    - ((ii)) acid oils from chemical refining, crude fatty acids from splitting, pure distilled fatty acids from splitting and soap stocks shall be analysed and documented as part of the HACCP system.
+- If it can be demonstrated that a homogenous consignment is bigger than the maximum batch size according to point 2 and that it has been sampled in a representative way, then the results of the analysis of the appropriately drawn and sealed sample will be considered acceptable.
+- Where a feed business operator has documentary proof that a batch of a product or all components of a batch of a product as referred to under point 2 entering his establishment has already been analysed at an earlier stage of production, processing or distribution, the feed business operator shall be released from the obligation to analyse this batch.
+- Any batch of products analysed in accordance with point 2 shall be accompanied by documentary proof that these products, or all of its constituent components, have been analysed or have been submitted for analysis to an accredited laboratory referred to in point 1, except for the batches of products referred to in point 2(a)(ii), (b)(i), (c)(iii), (c)(iv), (d)(iii), (e)(iii), (f)(ii), (g)(ii) and (h)(ii).
+
+  The proof of analysis shall unambiguously link the delivery and the batch or batches tested. This link shall be described in the documented traceability system in place at the premises of the supplier. In particular, when the delivery is obtained from more than one batch or component, the documentary proof to be provided shall be a proof for each of the components of the delivery. In the case where the testing is performed on the outgoing product, the proof that the product has been analysed shall be the analytical report.
+
+  Any delivery of products as referred to under point 2(b) (i) or c (iii) shall be accompanied by a proof that these products are in compliance with the requirements of point 2(b)(i) or (c)(iii). If required, the proof of analysis that include the batch or batches delivered must be consigned to the consignee when the operator receives the analysis from the authorised laboratories.
+- If all incoming batches of products referred to in point 2(g)(i) entering a production process have been analysed in accordance with the requirements of this Regulation and if it can be assured that the production process, handling and storage does not increase the dioxin contamination, the feed business operator shall be released from the obligation to analyse the outgoing product and instead analyse it according to the HACCP system.
+- Where a feed business operator mandates a laboratory to perform an analysis, as referred to in point 1 the feed business operator must instruct the laboratory to communicate the results of that analysis to the competent authority in case the dioxin limits set out in points 1 and 2 of Section 5 of Annex 1 to Directive 2002/32/EC are exceeded.[^key-af1703a322eecb583038d3f5c03ea484]
+
+  [^key-b40c8c9c781b3531bee97836b1a285de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  Feed business operators shall inform the competent authority [^key-32f7e448d60deca816e8029fce6f54d9]... if they mandate a laboratory located in a third country. Evidence must be provided that the laboratory performs the analysis in accordance with Regulation (EC) No 152/2009.
+- The dioxin testing requirements shall be reviewed by 16 March 2014 .
+
+STORAGE AND TRANSPORT
+
+- Processed feeds shall be separated from unprocessed feed materials and additives, in order to avoid any cross-contamination of the processed feed; proper packaging materials shall be used.
+- Feeds shall be stored and transported in suitable containers. They shall be stored in places designed, adapted and maintained in order to ensure good storage conditions, to which only persons authorised by the feed business operators have access.
+- Feeds shall be stored and transported in such a way as to be easily identifiable, in order to avoid any confusion or cross-contamination and to prevent deterioration.
+- Containers and equipment used for the transport, storage, conveying, handling and weighing of feed shall be kept clean. Cleaning programmes shall be introduced, and traces of detergents and disinfectants shall be minimised.
+- Any spoilage shall be minimised and kept under control to reduce pest invasion.
+- Where appropriate, temperatures shall be kept as low as possible to avoid condensation and spoilage.
+- Containers which are to serve for storage or transport of blended fats, oils of vegetable origin or products derived thereof intended for use in feed shall not be used for the transport or storage of products other than these unless the products comply with the requirements of:
+  - this Regulation or of Article 4(2) of Regulation (EC) No 852/2004, and
+  - Annex I to Directive 2002/32/EC.
+
+  They shall be kept separate from any other cargo where there is a risk of contamination.
+
+  Where this separate use is not possible, the containers shall be efficiently cleaned so as to remove any trace of product if those containers were previously used for products not meeting the requirements of:
+
+  - this Regulation or of Article 4(2) of Regulation (EC) No 852/2004, and
+  - Annex I to Directive 2002/32/EC.
+
+  Animal fats of category 3, as laid down in Article 10 of Regulation (EC) No 1069/2009, intended for use in feed shall be stored and transported in line with that Regulation.
+
+RECORD-KEEPING
+
+- All feed business operators, including those who act solely as traders without ever holding the product in their facilities, shall keep in a register relevant data, comprising details of purchase, production and sales for effective tracing from receipt to delivery, including export to the final destination.
+- Feed business operators, except those who act solely as dealers without ever holding the product in their facilities, shall keep in a register:
+  - ((a)) Documentation relating to the manufacturing process and controls.
+
+    Feed businesses must have a system of documentation designed to define and ensure mastery of the critical points in the manufacturing process and to establish and implement a quality control plan. They must keep the results of the relevant controls. This set of documents must be kept so that it is possible to trace the manufacturing history of each batch of products put into circulation and to establish responsibility, if complaints arise.
+  - ((b)) Documentation relating to traceability, in particular:
+    - ((i)) for feed additives:
+      - the nature and quantity of the additives produced, the respective dates of manufacture and, where appropriate, the number of the batch or of the specific portion of production, in the case of continuous manufacture,
+      - the name and address of the establishment to which the additives were delivered, the nature and quantity of the additives delivered and, where appropriate, the number of the batch or of the specific portion of production, in the case of continuous manufacture;
+    - ((ii)) for products covered by Directive 82/471/EEC:
+      - the nature of the products and the quantity produced, the respective dates of manufacture and, where appropriate, the number of the batch or of the specific portion of production, in the case of continuous manufacture,
+      - the name and address of the establishments or users (establishments or farmers) to whom these products have been delivered, together with details of the nature and quantity of the products delivered and, where appropriate, the number of the batch or of the specific portion of production, in the case of continuous manufacture;
+    - ((iii)) for premixtures:
+      - the name and address of the manufacturers or suppliers of additives, the nature and quantity of the additives used and, where appropriate, the number of the batch or of the specific portion of production, in the case of continuous manufacture,
+      - the date of manufacture of the premixture and the batch number where appropriate,
+      - the name and address of the establishment to which the premixture is delivered, the delivery date, the nature and quantity of the premixture delivered, and the batch number where appropriate.
+    - ((iv)) for compound feedingstuffs/feed materials:
+      - the name and address of additive/premixture manufacturers or suppliers, the nature and quantity of the premixture used, with the batch number where appropriate,
+      - the name and address of the suppliers of the feed materials and complementary feeds and the delivery date,
+      - the type, quantity and formulation of the compound feed,
+      - the nature and quantity of feed materials or compound feedingstuffs manufactured, together with the date of manufacture, and the name and address of the buyer (e.g. farmer, other feed business operators).
+
+COMPLAINTS AND PRODUCT RECALL
+
+- Feed business operators shall implement a system for registering and processing complaints.
+- They shall put in place, where this proves necessary, a system for the prompt recall of products in the distribution network. They shall define by means of written procedures the destination of any recalled products, and before such products are put back into circulation they must undergo a quality-control reassessment.
+
+## ANNEX III — GOOD ANIMAL FEEDING PRACTICE
+
+PASTURE GRAZING
+
+The grazing of pastures and croplands shall be managed in a way that minimises the contamination of foods of animal origin by physical, biological or chemical hazards.
+
+Where appropriate, an adequate rest period shall be observed before allowing livestock to graze on pasture, crops and crop residues and between grazing rotations to minimise biological cross-contamination from manure, where such a potential problem exists, and to ensure that the withholding periods for agricultural chemical applications are observed.
+
+REQUIREMENTS FOR STABLE AND FEEDING EQUIPMENT
+
+The animal production unit shall be designed so that it can be adequately cleaned. The animal production unit and feeding equipment shall be cleaned thoroughly and regularly to prevent any build-up of hazards. Chemicals used for cleaning and sanitising shall be used according to instructions and stored away from feed and feeding areas.
+
+A pest control system shall be put in place to control the access of pests to the animal production unit with a view to minimising the possibility of contamination of feed and bedding materials or animal units.
+
+Buildings and feeding equipment shall be kept clean. Systems shall be put in place to regularly remove manure, waste material and other possible sources of contamination of feed.
+
+Feed and bedding material used in the animal production unit shall be frequently changed and not allowed to become mouldy.
+
+FEEDING
+
+1\.
+
+Storage
+
+Feed shall be stored separately from chemicals and other products prohibited for animal feed. Storage areas and containers shall be kept clean and dry and appropriate pest-control measures implemented where necessary. Storage areas and containers shall be cleaned regularly to avoid unnecessary cross-contamination.
+
+Seed shall be stored properly and in such a way that it is not accessible to animals.
+
+Medicated feed and non-medicated feed intended for different categories or species of animals shall be stored such as to reduce the risk of feeding to non-target animals.
+
+2\.
+
+Distribution
+
+The on-farm feed distribution system shall ensure that the right feed is sent to the right destination. During distribution and feeding, feed shall be handled in such a way as to ensure that contamination does not occur from contaminated storage areas and equipment. Non-medicated feeds shall be handled separately from medicated feeds to prevent contamination.
+
+On-farm feed transport vehicles and feeding equipment shall be cleaned periodically, in particular when used to deliver and distribute medicated feed.
+
+FEED AND WATER
+
+Water for drinking or for acquaculture shall be of appropriate quality for the animals being produced. Where there is cause for concern about contamination of animals or animal products from the water, measures shall be taken to evaluate and minimise the hazards.
+
+Feeding and watering equipment must be designed, constructed and placed in such a way that contamination of feed and water is minimised. Watering systems shall be cleaned and maintained regularly, where possible.
+
+PERSONNEL
+
+The person responsible for the feeding and handling of animals shall possess the requisite ability, knowledge and competence.
+
+## ANNEX IV
+
+### CHAPTER 1
+
+Additives authorised pursuant to Regulation (EC) No 1831/2003:
+
+- Nutritional additives: all additives in the group,
+- Zootechnical additives: all additives in the group,
+  - Technological additives: additives covered by Annex I(1)(b) (‘antioxidants’) of Regulation (EC) No 1831/2003: only those with a fixed maximum content,
+- Sensory additives: additives covered by Annex I(2)(a) (‘colorants’) of Regulation (EC) No 1831/2003: carotenoids and xantophylls.
+
+Products covered by Directive 82/471/EEC:
+
+- Proteins obtained from micro-organisms belonging to the group of bacteria, yeasts, algae, lower fungi: all products in the group (except for subgroup 1.2.1)
+- Co-products of the manufacture of amino acids by fermentation: all products in the group
+
+### CHAPTER 2
+
+Additives authorised under Regulation (EC) No 1831/2003:
+
+- Zootechnical additives: additives covered by Annex I(4)(d) (‘other zootechnical additives’) of Regulation (EC) No 1831/2003
+  - Antibiotics: all additives,
+  - Coccidiostats and histomonostats: all additives,
+  - Growth promoters: all additives;
+- Nutritional additives:
+  - additives covered by Annex I(3)(a) (Vitamins, provitamins and chemically well defined substances having a similar effect) of Regulation (EC) No 1831/2003: A and D,
+  - additives covered by Annex I(3)(b) (‘compounds of trace elements’) of Regulation (EC) No 1831/2003: Cu and Se.
+
+### CHAPTER 3
+
+Additives authorised under Regulation (EC) No 1831/2003:
+
+Zootechnical additives: additives covered by Annex I(4)(d) (‘other zootechnical additives’) of Regulation (EC) No 1831/2003
+
+- Antibiotics: all additives
+- Coccidiostats and histomonostats: all additives,
+- Growth promoters: all additives.
+
+## ANNEX V
+
+### CHAPTER I — List of approved feed businesses
+
+<table>
+<tfoot>
+<tr><td colspan="5">Name or business name of the feed businesses.</td></tr>
+<tr><td colspan="5">Address of the feed businesses.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
+<tr><td>Identifying number</td><td>Activity</td><td>Name or business name</td><td>Address</td><td>Remarks</td></tr>
+</tbody>
+</table>
+
+[^f00019][^f00020]
+
+### CHAPTER II
+
+The identifying number must have the following structure:
+
+- 1.. the character ‘α’ if the feed business is approved;
+- 2.. The ISO code of the country where the feed business is located;[^key-7bd9593e68bc945c00b9ee535a264292]
+- 3.. the [^key-0368f181a21172238be99a1214459c37]... reference number, to a maximum of eight alphanumerical characters.
+
+## Annotations
+
+[^f00001]: Footnote: [OJ C 32, 5.2.2004, p. 97](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2004.032.01.0097.01.ENG).
+
+[^f00002]: Footnote: Opinion of the European Parliament of 31 March 2004 (not yet published in the Official Journal) and Council Decision of 21 December 2004.
+
+[^f00003]: Footnote: [OJ L 31, 1.2.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.031.01.0001.01.ENG). Regulation as amended by Regulation (EC) No 1642/2003 ([OJ L 245, 29.9.2003, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.245.01.0004.01.ENG)).
+
+[^f00004]: Footnote: [OJ L 332, 30.12.1995, p. 15](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1995.332.01.0015.01.ENG). Directive as last amended by Regulation (EC) No 806/2003 ([OJ L 122, 16.5.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.122.01.0001.01.ENG)).
+
+[^f00005]: Footnote: [OJ L 213, 21.7.1982, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1982.213.01.0008.01.ENG). Directive as last amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council ([OJ L 284, 31.10.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.284.01.0001.01.ENG)).
+
+[^f00006]: Footnote: [OJ L 208, 24.7.1998, p. 43](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.208.01.0043.01.ENG).
+
+[^f00007]: Footnote: [OJ L 165, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.165.01.0001.01.ENG) (Corrigendum: [OJ L 191, 28.5.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.191.01.0001.01.ENG)).
+
+[^f00008]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
+
+[^f00009]: Footnote: [OJ L 139, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0001.01.ENG). (Corrigendum: [OJ L 226, 25.6.2004, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.226.01.0003.01.ENG)).
+
+[^key-a8a3da5b5c318df71bd709bdd1672d44]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eur/2005/183/article/2/3) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [35](https://www.legislation.gov.uk/uksi/2019/654/regulation/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00010]: Footnote: [OJ L 268, 18.10.2003, p. 29](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.268.01.0029.01.ENG).
+
+[^key-5a02afc0712d768f374994c7397f1d89]: Textual amendment: Words in [Art. 3(e)](https://www.legislation.gov.uk/eur/2005/183/article/3/e) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [36(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/36/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d479fb120a57addb1affb7c761014f66]: Textual amendment: [Arts. 3(g)-(j)](https://www.legislation.gov.uk/eur/2005/183/article/3/g) inserted by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [36(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/36/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(7)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1fb34a94d278983afd3112512a70e40f]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2005/183/article/4/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/654/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-feb5f39b58bb15858e91bf89576c66bf]: Textual amendment: Word in [Art. 4(1)](https://www.legislation.gov.uk/eur/2005/183/article/4/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 9(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/9/a)
+
+[^key-f616b14ce5dce2228f79525b8866746e]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/eur/2005/183/article/5/3) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [38](https://www.legislation.gov.uk/uksi/2019/654/regulation/38); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ff8faf05e2bdfa4872185a9c3393b70a]: Textual amendment: Words in [Art. 6(4)](https://www.legislation.gov.uk/eur/2005/183/article/6/4) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [39(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/39/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6cdc677123eef986efd40b79f02288b5]: Textual amendment: [Art. 6(5)](https://www.legislation.gov.uk/eur/2005/183/article/6/5) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [39(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/39/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-699f44870ad05a1d40b8802c0f044097]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/eur/2005/183/article/7/3) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [40](https://www.legislation.gov.uk/uksi/2019/654/regulation/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b98792d3870de4468b671e30fbfb667c]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2005/183/article/8) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [41](https://www.legislation.gov.uk/uksi/2019/654/regulation/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c44ce452fbe35f0a9485a096c646af25]: Textual amendment: [Art. 9(1)](https://www.legislation.gov.uk/eur/2005/183/article/9/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [42](https://www.legislation.gov.uk/uksi/2019/654/regulation/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dc406e9ea750615ec6a37854a885b903]: Textual amendment: Word in [Art. 9(1)](https://www.legislation.gov.uk/eur/2005/183/article/9/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 9(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/9/b)
+
+[^key-81229db84853571de96b6fbdc49011af]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/eur/2005/183/article/10/2) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [43(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/43/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7d938036623826804944c5afa5fc5933]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/eur/2005/183/article/10/3) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [43(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/43/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-26fe675896b13216c73fe4dba779b3ad]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2005/183/article/12) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [44](https://www.legislation.gov.uk/uksi/2019/654/regulation/44); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3d4446e08911cb3142668efe3e89b0e0]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/eur/2005/183/article/17) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [45](https://www.legislation.gov.uk/uksi/2019/654/regulation/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9b71ccda31d547a963ba9bc518c6871d]: Textual amendment: Words in [Art. 19](https://www.legislation.gov.uk/eur/2005/183/article/19) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [46(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/46/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-627b4784cff5c2d495c65004e550dd91]: Textual amendment: [Art. 19(6)](https://www.legislation.gov.uk/eur/2005/183/article/19/6) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [46(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/46/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8d184b1d4ba6b1d911ef4da917877351]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/eur/2005/183/article/20) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [47](https://www.legislation.gov.uk/uksi/2019/654/regulation/47); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a4aff2069e39d7615a7065cef41c579a]: Textual amendment: [Art. 21(1)](https://www.legislation.gov.uk/eur/2005/183/article/21/1)[(2)](https://www.legislation.gov.uk/eur/2005/183/article/21/2) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [48(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/48/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aefb401d95b6ed241f67ad4872bf5e55]: Textual amendment: [Art. 21(3)](https://www.legislation.gov.uk/eur/2005/183/article/21/3)[(4)](https://www.legislation.gov.uk/eur/2005/183/article/21/4) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [48(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/48/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b3db5911d3967f5725415ef0750a12cc]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/eur/2005/183/article/22) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [49](https://www.legislation.gov.uk/uksi/2019/654/regulation/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d17a4f973ab7356830de2dd7f38ae3ef]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/eur/2005/183/article/23) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [50](https://www.legislation.gov.uk/uksi/2019/654/regulation/50) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(8)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aea9204e4c8b6022cfdf0db5810e4b14]: Textual amendment: Words in [Art. 24](https://www.legislation.gov.uk/eur/2005/183/article/24) inserted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [50A](https://www.legislation.gov.uk/uksi/2019/654/regulation/50A) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-298aa663e6f0669e3ba99d8213db9b14]: Textual amendment: Words in [Art. 25](https://www.legislation.gov.uk/eur/2005/183/article/25) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [51](https://www.legislation.gov.uk/uksi/2019/654/regulation/51) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2ffde0320f7966a7e044340df1af1b29]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/eur/2005/183/article/26) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [52](https://www.legislation.gov.uk/uksi/2019/654/regulation/52); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-22e71efa0ffbcfa499bb9a0904069dc5]: Textual amendment: [Art. 27](https://www.legislation.gov.uk/eur/2005/183/article/27) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [53](https://www.legislation.gov.uk/uksi/2019/654/regulation/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e70c4689808c9a5fecb8436143b6daed]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/eur/2005/183/article/28) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [54](https://www.legislation.gov.uk/uksi/2019/654/regulation/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-49183e9ea8c08247a87efce2c0fd8891]: Textual amendment: [Art. 29](https://www.legislation.gov.uk/eur/2005/183/article/29) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [55](https://www.legislation.gov.uk/uksi/2019/654/regulation/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fda3eeb034c1ce699d2d6eb76f3458c0]: Textual amendment: [Art. 30](https://www.legislation.gov.uk/eur/2005/183/article/30) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [55](https://www.legislation.gov.uk/uksi/2019/654/regulation/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fda58bab50ab4e0c334dd1fa2a1000ba]: Textual amendment: Art. 30a omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [55](https://www.legislation.gov.uk/uksi/2019/654/regulation/55) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4985fe39637ae64079635fd2de4f053f]: Textual amendment: [Art. 31](https://www.legislation.gov.uk/eur/2005/183/article/31) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [55](https://www.legislation.gov.uk/uksi/2019/654/regulation/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aa9d26d42da43a3d60aa33713eddae2b]: Textual amendment: [Art. 31A](https://www.legislation.gov.uk/eur/2005/183/article/31A) inserted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [56](https://www.legislation.gov.uk/uksi/2019/654/regulation/56) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3a42bdd68e4517a99d871cf499006590]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/eur/2005/183/article/32) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [58](https://www.legislation.gov.uk/uksi/2019/654/regulation/58); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e93d1a95ac56f6e52c0550e4d1a5fa6c]: Textual amendment: Word in [Art. 32](https://www.legislation.gov.uk/eur/2005/183/article/32) heading omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [57](https://www.legislation.gov.uk/uksi/2019/654/regulation/57); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5514f59d95987763c299532382da7522]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/183/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [59](https://www.legislation.gov.uk/uksi/2019/654/regulation/59); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3cb83b5ae98828905c1705630cfa747d]: Textual amendment: Word in [Annex 1 Pt. A point 3](https://www.legislation.gov.uk/eur/2005/183/annex/I/part/A) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 9(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/9/c)
+
+[^key-b42b1cd057246e19192498a58d414cc7]: Textual amendment: Words in [Annex 1 Pt. A point 3](https://www.legislation.gov.uk/eur/2005/183/annex/I/part/A) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [60(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/60/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d837c1869617ac2eff08550c301531f4]: Textual amendment: Words in [Annex 1 Pt. B point 1](https://www.legislation.gov.uk/eur/2005/183/annex/I/part/B) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [60(b)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/60/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e3a1407f2182bfb3ea6ce683624d19ba]: Textual amendment: Word in [Annex 1 Pt. B point 2](https://www.legislation.gov.uk/eur/2005/183/annex/I/part/B) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 9(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/9/c)
+
+[^key-3e648f152e2e5ae0daeff79db1c4ff11]: Textual amendment: Words in [Annex 1 Pt. B point 2](https://www.legislation.gov.uk/eur/2005/183/annex/I/part/B) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [60(b)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/60/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c000005]: Textual amendment: Inserted by [Commission Regulation (EU) No 225/2012 of 15 March 2012 amending Annex II to Regulation (EC) No 183/2005 of the European Parliament and of the Council as regards the approval of establishments placing on the market, for feed use, products derived from vegetable oils and blended fats and as regards the specific requirements for production, storage, transport and dioxin testing of oils, fats and products derived thereof (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/225).
+
+[^c000006]: Textual amendment: Substituted by [Commission Regulation (EU) 2015/1905 of 22 October 2015 amending Annex II to Regulation (EC) No 183/2005 of the European Parliament and of the Council as regards the dioxin testing of oils, fats and products derived thereof (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2015/1905).
+
+[^f00012]: Footnote: Commission Regulation (EU) No 68/2013 of[^c000006][^c000005] 16 January 2013 on the Catalogue of feed materials ( [OJ L 29, 30.1.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.029.01.0001.01.ENG) ).
+
+[^key-258153a89ba5edf40dc1d74c385deed2]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2005/183/annex/II) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [61(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/61/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00013]: Footnote: [OJ L 140, 30.5.2002, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.140.01.0010.01.ENG) .
+
+[^f00014]: Footnote: Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed ( [OJ L 229, 1.9.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.229.01.0001.01.ENG) ).;
+
+[^f00015]: Footnote: [OJ L 54, 26.2.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.054.01.0001.01.ENG) .
+
+[^f00016]: Footnote: Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation) ( [OJ L 300, 14.11.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.300.01.0001.01.ENG) ).
+
+[^f00017]: Footnote: Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin ( [OJ L 139, 30.4.2004, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0055.01.ENG) ).
+
+[^key-f7ff91b3c8f8ba88903816f5bad84ce4]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2005/183/annex/II) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [61(b)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/61/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-50a5dda924d280083b63c2bcea5eb57d]: Textual amendment: Word in [Annex 2](https://www.legislation.gov.uk/eur/2005/183/annex/II) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 9(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/9/d)
+
+[^f00018]: Footnote: Commission Regulation (EU) 2015/786 of 19 May 2015 defining acceptability criteria for detoxification processes applied to products intended for animal feed as provided for in Directive 2002/32/EC of the European Parliament and of the Council ( [OJ L 125, 21.5.2015, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.125.01.0010.01.ENG) ).
+
+[^c000007]: Textual amendment: Inserted by [Commission Regulation (EU) 2015/1905 of 22 October 2015 amending Annex II to Regulation (EC) No 183/2005 of the European Parliament and of the Council as regards the dioxin testing of oils, fats and products derived thereof (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2015/1905).
+
+[^key-af1703a322eecb583038d3f5c03ea484]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2005/183/annex/II) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [61(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/654/regulation/61/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b40c8c9c781b3531bee97836b1a285de]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2005/183/annex/II) omitted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [61(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/654/regulation/61/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-32f7e448d60deca816e8029fce6f54d9]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2005/183/annex/II) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [61(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2019/654/regulation/61/ii/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00019]: Footnote: Name or business name of the feed businesses.
+
+[^f00020]: Footnote: Address of the feed businesses.
+
+[^key-7bd9593e68bc945c00b9ee535a264292]: Textual amendment: Words in Annex 5 Ch. 2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [62(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/62/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0368f181a21172238be99a1214459c37]: Textual amendment: Word in [Annex 5 Ch. 2](https://www.legislation.gov.uk/eur/2005/183/annex/V/chapter/II) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [62(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/62/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -1,0 +1,291 @@
+---
+title: Council Decision (CFSP) 2017/2074 of 13 November 2017 concerning restrictive measures in view of the situation in Venezuela
+id: eudn/2017/2074
+type: EuropeanUnionDecision
+category: euretained
+status: revised
+made_date: '2017-11-13'
+text_date: '2020-11-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/eudn/2017/2074
+pdf_urls:
+- http://www.legislation.gov.uk/eudn/2017/2074/pdfs/eudn_20172074_adopted_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/2074/pdfs/eudn_20172074_2018-01-22_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/2074/pdfs/eudn_20172074_2018-06-25_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/2074/pdfs/eudn_20172074_2018-11-08_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/2074/pdfs/eudn_20172074_2019-07-10_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/2074/pdfs/eudn_20172074_2019-09-27_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/2074/pdfs/eudn_20172074_2019-11-13_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/2074/pdfs/eudn_20172074_2020-06-29_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/2074/pdfs/eudn_20172074_2020-11-13_en.pdf
+- http://www.legislation.gov.uk/eudn/2017/2074/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Contains material from the European Union, re-used under Commission Decision 2011/833/EU. The EU does not endorse this repository.
+summary: ''
+---
+
+# Council Decision (CFSP) 2017/2074 of 13 November 2017 concerning restrictive measures in view of the situation in Venezuela
+
+> Text as at 2020-11-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Council Decision (CFSP) 2017/2074
+
+of 13 November 2017
+
+concerning restrictive measures in view of the situation in Venezuela
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1)
+
+The Union remains deeply concerned at the continuing deterioration of democracy, the rule of law and human rights in Venezuela.
+
+(2)
+
+On 15 May 2017, the Council adopted conclusions calling on all Venezuelan political actors and institutions to work in a constructive manner towards a solution to the crisis in the country while fully respecting the rule of law and human rights, democratic institutions and the separation of powers. It also stated that the release of jailed political opponents and respect for constitutional rights are crucial steps in building trust and helping the country to regain political stability.
+
+(3)
+
+The Union has repeatedly expressed its full support for the efforts in Venezuela to facilitate an urgent, constructive and effective dialogue between the Government and the parliamentary majority in order to create the conditions for peaceful solutions to the multidimensional challenges the country faces.
+
+(4)
+
+The Union has strongly encouraged the facilitation of external cooperation to address the most urgent needs of the population and has fully committed to helping Venezuela find peaceful and democratic solutions, including through support for regional and international efforts to that end.
+
+(5)
+
+On 26 July 2017, the Union expressed concern at the numerous reports of human rights violations and excessive use of force, and called on the Venezuelan authorities to respect the Constitution of Venezuela (‘the Constitution’) and the rule of law and to ensure that fundamental rights and freedoms, including the right to peaceful demonstration, are guaranteed.
+
+(6)
+
+On 2 August 2017, the Union expressed its deep regret at the decision of the Venezuelan authorities to continue with the election of a Constituent Assembly, a decision that durably worsened the crisis in Venezuela and risked undermining other legitimate institutions foreseen by the Constitution, such as the National Assembly. While calling on all parties to refrain from violence and on the authorities to ensure full respect for all human rights, and while expressing readiness to assist on all issues which could alleviate the everyday situation of the Venezuelan people, the Union also indicated its readiness to gradually step up its response in case democratic principles were further undermined and the Constitution was not respected.
+
+(7)
+
+In this context and in line with the Declaration by the Union of 2 August 2017, targeted restrictive measures should be imposed against certain natural and legal persons responsible for serious human rights violations or abuses or the repression of civil society and democratic opposition and persons, entities and bodies whose actions, policies or activities undermine democracy or the rule of law in Venezuela, as well as persons, entities and bodies associated with them.
+
+(8)
+
+Furthermore, in view of the risk of further violence, excessive use of force and violations or abuses of human rights, it is appropriate to impose restrictive measures in the form of an arms embargo as well as specific measures to place restrictions on equipment that might be used for internal repression and to prevent the misuse of communication equipment.
+
+(9)
+
+The restrictive measures should be gradual, targeted, flexible and reversible, without affecting the general population and should aim at fostering a credible and meaningful process that can lead to a peaceful negotiated solution.
+
+(10)
+
+Further action by the Union is needed in order to implement certain measures,
+
+HAS ADOPTED THIS DECISION:
+
+## CHAPTER I — EXPORT RESTRICTIONS
+
+**Article 1.** 1. The sale, supply, transfer or export of arms and related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary equipment and spare parts for the aforementioned to Venezuela by nationals of Member States or from the territories of Member States or using their flag vessels or aircraft shall be prohibited whether originating or not in their territories.
+
+2. It shall be prohibited:
+
+- (a) to provide technical assistance, brokering services and other services related to military activities and to the provision, manufacture, maintenance and use of arms and related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary equipment and spare parts for the aforementioned directly or indirectly to any natural or legal person, entity or body in, or for use in, Venezuela;
+- (b) to provide financing or financial assistance related to military activities, including in particular grants, loans and export credit insurance, as well as insurance and reinsurance, for any sale, supply, transfer or export of arms and related materiel or for the provision of related technical assistance, brokering services and other services directly or indirectly to any person, entity or body in, or for use in, Venezuela.
+
+**Article 2.** The prohibition in Article 1 shall not apply to the execution of contracts concluded before 13 November 2017 or to ancillary contracts necessary for the execution of such contracts, provided that they comply with Council Common Position 2008/944/CFSP[^f00001], in particular with the criteria set out in Article 2 thereof, and that the natural or legal persons, entities or bodies seeking to perform the contract have notified the contract to the competent authority of the Member State in which they are established within 5 working days of the entry into force of this Decision.
+
+**Article 3.** 1. The sale, supply, transfer or export of equipment which might be used for internal repression to Venezuela by nationals of Member States or from the territories of Member States or using their flag vessels or aircraft shall be prohibited whether originating or not in their territories.
+
+2. It shall be prohibited:
+
+- (a) to provide technical assistance, brokering services and other services related to equipment which might be used for internal repression and to the provision, manufacture, maintenance and use of such equipment directly or indirectly to any natural or legal person, entity or body in, or for use in, Venezuela;
+- (b) to provide financing or financial assistance related to equipment which might be used for internal repression, including in particular grants, loans and export credit insurance, as well as insurance and reinsurance, for any sale, supply, transfer or export of such equipment or for the provision of related technical assistance, brokering services and other services directly or indirectly to any person, entity or body in, or for use in, Venezuela.
+
+3. The Union shall take the necessary measures in order to determine the relevant items to be covered by this Article.
+
+**Article 4.** 1. Articles 1 and 3 shall not apply to:
+
+- (a) the sale, supply, transfer or export of non-lethal military equipment, or of equipment which might be used for internal repression, intended solely for humanitarian or protective use, or for institution-building programmes of the United Nations (UN) and the Union and its Member States or of regional and subregional organisations, or of materiel intended for crisis-management operations of the UN and the Union or of regional and subregional organisations;
+- (b) the sale, supply, transfer or export of demining equipment and materiel for use in demining operations;
+- (c) the maintenance of non-lethal equipment which might be used by the navy and coastguard of Venezuela intended solely for border protection, regional stability and the interception of narcotics;
+- (d) the provision of financing and financial assistance related to the equipment or materiel referred to in points (a), (b) and (c);
+- (e) the provision of technical assistance related to the equipment or materiel referred to in points (a), (b) and (c),
+
+on condition that such exports have been approved in advance by the relevant competent authority.
+
+2. Articles 1 and 3 shall not apply to protective clothing, including flak jackets and military helmets, temporarily exported to Venezuela by UN personnel, personnel of the Union or its Member States, representatives of the media, and humanitarian and development workers and associated personnel for their personal use only.
+
+**Article 5.** 1. The sale, supply, transfer or export of equipment, technology or software intended primarily for use in the monitoring or interception by, or on behalf of, the Venezuelan regime of the internet and of telephone communications on mobile or fixed networks in Venezuela, including the provision of any telecommunication or internet monitoring or interception services of any kind, as well as the provision of financial and technical assistance to install, operate or update such equipment, technology or software, by nationals of Member States or from the territories of Member States shall be prohibited.
+
+2. By derogation from paragraph 1, Member States may authorise the sale, supply, transfer or export of the equipment, technology or software, including the provision of any telecommunication or internet monitoring or interception services of any kind, as well as the related provision of financial and technical assistance, referred to in paragraph 1 if they have reasonable grounds to determine that the equipment, technology or software would not be used for internal repression by Venezuela's government, public bodies, corporations or agencies, or any person or entity acting on their behalf or at their direction.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph, within four weeks of the authorisation.
+
+3. The Union shall take the necessary measures in order to determine the relevant elements to be covered by this Article.
+
+## CHAPTER II — RESTRICTIONS ON ADMISSION
+
+**Article 6.** 1. Member States shall take the necessary measures to prevent the entry into, or transit through, their territories of:
+
+- (a) natural persons responsible for serious human rights violations or abuses or the repression of civil society and democratic opposition in Venezuela; or
+- (b) natural persons whose actions, policies or activities otherwise undermine democracy or the rule of law in Venezuela;
+
+as listed in Annex I.
+
+2. Paragraph 1 shall not oblige a Member State to refuse its own nationals entry into its territory.
+
+3. Paragraph 1 shall be without prejudice to the cases where a Member State is bound by an obligation of international law, namely:
+
+- (a) as a host country to an international intergovernmental organisation;
+- (b) as a host country to an international conference convened by, or under the auspices of, the UN;
+- (c) under a multilateral agreement conferring privileges and immunities; or
+- (d) under the 1929 Treaty of Conciliation (Lateran Pact) concluded by the Holy See (State of the Vatican City) and Italy.
+
+4. Paragraph 3 shall be considered as also applying in cases where a Member State is host country of the Organization for Security and Co-operation in Europe (OSCE).
+
+5. The Council shall be duly informed in all cases where a Member State grants an exemption pursuant to paragraph 3 or 4.
+
+6. Member States may grant exemptions from the measures imposed in paragraph 1 where travel is justified on the grounds of urgent humanitarian need, or on grounds of attending intergovernmental meetings and meetings promoted by the Union, or hosted by a Member State holding the chairmanship in office of the OSCE, where a political dialogue is conducted that directly promotes democracy, human rights and the rule of law in Venezuela.
+
+7. A Member State wishing to grant exemptions referred to in paragraph 6 shall notify the Council in writing. The exemption shall be deemed to be granted unless one or more of the Council members raise an objection in writing within two working days of receiving notification of the proposed exemption. In the event that one or more of the Council members raise an objection, the Council, acting by a qualified majority, may decide to grant the proposed exemption.
+
+8. Where, pursuant to paragraphs 3, 4, 6 and 7, a Member State authorises the entry into, or transit through, its territory of persons listed in Annex I, the authorisation shall be limited to the purpose for which it is given and to the persons concerned thereby.
+
+## CHAPTER III — FREEZING OF FUNDS AND ECONOMIC RESOURCES
+
+**Article 7.** 1. All funds and economic resources belonging to or owned, held or controlled by:
+
+- (a) natural or legal persons, entities or bodies responsible for serious human rights violations or abuses or the repression of civil society and democratic opposition in Venezuela;
+- (b) natural or legal persons, entities or bodies whose actions, policies or activities otherwise undermine democracy or the rule of law in Venezuela,
+
+as listed in Annex I, shall be frozen.
+
+2. All funds and economic resources belonging to or owned, held or controlled by natural or legal persons, entities and bodies associated with the persons entities or bodies referred to in paragraph 1, as listed in Annex II, shall be frozen.
+
+3. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of natural or legal persons, entities or bodies listed in Annex I or II.
+
+4. The competent authority of a Member State may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as it deems appropriate, after having determined that the funds or economic resources concerned are:
+
+- (a) necessary to satisfy the basic needs of the natural or legal persons, entities or bodies listed in Annex I or II and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums and public utility charges;
+- (b) intended exclusively for the payment of reasonable professional fees and the reimbursement of incurred expenses associated with the provision of legal services;
+- (c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;
+- (d) necessary for extraordinary expenses, provided that the relevant competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation; or
+- (e) to be paid into or from an account of a diplomatic or consular mission or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic or consular mission or international organisation.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph.
+
+5. By way of derogation from paragraphs 1 and 2, the competent authorities of a Member State may authorise the release of certain frozen funds or economic resources if the following conditions are met:
+
+- (a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in paragraph 1 or 2 was listed in Annex I or II, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+- (b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+- (c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex I or II; and
+- (d) recognising the decision is not contrary to public policy in the Member State concerned.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph.
+
+6. Paragraphs 1 and 2 shall not prevent a natural or legal person, entity or body listed in Annex I or II from making a payment due under a contract or agreement that was concluded by, or an obligation that arose for, a natural or legal person, an entity or body listed in Annex I or II prior to the date on which such natural or legal person, entity or body was listed therein, provided that the Member State concerned has determined that the payment is not in breach of paragraph 3.
+
+7. Paragraph 3 shall not apply to the addition to frozen accounts of:
+
+- (a) interest or other earnings on those accounts;
+- (b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which those accounts became subject to the measures provided for in paragraphs 1, 2 and 3; or
+- (c) payments due under judicial, administrative or arbitral decisions rendered in the Union or enforceable in the Member State concerned,
+
+provided that any such interest, other earnings and payments remain subject to the measures provided for in paragraph 1 or 2.
+
+## CHAPTER IV — GENERAL AND FINAL PROVISIONS
+
+**Article 8.** 1. The Council, acting by unanimity upon a proposal by a Member State or the High Representative of the Union for Foreign Affairs and Security Policy, shall establish and amend the lists in Annexes I and II.
+
+2. The Council shall communicate the decision referred to in paragraph 1, including the grounds for the listing, to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing such person, entity or body with an opportunity to present observations.
+
+3. Where observations are submitted, or where substantial new evidence is presented, the Council shall review the decision referred to in paragraph 1 and inform the natural or legal person, entity or body concerned accordingly.
+
+**Article 9.** 1. Annexes I and II shall include the grounds for listing the natural and legal persons, entities and bodies referred to in Articles 6(1) and 7(1), and Article 7(2), respectively.
+
+2. Annexes I and II shall also contain, where available, the information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include: names, including aliases; date and place of birth; nationality; passport and identity card numbers; gender; address, if known; and function or profession. With regard to legal persons, entities or bodies, such information may include names, place and date of registration, registration number and place of business.
+
+**Article 9a.**[^c000001] 1. The Council and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘ High Representative ’ ) may process personal data in order to carry out their tasks under this Decision, in particular:
+
+- (a) as regards the Council, for preparing and making amendments to Annexes I and II;
+- (b) as regards the High Representative, for preparing amendments to Annexes I and II.
+
+2. The Council and the High Representative may process, where applicable, relevant data relating to criminal offences committed by listed natural persons, to criminal convictions of such persons or to security measures concerning such persons, only to the extent that such processing is necessary for the preparation of Annexes I and II.
+
+3. For the purposes of this Decision, the Council and the High Representative are designated as ‘controllers’ within the meaning of point (8) of Article 3 of Regulation (EU) 2018/1725 of the European Parliament and of the Council [^f00002] , in order to ensure that the natural persons concerned can exercise their rights under Regulation (EU) 2018/1725.
+
+**Article 10.** It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the measures laid down in this Decision.
+
+**Article 11.** No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Decision, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, in particular a claim for extension or payment of a bond, guarantee or indemnity, in particular a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+- ((a)) designated natural or legal persons, entities or bodies listed in Annex I or II;
+- ((b)) any natural or legal person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in point (a).
+
+**Article 12.** In order to maximise the impact of the measures set out in this Decision, the Union shall encourage third States to adopt restrictive measures similar to those provided for in this Decision.
+
+**Article 13.**[^c000002] This Decision shall apply until[^c000003] 14 November 2021 .
+
+This Decision shall be kept under constant review. It shall be renewed, or amended as appropriate, if the Council deems that its objectives have not been met.
+
+**Article 14.** This Decision shall enter into force on the date of its publication in the *Official Journal of the European Union*.
+
+## ANNEX I — List of natural and legal persons, entities and bodies referred to in Articles 6(1) and 7(1)
+
+|  | Name | Identifying information | Reasons | Date of listing |
+| --- | --- | --- | --- | --- |
+| 1\. | Néstor Luis REVEROL TORRES | Date of birth: 28 October 1964<br>Gender: male | Minister for Interior, Justice and Peace since 2016. Also appointed as Vice‐President of Public Works and Services and Executive Secretary of the Electrical General Staff in April 2019. Former Commander General of the Bolivarian National Guard, he was promoted to General in Chief of the Bolivarian National Guard in August 2020. Responsible for serious human rights violations, including the torture of (political) prisoners, and the repression of the democratic opposition in Venezuela, including the prohibition and repression of political demonstrations, committed by security forces under his command. | 22.1.2018 |
+| 2\. | Gustavo Enrique GONZÁLEZ LÓPEZ | Date of birth: 2 November 1960<br>Gender: male | Reappointed as Head of the Bolivarian National Intelligence Service (SEBIN) on 30 April 2019 . Formerly Security and Intelligence Adviser for the President’s office from 8 January 2019 to 30 April 2019 and Head of SEBIN until October 2018. As Head of SEBIN, responsible for serious human rights violations (including arbitrary detention, inhuman and degrading treatment, and torture) and the repression of civil society and the democratic opposition in Venezuela. | 22.1.2018 |
+| 3\. | Tibisay LUCENA RAMÍREZ | Date of birth: 26 April 1959<br>Gender: female | President of the National Electoral Council ( *Consejo Nacional Electora* l or CNE) from April 2006 until June 2020. Her actions and policies have undermined democracy and the rule of law in Venezuela, including by failing to ensure that the CNE remains an impartial and independent institution in accordance with the Venezuelan Constitution, thereby facilitating the establishment of the Constituent Assembly and the re‐election of Nicolás Maduro in May 2018 through presidential elections that were neither free nor fair. | 22.1.2018 |
+| 4\. | Antonio José BENAVIDES TORRES | Date of birth: 13 June 1961<br>Gender: male | Chief of the Capital District ( *Distrito Capital* ) Government until January 2018. General Commander of the Bolivarian National Guard until 21 June 2017 . Involved in the repression of civil society and democratic opposition in Venezuela, and responsible for serious human rights violations committed by the Bolivarian National Guard under his command. His actions and policies as General Commander of the Bolivarian National Guard, including the Bolivarian National Guard taking the lead in the policing of civilian demonstrations and publicly advocating that military courts should have jurisdiction over civilians, have undermined the rule of law in Venezuela. | 22.1.2018 |
+| 5\. | Maikel José MORENO PÉREZ | Date of birth: 12 December 1965<br>Gender: male | President, and former Vice President, of the Supreme Court of Justice of Venezuela ( *Tribunal Supremo de Justicia* ). In these roles, he has supported and facilitated the Government’s actions and policies which have undermined democracy and the rule of law in Venezuela, and is responsible for actions and statements that have usurped the authority of the National Assembly, including the appointment of the National Electoral Council (CNE) in June 2020 and the suspension and replacement of the leadership boards of three opposition parties in June and July 2020. | 22.1.2018 |
+| 6\. | Tarek William SAAB HALABI | Date of birth: 10 September 1963<br>Place of birth: El Tigre, Anzoátegui state, Venezuela<br>Gender: male | Venezuelan Attorney General appointed by the Constituent Assembly. In this role, and in previous roles as Ombudsman and President of the Republican Moral Council, he has undermined democracy and the rule of law in Venezuela by publicly supporting actions against opponents of the government of Venezuela and the withdrawal of competences from the National Assembly. | 22.1.2018 |
+| 7\. | Diosdado CABELLO RONDÓN | Date of birth: 15 April 1963<br>Gender: male | President of the Constituent Assembly and First Vice President of the United Socialist Party of Venezuela (PSUV). Involved in undermining democracy and the rule of law in Venezuela, including by using the media to publicly attack and threaten political opposition, other media and civil society. | 22.1.2018 |
+| 8\. | Tareck Zaidan EL-AISSAMI MADDAH | Date of birth: 12 November 1974<br>Gender: male | Vice President of Economy and Minister of the Popular Power of Petroleum as well as National Industry and Production. As the former Vice President of Venezuela with oversight of the direction of the Bolivarian National Intelligence Service (SEBIN), El-Aissami is responsible for the serious human rights violations carried out by the organisation, including arbitrary detentions, politically motivated investigations, inhumane and degrading treatment, and torture. He is also responsible for supporting and implementing policies and activities which undermine democracy and the rule of law, including the prohibition of public demonstrations, and heading President Maduro’s ‘ anti-coup command ’ which has targeted civil society and the democratic opposition. | 25.6.2018 |
+| 9\. | Sergio José RIVERO MARCANO | Date of birth: 8 November 1964<br>Gender: male | Inspector General of the Bolivarian National Armed Forces (FANB), General Commander of the Bolivarian National Guard until 16 January 2018 . Involved in the repression of civil society and democratic opposition in Venezuela, and responsible for serious human rights violations committed by the Bolivarian National Guard under his command, including the excessive use of force, and the arbitrary detention and abuse of civil society and opposition members. His actions and policies as General Commander of the Bolivarian National Guard, including the Bolivarian National Guard assaulting members of the democratically elected National Assembly and intimidating journalists reporting on the fraudulent elections for the illegitimate Constituent Assembly, have undermined democracy and the rule of law in Venezuela. | 25.6.2018 |
+| 10\. | Jesús Rafael SUÁREZ CHOURIO | Date of birth: 19 July 1962<br>Gender: male | Commander in Chief of the Venezuelan Bolivarian National Army. Former Chief of the General Staff to the Commander‐in‐Chief, former General Commander of the Venezuelan Bolivarian National Army and former Commander of Venezuela’s Comprehensive Defence Region of the Central Zone (REDI Central). Responsible for serious human rights violations by forces under his command during his tenure as General Commander of the Venezuelan Bolivarian National Army, including the use of excessive force and the mistreatment of detainees. He has targeted the democratic opposition and supported the use of military courts to try civilian protestors. | 25.6.2018 |
+| 11\. | Iván HERNÁNDEZ DALA | Date of birth: 18 May 1966<br>Gender: male | Head of the Directorate-General of Military Counter-Intelligence (DGCIM) since January 2014 and Head of the Presidential Guard since September 2015. As Head of the DGCIM, Iván Hernández Dala is responsible for serious human rights violations and the repression of civil society and democratic opposition committed by members of the DGCIM under his command, including the use of excessive force and the ill-treatment of detainees. | 25.6.2018 |
+| 12\. | Delcy Eloina RODRÍGUEZ GÓMEZ | Date of birth: 18 May 1969<br>Gender: female | Vice President of Venezuela, former President of the illegitimate Constituent Assembly and former member of the Presidential Commission for the illegitimate National Constituent Assembly. Her actions on the Presidential Commission and then as President of the illegitimate Constituent Assembly have undermined democracy and the rule of law in Venezuela, including usurping the powers of the National Assembly and using them to target the opposition and prevent them taking part in the political process. | 25.6.2018 |
+| 13\. | Elías José JAUA MILANO | Date of birth: 16 December 1969<br>Gender: male | Former Minister of Popular Power for Education. Former President of the Presidential Commission for the illegitimate National Constituent Assembly. Responsible for undermining democracy and the rule of law in Venezuela through his role in leading the establishment of the illegitimate Constituent Assembly. | 25.6.2018 |
+| 14\. | Sandra OBLITAS RUZZA | Date of birth: 7 June 1969<br>Gender: female | Rector of the *Universidad Bolivariana de Venezuela* . Former Vice President of the National Electoral Council (CNE) and former President of the Commission of the Electoral and Civilian Register. Responsible for the CNE’s activities which have undermined democracy in Venezuela, including facilitating the establishment of the illegitimate Constituent Assembly and manipulation of the electoral process. | 25.6.2018 |
+| 15\. | Freddy Alirio BERNAL ROSALES | Date of birth: 16 June 1962<br>Place of birth: San Cristóbal, Táchira state, Venezuela<br>Gender: male | Head of the National Control Centre of the Committee for Local Supply and Production (CLAP) and Protector of Táchira State. Also a Commissioner General of the Bolivarian National Intelligence Service (SEBIN). As Head of the CLAP and Protector of Táchira State he can call upon Special Forces (FAES) and is able to influence appointments of judges and prosecutors. Responsible for undermining democracy through manipulation of CLAP programme distributions amongst voters. Additionally, as Commissioner General of SEBIN he is responsible for SEBIN’s activities which include serious human rights violations such as arbitrary detention. | 25.6.2018 |
+| 16\. | Katherine Nayarith HARRINGTON PADRÓN | Date of birth: 5 December 1971<br>Gender: female | Deputy Prosecutor General (also translated as Deputy Attorney General) from July 2017 until October 2018. Appointed Deputy Prosecutor General by the Supreme Court in violation of the Constitution, rather than by the National Assembly. Responsible for undermining democracy and the rule of law in Venezuela, including by initiating politically-motivated prosecutions and failing to investigate allegations of human rights violations by the Maduro regime. | 25.6.2018 |
+| 17\. | Socorro Elizabeth HERNÁNDEZ | Date of birth: 11 March 1952<br>Gender: female | Member (Rector) of the National Electoral Council (CNE) until 12 June 2020 and member of the National Electoral Board (JNE). Responsible for the CNE’s activities which have undermined democracy in Venezuela, including facilitating the establishment of the illegitimate Constituent Assembly and manipulation of the electoral process in relation to a cancelled presidential recall election in 2016, postponement of gubernatorial elections in 2016, and the relocation of polling stations at short notice before gubernatorial elections in 2017. | 25.6.2018 |
+| 18\. | Xavier Antonio MORENO REYES | Gender: male | Secretary-General of the National Electoral Council (CNE) from 2009 until June 2020. In this role responsible for approving CNE decisions which have undermined democracy in Venezuela, including facilitating the establishment of the illegitimate Constituent Assembly and the manipulation of the electoral process. | 25.6.2018 |
+| 19\. | Néstor Neptali BLANCO HURTADO | Date of birth: 26 September 1982<br>ID number: V‐15222057<br>Gender: male | Major in the Bolivarian National Guard (GNB), operated alongside officials in the Directorate‐General of Military Counter‐Intelligence ( *Dirección General de Contrainteligencia Militar* (DGCIM)) since at least December 2017. Responsible for serious human rights violations, including torture, the use of excessive force and the mistreatment of detainees in DGCIM facilities. | 27.9.2019 |
+| 20\. | Rafael Ramón BLANCO MARRERO | Date of birth: 28 February 1968<br>ID number: V-6250588<br>Gender: male | Deputy Director of the Directorate-General of Military Counter-Intelligence ( *Dirección General de Contrainteligencia Militar* (DGCIM)) since at least December 2018 and Division General of the Venezuelan Bolivarian National Army since 5 July 2019 . Responsible for serious human rights violations, including torture, the use of excessive force and the mistreatment of detainees in DGCIM facilities, that were committed by DGCIM officials under his command. Linked to the death of Captain Acosta. | 27.9.2019 |
+| 21\. | Carlos Alberto CALDERÓN CHIRINOS | ID number: V‐10352300<br>Gender: male | Senior office holder (referred to as Commissioner, Director and Director-General) in the Bolivarian National Intelligence Service (SEBIN). Responsible for serious human rights violations, including torture, the use of excessive force and the mistreatment of detainees in SEBIN facilities. In particular, he participated in and was responsible for acts of torture and the cruel, inhuman and degrading treatment of detainees in El Helicoide, a SEBIN prison. | 27.9.2019 |
+| 22\. | Alexis Enrique ESCALONA MARRERO | Date of birth: 12 October 1962<br>Gender: male | Chief in Charge of the National Office Against Organized Crime and Terrorist Financing (ONDOFT) from January 2018 until May 2019. National Commander of the National Anti-Extortion and Kidnapping Command ( *Comando Nacional Antiextorsión y Secuestro* (CONAS)) between 2014 and 2017. Responsible for serious human rights violations, including torture, the use of excessive force and the mistreatment of detainees by members of CONAS under his command. Also responsible for the repression of civil society by members of CONAS under his command. | 27.9.2019 |
+| 23\. | Rafael Antonio FRANCO QUINTERO | Date of birth: 14 October 1973<br>ID number: V-11311672<br>Gender: male | Agent in the Bolivarian National Intelligence Service (SEBIN). Head of Security at Maiquetía International Airport. Head of Investigations at the Directorate-General of Military Counter-Intelligence ( *Dirección General de Contrainteligencia Militar* (DGCIM)) between at least 2017 and December 2018. Responsible for serious human rights violations, including torture, the use of excessive force and the ill-treatment of detainees in DGCIM facilities by members of the DGCIM under his command. Also responsible for the repression of civil society and democratic opposition by members of the DGCIM under his command. Linked to the death of Captain Acosta. | 27.9.2019 |
+| 24\. | Alexander Enrique GRANKO ARTEAGA | Date of birth: 25 March 1981<br>ID Number: V-14970215<br>Gender: male | Head (Director) of the Special Affairs Division (DAE) of the Directorate-General of Military Counter-Intelligence ( *Dirección General de Contrainteligencia Militar* (DGCIM)). Promoted to the rank of lieutenant colonel of the Bolivarian National Guard on 1 July 2020 . Responsible for serious human rights violations, including torture, the use of excessive force causing death and injury and the ill-treatment of detainees in DGCIM facilities committed by himself and by officials under his command. Also responsible for the repression of civil society by members of DGCIM under his command, as well as being directly involved in such repression. Linked to the death of Captain Acosta. | 27.9.2019 |
+| 25\. | Hannover Esteban GUERRERO MIJARES | Date of birth: 14 January 1971<br>Gender: male | Head of Investigations at the Directorate-General of Military Counter-Intelligence ( *Dirección General de Contrainteligencia Militar* (DGCIM)) from at least April 2019 to August 2019. As Head of Investigations, he supervised the DGCIM facility in Boleita. Responsible for serious human rights violations, including torture, the use of excessive force and the ill-treatment of detainees committed by himself and by officials under his command, particularly in Boleita. Linked to the death of Captain Acosta. | 27.9.2019 |
+| 26\. | José Adelino ORNELAS FERREIRA<br>Alias: José Adelino ORNELLA FERREIRA/José Adelino ORNELLAS FERREIRA | Date of birth: 14 December 1964<br>Place of birth: Caracas, Distrito Capital, Venezuela<br>ID number: V-7087964<br>Gender: male | Secretary-General of the National Defence Council since 26 July 2019 and Chief of the General Staff to the Commander‐in‐Chief since September 2020. Former commander of the National Capital Integral Strategic Defence Region (REDI Capital), former Chief of Staff and former Second-in-Command of the Operational and Strategic Command of the Bolivarian National Armed Forces of Venezuela (CEOFANB). In these roles he has supported and facilitated actions and policies of the Government of Venezuela which have undermined democracy and the rule of law in Venezuela. Responsible for serious human rights violations and the repression of civil society and democratic opposition in Venezuela, including obstructing the provision of humanitarian aid and the use of excessive force by officials of the Bolivarian Armed Forces (FANB), and by subordinate forces under his command, including the Integral Strategic Defence Region (REDI), the Integral Defence Operations Zone (ZODI) and the Bolivarian National Guard. | 29.6.2020 |
+| 27\. | Gladys del Valle REQUENA | Date of birth: 9 November 1952<br>Place of birth: Puerto Santo, Sucre, Venezuela<br>ID number: V-4114842<br>Gender: female | Member and, since 26 October 2018 , the Second Vice-President of the non-recognised National Constituent Assembly (ANC). In her leading role in the non-recognised ANC, she has undermined democracy and the rule of law in Venezuela including by signing the decree that stripped the president of the National Assembly of Venezuela, Juan Guaidó, of his parliamentary immunity. | 29.6.2020 |
+| 28\. | Tania Valentina DÍAZ GONZÁLEZ | Date of birth: 18 June 1963<br>Place of birth: Caracas, Distrito Capital, Venezuela<br>ID number: V-6432672<br>Gender: female | Member and, since 4 January 2018 , the First Vice-President of the non-recognised National Constituent Assembly (ANC). In her leading role in the non-recognised ANC she has undermined democracy and the rule of law in Venezuela, including by signing the decree that stripped the president of the National Assembly of Venezuela, Juan Guaidó, of his parliamentary immunity. | 29.6.2020 |
+| 29\. | Elvis Eduardo HIDROBO AMOROSO | Date of birth: 4 August 1963<br>Place of birth: Caracas, Distrito Capital, Venezuela<br>ID number: V-7659695<br>Gender: male | Comptroller General, since 23 October 2018 , and former First and Second Vice-President of the non-recognised National Constituent Assembly (ANC). His actions have undermined democracy and the rule of law in Venezuela, including by leading the non-recognised ANC, signing the ‘ law against hatred ’ , justifying the removal of a legally-elected opposition governor and banning Juan Guaidó from running for any public office. | 29.6.2020 |
+| 30\. | Juan José MENDOZA JOVER | Date of birth: 11 March 1969<br>Place of birth: Trujillo, Venezuela<br>Address: Arnoldo Gabaldón, Candelaria, Edo. Trujillo<br>ID number: V-9499372<br>Gender: male | Second Vice-President of the Venezuelan Supreme Court of Justice ( *Tribunal Supremo de Justicia* (TSJ)) and President of the Constitutional Chamber of the TSJ since 24 February 2017 . His actions have undermined democracy and the rule of law in Venezuela, including by a number of judicial rulings in the past two years that have limited or undermined the constitutional powers of Venezuela’s democratically-elected legislative body, the National Assembly. | 29.6.2020 |
+| 31\. | Jorge Elieser MÁRQUEZ MONSALVE | Date of birth: 20 February 1971<br>Place of birth: Caracas, Venezuela<br>ID number: V-8714253<br>Gender: male | Director-General of the National Commission of Telecommunications (CONATEL) since 7 August 2017 . His actions have undermined democracy and the rule of law in Venezuela, including by severely limiting the rights of the Venezuelan people to free press, free speech and information. He used the special powers of CONATEL to silence criticism and dissidents of the regime by blocking, filtering and obstructing internet websites and by revoking existing licences for radio and television stations and refusing to grant new such licences. | 29.6.2020 |
+| 32\. | Farik Karin MORA SALCEDO | ID number: V-8608523<br>Gender: male | Prosecutor serving at the Venezuelan First Special Court of First Instance with an office within the Directorate-General of Military Counter-Intelligence ( *Dirección General de Contrainteligencia Militar* (DGCIM)). His actions have undermined democracy and the rule of law in Venezuela, including by initiating politically motivated prosecutions which resulted in the arbitrary detention of members of the National Assembly and other officials opposing the Maduro regime. | 29.6.2020 |
+| 33\. | Dinorah Yoselin BUSTAMANTE PUERTA | Date of birth: 14 January 1975<br>ID number: V-10002096<br>Gender: female | Prosecutor serving at the Venezuelan First Special Court of First Instance, with an office within the Directorate-General of Military Counter-Intelligence ( *Dirección General de Contrainteligencia Militar* (DGCIM)). Her actions have undermined democracy and the rule of law in Venezuela, including by initiating politically motivated prosecutions which resulted in the arbitrary detention of members of the National Assembly and other officials opposing the Maduro regime. | 29.6.2020 |
+| 34\. | Luis Eduardo PARRA RIVERO | Date of birth: 7 July 1978<br>ID number: V-14211633<br>Gender: male | Member and illegitimately elected President of the National Assembly. As a member of the National Assembly, he staged his election as the President of the National Assembly on 5 January 2020 , thereby undermining democracy and the rule of law in Venezuela. The election took place while entry of several parliamentarians to the premises of the National Assembly was blocked by military police, and without a quorum being reached. Therefore opposition members had to organise themselves outside of the premises of the National Assembly to re-elect Juan Guaidó as its President. Shortly after the staged election of Parra, supported by the regime’s political party (PSUV), Parra was welcomed by Maduro and the non-recognised National Constituent Assembly (ANC). | 29.6.2020 |
+| 35\. | Franklyn Leonardo DUARTE | Date of birth: 15 May 1977<br>ID number: V-3304045<br>Gender: male | Member and illegitimately elected first Vice-President of the National Assembly. As a member of the National Assembly, he staged his election as the first Vice-President of the National Assembly on 5 January 2020 , thereby undermining democracy and the rule of law in Venezuela. The election took place while entry of several parliamentarians to the premises of the National Assembly was blocked by military police, and without a quorum being reached. Therefore, opposition members had to organise themselves outside of the premises of the National Assembly to re-elect Juan Guaidó as its President. Shortly after the staged election of Duarte, supported by the regime’s political party (PSUV), the election of the Board of Directors of the National Assembly was welcomed by Maduro and the non-recognised National Constituent Assembly (ANC). | 29.6.2020 |
+| 36\. | José Gregorio NORIEGA FIGUEROA | Date of birth: 21 February 1969<br>ID number: V-8348784<br>Gender: male | Member and illegitimately elected second Vice-President of the National Assembly. Illegitimately appointed director of the ad-hoc board of political party *Voluntad Popular* . As a member of the National Assembly he staged his election as the second Vice-President of the National Assembly on 5 January 2020 , thereby undermining democracy and the rule of law in Venezuela. The election took place while entry of several parliamentarians to the premises of the National Assembly was blocked by military police, and without a quorum being reached. Therefore opposition members had to organise themselves outside of the premises of the National Assembly to re-elect Juan Guaidó as its President. Shortly after the staged election of Noriega, supported by the regime’s political party (PSUV), the election of the Board of Directors of the National Assembly was welcomed by Maduro and the non-recognised National Constituent Assembly (ANC). In July 2020, Noriega, helped by the Venezuelan Supreme Court of Justice ( *Tribunal Supremo de Justicia* (TSJ)), illegitimately took over the leadership of the political party *Voluntad Popular* , thereby further undermining democracy in Venezuela. | 29.6.2020 |
+
+## ANNEX II — List of natural and legal persons, entities and bodies referred to in Article 7(2)
+
+## Annotations
+
+[^f00001]: Footnote: Council Common Position 2008/944/CFSP of 8 December 2008 defining common rules governing control of exports of military technology and equipment ([OJ L 335, 13.12.2008, p. 99](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.335.01.0099.01.ENG)).
+
+[^c000001]: Textual amendment: Inserted by [Council Decision (CFSP) 2019/1893 of 11 November 2019 amending Decision (CFSP) 2017/2074 concerning restrictive measures in view of the situation in Venezuela](https://www.legislation.gov.uk/eudn/2019/1893).
+
+[^f00002]: Footnote: Regulation (EU) 2018/1725 of the European Parliament and of the Council of[^c000001] 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC ( [OJ L 295, 21.11.2018, p. 39](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.295.01.0039.01.ENG) ).
+
+[^c000002]: Textual amendment: Substituted by [Council Decision (CFSP) 2018/1656 of 6 November 2018 amending Decision (CFSP) 2017/2074 concerning restrictive measures in view of the situation in Venezuela](https://www.legislation.gov.uk/eudn/2018/1656).
+
+[^c000003]: Textual amendment: Substituted by [Council Decision (CFSP) 2020/1700 of 12 November 2020 amending Decision (CFSP) 2017/2074 concerning restrictive measures in view of the situation in Venezuela](https://www.legislation.gov.uk/eudn/2020/1700).
