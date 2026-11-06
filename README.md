@@ -25,19 +25,19 @@ road traffic, using the subject headings of legislation.gov.uk.
 
 The repository is laid out for AI assistants as well as people. [`index/laws.csv`](index/laws.csv)
 has one row per law with the path of its file, and [AGENTS.md](AGENTS.md) explains the layout.
+A free MCP server, `https://uk-law-mcp.uk-law-mcp.workers.dev/mcp` (no sign-in), lets assistants
+search and read every law.
 
-- **Claude Code:** install the plugin, then ask about UK law in any session:
-  ```
-  /plugin marketplace add flaviohtavares/uk-law-tools
-  /plugin install uk-law@uk-law-tools
-  ```
-- **Codex and other agents:** install the same skill, or clone part of this repository and work
-  inside it. Step-by-step instructions: [uk-law-tools](https://github.com/flaviohtavares/uk-law-tools).
-- **ChatGPT, Claude.ai and any MCP client:** connect the free MCP server
-  `https://uk-law-mcp.uk-law-mcp.workers.dev/mcp` (no sign-in). How to add it in each app:
-  [uk-law-mcp](https://github.com/flaviohtavares/uk-law-mcp).
-- **Any chat assistant that reads the web:** give it the link to [`llms.txt`](llms.txt) or to a law's
-  file. Files can be read at `https://raw.githubusercontent.com/flaviohtavares/uk-law/main/<path>`.
+| app | how to connect |
+|---|---|
+| **Claude** (claude.ai, Desktop, mobile) | [Customize → Connectors](https://claude.ai/customize/connectors) → **+ Add** → **Add custom connector** → paste the MCP server URL → **No sign in** → **Add** |
+| **Claude Code** | `/plugin marketplace add flaviohtavares/uk-law-tools` then `/plugin install uk-law@uk-law-tools`, or `claude mcp add --transport http --scope user uk-law https://uk-law-mcp.uk-law-mcp.workers.dev/mcp` |
+| **Codex** | `codex mcp add uk-law --url https://uk-law-mcp.uk-law-mcp.workers.dev/mcp`, or the skill: `curl -fsSL https://raw.githubusercontent.com/flaviohtavares/uk-law-tools/main/install.sh \| sh` |
+| **ChatGPT** (web; Pro, Business, Enterprise/Edu) | [Plugins](https://chatgpt.com/plugins) → **+** → **Add custom MCP server** → paste the URL, authentication **None** → **Create as a plugin** → in a chat type **@** and pick it |
+| **ChatGPT Free/Plus and other chat assistants** | paste `https://raw.githubusercontent.com/flaviohtavares/uk-law/main/llms.txt` into the chat |
+
+Step-by-step instructions for each app: [uk-law-tools](https://github.com/flaviohtavares/uk-law-tools#install-step-by-step).
+Then ask, for example: *"What does section 86 of the Employment Rights Act 1996 say?"*
 
 The full clone is about 4 GB. To get only part of it:
 
