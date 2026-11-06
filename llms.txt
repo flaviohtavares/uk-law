@@ -1,0 +1,22 @@
+# UK Law
+
+> The legislation of the United Kingdom (Acts and regulations of the UK Parliament, Scotland, Wales
+> and Northern Ireland, historic parliaments and EU-origin law) as Markdown, converted from
+> legislation.gov.uk and updated daily. Not an official source and not legal advice.
+
+Find a law in the index (one CSV row per law, with the path of its file), then open
+`https://raw.githubusercontent.com/flaviohtavares/uk-law/main/<path>`. Long laws are a folder whose README.md lists every section.
+
+## Start here
+
+- [Instructions for AI agents](https://raw.githubusercontent.com/flaviohtavares/uk-law/main/AGENTS.md): layout, file format, status values
+- [Index of every law](https://raw.githubusercontent.com/flaviohtavares/uk-law/main/index/laws.csv): id, title, year, status, extent, topics, path
+- [Topics](https://raw.githubusercontent.com/flaviohtavares/uk-law/main/topics/README.md): laws in force by subject
+- [Coverage](https://raw.githubusercontent.com/flaviohtavares/uk-law/main/COVERAGE.md): what is included and what is missing
+
+## Optional
+
+- [Nations](https://github.com/flaviohtavares/uk-law/tree/main/nations): laws made by each nation
+- [Catalogue](https://github.com/flaviohtavares/uk-law/tree/main/catalogue): laws available only as PDF
+- [Tools for Claude Code and Codex](https://github.com/flaviohtavares/uk-law-tools): a skill to search and read this repository
+- [Official source](https://www.legislation.gov.uk)

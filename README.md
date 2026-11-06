@@ -21,6 +21,28 @@ extend there; every file says where it extends.
 [Topics](topics/README.md) lists the laws in force by subject, such as employment, housing, tax or
 road traffic, using the subject headings of legislation.gov.uk.
 
+## Using it with AI tools
+
+The repository is laid out for AI assistants as well as people. [`index/laws.csv`](index/laws.csv)
+has one row per law with the path of its file, and [AGENTS.md](AGENTS.md) explains the layout.
+
+- **Claude Code:** install the plugin, then ask about UK law in any session:
+  ```
+  /plugin marketplace add flaviohtavares/uk-law-tools
+  /plugin install uk-law@uk-law-tools
+  ```
+- **Codex and other agents:** install the same skill, or clone part of this repository and work
+  inside it. Step-by-step instructions: [uk-law-tools](https://github.com/flaviohtavares/uk-law-tools).
+- **ChatGPT and other chat assistants:** give them the link to [`llms.txt`](llms.txt) or to a law's
+  file. They can read files at `https://raw.githubusercontent.com/flaviohtavares/uk-law/main/<path>`.
+
+The full clone is about 4 GB. To get only part of it:
+
+```
+git clone --depth 1 --filter=blob:none --sparse https://github.com/flaviohtavares/uk-law
+cd uk-law && git sparse-checkout set index topics uk-parliament/acts
+```
+
 ## Where things are
 
 - `uk-parliament/`: Acts and regulations of the UK Parliament
@@ -29,6 +51,8 @@ road traffic, using the subject headings of legislation.gov.uk.
   the unions, Northern Ireland before 1972)
 - `eu-origin/`: EU-origin legislation as published by legislation.gov.uk
 - `catalogue/`: documents that exist only as a PDF or a record, with links
+- `index/laws.csv`: every law with text, one row each, with the path of its file
+- `topics/`, `nations/`: laws in force by subject and by nation
 
 Each file starts with the title, the status of the text, its date, its extent and a link to the
 official version. [COVERAGE.md](COVERAGE.md) says what is here and what is missing.
