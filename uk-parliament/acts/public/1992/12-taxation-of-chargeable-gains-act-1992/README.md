@@ -165,7 +165,7 @@ An Act to consolidate certain enactments relating to the taxation of chargeable 
 - [Section 14 — Non-resident groups of companies.](part-i/section-14.md)
 - [Section 14A — Section 13: non-UK domiciled individuals](part-i/section-14a.md)
 
-#### CommentaryRef Ref="key-8f1b51e533ff9b07068f2c9150edcf5f"/>UK residential property: non-resident CGT[^c-8f1b51e533ff9b07068f2c9150edcf5f]
+#### UK residential property: non-resident CGT[^c-8f1b51e533ff9b07068f2c9150edcf5f]
 
 - [Section 14B — Meaning of “non-resident CGT disposal”](part-i/section-14b.md)
 - [Section 14C — Meaning of “disposal of a UK residential property interest”](part-i/section-14c.md)
