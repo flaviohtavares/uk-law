@@ -16,6 +16,11 @@ legislation published on legislation.gov.uk.
 Each page lists the laws in force made for that nation. Laws of the UK Parliament can also
 extend there; every file says where it extends.
 
+## Looking for a subject?
+
+[Topics](topics/README.md) lists the laws in force by subject, such as employment, housing, tax or
+road traffic, using the subject headings of legislation.gov.uk.
+
 ## Where things are
 
 - `uk-parliament/`: Acts and regulations of the UK Parliament
