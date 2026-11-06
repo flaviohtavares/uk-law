@@ -1,0 +1,50 @@
+---
+title: Planning (Wales) Act 2026, section 26
+act: Planning (Wales) Act 2026
+section: '26'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/6/section/26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning (Wales) Act 2026, section 26
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 26. Power to direct authority to submit plan for approval[^key-d25a6244c4c160a7b94c933d90647a6f]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The Welsh Ministers may at any time before a plan is adopted direct the plan-making authority to submit the plan to them for their approval.
+
+(2) If the Welsh Ministers give a direction under this section—
+
+- (a) the plan-making authority must not take any further steps in connection with the adoption of the plan;
+- (b) if the direction is given before the authority has submitted the plan for independent examination, the Welsh Ministers must cause an independent examination of the plan to be held in accordance with section 23(4) to (7);
+- (c) if the direction is given after the authority has submitted the plan for independent examination, the inspector appointed to carry out the examination must make recommendations to the Welsh Ministers;
+- (d) the plan has no effect unless it is approved by the Welsh Ministers.
+
+(3) The Welsh Ministers must publish the recommendations made to them by virtue of subsection (2)(b) or (c) and the reasons of the inspector who makes the recommendations.
+
+(4) In considering a plan submitted to them in accordance with a direction under this section, the Welsh Ministers may take account of any matter they consider relevant, whether or not it was taken into account by the plan-making authority.
+
+(5) Where a plan is submitted to them in accordance with a direction under this section, the Welsh Ministers may—
+
+- (a) approve the plan as submitted,
+- (b) approve it with modifications, or
+- (c) reject it.
+
+(6) The Welsh Ministers must give reasons for their decision.
+
+(7) In exercising their functions under this section in relation to a plan, the Welsh Ministers must have regard to the delivery agreement for the plan (see section 21).
+
+## Annotations
+
+[^key-d25a6244c4c160a7b94c933d90647a6f]: Commencement: S. 26 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

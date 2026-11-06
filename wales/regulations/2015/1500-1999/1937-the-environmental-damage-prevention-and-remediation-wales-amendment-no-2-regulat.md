@@ -1,0 +1,149 @@
+---
+title: The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015
+id: wsi/2015/1937
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-11-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2015/1937
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2015/1937/pdfs/wsi_20151937_mi.pdf
+- http://www.legislation.gov.uk/wsi/2015/1937/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 1937 (W. 291)
+
+Environmental Protection, Wales
+
+The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015
+
+Made
+
+24 November 2015
+
+Laid before the National Assembly for Wales
+
+27 November 2015
+
+Coming into force
+
+18 December 2015
+
+The Welsh Ministers are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972 (“the 1972 Act”)[^f00002] in relation to the prevention and remedy of environmental damage and make these Regulations in exercise of the powers conferred by that section as read with paragraph 1A of Schedule 2 to that Act[^f00003].
+
+These Regulations amend the Environmental Damage (Prevention and Remediation) (Wales) Regulations 2009 (“the 2009 Regulations”)[^f00004]. These Regulations make provision for a purpose mentioned in section 2(2) of, and paragraph 1A of Schedule 2 to, the 1972 Act. It appears to the Welsh Ministers that, for the purposes of the 2009 Regulations as they have effect as amended by these Regulations, it is expedient for the EU instruments referred to in the 2009 Regulations as amended by these Regulations to be construed as references to those instruments as amended from time to time.
+
+## 1. Title and commencement
+
+(1) The title of these Regulations is the Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015.
+
+(2) These Regulations come into force on 18 December 2015.
+
+## 2. Amendments to the Environmental Damage (Prevention and Remediation) (Wales) Regulations 2009
+
+The Environmental Damage (Prevention and Remediation) (Wales) Regulations 2009 are amended in accordance with regulations 3 to 5.
+
+**3.** In regulation 2(1) (interpretation)—
+
+- (a) in the definition of “natural habitat” (“cynefin naturiol”) for paragraph (a) substitute—
+
+  > - (a) the habitats of species mentioned in Article 4(2) of, or Annex I to, Council Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) on the conservation of wild birds[^f00005] or listed in Annex II to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora[^f00006];
+
+  ;
+- (b) for the definition of “protected species” substitute (“rhywogaethau a warchodir”)—
+
+  > - “protected species” (“ rhywogaethau a warchodir ”) means a species of a kind mentioned in Article 4(2) of Council Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) or listed in Annex I to that Directive or Annexes II and IV to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043);
+
+**4.** In Schedule 1 (Damage to protected species, natural habitats and sites of special scientific interest), for paragraph 5 substitute—
+
+> **5. Express authorisation**
+>
+> Damage to a protected species or natural habitat, and damage to a site of special scientific interest, does not include damage caused by an act expressly authorised by the relevant authorities in accordance with Part 2 of the Wildlife and Countryside Act 1981[^f00007] or the Conservation of Habitats and Species Regulations 2010[^f00008].
+
+**5.** In Schedule 2 (Activities causing damage)—
+
+- (a) for paragraph 2 (Operation of permitted installations) substitute—
+
+  > **2. Operation of permitted installations**
+  >
+  > The operation of installations subject to permit in pursuance of Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control)[^f00009].
+- (b) in paragraph 3(2) (Waste management operations) for the words “Directive [2000/76/EC](https://www.legislation.gov.uk/european/directive/2000/0076) of the European Parliament and of the Council on the incineration of waste.” substitute “Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control).”;
+- (c) in paragraph 5(2) (Discharges requiring authorisation) after the word “substances” in the second place it occurs, insert “or Directive [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration[^f00010]”;
+- (d) in paragraph 7(d) (Dangerous substances, plant protection products and biocidal products) after the word “market”, insert “or as defined in Article 3(1)(a) of Regulation No. 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products[^f00011]”.
+- (e) for paragraph 8 substitute—
+
+  > **8. Transport**
+  >
+  > Transport by road, rail, inland waterways, sea or air of dangerous goods; or polluting goods as defined in—
+  >
+  > - (a) Directive [2002/59/EC](https://www.legislation.gov.uk/european/directive/2002/0059) of the European Parliament and of the Council establishing a Community vessel traffic monitoring and information system[^f00012]; and
+  > - (b) Directive [2008/68/EC](https://www.legislation.gov.uk/european/directive/2008/0068) of the European Parliament and of the Council on the inland transport of dangerous goods[^f00013]
+
+  .
+- (f) In Schedule 2 after paragraph 10 insert—
+
+  > **11. Operation of carbon dioxide storage sites**
+  >
+  > The operation of storage sites pursuant to Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council on the geological storage of carbon dioxide[^f00014].
+
+Carl Sargeant
+
+Minister for Natural Resources, one of the Welsh Ministers
+
+24 November 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Environmental Damage (Prevention and Remediation) (Wales) Regulations 2009 (“the 2009 Regulations”) which continue to implement Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage.
+
+Regulation 3 amends the definitions of “natural habitat” (“cynefin naturiol”) and “protected species” (“rhywogaethau a warchodir”) to reflect the consolidation and replacement of Directive [79/407/EEC](https://www.legislation.gov.uk/european/directive/1979/0407) by Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147).
+
+Regulation 4 amends paragraph 5 of Schedule 1 to the 2009 Regulations to update references to legislation under which damage to protected species and natural habitats, and damage on a site of special scientific interest may be authorised.
+
+Regulation 5 updates the list of EU legislation in Schedule 2 of the 2009 Regulations, by reference to which activities will attract strict liability. The nature of the activities captured in the list is not affected.
+
+References to all EU legislation, other than Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) are references to legislation as amended from time to time.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2014/1890](https://www.legislation.gov.uk/uksi/2014/1890).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00003]: Footnote: Paragraph 1A was inserted into Schedule 2 by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388)..
+
+[^f00004]: Footnote: [S.I. 2009/995 (W.81)](https://www.legislation.gov.uk/wsi/2009/995); relevant amending instruments are S.I [2011/556](https://www.legislation.gov.uk/uksi/2011/556), [2011/971 (W.141)](https://www.legislation.gov.uk/wsi/2011/971), [2012/630](https://www.legislation.gov.uk/uksi/2012/630), [2013/755 (W.90)](https://www.legislation.gov.uk/wsi/2013/755) and [2015/1394 (W. 138)](https://www.legislation.gov.uk/wsi/2015/1394). Other amending instruments not relevant for these purposes are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 2011/2131](https://www.legislation.gov.uk/uksi/2011/2131).
+
+[^f00005]: Footnote: OJ No. L 20, 26.01.2010, p.7; amended by Council Directive 2013/17/EU (OJ No. L 158, 10.06.2013, p.193).
+
+[^f00006]: Footnote: OJ No. L 206, 22.07.1992, p.7; last amended by Council Directive 2013/17/EU (OJ No. L 158, 10.06.2013, p.193).
+
+[^f00007]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
+
+[^f00008]: Footnote: [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490), amended by [S.I. 2011/603](https://www.legislation.gov.uk/uksi/2011/603), [2011/625](https://www.legislation.gov.uk/uksi/2011/625), [2012/630](https://www.legislation.gov.uk/uksi/2012/630), [2012/635](https://www.legislation.gov.uk/uksi/2012/635), [2012/ 637](https://www.legislation.gov.uk/uksi/2012/637), [2012/1927](https://www.legislation.gov.uk/uksi/2012/1927), [2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755) and [S.I. 2015/377](https://www.legislation.gov.uk/uksi/2015/377).
+
+[^f00009]: Footnote: OJ No L 334, 17.12.2010, p.17.
+
+[^f00010]: Footnote: OJ No. L 372, 27.12.2006. p.19, amended by Commission Directive 2014/80/EU (OJ No. L 182, 21.6.2014, p.52).
+
+[^f00011]: Footnote: OJ No. L 167, 27.6.2012, p.1; last amended by Regulation (EU) No. 334/2014 of the European Parliament and of Council (OJ No. L 103, 5.4.2014, p.22).
+
+[^f00012]: Footnote: OJ No. L 208, 5.8.2002, p.10; last amended by Commission Directive 2014/100/EU (OJ No. L 308, 29.10.2014, p.82).
+
+[^f00013]: Footnote: OJ No. L 260, 30.9.2008, p.13; last amended by Commission Implementing Decision 2015/974/EU (OJ No L 157/53, 17.6.2015, p. 53).
+
+[^f00014]: Footnote: OJ No. L 140, 5.6.2009, p.114; amended by Directive 2011/92/EU of the European Parliament and of the Council (OJ No. L 26, 28.1.2012, p.1).

@@ -1,0 +1,278 @@
+---
+title: The Feeding Stuffs (Sampling and Analysis), the Feeding Stuffs (Enforcement) and the Feeding Stuffs (Establishments and Intermediaries) (Amendment) (Wales) Regulations 2003
+id: wsi/2003/1677
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-07-02'
+text_date: '2006-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2003/1677
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2003/1677/pdfs/wsi_20031677_mi.pdf
+- http://www.legislation.gov.uk/wsi/2003/1677/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Feeding Stuffs (Sampling and Analysis), the Feeding Stuffs (Enforcement) and the Feeding Stuffs (Establishments and Intermediaries) (Amendment) (Wales) Regulations 2003
+
+> Text as at 2006-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 1677 (W.180)
+
+AGRICULTURE, WALES
+
+The Feeding Stuffs (Sampling and Analysis), the Feeding Stuffs (Enforcement) and the Feeding Stuffs (Establishments and Intermediaries) (Amendment) (Wales) Regulations 2003
+
+Made
+
+2nd July 2003
+
+Coming into force
+
+14th July 2003
+
+The National Assembly for Wales, in exercise of the powers conferred on it by sections 66(1), 75(1), 76(1), 77(4), 78(6), 79(1) and (2) and 84 of the Agriculture Act 1970 [^c5184341], after consultation as required by section 84(1) of that Act and by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c5184351], and being designated [^c5184361] for the purposes of section 2(2) of the European Communities Act 1972 in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by that last mentioned section (in so far as these Regulations cannot be made under the powers in the Agriculture Act 1970 specified above), makes the following Regulations:
+
+## 1. Title, commencement and application
+
+(1) These Regulations may be cited as the Feeding Stuffs (Sampling and Analysis), the Feeding Stuffs (Enforcement) and the Feeding Stuffs (Establishments and Intermediaries) (Amendment) (Wales) Regulations 2003 and shall come into force on 14th July 2003.
+
+(2) These Regulations shall apply to Wales only.
+
+## 2. Amendment of the Feeding Stuffs (Sampling and Analysis) Regulations 1999
+
+The Feeding Stuffs (Sampling and Analysis) Regulations 1999 [^c5184371] shall be amended in relation to Wales in accordance with regulations 3 to 7.
+
+## 3.
+
+In regulation 1 (title, commencement and interpretation) for paragraph (2) there shall be substituted the following paragraph —
+
+> (2) In these Regulations —
+>
+> “**the Act**” means the Agriculture Act 1970;
+>
+> “**the sampling Directive**” means First Commission Directive [76/371/EEC](https://www.legislation.gov.uk/european/directive/1976/0371) establishing the methods of sampling for the official control of feeding stuffs [^c5184381]; and
+>
+> “**Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070)**” means Commission Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) establishing requirements for the determination of levels of dioxins and dioxin-like PCBs in feeding stuffs [^c5184391].
+
+.
+
+## 4.
+
+For regulation 3 (manner of taking, preparing, marking, sealing and fastening of samples) there shall be substituted the following regulation —
+
+> **3. Manner of taking, preparing, marking, sealing and fastening samples**
+>
+> The manner in which samples of —
+>
+> - (a) feeding stuffs; and
+> - (b) feed materials to be sampled pursuant to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070),
+>
+> are to be taken, prepared, marked, sealed and fastened shall be as prescribed in Schedule 1.
+
+.
+
+## 5.
+
+In regulation 6 (application of methods of analysis) —
+
+- (a) for paragraph (1) there shall be substituted the following paragraph —
+
+  > (1) Subject to paragraphs (1A) and (2) below, to determine whether a substance of a kind listed in column 1 of Annex I to Part II of Schedule 2, or to which the method of analysis specified in Annex II or as the case may be Annex III to that Part relates, is present or active in a sample of —
+  >
+  > - (a) a feeding stuff to be analysed pursuant to the Act;
+  > - (b) (in the case of the substances vitamin A and vitamin E) a premixture to be analysed pursuant to Commission Directive [2000/45/EC](https://www.legislation.gov.uk/european/directive/2000/0045) establishing Community methods of analysis for the determination of vitamin A, vitamin E and tryphophan in feeding stuffs [^c5184401]; or
+  > - (c) (in the case of dioxins and dioxin-like PCBs) a feed material to be analysed pursuant to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070),
+  >
+  > and if it is what quantity or proportion of such substance is present or active in such a sample —
+  >
+  > - (d) the provisions specified in Part I of Schedule 2 under the heading “GENERAL PROVISIONS” shall apply;
+  > - (e) in relation to a substance of a class or description listed (whether by itself or by reference to its activity) in column 1 of Annex I to Part II of that Schedule, the relevant method of analysis set out in the Community provision listed in the corresponding entry in column 2 of that Annex shall be used; and
+  > - (f) in relation to a substance to which the method of analysis specified in Annex II or as the case may be Annex III to Part II of that Schedule relates, that method shall be used.
+
+  ;
+
+and
+
+- (b) immediately after paragraph (1) there shall be inserted the following paragraph —
+
+  > (1A) Where more than one method of analysis is provided for in any of the Community provisions listed in column 2 of Annex I to Part II of Schedule 2 in relation to the same substance, the notes to that Annex shall have effect to specify which is the relevant method.
+
+  .
+
+## 6.
+
+Immediately after regulation 6 there shall be inserted the following regulation —
+
+> **6A. Modification of the Agriculture Act 1970 and of these Regulations as regards analysis of samples of feeding stuffs and feed materials to determine levels of dioxins and dioxin-like PCBs**
+>
+> For the purpose of determining whether dioxins or dioxin-like PCBs are present or active in a sample of a feeding stuff to be analysed pursuant to the Act or of a feed material to be analysed pursuant to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) and if they are what quantity or proportion of dioxins or dioxin-like PCBs are present or active in such a sample —
+>
+> - (a) Part IV of the Act shall have effect as if —
+>   - (i) in section 66(1), immediately after the definition of “pet animal” there were inserted the following definition —
+>
+>     “**point 4 compliant laboratory**” means a laboratory which complies with point 4 of Annex II to Commission Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) establishing requirements for the determination of levels of dioxins and dioxin-like PCBs in feeding stuffs;”,
+>   - (ii) in section 77(1)(a), for the words “the agricultural analyst for the inspector’s area” there were substituted the words “ a point 4 compliant laboratory ”,
+>   - (iii) in each of sections 77(3) and 78(5), for the words “the agricultural analyst” there were substituted the words “ a point 4 compliant laboratory ”,
+>   - (iv) in section 77(4), for the words “The agricultural analyst shall analyse the part of a sample which is sent to him” there were substituted the words “ A point 4 complaint laboratory shall analyse the part of a sample which is sent to it ”,
+>   - (v) section 77(5) were omitted,
+>   - (vi) in section 78(3), for the words “agricultural analyst's”, in both places where they appear, there were substituted the words “ point 4 compliant laboratory's ”,
+>   - (vii) for section 79(4) and (5) there were substituted the following subsections -
+>
+>     > (4) Any analysis required to be made by a point 4 compliant laboratory or the Government Chemist may be made by any person acting under the directions of an analyst at that laboratory or, as the case may be, of the Government Chemist.
+>     >
+>     > (5) A certificate of analysis by an analyst at a point 4 compliant laboratory shall be signed by that analyst and a certificate of analysis by the Government Chemist shall be signed by him or a person authorised by him to sign the certificate.
+>
+>     , and
+>   - (viii) in section 79(6), for the words “an agricultural analyst” there were substituted the words “ an analyst at a point 4 compliant laboratory ”;
+> - (b) Part I of Schedule 3 shall have effect as if in the certificate set out there for the words “agricultural analyst for” there were substituted the words “ analyst at the ”; and
+> - (c) Part II of Schedule 3 shall have effect as if in note (2) for the words “local authority” there were substituted the word “ laboratory ”.
+
+## 7.
+
+In Schedule 2 (methods of analysis), in Annex I to Part II, immediately after the entries for “Carbonates” there shall be inserted in columns 1 to 3 respectively the following entries —
+
+> |  |  |  |
+> | --- | --- | --- |
+> | Dioxins and dioxin-like PCBs | Point 2 of Annex I to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) and points 1 and 2, the second paragraph of point 3, the first three indents of point 4 and points 5 to 8 of Annex II to that Directive. | OJ No. L209, 6.8.2002, p.15 |
+
+.
+
+## 8. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^key-b93fe061109d36259861a04cc21b6e80]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9.[^key-b93fe061109d36259861a04cc21b6e80]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10.[^key-b93fe061109d36259861a04cc21b6e80]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11.
+
+In regulation 10 (modification of section 76 of the Agriculture Act 1970) —
+
+- (a) the words “(as specified in regulation 7)” shall be omitted;
+- (b) for the modified version of subsection (8) of section 76 of the Agriculture Act 1970 which is set out in that regulation there shall be substituted the following subsection —
+
+  > (8) Subject to subsections (9), (10) and (12) of this section, an inspector entering premises by virtue of this section, or of a warrant issued under it, shall have the right to take on those premises a sample of any material appearing to him to be a controlled product other than relevant material as described in subsection (7) of this section, in the like manner as that prescribed in Part II of Schedule 1 to the Feeding Stuffs (Sampling and Analysis) Regulations 1999 as amended by the Feedingstuffs (Zootechnical Products) Regulations 1999, the Feeding Stuffs (Sampling and Analysis) (Amendment) (Wales) Regulations 2001, the Feeding Stuffs (Amendment) (Wales) Regulations 2002 and the Feeding Stuffs (Sampling and Analysis), the Feeding Stuffs (Enforcement) and the Feeding Stuffs (Establishments and Intermediaries) (Amendment) (Wales) Regulations 2003.
+
+  ;
+- (c) in each of the modified versions of subsections (9) and (10) of section 76 of that Act as so set out after the words “the Feeding Stuffs (Sampling and Analysis) (Amendment) (Wales) Regulations 2001” there shall be inserted the words “ , the Feeding Stuffs (Amendment) (Wales) Regulations 2002 and the Feeding Stuffs (Sampling and Analysis), the Feeding Stuffs (Enforcement) and the Feeding Stuffs (Establishments and Intermediaries) (Amendment) (Wales) Regulations 2003 and as modified by the Feeding Stuffs (Wales) Regulations 2001 ”;
+- (d) immediately after the modified version of section (8) of section 76 of that Act as so set out there shall be inserted the following subsection —
+
+  > (8A) For the purposes of this Part of this Act a sample taken in accordance with subsection (8) of this section shall be deemed to be taken in the prescribed manner.
+
+  ; and
+- (e) in the modified version of subsection (9) of section 76 of that Act as so set out for the expression “subsection (8)” there shall be inserted the expression “ subsections (8) and (10) ”.
+
+## 12.
+
+For regulations 11 and 11A (modification of sections 77(4) and 78(6) of the Agriculture Act 1970) there shall be substituted the following regulations —
+
+> **11. Analysis for the purposes of sections 77(4) and 78(6) of the Agriculture Act 1970**
+>
+> For the purpose of the enforcement and administration of the Feeding Stuffs (Wales) Regulations 2001 as amended by the Feeding Stuffs (Sampling and Analysis) (Amendment) (Wales) Regulations 2001, the Feeding Stuffs and the Feeding Stuffs (Enforcement) (Amendment) (Wales) Regulations 2001, the Feeding Stuffs (Amendment) (Wales) Regulations 2002 and the Feeding Stuffs (Amendment) (Wales) Regulations 2003 analysis in relation to a sample of a product which falls to be inspected pursuant to Directive 95/53 but is not —
+>
+> - (a) a feeding stuff;
+> - (b) a premixture to which Part A or Part B of Commission Directive [2002/45/EC](https://www.legislation.gov.uk/european/directive/2002/0045) establishing Community methods of analysis for the determination of vitamin A, vitamin E and tryphophan in feeding stuffs applies; or
+> - (c) a feed material to which Annex II to Commission Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) establishing requirements for the determination of levels of dioxins and dioxin-like PCBs in feeding stuffs applies,
+>
+> shall be treated as carried out in the prescribed manner for the purposes of sections 77(4) and 78(6) of the Act if —
+>
+> - (d) where there is an applicable standard of the kind referred to in the first indent of Article 18.3 of Directive 95/53, analysis is carried out in accordance with that standard; and
+> - (e) where there is no such standard, analysis is carried out in accordance with any scientifically valid method the application of which does not contravene any general principle of the Treaty establishing the European Community.”.
+>
+> **11A.**
+>
+> For the purpose of the enforcement and administration of the Feeding Stuffs (Wales) Regulations 2001 as amended by the Feeding Stuffs (Sampling and Analysis) (Amendment) (Wales) Regulations 2001, the Feeding Stuffs and the Feeding Stuffs (Enforcement) (Amendment) (Wales) Regulations 2001, the Feeding Stuffs (Amendment) (Wales) Regulations 2002 and the Feeding Stuffs (Amendment) (Wales) Regulations 2003 analysis in relation to a sample of a premixture to which Part A or Part B of Commission Directive [2000/45/EC](https://www.legislation.gov.uk/european/directive/2000/0045) establishing Community methods of analysis for the determination of vitamin A, vitamin E and tryptophan in feeding stuffs applies shall be treated as carried out in the prescribed manner for the purposes of sections 77(4) and 78(6) of the Act if it is carried out in accordance with whichever of those Parts is applicable in the case concerned.
+>
+> For the purpose of the enforcement and administration of the Feeding Stuffs (Wales) Regulations 2001 as amended by the Feeding Stuffs (Sampling and Analysis) (Amendment) (Wales) Regulations 2001, the Feeding Stuffs and the Feeding Stuffs (Enforcement) (Amendment) (Wales) Regulations 2001, the Feeding Stuffs (Amendment) (Wales) Regulations 2002 and the Feeding Stuffs (Amendment) (Wales) Regulations 2003 analysis in relation to a sample of a feed material to which Annex II to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) establishing requirements for the determination of levels of dioxins and dioxin-like PCBs in feeding stuffs applies shall be treated as carried out in the prescribed manner for the purposes of sections 77(4) and 78(6) of the Act if it is carried out in accordance with the requirements specified in that Annex.
+
+.
+
+## 13.
+
+In regulation 12 (modification of section 83 of the Agriculture Act 1970) the words “(as specified in regulation 7)” shall be omitted.
+
+## 14. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-86dcb1df5d02cd6fe5b19dffe61f1b87]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15.[^key-86dcb1df5d02cd6fe5b19dffe61f1b87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16.[^key-86dcb1df5d02cd6fe5b19dffe61f1b87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 17.[^key-86dcb1df5d02cd6fe5b19dffe61f1b87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c5184441] Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998 .
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations, which apply to Wales only, amend the Feeding Stuffs (Sampling and Analysis) Regulations 1999 (S.I. 1999/1663, as already amended), the Feeding Stuffs (Enforcement) Regulations 1999 (S.I. 1999/2325, as already amended) and the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999 (S.I. 1999/1872, as already amended) in so far as these Regulations apply in relation to Wales.
+
+**2.** These Regulations implement Commission Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) establishing requirements for the determination of levels of dioxins and dioxin-like PCBs in feeding stuffs (OJ No. L209, 6.8.2002, p.15).
+
+**3.** These Regulations —
+
+- (a) amend the Feeding Stuffs (Sampling and Analysis) Regulations 1999 (“**the 1999 Regulations**”) by —
+  - (i) inserting into regulation 1(2) a definition of the term “Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070)” (*regulation 3*),
+  - (ii) substituting a revised regulation 3, which makes the requirements as regards the prescribed manner of taking and handling samples, which previously applied only to samples of feeding stuffs, applicable also to feed materials to be sampled pursuant to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) and removes the reference to paragraph 10 of Part II of Schedule 1 to the 1999 Regulations (*regulation 4*),
+  - (iii) amending regulation 6 so that it now includes provisions which, when read with provisions added by the Regulations to Schedule 2 to the 1999 Regulations, specify the method of analysis to be used to determine whether dioxins and dioxin-like PCBs are present or active in a sample of a feeding stuff or a feed material to be analysed pursuant to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) (and if it is in what quantity or proportion) and apply to that determination specified provisions in Part I of Schedule 2 to the 1999 Regulations (*regulations 5 and 7*), and
+  - (iv) modifying Part IV of the Agriculture Act 1970 (1970 c. 40, “the 1970 Act”) so as to provide that, in order to determine whether dioxins and dioxin-like PCBs are present or active in a sample of a feeding stuff or a feed material to be analysed pursuant to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) (and if they are in what quantity or proportion), the sample is to be submitted to and analysed by a laboratory which satisfies specified requirements of that Directive; and making consequential modifications to Parts I and II of Schedule 3 to the 1999 Regulations (*regulation 6*);
+- (b) amend the Feeding Stuffs (Enforcement) Regulations 1999 by —
+  - (i) modifying regulation 7 so as to disapply it in relation to regulations 11 and 11A and ensure that it does not become applicable in relation to the new regulation 11B (*regulation 9*);
+  - (ii) making consequential amendments to those Regulations (*regulations 10 and 11(a) and (b)*);
+  - (iii) providing that samples taken in accordance with section 76 of the 1970 Act (as modified for the purposes of those Regulations) are to be deemed to be taken in the prescribed manner for the purposes of Part IV of that Act (*regulation 11(c)*);
+  - (iv) further modifying section 76(9) of the 1970 Act as modified for the purposes of those Regulations by inserting into it a reference to section 76(10) as so modified (*regulation 11(d)*);
+  - (v) substituting revised regulations 11 and 11A (which are concerned with analysis for the purposes of sections 77(4) and 78(6) of the 1970 Act), the former being amended to include reference to feed materials to which Annex II to Commission Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) applies and the latter being re-enacted with drafting improvements (*regulation 12*), and
+  - (vi) inserting a new regulation, 11B, which specifies the circumstances in which, for the purposes of enforcing the Feeding Stuffs (Wales) Regulations 2001, analysis in relation to samples of feed materials to which Annex II to Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) applies is to be treated as carried out in the prescribed manner for the purposes of sections 74(4) and 78(6) of the 1970 Act (*regulation 12*); and
+- (c) make consequential amendments to the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999 (*regulations 14 to 17*).
+
+**4.** A regulatory appraisal has been prepared for these Regulations and has been placed in the library of the National Assembly for Wales, together with a transposition note setting out how the main elements of Directive [2002/70/EC](https://www.legislation.gov.uk/european/directive/2002/0070) are transposed into domestic law by these Regulations. Copies may be obtained from the Animal Feed Unit of the Food Standards Agency, 1st Floor, Southgate House, Cardiff, CF10 1EN.
+
+## Annotations
+
+[^c5184341]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40). Section 66(1) contains definitions of the expressions “the Ministers”, “prescribed” and “regulations”. The definition of “the Ministers” was amended by the [Transfer of Functions (Wales) (No. 1) Order 1978 (S.I. 1978/272)](https://www.legislation.gov.uk/uksi/1978/272), [Schedule 5](https://www.legislation.gov.uk/uksi/1978/272/schedule/5), [paragraph 1](https://www.legislation.gov.uk/uksi/1978/272/paragraph/1). Functions of “the Ministers”, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^c5184351]: Marginal citation: OJ No. L31, 1.2.2002, p.1. Under Article 3 of Regulation (EC) 178/2002 “food law” extends to feed produced for, or fed to, food producing animals.
+
+[^c5184361]: Marginal citation: [S.I. 1999/2788](https://www.legislation.gov.uk/uksi/1999/2788).
+
+[^c5184371]: Marginal citation: [S.I. 1999/1663](https://www.legislation.gov.uk/uksi/1999/1663), amended by [S.I. 1999/1871](https://www.legislation.gov.uk/uksi/1999/1871), [S.I](https://www.legislation.gov.uk/uksi/1999/1871/section/I). 2001/343 (W 15), [S.I. 2001/2253](https://www.legislation.gov.uk/uksi/2001/2253) (W 163) and [S.I. 2002/1797](https://www.legislation.gov.uk/uksi/2002/1797) (W 172).
+
+[^c5184381]: Marginal citation: OJ No. L162, 15.4.76, p.1.
+
+[^c5184391]: Marginal citation: OJ No. L209, 6.8.2002, p.15.
+
+[^c5184401]: Marginal citation: OJ No. L174, 13.7.2000, p.32.
+
+[^key-b93fe061109d36259861a04cc21b6e80]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/wsi/2003/1677/regulation/8) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
+
+[^key-86dcb1df5d02cd6fe5b19dffe61f1b87]: Textual amendment: [Regs. 14-17](https://www.legislation.gov.uk/wsi/2003/1677/regulation/14) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
+
+[^c5184441]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

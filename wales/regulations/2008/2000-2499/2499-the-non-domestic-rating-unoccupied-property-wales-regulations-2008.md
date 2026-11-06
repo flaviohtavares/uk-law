@@ -1,0 +1,168 @@
+---
+title: The Non-Domestic Rating (Unoccupied Property) (Wales) Regulations 2008
+id: wsi/2008/2499
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2008-09-20'
+text_date: '2008-09-20'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2008/2499
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2008/2499/pdfs/wsi_20082499_mi.pdf
+- http://www.legislation.gov.uk/wsi/2008/2499/data.pdf
+pending_changes: 6
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating (Unoccupied Property) (Wales) Regulations 2008
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2008-09-20. See https://www.legislation.gov.uk/changes/affected/wsi/2008/2499
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+2008 No. 2499 (W.217)
+
+RATING AND VALUATION, WALES
+
+The Non-Domestic Rating (Unoccupied Property) (Wales) Regulations 2008
+
+Made
+
+20 September 2008
+
+Laid before the National Assembly for Wales
+
+23 September 2008
+
+Coming into force
+
+1 November 2008
+
+The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 45(1)(d), (9) and (10), 143(2) and 146(6) of the Local Government Finance Act 1988[^f00001] and now vested in them[^f00002], make the following Regulations:
+
+## 1. Title, application and commencement[^key-4eeba1d4cc87bef966ec2cf37155c32e]
+
+(1) The title of these Regulations is The Non-Domestic Rating (Unoccupied Property) (Wales) Regulations 2008 and they come into force on 1 November 2008.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation[^key-ad9994bd19f53607a0de02a0f19d4604]
+
+In these Regulations—
+
+- “the Act” (“*y Ddeddf*”) means the Local Government Finance Act 1988;
+- “qualifying industrial hereditament” (“*hereditament diwydiannol cymwys*”) means any hereditament, other than a retail hereditament, in relation to which all buildings comprised in the hereditament are—
+  - (a) constructed or adapted for use in the course of a trade or business; and
+  - (b) constructed or adapted for use for one or more of the following purposes, or one or more such purposes and one or more purposes ancillary thereto—
+    - (i) the manufacture, repair or adaptation of goods or materials, or the subjection of goods or materials to any process;
+    - (ii) storage (including the storage or handling of goods in the course of their distribution);
+    - (iii) the working or processing of minerals; and
+    - (iv) the generation of electricity;
+- “relevant non-domestic hereditament” (“*hereditament annomestig perthnasol*”) means any non-domestic hereditament consisting of, or of part of, any building, together with any land ordinarily used or intended for use for the purposes of the building or part; and
+- “retail hereditament” (“*hereditament masnachol*”) means any hereditament where any building or part of a building comprised in the hereditament is constructed or adapted for the purpose of the retail provision of—
+  - (a) goods, or
+  - (b) services, other than storage for distribution services, where the services are to be provided on or from the hereditament.
+
+## 3. Hereditaments prescribed for the purposes of section 45(1)(d) of the Act[^key-657cc439eeab3bc3389e65e03011331e]
+
+The class of non-domestic hereditaments prescribed for the purposes of section 45(1)(d) of the Act consists of all relevant non-domestic hereditaments other than those described in regulation 4.
+
+## 4. Hereditaments not prescribed for the purposes of section 45(1)(d) of the Act[^key-46fd344633213bc20494a227e79f541c]
+
+The relevant non-domestic hereditaments described in this regulation are any hereditament—
+
+- (a) the whole of which, subject to regulation 5, has been unoccupied for a continuous period not exceeding three months;
+- (b) which is a qualifying industrial hereditament and the whole of which, subject to regulation 5, has been unoccupied for a continuous period not exceeding six months;
+- (c) whose owner is prohibited by law from occupying it or allowing it to be occupied;
+- (d) which is kept vacant by reason of action taken by or on behalf of the Crown or any local or public authority with a view to prohibiting the occupation of the hereditament or to acquiring it;
+- (e) which is the subject of a building preservation notice within the meaning of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00003] or is included in a list compiled under section 1 of that Act;
+- (f) which is included in the Schedule of monuments compiled under section 1 of the Ancient Monuments and Archaeological Areas Act 1979[^f00004];
+- (g) whose rateable value is less than £2,200;
+- (h) whose owner is entitled to possession only in his or her capacity as the personal representative of a deceased person;
+- (i) where, in respect of the owner’s estate, there subsists a bankruptcy order within the meaning of section 381(2) of the Insolvency Act 1986[^f00005];
+- (j) whose owner is entitled to possession in his or her capacity as trustee under a deed of arrangement to which the Deeds of Arrangement Act 1914[^f00006] applies;
+- (k) whose owner is a company which is subject to a winding-up order made under the Insolvency Act 1986 or which is being wound up voluntarily under that Act;
+- (l) whose owner is a company in administration within the meaning of paragraph 1 of Schedule B1 to the Insolvency Act 1986 or is subject to an administration order made under the former administration provisions within the meaning of article 3 of the Enterprise Act 2002 (Commencement No. 4 and Transitional Provisions and Savings) Order 2003[^f00007];
+- (m) whose owner is entitled to possession in his or her capacity as liquidator by virtue of an order made under section 112 or section 145 of the Insolvency Act 1986.
+
+## 5. Continuous occupation[^key-1e74fbe636d09047e06228191443041e]
+
+A hereditament which has been unoccupied and becomes occupied on any day is to be treated as having been continuously unoccupied for the purposes of regulation 4(a) and (b) if it becomes unoccupied again on the expiration of a period of less than six weeks beginning with that day.
+
+## 6. Hereditaments not previously occupied[^key-a1d1a078640d1b34fb22ee21fc812c84]
+
+For the purposes of regulation 4(a) and (b), a hereditament which has not previously been occupied is to be treated as becoming unoccupied—
+
+- (a) on the day determined under paragraph 8 of Schedule 1 to the General Rate Act 1967[^f00008], or on the day determined under Schedule 4A to the Act[^f00009], whichever day first occurs; or
+- (b) where paragraph (a) does not apply, on the day for which the hereditament is first shown in a local rating list.
+
+## 7. Revocation and saving[^key-f40e6a981e6c1db9ba204ec598921e83]
+
+(1) Subject to paragraph (2), the Non-Domestic Rating (Unoccupied Property) Regulations 1989[^f00010] are revoked in their application to Wales.
+
+(2) Those Regulations continue to apply for the purposes of calculating liability for rates in respect of any day before 1 November 2008.
+
+Brian Gibbons
+
+Minister for Social Justice and Local Government, one of the Welsh Ministers
+
+20 September 2008
+
+(This note is not part of the Regulations)
+
+Section 45 of the Local Government Finance Act 1988 (“the 1988 Act”) provides that owners of empty non-domestic properties are liable to pay non-domestic rates if certain conditions apply.
+
+These Regulations re-enact the Non-Domestic Rating (Unoccupied Property) Regulations 1989 (“the 1989 Regulations”) with amendments. In addition to drafting amendments the only change of substance is the inclusion of a new exception for companies in administration (regulation 4(l)).
+
+One of the conditions stipulated by section 45 of the 1988 Act is that the property must fall within a class prescribed by regulations made, in relation to Wales, by the Welsh Ministers.
+
+Regulation 3 prescribes that class as consisting of all buildings or parts of buildings except those listed in regulation 4. Those exceptions include all properties which have been continuously empty for three months or less.
+
+Regulations 5 and 6 contain similar provisions to those in the 1989 Regulations dealing with when a property will be considered to have been continuously empty for three or six months or less and the application of the Regulations to properties which have never been occupied.
+
+The 1989 Regulations were revoked in their application to England by [S.I. 2008/386](https://www.legislation.gov.uk/uksi/2008/386) and these Regulations revoke the 1989 Regulations in their application to Wales.
+
+A regulatory impact assessment has been prepared in connection with these Regulations. A copy can be obtained at http://www.assemblywales.org/bus-home/bus-guide-docs-pub/bus-business-documents/bus-business-documents-doc-laid.htm.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); section 45(1)(d) was amended, and subsections (9) and (10) were inserted, by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraphs 23(2) and (3) and 79(3).
+
+[^f00002]: Footnote: The functions of the Secretary of State contained in the Local Government Finance Act 1988 in relation to Wales were transferred to the National Assembly for Wales by virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2, Schedule 1). The functions of the National Assembly for Wales were vested in the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-4eeba1d4cc87bef966ec2cf37155c32e]: Commencement: Reg. 1 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+
+[^key-ad9994bd19f53607a0de02a0f19d4604]: Commencement: Reg. 2 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+
+[^key-657cc439eeab3bc3389e65e03011331e]: Commencement: Reg. 3 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+
+[^key-46fd344633213bc20494a227e79f541c]: Commencement: Reg. 4 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+
+[^f00003]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). “Building preservation notice” is defined in section 91(1).
+
+[^f00004]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
+
+[^f00005]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^f00006]: Footnote: [1914 c. 47](https://www.legislation.gov.uk/ukpga/1914/47).
+
+[^f00007]: Footnote: [S.I. 2003/2093 (C.85)](https://www.legislation.gov.uk/uksi/2003/2093), to which there are amendments not relevant to these Regulations.
+
+[^key-1e74fbe636d09047e06228191443041e]: Commencement: Reg. 5 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+
+[^key-a1d1a078640d1b34fb22ee21fc812c84]: Commencement: Reg. 6 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+
+[^f00008]: Footnote: [1967 c. 9](https://www.legislation.gov.uk/ukpga/1967/9).
+
+[^f00009]: Footnote: Schedule 4A was inserted by paragraph 36 of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^key-f40e6a981e6c1db9ba204ec598921e83]: Commencement: Reg. 7 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+
+[^f00010]: Footnote: [S.I. 1989/2261](https://www.legislation.gov.uk/uksi/1989/2261) which was revoked in its application to England by [S.I. 2008/386](https://www.legislation.gov.uk/uksi/2008/386).

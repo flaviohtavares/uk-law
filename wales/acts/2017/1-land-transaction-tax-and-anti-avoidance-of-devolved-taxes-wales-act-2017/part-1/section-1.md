@@ -1,0 +1,48 @@
+---
+title: Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017, section 1
+act: Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017
+section: '1'
+status: revised-with-pending-changes
+text_date: '2026-02-13'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2017/1/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017, section 1
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-02-13. See https://www.legislation.gov.uk/changes/affected/anaw/2017/1
+>
+> Extent: England, Wales.
+
+## 1. Overview of Act[^key-cd21cf4d096c1b31bdcd2e340d8feb29]
+
+*Extent: E+W*
+
+(1) This Act is arranged as follows–
+
+- (a) Part 2 provides for a tax to be charged on land transactions (““land transaction tax””) and makes provision about the key concepts underlying the tax including—
+  - (i) which transactions are land transactions,
+  - (ii) what is, and what is not, a chargeable interest,
+  - (iii) when a chargeable interest is acquired and the treatment of transactions involving contracts required to be completed by transfer, as well as the treatment of other kinds of transactions,
+  - (iv) which land transactions are, and which are not, chargeable to the tax (““chargeable transactions””), and
+  - (v) what is, and what is not, chargeable consideration in relation to a chargeable transaction,
+- (b) Part 3 makes provision about—
+  - (i) tax bands and tax rates,
+  - (ii) how to calculate the amount of tax chargeable, and
+  - (iii) the reliefs available from land transaction tax,
+- (c) Part 4 makes provision about the application of this Act to leases,
+- (d) Part 5 makes provision about the application of this Act and the Tax Collection and Management (Wales) Act 2016 (anaw 6) to certain persons and bodies, including companies, partnerships and trusts,
+- (e) Part 6 makes provision about returns and payment of the tax including provision about—
+  - (i) when a return is required to be made in relation to a land transaction,
+  - (ii) who must make a return and pay the tax, and
+  - (iii) when the tax is required to be paid (including provision about when payment may be deferred),
+- (f) Part 7 inserts into the Tax Collection and Management (Wales) Act 2016 (anaw 6) provisions establishing a general rule for the purposes of counteracting avoidance arrangements in relation to devolved taxes, and
+- (g) Part 8 provides for amendments to the Tax Collection and Management (Wales) Act 2016 (anaw 6) and contains provisions that apply generally for the purposes of this Act, including definitions of expressions used in this Act.
+
+(2) Schedule 1 contains an overview of the Schedules to this Act.
+
+## Annotations
+
+[^key-cd21cf4d096c1b31bdcd2e340d8feb29]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2017/1/section/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

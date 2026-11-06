@@ -1,0 +1,95 @@
+---
+title: The Electricity Works (Environmental Impact Assessment) (England and Wales) (Amendment) (Wales) Regulations 2019
+id: wsi/2019/292
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-02-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2019/292
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2019/292/pdfs/wsi_20190292_mi.pdf
+- http://www.legislation.gov.uk/wsi/2019/292/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity Works (Environmental Impact Assessment) (England and Wales) (Amendment) (Wales) Regulations 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 292 (W. 70)
+
+Electricity, Wales
+
+The Electricity Works (Environmental Impact Assessment) (England and Wales) (Amendment) (Wales) Regulations 2019
+
+Made
+
+18 February 2019
+
+Laid before the National Assembly for Wales
+
+20 February 2019
+
+Coming into force
+
+1 April 2019
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 36(8A), 36C(2) and (6) and 60 of the Electricity Act 1989[^f00001], make the following Regulations:
+
+## 1. Title and commencement
+
+The title of these Regulations is the Electricity Works (Environmental Impact Assessment) (England and Wales) (Amendment) (Wales) Regulations 2019 and they come into force on 1 April 2019.
+
+## 2. Amendment of the Electricity Works (Environmental Impact Assessment) (England and Wales) Regulations 2017
+
+(1) The Electricity Works (Environmental Impact Assessment) (England and Wales) Regulations 2017[^f00002] are amended as follows.
+
+(2) In regulation 3 (interpretation), in the definition of “relevant authority”, after paragraph (b) insert—
+
+> or
+>
+> - (c) in relation to an application for a section 36 consent or for a section 36 variation made (or to be made) to the Welsh Ministers, the Welsh Ministers;
+
+.
+
+(3) In regulation 4(1)(c)(i), at the beginning, insert “save where the Welsh Ministers are the relevant authority,”.
+
+(4) In regulation 22(3), after “under regulation 4(6) of the Electricity Generating Stations (Variation of Consents) (England and Wales) Regulations 2013” insert “, or in a case where the Welsh Ministers are the relevant authority, under regulation 4(6) of the Electricity (Offshore Generating Stations) (Variation of Consents) (Wales) Regulations 2019,”.
+
+(5) In regulation 28 (application website)—
+
+- (a) in paragraph (3), after “under regulation 5(2A) of the Electricity Generating Stations (Variation of Consents) (England and Wales) Regulations 2013” insert “, or in a case where the Welsh Ministers are the relevant authority, under regulation 5(3) of the Electricity (Offshore Generating Stations) (Variation of Consents) (Wales) Regulations 2019,”;
+- (b) in paragraph (4), at the end, insert “, or in a case where the Welsh Ministers are the relevant authority, under regulation 5(2) of the Electricity (Offshore Generating Stations) (Variation of Consents) (Wales) Regulations 2019”.
+
+Julie James
+
+Minister for Housing and Local Government, one of the Welsh Ministers
+
+18 February 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Electricity Works (Environmental Impact Assessment) (England and Wales) Regulations 2017 (“the 2017 Regulations”).
+
+Applications made on or after 1 April 2019 under sections 36 and 36C of the Electricity Act 1989 (“the 1989 Act”) relating to generating stations (or proposed generating stations) in Welsh waters which have or will have a capacity not exceeding 350 megawatts, are to be made to the Welsh Ministers. “Welsh waters” means so much of the internal waters and territorial sea of the United Kingdom as are adjacent to Wales and the Welsh zone. “Welsh zone” has the meaning given in section 158 of the Government of Wales Act 2006.
+
+These Regulations amend—
+
+- the definition of “relevant authority” to provide that the Welsh Ministers are the relevant authority where an application under section 36 or 36C is made (or to be made) to the Welsh Ministers;
+- the meaning of consultation body; and
+- regulations 22 and 28 of the 2017 Regulations to insert reference to the Electricity (Offshore Generating Stations) (Variation of Consents) (Wales) Regulations 2019.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 36(8A) was inserted by paragraph 47 of Schedule 6 to the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) (“the 2017 Act”). Section 36C was inserted by section 20(1) and (2) of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and was amended by section 39(12) of, and paragraph 48 of Schedule 6 to, the 2017 Act. There are other amendments to section 36C and amendments to section 60 which are not relevant to these Regulations.
+
+[^f00002]: Footnote: [S.I. 2017/580](https://www.legislation.gov.uk/uksi/2017/580), to which there are amendments not relevant to these Regulations.

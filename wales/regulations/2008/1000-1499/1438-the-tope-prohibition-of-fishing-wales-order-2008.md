@@ -1,0 +1,147 @@
+---
+title: The Tope (Prohibition of Fishing) (Wales) Order 2008
+id: wsi/2008/1438
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-06-04'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2008/1438
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2008/1438/pdfs/wsi_20081438_mi.pdf
+- http://www.legislation.gov.uk/wsi/2008/1438/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tope (Prohibition of Fishing) (Wales) Order 2008
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2008 No. 1438 (W.150)
+
+SEA FISHERIES, WALES
+
+The Tope (Prohibition of Fishing) (Wales) Order 2008
+
+Made
+
+4 June 2008
+
+Laid before the National Assembly for Wales
+
+6 June 2008
+
+Coming into force
+
+1 July 2008
+
+The Welsh Ministers, in exercise of the powers conferred by sections 5(1), 5(6), 6(1), 6(1A) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001], and now vested in them [^f00002], make the following Order :
+
+## 1. Title, commencement and application[^key-2956c62643682c820646db0601bfb615]
+
+(1) The title of this Order is the Tope (Prohibition of Fishing) (Wales) Order 2008 and it comes into force on 1 July 2008.
+
+(2) Subject to the provisions of this article, this Order applies in relation to Wales.
+
+(3)[^key-4ad3b48a764ce6b602474c9c536968a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Interpretation[^key-ba1385db7b189cdc5e9adc5a9132c52f]
+
+In this Order —
+
+- “tope” (“*ci glas*”) means the species *Galeorhinus galeus*; and
+- “Wales” (“*Cymru*”) has the meaning given by section 158(1) of the Government of Wales Act 2006[^f00004].
+
+## 3. Fishing prohibition[^key-f1ba6239027a4061a10105975306085b]
+
+(1) Fishing for tope (other than by rod and line) is prohibited.
+
+(2) If tope are taken on board, they may be retained provided that the total liveweight does not exceed 45 kilogrammes per day.
+
+(3) In paragraph (2), “liveweight” means the weight of the gutted carcasses of tope multiplied by a factor of 1.125.
+
+## 4. Trans-shipment prohibition[^key-1d4f345d15f4866035e8471b837afeae]
+
+The trans-shipment of tope is prohibited.
+
+## 5. Landing prohibition[^key-bc9323777c3fbb24d5ce2aa271e80037]
+
+No person may land in Wales —
+
+- (a) tope caught by rod and line, or
+- (b) beheaded tope.
+
+## 6. Powers of British sea-fishery officers[^key-d7cd82785c3309b930c944b4e3f693a6]
+
+(1) For the purposes of enforcing this Order, an officer may exercise the following powers —[^key-929620b52e83214c516e823eaac7c412]
+
+- (a) in relation to a relevant British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be; and
+- (b) in relation to any other fishing boat, in any waters adjacent to the United Kingdom and within relevant British fishery limits.
+
+(2) An officer may go on board a fishing boat, with or without persons assigned to assist in the exercise of the officer’s duties, and for that purpose may require the boat to stop and do anything else which will facilitate the boarding of the boat.
+
+(3) An officer may require the attendance of the master and other persons on board the boat and may make any examination or inquiry appearing to the officer to be necessary for the purpose of enforcing this Order and, in particular—
+
+- (a) may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything appearing to the officer to be necessary for facilitating the examination;
+- (b) may require any person on board the boat to produce any document relating to the boat, to its fishing operations or other operations ancillary thereto or to the persons on board, which is in that person’s custody or possession and may take copies of any such document;
+- (c) for the purpose of ascertaining whether the master, owner or charterer of the boat has committed an offence under section 5 or 6 of the Sea Fish (Conservation) Act 1967 as read with this Order, may search the boat for any such document and may require any person on board the boat to do anything appearing to the officer to be necessary for facilitating the search; and
+- (d) where the boat is one in relation to which the officer has reason to suspect that such an offence has been committed, may subject to paragraph (4) seize and detain any such document produced to the officer or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence.
+
+(4) Nothing in paragraph (3)(d) enables the officer to seize and detain any document required by law to be carried on board the boat except while the boat is detained in a port.
+
+(5) Where it appears to an officer that a contravention of any provision of this Order has at any time taken place, the officer may—
+
+- (a) take, or require the master to take, the boat and its crew to the port appearing to the officer to be the nearest convenient port; and
+- (b) detain, or require the master to detain, the boat in the port.
+
+(6) An officer who detains or requires the detention of a boat must serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by an officer.
+
+(7) In this article, “officer” means a British sea-fishery officer.
+
+Elin Jones
+
+Minister for Rural Affairs, one of the Welsh Ministers
+
+(This note is not part of the Order)
+
+Article 3 of this Order prohibits the fishing for tope by any method other than by rod and line. The retention on board of tope up to a maximum liveweight of 45 kilogrammes per day is permitted.
+
+Article 4 prohibits the trans-shipment of tope.
+
+Article 5 prohibits the landing in Wales of tope caught by rod and line or beheaded tope.
+
+Article 6 sets out the powers of British sea-fishery officers in respect of this Order, in addition to their powers under the Sea Fish (Conservation) Act 1967. Criminal sanctions are prescribed by sections 5(1), 5(7), 6(5), 6(5A) and 11 of that Act.
+
+A full regulatory impact assessment of the effect that this instrument will have is available from the Fisheries Policy Branch, Welsh Assembly Government, 1st Floor, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84). Section 5(1) was substituted by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 22(1). Section 5(6) was amended by the Fisheries Act 1981, section 22(2). Section 6(1) was amended by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), article 4, Schedule 2, Part I, paragraph 43(1), (6)(a). Section 6(1A) was inserted by the Fisheries Act 1981, section 23(2) and amended by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), article 4, Schedule 2, Part I, paragraph 43(1), (2)(b). Section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), section 22(1), Schedule 1, Part II and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) section 9(1), Schedule 2, paragraph 16(1) and further amended by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), article 4, Schedule 2, Part I, paragraph 43(1), (2)(b). *See* section 22(2) of the 1967 Act for definitions of “the Ministers” for the purposes of sections 5, 6 and 15(3) of that Act; section 22(2) was amended by the Fisheries Act 1981, sections 19(2)(d) and 45(a), (b) and (c) and 46(2), Schedule 5, Part II and by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Article 4, Schedule 2, paragraph 43(1), (12) and Part IV and by the Northern Ireland Constitution Act 1973, section 40, Schedule 5, paragraph 8(1).
+
+[^f00002]: Footnote: By virtue of article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) the functions exercisable under sections 5, 6 and 15 of the 1967 Act were transferred to the National Assembly for Wales (as constituted under the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38)) in so far as exercisable in relation to Wales (acting concurrently with the Secretary of State in relation to section 15(3)). Those functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-2956c62643682c820646db0601bfb615]: Commencement: Art. 1 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+
+[^key-4ad3b48a764ce6b602474c9c536968a6]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/3) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/15/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-ba1385db7b189cdc5e9adc5a9132c52f]: Commencement: Art. 2 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+
+[^f00004]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-f1ba6239027a4061a10105975306085b]: Commencement: Art. 3 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+
+[^key-1d4f345d15f4866035e8471b837afeae]: Commencement: Art. 4 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+
+[^key-bc9323777c3fbb24d5ce2aa271e80037]: Commencement: Art. 5 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+
+[^key-d7cd82785c3309b930c944b4e3f693a6]: Commencement: Art. 6 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+
+[^key-929620b52e83214c516e823eaac7c412]: Textual amendment: [Art. 6(1)(a)](https://www.legislation.gov.uk/wsi/2008/1438/article/6/1/a)[(b)](https://www.legislation.gov.uk/wsi/2008/1438/article/6/1/b) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/15/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

@@ -1,0 +1,100 @@
+---
+title: The Waste (Prescribed Enactments) (Wales) Regulations 2020
+id: wsi/2020/594
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-06-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2020/594
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2020/594/pdfs/wsi_20200594_mi.pdf
+- http://www.legislation.gov.uk/wsi/2020/594/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Waste (Prescribed Enactments) (Wales) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 594 (W. 135)
+
+Environment, Wales
+
+The Waste (Prescribed Enactments) (Wales) Regulations 2020
+
+Made
+
+15 June 2020
+
+Laid before Senedd Cymru
+
+17 June 2020
+
+Coming into force
+
+9 July 2020
+
+The Welsh Ministers make the following Regulations in exercise of the power conferred by section 57(6) of the Environmental Protection Act 1990[^f00001].
+
+## 1. Title, commencement and expiry
+
+(1) The title of these Regulations is the Waste (Prescribed Enactments) (Wales) Regulations 2020.
+
+(2) These Regulations come into force on 9 July 2020.
+
+## 2. Enactments prescribed for the purpose of section 57(6) of the Environmental Protection Act 1990
+
+(1) The following enactments are prescribed for the purposes of section 57(6) of the Environmental Protection Act 1990—
+
+- (a) sections 33, 34 and 47 of the Environmental Protection Act 1990[^f00002];
+- (b) sections 171G, 179, 187, 187A, 216 and 331 of the Town and Country Planning Act 1990[^f00003];
+- (c) section 23 of the Planning (Hazardous Substances) Act 1990[^f00004];
+- (d) regulation 65 of the Hazardous Waste (Wales) Regulations 2005[^f00005];
+- (e) regulation 56 of the Waste Batteries and Accumulators Regulations 2009[^f00006];
+- (f) parts 5, 8, and 9 of the Waste (England and Wales) Regulations 2011[^f00007]; and
+- (g) regulation 38 of the Environmental Permitting (England and Wales) Regulations 2016[^f00008].
+
+(2) A person shall not be guilty of an offence under any of these enactments by reason of anything necessarily done or omitted in order to comply with a direction under section 57 of the Environmental Protection Act 1990.
+
+Hannah Blythyn
+
+Deputy Minister for Housing and Local Government, under the authority of the Minister for Housing and Local Government, one of the Welsh Ministers
+
+15 June 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe various enactments for the purposes of section 57(6) of the Environmental Protection Act 1990 (“the 1990 Act”).
+
+Under section 57(1) of the 1990 Act, the Welsh Ministers may direct the holder of any environmental permit authorising a waste operation to accept and keep, or accept and treat or dispose of, waste at specified places on specified terms.
+
+Under section 57(2) of the 1990 Act, the Welsh Ministers may direct any person who is keeping waste on land to deliver the waste to a specified person on specified terms, with a view to it being treated or disposed of by that person.
+
+Section 57(6) of the 1990 Act allows enactments to be prescribed by Regulations to ensure that a person shall not be guilty of an offence under such enactments by reason of anything done in order to comply with a Direction under section 57.
+
+The Welsh Ministers’ Code of Practice on the carrying out of regulatory impact assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment was not carried out as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). The powers of the Secretary of State in so far as exercisable in relation to Wales under section 57 were transferred to the National Assembly for Wales by virtue of article 2 of, and paragraph 1 of Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). These powers were subsequently transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00002]: Footnote: Section 33 is amended by the Environment Act 1995, the Clean Neighbourhoods and Environment Act 2005, [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538), [S.I. 2006/937](https://www.legislation.gov.uk/uksi/2006/937), [S.I. 2009/1799](https://www.legislation.gov.uk/uksi/2009/1799), [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664), [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154) and [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620). Section 34 is amended by [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973), [S.I. 2005/2900](https://www.legislation.gov.uk/uksi/2005/2900), [S.I. 2006/123 (W. 16)](https://www.legislation.gov.uk/wsi/2006/123), [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538), [S.I. 2009/1799](https://www.legislation.gov.uk/uksi/2009/1799), [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675) and [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988).
+
+[^f00003]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 171G was added by the Planning and Compulsory Purchase Act 2004 and amended by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664). Section 179 was substituted by the Planning and Compensation Act 1991, and amended by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664). Section 187 was amended by the Planning and Compensation Act 1991, and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664). Section 187A was added by the Planning and Compensation Act 1991 and amended by the Localism Act 2011. Section 216 was amended by the Planning and Compensation Act 1991.
+
+[^f00004]: Footnote: [1990 c. 10](https://www.legislation.gov.uk/ukpga/1990/10) as amended by the Planning and Compensation Act 1991 and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
+
+[^f00005]: Footnote: [S.I. 2005/1806 (W. 138)](https://www.legislation.gov.uk/wsi/2005/1806) as amended by [S.I. 2011/971 (W. 141)](https://www.legislation.gov.uk/wsi/2011/971).
+
+[^f00006]: Footnote: [S.I. 2009/890](https://www.legislation.gov.uk/uksi/2009/890) as amended by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188).
+
+[^f00007]: Footnote: [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), to which there are various amendments.
+
+[^f00008]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154) as amended by [S.I. 2018/1227](https://www.legislation.gov.uk/uksi/2018/1227).

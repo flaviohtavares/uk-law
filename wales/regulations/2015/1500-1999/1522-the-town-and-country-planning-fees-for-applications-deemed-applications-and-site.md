@@ -1,0 +1,1086 @@
+---
+title: The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015
+id: wsi/2015/1522
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-07-06'
+text_date: '2025-12-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2015/1522
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2015/1522/pdfs/wsi_20151522_mi.pdf
+- http://www.legislation.gov.uk/wsi/2015/1522/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015
+
+> Text as at 2025-12-15.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 1522 (W. 179)
+
+Town And Country Planning, Wales
+
+The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015
+
+Made
+
+6 July 2015
+
+Coming into force
+
+1 October 2015
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 303 and 333(2A) of the Town and Country Planning Act 1990[^f00001] make the following Regulations.
+
+In accordance with section 303(8) of that Act, a draft of this instrument was laid before and approved by resolution of the National Assembly for Wales.[^key-7595af57c7055d3747f51fccb4fc68ec]
+
+## 1. Title, commencement and application[^key-356e496c0e8f99224acdbfaae966e1d2]
+
+(1) The title of these Regulations is the Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015 and they come into force on 1 October 2015.
+
+(2) These Regulations apply in relation to Wales.
+
+(3) These Regulations apply—
+
+- (a) to applications for planning permission deemed to have been made, by virtue of section 177(5) of the 1990 Act (grant or modification of planning permission on appeals against enforcement notices)[^f00002], in connection with an enforcement notice issued on or after the date on which these Regulations come into force; [^key-5b7cb27a700c524a9b86af6260769748]...
+- (b) to the following applications and site visits made on or after the date on which these Regulations come into force—
+  - (i) applications for planning permission;
+  - (ii) applications for approval of reserved matters[^f00003];
+  - (iii) applications under section 191 of the 1990 Act (certificate of lawfulness of existing use or development)[^f00004];
+  - (iv) applications under section 192 of the 1990 Act (certificate of lawfulness of proposed use or development)[^f00005];
+  - (v) applications for consent for the display of advertisements;
+  - (vi) applications under the General Permitted Development Order referred to in regulation 13;
+  - (vii) site visits to a mining site or a landfill site;
+  - (viii) applications under planning condition; and
+  - (ix) applications under section 96A(4) of the 1990 Act (power to make non-material changes to planning permission)[^f00006] ; and[^key-c195bfb437f358ff482f45e34e6068a5]
+- (c)[^key-12bcb7305657f37c4c46690cf198a0c2] to requests for the provision of pre-application services by a local planning authority.
+
+## 2. Interpretation[^key-3df5a403d4cfef1067274e4009f244d9]
+
+(1) In these Regulations—
+
+- “the 1990 Act” (“*Deddf 1990*”) means the Town and Country Planning Act 1990;
+- “the 1989 Regulations” (“*Rheoliadau 1989*”) means the Town and Country Planning (Fees for Applications and Deemed Applications) Regulations 1989[^f00007];
+- “the 1992 Regulations” (“*Rheoliadau 1992*”) means the Town and Country Planning (Control of Advertisements) Regulations 1992[^f00008];
+- “the[^key-0bd7e9e659c8efa857206167c07c6a8e] 2016 Regulations” (“*Rheoliadau 2016*”) means the Town and Country Planning (Pre-Application Services) (Wales) Regulations 2016;
+- “the Development Management Procedure Order” (“*y Gorchymyn Gweithdrefn Rheoli Datblygu*”) means the Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^f00009];
+- “the General Permitted Development Order” (“*y Gorchymyn Datblygu Cyffredinol a Ganiateir*”) means the Town and Country Planning (General Permitted Development) Order 1995[^f00010];
+- “dwellinghouse” (“*tŷ annedd*”) means a building[^f00011] which is used as a single private dwellinghouse and for no other purpose;
+- “[^key-153ecf70f3a900c552dd2dd9b2fd1864]**fee document**” (“***dogfen ffioedd***”) means the fee document referred to in regulation 2ZA(2);
+- “glasshouse” (“*tŷ gwydr*”) means a building which—
+  - (a) has not less than three-quarters of its total external area comprised of glass or other translucent material;
+  - (b) is designed for the production of flowers, fruit, vegetables, herbs or other horticultural produce; and
+  - (c) is used, or is to be used, solely for the purposes of agriculture;
+- “landfill permission” (“*caniatâd tirlenwi*”) means any planning permission for—
+  - (a) the operational development of land designed to be used wholly or mainly for the purpose of, or
+  - (b) any material change of use to,
+
+  a waste disposal site for the deposit of waste onto or into the land;
+- “landfill site” (“*safle tirlenwi*”) means the land to which a landfill permission relates;
+- “mineral permission” (“*caniatâd mwynau*”) means any planning permission for development consisting of—
+  - (a) the winning and working of minerals; or
+  - (b) the depositing of mineral waste;
+- “mining site” (“*safle mwyngloddio*”) means—
+  - (a) the total area of the land to which any two or more mineral permissions relate where the total area of the land—
+    - (i) is worked as a single site; or
+    - (ii) is treated as a single site by the local planning authority for the purposes of Schedule 13 to the Environment Act 1995 (review of old mineral planning permissions)[^f00012] or Schedule 14 to that Act (periodic review of mineral planning permissions)[^f00013]; and
+  - (b) in any other case, the land to which a mineral permission relates;
+- “outline planning permission” (“*caniatâd cynllunio amlinellol*”) has the same meaning as in article 2(1) of the Development Management Procedure Order;
+- “site visit” (“*ymweliad safle*”) means entry by a local planning authority on to a mining site or landfill site—
+  - (a) to ascertain whether there is or has been any breach of planning control on the site;
+  - (b) to determine whether any of the powers conferred on the local planning authority by Part 7 of the 1990 Act (enforcement)[^f00014] should be exercised in relation to the site;
+  - (c) to determine how any such power should be exercised in relation to the site; or
+  - (d) to ascertain whether there has been any compliance with any requirement imposed as a result of any such power having been exercised in relation to the site;
+- “use of land” (“*defnydd o dir*”) includes use of land for the winning and working of minerals;
+- “waste development” (“*datblygiad gwastraff*”) has the same meaning as in article 2(1) of the Development Management Procedure Order.
+
+(2) Expressions used in regulation 12 and Schedule 2 have the meaning which they bear in the 1992 Regulations.
+
+(3) In these Regulations references to a local planning authority are references to a local planning authority in Wales.
+
+## 2ZA. Publication of fee document[^key-a69d25c985dcdac44ea77878485181ba]
+
+(1) The Welsh Ministers must—
+
+- (a) prepare and publish a fee document on a website maintained by or on behalf of the Welsh Ministers; and
+- (b) make hard copies of the fee document available on request.
+
+(2) The fee document must set out—
+
+- (a) the method used to calculate fees;
+- (b) the amount of fees payable under paragraph (4);
+- (c) the time period relating to any fee changes;
+- (d) subject to paragraph (3), the timing and frequency of publication of the fee document;
+- (e) consultation requirements relating to any proposed changes to the matters referred to in sub-paragraphs (a), (c) and (d); and
+- (f) the date on which the fee document comes into force.
+
+(3) The Welsh Ministers must publish the fee document on their website not less than 4 weeks before the day on which the fee document comes into force.
+
+(4) The fees payable, as mentioned in paragraph (2)(b), are the fees payable, including any additional fees, under the provisions listed in sub-paragraphs (a) to (j) below—
+
+- (a) regulation 2A(2) and Part 1 of Schedule 4 (fees payable under regulation 2A), paragraph 2 and Part 2 of Schedule 4 (fees in respect of requests for pre-application services);
+- (b) regulation 3(2) (fees for planning applications) and Part 1 of Schedule 1 (fees in respect of applications and deemed applications for planning permission or for approval of reserved matters), paragraphs 3(1), 4(2) and (3), 5, 5A, 6(b), 7, 13(2)(a) and (b) and Part 2 of Schedule 1;
+- (c) regulation 11(3)(b) (fees for applications for certificates of lawful use or development);
+- (d) regulation 12(2) and Schedule 2 (fees for advertisements scale of fees in respect of applications for consent to display advertisements);
+- (e) regulation 13(1)(a) and (b) (fees for certain applications under the General Permitted Development Order);
+- (f) regulation 14(4) and (5) (fees in respect of the monitoring of mining and landfill sites);
+- (g) regulation 15(1)(a) and (b) (fees for applications made under planning condition) and Part 2 of Schedule 1 (scale of fees in respect of applications made or deemed to be made);
+- (h) regulation 16(1)(a) and (b) (fees for applications for non-material changes to planning permission);
+- (i) regulation 16A(3) (fees for post submission amendments to major development applications);
+- (j) regulation 16B(2) (fees for applications for certificates of appropriate alternative development).
+
+## 2A. Fees for requests for pre-application services under the 2016 Regulations[^key-c06e6075e80b3659c7a983a3d38cbc99]
+
+(1) Where a request for pre-application services is made to a local planning authority under the 2016 Regulations, a fee must be paid to that authority.
+
+(2) The fee payable in respect of a request for pre-application services is calculated in accordance with Schedule 4.
+
+(3) The fee must be paid to the local planning authority with whom the request is lodged and must accompany the request.
+
+(4) Any fee paid pursuant to this regulation must be refunded if the request is rejected as invalid.
+
+## 3. Fees for planning applications[^key-9f817de82c1caf5811479b18edf22ac7]
+
+(1) Subject to regulations 4 to 8, where an application is made to a local planning authority for planning permission for the development of land or for the approval of reserved matters, a fee must be paid to that authority.
+
+(2) The fee payable in respect of the application is calculated in accordance with Schedule 1.
+
+(3) Where a fee is payable in respect of an application, the fee must be paid to the local planning authority with whom the application is lodged and must accompany the application.
+
+(4) Where the local planning authority who receive the fee in accordance with paragraphs (1) to (3) are not the local planning authority who have to determine the application, they must remit the fee to that authority at the same time as they forward the application to them.
+
+(5) Any fee paid pursuant to this regulation must be refunded if the application is rejected as invalid.
+
+## 4. Exceptions – access and facilities for disabled persons[^key-988bfeb5b268da9e2bb8c88911fa76a9]
+
+(1) Regulation 3 does not apply where the local planning authority to whom the application is made are satisfied that it relates solely to—
+
+- (a) the carrying out of operations for the alteration or extension of an existing dwellinghouse; or
+- (b) the carrying out of operations within the curtilage of an existing dwellinghouse (other than the erection of a dwellinghouse),
+
+for the purpose, in either case, of providing means of access to or within the dwellinghouse for a disabled person who is resident in, or is proposing to take up residence in, that dwellinghouse, or of providing facilities designed to secure that person’s greater safety, health or comfort.
+
+(2) Regulation 3 does not apply where the local planning authority to whom the application is made are satisfied that it relates solely to the carrying out of operations for the purpose of providing means of access for disabled persons to or within a building or to premises to which members of the public are admitted (whether on payment or otherwise).
+
+(3) For the purposes of this regulation a person is disabled if—
+
+- (a) the person’s sight, hearing or speech is substantially impaired;
+- (b) the person has a mental disorder; or
+- (c) the person is physically substantially disabled by any illness, any impairment present since birth, or otherwise.
+
+(4) In this regulation “mental disorder” (“*anhwylder meddyliol*”) means any disorder or disability of the mind.
+
+## 5. Exceptions – permission granted by General Permitted Development Order not applying[^key-509e87390611d3cbcd884e361aea8e12]
+
+(1) Regulation 3 does not apply where the local planning authority are satisfied that—
+
+- (a) the application relates solely to development which is within one or more of the classes specified in Schedule 2 to the General Permitted Development Order[^f00015]; and
+- (b) the permission granted by article 3 of that Order (permitted development)[^f00016] does not apply in respect of that development by reason of (and only by reason of)—
+  - (i) a direction made under article 4 of that Order (directions restricting permitted development)[^f00017] which is in force on the date when the application is made; or
+  - (ii) the requirements of a condition imposed on a permission granted or deemed to be granted under Part 3 of the 1990 Act (control over development)[^f00018] otherwise than by that Order.
+
+(2) Applications referred to in paragraph (1)(a) must be construed as including applications for planning permission for the continuance of a use of land, or the retention of buildings or works, without compliance with a condition subject to which a previous planning permission was granted, where the condition prohibits or limits the carrying out of any development within one or more of the classes specified in Schedule 2 to the General Permitted Development Order.
+
+## 6. Exceptions – application relating to same use class necessary because of condition[^key-893cef479382c263c5239cf1cbeb6e63]
+
+Regulation 3 does not apply where the local planning authority are satisfied that—
+
+- (a) the application relates solely to the use of a building or other land for a purpose of any class specified in the Schedule to the Town and Country Planning (Use Classes) Order 1987[^f00019];
+- (b) the existing use of that building or other land is for another purpose of the same class; and
+- (c) the making of an application for planning permission in respect of the use to which the application relates is necessary by reason of (and only by reason of) the requirements of a condition imposed on a permission granted or deemed to be granted under Part 3 of the 1990 Act.
+
+## 7. Exceptions – consolidation of subsisting minerals permissions[^key-500828dc485057d8a742780c3c16d514]
+
+Regulation 3 does not apply in relation to an application to a local planning authority for permission to carry out development consisting of the winning and working of minerals where the application—
+
+- (a) is for a permission which consolidates two or more subsisting permissions; and
+- (b) does not seek permission for development which is not authorised by a subsisting permission.
+
+## 8. Exemptions – application following withdrawal of earlier application or refusal of planning permission etc.[^key-334e2e55c9212f3be6b0e9eec73b3efb]
+
+(1) Where all the conditions set out in paragraph (2) are satisfied, regulation 3 does not apply to—
+
+- (a) an application for planning permission which is made following the withdrawal (before notice of decision was issued) of a valid application for planning permission made by or on behalf of the same applicant;
+- (b) an application for planning permission which is made following the refusal of planning permission (whether by the local planning authority or by the Welsh Ministers on appeal or following the reference of the application to the Welsh Ministers for determination) on a valid application for planning permission made by or on behalf of the same applicant;
+- (c) an application for planning permission which is made following the making of an appeal to the Welsh Ministers under section 78(2) of the 1990 Act[^f00020] in relation to a valid application for planning permission made by or on behalf of the same applicant;
+- (d) an application for approval of one or more reserved matters which is made following the withdrawal (before notice of decision was issued) of a valid application made by or on behalf of the same applicant for approval of the same reserved matters in relation to the same outline planning permission;
+- (e) an application for approval of one or more reserved matters which is made following the refusal (whether by the local planning authority or by the Welsh Ministers on appeal) of approval of the same reserved matters which were submitted in a valid application made by or on behalf of the same applicant and in relation to the same outline planning permission; or
+- (f) an application for approval of one or more reserved matters which is made following the making of an appeal to the Welsh Ministers under section 78(2) of the 1990 Act in relation to a valid application made by or on behalf of the same applicant for approval of the same reserved matters in relation to the same outline planning permission.
+
+(2) The conditions referred to in paragraph (1) are—
+
+- (a) the application is made within 12 months of—
+  - (i) in the case of an earlier valid application which was withdrawn, the date when that application was received;
+  - (ii) in the case of an application which is made following an appeal under section 78(2) of the 1990 Act, the date when (by virtue of article 22 or 23 of the Development Management Procedure Order, as the case may be) the period for the giving of notice of a decision on the earlier valid application expired; or
+  - (iii) in any other case, the date of the refusal;
+- (b) the application relates—
+  - (i) in the case of an application for planning permission, to the same site as that to which the earlier application related, or to part of that site, and to no other land except land included solely for the purpose of providing a different means of access to the site; or
+  - (ii) in the case of an application for approval of reserved matters, to the same site as that to which the earlier application related, or to part of that site (and no other land);
+- (c) in the case of an application for planning permission, the local planning authority to whom the application is made are satisfied that it relates to development of the same character or description as the development to which the earlier application related (and to no other development);
+- (d) in the case of an application for planning permission which is not made in outline, the earlier application was also not made in outline;
+- (e) the fee payable in respect of the earlier application was paid; and
+- (f) no application made by or on behalf of the applicant in relation to the whole or any part of the site has already been exempted from regulation 3 by this regulation.
+
+(3)[^key-557a4f4b47f83412f0d8a1abfd107a3b] In this regulation “valid application” (“*cais dilys*”) has, in the case of an application for planning permission the same meaning as in article 22(3) of the Development Management Procedure Order, and in the case of an application for approval of reserved matters the same meaning as in article 23(3) of that Order.
+
+## 9. Refund of fees in relation to applications not determined within specified periods[^key-a56590f25f90d52e64480720d757d938]
+
+(1) Subject to paragraph (4), any fee paid by an applicant in respect of an application for planning permission or for the approval of reserved matters, must be refunded to the applicant in the event that the local planning authority fail to determine the application within the periods specified in paragraph (2).
+
+(2) The periods specified are—
+
+- (a) where an application for planning permission relates to a category of development which falls within category 6 or 7 in the table set out in Part 2 of Schedule 1, 8 weeks;
+- (b) in any other case, 16 weeks.
+
+(3) The periods specified in paragraph (2) start on the expiry of the period for the giving of notice of a decision on the application specified in article 22(2) or 23(1)[^key-b379c6620d599ffaa5699cfcdeea400f] of the Development Management Procedure Order as the case may be[^key-66356799eb1bb9080523bcdfc174233a].
+
+(4) Paragraph (1) does not apply where—
+
+- (a) the Welsh Ministers give a direction under section 77 of the 1990 Act (reference of applications to the Welsh Ministers)[^f00021] in relation to the application before the periods specified in paragraph (2) have expired;
+- (b) the applicant has appealed to the Welsh Ministers under section 78(2) of the 1990 Act before the periods specified in paragraph (2) have expired; or
+- (c) any person who is aggrieved by any decision of the local planning authority in relation to the application has made an application to the High Court before the periods specified in paragraph (2) have expired.
+
+## 10. Fees in respect of deemed applications[^key-452f7d6975a3e1565366f55b0e94f5c5]
+
+(1) In this regulation—
+
+- (a) “appellant” (“*apelydd*”) means the person who has appealed against the relevant enforcement notice;
+- (b) “relevant authority” (“*awdurdod perthnasol*”) means the local planning authority which issued the enforcement notice; and
+- (c) “relevant date” (“*dyddiad perthnasol*”) means the date on which the appeal against the enforcement notice is made.
+
+(2) Subject to paragraphs (3), (8) and (9), where an application for planning permission is deemed to have been made by virtue of section 177(5) of the 1990 Act (a “deemed application”), a fee must be paid to the relevant authority.
+
+(3)[^key-20673c73e5b395f5ca7f32293b82cb40] A fee is only payable under this regulation in respect of a deemed application if on the relevant date in respect of the matters stated in the enforcement notice as constituting a breach of planning control—
+
+- (a) a fee would have been payable under these Regulations for an application for planning permission made to the relevant authority; [^key-8973af89cb2a659a3a2f0da65f2f8772]...
+- (b)[^key-8973af89cb2a659a3a2f0da65f2f8772] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The amount of the fee is—
+
+- (a) where an application would have been made to the relevant authority, twice the amount of the fee which would have been payable in respect of the application; or
+- (b) where an application would have been made to the Welsh Ministers, twice the amount of the fee which would have been payable to the relevant authority in respect of the application had the application been made to the authority and had the development fallen within paragraph 9(b) of Part 2 of Schedule 1.
+
+(5) The fee must be paid in respect of the deemed application by every person who has made a valid appeal against the enforcement notice and whose appeal is not withdrawn before the date on which the Welsh Ministers issue a notice under paragraph (7).
+
+(6) The fee must be paid to the relevant authority.
+
+(7) The fee must be paid at such time as the Welsh Ministers may in the particular case specify by notice in writing to the appellant.
+
+(7A)[^key-9afa695ffc51ce368daf6d8bdc073132] The Welsh Ministers must send a copy of the notice referred to in paragraph (7) to the relevant authority at the same time as the notice is sent to the appellant.
+
+(7B) The relevant authority must, as soon as reasonably practicable, notify the Welsh Ministers in writing—
+
+- (a) when the appellant has paid the fee in accordance with paragraphs (6) and (7); or
+- (b) if the appellant has not paid the fee within the time specified in the notice referred to in paragraph (7).
+
+(8) Regulations 4, 5 and 6 apply to a deemed application as they apply to an application made to the local planning authority, with the following modifications—
+
+- (a) references to the local planning authority must be construed as references to the Welsh Ministers; and
+- (b) references to the development to which the application relates must be construed as references to the use of land or the operations to which the relevant enforcement notice relates.
+
+(9) This regulation does not apply where the appellant had—
+
+- (a) before the date when the relevant enforcement notice was issued, made an application to the local planning authority for planning permission for the development to which the notice relates and had paid to the authority the fee payable in respect of that application; or[^key-f5dfa485540f3e97a8d19bc90a8d0e01]
+- (b)[^key-8693fa8617156f87024adc330d820f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-4ad2cfc3172e0cd8ea79a69347bad9e2] before the date when the relevant enforcement notice was issued, made an application to the Welsh Ministers under section 62D of the 1990 Act for planning permission for the development to which the notice relates and had paid to the Welsh Ministers the fee payable upon making that application,
+
+and at the date when the relevant enforcement notice was issued that application or, in the case of an appeal, that appeal, had not been determined.
+
+(10) Any fee paid in respect of the deemed application must be refunded to the appellant in the event—
+
+- (a) the Welsh Ministers—
+  - (i) decline jurisdiction on the relevant appeal under section 174 of the 1990 Act (appeal against enforcement notice)[^f00022] on the grounds that it does not comply with one or more of the requirements of subsections (1) to (3) of that section;
+  - (ii) dismiss the relevant appeal in exercise of the powers contained in section 176(3)(a) of the 1990 Act on the grounds that the appellant has failed to comply with section 174(4) of the 1990 Act within the prescribed period; or
+  - (iii) allow the relevant appeal and quash the relevant enforcement notice in exercise of the powers contained in section 176(3)(b) of the 1990 Act;
+- (b) the relevant appeal under section 174 of the 1990 Act is withdrawn such that there are at least 21 days between the date of withdrawal and—
+  - (i) the date (or in the event of postponement, the latest date) appointed for the holding of an inquiry into that appeal; or
+  - (ii) in the case of an appeal which is being dealt with by way of written representations, the date (or in the event of postponement, the latest date) appointed for the inspection of the site to which the enforcement notice relates; or
+- (c) the relevant authority withdraws the relevant enforcement notice before it takes effect or the Welsh Ministers decide that the enforcement notice is a nullity.
+
+(11) For the purpose of paragraph (10)(b) an appeal is treated as being withdrawn on the date on which notice in writing of the withdrawal is received by the Welsh Ministers.
+
+(12) Except on the determination of an appeal where the Welsh Ministers issue a certificate under section 191 of the 1990 Act (certificate of lawfulness of existing use or development)[^f00023] in accordance with section 177(1)(c) of that Act[^f00024], the fee paid by the appellant in respect of a deemed application must be refunded to the appellant if the Welsh Ministers allow the appeal against the relevant enforcement notice on—
+
+- (a) grounds set out in section 174(2)(b) to (f) of the 1990 Act; or
+- (b) the ground that the notice is invalid, or that it contains a defect, error or misdescription which cannot be corrected in pursuance of the Welsh Ministers’ powers under section 176(1) of the 1990 Act[^f00025].
+
+(13) Half the fee paid by the appellant in respect of a deemed application must be refunded to the appellant in the event of the Welsh Ministers allowing the appeal against the relevant enforcement notice on the ground set out in section 174(2)(a) of the 1990 Act.
+
+(14) In the case of a deemed application where—
+
+- (a) an enforcement notice is varied under section 176(1) of the 1990 Act otherwise than to take account of a grant of planning permission under section 177(1) of the 1990 Act; and
+- (b) the fee calculated in accordance with paragraphs (3) and (4) would have been a lesser amount if the original notice had been in the terms of the varied notice,
+
+the fee payable is that lesser amount, and any excess amount already paid must be refunded.
+
+(15) In determining a fee under paragraph (14) no account is taken of any change in fees which takes effect after the making of the deemed application.
+
+## 11. Fees for applications for certificates of lawful use or development[^key-516e468928584622579c298a86481fe3]
+
+(1) Subject to paragraphs (2) and (4), where an application is made to a local planning authority under section 191 or 192 of the 1990 Act, a fee must be paid to that authority.
+
+(2) This regulation does not apply where the local planning authority are satisfied that the application relates solely to the carrying out of operations specified in regulation 4 for the purposes specified in that regulation.
+
+(3) Subject to paragraphs (7) to (9)[^key-4f044fc881110bbd904e8a7b27f884cf] the fee payable in respect of an application to which this regulation applies is—
+
+- (a) in the case of an application under section 191(1)(a) or (b) (or under both paragraphs), the amount that would be payable in respect of an application for planning permission to institute the use or carry out the operations specified in the application (or an application to do both, as the case may be);
+- (b) in the case of an application under section 191(1)(c), the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-bed82b298fbd0694aa98d86b495c0ae5];
+- (c) in the case of an application under section 192(1)(a) or (b) (or under both paragraphs), half the amount that would be payable in respect of an application for planning permission to institute the use or carry out the operations specified in the application (or an application to do both, as the case may be).
+
+(4) Where all of the conditions set out in paragraph (5) are satisfied, this regulation does not apply to an application—
+
+- (a) under section 191 or 192 which is made—
+  - (i) following the withdrawal (before notice of decision was issued) of a valid application made by or on behalf of the same applicant;
+  - (ii) following the refusal of a valid application (whether by the local planning authority or the Welsh Ministers on appeal) made by or on behalf of the same applicant; or
+- (b) which is made following the making of an appeal to the Welsh Ministers under section 195(1)(b) of the 1990 Act[^f00026] in relation to a valid application made by or on behalf of the same applicant.
+
+(5) The conditions referred to in paragraph (4) are—
+
+- (a) the application is made within 12 months of—
+  - (i) in the case of an earlier valid application which was withdrawn, the date when the application was received;
+  - (ii) in the case of an application which is made following an appeal under section 195(1)(b) of the 1990 Act, the date when by virtue of article 28(10) of the Development Management Procedure Order the period for the giving of written notice of a decision on the earlier valid application expired; or
+  - (iii) in any other case, the date of refusal;
+- (b) the application relates to the same site as that to which the earlier application related, or to part of that site and to no other land;
+- (c) the local planning authority to whom the application is made are satisfied that it relates to a use, operation or other matter of the same description as the use, operation or matter to which the earlier application related and to no other use, operation or matter;
+- (d) the fee payable in respect of the earlier application was paid; and
+- (e) no application made by or on behalf of the same applicant in relation to the whole or any part of the site has already been exempted from this regulation by paragraph (4).
+
+(6)[^key-b3abb7318910ee5167e23986c0598457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Where an application is made under section 191(1)(a) or (b) (or under both paragraphs) and under section 191(1)(c), the fee payable is the sum of the fees that would have been payable if there had been an application under section 191(1)(a) or (b) (or under both paragraphs, as the case may be) and a separate application under section 191(1)(c).
+
+(8) In the case of an application which relates to land in the area of two or more local planning authorities, paragraph 8(2) of Part 1 of Schedule 1 applies for the purpose of determining the amount payable as it applies in the case of an application for planning permission which relates to such land.
+
+(9) Where an application is made by or on behalf of a community council, the fee payable is one half of the amount that would otherwise be payable in accordance with paragraphs (3) and (7)[^key-cb9d76252067e0d713322a5df9e9e0c9].
+
+(10) The fee due in respect of an application to which this regulation applies must accompany the application when it is lodged with the local planning authority.
+
+(11) Where the local planning authority who receive the fee in accordance with this regulation are not the local planning authority who have to determine the application, they must remit the fee to that authority at the same time as they forward the application to them.
+
+(12) Any fee paid pursuant to this regulation must be refunded if the application is rejected as invalid.
+
+(13) In this regulation “valid application” (“*cais dilys*”) has the same meaning as in article 28(12) of the Development Management Procedure Order.
+
+## 12. Fees for applications for consent for advertisements[^key-55a2605f0ddb1e9c4ea45a7e103d5738]
+
+(1) Subject to paragraphs (9) and (11), where an application is made to a local planning authority under regulation 9 of the 1992 Regulations[^f00027] for express consent for the display of an advertisement, a fee must be paid to that authority in accordance with this regulation.
+
+(2) Where the application relates to the display of one advertisement only the fee payable in respect of the application is the amount specified in the table in Schedule 2 for the appropriate category.
+
+(3) Where the application relates to the display of more than one advertisement on the same site, a single fee is payable in respect of all of the advertisements to be displayed on that site and listed in the application and—
+
+- (a) if all of the advertisements are within the same category the fee payable is the amount specified for that category;
+- (b) if all of the advertisements are within categories 1 and 2 the fee payable is the amount specified for category 1;
+- (c) if one or more of the advertisements is within category 3 the fee payable is the amount specified for category 3.
+
+(4) Where the application relates to the display of advertisements on parking meters, litter bins, public seating benches or bus shelters within a specified area, the whole of the area to which the application relates must be treated as one site for the purpose of this regulation.
+
+(5) Where the application relates to the display of advertisements on more than one site, the fee payable in respect of the application is the aggregate of the sums payable in respect of the display of advertisements on each such site.
+
+(6) Where the application is made by or on behalf of a community council, the fee payable in respect of the application is one half of the amount that would otherwise be payable under this regulation.
+
+(7) The fee due in respect of an application to which this regulation applies must accompany the application when it is lodged with the local planning authority.
+
+(8) Where the local planning authority who receive the fee in accordance with this regulation are not the local planning authority who have to determine the application, they must remit the fee to that authority at the same time as they forward the application to them.
+
+(9) Where all of the conditions set out in paragraph (10) are satisfied, this regulation does not apply to—
+
+- (a) an application under regulation 9 of the 1992 Regulations which is made following the withdrawal (before notice of decision was issued) of a valid application made by or on behalf of the same person; or
+- (b) an application under that regulation which is made following the refusal of consent (whether by the local planning authority or by the Welsh Ministers on appeal) for the display of advertisements on a valid application made by or on behalf of the same person.
+
+(10) The conditions referred to in paragraph (9) are—
+
+- (a) the application is made within 12 months of—
+  - (i) in the case of an earlier valid application which was withdrawn, the date when that application was received; or
+  - (ii) in any other case, the date of refusal;
+- (b) the application relates to the same site as that to which the earlier application related, or to part of that site;
+- (c) the local planning authority to whom the application is made are satisfied that it relates to an advertisement of the same description as the advertisement to which the earlier application related;
+- (d) the fee payable in respect of the earlier application was paid; and
+- (e) no previous application has at any time been made by or on behalf of the same applicant which related to—
+  - (i) the same site as that to which the earlier application related, or part of that site; and
+  - (ii) an advertisement of the same description as the advertisement (or any of the advertisements) to which the earlier application related,
+
+  and which was exempted from the provisions of this regulation by paragraph (9).
+
+(11) No fee is payable under this regulation in respect of an application for consent to display an advertisement if the application is occasioned by a direction under regulation 7 of the 1992 Regulations (directions restricting deemed consent) disapplying regulation 6 of those Regulations (deemed consent for the display of advertisements)[^f00028] in relation to the advertisement (or any of the advertisements) in question.
+
+(12) Any fee paid pursuant to this regulation must be refunded if the relevant application is rejected as invalid.
+
+## 13. Fees for certain applications under the General Permitted Development Order[^key-d7e1f5492420c5b332afda0fc7515f2f]
+
+(1) Where an application is made to a local planning authority for their determination as to whether the prior approval of the authority will be required in relation to development under Schedule 2 to the General Permitted Development Order a fee must be paid to the authority in the following amounts—
+
+- (a) for an application under Parts 6 (agricultural buildings and operations)[^f00029], 7 (forestry buildings and operations)[^f00030] or 31 (demolition of buildings)[^f00031] of that Schedule, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-13851a9bdc841f59ce4190645dbd2d3f]; and
+- (b) for an application under Part 24 of that Schedule (development by electronic communications code operators)[^f00032], the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-e30779f9dd57c526ba1ce9756098f73d].
+
+(2) Where the local planning authority who receive the fee in accordance with this regulation are not the local planning authority who have to determine the application, they must remit the fee to that authority at the same time as they forward the application to them.
+
+(3) Any fee paid pursuant to this regulation must be refunded if the application is rejected as invalid.
+
+## 14. Fees in respect of the monitoring of mining and landfill sites[^key-7522bc79b87aac1085fd83c125dd94b6]
+
+(1) Subject to paragraphs (2) and (3), where a site visit is made, the operator of the site must pay to the local planning authority a fee in the amount specified in paragraphs (4) or (5).
+
+(2) The maximum number of site visits to any one such site for which a fee is payable under this regulation in any period of 12 months beginning with the date of the first visit during that period is—
+
+- (a) where the site is an active site, eight; or
+- (b) where the site is an inactive site, one.
+
+(3) Where—
+
+- (a) the person liable to pay the fee in respect of a site visit is the owner of the site; and
+- (b) there is more than one owner,
+
+the amount of the fee is to be divided equally between the total number of owners and each owner is liable to pay one part of the amount so divided.
+
+(4) Where the whole or a part of the site is an active site, the fee payable is the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-6177130d12738d036ec404fc936b130e].
+
+(5) Where the site is an inactive site the fee payable is the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-c1e8a64bcf7dde62abbf845dcd303fcc].
+
+(6) In this regulation—
+
+- “active site” (“*safle gweithredol*”) means the whole or a part of a mining site or landfill site, or a site which is partly a mining site and partly a landfill site, where—
+  - (a) development to which the relevant mineral permission or landfill permission relates is being carried out to any substantial extent on the site or (as the case may be) that part of it; or
+  - (b) other works to which a condition attached to such permission relates are being carried out to any substantial extent or (as the case may be) that part of it;
+- “inactive site” (“*safle anweithredol*”) means a mining site or landfill site, or a site which is partly a mining site and partly a landfill site, which is not an active site;
+- “operator” (“*gweithredwr*”) means—
+  - (a) the person—
+    - (i) carrying out on the land operations consisting of the winning and working of minerals;
+    - (ii) using the land for the deposit of mineral waste;
+    - (iii) carrying out on the land operations for the purposes of, or using the land as, a waste disposal site for the deposit of waste onto or into the land; or
+    - (iv) carrying out on the land other works to which a condition or limitation attached to a mineral permission or landfill permission relates;
+  - (b) where there is more than one person carrying out the operations, works or using the land in the way described in sub-paragraph (a), the person in overall control of the site; or
+  - (c) where there is no person who falls within the descriptions in sub-paragraph (a) or (b), the owner of the site; and
+- “owner” (“*perchennog*”) means—
+  - (a) the person who is entitled to a tenancy of the site granted or extended for a term of years certain of which not less than seven years remains unexpired, but does not include an underlessee; or
+  - (b) where there is no person who falls within the description in sub-paragraph (a), the owner in fee simple of the site.
+
+## 15. Fees for applications made under planning condition[^key-5e33987d418f01b7a7c327c6a9c1621a]
+
+(1) Where an application (other than an application for approval of reserved matters)[^key-7531919ce556db7db6da6ed93c8d89d2] is made to a local planning authority under article 23 of the Development Management Procedure Order, a fee must be paid to that authority as follows—
+
+- (a) where the application relates to a permission for development which falls within category 6 or 7 specified in the table set out in Part 2 of Schedule 1, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-f1f9143bfd748f96625ec1e1ea9a5f23] for each application;
+- (b) in any other case, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-0b2fb9a7c4561d431982c43c7afe7239] for each application.
+
+(2) Any fee paid under this regulation must be refunded if the local planning authority fail to determine the application within a period of 8 weeks from the expiry of the period for the giving of notice of a decision specified in article 23(1)[^key-6b06317c2d4087c77ac031e909c8708f] of the Development Management Procedure Order.
+
+(3) Paragraph (2) does not apply where before the period mentioned in paragraph (2) has expired—
+
+- (a) the Welsh Ministers give a direction under section 77 of the 1990 Act in relation to the application;
+- (b) the applicant appeals to the Welsh Ministers under section 78(2) of the 1990 Act; or
+- (c) any person who is aggrieved by any decision of the local planning authority in relation to the application makes an application to the High Court.
+
+## 16. Fees for applications for non-material changes to planning permission[^key-c7fc9fe930a1e36f07e723739df854ad]
+
+(1) Subject to paragraph (3), where an application is made under section 96A(4) of the 1990 Act the following fee must be paid to the local planning authority—
+
+- (a) if the application is a householder change application[^key-2b6802cdfbd77cf4923006bc8b17a138], the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-77a97d3e33ec6edba43e0526520f68c2];
+- (b) in any other case, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-8099c513a87270fa006e07f23475c4da].
+
+(2) Where the local planning authority who receive the fee in accordance with this regulation are not the local planning authority who have to determine the application, they must remit the fee to that authority at the same time as they forward the application to them.
+
+(3) Paragraph (1) does not apply in the circumstances set out in regulations 4 and 5.
+
+(4) Any fee paid pursuant to this regulation must be refunded if the application is rejected as invalid.
+
+(5) In this regulation and in paragraph 5A of Part 1 of Schedule 1[^key-b890cc200271028c890021c0fb8dd751] “householder change application (“[^key-8796e5f2c5e83b5cf996aa19da23fa74]*cais am newid gan ddeiliad tŷ*”) means an application to make a change to a planning permission relating to—
+
+- (a) development of an existing dwellinghouse, or
+- (b) development within the curtilage of such a dwellinghouse,
+
+for any purpose incidental to the enjoyment of the dwellinghouse, but does not include an application for change of use or an application to change the number of dwellings in a building.
+
+## 16A. Fees for post submission amendments to major development applications[^key-f826dc9ca505af927e535e446c6481f9]
+
+(1) Where an amendment to a valid application to which paragraph (2) applies has been submitted to a local planning authority in accordance with article 22(1A) of the Development Management Procedure Order, the fee specified in paragraph (3) must be paid to the local planning authority.
+
+(2) This paragraph applies to an amendment to a valid application for major development.
+
+(3) The fee is the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-f1409088150702b0101fcd8cf331e6f5].
+
+(4) In this regulation—
+
+- (a) “valid application” (“*cais dilys*”) has the same meaning as in article 22(3) of the Development Management Procedure Order;
+- (b) “major development” (“*datblygiad mawr*”) has the same meaning as in article 2(1) of the Development Management Procedure Order.
+
+## 16B. Fees for applications for certificates of appropriate alternative development[^key-2f92bb8f0f4019b49d0e973362d3317c]
+
+(1) Where an application is made to a local planning authority under section 17 of the Land Compensation Act 1961 (certificates of appropriate alternative development) a fee must be paid to that authority.
+
+(2) The fee payable in respect of an application to which this regulation applies is the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-b814f520f2186e9fe957f42f0f0be72b].
+
+(3) Where an application is made by or on behalf of a community council, the fee payable is one half of the amount that would otherwise be payable.
+
+(4) The fee due in respect of an application to which this regulation applies must accompany the application when it is lodged with the local planning authority.
+
+(5) Where the local planning authority who receive the fee in accordance with paragraphs (1) to (4) are not the local planning authority who have to determine the application, they must remit the fee to that authority at the same time as they forward the application to them.
+
+(6) Any fee paid pursuant to this regulation must be refunded if the application is rejected as invalid.
+
+## 17. Revocation, transitional provisions and savings[^key-b32a24b3e739233bdae97aa4851359e7]
+
+(1) Subject to paragraphs (2) and (3), the Regulations specified in the table in Schedule 3 are revoked in so far as they apply in relation to Wales.
+
+(2) A reference in regulations 8(2)(f), 11(5)(e) or 12(10)(e) to the fee for an application being exempted under a particular provision of these Regulations must be construed as including a reference to the application being exempted from payment of a fee under (as the case may be) regulation 8, 10A(3) and 11(9) of the 1989 Regulations.
+
+(3) The relevant provisions of the 1989 Regulations continue to have effect in relation to any application for planning permission deemed to have been made by virtue of section 177(5) of the 1990 Act in connection with an enforcement notice issued before the date on which these Regulations come into force.
+
+Carl Sargeant
+
+Minister for Natural Resources, one of the Welsh Ministers
+
+6 July 2015
+
+## SCHEDULE 1 — Fees in Respect of Applications and Deemed Applications for Planning Permission or for Approval of Reserved Matters
+
+Regulations 3, 9, 10, 11(8) and 15(1)
+
+### PART 1 — Fees Payable under Regulation 3 or Regulation 10
+
+#### 1. General[^key-8faf8216263f29a447d19a335ff1653b]
+
+(1) Subject to paragraphs 2 to 9 of this Part, the fee payable under regulation 3 or regulation 10 is calculated in accordance with the table set out in Part 2 and paragraphs 10 to 13.
+
+(2) In this Part, a reference to a category is to a category of development specified in the table set out in Part 2; and a reference to a numbered category is to the category of development so numbered in the table and “category of development” (“*categori o ddatblygiad*”) means—
+
+- (a) in the case of an application for planning permission, the category of development in respect of which the permission is being sought; and
+- (b) in the case of an application for approval of reserved matters, the category of development permitted by the relevant outline planning permission.
+
+(3) In the case of a deemed application[^f00033] in this Schedule—
+
+- (a) references to the development to which an application relates must be construed as references to the use of land or the operations (as the case may be) to which the relevant enforcement notice relates;
+- (b) references to the amount of floor space or the number of dwellinghouses to be created by the development must be construed as references to the amount of floor space or the number of dwellinghouses to which that enforcement notice relates; and
+- (c) references to the purposes for which it is proposed that floor space be used must be construed as references to the purposes for which floor space was stated to be used in the enforcement notice.
+
+#### 2. Fees in particular cases[^key-84dece025c5eb20170505d568e496ff6]
+
+Where an application or deemed application is made or deemed to be made by or on behalf of a community council, the fee payable is one half of the amount as would otherwise be payable.
+
+**3.**[^key-1ad7976d158097271ad95d7636b10c73] (1) Where an application or deemed application is made or deemed to be made by or on behalf of a club, society or other organisation (including any persons administering a trust) which is not established or conducted for profit and whose objects are the provision of facilities for sport or recreation, and the conditions specified in sub-paragraph (2) are satisfied, the fee payable is the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-bd9a2aaa58b310e4171bb6fdd3493381].
+
+(2) The conditions referred to in sub-paragraph (1) are—
+
+- (a) the application or deemed application relates to—
+  - (i) the making of a material change in the use of land to use as a playing field; or
+  - (ii) the carrying out of operations (other than the erection of a building containing floor space) for purposes ancillary to the use of land as a playing field,
+
+  and to no other development; and
+- (b) the local planning authority with whom the application is lodged, or (in the case of a deemed application) the Welsh Ministers, are satisfied that the development is to be carried out on land which is, or is intended to be, occupied by the club, society or organisation and used wholly or mainly for the carrying out of its objects.
+
+**4.**[^key-9dbde63bc52ad1f732dc6b56f91a761b] (1) This paragraph applies where—
+
+- (a) an application is made for approval of one or more reserved matters (“the current application”); and
+- (b) the applicant has previously applied for such approval under the same outline planning permission and paid fees in relation to one or more such applications; and
+- (c) no application has been made under that permission other than by or on behalf of the applicant.
+
+(2) Where the amount paid as mentioned in sub-paragraph (1)(b) is not less than the amount which would be payable if the applicant were, by the current application, seeking approval of all the matters reserved by the outline permission (and in relation to the whole of the development authorised by the permission), the fee payable in respect of the current application is the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-966ea2f1fb977bd2618be9801bc9b6ae].
+
+(3) Where—
+
+- (a) a fee has been paid as mentioned in sub-paragraph (1)(b) at a rate lower than that prevailing at the date of the current application; and
+- (b) sub-paragraph (2) would apply if that fee had been paid at the rate applying at that date,
+
+the fee in respect of the current application is the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-3dee2cde4d68442943a7b81cbe6de360].
+
+**5.**[^key-aefa09b84be0dcb09c58f2a2a731893c] Subject to paragraph 5A, where[^key-33b1ead2fa5e286f79b65fa0804e0b23] application is made pursuant to section 73 of the 1990 Act (determination of applications to develop land without compliance with conditions previously attached)[^f00034] the fee payable is the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-e9191deada68be46ca316ccf121f156f].
+
+**5A.**[^key-9c1f48ce85c56b001a57cc048e2e1ab4] (1) Where application is made pursuant to section 73 of the 1990 Act —
+
+- (a) following the refusal or partial refusal of an earlier application under section 96A(4) of the 1990 Act made by or on behalf of the same applicant; or
+- (b) where the local planning authority have not given notice of their decision in respect of an earlier application under section 96A(4) of the 1990 Act made by or on behalf of the same applicant within the period specified in article 28A(7) of the Development Management Procedure Order;
+
+and all the conditions set out in sub-paragraph (2) are satisfied, the fee payable is the fee specified in sub-paragraph (3).
+
+(2) The conditions referred to in sub-paragraph (1) are—
+
+- (a) the application is made within 6 months following—
+  - (i) the date of the refusal or partial refusal of the earlier application; or
+  - (ii) as the case may be, expiry of the period specified in article 28A(7) of the Development Management Procedure Order in relation to the earlier application;
+- (b) the local planning authority to whom application is made are satisfied that the application relates to development of the same character or description as the development to which the earlier application related (and to no other development);
+- (c) the fee payable in respect of the earlier application was paid; and
+- (d) the applicant has not already paid a fee under this paragraph in respect of a previous application made pursuant to section 73 of the 1990 Act that related to development of the same character or description as the development to which the current application relates.
+
+(3) The fee is—
+
+- (a) if the application is a householder change application, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-e9cfb60d8d5677e915f55c193c6a91b5];
+- (b) in any other case, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-042ee13919d91f69f3dc21819f00251e].
+
+**6.**[^key-908f4eaeb978db7b32f37f89f591732b] Where an application relates to development to which section 73A of the 1990 Act (planning permission for development already carried out)[^f00035] applies, the fee payable is—
+
+- (a) where the application relates to development carried out without planning permission, the fee that would be payable if the application were for planning permission to carry out that development;
+- (b) the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-cf534f8f58b607da96689c74e2a89d95], in any other case.
+
+**7.**[^key-2c805d802058bd9fd284c8ee90cb9299] Where an application is made for planning permission and—
+
+- (a) a planning permission has previously been granted for development which has not yet begun; and
+- (b) a time limit by which the development must be begun was imposed by or under section 91[^f00036] or section 92 of the 1990 Act (general condition limiting duration of planning permission and outline planning permission) which has not yet expired,
+
+the fee payable is the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-1338a180810ced9ee8f84162f4bc3356].
+
+**8.**[^key-60a53eb983c5dfd93f01cb66be634185] (1) This paragraph applies where—
+
+- (a) an applicant applies for planning permission or for the approval of reserved matters in respect of the development of land (“the relevant land”); and
+- (b) the relevant land straddles the boundary or boundaries between the areas of two or more local planning authorities so that, instead of application being made to one authority in relation to the whole of that development, applications are made to two or more local planning authorities.
+
+(2) The fee payable to each local planning authority to whom an application is made is the amount payable in respect of the application which is to be determined by that local planning authority.
+
+**9.**[^key-9a97c70281d7e2c92a0cf250d87ff06a] (1) Where—
+
+- (a) an application for planning permission is made in respect of two or more alternative proposals for the development of the same land; or
+- (b) an application for approval of reserved matters is made in respect of two or more alternative proposals for the carrying out of the development authorised by an outline planning permission,
+
+and the application is made in respect of all of the alternative proposals on the same date and by or on behalf of the same applicant, the fee payable in respect of that application is calculated in accordance with sub-paragraph (2).
+
+(2) Calculations must be made in accordance with this Schedule of the fee that would be payable in respect of an application for planning permission, or approval of reserved matters (as the case may be), if made in respect of each of the alternative proposals, and the fee payable in respect of the application is the sum of—
+
+- (a) an amount equal to the higher or highest of the amounts calculated in respect of each of the alternative proposals; and
+- (b) an amount calculated by adding together the amounts appropriate to all of the alternative proposals, other than the amount referred to in paragraph (a), and dividing that total by 2.
+
+#### 10. Provisions in relation to specified categories[^key-bd8dc790269f05b3c417471dee054ade]
+
+(1) Where, in respect of any category, the fee is to be calculated by reference to the site area, that area must be taken as consisting of—
+
+- (a) the area of land to which the application relates; or
+- (b) in the case of a deemed application, the area of land to which the relevant enforcement notice relates.
+
+(2) Where the area referred to in sub-paragraph (1) is not an exact multiple of the unit of measurement specified in respect of the relevant category of development, the fraction of a unit remaining after division of the total area by the unit of measurement must be treated as a complete unit.
+
+**11.**[^key-99ce5e531a542b247675e32791104c08] (1) In relation to development within category 2, 3 or 4, the area of gross floor space to be created by the development must be ascertained by external measurement of the floor space, whether or not it is to be bounded (wholly or partly) by external walls of a building.
+
+(2) In relation to development within category 2, where the area of gross floor space to be created by the development exceeds 75 square metres and is not an exact multiple of 75 square metres, the area remaining after division of the total number of square metres of gross floor space by the figure of 75 must be treated as being 75 square metres.
+
+**12.**[^key-8a031f3f3e3cf36d0a8c9a06f42481eb] (1) Where an application (other than for outline planning permission) or a deemed application relates to development which is in part within category 1 and in part within category 2, 3 or 4, the following sub-paragraphs apply for the purpose of calculating the fee payable in respect of the application or deemed application.
+
+(2) An assessment must be made of the total amount of gross floor space which is to be created by that part of the development which is within category 2, 3 or 4 (“the non-residential floor space”), and the sum payable in respect of the non-residential floor space to be created by the development must be added to the sum payable in respect of that part of the development which is within category 1 and, subject to sub-paragraph (4), the sum so calculated is the fee payable.
+
+(3) For the purpose of calculating the fee payable under sub-paragraph (2)—
+
+- (a) where any of the buildings is to contain floor space which it is proposed to use for the purposes of providing common access or common services or facilities for persons occupying or using part of that building for residential purposes and for persons occupying or using part of it for non-residential purposes (“common floor space”), the amount of non-residential floor space must be assessed, in relation to that building, as including such proportion of the common floor space as the amount of non-residential floor space in the building bears to the total amount of gross floor space in the building to be created by the development;
+- (b) where the development falls within more than one of categories 2, 3 and 4 an amount must be calculated in accordance with each such category and the highest amount so calculated is the sum payable in respect of all of the non-residential floor space.
+
+(4) Where an application or deemed application to which this paragraph applies relates to development which is also within one or more than one of categories 5 to 12—
+
+- (a) an amount is calculated in accordance with each such category; and
+- (b) if any of the amounts so calculated exceeds the amount calculated in accordance with sub-paragraph (2) that higher amount is the fee payable in respect of all of the development to which the application or deemed application relates.
+
+(5) In sub-paragraph (3), the reference to using the building for residential purposes is a reference to using it as a dwellinghouse.
+
+**13.**[^key-1bce61c7db88c3a315cc6cb33f6ba0af] (1) Subject to paragraph 12 and sub-paragraph (2), where an application or deemed application relates to development which is within more than one of the categories—
+
+- (a) an amount is calculated in accordance with each such category; and
+- (b) the highest amount so calculated is the fee payable in respect of the application or deemed application.
+
+(2) Where an application is for outline planning permission and relates to development which is within more than one of the categories, the fee payable is—
+
+- (a) where the site area does not exceed 2.5 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-1f16f87f965e38d253f480a15f50d94f] for each 0.1 hectare of the site area;
+- (b) where the site area exceeds 2.5 hectares the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-ace8f2f990b7658dc63521a8e81757e5], and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-07ee2c104c49fb418e89d9d0bb545754] for each 0.1 hectare in excess of 2.5 hectares, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-7b1b436af885c2c78377c113f7c19244].
+
+### PART 2 — Scale of Fees in Respect of Applications Made or Deemed to be Made[^key-2d648bc717ed3106df47eaf853ce4b00]
+
+<table>
+<tbody>
+<tr><th><strong>Category of development</strong></th><th><strong>Fee payable</strong></th></tr>
+<tr><td colspan="2">I Operations</td></tr>
+<tr><td rowspan="2">1 The erection of dwellinghouses (other than development within category 6 below)</td><td>(a) Where the application is for outline planning permission and—<br>(i) the site area does not exceed 1.2 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare of the site area,<br>(ii) the site area exceeds 1.2 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare in excess of 1.2 hectares, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document);</td></tr>
+<tr><td>(b) in other cases—<br>(i) where the number of dwellinghouses to be created by the development is 25 or fewer, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each dwellinghouse,<br>(ii) where the number of dwellinghouses to be created by the development exceeds 25, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each dwellinghouse in excess of 25 dwellinghouses, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td rowspan="2">2 The erection of buildings (other than buildings in categories 1, 3, 4, 5 or 7).</td><td>(a) Where the application is for outline planning permission and—<br>(i) the site area does not exceed 2.5 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare of the site area,<br>(ii) the site area exceeds 2.5 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare in excess of 2.5 hectares, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document);</td></tr>
+<tr><td>(b) in other cases—<br>(i) where no floor space is to be created by the development or where the area of gross floor space to be created by the development does not exceed 40 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(ii) where the area of the gross floor space to be created by the development exceeds 40 square metres but does not exceed 75 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(iii) where the area of the gross floor space to be created by the development exceeds 75 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 75 square metres (or part thereof), subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td rowspan="2">3 The erection, on land used for the purposes of agriculture, of buildings to be used for agricultural purposes (other than buildings in category 4).</td><td>(a) Where the application is for outline planning permission and—<br>(i) the site area does not exceed 2.5 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare of the site area,<br>(ii) the site area exceeds 2.5 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare in excess of 2.5 hectares, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document);</td></tr>
+<tr><td>(b) in other cases—<br>(i) where no floor space is to be created by the development or where the area of gross floor space to be created by the development does not exceed 465 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(ii) where the area of gross floor space to be created by the development exceeds 465 square metres but does not exceed 540 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(iii) where the area of gross floor space to be created by the development exceeds 540 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 75 square metres (or part thereof) in excess of 540 square metres, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td rowspan="2">4 The erection of glasshouses on land used for the purposes of agriculture.</td><td>(a) Where the gross floor space to be created by the development does not exceed 465 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document);</td></tr>
+<tr><td>(b) where the gross floor space to be created by the development exceeds 465 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td rowspan="2">5 The erection, alteration or replacement of plant or machinery.</td><td>(a) Where the site area does not exceed 5 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare of the site area;</td></tr>
+<tr><td>(b) where the site area exceeds 5 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare in excess of 5 hectares, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td rowspan="2">6 The enlargement, improvement or other alteration of existing dwellinghouses</td><td>(a) Where the application relates to one dwellinghouse, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document);</td></tr>
+<tr><td>(b) where the application relates to 2 or more dwellinghouses, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td>7<br>(a) the carrying out of operations (including the erection of a building) within the curtilage of an existing dwellinghouse, for purposes ancillary to the enjoyment of the dwellinghouse as such, or the erection or construction of gates, fences, walls or other means of enclosure along a boundary of the curtilage of an existing dwellinghouse; or<br>(b) the construction of car parks, service roads and other means of access on land used for the purposes of a single undertaking, where the development is required for a purpose incidental to the existing use of the land.</td><td>the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) in each case</td></tr>
+<tr><td rowspan="2">8 The carrying out of any operations connected with exploratory drilling for oil or natural gas</td><td>(a) Where the site area does not exceed 7.5 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectares of the site area;</td></tr>
+<tr><td>(b) where the site area exceeds 7.5 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare in excess of 7.5 hectares, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td rowspan="2">9 The carrying out of any operations not coming within any of the above categories.</td><td>(a) In the case of operations for the winning and working of minerals—<br>(i) where the site area does not exceed 15 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare of the site area,<br>(ii) where the site area exceeds 15 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare in excess of 15 hectares, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document);</td></tr>
+<tr><td>(b) in any other case, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare of the site area, subject to a maximum of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td>II Uses of land</td><td></td></tr>
+<tr><td rowspan="2">10 The change of use of a building to use as one or more separate dwellinghouses</td><td>(a) Where the change of use is from a previous use as a single dwellinghouse to use as two or more single dwellinghouses—<br>(i) where the change of use is to use as 25 or fewer dwellinghouses, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each additional dwellinghouse,<br>(ii) where the change of use is to use as more than 25 dwellinghouses, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each dwellinghouse in excess of 25 dwellinghouses, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document);</td></tr>
+<tr><td>(b) in all other cases—<br>(i) where the change of use is to use as 25 or fewer dwellinghouses, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each dwellinghouse,<br>(ii) where the change of use is to use as more than 25 dwellinghouses, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each dwellinghouse in excess of 25 dwellinghouses, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td rowspan="2">11 The use of land for the disposal of refuse or waste materials or for the deposit of material remaining after minerals have been extracted from land, or for the storage of minerals in the open.</td><td>(a) Where the site area does not exceed 15 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare of the site area;</td></tr>
+<tr><td>(b) where the site area exceeds 15 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) and an additional amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document) for each 0.1 hectare in excess of 15 hectares, subject to a maximum in total of the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td>12 The making of a material change in the use of a building or land (other than a material change of use coming within any of the above categories).</td><td>the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+</tbody>
+</table>
+
+[^key-2b78a11511ea185e83530779d077ee3e][^key-4c374ac670a66ba4481f891bd3c418b7][^key-bd98d868b6387d76b19c1df1246fa4f5][^key-a9302fd5590b62eec334f0197e551d6f][^key-149ab7e6b723d163bbd7ebe9dfbe6fe1]
+
+## SCHEDULE 2 — Fees for Advertisements Scale of Fees in Respect of Applications for Consent to Display Advertisements[^key-11f44bdb3ebaa1bc90eb12caa150f705]
+
+Regulation 12
+
+| **Category of development** | **Fee payable** |
+| --- | --- |
+| 1 Advertisements displayed on business premises, on the forecourt of business premises or on other land within the curtilage of business premises, wholly with reference to all or any of the following matters—<br>(a) the nature of the business or other activity carried on the premises;<br>(b) the goods sold or the services provided on the premises; or<br>(c) the name and qualifications of the person carrying on such business or activity or supplying such goods or services. | The amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-613afc3eb9681523c1438d358e51379d]. |
+| 2 Advertisements for the purpose of directing members of the public to, or otherwise drawing attention to the existence of, business premises which are in the same locality as the site on which the advertisement is to be displayed but which are not visible from that site. | The amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document). |
+| 3 All other advertisements. | The amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document). |
+
+## SCHEDULE 3 — Statutory Instruments Revoked so far as they apply to Wales[^key-3c312d787e286aea18528d14fb46137a]
+
+Regulation 17(1)
+
+| **Title of instrument** | **Reference** |
+| --- | --- |
+| The Town and Country Planning (Fees for Applications and Deemed Applications) Regulations 1989 | 1989/193 |
+| The Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment) Regulations 1990 | 1990/2473 |
+| The Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment) Regulations 1991 | 1991/2735 |
+| The Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment) Regulations 1992 | 1992/1817 |
+| The Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment) (No.2) Regulations 1990 | 1992/3052 |
+| The Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment) Regulations 1993 | 1993/3170 |
+| The Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment) Regulations 1997 | 1997/37 |
+| The Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment) (Wales) Regulations 2002 | 2002/1876 (W. 185) |
+| The Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment No.2) (Wales) Regulations 2006 | 2006/1052 (W. 108) |
+| The Town and Country Planning (Fees for Applications and Deemed Applications) (Amendment) (Wales) Regulations 2009 | 2009/851 (W. 76) |
+| The Town and Country Planning (Fees for Non-Material Changes) (Wales) Regulations 2014 | 2014/1761 (W. 176) |
+
+## SCHEDULE 4 — Fees in Respect of Requests for Pre-Application Services[^key-60cfd4df4b8f9dea663f7ae03cb2c600]
+
+### PART 1 — Fees payable under Regulation 2A
+
+**1.** (1) Subject to paragraph 2 of this Part, the fee payable under regulation 2A is calculated in accordance with the table set out in Part 2 and paragraphs 3 to 5.
+
+(2) In this Part—
+
+- (a) a reference to a category is to a category of proposed development specified in the table set out in Part 2; and a reference to a numbered category is to the category so numbered in the table; and
+- (b) “householder application” (“*cais deiliad tŷ*”) has the same meaning as in article 2(1) of the Development Management Procedure Order.
+
+**2.** Where a request for pre-application services relates to a proposed householder application, the fee payable is the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document)[^key-ca12331db674c21e8f545d991237be0e].
+
+**3.** Where, in respect of any category, the fee is to be calculated by reference to the site area, that area must be taken as consisting of the area of land to which the proposed application relates.
+
+**4.** In relation to proposed development within category 2 or 3, the area of the gross floor space to be created by the proposed development must be ascertained by external measurement of the floor space, whether or not it is to be bounded (wholly or partly) by external walls of a building.
+
+**5.** Where a request for pre-application services relates to proposed development within more than one category, a single fee is payable which is the higher or highest of the fees calculated in accordance with each such category.
+
+### PART 2 — Fees in Respect of Requests for Pre-Application Services
+
+<table>
+<thead>
+<tr><th>Category of proposed development</th><th colspan="2">Fee Payable</th></tr>
+</thead>
+<tbody>
+<tr><td>1. The erection of dwellinghouses</td><td colspan="2">(a) Where—<br>(i) the number of dwellinghouses to be created by the proposed development is one to nine, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(ii) the number of dwellinghouses to be created by the proposed development is 10 to 24, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(iii) the number of dwellinghouses to be created by the proposed development exceeds 24, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document);</td></tr>
+<tr><td></td><td colspan="2">(a) where the number of dwellinghouses to be created is not known and—<br>(i) the proposed site area does not exceed 0.49 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(ii) the proposed site area is 0.5 to 0.99 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(iii) the proposed site area exceeds 0.99 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td>2. The erection of buildings (other than dwellinghouses)</td><td colspan="2">(a) Where—<br>(i) the area of the gross floor space to be created by the proposed development does not exceed 999 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(ii) the area of the gross floor space to be created by the proposed development is 1,000 to 1,999 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(iii) the area of the gross floor space to be created by the proposed development exceeds 1,999 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document);</td></tr>
+<tr><td></td><td colspan="2">(a) where the gross floor space to be created by the proposed development is not known and—<br>(i) the proposed site area does not exceed 0.49 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(ii) the proposed site area is 0.5 to 0.99 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(iii) the proposed site area exceeds 0.99 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td>3. The making of a material change in the use of a building or land</td><td colspan="2">(a) Where the request for pre-application services relates to a proposed application for permission for a material change in the use of a building and—<br>(i) the area of the gross floor space of the proposed development does not exceed 999 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(ii) where the area of the gross floor space of the proposed development is 1,000 to 1,999 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(iii) where the area of the gross floor space of the proposed development exceeds 1,999 square metres, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document);</td></tr>
+<tr><td></td><td colspan="2">(a) where the request for pre-application services relates to a proposed application for permission for a material change in the use of land and—<br>(i) the site area does not exceed 0.49 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(ii) the site area is 0.5 to 0.99 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document),<br>(iii) the site area exceeds 0.99 hectares, the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td>4. The winning and working of minerals or the use of land for mineral-working deposits</td><td colspan="2">the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td></tr>
+<tr><td>5. Waste development</td><td>the amount published by the Welsh Ministers in accordance with regulation 2ZA (publication of fee document).</td><td></td></tr>
+</tbody>
+</table>
+
+[^key-c924d77596ead4877fe37f2ab59d9520]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations consolidate, with changes, the provisions of the Town and Country Planning (Fees for Applications and Deemed Applications) Regulations 1989 (“the 1989 Regulations”) in so far as they apply in Wales and the Town and Country Planning (Fees for Non-Material Changes) (Wales) Regulations 2014 (“the 2014 Regulations”).
+
+These Regulations provide for the payment of fees to local planning authorities in respect of:
+
+(1) applications made under the Town and Country Planning Act 1990 (“the 1990 Act”) for planning permission for development or for approval of matters reserved by an outline planning permission;
+
+(2) deemed applications for planning permission under section 177(5) of the 1990 Act;
+
+(3) applications for a certificate of lawful use or development;
+
+(4) applications for consent for the display of advertisements;
+
+(5) certain applications under the Town and Country Planning (General Permitted Development Order) 1995;
+
+(6) applications for non-material changes to planning permission; and
+
+(7) site visits to mining and landfill sites.
+
+The main changes are:
+
+- (a) an increase in fees by approximately 15%;
+- (b) fees paid in respect of applications for planning permission or for approval of reserved matters are refunded if the local planning authority fail to determine the application within specified times (regulation 9);
+- (c) fees in respect of deemed applications are paid to the local planning authority rather than half to the local planning authority and half to the Welsh Ministers (regulation 10);
+- (d) fees paid in respect of a deemed application in relation to the use of the land as a caravan site are to be treated the same as other applications for the purposes of refunds (regulation 10(12)). Under the 1989 Regulations, such a deemed application was excluded from the provisions for refunds;
+- (e) fees are payable in respect of applications for consent, agreement or approval required by any planning condition or limitation, and any such fee is refunded if the local planning authority fail to determine the application within specified times (regulation 15);
+- (f) a fee is payable to the local planning authority on a revised application for approval of reserved matters where those reserved matters have previously been approved. Under the 1989 Regulations such an application was exempt from payment of a fee where conditions were met;
+- (g) where applications are made for planning permission, for approval of reserved matters or for certificates of lawful use or development which relate to land in the area of two or more local planning authorities, a fee is payable to each local planning authority (paragraph 8 of Schedule 1). Under the 1989 Regulations the fee was payable to the local planning authority in whose area the largest part of the land was situated.
+
+Some minor and consequential drafting changes have also been made.
+
+The 1989 and 2014 Regulations are revoked and there are transitional and savings provisions.
+
+The Regulatory Impact Assessment applicable to these Regulations is obtainable from the Welsh Government at: Cathays Park, Cardiff, CF10 3NQ and on the Welsh Government website at www.wales.gov.uk .
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 303 was substituted by section 199 of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). See section 336(1) of the 1990 Act for the meaning of “prescribed”. Other amendments are not relevant to these Regulations. Section 333(2A) was inserted by section 118(1) of, and paragraphs 1 and 14 of Schedule 6 to, the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5).
+
+[^key-7595af57c7055d3747f51fccb4fc68ec]: Modification: Regulations applied (with modifications) (29.3.2017) by [The Glyn Rhonwy Pumped Storage Generating Station Order 2017 (S.I. 2017/330)](https://www.legislation.gov.uk/uksi/2017/330), [art. 1](https://www.legislation.gov.uk/uksi/2017/330/article/1), [Sch. 7 para. 4(1)](https://www.legislation.gov.uk/uksi/2017/330/schedule/7/paragraph/4/1) (with [art. 31](https://www.legislation.gov.uk/uksi/2017/330/article/31))
+
+[^key-356e496c0e8f99224acdbfaae966e1d2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^f00002]: Footnote: Section 177(5) was amended by section 32 of, and paragraphs 8 and 24(3) of Schedule 7 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and by section 123(1) and (6) of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^key-5b7cb27a700c524a9b86af6260769748]: Textual amendment: Word in [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/3/a) omitted (16.3.2016) by virtue of [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2016/62/regulation/2/2/a)
+
+[^f00003]: Footnote: “Reserved matters” are defined in section 92(1) of the 1990 Act.
+
+[^f00004]: Footnote: Section 191 was substituted by section 10(1) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and was amended by section 124(3) of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and by section 58(1) of, and paragraph 6(1) and (3) of Schedule 4 to, the [Mobile Homes (Wales) Act 2013 (2013 anaw 6)](https://www.legislation.gov.uk/anaw/2013/6).
+
+[^f00005]: Footnote: Section 192 was substituted by section 10(1) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
+
+[^f00006]: Footnote: Section 96A was inserted by section 190(1) and (2) of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) and amended by [S.I. 2014/1770 (W. 182)](https://www.legislation.gov.uk/wsi/2014/1770).
+
+[^key-c195bfb437f358ff482f45e34e6068a5]: Textual amendment: Word in [reg. 1(3)(b)(ix)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/3/b/ix) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2016/62/regulation/2/2/b)
+
+[^key-12bcb7305657f37c4c46690cf198a0c2]: Textual amendment: [Reg. 1(3)(c)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/3/c) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/wsi/2016/62/regulation/2/2/c)
+
+[^key-3df5a403d4cfef1067274e4009f244d9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1522/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^f00007]: Footnote: [S.I. 1989/193](https://www.legislation.gov.uk/uksi/1989/193). Relevant amending instruments are [S.I. 1990/2473](https://www.legislation.gov.uk/uksi/1990/2473), [S.I. 1991/2735](https://www.legislation.gov.uk/uksi/1991/2735), [S.I. 1992/1817](https://www.legislation.gov.uk/uksi/1992/1817), [S.I. 1992/3052](https://www.legislation.gov.uk/uksi/1992/3052), [S.I. 1993/3170](https://www.legislation.gov.uk/uksi/1993/3170), [S.I. 1996/525](https://www.legislation.gov.uk/uksi/1996/525), [S.I. 1997/37](https://www.legislation.gov.uk/uksi/1997/37), [S.I. 2002/1876 (W. 185)](https://www.legislation.gov.uk/wsi/2002/1876), [S.I. 2002/2258 (W. 222)](https://www.legislation.gov.uk/wsi/2002/2258), [S.I. 2003/394 (W. 53)](https://www.legislation.gov.uk/wsi/2003/394), [S.I. 2004/2736 (W. 243)](https://www.legislation.gov.uk/wsi/2004/2736), [S.I. 2006/948 (W. 97)](https://www.legislation.gov.uk/wsi/2006/948) [S.I. 2006/1052 (W. 108)](https://www.legislation.gov.uk/wsi/2006/1052), [S.I. 2006/1282](https://www.legislation.gov.uk/uksi/2006/1282), and [S.I. 2009/851 (W. 76)](https://www.legislation.gov.uk/wsi/2009/851).
+
+[^f00008]: Footnote: [S.I. 1992/666](https://www.legislation.gov.uk/uksi/1992/666). Regulation 9 was substituted by regulation 2 of [S.I. 2012/791 (W. 106)](https://www.legislation.gov.uk/wsi/2012/791). See regulation 15 of [S.I. 2008/1848 (W. 177)](https://www.legislation.gov.uk/wsi/2008/1848) in relation to the application of the 1992 Regulations to the display on any site in a voting area of an advertisement relating specifically to a referendum. Other amendments are not relevant to these Regulations.
+
+[^key-0bd7e9e659c8efa857206167c07c6a8e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2015/1522/regulation/2) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2016/62/regulation/2/3)
+
+[^f00009]: Footnote: [S.I. 2012/801 (W. 110)](https://www.legislation.gov.uk/wsi/2012/801), amended by [S.I. 2014/1772 (W. 183)](https://www.legislation.gov.uk/wsi/2014/1772). Other amendments are not relevant to these Regulations.
+
+[^f00010]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418).
+
+[^f00011]: Footnote: “Building” includes a part of a building, see definition in section 336(1) of the 1990 Act.
+
+[^key-153ecf70f3a900c552dd2dd9b2fd1864]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/2/1) inserted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/2/2) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^f00012]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). Schedule 13 was amended by: sections 76(1) and 93 of, and paragraph 10 of Schedule 10 and paragraph 13 of Schedule 15 to, the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37); sections 3 and 4 of, and Part 3 of Schedule 1 and paragraph 60 of Schedule 2 to, the Planning (Consequential Provisions) (Scotland) Act [1997 (c. 11)](https://www.legislation.gov.uk/ukpga/1997/11) and by [S.I. 2004/3156 (W. 273)](https://www.legislation.gov.uk/wsi/2004/3156).
+
+[^f00013]: Footnote: Schedule 14 was amended by: section 118(2) of, and paragraph 19(1) and (4) of Schedule 7 to the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5); section 10(1) of, and paragraphs 1 to 9 of Schedule 3 to the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), sections 3 and 4 of, and Part 3 of Schedule 1 and paragraph 60 of Schedule 2 to, the Planning (Consequential Provisions) (Scotland) Act [1997 (c. 11)](https://www.legislation.gov.uk/ukpga/1997/11) and by [S.I. 2004/3156 (W. 273)](https://www.legislation.gov.uk/wsi/2004/3156).
+
+[^f00014]: Footnote: Part 7 was amended by: sections 1 to 11, 32 and 84 of, and paragraph 11 of Schedule 1, paragraphs 22 to 33 of Schedule 7, and Part 1 of Schedule 19 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34); section 20(4)(b) of and paragraph 24(5) of Schedule 6 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19); section 196(4) of, and paragraphs 1, 5 and 6 of Schedule 10 and paragraph 3 of Schedule 11 to, the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29); sections 123 to 126 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); section 63 of, and paragraphs 4, 5 and 6 of Schedule 17 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24); section 58(1) of, and paragraph 6(1) and (3) of Schedule 4 to, the [Mobile Homes (Wales) Act 2013 (2013 anaw 6)](https://www.legislation.gov.uk/anaw/2013/6) and by [S.I. 2004/3156 (W. 273)](https://www.legislation.gov.uk/wsi/2004/3156), [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307) and by [S.I. 2014/2773 (W. 280)](https://www.legislation.gov.uk/wsi/2014/2773). Other amendments are not relevant to these Regulations.
+
+[^key-a69d25c985dcdac44ea77878485181ba]: Textual amendment: [Reg. 2ZA](https://www.legislation.gov.uk/wsi/2015/1522/regulation/2ZA) inserted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/2/3) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-c06e6075e80b3659c7a983a3d38cbc99]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2015/1522/regulation/2A) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2016/62/regulation/2/4)
+
+[^key-9f817de82c1caf5811479b18edf22ac7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1522/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-988bfeb5b268da9e2bb8c88911fa76a9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1522/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-509e87390611d3cbcd884e361aea8e12]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1522/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^f00015]: Footnote: Schedule 2 was amended by section 76(7) of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and [S.I. 1996/528](https://www.legislation.gov.uk/uksi/1996/528), [S.I. 1997/366](https://www.legislation.gov.uk/uksi/1997/366), [S.I. 1999/1661](https://www.legislation.gov.uk/uksi/1999/1661), [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [S.I. 2001/4050](https://www.legislation.gov.uk/uksi/2001/4050), [S.I. 2002/1878 (W. 187)](https://www.legislation.gov.uk/wsi/2002/1878), [S.I. 2003/2155](https://www.legislation.gov.uk/uksi/2003/2155), [S.I. 2004/945](https://www.legislation.gov.uk/uksi/2004/945), [S.I. 2006/124 (W. 17)](https://www.legislation.gov.uk/wsi/2006/124), [S.I. 2006/1386 (W. 136)](https://www.legislation.gov.uk/wsi/2006/1386), [S.I. 2007/952 (W. 83)](https://www.legislation.gov.uk/wsi/2007/952), [S.I. 2008/502 (W. 43)](https://www.legislation.gov.uk/wsi/2008/502), [S.I. 2009/2193 (W. 185)](https://www.legislation.gov.uk/wsi/2009/2193), [S.I. 2011/2085](https://www.legislation.gov.uk/uksi/2011/2085), [S.I. 2012/1346 (W. 167)](https://www.legislation.gov.uk/wsi/2012/1346), [S.I. 2012/2318 (W. 252)](https://www.legislation.gov.uk/wsi/2012/2318), [S.I. 2013/1776 (W. 177)](https://www.legislation.gov.uk/wsi/2013/1776), [S.I. 2014/592 (W. 69)](https://www.legislation.gov.uk/wsi/2014/592) and [S.I. 2014/2692](https://www.legislation.gov.uk/uksi/2014/2692). Other amendments are not relevant to these Regulations.
+
+[^f00016]: Footnote: Article 3 was amended by section 76(7) of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293), [S.I. 1999/1783](https://www.legislation.gov.uk/uksi/1999/1783), [S.I. 2004/3156](https://www.legislation.gov.uk/uksi/2004/3156) and [S.I. 2006/1386](https://www.legislation.gov.uk/uksi/2006/1386). Other amendments are not relevant to these Regulations.
+
+[^f00017]: Footnote: Article 4 was amended by [S.I. 1996/528](https://www.legislation.gov.uk/uksi/1996/528), [S.I. 2006/124 (W. 17)](https://www.legislation.gov.uk/wsi/2006/124), [S.I. 2006/1386 (W. 136)](https://www.legislation.gov.uk/wsi/2006/1386) and [S.I. 2013/1776 (W. 177)](https://www.legislation.gov.uk/wsi/2013/1776). Other amendments are not relevant to these Regulations.
+
+[^f00018]: Footnote: Part 3 was amended by: section 16(1) of the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42); sections 40 and 41 of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) and section 21 of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27). Other amendments are not relevant to these Regulations.
+
+[^key-893cef479382c263c5239cf1cbeb6e63]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1522/regulation/6) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^f00019]: Footnote: [S.I. 1987/764](https://www.legislation.gov.uk/uksi/1987/764). The Schedule was amended by [S.I. 1991/1567](https://www.legislation.gov.uk/uksi/1991/1567), [S.I. 1992/610](https://www.legislation.gov.uk/uksi/1992/610), [S.I. 1994/724](https://www.legislation.gov.uk/uksi/1994/724), [S.I. 1995/297](https://www.legislation.gov.uk/uksi/1995/297) and [S.I. 2006/1386 (W. 136)](https://www.legislation.gov.uk/wsi/2006/1386). Other amendments are not relevant to these Regulations.
+
+[^key-500828dc485057d8a742780c3c16d514]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1522/regulation/7) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-334e2e55c9212f3be6b0e9eec73b3efb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1522/regulation/8) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^f00020]: Footnote: Section 78(2) was amended by section 17(2) of the Planning and Compensation Act [1991 (c. 24)](https://www.legislation.gov.uk/ukpga/1991/24). Other amendments are not relevant to these Regulations.
+
+[^key-557a4f4b47f83412f0d8a1abfd107a3b]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/8/3) substituted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2016/62/regulation/3/2) (with [reg. 6](https://www.legislation.gov.uk/wsi/2016/62/regulation/6))
+
+[^key-a56590f25f90d52e64480720d757d938]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1522/regulation/9) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-b379c6620d599ffaa5699cfcdeea400f]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/9/3) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/wsi/2016/62/regulation/3/3/a)
+
+[^key-66356799eb1bb9080523bcdfc174233a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/9/3) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/wsi/2016/62/regulation/3/3/b)
+
+[^f00021]: Footnote: Section 77 was amended by section 32 of, and paragraphs 1 and 18 of Schedule 7 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and [S.I. 2014/2773 (W. 280)](https://www.legislation.gov.uk/wsi/2014/2773). Other amendments are not relevant to these Regulations.
+
+[^key-452f7d6975a3e1565366f55b0e94f5c5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/1522/regulation/10) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-20673c73e5b395f5ca7f32293b82cb40]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/10/3)[(4)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/10/4) substituted (1.4.2019) by [The Developments of National Significance (Specified Criteria, Fees and Fees for Deemed Applications) (Wales) (Amendment) Regulations 2019 (S.I. 2019/283)](https://www.legislation.gov.uk/wsi/2019/283), [regs. 1](https://www.legislation.gov.uk/wsi/2019/283/regulation/1), [4(2)](https://www.legislation.gov.uk/wsi/2019/283/regulation/4/2)
+
+[^key-8973af89cb2a659a3a2f0da65f2f8772]: Textual amendment: [Reg. 10(3)(b)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/10/3/b) and word omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [9(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/9/2/a)
+
+[^key-9afa695ffc51ce368daf6d8bdc073132]: Textual amendment: [Reg. 10(7A)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/10/7A)[(7B)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/10/7B) inserted (5.5.2017) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2017 (S.I. 2017/528)](https://www.legislation.gov.uk/wsi/2017/528), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/528/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2017/528/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2017/528/regulation/3))
+
+[^key-f5dfa485540f3e97a8d19bc90a8d0e01]: Textual amendment: Word in [reg. 10(9)(a)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/10/9/a) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [9(2)(b)(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/9/2/b/i) (with [reg. 9(3)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/9/3))
+
+[^key-8693fa8617156f87024adc330d820f73]: Textual amendment: [Reg. 10(9)(b)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/10/9/b) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [9(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/9/2/b/ii) (with [reg. 9(3)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/9/3))
+
+[^key-4ad2cfc3172e0cd8ea79a69347bad9e2]: Textual amendment: [Reg. 10(9)(c)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/10/9/c) inserted (1.4.2019) by [The Developments of National Significance (Specified Criteria, Fees and Fees for Deemed Applications) (Wales) (Amendment) Regulations 2019 (S.I. 2019/283)](https://www.legislation.gov.uk/wsi/2019/283), [regs. 1](https://www.legislation.gov.uk/wsi/2019/283/regulation/1), [4(3)](https://www.legislation.gov.uk/wsi/2019/283/regulation/4/3)
+
+[^f00022]: Footnote: Section 174(2) and (3) was substituted by section 6(1) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and section 174(6) was amended by sections 32 and 84 of, and paragraph 22 of Schedule 7 and Part 1 of Schedule 19 to, that Act and by [S.I. 2004/3156 (W. 273)](https://www.legislation.gov.uk/wsi/2004/3156). Other amendments are not relevant to these Regulations.
+
+[^f00023]: Footnote: Section 191 was substituted by section 10(1) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), and amended by section 124(3) of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and section 58(1) of, and paragraph 6(1) and (3) of Schedule 4 to, the [Mobile Homes (Wales) Act 2013 (2013 anaw 6)](https://www.legislation.gov.uk/anaw/2013/6).
+
+[^f00024]: Footnote: Section 177(1) was amended by section 32 of, and paragraphs 8 and 24 of Schedule 7 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
+
+[^f00025]: Footnote: Section 176(1) was substituted by section 32 of, and paragraphs 8 and 23 of Schedule 7 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
+
+[^key-516e468928584622579c298a86481fe3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2015/1522/regulation/11) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-4f044fc881110bbd904e8a7b27f884cf]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/11/3) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/2/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-bed82b298fbd0694aa98d86b495c0ae5]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/11/3/b) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/2/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^f00026]: Footnote: Section 195(1) was amended by section 32 of, and paragraphs 8 and 32 of Schedule 7 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
+
+[^key-b3abb7318910ee5167e23986c0598457]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/11/6) omitted (20.10.2025) by virtue of [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/2/c) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-cb9d76252067e0d713322a5df9e9e0c9]: Textual amendment: Words in [reg. 11(9)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/11/9) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/2/d) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-55a2605f0ddb1e9c4ea45a7e103d5738]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/1522/regulation/12) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^f00027]: Footnote: Regulation 9 was substituted by regulation 2 of [S.I. 2012/791 (W. 106)](https://www.legislation.gov.uk/wsi/2012/791).
+
+[^f00028]: Footnote: See regulation 15 of [S.I. 2008/1848 (W. 177)](https://www.legislation.gov.uk/wsi/2008/1848) in relation to the application of the 1992 Regulations to the display on any site in a voting area of an advertisement relating specifically to a referendum.
+
+[^key-d7e1f5492420c5b332afda0fc7515f2f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/1522/regulation/13) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^f00029]: Footnote: Part 6 was amended by [S.I. 1997/366](https://www.legislation.gov.uk/uksi/1997/366) and [S.I. 2012/2318 (W. 252)](https://www.legislation.gov.uk/wsi/2012/2318). Other amendments are not relevant to these Regulations.
+
+[^f00030]: Footnote: Part 7 was amended by [S.I. 2012/2318 (W. 252)](https://www.legislation.gov.uk/wsi/2012/2318). Other amendments are not relevant to these Regulations.
+
+[^f00031]: Footnote: There are amendments to Part 31 but none is relevant to these Regulations.
+
+[^key-13851a9bdc841f59ce4190645dbd2d3f]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/13/1/a) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/3/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^f00032]: Footnote: Part 24 was substituted in relation to Wales by [S.I. 2002/1878 (W. 187)](https://www.legislation.gov.uk/wsi/2002/1878) and amended by [S.I. 2003/2155](https://www.legislation.gov.uk/uksi/2003/2155) and [S.I. 2004/945](https://www.legislation.gov.uk/uksi/2004/945). Other amendments are not relevant to these Regulations.
+
+[^key-e30779f9dd57c526ba1ce9756098f73d]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/13/1/b) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/3/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-7522bc79b87aac1085fd83c125dd94b6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1522/regulation/14) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-6177130d12738d036ec404fc936b130e]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/14/4) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/4/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-c1e8a64bcf7dde62abbf845dcd303fcc]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/14/5) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/4/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-5e33987d418f01b7a7c327c6a9c1621a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2015/1522/regulation/15) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-7531919ce556db7db6da6ed93c8d89d2]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/15/1) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [3(4)](https://www.legislation.gov.uk/wsi/2016/62/regulation/3/4)
+
+[^key-f1f9143bfd748f96625ec1e1ea9a5f23]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/15/1/a) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/5/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-0b2fb9a7c4561d431982c43c7afe7239]: Textual amendment: Words in [reg. 15(1)(b)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/15/1/b) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/5/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-6b06317c2d4087c77ac031e909c8708f]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/15/2) substituted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [3(5)](https://www.legislation.gov.uk/wsi/2016/62/regulation/3/5)
+
+[^key-c7fc9fe930a1e36f07e723739df854ad]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2015/1522/regulation/16) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-2b6802cdfbd77cf4923006bc8b17a138]: Textual amendment: Words in [reg. 16(1)(a)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/16/1/a) substituted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2016/62/regulation/4/2)
+
+[^key-77a97d3e33ec6edba43e0526520f68c2]: Textual amendment: Words in [reg. 16(1)(a)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/16/1/a) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/6/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-8099c513a87270fa006e07f23475c4da]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/16/1/b) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/6/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-b890cc200271028c890021c0fb8dd751]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/16/5) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [4(3)(i)](https://www.legislation.gov.uk/wsi/2016/62/regulation/4/3/i)
+
+[^key-8796e5f2c5e83b5cf996aa19da23fa74]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/16/5) substituted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [4(3)(ii)](https://www.legislation.gov.uk/wsi/2016/62/regulation/4/3/ii)
+
+[^key-f826dc9ca505af927e535e446c6481f9]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/wsi/2015/1522/regulation/16A) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2016/62/regulation/5/2)
+
+[^key-f1409088150702b0101fcd8cf331e6f5]: Textual amendment: Words in [reg. 16A(3)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/16A/3) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(7)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/7) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-2f92bb8f0f4019b49d0e973362d3317c]: Textual amendment: [Reg. 16B](https://www.legislation.gov.uk/wsi/2015/1522/regulation/16B) inserted (24.8.2020) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2020 (S.I. 2020/745)](https://www.legislation.gov.uk/wsi/2020/745), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/745/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2020/745/regulation/3/2) (with [reg. 4(2)](https://www.legislation.gov.uk/wsi/2020/745/regulation/4/2))
+
+[^key-b814f520f2186e9fe957f42f0f0be72b]: Textual amendment: Words in [reg. 16B(2)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/16B/2) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(8)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/8) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-b32a24b3e739233bdae97aa4851359e7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2015/1522/regulation/17) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-8faf8216263f29a447d19a335ff1653b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^f00033]: Footnote: “Deemed application” is defined in regulation 10(2).
+
+[^key-84dece025c5eb20170505d568e496ff6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-1ad7976d158097271ad95d7636b10c73]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-bd9a2aaa58b310e4171bb6fdd3493381]: Textual amendment: Words in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/3/1) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(a)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-9dbde63bc52ad1f732dc6b56f91a761b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-966ea2f1fb977bd2618be9801bc9b6ae]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/4/2) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(b)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-3dee2cde4d68442943a7b81cbe6de360]: Textual amendment: Words in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/4/3) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(c)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/c) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-aefa09b84be0dcb09c58f2a2a731893c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-33b1ead2fa5e286f79b65fa0804e0b23]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/5) substituted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [4(4)](https://www.legislation.gov.uk/wsi/2016/62/regulation/4/4)
+
+[^f00034]: Footnote: Section 73 was amended by sections 42 and 120 of, and paragraph 1 of Schedule 9 to, the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5). Other amendments are not relevant to these Regulations.
+
+[^key-e9191deada68be46ca316ccf121f156f]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/5) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(d)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/d) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-9c1f48ce85c56b001a57cc048e2e1ab4]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/5A) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [4(5)](https://www.legislation.gov.uk/wsi/2016/62/regulation/4/5)
+
+[^key-e9cfb60d8d5677e915f55c193c6a91b5]: Textual amendment: Words in [Sch. 1 para. 5A(3)(a)](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/5A/3/a) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(e)(i)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/e/i) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-042ee13919d91f69f3dc21819f00251e]: Textual amendment: Words in [Sch. 1 para. 5A(3)(b)](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/5A/3/b) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(e)(ii)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/e/ii) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-908f4eaeb978db7b32f37f89f591732b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/6) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^f00035]: Footnote: Section 73A was inserted by section 32 of, and paragraphs 8 and 16(1) of Schedule 7 to, the Planning and Compensation Act 1991 (c .34).
+
+[^key-cf534f8f58b607da96689c74e2a89d95]: Textual amendment: Words in [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/6/b) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(f)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/f) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-2c805d802058bd9fd284c8ee90cb9299]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/7) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^f00036]: Footnote: Section 91 was amended by sections 21 and 32 of, and paragraphs 1 and 3 of Schedule 1 and paragraphs 8 and 20 of Schedule 7 to the Planning and Compensation Act 1991 (c .34). Other amendments are not relevant to these Regulations.
+
+[^key-1338a180810ced9ee8f84162f4bc3356]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/7) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(g)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/g) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-60a53eb983c5dfd93f01cb66be634185]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/8) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-9a97c70281d7e2c92a0cf250d87ff06a]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/9) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-bd8dc790269f05b3c417471dee054ade]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/10) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-99ce5e531a542b247675e32791104c08]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/11) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-8a031f3f3e3cf36d0a8c9a06f42481eb]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/12) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-1bce61c7db88c3a315cc6cb33f6ba0af]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/13) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-1f16f87f965e38d253f480a15f50d94f]: Textual amendment: Words in [Sch. 1 para. 13(2)(a)](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/13/2/a) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(h)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/h) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-ace8f2f990b7658dc63521a8e81757e5]: Textual amendment: Words in [Sch. 1 para. 13(2)(b)](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/13/2/b) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(i)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/i) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-07ee2c104c49fb418e89d9d0bb545754]: Textual amendment: Words in [Sch. 1 para. 13(2)(b)](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/13/2/b) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(i)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/i)[(ii)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/ii) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-7b1b436af885c2c78377c113f7c19244]: Textual amendment: Words in [Sch. 1 para. 13(2)(b)](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/paragraph/13/2/b) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(9)(i)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/i)[(iii)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/9/iii) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-2d648bc717ed3106df47eaf853ce4b00]: Commencement: Sch. 1 Pt. 2 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-2b78a11511ea185e83530779d077ee3e]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/part/2) table substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/4/2/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-4c374ac670a66ba4481f891bd3c418b7]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/part/2) table substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(10)(a)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/10/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-bd98d868b6387d76b19c1df1246fa4f5]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/part/2) table substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(10)(b)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/10/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-a9302fd5590b62eec334f0197e551d6f]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/part/2) table substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(10)(c)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/10/c) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-149ab7e6b723d163bbd7ebe9dfbe6fe1]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/part/2) table substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-11f44bdb3ebaa1bc90eb12caa150f705]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1522/schedule/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-613afc3eb9681523c1438d358e51379d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1522/schedule/1/part/2) table substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(11)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/11) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-3c312d787e286aea18528d14fb46137a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2015/1522/schedule/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1522/regulation/1/1)
+
+[^key-60cfd4df4b8f9dea663f7ae03cb2c600]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2015/1522/schedule/4) inserted (16.3.2016) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2016 (S.I. 2016/62)](https://www.legislation.gov.uk/wsi/2016/62), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/62/regulation/1/1), [Sch.](https://www.legislation.gov.uk/wsi/2016/62/schedule)
+
+[^key-ca12331db674c21e8f545d991237be0e]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/wsi/2015/1522/schedule/4/paragraph/2) substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(12)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/12) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))
+
+[^key-c924d77596ead4877fe37f2ab59d9520]: Textual amendment: Words in [Sch. 4 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1522/schedule/4/part/2) table substituted (20.10.2025) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1095)](https://www.legislation.gov.uk/wsi/2025/1095), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/1/2), [3(13)](https://www.legislation.gov.uk/wsi/2025/1095/regulation/3/13) (with [reg. 5](https://www.legislation.gov.uk/wsi/2025/1095/regulation/5))

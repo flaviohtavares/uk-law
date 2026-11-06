@@ -1,0 +1,136 @@
+---
+title: The Regulated Services (Special School Residential Services) (Wales) Regulations 2023
+id: wsi/2023/1327
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-12-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2023/1327
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2023/1327/pdfs/wsi_20231327_mi.pdf
+- http://www.legislation.gov.uk/wsi/2023/1327/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Regulated Services (Special School Residential Services) (Wales) Regulations 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 1327 (W. 238)
+
+Social Care, Wales
+
+The Regulated Services (Special School Residential Services) (Wales) Regulations 2023
+
+Made
+
+at 12.05 p.m. on 6 December 2023
+
+Coming into force
+
+31 December 2023
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 2(1)(i)[^f00001], 186(1) and 187(1) of the Regulation and Inspection of Social Care (Wales) Act 2016[^f00002] (“**the Act**”) and having consulted such persons as they think appropriate, as required by section 2(4) of the Act.
+
+A draft of these Regulations was laid before Senedd Cymru under section 187(2)(a) of the Act and has been approved by a resolution of Senedd Cymru.
+
+## 1. Title, coming into force and interpretation
+
+(1) The title of these Regulations is the Regulated Services (Special School Residential Services) (Wales) Regulations 2023.
+
+(2) These Regulations come into force on 31 December 2023.
+
+(3) In these Regulations —
+
+- “**the Act**” (“***y Ddeddf***”) means the Regulation and Inspection of Social Care (Wales) Act 2016.
+
+## 2. Meaning of special school residential service
+
+(1) A “**special school residential service**” (“***gwasanaeth preswyl ysgol arbennig***”) is the provision of accommodation together with care or nursing at a special school in Wales for pupils of the school.
+
+(2) But accommodation together with care or nursing provided at a special school in Wales for pupils is not a special school residential service if it is provided at—
+
+- (a) a place where a care home service is provided,
+- (b) a place where a secure accommodation service is provided, or
+- (c) a hospital.
+
+(3) In this regulation—
+
+- “**additional learning needs**” (“***anghenion dysgu ychwanegol***”) and “**additional learning provision**” (“***darpariaeth ddysgu ychwanegol***”) have the meanings given by section 2 and section 3 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^f00003];
+- “**care**” (“***gofal***”) has the meaning given by section 3(1)(a) of the Act;
+- “**care home service**” (“***gwasanaeth cartref gofal***”) has the meaning given by paragraph 1 of Schedule 1 to the Act;
+- “**hospital**” (“***ysbyty***”) means—
+  - (a) a health service hospital within the meaning given by the National Health Service (Wales) Act 2006[^f00004],
+  - (b) an independent hospital within the meaning given by the Care Standards Act 2000[^f00005], and
+  - (c) an independent clinic within the meaning given by the Care Standards Act 2000;
+- “**local authority**” (“***awdurdod lleol***”) means the council of a county or county borough in Wales;
+- “**nurse**” (“***nyrs***”) means a qualified nurse or qualified midwife registered with the Nursing and Midwifery Council in accordance with article 5 of the Nursing and Midwifery Order 2001[^f00006];
+- “**nursing**” (“***nyrsio***”) means a service which involves either the provision of care or the planning, supervision or delegation of the provision of care, but excludes any service which by its nature and in the circumstances in which it is to be provided, does not need to be provided by a nurse;
+- “**pupil**” (“***disgybl***”) means a person who is receiving education at the special school;
+- “**secure accommodation service**” (“***gwasanaeth llety diogel***”) has the meaning given by paragraph 2 of Schedule 1 to the Act;
+- “**school**” (“**ysgol**”) has the meaning given by section 4 of the Education Act 1996[^f00007];
+- “**special school**” (“**ysgol arbennig**”) means a school, whether or not maintained by a local authority, all or most of whose educational provision is specially organised to make additional learning provision for persons with additional learning needs.
+
+## 3. Prescription of special school residential service as regulated service
+
+A special school residential service is prescribed as a regulated service for the purposes of Part 1 of the Act.
+
+## 4. Transitional provision for existing providers
+
+(1) Section 5 of the Act (requirement to register) does not apply to an existing provider during the transition period in respect of a relevant service.
+
+(2) In this regulation—
+
+- “**existing provider**” (“***darparwr presennol***”) means a person who provides a special school residential service immediately before the date of coming into force of these regulations;
+- “**relevant service**” (“***gwasanaeth perthnasol***”) means a special school residential service provided at a place which is the subject of an application to register under section 6 of the Act made to the Welsh Ministers before 1 July 2024;
+- “**transition period**” (“***cyfnod trosiannol***”) means the period beginning with the date of coming into force of these regulations and ending either—
+  - (a) on the date when the application to the Welsh Ministers is determined; or
+  - (b) in the event that the determination by the Welsh Ministers is subject to an appeal to the tribunal or to a subsequent appeal, on the date on which that or any subsequent appeal is determined;
+- “**the tribunal**” has the same meaning as in section 189 of the Act.
+
+## 5. Transitional provision about the interpretation of “additional learning provision” and “persons with additional learning needs”
+
+In regulation 2(3) the references to “additional learning provision” and “persons with additional learning needs” are to be read as including reference to “special educational provision” and “persons with special educational needs” within the meaning of section 312 of the Education Act 1996 for as long as the saving made by article 4 of Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No 8 and Transitional and Saving Provisions) Order 2022[^f00008] has effect.
+
+Julie Morgan
+
+Deputy Minister for Social Services under the authority of the Minister for Health and Social Services, one of the Welsh Ministers
+
+At 12.05 p.m. on 6 December 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe the provision of accommodation and care or nursing to a pupil of a special school as a “**regulated service**” for the purposes of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (“**the Act**”) and will require a person providing such a service to register under the Act.
+
+For the purposes of these Regulations, special schools are schools, whether or not maintained by a local authority, which provide additional learning provision for pupils with additional learning needs.
+
+This service is referred to as a Special School Residential Service.
+
+Regulation 4 is a transitional provision which suspends the effect of section 5 of the Act for existing providers of any special school residential services which are included in an application to register before 1 July 2024.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Department of Health and Social Services, Welsh Government, Cathays Park, CF10 3NQ and is published on www.gov.wales.
+
+## Annotations
+
+[^f00001]: Footnote: Section 2(1)(i) refers to a service which is “prescribed”. “Prescribed” is defined in section 189 of the Regulation and Inspection of Social Care (Wales) Act 2016 to mean “prescribed by regulations made by Welsh Ministers”.
+
+[^f00002]: Footnote: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).
+
+[^f00003]: Footnote: [2018 anaw 2](https://www.legislation.gov.uk/anaw/2018/2).
+
+[^f00004]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^f00005]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^f00006]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253).
+
+[^f00007]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^f00008]: Footnote: [S.I. 2022/891 (W. 188)](https://www.legislation.gov.uk/wsi/2022/891). Article 4 provides for Chapter 1 of Part 4 of the Education Act 1996 to continue to have effect for a child who has a statement of special educational needs under that Chapter in spite of its repeal. Pursuant to article 10, the period in question will come to an end at the end of the 2023-2024 school year.

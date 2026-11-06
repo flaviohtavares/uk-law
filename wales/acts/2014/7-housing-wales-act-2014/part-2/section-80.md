@@ -1,0 +1,61 @@
+---
+title: Housing (Wales) Act 2014, section 80
+act: Housing (Wales) Act 2014
+section: '80'
+status: revised-with-pending-changes
+text_date: '2026-06-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2014/7/section/80
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing (Wales) Act 2014, section 80
+
+> **Warning: changes not yet applied to this text (144).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/anaw/2014/7
+>
+> Extent: England, Wales.
+
+## 80. Referral of case to another local housing authority[^key-facc4731136bed589e0b93d16b9b9b55][^key-7177c31abd60cc373a2114a7dfae8b70]
+
+*Extent: E+W*
+
+(1) Subsection (2) applies where—
+
+- (a) a local housing authority considers that the conditions for referral to another local housing authority (whether in Wales or England) are met (see subsection (3)), and
+- (b) the local housing authority would, if the case is not referred, be subject to the duty in section 73 in respect of an applicant who is in priority need of accommodation and unintentionally homeless (duty to help to secure accommodation for homeless applicants).
+
+(2) The local housing authority may notify the other authority of its opinion that the conditions for referral are met in respect of the applicant.
+
+(3) The conditions for referral of the case to another local housing authority (whether in Wales or England) are met if—
+
+- (a) neither the applicant nor any person who might reasonably be expected to reside with the applicant has a local connection with the area of the authority to which the application was made,
+- (b) the applicant or a person who might reasonably be expected to reside with the applicant has a local connection with the area of that other authority, and
+- (c) neither the applicant nor any person who might reasonably be expected to reside with the applicant will run the risk of domestic abuse in that other area.
+
+(4) But the conditions for referral mentioned in subsection (3) are not met if—
+
+- (a) the applicant or any person who might reasonably be expected to reside with the applicant has suffered abuse (other than domestic abuse) in the area of the other authority, and
+- (b) it is probable that the return to that area of the victim will lead to further abuse of a similar kind against him or her.
+
+(5) The question of whether the conditions for referral of a case are satisfied is to be decided—
+
+- (a) by agreement between the notifying authority and the notified authority, or
+- (b) in default of agreement, in accordance with such arrangements—
+  - (i) as the Welsh Ministers may direct by order, where both authorities are in Wales, or
+  - (ii) as the Welsh Ministers and the Secretary of State may jointly direct by order, where the notifying authority is in Wales and the notified authority is in England.
+
+(6) An order under subsection (5) may direct that the arrangements are to be—
+
+- (a) those agreed by any relevant authorities or associations of relevant authorities, or
+- (b) in default of such agreement, such arrangements as appear to the Welsh Ministers or, in the case of an order under subsection (5)(b)(ii), to the Welsh Ministers and the Secretary of State to be suitable, after consultation with such associations representing relevant authorities, and such other persons, as they think appropriate.
+
+(7) In subsection (6), “**relevant authority**” means a local housing authority or a social services authority; and it includes, in so far as that subsection applies to arrangements under subsection (5)(b)(ii), such authorities in Wales and England.
+
+(8) The Welsh Ministers may by order specify other circumstances in which the conditions are or are not met for referral of the case to another local housing authority.
+
+## Annotations
+
+[^key-facc4731136bed589e0b93d16b9b9b55]: Commencement: [S. 80](https://www.legislation.gov.uk/anaw/2014/7/section/80) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+
+[^key-7177c31abd60cc373a2114a7dfae8b70]: Commencement: [S. 80](https://www.legislation.gov.uk/anaw/2014/7/section/80) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 31](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/31)

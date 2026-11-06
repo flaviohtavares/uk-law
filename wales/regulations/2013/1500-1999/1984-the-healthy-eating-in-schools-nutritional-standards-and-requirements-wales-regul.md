@@ -1,0 +1,571 @@
+---
+title: The Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013
+id: wsi/2013/1984
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2013-08-08'
+text_date: '2019-12-02'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2013/1984
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2013/1984/pdfs/wsi_20131984_mi.pdf
+- http://www.legislation.gov.uk/wsi/2013/1984/data.pdf
+pending_changes: 57
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013
+
+> **Warning: changes not yet applied to this text (57).** Text as at 2019-12-02. See https://www.legislation.gov.uk/changes/affected/wsi/2013/1984
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 1984 (W. 194)
+
+Education, Wales
+
+The Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013
+
+Made
+
+8 August 2013
+
+Laid before the National Assembly for Wales
+
+9 August 2013
+
+Coming into force
+
+2 September 2013
+
+The Welsh Ministers, in exercise of the powers conferred on them by section 4(1), (2), (3), (4) and (8) and section 10 of the Healthy Eating in Schools (Wales) Measure 2009[^f00001] and having ascertained the views of pupils and consulted such other persons as they consider appropriate in accordance with section 4(11) of that Measure make the following Regulations.
+
+## 1. Title, commencement and application[^key-68ca58b23ba422e27be06af70be4f0a8]
+
+(1) The title of these Regulations is the Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013 and they come into force on 2 September 2013.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation[^key-79f294006206abb906a1b98caa6acc8b]
+
+(1) In these Regulations—
+
+- “the 1996 Act” (“*Deddf 1996*”) means the Education Act 1996[^f00002];
+- “boarding school” (“*ysgol fyrddio*”) means a maintained school which has boarding pupils, whether or not it also has day pupils;
+- “confectionery” (“*melysion*”) means—
+  - (a) chewing gum including sugar free chewing gum;
+  - (b) cereal bars (whether chewy or crunchy);
+  - (c) processed or extruded fruit bars;
+  - (d) other non-chocolate confectionery (whether or not containing sugar) including mints;
+  - (e) frostings or icings or decorative toppings made from icing sugar;
+  - (f) chocolate in any form (except hot chocolate);
+  - (g) any product containing chocolate or wholly or partially coated with chocolate;
+  - (h) any chocolate flavoured substance (except cocoa powder used in cakes, biscuits and puddings or in a drink listed in Table D to Schedule 5);
+- “evening meal” (“*pryd gyda’r hwyr*”) in relation to a maintained boarding school, means food or drink provided on or after 6pm;
+- “fruit juice” (“*sudd ffrwythau*”) means—
+  - (a) the products described by that name; or
+  - (b) the product described by the name of “fruit juice from concentrate” in Schedule 3 to the Fruit Juices and Fruit Nectars (Wales) Regulations 2013[^key-00e01b907133880645400b86ff2aa575];
+- “junior pupil” (“*disgybl iau*”) has the meaning given to it by section 3(2) of the 1996 Act;
+- “maintained nursery school” (“*ysgol feithrin a gynhelir*”) means a nursery school or a nursery unit in a primary school maintained by a local authority;
+- “maintained school” (“*ysgol a gynhelir*”) has the meaning given to it by section 11 of the Healthy Eating in Schools (Wales) Measure 2009;
+- “milk” (“*llaeth*”) means whole milk, semi-skimmed milk or skimmed milk;
+- “[^key-19fdaffa5e8bef3fce7efbdbc159f2cf]**meat**” (“***cig***”) means the skeletal muscles of mammalian and bird species recognised as fit for human consumption with naturally included or adherent tissue but does not include mechanically separated meat (which has the meaning given in point 1.14 of Annex I to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin);
+- [^key-6ca38af414f7c3f3f37890d3a387ea50]...
+- “Meat Products Regulations” ([^key-5f1175917ba8cbc4335814a390319080]*“Rheoliadau Cynhyrchion Cig*”) means the Products Containing Meat etc. (Wales) Regulations 2014;
+- “medically prescribed dietary requirements” (“*anghenion deietegol sydd wedi eu rhagnodi’n feddygol*”) means dietary requirements prescribed by—
+  - (a) a registered medical practitioner; or
+  - (b) a dietitian who is registered in Part 4 of the Register maintained under article 5 of the Health Professions Order 2001[^key-bfbe060c5bfc2ee1cf564dd6b8134a71];
+- “oily fish” (“*pysgod olewog*”) includes anchovies, herring, kipper, mackerel, pilchards, salmon, sardines, trout, tuna (but not canned tuna) and whitebait but excludes fortified fish products or other foods fortified with omega 3;
+- “portion” (“*dogn*”) means an amount of a particular food provided to an individual as part of a meal;
+- “primary education” (“*addysg gynradd*”) has the meaning given to it by section 2(1) of the 1996 Act;
+- “primary school” (“ysgol gynradd”) means a school that provides primary education (whether or not it also provides other kinds of education);
+- “product containing meat” (“[^key-ce18b364c19aa92c72f07feb69c581d0]*cynnyrch sy’n cynnwys cig*”) has the same meaning as “regulated product” (“*cynnyrch rheoleiddiedig*”) in regulation 2 of the Products Containing Meat etc. (Wales) Regulations 2014;
+- “provide” (“*darparu*”) includes arranging provision;
+- “relevant European Union Regulations” (“*Rheoliadau Undeb Ewropeaidd perthnasol*”) means—
+  - (a) Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333)[^f00007] of the European Parliament and the Council of the European Union on food additives as amended from time to time[^key-bf45a326ee8e34441820fc347916f252];
+  - (b) Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334)[^f00008] of the European Parliament and the Council of the European Union on flavourings and certain food ingredients with flavouring properties for use in and on foods as amended from time to time[^key-d1a8fea248aac4ccce8bdb6027971d2f];
+- “sandwiches” (“*brechdanau*”) includes filled rolls and similar products which are ready to eat without further preparation;
+- “savoury snacks” (“*byrbrydau sawrus*”) means —
+  - (a) pre-packaged items (excluding confectionery, sandwiches, cakes, biscuits, nuts and seeds) which are ready to eat without further preparation; and
+  - (b) consist of or include as a basic ingredient—
+    - (i) potato or root vegetables (such as crisps);
+    - (ii) cereals (such as corn puff or corn snacks);
+    - (iii) tortilla chips;
+    - (iv) pretzels;
+    - (v) popcorn (whether plain, sweetened or salted);
+    - (vi) prawn crackers;
+    - (vii) rice cakes (whether plain or flavoured);
+    - (viii) Bombay mix;
+- “school breakfast” (“*brecwast ysgol*”) means food provided for consumption by pupils or other persons on school premises before the start of the morning school session, or in the case of a community or foundation special school before or at the start of the morning school session;
+- “school day” (“diwrnod ysgol”) in relation to a maintained school, means any day on which at that school there is at least one school session which takes place between 8.30am and 6pm;
+- “school lunch” (“*cinio ysgol*”) means food provided for consumption by pupils or other persons as their midday meal on a school day, whether involving a set meal or the selection of items by them;
+- “school premises” (“*mangre ysgol*”) means the premises of the maintained school;
+- “secondary school” (“ysgol uwchradd”) means a school that provides secondary education (whether or not it also provides other kinds of education);
+
+  secondary education” (“*addysg uwchradd*”) has the meaning given to it by section 2(2) of the 1996 Act;
+- “senior pupil” (“*disgybl hŷn*”) has the meaning given to it by section 3(2) of the 1996 Act;
+- “vegetable juice” (“*sudd llysiau*”) means juice extracted from vegetables or tomatoes with no other substance added, except that any water extracted during concentration may be restored;
+- “week” (“*wythnos*”) means the five days from Monday to Friday.
+
+(2) Nothing in these Regulations applies to food or drink provided—
+
+- (a) at any school social event or school recreational event to mark any religious or cultural occasion;
+- (b) at fund-raising events;
+- (c) as rewards for achievement, good behaviour or effort;
+- (d) for use in teaching food preparation and cookery skills provided that any food so prepared is not provided to pupils as part of a school breakfast or school lunch;
+- (e) by parents, pupils or other persons for their own consumption on school premises;
+- (f) as part of any medically prescribed dietary requirements.
+
+## 3. Revocations[^key-d20ca9b8c5a1aa261ed023e83a2e3630]
+
+The Education (Nutritional Standards for School Lunches) (Wales) Regulations 2001[^f00009] are revoked.
+
+## 4. Breakfast in maintained schools[^key-4d106dc834885dded1d1ecd843ede959]
+
+(1) A local authority or a governing body of a maintained school must comply with the requirements in Schedule 1 where it provides school breakfast on a school day to—
+
+- (a) registered pupils of a maintained school whether on school premises or a place other than school premises;
+- (b) any other person on the school premises.
+
+(2) Where the local authority or governing body provides school breakfast in accordance with paragraph (1), it must give the pupil or other person the option to choose one food item from each of the food categories listed in Table A in Schedule 1.
+
+## 5. Lunch in maintained nursery schools[^key-39cb913b62f14fe773bcfabca4548f3e]
+
+(1) Subject to paragraph (2), a local authority or a governing body of a maintained school must comply with the requirements in Schedule 2 where it provides school lunch on a school day to—
+
+- (a) registered pupils of a maintained nursery school whether on school premises or a place other than school premises;
+- (b) any other person on the premises of a maintained nursery school.
+
+(2) The requirements in Schedule 2 do not apply where a local authority or a governing body of a maintained school has complied with the requirements in Schedule 3 and the nutritional standards in Schedule 4 in relation to school lunches provided to persons in paragraph (1).
+
+## 6. Lunch in maintained primary and secondary schools[^key-208bdb8f7882d0df9ec4cfb6538d211e]
+
+(1) This regulation applies where a local authority or a governing body of a maintained school provides school lunch on a school day to—
+
+- (a) registered pupils at a maintained school whether on school premises or at a place other than school premises; and
+- (b) any other person on the school premises.
+
+(2) The local authority or governing body must ensure that school lunch provided to a person specified in paragraph (1) complies with the requirements in Schedule 3 and the nutritional standards in Schedule 4.
+
+(3) The local authority or governing body must ensure that school lunch provided to pupils on a school trip on a school day complies with the requirements in Schedule 3 and the nutritional standards in Schedule 4.
+
+(4) Where a local authority or a governing body provides both primary and secondary education at the school, the school lunch provided to—
+
+- (a) a junior pupil must comply with the requirements for primary schools in Schedule 3 and the nutritional standards for primary schools in Schedule 4; and
+- (b) a senior pupil must comply with the requirements for secondary schools in Schedule 3 and the nutritional standards for secondary schools in Schedule 4.
+
+(5) Where a school is open for fewer than five days in any week the requirements in Schedule 3 which refer to the number of times food must or must not be provided by reference to a week apply as if the school were open for the whole of that week.
+
+## 7. Drinks in maintained schools[^key-0e0add537c748a4888384b5f8fd44e17]
+
+(1) This regulation applies to a drink provided to—
+
+- (a) registered pupils of a maintained school whether on school premises or at a place other than school premises; and
+- (b) any other person on the school premises.
+
+(2) The local authority or governing body must ensure that a drink provided to a person in paragraph (1), complies with the requirements in Schedule 5.
+
+(3) Where a local authority or a governing body provides both primary and secondary education at the school, a drink provided to—
+
+- (a) a junior pupil must comply with the requirements for primary schools in Schedule 5; and
+- (b) a senior pupil must comply with the requirements for secondary schools in Schedule 5.
+
+## 8. Provision of other food or drink in maintained schools[^key-a498796c0b65f23f415cd91443030e44]
+
+(1) A local authority or a governing body of a maintained school must comply with the requirements in Schedule 6 if it provides food on a school day that does not form part of school breakfast or school lunch to persons specified in paragraph (3).
+
+(2) A local authority or a governing body of a maintained school must comply with the requirements in Schedule 5 if it provides drink on a school day that does not form part of school breakfast or school lunch to persons specified in paragraph (3).
+
+(3) For the purposes of this regulation, the reference to persons in paragraphs (1) and (2) means—
+
+- (a) pupils who are registered at a maintained school and who are—
+  - (i) on school premises before 6pm;
+  - (ii) at a place other than school premises before 6pm;
+- (b) any other person on the school premises before 6pm.
+
+(4) The requirements set out in Schedule 6 do not apply in relation to confectionery, snacks, cakes or biscuits provided to pupils at a boarding school as part of an evening meal.
+
+Carwyn Jones
+
+First Minister of Wales
+
+8 August 2013
+
+## SCHEDULE 1 — BREAKFAST IN MAINTAINED SCHOOLS
+
+Regulation 4
+
+**1.**[^key-65bdf77cff995a5174f9bb2d2b93f8b3] The requirements in this Schedule apply where school breakfast is provided in maintained schools.
+
+**2.**[^key-fec1d4c3f6b3cf5f9b53798080d6c46b] Only foods from the categories in Table A must be available on each school day.
+
+**3.**[^key-4de14ef706060db185ca895e07775fb1] Milk based drinks provided to pupils in maintained schools or persons on the premises of maintained schools must comply with the requirements in Schedule 5.
+
+Table A
+
+| ***Food Categories*** |
+| --- |
+| Milk based drinks or yoghurts |
+| Cereals – not coated or flavoured either alone or in combination with sugar or chocolate or cocoa powder. |
+| Fruit and vegetables |
+| Breads and toppings |
+
+## SCHEDULE 2 — LUNCH IN MAINTAINED NURSERY SCHOOLS
+
+Regulation 5
+
+**1.**[^key-40f37330619aa68e949fab49d2619972] On each school day food from each of the food categories in Table B must form part of the school lunch provided in maintained nursery schools.
+
+**2.**[^key-2d42ce964f81ca448bcb4fd709aa0d23] Milk provided to pupils in maintained nursery schools or persons on the premises of maintained nursery schools must comply with the requirements in Schedule 5.
+
+Table B
+
+| ***Food Category*** | ***Foods included in category*** |
+| --- | --- |
+| Fruit and vegetables | Fruit and vegetables in all forms whether fresh, frozen, dried or in the form of juice but excluding fruit canned in syrup. |
+| Meat, fish and other non dairy sources of protein | Meat and fish in all forms whether fresh, frozen, canned or dried including meat or fish products, eggs, nuts, pulses and beans, other than green beans. |
+| Starchy foods | Bread, chapatis, pasta, noodles, rice, potatoes, sweet potatoes, yams, millet and cornmeal. |
+| Dairy foods and milk | Milk, yoghurt (including frozen yoghurt and drinking yoghurt), fromage frais, custard and cheese, but excluding butter and cream. |
+
+## SCHEDULE 3 — LUNCH IN MAINTAINED PRIMARY AND SECONDARY SCHOOLS
+
+Regulation 6
+
+**1.**[^key-7a56e00ca5f5042a30a43cf114fa11dc] The requirements in this Schedule apply to school lunch provided in primary and secondary schools unless otherwise stated.
+
+### 2. Vegetables[^key-8d66c1810beb7a56b7b69ae3921ebbad]
+
+(1) At least one portion of vegetables or salad must be provided each day in primary schools.
+
+(2) At least two portions of vegetables or salad must be provided each day in secondary schools.
+
+(3) For the purposes of sub-paragraphs (1) and (2), “vegetables” excludes potatoes.
+
+### 3. Fruit[^key-84ab4945e5949ad1b6f02e1ad6b94a64]
+
+(1) At least one portion of fruit, fruit salad or fruit juice must be provided each day.
+
+(2) A fruit based dessert must be provided at least twice each week.
+
+(3) A portion of a fruit based dessert must contain fruit content—
+
+- (a) in primary schools, of at least 40 grams measured by the weight of the raw ingredients;
+- (b) in secondary schools, of at least 60 grams measured by the weight of the raw ingredients.
+
+### 4. Fish[^key-36b32aab0269f6b7e5e1eba5ea39bf0a]
+
+(1) Subject to sub-paragraph (2), a portion of fish must be provided—
+
+- (a) at least once each week in primary schools; and
+- (b) at least twice each week in secondary schools.
+
+(2) A portion of oily fish must be provided at least twice during any four week period.
+
+### 5. Potato and potato products[^key-256b7b46fa7b68e6c5fb66ad21dea463]
+
+(1) A portion of potato or potato product which is cooked in fat or oil must not be provided more than twice each week.
+
+(2) Where a potato or potato product under paragraph (1) is provided in secondary schools, an alternative starchy food that is not cooked in fat or oil must also be provided.
+
+### 6. Deep-fried or flash-fried food[^key-2d178c726773cf6f6314b12b0200aba1]
+
+(1) A portion of food, including prepared, coated, battered and breaded food products, deep-fried or flash-fried on school premises or during the manufacturing process must not be provided more than twice each week.
+
+(2) Food in sub-paragraph (1) does not include potato and potato products.
+
+### 7. Meat[^key-f46c580d687fe1fa9048fcb967a3b23c]
+
+Meat must be provided—
+
+- (a) in primary schools on at least two days each week;
+- (b) in secondary schools on at least three days each week.
+
+### 8. Meat Products[^key-4f0dddfd338bdbb34380e872cb497da7]
+
+(1) No more than two products containing meat[^key-e6263268ac9dadcba4bc6749bc88778e] are to be provided each week.
+
+(2) A product containing meat[^key-2f53f4de3816b44d89c1468aa8cdfb30] provided under paragraph (1) must not be served more than twice each week.
+
+(3) For the purposes of paragraphs (1) and (2), product containing meat[^key-1c3f8181ae0d138a28a2029a7cd5eaa3] does not include luncheon meat.
+
+(4) Products containing meat[^key-7e740fa24b5f18fc2c24d438d854a8a8] including luncheon meat must meet the minimum meat content levels set out in Schedule 1[^key-0902602b0feb469e9b66fafa8a56e560] to the Meat Product Regulations.
+
+(5) No product containing meat[^key-5fd89b188dffb9134ab13ffe025577b8] must be provided if it contains any carcase part listed in regulation 5(2)[^key-ed326d6d77df3db858ac479c232720f1] of the Meat Products Regulations, subject to the exception in regulation 5(3)[^key-643f0245a0569674aeae7f199357d655] of those Regulations.
+
+(6) No economy burgers as defined in Schedule 1[^key-3d45c85007f367eb248fda42453f2958] to the Meat Products Regulations must be provided.
+
+(7) Any shaped meat product consisting of a mixture of meat and other ingredients which is not included in the reserved descriptions specified in Schedule 1[^key-6785fdc140ab5875d43e7c6e7fce3e87] to the Meat Product Regulations may only be provided if it complies with the meat content requirements for “Burger” in that Schedule.
+
+### 9. Confectionary and savoury snacks[^key-ba63f66ce40fbfcaadfcb2ddffdd1af7]
+
+No confectionery or savoury snacks may be provided.
+
+### 10. Cakes and biscuits[^key-56d82e1674dc6f4605739e8a291b2862]
+
+Cakes and biscuits must not contain any confectionery.
+
+### 11. Salt and condiments[^key-5ee40757b8e148d82698e5b9e06d2f5a]
+
+(1) No salt must be available to pupils to add to food after the cooking process is complete.
+
+(2) The portion of any condiment made available to pupils must not exceed 10ml.
+
+## SCHEDULE 4 — NUTRITIONAL STANDARDS FOR LUNCH IN MAINTAINED PRIMARY AND SECONDARY SCHOOLS
+
+Regulation 6
+
+**1.**[^key-b739303d9a55bb3e3a0ca857740fc481] In this Schedule—
+
+- “average school lunch” (“*cinio ysgol cyfartalog*”) has the meaning given by paragraph 2 (1);
+- “group of schools” (“*grŵp o ysgolion*”) means two or more schools providing education for the same age range of pupils and which, where the schools provide secondary education, are either all co-educational, all boys’ single sex or all girls’ single sex;
+- “non-milk extrinsic sugars” (“*siwgrau anghynhenid nad ydynt yn deillio o laeth*”) means any sugar which is not contained within cell walls, except lactose in milk and milk products; and
+- “nutrient” (“*maethyn*”) means any substance listed in Table C.
+
+**2.**[^key-f3a323ecb7482487c61c0d73a3003240] (1) Subject to sub-paragraph (2), the average school lunch for a school or a group of schools must be calculated in accordance with the following formula:—
+
+[formula: see source](https://www.legislation.gov.uk/wsi/2013/1984)
+
+Where—
+
+- “A” is the total amount of energy and nutrient content provided in all school lunches served in the course of a school week;
+- “B” is the estimated number of school lunches served to pupils during that school week; and
+- “C” is the number of days in the school week.
+
+(2) A group of schools must use the formula in sub-paragraph (1) where school lunch provided at each school in the group is the same.
+
+**3.**[^key-86250c384af44dfa67c4c5d32e25a5fd] The average school lunch must provide—
+
+- (a) an amount of energy which must be either the figure shown in Table C or within 5% of that figure;
+- (b) no more than the maximum amounts of fat, saturated fat, non-milk extrinsic sugars and sodium shown in Table C; and
+- (c) at least the minimum amount of all other nutrients shown in Table C.
+
+  TABLE C
+
+  <table>
+  <thead>
+  <tr><th><em><strong>Nutrient</strong></em></th><th><em><strong>Minimum or Maximum</strong></em></th><th><em><strong>School lunch provided in primary schools</strong></em></th><th colspan="3"><em><strong>School lunch provided in secondary schools</strong></em></th></tr>
+  <tr><td></td><td></td><td></td><th><em><strong>Co-educational</strong></em></th><th><em><strong>Single Sex Girls’</strong></em></th><th><em><strong>Single Sex Boys’</strong></em></th></tr>
+  </thead>
+  <tbody>
+  <tr><td>Energy (kilo calories)</td><td>+/- 5%</td><td>530</td><td>646</td><td>577</td><td>714</td></tr>
+  <tr><td>Total fat (grams)</td><td>Max</td><td>20.6</td><td>25.1</td><td>22.5</td><td>27.8</td></tr>
+  <tr><td>Saturated fat (grams)</td><td>Max</td><td>6.5</td><td>7.9</td><td>7.1</td><td>8.7</td></tr>
+  <tr><td>Total carbohydrate (grams)</td><td>Min</td><td>70.6</td><td>86.1</td><td>77</td><td>95.2</td></tr>
+  <tr><td>Non-milk extrinsic sugars (grams)</td><td>Max</td><td>15.5</td><td>18.9</td><td>16.9</td><td>20.9</td></tr>
+  <tr><td>Fibre (grams)</td><td>Min</td><td>4.2</td><td>5.2</td><td>4.6</td><td>5.7</td></tr>
+  <tr><td>Protein (grams)</td><td>Min</td><td>7.5</td><td>13.3</td><td>12.7</td><td>13.8</td></tr>
+  <tr><td>Iron (milligrams)</td><td>Min</td><td>3</td><td>4.4</td><td>4.4</td><td>3.4</td></tr>
+  <tr><td>Zinc (milligrams)</td><td>Min</td><td>2.5</td><td>2.8</td><td>2.7</td><td>2.8</td></tr>
+  <tr><td>Calcium (milligrams)</td><td>Min</td><td>193</td><td>300</td><td>240</td><td>300</td></tr>
+  <tr><td>Vitamin A (micrograms)</td><td>Min</td><td>175</td><td>245</td><td>210</td><td>245</td></tr>
+  <tr><td>Vitamin C (milligrams)</td><td>Min</td><td>10.5</td><td>14</td><td>14</td><td>14</td></tr>
+  <tr><td>Folate (micrograms)</td><td>Min</td><td>53</td><td>70</td><td>70</td><td>70</td></tr>
+  <tr><td>Sodium (milligrams)</td><td>Max</td><td>499</td><td>714</td><td>714</td><td>714</td></tr>
+  </tbody>
+  </table>
+
+## SCHEDULE 5 — DRINKS PROVIDED IN MAINTAINED SCHOOLS[^key-f97b5156f11aecbd26a0a6df814ce78d]
+
+Regulation 7
+
+Table D
+
+The requirements in Table D apply to drinks provided in maintained primary and secondary schools and maintained nursery schools.
+
+<table>
+<thead>
+<tr><th><em><strong>(1) Product</strong></em></th><th><em><strong>(2) Nursery schools</strong></em></th><th><em><strong>(3) Primary schools</strong></em></th><th><em><strong>(4) Secondary schools</strong></em></th><th><em><strong>(5) Mandatory Requirement for product</strong></em></th><th><em><strong>(6) Discretionary requirement for product</strong></em></th></tr>
+<tr><th colspan="6"><em><strong>ingle drinks</strong></em></th></tr>
+</thead>
+<tbody>
+<tr><td>Plain water (still or carbonated)</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>No added substances.</td><td>None.</td></tr>
+<tr><td>Plain milk</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>No added substances.<br>Milk provided in nursery schools must be whole milk or semi-skimmed milk.<br>Milk provided in primary and secondary schools must be semi-skimmed milk or skimmed milk.</td><td>None.</td></tr>
+<tr><td>Fruit juice or vegetable juice (still or carbonated)</td><td>Drink permitted only as part of school breakfast or school lunch and if it satisfies the requirement in column 5.</td><td>Drink permitted only as part of school breakfast or school lunch and if it satisfies the requirement in column 5.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>No added substances other than a substance listed in column 6.</td><td>Sugar may be added to fruit juice, other than any prepared from grapes or pears, but only for the purpose of regulating acidic taste in an amount (expressed as dry matter) not exceeding 15 grams per litre of juice.</td></tr>
+<tr><td>Plain soya, plain rice or plain oat drinks</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>No added substances other than a substance in column 6.</td><td>May contain added calcium.</td></tr>
+<tr><th colspan="6">Combination drinks</th></tr>
+<tr><td>Fruit juice or vegetable juice combined with plain water (still or carbonated)</td><td>Drink permitted only as part of school breakfast or school lunch and if it satisfies the requirement in column 5.</td><td>Drink permitted only as part of school breakfast or school lunch and if it satisfies the requirement in column 5.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Must contain a minimum of 50% fruit juice or vegetable juice.<br>No added substances other than a substance in column 6.</td><td>May contain colours, flavourings and other additives such as preservatives, antioxidants and stabilisers in accordance with the relevant European Union Regulations defined in regulation 2 of these Regulations.</td></tr>
+<tr><td>Fruit juice or vegetable juice combined with plain milk or plain yoghurt.</td><td>Drink not permitted.</td><td>Drink not permitted.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Milk must be semi-skimmed or skimmed.<br>Milk or yoghurt must be at least 50% milk by volume.<br>No added substances other than a substance in column 6.</td><td>May contain colours, flavourings and other additives such as preservatives, antioxidants and stabilisers in accordance with the relevant European Union Regulations defined in regulation 2 of these Regulations.<br>May have less than 5% added sugar or honey added.<br>May contain vitamins and minerals.</td></tr>
+<tr><td>Fruit juice or vegetable juice combined with plain soya, plain rice or plain oat drinks.</td><td>Drink not permitted.</td><td>Drink not permitted.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Must contain a minimum of 50% soya, rice or oat drink by volume.<br>No added substances other than a substance in column 6.</td><td>May contain colours, flavourings and other additives such as preservatives, antioxidants and stabilisers in accordance with the relevant European Union Regulations defined in regulation 2 of these Regulations.<br>May have less than 5% added sugars or honey added.<br>May contain vitamins and minerals.</td></tr>
+<tr><td>Flavoured milk, yoghurt or soya, rice or oat drinks.</td><td>Drink not permitted.</td><td>Drink not permitted.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Milk must be semi-skimmed or skimmed.<br>Milk or yoghurt or soya, rice or oat drink must be at least 90% by volume.<br>No added substances other than a substance in column 6.</td><td>May contain colours, flavourings and other additives such as preservatives, antioxidants and stabilisers in accordance with the relevant European Union Regulations defined in regulation 2 of these Regulations.<br>May have less than 5% added sugars or honey added.<br>May contain vitamins and minerals.</td></tr>
+<tr><th colspan="6">Blended drinks</th></tr>
+<tr><td>A drink made singly or in combination with a blend or puree of fruit, vegetables, fruit juice or vegetable juice.</td><td>Drink permitted only as part of school lunch and if it satisfies the requirement in column 5.</td><td>Drink permitted only as part of school lunch and if it satisfies the requirement in column 5.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>No added substances other than a substance in column 6.</td><td>A blended drink may contain colours, flavourings and other additives such as preservatives, antioxidants and stabilisers in accordance with the relevant European Union Regulations defined in regulation 2 of these Regulations.</td></tr>
+<tr><th colspan="6">Hot drinks</th></tr>
+<tr><td>Tea or coffee</td><td>Drink not permitted.</td><td>Drink not permitted.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>No added substances other than a substance in column 6.</td><td>May contain semi-skimmed or skimmed milk.</td></tr>
+<tr><td>Hot chocolate</td><td>Drink not permitted.</td><td>Drink not permitted.</td><td>Drink permitted if it satisfies the requirement in column 5.</td><td>Must be made with plain water, or plain milk (semi-skimmed or skimmed) or plain soya, plain rice or plain oat drink.<br>Drink must not exceed 250ml in volume.<br>No added substances other than a substance in column 6.</td><td>May contain vitamins and minerals.<br>May have less than 5% added sugars or honey added.</td></tr>
+</tbody>
+</table>
+
+[^f00010]
+
+## SCHEDULE 6 — OTHER FOOD PROVIDED IN MAINTAINED SCHOOLS[^key-0717e40bf91296477a0afd77e47e3c24]
+
+Regulation 8
+
+Table E
+
+The requirements in Table E apply to food provided otherwise than as school breakfast or school lunch.
+
+| ***Product*** | ***Nursery schools*** | ***Primary schools*** | ***Secondary schools*** |
+| --- | --- | --- | --- |
+| Fruit and Vegetables | Product must be available in any place on school premises where food is provided. | Product must be available in any place on school premises where food is provided. | Product must be available in any place on school premises where food is provided. |
+| Salt | Product not permitted. | Product not permitted. | Product not permitted. |
+| Condiments | Product not permitted. | The portion of any condiment made available must not exceed 10ml. | The portion of any condiment made available must not exceed 10ml. |
+| Confectionary | Product not permitted. | Product not permitted. | Product not permitted. |
+| Savoury snacks | Product not permitted. | Product not permitted. | Product not permitted. |
+| Cakes and Biscuits | Product not permitted. | Product not permitted. | Product may only be provided if product:<br>- (a) is permitted under paragraph 10 of Schedule 3; and<br>- (b) complies with Schedule 4. |
+| Potato and Potato products | Product not permitted. | Product may only be provided if it is treated as being a product permitted under paragraph 5(1) of Schedule 3. | Product may only be provided if it is treated as being a product that is permitted under paragraph 5(1) of Schedule 3. |
+| Deep-fried or flash-fried food (excludes potatoes) | Product not permitted. | Product may only be provided if it is treated as being a product that is permitted under paragraph 6 of Schedule 3. | Product may only be provided if it is treated as being a product that is permitted under paragraph 6 of Schedule 3. |
+| Meat products | Product not permitted. | .Product may only be provided if:<br>- (a) it is treated as being a product that is permitted under paragraph 8(1) and (2) of Schedule 3; and<br>- (b) complies with the requirements under paragraph 8(3) to (7) of Schedule 3. | Product may only be provided if:<br>- (a) it is treated as being a product that is permitted under paragraph 8(1) and (2) of Schedule 3; and<br>- (b) complies with the requirements under paragraph 8(3) to (7) of Schedule 3. |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations apply to local authorities and governing bodies of maintained schools that provide food and drink to pupils of maintained schools, whether they are on school premises or not, and to other persons on school premises.
+
+These Regulations set out the types of food and drink that can, and cannot, be provided during the school day and define the nutrient content of school lunches.
+
+These Regulations were notified in draft to the European Commission in accordance with Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) [^f00011], as amended by Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048) [^f00012].
+
+These Regulations replace the Education (Nutritional Standards for School Lunches) (Wales) Regulations 2001[^f00013].
+
+Local authorities and governing bodies of maintained schools must comply with these Regulations from 2 September 2013.
+
+Regulation 2(2) sets out certain exemptions to these Regulations.
+
+Regulation 3 revokes the earlier Regulations.
+
+Regulation 4 and Schedule 1 set out the requirements that must be met where school breakfast is provided.
+
+Regulation 5 applies the requirements in Schedule 2 where school lunch is provided to pupils in nursery schools or other persons on the premises of a nursery school in cases where school lunch does not comply with the requirements in Schedule 3 and the nutritional standards in Schedule 4.
+
+Regulation 6 and Schedules 3 and 4 set out the requirements and the nutritional standards that must be met where school lunch is provided.
+
+As some requirements in the Schedules refer to the frequency with which certain foods must or must not be provided by reference to a week, regulation 6(5) provides that where a school is only open for part of a week the number of times food must or must not be provided should continue as if it were open for the whole week.
+
+Regulation 7 and Schedule 5 prescribe requirements that must be met in relation to drinks.
+
+Under Regulation 8 food or drink provided at times outside of school breakfast or school lunch (such as at break time) must comply with the requirements in Schedule 5 or 6.
+
+Schedule 3 sets out requirements relating to food that must be provided, or must not be provided, as part of school lunch in primary and secondary schools.
+
+Schedule 4 requires a calculation to be made for a school or a group of schools to ensure that the correct amount of energy and nutrients is contained in an average school lunch.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 nawm 3](https://www.legislation.gov.uk/mwa/2009/3).
+
+[^key-68ca58b23ba422e27be06af70be4f0a8]: Commencement: Reg. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-79f294006206abb906a1b98caa6acc8b]: Commencement: Reg. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^f00002]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^key-00e01b907133880645400b86ff2aa575]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (20.11.2013) by [The Fruit Juices and Fruit Nectars (Wales) Regulations 2013 (S.I. 2013/2750)](https://www.legislation.gov.uk/wsi/2013/2750), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2750/regulation/1/2), [Sch. 15 para. 2(2)](https://www.legislation.gov.uk/wsi/2013/2750/schedule/15/paragraph/2/2) (with [reg. 22(2)](https://www.legislation.gov.uk/wsi/2013/2750/regulation/22/2))
+
+[^key-19fdaffa5e8bef3fce7efbdbc159f2cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 55](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/55)
+
+[^key-6ca38af414f7c3f3f37890d3a387ea50]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) omitted (13.12.2014) by virtue of [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-5f1175917ba8cbc4335814a390319080]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-bfbe060c5bfc2ee1cf564dd6b8134a71]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/33/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-ce18b364c19aa92c72f07feb69c581d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) inserted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/2/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^f00007]: Footnote: OJ L 354, 31.12.2008, p.16. Vitamins or minerals added to a food for an additive purpose must meet the controls on the use of additives set out in the Direction.
+
+[^key-bf45a326ee8e34441820fc347916f252]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/wsi/2019/463/regulation/15/2/a)
+
+[^f00008]: Footnote: OJ L 354, 31.12.2008, p.34.
+
+[^key-d1a8fea248aac4ccce8bdb6027971d2f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/wsi/2019/463/regulation/15/2/b)
+
+[^key-d20ca9b8c5a1aa261ed023e83a2e3630]: Commencement: Reg. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 2001/1784 (W.126)](https://www.legislation.gov.uk/wsi/2001/1784).
+
+[^key-4d106dc834885dded1d1ecd843ede959]: Commencement: Reg. 4 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-39cb913b62f14fe773bcfabca4548f3e]: Commencement: Reg. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-208bdb8f7882d0df9ec4cfb6538d211e]: Commencement: Reg. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-0e0add537c748a4888384b5f8fd44e17]: Commencement: Reg. 7 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-a498796c0b65f23f415cd91443030e44]: Commencement: Reg. 8 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-65bdf77cff995a5174f9bb2d2b93f8b3]: Commencement: Sch. 1 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-fec1d4c3f6b3cf5f9b53798080d6c46b]: Commencement: Sch. 1 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-4de14ef706060db185ca895e07775fb1]: Commencement: Sch. 1 para. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-40f37330619aa68e949fab49d2619972]: Commencement: Sch. 2 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-2d42ce964f81ca448bcb4fd709aa0d23]: Commencement: Sch. 2 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-7a56e00ca5f5042a30a43cf114fa11dc]: Commencement: Sch. 3 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-8d66c1810beb7a56b7b69ae3921ebbad]: Commencement: Sch. 3 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-84ab4945e5949ad1b6f02e1ad6b94a64]: Commencement: Sch. 3 para. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-36b32aab0269f6b7e5e1eba5ea39bf0a]: Commencement: Sch. 3 para. 4 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-256b7b46fa7b68e6c5fb66ad21dea463]: Commencement: Sch. 3 para. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-2d178c726773cf6f6314b12b0200aba1]: Commencement: Sch. 3 para. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-f46c580d687fe1fa9048fcb967a3b23c]: Commencement: Sch. 3 para. 7 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-4f0dddfd338bdbb34380e872cb497da7]: Commencement: Sch. 3 para. 8 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-e6263268ac9dadcba4bc6749bc88778e]: Textual amendment: Words in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/1) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-2f53f4de3816b44d89c1468aa8cdfb30]: Textual amendment: Words in [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/2) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-1c3f8181ae0d138a28a2029a7cd5eaa3]: Textual amendment: Words in [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/3) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-7e740fa24b5f18fc2c24d438d854a8a8]: Textual amendment: Words in [Sch. 3 para. 8(4)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/4) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(d)(i)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/d/i) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-0902602b0feb469e9b66fafa8a56e560]: Textual amendment: Words in [Sch. 3 para. 8(4)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/4) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(d)(ii)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/d/ii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-5fd89b188dffb9134ab13ffe025577b8]: Textual amendment: Words in [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/5) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(e)(i)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/e/i) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-ed326d6d77df3db858ac479c232720f1]: Textual amendment: Words in [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/5) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(e)(ii)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/e/ii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-643f0245a0569674aeae7f199357d655]: Textual amendment: Words in [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/5) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(e)(iii)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/e/iii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-3d45c85007f367eb248fda42453f2958]: Textual amendment: Words in [Sch. 3 para. 8(6)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/6) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(f)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/f) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-6785fdc140ab5875d43e7c6e7fce3e87]: Textual amendment: Words in [Sch. 3 para. 8(7)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/7) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(g)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/g) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+
+[^key-ba63f66ce40fbfcaadfcb2ddffdd1af7]: Commencement: Sch. 3 para. 9 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-56d82e1674dc6f4605739e8a291b2862]: Commencement: Sch. 3 para. 10 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-5ee40757b8e148d82698e5b9e06d2f5a]: Commencement: Sch. 3 para. 11 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-b739303d9a55bb3e3a0ca857740fc481]: Commencement: Sch. 4 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-f3a323ecb7482487c61c0d73a3003240]: Commencement: Sch. 4 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-86250c384af44dfa67c4c5d32e25a5fd]: Commencement: Sch. 4 para. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^key-f97b5156f11aecbd26a0a6df814ce78d]: Commencement: Sch. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^f00010]: Footnote: As permitted by paragraph 3(a) of Schedule 3 to [S.I 2003/3041(W.286)](https://www.legislation.gov.uk/wsi/2003/3041)(as amended by [S.I. 2011/700 (W.107)](https://www.legislation.gov.uk/wsi/2011/700)).
+
+[^key-0717e40bf91296477a0afd77e47e3c24]: Commencement: Sch. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+
+[^f00011]: Footnote: OJ L 204, 21.7.1998, p.37.
+
+[^f00012]: Footnote: OJ L 217, 5.8.1998, p.18.
+
+[^f00013]: Footnote: [S.I. 2001/1784 (W.126)](https://www.legislation.gov.uk/wsi/2001/1784).

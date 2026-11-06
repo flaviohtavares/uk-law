@@ -1,0 +1,177 @@
+---
+title: The Public Services Ombudsman for Wales (Jurisdiction and Transitional Provisions and Savings) Order 2006
+id: wsi/2006/363
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-02-14'
+text_date: '2023-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2006/363
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2006/363/pdfs/wsi_20060363_mi.pdf
+- http://www.legislation.gov.uk/wsi/2006/363/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Services Ombudsman for Wales (Jurisdiction and Transitional Provisions and Savings) Order 2006
+
+> Text as at 2023-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2006 No. 363 (W.49)
+
+WELSH PUBLIC SERVICES OMBUDSMAN
+
+The Public Services Ombudsman for Wales (Jurisdiction and Transitional Provisions and Savings) Order 2006
+
+Made
+
+14 February 2006
+
+Coming into force
+
+1 April 2006
+
+The National Assembly for Wales, in exercise of powers conferred on it by sections 10(2), 28(2)(a), 41(1) and (3), 43(1)(b) and 44(2)(b) of the Public Services Ombudsman (Wales) Act 2005[^f00001], and having carried out such consultation as is required by sections 10(3), 28(4) and 41(4) of that Act, makes the following Order:
+
+## 1. Title, commencement, application and interpretation[^key-5c62dba490e1a3a9a23a36bb34f3a18e]
+
+(1) The title of this Order is the Public Services Ombudsman for Wales (Jurisdiction and Transitional Provisions and Savings) Order 2006 and it comes into force on 1 April 2006.
+
+(2) This Order applies in relation to Wales.
+
+(3) In this Order—
+
+- (a) “the Act” (“*y Ddeddf*”) means the Public Services Ombudsman (Wales) Act 2005,
+- (b) “the 1977 Act” (“*Ddeddf 1977*”) means the National Health Service Act 1977[^f00002], and
+- (c) “the 2003 Act” (“*Ddeddf 2003*”) means the Health and Social Care (Community Health and Standards) Act 2003[^f00003].
+
+(4) In this Order references to sections and Schedules are, unless otherwise stated, references to sections of, and Schedules to, the Act.
+
+## 2. Amendments to Schedule 2 (excluded matters)[^key-f04e87782a4c0a7d1b6c6503a93ff6f8]
+
+In Schedule 2—
+
+- (a) for paragraph 8 substitute—
+
+  > **8.** Action under—
+  >
+  > - (a) the National Health Service Act 1977,
+  > - (b) Part 1 of the National Health Service and Community Care Act 1990,
+  > - (c) Part 1 of the Health Act 1999 (with the exception of sections 33 to 38), or
+  > - (d) Part 1 of the Health and Social Care (Community Health and Standards) Act 2003,
+  >
+  > where the action is or has been the subject of an inquiry under the Inquiries Act 2005 .
+
+  , and
+- (b) omit paragraph 10.
+
+## 3. Amendment to Schedule 3 (listed authorities)[^key-1a91d744e518db18d8065beb73986193]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the definition of “family health service provider in Wales”[^key-c5d1d3d9baa9ca2438a678e3a5fcece8]
+
+In section 41(1), in the definition of “family health service provider in Wales”—
+
+- (a) in paragraph (a) for “section 28Q ”substitute “section 28K or 28Q”,
+- (b) in paragraph (c) for “primary medical or dental services” substitute “primary medical services or primary dental services”, and
+- (c) omit paragraph (d).
+
+## 5. Saving provisions in relation to the definition of “family health service provider in Wales”[^key-c6711b8ce944fed095a90e6bbf5e13bc]
+
+In relation to any complaint in respect of a matter which occurred before 1 April 2004—
+
+- (a) for paragraph (a) of the definition of “family health service provider in Wales” (as amended by article 4(a) of this Order) substitute—
+
+  > - (a) individuals undertaking to provide in Wales general medical services or general dental services under Part 2 of the National Health Service Act 1977;
+
+  and
+- (b) for paragraph (c) of the definition of “family health service provider in Wales” (as amended by article 4(b) of this Order) substitute—
+
+  > - (c) individuals performing in Wales personal medical services or personal dental services in accordance with arrangements made under section 28C of the National Health Service Act 1977 (except as employees of, or otherwise on behalf of, a health service body or an independent provider);
+
+  .
+
+## 6. Transitory provisions in relation to the definition of “family health service provider in Wales”[^key-9f7ead2737ee3ef7c1877e20af3cb0f7]
+
+(1) In circumstances other than those described in article 5 and until section 172(1) of the 2003 Act comes into force in relation to general dental services contracts—
+
+- (a) in paragraph (a) of the definition of “family health service provider in Wales” (as amended by article 4(a) of this Order) for “section 28K or 28Q” substitute “section 28Q”,
+- (b) in paragraph (c) of the definition of “family health service provider in Wales” (as amended by article 4(b) of this Order) for “primary dental services” substitute “personal dental services”, and
+- (c) after paragraph (c) of the definition of “family health service provider in Wales” (as amended by article 4(b) of this Order) insert —
+
+  > - (d) an individual who, at that time, had undertaken to provide in Wales general dental services under Part 2 of that Act.
+
+(2) Until section 28C of the 1977 Act comes into force in relation to Wales then for the purposes of that part of the definition of “family health service provider in Wales” as amended by article 4(b) and as substituted by article 5(b) of this Order that refers to arrangements made under that section it is to be taken as referring only to a pilot scheme under Part 1 of that Act.
+
+## 7. Transitional provision in relation to the definition of “family health service provider in Wales”[^key-0dfbd51394e33f90a74e1f2177da1a1c]
+
+For as long as default contracts entered into pursuant to section 176(3) of the 2003 Act (general medical services: transitional) exist, any reference to a general medical services contract or to a contract under section 28Q of the 1977 Act in the definition of “family health service provider in Wales” as amended by article 4(a) and as substituted by article 5(a) of this Order is to be deemed to include a reference to a default contract.
+
+## 8. Valuation tribunals in Wales[^key-9851eff86a39d4a16e3b0c8a8411ab16]
+
+(1) A valuation tribunal in Wales is a relevant tribunal for the purposes of the Act.
+
+(2) Nothing in the Valuation Tribunals (Wales) Regulations 2005[^f00004] prevents a person from making a complaint to the Ombudsman in relation to relevant action taken by a member of the administrative staff of a valuation tribunal in Wales before 15 February 2006.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00005].
+
+John Marek
+
+The Deputy Presiding Officer of the National Assembly
+
+14 February 2006
+
+(This note is not part of the Order)
+
+This Order applies in relation to Wales. It is made under sections 10(2), 28(2)(a), 41(1) and (3), 43(1)(b) and 44(2)(b) of the Public Services Ombudsman (Wales) Act [2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10) (“the Act”).
+
+Section 10(2) provides that the National Assembly for Wales (“the Assembly”) may, by order, amend Schedule 2 to the Act (excluded matters) by adding, removing or changing an entry in that Schedule. Schedule 2 sets out various matters that, by virtue of section 10(1), the Public Services Ombudsman for Wales (“the Ombudsman”) is not entitled to investigate. Section 10(3) provides that before making an order under section 10(2) the Assembly must consult the Ombudsman.
+
+Article 2 substitutes a new paragraph 8 of Schedule 2 in consequence of the coming into force of the Inquiries Act [2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12). Section 49 of and Schedule 3 to the Inquiries Act 2005 repeal section 84 of the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49). The substitution made by article 2(a) of this Order makes the necessary consequential changes to Schedule 2. Article 2(b) omits paragraph 10 of Schedule 2. Section 4 of the Act sets out who can complain to the Ombudsman. The effect of section 4(2) is that a listed authority acting in its capacity as such cannot make a complaint to the Ombudsman. It is, therefore, considered that paragraph 10 of Schedule 2 is otiose.
+
+Article 3 amends Schedule 3 (listed authorities) by adding reference to the Board of Community Health Councils in Wales as a listed authority, so as to bring it within the Ombudsman’s remit.
+
+Section 41(3) provides that the Assembly may, by order, amend the definition of “family health service provider in Wales” (see section 41(1)). Section 41(4) provides that before the Assembly makes such an order it must consult such persons as it thinks appropriate.
+
+Articles 4 to 7 bring the definition of “family health service provider in Wales” more closely into line with the definition in section 2A(2) of the Health Service Commissioners Act [1993 (c. 46)](https://www.legislation.gov.uk/ukpga/1993/46).
+
+Section 41(1) provides, amongst other things, that in the Act a “relevant tribunal” means a tribunal (including a tribunal consisting of only one person) specified by order made by the Assembly.
+
+Article 8 provides that a valuation tribunal in Wales is a relevant tribunal for the purpose of the Act. It also makes transitional provision (in article 8(2)) in respect of action taken by administrative staff of valuation tribunals in Wales before 15 February 2006 in respect of appeals initiated and disposed of by that date. On that date the Valuation Tribunals (Wales) Regulations 2005 (S.I. [2005/3364](https://www.legislation.gov.uk/uksi/2005/3364)) come fully into force. Those regulations abolish the former valuation tribunals and replace them with new ones.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 c. 10](https://www.legislation.gov.uk/ukpga/2005/10).
+
+[^key-5c62dba490e1a3a9a23a36bb34f3a18e]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2006/363/article/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+
+[^f00002]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
+
+[^f00003]: Footnote: [2003 c. 43](https://www.legislation.gov.uk/ukpga/2003/43).
+
+[^key-f04e87782a4c0a7d1b6c6503a93ff6f8]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2006/363/article/2) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+
+[^key-1a91d744e518db18d8065beb73986193]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/wsi/2006/363/article/3) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2023/299/schedule/1/paragraph/10)
+
+[^key-c5d1d3d9baa9ca2438a678e3a5fcece8]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2006/363/article/4) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+
+[^key-c6711b8ce944fed095a90e6bbf5e13bc]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2006/363/article/5) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+
+[^key-9f7ead2737ee3ef7c1877e20af3cb0f7]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2006/363/article/6) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+
+[^key-0dfbd51394e33f90a74e1f2177da1a1c]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2006/363/article/7) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+
+[^key-9851eff86a39d4a16e3b0c8a8411ab16]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2006/363/article/8) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+
+[^f00004]: Footnote: S.I. [2005/3364 (W.261)](https://www.legislation.gov.uk/wsi/2005/3364)
+
+[^f00005]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

@@ -1,0 +1,160 @@
+---
+title: The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (Wales) Regulations 2010
+id: wsi/2010/2431
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-10-04'
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2010/2431
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2010/2431/pdfs/wsi_20102431_mi.pdf
+- http://www.legislation.gov.uk/wsi/2010/2431/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (Wales) Regulations 2010
+
+> Text as at 2026-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 2431 (W.209)
+
+EDUCATION, WALES
+
+The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (Wales) Regulations 2010
+
+Made
+
+4 October 2010
+
+Laid before the National Assembly for Wales
+
+6 October 2010
+
+Coming into force
+
+1 November 2010
+
+The Welsh Ministers in exercise of the powers conferred by sections 29(3), 342(4), 347(2), 408, 537, 537A, 537B, 563 and 569 of the Education Act 1996[^f00001], and sections 92 and 138(7) and (8) of the School Standards and Framework Act 1998[^f00002], and sections 30, 116A(5), 116D(2) and 210 of the Education Act 2002[^f00003], and after consulting those persons with whom consultation appeared to them to be desirable, make the following Regulations:
+
+## 1. Title, commencement and application[^key-5a4b7f6fb869df679fee517d3757308d]
+
+(1) The title of these Regulations is the Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (Wales) Regulations 2010 and they come into force on 1 November 2010.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Amendment of the Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994[^key-74069f6727fe0a6f6d9b2b6a96e1fc4e]
+
+The Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994[^f00004] are amended as follows—
+
+- (a) in regulation 2(1) insert after the definition of “approval”—
+
+  > - “approved relevant qualification” is a relevant qualification within the meaning of section 30(5) of the Education Act 1997[^f00005];
+
+  ; and
+- (b) in paragraph 12(2)(c)(vi) and paragraph 12(2)(c)(vii) of Schedule 2, for “external” substitute “approved relevant”.
+
+## 3. Amendment of the Education (Special Schools) Regulations 1994[^key-19de2e92159aceae6cf53d7ce863a8a6]
+
+The Education (Special Schools) Regulations 1994[^f00006] are amended as follows—
+
+- (a) in regulation 2(1) insert after the definition of “the 1993 Act”—
+
+  > - “approved relevant qualification” is a relevant qualification within the meaning of section 30(5) of the Education Act 1997[^f00007];
+
+  ;
+- (b) in paragraph 5 of Part 3 of the Schedule, for sub-paragraph (2)(a) substitute—
+
+  > - (a) a list of the approved relevant qualifications for which courses of study are provided for pupils of compulsory school age at the school;
+
+  ; and
+- (c) in paragraph 5(2)(c) of Part 3 of the Schedule, for “external” substitute “approved relevant”.
+
+## 4. Amendment of the Education (School Information) (Wales) Regulations 1999[^key-c2068b27f271b0329885cb5c493b0401]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the School Governors' Annual Reports (Wales) Regulations 2001[^key-be88021a7806d2c041c2489680d81f4f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of the Education (School Performance Information) (Wales) Regulations 2004[^key-0efcac30c1d504966f775eef02b0f878]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of the Education (Pupil Information) (Wales) Regulations 2004[^key-2e3641099c5e92e55909d085ab479dd5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Education (Local Curriculum for Pupils in Key Stage 4) (Wales) Regulations 2009[^key-72186cb09403d2aa89df853ffd73800d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of the Education (Information About Children in Alternative Provision) (Wales) Regulations 2009[^key-27bf2c6caf8bf20029a4dd8d91df1777]
+
+The Education (Information About Children in Alternative Provision) (Wales) Regulations 2009[^f00019], are amended as follows—
+
+- (a) for the definition of “approved external qualification” in regulation 2 substitute—
+
+  > - “approved relevant qualification” (“*cymhwyster perthnasol a gymeradwywyd*”) is a relevant qualification within the meaning of section 30(5) of the Education Act 1997[^f00020];
+
+  ; and
+- (b) in paragraph 6 of Schedule 2 for “approved external qualification” substitute “approved relevant qualification”.
+
+Leighton Andrews
+
+Minister for Children, Education and Lifelong Learning, one of the Welsh Ministers
+
+4 October 2010
+
+(This note is not part of the Regulations)
+
+These Regulations are made as a consequence of the Apprenticeships, Skills, Children and Learning Act 2009 (“the 2009 Act”). Part 7 of the 2009 Act establishes the Office of Qualifications and Examinations Regulation and sets out its objectives and general duties. Part 8 of the 2009 Act makes provision for the Qualifications and Curriculum Authority, established under section 21 of the Education Act 1997, to continue in existence but is to be known instead as the Qualifications and Curriculum Development Agency and amends its objectives and general duties.
+
+These Regulations make amendments to secondary legislation, in consequence of the coming into force of Part 7 of the 2009 Act, and the consequent amendment to section 30 of the Education Act 1997 by the 2009 Act (Welsh Ministers functions in relation to external vocational and academic qualifications).
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); the functions of the Secretary of State under sections 29(3), 342(4), 347(2), 408, 537, 537A, 563 and 569, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales, by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and by virtue of section 150 of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21) and section 211 of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), and are now vested in the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). Functions under section 537B were transferred to the National Assembly for Wales by virtue of section 180 of the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40) and then to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act 2006. Section 29(3) was amended by the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 30, paragraph 67 and Schedule 31. Section 408 was amended by the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), Schedule 7, paragraph 30, the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraphs 57 and 106, the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraph 57 and the Education Act 2002, Schedule 21, paragraph 46. Section 537 was amended by the Education Act 1997, Schedule 7, paragraph 37, by the School Standards and Framework Act 1998, Schedule 30, paragraphs 57 and 152, and by the Learning and Skills Act 2000, Schedule 9, paragraph 60, and by the Education Act 2002, Schedule 7, paragraph 6 and Schedule 22, Part 3. Section 537A was inserted by section 20 of the Education Act 1997, and substituted by paragraph 153 of Schedule 30 to the School Standards and Framework Act 1998. Section 537B was inserted by section 164 of the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40). Section 563 was amended by the School Standards and Framework Act 1998, Schedule 30, paragraph 172(a) and (b).
+
+[^f00002]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Section 92 was substituted by paragraph 7 of Schedule 4 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32). Functions under sections 92 and 138 were transferred to the National Assembly for Wales by virtue of section 211 of the Education Act 2002, and then to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^f00003]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 30 substantially re-enacts section 42 of the School Standards and Framework Act 1998. Section 30 was amended by section 103(1)(a), (b) and (c) of the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), and by section 2 of the [Healthy Eating in Schools (Wales) Measure 2009 (nawm 3)](https://www.legislation.gov.uk/mwa/2009/3). Section 116A was inserted by section 4 of the [Learning and Skills (Wales) Measure 2009 (nawm 1)](https://www.legislation.gov.uk/mwa/2009/1). Section 116D was inserted by section 7 of the Learning and Skills (Wales) Measure 2009. Section 210 was amended by the [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2) and the Childcare Act 2006, Schedule 1, paragraph 16. The functions of the National Assembly for Wales under sections 30 and 210 of the Education Act 2002 were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^key-5a4b7f6fb869df679fee517d3757308d]: Commencement: Reg. 1 in force at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/2431/regulation/1/1)
+
+[^key-74069f6727fe0a6f6d9b2b6a96e1fc4e]: Commencement: Reg. 2 in force at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/2431/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 1994/651](https://www.legislation.gov.uk/uksi/1994/651).
+
+[^f00005]: Footnote: [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44). Sub-section (5) of section 30 was substituted by paragraph 15(6) of Schedule 12 to the Apprenticeships, Skills, Children and Learning Act 2009.
+
+[^key-19de2e92159aceae6cf53d7ce863a8a6]: Commencement: Reg. 3 in force at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/2431/regulation/1/1)
+
+[^f00006]: Footnote: [S.I. 1994/652](https://www.legislation.gov.uk/uksi/1994/652).
+
+[^f00007]: Footnote: [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44). Sub-section (5) of section 30 was substituted by paragraph 15(6) of Schedule 12 to the Apprenticeships, Skills, Children and Learning Act 2009.
+
+[^key-c2068b27f271b0329885cb5c493b0401]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2010/2431/regulation/2) revoked (1.9.2011) by [The School Information (Wales) Regulations 2011 (S.I. 2011/1944)](https://www.legislation.gov.uk/wsi/2011/1944), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2011/1944/schedule/1)
+
+[^key-be88021a7806d2c041c2489680d81f4f]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2010/2431/regulation/5) revoked (1.9.2011) by [The School Governors' Annual Reports (Wales) Regulations 2011 (S.I. 2011/1939)](https://www.legislation.gov.uk/wsi/2011/1939), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1939/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2011/1939/schedule/1)
+
+[^key-0efcac30c1d504966f775eef02b0f878]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2010/2431/regulation/6) revoked (1.9.2011) by [The School Performance Information (Wales) Regulations 2011 (S.I. 2011/1963)](https://www.legislation.gov.uk/wsi/2011/1963), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1963/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2011/1963/schedule/1)
+
+[^key-2e3641099c5e92e55909d085ab479dd5]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2010/2431/regulation/7) revoked (1.9.2011) by [The Pupil Information (Wales) Regulations 2011 (S.I. 2011/1942)](https://www.legislation.gov.uk/wsi/2011/1942), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2011/1942/schedule/1)
+
+[^key-72186cb09403d2aa89df853ffd73800d]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2010/2431/regulation/8) revoked (1.9.2026) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/wsi/2022/679/regulation/8/3/b)
+
+[^key-27bf2c6caf8bf20029a4dd8d91df1777]: Commencement: Reg. 9 in force at 1.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/2431/regulation/1/1)
+
+[^f00019]: Footnote: [S.I. 2009/3355 (W.294)](https://www.legislation.gov.uk/wsi/2009/3355) to which there are amendments not relevant to these Regulations.
+
+[^f00020]: Footnote: [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44). Sub-section (5) of section 30 was substituted by paragraph 15(6) of Schedule 12 to the Apprenticeships, Skills, Children and Learning Act 2009.

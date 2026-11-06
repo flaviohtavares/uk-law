@@ -1,0 +1,1250 @@
+---
+title: The Environmental Impact Assessment (Agriculture) (Wales) Regulations 2017
+id: wsi/2017/565
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-04-20'
+text_date: '2024-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2017/565
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2017/565/pdfs/wsi_20170565_mi.pdf
+- http://www.legislation.gov.uk/wsi/2017/565/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Impact Assessment (Agriculture) (Wales) Regulations 2017
+
+> Text as at 2024-11-04.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 565 (W. 134)
+
+Agriculture, Wales
+
+The Environmental Impact Assessment (Agriculture) (Wales) Regulations 2017
+
+Made
+
+20 April 2017
+
+Laid before the National Assembly for Wales
+
+24 April 2017
+
+Coming into force
+
+16 May 2017
+
+The Welsh Ministers are designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to measures relating to—
+
+- (a)
+- (b)
+
+These Regulations make provision for a purpose mentioned in that section and it appears to the Welsh Ministers that it is expedient for any reference in these Regulations to EU instruments to be construed as a reference to those instruments as amended from time to time.[^key-020a38eb6c4ccef734bf0a25ef4f510f]
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972.[^key-020a38eb6c4ccef734bf0a25ef4f510f]
+
+## PART 1 — General provisions
+
+### 1. Title, application and commencement[^key-e74d8e84c3c21a372f5e6d59b5470e55]
+
+(1) The title of these Regulations is the Environmental Impact Assessment (Agriculture) (Wales) Regulations 2017.
+
+(2) These Regulations apply in relation to Wales.
+
+(3) These Regulations come into force on 16 May 2017.
+
+### 2. Interpretation[^key-90e4c08fa532ccc4ca45aeb8c5d3c0b8]
+
+(1) In these Regulations—
+
+- “additional environmental information” (“*gwybodaeth amgylcheddol ychwanegol*”) means any additional information required under regulation 12(1);
+- “agriculture” (“*amaethyddiaeth*”) has the same meaning as in section 109(3) of the Agriculture Act 1947[^f00004];
+- “consent” (“*cydsyniad*”) means consent granted under regulation 15;
+- “consultation bodies” (“*cyrff ymgynghori*”) means—
+  - (a) the Natural Resources Body for Wales; or
+  - (b) any other public authority, statutory body or other organisation which the Welsh Ministers considers has any interest in or holds any information which might be relevant to the project;
+- “EEA State” (“*Gwladwriaeth AEE*”) means a member State, Norway, Iceland or Liechtenstein;
+- “the EIA Directive” (“*y Gyfarwyddeb AEA*”) means [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment[^f00005];
+- “environmental statement” (“*datganiad amgylcheddol*”) means a statement as described in regulation 11;
+- “European site” (“*safle Ewropeaidd*”) means a site mentioned in paragraph (1)(a), (b), (d) or (e) of regulation 8 of the Habitats Regulations;
+- “the Habitats Directive” (“*y Gyfarwyddeb Cynefinoedd*”) means Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora[^f00006];
+- “the Habitats Regulations” (“*y Rheoliadau Cynefinoedd*”) means the Conservation of Habitats and Species Regulations 2017[^key-201f42c143c3b02ce2f2a2aa183b4114];
+- “ Natura 2000 has the same meaning as in regulation 3(1) of the Habitats Regulations;[^key-5a01ad79b4848bae22b6af24431c0b7f]
+- “project” (“*prosiect*”) means—
+  - (a) the execution of construction works or other installations or schemes; or
+  - (b) other interventions in the natural surroundings and landscape;
+- “project on semi-natural and/or uncultivated land” (“*prosiect ar dir lled-naturiol a/neu dir heb ei drin*”) means a project to increase the agricultural productivity of an area of semi-natural and/or uncultivated land and includes projects to increase the agricultural productivity of such land to below the norm;
+- “public” (“[^key-f543b3fdc9e3ab2c05c338c175728cb8]***aelodau'r cyhoedd***”) means one or more natural or legal persons and, in accordance with the law of any part of the United Kingdom or practice, their associations, organisations or groups;
+- “public concerned” (“[^key-bccf6cfa3ca5ac491d13962ff427a953]***aelodau'r cyhoedd y mae a wnelo'r cais â hwy***”) means the public affected or likely to be affected by, or having an interest in, environmental decision making procedures (for the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any requirements under the relevant national law are deemed to have an interest);
+- “the relevant land” (“*y tir perthnasol*”) means the land on which the project is to be (or has been) carried out;
+- “restructuring project” (“*prosiect ailstrwythuro*”) means a project for the restructuring of rural landholdings;
+- “screening decision” (“*penderfyniad sgrinio*”) means a decision which is made, or deemed to have been made, by the Welsh Ministers under regulation 7(1) or (7);
+- “semi-natural land” (“*tir lled-naturiol*”) means land that contains less than 25% improved agricultural species which are indicative of cultivation;
+- “significant project” (“*prosiect sylweddol*”) means a project on semi-natural and/or uncultivated land or a restructuring project which the Welsh Ministers have decided or are deemed to have decided is likely to have significant effects on the environment in accordance with regulation 7(1) or (7);
+- “transborder project” (“*prosiect trawsffiniol*”) means a project on semi-natural and/or uncultivated land or a restructuring project where the relevant land is situated partly in Wales and partly in England.
+
+(2) Other expressions used both in these Regulations and in [^key-b33707aacf158037f65ce5cb5601fa82]... the Habitats Regulations[^key-6026f36e32a99da99a247b21499defe9] have the same meanings in these Regulations as they have in the the Habitats Regulations[^key-8af72285efa45f8da69bbc62256efc5e].
+
+(3) All applications, notices, notifications, representations, requests, approvals and agreements under these Regulations must be made or given in writing.
+
+(4) “Writing” in paragraph (3), except where it applies to notices under regulation 24 or 26, includes an electronic communication within the meaning of the Electronic Communications Act 2000[^f00008], but notifications required to be made by the Welsh Ministers to any person may only be made by an electronic communication if the intended recipient—
+
+- (a) has used that form of electronic communication in communicating with the Welsh Ministers in respect of any provision in these Regulations, or
+- (b) has otherwise represented that that form of electronic communication is a means by which persons can communicate with him or her.
+
+(5) Notices or documents required or authorised to be served, sent or given under these Regulations may be sent by post.
+
+### 3. Application of Regulations[^key-da3a4c0c181eb4fcbda000190f34081d]
+
+(1) These Regulations apply to any project on semi-natural and/or uncultivated land or a restructuring project, unless it is exempt in accordance with paragraph (2) or (3).
+
+(2) These Regulations do not apply to a project on semi-natural and/or uncultivated land or a restructuring project if it—
+
+- (a) is a project mentioned in regulation 3(2) of the Environmental Impact Assessment (Forestry) (England and Wales) Regulations 1999[^f00009];
+- (b) constitutes development to which the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017[^f00010] apply;
+- (c) constitutes the carrying out of improvement works by a drainage body within the meaning of the Environmental Impact Assessment (Land Drainage Improvement Works) Regulations 1999[^f00011];
+- (d) constitutes a relevant project within the meaning of regulation 3(2) and (3) of the Water Resources (Environmental Impact Assessment) (England and Wales) Regulations 2003[^f00012];
+- (e) constitutes the removal of a hedgerow as permitted by regulation 5(1) of the Hedgerows Regulations 1997[^f00013]; or
+- (f)[^key-5070612090ec150ac9e5969ee11542be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A project is exempt under this paragraph to the extent that the Welsh Ministers [^key-f32335cd72a4faddffae502f0d1b1881]... direct that it is to be exempt from regulations 4 to 33 of these Regulations , but this is subject to paragraph (3A)[^key-cd05e5cf245f1f4d5b285537245e7379].
+
+(3A)[^key-d688cdc47970280706bbc458f5604fc8] The Welsh Ministers must not make a direction under paragraph (3) unless—
+
+- (a) it is appropriate to do so because of exceptional circumstances;
+- (b) the application of these Regulations would result in adversely affecting the purpose of the project;
+- (c) they have considered whether another form of assessment would be appropriate;
+- (d) the objectives of the Directive are met even though their requirements are not fulfilled; and
+- (e) the project is unlikely to have a significant effect on the environment in an EEA State.
+
+(3B) The Welsh Ministers must make available to the public concerned—
+
+- (a) the information obtained from any other form of assessment relating to the decision under paragraph (3A) whether to grant an exemption; and
+- (b) the reasons for granting it.
+
+(4) In the case of a project which the Welsh Ministers decide is likely to have a significant effect on a European site (either alone or in combination with other projects), the power to direct that the project is exempt under paragraph (3) is exercisable only to the extent that compliance with the Habitats Regulations[^key-e3073b7a579b8e929a3dcaf8b3df3469] is secured in relation to the project.
+
+(5) Where the Welsh Ministers propose to issue a direction under paragraph (3), they must—
+
+- (a) consider whether any other kind of assessment of the project would be appropriate; and
+- (b) bring to the attention of the public—
+  - (i) the information considered in issuing the direction and the reasons for doing so, and
+  - (ii) the information obtained from any assessment of the project under sub-paragraph (a).
+
+## PART 2 — Screening
+
+### 4. Requirement for a screening decision[^key-2d875bf8ccfd60f58bb761ddcb94572f]
+
+(1) A person must not commence or carry out a project on semi-natural and/or uncultivated land unless they have first obtained a screening decision permitting the project to proceed.
+
+(2) A person must not commence or carry out a restructuring project of an extent equal to or exceeding the applicable threshold (calculated in accordance with regulation 5) unless they have first obtained a screening decision permitting the project to proceed.
+
+### 5. Thresholds[^key-34708dfb5bfa3cb721f482cb608bc59c]
+
+(1) This regulation provides the method for determining whether the extent of a restructuring project is equal to, or exceeds, the threshold applicable.
+
+(2) The threshold for a type of restructuring project specified in column 1 of Schedule 1 is set out in column 2 or 3.
+
+(3) Paragraphs (4) and (5) apply where a restructuring project consists of only one of the types of restructuring projects specified in column 1.
+
+(4) Where a restructuring project is to be carried out wholly outside a sensitive area, the threshold applicable to it is that specified for that type of restructuring project in column 2.
+
+(5) Where a restructuring project, or any part of it, is to be carried out in a sensitive area, the threshold applicable to it is that specified for that type of restructuring project in column 3.
+
+(6) Where a restructuring project is made up of more than one of the types of restructuring project specified in column 1—
+
+- (a) each relevant part of the restructuring project must be assessed so as to determine the threshold applicable to that part, and
+- (b) if any relevant part of the restructuring project equals or exceeds the threshold applicable to that part, then the entire restructuring project is to be treated as having an extent equal to or exceeding the threshold applicable to it.
+
+(7) In this regulation, “sensitive area” (“*ardal sensitive*”) means—
+
+- (a) land notified under section 28 of the Wildlife and Countryside Act 1981[^f00015] as a site of special scientific interest;
+- (b) a property appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention for the protection of the World Cultural and Natural Heritage[^f00016];
+- (c) a European site within the meaning of regulation 8 of the Habitats Regulations[^key-26090419c2c20dfbcb3fb50c69350123];
+- (d) an area of outstanding natural beauty designated as such by an Order made under section 82 of the Countryside and Rights of Way Act 2000 (designation of areas of outstanding natural beauty) and duly confirmed by the Welsh Ministers under section 83(3) of that Act[^f00018];
+- (e) a National Park within the meaning of the National Parks and Access to the Countryside Act 1949[^f00019];
+- (f)[^key-59726ea472176c41265d9809da886582] a scheduled monument within the meaning given by section 3 of the Historic Environment (Wales) Act 2023.
+
+### 6. Application for a screening decision[^key-48c93337018f6878f28e8d5120f41ce1]
+
+(1) An application for a screening decision must—
+
+- (a) be made to the Welsh Ministers;
+- (b) contain a plan sufficient to identify the relevant land;
+- (c) contain a brief description of the nature, extent and purpose of the project and of its possible effects on the environment;
+- (d) contain any other information or representation as the applicant may wish to provide or make, such as a description of any features of the project and/or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
+
+(2) If the Welsh Ministers consider that they do not have sufficient information to make a screening decision, they may ask the applicant to supply any additional information they require.
+
+(3) The Welsh Ministers must notify the applicant of the date on which they receive the application for a screening decision.
+
+### 7. The screening decision[^key-d62b00f83aaf887b1141154e45562d5f]
+
+(1) The Welsh Ministers must, in accordance with paragraph (2) and the selection criteria in Schedule 2, decide whether a project, or part of it, is a significant project.
+
+(2) If the Welsh Ministers decide that a project, or part of it, is likely to have significant effects on a European site, alone or in conjunction with other projects, and the project is not directly connected with, or necessary for, the management of the site, the project is to be treated as being a significant project.
+
+(3) Before making a screening decision the Welsh Ministers may consult any of the consultation bodies.
+
+(4) The Welsh Ministers must make a screening decision within 35 days of—
+
+- (a) the date in regulation 6(3); or
+- (b) the date on which the Welsh Ministers receive any additional information they have requested under regulation 6(2),
+
+whichever is the latest.
+
+(5) The period in paragraph (4) may be extended with the agreement of the applicant.
+
+(6) After making a screening decision the Welsh Ministers must—
+
+- (a) notify the applicant of it within the period applicable under paragraph (4), with reasons;
+- (b) enter it in a register, to which the public must have access at all reasonable times; and
+- (c) notify any of the consultation bodies they consider might wish to be informed of the screening decision.
+
+(7) If the Welsh Ministers have failed to make or notify a screening decision within the period in paragraph (4), the applicant may notify the Welsh Ministers that they intend to treat that failure as a decision that the project is a significant project.
+
+(8) Where the applicant has notified the Welsh Ministers in accordance with paragraph (6), the Welsh Ministers are deemed to have decided that the project is a significant project on the date of that notification.
+
+(9) If, after the Welsh Ministers have made, or are deemed to have made, a decision that the project is a significant project—
+
+- (a) the Welsh Ministers receive additional information or representations; and
+- (b) as a result of the information or representations the Welsh Ministers decide that the project is not a significant project,
+
+the Welsh Ministers must take all steps listed in paragraph (6) in respect of that decision.
+
+(10) The screening decision will cease to have effect if the project to which it relates is not commenced within a period of 3 years from the date on which the screening decision—
+
+- (a) was notified to the applicant; or
+- (b) was deemed to have been taken under paragraph (7).
+
+## PART 3 — Consent
+
+### 8. Requirement for consent[^key-8895a7834146623f1a8fdfb1aaec78d9]
+
+The consent of the Welsh Ministers must be obtained before a person commences or carries out a significant project.
+
+### 9. Scoping opinions[^key-eb211bb8119d3457feef5746713daa0d]
+
+(1) After receiving a screening decision that a project is a significant project, but before applying for consent, the applicant may ask the Welsh Ministers to provide their opinion on what information must be included in an environmental statement (“a scoping opinion”).
+
+(2) If the applicant requests a scoping opinion, the Welsh Ministers must consult the applicant and such of the consultation bodies as they think fit before providing their opinion.
+
+(3) If the Welsh Ministers consider that they do not have sufficient information to provide a scoping opinion, they may ask the applicant to supply any additional information they require within 28 days of the date on which the Welsh Ministers receive the request for the scoping opinion.
+
+(4) The Welsh Ministers must provide the applicant with the scoping opinion within five weeks of—
+
+- (a) the date they received the scoping opinion; or
+- (b) where applicable, the date they received the additional information under paragraph (3).
+
+### 10. Provision of information[^key-e40cc8c1bcad768ff0bd374b72b2138b]
+
+(1) This regulation applies if a consultation body—
+
+- (a) is consulted by the Welsh Ministers under regulation 9(2); or
+- (b) receives a request for information from a person who intends to apply for consent.
+
+(2) Where this regulation applies, the consultation body must—
+
+- (a) determine whether it has in its possession any information it considers relevant to the preparation of the environmental statement; and
+- (b) subject to paragraphs (3) and (4), make that information available to the Welsh Ministers or the applicant within 28 days from the date of the consultation or the request, whichever is the earliest.
+
+(3) A consultation body may make a reasonable charge to the applicant for providing information under paragraph (2)(b), to reflect the cost of making the relevant information available.
+
+(4) Paragraph (2)(b) does not require a consultation body to make available to the applicant any information which—
+
+- (a) it may refuse to disclose under regulation 12(1) of the Environmental Information Regulations 2004[^f00021]; or
+- (b) it is prevented from disclosing by regulation 13(1) of those Regulations.
+
+(5) If a consultation body is not a public authority within the meaning of regulation 2(2) of the Environmental Information Regulations 2004, paragraph (4) applies as if it were such a public authority.
+
+### 11. The consent application and environmental statement[^key-9af4056927152f20594d8996bce2f481]
+
+(1) An application for consent must—
+
+- (a) include an environmental statement; and
+- (b) be made to the Welsh Ministers.
+
+(2) An environmental statement is a statement which includes at least—
+
+- (a) a description of the project comprising information on the site, design, size and other relevant features of the project;
+- (b) a description of the likely significant effects of the project on the environment;
+- (c) a description of features of the project and/or measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment;
+- (d) a description of the reasonable alternatives studied by the applicant, which are relevant to the project and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the significant effects of the project on the environment;
+- (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d); and
+- (f) any additional information specified in Schedule 3 relevant to the specific characteristics of the particular project or type of project and to the environmental features likely to be significantly affected.
+
+(3) The environmental statement must—
+
+- (a) be prepared on behalf of the applicant by persons who, in the opinion of the Welsh Ministers, have sufficient expertise to ensure the completeness and quality of the statement;
+- (b) contain a statement by or on behalf of the applicant or appellant describing the expertise of the person who prepared the environmental statement;
+- (c) where a scoping opinion has been issued in accordance with regulation 9, be based on the most recent scoping opinion issued (so far as the project remains materially the same as the project which was the subject of that opinion);
+- (d) include the information reasonably required for reaching a reasoned conclusion on the significant effects of the project on the environment, taking into account current knowledge and methods of assessment; and
+- (e) take into account the available results of other relevant environmental assessments required under retained EU law[^key-213b914acf58736bd0fd11313fad6ec3] or any other provision of domestic legislation, with a view to avoiding duplication of assessment.
+
+(4) After receiving the application for consent, the Welsh Ministers must—
+
+- (a) send a copy of the application to any of the consultation bodies they consider appropriate and inform them that they may make representations within 6 weeks of the date on which they receive the application; and
+- (b) publish in a newspaper circulating in the locality of the relevant land and on the Welsh Government website, a notice—
+  - (i) stating that the application has been made;
+  - (ii) specifying an address at which copies of the application can be inspected free of charge and where copies of the application may be taken (for which a reasonable charge may be made), at all reasonable hours for 6 weeks from the date on which the notice is published;
+  - (iii) stating that representations on the likely environmental effects of the project may be made in writing to the Welsh Ministers at the address specified under paragraph (ii) for a period of 6 weeks beginning with the date on which the notice is published;
+  - (iv) stating that, if consent is granted, it will be subject to the conditions in regulation 17(2) and any other conditions that the Welsh Ministers think fit; and
+  - (v) stating, where relevant, which of the EEA States, the public concerned in the EEA State, and the consultation bodies will be consulted on the application.
+
+### 12. Additional information[^key-0e671f50030a6ed6db362d79501904bb]
+
+(1) If, after complying with regulation 11(4), the Welsh Ministers decide that a statement included with an application for consent, which purports to be an environmental statement, should contain additional information in order to be an environmental statement, the Welsh Ministers must notify the applicant of the additional information required and the applicant must provide the Welsh Ministers with that information within 28 days of being so notified (“additional environmental information”).
+
+(2) The Welsh Ministers must—
+
+- (a) send a copy of the additional environmental information to such of the consultation bodies as they consider appropriate, and
+- (b) inform the consultation bodies that they may make representations within 28 days of the date they receive the additional information.
+
+(3) The Welsh Ministers must publish in a newspaper circulating in the locality of the relevant land and on the Welsh Government website, a notice—
+
+- (a) referring to the application to which the additional environmental information relates and the date on which the application was made;
+- (b) stating that the additional environmental information has been received;
+- (c) specifying an address at which copies of the additional environmental information can be inspected free of charge and where copies of the application may be taken (for which a reasonable charge may be made) at all reasonable hours for 28 days from the date on which the notice is published; and
+- (d) stating that representations in relation to the additional environmental information may be made in writing to the Welsh Ministers at the address specified under sub-paragraph (c) for a period of 28 days beginning with the date on which the notice was published.
+
+### 13. Procedure where a significant project in Wales may affect an EEA State[^key-76b987ecde447ce083071edbc53b4b3a][^key-dc14bcf9f31308c7823becb793cdbe72]
+
+(1) As soon as possible after receiving an application for consent for a significant project, the Welsh Ministers must consider whether that project is also likely to have significant effects on the environment in an[^key-e226d0dde0436d1110aef2e42306c00b] EEA State.
+
+(2) If the Welsh Ministers consider that a project is likely to have significant effects in accordance with paragraph (1), or an EEA State likely to be significantly affected requests, the Welsh Ministers must send to that EEA State—
+
+- (a) details of the nature and location of the significant project;
+- (b) any information the Welsh Ministers have on the impact the project is likely to have on that EEA State;
+- (c) an indication of whether the Welsh Ministers are minded to grant consent for the project and the likely conditions attached to the consent; and
+- (d) a request that the EEA State indicate, within a reasonable timeframe set by the Welsh Ministers, whether it wishes to participate in the procedure under these Regulations.
+
+(3) If an EEA State indicates that it wishes to participate in the procedure under these Regulations, the Welsh Ministers must provide that EEA State with—
+
+- (a) a copy of the application for consent, the environmental statement and any further information they consider relevant to the application; and
+- (b) information on the procedure under these Regulations.
+
+(4) [^key-e224ec39cba24d68085aa739a497e926]... The Welsh Ministers must—
+
+- (a) arrange for the documents and information in paragraphs (2) and (3) to be made available to the authorities which the EEA State has designated to be consulted about the project[^key-3939ea307bd966793e6c8bf6975edc8e] and the public concerned in the territory of the EEA State; and
+- (b) ensure that those authorities and the public concerned are given an opportunity to provide the Welsh Ministers with their opinion on the information and documents supplied, within a reasonable time prior to a decision for consent being taken.
+
+(5) [^key-71b17c482dada0700eb1e5668229532e]... The Welsh Ministers must—
+
+- (a) enter into consultations with the EEA State concerned about, amongst other things, the potential significant effects of the project on the environment of that State and the measures envisaged to reduce or eliminate those effects; and
+- (b) seek to agree with the EEA State concerned, a reasonable timeframe for those consultations, which must include time for consideration of any opinions received under paragraph (4)(b).
+
+### 14. Procedure where a significant project in an EEA State may affect Wales[^key-61d2e1d453836b30884c996bf5d19093][^key-60e0d7cc50d59498e1e76f5902e47e0e]
+
+(1) If the Welsh Ministers receive information from an[^key-95b203640e87b5c7ce2dff9f4d42770d] EEA State made available [^key-9c0344390aeb81b483b995179799713f]... in relation to a significant project in that EEA State, prior to a decision on consent being made, the Welsh Ministers must—
+
+- (a) make that information available, within a reasonable time, to the consultation bodies and members of the public which are likely to be concerned by the project;
+- (b) provide the consultation bodies and members of the public referred to in sub-paragraph (a) with the opportunity to submit their opinion on the information provided within the period agreed under paragraph (2)(b).
+
+(2) [^key-acb5240d441987a2dd2183a89582e8b7]... The Welsh Ministers must—
+
+- (a) enter into a consultation, together with the EEA State concerned, regarding the potential significant effects of the project on the environment in Wales and the measures envisaged to reduce or eliminate those effects; and
+- (b) seek to agree with the EEA State a reasonable period, before a consent decision is made, during which opinions under paragraph (1)(b) can be forwarded to that EEA State.
+
+(3) If an[^key-a41147cf4e11f4935f397ee658d0fef8] EEA State has taken a decision to grant or refuse consent and has informed the Welsh Ministers of that decision, the Welsh Ministers must bring the information received from the EEA State in relation to that decision to the attention of the public.
+
+### 15. The consent decision[^key-0a11407740504503da3cc43fc2d458bb]
+
+(1) When deciding whether to grant consent for a significant project, the Welsh Ministers must consider—
+
+- (a) the environmental statement;
+- (b) any additional environmental information;
+- (c) any representations they receive under—
+  - (i) regulation 11(4)(a);
+  - (ii) regulation 12(2)(b) and (3)(d); or
+  - (iii) regulation 13(4)(b); and
+- (d) any social or economic impacts which might result from a decision to refuse consent for the project.
+
+(2) The Welsh Ministers must not reach their decision under paragraph (1) until the latest of—
+
+- (a) the expiry of the period in the notice under regulation 11(4)(b)(iii);
+- (b) the expiry of the period of 28 days after the date on which any additional environmental information was sent to the consultation bodies in accordance with regulation 12(2)(b);
+- (c) the expiry of the period of 28 days after the date the notice under regulation 12(3) was published; and
+- (d) the expiry of any period agreed with an[^key-48dc0f74ab2fb95484eda18a2520361e] EEA State under regulation 13(5)(b),
+
+whichever is the last to occur.
+
+### 16. Additional requirements relating to the Habitats Regulations[^key-037bc94e02c7836ce0ce62141e2bd6ff]
+
+(1) The Welsh Ministers must not grant consent for a project which would be unlawful under regulations 43, 45 or 47[^key-a268fcf147fc0ef377a413b6929f88f3] of the Habitats Regulations.
+
+(2) But that does not include anything for which a licence has been granted under regulation 55[^key-adc13cb4bec572611424f39ba0217b9e] of the Habitats Regulations.
+
+(3) Paragraphs (4) to (7) apply when the Welsh Ministers are deciding whether to grant consent for a project which is likely to have a significant effect on a European site, whether alone or in combination with another project (referred to in those paragraphs as “the project”).
+
+(4) The Welsh Ministers may only grant consent for a project if they have considered the implications of the project for the European site (including an appropriate assessment of the implications in the view of that site’s conservation objectives) and are satisfied that the project will not adversely affect the integrity of the site, unless paragraph (5) applies.
+
+(5) If the Welsh Ministers are satisfied that the project must be carried out for imperative reasons of overriding public interest (which may be of a social or economic nature, subject to paragraph (6)) and that there is no alternative solution, they may grant consent for the project even though the assessment of its implications for a European site is negative.
+
+(6) If the European site hosts a priority natural habitat type or a priority species, the reasons in paragraph (5) must be either—
+
+- (a) reasons relating to human health, public safety or beneficial consequences or primary importance to the environment, or
+- (b) other reasons which in the opinion of the Welsh Ministers[^key-f2367950c99952ac0f8f1c082c797213] are, in the case of the site concerned, imperative reasons of overriding public interest.
+
+(6A)[^key-06e3bde6e428f2d20f29ce24c35c6019] Before deciding whether the reasons are imperative reasons of overriding public interest, the Welsh Ministers must—
+
+- (a) consult—
+  - (i) the Joint Nature Conservation Committee;
+  - (ii) the Secretary of State and the other devolved administrations;
+  - (iii) any other person they consider appropriate; and
+- (b) have regard to the national interest.
+
+(7) If the Welsh Ministers decide to grant consent for a project in accordance with paragraph (5), they must secure any necessary compensatory measures are taken to ensure that the overall coherence of Natura 2000[^f00022] is protected.
+
+### 17. Conditions of consent[^key-a1b64a9ae05b3e0387e4405a688b1aa7]
+
+(1) Consent granted in accordance with regulation 15 will be subject to—
+
+- (a) the conditions in paragraph (2); and
+- (b) any other conditions the Welsh Ministers consider appropriate.
+
+(2) The conditions required by paragraph (1)(a) are—
+
+- (a) the consent lapses if the project not been commenced within 1 year of the date on which the consent was granted;
+- (b) the consent expires if the project is not completed within 3 years of the date on which the consent was granted; and
+- (c) the consent only authorises the project described in the consent application, subject to any amendments approved by the Welsh Ministers in accordance with paragraph (4).
+
+(3) After the expiry of a consent in accordance with paragraph (2)(b), the Welsh Ministers may require a further application for consent in accordance with paragraph (5) in respect of any further operations or uses forming part of the project.
+
+(4) The Welsh Ministers may approve any amendments to the consent at the request of an applicant, but any material change in the authorised operations or uses requires a further application for consent in accordance with paragraph (5).
+
+(5) Further applications for consent under paragraphs (3) and (4) may be subject to any requirement of these Regulations that the Welsh Ministers consider appropriate.
+
+(6) In this regulation, a project has been—
+
+- “commenced” (“*dechrau*”) when a material act has been carried out in respect of any of the works permitted by the consent; and
+- “completed” (“*wedi ei gwblhau*”) when all works permitted by the consent have been carried out and all changes in use, or the level of use, of the relevant land have been implemented.
+
+### 18. Procedure following a consent decision[^key-09f85501edd1594b52f45d015145abf4]
+
+After the Welsh Ministers have made a consent decision in respect of a project, they must—
+
+- (a) notify the applicant, any consultation body to whom copies of the consent application were sent under regulation 11(4)(a), any EEA State notified under regulation 13(2) and any authority or person who submitted an opinion under regulation 13(4)(b), of—
+  - (i) their decision;
+  - (ii) the reasons for the decision;
+  - (iii) any representations made by the public;
+- (b) publish a notice in a newspaper in the locality where the relevant land is situated or by any other means they consider reasonable in the circumstances; and
+- (c) make a statement available for public inspection that contains—
+  - (i) the decision;
+  - (ii) the reasons for the decision;
+  - (iii) a description of the principal measures that must be taken to avoid, reduce or offset any major adverse effects of the project;
+  - (iv) a summary of any representations made by the public; and
+  - (v) information regarding the right to challenge the decision and procedures for doing so.
+
+### 19. Transborder projects[^key-640c4b097d79e813e707728cbdc0d986]
+
+(1) In the case of a transborder project where the greater part of the relevant land is situated in Wales, the Welsh Ministers must consult the Secretary of State before—
+
+- (a) making a screening decision under regulation 7;
+- (b) providing a scoping opinion under regulation 9; or
+- (c) granting or refusing consent under regulation 15.
+
+(2) In the case of a transborder project where the greater part of the relevant land is situated in England, that project will be subject solely to the Regulations applicable to the project in England, except where an agreement to the contrary has been reached under paragraph (4).
+
+(3) In the case of an application in respect of a transborder project to which these Regulations would otherwise apply, if so requested by the Secretary of State, the Welsh Ministers may agree that the application should be subject solely to the Regulations applicable to the project in England.
+
+(4) If the Welsh Ministers so request, and the Secretary of State agrees, a transborder project to which paragraph (2) would otherwise apply will be subject solely to these Regulations.
+
+### 20. Review of decisions and consents[^key-f63bc5a245f1dd4e0ad154e17e83bec7]
+
+Schedule 4 applies if, after the date of—
+
+- (a) a decision that a project is not a significant project, or
+- (b) a decision to grant consent for a project,
+
+the relevant land becomes a European site and the Welsh Ministers consider that the carrying out or completion (within the meaning of “completed” in regulation 17(6)) of the project would be likely to have a significant effect on that site and would not be directly connected with or necessary for the management of the site.
+
+## PART 4 — Enforcement
+
+### 21. Offence of carrying out a project without a decision under these Regulations[^key-0a029a91c0dd8b8a19992c5b36f1895d]
+
+(1) It is an offence to commence or carry out a project on semi-natural and/or uncultivated land, or a restructuring project, in breach of regulation 4 or 8.
+
+(2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine.
+
+(3) In any proceedings under this regulation which relate to a project on semi-natural and/or uncultivated land, any area of land which the prosecution alleges to be uncultivated or semi-natural land will be assumed to be uncultivated or semi-natural land, in which case the prosecution must prove beyond reasonable doubt that the land is uncultivated or semi-natural land.
+
+### 22. Offence of carrying out work in contravention of a condition[^key-3bbee76a16ed9161fc69f8993ec756b4]
+
+(1) It is an offence to carry out any activity in contravention of a condition of consent granted pursuant to these Regulations.
+
+(2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine.
+
+### 23. Offence of procuring a decision by supplying false information[^key-646fc65cecb1c92561294a5157eebc98]
+
+(1) It is an offence for a person who, for the purpose of procuring a particular decision on an application made under these Regulations—
+
+- (a) knowingly or recklessly makes a statement which is false or misleading in a material particular,
+- (b) with intent to deceive, uses a document that is false or misleading in a material particular, or
+- (c) with intent to deceive, withholds material information.
+
+(2) A person guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+### 24. Stop notices[^key-ce5dd85fd734e5d553c0c9f62abb9714]
+
+(1) If a person has commenced a project on semi-natural and/or uncultivated land or a restructuring project, in breach of regulation 4 or 8, the Welsh Ministers may serve a notice prohibiting all or part of the work with immediate effect (“a stop notice”).
+
+(2) The Welsh Ministers may serve a stop notice on any person who appears to—
+
+- (a) have an interest in the relevant land; or
+- (b) be engaged in a project on semi-natural and/or uncultivated land or a restructuring project, in breach of regulation 4 or 8.
+
+### 25. Penalties for contravention of a stop notice[^key-1a2192aaa5d86a9c6617c07af11c0dee]
+
+(1) It is an offence for a person to contravene, or cause or permit another person to contravene, a stop notice.
+
+(2) A person guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+### 26. Remediation notices[^key-3fd607700bc347a902ec4dd8329332a7]
+
+(1) If a person has carried out a project on semi-natural and/or uncultivated land or a restructuring project, in breach of regulation 4 or 8, the Welsh Ministers may serve a notice on the person who appears to them to be responsible (“a remediation notice”).
+
+(2) A remediation notice may require the person—
+
+- (a) to reinstate, to the Welsh Ministers’ satisfaction, the relevant land to the condition it was in before the project was commenced; or
+- (b) to take such other steps that the Welsh Ministers consider appropriate to return the land to good environmental condition or to a standard the Welsh Ministers consider reasonable in the circumstances.
+
+(3) A remediation notice must state the period within which the requirements of the notice are to be completed.
+
+(4) The Welsh Ministers may, at any time after issuing a remediation notice—
+
+- (a) amend its terms;
+- (b) extend the period under paragraph (3); or
+- (c) terminate it.
+
+### 27. Penalty for contravening a remediation notice[^key-0ffa89e8813b31cd0cd23b9eab162a00]
+
+(1) A person who, without reasonable excuse, fails to comply with a requirement of a remediation notice is guilty of an offence.
+
+(2) A person guilty of an offence under paragraph (1) is liable on summary conviction—
+
+- (a) to a fine; and
+- (b) if the failure to comply continues beyond the date of conviction, a further fine not exceeding £100 for every day the failure continues.
+
+### 28. Time limits for bringing proceedings[^key-824d78ec43a896948cacb062eb5c051e]
+
+(1) Proceedings for an offence under these Regulations may be commenced within the period of 6 months from the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the prosecutor’s knowledge.
+
+(2) But no such proceedings may be commenced by virtue of paragraph (1) more than 2 years after the commission of the offence.
+
+(3) For the purposes of this regulation—
+
+- (a) a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in the prosecutor’s opinion to warrant the proceedings came to the prosecutor’s knowledge is conclusive evidence of that fact; and
+- (b) a certificate stating that matter and purporting to be so signed, is deemed to be so signed unless the contrary is proved.
+
+### 29. Powers of entry and default powers[^key-d54420291740d2bf3445f4f7a42ad600]
+
+(1) A person authorised by the Welsh Ministers may, at any time, enter and inspect any land for the purpose of—
+
+- (a) ascertaining whether regulation 4 or 8 has been breached;
+- (b) ascertaining whether an offence under these Regulations has been committed in connection with that land;
+- (c) serving a stop or remediation notice in respect of that land; or
+- (d) exercising a function listed in Schedule 4.
+
+(2) A person authorised by the Welsh Ministers who has reasonable grounds to suspect that a person has committed an offence under regulation 23 may—
+
+- (a) enter any premises which are, or which are believed to be, occupied by, or in the possession of, the person believed to be responsible for committing an offence; and
+- (b) take copies of any records relevant to the commission of the suspected offence.
+
+(3) But paragraph (2) does not apply to any premises used solely as a private dwelling.
+
+(4) If any measures required by a remediation notice or by notice served under paragraph 5 of Schedule 4 have not been completed within the period specified in the notice—
+
+- (a) a person authorised by the Welsh Ministers may at a reasonable time, enter the land to which the notice relates and complete the measures; and
+- (b) recover all expenses reasonably incurred in doing so from the person named in the notice.
+
+(5) For the purposes of ascertaining whether an offence has been committed on or in connection with the land, a person acting in accordance with paragraph (1) may remove—
+
+- (a) samples of soil;
+- (b) plant specimens; or
+- (c) samples taken from plant specimens.
+
+(6) A person authorised to enter land or premises under this regulation must produce evidence of their authority to enter the land or premises, if requested to do so.
+
+(7) A person authorised to enter land or premises under this regulation may take with them such other persons or equipment as they consider necessary.
+
+(8) A person in occupation or possession of land or premises entered by a person authorised under this regulation must provide such assistance as that authorised person reasonably requests so as to enable them to exercise any power conferred on them by this regulation.
+
+(9) It is an offence for a person to—
+
+- (a) intentionally obstruct or impede a person acting in exercise of a power conferred under this regulation; or
+- (b) fail to comply, without reasonable excuse, with a request made under paragraph (8).
+
+(10) A person guilty of an offence under paragraph (9) is liable on summary conviction to a fine.
+
+## PART 5 — Appeals
+
+### 30. Appeals[^key-e5b972353936df4386d181df74f8dc41]
+
+(1) An appeal to the Welsh Ministers in accordance with this regulation may be made against—
+
+- (a) a relevant notice; or
+- (b) a relevant decision.
+
+(2) An appeal against a relevant notice may be brought on the grounds that—
+
+- (a) the Welsh Ministers did not have the power to serve the relevant notice or to include a condition within the notice;
+- (b) there has been some material irregularity, defect or error in, or in connection with, the relevant notice; or
+- (c) a requirement of the notice is unreasonable.
+
+(3) An appeal against a relevant decision may be brought by a person—
+
+- (a) who applied for a screening decision which the Welsh Ministers have taken, or are deemed to have taken, that a project was a significant project in accordance with regulation 7;
+- (b) who applied for consent for a significant project and which the Welsh Ministers have refused; or
+- (c) who has been notified of a decision under paragraph 3 of Schedule 4.
+
+(4) An appeal brought under paragraph (2) or (3) must—
+
+- (a) be made in writing in the manner and form published by the Welsh Ministers;
+- (b) include details of all the evidence that the appellant intends to rely on; and
+- (c) be received by the Welsh Ministers no later than 28 days after the date on which the Welsh Ministers sent the relevant notice or made the relevant decision to which the appeal relates.
+
+(5) The appellant must state whether they wish the appeal to be considered and determined—
+
+- (a) on the basis of written representations;
+- (b) at an oral hearing; or
+- (c) by a local inquiry.
+
+(6) The Welsh Ministers may appoint a person to exercise on their behalf, with or without payment, their function of determining the appeal or any matter involved in the appeal, and Schedule 5 has effect in relation to such an appointment.
+
+(7) In this Part—
+
+- “appointed person” (“*person penodedig*”) means a person appointed by the Welsh Ministers in accordance with regulation 30(6).
+- “interested parties” (“*partïon â buddiant*”) means—
+  - (a) such of the consultation bodies as the Welsh Ministers consider appropriate;
+  - (b) a person who made representations in respect of a relevant decision;
+  - (c) an EEA State likely to be affected in accordance with regulation 13(1);
+  - (d) an authority or a person who provided their opinion in accordance with regulation 13(4)(b);
+  - (e) any other person who appears to the Welsh Ministers to have a particular interest in the subject matter of the appeal;
+- “relevant decision” (“*penderfyniad perthnasol*”) means a screening decision made under regulation 7, a consent decision made under regulation 15 and a decision made under paragraph 3 of Schedule 4; and
+- “relevant notice” (“*hysbysiad perthnasol*”) means a stop notice, remediation notice or a notice issued under paragraph 5 of Schedule 4.
+
+### 31. Appeal proceedings[^key-e19401b6f3c9dacc10367d6e78f8feec]
+
+(1) If the Welsh Ministers are satisfied that a submitted appeal complies with the requirements of regulation 30 in all material particulars, they must proceed to determine the appeal.
+
+(2) Before determining the appeal the Welsh Ministers must, allowing such time as is reasonable—
+
+- (a) invite the appellant and any interested parties to submit representations and supporting documents in relation to the appeal;
+- (b) send to the interested parties a copy of any representations and supporting documents submitted by the appellant;
+- (c) send to the appellant a copy of any representations and supporting documents submitted by the interested parties;
+- (d) allow the appellant and the interested parties an opportunity to submit comments on each other’s representations and supporting documents to the appointed person.
+
+(3) The Welsh Ministers may at any time request further information from the appellant or the interested parties.
+
+(4) The Welsh Ministers may disregard any representations, comments or documents which have been submitted other than in accordance with the provisions of these Regulations.
+
+(5) If an oral hearing or local inquiry is to be held, the Welsh Ministers must—
+
+- (a) give the appellant and interested parties 6 weeks’ notice of the date, time and place fixed for the hearing or local inquiry and the name of the person appointed to conduct the hearing or local inquiry (or, as applicable, to determine the appeal); and
+- (b) give such notice as they think fit to inform the public not less than 21 days before the date fixed for the hearing or local inquiry.
+
+(6) At an oral hearing or local inquiry the appellant has the right to appear, and the Welsh Ministers may permit an interested party to appear.
+
+(7) On determining an appeal, the Welsh Ministers—
+
+- (a) may affirm, vary or revoke a relevant notice;
+- (b) may uphold or reverse a relevant decision or any part of it;
+- (c) must notify the appellant and any other party to the appeal.
+
+(8) An appeal may be withdrawn by the appellant at any time before it is determined.
+
+(9) Withdrawal of an appeal is to be effected by the appellant giving notice in writing to the Welsh Ministers.
+
+(10) If an appeal is withdrawn, the Welsh Ministers cease to be under a duty to consider and determine it.
+
+(11) Subsections (2) to (5) of section 250 of the Local Government Act 1972[^f00023] (local inquiries, evidence and costs) apply in relation to hearings or local inquiries held in accordance with regulation 33 as they apply to local inquiries under that section, but as if the references to the Minister were references to the Welsh Ministers and with the omission of references to a local authority.
+
+(12) Section 322C of the Town and Country Planning Act 1990[^f00024] (Costs: Wales) applies in relation to an oral hearing or local inquiry under regulation 30 as it applies to a hearing or local inquiry referred to in that section.
+
+### 32. Effect of appeals on notices[^key-b351eab8f179f7d035fdc28645aa60d2]
+
+(1) Where an appeal is brought against a remediation notice, the notice will be of no effect until the Welsh Ministers have determined the appeal in accordance with regulation 31(7).
+
+(2) Where an appeal is brought against a stop notice, all requirements contained within the notice have effect until the Welsh Ministers have determined the appeal in accordance with regulation 31(7).
+
+(3) A determination by the Welsh Ministers to vary a stop notice or remediation notice in accordance with regulation 31(7)(a) only has effect from the date of the notification under regulation 31(7)(c).
+
+### 33. Application to the High Court by a person aggrieved[^key-1d720e60eebd2e03abea8c59dbb3b0af]
+
+(1) A person aggrieved by a decision of the Welsh Ministers that a project is not a significant project or a decision to grant consent for a significant project may make an application to the High Court for an order quashing the decision.
+
+(2) The High Court may quash a decision mentioned in paragraph (1) if it satisfied that—
+
+- (a) the decision is not lawfully made; or
+- (b) the interests of the person who has applied to the court have been substantially prejudiced by a failure to comply with any other requirement of these Regulations.
+
+(3) An application to the High Court under this regulation must be made within 6 weeks of the date the decision is—
+
+- (a) entered in the register in accordance with regulation 7(6)(b); or
+- (b) published accordance with regulation 18(b).
+
+(4) The High Court may be interim order, pending the determination of an application under this regulation, stay the operation of the decision on such terms as it considers appropriate.
+
+## PART 6 — Final provisions
+
+### 34. Amendment to the Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^key-db8e9e869c454882c0f518f89f995fed]
+
+The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^f00025] are amended by substituting paragraph 10 of Schedule 1 with the following—
+
+> **10.** (1) A beneficiary must not commence or carry out a project on semi-natural and/or uncultivated land or a restructuring project in breach of regulation 4 or 8 of the EIA (Agriculture) Regulations.
+>
+> (2) A beneficiary must not breach a stop notice that has been served on him under regulation 24 of the EIA (Agriculture) Regulations.
+>
+> (3) A beneficiary must not, without reasonable excuse, fail to comply with any requirement of a remediation notice served on him under regulation 26 of the EIA (Agriculture) Regulations.
+>
+> (4) In this paragraph, “project on semi-natural and/or uncultivated land” (“*prosiect ar dir lled-naturiol a/neu dir heb ei drin*”) has the meaning given to it by regulation 2(1) of the EIA (Agriculture) Regulations.
+>
+> (5) In this paragraph, “the EIA (Agriculture) Regulations” (“*y Rheoliadau AEA (Amaethyddiaeth)*”) means the Environmental Impact Assessment (Agriculture) (Wales) Regulations 2017.
+
+### 35. Revocation[^key-10e9f140b68cd66cea89d374b514c211]
+
+The Environmental Impact Assessment (Agriculture) (Wales) Regulations 2007[^f00026] are revoked.
+
+### 36. Transitional provisions[^key-1f246eb925d83adcefe7d72e0afd9475]
+
+(1) This regulation provides for the treatment of certain notices served under the Environmental Impact Assessment (Agriculture) (Wales) Regulations 2007 (“the 2007 Regulations”).
+
+(2) Subject to paragraph (4), a stop notice served in accordance with regulation 24 of the 2007 Regulations is to be treated as though it was served in accordance with regulation 24 of these Regulations, and regulations 25, 28 and 29 of these Regulations apply to any enforcement action taken in respect of a breach of the notice.
+
+(3) Subject to paragraph (4), a remediation notice served in accordance with regulation 26 of the 2007 Regulations is to be treated as though it was served in accordance with regulation 26 of these Regulations, and regulations 27 to 29 apply to any enforcement action taken in respect of a breach of the notice.
+
+(4) Nothing in paragraph (2) or (3) affects any appeal brought in accordance with regulation 30(2) of the 2007 Regulations before the coming into force of these Regulations.
+
+Jane Hutt
+
+One of the Welsh Ministers
+
+## SCHEDULE 1 — Thresholds
+
+Regulation 5
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| *Boundary restructuring project* | *4 kilometres* | *2 kilometres* |
+| *Area restructuring project* | *100 hectares* | *50 hectares* |
+| *Volume restructuring project* | *10,000 cubic metres* | *5,000 cubic metres* |
+
+### 1. Interpretation of this Schedule[^key-4ab43173f5a54fe5337d92b955209efb]
+
+In this Schedule—
+
+- “area restructuring project” (“*prosiect ailstrwythuro arwynebedd*”) means a restructuring project which involves an area of land;
+- “boundary restructuring project” (“*prosiect ailstrwythuro terfyn*”) means restructuring project involving the addition or removal of any field boundary (including any wall, fence, bank, ditch or watercourse);
+- “volume restructuring project” (“*prosiect ailstrwythuro cyfaint*”) means a restructuring project involving the addition, removal or redistribution of a volume of earth or other material in relation to land.
+
+## SCHEDULE 2 — Selection criteria for a screening decision
+
+Regulation 7
+
+### 1. Characteristics of projects[^key-24f637fdf995cf6006bdeb0e5a7eb631]
+
+The characteristics of projects, having regard in particular to—
+
+- (a) the size and design of the whole project;
+- (b) cumulation with other existing and/or approved projects;
+- (c) the use of natural resources, in particular land, soil, water and biodiversity;
+- (d) the production of waste;
+- (e) pollution and nuisances;
+- (f) the risk of major accidents and/or disasters which are relevant to the project concerned, including those caused by climate change, in accordance with scientific knowledge; and
+- (g) the risks to human health (for example due to water contamination or air pollution).
+
+### 2. Location of project[^key-32cbea247634c47fe2a7299e49453a4d]
+
+The environmental sensitivity of geographical areas likely to be affected by projects, having regard in particular to—
+
+- (a) the existing and approved land use;
+- (b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water and biodiversity) in the area and its underground; and
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas—
+  - (i) wetlands, riparian areas, river mouths;
+  - (ii) coastal zones and the marine environment;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) areas classified or protected by legislation (including European sites);
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in retained EU law[^key-4043e21ce1aa002153f29e0e4dde9cf8] and relevant to the project, or in which it is considered that there is such a failure;
+  - (vii) densely populated areas; and
+  - (viii) landscapes and sites of historical, cultural or archaeological significance.
+
+### 3. The potential impact[^key-2fb6deb974d4a783de3559cc1db0a6c0]
+
+The likely significant effects of projects on the environment must be considered in relation to criteria set out in paragraphs 1 and 2 of this Schedule, with regard to the impact of the project on the factors specified in paragraph 4(1) of Schedule 3, taking into account—
+
+- (a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+- (b) the nature of the impact;
+- (c) the transboundary nature of the impact;
+- (d) the intensity and complexity of the impact;
+- (e) the probability of the impact;
+- (f) the expected onset, duration, frequency and reversibility of the impact;
+- (g) the cumulation of the impact with the impact of other existing and/or approved projects; and
+- (h) the possibility of effectively reducing the impact.
+
+## SCHEDULE 3 — Information for inclusion in an environmental statement
+
+Regulation 11(2)
+
+**1.**[^key-25d3c93758c53cabda7ac65ffdeb945d] Description of the project, including in particular—
+
+- (a) a description of the location of the project;
+- (b) a description of the physical characteristics of the whole project, including where relevant, requisite demolition works, and the land-use requirements during the construction and operational phases;
+- (c) a description of the main characteristics of the operational phase of the project (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land and biodiversity) used;
+- (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+**2.**[^key-42adc598a50c831c9aa5995002e27b19] A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the applicant, which are relevant to the proposed project and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+**3.**[^key-949789cf72ee71544f00e1b4412d120c] A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of evolution thereof without implementation of the project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+
+**4.**[^key-4544022b096b1762d3b1de2eb3840230] (1) A description of the factors likely to be significantly affected by the proposed project, covering the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the project, including—
+
+- (a) population and human health;
+- (b) biodiversity with specific attention on species protected under EU-derived domestic legislation which transposed[^key-2c290a8a30965b6fb3636fb1ee375f8b] the Habitats Directive and the Birds Directive , as may be amended from time to time[^key-d8ce17bb8e89f7c04ad455239378b0d7];
+- (c) land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air and climate (for example greenhouse gas emissions, impacts relevant to adaptation);
+- (d) material assets, including architectural and archaeological aspects and landscape.
+
+This description should take into account the environmental protection objectives established at European Union level as they were immediately before IP completion day (including in particular those established under the Habitats Directive and the Birds Directive or at national level.[^key-0b7b64b503d9b59373afbcccc54bd81f] .
+
+(2) In this paragraph—
+
+- “the Birds Directive” (“*y Gyfarwyddeb Adar*”) means [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds.
+
+**5.**[^key-fc916447d3920de7353d212db51c3b44] A description of the likely significant effects of the project on the environment resulting from, amongst other things—
+
+- (a) the construction and existence of the project, including where relevant, demolition works;
+- (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+- (c) the emission of pollutants, noise, vibration, light, heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+- (d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+- (e) the cumulation of effects with other existing and/or approved projects, taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+- (f) the impact of the project on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the project to climate change;
+- (g) the technologies and the substances used.
+
+**6.**[^key-cec0cc39c08ba6441611a6a4f3c651da] A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical difficulties or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+
+**7.**[^key-e5fe5f433f5198862e3d21915deb8f9c] A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-project analysis). That description should explain the extent, to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+
+**8.**[^key-a41b2474677ef2399623560f62f3721d] A description of the expected significant effects of the project on the environment deriving from the vulnerability of the project to risks of major accidents and/or disasters which are relevant to the project concerned. Relevant information available and obtained through risk assessments pursuant to retained EU law such as any law which implemented[^key-5434240fba41d1e09d31f626990afb02] [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018)[^f00027] of the European Parliament and of the Council or Council Directive 2009/71/Euratom[^f00028] or relevant assessments carried out pursuant to any other[^key-750ec7046f0824acb92221ca8e8927e2] national legislation may be used for this purpose provided that the requirements of any law which implemented[^key-e1acc09a67aa75b5a36fb6dca9c1278a] the EIA Directive are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+**9.**[^key-a1f6c662b5ea428face7e22212e982ae] A non-technical summary of the information provided under paragraphs 1 to 8 of this Schedule.
+
+**10.**[^key-e19fea3cea45b5124c07237ee2f0ce6b] A reference list detailing the sources used for the descriptions and assessments included in the report.
+
+## SCHEDULE 4 — Review of decisions and consents
+
+Regulation 20
+
+**1.**[^key-f44a1932597c59bda51d90ce7e54728f] As soon as is reasonably practicable, the Welsh Ministers must make an appropriate assessment of the implications of the project for the European site in view of the site’s conservation objectives, in order to determine whether the project permitted by the decision or consent will adversely affect the integrity of the site.
+
+**2.**[^key-d39ce89d90f55cc6711e68854bb49b17] For the purposes of the assessment, the Welsh Ministers may—
+
+- (a) require any person interested in the relevant land to supply them with such information as they reasonably consider necessary; and
+- (b) consult the public, if they consider it necessary.
+
+**3.**[^key-b10ba9d9fc764c722f7f6eabd8c68349] Unless, following the assessment, the Welsh Ministers are satisfied that the project permitted by the decision or consent will not adversely affect the integrity of the European site, and regulation 16(4) does not apply, the Welsh Ministers must—
+
+- (a) in the case of a decision, revoke the decision; and
+- (b) in the case of a consent, either—
+  - (i) revoke the consent; or
+  - (ii) make such modifications to the consent as they consider necessary to ensure that the project with not adversely affect the integrity of the European site,
+
+  and the Welsh Ministers must notify all persons who appear to them to have an interest in the relevant land of their decision (their “further decision”).
+
+**4.**[^key-8184e8343c0b57437646e73e4108f050] A further decision does not affect any works that have already been carried our in relation to a decision or consent, subject to paragraph 5.
+
+**5.**[^key-bc36dcf63c25df88e336e90fd3ee9385] (1) If—
+
+- (a) a project which is subject to a further decision has commenced; and
+- (b) it appears to the Welsh Ministers to be necessary to safeguard the integrity of the European site,
+
+the Welsh Ministers may by notice require the person responsible for carrying out such works, or any person with an interest in the relevant land, to carry out such works of reinstatement as may be reasonable in the circumstances.
+
+(2) A notice under sub-paragraph (1) must state the period during which the works must be carried out.
+
+(3) A person who carries out such reinstatement works is entitled, on making a claim in accordance with paragraph 8, to recover from the Welsh Ministers compensation in respect of any expenses reasonably incurred in carrying out those works.
+
+**6.**[^key-edbb965e7fda9208a37c746e69180e0b] Regulation 30 applies to—
+
+- (a) a further decision made under paragraph 3; and
+- (b) a notice served under paragraph 5.
+
+**7.**[^key-27d58088888aa4897fb3fe619f505d8f] If, following a further decision under paragraph 3, a person has incurred expenditure in carrying our work which is rendered abortive by the further decision, or has otherwise sustained loss or damage which is directly attributable to the further decision, that person is entitled to be paid compensation on submitting a claim in accordance with paragraph 8.
+
+**8.**[^key-711d889496409220741457c0ab29aea6] A claim for compensation payable under paragraph 5(3) or 7 must be—
+
+- (a) submitted to the Welsh Ministers within 6 weeks of the date of the notification of the further decision; and
+- (b) accompanied by such evidence as the Welsh Ministers may reasonably require.
+
+**9.**[^key-4b4b68cf0e2ed27478c2d335992d5adc] A dispute as to the amount of compensation payable under paragraphs 5(3) and 7 may be referred to the Lands Tribunal within 6 years of the date of the notification of the further decision in respect of which compensation is payable.
+
+**10.**[^key-8e50c4f46e85db0e66426b31dec5d12a] Nothing in this Schedule affects anything done in pursuance of a decision or consent before the date the site became a European site.
+
+## SCHEDULE 5 — Delegation of appellate functions
+
+Regulation 30(6)
+
+**1.**[^key-2bb1f00c00a5d9fe62942269a6cec0c4] In this Schedule “appointed person” (“*person penodedig*”) means a person appointed under regulation 30(6) and “appointment” (“*penodiad*”) means an appointment under that regulation.
+
+**2.**[^key-4339051db1c88a4f6f1d2351ec1dcf13] An appointment must be in writing and—
+
+- (a) may relate to any particular appeal or matter specified in the appointment or to appeals or matters of a specified description;
+- (b) may provide for any function to which it relates to be exercisable by the appointed person either unconditionally or subject to the fulfilment of any conditions specified in the appointment; and
+- (c) may, by notice given to the appointed person, be revoked at any time by the Welsh Ministers in respect of any appeal or matter which has not been determined by the appointed person before that time.
+
+**3.**[^key-cb9bc56447713e21165b5f03ee9c31a3] An appointed person has, in relation to any appeal or matter which an appointment relates, the same powers or duties as the Welsh Ministers have under regulations 30 and 31, as the case may be.
+
+**4.**[^key-2d69a93de8feda302ddda5ee4e70534d] If an appointed person holds an oral hearing or a local inquiry in accordance with this Schedule, the Welsh Ministers may appoint an assessor to sit the appointed person to advise them on any matter arising, notwithstanding that the appointed person is to determine the appeal.
+
+**5.**[^key-2887ce7873345f610c1ab855d3eb9541] The costs of an oral hearing or local inquiry held under this Schedule must be met by the Welsh Ministers, subject to regulation 31(11).
+
+**6.**[^key-05d032c46837d29cf8727315a7b48210] After the conclusion of an oral hearing or local inquiry, or having considered written representations, the appointed person must, unless he or she has been appointed to determine the appeal, make a report to the Welsh Ministers which must include—
+
+- (a) a conclusion; and
+- (b) recommendations, or reasons why no recommendations are made.
+
+**7.**[^key-510e79f35c168143714bc380f2a87f73] If the Welsh Ministers are minded to disagree with the recommendation made in the report because they—
+
+- (a) differ from the person making the report on any matter of fact mentioned in, or appearing to them to be material to, a conclusion reached by that person; or
+- (b) takes into consideration new evidence or a new matter of fact,
+
+they must not come to a decision without first giving every person who appeared at the hearing or local inquiry an opportunity to make representations within a reasonable time specified by them.
+
+**8.**[^key-183d6d0b2311f1d059fb9e12647060d1] (1) If the appointment of the appointed person is revoked under paragraph 2(c) in respect of any appeal or matter, the Welsh Ministers must, unless they propose to determine the matter themselves, appoint another person under regulation 30(6) to determine the matter instead.
+
+(2) If a new appointment is made, the consideration of the appeal or matter, or any local inquiry or other hearing in connection with it, must begin afresh.
+
+(3) Nothing in sub-paragraph (2) requires any person to be given an opportunity to make fresh representations or to modify or withdraw any representations already made.
+
+**9.**[^key-2cca2a774f7c1500d08ac04f9f187af0] (1) Anything done or omitted to be done by an appointed person in, or in connection with, the exercise or purported exercise of any function to which the appointment relates is to be treated for all purposes as done or omitted to be done by the Welsh Ministers.
+
+(2) Sub-paragraph (1) does not apply—
+
+- (a) for the purposes of so much of any contract made between the Welsh Ministers and the appointed person as relates to the exercise of the function; or
+- (b) for the purposes of any criminal proceedings brought in respect of anything done or omitted to be done as mentioned in that sub-paragraph.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations primarily implement [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council of 13 December 2011 (OJ L 26, 28.1.2012, p. 1–21) on the assessment of the effects of certain public and private projects on the environment (“the EIA Directive”) in relation to two types of project in paragraph 1 of Annex II to that Directive: projects for the restructuring of rural land holdings and projects for the use of uncultivated land or semi-natural areas for intensive agricultural purposes. They make provision for the amendments to the EIA Directive effected by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052) of the European Parliament and of the Council of 16 April 2014 (OJ L 124, 25.4.2014, p. 1–18).
+
+They also implement Council Directive [1992/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) (OJ L 206, 22.7.1992, p. 7) on the conservation of natural habitats and of wild flora and fauna (“the Habitats Directive”) insofar as those projects affect sites protected by that Directive.
+
+Regulation 3 sets out the types of projects that are excluded from the scope of these Regulations. They include works which are covered by equivalent regulatory regimes for forestry, water management and land drainage projects, the removal of hedgerows, the erection of buildings and fences and other work on common land, and the planning system. It also gives the Welsh Ministers the power to exclude certain projects from the scope of the Regulations in accordance with the EIA and Habitats Directives.
+
+Regulation 4 prohibits any person from commencing or carrying out a project on semi-natural and/or uncultivated land unless that person has obtained a screening decision confirming whether the project is likely to have significant effects on the environment (“a screening decision”). It prohibits the commencement or carrying out of a restructuring project unless either a screening decision has been obtained permitting the project to go ahead, or the extent of the project falls below the threshold applicable to it when calculated in accordance with regulation 5 and Schedule 1.
+
+Regulation 6 sets out what must be included in an application for a screening decision and allows the Welsh Ministers to request additional information if necessary.
+
+Regulation 7 and Schedule 2 set out the factors to be taken into consideration by the Welsh Ministers when making a screening decision as well as the process to be followed. Schedule 2 is based on Annex III to the EIA Directive.
+
+Regulation 8 prohibits a person from commencing or carrying out a project likely to have significant effects on the environment (“a significant project”) without first having obtained consent from the Welsh Ministers.
+
+Regulation 9 sets out the procedure by which the Welsh Ministers can give an applicant for consent an opinion on what information must be provided in an environmental statement (“a scoping opinion”).
+
+Regulation 10 sets out the duties of the consultation bodies from which information is sought in connection with a scoping opinion or an application for consent.
+
+Regulation 11 stipulates that applications for consent must include an environmental statement as well as setting out the contents of the statement (see also Schedule 3) which must be prepared by someone who has sufficient expertise in the relevant field of the project concerned (“a competent expert”). In order to ensure that members of the public concerned are given an opportunity to make representations before the application is determined, a notice must be published detailing the application and how representations may be made. Regulation 12 sets out further procedures relating to additional information required from the applicant for consent.
+
+Regulations 13 and 14 set out the procedures to be followed where a significant project in Wales might affect another EEA State or if a significant project in another EEA State may affect Wales.
+
+Regulations 15 and 16 set out the factors to be taken into consideration when the Welsh Ministers make a consent decision, including the situation where a project is likely to affect a European site, and makes provision for the timing of consent decisions.
+
+Regulation 17 sets out the conditions which a consent will be made subject to and regulation 18 sets out the procedures to be followed once a consent decision has been made.
+
+Regulation 19 makes provision for the treatment of transborder projects.
+
+Regulation 20 and Schedule 4 make specific provision for the situation where, following a grant of consent, the relevant land becomes a European site.
+
+Regulation 21 makes it an offence to commence or carry out a project without obtaining a screening or consent decision. Regulation 22 makes it an offence to breach a condition of consent and regulation 23 makes it an offence to procure a decision by deception or through the supply of false or misleading information or documents.
+
+Regulation 24 empowers the Welsh Ministers to issue “stop notices” prohibiting a person from continuing work commenced without the necessary consent. Regulation 25 makes it an offence to contravene a stop notice.
+
+Regulation 26 empowers the Welsh Ministers to issue “remediation notices” requiring a person who is in breach of the requirement to obtain a screening or consent decision to return the relevant land to the condition it was in prior to the project commencing, good environmental condition or such standard as the Welsh Ministers consider reasonable in the circumstances. Regulation 27 makes it an offence to fail to comply with a requirement of a remediation notice, without reasonable excuse.
+
+Regulation 28 stipulates that prosecutions for offences pursuant to regulations 21, 22, 23, 25 and 27 are to be brought within 6 months of the date on which sufficient evidence comes to the prosecutor’s knowledge. But prosecutions must be brought within 2 years of the date on which the offence is committed.
+
+Regulation 29 provides powers of entry and inspection in connection with enforcement and allows the removal of documents and of plant and soil specimens. It permits the Welsh Ministers to carry out works required by a remediation notice which have not been completed within the required timescales and to recover the associated costs. It requires persons whose land is being entered and inspected to assist authorised persons and makes it an offence to intentionally obstruct, impede, or fail to provide assistance to, an authorised person without reasonable excuse.
+
+Regulation 30 sets out appeal provisions and procedures in respect of relevant notices and decisions. Schedule 5 makes provision for appeals which are conducted by a person appointed by the Welsh Ministers in accordance with regulation 30(6).
+
+Regulation 33 provides a person may make an application to the High Court if they are aggrieved by a decision that a project is not a significant project or a decision granting consent for a project.
+
+Regulation 34 amends the Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014 ([S.I. 2014/3223 (W. 328)](https://www.legislation.gov.uk/wsi/2014/3223)) as a consequence of these Regulations coming into force.
+
+Regulation 35 revokes the Environmental Impact Assessment (Agriculture) (Wales) Regulations 2007 ([S.I. 2007/2933 (W. 253)](https://www.legislation.gov.uk/wsi/2007/2933)) and regulation 36 makes transitional provision in respect of remediation and stop notices served under the revoked regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006.
+
+[^key-020a38eb6c4ccef734bf0a25ef4f510f]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-e74d8e84c3c21a372f5e6d59b5470e55]: Commencement: Reg. 1 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-90e4c08fa532ccc4ca45aeb8c5d3c0b8]: Commencement: Reg. 2 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^f00004]: Footnote: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
+
+[^f00005]: Footnote: OJ No. L 26, 28.1.2012, p. 1–21.
+
+[^f00006]: Footnote: OJ No. L 206, 22.7.1992, p. 7–50.
+
+[^key-201f42c143c3b02ce2f2a2aa183b4114]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/565/regulation/2/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 77(2)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/77/2/a)
+
+[^key-5a01ad79b4848bae22b6af24431c0b7f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/565/regulation/2/1) inserted (7.3.2019) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(2)(c)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/2/c)
+
+[^key-f543b3fdc9e3ab2c05c338c175728cb8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/565/regulation/2/1) inserted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bccf6cfa3ca5ac491d13962ff427a953]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/565/regulation/2/1) inserted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b33707aacf158037f65ce5cb5601fa82]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2017/565/regulation/2/2) omitted (31.12.2020) by virtue of [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6026f36e32a99da99a247b21499defe9]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2017/565/regulation/2/2) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8af72285efa45f8da69bbc62256efc5e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2017/565/regulation/2/2) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00008]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-da3a4c0c181eb4fcbda000190f34081d]: Commencement: Reg. 3 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^f00009]: Footnote: [S.I. 1999/2228](https://www.legislation.gov.uk/uksi/1999/2228).
+
+[^f00010]: Footnote: [S.I. 2017/567 (W. 136)](https://www.legislation.gov.uk/wsi/2017/567).
+
+[^f00011]: Footnote: [S.I. 1999/1783](https://www.legislation.gov.uk/uksi/1999/1783).
+
+[^f00012]: Footnote: [S.I. 2003/164](https://www.legislation.gov.uk/uksi/2003/164).
+
+[^f00013]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).
+
+[^key-5070612090ec150ac9e5969ee11542be]: Textual amendment: [Reg. 3(2)(f)](https://www.legislation.gov.uk/wsi/2017/565/regulation/3/2/f) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Agriculture) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1448)](https://www.legislation.gov.uk/wsi/2020/1448), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1448/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2020/1448/regulation/2)
+
+[^key-f32335cd72a4faddffae502f0d1b1881]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/3/3) omitted (31.12.2020) by virtue of [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(4)(a)(i)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cd05e5cf245f1f4d5b285537245e7379]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/3/3) inserted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d688cdc47970280706bbc458f5604fc8]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/wsi/2017/565/regulation/3/3A)[(3B)](https://www.legislation.gov.uk/wsi/2017/565/regulation/3/3B) inserted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(4)(b)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e3073b7a579b8e929a3dcaf8b3df3469]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/wsi/2017/565/regulation/3/4) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(4)(c)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2d875bf8ccfd60f58bb761ddcb94572f]: Commencement: Reg. 4 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-34708dfb5bfa3cb721f482cb608bc59c]: Commencement: Reg. 5 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^f00015]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). As amended by paragraph 79 of Schedule 11 to the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16) and paragraph 172 of Schedule 2 to the Natural Resources Body for Wales (Functions) Order 2013 ([S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755)).
+
+[^f00016]: Footnote: *See* Command Paper 9424.
+
+[^key-26090419c2c20dfbcb3fb50c69350123]: Textual amendment: Words in [reg. 5(7)(c)](https://www.legislation.gov.uk/wsi/2017/565/regulation/5/7/c) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 77(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/77/3/a)
+
+[^f00018]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Orders designating areas of outstanding natural beauty made before the coming into force of section 82 of the Countryside and Rights of Way Act 2000 are treated as having been made under section 82 by virtue of paragraph 16 of Schedule 15 to that Act.
+
+[^f00019]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97). Relevant amendments were made by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 10, paragraph 2, the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), Part 5, section 59(1) and Schedule 11 paragraph 10(a) and the Natural Resources Body for Wales (Functions) Order 2013 ([S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755)), Schedule 2, paragraph 16.
+
+[^key-59726ea472176c41265d9809da886582]: Textual amendment: [Reg. 5(7)(f)](https://www.legislation.gov.uk/wsi/2017/565/regulation/5/7/f) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [110](https://www.legislation.gov.uk/wsi/2024/924/regulation/110)
+
+[^key-48c93337018f6878f28e8d5120f41ce1]: Commencement: Reg. 6 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-d62b00f83aaf887b1141154e45562d5f]: Commencement: Reg. 7 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-8895a7834146623f1a8fdfb1aaec78d9]: Commencement: Reg. 8 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-eb211bb8119d3457feef5746713daa0d]: Commencement: Reg. 9 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-e40cc8c1bcad768ff0bd374b72b2138b]: Commencement: Reg. 10 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^f00021]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391).
+
+[^key-9af4056927152f20594d8996bce2f481]: Commencement: Reg. 11 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-213b914acf58736bd0fd11313fad6ec3]: Textual amendment: Words in [reg. 11(3)(e)](https://www.legislation.gov.uk/wsi/2017/565/regulation/11/3/e) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(5)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0e671f50030a6ed6db362d79501904bb]: Commencement: Reg. 12 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-76b987ecde447ce083071edbc53b4b3a]: Commencement: Reg. 13 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-dc14bcf9f31308c7823becb793cdbe72]: Textual amendment: Word in [reg. 13](https://www.legislation.gov.uk/wsi/2017/565/regulation/13) heading substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(6)(a)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e226d0dde0436d1110aef2e42306c00b]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/wsi/2017/565/regulation/13/1) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(6)(a)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e224ec39cba24d68085aa739a497e926]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/wsi/2017/565/regulation/13/4) omitted (31.12.2020) by virtue of [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(6)(b)(i)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3939ea307bd966793e6c8bf6975edc8e]: Textual amendment: Words in [reg. 13(4)(a)](https://www.legislation.gov.uk/wsi/2017/565/regulation/13/4/a) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(6)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-71b17c482dada0700eb1e5668229532e]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/wsi/2017/565/regulation/13/5) omitted (31.12.2020) by virtue of [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(6)(c)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-61d2e1d453836b30884c996bf5d19093]: Commencement: Reg. 14 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-60e0d7cc50d59498e1e76f5902e47e0e]: Textual amendment: Word in [reg. 14](https://www.legislation.gov.uk/wsi/2017/565/regulation/14) heading substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(7)(a)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-95b203640e87b5c7ce2dff9f4d42770d]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/wsi/2017/565/regulation/14/1) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(7)(a)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9c0344390aeb81b483b995179799713f]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/wsi/2017/565/regulation/14/1) omitted (31.12.2020) by virtue of [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(7)(b)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-acb5240d441987a2dd2183a89582e8b7]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/wsi/2017/565/regulation/14/2) omitted (31.12.2020) by virtue of [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(7)(c)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a41147cf4e11f4935f397ee658d0fef8]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/14/3) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(7)(a)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0a11407740504503da3cc43fc2d458bb]: Commencement: Reg. 15 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-48dc0f74ab2fb95484eda18a2520361e]: Textual amendment: Word in [reg. 15(2)(d)](https://www.legislation.gov.uk/wsi/2017/565/regulation/15/2/d) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(8)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-037bc94e02c7836ce0ce62141e2bd6ff]: Commencement: Reg. 16 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-a268fcf147fc0ef377a413b6929f88f3]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/wsi/2017/565/regulation/16/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 77(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/77/4/a/i)
+
+[^key-adc13cb4bec572611424f39ba0217b9e]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/wsi/2017/565/regulation/16/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 77(4)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/77/4/b/i)
+
+[^key-f2367950c99952ac0f8f1c082c797213]: Textual amendment: Words in [reg. 16(6)(b)](https://www.legislation.gov.uk/wsi/2017/565/regulation/16/6/b) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(9)(a)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-06e3bde6e428f2d20f29ce24c35c6019]: Textual amendment: [Reg. 16(6A)](https://www.legislation.gov.uk/wsi/2017/565/regulation/16/6A) inserted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(9)(b)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00022]: Footnote: *See* regulation 3(1) of the Habitats Regulations for the definition of “Natura 2000”.
+
+[^key-a1b64a9ae05b3e0387e4405a688b1aa7]: Commencement: Reg. 17 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-09f85501edd1594b52f45d015145abf4]: Commencement: Reg. 18 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-640c4b097d79e813e707728cbdc0d986]: Commencement: Reg. 19 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-f63bc5a245f1dd4e0ad154e17e83bec7]: Commencement: Reg. 20 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-0a029a91c0dd8b8a19992c5b36f1895d]: Commencement: Reg. 21 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-3bbee76a16ed9161fc69f8993ec756b4]: Commencement: Reg. 22 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-646fc65cecb1c92561294a5157eebc98]: Commencement: Reg. 23 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-ce5dd85fd734e5d553c0c9f62abb9714]: Commencement: Reg. 24 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-1a2192aaa5d86a9c6617c07af11c0dee]: Commencement: Reg. 25 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-3fd607700bc347a902ec4dd8329332a7]: Commencement: Reg. 26 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-0ffa89e8813b31cd0cd23b9eab162a00]: Commencement: Reg. 27 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-824d78ec43a896948cacb062eb5c051e]: Commencement: Reg. 28 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-d54420291740d2bf3445f4f7a42ad600]: Commencement: Reg. 29 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-e5b972353936df4386d181df74f8dc41]: Commencement: Reg. 30 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-e19401b6f3c9dacc10367d6e78f8feec]: Commencement: Reg. 31 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^f00023]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70) .
+
+[^f00024]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). As amended by section 49 of the [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4).
+
+[^key-b351eab8f179f7d035fdc28645aa60d2]: Commencement: Reg. 32 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-1d720e60eebd2e03abea8c59dbb3b0af]: Commencement: Reg. 33 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-db8e9e869c454882c0f518f89f995fed]: Commencement: Reg. 34 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^f00025]: Footnote: [S.I. 2014/3223 (W. 328)](https://www.legislation.gov.uk/wsi/2014/3223).
+
+[^key-10e9f140b68cd66cea89d374b514c211]: Commencement: Reg. 35 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^f00026]: Footnote: [S.I. 2007/2933 (W. 253)](https://www.legislation.gov.uk/wsi/2007/2933).
+
+[^key-1f246eb925d83adcefe7d72e0afd9475]: Commencement: Reg. 36 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-4ab43173f5a54fe5337d92b955209efb]: Commencement: Sch. 1 para. 1 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-24f637fdf995cf6006bdeb0e5a7eb631]: Commencement: Sch. 2 para. 1 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-32cbea247634c47fe2a7299e49453a4d]: Commencement: Sch. 2 para. 2 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-4043e21ce1aa002153f29e0e4dde9cf8]: Textual amendment: Words in [Sch. 2 para. 2(c)(vi)](https://www.legislation.gov.uk/wsi/2017/565/schedule/2/paragraph/2/c/vi) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(10)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2fb6deb974d4a783de3559cc1db0a6c0]: Commencement: Sch. 2 para. 3 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-25d3c93758c53cabda7ac65ffdeb945d]: Commencement: Sch. 3 para. 1 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-42adc598a50c831c9aa5995002e27b19]: Commencement: Sch. 3 para. 2 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-949789cf72ee71544f00e1b4412d120c]: Commencement: Sch. 3 para. 3 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-4544022b096b1762d3b1de2eb3840230]: Commencement: Sch. 3 para. 4 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-2c290a8a30965b6fb3636fb1ee375f8b]: Textual amendment: Words in [Sch. 3 para. 4(1)(b)](https://www.legislation.gov.uk/wsi/2017/565/schedule/3/paragraph/4/1/b) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(11)(a)(i)(aa)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/11/a/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d8ce17bb8e89f7c04ad455239378b0d7]: Textual amendment: Words in [Sch. 3 para. 4(1)(b)](https://www.legislation.gov.uk/wsi/2017/565/schedule/3/paragraph/4/1/b) inserted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(11)(a)(i)(bb)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/11/a/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0b7b64b503d9b59373afbcccc54bd81f]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/wsi/2017/565/schedule/3/paragraph/4/1) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/uksi/2019/245), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2019/245/regulation/1/2/3), [5(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/245/regulation/5/11/a/ii) (as amended by [S.I. 2020/1324](https://www.legislation.gov.uk/uksi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1324/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1324/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fc916447d3920de7353d212db51c3b44]: Commencement: Sch. 3 para. 5 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-cec0cc39c08ba6441611a6a4f3c651da]: Commencement: Sch. 3 para. 6 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-e5fe5f433f5198862e3d21915deb8f9c]: Commencement: Sch. 3 para. 7 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-a41b2474677ef2399623560f62f3721d]: Commencement: Sch. 3 para. 8 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-5434240fba41d1e09d31f626990afb02]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2017/565/schedule/3/paragraph/8) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(11)(b)(i)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/11/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00027]: Footnote: [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council [Directive 96/82/EU](https://www.legislation.gov.uk/european/directive/1996/0082).
+
+[^f00028]: Footnote: Council Directive 2009/71/Euratom of 25 June 2009 establishing a Community framework for the nuclear safety of nuclear installations.
+
+[^key-750ec7046f0824acb92221ca8e8927e2]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2017/565/schedule/3/paragraph/8) inserted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(11)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/11/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e1acc09a67aa75b5a36fb6dca9c1278a]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2017/565/schedule/3/paragraph/8) inserted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [5(11)(b)(iii)](https://www.legislation.gov.uk/wsi/2019/245/regulation/5/11/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a1f6c662b5ea428face7e22212e982ae]: Commencement: Sch. 3 para. 9 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-e19fea3cea45b5124c07237ee2f0ce6b]: Commencement: Sch. 3 para. 10 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-f44a1932597c59bda51d90ce7e54728f]: Commencement: Sch. 4 para. 1 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-d39ce89d90f55cc6711e68854bb49b17]: Commencement: Sch. 4 para. 2 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-b10ba9d9fc764c722f7f6eabd8c68349]: Commencement: Sch. 4 para. 3 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-8184e8343c0b57437646e73e4108f050]: Commencement: Sch. 4 para. 4 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-bc36dcf63c25df88e336e90fd3ee9385]: Commencement: Sch. 4 para. 5 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-edbb965e7fda9208a37c746e69180e0b]: Commencement: Sch. 4 para. 6 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-27d58088888aa4897fb3fe619f505d8f]: Commencement: Sch. 4 para. 7 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-711d889496409220741457c0ab29aea6]: Commencement: Sch. 4 para. 8 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-4b4b68cf0e2ed27478c2d335992d5adc]: Commencement: Sch. 4 para. 9 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-8e50c4f46e85db0e66426b31dec5d12a]: Commencement: Sch. 4 para. 10 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-2bb1f00c00a5d9fe62942269a6cec0c4]: Commencement: Sch. 5 para. 1 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-4339051db1c88a4f6f1d2351ec1dcf13]: Commencement: Sch. 5 para. 2 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-cb9bc56447713e21165b5f03ee9c31a3]: Commencement: Sch. 5 para. 3 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-2d69a93de8feda302ddda5ee4e70534d]: Commencement: Sch. 5 para. 4 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-2887ce7873345f610c1ab855d3eb9541]: Commencement: Sch. 5 para. 5 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-05d032c46837d29cf8727315a7b48210]: Commencement: Sch. 5 para. 6 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-510e79f35c168143714bc380f2a87f73]: Commencement: Sch. 5 para. 7 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-183d6d0b2311f1d059fb9e12647060d1]: Commencement: Sch. 5 para. 8 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)
+
+[^key-2cca2a774f7c1500d08ac04f9f187af0]: Commencement: Sch. 5 para. 9 in force at 16.5.2017, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/565/regulation/1/3)

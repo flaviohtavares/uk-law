@@ -1,0 +1,316 @@
+---
+title: Abolition of the Right to Buy and Associated Rights (Wales) Act 2018
+id: anaw/2018/1
+type: WelshNationalAssemblyAct
+category: primary
+status: revised
+made_date: '2018-01-24'
+text_date: '2019-01-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2018/1
+pdf_urls:
+- http://www.legislation.gov.uk/anaw/2018/1/pdfs/anawen_20180001_mi.pdf
+- http://www.legislation.gov.uk/anaw/2018/1/pdfs/anawen_20180001_en.pdf
+- http://www.legislation.gov.uk/anaw/2018/1/pdfs/anawen_20180001_we.pdf
+- http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_en.pdf
+- http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_we.pdf
+- http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_mi.pdf
+- http://www.legislation.gov.uk/anaw/2018/1/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Abolition of the Right to Buy and Associated Rights (Wales) Act 2018
+
+> Text as at 2019-01-26.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Abolition of the Right to Buy and Associated Rights (Wales) Act 2018
+
+2018 anaw 1
+
+An Act of the National Assembly for Wales to make provision for the abolition of the right to buy, the right to acquire and associated rights; and for connected purposes.
+
+\[24 January 2018\]
+
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
+
+## 1. Overview
+
+(1) This section gives an overview of the main provisions of this Act.
+
+(2) Section 2 restricts the exercise of the right to buy pending its abolition (for which see section 6); and section 3 provides for exceptions to that restriction.
+
+(3) Section 4 restricts the exercise of the right to acquire pending its abolition (for which see section 6); and section 5 provides for an exception to that restriction.
+
+(4) Section 6 provides for the right to buy and the right to acquire to cease to exist in Wales.
+
+(5) Section 7 removes the Welsh Ministers' power to make grants to registered social landlords, and private registered providers of social housing, in respect of discounts given to tenants who purchase their dwellings.
+
+(6) Section 8—
+
+- (a) requires the Welsh Ministers to provide landlords and other interested persons with information about changes to the law made by this Act, and
+- (b) requires landlords to inform their tenants about those changes.
+
+(7) Sections 9, 10, 11 and 12 contain general provisions about the Act; the effect of section 11 is that—
+
+- (a) section 8 (provision of information) comes into force on Royal Assent,
+- (b) sections 2 to 5 (restricting the exercise of rights) come into force two months after Royal Assent, and
+- (c) sections 6 and 7 (abolition of rights etc.) may be brought into force by an order made by statutory instrument no earlier than twelve months after Royal Assent.
+
+## Restriction on exercising the right to buy and the right to acquire
+
+### 2. Restriction on exercising the right to buy[^key-891d1b1b7684d31298bdec048d2a4558]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Exceptions to the restriction on exercising the right to buy[^key-fc9d83a058378da067e20d43e62ed702]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Restriction on exercising the right to acquire[^key-6e25cf2bf372c66f448bd83fdde3b38b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Exception to the restriction on exercising the right to acquire[^key-f4c94562a22bb68da797bc37504b416e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Abolition of the right to buy and the right to acquire
+
+### 6. Abolition of the right to buy and the right to acquire[^key-308dd166b072ff0e7c8cd0bc126f5e82]
+
+(1) The following rights no longer exist in relation to dwellings in Wales—
+
+- (a) the right to acquire the freehold of a dwelling-house, or to be granted a lease of a dwelling-house, pursuant to Part 5 of the Housing Act 1985 (c. 68) (the right to buy);
+- (b) the right to acquire a dwelling pursuant to section 16 of the Housing Act 1996 (c. 52) (the right to acquire).
+
+(2) Accordingly, the following enactments are repealed—
+
+- (a) sections 2 and 3 of this Act (restriction on exercising the right to buy etc.), and sections 121ZA, 121ZB and 171B(7) of the Housing Act 1985 (inserted by sections 2 and 3 of this Act);
+- (b) sections 4 and 5 of this Act (restriction on exercising the right to acquire etc.), and sections 16B, 16C and 21(2A) of the Housing Act 1996 (inserted by sections 4 and 5 of this Act);
+- (c) section 8 of this Act.
+
+(3) Schedule 1 (which makes consequential amendments and repeals) has effect.
+
+## Discount grants
+
+### 7. Removal of power to make grants in respect of discounts[^key-1a51f4812a190b4a378992345d7da476]
+
+(1) The Housing Act 1996 (c. 52) is amended as follows.
+
+(2) Section 21 (purchase grant by Welsh Ministers in respect of discounts on disposals of dwellings otherwise than in pursuance of the right to acquire) is repealed.
+
+## Duty to provide tenants and prospective tenants with information
+
+### 8. Information for tenants and prospective tenants[^key-2913288f09d5d29e2ed6a6402b70feda]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## General
+
+### 9. Power by regulations to make consequential amendments etc.
+
+The Welsh Ministers may, by regulations, make any supplemental, incidental, consequential, transitory, transitional or saving provision they consider necessary or expedient in consequence of, or for the purpose of giving full effect to, any provision of this Act or any provision made under this Act (whether as a consequence of any provision made in or under the Renting Homes (Wales) Act 2016 (anaw 1) or otherwise).
+
+### 10. Further provision about regulations under section 9
+
+(1) The power in section 9 to make regulations is exercisable by statutory instrument.
+
+(2) Regulations under section 9 may amend, repeal, revoke or modify any enactment (including a provision of this Act).
+
+(3) If this subsection applies, regulations under section 9 may not be made unless a draft of the statutory instrument containing the regulations has been laid before and approved by a resolution of the National Assembly for Wales.
+
+(4) Subsection (3) applies where regulations under section 9 amend, modify or repeal any provision of an Act of Parliament or a Measure or Act of the National Assembly for Wales, whether or not the statutory instrument contains any other regulations.
+
+(5) Where subsection (3) does not apply, regulations under section 9 are subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+### 11. Coming into force
+
+(1) This section and sections 1, 8, 9, 10 and 12 come into force on the day on which this Act receives Royal Assent.
+
+(2) Sections 2 to 5 come into force at the end of the period of 2 months beginning with the day on which this Act receives Royal Assent.
+
+(3) Sections 6 and 7 come into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
+
+(4) But the Welsh Ministers may not appoint a day for any of sections 6 or 7 to come into force which is before the end of the period of 12 months beginning with the day on which this Act receives Royal Assent.
+
+(5) An order under this section may make transitory, transitional or saving provision in connection with the coming into force of any provisions of this Act.
+
+### 12. Short title
+
+The short title of this Act is the Abolition of the Right to Buy and Associated Rights (Wales) Act 2018.
+
+## SCHEDULE 1 — CONSEQUENTIAL AMENDMENTS AND REPEALS
+
+(introduced by section 6(3))
+
+### Finance Act 1981 (c. 35)
+
+**1.**[^key-e5177161bb8b5aef691f9edb26a4644c] (1) The Finance Act 1981 is amended as follows.
+
+(2) In section 107 (sale of houses at discount by local authorities), omit subsection (3C).
+
+### Housing Act 1988 (c. 50)
+
+**2.**[^key-8a4950249c0c5aa71452e61f9322ea33] (1) The Housing Act 1988 is amended as follows.
+
+(2) In section 81 (consent required for certain subsequent disposals), in subsection (8), in paragraph (ab), omit the words from “or Part I” to the end of the paragraph.
+
+### Housing Act 1996 (c. 52)
+
+**3.**[^key-5e1a664a787e8a61f129f295ed9a193a] (1) The Housing Act 1996 is amended as follows.
+
+(2) In section 10 (lettings and other disposals not requiring consent of Welsh Ministers), omit subsection (3).
+
+(3) Section 16 (right of tenant to acquire dwelling) is repealed.
+
+(4) Section 16A (extension of the right to acquire to dwellings funded by grants under section 27A) is repealed.
+
+(5) Section 17 (right of tenant to acquire dwelling: supplementary provisions) is repealed.
+
+(6) Section 20 (purchase grant where right to acquire is exercised) is repealed.
+
+(7) In section 24 (the disposal proceeds fund), in subsection (2)—
+
+- (a) in paragraph (a)(i), omit “section 16 above or”;
+- (b) omit paragraph (b);
+- (c) in paragraph (c), omit “(b) or”.
+
+### Finance Act 2003 (c. 14)
+
+**4.**[^key-8ed477f99a080ca8d62ae9500f24825a] (1) The Finance Act 2003 is amended as follows.
+
+(2) In Schedule 9 (stamp duty land tax: right to buy, shared ownership leases etc.), in paragraph 1 (right to buy transactions), omit sub-paragraph (5).
+
+### Housing Act 2004 (c. 34)
+
+**5.**[^key-1c2c90e599da00faa9a7a7462beda4c2] (1) The Housing Act 2004 is amended as follows.
+
+(2) In section 192 (right to buy: suspension by court order), in subsection (3), for paragraph (b) substitute—
+
+> - (b) section 184 of the Housing and Regeneration Act 2008 (c. 17) (application of that Part in relation to the right to acquire a dwelling in England),
+
+.
+
+(3) In section 194 (disclosure of information as to orders etc. in respect of anti-social behaviour), in subsection (4), for paragraph (b) substitute—
+
+> - (b) section 184 of the Housing and Regeneration Act 2008 (c. 17) (application of that Part in relation to the right to acquire a dwelling in England),
+
+.
+
+(4) Section 202 (right of assured tenant to acquire dwelling not affected by collective enfranchisement) is repealed.
+
+(5) Section 221 (extension of right to acquire) is repealed.
+
+(6) In Schedule 11 (registered social landlords), omit paragraphs 9 and 10.
+
+### Housing and Regeneration Act 2008 (c. 17)
+
+**6.**[^key-ca15be65056d33949e111ef2533c61d6] (1) The Housing and Regeneration Act 2008 is amended as follows.
+
+(2) In section 62 (reference to Welsh Ministers), in the table, in the first column omit the reference to section 17(1), (2)(b), (5)(b) and (6), and in the second column omit the corresponding entry.
+
+(3) In section 63 (reference to National Assembly for Wales), in the table, in the first column omit the reference to section 17(7), and in the second column omit the corresponding entry.
+
+(4) In section 149 (exempted disposals), in subsection (8), omit paragraph (b) (and the “or” that precedes it).
+
+(5) In section 181 (interpretation of “publicly funded”), in subsection (6), in paragraph (b), for “under section 16(4) of that Act” substitute “ by the Welsh Ministers ”.
+
+(6) In section 184 (right to acquire: supplemental), for subsections (1) and (2) substitute—
+
+> (1) The Secretary of State may by order—
+>
+> - (a) specify the amount or rate of discount to be given on the exercise of the right conferred by section 180, and
+> - (b) designate rural areas in relation to dwellings in which the right conferred by that section does not arise.
+>
+> (2) The provisions of Part 5 of the Housing Act 1985 apply in relation to the right to acquire under section 180—
+>
+> - (a) subject to any order under subsection (1) above, and
+> - (b) subject to such other exceptions, adaptations and other modifications as may be specified by regulations made by the Secretary of State.
+>
+> (3) The regulations may provide—
+>
+> - (a) that the powers of the Secretary of State under sections 164 to 170 of that Act (powers to intervene, give directions or assist) do not apply,
+> - (b) that paragraphs 1 and 3 (exceptions for charities and certain housing associations), and paragraph 11 (right of appeal to Secretary of State), of Schedule 5 to that Act do not apply,
+> - (c) that the provisions of Part 5 of that Act relating to the right to acquire on rent to mortgage terms do not apply,
+> - (d) that the provisions of that Part relating to restrictions on disposals in National Parks etc. do not apply, and
+> - (e) that the provisions of that Part relating to the preserved right to buy do not apply.
+>
+> Nothing in this subsection affects the generality of the power conferred by subsection (2).
+>
+> (4) The specified exceptions, adaptations and other modifications shall take the form of textual amendments of the provisions of Part 5 of that Act as they apply in relation to the right to buy under that Part; and any consolidating regulations shall set out the provisions of Part 5 as they so apply.
+>
+> (5) Before making an order which would have the effect that an area ceased to be designated under subsection (1)(b), the Secretary of State shall consult—
+>
+> - (a) the local housing authority or authorities in whose district the area or any part of it is situated or, if the order is general in its effect, local housing authorities in general, and
+> - (b) such bodies appearing to the Secretary of State to be representative of private registered providers as the Secretary of State considers appropriate.
+>
+> (6) Regulations made under this section are consolidating regulations if they are made for the purposes of consolidating other regulations that are being revoked in the instrument containing the consolidating regulations.
+
+(7) Section 185 (right to acquire: consequential amendments) is repealed.
+
+(8) In section 320 (orders and regulations), in subsection (7), after paragraph (a), insert—
+
+> - (aa) an order or regulations of the Secretary of State under section 184,
+
+.
+
+### Housing (Wales) Measure 2011 (nawm 5)
+
+**7.**[^key-4d8149e8a5c3de57f52bd0f3da7d7c29] (1) The Housing (Wales) Measure 2011 is amended as follows.
+
+(2) Part 1 is repealed.
+
+(3) In section 89 (orders), omit subsections (2) to (4).
+
+### Prevention of Social Housing Fraud Act 2013 (c. 3)
+
+**8.**[^key-ae8c64a1fcd098886b7d463945a8f499] (1) The Prevention of Social Housing Fraud Act 2013 is amended as follows.
+
+(2) In section 7 (regulations about powers to require information), in subsection (7), in paragraph (e)(ii), after “under section 16 of the Housing Act 1996”, insert “ before the repeal of that section by the Abolition of the Right to Buy and Associated Rights (Wales) Act 2017 came into force ”.
+
+### Renting Homes (Wales) Act 2016 (anaw 1)
+
+**9.**[^key-def6267a55247bcdad3be7857df8a8a2] (1) The Renting Homes (Wales) Act 2016 is amended as follows.
+
+(2) In Schedule 2, in paragraph 8 (meaning of “long tenancy”), in sub-paragraph (1)(c), for “as it has effect” substitute “ as that Part had effect ”.
+
+## Annotations
+
+[^key-891d1b1b7684d31298bdec048d2a4558]: Textual amendment: [S. 2](https://www.legislation.gov.uk/anaw/2018/1/section/2) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(a)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/a), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+
+[^key-fc9d83a058378da067e20d43e62ed702]: Textual amendment: [S. 3](https://www.legislation.gov.uk/anaw/2018/1/section/3) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(a)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/a), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+
+[^key-6e25cf2bf372c66f448bd83fdde3b38b]: Textual amendment: [S. 4](https://www.legislation.gov.uk/anaw/2018/1/section/4) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(b)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/b), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+
+[^key-f4c94562a22bb68da797bc37504b416e]: Textual amendment: [S. 5](https://www.legislation.gov.uk/anaw/2018/1/section/5) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(b)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/b), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+
+[^key-308dd166b072ff0e7c8cd0bc126f5e82]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2018/1/section/6) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+
+[^key-1a51f4812a190b4a378992345d7da476]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2018/1/section/7) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2018/100/article/4))
+
+[^key-2913288f09d5d29e2ed6a6402b70feda]: Textual amendment: [S. 8](https://www.legislation.gov.uk/anaw/2018/1/section/8) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(c)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/c), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+
+[^key-e5177161bb8b5aef691f9edb26a4644c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/1) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+
+[^key-8a4950249c0c5aa71452e61f9322ea33]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/2) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+
+[^key-5e1a664a787e8a61f129f295ed9a193a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+
+[^key-8ed477f99a080ca8d62ae9500f24825a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/4) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+
+[^key-1c2c90e599da00faa9a7a7462beda4c2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+
+[^key-ca15be65056d33949e111ef2533c61d6]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+
+[^key-4d8149e8a5c3de57f52bd0f3da7d7c29]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+
+[^key-ae8c64a1fcd098886b7d463945a8f499]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/8) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+
+[^key-def6267a55247bcdad3be7857df8a8a2]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))

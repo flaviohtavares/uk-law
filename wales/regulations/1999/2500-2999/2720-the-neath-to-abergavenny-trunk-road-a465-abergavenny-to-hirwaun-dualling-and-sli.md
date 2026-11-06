@@ -1,0 +1,355 @@
+---
+title: The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999
+id: wsi/1999/2720
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-09-21'
+text_date: '2021-02-18'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/1999/2720
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/1999/2720/pdfs/wsi_19992720_mi.pdf
+- http://www.legislation.gov.uk/wsi/1999/2720/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999
+
+> Text as at 2021-02-18.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1999 No.2720 (W.9)
+
+HIGHWAYS, ENGLAND AND WALES
+
+The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999
+
+Made
+
+21 September 1999
+
+Coming into force
+
+8 October 1999
+
+The National Assembly for Wales makes this Order in exercise of powers conferred by sections 10, 12, 41 and 106 of the Highways Act 1980[^f00001], and of all other enabling powers:
+
+**1.**[^key-98899543e0c80e424c669b023c29964a] The new highways which the National Assembly proposes to construct —
+
+- (a) along the routes described in Schedule 1 to this Order (the highways along the routes being in this Order referred to as “the main new trunk road”); and
+- (b) along the routes described in Schedule 2 to this Order which connect the main new trunk road with other highways at the places stated in that Schedule (the highways along these routes being in the Order referred to as “the slip roads”); and
+- (c) along the routes described in Schedule 3 to this Order which connect the main new highway and the slip roads with other trunk roads stated in that Schedule (the highways along these routes being in the Order referred to as “the new connecting trunk roads”)
+
+shall become trunk roads as from the date when this Order comes into force.
+
+**2.**[^key-bf27cb6fdff3d7caa39dbe4e1af486e2] The centre lines of the new trunk roads are indicated by heavy black lines and the associated side roads proposals are indicated by broken white lines on the deposited plan.
+
+**3.**[^key-28ba9097f6ce97c0423b6affd3563406] The National Assembly directs as respects any part of a highway which crosses the route of any of the new trunk roads that —
+
+- (a) where the highway is maintainable at public expense by a local highway authority, the part in question shall be maintained by that authority; and
+- (b) where the highway is not a highway so maintainable and is not maintainable under a special enactment or by reason of tenure, enclosure or prescription, the National Assembly shall be under no duty to maintain the part in question,
+
+until, in either case, a date to be specified in a notice given by the National Assembly to the highway authority for that highway. The date specified will not be later than the date on which the relevant route is opened for the purpose of through traffic.
+
+**4.**[^key-bcb573679a85df299638867b0c43c112] The lengths of trunk road described in Schedule 4 to this Order and shown by broad striped hatching on the deposited plan shall cease to be trunk roads and shall be classified as shown in that Schedule as from the date on which the National Assembly notifies the County Councils of Rhondda Cynon Taff and Blaenau Gwent that the new trunk roads are open for through traffic.
+
+**5.**[^key-862b5d3f98c831a06451e1be115c0ddf] The National Assembly is authorised to construct the bridge specified in Schedule 5 to this Order as part of the main new trunk road over the navigable watercourse specified in that Schedule.
+
+**6.**[^key-f7d9f97be2a7833a086f63de8fbd387f] In this Order:
+
+(1) All measurements of distance are measured along the route of the relevant highway;
+
+(2)  
+
+- (i)[^key-4115db4262a1b87ecc29e6cd35d82001] “the deposited plan” means
+
+  the plans numbered HA10/2 WO131 marked “The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) 1999”, as changed in respect of Key Plan 1, Site Plan 4 and Site Plan 5 to Key Plan 1A, Site Plan 4A and Site Plan 5A in the plan numbered HA10/2 WG7 marked “The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Brynmawr to Tredegar) (Amendment) Order 2012”
+
+  and
+
+  as further changed in respect of Key Plan 1A, Site Plan 2, Site Plan 3 and Site Plan 4A to Key Plan 1B, Site Plan 2A, Site Plan 3A and Site Plan 4B in the deposited plan numbered HA10/2 WG08 marked “The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Gilwern to Brynmawr) (Amendment) Order 2014”
+
+  and
+
+  as further changed in respect of Key Plan 2, Site Plan 7, Site Plan 8, Site Plan 9, Site Plan 10 and Site Plan 11, to Key Plan 2A, Site Plan 7A, Site Plan 8A, Site Plan 9A, Site Plan 10A and Site Plan 11A in the deposited plan numbered HA10/2 WG14 marked “The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top to Hirwaun) (Amendment) Order 2019”
+
+  and
+
+  as further changed in respect of Key Plan 2A, Site Plan 9A, Site Plan 10A and Site Plan 11A, to Key Plan 2B, Site Plan 9B, Site Plan 10B and Site Plan 11B in the deposited plan numbered HA10/2 WG19 marked “The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top to Hirwaun) (Amendment) Order 2021”
+
+  signed on behalf of the Welsh Ministers and deposited (ref qA1433467) at the Welsh Government Information and Records Management, Cathays Park, Cardiff CF10 3NQ.
+- (ii) “the main new trunk road” and “the slip roads” have the meanings given in article 1 of this Order all forming part of the Neath to Abergavenny Trunk Road (A465);
+- (iii) “the new connecting trunk roads” means the connecting trunk roads mentioned in article 1 of this Order and “a new connecting trunk road” means one of those highways: The East of Abercynon to East of Dowlais Trunk Road (A4060); The Neath to Abergavenny Trunk Road (A465); and The Cardiff to Glan Conwy Trunk Road (A470);
+- (iv) “the trunk roads” means the new highways mentioned in article 1 of this Order;
+- (v) “classified road” as a classification for a highway, means that the highway is not a principal road for the purpose of enactments and instruments which refer to highway classified as principal roads and is also classified for the purpose of every other enactment and instrument which refers to highways classified by the National Assembly and which does not specifically refer to their classification as principal roads;
+- (vi) “the trunk road” means the Neath to Abergavenny Trunk Road (A465).
+
+**7.**[^key-f76ebc5359ba0f22deed5574e664333e] This Order shall come into force on the 8th of October 1999 and may be cited as the Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999.
+
+Signed on behalf of the Assembly Secretary for Environment and Local Government
+
+D M TIMLIN
+
+Head of Roads Administration Division National Assembly for Wales
+
+## SCHEDULE 1 — ROUTE OF THE MAIN NEW TRUNK ROAD[^key-235368a12037b9ba795721495afd90b5]
+
+[^key-235368a12037b9ba795721495afd90b5]The route of the main new trunk road is a route situated between Abergavenny and Hirwaun in the County and County Boroughs of Monmouthshire, Blaenau Gwent, Caerphilly, Merthyr Tydfil, and Rhondda Cynon Taff and is a route about 40.6 kilometres in length starting at a point on the Trunk Road (marked “A” on the deposited plan at key plan No. 1), some 40 metres west of the centrepoint of the Hardwick Roundabout at Abergavenny and going in a general south westerly direction to a point on the Trunk Road (marked “B” on the deposited plan at key plan No. 2), some 800 metres north west of the centrepoint of the Rhigos Roundabout at Hirwaun Ponds.
+
+## SCHEDULE 2 — ROUTES OF THE SLIP ROADS[^key-6a9310ba8820da3ea4c58cc1b6a77be9]
+
+[^key-6a9310ba8820da3ea4c58cc1b6a77be9]The routes of the slip roads are the following:
+
+*Extent: E+W+S+N.I.*
+
+**1.** Grade separated junction with the realigned Merthyr Road (B4246). (Site Plan No.1).
+
+Two routes to connect the westbound carriageway of the main new trunk road with a roundabout to be constructed as part of the highway east of the Council Depot at Llanfoist (the new trunk roads along these routes being respectively given the reference numbers 1 and 2 on the deposited plan at site plan No. 1).
+
+*Extent: E+W+S+N.I.*
+
+**2.** Two routes to connect the eastbound carriageway of the main new trunk road with the A4143 south east of the cemetery at Llanfoist (the new trunk roads along this route being given the numbers 3 and 4 on the deposited plan at site plan No. 1).
+
+*Extent: E+W+S+N.I.*
+
+**3.** Grade separated junction with the realigned B4246 and Abergavenny Road (A4077). (Site Plan No. 2).
+
+Four routes to connect the eastbound and the westbound carriageways of the main new trunk road with two roundabouts to be constructed as part of the highway to be provided for in associated side roads Orders, west of Glanbaiden Farm north west of King George’s Field, Govilon and southeast of Cross Roads, Gilwern (the new trunk roads along these routes being respectively given the reference numbers 5, 6, 7 and 8 on the deposited plan at site plan No. 2).
+
+*Extent: E+W+S+N.I.*
+
+**4.**[^key-ef0cafed64862fbce738c8a28d8679f7] A route some 60 metres in length to connect the westbound carriageway of the main new trunk road (A465) with Station Road (to be realigned as provided for in the associated Side Roads Order), commencing at a point 120 metres south west of the junction between the existing trunk road (A465) and Station Road west of Saleyard in a south easterly direction to a point 145 metres north west of the junction between the National Cycle Route 46 and Brunant Road (the new trunk road along this route being given the reference number 9 on the deposited plan at Site Plan number 2A (as amended)). 2).
+
+*Extent: E+W+S+N.I.*
+
+**5.** The route of the new trunk road along this route being given the reference number 10 on the deposited plan at Site Plan number 2 of the Principal Order is omitted.
+
+*Extent: E+W+S+N.I.*
+
+**6.** Grade separated junction to include four routes to connect the eastbound and westbound carriageways of the main new trunk road (A465) with the existing roundabout at Brynmawr, and new connecting roads to include a new roundabout at Old Abergavenny Road described in Schedule 3, south east of the Brynmawr Foundation School (the new trunk roads along these routes being respectively given the reference numbers 11, 12, 13 and 14 on the deposited plan at Site Plan number 3A (as amended) and 4B (as amended) and described individually as follows:-
+
+A route some 0.30 kilometres in length to connect the westbound carriageway of the main new trunk road (A465) with Brynmawr Roundabout, commencing at a point 210 metres south of the south eastern corner of the Brynmawr Foundation School Sports pitch where it connects with the existing trunk road (A465), in a generally westerly direction, to its junction with the north east quadrant of Brynmawr Roundabout (the new trunk road along this route being given the reference number 11 on the deposited plan at Site Plan number 3A (as amended) and 4B (as amended)). A route some 0.26 kilometres in length to connect the westbound carriageway of the main new trunk road (A465) with Brynmawr Roundabout, commencing at a point 40 metres north west of the bridge of Intermediate Road over the existing trunk road (A465), in a south easterly direction, to its junction with the north west quadrant of Brynmawr Roundabout (the new trunk road along this route being given the reference number 12 on the deposited plan at Site Plan number 3A (as amended) and 4B (as amended)). A route some 0.31 kilometres in length to connect the eastbound carriageway of the main new trunk road (A465) with a new connecting road (described in Schedule 3 and given the reference G to H), commencing at a point 190 metres south of the south eastern corner of the Brynmawr Foundation School Sports pitch and 10 metres south of Old Abergavenny Road in a westerly, then northerly, then easterly direction, to a point 60 metres south east of the south eastern corner of the Brynmawr Foundation School Sports pitch and 10 metres south of the road leading to Hafod (the new trunk road along this route being given the reference number 13 on the deposited plan at Site Plan number 3A (as amended) and 4B (as amended)). A route some 0.44 kilometres in length to connect the eastbound carriageway of the main new trunk road (A465) with a new roundabout (being part of the new connecting road described in Schedule 3 and given the reference G to H), commencing at a point 30 metres east of the bridge of Intermediate Road over the existing trunk road (A465), in a south easterly direction, to a point 180 metres south east of the south eastern corner of the Brynmawr Foundation School Sports pitch and 10 metres north of Old Abergavenny Road (the new trunk road along this route being given the reference number 14 on the deposited plan at Site Plan number 3A (as amended) and 4B (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**7.**[^key-a996d4776985da256d942c593895ffb9] A route some 0.89 kilometres in length, starting at a point on the northern side of the existing trunk road (A465) about 570 metres west of the agricultural underpass at Waun Rhydd, Garn Lydan and running in a generally north easterly then easterly direction to meet the eastbound carriageway of the main new trunk road 290 metres east of the agricultural underpass at Waun Rydd, Garn Lydan (the new trunk road along this route being given the reference number 15 on the deposited plan at Site Plan number 4A (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**8.** A route some 0.6 kilometres in length, starting at a point on the southern side of the existing trunk road (A465) about 570 metres west of the agricultural underpass at Waun Rhydd, Garn Lydan and running in a generally north easterly direction to meet the westbound carriageway of the main new trunk road 50 metres east of the agricultural underpass at Waun Rydd, Garn Lydan (the new trunk road along this route being given the reference number 16 on the deposited plan at Site Plan number 4A (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**9.** An at-grade junction with the Rassau Industrial Estate internal road at about the mid- point of Rassau Industrial Estate. (Site Plan number 5A (as amended)). Two east facing routes some 0.27 kilometres and 0.12 kilometres in length to connect the westbound and eastbound carriageways respectively of the main new trunk road, the first with a roundabout to be constructed as part of the highway to be provided for in the associated Side Roads Order, within the Rassau Industrial Estate and north of Herrington Farm, Rassau, the other with the existing internal Rassau Industrial Estate road to be improved under the associated Side Roads Order (the new trunk roads 4 along this route being respectively given the reference numbers 17 and 18 on the deposited plan at Site Plan number 5A (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**10.** Grade separated junction between the properties known as Hirgan Farm and The Wells Farm, Beaufort Wells to the south-west of Rassau Industrial Estate. (Site Plan number 5A (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**11.** Two west facing routes some 0.26 kilometres and 0.47 kilometres in length to connect the westbound and eastbound carriageways of the main new trunk road with the roundabout to be constructed as part of the highway to be provided for in the associated Side Roads Order, south-west of the property known as The Wells Farm and north of the property known as Hirgan Farm, Beaufort Wells (the new trunk roads along this route being respectively given the reference numbers 19 and 20 on the deposited plan at Site Plan number 5A (as amended )). The route, reference number 19, starting at a point at a new roundabout 100 metres north of farmhouse at Hirgan Farm, terminating at a point where it meets the westbound carriageway of the main new trunk road 200 metres south-west of the farmhouse.
+
+The route, reference number 20, starting at a point at a new roundabout 140 metres north of the farmhouse at Hirgan Farm, terminating at a point where it meets the eastbound carriageway of the main new trunk road 350 metres south-west of the farmhouse.
+
+*Extent: E+W+S+N.I.*
+
+**12.** Grade separated junction with the unclassified road leading northwards and the A4048 leading southwards from the existing Nant-y-Bwch roundabout. (Site Plans numbered 5 and 6 on the deposited plan numbered HA/10/2 – WO131 of the 1999 Order).
+
+Four routes to connect the westbound and eastbound carriageways of the main new trunk road with a roundabout to be constructed as part of the highway to be provided for in the associated Side Roads Order, in the vicinity of the existing Nant-y-Bwch roundabout. The new trunk roads along these routes being respectively given the reference numbers 21 and 22 on the deposited plan at Site Plan number 5A (as amended) and 23 and 24 on deposited plan at Site Plan number 6 which remain unchanged as shown on the deposited plan numbered HA/10/2 – WO131 of the 1999 Order and which have been constructed under that Order. The route, reference number 21, some 0.26 kilometres in length starting at a point on south-eastern side of Nant-y-Bwch roundabout terminating where it meets the westbound carriageway of the main new trunk road 260 metres east of the roundabout. The route, reference number 22, some 0.32 kilometres in length starting at a point on the north-eastern side of Nant-y-Bwch roundabout terminating where it meets the eastbound carriageway of the main new trunk road 320 metres east of the roundabout.
+
+*Extent: E+W+S+N.I.*
+
+**13.** Grade separated junction with the A469 leading to Rhymney. (Site Plan No. 6).
+
+Four routes to connect the eastbound and westbound carriageways of the main new trunk road with two roundabouts to be constructed as part of the highway to be provided for in associated side roads Orders (the new trunk roads along the routes being respectively given the reference numbers 25, 26, 27 and 28 on the deposited plan at site No. 6).
+
+*Extent: E+W+S+N.I.*
+
+**14.** A route some 1.0 kilometres in length starting at a point on the south eastern side of the roundabout to be constructed as part of the main new trunk road at Dowlais Top (described in Schedule 3) and running in a generally south easterly direction including the new roundabout which joins the new trunk road (A4060) at a point approximately 320 metres north east of the junction of the A4060 and Blaen Dowlais Street (marked D on the deposited plan at site plan No. 7) and then at a point on the eastern side of the new roundabout running in a generally north easterly direction to meet the westbound carriageway of the main new trunk road east of Roadside Pond Reservoir, (the new trunk road along this route being given the number 29 on the deposited plan at site plan No.7).
+
+*Extent: E+W+S+N.I.*
+
+**15.** Grade separated junction with the unclassified road leading northwards to Merthyr Common. (Site Plan No. 7).
+
+Three routes to connect the eastbound and westbound carriageways of the main new trunk road with a roundabout to be constructed as part of the main new trunk road (described in Schedule 3) which connects High Street and the unclassified road leading northwards to the retail park at Dowlais Top and onwards to Merthyr Common (the new trunk roads along these routes being respectively given the reference numbers 30, 31 and 32 on the deposited plan to site plan No. 7).
+
+*Extent: E+W+S+N.I.*
+
+**16.**[^key-f13983086ea0bad0864d7a6afa193c4e] Grade separated junction located north of Pen-y-Dre High School and north of Merthyr Tydfil to join Gurnos Ring Road and serve Pant Industrial Estate and Galon Uchaf to include four routes to connect the eastbound and westbound carriagways of the main new trunk road with a new Gurnos roundabout to be provided for in the associated side roads order, and given the reference numbers 50, 51, 52 and 53 on the deposited plan at Site Plan number 8A (as amended) as follows:-
+
+- A route some 395 metres in length commencing at a point 2260 metres north west of the centre point of Rocky Road roundabout on the westbound carriagway of the main new trunk road in a generally north westerly direction to a point 200 metres south west of the property known as Dany- Castell Farm, to join the circulatory carriageway of a new Gurnos roundabout to be provided for in the associated side roads order (the new trunk road along this route being given the reference number 50 on the deposited plan at Site Plan number 8A (as amended)).
+- A route some 421 metres in length commencing at a point 150 metres south west of the property known as Dan-y-Castell Farm (on the circulatory carriageway of a new Gurnos roundabout to be provided for in the associated side roads order) in a generally south easterly direction to join the eastbound carriageway of the main new trunk road at a point 205 metres generally north west of the centre point of the Rocky Road Roundabout (the new trunk road along this route being given the reference number 51 on the deposited plan at Site Plan number 8A (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**17.** A route some 605 metres in length commencing at a point 250 metres south west of the centre point of the property known as Dan- y - Castell Farm north of Pen- y-Dre School (on the circulatory carriageway of a new Gurnos Roundabout to be provided for in the associated side roads order) to join the westbound carriageway of the main new trunk road, in a generally south westerly direction to a pont 105 metres east of the Gurnos Road Farm underpass (the new trunk road along this route being given the reference number 52 on the deposited plan at Site Plan number 8A (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**18.** A route some 665 metres in length commencing at a point on the eastbound carriageway of the main new trunk road 100 metres north east of the Gurnos Road Farm underpass, in a generally north easterly direction to a point 190 metres south west of the property known as Dan -y -Castell Farm (on the circulatory carriageway of a new Gurnos roundabout to be provided for in the associated side roads order) (the new trunk road along this route being given the reference number 53 on the deposited plan at Site Plan number 8A (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**19.** Grade separated junction with the Cardiff to Glan Conwy Trunk Road (A470) leading northwards to Brecon and southwards to Gellideg. Site Plan 9B[^key-f90b79b8094c1c040bb41ff4a11dcade]).
+
+Four routes to connect the eastbound and westbound carriageways of the main new trunk road with two linked roundabouts to be constructed as part of the Cardiff to Glan Conwy Trunk Road (A470) (described in Schedule 3) to this Order at Cefn-Coed-y-Cymmer (the new trunk roads along these routes being given the numbers 37, 38, 58 and 59 on the deposited plan at Site Plan 9B (as amended)).
+
+A route some 363 metres in length commencing at a point 136 metres north west of the centre of the existing A470 roundabout (to join the northern roundabout of the new connecting road F) in a generally north easterly direction to join the eastbound carriageway of the main new trunk road at a point 69 metres south-west of the junction between Upper High Street and Upper Vaynor Road (the new trunk road along this route being given the reference number 58 on the deposited plan at Site Plan 9B (as amended)).
+
+A route some 746 metres in length commencing at a point on the eastbound carriageway of the main new trunk road 533 metres east of the A465 (T) Swansea Road junction in a generally easterly direction to a point 144 metres north west of the centre of the existing A470 roundabout, to join the northern roundabout of the new connecting road F (the new trunk road along this route being given the reference number 59 on the deposited plan at Site Plan 9B (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**20.**[^key-c1f0840affd45bd6e04e533eaf09bdfb] Four routes to connect the eastbound and westbound carriageways of the main new trunk road with two linked roundabouts to be constructed as part of the highway to be provided for in the associated side roads order, at Baverstock south west of the Jah Jireh Nursing Home (previously known as the Baverstock Hotel) and north and north east of the Llwydcoed Crematorium (the new trunk roads along these routes being given the numbers 41, 42, 43 and 44 on the deposited plan at Site Plan 10B[^key-31a2284ddcb106e5ff166a97f1e54dd3] as amended).
+
+Four routes to connect the eastbound and westbound carriageways of the main new trunk road with two linked roundabouts to be constructed as part of the highway to be provided for in the associated side roads order, at Baverstock south west of the Jah Jireh Nursing Home (previously known as the Baverstock Hotel) and north and north east of the Llwydcoed Crematorium (the new trunk roads along these routes being given the numbers 60, 42, 43 and 44 on the deposited plan at Site Plan 10B (as amended)).
+
+A route some 805 metres in length commencing at a point on the westbound carriageway of the main new trunk road 281 metres east of the junction between the existing A465 trunk road and the road leading to the Jah Jireh Nursing Home, in a generally southwesterly direction to a point 524 metres south west of the junction between the existing A465 trunk road and the unclassified road leading to Croesbychan (on the circulatory carriageway of a new roundabout to be provided for in the associated side roads order) (the new trunk road along this route being given the reference number 60 on the deposited plan at Site Plan 10B (as amended)).
+
+A route some 522 metres in length commencing at a point 200 metres north of the property known as Ty Gwyn Farm (on the circulatory carriageway of a new roundabout to be provided for in the associated side roads order) in a generally north westerly direction to join the eastbound carriageway of the main new trunk road at a point 300 metres north of the junction between the unclassified road leading to Croesybychan and the road leading to Llwydcoed Crematorium (the new trunk road along this route being given the reference number 42 on the deposited plan at Site Plan 10B (as amended)).
+
+A route some 516 metres in length commencing at a point 240 metres north west of the junction between the existing A465 trunk road and the unclassified road leading to Croesbychan (on the circulatory carriageway of a new roundabout to be provided for in the associated side roads order) in a generally north easterly direction to join the eastbound carriageway of the main new trunk road at a point 200 metres east of the junction between the existing A465 trunk road and the road leading to the Jan Jireh Nursing Home (the new trunk road along this route being given the reference number 43 on the deposited plan at Site Plan 10B (as amended)).”
+
+A route some 454 metres in length commencing at a point on the eastbound carriageway of the main new trunk road 764 metres west of the junction between the unclassified road leading to Croesybychan and the road leading to Llwydcoed Crematorium in a generally easterly direction to a point 350 metres north west of the property known as Ty Gwyn Farm (on the circulatory carriageway of a new roundabout to be provided for in the associated side roads order) (the new trunk road along this route being given the reference number 44 on the deposited plan at Site Plan 10B (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**21.**[^key-11d2ac757465b58bffc0553120691177] Grade separated junction at Hirwaun Ponds (Site Plan 11B).
+
+Four routes to connect the eastbound and westbound carriageways of the main new trunk road with two linked roundabouts to be constructed as part of the highway to be provided for in the associated side roads order, in the vicinity of the existing roundabout at Hirwaun Ponds (the new trunk roads along these routes being given the numbers 61, 62, 63 and 64 on the deposited plan at Site Plan 11B (as amended)).
+
+A route some 478 metres in length commencing at a point on the westbound carriageway of the main new trunk road 89 metres west of the south west corner of the Hirwaun Recreational Ground, in a generally northwesterly direction to a point 109 metres south of the centre of Rhigos roundabout to join the circulatory carriageway of a new connecting road to be provided for in the associated side roads order (the new trunk road along this route being given the reference number 61 on the deposited plan at Site Plan 11B (as amended)).
+
+A route some 462 metres in length commencing at a point 93 metres south west of the centre of Rhigos roundabout (on the circulatory carriageway of a new connecting road to be provided for in the associated side roads order) in a generally north westerly direction to join the westbound carriageway of the main new trunk road at a point 351 metres south east of Tower Sidings Bridge (the new trunk road along this route being given the reference number 62 on the deposited plan at Site Plan 11B (as amended)).
+
+A route some 609 metres in length commencing at a point 50 metres south east of the centre of Rhigos roundabout to join the circulatory carriageway of a new connecting road to be provided for in the associated side roads order) in a generally south easterly direction to join the eastbound carriageway of the main new trunk road at a point 56 metres south of the south west corner of Hirwaun Recreational Ground (the new trunk road along this route being given the reference number 63 on the deposited plan at Site Plan 11B (as amended)).
+
+A route some 533 metres in length commencing at a point on the eastbound carriageway of the main new trunk road 258 metres south east of Tower Sidings Bridge in a generally south-easterly direction to a point 31 metres north east of the centre of Rhigos roundabout to join the circulatory carriageway of a new connecting road to be provided for in the associated side roads order (the new trunk road along this route being given the reference number 64 on the deposited plan at Site Plan 11B (as amended)).
+
+*Extent: E+W+S+N.I.*
+
+**22.**[^key-2dc48b6f03af44c102064362c829ea6f] A route some 40 metres in length to connect the eastbound carriageway of the main new trunk road (A465) with Main Road, Gilwern commencing at a point on the main new trunk road (A465) 170 metres south west of the junction between School Lane and Main Road, Gilwern in a north easterly direction, to a point 130 metres south west of the 6 aforementioned junction (the new trunk road along this route being given the reference number 49 on the deposited plan at Site Plan number 2A as amended))
+
+**23.**[^key-fcb0c3eaa2dfff895d5cc0b718ee8788] Grade Separated Junction at Croesbychan (Site Plan 11B[^key-c33d6e696d60e9f678cdefe97c4c0593] (as amended)).
+
+Four routes to connect the eastbound and westbound carriageways of the main new trunk road with two linked roundabouts (to be provided for in the associated side roads order), located south east of the property known as Lynwood and north east of Hirwaun (the new trunk roads along these routes being given the numbers 54, 55, 56 and 57 on the deposited plan at Site Plan 11B as amended).
+
+A route some 585 metres in length commencing at a point on the eastbound carriageway of the main new trunk road 350 metres south east of Court Farm, in a generally north easterly direction, to a point 100 metres north east of the property known as Lynwood (on the circulatory carriageway of a new roundabout to be provided for in the associated side roads order) (the new trunk road along this route being given the reference number 54 on the deposited plan at Site Plan 11B (as amended)).
+
+A route some 475 metres in length commencing at a point 335 metres south of Nantmoel Farm (on the circulatory carriageway of a new roundabout to be provided for in the associated side roads order) in a generally north easterly direction to join the eastbound carriageway of the main new trunk road at a point 210 metres east of Nantmoel Farm(the new trunk road along this route being given the reference number 55 on the deposited plan at Site Plan 11B (as amended)).
+
+A route some 582 metres in length commencing at a point on the westbound carriageway of the main new trunk road 350 metres east of Nantmoel Farm in a generally south westerly direction to a point 110 metres west of the property known as La Plat (on the circulatory carriageway of a new roundabout to be provided for in the associated side roads order) (the new trunk road along this route being given the reference number 56 on the deposited plan at Site Plan 11B (as amended)).
+
+A route some 467 metres in length commencing at a point 140 metres west of La Plat (on the circulatory carriageway of a new roundabout to be provided for in the associated side roads order) in a generally south westerly direction to join the eastbound carriageway of the main new trunk road at a point 380 metres south east of Court Farm(the new trunk road along this route being given the reference number 57 on the deposited plan at Site Plan 11B (as amended)).
+
+## SCHEDULE 3 — ROUTE OF THE NEW CONNECTING TRUNK ROADS[^key-3ae9d400cf559e72ba21ffa7dd64ad39]
+
+[^key-3ae9d400cf559e72ba21ffa7dd64ad39]The route of the new East of Abercynon to East of Dowlais Trunk Road (A4060) is a route about 700 metres in length starting at a point some 45 metres north west of a point on the centreline of the existing trunk road (A4060) about 390 metres south west of the south eastern limit of Blaen Dowlais Street (marked C on the deposited plan at site plan No.7) running in a generally north easterly direction to a point some 320 metres north east of the southeastern limit of Blaen Dowlais Street (marked D on the deposited plan at site plan No.7) where it meets the new A465 slip road roundabout.
+
+[^key-3ae9d400cf559e72ba21ffa7dd64ad39]The route of the new Cardiff to Glan Conwy Trunk Road (A470) is a route about 520 metres in length forming two roundabouts and a link being a grade separated junction[^key-2a4031987db3a86fa5787f1bf590557b] centred on a point some 520 metres east of the property known as Ffrwd-ganol-fawr (marked F on the deposited plan at site plan No. 9).
+
+[^key-3ae9d400cf559e72ba21ffa7dd64ad39]The route of the new Neath to Abergavenny Trunk Road (A465) comprising a grade separated roundabout about 400 metres in length, centred on a point about 500 metres east of the south eastern edge of the Lower Reservoir, Dowlais Top (this route being given the reference letter E on the deposited plan at site plan No. 7) to connect with the slip roads.
+
+The route of the Neath to Abergavenny Trunk Road (A465), comprising a grade separated link road and roundabout, to connect with Brynmawr Roundabout; two new slip roads; Old Abergavenny Road and the road leading to Hafod and the road leading to Brynmawr Foundation School (all to be realigned in the associated Side Roads Order); is a route about 680 metres in length (marked G to H on the deposited plan at site plan Nos. 3A and 4B) as follows:-[^key-410b6ad4cdd10dbb539459f32cacae65]
+
+starting at a point on the south eastern side of the existing roundabout at Brynmawr (marked G on the deposited plan at site plan Nos. 3A and 4B) then in a south easterly direction for 200 metres, then in a north easterly direction for 220 metres over the main new trunk road (A465), to meet the southern side of a new connecting roundabout (to be constructed with a centre point 210 metres south east of the south eastern corner of Brynmawr Foundation School Sports Pitch and with a circumference of 140 metres), and to connect with a new slip road (described in Schedule 2 and being given the number 14 on the deposited plan at site plan Nos. 3A and 4B), and then continuing from the north western side of the new roundabout in a north westerly direction for 120 metres to connect with a new slip road (described in Schedule 2 and being given the number 13 on the deposited plan at site plan Nos. 3A and 4B) at a point 60 metres south of the south eastern corner of Brynmawr Foundation School Sports Pitch and 10 metres south of the road leading to Hafod (marked H on the deposited plan at site plan Nos. 3A and 4B)
+
+## SCHEDULE 4[^key-78919fcf332db4b2321aaf6024604963]
+
+| ***LENGTHS OF TRUNK ROAD CEASING TO BE TRUNK ROAD*** | ***CLASSIFICATION*** |
+| --- | --- |
+| - (i)[^key-67a5693ac7fff6e8f7738606251d48da] that length of the route on the existing A465, starting at a point approximately 570 metres south-west of the agricultural underpass at Waun Rydd, Garn Llydan (marked as AA on the deposited plan at Site Plan Number 4A (as amended)) extending in a general south westerly direction for a distance of approximately 3.2 kilometres, and including the Ebbw Vale roundabout and the Rassau roundabout (marked BB on the deposited plan at Site Plan Number 5A (as amended)) | classified |
+| - (ii) that length starting at a point approximately 140 metres west of the centrepoint of the existing roundabout at Trewaun (marked CC on the deposited plan at site plan No. 11) extending in general north westerly direction for a distance of approximately 1.1 kilometres to points where the eastbound and westbound carriageways of the trunk road connect with the south and east of the Rhigos roundabout at Hirwaun Ponds (marked DD and EE respectively on the deposited plan at site plan No. 11) | Classified |
+| - (iii) that length of the existing trunk road (A465), starting at a point 20 metres east of the junction between the existing trunk road (A465) and Station Road in Saleyard (marked FF on the deposited plan at Site Plan Number 2A (as amended)) extending in an westerly direction for 170 metres to a point 50 metres south west of the southern corner of the property known as Liberton, west of Saleyard (marked GG on the deposited plan at Site Plan Number 2A (as Amended)).[^key-0f5867fd6a10a548f88561c08228b1ac] |  |
+
+## SCHEDULE 5 — PLANS AND SPECIFICATIONS OF THE PROPOSED ROAD BRIDGE OVER THE MONMOUTHSHIRE AND BRECON CANAL IN THE COUNTY BOROUGH OF MONMOUTHSHIRE[^key-2220dad2e35184a1867dd56a15c0d08f]
+
+LOCATION OF ROAD AT MONMOUTHSHIRE AND BRECON CANAL [image: see source](https://www.legislation.gov.uk/wsi/1999/2720/images/wsi_19992720_en_001) LAYOUT PLAN OF MONMOUTHSHIRE AND BRECON CANAL CROSSING [image: see source](https://www.legislation.gov.uk/wsi/1999/2720/images/wsi_19992720_en_002)
+
+## SPECIFICATION[^key-d913c926b762cb66d3b637633a8b35bf]
+
+### Points of Commencement and Termination on Layout Plan
+
+From a point approximately 1 metre east of Point A, the centre of the footbridge and approximately 244 metres north west of Point B, the south east corner of the property known as the Hawthorns to a point approximately 290 metres south east of said point A and approximately 94 metres south of said point B.
+
+### Span
+
+9.5 metres clear square opening
+
+### Waterway
+
+7.0 metres clear opening
+
+### Headway
+
+Minmum clearance approximately 2.8 metres above water level
+
+ROAD LEVEL REQUIREMENTS AT MONMOUTHSHIRE AND BRECON CANAL [image: see source](https://www.legislation.gov.uk/wsi/1999/2720/images/wsi_19992720_en_003)
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66)
+
+[^key-98899543e0c80e424c669b023c29964a]: Commencement: Art. 1 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-bf27cb6fdff3d7caa39dbe4e1af486e2]: Commencement: Art. 2 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-28ba9097f6ce97c0423b6affd3563406]: Commencement: Art. 3 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-bcb573679a85df299638867b0c43c112]: Commencement: Art. 4 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-862b5d3f98c831a06451e1be115c0ddf]: Commencement: Art. 5 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-f7d9f97be2a7833a086f63de8fbd387f]: Commencement: Art. 6 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-4115db4262a1b87ecc29e6cd35d82001]: Textual amendment: Art. 6(2)(i) substituted (18.2.2021) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top to Hirwaun) (Amendment) Order 2021 (S.I. 2021/143)](https://www.legislation.gov.uk/wsi/2021/143), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2021/143/article/1/1), [2](https://www.legislation.gov.uk/wsi/2021/143/article/2)
+
+[^key-f76ebc5359ba0f22deed5574e664333e]: Commencement: Art. 7 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-235368a12037b9ba795721495afd90b5]: Commencement: Sch. 1 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-6a9310ba8820da3ea4c58cc1b6a77be9]: Commencement: Sch. 2 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-ef0cafed64862fbce738c8a28d8679f7]: Textual amendment: Sch. 2 paras. 4-6 substituted (16.10.2014) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999, (Gilwern to Brynmawr) (Amendment) Order 2014 (S.I. 2014/2716)](https://www.legislation.gov.uk/wsi/2014/2716), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/2716/article/1/1), [3](https://www.legislation.gov.uk/wsi/2014/2716/article/3)
+
+[^key-a996d4776985da256d942c593895ffb9]: Textual amendment: Sch. 2 paras. 7-12 substituted (23.8.2012) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060) and Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Brynmawr to Tredegar) (Amendment) Order 2012 (S.I. 2012/2092)](https://www.legislation.gov.uk/wsi/2012/2092), [arts. 1](https://www.legislation.gov.uk/wsi/2012/2092/article/1), [3](https://www.legislation.gov.uk/wsi/2012/2092/article/3)
+
+[^key-f13983086ea0bad0864d7a6afa193c4e]: Textual amendment: Sch. 2 paras. 16-18 substituted (30.4.2019) by [The Neath To Abergavenny Trunk Road (A465) (Abergavenny To Hirwaun Dualling And Slip Roads) And East Of Abercynon To East Of Dowlais Trunk Road (A4060) And Cardiff To Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top To Hirwaun) (Amendment) Order 2019 (S.I. 2019/871)](https://www.legislation.gov.uk/wsi/2019/871), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/871/article/1/1), [3](https://www.legislation.gov.uk/wsi/2019/871/article/3)
+
+[^key-f90b79b8094c1c040bb41ff4a11dcade]: Textual amendment: Words in Sch. 2 para. 19 substituted (18.2.2021) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top to Hirwaun) (Amendment) Order 2021 (S.I. 2021/143)](https://www.legislation.gov.uk/wsi/2021/143), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2021/143/article/1/1), [3](https://www.legislation.gov.uk/wsi/2021/143/article/3)
+
+[^key-c1f0840affd45bd6e04e533eaf09bdfb]: Textual amendment: Sch. 2 para. 20 substituted (30.4.2019) by [The Neath To Abergavenny Trunk Road (A465) (Abergavenny To Hirwaun Dualling And Slip Roads) And East Of Abercynon To East Of Dowlais Trunk Road (A4060) And Cardiff To Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top To Hirwaun) (Amendment) Order 2019 (S.I. 2019/871)](https://www.legislation.gov.uk/wsi/2019/871), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/871/article/1/1), [5](https://www.legislation.gov.uk/wsi/2019/871/article/5)
+
+[^key-31a2284ddcb106e5ff166a97f1e54dd3]: Textual amendment: Words in Sch. 2 para. 20 substituted (18.2.2021) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top to Hirwaun) (Amendment) Order 2021 (S.I. 2021/143)](https://www.legislation.gov.uk/wsi/2021/143), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2021/143/article/1/1), [4](https://www.legislation.gov.uk/wsi/2021/143/article/4)
+
+[^key-11d2ac757465b58bffc0553120691177]: Textual amendment: Sch. 2 para. 21 substituted (18.2.2021) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top to Hirwaun) (Amendment) Order 2021 (S.I. 2021/143)](https://www.legislation.gov.uk/wsi/2021/143), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2021/143/article/1/1), [5](https://www.legislation.gov.uk/wsi/2021/143/article/5)
+
+[^key-2dc48b6f03af44c102064362c829ea6f]: Textual amendment: Sch. 2 para. 22 inserted (16.10.2014) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999, (Gilwern to Brynmawr) (Amendment) Order 2014 (S.I. 2014/2716)](https://www.legislation.gov.uk/wsi/2014/2716), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/2716/article/1/1), [4](https://www.legislation.gov.uk/wsi/2014/2716/article/4)
+
+[^key-fcb0c3eaa2dfff895d5cc0b718ee8788]: Textual amendment: Sch. 2 para. 23 inserted (30.4.2019) by [The Neath To Abergavenny Trunk Road (A465) (Abergavenny To Hirwaun Dualling And Slip Roads) And East Of Abercynon To East Of Dowlais Trunk Road (A4060) And Cardiff To Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top To Hirwaun) (Amendment) Order 2019 (S.I. 2019/871)](https://www.legislation.gov.uk/wsi/2019/871), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/871/article/1/1), [6](https://www.legislation.gov.uk/wsi/2019/871/article/6)
+
+[^key-c33d6e696d60e9f678cdefe97c4c0593]: Textual amendment: Words in Sch. 2 para. 23 substituted (18.2.2021) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top to Hirwaun) (Amendment) Order 2021 (S.I. 2021/143)](https://www.legislation.gov.uk/wsi/2021/143), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2021/143/article/1/1), [6](https://www.legislation.gov.uk/wsi/2021/143/article/6)
+
+[^key-3ae9d400cf559e72ba21ffa7dd64ad39]: Commencement: Sch. 3 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-2a4031987db3a86fa5787f1bf590557b]: Textual amendment: Words in Sch. 3 substituted (30.4.2019) by [The Neath To Abergavenny Trunk Road (A465) (Abergavenny To Hirwaun Dualling And Slip Roads) And East Of Abercynon To East Of Dowlais Trunk Road (A4060) And Cardiff To Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Dowlais Top To Hirwaun) (Amendment) Order 2019 (S.I. 2019/871)](https://www.legislation.gov.uk/wsi/2019/871), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/871/article/1/1), [7](https://www.legislation.gov.uk/wsi/2019/871/article/7)
+
+[^key-410b6ad4cdd10dbb539459f32cacae65]: Textual amendment: Words in Sch. 3 inserted (16.10.2014) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999, (Gilwern to Brynmawr) (Amendment) Order 2014 (S.I. 2014/2716)](https://www.legislation.gov.uk/wsi/2014/2716), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/2716/article/1/1), [5](https://www.legislation.gov.uk/wsi/2014/2716/article/5)
+
+[^key-78919fcf332db4b2321aaf6024604963]: Commencement: Sch. 4 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-67a5693ac7fff6e8f7738606251d48da]: Textual amendment: [Sch. 4(i)](https://www.legislation.gov.uk/wsi/1999/2720/schedule/4/i) substituted (23.8.2012) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060) and Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999 (Brynmawr to Tredegar) (Amendment) Order 2012 (S.I. 2012/2092)](https://www.legislation.gov.uk/wsi/2012/2092), [arts. 1](https://www.legislation.gov.uk/wsi/2012/2092/article/1), [4](https://www.legislation.gov.uk/wsi/2012/2092/article/4)
+
+[^key-0f5867fd6a10a548f88561c08228b1ac]: Textual amendment: Words in [Sch. 4(iii)](https://www.legislation.gov.uk/wsi/1999/2720/schedule/3/iii) inserted (16.10.2014) by [The Neath to Abergavenny Trunk Road (A465) (Abergavenny to Hirwaun Dualling and Slip Roads) and East of Abercynon to East of Dowlais Trunk Road (A4060), Cardiff to Glan Conwy Trunk Road (A470) (Connecting Roads) Order 1999, (Gilwern to Brynmawr) (Amendment) Order 2014 (S.I. 2014/2716)](https://www.legislation.gov.uk/wsi/2014/2716), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/2716/article/1/1), [6](https://www.legislation.gov.uk/wsi/2014/2716/article/6)
+
+[^key-2220dad2e35184a1867dd56a15c0d08f]: Commencement: Sch. 5 in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)
+
+[^key-d913c926b762cb66d3b637633a8b35bf]: Commencement: Sch. SPECIFICATION in force at 8.10.1999, see [art. 7](https://www.legislation.gov.uk/wsi/1999/2720/article/7)

@@ -1,0 +1,47 @@
+---
+title: Disused Mine and Quarry Tips (Wales) Act 2025, section 61
+act: Disused Mine and Quarry Tips (Wales) Act 2025
+section: '61'
+status: not-yet-in-force
+text_date: '2025-09-12'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2025/4/section/61
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Disused Mine and Quarry Tips (Wales) Act 2025, section 61
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 61. Information about estates or interests in land[^key-b08db82dc16bfd14271be75214e93074]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The Authority may give a notice to an occupier of land, or to a person who receives rent (either directly or indirectly) in respect of land, requiring the person to confirm in writing—
+
+- (a) the nature of the person’s estate or interest in the land, and
+- (b) if that person knows of another person who has an estate or interest in the land, the other person’s name and contact details (if known).
+
+(2) In subsection (1)(b), “**contact details**”, in relation to a person, means the person’s address and any other information about how the person may be contacted.
+
+(3) The Authority may not give a notice under this section unless it needs the information required by the notice to enable or assist it to exercise a function conferred by or under this Act.
+
+(4) A notice under this section may require the information to be given within—
+
+- (a) 20 working days beginning with the first working day after the day the notice is given, or
+- (b) any longer period specified in the notice or agreed by the Authority.
+
+(5) This section does not require or permit information to be given contrary to any prohibition imposed by an enactment or other rule of law.
+
+(6) The Authority may not give a notice under this section to a relevant public authority.
+
+(7) The Authority may not give a notice under this section to an appropriate Crown authority in respect of an estate or interest in Crown land which is not a private interest.
+
+## Annotations
+
+[^key-b08db82dc16bfd14271be75214e93074]: Commencement: S. 61 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

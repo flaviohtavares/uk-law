@@ -1,0 +1,93 @@
+---
+title: The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020
+id: wsi/2020/1252
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-11-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2020/1252
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2020/1252/pdfs/wsi_20201252_mi.pdf
+- http://www.legislation.gov.uk/wsi/2020/1252/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 1252 (W. 284)
+
+Exiting The European Union, Wales
+
+Food, Wales
+
+The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020
+
+Sift requirements satisfied
+
+9 November 2020
+
+Made
+
+10 November 2020
+
+Laid before Senedd Cymru
+
+12 November 2020
+
+Coming into force in accordance with regulation 1(2)
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by paragraph 1(1) of Schedule 2 to the European Union (Withdrawal) Act 2018[^f00001].
+
+The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the appropriate scrutiny procedure for these Regulations) have been satisfied.
+
+There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00002].
+
+As required by paragraph 4(a) of Schedule 2 to the European Union (Withdrawal) Act 2018, the Secretary of State has been consulted during the preparation of these Regulations.
+
+## 1. Title, commencement and application
+
+(1) The title of these Regulations is the Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020.
+
+(2) These Regulations come into force immediately before IP completion day.
+
+## 2. Amendments to the Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019
+
+(1) The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^f00003] are amended as follows.
+
+(2) In regulation 7 (amendment of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009), in paragraph (2)(b), for “, Food Standards Scotland or the Food Standards Agency in Northern Ireland” substitute “or Food Standards Scotland”.
+
+(3) In regulation 8 (amendment of the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016)—
+
+- (a) omit paragraph (2);
+- (b) in paragraph (3), in the substituted words, for “UK” substitute “Great Britain”.
+
+Eluned Morgan
+
+Minister for Mental Health, Wellbeing and the Welsh Language, one of the Welsh Ministers
+
+10 November 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers in paragraph 1(1) of Schedule 2 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union.
+
+Regulation 2 amends the Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 ([S.I. 2019/179 (W. 45)](https://www.legislation.gov.uk/wsi/2019/179)) to ensure the amendments made by those Regulations to secondary legislation for Wales in the field of nutrition operate effectively upon IP completion day.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^f00002]: Footnote: OJ No. L 31, 1.2.2002, p. 1, last amended by [Commission Regulation (EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) (OJ No. L 188, 18.7.2009, p. 14).
+
+[^f00003]: Footnote: [S.I. 2019/179 (W. 45)](https://www.legislation.gov.uk/wsi/2019/179).

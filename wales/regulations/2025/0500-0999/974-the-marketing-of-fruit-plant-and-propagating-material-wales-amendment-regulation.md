@@ -1,0 +1,359 @@
+---
+title: The Marketing of Fruit Plant and Propagating Material (Wales) (Amendment) Regulations 2025
+id: wsi/2025/974
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2025-08-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2025/974
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2025/974/pdfs/wsi_20250974_mi.pdf
+- http://www.legislation.gov.uk/wsi/2025/974/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marketing of Fruit Plant and Propagating Material (Wales) (Amendment) Regulations 2025
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2025 No. 974 (W. 169)
+
+Plant Health, Wales
+
+Seeds, Wales
+
+The Marketing of Fruit Plant and Propagating Material (Wales) (Amendment) Regulations 2025
+
+Made
+
+22 August 2025
+
+Laid before Senedd Cymru
+
+27 August 2025
+
+Coming into force
+
+7 October 2025
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 16(1), (1A), (3) and 36 of the Plant Varieties and Seeds Act 1964[^f00001] (“**the 1964 Act**”).
+
+In accordance with section 16(1) of the 1964 Act, the Welsh Ministers have consulted with representatives of such interests as appear to them to be concerned.
+
+## 1. Title and coming into force
+
+(1) The title of these Regulations is the Marketing of Fruit Plant and Propagating Material (Wales) (Amendment) Regulations 2025.
+
+(2) These Regulations come into force on 7 October 2025.
+
+## 2. Amendments to the Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017
+
+The Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017[^f00002] (“**the Fruit Marketing Regulations**”) are amended in accordance with Regulations 3 to 7.
+
+## 3. Amendment to regulation 2 of the Fruit Marketing Regulations
+
+In regulation 2 (interpretation: general), at the appropriate place in alphabetical order, insert—
+
+> - “**marketing**” (“***marchnata***”) means the sale, holding with a view to a sale, offer for sale, and any disposal, supply or transfer aimed at commercial exploitation of propagating material or fruit plants to third parties, whether or not for consideration;
+
+.
+
+## 4. Amendment to regulation 3 of the Fruit Marketing Regulations
+
+(1) In regulation 3 (interpretation: Directives), paragraph (2), after “amended from time to time”[^f00003] insert “as modified by Schedule 6 to these Regulations”.
+
+(2) After regulation 3(2) insert—
+
+> (3) Schedule 6 has effect for making modifications to [Directive 2014/98/EU](https://www.legislation.gov.uk/european/directive/2014/0098).
+
+.
+
+## 5. Amendment to Schedule 2 to the Fruit Marketing Regulations
+
+In Schedule 2, in Part 2 (supplier’s document: CAC material), after paragraph 8(b)(xi) insert—
+
+> ;
+>
+> - (xii) in the case of a genetically modified variety, a statement that the variety has been genetically modified and a list of the genetically modified organisms
+
+.
+
+## 6. Amendment to Schedule 5 to the Fruit Marketing Regulations
+
+In Schedule 5, in Part 2 (certification of pre-basic material), in paragraph 4(2)(b) (rootstocks not belonging to a variety) for “variety” substitute “species”.
+
+## 7. Insertion of Schedule 6 to the Fruit Marketing Regulations
+
+After Schedule 5, insert Schedule 6 which is set out in the Schedule to these Regulations.
+
+Huw Irranca-Davies
+
+Deputy First Minister and Cabinet Secretary for Climate Change and Rural Affairs, one of the Welsh Ministers
+
+22 August 2025
+
+## SCHEDULE — Insertion of Schedule 6 to the Fruit Marketing Regulations
+
+Regulation 7
+
+> **SCHEDULE 6 — Modifications to [Directive 2014/98/EU](https://www.legislation.gov.uk/european/directive/2014/0098)**
+>
+> Regulation 3(2)and (3)
+>
+> **1. Modifications to Annex 1**
+>
+> Annex 1 (list of RNQPs for the presence of which visual inspection, and, in the case of doubts, sampling and testing, are required pursuant to Article 9(1), Article 10(1), Article 16(1), Article 21(1) and Article 26(1)) is to be read as if at the entry for—
+>
+> - (a) “*Ficus carica* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas” the entry for “Fig mosaic agent \[FGM000\]” were omitted;
+> - (b) “*Fragaria* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas” the entry for “*Candidatus* Phytoplasma *australiense* Davis *et al*. \[PHYPAU\]” were omitted;
+> - (c) “*Vaccinium* L.”, in the second column under “RNQPs”, at “Fungi and oomycetes”, after the entry for “*Godronia cassandrae* (anamorph Topospora myrtilli) Peck \[GODRCA\]” were inserted—
+>
+>   > |  |
+>   > | --- |
+>   > | *Pucciniastrum minimum* (Schweinitz) Arthur \[THEKMI\] |
+>
+> **2. Modifications to Annex 2**
+>
+> Annex 2 (list of RNQPs for the presence of which visual inspection, and, where applicable, sampling and testing are required pursuant to Article 9(2) and (4), Article 10(1), Article 16(1), Article 21(1), Article 26(1), and Annex IV) is to be read as if at the entry for—
+>
+> - (a) “*Malus* Mill.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “Fruit disorders” were inserted—
+>
+>   > |  |
+>   > | --- |
+>   > | Tomato ringspot virus \[TORSV0\] |
+>
+>   ;
+> - (b) “*Prunus dulcis* (Miller) Webb”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “*Prunus* necrotic ringspot virus \[PNRSV0\]” were inserted—
+>
+>   > |  |
+>   > | --- |
+>   > | Tomato ringspot virus \[TORSV0\] |
+>
+>   ;
+> - (c) “*Prunus armeniaca* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “*Prunus* necrotic ringspot virus \[PNRSV0\]” were inserted—
+>
+>   > |  |
+>   > | --- |
+>   > | Tomato ringspot virus \[TORSV0\] |
+>
+>   ;
+> - (d) “*Prunus avium* L. and *Prunus cerasus* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “Tomato black ring virus \[TBRV00\]” were inserted—
+>
+>   > |  |
+>   > | --- |
+>   > | Tomato ringspot virus \[TORSV0\] |
+>
+>   ;
+> - (e) “*Prunus domestica* L., *Prunus salicina* Lindley, and other species of *Prunus* L. susceptible to Plum pox virus in the case of *Prunus* L. hybrids”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “*Prunus* necrotic ringspot virus \[PNRSV0\]” were inserted—
+>
+>   > |  |
+>   > | --- |
+>   > | Tomato ringspot virus \[TORSV0\] |
+>
+>   ;
+> - (f) “*Prunus persica* (L.) Batsch”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “Strawberry latent ringspot virus \[SLRSV0\]” were inserted—
+>
+>   > |  |
+>   > | --- |
+>   > | Tomato ringspot virus \[TORSV0\] |
+>
+>   ;
+> - (g) “*Rubus* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “Tomato black ring virus \[TBRV00\]” were inserted—
+>
+>   > |  |
+>   > | --- |
+>   > | Tomato ringspot virus \[TORSV0\] |
+>
+>   ;
+> - (h) “*Vaccinium* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “Cranberry false blossom phytoplasma \[PHYPFB\]” were inserted—
+>
+>   > |  |
+>   > | --- |
+>   > | Tobacco ringspot virus \[TRSV0\] |
+>   > | Tomato ringspot virus \[TORSV0\] |
+>
+> **3. Modifications to Annex 4**
+>
+> Annex 4 (requirements concerning measures per genera or species and category pursuant to Article 10(4), Article 16(4), Article 21(4) and Article 26(2)) is to be read as if—
+>
+> - (a) at point 6 (*Fragaria* L.), at point (d)(iii), the entry for “*Candidatus* Phytoplasma *australiense* Davis *et al*.”were omitted;
+> - (b) at point 8 (*Malus* Mill.)—
+>   - (i) at point (b) in the paragraph “*Requirements with regard to the production site, place of production or area*”, in the first unnumbered paragraph—
+>     - (aa) for “and” were substituted “,”;
+>     - (bb) after “*et al.*” were inserted “and Tomato ringspot virus”;
+>   - (ii) after point (b)(ii) were inserted—
+>
+>     > ;
+>     >
+>     > - (iii) Tomato ringspot virus
+>     >   - propagating material and fruit plants of the pre-basic category shall be produced in areas known to be free from Tomato ringspot virus; or
+>     >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed
+>
+>     ;
+>   - (iii) at point (c), in the paragraph “*Sampling and testing*”, in the second unnumbered paragraph, after the second reference to “*Candidatus* Phytoplasma *mali* Seemüller & Schneider”, for “and other than” were substituted “, Tomato ringspot virus and”;
+>   - (iv) at the end of point (c), were inserted—
+>
+>     > Basic mother plants shall be sampled and tested every twenty years concerning the presence of Tomato ringspot virus.
+>     >
+>     > *Requirements with regard to the production site, place of production or area*
+>     >
+>     > - (i) *Candidatus* Phytoplasma *mali* Seemüller & Schneider
+>     >   - propagating material and fruit plants of the basic category shall be produced in areas known to be free from *Candidatus* Phytoplasma *mali* Seemüller & Schneider; or
+>     >   - no symptoms of *Candidatus* Phytoplasma *mali* Seemüller & Schneider are observed on propagating material and fruit plants of the basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed;
+>     > - (ii) *Erwinia amylovora* (Burrill) Winslow *et al*.
+>     >   - propagating material and fruit plants of the basic category shall be produced in areas known to be free from *Erwinia amylovora* (Burrill) Winslow *et al*.; or
+>     >   - propagating material and fruit plants of the basic category in the production site have been inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of *Erwinia amylovora* (Burrill) Winslow *et al*. and any surrounding host plants have been immediately rogued out and destroyed.
+>     > - (iii) Tomato ringspot virus \[TORSV0\]
+>     >   - propagating material and fruit plants of the basic category shall be produced in areas known to be free from Tomato ringspot virus; or
+>     >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed.
+>
+>     ;
+>   - (v) at point (d), in the paragraph “*Sampling and testing*”—
+>     - (aa) in the second unnumbered paragraph, after the second reference to “*Candidatus* Phytoplasma *mali* Seemüller & Schneider”, for “and other than” were substituted “, Tomato ringspot virus and”;
+>     - (bb) after the third unnumbered paragraph, were inserted—
+>
+>       > Certified mother plants shall be sampled and tested every twenty years concerning the presence of Tomato ringspot virus.
+>       >
+>       > *Requirements with regard to the production site, place of production or area*
+>       >
+>       > - (i) *Candidatus* Phytoplasma *mali* Seemüller & Schneider
+>       >   - propagating material and fruit plants of the certified category shall be produced in areas known to be free from *Candidatus* Phytoplasma *mali* Seemüller & Schneider; or
+>       >   - no symptoms of *Candidatus* Phytoplasma *mali* Seemüller & Schneider are observed on propagating material and fruit plants of the certified category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+>       >   - symptoms of *Candidatus* Phytoplasma *mali* Seemüller & Schneider have been observed on no more than 2% of propagating material and fruit plants of the certified category in the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic propagating material and fruit plants were found has been tested and found free from *Candidatus* Phytoplasma *mali* Seemüller & Schneider.
+>       > - (ii) *Erwinia amylovora* (Burrill) Winslow *et al*.
+>       >   - propagating material and fruit plants of the certified category shall be produced in areas known to be free from *Erwinia amylovora* (Burrill) Winslow *et al*.; or
+>       >   - propagating material and fruit plants of the certified category in the production site have been inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of *Erwinia amylovora* (Burrill) Winslow *et al*. and any surrounding host plants have been immediately rogued out and destroyed.
+>       > - (iii) Tomato ringspot virus \[TORSV0\]
+>       >   - propagating material and fruit plants of the certified category shall be produced in areas known to be free from Tomato ringspot virus; or
+>       >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the certified category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed.
+>
+>       ;
+>   - (vi) point (e) were omitted;
+>   - (vii) after point (f)(ii), were inserted—
+>
+>     > - (iii) Tomato ringspot virus
+>     >   - propagating material and fruit plants of the CAC category shall be produced in areas known to be free from Tomato ringspot virus; or
+>     >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+>     >   - symptoms of Tomato ringspot virus have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed.
+>
+>     ;
+> - (c) at point 11 (*Prunus armeniaca* L., *Prunus avium* L., *Prunus**cerasifera* Ehrh., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Miller) Webb, *Prunus persica* (L.) Batsch and *Prunus salicina* Lindley)—
+>   - (i) at point (a), in the paragraph “*Requirements with regard to the production site, place of production or area*”—
+>     - (aa) in the first unnumbered paragraph, for the words from “and *Pseudomonas*” to “Wilkie” were substituted “, *Pseudomonas syringae pv. persicae* (Prunier, Luisetti & Gardan) Young, Dye & Wilkie and Tomato ringspot virus”;
+>     - (bb) after entry (iii), were inserted—
+>
+>       > - (aiv) Tomato ringspot virus
+>       >   - propagating material and fruit plants of the pre-basic category shall be produced in areas known to be free from Tomato ringspot virus; or
+>       >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed;
+>
+>       ;
+>   - (ii) at the end of point (c)(ii) were inserted—
+>
+>     > A representative portion of basic mother plants shall be sampled and tested every twenty years on the basis of an assessment of the risk of infection of those plants concerning the presence of Tomato ringspot virus.
+>   - (iii) at point (d)(ii)—
+>     - (aa) in the third unnumbered paragraph which starts “A representative portion of certified mother plants shall be sampled and tested” for “and Plum pox virus” were substituted “, Plum pox virus and Tomato ringspot virus”;
+>     - (bb) at the end were inserted—
+>
+>       > A representative portion of certified mother plants shall be sampled and tested every twenty years on the basis of an assessment of the risk of infection of those plants concerning the presence of Tomato ringspot virus.
+>
+>       ;
+>   - (iv) at point (e) after entry (iii) were inserted—
+>
+>     > - (aiv) Tomato ringspot virus
+>     >   - propagating material and fruit plants of the basic and certified categories shall be produced in areas known to be free from Tomato ringspot virus; or
+>     >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed;
+>
+>     ;
+>   - (v) at point (f)—
+>     - (aa) in the paragraph “*Requirements with regard to the production site, place of production or area*”, at point (i), the fourth unnumbered paragraph which starts “symptoms of *Pseudomonas*” were omitted;
+>     - (bb) after entry (iii) were inserted—
+>
+>       > - (aiv) Tomato ringspot virus
+>       >   - propagating material and fruit plants of the CAC category shall be produced in areas known to be free from Tomato ringspot virus; or
+>       >   - no symptoms of Tomato ringspot virus are observed in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+>       >   - symptoms of Tomato ringspot virus have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed;
+>
+>       ;
+> - (d) at point 12 (*Pyrus* L.)—
+>   - (i) at point (b), in the paragraph “*Requirements with regard to the production site, place of production or area*”, at point (i) in the second unnumbered indent—
+>     - (aa) after “last”, were inserted “three”;
+>     - (bb) for “season” were substituted “seasons”;
+>   - (ii) at point (e), in the paragraph “*Requirements with regard to the production site, place of production or area*”, at point (i)—
+>     - (aa) in the second unnumbered indent after “are observed” were inserted “on propagating material and fruit plants of the basic and certified categories”;
+>     - (bb) for the third unnumbered indent were substituted—
+>
+>       > — propagating material and fruit plants of the basic and certified categories in the production site and any plants in the immediate vicinity, which have shown symptoms of *Candidatus* Phytoplasma *pyri* Seemüller & Schneider during visual inspections during the last three growing seasons, have been immediately rogued out and destroyed;
+>
+>       ;
+>   - (iii) at point (f), in the paragraph “*Requirements with regard to the production site, place of production or area*”, at point (i)—
+>     - (aa) in the second unnumbered indent after “are observed” were inserted “on propagating material and fruit plants of the CAC category”;
+>     - (bb) for the third unnumbered indent were substituted—
+>
+>       > — propagating material and fruit plants of the CAC category in the production site and any plants in the immediate vicinity, which have shown symptoms of *Candidatus* Phytoplasma *pyri* Seemüller & Schneider during visual inspections during the last three growing seasons, have been immediately rogued out and destroyed;
+>
+>       ;
+> - (e) at point 14 (*Rubus* L.)—
+>   - (i) for “and Tomato” in each place it occurs, were substituted “, Tomato”;
+>   - (ii) after “and Tomato black ring virus” in each place it occurs, were inserted “and Tomato ringspot virus”;
+>   - (iii) for “or Tomato” in each place it occurs, were substituted “, Tomato”;
+>   - (iv) after “or Tomato black ring virus” in each place it occurs, were inserted “or Tomato ringspot virus”;
+>   - (v) at point (d) in the paragraph “*Requirements with regard to the production site, place of production or area*”—
+>     - (aa) the unnumbered paragraph were numbered “(i)”;
+>     - (bb) after the new paragraph (i), were inserted—
+>
+>       > - (ii) In the case of symptoms of Tomato ringspot virus, those symptoms have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed.
+>
+>       ;
+> - (f) at point 15 (*Vaccinium* L.)—
+>   - (i) at the end of point (b) were inserted—
+>
+>     > - (iv) Tobacco ringspot virus and Tomato ringspot virus
+>     >   - propagating material and fruit plants of the basic category shall be produced in areas known to be free from Tobacco ringspot virus and Tomato ringspot virus; or
+>     >   - no symptoms of Tobacco ringspot virus or Tomato ringspot virus are observed in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed.
+>
+>     ;
+>   - (ii) at the end of point (d) were inserted—
+>
+>     > - (iii) Tobacco ringspot virus and Tomato ringspot virus
+>     >   - propagating material and fruit plants of the certified category shall be produced in areas known to be free from Tobacco ringspot virus and Tomato ringspot virus; or
+>     >   - no symptoms of Tobacco ringspot virus or Tomato ringspot virus are observed in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed.
+>     > - (e) CAC category
+>     >
+>     >   *Requirements with regard to the production site, place of production or area*
+>     >
+>     >   Tobacco ringspot virus and Tomato ringspot virus
+>     >
+>     >   - propagating material and fruit plants of the CAC category shall be produced in areas known to be free from Tobacco ringspot virus and Tomato ringspot virus; or
+>     >   - no symptoms of Tobacco ringspot virus or Tomato ringspot virus are observed in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+>     >   - symptoms of Tobacco ringspot virus or Tomato ringspot virus have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed.
+>
+>     .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017 (“**the Fruit Marketing Regulations**”).
+
+Regulation 3 inserts a definition of “marketing” into the general interpretation provision to ensure clarity over the activities covered by the Fruit Marketing Regulations.
+
+Regulation 4 amends an interpretation provision regarding Directives to give effect to modifications to Commission Implementing [Directive 2014/98/EU](https://www.legislation.gov.uk/european/directive/2014/0098) (“**the Directive**”). The modifications to the Directive are included in a new Schedule 6 to the Fruit Marketing Regulations. The modifications ensure that categorisations of pests and requirements for the places of production are up to date and consistent with recent developments and the ongoing assessment of risk.
+
+Regulation 5 amends Schedule 2 to the Fruit Marketing Regulations to require a supplier’s document accompanying CAC material to state if the variety is genetically modified.
+
+Regulation 6 amends Schedule 5 to the Fruit Marketing Regulations to amend an incorrect use of the word “variety”.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained by contacting the Landscapes, Nature and Forestry Division, Climate Change and Rural Affairs Department, Welsh Government, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14). Section 16 was amended by section 4(1) of, and paragraph 5(1), (2) and (3) of Schedule 4 to, the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68) and by [S.I. 1977/1112](https://www.legislation.gov.uk/uksi/1977/1112). Other amendments have been made to section 16 but are not relevant to this instrument. Section 29 was amended by [S.I. 2022/1315](https://www.legislation.gov.uk/uksi/2022/1315) to extend the application of Part II of the Act as it applies to seeds to include vegetative propagating or vegetative planting material. Section 38(1) defines “the Minister”. Under the Transfer of Functions (Wales) (No. 1) Order 1978 ([S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272)) (“**the 1978 Order**”), article 2(1) and Schedule 1, the functions of the Minister of Agriculture, Fisheries and Food under the Plant Varieties and Seeds Act 1964 were, so far as they are exercisable in relation to Wales, transferred to the Secretary of State and under the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and Schedule 1, the functions transferred to the Secretary of State by the 1978 Order were transferred to the National Assembly for Wales. By virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006, those functions are exercisable by the Welsh Ministers.
+
+[^f00002]: Footnote: [S.I. 2017/691 (W. 163)](https://www.legislation.gov.uk/wsi/2017/691); amended by [S.I. 2019/368 (W. 90)](https://www.legislation.gov.uk/wsi/2019/368), [S.I. 2020/206 (W. 48)](https://www.legislation.gov.uk/wsi/2020/206), [S.I. 2020/311 (W. 70)](https://www.legislation.gov.uk/wsi/2020/311), [S.I. 2020/833 (W. 182)](https://www.legislation.gov.uk/wsi/2020/833), [S.I. 2022/1333 (W. 270)](https://www.legislation.gov.uk/wsi/2022/1333).
+
+[^f00003]: Footnote: Paragraph 2 of Schedule 8 to the European Union (Withdrawal) Act 2018 prevents the words “amended from time to time” from having effect after the implementation period completion day.

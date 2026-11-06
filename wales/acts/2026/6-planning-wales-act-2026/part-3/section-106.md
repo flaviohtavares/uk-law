@@ -1,0 +1,38 @@
+---
+title: Planning (Wales) Act 2026, section 106
+act: Planning (Wales) Act 2026
+section: '106'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/6/section/106
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning (Wales) Act 2026, section 106
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 106. Compensation where planning permission is modified or revoked[^key-c85e3e3f79687a58cfaced4350e289f6]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) This section applies where planning permission for the development of land in the area of a planning authority is modified or revoked by an order under section 102.
+
+(2) Any person interested in the land is entitled, on making a claim to the planning authority, to be paid compensation by the authority for—
+
+- (a) any expenditure incurred by the person in carrying out works that become abortive because of the modification or revocation of the planning permission;
+- (b) any other loss or damage suffered by the person that is directly attributable to the modification or revocation.
+
+(3) A claim for compensation under this section must be made in writing within 12 months beginning with the day the modification or revocation takes effect.
+
+(4) This section does not apply in relation to planning permission for the development of operational land of a statutory undertaker (for which see sections 319 and 321).
+
+## Annotations
+
+[^key-c85e3e3f79687a58cfaced4350e289f6]: Commencement: S. 106 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

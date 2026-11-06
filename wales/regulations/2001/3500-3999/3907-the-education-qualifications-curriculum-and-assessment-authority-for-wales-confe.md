@@ -1,0 +1,79 @@
+---
+title: The Education (Qualifications, Curriculum and Assessment Authority for Wales) (Conferment of Function) Order 2001
+id: wsi/2001/3907
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-12-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2001/3907
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2001/3907/pdfs/wsi_20013907_mi.pdf
+- http://www.legislation.gov.uk/wsi/2001/3907/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Qualifications, Curriculum and Assessment Authority for Wales) (Conferment of Function) Order 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 3907 (W.320)
+
+EDUCATION, WALES
+
+The Education (Qualifications, Curriculum and Assessment Authority for Wales) (Conferment of Function) Order 2001
+
+Made
+
+4th December 2001
+
+Coming into force
+
+31st December 2001
+
+The National Assembly for Wales makes the following Order in exercise of the powers conferred on the Secretary of State by sections 24(3) and 30(1) of the Education Act 1997[^f00001] and now vested in the National Assembly for Wales[^f00002].
+
+## 1. Citation and commencement
+
+This Order is called the Education (Qualifications, Curriculum and Assessment Authority for Wales) (Conferment of Function) Order 2001 and shall come into force on 31st December 2001.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the 1997 Act” (“*Deddf 1997*”) means the Education Act 1997; and
+- “ACCAC” (“*ACCAC*”) means the Qualifications, Curriculum and Assessment Authority for Wales[^f00003].
+
+## 3. Conferment of function
+
+(1) The function falling within paragraph (gg) of section 24(2) of the 1997 Act is, in relation to qualifications of the kind specified in paragraph (2) below, conferred on ACCAC.
+
+(2) Those qualifications are all external qualifications except National Vocational Qualifications.
+
+(3) The function conferred by this article is conferred so as to be exercisable solely by ACCAC.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00004]
+
+John Marek
+
+The Deputy Presiding Officer of the Assembly
+
+4th December 2001
+
+(This note is not part of the Order)
+
+This Order confers on the Qualifications, Curriculum and Assessment Authority for Wales (“ACCAC”) the function, to be solely exercised by ACCAC, of making arrangements for developing, setting and administering tests which are to be taken with a view to obtaining all external qualifications (excluding National Vocational Qualifications).
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44). A new paragraph (gg) is inserted in subsection (2) of section 24 of that Act by subsection (2) of section 103 of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21) and section 30(2) of the 1997 Act is amended by section 103(3) of the 2000 Act to include reference to the new section 24(2)(gg) of the 1997 Act.
+
+[^f00002]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and section 150 of the Learning and Skills Act 2000.
+
+[^f00003]: Footnote: The Qualifications, Curriculum and Assessment Authority for Wales was established by section 14(1)(b) of the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), continued in existence by section 360 of the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56) and given its current name by section 27(1) of the Education Act 1997.
+
+[^f00004]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38)

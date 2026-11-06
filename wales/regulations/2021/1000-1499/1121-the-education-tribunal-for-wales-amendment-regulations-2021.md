@@ -1,0 +1,74 @@
+---
+title: The Education Tribunal for Wales (Amendment) Regulations 2021
+id: wsi/2021/1121
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-10-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2021/1121
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2021/1121/pdfs/wsi_20211121_mi.pdf
+- http://www.legislation.gov.uk/wsi/2021/1121/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education Tribunal for Wales (Amendment) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 1121 (W. 272)
+
+Education, Wales
+
+The Education Tribunal for Wales (Amendment) Regulations 2021
+
+Made
+
+6 October 2021
+
+Coming into force
+
+8 October 2021
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 207(4) of, and paragraph 6(2) of Schedule 17 to, the Equality Act 2010[^f00001].
+
+In accordance with section 209(6) of the Equality Act 2010, a draft of these Regulations was laid before, and approved by a resolution of, Senedd Cymru[^f00002].
+
+## 1. Title and commencement
+
+The title of these Regulations is the Education Tribunal for Wales (Amendment) Regulations 2021 and they come into force on 8 October 2021.
+
+## 2. Amendment of the Education Tribunal for Wales Regulations 2021
+
+In the Education Tribunal for Wales Regulations 2021[^f00003], for regulation 17(2) substitute—
+
+> (2) The case statement period for a claimant is a period of 8 weeks beginning with the date on which the acknowledgement given under regulation 13(1)(b)(i) is taken to have been received in accordance with regulation 75(11). It includes any extension to that period ordered by the President under regulation 65.
+
+Jeremy Miles
+
+Minister for Education and Welsh Language, one of the Welsh Ministers
+
+6 October 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Education Tribunal for Wales Regulations 2021 (“the Tribunal Regulations”).
+
+Regulation 2 of these Regulations substitutes a new regulation 17(2) of the Tribunal Regulations to provide that the case statement period for a claimant making a claim under the Equality Act 2010 is 8 weeks beginning on the date that the acknowledgement of receipt of a claim is received.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^f00002]: Footnote: The reference in section 209(6) of the Equality Act 2010 to the National Assembly for Wales is now to be read as a reference to Senedd Cymru by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00003]: Footnote: [S.I. 2021/406 (W. 132)](https://www.legislation.gov.uk/wsi/2021/406).

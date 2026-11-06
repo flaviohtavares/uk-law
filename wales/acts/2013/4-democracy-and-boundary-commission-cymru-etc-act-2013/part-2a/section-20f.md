@@ -1,0 +1,60 @@
+---
+title: Democracy and Boundary Commission Cymru etc. Act 2013, section 20F
+act: Democracy and Boundary Commission Cymru etc. Act 2013
+section: 20F
+status: revised-with-pending-changes
+text_date: '2025-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2013/4/section/20F
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Democracy and Boundary Commission Cymru etc. Act 2013, section 20F
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2013/4
+>
+> Extent: England, Wales.
+
+## 20F. Board membership[^key-8fcfc78a56a254c2758114e5f2aa083a]
+
+*Extent: E+W*
+
+(1) The Board is to consist of—
+
+- (a) a member of the Commission to chair the Board who is a former elections officer,
+- (b) one other member of the Commission, and
+- (c) members who are elections officers or former elections officers (one of whom is to be the deputy chair of the Board).
+
+(2) The members of the Board are to be appointed by the Commission.
+
+(3) The Commission must appoint at least four members to the Board of the kind described in subsection (1)(c).
+
+(4) The chair is to be chosen by the Commission and the deputy chair is to be chosen by the Board.
+
+(5) Members of the Board who are also members of the Commission are to be appointed on terms and conditions determined by the Welsh Ministers.
+
+(6) The other members of the Board are to be appointed on terms and conditions determined by the Commission after consultation with the Welsh Ministers.
+
+(7) The terms and conditions that may be determined under subsections (5) and (6) include conditions as to remuneration, allowances and expenses.
+
+(8) A person appointed under subsection (1)(c) must not be—
+
+- (a) a member of‍ a UK legislature;‍
+- (b) a member of the staff of‍ the Senedd (within the meaning of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32));
+- (c) a person‍ engaged by a member of a UK legislature, under a contract of service or a contract for services, in connection with the carrying out of the member’s functions;
+- (d) a member of a local authority;
+- (e) a member of a National Park authority for a National Park in Wales;
+- (f) a police and crime commissioner for a police area in Wales;
+- (g) a Commissioner or Assistant Commissioner;
+- (h) a member of the Commission’s staff;
+- (i) a person employed in the civil service of the state.
+
+(9) In this section “**elections officer**” means—
+
+- (a) a returning officer, or
+- (b) an electoral registration officer.
+
+## Annotations
+
+[^key-8fcfc78a56a254c2758114e5f2aa083a]: Textual amendment: Pt. 2A inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 1(2)](https://www.legislation.gov.uk/asc/2024/5/section/1/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/a)

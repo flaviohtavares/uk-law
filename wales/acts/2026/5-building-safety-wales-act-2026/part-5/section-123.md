@@ -1,0 +1,33 @@
+---
+title: Building Safety (Wales) Act 2026, section 123
+act: Building Safety (Wales) Act 2026
+section: '123'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/5/section/123
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Safety (Wales) Act 2026, section 123
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 123. Delegation of functions where building safety authority is accountable person for category 1 building[^key-0ab64eae9dbd8ae3a8a69509d04f5ab8]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) This section applies where a county council or county borough council is both the building safety authority for a category 1 building and an accountable person for the building.
+
+(2) The council must make all reasonable efforts to arrange under section 101(1)(b) of the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70) for its functions as the building safety authority for the building to be exercised by another building safety authority.
+
+(3) Where such arrangements are in force in relation to a category 1 building, the functions of the building safety authority for the building must be exercised in accordance with the arrangements (and section 101(4) of the Local Government Act 1972 does not apply).
+
+## Annotations
+
+[^key-0ab64eae9dbd8ae3a8a69509d04f5ab8]: Commencement: S. 123 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

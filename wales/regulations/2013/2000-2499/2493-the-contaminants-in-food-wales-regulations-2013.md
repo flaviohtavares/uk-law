@@ -1,0 +1,346 @@
+---
+title: The Contaminants in Food (Wales) Regulations 2013
+id: wsi/2013/2493
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-09-27'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2013/2493
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2013/2493/pdfs/wsi_20132493_mi.pdf
+- http://www.legislation.gov.uk/wsi/2013/2493/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Contaminants in Food (Wales) Regulations 2013
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 2493 (W. 242)
+
+Food, Wales
+
+The Contaminants in Food (Wales) Regulations 2013
+
+Made
+
+27 September 2013
+
+Laid before the National Assembly for Wales
+
+1 October 2013
+
+Coming into force
+
+31 October 2013
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 16(1), 17(1) and (2), 26(1)(a) and (3), and 48(1) of the Food Safety Act 1990[^f00001], and now vested in them[^f00002], as read with paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00003].
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for references to an Article of or Annex to the EU instruments specified in regulation 2(3) to be construed as references to that Article or Annex as it may be amended from time to time.
+
+In accordance with section 48(4A) of the Food Safety Act 1990, they have had regard to relevant advice given by the Food Standards Agency.
+
+As required by Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
+
+## PART 1 — Introductory
+
+### 1. Title, application and commencement[^key-a448ee71a607203223bacd6c7a68f00e]
+
+(1) The title of these Regulations is the Contaminants in Food (Wales) Regulations 2013.
+
+(2) These Regulations apply in relation to Wales and they come into force on 31 October 2013.
+
+### 2. Interpretation[^key-72b1dbf2d72eff42c9a4339ef8a175a6]
+
+(1) In these Regulations —
+
+- “the Act” (“*y Ddeddf*”)\_means the Food Safety Act 1990;
+- [^key-e64e65d6ba84b28bcaab9a54a0be153b]...
+- [^key-e64e65d6ba84b28bcaab9a54a0be153b]...
+- “Regulation 1881/2006” (“*Rheoliad 1881/2006*”) means Commission
+- Regulation [(EC) No. 1881/2006](https://www.legislation.gov.uk/european/regulation/2006/1881) setting maximum levels for certain contaminants in foodstuffs[^f00007];
+- [^key-e64e65d6ba84b28bcaab9a54a0be153b]...
+- “Regulation 124/2009” (“*Rheoliad 124/2009*”) means [Commission Regulation (EC) No. 124/2009](https://www.legislation.gov.uk/european/regulation/2009/0124) setting maximum levels for the presence of coccidiostats or histomonstats in food resulting from the unavoidable carry-over of these substances in non-target feed[^f00009];
+- [^key-e64e65d6ba84b28bcaab9a54a0be153b]...
+- “authorised officer” (“*swyddog awdurdodedig*”) means any person who is authorised in writing, either generally or specially, by a food authority to act in matters arising under these Regulations;
+- “food authority” (“*awdurdod bwyd*”) has the meaning given by section 5(1A) of the Act.
+
+(2) Any other expression used in these Regulations and in [^key-4a93d20577711cbd885ca400fb5bfe20]... Regulation 1881/2006 or Regulation 124/2009 has the same meaning in these Regulations as it bears in the [^key-9c7cd32a01b161719b9f8520848b02f0]... Regulation concerned.
+
+(3) Any reference to an Article of or Annex to [^key-3340f4ab3888037bd2f0736aaf87b011]... Regulation 1881/2006 or Regulation 124/2009 is a reference to that Article or Annex as it may be amended from time to time, and any reference to any of those [^key-3cde09a20844218328371850eacb59ef]... Regulations is to be construed accordingly.
+
+(4) Where any functions under the Act are assigned —
+
+- (a) by an order under section 2 [^key-3cd688b22db84f74a9bfc72100582eff]... of the Public Health (Control of Disease) Act 1984[^f00011], to a port health authority; or
+- (b) by an order under section 6 of the Public Health Act 1936[^f00012], to a joint board for a united district;
+
+any reference in these Regulations to a food authority is to be construed, so far as relating to those functions, as a reference to the authority to which they are so assigned.
+
+## PART 2 — Erucic acid in food
+
+### 3. Scope[^key-50e71088a228ab9078501fad4ff7a5e6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Controls on erucic acid[^key-de983f581ca35ac891500b77640f64a4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Contaminants in food
+
+### 5. Controls on contaminants in food[^key-870ae700d15b88ecdd0b6ec98cc30f6b]
+
+(1)[^key-3e37755908bb1f365e5c6f3dced751b6] A person who contravenes or fails to comply with any of the retained EU law provisions[^key-640c91ce8f6ca2c9e2608375dd3f40f6] specified in paragraph (2) is guilty of an offence.
+
+(2) The retained EU law provisions[^key-38ea4267be644f83d5dbd9b8157e04aa] are —
+
+- (a) Article 1(1) of Regulation 1881/2006 (prohibition on the placing on the market of foodstuffs containing contaminants in excess of prescribed limits contained in the Annex), as read with —
+  - (i) Article 1(2) (maximum levels applying to edible part of food unless otherwise specified in the Annex),
+  - (ii) Article 2 (provisions relating to the application of maximum levels to dried, diluted, processed and compound foodstuffs),
+  - (iii) Article 4 (specific provisions for groundnuts, other oilseeds, tree nuts, dried fruit, rice and maize),
+  - (iv) Article 6 (specific provisions for lettuce), and
+  - (v) the Annex (maximum levels for certain contaminants in foodstuffs);
+- (b) Article 3 of Regulation 1881/2006 (prohibitions on use, mixing and detoxification);
+- (c) Article 5 of Regulation 1881/2006 (specific labelling requirements for groundnuts, other oilseeds, derived products thereof and cereals); and
+- (d) Article 1(1) of Regulation 124/2009 (prohibitions on marketing or mixing foods containing coccidiostats or histomonstats at levels in excess of prescribed limits), as read with Article 1(2).
+
+(3)[^key-68846c5d0bfcc0eb677838e9d22af11a] The level of erucic acid in a food must be determined according to sampling methods, and methods of analysis that meet the performance criteria, set out in the Annex to Commission Regulation (EU) 2015/705 laying down methods of sampling and performance criteria for the methods of analysis for the official control of the levels of erucic acid in foodstuffs and repealing Commission Directive [80/891/EEC](https://www.legislation.gov.uk/european/directive/1980/0891).
+
+## PART 4 — Administration and enforcement
+
+### 6. Penalties[^key-9d78bfd899451bda75b5c6f4a6020a98]
+
+Anyone convicted of an offence under [^key-fd134cf6867412a29c1d729568a142dd]... regulation 5(1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 7. Enforcement and competent authorities[^key-d8f4b1e73a38483ac35fb73a72224a3f]
+
+(1) It is the duty of each food authority within its county or county borough to execute and enforce these Regulations, Regulation 1881/2006 and Regulation 124/2009.
+
+(2) The competent authority for the purposes of —
+
+- (a) Article 2(2) of Regulation 1881/2006 (justification by food business operators of concentration or dilution factors); and
+- (b) Article 1(1) of Regulation 124/2009 (relating to the duty to investigate the reasons for the contamination),
+
+is the authority having the duty to execute and enforce under paragraph (1).
+
+### 8. Application of various sections of the Food Safety Act 1990[^key-5746995a5faed284b629cfb67862641f]
+
+(1) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations —
+
+- (a) section 3 (presumptions that food intended for human consumption);
+- (b) section 20 (offences due to fault of another person);
+- (c) section 21 (defence of due diligence)[^f00014] with the modification that—
+  - (i) subsections (2) to (4) shall apply in relation to an offence under regulation [^key-45d536f1a3cde3dbb5206724e0ba1cfc]... 5(1) as they apply in relation to an offence under section 14 or 15, and
+  - (ii) in subsection (4) the references to “sale” are deemed to include references to “placing on the market”;
+- (d) section 30(8) (which relates to documentary evidence);
+- (e) section 33(1) (obstruction etc. of officers);
+- (f) section 33(2), with the modification that the reference to “any such requirement as is mentioned in subsection (1)(b) above” shall be deemed to be a reference to any such requirement as is mentioned in section 33(1)(b) as applied by sub–paragraph (e);
+- (g) section 35(1) (punishment of offences)[^f00015], in so far as it relates to offences under section 33(1) as applied by sub–paragraph (e);
+- (h) section 35(2) and (3)[^f00016], in so far as it relates to offences under section 33(2) as applied by sub–paragraph (f);
+- (i) section 36 (offences by bodies corporate);
+- (j) section 36A (offences by Scottish partnerships)[^f00017]; and
+- (k) section 44 (protection of officers acting in good faith).
+
+(2) Subject to paragraph (3), section 9 of the Act (inspection and seizure of suspected food) applies for the purposes of these Regulations as if it read as follows —
+
+> **9.** (1) An authorised officer of a food authority may at all reasonable times inspect any food intended for human consumption which has been placed on the market and subsections (2) to (7) below apply where, on such an inspection, it appears to the authorised officer that the placing on the market of any food fails to comply with any of the requirements specified in regulation [^key-c4a2bbc36e4288c9d1deff49334f3c25]... 5(2) of the Contaminants in Food (Wales) Regulations 2013, (“the retained EU law requirements[^key-fd7fce51c49ee45841cc6c53d975c148]”).
+>
+> (2) The authorised officer may either —
+>
+> - (a) give notice to the person in charge of the food that, until the notice is withdrawn, the food or any specified portion of it —
+>   - (i) is not to be used for human consumption, and
+>   - (ii) either is not to be removed or is to be removed to a place at which there are facilities to carry out sampling in the manner required by law; or
+> - (b) seize the food and remove it in order to have it dealt with by a justice of the peace.
+>
+> (3) Where the authorised officer exercises the power conferred by subsection (2)(a) above, that officer must, as soon as is reasonably practicable and in any event within 21 days, determine whether or not the food complies with the retained EU law requirements and —
+>
+> - (a) if satisfied that it does comply, shall forthwith withdraw the notice;
+> - (b) if not so satisfied, shall seize the food and remove it in order to have it dealt with by a justice of the peace.
+>
+> (4) Where an authorised officer exercises the powers conferred by subsection (2)(b) or (3)(b) above, the officer must inform the person in charge of the food of the intention to have it dealt with by a justice of the peace and —
+>
+> - (a) any person who in connection with any of the retained EU law requirements might be liable to a prosecution in respect of the food shall, if that person attends before the justice of the peace by whom the food falls to be dealt with, be entitled to be heard and to call witnesses; and
+> - (b) that justice of the peace may, but need not, be a member of the court before which any person is proceeded against for an offence in connection with any of the retained EU law requirements in relation to that food.
+>
+> (5) If it appears to a justice of the peace, on the basis of such evidence as the justice considers appropriate in the circumstances, that any food falling to be dealt with under this section fails to comply with any of the retained EU law requirements the justice must condemn the food and order —
+>
+> - (a) the food to be destroyed or to be so disposed of as to prevent it from being used for human consumption; and
+> - (b) any expenses reasonably incurred in connection with the destruction or disposal to be defrayed by the owner of the food.
+>
+> (6) If a notice under subsection (2)(a) above is withdrawn, or the justice of the peace by whom any food falls to be dealt with under this section refuses to condemn it, the food authority must compensate the owner of the food for any depreciation in its value resulting from the action taken by the authorised officer.
+>
+> (7) Any disputed question as to the right to or the amount of any compensation payable under subsection (6) above must be determined by arbitration.
+>
+> (8) Any person who knowingly contravenes the requirements of a notice under subsection (2)(a) above is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+.
+
+(3) The expressions “authorised officer” and “food authority” which are used in section 9 of the Act so far as it applies for the purposes of these Regulations by virtue of paragraph (2), will, for those purposes, bear the meanings that those expressions respectively bear in these Regulations.
+
+### 9. Consequential amendment[^key-6017c684ab2e9bc18d1bb1429c9185d6]
+
+In Schedule 1 to the Food Safety (Sampling and Qualifications) (Wales) Regulations 2013[^f00018] (provisions to which those Regulations do not apply), for the entries relating to the Contaminants in Food (Wales) Regulations 2010[^f00019] substitute the following entries in column 1 and 2 respectively —
+
+> |  |  |
+> | --- | --- |
+> | The Contaminants in Food (Wales) Regulations 2013 (to the extent that a sample falls to be prepared and analysed in accordance with [Commission Regulation (EC) No. 1881/2006](https://www.legislation.gov.uk/european/regulation/2006/1881) setting maximum levels for certain contaminants in foodstuffs)" | S.I. 2013/----. |
+
+### 10. Revocations[^key-a9240cda2991331042b1a02d33fa1007]
+
+The —
+
+- (a) Mineral Hydrocarbons in Food Regulations 1966[^f00020];
+- (b) Erucic Acid in Food Regulations 1977[^f00021];
+- (c) Erucic Acid in Food (Amendment) Regulations 1982[^f00022]; and
+- (d) Contaminants in Food (Wales) Regulations 2010,
+
+are revoked.
+
+Mark Drakeford
+
+Minister for Health and Social Services, one of the Welsh Ministers
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations, which apply in relation to Wales, revoke and re-enact with changes the Contaminants in Food (Wales) Regulations 2010 ([S.I. 2010/2394 (W.206)](https://www.legislation.gov.uk/wsi/2010/2394) ). They make provision for —
+
+- (a) the continuing implementation of Council Directive [76/621/EEC](https://www.legislation.gov.uk/european/directive/1976/0621) relating to the fixing of the maximum level of erucic acid in oils and fats intended as such for human consumption and in foodstuffs containing added oils or fats (OJ No. L202, 28.7.1976, p.35) and of Commission Directive [80/891/EEC](https://www.legislation.gov.uk/european/directive/1980/0891) relating to the Community method of analysis for determining the erucic acid content in oils and fats intended to be used as such for human consumption and foodstuffs containing added oils or fats (OJ No. L254, 27.9.1980, p.35); and
+- (b) the continuing execution and enforcement of [Commission Regulation (EC) No. 1881/2006](https://www.legislation.gov.uk/european/regulation/2006/1881) setting maximum levels for certain contaminants in foodstuffs (OJ No. L364, 20.12.2006, p.5) (“the Commission Regulation”).
+
+**2.** The Commission Regulation has been amended by —
+
+- (a) [Commission Regulation (EC) No. 1126/2007](https://www.legislation.gov.uk/european/regulation/2007/1126) (OJ No. L255, 29.9.2007, p.14), which concerns maximum permitted levels for *Fusarium* toxins in maize and maize products;
+- (b) [Commission Regulation (EC) No. 565/2008](https://www.legislation.gov.uk/european/regulation/2008/0565) (OJ No. L160, 19.6.2008, p.20), which concerns the establishment of a maximum level for dioxins and PCBs (Polychlorinated Biphenyls) in fish liver;
+- (c) [Commission Regulation (EC) No. 629/2008](https://www.legislation.gov.uk/european/regulation/2008/0629) (OJ No. L173, 3.7.2008, p.6), which concerns maximum permitted levels for certain heavy metals;
+- (d) Commission Regulation (EU) No. 105/2010 (OJ No. L35, 6.2.2010, p.7), which concerns maximum permitted levels for ochratoxin A;
+- (e) Commission Regulation (EU) No. 165/2010 (OJ No. L50, 27.2.2010, p.8), which concerns maximum levels for aflatoxins and the treatment of certain foods found to contain aflatoxins in excess of those levels;
+- (f) Commission Regulation (EU) No.420/2011 (OJ No. L111, 30.4.2011, p.3), which concerns the collection of occurrence data by Member States;
+- (g) Commission Regulation (EU) No. 835/2011 (OJ No. L215, 20.8.2011, p.4), which concerns maximum levels for polycyclic aromatic hydrocarbons in foodstuffs;
+- (h) Commission Regulation (EU) No.1258/2011 (OJ No. L320, 3.12.2011, p.15), which concerns revised limits for nitrates in leafy vegetables;
+- (i) Commission Regulation (EU) No.1259/2011 (OJ No. L320, 3.12.2011, p.18), which concerns maximum permitted levels for dioxins, dioxin-like PCBs and non dioxin-like PCBs in foodstuffs;
+- (j) Commission Regulation (EU) No. 594/2012 (OJ No. L176, 6.7.2012, p. 43) concerning maximum permitted levels of ochratoxin A, non dioxin-like PCBs and melamine in foodstuffs; and
+- (k) Commission Regulation (EU) No. 1058/2012 (OJ No. L313, 13.11.2012, p.14), which concerns maximum permitted levels for aflatoxins in dried figs.
+
+**3.** These Regulations also provide for the execution and enforcement of [Commission Regulation (EC) No. 124/2009](https://www.legislation.gov.uk/european/regulation/2009/0124) (OJ No. L40, 11.2.2009, p.7) (“Regulation 124/2009”), which concerns maximum permitted levels for certain feed additives that may, in specified circumstances, occur in food. This Regulation has been amended by Commission Regulation (EU) No. 610/2012 (OJ No. L178, 10.7.2012, p.1).
+
+**4.** The Regulations provide that it is an offence to place specified foods on the market containing erucic acid in excess of permitted levels (*regulations 3 and 4*).
+
+**5.** The Regulations also provide that it is an offence, (except in certain cases relating to food placed on the market before a date specified in the relevant EU legislation) —
+
+- (a) to place on the market certain foods if they contain contaminants of any kind specified in the Commission Regulation or in Regulation 124/2009 at levels exceeding those specified;
+- (b) to use food containing contaminants at levels in excess of those permitted by the Commission Regulation as ingredients in the production of certain foods;
+- (c) to mix foods that do not comply with the maximum levels prescribed by the Commission Regulation or Regulation 124/2009 with foods which do comply;
+- (d) to mix foods to which the Commission Regulation relates and which are intended for direct consumption or as food ingredients with foods to which the Commission Regulation relates and which are intended to be sorted or otherwise treated prior to consumption;
+- (e) to detoxify by chemical treatment food containing mycotoxins in excess of the limits specified in the Commission Regulation;
+- (f) to fail to observe particular labelling requirements for certain groundnuts, other oilseeds, derived products thereof and cereals; and
+- (g) to place on the market or mix certain foods containing specified coccidiostats and histomonstats in excess of prescribed limits (*regulation 5*).
+
+**6.** These Regulations additionally—
+
+- (a) provide for penalties on conviction for an offence under these Regulations (*regulation 6*) and specify the enforcement and competent authorities (*regulation 7*);
+- (b) provide for the application of specified provisions of the Food Safety Act 1990 for the purposes of these Regulations (*regulation 8*);
+- (c) make a consequential amendment to the Food Safety (Sampling and Qualifications) (Wales) Regulations 2013 (*regulation 9*), the effect being to disapply the sampling and analysis provisions of those Regulations only to the extent that those matters are regulated by the EU instruments mentioned in paragraph 7.
+
+**7.** The Commission Regulation specifies the European Union methods of sampling and analysis that are required to be used for the official control of levels of the substances covered by it. Those methods are set out in —
+
+- (a) [Commission Regulation (EC) No. 401/2006](https://www.legislation.gov.uk/european/regulation/2006/0401) laying down the methods of sampling and analysis for the official control of the levels of mycotoxins in foodstuffs (OJ No. L70, 9.3.2006, p.12), as amended by Commission Regulation (EU) No. 178/2010 (OJ No. L52, 3.3.2010, p.32);
+- (b) [Commission Regulation (EC) No. 1882/2006](https://www.legislation.gov.uk/european/regulation/2006/1882) laying down methods of sampling and analysis for the official control of the levels of nitrates in certain foodstuffs (OJ No. L364, 20.12.2006, p.25);
+- (c) [Commission Regulation (EC) No. 333/2007](https://www.legislation.gov.uk/european/regulation/2007/0333) laying down the methods of sampling and analysis for the official control of the levels of lead, cadmium, mercury, inorganic tin, 3-MCPD and benzo(a)pyrene in foodstuffs (OJ No. L88, 29.3.2007, p.29), as amended by Commission Regulation (EU) No. 836/2011 (OJ No. L215, 20.8.2011, p.9); and
+- (d) Commission Regulation (EU) No. 252/2012 laying down methods of sampling and analysis for the official control of levels of dioxins, dioxin-like PCBs and non-dioxin-like PCBs in certain foodstuffs and repealing Regulation [(EC) No. 1883/2006](https://www.legislation.gov.uk/european/regulation/2006/1883) (OJ No. L84, 23.3.2012, p.1).
+
+**8.** The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Food Standards Agency at Food Standards Agency Wales, 11th Floor, Southgate House, Wood Street, Cardiff, CF10 1EW.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). Section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Sections 17 and 48 were amended by paragraphs 12 and 21 respectively of Schedule 5 to the Food Standards Act 1999 ([1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28)), “the 1999 Act”. Section 48 was also amended by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Section 26(3) was amended by Schedule 6 to the 1999 Act. Section 53(2) was amended by paragraph 19 of Schedule 16 to the Deregulation and Contracting Out Act 1994 ([1994 c.40](https://www.legislation.gov.uk/ukpga/1994/40)), Schedule 6 to the 1999 Act, [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990) and [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^f00002]: Footnote: Functions of “the Ministers”, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) as read with section 40(3) of the Food Standards Act 1999 ([1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28)), and subsequently transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act 2006 ([2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32)).
+
+[^f00003]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 ([2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51)) and amended by Part 1 of Schedule 1 to the European Union (Amendment) Act 2008 ([2008 c.7](https://www.legislation.gov.uk/ukpga/2008/7)).
+
+[^f00004]: Footnote: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by [Commission Regulation (EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision [1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468) with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14).
+
+[^key-a448ee71a607203223bacd6c7a68f00e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1) in force at 31.10.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2)
+
+[^key-72b1dbf2d72eff42c9a4339ef8a175a6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2013/2493/regulation/2) in force at 31.10.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2)
+
+[^key-e64e65d6ba84b28bcaab9a54a0be153b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/2/1) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(2)(a)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/2/a)
+
+[^f00007]: Footnote: OJ No. L364, 20.12.2006, p.5. This Regulation has been amended by Commission Regulations (EC) No’s 1126/2007 (OJ No. L255, 29.9.2007, p.14), 565/2008 (OJ No. L160, 19.6.2008, p.20), 629/2008 (OJ No. L173, 3.7.2008, p.6), and by Commission Regulations (EU) No’s 105/2010 (OJ No.L35, 6.2.2010, p.7), 165/2010 (OJ No. L50, 27.2.2010, p.8), 420/2011 (OJ No. L111, 30.4.2011, p.3), 835/2011 (OJ No. L215, 20.8.2011, p.4), 1258/2011 (OJ No. L320, 3.12.2011, p.15), 1259/2011 (OJ No. L320, 3.12.2011, p.18), 594/2012 (OJ No. L176, 6.7.2012, p.43) and 1058/2012 (OJ No. L313, 13.11.2012, p.14).
+
+[^f00009]: Footnote: OJ No. L40, 11.2.2009, p.7. This Regulation has been amended by Commission Regulation (EU) No. 610/2012 (OJ No. L178, 10.7.2012, p.1).
+
+[^key-4a93d20577711cbd885ca400fb5bfe20]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/2/2) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(2)(b)(i)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/2/b/i)
+
+[^key-9c7cd32a01b161719b9f8520848b02f0]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/2/2) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/2/b/ii)
+
+[^key-3340f4ab3888037bd2f0736aaf87b011]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/2/3) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(2)(c)(i)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/2/c/i)
+
+[^key-3cde09a20844218328371850eacb59ef]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/2/3) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(2)(c)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/2/c/ii)
+
+[^key-3cd688b22db84f74a9bfc72100582eff]: Textual amendment: Words in [reg. 2(4)(a)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/2/4/a) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(2)(d)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/2/d)
+
+[^f00011]: Footnote: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22); section 7(3)(d) was substituted by paragraph 27 of Schedule 3 to the Food Safety Act 1990.
+
+[^f00012]: Footnote: [1936 c.49](https://www.legislation.gov.uk/ukpga/1936/49); section 6 is to be read with paragraph 1 of Schedule 3 to the Food Safety Act 1990.
+
+[^key-50e71088a228ab9078501fad4ff7a5e6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2013/2493/regulation/3) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/3)
+
+[^key-de983f581ca35ac891500b77640f64a4]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2013/2493/regulation/4) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/3)
+
+[^key-870ae700d15b88ecdd0b6ec98cc30f6b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2013/2493/regulation/5) in force at 31.10.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2)
+
+[^key-3e37755908bb1f365e5c6f3dced751b6]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/5/1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(4)(a)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/4/a)
+
+[^key-640c91ce8f6ca2c9e2608375dd3f40f6]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/5/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [12(2)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/12/2/a)
+
+[^key-38ea4267be644f83d5dbd9b8157e04aa]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/5/2) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [12(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/12/2/b)
+
+[^key-68846c5d0bfcc0eb677838e9d22af11a]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/5/3) inserted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(4)(b)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/4/b)
+
+[^key-9d78bfd899451bda75b5c6f4a6020a98]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2013/2493/regulation/6) in force at 31.10.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2)
+
+[^key-fd134cf6867412a29c1d729568a142dd]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/wsi/2013/2493/regulation/6) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(5)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/5)
+
+[^key-d8f4b1e73a38483ac35fb73a72224a3f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2013/2493/regulation/7) in force at 31.10.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2)
+
+[^key-5746995a5faed284b629cfb67862641f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2013/2493/regulation/8) in force at 31.10.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2)
+
+[^f00014]: Footnote: Section 21 was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^key-45d536f1a3cde3dbb5206724e0ba1cfc]: Textual amendment: Words in [reg. 8(1)(c)(i)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/8/1/c/i) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(6)(a)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/6/a)
+
+[^f00015]: Footnote: Section 35(1) is amended by the Criminal Justice Act 2003 ([2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44)), Schedule 26, paragraph 42, from a date to be appointed.
+
+[^f00016]: Footnote: Section 35(3) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^f00017]: Footnote: Section 36A was inserted by the Food Standards Act 1999 ([1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28)), Schedule 5, paragraph 16.
+
+[^key-c4a2bbc36e4288c9d1deff49334f3c25]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/8/2) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [23(6)(b)](https://www.legislation.gov.uk/wsi/2018/806/regulation/23/6/b)
+
+[^key-fd7fce51c49ee45841cc6c53d975c148]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/8/2) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [12(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/12/3)
+
+[^key-6017c684ab2e9bc18d1bb1429c9185d6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2013/2493/regulation/9) in force at 31.10.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2)
+
+[^f00018]: Footnote: [S.I. 2013/479 (W.55)](https://www.legislation.gov.uk/wsi/2013/479).
+
+[^f00019]: Footnote: [S.I. 2010/2394 (W.206)](https://www.legislation.gov.uk/wsi/2010/2394).
+
+[^key-a9240cda2991331042b1a02d33fa1007]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2013/2493/regulation/10) in force at 31.10.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2)
+
+[^f00020]: Footnote: [S.I. 1966/1073](https://www.legislation.gov.uk/uksi/1966/1073).
+
+[^f00021]: Footnote: [S.I. 1977/691](https://www.legislation.gov.uk/uksi/1977/691).
+
+[^f00022]: Footnote: [S.I. 1982/264](https://www.legislation.gov.uk/uksi/1982/264).

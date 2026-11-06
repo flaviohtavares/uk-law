@@ -1,0 +1,19 @@
+---
+title: The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) Order 2006, section 80
+act: The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) Order 2006
+section: '80'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2006/1762/section/80
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) Order 2006, section 80
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 80. Redirection of mammals, birds and eggs in transit
+
+A veterinary inspector may, by notice to the owner or driver of any vehicle moving any mammal, bird or egg or any other thing to any premises (including regulated places) where avian influenza or influenza virus of avian origin is suspected or confirmed, require any mammal, bird, egg or any other things specified in the notice to be moved to other premises specified in the notice instead.

@@ -1,0 +1,94 @@
+---
+title: The Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 2000
+id: wsi/2000/717
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-02-28'
+text_date: '2012-01-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2000/717
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2000/717/pdfs/wsi_20000717_mi.pdf
+- http://www.legislation.gov.uk/wsi/2000/717/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 2000
+
+> Text as at 2012-01-15.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2000 No. 717 (W. 24 )
+
+LOCAL GOVERNMENT, WALES
+
+The Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 2000
+
+Made
+
+28th February 2000
+
+Coming into force
+
+29th February 2000
+
+The National Assembly for Wales makes the following Regulations in exercise of the powers conferred on the Secretary of State by sections 32(9)[^f00001], 33(4)[^f00002], 43(7) and 113 of the Local Government Finance Act 1992 which are now vested in it so far as exercisable in Wales[^f00003].
+
+## 1. Citation, commencement, application and interpretation[^key-b7ea70d6a4aee01f0c9efeaf6286cfc3]
+
+(1) These Regulations may be cited as the Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 2000 and shall come into force on 29th February 2000.
+
+(2) These Regulations apply only to Wales.
+
+(3) In these Regulations a reference to a numbered section is a reference to a section of the Local Government Finance Act 1992.
+
+## 2. Calculation of basic amount of tax (billing authorities)[^key-8020ec69e6c48b8909dbfa9c82411c44]
+
+In section 33, omit subsections (3C) and (3D)[^f00004].
+
+## 3. Calculation of budget requirement (major precepting authorities)[^key-528d40da5f9a733ce44adf8cf46b928d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00007]
+
+D. Elis Thomas
+
+The Presiding Officer of the National Assembly
+
+28th February 2000
+
+(This note is not part of the Regulations)
+
+Precepting authorities are those which receive funding via the council tax but do not collect it themselves. A precepting authority sets a precept for the amount needed to finance that part of its spending not covered by central government grants, redistributed non-domestic rates and other income. This is collected through the council tax by billing authorities which in Wales are county and county borough councils. In Wales the police authorities are the only major precepting authorities.
+
+Sections 32 and 43 of the Local Government Finance Act 1992 (“the 1992 Act”) set out respectively how a billing authority and a major precepting authority respectively are to calculate their budget requirements for a financial year and sections 33 and 44 of the 1992 Act set out respectively how such authorities are to calculate the basic amount of their council tax.
+
+These Regulations make further amendments to the calculations required by section 33 of the 1992 Act as they apply to billing authorities in Wales. The effect of them is to remove the requirement (which was prescribed in section 33(3C)) that when such an authority’s budget exceeded a prescribed figure, the authority would be required to increase the basic amount of its council tax to take account of a consequent reduction in the council tax benefit subsidy which would be paid to it.
+
+The Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 1999 provided that “police grant” as defined in section 43(6A) of the 1992 Act should not apply to major precepting authorities in Wales and substituted an alternative definition which applied to sections 43 and 44 of the 1992 Act. These Regulations make further amendments to the alternative definition by substituting new definitions in section 43(6C) and (6D). These changes take effect on 29th February 2000.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14); section 32(9) was amended by paragraph 4 of Schedule 12 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^f00002]: Footnote: Section 33 was amended by paragraph 5 of Schedule 12 to the Local Government (Wales) Act 1994, the Local Authorities (Alteration of Requisite Calculations and Funds) Regulations 1994 ([S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246)), the Local Authorities (Alteration of Requisite Calculations and Funds) Regulations 1995 ([S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234)) and the Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 1999 ([S.I. 1999/296](https://www.legislation.gov.uk/uksi/1999/296)).
+
+[^f00003]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
+
+[^key-b7ea70d6a4aee01f0c9efeaf6286cfc3]: Commencement: Reg. 1 in force at 29.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/717/regulation/1/1)
+
+[^key-8020ec69e6c48b8909dbfa9c82411c44]: Commencement: Reg. 2 in force at 29.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/717/regulation/1/1)
+
+[^f00004]: Footnote: Sections 33 (3C) and 33 (3D) were inserted by the Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 1999 ([S.I. 1999/296](https://www.legislation.gov.uk/uksi/1999/296)).
+
+[^key-528d40da5f9a733ce44adf8cf46b928d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2000/717/regulation/3) revoked (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+
+[^f00007]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

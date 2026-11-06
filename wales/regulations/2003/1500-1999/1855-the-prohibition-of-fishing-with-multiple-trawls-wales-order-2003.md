@@ -1,0 +1,148 @@
+---
+title: The Prohibition of Fishing with Multiple Trawls (Wales) Order 2003
+id: wsi/2003/1855
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-07-16'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2003/1855
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2003/1855/pdfs/wsi_20031855_mi.pdf
+- http://www.legislation.gov.uk/wsi/2003/1855/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Prohibition of Fishing with Multiple Trawls (Wales) Order 2003
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 1855 (W.205)
+
+SEA FISHERIES, WALES
+
+CONSERVATION OF SEA FISH
+
+The Prohibition of Fishing with Multiple Trawls (Wales) Order 2003
+
+Made
+
+16th July 2003
+
+Coming into force
+
+1st August 2003
+
+The National Assembly for Wales, in exercise of the powers conferred by sections 5(1) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001], and now vested in it[^f00002]of all other powers enabling it in that behalf, hereby makes the following Order:
+
+## 1. Title, commencement and application[^key-cee28f30a45b2b559859577cc06a30fb]
+
+(1) This Order is called the Prohibition of Fishing with Multiple Trawls (Wales) Order 2003.
+
+(2) This Order applies to Wales and comes into force on 1st August 2003.
+
+(3) In this Order “Wales” has the same meaning as in section 155(1) of the Government of Wales Act 1998[^f00003] and “Welsh waters” is to be construed accordingly.
+
+## 2. Interpretation[^key-eef70d36d5f1422f9e6c5b1b3dd1b502]
+
+In this Order —
+
+- “the Act” (“*y Ddeddf*”) means the Sea Fish (Conservation) Act 1967;
+- “the Council Regulation (“[^key-deeb9750b4c585667f3f31afaa634aa2]*Rheoliad y Cyngor*”) means Regulation (EU) 2019/1241 of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures;
+- “beam trawler” (“*treill-long drawst*”) means a fishing boat which, in so far as it carries or uses nets, carries or uses only nets which are designed to be towed along the sea-bed and which have their mouth extended by a beam, bar or other rigid device;
+- “equivalent Order” (“*Gorchymyn cyfatebol*”) means an Order applying to England, Northern Ireland or Scotland and made under section 5 of the Act, pursuant to Article 46 of the Council Regulation, which prohibits fishing by any trawl other than a single trawl;
+- “net” (“*rhwyd*”) means a trawl, Danish Seine or similar towed net; and
+- “single trawl” (“*treillrwyd unigol*”) means a single net towed by a two warp rig in which the net has a single bosom groundrope (the bosom being the central portion of the trawl between the lower wings), where the groundrope is attached to the towing rig at each wing-end only and does not have any further attachment, including bridles, wires or ropes, connecting it to the said towing rig;
+
+and any other corresponding expression used in the Council Regulation has the same meaning in this Order as in that Regulation.
+
+## 3. Prohibition of method of fishing[^key-8511dc1ebd023ffeb8e088f10b41d2c6]
+
+(1) Subject to paragraph (2) below, fishing by any fishing boat[^key-e4a29f0c83c11838675b28131cdaabcd] in Welsh waters with any trawl other than a single trawl is prohibited.
+
+(2) Paragraph (1) above does not apply —
+
+- (a) to any beam trawler;
+- (b) to fishing with a trawl having a mesh size of not less than 80 millimetres.
+
+## 4. Powers of British sea-fishery officers in relation to fishing boats[^key-2ebff2ea3a8c369b7d5d326da6517173]
+
+(1) For the purpose of the enforcement of this Order or any equivalent Order, a British sea-fishery officer may exercise the powers conferred by paragraphs (2) to (4) of this article in relation to any fishing boat[^key-64d5e49c81bfb82c828985784a4102c0] in Welsh waters.
+
+(2) The officer may go on board the boat, with or without persons assigned to assist in his or her duties, and may require the boat to stop and do anything else which will facilitate either the boarding of, or the disembarkation from, the boat.
+
+(3) The officer may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to be necessary for the purpose mentioned in paragraph (1) of this article and, in particular —
+
+- (a) may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything which appears to be necessary for facilitating the examination;
+- (b) may require any person on board the boat to produce any document relating to the boat, to its fishing operations or other operations ancillary thereto or to the persons on board which is in his or her custody or possession;
+- (c) for the purpose of ascertaining whether the master, owner or charterer of the boat has committed an offence under section 5(1) or (6) of the Act[^f00011] as read with this Order or any equivalent Order, may search the boat for any such document and may require any person on board the boat to do anything which appears to be necessary for facilitating the search; and
+- (d) where the boat is one in relation to which the officer has reason to suspect that such an offence has been committed, may take copies of and seize and detain any such document produced to the officer or found on board for the purpose of enabling the document to be used as evidence in proceedings for this offence;
+
+but nothing in sub-paragraph (d) shall permit any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
+
+(4) Where it appears to a British sea-fishery officer that a contravention of this Order has at any time taken place within British fishery limits, the officer may —
+
+- (a) require the master of the boat in relation to which the contravention took place to take, or the officer may take, the boat and its crew to the port which appears to him or her to be the nearest convenient port; and
+- (b) detain or require the master to detain the boat in the port;
+
+and where such an officer detains or requires the detention of a boat he or she shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
+
+## 5. Revocation[^key-88c29f9e35ea10deda95a642fc99c0ad]
+
+The Norway Lobsters (Prohibition of Method of Fishing) Order 1993[^f00012] is hereby revoked, so far as it has effect in relation to Wales.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+(This note is not part of the Order)
+
+This Order revokes and re-enacts with amendments the Norway Lobsters (Prohibition of Method of Fishing) Order 1993 (S.I. [1993/1887](https://www.legislation.gov.uk/uksi/1993/1887)) in relation to Wales.
+
+The Order prohibits fishing with any trawl other than a single trawl, save in specified circumstances. The prohibition in the 1993 Order related only to fishing for Norway lobsters. The prohibition in this Order is not so confined. The prohibition applies to a British fishing boat in Welsh waters (article 3(1)). The Order introduces a definition of “single trawl” (article 2(1)). The prohibition does not apply to beam trawlers or to fishing with a trawl having a specified mesh size of not less than 80 millimetres (article 3(2)).
+
+British Sea fishery officers are given certain powers for the purpose of the enforcement of the Order (article 4).
+
+Offences are prescribed by sections 5(1) and (6) of the Sea Fish (Conservation) Act [1967 (c. 84)](https://www.legislation.gov.uk/ukpga/1967/84) and penalties by section 11 of that Act, as amended by section 24(1) of the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29).
+
+This Order is made in reliance on Article 46 of the Council Regulation [(EC) 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms (O.J. No. L125, 27.4.98, p.1.), which authorises a Member State to take certain national measures for the conservation and management of stocks, provided such measures apply solely to the fishermen of that Member State.
+
+A Regulatory Appraisal has been prepared and placed in the library of the National Assembly. Copies can be obtained from the Fisheries Branch, National Assembly for Wales, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84). Section 5(1) was substituted by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 22(1). Section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77) section 22(1), Schedule 1, paragraph 38(3) and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) section 9(1), Schedule 2, paragraph 16(1) and S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Article 4, Schedule 2, paragraph 43(2)(b). *See* section 22(2)(a) for definitions of “the Ministers” for the purposes of sections 5 and 15(3); section 22(2) was amended by the Fisheries Act 1981, sections 19(2)(d) and 45(b) and (c) and by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Article 4, paragraph 43(12) of Schedule 2.
+
+[^f00002]: Footnote: By virtue of article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) functions exercisable under the 1967 Act were transferred to the National Assembly in so far as exercisable in relation to Wales (defined in section 155(1) of the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) as including “the sea adjacent to Wales out as far as the seaward boundary of the territorial sea”); in respect of waters beyond Wales these functions remain exercisable by the Ministers. Article 3(1) and Schedule 1 of the Scotland Act 1998 (Concurrent Functions) Order 1999 (S.I. [1999/1592](https://www.legislation.gov.uk/uksi/1999/1592)) provide for the functions exercisable under sections 5 and 15(3) of the 1967 Act to be exercised by the Ministers, concurrently with Scottish Ministers, in relation to: relevant British fishing boats within the Scottish zone; and, Scottish fishing boats within British fishery limits but outside the Scottish zone. By virtue of article 2(1) of the Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. [2000/1812](https://www.legislation.gov.uk/uksi/2000/1812)) any remaining functions of the Secretaries of State for Scotland and Wales under sections 5 and 15(3) of the 1967 Act were transferred to the Minister of Agriculture, Fisheries and Food, and in turn (together with other functions) to the Secretary of State by S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^key-cee28f30a45b2b559859577cc06a30fb]: Commencement: Art. 1 in force at 1.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2003/1855/article/1/2)
+
+[^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38). Wales was defined in section 155(1) as including “the sea adjacent to Wales out as far as the seaward boundary of the territorial sea”. Article 6 of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and Schedule 3 to that Order deals with the application of that provision to Severn and Dee Estuaries.
+
+[^key-eef70d36d5f1422f9e6c5b1b3dd1b502]: Commencement: Art. 2 in force at 1.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2003/1855/article/1/2)
+
+[^key-deeb9750b4c585667f3f31afaa634aa2]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2003/1855/article/2) substituted (1.11.2019) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1332)](https://www.legislation.gov.uk/wsi/2019/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1332/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/1332/regulation/2)
+
+[^key-8511dc1ebd023ffeb8e088f10b41d2c6]: Commencement: Art. 3 in force at 1.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2003/1855/article/1/2)
+
+[^key-e4a29f0c83c11838675b28131cdaabcd]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/wsi/2003/1855/article/3/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/11/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-2ebff2ea3a8c369b7d5d326da6517173]: Commencement: Art. 4 in force at 1.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2003/1855/article/1/2)
+
+[^key-64d5e49c81bfb82c828985784a4102c0]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2003/1855/article/4/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/11/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^f00011]: Footnote: Subsection (6) was amended by section 22(2) of the Fisheries Act 1981. By virtue of subsection (7), where subsection (6) is not complied with in the case of any fishing boat, the master, the owner and the charterer (if any) are guilty of an offence under that subsection.
+
+[^key-88c29f9e35ea10deda95a642fc99c0ad]: Commencement: Art. 5 in force at 1.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2003/1855/article/1/2)
+
+[^f00012]: Footnote: S.I. [1993/1887](https://www.legislation.gov.uk/uksi/1993/1887).

@@ -1,0 +1,124 @@
+---
+title: The Tir Gofal and Organic Farming (Amendment) (Wales) Regulations 1999
+id: wsi/1999/3337
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-12-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/1999/3337
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/1999/3337/pdfs/wsi_19993337_mi.pdf
+- http://www.legislation.gov.uk/wsi/1999/3337/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tir Gofal and Organic Farming (Amendment) (Wales) Regulations 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 3337 (W.45)
+
+AGRICULTURE, WALES
+
+The Tir Gofal and Organic Farming (Amendment) (Wales) Regulations 1999
+
+Made
+
+2 December 1999
+
+Coming into force
+
+4 December 1999
+
+The National Assembly for Wales, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by section 2(2) makes the following Regulations:
+
+## 1. Title, commencement and application
+
+(1) These Regulations may be cited as the Tir Gofal and Organic Farming (Amendment) (Wales) Regulations 1999 and shall come into force on 4 December 1999.
+
+(2) These Regulations shall apply to Wales.
+
+## 2. Amendment of the Land in Care Scheme (Tir Gofal) (Wales) Regulations 1999
+
+(1) The Land in Care Scheme (Tir Gofal) (Wales) Regulation 1999[^f00003] shall be amended in accordance with the following paragraphs.
+
+(2) After sub-paragraph (e) of paragraph (4) of regulation 3 there shall be inserted the following sub-paragraph—
+
+> - (f) may include such other provision that may be agreed between the Countryside Council and the other party.
+
+.
+
+(3) In sub-paragraph (d) of paragraph (4) of regulation 3 the word “and” after the semicolon shall be deleted and in sub-paragraph (e) of the same paragraph the words “activity; and” shall be substituted for “activity.”.
+
+(4) After regulation 9 there shall be inserted the following regulation—
+
+> **9A. Obligation to keep records**
+>
+> A Tir Gofal agreement holder shall keep for the duration of the Tir Gofal agreement any correspondence or other records relating to any management activity specified in Schedules 2 and 3 and any capital activity specified in Schedule 4.
+
+.
+
+(5) In paragraph (b) of regulation 5, “regulations 7 and 8” shall be replaced with “regulations 7, 8, 9A and 10”.
+
+## 3. Amendment of the Organic Farming (Wales) Regulations 1999
+
+(1) The Organic Farming (Wales) Regulations 1999[^f00004] shall be amended in accordance with the following paragraphs.
+
+(2) Sub-paragraphs (a) and (b) in paragraph (1) of regulation 6 shall be replaced with the following sub-paragraphs—
+
+> - (a) a certificate of registration has been given by the inspection authority in respect of the first organic parcel; and
+> - (b) the applicant makes a declaration that the inspection authority has approved a plan relating to the whole of the organic unit comprising the organic parcel to which the application relates.
+
+.
+
+(3) After regulation 6 there shall be inserted the following regulation—
+
+> **6A. Closing date for accepting applications for aid**
+>
+> (1) The Assembly shall not accept an application for aid under these Regulations unless such application has been received by it before 4th December 1999.
+
+.
+
+*Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998*[^f00005]
+
+Dafydd Elis Thomas
+
+The Presiding Officer
+
+2 December 1999
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Land in Care Scheme (Tir Gofal) (Wales) Regulations 1999 (“the Tir Gofal Regulations”) and the Organic Farming (Wales) Regulations 1999 (“the Organic Farming Regulations”).
+
+The Tir Gofal Regulations contain the provisions of an agri-environment scheme implementing in part a zonal programme approved by the European Commission under Article 7 of the Council Regulation [(EEC) No. 2078/92](https://www.legislation.gov.uk/european/regulation/1992/2078) (OJ No. L215, 30.7.92, p.85) on agricultural production methods compatible with the requirements for the protection of the environment and the maintenance of the countryside (“the Agri-environment Regulation”). The Tir Gofal Regulations provide for payments of aid to be made to any person who enters a Tir Gofal agreement with the Countryside Council for Wales.
+
+The Organic Farming Regulations provide for the payment of aid to farmers who undertake to introduce organic farming methods and comply with certain management conditions, pursuant to Article 2(1)(a) and (d) of the Agri-environment Regulation. The Agri-environment Regulation was repealed by Article 55(1) of Council Regulation [(EC) No. 1257/99](https://www.legislation.gov.uk/european/regulation/1999/1257) (OJ No. L160, 26.6.99 p.80), but, by virtue of Article 55(3) of the latter Regulation, the Agri-environment Regulation continues to apply to actions approved by the Commission before 1st January 2000.
+
+These regulations amend the Tir Gofal Regulations to—
+
+- a) permit a Tir Gofal agreement to include any provision that may be agreed between the Countryside Council for Wales and a Tir Gofal applicant (regulation 2(2));
+- b) impose an obligation on a Tir Gofal agreement holder to maintain records (regulation 2(4)); and
+- c) make compliance with the record keeping requirement (regulation 9A of the Tir Gofal Regulations inserted by these Regulations) and the obligation to permit entry and inspection (regulation 10 of the Tir Gofal Regulations) conditions for the payment of aid (regulation 2(5)).
+
+These Regulations amend the Organic Farming Regulations to:
+
+- a) remove the requirement that an application for aid be accompanied by a certificate of registration for the first organic parcel and a declaration by the applicant that the inspection authority has approved a plan relating to the whole organic unit (regulation 3(2)); and
+- b) provide that the National Assembly shall not accept any applications for aid received on or after 4 December 1999 (regulation 3(3)).
+
+## Annotations
+
+[^f00001]: Footnote: By virtue of The European Communities (Designation) (No. 3) Order 1999 (S.I. No.[1999/2788](https://www.legislation.gov.uk/uksi/1999/2788))
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: S.I. No. [1999/1176](https://www.legislation.gov.uk/uksi/1999/1176).
+
+[^f00004]: Footnote: S.I. No. [1999/2611](https://www.legislation.gov.uk/uksi/1999/2611).
+
+[^f00005]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

@@ -1,0 +1,629 @@
+---
+title: The Honey (Wales) Regulations 2015
+id: wsi/2015/1507
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-07-08'
+text_date: '2023-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2015/1507
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2015/1507/pdfs/wsi_20151507_mi.pdf
+- http://www.legislation.gov.uk/wsi/2015/1507/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Honey (Wales) Regulations 2015
+
+> Text as at 2023-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 1507 (W. 174)
+
+Food, Wales
+
+The Honey (Wales) Regulations 2015
+
+Made
+
+8th July 2015
+
+Laid before the National Assembly for Wales
+
+13 July 2015
+
+Coming into force
+
+3 August 2015
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 6(4)[^f00001], 16(1)(a) and (e)[^f00002], 17(1)[^f00003], 26(1) and (3)[^f00004] and 48(1)[^f00005] of the Food Safety Act 1990 and now vested in the Welsh Ministers[^f00006], having had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A)[^f00007] of the Food Safety Act 1990.[^key-27ce9942fc8d55486a63a8cfdb9881bb]
+
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00008], during the preparation and evaluation of the following Regulations.[^key-27ce9942fc8d55486a63a8cfdb9881bb]
+
+## PART 1 — Introduction
+
+### 1. Title, commencement and application[^key-0e479bf2ac1a2b333eeb05b3633fc96a]
+
+(1) The title of these Regulations is the Honey (Wales) Regulations 2015.
+
+(2) These Regulations come into force on 3 August 2015 and apply in relation to Wales.
+
+### 2. Definition of “honey” and different types of honey[^key-3da69b6db3f9849d524f8b849d6db35b]
+
+(1) In these Regulations “honey” (“*mêl*”) means the natural sweet substance produced by *Apis mellifera* bees from the nectar of plants or from secretions of living parts of plants or excretions of plant-sucking insects on the living parts of plants which the bees collect, transform by combining with specific substances of their own, deposit, dehydrate, store and leave in honeycombs to ripen and mature.
+
+(2) In these Regulations—
+
+- “baker’s honey” (“*mêl pobydd*”) means honey that is suitable for industrial use or as an ingredient in another foodstuff which is then processed;
+- “blossom honey” (“*mêl blodau*”) and “nectar honey” (“*mêl neithdar*”) mean honeys obtained from the nectar of plants;
+- “chunk honey” (“*mêl talpiau*”) and “cut comb in honey” (“*diliau wedi eu torri mewn mêl*”) mean honeys which contain one or more pieces of comb honey;
+- “comb honey” (“*mêl diliau*”) means honey stored by bees in the cells of freshly built broodless combs or thin comb foundation sheets made solely of beeswax and sold in sealed whole combs or sections of such combs;
+- “drained honey” (“*mêl wedi ei ddraenio*”) means honey obtained by draining de-capped broodless combs;
+- “extracted honey” (“*mêl wedi ei echdynnu*”) means honey obtained by centrifuging de-capped broodless combs;
+- “filtered honey” (“*mêl wedi ei hidlo*”) means honey obtained by removing foreign inorganic or organic matters in such a way as to result in the significant removal of pollen;
+- “honeydew honey” (“*mêl melwlith*”) means honey obtained mainly from excretions of plant sucking insects (*Hemiptera*) on the living part of plants or secretions of living parts of plants;
+- “pressed honey” (“*mêl wedi ei wasgu*”) means honey obtained by pressing broodless combs with or without the application of moderate heat not exceeding 45° Celsius.
+
+### 3. General interpretation[^key-f7ceb409591834d2de866c9d7944a482]
+
+(1) In these Regulations—
+
+- “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990;
+- “bulk containers” (“*cynwysyddion swmpus*”) has the same meaning as in Article 3 of the Honey Directive;
+- “FIC” (“*FIC*”) means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608)[^f00009];
+- “food authority” (“*awdurdod bwyd*”) means—
+  - (a) a county council;
+  - (b) a county borough council;
+- “the Honey Directive” (“*y Gyfarwyddeb Mêl*”) means Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey[^f00010];
+- “ingredient” (“*cynhwysyn*”) has the meaning given in Article 2(2)(f) of FIC, as read with Article 2(5) of the Honey Directive;
+- “in trade” (“*mewn masnach*”) has the same meaning as in the Honey Directive and “trade in” and “trading in” are to be construed accordingly;
+- “label” (“*label*”) has the meaning given in Article 2(2)(i) of FIC;
+- “packs” (“*pecynnau*”) has the same meaning as in Article 3 of the Honey Directive;
+- “trade documents” (“*dogfennau masnach*”) has the same meaning as in Article 3 of the Honey Directive;
+- “specific quality criteria” (“*meini prawf ansawdd penodol*”) has the same meaning as in the third indented paragraph of paragraph (b) of the second sub-paragraph of point 2 of Article 2 of the Honey Directive.
+
+(2) Any other expression used in both these Regulations and in the Honey Directive has the same meaning in these Regulations as in that Directive.
+
+### 4. Limited scope of specified provisions[^key-ee454bdf8f08c622924f9f3e86300b09]
+
+(1) The following provisions only apply in relation to a product intended for supply to a final consumer or mass caterer—
+
+- (a) Part 2, except for regulations 14(4) and 15(4) and (5);
+- (b) regulation 16(1) and (2);
+- (c) Part 4.
+
+(2) Regulation 16(3) and (4) only apply where the products intended for human consumption specified in those paragraphs (the products to which honey is added as an ingredient) are intended for supply to a final consumer or mass caterer.
+
+(3) In this regulation—
+
+- “final consumer” (“*defnyddiwr terfynol*”) has the meaning given in point 18 of Article 3 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00011];
+- “mass caterer” (“*arlwywr mawr*”) has the meaning given in Article 2(2)(d) of FIC.
+
+### 5. Application of requirements relating to product names[^key-c450d1dd038811261fde74079cabcbee]
+
+Where two or more provisions of these Regulations apply in determining the name to be used in respect of a particular honey, a person trading in that honey must use a name or combination name which complies with the requirements of each of those provisions.
+
+## PART 2 — Product names and descriptions
+
+### 6. Honey[^key-b8a63f78598dec40c61cf6f0a2de086b]
+
+(1) A person trading in a honey, except a honey to which paragraph (2) applies, must use the name “honey” in trade as the name of the product.
+
+(2) This paragraph applies to—
+
+- (a) baker’s honey;
+- (b) comb honey;
+- (c) drained honey;
+- (d) extracted honey;
+- (e) filtered honey;
+- (f) honeydew honey;
+- (g) honey that contains one or more pieces of comb honey (chunk honey and cut comb in honey);
+- (h) honey that is obtained from the nectar of plants (blossom honey and nectar honey); and
+- (i) pressed honey.
+
+(3) A person must not use the name “honey”, “mêl”, or the equivalent name in any other language, in trade, as the name of a product if the product is not honey.
+
+(4) Nothing in paragraph (1) prevents a person trading in a honey to which paragraph (2) applies from using the name “mêl” in addition to the name “honey”.
+
+(5) Nothing in paragraphs (1) or (4) prevents the name “honey” from being in any other language in addition to Welsh and English.
+
+### 7. Blossom honey and nectar honey[^key-28d39c47ddccf593df3641fb1b8e7dfc]
+
+(1) A person trading in honey obtained from the nectar of plants must use the name “honey”, “blossom honey” or “nectar honey” in trade as the name of the product.
+
+(2) A person must not use the name “blossom honey”, “mêl blodau”, “nectar honey”, “mêl neithdar”, or the equivalent name in any other language, in trade, as the name of a product if the product is not honey obtained from the nectar of plants.
+
+(3) Nothing in paragraph (1) prevents a person trading in honey obtained from the nectar of plants from using the name “mêl”, “mêl blodau” or “mêl neithdar” in addition to, respectively, the name “honey”, “blossom honey” or “nectar honey”.
+
+(4) Nothing in paragraphs (1) or (3) prevents the name “honey”, “blossom honey” or “nectar honey” from being in any other language in addition to Welsh and English.
+
+### 8. Honeydew honey[^key-fabdbe732d18dea902daf5309a76b34a]
+
+(1) A person trading in a honeydew honey must use the name “honey” or “honeydew honey” in trade as the name of the product.
+
+(2) A person must not use the name “honeydew honey”, “mêl melwlith”, or the equivalent name in any other language, in trade, as the name of a product if the product is not honeydew honey.
+
+(3) Nothing in paragraph (1) prevents a person trading in a honeydew honey from using the name “mêl” or “mêl melwlith” in addition to the name “honey” or “honeydew honey”.
+
+(4) Nothing in paragraphs (1) or (3) prevents the name “honey” or “honeydew honey” from being in any other language in addition to Welsh and English.
+
+### 9. Comb honey[^key-2e9e1d0ce98bbd3d869b9cfe842f1a4c]
+
+(1) A person trading in a comb honey must use the name “comb honey” in trade as the name of the product.
+
+(2) A person must not use the name “comb honey”, “mêl diliau”, or the equivalent name in any other language, in trade, as the name of a product if the product is not comb honey.
+
+(3) Nothing in paragraph (1) prevents a person trading in a comb honey from using the name “mêl diliau” in addition to the name “comb honey”.
+
+(4) Nothing in paragraphs (1) or (3) prevents the name “comb honey” from being in any other language in addition to Welsh and English.
+
+### 10. Chunk honey and cut comb in honey[^key-7c4a57ed24630c4405bfdd2a6f40b62f]
+
+(1) A person trading in a honey that contains one or more pieces of comb honey must use the name “chunk honey” or “cut comb in honey” in trade as the name of the product.
+
+(2) A person must not use the name “chunk honey”, “mêl talpiau”, “cut comb in honey”, “diliau wedi eu torri mewn mêl”, or the equivalent name in any other language, in trade, as the name of a product if the product does not contain one or more pieces of comb honey.
+
+(3) Nothing in paragraph (1) prevents a person trading in a honey that contains one or more pieces of comb honey from using the name “mêl talpiau” or “diliau wedi eu torri mewn mêl” in addition to, respectively, the name “chunk honey” or “cut comb in honey”.
+
+(4) Nothing in paragraphs (1) or (3) prevents the name “chunk honey” or “cut comb in honey” from being in any other language in addition to Welsh and English.
+
+### 11. Drained honey[^key-e3f0d0101fb51713b85fe2eb2f166a49]
+
+(1) A person trading in drained honey must use the name “honey” or “drained honey” in trade as the name of the product.
+
+(2) A person must not use the name “drained honey”, “mêl wedi ei ddraenio”, or the equivalent name in any other language, in trade, as the name of a product if the product is not drained honey.
+
+(3) Nothing in paragraph (1) prevents a person trading in drained honey from using the name “mêl” or “mêl wedi ei ddraenio” in addition to the name “honey” or “drained honey”.
+
+(4) Nothing in paragraphs (1) or (3) prevents the name “honey” or “drained honey” from being in any other language in addition to Welsh and English.
+
+### 12. Extracted honey[^key-af846a178488e01d11b93cf04d6b587c]
+
+(1) A person trading in extracted honey must use the name “honey” or “extracted honey” in trade as the name of the product.
+
+(2) A person must not use the name “extracted honey”, “mêl wedi ei echdynnu”, or the equivalent name in any other language, in trade, as the name of a product if the product is not extracted honey.
+
+(3) Nothing in paragraph (1) prevents a person trading in extracted honey from using the name “mêl” or “mêl wedi ei echdynnu” in addition to the name “honey” or “extracted honey”.
+
+(4) Nothing in paragraphs (1) or (3) prevents the name “honey” or “extracted honey” from being in any other language in addition to Welsh and English.
+
+### 13. Pressed honey[^key-7313b299f4fdc1ddd960f1fdfef21beb]
+
+(1) A person trading in pressed honey must use the name “honey” or “pressed honey” in trade as the name of the product.
+
+(2) A person must not use the name “pressed honey”, “mêl wedi ei wasgu”, or the equivalent name in any other language, in trade, as the name of a product if the product is not pressed honey.
+
+(3) Nothing in paragraph (1) prevents a person trading in pressed honey from using the name “mêl” or “mêl wedi ei wasgu” in addition to the name “honey” or “pressed honey”.
+
+(4) Nothing in paragraphs (1) or (3) prevents the name “honey” or “pressed honey” from being in any other language in addition to Welsh and English.
+
+### 14. Filtered honey[^key-aba803c825da44af83ba25fc9752f670]
+
+(1) A person trading in filtered honey must use the name “filtered honey” in trade as the name of the product.
+
+(2) A person must not use the name “filtered honey”, “mêl wedi ei hidlo”, or the equivalent name in any other language, in trade, as the name of a product if the product is not filtered honey.
+
+(3) A person trading in filtered honey must not provide information relating to the floral, vegetable, regional, territorial or topographical origin of the product or specific quality criteria for the product.
+
+(4) A person must not trade in filtered honey in bulk containers or packs unless the product name “filtered honey” is clearly indicated—
+
+- (a) on those containers and packs; and
+- (b) on the trade documents relating to the product.
+
+(5) Nothing in paragraph (1) prevents a person trading in filtered honey from using the name “mêl wedi ei hidlo” in addition to the name “filtered honey”.
+
+(6) Nothing in paragraph (4) prevents the product name “mêl wedi ei hidlo” from being indicated on the bulk containers and packs and on the trade documents relating to the product in addition to the name “filtered honey”.
+
+(7) Nothing in paragraphs (1), (4), (5) or (6) prevents the name “filtered honey” from being in any other language in addition to Welsh and English.
+
+### 15. Baker’s honey[^key-786b66a8c748e5526b520cabf75145ec]
+
+(1) A person trading in baker’s honey must use the name “baker’s honey” in trade as the name of the product.
+
+(2) A person must not use the name “baker’s honey”, “mêl pobydd”, or the equivalent name in any other language, in trade, as the name of a product if the product is not baker’s honey.
+
+(3) A person trading in baker’s honey must not provide information relating to the floral, vegetable, regional, territorial or topographical origin of the product or specific quality criteria for the product.
+
+(4) A person must not trade in baker’s honey unless the words “intended for cooking only” appear on the label of the product in close proximity to the product name.
+
+(5) A person must not trade in baker’s honey in bulk containers or packs unless the product name “baker’s honey” is clearly indicated—
+
+- (a) on those containers and packs; and
+- (b) on the trade documents relating to the product.
+
+(6) Where baker’s honey is used as an ingredient in a compound foodstuff, the product name “honey” may be used, in trade, in the product name of the compound foodstuff instead of “baker’s honey”.
+
+(7) Where baker’s honey is used as an ingredient in a compound foodstuff and the name “honey” is used in the product name of the compound foodstuff, a person must not trade in that foodstuff unless the list of ingredients for that foodstuff identifies that honey ingredient using the name “baker’s honey”.
+
+(8) Nothing in paragraph (1) prevents a person trading in baker’s honey from using the name “mêl pobydd” in addition to the name “baker’s honey”.
+
+(9) Nothing in paragraph (4) prevents the words “wedi ei fwriadu ar gyfer coginio yn unig” from appearing on the label of the product in addition to the words “intended for cooking only”.
+
+(10) Nothing in paragraph (5) prevents the product name “mêl pobydd” from being indicated on the bulk containers and packs and on the trade documents relating to the product in addition to the name “baker’s honey”.
+
+(11) Where baker’s honey is used as an ingredient in a compound foodstuff, nothing in paragraph (6) prevents the product name “mêl” from being used, in trade, in the product name of the compound foodstuff, in addition to the product name “honey”.
+
+(12) Nothing in paragraph (7) prevents the name “mêl pobydd” from being indicated on the list of ingredients in addition to the name “baker’s honey”.
+
+(13) Nothing in paragraphs (1), (4), (5), (6), (8), (9), (10), (11) or (12) prevents the relevant names and words from being in any other language in addition to Welsh and English.
+
+## PART 3 — Compositional requirements
+
+### 16. Compositional requirements[^key-896abddfd288ab51e322c98742381356]
+
+(1) A person must not place any product on the market as “honey”, “mêl”, or the equivalent name in any other language, unless it meets the appropriate compositional criteria for “honey” specified in Schedule 1.
+
+(2) A person must not place any product on the market using a product name listed in paragraph (5) unless it meets the appropriate compositional criteria for that type of honey specified in Schedule 1.
+
+(3) A person must not use a product (“the honey ingredient”) (“*y cynhwysyn mêl*”) as “honey”, “mêl”, or the equivalent name in any other language, in a product intended to be placed on the market for human consumption unless the honey ingredient meets the appropriate compositional criteria for “honey” specified in Schedule 1.
+
+(4) A person must not use a product (“the honey ingredient”) (“*y cynhwysyn mêl*”) as honey of a type listed in paragraph (5) in a product intended to be placed on the market for human consumption unless the honey ingredient meets the appropriate compositional criteria for that type of honey specified in Schedule 1.
+
+(5) The product names and types of honey are—
+
+- (a) baker’s honey;
+- (b) blossom honey;
+- (c) chunk honey;
+- (d) comb honey;
+- (e) cut comb in honey;
+- (f) drained honey;
+- (g) extracted honey;
+- (h) filtered honey;
+- (i) honeydew honey;
+- (j) nectar honey;
+- (k) pressed honey.
+
+## PART 4 — Additional labelling requirements
+
+### 17. Additional labelling requirements[^key-877d3b8a3e09d56470721fb3fad7a903]
+
+(1) No person may trade in honey unless the country of origin where the honey has been harvested is indicated on the label except that, if the honey originates in more than one [^key-da616bc16e6e5ab72da0d39ce6f58e31]... country, the countries of origin may be replaced with the indication “blend of honeys from more than one country” or wording in English with equivalent meaning.[^key-edf68e426e7f947694fa00d87f3446da]
+
+(2) In paragraphs (3) to (5), “relevant honey” (“*mêl perthnasol*”) means all honey except for baker’s honey and filtered honey.
+
+(3) The product name of a relevant honey may be supplemented by information relating to its floral or vegetable origin but no person may trade in a relevant honey for which such supplemental information is provided unless the product comes wholly or mainly from the indicated source and possesses the organoleptic, physico-chemical and microscopic characteristics of the source.
+
+(4) The product name of a relevant honey may be supplemented by information relating to its regional, territorial or topographical origin but no person may trade in a relevant honey for which such supplemental information is provided unless the product comes entirely from the indicated origin.
+
+(5) The product name of a relevant honey may be supplemented by information relating to its specific quality criteria.
+
+(6) In addition to the wording that is indicated on the label by virtue of paragraph (1), the indication “cyfuniad o felau o fwy nag un wlad” or wording in Welsh with equivalent meaning may be included.[^key-e027f8412f51290ad01a18e42ec900a3]
+
+(7) Nothing in paragraphs (1) or (6) prevents the words that may be included by virtue of paragraph (1) from being included in any other language in addition to Welsh and English.
+
+## PART 5 — Enforcement and miscellaneous provisions
+
+### 18. Enforcement[^key-617ba9b4c3eb99a823b348ba9d5e2a95]
+
+Each food authority must enforce and execute these Regulations in its area.
+
+### 18A. Methods of analysis[^key-ce776a9dc4acd5d3dda3145c0b92a29a]
+
+In carrying out its obligations under regulation 18, a food authority must, whenever possible, use a method of analysis approved by the Codex Alimentarius, or another internationally recognised validated method of analysis, to verify compliance with the provisions of these Regulations.
+
+### 19. Application and modification of provisions of the Act[^key-4fb530f3cf06eb43e3181961a15759f3]
+
+The provisions of the Act specified in column 1 of the table in Schedule 2 apply, with the modifications specified in column 2 of that table, for the purposes of these Regulations.
+
+### 20. Revocations[^key-c52f8344c9c4cad1ad7736da0dfeefd2]
+
+(1) The following are revoked—
+
+- (a) the Honey (Wales) Regulations 2003[^f00012];
+- (b) the Honey (Wales) (Amendment) Regulations 2005[^f00013]; and
+- (c) the Honey (Wales) (Amendment) Regulations 2008[^f00014].
+
+(2) In the Food Information (Wales) Regulations 2014[^f00015] the following provisions are omitted—
+
+- (a) entry 13 of the table in Part 1 of Schedule 6; and
+- (b) paragraphs 32 to 34 of Schedule 7.
+
+### 21. Amendment of the Food Information (Wales) Regulations 2014[^key-830353ee3aa025e5fff8f433c25ccc3b]
+
+Schedule 3 (amendment of the Food Information (Wales) Regulations 2014) has effect.
+
+### 22. Transitional provision[^key-70104c988c1d8f583235834497da2554]
+
+An authorised officer of a food authority must not serve an improvement notice under section 10(1) of the Act, as applied and modified by regulation 19, as read with Schedule 2, if—
+
+- (a) the improvement notice would relate to a product that was placed on the market or labelled before 3 August 2015; and
+- (b) the matters constituting the alleged contravention would not have constituted an offence under the Honey (Wales) Regulations 2003 as they applied immediately before 3 August 2015.
+
+### 23. Transitional provisions: withdrawal from the EU[^key-b9787679dc0244ff351667d98d170260]
+
+(1) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with regulation 17(1) if—
+
+- (a) the improvement notice would relate to a product that was placed on the market before IP completion day; and
+- (b) the matter constituting the alleged contravention would not have constituted an offence under regulation 17(1) as that provision had effect immediately before IP completion day.
+
+(2) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with regulation 17(1) if—
+
+- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^key-a55bd68871ec1248d882ddc18cea2f79];
+- (b) the product bears one of the indications provided for in regulation 17(1) as that provision had effect immediately before IP completion day;
+- (c) had the product been placed on the market immediately before IP completion day, the use of the indication would not have constituted a contravention of regulation 17(1) as that provision had effect immediately before IP completion day; and
+- (d) the indication is accurate in identifying the EU, non-EU or EU and non-EU origins, as the case may be, of the honeys in the product.
+
+(3) In this regulation, “improvement notice” means an improvement notice pursuant to regulation 19.
+
+Vaughan Gething
+
+Deputy Minster for Health, one of the Welsh Ministers
+
+## SCHEDULE 1 — Compositional criteria
+
+Regulation 16
+
+**1.**[^key-0642a7a5aa8f6166a0df93b901faeb4d] The honey consists essentially of different sugars, predominantly fructose and glucose, as well as other substances such as organic acids, enzymes and solid particles derived from honey collection.
+
+**2.**[^key-190e2a8f87c6b5156d01eeee11e1eb95] The colour varies from nearly colourless to dark brown.
+
+**3.**[^key-fc83ff815c614a848891cd4453b361a8] The consistency can be fluid, viscous or partly or entirely crystallised.
+
+**4.**[^key-bdfd0ca636f888904fc72c30a5b79cdb] The flavour and aroma vary but are derived from the plant origin.
+
+**5.**[^key-f311f7b40f83e2d1247a910818c76985] No food ingredient has been added, including any food additive.
+
+**6.**[^key-4d74ca3f67b552a3ffcddd5834c2c978] No other additions have been made to the honey except for other honey.
+
+**7.**[^key-7b807aae49773e236f5b9cd48dd03321] It must, as far as possible, be free from organic or inorganic matters foreign to its composition.
+
+**8.**[^key-f2597645779131546e95e241f5412c57] It must not—
+
+- (a) have any foreign tastes or odours;
+- (b) have begun to ferment;
+- (c) have an artificially changed acidity;
+- (d) have been heated in such a way that the natural enzymes have been either destroyed or significantly inactivated.
+
+**9.**[^key-8c9d1e04279bda63aa319f53a8922b5e] Paragraph 8 does not apply to baker’s honey.
+
+**10.**[^key-4d56d01fea63624922393fd300b366ec] No pollen or constituent particular to honey may be removed except where this is unavoidable in the removal of foreign inorganic or organic matter.
+
+**11.**[^key-218571d5f62d2df75b888826d71070f9] Paragraph 10 does not apply to filtered honey.
+
+**12.**[^key-86e6107a6ed5da7858db2ce942dbcb8f] The additional compositional criteria set out in the following table apply—
+
+<table>
+<thead>
+<tr><th>Criteria</th><th>Amount</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="2">Sugar content</th></tr>
+<tr><td colspan="2">1. (1) Fructose and glucose content (sum of both)—</td></tr>
+<tr><td>(a) blossom honey</td><td>not less than 60g/100g</td></tr>
+<tr><td>(a) honeydew honey and a blend of honeydew honey with blossom honey</td><td>not less than 45g/100g</td></tr>
+<tr><td colspan="2">(2) Sucrose content—</td></tr>
+<tr><td>(a) all honey except for honey specified in paragraph (b) or (c)</td><td>not more than 5g/100g</td></tr>
+<tr><td>(a) false acacia (<em>Robinia pseudoacacia</em>) honey, alfalfa (<em>Medicago sativa</em>) honey, Menzies Banksia (<em>Banksia menziesii</em>) honey, French honeysuckle (<em>Hedysarum</em>) honey, red gum (<em>Eucalyptus camadulensis</em>) honey, leatherwood (<em>Eucryphia lucida, Eucryphia milliganii</em>) honey, <em>Citrus</em> spp. honey</td><td>not more than 10g/100g</td></tr>
+<tr><td>(a) lavender (<em>Lavandula</em> spp.) honey, borage (<em>Borago officinalis</em>) honey</td><td>not more than 15g/100g</td></tr>
+<tr><th colspan="2">Moisture content</th></tr>
+<tr><td colspan="2">2. Moisture content—</td></tr>
+<tr><td>(a) all honey except for honey specified in paragraph (b), (c) or (d)</td><td>not more than 20%</td></tr>
+<tr><td>(a) honey from heather (<em>Calluna</em>)</td><td>not more than 23%</td></tr>
+<tr><td>(a) baker’s honey except for baker’s honey from heather (<em>Calluna</em>)</td><td>not more than 23%</td></tr>
+<tr><td>(a) baker’s honey from heather (<em>Calluna</em>)</td><td>not more than 25%</td></tr>
+<tr><th colspan="2">Water-insoluble content</th></tr>
+<tr><td colspan="2">3. Water-insoluble content—</td></tr>
+<tr><td>(a) all honey except pressed honey</td><td>not more than 0.1g/100g</td></tr>
+<tr><td>(a) pressed honey</td><td>not more than 0.5g/100g</td></tr>
+<tr><th colspan="2">Electrical conductivity</th></tr>
+<tr><td>4. Electrical conductivity—</td><td></td></tr>
+<tr><td>(a) all honey except for bell heather (<em>Erica</em>) honey, chestnut honey, eucalyptus honey, honeydew honey, lime (<em>Tilia</em> spp.) honey, ling heather (<em>Calluna vulgaris</em>) honey, manuka or jelly bush (<em>Leptospermum</em>) honey, strawberry tree (<em>Arbutus unedo</em>) honey and tea tree (<em>Melaleuca</em> spp.) honey</td><td>not more than 0.8mS/cm</td></tr>
+<tr><td>(a) blends of honeys to which paragraph (a) applies</td><td>not more than 0.8mS/cm</td></tr>
+<tr><td>(a) honeydew honey</td><td>not less than 0.8mS/cm</td></tr>
+<tr><td>(a) blends of honeydew honey except blends of that honey with bell heather (<em>Erica</em>) honey, eucalyptus honey, lime (<em>Tilia</em> spp.) honey, ling heather (<em>Calluna vulgaris</em>) honey, manuka or jelly bush (<em>Leptospermum</em>) honey, strawberry tree (<em>Arbutus unedo</em>) honey and tea tree (<em>Melaleuca</em> spp.) honey</td><td>not less than 0.8mS/cm</td></tr>
+<tr><td>(a) chestnut honey</td><td>not less than 0.8mS/cm</td></tr>
+<tr><td>(a) blends of chestnut honey except blends of that honey with bell heather (<em>Erica</em>) honey, eucalyptus honey, lime (<em>Tilia</em> spp.) honey, ling heather (<em>Calluna vulgaris</em>) honey, manuka or jelly bush (<em>Leptospermum</em>) honey, strawberry tree (<em>Arbutus unedo</em>) honey and tea tree (<em>Melaleuca</em> spp.) honey</td><td>not less than 0.8mS/cm</td></tr>
+<tr><th colspan="2">Free acid</th></tr>
+<tr><td colspan="2">5. Free acid—</td></tr>
+<tr><td>(a) all honey except for baker’s honey</td><td>not more than 50 milli-equivalents acid per kg</td></tr>
+<tr><td>(a) baker’s honey</td><td>not more than 80 milli-equivalents acid per kg</td></tr>
+<tr><th colspan="2">Diastase activity and hydroxymethylfurfural content</th></tr>
+<tr><td>6. Diastase activity and hydroxymethylfurfural content (HMF) determined after processing and blending—</td><td></td></tr>
+<tr><td colspan="2">(a) diastase activity (Schade scale) —</td></tr>
+<tr><td>(i) all honey except baker’s honey and honey specified in sub-paragraph (ii)</td><td>not less than 8</td></tr>
+<tr><td>(i) honey with a low natural enzyme content (e.g. citrus honey) and an HMF content of not more than 15mg/kg</td><td>not less than 3</td></tr>
+<tr><td colspan="2">(a) HMF—</td></tr>
+<tr><td>(i) all honey except baker’s honey and honey specified in sub-paragraph (ii)</td><td>not more than 40mg/kg</td></tr>
+<tr><td>(i) honey of a declared origin from a region with a tropical climate and blends of these honeys</td><td>not more than 80mg/kg</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — Application and modification of provisions of the Act[^key-259972b12ec1f0bb6364e218d6765dab]
+
+Regulation 19
+
+<table>
+<thead>
+<tr><th><em>Column 1</em><br><em>Provision of the Act</em></th><th><em>Column 2</em><br><em>Modifications</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Section 3 (presumptions that food intended for human consumption)</td><td>In subsection (1), for “this Act” substitute “the Honey (Wales) Regulations 2015”</td></tr>
+<tr><td>Section 10(1) and (2) (improvement notices)</td><td>For subsection (1) (improvement notices) substitute—<br>(1) If an authorised officer of a food authority has reasonable grounds for believing that a person is failing to comply with any of regulations 6 to 17 of the Honey (Wales) Regulations 2015, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—<br>(a) state the officer’s grounds for believing that the person is failing to comply with the relevant provision;<br>(b) specify the matters which constitute the person’s failure so to comply;<br>(c) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and<br>(d) require the person to take those measures, or measures that are at least equivalent to them, within such period (not being less than 14 days) as may be specified in the notice.</td></tr>
+<tr><td>Section 20 (offences due to fault of another person)</td><td>For “any of the preceding provisions of this Part” substitute “section 10(2), as applied by regulation 19 of, and Schedule 2 to, the Honey (Wales) Regulations 2015,”</td></tr>
+<tr><td>Section 21(1) and (5) (defence of due diligence)</td><td>In subsection (1), for “any of the preceding provisions of this Part” substitute “section 10(2), as applied by regulation 19 of, and Schedule 2 to, the Honey (Wales) Regulations 2015”</td></tr>
+<tr><td>Section 30(8) (evidence of certificates given by a food analyst or examiner)</td><td>For “this Act” substitute “the Honey (Wales) Regulations 2015”</td></tr>
+<tr><td>Section 33 (obstruction etc. of officers)</td><td>In subsection (1), for “this Act” (in each place occurring) substitute “the Honey (Wales) Regulations 2015”</td></tr>
+<tr><td rowspan="2">Section 35(1) and (2) (punishment of offences)</td><td>In subsection (1), after “section 33(1) above”, insert “, as applied and modified by regulation 19 of, and Schedule 2 to, the Honey (Wales) Regulations 2015,”<br>After subsection (1), insert—</td></tr>
+<tr><td>(1A) A person guilty of an offence under section 10(2), as applied by regulation 19 of, and Schedule 2 to, the Honey (Wales) Regulations 2015, shall be liable, on summary conviction, to a fine.</td></tr>
+<tr><td></td><td>In subsection (2) for “any other offence under this Act” substitute “an offence under section 33(2), as applied by regulation 19 of, and Schedule 2 to, the Honey (Wales) Regulations 2015,”</td></tr>
+<tr><td>Section 36 (offences by body corporate)</td><td>In subsection (1), for “this Act” substitute “section 10(2), as applied by regulation 19 of, and Schedule 2 to, the Honey (Wales) Regulations 2015,”</td></tr>
+<tr><td>Section 36A(offences by Scottish partnerships)</td><td>For “this Act” substitute “section 10(2), as applied by regulation 19 of, and Schedule 2 to, the Honey (Wales) Regulations 2015,”</td></tr>
+<tr><td>Section 37(1) and (6) (appeals)</td><td>For subsection (1) substitute—<br>(1) Any person who is aggrieved by a decision of an authorised officer of a food authority to serve an improvement notice under section 10(1), as applied and modified by regulation 19 of, and Schedule 2 to, the Honey (Wales) Regulations 2015, may appeal to a magistrates’ court.<br>In subsection (6)—<br>(a) for “(3) or (4)” substitute “(1)”, and<br>(b) in paragraph (a), omit “or to the sheriff”</td></tr>
+<tr><td>Section 39 (appeals against improvement notices)</td><td>For subsection (1) substitute—<br>(1) On an appeal against an improvement notice served under section 10(1), as applied and modified by regulation 19 of, and Schedule 2 to, the Honey (Wales) Regulations 2015, the magistrates’ court may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the court may in the circumstances think fit.<br>In subsection (3), omit “for want of prosecution”</td></tr>
+<tr><td>Section 44 (protection of officers acting in good faith)</td><td>For “this Act” (in each place occurring) substitute “the Honey (Wales) Regulations 2015”</td></tr>
+</tbody>
+</table>
+
+[^f00016][^f00017][^f00018]
+
+## SCHEDULE 3 — Amendment of the Food Information (Wales) Regulations 2014
+
+Regulation 21
+
+**1.**[^key-9c707e363405b099da5a9821d7462cb6] The Food Information (Wales) Regulations 2014 are amended as follows.
+
+**2.**[^key-dde2f065acf14e5d3ec348900159aa9d] In the table in Part 2 of Schedule 5 (FIC provisions in relation to which an improvement notice may be served on and from 13th December 2014)—
+
+- (a) in the third column, at the end of entry number 26, insert “and, in relation to honey, point 4(b) of Article 2 of Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey[^f00019]”; and
+- (b) in the third column, in entry number 27, for “and the first subparagraph of Article 54(1)” substitute “, the first subparagraph of Article 54(1) and, in relation to honey, point 4(b) of Article 2 of Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110)”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply in relation to Wales, implement Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey (OJ No L 10, 12.1.2002, p 47). They revoke and replace the Honey (Wales) Regulations 2003 ([S.I. 2003/3044](https://www.legislation.gov.uk/uksi/2003/3044)).
+
+The Regulations regulate the use of the names: honey (regulation 6); blossom honey and nectar honey (regulation 7); honeydew honey (regulation 8); comb honey (regulation 9); chunk honey and cut comb in honey (regulation 10); drained honey (regulation 11); extracted honey (regulation 12); pressed honey (regulation 13); filtered honey (regulation 14); baker’s honey (regulation 15).
+
+Regulation 16 and Schedule 1 prescribe compositional criteria with which such products must comply when placed on the market as honey and when used as honey in a product intended for human consumption.
+
+Regulation 17 contains additional labelling provisions.
+
+Regulation 18 imposes a duty on food authorities to enforce the Regulations.
+
+Regulation 19 and Schedule 2 apply certain provisions of the Food Safety Act 1990 ([1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16)), with modifications. This includes the application (with modifications) of section 10(1), enabling an improvement notice to be served requiring compliance with specified provisions of the Regulations.
+
+The provisions, as applied, make the failure to comply with an improvement notice an offence.
+
+Regulation 20 revokes the Honey (Wales) Regulations 2003, the [Honey (Wales) (Amendment) Regulations 2005 (S.I 2005/3052)](https://www.legislation.gov.uk/uksi/2005/3052), the Honey (Wales) (Amendment) Regulations 2008 ([S.I. 2008/543](https://www.legislation.gov.uk/uksi/2008/543)) and specified provisions of the Food Information (Wales) Regulations 2014 ([S.I. 2014/2303](https://www.legislation.gov.uk/uksi/2014/2303)) relating to the Honey (Wales) Regulations 2003.
+
+Regulation 21 and Schedule 3 amend the Food Information (Wales) Regulations 2014.
+
+Regulation 22 makes a transitional provision in respect of food placed on the market or labelled before 3 August 2015, prohibiting an improvement notice from being served in relation to such food if it would have been compliant with the Honey (Wales) Regulations 2003.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: Section 6(4) was amended by section 31 of, and paragraph 6 of Schedule 9 to, the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), section 40(1) and (4) of, and paragraph 10(1) and (3) of Schedule 5 and Schedule 6 to, the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28) (“the 1999 Act”), and [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^f00002]: Footnote: Section 16(1) was amended by section 40(1) of, and paragraphs 7 and 8 of Schedule 5 to, the 1999 Act.
+
+[^f00003]: Footnote: Section 17(1) was amended by section 40(1) of, and paragraphs 8 and 12(a) of Schedule 5 to, the 1999 Act, and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^f00004]: Footnote: Section 26(3) was partially repealed by section 40(4) of, and Schedule 6 to, the 1999 Act.
+
+[^f00005]: Footnote: Section 48(1) was amended by section 40(1) of, and paragraph 8 of Schedule 5 to, the 1999 Act.
+
+[^f00006]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). Functions formerly exercisable by “the Ministers”, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the 1999 Act, and subsequently transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00007]: Footnote: Section 48(4A) was inserted by section 40(1) of, and paragraph 21 of Schedule 5 to, the 1999 Act.
+
+[^key-27ce9942fc8d55486a63a8cfdb9881bb]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2015/1507) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^f00008]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
+
+[^key-0e479bf2ac1a2b333eeb05b3633fc96a]: Commencement: Reg. 1 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-3da69b6db3f9849d524f8b849d6db35b]: Commencement: Reg. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-f7ceb409591834d2de866c9d7944a482]: Commencement: Reg. 3 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^f00009]: Footnote: OJ No L 304, 22.11.2011, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p 7).
+
+[^f00010]: Footnote: OJ No L 10, 12.1.2002, p 47, last amended by Directive 2014/63/EU of the European Parliament and of the Council (OJ No 164, 3.6.2014, p 1).
+
+[^key-ee454bdf8f08c622924f9f3e86300b09]: Commencement: Reg. 4 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^f00011]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
+
+[^key-c450d1dd038811261fde74079cabcbee]: Commencement: Reg. 5 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-b8a63f78598dec40c61cf6f0a2de086b]: Commencement: Reg. 6 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-28d39c47ddccf593df3641fb1b8e7dfc]: Commencement: Reg. 7 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-fabdbe732d18dea902daf5309a76b34a]: Commencement: Reg. 8 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-2e9e1d0ce98bbd3d869b9cfe842f1a4c]: Commencement: Reg. 9 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-7c4a57ed24630c4405bfdd2a6f40b62f]: Commencement: Reg. 10 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-e3f0d0101fb51713b85fe2eb2f166a49]: Commencement: Reg. 11 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-af846a178488e01d11b93cf04d6b587c]: Commencement: Reg. 12 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-7313b299f4fdc1ddd960f1fdfef21beb]: Commencement: Reg. 13 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-aba803c825da44af83ba25fc9752f670]: Commencement: Reg. 14 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-786b66a8c748e5526b520cabf75145ec]: Commencement: Reg. 15 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-896abddfd288ab51e322c98742381356]: Commencement: Reg. 16 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-877d3b8a3e09d56470721fb3fad7a903]: Commencement: Reg. 17 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-da616bc16e6e5ab72da0d39ce6f58e31]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/17/1) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [14(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/14/2/a/i)
+
+[^key-edf68e426e7f947694fa00d87f3446da]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/17/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [14(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/14/2/a/ii)
+
+[^key-e027f8412f51290ad01a18e42ec900a3]: Textual amendment: Words in [reg. 17(6)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/17/6) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [14(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/14/2/b)
+
+[^key-617ba9b4c3eb99a823b348ba9d5e2a95]: Commencement: Reg. 18 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-ce776a9dc4acd5d3dda3145c0b92a29a]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/wsi/2015/1507/regulation/18A) inserted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2019/435/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4fb530f3cf06eb43e3181961a15759f3]: Commencement: Reg. 19 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-c52f8344c9c4cad1ad7736da0dfeefd2]: Commencement: Reg. 20 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^f00012]: Footnote: [S.I. 2003/3044](https://www.legislation.gov.uk/uksi/2003/3044), amended by [S.I. 2005/3052](https://www.legislation.gov.uk/uksi/2005/3052), [2005/3254](https://www.legislation.gov.uk/uksi/2005/3254), [2008/543](https://www.legislation.gov.uk/uksi/2008/543), [2014/2303](https://www.legislation.gov.uk/uksi/2014/2303).
+
+[^f00013]: Footnote: [S.I. 2005/3052](https://www.legislation.gov.uk/uksi/2005/3052).
+
+[^f00014]: Footnote: [S.I. 2008/543](https://www.legislation.gov.uk/uksi/2008/543).
+
+[^f00015]: Footnote: [S.I. 2014/2303](https://www.legislation.gov.uk/uksi/2014/2303).
+
+[^key-830353ee3aa025e5fff8f433c25ccc3b]: Commencement: Reg. 21 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-70104c988c1d8f583235834497da2554]: Commencement: Reg. 22 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-b9787679dc0244ff351667d98d170260]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/wsi/2015/1507/regulation/23) inserted (14.4.2021) by [The Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/371)](https://www.legislation.gov.uk/wsi/2021/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/371/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2021/371/regulation/6)
+
+[^key-a55bd68871ec1248d882ddc18cea2f79]: Textual amendment: Words in [reg. 23(2)(a)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/23/2/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2022/939/regulation/8)
+
+[^key-0642a7a5aa8f6166a0df93b901faeb4d]: Commencement: Sch. 1 para. 1 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-190e2a8f87c6b5156d01eeee11e1eb95]: Commencement: Sch. 1 para. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-fc83ff815c614a848891cd4453b361a8]: Commencement: Sch. 1 para. 3 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-bdfd0ca636f888904fc72c30a5b79cdb]: Commencement: Sch. 1 para. 4 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-f311f7b40f83e2d1247a910818c76985]: Commencement: Sch. 1 para. 5 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-4d74ca3f67b552a3ffcddd5834c2c978]: Commencement: Sch. 1 para. 6 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-7b807aae49773e236f5b9cd48dd03321]: Commencement: Sch. 1 para. 7 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-f2597645779131546e95e241f5412c57]: Commencement: Sch. 1 para. 8 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-8c9d1e04279bda63aa319f53a8922b5e]: Commencement: Sch. 1 para. 9 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-4d56d01fea63624922393fd300b366ec]: Commencement: Sch. 1 para. 10 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-218571d5f62d2df75b888826d71070f9]: Commencement: Sch. 1 para. 11 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-86e6107a6ed5da7858db2ce942dbcb8f]: Commencement: Sch. 1 para. 12 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-259972b12ec1f0bb6364e218d6765dab]: Commencement: Sch. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^f00016]: Footnote: Section 35(1) is amended by paragraph 42 of Schedule 26 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) from a date to be appointed. There are other amendments to section 35(1) not relevant to these Regulations.
+
+[^f00017]: Footnote: Section 35(2) was amended by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664). There are other amendments to section 35(2) not relevant to these Regulations.
+
+[^f00018]: Footnote: Section 36A was inserted by section 40(1) of, and paragraphs 7 and 16 of Schedule 5 to, the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28).
+
+[^key-9c707e363405b099da5a9821d7462cb6]: Commencement: Sch. 3 para. 1 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^key-dde2f065acf14e5d3ec348900159aa9d]: Commencement: Sch. 3 para. 2 in force at 3.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2)
+
+[^f00019]: Footnote: OJ No L 10, 12.1.2002, p 47, last amended by Directive 2014/63/EU of the European Parliament and of the Council (OJ No 164, 3.6.2014, p 1).

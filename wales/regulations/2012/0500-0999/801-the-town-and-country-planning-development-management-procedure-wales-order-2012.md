@@ -1,0 +1,2026 @@
+---
+title: The Town and Country Planning (Development Management Procedure) (Wales) Order 2012
+id: wsi/2012/801
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-03-10'
+text_date: '2025-12-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2012/801
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2012/801/pdfs/wsi_20120801_mi.pdf
+- http://www.legislation.gov.uk/wsi/2012/801/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Development Management Procedure) (Wales) Order 2012
+
+> Text as at 2025-12-15.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 801 (W.110)
+
+TOWN AND COUNTRY PLANNING, WALES
+
+The Town and Country Planning (Development Management Procedure) (Wales) Order 2012
+
+Made
+
+10 March 2012
+
+Laid before the National Assembly for Wales
+
+13 March 2012
+
+Coming into force
+
+30 April 2012
+
+The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 59, 61(1), 61A, 62, 65, 69, 71, 74, 77, 78, 79(4), 188, 193, 196(4), 293A and 333(7) of, and paragraphs 1 and 2 of Schedule 1A, and Schedule 4A to, the Town and Country Planning Act 1990 [^c21236441] now exercisable by them [^c21236451] and in exercise of the powers conferred on the National Assembly for Wales by sections 88 and 122(3) of the Planning and Compulsory Purchase Act 2004 [^c21236461], also now exercisable by them [^c21236471], make the following Order:[^key-797c98dcf6074b4d3865dd7c161ca923][^key-3f5386b2d9681c109964810b2d09c353]
+
+## PART 1 — Preliminary
+
+### 1. Title, commencement and application
+
+(1) The title of this Order is the Town and Country Planning (Development Management Procedure) (Wales) Order 2012 and it comes into force on 30 April 2012.
+
+(2) This Order applies to all land in Wales, but where land is the subject of a special development order [^c21236481], whether made before or after the commencement of this Order, this Order will apply to that land only to such extent and subject to such modifications as may be specified in the special development order.
+
+(3) Nothing in this Order applies to any permission which is deemed to be granted under section 222 of the 1990 Act (planning permission not needed for advertisements complying with regulations).
+
+(4)[^key-55fc99d28c878dee774e7a444f192470] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Interpretation
+
+(1) In this Order—
+
+- “**the 1990 Act**” (“***Deddf 1990***”) means the Town and Country Planning Act 1990;
+- “**the 2004 Act**” (“***Deddf 2004***”) means the Planning and Compulsory Purchase Act 2004;
+- “the[^key-3c2399b580f1d36cf74e3a8f83f61559] 2015 Act” (“*Deddf 2015*”) means the Planning (Wales) Act 2015;
+- “**access**” (“***mynediad***”), in relation to reserved matters, means the accessibility to and within the site for vehicles, cycles and pedestrians in terms of the positioning and treatment of access and circulation routes and how these fit into the surrounding access network and “**site**” means the site or part of the site in respect of which outline planning permission is granted or, as the case may be, in respect of which an application for such a permission has been made;
+- “any other information” (“[^key-722582e78cd452c867e78e4d5580fa2e]*unrhyw wybodaeth arall*”) has the meaning in the EIA Regulations;
+- “**appearance**” (“***ymddangosiad***”) means the aspects of a building or place within the development which determine the visual impression the building or place makes, including the external built form of the development, its architecture, materials, decoration, lighting, colour and texture;
+- “**building**” (“***adeilad***”) includes any structure or erection, and any part of a building, as defined in this article, but does not include plant or machinery or any structure in the nature of plant or machinery;
+- “community consultee” (“*ymgynghorai cymunedol*”) means—
+  - (a) each county or county borough councillor representing an electoral ward in which the land to which the proposed application relates is situated; and
+  - (b) each community council in whose area the land to which the proposed application relates is situated;
+- “**dwelling*house***” (“***tŷ annedd***”) does not include a building containing one or more flats, or a flat contained within such a building;
+- “EIA application” (“[^key-27e97291347bb1387ce4f91b6d077439]*cais* AEA”) has the meaning in the EIA Regulations;
+- “EIA development” (“[^key-9f6ecd323e2e3c70c449a64d1d036ecb]*datblygiad* AEA”) has the meaning in the EIA Regulations;
+- “EIA Regulations” (“[^key-6d74a0236f7a8cf9518610d66eef3de4]*Rheoliadau* AEA”) means the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017;
+- “electoral ward” (“*ward etholiadol*”) means any area for which a councillor is elected to a county council or a country borough council in Wales;
+- “**electronic communication**” (“***cyfathrebiad electronig***”) has the meaning given in section 15(1) of the Electronic Communications Act 2000 (general interpretation) [^c21236491];
+- [^key-8a23bb90906bb798cecd29460f3dcbf2]...
+- “**erection**” (“***codi***”), in relation to buildings as defined in this article, includes extension, alteration or re-erection;
+- “environmental information” (“[^key-15ef32ffe95b74e8d5485a429def238d]*gwybodaeth amgylcheddol*”) has the meaning in the EIA Regulations;
+- “environmental statement” (“[^key-63b60e76643109187b727b11fecdb82a]*datganiad amgylcheddol*”) has the meaning in the EIA Regulations;
+- “**flat**” (“***fflat***”) means a separate and self-contained set of premises constructed or adapted for use for the purpose of a dwelling and forming part of a building from some other part of which it is divided horizontally;
+- “**floor space**” (“***arwynebedd llawr***”) means the total floor space in a building or buildings;
+- “full statement of case” (“[^key-788fd3482c5e0eb602f994f11fcd453d]*datganiad achos llawn*”) means and is comprised of —
+  - (a) a statement in writing containing full particulars of the case—
+    - (i) the applicant proposes to put forward in relation to the application referred to the Welsh Ministers pursuant to a direction under section 77 of the 1990 Act; or
+    - (ii) the appellant proposes to put forward in relation to the appeal under section 78 of the 1990 Act; and
+  - (b) copies of any supporting documents the applicant or the appellant proposes to refer to or put forward in evidence;
+- “further information” (“[^key-454568e442fc351da489843feca3c19e]*gwybodaeth* bellach”) has the meaning in the EIA Regulations;
+- “householder application” (“[^key-d7c4f730b1880a40168cc904a9bb7c49]*cais deiliad tŷ*”) means an application for—
+  - (a) planning permission for the enlargement, improvement or other alteration of a dwellinghouse, or development within the curtilage of such a dwellinghouse, or
+  - (b) change of use to enlarge the curtilage of a dwelling house,
+
+  for any purpose incidental to the enjoyment of the dwellinghouse but does not include—
+
+  - (i) any other application for change of use,
+  - (ii) an application for erection of a dwellinghouse, or
+  - (iii) an application to change the number of dwellings in a building;
+- “**landscaping**” (“***tirlunio***”), in relation to a site or any part of a site for which outline planning permission has been granted or, as the case may be, in respect of which an application for such permission has been made, means the treatment of land (other than buildings) for the purpose of enhancing or protecting the amenities of the site and the area in which it is situated and includes—
+  - (a) screening by fences, walls or other means;
+  - (b) the planting of trees, hedges, shrubs or grass;
+  - (c) the formation of banks, terraces or other earthworks;
+  - (d) the laying out or provision of gardens, courts, squares, water features, sculpture or public art; and
+  - (e) the provision of other amenity features;
+- “**layout**” (“***llunwedd***”) means the way in which buildings, routes and open spaces within the development are provided, situated and orientated in relation to each other and to buildings and spaces outside the development;
+- “**major development**” (“***datblygiad mawr***”) means development [^c21236511] involving any one or more of the following—
+  - (a) the winning and working of minerals or the use of land for mineral-working deposits [^c21236521];
+  - (b) waste development;
+  - (c) the provision of dwellinghouses where—
+    - (i) the number of dwellinghouses to be provided is 10 or more; or
+    - (ii) the development is to be carried out on a site having an area of 0.5 hectares or more and it is not known whether the development falls within sub-paragraph (c)(i);
+  - (d) the provision of a building or buildings where the floor space to be created by the development is 1,000 square metres or more; or
+  - (e) development carried out on a site having an area of 1 hectare or more;
+- “**mining operations**” (“***gweithrediadau mwyngloddio***”) means the winning and working of minerals in, on or under land, whether by surface or underground working;
+- “minor commercial application” (“[^key-94372e8e5ab9fefe4a8f6d895c8a40bb]*cais masnachol bach*”) means an application for planning permission for the enlargement, improvement or other alteration of an existing building of no more than 250 square metres gross external floor space at ground floor level, or part of that building, currently in use for any of the purposes set out in Schedule 1A to this Order which is an application for—
+  - (a) the change of use from any of the purposes set out at paragraph 1 in Schedule 1A to this Order to any of the purposes set out in either paragraph 2 or paragraph 3 of that Schedule;
+  - (b) the change of use from any of the purposes set out at paragraph 2 in Schedule 1A to this Order to any of the purposes set out in paragraph 3 of that Schedule; or
+  - (c) the carrying out of building or other operations to a shop front;
+- “**outline planning permission**” (“***caniatd cynllunio amlinellol***”) means a planning permission for the erection of a building, which is granted subject to a condition requiring the subsequent approval of the local planning authority with respect to one or more reserved matters;
+- “reserved matters” (“*materion a gedwir yn l*”, “*materion a gadwyd yn l*”) in relation to an outline planning permission, or an application for such permission, means any of the following matters in respect of which details have not been given in the application—
+  - (a) access;
+  - (b) appearance;
+  - (c) landscaping;
+  - (d) layout; and
+  - (e) scale, within the upper and lower limit for the height, width and length of each building stated in the application for planning permission in accordance with article 3(4);
+- “**scale**” (“***graddfa***”) means the height, width and length of each building proposed within the development in relation to its surroundings;
+- “Schedule 1 development” (“[^key-da92e47a69fb6ac71513cb5ff78e4f4d]*datblygiad Atodlen* 1”) and “Schedule 2 development” (“*datblygiad Atodlen* 2”) have the meanings in the EIA Regulations;
+- “scoping direction” (“[^key-0af3941706ddab72c3f2bd8ea1924570]*cyfarwyddyd cwmpasu*”) has the meaning in the EIA Regulations;
+- “scoping opinion” (“[^key-92d31c5902dbb561920600e321ea2941]*barn gwmpasu*”) has the meaning in the EIA Regulations;
+- “section 73 application” (“*cais adran 73*”) means an application for planning permission under section 73 of the 1990 Act for the development of land without complying with conditions subject to which a previous planning permission was granted;
+- “**by site display**” (“***drwy arddangos ar y safle***”) means by the posting of the notice by firm affixture to some object, sited and displayed in such a way as to be easily visible and legible by members of the public; and
+- “specialist consultee” (“*ymgynghorai arbenigol*”) means, where the development to which a proposed application for planning permission relates falls within a category set out in the Table in Schedule 4, the authority, person or body mentioned in relation to that category;
+- “**waste development**” (“***datblygiad gwastraff***”) means (a) any operational development designed to be used wholly or mainly for the purpose of treating, storing, processing or disposing of refuse or waste materials or (b) material change of use to the treatment, storage, processing or disposal of refuse or waste materials.
+
+(2) In this Order and in relation to the use of electronic communications or electronic storage for any purpose of this Order which is capable of being carried out electronically—
+
+- (a) the expression “**address**” (“***cyfeiriad***”) includes any number or address used for the purpose of such communications or storage, except that where this Order imposes any obligation on any person to provide a name and address to any other person, the obligation is not fulfilled unless the person on whom it is imposed provides a postal address; and
+- (b) references to documents, maps, plans, drawings, certificates or other documents, or to copies of such things, include references to such documents or copies of them in electronic form.
+
+(3) Paragraphs (4) to (7) apply where an electronic communication is used by a person for the following purposes—
+
+- (a) fulfilling any requirement in this Order to give or send any application, notice or other document to any other person; or
+- (b) lodging an application, certificate or other document referred to in article 22(3) with a local planning authority,
+
+and in those paragraphs, “**the recipient**” (“***y derbynnydd***”) means the person mentioned in sub-paragraph (a) of this paragraph or the local planning authority, as the case may be.
+
+(4) The requirement is not taken to be fulfilled, or (as the case may be) the application or other document is not taken to have been lodged, unless the document transmitted by the electronic communication is—
+
+- (a) capable of being accessed by the recipient;
+- (b) legible in all material respects; and
+- (c) sufficiently permanent to be used for subsequent reference.
+
+(5) In paragraph (4), “**legible in all material respects**” (“***darllenadwy ym mhob modd perthnasol***”) means that the information contained in the notice or document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
+
+(6) Where the electronic communication is received by the recipient outside the recipient's business hours, it is taken to have been received on the next working day; and for this purpose “**working day**” (“***diwrnod gwaith***”) means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.
+
+(7) A requirement in this Order that any application, notice or other document should be in writing is fulfilled where the document meets the criteria in paragraph (4), and “**written**” (“***ysgrifenedig***”) and cognate expressions are to be construed accordingly.
+
+### 2A. Development to include certain internal operations[^key-1014cd6d44a8f32fcde6ab940c8c4468]
+
+Subsection (2) of section 55 of the 1990 Act does not apply to operations mentioned in paragraph (a) of that subsection which have the effect of increasing the floor space of the building by more than 200 square metres in circumstances where that the building is used for the retail sale of goods other than hot food.
+
+## PART 1A — Pre-application consultation[^key-c7c1a57f0e3fe6ad13bb72599dbde05f]
+
+### 2B. Requirement to carry out pre-application consultation
+
+(1) Major development is specified for the purposes of section 61Z(1) of the 1990 Act (Wales: requirement to carry out pre-application consultation).
+
+(2) Proposed section 73 applications and applications to be made under section 73A of the 1990 Act (Planning permission for development already carried out) are specified for the purposes of section 61Z(7)(b) of the 1990 Act.
+
+### 2C. Publicity before applying for planning permission
+
+(1) The applicant must publicise the proposed application by—
+
+- (a) giving requisite notice—
+  - (i) by site display in at least one place on or near the land to which the proposed application relates for not less than 28 days; and
+  - (ii) in writing to any owner or occupier of any land adjoining the land to which the proposed application relates; and
+- (b) making the following information available for inspection at a location in the vicinity of the proposed development for not less than 28 days beginning with each day on which each of the notices referred to in sub-paragraph (a) or article 2D(2) are given—
+  - (i) any documents and particulars or evidence that would be required for a subsequent application, in the same or substantially the same form, to be a valid application except certificates in relation to notices of applications for planning permission required by article 11;
+  - (ii) a plan which identifies the land to which the proposed application relates;
+  - (iii) any other plans, drawings and information necessary to describe the development which is the subject of the proposed application;
+  - (iv) in a case to which article 7 applies, the design and access statement; and
+  - (v) subject to article 8(2), the particulars or evidence required by the local planning authority under section 62(3) of the 1990 Act.
+
+(2) Any plans or drawings required to be provided by paragraph (1)(b)(ii) or (iii) must be drawn to an identified scale and, in the case of plans, must show the direction of north.
+
+(3) The applicant must have complied with paragraph (1) before an application is submitted.
+
+(4) Where the notice referred to in paragraph (1)(a)(i) is, without any fault or intention of the applicant, removed obscured or defaced before the period of 28 days has elapsed, the applicant will be treated as having complied with the requirements of the relevant paragraph if the applicant has taken reasonable steps to protect the notice and, if need be, replace it.
+
+(5) In this article “requisite notice” (“*hysbysiad gofynnol*”) means notice in the form set out in Schedule 1B or in a form substantially to the like effect.
+
+### 2D. Consultation before applying for planning permission
+
+(1) The following persons or descriptions of persons are specified for the purposes of section 61Z(4) of the 1990 Act—
+
+- (a) any community consultees; and
+- (b) any specialist consultee.
+
+(2) Where an applicant is required to consult a community consultee, the applicant must give the community consultee requisite notice in writing of the proposed application.
+
+(3) Where an applicant is required to consult a specialist consultees the applicant must give the specialist consultee requisite notice in writing of the proposed application and enclose each of the documents referred to in article 2C(1)(b) or provide a link to a website on which those documents can be found.
+
+(4) The applicant must have complied with paragraphs (2) and (3) and have given the specialist consultee time to respond in accordance with article 2E(1) before an application is submitted.
+
+(5) In this article, “requisite notice” (“*hysbysiad gofynnol*”) means—
+
+- (a) in relation to a community consultee notice in the form set out in Schedule 1B; and
+- (b) in relation to a specialist consultee notice in the form set out in Schedule 1C,
+
+or a form substantially to the like effect.
+
+### 2E. Duty to respond to pre-application consultation: specialist consultees
+
+(1) A specialist consultee, consulted in accordance with the provisions of section 61Z(4) of the 1990 Act, must provide a substantive response within 28 days beginning with the day on which the notice referred to in article 2D(3) is given or such other period as may be agreed in writing between the specialist consultee and the applicant.
+
+(2) For the purposes of this article, a substantive response is one which—
+
+- (a) states that the specialist consultee has no comment to make;
+- (b) states that the specialist consultee has no objection to the proposed development and refers the applicant to current standing advice by the specialist consultee on the subject of the consultation;
+- (c) advises the applicant of any concerns identified in relation to the proposed development and how those concerns can be addressed; or
+- (d) advises the applicant that the specialist consultee has concerns and that it would object to an application for planning permission made in the same or substantially the same terms and sets out the reasons for those objections.
+
+### 2F. Pre-application consultation reports
+
+(1) Where an applicant has been required to carry out pre-application consultation in accordance with the provisions of section 61Z of the 1990 Act and articles 2C and 2D and submits an application for planning permission, that application must be accompanied by a pre-application consultation report which gives particulars of—
+
+- (a) how the applicant complied with section 61Z of the 1990 Act;
+- (b) any response to the consultation received from any person consulted under section 61Z(3) or (4) of the 1990 Act; and
+- (c) the account taken of those responses.
+
+(2) The pre-application consultation report must include—
+
+- (a) a copy of the notice referred to in article 2C(1)(a)(i);
+- (b) a declaration that the notice referred to in article 2C(1)(a)(i) was displayed in accordance with the requirements of that article;
+- (c) a list of the addresses of persons who were given notice of the proposed application in accordance with article 2C(1)(a)(ii) and a copy of the notice given to such persons;
+- (d) copies of all notices given to community consultees and specialist consultees in accordance with articles 2D(2) and 2D(3);
+- (e) a summary of all issues raised by any person notified of the proposed application in accordance with section 61Z(3) of the 1990 Act and articles 2C and 2D(2), including confirmation of whether the issues raised have been addressed, and, if so, how; and
+- (f) copies of all responses received from specialist consultees with an explanation of the account taken of each response.
+
+### 2G. Coronavirus: temporary modifications of this Part[^key-958c598bf30d43a0f0f070d5fcd77655]
+
+(1) This Part applies with the modifications set out in this article where—
+
+- (a) each of the notices that articles 2C(1)(a) and 2D(2) require an applicant to give in relation to a proposed application is given after the start of the emergency period, and
+- (b) at least one of those notices is given before the end of the emergency period.
+
+(2) In this article, “the emergency period” means the period—
+
+- (a) beginning with 19 May 2020, and
+- (b) ending with 8 October 2021[^key-003c5a7d3a6ac1ea4f178550ea5dc6c5].
+
+(3) Article 2C(1) has effect as if—
+
+- (a) in sub-paragraph (b), for “making the following information available for inspection at a location in the vicinity of the proposed development” there were substituted “making the following information available on a website”;
+- (b) after sub-paragraph (b) there were inserted—
+
+  > and
+  >
+  > - (c) sending hard copies of the documents referred to in sub-paragraph (b) to any person who requests them, where the request is made within the period of 28 days mentioned in that sub-paragraph.
+
+(4) Article 2C has effect as if after paragraph (3) there were inserted—
+
+> (3A) If hard copies of any documents have been requested as mentioned in paragraph (1)(c), an application must not be submitted before the end of the period of 14 days beginning with the day on which the last document is sent in accordance with that paragraph.
+
+(5) Article 2C(5) has effect in relation to each notice given by the applicant under article 2C(1)(a) as if the reference to Schedule 1B were to Schedule 1D.
+
+(6) Article 2D(5)(a) has effect in relation to each notice given by the applicant under article 2D(2) as if the reference to Schedule 1B were to Schedule 1D.
+
+(7) Article 2F(2) has effect as if after sub-paragraph (c) there were inserted—
+
+> - (ca) a declaration that the information referred to in sub-paragraph (b) of article 2C(1) was made available in accordance with that sub-paragraph;
+> - (cb) a statement setting out whether hard copies of any documents were requested as mentioned in sub-paragraph (c) of article 2C(1) and, if so, a declaration that the hard copies were sent in accordance with that sub-paragraph;
+
+.
+
+## PART 2 — Applications
+
+### 3. Applications for outline planning permission
+
+(1) Where an application is made to the local planning authority for outline planning permission, the authority may grant permission subject to a condition specifying reserved matters for the authority's subsequent approval.
+
+(2) Where the local planning authority who are to determine an application for outline planning permission are of the opinion that, in the circumstances of the case, the application ought not to be considered separately from all or any of the reserved matters, they must within the period of one month beginning with the receipt of the application notify the applicant that they are unable to determine it unless further details are submitted, specifying the further details they require.
+
+(3) Where layout is a reserved matter, the application for outline planning permission must state the approximate location of buildings, routes and open spaces included in the development proposed.
+
+(4) Where scale is a reserved matter, the application for outline planning permission must state the upper and lower limit for the height, width and length of each building included in the development proposed.
+
+(5) Where access is a reserved matter, the application for outline planning permission must state the area or areas where access points to the development proposed will be situated.
+
+### 4. Applications for approval of reserved matters
+
+(1) An application for approval of reserved matters must—
+
+- (a) be made in writing to the local planning authority on a form published by the Welsh Ministers (or a form substantially to the like effect);
+- (b) include the particulars specified or referred to in the form;
+- (c) be accompanied by such plans and drawings as are necessary to deal with the matters reserved in the outline planning permission;
+- (d) except where the application is made by electronic communications or the local planning authority indicate that fewer are required, be accompanied by 3 copies of the form; and
+- (e) except where they are submitted by electronic communications or the local planning authority indicate that fewer are required, be accompanied by 3 copies of any plans, drawings and information accompanying the application.
+
+(2) Any plans or drawings required to be provided by paragraph (1)(c) must be drawn to an identified scale and, in the case of plans, must show the direction of north.
+
+(3) Where an application is made using electronic communications the provisions of article 32 apply.
+
+### 5. Applications for planning permission
+
+(1) Subject to the following provisions of this article, an application for planning permission must—
+
+- (a) be made in writing to the local planning authority on a form published by the Welsh Ministers (or a form substantially to the like effect);
+- (b) include the particulars specified or referred to in the form;
+- (c) except in the case of a section 73 application or where the application is made pursuant to[^key-6407cd8e76e086f092244f865fe92111] section 73A(2)(c) (planning permission for development already carried out) of the 1990 Act [^c21236531], be accompanied, whether electronically or otherwise, by—
+  - (i) a plan which identifies the land to which the application relates;
+  - (ii) any other plans, drawings and information necessary to describe the development which is the subject of the application;
+  - (iii) except where the application is made by electronic communications or the local planning authority indicate that fewer are required, 3 copies of the form; and
+  - (iv) except where they are submitted by electronic communications or the local planning authority indicate that fewer are required, 3 copies of any plans, drawings and information accompanying the application.
+
+(2) Any plans or drawings required to be provided by paragraph (1)(c)(i) or (ii) must be drawn to an identified scale and, in the case of plans, must show the direction of north.
+
+(3) Subject to paragraphs (3) to (5) of article 3, in the case of an application for outline planning permission, details need not be given of any reserved matters.
+
+(4) An application for planning permission for development consisting of mining operations or the use of land for mineral-working deposits must—
+
+- (a) be made on a form provided by the local planning authority;
+- (b) include the particulars specified or referred to in the form; and
+- (c) comply with the requirements of paragraph (1)(c).
+
+(5) Where an application is made using electronic communications the provisions of article 32 apply.
+
+### 6. Applications in respect of Crown land
+
+An application for planning permission in respect of Crown land must be accompanied by—
+
+- (a) a statement that the application is made in respect of Crown land; and
+- (b) where the application is made by a person authorised in writing by the appropriate authority, a copy of that authorisation.
+
+### 7. Design and access statements[^key-053c7f1f413e55c2fb0c69e0a3724610]
+
+(1) Subject to paragraph (2), paragraph (3) applies to an application for planning permission—
+
+- (a) for major development;
+- (b) where any part of the development is in a designated area, for development consisting of—
+  - (i) the provision of one or more dwellinghouses; or
+  - (ii) the provision of a building or buildings where the floor space created by the development is 100 square metres or more.
+
+(2) Paragraph (3) does not apply to—
+
+- (a) a section 73 application;
+- (b) an application for planning permission—
+  - (i) for mining operations;
+  - (ii) for a material change in use of the land or buildings; or
+  - (iii) for waste development.
+
+(3) An application for planning permission to which this paragraph applies must be accompanied by a statement (“a design and access statement”) which complies with paragraph (4).
+
+(4) A design and access statement must—
+
+- (a) explain the design principles and concepts that have been applied to the development;
+- (b) demonstrate the steps taken to appraise the context of the development and how the design of the development takes that context into account;
+- (c) explain the policy or approach adopted as to access, and how policies relating to access in the development plan have been taken into account; and
+- (d) explain how any specific issues which might affect access to the development have been addressed.
+
+(5) In paragraph (1) “designated area” (“*ardal ddynodedig*”) means—
+
+- (a) a conservation area; or
+- (b) a property appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention Concerning the Protection of the World Cultural and National Heritage (a World Heritage Site).
+
+### 8. General provisions relating to applications
+
+(1) When the local planning authority receive—
+
+- (a)[^key-9085aa6a1712dda3a16c59baf1da2c44] an application which complies with the requirements of article 5;
+- (b) where an application is made in respect of Crown land, the documents required by article 6;
+- (ba)[^key-50521186cb52a8c79e810fb2ad64debc] in a case to which article 2F applies, the pre-application consultation report required by that article;
+- (c) in a case to which article 7 applies, the design and access statement [^key-2b293f5b4d91e0c7fe8b085fad1d99e1]...;
+- (d) in a case to which article 9 applies, the written declaration required by that article;
+- (e) the certificate required by article 11;
+- (f) subject to paragraph (2), the particulars or evidence required by the authority under section 62(3) of the 1990 Act (applications for planning permission) [^c21236551]; and
+- (g) any fee required to be paid in respect of the application,
+
+the authority must, as soon as is reasonably practicable, send to the applicant an acknowledgement of the application in the terms (or substantially in the terms) set out in Schedule 1.
+
+(2) Paragraph (1)(f) only applies if—
+
+- (a) the application is for major development; and
+- (b) before the application is made the local planning authority publish a list of requirements on their website for the purposes of article 22(3); and
+- (c) the particulars or evidence that the authority require to be included in the application fall within that list.
+
+(3)[^key-5331941afe5d26305ea74e2897a6001f] Where the local planning authority consider that any fee required to be paid in respect of the application has not been paid (save for where a cheque is dishonoured and paragraphs (2)(c) and (3)(g) of article 22 apply) they must, as soon as reasonably practicable, serve a notice on the applicant stating that the application is invalid. The notice must inform the applicant of the amount of the fee required to be paid and how the fee can be paid.
+
+(3A)[^key-b7e10cea6fa64b5f600cd936594c7a04] Where the local planning authority consider that section 62ZA(2) of the 1990 Act applies to the application they must, as soon as reasonably practicable, serve a notice on the applicant stating that the application is invalid. The notice given in accordance with section 62ZA(2) of the 1990 Act must inform the applicant of—
+
+- (a) the right of appeal to the Welsh Ministers under section 62ZB of the 1990 Act, and
+- (b) the time limit in article 24C(2) within which the applicant must give notice of appeal.
+
+(4) In this article an application is invalid if it is not a valid application within the meaning of article 22(3).
+
+### 9. Declaration to accompany applications to a local planning authority for planning permission for certain electronic communications development
+
+(1) This article applies to any application for planning permission for development which involves the construction or installation of one or more antennae for the purpose of operating an electronic communications network.
+
+(2) For the purposes of this article “**electronic communications network**” (“***rhwydwaith cyfathrebiadau electronig***”) has the meaning assigned to that term by section 32(1) of the Communications Act 2003 (meaning of electronic communication networks and services) [^c21236561].
+
+(3) An application to which this article applies must be accompanied by a written declaration that the equipment and installation to which the application relates is so designed that it will, when constructed or installed, operate, having regard to its location and the manner in which it has been constructed or installed, in full compliance with the requirements of the radio frequency public exposure guidelines of the International Commission on Non-ionising Radiation Protection, as expressed in EU Council recommendation of 12 July 1999 on the limitation of exposure of the general public to electromagnetic fields (0 Hz to 300 GHz) [^c21236571].
+
+### 10. Notices of applications for planning permission
+
+(1) Subject to paragraph (2), an applicant for planning permission must give requisite notice of the application to any person (other than the applicant) who on the prescribed date is an owner of any of the land to which the application relates, or a tenant—
+
+- (a) by serving the notice on every such person whose name and address is known to the applicant; and
+- (b) where the applicant has taken reasonable steps to ascertain the names and addresses of every such person, but has been unable to do so, by publication of the notice after the prescribed date in a newspaper circulating in the locality in which the land to which the application relates is situated.
+
+(2) In the case of an application for planning permission for development consisting of the winning and working of minerals by underground operations, instead of giving notice in the manner provided for by paragraph (1), the applicant must give requisite notice of the application to any person (other than the applicant) who on the prescribed date is an owner of any of the land to which the application relates, or a tenant,—
+
+- (a) by serving the notice on every such person whom the applicant knows to be such a person and whose name and address is known to the applicant;
+- (b) by publication of the notice after the prescribed date in a newspaper circulating in the locality in which the land to which the application relates is situated; and
+- (c) by site display in at least one place in every community within which there is situated any part of the land to which the application relates, leaving the notice in position for not less than 7 days in the period of 21 days immediately preceding the making of the application to the local planning authority.
+
+(3) The notice required by paragraph (2)(c) must (in addition to any other matters required to be contained in it) name a place within the area of the local planning authority to whom the application is made where a copy of the application for planning permission, and of all plans and other documents submitted with it, will be open to inspection by the public at all reasonable hours during such period as may be specified in the notice.
+
+(4) Where a local planning authority maintain a website for the purpose of advertisement of applications for planning permission other than EIA applications[^key-418a1282c4e3c45a16269f4ad58e6c35], the notice required by paragraph (2)(c) must (in addition to any other matters required to be contained in it) state the address of the website where a copy of the application, and of all plans and other documents submitted with it, will be published.
+
+(5) Where the notice is, without any fault or intention of the applicant, removed, obscured or defaced before the period of 7 days referred to in paragraph (2)(c) has elapsed, the applicant will be treated as having complied with the requirements of that paragraph if the applicant has taken reasonable steps to protect the notice and, if need be, replace it.
+
+(6) The date prescribed for the purposes of section 65(2) of the 1990 Act (notice etc of applications for planning permission) [^c21236581], and the “**prescribed date**” (“***dyddiad rhagnodedig***”) for the purposes of this article, is the day 21 days before the date of the application.
+
+(7) The applications prescribed for the purposes of paragraph (c) of the definition of “owner” in section 65(8) of the 1990 Act are minerals applications, and the minerals prescribed for the purposes of that paragraph are any minerals other than oil, gas, coal, gold or silver.
+
+(8) In this article—
+
+- “**minerals applications**” (“***ceisiadau mwynau***”) means applications for planning permission for development consisting of the winning and working of minerals;
+- “**requisite notice**” (“***hysbysiad gofynnol***”) means notice in the appropriate form set out in Schedule 2 or in a form substantially to the like effect, but will not include notice served using electronic communications; and
+- “**tenant**” (“***tenant***”) means an agricultural tenant as defined in section 65(8) of the 1990 Act, of land any part of which is comprised in the land to which an application relates.
+
+### 11. Certificates in relation to notices of applications for planning permission
+
+(1) Where an application for planning permission is made, the applicant must certify, in a form published by the Welsh Ministers or in a form substantially to the like effect, that the requirements of article 10 have been satisfied.
+
+(2) If an applicant has cause to rely on paragraph (5) of article 10, the certificate must state the relevant circumstances.
+
+### 12. Publicity for applications for planning permission[^key-94332fdd8c14c7cbd1cad1f5567be708]
+
+(1) An application for planning permission must be publicised by the local planning authority to which the application is made, in the manner prescribed by this article.
+
+(2) Subject to paragraph (3A), in[^key-fffb1ad55f16c900add181b069e78d7e] the case of an application for planning permission for development which—
+
+- (a)[^key-29d594eb08055633fe2bb753170d61ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) does not accord with the provisions of the development plan in force in the area in which the land to which the application relates is situated; or
+- (c) would affect a right of way to which Part 3 of the Wildlife and Countryside Act 1981 (public rights of way) [^c21236591] applies,
+
+the application must be publicised in the manner specified in paragraph (3).
+
+(3) An application falling within paragraph (2) (“a paragraph (2) application”) must be publicised by giving requisite notice—
+
+- (a) by site display in at least one place on or near the land to which the application relates, for not less than 21 days; and
+- (b) by publication of the notice in a newspaper circulating in the locality in which the land to which the application relates is situated.
+
+(3A)[^key-203a1ab3ab9541c24b167fd74eff7d5b] In the case of an EIA application, the local planning authority must publicise the application in accordance with the requirements of paragraph (7A) and, where the environmental statement is submitted with the application, by giving requisite notice—
+
+- (a) by site display in at least one place on or near the land to which the application relates for not less than 30 days; and
+- (b) by publication of the notice in a newspaper circulating in the locality in which the land to which the application relates is situated.
+
+(4) In the case of an application for planning permission which is neither a paragraph (2) application nor an application falling within[^key-5d655c3f00f6e6640ccb3797a7e49c5a] paragraph (3A) or (4A)[^key-a5e2aa1e08e4576c58ee399ed6451d7f], if the development proposed is major development the application must be publicised by giving requisite notice—
+
+- (a)
+  - (i) by site display in at least one place on or near the land to which the application relates for not less than 21 days; or
+  - (ii) by serving the notice on any adjoining owner or occupier; and
+- (b) by publication of the notice in a newspaper circulating in the locality in which the land to which the application relates is situated.
+
+(4A)[^key-971efae14ac398710413a62a8f11553f] In the case of a section 73 application which does not fall within subparagraph (2)(c) or (3A)[^key-068135103fb6872cb34b0cdd20a4c029], the application must be publicised by giving requisite notice—
+
+- (a) by site display in at least one place on or near the land to which the application relates for not less than 21 days; and
+- (b) in such other manner as the local planning authority consider appropriate.
+
+(5) In a case to which neither paragraph (2) ,[^key-c8124c6971490f9a927a3e0e60321e8b] paragraph (3A),[^key-39436532fc14b59dc664491e1a651e59] paragraph (4) nor paragraph (4A) applies, the application must be publicised by giving requisite notice—
+
+- (a) by site display in at least one place on or near the land to which the application relates for not less than 21 days; or
+- (b) by serving the notice on any adjoining owner or occupier.
+
+(6) Where the notice is, without any fault or intention of the local planning authority, removed, obscured or defaced before the period of 21 days referred to in paragraph (3)(a), (4)(a)(i) , (4A)[^key-7684bd4a2d25c9195b9cb88349439d35] or (5)(a) , or before the period of 30 days referred to in paragraph (3A)(a),[^key-c6c8550651faaf92f103bf170aef76cb] has elapsed, the authority will be treated as having complied with the requirements of the relevant paragraph if they have taken reasonable steps to protect the notice and, if need be, replace it.
+
+(7) Where the local planning authority maintain a website for the purpose of publicising applications for planning permission other than EIA applications[^key-9daecc8cc182bb6152a0be33295144b6] the following information must be published on the website—
+
+- (a) the address or location of the proposed development;
+- (b) a description of the proposed development;
+- (c) the date by which any representations about the application must be made, which must not be before the last day of the period of 14 days beginning with the date on which the information is published;
+- (d) where and when the application may be inspected; [^key-f4a95993c19055a7ebad0dd7f6efd1a1]...
+- (e) how representations may be made about the application ; and[^key-88120cd8cacfe2a53f38ef952cbc7bc5]
+- (f) that, in the case of a householder application or a minor commercial application, in the event of an appeal that proceeds by way of the expedited procedure, any representations made about the application will be passed to the Welsh Ministers and there will be no opportunity to make further representations.
+
+(7A)[^key-3fefc34c8d697881776ad98ed0f39d43] The local planning authority must ensure it maintains a website for the purpose of publicising EIA applications and the following information must be published on the website—
+
+- (a) the address or location of the proposed development;
+- (b) a description of the proposed development;
+- (c) the fact that the development is subject to an environmental impact assessment procedure;
+- (d) the environmental statement, any relevant scoping opinion or scoping direction and any further information or any other information;
+- (e) in accordance with the Freedom of Information Act 2000 and the Data Protection Act 1998, the main reports and advice issued to the authority at the time the information is published (if any);
+- (f) in accordance with the Environmental Information Regulations 2004, information other than that required under any other sub-paragraph which is relevant to the decision and which only becomes available after the time the information required by this paragraph was first published;
+- (g) where, when and the means by which the application and the environmental statement may be inspected;
+- (h) how copies of the environmental statement may be obtained and the cost of such copies;
+- (i) the date by which any representations about the application must be made, which must not be before the last day of the period of 30 days beginning with the last date on which the environmental statement is published either on the website, in accordance with paragraph (3A) or in accordance with regulation 19 of the EIA Regulations;
+- (j) other details of the arrangements for public participation in the decision-making procedure including a description of the procedure for the publication of any additional information subsequently submitted by the applicant;
+- (k) how representations may be made about the application;
+- (l) details of the person or body responsible for taking the decision;
+- (m) that, in the case of a householder application or a minor commercial application, in the event of an appeal that proceeds by way of the expedited procedure, any representations made about the application will be passed to the Welsh Ministers and there will be no opportunity to make further representations.
+
+(8) If the local planning authority have failed to satisfy the requirements of this article in respect of an application for planning permission at the time the application is referred to the Welsh Ministers under section 77 of the 1990 Act (reference of applications to Secretary of State) [^c21236601] or any appeal to the Welsh Ministers is made under section 78 of the 1990 Act (right to appeal against planning decisions and failure to take such decisions) [^c21236611], this article will continue to apply as if such referral or appeal to the Welsh Ministers had not been made.
+
+(9) Where paragraph (8) applies, when the local planning authority have satisfied the requirements of this article, they must inform the Welsh Ministers that they have done so.
+
+(10) In this article—
+
+- “**adjoining owner or occupier**” (“***perchennog neu feddiannydd cyffiniol***”) means any owner or occupier of any land adjoining the land to which the application relates; and
+- “**requisite notice**” (“***hysbysiad gofynnol***”) means notice in the appropriate form set out in Schedule 3 or in a form substantially to the like effect.
+
+(11) Paragraphs (1) to (6) apply to applications made to the Welsh Ministers under section 293A of the 1990 Act (urgent Crown development: application) [^c21236621] as if the references to a local planning authority were references to the Welsh Ministers.
+
+### 13. Reference of applications to the Welsh Ministers[^key-0e3cd675a12e2bab5faa4addb1a7a5b4]
+
+(1) On referring any application to the Welsh Ministers pursuant to a direction under section 77 of the 1990 Act (reference of applications to the Secretary of State), a local planning authority must as soon as reasonably practicable—
+
+- (a) serve on the applicant a notice of reference; and
+- (b) send to the Welsh Ministers a copy of the application file.
+
+(2) The local planning authority must send a copy of the notice of reference to the Welsh Ministers at the same time as the notice is sent to the applicant.
+
+(3) An applicant upon whom a notice of reference is served may choose to submit a full statement of case to the Welsh Ministers.
+
+(4) An applicant who so chooses must send—
+
+- (a) the full statement of case so that it is received by the Welsh Ministers within 4 weeks beginning with the day on which the notice of reference is served;
+- (b) a copy of the full statement of case to the local planning authority at the same time as it is sent to the Welsh Ministers.
+
+(5) In this article—
+
+- (a) “application file” (“*ffeil y cais*”) means the application together with accompanying documents and all correspondence with the local planning authority relating to the application; and
+- (b) “notice of reference” (“*hysbysiad o atgyfeirio*”) means a notice—
+  - (i) informing the applicant that the application has been referred to the Welsh Ministers;
+  - (ii) setting out the reasons given by the Welsh Ministers for issuing the direction; and
+  - (iii) notifying the applicant that—
+    - (aa) if the applicant so chooses, the applicant may submit a full statement of case to the Welsh Ministers;
+    - (bb) if the applicant so chooses, the full statement of case must be received by the Welsh Ministers within 4 weeks beginning with the day on which the notice of reference is served; and
+    - (cc) a copy of the full statement of case (if applicable) must be sent to the local planning authority at the same time as it is sent to the Welsh Ministers.
+
+## PART 3 — Consultation
+
+### 14. Consultations before the grant of permission
+
+(1)[^key-f2b9716dce72ba79f905d699e60a5909] Before granting planning permission for development which, in their opinion, falls within a category set out in the Table in Schedule 4, a local planning authority must consult the authority, body or person mentioned in relation to that category, except where—
+
+- (a) the local planning authority are the authority, body or person so mentioned; or
+- (b) the authority, body or person so mentioned has advised the local planning authority that they do not wish to be consulted , or[^key-a75b8f8d6a9b4a550c266d6016014632]
+- (c) article 15ZA applies.
+
+(2) The exception in paragraph (1)(b) does not apply where, in the opinion of the local planning authority, development falls within paragraph (w)[^key-19c88bec0db0d885da3233e5c9a812fb] of the Table in Schedule 4.
+
+(3) The Welsh Ministers may give directions to a local planning authority requiring that authority to consult any person or body named in the directions, in any case or class of case specified in the directions.
+
+(4) Where, by or under this article, a local planning authority are required to consult any person or body (“**the consultee**”) before granting planning permission—
+
+- (a) they must, unless an applicant has served a copy of an application for planning permission on the consultee, give notice of the application to the consultee; and
+- (b) they must not determine the application until at least 30 days in the case of an EIA application or 21 days in any other case[^key-93414c9d14ac3da1df9a87d42c8433ad] after the date on which notice is given under sub-paragraph (a) or, if earlier, 30 days in the case of an EIA application or 21 days in any other case after the date of service of a copy of the application on the consultee by the applicant.
+
+(5) The local planning authority must in determining the application take into account any representations received from a consultee.
+
+### 15. Consultations before the grant of planning permission: urgent Crown development
+
+(1) This article applies in relation to applications made to the Welsh Ministers under section 293A of the 1990 Act (urgent Crown development: application).
+
+(2) Before granting planning permission for development which in the opinion of the Welsh Minsters, falls within a category set out in the Table in Schedule 4, the Welsh Ministers must consult the authority, body or person mentioned in relation to that category, except where—
+
+- (a) the Welsh Ministers are required to consult the authority so mentioned under section 293A(9)(a) of the 1990 Act;
+- (b) the authority, body or person so mentioned has advised the Welsh Ministers that they do not wish to be consulted; or
+- (c) the development is subject to any standing advice provided by the authority, body or person so mentioned to the Welsh Ministers in relation to the category of development.
+
+(3) The exception in paragraph (2)(b) does not apply where in the opinion of the Welsh Ministers, development falls within paragraph (w)[^key-24a1583f79ab8b6ed53c32302cdbf839] of the Table in Schedule 4.
+
+(4) The exception in paragraph (2)(c) does not apply where—
+
+- (a) the development is an EIA development; or
+- (b) the standing advice was issued more than 2 years before the date of the application for planning permission for the development and the guidance has not been amended or confirmed as being extant by the authority, body or person within that period.
+
+(5) Where, by or under this article, the Welsh Ministers are required to consult any person or body (“**the consultee**”) before granting planning permission—
+
+- (a) the Welsh Ministers must, unless an applicant has served a copy of an application for planning permission on the consultee, give notice of the application to the consultee; and
+- (b) the Welsh Ministers must not determine the application until at least 14 days after the date on which notice is given under sub-paragraph (a) or, if earlier, 14 days after the date of service of a copy of the application on the consultee by the applicant.
+
+(6) The Welsh Ministers must in determining the application, take into account any representations received from a consultee.
+
+### 15ZA. Consultations before the grant of section 73 applications[^key-8800a58f4e8c8d559af6bf2cde0dc8b1]
+
+(1) This article applies in relation to a section 73 application other than a section 73 application which is an EIA application.
+
+(2) Before granting planning permission on an application in relation to which this article applies, the local planning authority may consult authorities or persons falling within a category set out in the Table in Schedule 4.
+
+(3) Where, by or under this article, a local planning authority consult any authority or person (“the consultee”) before granting planning permission—
+
+- (a) they must, unless an applicant has served a copy of an application for planning permission on the consultee, give notice of the application to the consultee; and
+- (b) they must not determine the application until at least 21 days after the date on which notice is given under sub-paragraph (a) or, if earlier, 21days after the date of service of a copy of the application on the consultee by the applicant.
+
+(4) The local planning authority must in determining the application take into account any representations received from a consultee.
+
+### 15A. Duty to respond to consultation[^key-30520ff2b1e01a63c1c912554efc25e3]
+
+(1) The requirement to consult which is prescribed for the purposes of section 54(2)(b) of the 2004 Act (duty to respond to consultation) is that contained in article 14 and article 15ZA[^key-34a156703e65a7e85b0ccba1938b6849].
+
+(2) For the purposes of section 54(4)(a) of the 2004 Act the period prescribed is 21 days , or 30 days in the case of an EIA application, in either case[^key-5912d1c7616a846cc4f54f07cf29d906] beginning with the day on which—
+
+- (a) notice referred to in article 14(4)(a) or article 15ZA(3)(a)[^key-20f6056c74989739ac548c38aa8e9f1a] is given; or
+- (b) if earlier, the date of service of a copy of the application on the consultee,
+
+or such other period as may be agreed in writing between the consultee and the consultor.
+
+(3)[^key-e99de28676c45a274ce4ad10f7ae43c9] For the purposes of this article and pursuant to section 54(5)(c) of the 2004 Act, a substantive response is one which—
+
+- (a) where no consultation for the purposes of section 61Z of the 1990 Act (Wales: requirement to carry out pre-application consultation) has taken place, or the consultee has failed to give a response in accordance with article 2E—
+  - (i) states that the consultee has no comment to make;
+  - (ii) states that the consultee has no objection to the proposed development and refers the person consulting to current standing advice by the consultee on the subject of consultation;
+  - (iii) advises the person consulting of any concerns identified in relation to the proposed development and how those concerns can be addressed by the applicant; or
+  - (iv) advises that the consultee objects to the proposed development and sets out the reasons for the objection; and
+- (b) where consultation for the purposes of section 61Z of the 1990 Act has taken place and the consultee has given a response in accordance with article 2E—
+  - (i) states that the consultee has no further comment to make in respect of the proposed development and confirms that any comments made under article 2E remain relevant;
+  - (ii) advises the person consulting of any new concerns identified in relation to the proposed development, why the concerns were not identified in the response given in accordance with article 2E and—
+    - (aa) how the concerns can be addressed by the applicant; or
+    - (bb) that the consultee objects to the proposed development and sets out the reasons for the objection.
+
+(4)[^key-5511b3cbaec33252a17032597cda298b] In this article and article 15B references to a consultee include reference to a specialist consultee where consultation for the purposes of section 61Z of the 1990 Act has taken place.
+
+### 15B. Duty to respond to consultation: annual reports
+
+(1) Each consultee who is, by virtue of section 54 of the 2004 Act and article 15A, under a duty to respond to consultation must give to the Welsh Ministers, not later than 1 July in each year, beginning with the 1 July 2017, a report as to that consultee’s compliance with section 54(4) of the 2004 Act.
+
+(1A)[^key-845c770adfd6be051f89eb33db83558e] Each consultee who is, by virtue of article 2E, under a duty to respond to pre-application consultation must, in the report given to the Welsh Ministers in accordance with paragraph (1), include a report as to that consultee’s compliance with that article.
+
+(2) The report must relate to the period of 12 months commencing on 1 April in the preceding year (“the report year”).
+
+(3) The report must contain, in respect of any report year, a statement as to—
+
+- (a) the number of occasions on which the consultee was consulted;
+- (b) the number of occasions on which a substantive response was provided;
+- (c) when the substantive response was provided; and
+- (d) the number of occasions on which the consultee gave a substantive response outside the period prescribed for the purposes of section 54(4) of the 2004 Act or, as the case may be, the period specified in or referred to in article 2E(1)[^key-1109aed365c61d6e2861d7cdc0c1b9ab] and a summary of the reasons why.
+
+(4)[^key-8665ccbddf39e04f7252707bdd0c54b3] In this article “substantive response” means either a substantive response to the applicant or local planning authority in accordance with articles 2E or 15A.
+
+### 15C. Consultation in respect of certain applications relating to planning permission; time periods[^key-fe6e4f60a2093a84070343afe1efad42]
+
+The period specified for the purposes of section 100A(3)(a) of the 1990 Act is the period of 21 days , or 30 days in the case of an EIA application, in either case[^key-c889bf318db6a603e67bdac66b6ac53d] beginning with the day on which —
+
+- (a) the document on which the views of the consultees are sought; or
+- (b) where there is more than one document and they are sent on different days, the last of those documents, is received by the consultee.
+
+### 15D. Information to be provided by local planning authority
+
+The local planning authority must provide the following information to a statutory consultee for the purposes of or in connection with the consultation—
+
+- (a) a copy of the application form relating to a relevant application;
+- (b) the reference number allocated by the local planning authority to the original application;
+- (c) any drawings in connection with the relevant application; and
+- (d) any report in connection with the relevant application which is issued to the local planning authority.
+
+### 15E. Substantive response to consultation
+
+A substantive response for the purposes of section 100A(2) of the 1990 Act is a response which —
+
+- (a) states that the consultee has no comment to make;
+- (b) states that the consultee has no objection to the matters which are the subject of the consultation and refers the person consulting to current standing advice by the consultee on the subject of the consultation;
+- (c) advises the person consulting of any concerns identified in relation to the matters which are the subject of the consultation and how those concerns can be addressed by the applicant; or
+- (d) advises that the consultee objects to the matters which are the subject of the consultation and sets out the reasons for the objection.
+
+### 15F. Annual reports – compliance with consultation requirements
+
+(1) Each statutory consultee who is consulted about a relevant application must give to the Welsh Ministers, not later than 1 July in each calendar year beginning with 1 July 2017, a report as to that consultee’s compliance with sections 100A(2) and (3) of the 1990 Act and article 15C.
+
+(2) The report must relate to the period of 12 months commencing on 1 April in the preceding calendar year (“the report year”).
+
+(3) The report must contain, in respect of the report year in question, a statement as to—
+
+- (a) the number of occasions on which the consultee was consulted;
+- (b) the number of occasions on which a substantive response was provided;
+- (c) the number of occasions on which the consultee gave a substantive response outside the period prescribed for the purposes of section 100A(3) of the 1990 Act and a summary of the reasons why.
+
+### 16. Representations by community councils before determination of applications
+
+(1) Where the council of a community are given information in relation to an application pursuant to paragraph 2(1) of Schedule 1A to the 1990 Act (distribution of local planning authority functions: Wales) [^c21236631], they must, as soon as practicable, notify the local planning authority who are determining the application whether they propose to make any representations about the manner in which the application should be determined, and must make any representations to that authority within 14 days , (or 30 days in the case of an EIA application),[^key-be02a9fbd00d9b58f01a8feee4b44340] of the notification to them of the application.
+
+(2) A local planning authority must not determine any application in respect of which a community are required to be given information before—
+
+- (a) the council of the community inform them that they do not propose to make any representations;
+- (b) representations are made by that council; or
+- (c) the period of 14 days , (or 30 days in the case of an EIA application), mentioned in paragraph (1) has elapsed,
+
+whichever occurs first; and in determining the application the authority must take into account any representations received from the council of the community.
+
+(3) The local planning authority must notify the council of the community of the terms of the decision on any such application or, where the application is referred to the Welsh Ministers, of the date when it was so referred and, when notified to them, of the terms of the Welsh Ministers' decision.
+
+(4)[^key-ca1b9d361f406439ec4d6c3c92de2159] Where the council of a community are notified of an application during the emergency period, paragraphs (1) and (2)(c) have effect as if the references to 14 days were to 21 days.
+
+(5) In paragraph (4), “the emergency period” has the meaning given by article 2G(2).
+
+### 17. Notification of mineral applications
+
+(1) Where notice has been given for the purposes of this article to a local planning authority as respects land which is in their area and specified in the notice—
+
+- (a) by the Coal Authority that the land contains coal;
+- (b) by the Oil and Gas Authority[^key-00b27b2f119223a3ddb178bf2ebaa324] that it contains gas or oil; or
+- (c) by the Crown Estates Commissioners that it contains silver or gold,
+
+the local planning authority must not determine any application for planning permission to win and work any mineral on that land, without first notifying the body or person who gave the notice that an application has been made.
+
+(2) In this article, “**coal**” (“***glo***”) means coal other than that—
+
+- (a) won or worked during the course of operations which are carried on exclusively for the purpose of exploring for coal; or
+- (b) which it is necessary to dig or carry away in the course of activities carried on for purposes which do not include the getting of coal or any product of coal.
+
+## PART 4 — Determination
+
+### 18. Directions by the Welsh Ministers
+
+(1) The Welsh Ministers may give directions restricting the grant of permission by a local planning authority, either indefinitely or during such a period as may be specified in the directions, in respect of any development or in respect of development of any class so specified.
+
+(2) The Welsh Ministers may give directions that development which is both of a description set out in Column 1 of the Table in Schedule 2 to the EIA Regulations[^key-822edc8e56a07e57f8b8e1f68b19a1b7] (descriptions of development and applicable thresholds and criteria for the purposes of the definition of “Schedule 2 development”) [^c21236641] and of a class described in the direction is EIA development for the purposes of those Regulations.
+
+(3) A local planning authority must deal with applications for planning permission for development to which a direction given under this article applies in such manner as to give effect to the direction.
+
+### 19. Development affecting certain existing and proposed highways
+
+(1) Where an application is made to a local planning authority for planning permission for development which consists of or includes—
+
+- (a) the formation, laying out or alteration of any access to or from any part of a trunk road which is either a special road or, if not a special road, a road subject to a speed limit exceeding 40 miles per hour; or
+- (b) any development of land within 67 metres (or such other distance as may be specified in a direction given by the Welsh Ministers under this article) from the middle of—
+  - (i) any highway (other than a trunk road) which the Welsh Ministers have provided, or are authorised to provide, in pursuance of an order under Part 2 of the Highways Act 1980 (trunk roads, classified roads, metropolitan roads, special roads) [^c21236651] and which has not for the time being been transferred to any other highway authority;
+  - (ii) any highway which the Welsh Ministers propose to improve under Part 5 of that Act (improvement of highways) and in respect of which notice has been given to the authority;
+  - (iii) any highway to which the Welsh Ministers propose to carry out improvements in pursuance of an order under Part 2 of that Act; or
+  - (iv) any highway which the Welsh Ministers propose to construct, the route of which is shown on the development plan or in respect of which the Welsh Ministers have given notice in writing to the relevant local planning authority together with maps or plans sufficient to identify the route of the highway,
+
+  the authority must notify the Welsh Ministers by sending to the Welsh Ministers a copy of the application and any accompanying plans and drawings.
+
+(2) An application referred to in paragraph (1) must not be determined unless—
+
+- (a) the local planning authority receive a direction given under article 18 (and the authority must then determine the application in accordance with the terms of that direction);
+- (b) the authority receive notification by or on behalf of the Welsh Ministers that the Welsh Ministers do not propose to give any such direction in respect of the development to which the application relates; or
+- (c) a period of 28 days (or such longer period as may be agreed in writing between the authority and the Welsh Ministers) from the date when notification was given to the Welsh Ministers has elapsed without receipt of such a direction.
+
+(3) The Welsh Ministers may, in respect of any case or any class or description of cases, give a direction specifying a different distance for the purposes of paragraph (1)(b).
+
+(4) In this article—
+
+- “**proposed highway**” (“***priffordd arfaethedig***”) has the same meaning as in section 329 of the Highways Act 1980 (further provision as to interpretation) [^c21236661];
+- “**special road**” (“***ffordd arbennig***”) means a highway or proposed highway which is a special road in accordance with section 16 of the Highways Act 1980 (general provision as to special roads) [^c21236671]; and
+- “**trunk road**” (“***cefnffordd***”) means a highway or proposed highway which is a trunk road by virtue of sections 10(1) (general provision as to trunk roads) or 19 (certain special roads and other highways to become trunk roads) of the Highways Act 1980 [^c21236681] or by virtue of an order or direction under section 10, or any other enactment or any instrument made under any enactment.
+
+### 20. Development not in accordance with the development plan
+
+A local planning authority may in such cases and subject to such conditions as may be prescribed by directions given by the Welsh Ministers under this Order grant permission for development which does not accord with the provisions of the development plan in force in the area in which the land to which the application relates is situated.
+
+### 21. Representations to be taken into account
+
+(1) A local planning authority must, in determining an application for planning permission, take into account any representations made, where any notice of or information about the application has been—
+
+- (a) given by site display under article 10 or 12, within 21 days , or, in the case of an EIA application accompanied by an environmental statement 30 days, in either case[^key-f759785af42657d51afb645336da7aef] beginning with the date when the notice was first displayed by site display;
+- (b)[^key-f1f57b4fb8536ebd2e3b7315082f75de] served on or given to—
+  - (i) an owner of the land or a tenant under article 10; or
+  - (ii) an adjoining owner or occupier under article 12,
+
+  within 21 days beginning with the date when the notice was served on or given to that person, provided that the representations are made by any person who they are satisfied is such an owner, tenant or occupier; or
+- (c) published in a newspaper under article 10 or 12 or on a website under article 12, within the period of 14 days , or, in the case of an EIA application accompanied by an environmental statement 30 days, in either case[^key-4e506dcb17878cd6fb42723124ab328b] beginning with the date on which the notice or information was published,
+
+[^c21236691]and the representations and periods in this article are representations and periods prescribed for the purposes of section 71(2)(a) of the 1990 Act (consultations in connection with determinations under section 70) .
+
+(2) A local planning authority must give notice of their decision to every person who has made representations which they were required to take into account in accordance with paragraph (1)(b)(i), and such notice is notice prescribed for the purposes of section 71(2)(b) of the 1990 Act.
+
+(3) Paragraphs (1) and (2) apply to applications referred to the Welsh Ministers under section 77 of the 1990 Act (reference of applications to Secretary of State) [^c21236701] and to applications made to the Welsh Ministers under section 293A(2) of the 1990 Act (urgent Crown development:application) [^c21236711] and paragraphs (1)(b) and (2) apply to appeals to the Welsh Ministers made under section 78 of the 1990 Act (right to appeal against planning decisions and failure to take such decisions) [^c21236721], as if the reference to—
+
+- (a) a local planning authority were to the Welsh Ministers; and
+- (b) determining an application for planning permission were to determining such application or appeal, as the case may be.
+
+### 22. Time periods for decisions[^key-591b374c494949e60cdb48ecf9df8e21][^key-5870e4ed9459b4d56fa9347a20225d81]
+
+(1) Subject to paragraph (5), where a valid application has been received by a local planning authority, they must within the period specified or referred to in paragraph (2) [^c21236731] give the applicant notice of their decision or determination or give notice that the application has been referred to the Welsh Ministers.
+
+(1A)[^key-9478f0f01658b7c791fdabc4a0968880] References in paragraph (1) to a valid application include references to that application as amended prior to the local planning authority determining the application.
+
+(2) The period specified or referred to in this paragraph is—
+
+- (a) the period of eight weeks beginning with the date on which the application was received by the local planning authority;
+- (aa)[^key-c1fca8308aefdc24150bc588382d0cef] in a case to which paragraph (1A) applies, the period of —
+  - (i) 4 weeks beginning with the date on which the amendment to the application was received by the authority; or
+  - (ii) 12 weeks beginning with the date on which the application to which the amendment relates is received by the authority
+
+  whichever is the later;
+- (b) except where the applicant has already given notice of appeal to the Welsh Ministers, such extended period as may be agreed in writing between the applicant and the authority; or
+- (c) where any fee required in respect of an application has been paid by a cheque which is subsequently dishonoured, the appropriate period specified in sub-paragraphs (a), (aa) or (b)[^key-dd051c3d167c7671a87917078b58a415] calculated disregarding the period between the date when the authority sent the applicant written notice of the dishonouring of the cheque and the date when the authority are satisfied they have received the full amount of the fee.
+
+(3) In this article “**valid application**” (“***cais dilys***”) means an application which consists of—
+
+- (a)[^key-59d164d40858f750b19d037d04acd558] an application which complies with the requirements of article 5;
+- (b) where an application is made in respect of Crown land, the documents required by article 6;
+- (ba)[^key-ca6dbce1613c400b46101eec6c769aca] in a case to which article 2F applies, the pre-application consultation report required by that article;
+- (c) in a case to which article 7 applies, the design and access statement [^key-e74ffd102d7b09bae627632280901daa]...;
+- (d) in a case to which article 9 applies, the written declaration required by that article;
+- (e) the certificate required by article 11;
+- (f) subject to paragraph (4), the particulars or evidence required by the local planning authority under section 62(3) of the 1990 Act (applications for planning permission) [^c21236741]; and
+- (g) any fee required to be paid in respect of the application and, for this purpose, lodging a cheque for the amount of the fee is to be taken as payment,
+
+and a valid application must be taken to have been received when the application and such of the documents, particulars or evidence referred to above as are required to be included in or to accompany the application and any fee required have been lodged with the local planning authority.
+
+(3A)[^key-92bea7e17fa2f0f79aa00dc7f5376c1e] An amendment to a valid application must be taken to have been received when the amendment and such of the documents included in or accompanying the amendment and any fee required have been lodged with the local planning authority.
+
+(4) Paragraph (3)(f) only applies if—
+
+- (a) the application is for major development;
+- (b) before the application is made the local planning authority publish, for the purposes of paragraph (3), a list of requirements on their website; and
+- (c) the particulars or evidence that the authority require to be included in the application fall within that list.
+
+(5) A local planning authority must provide such information about applications made under article 4 or article 5 (including information as to the manner in which any such application has been dealt with) as the Welsh Ministers may by direction require. Any such direction may include provision as to the persons to be informed and the manner in which the information is to be provided.
+
+(6) Subject to paragraph (7), a local planning authority must not determine an application for planning permission, where any notice of, or information about, the application has been—
+
+- (a) given by site display under article 10 or 12, before the end of the period of 21 days or, in the case of an EIA application accompanied by an environmental statement 30 days, in either case[^key-777b797632af6d51119e38a6faeded62] beginning with the date when the notice was first displayed by site display;
+- (b)[^key-0052e3f5a15717e23469bff4e0997a5d] served on or given to—
+  - (i) an owner of the land or a tenant under article 10, or
+  - (ii) an adjoining owner or occupier under article 12,
+
+  before the end of the period of 21 days beginning with the date when the notice was served on or given to that person; or
+- (c) published in a newspaper under article 10 or 12 or on a website under article 12, within the period of 14 days or, in the case of an EIA application accompanied by an environmental statement 30 days, in either case[^key-b49606a153a21dca377e81c074b522c9] beginning with the date on which the notice or information was published,
+
+[^c21236751]and the periods in this paragraph are periods prescribed for the purposes of section 71(1) of the 1990 Act (consultations in connection with determinations under section 70) .
+
+(7) Where, under paragraph (6), more than one of the prescribed periods applies, the local planning authority must not determine the application before the end of the later or latest of such periods.
+
+### 23. Applications made under planning condition[^key-591b374c494949e60cdb48ecf9df8e21]
+
+(1)[^key-043edbe49cb9d68baf4ce818fcd3cf11] Where a valid application[^key-36843513272ec46559e5bdb75db5f99c] has been made to a local planning authority for any consent, agreement or approval required by a condition or limitation attached to a grant of planning permission (other than [^key-d9d4f089e7d423e1866b2501357468f1]... an application for approval under Part 24 of Schedule 2 to the Town and Country Planning (General Permitted Development) Order 1995 (development by electronic communications code operators) [^c21236761]), the authority must give notice to the applicant of their decision on the application within a period of 8 weeks beginning with the date on which the application was received by the authority, or such longer period as may be agreed by the applicant and the authority in writing.
+
+(2)[^key-ec4c49a88c02b533c8366c60c34dca45] For the purpose of calculating the periods referred to in paragraph (1) where any fee required in respect of an application has been paid by a cheque which is subsequently dishonoured, the period between the date when the local planning authority sent the applicant written notice of the dishonouring of the cheque and the date when the authority are satisfied that they have received the full amount of the fee must be disregarded.
+
+(3) In this article “valid application” (“*cais dilys*”) means an application which consists of—
+
+- (a) an application which includes the information and is accompanied by the documents or other materials required to comply with the terms of the planning permission in question;
+- (b) an application which complies with the requirements of article 4 where applicable; and
+- (c) any fee required to be paid in respect of the application and, for this purpose, lodging a cheque for the amount of the fee is to be taken as payment,
+
+and a valid application must be taken to have been received when the application and such of the information, documents or other materials referred to above as are required to be included in or to accompany the application and any fee required have been lodged with the local planning authority.
+
+(4) Where the local planning authority consider that any fee required to be paid in respect of the application has not been paid (save for where a cheque is dishonoured and paragraphs (2) and (3)(c) apply) they must, as soon as reasonably practicable, serve a notice on the applicant stating that the application is invalid. The notice must inform the applicant of the amount of the fee required to be paid and how the fee can be paid.
+
+(5) Where the local planning authority consider that section 62ZA(4) of the 1990 Act applies to the application they must, as soon as reasonably practicable, serve a notice on the applicant stating that the application is invalid. The notice given in accordance with section 62ZA(4) of the 1990 Act must inform the applicant of—
+
+- (a) the right of appeal to the Welsh Ministers under section 62ZB of the 1990 Act, and
+- (b) the time limit in article 24C(2) within which the applicant must give notice of appeal.
+
+### 24. Written notice of decision or determination relating to a planning application
+
+(1) When the local planning authority give notice of a decision or determination on an application for planning permission or for approval of reserved matters and a permission or approval is either granted subject to conditions or the application is refused, the notice must—
+
+- (a) state clearly and precisely the full reasons for the refusal or for any condition imposed specifying all policies and proposals in the development plan which are relevant to the decision; and
+- (b) where the Welsh Ministers have given a direction restricting the grant of permission for the development for which application is made or where the Welsh Ministers or a United Kingdom Government Department have expressed the view that the permission should not be granted (either wholly or in part) or should be granted subject to conditions, give details of the direction or of the view expressed; and
+- (c) be accompanied by a notification in the terms (or substantially in the terms) set out in Schedule 5.
+
+(2)[^key-c0e91335865757c4e130ab054c5dbe65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24A. Revised notice of decision to grant planning permission[^key-f8d8cd1837455849657332fab187673d]
+
+(1) Applicants are specified for the purposes of section 71ZA(5) of the 1990 Act.
+
+(2) For the purposes of section 71ZA(6) the details to be included in the revised version of the notice of a decision to grant planning permission are—
+
+- (a) the reference number;
+- (b) the date and effect of the decision;
+- (c) the name of the body that made the decision; and
+- (d) the revision number.
+
+### 24B. Notification of initiation of development and display of notice
+
+(1) Planning permission for major development is specified for the purposes of section 71ZB(6) of the 1990 Act.
+
+(2) The notice to be given to a local planning authority before beginning any development to which a relevant planning permission relates, in accordance with section 71ZB(1) of the 1990 Act, must be in the form set out in Schedule 5A or in a form substantially to the like effect.
+
+(3) The notice to be displayed at all times when development to which a relevant planning permission relates is being carried out, in accordance with section 71ZB(2) of the 1990 Act, must—
+
+- (a) be in the form set out in Schedule 5B or in a form substantially to the like effect;
+- (b) be firmly affixed and displayed in a prominent place at or near the place where the development is being carried out;
+- (c) be legible and easily visible to the public without having to enter the site; and
+- (d) be printed on durable material.
+
+(4) Where the notice to be displayed is, without any fault or intention of the person carrying out development, removed, obscured or defaced, the person will be treated as having complied with the requirements of sub-paragraphs (b) and (c) of paragraph (3) if they have taken reasonable steps to protect the notice and, if need be, replace it.
+
+## PART 5 — Appeals
+
+### 24C. Appeals against notice of non-validation[^key-6705a2f322de998be61f4e3d3e642079]
+
+(1) An applicant who wishes to appeal to the Welsh Ministers under section 62ZB of the 1990 Act must give notice of appeal to the Welsh Ministers by—
+
+- (a) serving on the Welsh Ministers, within the time limit specified in paragraph (2), a form obtained from the Welsh Ministers together with the documents referred to in paragraph (3); and
+- (b) serving on the local planning authority, as soon as reasonably practicable, a copy of the form and the documents that are served on the Welsh Ministers.
+
+(2) The time limit mentioned in paragraph (1)(a) is two weeks from the date of the service of the notice pursuant to article 8(3A) or 23(5) stating that the application is invalid or such longer period as the Welsh Ministers may at any time allow.
+
+(3) For the purposes of paragraph (1)(a) the documents are—
+
+- (a) in the case of an application for planning permission—
+  - (i) a copy of the notice served pursuant to article 8(3A) stating that the application is invalid;
+  - (ii) a copy of the application made to the local planning authority which has occasioned the appeal; and
+  - (iii) a copy of the forms, documents, plans, drawings, statements, declarations, certificates, particulars or evidence mentioned in articles 5 and 8(1) which were given to the authority in connection with the application before the date of the notice served pursuant to article 8(3A) stating that the application is invalid.
+- (b) in the case of an application made under article 23—
+  - (i) a copy of the notice served pursuant to article 23(5) stating that the application is invalid;
+  - (ii) a copy of the application made to the local planning authority which has occasioned the appeal;
+  - (iii) a copy of the notice of the decision to grant planning permission, if any, pursuant to which the application is made; and
+  - (iv) a copy of the forms, documents, plans, drawings, statements, declarations, certificates, particulars or evidence (including such of them that are mentioned in article 4(1) where applicable) which were given to the authority in connection with the application before the date of the notice served pursuant to article 23(5) stating that the application is invalid.
+- (c) Where sub-paragraph (b)(iii) applies and a revised version of the notice of the decision has been issued by the authority in accordance with section 71ZA(5) of the 1990 Act and article 24A, sub-paragraph (b)(iii) is to be read as referring to the revised version of the notice.
+
+(4) The Welsh Ministers may refuse to accept a notice of appeal from an applicant if the form and documents required under paragraph (1)(a) are not served on the Welsh Ministers within the time limit specified in paragraph (2).
+
+(5) The Welsh Ministers may provide, or arrange for the provision of, a website for use for such purposes as the Welsh Ministers think fit which—
+
+- (a) relate to appeals under section 62ZB of the 1990 Act and this article, and
+- (b) are capable of being carried out electronically.
+
+(6) Where a person gives notice of appeal to the Welsh Ministers using electronic communications, the provisions of article 32 apply.
+
+### 25. Notice of appeal under section 78 of the 1990 Act[^key-446d18d31692490659c9e880f2bbdf25]
+
+Articles 10 and 11 apply to any appeal to the Welsh Ministers under section 78 of the 1990 Act (right to appeal against planning decisions and failure to take such decisions) as they apply to applications for planning permission.
+
+### 26. Appeals under section 78 of the 1990 Act[^key-9704a5c956802d41d34b5fd97606dfd1]
+
+(1) An applicant who wishes to appeal to the Welsh Ministers under section 78 of the 1990 Act (right to appeal against planning decisions and failure to take such decisions) must give notice of appeal to the Welsh Ministers by—
+
+- (a) serving on the Welsh Ministers [^key-6735a3a067a03db13bcac021a1a02b22]... a form obtained from the Welsh Ministers and a full statement of case[^key-a5431a2a347b767502f31b9860c2e1fb], together with such of the documents specified in paragraph (3) as are relevant to the appeal; and
+- (b) serving on the local planning authority a copy of the form mentioned in paragraph (a), as soon as reasonably practicable, together with a copy of any relevant documents mentioned in paragraph (3)(a)(ii) or (3)(b)(v)[^key-482dd3cb104f21c84b84c82aecc53d87] and a copy of the full statement of case[^key-93a4368b9a6fb8fd85c001d3d7598a84].
+
+(2) For the purposes of section 78(3) of the[^key-b86e7f13f40fa1f082a8578b4ce2d650] 1990 Act the prescribed time within which an appeal must be made under section 78(1) of that Act is [^key-11c1ab1384caa7a027146ab4832a1b71]...—
+
+- (a)[^key-3c3da1250fd2d0d7f35fee9fccbd4fbf] in the case of a householder appeal or a minor commercial appeal, twelve weeks from the date of the notice of the decision or determination giving rise to the appeal;
+- (b) in the case of any other appeal under section 78(1), six months from—
+  - (i) the date of the notice of the decision or determination giving rise to the appeal; or
+  - (ii) in a case in which the local planning authority have served a notice on the applicant in accordance with article 3(2) that they require further information and the applicant has not provided the information, the date of service of that notice;
+
+or such longer period as the Welsh Ministers may at any time allow.
+
+(3)[^key-13badefab398b94710af35f8f394b902] The documents mentioned in paragraph (1) are—
+
+- (a) in the case of a householder appeal or a minor commercial appeal—
+  - (i) a copy of the application which was sent to the local planning authority which has occasioned the appeal;
+  - (ii) any other plans, documents or drawings relating to the application which were not sent to the local planning authority, except any plans, documents or drawings relating to amendments to the application proposed after the local planning authority have made their determination; and
+  - (iii) the notice of the decision or determination;
+- (b) in the case of any other appeal made under section 78—
+  - (i) the application made to the local planning authority which has occasioned the appeal;
+  - (ii) all plans, drawings and documents sent to the authority in connection with the application;
+  - (iii) all correspondence with the authority relating to the application;
+  - (iv) any certificate provided to the authority under article 11;
+  - (v) any other plans, documents or drawings relating to the application which were not sent to the authority;
+  - (vi) the notice of the decision or determination, if any;
+  - (vii) if the appeal relates to an application for approval of certain matters in accordance with a condition on a planning permission, the application for that permission, the plans submitted with that application and the planning permission granted.
+- (c)[^key-84b855036a4080837c1ada285716c609] where this paragraph specifies the planning permission granted and a revised version of the notice of the decision to grant planning permission has been issued by the authority in accordance with section 71ZA(5) of the 1990 Act and article 24A, it is to be read as specifying the revised version of the notice.
+
+(4)[^key-69c7bb5fead62a251cfab547ca05882a] The Welsh Ministers may refuse to accept a notice of appeal—
+
+- (a) under section 78(1) of the 1990 Act if the documents required under paragraphs (1) and (3) are not served on the Welsh Ministers within the time prescribed in paragraph (2);
+- (b) under section 78(2) of the 1990 Act if the documents required under paragraphs (1) and (3) are not served on the Welsh Ministers.
+
+(5) The Welsh Ministers may provide, or arrange for the provision of, a website for use for such purposes as the Welsh Ministers think fit which—
+
+- (a) relate to appeals under section 78 of the 1990 Act and this article, and
+- (b) are capable of being carried out electronically.
+
+(6) Where a person gives notice of appeal to the Welsh Ministers using electronic communications, the provisions of article 32 apply.
+
+(7)[^key-4b8607d81930779e992ef889a9ba3974] In this article—
+
+- “householder appeal” (“*apêl deiliad tŷ*”) means an appeal under section 78(1)(a) of the 1990 Act in relation to a householder application but does not include—
+  - (a) an appeal against the grant of any planning permission which is granted subject to conditions; or
+  - (b) an appeal which is accompanied by an appeal under section 174 of the 1990 Act or under section 100 of the Historic Environment (Wales) Act 2023 (right to appeal against planning authority decision or failure to make decision)[^key-54744ff5fcb76e83ede5deacf68eea39];
+- “minor commercial appeal” (“*apêl fasnachol fach*”) means an appeal under section 78(1)(a) of the 1990 Act in relation to a minor commercial application but does not include—
+  - (a) an appeal against the grant of any planning permission which is granted subject to conditions; or
+  - (b) an appeal which is accompanied by an appeal under section 174 of the 1990 Act or under section 100 of the Historic Environment (Wales) Act 2023 (right to appeal against planning authority decision or failure to make decision).
+
+### 26A. Appeal made under section 78 of the 1990 Act: Functions of a local planning authority[^key-0de2456055316cad252aba46336ca937][^key-306b557ceab0ff6db2b06c3c44dd4f73]
+
+The additional period prescribed for the purposes of section 78A is four weeks.
+
+### 26B. Appeals under section 195 of the 1990 Act[^key-b55ddec1caca7f13ef47b840ed2189c3]
+
+(1) An applicant who wishes to appeal to the Welsh Ministers under section 195 of the 1990 Act (appeals against refusal or failure to give decision on application for a certificate of lawfulness of existing or proposed use or development) must give notice of appeal to the Welsh Ministers by—
+
+- (a) serving on the Welsh Ministers a form obtained from the Welsh Ministers, together with—
+  - (i) such of the documents specified in paragraph (2) as are relevant to the appeal; and
+  - (ii) a full statement of case;
+- (b) serving on the local planning authority a copy of the form mentioned in sub-paragraph (a), as soon as reasonably practicable, together with a copy of any relevant documents mentioned in paragraph (2)(d) and a copy of the full statement of case.
+
+(2) The documents mentioned in paragraph (1)(a)(i) are—
+
+- (a) the application made to the local planning authority which occasioned the appeal;
+- (b) all plans, drawings and documents sent to the authority in connection with the application;
+- (c) all correspondence with the authority relating to the application;
+- (d) any other plans, documents or drawings relating to the application which were not sent to the authority;
+- (e) the notice of the decision or determination, if any.
+
+(3) For the purposes of section 195(1B) of the1990 Act the prescribed time within which an appeal must be made under section 195(1)(a) of that Act is 6 months from the date of the notice of the decision or determination giving rise to the appeal.
+
+(4) The Welsh Ministers may refuse to accept a notice of appeal—
+
+- (a) under section 195(1)(a) of the 1990 Act if the documents required under paragraphs (1) and (2) are not served on the Welsh Ministers within the time prescribed in paragraph (3);
+- (b) under section 195(1)(b) of the 1990 Act if the documents required under paragraphs (1) and (2) are not served on the Welsh Ministers.
+
+(5) The Welsh Ministers may provide, or arrange for the provision of, a website for use for such purposes as the Welsh Ministers think fit which—
+
+- (a) relate to appeals under section 195 of the 1990 Act and this article, and
+- (b) are capable of being carried out electronically.
+
+(6) Where a person gives notice of appeal to the Welsh Ministers using electronic communications, the provisions of article 32 apply.
+
+### 26C. Variation of applications after notice of appeal[^key-e4e9e6c2c9feb28a4f127b331649244f]
+
+(1) For the purposes of sections 78(4BA) and 195(1DA) of the 1990 Act the prescribed circumstance is the application to which the appeal relates contains a correctable error.
+
+(2) An application which is varied in the circumstance prescribed in paragraph (1) is subject to such further consultation as the Welsh Ministers consider appropriate.
+
+(3) In this article “correctable error” (“*gwall cywiradwy*”) means an error which—
+
+- (a) is corrected in order to ensure consistency in the information contained in the application and the accompanying documents; and
+- (b) does not alter the substance of the application.
+
+## PART 6 — Miscellaneous
+
+### 27. Local development orders
+
+(1) Where a local planning authority propose to make a local development order the authority must first prepare—
+
+- (a) a draft of the order; and
+- (b) a statement of the authority's reasons for making the order.
+
+(2) The statement of reasons must contain—
+
+- (a) a description of the development which the order would permit; and
+- (b) a plan or statement identifying the land to which the order would relate.
+
+(3) Where a local planning authority have prepared a draft local development order, the authority must consult, in accordance with paragraph (5), such of the following persons whose interests the authority considers would be affected by the order if made—
+
+- (a) a local planning authority or community council any part of whose area is in or adjoins the authority's area;
+- (b) the Natural Resources Body for Wales[^key-541e26e168f2108e52e06d22896e07fb];
+- (c)[^key-ddd89e4eff1d333ca2baecc3b0bd0c46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the Welsh Ministers;
+- (e) any person—
+  - (i) to whom the electronic communications code applies by virtue of a direction given under section 106(3)(a) of the Communications Act 2003 (application of the electronic communications code) [^c21236791]; and
+  - (ii) who owns or controls electronic communications apparatus situated in any part of the authority's area;
+- (f) any of the following persons who exercise functions in any part of the authority's area—
+  - (i) a Local Health Board [^c21236801];
+  - (ii) a person to whom a licence has been granted under section 6(1)(b) and (c) of the Electricity Act 1989 (licences authorising supply, etc) [^c21236811];
+  - (iii) a person to whom a licence has been granted under section 7(2) of the Gas Act 1986 (licensing of gas transporters) [^c21236821];
+  - (iv) a sewerage undertaker;
+  - (v) a water undertaker;
+- (g) voluntary bodies some or all of whose activities benefit any part of the authority's area;
+- (h) bodies which represent the interests of different racial, ethnic or national groups in the authority's area;
+- (i) bodies which represent the interests of different religious groups in the authority's area;
+- (j) bodies which represent the interests of disabled persons in the authority's area;
+- (k) bodies which represent the interests of persons carrying on business in the authority's area.
+
+(4) The local planning authority must also consult any person with whom they would have been required to consult on an application for planning permission for the development proposed to be permitted by the order.
+
+(5) In consulting in accordance with paragraphs (3) and (4) the local planning authority must—
+
+- (a) send a copy of the draft order and the statement of reasons to the consultees;
+- (b) specify a consultation period of not less than 30 days[^key-fb1e05b2bbff991ea188ce3d52a830f1]; and
+- (c) take account of all representations received by them during the period specified.
+
+(6) A local planning authority must, during any consultation under paragraphs (3) and (4)—
+
+- (a) make a copy of the draft local development order , statement of reasons and any environmental statement[^key-e2e9c20e61e5bc02ca20ae96e03c552d] available for inspection—
+  - (i) at their principal office during normal working hours; and
+  - (ii) at such other places within their area as they consider appropriate;
+- (b) publish on their website—
+  - (i) the draft local development order , statement of reasons and any environmental statement[^key-c3eb282ba6f4249e0654910618ea08e8];
+  - (ii) a statement that those documents are available for inspection and the places where and times when they can be inspected; and
+  - (iii) the date by which representations on the draft local development order must be received, which must be not less than 30 days[^key-5999535eaaac4ea42b5ed7428b79112e] after the date of first publication on the website; and
+- (c) give notice by local advertisement of—
+  - (i) the draft local development order , statement of reasons and any environmental statement[^key-58ac09b6f11905babd13e0ae30d2274f];
+  - (ii) the availability of those documents for inspection, and the places where and times when they can be inspected; and
+  - (iii) the date by which representations on the draft local development order must be received, which must be not less than 30 days[^key-908ba48e022314a3c9dfd4b76cbba6e9] from the date on which the notice was first published.
+
+(7) Where the draft local development order would grant planning permission for development specified in the order, the local planning authority must also give notice of the proposal to make the order—
+
+- (a) by displaying in at least one place on or near to the site to which the order relates a notice in the form set out in Schedule 6 or in a form substantially to the like effect, and, subject to paragraph (8), leaving the notice in position for a period of not less than 30 days[^key-89a14b4956611d3e2c3b46e49faafcff] beginning with the date on which it is first displayed; and
+- (b) by serving a copy of that notice on every person whom the authority know to be the owner or tenant of any part of the site whose name and address is known to the authority,
+- (c) and must specify in the notice a date by which representations on the draft local development order must be received, which must be not less than 30 days[^key-4dcc345fb8506d3524ebfd97aabf0204] from the date on which the notice was displayed or served, as the case may be.
+
+(8) Where the notice referred to in paragraph (7)(a) is, without any fault or intention of the local planning authority, removed, obscured or defaced before the period referred to in that paragraph has elapsed, the authority are to be treated as having complied with the requirements of that paragraph if the authority have taken reasonable steps to protect the notice, and, if necessary, replace it.
+
+(9) Where any notice of the proposal has been—
+
+- (a) published on the local planning authority's website or by local advertisement in accordance with paragraph (6);
+- (b) given by site display under paragraph (7)(a); or
+- (c) served on an owner of the land or a tenant under paragraph (7)(b),
+
+the authority must, in considering what modifications should be made to the draft local development order or whether such an order should be adopted, take into account any representations made in relation to that order and received by the authority by the date specified on the website or in the notices, in accordance with paragraph (6) or (7) as the case may be, as the date by which representations should be made (or, if the dates on the website or in the notices differ from each other, the latest of such dates).
+
+(10) A local planning authority must send a copy of a draft local development order and the statement of reasons relating to that order, including any modifications made to the order or statement, to the Welsh Ministers at any time after the authority have complied with the requirements of paragraph (9).
+
+(11) Subject to paragraph (12), a local planning authority must not take any further steps in connection with the adoption of a local development order until either—
+
+- (a) the Welsh Ministers have notified the authority in writing that the Welsh Ministers do not intend to make a direction under section 61B(1) of the 1990 Act (intervention by Welsh Ministers) [^c21236831]; or
+- (b) a period of 21 days has elapsed from the date on which the draft was sent to the Welsh Ministers and the Welsh Ministers have not notified the authority that the Welsh Ministers intend to make such a direction or require more time to reach a decision.
+
+(12) If, within the period of 21 days referred to in paragraph (11)(b), the Welsh Ministers have notified the local planning authority that the Welsh Ministers require more time to reach a decision, the authority must not take any further steps in connection with the adoption of the order unless the Welsh Ministers notify the authority as referred to in paragraph (11)(a).
+
+(13) A local development order must not be made so as to grant planning permission—
+
+- (a) for development affecting a listed building; or
+- (b)[^key-03f3ab40ec9624edf7ed32353057b59c] for development which is Schedule 1 development within the meaning of regulation 2(1) of the EIA Regulations[^key-548dd97327cf73f015471b63936962c8].
+
+(14) Where a local planning authority revokes a local development order the authority must—
+
+- (a) publish on their website a statement that the local development order has been revoked;
+- (b) give notice of the revocation by local advertisement; and
+- (c) give written notice of the revocation to every person whom the authority consulted under paragraphs (3) or (4) before the making of the order.
+
+(15) In this article—
+
+- (a) a requirement to give notice by local advertisement is a requirement to publish the notice in as many newspapers as necessary to secure that the press coverage (taken as a whole) extends to the whole of the area to which the local development order relates; and
+- (b) “**listed building**” (“***adeilad rhestredig***”) has the meaning given in section 76 of the Historic Environment (Wales) Act 2023 (duty to maintain and publish list of buildings)[^key-9fa8aa9226a4b50975c1c249a64004e4].
+
+### 28. Certificate of lawful use or development
+
+(1) An application for a certificate under section 191(1) or 192(1) of the 1990 Act (certificates of lawfulness of existing or proposed use or development) [^c21236851] must be made on a form published by the Welsh Ministers (or a form substantially to the like effect) and must, in addition to specifying the land and describing the use, operations or other matter in question in accordance with those sections, include the particulars specified or referred to in the form.
+
+(2) An application to which paragraph (1) applies must be accompanied by—
+
+- (a) a plan identifying the land to which the application relates drawn to an identified scale and showing the direction of north;
+- (b) such evidence verifying the information included in the application as the applicant can provide; and
+- (c) a statement setting out the applicant's interest in the land, the name and address of any other person known to the applicant to have an interest in the land and whether any such other person has been notified of the application.
+
+(3) Where an application for a certificate under section 192(1) of the 1990 Act is made in respect of Crown land, it must, in addition to the documents required by paragraph (2), be accompanied by—
+
+- (a) a statement that the application is made in respect of Crown land; and
+- (b) where the application is made by a person authorised in writing by the appropriate authority, a copy of that authorisation.
+
+(4) Where such an application specifies two or more uses, operations or other matters, the plan which accompanies the application must indicate to which part of the land each such use, operation or matter relates.
+
+(5) Where an application is made using electronic communications the provisions of article 32 apply.
+
+(6) Articles 8(1) and 22(5) apply to an application for a certificate to which paragraph (1) applies as they apply to an application for planning permission.
+
+(7) When the local planning authority receive an application which complies with the requirements of paragraphs (1) to (4) and any fee required to be paid with respect to the application is lodged, they must, as soon as reasonably practicable, send to the applicant an acknowledgement of the application in the terms (or substantially in the terms) set out in Schedule 1.
+
+(8) Where, after sending an acknowledgement as required by paragraph (7), the local planning authority consider that the application is invalid they must, as soon as reasonably practicable, notify the applicant that the application is invalid.
+
+(9) The local planning authority may by notice in writing require the applicant to provide such further information as may be specified to enable them to deal with the application.
+
+(10) Where a valid application has been received, the local planning authority must give the applicant written notice of their decision within—
+
+- (a) the period of eight weeks beginning with the day the application is received by the authority; or
+- (b) unless the applicant has already given notice of appeal to the Welsh Ministers within such extended period as may be agreed in writing between the applicant and the authority.
+
+(11) For the purpose of calculating the appropriate period specified in paragraph (10) where any fee required has been paid by a cheque which is subsequently dishonoured, the period between the date when the local planning authority send the applicant written notice of the dishonouring of the cheque and the date when the authority are satisfied that they have received the full amount of the fee must be disregarded.
+
+(12) In this article, “**valid application**” (“***cais dilys***”) means an application which—
+
+- (a) complies with the requirements of paragraphs (1) to (4); and
+- (b) is accompanied by the fee required to be paid in respect of the application and, for this purpose, lodging a cheque for the amount of the fee is to be taken as payment,
+
+and a valid application must be taken to have been received when the application and all of the documents, particulars or evidence referred to in paragraphs (1) to (4) and any fee required have been lodged with the local planning authority.
+
+(13) Where an application is refused, in whole or in part (including a case in which the local planning authority modify the description of the use, operations or other matter in the application or substitute an alternative description for that description), the notice of decision must state clearly and precisely the authority's full reasons for their decision and must include a statement to the effect that if the applicant is aggrieved by the decision the applicant may appeal to the Welsh Ministers under section 195 of the 1990 Act (appeals against refusal or failure to give decision on application) [^c21236861].
+
+(14) A certificate under section 191 or 192 of the 1990 Act must be in the form set out in Schedule 7, or in a form substantially to the like effect.
+
+(15) Where a local planning authority propose to revoke a certificate issued under section 191 or 192 of the 1990 Act in accordance with section 193(7) of the 1990 Act (certificates under sections 191 and 192: supplementary provisions) [^c21236871], they must, before they revoke the certificate, give notice of that proposal to—
+
+- (a) the owner of the land affected;
+- (b) the occupier of the land affected;
+- (c) any other person who will in their opinion be affected by the revocation; and
+- (d) in the case of a certificate issued by the Welsh Ministers under section 195 of the 1990 Act, the Welsh Ministers.
+
+(16) A notice issued under paragraph (15) must invite the person on whom the notice is served to make representations on the proposal to the local planning authority within 14 days of service of the notice and the authority must not revoke the certificate until all such periods allowed for making representations have expired.
+
+(17) A local planning authority must give written notice of any revocation under section 193(7) of the 1990 Act to every person on whom notice of the proposed revocation was served under paragraph (15).
+
+### 28A. Applications for non-material changes to planning permission[^key-866a67322fcaabdc9d88202fc1ebbb42]
+
+(1) This article applies to an application made under section 96A(4) of the 1990 Act (power to make non-material changes to planning permission).
+
+(2) An application to which this article applies must be made in writing to the local planning authority on the form published by the Welsh Ministers.
+
+(3) An application for non-material changes to planning permission may be publicised by the local planning authority by giving notice—
+
+- (a) by site display in at least one place on or near the land to which the application relates for not less than 14 days; or
+- (b) by serving the notice on any adjoining owner or occupier.
+
+(4) Where the notice is without any fault or intention of the local planning authority, removed, obscured or defaced before the period of 14 days referred to in paragraph (3)(a) has elapsed, the authority will be treated as having complied with the requirement of that paragraph if they have taken reasonable steps to protect the notice and, if need be, replace it.
+
+(5) Before determining an application a local planning authority may consult any authority, body or person whom they consulted in accordance with article 14 before granting planning permission.
+
+(6) Where notice is given under paragraph (3) or if the local planning authority has consulted in accordance with paragraph (5), the authority must, in determining an application, take into account any representations made within 14 days beginning with the date when the notice was given.
+
+(7) A local planning authority must give the applicant notice in writing of their decision on the application within 28 days of receipt of the application or such longer period as may be agreed in writing between the applicant and the authority.
+
+## PART 7 — Monitoring
+
+### 29. Register of applications and local development orders
+
+(1) Each local planning authority must keep a register in three Parts of every application for planning permission and every local development order (if any) relating to their area.
+
+(2) The first part (“Part 1”) of the register must contain in respect of every application for planning permission and any application for approval of reserved matters made in respect of an outline planning permission granted on such an application, made or sent to the local planning authority and not finally disposed of—
+
+- (a) a copy (which may be photographic or in electronic form) of the application together with any accompanying plans and drawings;
+- (b) a copy (which may be photographic or in electronic form) of any planning obligation or section 278 agreement proposed or entered into in connection with the application;
+- (c) a copy (which may be photographic or in electronic form) of any other planning obligation or section 278 agreement entered into in respect of the land the subject of the application which the applicant considers relevant; and
+- (d) particulars of any modification to any planning obligation or section 278 agreement included in Part 1 in accordance with sub-paragraphs (b) and (c) above.
+
+(3) The second part (“Part 2”) of the register must contain, in respect of every application for planning permission relating to the local planning authority's area—
+
+- (a) a copy (which may be photographic or in electronic form) of the application and of plans and drawings submitted in relation thereto and of any accompanying design and access statement provided in accordance with article 7;
+- (b) particulars of any direction given under the 1990 Act or this Order in respect of the application;
+- (c) the decision, if any, of the authority in respect of the application, including details of any conditions subject to which permission was granted, the date of such decision and the name of the authority;
+- (ca)[^key-54d47e5c1b57237bbf6a35795a65fe1d] the revised version of the decision, if any, issued by the authority in accordance with section 71ZA(5) of the 1990 Act and article 24A;
+- (d) the reference number, the date and effect of any decision of the Welsh Ministers in respect of the application, whether on appeal, on an application under section 293A(2) of the 1990 Act (urgent Crown development: application) [^c21236881] or on a reference under section 77 of the 1990 Act (reference of applications to Secretary of State) [^c21236891];
+- (e) the date of any subsequent approval (whether approval of reserved matters or any other approval required) given in relation to the application;
+- (f) a copy (which may be photographic or in electronic form) of any planning obligation or section 278 agreement entered into in connection with any decision of the authority or the Welsh Ministers in respect of the application;
+- (g) a copy (which may be photographic or in electronic form) of any other planning obligation or section 278 agreement taken into account by the authority or the Welsh Ministers when making the decision; and
+- (h) particulars of any modification to or discharge of any planning obligation or section 278 agreement included in Part 2 in accordance with sub-paragraphs (f) or (g) or paragraph (4).
+
+(3A)[^key-43ce886f080406fcc98865d6dfdea942] Part 2 must also contain the following information in respect of every application made under article 28A relating to their area—
+
+- (a) a copy (which may be photographic or in electronic form) of the application together with any accompanying plans and drawings; and
+- (b) the decision, if any, of the authority in respect of the application, the date of such decision and the name of the authority.
+
+(4) Where, on any appeal to the Welsh Ministers under section 174 of the 1990 Act (appeal against enforcement notice) [^c21236901], the appellant is deemed to have made an application for planning permission and the Welsh Ministers have granted permission, the local planning authority must, on receipt of notification of the Welsh Ministers' decision, enter into Part 2 particulars of the development concerned, the land on which it was carried out, and the date and effect of the Welsh Ministers' decision together with a copy (which may be photographic or in electronic form) of—
+
+- (a) any planning obligation or section 278 agreement entered into in connection with the decision; and
+- (b) any other planning obligation or section 278 agreement taken into account by the Welsh Ministers when making the decision.
+
+(5) The third part of the register must consist of two sections—
+
+- (a) the first section must contain copies of draft local development orders which have been prepared but not adopted by the local planning authority; and
+- (b) the second section must contain—
+  - (i) copies of local development orders which have been adopted by the authority;
+  - (ii) particulars of the revocation of any local development order made by the authority, including the date on which the revocation took effect; and
+  - (iii) particulars of the revision of any local development order, including the date on which the revision took effect.
+
+(6) A copy of each draft local development order must be placed on the register when the draft is sent for consultation in accordance with article 27.
+
+(7) A copy of each local development order must be placed on the register within 14 days of the date of its adoption.
+
+(8) A requirement to place a copy of a draft local development order or adopted local development order on the register includes a requirement to place on the register the statement of reasons for making that order.
+
+(9) The register must also contain the following information in respect of every application for a certificate under section 191 or 192 of the 1990 Act (certificates of lawfulness of existing or proposed use or development) relating to the local planning authority's area—
+
+- (a) the name and address of the applicant;
+- (b) the date of the application;
+- (c) the address or location of the land to which the application relates;
+- (d) the description of the use, operations or other matter included in the application;
+- (e) the decision, if any, of the local planning authority in respect of the application and the date of such decision; and
+- (f) the reference number, date and effect of any decision of the Welsh Ministers on an appeal in respect of the application.
+
+(10) The register must contain the following information about simplified planning zone schemes in the area of the local planning authority—
+
+- (a) brief particulars of any action taken by the authority or the Welsh Ministers in accordance with section 83 of, or Schedule 7 to, the 1990 Act (making of simplified planning zone schemes etc) [^c21236911] to establish or approve any simplified planning zone scheme, including the date of adoption or approval, the date on which the scheme or alteration becomes operative and the date on which it ceases to be operative;
+- (b) a copy of any simplified planning zone scheme, or alteration to an existing scheme, including any diagrams, illustrations, descriptive matter or any other prescribed material which has been made available for inspection under Schedule 7 to the 1990 Act; and
+- (c) an index map showing the boundary of any operative or proposed simplified planning zone schemes, including alterations to existing schemes where appropriate, together with a reference to the entries in the register under sub-paragraphs (a) and (b).
+
+(11) To enable any person to trace any entry in the register, every register must include an index together with a separate index of applications for development involving mining operations or the creation of mineral working deposits.
+
+(12) Subject to paragraph (13), every entry in the register must be made within 14 days of the receipt of an application, or of the giving or making of the relevant direction, decision or approval as the case may be.
+
+(13) A copy of any application made under section 293A(2) of the 1990 Act (urgent Crown development:application) and of any plans and drawings submitted in relation to it must be placed on the register within 14 days of the date on which the local planning authority is consulted on the application by the Welsh Ministers.
+
+(14) The whole of the register must be kept at the principal office of the local planning authority or that part of the register which relates to land in part of that authority's area must be kept at a place within or convenient to that part.
+
+(15) For the purposes of paragraph (2), an application must not be treated as finally disposed of unless—
+
+- (a) it has been decided by the local planning authority[^key-c6f8d62b9d9f747978c2ee35af72fd87]...and the period [^key-3571dc2f59d8a7536a390bf50ea471e0]... specified in article 26(2) has expired without any appeal having been made to the Welsh Ministers;
+- (b) if it has been referred to the Welsh Ministers under section 77 the 1990 Act (reference of applications to Secretary of State) or an appeal has been made to the Welsh Ministers under section 78 of the 1990 Act (right to appeal against planning decisions and failure to take such decisions) [^c21236921], the Welsh Ministers have issued a decision and the period of six weeks specified in section 288 of the 1990 Act (proceedings for questioning the validity of other orders, decisions and directions) [^c21236931] has expired without any application having been made to the High Court under that section;
+- (c) an application has been made to the High Court under section 288 of the 1990 Act and the matter has been finally determined, either by final dismissal of the application by a court or by the quashing of the Welsh Ministers' decision and the issue of a fresh decision (without a further application under the said section 288); or
+- (d) it has been withdrawn before being decided by the authority or the Welsh Ministers, as the case may be, or an appeal has been withdrawn before the Welsh Ministers have issued their decision.
+
+(16) Where the register kept by a local planning authority under this article is kept using electronic storage, the authority may make the register available for inspection by the public on a website maintained by the authority for that purpose.
+
+(17) In this article—
+
+- (a) “**planning obligation**” (“***rhwymedigaeth gynllunio***”) means an obligation entered into by agreement or otherwise by any person interested in land pursuant to section 106 of the 1990 Act (planning obligations) [^c21236941]; and
+- (b) “**section 278 agreement**” (“***cytundeb adran 278***”) means an agreement entered into pursuant to section 278 of the Highways Act 1980 (agreements as to execution of works) [^c21236951].
+
+### 30. Register of enforcement and stop notices[^key-2c9c3993eb4d6fc5a2522e1c7428a850]
+
+(1) Subject to paragraph (2), the register under section 188 of the 1990 Act (register of enforcement and stop notices) [^c21236961] must contain the following information with respect to every enforcement notice issued in relation to land in the area of the local planning authority maintaining the register—
+
+- (a) the address of the land to which the notice relates or a plan by reference to which its situation can be ascertained;
+- (b) the name of the issuing authority;
+- (c) the date of issue of the notice;
+- (d) the date of service of copies of the notice;
+- (e) a statement or summary of the breach of planning control alleged and the requirements of the notice, including the period within which any required steps are to be taken;
+- (f) the date specified in the notice as the date on which it is to take effect;
+- (g) information on any postponement of the date specified as the date on which the notice will take effect by reason of section 175(4) of the 1990 Act (appeals: supplementary provisions) [^c21236971]3) and the date of the final determination or withdrawal of any appeal;
+- (h) the date of service and, if applicable, of withdrawal of any stop notice referring to the enforcement notice, together with a statement or summary of the activity prohibited by any such stop notice; and
+- (i) the date, if any, on which the authority are satisfied that steps required by the notice for a purpose mentioned in section 173(4)(b) of the 1990 Act (contents and effect of notice: remedying any injury to amenity) [^c21236981] have been taken.
+
+(2) That register must also contain the following information with respect to every breach of condition notice served in relation to land in the area of the local planning authority maintaining the register—
+
+- (a) the address of the land to which the notice relates or a plan by reference to which its situation can be ascertained;
+- (b) the name of the serving authority;
+- (c) the date of service of the notice;
+- (d) details of the relevant planning permission sufficient to enable it to be identified; and
+- (e) a statement or summary of the condition which has not been complied with and the requirements of the notice, including the period allowed for compliance.
+
+(3) All entries relating to an enforcement notice, stop notice or breach of condition notice must be removed from the register if—
+
+- (a) in the case of an enforcement notice or stop notice, the relevant enforcement notice is quashed by the Welsh Ministers;
+- (b) in the case of a breach of condition notice, the notice is quashed by a court;
+- (c) in any case, the relevant notice is withdrawn.
+
+(4) Every register must include an index for enabling a person to trace any entry in the register by reference to the address of the land to which the notice relates.
+
+(5) The information prescribed in paragraphs (1) and (2) must be entered in the register as soon as practicable and in any event within 14 days of the occurrence to which it relates.
+
+(6) The whole of the register must be kept at the principal office of the local planning authority or that part of the register which relates to land in part of that authority's area must be kept at a place within or convenient to that part.
+
+## PART 8 — General
+
+### 31. Directions
+
+Any power conferred by this Order to give a direction includes power to cancel or vary the direction by a subsequent direction.
+
+### 32. Use of electronic communications
+
+(1) Where an application is made using electronic communications, the applicant is taken to have agreed—
+
+- (a) to the use of such communications by the authority for the purposes of the application;
+- (b) that the applicant's address for those purposes is the address incorporated into, or otherwise logically associated with, the application; and
+- (c) that the applicant's deemed agreement under this paragraph will subsist until the applicant gives notice in writing of the withdrawal of consent to the use of electronic communications under paragraph (2).
+
+(2) Where a person is no longer willing to accept the use of electronic communications for any purpose of this Order which is capable of being carried out electronically, that person must give notice in writing—
+
+- (a) withdrawing any address notified to the Welsh Ministers or to a local planning authority for that purpose; or
+- (b) revoking any agreement entered into or deemed to have been entered into with the Welsh Ministers or with a local planning authority for that purpose,
+
+and such withdrawal or revocation will be final and will take effect on a date specified by the person in the notice but not less than seven days after the date on which the notice is given.
+
+### 33. Revocations, transitional provisions and savings
+
+(1) The statutory instruments specified in the first column of the Table in Schedule 8 are revoked to the extent specified in the corresponding row of the third column of the Table.
+
+(2) In respect of any application for planning permission, consent, agreement or approval made before 1 November 2011—
+
+- (a) articles 26 (appeals) and 29 (register of applications and local development orders) and Schedule 5 (notification where planning permission refused or granted subject to conditions) do not apply; and
+- (b) articles 23 (appeals) and 25 (register of applications) of, and Part 2 of Schedule 1 (notification to be sent to applicant on refusal of planning permission or on the grant of permission subject to conditions) to, the Town and Country Planning (General Development Procedure) Order 1995 [^c21236991] apply as those provisions applied immediately prior to 1 November 2011.
+
+(3) In respect of any application for planning permission made before 30 April 2012—
+
+- (a) article 12 (publicity for applications for planning permission) does not apply; and
+- (b) article 8 of the Town and Country Planning (General Development Procedure) Order 1995 (publicity for applications for planning permission) [^c21237001] applies as that provision applied immediately prior to 30 April 2012.
+
+John Griffiths
+
+Minister for the Environment and Sustainable Development, one of the Welsh Ministers
+
+## SCHEDULE 1 — Acknowledgement of Application[^key-fc99830cd82a7bc99d130fb2475a7655]
+
+Articles 8 and 28
+
+[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_001)
+
+## SCHEDULE 1A — Minor Commercial Development Uses[^key-1f4ff79f77653f77231c5c0fa7e678b4]
+
+Article 2(1)
+
+### 1. Shops
+
+Use for all or any of the following purposes—
+
+- (a) for the retail sale of goods other than hot food,
+- (b) as a post office,
+- (c) for the sale of tickets or as a travel agency,
+- (d) for the sale of sandwiches or other cold food for consumption off the premises,
+- (e) for hairdressing,
+- (f) for the direction of funerals,
+- (g) for the display of goods for sale,
+- (h) for the hiring out of domestic or personal goods or articles,
+- (i) for the washing or cleaning of clothes or fabrics on the premises,
+- (j) for the reception of goods to be washed, cleaned or repaired,
+
+where the sale, display or service is to visiting members of the public.
+
+### 2. Financial and professional services
+
+Use for the provision of—
+
+- (a) financial services,
+- (b) professional services (other than health or medical services), or
+- (c) any other services (including use as a betting office) which it is appropriate to provide in a shopping area,
+
+where the services are provided principally to visiting members of the public.
+
+### 3. Food and drink
+
+Use for the sale of food or drink for consumption on the premises or of hot food for consumption off the premises.
+
+## SCHEDULE 1B — PUBLICITY AND CONSULTATION BEFORE APPLYING FOR PLANNING PERMISSION[^key-a62bbe078663085693707df4e42694a1]
+
+Articles 2C & 2D
+
+[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_epp_001)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_epp_002)
+
+## SCHEDULE 1C — CONSULTATION BEFORE APPLYING FOR PLANNING PERMISSION
+
+Article 2D
+
+[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_epp_003)
+
+## SCHEDULE 1D — PUBLICITY AND CONSULTATION BEFORE APPLYING FOR PLANNING PERMISSION: NOTICE TO BE GIVEN DURING EMERGENCY PERIOD[^key-3efd8e0f9541e16ad39aa50d0021179b]
+
+Article 2G
+
+[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_epp_008)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_epp_009)
+
+ 
+
+## SCHEDULE 2 — Notices under Articles 10 and 25[^key-bef62d650fe864a838fb93f7ccfb804b][^key-b6fe345d4a35fb660c2539d42005c581][^key-1f1c5488514b12f209d77e25e85fa1cf]
+
+Articles 10 and 25
+
+[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_002)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_003)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_004)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_005)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_006)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_007)
+
+## SCHEDULE 3 — Publicity for applications for planning permission[^key-8b37678a9ef9a10298be05b43f17e4c1][^key-6528d31c809764b60124e47cc94b2aa2][^key-e560d110d592f35826a7bdb72941c28d][^key-64858dc0d68d7ffd8b882d2681db380c][^key-77bb95e41c8a555d3bdea8d76bec19b0][^key-ec4ca9cf3e75bdfc8b7a7743dd01b8d1]
+
+Article 12
+
+[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_008)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_009)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_010)
+
+## SCHEDULE 4 — Consultations before the grant of permission[^key-834edd86a5782d56bf5cca16ee844245]
+
+Article 14 and 15
+
+ 
+
+**TABLE**
+
+| Paragraph | Description of Development | Consultee |
+| --- | --- | --- |
+| (a) | Development likely to affect land in the area of another local planning authority | The local planning authority concerned |
+| (b) | Development, in relation to which an application for planning permission has been made to the Welsh Ministers under section 293A of the 1990 Act (urgent Crown development: application), where that development is likely to affect land in the area of a community council | The community council |
+| (c) | Development within an area which has been notified to the local planning authority by the Health and Safety Executive for the purpose of this provision because of the presence within the vicinity of toxic, highly reactive, explosive or inflammable substances (otherwise than on a relevant nuclear site) and which involves the provision of—<br>(i) residential accommodation;<br>(ii) more than 250 square metres of retail floor space;<br>(iii) more than 500 square metres of office floor space; or<br>(iv) more than 750 square metres of floor space to be used for an industrial process,<br>or which is otherwise likely to result in a material increase in the number of persons working within or visiting the notified area | The Health and Safety Executive |
+| (d) | Development within an area which has been notified to the local planning authority by the Office for Nuclear Regulation for the purpose of this provision because of the presence within the vicinity of toxic, highly reactive, explosive or inflammable substances on a relevant nuclear site and which involves the provision of—<br>(i) residential accommodation;<br>(ii) more than 250 square metres of retail floor space;<br>(iii) more than 500 square metres of office floor space; or<br>(iv) more than 750 square metres of floor space to be used for an industrial process,<br>or which is otherwise likely to result in a material increase in the number of persons working within or visiting the notified area | The Office for Nuclear Regulation |
+| (e) | Development likely to result in a material increase in the volume or a material change in the character of traffic— |  |
+|  | (i) entering or leaving a trunk road; or | The Welsh Ministers |
+|  | (ii) using a level crossing over a railway | The operator of the network which includes or consists of the railway in question, and the Welsh Ministers |
+| (f) | Development likely to result in a material increase in the volume or a material change in the character of traffic entering or leaving a classified road or proposed highway | The local highway authority concerned |
+| (g) | Development likely to prejudice the improvement or construction of a classified road or proposed highway | The local highway authority concerned |
+| (h) | Development involving— |  |
+|  | (i) the formation, laying out or alteration of any means of access to a highway (other than a trunk road); or | The local highway authority concerned |
+|  | (ii) the construction of a highway or private means of access to premises affording access to a road in relation to which a toll order is in force | The local highway authority concerned, and in the case of a road subject to a concession, the concessionaire |
+| (i) | Development which consists of or includes the laying out or construction of a new street | The local highway authority |
+| (j) | Development, other than householder development, within an area which has been notified for the purpose of this provision to the local planning authority by the Coal Authority because of the presence of land instability risks from coal mining | The Coal Authority |
+| (k) | Development involving or including mining operations | The Natural Resources Body for Wales |
+| (l) | (i) Development which has a direct physical impact on a scheduled monument.<br>(ii) Development likely to be visible from a scheduled monument and which meets one of the following criteria--<br>a) it is within a distance of 0.5 kilometres from any point of the perimeter of a scheduled monument;<br>b) it is within a distance of 1 kilometre from the perimeter of a scheduled monument and is 15 metres or more in height, or has an area of 0.2 hectares or more;<br>c) it is within a distance of 2 kilometres from the perimeter of a scheduled monument and is 50 metres or more in height, or has an area of 0.5 hectares or more;<br>d) it is within a distance of 3 kilometres from the perimeter of a scheduled monument and is 75 metres or more in height, or has an area of 1 hectare or more; or<br>e) it is within a distance of 5 kilometres from the perimeter of a scheduled monument and is 100 metres or more in height, or has an area of 1 hectare or more.<br>(iii) Development likely to affect the site of a registered historic park or garden or its setting;<br>(iv) Development within a registered historic landscape that requires an Environmental Impact Assessment; or<br>(v) Development likely to have an impact on the outstanding universal value of a World Heritage Site | The Welsh Ministers |
+| (m) | Development involving the carrying out of works or operations in the bed of or on the banks of a river or stream | The Natural Resources Body for Wales |
+| (n) | Development for the purpose of refining or storing mineral oils and their derivatives | The Natural Resources Body for Wales |
+| (o) | Development relating to the retention, treatment or disposal of sewage, trade-waste, slurry or sludge (other than the laying of sewers, the construction of pumphouses in a line of sewers, the construction of septic tanks and cesspools serving single dwellinghouses or single caravans or single buildings in which not more than ten people will normally reside, work or congregate, and works ancillary thereto) | The Natural Resources Body for Wales |
+| (p) | Development relating to the use of land as a cemetery | The Natural Resources Body for Wales<br>The water and sewerage undertaker concerned |
+| (q) | Development—<br>(i) in or likely to affect a site of special scientific interest; or<br>(ii) within an area which has been notified to the local planning authority by the Natural Resources Body for Wales and which is within two kilometres, of a site of special scientific interest,<br>of which notification has been given, or has effect as if given, to the local planning authority by the Natural Resources Body for Wales, in accordance with section 28 of the Wildlife and Countryside Act 1981 (sites of special scientific interest) as applied in Wales by section 27AA of that Act | The Natural Resources Body for Wales |
+| (r) | Development involving –<br>(i) any land on which there is a theatre;<br>(ii) residential development (excluding householder development) within 50 metres of a theatre (not falling within paragraph (i)); or<br>(iii) a proposed theatre. | The Theatres Trust |
+| (s) | Development which is not for agricultural purposes, is not in accordance with the provisions of a development plan and involves—<br>(i) the loss of not less than 20 hectares of grades 1, 2 or 3a agricultural land which is for the time being used (or was last used) for agricultural purposes; or<br>(ii) the loss of less than 20 hectares of grades 1, 2 or 3a agricultural land which is for the time being used (or was last used) for agricultural purposes, in circumstances in which the development is likely to lead to a further loss of agricultural land amounting cumulatively to 20 hectares or more | The Welsh Ministers |
+| (t) | Development within 250 metres of land which—<br>(i) is or has, at any time in the 30 years before the relevant application, been used for the deposit of refuse or waste; and<br>(ii) has been notified to the local planning authority by the Natural Resources Body for Wales for the purposes of this provision | The Natural Resources Body for Wales |
+| (u) | Development which—<br>(i) is likely to prejudice the use, or lead to the loss of use, of land being used as a playing field; or<br>(ii) is on land which has been:<br>(aa) used as a playing field at any time in the 5 years before the making of the relevant application and which remains undeveloped; or<br>(bb) allocated for use as a playing field in a development plan or in proposals for such a plan or its alteration or replacement; or<br>(iii) involves the replacement of the grass surface of a playing pitch on a playing field with an artificial, man-made or composite surface | The Sports Council for Wales |
+| (v) | Development likely to affect—<br>(i) any inland waterway (whether natural or artificial) or reservoir owned or managed by the Canal & River Trust; or<br>(ii) any canal feeder channel, watercourse, let off or culvert, which is within an area which has been notified for the purposes of this provision to the local planning authority by the Canal & River Trust | The Canal & River Trust |
+| (w) | Development—<br>(i) involving the siting of new establishments;<br>(ii) consisting of modifications to existing establishments which would require notification under regulation 6(6) of the Control of Major Accident Hazards Regulations 2015[^key-454795272fc40499ebceedd609c7ae5a]; or<br>(iii) which is new, including transport routes, locations of public use and residential areas in the vicinity of existing establishments, where the siting or development may be the source of or increase the risk or consequences of a major accident | The control of major accident hazards competent authority, and in relation to development falling within paragraph (iii), any person who is, according to the register held by the hazardous substances authority under regulation 22 of the Planning (Hazardous Substances) (Wales) Regulations 2015, the person who is in control of the land on which any existing establishment in question is located |
+| (x)[^key-99863181bc8b0bbac35d9e41cc78ae3a] | Development –<br>(i) On land within Rivers and Sea – Flood Zone 2;<br>(ii) On land within Rivers and Sea – Flood Zone 3;<br>(iii)On land within TAN 15 Defended Zones. | The Natural Resources Body for Wales |
+| (y) | Development—<br>(i) involving new residential development (including single units); and<br>(ii) which is major development not falling within paragraph (i). | The water and sewerage undertaker concerned |
+| (z)[^key-7b18f3cf632cbb674abdb5bd0ff51be6] | Development—<br>- (i) involving waste development;<br>- (ii) involving the provision of dwellinghouses where either the number of dwellinghouses to be provided is 10 or more or the development is to be carried out on a site having an area of 0.5 hectares or more and it is not known whether the number of dwellinghouses to be provided is 10 or more;<br>- (iii) involving the provision of a building or buildings where the floor space to be created by the development is 1,000 square metres or more;<br>- (iv) carried out on a site having an area of 1 hectare or more;<br>- (v) involving the provision of 10 or more flats (whether by increasing the number of flats within an existing building or otherwise);<br>- (vi) involving the provision of residential accommodation of 10 or more rooms, not contained in dwellinghouses or flats, which are not solely used for cooking purposes and are not toilet facilities, service rooms, corridors, laundry rooms, hallways or utility rooms; or<br>- (vii) involving the provision of residential accommodation of 10 or more rooms contained in a dwellinghouse or flat used as a house in multiple occupation, which are not solely used for cooking purposes and are not toilet facilities, service rooms, corridors, laundry rooms, hallways or utility rooms. | The Fire and Rescue Authority concerned |
+
+### Interpretation of Table
+
+In the above Table—
+
+- (a) in paragraphs (c)(iv) and (d)(iv), “industrial process” (“*proses ddiwydiannol*”) means a process for or incidental to any of the following purposes—
+  - (i) the making of any article or part of any article (including a ship or vessel, or a film, video or sound recording);
+  - (ii) the altering, repairing, maintaining, ornamenting, finishing, cleaning, washing, packing, canning, adapting for sale, breaking up or demolition of any article; or
+  - (iii) the getting, dressing or treatment of minerals in the course of any trade or business other than agriculture, and other than a process carried out on land used as a mine or adjacent to and occupied together with a mine (and in this sub-paragraph, “mine” (“*mwynglawdd*”) means any site on which mining operations are carried out);
+- (b) in paragraphs (c) and (d) “relevant nuclear site” (“*safle niwclear perthnasol*”) means a site which is—
+  - (i) a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013);
+  - (ii) an authorised defence site (within the meaning given by regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or
+  - (iii) a new nuclear build site (within the meaning given by regulation 2A(1) of those Regulations).\]
+- (c) in paragraph (e), “network” (“*rhwydwaith*”) and “operator” (“*gweithredwr*”) have the same meaning as in section 83(1) of the Railways Act 1993 (the provision of railway services);
+- (d) in paragraphs (f) and (g), “classified road” (“*ffordd ddosbarthiadol*”) means a highway or proposed highway which—
+  - (i) is a classified road or a principal road by virtue of section 12(1) of the Highways Act 1980 (general provision as to principal and classified roads); or
+  - (ii) is classified for the purposes of any enactment by the Welsh Ministers by virtue of section 12(3) of that Act;
+- (e) in paragraph (h), “concessionaire” (“*consesiynydd*”), “road subject to a concession” (“*ffordd sy’n ddarostyngedig i gonsesiwn*”) and “toll order” (“*gorchymyn tollau*”) have the same meaning as in Part I of the New Roads and Street Works Act 1991 (new roads in England and Wales);
+- (f) in paragraph (i), “street” (“*stryd*”) has the same meaning as in section 48(1) of the New Roads and Street Works Act 1991 (streets, street works and undertakers), and “new street” (“*stryd newydd*”) includes a continuation of an existing street;
+- (g) in paragraph (j), “householder development” (“*datblygiad gan ddeiliad tŷ*”) means—
+  - (i) the enlargement, improvement or other alteration of a dwellinghouse, or development within the curtilage of such a dwellinghouse, or
+  - (ii) a change of use to enlarge the curtilage of a dwellinghouse,
+
+  for any purpose incidental to the enjoyment of the dwellinghouse but does not include—
+
+  - (aa) any other change of use,
+  - (bb) the erection of a dwellinghouse, or
+  - (cc) a change to the number of dwellings in a building;
+- (h) in paragraph (l)—
+  - (i) “scheduled monument” (“*heneb gofrestredig*”) has the same meaning as in section 3(7) of the Historic Environment (Wales) Act 2023[^key-56788e6ea0542be8c69dfec1125fe603] (schedule of monuments);
+  - (ii) reference to the height of development is be construed as a reference to its height when measured from ground level; and for the purposes of this paragraph “ground level” (“*lefel y ddaear*”) means the level of the surface of the ground immediately adjacent to the development in question or, where the level of the surface of the ground on which it is situated or is to be situated is not uniform, the level of the highest part of the surface of the ground adjacent to it;
+  - (iii) “registered historic park or garden” (“*parc hanesyddol cofrestredig neu ardal hanesyddol gofrestredig*”) and “registered historic landscape” (“*tirwedd hanesyddol gofrestredig*”) means the park, garden or landscape is included in the Register of Landscapes, Parks and Gardens of Special Historic Interest in Wales maintained by the Welsh Ministers;
+  - (iv) “World Heritage Site” (“*Safle Treftadaeth y Byd*”) means land appearing on the World Heritage List kept under article 11(2) of the UNESCO Convention for the Protection of the World Cultural and Natural Heritage adopted at Paris on 16th November 1972 ;
+- (i) in paragraph (o)—
+  - (i) “slurry” (“*slyri*”) means animal faeces and urine (whether or not water has been added for handling), and
+  - (ii) “caravan” (“*carafán*”) has the same meaning as in section 29(1) of the Caravan Sites and Control of Development Act 1960 (caravan sites);
+- (j) in paragraph (q), “site of special scientific interest” (“*safle o ddiddordeb gwyddonol arbennig*”) means land to which section 28(1) of the Wildlife and Countryside Act 1981 (sites of special scientific interest) applies;
+- (k) in paragraph (r), theatre” (“*theatr*”) has the same meaning as in section 5 of the Theatres Trust Act 1976 (interpretation) and “householder development” (“*datblygiad gan ddeiliad tŷ*”) has the same meaning as in paragraph (j);
+- (l) in paragraph (u)—
+  - (i) “playing field” (“*maes chwarae*”) means the whole of a site which encompasses at least one playing pitch;
+  - (ii) “playing pitch” (“*llain chwarae*”) means a delineated area which, together with any run-off area, is of 0.2 hectares or more, and which is used for association football, American football, rugby, cricket, hockey, lacrosse, rounders, baseball, softball, Australian football, Gaelic football, shinty, hurling, polo or cycle polo;
+- (m) in paragraph (w)—
+  - (i)[^key-12b6bdc258a2de10683316de61acb096] the expressions “major accident” and “establishment” as they appear in that paragraph have the same meaning as in regulation 2 of the Control of Major Accident Hazards Regulations 2015.
+  - (ii) “control of major accident hazards competent authority” (“*awdurdod cymwys rheoli peryglon damweiniau mawr*”) means—
+    - (aa) in relation to a relevant nuclear site, the Office of Nuclear Regulation and the Natural Resources Body for Wales, acting jointly;
+    - (bb) otherwise, the Health and Safety Executive and the Natural Resources Body for Wales acting jointly; [^key-63912ac9b9f7a8ea1a80ff63ba4f12ad]...
+- (n)[^key-b973025068a4825aa8212b16132c8beb] in paragraph (x)—
+  - “Rivers and Sea – Flood Zone 2” (“***Afonydd a’r Môr – Parth Llifogydd 2***”) means an area with less than a 1 in 100 chance of flooding from rivers and less than 1 in 200 chance of flooding from the sea but greater than 1 in 1000 chance of flooding from rivers and the sea in a given year, including climate change;
+  - “Rivers and Sea – Flood Zone 3” (“***Afonydd a’r Môr – Parth Llifogydd 3***”) means an area with a greater than 1 in 100 chance of flooding from rivers in a given year, including climate change, and a greater than 1 in 200 chance of flooding from the sea in a given year, including climate change;
+  - “**TAN 15 Defended Zones**” (“***Parthau Amddiffynedig TAN 15***”) means areas where flood risk management infrastructure provides a minimum standard of protection against flooding of 1 in 100 from rivers and 1 in 200 from the sea (plus climate change and freeboard) as set out in the Flood Map for Planning published by the Natural Resources Body for Wales[^key-db6310b83dd8148e2dae78158ee781a4].
+- (o)[^key-41ff94924b77de6e43829e770ced8cce] in paragraph (z) “house in multiple occupation” does not include a converted block of flats to which section 257 of the Housing Act 2004 applies but otherwise has the same meaning as in section 254 of the Housing Act 2004.
+
+## SCHEDULE 5 — Notification where planning permission refused or granted subject to conditions
+
+Article 24
+
+**TOWN AND COUNTRY PLANNING ACT 1990**
+
+Notification to be sent to an applicant when a local planning authority refuse planning permission or grant it subject to conditions (to be endorsed on notices of decision)
+
+### Appeals to the Welsh Ministers
+
+- — If you are aggrieved by the decision of your local planning authority to refuse permission for the proposed development or to grant it subject to conditions, then you can appeal to the Welsh Ministers under section 78 of the Town and Country Planning Act 1990.
+- — If you want to appeal against your local planning authority's decision then you must do so within 6 months of the date of this notice.
+- — Appeals must be made using a form which you can get from the Welsh Ministers, Planning Inspectorate at Crown Buildings, Cathays Park, Cardiff CF10 3NQ, or online at www.planningportal.gov.uk/pcs.
+- — The Welsh Ministers can allow a longer period for giving notice of an appeal, but are not normally prepared to use this power unless there are special circumstances which excuse the delay in giving notice of appeal.
+- — The Welsh Ministers need not consider an appeal if it seems to them that the local planning authority could not have granted planning permission for the proposed development or could not have granted it without the conditions they imposed, having regard to the statutory requirements, to the provisions of any development order and to any directions given under a development order.
+- — In practice, the Welsh Ministers do not refuse to consider appeals solely because the local planning authority based their decision on a direction given by them.
+
+### Purchase Notices
+
+- — If either the local planning authority or the Welsh Ministers refuse permission to develop land or grant it subject to conditions, the owner may claim that the owner can neither put the land to a reasonably beneficial use in its existing state nor render the land capable of a reasonably beneficial use by the carrying out of any development which has been or would be permitted.
+- — In these circumstances, the owner may serve a purchase notice on the local planning authority in whose area the land is situated. This notice will require the local planning authority to purchase the owner's interest in the land in accordance with the provisions of Part VI of the Town and Country Planning Act 1990. (The local planning authority may accept the notice and proceed to acquire the land; or reject the notice in which case they must refer the notice to the Welsh Ministers.)
+
+## SCHEDULE 5A[^key-c75ce7f91ef3fb979a4d2bf8c444b6a0]
+
+Article 24B(2)
+
+[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_epp_004)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_epp_005)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_epp_006)
+
+## SCHEDULE 5B
+
+Article 24B(3)
+
+[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_epp_007)
+
+## SCHEDULE 6 — Notice under Article 27
+
+Article 27
+
+[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_011)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_012)
+
+## SCHEDULE 7 — Certificate of Lawful Use or Development
+
+Article 28
+
+[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_013)[image: see source](https://www.legislation.gov.uk/wsi/2012/801/images/wsi_20120801_en_sld_014)
+
+## SCHEDULE 8 — STATUTORY INSTRUMENTS REVOKED
+
+Article 33
+
+| *Title of Instrument* | *Reference* | *Extent of revocation* |
+| --- | --- | --- |
+| The Town and Country Planning (General Development Procedure) Order 1995 [^c21237261] | SI 1995/419 | The whole of the Order [^c21237271] |
+| The Town and Country Planning (General Development Procedure) (Welsh Forms) Order 1995 | SI 1995/3336 | The whole of the Order |
+| National Park Authorities (Wales) Order 1995 | SI 1995/2803 | Paragraph 21 of Schedule 5 and article 18 in so far as it relates to that paragraph |
+| The Town and Country Planning (General Development Procedure) (Amendment) Order 1996 [^c21237281] | SI 1996/1817 | The whole of the Order |
+| Local Government Reorganisation (Wales) (Consequential Amendments) Order 1996 | SI 1996/525 | Paragraph 20 of the Schedule and article 3 in so far as it relates to that paragraph |
+| The Town and Country Planning (General Development Procedure) (Amendment) Order 1997 [^c21237291] | SI 1997/858 | The whole of the Order |
+| The Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2002 | SI 2002/1877 (W.186) | The whole of the Order |
+| The Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2004 | SI 2004/1434 (W.147) | The whole of the Order |
+| The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 | SI 2004/3156 (W.273) | Article 11 and Schedule 1 |
+| The Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2006 | SI 2006/3390 (W.310) | The whole of the Order |
+| The Town and Country Planning (Miscellaneous Amendments and Modifications relating to Crown Land) (Wales) Order 2006 | SI 2006/1386 (W.136) | Article 4 |
+| The Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2008 | SI 2008/2336 (W.199) | The whole of the Order |
+| The Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2009 | SI 2009/1024 (W.87) | The whole of the Order |
+
+*(This note is not part of the Order)*
+
+This Order consolidates with modification the provisions of the Town and Country Planning (General Development Procedure) Order 1995 (“**the 1995 Order**”) and subsequent amending instruments, in so far as they apply to Wales. It also includes provisions regarding the application of this Order to the Crown which are similar to the provisions, in article 4 of the Town and Country Planning (Miscellaneous Amendments and Modifications relating to Crown Land) (Wales) Order 2006 (“**the 2006 Order**”) which modified the 1995 Order. Article 4 of the 2006 Order is consequently revoked.
+
+This Order provides for procedures connected with planning applications, consultations in relation to planning applications, the determination of planning applications, appeals, local development orders, certificates of lawful use or development, the maintenance of registers of planning applications and related matters.
+
+The main changes are:
+
+- — the updating or removal of references to bodies where the bodies no longer exist or where, prior to the making of this Order, their functions have been transferred to other bodies (article 14 and the Table in Schedule 4).
+- — Article 5 makes provision for the form and content of application forms for planning permission. In particular, it provides for applications for planning permission to be made on a standard form published by the Welsh Ministers.
+- — Article 11 provides that certificates in relation to notices of applications for planning permission are to be made in a form published by the Welsh Ministers.
+- — Article 14 makes provision for consultation before the grant of planning permission for development falling within a category set out in the Table in Schedule 4. Paragraph (v) of the Table sets out that, in the case of development which involves the replacement of the grass surface of a playing pitch on a playing field with an artificial, man-made or composite surface, the appropriate consultee is the Sports Council for Wales. The definition of “playing pitch” is amended.
+- — Article 22, which makes provision for the time periods in which local planning authorities must determine applications for planning permission, sets out what constitutes a valid application. The time period within which local planning authorities must determine applications begins with the day on which the application is received.
+- — Article 27 makes provision for the preparation, making and revocation of local development orders by local planning authorities and specifies the type of development for which local development orders cannot grant planning permission. Article 29 provides for registers of local development orders.
+
+There are transitional provisions and savings (article 33) and minor and drafting amendments.
+
+An impact assessment has been prepared in relation to this instrument. Copies may be obtained from the Planning Division of the Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^c21236441]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 61A(5) was inserted by section 40(1) of the [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) (“**the 2004 Act**”). Section 62 was substituted by section 42(1) of the 2004 Act. Section 65 was substituted by section 16(1) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) (“**the 1991 Act**”) and amended by section 40 of, and paragraph 35 of the Schedule to, the [Agricultural Tenancies Act 1995 (c. 8)](https://www.legislation.gov.uk/ukpga/1995/8). Section 69 was substituted by section 118 of, and paragraphs 1 and 3 of Schedule 6 to, the 2004 Act and amended by section 190 of the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) (“**the 2008 Act**”) (see section 69(9) for the definition of “prescribed”); section 71 was amended by section 16(2) of, and paragraph 15 of Schedule 7 to, the 1991 Act (see section 71(4) for the definition of “prescribed”). Section 74 was amended by sections 19(1) and 84(6) of, and paragraph 17 of Schedule 7 and Part I of Schedule 19 to, the 1991 Act, section 77(4) was amended by section 32 of, and paragraph 18 of Schedule 7 to, the 1991 Act, section 78 was amended by section 17(2) of the 1991 Act, sections 40(2)(e) and 43(2) of the 2004 Act and section 196(4) of, and paragraphs 1 and 3 of Schedule 10 to, the 2008 Act (amendments in force for certain purposes and to come into force for remaining purposes on a date to be appointed, see S.I. 2009/400) and section 197 of, and paragraphs 1 and 2 of Schedule 11 to, the 2008 Act. Section 79(4) was amended by section 32 of, and paragraph 19 of Schedule 7 to, the 1991 Act. Section 188 was amended by section 84 of, and paragraph 30 of Schedule 7 and Part I of Schedule 19 to the 1991 Act. Section 193 was substituted by section 10(1) of the 1991 Act, section 196(4) was amended by section 32 of, and paragraph 33 of Schedule 7 to, the 1991 Act, section 293A was inserted by section 82(1) of the 2004 Act, paragraphs 1 and 2 of Schedule 1A were inserted by section 18(7) of, and Schedule 4 to, the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19). Schedule 4A was inserted by section 40(4) of, and Schedule 1 to, the 2004 Act.
+
+[^c21236451]: Marginal citation: The functions of the Secretary of State were transferred to the National Assembly for Wales by article 2 of the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672); see the entry in Schedule 1 for the Town and Country Planning Act 1990 and see section 118(3) of the 2004 Act.
+
+[^c21236461]: Marginal citation: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5)
+
+[^c21236471]: Marginal citation: The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of, and paragraphs 30 and 32 of Schedule 11 to, the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-797c98dcf6074b4d3865dd7c161ca923]: Modification: Order applied (with modifications) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), reg. 1(2), [Sch. 7 para. 2](https://www.legislation.gov.uk/wsi/2016/56/schedule/7/paragraph/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [47](https://www.legislation.gov.uk/wsi/2016/56/regulation/47))
+
+[^key-3f5386b2d9681c109964810b2d09c353]: Modification: Order modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 8 para. 8(2)(a)](https://www.legislation.gov.uk/wsi/2017/567/schedule/8/paragraph/8/2/a) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^c21236481]: Marginal citation: “**special development order**” means an order made under section 59(3)(b) of the [Town and Country Planning Act 1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^key-55fc99d28c878dee774e7a444f192470]: Textual amendment: [Art. 1(4)](https://www.legislation.gov.uk/wsi/2012/801/article/1/4) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [7(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/7/2) (with [reg. 7(3)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/7/3))
+
+[^key-3c2399b580f1d36cf74e3a8f83f61559]: Textual amendment: Words in art. 2(1) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [3](https://www.legislation.gov.uk/wsi/2016/59/article/3)
+
+[^key-722582e78cd452c867e78e4d5580fa2e]: Textual amendment: Words in art. 2(1) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(b)(i)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/b/i) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-27e97291347bb1387ce4f91b6d077439]: Textual amendment: Words in art. 2(1) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/b/ii) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-9f6ecd323e2e3c70c449a64d1d036ecb]: Textual amendment: Words in art. 2(1) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/b/iii) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-6d74a0236f7a8cf9518610d66eef3de4]: Textual amendment: Words in art. 2(1) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/b/iv) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^c21236491]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); section 15(1) was amended by section 406(1) of, and paragraph 158 of Schedule 17 to, the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-8a23bb90906bb798cecd29460f3dcbf2]: Textual amendment: Words in art. 2(1) omitted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(a)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/a) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-15ef32ffe95b74e8d5485a429def238d]: Textual amendment: Words in art. 2(1) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(b)(v)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/b/v) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-63b60e76643109187b727b11fecdb82a]: Textual amendment: Words in art. 2(1) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(b)(vi)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/b/vi) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-788fd3482c5e0eb602f994f11fcd453d]: Textual amendment: Words in art. 2(1) inserted (5.5.2017) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2017 (S.I. 2017/542)](https://www.legislation.gov.uk/wsi/2017/542), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2017/542/article/1/1), [3](https://www.legislation.gov.uk/wsi/2017/542/article/3) (with [art. 8](https://www.legislation.gov.uk/wsi/2017/542/article/8))
+
+[^key-454568e442fc351da489843feca3c19e]: Textual amendment: Words in art. 2(1) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(b)(vii)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/b/vii) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-d7c4f730b1880a40168cc904a9bb7c49]: Textual amendment: Words in art. 2(1) inserted (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [3(a)](https://www.legislation.gov.uk/wsi/2015/1330/article/3/a) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^c21236511]: Marginal citation: For the definition of “development”
+
+    *see* section 55 of the Town and Country Planning Act (c.8).
+
+[^c21236521]: Marginal citation: For the definition of “mineral-working deposit”
+
+    *see* section 336 of the Town and Country Planning Act (c.8).
+
+[^key-94372e8e5ab9fefe4a8f6d895c8a40bb]: Textual amendment: Words in art. 2(1) inserted (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [3(b)](https://www.legislation.gov.uk/wsi/2015/1330/article/3/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-da92e47a69fb6ac71513cb5ff78e4f4d]: Textual amendment: Words in art. 2(1) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(b)(viii)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/b/viii) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-0af3941706ddab72c3f2bd8ea1924570]: Textual amendment: Words in art. 2(1) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(b)(x)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/b/x) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-92d31c5902dbb561920600e321ea2941]: Textual amendment: Words in art. 2(1) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(2)(b)(ix)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/2/b/ix) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-1014cd6d44a8f32fcde6ab940c8c4468]: Textual amendment: Art. 2A inserted (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [4](https://www.legislation.gov.uk/wsi/2015/1330/article/4) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-c7c1a57f0e3fe6ad13bb72599dbde05f]: Textual amendment: Pt. 1A inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [4(1)](https://www.legislation.gov.uk/wsi/2016/59/article/4/1) (with [art. 15(1)](https://www.legislation.gov.uk/wsi/2016/59/article/15/1))
+
+[^key-958c598bf30d43a0f0f070d5fcd77655]: Textual amendment: Art. 2G inserted (19.5.2020) by [The Planning Applications (Temporary Modifications and Disapplication) (Wales) (Coronavirus) Order 2020 (S.I. 2020/514)](https://www.legislation.gov.uk/wsi/2020/514), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/514/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/514/article/2/2)
+
+[^key-003c5a7d3a6ac1ea4f178550ea5dc6c5]: Textual amendment: Words in [art. 2G(2)(b)](https://www.legislation.gov.uk/wsi/2012/801/article/2G/2/b) substituted (9.1.2021) by [The Planning Applications (Temporary Modifications and Disapplication) (No. 3) (Wales) (Coronavirus) Order 2020 (S.I. 2020/1516)](https://www.legislation.gov.uk/wsi/2020/1516), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/1516/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1516/article/2/2)
+
+[^key-6407cd8e76e086f092244f865fe92111]: Textual amendment: Words in art. 5(1)(c) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(1)](https://www.legislation.gov.uk/wsi/2016/59/article/10/1) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^c21236531]: Marginal citation: Section 73 was amended by sections 42(2), 51(3) and 120 of, and Schedule 9 to, the 2004 Act. Section 73A was inserted by section 32 of, and paragraph 16 of Schedule 7 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
+
+[^key-053c7f1f413e55c2fb0c69e0a3724610]: Textual amendment: Art. 7 substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [9(1)](https://www.legislation.gov.uk/wsi/2016/59/article/9/1) (with [art. 15(2)](https://www.legislation.gov.uk/wsi/2016/59/article/15/2))
+
+[^key-9085aa6a1712dda3a16c59baf1da2c44]: Textual amendment: Art. 8(1)(a) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(1)(a)](https://www.legislation.gov.uk/wsi/2016/59/article/13/1/a) (with [art. 15(5)](https://www.legislation.gov.uk/wsi/2016/59/article/15/5))
+
+[^key-50521186cb52a8c79e810fb2ad64debc]: Textual amendment: Art. 8(1)(ba) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2016/59/article/4/2) (with [art. 15(1)](https://www.legislation.gov.uk/wsi/2016/59/article/15/1))
+
+[^key-2b293f5b4d91e0c7fe8b085fad1d99e1]: Textual amendment: Words in art. 8(1)(c) omitted (16.3.2016) by virtue of [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2016/59/article/9/2) (with [art. 15(2)](https://www.legislation.gov.uk/wsi/2016/59/article/15/2))
+
+[^c21236551]: Marginal citation: Section 62 was substituted by section 42(1) of the 2004 Act.
+
+[^key-5331941afe5d26305ea74e2897a6001f]: Textual amendment: Art. 8(3) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(1)(b)](https://www.legislation.gov.uk/wsi/2016/59/article/13/1/b) (with [art. 15(5)](https://www.legislation.gov.uk/wsi/2016/59/article/15/5))
+
+[^key-b7e10cea6fa64b5f600cd936594c7a04]: Textual amendment: Art. 8(3A) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(1)(c)](https://www.legislation.gov.uk/wsi/2016/59/article/13/1/c) (with [art. 15(5)](https://www.legislation.gov.uk/wsi/2016/59/article/15/5))
+
+[^c21236561]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^c21236571]: Marginal citation: OJ L No. 199/59, 30.7.1999.
+
+[^key-418a1282c4e3c45a16269f4ad58e6c35]: Textual amendment: Words in art. 10(4) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(3)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/3) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^c21236581]: Marginal citation: Section 65 was substituted by section 16(1) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and amended by section 40 of, and paragraph 35 of the Schedule to, the [Agricultural Tenancies Act 1995 (c. 8)](https://www.legislation.gov.uk/ukpga/1995/8).
+
+[^key-94332fdd8c14c7cbd1cad1f5567be708]: Modification: Art. 12 applied (with modifications) (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [18(5)](https://www.legislation.gov.uk/wsi/2017/567/regulation/18/5) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-fffb1ad55f16c900add181b069e78d7e]: Textual amendment: Words in art. 12(2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(4)(a)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/4/a) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-29d594eb08055633fe2bb753170d61ec]: Textual amendment: Art. 12(2)(a) omitted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(4)(b)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/4/b) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^c21236591]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69); *see* section 66. There are amendments to Part 3 which are not relevant to this Order.
+
+[^key-203a1ab3ab9541c24b167fd74eff7d5b]: Textual amendment: Art. 12(3A) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(4)(c)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/4/c) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-5d655c3f00f6e6640ccb3797a7e49c5a]: Textual amendment: Words in art. 12(4) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(2)(a)](https://www.legislation.gov.uk/wsi/2016/59/article/10/2/a) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-a5e2aa1e08e4576c58ee399ed6451d7f]: Textual amendment: Words in art. 12(4) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(4)(d)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/4/d) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-971efae14ac398710413a62a8f11553f]: Textual amendment: Art. 12(4A) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(2)(b)](https://www.legislation.gov.uk/wsi/2016/59/article/10/2/b) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-068135103fb6872cb34b0cdd20a4c029]: Textual amendment: Words in art. 12(4A) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(4)(e)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/4/e) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-c8124c6971490f9a927a3e0e60321e8b]: Textual amendment: Words in art. 12(5) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(2)(c)](https://www.legislation.gov.uk/wsi/2016/59/article/10/2/c) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-39436532fc14b59dc664491e1a651e59]: Textual amendment: Words in art. 12(5) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(4)(f)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/4/f) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-7684bd4a2d25c9195b9cb88349439d35]: Textual amendment: Word in art. 12(6) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(2)(d)](https://www.legislation.gov.uk/wsi/2016/59/article/10/2/d) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-c6c8550651faaf92f103bf170aef76cb]: Textual amendment: Words in art. 12(6) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(4)(g)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/4/g) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-9daecc8cc182bb6152a0be33295144b6]: Textual amendment: Words in art. 12(7) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(4)(h)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/4/h) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-f4a95993c19055a7ebad0dd7f6efd1a1]: Textual amendment: Word in art. 12(7)(d) omitted (22.6.2015) by virtue of [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [5(a)](https://www.legislation.gov.uk/wsi/2015/1330/article/5/a) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-88120cd8cacfe2a53f38ef952cbc7bc5]: Textual amendment: Art. 12(7)(f) and word inserted (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [5(b)](https://www.legislation.gov.uk/wsi/2015/1330/article/5/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-3fefc34c8d697881776ad98ed0f39d43]: Textual amendment: Art. 12(7A) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(4)(i)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/4/i) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^c21236601]: Marginal citation: Section 77 was amended by section 32 of, and paragraph 18 of Schedule 7 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), and section 40(2)(d) of the 2004 Act.
+
+[^c21236611]: Marginal citation: Section 78 was amended by section 17(2) of the Planning and Compensation Act 1991(c. 34) and sections 40(2)(e) and 43(2) of the 2004 Act.
+
+[^c21236621]: Marginal citation: Section 293A was inserted by section 82(1) of the 2004 Act.
+
+[^key-0e3cd675a12e2bab5faa4addb1a7a5b4]: Textual amendment: Art. 13 substituted (5.5.2017) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2017 (S.I. 2017/542)](https://www.legislation.gov.uk/wsi/2017/542), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2017/542/article/1/1), [4](https://www.legislation.gov.uk/wsi/2017/542/article/4) (with [art. 8](https://www.legislation.gov.uk/wsi/2017/542/article/8))
+
+[^key-f2b9716dce72ba79f905d699e60a5909]: Modification: [Art. 14(1)](https://www.legislation.gov.uk/wsi/2012/801/article/14/1) excluded (1.12.2021) by [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) Order 2021 (S.I. 2021/1189)](https://www.legislation.gov.uk/wsi/2021/1189), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/a)[(4)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/4) (as amended by S.I. 2021/1297, [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1297/article/2/2/a))
+
+[^key-a75b8f8d6a9b4a550c266d6016014632]: Textual amendment: Art. 14(1)(c) and word inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2016/59/article/10/3) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-19c88bec0db0d885da3233e5c9a812fb]: Textual amendment: Word in art. 14(2) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [5(1)](https://www.legislation.gov.uk/wsi/2016/59/article/5/1)
+
+[^key-93414c9d14ac3da1df9a87d42c8433ad]: Textual amendment: Words in art. 14(4)(b) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(5)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/5) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-24a1583f79ab8b6ed53c32302cdbf839]: Textual amendment: Word in art. 15(3) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2016/59/article/5/2)
+
+[^key-8800a58f4e8c8d559af6bf2cde0dc8b1]: Textual amendment: Art. 15ZA inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2016/59/article/10/4) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-30520ff2b1e01a63c1c912554efc25e3]: Textual amendment: Arts. 15A, 15B inserted (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [7](https://www.legislation.gov.uk/wsi/2015/1330/article/7) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-34a156703e65a7e85b0ccba1938b6849]: Textual amendment: Words in art. 15A(1) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(5)(a)](https://www.legislation.gov.uk/wsi/2016/59/article/10/5/a) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-5912d1c7616a846cc4f54f07cf29d906]: Textual amendment: Words in art. 15A(2) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(6)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/6) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-20f6056c74989739ac548c38aa8e9f1a]: Textual amendment: Words in art. 15A(2)(a) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(5)(b)](https://www.legislation.gov.uk/wsi/2016/59/article/10/5/b) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-e99de28676c45a274ce4ad10f7ae43c9]: Textual amendment: Art. 15A(3) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2016/59/article/6/a)
+
+[^key-5511b3cbaec33252a17032597cda298b]: Textual amendment: Art. 15A(4) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2016/59/article/6/b)
+
+[^key-845c770adfd6be051f89eb33db83558e]: Textual amendment: Art. 15B(1A) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2016/59/article/7/a)
+
+[^key-1109aed365c61d6e2861d7cdc0c1b9ab]: Textual amendment: Words in art. 15B(3)(d) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2016/59/article/7/b)
+
+[^key-8665ccbddf39e04f7252707bdd0c54b3]: Textual amendment: Art. 15B(4) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [7(c)](https://www.legislation.gov.uk/wsi/2016/59/article/7/c)
+
+[^key-fe6e4f60a2093a84070343afe1efad42]: Textual amendment: Arts. 15C-15F inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [8](https://www.legislation.gov.uk/wsi/2016/59/article/8)
+
+[^key-c889bf318db6a603e67bdac66b6ac53d]: Textual amendment: Words in art. 15C inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(7)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/7) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^c21236631]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Schedule 1A was inserted by the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^key-be02a9fbd00d9b58f01a8feee4b44340]: Textual amendment: Words in art. 16 inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(8)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/8) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-ca1b9d361f406439ec4d6c3c92de2159]: Textual amendment: Art. 16(4)(5) inserted (19.5.2020) by [The Planning Applications (Temporary Modifications and Disapplication) (Wales) (Coronavirus) Order 2020 (S.I. 2020/514)](https://www.legislation.gov.uk/wsi/2020/514), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/514/article/1/2), [3](https://www.legislation.gov.uk/wsi/2020/514/article/3)
+
+[^key-00b27b2f119223a3ddb178bf2ebaa324]: Textual amendment: Words in art. 17(1)(b) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/20/2)
+
+[^key-822edc8e56a07e57f8b8e1f68b19a1b7]: Textual amendment: Words in art. 18(2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(9)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/9) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^c21236641]: Marginal citation: [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293), Column 1 of the Table in Schedule 2 was amended by [S.I 2006/3099](https://www.legislation.gov.uk/uksi/2006/3099) and [2007/2610](https://www.legislation.gov.uk/uksi/2007/2610).
+
+[^c21236651]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^c21236661]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^c21236671]: Marginal citation: Section 16 was amended by section 36 of, and paragraphs 21 and 24 of Schedule 2 to, the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
+
+[^c21236681]: Marginal citation: Section 19 was amended by section 21 of the [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
+
+[^key-f759785af42657d51afb645336da7aef]: Textual amendment: Words in art. 21(1)(a) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(10)(a)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/10/a) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-f1f57b4fb8536ebd2e3b7315082f75de]: Textual amendment: Art. 21(1)(b) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(6)](https://www.legislation.gov.uk/wsi/2016/59/article/10/6) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-4e506dcb17878cd6fb42723124ab328b]: Textual amendment: Words in art. 21(1)(c) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(10)(b)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/10/b) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^c21236691]: Marginal citation: Section 71 was amended by section 16(2) of, and paragraph 15 of Schedule 7 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
+
+[^c21236701]: Marginal citation: Section 77 was amended by section 32 of, and paragraph 18 of Schedule 7 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34),and section 40(2)(d) of the 2004 Act.
+
+[^c21236711]: Marginal citation: Section 293A was inserted by section 82(1) of the 2004 Act.
+
+[^c21236721]: Marginal citation: Section 78 was amended by section 17(2) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and sections 40(2)(e) and 43(2) of the 2004 Act.
+
+[^key-591b374c494949e60cdb48ecf9df8e21]: Modification: Arts. 22, 23 modified by S.I. 2016/58, reg. 57(2) (as substituted (7.11.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) (Amendment) Regulations 2016 (S.I. 2016/971)](https://www.legislation.gov.uk/wsi/2016/971), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/971/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2016/971/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2016/971/regulation/3)))
+
+[^key-5870e4ed9459b4d56fa9347a20225d81]: Modification: Art. 22 applied (29.3.2017) by [The Glyn Rhonwy Pumped Storage Generating Station Order 2017 (S.I. 2017/330)](https://www.legislation.gov.uk/uksi/2017/330), [art. 1](https://www.legislation.gov.uk/uksi/2017/330/article/1), [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/uksi/2017/330/schedule/7/paragraph/4/2) (with [art. 31](https://www.legislation.gov.uk/uksi/2017/330/article/31))
+
+[^c21236731]: Marginal citation: [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293) extends the time period for determination of applications for EIA development.
+
+[^key-9478f0f01658b7c791fdabc4a0968880]: Textual amendment: Art. 22(1A) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2016/59/article/11/a)
+
+[^key-c1fca8308aefdc24150bc588382d0cef]: Textual amendment: Art. 22(2)(aa) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2016/59/article/11/b)
+
+[^key-dd051c3d167c7671a87917078b58a415]: Textual amendment: Words in art. 22(2)(c) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [11(c)](https://www.legislation.gov.uk/wsi/2016/59/article/11/c)
+
+[^key-59d164d40858f750b19d037d04acd558]: Textual amendment: Art. 22(3)(a) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(2)](https://www.legislation.gov.uk/wsi/2016/59/article/13/2) (with [art. 15(5)](https://www.legislation.gov.uk/wsi/2016/59/article/15/5))
+
+[^key-ca6dbce1613c400b46101eec6c769aca]: Textual amendment: Art. 22(3)(ba) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2016/59/article/4/3) (with [art. 15(1)](https://www.legislation.gov.uk/wsi/2016/59/article/15/1))
+
+[^key-e74ffd102d7b09bae627632280901daa]: Textual amendment: Words in art. 22(3)(c) omitted (16.3.2016) by virtue of [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [9(3)](https://www.legislation.gov.uk/wsi/2016/59/article/9/3) (with [art. 15(2)](https://www.legislation.gov.uk/wsi/2016/59/article/15/2))
+
+[^c21236741]: Marginal citation: Section 62 was substituted by section 42(1) of the 2004 Act.
+
+[^key-92bea7e17fa2f0f79aa00dc7f5376c1e]: Textual amendment: Art. 22(3A) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [11(d)](https://www.legislation.gov.uk/wsi/2016/59/article/11/d)
+
+[^key-777b797632af6d51119e38a6faeded62]: Textual amendment: Words in art. 22(6)(a) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(11)(a)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/11/a) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-0052e3f5a15717e23469bff4e0997a5d]: Textual amendment: Art. 22(6)(b) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(7)](https://www.legislation.gov.uk/wsi/2016/59/article/10/7) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-b49606a153a21dca377e81c074b522c9]: Textual amendment: Words in art. 22(6)(c) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(11)(b)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/11/b) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^c21236751]: Marginal citation: Section 71(1) was substituted by section 16(2) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
+
+[^key-043edbe49cb9d68baf4ce818fcd3cf11]: Textual amendment: Art. 23(1): art. 23 renumbered as art. 23(1) (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(3)(c)](https://www.legislation.gov.uk/wsi/2016/59/article/13/3/c) (with [art. 15(5)](https://www.legislation.gov.uk/wsi/2016/59/article/15/5))
+
+[^key-36843513272ec46559e5bdb75db5f99c]: Textual amendment: Words in art. 23 substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(3)(a)](https://www.legislation.gov.uk/wsi/2016/59/article/13/3/a) (with [art. 15(5)](https://www.legislation.gov.uk/wsi/2016/59/article/15/5))
+
+[^key-d9d4f089e7d423e1866b2501357468f1]: Textual amendment: Words in art. 23 omitted (16.3.2016) by virtue of [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(3)(b)](https://www.legislation.gov.uk/wsi/2016/59/article/13/3/b) (with [art. 15(5)](https://www.legislation.gov.uk/wsi/2016/59/article/15/5))
+
+[^c21236761]: Marginal citation: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418). Part 24 of Schedule 2 was substituted by [S.I. 2002/1878](https://www.legislation.gov.uk/uksi/2002/1878) (W.187).
+
+[^key-ec4c49a88c02b533c8366c60c34dca45]: Textual amendment: Art. 23(2)-(5) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(3)(d)](https://www.legislation.gov.uk/wsi/2016/59/article/13/3/d) (with [art. 15(5)](https://www.legislation.gov.uk/wsi/2016/59/article/15/5))
+
+[^key-c0e91335865757c4e130ab054c5dbe65]: Textual amendment: Art. 24(2) omitted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(12)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/12) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-f8d8cd1837455849657332fab187673d]: Textual amendment: Arts. 24A, 24B inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [12(1)](https://www.legislation.gov.uk/wsi/2016/59/article/12/1) (with [art. 15(4)](https://www.legislation.gov.uk/wsi/2016/59/article/15/4))
+
+[^key-6705a2f322de998be61f4e3d3e642079]: Textual amendment: Art. 24C inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(4)](https://www.legislation.gov.uk/wsi/2016/59/article/13/4) (with [art. 15(5)](https://www.legislation.gov.uk/wsi/2016/59/article/15/5))
+
+[^key-446d18d31692490659c9e880f2bbdf25]: Textual amendment: Words in art. 25 heading inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(5)](https://www.legislation.gov.uk/wsi/2016/59/article/13/5)
+
+[^key-9704a5c956802d41d34b5fd97606dfd1]: Textual amendment: Words in art. 26 heading inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(6)](https://www.legislation.gov.uk/wsi/2016/59/article/13/6)
+
+[^key-6735a3a067a03db13bcac021a1a02b22]: Textual amendment: Words in art. 26(1)(a) omitted (5.5.2017) by virtue of [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2017 (S.I. 2017/542)](https://www.legislation.gov.uk/wsi/2017/542), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2017/542/article/1/1), [5(1)(a)](https://www.legislation.gov.uk/wsi/2017/542/article/5/1/a) (with [art. 8](https://www.legislation.gov.uk/wsi/2017/542/article/8))
+
+[^key-a5431a2a347b767502f31b9860c2e1fb]: Textual amendment: Words in art. 26(1)(a) inserted (5.5.2017) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2017 (S.I. 2017/542)](https://www.legislation.gov.uk/wsi/2017/542), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2017/542/article/1/1), [5(1)(b)](https://www.legislation.gov.uk/wsi/2017/542/article/5/1/b) (with [art. 8](https://www.legislation.gov.uk/wsi/2017/542/article/8))
+
+[^key-482dd3cb104f21c84b84c82aecc53d87]: Textual amendment: Words in art. 26(1)(b) substituted (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [8(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/8/1) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-93a4368b9a6fb8fd85c001d3d7598a84]: Textual amendment: Words in art. 26(1)(b) inserted (5.5.2017) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2017 (S.I. 2017/542)](https://www.legislation.gov.uk/wsi/2017/542), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2017/542/article/1/1), [5(1)(c)](https://www.legislation.gov.uk/wsi/2017/542/article/5/1/c) (with [art. 8](https://www.legislation.gov.uk/wsi/2017/542/article/8))
+
+[^key-b86e7f13f40fa1f082a8578b4ce2d650]: Textual amendment: Words in art. 26(2) substituted (5.5.2017) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2017 (S.I. 2017/542)](https://www.legislation.gov.uk/wsi/2017/542), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2017/542/article/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2017/542/article/5/2) (with [art. 8](https://www.legislation.gov.uk/wsi/2017/542/article/8))
+
+[^key-11c1ab1384caa7a027146ab4832a1b71]: Textual amendment: Words in art. 26(2) omitted (22.6.2015) by virtue of [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [8(2)(a)](https://www.legislation.gov.uk/wsi/2015/1330/article/8/2/a) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-3c3da1250fd2d0d7f35fee9fccbd4fbf]: Textual amendment: Art. 26(2)(a)(b) substituted for art. 26(2)(a)-(c) (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [8(2)(b)](https://www.legislation.gov.uk/wsi/2015/1330/article/8/2/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-13badefab398b94710af35f8f394b902]: Textual amendment: Art. 26(3) substituted (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [8(3)](https://www.legislation.gov.uk/wsi/2015/1330/article/8/3) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-84b855036a4080837c1ada285716c609]: Textual amendment: Art. 26(3)(c) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [12(2)](https://www.legislation.gov.uk/wsi/2016/59/article/12/2)
+
+[^key-69c7bb5fead62a251cfab547ca05882a]: Textual amendment: Art. 26(4) substituted (5.5.2017) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2017 (S.I. 2017/542)](https://www.legislation.gov.uk/wsi/2017/542), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2017/542/article/1/1), [5(3)](https://www.legislation.gov.uk/wsi/2017/542/article/5/3) (with [art. 8](https://www.legislation.gov.uk/wsi/2017/542/article/8))
+
+[^key-4b8607d81930779e992ef889a9ba3974]: Textual amendment: Art. 26(7) inserted (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [8(4)](https://www.legislation.gov.uk/wsi/2015/1330/article/8/4) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-54744ff5fcb76e83ede5deacf68eea39]: Textual amendment: Words in [art. 26(7)](https://www.legislation.gov.uk/wsi/2012/801/article/26/7) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [59](https://www.legislation.gov.uk/wsi/2024/924/regulation/59)
+
+[^key-0de2456055316cad252aba46336ca937]: Textual amendment: Art. 26A inserted (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [9](https://www.legislation.gov.uk/wsi/2015/1330/article/9) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-306b557ceab0ff6db2b06c3c44dd4f73]: Textual amendment: Words in art. 26A heading inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [13(7)](https://www.legislation.gov.uk/wsi/2016/59/article/13/7)
+
+[^key-b55ddec1caca7f13ef47b840ed2189c3]: Textual amendment: Art. 26B inserted (5.5.2017) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2017 (S.I. 2017/542)](https://www.legislation.gov.uk/wsi/2017/542), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2017/542/article/1/1), [6](https://www.legislation.gov.uk/wsi/2017/542/article/6) (with [art. 8](https://www.legislation.gov.uk/wsi/2017/542/article/8))
+
+[^key-e4e9e6c2c9feb28a4f127b331649244f]: Textual amendment: Art. 26C inserted (5.5.2017) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2017 (S.I. 2017/542)](https://www.legislation.gov.uk/wsi/2017/542), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2017/542/article/1/1), [7](https://www.legislation.gov.uk/wsi/2017/542/article/7) (with [art. 8](https://www.legislation.gov.uk/wsi/2017/542/article/8))
+
+[^key-541e26e168f2108e52e06d22896e07fb]: Textual amendment: Words in art. 27(3)(b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 79(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/79/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-ddd89e4eff1d333ca2baecc3b0bd0c46]: Textual amendment: Art. 27(3)(c) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 79(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/79/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^c21236791]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^c21236801]: Marginal citation: *See* section 11 of the [National Health Service (Wales) Act 2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^c21236811]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), subsection (1)(b) was substituted by section 136(1) of the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) and subsection (1)(c) was amended by section 197(9) of, and Part 1 of Schedule 23 to, the Energy Act 2004.
+
+[^c21236821]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44); section 7 was substituted by section 5 of the [Gas Act 1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and subsection (2) was amended by sections 3(2) and 76 of, and paragraphs 1 and 4 of Part I of Schedule 6 to, the Utilities Act 2000.
+
+[^key-fb1e05b2bbff991ea188ce3d52a830f1]: Textual amendment: Words in art. 27(5)(b) substituted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(13)(a)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/13/a) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-e2e9c20e61e5bc02ca20ae96e03c552d]: Textual amendment: Words in art. 27(6)(a) substituted (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 9 para. 8(4)(a)](https://www.legislation.gov.uk/wsi/2016/58/schedule/9/paragraph/8/4/a) (with [reg. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59))
+
+[^key-c3eb282ba6f4249e0654910618ea08e8]: Textual amendment: Words in art. 27(6)(b)(i) substituted (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 9 para. 8(4)(b)](https://www.legislation.gov.uk/wsi/2016/58/schedule/9/paragraph/8/4/b) (with [reg. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59))
+
+[^key-5999535eaaac4ea42b5ed7428b79112e]: Textual amendment: Words in art. 27(6)(b)(iii) substituted (16.5.2017) by virtue of [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(13)(b)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/13/b) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-58ac09b6f11905babd13e0ae30d2274f]: Textual amendment: Words in art. 27(6)(c)(i) substituted (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 9 para. 8(4)(b)](https://www.legislation.gov.uk/wsi/2016/58/schedule/9/paragraph/8/4/b) (with [reg. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59))
+
+[^key-908ba48e022314a3c9dfd4b76cbba6e9]: Textual amendment: Words in art. 27(6)(c)(iii) inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(13)(c)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/13/c) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-89a14b4956611d3e2c3b46e49faafcff]: Textual amendment: Words in art. 27(7)(a) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(13)(d)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/13/d) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-4dcc345fb8506d3524ebfd97aabf0204]: Textual amendment: Words in art. 27(7)(c) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(13)(d)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/13/d) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^c21236831]: Marginal citation: Section 61B was inserted by section 40(1) of the 2004 Act.
+
+[^key-03f3ab40ec9624edf7ed32353057b59c]: Textual amendment: Art. 27(13)(b) substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [14](https://www.legislation.gov.uk/wsi/2016/59/article/14)
+
+[^key-548dd97327cf73f015471b63936962c8]: Textual amendment: Words in art. 27(13)(b) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(13)(e)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/13/e) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-9fa8aa9226a4b50975c1c249a64004e4]: Textual amendment: Words in [art. 27(15)(b)](https://www.legislation.gov.uk/wsi/2012/801/article/27/15/b) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [60](https://www.legislation.gov.uk/wsi/2024/924/regulation/60)
+
+[^c21236851]: Marginal citation: Sections 191 and 192 were substituted by the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) section 10(1).
+
+[^c21236861]: Marginal citation: Section 195 was amended by section 32 of, and paragraph 32 of Schedule 7 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and section 197 of, and paragraphs 1 and 3 to Schedule 11 to, the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
+
+[^c21236871]: Marginal citation: Section 193 was substituted by section 10(1) of the Planning and Compensation Act 1991.
+
+[^key-866a67322fcaabdc9d88202fc1ebbb42]: Textual amendment: Art. 28A inserted (1.9.2014) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2014 (S.I. 2014/1772)](https://www.legislation.gov.uk/wsi/2014/1772), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/1772/article/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2014/1772/article/2/2)
+
+[^key-54d47e5c1b57237bbf6a35795a65fe1d]: Textual amendment: Art. 29(3)(ca) inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [12(3)](https://www.legislation.gov.uk/wsi/2016/59/article/12/3)
+
+[^c21236881]: Marginal citation: Section 293A was inserted by section 82(1) of the 2004 Act.
+
+[^c21236891]: Marginal citation: Section 77 was amended by section 32 of, and paragraph 18 of Schedule 7 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34),and section 40(2)(d) of the 2004 Act.
+
+[^key-43ce886f080406fcc98865d6dfdea942]: Textual amendment: Art. 29(3A) inserted (1.9.2014) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2014 (S.I. 2014/1772)](https://www.legislation.gov.uk/wsi/2014/1772), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/1772/article/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2014/1772/article/2/3)
+
+[^c21236901]: Marginal citation: Section 174 was amended by section 6 of the the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and [S.I. 2004/3156](https://www.legislation.gov.uk/uksi/2004/3156) (W.273).
+
+[^c21236911]: Marginal citation: There are amendments to section 83 and Schedule 7 not relevant to this Order.
+
+[^key-c6f8d62b9d9f747978c2ee35af72fd87]: Textual amendment: Words in art. 29(15)(a) omitted (22.6.2015) by virtue of [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [10(a)](https://www.legislation.gov.uk/wsi/2015/1330/article/10/a) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-3571dc2f59d8a7536a390bf50ea471e0]: Textual amendment: Words in art. 29(15)(a) omitted (22.6.2015) by virtue of [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [10(b)](https://www.legislation.gov.uk/wsi/2015/1330/article/10/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^c21236921]: Marginal citation: Section 78 was amended by section 17(2) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and sections 40(2)(e) and 43(2) of the 2004 Act.
+
+[^c21236931]: Marginal citation: Section 288 was amended by section 18 of, and paragraph 25 of Schedule 3 to, the [Tribunals and Inquiries Act 1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^c21236941]: Marginal citation: Section 106 was amended by section 12(1) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and section 174 of the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). There is no intention at present to bring into force the repeal of section 106 by section 120 of, and Schedule 9 to, the 2004 Act.
+
+[^c21236951]: Marginal citation: Section 278 was substituted by section 23 of the [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
+
+[^key-2c9c3993eb4d6fc5a2522e1c7428a850]: Modification: Art. 30 applied (with modifications) (7.1.2019) by [The Sustainable Drainage (Enforcement) (Wales) Order 2018 (S.I. 2018/1182)](https://www.legislation.gov.uk/wsi/2018/1182), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1182/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2018/1182/regulation/11)
+
+[^c21236961]: Marginal citation: Section 188 was amended by section 84(6) of, and paragraph 30 of Schedule 7 and Part I of Schedule 19 to, the Planning and Compensation Act 1991. There are other amendments which are not relevant to this Order.
+
+[^c21236971]: Marginal citation: There is an amendment to section 175(4) not relevant to this Order.
+
+[^c21236981]: Marginal citation: Section 173 was substituted by section 5 of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
+
+[^c21236991]: Marginal citation: Relevant amendments were made by [S.I. 1996/525](https://www.legislation.gov.uk/uksi/1996/525), [2004/1434](https://www.legislation.gov.uk/uksi/2004/1434), [2004/3156](https://www.legislation.gov.uk/uksi/2004/3156), [2006/1386](https://www.legislation.gov.uk/uksi/2006/1386), [2006/3390](https://www.legislation.gov.uk/uksi/2006/3390) and [2009/1024](https://www.legislation.gov.uk/uksi/2009/1024).
+
+[^c21237001]: Marginal citation: Relevant amendments were made by [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293) and [2006/1386](https://www.legislation.gov.uk/uksi/2006/1386).
+
+[^key-fc99830cd82a7bc99d130fb2475a7655]: Textual amendment: Sch. 1: in the Acknowledgment of Application the words "If you appeal, you must appeal within 6 months" to "("the relevant date")\]……….." are omitted (22.6.2015) by virtue of [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [11(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/11/1) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-1f4ff79f77653f77231c5c0fa7e678b4]: Textual amendment: Sch. 1A inserted (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [Sch.](https://www.legislation.gov.uk/wsi/2015/1330/schedule) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-a62bbe078663085693707df4e42694a1]: Textual amendment: Schs. 1B, 1C inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/59/schedule/1) (with [art. 15(1)](https://www.legislation.gov.uk/wsi/2016/59/article/15/1))
+
+[^key-3efd8e0f9541e16ad39aa50d0021179b]: Textual amendment: Sch. 1D inserted (19.5.2020) by [The Planning Applications (Temporary Modifications and Disapplication) (Wales) (Coronavirus) Order 2020 (S.I. 2020/514)](https://www.legislation.gov.uk/wsi/2020/514), [art. 1(2)](https://www.legislation.gov.uk/wsi/2020/514/article/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2020/514/schedule)
+
+[^key-bef62d650fe864a838fb93f7ccfb804b]: Textual amendment: Words in Sch. 2 inserted before the definition of "owner" in the Notice Under Article 10 of Application for Planning Permission (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [11(3)(a)](https://www.legislation.gov.uk/wsi/2015/1330/article/11/3/a) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-b6fe345d4a35fb660c2539d42005c581]: Textual amendment: Words in Sch. 2 inserted before the definition of "owner" in the Notice of Appeal under Articles 10 and 25 (22.6.2015) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2015 (S.I. 2015/1330)](https://www.legislation.gov.uk/wsi/2015/1330), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1330/article/1/1), [11(3)(b)](https://www.legislation.gov.uk/wsi/2015/1330/article/11/3/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2015/1330/article/12))
+
+[^key-1f1c5488514b12f209d77e25e85fa1cf]: Textual amendment: Sch. 2: in the Notice under Article 10 of Application for Planning Permission the words “Part 1 of the Town and Country Planning (Referrals and Appeals) (Written Representations Procedure) (Wales) Regulations 2015” substituted by “Part 3 of the Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017” (5.5.2017) by [The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 (S.I. 2017/544)](https://www.legislation.gov.uk/wsi/2017/544), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2017/544/regulation/2/1), [54(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/54/2) (with [regs. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52), [53(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/2)[(3)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/3))
+
+[^key-8b37678a9ef9a10298be05b43f17e4c1]: Modification: Sch. 3 applied (with modifications) (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [18(5)](https://www.legislation.gov.uk/wsi/2017/567/regulation/18/5) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-6528d31c809764b60124e47cc94b2aa2]: Textual amendment: Sch. 3: word ", 12(4A)" inserted after "12(4)" (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [10(8)](https://www.legislation.gov.uk/wsi/2016/59/article/10/8) (with [art. 15(3)](https://www.legislation.gov.uk/wsi/2016/59/article/15/3))
+
+[^key-e560d110d592f35826a7bdb72941c28d]: Textual amendment: Sch. 3: in the notice under article 12(3) of application for planning permission the words "OR 12(3A)" inserted after "ARTICLE 12(3)" (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(14)(a)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/14/a) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-64858dc0d68d7ffd8b882d2681db380c]: Textual amendment: Sch. 3: in the notice under article 12(3) of application for planning permission the word "(fa)" is inserted after “until all reasonable hours until (f)…” and note (fa) is inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(14)(b)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/14/b) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-77bb95e41c8a555d3bdea8d76bec19b0]: Textual amendment: Sch. 3: in the notice under article 12(3) of application for planning permission the word "(ha)" is inserted after “at a charge of (h)\*…” and note (ha) is inserted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(14)(c)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/14/c) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-ec4ca9cf3e75bdfc8b7a7743dd01b8d1]: Textual amendment: Sch. 3: in the notice under article 12(3) of application for planning permission the word "date" in note (f) is substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 (S.I. 2017/567)](https://www.legislation.gov.uk/wsi/2017/567), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/2), [Sch. 9 para. 1(14)(d)](https://www.legislation.gov.uk/wsi/2017/567/schedule/9/paragraph/1/14/d) (with [regs. 1(4)](https://www.legislation.gov.uk/wsi/2017/567/regulation/1/4), [55(2)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/2)[(3)](https://www.legislation.gov.uk/wsi/2017/567/regulation/55/3), [63](https://www.legislation.gov.uk/wsi/2017/567/regulation/63), [65](https://www.legislation.gov.uk/wsi/2017/567/regulation/65))
+
+[^key-834edd86a5782d56bf5cca16ee844245]: Textual amendment: Sch. 4 substituted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2016/59/schedule/2)
+
+[^key-454795272fc40499ebceedd609c7ae5a]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2012/801/schedule/4) substituted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [4(a)](https://www.legislation.gov.uk/wsi/2019/456/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-99863181bc8b0bbac35d9e41cc78ae3a]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2012/801/schedule/4) substituted (21.4.2025) by [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) Order 2025 (S.I. 2025/400)](https://www.legislation.gov.uk/wsi/2025/400), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/400/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/400/article/2/2)
+
+[^key-7b18f3cf632cbb674abdb5bd0ff51be6]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2012/801/schedule/4) inserted (24.1.2022) by [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) Order 2021 (S.I. 2021/1189)](https://www.legislation.gov.uk/wsi/2021/1189), [arts. 1(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/b), [2(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/2/b)
+
+[^key-56788e6ea0542be8c69dfec1125fe603]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2012/801/schedule/4) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [61](https://www.legislation.gov.uk/wsi/2024/924/regulation/61)
+
+[^key-12b6bdc258a2de10683316de61acb096]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2012/801/schedule/4) substituted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [4(b)](https://www.legislation.gov.uk/wsi/2019/456/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-63912ac9b9f7a8ea1a80ff63ba4f12ad]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/wsi/2012/801/schedule/4) omitted (24.1.2022) by virtue of [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) Order 2021 (S.I. 2021/1189)](https://www.legislation.gov.uk/wsi/2021/1189), [arts. 1(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/b), [2(3)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/3/a)
+
+[^key-b973025068a4825aa8212b16132c8beb]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2012/801/schedule/4) substituted (21.4.2025) by [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) Order 2025 (S.I. 2025/400)](https://www.legislation.gov.uk/wsi/2025/400), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/400/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/400/article/2/3)
+
+[^key-db6310b83dd8148e2dae78158ee781a4]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2012/801/schedule/4) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2025/815/article/14/2)
+
+[^key-41ff94924b77de6e43829e770ced8cce]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2012/801/schedule/4) inserted (24.1.2022) by [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) Order 2021 (S.I. 2021/1189)](https://www.legislation.gov.uk/wsi/2021/1189), [arts. 1(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/b), [2(3)(c)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/3/c)
+
+[^key-c75ce7f91ef3fb979a4d2bf8c444b6a0]: Textual amendment: Schs. 5A, 5B inserted (16.3.2016) by [The Town and Country Planning (Development Management Procedure) (Wales) (Amendment) Order 2016 (S.I. 2016/59)](https://www.legislation.gov.uk/wsi/2016/59), [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/59/article/1/2), [Sch. 3](https://www.legislation.gov.uk/wsi/2016/59/schedule/3)
+
+[^c21237261]: Marginal citation: Revoked in so far as it applied to England by the [Town and Country Planning (Development Management Procedure) Order 2010 (S.I. 2010/2184)](https://www.legislation.gov.uk/uksi/2010/2184).
+
+[^c21237271]: Marginal citation: *See* article 33 for savings.
+
+[^c21237281]: Marginal citation: Revoked in so far as it applied to England by the [Town and Country Planning (Development Management Procedure) Order 2010 (S.I. 2010/2184)](https://www.legislation.gov.uk/uksi/2010/2184).
+
+[^c21237291]: Marginal citation: Revoked in so far as it applied to England by the [Town and Country Planning (Development Management Procedure) Order 2010 (S.I. 2010/2184)](https://www.legislation.gov.uk/uksi/2010/2184).

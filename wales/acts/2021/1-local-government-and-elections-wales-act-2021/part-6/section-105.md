@@ -1,0 +1,48 @@
+---
+title: Local Government and Elections (Wales) Act 2021, section 105
+act: Local Government and Elections (Wales) Act 2021
+section: '105'
+status: revised-with-pending-changes
+text_date: '2025-09-10'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2021/1/section/105
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government and Elections (Wales) Act 2021, section 105
+
+> **Warning: changes not yet applied to this text (21).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/asc/2021/1
+>
+> Extent: England, Wales.
+
+## 105. Direction to co-operate with provision of support and assistance[^key-8222035b8e997b869611bf650cb6e314]
+
+*Extent: E+W*
+
+(1) The Welsh Ministers may direct a principal council (“the supported council”) to co-operate with—
+
+- (a) the Welsh Ministers;
+- (b) a principal council acting under a direction under section 103,
+
+for the purposes of enabling support and assistance to be provided to the supported council.
+
+(2) When a direction under this section has effect the supported council must provide a person referred to in subsection (1)(a) or (b) with the following things, to the extent the person considers necessary for the purposes of providing support and assistance to the council—
+
+- (a) access to its premises;
+- (b) access to documents held by it (and the supported council must allow the person to take copies of those documents);
+- (c) other information;
+- (d) facilities and assistance.
+
+(3) But subsection (2) does not require a council to provide, or provide access to, anything that the council is prohibited from providing or providing access to by any enactment or rule of law.
+
+(4) A direction under this section may require a supported council to co-operate with a person referred to in subsection (1)(a) or (b) by taking steps specified in the direction, including—
+
+- (a) entering into a contract or other agreement or arrangement (and the direction may specify its terms and conditions) with that person;
+- (b) allowing that person to facilitate or co-ordinate any of the council's activities.
+
+(5) In subsection (1)(a) and (b), the references to the Welsh Ministers and a principal council acting under a direction under section 103 include a person acting on behalf of, assisting or authorised by them.
+
+## Annotations
+
+[^key-8222035b8e997b869611bf650cb6e314]: Commencement: S. 105 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

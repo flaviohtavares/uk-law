@@ -1,0 +1,354 @@
+---
+title: The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024
+id: wsi/2024/1196
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-11-20'
+text_date: '2025-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2024/1196
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2024/1196/pdfs/wsi_20241196_mi.pdf
+- http://www.legislation.gov.uk/wsi/2024/1196/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024
+
+> Text as at 2025-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2024 No. 1196 (W. 196)
+
+National Health Service, Wales
+
+The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024
+
+Made
+
+20 November 2024
+
+Laid before Senedd Cymru
+
+22 November 2024
+
+Coming into force in accordance with regulation 1(3) and (4)
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 15, 80, 104 and 203(9) and (10) of the National Health Service (Wales) Act 2006[^f00001], make the following Regulations.
+
+## 1. Title, application and coming into force[^key-a79d5b6d3cc87901c69386f3c5d44f66]
+
+(1) The title of these Regulations is the National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024.
+
+(2) These Regulations apply in relation to Wales.
+
+(3)[^key-03d5992cfd48c2707f59687fe77d162f] This regulation and regulation 3(5) come into force on 1 January 2025.
+
+(4) All other regulations come into force on 1 April 2025.
+
+## 2. Amendments to Part 1 of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020[^key-4779f71b90945e62918f46b7b9bd607e]
+
+(1) Part 1 of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020[^f00002] is amended as follows.
+
+(2) In regulation 2(1)[^key-67911615413a8c51721a3900270bafa1] (interpretation), in the appropriate places insert—
+
+> - “**cluster**” (“***clwstwr***”) means a group of local service providers involved in health and care who have agreed to collaboratively work together to deliver primary medical services across a specified geographical area;
+
+;
+
+> - “**Electronic Prescription Service**” (“***Gwasanaeth Presgripsiynau Electronig***”) means the service of that name which is managed by Digital Health and Care Wales;
+
+;
+
+> - “**ophthalmic listed medicine**” (“***meddyginiaeth restredig offthalmig***”) means a drug on the list of preparations approved by the Welsh Ministers which may be ordered by a qualifying optometrist for national health service primary ophthalmic services patients;
+
+;
+
+> - “**ophthalmic listed appliance**” (“***cyfarpar rhestredig offthalmig***”) means an appliance on the list of preparations approved by the Welsh Ministers which may be ordered by a qualifying optometrist for national health service primary ophthalmic services patients;
+
+;
+
+> - “**Ophthalmic Combined List**” (“***Rhestr Gyfunol Offthalmig***”) means the list required to be prepared by Local Health Boards by virtue of regulation 10 of the National Health Service (Ophthalmic Services) (Wales) Regulations 2023[^f00003];
+
+;
+
+> - “**optometrist**” (“***optometrydd***”) means a person registered as an optometrist in the register maintained under section 7 of the Opticians Act 1989[^f00004] (register of opticians);
+
+;
+
+> - “**Primary Ophthalmic Services**” (“***Gwasanaethau Offthalmig Sylfaenol***”) has the meaning given in regulation 4 of the National Health Service (Ophthalmic Services) (Wales) Regulations 2023;
+
+;
+
+> - “**qualifying optometrist**” (“***optometrydd cymhwysol***”) means a person who is an optometrist included on a Local Health Board’s Ophthalmic Combined List who is providing or assisting in the provision of primary ophthalmic services in Wales;
+
+.
+
+(3) In the definition of “prescriber”, in the first place it occurs, omit “pharmacist independent prescriber,”.
+
+## 3. Amendments to Schedule 5 to the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020[^key-681ead013f7fcecc2a2d190896791dec][^key-4e89a96dc9390af332ae1d172ccdf64a]
+
+(1)[^key-681ead013f7fcecc2a2d190896791dec] Schedule 5 of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 is amended as follows.
+
+(2)[^key-681ead013f7fcecc2a2d190896791dec] In Part 2, paragraph 4, after “Ireland” insert “and persons presenting an order for an ophthalmic listed[^key-e3819df1e5db2e455752c1bb65922a6f] appliance or an ophthalmic listed medicine signed by a qualifying optometrist in pursuance of their functions in the health service in Wales”.
+
+(3)[^key-681ead013f7fcecc2a2d190896791dec] In Part 2, after paragraph 5 insert—
+
+> **5A. Dispensing listed appliances and listed medicines ordered by qualifying optometrists**
+>
+> (1) Subject to the following provisions of this Part, where a person presents an order for a listed appliance or a listed medicine signed by a qualifying optometrist, an NHS pharmacist must, promptly and in accordance with any directions given by the qualifying optometrist, provide the drugs or appliance so ordered, and such of the appliances so ordered they supply in the normal course of business.
+>
+> (2) If the person presenting the order signed by a qualifying optometrist asks the NHS pharmacist to do so—
+>
+> - (a) the NHS pharmacist must give an estimate of the time when the drugs or appliances will be ready, and
+> - (b) if they are not ready by then, the NHS pharmacist must give a revised estimate of the time when they will be ready (and so on).
+>
+> (3) Where an NHS pharmacist is presented with an order signed by a qualifying optometrist for a listed appliance or a listed medicine, the NHS pharmacist must only provide the drugs or appliances so ordered—
+>
+> - (a) if the order is duly signed and endorsed by the qualifying optometrist as described in paragraph (1), and
+> - (b) in accordance with the order and any directions given by the qualifying optometrist subject to any regulations in force under the Weights and Measures Act 1985[^f00005] and the following provisions of this Part.
+>
+> (4) Drugs or appliances so ordered must be provided either by or under the supervision of a registered pharmacist.
+>
+> (5) Where the pharmacist referred to in paragraph (4) is employed by an NHS pharmacist, the registered pharmacist must not be someone—
+>
+> - (a) who is disqualified from inclusion in a relevant list, or
+> - (b) who is suspended from the General Pharmaceutical Council Register.
+>
+> (6) Where any drug to which this paragraph applies is ordered by a qualifying optometrist and is available for provision by an NHS pharmacist in a pack in a quantity which is different to the quantity which has been so ordered, and that drug is—
+>
+> - (a) sterile,
+> - (b) effervescent or hygroscopic,
+> - (c) a liquid preparation for addition to bath water,
+> - (d) a coal tar preparation,
+> - (e) a viscous preparation, or
+> - (f) packed at the time of its manufacture in a calendar pack or special container,
+>
+> the NHS pharmacist must provide the drug in the pack whose quantity is nearest to the quantity which has been so ordered.
+>
+> (7) In this paragraph, “**special container**” means any container with an integral means of application or from which it is not practicable to dispense an exact quantity.
+>
+> (8) An NHS pharmacist must provide any drug which they are required to provide under this paragraph in a suitable container.
+>
+> (9) An NHS pharmacist may refuse to provide the drugs or appliances ordered where—
+>
+> - (a) the NHS pharmacist reasonably believes that it is not a genuine order for the person named on the order signed by a qualifying optometrist (for example because they reasonably believe the form has been stolen or forged),
+> - (b) it appears to the NHS pharmacist that there is an error on the order signed by a qualifying optometrist (including a clinical error) or that, in the circumstances, providing the drugs or appliances would be contrary to the NHS pharmacist’s clinical judgement,
+> - (c) the NHS pharmacist or other persons on the premises are subjected to or threatened with violence by the person presenting the order signed by a qualifying optometrist, or by any person accompanying that person, or
+> - (d) the person presenting the order signed by a qualifying optometrist, or any other person accompanying that person, commits or threatens to commit a criminal offence.
+>
+> (10) An NHS pharmacist must refuse to provide an appliance or drug ordered on an order signed by a qualifying optometrist where the order is for a drug or appliance which the qualifying optometrist was not entitled to order, but if the NHS pharmacist does refuse to do so, they must provide the patient or the person requesting the drug or appliance on behalf of the patient with appropriate advice, as necessary, about reverting to the qualifying optometrist to review the patient’s treatment.
+
+(4)[^key-681ead013f7fcecc2a2d190896791dec] In Part 2, paragraph 9(2), omit “direct”.
+
+(5)[^key-4e89a96dc9390af332ae1d172ccdf64a] In Part 2, paragraph 9, after sub-paragraph (8) insert—
+
+> (8A) Subject to sub-paragraphs (8B) to (8E) and without prejudice to sub-paragraphs (10) and (11), for the purposes of sub-paragraph (1)(b), a drug is provided in accordance with the order on a prescription form or repeatable prescription if (in addition to where the provision is exactly in accordance with the order)—
+>
+> - (a) a different quantity is provided to that ordered on the prescription form or repeatable prescription to allow for the provision of the drug in its manufacturer’s original outer packaging, and
+> - (b) the provision is otherwise in accordance with the order.
+>
+> (8B) In the case of an order for a prescription only medicine, sub-paragraph (8A) only applies if sub-paragraph (8) applies or one of the following applies—
+>
+> - (a) the provision is in accordance with regulation 217B(1) to (3) of the Human Medicines Regulations 2012[^f00006] (original pack dispensing), and accordingly, regulation 217B(1) to (3) of those Regulations is expressly applied to such supplies, or
+> - (b) the medicine must be provided in the manufacturer’s original outer packaging to comply with regulation 217C of the Human Medicines Regulations 2012 (original pack dispensing: medicinal products containing a relevant substance).
+>
+> (8C) In the case of an order for a drug that is not a prescription only medicine, sub-paragraph (8A) only applies if sub-paragraph (8) applies or the provision of a different quantity to that ordered on the prescription is in circumstances where—
+>
+> - (a) the different quantity is no more than 10% greater or no more than 10% less than the quantity ordered; and
+> - (b) the registered pharmacist carrying out or directly supervising the provision does not consider, in the exercise of their professional skill and judgement, that the provision of a different quantity to that ordered may mean that the patient does not, or is not able to, follow the medication regimen as intended by the prescriber.
+>
+> (8D) Where the NHS pharmacist may, pursuant to sub-paragraph (8A) and sub-paragraph (8B)(a) or (8C)(a) and (b), provide a different quantity of a drug to that ordered on a prescription form or a repeatable prescription, the NHS pharmacist must consider, in the exercise of their professional skill and judgement, whether it is reasonable and appropriate to do so, having regard to the benefits to patients where they are provided with drugs in their manufacturer’s original outer packaging.
+>
+> (8E) Sub-paragraphs (8B)(a) and (8C)(a) and (b) do not apply to the provision of any drug which is—
+>
+> - (a) for the time being specified in Schedules 2 to 4 of the Misuse of Drugs Regulations 2001[^f00007] (which relate to controlled drugs excepted from certain provisions under the Regulations), or
+> - (b) a special medicinal product for the purposes of regulation 167 of the Human Medicines Regulations 2012 (supply to fulfil special patient needs).
+
+(6)[^key-681ead013f7fcecc2a2d190896791dec] In Part 2, for paragraph 16 substitute—
+
+> **16.** An NHS pharmacist must, to the extent paragraphs 17 and 18 require and in the manner set out in those paragraphs and, generally, where in the opinion of the NHS pharmacist it is appropriate to do so, promote public health messages to members of the public.
+
+(7)[^key-681ead013f7fcecc2a2d190896791dec] In Part 2, for paragraph 17(1)(b) substitute—
+
+> - (b) it appears to the NHS pharmacist that the person is suffering from or at risk of developing an adverse health issue,
+
+.
+
+(8)[^key-681ead013f7fcecc2a2d190896791dec] In Part 2, for paragraph 17(3) substitute—
+
+> (3) An NHS pharmacist must, in appropriate cases, keep and maintain a record of any advice given and any interventions or referrals made (in particular of clinically significant interventions).
+
+(9)[^key-681ead013f7fcecc2a2d190896791dec] In Part 2, paragraph 18(a), for “six” substitute “four”.
+
+(10)[^key-681ead013f7fcecc2a2d190896791dec] In Part 2, for paragraph 18(b) substitute—
+
+> - (b) where requested to do so by the Local Health Board (or health boards in the case of a national campaign), participate in the evaluation of a health promotion campaign they are participating in.
+
+(11)[^key-681ead013f7fcecc2a2d190896791dec] In Part 2, for paragraph 20(4) substitute—
+
+> (4) The NHS pharmacist must, in appropriate cases, keep and maintain a record of advice given pursuant to this paragraph, and that record must be in a form that facilitates—
+>
+> - (a) auditing of the provision of pharmaceutical services by the NHS pharmacist, and
+> - (b) follow-up care for the person who has been given the advice.
+
+(12)[^key-681ead013f7fcecc2a2d190896791dec] In Part 2, for paragraph 22(2) substitute—
+
+> (2) An NHS pharmacist must, in appropriate cases, keep and maintain a record of any advice given and any interventions or referral made (in particular of clinically significant interventions) under sub-paragraph (1).
+
+(13)[^key-681ead013f7fcecc2a2d190896791dec] In Part 3, paragraph 23(5)—
+
+- (a) after “the times at which” insert “or the supplementary opening hours during which”, and
+- (b) at the end, after “change” insert “12 weeks before the change takes place”.
+
+(14)[^key-681ead013f7fcecc2a2d190896791dec] In Part 3, paragraph 23(6)—
+
+- (a) in sub-paragraph (a), after “(5)” insert “or sub-paragraph (6A)[^key-3b0442c833f16f95736929cee91f5277] applies”;
+- (b) in the words at the end, omit “as set out in that return or application,”, and
+- (c) at the end, after “Board” insert “without the written permission of the Local Health Board”.
+
+(15)[^key-681ead013f7fcecc2a2d190896791dec] In Part 3, after paragraph 23(6) insert—
+
+> (6A) Paragraph 23(6)(b) does not apply where the changes amount to the inclusion of a rest break which is no longer than 1 hour (or a change to such a rest break)—
+>
+> - (a) on a Monday to Saturday if the rest break starts at least 3 hours after the start of the pharmacy’s opening hours and ends at least 3 hours before the end of the pharmacy’s opening hours,
+> - (b) on a Sunday, and
+>
+> the inclusion or change to the rest break does not change the total number of the NHS pharmacist’s core hours set out in sub-paragraph (1) on any particular day, otherwise than as provided for, and in accordance with the procedures set out in, paragraphs 25 and 26.
+
+(16)[^key-681ead013f7fcecc2a2d190896791dec] In Part 3, paragraph 23, after sub-paragraph (6A) insert—
+
+> (6B) Where an NHS pharmacist has submitted a return under sub-paragraph (2) in respect of any premises, the effect of which would be to increase the number of supplementary opening hours the premises is open without changing the periods the premises already opens, the requirements set out in paragraph (6) do not apply.
+
+(17)[^key-681ead013f7fcecc2a2d190896791dec] In Part 3, paragraph 23(8)(a), after “practicable” insert “in the approved manner prescribed by the Local Health Board,”.
+
+(18)[^key-681ead013f7fcecc2a2d190896791dec] In Part 4, for paragraph 28(3)(a)(iv) substitute—
+
+> - (iv) a requirement that the NHS pharmacist should engage users of the pharmacy in activities to assess their satisfaction with the pharmaceutical services provided by the pharmacy, including a requirement to publicise the results of the assessments carried out and any appropriate action the NHS pharmacist intends to take as a result,
+
+.
+
+(19)[^key-681ead013f7fcecc2a2d190896791dec] In Part 4, for paragraph 28(3)(b) substitute—
+
+> - (b) collaborate with other healthcare professionals through clusters in order to identify and improve the health and wellbeing of the population served by the pharmacy,
+
+.
+
+(20)[^key-681ead013f7fcecc2a2d190896791dec] In Part 4, after paragraph 28(3)(c)(iii) insert—
+
+> - (iiia) arrangements for the reporting of patient safety incidents to the national system approved the Welsh Ministers,
+
+.
+
+(21)[^key-681ead013f7fcecc2a2d190896791dec] In Part 4, for paragraph 28(3)(c)(vii) substitute—
+
+> - (vii) a clinical governance lead person for each pharmacy, appointed as such by the NHS pharmacist (or that is the NHS pharmacist), who either works regularly at the pharmacy or provides an operational role and is knowledgeable about the local adoption of the pharmacy procedures by staff employed or engaged at the pharmacy,
+
+.
+
+(22)[^key-681ead013f7fcecc2a2d190896791dec] In Part 4, paragraph 28(3)(c)(viii), for “child protection procedures” substitute “procedures for safeguarding both children and adults who are at risk of abuse and neglect”.
+
+**4.**[^key-78ea30f80c2494ad0fd17c8f60080d2b] The Schedule (consequential amendments to secondary legislation) has effect.
+
+Jeremy Miles
+
+Cabinet Secretary for Health and Social Care, one of the Welsh Ministers
+
+20 November 2024
+
+## SCHEDULE — Consequential amendments to secondary legislation
+
+Regulation 4
+
+**1.**[^key-b75760b9e22dbf51c28915fda0481006] The National Health Service (Ophthalmic Services) (Wales) Regulations 2023[^f00008] are amended as follows.
+
+**2.**[^key-8ac06b7f2fd38349a24e3c19d6e5d4de] In regulation 2 (interpretation), in the appropriate places insert—
+
+> - “**ophthalmic listed medicine**” (“***meddyginiaeth restredig offthalmig***”) means an item on the list of preparations approved by the Welsh Ministers which may be ordered by a qualifying optometrist for national health service primary ophthalmic services patients;
+
+;
+
+> - “**ophthalmic listed appliance**” (“***teclyn rhestredig offthalmig*** ”) means an appliance on the list of preparations approved by the Welsh Ministers which may be ordered by a qualifying optometrist for national health service primary ophthalmic services patients;
+
+;
+
+> - “**qualifying optometrist**” (“***optometrydd cymhwysol***”) means a person who is an optometrist included on a Local Health Board’s combined list[^key-d8dde644e6686716818b7a7604977b9b] who is providing or assisting in the provision of primary ophthalmic services in Wales;
+
+.
+
+**3.**[^key-eb6bcbe0866735bba841e1b3ef5cc684] In Part 2 (arrangements for ophthalmic services), after regulation 4 insert—
+
+> **4A. Issue of orders signed by a qualifying optometrist**
+>
+> (1) A qualifying optometrist must[^key-292482d6665a20faf409ecf92cc3b554] order ophthalmic listed medicines or ophthalmic listed appliances as are required for the treatment of any patient to whom it is providing services under the contract by issuing to the patient an order signed by a qualifying optometrist.
+>
+> (2) Every order must—
+>
+> - (a) be signed by the qualifying optometrist,
+> - (b) be issued separately to each patient to whom the contractor is providing services under the contract, and
+> - (c) be requested on a form that is supplied for the purposes of this paragraph by the Local Health Board.
+>
+> **4B. Excessive prescribing**
+>
+> A qualifying optometrist must not order drugs or appliances whose cost or quantity, in relation to any patient, is, by reason of the character of that drug or appliance, in excess of that which was reasonably necessary for the proper treatment of that patient.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make amendments to secondary legislation relating to Pharmaceutical Services in Wales amending the current terms of service for NHS Community Pharmacy Contractors.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment was prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from Welsh Government, Cathays Park, Cardiff, CF10 3NQ and is published on www.gov.wales.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^key-a79d5b6d3cc87901c69386f3c5d44f66]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1) in force at 1.1.2025 (as amended by W.S.I. 2024/1315, reg. 2), see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/3)
+
+[^key-03d5992cfd48c2707f59687fe77d162f]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/3) substituted (1.1.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) (Amendment) Regulations 2024 (S.I. 2024/1315)](https://www.legislation.gov.uk/wsi/2024/1315), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1315/regulation/1), [2](https://www.legislation.gov.uk/wsi/2024/1315/regulation/2)
+
+[^key-4779f71b90945e62918f46b7b9bd607e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/1196/regulation/2) in force at 1.4.2025, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4)
+
+[^f00002]: Footnote: [S.I. 2020/1073 (W. 241)](https://www.legislation.gov.uk/wsi/2020/1073).
+
+[^key-67911615413a8c51721a3900270bafa1]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/2/2) substituted (31.3.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/3/2)
+
+[^f00003]: Footnote: [S.I. 2023/1053 (W. 179)](https://www.legislation.gov.uk/wsi/2023/1053).
+
+[^f00004]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44).
+
+[^key-681ead013f7fcecc2a2d190896791dec]: Commencement: [Reg. 3(1)-(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/1), [(6)-(22)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/6) in force at 1.4.2025, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4)
+
+[^key-4e89a96dc9390af332ae1d172ccdf64a]: Commencement: [Reg. 3(5)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/5) in force at 1.1.2025 (as amended by W.S.I. 2024/1315, reg. 2), see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/3)
+
+[^key-e3819df1e5db2e455752c1bb65922a6f]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/2) substituted (31.3.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2025/285/regulation/3/3/a)
+
+[^f00005]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72).
+
+[^f00006]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^f00007]: Footnote: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998) as amended.
+
+[^key-3b0442c833f16f95736929cee91f5277]: Textual amendment: Word in [reg. 3(14)(a)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/3/14/a) substituted (31.3.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2025/285/regulation/3/3/b)
+
+[^key-78ea30f80c2494ad0fd17c8f60080d2b]: Commencement: Reg. 4 in force at 1.4.2025, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4)
+
+[^key-b75760b9e22dbf51c28915fda0481006]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2024/1196/schedule/paragraph/1) in force at 1.4.2025, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4)
+
+[^f00008]: Footnote: [S.I. 2023/1053 (W. 179)](https://www.legislation.gov.uk/wsi/2023/1053)
+
+[^key-8ac06b7f2fd38349a24e3c19d6e5d4de]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2024/1196/schedule/paragraph/2) in force at 1.4.2025, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4)
+
+[^key-d8dde644e6686716818b7a7604977b9b]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/wsi/2024/1196/schedule/paragraph/2) substituted (31.3.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/wsi/2025/285/regulation/3/4/a)
+
+[^key-eb6bcbe0866735bba841e1b3ef5cc684]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2024/1196/schedule/paragraph/3) in force at 1.4.2025, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2024/1196/regulation/1/4)
+
+[^key-292482d6665a20faf409ecf92cc3b554]: Textual amendment: Word in [Sch. para. 3](https://www.legislation.gov.uk/wsi/2024/1196/schedule/paragraph/3) substituted (31.3.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/285)](https://www.legislation.gov.uk/wsi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/wsi/2025/285/regulation/3/4/b)

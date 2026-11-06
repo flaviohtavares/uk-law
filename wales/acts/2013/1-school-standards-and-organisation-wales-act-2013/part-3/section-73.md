@@ -1,0 +1,27 @@
+---
+title: School Standards and Organisation (Wales) Act 2013, section 73
+act: School Standards and Organisation (Wales) Act 2013
+section: '73'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2013/1/section/73
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# School Standards and Organisation (Wales) Act 2013, section 73
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/anaw/2013/1
+>
+> Extent: England, Wales.
+
+## 73. Determination by Welsh Ministers[^key-f1649c9e99ab59c3b1537a996c931863]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-f1649c9e99ab59c3b1537a996c931863]: Textual amendment: [Ss. 71-76](https://www.legislation.gov.uk/anaw/2013/1/section/71) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(8)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/8) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)

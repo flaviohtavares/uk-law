@@ -1,0 +1,281 @@
+---
+title: The Council Tax (Exceptions to Higher Amounts) (Wales) Regulations 2015
+id: wsi/2015/2068
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2015-12-21'
+text_date: '2023-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2015/2068
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2015/2068/pdfs/wsi_20152068_mi.pdf
+- http://www.legislation.gov.uk/wsi/2015/2068/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax (Exceptions to Higher Amounts) (Wales) Regulations 2015
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/wsi/2015/2068
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 2068 (W. 311)
+
+Rating And Valuation, Wales
+
+The Council Tax (Exceptions to Higher Amounts) (Wales) Regulations 2015
+
+Made
+
+21 December 2015
+
+Laid before the National Assembly for Wales
+
+22 December 2015
+
+Coming into force
+
+31 January 2016
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 12A(4) and (5) and 12B(5) and (6) of the Local Government Finance Act 1992[^f00001].
+
+## 1. Title, commencement and application[^key-e5d576da7db2de9f6d44962a4271235b]
+
+(1) The title of these Regulations is the Council Tax (Exceptions to Higher Amounts) (Wales) Regulations 2015 and they come into force on 31 January 2016.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation[^key-15afab9e6a3105de431c666e5b4b539f]
+
+In these Regulations—
+
+- “the Act” (“*y Ddeddf*”) means the Local Government Finance Act 1992;
+- “Class 1” (“*Dosbarth 1*”) means the class of dwellings described in regulation 4;
+- “Class 2” (“*Dosbarth 2*”) means the class of dwellings described in regulation 5;
+- “Class 3” (“*Dosbarth 3*”) means the class of dwellings described in regulation 6;
+- “Class 4” (“*Dosbarth 4*”) means the class of dwellings described in regulation 7;
+- “Class 5” (“*Dosbarth 5*”) means the class of dwellings described in regulation 8;
+- “Class 6” (“*Dosbarth 6*”) means the class of dwellings described in regulation 9;
+- “Class 7” (“*Dosbarth 7*”) means the class of dwellings described in regulation 10;
+
+  references to the spouse or civil partner of a person include references to a person who is living with the other as if they were a married couple or civil partners[^key-17754b97893b1a21220f466767de9373].
+
+## 3. Prescribed classes[^key-fb7d557b2a1004981ab703c0b6d921a5]
+
+(1) Classes 1, 2, 3 and 4 are prescribed as classes of dwelling for the purposes of sections 12A(4) and 12B(5) of the Act.
+
+(2) Classes 5, 6 and 7 are prescribed as classes of dwelling for the purpose of section 12B(5) of the Act.
+
+## 4. Class 1[^key-77b304e11005ad3b64773a2e6b563a18]
+
+(1) The class of dwelling prescribed for the purposes of this regulation (“Class 1”) comprises every dwelling that falls within sub-paragraph (a) or (b) unless it has been such a dwelling for a period of one year or more—
+
+- (a) a dwelling that is being marketed for sale at a price that is reasonable for the sale of the dwelling;
+- (b) a dwelling in relation to which an offer to purchase the dwelling has been accepted (whether or nor the acceptance is subject to contract) but the sale has not been completed.
+
+(2) After the end of an excepted period a dwelling does not fall within Class 1 for a further period unless the dwelling has been the subject of a relevant transaction.
+
+(3) In this regulation—
+
+- (a) marketing a dwelling for sale includes the marketing for sale—
+  - (i) of the freehold; or
+  - (ii) a leasehold for a term of seven years or more;
+- (b) the “excepted period” (“*cyfnod a eithrir*”) is the period during which a dwelling falls within Class 1;
+- (c) “relevant transaction” (“*trafodiad perthnasol*”) means a transfer on sale of the freehold or a transfer on sale of the leasehold for a term of seven years or more.
+
+## 5. Class 2[^key-1b06f7aee9fd2527c858f36ffadb9667]
+
+(1) The class of dwelling prescribed for the purposes of this regulation (“Class 2”) comprises every dwelling that falls within sub-paragraph (a) or (b) unless it has been such a dwelling for a period of one year or more—
+
+- (a) a dwelling that is being marketed for let under a tenancy on terms and conditions, including the proposed rent, that are reasonable for letting the dwelling;
+- (b) a dwelling in relation to which an offer to rent the dwelling has been accepted (whether or not the acceptance is subject to contract) but the tenancy has not started.
+
+(2) After the end of an excepted period a dwelling does not fall within Class 2 for a further period unless it has been subject to a tenancy that was granted for a term of six months or more.
+
+(3) For the purpose of this regulation the “excepted period” (“*cyfnod a eithrir*”) is the period during which a dwelling falls within Class 2.
+
+## 6. Class 3[^key-6766319b70237cb9bc82fada1e4f47b6]
+
+(1) The class of dwelling prescribed for the purposes of this regulation (“Class 3”) comprises every dwelling—
+
+- (a) that forms part of a single property that includes at least one other dwelling; and
+- (b) that is being used by a resident of that other dwelling, or as the case may be, those other dwellings, as part of their residence.
+
+(2) For the purpose of paragraph (1), “single property” (“*eiddo unigol*”) means a property that would, apart from the Council Tax (Chargeable Dwellings) Order 1992[^f00002] be one dwelling within the meaning of section 3 of the Act.
+
+## 7. Class 4[^key-8d2247fb296ad197843a8a0cdf6d75a9]
+
+(1) The class of dwelling prescribed for the purposes of this regulation (“Class 4”) comprises every dwelling which would be the sole or main residence of an individual if that individual were not residing in armed forces accommodation.
+
+(2) For the purpose of this regulation—
+
+- (a) “armed forces accommodation” (“*llety’r lluoedd arfog*”) is accommodation which is provided to—
+  - (i) a member of any of Her Majesty’s forces, or
+  - (ii) a member of the family of a member of any of Her Majesty’s forces,
+
+  for the purposes of any of Her Majesty’s forces;
+- (b) a person is a member of another’s family if—
+  - (i) he or she is the spouse or civil partner of that person; or
+  - (ii) he or she is that person’s parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew or niece.
+
+## 8. Class 5[^key-d105e29b98af0c48dc4ebc44460fff24]
+
+(1) The class of dwelling prescribed for the purposes of this regulation (“Class 5”) comprises every dwelling which consists of a pitch occupied by a caravan or a mooring occupied by a boat.
+
+(2) For the purpose of this regulation “caravan” (“*carafán*”) is construed in accordance with section 7 of the Act[^f00003].
+
+## 9. Class 6[^key-ad3552df7303872fcb6b25899a6d9f1c]
+
+(1)[^key-f985f88f0db004b8f8cf36c329a244da] The class of dwellings prescribed for the purpose of this regulation (“Class 6”) comprises every dwelling the occupation of which is restricted by a planning condition—
+
+- (a) preventing occupancy for a continuous period of at least 28 days in any one year period;
+- (b) specifying that the dwelling may be used for holiday let only; or
+- (c) preventing occupancy as a person’s sole or main residence.
+
+(2) For the purpose of this regulation “planning condition” (“*amod cynllunio*”) means any condition imposed on planning permission granted or deemed to be granted under Part 3 of the Town and Country Planning Act 1990[^f00004].
+
+## 10. Class 7[^key-93ce4a8ec9647bc1ef98327b3bb5d198]
+
+(1) The class of dwelling prescribed for the purpose of this regulation (“Class 7”) comprises every dwelling—
+
+- (a) where a qualifying person in relation to that dwelling is resident in another dwelling which, for that person, is job-related, or
+- (b) which, for a qualifying person, is job-related.
+
+(2) For the purpose of this regulation a dwelling is job-related for a person if it falls within one of the descriptions set out in paragraphs 1, 2 or 3 of the Schedule.
+
+(3) In this regulation “qualifying person” (“*person cymhwysol*”) means—
+
+- (a) a person who is liable for council tax[^f00005] in respect of a dwelling on a particular day, whether or not jointly with another person; or
+- (b) a person who would be liable for the council tax in respect of a dwelling on a particular day, whether or not jointly with another person, if that dwelling did not fall within—
+  - (i) Class O of the Council Tax (Exempt Dwellings) Order 1992[^f00006]; or
+  - (ii) Class E of the Council Tax (Liability for Owners) Regulations 1992[^f00007].
+
+Carl Sargeant
+
+Minister for Public Services, one of the Welsh Ministers
+
+21 December 2015
+
+## SCHEDULE — Job-related dwellings
+
+Regulation 10(2)
+
+### 1. Dwellings provided for specified reasons[^key-2fa7ba1ff45d7c00cdf921878d365d63]
+
+(1) Subject to sub-paragraph (2), a dwelling is job-related for a person if it is provided for that person by reason of that person’s employment, or for that person’s spouse or civil partner by reason of their employment, in any of the following cases, where—
+
+- (a) it is necessary for the proper performance of the duties of the employment that the employee should reside in that dwelling;
+- (b) the dwelling is provided for the better performance of the duties of the employment, and it is one of the kinds of employment in the case of which it is customary for employers to provide dwellings for employees; or
+- (c) there being a special threat to the employee’s security, special arrangements are in force and the employee resides in the dwelling as part of those arrangements.
+
+(2) If the dwelling is provided by a company and the employee is a director of that or an associated company, sub-paragraph (1)(a) or (1)(b) do not apply unless—
+
+- (a) the employment is as a full-time working director;
+- (b) the company is non-profit making, that is to say, it does not carry on a trade nor do its functions consist wholly or mainly in the holding of investments or other property; or
+- (c) the company is established for charitable purposes only.
+
+### 2. Dwellings provided under contract[^key-f3e96a723a9e224d56dd08ba725ade60]
+
+(1) Subject to sub-paragraph (3), a dwelling is job-related for a person if that person, or that person’s spouse or civil partner, is required under a contract to which this paragraph applies, to live in that dwelling.
+
+(2) A contract to which sub-paragraph (1) applies is a contract entered into at arms length and requiring the person concerned, or their spouse or civil partner (as the case may be) to carry on a particular trade, profession or vocation in a property provided by another person and to live in a dwelling provided by that other person.
+
+(3) Sub-paragraph (1) does not apply if the dwelling concerned is in whole or in part provided by any other person or persons together with whom the spouse or civil partner (as the case may be) carries on a trade or business in partnership.
+
+### 3. Ministers of religion[^key-81554421072d7e48234bfa86299a9c98]
+
+A dwelling is job-related for a person if—
+
+- (a) that person, or their spouse or civil partner, is a minister of any religious denomination; and
+- (b) the dwelling is inhabited in order to allow that person, or their spouse or civil partner (as the case may be), to perform the duties of his or her office.
+
+### 4. Interpretation[^key-3da4d0fecc71c187f494c0da280b11a1]
+
+In this Schedule—
+
+a company is an associated company of another if one of them has control of the other or both are under the control of the same person;
+
+- “director” (“*cyfarwyddwr*”), “full-time working director” (“*cyfarwyddwr sy’n gweithio’n llawn amser*”) and “control” (“*rheolaeth*”), in relation to a body corporate, have the same meanings as they have in sections 67 and 69 of the Income Tax (Earnings and Pensions) Act 2003[^f00008] in relation to the benefits code;
+- “provided” (“*wedi ei darparu*”, “*wedi eu darparu*”) means provided under a tenancy or otherwise.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under sections 12A(4) and (5) and 12B(5) and (6) of the Local Government Finance Act 1992 and they come into force on 31 January 2016.
+
+Section 11(2)(a) of the Local Government Finance Act 1992 (“the Act”) makes provision for a council tax discount where there is no resident of a dwelling. Sections 12A and 12B of the Act (inserted by section 139 of the Housing (Wales) Act 2014) enable billing authorities (county and county borough councils), in certain circumstances, to disapply the discount and apply a higher amount of council tax.
+
+Under section 12A of the Act billing authorities may apply the higher amount to long-term empty dwellings. A dwelling is a “long-term empty dwelling” if it has been unoccupied and substantially unfurnished for a continuous period of at least one year (section 12A(11)). Under section 12B billing authorities may apply the higher amount to dwellings that are occupied periodically where certain conditions apply. Those conditions are that there is no resident of the dwelling and the dwelling is substantially furnished (section 12B(2)).
+
+In both cases the billing authority may determine that the amount of council tax payable in respect of the dwellings is to be increased by up to 100%. In respect of long-term empty homes, the billing authority may specify different percentages for different dwellings based on the length of time for which they have been empty.
+
+These Regulations prescribe the classes of dwelling in relation to which a billing authority may not make a determination to apply a higher amount of council tax.
+
+Regulations 4, 5, 6 and 7 prescribe classes of dwelling for the purposes of section 12A(4) (long term empty dwellings) and section 12B(5) (dwellings occupied periodically).
+
+Regulations 4 and 5 (Class 1 and 2) exclude, for a maximum of one year, dwellings that are on the market for sale or let. Where a dwelling has benefitted from an exception under Class 1 it will not be entitled to a further period of exception until the dwelling has been sold. Where a dwelling has benefitted from an exception under Class 2, it will not be eligible for a further period of exception unless it has been subject to a tenancy that was granted for a term of six months or more.
+
+Regulation 6 (Class 3) excepts from the higher amount annexes that are being used as part of the main residence or dwelling. The exception in regulation 7 (Class 4) applies to dwellings that would be a person’s sole or main residence but which is unoccupied because that person resides in armed forces accommodation.
+
+Regulations 8, 9, and 10 prescribe classes of dwellings for the purpose of section 12B(5) (dwellings occupied periodically).
+
+The exception in regulation 8 (Class 5) excludes pitches occupied by caravans and moorings occupied by boats. Regulation 9 (Class 6) applies to dwellings the occupation of which is restricted by a planning condition preventing occupancy for a continuous period of at least 28 days in a year. This class will include purpose built holiday homes or chalets that are subject to planning condition restricting year-round occupancy. The exception in regulation 10 (Class 7) applies to job-related dwellings and dwellings that are occupied periodically when the usual resident is residing in job-related accommodation. The meaning of “job-related dwellings” is given in the Schedule to these Regulations.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Local Government Finance Policy Division, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Sections 12A and 12B were inserted by section 139 of the [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7).
+
+[^key-e5d576da7db2de9f6d44962a4271235b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^key-15afab9e6a3105de431c666e5b4b539f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/2068/regulation/2) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^key-17754b97893b1a21220f466767de9373]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2015/2068/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 102(1)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/102/1)
+
+[^key-fb7d557b2a1004981ab703c0b6d921a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/2068/regulation/3) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^key-77b304e11005ad3b64773a2e6b563a18]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/2068/regulation/4) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^key-1b06f7aee9fd2527c858f36ffadb9667]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/2068/regulation/5) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^key-6766319b70237cb9bc82fada1e4f47b6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/2068/regulation/6) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 1992/549](https://www.legislation.gov.uk/uksi/1992/549).
+
+[^key-8d2247fb296ad197843a8a0cdf6d75a9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/2068/regulation/7) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^key-d105e29b98af0c48dc4ebc44460fff24]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/2068/regulation/8) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^f00003]: Footnote: Under section 7 of the Act “caravan” is construed in accordance with Part I of the Caravan Sites and Control of Development Act 1960 (c. 62).
+
+[^key-ad3552df7303872fcb6b25899a6d9f1c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/2068/regulation/9) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^key-f985f88f0db004b8f8cf36c329a244da]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/9/1) substituted (1.4.2023) by [The Council Tax (Exceptions to Higher Amounts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/253)](https://www.legislation.gov.uk/wsi/2023/253), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/253/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2023/253/regulation/2/2)
+
+[^f00004]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^key-93ce4a8ec9647bc1ef98327b3bb5d198]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/2068/regulation/10) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^f00005]: Footnote: The person who is liable to pay council tax in respect of a dwelling is set out in section 6 of the Act.
+
+[^f00006]: Footnote: [S.I. 1992/558](https://www.legislation.gov.uk/uksi/1992/558).
+
+[^f00007]: Footnote: [S.I. 1992/551](https://www.legislation.gov.uk/uksi/1992/551).
+
+[^key-2fa7ba1ff45d7c00cdf921878d365d63]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/1) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^key-f3e96a723a9e224d56dd08ba725ade60]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/2) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^key-81554421072d7e48234bfa86299a9c98]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/3) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^key-3da4d0fecc71c187f494c0da280b11a1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/4) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+
+[^f00008]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).

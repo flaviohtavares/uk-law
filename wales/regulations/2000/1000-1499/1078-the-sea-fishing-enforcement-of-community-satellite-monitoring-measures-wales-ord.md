@@ -1,0 +1,350 @@
+---
+title: The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000
+id: wsi/2000/1078
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2000-04-06'
+text_date: '2002-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2000/1078
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2000/1078/pdfs/wsi_20001078_mi.pdf
+- http://www.legislation.gov.uk/wsi/2000/1078/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2002-04-01. See https://www.legislation.gov.uk/changes/affected/wsi/2000/1078
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2000 No. 1078 (W. 71)
+
+SEA FISHERIES, WALES
+
+The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000
+
+Made
+
+6th April 2000
+
+Coming into force
+
+7th April 2000
+
+In exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^f00001], which are now vested in it, the National Assembly for Wales[^f00002] hereby makes the following Order:–
+
+## 1. Title, commencement and application[^key-267bc0cf6554da4063b119fe9ba02cae]
+
+(1) This Order may be cited as the Sea Fishing (Enforcement of Community Satellite Monitoring Measures)(Wales) Order 2000 and shall come into force on 7th April 2000.
+
+(2) This Order applies to Wales and the territorial sea adjacent to Wales, and the provisions of article 6 of the National Assembly for Wales (Transfer of Functions) Order 1999 shall have effect for determining those parts of the sea which are to be treated as adjacent to Wales and those which are not[^f00003].
+
+## 2. Interpretation[^key-7f77b2e4ee9acbf3b6c0ad97dfccdff5]
+
+(1) In this Order–
+
+- “capable of being polled” (*“yn gallu cael ei pholio”*), in relation to a satellite tracking device, means:
+  - (a) capable of receiving a request by a Fisheries Monitoring Centre to provide that Centre with the required information at a time other than that required by article 3(4) of this Order, and
+  - (b) immediately providing the required information to that Centre in response;
+- “Community satellite monitoring measure” (*“mesur Cymunedol ar gyfer monitro â lloeren”*) means a provision of:
+  - (a) Article 3 and Article 28c, in so far as it relates to satellite-based vessel monitoring systems, of Regulation 2847/93, or
+  - (b) Regulation 1489/97;
+- “Fisheries Monitoring Centre” (*“Canolfan Monitro Pysgodfeydd”*) means a fisheries monitoring centre established under Article 3.7 of Regulation 2847/93;
+- “fishing boat” (*“cwch pysgota”*) includes a receiving vessel within the meaning of Regulation 2847/93;
+- “Member State” (*“Aelod-wladwriaeth”*) means a Member State of the European Community;
+- “Regulation 2847/93” (*“Rheoliad 2847/93”*) means Council Regulation [(EEC) No. 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847) establishing a control system applicable to the common fisheries policy[^f00004] as amended by Council Regulation (EC) No . 2870/95[^f00005], Council Decision [(EC) 95/528](https://www.legislation.gov.uk/european/regulation/1995/0528)[^f00006], Council Regulation [(EC) 2489/96](https://www.legislation.gov.uk/european/regulation/1996/2489)[^f00007], Council Regulation [(EC) 686/97](https://www.legislation.gov.uk/european/regulation/1997/0686)[^f00008], Council Regulation [(EC) 2205/97](https://www.legislation.gov.uk/european/regulation/1997/2205)[^f00009], Council Regulation [(EC) 2635/97](https://www.legislation.gov.uk/european/regulation/1997/2635)[^f00010] and Council Regulation [(EC) 2846/98](https://www.legislation.gov.uk/european/regulation/1998/2846)[^f00011];
+- “Regulation 1489/97” (*“Rheoliad 1489/97”*) means Commission Regulation [(EC) No. 1489/97](https://www.legislation.gov.uk/european/regulation/1997/1489) laying down detailed rules for the application of Council Regulation [(EEC) No. 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847) as regards satellite-based vessel monitoring systems[^f00012] as corrected by Commission Regulation [(EC) 435/98](https://www.legislation.gov.uk/european/regulation/1998/0435)[^f00013] and amended by Commission Regulation [(EC) 831/99](https://www.legislation.gov.uk/european/regulation/1999/0831)[^f00014] and Commission Regulation [(EC) 2445/99](https://www.legislation.gov.uk/european/regulation/1999/2445)[^f00015];
+- “relevant British fishing boat” (*“cwch pysgota Prydeinig perthnasol”*) means a fishing boat, other than a Scottish fishing boat, which either is registered in the United Kingdom under Part II of the Merchant Shipping Act 1995[^f00016] or is owned wholly by persons qualified to own British ships for the purposes of that Part of that Act;
+- “relevant offence” (*“tramgwydd perthnasol”*) means:
+  - (a) an offence under Article 4 of this Order, or
+  - (b) an offence under any provision in an order extending to any other part of the United Kingdom made for the purposes of implementing a Community satellite monitoring measure, being a provision in respect of which, by virtue of section 30(2A) of the Fisheries Act 1981[^f00017], proceedings may be commenced in any place in the United Kingdom;
+- “required informationq” (*“gwybodaeth a fynnwyd”*) means data relating to–
+  - (a) the fishing boat’s identification;
+  - (b) the most recent geographical position of the fishing boat expressed in degrees and minutes of longitude and latitude within a margin of error of less than 500 metres and within a confidence interval of 99%; and
+  - (c) the date and time of the fixing of that position;
+- “satellite tracking device” (*“dyfais olrhain loerennol”*) means a device for sending required information to a Fisheries Monitoring Centre from a fishing boat via a satellite and land earth station;
+- “Scottish fishing boat” (*“cwch pysgota Albanaidd”*) means a fishing boat which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Scotland as the port to which the boat is to be treated as belonging;
+- “weekday” means a day other than a Saturday, Sunday or public holiday.[^key-07c012169e098d53b3240bd2530cc434]
+
+(2) In this Order any reference to a logbook, declaration, document or required information includes, in addition to a logbook, declaration, document or required information in writing –
+
+- (i) any map, plan, graph or drawing,
+- (ii) any photograph,
+- (iii) any data, howsoever reproduced, received by a Fisheries Monitoring Centre from a satellite tracking device,
+- (iv) any disk, tape, sound track or other device in which sounds or other data (not being visual images) are recorded so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom, and
+- (v) any film (including microfilm), negative, tape, disk or other device in which one or more visual images are recorded so as to be capable (as aforesaid) of being reproduced therefrom.
+
+(3) Any reference in this Order to a Community instrument is a reference to that instrument and any amendment of such instrument in force on the date this Order is made.
+
+## 3. Satellite tracking of fishing boats[^key-efebd7d43a1355b8a2a2a04b78c263ae]
+
+(1) Subject to paragraph (2) this article applies to any fishing boat within the territorial sea adjacent to Wales which measures more than 20 metres between perpendiculars or more than 24 metres in overall length.
+
+(2) This article does not apply to such a fishing boat which–
+
+- (a) operates exclusively within 12 nautical miles of the baselines from which the territorial sea of its flag Member State is measured, or
+- (b) which never spends more than 24 hours at sea taken from the time of departure to the time of return to port.
+
+(3) A satellite tracking device shall–
+
+- (a) be installed; and[^key-5a772173cbab4a2f99d3b6b0bc3636f9]
+- (b) subject to paragraphs (4) and (6), be maintained fully operational,
+
+on a fishing boat to which this article applies.
+
+(4) Such a satellite tracking device shall transmit the required information –
+
+- (a) where the satellite tracking device is capable of being polled:
+  - (i) at least every two hours; or
+  - (ii) in a case for which a different maximum interval is specified in Annex I of Regulation 1489/97, at or within such intervals; or
+- (b) where the satellite tracking device is not capable of being polled, hourly, in the format prescribed by Annex II to Regulation 1489/97 to a Fisheries Monitoring Centre.
+
+## 4. Offences[^key-1d60d8e34f342b5230df358c8c322607]
+
+(1) Where there is a contravention of, or failure to comply with–
+
+- (a) any provision of article 3 of this Order, or
+- (b) in respect of any fishing boat to which article 3 of this Order applies, Article 6.1 or 6.2 of Regulation 1489/97,
+
+the owner, the charterer (if any) and the master shall be guilty of an offence.
+
+(2)[^key-be591938e7477abf56af75868e8e700f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Any person who in any way–
+
+- (a) changes, substitutes or replicates the identification of a satellite tracking device installed on a relevant British fishing boat; or
+- (b) removes the satellite tracking device from such a fishing boat;
+
+without prior notification thereof to the National Assembly for Wales shall be guilty of an offence.
+
+(4)[^key-b19a8bc658dca5b9d9e7d2978bd9b7ba] Without limiting the generality of paragraph (3)(b), a satellite tracking device shall not be regarded as fully operational for the purpose of that sub-paragraph during any time when it is failing to operate in accordance with paragraph (5).
+
+(5) A satellite tracking device installed on a fishing boat to which this article applies shall transmit the required information, in the format prescribed by Annex II to Regulation 1489/97, to a Fisheries Monitoring Centre—
+
+- (a) where the satellite tracking device is capable of being polled—
+- (i) at least every two hours; or
+- (ii) in a case for which a longer maximum interval is specified in Annex I to Regulation 1489/97, at intervals no longer than that maximum; or
+- (b) where the satellite tracking device is not capable of being polled, at least hourly.
+
+(6) Neither of the following circumstances shall be treated as giving rise to a breach of the requirement in paragraph (3)(b)—
+
+- (a) where the device is switched off under the conditions permitted by Annex I to Regulation 1489/97 (stay in port of more than 48 hours, provided the next report is from the same position as the previous one);
+- (b) where the device is subject to a technical failure or non-function within the meaning of Article 6.2 of Regulation 1489/97 during a time when the fishing boat is either in port or in the course of a fishing trip authorised by that Article.
+
+(7) Throughout any time when—
+
+- (a) a relevant British fishing boat or a Scottish fishing boat to which this article applies is not in port, and
+- (a) the satellite tracking device installed on the boat is failing for any reason to operate in accordance with paragraph (5),
+
+without prejudice to Article 6.1 of Regulation 1489/97 (requirement to communicate information to flag state and, if appropriate, coastal state monitoring centres by other means at least every 24 hours), the required information shall be communicated to the Fisheries Monitoring Centre of the United Kingdom by one of the means specified in that Article at least every two hours.
+
+## 5. Penalties[^key-fd9a877bdb2f4f4a47c0abfa47740618]
+
+(1) A person found guilty of a relevant offence in respect of a contravention of, or failure to comply with, article 3(3)(b) or (7)[^key-d25f66ee30766549e42f7d066142f2b1] of this Order or Article 6.1 or 6.2 of Regulation 1489/97 shall be liable–
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment to a fine.
+
+(2) A person found guilty of any other relevant offence shall be liable–
+
+- (a) on summary conviction to a fine not exceeding £50,000;
+- (b) on conviction on indictment to a fine.
+
+## 6. Recovery of fines[^key-b4d40432ef4febac2e3e86b23b8046ad]
+
+(1) Where a fine is imposed by a magistrates' court on the master, owner, charterer, person responsible for the fishing boat or any other person who is convicted by the court of a relevant offence or an offence under article 9 of this Order, the court may for the purpose of levying the amount of the fine–
+
+- (a) issue a warrant of distress against the boat involved in the commission of the offence and its gear and catch and any property of the person convicted; or
+- (b) order the boat to be detained for a period not exceeding three months from the date of the conviction or until the fine is paid or the amount of the fine is levied in pursuance of any such warrant, whichever occurs first.
+
+(2) Sections 77(1) and 78 of the Magistrates' Courts Act 1980[^f00018] (postponement of issue of, and defects in, warrants of distress) shall apply to a warrant of distress issued under this article as they apply to a warrant of distress issued under Part III of that Act.
+
+(3) Where in relation to a fine in respect of a relevant offence a transfer of fine order under [^key-f97426d87c77f911b9f54354f4227ea9]... , Article 95 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00019] or section 222 of the Criminal Procedure (Scotland) Act 1995[^f00020] specifies a petty sessions area in Wales this article shall apply as if the fine were imposed by a court within that petty sessions area.
+
+## 7. Powers of British sea-fishery officers in relation to fishing boats[^key-aa2c371ade832bbd2f724a037b392886]
+
+(1) For the purpose of the enforcement of article 4 of this Order, or any equivalent provision in an order extending to any other part of the United Kingdom made for the purposes of implementing a Community satellite monitoring measure, a British sea-fishery officer may exercise in relation to any fishing boat within the territorial sea adjacent to Wales the powers conferred by paragraphs (2) to (8)[^key-cdb4aecafcb9357a1efb1e9a685beb1b] of this article.
+
+(2) The officer may go on board the boat, with or without persons assigned to assist with his or her duties, and may require the boat to stop and do anything else which will facilitate either the boarding of, or the disembarkation from, the boat.
+
+(3) The officer may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to the officer to be necessary for the purpose mentioned in paragraph (1) of this article and, in particular–
+
+- (a) may search for and examine, and may test, any equipment of the boat, including the satellite tracking device, and require persons on board the boat to do anything which appears to the officer to be necessary for facilitating such a search, examination or test;
+- (b) may require any person on board the boat to produce any document relating to the boat, or the equipment of the boat, to any fishing operations or other operations ancillary thereto or to the persons on board which is in that person’s custody or possession;
+- (c) for the purpose of ascertaining whether a relevant offence has been committed, may search the boat for any such document and may require any person on board the boat to do anything which appears to the officer to be necessary for facilitating the search;
+- (d) inspect, take copies of and retain in his or her possession while completing any search, examination and inspection provided for under this article, any such document produced to the officer or found on board;
+- (e) without prejudice to sub-paragraphs (c) and (d), may require the master and any person for the time being in charge of the boat to render all such documents on a computer system into a visible and legible form, including requiring any such document to be produced in a form in which it may be taken away; and
+- (f) where the boat is one in relation to which the officer has reason to suspect that a relevant offence has been committed, may seize and detain any such document produced or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence.
+
+(4) Where it appears to a British sea-fishery officer that a relevant offence has at any time been committed, the officer may–
+
+- (a) require the master of the boat in relation to which the offence took place to take, or the officer may personally take, the boat and its crew to the port which appears to the officer to be the nearest convenient port; and
+- (b) detain or require the master to detain the boat in the port;
+
+and where such an officer detains or requires the detention of a boat the officer shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
+
+(5)[^key-b214a1a7020f72bbaa94579097ad8681] WhWhere it appears to a British sea fisheries officer that the satellite tracking device on a relevant British fishing boat or a Scottish fishing boat failed, at a time when the boat was not in port, to operate in accordance with article 3(5) of this Order, that officer may, subject to paragraph (7), at any time when the boat is in port, serve on the master or the owner a notice under paragraph (6).
+
+(6) The notice referred to in paragraph (5) is a notice which—
+
+- (a) requires the boat to be detained in port from the time of service of the notice until the expiry of the specified monitoring period; and
+- (b) requires that throughout the specified monitoring period the device shall be set (as nearly as its condition allows) so as to transmit the required information to the Fisheries Monitoring Centre of the United Kingdom—
+- (i) in the case of a device designed to be capable of being polled, at least every two hours; and
+- (ii) in the case of a device not so designed, at least every hour.
+
+(7) A notice under paragraph (6) shall not be served later than 30 days after the day on which it appears to the British sea fisheries officer that the satellite tracking device last failed to operate in accordance with article 3(5) of this Order.
+
+(8) In this article—
+
+- (a) in paragraphs (5) and (7) the reference to article 3(5) of this Order includes a provision to the same effect made by an order which applies to waters beyond the territorial sea adjacent to Wales;
+- (b) in paragraph (6) “the specified monitoring period” means a period of 24 hours which is specified in the notice (which period shall not begin later than 9.00 a.m. on the weekday next following the day on which the notice is served).
+
+## 8. Protection of officers[^key-d7ae7867c1a88141d3ecf093369d89b8]
+
+A British sea-fishery officer or a person assisting him or her by virtue of article 7(2) of this Order shall not be liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred on him or her by virtue of article 7 of this Order if the court is satisfied that the act was done in good faith, that there were reasonable grounds for doing it and that it was done with reasonable skill and care.
+
+## 9. Obstruction etc.[^key-686865d5039a85d49403308fae5f0648]
+
+Any person who–
+
+- (a) fails without reasonable excuse to comply with any requirement imposed by a British sea-fishery officer under the powers conferred on him or her by virtue of article 7 of this Order;
+- (b) without reasonable excuse prevents any other person from complying with any such requirement; or
+- (c) obstructs any such officer who is exercising any of those powers,
+
+shall be guilty of an offence, and liable–
+
+- (i) on summary conviction to a fine not exceeding the statutory maximum;
+- (ii) on conviction on indictment to a fine.
+
+## 10. Provisions as to offences and proceedings[^key-f01129e88675fbc97a400de69beb5e94]
+
+(1) Where any offence under article 4 of this Order committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or a person purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) Where any offence under article 4 of this Order committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that person as well as the partnership shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(3) Where any offence under article 4 of this Order committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer of the association or any member of its governing body, that person as well as the association shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+## 11. Admissibility in evidence of logbooks and other documents[^key-cd2be5cebceb90000a075f9659db1565]
+
+Any–
+
+- (a) logbook kept under Articles 6, 17.2 or 28c;
+- (b) declaration submitted under Articles 8.1, 11, 12, 17.2 or 28f;
+- (c) effort report completed under Articles 19b and 19c;
+- (d) document drawn up under Articles 9 or 13,
+
+of Regulation 2847/93 and any required information received by a Fisheries Monitoring Centre shall, in any proceedings for a relevant offence, be evidence of the matters stated therein.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00021].
+
+D. Elis Thomas
+
+The Presiding Officer of the National Assembly
+
+(This note does not form part of the Order.)
+
+This Order, which applies to Wales and the territorial sea adjacent to Wales, provides for the enforcement of Articles 3 and 28c of Council Regulation [(EEC) No. 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847) establishing a control system applicable to the common fisheries policy and Commission Regulation [(EC) 1489/97](https://www.legislation.gov.uk/european/regulation/1997/1489) laying down detailed rules for the application of Council Regulation [(EEC) No. 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847) as regards satellite-based vessel monitoring systems.
+
+Those Regulations provide for the transmission via satellite of vessel identification and location reports by fishing boats measuring more than 20 metres between perpendiculars or more than 24 metres in overall length. Article 3 of the Order is the principal provision giving effect to these requirements.
+
+The Order creates offences in respect of breaches of the provisions referred to in article 4 of this Order, including breaches of articles 6.1 and 6.2 of Commission Regulation [(EC) No. 1489/97](https://www.legislation.gov.uk/european/regulation/1997/1489). Articles 6.1 and 6.2 require the required information (as defined in article 2(1) of the Order) to be sent to the flag Member State and the concerned coastal Member State by alternative means, at least every 24 hours, in the event of a technical failure or non-function of either a satellite tracking device installed on a fishing boat or the vessel monitoring system of the flag Member State. Also, in the event of a technical failure or non-function of a satellite tracking device the owner is required to have it repaired or replaced within one month or, where such event occurs during a fishing trip that lasts for more than one month, as soon as the fishing boat enters a port. The master of the fishing boat is not authorised to commence a new fishing trip until the satellite tracking device has been so repaired or replaced.
+
+Penalties for contravention of the provisions referred to in article 4 of this Order are to be found in article 5 of the Order.
+
+For the purpose of enforcing this Order British sea-fishery officers are given, within the territorial sea adjacent to Wales, powers to board fishing boats, to search, examine and test the equipment of the boat, to require the production of documents and to take the boat to the nearest convenient port (article 7).
+
+Provision is also made for the prosecution of offences of changing the identification of a satellite tracking device installed on a fishing boat or removing the device from the boat without prior authorisation (article 4(3)), interfering with transmissions from the device or knowingly furnishing false information (article 4(4)), and obstruction of British sea-fishery officers (article 9). Penalties following conviction are set out in articles 5(2) and 9. The statutory maximum penalty specified in the Order is currently £5,000.
+
+The Order provides powers for the recovery of fines imposed by a magistrate’s court (article 6).
+
+Articles 8, 10 and 11 contain ancillary provisions.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29); see section 30(3) for the definitions of “enforceable Community restriction” (“cyfyngiad Cymunedol gorfodadwy”), “enforceable Community obligation” (“rhwymedigaeth Gymunedol orfodadwy”) and “the Ministers”, (“y Gweinidogion”) as modified by Schedule 2 paragraph 68(5) of the Scotland Act 1998 (Consequential Modifications)(No.2)Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)). Article 3(1) and Schedule 1 of the Scotland Act 1998 (Concurrent Functions) Order 1999 (S.I. [1999/1592](https://www.legislation.gov.uk/uksi/1999/1592)) provide for the functions exercisable under section 30(2) of the 1981 Act to be exercised by the Ministers, concurrently with Scottish Ministers, in relation to: relevant British fishing boats within the Scottish zone; and Scottish fishing boats within British fishery limits but outside the Scottish zone (for “the Scottish zone” see section 126 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) and the Scottish Adjacent Waters Boundaries Order 1999 (S.I. [1999/1126](https://www.legislation.gov.uk/uksi/1999/1126))).
+
+[^f00002]: Footnote: By virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), the functions of the Minister of Agriculture Fisheries and Food, and the Secretaries of State respectively concerned with sea fishing in Wales, Scotland and Northern Ireland under section 30(2) of the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29) were, so far as they were exercisable in relation to Wales, transferred to the National Assembly for Wales.
+
+[^key-267bc0cf6554da4063b119fe9ba02cae]: Commencement: Art. 1 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^f00003]: Footnote: The territorial sea is determined in accordance with the provisions of section 1 of the Territorial Sea Act [1987 (c. 47)](https://www.legislation.gov.uk/ukpga/1987/47) and with any provisions made, or having effect as if made, under that section. The boundary between those parts of the sea within the Severn and Dee Estuaries which are treated as being territorial seas adjacent to Wales, and those which are not, is determined in accordance with the co-ordinates set out in Schedule 3 to the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
+
+[^key-7f77b2e4ee9acbf3b6c0ad97dfccdff5]: Commencement: Art. 2 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^f00004]: Footnote: OJ No. L261, 20.10.93, p.1.
+
+[^f00005]: Footnote: OJ No. L301, 14.12.95, p.1.
+
+[^f00006]: Footnote: OJ No. L301, 14.12.95, p.35.
+
+[^f00007]: Footnote: OJ No. L338, 28.12.96, p.12.
+
+[^f00008]: Footnote: OJ No. L102, 19.4.97, p.1.
+
+[^f00009]: Footnote: OJ No. L304, 7.11.97, p.1.
+
+[^f00010]: Footnote: OJ No. L356, 31.12.97, p.14.
+
+[^f00011]: Footnote: OJ No. L358, 31.12.98, p.5.
+
+[^f00012]: Footnote: OJ No. L202, 30.7.97, p.18.
+
+[^f00013]: Footnote: OJ No. L054, 25.2.98, p.5.
+
+[^f00014]: Footnote: OJ No. L105, 22.4.99, p.20.
+
+[^f00015]: Footnote: OJ No. L298, 19.11.99, p.5.
+
+[^f00016]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00017]: Footnote: Inserted by the Scotland Act 1998 (Consequential Modifications) (No.2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)).
+
+[^key-07c012169e098d53b3240bd2530cc434]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/2/1) inserted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 3](https://www.legislation.gov.uk/wsi/2002/677/article/3), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+
+[^key-efebd7d43a1355b8a2a2a04b78c263ae]: Commencement: Art. 3 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^key-5a772173cbab4a2f99d3b6b0bc3636f9]: Textual amendment: Art. 3(3)(b) and word substituted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/uksi/2002/677), [art. 4(2)](https://www.legislation.gov.uk/uksi/2002/677/article/4/2), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/677/regulation/1/1)
+
+[^key-1d60d8e34f342b5230df358c8c322607]: Commencement: Art. 4 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^key-be591938e7477abf56af75868e8e700f]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/wsi/2000/1078/article/4/2) revoked (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 5](https://www.legislation.gov.uk/wsi/2002/677/article/5), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/2))
+
+[^key-b19a8bc658dca5b9d9e7d2978bd9b7ba]: Textual amendment: [Art. 4(4)-(7)](https://www.legislation.gov.uk/wsi/2000/1078/article/4/4) substituted for [art. 4(4)](https://www.legislation.gov.uk/wsi/2000/1078/article/4/4) (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 4(3)](https://www.legislation.gov.uk/wsi/2002/677/article/4/3), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+
+[^key-fd9a877bdb2f4f4a47c0abfa47740618]: Commencement: Art. 5 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^key-d25f66ee30766549e42f7d066142f2b1]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/5/1) substituted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 6](https://www.legislation.gov.uk/wsi/2002/677/article/6), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+
+[^key-b4d40432ef4febac2e3e86b23b8046ad]: Commencement: Art. 6 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^f00018]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-f97426d87c77f911b9f54354f4227ea9]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/wsi/2000/1078/article/6/3) omitted (1.4.2002) by virtue of [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 7](https://www.legislation.gov.uk/wsi/2002/677/article/7), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+
+[^f00019]: Footnote: [S.I. 1981 /1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
+
+[^f00020]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^key-aa2c371ade832bbd2f724a037b392886]: Commencement: Art. 7 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^key-cdb4aecafcb9357a1efb1e9a685beb1b]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/7/1) substituted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 8(2)](https://www.legislation.gov.uk/wsi/2002/677/article/8/2), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+
+[^key-b214a1a7020f72bbaa94579097ad8681]: Textual amendment: [Art. 7(5)-(8)](https://www.legislation.gov.uk/wsi/2000/1078/article/7/5) inserted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 8(3)](https://www.legislation.gov.uk/wsi/2002/677/article/8/3), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+
+[^key-d7ae7867c1a88141d3ecf093369d89b8]: Commencement: Art. 8 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^key-686865d5039a85d49403308fae5f0648]: Commencement: Art. 9 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^key-f01129e88675fbc97a400de69beb5e94]: Commencement: Art. 10 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^key-cd2be5cebceb90000a075f9659db1565]: Commencement: Art. 11 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+
+[^f00021]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

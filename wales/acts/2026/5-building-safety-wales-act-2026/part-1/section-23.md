@@ -1,0 +1,48 @@
+---
+title: Building Safety (Wales) Act 2026, section 23
+act: Building Safety (Wales) Act 2026
+section: '23'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/5/section/23
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Safety (Wales) Act 2026, section 23
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 23. Revision of register without notification[^key-a319c5303b3f2c501a1cfc0f30bef01e]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) This section applies where a building safety authority becomes aware, otherwise than by receiving notification under section 21(1), that information or a document included in an entry for a category 1 building or a category 2 building in its register is inaccurate.
+
+(2) The authority must decide whether to revise the entry for the building in the register.
+
+(3) If the authority decides to revise the entry, it must give the principal accountable person for the building notice of its decision before the end of 21 days beginning with the day after the day on which it becomes aware of the inaccuracy.
+
+(4) The notice must—
+
+- (a) set out the revision made,
+- (b) include the date on which the revision takes effect, and
+- (c) include information about the right of review under section 64.
+
+(5) The decision to revise the entry for the building in the register cannot take effect at any time when—
+
+- (a) a request for a review of the decision could be made under section 64 (unless the principal accountable person has notified the authority that the person does not intend to request a review),
+- (b) a review has been requested but has not concluded and the request has not been withdrawn,
+- (c) an appeal against the decision could be made to a residential property tribunal under section 65 (unless the principal accountable person has notified the authority that the person does not intend to appeal), or
+- (d) an appeal has been made but not finally determined or withdrawn.
+
+(6) If subsection (5) ceases to prevent a decision to revise the entry in the register taking effect at a time when the date specified in the notice given under subsection (4)(b) has already passed, the building safety authority must determine a future date on which the revision takes effect (unless such a date has been determined on review or appeal).
+
+## Annotations
+
+[^key-a319c5303b3f2c501a1cfc0f30bef01e]: Commencement: S. 23 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

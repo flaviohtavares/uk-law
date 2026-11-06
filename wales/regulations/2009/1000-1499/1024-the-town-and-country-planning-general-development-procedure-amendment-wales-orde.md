@@ -1,0 +1,137 @@
+---
+title: The Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2009
+id: wsi/2009/1024
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2009-04-18'
+text_date: '2009-04-18'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2009/1024
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2009/1024/pdfs/wsi_20091024_mi.pdf
+- http://www.legislation.gov.uk/wsi/2009/1024/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2009
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2009-04-18. See https://www.legislation.gov.uk/changes/affected/wsi/2009/1024
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+2009 No. 1024 (W.87)
+
+TOWN AND COUNTRY PLANNING, WALES
+
+The Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2009
+
+Made
+
+18 April 2009
+
+Laid before the National Assembly for Wales
+
+21 April 2009
+
+Coming into force
+
+1 June 2009
+
+The Welsh Ministers make this Order in exercise of the powers conferred upon the Secretary of State by sections 59, 61(1), 62 and 69 of the Town and Country Planning Act 1990[^f00001] and which are now exercisable by the Welsh Ministers[^f00002].
+
+## 1. Title, commencement, interpretation and application[^key-ee99abdbf6bc8e1ce031f4ad9b73f14e]
+
+(1) The title of this Order is the Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2009 and it comes into force on 1 June 2009.
+
+(2) This Order applies in relation to Wales.
+
+## 2. Amendment of the Town and Country Planning (General Development Procedure) Order 1995[^key-ed6874fb87210cfbfb1bbfaec9e1571f]
+
+(1) The Town and Country Planning (General Development Procedure) Order 1995[^f00003] is amended as follows.
+
+(2) For article 4D (Access statements: Wales) substitute—
+
+> **4D. Design and access statements: Wales**
+>
+> (1) This article applies to an application for planning permission which is not an application for planning permission for—
+>
+> - (a) engineering or mining operations;
+> - (b) development of an existing dwellinghouse, or development within the curtilage of such a dwellinghouse for any purpose incidental to the enjoyment of the dwellinghouse as such; or
+> - (c) a material change in the use of land or buildings, provided that if the new use will necessitate access by an employee or involves the provision of services to the public or to a section of the public, with or without payment, then this article applies to the application as if—
+>   - (i) in paragraph (3), for “a design and access statement” there were substituted “an access statement”;
+>   - (ii) in paragraph (5), for “A design and access statement must, in relation to access,” there were substituted “An access statement must”; and
+>   - (iii) paragraphs 3(a), (4) and (6) were omitted.
+>
+> (2) For the purposes of paragraph (1)(c) “the provision of services” includes the provision of any goods or facilities.
+>
+> (3) An application for planning permission to which this article applies must be accompanied by a statement (“a design and access statement”) explaining—
+>
+> - (a) the design principles and concepts that have been applied to the development; and
+> - (b) how issues relating to access to the development have been dealt with.
+>
+> (4) A design and access statement must, in relation to design—
+>
+> - (a) explain the design principles and concepts that have been applied to the following aspects of the development—
+>   - (i) environmental sustainability;
+>   - (ii) movement to, from and within the development;
+>   - (iii) character; and
+>   - (iv) community safety; and
+> - (b) demonstrate the steps taken to appraise the context of the development and how the design of the development takes that context into account in relation to its proposed use and each of the aspects specified in sub-paragraph (a).
+>
+> (5) A design and access statement must, in relation to access, explain—
+>
+> - (a) the policy or approach adopted as to access and how policies relating to access in the development plan[^f00004] have been taken into account;
+> - (b) how any specific issues which might affect access to the development have been addressed; and
+> - (c) how features which ensure access to the development will be maintained.
+>
+> (6) In this article—
+>
+> - “amount” means—
+>   - (a) in relation to residential development, the number of proposed units for residential use; and
+>   - (b) in relation to all other forms of development, the proposed floor space for each proposed use forming part of the development;
+> - “character” includes any landscaping comprised in the development and the amount, layout, scale and appearance of the development; and
+> - “context” means the physical, social, economic and policy context of the development.
+
+.
+
+(3) In paragraph (4)(a) of article 25 (register of applications), after “accompanying” insert “design and access statement or”.
+
+Jane Davidson
+
+Minister for Environment, Sustainability and Housing, one of the Welsh Ministers
+
+18 April 2009
+
+(This note is not part of the Order)
+
+The Town and Country Planning (General Development Procedure) Order 1995 (“the 1995 Order”) specifies the procedures connected with planning applications, appeals to the Welsh Ministers and related matters so far as these are not laid down in the Town and Country Planning Act 1990. This Order amends the 1995 Order in relation to Wales.
+
+Article 2(1) substitutes a new article 4D into the 1995 Order. The new article 4D makes provision for design and access statements, which are required to accompany specified applications for planning permission. Paragraph (1)(c) of the new article 4D provides that, for limited categories of application, a statement dealing only with access matters is required.
+
+The new article 4D replaces article 4D as inserted into the 1995 Order by the Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2006 ([S.I. 2006/3390 (W.310)](https://www.legislation.gov.uk/wsi/2006/3390)), which made provision for access statements.
+
+Article 2(3) makes a consequential amendment to the 1995 Order.
+
+A regulatory impact assessment has been prepared and copies can be obtained from Planning Division, Welsh Assembly Government, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 62 was substituted by the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), section 42.
+
+[^f00002]: Footnote: Functions under the relevant sections of the 1990 Act, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). *See* the entry for the 1990 Act in Schedule 1 to that Order, as substituted by article 4 of, and Schedule 3 to, the National Assembly for Wales (Transfer of Functions) Order 2000 ([S.I. 2000/253) (W.5)](https://www.legislation.gov.uk/wsi/2000/253) and amended by section 118(3) of the 2004 Act. By virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), those functions are now exercisable by the Welsh Ministers.
+
+[^key-ee99abdbf6bc8e1ce031f4ad9b73f14e]: Commencement: Art. 1 in force at 1.6.2009, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2009/1024/article/1/1)
+
+[^key-ed6874fb87210cfbfb1bbfaec9e1571f]: Commencement: Art. 2 in force at 1.6.2009, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2009/1024/article/1/1)
+
+[^f00003]: Footnote: [S.I. 1995/419](https://www.legislation.gov.uk/uksi/1995/419). Relevant amendments were made by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2004/3156 (W.273)](https://www.legislation.gov.uk/wsi/2004/3156) and [2006/3390 (W.310)](https://www.legislation.gov.uk/wsi/2006/3390).
+
+[^f00004]: Footnote: *See* section 38(4) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) for the meaning of “development plan” and the transitional provisions and savings in article 3 of the Planning and Compulsory Purchase Act 2004 (Commencement No 6, Transitional Provisions and Savings) Order 2005 ([S.I. 2005/2847) (C.118)](https://www.legislation.gov.uk/uksi/2005/2847).

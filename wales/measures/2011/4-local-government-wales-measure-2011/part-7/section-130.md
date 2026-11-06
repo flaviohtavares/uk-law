@@ -1,0 +1,33 @@
+---
+title: Local Government (Wales) Measure 2011, section 130
+act: Local Government (Wales) Measure 2011
+section: '130'
+status: revised-with-pending-changes
+text_date: '2025-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/mwa/2011/4/section/130
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government (Wales) Measure 2011, section 130
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/mwa/2011/4
+>
+> Extent: England, Wales.
+
+## 130. Power to set out model charter agreement
+
+*Extent: E+W*
+
+(1) The Welsh Ministers may by order make provision setting out a model charter agreement between a local authority and a community council for a community or communities within its area.
+
+(2) In subsection (1), “**model charter agreement between a local authority and a community council**” means a description of the way in which their functions can be exercised for the purpose of maintaining and improving cooperation between them.
+
+(3) The provision that may be made by an order under subsection (1) includes (but is not limited to) provision—
+
+- (a) setting out the way in which specified functions, or aspects of such functions, are to be exercised;
+- (b) setting out specified functions, or aspects of such functions, in respect of which the local authority and the community council are to seek agreement as to how they are to be exercised;
+- (c) setting out specified functions which are to be exercised by reference to specified principles.
+
+(4) In this section and section 131, a reference to the exercise of functions includes a reference to the doing of anything which is calculated to facilitate, or is conducive or incidental to, the exercise of the functions.

@@ -1,0 +1,111 @@
+---
+title: The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2015
+id: wsi/2015/1905
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-11-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2015/1905
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2015/1905/pdfs/wsi_20151905_mi.pdf
+- http://www.legislation.gov.uk/wsi/2015/1905/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 1905 (W. 277)
+
+Rating And Valuation, Wales
+
+The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2015
+
+Made
+
+11 November 2015
+
+Laid before the National Assembly for Wales
+
+30 November 2015
+
+Coming into force
+
+31 December 2015
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 60 of and paragraphs 4 and 6 of Schedule 8 to the Local Government Finance Act 1988[^f00001].
+
+## 1. Title, commencement, application and interpretation
+
+(1) The title of these Regulations is the Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2015 and they come into force on 31 December 2015.
+
+(2) These Regulations apply in relation to Wales.
+
+(3) In these Regulations “the 1992 Regulations” (“*Rheoliadau 1992*”) means the Non-Domestic Rating Contributions (Wales) Regulations 1992[^f00002].
+
+## 2. Amendment to the 1992 Regulations
+
+(1) The 1992 Regulations are amended as follows in relation to financial years beginning on or after 1 April 2016.
+
+(2) For Schedule 4 to the 1992 Regulations substitute the Schedule to these Regulations.
+
+Leighton Andrews
+
+Minister for Public Services, one of the Welsh Ministers
+
+11 November 2015
+
+## SCHEDULE
+
+Regulation 2
+
+> **SCHEDULE 4**
+>
+> ADULT POPULATION FIGURES
+>
+> | Billing authority area | Prescribed figure |
+> | --- | --- |
+> | Blaenau Gwent | 55,722 |
+> | Bridgend | 112,178 |
+> | Caerphilly | 141,099 |
+> | Cardiff | 281,207 |
+> | Carmarthenshire | 147,829 |
+> | Ceredigion | 62,875 |
+> | Conwy | 94,564 |
+> | Denbighshire | 75,337 |
+> | Flintshire | 121,644 |
+> | Gwynedd | 98,583 |
+> | Isle of Anglesey | 56,533 |
+> | Merthyr Tydfil | 46,587 |
+> | Monmouthshire | 74,234 |
+> | Neath Port Talbot | 112,590 |
+> | Newport | 113,566 |
+> | Pembrokeshire | 99,000 |
+> | Powys | 107,516 |
+> | Rhondda Cynon Taf | 186,911 |
+> | Swansea | 194,267 |
+> | Torfaen | 72,248 |
+> | Vale of Glamorgan | 100,662 |
+> | Wrexham | 107,275 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply in relation to Wales, amend the Non-Domestic Rating Contributions (Wales) Regulations 1992 (“the 1992 Regulations”).
+
+Under Part II of Schedule 8 to the Local Government Finance Act 1988, billing authorities (in Wales, county and county borough councils) are required to pay amounts (called non-domestic rating contributions) to the Welsh Ministers. The 1992 Regulations contain rules for the calculation of those contributions for Welsh billing authorities.
+
+These Regulations amend the 1992 Regulations by substituting a new Schedule 4 (Adult Population Figures).
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Section 60 of and paragraphs 4 and 6 of Schedule 8 to the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41) were amended by section 5 of and Part I of Schedule 3 to the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17).
+
+[^f00002]: Footnote: [S.I. 1992/3238](https://www.legislation.gov.uk/uksi/1992/3238) as amended by [S.I. 1993/1505](https://www.legislation.gov.uk/uksi/1993/1505), [1993/3077](https://www.legislation.gov.uk/uksi/1993/3077), [1994/547](https://www.legislation.gov.uk/uksi/1994/547), [1994/1742](https://www.legislation.gov.uk/uksi/1994/1742), [1994/3125](https://www.legislation.gov.uk/uksi/1994/3125), [1995/3235](https://www.legislation.gov.uk/uksi/1995/3235), [1996/619](https://www.legislation.gov.uk/uksi/1996/619), [1996/3018](https://www.legislation.gov.uk/uksi/1996/3018), [1997/3003](https://www.legislation.gov.uk/uksi/1997/3003), [1998/2962](https://www.legislation.gov.uk/uksi/1998/2962), [1999/3439 (W. 47)](https://www.legislation.gov.uk/wsi/1999/3439), [2000/3382 (W. 220)](https://www.legislation.gov.uk/wsi/2000/3382), [2001/3910 (W. 322)](https://www.legislation.gov.uk/wsi/2001/3910), [2002/3054 (W. 289)](https://www.legislation.gov.uk/wsi/2002/3054), [2003/3211 (W. 304)](https://www.legislation.gov.uk/wsi/2003/3211), [2004/3232 (W. 280)](https://www.legislation.gov.uk/wsi/2004/3232), [2005/3345 (W. 259)](https://www.legislation.gov.uk/wsi/2005/3345), [2006/3347 (W. 307)](https://www.legislation.gov.uk/wsi/2006/3347), [2007/3343 (W. 295)](https://www.legislation.gov.uk/wsi/2007/3343), [2008/2929 (W. 258)](https://www.legislation.gov.uk/wsi/2008/2929), [2009/3147 (W. 274)](https://www.legislation.gov.uk/wsi/2009/3147), [2010/2889 (W. 239)](https://www.legislation.gov.uk/wsi/2010/2889), [2011/2610 (W. 283)](https://www.legislation.gov.uk/wsi/2011/2610), [2012/3036 (W. 310)](https://www.legislation.gov.uk/wsi/2012/3036), [2013/3046 (W. 305)](https://www.legislation.gov.uk/wsi/2013/3046) and [2014/3193 (W. 323)](https://www.legislation.gov.uk/wsi/2014/3193).

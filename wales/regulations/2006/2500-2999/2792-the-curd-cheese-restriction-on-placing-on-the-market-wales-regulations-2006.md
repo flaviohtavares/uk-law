@@ -1,0 +1,166 @@
+---
+title: The Curd Cheese (Restriction on Placing on the Market) (Wales) Regulations 2006
+id: wsi/2006/2792
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-10-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2006/2792
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2006/2792/pdfs/wsi_20062792_en.pdf
+- http://www.legislation.gov.uk/wsi/2006/2792/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Curd Cheese (Restriction on Placing on the Market) (Wales) Regulations 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 2792 (W.233)
+
+FOOD, WALES
+
+The Curd Cheese (Restriction on Placing on the Market) (Wales) Regulations 2006
+
+Made
+
+17 October 2006
+
+Coming into force
+
+18 October 2006
+
+The National Assembly for Wales makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001].
+
+The National Assembly for Wales has been designated[^f00002] for the purposes of that section in relation to measures relating to food (including drink) including the primary production of food.
+
+## 1. Title, application and commencement
+
+These Regulations are called the Curd Cheese (Restriction on Placing on the Market) (Wales) Regulations 2006, apply in relation to Wales and come into force on 18 October 2006.
+
+## 2. Interpretation
+
+(1) In these Regulations —
+
+- “authorised officer”, in relation to a food authority, means any person (whether or not an officer of the authority) authorised by it in writing, either generally or specially, to act in matters arising under these Regulations;
+- “food authority” has the same meaning as in section 5(1A) and (3)(a) and (b) of the Food Safety Act 1990;
+- “place on the market” and “placed on the market” is construed in accordance with the definition of “placing on the market” in Article 3(8) of Regulation 178/2002;
+- “Regulation 178/2002” means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] as last amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004].
+
+(2) Where any functions under the Food Safety Act 1990 are assigned by an order under section 2 or 7 of the Public Health (Control of Disease) Act 1984[^f00005], to a port health authority any reference in these Regulations to a food authority is construed, so far as relating to those functions, as a reference to the authority to whom they are so assigned.
+
+## 3. Prohibition on the placing on the market of curd cheese
+
+No person may place on the market any curd cheese manufactured by Bowland Dairy Products Limited, located at Fulshaw Head Farm, Barrowford, Lancashire, BB9 6RA and approved under the number UK PE 23.
+
+## 4. Application of various provisions of the Food Safety Act 1990
+
+The following provisions of the Food Safety Act 1990 apply for the purposes of these Regulations with the modification that any reference in those provisions to that Act or Part thereof is construed as a reference to these Regulations —
+
+- (a) section 20 (offences due to fault of another person);
+- (b) section 21 (defence of due diligence)[^f00006] with the modifications that subsections (2) to (4) apply in relation to an offence under regulation 6(1) as they apply in relation to an offence under section 14 or 15 and that in subsection (4)(b) the references to “sale or intended sale” are deemed to be references to “placing on the market”;
+- (c) section 32 (powers of entry);
+- (d) section 33(1) (obstruction etc. of officers);
+- (e) section 33(2), with the modification that the reference to “any such requirement as is mentioned in subsection 1(b) above” are deemed to be a reference to any such requirement as is mentioned in section 33(1)(b) as applied by sub-paragraph (d);
+- (f) section 35(1) (punishment of offences)[^f00007], in so far as it relates to offences under section 33(1) as applied by sub-paragraph (d);
+- (g) section 35(2) and (3)[^f00008], in so far as it relates to offences under section 33(2) as applied by sub-paragraph (e);
+- (h) section 36 (offences by bodies corporate);
+- (i) section 36A (offences by Scottish partnerships)[^f00009]; and
+- (j) section 44 (protection of officers acting in good faith).
+
+## 5. Inspection and seizure of suspected products
+
+(1) An authorised officer of a food authority may at all reasonable times inspect any product that has been placed on the market and paragraphs (2) to (7) apply where, on such an inspection or for any other reasonable cause, it appears to the authorised officer that any person has failed to comply with regulation 3 in relation to any product.
+
+(2) The authorised officer may either —
+
+- (a) give notice to the person in charge of the product that, until the notice is withdrawn, the product or any specified portion of it —
+  - (i) is not to be further placed on the market, and
+  - (ii) either is not to be removed or is not to be removed except to some place specified in the notice; or
+- (b) seize the product and remove it in order to have it dealt with by a justice of the peace.
+
+(3) Where the authorised officer exercises the power conferred by paragraph (2)(a), that officer must, as soon as is reasonably practicable and in any event within 21 days, determine whether or not he or she is satisfied that regulation 3 has been complied with in relation to the product and —
+
+- (a) if he or she is so satisfied, must forthwith withdraw the notice; and
+- (b) if he or she is not so satisfied, must seize the product and remove it in order to have it dealt with by a justice of the peace.
+
+(4) Where an authorised officer exercises the power conferred by paragraph (2)(b) or (3)(b), that officer must inform the person in charge of the product of their intention to have it dealt with by a justice of the peace and —
+
+- (a) any person who under regulation 3 might be liable to a prosecution in respect of the product may, if he or she attends before the justice of the peace by whom the product falls to be dealt with, be entitled to be heard and to call witnesses; and
+- (b) that justice of the peace may, but need not, be a member of the court before which any person is charged with an offence under that regulation in relation to that product.
+
+(5) If it appears to a justice of the peace, on the basis of such evidence as he or she considers appropriate in the circumstances, that there has been a failure to comply with regulation 3 in relation to any product falling to be dealt with by him or her under this regulation, he or she must condemn the product and order —
+
+- (a) the product to be destroyed or to be so disposed of as to prevent it from being further placed on the market; and
+- (b) any expenses reasonably incurred in connection with the destruction or disposal to be defrayed by the owner of the product.
+
+(6) If a notice under paragraph (2)(a) is withdrawn, or the justice of the peace by whom any product falls to be dealt with under this regulation refuses to condemn it, the food authority must compensate the owner of the product for any depreciation in its value resulting from the action taken by the authorised officer.
+
+(7) Any disputed question as to the right to or the amount of any compensation payable under paragraph (6) must be determined by arbitration.
+
+## 6. Offences and penalties
+
+(1) Any person who contravenes regulation 3 or knowingly contravenes the requirements of a notice given under paragraph (2)(a) of regulation 5 is guilty of an offence.
+
+(2) Any person guilty of an offence under this regulation is liable —
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or to both; or
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+(3) No prosecution for an offence consisting of a contravention of regulation 3 or of knowingly contravening the requirements of a notice given under paragraph (2)(a) of regulation 5 is to be begun after the expiry of —
+
+- (a) three years from the commission of the offence; or
+- (b) one year from its discovery by the prosecutor,
+
+whichever is the earlier.
+
+## 7. Enforcement
+
+Each food authority must, within its area, enforce and execute the provisions of these Regulations.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00010] 17 October 2006
+
+The Presiding Officer of the National Assembly
+
+D. Elis-Thomas
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations, implement in relation to Wales Commission Decision 2006/694\]/EC prohibiting the placing on the market of curd cheese manufactured in a dairy establishment in the United Kingdom (OJ No. L283, 14.10.2006, p.59).
+
+**2.** The Regulations—
+
+- (a) prohibit the placing on the market of all curd cheese manufactured by Bowland Dairy Products Limited, located at Fulshaw Head Farm, Barrowford, Lancashire, BB9 6RA and approved under the number UK PE 23 (regulation 3);
+- (b) apply with modifications certain provisions of the Food Safety Act 1990 ([1990 c. 16)](https://www.legislation.gov.uk/ukpga/1990/16) for the purposes of these Regulations (regulation 4);
+- (c) provide for the inspection and seizure of products that are suspected of having been placed on the market in contravention of regulation 3 of these Regulations (regulation 5);
+- (d) create offences and penalties (regulation 6); and
+- (e) make provision for their enforcement (regulation 7).
+
+No regulatory appraisal has been prepared in relation to these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: S.I. [2005/1971](https://www.legislation.gov.uk/uksi/2005/1971).
+
+[^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1.
+
+[^f00004]: Footnote: OJ No. L245, 29.9.2003, p.4.
+
+[^f00005]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22); section 7(3)(d) was substituted by paragraph 27 of Schedule 3 to the Food Safety Act 1990.
+
+[^f00006]: Footnote: Section 21 was amended by S.I. [2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^f00007]: Footnote: Section 35(1) is amended by the Criminal Justice Act 2003 ([2003 c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 26, paragraph 42, from a date to be appointed.
+
+[^f00008]: Footnote: Section 35(3) was amended by S.I. [2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^f00009]: Footnote: Section 36A was inserted by the Food Standards Act 1999 ([1999 c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), Schedule 5, paragraph 16.
+
+[^f00010]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

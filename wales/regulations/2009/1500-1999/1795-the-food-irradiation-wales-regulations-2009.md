@@ -1,0 +1,659 @@
+---
+title: The Food Irradiation (Wales) Regulations 2009
+id: wsi/2009/1795
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-07-06'
+text_date: '2023-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2009/1795
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2009/1795/pdfs/wsi_20091795_mi.pdf
+- http://www.legislation.gov.uk/wsi/2009/1795/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food Irradiation (Wales) Regulations 2009
+
+> Text as at 2023-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 1795 (W.162)
+
+FOOD, WALES
+
+The Food Irradiation (Wales) Regulations 2009
+
+Made
+
+6 July 2009
+
+Laid before the National Assembly for Wales
+
+7 July 2009
+
+Coming into force
+
+31 July2009
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 16(1) and (3), 17(1), 18(1)(c), 19(1)(b), 6 and 48(1) of, and paragraphs 1 and 4(b) of Schedule 1 to, the Food Safety Act 1990[^c19812461] which are now vested in them[^c19812471].
+
+In accordance with section 48(4A) of that Act, they have had regard to relevant advice given by the Food Standards Agency.
+
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^c19812481] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-b1e81215b33b7998befe27bf50601f65]
+
+## 1. Title, commencement and application
+
+(1) The title of these Regulations is the Food Irradiation (Wales) Regulations 2009, and they come into force on 31 July 2009.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Scope
+
+These Regulations do not apply to—
+
+- (a) irradiation by measuring or inspection devices at a maximum level of —
+  - (i) 10MeV in the case of X-rays;
+  - (ii) 14MeV in the case of neutrons; or
+  - (iii) 5MeV in other cases,
+
+  where the dose of ionising radiation absorbed does not exceed 0.01Gy in the case of inspection devices which utilise neutrons and 0.5 Gy in other cases; or
+- (b) irradiation of food prepared under medical supervision for patients requiring sterile diets.
+
+## 3. Interpretation
+
+(1) In these Regulations—
+
+- “the Act”(“*y Ddeddf*”) means the Food Safety Act 1990;
+- “**the Agency**” (“***yr Asiantaeth***”) means the Food Standards Agency;
+- “**approval**” (“***cymeradwyaeth***”) includes a licence;
+- “approved” (“*a gymeradwywyd*”, “*wedi'i gymeradwyo*”, “*wedi'u cymeradwyo*”) includes “licensed” (“*trwyddedig*”, “*wedi'i drwyddedu*”);
+- “**import**” (“***mewnforio***”) means to introduce from outside the United Kingdom[^key-a15c36900576ed033c7fa2a67bcf7171];
+- “**ionising radiation**” (“***ymbelydredd ïoneiddio***”) means any gamma rays, X-rays or corpuscular radiations which are capable of producing ions either directly or indirectly;
+- “irradiated” (“*a arbelydrir*”, “*a arbelydrwyd*”, “*arbelydrwyd*”, “*cael ei arbelydru*”, “*wedi'i arbelydru*”) means treated by ionising radiation, and similar expressions must be construed accordingly;
+- “**licence**” (“***trwydded***”) save in regulation 7(a)(ii)(bb) means a licence granted by the Agency in accordance with Schedule 2 to a person and a facility to irradiate food and “licensed” (“*ei drwyddedu*”, “*trwyddedig*”, “*wedi'i drwyddedu*”) and “**licensee**” (“***trwyddedai***”) must be construed accordingly;
+- “**official reference number**” (“***Rhif cyfeirnod swyddogol***”) in relation to a facility in a Member State means the number shown for it in the list in Schedule 3[^key-ae3a5ec08c2bd20dfd9e7c3b5f9d764f] ;
+- “**sell**” (“***gwerthu***”) includes possess, offer, expose and advertise for sale, and “**sale**” (“***gwerthu***”) must be construed accordingly.
+
+(2) For the purposes of these Regulations—
+
+- (a) “**properly irradiated food**” (“***bwyd a arbelydrwyd yn briodol***”) means food which—
+  - (i) was either irradiated alone or as part of a batch of food in which each item was food which fell within the same permitted category of food; and
+  - (ii) has not been over-irradiated,
+
+  and “**proper irradiation**” (“***arbelydru priodol***”) must be construed accordingly;
+- (b) food falls within a permitted category of food when (excluding the weight of any added water) no less than 98 per cent of it by weight falls within that category, and “**item**” (“**eitem**”), in relation to a batch of food, means each item within that batch intended to be capable of being sold individually;
+- (c) the permitted categories of food are—
+  - (i) fruit;
+  - (ii) vegetables;
+  - (iii) cereals;
+  - (iv) bulbs and tubers;
+  - (v) dried aromatic herbs, spices and vegetable seasonings;
+  - (vi) fish and shellfish; and
+  - (vii) poultry;
+- (d) in the permitted categories of food—
+  - (i) “**fruit**” (“***ffrwythau***”) includes but is not limited to fungi, tomatoes and rhubarb;
+  - (ii) “**vegetables**” (“***llysiau***”) excludes fruit, cereals, bulbs and tubers and dried aromatic herbs, spices and vegetable seasonings but includes pulses;
+  - (iii) “**bulbs and tubers**” (“***bylbiau a chloron***”) means potatoes, yams, onions, shallots and garlic;
+  - (iv) “**fish and shellfish**” (“***pysgod a physgod cregyn***”) includes but is not limited to eels, crustaceans and molluscs; and
+  - (v) “**poultry**” (“***dofednod***”) means domestic fowls, geese, ducks, guinea fowls, pigeons, quails and turkeys;
+- (e) food has been over-irradiated either when the overall average dose of ionising radiation absorbed by it, measured in accordance with Schedule 1, exceeds, in the case of—
+  - (i) fruit, 2 kGy;
+  - (ii) vegetables, 1 kGy;
+  - (iii) cereals, 1 kGy;
+  - (iv) bulbs and tubers, 0.2 kGy;
+  - (v) dried aromatic herbs, spices and vegetable seasonings, 10 kGy;
+  - (vi) fish and shellfish, 3 kGy; or
+  - (vii) poultry, 7 kGy,
+
+  or where one of the circumstances described in paragraph (3) applies.
+
+(3) The circumstances are that the maximum dose of ionising radiation absorbed by the food, or by any food in the same batch, measured in accordance with Schedule 1, is—
+
+- (a) more than three times the minimum dose absorbed by it; or
+- (b) more than 1.5 times the overall average dose specified for the food in paragraph (2)(e).
+
+## 4. Prohibition on treatment without a licence
+
+(1) No person may in the preparation of any food irradiate it or any part of it unless—
+
+- (a) that person has been licensed;
+- (b) it is in a suitably wholesome state; and
+- (c) it is irradiated in accordance with these Regulations and any conditions of the licence.
+
+(2) Schedule has effect in relation to licences.
+
+## 5. Restrictions on importation
+
+(1) No person may import any irradiated food into Wales for the purpose of sale unless—
+
+- (a) it falls within a permitted category of food;
+- (b)[^key-1c3174ff375aeee0dc44faa3467d23d8] it has been irradiated in one of the facilities listed in the Table in Schedule 3 or Schedule 4;
+- (c) it is properly irradiated food; and
+- (d) where it was irradiated in a[^key-8f85d0465ec688fc2abdb7940e7c6d2e] Member State, it is accompanied by documents containing—
+  - (i) either the name and address of the facility which carried out the irradiation, or its official reference number; and
+  - (ii) the information specified in paragraph 9(1)(a) to (d) and ( )(d) of Part 3 of Schedule ; or
+- (e) where it was irradiated outside the European Union[^M_F_b2d44218-a5e8-4e21-8de3-d965f069a1b9]—
+  - (i) it is accompanied by documents—
+    - (aa) showing the name and address of the facility in which the food was irradiated; and
+    - (bb) containing the information specified in paragraph 9(1) of Part 3 of Schedule 2;
+  - (ii) in the case of food other than dried aromatic herbs, spices or vegetable seasonings—
+    - (aa) it was irradiated by a person approved, under a reference by which the approval can be identified, by a competent authority in the country in which it was irradiated;
+    - (bb) the approval requires the method of measurement specified in Schedule 1 relating to food to which the approval relates; and
+    - (cc) the operation of the legislation in force in that country relating to the irradiation of food protects human health to an extent not less than human health is protected by the operation of these Regulations; and
+  - (iii) it complies with the conditions which apply to the food.
+
+(2) This regulation applies to food which has (as well as food which has not) become an ingredient of other food.
+
+(3) In paragraph (1)(e)(iii) the expression “**the conditions which apply to the food**” is to be construed in accordance with the expression “the conditions which apply to the foodstuffs” in Article 9(1) of Directive [1999/2/EC](https://www.legislation.gov.uk/european/directive/1999/0002) of the European Parliament and of the Council on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation [^c19812491].
+
+## 6. Restriction on storage or transport
+
+(1) No person may store or transport any irradiated food for the purpose of sale unless—
+
+- (a) that person has been licensed in relation to the food; or
+- (b) that person has not been licensed in relation to the food and—
+  - (i) where the food has been imported into Wales, it is accompanied by the documents, or copies of the documents, required in relation to it by regulation 5(1)(d) or (e)(i); or
+  - (ii) where the irradiation took place in the United Kingdom, it is accompanied by documents containing a statement that the food has been irradiated and a document or copy containing the information specified in paragraph 9(1)(a) to (d) and (2) of Part 3 of Schedule 2.
+
+(2) This regulation applies to food which has (as well as food which has not) become an ingredient of other food.
+
+## 7. Restriction on sale
+
+No person may sell food which or any part of which has been irradiated unless—
+
+- (a) either—
+  - (i) the irradiation took place in Wales and regulation 4 and Schedule 2 and any conditions of the licence were complied with; or
+  - (ii) the irradiation took place in England, Northern Ireland, or Scotland and
+    - (aa) provisions having effect there, corresponding to regulation 4 and Schedule 2; and
+    - (bb) any conditions of a licence to irradiate food issued there,
+
+    were complied with; or
+  - (iii) the food was imported into Wales and regulation 5 was complied with; and
+- (b) where it was stored or transported, regulation 6 was complied with.
+
+## 8. Documentation for food not ready for a final sale
+
+(1) No person may import into Wales, store or transport for the purpose of sale or sell irradiated food, or food containing an irradiated ingredient, which is not ready for delivery to the ultimate consumer or catering establishments unless the documents which accompany the food—
+
+- (a) apply the word “irradiated” or the words “treated with ionising radiation” to the food or the ingredient, as the case may be; and
+- (b) include either the name and address of the facility where the irradiation was carried out, or its official reference number.
+
+(2) In this regulation—
+
+- (a) “**catering establishment**” (“***sefydliad arlwyo***”) means a restaurant, canteen, café, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the ultimate consumer and is ready for consumption without further preparation;
+- (b) “**ultimate consumer**” (“***defnyddiwr olaf***”) means any person who buys otherwise than—
+  - (i) for the purpose of resale;
+  - (ii) for the purposes of a catering establishment; or
+  - (iii) for the purposes of a manufacturing business.
+
+## 9. Enforcement
+
+(1) The Agency must enforce the provisions of these Regulations in so far as they fall to be observed by a licensee.
+
+(2) The Agency and each food authority within its area must each enforce the provisions of regulation 4 in so far as they fall to be observed by any person other than a licensee.
+
+(3) Each food authority must enforce within its area the provisions of these Regulations save in so far as they fall to be enforced under paragraph (1) or (2).
+
+(4) Each authority concerned in the administration of these Regulations must give each other authority so concerned such assistance and information as that other authority may reasonably require for the purposes of its duties under these Regulations.
+
+## 10. Offences and penalties
+
+(1) Any person who contravenes or fails to comply with any of the provisions of these Regulations or, for the purposes of these Regulations, makes any false statement or uses any document containing a false statement either recklessly or knowing it to be false, is guilty of an offence and is liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding six months or both; and
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or both.
+
+(2) Any licensee who contravenes or fails to comply with any condition of the licence is guilty of an offence and is liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding six months or both; and
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or both.
+
+## 11. Application of various provisions of the Food Safety Act 1990
+
+(1) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in them to the Act is construed as a reference to these Regulations—
+
+- (a) section 2 (extended meaning of “sale” etc.);
+- (b) section 3 (presumption that food is intended for human consumption);
+- (c) section 20 (offences due to fault of other person);
+- (d) section 21 (defence of due diligence), with the modification that subsections (2) to (4) are to apply in relation to an offence of contravening regulation 4,5,6,7,or 8 of these Regulations as they apply in relation to an offence under section 14 or 15;
+- (e) section 30(8) (which relates to documentary evidence);
+- (f) section 33(1) (obstruction etc. of officers);
+- (g) section 35(1) (punishment of offences), in so far as it relates to offences under section 33(1) as applied by sub-paragraph (f);
+- (h) section 36 (offences by bodies corporate);
+- (i) section 36A (offences by Scottish partnerships) [^c19812501];
+- (j) section 44 (protection of officers acting in good faith);
+- (k) section 58(1) (which relates to territorial waters).
+
+(2) Section 9 (inspection and seizure of suspected food) of the Act applies for the purposes of these Regulations as if food which it was an offence to sell under them were food which failed to comply with food safety requirements.
+
+(3) Section 34 (which relates to time limits for the beginning of prosecutions) of the Act applies in relation to offences under these Regulations as it applies to offences punishable under section 35(2) of the Act.
+
+## 12. Revocation of existing Regulations
+
+(1) In so far as they apply in relation to Wales, the Food (Control of Irradiation) Regulations 1990 [^c19812511] are revoked.
+
+(2) Regulations 2 to 16 of the Food Irradiation Provisions (Wales) Regulations 2001 [^c19812521] are revoked.
+
+Gwenda Thomas
+
+Deputy Minister for Social Services, under authority of the Minister for Health and Social Services, one of the Welsh Ministers
+
+## SCHEDULE 1 — METHOD OF MEASUREMENT OF IRRADIATION
+
+Regulation 3(2)(e) and (3) and Schedule 2 Part 1 paragraphs 1(g) and 2(1)
+
+(*This Schedule sets out (with a correction [^c19812531] in paragraph 1(5)) the provisions of Annex III to Directive [1999/2/EC](https://www.legislation.gov.uk/european/directive/1999/0002) of the European Parliament and of the Council on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation [^c19812541]*)
+
+### 1. Dosimetry: overall average absorbed dose
+
+(1) It can be assumed for the purpose of the determination of the wholesomeness of foodstuffs treated with an overall average dose of 10kGy or less that all radiation chemical effects in that particular dose range are proportional to that dose.
+
+(2) The overall average dose,
+
+[image: see source](https://www.legislation.gov.uk/wsi/2009/1795/images/wsi_20091795_en_sld_001)
+
+, is defined by the following integral over the total volume of the goods:
+
+- [image: see source](https://www.legislation.gov.uk/wsi/2009/1795/images/wsi_20091795_en_sld_002)
+- where
+  - M = the total mass of the treated sample
+  - p = The local density at the point (x,y,z)
+  - d = the local absorbed dose at the point (x,y,z)
+  - dV = dx dy dz, the infinitesimal volume element which in real cases is represented by the volume fractions.
+
+(3) The overall average absorbed dose can be determined directly for homogeneous products or for bulk goods of homogeneous apparent density by distributing an adequate number of dosimeters strategically and at random throughout the volume of the goods. From the dose distribution determined in this manner an average can be calculated which is the overall average absorbed dose.
+
+(4) If the shape of the dose distribution curve throughout the product is well determined, the positions of minimum and maximum dose are known. Measurements of the distribution of dose in these two positions in a series of samples of the product can be used to give an estimate of the overall average dose.
+
+(5) In some cases, the mean value of the average values of the minimum dose (
+
+[image: see source](https://www.legislation.gov.uk/wsi/2009/1795/images/wsi_20091795_en_sld_001)
+
+min) and maximum dose (
+
+[image: see source](https://www.legislation.gov.uk/wsi/2009/1795/images/wsi_20091795_en_sld_001)
+
+max) will be a good estimate of the overall average dose: i.e., in these cases:
+
+- [image: see source](https://www.legislation.gov.uk/wsi/2009/1795/images/wsi_20091795_en_sld_003)
+- [image: see source](https://www.legislation.gov.uk/wsi/2009/1795/images/wsi_20091795_en_sld_004)
+
+### 2. Procedures
+
+(1) Before routine irradiation of a given category of foodstuffs begins at a radiation facility, the locations of the minimum and maximum doses are determined by making dose measurements throughout the product volume. These validation measurements must be carried out a suitable number of times (e.g. 3–5) in order to make allowance for variations in product density or geometry.
+
+(2) Measurements must be repeated whenever the product, its geometry or the irradiation conditions are changed.
+
+(3) During the process, routine dose measurements are carried out in order to ensure that the dose limits are not exceeded. Measurements should be carried out by placing dosimeters at the positions of the maximum or minimum dose, or at a reference position. The dose at the reference position must be quantitatively linked to the maximum and minimum dose. The reference position should be located at a convenient point in or on the product, where dose variations are low.
+
+(4) Routine dose measurements must be carried out on each batch and at regular intervals during production.
+
+(5) In cases where flowing, non-packaged goods are irradiated, the locations of the minimum and maximum doses cannot be determined. In such a case it is preferable to use random dosimeter sampling to ascertain the values of these dose extremes.
+
+(6) Dose measurements should be carried out by using recognised dosimetry systems, and the measurements should be traceable to primary standards.
+
+(7) During irradiation, certain facility parameters must be controlled and continuously recorded. For radionuclide facilities the parameters include product transport speed or time spent in the radiation zone and positive indication for correct position of the source. For accelerator facilities, the parameters include product transport speed and energy level, electron current and scanner width of the facility.
+
+## SCHEDULE 2 — LICENCES
+
+Regulations 4(2), (5)(1)(d)(ii) and (e)(i)(bb), 6(1)(b)(ii) and 7(a)(i) and (ii)(aa)
+
+### PART 1 — Grant of Licences
+
+#### 1. Application for licence
+
+A person seeking a licence to irradiate food (“**the applicant**”) must apply by sending to the Agency an application in writing containing—
+
+- (a) the applicant's name;
+- (b) the applicant's address;
+- (c) the address of the facility at which the applicant proposes to irradiate food;
+- (d) details of any licence or registration under any other legislation which enables the applicant to use ionising radiation at the facility in circumstances where, but for that licence or registration, that use would be unlawful;
+- (e) a description of each food which the applicant proposes to irradiate which is sufficient to show that it falls within a permitted category of food;
+- (f) in respect of each food described pursuant to sub-paragraph (e)—
+  - (i) the purpose for which the applicant proposes to irradiate the food and how that would benefit consumers;
+  - (ii) the method by which the applicant will ensure that the food is in a suitably wholesome state before irradiation;
+  - (iii) the overall average dose, maximum dose and minimum dose of ionising radiation which the applicant proposes to apply to the food;
+  - (iv) the method (including instrumentation and frequency) by which the applicant proposes to measure any dose of ionising radiation and the dosimetry standard which the applicant proposes to use to calibrate the dose meters used to measure it;
+  - (v) whether or not the applicant proposes to irradiate that description of food in packaging in contact with the food and, if so, the packaging which the applicant proposes to use; and
+  - (vi) whether or not the applicant proposes to apply temperature control to the food while irradiating it and, if so, the temperature at which the applicant proposes to keep the food during the application of temperature control;
+- (g) in respect of each food described under sub-paragraph (e), particulars demonstrating that the irradiation is to be in conformity with Schedule 1 and the Joint FAO/WHO Codex Alimentarius Commission Recommended International Code of Practice for the operation of irradiation facilities used for the treatment of foods (in this Part of this Schedule referred to as “**the Code of Practice**”), reference FAO/WHO/CAC, vol XV, edition 1 [^c19812611];
+- (h) a plan of the layout of the facility, details of its design and construction and a statement of the practices which the applicant proposes to apply, including—
+  - (i) the proposed method of irradiating food;
+  - (ii) the type of radiation to be used;
+  - (iii) the proposed methods of business control and organisation, including the minimum qualifications (whether they are formal or are derived from skill, training or experience) of persons who will be involved in applying the practices;
+- (i) the identity and qualifications of the person who has been designated to be responsible for compliance with the conditions necessary for application of the practices referred to in sub-paragraph (h) and that person's position within the applicant's management structure;
+- (j) the date from which the applicant wishes the licence to run; and
+- (k) any other particulars which the applicant wishes the Agency to consider in deciding whether to grant the licence.
+
+#### 2. Consideration of the application
+
+The Agency may grant a licence where it is satisfied that—
+
+- (a) the facility specified in the application satisfies the requirements of the Code of Practice;
+- (b) each food described in the application falls within a permitted category;
+- (c) there is a reasonable technological need;
+- (d) the irradiation would present no health hazard and would be carried out under the conditions described in the application;
+- (e) the irradiation would be of benefit to the consumer;
+- (f) the irradiation would not be used as a substitute for hygiene and health practices or for good manufacturing or agricultural practice;
+- (g) the purposes of irradiation are only—
+  - (i) to reduce the incidence of food-borne disease by destroying pathogenic organisms;
+  - (ii) to reduce spoilage of foodstuffs by retarding or arresting decay processes and destroying spoilage organisms;
+  - (iii) to reduce loss of foodstuffs by premature ripening, germination or sprouting; or
+  - (iv) to rid foodstuffs of organisms harmful to plants or plant products;
+- (h) where the purposes of irradiation include reducing the incidence of food-borne disease by destroying pathogenic organisms, the applicant will use microbiological criteria in deciding whether to irradiate food;
+- (i) there is no significant risk that the applicant may irradiate food which for microbiological reasons cannot comply with food safety requirements, or cannot comply without being irradiated;
+- (j) every method specified under paragraph 1(f)(ii) of this Part is adequate to enable the applicant to ensure that the food is in a suitably wholesome state before irradiation;
+- (k) the overall average dose specified under paragraph 1(f)(iii) of this Part in relation to each description of food is consistent with each purpose specified in respect of that description of food under paragraph 1(f)(i);
+- (l) the method and standard specified under paragraph 1(f)(iv) of this Part—
+  - (i) comply with Schedule 1; and
+  - (ii) eliminate any significant risk that the overall average dose, measured by that method, will deviate significantly from the overall average dose as defined under paragraph 1 of Schedule 1;
+- (m) the factors specified under paragraph 1(f) eliminate any significant risk that food, irradiated in any packaging specified under paragraph 1(f)(v), and at any temperature specified under paragraph 1(f)(vi), will fail to comply with food safety requirements; and
+- (n) the practices and qualifications specified in the statement under paragraph 1(h) are adequate for ensuring that the requirements of these Regulations and any conditions of the licence will not be breached.
+
+**3.** Where the Agency believes that—
+
+- (a) it ought to take account of the practical operation of the facility before it finally determines the application; and
+- (b) it would not prejudice safety if food wasirradiated at the facility for the time being,
+
+it may grant a licence for a period, or further period, not exceeding 6 months in total to enable it to take such account.
+
+#### 4. Refusal of application
+
+(1) Where the Agency refuses to grant a licence, it must give to the applicant a statement in writing of its reasons for doing so and invite the applicant to make representations to it in writing within 28 days after the statement is sent.
+
+(2) After considering any such representations, the Agency—
+
+- (a) may if satisfied as to the matters specified in paragraph 2 of this Part grant a licence; or
+- (b) must give to the applicant a statement in writing of its reasons for continuing to refuse a licence.
+
+#### 5. Duration
+
+(1) Subject to sub-paragraph (2), a licence continues in effect unless cancelled or suspended in accordance with the provisions of Part 5 or surrendered by the licensee to the Agency.
+
+(2) A licence under paragraph 3 continues in effect until—
+
+- (a) the expiration of the period for which it was granted; or
+- (b) the refusal by the Agency of a licence on its final determination of the application,
+
+unless cancelled or suspended in accordance with the provisions of Part 5 or surrendered by the licensee to the Agency.
+
+### PART 2 — Contents of Licence
+
+**1.** Every licence must contain—
+
+- (a) the name of the licensee;
+- (b) the address of the licensed facility;
+- (c) a licence number;
+- (d) a description of each food to which the licence applies;
+- (e) the date from which the licence is to run; and
+- (f) in the case of a licence under paragraph 3 of Part 1, the date of its expiry,
+
+and may contain conditions.
+
+### PART 3 — Requirements and prohibitions to be observed by a licensee
+
+**1.** (1) A licensee may only irradiate food—
+
+- (a) to which the licence applies; and
+- (b) at the licensed facility.
+
+(2) A licensee must not irradiate any food received from another person unless the following particulars are attached to or accompany the food when it is received—
+
+- (a) a description of the food and the name and address of its consignor;
+- (b) a reference by which the food, or any batch, lot or consignment of food of the same description within which food falls, can be identified;
+- (c) if the food is received by the licensee as a bailee—
+  - (i) the name and address of its owner; and
+  - (ii) the reason why its owner wants it to be irradiated; and
+- (d) a statement as to whether the food or any part of it has been irradiated.
+
+**2.** Every licensee must keep—
+
+- (a) food which awaits irradiation at the licensed facility on a part of the facility which is separated by a wall or barrier from any part of the facility where food which has been irradiated is kept; and
+- (b) all food which is either awaiting irradiation or has been irradiated on parts of the facility which are separated by a wall or barrier from any part of the facility on which other food is kept in the course of the business.
+
+**3.** (1) No licensee may irradiate food in combination with any chemical treatment having the same purpose as irradiating it.
+
+(2) Subject to sub-paragraph (3), no licensee may irradiate food which, or any part of which, has previously been irradiated.
+
+(3) The removal of food from, and its return to, the facility where irradiation takes place does not constitute a breach of sub-paragraph (2) where they form part of a continuous process required by the design and construction of that facility.
+
+**4.** Every licensee must number each batch of food irradiated by the licensee and, where any of the food has been received from another person, do so in such a way that the number can be linked to the reference specified in paragraph 1(2)(b) of this Part.
+
+**5.** No licensee may irradiate food save with—
+
+- (a) gamma rays from the radionuclide <sup>60</sup>Co;
+- (b) gamma rays from the radionuclide <sup>137</sup>Cs;
+- (c) X-rays generated from machine sources operated at or below an energy level of 5 MeV; or
+- (d) electrons generated from machine sources operated at or below an energy level of 10 MeV.
+
+**6.** No licensee may irradiate food save by proper irradiation.
+
+**7.** Every licensee must maintain such controls as to ensure at all times that irradiation is consistent with the method of measurement specified under paragraph 1(f)(iv) of Part 1.
+
+**8.** Every licensee must record, in relation to each batch of food irradiated by the licensee, the following information—
+
+- (a) in the case of a radionuclide facility—
+  - (i) in relation to each source configuration of ionising radiation available for use in the facility, such information as to its position as shows whether and if so when the batch of food was exposed to it;
+  - (ii) either the speed at which the batch travels through the facility and the route which the batch travels while passing through it or the time which the batch spends in the radiation zone;
+- (b) in the case of a machine source—
+  - (i) its energy level;
+  - (ii) its electron current;
+  - (iii) its scanner width;
+  - (iv) the characteristics of its beam;
+  - (v) unless it has a scattering device, the frequency with which its beam scans the batch; and
+  - (vi) the speed at which the batch travels through the facility.
+
+**9.** (1) Every licensee must record for each batch of food irradiated by the licensee—
+
+- (a) the nature and quantity of food in the batch;
+- (b)[^M_F_fd8a6737-92d3-4181-dd82-6f914fbc3044] its batch number;
+- (c) the name and address of each consignor and consignee of food within the batch;
+- (d) the date on which the batch was irradiated;
+- (e) any microbiological information relating to food within the batch;
+- (f) the type of packaging in contact with the food in the batch during irradiation;
+- (g) where the licensee has applied temperature control while irradiating it, the temperature of the food in the batch immediately before irradiation;
+- (h) the maximum, minimum and overall average dose of ionising radiation applied to the batch;
+- (i) the type of ionising radiation used;
+- (j) the data used for control of the irradiation including—
+  - (i) the positioning of dose meters within the batch and the doses of ionising radiation recorded by them;
+  - (ii) previous tests used for the purpose of validating that positioning; and
+  - (iii) the method (including instrumentation and frequency) used for measuring the doses of ionising radiation applied during the irradiation, and in the previous tests, and the dosimetry standard used to calibrate the meters used to measure them.
+
+(2) A licensee must not consign food irradiated by the licensee to another person unless it is accompanied by—
+
+- (a) the licensee's name;
+- (b) the licensee's licence number;
+- (c) the information specified in sub-paragraph (1)(a) to (d); and
+- (d) the overall average dose required to be recorded by sub-paragraph (1)(h).
+
+**10.** Every licensee must keep the information required by paragraphs 8 and 9(1) to be recorded for 5 years, even if the licensee ceases meanwhile to be licensed.
+
+**11.** Every licensee must send to the Agency by the last day of February each year a return in writing in respect of the previous calendar year containing—
+
+- (a) the licensee's name;
+- (b) the licensee's licence number;
+- (c) the year to which the return relates;
+- (d) a description of each food which the licensee has irradiated during the year; and
+- (e) the quantity, by volume or weight, of each such food.
+
+### PART 4 — Variation of Licence
+
+**1.** Subject to paragraph , the Agency may at therequest or with the consent of the licensee vary anycondition of the licence.
+
+**2.** (1) Subject to sub-paragraph (2), the Agency must not agree a variation which permits any act or omission a proposal for which would, had it been made in the application for a licence, have caused the Agency to refuse to grant a licence under paragraph 2 of Part 1.
+
+(2) For the purposes of sub-paragraph (1) the Agency, in considering whether to vary a licence, must treat all scientific knowledge which it has at that time as if it had had it at the time it granted the licence.
+
+### PART 5 — Cancellation and suspension of Licence
+
+**1.** If the Agency considers that circumstances exist which, had it foreseen them (and possessed the same scientific knowledge it does now) at the time, it would have refused under paragraph 2 of Part 1 to grant the licence, it may give notice to the licensee—
+
+- (a) explaining why it would have refused to grant the licence; and
+- (b) informing the licensee that, unless the licensee persuades it in writing not to do so within a period of 28 days after the sending of the notice, or such longer period as it may allow, it will cancel the licence.
+
+**2.** If by the expiration of the 28 day period or of any longer period allowed under paragraph 1(b) the Agency is not persuaded to the contrary, it must give notice in writing to the licensee that the licence is cancelled from a date specified in the notice and must state in the notice why it is not so persuaded; but if so persuaded it must notify the licensee accordingly.
+
+**3.** If cancelled, the licence is to cease to have effect on the date specified in the notice.
+
+**4.** (1) If the Agency considers that unless the licence is suspended there will or may be a risk of injury to health it may give notice in writing to the licensee suspending the licence from a date specified in the notice and, subject to sub-paragraphs (2) and (3), the licence will have no effect for the purpose of these Regulations from that date.
+
+(2) Subject to sub-paragraph (3), where notice is given suspending the licence—
+
+- (a) the suspension will cease to have effect at the expiration of three days after notice of the suspension has been given unless notice has in the meantime been given to the licensee under paragraph 1; but
+- (b) if notice has in the meantime been given to the licensee under paragraph 1, the suspension will continue until either—
+  - (i) the Agency is persuaded not to cancel the licence; or
+  - (ii) the licence terminates.
+
+(3) The Agency may, if it considers that in the absence of suspension there will not be a risk of injury to health, by further notice in writing to the licensee withdraw the notice suspending the licence.
+
+### PART 6 — Other provisions concerning Licence
+
+**1.** The Agency must publish in the London Gazette notice of—
+
+- (a) each licence granted;
+- (b) each suspension of a licence;
+- (c) each cancellation of a licence; and
+- (d) each agreed variation of the terms of a licence.
+
+**2.** Any notice so published must specify—
+
+- (a) the name of the licensee or former licensee;
+- (b) the licensed or formerly licensed facility; and
+- (c) their licence number,
+
+and must state in outline the effect of the matter to which it relates.
+
+**3.** Save as provided by section 43 of the Act (continuance on death), a licence is not transferable.
+
+## SCHEDULE 3 — LIST OF FACILITIES IN EU MEMBER STATES AND IN THE UNITED KINGDOM[^key-b7bb076c8d5a7a45809b87a57d0db2e9][^key-a1fb4ff175424b13670f7fd0d6d5227a]
+
+Regulations 3(1)and 5(1)(b)(i)
+
+| Official reference number | Name and address |
+| --- | --- |
+| 2110/91/0004 | Sterigenics SA<br>Zoning Industriel<br>6220 Fleurus<br>Belgium |
+| 01/23.05.2008 | Bulgamma, Sopharma Ltd<br>Iliensko Shosse 16<br>Sofia<br>Bulgaria |
+| 2/26.10.2010 | GITAVA Ltd ‘Kalina’<br>Town of Stamboliyski<br>Hristo Botev str.<br>Municipality Stamboliyski<br>Plovdiv district<br>Bulgaria |
+| IR-02-CZ | Bioster a.s.<br>Tejny 621<br>664 71 Veverská Bítýška<br>Czech Republic |
+| SN 01 | Synergy Health Radeberg GmbH<br>Juri—Gagarin Strasse 15<br>01454 Radeberg<br>Germany |
+| BY FS 01/2001 | Synergy Health Allershausen GmbH<br>Kesselbodenstrasse 7<br>85391 Allershausen<br>Germany |
+| NRW-GM 01 and NRW-GM 02 | BGS Beta-Gamma-Service GmbH & Co. KG<br>Fritz-Kotz-Str.16<br>51674 Wiehl<br>Germany |
+| D-BW-X-01 | Beta-Gamma-Service GmbH & Co. KG<br>John-Deere-Strasse 3<br>76646 Bruchsal<br>Germany |
+| 2835 | Scandinavian Clinics Estonia OÜ<br>Kurvi tee 406a,<br>Alliku kula,<br>76403 Saue vald,<br>Harjumaa<br>Estonia |
+| 5.00001/CU | Ionmed Esterilización, SA<br>C/Rocinante, Parc.50<br>(Polg. Ind. Tarancón)<br>16400 Tarancón (Cuenca)<br>Spain |
+| 5.00002/B | Aerogamma S.L.<br>Carretera Granollers a Cardeneu, Km. 3.5<br>08520 Les Franqueses del Vallés (Barcelona)<br>Spain |
+| 5.00005/SO | Mevion Technology, S.L.<br>Avda. De España, 1<br>Pol. Industrial Emiliano Revilla,<br>42110 Ólvega (Soria)<br>Spain |
+| 13055 F | Synergy Health<br>Rue Jean Queillau Marché des Arnavaux<br>13014 Marseille Cedex 14<br>France |
+| 72 264 F | Ionisos SA<br>Zone industrielle de l’Aubrée<br>72300 Sablé-sur-Sarthe<br>France |
+| 85 182 F | Ionisos SA<br>Zone industrielle Montifaud<br>85700 Pouzauges<br>France |
+| 01 142 F | Ionisos SA<br>Zone Industrielle les Chartinières<br>01120 Dagneux<br>France |
+| 10 093 F | Ionisos SA<br>Zone Industrielle<br>10500 Chaumesnil<br>France |
+| 541-02/03-IRB16-1 | Institut Ruder Bošković,<br>Bijenička 54,<br>10 000 Zagreb,<br>Croatia |
+| EU-AIF-04-2002 | AGROSTER Besugárzó Zártkörűen Működő Részvénytársaság<br>Budapest<br>Jászberényi út 5<br>1106<br>Hungary |
+| RAD 1/04 IT | Gammarad Italia SPA<br>Via Marzabotto 4<br>Minerbio (BO)<br>Italy |
+| GZB/VVB-991393 Ede | Synergy Health<br>Morsestraat 3<br>6716AH Ede<br>Netherlands |
+| GZB/VVB-991393 Etten-Leur | Synergy Health<br>Soevereinsestraat 2<br>4879 NN Etten-Leur<br>Netherlands |
+| GIS-HZ-4434-W.-2/MR/03 | Institute of Applied Radiation Chemistry<br>Technical University of Lodz<br>15 Wróblewskiego Str.<br>39-590 Łódź<br>Poland |
+| GIS-HZ-4434-W.-3/MR/03 | Institute of Nuclear Chemistry and Technology<br>16 Dorodna Str.<br>03-195 Warsaw<br>Poland |
+| RG016/2008 | Multipurpose Irradiation Facility<br>IRASM Technological Irradiations Department<br>Horia Hulubei<br>National Institute for Research and Development of Physics and Nuclear Engineering<br>Atomiştilor Str. No. 407<br>PO Box MG-6<br>Măgurele. Ilfov County<br>Romania |
+| EW/04 | Synergy Health<br>Moray Road<br>Elgin Industrial Estate<br>Swindon<br>Wiltshire<br>SN2 8XS<br>United Kingdom |
+
+## SCHEDULE 4 — LIST OF FACILITIES IN COUNTRIES OUTSIDE THE EUROPEAN UNION[^key-f36f8c34023c84e5fa73cd84d3623477]
+
+Regulation 5(1)(b)(ii)
+
+| Official reference number | Name and address |
+| --- | --- |
+| EU-AIF 01-2002 | HEPRO Cape (Pty) Ltd<br>6 Ferrule Avenue<br>Montague Gardens<br>Milnerton 7441<br>Western Cape<br>Republic of South Africa |
+| EU-AIF 02-2002 | Gammaster South Africa (Pty) Ltd<br>PO Box 3219<br>5 Waterpas Street<br>Isando Extension 3<br>Kempton Park 1620<br>Johannesburg<br>Republic of South Africa |
+| EU-AIF 03-2002 | Gamwave (Pty) Ltd<br>PO Box 26406<br>Isipingo Beach<br>Durban 4115<br>Kwazulu-Natal<br>Republic of South Africa |
+| EU-AIF 05-2004 | Gamma-Pak As<br>Yünsa Yolu N: 4 0SB<br>Cerkezköy/TEKIRDAG<br>TR-59500<br>Turkey |
+| EU-AIF 06-2004 | Studer Ag Werk Hard<br>Hogenweidstrasse 2<br>Däniken<br>CH-4658<br>Switzerland |
+| EU-AIF 07-2006 | Thai Irradiation Centre<br>Thailand Institute of Nuclear Technology<br>(Public Organisation)<br>37 Moo 3, TECHNOPOLIS<br>Klong 5, Klong Luang<br>Pathumthani 12120<br>Thailand |
+| EU-AIF 08-2006 | Synergy Health (Thailand) Ltd<br>700/465 Amata Nakorn Industrial<br>Moo 7, Tambon Donhuaroh,<br>Amphur Muang,<br>Chonburi 20000<br>Thailand |
+| EU-AIF 09-2010 | Board of Radiation and Isotope Technology<br>Department of Atomic Energy<br>BRIT/BARC Vashi Complex<br>Sector 20, Vashi<br>Navi Mumbai – 400 705 (Maharashtra)<br>India |
+| EU-AIF 10-2010 | Board of Radiation and Isotope Technology<br>ISOMED<br>Bhabha Atomic Research Centre<br>South Site Gate, Refinery Road<br>Next to TATA Power Station, Trombay<br>Mumbai – 400 085 (Maharashtra)<br>India |
+| EU-AIF 11-2010 | Microtrol Sterilisation Services Pvt. Ltd<br>Plot No. 14 Bommasandra- Jigani Link Road Industrial Area<br>KIADB, Off Hosur Road<br>Hennagarra Post<br>Bengalooru – 562 106 (Karnataka)<br>India |
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations apply in relation to Wales only and restrict the treatment of food with ionising radiation (irradiation) and the importation, storage and transport for the purpose of sale, and sale, of irradiated food.
+
+**2.** The Regulations revoke and re-enact the instruments specified in paragraph 4(k) below with modifications which give complete effect to the provisions specified in paragraph 3 below.
+
+**3.** The Regulations give effect to the provisions of—
+
+- (a) Directive [1999/2/EC](https://www.legislation.gov.uk/european/directive/1999/0002) of the European Parliament and of the Council on the approximation of the laws of Member States concerning foods and food ingredients treated with ionising radiation (OJ No. L66, 13.3.99, p.16);
+- (b) Directive [1999/3/EC](https://www.legislation.gov.uk/european/directive/1999/0003) of the European Parliament and of the Council on the establishment of a Community list of foods and food ingredients treated with ionising radiation (OJ No. L66, 13.3.99, p.24);
+- (c) Commission Decision [2002/840/EC](https://www.legislation.gov.uk/european/decision/2002/0840) adopting the list of approved facilities in third countries for the irradiation of foods (OJ No. L287, 25.10.2002, p.40);
+- (d) [^c19812621]Commission List of 3 September 2004 of approved facilities for the treatment of foods and food ingredients with ionising radiation in the Member States ;
+- (e) Commission Decision [2004/691/EC](https://www.legislation.gov.uk/european/decision/2004/0691) amending Decision [2002/840/EC](https://www.legislation.gov.uk/european/decision/2002/0840) adopting the list of approved facilities in third countries for the irradiation of foods (OJ No. L314, 13.10.2004, p.14); and
+- (f) Commission Decision [2007/802/EC](https://www.legislation.gov.uk/european/decision/2007/0802) amending Decision 2002/840 as regards the list of approved facilities in third countries for the irradiation of foods (OJ No. L323, 8.12.87, p.40).
+
+**4.** As well as making minor and drafting changes, the Regulations—
+
+- (a) define “properly irradiated food” (*regulation 3(2) and Schedule 1*);
+- (b) prohibit the irradiation of food unless it is wholesome and is irradiated in accordance with the Regulations and with a licence (*regulation 4(1)*);
+- (c) provide for the issue and contents of licences, the requirements to be observed by a licensee, and the variation, cancellation or suspension of licences (*regulation 4(2) and Schedule 2*);
+- (d) restrict the importation of irradiated food (*regulation 5*);
+- (e) restrict its storage or transport (*regulation 6*);
+- (f) restrict its sale (*regulation 7*);
+- (g) require the documents which accompany irradiated food to contain certain information (*regulation 8*);
+- (h) provide for their enforcement (*regulation 9*);
+- (i) create offences and prescribe penalties (*regulation 10*);
+- (j) apply various provisions of the Food Safety Act 1990 for the purposes of the Regulations (*regulation 11*); and
+- (k) revoke the Food (Control of Irradiation) Regulations 1990/2490 so far as they apply in relation to Wales and regulations 2 to 16 of the Food Irradiation Provisions (Wales) Regulations 2001/1232 (W.66) (*regulation 12*).
+
+**5.** A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Food Safety and Enforcement Division for Wales, Food Standards Agency Wales, 11th Floor, Southgate House, Wood Street, Cardiff, CF10 1EW.
+
+## Annotations
+
+[^c19812461]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16): section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Section 17 was amended by paragraph 12, section 19 was amended by paragraph 14 and section 48 was amended by paragraph 21, of Schedule 5 to the Food Standards Act [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28) (“**the 1999 Act**”). Section 48 was also amended by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Section 26(3) was amended by Schedule 6 to the 1999 Act. Section 53(2) was amended by paragraph 19 of Schedule 16 to the Deregulation and Contracting Out Act [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [Schedule 6](https://www.legislation.gov.uk/ukpga/1994/40/schedule/6) to the 1999 Act and [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990).
+
+[^c19812471]: Marginal citation: Functions of “the Ministers” so far as exercisable in relation to Wales were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999/672 as read with section 40(3) of the 1999 Act and thereafter transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (2006 c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^c19812481]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation (EC) No.202/2008 amending Regulation (EC) No. 178/2002 of the European Parliament and of the Council as regards the number and names of the Scientific Panels of the European Food Safety Authority (OJ No. L60, 5.3.2008, p.17).
+
+[^key-b1e81215b33b7998befe27bf50601f65]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2009/1795) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-a15c36900576ed033c7fa2a67bcf7171]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/2/a)
+
+[^key-ae3a5ec08c2bd20dfd9e7c3b5f9d764f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/2/b)
+
+[^key-1c3174ff375aeee0dc44faa3467d23d8]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/5/1/b) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/3/a)
+
+[^key-8f85d0465ec688fc2abdb7940e7c6d2e]: Textual amendment: Word in [reg. 5(1)(d)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/5/1/d) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/3/b)
+
+[^M_F_b2d44218-a5e8-4e21-8de3-d965f069a1b9]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+
+[^c19812491]: Marginal citation: OJ No. L66, 13.3.1999, p.16, as amended by Regulation (EC) No. 1882/2003 (OJ No. L284, 31.10.2003, p.1).
+
+[^c19812501]: Marginal citation: Inserted into the Food Safety Act 1990 by the Food Standards Act 1999, by virtue of section 40(1) and Schedule 5 paragraph 16.
+
+[^c19812511]: Marginal citation: [S.I. 1990/2490](https://www.legislation.gov.uk/uksi/1990/2490).
+
+[^c19812521]: Marginal citation: [S.I. 2001/1232](https://www.legislation.gov.uk/uksi/2001/1232) (W. 66).
+
+[^c19812531]: Marginal citation: The Directive omits the word “average” after “overall”.
+
+[^c19812541]: Marginal citation: OJ No. L66, 13.3.1999, p.16.
+
+[^c19812611]: Marginal citation: A copy of the Code of Practice may be obtained from the Codex Alimentarius Commission, Food and Agriculture Organisation of the United Nations, Vialle della Terme di Caracalla, 0010, Rome.
+
+[^M_F_fd8a6737-92d3-4181-dd82-6f914fbc3044]: Textual amendment: Sch. 2 Pt. 3 para. 9(1)(b) substituted (20.10.2010) by [The Food Irradiation (Wales) (Amendment) Regulations 2010 (S.I. 2010/2289)](https://www.legislation.gov.uk/uksi/2010/2289), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2289/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2010/2289/regulation/4/1)
+
+[^key-b7bb076c8d5a7a45809b87a57d0db2e9]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2009/1795/schedule/3) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/wsi/2018/806/schedule/1)
+
+[^key-a1fb4ff175424b13670f7fd0d6d5227a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2009/1795/schedule/3) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(4)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/4)
+
+[^key-f36f8c34023c84e5fa73cd84d3623477]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2009/1795/schedule/4) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/806/schedule/2)
+
+[^c19812621]: Marginal citation: Published on the Commission website via http://ec.europa.eu/food/food/biosafety/irradiation.comm\_ legisl\_en.pdf. A hard copymay be obtained from the European Commission, DirectorateGeneral for Health and Consumers, B-1049 Brussels, Belgium.

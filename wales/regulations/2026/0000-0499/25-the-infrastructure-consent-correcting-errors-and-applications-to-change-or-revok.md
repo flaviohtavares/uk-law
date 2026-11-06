@@ -1,0 +1,1377 @@
+---
+title: The Infrastructure Consent (Correcting Errors and Applications to Change or Revoke Infrastructure Consent Orders) (Procedure) (Wales) Regulations 2026
+id: wsi/2026/25
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-02-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2026/25
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2026/25/pdfs/wsi_20260025_mi.pdf
+- http://www.legislation.gov.uk/wsi/2026/25/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Infrastructure Consent (Correcting Errors and Applications to Change or Revoke Infrastructure Consent Orders) (Procedure) (Wales) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 25
+
+INFRASTRUCTURE PLANNING, WALES
+
+The Infrastructure Consent (Correcting Errors and Applications to Change or Revoke Infrastructure Consent Orders) (Procedure) (Wales) Regulations 2026
+
+Made
+
+2 February 2026
+
+Coming into force
+
+16 March 2026
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 40(5) and (6)(a) to (c), 42(4) and (6), 44(1), (2) and (4), 65(4), 88, 91(1), (3) and (5), 96(7)(b), 140(1) and (2)[^f00001] and 141(2) of the Infrastructure (Wales) Act 2024[^f00002], make the following Regulations.
+
+## Part 1 — Preliminary
+
+### 1. Title and coming into force
+
+The title of these Regulations is the Infrastructure Consent (Correcting Errors and Applications to Change or Revoke Infrastructure Consent Orders) (Procedure) (Wales) Regulations 2026 and they come into force on 16 March 2026.
+
+### 2. General interpretation, notices, plans etc.
+
+(1) In these Regulations—
+
+- “**the 2024 Act**” (“***Deddf 2024***”) means the Infrastructure (Wales) Act 2024;
+- “**the 2025 Applications Regulations**” (“***Rheoliadau Ceisiadau 2025***”) means the Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025[^f00003];
+- “**the 2025 Compulsory Acquisition Regulations**” (“***Rheoliadau Caffael Gorfodol 2025***”) means the Infrastructure Consent (Compulsory Acquisition) (Wales) Regulations 2025[^f00004];
+- “**additional interested person**” (“***person ychwanegol a chanddo fuddiant***”) means—
+  - (a) an interested person who has not been given notice of a proposed application in accordance with regulation 9(2)(a)(x);
+  - (b) an interested person who has not been given notice of an application in accordance with regulation 20(3);
+- “**applicant**” (“***ceisydd***”) means a person who proposes to make, or has made an application (as the case may be);
+- “**application**” (“***cais***”) means an application under section 90 of the 2024 Act (applications to change or revoke an infrastructure consent order);
+- “**application for a material change**” (“***cais am newid sylweddol***”) has the meaning given in regulation 9(1)(b)(i);
+- “**application for a non-material change**” (“***cais am newid ansylweddol***”) has the meaning given in regulation 15(1)(b);
+- “**application for revocation**” (“***cais am ddirymiad***”) has the meaning given in regulation 9(1)(b)(ii);
+- “**book of reference**” (“***cyfeirlyfr***”) has the meaning given in regulation 13 of the 2025 Compulsory Acquisition Regulations;
+- “**compulsory acquisition request**” (“***archiad caffael gorfodol***”) means a request to authorise compulsory acquisition of land, or an interest in or right over land;
+- “**cross-referencing document**” (“***dogfen groesgyfeirio***”) means a document in the form published by the Welsh Ministers, or in a form substantially to the same effect, that cross-references representations from interested persons received during the pre-application representation period or the post-application representation period with the book of reference;
+- “**development**” (“***datblygiad***”) has the meaning given in section 133 of the 2024 Act;
+- “**EIA development**” (“***datblygiad AEA***”) means activity that—
+  - (a) is “**EIA development**” as defined in regulation 2(1) of the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017[^f00005], or
+  - (b) requires an environmental impact assessment in accordance with regulation 2A or Part 2 of the Marine Works (Environmental Impact Assessment) Regulations 2007[^f00006];
+- “**examining authority**” (“*awdurdod archwilio*”*)* means a person or panel of persons appointed under section 40(2) of the 2024 Act in respect of a particular application;
+- “**infrastructure consent**” (“***cydsyniad seilwaith***”) means the consent required by section 19 of the 2024 Act;
+- “**infrastructure consent order**” (“***gorchymyn cydsyniad seilwaith***”) means an order made under the 2024 Act granting infrastructure consent;
+- “**interested person**” (“*person a chanddo fuddiant*”*)* means in the case of a proposed application or application, a person who the applicant, after making diligent inquiry, knows to be a person interested in the land to which a compulsory acquisition request relates or any part of that land;
+- “**land**” (“***tir***”) includes buildings, monuments and land covered with waters (including the sea bed);
+- “**material change**” (“***newid sylweddol***”) means a change to an infrastructure consent order which the Welsh Ministers are satisfied is material;
+- “**non-material change**” (“***newid ansylweddol***”) means a change to an infrastructure consent order which the Welsh Ministers are satisfied is not material;
+- “**notice of acceptance**” (“***hysbysiad derbyn***”) means a notice given under regulation 7(3);
+- “**notice of proposed application**” (“***hysbysiad o gais arfaethedig***”) means a notice given in accordance with regulation 6;
+- “**original applicant**” (“***ceisydd gwreiddiol***”) means, in relation to an infrastructure consent order, the person who applied for the order;
+- “**original specialist consultee**” (“***ymgynghorai arbenigol gwreiddiol***”) means any person given notice under regulation 23(1)(b) of the 2025 Applications Regulations of the application for infrastructure consent under section 32 of the 2024 Act to which the relevant infrastructure consent order relates;
+- “**original statutory consultee**” (“***ymgynghorai statudol gwreiddiol***”) means any person given notice under regulation 23(1)(a) of the 2025 Applications Regulations of the application for infrastructure consent under section 32 of the 2024 Act to which the relevant infrastructure consent order relates;
+- “**planning authority**” (“***awdurdod cynllunio***”) means the local planning authority within the meaning given by Part 1 of the Town and Country Planning Act 1990[^f00007] (but see regulation 25(2));
+- “**post-application representation period**” (“***cyfnod ar gyfer sylwadau ar ôl gwneud cais***”) means the period ending with the deadline specified in a notice of application given under regulation 20 or 21 (as the case may be) as required by regulation 22(1)(e) in respect of a particular application;
+- “**pre-application representation period**” (“***cyfnod ar gyfer sylwadau cyn gwneud cais***”) means the period ending with the deadline specified in a notice of proposed application given under regulation 9, 10 or 12 (as the case may be) as required by regulation 11(1)(k) in respect of a particular application;
+- “**relevant claim**” (“***hawliad perthnasol***”) means—
+  - (a) a claim under section 10 of the Compulsory Purchase Act 1965[^f00008] (compensation where satisfaction not made for compulsory purchase of land or not made for injurious affection resulting from compulsory purchase);
+  - (b) a claim under Part 1 of the Land Compensation Act 1973[^f00009] (compensation for depreciation of land value by physical factors caused by use of public works);
+  - (c) a claim under section 101(3) of the 2024 Act;
+- “**representation**” (“***sylw***”) includes evidence;
+- “**specialist consultee**” (“***ymgynghorai arbenigol***”) means where the proposed application or application includes a request to authorise development of a kind set out in the second column of the table in the Schedule, the person mentioned in the fourth column of that table in relation to that kind of development;
+- “**statutory consultee**” (“***ymgynghorai statudol***”) means where the proposed application or application includes a request to authorise development of a kind set out in the second column of the table in the Schedule, the person mentioned in the third column of that table in relation to that kind of development;
+- “**the relevant infrastructure consent order**” (“***y gorchymyn cydsyniad seilwaith perthnasol***”) means the infrastructure consent order to which the proposed application or application relates;
+- “**the relevant land**” (“***y tir perthnasol***”) means—
+  - (a) in the case of a proposed application or an application to change an infrastructure consent order which grants infrastructure consent for development in Wales, the land to which the proposed application or application relates, or any part of that land;
+  - (b) in the case of a proposed application or application to revoke an infrastructure consent order which grants infrastructure consent for development in Wales, the land to which the relevant infrastructure consent order relates, or any part of that land;
+- “**Wales**” (“***Cymru***”) means the combined area of the counties and county boroughs in Wales (see Parts 1 and 2 of Schedule 4 to the Local Government Act 1972[^f00010]);
+- “**Welsh marine area**” (“***ardal forol Cymru***”) means the sea adjacent to Wales out as far as the seaward boundary of the territorial sea, and the question of which parts of the sea are adjacent to Wales is to be determined in accordance with article 6 of the National Assembly for Wales (Transfer of Functions) Order 1999[^f00011].
+
+(2) See section 136 of the 2024 Act in relation to provision in these Regulations which requires or authorises a person to—
+
+- (a) notify another person of something, or
+- (b) give a document to another person (whether the provision uses the word “**serve**”, “**give**” or other term).
+
+(3) Any plans or drawings required under these Regulations must be drawn to an identified scale and in the case of plans—
+
+- (a) where the relevant infrastructure consent order grants infrastructure consent for development in Wales, show the direction of north, and
+- (b) where the relevant infrastructure consent order grants infrastructure consent for development in the Welsh marine area, contain co-ordinates showing the location to which the proposed application, or the application, relates.
+
+(4) In paragraph (3), “**co-ordinates**” means—
+
+- (a) co-ordinates of latitude and longitude using the world Geodetic System 1984[^f00012], or
+- (b) co-ordinates on the National Grid used by Ordnance Survey.
+
+(5) Part 3 of these Regulations prescribes the procedure for the purposes of section 65(4) of the 2024 Act (land to which authorisation of compulsory acquisition can relate) so far as it makes provision in respect of a proposed application or application which includes a compulsory acquisition request.
+
+## Part 2 — Correction of errors
+
+### 3. Correcting errors: consultation
+
+(1) Before the Welsh Ministers exercise the power in section 87(2) of the 2024 Act (power to correct errors in decision documents), they must consult the following—
+
+- (a) the original applicant,
+- (b) where the decision document relates to the grant or refusal of infrastructure consent for development in Wales, each planning authority for the area in which the development for which infrastructure consent was granted or requested is located,
+- (c) where the decision document relates to the grant or refusal of infrastructure consent for development in the Welsh marine area, Natural Resources Wales,
+- (d) where the Welsh Ministers have received a request in writing to correct an error, the person who made the request, if that person has not been given notice under sub-paragraphs (a) to (c), and
+- (e) any other person the Welsh Ministers consider appropriate.
+
+(2) In carrying out consultation under paragraph (1), the Welsh Ministers must give the persons consulted a notice containing the following information—
+
+- (a) a statement that the Welsh Ministers are considering making a correction, giving reasons as to why they are considering making the correction, and
+- (b) details of the proposed correction.
+
+(3) Where the Welsh Ministers give notice under paragraph (2), they must not exercise the power in section 87(2) of the 2024 Act before the end of 21 days beginning with the day after the date the Welsh Ministers give notice under that paragraph.
+
+(4) In this Part “**decision document**” and “**error**” have the same meaning as in section 86 of the 2024 Act.
+
+### 4. Correcting errors: decision notice
+
+(1) Following consultation under regulation 3, the Welsh Ministers must give notice of their decision (“**correction of errors decision notice**”) to the persons consulted under that regulation.
+
+(2) A correction of errors decision notice must—
+
+- (a) specify the correction of the error, or
+- (b) give notice of the decision not to correct the error, and
+- (c) give reasons for the Welsh Ministers’ decision.
+
+(3) The Welsh Ministers must publish a correction of errors decision notice in such manner as they consider appropriate.
+
+(4) In this regulation and regulation 5, “**correction of errors decision notice**” has the meaning given in paragraph (1).
+
+### 5. Correcting errors: effect of a decision
+
+(1) If the Welsh Ministers correct an error in a decision document under section 87(2) of the 2024 Act—
+
+- (a) the original decision and the decision document containing it continue in force,
+- (b) where the decision document is a notice of refusal of infrastructure consent, it is treated as corrected as specified in the correction of errors decision notice with effect from the date that notice is given, and
+- (c) where the decision document is an infrastructure consent order, the correction takes effect on the date specified in the order made by the Welsh Ministers under section 87(4) of the 2024 Act.
+
+(2) If a correction is not made the original decision and decision document containing it continue to have effect.
+
+## Part 3 — Applications to change or revoke an infrastructure consent order
+
+### Chapter 1 — Pre-application procedure
+
+#### 6. Notice of proposed application
+
+(1) An applicant must notify the Welsh Ministers of a proposed application (“**notice of proposed application**”).
+
+(2) A notice of proposed application must contain the following information—
+
+- (a) the reference number of the relevant infrastructure consent order,
+- (b) a statement confirming whether the proposed application is to change or revoke an infrastructure consent order,
+- (c) where the proposed application is to change an infrastructure consent order—
+  - (i) a description of the change, and
+  - (ii) where the proposed application includes a compulsory acquisition request, a statement to that effect,
+- (d) where the proposed application is to revoke an infrastructure consent order—
+  - (i) where the applicant is a planning authority, a statement explaining how the authority considers the conditions in section 90(4) of the 2024 Act are met;
+  - (ii) in any other case, a statement giving reasons for the proposed application, and
+- (e) where the proposed application relates to EIA development, a statement to that effect.
+
+(3) A notice of proposed application must be accompanied by—
+
+- (a) any documents, plans or other information that are relevant to the proposed application, and
+- (b) any fee required to be paid in relation to the giving of the notice.
+
+#### 7. Deciding on acceptance of a notice of proposed application and notifying the applicant
+
+(1) Where the Welsh Ministers receive a notice of proposed application, they must decide whether to accept the notice.
+
+(2) The Welsh Ministers must accept a notice of proposed application if it complies with the requirements imposed by regulation 6.
+
+(3) If the Welsh Ministers accept the notice of proposed application, they must give notice of their decision to the applicant (“**notice of acceptance**”) within 28 days beginning with the day after the receipt of the notice of proposed application.
+
+(4) The Welsh Ministers must include in the notice of acceptance—
+
+- (a) the date of the notice, and
+- (b) if the proposed application is to change an infrastructure consent order, a statement as to whether the change is a material change or a non-material change.
+
+(5) Where the proposed application is to make a non-material change, the Welsh Ministers may include provision in the notice of acceptance that—
+
+- (a) the notice of proposed application is to be treated as an application, and
+- (b) the applicant is not required to comply with regulation 15.
+
+(6) If the Welsh Ministers do not accept the notice of proposed application, they must give notice of their decision to the applicant, giving reasons for the decision, within 28 days beginning with the day after the receipt of the notice of proposed application.
+
+#### 8. Website
+
+(1) Where a notice of acceptance has been given, the applicant must publish the following information on a website —
+
+- (a) a copy of the notice of proposed application, including any documents, plans or other information which accompanied the notice of proposed application, and
+- (b) a copy of the notice of acceptance.
+
+(2) The information referred to in paragraph (1) must be published as soon as reasonably practicable after receipt of the notice of acceptance.
+
+#### 9. Notices and publicity of a proposed application for a material change or for revocation: development in Wales
+
+(1) This regulation applies where—
+
+- (a) a notice of acceptance has been given,
+- (b) the proposed application is either—
+  - (i) an application where the notice of acceptance confirms the proposed application relates to a material change (“**application for a material change**”), or
+  - (ii) an application for revocation of an infrastructure consent order (“**application for revocation**”), and
+- (c) the relevant infrastructure consent order grants infrastructure consent for development in Wales.
+
+(2) The applicant must—
+
+- (a) give written notice to—
+  - (i) any person entitled to make an application under section 90(3) of the 2024 Act, if that person is not the applicant,
+  - (ii) any person who, if the relevant infrastructure consent order were to be changed as requested in the proposed application and fully implemented, would or might be entitled to make a relevant claim,
+  - (iii) any owner or occupier of land adjoining the relevant land,
+  - (iv) each planning authority for an area of the relevant land, if that planning authority is not the applicant,
+  - (v) if the relevant land is located in an area for which there is a community council, the community council,
+  - (vi) each member of the Senedd representing an area of the relevant land,
+  - (vii) each member of the House of Commons representing an area of the relevant land,
+  - (viii) any statutory and specialist consultees,
+  - (ix) in the case of a proposed application for revocation, all original statutory and specialist consultees,
+  - (x) where the proposed application includes a compulsory acquisition request, any interested person,
+  - (xi) in the case of a proposed application for revocation where the relevant infrastructure consent order includes provision authorising the compulsory acquisition of land, any person notified under regulation 5(2), 7(2) or 15(2) of the 2025 Compulsory Acquisition Regulations, and
+  - (xii) any other person the applicant considers appropriate,
+- (b) display a notice in a conspicuous place on or near the relevant land for at least 4 weeks (“**site notice**”), and
+- (c) publish a notice in one or more newspapers circulating in the locality of the relevant land for at least 7 days.
+
+(3) A site notice must be displayed at intervals of not more than 5 km, unless it is impracticable to do so, where—
+
+- (a) the proposed application relates to a linear scheme that is more than 5 km in length;
+- (b) in the case of a proposed application for revocation, the relevant infrastructure consent order grants infrastructure consent for development that relates to a linear scheme that is more than 5 km in length.
+
+(4) Where a site notice is, without the fault of the applicant, removed, obscured or defaced before the end of the 4 weeks, the applicant is treated as having complied with the requirements of paragraphs (2)(b) and (3) if it has taken reasonable steps for the protection of the site notice and, if necessary, replaced it.
+
+(5) A notice given, displayed or published under this regulation must contain the information specified in regulation 11.
+
+#### 10. Notices and publicity of a proposed application for a material change or revocation: development in the Welsh marine area
+
+(1) This regulation applies where—
+
+- (a) a notice of acceptance has been given,
+- (b) the proposed application is an application for a material change or an application for revocation, and
+- (c) the relevant infrastructure consent order grants infrastructure consent for development in the Welsh marine area.
+
+(2) The applicant must—
+
+- (a) give written notice to –
+  - (i) any person entitled to make an application under section 90(3) of the 2024 Act, if that person is not the applicant,
+  - (ii) Natural Resources Wales,
+  - (iii) any planning authority considered appropriate by the applicant,
+  - (iv) any community council considered appropriate by the applicant,
+  - (v) any Member of the Senedd considered appropriate by the applicant,
+  - (vi) any Member of the House of Commons considered appropriate by the applicant,
+  - (vii) any statutory and specialist consultees,
+  - (viii) in the case of a proposed application for revocation, all original statutory and specialist consultees, and
+  - (ix) any other person the applicant considers appropriate, and
+- (b) publish a notice for at least 7 days in—
+  - (i) one or more local newspapers which are likely to come to the attention of those likely to be affected by the order sought in the proposed application,
+  - (ii) at least one appropriate fishing journal if one is in circulation, and
+  - (iii) Lloyd’s list.
+
+(3) A notice given or published under this regulation must contain the information specified in regulation 11.
+
+#### 11. Information to be contained in notices under regulations 9, 10 and 12
+
+(1) Notices given, displayed or published under regulations 9, 10 and 12 must contain the following information—
+
+- (a) contact details for the applicant, including a postal and email address and telephone number,
+- (b) the reference number of the relevant infrastructure consent order,
+- (c) a statement that the applicant intends to make an application for a material change or an application for revocation (as the case may be),
+- (d) if the proposed application is an application for a material change, a description of the change,
+- (e) if the proposed application is for revocation—
+  - (i) where the applicant is a planning authority, a statement explaining how the authority considers the conditions in section 90(4) of the 2024 Act are met;
+  - (ii) in all other cases, a statement giving reasons for the proposed application,
+- (f) where the proposed application relates to EIA development, a statement to that effect,
+- (g) if the proposed application includes a compulsory acquisition request—
+  - (i) a statement to that effect, and
+  - (ii) details of the land included in the compulsory acquisition request,
+- (h) details of the website under regulation 8 and an address at which documents published on that website can be viewed,
+- (i) the latest date on which copies of documents and plans will be available for viewing —
+  - (i) on the website under regulation 8, and
+  - (ii) at the address referred to in sub-paragraph (h),
+- (j) details of how representations on the proposed application are to be made, and
+- (k) the latest date by which representations on the proposed application must be received.
+
+(2) The latest date referred to in paragraph (1)(i) and (k) must be at least 28 days after whichever is the latest of the following dates—
+
+- (a) the date the notice was given,
+- (b) the date the notice was first displayed, or
+- (c) the date the notice was first published.
+
+#### 12. Notice of proposed application: additional interested persons
+
+(1) This regulation applies where—
+
+- (a) a proposed application for a material change includes a compulsory acquisition request, and
+- (b) the applicant identifies an additional interested person.
+
+(2) The applicant must give notice in writing of the proposed application to any additional interested person within 14 days starting with the day after the date on which the person is identified.
+
+(3) A notice under paragraph (2) must include the information specified in regulation 11.
+
+#### 13. Duty to take into account responses to notices and publicity
+
+(1) This regulation applies where a proposed application is either—
+
+- (a) an application for revocation, or
+- (b) an application for a material change.
+
+(2) When deciding whether to make an application on the same terms as the proposed application, the applicant must take into account any representations received during the pre-application representation period.
+
+### Chapter 2 — Application procedure
+
+#### 14. Period within which applications must be made
+
+(1) Subject to paragraph (2), an application must be made to the Welsh Ministers within 6 months beginning with the day after the date stated in the notice of acceptance relating to a proposed application.
+
+(2) The period in which an application must be made under paragraph (1) is extended by 28 days if—
+
+- (a) an additional interested person is given notice of the proposed application under regulation 12, and
+- (b) that notice is given within the period of 28 days ending with the date for making an application under paragraph (1).
+
+#### 15. Applications for a non-material change
+
+(1) This regulation and regulation 16 apply where—
+
+- (a) a notice of acceptance has been given,
+- (b) the notice of acceptance in relation to the particular proposed application confirms the proposed application relates to a non-material change (“**application for a non-material change**”), and
+- (c) the notice of acceptance in relation to the particular proposed application does not include provision under regulation 7(5) that the applicant’s notice of proposed application is to be treated as an application.
+
+(2) An application for a non-material change must—
+
+- (a) be on the form published by the Welsh Ministers or a form substantially to the same effect,
+- (b) be the same or substantially the same as the proposed application, and
+- (c) include—
+  - (i) the matters specified in the form,
+  - (ii) any documents, drawings and plans that are relevant to the application,
+  - (iii) a statement confirming whether the applicant is—
+    - (aa) the original applicant or a successor in title of that person,
+    - (bb) a person with an interest in the land to which the relevant infrastructure consent order relates, or
+    - (cc) any other person for whose benefit the relevant infrastructure consent order has effect, and
+  - (iv) any fee payable to the Welsh Ministers for making the application.
+
+(3) Where an application is made electronically the Welsh Ministers may request that the applicant deposits one hard copy of the application with them.
+
+(4) The Welsh Ministers must as soon as reasonably practicable after receiving an application—
+
+- (a) give notice of its receipt to the applicant;
+- (b) publish on a website the application including any documents, drawings and plans.
+
+#### 16. Applications for a non-material change: notices and publicity
+
+(1) As soon as reasonably practicable after receiving a notice under regulation 15(4)(a), the applicant must—
+
+- (a) give notice of the application to—
+  - (i) any person entitled to make an application under section 90(3) of the 2024 Act, if that person is not the applicant, and
+  - (ii) any other person who may be directly affected by the change proposed in the application,
+- (b) publish notice of the application for at least 7 days in one or more local newspapers which are likely to come to the attention of those likely to be affected by the change proposed in the application.
+
+(2) Notices given or published under paragraph (1) must contain the following information—
+
+- (a) contact details for the applicant, including a postal and email address and telephone number,
+- (b) a statement that the applicant has made an application for a non-material change,
+- (c) a description of the proposed non-material change, and
+- (d) details of a website (if any) and an address where the application, including any documents, drawings and plans, can be viewed.
+
+(3) The applicant must as soon as reasonably practicable after taking the steps in paragraph (1), give the Welsh Ministers—
+
+- (a) a statement setting out the steps the applicant has taken to comply with paragraph (1), and
+- (b) a copy of the notice referred to in paragraph (1).
+
+(4) The Welsh Ministers must, as soon as reasonably practicable after receiving the statement and notice referred to in paragraph (3), give notice of receipt to the applicant.
+
+(5) The Welsh Ministers need not consider the application until they have received the statement and notice referred to in paragraph (3).
+
+#### 17. Applications for a material change or for revocation
+
+(1) This regulation applies to an application for a material change or an application for revocation.
+
+(2) An application must—
+
+- (a) be made on the form published by the Welsh Ministers or a form substantially to the same effect, and
+- (b) include—
+  - (i) the matters specified in the form,
+  - (ii) a pre-application publicity report,
+  - (iii) a plan identifying the location to which the application relates,
+  - (iv) where applicable, an environmental statement,
+  - (v) where an application includes a compulsory acquisition request—
+    - (aa) a book of reference,
+    - (bb) a statement of reasons justifying the compulsory acquisition request,
+    - (cc) a statement of funding explaining how the compulsory acquisition is to be funded,
+    - (dd) a plan identifying any land to which the compulsory acquisition request relates, including that land which would be protected from development, any land on which private rights would be extinguished and any replacement or special category land, and
+    - (ee) a cross-referencing document, and
+  - (vi) any other documents, drawings and plans considered necessary to support the application.
+
+(3) In this regulation—
+
+- (a) “**environmental statement**” has the meaning given in—
+  - (i) regulation 2(1) of the Marine Works (Environmental Impact Assessment) Regulations 2007, in a case where the relevant infrastructure consent order grants infrastructure consent for development in the Welsh marine area;
+  - (ii) regulation 2(1) of the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017, in a case where the relevant infrastructure consent order grants infrastructure consent for development in Wales;
+- (b) “**pre-application publicity report**” means a report giving details of—
+  - (i) the representations received—
+    - (aa) during the pre-application representation period, and
+    - (bb) following notice given to any additional interested person under regulation 12, and
+  - (ii) the account taken of those representations;
+- (c) “**replacement land**” has the meaning given in section 70 (commons, open spaces etc: compulsory acquisition of land) or 71 (commons, open spaces etc: compulsory acquisition of rights over land) of the 2024 Act (as the case may be);
+- (d) “**special category land**” means land identified as forming part of a common, open space, National Trust land, or fuel or field garden allotment.
+
+#### 18. Deciding on the validity of an application for a material change or for revocation and notifying the applicant
+
+(1) Where the Welsh Ministers receive an application for a material change or an application for revocation, they must decide whether or not to accept the application as a valid application.
+
+(2) An application is a valid application if—
+
+- (a) it is received by the Welsh Ministers within the period specified in regulation 14;
+- (b) it complies with the requirements of regulation 17.
+
+(3) If the Welsh Ministers accept the application the Welsh Ministers must give notice of the decision to the applicant.
+
+(4) If the Welsh Ministers decide that the application cannot be accepted the Welsh Ministers must give notice of their decision to the applicant giving reasons for their decision.
+
+(5) The Welsh Ministers must give notice under paragraph (3) or (as the case may be) (4) within 28 days beginning with the day after the day the Welsh Ministers receive the application.
+
+#### 19. Extending the timescale for validating an application for a material change or for revocation
+
+(1) The Welsh Ministers may make a direction extending the timescale for validating an application for a material change or an application for revocation.
+
+(2) Where the Welsh Ministers make a direction under paragraph (1), they must provide written notice to the applicant specifying the date by which a decision on the validity of the application will be made.
+
+#### 20. Applications for a material change or for revocation: notices and publicity
+
+(1) This regulation applies where the Welsh Ministers accept an application for a material change or an application for revocation as a valid application.
+
+(2) The applicant must, as soon as reasonably practicable after receiving a notice under regulation 18(3)—
+
+- (a) publish on a website the application including any documents, plans or other information as soon as reasonably practicable after receipt of the notice under regulation 18(3), and
+- (b) where the relevant infrastructure consent order grants infrastructure consent for development in Wales, give, display and publish notice of the application in accordance with paragraph (3), or
+- (c) where the relevant infrastructure consent order grants infrastructure consent for development in the Welsh marine area, give and publish notice of the application in accordance with paragraph (4).
+
+(3) The applicant must give, display and publish notice of the application in the same manner as a notice of proposed application is required to be given, displayed and published under regulation 9(2) to (4), but as if each reference to “**proposed application**” in that regulation read “**application**”.
+
+(4) The applicant must give and publish notice of the application in the same manner as a notice of proposed application is required to be given and published under regulation 10(2) but as if each reference to “**proposed application**” in that regulation read “**application**”.
+
+(5) A notice given, displayed or published under this regulation must contain the information specified in regulation 22.
+
+#### 21. Notice of application: additional interested persons
+
+(1) This regulation applies where—
+
+- (a) the application includes a compulsory acquisition request, and
+- (b) the applicant identifies an additional interested person.
+
+(2) The applicant must give notice of the application to any additional interested person within 14 days starting with the day after the date on which the person is identified.
+
+(3) A notice given under this regulation must contain the information specified in regulation 22.
+
+#### 22. Information to be contained in notices under regulations 20 and 21 and notifying the Welsh Ministers of representations
+
+(1) Notices given, displayed or published under regulations 20 and 21 must contain the following information—
+
+- (a) the information specified in regulation 11(1)(a), (b), (d) to (g), and (j) but as if each reference to “**proposed application**” in that regulation read “**application**”,
+- (b) a statement that the applicant has made an application for a material change or an application for revocation (as the case may be),
+- (c) details of the website under regulation 20(2)(a) and an address at which documents published on that website can be viewed,
+- (d) the latest date on which copies of documents and plans will be available for viewing —
+  - (i) on the website under regulation 20(2)(a), and
+  - (ii) at the address referred to in sub-paragraph (c), and
+- (e) the latest date by which representations on the application must be received.
+
+(2) The latest date referred to in paragraph (1)(d) and (e) must be at least 28 days after whichever is the latest of the following dates—
+
+- (a) the date the notice was given,
+- (b) the date the notice was first displayed, or
+- (c) the date the notice was first published.
+
+(3) The applicant must give the Welsh Ministers—
+
+- (a) copies of any representations on the application received during the post-application representation period as soon as reasonably practicable after the end of that period;
+- (b) copies of any representations received on the application from additional interested persons given notice under regulation 21, as soon as reasonably practicable after receipt of each representation.
+
+#### 23. Book of reference and cross-referencing document: updating
+
+(1) The details contained in each part of the book of reference provided under regulation 17 must be kept up to date by the applicant until the date a decision on the application is published under regulation 61(4).
+
+(2) Where the applicant updates the details in the book of reference, they must give notice of the change to the Welsh Ministers as soon as reasonably practicable.
+
+(3) Where an applicant receives representations on an application from an interested person or an additional interested person, they must update the cross-referencing document provided under regulation 17 until the date a decision on the application is published under regulation 61(4).
+
+(4) Where an applicant updates the cross-referencing document, they must provide the updated document to the Welsh Ministers as soon as reasonably practicable after the date the representation was received.
+
+## Part 4 — Examination procedure
+
+### Chapter 1 — General
+
+#### 24. Application of Part
+
+This Part applies where the Welsh Ministers appoint a person or a panel of persons to examine an application under section 40(2) of the 2024 Act.
+
+#### 25. Interpretation of Part 4 and reopened inquiry
+
+(1) In this Part—
+
+- “**determination of procedure**” (“***dyfarniad o’r weithdrefn***”) means a determination under section 42(1) of the 2024 Act or regulation 31(2);
+- “**further written representations**” (“*sylwadau ysgrifenedig pellach”)* means representations on the application that are made in accordance with regulation 40;
+- “**initial written representations**” (“***sylwadau ysgrifenedig cychwynnol***”) means representations that were made on the application during the representation period;
+- “**panel**” (“***panel***”) means a panel of persons appointed to examine an application under section 40(2) of the 2024 Act;
+- “**remotely**” (“***o bell***”) means by means of—
+  - (a) a live telephone link,
+  - (b) a live video link, or
+  - (c) any other equipment or facility that enables persons who are not in the same place to make representations at the hearing or local inquiry;
+- “**representation period**” (“***cyfnod ar gyfer sylwadau***”) means the post-application representation period in respect of a particular application;
+- “**timetable**” (“***amserlen***”) means a timetable in relation to the application prepared in accordance with regulation 33;
+- “**written representations**” (“***sylwadau ysgrifenedig***”) means initial written representations and any further written representations.
+
+(2) In this Part references to “the planning authority”[^f00013] are—
+
+- (a) where the relevant infrastructure consent order grants infrastructure consent for development in Wales, to the planning authority for an area of the relevant land;
+- (b) where the relevant infrastructure consent order grants infrastructure consent for development in the Welsh marine area, to the planning authority nearest to the area to which the application relates.
+
+(3) In this Part and regulation 67—
+
+- “**further representations**” (“***sylwadau pellach***”) means oral or written representations further to initial written representations;
+- “**interested party**” (“***parti a chanddo fuddiant***”) means—
+  - (a) the applicant;
+  - (b) any person who made initial written representations in respect of a particular application;
+  - (c) where an examination relates to an application that includes a compulsory acquisition request, any person identified in the book of reference.
+
+(4) Where a hearing or local inquiry is re-opened under these Regulations or under the 2024 Act, the provisions of these Regulations apply as if the hearing or inquiry had not been closed.
+
+### Chapter 2 — The examining authority etc.
+
+#### 26. Appointing a panel as an examining authority
+
+(1) If the Welsh Ministers appoint a panel of persons as the examining authority, it must appoint one of its members to chair the panel.
+
+(2) A change of, or vacancy in, the membership or chair of a panel does not affect—
+
+- (a) the matters done by, or in relation to, the panel before that change;
+- (b) the continuing identity of the panel.
+
+#### 27. Replacing a panel or person as examining authority
+
+(1) The Welsh Ministers may at any time—
+
+- (a) replace a panel with a person;
+- (b) replace a panel with a new panel;
+- (c) replace a person with a panel;
+- (d) replace a person with a new person.
+
+(2) The replacement examining authority may treat things done by or in relation to the previous examining authority as done, in whole or in part, by or in relation to that new panel.
+
+#### 28. Notification of examining authority
+
+(1) The Welsh Ministers must ensure that the applicant and the planning authority are notified of the name and contact details of the examining authority appointed—
+
+- (a) in the case of the first appointment, within 7 days beginning with the date that the appointment is made;
+- (b) in the case of any subsequent appointment, as soon as reasonably practicable.
+
+(2) The Welsh Ministers must notify the applicant and the planning authority as soon as reasonably practicable of any change of or to the examining authority.
+
+(3) The person who is the examining authority or the chair of the panel who is the examining authority must announce their appointment, name and the means of contacting them at the start of a hearing or local inquiry.
+
+#### 29. Allocation of functions by a panel
+
+(1) This regulation applies when a panel is appointed to examine an application.
+
+(2) The panel may allocate any part of the examination to any of its members.
+
+(3) Where the panel makes an allocation under paragraph (2)—
+
+- (a) anything that is done by, or to, the panel in connection with the allocated part of the examination, may be done by or to the member in question or by the panel, and
+- (b) findings and conclusions of the member in question are treated as findings and conclusions of the panel.
+
+(4) Paragraph (3)(b) is subject to any decision of the panel made on or before the allocation, as to the status of any such findings or conclusions.
+
+#### 30. Decision-making by a panel
+
+(1) A panel must make decisions by agreement of the majority of its members.
+
+(2) If the members of a panel with an even number of members are unable to reach a decision by agreement of the majority of its members, the chair of the panel has a casting vote.
+
+### Chapter 3 — Preparation for, and managing, examination
+
+#### 31. Determination of procedure
+
+(1) The examining authority must exercise its function under section 42(1) of the 2024 Act (determination of procedure) before—
+
+- (a) where the application includes a compulsory acquisition request and the examining authority is proposing that the request be examined other than at a hearing or a local inquiry, the end of 28 days beginning with the day after the last day of the representation period, or
+- (b) in any other case, the end of 14 days beginning with the day after the last day of the representation period.
+
+(2) An examining authority may vary a determination of procedure at any time before the application being examined is decided under regulation 61.
+
+#### 32. Meeting about examination procedure: compulsory acquisition
+
+(1) This regulation applies where—
+
+- (a) the application to be examined includes a compulsory acquisition request, and
+- (b) the examining authority is proposing to determine that the compulsory acquisition request be examined other than at a hearing or a local inquiry.
+
+(2) The examining authority must hold a meeting before determining the procedure for examining the application.
+
+(3) The examining authority must invite the following to the meeting—
+
+- (a) the applicant;
+- (b) all persons identified in the book of reference in respect of the particular application;
+- (c) any other person who the examining authority considers should be reasonably informed of the meeting.
+
+(4) The invitation must—
+
+- (a) state if the meeting is to be held partly or fully remotely and provide details of how the meeting may be attended;
+- (b) specify the date and time of the meeting which must be at least 14 days after the day on which the invitation is given;
+- (c) ask all persons identified in the book of reference in respect of the particular application to make representations about the procedure for examining the compulsory acquisition request.
+
+(5) Any person invited to the meeting may make representations, about the procedure for examining the compulsory acquisition request, in writing before the meeting takes place or at the meeting.
+
+(6) The examining authority may hold the meeting in the absence of any person given an invitation if it considers it appropriate.
+
+(7) The examining authority must prepare a note of the meeting and make it available as soon as reasonably practicable to any person who attended or was given an invitation to the meeting.
+
+#### 33. Timetable for examination
+
+(1) In the case of the examination of an application for a material change or an application for revocation, when the examining authority has made a determination of procedure, it must prepare a timetable for the examination of the application.
+
+(2) The timetable prepared under paragraph (1) must set out—
+
+- (a) the date by which the applicant may comment on any initial written representations that are relevant to the examination of the application,
+- (b) the topics on which any further representations are required,
+- (c) the persons (if any) who are invited to make further representations on any matter,
+- (d) which of any further representations are to be made in writing, at a hearing or at a local inquiry,
+- (e) the date by which any further written representations must be made,
+- (f) the date by which the applicant may comment in writing on any further written representations that are relevant to the examination of the application,
+- (g) the date by which the examining authority intends to report under section 52 of the 2024 Act (report to the Welsh Ministers) or regulation 51(2) (decision report), and
+- (h) any other date that the examining authority considers appropriate in order to manage the examination efficiently.
+
+(3) The examining authority may prepare a timetable for the examination of an application for a non-material change.
+
+(4) The examining authority may, if it considers it necessary or appropriate, vary a timetable prepared under this regulation at any time before the application is decided under Chapter 2 of Part 6 of these Regulations.
+
+#### 34. Notification of choice of procedure and timetable
+
+(1) The examining authority must notify the following of any determination of procedure, the initial timetable or a variation of a timetable—
+
+- (a) the applicant,
+- (b) the planning authority, and
+- (c) any other person who is invited to make further representations.
+
+(2) The examining authority may notify any other person it considers appropriate of any determination of procedure, timetable or variation of a timetable.
+
+(3) The examining authority must give any notification required by this regulation within the period of 5 working days, beginning—
+
+- (a) in the case of any determination of procedure, with the day after the determination;
+- (b) in the case of an initial timetable, with the day after the determination of procedure under section 42(1) of the 2024 Act;
+- (c) in the case of a variation of a timetable, with the day after the variation of the timetable.
+
+#### 35. Timing and place of, and participation in, hearing or local inquiry
+
+(1) This regulation applies where the examining authority determines that an application is to be examined, in whole or in part, at a hearing or local inquiry.
+
+(2) The examining authority is to decide who to invite to make further representations at a hearing or local inquiry but must invite the applicant to do so.
+
+(3) The examining authority is to decide—
+
+- (a) where and when to hold the hearing or local inquiry;
+- (b) whether to hold it (or any part of it) remotely.
+
+(4) To the extent that a hearing or local inquiry is held other than wholly or partly remotely, the examining authority must have regard to the desirability of holding it as close as possible to the location to which the application relates.
+
+(5) The examining authority must begin a hearing or local inquiry no later than 10 weeks beginning with the day after the end of the representation period unless—
+
+- (a) the applicant agrees otherwise, or
+- (b) paragraph (6) applies.
+
+(6) This paragraph applies where any of the following has occurred—
+
+- (a) the examining authority—
+  - (i) has made a determination that the application is to be examined on the basis of the application and any written representations, and
+  - (ii) makes a further determination under regulation 31(2),
+- (b) the examining authority has decided that the hearing or local inquiry will not take place wholly remotely and a suitable venue cannot be secured at a date to comply with paragraph (5), or
+- (c) the examining authority has decided that further written representations under regulation 40 are necessary before the hearing or local inquiry can begin, and they cannot reasonably be provided in time to comply with paragraph (5).
+
+(7) Where paragraph (6) applies, the examining authority must begin the hearing or local inquiry as soon as reasonably practicable after the period referred to in paragraph (5).
+
+(8) The examining authority must give the following at least 6 weeks’ notice in writing of the date, start time and the place of the hearing or local inquiry—
+
+- (a) the applicant,
+- (b) the planning authority,
+- (c) any person invited to make representations at a hearing or local inquiry, and
+- (d) any other person that the examining authority considers appropriate.
+
+#### 36. Publicity for hearing or local inquiry
+
+(1) Where the examining authority determines that an application is to be examined by way of hearing or local inquiry, the applicant must publish and display notice of the hearing or local inquiry in accordance with this regulation.
+
+(2) A notice containing the following information must be published in one or more newspapers circulating in the locality of the relevant land no later than 4 weeks before the first day of the hearing or local inquiry—
+
+- (a) a description of the application,
+- (b) a description of the location of the relevant land,
+- (c) the date and time of the hearing or local inquiry,
+- (d) the place of the hearing or local inquiry,
+- (e) details of any arrangements for broadcasting the hearing or local inquiry,
+- (f) the topics to be examined at the hearing or local inquiry,
+- (g) details of a place in the locality where the application and initial written representations can be inspected at all reasonable hours, and
+- (h) the address of the website where the application and initial written representations can be found.
+
+(3) A notice containing the information specified in paragraph (2) (“**site notice**”) must be displayed in a conspicuous place on or near the relevant land, for at least 4 weeks before the first day of the hearing or local inquiry.
+
+(4) A site notice must be displayed at intervals of not more than 5 km, unless it is impracticable to do so, where—
+
+- (a) the application relates to a linear scheme that is more than 5 km in length;
+- (b) in the case of an application for revocation the relevant infrastructure consent order grants infrastructure consent for development that relates to a linear scheme that is more than 5 km in length.
+
+(5) Where a site notice is, without the fault of the applicant removed, obscured or defaced before the end of the 4 weeks, the applicant is treated as having complied with paragraphs (3) and (4) if it has taken reasonable steps for the protection of the notice, and, if necessary, replaced it.
+
+(6) The applicant must as soon as reasonably practicable—
+
+- (a) send a copy of the notice published under paragraph (2) to the examining authority, and
+- (b) confirm to the examining authority that the notice required by paragraphs (3) and (4) has been displayed and provide a photograph of that notice in place.
+
+(7) If the relevant infrastructure consent order grants infrastructure consent for development in the Welsh marine area, references to “**the relevant land**” are to be read (except in paragraph (2)(b)) as references to land in Wales nearest the area to which the application relates.
+
+#### 37. Written statements of evidence
+
+(1) This regulation applies if any person invited to make further representations at a local inquiry proposes to give, or to call another person to give, evidence at the inquiry.
+
+(2) The examining authority may require the person to prepare a written statement of that evidence.
+
+(3) The person preparing the written statement must provide a summary of the written statement if it is more than 1,500 words.
+
+(4) The summary referred to in paragraph (3) must not be more than 1,500 words.
+
+(5) The person preparing the written statement must send a copy of the written statement and any summary to the examining authority by the date specified in the timetable.
+
+(6) The examining authority must, as soon as possible after it receives the written statement and any summary—
+
+- (a) send a copy of those documents to each person who is invited to make further representations at the inquiry, and
+- (b) ensure that a copy of those documents is available on the website referred to in regulation 38.
+
+(7) In this regulation, “**written statement**” means a statement prepared pursuant to paragraph (2).
+
+#### 38. Provision of website
+
+The Welsh Ministers must provide a website where copies of the application and other documents which are relevant to the examination can be found.
+
+### Chapter 4 — Examination
+
+#### 39. Initial written representations
+
+(1) The examining authority’s examination of the application is to include consideration of any initial written representations.
+
+(2) The examining authority must ensure that the applicant has the opportunity to comment on any initial written representation relevant to the examination.
+
+#### 40. Seeking further written representations
+
+(1) The examining authority may request further representations in writing at any time from any interested party.
+
+(2) Any person providing further representations in writing under paragraph (1) must provide them within 14 days beginning with the date that the examining authority makes the request.
+
+(3) The examining authority may extend the time limit in paragraph (2) in a particular case.
+
+(4) Any further written representations must not exceed 3,000 words.
+
+(5) The examining authority must provide the applicant with the opportunity to comment on any further written representations which are relevant to the examination of the application.
+
+(6) The examining authority must ensure that a copy of any further written representations is available on the website referred to in regulation 38.
+
+#### 41. Conduct of a hearing
+
+(1) This regulation applies where the examining authority determines that an application is to be examined, in whole or in part, at a hearing.
+
+(2) The examining authority is to preside at the hearing and is to decide—
+
+- (a) how to manage it;
+- (b) the topics to be discussed;
+- (c) the time allocated to those topics.
+
+(3) A hearing is to take the form of a discussion led by the examining authority.
+
+(4) At the opening of the hearing, the examining authority must—
+
+- (a) summarise the topics that the hearing will examine, and
+- (b) identify any further topics that the hearing will examine that were not identified in any timetable for the examination.
+
+(5) The examining authority may question a person who attends the hearing, but a person attending the hearing may not question another person who attends a hearing except where paragraph (6) applies.
+
+(6) The examining authority may allow a person who makes representations at the hearing (“**P**”) to question another person who makes representations at the hearing if the examining authority considers that it is necessary in order to ensure—
+
+- (a) adequate testing of any representation, or
+- (b) that P has a fair chance to make their case.
+
+(7) In the conduct of the hearing, the examining authority may in particular—
+
+- (a) proceed with the hearing in the absence of a person invited to attend;
+- (b) refuse to permit representations that it considers irrelevant or repetitious;
+- (c) exclude a person who is disruptive;
+- (d) refuse to permit a person who has been excluded for being disruptive to return;
+- (e) permit a person who has been excluded for being disruptive to return, subject to specified conditions;
+- (f) adjourn the hearing;
+- (g) invite any person who makes representations at the hearing to submit closing submissions in writing.
+
+(8) A person making closing submissions under paragraph (7)(g) must give them to the examining authority within 7 days beginning with the day after the last day of the hearing.
+
+(9) If the examining authority adjourns a hearing, it must give reasonable notice of the date, time and place of the resumption of the adjourned hearing, unless paragraph (10) applies.
+
+(10) If the examining authority adjourns a hearing and announces at the hearing the date, time and place of the resumption of the adjourned hearing, no further notice is required.
+
+(11) In this regulation and regulation 42, “**closing submissions**” means a summary of the main factual points and the main arguments made by the person submitting them, in relation to an application.
+
+#### 42. Conduct of a local inquiry
+
+(1) This regulation applies where the examining authority determines that an application is to be examined, in whole or in part, at a local inquiry.
+
+(2) The examining authority is to preside at a local inquiry and is to decide—
+
+- (a) how to manage it;
+- (b) the topics to be examined by way of local inquiry;
+- (c) the time allocated to those topics.
+
+(3) At the opening of the local inquiry, the examining authority must—
+
+- (a) summarise the topics that the inquiry will examine, and
+- (b) identify any further topics that the inquiry will examine that were not identified in any timetable for the examination.
+
+(4) The examining authority is to decide the order in which persons are called to give evidence at a local inquiry.
+
+(5) Any person who is invited to give evidence at a local inquiry may make a request to the examining authority to call another person to give evidence.
+
+(6) A person who takes part in a local inquiry is entitled to cross-examine another person who gives oral evidence to the inquiry.
+
+(7) The examining authority must permit a person who is cross-examined at a local inquiry to be re-examined.
+
+(8) In the conduct of the local inquiry, the examining authority may in particular—
+
+- (a) proceed with the inquiry in the absence of a person invited to attend it;
+- (b) refuse to permit evidence that it considers irrelevant or repetitious;
+- (c) exclude a person who is disruptive;
+- (d) refuse to permit a person who has been excluded for being disruptive to return;
+- (e) permit a person who has been excluded for being disruptive to return, subject to specified conditions;
+- (f) adjourn the inquiry;
+- (g) require closing submissions in writing within 7 days beginning with the day after the last day of the inquiry.
+
+(9) Any person who is required to leave a local inquiry may submit representations in writing to the examining authority before the close of the inquiry.
+
+(10) If the examining authority adjourns a local inquiry, it must give reasonable notice of the date, time and place of the resumption of the adjourned local inquiry, unless paragraph (11) applies.
+
+(11) If the examining authority adjourns a local inquiry and announces at that local inquiry the date, time and place of the adjourned local inquiry, no further notice is required.
+
+#### 43. Virtual meetings, hearings and local inquiries
+
+The examining authority must notify persons who are invited to take part in a meeting, or make representations at a hearing or local inquiry, that takes place remotely, of the arrangements to enable them to do so, as soon as reasonably practicable.
+
+#### 44. Broadcasting hearings and local inquiries
+
+(1) The examining authority may arrange for images or sounds of a hearing or local inquiry to be broadcast for the purpose of enabling persons who are not making representations at a hearing or local inquiry, or any part of it, to watch or listen to the proceedings.
+
+(2) The arrangements made under paragraph (1) may include arrangements for broadcasting to which individuals are given access only having first identified themselves to the examining authority.
+
+(3) Before making a decision under paragraph (1), the examining authority must consider—
+
+- (a) the need for proceedings to be open and transparent, as far as possible,
+- (b) any requests for proceedings to be broadcast, and
+- (c) the extent to which the technical, human and other resources necessary to facilitate effective observation by broadcasting are or can be made available.
+
+(4) The examining authority must notify the following, as soon as reasonably practicable, of any arrangements to broadcast a hearing or local inquiry—
+
+- (a) every interested party, and
+- (b) any other person that it considers appropriate.
+
+(5) This regulation is subject to any direction under section 48 of the 2024 Act.
+
+#### 45. Recording hearings and local inquiries
+
+(1) The examining authority may arrange for images or sounds of a hearing or local inquiry to be recorded for the purpose of enabling persons to watch or listen to the proceedings at a later date.
+
+(2) Any person may request access to any recording made under paragraph (1) from the examining authority at any time before the end of 6 months beginning with the date that—
+
+- (a) in the case of an order making a change to, or revoking an infrastructure consent order, the date the order is made, or
+- (b) in the case of a refusal of an application to change or revoke an infrastructure consent order, the date notice of refusal is given to the applicant under regulation 62 or 63 (as the case may be).
+
+(3) An examining authority must provide access to any recording on reasonable terms and within a reasonable time of any request under paragraph (2).
+
+(4) This regulation is subject to any direction under section 48 of the 2024 Act
+
+#### 46. Notification of appointments to assist examining authority
+
+(1) The examining authority must as soon as reasonably practicable notify all persons who are invited to make further representations of the name—
+
+- (a) of any assessor appointed to assist them under section 50 of the 2024 Act, and
+- (b) of any barrister or solicitor appointed to assist them under section 51 of the 2024 Act.
+
+(2) The examining authority must as soon as reasonably practicable notify all persons who are invited to make further representations of the matters in relation to which any assessor has been appointed to assist.
+
+#### 47. Restricting access to evidence at a local inquiry
+
+In relation to evidence specified in a direction under section 48(2) of the 2024 Act, references in these Regulations to the represented person, whether as the “**applicant**” or as an “**interested party**” are to be read as including references to a representative appointed under section 48(4) or (5) of the 2024 Act.
+
+#### 48. Examination management meetings
+
+(1) The examining authority may hold a meeting at any time before an application is decided, if it considers it appropriate.
+
+(2) The purpose of an examination management meeting is to enable the examining authority to decide—
+
+- (a) what may be done to ensure that the examination and matters preparatory or subsequent to it, are managed efficiently and expeditiously, and
+- (b) what practical arrangements to make in relation to the examination and matters preparatory or subsequent to it.
+
+(3) The examining authority is to preside at an examination management meeting and to decide—
+
+- (a) where and when to hold the meeting,
+- (b) whether to hold the meeting wholly or partly remotely,
+- (c) how to manage the meeting,
+- (d) the matters to be discussed, and
+- (e) the time allocated to those matters.
+
+(4) The examining authority is to decide who to invite to any examination management meeting, but it must invite the applicant.
+
+(5) The examining authority must give reasonable notice of the date, time and place of the examination management meeting to each person invited to attend it.
+
+(6) The notice of the examination management meeting must specify the purposes of the meeting and any matter which the examining authority wishes to discuss.
+
+(7) If a person invited to the examination management meeting or their representative is unwilling, unable or otherwise does not attend, the meeting may proceed.
+
+(8) As soon as reasonably practicable after the examination management meeting, the examining authority must prepare a note of the meeting and give it to the people invited to attend it.
+
+(9) In this regulation, “**examination management meeting**” means a meeting held under paragraph (1).
+
+### Chapter 5 — Procedure after written representations, hearing and local inquiry
+
+#### 49. Assessor’s report
+
+Where an assessor has been appointed under section 50 of the 2024 Act the assessor must make a written report to the examining authority on the matters in respect of which they were appointed to assist the examining authority.
+
+#### 50. Proceeding to a report or decision
+
+(1) The examining authority may make a report under section 52(2) of the 2024 Act disregarding any further written representations and supporting documents as were submitted after the time limit under regulation 40.
+
+(2) The examining authority or the Welsh Ministers (as the case may be) may proceed to a decision disregarding any further written representations and supporting documents as were submitted after the time limit under regulation 40
+
+(3) The examining authority may, after giving the applicant and the planning authority notice of their intention to do so, make a report under section 52(2) of the 2024 Act even though no further written representations were submitted within the time limit under regulation 40, if it appears to it that it has sufficient material before it to make a recommendation as to the decision on the application.
+
+(4) The examining authority or the Welsh Ministers (as the case may be) may, after giving the applicant and the planning authority notice of their intention to do so, proceed to a decision even though no further written representations were submitted within the time limit under regulation 40, if it appears to them that they have sufficient material before them to make a decision on the application.
+
+#### 51. Application to be decided by the examining authority
+
+(1) This regulation applies after the completion of an examination, where an application is to be decided by the examining authority.
+
+(2) The examining authority must write a report.
+
+(3) The report must—
+
+- (a) where an assessor is appointed under section 50 of the 2024 Act, state if the examining authority disagrees with any aspect of the assessor’s report and the reason for any disagreement,
+- (b) include the examining authority’s findings and conclusions in respect of the application, and
+- (c) include the examining authority’s decision in respect of the application.
+
+(4) If the examining authority proposes to take into consideration any new evidence or new fact before making a decision on the application, the examining authority must give all interested parties notice of the proposal and the reasons for it.
+
+(5) Where the examination has been wholly by way of written representations, the examining authority must give all interested parties the opportunity to make representations in writing on that new evidence or new fact by a specified date.
+
+(6) Where any part of the examination has been by way of hearing or local inquiry, the examining authority must notify the interested parties—
+
+- (a) that they may require the hearing or local inquiry to be re-opened to examine the new evidence or new fact, and
+- (b) of the date by which the interested parties must notify the examining authority of any request to re-open the examination to examine the new evidence or new fact.
+
+(7) The date specified under paragraph (5) or (6)(b) must be at least—
+
+- (a) 28 days from the date notice is given under paragraph (4), if the application relates to EIA development;
+- (b) 21 days from the date notice is given under paragraph (4), in any other case.
+
+(8) The examining authority—
+
+- (a) must re-open a hearing or a local inquiry to examine the new evidence or fact if an interested party so requests under paragraph (6), or
+- (b) may otherwise, if it considers it appropriate, re-open a hearing or a local inquiry to examine the new evidence or fact.
+
+(9) Where the examining authority re-opens a hearing or a local inquiry, it must send to the interested parties as soon as reasonably practicable, a written statement of the matters in respect of which further evidence is invited.
+
+(10) The examining authority must provide the written statement in paragraph (9) at least—
+
+- (a) 28 days before the first day of any re-opened hearing or local inquiry, if the application relates to EIA development;
+- (b) 21 days before the first day of any re-opened hearing or local inquiry, in any other case.
+
+#### 52. Application to be decided by the Welsh Ministers
+
+(1) This regulation applies after the completion of an examination of an application, where an application is to be decided by the Welsh Ministers.
+
+(2) Where an assessor is appointed under section 50 of the 2024 Act in addition to the requirements in section 52(2) of the 2024 Act, the examining authority’s report to the Welsh Ministers must state if the examining authority disagrees with any aspect of the assessor’s report and the reason for any disagreement.
+
+(3) Paragraph (4) applies if the Welsh Ministers—
+
+- (a) differ from the examining authority on any matter of fact mentioned in, or appearing to the Welsh Ministers to be material to, a conclusion of the examining authority, or
+- (b) propose to take into consideration any new evidence or new matter of fact.
+
+(4) The Welsh Ministers must not come to a decision which is at variance with the recommendation of the examining authority, without first taking the steps set out in paragraphs (5) to (7).
+
+(5) The Welsh Ministers must give all interested parties notice—
+
+- (a) of the difference in their view and their reasons for it, or
+- (b) of the new evidence or new fact.
+
+(6) Where the examination has been wholly by way of written representations, the examining authority must give all interested parties the opportunity to make representations in writing on that difference, new evidence or new fact by a specified date.
+
+(7) Where any part of the examination has been by way of hearing or local inquiry, the examining authority must notify the interested parties—
+
+- (a) that they may require the hearing or local inquiry to be re-opened to examine the difference, new evidence or new fact, and
+- (b) of the date by which the interested parties must notify the examining authority of any request to re-open the examination to examine the difference, new evidence or new fact.
+
+(8) The date specified under paragraph (6) or (7)(b) must be at least—
+
+- (a) 28 days from the date notice is given under paragraph (5), if the application relates to EIA development;
+- (b) 21 days from the date notice is given under paragraph (5), in any other case.
+
+(9) The examining authority—
+
+- (a) must re-open a hearing or a local inquiry to examine the difference, new evidence or fact if an interested party so requests under paragraph (7), or
+- (b) may otherwise, if it considers it appropriate, re-open a hearing or a local inquiry to examine the difference, new evidence or fact.
+
+(10) Where the examining authority re-opens a hearing or a local inquiry, it must send to the interested parties as soon as reasonably practicable, a written statement of the matters in respect of which further representations are invited.
+
+(11) The examining authority must provide the written statement in paragraph (10) at least—
+
+- (a) 28 days before the first day of any re-opened hearing or local inquiry, if the application relates to EIA development;
+- (b) 21 days before the first day of any re-opened hearing or local inquiry, in any other case.
+
+#### 53. Direction to re-open the examination
+
+Where the examining authority re-opens a hearing or a local inquiry pursuant to a direction by the Welsh Ministers under section 53(1) of the 2024 Act, it must send to the interested parties as soon as reasonably practicable a written statement of the matters in respect of which further evidence is invited.
+
+#### 54. Proposal to make materially different order
+
+(1) This regulation applies where the Welsh Ministers propose to make an order under section 90(1) of the 2024 Act—
+
+- (a) on terms which are in their opinion materially different from those proposed in the application, and
+- (b) whether as a result of a notice under regulation 61(2) or not.
+
+(2) The Welsh Ministers must—
+
+- (a) notify any person who seems to them to be likely to be affected,
+- (b) give that person an opportunity of making representations to them about the differences within a time specified in that notice, and
+- (c) consider the representations made during the time specified in that notice, before making an order under section 90(1) of the 2024 Act.
+
+## Part 5 — Procedure where no examination
+
+### 55. Procedure where no examination
+
+(1) This regulation applies where an examining authority is not appointed under section 40(2) of the 2024 Act to examine a particular application.
+
+(2) The Welsh Ministers must give notice to the persons specified in paragraph (4) that the application is not to be examined by an examining authority.
+
+(3) The Welsh Ministers must give notice under paragraph (2)—
+
+- (a) in the case of an application for a non-material change, as soon as reasonably practicable after they receive the notice and statement referred to in regulation 16(3);
+- (b) in the case of an application for a material change or an application for revocation, as soon as reasonably practicable after the end of the post-application representation period in respect of the particular application.
+
+(4) The persons to be notified under paragraph (2) are—
+
+- (a) the applicant,
+- (b) any persons who made representations on the application during the post-application representation period, and
+- (c) any other person the Welsh Ministers consider appropriate.
+
+(5) The notice under paragraph (2) must contain the following information—
+
+- (a) a statement that the application is not to be examined by an examining authority,
+- (b) the reasons why the Welsh Ministers consider it unnecessary for the application to be examined by an examining authority,
+- (c) details of how further representations on the application can be made, and
+- (d) the date by which further representations on the application must be received which must be at least 28 days after the notice is given.
+
+(6) The Welsh Ministers must publish the notice under paragraph (2) on a website.
+
+## Part 6 — Decisions and legal challenge etc.
+
+### Chapter 1 — Applications: decision maker, statutory policies and other relevant matters, and timetable
+
+#### 56. Function of deciding application
+
+(1) Where an examining authority is appointed under section 40(2) of the 2024 Act to examine a particular application, the examining authority has the function of deciding that application.
+
+(2) Paragraph (1) is subject to any direction made under paragraph (3).
+
+(3) In relation to any application, the Welsh Ministers may direct that they have the function of deciding the application instead of an examining authority.
+
+#### 57. Deciding applications to change an infrastructure consent order: general considerations
+
+(1) In deciding an application to change an infrastructure consent order which includes a request to authorise development, the examining authority or the Welsh Ministers (as the case may be) must—
+
+- (a) have regard to—
+  - (i) any infrastructure policy statement that has effect in relation to the kind of development to which the application relates (a “**relevant policy statement**”);
+  - (ii) the National Development Framework for Wales[^f00014] so far as relevant to the kind of development to which the application relates;
+  - (iii) any marine plan (within the meaning of section 51(3) of the Marine and Coastal Access Act 2009[^f00015]) prepared and adopted by the Welsh Ministers so far as relevant to the kind of development to which the application relates, and
+- (b) make their decision or its decision (as the case may be) in accordance with the relevant policy statement, framework or plan unless relevant considerations indicate otherwise.
+
+(2) The fact that any relevant policy statement, framework or plan identifies a location as suitable (or potentially suitable) for a particular kind of development does not prevent the Welsh Ministers or examining authority (as the case may be) from deciding an application otherwise than in accordance with the relevant policy statement, framework or plan if relevant considerations indicate otherwise.
+
+(3) In this regulation and regulation 59, “**infrastructure policy statement**” has the meaning given by section 127(2) of the 2024 Act.
+
+#### 58. Duty to have regard to specific matters when making decisions on applications
+
+In deciding an application, the examining authority or the Welsh Ministers (as the case may be) must have regard to—
+
+- (a) any examination carried out under Part 4 of these Regulations;
+- (b) the desirability of mitigating, and adapting to, climate change;
+- (c) any other relevant consideration.
+
+#### 59. Matters that may be disregarded when making decisions on applications
+
+In deciding an application, the Welsh Ministers or the examining authority may disregard representations if the Welsh Ministers consider, or the examining authority considers (as the case may be), that the representations—
+
+- (a) are vexatious or frivolous,
+- (b) relate to the merits of policy set out in—
+  - (i) an infrastructure policy statement,
+  - (ii) the National Development Framework for Wales, or
+  - (iii) any marine plan (within the meaning of section 51(3) of the Marine and Coastal Access Act 2009) prepared and adopted by the Welsh Ministers, or
+- (c) relate to compensation for compulsory acquisition of land or of an interest in or right over land.
+
+#### 60. Timetable for deciding application
+
+(1) Where an application is not examined by an examining authority, the Welsh Ministers must decide an application before the end of 8 weeks beginning with the day after the day the notice under regulation 55(2) is given.
+
+(2) Where an examining authority has the function of deciding an application, it must decide the application before the end of 12 weeks beginning with the day after—
+
+- (a) where an application is examined solely on the basis of the application and any written representations, the day the examining authority finishes examining the application and any written representations;
+- (b) where an application is examined, solely or in part, at a hearing or a local inquiry, the day the hearing or the local inquiry closes.
+
+(3) Where an application is examined and the Welsh Ministers have the function of deciding that application, they must decide the application before the end of 8 weeks beginning with the day after they receive a report under section 52 of the 2024 Act in respect of that application.
+
+(4) The Welsh Ministers may, by direction, extend the periods mentioned in paragraphs (1) to (3).
+
+(5) A direction may be given—
+
+- (a) more than once in relation to the same application;
+- (b) after the end of the periods mentioned in paragraphs (1) to (3).
+
+(6) As soon as reasonably practicable after giving the direction, the Welsh Ministers must—
+
+- (a) notify the applicant and any other person they consider appropriate of the direction, and
+- (b) publish the direction on a website.
+
+### Chapter 2 — Decisions on applications
+
+#### 61. Grant or refusal of application
+
+(1) When the Welsh Ministers have decided an application, they must either—
+
+- (a) make an order under section 90(1) of the 2024 Act changing or revoking (as the case may be) the relevant infrastructure consent order, or
+- (b) refuse the application.
+
+(2) When the examining authority has decided an application, it must either—
+
+- (a) notify the Welsh Ministers of its decision that an order changing or revoking (as the case may be) the relevant infrastructure consent order is to be made, or
+- (b) refuse the application.
+
+(3) Where the Welsh Ministers receive a notice under paragraph (2)(a) they must make an order in respect of the application to which the notice relates.
+
+(4) The Welsh Ministers or the examining authority (as the case may be) must publish their decision on a website as soon as reasonably practicable.
+
+#### 62. Notice of grant or refusal of applications where the relevant infrastructure consent order grants infrastructure consent for development in Wales
+
+(1) This regulation applies where—
+
+- (a) the examining authority or the Welsh Ministers have decided an application, and
+- (b) the relevant infrastructure consent order grants infrastructure consent for development in Wales.
+
+(2) The examining authority or the Welsh Ministers (as the case may be) must notify the following of the decision under regulation 61—
+
+- (a) the applicant,
+- (b) anyone entitled to make an application under section 90(3) of the 2024 Act, if that person is not the applicant,
+- (c) any person who, if the relevant infrastructure consent order were to be changed as requested in the application and fully implemented, would or might be entitled to make a relevant claim,
+- (d) any owner or occupier of land adjoining the relevant land,
+- (e) each planning authority for an area of the relevant land, if that planning authority is not the applicant,
+- (f) if the relevant land is located in an area for which there is a community council, the community council,
+- (g) each member of the Senedd representing an area of the relevant land,
+- (h) each member of the House of Commons representing an area of the relevant land,
+- (i) any statutory and specialist consultees,
+- (j) in the case of an application for revocation, all original statutory and specialist consultees,
+- (k) where the application included a compulsory acquisition request, any person listed in the book of reference in respect of the particular application,
+- (l) in the case of an application for revocation, where the relevant infrastructure consent order includes provision authorising the compulsory acquisition of land, any person notified under regulation 5(2), 7(2) or 15(2) of the 2025 Compulsory Acquisition Regulations, and
+- (m) any other person the examining authority considers or the Welsh Ministers consider (as the case may be) appropriate.
+
+#### 63. Notice of grant or refusal of applications where the relevant infrastructure consent order grants infrastructure consent for development in the Welsh marine area
+
+(1) This regulation applies where—
+
+- (a) the examining authority or the Welsh Ministers have decided an application, and
+- (b) the relevant infrastructure consent order grants infrastructure consent for development in the Welsh marine area.
+
+(2) The examining authority or the Welsh Ministers (as the case may be) must notify the following of the decision under regulation 61—
+
+- (a) the applicant,
+- (b) any person entitled to make an application under section 90(3) of the 2024 Act, if that person is not the applicant,
+- (c) Natural Resources Wales,
+- (d) any planning authority considered appropriate by the examining authority or the Welsh Ministers (as the case may be),
+- (e) any community council considered appropriate by the examining authority or the Welsh Ministers (as the case may be),
+- (f) any Member of the Senedd considered appropriate by the examining authority or the Welsh Ministers (as the case may be),
+- (g) any Member of the House of Commons considered appropriate by the examining authority or the Welsh Ministers (as the case may be),
+- (h) any statutory and specialist consultees,
+- (i) in the case of an application for revocation, all original statutory and specialist consultees, and
+- (j) any other person the examining authority considers or the Welsh Ministers consider (as the case may be) appropriate.
+
+#### 64. Reasons for decision to grant or refuse application
+
+(1) When the Welsh Ministers have decided an application, they must prepare a statement of their reasons for deciding to—
+
+- (a) make an order changing or revoking the relevant infrastructure consent order, or
+- (b) refuse the application.
+
+(2) When the examining authority has decided an application, it must prepare a statement of its reasons for deciding—
+
+- (a) that an order changing or revoking (as the case may be) the relevant infrastructure consent order is to be made, or
+- (b) to refuse the application.
+
+(3) The examining authority or the Welsh Ministers (as the case may be) must provide a copy of the statement of reasons to the persons to be notified of a decision on an application under regulation 62 or 63 (as the case may be).
+
+(4) The Welsh Ministers or the examining authority (as the case may be) must publish the statement of reasons on a website.
+
+### Chapter 3 — Effect of decisions
+
+#### 65. Effect of a decision to make an order making a change to, or revoking, an infrastructure consent order
+
+(1) This regulation applies where the Welsh Ministers have exercised their power under section 90(1) of the 2024 Act on an application under section 90(3) or (4) of that Act.
+
+(2) Where an order making a change to an infrastructure consent order is made —
+
+- (a) the relevant infrastructure consent order continues in force, and
+- (b) the change to the relevant infrastructure consent order takes effect—
+  - (i) from the date notice of the decision on the application is given under regulation 62 or 63 (as the case may be), or
+  - (ii) if the change to the relevant infrastructure consent order is required to be made by order contained in a statutory instrument, the date specified in the order making the change.
+
+(3) Where an order revoking an infrastructure consent order is made, the revocation takes effect—
+
+- (a) from the date specified in the order making the revocation, or
+- (b) where there is no date specified, the date on which the order revoking the infrastructure consent order is made.
+
+### Chapter 4 — Legal challenge and procedure following quashing of decision
+
+#### 66. Legal challenges: relevant day
+
+The relevant day for the purposes of section 96(7)(b) of the 2024 Act is the day on which—
+
+- (a) the application is withdrawn,
+- (b) the order made under section 90(1) of the 2024 Act is published or (if later) the statement of reasons for making the order is published, or
+- (c) the statement of reasons for the refusal of an application is published under regulation 64(4).
+
+#### 67. Procedure following quashing a decision
+
+(1) This regulation applies where—
+
+- (a) an examining authority is appointed under section 40(2) of the 2024 Act, and
+- (b) a decision of the examining authority or the Welsh Ministers in respect of an application is quashed by any court.
+
+(2) The examining authority must—
+
+- (a) send to all interested parties a written statement of the matters with respect to which further representations are invited for the purposes of its reconsideration of the decision, and
+- (b) give the interested parties the opportunity to make representations to the examining authority in respect of those matters.
+
+(3) Any interested parties invited to submit representations under this regulation must submit them before the end of the period of—
+
+- (a) if the application relates to EIA development, 28 days beginning with the day after the written statement is given to the interested party;
+- (b) in any other case, 21 days beginning with the day after the written statement is given to the interested party.
+
+(4) The examining authority may extend the period specified in paragraph (3) in a particular case.
+
+(5) The examining authority may, as it considers it appropriate—
+
+- (a) re-open the hearing or local inquiry,
+- (b) open a new hearing or local inquiry, or
+- (c) examine the matter on the basis of written representations.
+
+(6) See regulation 25(3) for the definitions of “**further representations**” and “**interested party**”.
+
+Rebecca Evans
+
+Cabinet Secretary for Economy, Energy and Planning, one of the Welsh Ministers
+
+2 February 2026
+
+## Schedule — Notices to statutory and specialist consultees
+
+Regulation 2(1)
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| Paragraph | Description of Development | Relevant Statutory Consultee | Relevant Specialist Consultee |
+| (a) | All applications | Natural Resources Wales<br>The relevant water and sewerage undertaker<br>National Air Traffic Services<br>Ministry of Defence<br>Public Health Wales<br>Transport for Wales | Canal and River Trust<br>Distribution Network<br>Operators |
+| (b) | Development likely to result in a material increase in the volume or material change in the character of traffic—<br>(i) entering or leaving a trunk road;<br>(ii) using a level crossing over a railway | The Welsh Ministers<br>The operator of the network which includes or consists of the railway in question |  |
+| (c) | Development which involves the provision of a building or pipeline in an area of coal working notified by the Coal Authority to the Welsh Ministers | The Coal Authority |  |
+| (d) | - (i) Development which has a physical impact on a scheduled monument,<br>- (ii) Development likely to be visible from a scheduled monument and which meets one of the following criteria—<br>- (aa) it is within a distance of 0.5 km from any point of the perimeter of a scheduled monument,<br>- (bb) it is within a distance of 1 km from the perimeter of a scheduled monument and is 15 metres or more in height, or has an area of 0.2 hectares or more,<br>- (cc) it is within a distance of 2 km from the perimeter of a scheduled monument and is 50 metres or more in height, or has an area of 0.5 hectares or more,<br>- (dd) it is within a distance of 3 km from the perimeter of a scheduled monument and is 75 metres or more in height, or has an area of 1 hectare or more, or<br>- (ee) it is within a distance of 5 km from the perimeter of a scheduled monument and is 100 metres or more in height, or has an area of 1 hectare or more,<br>- (iii) Development likely to affect the site of a registered historic park or garden or its setting,<br>- (iv) Development within a registered historic landscape that requires an Environmental Impact Assessment,<br>- (v) Development likely to have an impact on the outstanding universal value of a World Heritage Site | The Welsh Ministers |  |
+| (e) | Development involving any land on which there is a theatre |  | The Theatres Trust |
+| (f) | Development which involves —<br>(i) the loss of not less than 20 hectares of grades 1, 2 or 3a agricultural land which is for the time being used (or was last used) for agricultural purposes, or<br>(ii) the loss of less than 20 hectares of grades 1, 2 or 3a agricultural land which is for the time being used (or was last used) for agricultural purposes, in circumstances in which the development is likely to lead to a further loss of agricultural land amounting cumulatively to 20 hectares or more | The Welsh Ministers |  |
+| (g) | Development which—<br>(i) is likely to prejudice the use, or lead to the loss of use, of land being used as a playing field, or<br>(ii) is on land which has been:<br>(aa) used as a playing field at any time in the years before the making of the relevant application and which remains undeveloped,<br>(bb) allocated for use as a playing field in a development plan or in proposals for such a plan or its alteration or replacement, or<br>(iii) involves the replacement of the grass surface of a playing pitch on a playing field with an artificial, man-made or composite surface. | The Sports Council for Wales |  |
+| (h) | Development—<br>(i) involving waste development,<br>(ii) involving the provision of a building where the floor space to be created by the development is 1,000 square metres or more,<br>(iii) carried out on a site having an area of 1 hectare or more | The Fire and Rescue Authority concerned |  |
+| (i) | Development that includes a requirement for a deemed marine licence | The Crown Estate<br>The Joint Nature Conservation Committee<br>The Maritime and Coastguard Agency<br>Trinity House<br>Reserved Trust Ports<br>Local harbour authority<br>Local ports<br>Welsh Ministers<br>Royal Commission on Ancient and Historic Monuments of Wales<br>Inshore Fisheries and Conservation Authorities | The Royal Yachting Association<br>Concerned Welsh archaeological trust<br>UK Chamber of Shipping<br>National Federation of Fishermen’s Organisations<br>Welsh Fishermen’s Association |
+| (j) | Developments likely to affect the maritime or coastal environment, or the shipping industry | The Maritime and Coastguard Agency |  |
+| (k) | Development which may impact the marine environment | Joint Nature Conservation Committee |  |
+| (l) | Development which may affect the marine environment within English territorial waters | The Marine Management Organisation |  |
+| (m) | Developments likely to affect navigation in tidal waters | Trinity House |  |
+| (n) | Development relating to airports or which are likely to affect an airport or its current or future operation | The Civil Aviation Authority |  |
+| (o) | Development likely to affect the Crown Estate or is located on Crown Land | The Crown Estate |  |
+| (p) | Development likely to affect an area under control of a harbour authority | Harbour Authority concerned<br>Navigation Authority concerned<br>Associated British Ports |  |
+| (q) | Development which includes railway or is likely to affect railway | Network operators |  |
+| (r) | Development which includes the provision of electricity infrastructure |  | Distribution Network Operators |
+
+|  |
+| --- |
+| **Interpretation of Table**<br>In the above Table—<br>- (a) in paragraph (b)—<br>- “network” *(“rhwydwaith”)* and “operator” *(“gweithredwr”)* have the same meaning as in section 83(1) of the Railways Act 1993[^f00016] (the provision of railway services);<br>- “trunk road” *(“cefnffordd”)* has the same meaning as in section 143 of the 2024 Act;<br>- (b) in paragraph (d)—<br>- “scheduled monument” *(“heneb gofrestredig”)* has the same meaning as in section 3(7) of the Historic Environment (Wales) Act 2023[^f00017] (duty to maintain and publish schedule of monuments);<br>- Reference to the height of development is to be construed as a reference to its height when measured from ground level; and for the purposes of this paragraph “**ground level**” means the level of the surface of the ground immediately adjacent to the development in question, or where the level of the surface of the ground on which it is situated is not uniform, the level of the highest part of the surface immediately adjacent to it;<br>- “registered historic park or garden” *(“parc hanesyddol cofrestredig neu ardd hanesyddol gofrestredig”)* and “registered historic landscape” *(“tirwedd hanesyddol gofrestredig”)* means the park, garden or landscape included in the Register of Landscapes, Parks and Gardens of Special Historic Interest in Wales maintained by the Welsh Ministers;<br>- “World Heritage Site” *(“Safle Treftadaeth y Byd”)* means land appearing on the World Heritage List kept under article 11(2) of the UNESCO Convention for the Protection of the World Cultural and Natural Heritage adopted at Paris on 16 November 1972;<br>- (c) in paragraph (e), “**theatre**” has the same meaning as in section 5 of the Theatres Trust Act 1976[^f00018] (interpretation);<br>- (d) in paragraph (g)—<br>- “playing field” *(“maes chwarae”)* means the whole of a site which encompasses at least one playing pitch;<br>- “playing pitch” *(“llain chwarae”)* means a delineated area which, together with run-off area, is of 0.2 hectares or more and which is used for association football, American football, rugby, cricket, hockey, lacrosse, rounders, baseball, softball, Australian football, Gaelic football, shinty, hurling, polo or cycle polo;<br>- (e) in paragraphs (i) and (p) “**harbour authority**” has the meaning given in section 143 of the 2024 Act;<br>- (f) in paragraph (n) “**airport**” has the meaning given in section 143 of the 2024 Act;<br>- (g) in paragraph (r) “**Distribution Network Operators**” means companies licensed to operate the networks that distribute electricity from the national transmission grid to end users. |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Infrastructure (Wales) Act 2024 (“**the 2024 Act**”) establishes a unified application and consenting process to enable making and consideration of applications for infrastructure consent. The process applies to the significant infrastructure projects that are specified in Part 1 of the 2024 Act. Broadly, they are energy, transport, waste and water projects.
+
+Part 6 of the 2024 Act makes provision about infrastructure consent orders (orders granting infrastructure consent) including provision giving the Welsh Ministers—
+
+- (a) power to correct errors in a decision document, which is defined in section 86 of the 2024 Act as an infrastructure consent order or a notice notifying an applicant their application for infrastructure consent has been refused (section 87 of the 2024 Act), and
+- (b) power, by order, to change or revoke an infrastructure consent order (section 90 of the 2024 Act).
+
+These Regulations make provision about the procedure for correcting an error in a decision document and about the procedure in relation to applications to change or revoke an infrastructure consent order.
+
+**Part 1** of these Regulations makes general provision.
+
+**Part 2** of these Regulations makes provision about consultation where it is proposed that an error in a decision document be corrected, giving notice of a decision whether or not to correct an error and the effect of such a decision.
+
+**Part 3** of these Regulations makes provision about the procedure in relation to making applications to change or revoke an infrastructure consent order, including the pre-application procedure.
+
+**Part 4** of these Regulations makes provision about the procedure for examining an application to change or revoke an infrastructure consent order where an examining authority is appointed under section 40(2) of the 2024 Act.
+
+**Part 5** of these Regulations makes provision about the procedure to be followed where an examining authority is not appointed to examine an application.
+
+**Part 6** of these Regulations makes provision about the making of decisions on applications to change or revoke an infrastructure consent order and the effect of such decisions. It also makes provision about the “**relevant day**” for the purposes of section 96(7)(b) of the 2024 Act (legal challenges) and the procedure following the quashing of a decision.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government at Cathays Park, Cardiff CF10 3NQ and on the Welsh Government website at www.gov.wales.
+
+## Annotations
+
+[^f00001]: Footnote: For the meaning of “appropriate Minister” *see* section 140(4) of the Infrastructure (Wales) Act [2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3); *see* section 140(3) otherwise.
+
+[^f00002]: Footnote: [2024 asc 3](https://www.legislation.gov.uk/asc/2024/3).
+
+[^f00003]: Footnote: [S.I. 2025/690 (W. 114)](https://www.legislation.gov.uk/wsi/2025/690) to which there are amendments which are not relevant to these Regulations.
+
+[^f00004]: Footnote: [S.I. 2025/691 (W. 115)](https://www.legislation.gov.uk/wsi/2025/691) which were amended by [S.I. 2025/1091 (W. 181)](https://www.legislation.gov.uk/wsi/2025/1091).
+
+[^f00005]: Footnote: [S.I. 2017/567 (W. 136)](https://www.legislation.gov.uk/wsi/2017/567) which were amended by [S.I. 2025/1192 (W. 193)](https://www.legislation.gov.uk/wsi/2025/1192). There are other amendments, but none are relevant to these Regulations.
+
+[^f00006]: Footnote: [S.I. 2007/1518](https://www.legislation.gov.uk/uksi/2007/1518), amending instruments are [S.I. 2011/735](https://www.legislation.gov.uk/uksi/2011/735), [S.I. 2015/446](https://www.legislation.gov.uk/uksi/2015/446), [S.I. 2017/588](https://www.legislation.gov.uk/uksi/2017/588), [S.I. 2019/25](https://www.legislation.gov.uk/uksi/2019/25) and [S.I. 2025/1192 (W. 193)](https://www.legislation.gov.uk/wsi/2025/1192).
+
+[^f00007]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^f00008]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^f00009]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
+
+[^f00010]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Part 1 was amended by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), section 1(2) and Schedule 1, paragraph 1 and Part 2 was amended by section 1(2) and Schedule 1, paragraph 2 of that Act.
+
+[^f00011]: Footnote: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^f00012]: Footnote: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the earth, for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the United States’ National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3 January 2000 entitled “Department of Defense World Geodetic System 1984 https://gis-lab.info/docs/nima-tr8350.2-wgs84fin.pdf
+
+[^f00013]: Footnote: See regulation 2(1) for the meaning of “planning authority”.
+
+[^f00014]: Footnote: See section 60 of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5).
+
+[^f00015]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^f00016]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^f00017]: Footnote: [2023 asc 3](https://www.legislation.gov.uk/asc/2023/3).
+
+[^f00018]: Footnote: [1976 c. 27](https://www.legislation.gov.uk/ukpga/1976/27).

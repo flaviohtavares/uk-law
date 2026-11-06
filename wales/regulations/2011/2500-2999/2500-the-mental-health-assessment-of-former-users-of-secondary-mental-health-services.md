@@ -1,0 +1,116 @@
+---
+title: The Mental Health (Assessment of Former Users of Secondary Mental Health Services) (Wales) Regulations 2011
+id: wsi/2011/2500
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2011-10-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2011/2500
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2011/2500/pdfs/wsi_20112500_mi.pdf
+- http://www.legislation.gov.uk/wsi/2011/2500/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mental Health (Assessment of Former Users of Secondary Mental Health Services) (Wales) Regulations 2011
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2011 No. 2500 (W.272)
+
+MENTAL HEALTH, WALES
+
+The Mental Health (Assessment of Former Users of Secondary Mental Health Services) (Wales) Regulations 2011
+
+Made
+
+18 October 2011
+
+Coming into force
+
+6 June 2012
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by sections 23(1)(b), 26(2)(b), 29(1) and 52(2) of the Mental Health (Wales) Measure 2010[^f00001].
+
+A draft of this instrument has been laid before the National Assembly for Wales in accordance with section 52(5)(b) of the Measure, and approved by resolution of the National Assembly for Wales.
+
+## 1. Title, commencement and application
+
+(1) The title of these Regulations is the Mental Health (Assessment of Former Users of Secondary Mental Health Services) (Wales) Regulations 2011 and they come into force on 6 June 2012.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “adult” (“*oedolyn*”) means a person aged eighteen years or above who is entitled to a mental health assessment under section 22 (entitlement to assessment) of the Measure;
+- “assessment report” (“*adroddiad o'r asesia*d”) means a single report in writing which records whether a mental health assessment has identified any services which might improve or prevent a deterioration in the mental health of an adult in accordance with section 25 (purpose of assessment) of the Measure;
+- “the Measure” (“*y Mesur*”) means the Mental Health (Wales) Measure 2010;
+- “mental health assessment” (“*asesiad iechyd meddwl*”) means an analysis of an adult’s mental health for the purposes provided in section 25 of the Measure;
+- “relevant discharge period” (“*cyfnod rhyddhau perthnasol*”) means the period within which an adult may request that a mental health assessment is carried out following discharge from secondary mental health services; and
+- “working day” (“*diwrnod gwaith*”) means any day except Saturday, Sunday, Christmas Day, Good Friday or a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00002].
+
+## 3. Relevant discharge period
+
+(1) The relevant discharge period begins on the date on which an adult is discharged from secondary mental health services and ends upon the expiry of a period of three years from that date.
+
+(2) But if an adult was discharged from secondary mental health services prior to the date of the coming into force of these Regulations, the relevant discharge period for that adult is as provided in regulation 6.
+
+## 4. Provision of assessment report
+
+(1) A copy of an assessment report is to be provided to an adult who has had a mental health assessment no later than ten working days following the completion of the assessment.
+
+(2) For the purposes of this regulation, the copy of the assessment report is provided on the day when it is—
+
+- (a) delivered by hand to an adult; or
+- (b) sent by prepaid post addressed to an adult at that adult’s usual or last known residence.
+
+## 5. Determination of usual residence
+
+(1) Where for the purposes of Part 3 (assessments of former users of secondary mental health services) of the Measure there is a question as to whether an adult’s usual residence lies within a local authority area (“local authority area A”), then the local authority for local authority area A (“local authority A”) is responsible for determining within which local authority area that adult usually resides in accordance with paragraph (2).
+
+(2) For the purposes of making a determination as provided in paragraph (1)—
+
+- (a) an adult is to be deemed as usually resident at the address given by that adult to local authority A as being the address at which he or she usually resides;
+- (b) where an adult gives no such address that adult is to be deemed as usually resident at the address which he or she gives to local authority A as being his or her most recent address;
+- (c) where an adult’s usual residence cannot be determined under sub-paragraphs (a) or (b) above, that adult is to be deemed as usually resident in the area in which he or she is present.
+
+(3) Until such time as a determination of an adult’s usual residence is made under paragraph (1), that adult is deemed to be usually resident within local authority area A.
+
+(4) But where the local mental health partners for another local authority area (“local authority area B”) agree to act as the local mental health partners for an adult, then that adult is deemed to be usually resident within local authority area B.
+
+## 6. Transitional provisions relating to the relevant discharge period
+
+Where an adult has been discharged from secondary mental health services within two years prior to the date of the coming into force of these Regulations the relevant discharge period for that adult is the period of time beginning on the coming into force date of these Regulations and ending on the expiry of three years from that adult’s date of discharge.
+
+Lesley Griffiths
+
+Minister for Health and Social Services, one of the Welsh Ministers
+
+18 October 2011
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations contain provisions about mental health assessments for former users of secondary mental health services.
+
+**2.** Regulation 3 provides that the term of the relevant discharge period during which an adult is eligible for a mental health assessment following discharge from secondary mental health services is three years. Where an adult was discharged from secondary mental health services before the coming into force date of these Regulations, the term of any relevant discharge period for that adult is as provided in regulation 6.
+
+**3.** Regulation 4 provides for a copy of the assessment report to be provided no later than ten working days following the completion of an adult’s mental health assessment.
+
+**4.** Regulation 5 provides for the determination of an adult’s usual residence for the purposes of Part 3 (assessments of former users of secondary mental health services) of the Mental Health (Wales) Measure 2010, where there is a question about whether an adult’s usual residence is situated within a particular local authority area.
+
+**5.** Regulation 6 makes transitional provision relating to the relevant discharge period for an adult who has been discharged from secondary mental health services within two years prior to the coming into force date of these Regulations.
+
+**6.** A regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Mental Health Legislation Team, Department for Health, Social Services and Children, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2010 nawm 7](https://www.legislation.gov.uk/mwa/2010/7).
+
+[^f00002]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

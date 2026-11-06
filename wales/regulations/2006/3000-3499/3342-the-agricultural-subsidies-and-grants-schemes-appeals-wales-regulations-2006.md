@@ -1,0 +1,234 @@
+---
+title: The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006
+id: wsi/2006/3342
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-12-13'
+text_date: '2026-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2006/3342
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2006/3342/pdfs/wsi_20063342_mi.pdf
+- http://www.legislation.gov.uk/wsi/2006/3342/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006
+
+> Text as at 2026-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2006 No. 3342 (W.303)
+
+AGRICULTURE, WALES
+
+The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006
+
+Made
+
+13 December 2006
+
+Coming into force
+
+1 January 2007
+
+The National Assembly for Wales being designated [^c17695571] for the purposes of section 2(2) of the European Communities Act 1972 [^c17695581] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred upon it by the said section 2(2), makes the following Regulations:
+
+## 1. Title, commencement and application
+
+(1) The title of these Regulations is the Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006 and they come into force on 1 January 2007.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation
+
+(1) In these Regulations —
+
+- “**EU legislation[^key-1e09594789945a8054a554f3d7b1e39c]**” (“***y ddeddfwriaeth Gymunedol***”) means those instruments listed in the Schedule;
+- “**the National Assembly**” (“***y Cynulliad Cenedlaethol***”) means the National Assembly for Wales; and
+- “**a relevant determination**” (“***penderfyniad perthnasol***”) means any determination of the National Assembly in respect of financial assistance and claims for financial assistance pursuant to, or in connection with, the EU legislation, and the legislation cited in regulation 4 (a) to (m) of these Regulations.
+
+(2)[^key-c1d04ff1e286ee9e2e3c1ffb534210ec] Any reference in these Regulations to an EU instrument[^key-391299abba15f0a6c9e86a335ae1309f] is a reference to that instrument as amended from time to time.
+
+## 3. Provision of appeals procedure[^key-63e84303fe59f83fe44ac0c10e9da2eb][^key-844550f8af5fc7f5cdcae6182bb5d096][^key-ee8b5b90d76a55bbf78ae804c420987a]
+
+(1) The National Assembly may establish one or more procedures for the further consideration on its behalf of a relevant determination, such procedure or procedures operating by way of appeal from the relevant determination in question.
+
+(2) Any procedure established pursuant to paragraph (1) may impose such deadlines as the National Assembly requires for the purposes of requiring a farmer to submit to it applicable information and documentation and notice of his or her intention to appeal against a relevant determination.
+
+(3) Any procedure established under paragraph (1) may provide for an oral or written appeal to such persons (not exceeding three) as the National Assembly may appoint for that purpose, with a view to such persons making a report of their conclusions and making recommendations to the National Assembly as to the manner in which it determines the appeal.
+
+(4) When the National Assembly establishes any such procedure as is mentioned in paragraph (3), it may—
+
+- (a) pay to the persons so appointed such remuneration in respect of their functions under that procedure, and such travelling and other allowances, as it may determine; and
+- (b) charge any person whose appeal is considered under a procedure so established such fee (not exceeding £100) as the National Assembly may determine subject to paragraph (5)[^key-3aa3dfa7548d22ef0d067b3427c64ade].
+
+(5)[^key-7557e6dae88767eea830c723b5a0d560] As far as the appeal fee relates to a pre-2023 Act scheme, the Welsh Ministers may charge any person whose appeal is considered under any such procedure as is mentioned in paragraph (3) such fee as the Welsh Ministers may determine.
+
+(6) In this regulation, “**a pre-2023 Act scheme**” means any scheme operating under legislation referred to in section 16(2), 17(2) or 19(2) of the Agriculture (Wales) Act 2023.
+
+## 4. Amendments
+
+(1) The following provisions are deleted—
+
+- (a) Article 5(b) of the Environmentally Sensitive Areas (Cambrian Mountains — Extension) Designation Order 1987 [^c17695591];
+- (b) Article 5(b) of the Environmentally Sensitive Areas (Preseli) Designation Order 1994 [^c17695601];
+- (c) Article 5(b) of the Environmentally Sensitive Areas (Clwydian Range) Designation Order 1994 [^c17695611];
+- (d) Article 5(b) of the Environmentally Sensitive Areas (Radnor) Designation Order 1993 [^c17695621];
+- (e) Article 5(b) of the Environmentally Sensitive Areas (Ynys Môn) Designation Order 1993 [^c17695631];
+- (f) Article 5(b) of the Environmentally Sensitive Areas (Lleyn Peninsula) Designation Order 1987 [^c17695641];
+- (g) Regulation 10(5) of the Habitat (Broadleaved Woodland) (Wales) Regulations 1994 [^c17695651];
+- (h) Regulation 10(5) of the Habitat (Coastal Belt) (Wales) Regulations 1994 [^c17695661];
+- (i) Regulation 10(5) of the Habitat (Species-Rich Grassland) (Wales) Regulations 1994 [^c17695671];
+- (j) Regulation 10(5) of the Habitat (Water Fringe) (Wales) Regulations 1994 [^c17695681];
+- (k) Paragraph 14(6) of the Farm Woodland Premium Scheme 1997 [^c17695691];
+- (l) Paragraph 14(3) of the Farm Woodland Scheme 1988 [^c17695701];
+- (m) Paragraph 14(3) of the Farm Woodland Scheme 1992 [^c17695711];
+- (n) The words “Tir Mynydd Scheme” in the Schedule to the Agricultural Subsidies (Appeals) (Wales) Regulations 2001 [^c17695721]0).
+
+## 5. Revocations
+
+The Single Payment Scheme and Miscellaneous Direct Support Schemes (Appeals) (Wales) Regulations 2004 [^c17695731]) are revoked.
+
+[^c17695741]Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998 .
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+## SCHEDULE — MEANING OF “EU legislation”[^key-797c9bb5e16c4fb320700651cd2b8cd9]
+
+Regulation 2
+
+**1.** Council Regulation [(EC) No. 1083/2006](https://www.legislation.gov.uk/european/regulation/2006/1083) of 11 July 2006 laying down the general provisions of the European regional Development Fund, the European Social Fund and the Cohesion Fund and repealing Regulation [(EC) 1260/1999](https://www.legislation.gov.uk/european/regulation/1999/1260).
+
+**2.** Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) of 20 September 2005 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD).
+
+**3.** Council Regulation [(EC) No. 1290/2005](https://www.legislation.gov.uk/european/regulation/2005/1290) of 21 June 2005 on the financing of the common agricultural policy.
+
+**4.** Commission Regulation [(EC) No. 796/2004](https://www.legislation.gov.uk/european/regulation/2004/0796) of 21 April 2004 laying down detailed rules for the implementation of cross-compliance, modulation and the integrated administration and control system provided for in Council Regulation No. 1782/2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers.
+
+**5.** Council Regulation [(EC) No. 795/2004](https://www.legislation.gov.uk/european/regulation/2004/0795) of 21 April 2004 laying down detailed rules for the implementation of the single payment scheme provided for in Council Regulation No. 1782/2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers.
+
+**6.** Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) of 29 September 2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers and amending Regulations [(EEC) No. 2019/93](https://www.legislation.gov.uk/european/regulation/1993/2019), [(EC) No. 1452/2001](https://www.legislation.gov.uk/european/regulation/2001/1452), [(EC) No. 1453/2001](https://www.legislation.gov.uk/european/regulation/2001/1453), [(EC) No. 1454/2001](https://www.legislation.gov.uk/european/regulation/2001/1454), [(EC) No. 1868/94](https://www.legislation.gov.uk/european/regulation/1994/1868), [(EC) No. 1251/1999](https://www.legislation.gov.uk/european/regulation/1999/1251), [(EC) No. 1254/1999](https://www.legislation.gov.uk/european/regulation/1999/1254), [(EC) No. 1673/2000](https://www.legislation.gov.uk/european/regulation/2000/1673), [(EEC) No. 2358/71](https://www.legislation.gov.uk/european/regulation/1971/2358) and [(EC) No. 2529/2001](https://www.legislation.gov.uk/european/regulation/2001/2529).
+
+**7.** Council Regulation [(EC) No. 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) of 17 May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations.
+
+**8.** Commission Regulation [(EC) No. 1973/2004](https://www.legislation.gov.uk/european/regulation/2004/1973) of 29 October 2004 laying down detailed rules for the application of Council Regulation 1782/2004 as regards the support schemes provided for in titles IV and IVa of that Regulation and the use of land set aside for the production of raw materials.
+
+**9.** Council Regulation [(EEC) 2078/92](https://www.legislation.gov.uk/european/regulation/1992/2078) of 30 June 1992 on agricultural production methods compatible with the requirements of the protection of the environment and the maintenance of the countryside.
+
+**10.** Commission Regulation [(EC) 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817) of 29 April 2004 laying down detailed rules for the application of Council Regulation 1257/1999 on support for rural development from the European Agricultural and Guarantee Fund.
+
+**11.**[^key-6bda6669c9f2b1fb1a75aeaed04ea283] Commission Regulation [(EC) No. 1975/2006](https://www.legislation.gov.uk/european/regulation/2006/1975) of 23 December 2006 laying down detailed rules for the implementation of Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures.
+
+**12.** Commission Regulation [(EC) No. 1974/2006](https://www.legislation.gov.uk/european/regulation/2006/1974) of 23 December 2006 laying down detailed rules for the application of Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) on support for rural development by the European Agricultural Fund for Rural Development (EAFRD).
+
+**13.**[^key-f060fb9c8045705a9f86e4860c7738dc] Commission Regulation [(EC) No 1857/2006](https://www.legislation.gov.uk/european/regulation/2006/1857) of 15 December 2006 on the application of Articles 87 and 88 of the Treaty to State aid to small and medium-sized enterprises active in the production of agricultural products and amending Regulation [(EC) No 70/2001](https://www.legislation.gov.uk/european/regulation/2001/0070).
+
+**14.** Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers.
+
+**15.** Commission Regulation [(EC) No 1120/2009](https://www.legislation.gov.uk/european/regulation/2009/1120) of 29 October 2009 laying down detailed rules for the implementation of the single payment scheme provided for in Title III of Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers.
+
+**16.** Commission Regulation [(EC) No 1121/2009](https://www.legislation.gov.uk/european/regulation/2009/1121) of 29 October 2009 laying down detailed rules for the application of Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) as regards the support schemes for farmers provided for in Titles IV and V thereof.
+
+**17.** Commission Regulation [(EC) No 1122/2009](https://www.legislation.gov.uk/european/regulation/2009/1122) of 30 November 2009 laying down detailed rules for the implementation of Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) as regards cross-compliance, modulation and the integrated administration and control system, under the direct support schemes for farmers provided for that Regulation, as well as for the implementation of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards cross-compliance under the support scheme provided for the wine sector.
+
+**18.**[^key-5eabace8fd5843b7e56d303766bccf1a] Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD).
+
+**19.** Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy.
+
+**20.** Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy.
+
+**21.** Commission Delegated Regulation (EU) No 639/2014 of 11 March 2014 supplementing Regulation (EU) No 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and amending Annex X to that Regulation.
+
+**22.** Commission Delegated Regulation (EU) No 640/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance.
+
+**23.** Commission Implementing Regulation (EU) No 641/2014 of 16 June 2014 laying down rules for the application of Regulation (EU) No 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy.
+
+**24.** Commission Delegated Regulation (EU) No 807/2014 of 11 March 2014 supplementing Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and introducing transitional provisions.
+
+**25.** Commission Implementing Regulation (EU) No 808/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD).
+
+**26.** Commission Implementing Regulation (EU) No 809/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance.
+
+*(This note is not part of the Regulations)*
+
+These Regulations enable the National Assembly for Wales (“**the National Assembly**”) to establish an appeals procedure for farmers who dispute decisions taken by it in connection with the funding of certain elements of the common agricultural policy and schemes related to it.
+
+Regulation 2 contains interpretation provisions and, in particular, sets out the relevant Community legislation in relation to which the appeals procedures may apply.
+
+Regulation 3 empowers the Assembly to establish one or more appeals procedures. It provides that: any appeal procedure so established may take the form of oral or written submission to persons appointed by the National Assembly with a view to such persons making a recommendation to the National Assembly as to how the matter should be finally determined; and that the Assembly may pay remuneration and allowances to any such persons appointed and to charge a fee (not exceeding £100), in respect of the costs of the procedure.
+
+Regulations 4 and 5, respectively, amend and revoke earlier legislation, so as to enable any appeals procedure established under these Regulations to be extended to matters that were subject to that legislation.
+
+A regulatory appraisal has been prepared in respect of these Regulations. Copies of this can be obtained from the National Assembly for Wales, Department of Environment, Planning and Countryside, Cathays Park, Cardiff, CF10 3NQ
+
+## Annotations
+
+[^c17695571]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 2005/2766.
+
+[^c17695581]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-1e09594789945a8054a554f3d7b1e39c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/3342/regulation/2/1) substituted (W.) (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/wsi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/2/2)
+
+[^key-c1d04ff1e286ee9e2e3c1ffb534210ec]: Textual amendment: Reg. 2(2) inserted (W.) (1.11.2007) by [The Rural Development Programmes and Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2007 (S.I. 2007/2900)](https://www.legislation.gov.uk/uksi/2007/2900), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/3/2)
+
+[^key-391299abba15f0a6c9e86a335ae1309f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2006/3342/regulation/2/2) substituted (W.) (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/wsi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2010/1807/regulation/2/3)
+
+[^key-63e84303fe59f83fe44ac0c10e9da2eb]: Modification: Reg. 3 applied (25.5.2010) by [The Tuberculosis (Wales) Order 2010 (S.I. 2010/1379)](https://www.legislation.gov.uk/uksi/2010/1379), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1379/article/1), [26(2)](https://www.legislation.gov.uk/uksi/2010/1379/article/26/2)
+
+[^key-844550f8af5fc7f5cdcae6182bb5d096]: Modification: Reg. 3 applied (31.3.2011) by [The Tuberculosis (Wales) Order 2011 (S.I. 2011/692)](https://www.legislation.gov.uk/uksi/2011/692), [arts. 1](https://www.legislation.gov.uk/uksi/2011/692/article/1), [20(2)](https://www.legislation.gov.uk/uksi/2011/692/article/20/2)[(3)](https://www.legislation.gov.uk/uksi/2011/692/article/20/3)
+
+[^key-ee8b5b90d76a55bbf78ae804c420987a]: Modification: Reg. 3 applied (4.8.2014) by [The Common Agricultural Policy Basic Payment Scheme (Provisional Payment Region Classification) (Wales) Regulations 2014 (S.I. 2014/1835)](https://www.legislation.gov.uk/wsi/2014/1835), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/1835/regulation/1/3), [3(3)](https://www.legislation.gov.uk/wsi/2014/1835/regulation/3/3)
+
+[^key-3aa3dfa7548d22ef0d067b3427c64ade]: Textual amendment: Words in reg. 3(4)(b) inserted (1.1.2026) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1271)](https://www.legislation.gov.uk/wsi/2025/1271), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/2/2)
+
+[^key-7557e6dae88767eea830c723b5a0d560]: Textual amendment: Reg. 3(5)(6) inserted (1.1.2026) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2025 (S.I. 2025/1271)](https://www.legislation.gov.uk/wsi/2025/1271), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/1271/regulation/2/3)
+
+[^c17695591]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1987/2026.
+
+[^c17695601]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1994/239.
+
+[^c17695611]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1994/238.
+
+[^c17695621]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1993/1211.
+
+[^c17695631]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1993/1210.
+
+[^c17695641]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1987/2027.
+
+[^c17695651]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1994/3099.
+
+[^c17695661]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1994/3101.
+
+[^c17695671]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1994/3102.
+
+[^c17695681]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1994/3100.
+
+[^c17695691]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1997/829.
+
+[^c17695701]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1988/1291.
+
+[^c17695711]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 1992/905.
+
+[^c17695721]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 2001/2537 (W.212)
+
+[^c17695731]: Marginal citation: [S.I](https://www.legislation.gov.uk/wsi/2006/3342/section/I) 2004/2919 (W.258).
+
+[^c17695741]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-797c9bb5e16c4fb320700651cd2b8cd9]: Textual amendment: Words in Sch. substituted (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/uksi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/2/2)
+
+[^key-6bda6669c9f2b1fb1a75aeaed04ea283]: Textual amendment: Sch. paras. 11, 12 added (W.) (1.11.2007) by [The Rural Development Programmes and Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2007 (S.I. 2007/2900)](https://www.legislation.gov.uk/uksi/2007/2900), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/2900/regulation/3/3)
+
+[^key-f060fb9c8045705a9f86e4860c7738dc]: Textual amendment: Sch. paras. 13-17 added (W.) (9.8.2010) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010 (S.I. 2010/1807)](https://www.legislation.gov.uk/uksi/2010/1807), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2010/1807/regulation/2/4)
+
+[^key-5eabace8fd5843b7e56d303766bccf1a]: Textual amendment: Sch. paras. 18-26 inserted (1.12.2014) by [The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2014 (S.I. 2014/2894)](https://www.legislation.gov.uk/wsi/2014/2894), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2014/2894/regulation/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2014/2894/regulation/2/2)

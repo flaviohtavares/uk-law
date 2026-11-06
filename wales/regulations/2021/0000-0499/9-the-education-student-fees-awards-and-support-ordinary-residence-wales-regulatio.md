@@ -1,0 +1,869 @@
+---
+title: The Education (Student Fees, Awards and Support) (Ordinary Residence) (Wales) Regulations 2021
+id: wsi/2021/9
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-01-06'
+text_date: '2026-02-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2021/9
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2021/9/pdfs/wsi_20210009_mi.pdf
+- http://www.legislation.gov.uk/wsi/2021/9/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Fees, Awards and Support) (Ordinary Residence) (Wales) Regulations 2021
+
+> Text as at 2026-02-05.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2021 No. 9 (W. 4)
+
+Education, Wales
+
+The Education (Student Fees, Awards and Support) (Ordinary Residence) (Wales) Regulations 2021
+
+Made
+
+6 January 2021
+
+Laid before Senedd Cymru
+
+7 January 2021
+
+Coming into force
+
+28 January 2021
+
+The Welsh Ministers, in exercise of the powers conferred on the Secretary of State under sections 1 and 2 of the Education (Fees and Awards) Act 1983[^f00001] and sections 22(2)(a) and 42(6) of the Teaching and Higher Education Act 1998[^f00002] now exercisable by them[^f00003] and powers conferred on them under sections 5(5)(b) and 55(2) of the Higher Education (Wales) Act 2015[^f00004] make the following Regulations:
+
+## PART 1 — TITLE AND COMMENCEMENT
+
+### 1. Title and commencement[^key-27695a665537dded32fa32942a808809]
+
+(1) The title of these Regulations is the Education (Student Fees, Awards and Support) (Ordinary Residence) (Wales) Regulations 2021.
+
+(2) These Regulations come into force on 28 January 2021.
+
+## PART 2 — AMENDMENTS TO THE EDUCATION (FEES AND AWARDS) (WALES) REGULATIONS 2007
+
+### 2. Amendments to the Education (Fees and Awards) (Wales) Regulations 2007[^key-df5a650b07286d0f53a6c4b9c831354a]
+
+The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with regulations 3 and 4.
+
+### 3.[^key-5680dd94a7dbf8dd8ab6bea01819922b]
+
+In the Schedule, in paragraph 4A (persons granted stateless leave and their family members)—
+
+- (a) for sub-paragraph (1) substitute—
+
+  > (1) A person granted stateless leave who is ordinarily resident in the United Kingdom on the first day of the first year of the course.
+
+  ;
+- (b) at the end of sub-paragraph (2)(a)(ii) insert “and”;
+- (c) at the end of sub-paragraph (2)(b) for “; and” substitute a full stop;
+- (d) omit sub-paragraph (2)(c);
+- (e) at the end of sub-paragraph (3)(b) insert “and”;
+- (f) at the end of sub-paragraph (3)(c), for “; and” substitute a full stop;
+- (g) omit sub-paragraph (3)(d).
+
+### 4.[^key-72f1ab5446c25c559e7284cfcd616bd8]
+
+In the Schedule, in paragraph 5A (persons with section 67 leave to remain)—
+
+- (a) at the end of sub-paragraph (1)(a) insert “and”;
+- (b) at the end of sub-paragraph (1)(b) for “; and” substitute a full stop;
+- (c) omit sub-paragraph (1)(c);
+- (d) at the end of sub-paragraph (2)(b) insert “and”;
+- (e) at the end of sub-paragraph (2)(c) for “; and” substitute a full stop;
+- (f) omit sub-paragraph (2)(d).
+
+## PART 3 — AMENDMENTS TO THE EDUCATION (EUROPEAN UNIVERSITY INSTITUTE) (WALES) REGULATIONS 2014[^key-a6b7340dc690673c12f3224404c5da53]
+
+**No longer in force.**
+
+### 5. Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-a6b7340dc690673c12f3224404c5da53]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6.[^key-a6b7340dc690673c12f3224404c5da53]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7.[^key-a6b7340dc690673c12f3224404c5da53]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8.[^key-a6b7340dc690673c12f3224404c5da53]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9.[^key-a6b7340dc690673c12f3224404c5da53]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10.[^key-a6b7340dc690673c12f3224404c5da53]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11.[^key-a6b7340dc690673c12f3224404c5da53]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — AMENDMENTS TO THE HIGHER EDUCATION (QUALIFYING COURSES, QUALIFYING PERSONS AND SUPPLEMENTARY PROVISION) (WALES) REGULATIONS 2015
+
+### 12. Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^key-2eab51ee53f84f29f66370877ae52533]
+
+The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00008] are amended in accordance with regulations 13 and 14.
+
+### 13.[^key-da7e8aa826269dde591e953c08d60cd2]
+
+In the Schedule, in paragraph 4A (persons granted stateless leave and their family members)—
+
+- (a) for sub-paragraph (1) substitute—
+
+  > (1) A person granted stateless leave who is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+
+  ;
+- (b) at the end of sub-paragraph (2)(a)(ii) insert “and”;
+- (c) at the end of sub-paragraph (2)(b) for “; and” substitute a full stop;
+- (d) omit sub-paragraph (2)(c);
+- (e) at the end of sub-paragraph (3)(b) insert “and”;
+- (f) at the end of sub-paragraph (3)(c) for “; and” substitute a full stop;
+- (g) omit sub-paragraph (3)(d).
+
+### 14.[^key-8dff9012f9ce01830cf392fae6c46ee4]
+
+In the Schedule, in paragraph 5A (persons with section 67 leave to remain)—
+
+- (a) at the end of sub-paragraph (1)(a) insert “and”;
+- (b) at the end of sub-paragraph (1)(b) for “; and” substitute a full stop;
+- (c) omit sub-paragraph (1)(c);
+- (d) at the end of sub-paragraph (2)(b) insert “and”;
+- (e) at the end of sub-paragraph (2)(c) for “; and” substitute a full stop;
+- (f) omit sub-paragraph (2)(d).
+
+## PART 5 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2017
+
+### 15. Amendments to the Education (Student Support) (Wales) Regulations 2017[^key-528d26c81e701561972fe56d9b7aacc4]
+
+The Education (Student Support) (Wales) Regulations 2017[^f00009] are amended in accordance with regulations 16 to 34.
+
+### 16.[^key-4e82df38f802927066995b7a2f05f18d]
+
+In regulation 2(1), in the definition of “person with leave to enter or remain”, in paragraph (a)(i), omit “humanitarian protection or”.
+
+### 17.[^key-c4f08e305625de1dfaa6122e5f57fb5a]
+
+After regulation 4(9A) insert—
+
+> (9B) Where—
+>
+> - (a) the Welsh Ministers have determined that, by virtue of being a person granted humanitarian protection under paragraph 339C of the immigration rules or the spouse, civil partner, child or step-child of such a person, a person (“A” in this paragraph) was—
+>   - (i) an eligible student in connection with an application for support for an earlier year of the present course, an application for support for a course in relation to which the present course is an end-on course or an application for support in connection with a designated part-time course, designated distance learning course, or other designated course from which A’s status as an eligible part-time student, eligible distance learning student or eligible student has been transferred to the present course; or
+>   - (ii) a qualifying student in connection with an application for support for an earlier year of the qualifying course or other qualifying course from which A’s status as a qualifying student has been transferred to the qualifying course in respect of which the student is applying for support; and
+> - (b) as at the day before the academic year in respect of which A is applying for support starts, the period for which the person granted humanitarian protection is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002,
+>
+> A’s status as an eligible or qualifying student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+### 18.[^key-b074b11f680a6e54d9a46fa2f0ff982f]
+
+In regulation 4(11), after “(9A),” insert “(9B),”.
+
+### 19.[^key-617d51c8bafa4e11bdb4c91e48f6ff1b]
+
+For regulation 15(b) substitute—
+
+> - (b) the student or the student’s spouse, civil partner or parent (as defined in Part 1 of Schedule 1) is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+.
+
+### 20.[^key-e0e394bf8cd0423a1326f5646b209bf3]
+
+For regulation 23(12)(b) substitute—
+
+> - (b) the student or the student’s spouse, civil partner or parent (as defined in Part 1 of Schedule 1) is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+.
+
+### 21.[^key-8b58155db4fa71feb94a027712329caa]
+
+For regulation 49(2)(b) substitute—
+
+> - (b) the student or the student’s spouse, civil partner or parent (as defined in Part 1 of Schedule 1) is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+.
+
+### 22.[^key-6d65a6a246a863c3c9288d88a548476b]
+
+After regulation 64(10A) insert—
+
+> (10B) Where—
+>
+> - (a) the Welsh Ministers determined that, by virtue of being a person granted humanitarian protection under paragraph 339C of the immigration rules or the spouse, civil partner, child or step-child of such a person, a person (“A” in this paragraph) was an eligible distance learning student in connection with an application for support for an earlier year of the present distance learning course or an application for support in connection with a designated course, designated part-time course or other designated distance learning course from which A’s status as an eligible student, eligible part-time student or eligible distance learning student has been transferred to the present distance learning course; and
+> - (b) as at the day before the academic year in respect of which A is applying for support begins, the period for which the person granted humanitarian protection under paragraph 339C of the immigration rules is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002,
+>
+> A’s status as an eligible distance learning student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+### 23.[^key-f91b98e2e468021d03ab4ca927b54b90]
+
+In regulation 64(12), after “(10A),” insert “(10B),”.
+
+### 24.[^key-26b1e2ed1d9c63894be00fd43b19a355]
+
+For regulation 65(4)(b) substitute—
+
+> - (b) the student or the student’s spouse, civil partner or parent (as defined in Part 1 of Schedule 1) is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+.
+
+### 25.[^key-7f0b30da09de85609f56618bbb194917]
+
+After regulation 81(9A) insert—
+
+> (9B) Where—
+>
+> - (a) the Welsh Ministers determined that, by virtue of being a person granted humanitarian protection under paragraph 339C of the immigration rules or the spouse, civil partner, child or step-child of such a person, a person (“A” in this paragraph) was an eligible part-time student in connection with an application for support for an earlier year of the present part-time course or an application for support in connection with a designated course, designated distance learning course or other designated part-time course from which A’s status as an eligible part-time student, eligible student or eligible distance learning student has been transferred to the present part-time course; and
+> - (b) as at the day before the academic year in respect of which A is applying for support begins, the period for which the person granted humanitarian protection is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002,
+>
+> A’s status as an eligible part-time student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+### 26.[^key-31b0ca0716ee65201656c84f79030f3d]
+
+In regulation 81(11), after “(9A),” insert “(9B),”.
+
+### 27.[^key-b9ec90350527f1c8519616383130e9aa]
+
+For regulation 82(4)(b) substitute—
+
+> - (b) the student or the student’s spouse, civil partner or parent (as defined in Part 1 of Schedule 1) is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+.
+
+### 28.[^key-e8b05771821f72d6f708fc633f6f43c5]
+
+After regulation 110(11A) insert—
+
+> (11B) Where—
+>
+> - (a) the Welsh Ministers determined that, by virtue of being a person granted humanitarian protection under paragraph 339C of the immigration rules or the spouse, civil partner, child or step-child of such a person, a person (“A” in this paragraph) was an eligible postgraduate student in connection with an application for support for an earlier year of the present postgraduate course or an application in connection with another designated postgraduate course from which A’s status as an eligible postgraduate student has been transferred to the present postgraduate course; and
+> - (b) as at the day before the academic year in respect of which A is applying for support starts, the period for which the person granted humanitarian protection under paragraph 339C of the immigration rules is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002,
+>
+> A’s status as an eligible postgraduate student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+### 29.[^key-7349fc9b1f4e3bc75a9319b61ecc534c]
+
+In regulation 110(13), after “(11A),” insert “(11B),”.
+
+### 30.[^key-1c96580a425adf77c1a4940893d83d9f]
+
+For regulation 111(2)(b) substitute—
+
+> - (b) the student or the student’s spouse, civil partner or parent (as defined in Part 1 of Schedule 1) is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+.
+
+### 31.[^key-90fac32fb862d9ae9a484ea0b2dcb3e6]
+
+In Schedule 1, after paragraph 4 (refugees and their family members) insert—
+
+> **4ZA. Protected persons and their family members**
+>
+> (1) A person—
+>
+> - (a) granted leave to enter or remain as a protected person;
+> - (b) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since the person was granted such leave; and
+> - (c) who is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (2) A person who—
+>
+> - (a) is the spouse or civil partner of a person granted leave to enter or remain as a protected person;
+> - (b) on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person; and
+> - (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (3) A person—
+>
+> - (a) who—
+>   - (i) is the child of a person granted leave to enter or remain as a protected person, or the child of the spouse or civil partner of a person granted leave to enter or remain as a protected person; and
+>   - (ii) on the leave application date, was the child of a person granted leave to enter or remain as a protected person or the child of a person who, on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person;
+> - (b) who was under 18 on the leave application date; and
+> - (c) who is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (4) In this paragraph—
+>
+> - (a) “leave application date” means the date on which a person made an application for leave to enter or remain in the United Kingdom that results in a person becoming a person granted leave to enter or remain as a protected person;
+> - (b) “person being granted leave to enter or remain as a protected person” means a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules.
+
+### 32.[^key-1468999826b7f8408e05379958bbe01b]
+
+In Schedule 1, in paragraph 4A (persons granted stateless leave and their family members)—
+
+- (a) for sub-paragraph (1) substitute—
+
+  > (1) A person granted stateless leave who is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+  ;
+- (b) at the end of sub-paragraph (2)(a)(ii) insert “and”;
+- (c) at the end of sub-paragraph (2)(b) for “; and” substitute a full stop;
+- (d) omit sub-paragraph (2)(c);
+- (e) at the end of sub-paragraph (3)(b) insert “and”;
+- (f) at the end of sub-paragraph (3)(c) for “; and” substitute a full stop;
+- (g) omit sub-paragraph (3)(d).
+
+### 33.[^key-e7d0874527ac650c43a70c15976f249b]
+
+In Schedule 1, in paragraph 5A (persons with section 67 leave to remain)—
+
+- (a) at the end of sub-paragraph (1)(a) insert “and”;
+- (b) at the end of sub-paragraph (1)(b) for “; and” substitute a full stop;
+- (c) omit sub-paragraph (1)(c);
+- (d) at the end of sub-paragraph (2)(b) insert “and”;
+- (e) at the end of sub-paragraph (2)(c) for “; and” substitute a full stop;
+- (f) omit sub-paragraph (2)(d).
+
+### 34.[^key-33cea882ecee5beedaf1f6533bb83365]
+
+In Schedule 4, for paragraph 6(a) substitute—
+
+> - (a) the student or the student’s spouse, civil partner or parent (as defined in Part 1 of Schedule 1) is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+.
+
+## PART 6 — AMENDMENTS TO THE EDUCATION (POSTGRADUATE MASTER’S DEGREE LOANS) (WALES) REGULATIONS 2017
+
+### 35. Amendments to the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^key-4703fab53311ccce16d387cc890f7427]
+
+The Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^f00010] are amended in accordance with regulations 36 to 40.
+
+### 36.[^key-d6509f8ee4c0f080065b10190f71dda9]
+
+In regulation 2(1), in the definition of “person with leave to enter or remain”, in paragraph (a)(i), omit “humanitarian protection or”.
+
+### 37.[^key-e8e73e928a55dddc1b786b2ca39a4114]
+
+For regulation 8(b) substitute—
+
+> - (b) the student or the student’s spouse, civil partner, parent, parent’s spouse or parent’s civil partner is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+.
+
+### 38.[^key-7c7c55aa389557b823e4a9662883eb36]
+
+In Schedule 1, after paragraph 4 (refugees and their family members) insert—
+
+> **4ZA. Protected persons and their family members**
+>
+> (1) A person—
+>
+> - (a) granted leave to enter or remain as a protected person;
+> - (b) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since the person was granted such leave; and
+> - (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (2) A person who—
+>
+> - (a) is the spouse or civil partner of a person granted leave to enter or remain as a protected person;
+> - (b) on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person; and
+> - (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (3) A person—
+>
+> - (a) who—
+>   - (i) is the child of a person granted leave to enter or remain as a protected person, or the child of the spouse or civil partner of a person granted leave to enter or remain as a protected person; and
+>   - (ii) on the leave application date, was the child of a person granted leave to enter or remain as a protected person or the child of a person who, on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person;
+> - (b) who was under 18 on the leave application date; and
+> - (c) who is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (4) In this paragraph—
+>
+> - (a) “leave application date” means the date on which a person made an application for leave to enter or remain in the United Kingdom that results in a person becoming a person granted leave to enter or remain as a protected person;
+> - (b) “person granted leave to enter or remain as a protected person” means a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules.
+
+### 39.[^key-7e212cfffa0bfb651262a1f69cacecb0]
+
+In Schedule 1, in paragraph 4A (persons granted stateless leave and their family members)—
+
+- (a) for sub-paragraph (1) substitute—
+
+  > (1) A person granted stateless leave who is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+  ;
+- (b) at the end of sub-paragraph (2)(a)(ii) insert “and”;
+- (c) at the end of sub-paragraph (2)(b) for “; and” substitute a full stop;
+- (d) omit sub-paragraph (2)(c);
+- (e) at the end of sub-paragraph (3)(b) insert “and”;
+- (f) at the end of sub-paragraph (3)(c) for “; and” substitute a full stop;
+- (g) omit sub-paragraph (3)(d).
+
+### 40.[^key-7b90e22bfc6291e5dfac6fb0deb02f32]
+
+In Schedule 1, in paragraph 5A (persons with section 67 leave to remain)—
+
+- (a) at the end of sub-paragraph (1)(a) insert “and”;
+- (b) at the end of sub-paragraph (1)(b) for “; and” substitute a full stop;
+- (c) omit sub-paragraph (1)(c);
+- (d) at the end of sub-paragraph (2)(b) insert “and”;
+- (e) at the end of sub-paragraph (2)(c) for “; and” substitute a full stop;
+- (f) omit sub-paragraph (2)(d).
+
+## PART 7 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2018
+
+### 41. Amendments to the Education (Student Support) (Wales) Regulations 2018[^key-bc54f6298299d9f7747a8ad13e54fb8f]
+
+The Education (Student Support) (Wales) Regulations 2018[^f00011] are amended in accordance with regulations 42 to 51.
+
+### 42.[^key-625701dc6f33ace20faabb9cdc72664c]
+
+In regulation 23—
+
+- (a) in paragraph (1)(a), for “Category 3 eligible student (see Schedule 2)” substitute “Category 3 eligible student or an eligible student on grounds of humanitarian protection under paragraph 339C of the immigration rules (see Schedule 2)”;
+- (b) in paragraph (1)(b)(ii), after “eligible student” insert “or an eligible student on grounds of humanitarian protection under paragraph 339C of the immigration rules”.
+
+### 43.[^key-270c801443cb7ee01cbd1da5b6c4c174]
+
+In regulation 80—
+
+- (a) for paragraph (2)(b)(i) substitute—
+
+  > - (i) the student or the student’s spouse, civil partner or parent is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+  ;
+- (b) in paragraph (3), in the appropriate place insert ““immigration rules” (“*rheolau mewnfudo*”);”.
+
+### 44.[^key-7d0d30437cda35de3e67ee8d319bb7ad]
+
+For regulation 81(3)(b)(i) substitute—
+
+> - (i) the student or the student’s spouse, civil partner or parent is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+.
+
+### 45.[^key-17bbcae233934718fed7c9e9a90f32d7]
+
+In Schedule 2, after paragraph 2 (Category 2 - refugees and their family members) insert—
+
+> **2ZA. Category 2ZA - Protected persons and their family members**
+>
+> (1) A person—
+>
+> - (a) granted leave to enter or remain as a protected person,
+> - (b) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since the person was granted such leave, and
+> - (c) who is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (2) A person who—
+>
+> - (a) is the spouse or civil partner of a person granted leave to enter or remain as a protected person,
+> - (b) on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person, and
+> - (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (3) A person—
+>
+> - (a) who—
+>   - (i) is the child of a person granted leave to enter or remain as a protected person, or the child of the spouse or civil partner of a person granted leave to enter or remain as a protected person, and
+>   - (ii) on the leave application date, was the child of a person granted leave to enter or remain as a protected person or the child of a person who, on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person,
+> - (b) who was under 18 on the leave application date, and
+> - (c) who is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (4) In this paragraph—
+>
+> - (a) “leave application date” means the date on which a person made an application for leave to enter or remain in the United Kingdom that results in a person becoming a person granted leave to enter or remain as a protected person;
+> - (b) “person granted leave to enter or remain as a protected person” means a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules.
+
+### 46.[^key-d1e150b3e716b1c400e0f002b4bce41b]
+
+In Schedule 2, in paragraph 2A (Category 2A - persons granted stateless leave and their family members)—
+
+- (a) for sub-paragraph (1) substitute—
+
+  > (1) A person granted stateless leave who is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+  ;
+- (b) at the end of sub-paragraph (2)(a)(ii) insert “and”;
+- (c) at the end of sub-paragraph (2)(b) for “, and” substitute a full stop;
+- (d) omit sub-paragraph (2)(c);
+- (e) at the end of sub-paragraph (3)(b) insert “and”;
+- (f) at the end of sub-paragraph (3)(c) for “, and” substitute a full stop;
+- (g) omit sub-paragraph (3)(d).
+
+### 47.[^key-3dde957855fe2822fe55c1418a22d4e5]
+
+In Schedule 2, in paragraph 3 (Category 3 - persons with leave to enter or remain and their family members), in sub-paragraph (4)(a)(i), omit “humanitarian protection or”.
+
+### 48.[^key-9a761e0b18cc8364df3a39f2ed9591e3]
+
+In Schedule 2, in paragraph 3A (Category 3A - persons with section 67 leave to remain)—
+
+- (a) at the end of sub-paragraph (1)(a) insert “and”;
+- (b) at the end of sub-paragraph (1)(b) for “, and” substitute a full stop;
+- (c) omit sub-paragraph (1)(c);
+- (d) at the end of sub-paragraph (2)(b) insert “and”;
+- (e) at the end of sub-paragraph (2)(c) for “, and” substitute a full stop;
+- (f) omit sub-paragraph (2)(d).
+
+### 49.[^key-8dd99369ab4a10b3a8e214d618b8f7a1]
+
+In Schedule 4 (disabled postgraduate student’s grant), in paragraph 13 (other persons who cease to have leave to enter or remain)—
+
+- (a) in sub-paragraph (1)(a), for “category 3 eligible postgraduate student (see Schedule 2)” substitute “category 3 eligible postgraduate student or an eligible postgraduate student on grounds of humanitarian protection under paragraph 339C of the immigration rules (see Schedule 2)”;
+- (b) in sub-paragraph (1)(b)(ii), after “postgraduate student” insert “or an eligible postgraduate student on grounds of humanitarian protection under paragraph 339C of the immigration rules”.
+
+### 50.[^key-07cd59261d93a347e41abadd55dd8616]
+
+In Schedule 4, in paragraph 14 (becoming eligible during an academic year)—
+
+- (a) for sub-paragraph (3)(b)(i) substitute—
+
+  > - (i) the student or the student’s spouse, civil partner or parent is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+  ;
+- (b) in sub-paragraph (4), in the appropriate place insert ““immigration rules” (“*rheolau mewnfudo*”);”.
+
+### 51.[^key-51766b9706619e1fd51a131c8f748193]
+
+In Schedule 5, in paragraph 4 (students becoming eligible during the course of an academic year)—
+
+- (a) for sub-paragraph (2)(a) substitute—
+
+  > - (a) the student or the student’s spouse, civil partner or parent is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+  ;
+- (b) in sub-paragraph (3), in the appropriate place insert ““immigration rules” (“*rheolau mewfudo*”);”.
+
+## PART 8 — AMENDMENTS TO THE EDUCATION (POSTGRADUATE DOCTORAL DEGREE LOANS) (WALES) REGULATIONS 2018
+
+### 52. Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^key-a59e4ef84ccbc6e671fe6e22e2fd0cb1]
+
+The Education (Postgraduate Doctorate Degree Loans) (Wales) Regulations 2018[^f00012] are amended in accordance with regulations 53 to 57.
+
+### 53.[^key-878b6535e549f16bc0a3d1d2557902d5]
+
+In regulation 2(1), in the definition of “person with leave to enter or remain”, in paragraph (a)(i), omit “humanitarian protection or”.
+
+### 54.[^key-0fe74db9a6c54e685ba4b92dc589f14c]
+
+For regulation 8(b) substitute—
+
+> - (b) the student or the student’s spouse, civil partner, parent, parent’s spouse or parent’s civil partner is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+.
+
+### 55.[^key-037506fc59d7141eb87efbc66416e661]
+
+In Schedule 1, after paragraph 4 (refugees and their family members) insert—
+
+> **4A. Protected persons and their family members**
+>
+> (1) A person—
+>
+> - (a) granted leave to enter or remain as a protected person;
+> - (b) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so since the person was granted such leave; and
+> - (c) who is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (2) A person who—
+>
+> - (a) is the spouse or civil partner of a person granted leave to enter or remain as a protected person;
+> - (b) on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person; and
+> - (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (3) A person—
+>
+> - (a) who—
+>   - (i) is the child of a person granted leave to enter or remain as a protected person, or the child of the spouse or civil partner of a person granted leave to enter or remain as a protected person; and
+>   - (ii) on the leave application date, was the child of a person granted leave to enter or remain as a protected person or the child of a person, who, on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person;
+> - (b) who was under 18 on the leave application date; and
+> - (c) who is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (4) In this paragraph—
+>
+> - (a) “leave application date” means the date on which a person made an application for leave to enter or remain in the United Kingdom that results in a person becoming a person granted leave to enter or remain as a protected person;
+> - (b) “person granted leave to enter or remain as a protected person” means a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules.
+
+### 56.[^key-e64ed3f69bcb1307ca100b1eb942fbe0]
+
+In Schedule 1, in paragraph 5 (persons granted stateless leave and their family members)—
+
+- (a) for sub-paragraph (1) substitute—
+
+  > (1) A person granted stateless leave who is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+  ;
+- (b) at the end of sub-paragraph (2)(a)(ii) insert “and”;
+- (c) at the end of sub-paragraph (2)(b) for “; and” substitute a full stop;
+- (d) omit sub-paragraph (2)(c);
+- (e) at the end of sub-paragraph (3)(b) insert “and”;
+- (f) at the end of sub-paragraph (3)(c) for “; and” substitute a full stop;
+- (g) omit sub-paragraph (3)(d).
+
+### 57.[^key-c99f0b57e49004277b4cb9ce10cf5f79]
+
+In Schedule 1, in paragraph 6A (persons with section 67 leave to remain)—
+
+- (a) at the end of sub-paragraph (1)(a) insert “and”;
+- (b) at the end of sub-paragraph (1)(b) for “; and” substitute a full stop;
+- (c) omit sub-paragraph (1)(c);
+- (d) at the end of sub-paragraph (2)(b) insert “and”;
+- (e) at the end of sub-paragraph (2)(c) for “; and” substitute a full stop;
+- (f) omit sub-paragraph (2)(d).
+
+## PART 9 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (POSTGRADUATE MASTER’S DEGREES) (WALES) REGULATIONS 2019
+
+### 58. Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^key-398d3a093d5559aa28c9f2a6b53a9743]
+
+The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00013] are amended in accordance with regulations 59 to 63.
+
+### 59.[^key-7cfc525010acee51dd73e8d0b8e67651]
+
+In regulation 16—
+
+- (a) for paragraph (1)(b)(i) substitute—
+
+  > - (i) the student or the student’s spouse, civil partner or parent is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+
+  ;
+- (b) in paragraph (2), in the appropriate place insert ““immigration rules” (“*rheolau mewnfudo*”);”.
+
+### 60.[^key-a165bb8595888ad8c9a5efb97a55be4a]
+
+In Schedule 2, after paragraph 2 (Category 2 - refugees and their family members) insert—
+
+> **2A. Category 2A - Protected persons and their family members**
+>
+> (1) A person—
+>
+> - (a) granted leave to enter or remain as a protected person,
+> - (b) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since the person was granted such leave, and
+> - (c) who is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (2) A person who—
+>
+> - (a) is the spouse or civil partner of a person granted leave to enter or remain as a protected person,
+> - (b) on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person, and
+> - (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (3) A person—
+>
+> - (a) who—
+>   - (i) is the child of a person granted leave to enter or remain as a protected person, or the child of the spouse or civil partner of a person granted leave to enter or remain as a protected person, and
+>   - (ii) on the leave application date, was the child of a person granted leave to enter or remain as a protected person or the child of a person, who, on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person,
+> - (b) who was under 18 on the leave application date, and
+> - (c) who is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (4) In this paragraph—
+>
+> - (a) “leave application date” means the date on which a person made an application for leave to enter or remain in the United Kingdom that results in a person becoming a person granted leave to enter or remain as a protected person;
+> - (b) “person granted leave to enter or remain as a protected person” means a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules.
+
+### 61.[^key-edabf1885246ba7c686ab24b418de681]
+
+In Schedule 2, in paragraph 3 (Category 3 - persons granted stateless leave and their family members)—
+
+- (a) for sub-paragraph (1) substitute—
+
+  > (1) A person granted stateless leave who is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+  ;
+- (b) at the end of sub-paragraph (2)(a)(ii) insert “and”;
+- (c) at the end of sub-paragraph (2)(b) for “, and” substitute a full stop;
+- (d) omit sub-paragraph (2)(c);
+- (e) at the end of sub-paragraph (3)(b) insert “and”;
+- (f) at the end of sub-paragraph (3)(c) for “, and” substitute a full stop;
+- (g) omit sub-paragraph (3)(d).
+
+### 62.[^key-a1abbd577dfad1992a2b4d52526b2bac]
+
+In Schedule 2, in paragraph 4 (Category 4 - persons with leave to enter or remain and their family members), in sub-paragraph (4)(a)(i), omit “humanitarian protection or”.
+
+### 63.[^key-938a30405edc43872c3fbdc02a77461b]
+
+In Schedule 2, in paragraph 5 (Category 5 - persons with section 67 leave to remain)—
+
+- (a) at the end of sub-paragraph (1)(a) insert “and”;
+- (b) at the end of sub-paragraph (1)(b) for “, and” substitute a full stop;
+- (c) omit sub-paragraph (1)(c);
+- (d) at the end of sub-paragraph (2)(b) insert “and”;
+- (e) at the end of sub-paragraph (2)(c) for “, and” substitute a full stop;
+- (f) omit sub-paragraph (2)(d).
+
+Kirsty Williams
+
+Minister for Education, one of the Welsh Ministers
+
+6 January 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend—
+
+- (a) the Education (Fees and Awards) (Wales) Regulations 2007 (“the Fees and Awards Regulations”),
+- (b) the Education (European University Institute) (Wales) Regulations 2014 (“the EUI Regulations”),
+- (c) the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015 (“the QCP Regulations”),
+- (d) the Education (Student Support) (Wales) Regulations 2017 (“the 2017 Regulations”),
+- (e) the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017 (“the 2017 Master’s Regulations”),
+- (f) the Education (Student Support) (Wales) Regulations 2018 (“the 2018 Regulations”),
+- (g) the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018 (“the Doctoral Degree Regulations”), and
+- (h) the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019 (“the 2019 Master’s Regulations”).
+
+Part 2 of these Regulations amends the Fees and Awards Regulations. The Fees and Awards Regulations provide that, in certain circumstances, it is lawful for institutions to discriminate between some or all of those persons mentioned in the Schedule and any other person, by charging higher fees to persons not mentioned in the Schedule than the fees which are charged to persons so mentioned. In order to fall within that Schedule, persons granted stateless leave and their family members and persons with leave to remain under section 67 of the Immigration Act 2016 (“section 67 leave”) and their children are required to have been ordinarily resident in the United Kingdom and Islands throughout the three year period preceding the first day of the first academic year of their course. Part 2 of these Regulations amends paragraphs 4A and 5A of the Schedule so as to remove that requirement.
+
+Part 3 of these Regulations amends the EUI Regulations. The EUI Regulations provide for support for one eligible student taking a designated higher education course at the European University Institute. In order to attain eligible student status, persons granted humanitarian protection and their family members, persons with stateless leave and their family members and persons with section 67 leave and their children are required to have been ordinarily resident in the United Kingdom and Islands throughout the three year period preceding the first day of the first academic year of their course. Part 3 of these Regulations inserts a new category (paragraph 4ZA) into Schedule 1 to the EUI Regulations and amends paragraphs 4A and 5A of that Schedule so as to remove that requirement. Part 3 of these Regulations also makes related amendments to regulations 3 and 6 of the EUI Regulations.
+
+Part 4 of these Regulations amends the QCP Regulations. The QCP Regulations prescribe the qualifying courses and persons for the purposes of section 5 of the Higher Education (Wales) Act 2015, which sets out that fee and access plans must specify or provide for the determination of fee limits in relation to qualifying courses. A fee limit is the maximum amount payable by a qualifying person in relation to a qualifying course and the Schedule to the QCP Regulations lists those persons who may be qualifying persons. In order to fall within that Schedule, persons granted stateless leave and their family members and persons with section 67 leave and their children are required to have been ordinarily resident in the United Kingdom and Islands throughout the three year period preceding the first day of the first academic year of their course. Part 4 of these Regulations amends paragraphs 4A and 5A of the Schedule so as to remove that requirement.
+
+Part 5 of these Regulations amends the 2017 Regulations. The 2017 Regulations provide for financial support for eligible students taking designated higher education courses which begin before 1 September 2018. In order to attain eligible student status, persons granted humanitarian protection and their family members, persons with stateless leave and their family members and persons with section 67 leave and their children are required to have been ordinarily resident in the United Kingdom and Islands throughout the three year period preceding the first day of the first academic year of their course. Part 5 of these Regulations inserts a new category (paragraph 4ZA) into Schedule 1 to the 2017 Regulations and amends paragraphs 4A and 5A of that Schedule so as to remove that requirement. Part 5 of these Regulations also makes related amendments to the 2017 Regulations.
+
+Part 6 of these Regulations amends the 2017 Master’s Regulations. The 2017 Master’s Regulations provide for financial support for eligible students taking designated postgraduate master’s degree courses which begin before 1 August 2019. In order to attain eligible student status, persons granted humanitarian protection and their family members, persons with stateless leave and their family members and persons with section 67 leave and their children are required to have been ordinarily resident in the United Kingdom and Islands throughout the three year period preceding the first day of the first academic year of their course. Part 6 of these Regulations inserts a new category (paragraph 4ZA) into Schedule 1 to the 2017 Master’s Regulations and amends paragraphs 4A and 5A of that Schedule so as to remove that requirement. Part 6 of these Regulations also makes related amendments to the 2017 Master’s Regulations.
+
+Part 7 of these Regulations amends the 2018 Regulations. The 2018 Regulations provide for financial support for eligible students taking designated higher education courses which begin on or after 1 September 2018. In order to attain eligible student status, persons granted humanitarian protection and their family members, persons with stateless leave and their family members and persons with section 67 leave and their children are required to have been ordinarily resident in the United Kingdom and Islands throughout the three year period preceding the first day of the first academic year of their course. Part 7 of these Regulations inserts a new category (paragraph 2ZA) into Schedule 2 to the 2018 Regulations and amends paragraphs 2A, 3 and 3A of that Schedule so as to remove that requirement. Part 7 of these Regulations also makes related amendments to the 2018 Regulations.
+
+Part 8 of these Regulations amends the Doctoral Degree Regulations. The Doctoral Degree Regulations provide for financial support for eligible students taking designated postgraduate doctoral degree courses which begin on or after 1 August 2018. In order to attain eligible student status, persons granted humanitarian protection and their family members, persons with stateless leave and their family members and persons with section 67 leave and their children are required to have been ordinarily resident in the United Kingdom and Islands throughout the three year period preceding the first day of the first academic year of their course. Part 8 of these Regulations inserts a new category (paragraph 4A) into Schedule 1 to the Doctoral Degree Regulations and amends paragraphs 5 and 6A of that Schedule so as to remove that requirement. Part 8 of these Regulations also makes related amendments to the Doctoral Degree Regulations.
+
+Part 9 of these Regulations amends the 2019 Master’s Regulations. The 2019 Master’s Regulations provide for financial support for eligible students taking designated postgraduate master’s degree courses which begin on or after 1 August 2019. In order to attain eligible student status, persons granted humanitarian protection and their family members, persons with stateless leave and their family members and persons with section 67 leave and their children are required to have been ordinarily resident in either the United Kingdom or United Kingdom and Islands throughout the three year period preceding the first day of the first academic year of their course. Part 9 of these Regulations inserts a new category (paragraph 2A) into Schedule 2 to the 2019 Master’s Regulations and amends paragraphs 3, 4 and 5 of that Schedule so as to remove that requirement. Part 9 of these Regulations also makes related amendments to the 2019 Master’s Regulations.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Higher Education Division, Welsh Government, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c. 40](https://www.legislation.gov.uk/ukpga/1983/40); section 1 was amended by the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), Schedule 12, paragraph 91; the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), Schedule 8, paragraph 19; the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 7; the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), Schedule 37, paragraph 57; the Leaning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraphs 1 and 11; the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 21, paragraph 5 and Schedule 22; the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18) , Schedule 14, paragraph 9; [S.I. 2005/3238 (W. 243)](https://www.legislation.gov.uk/wsi/2005/3238), Schedule 1, paragraph 9; [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080), Schedule 1, paragraph 12; [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, paragraph 1; the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), Schedule 5, paragraph 5 and Schedule 16, paragraph 5; and the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), Schedule 14, paragraph 33. Section 2 was amended by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44 and Schedule 4.
+
+[^f00002]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); section 22 was amended by the Learning and Skills Act 2000, section 146 and Schedule 11; the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6; the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 147; the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), sections 42 and 43 and Schedule 7; the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 257; the Education Act 2011, section 76; [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) and the Higher Education and Research Act [2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), section 88. *See* section 43(1) of the Teaching and Higher Education Act 1998 for the definitions of “prescribed” and “regulations”.
+
+[^f00003]: Footnote: The functions of the Secretary of State in section 1 of the Education (Fees and Awards) Act 1983 were transferred to the National Assembly for Wales so far as exercisable in relation to Wales by [S.I. 2006/1458](https://www.legislation.gov.uk/uksi/2006/1458) with effect from 8 June 2006. The functions of the Secretary of State in section 2 of that Act were transferred to the National Assembly so far as exercisable in relation to Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). The Secretary of State’s functions in section 22(2)(a) to (i) and (k) of the Teaching and Higher Education Act 1998 were transferred to the National Assembly for Wales so far as they relate to making provision in relation to Wales by section 44 of the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), with subsection (2)(a), (c) and (k) exercisable concurrently with the Secretary of State. The Secretary of State’s function in section 42 was transferred, in so far as exercisable in relation to Wales, to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). All the above functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). See section 57(1) for the definitions of “prescribed” and “regulations”.
+
+[^key-27695a665537dded32fa32942a808809]: Commencement: Reg. 1 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-df5a650b07286d0f53a6c4b9c831354a]: Commencement: Reg. 2 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310), amended by [S.I. 2008/1259 (W. 126)](https://www.legislation.gov.uk/wsi/2008/1259); [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142); [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); [S.I. 2011/1978 (W. 218)](https://www.legislation.gov.uk/wsi/2011/1978); [S.I. 2013/1792 (W. 179)](https://www.legislation.gov.uk/wsi/2013/1792); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
+
+[^key-5680dd94a7dbf8dd8ab6bea01819922b]: Commencement: Reg. 3 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-72f1ab5446c25c559e7284cfcd616bd8]: Commencement: Reg. 4 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-a6b7340dc690673c12f3224404c5da53]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2021/9/part/3) omitted (with application in accordance with reg. 2 of the amending W.S.I.) by virtue of The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.[S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3)), regs. 1(2), 2, 10(f)
+
+[^key-2eab51ee53f84f29f66370877ae52533]: Commencement: Reg. 12 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^f00008]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), amended by [S.I. 2016/276 (W. 100)](https://www.legislation.gov.uk/wsi/2016/276); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
+
+[^key-da7e8aa826269dde591e953c08d60cd2]: Commencement: Reg. 13 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-8dff9012f9ce01830cf392fae6c46ee4]: Commencement: Reg. 14 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-528d26c81e701561972fe56d9b7aacc4]: Commencement: Reg. 15 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^f00009]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), amended by [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142); [S.I. 2020/153 (W. 27)](https://www.legislation.gov.uk/wsi/2020/153); [S.I. 2020/708 (W. 159)](https://www.legislation.gov.uk/wsi/2020/708); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
+
+[^key-4e82df38f802927066995b7a2f05f18d]: Commencement: Reg. 16 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-c4f08e305625de1dfaa6122e5f57fb5a]: Commencement: Reg. 17 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-b074b11f680a6e54d9a46fa2f0ff982f]: Commencement: Reg. 18 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-617d51c8bafa4e11bdb4c91e48f6ff1b]: Commencement: Reg. 19 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-e0e394bf8cd0423a1326f5646b209bf3]: Commencement: Reg. 20 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-8b58155db4fa71feb94a027712329caa]: Commencement: Reg. 21 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-6d65a6a246a863c3c9288d88a548476b]: Commencement: Reg. 22 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-f91b98e2e468021d03ab4ca927b54b90]: Commencement: Reg. 23 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-26b1e2ed1d9c63894be00fd43b19a355]: Commencement: Reg. 24 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-7f0b30da09de85609f56618bbb194917]: Commencement: Reg. 25 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-31b0ca0716ee65201656c84f79030f3d]: Commencement: Reg. 26 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-b9ec90350527f1c8519616383130e9aa]: Commencement: Reg. 27 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-e8b05771821f72d6f708fc633f6f43c5]: Commencement: Reg. 28 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-7349fc9b1f4e3bc75a9319b61ecc534c]: Commencement: Reg. 29 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-1c96580a425adf77c1a4940893d83d9f]: Commencement: Reg. 30 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-90fac32fb862d9ae9a484ea0b2dcb3e6]: Commencement: Reg. 31 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-1468999826b7f8408e05379958bbe01b]: Commencement: Reg. 32 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-e7d0874527ac650c43a70c15976f249b]: Commencement: Reg. 33 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-33cea882ecee5beedaf1f6533bb83365]: Commencement: Reg. 34 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-4703fab53311ccce16d387cc890f7427]: Commencement: Reg. 35 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^f00010]: Footnote: [S.I. 2017/523 (W. 109)](https://www.legislation.gov.uk/wsi/2017/523), amended by [S.I. 2017/712 (W. 169)](https://www.legislation.gov.uk/wsi/2017/712); [S.I. 2018/277 (W. 53)](https://www.legislation.gov.uk/wsi/2018/277); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895); [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
+
+[^key-d6509f8ee4c0f080065b10190f71dda9]: Commencement: Reg. 36 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-e8e73e928a55dddc1b786b2ca39a4114]: Commencement: Reg. 37 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-7c7c55aa389557b823e4a9662883eb36]: Commencement: Reg. 38 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-7e212cfffa0bfb651262a1f69cacecb0]: Commencement: Reg. 39 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-7b90e22bfc6291e5dfac6fb0deb02f32]: Commencement: Reg. 40 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-bc54f6298299d9f7747a8ad13e54fb8f]: Commencement: Reg. 41 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^f00011]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), amended by [S.I. 2018/813 (W. 164)](https://www.legislation.gov.uk/wsi/2018/813); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142); [S.I. 2020/153 (W. 27)](https://www.legislation.gov.uk/wsi/2020/153); [S.I. 2020/708 (W. 159)](https://www.legislation.gov.uk/wsi/2020/708); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
+
+[^key-625701dc6f33ace20faabb9cdc72664c]: Commencement: Reg. 42 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-270c801443cb7ee01cbd1da5b6c4c174]: Commencement: Reg. 43 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-7d0d30437cda35de3e67ee8d319bb7ad]: Commencement: Reg. 44 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-17bbcae233934718fed7c9e9a90f32d7]: Commencement: Reg. 45 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-d1e150b3e716b1c400e0f002b4bce41b]: Commencement: Reg. 46 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-3dde957855fe2822fe55c1418a22d4e5]: Commencement: Reg. 47 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-9a761e0b18cc8364df3a39f2ed9591e3]: Commencement: Reg. 48 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-8dd99369ab4a10b3a8e214d618b8f7a1]: Commencement: Reg. 49 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-07cd59261d93a347e41abadd55dd8616]: Commencement: Reg. 50 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-51766b9706619e1fd51a131c8f748193]: Commencement: Reg. 51 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-a59e4ef84ccbc6e671fe6e22e2fd0cb1]: Commencement: Reg. 52 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^f00012]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656), amended by [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); [S.I. 2020/153 (W. 27)](https://www.legislation.gov.uk/wsi/2020/153); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
+
+[^key-878b6535e549f16bc0a3d1d2557902d5]: Commencement: Reg. 53 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-0fe74db9a6c54e685ba4b92dc589f14c]: Commencement: Reg. 54 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-037506fc59d7141eb87efbc66416e661]: Commencement: Reg. 55 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-e64ed3f69bcb1307ca100b1eb942fbe0]: Commencement: Reg. 56 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-c99f0b57e49004277b4cb9ce10cf5f79]: Commencement: Reg. 57 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-398d3a093d5559aa28c9f2a6b53a9743]: Commencement: Reg. 58 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^f00013]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895), amended by [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142); [S.I. 2020/153 (W. 27)](https://www.legislation.gov.uk/wsi/2020/153); [S.I. 2020/918 (W. 206)](https://www.legislation.gov.uk/wsi/2020/918); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
+
+[^key-7cfc525010acee51dd73e8d0b8e67651]: Commencement: Reg. 59 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-a165bb8595888ad8c9a5efb97a55be4a]: Commencement: Reg. 60 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-edabf1885246ba7c686ab24b418de681]: Commencement: Reg. 61 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-a1abbd577dfad1992a2b4d52526b2bac]: Commencement: Reg. 62 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+
+[^key-938a30405edc43872c3fbdc02a77461b]: Commencement: Reg. 63 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)

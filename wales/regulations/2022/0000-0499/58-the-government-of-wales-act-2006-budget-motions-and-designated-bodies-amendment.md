@@ -1,0 +1,83 @@
+---
+title: The Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2022
+id: wsi/2022/58
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-01-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2022/58
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2022/58/pdfs/wsi_20220058_mi.pdf
+- http://www.legislation.gov.uk/wsi/2022/58/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument has been made in consequence of a defect in [S.I. 2018/1173 (W. 237)](https://www.legislation.gov.uk/wsi/2018/1173) and is being issued free of charge to all known recipients of that Statutory Instrument
+
+2022 No. 58 (W. 22)
+
+Constitutional Law
+
+The Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2022
+
+Made
+
+20 January 2022
+
+Laid before Senedd Cymru
+
+24 January 2022
+
+Coming into force
+
+14 February 2022
+
+The Welsh Ministers, in exercise of the powers conferred on them by section 126A(2)(a) and (3) of the Government of Wales Act 2006[^f00001], make the following Order.
+
+In accordance with section 126A(6) of that Act, the Welsh Ministers have consulted with the Treasury before making this Order.
+
+## 1. Title and commencement
+
+(1) The title of this Order is the Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2022.
+
+(2) This Order comes into force on 14 February 2022.
+
+## 2. Amendments to the Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018
+
+(1) The Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018[^f00002] is amended as follows.
+
+(2) In the Schedule (Designated Bodies)—
+
+- (a) omit “North East Property LP (company number LP017936)”;
+- (b) at the appropriate place insert “North East Property (GP) Limited (company number 04069901)”.
+
+Rebecca Evans
+
+Minister for Finance and Local Government, one of the Welsh Ministers
+
+20 January 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018 (“**the 2018 Order**”) by removing the body North East Property LP from the list of designated bodies contained within the Schedule to that Order, which had been inserted in error by the Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2021 (“**the 2021 Order**”) ([S.I. 2021/1345 (W. 347)](https://www.legislation.gov.uk/wsi/2021/1345)).
+
+This Order also inserts the body North East Property (GP) Limited into the Schedule to the 2018 Order. The effect of this amendment is that the information relating to resources expected to be used by this body may be included within a Budget motion.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to this Order. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32); section 126A was inserted by section 44(2) of the Constitutional Reform and Governance Act [2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25).
+
+[^f00002]: Footnote: [S.I. 2018/1173 (W. 237)](https://www.legislation.gov.uk/wsi/2018/1173), amended by [S.I. 2019/1483 (W. 267)](https://www.legislation.gov.uk/wsi/2019/1483), [S. I. 2021/1345 (W. 347)](https://www.legislation.gov.uk/wsi/2021/1345) .

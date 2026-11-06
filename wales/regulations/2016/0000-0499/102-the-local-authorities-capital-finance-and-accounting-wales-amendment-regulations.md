@@ -1,0 +1,112 @@
+---
+title: The Local Authorities (Capital Finance and Accounting) (Wales) (Amendment) Regulations 2016
+id: wsi/2016/102
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2016-01-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2016/102
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2016/102/pdfs/wsi_20160102_mi.pdf
+- http://www.legislation.gov.uk/wsi/2016/102/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Capital Finance and Accounting) (Wales) (Amendment) Regulations 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 102 (W. 50)
+
+Local Government, Wales
+
+The Local Authorities (Capital Finance and Accounting) (Wales) (Amendment) Regulations 2016
+
+Made
+
+28 January 2016
+
+Laid before the National Assembly for Walest
+
+3 February 2016
+
+Coming into force
+
+31 March 2016
+
+The Welsh Ministers, in exercise of the powers conferred by sections 21(1), 24 and 123(1) of the Local Government Act 2003[^f00001], make the following Regulations.
+
+## 1. Title and commencement
+
+(1) The title of these Regulations is the Local Authorities (Capital Finance and Accounting) (Wales) (Amendment) Regulations 2016.
+
+(2) These Regulations come into force on 31 March 2016.
+
+(3) In these Regulations “the 2003 Regulations” (“*Rheoliadau 2003*”) means the Local Authorities (Capital Finance and Accounting) (Wales) Regulations 2003[^f00002].
+
+## 2. Amendment to the 2003 Regulations
+
+The 2003 Regulations are amended in accordance with regulation 3.
+
+## 3. Accounting practices
+
+After regulation 25 of the 2003 Regulations insert––
+
+> **25A. Accounting treatment of loans from the Public Works Loan Board drawn down on 2 April 2015**
+>
+> (1) This regulation applies to loans for the purpose of funding the settlement payment to exit the HRA Subsidy system—
+>
+> - (a) given to local authorities by the Public Works Loan Board; and
+> - (b) drawn down on 2 April 2015.
+>
+> (2) Where the interest rates applicable to the loans specified in paragraph (1) are agreed at a rate of interest which is other than the prevailing market rate of interest set on 2 April 2015, a local authority is not required to recognise in its revenue account any difference from the prevailing market rate for the purpose of fair value.
+>
+> (3) Interest payable on a loan specified in paragraph (1) must be recognised in a local authority revenue account on the day when, or as soon as practicable after, a local authority becomes liable to pay that interest.
+>
+> (4) This regulation applies to the financial years beginning on and after 1 April 2015.
+>
+> (5) In this regulation—
+>
+> - “fair value” means the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date, in accordance with proper practices as defined in regulation 25;
+> - “HRA Subsidy” means the system established under section 79 of the Local Government and Housing Act 1989[^f00003].
+
+Leighton Andrews
+
+Minister for Public Services, one of the Welsh Ministers
+
+28 January 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Part 1 of the Local Government Act 2003 introduced a legal framework within which local government may undertake capital expenditure. In Wales, the Welsh Ministers may regulate that activity by regulations. Such provision was made by the Local Authorities (Capital Finance and Accounting) (Wales) Regulations 2003 ([S.I. 2003/3239 (W. 319)](https://www.legislation.gov.uk/wsi/2003/3239)) (“the 2003 Regulations”).
+
+These Regulations amend the 2003 Regulations and apply in relation to local authorities in Wales for financial years beginning on and after 1 April 2015.
+
+Under proper accounting practices local authorities are required to measure assets and financial liabilities at fair value. Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+Where a loan is agreed at a value different from the fair value then the sum by which the amount lent exceeds fair value must be recognised in a local authority’s revenue account. Proper accounting practices stipulate that failure to recognise the difference in these amounts could result in a revenue account being qualified.
+
+These Regulations remove the requirement for local authorities to recognise in a revenue account the difference between fair value and the agreed value of loans acquired by the Welsh local authorities with housing stock from the Public Works Loan Board (“PWLB”).
+
+The Housing Revenue Account Subsidy (“HRAS”) system was originally established to enable the UK Government to identify the financial support needed by local authorities in England and Wales to manage their council housing. In April 2015 the eleven local authorities with housing stock in Wales entered into a buyout scheme and exited the HRAS system by way of PWLB loans. The HRAS buyout provides local authorities in Wales with new freedom to improve housing and build new homes. Once the relevant provisions of the Housing (Wales) Act 2014 come into force, the HRAS system will be abolished in relation to Wales.
+
+The loans to which these Regulations apply were drawn down on 2 April 2015 for the purpose of the HRAS buyout. These Regulations do not apply to any other liabilities of a local authority.
+
+In accordance with the amendment made by regulation 3, the interest payable on the PWLB loans must be recognised in a revenue account of a local authority on the day the authority becomes liable for that interest, or as soon as practicable.
+
+The Welsh Ministers’ Regulatory Impact Assessment Code for Subordinate Legislation has been considered in relation to these Regulations. As a result, a regulatory impact assessment has not been prepared as to the likely costs and benefits of these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26). Section 24 was amended by section 238(3) of the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28). Powers under section 21(1) of the Local Government Act 2003 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales, by virtue of section 24(1) of the Local Government Act 2003 as amended. The powers were previously vested in the National Assembly for Wales by section 24(1) of the Local Government Act 2003. By virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
+
+[^f00002]: Footnote: [S.I. 2003/3239 (W. 319)](https://www.legislation.gov.uk/wsi/2003/3239) as amended by [S.I. 2004/1010 (W. 107)](https://www.legislation.gov.uk/wsi/2004/1010), [2006/994 (W. 93)](https://www.legislation.gov.uk/wsi/2006/994), [2006/2914](https://www.legislation.gov.uk/uksi/2006/2914), [2007/1051 (W. 108)](https://www.legislation.gov.uk/wsi/2007/1051), [2008/588 (W. 59)](https://www.legislation.gov.uk/wsi/2008/588), [2009/560 (W. 52)](https://www.legislation.gov.uk/wsi/2009/560), [2010/685 (W. 67)](https://www.legislation.gov.uk/wsi/2010/685) and [2014/481 (W. 58)](https://www.legislation.gov.uk/wsi/2014/481).
+
+[^f00003]: Footnote: [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42). Section 79 of the Local Government and Housing Act 1989 is going to be repealed in relation to Wales by section 131(2) and (3)(a) of the [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7).

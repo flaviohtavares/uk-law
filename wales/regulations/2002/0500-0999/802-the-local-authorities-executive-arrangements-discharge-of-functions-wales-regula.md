@@ -1,0 +1,262 @@
+---
+title: The Local Authorities (Executive Arrangements) (Discharge of Functions) (Wales) Regulations 2002
+id: wsi/2002/802
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-03-21'
+text_date: '2013-11-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2002/802
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2002/802/pdfs/wsi_20020802_mi.pdf
+- http://www.legislation.gov.uk/wsi/2002/802/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Executive Arrangements) (Discharge of Functions) (Wales) Regulations 2002
+
+> Text as at 2013-11-27.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2002 No. 802 (W.87)
+
+LOCAL GOVERNMENT, WALES
+
+The Local Authorities (Executive Arrangements) (Discharge of Functions) (Wales) Regulations 2002
+
+Made
+
+21st March 2002
+
+Coming into force
+
+1st April 2002
+
+The National Assembly for Wales makes the following Regulations in exercise of the powers conferred upon it by sections 18(1),(2), 19(1),(2),(4),(5),(6),20(1),(2), 105(2) and 106(1) and (2) of the Local Government Act 2000[^f00001]:—
+
+## 1. Citation, commencement and application[^key-ff0308de628f0a344c6583c0e61b1062]
+
+(1) These Regulations may be cited as the Local Authorities (Executive Arrangements) (Discharge of Functions) (Wales) Regulations 2001 and shall come into force on 1st April 2002.
+
+(2) These Regulations apply in Wales only.
+
+## 2. Interpretation[^key-aeaabf9dd4f000e3cba91b68468d82a6]
+
+In these Regulations—
+
+- “the 1972 Act” (“*Deddf 1972*”) means the Local Government Act 1972[^f00002];
+- “the 2000 Act” (“*Deddf 2000*”) means the Local Government Act 2000;
+- “area committee” (“*pwyllgor ardal*”) means a committee or sub-committee of a local authority as defined in section 18(3) of the 2000 Act;
+- “relevant person” (“*person perthnasol*”) means for the purposes of Regulations 6(2), (3) and 11(4)—
+  - (a) where the local authority has a mayor and cabinet executive, the elected mayor;
+  - (b) [^key-ab753e66c2bd29037e4e4e4439efbf85]...
+  - (c) where the local authority has a leader and cabinet executive and the power to make the arrangements arises by virtue of sub-paragraphs (b), (c) or (d) of regulation 4(1), the executive leader.
+
+## 3. Power to make arrangements: mayor and cabinet executives[^key-520de7cf6839e80c64d448690c3ca30c]
+
+In the case of a local authority which has a mayor and cabinet executive, the following persons have power to make arrangements under regulations 6 and 7 and to make arrangements under section 101(5) of the 1972 Act in accordance with regulation 11—
+
+- (a) the elected mayor as respects any functions which are the responsibility of the executive;
+- (b) unless the elected mayor otherwise directs, the executive of the local authority, a member of the executive other than the elected mayor, or a committee of the executive as respects any functions which, by virtue of section 14 of the 2000 Act, may be discharged by the executive, that member or, as the case may be, that committee.
+
+## 4. Power to make arrangements: leader and cabinet executives[^key-087b80d3cdb60df3c2b75ef3ff2a31b4]
+
+(1) In the case of a local authority which has a leader and cabinet executive, the following persons have power to make arrangements under regulations 6 and 7 and to make arrangements under section 101(5) of the 1972 Act in accordance with regulation 11—
+
+- (a) the executive, a member of the executive, or a committee of the executive as respects any functions which are allocated by executive arrangements to the executive, that member or, as the case may be, that committee;
+- (b) subject to paragraph (2) below, the executive, a member of the executive or a committee of the executive as respects any functions which the executive leader has arranged to be discharged by the executive, that member or, as the case may be, that committee;
+- (c) subject to paragraph (2) below, a committee of the executive, as respects any functions which the executive have arranged to be discharged by that committee by virtue of section 15(5)(a) of the 2000 Act;
+- (d) the executive leader as respects any functions which are the responsibility of the executive to the extent that they are not allocated by provision made in executive arrangements.
+
+(2) Where the executive leader makes any arrangements under regulation 6 or 7 or makes arrangements under section 101(5) of the 1972 Act in accordance with regulation 11 the executive leader may direct, at that or any subsequent time, that paragraph (1)(b) or (c) above is not to apply to any of the functions which are the subject of those arrangements or is not to apply to any of those functions in such cases or circumstances as the executive leader may direct.
+
+## 5. Power to make arrangements: mayor and council manager executives[^key-d740e59b752413eb3d758ce961e47bb2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Discharge of functions by area committees[^key-f49c10d81432eb30374d9f9f46a51865]
+
+(1) A person with power to make arrangements under this regulation may arrange for the discharge of any functions which are the responsibility of the executive of the relevant local authority by an area committee of that authority.
+
+(2) Where by virtue of this regulation any functions may be discharged by an area committee, then unless the relevant person directs otherwise, the area committee may arrange for the discharge of any of those functions by a sub-committee of that committee or by an officer of the authority.
+
+(3) Where by virtue of paragraph (2) above any functions may be discharged by a sub-committee of an area committee, then, unless the area committee or the relevant person directs otherwise, the sub-committee may arrange for the discharge of any of those functions by an officer of the authority.
+
+(4) Any arrangements made under this regulation by a person specified in regulation 3, 4 or 5 above for the discharge of any functions by an area committee are not to prevent that person from exercising those functions.
+
+(5) As soon as reasonably practicable after making arrangements under this regulation the executive must secure that copies of a document setting out the provisions of the arrangements are available at the authority’s principal office for inspection by members of the public at all reasonable hours.
+
+(6) The executive shall, in preparing the document referred to in paragraph (5) above, have regard to any guidance issued by the National Assembly under section 38 of the 2000 Act.
+
+## 7. Discharge of functions by another local authority[^key-70899e8ad2dc63e6bb80e650cc228e54]
+
+(1) A person with power to make arrangements under this regulation may make arrangements with another local authority in accordance with this regulation.
+
+(2) Arrangements under this regulation may provide—
+
+- (a) for a function which is the responsibility of the executive of one local authority to be discharged either by another local authority or by the executive of that other authority if that function is a function of that other local authority but is not one which is the responsibility of the executive of that other local authority;
+- (b) for a function which is the responsibility of the executive of one local authority to be discharged by the executive of another local authority if that function is a function which is the responsibility of the executive of that other local authority;
+- (c) for a function which is the responsibility of the executive of one local authority to be discharged by the executive of another local authority if that function is not a function of that other local authority and that other authority has an executive;
+- (d) for a function which is the responsibility of the executive of one local authority to be discharged by another local authority if that function is not a function of that other local authority and that other authority does not have an executive.
+
+(3) Any arrangements made under this regulation are not to prevent the person who made the arrangements from exercising the functions to which they relate.
+
+## 8. Arrangements for the functions of a local authority to be discharged by the executive of another local authority[^key-d206c8b34c4a8bcaa7eaed6bc6e519ab]
+
+(1) A local authority may make arrangements with another local authority for the discharge by the executive of that other local authority of any functions of the first mentioned authority which are not the responsibility of the executive of that authority if—
+
+- (a) the functions are not functions of that other local authority; or
+- (b) the functions are functions of that other local authority and are the responsibility of the executive of that other authority.
+
+(2) Any arrangements made under this regulation are not to prevent the authority that made the arrangements from exercising the functions to which they relate.
+
+## 9. Functions delegated to another local authority for the purposes of sections 14 and 16 of the 2000 Act[^key-1b7d22039396aff8bb7abbff4c95d185]
+
+Where, by virtue of regulation 7 or 8 above arrangements are in force for the discharge of any functions of a local authority, or for the discharge of any functions which are the responsibility of the executive of that authority, by the executive of another local authority, those functions shall be treated, for the purposes of sections 14 to 16 of the 2000 Act, as functions which are the responsibility of the executive of that other local authority.
+
+## 10. Exercise of functions by another local authority[^key-3cb0890d3562901b4a9fca8b7212157d]
+
+(1) Where, by virtue of regulation 7 above, arrangements are in force for the discharge of any functions which are the responsibility of the executive of a local authority by another local authority, then, subject to the terms of the arrangements, that other authority may arrange for the discharge of any of those functions by a committee, sub-committee or officer of theirs.
+
+(2) Where by virtue of paragraph (1) above any functions may be discharged by a committee of a local authority, then, unless that authority otherwise directs, the committee may arrange for the discharge of any of those functions by a sub-committee or an officer of the authority.
+
+(3) Where by virtue of paragraph (1) or (2) above any functions may be discharged by a sub-committee of a local authority, then, unless that authority or, as the case may be, that committee otherwise directs, the sub-committee may arrange for the discharge of any of those functions by an officer of the authority.
+
+## 11. Joint exercise of functions[^key-14d48937d1aeda00222880477cec8773]
+
+(1) Arrangements made under section 101(5) of the 1972 Act by a person on whom the power to do so is conferred by regulation 3, 4 or 5 above must be made in accordance with this regulation.
+
+(2) The arrangements must be made—
+
+- (a) where the functions to which the arrangements relate are the responsibility of the executive of the other local authority concerned, with the person who, by virtue of regulation 3, 4 or 5 above, has power to make such arrangements on behalf of that authority;
+- (b) in any other case, with the other local authority.
+
+(3) If the arrangements provide for the discharge of functions by a joint committee, appointments of the persons who are to represent each local authority on that committee must be made, and the number of such persons to be appointed must be determined by the person by whom the arrangements are made on behalf of that authority.
+
+(4) A joint committee appointed in accordance with this regulation may, subject to the terms of the arrangements and unless the relevant person in relation to the local authority whose functions are the subject of the arrangements directs otherwise, arrange for the discharge of any of its functions by a sub-committee or an officer of one of the authorities concerned, and any such sub-committee may, subject to the terms of the arrangements and unless the joint committee or the relevant person in relation to the local authority whose functions are the subject of the arrangements directs otherwise, arrange for the discharge of any of its functions by such an officer.
+
+(5) Any arrangements made in accordance with this regulation by a person specified in regulation 3, 4 or 5 above for the discharge of any functions by a joint committee are not to prevent that person from exercising those functions.
+
+(6) Where arrangements made on behalf of a local authority in accordance with this regulation by a person specified in regulation 3, 4 or 5 above provide for the appointment to a joint committee of persons who are not members of the executive of that authority, that person must, as soon as reasonably practicable after making the arrangements, secure that copies of a document setting out the provisions of the arrangements are available at the authority’s principal office for inspection by members of the public at all reasonable hours.
+
+(7) A person preparing the document referred to in paragraph (6) above shall have regard to any guidance issued by the National Assembly for Wales under section 38 of the 2000 Act.
+
+(8) The Local Authorities (Executive Arrangements) (Decisions, Documents and Meetings) (Wales) Regulations 2001[^f00003] shall apply to a meeting of a joint committee—
+
+- (a) which is established by arrangements made in accordance with this regulation only by executives, members of executives or committees of executives where all of the executives concerned hold their meetings in private; and
+- (b) in which no member is a member of one of the local authorities concerned but is not a member of the executive of that authority,
+
+as if meetings of that joint committee were private meetings of a committee of a local authority executive, unless all of those executives agree otherwise.
+
+(9) Except as described in paragraph (8) above, Part VA of the 1972 Act (access to meetings and documents of certain authorities, committees and sub-committees) shall apply to a joint committee established in accordance with this regulation.
+
+## 12. Members of joint committees[^key-107b1013a6294489ace176e8fcfc74c4]
+
+(1)[^key-f5e4636a939e8e238d6dabae3242d20f] Subject to paragraph (3) below, a member or an officer of a local authority may be appointed to a joint committee in accordance with regulation 11 above by an executive, a member of an executive or a committee of an executive regardless, in the case of a member, of whether that person is a member of that executive, and the political balance requirements shall not apply to the appointment of such members.
+
+(2)[^key-114d8afd4614762d0b1d95c1ceae3a12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where—
+
+- (a) the joint committee has functions in respect of part only of the area of one of the local authorities concerned;
+- (b) those functions are the responsibility of the executive of that authority; and
+- (c) either—
+  - (i) the area of that part does not exceed one half[^key-63f2273fe43edef588d3507825a849d5] of the total area of the authority; or
+  - (ii) the population of that part, as estimated by the authority, does not exceed one half of the total population of the authority as so estimated,
+
+  the representatives of that authority on the joint committee may include any members of that authority who have been elected for electoral divisions or wards which are wholly or partly within that part of the authority’s area, and the political balance requirements shall not apply to the appointment of those members.
+
+(4) Where the joint committee has functions in respect of part of the area of one of the local authorities concerned and the representatives of that authority on that committee are appointed by the authority, the political balance requirements shall not apply to the appointment of those representatives and those representatives must be members of that local authority who have been elected for electoral divisions or wards which are wholly or partly within that part of the authority’s area.
+
+## 13. Revocation[^key-36476bb7fc586b23936cb48417b25b18]
+
+The Local Authorities (Executive Arrangements) (Discharge of Functions) (Wales) Regulations 2001[^f00004] are hereby revoked.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00005]
+
+D. Elis - Thomas
+
+The Presiding Officer of the National Assembly
+
+21st March 2002
+
+(This note is not part of the Regulations)
+
+Part II of the Local Government Act 2000 (“the Act”) provides for local authorities to make arrangements (“executive arrangements”) for the creation and operation of an executive of the authority under which certain functions of the authority are the responsibility of the executive.
+
+Under sections 18 and 19 of the Act the National Assembly for Wales may by regulations make provision which enables an executive of a local authority in Wales, or a committee or a specified member of such an executive, to make arrangements for the discharge by an area committee of the authority or by another local authority of any functions which, under executive arrangements, are the responsibility of the authority.
+
+Section 19 of the Act also enables the National Assembly for Wales, by regulations, to make provision which enables a local authority in Wales to make arrangements for the discharge by the executive of another local authority of any of the authority’s functions.
+
+Under section 20 of the Act the National Assembly for Wales may by regulations make provision which enables a local authority in Wales to make arrangements for the discharge by that authority and one or more other local authorities jointly of any functions which, under the executive arrangements, are the responsibility of the executive of the authority.
+
+Regulations 3, 4 and 5 specify the persons who have the power to make such arrangements in the case of a mayor and cabinet executive, a leader and cabinet executive and a mayor and council manager executive respectively.
+
+Regulation 6 provides for the making of arrangements for the discharge of functions, which are the responsibility of the executive of a local authority in Wales by an area committee of that authority.
+
+Regulation 7 provides for the making of arrangements for the discharge of functions which are the responsibility of the executive of a local authority in Wales by another local authority.
+
+Regulation 8 provides for the making, in specified circumstances, of arrangements for the discharge of functions which are not the responsibility of the executive of a local authority in Wales by the executive of another local authority.
+
+Regulation 9 provides that where arrangements have been made under Regulation 7 or 8 for the discharge of functions of a local authority in Wales by the executive of another local authority, those functions are to be treated as functions which are the responsibility of the executive of that other local authority for the purposes of sections 14 to 16 of the Act.
+
+Regulation 10 provides that, where arrangements have been made under Regulation 7 for the discharge of functions which are the responsibility of the executive of a local authority in Wales by another local authority, the exercise of those functions may be delegated to a committee, sub-committee or officer of that other local authority.
+
+Regulation 11 provides for the making of arrangements for the discharge of functions which are the responsibility of the executive of a local authority in Wales by that authority and one or more other local authorities jointly or by a joint committee.
+
+Regulation 12 provides for the membership of a joint committee appointed in accordance with arrangements made under Regulation 11.
+
+Regulation 13 revokes the Local Authorities (Executive Arrangements) (Discharge of Functions) (Wales) Regulations 2001.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
+
+[^key-ff0308de628f0a344c6583c0e61b1062]: Commencement: Reg. 1 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^key-aeaabf9dd4f000e3cba91b68468d82a6]: Commencement: Reg. 2 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^f00002]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^key-ab753e66c2bd29037e4e4e4439efbf85]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2002/802/regulation/2) omitted (27.11.2013) by virtue of [The Local Government (Wales) Measure 2011 (Modification of Enactments and other Provisions) Order 2013 (S.I. 2013/3005)](https://www.legislation.gov.uk/wsi/2013/3005), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2013/3005/article/1/1), [8(2)](https://www.legislation.gov.uk/wsi/2013/3005/article/8/2) (with [art. 9](https://www.legislation.gov.uk/wsi/2013/3005/article/9))
+
+[^key-520de7cf6839e80c64d448690c3ca30c]: Commencement: Reg. 3 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^key-087b80d3cdb60df3c2b75ef3ff2a31b4]: Commencement: Reg. 4 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^key-d740e59b752413eb3d758ce961e47bb2]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2002/802/regulation/5) omitted (27.11.2013) by virtue of [The Local Government (Wales) Measure 2011 (Modification of Enactments and other Provisions) Order 2013 (S.I. 2013/3005)](https://www.legislation.gov.uk/wsi/2013/3005), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2013/3005/article/1/1), [8(3)](https://www.legislation.gov.uk/wsi/2013/3005/article/8/3) (with [art. 9](https://www.legislation.gov.uk/wsi/2013/3005/article/9))
+
+[^key-f49c10d81432eb30374d9f9f46a51865]: Commencement: Reg. 6 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^key-70899e8ad2dc63e6bb80e650cc228e54]: Commencement: Reg. 7 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^key-d206c8b34c4a8bcaa7eaed6bc6e519ab]: Commencement: Reg. 8 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^key-1b7d22039396aff8bb7abbff4c95d185]: Commencement: Reg. 9 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^key-3cb0890d3562901b4a9fca8b7212157d]: Commencement: Reg. 10 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^key-14d48937d1aeda00222880477cec8773]: Commencement: Reg. 11 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^f00003]: Footnote: [S.I 2001/2290 (W. 178)](https://www.legislation.gov.uk/wsi/2001/2290).
+
+[^key-107b1013a6294489ace176e8fcfc74c4]: Commencement: Reg. 12 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^key-f5e4636a939e8e238d6dabae3242d20f]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/12/1) substituted (30.1.2003) by [The Local Authorities (Executive Arrangements) (Discharge of Functions) (Amendment) (Wales) Regulations 2003 (S.I. 2003/147)](https://www.legislation.gov.uk/wsi/2003/147), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2003/147/regulation/1/1), [3](https://www.legislation.gov.uk/wsi/2003/147/regulation/3)
+
+[^key-114d8afd4614762d0b1d95c1ceae3a12]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/wsi/2002/802/regulation/12/2) omitted (27.11.2013) by virtue of [The Local Government (Wales) Measure 2011 (Modification of Enactments and other Provisions) Order 2013 (S.I. 2013/3005)](https://www.legislation.gov.uk/wsi/2013/3005), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2013/3005/article/1/1), [8(4)(a)](https://www.legislation.gov.uk/wsi/2013/3005/article/8/4/a) (with [art. 9](https://www.legislation.gov.uk/wsi/2013/3005/article/9))
+
+[^key-63f2273fe43edef588d3507825a849d5]: Textual amendment: Words in [reg. 12(3)(c)(i)](https://www.legislation.gov.uk/wsi/2002/802/regulation/12/3/c/i)[(ii)](https://www.legislation.gov.uk/wsi/2002/802/regulation/12/3/c/ii) substituted (27.11.2013) by [The Local Government (Wales) Measure 2011 (Modification of Enactments and other Provisions) Order 2013 (S.I. 2013/3005)](https://www.legislation.gov.uk/wsi/2013/3005), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2013/3005/article/1/1), [8(4)(b)](https://www.legislation.gov.uk/wsi/2013/3005/article/8/4/b) (with [art. 9](https://www.legislation.gov.uk/wsi/2013/3005/article/9))
+
+[^key-36476bb7fc586b23936cb48417b25b18]: Commencement: Reg. 13 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/802/regulation/1/1)
+
+[^f00004]: Footnote: S.I. [2001/2287 (W. 175)](https://www.legislation.gov.uk/wsi/2001/2287).
+
+[^f00005]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

@@ -1,0 +1,399 @@
+---
+title: The Collaboration Between Education Bodies (Wales) Regulations 2012
+id: wsi/2012/2655
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-10-22'
+text_date: '2014-05-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2012/2655
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2012/2655/pdfs/wsi_20122655_mi.pdf
+- http://www.legislation.gov.uk/wsi/2012/2655/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Collaboration Between Education Bodies (Wales) Regulations 2012
+
+> Text as at 2014-05-22.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 2655 (W.287)
+
+EDUCATION, WALES
+
+The Collaboration Between Education Bodies (Wales) Regulations 2012
+
+Made
+
+22 October 2012
+
+Laid before the National Assembly for Wales
+
+23 October 2012
+
+Coming into force
+
+16 November 2012
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 6(1) and (2) and 32 of the Education (Wales) Measure 2011[^f00001], make the following Regulations:
+
+## 1. Title, commencement and application[^key-c8124eb04954010fd936130d8587cb8a]
+
+(1) The title of these Regulations is the Collaboration Between Education Bodies (Wales) Regulations 2012 and they come into force on 16 November 2012.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Revocation[^key-52f8bcc4c2c0687860aaa91a77cbe789]
+
+The following regulations are revoked—
+
+- (a) the Collaboration Between Maintained Schools (Wales) Regulations 2008[^f00002]; and
+- (b) the Collaboration Arrangements (Maintained Schools and Further Education Bodies) (Wales) Regulations 2008[^f00003].
+
+## 3. Interpretation[^key-493856a8b873d47c5b6abceae79a549c]
+
+(1) In these Regulations—
+
+- “chief education officer” (“*prif swyddog addysg*”) means a person appointed to that post pursuant to section 532 of the Education Act 1996[^f00004];
+- federation” ([^key-22c6430eea14ad26900fd04e55f01ef3]*“ffederasiwn”* ) and “federated school” (*“ysgol ffederal”*) are to be interpreted in accordance with section 21 of the Education (Wales) Measure 2011;
+- federation transition period” (“*cyfnod pontio’r ffederasiwn*”) means the period of time after a determination has been made to proceed with the proposals for a federation under regulations 7(1), 10(2), or 12(2) of the Federation of Maintained Schools (Wales) Regulations 2014 but before the federation date;.
+- “the Federation of Maintained Schools Regulations” (“*y Rheoliadau Ffedereiddio Ysgolion a Gynhelir*”) means the Federation of Maintained Schools (Wales) Regulations 2014[^key-84e3ee18e518725a527da0be42440d62];
+- “the Government of Maintained Schools Regulations” (“*y Rheoliadau Llywodraethu Ysgolion a Gynhelir*”) means the Government of Maintained Schools (Wales) Regulations 2005[^f00006];
+- “head teacher” (“*pennaeth*”) means a head teacher of a school the governing body of which is a collaborating education body;
+- “instrument and articles” (“*offeryn ac erthyglau*”) in relation to a further education body, means the instrument and articles of government in force under section 22 or 29 of the Further and Higher Education Act 1992[^f00007], as the case may be;
+- “local authority member” (“*aelod awdurdod lleol*”) means a person who is appointed by a local authority to be a member of a joint committee;
+- “non governor member” (“*aelod nad yw'n llywodraethwr*”) means a person who is appointed by a joint committee as a member of it but who is not a member of a collaborating governing body, or a further education body and is not a local authority member;
+- “the principal” (“*y penadur*”) means the principal of a collaborating further education body or any person acting as principal; and
+- “the Staffing of Maintained Schools Regulations” (“*y Rheoliadau Staffio Ysgolion a Gynhelir*”) means the Staffing of Maintained Schools (Wales) Regulations 2006[^f00008].
+
+(2) Any reference in these Regulations to a further education body is a reference to a body described in section 1(c) and (d) of the Education (Wales) Measure 2011.
+
+(3) Any reference in these Regulations to a governing body is a reference to a governing body of a maintained school.
+
+(4) Any reference in these Regulations to a school is a reference to a maintained school.
+
+## 4. Delegation of functions to a joint committee by education bodies[^key-52307b59ad6998fb6dd6019ed1b80a3d]
+
+(1) Subject to paragraph (5) where[^key-9efadd7c468b6be5e340c79c7f3d84e3] the collaborating education body is a—
+
+- (a) governing body, that body may only delegate such functions to a joint committee as may be delegated to a committee under regulation 50 of the Government of Maintained Schools Regulations or regulation 62[^key-f7312fdf35513de11bed0f387ed0eaf2] of the Federation of Maintained Schools Regulations;
+- (b) further education body, that body may only delegate such functions to a joint committee as may be delegated to a committee under the relevant provisions of its instrument and articles; or
+- (c) local authority, that body may only delegate such functions to a joint committee as may be delegated to a committee under its constitution.
+
+(2) An education body may not delegate to a joint committee in accordance with these Regulations any of its functions in relation to—
+
+- (a) the appointment and dismissal of, and taking disciplinary action against, persons employed under a contract of employment by a local authority;
+- (b) the dismissal of, and taking disciplinary action against, persons employed under a contract of employment by a further education body;
+- (c) the dismissal of, and taking disciplinary action against, school staff in the Staffing of Maintained Schools Regulations; or
+- (d) pupil or student discipline.
+
+(3) Where a further education body delegates any of its functions which relate to individual members of the further education body’s staff to a joint committee, the relevant provisions of the instrument and articles apply to the discharge of such functions.
+
+(4) For the purposes of these Regulations, in regulations 50 to 52 of the Government of Maintained Schools Regulations and regulations 62 to 64[^key-d6c30154e5b2eea2a7c777e87a66a767] of the Federation of Maintained Schools Regulations—
+
+- (a) “committee” (“*pwyllgor*”) means a joint committee established in accordance with these Regulations;
+- (b) “governor” (“*llywodraethwr*”) means a member excluding a non governor member of a joint committee established in accordance with these Regulations; and
+- (c) “head teacher” (“*pennaeth*”) means a head teacher of any of the schools the governing body of which is a collaborating education body.
+
+(5)[^key-b079efea0503179cc03909c799da4a81] During the federation transition period nothing in these Regulations prevents the governing bodies of schools intending to federate from forming a joint selection panel.
+
+## 5. Establishment of joint committees[^key-22a7b46a035a2c51540be44bb0fafb20]
+
+(1) The collaborating education bodies must determine, and review annually, the constitution, terms of reference and (subject to regulation 7) membership of any joint committee they decide to establish.
+
+(2) The quorum for a meeting of the joint committee and for any vote on any matter at such a meeting is one half (rounded up to a whole number) of the membership of the joint committee excluding any vacancies and any members suspended from that meeting in accordance with regulation 8.
+
+(3) A joint committee must appoint a chair annually and may remove its chair from office at any time.
+
+(4) A joint committee must elect a member of that joint committee to act as chair in the absence of the chair appointed under paragraph (3).
+
+(5) The following may not act as a chair of a joint committee—
+
+- (a) a person who is employed to work at a school, the local authority or a further education body,
+- (b) a registered pupil of a school, or
+- (c) a student undertaking a full time or part time course of study of further education at a further education body.
+
+(6) The membership of a joint committee may include non governor members and the extent to which such members are entitled to vote is to be determined by the joint committee.
+
+(7) Non governor members must not make up the majority of members on a joint committee excluding associate pupil governors.
+
+## 6. Clerks to joint committees[^key-2ace49ff396427f468dfb441ac503c73]
+
+(1) A joint committee must appoint a clerk and may remove the clerk from office at any time.
+
+(2) A joint committee may, if the clerk fails to attend one of its meetings, appoint any one of its members to act as a clerk for the purposes of that meeting.
+
+(3) The clerk appointed under paragraph (1) or (2) must not be—
+
+- (a) a head teacher; or
+- (b) a principal.
+
+(4) The clerk must—
+
+- (a) convene meetings of the joint committee;
+- (b) attend meetings of the joint committee and ensure that minutes of the proceedings are drawn up; and
+- (c) perform any other functions determined by the joint committee.
+
+## 7. Non governor members[^key-56221d21697fada0a228fb20dba0daf7]
+
+(1) A non governor member will continue in office until removed in accordance with regulation 5(1) or paragraph (5).
+
+(2) Any person who is disqualified from holding office as a governor under regulation 24 of, and paragraphs 2 to 12 of Schedule 5 to, the Government of Maintained Schools Regulations or under regulation 35 of, and paragraphs 2 to 13[^key-d56f63510dab96f1004bca857b9130fd] of Schedule 7 to, the Federation of Maintained Schools Regulations is disqualified from holding, or continuing to hold, office as a non governor member of a joint committee.
+
+(3) Subject to paragraphs (4) and (5) the collaborating education bodies must determine the voting rights of non governor members.
+
+(4) A non governor member must not vote on any resolution concerning—
+
+- (a) an individual pupil or member of staff if the non governor member was excluded under regulation 8(2) from that part of the meeting during which it was considered;
+- (b) the budget and financial commitments of a collaborating education body; or
+- (c) admissions.
+
+(5) A joint committee may remove a non governor member from office at any time.
+
+## 8. Right of persons to attend meetings of joint committees[^key-752d51b10957cf73ac64150ac82077b8]
+
+(1) Subject to regulation 10 and to the Schedule the following persons are entitled to attend any meeting of a joint committee—
+
+- (a) any member of the joint committee, provided that the member is not a member of a governing body who has been suspended in accordance with regulation 49 of the Government of Maintained Schools Regulations or regulation 58 of the Federation of Maintained Regulations;
+- (b) a head teacher, whether or not that head teacher is a member of the joint committee;
+- (c) a principal of a collaborating further education body, whether or not that person is a member of the joint committee;
+- (d) the clerk to the joint committee;
+- (e) the chief education officer of a local authority which has a collaborating education body in its area or that person’s representative; and
+- (f) such other persons as the joint committee may determine.
+
+(2) A joint committee may exclude a non governor member from any part of its meeting when the business under consideration concerns—
+
+- (a) an individual member of staff,
+- (b) an individual pupil or student, or
+- (c) admissions.
+
+(3) A joint committee may exclude a local authority member from any part of its meeting when the business under consideration concerns an—
+
+- (a) individual member of staff, or
+- (b) individual pupil or student.
+
+## 9. Proceedings of joint committees[^key-d01643de18312416aa54a16b388713a5]
+
+(1) The clerk must convene meetings of the joint committee and, when exercising this function, the clerk must comply with any direction given by—
+
+- (a) the joint committee; or
+- (b) the chair of the joint committee, so far as such direction is not inconsistent with any direction given under sub-paragraph (a).
+
+(2) Where a clerk has not been appointed, joint committee meetings must be convened by the chair who, when exercising this function, must comply with any direction given by the joint committee.
+
+(3) The clerk must provide the information referred to in paragraph (4) to—
+
+- (a) each member of the joint committee; and
+- (b) the head teachers and principals of the collaborating education bodies (whether or not they are members of the joint committee).
+
+(4) The information that must be provided in accordance with paragraph (3) is—
+
+- (a) written notice of the meeting;
+- (b) a copy of the agenda for the meeting; and
+- (c) any reports or other papers to be considered at the meeting.
+
+(5) Subject to any direction given in accordance with paragraph (1), the information set out in paragraph (4) must be given at least five clear days in advance of the meeting.
+
+(6) Where the chair of the joint committee so determines on the ground that there are matters demanding urgent consideration, it will be sufficient if the written notice of the meeting states that fact and the notice, agenda and reports or other papers to be considered at the meeting are given within such shorter period as the clerk directs.
+
+(7) The proceedings of a joint committee are not invalidated by—
+
+- (a) any vacancy among its number; or
+- (b) any defect in the appointment of any member of the joint committee.
+
+(8) No vote on any matter may be taken at a meeting of a joint committee unless the majority of members of the joint committee present are members of a collaborating education body excluding non governor members.
+
+(9) Every question to be decided at a meeting of a joint committee must be determined by a majority of the votes of the members of the joint committee present and voting on the question.
+
+(10) Where there is an equal division of votes the person who is acting as chair for the purposes of the meeting has a second or casting vote, provided that person is a member of a collaborating education body excluding non governor members.
+
+## 10. Restrictions on persons taking part in proceedings[^key-91aa0e2f67482b7782137e571491e44d]
+
+(1) In this regulation and in the Schedule “relevant person” (“*person perthnasol*”) means—
+
+- (a) a member of the joint committee,
+- (b) a head teacher (whether or not that person is a member of the joint committee),
+- (c) a principal of a collaborating education body (whether or not that person is a member of the joint committee),
+- (d) the clerk to the joint committee, and
+- (e) any person permitted to attend a meeting of the joint committee in accordance with regulation 8(1)(f).
+
+(2) Subject to paragraph (4), where—
+
+- (a) in relation to any matter there may be a conflict between the interests of a relevant person and the interests of a collaborating education body;
+- (b) a fair hearing is required and there is any reasonable doubt about a relevant person’s ability to act impartially in relation to any matter; or
+- (c) a relevant person has a pecuniary interest in any matter;
+
+that person, if present at a meeting of the joint committee at which the matter is the subject of consideration, must disclose their interest, withdraw from the meeting and not vote on the matter in question.
+
+(3) Nothing in this regulation or in the Schedule is to be construed as precluding—
+
+- (a) the joint committee from—
+  - (i) allowing a person who appears to them to be able to give evidence to attend any hearing conducted by them into any matter and to present their evidence; or
+  - (ii) hearing representations from a relevant person acting in a capacity other than that of a relevant person; or
+- (b) a relevant person from entering into a contract with a collaborating education body from which that person is entitled to profit.
+
+(4) A person who is acting as the clerk to a meeting of the joint committee is not required to withdraw from a meeting by this regulation or the Schedule unless their appointment to office, their remuneration, or disciplinary action against them is the subject of consideration, but if this regulation or the Schedule would have otherwise required them to withdraw, that person must not act in any capacity other than that of clerk.
+
+(5) Where there is any dispute as to whether a relevant person is required by this regulation to withdraw from a meeting of the joint committee and not vote, that question must be determined by the other members of the joint committee present at the meeting.
+
+(6) The Schedule makes provision for pecuniary interests and other specified conflicts of interest.
+
+## 11. Minutes[^key-db465b4847c1dc23c92031a564b62b0e]
+
+(1) Minutes of the proceedings of a meeting of a joint committee must be drawn up by the clerk or by the person acting as the clerk for the purposes of the meeting; and must be signed (subject to the approval of the joint committee) by the chair of the next meeting of the joint committee.
+
+(2) The minutes of proceedings must be entered into a book kept for the purpose by the clerk and may be entered on loose-leaf pages consecutively numbered but in that case the person signing the minutes must initial each page.
+
+(3) The person acting as clerk to the joint committee for the purposes of any meeting must record immediately before the entry recording the minutes of that meeting in the book or pages used for that purpose the names of those members of the joint committee and of any other person present at the meeting concerned.
+
+(4) Subject to paragraph (5) the joint committee must, as soon as reasonably practicable make available for inspection at each of the collaborating education bodies by any interested person, and give to the collaborating education bodies—
+
+- (a) a copy of the agenda for every meeting;
+- (b) a copy of the signed minutes of every such meeting;
+- (c) a copy of any report or other paper considered at any such meeting;
+- (d) a copy of the draft minutes of any meeting, if they have been approved by the person acting as chair of that meeting; and
+- (e) a copy of the agenda and signed minutes for every meeting and a copy of any report or other paper considered at the meeting.
+
+(5) The joint committee may exclude from any item required to be made available in pursuance of paragraph (4) any material relating to—
+
+- (a) a named person who works, or who it is proposed should work, at a local authority, a school or further education body;
+- (b) a named pupil at, or candidate for admission to, a school or further education body; or
+- (c) any other matter that, by reason of its nature, the joint committee is satisfied should remain confidential.
+
+(6) Each page of published copies of any draft minutes of proceedings of meetings approved by the chair must indicate that they are draft minutes.
+
+Leighton Andrews
+
+Minister for Education and Skills, one of the Welsh Ministers
+
+22 October 2012
+
+## SCHEDULE — Pecuniary interests and other specified conflicts of interest
+
+(Regulation 10)
+
+### 1. Pecuniary interests[^key-d4577ee396f8e49fc4cb6f7cbb2a30d8]
+
+(1) For the purposes of regulation 10, a pecuniary interest in a contract, proposed contract or other matter includes a case where—
+
+- (a) a relevant person was nominated or appointed to an office as a member of a collaborating education body by a person with whom the contract was made or is proposed to be made;
+- (b) a relevant person is a partner of a person, or is in the employment of a person, with whom the contract was made or is proposed to be made; or
+- (c) a relative of a relevant person (including their spouse or civil partner within the meaning of the Civil Partnership Act 2004[^f00009] or someone living with that person as if they were that person’s spouse or civil partner), to the knowledge of that relevant person has, or would be treated as having, such an interest.
+
+(2) For the purposes of regulation 10, a relevant person is not to be treated as having a pecuniary interest in any matter—
+
+- (a) provided that person’s interest in the matter is no greater than the interest of the generality of those paid to work for the collaborating education body;
+- (b) by reason only of the fact that the person was nominated or appointed to office by, is a member of, or is employed by, any public body; or
+- (c) by reason only of the fact that the person is a member of a corporation or other body, if that person has no significant financial interest in any securities of that corporation or other body.
+
+(3) Members of the joint committee are not, by reason of their pecuniary interest in the matter, prevented from considering and voting upon proposals for one or more of the collaborating education bodies to take out insurance protecting its members against liabilities incurred by them arising out of their office and a collaborating education body is not, by reason of the pecuniary interest of its members, prevented from obtaining such insurance and paying the premiums.
+
+### 2. Appointment as member of the joint committee, chair or clerk[^key-e450c75feebe69bd72ef33eb8cfe3a5b]
+
+(1) This sub-paragraph applies where a relevant person is present at a meeting of the joint committee at which a subject of consideration is—
+
+- (a) that person’s own appointment, reappointment or removal as a member of the joint committee;
+- (b) that person’s own appointment or removal from office as clerk to, or chair of, the joint committee; or
+- (c) if that person is a sponsor governor, any determination under paragraph 2 of Schedule 4 to the Government of Maintained Schools Regulations or paragraph 2 of Schedule 5 to the Federation of Maintained Schools Regulations as to the provision in the instrument of government for sponsor governors.
+
+(2) In any case where sub-paragraph (1) applies, the relevant person’s interests must be treated for the purpose of regulation 10(2) as being in conflict with the collaborating education bodies' interests.
+
+### 3. Pay or appraisal of persons working at one of the collaborating education bodies[^key-fd832d1b77f02d1205e665082d54a915]
+
+(1) This sub-paragraph applies where a relevant person who is paid to work for a collaborating education body other than as head teacher or principal is present at a meeting of the joint committee at which a subject of consideration is the pay or performance appraisal of any particular person employed to work for a collaborating education body.
+
+(2) This sub-paragraph applies where a head teacher or principal of a collaborating education body is present at a meeting of the joint committee at which a subject of consideration is their own pay or performance appraisal.
+
+(3) In any case where sub-paragraph (1) or (2) applies, the relevant person’s interests shall be treated for the purpose of regulation 10(2) as being in conflict with the collaborating education bodies' interests.
+
+### 4. Persons who are members of more than one collaborating education body[^key-496eaac177ed1fbccb54963c694a7e6b]
+
+The fact that a person is a member of a joint committee of a collaborating education body for more than one school or further education body is not under any circumstances to be considered a conflict of interest for the purpose of these Regulations.
+
+(This note is not part of the Regulations)
+
+The Education (Wales) Measure 2011 enables governing bodies of maintained schools, further education bodies and local authorities (“education bodies”) to develop joint working arrangements. These Regulations make further provision in relation to the arrangements that may be made for their functions to be discharged by joint committees.
+
+Regulation 1 provides that these Regulations will come into force on 16 November 2012. Regulation 2 makes provision in relation to revocation. Regulation 3 contains the interpretation provisions.
+
+Regulation 4 makes provision as to when two or more education bodies may arrange for their functions to be discharged jointly by means of a joint committee (and in the case of a local authority, this means their education functions only).
+
+Regulation 5 makes provision in relation to the establishment by collaborating education bodies of joint committees, including determining its constitution, membership and terms of reference which must be reviewed annually. The quorum appoints its own chair (who may be removed from office at any time) and may appoint non governor members whose voting rights are determined by the collaborating education bodies (subject to certain restrictions).
+
+The joint committee must appoint a clerk to convene its meetings and ensure minutes of its proceedings are drawn up (regulation 6). Regulation 7 provides that a joint committee may appoint “non governor members”, who are not members of the collaborating governing bodies, are not appointed by the local authority and who may be accorded voting rights by the collaborating education bodies (subject to certain restrictions). Non governor members must not be disqualified from being governors under the Government of Maintained Schools (Wales) Regulations 2005, the Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010 or from the membership of further education bodies under the relevant instrument and articles of governance.
+
+Under regulation 8, joint committees have power to decide who may attend their meetings. Regulation 9 provides for convening meetings and voting.
+
+Regulation 10 and the Schedule deal with conflicts of interest and the circumstances in which members of a joint committee and others who are otherwise entitled to attend meetings of the joint committee must withdraw from the meeting and not vote. The general principle is that where there is a conflict between the interests of such a person and the interests of the collaborating education bodies, or whether the principles of natural justice require a fair hearing and there is any reasonable doubt about a person’s ability to act impartially, they should withdraw from the meeting and not vote.
+
+Regulation 11 deals with the drawing up of minutes of joint committee meetings and the publication of the minutes.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 nawm 7](https://www.legislation.gov.uk/mwa/2011/7).
+
+[^key-c8124eb04954010fd936130d8587cb8a]: Commencement: Reg. 1 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-52f8bcc4c2c0687860aaa91a77cbe789]: Commencement: Reg. 2 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^f00002]: Footnote: S.I. [2008/168 (W.21)](https://www.legislation.gov.uk/wsi/2008/168).
+
+[^f00003]: Footnote: S.I. [2008/3082 (W.271)](https://www.legislation.gov.uk/wsi/2008/3082).
+
+[^key-493856a8b873d47c5b6abceae79a549c]: Commencement: Reg. 3 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^f00004]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56) as amended by the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31) paragraph 4(1) and (2) of Schedule 2 and by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^key-22c6430eea14ad26900fd04e55f01ef3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/3/1) inserted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(2)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/2/b)
+
+[^key-84e3ee18e518725a527da0be42440d62]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/3/1) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(2)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/2/a)
+
+[^f00006]: Footnote: S.I. [2005/2914 (W.211)](https://www.legislation.gov.uk/wsi/2005/2914) as amended by S.I. [2005/3200 (W.236)](https://www.legislation.gov.uk/wsi/2005/3200), S.I. [2006/873 (W.81)](https://www.legislation.gov.uk/wsi/2006/873), S.I. [2007/944 (W.80)](https://www.legislation.gov.uk/wsi/2007/944), S.I. [2009/2544 (W.206)](https://www.legislation.gov.uk/wsi/2009/2544), S.I. [2010/638 (W.64)](https://www.legislation.gov.uk/wsi/2010/638), S.I. [2010/1142 (W.101)](https://www.legislation.gov.uk/wsi/2010/1142) and S.I. [2010/2582 (W.216)](https://www.legislation.gov.uk/wsi/2010/2582).
+
+[^f00007]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
+
+[^f00008]: Footnote: S.I. [2006/873 (W.81)](https://www.legislation.gov.uk/wsi/2006/873) as amended by S.I. [2007/944 (W.80)](https://www.legislation.gov.uk/wsi/2007/944), S.I. [2009/2544 (W.206)](https://www.legislation.gov.uk/wsi/2009/2544), S.I. [2009/3161 (W.275)](https://www.legislation.gov.uk/wsi/2009/3161) and S.I. [2010/1142 (W.101)](https://www.legislation.gov.uk/wsi/2010/1142).
+
+[^key-52307b59ad6998fb6dd6019ed1b80a3d]: Commencement: Reg. 4 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-9efadd7c468b6be5e340c79c7f3d84e3]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/1) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/a)
+
+[^key-f7312fdf35513de11bed0f387ed0eaf2]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/1/a) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/b)
+
+[^key-d6c30154e5b2eea2a7c777e87a66a767]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/4) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(c)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/c)
+
+[^key-b079efea0503179cc03909c799da4a81]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/5) inserted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(d)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/d)
+
+[^key-22a7b46a035a2c51540be44bb0fafb20]: Commencement: Reg. 5 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-2ace49ff396427f468dfb441ac503c73]: Commencement: Reg. 6 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-56221d21697fada0a228fb20dba0daf7]: Commencement: Reg. 7 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-d56f63510dab96f1004bca857b9130fd]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/7/2) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(4)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/4)
+
+[^key-752d51b10957cf73ac64150ac82077b8]: Commencement: Reg. 8 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-d01643de18312416aa54a16b388713a5]: Commencement: Reg. 9 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-91aa0e2f67482b7782137e571491e44d]: Commencement: Reg. 10 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-db465b4847c1dc23c92031a564b62b0e]: Commencement: Reg. 11 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-d4577ee396f8e49fc4cb6f7cbb2a30d8]: Commencement: Sch. para. 1 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^f00009]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^key-e450c75feebe69bd72ef33eb8cfe3a5b]: Commencement: Sch. para. 2 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-fd832d1b77f02d1205e665082d54a915]: Commencement: Sch. para. 3 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+
+[^key-496eaac177ed1fbccb54963c694a7e6b]: Commencement: Sch. para. 4 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)

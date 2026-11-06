@@ -1,0 +1,230 @@
+---
+title: The Religious Character of Schools (Designation Procedure) (Wales) Regulations 2016
+id: wsi/2016/1144
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-11-22'
+text_date: '2022-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2016/1144
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2016/1144/pdfs/wsi_20161144_mi.pdf
+- http://www.legislation.gov.uk/wsi/2016/1144/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Religious Character of Schools (Designation Procedure) (Wales) Regulations 2016
+
+> Text as at 2022-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 1144 (W. 275)
+
+Education, Wales
+
+The Religious Character of Schools (Designation Procedure) (Wales) Regulations 2016
+
+Made
+
+22 November 2016
+
+Laid before the National Assembly for Wales
+
+25 November 2016
+
+Coming into force
+
+1 January 2017
+
+The Welsh Ministers in exercise of the powers conferred on the Secretary of State by sections 69(5) and 138(7) of the School Standards and Framework Act 1998, and now exercisable by them[^f00001] make the following Regulations:
+
+## 1. Title, commencement, application and revocation[^key-5576773c760e064ec894ec34e8a9d474]
+
+(1) The title of these Regulations is the Religious Character of Schools (Designation Procedure) (Wales) Regulations 2016 and they come into force on 1 January 2017.
+
+(2) The Religious Character of Schools (Designation Procedure) Regulations 1998[^f00002] are revoked in relation to Wales.
+
+(3) Regulation 49 of the New Maintained Schools (Wales) Regulations 2005[^f00003] is revoked.
+
+## 2. Interpretation[^key-dd729b22930517866351c58d28f21495]
+
+(1) In these Regulations—
+
+- “the 1998 Act” (“*Deddf 1998*”) means the School Standards and Framework Act 1998;
+- “the 2013 Act” (“*Deddf 2013*”) means the School Standards and Organisation (Wales) Act 2013[^f00004];
+- “[^key-55b46c96d221d03dec3c9c04657f12c8]**the relevant religion or religious denomination**” (“***y grefydd berthnasol neu’r enwad crefyddol perthnasol***”) means the religion or religious denomination in accordance with whose tenets teaching and learning in respect of Religion, Values and Ethics is provided—
+  - (a) under paragraph 7(3) or paragraph 8(4) of Schedule 1 to the Curriculum and Assessment (Wales) Act 2021, or
+  - (b) under section 61 of that Act, and in accordance with—
+    - (i) any provisions of the school’s trust deed that relate to teaching and learning in respect of the mandatory element of Religion, Values and Ethics, or
+    - (ii) the tenets of the religion or religious denomination specified in relation to the school in an order under section 68A of the School Standards and Framework Act 1998.
+
+(2) In these Regulations—
+
+- (a) references to a “voluntary school” are references to such a school within the meaning of the 1998 Act including a new school which has a temporary governing body and which will be such a school when established; and
+- (b) references to a “governing body” include a temporary governing body.
+
+## 3. Procedure for new schools[^key-7a083601db2669fba9c160b3c22ebdee]
+
+(1) Where proposals to establish a new voluntary school are approved under section 50 or 51 of the 2013 Act, or where the proposer determines to implement the proposals under section 53 of the 2013 Act, the Welsh Ministers must designate it as a school which has a religious character if the requirements set out in this regulation are satisfied.
+
+(2) The proposers must have applied to the Welsh Ministers for the school to be designated as a school which has a religious character and, in the case of a new school which is intended to be a Church in Wales school[^f00005], a Roman Catholic Church school[^f00006] or a Church of England school[^f00007], such application must have been approved by the diocesan authority which is intended to be the appropriate diocesan authority when the school opens.
+
+(3) A temporary governing body must have been constituted for the school.
+
+(4) The proposals published under section 48 of the 2013 Act to establish the school must specify—
+
+- (a) that the school is intended to be a school which has a religious character; and
+- (b) the religion or religious denomination or religions or religious denominations with which the school is to be associated.
+
+(5) The terms or the proposed terms of—
+
+- (a) the trust deed; and
+- (b) the instrument of government for the school,
+
+must be consistent with the published proposals.
+
+(6) The Welsh Ministers must be satisfied as to one or more of the following matters—
+
+- (a) at least one member of the governing body of the school is a person appointed as a temporary foundation governor (within the meaning of the New Maintained Schools (Wales) Regulations 2005[^f00008]) to represent the interests of one or more religions or religious denominations;
+- (b) the premises provided or to be provided for the school are or are to be held on trust so that, in the event of the discontinuance of the school, the property concerned is held for, or is to be sold and the proceeds of sale applied for, the benefit of one or more religions or religious denominations;
+- (c) the premises provided or to be provided for the school are or are to be held on trust in connection with—
+  - (i) the provision of education, or
+  - (ii) the conduct of an educational institution,
+
+in accordance with the tenets of one or more religions or religious denominations.
+
+## 4. Changes in designations and statements[^key-e14fcd4d8dbc1e92f5bb5d6efea3492c]
+
+(1) Where the Welsh Ministers are at any time of the opinion—
+
+- (a) that a school has been incorrectly designated or not designated; or
+- (b) that the statement as to the relevant religion or religious denomination is incorrect
+
+they must amend the order in question or make another order as they consider appropriate.
+
+(2) Before making an order in accordance with paragraph (1) the Welsh Ministers must consult—
+
+- (a) the governing body and any trustees of the school; and
+- (b) such religious bodies set out in Schedule 1 as they consider appropriate.
+
+(3) In so far as the Welsh Ministers make an order under section 68A(1)[^key-29c280afdd692948877b9d3f112198a7] of the 1998 Act which—
+
+- (a) does not change the designation of a school, or the statement as to the relevant religion or religious denomination in relation to that school, made in a previous order (other than a provisional designation or statement); or
+- (b) removes an entry on the discontinuance of the school,
+
+they need undertake no consultation in relation to that particular designation or statement before making such an order.
+
+## 5. Manner of consultation with governing bodies and trustees[^key-4deccb323afc8ebf19f623a646d382b2]
+
+(1) Where these Regulations require the Welsh Ministers to consult the governing body and any trustees of the school, they must do so by sending two copies of the consultation document (one for the governing body and one for the trustees) to the school.
+
+(2) The governing body of a school must not delegate to a committee of the governing body or to the chair of the governing body any decision in relation to their response to a consultation referred to in paragraph (1) and any such response must indicate that it is the response of all, or the majority, of the members of the governing body and that no decision in relation to that response has been delegated.
+
+## 6. Consequential amendments[^key-3757ec9be8e740fbdb772a548f1a4c17]
+
+The consequential amendments set out in Schedule 2 have effect.
+
+Kirsty Williams
+
+Cabinet Secretary for Education, one of the Welsh Ministers
+
+## SCHEDULE 1 — Religious Bodies[^key-d354e63b9f6735bcf2e5898ddf6b49d4]
+
+Regulation 4(2)
+
+[^key-d354e63b9f6735bcf2e5898ddf6b49d4]
+
+- The Church in Wales
+- The Catholic Education Service
+- The Church of England General Synod Board of Education
+- The Methodist Church
+- The Free Church Federal Council
+- The Seventh-Day Adventist Church
+- The Board of Deputies of British Jews
+- The Association of Muslim Schools
+
+## SCHEDULE 2 — Consequential Amendments
+
+Regulation 6
+
+### 1. Government of Maintained Schools (Wales) Regulations 2005[^key-6be17add724173621b5619b5f9e0723c]
+
+In regulation 50(1) of the Government of Maintained Schools (Wales) Regulations 2005[^f00009] for “regulation 3(2) of the Religious Character of Schools (Designation Procedure) Regulations 1998” substitute “regulation 5(2) of the Religious Character of Schools (Designation Procedure) (Wales) Regulations 2016”.
+
+### 2. Federation of Maintained Schools (Wales) Regulations 2014[^key-946e389d15a65e0a91ef28cae1e6b2f8]
+
+In regulation 62(1) of the Federation of Maintained Schools (Wales) Regulations 2014[^f00010] for “regulation 3(2) of the Religious Character of Schools (Designation Procedure) Regulations 1998” substitute “regulation 5(2) of the Religious Character of Schools (Designation Procedure) (Wales) Regulations 2016”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations set out the procedure to be followed by the Welsh Ministers in making an order or orders designating voluntary schools as schools which have a religious character under section 69 of the School Standards and Framework Act 1998 (“the 1998 Act”).
+
+Designation as a school which has a religious character is relevant for a number of purposes, including:
+
+- (a) as part of the mechanism for determining the form of religious education to be provided under Schedule 19 to the 1998 Act;
+- (b) as part of the mechanism for determining the form of collective worship to be provided under Schedule 20 to the 1998 Act;
+- (c) as part of the mechanism for determining school staffing matters under sections 58 to 60 of the 1998 Act;
+- (d) as part of the mechanism for determining the criteria for the admission of pupils to schools under the Code issued under section 84 of the 1998 Act;
+- (e) for the purposes of the disposition of assets under paragraph 5 of Schedule 3 to the 1998 Act, so that assets can be re-assigned for the benefit of schools of the same religion or religious denomination; and
+- (f) the inclusion of a description of the ethos of the school in the instrument of government under regulations made under section 20 of the Education Act 2002.
+
+It should be noted that section 554 of the Education Act 1996 (power to make new provision as to the use of endowments held or used wholly or partly for or in connection with the provision at a school of religious education in accordance with the tenets of a particular religion or religious denomination) makes no reference to a school having a religious character.
+
+Religious character is not acquired or lost by virtue of being designated or not designated under the procedure set out in these Regulations. Designation is the recognition of a religious character which a school already has as a question of fact. Under the School Standards and Organisation (Wales) Act 2013 a school must first close if it wishes to acquire or change religious character.
+
+A statement in relation to a school that the religious denomination in accordance with whose tenets religious education is, or may be, required to be provided at the school in accordance with Schedule 19 to the 1998 Act, is Roman Catholic does not determine whether or not the school is a Catholic school according to canon law.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). The functions of the Secretary of State under these sections were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers under section 162 of, and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-5576773c760e064ec894ec34e8a9d474]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 1998/2535](https://www.legislation.gov.uk/uksi/1998/2535).
+
+[^f00003]: Footnote: [S.I. 2005/2912 (W 209)](https://www.legislation.gov.uk/wsi/2005/2912).
+
+[^key-dd729b22930517866351c58d28f21495]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/1144/regulation/2) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+
+[^f00004]: Footnote: [2013 anaw 1](https://www.legislation.gov.uk/anaw/2013/1).
+
+[^key-55b46c96d221d03dec3c9c04657f12c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/2/1) substituted (with effect in accordance with reg. 12(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [12(3)](https://www.legislation.gov.uk/wsi/2022/666/regulation/12/3)
+
+[^key-7a083601db2669fba9c160b3c22ebdee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/1144/regulation/3) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+
+[^f00005]: Footnote: *See* section 142(1) of the 1998 Act.
+
+[^f00006]: Footnote: *See* section 142(1) of the 1998 Act.
+
+[^f00007]: Footnote: *See* section 142(1) of the 1998 Act.
+
+[^f00008]: Footnote: [S.I. 2005/2912 (W. 209)](https://www.legislation.gov.uk/wsi/2005/2912).
+
+[^key-e14fcd4d8dbc1e92f5bb5d6efea3492c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/1144/regulation/4) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+
+[^key-29c280afdd692948877b9d3f112198a7]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/4/3) substituted (with effect in accordance with reg. 12(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [12(4)](https://www.legislation.gov.uk/wsi/2022/666/regulation/12/4)
+
+[^key-4deccb323afc8ebf19f623a646d382b2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/1144/regulation/5) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+
+[^key-3757ec9be8e740fbdb772a548f1a4c17]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/1144/regulation/6) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+
+[^key-d354e63b9f6735bcf2e5898ddf6b49d4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2016/1144/schedule/1) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+
+[^key-6be17add724173621b5619b5f9e0723c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2016/1144/schedule/2/paragraph/1) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 2005/2914 (W. 211)](https://www.legislation.gov.uk/wsi/2005/2914).
+
+[^key-946e389d15a65e0a91ef28cae1e6b2f8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2016/1144/schedule/2/paragraph/2) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+
+[^f00010]: Footnote: [S.I. 2014/1132 (W. 111)](https://www.legislation.gov.uk/wsi/2014/1132).

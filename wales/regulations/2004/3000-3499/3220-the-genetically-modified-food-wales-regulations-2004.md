@@ -1,0 +1,245 @@
+---
+title: The Genetically Modified Food (Wales) Regulations 2004
+id: wsi/2004/3220
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-12-07'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2004/3220
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2004/3220/pdfs/wsi_20043220_mi.pdf
+- http://www.legislation.gov.uk/wsi/2004/3220/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Genetically Modified Food (Wales) Regulations 2004
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2004 No. 3220 (W.276)
+
+FOOD, WALES
+
+The Genetically Modified Food (Wales) Regulations 2004
+
+Made
+
+7 December 2004
+
+Coming into force
+
+17 December 2004
+
+The National Assembly for Wales in exercise of the powers, conferred by sections 16(1)(a), (e) and (f), 17(2), 18(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^f00001] and now vested in it[^f00002], and having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency, and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^f00003] and in accordance with section 48(4) and (4B) of that Act, makes the following Regulations:
+
+## 1. Title, commencement and application[^key-49f1a5eeefa509740df13a7ba64e73cb]
+
+These Regulations —
+
+- (a) may be cited as the Genetically Modified Food (Wales) Regulations 2004;
+- (b) come into force on 17 December 2004; and
+- (c) apply to Wales only.
+
+## 2. Interpretation[^key-ee9fb1536f7e77f659372638582f6ee7]
+
+(1) In these Regulations —
+
+- “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990;
+- “food authority” (“*awdurdod bwyd*”) has the same meaning as in section 5(1A) and (3)(a) and (b) of the Food Safety Act 1990.
+- “Regulation 1829/2003” (“*Rheoliad 1829/2003*”) means Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed[^f00004];
+- “specified Community provision” (“*darpariaeth benodedig y Gymuned*”) means a provision of Regulation 1829/2003 specified in Column 1 and described in Column 2 of the Schedule to these Regulations.
+
+(2) In these Regulations —
+
+- (a) any reference to a numbered article is a reference to the article so numbered in Regulation 1829/2003;
+- (b) any reference to a numbered regulation is a reference to the regulation so numbered in these Regulations;
+- (c) any reference to a Schedule is a reference to the Schedule to these Regulations
+
+(3) Other expressions used in these Regulations and in Regulation 1829/2003 have the same meaning in these Regulations as in Regulation 1829/2003.
+
+## 3. Submission of applications for authorisation to market products[^key-79600d1409a57e1de388f85a1d53ddf5]
+
+The national competent authority for the purposes of Chapter II of Regulation 1829/2003 is the Food Standards Agency[^f00005].
+
+## 4. Enforcement[^key-7929d5d9b85a05a4f3ce850341826561]
+
+Each food authority, within its area is to enforce and execute the provisions of these Regulations and Chapter II of Regulation 1829/2003.
+
+## 5. Offences and Penalties[^key-42ca934f148d01590748967249e15d3d]
+
+(1) Any person who contravenes or fails to comply with the specified Community provision referred to in Part I of the Schedule is guilty of an offence and liable —
+
+- (a) on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment to imprisonment for a term not exceeding two years or to a fine or to both.
+
+(2) Any person who contravenes or fails to comply with any of the specified Community provisions referred to in Part II of the Schedule is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+## 6. Application of various provisions of the Act[^key-9a8726ba3d345912ec060b98111aad36]
+
+(1) The following provisions of the Act apply for the purposes of these Regulations and Regulation 1829/2003 as they apply for the purposes of the Act —
+
+- (a) Section 3 (presumption that food is intended for human consumption);
+- (b) Section 20 (offences due to the fault of another person);
+- (c) Section 21 (defence of due diligence) as it applies for the purposes of sections 8, 14 or 15 of that Act;
+- (d) Section 22 (defence of publication in the course of business);
+- (e) Section 30(8) (which relates to documentary evidence);
+- (f) Section 33(1) (obstruction, etc of officers);
+- (g) Section 33(2), with the modification that the reference to “any such requirement as is mentioned in subsection 1(b) above” is deemed to be a reference to any such requirement as is mentioned in that subsection as applied by sub-paragraph (f);
+- (h) Section 35(1) (punishment of offences) insofar as it relates to offences under section 33(1) as applied by sub-paragraph (f);
+- (i) Section 35(2) and (3) insofar as it relates to offences under section 33(2) as applied by sub-paragraph (g);
+- (j) Section 36 (offences by bodies corporate); and
+- (k) Section 44 (protection of officers acting in good faith); and
+- (1) Section 50 (service of documents).
+
+(2) Section 34 (time limit for prosecutions) applies to offences under regulation 5 as it applies to offences punishable under section 35(2) of the Act.
+
+## 7. Inspection, detention and seizure of suspected food[^key-12cd59ba7ae53c115a8937f00195ab45]
+
+(1) Section 8(3) of the Act applies for the purposes of these Regulations as if it read as follows —
+
+> (3) Where any food which fails to comply with a specified Community provision within the meaning of the Genetically Modified Food (Wales) Regulations 2004 is part of a batch, lot or consignment of food of the same class or description, it is to be presumed for the purposes of section 9 as applied by those Regulations until the contrary is proved, that all of the food in that batch, lot or consignment fails to comply with that specified Community provision.
+
+(2) Section 9 of the Act applies for the purposes of these Regulations as if it read as follows —
+
+> **9.** (1) An authorised officer of a food authority may at all reasonable times inspect any food intended for human consumption which —
+>
+> - (a) has been placed on the market; or
+> - (b) is in possession of, or has been deposited with or consigned to, any person for the purpose of placing it on the market;
+>
+> and subsections (2) to (9) below apply where it appears to the authorised officer, taking account of all the information available to him, that the placing on the market of any food fails to comply with a specified Community provision.
+>
+> (2) The authorised officer may either —
+>
+> - (a) give notice to the person in charge of the food that, until the notice is withdrawn, the food or any specified portion of it —
+>   - (i) is not to be used for human consumption; and
+>   - (ii) either is not to be removed or is not to be removed except to some place specified in the notice; or
+> - (b) seize the food and remove it in order to have it dealt with by a justice of the peace;
+>
+> and any person who knowingly contravenes the requirements of a notice under paragraph (a) above is guilty of an offence.
+>
+> (3) Where the authorised officer exercises the powers conferred by subsection (2)(a) above, he or she is, as soon as is reasonably practicable and in any event within 21 days, to determine whether or not he or she is satisfied that the food complies with the specified Community provisions and —
+>
+> - (a) if he or she is so satisfied is to forthwith withdraw the notice;
+> - (b) if he or she is not so satisfied, is to seize the food and remove it in order to have it dealt with by a justice of the peace.
+>
+> (4) Where an authorised officer exercises the powers conferred by subsection (2)(b) or (3)(b) above, he or she is to inform the person in charge of the food of his or her intention to have it dealt with by a justice of the peace and —
+>
+> - (a) any person who under regulation 5 of the Genetically Modified Food (Wales) Regulations 2004 might be liable to a prosecution in respect of the food is, if he or she attends before the justice of the peace by whom the food falls to be dealt with, entitled to be heard and to call witnesses; and
+> - (b) that justice of the peace may, but need not, be a member of the court before which any person is charged with an offence in relation to that food.
+>
+> (5) If it appears to a justice of the peace, on the basis of such evidence as he or she considers appropriate in the circumstances, that any food falling to be dealt with by him or her under this section fails to comply with a specified Community provision then subject to subsection (6) below he or she is to condemn the food and order —
+>
+> - (a) that food to be destroyed or to be so disposed of as to prevent it from being used for human consumption or animal feed; and
+> - (b) any expenses reasonably incurred in connection with the destruction or disposal to be defrayed by the operator.
+>
+> (6) In the case of a food referred to in Article 3.1 which is the subject of an authorisation granted under Regulation 1829/2003 and has been produced in accordance with any conditions relating to that authorisation but does not bear the appropriate labelling as required by Article 13 the justice of the peace may, at his or her discretion, order —
+>
+> - (a) that the food be labelled properly as soon as is reasonably practicable and at the expense of the operator; and
+> - (b) the release of the food into the custody of the operator.
+>
+> (7) If a notice under subsection (2)(a) above is withdrawn, or the justice of the peace by whom any food falls to be dealt with under this section refuses to condemn it or to make an order for the proper labelling of the food, the food authority is to compensate the owner of the food for any depreciation in its value resulting from the action taken by the authorised officer.
+>
+> (8) Any disputed question as to the right to or the amount of any compensation payable under subsection (7) above is to be determined by arbitration.
+>
+> (9) In this section “specified Community provision” has the same meaning as in the Genetically Modified Food (Wales) Regulations 2004.
+
+.
+
+## 8. Revocation[^key-5926f22360bec9c33320c0f16c9c3ebc]
+
+The Genetically Modified and Novel Foods (Labelling) (Wales) Regulations 2000[^f00006] are hereby revoked.
+
+## 9. Consequential amendments[^key-585c64cd108ec2c89e04bd73b75d9933]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00009].
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+## THE SCHEDULE — SPECIFIED COMMUNITY PROVISIONS
+
+Regulation 2 and 5
+
+### PART I[^key-1ff7d2d8263b62597e9efa8bb33c71d0]
+
+| Provision of Regulation 1829 /2003 | Subject Matter |
+| --- | --- |
+| Article 4.2 | Prohibition on placing on the market a food referred to in Article 3.1 unless it is covered by an authorisation and satisfies relevant conditions of the authorisation. |
+
+### PART II[^key-a86374c94145f4a569148198448d407e]
+
+| Provision of Regulation 1829 /2003 | Subject Matter |
+| --- | --- |
+| [^key-4d7fef8448d5f62b8594a99a2925a4ba]. . . | [^key-4d7fef8448d5f62b8594a99a2925a4ba]. . . |
+| Article 9.1 | Requirement that an authorisation holder and parties concerned must comply with conditions or restrictions imposed on an authorisation for a product and with post- market monitoring requirements. |
+| Article 9.3 | Requirement that an authorisation holder inform the Food Safety Authority[^key-a92cccf92e00dfdb88eef166e95e5d48] of any new scientific or technical information relating to a product, which might influence the evaluation of the safety in use of the food or of any prohibition or restriction on the food in a third country. |
+| Article 13 | Requirement for certain labelling indications. |
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply to Wales, provide for the enforcement and execution of certain specified provisions (relating to food) of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed (OJ No. L268, 18.10.2003, p.1). Separate Regulations make provision for the enforcement of those provisions of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) relating to animal feed.
+
+In particular these Regulations —
+
+- (a) formally designate the Food Standards Agency as the national competent authority to receive applications for the authorisation of new genetically modified organisms for food use, food containing or consisting of genetically modified organisms, or food produced from or containing ingredients produced from genetically modified organisms (regulation 3);
+- (b) provide for food authorities to enforce the provisions of these Regulations and Chapter II of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) (regulation 4);
+- (c) establish penalties for failing to comply with certain specified provisions of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829), once the Regulations are in force (regulation 5 and the Schedule);
+- (d) apply various provisions of the Food Safety Act 1990 with some modifications in their application for the purposes of these Regulations (regulations 6 and 7);
+- (e) revoke the Genetically Modified and Novel Foods (Labelling) (Wales) Regulations 2000 (regulation 8);
+- (f) make consequential amendments to the Novel Foods and Novel Food Ingredients Regulations 1997 and to the Food (Provisions Relating to Labelling) (Wales) Regulations 2003 (regulation 9).
+
+A regulatory appraisal pursuant to section 65 of the Government of Wales Act 1998 has been prepared for these regulations and placed in the library of the National Assembly for Wales together with a Transposition Note. Copies may be obtained from the Food Standards Agency, 11th Floor, Southgate House, Wood Street, Cardiff, CF10 1EW.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^f00002]: Footnote: Functions of the Secretary of State under the Food Safety Act 1990, so far as exercisable in relation to Wales were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
+
+[^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1.
+
+[^key-49f1a5eeefa509740df13a7ba64e73cb]: Commencement: Reg. 1 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+
+[^key-ee9fb1536f7e77f659372638582f6ee7]: Commencement: Reg. 2 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+
+[^f00004]: Footnote: OJ No. L268, 18.10.03, p1.
+
+[^key-79600d1409a57e1de388f85a1d53ddf5]: Commencement: Reg. 3 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+
+[^f00005]: Footnote: Whose address in Wales is 11th Floor Southgate House, Wood Street, Cardiff CF10 1EW.
+
+[^key-7929d5d9b85a05a4f3ce850341826561]: Commencement: Reg. 4 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+
+[^key-42ca934f148d01590748967249e15d3d]: Commencement: Reg. 5 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+
+[^key-9a8726ba3d345912ec060b98111aad36]: Commencement: Reg. 6 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+
+[^key-12cd59ba7ae53c115a8937f00195ab45]: Commencement: Reg. 7 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+
+[^key-5926f22360bec9c33320c0f16c9c3ebc]: Commencement: Reg. 8 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+
+[^f00006]: Footnote: S.I. [2000/1925](https://www.legislation.gov.uk/uksi/2000/1925).
+
+[^key-585c64cd108ec2c89e04bd73b75d9933]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2004/3220/regulation/9) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [10](https://www.legislation.gov.uk/wsi/2018/806/regulation/10)
+
+[^f00009]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-1ff7d2d8263b62597e9efa8bb33c71d0]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3220/schedule/part/1) in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+
+[^key-a86374c94145f4a569148198448d407e]: Commencement: Sch. Pt. 2 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+
+[^key-4d7fef8448d5f62b8594a99a2925a4ba]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2004/3220/schedule/part/II) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/5/2/a)
+
+[^key-a92cccf92e00dfdb88eef166e95e5d48]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2004/3220/schedule/part/II) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/5/2/b)

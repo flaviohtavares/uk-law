@@ -1,0 +1,30 @@
+---
+title: Local Government and Elections (Wales) Act 2021, section 128
+act: Local Government and Elections (Wales) Act 2021
+section: '128'
+status: revised-with-pending-changes
+text_date: '2025-09-10'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2021/1/section/128
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government and Elections (Wales) Act 2021, section 128
+
+> **Warning: changes not yet applied to this text (21).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/asc/2021/1
+>
+> Extent: England, Wales.
+
+## 128. Duties of merging councils to facilitate transfer
+
+*Extent: E+W*
+
+(1) A merging council must—
+
+- (a) for the purposes of the merger, co-operate with the Welsh Ministers, the other merging council or councils and any other person exercising functions in relation to the merger, and
+- (b) take all reasonable steps to—
+  - (i) facilitate the economic, effective and efficient transfer of its functions, staff, property, rights and liabilities to the new principal council, and
+  - (ii) ensure that the new principal council and its staff are in a position to perform the new principal council's functions effectively.
+
+(2) The Welsh Ministers may direct a merging council to take, or not to take, any action the Welsh Ministers consider appropriate for the purpose of discharging the council's duty under this section.

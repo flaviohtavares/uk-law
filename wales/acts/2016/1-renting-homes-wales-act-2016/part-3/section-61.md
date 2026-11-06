@@ -1,0 +1,56 @@
+---
+title: Renting Homes (Wales) Act 2016, section 61
+act: Renting Homes (Wales) Act 2016
+section: '61'
+status: revised-with-pending-changes
+text_date: '2026-06-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2016/1/section/61
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Renting Homes (Wales) Act 2016, section 61
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/1
+>
+> Extent: England, Wales.
+
+## 61. Failure to comply with conditions imposed by head landlord[^key-d366fa8328d9bd908e11f0378a150cb6]
+
+*Extent: E+W*
+
+(1) This section applies if an occupation contract (“the head contract”) permits the contract-holder to enter into a sub-occupation contract with the consent of the head landlord.
+
+(2) If the head landlord consents subject to conditions (see section 84), before entering into a sub-occupation contract with a person the contract-holder must notify that person of those conditions.
+
+(3) If the contract-holder does not comply with the requirement in subsection (2) and a sub-occupation contract is entered into, the contract-holder is to be treated as having committed a repudiatory breach of the sub-occupation contract (see section 154).
+
+(4) If the head landlord consents subject to conditions and a sub-occupation contract is entered into—
+
+- (a) section 32 is to be read in relation to that contract as if it provides (in addition to the other requirements under that section) that the written statement of the sub-occupation contract must set out the conditions imposed by the head landlord, and
+- (b) section 37 is to be read in relation to that contract as if it provides (in addition to the other provisions in that section)—
+  - (i) in subsection (1), that the sub-holder can apply to the court for a declaration that the written statement sets out a condition incorrectly or sets out a condition which the head landlord did not impose,
+  - (ii) that the head landlord is entitled to be a party to proceedings on the application, and
+  - (iii) that the court, if satisfied that either of the grounds in sub-paragraph (i) is made out, may make a declaration setting out the correct condition or, as the case may be, may declare that the condition is not a condition imposed by the head landlord.
+
+(5) A sub-occupation contract is not made otherwise than in accordance with the head contract only because—
+
+- (a) the head landlord consents subject to conditions, and
+- (b) the conditions are not complied with.
+
+(6) In such a case the head landlord may choose to treat the sub-occupation contract as a periodic standard contract having the following characteristics—
+
+- (a) all the fundamental and supplementary provisions applicable to a periodic standard contract are incorporated without modification,
+- (b) any terms of the secure contract or fixed term standard contract which are incompatible with those fundamental or supplementary provisions have no effect, and
+- (c) otherwise, the terms of the periodic standard contract are the same as the terms of the secure contract or fixed term standard contract.
+
+(7) If the head landlord chooses to treat it as a periodic standard contract under subsection (6), the head landlord must notify the contract-holder and the sub-holder of that choice.
+
+(8) The head landlord may only give notice under subsection (7) after the sub-occupation contract is made and before the end of the period of two months starting with the day on which the head contract ends.
+
+(9) If the head landlord gives notice in accordance with subsections (7) and (8), the contract is to be treated as a periodic standard contract with the characteristics mentioned in subsection (6) in any question arising between the sub-holder and any person other than the contract-holder.
+
+## Annotations
+
+[^key-d366fa8328d9bd908e11f0378a150cb6]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2016/1/section/61) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

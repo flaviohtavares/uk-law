@@ -1,0 +1,742 @@
+---
+title: The Children Act 1989, Care Standards Act 2000 and Adoption and Children Act 2002 (Miscellaneous Amendments) (Wales) Regulations 2009
+id: wsi/2009/2541
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2009-09-15'
+text_date: '2011-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2009/2541
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2009/2541/pdfs/wsi_20092541_mi.pdf
+- http://www.legislation.gov.uk/wsi/2009/2541/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Children Act 1989, Care Standards Act 2000 and Adoption and Children Act 2002 (Miscellaneous Amendments) (Wales) Regulations 2009
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2011-04-01. See https://www.legislation.gov.uk/changes/affected/wsi/2009/2541
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 2541 (W.205)
+
+CHILDREN AND YOUNG PERSONS, WALES
+
+SOCIAL CARE, WALES
+
+The Children Act 1989, Care Standards Act 2000 and Adoption and Children Act 2002 (Miscellaneous Amendments) (Wales) Regulations 2009
+
+Made
+
+15 September 2009
+
+Laid before the National Assembly for Wales
+
+21 September 2009
+
+Coming into force
+
+12 October 2009
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 68 (1) and (2), 79C (2) and (3), 79M (1) (c) and 104 (4) of and paragraph 4 of Schedule 9A to the Children Act 1989 [^f00001], sections12 (2) (a), 16 (1) (a), 22(1), (2) (a), (b), (d) and (e), 48 (1) (a) and 118 (1), (6) (a) of the Care Standards Act 2000 [^f00002]and sections 9 (1) , 10 (1) (a), (3) (a) and (e), 140 (1) and (7) of the Adoption and Children Act 2002[^f00003]:
+
+## PART 1 — Introduction
+
+### 1. Title, commencement and application[^key-b5f9fdd4e6fdb09b516c4074f4c93f11]
+
+(1) The title of these Regulations is the Children Act 1989, Care Standards Act 2000 and Adoption and Children Act 2002 (Miscellaneous Amendments) (Wales) Regulations 2009 and they come into force on 12 October 2009.
+
+(2) These Regulations apply in relation to Wales.
+
+## PART 2 — Child minding and day care
+
+### 2. Amendments to the Child Minding and Day Care (Wales) Regulations 2002[^key-fcb6ad4b79876b0257dfe648529c9a37]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Amendments to the Disqualification from Caring for Children (Wales) Regulations 2004[^key-6268bf44274f1650c81b5fd40ad30438]
+
+(1) The Schedule to the Disqualification from Caring for Children (Wales) Regulations 2004[^f00010] is amended as follows.
+
+(2) In paragraph 3, for “78C” substitute “79C”
+
+(3) For paragraph 33 substitute—
+
+> **33. Education Act 2002 direction**
+>
+> A person who is subject to a direction made, or which has effect as if made, under section 142 of the Education Act 2002[^f00011] on the grounds set out in subsection (4) (a), (b) or (d) of that section.
+
+(4) For paragraph 34 substitute—
+
+> **34. Safeguarding Vulnerable Groups Act 2006 children’s barred list**
+>
+> A person who is barred from regulated activity relating to children within the meaning of section 3(2) of the Safeguarding Vulnerable Groups Act 2006[^f00012]
+
+## PART 3 — Establishments and agencies — children
+
+### 4. Amendment to the Adoption Agencies (Wales) Regulations 2005[^key-dcdb386a8c496bdb22c7770d657101ee]
+
+(1) The Adoption Agencies (Wales) Regulations 2005[^f00013] are amended as follows.
+
+(2) For paragraph (1) of regulation 23 (requirement to carry out police checks) substitute—
+
+> (1) In respect of the prospective adopter and any other member of the prospective adopter’s household who is aged 18 or over, an adoption agency must obtain an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to children (within the meaning of section 113BA(2) of that Act).
+
+.
+
+### 5. Amendment to the Adoption Support Agencies (Wales) Regulations 2005[^key-2efcbe4ea2b52af722db1a4ae5e5923e]
+
+(1) The Adoption Support Agencies (Wales) Regulations 2005[^f00014] are amended as follows.
+
+(2) For paragraph 2 of Schedule 2 (information required in respect of the responsible individual or persons seeking to manage or work for the purposes of an agency) substitute—
+
+> **2.** Either—
+>
+> - (a) where the certificate is required for a purpose related to registration under Part 2 of the 2000 Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to children (within the meaning of section 113BA(2) of that Act) in respect of which less than 3 years have elapsed since it was issued; or
+> - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997 in respect of which less than 3 years have elapsed since it was issued.
+
+.
+
+### 6. Amendments to the Children’s Homes (Wales) Regulations 2002[^key-ed7eac1ab80b8f14a1f58551902bc9bd]
+
+(1) The Children’s Homes (Wales) Regulations 2002[^f00015] are amended as follows.
+
+(2) In regulation 6 (fitness of registered provider)—
+
+- (a) for paragraph (3) (c) substitute—
+
+  > - (c) full and satisfactory information or documentation, as the case may be, is available in relation to the person in respect of each of the matters specified in paragraphs 1 to 5 and 6 of Schedule 2.
+
+  ;
+- (b) omit paragraph (4) .
+
+(3) In regulation 8 (fitness of manager)—
+
+- (a) for paragraph (2) (c) substitute—
+
+  > - (c) full and satisfactory information or documentation, as the case may be, is available in relation to the person in respect of each of the matters specified in paragraphs 1 to 6 of Schedule 2.
+- (b) for paragraph (2E)[^f00016] substitute—
+
+  > (2E) A person is not fit to manage a children’s home unless he or she is registered as a manager with the Care Council for Wales.
+
+  ;
+- (c) omit paragraph (3).
+
+(4) In regulation 26 (fitness of workers)—
+
+- (a) for paragraph (2) (d) substitute—
+
+  > - (d) subject to paragraph (2G), full and satisfactory information or documentation, as the case may be, is available in relation to the person in respect of each matter specified in paragraphs 1 to 6 of Schedule 2
+- (b) in paragraph (4) (b), for the words “unless paragraph (5) applies” substitute “unless paragraph (5) or (5A) applies.”;
+- (c) for paragraph (5) (b) substitute—
+
+  > - (b) full and satisfactory information in relation to that person has been obtained in respect of the matters specified in paragraphs 1 and 2 of Schedule 2.
+
+  .
+
+(5) In Schedule 2 (information required in respect of persons seeking to carry on, manage or work at a children’s home)—
+
+- (a) for paragraph 2 substitute—
+
+  > **2.** Either—
+  >
+  > - (a) where the certificate is required for a purpose related to registration under Part 2 of the Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to children (within the meaning of section 113BA(2) of that Act) and, where applicable, suitability information relating to vulnerable adults (within the meaning of section 113BB(2) of that Act) in respect of which less than three years have elapsed since it was issued ; or
+  > - (b) in any other case, a standard criminal record certificate issued under section 113A of the Police Act 1997 in respect of which less than three years have elapsed since it was issued.
+
+  ;
+- (b) omit paragraphs 7 and 8.
+
+### 7. Amendments to the Fostering Services (Wales) Regulations 2003[^key-99593c4e98d2b12e456e95f06fb7c698]
+
+(1) The Fostering Services (Wales) Regulations 2003[^f00017] are amended as follows.
+
+(2) For paragraph 2 of Schedule 1 (information required in respect of persons seeking to carry on, manage or work for the purposes of a fostering service) substitute—
+
+> **2.** Either —
+>
+> - (a) where the certificate is required for a purpose related to registration under Part 2 of the 2000 Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to children (within the meaning of section 113BA(2) of that Act); or
+> - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
+
+.
+
+(3) For paragraph 13 of Schedule 3 (information as to prospective foster parent and other members of the prospective foster parent’s household and family) substitute—
+
+> **13.** In respect of the prospective foster parent and any other member of the prospective foster parent’s household who is aged 18 or over, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to children (within the meaning of section 113BA(2) of that Act).
+
+.
+
+### 8. Amendment to the Local Authority Adoption Service (Wales) Regulations 2007[^key-8cdcda286bde7348b9a762062c3392e1]
+
+(1) The Local Authority Adoption Service (Wales) Regulations 2007[^f00018] are amended as follows.
+
+(2) For paragraph 2 of Schedule 3 (information required in respect of persons seeking to manage or work for the purposes of the adoption service) substitute—
+
+> **2.** Either—
+>
+> - (a) where the certificate is required for a position that falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to children (within the meaning of section 113BA(2) of that Act) in respect of which less than three years has elapsed since it was issued; or
+> - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997 in respect of which less than three years has elapsed since it was issued.
+
+.
+
+### 9. Amendments to the Residential Family Centres (Wales) Regulations 2003[^key-e02e758f1dbe29d725313ab633587235]
+
+(1) The Residential Family Centres (Wales) Regulations 2003[^f00019] are amended as follows.
+
+(2) In regulation 5 (fitness of registered provider)—
+
+- (a) for paragraph (3) (c) substitute—
+
+  > - (c) full and satisfactory information and documentation, as the case may be, is available in relation to the individual in respect of each matter specified in paragraphs 1 to 6 of Schedule 2
+
+  ;
+- (b) omit paragraph (4) .
+
+(3) In regulation 7 (fitness of manager)—
+
+- (a) For paragraph (2) (c) substitute—
+
+  > - (c) full and satisfactory information and documentation, as the case may be, is available in relation to the person in respect of each of the matters specified in paragraphs 1 to 6 of Schedule 2.
+- (b) omit paragraph (3).
+
+(4) In Schedule 2 (information required in respect of persons seeking to carry on, manage or work at a residential family centre) —
+
+- (a) for paragraph 2 substitute—
+
+  > **2.** Either—
+  >
+  > - (a) where the certificate is required for a purpose related to registration under Part 2 of the 2000 Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to children (within the meaning of section 113BA(2) of that Act) and, where applicable, suitability information relating to vulnerable adults (within the meaning of section 113BB(2) of that Act); or
+  > - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
+
+  ;
+- (b) omit paragraph 7.
+
+## PART 4 — Establishments and agencies, services and facilities — adult social care and health
+
+### 10. Amendment to the Adult Placement Schemes (Wales) Regulations 2004[^key-54c86290aace8e2f67d5a327ee8b5c44]
+
+(1) The Adult Placement Schemes (Wales) Regulations 2004[^f00020] are amended as follows.
+
+(2) For paragraph 2 of Schedule 3 (information and documents to be available in respect of adult placement carers, persons providing care services for the purposes of an adult placement, persons providing and managing adult placement schemes) substitute—
+
+> **2.** Either—
+>
+> - (a) where the certificate is required for a purpose related to registration under Part 2 of the Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to vulnerable adults (within the meaning of section 113BB(2) of that Act); or
+> - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
+
+.
+
+### 11. Amendments to the Care Homes (Wales) Regulations 2002[^key-98dacbab86d12d34e4a8fbab49c0081c]
+
+(1) The Care Homes (Wales) Regulations 2002[^f00021] are amended as follows.
+
+(2) In regulation 7 (fitness of registered provider)—
+
+- (a) for paragraph (3) (c) (ii) substitute—
+
+  > - (ii) where paragraph (4) applies, in respect of each matter specified in paragraph 1 and 3 to 6 of Schedule 2;
+
+  ;
+- (b) for paragraph (3) (c) (iii) substitute—
+
+  > - (iii) and further, where paragraph (4) applies, notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (c) for paragraph (4) substitute—
+
+  > (4) This paragraph applies—
+  >
+  > - (a) where an individual has applied for a certificate referred to in paragraph 2 of Schedule 2 but the certificate has not been issued; and
+  > - (b) the individual will not be engaged in regulated activity relating to children.
+
+  .
+
+(3) In regulation 9 (fitness of registered manager)—
+
+- (a) for paragraph (2) (c) (ii) substitute—
+
+  > - (ii) where paragraph (3) applies, in respect of each matter specified in paragraphs 1 and 3 to 6 of Schedule 2;
+
+  ;
+- (b) for paragraph (2) (c) (iii) substitute—
+
+  > - (iii) and further, where paragraph (3) applies, notification has been received under section 113E(4)(a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (c) for paragraph (3) substitute—
+
+  > (3) This paragraph applies—
+  >
+  > - (a) where an individual has applied for a certificate referred to in paragraph 2 of Schedule 2 but the certificate has not been issued; and
+  > - (b) the individual will not be engaged in regulated activity relating to children.
+
+  .
+
+(4) In regulation 19 (fitness of workers)—
+
+- (a) for paragraph (2) (d) (ii) substitute—
+
+  > - (ii) where paragraph (3) applies, the matters specified in paragraphs 1 and 3 to 6 of that Schedule;
+
+  ;
+- (b) after paragraph (2) (d) (ii) insert—
+
+  > - (iii) and further, where paragraph (3) applies, notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (c) for paragraph (3) substitute—
+
+  > (3) This paragraph applies—
+  >
+  > - (i) where an individual has applied for a certificate referred to in paragraph 2 of Schedule 2 but the certificate has not been issued; and
+  > - (ii) the individual will not be engaging in regulated activity relating to children.
+
+  ;
+- (d) for paragraph (5) (b)(iii) substitute—
+
+  > - (iii) where paragraph (3) applies, notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (e) after paragraph (5A) (b) insert—
+
+  > - (ba) notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act);
+
+  ;
+- (f) omit sub paragraph (6) .
+
+(5) For paragraph (5) of Regulation 43 (death of registered person) substitute—
+
+> (5) The personal representatives shall appoint a person to manage the care home during any period in which, in accordance with paragraph (3), they carry on the care home without being registered in respect of it.
+
+.
+
+(6) In Schedule 2 (information and documents to be available in respect of persons carrying on, managing or working at care homes)—
+
+- (a) for paragraph 2 substitute—
+
+  > **2.** Either—
+  >
+  > - (a) where the certificate is required for a purpose related to registration under Part 2 of the Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to vulnerable adults (within the meaning of section 113BB (2) of that Act) and, where applicable, suitability information relating to children (within the meaning of section 113BA (2) of that Act); or
+  > - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
+
+  ;
+- (b) omit paragraphs 7 and 8 .
+
+### 12. Amendments to the Domiciliary Care Agencies (Wales) Regulations 2004[^key-86d7df5da38699145606431144e2ec16]
+
+(1) The Domiciliary Care Agencies (Wales) Regulations 2004[^f00022] are amended as follows.
+
+(2) In Schedule 2 (information required in respect of registered providers and managers of an agency and persons nominated to deputise for a registered person)
+
+- (a) for paragraph 3 substitute—
+
+  > **3.** Either—
+  >
+  > - (a) where the certificate is required for a purpose related to registration under Part 2 of the Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to vulnerable adults (within the meaning of section 113BB (2) of that Act) and, where applicable, suitability information relating to children (within the meaning of section 113BA (2) of that Act); or
+  > - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
+
+  ;
+- (b) omit paragraph 11.
+
+(3) In Schedule 3 (information and documentation to be available in respect of domiciliary care workers) —
+
+- (a) for paragraph 4 substitute—
+
+  > **4.** Either —
+  >
+  > - (a) where the certificate is required for a purpose related to registration under Part 2 of the Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to vulnerable adults (within the meaning of section 113BB (2) of that Act) and, where applicable, suitability information relating to children (within the meaning of section 113BA(2) of that Act); or
+  > - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
+
+  ;
+- (b) omit paragraph 13.
+
+### 13. Amendments to the Nurses Agencies (Wales) Regulations 2003[^key-32768cc422c21631c8e33e59eea60b7f]
+
+(1) The Nurses Agencies (Wales) Regulations 2003[^f00023] are amended as follows.
+
+(2) In regulation 7 (fitness of registered provider)—
+
+- (a) for paragraph (3) (c) (ii) substitute—
+
+  > - (ii) where paragraph (4) applies, in respect of each matter specified in paragraphs 1 and 3 to 8 of Schedule 2;
+
+  ;
+- (b) after paragraph (3) (c) (ii) insert—
+
+  > - (iii) and further, where paragraph (4) applies, notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (c) for paragraph (4) substitute—
+
+  > (4) This paragraph applies—
+  >
+  > - (a) where an individual has applied for a certificate referred to in paragraph 2 of Schedule 2 but the certificate has not been issued; and
+  > - (b) the individual will not be engaging in regulated activity relating to children.
+
+  .
+
+(3) In regulation 9 (fitness of manager)—
+
+- (a) for paragraph (2) (c) (ii) substitute—
+
+  > - (ii) where paragraph (3) applies, in respect of each matter specified in paragraphs 1 and 3 to 8 of Schedule 2;
+
+  ;
+- (b) after paragraph (2) (c) (ii) insert—
+
+  > - (iii) and further where paragraph (3) applies, notification has been received under section 113E(4)(a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (c) for paragraph (3) substitute—
+
+  > (3) This paragraph applies—
+  >
+  > - (a) where an individual has applied for a certificate referred to in paragraph 2 of Schedule 2 but the certificate has not been issued; and
+  > - (b) the individual will not be engaging in regulated activity relating to children.
+
+  .
+
+(4) In regulation 12 (fitness of nurses supplied by an agency)—
+
+- (a) for paragraph (1) (d) (ii) substitute—
+
+  > - (ii) where paragraph (3) applies, in respect of each matter specified in paragraphs 1 to 3 and 6 to 13 of Schedule 3;
+
+  ;
+- (b) in paragraph (1) (d) insert after paragraph (1) (d) (ii)—
+
+  > - (iii) and further, where paragraph (3) applies, notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (c) for paragraph (2)(ii) substitute—
+
+  > - (ii) where paragraph (3) applies, in respect of each matter specified in paragraphs 1 and 3 to 8 of Schedule 2;
+
+  ;
+- (d) after paragraph (2) (ii) insert—
+
+  > - (iii) and further, where paragraph (3) applies, notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (e) for paragraph (3) of substitute—
+
+  > (3) This paragraph applies—
+  >
+  > - (a) where an individual has applied for a certificate referred to in paragraph 2 of Schedule 2 but the certificate has not been issued; and
+  > - (b) the individual will not be engaging in regulated activity relating to children.
+
+  .
+
+(5) In Schedule 2 (information required in respect of registered providers and managers of an agency and nurses responsible for selecting nurses for supply to service users)—
+
+- (a) for paragraph 2 substitute—
+
+  > **2.** Either—
+  >
+  > - (a) where the certificate is required for a purpose related to registration under Part 2 of the Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information relating to vulnerable adults (within the meaning of section 113BB(2) of that Act) or suitability information relating to children (within the meaning of section 113BA (2) of that Act) or both; or
+  > - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
+
+  ;
+- (b) omit paragraphs 9 and 10.
+
+(6) In Schedule 3 (information required in respect of nurses to be supplied by an agency)—
+
+- (a) for paragraph 4 substitute—
+
+  > **4.** Either—
+  >
+  > - (a) where the certificate is required for a purpose related to registration under Part 2 of the Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information relating to vulnerable adults (within the meaning of section 113BB (2) of that Act) or suitability information relating to children (within the meaning of section 113BA(2) of that Act) or both ; or
+  > - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
+
+  ;
+- (b) omit paragraphs 5 and 14.
+
+### 14. Amendments to the Private and Voluntary Health Care (Wales) Regulations 2002[^key-bb4f0adfec961305ea0528ef4db69e6a]
+
+(1) The Private and Voluntary Health Care (Wales) Regulations 2002[^f00024] are amended as follows.
+
+(2) In regulation 9 (fitness of registered provider)—
+
+- (a) for paragraph (3) (c) (ii) substitute—
+
+  > - (ii) where paragraph (4) applies, in respect of each of the matters specified in paragraphs 1 and 3 to 7 of Schedule 2;
+
+  ;
+- (b) for paragraph (3) (c) (iii) substitute—
+
+  > - (iii) and further, where paragraph (4) applies, notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (c) for paragraph (4) substitute—
+
+  > (4) This paragraph applies—
+  >
+  > - (a) where an individual has applied for a certificate referred to in paragraph 2 of Schedule 2 but the certificate has not been issued; and
+  > - (b) the individual will not be engaging in regulated activity relating to children.
+
+  .
+
+(3) In regulation 11 (fitness of manager)—
+
+- (a) for paragraph (2) (c) (ii) substitute—
+
+  > - (ii) where paragraph (3) applies, in respect of each of the matters specified in paragraphs 1 and 3 to 7 of Schedule 2;
+
+  ;
+- (b) for paragraph (2) (c) (iii) substitute—
+
+  > - (iii) and further, where paragraph (3) applies, notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (c) for paragraph (3) substitute—
+
+  > (3) This paragraph applies—
+  >
+  > - (a) where an individual has applied for a certificate referred to in paragraph 2 of Schedule 2 but the certificate has not been issued; and
+  > - (b) the individual will not be engaging in regulated activity relating to children.
+
+  .
+
+(4) In regulation 18 (fitness of workers)—
+
+- (a) for paragraph (2) (d) (ii) substitute—
+
+  > - (ii) where paragraph (3) applies, in respect of each of the matters specified in paragraphs 1 and 3 to 7 of Schedule 2;
+
+  ;
+- (b) after paragraph (2) (d) (ii) insert—
+
+  > - (iii) and further, where paragraph (3) applies, notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (c) for paragraph (3), substitute—
+
+  > (3) This paragraph applies—
+  >
+  > - (i) where an individual has applied for a certificate referred to in paragraph 2 of Schedule 2 but the certificate has not been issued; and
+  > - (ii) the individual will not be engaging in regulated activity relating to children.
+
+  ;
+- (d) in paragraph (4)(b) for the words “unless paragraph (5) applies” substitute “unless paragraph (5) or (5A) applies”;
+- (e) for paragraph (5) (b) (iii) substitute—
+
+  > - (iii) where paragraph (3) applies, notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (f) in paragraph (5A) after sub paragraph (b) insert—
+
+  > - (ba) notification has been received under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act);
+
+  .
+
+(5) In Schedule 2 (information required in respect of persons seeking to carry on, manage or work at an establishment)—
+
+- (a) for paragraph 2 substitute—
+
+  > **2.** Either—
+  >
+  > - (a) where the certificate is required for a purpose related to registration under Part 2 of the Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information relating to vulnerable adults (within the meaning of section 113BB (2) of that Act) or suitability information relating to children (within the meaning of section 113BA (2) of that Act) or both, in respect of which less than three years have elapsed since it was issued; or
+  > - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997 in respect of which less than three years have elapsed since it was issued.
+
+  ;
+- (b) omit paragraphs 8 and 9 .
+
+### 15. Amendments to the Private Dentistry (Wales) Regulations 2008[^key-c5dbb24ce74f7d0b68838956d88aaa0c]
+
+(1) The Private Dentistry (Wales) Regulations 2008[^f00025] are amended as follows.
+
+(2) For paragraph (2) (j) of regulation 5 (information and documents to be provided by an applicant) substitute—
+
+> - (j) an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information relating to vulnerable adults (within the meaning of section 113BB(2) of that Act) or suitability information relating to children (within the meaning of section 113BA (2) of that Act) or both, the application for which was countersigned on behalf of the registration authority;
+
+.
+
+(3) For paragraph (4) of regulation 13 (fitness of registered persons) substitute—
+
+> (4) The registration authority may at any time require the registered person to apply for an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information relating to vulnerable adults (within the meaning of section 113BB (2) of that Act) or suitability information relating to children (within the meaning of section 113BA(2) of that Act) or both, such application to be countersigned on behalf of the registration authority.
+
+.
+
+(4) For paragraph 2 of Schedule 2 (information and documents to be available in respect of registered persons) substitute—
+
+> **2.** An enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information relating to vulnerable adults (within the meaning of section 113BB (2) of that Act) or suitability information relating to children (within the meaning of section 113BA (2) of that Act) or both, in respect of which less than three years have elapsed since it was issued.
+
+.
+
+## PART 5 — General
+
+### 16. Amendments to the Registration of Social Care and Independent Health Care (Wales) Regulations 2002[^key-47dc2f64142bce926c6da5ca20e8b45d]
+
+(1) The Registration of Social Care and Independent Health Care (Wales) Regulations 2002[^f00026] are amended as follows.
+
+(2) In Schedule 2 (documents to be supplied on an application for registration as a person who carries on an establishment or agency)—
+
+- (a) for paragraph 4 substitute—
+
+  > **4.** In relation to the responsible person—
+  >
+  > - (a) an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information in relation to vulnerable adults (within the meaning of section 113BB (2) of that Act) or suitability information relating to children (within the meaning of section 113BB (2) of that Act) or both; and
+  > - (b) the application for that certificate which was countersigned by the Welsh Ministers.
+- (b) for paragraph 9A substitute—
+
+  > **9A.** Notwithstanding paragraph 4, where the responsible person has applied for a certificate referred to in paragraph 4, but the certificate has not been issued and the responsible person will not be engaging in regulated activity related to children—
+  >
+  > - (a) a statement confirming that the documents specified in paragraph 4 have been applied for and that the applicant, or where the applicant is an organisation, the responsible individual, will advise the Welsh Ministers on receipt that they are available for inspection; and
+  > - (b) notification under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  ;
+- (c) for paragraph 10 (2) substitute—
+
+  > (2) The following documents are specified—
+  >
+  > - (a) where the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information relating to vulnerable adults (within the meaning of section 112BB (2)of that Act) or suitability information relating to children (within the meaning of section 113BA (2) of that Act) or both; or
+  > - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997;
+
+  .
+
+(3) In Schedule 3 (information and documents to be supplied on an application for registration as the manager of an establishment or agency)—
+
+- (a) omit paragraph 12.
+- (b) for paragraph 13, substitute—
+
+  > **13.** (1) An enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information in relation to vulnerable adults (within the meaning of section 113BB (2) of that Act) or suitability information relating to children (within the meaning of section 113BB (2) of that Act) or both; and
+  >
+  > (2) The application for that certificate which was countersigned by the Welsh Ministers.
+- (c) For paragraph 13A substitute—
+
+  > (13A) Notwithstanding paragraph 13, where the responsible person has applied for a certificate referred to in paragraph 13, but the certificate has not been issued and the responsible person will not be engaging in regulated activity related to children—
+  >
+  > - (a) a statement confirming that the documents specified in paragraph 13 have been applied for and that the applicant, or where the applicant is an organisation, the responsible individual, will advise the Welsh Ministers on receipt that they are available for inspection; and
+  > - (b) notification under section 113E (4) (a) of the Police Act 1997 that the individual is not included on a specified adults' list (within the meaning of section 113E of that Act).
+
+  .
+
+(4) In Schedule 8 (documents to be supplied on an application for registration as a child minder or as a provider of day care)—
+
+- (a) for paragraph 4 substitute—
+
+  > **4.** In relation to the responsible person and the person in charge—
+  >
+  > - (a) an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information in relation to children (within the meaning of section 113BA (2) of that Act);
+  > - (b) the application for that certificate which was countersigned by the Welsh Ministers.
+
+  ;
+- (b) omit paragraph 9;
+- (c) for paragraph 10 (2) substitute—
+
+  > (2) The following documents are specified—
+  >
+  > - (a) where the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to children (within the meaning of section 113BA (2) of that Act); or
+  > - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
+
+  .
+
+Gwenda Thomas
+
+Deputy Minister for Social Services under authority of the Minister for Health and Social Services, one of the Welsh Ministers
+
+15 September 2009
+
+(This note is not part of the Regulations)
+
+These Regulations update references to the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) in provisions contained in various sets of regulations made under the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41), the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14) and the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38). The Regulations that are amended relate to child minding, day care, adoption agencies, adoption support agencies, children’s homes, fostering agencies, local authority adoption services, residential family centres, adult placement schemes, care homes, domiciliary care agencies, nurses agencies, private and voluntary health care establishments and agencies and private dental services.
+
+The amendments are made in order to reflect changes that have been brought about following amendments that have been made to the Police Act 1997 by the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47). One of the changes is that information as to whether a person is barred from working with vulnerable groups (suitability information) will only be available in prescribed cases where an application for an enhanced criminal record certificate is made. Currently, such information is also available in specified circumstances with a standard criminal record certificate.
+
+The majority of the amendments made in these Regulations relate to provisions that specify the information that must be available where a person intends to carry on, manage or work for the purposes of an agency or establishment in relation to which a person is required to register under Part 2 of the Care Standards Act 2000. The Regulations also include amendments that specify the information that must be available where a person seeks to act as a childminder or provide day care or seeks to work for a childminder or provider of day care where registration is required under part 10A of the Children Act 1989. In addition, the Regulations include amendments that relate to provisions in the Adoption Agencies (Wales) Regulations 2005 (S.I. [2005/1313](https://www.legislation.gov.uk/uksi/2005/1313)) which specify the checks that must be made by an adoption agency in respect of a prospective adopter and adult members of the prospective adopter’s household and similar provisions in the Fostering Services (Wales) Regulations 2003 (S.I. [2003/237](https://www.legislation.gov.uk/uksi/2003/237)) in relation to checks on prospective foster parents and adult members of their household.
+
+These Regulations also update similar references to provisions in the Police Act 1997 in the Registration of Social Care and Independent Health Care (Wales) Regulations 2002 (S.I. [2002/919](https://www.legislation.gov.uk/uksi/2002/919)). These 2002 Regulations apply to adult, health and children-related establishments and agencies, child minders and providers of day care and govern the information and documents that must be provided when making an application to register under Part 2 of the Care Standards Act 2000 or when making an application to register under part 10A of the Children Act 1989.
+
+These Regulations also include amendments to various regulations made under the Children Act 1989, Care Standards Act 2000 and Adoption and Children Act 2002 by removing references to police checks within the meaning of the Police Act 1996 as these are no longer available. References to reports of checks on the lists maintained under section 1 of the Protection of Children Act 1999 (known as the “POCA list”) and under regulations made under section 218 of the Education Reform Act 1988 (known as “List 99”) have also been removed as access to information on these lists can only be obtained via an enhanced criminal record certificate. The effect of these amendments is that where a person to whom the respective regulations apply is engaging in regulated activity relating to children, an enhanced criminal record certificate must be available.
+
+These Regulations also include amendments which refer to notifications under the Police Act 1997 that an individual is not included on “a specified adults list”. This will include both the Protection of Vulnerable Adults (POVA) list maintained under section 89 of the Care Standards Act 2000 and the adults barred list under the Safeguarding Vulnerable Groups Act 2006. The effect of the amendments is to allow a person to whom the respective regulations apply to be registered or work for the purposes of an agency or establishment which is required to be registered where an enhanced criminal record certificate has been applied for but not issued provided that such notification has been received.
+
+These Regulations also amend the Disqualification from Caring for Children (Wales) Regulations 2004 (S.I. [2004/2695](https://www.legislation.gov.uk/uksi/2004/2695)). The amendments are made to up date the grounds for disqualification under the 2004 Regulations to include where a person is included on the children’s barred list established by the Safeguarding Vulnerable Groups Act 2006.
+
+These Regulations also make an amendment to the 2004 Regulations in relation to the grounds of disqualification where a person has been prohibited from teaching. Reference to the Education Reform Act list is replaced with a reference to a direction under the Education Act 2002. Reference to the Education Act 1996 list has also been removed as these provisions have been repealed.
+
+A minor amendment is also made to the 2004 Regulations to correct an error in relation to specified offences which are grounds for disqualification.
+
+These Regulations also make amendments to certain provisions of the Children’s Homes (Wales) Regulations 2002. The purpose of the amendments is to remove an anomaly in relation to regulation 6 (Fitness of registered provider); in relation to regulation 8 (Fitness of manager), to revoke and re-enact a requirement in relation to registration with the Care Council for Wales and in relation to regulation 26 (Fitness of workers) to clarify that a person may be employed to work in a children’s home pending registration with the Care Council for Wales, provided that registration is completed within the period of time specified in the 2002 Regulations.
+
+These Regulations also make an amendment to regulation 43 of the Care Homes (Wales) Regulations 2002 to correct an error.
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Functions of the National Assembly for Wales under sections 79C (2) and 104 (4) were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00002]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). Functions of the National Assembly for Wales under these sections of the Care Standards Act 2000 were transferred to the Welsh Minsters by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00003]: Footnote: [2002 c 38](https://www.legislation.gov.uk/ukpga/2002/38). Functions of the National Assembly for Wales under these sections of the Adoption and Children Act 2002 were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-b5f9fdd4e6fdb09b516c4074f4c93f11]: Commencement: Reg. 1 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^key-fcb6ad4b79876b0257dfe648529c9a37]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2009/2541/regulation/2) revoked (1.4.2011) by [The Child Minding and Day Care (Wales) Regulations 2010 (S.I. 2010/2574)](https://www.legislation.gov.uk/wsi/2010/2574), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2010/2574/schedule/6)
+
+[^key-6268bf44274f1650c81b5fd40ad30438]: Commencement: Reg. 3 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00010]: Footnote: S.I. [2004/2695 (W.235)](https://www.legislation.gov.uk/wsi/2004/2695).
+
+[^f00011]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^f00012]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^key-dcdb386a8c496bdb22c7770d657101ee]: Commencement: Reg. 4 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00013]: Footnote: S.I. [2005/1313 (W.95)](https://www.legislation.gov.uk/wsi/2005/1313).
+
+[^key-2efcbe4ea2b52af722db1a4ae5e5923e]: Commencement: Reg. 5 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00014]: Footnote: S.I. [2005/1514 (W.118)](https://www.legislation.gov.uk/wsi/2005/1514).
+
+[^key-ed7eac1ab80b8f14a1f58551902bc9bd]: Commencement: Reg. 6 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00015]: Footnote: S.I. [2002/327 (W.40)](https://www.legislation.gov.uk/wsi/2002/327). Relevant amending instruments are S.I. [2002/2622 (W.254)](https://www.legislation.gov.uk/wsi/2002/2622), S.I. [2004/2414 (W.222)](https://www.legislation.gov.uk/wsi/2004/2414) and S.I. [2007/311 (W.28)](https://www.legislation.gov.uk/wsi/2007/311).
+
+[^f00016]: Footnote: Paragraph (2E) of regulation 8 was inserted by S.I. [2007/311 (W.28)](https://www.legislation.gov.uk/wsi/2007/311).
+
+[^key-99593c4e98d2b12e456e95f06fb7c698]: Commencement: Reg. 7 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00017]: Footnote: S.I. [2003/237 (W.35)](https://www.legislation.gov.uk/wsi/2003/237).
+
+[^key-8cdcda286bde7348b9a762062c3392e1]: Commencement: Reg. 8 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00018]: Footnote: S.I. [2007/1357 (W.128)](https://www.legislation.gov.uk/wsi/2007/1357).
+
+[^key-e02e758f1dbe29d725313ab633587235]: Commencement: Reg. 9 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00019]: Footnote: S.I. [2003/781 (W.92)](https://www.legislation.gov.uk/wsi/2003/781).
+
+[^key-54c86290aace8e2f67d5a327ee8b5c44]: Commencement: Reg. 10 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00020]: Footnote: S.I. [2004/1756 (W.188)](https://www.legislation.gov.uk/wsi/2004/1756).
+
+[^key-98dacbab86d12d34e4a8fbab49c0081c]: Commencement: Reg. 11 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00021]: Footnote: S.I. [2002/324 (W.37)](https://www.legislation.gov.uk/wsi/2002/324). Relevant amending instruments are S.I. [2002/2622 (W.254)](https://www.legislation.gov.uk/wsi/2002/2622) and [2004/2414 (W.222)](https://www.legislation.gov.uk/wsi/2004/2414).
+
+[^key-86d7df5da38699145606431144e2ec16]: Commencement: Reg. 12 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00022]: Footnote: S.I. [2004/219 (W.23)](https://www.legislation.gov.uk/wsi/2004/219). Relevant amending instrument is S.I. [2004/2414 (W.222)](https://www.legislation.gov.uk/wsi/2004/2414).
+
+[^key-32768cc422c21631c8e33e59eea60b7f]: Commencement: Reg. 13 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00023]: Footnote: S.I. [2003/2527 (W.242)](https://www.legislation.gov.uk/wsi/2003/2527). Relevant amending instruments are S.I. [2003/3054 (W.292)](https://www.legislation.gov.uk/wsi/2003/3054) and S.I. [2004/2414 (W.222)](https://www.legislation.gov.uk/wsi/2004/2414).
+
+[^key-bb4f0adfec961305ea0528ef4db69e6a]: Commencement: Reg. 14 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00024]: Footnote: S.I. [2002/325 (W.38)](https://www.legislation.gov.uk/wsi/2002/325). Relevant amending instruments are S.I. [2002/2622 (W.254)](https://www.legislation.gov.uk/wsi/2002/2622) and [2004/2414 (W.222)](https://www.legislation.gov.uk/wsi/2004/2414).
+
+[^key-c5dbb24ce74f7d0b68838956d88aaa0c]: Commencement: Reg. 15 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00025]: Footnote: S.I. [2008/1976 (W.185)](https://www.legislation.gov.uk/wsi/2008/1976).
+
+[^key-47dc2f64142bce926c6da5ca20e8b45d]: Commencement: Reg. 16 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+
+[^f00026]: Footnote: S.I. [2002/919 (W.107)](https://www.legislation.gov.uk/wsi/2002/919). Relevant amending instrument is S.I. [2002/2622 (W.254)](https://www.legislation.gov.uk/wsi/2002/2622).

@@ -1,0 +1,169 @@
+---
+title: The Education (Student Finance) (Miscellaneous Amendments) (No. 2) (Wales) Regulations 2026
+id: wsi/2026/19
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-02-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2026/19
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2026/19/pdfs/wsi_20260019_mi.pdf
+- http://www.legislation.gov.uk/wsi/2026/19/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Finance) (Miscellaneous Amendments) (No. 2) (Wales) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 19
+
+EDUCATION, WALES
+
+The Education (Student Finance) (Miscellaneous Amendments) (No. 2) (Wales) Regulations 2026
+
+Made
+
+2 February 2026
+
+Coming into force
+
+4 March 2026
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred upon the Secretary of State by sections 1 and 2 of the Education (Fees and Awards) Act 1983[^f00001] and sections 22(1)(a) and (2)(a), and 42(6) of the Teaching and Higher Education Act 1998[^f00002], and now exercisable by them[^f00003], and powers conferred on them under sections 5(5)(b) and 55(2) of the Higher Education (Wales) Act 2015[^f00004].
+
+## 1. Title, coming into force and application
+
+(1) The title of these Regulations is the Education (Student Finance) (Miscellaneous Amendments) (No. 2) (Wales) Regulations 2026.
+
+(2) These Regulations come into force on 4 March 2026.
+
+(3) These Regulations apply in relation to the provision of support, and to fees and awards applicable, in relation to an academic year which begins on or after 1 August 2026, whether or not anything done under these Regulations is done before, on or after that date.
+
+## 2. Amendments to the Education (Fees and Awards) (Wales) Regulations 2007
+
+In the Education (Fees and Awards) (Wales) Regulations 2007[^f00005], in the Schedule, in paragraph 1, in the definition of “**person with leave to enter or remain as a relevant Afghan citizen**”—
+
+- (a) in each of paragraphs (a), (b), (c) and (d), after “United Kingdom”, in each place it occurs, insert “granted”;
+- (b) after paragraph (c) omit “or”;
+- (c) after paragraph (d) insert—
+
+  > or
+  >
+  > - (e) indefinite leave to enter or remain in the United Kingdom granted outside the immigration rules on the basis of the Afghanistan Response Route[^f00006];
+
+  .
+
+## 3. Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015
+
+In the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00007], in the Schedule, in paragraph 1(1), in the definition of “**person with leave to enter or remain as a relevant Afghan citizen**”—
+
+- (a) in each of paragraphs (a), (b), (c) and (d), after “United Kingdom”, in each place it occurs, insert “granted”;
+- (b) after paragraph (c) omit “or”;
+- (c) after paragraph (d) insert—
+
+  > or
+  >
+  > - (e) indefinite leave to enter or remain in the United Kingdom granted outside the immigration rules on the basis of the Afghanistan Response Route;
+
+  .
+
+## 4. Amendments to the Education (Student Support) (Wales) Regulations 2018
+
+In the Education (Student Support) (Wales) Regulations 2018[^f00008], in Schedule 2 (categories of eligible student), in paragraph 2ZA (category 2ZA - protected persons and their family members), in sub-paragraph (4)(ea)—
+
+- (a) in the words before sub-paragraph (i), for “granted” substitute “who has”;
+- (b) in each of sub-paragraphs (i), (ib), (ii) and (iii), after “United Kingdom”, in each place it occurs, insert “granted”;
+- (c) after sub-paragraph (ii) omit “or”;
+- (d) after sub-paragraph (iii) insert—
+
+  > or
+  >
+  > - (v) indefinite leave to enter or remain in the United Kingdom granted outside the immigration rules on the basis of the Afghanistan Response Route,
+
+  .
+
+## 5. Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018
+
+In the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00009], in regulation 2 (interpretation), in paragraph (1), in the definition of “**person with leave to enter or remain as a relevant Afghan citizen**”—
+
+- (a) in the words before paragraph (a), for “granted” substitute “who has”;
+- (b) in each of paragraphs (a), (ab), (b) and (c), after “United Kingdom”, in each place it occurs, insert “granted”;
+- (c) after paragraph (b) omit “or”;
+- (d) after paragraph (c) insert—
+
+  > or
+  >
+  > - (e) indefinite leave to enter or remain in the United Kingdom granted outside the immigration rules on the basis of the Afghanistan Response Route;
+
+  .
+
+## 6. Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019
+
+In the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00010], in Schedule 2 (categories of eligible students), in paragraph 2A (category 2A - protected persons and their family members), in sub-paragraph (4)(da)—
+
+- (a) in the words before sub-paragraph (i), for “granted” substitute “who has”;
+- (b) in each of sub-paragraphs (i), (ib), (ii) and (iii), after “United Kingdom”, in each place it occurs, insert “granted”;
+- (c) after sub-paragraph (ii) omit “or”;
+- (d) after sub-paragraph (iii) insert—
+
+  > or
+  >
+  > - (v) indefinite leave to enter or remain in the United Kingdom granted outside the immigration rules on the basis of the Afghanistan Response Route;
+
+  .
+
+Vikki Howells
+
+Minister for Further and Higher Education, under authority of the Cabinet Secretary for Education, one of the Welsh Ministers
+
+2 February 2026
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend various Regulations which make provision about, and in connection with, student finance.
+
+Regulation 1 makes provision about the coming into force and application of these Regulations.
+
+Regulations 2 to 6 make amendments to the following Regulations—
+
+- (a) the Education (Fees and Awards) (Wales) Regulations 2007 (“**the 2007 Regulations**”),
+- (b) the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015 (“**the 2015 Regulations**”),
+- (c) the Education (Student Support) (Wales) Regulations 2018 (“**the 2018 Regulations**”),
+- (d) the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018 (“**the Doctoral Degree Loan Regulations**”), and
+- (e) the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019 (“**the 2019 Regulations**”).
+
+These Regulations amend the definition of a “person with leave to enter or remain as a relevant Afghan citizen” in each of those Regulations to include persons who have indefinite leave to enter or remain in the United Kingdom granted under the Afghanistan Response Route, so that such persons are eligible for home fee status, the fee limits and student support.
+
+These Regulations further revise that definition in the 2018 Regulations, the Doctoral Degree Loan Regulations and the 2019 Regulations, so that such persons are required to have existing leave to enter or remain in the United Kingdom in order to be eligible for student support under those Regulations, in accordance with equivalent requirements for such persons under the 2007 Regulations and the 2015 Regulations. These Regulations also make related minor changes to that definition in the 2007 Regulations and the 2015 Regulations.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Tertiary Education Directorate, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c. 40](https://www.legislation.gov.uk/ukpga/1983/40). Section 1 was amended by the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), Schedule 12, paragraph 91; the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), Schedule 8, paragraph 19; the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 7; the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), Schedule 37, paragraph 57; the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraphs 1 and 11; the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 21, paragraph 5 and Schedule 22; the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), Schedule 14, paragraph 9; [S.I. 2005/3238 (W. 243)](https://www.legislation.gov.uk/wsi/2005/3238), Schedule 1, paragraph 9; [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080), Schedule 1, paragraph 12; [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, paragraph 1; the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), Schedule 5, paragraph 5 and Schedule 16, paragraph 5; the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), Schedule 14, paragraph 33; and the Tertiary Education and Research (Wales) Act [2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), Schedule 4, paragraph 2. Section 2 was amended by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), Schedule 4.
+
+[^f00002]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22(1) was amended by the Learning and Skills Act 2000, section 146(2)(a). *See* section 43(1) of the Teaching and Higher Education Act 1998 for the definitions of “prescribed” and “regulations”.
+
+[^f00003]: Footnote: The functions of the Secretary of State in section 1 of the Education (Fees and Awards) Act 1983 were transferred to the National Assembly for Wales, so far as exercisable in relation to Wales, by the National Assembly for Wales (Transfer of Functions) Order 2006 ([S.I. 2006/1458](https://www.legislation.gov.uk/uksi/2006/1458)), article 2(a). The functions of the Secretary of State in section 2 of that Act were transferred to the National Assembly for Wales, so far as exercisable in relation to Wales, by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and Schedule 1. The function of the Secretary of State in section 22(1)(a) of the Teaching and Higher Education Act 1998 was transferred to the National Assembly for Wales, so far as it relates to making provision in relation to Wales, by section 44(1) of the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8). Section 44(2) of the Higher Education Act 2004 provided that the function in section 22(2)(a) of the Teaching and Higher Education Act 1998 was to be exercised by the National Assembly for Wales concurrently with the Secretary of State, so far as it relates to making provision in relation to Wales. The Secretary of State’s function in section 42(6) of the Teaching and Higher Education Act 1998, in so far as being exercisable in relation to Wales, was transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2 and Schedule 1. The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). *See* section 57(1) for the definitions of “prescribed” and “regulations”.
+
+[^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310), amended by [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349); there are other amending instruments but none is relevant to these Regulations.
+
+[^f00006]: Footnote: The Afghanistan Response Route was discontinued on 4 July 2025. Ministry of Defence guidance in relation to this route is available here: https://www.gov.uk/guidance/afghanistan-response-route.
+
+[^f00007]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), amended by [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349); there are other amending instruments but none is relevant to these Regulations.
+
+[^f00008]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191); relevant amending instruments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633) and [2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349).
+
+[^f00009]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656); relevant amending instruments are [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403), [2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633) and [2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349).
+
+[^f00010]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895); relevant amending instruments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403), [2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633) and [2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349).

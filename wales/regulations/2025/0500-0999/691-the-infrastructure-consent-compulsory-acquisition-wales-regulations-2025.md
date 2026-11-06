@@ -1,0 +1,584 @@
+---
+title: The Infrastructure Consent (Compulsory Acquisition) (Wales) Regulations 2025
+id: wsi/2025/691
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-06-14'
+text_date: '2025-12-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2025/691
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2025/691/pdfs/wsi_20250691_mi.pdf
+- http://www.legislation.gov.uk/wsi/2025/691/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Infrastructure Consent (Compulsory Acquisition) (Wales) Regulations 2025
+
+> Text as at 2025-12-15.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2025 No. 691 (W. 115)
+
+Infrastructure Planning, Wales
+
+The Infrastructure Consent (Compulsory Acquisition) (Wales) Regulations 2025
+
+Made
+
+14 June 2025
+
+Laid before Senedd Cymru
+
+17 June 2025
+
+Coming into force
+
+15 December 2025
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 30(2), 32(4) and (5), 34(2)(c), 35(1), 38(3), 39, 44(1), (2)(a) and (c), 60(2)(d) and (4)(d), 65(4), 72(1) and (2), 140(1) and (2)[^f00001] and 141(2)(a) of the Infrastructure (Wales) Act 2024[^f00002], make the following Regulations.
+
+## PART 1 — Preliminary
+
+### 1. Title and coming into force[^key-a314a8865a66ee9237ac36c6d000a96a]
+
+The title of these Regulations is the Infrastructure Consent (Compulsory Acquisition) (Wales) Regulations 2025 and they come into force on 15 December 2025.
+
+### 2. Application[^key-fd7a198812db3289786b0b5edd2dc84f]
+
+These Regulations apply to—
+
+- (a) an application for infrastructure consent under the 2024 Act that includes a compulsory acquisition request, and
+- (b) a request to vary an application to include a compulsory acquisition request for additional land.
+
+### 3. Interpretation[^key-ba0d0cd1dd550974ec6aa29cb7da15bc]
+
+In these Regulations—
+
+- “**the 2024 Act**” (“***Deddf 2024***”) means the Infrastructure (Wales) Act 2024;
+- “**the 2025 Application Regulations**” (“***Rheoliadau Ceisiadau 2025***”) means The Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025[^f00003];
+- “**the 2025 Examination Regulations**” (“***Rheoliadau Archwiliadau 2025***”) means The Infrastructure Consent (Examination and Decision) (Procedure) (Wales) Regulations 2025[^f00004];
+- “**additional interested person**” (“***person ychwanegol a chanddo fuddiant***”) means an interested person who has not been given written notice in accordance with regulation 5, 7 or 15[^key-0715d6c5f9ff508d9fbc42f4dfa62724];
+- “**additional land**” (“***tir ychwanegol***”) means land that is not subject to a compulsory acquisition request either in an application accepted as a valid application or in a varied application;
+- “**applicant**” (“***ceisydd***”) means a person who proposes to make, or has made an application for infrastructure consent;
+- “**application**” (“***cais***”) means an application for infrastructure consent made under section 32 of the 2024 Act and includes a proposed application and an application as varied;
+- “**book of reference**” (“***cyfeirlyfr***”) has the meaning given in regulation 13;
+- “**compulsory acquisition notice**” (“***hysbysiad caffael gorfodol***”) has the meaning given in regulation 29;
+- “**compulsory acquisition request**” (“***archiad caffael gorfodol***”) means a request to authorise compulsory acquisition of land, or an interest in or right over land;
+- “**environmental statement**” (“***datganiad amgylcheddol***”) has the meaning given in regulation 2(1) of the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017[^f00005] and regulation 2(1) of the Marine Works (Environmental Impact Assessment) Regulations 2007[^f00006];
+- “**examining authority**” (“***awdurdod archwilio***”) means a person or panel of persons appointed under section 40 of the 2024 Act in respect of a particular application;
+- “**general vesting declaration statement**” (“***datganiad declarasiwn breinio cyffredinol***”) has the meaning given in regulation 30;
+- “**infrastructure consent**” (“***cydsyniad seilwaith***”) means the consent required by section 19 of the 2024 Act;
+- “**infrastructure consent order**” (“***gorchymyn cydsyniad seilwaith***”) means an order made under the 2024 Act granting infrastructure consent;
+- “**interested person**” (“***person a chanddo fuddiant***”) means a person with an interest in the land to which the compulsory acquisition request relates or any part of that land;
+- “**land**” (“***tir***”) has the same meaning as in the 2024 Act (see section 143) and includes any interest in or right over land;
+- “**the order land**” (“***tir y gorchymyn***”) has the same meaning as in section 72 of the 2024 Act;
+- “**the prospective purchaser**” (“***y darpar brynwr***”) has the same meaning as in section 72 of the 2024 Act;
+- “**relevant claim**” (“***hawliad perthnasol***”) has the meaning given by section 28(13) of the 2024 Act;
+- “[^key-c876b6c9657790088a66685ecf9091fa]**replacement land**” (“***tir amnewid***”) has the same meaning, as the case may be, as in sections 70 and 71 of the 2024 Act;
+- “**special category land**” (“***tir categori arbennig***”) means land identified as forming part of a common, open space, National Trust land, or fuel or field garden allotment;
+- “**special Senedd procedure**” (“***gweithdrefn arbennig y Senedd***”) means the procedure specified in the standing orders of Senedd Cymru for subordinate legislation that is subject to special Senedd procedure;
+- “**Wales**” (“***Cymru***”) means the combined area of the counties and county boroughs in Wales (see Parts 1 and 2 of Schedule 4 to the Local Government Act 1972[^f00007]);
+- “**Welsh marine area**” (“***ardal forol Cymru***”) means the sea adjacent to Wales out as far as the seaward boundary of the territorial sea; and the question of which parts of the sea are adjacent to Wales is to be determined in accordance with article 6 of the National Assembly for Wales (Transfer of Functions) Order 1999[^f00008].
+
+### 4. Giving notice and other documents[^key-dcdf106e0a689a6f0c477bd5ba113f94]
+
+See section 136 of the 2024 Act in relation to provision in these Regulations which requires or authorises a person to—
+
+- (a) notify another person of something, or
+- (b) give a document to another person (whether the provision uses the word “serve”, “give” or other term).
+
+## PART 2 — Pre-application consultation and publicity
+
+### 5. Consultation and publicity: written notice where a proposed application includes a compulsory acquisition request[^key-19bd2f464d2d48fa6c95251ea849451c]
+
+(1) This regulation applies in addition to regulations 8 and 10 of the 2025 Application Regulations
+
+(2) Where an applicant is required to carry out consultation under section 30(1) of the 2024 Act, they must give notice in writing of the proposed application to any person they know, after making diligent inquiry, to be an interested person.
+
+### 6. Information to be contained in notices[^key-cef62817d49aa029229bd9f00a659fea]
+
+In addition to the requirements in regulation 11 of the 2025 Application Regulations the notice must also contain details of the land included in the compulsory acquisition request.
+
+### 7. Consultation and publicity: written notice for additional interested persons[^key-1eff0f42f668e64112c2542e28af9f58]
+
+(1) This regulation applies where an applicant identifies an additional interested person after giving notice in accordance with regulation 5(2).
+
+(2) The applicant must give notice in writing of the proposed application to any additional interested person within 14 days starting with the day after the date on which the person is identified.
+
+(3) Where an applicant gives notice under paragraph (2) they must at the same time give notice to the Welsh Ministers confirming that the notice has been given to the additional interested person.
+
+### 8. Extension of time for submitting an application[^key-7e67cfcfc16694d878222f621ed0ac65]
+
+(1) This regulation applies where the date specified[^f00009] for representations to be received in the written notice given under regulation 7(2)is—
+
+- (a) within the final 56 days of the 18 month period for submitting an application under regulation 14(1) of the 2025 Application Regulations (period within which applications must be made), or
+- (b) after the expiry of that period.
+
+(2) In the circumstances described in paragraph[^key-b63e4af22ac61c7cc826b20dde615988] (1), the 18 month period for submitting an application is extended by 49 days.
+
+(3) In this regulation, where the 18 month period for submitting an application is extended in accordance with regulation 14(2) of the 2025 Application Regulations, the 18 month period means that period as extended.
+
+## PART 3 — Applications
+
+### 9. Applications including a compulsory acquisition request: additional requirements[^key-606886b6ac54c6c434341fb71f244118]
+
+(1) In addition to the requirements in regulation 15 of the 2025 Application Regulations, an application for infrastructure consent must include—
+
+- (a) a book of reference (see regulation 13),
+- (b) a statement of reasons justifying the compulsory acquisition request,
+- (c) a statement of funding explaining how the compulsory acquisition is to be funded,
+- (d) a plan identifying any land to which the compulsory acquisition request relates, including that land which would be protected from development, any land on which private rights would be extinguished and any special category or replacement land, and
+- (e) a cross-referencing document.
+
+(2) In this regulation “**cross-referencing document**” means a document that cross-references pre-application representations from interested persons with the book of reference in the appropriate form published on a website maintained by the Welsh Ministers or in a form substantially to the same effect.
+
+### 10. Notice of persons interested in land to which compulsory acquisition request relates[^key-92038a4e0e1503098da72a30c58aa9bc]
+
+(1) Within 7 days of receiving a notice under section 33(3) of the 2024 Act, the applicant must give to the Welsh Ministers the notice required by section 38(2) of the 2024 Act[^key-c6731535d37156b51d303b0d1bc12a30].
+
+(2) The notice must be in the appropriate form published on a website maintained by the Welsh Ministers or in a form substantially to the same effect.
+
+### 11. Notice of a valid application[^key-05be33418ed849f5825e38fd7f37e7a4]
+
+In addition to the persons specified in section 34(2) of the 2024 Act and regulation 23 of the 2025 Application Regulations, the Welsh Ministers must give notice of a valid application to any person identified in the book of reference.
+
+### 12. Content of a notice of valid application[^key-e843840bfaf632bb382f49c65314a3bf]
+
+In addition to any requirements in section 34(4)(a) of the 2024 Act and regulation 24 of the 2025 Application Regulations, the notice must also contain a statement that the infrastructure consent order may authorise compulsory acquisition.
+
+### 13. Meaning of “book of reference”[^key-d70df72f5206bc53b7a22dd719f1223d]
+
+(1) In these Regulations “**book of reference**” means a document in four parts together with a plan.
+
+(2) Part one must contain details of the names, addresses and contact information of each person who is—
+
+- (a) an owner, lessee, tenant or occupier of the land;
+- (b) a person who has an interest in the land, or has the power to sell, convey or release the land.
+
+(3) Part two must contain details of the names, addresses and contact information of each person who enjoys private rights over the land, including rights of navigation, which it is proposed will be extinguished, suspended or interfered with.
+
+(4) Part three must contain details of the names, addresses and contact information of any owner of a Crown interest in the land.
+
+(5) Part four must contain details of special category land, replacement land and land that may result in an infrastructure consent order being subject to the Special Senedd Procedure.
+
+(6) The plan must show any land that will be subject to compulsory acquisition and identify—
+
+- (a) any land that, if acquired, would not be subject to development;
+- (b) any land that, if acquired, would be subject to the extinguishment of private rights;
+- (c) any special category land that would be subject to compulsory acquisition;
+- (d) any replacement land.
+
+(7) The details contained in each part of the book of reference must be kept up to date by the applicant until the conclusion of any examination period identified in a timetable set or updated by the examining authority.
+
+(8) Where the applicant updates the details in the book of reference, they must give notice of the change to the Welsh Ministers as soon as reasonably practicable.
+
+(9) In this regulation “**Crown interest**” has the meaning given in section 134(3) of the 2024 Act.
+
+## PART 4 — Variation of applications to include additional land
+
+### 14. Prescribed procedure for authorisation of compulsory acquisition of land[^key-3f7d3a9d36bcd3202c44386f94ed24bc]
+
+Regulations 15 to 20 prescribe the procedure for the purposes of section 65(4) of the 2024 Act (land to which authorisation of compulsory acquisition can relate).
+
+### 15. Post validation consultation[^key-ccccbdfee903234c582941265c61064b]
+
+(1) This regulation applies where, after the Welsh Ministers have accepted an application as valid under section 33 of the 2024 Act, the applicant identifies an additional interested person or additional land for which a compulsory acquisition request is required.
+
+(2) The applicant must, within 14 days, starting the day after the date the additional interested person or additional land is identified, give notice to—
+
+- (a) any interested person,
+- (b) any additional interested person,
+- (c) any person who would or may be entitled to make a relevant claim as a result of the compulsory acquisition of the additional land.
+
+(3) The notice must include—
+
+- (a) the name of the applicant,
+- (b) the location of the proposed development,
+- (c) a summary of the proposed development,
+- (d) details of land that would be subject to compulsory acquisition,
+- (e) details of how the website required under regulation 25 (Publicity for valid applications: website) of the 2025 Application Regulations can be accessed,
+- (f) details of how any representations are to be made, and
+- (g) the date by which any representations are to be received which must be 28 days after the date the notice is given.
+
+(4) Where the applicant gives notice in accordance with paragraph[^key-773c1b438559da6f30b4c0055c89daf7] (2) they must at the same time give notice to the Welsh Ministers that the consultation is taking place.
+
+### 16. Request to vary an application to include compulsory acquisition of additional land[^key-e6913937d7cf0584af809833056ed55d]
+
+(1) This regulation applies where, after the Welsh Ministers have accepted an application as valid, the applicant requests to vary that application to include a compulsory acquisition request for additional land.
+
+(2) The applicant must submit any request to vary the application in the period of 28 days starting with the day after the date specified in the notice for that land in accordance with regulation 15(3)(g).
+
+(3) The request to vary the application must include—
+
+- (a) a book of reference,
+- (b) a statement of reasons justifying the compulsory acquisition request,
+- (c) a statement of reasons for the variation,
+- (d) a statement of reasons why the additional land was not included in the application as made,
+- (e) a statement of reasons why the request to vary the application could not have been made earlier,
+- (f) a statement of funding explaining how the compulsory acquisition is to be funded,
+- (g) a document containing details of any person who would or might be entitled to make a relevant claim if the proposed infrastructure consent is implemented,
+- (h) a cross-referencing document,
+- (i) a statement of how, in the applicant’s view, the varied application could be properly examined within the timeframe for deciding the application in accordance with section 59 of the 2024 Act, and
+- (j) any required fee.
+
+(4) In this regulation “**cross-referencing document**” means a document that cross-references representations from interested persons with the book of reference in the appropriate form published on a website maintained by the Welsh Ministers or in a form substantially to the same effect.
+
+### 17. Acceptance of a request to vary an application to include compulsory acquisition of additional land[^key-4477e41dab1cbf3618d180b3d07768d2]
+
+(1) Where the Welsh Ministers receive a request to vary an application under these Regulations, they must determine whether to accept the request within 15 days of the date the request is received.
+
+(2) The Welsh Ministers may only accept a request if the requirements set out in regulation 16 are met.
+
+(3) Where the Welsh Ministers consider the varied application will result in a substantial change in the nature of the development for which infrastructure consent is sought, they must not accept the request.
+
+(4) Where the Welsh Ministers decide not to accept a request, they must give notice of the decision and reasons to the applicant as soon as reasonably practicable.
+
+(5) Where the Welsh Ministers accept the request, the application is varied.
+
+### 18. Extending the timescale for determining a request to vary an application to include compulsory acquisition of additional land[^key-d82b523cf394e6cca4b1b8f88b96538d]
+
+(1) The Welsh Ministers may make a direction to extend the timescale for determining a request to vary an application.
+
+(2) Where the Welsh Ministers make a direction under paragraph (1) they must provide written notice of the extension to the applicant and any person notified under regulation 15(2).
+
+(3) The notice under paragraph (2) must specify the date by which a determination on accepting the request will be made.
+
+### 19. Notice of varied application[^key-b407a0c2a0651479eb52e9098de52d0a]
+
+(1) Where the Welsh Ministers accept a request to vary an application under these Regulations they must, as soon as reasonably practicable, give notice of the varied application to—
+
+- (a) the applicant,
+- (b) all persons with an interest in the land[^key-b7ca26e3c2992a7c4902acb226d9aa20] identified in the book of reference not already notified in accordance with this regulation or regulation 11,
+- (c) any person who would or might be entitled to make a relevant claim not already notified under this regulation or regulation 23 (Notice of a valid application) of the 2025 Application Regulations, and
+- (d) any other person the Welsh Ministers consider should reasonably be informed about the application.
+
+(2) The notice must include—
+
+- (a) the name of the applicant,
+- (b) a statement that the request to vary an application has been accepted by the Welsh Ministers,
+- (c) the date the variation was accepted,
+- (d) the reference number allocated to the application by the Welsh Ministers,
+- (e) the location of the proposed development,
+- (f) a summary of the proposed development,
+- (g) a description of the land to which the compulsory acquisition request relates,
+- (h) a statement of the purpose of the compulsory acquisition,
+- (i) a statement specifying if the application includes an environmental statement,
+- (j) details of where and during which hours a copy of the application is available for inspection,
+- (k) details of how the website required under regulation 25 (Publicity for valid applications: website) of the 2025 Application Regulations can be accessed,
+- (l) details of how representations can be made, and
+- (m) the date by which any representations are to be received, which must be at least 28 days after the date the notice is given.
+
+### 20. Publicising a varied application[^key-c5504951f07cbcb53e7abe114a50f158]
+
+(1) This regulation applies where the Welsh Ministers accept a request to vary an application under regulation 17.
+
+(2) The Welsh Ministers must make a copy of the application available for inspection by the public, at all reasonable hours, at a place in the locality of what will be the order land if the infrastructure consent is granted.
+
+(3) Where any development authorised by the infrastructure consent will take place in Wales, the Welsh Ministers must display a notice (“site notice”) in at least one place on or near what will be order land for not less than 28 days.
+
+(4) Where a development relates to a linear scheme exceeding 5km in length, a site notice must be displayed at intervals of no more than 5km from the start to the end of the proposed route unless it is impractical to do so.
+
+(5) Any site notice must include—
+
+- (a) the name of the applicant,
+- (b) a statement that the request to vary the application has been accepted by the Welsh Ministers,
+- (c) the date the request was accepted,
+- (d) the reference number allocated to the application by the Welsh Ministers,
+- (e) the location of the proposed development,
+- (f) a summary of the proposed development,
+- (g) a description of the land to which the compulsory acquisition request relates,
+- (h) a statement of the purpose of the compulsory acquisition,
+- (i) a statement specifying if the application includes an environmental statement,
+- (j) details of where and during which hours a copy of the application is available for inspection,
+- (k) details of how the website required under regulation 25 (Publicity for valid applications: website) of the 2025 Application Regulations can be accessed,
+- (l) details of how representations can be made, and
+- (m) the date by which any representations are to be received which must be 28 days after the date the notice is first displayed.
+
+(6) Where a site notice is removed, obscured or defaced during the 28 day period, the Welsh Ministers will be treated as complying with paragraph (3) or (4), as appropriate,[^key-001c2426ec787a42cb40cc547fbef578] if they have taken reasonable steps to protect it and, if need be, replace it.
+
+(7) The Welsh Ministers must publish a notice of the application for one week in one newspaper that circulates in the locality of what will be order land if the infrastructure consent is granted.
+
+(8) Where any development authorised by the infrastructure consent will take place in the Welsh marine area, the Welsh Ministers must, as soon as reasonably practicable, also publish for 7 days[^key-72d33663a282cb051bdb817a0ccca188] a notice of the application in—
+
+- (a) Lloyd’s List, and
+- (b) one fishing journal, if one is in circulation.
+
+(9) The notice published in accordance with paragraphs (7) or (8) must include the information required by paragraph (5).
+
+## PART 5 — Representations
+
+### 21. Representations about an application[^key-2be9cc9d30b4d3b11bc5694c4d3a9e79]
+
+(1) Where the Welsh Ministers receive a representation about an application from a person identified in the book of reference, they must give details of that representation to the applicant as soon as is reasonably practicable.
+
+(2) Where an applicant receives details of a representation, they must update any cross-referencing document provided under regulations 9 or 16.
+
+(3) Where an applicant updates the cross-referencing document, they must provide the updated document to the Welsh Ministers as soon as reasonably practicable after the date the representation was to be received as specified in any notice.
+
+## PART 6 — Examination procedure and notice of decisions
+
+### 22. Meeting about examination procedure[^key-05e05506d707efab94b1e5a0abf1eef8][^key-c834c057d7ea3c95e06b341ccc62844d]
+
+(1) Unless paragraph (7) applies, the examining authority must hold a meeting before determining the procedure for examining an application for infrastructure consent that includes a compulsory acquisition request or has been varied to include a compulsory acquisition request for additional land.
+
+(2) The examining authority must invite the following to the meeting—
+
+- (a) the applicant;
+- (b) all persons identified in the book of reference;
+- (c) any other person who the examining authority consider should be reasonably informed of the meeting.
+
+(3) The invitation must—
+
+- (a) state if the meeting is to take place partly or fully by electronic means and provide details of how the meeting may be attended;
+- (b) specify the date and time of the meeting which must be at least 14 days after the day on which the invitation is given;
+- (c) ask all persons identified in the book of reference to make representations about the procedure for examining the compulsory acquisition of land.
+
+(4) A person invited to the meeting may make representations, about the procedure for examining the compulsory acquisition of land, in writing before the meeting takes place or at the meeting.
+
+(5) The examining authority may hold the meeting in the absence of any person given an invitation if it considers it expedient.
+
+(6) The examining authority must prepare a note of the meeting and make it available as soon as practicable to any person who attended or was given an invitation to the meeting.
+
+(7) Where the examining authority has already determined that the topic of compulsory acquisition of land is to be examined by way of hearing or local inquiry, it need not hold a procedure meeting, but may do so if it considers it expedient.
+
+### 23. Determination of procedure where an application is varied to include a compulsory acquisition request for additional land[^key-7c37fc3c39922e508f17ef48d103a595][^key-94fd00bea173db699d32a29647e76705]
+
+The examining authority must determine the procedure for the examination of an application that has been varied under these Regulations, by the latest of—
+
+- (a) the end of the 28 days specified in regulation 10(1) of the 2025 Examination Regulations (determination of procedure), or
+- (b) the end of 21 days beginning with the day specified for the purpose of regulation 20(5)(m).
+
+### 24. Determination of timetable for examination where an application is varied to include a compulsory acquisition request for additional land[^key-2262af121b4a1233f967d040dfaedacc]
+
+(1) Where the examining authority has determined the procedure for the examination of an application that has been varied under these Regulations, it must prepare a timetable, or if one has been prepared under regulation 11(1)of the 2025 Examination Regulations, vary the timetable for the examination of the application.
+
+(2) Where the examining authority prepares or varies a timetable under this regulation, they must invite any person identified in the book of reference to make further representations about the compulsory acquisition of their land at any hearing or local inquiry if one is to be held, or otherwise in writing.
+
+(3) In this regulation timetable means a timetable in the form set out in regulation 11(2) of the 2025 Examination Regulations.
+
+### 25. Modification of the 2025 Examination Regulations where an application is varied to include a compulsory acquisition request for additional land[^key-867d7ef7bf07ef993d9205b298590122]
+
+Where an application is varied under these Regulations, the 2025 Examination Regulations apply with the following modifications—
+
+- (a) the representation period in the definition of “initial written representations” is to include the period ending with the date specified under regulation 20(5)(m) of these Regulations;
+- (b) the definition of “interested party” is to include any person identified in the book of reference.
+
+### 26. Notice of decisions[^key-2fd1c040d43b5aa9a2b80318583fb6d5]
+
+(1) This regulation applies to decisions on an application for infrastructure consent that contains a compulsory acquisition request or that has been varied in accordance with these Regulations.
+
+(2) In addition to the persons listed in section 60(2) of the 2024 Act and Schedule 2 to the 2025 Examination Regulations, the Welsh Ministers must give notice of the decision to either make an infrastructure consent order or refuse infrastructure consent to any person listed in the book of reference.
+
+(3) In addition to the persons listed in section 60(4) of the 2024 Act and Schedule 2 to the 2025 Examination Regulations, the examining authority must give notice of the decision either that an infrastructure consent order is to be made or to refuse infrastructure consent to any person listed in the book of reference.
+
+### 27. Notice of reasons[^key-64d7dea370f9787868b92d94bf0d76d1]
+
+(1) This regulation applies to a statement prepared under section 62(1) or (2) of the 2024 Act in relation to a decision on an application that contains a compulsory acquisition request or that has been varied in accordance with these Regulations.
+
+(2) In addition to the persons listed in section 62(3) of the 2024 Act and Schedule 2 to the 2025 Examination Regulations, the Welsh Ministers or examining authority (as the case may be) must provide a copy of the statement to the persons listed in the book of reference.
+
+## PART 7 — Procedure where infrastructure consent is granted
+
+### 28. Notice of authorisation of compulsory acquisition[^key-357ff27c8871f54ac5efb9b3982734b7]
+
+(1) This regulation applies where the Welsh Ministers have made an infrastructure consent order that authorises the compulsory acquisition of land.
+
+(2) The prospective purchaser must—
+
+- (a) make a copy of the infrastructure consent order available for inspection by the public, at all reasonable hours, at a place in the locality of the order land;
+- (b) give a compulsory acquisition notice to any person who would be a qualifying person for the purposes of section 12(1) of the Acquisition of Land Act 1981[^f00010] (notice to owners, lessees, occupiers and others);
+- (c) affix a compulsory acquisition notice to a conspicuous object or objects on or near the order land so as to be visible by the public.
+
+(3) A notice affixed to an object should be addressed to any person occupying the land and any person with an interest in the land.
+
+### 29. Form of compulsory acquisition notice[^key-aee605678f728d43f20d34670cf1f7b3]
+
+(1) A compulsory acquisition notice must, in addition to the requirements in section 72(2) of the 2024 Act, include—
+
+- (a) the title of the infrastructure consent order (the Order),
+- (b) the date on which the Order was made,
+- (c) a statement of the purpose of the provision authorising compulsory acquisition,
+- (d) details of where and during which hours a copy of the Order is available for inspection, and
+- (e) a statement that the Order may only be challenged in accordance with section 96 of the 2024 Act.
+
+(2) Where the Order applies Parts 2 and 3 of the Compulsory Purchase (Vesting Declarations) Act 1981[^f00011], the compulsory acquisition notice must also include—
+
+- (a) the name of the prospective purchaser,
+- (b) a statement that land may be acquired by executing a general vesting declaration under section 4 of that Act,
+- (c) a schedule identifying land that may be subject to a general vesting declaration,
+- (d) a general vesting declaration statement, and
+- (e) an invitation to any person who would be able to claim compensation in relation to the identified land to provide—
+  - (i) the name and address of any person with an interest in the land,
+  - (ii) a description of the land in which the interest lies, and
+  - (iii) a description of the interest held in the land.
+
+### 30. General vesting declaration statement[^key-62ae53747089a30d673cf57c6065c2ba]
+
+(1)[^key-0c417b385d5efb1dfef76223cff73962] A general vesting declaration statement must include—
+
+- (a) that the prospective purchaser may acquire any of the identified land by executing a general vesting declaration under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981,
+- (b) that the prospective purchaser must serve a notice of a general vesting declaration on every occupier of the land to which it relates, and on any person who has provided relevant information in response to the invitation required by regulation 29(2)(e),
+- (c) that when the notices in sub-paragraph[^key-f8ddfd1d8a1eb958b65915fdb5d7ce12] (b) are served the period specified in the notice, of not less than three months, will begin to run,
+- (d) that on the vesting date, being the day after the period specified in the notice expires, the land described in the declaration will vest in the prospective purchaser and they will be entitled to enter the land and take possession of it,
+- (e) that every person on whom the prospective purchaser could have served a notice to treat will be entitled to claim compensation for the acquisition of their interest in the land, and that interest will accrue on that compensation from the vesting date,
+- (f) that a general vesting declaration will not apply to a tenancy of a year or less, or a long tenancy which is about to expire[^key-fe1190d844b7e4529a42a14bfcc9ec96],
+- (g) that such a tenancy will be subject to a separate notice to treat, and
+- (h) that the vesting of the land will be subject to such a tenancy until the tenancy ends or until the expiry of a period of not less than 3 months after the service of a notice of the prospective purchaser’s intention to take possession of the land on the tenant and every other occupier of the land,
+
+(2)[^key-c30bb73f5c327dfb4ffee5c7826123dc] Expressions used in this regulation and in the Compulsory Purchase (Vesting Declarations) Act 1981 have the same meaning as in that Act.
+
+Rebecca Evans
+
+Cabinet Secretary for Economy, Energy and Planning, one of the Welsh Ministers
+
+14 June 2025
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Infrastructure (Wales) Act 2024 (“**the 2024 Act**”) establishes a unified application and consenting process to enable making and consideration of applications for infrastructure consent. The process applies to the significant infrastructure projects that are specified in Part 1 of the 2024 Act. Broadly, they are energy, transport, waste and water projects.
+
+Part 2 of the 2024 Act contains the requirement for infrastructure consent. Part 3 of the 2024 Act makes provision about applying for infrastructure consent.
+
+Part 4 of the 2024 Act contains provision about appointing an authority to examine applications for infrastructure consent (“**the examining authority**”) and about particular aspects of the examination process. Part 5 of the 2024 Act contains provisions about deciding applications for infrastructure consent.
+
+The Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025 (“**the 2025 Application Regulations**”) make provision additional to that in the 2024 Act about pre-application requirements and applying for infrastructure consent.
+
+The Infrastructure Consent (Examination and Decision) (Procedure) (Wales) Regulations 2025 (“**the 2025 Examination Regulations**”) make provision in relation to an examining authority, preparation for and the examination of applications and post-examination processes. These Regulations make provision for additional and supplementary procedures where the infrastructure consent order applied for will authorise compulsory acquisition of land or rights over land.
+
+Part 1 of these Regulations makes general provisions.
+
+Part 2 of these Regulations sets out pre-application procedures to be followed before an application for infrastructure consent that contains a compulsory acquisition request is submitted to the Welsh Ministers. These are additional procedures to those specified in Part 3 of the 2025 Application Regulations. This Part also makes provision for extending the time limit for submitting an application specified in regulation 14 of the 2025 Application Regulations.
+
+Part 3 of these Regulations sets out the procedures that must be followed when submitting and validating an application that contains a compulsory acquisition request. These are in addition to the procedures in Part 4 of the 2025 Application Regulations. It also includes the definition for book of reference.
+
+Part 4 of these Regulations sets out the procedures for amending an application for infrastructure consent to include a compulsory acquisition request for land not initially included. These are separate procedures to those in Part 6 of the 2025 Application Regulations.
+
+Part 5 of these Regulations sets out how representations received from a person identified in the book of reference are to be dealt with by the Welsh Ministers.
+
+Part 6 of these Regulations sets out the procedure for determining the examination procedure for an application for infrastructure consent that includes, or has been varied to include, a compulsory acquisition request. It also contains provisions for the service of notices of decisions and reasons. This Part also makes modifications to the 2025 Examination Regulations where an application is varied to include a compulsory acquisition request for additional land. These procedures are in addition and supplement those in Part 3 of the 2025 Examination Regulations.
+
+Part 7 of these Regulations sets out procedures that must take place after an infrastructure consent order that includes provision authorising compulsory acquisition of land is made.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from Welsh Government, Cathays Park, Cardiff, CF10 3NQ and is published on www.gov.wales.
+
+## Annotations
+
+[^f00001]: Footnote: For the meaning of “appropriate Minister” see section 140(4) of the Infrastructure (Wales) Act [2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3); see section 140(3) otherwise.
+
+[^f00002]: Footnote: [2024 asc 3](https://www.legislation.gov.uk/asc/2024/3).
+
+[^key-a314a8865a66ee9237ac36c6d000a96a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-fd7a198812db3289786b0b5edd2dc84f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/691/regulation/2) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-ba0d0cd1dd550974ec6aa29cb7da15bc]: Commencement: Reg. 3 in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2025/690 (W. 114)](https://www.legislation.gov.uk/wsi/2025/690).
+
+[^f00004]: Footnote: [S.I. 2025/692 (W. 116)](https://www.legislation.gov.uk/wsi/2025/692).
+
+[^key-0715d6c5f9ff508d9fbc42f4dfa62724]: Textual amendment: Word in reg. 3 substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/2/a)
+
+[^f00005]: Footnote: [S.I. 2017/567](https://www.legislation.gov.uk/uksi/2017/567).
+
+[^f00006]: Footnote: [S.I. 2007/1518](https://www.legislation.gov.uk/uksi/2007/1518).
+
+[^key-c876b6c9657790088a66685ecf9091fa]: Textual amendment: Words in reg. 3 inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/2/b)
+
+[^f00007]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); parts 1 and 2 of Schedule 4 are amended by paragraphs 1 and 2 of Schedule 1 to the Local Government (Wales) Act [1994 (c. 14)](https://www.legislation.gov.uk/ukpga/1994/14).
+
+[^f00008]: Footnote: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^key-dcdf106e0a689a6f0c477bd5ba113f94]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/691/regulation/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-19bd2f464d2d48fa6c95251ea849451c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/691/regulation/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-cef62817d49aa029229bd9f00a659fea]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/691/regulation/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-1eff0f42f668e64112c2542e28af9f58]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/691/regulation/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-7e67cfcfc16694d878222f621ed0ac65]: Commencement: Reg. 8 in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^f00009]: Footnote: See regulation 11(f) of the 2025 Application Regulations.
+
+[^key-b63e4af22ac61c7cc826b20dde615988]: Textual amendment: Word in reg. 8(2) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/3)
+
+[^key-606886b6ac54c6c434341fb71f244118]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/691/regulation/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-92038a4e0e1503098da72a30c58aa9bc]: Commencement: Reg. 10 in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-c6731535d37156b51d303b0d1bc12a30]: Textual amendment: Words in reg. 10(1) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/4)
+
+[^key-05be33418ed849f5825e38fd7f37e7a4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/691/regulation/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-e843840bfaf632bb382f49c65314a3bf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/691/regulation/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-d70df72f5206bc53b7a22dd719f1223d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/691/regulation/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-3f7d3a9d36bcd3202c44386f94ed24bc]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/691/regulation/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-ccccbdfee903234c582941265c61064b]: Commencement: Reg. 15 in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-773c1b438559da6f30b4c0055c89daf7]: Textual amendment: Word in [reg. 15(4)](https://www.legislation.gov.uk/wsi/2025/691/regulation/15/4) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/uksi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1091/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2025/1091/regulation/3/5)
+
+[^key-e6913937d7cf0584af809833056ed55d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/691/regulation/16) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-4477e41dab1cbf3618d180b3d07768d2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/691/regulation/17) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-d82b523cf394e6cca4b1b8f88b96538d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/691/regulation/18) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-b407a0c2a0651479eb52e9098de52d0a]: Commencement: Reg. 19 in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-b7ca26e3c2992a7c4902acb226d9aa20]: Textual amendment: Words in reg. 19(1)(b) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/6/a)
+
+[^key-c5504951f07cbcb53e7abe114a50f158]: Commencement: Reg. 20 in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-001c2426ec787a42cb40cc547fbef578]: Textual amendment: Words in reg. 20(6) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(9)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/9)
+
+[^key-72d33663a282cb051bdb817a0ccca188]: Textual amendment: Words in reg. 20(8) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(10)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/10)
+
+[^key-2be9cc9d30b4d3b11bc5694c4d3a9e79]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2025/691/regulation/21) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-05e05506d707efab94b1e5a0abf1eef8]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2025/691/regulation/22) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-c834c057d7ea3c95e06b341ccc62844d]: Modification: [Reg. 22](https://www.legislation.gov.uk/wsi/2025/691/regulation/22) applied (15.12.2025) by [The Infrastructure Consent (Examination and Decision) (Procedure) (Wales) Regulations 2025 (S.I. 2025/692)](https://www.legislation.gov.uk/wsi/2025/692), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/10/2)
+
+[^key-7c37fc3c39922e508f17ef48d103a595]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2025/691/regulation/23) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-94fd00bea173db699d32a29647e76705]: Modification: [Reg. 23](https://www.legislation.gov.uk/wsi/2025/691/regulation/23) applied (15.12.2025) by [The Infrastructure Consent (Examination and Decision) (Procedure) (Wales) Regulations 2025 (S.I. 2025/692)](https://www.legislation.gov.uk/wsi/2025/692), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2025/692/regulation/10/2)
+
+[^key-2262af121b4a1233f967d040dfaedacc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2025/691/regulation/24) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-867d7ef7bf07ef993d9205b298590122]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2025/691/regulation/25) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-2fd1c040d43b5aa9a2b80318583fb6d5]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2025/691/regulation/26) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-64d7dea370f9787868b92d94bf0d76d1]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2025/691/regulation/27) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-357ff27c8871f54ac5efb9b3982734b7]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2025/691/regulation/28) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^f00010]: Footnote: Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67).
+
+[^key-aee605678f728d43f20d34670cf1f7b3]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2025/691/regulation/29) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^f00011]: Footnote: Compulsory Purchase (Vesting Declarations) Act [1981 (c. 66)](https://www.legislation.gov.uk/ukpga/1981/66).
+
+[^key-62ae53747089a30d673cf57c6065c2ba]: Commencement: Reg. 30 in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/691/regulation/1)
+
+[^key-0c417b385d5efb1dfef76223cff73962]: Textual amendment: Reg. 30 renumbered as reg. 30(1) (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(12)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/12/a)
+
+[^key-f8ddfd1d8a1eb958b65915fdb5d7ce12]: Textual amendment: Word in reg. 30(1)(c) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(12)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/12/b)
+
+[^key-fe1190d844b7e4529a42a14bfcc9ec96]: Textual amendment: Words in reg. 30(1)(f) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(12)(c)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/12/c)
+
+[^key-c30bb73f5c327dfb4ffee5c7826123dc]: Textual amendment: Reg. 30(2) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [3(12)(d)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/3/12/d)

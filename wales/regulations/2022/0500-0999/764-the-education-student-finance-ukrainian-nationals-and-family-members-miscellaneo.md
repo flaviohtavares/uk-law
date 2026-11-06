@@ -1,0 +1,672 @@
+---
+title: The Education (Student Finance) (Ukrainian Nationals and Family Members) (Miscellaneous Amendments) (Wales) Regulations 2022
+id: wsi/2022/764
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-07-05'
+text_date: '2026-02-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2022/764
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2022/764/pdfs/wsi_20220764_mi.pdf
+- http://www.legislation.gov.uk/wsi/2022/764/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Finance) (Ukrainian Nationals and Family Members) (Miscellaneous Amendments) (Wales) Regulations 2022
+
+> Text as at 2026-02-05.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2022 No. 764 (W. 166)
+
+Education, Wales
+
+The Education (Student Finance) (Ukrainian Nationals and Family Members) (Miscellaneous Amendments) (Wales) Regulations 2022
+
+Made
+
+5 July 2022
+
+Laid before Senedd Cymru
+
+7 July 2022
+
+Coming into force
+
+24 July 2022
+
+The Welsh Ministers, in exercise of the powers conferred upon the Secretary of State by sections 1 and 2 of the Education (Fees and Awards) Act 1983[^f00001] and sections 22(1)(a), 22(2)(a) and (d) and 42(6) of the Teaching and Higher Education Act 1998[^f00002] and now exercisable by them[^f00003] and powers conferred on them under sections 5(5)(b) and 55(2) of the Higher Education (Wales) Act 2015[^f00004], make the following Regulations:
+
+## PART 1 — Title, commencement and application
+
+### 1. Title and commencement[^key-923be01df60c81e47d752dda2de2f7dd]
+
+The title of these Regulations is the Education (Student Finance) (Ukrainian Nationals and Family Members) (Miscellaneous Amendments) (Wales) Regulations 2022.
+
+### 2.[^key-21773a302cac2a97bb5318520830b92f]
+
+These Regulations come into force on 24 July 2022.
+
+### 3. Application[^key-9b0d43224a70910cdc190d0f00ec7a8d]
+
+These Regulations apply in relation to the provision of support to a student in relation to an academic year which begins on or after 1 August 2022, whether or not anything done under these Regulations is done before, on or after that date.
+
+## PART 2 — Amendments to the Education (Fees and Awards) (Wales) Regulations 2007
+
+### 4. Introduction[^key-b413c7b0bfdcdde44a98987782b0533d]
+
+The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this Part.
+
+### 5. Amendments to regulations 4 to 8[^key-b14c8b5ff6512a5f6547418ba40710ae]
+
+In regulation 4(1)(a), after “4B,” insert “4C,”.
+
+### 6.[^key-81ffb9e1f9701499a9a7d71487fe97e1]
+
+In regulation 5(1)—
+
+- (a) in sub-paragraph (b)(i), after “4B,” insert “4C,”;
+- (b) in sub-paragraph (c)(i), after “4B,” insert “4C,”.
+
+### 7.[^key-bd3f3d339b9f67f2e28e4c18a3f1731b]
+
+In regulation 6—
+
+- (a) in paragraph (2)(a), after “4B,” insert “4C,”;
+- (b) in paragraph (3)(a), after “4B,” insert “4C,”.
+
+### 8.[^key-e77ed6c5966c6970f925250d5854fd48]
+
+In regulation 7—
+
+- (a) in paragraph (2)(a), after “4B,” insert “4C,”;
+- (b) in paragraph (3)(a), after “4B,” insert “4C,”.
+
+### 9.[^key-8d27268962aa74e95a45a9672874e968]
+
+In regulation 8—
+
+- (a) in paragraph (1)(a), after “4B,” insert “4C,”;
+- (b) in paragraph (2)(a), after “4B,” insert “4C,”.
+
+### 10. Amendment to the Schedule[^key-df16f87c8c6360d45ee8c8c197d50789]
+
+In the Schedule—
+
+- (a) in paragraph 1, at the appropriate place insert—
+
+  > - “protected Ukrainian national” (“*gwladolyn Wcreinaidd a ddiogelir*”) means a person granted leave to enter or remain in the United Kingdom—
+  >   - (a) under paragraph 9.1 (Ukraine Family Scheme), 19.1 (Homes for Ukraine Sponsorship Scheme) or 27.1 (Ukraine Extension Scheme) of Appendix Ukraine Scheme of the immigration rules; or
+  >   - (b) outside the immigration rules, where the person—
+  >     - (i) was residing in Ukraine immediately before 1 January 2022; and
+  >     - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022;
+
+  ;
+- (b) after paragraph 4B insert—
+
+  > **4C.** A person who—
+  >
+  > - (a) is a protected Ukrainian national;
+  > - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since becoming a protected Ukrainian national; and
+  > - (c) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+
+## PART 3 — Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-8cacae43eb4ea2294197757c7c28bb7b]
+
+**No longer in force.**
+
+### 11. Introduction[^key-8cacae43eb4ea2294197757c7c28bb7b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Amendment to regulation 3[^key-8cacae43eb4ea2294197757c7c28bb7b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Amendment to regulation 6[^key-8cacae43eb4ea2294197757c7c28bb7b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Amendment to Schedule 1[^key-8cacae43eb4ea2294197757c7c28bb7b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015
+
+### 15. Introduction[^key-4ff53570699e27cb6a04ee04cdf03b72]
+
+The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00007] are amended in accordance with this Part.
+
+### 16. Amendment to regulation 4[^key-c8cc0d438cff0c72dc9c874aca2d20a2]
+
+In regulation 4(9)(a), after “4B,” insert “4C,”.
+
+### 17. Amendments to the Schedule[^key-0ae45fcdd57e2f2d169422925e2c4b5f]
+
+In the Schedule—
+
+- (a) in paragraph 1(1), at the appropriate place insert—
+
+  > - “protected Ukrainian national” (“*gwladolyn Wcreinaidd a ddiogelir*”) means a person granted leave to enter or remain in the United Kingdom—
+  >   - (a) under paragraph 9.1 (Ukraine Family Scheme), 19.1 (Homes for Ukraine Sponsorship Scheme) or 27.1 (Ukraine Extension Scheme) of Appendix Ukraine Scheme of the immigration rules; or
+  >   - (b) outside the immigration rules, where the person—
+  >     - (i) was residing in Ukraine immediately before 1 January 2022; and
+  >     - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022;
+
+  ;
+- (b) after paragraph 4B insert—
+
+  > **4C. Protected Ukrainian nationals**
+  >
+  > A person who—
+  >
+  > - (a) is a protected Ukrainian national;
+  > - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since becoming a protected Ukrainian national; and
+  > - (c) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+
+## PART 5 — Amendments to the Education (Student Support) (Wales) Regulations 2017
+
+### 18. Introduction[^key-63fd50ff6960c19eb7710dac5623d75f]
+
+The Education (Student Support) (Wales) Regulations 2017[^f00008] are amended in accordance with this Part.
+
+### 19. Amendment to regulation 2[^key-5b49af27a74ef147c0fd40a56991b433]
+
+In regulation 2(1), at the appropriate place insert—
+
+> - “protected Ukrainian national” (“*gwladolyn Wcreinaidd a ddiogelir*”) means a person granted leave to enter or remain in the United Kingdom—
+>   - (a) under paragraph 9.1 (Ukraine Family Scheme), 19.1 (Homes for Ukraine Sponsorship Scheme) or 27.1 (Ukraine Extension Scheme) of Appendix Ukraine Scheme of the immigration rules; or
+>   - (b) outside the immigration rules, where the person—
+>     - (i) was residing in Ukraine immediately before 1 January 2022; and
+>     - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022;
+
+.
+
+### 20. Amendment to regulation 4[^key-48e3f772fe9f11e6350f17d1c7941a1a]
+
+In regulation 4—
+
+- (a) in paragraph (2)(a), after “4ZB,” insert “4ZC,”;
+- (b) after paragraph (10E) insert—
+
+  > (10F) Where—
+  >
+  > - (a) the Welsh Ministers have determined that by virtue of being a protected Ukrainian national, a person (“A” in this paragraph) was—
+  >   - (i) an eligible student in connection with an application for support for an earlier year of the present course, an application for support for a course in relation to which the present course is an end-on course or an application for support in connection with a designated part-time course or other designated course from which A’s status as an eligible part-time student or eligible student has been transferred to the present course; or
+  >   - (ii) a qualifying student in connection with an application for support for an earlier year of the qualifying course or other qualifying course from which A’s status as a qualifying student has been transferred to the qualifying course in respect of which the student is applying for support; and
+  > - (b) as at the day before the academic year in respect of which A is applying for support starts, the period for which A is allowed to stay in the United Kingdom as a protected Ukrainian national has expired and no further leave to enter or remain has been granted,
+  >
+  > Aʼs status as an eligible or qualifying student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+### 21. Amendment to regulation 15[^key-14e13eacc5f3868cb33a309469165bf2]
+
+In regulation 15, after paragraph (bb) insert—
+
+> - (bc) the student becomes a protected Ukrainian national;
+
+.
+
+### 22. Amendment to regulation 23[^key-8ae7bc5d43776f85b033a4f1ded0ffdc]
+
+In regulation 23—
+
+- (a) in paragraph (12), after sub-paragraph (bb) insert—
+
+  > - (bc) the student becomes a protected Ukrainian national;
+
+  ;
+- (b) omit paragraph (17).
+
+### 23. Amendment to regulation 26[^key-c7d53fd1f868bcdceb051cb2be9f7017]
+
+In regulation 26(1), after “attendance on” insert “or undertaking of”.
+
+### 24. Amendment to regulation 27[^key-7bbd67b9442f512011e84d14ef782b7e]
+
+In regulation 27(1), after “attendance on” insert “or undertaking of”.
+
+### 25. Amendment of regulation 28[^key-a3517d5cafd2d87013c77a3e604d9544]
+
+In regulation 28(1), after “attendance on” insert “or undertaking of”.
+
+### 26. Amendment to regulation 49[^key-3396ec1929d886b49f885c909b2de564]
+
+In regulation 49(2), after sub-paragraph (bb) insert—
+
+> - (bc) the student becomes a protected Ukrainian national;
+
+.
+
+### 27. Amendment to regulations 81 and 82[^key-a4eb7b7a2180b2f70790f5012640e7a1]
+
+In regulation 81—
+
+- (a) in paragraph (2)(a), after “4ZB,” insert “4ZC,”;
+- (b) after paragraph (10E) insert—
+
+  > (10F) Where—
+  >
+  > - (a) the Welsh Ministers determined that, by virtue of being a protected Ukrainian national, a person (“A” in this paragraph) was an eligible part-time student in connection with an application for support for an earlier year of the present part-time course or an application for support in connection with a designated course or other designated part-time course from which A’s status as an eligible part-time student or eligible student has been transferred to the present part-time course; and
+  > - (b) as at the day before the academic year in respect of which A is applying for support begins, the period for which A is allowed to stay in the United Kingdom as a protected Ukrainian national has expired and no further leave to enter or remain has been granted,
+  >
+  > Aʼs status as an eligible part-time student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+### 28.[^key-887c119c68f356477f126eee0f947bcf]
+
+In regulation 82(4), after sub-paragraph (bb) insert—
+
+> - (bc) the student becomes a protected Ukrainian national;
+
+.
+
+### 29. Amendment to regulation 91[^key-d78a15eecb4e534f4e4b50427f23d591]
+
+In regulation 91(1), after “attendance on” insert “or undertaking of”.
+
+### 30. Amendment to regulation 92[^key-4f14c7f3c4b763677d6bc642f6a992d8]
+
+In regulation 92(1), after “attendance on” insert “or undertaking of”.
+
+### 31. Amendment to regulation 93[^key-410b1a1a9443bd81b779ef81792acbe5]
+
+In regulation 93(1), after “attendance on” insert “or undertaking of”.
+
+### 32. Amendment to regulations 110 and 111[^key-18a17e89a4c8b2457260cc8a35a38462]
+
+In regulation 110—
+
+- (a) in paragraph (3)(a)(i), after “4ZB,” insert “4ZC,”;
+- (b) after paragraph (12E) insert—
+
+  > (12F) Where—
+  >
+  > - (a) the Welsh Ministers have determined that, by virtue of being a protected Ukrainian national, a person (“A” in this paragraph) was an eligible postgraduate student in connection with an application for support for an earlier year of the present postgraduate course or an application for support in connection with another designated postgraduate course, from which A’s status as an eligible postgraduate student has been transferred to the present postgraduate course; and
+  > - (b) as at the day before the academic year in respect of which A is applying for support begins, the period for which A is allowed to stay in the United Kingdom as a protected Ukrainian national has expired and no further leave to enter or remain has been granted,
+  >
+  > Aʼs status as an eligible postgraduate student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+### 33.[^key-e2b21128836e93048d41729395e5a85c]
+
+After regulation 111(2)(bb) insert—
+
+> - (bc) the student becomes a protected Ukrainian national;
+
+.
+
+### 34. Amendment to Schedule 1[^key-60f7383f01d679729cca478557caed4f]
+
+In Schedule 1, after paragraph 4ZB insert—
+
+> **4ZC. Protected Ukrainian nationals**
+>
+> A person who—
+>
+> - (a) is a protected Ukrainian national;
+> - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since becoming a protected Ukrainian national; and
+> - (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+### 35. Amendment to Schedule 4[^key-64ad359d5031afd17c87ec56921ade31]
+
+In Schedule 4, paragraph 6, after sub-paragraph (ab) insert—
+
+> - (ac) the student becomes a protected Ukrainian national;
+
+.
+
+## PART 6 — Amendments to the Education (Student Support) (Wales) Regulations 2018
+
+### 36. Introduction[^key-c8d36d390a1294537d578577b4f4462c]
+
+The Education (Student Support) (Wales) Regulations 2018[^f00009] are amended in accordance with this Part.
+
+### 37. Amendment to regulation 9[^key-919fc62079caa2031d2c7e227c0c8f60]
+
+In regulation 9(1)(a)(i), after “2ZB,” insert “2ZC,”.
+
+### 38. Amendment to regulation 12[^key-5f2d7fdc2c380d00b4961bbe98687bc3]
+
+In regulation 12(1), for “23E or 23F” substitute “23E, 23F or 23G”.
+
+### 39. Insertion of new regulation 23G[^key-089c6bb6874ac4227d7680a7fdcff7c2]
+
+After regulation 23F insert—
+
+> **23G.** (1) This regulation applies where—
+>
+> - (a) a person (“P”) was an eligible student as a result of being a protected Ukrainian national (see Schedule 2, paragraph 2ZC) in connection with an application for support—
+>   - (i) for an earlier year of the present course,
+>   - (ii) for a full-time course in relation to which the present course is a full-time end-on course, or
+>   - (iii) for a course from which P’s status as an eligible student has been transferred to the present course under regulation 28 or paragraph 7 of Schedule 5, and
+> - (b) as at the end of the day before the first day of the academic year in respect of which P is applying for support, the period for which P is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted.
+>
+> (2) Where this regulation applies, P’s status as an eligible student terminates immediately before the first day of the academic year in respect of which P is applying for support.
+
+### 40. Amendment to regulation 69[^key-b14c2323461ea7a9787025a9bec854fb]
+
+In regulation 69, in paragraph (2), omit Exception 5.
+
+### 41. Amendment to regulation 80[^key-a6ad0b648d3b1c8cff875c135fc20704]
+
+In regulation 80—
+
+- (a) in paragraph (2)(b), after paragraph (ic) insert—
+
+  > - (id) the student becomes a protected Ukrainian national;
+
+  ;
+- (b) in paragraph (3), at the appropriate place insert ““protected Ukrainian national” (“*gwladolyn Wcreinaidd a ddiogelir*”);”.
+
+### 42. Amendment to regulation 81[^key-69dcb7e84568c569a836aa70be65ce34]
+
+In regulation 81(3)(b), after paragraph (ic) insert—
+
+> - (id) the student becomes a protected Ukrainian national;
+
+.
+
+### 43. Amendment to Schedule 2[^key-06e814c18c3c797292ca241d8cacb957]
+
+In Schedule 2, after paragraph 2ZB insert—
+
+> **2ZC. Category 2ZC – Protected Ukrainian nationals**
+>
+> (1) A person who—
+>
+> - (a) is a protected Ukrainian national,
+> - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since becoming a protected Ukrainian national, and
+> - (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (2) In this paragraph, “protected Ukrainian national” means a person granted leave to enter or remain in the United Kingdom—
+>
+> - (a) under paragraph 9.1 (Ukraine Family Scheme), 19.1 (Homes for Ukraine Sponsorship Scheme) or 27.1 (Ukraine Extension Scheme) of Appendix Ukraine Scheme of the immigration rules, or
+> - (b) outside the immigration rules, where the person—
+>   - (i) was residing in Ukraine immediately before 1 January 2022, and
+>   - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022.
+
+### 44. Amendment to Schedule 4[^key-9ddf76e9e376362504da68127a93d842]
+
+In Schedule 4—
+
+- (a) in paragraph 4(1)(a)(i), after “2ZB,” insert “2ZC,”;
+- (b) after paragraph 13F insert—
+
+  > **13G.** (1) This paragraph applies where—
+  >
+  > - (a) a person (“P”) was an eligible postgraduate student by reason of them being a protected Ukrainian national (see Schedule 2, paragraph 2ZC) in connection with an application for a disabled postgraduate student’s grant—
+  >   - (i) for an earlier year of the present postgraduate course, or
+  >   - (ii) in connection with a course from which P’s status as an eligible postgraduate student has been transferred to the present postgraduate course under paragraph 15, and
+  > - (b) as at the end of the day before the first day of the academic year in respect of which P is applying for a disabled postgraduate student’s grant, the period for which P is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted.
+  >
+  > (2) Where this paragraph applies, P’s status as an eligible postgraduate student terminates immediately before the first day of the academic year in respect of which P is applying for support.
+
+  ;
+- (c) in paragraph 14—
+  - (i) in sub-paragraph (3)(b), after paragraph (ic) insert—
+
+    > - (id) the student becomes a protected Ukrainian national;
+
+    ;
+  - (ii) in sub-paragraph (4), at the appropriate place insert ““protected Ukrainian national” (“*gwladolyn Wcreinaidd a ddiogelir*”);”.
+
+### 45. Amendment to Schedule 7[^key-e566f0091256e0aa52253a086b59955f]
+
+In Schedule 7, in Table 16, at the appropriate place insert the following table entry—
+
+> |  |  |
+> | --- | --- |
+> | “protected Ukrainian national” | Schedule 2, paragraph 2ZC(2) |
+
+## PART 7 — Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018
+
+### 46. Introduction[^key-3c19e177e72ab8013d81aa6d1465a836]
+
+The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00010] are amended in accordance with this Part.
+
+### 47. Amendments to regulations 2, 3 and 8[^key-01ce539b77151da299651f15841578b4]
+
+In regulation 2(1), at the appropriate place insert—
+
+> - “protected Ukrainian national” (“*gwladolyn Wcreinaidd a ddiogelir*”) means a person granted leave to enter or remain in the United Kingdom—
+>   - (a) under paragraph 9.1 (Ukraine Family Scheme), 19.1 (Homes for Ukraine Sponsorship Scheme) or 27.1 (Ukraine Extension Scheme) of Appendix Ukraine Scheme of the immigration rules; or
+>   - (b) outside the immigration rules, where the person—
+>     - (i) was residing in Ukraine immediately before 1 January 2022; and
+>     - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022;
+
+.
+
+### 48.[^key-c3f8af9fe81990775bf441f946160b17]
+
+In regulation 3(2)(a), after “4B,” insert “4C,”.
+
+### 49.[^key-e21877fcd67a2cf88008919f29f06c90]
+
+In regulation 8, after paragraph (bc) insert—
+
+> - (bd) the student becomes a protected Ukrainian national;
+
+.
+
+### 50. Amendment to Schedule 1[^key-0ce7a4d5648ed07c9acb9ee4ccb929cc]
+
+In Schedule 1, after paragraph 4B insert—
+
+> **4C. Protected Ukrainian nationals**
+>
+> A person who—
+>
+> - (a) is a protected Ukrainian national;
+> - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since becoming a protected Ukrainian national; and
+> - (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+## PART 8 — Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019
+
+### 51. Introduction[^key-be542bcd54cfbd66d66cfb3d320e0a59]
+
+The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00011] are amended in accordance with this Part.
+
+### 52. Amendments to regulations 9 and 16[^key-0dcf95516a9a4563a3cdd28338dd914a]
+
+In regulation 9(1)(a)(i) after “2B,” insert “2C,”.
+
+### 53.[^key-b7b688d0732696d19257a3e1acccb4d0]
+
+In regulation 16—
+
+- (a) in paragraph (1)(b), after paragraph (ia) insert—
+
+  > - (ib) the student becomes a protected Ukrainian national;
+
+  ;
+- (b) in paragraph (2), at the appropriate place insert ““protected Ukrainian national” (“*gwladolyn Wcreinaidd a ddiogelir*”);”.
+
+### 54. Amendment to Schedule 2[^key-a0d2609bb502fc4f905f5ff04409231b]
+
+In Schedule 2, after paragraph 2B insert—
+
+> **2C. Category 2C – Protected Ukrainian nationals**
+>
+> (1) A person who—
+>
+> - (a) is a protected Ukrainian national,
+> - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since becoming a protected Ukrainian national, and
+> - (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+>
+> (2) In this paragraph, “protected Ukrainian national” means a person granted leave to enter or remain in the United Kingdom—
+>
+> - (a) under paragraph 9.1 (Ukraine Family Scheme), 19.1 (Homes for Ukraine Sponsorship Scheme) or 27.1 (Ukraine Extension Scheme) of Appendix Ukraine Scheme of the immigration rules, or
+> - (b) outside the immigration rules, where the person—
+>   - (i) was residing in Ukraine immediately before 1 January 2022, and
+>   - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022.
+
+### 55. Amendment to Schedule 4[^key-10d5588c32f1cbafd5ecfa9608130755]
+
+In Schedule 4, in Table 3, at the appropriate place insert the following table entry—
+
+> |  |  |
+> | --- | --- |
+> | “protected Ukrainian national” | Schedule 2, paragraph 2C(2) |
+
+Jeremy Miles
+
+Minister for Education and Welsh Language, one of the Welsh Ministers
+
+5 July 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend:
+
+- (a) the Education (Fees and Awards) (Wales) Regulations 2007 (see Part 2 of the Regulations),
+- (b) the Education (European University Institute) (Wales) Regulations 2014 (see Part 3 of the Regulations),
+- (c) the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015 (see Part 4 of the Regulations),
+- (d) the Education (Student Support) (Wales) Regulations 2017 (see Part 5 of the Regulations),
+- (e) the Education (Student Support) (Wales) Regulations 2018 (see Part 6 of the Regulations),
+- (f) the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018 (see Part 7 of the Regulations), and
+- (g) the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019 (see Part 8 of the Regulations).
+
+The amendments made by these Regulations principally relate to Ukrainian nationals and their family members granted leave to enter or remain in the United Kingdom by virtue of the Ukraine Family Scheme, the Homes for Ukraine Sponsorship Scheme, the Ukraine Extension Scheme or who have leave outside the immigration rules in connection with the Russian invasion of Ukraine (“protected Ukrainian nationals”).
+
+The amendments made in Part 2 of the Regulations provide for protected Ukrainian nationals to be treated as home students for the purpose of the Education (Fees and Awards) (Wales) Regulations 2007.
+
+Part 4 of the Regulations amends the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015 to provide for the tuition fee limit to apply to protected Ukrainian nationals.
+
+Part 3 and Parts 5 to 8 amend the student support Regulations specified by making protected Ukrainian nationals eligible for student support, subject to them meeting all other requirements.
+
+Parts 5 and 6 also make amendments to the student support Regulations to remove the existing restriction preventing distance learning students from qualifying for grants for dependants.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Higher Education Division, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c. 40](https://www.legislation.gov.uk/ukpga/1983/40); section 1 was amended by the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), Schedule 12, paragraph 91; the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), Schedule 8, paragraph 19; the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 7; the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), Schedule 37, paragraph 57; the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraphs 1 and 11; the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 21, paragraph 5 and Schedule 22; the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), Schedule 14, paragraph 9; [S.I. 2005/3238](https://www.legislation.gov.uk/uksi/2005/3238), Schedule 1, paragraph 9; [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080), Schedule 1, paragraph 12; [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, paragraph 1; the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), Schedule 5, paragraph 5 and Schedule 16, paragraph 5; and the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), Schedule 14, paragraph 33. Section 2 was amended by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44 and Schedule 4.
+
+[^f00002]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); section 22(1) was amended by the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 146(2)(a). See section 43(1) of the Teaching and Higher Education Act 1998 for the definitions of “prescribed” and “regulations”.
+
+[^f00003]: Footnote: The functions of the Secretary of State in section 1 of the 1983 Act were transferred to the National Assembly for Wales so far as exercisable in relation to Wales by [S.I. 2006/1458](https://www.legislation.gov.uk/uksi/2006/1458) with effect from 8 June 2006. The functions of the Secretary of State in section 2 of the 1983 Act were transferred to the National Assembly for Wales so far as exercisable in relation to Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). The functions of the Secretary of State in section 22(1)(a) of the Teaching and Higher Education Act 1998 were transferred to the National Assembly for Wales, so far as they relate to making provision in relation to Wales, by section 44 of the Higher Education Act 2004. Section 44 of that Act also provided that the functions in section 22(2)(a) of the Teaching and Higher Education Act 1998 were to be exercised by the National Assembly for Wales concurrently with the Secretary of State, so far as they relate to making provision in relation to Wales. The Secretary of State’s function in section 42(6) of the Teaching and Higher Education Act 1998, in so far as being exercisable in relation to Wales, was transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999, article 2 and Schedule 1 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). See section 57(1) for the definitions of “prescribed” and “regulations”.
+
+[^key-923be01df60c81e47d752dda2de2f7dd]: Commencement: Reg. 1 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-21773a302cac2a97bb5318520830b92f]: Commencement: Reg. 2 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-9b0d43224a70910cdc190d0f00ec7a8d]: Commencement: Reg. 3 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-b413c7b0bfdcdde44a98987782b0533d]: Commencement: Reg. 4 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310); relevant amendments are [S.I. 2011/1978 (W. 218)](https://www.legislation.gov.uk/wsi/2011/1978), [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481) and [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365).
+
+[^key-b14c8b5ff6512a5f6547418ba40710ae]: Commencement: Reg. 5 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-81ffb9e1f9701499a9a7d71487fe97e1]: Commencement: Reg. 6 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-bd3f3d339b9f67f2e28e4c18a3f1731b]: Commencement: Reg. 7 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-e77ed6c5966c6970f925250d5854fd48]: Commencement: Reg. 8 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-8d27268962aa74e95a45a9672874e968]: Commencement: Reg. 9 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-df16f87c8c6360d45ee8c8c197d50789]: Commencement: Reg. 10 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-8cacae43eb4ea2294197757c7c28bb7b]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2022/764/part/3) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(i)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/i)
+
+[^key-4ff53570699e27cb6a04ee04cdf03b72]: Commencement: Reg. 15 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^f00007]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484); relevant amendments are [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481) and [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365).
+
+[^key-c8cc0d438cff0c72dc9c874aca2d20a2]: Commencement: Reg. 16 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-0ae45fcdd57e2f2d169422925e2c4b5f]: Commencement: Reg. 17 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-63fd50ff6960c19eb7710dac5623d75f]: Commencement: Reg. 18 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^f00008]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47); relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481) and [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365).
+
+[^key-5b49af27a74ef147c0fd40a56991b433]: Commencement: Reg. 19 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-48e3f772fe9f11e6350f17d1c7941a1a]: Commencement: Reg. 20 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-14e13eacc5f3868cb33a309469165bf2]: Commencement: Reg. 21 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-8ae7bc5d43776f85b033a4f1ded0ffdc]: Commencement: Reg. 22 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-c7d53fd1f868bcdceb051cb2be9f7017]: Commencement: Reg. 23 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-7bbd67b9442f512011e84d14ef782b7e]: Commencement: Reg. 24 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-a3517d5cafd2d87013c77a3e604d9544]: Commencement: Reg. 25 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-3396ec1929d886b49f885c909b2de564]: Commencement: Reg. 26 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-a4eb7b7a2180b2f70790f5012640e7a1]: Commencement: Reg. 27 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-887c119c68f356477f126eee0f947bcf]: Commencement: Reg. 28 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-d78a15eecb4e534f4e4b50427f23d591]: Commencement: Reg. 29 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-4f14c7f3c4b763677d6bc642f6a992d8]: Commencement: Reg. 30 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-410b1a1a9443bd81b779ef81792acbe5]: Commencement: Reg. 31 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-18a17e89a4c8b2457260cc8a35a38462]: Commencement: Reg. 32 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-e2b21128836e93048d41729395e5a85c]: Commencement: Reg. 33 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-60f7383f01d679729cca478557caed4f]: Commencement: Reg. 34 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-64ad359d5031afd17c87ec56921ade31]: Commencement: Reg. 35 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-c8d36d390a1294537d578577b4f4462c]: Commencement: Reg. 36 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^f00009]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191); relevant amendments are [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235), [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302), [S.I. 2021/9 (W. 4)](https://www.legislation.gov.uk/wsi/2021/9), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2021/813 (W. 192)](https://www.legislation.gov.uk/wsi/2021/813), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365) and [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79).
+
+[^key-919fc62079caa2031d2c7e227c0c8f60]: Commencement: Reg. 37 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-5f2d7fdc2c380d00b4961bbe98687bc3]: Commencement: Reg. 38 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-089c6bb6874ac4227d7680a7fdcff7c2]: Commencement: Reg. 39 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-b14c2323461ea7a9787025a9bec854fb]: Commencement: Reg. 40 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-a6ad0b648d3b1c8cff875c135fc20704]: Commencement: Reg. 41 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-69dcb7e84568c569a836aa70be65ce34]: Commencement: Reg. 42 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-06e814c18c3c797292ca241d8cacb957]: Commencement: Reg. 43 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-9ddf76e9e376362504da68127a93d842]: Commencement: Reg. 44 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-e566f0091256e0aa52253a086b59955f]: Commencement: Reg. 45 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-3c19e177e72ab8013d81aa6d1465a836]: Commencement: Reg. 46 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^f00010]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656); relevant amendments are [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814), [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235), [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094), [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192), [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302), [S.I. 2021/9 (W. 4)](https://www.legislation.gov.uk/wsi/2021/9), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365) and [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403).
+
+[^key-01ce539b77151da299651f15841578b4]: Commencement: Reg. 47 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-c3f8af9fe81990775bf441f946160b17]: Commencement: Reg. 48 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-e21877fcd67a2cf88008919f29f06c90]: Commencement: Reg. 49 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-0ce7a4d5648ed07c9acb9ee4ccb929cc]: Commencement: Reg. 50 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-be542bcd54cfbd66d66cfb3d320e0a59]: Commencement: Reg. 51 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^f00011]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895); relevant amendments are [S.I. 2019/1039 (W. 182)](https://www.legislation.gov.uk/wsi/2019/1039), [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302), [S.I. 2021/9 (W. 4)](https://www.legislation.gov.uk/wsi/2021/9), [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2021/1365 (W. 360)](https://www.legislation.gov.uk/wsi/2021/1365), [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403).
+
+[^key-0dcf95516a9a4563a3cdd28338dd914a]: Commencement: Reg. 52 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-b7b688d0732696d19257a3e1acccb4d0]: Commencement: Reg. 53 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-a0d2609bb502fc4f905f5ff04409231b]: Commencement: Reg. 54 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)
+
+[^key-10d5588c32f1cbafd5ecfa9608130755]: Commencement: Reg. 55 in force at 24.7.2022, see [reg. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2)

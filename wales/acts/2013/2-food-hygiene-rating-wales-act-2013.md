@@ -1,0 +1,633 @@
+---
+title: Food Hygiene Rating (Wales) Act 2013
+id: anaw/2013/2
+type: WelshNationalAssemblyAct
+category: primary
+status: revised
+made_date: '2013-03-04'
+text_date: '2017-10-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2013/2
+pdf_urls:
+- http://www.legislation.gov.uk/anaw/2013/2/pdfs/anawen_20130002_mi.pdf
+- http://www.legislation.gov.uk/anaw/2013/2/pdfs/anawen_20130002_we.pdf
+- http://www.legislation.gov.uk/anaw/2013/2/pdfs/anawen_20130002_en.pdf
+- http://www.legislation.gov.uk/anaw/2013/2/pdfs/anaw_20130002_mi.pdf
+- http://www.legislation.gov.uk/anaw/2013/2/pdfs/anaw_20130002_we.pdf
+- http://www.legislation.gov.uk/anaw/2013/2/pdfs/anaw_20130002_en.pdf
+- http://www.legislation.gov.uk/anaw/2013/2/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Food Hygiene Rating (Wales) Act 2013
+
+> Text as at 2017-10-04.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Food Hygiene Rating (Wales) Act 2013
+
+2013 anaw 2
+
+An Act of the National Assembly for Wales to make provision for the production of food hygiene ratings of food business establishments; the display of information about food hygiene ratings; the enforcement of requirements to display information; and for connected purposes.
+
+\[4 March 2013\]
+
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
+
+## Introduction
+
+### 1. Overview[^key-e659bd7cf36b932d3b58810d1730bca5]
+
+(1) This Act establishes a food hygiene rating scheme for Wales.
+
+(2) The scheme provides for food authorities in Wales to inspect (section 2), and produce food hygiene ratings of (section 3), food business establishments in their areas.
+
+(3) A food hygiene rating is to be produced by scoring the food hygiene standards of an establishment against criteria published by the Food Standards Agency (“FSA”) (sections 3 and 4).
+
+(4) A food business establishment may appeal against its food hygiene rating and comment on it (sections 5 and 11).
+
+(5) A food authority must inform the FSA of the food hygiene rating of an establishment in its area, and the FSA must publish the rating (section 6).
+
+(6) A food business establishment must inform the public of its food hygiene rating (sections 7 and 8).
+
+(7) Failure to inform the public is a criminal offence, punishable by a fine or fixed penalty (section 9, sections 19 to 22 and the Schedule).
+
+(8) A food business establishment may in certain circumstances request a re-rating (section 12).
+
+(9) Powers and responsibilities of food authorities and the FSA, and responsibilities of operators of food business establishments are set out in sections 14 to 16.
+
+## Food hygiene inspections and ratings
+
+### 2. Programme of food hygiene inspections
+
+(1)[^key-dec133690829f1a8b5b0c7b3a79b1526] A food authority must prepare, and keep under review, a programme which sets out—
+
+- (a) whether a food business establishment in its area must be inspected, and
+- (b) if an inspection is required, the frequency of inspections.
+
+(2)[^key-dec133690829f1a8b5b0c7b3a79b1526] A food authority must inspect food business establishments in its area in accordance with the programme.
+
+(3)[^key-dec133690829f1a8b5b0c7b3a79b1526] When preparing and reviewing the programme a food authority must have regard to matters specified by the FSA and approved by the Welsh Ministers.
+
+(4)[^key-dec133690829f1a8b5b0c7b3a79b1526] The matters specified by the FSA must include an assessment of the levels of risk to public health—
+
+- (a) associated with the type of food handled by an establishment,
+- (b) associated with the method of handling the food, and
+- (c) arising from the record of compliance with food hygiene law at the establishment.
+
+(5)[^key-d4e8ee739beb1d016f5f297b280b226c][^key-b42cf350d228b666bf67bbe7eaf4cf92] In this Act—
+
+- a “**food authority**” (“***awdurdod bwyd***”) means the county council or county borough council of the area in Wales in which the establishment is located (or a port health authority in the circumstances prescribed by section 5(3) of the Food Safety Act 1990);
+- a “**food business establishment**” (“***sefydliad busnes bwyd***”) is any unit of a business registered with a food authority by virtue of Article 6 of Regulation [(EC) No 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) or approved by a food authority under Article 4 of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) (or registered or approved under equivalent alternative provisions for registering or approving food business establishments), which—
+  - (a) supplies food direct to consumers, or
+  - (b) supplies food to another business;
+- an “**operator**” (“***gweithredwr***”) of a food business establishment means a person concerned with the management of the establishment.
+
+(6)[^key-dec133690829f1a8b5b0c7b3a79b1526] The Welsh Ministers may by regulations—
+
+- (a) amend the definition of a food business establishment, including to expand the category of establishment that may be inspected;
+- (b) amend the definition of a food authority (for example, to include other bodies).
+
+### 3. Food hygiene ratings
+
+(1)[^key-5e882d4a8945970c03e683fcead7be0b] Where a food business establishment has been inspected in accordance with section 2, a food authority must assess the food hygiene standards of the establishment and produce a rating (a “food hygiene rating”) for that establishment scored against criteria set out by the FSA (the “rating criteria”).
+
+(2)[^key-024dcd545f5b0cf3f94192bdbf8a394c][^key-beef590f356fb54746779a898f396a0e] The Welsh Ministers may by regulations provide for a food hygiene rating to be based on an assessment of the food hygiene standards of an establishment carried out prior to the commencement of this Act.
+
+(3) Within 14 days of an inspection, a food authority must send to the operator of the establishment—
+
+- (a)[^key-5e882d4a8945970c03e683fcead7be0b] written notification of its food hygiene rating;
+- (b)[^key-5e882d4a8945970c03e683fcead7be0b] a written statement of the reasons for the rating;
+- (c)[^key-024dcd545f5b0cf3f94192bdbf8a394c][^key-beef590f356fb54746779a898f396a0e] a food hygiene rating sticker in a form prescribed;
+- (d)[^key-024dcd545f5b0cf3f94192bdbf8a394c][^key-beef590f356fb54746779a898f396a0e] such other information as may be prescribed.
+
+(4)[^key-5e882d4a8945970c03e683fcead7be0b] A food hygiene rating ceases to be valid in the following cases—
+
+- (a) when an operator of an establishment has received notification of a new food hygiene rating and—
+  - (i) the period of 21 days for an appeal against the new food hygiene rating has expired, or
+  - (ii) if an appeal has been made, the appeal has been determined and the operator has received notification of the outcome;
+- (b) when there has been a transfer of ownership of an establishment or an establishment has ceased trading.
+
+(5)[^key-024dcd545f5b0cf3f94192bdbf8a394c][^key-beef590f356fb54746779a898f396a0e] The Welsh Ministers may prescribe that certain categories of establishment may be exempt from rating.
+
+### 4. Rating criteria[^key-a1f24184586b9cfefd78bc24449e025d]
+
+(1) The rating criteria must include a system to score a food business establishment's hygiene standards.
+
+(2) The scoring system must include provisions based on an establishment's—
+
+- (a) food handling practices (including temperature control);
+- (b) physical environment (including its layout, cleanliness and condition);
+- (c) management;
+- (d) control procedures.
+
+## Appeals
+
+### 5. Right of appeal
+
+(1)[^key-ac616ede3f37f22005f99821de6f5d66] An operator of a food business establishment may appeal to the food authority against a food hygiene rating given to the establishment.
+
+(2)[^key-ac616ede3f37f22005f99821de6f5d66] An appeal may be made on either or both of the following grounds—
+
+- (a) that the rating does not properly reflect the food hygiene standards at the establishment at the time of the inspection;
+- (b) that the rating criteria were not applied correctly when producing the food hygiene rating.
+
+(3)[^key-ac616ede3f37f22005f99821de6f5d66] An appeal must be made within 21 days from the date of receipt of notification of the food hygiene rating.
+
+(4)[^key-5e9a16d8017df5d13f739b7cf4f009fb][^key-28812c9f2ff05701fee6dcf7b106409a] An appeal must be made in writing in the prescribed form.
+
+(5)[^key-ac616ede3f37f22005f99821de6f5d66] A food authority may conduct a further inspection of the establishment for the purpose of considering matters raised in an appeal.
+
+(6)[^key-ac616ede3f37f22005f99821de6f5d66] A food authority must determine the appeal and notify the operator of the establishment and the FSA of its decision within 21 days from the date the appeal was received.
+
+(7)[^key-ac616ede3f37f22005f99821de6f5d66] The appeal must be conducted by an authorised officer who was not involved in the assessment of the food hygiene rating that is being appealed.
+
+(8)[^key-ac616ede3f37f22005f99821de6f5d66] The Welsh Ministers may, by regulations, provide for an appeal under this section to be determined by a person other than the food authority.
+
+(9)[^key-ac616ede3f37f22005f99821de6f5d66] The power to make regulations includes power to—
+
+- (a) make provision about the procedure to be followed for appeals;
+- (b) make such amendments to this section in consequence of another person becoming responsible for the determination as the Welsh Ministers consider appropriate.
+
+(10) If a food authority decides to revise a food hygiene rating, when notifying the establishment of its decision it must send to the operator of the establishment—
+
+- (a)[^key-ac616ede3f37f22005f99821de6f5d66] written notification of its revised food hygiene rating;
+- (b)[^key-ac616ede3f37f22005f99821de6f5d66] a written statement of the reasons for the rating;
+- (c)[^key-ac616ede3f37f22005f99821de6f5d66] a new food hygiene rating sticker;
+- (d)[^key-5e9a16d8017df5d13f739b7cf4f009fb][^key-28812c9f2ff05701fee6dcf7b106409a] such other information as may be prescribed.
+
+(11)[^key-ac616ede3f37f22005f99821de6f5d66] Where a food authority decides to revise a food hygiene rating, when notifying the FSA of its decision it must send to the FSA a copy of the notification and statement referred to in subsection (10).
+
+(12)[^key-ac616ede3f37f22005f99821de6f5d66] There is no further right of appeal against a determination made under subsection (6).
+
+## Publication and display arrangements
+
+### 6. Notification and publication of food hygiene ratings
+
+(1)[^key-2b26ffe4aa622284266e4e151719535a] A food authority must inform the FSA of the food hygiene rating of a food business establishment within the relevant period.
+
+(2)[^key-77bd04bca46363edba79bc94f0ee0047][^key-4a612d016d7ca663f82ce39b2a01e864] When informing the FSA a food authority must also provide the FSA with any further information that may be prescribed.
+
+(3)[^key-77bd04bca46363edba79bc94f0ee0047][^key-4a612d016d7ca663f82ce39b2a01e864] The FSA must publish the food hygiene rating and such other information as may be prescribed on its website within 7 days of being informed under subsection (1).
+
+(4)[^key-2b26ffe4aa622284266e4e151719535a] In this section, “**relevant period**” means—
+
+- (a) if there is no appeal against the food hygiene rating, 49 days from the receipt by an operator of a food business establishment of notification of the food hygiene rating;
+- (b) if an appeal is made, 28 days from the determination of the appeal.
+
+## Informing the public about food hygiene ratings
+
+### 7. Requirement to display food hygiene rating stickers
+
+(1)[^key-d4755e8adfc7ec7c4d4e23ee768d5a78] When the operator of a food business establishment has received notification of its food hygiene rating, the operator must display the food hygiene rating sticker provided.
+
+(2)[^key-d4755e8adfc7ec7c4d4e23ee768d5a78] This requirement does not apply until—
+
+- (a) the period of 21 days for an appeal has expired, or
+- (b) if an appeal has been made, the appeal has been determined and the operator has received notification of the outcome.
+
+(3)[^key-ca10084f2dc028031e438f5289228436][^key-e4789e55c38334d9ae491f13f6c67847] The sticker must be displayed in the location and manner prescribed.
+
+(4)[^key-ca10084f2dc028031e438f5289228436][^key-e4789e55c38334d9ae491f13f6c67847] Regulations prescribing the proper location and manner for displaying a sticker may make different provision for different types of establishment (including provision about the display of a sticker at more than one location).
+
+(5)[^key-d4755e8adfc7ec7c4d4e23ee768d5a78] The sticker ceases to be valid when the establishment's food hygiene rating ceases to be valid.
+
+(6)[^key-d4755e8adfc7ec7c4d4e23ee768d5a78] If an establishment's sticker ceases to be valid, the operator must remove it from display and destroy it (unless he or she is instructed not to destroy it by an authorised officer).
+
+### 8. Requests for information about food hygiene ratings[^key-1c4a91a50f01769c79a1d8f2a2a4a4e9]
+
+(1) The operator of a food business establishment must ensure that each relevant employee is aware of the establishment's food hygiene rating.
+
+(2) The operator and any relevant employee must comply with a request made by a person to be informed verbally of the establishment's food hygiene rating.
+
+(3) In this section, “**relevant employee**” means someone who—
+
+- (a) is employed at the establishment, and
+- (b) is likely, in the opinion of the operator, to be subject to a request to inform a person verbally of the establishment's food hygiene rating.
+
+### 9. Offences[^key-fa25cbad37102e4c1e56535e72c0ca77]
+
+(1) An operator of a food business establishment commits an offence if, without reasonable excuse, the operator—
+
+- (a) fails to display a valid food hygiene rating sticker in the location and manner prescribed;
+- (b) displays an invalid food hygiene rating sticker;
+- (c) fails to retain a valid food hygiene rating sticker;
+- (d) parts with possession of a food hygiene rating sticker to any person other than an authorised officer of a food authority;
+
+(2) An operator of a food business establishment is also guilty of an offence if, without reasonable excuse—
+
+- (a) a person's request to be informed verbally of the establishment's food hygiene rating is denied; or
+- (b) a person making such a request is given false or misleading information about the establishment's food hygiene rating.
+
+(3) A food hygiene rating sticker remains the property of the food authority.
+
+(4) A person commits an offence if that person—
+
+- (a) intentionally alters, defaces or otherwise tampers with a food hygiene rating sticker, and
+- (b) does so otherwise than for the purpose of removing it from display, or destroying it, in accordance with section 7(6).
+
+### 10. Promoting food hygiene ratings[^key-0df4c948241f475d3416543ec7b8bb06]
+
+(1) The Welsh Ministers may, by regulations, make provision about the promotion of a food business establishment's food hygiene rating by—
+
+- (a) an operator of the establishment;
+- (b) a person acting on the operator's behalf.
+
+(2) The regulations may, for example, impose duties upon an operator in relation to—
+
+- (a) publicising the rating electronically;
+- (b) publicising the rating in material promoting the food provided by the establishment.
+
+(3) The regulations may also—
+
+- (a) create an offence;
+- (b) impose a penalty (including a fixed penalty);
+- (c) make provision about enforcement;
+- (d) make different provision for different types of establishment.
+
+(4) In this section, a reference to an establishment's food hygiene rating includes a reference to a rating provided by virtue of section 12 (food hygiene re-ratings).
+
+## Safeguards for food businesses
+
+### 11. Right to reply[^key-6275878d28cb317a94fc1e7b4e64edac]
+
+(1) A food authority must give the operator of a food business establishment the opportunity to comment on the establishment's food hygiene rating.
+
+(2) Any such comments must be made in writing and may be made to a food authority at any time while the rating is valid, whether or not an appeal is made under section 5.
+
+(3) A food authority must forward any such comments to the FSA who may publish the comments on their website with the food hygiene rating to which the comments relate.
+
+### 12. Food hygiene re-ratings
+
+(1)[^key-8952f204c7278c198cbf5336fff366d6] An operator of a food business establishment may request that a food authority carries out a further inspection and assessment of the food hygiene standards of the establishment for the purpose of considering whether to change its food hygiene rating (a “re-rating”).
+
+(2)[^key-fac71b306e04f94a73c14342e0b1393f][^key-d9f609ea73b846245035f614f43093e8] A request for a re-rating must be made in the prescribed form.
+
+(3)[^key-8952f204c7278c198cbf5336fff366d6] A food authority must comply with such a request if the conditions in subsection (4) and, if applicable, the condition in subsection (5) are met.
+
+(4)[^key-8952f204c7278c198cbf5336fff366d6] The conditions in this subsection are—
+
+- (a) any appeal against the current food hygiene rating has been determined;
+- (b) the operator has notified the food authority of improvements made to hygiene standards at the establishment;
+- (c) the food authority considers it reasonable to further inspect and assess the establishment in view of the improvements said to have been made;
+- (d) the current food hygiene rating sticker is displayed at the establishment in accordance with the requirements of section 7;
+- (e) the operator has agreed to ensure that a food authority will be given access to carry out an inspection of the establishment for the purpose of the re-rating.
+
+(5)[^key-8952f204c7278c198cbf5336fff366d6] The condition in this subsection is that the operator of the establishment has paid the reasonable costs of the re-rating, as determined by the food authority in accordance with section 13.
+
+(6)[^key-8952f204c7278c198cbf5336fff366d6] Subsection (5) does not apply if the food authority has not sought payment of those costs in advance of the inspection.
+
+(7)[^key-8952f204c7278c198cbf5336fff366d6] If the conditions in subsection (4) and, if applicable, the condition in subsection (5) have been met, a food authority must complete the inspection no later than three months after the request was received.
+
+(8)[^key-8952f204c7278c198cbf5336fff366d6] If a food authority decides that there should be no change to the current food hygiene rating, it must notify the operator of the food business establishment within 14 days of the date the inspection was completed.
+
+(9) If a food authority decides to change the food hygiene rating, within 14 days of the date the inspection was completed it must send to the operator of the establishment—
+
+- (a)[^key-8952f204c7278c198cbf5336fff366d6] written notification of its new food hygiene rating;
+- (b)[^key-8952f204c7278c198cbf5336fff366d6] a written statement of the reasons for the rating;
+- (c)[^key-8952f204c7278c198cbf5336fff366d6] a new food hygiene rating sticker;
+- (d)[^key-fac71b306e04f94a73c14342e0b1393f][^key-d9f609ea73b846245035f614f43093e8] such other information as may be prescribed.
+
+(10)[^key-8952f204c7278c198cbf5336fff366d6] The requirements in section 6 (publication), section 7 (display of stickers) and section 8 (requests for information)) apply to the new food hygiene rating.
+
+(11)[^key-8952f204c7278c198cbf5336fff366d6] Section 5 (right of appeal) and section 11 (right to reply) apply to the decisions of the food authority under subsections (8) and (9).
+
+### 13. Payment of the costs of a re-rating[^key-593ae7efea13d3f7ce89851470641bba]
+
+(1) If a request for a re-rating has been made by an operator of a food business establishment, a food authority must calculate the reasonable costs of the re-rating.
+
+(2) Before carrying out the re-rating, the food authority must inform the operator of the costs of the re-rating and the way the costs have been calculated.
+
+(3) An operator of a food business establishment must pay the costs of the re-rating.
+
+(4) A food authority may require payment in advance of the re-rating being carried out.
+
+## Powers and responsibilities
+
+### 14. Duties of Food Standards Agency[^key-57c0198c14766111a878adc83e0b9bf6]
+
+(1) The FSA must—
+
+- (a) in exercising its functions under this Act, have regard to guidance issued by the Welsh Ministers;
+- (b) publish the matters to which a food authority must have regard when preparing and keeping under review an inspection programme under section 2 (where those matters have been approved by the Welsh Ministers);
+- (c) publish the rating criteria against which a food hygiene rating is scored under section 3;
+- (d) at the end of the period of 1 year beginning with the commencement of the scheme, and each subsequent period of 1 year, conduct a review of the operation of the appeals system established under section 5 during that period;
+- (e) at the end of the period of 1 year beginning with the commencement of the scheme, and each subsequent period of 3 years, otherwise review the implementation and operation of the food hygiene rating scheme established under this Act during that period;
+- (f) make recommendations to food authorities to assist them to comply with their responsibilities under the scheme;
+- (g) promote the scheme to food business establishments and consumers in Wales;
+- (h) supply food hygiene rating stickers in the prescribed form to food authorities without charge.
+
+(2) No later than 3 months after the end of the period to which a review under subsection (1)(d) relates, the FSA must lay a report before the National Assembly for Wales containing—
+
+- (a) details of the review that was undertaken;
+- (b) the recommendations for change, if any, to the appeals system it considers appropriate and its reasons for reaching that conclusion.
+
+(3) No later than 3 months after the end of the period to which a review under subsection (1)(e) relates, the FSA must lay a report before the National Assembly for Wales containing—
+
+- (a) details of the review that was undertaken;
+- (b) the recommendations for change, if any, to the food hygiene rating scheme it considers appropriate and its reasons for reaching that conclusion.
+
+(4) The FSA must send a copy of each report produced under this section to the Welsh Ministers.
+
+### 15. Other powers and responsibilities of food authorities
+
+(1)[^key-19df0050518a4e70d1be2ded8065adce][^key-8bb518be4237809fd09827a5944bd5a0] A food authority must send prescribed information to operators of new food business establishments in its area.
+
+(2)[^key-c0467376dd403618c11bdb02c5e1ee75] This information must be sent to an operator within 14 days of whichever of the following events is applicable—
+
+- (a) the operator's establishment being registered by the food authority under Article 6 of EC Regulation 852/2004 (or equivalent alternative obligation for registering such establishments), or
+- (b) the operator's establishment applying to the food authority for approval under Article 4 of EC Regulation 853/2004 (or equivalent alternative obligation for approval of such establishments).
+
+(3)[^key-c0467376dd403618c11bdb02c5e1ee75] In exercising its functions under this Act, a food authority must have regard to—
+
+- (a) recommendations made by the FSA;
+- (b) guidance issued by the Welsh Ministers under section 23 of this Act.
+
+(4)[^key-c0467376dd403618c11bdb02c5e1ee75] A food authority must make arrangements to enforce the obligations imposed by this Act on establishments in its area.
+
+(5)[^key-c0467376dd403618c11bdb02c5e1ee75] A food authority must review the operation of the food hygiene rating scheme in its area—
+
+- (a) periodically, with a view to ensuring that the rating criteria are assessed fairly and consistently;
+- (b) at the request of the FSA, for the purpose of assisting the FSA to evaluate the scheme as required by section 14Error: Reference source not found.
+
+### 16. Other responsibilities of operators of food business establishments[^key-a9ad1933c6bd2823068cd7b707d6cb6a]
+
+An operator of a food business establishment must—
+
+- (a) provide such information as a food authority reasonably requires to enable it to produce a food hygiene rating for the establishment;
+- (b) otherwise give all reasonable assistance to a food authority in order to enable it to produce a food hygiene rating and exercise its other functions under this Act.
+
+## Enforcement
+
+### 17. Power of entry[^key-7adef1f729ff37cf7a45556420a4f9e4]
+
+(1) An authorised officer of a food authority may, on production of the officer's written authority if demanded, enter at all reasonable hours a food business establishment for the purpose of—
+
+- (a) producing a food hygiene rating;
+- (b) carrying out a re-rating;
+- (c) determining an appeal under section 5; or
+- (d) enforcing any of the requirements in section 7.
+
+(2) But in the case of entry into any part of an establishment used only as a private dwelling 24 hours' notice of the intended entry must be given to the operator.
+
+### 18. Obstruction of authorised officers[^key-aeacdd42b8b0a199f682a3f895f0296f]
+
+A person who obstructs, without reasonable excuse, an authorised officer of a food authority acting in the exercise of the officer's functions commits an offence.
+
+### 19. Offences by bodies corporate[^key-90d2ea9245c7a879973567ee1dc1cb59]
+
+(1) This section applies where an offence under this Act is committed by a body corporate.
+
+(2) If the offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+- (a) any director, manager or secretary of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+that director, manager, secretary or person purporting to act as such (as well as the body corporate) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(3) The reference to the director, manager or secretary of the body corporate includes a reference—
+
+- (a) to any similar officer of the body;
+- (b) where the body is a body corporate whose affairs are managed by its members, to any officer or member of the body.
+
+### 20. Penalties[^key-36a4aa8f89e9a9c025a2cca836324697]
+
+A person guilty of an offence under this Act is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 21. Fixed Penalties[^key-b593876a72882b80c1613e7a954ef26f]
+
+(1) Where an authorised officer of a food authority has reason to believe that a person has committed an offence under section 9, the officer may give a notice to the person offering the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty.
+
+(2) Where a person is given a notice under this section in respect of an offence—
+
+- (a) no proceedings may be instituted for the offence before the end of a period specified in the notice, and
+- (b) the person may not be convicted of the offence if the person pays the fixed penalty before the end of that period.
+
+(3) The Schedule (fixed penalty notices) has effect.
+
+### 22. Use of fixed penalty receipts[^key-6684c90e6e3299856319c5b93b5536e5]
+
+(1)[^key-65363c2bb845df27da2ec71aaf736809] A food authority may use its fixed penalty receipts only for the purpose of its functions relating to the enforcement of the provisions of this Act and regulations made under it.
+
+(2) In this section “**fixed penalty receipts**” means amounts paid to a food authority under fixed penalty notices issued under section 21..
+
+## Miscellaneous and general
+
+### 23. Guidance[^key-2c699c40129d70d9e69b0505ad13de9c]
+
+The Welsh Ministers may issue guidance—
+
+- (a) to the FSA;
+- (b) to a food authority,
+
+in relation to the exercise of their functions under this Act.
+
+### 24. Amending periods for complying with duties[^key-f670a6009cb44b4ef789c4fc6f907ef5]
+
+The Welsh Ministers may, by regulations, amend any provision of this Act which specifies a period within which something must be done by substituting a different period.
+
+### 25. Interpretation[^key-c1ab179fc9307c2d4e58eafdf0f22c1f]
+
+(1) In this Act—
+
+- “**authorised officer**” (“***swyddog awdurdodedig***”) means an officer authorised in writing by a food authority for the purpose of exercising any of the authority's functions under this Act;
+- “**food authority**” (“***awdurdod bwyd***”) has the meaning in section 2;
+- “**food business establishment**” (“***sefydliad busnes bwyd***”) has the meaning in section 2;
+- “**food hygiene rating**” (“***sgôr hylendid bwyd***”) has the meaning in section 3;
+- “**operator**” (“***gweithredwr***”) (of a food business establishment) has the meaning in section 2;
+- “**prescribed**” (“***a ragnodir***”) means prescribed in regulations made by the Welsh Ministers;
+- “**send**” (“***anfon***”) means send by post or deliver by hand;
+- “**rating criteria**” (“***meini prawf sgorio***”) has the meaning in section 3;
+- “**re-rating**” (“***ailsgoriad***”) has the meaning in section 12.
+
+(2) References in this Act to a food hygiene rating sticker include, where the context requires, a reference to more than one sticker.
+
+### 26. Regulations[^key-325f0353091dc9fb919d2b448af5d7f0]
+
+(1) Powers to make regulations or orders under this Act are exercisable by statutory instrument.
+
+(2) A power to make an order or regulations under this Act includes power to make such incidental, consequential, transitional or supplemental provision as the Welsh Ministers consider appropriate.
+
+(3) In the case of the power under sections 2(6), 3(2) and 3(5), this provision includes provision amending this Act.
+
+(4) Regulations under sections 2(6), 3(2), 3(5), 5(8), 6(2), 10, 24 and paragraph 3 of the Schedule may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(5) Other regulations made under this Act are subject to annulment pursuant to a resolution of the National Assembly for Wales.
+
+### 27. Commencement
+
+(1) This section comes into force at the end of the period of 2 months beginning with the day on which this Act receives Royal Assent.
+
+(2) The remaining provisions of this Act come into force on a day appointed by order made by the Welsh Ministers.
+
+(3) An order made under this section—
+
+- (a) may appoint different days for different purposes (including different days for different categories of food business establishment);
+- (b) may include such transitional, transitory or savings provision as the Welsh Ministers consider necessary or expedient.
+
+### 28. Short Title[^key-bdc22420221d9a79ccb2f9268f05de5d]
+
+The short title of this Act is the Food Hygiene Rating (Wales) Act 2013.
+
+## SCHEDULE — FIXED PENALTY NOTICES
+
+*(Section 21)*
+
+### PART 1 — PROCEDURE FOR FIXED PENALTY NOTICES
+
+**1.**[^key-073604c0b6aa43dbb80ae11e5d42bb06] A fixed penalty notice may offer the opportunity for a person to pay a penalty of £200 (“the penalty”) within a period of 28 days beginning with the day in which the penalty notice is given.
+
+**2.**[^key-07ecbd56471bbae915bae8266bd694f5] A fixed penalty notice may also offer the opportunity for a person to pay a reduced penalty of £150 (“the discounted penalty”) if payment is made within a period of 14 days beginning with the day in which the penalty notice is given.
+
+**3.**[^key-97a21bc2ecbf02dfcfd1ee3ad30c7c51] The Welsh Ministers may prescribe a different amount for the penalty or the discounted penalty.
+
+**4.**[^key-43c8cb566a8233e9f808ae5e02fb75c8] Payment of the penalty or the discounted penalty may be made by posting a letter containing the amount of the penalty to the person described on the notice at the address so described. Payment is to be regarded as having been made at the time at which the letter would be delivered in the ordinary course of post.
+
+**5.**[^key-dfaa557b5ad97159cfd215dfb2927271] Paragraph 4 does not prevent payment of the penalty being made by any other method.
+
+**6.**[^key-50fcf69c17f63654e487638d055d7973] If a food authority considers that a fixed penalty notice given to a person by an authorised officer acting on its behalf ought not to have been given, the food authority must give notice to that person withdrawing the fixed penalty notice.
+
+**7.**[^key-33ab8a430355ae58c50402f85eea496c] If a fixed penalty notice is withdrawn—
+
+- (a) a food authority must repay any amount which has been paid by way of penalty in pursuance of the fixed penalty notice, and
+- (b) no proceedings may be brought or continued against the person who received the notice for the offence in question.
+
+**8.**[^key-d4e13e6e203e4246771dd111d1bb8eb6] In any proceedings, a certificate which—
+
+- (a) purports to be signed by or on behalf of the chief finance officer of a food authority, and
+- (b) states that payment of a penalty was or was not received by a date specified in the certificate,
+
+is evidence of the facts stated.
+
+### PART 2 — FORM AND CONTENT OF FIXED PENALTY NOTICES
+
+**9.**[^key-07d2efd4a48bb01413b29b5e61c1edc3] A fixed penalty notice must give particulars of the circumstance alleged to constitute the offence as are necessary to explain why an offence has occurred.
+
+**10.**[^key-67b1d25b63c8dec9fa7def7e877a417b] A fixed penalty notice must also state—
+
+- (a) the name and address of the authority on whose behalf the authorised officer was acting when the officer gave the notice;
+- (b) the amount of the penalty and the period for paying the penalty;
+- (c) the amount of the discounted penalty and the period for which the discount applies;
+- (d) the consequences of not paying the penalty before the end of the penalty payment period;
+- (e) the person to whom and the address at which the penalty or discounted penalty may be paid;
+- (f) by what method payment may be made;
+- (g) the person to whom and the address at which any representations relating to the notice may be made.
+
+**11.**[^key-b87a690c3c40bc118826401cbcd9379b] A fixed penalty notice must also—
+
+- (a) inform the person to whom it is given of his or her right to be tried for the alleged offence, and
+- (b) explain how that right may be exercised.
+
+## Annotations
+
+[^key-e659bd7cf36b932d3b58810d1730bca5]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2013/2/section/1) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/a)
+
+[^key-dec133690829f1a8b5b0c7b3a79b1526]: Commencement: S. 2(1)-(4)(6) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(b)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/b)
+
+[^key-d4e8ee739beb1d016f5f297b280b226c]: Commencement: S. 2(5) in force for specified purposes at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(b)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/b)
+
+[^key-b42cf350d228b666bf67bbe7eaf4cf92]: Commencement: [S. 2(5)](https://www.legislation.gov.uk/anaw/2013/2/section/2/5) in force in so far as not already in force at 28.11.2014 by [S.I. 2014/3089](https://www.legislation.gov.uk/wsi/2014/3089), [art. 2](https://www.legislation.gov.uk/wsi/2014/3089/article/2)
+
+[^key-5e882d4a8945970c03e683fcead7be0b]: Commencement: S. 3(1)(3)(a)(b)(4) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(c)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/c)
+
+[^key-024dcd545f5b0cf3f94192bdbf8a394c]: Commencement: S. 3(2)(3)(c)(d)(5) in force in so far as not already in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(c)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/c)
+
+[^key-beef590f356fb54746779a898f396a0e]: Commencement: S. 3(2)(3)(c)(d)(5) in force for specified purposes at 28.10.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 2(a)](https://www.legislation.gov.uk/wsi/2013/2617/article/2/a)
+
+[^key-a1f24184586b9cfefd78bc24449e025d]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2013/2/section/4) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(d)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/d)
+
+[^key-ac616ede3f37f22005f99821de6f5d66]: Commencement: S. 5(1)-(3)(5)-(9)(10)(a)-(c)(11)(12) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/e)
+
+[^key-5e9a16d8017df5d13f739b7cf4f009fb]: Commencement: S. 5(4)(10)(d) in force in so far as not already in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/e)
+
+[^key-28812c9f2ff05701fee6dcf7b106409a]: Commencement: S. 5(4)(10)(d) in force for specified purposes at 28.10.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/2617/article/2/b)
+
+[^key-2b26ffe4aa622284266e4e151719535a]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/anaw/2013/2/section/6/1)[(4)](https://www.legislation.gov.uk/anaw/2013/2/section/6/4) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/e)
+
+[^key-77bd04bca46363edba79bc94f0ee0047]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/anaw/2013/2/section/6/2)[(3)](https://www.legislation.gov.uk/anaw/2013/2/section/6/3) in force in so far as not already in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/e)
+
+[^key-4a612d016d7ca663f82ce39b2a01e864]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/anaw/2013/2/section/6/2)[(3)](https://www.legislation.gov.uk/anaw/2013/2/section/6/3) in force for specified purposes at 28.10.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 2(c)](https://www.legislation.gov.uk/wsi/2013/2617/article/2/c)
+
+[^key-d4755e8adfc7ec7c4d4e23ee768d5a78]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/anaw/2013/2/section/7/1)[(2)](https://www.legislation.gov.uk/anaw/2013/2/section/7/2)[(5)](https://www.legislation.gov.uk/anaw/2013/2/section/7/5)[(6)](https://www.legislation.gov.uk/anaw/2013/2/section/7/6) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/e)
+
+[^key-ca10084f2dc028031e438f5289228436]: Commencement: [S. 7(3)](https://www.legislation.gov.uk/anaw/2013/2/section/7/3)[(4)](https://www.legislation.gov.uk/anaw/2013/2/section/7/4) in force in so far as not already in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/e)
+
+[^key-e4789e55c38334d9ae491f13f6c67847]: Commencement: [S. 7(3)](https://www.legislation.gov.uk/anaw/2013/2/section/7/3)[(4)](https://www.legislation.gov.uk/anaw/2013/2/section/7/4) in force for specified purposes at 28.10.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 2(d)](https://www.legislation.gov.uk/wsi/2013/2617/article/2/d)
+
+[^key-1c4a91a50f01769c79a1d8f2a2a4a4e9]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/2/section/8) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(f)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/f)
+
+[^key-fa25cbad37102e4c1e56535e72c0ca77]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/2/section/9) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(f)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/f)
+
+[^key-0df4c948241f475d3416543ec7b8bb06]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2013/2/section/10) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(f)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/f)
+
+[^key-6275878d28cb317a94fc1e7b4e64edac]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2013/2/section/11) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(f)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/f)
+
+[^key-8952f204c7278c198cbf5336fff366d6]: Commencement: S. 12(1)(3)-(8)(9)(a)-(c)(10)(11) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/g)
+
+[^key-fac71b306e04f94a73c14342e0b1393f]: Commencement: S. 12(2)(9)(d) in force in so far as not already in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/g)
+
+[^key-d9f609ea73b846245035f614f43093e8]: Commencement: S. 12(2)(9)(d) in force for specified purposes at 28.10.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 2(e)](https://www.legislation.gov.uk/wsi/2013/2617/article/2/e)
+
+[^key-593ae7efea13d3f7ce89851470641bba]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2013/2/section/13) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(h)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/h)
+
+[^key-57c0198c14766111a878adc83e0b9bf6]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2013/2/section/14) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(h)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/h)
+
+[^key-19df0050518a4e70d1be2ded8065adce]: Commencement: S. 15(1) in force in so far as not already in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(i)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/i)
+
+[^key-8bb518be4237809fd09827a5944bd5a0]: Commencement: S. 15(1) in force for specified purposes at 28.10.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 2(f)](https://www.legislation.gov.uk/wsi/2013/2617/article/2/f)
+
+[^key-c0467376dd403618c11bdb02c5e1ee75]: Commencement: S. 15(2)-(5) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(i)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/i)
+
+[^key-a9ad1933c6bd2823068cd7b707d6cb6a]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2013/2/section/16) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-7adef1f729ff37cf7a45556420a4f9e4]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2013/2/section/17) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-aeacdd42b8b0a199f682a3f895f0296f]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2013/2/section/18) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-90d2ea9245c7a879973567ee1dc1cb59]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2013/2/section/19) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-36a4aa8f89e9a9c025a2cca836324697]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2013/2/section/20) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-b593876a72882b80c1613e7a954ef26f]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2013/2/section/21) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-6684c90e6e3299856319c5b93b5536e5]: Commencement: S. 22 in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-65363c2bb845df27da2ec71aaf736809]: Textual amendment: [S. 22(1)](https://www.legislation.gov.uk/anaw/2013/2/section/22/1) substituted (4.10.2017) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [ss. 119](https://www.legislation.gov.uk/anaw/2017/2/section/119), [126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2); [S.I. 2017/949](https://www.legislation.gov.uk/wsi/2017/949), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/949/article/2/c)
+
+[^key-2c699c40129d70d9e69b0505ad13de9c]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2013/2/section/23) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-f670a6009cb44b4ef789c4fc6f907ef5]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2013/2/section/24) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-c1ab179fc9307c2d4e58eafdf0f22c1f]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2013/2/section/25) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-325f0353091dc9fb919d2b448af5d7f0]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2013/2/section/26) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/j)
+
+[^key-bdc22420221d9a79ccb2f9268f05de5d]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2013/2/section/28) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(k)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/k)
+
+[^key-073604c0b6aa43dbb80ae11e5d42bb06]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/1) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)
+
+[^key-07ecbd56471bbae915bae8266bd694f5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/2) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)
+
+[^key-97a21bc2ecbf02dfcfd1ee3ad30c7c51]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/3) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)
+
+[^key-43c8cb566a8233e9f808ae5e02fb75c8]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/4) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)
+
+[^key-dfaa557b5ad97159cfd215dfb2927271]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/5) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)
+
+[^key-50fcf69c17f63654e487638d055d7973]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/6) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)
+
+[^key-33ab8a430355ae58c50402f85eea496c]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/7) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)
+
+[^key-d4e13e6e203e4246771dd111d1bb8eb6]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/8) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)
+
+[^key-07d2efd4a48bb01413b29b5e61c1edc3]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/9) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)
+
+[^key-67b1d25b63c8dec9fa7def7e877a417b]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/10) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)
+
+[^key-b87a690c3c40bc118826401cbcd9379b]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/anaw/2013/2/schedule/paragraph/11) in force at 28.11.2013 by [S.I. 2013/2617](https://www.legislation.gov.uk/wsi/2013/2617), [art. 3(l)](https://www.legislation.gov.uk/wsi/2013/2617/article/3/l)

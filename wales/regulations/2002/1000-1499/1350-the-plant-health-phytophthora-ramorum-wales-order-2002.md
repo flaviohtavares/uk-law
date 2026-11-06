@@ -1,0 +1,156 @@
+---
+title: The Plant Health (Phytophthora ramorum) (Wales) Order 2002
+id: wsi/2002/1350
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-05-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2002/1350
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2002/1350/pdfs/wsi_20021350_en.pdf
+- http://www.legislation.gov.uk/wsi/2002/1350/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Plant Health (Phytophthora ramorum) (Wales) Order 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 1350 (W.130)
+
+PLANT HEALTH, WALES
+
+The Plant Health (Phytophthora ramorum) (Wales) Order 2002
+
+Made
+
+at 3.55p.m. on 14th May 2002
+
+Coming into force
+
+at 4.30 p.m. on 14th May 2002
+
+The National Assembly for Wales, in exercise of the powers conferred by sections 2, 3(1), (2)(b) and (4) and 4(1)(b) of the Plant Health Act 1967[^f00001] and now vested in the National Assembly for Wales[^f00002] makes the following Order:
+
+## 1. Title, extent and commencement
+
+This Order may be cited as The Plant Health (*Phytophthora ramorum*) (Wales) Order 2002, shall extend to Wales, and shall come into force on 14th May 2002 at 4.30 p.m.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “inspector” means any person authorised to be an inspector for the purposes of the principal Order;
+- “origin” means, in respect of susceptible material, the place where the material is grown or produced, and “originating” shall be construed accordingly;
+- “phytosanitary certificate” means a certificate duly completed in the form set out in Schedule 14 to the principal Order and issued in compliance with articles 12(4) to (7) and 13 of the principal Order;
+- “plant” has the same meaning as that given in the principal Order;
+- “the principal Order” means the Plant Health (Great Britain) Order 1993[^f00003]; and
+- “susceptible material” means, in the case of material originating in the United States of America (“USA”) plants of all species of the genera listed in the first column of the Schedule, and in all other cases, plants of all species of the genera *Rhododendron* and *Viburnum.*
+
+(2) Unless otherwise stated, a reference in this Order to a numbered article is a reference to the article so numbered in this Order, and references to the Schedule refer to the Schedule to this Order.
+
+## 3. Imports of susceptible material from the USA
+
+Subject to article 5(1), no person shall import from the USA into Wales susceptible material originating in the USA unless it is accompanied by a phytosanitary certificate fulfilling the requirements set out in the Schedule[^f00004].
+
+## 4. Notification of movements of susceptible material into and within Wales
+
+(1) This article is subject to articles 5(2) and 6(1).
+
+(2) Any person in occupation of premises in Wales who takes delivery at those premises of any susceptible material other than that despatched to him or her from premises elsewhere in Wales shall, within three days after taking delivery of the material, provide to an inspector written notice, signed by him or her, stating the following information:
+
+- (a) the date and means of delivery to the premises;
+- (b) whether the susceptible material remains on the premises and if so, the address of those premises;
+- (c) if the susceptible material has been forwarded to another destination, or it is intended so to forward it within two days of the notice being given, the address to which it has been or is to be forwarded, and the name of the intended recipient;
+- (d) the origin of the susceptible material, if known;
+- (e) the name and address of the producer, if known;
+- (f) the species and variety of the susceptible material; and
+- (g) the quantity of susceptible material.
+
+(3) Any person in occupation of premises in Wales who despatches from those premises any susceptible material to premises elsewhere in Wales shall, within one day after the day of despatch, provide to an inspector written notice, signed by him or her, stating the following information:
+
+- (a) the date and means of despatch to the destination premises;
+- (b) the address of those premises and the name of the recipient;
+- (c) the origin of the susceptible material, if known;
+- (d) the name and address of the producer, if known;
+- (e) the species and variety of the susceptible material; and
+- (f) the quantity of susceptible material.
+
+## 5. Exemptions
+
+(1) The requirements of article 3 shall not apply to susceptible material which is accompanied by a phytosanitary certificate issued prior to the coming into force of this Order.
+
+(2) The requirements of article 4 shall not apply to the despatch or taking of delivery of susceptible material by persons not acting in the course of any trade or business.
+
+## 6. Powers of an inspector
+
+(1) An inspector—
+
+- (a) may dispense in writing with all or any of the requirements in article 4 for written notification if the inspector believes that notification otherwise given has furnished him or her with sufficient information about any susceptible material the delivery or despatch of which falls under the provisions of this Order;
+- (b) giving written dispensation pursuant to sub-paragraph (a) must, as soon as reasonably practical, post or otherwise deliver the written dispensation to the person obtaining the dispensation.
+
+(2) An inspector may, for the purposes of checking compliance with this Order—
+
+- (a) exercise the powers conferred by article 25(1)(a) and (b) of the principal Order, as if checking compliance with the principal Order; and
+- (b) having entered premises by virtue of sub-paragraph (a), require production of documentation or records (in whatever form they may be held) relating to the production of or trade in any susceptible material and may examine and copy such documentation or records.
+
+(3) Where documentation or records required to be examined by an inspector pursuant to paragraph (2)(b) are kept by means of a computer, an inspector may—
+
+- (a) require access to any computer and any associated apparatus or material which is or has been in use in connection with the documentation or records; and
+- (b) require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material, to provide such assistance as he or she may reasonably require.
+
+(4) Any power conferred by article 25 of the principal Order which is exercised by virtue of this article shall be treated as if that power had been exercised under the principal Order, and the provisions of the principal Order (including article 33(1)(a) and (c), (2) and (6) (offences)) shall apply accordingly.
+
+## 7. Offences
+
+(1) A person shall be guilty of an offence if, without reasonable excuse, proof of which shall lie on that person—
+
+- (a) they contravene or fail to comply with article 4; or
+- (b) they intentionally obstruct an inspector in the exercise of his or her powers given by or under article 6(2)(b) or (3).
+
+(2) A person guilty of an offence under paragraph (1) above shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00005].
+
+Dafydd Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+at 3.55p.m. on 14th May 2002
+
+## SCHEDULE
+
+Article 3
+
+| ***Susceptible material*** | ***Requirements to be met in any phytosanitary certificate accompanying the susceptible material*** |
+| --- | --- |
+| All species of the genera<br>- *Acer*<br>- *Aesculus*<br>- *Arbutus*<br>- *Arctostaphylos*<br>- *Heteromeles*<br>- *Lonicera*<br>- *Rhamnus*<br>- *Rhododendron*<br>- *Umbellularia*<br>- *Vaccinium*<br>- *Viburnum* | - Additional declaration that the material originates in an area recognised by the official plant health service of the country from which the material originates as being free rom *Phytophthora ramorum.*<br>- The name of the area from where the material originates should be specified under “place of origin”. |
+
+(This note is not part of the Order)
+
+This Order implements measures to prevent the introduction and spread of the pest *Phytophthora ramorum*, a fungus which is not established in the United Kingdom. It regulates the importation and movement into and within Wales of plant material identified as susceptible to the pest, believed to cause Sudden Oak Death syndrome in certain species of oak in the USA, and harm to *Rhododendron, Viburnum* and other plants.
+
+This Order restricts the importation of a number of plant genera, including *Rhododendron* and *Viburnum* (“susceptible material”) directly from the USA by requiring that such imports be accompanied by a phytosanitary certificate which confirms that the material originates from a location which is officially recognised in the USA as free from the pest (article 3). This requirement is imposed in addition to the requirements of the Plant Health (Great Britain) Order 1993 (S.I. [1993/1320](https://www.legislation.gov.uk/uksi/1993/1320)) (see article 3(1)(d) and Schedule 4, Part A, Section 1; article 3(1)(e) and Schedule 5, Part B, Section 1, and article 3(1)(f)) and applies whether the importer is acting in the course of a trade or business or not. Susceptible material which is imported after the coming into force of this Order on 14th May 2002, but which is accompanied by a phytosanitary certificate issued before 14th May 2002 is exempted from the import requirement of this Order.
+
+Commercial movements of susceptible material *into* Wales whether from elsewhere in the UK or European Community, or from any other country, must be notified to a Plant Health Inspector by the person occupying premises at which delivery of the material is taken (article 4(2)). Commercial movements of susceptible material *within* Wales must be notified to a Plant Health Inspector by the person occupying premises from which the material is despatched (article 4(3)). The notification requirements apply only to persons acting in the course of a trade or business (article 5(2)).
+
+A Plant Health Inspector may dispense in writing with any or all of the requirements for notification where he or she obtains sufficient information about any susceptible material falling under this Order (article 6(1)). A Plant Health Inspector acting under this Order may exercise powers to check compliance (by examining, sampling and marking property and/or premises) conferred by article 25(1)(a) and (b) of the principal Order (“article 25 powers”) (article 6(2)(a)), and may inspect documents, including documents and records held on computer, when exercising article 25 powers (article 6(2)(b) and (3)). Any article 25 power exercised under this Order has the same effect as if exercised under the relevant article of the principal Order so that once that power is exercised, the relevant consequential provisions of the principal Order, including provisions as to offences, take effect (article 6(4)).
+
+Offences are created in respect of the contravention or failure to comply with the notification requirements of the Order (article 7(1)(a)) and in respect of obstructing an inspector exercising his or her powers to require production of documents and records (article 7(1)(b)). (Note also that breach of the provision prohibiting certain imports from the USA without the requisite phytosanitary certificate and official statement is a matter for prosecution by HM Customs & Excise, pursuant to section 50 of the Customs & Excise Management Act 1979).
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 8](https://www.legislation.gov.uk/ukpga/1967/8); sections 2(1) and 3(1) and (2) were amended by the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), section 4(1) and Schedule 4, paragraph 8; section 3(4) was substituted by section 42 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and further amended by section 17(1) of the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53).
+
+[^f00002]: Footnote: Section 1(2)(b) of the Plant Health Act 1967 provides that the competent authority in England and Wales for the purposes of that Act is the Minister of Agriculture, Fisheries and Food. By virtue of the Transfer of Functions (Wales) (No. 1) Order 1978 (S.I. [1978/272](https://www.legislation.gov.uk/uksi/1978/272)), article 2(1) and Schedule 1, the functions of the Minister of Agriculture, Fisheries and Food under the Plant Health Act 1967 were, so far as they are exercisable in relation to Wales, transferred to the Secretary of State for Wales. These functions of the Secretary of State were then transferred to the National Assembly for Wales under the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
+
+[^f00003]: Footnote: S.I. [1993/1320](https://www.legislation.gov.uk/uksi/1993/1320); amended by S.I. [1993/3213](https://www.legislation.gov.uk/uksi/1993/3213), [1995/1358](https://www.legislation.gov.uk/uksi/1995/1358) and [2929](https://www.legislation.gov.uk/uksi/1995/2929), [1996/25](https://www.legislation.gov.uk/uksi/1996/25), [1165](https://www.legislation.gov.uk/uksi/1996/1165) and [3242](https://www.legislation.gov.uk/uksi/1996/3242), [1997/1145](https://www.legislation.gov.uk/uksi/1997/1145) and [2907](https://www.legislation.gov.uk/uksi/1997/2907), [1998/349](https://www.legislation.gov.uk/uksi/1998/349), [1121](https://www.legislation.gov.uk/uksi/1998/1121) and [2245](https://www.legislation.gov.uk/uksi/1998/2245), [1999/2641 (W.8)](https://www.legislation.gov.uk/wsi/1999/2641); [2001/2500 (W.203)](https://www.legislation.gov.uk/wsi/2001/2500) and [3761 (W.310)](https://www.legislation.gov.uk/wsi/2001/3761).
+
+[^f00004]: Footnote: Note that sections 49 and 50 of the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2) provide respectively for forfeiture of goods improperly imported and penalties for improper importation of goods.
+
+[^f00005]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

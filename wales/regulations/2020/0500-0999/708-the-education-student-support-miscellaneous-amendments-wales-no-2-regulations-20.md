@@ -1,0 +1,202 @@
+---
+title: The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020
+id: wsi/2020/708
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-07-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2020/708
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2020/708/pdfs/wsi_20200708_mi.pdf
+- http://www.legislation.gov.uk/wsi/2020/708/pdfs/wsi_20200708_we.pdf
+- http://www.legislation.gov.uk/wsi/2020/708/pdfs/wsi_20200708_en.pdf
+- http://www.legislation.gov.uk/wsi/2020/708/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 708 (W. 159)
+
+Education, Wales
+
+The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020
+
+Made
+
+8 July 2020
+
+Laid before Senedd Cymru
+
+9 July 2020
+
+Coming into force
+
+31 July 2020
+
+The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 22(2)(a), (e) and (g) and 42(6) of the Teaching and Higher Education Act 1998[^f00001] and now exercisable by them[^f00002], make the following Regulations:
+
+## PART 1 — TITLE, COMMENCEMENT AND APPLICATION
+
+### 1. Title, commencement and application
+
+(1) The title of these Regulations is the Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020.
+
+(2) These Regulations come into force on 31 July 2020 and apply to the provision of support to students in relation to an academic year which begins on or after 1 August 2020.
+
+## PART 2 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2017
+
+### 2. Amendments to the Education (Student Support) (Wales) Regulations 2017
+
+The Education (Student Support) (Wales) Regulations 2017[^f00003] are amended in accordance with regulation 3.
+
+### 3. Amendments to regulation 62
+
+In regulation 62—
+
+- (a) for paragraph (10) substitute—
+
+  > (10) Any overpayment of a loan for living costs in respect of any academic year may be recovered by the Welsh Ministers—
+  >
+  > - (a) by subtracting the overpayment from the amount of any loan payable to the student from time to time under these Regulations or any other regulations made by the Welsh Ministers under section 22 of the 1998 Act;
+  > - (b) by requiring the student to repay the overpayment in accordance with regulations made under section 22 of the 1998 Act;
+  > - (c) by any other method available to them.
+
+  ,
+- (b) omit paragraph (11), and
+- (c) omit paragraph (12).
+
+## PART 3 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2018
+
+### 4. Amendments to the Education (Student Support) (Wales) Regulations 2018
+
+The Education (Student Support) (Wales) Regulations 2018[^f00004] are amended in accordance with regulations 5 to 11.
+
+### 5. Amendment to regulation 19
+
+In regulation 19, for paragraph (3) substitute—
+
+> (3) But paragraph (2) does not apply if P is undertaking a distance learning course outside the United Kingdom because—
+>
+> - (a) P or a close relative of P is serving as a member of the armed forces, or
+> - (b) P is unable to be in the United Kingdom for a reason related to coronavirus.
+
+### 6. Amendment to regulation 39
+
+In regulation 39, for *Exception 4* substitute—
+
+> *Exception 4*
+>
+> The present course is a distance learning course and the student (“S”) is not in Wales on the first day of the first academic year of the course.
+>
+> But this exception does not apply where—
+>
+> - (a) S is not in Wales on the first day of the first academic year of the course because S, or a close relative of S, is serving as a member of the armed forces outside Wales, or
+> - (b) S is unable to be in Wales on the first day of the first academic year of the course for a reason related to coronavirus.
+
+### 7. Amendment to regulation 44
+
+In regulation 44, for *Exception 5* substitute—
+
+> *Exception 5*
+>
+> The present course is a distance learning course and the student (“S”) is not in Wales on the first day of the first academic year of the course.
+>
+> But this exception does not apply where—
+>
+> - (a) S is not in Wales on the first day of the first academic year of the course because S, or a close relative of S, is serving as a member of the armed forces outside Wales, or
+> - (b) S is unable to be in Wales on the first day of the first academic year of the course for a reason related to coronavirus.
+
+### 8. Amendment to regulation 54
+
+In regulation 54, for *Exception 4* substitute—
+
+> *Exception 4*
+>
+> The present course is a distance learning course and the student (“S”) is not in Wales on the first day of the first academic year of the course.
+>
+> But this exception does not apply where—
+>
+> - (a) S is not in Wales on the first day of the first academic year of the course because S, or a close relative of S, is serving as a member of the armed forces outside Wales, or
+> - (b) S is unable to be in Wales on the first day of the first academic year of the course for a reason related to coronavirus.
+
+### 9. Amendment to regulation 62
+
+In regulation 62, for *Exception 5* substitute—
+
+> *Exception 5*
+>
+> The present course is a distance learning course and the student (“S”) is not in Wales on the first day of the first academic year of the course.
+>
+> But this exception does not apply where—
+>
+> - (a) S is not in Wales on the first day of the first academic year of the course because S, or a close relative of S, is serving as a member of the armed forces outside Wales, or
+> - (b) S is unable to be in Wales on the first day of the first academic year of the course for a reason related to coronavirus.
+
+### 10. Substitution of regulation 91
+
+For regulation 91 substitute—
+
+> **91.** Where a maintenance loan has been overpaid the Welsh Ministers may recover the overpayment—
+>
+> - (a) by subtracting it from any maintenance loan payable to the eligible student from time to time under these Regulations or any other regulations made by the Welsh Ministers under section 22 of the 1998 Act;
+> - (b) by requiring the eligible student to repay the overpayment in accordance with regulations made under section 22 of the 1998 Act;
+> - (c) by any other method available to them.
+
+### 11. Amendment to Schedule 1
+
+In Schedule 1, in paragraph 6(1), at the appropriate place insert—
+
+> - “coronavirus” (“*coronafeirws*”) means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
+
+.
+
+Kirsty Williams
+
+Minister for Education, one of the Welsh Ministers
+
+8 July 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under the Teaching and Higher Education Act 1998 (“the 1998 Act”) and they amend—
+
+- (a) The Education (Student Support) (Wales) Regulations 2017 (“the 2017 Regulations”), and
+- (b) The Education (Student Support) (Wales) Regulations 2018 (“the 2018 Regulations”).
+
+The 2017 Regulations provide for financial support for eligible students taking designated higher education courses which begin before 1 September 2018. Part 2 of these Regulations amends regulation 62 of the 2017 Regulations which concerns, amongst other things, the recovery by the Welsh Ministers of overpayments of loans for living costs. The way in which the Welsh Ministers may recover such overpayments no longer depends on whether a student has failed to provide information or has provided inaccurate information. Regulation 62 also enables the Welsh Ministers to require a student to repay an overpayment in accordance with regulations made under section 22 of the 1998 Act.
+
+The 2018 Regulations provide for financial support for eligible students taking designated higher education courses which begin on or after 1 September 2018. Part 3 of these Regulations amends the 2018 Regulations.
+
+Regulation 5 amends regulation 19 (early termination of eligibility) so that a student undertaking a distance learning course outside the United Kingdom for a reason related to coronavirus will remain eligible for funding.
+
+Regulation 6 amends regulation 39 (qualifying conditions for tuition fee loan) to remove the requirement for a student undertaking a distance learning course to be in Wales on the first day of that course, in cases where the absence relates to coronavirus.
+
+Regulation 7 amends regulation 44 (qualifying conditions for base grant and maintenance grant) to remove the requirement for a student undertaking a distance learning course to be in Wales on the first day of that course, in cases where the absence relates to coronavirus.
+
+Regulation 8 amends regulation 54 (qualifying conditions for maintenance loan) to remove the requirement for a student undertaking a distance learning course to be in Wales on the first day of that course, in cases where the absence relates to coronavirus.
+
+Regulation 9 amends regulation 62 (qualifying conditions for disabled student’s grant) to remove the requirement for a student undertaking a distance learning course to be in Wales on the first day of that course, in cases where the absence relates to coronavirus.
+
+Regulation 10 substitutes a new regulation 91 (recovery of overpayments of maintenance loans) into the 2018 Regulations. The way in which the Welsh Ministers may recover such overpayments no longer depends on whether a student has failed to provide information or has provided inaccurate information. Regulation 91 also enables the Welsh Ministers to require a student to repay an overpayment in accordance with regulations made under section 22 of the 1998 Act.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Higher Education Division, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); section 22 was amended by the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 146 and Schedule 11; the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6; the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 147; the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), sections 42 and 43 and Schedule 7; the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 257; the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), section 76; [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) and the Higher Education and Research Act [2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), section 88. *See* section 43(1) of the Teaching and Higher Education Act 1998 for the definition of “prescribed” and “regulations”.
+
+[^f00002]: Footnote: The Secretary of State’s functions in section 22(2)(a) to (i) and (k) of the Teaching and Higher Education Act 1998 were transferred to the National Assembly for Wales so far as they relate to making provision in relation to Wales by section 44 of the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), with subsection (2)(a), (c) and (k) exercisable concurrently with the Secretary of State. The Secretary of State’s function in section 42 was transferred, in so far as exercisable in relation to Wales, to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). All the above functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00003]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), amended by [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/424 (W. 98)](https://www.legislation.gov.uk/wsi/2019/424) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142) and [S.I. 2020/153 (W. 27)](https://www.legislation.gov.uk/wsi/2020/153).
+
+[^f00004]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), amended by [S.I. 2018/813 (W. 164)](https://www.legislation.gov.uk/wsi/2018/813); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/424 (W. 98)](https://www.legislation.gov.uk/wsi/2019/424) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142) and [S.I. 2020/153 (W. 27)](https://www.legislation.gov.uk/wsi/2020/153).

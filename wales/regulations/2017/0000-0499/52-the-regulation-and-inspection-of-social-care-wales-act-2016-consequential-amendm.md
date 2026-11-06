@@ -1,0 +1,511 @@
+---
+title: The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017
+id: wsi/2017/52
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2017-01-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2017/52
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2017/52/pdfs/wsi_20170052_mi.pdf
+- http://www.legislation.gov.uk/wsi/2017/52/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 52 (W. 23)
+
+Social Care, England And Wales
+
+The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017
+
+Made
+
+21sJanuary 2017
+
+Laid before the National Assembly for Wales
+
+26 January 2017
+
+Coming into force
+
+3 April 2017
+
+The Welsh Ministers, in exercise of the powers conferred by section 186 of the Regulation and Inspection of Social Care (Wales) Act 2016[^f00001] and sections 9(1), 10 and 140(1) of the Adoption and Children Act 2002[^f00002], make the following Regulations:
+
+## 1. Title and commencement
+
+(1) The title of these Regulations is the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017.
+
+(2) These Regulations come into force on 3 April 2017.
+
+## 2. Amendments
+
+Schedule 1 (amendments consequential upon the Regulation and Inspection of Social Care (Wales) Act 2016) has effect.
+
+## 3. Revocations
+
+Schedule 2 (revocations) has effect.
+
+Rebecca Evans
+
+Minister for Social Services and Public Health, under authority of the Cabinet Secretary for Health, Wellbeing and Sport, one of the Welsh Ministers
+
+21 January 2017
+
+## SCHEDULE 1 — Amendments consequential upon the Regulation and Inspection of Social Care (Wales) Act 2016
+
+Regulation 2
+
+### 1. Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975
+
+(1) The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00003] is amended as follows.
+
+(2) In articles 3(1)(i) and 4(1)(k)—
+
+- (a) for “the Care Council for Wales” substitute “Social Care Wales”;
+- (b) for “Part IV of the Care Standards Act 2000” substitute “Part 4 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+(3) In Schedule 3 (excepted proceedings), in paragraph 18 for “Part IV of the Care Standards Act 2000” substitute “Part 4 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+### 2. Representation of the People (England and Wales) Regulations 2001
+
+(1) The Representation of the People (England and Wales) Regulations 2001[^f00004] are amended as follows.
+
+(2) In regulation 53 (additional requirements for applications for a proxy vote), in paragraph (2)(n) for “section 56 of the Care Standards Act 2000” substitute “section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+### 3. Police Act 1997 (Criminal Records) Regulations 2002
+
+(1) The Police Act 1997 (Criminal Records) Regulations 2002[^f00005] are amended as follows.
+
+(2) In regulation 5C (work with children), in paragraph (k) for “Part IV of the Care Standards Act 2000” substitute “Part 4 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+### 4. Care Homes (Wales) Regulations 2002
+
+(1) The Care Homes (Wales) Regulations 2002[^f00006] are amended as follows.
+
+(2) In regulation 9 (fitness of registered manager), in paragraph (6) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+(3) In Schedule 2 (information and documents to be available in respect of persons carrying on, managing, or working at, care homes), in paragraph 5A for “the Care Council for Wales” substitute “Social Care Wales”.
+
+### 5. Children’s Homes (Wales) Regulations 2002
+
+(1) The Children’s Homes (Wales) Regulations 2002[^f00007] are amended as follows.
+
+(2) In the English text, in each of the provisions mentioned in paragraph (3) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+(3) The provisions are—
+
+- (a) regulation 8(2E) (fitness of manager);
+- (b) regulation 26(2F) and (2G) (fitness of workers);
+- (c) Schedule 2, paragraph 5A (information required in respect of persons seeking to carry on, manage or work at a children’s home);
+- (d) Schedule 4, paragraph 2(h) (other records).
+
+(4) In the Welsh text—
+
+- (a) in regulation 8 (fitness of manager)—
+  - (i) re-number paragraph (2E) as paragraph (2D),
+  - (ii) in paragraph (2D) as re-numbered for “Chyngor Gofal Cymru” substitute “Gofal Cymdeithasol Cymru”;
+- (b) in regulation 26(2Dd) and (2E) (fitness of workers) for “Chyngor Gofal Cymru” substitute “Gofal Cymdeithasol Cymru”;
+- (c) in Schedule 2, paragraph 5A (information required in respect of persons seeking to carry on, manage or work at a children’s home) for “Cyngor Gofal Cymru” substitute “Gofal Cymdeithasol Cymru”;
+- (d) in Schedule 4, after paragraph 2(e) (other records) insert—
+
+  > - (f) a yw wedi’i gofrestru gyda Gofal Cymdeithasol Cymru.
+
+### 6. Registration of Social Care and Independent Health Care (Wales) Regulations 2002
+
+(1) The Registration of Social Care and Independent Health Care (Wales) Regulations 2002[^f00008] are amended as follows.
+
+(2) In each of the provisions mentioned in paragraph (3) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+(3) The provisions are—
+
+- (a) Schedule 1, paragraphs 1(ba), 2(ca) and 16(ea) (information to be supplied on an application for registration as a person who carries on or manages an establishment or agency);
+- (b) Schedule 3, paragraphs 2A, 2B and 2C (information and documents to be supplied for registration as the manager of an establishment or agency).
+
+### 7. Welsh Language Schemes (Public Bodies) Order 2002
+
+(1) The Welsh Language (Public Bodies) Order 2002[^f00009] is amended as follows.
+
+(2) In the table in the Schedule, for the entry “Care Council for Wales” substitute “Social Care Wales”.
+
+### 8. Local Authorities (Goods and Services) (Public Bodies) (Wales) Order 2002
+
+(1) The Local Authorities (Goods and Services) (Public Bodies) (Wales) Order 2002[^f00010] is amended as follows.
+
+(2) In the Schedule (public bodies), for “The Care Council for Wales” substitute “Social Care Wales”.
+
+### 9. Domiciliary Care Agencies (Wales) Regulations 2004
+
+(1) The Domiciliary Care Agencies (Wales) Regulations 2004[^f00011] are amended as follows.
+
+(2) In each of the provisions mentioned in paragraph (3) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+(3) The provisions are—
+
+- (a) regulation 10(6) (fitness of manager);
+- (b) Schedule 2, paragraph 6B (information required in respect of registered providers and managers of an agency and persons nominated to deputise for a registered person).
+
+### 10. Adoption Agencies Regulations 2005
+
+(1) The Adoption Agencies Regulations 2005[^f00012] are amended as follows.
+
+(2) In each of the provisions mentioned in paragraph (3) for “the Care Council for Wales under section 56 of the Care Standards Act 2000” substitute “Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+(3) The provisions are—
+
+- (a) the definition of “social worker” in regulation 2(1) (interpretation);
+- (b) regulation 37(2) (independent reviewing officers).
+
+### 11. Adoption Agencies (Wales) Regulations 2005
+
+(1) The Adoption Agencies (Wales) Regulations 2005[^f00013] are amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “social worker” for “the Care Council for Wales under section 56 of the Care Standards Act 2000” substitute “Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+(3) In regulation 38(2) (independent reviewing officers) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+### 12. Local Authority (Adoption) (Miscellaneous Provisions) Regulations 2005
+
+(1) The Local Authority (Adoption) (Miscellaneous Provisions) Regulations 2005[^f00014] are amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “social worker”—
+
+- (a) at the end of paragraph (b) omit “or”;
+- (b) at the end of paragraph (c) omit the full stop and insert—
+
+  > ; or
+  >
+  > - (d) the register maintained by Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016.
+
+### 13. National Assembly for Wales (Representation of the People) Order 2007
+
+(1) The National Assembly for Wales (Representation of the People) Order 2007[^f00015] is amended as follows.
+
+(2) In Schedule 1 (absent voting at Assembly elections), in paragraph 4 (additional requirements for applications on grounds of severe sight-impairment or other disability), in sub-paragraph (2)(n) for “section 56 of the Care Standards Act 2000” substitute “section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+### 14. Review of Children’s Cases (Wales) Regulations 2007
+
+(1) The Review of Children’s Cases (Wales) Regulations 2007[^f00016] are amended as follows.
+
+(2) In regulation 3 (independent reviewing officers)—
+
+- (a) in paragraph (2) for “the Care Council for Wales” substitute “Social Care Wales”;
+- (b) in paragraph (3) for “the Care Council for Wales under section 56 of the Care Standards Act 2000” substitute “Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016”;
+- (c) in paragraph (4), in both places it occurs, for “the Care Council for Wales” substitute “Social Care Wales”.
+
+### 15. Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardians Regulations 2007
+
+(1) The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardians Regulations 2007[^f00017] are amended as follows.
+
+(2) In regulation 8 (persons who may provide an LPA certificate), in paragraph (4), in the definition of “registered social worker” for “the Care Council for Wales” substitute “Social Care Wales”.
+
+### 16. Local Authority Adoption Service (Wales) Regulations 2007
+
+(1) The Local Authority Adoption Service (Wales) Regulations 2007[^f00018] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), for the definition of “social worker” substitute—
+
+> - “social worker” (“*gweithiwr cymdeithasol*”) means a person who is registered as a social worker—
+>   - (a) in the register maintained by Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016; or
+>   - (b) in Part 16 of the register maintained by the Health and Care Professions Council under article 5 of the Health and Social Work Professions Order 2001;
+
+.
+
+### 17. Mental Health (Approved Mental Health Professionals) (Approval) (England) Regulations 2008
+
+(1) The Mental Health (Approved Mental Health Professionals) (Approval) (England) Regulations 2008[^f00019] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) omit the definition of “Care Council for Wales”;
+- (b) in the appropriate place insert—
+
+  > - “Social Care Wales” has the meaning given by section 67 of the Regulation and Inspection of Social Care (Wales) Act 2016;
+
+  .
+
+(3) In regulation 3(3) (granting approval) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+### 18. Mental Health (Approval of Persons to be Approved Mental Health Professionals) (Wales) Regulations 2008
+
+(1) The Mental Health (Approval of Persons to be Approved Mental Health Professionals) (Wales) Regulations 2008[^f00020] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) omit the definition of “Care Council for Wales”;
+- (b) in the appropriate place insert—
+
+  > - “Social Care Wales” (“*Gofal Cymdeithasol Cymru*”) has the meaning given by section 67 of the Regulation and Inspection of Social Care (Wales) Act 2016;
+
+  .
+
+(3) In each of the provisions mentioned in paragraph (4) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+(4) The provisions are—
+
+- (a) regulation 3(1)(c) (granting approval);
+- (b) Schedule 1, paragraph 1(a) (professional requirements).
+
+### 19. Independent Review of Determinations (Adoption and Fostering) Regulations 2009
+
+(1) The Independent Review of Determinations (Adoption and Fostering) Regulations 2009[^f00021] are amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “social worker” for “the Care Council for Wales under section 56 of the Care Standards Act 2000” substitute “Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+### 20. Mental Capacity (Deprivation of Liberty: Assessments, Standard Authorisations and Disputes about Residence) (Wales) Regulations 2009
+
+(1) The Mental Capacity (Deprivation of Liberty: Assessments, Standard Authorisations and Disputes about Residence) (Wales) Regulations 2009[^f00022] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “Care Council for Wales”;
+- (b) in the appropriate place insert—
+
+  > - “Social Care Wales” (“*Gofal Cymdeithasol Cymru*”) has the meaning given by section 67 of the Regulation and Inspection of Social Care (Wales) Act 2016.
+
+(3) In regulation 5(1)(b) (eligibility to carry out best interests assessments) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+### 21. Independent Review of Determinations (Adoption and Fostering) (Wales) Regulations 2010
+
+(1) The Independent Review of Determinations (Adoption and Fostering) (Wales) Regulations 2010[^f00023] are amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “social worker” for “the Care Council for Wales under section 56 of the Care Standards Act 2000” substitute “Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+### 22. Care Planning, Placement and Case Review (England) Regulations 2010
+
+(1) The Care Planning, Placement and Case Review (England) Regulations 2010[^f00024] are amended as follows.
+
+(2) In regulation 46 (qualifications and experience for independent reviewing officers), in paragraph (1) for “the Care Council for Wales under section 56 of the Care Standards Act 2000” substitute “Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+### 23. Fostering Services (England) Regulations 2011
+
+(1) The Fostering Services (England) Regulations 2011[^f00025] are amended as follows.
+
+(2) In regulation 23 (constitution and membership of fostering panel), in paragraph (10)(b) for “the Care Council for Wales under section 56 of the Care Standards Act 2000” substitute “Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+### 24. Arrangements for Placement of Children by Voluntary Organisations and Others (England) Regulations 2011
+
+(1) The Arrangements for Placement of Children by Voluntary Organisations and Others (England) Regulations 2011[^f00026] are amended as follows.
+
+(2) In regulation 18 (reviews of children’s cases), in paragraph (2) for “the Care Council for Wales under section 56 of the Care Standards Act 2000” substitute “Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016”.
+
+### 25. Education (Student Support) Regulations 2011
+
+(1) The Education (Student Support) Regulations 2011[^f00027] are amended as follows.
+
+(2) In regulation 159 (eligible postgraduate students)—
+
+- (a) at the end of paragraph (4)(a)(iv) omit “or”;
+- (b) after paragraph (4)(a)(v) insert—
+
+  > or
+  >
+  > - (vi) any allowance, bursary or award of similar description made under section 116(2)(a) of the Regulation and Inspection of Social Care (Wales) Act 2016 which includes payment for meeting additional expenditure incurred by A by reason of A’s disability;
+
+  .
+
+### 26. Mental Health (Care Co-ordination and Care and Treatment Planning) (Wales) Regulations 2011
+
+(1) The Mental Health Care Co-ordination and Care Treatment Planning (Wales) Regulations 2011[^f00028] are amended as follows.
+
+(2) In Schedule 1 (professional requirements), in paragraph 1(a) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+### 27. Mental Health (Primary Care Referrals and Eligibility to Conduct Primary Mental Health Assessments) (Wales) Regulations 2012
+
+(1) The Mental Health (Primary Care Referrals and Eligibility to Conduct Primary Mental Health Assessments) (Wales) Regulations 2012[^f00029] are amended as follows.
+
+(2) In the Schedule (professional requirements), in paragraph 1(a) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+### 28. Police and Crime Commissioner Elections Order 2012
+
+(1) The Police and Crime Commissioner Elections Order 2012[^f00030] is amended as follows.
+
+(2) In Schedule 2 (absent voting in PCC elections), in paragraph 15—
+
+- (a) in sub-paragraph (2)—
+  - (i) at the end of paragraph (l) omit “or”,
+  - (ii) at the end of paragraph (m) omit the full stop and insert—
+
+    > , or
+    >
+    > - (n) a person registered in the register for social workers maintained in accordance with section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016.
+
+    ;
+- (b) in sub-paragraph (3), in paragraph (b) for “paragraph (m)” substitute “paragraph (m) or (n)”.
+
+### 29. Contracting Out (Local Authorities Social Services Functions) (England) Order 2014
+
+(1) The Contracting Out (Local Authorities Social Services Functions) (England) Order 2014[^f00031] is amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “registered social worker” for paragraph (b) substitute—
+
+> - (b) in a register maintained by Social Care Wales under section 80 (the register) of the Regulation and Inspection of Social Care (Wales) Act 2016,
+
+.
+
+### 30. Education (Student Support) (Wales) Regulations 2015
+
+(1) The Education (Student Support) (Wales) Regulations 2015[^f00032] are amended as follows.
+
+(2) In regulation 115 (eligible postgraduate students)—
+
+- (a) at the end of paragraph (4)(a)(iv) omit “or”;
+- (b) after paragraph (4)(a)(v) insert—
+
+  > - (vi) any allowance, bursary or award of similar description made under section 116(2)(a) of the Regulation and Inspection of Social Care (Wales) Act 2016 which includes payment for meeting additional expenditure incurred by A by reason of A’s disability; or
+
+  .
+
+### 31. Care Quality Commission (Membership) Regulations 2015
+
+(1) The Care Quality Commission (Membership) Regulations 2015[^f00033] are amended as follows.
+
+(2) In the Schedule (grounds for disqualification), in paragraph 29 for sub-paragraph (a) substitute—
+
+> - (a) in Wales, a register maintained under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016;
+
+.
+
+### 32. National Assembly for Wales (Disqualification) Order 2015
+
+(1) The National Assembly for Wales (Disqualification) Order 2015[^f00034] is amended as follows.
+
+(2) In the Schedule (offices disqualifying holders from membership of the National Assembly for Wales), in the table—
+
+- (a) omit the entry for “the Care Council for Wales”;
+- (b) in the appropriate place insert the entry set out in the following table—
+
+  | ***First Column*** | ***Second Column*** |
+  | --- | --- |
+  | Social Care Wales | All members |
+
+### 33. Care Planning, Placement and Case Review (Wales) Regulations 2015
+
+(1) The Care Planning, Placement and Case Review (Wales) Regulations 2015[^f00035] are amended as follows.
+
+(2) In regulation 54(1) (qualifications and experience of independent reviewing officers) for “the Care Council for Wales” substitute “Social Care Wales”.
+
+## SCHEDULE 2 — Revocations
+
+Regulation 3
+
+The following instruments are revoked.
+
+<table>
+<thead>
+<tr><th><strong><em>Regulations revoked</em></strong></th><th><strong><em>References</em></strong></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">(1)<br>These Regulations lapsed in relation to England with effect from 1 August 2012 (<em>see</em> <a href="https://www.legislation.gov.uk/uksi/2012/1319">S.I. 2012/1319</a>, article 2(1), (4)).</td></tr>
+</tfoot>
+<tbody>
+<tr><td>The Care Council for Wales (Appointment, Membership and Procedure) Regulations 2001</td><td><a href="https://www.legislation.gov.uk/wsi/2001/2136">S.I. 2001/2136 (W. 149)</a></td></tr>
+<tr><td>The Care Standards Act 2000 (Extension of Meaning of “Social Care Worker”) (Wales) Regulations 2002</td><td><a href="https://www.legislation.gov.uk/wsi/2002/1176">S.I. 2002/1176 (W. 124)</a></td></tr>
+<tr><td>The Care Council for Wales (Specification of Student Social Workers) (Registration) Order 2004</td><td><a href="https://www.legislation.gov.uk/wsi/2004/709">S.I. 2004/709 (W. 76)</a></td></tr>
+<tr><td>The Care Standards Act 2000 (Extension of Meaning of “Social Care Worker”) (Wales) Regulations 2004</td><td><a href="https://www.legislation.gov.uk/wsi/2004/711">S.I. 2004/711 (W. 78)</a></td></tr>
+<tr><td>The Care Council for Wales (Specification of Social Care Workers) (Registration) Order 2004</td><td><a href="https://www.legislation.gov.uk/wsi/2004/2880">S.I. 2004/2880 (W. 250)</a></td></tr>
+<tr><td>The Care Standards Act 2000 (Relevant Registers of Social Workers) Regulations 2005</td><td><a href="https://www.legislation.gov.uk/uksi/2005/491">S.I. 2005/491</a></td></tr>
+<tr><td>The Care Council for Wales (Appointment, Membership and Procedure) (Amendment) Regulations 2012</td><td><a href="https://www.legislation.gov.uk/wsi/2012/3023">S.I. 2012/3023 (W. 307)</a></td></tr>
+</tbody>
+</table>
+
+[^f01000]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under section 186 of the Regulation and Inspection of Social Care (Wales) Act 2016 (“the Act”) and make amendments to secondary legislation as a consequence of the commencement of Parts 2 to 11 of the Act.
+
+Part 3 of the Act (Social Care Wales) provides for the continuation of the body corporate called the Care Council for Wales (which was established by section 54 of the Care Standards Act 2000), it renames that body and restates and modifies the body’s original functions and confers additional functions.
+
+Regulation 2 and Schedule 1 make consequential amendments to secondary legislation.
+
+Regulation 3 and Schedule 2 specify the secondary legislation revoked by these Regulations.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As result a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Department of Health and Social Services, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).
+
+[^f00002]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^f00003]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023). Article 3(1)(i) was amended by [S.I. 2012/1957](https://www.legislation.gov.uk/uksi/2012/1957), articles 2 and 5. Article 4(1)(k) was inserted by [S.I. 2003/967](https://www.legislation.gov.uk/uksi/2003/967), article 2 and 7 and amended by [S.I. 2012/1957](https://www.legislation.gov.uk/uksi/2012/1957), articles 2 and 5. Paragraph 18 of Schedule 3 was inserted by [S.I. 2003/965](https://www.legislation.gov.uk/uksi/2003/965), articles 2 and 13.
+
+[^f00004]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341), to which there are amendments not relevant to this instrument.
+
+[^f00005]: Footnote: [S.I. 2002/233](https://www.legislation.gov.uk/uksi/2002/233), amended by [S.I. 2014/955](https://www.legislation.gov.uk/uksi/2014/955); there are other amending instruments but none is relevant.
+
+[^f00006]: Footnote: [S.I. 2002/324 (W. 37)](https://www.legislation.gov.uk/wsi/2002/324), regulation 9 was amended and paragraph 5A was inserted into Schedule 2 by [S.I. 2011/1016 (W. 153)](https://www.legislation.gov.uk/wsi/2011/1016); there are other amending instruments but none is relevant.
+
+[^f00007]: Footnote: [S.I. 2002/327 (W. 40)](https://www.legislation.gov.uk/wsi/2002/327), regulation 8(2E) was substituted by [S.I. 2009/2541 (W. 205)](https://www.legislation.gov.uk/wsi/2009/2541); paragraphs (2A) to (2G) were inserted into regulation 26, paragraph 5A was inserted into Schedule 2 and paragraph 2(h) was inserted into Schedule 4 by [S.I. 2007/311 (W. 28)](https://www.legislation.gov.uk/wsi/2007/311).
+
+[^f00008]: Footnote: [S.I. 2002/919 (W. 107)](https://www.legislation.gov.uk/wsi/2002/919), paragraph 16(ea) was inserted into Schedule 1 and paragraph 2A inserted into Schedule 3 by [S.I. 2007/311 (W. 28)](https://www.legislation.gov.uk/wsi/2007/311); paragraph 1(ba) and 2(ca) were inserted into Schedule 1 and paragraph 2B was inserted into Schedule 3 by [S.I. 2011/1016 (W. 153)](https://www.legislation.gov.uk/wsi/2011/1016) and paragraph 2C was inserted into Schedule 3 by [S.I. 2013/225 (W. 30)](https://www.legislation.gov.uk/wsi/2013/225). There are other amending instruments but none is relevant.
+
+[^f00009]: Footnote: [S.I. 2002/1441 (W. 145)](https://www.legislation.gov.uk/wsi/2002/1441), to which there are amendments not relevant to this instrument.
+
+[^f00010]: Footnote: [S.I. 2002/1729 (W. 163)](https://www.legislation.gov.uk/wsi/2002/1729), amended by [S.I. 2005/3238 (W. 243)](https://www.legislation.gov.uk/wsi/2005/3238).
+
+[^f00011]: Footnote: [S.I. 2004/219 (W. 23)](https://www.legislation.gov.uk/wsi/2004/219), regulation 10(6) was inserted and paragraph 6B was inserted into Schedule 2 by [S.I. 2013/225 (W. 30)](https://www.legislation.gov.uk/wsi/2013/225); there are other amending instruments but none is relevant to this instrument.
+
+[^f00012]: Footnote: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389), the definition of “social worker” in regulation 2(1) was amended and regulation 37(2) was amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479), there are other amending instruments but none is relevant to this instrument.
+
+[^f00013]: Footnote: [S.I. 2005/1313 (W. 95)](https://www.legislation.gov.uk/wsi/2005/1313), the definition of “social worker” in regulation 2 was amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479); there are other amending instruments but none is relevant to this instrument.
+
+[^f00014]: Footnote: [S.I. 2005/3390](https://www.legislation.gov.uk/uksi/2005/3390).
+
+[^f00015]: Footnote: [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236) to which there are amendments not relevant to this instrument.
+
+[^f00016]: Footnote: [S.I. 2007/307 (W. 26)](https://www.legislation.gov.uk/wsi/2007/307), regulation 3 was amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
+
+[^f00017]: Footnote: [S.I. 2007/1253](https://www.legislation.gov.uk/uksi/2007/1253), regulation 8 was amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
+
+[^f00018]: Footnote: [S.I. 2007/1357 (W.128)](https://www.legislation.gov.uk/wsi/2007/1357) to which there are amendments not relevant to this instrument.
+
+[^f00019]: Footnote: [S.I. 2008/1206](https://www.legislation.gov.uk/uksi/2008/1206), regulations 2 and 3 were amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479), there are other amending instruments but none is relevant to this instrument.
+
+[^f00020]: Footnote: [S.I. 2008/2436 (W. 209)](https://www.legislation.gov.uk/wsi/2008/2436), Schedule 1 was amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479), there are other amending instruments but none is relevant to this instrument.
+
+[^f00021]: Footnote: [S.I. 2009/395](https://www.legislation.gov.uk/uksi/2009/395). The definition of “social worker” in regulation 2 was amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479); there are other amending instruments but none is relevant to this instrument.
+
+[^f00022]: Footnote: [S.I. 2009/783 (W. 69)](https://www.legislation.gov.uk/wsi/2009/783). Regulation 5 was amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
+
+[^f00023]: Footnote: [S.I. 2010/746 (W. 75)](https://www.legislation.gov.uk/wsi/2010/746). The definition of “social worker” in regulation 2 was amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
+
+[^f00024]: Footnote: [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959), amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
+
+[^f00025]: Footnote: [S.I. 2011/581](https://www.legislation.gov.uk/uksi/2011/581), amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
+
+[^f00026]: Footnote: [S.I. 2011/582](https://www.legislation.gov.uk/uksi/2011/582), amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479); there are other amending instruments but none is relevant to this instrument.
+
+[^f00027]: Footnote: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986), to which there are amendments not relevant this instrument.
+
+[^f00028]: Footnote: [S.I. 2011/2942 (W. 318)](https://www.legislation.gov.uk/wsi/2011/2942), amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
+
+[^f00029]: Footnote: [S.I. 2012/1305 (W. 166)](https://www.legislation.gov.uk/wsi/2012/1305), amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
+
+[^f00030]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917), to which there are amendments not relevant to this instrument.
+
+[^f00031]: Footnote: [S.I. 2014/829](https://www.legislation.gov.uk/uksi/2014/829), to which there are amendments not relevant to this instrument.
+
+[^f00032]: Footnote: [S.I. 2015/54 (W. 5)](https://www.legislation.gov.uk/wsi/2015/54).
+
+[^f00033]: Footnote: [S.I. 2015/1479](https://www.legislation.gov.uk/uksi/2015/1479), to which there are amendments not relevant to this instrument.
+
+[^f00034]: Footnote: [S.I. 2015/1536](https://www.legislation.gov.uk/uksi/2015/1536).
+
+[^f00035]: Footnote: [S.I. 2015/1818 (W. 261)](https://www.legislation.gov.uk/wsi/2015/1818).
+
+[^f01000]: Footnote: (1)
+
+    These Regulations lapsed in relation to England with effect from 1 August 2012 (*see* [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), article 2(1), (4)).

@@ -1,0 +1,45 @@
+---
+title: Well-being of Future Generations (Wales) Act 2015, section 54
+act: Well-being of Future Generations (Wales) Act 2015
+section: '54'
+status: revised-with-pending-changes
+text_date: '2024-08-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2015/2/section/54
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Well-being of Future Generations (Wales) Act 2015, section 54
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2024-08-01. See https://www.legislation.gov.uk/changes/affected/anaw/2015/2
+>
+> Extent: England, Wales.
+
+## 54. Regulations
+
+*Extent: E+W*
+
+(1) A power to make regulations under this Act includes—
+
+- (a) power to make different provision for different purposes or areas;
+- (b) power to make such incidental, consequential, transitional or supplemental provision as the Welsh Ministers consider appropriate.
+
+(2) Any power of the Welsh Ministers to make regulations under this Act is exercisable by statutory instrument.
+
+(3) A statutory instrument containing provision such as is mentioned in subsection (1)(b) may, in the case of regulations under section 33(1), 40(3) or 52(1), contain provision amending an enactment contained in or an instrument made under—
+
+- (a) an Act of Parliament;
+- (b) a Measure or Act of the National Assembly (including this Act).
+
+(4) A statutory instrument containing any of the following (whether alone or with any other provision)—
+
+- (a) regulations under section 40(3) or 52(1),
+- (b) regulations under section 33(1) that amend section 29(2) or 30(1), or
+- (c) regulations under section 53 that amend or repeal a provision of an Act of Parliament or of a Measure or Act of the National Assembly,
+
+may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly.
+
+(5) Any other statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of the National Assembly.
+
+(6) The reference in subsection (3) to an enactment includes a reference to an enactment passed or made after the passing of this Act.

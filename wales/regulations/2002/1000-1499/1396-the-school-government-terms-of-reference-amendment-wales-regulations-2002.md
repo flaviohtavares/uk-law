@@ -1,0 +1,106 @@
+---
+title: The School Government (Terms of Reference) (Amendment) (Wales) Regulations 2002
+id: wsi/2002/1396
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-05-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2002/1396
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2002/1396/pdfs/wsi_20021396_mi.pdf
+- http://www.legislation.gov.uk/wsi/2002/1396/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Government (Terms of Reference) (Amendment) (Wales) Regulations 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 1396 (W.138)
+
+EDUCATION, WALES
+
+The School Government (Terms of Reference) (Amendment) (Wales) Regulations 2002
+
+Made
+
+21st May 2002
+
+Coming into force
+
+30th September 2002
+
+The National Assembly for Wales makes the following Regulations in exercise of the powers conferred on the Secretary of State by sections 38(3) and 138(7) and (8) of the School Standards and Framework Act 1998[^f00001] and now vested in the National Assembly for Wales[^f00002].
+
+**1.** (1) These Regulations may be cited as the School Government (Terms of Reference) (Amendment) (Wales) Regulations 2002 and shall come into force on 30th September 2002.
+
+(2) These Regulations apply only in relation to Wales.
+
+**2.** (1) The School Government (Terms of Reference) (Wales) Regulations 2000[^f00003] are amended as follows.
+
+(2) In regulation 2(1) before the definition of “school year” insert the following—
+
+> - “school teacher” (“*athro ysgol*”) means a teacher employed at no more than two schools, by a local education authority or by the governing body of a foundation, voluntary aided or foundation special school, but does not include a teacher employed under a fixed term contract of employment the term of which is less than one year;
+
+.
+
+(3) After regulation 9 there shall be inserted the following regulation—
+
+> **10. The Performance Management Policy**
+>
+> (1) The governing body shall, no later than 30th November 2002 establish a written policy (“the Performance Management Policy”) setting out how school teacher appraisal at the school is to be implemented.
+>
+> (2) In this regulation “school teacher appraisal” means the system of appraisal of head teachers and other school teachers governed by regulations made under section 49 of the Education (No. 2) Act 1986[^f00004] (“the Appraisal Regulations”).
+>
+> (3) If directed to do so by the governing body, the head teacher shall formulate a Performance Management Policy.
+>
+> (4) The governing body shall consider and adopt, with or without modifications, or reject, a Performance Management Policy formulated by the head teacher in pursuance of paragraph (3).
+>
+> (5) The governing body shall review the Performance Management Policy every school year.
+>
+> (6) Following such review, the governing body shall, if they see fit, amend the Performance Management Policy.
+>
+> (7) Before establishing the Performance Management Policy in accordance with paragraph (1), or amending it in accordance with paragraph (6), the governing body shall secure that all school teachers at the school are consulted.
+>
+> (8) If directed to do so by the governing body, the head teacher shall consult all other school teachers at the school about the formulation of a Performance Management Policy or the amendment of the Performance Management Policy.
+>
+> (9) The head teacher and the governing body shall implement the Performance Management Policy.
+>
+> (10) The governing body shall make a copy of the Performance Management Policy available for inspection at the school at any reasonable time by—
+>
+> - (a) any school teacher employed at the school;
+> - (b) any person involved in the inspection of the operation of the school teacher appraisal system;
+> - (c) any appraiser appointed in accordance with the Appraisal Regulations.
+
+.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00005]
+
+D. Elis-Thomas
+
+The Presiding Officer of the Assembly
+
+21st May 2002
+
+(This note is not part of the Regulations)
+
+These Regulations amend the School Government (Terms of Reference) (Wales) Regulations 2000, which lay down a number of principles which are to serve as terms of reference for governing bodies and also provide for the respective roles and responsibilities of governing bodies and head teachers.
+
+The amendments confer particular duties on a governing body and head teacher in respect of the establishment of a performance management policy for a school. This is a policy document for a school which sets out how school teacher appraisal at the school is to be implemented. It complements the statutory framework for the appraisal of school teachers.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31); for the meaning of “regulations” *see* section 142(1).
+
+[^f00002]: Footnote: The functions of the Secretary of State were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
+
+[^f00003]: Footnote: [S.I. 2000/ 3027 (W.195 )](https://www.legislation.gov.uk/wsi/2000/3027).
+
+[^f00004]: Footnote: [1986. c.61](https://www.legislation.gov.uk/ukpga/1986/61). Section 49 is amended by paragraphs 36 and 101 of Schedule 12 to the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), by paragraph 23 of Schedule 8 to the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13) and by paragraph 14 of Schedule 30 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31). The regulations in force under section 49 at the time of making these Regulations were the Education (School Teacher Appraisal) (Wales) Regulations 1999, [S.I.1999/2888 (W.25)](https://www.legislation.gov.uk/wsi/1999/2888).
+
+[^f00005]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

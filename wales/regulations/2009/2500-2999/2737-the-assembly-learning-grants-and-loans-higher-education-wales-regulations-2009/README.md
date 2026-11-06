@@ -1,0 +1,309 @@
+---
+title: The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2009
+id: wsi/2009/2737
+type: WelshStatutoryInstrument
+category: secondary
+status: repealed
+made_date: '2009-10-12'
+text_date: '2017-02-17'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2009/2737
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2009/2737/pdfs/wsi_20092737_mi.pdf
+- http://www.legislation.gov.uk/wsi/2009/2737/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2009
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 2737 (W.235)
+
+EDUCATION, WALES
+
+The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2009 (revoked)
+
+Made
+
+12 October 2009
+
+Laid before the National Assembly for Wales
+
+14 October 2009
+
+Coming into force
+
+5 November 2009
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-d2afbffe976723b8790a79c344d3354a]
+
+## Contents
+
+### PART 1 — GENERAL[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 1 — Title, commencement and application](part-1/section-1.md)
+- [Section 2 — Interpretation](part-1/section-2.md)
+- [Section 3 — Revocation, savings and transitional provisions](part-1/section-3.md)
+
+### PART 2 — ELIGIBILITY[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 4 — Eligible students](part-2/section-4.md)
+- [Section 5 — Designated courses](part-2/section-5.md)
+- [Section 6 — Period of eligibility](part-2/section-6.md)
+- [Section 7 — Previous study](part-2/section-7.md)
+- [Section 8 — Transfer of status](part-2/section-8.md)
+
+### PART 3 — APPLYING FOR SUPPORT AND PROVISION OF INFORMATION[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 9 — Applications for support](part-3/section-9.md)
+- [Section 10 — Time limits](part-3/section-10.md)
+- [Section 11 — Information](part-3/section-11.md)
+- [Section 12 — Requirement to enter into a contract for a loan](part-3/section-12.md)
+
+### PART 4 — GRANTS AND LOANS FOR FEES[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+#### CHAPTER 1 — GENERAL PROVISION[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 13 — Fee Support Generally](part-4/section-13.md)
+- [Section 14 — Students becoming eligible during the course of an academic year](part-4/section-14.md)
+- [Section 15 — Events](part-4/section-15.md)
+
+#### CHAPTER 2 — GRANTS FOR FEES[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 16 — Grants for fees: qualifying conditions for old system eligible students](part-4/section-16.md)
+- [Section 17 — Amount of grants for fees at a publicly funded institution and at a private institution on behalf of a publicly funded institution: old system eligible students](part-4/section-17.md)
+- [Section 18 — Amount of the grant for fees at a private institution: old system eligible students](part-4/section-18.md)
+- [Section 19 — New fee grant](part-4/section-19.md)
+
+#### CHAPTER 3 — LOANS FOR FEES[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 20 — General qualifying conditions for loans for fees](part-4/section-20.md)
+- [Section 21 — Fee contribution loans (for old system eligible students)](part-4/section-21.md)
+- [Section 22 — Fee loans: new system eligible students not qualifying for new fee grant](part-4/section-22.md)
+- [Section 23 — Fee loans: Students qualifying for new fee grant](part-4/section-23.md)
+
+### PART 5 — GRANTS FOR LIVING COSTS[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 24 — General qualifying conditions for grants for living costs](part-5/section-24.md)
+- [Section 25 — Grants for disabled students' living costs](part-5/section-25.md)
+- [Section 26 — Grants for dependants — general](part-5/section-26.md)
+- [Section 27 — Grants for dependants — adult dependants' grant](part-5/section-27.md)
+- [Section 28 — Grants for dependants — childcare grant](part-5/section-28.md)
+- [Section 29 — Grants for dependants — parents' learning allowance](part-5/section-29.md)
+- [Section 30 — Grants for dependants — calculations](part-5/section-30.md)
+- [Section 31 — Grants for dependants — interpretation](part-5/section-31.md)
+- [Section 32 — Qualifying conditions for the grant for travel](part-5/section-32.md)
+- [Section 33 — Amount of the grant for travel](part-5/section-33.md)
+- [Section 34 — Deductions from the grant for travel](part-5/section-34.md)
+- [Section 35 — Interpretation](part-5/section-35.md)
+- [Section 36 — Higher education grants](part-5/section-36.md)
+- [Section 37 — Maintenance grant](part-5/section-37.md)
+- [Section 38 — Maintenance grant — new system eligible students who are not 2010 cohort students](part-5/section-38.md)
+- [Section 39 — Maintenance grant — new system eligible students who are 2010 cohort students](part-5/section-39.md)
+- [Section 40 — Special support grant](part-5/section-40.md)
+- [Section 41 — Special support grant — new system eligible students who are not 2010 cohort students](part-5/section-41.md)
+- [Section 42 — Special support grant — new system eligible students who are 2010 cohort students](part-5/section-42.md)
+
+### PART 6 — LOANS FOR LIVING COSTS[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 43 — Qualifying conditions for loans for living costs](part-6/section-43.md)
+- [Section 44 — General](part-6/section-44.md)
+- [Section 45 — Maximum amount of loans for old system eligible students with full entitlement](part-6/section-45.md)
+- [Section 46 — Maximum amount of loans for new system eligible students with full entitlement who are not 2010 cohort students](part-6/section-46.md)
+- [Section 47](part-6/section-47.md)
+- [Section 48 — Maximum amount of loans for new system eligible students with full entitlement who are 2010 cohort students](part-6/section-48.md)
+- [Section 49 — Students with reduced entitlement](part-6/section-49.md)
+- [Section 50 — Students residing with parents](part-6/section-50.md)
+- [Section 51 — Loans for living costs payable in respect of three quarters of the academic year](part-6/section-51.md)
+- [Section 52 — Students falling into more than one category](part-6/section-52.md)
+- [Section 53 — Students becoming eligible during the course of an academic year](part-6/section-53.md)
+- [Section 54 — Increases in maximum amount](part-6/section-54.md)
+- [Section 55 — Deductions from loans for living costs](part-6/section-55.md)
+- [Section 56 — Interpretation of Part 6](part-6/section-56.md)
+
+### PART 7 — GENERAL LOAN PROVISIONS[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 57 — Additional amount of loans](part-7/section-57.md)
+
+### PART 8 — COLLEGE FEE LOANS[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 58](part-8/section-58.md)
+
+### PART 9 — FINANCIAL ASSESSMENT[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 59 — Calculation of contribution](part-9/section-59.md)
+- [Section 60 — Application of contribution](part-9/section-60.md)
+
+### PART 10 — PAYMENTS[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 61 — Payment of grants or loans for fees](part-10/section-61.md)
+- [Section 62 — Payment of grants for living costs](part-10/section-62.md)
+- [Section 63 — Provision of United Kingdom national insurance number](part-10/section-63.md)
+- [Section 64 — Information requirements](part-10/section-64.md)
+- [Section 65 — Payment of loans for living costs](part-10/section-65.md)
+- [Section 66 — Overpayments](part-10/section-66.md)
+- [Section 67 — Payments — interpretation](part-10/section-67.md)
+
+### PART 11 — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 68 — Eligible distance learning students](part-11/section-68.md)
+- [Section 69 — Students becoming eligible during the course of the academic year](part-11/section-69.md)
+- [Section 70 — Designated distance learning courses](part-11/section-70.md)
+- [Section 71 — Period of eligibility](part-11/section-71.md)
+- [Section 72 — Support for distance learning courses](part-11/section-72.md)
+- [Section 73 — Amount of support](part-11/section-73.md)
+- [Section 74 — Interpretation of regulation 73](part-11/section-74.md)
+- [Section 75 — Grant for disabled distance learning students' living costs](part-11/section-75.md)
+- [Section 76 — Applications for support](part-11/section-76.md)
+- [Section 77 — Declarations provided by academic authorities](part-11/section-77.md)
+- [Section 78 — Information](part-11/section-78.md)
+- [Section 79 — Transfer of status](part-11/section-79.md)
+- [Section 80 — Conversion of status — eligible students transferring to designated distance learning courses](part-11/section-80.md)
+- [Section 81 — Conversion of status — eligible distance learning students transferring to designated courses](part-11/section-81.md)
+- [Section 82 — Payment of grants for fees](part-11/section-82.md)
+- [Section 83 — Payment of grants for books, travel and other expenditure and grants for disabled distance learning students' living costs](part-11/section-83.md)
+- [Section 84 — Overpayments](part-11/section-84.md)
+
+### PART 12 — SUPPORT FOR PART-TIME COURSES[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 85 — Eligible part-time students](part-12/section-85.md)
+- [Section 86 — Designated part-time courses](part-12/section-86.md)
+- [Section 87 — Period of eligibility](part-12/section-87.md)
+- [Section 88 — Support for part-time courses](part-12/section-88.md)
+- [Section 89 — Grants for disabled part-time students' living costs](part-12/section-89.md)
+- [Section 90 — Part-time grants for dependants — general](part-12/section-90.md)
+- [Section 91](part-12/section-91.md)
+- [Section 92 — Part-time adult dependants' grant](part-12/section-92.md)
+- [Section 93 — Part-time childcare grant](part-12/section-93.md)
+- [Section 94 — Part-time parents' learning allowance](part-12/section-94.md)
+- [Section 95 — Part-time grants for dependants — initial calculations](part-12/section-95.md)
+- [Section 96 — Part-time grants for dependants — interpretation](part-12/section-96.md)
+- [Section 97 — Part-time grants for dependants — calculation of contribution](part-12/section-97.md)
+- [Section 98 — Part-time grants for dependants — application of contribution](part-12/section-98.md)
+- [Section 99 — Part-time grants for dependants — final calculation](part-12/section-99.md)
+- [Section 100 — Applications for support](part-12/section-100.md)
+- [Section 101 — Assistance with fees in respect of attendance on a course in England, Northern Ireland or Scotland](part-12/section-101.md)
+- [Section 102 — Information and other matters](part-12/section-102.md)
+- [Section 103 — Transfer of status](part-12/section-103.md)
+- [Section 104 — Conversion of status](part-12/section-104.md)
+- [Section 105 — Payment of support to eligible part-time students](part-12/section-105.md)
+- [Section 106](part-12/section-106.md)
+- [Section 107 — Payment of grants for fees](part-12/section-107.md)
+- [Section 108 — Overpayments](part-12/section-108.md)
+
+### PART 13 — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 109 — Eligible postgraduate students](part-13/section-109.md)
+- [Section 110 — Designated postgraduate courses](part-13/section-110.md)
+- [Section 111 — Period of eligibility](part-13/section-111.md)
+- [Section 112 — Transfer of status](part-13/section-112.md)
+- [Section 113 — Applications for support](part-13/section-113.md)
+- [Section 114 — Information](part-13/section-114.md)
+- [Section 115 — Amount of grant](part-13/section-115.md)
+- [Section 116 — Payment of grant](part-13/section-116.md)
+- [Section 117 — Overpayments](part-13/section-117.md)
+
+### PART 14 — AMENDMENT OF THE 2008 (No. 2) REGULATIONS[^key-a81c12180d050b83c8aa5002982e3a1d]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+- [Section 118 — Amendment of the 2008 (No. 2) Regulations](part-14/section-118.md)
+
+- [SCHEDULE 1](schedule-1.md)
+- [SCHEDULE 2](schedule-2.md)
+- [SCHEDULE 3](schedule-3.md)
+- [SCHEDULE 4](schedule-4.md)
+- [SCHEDULE 5](schedule-5.md)
+- [SCHEDULE 6](schedule-6.md)
+
+*Extent: E+W*
+
+**No longer in force.**
+
+[^key-a81c12180d050b83c8aa5002982e3a1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*Extent: E+W*
+
+**May not be in force at this date. Check the source.**
+
+[^key-a81c12180d050b83c8aa5002982e3a1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-d2afbffe976723b8790a79c344d3354a]: Textual amendment: Regulations revoked (with savings) (1.9.2011) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2011 (S.I. 2011/148)](https://www.legislation.gov.uk/uksi/2011/148), [reg. 3(1)(9)(11)](https://www.legislation.gov.uk/uksi/2011/148/regulation/3/1/9/11); and Regulations (as saved) continued (17.2.2017) by [The Education (Student Support) (Wales) Regulations 2017 (S.I. 2017/47)](https://www.legislation.gov.uk/uksi/2017/47), [reg. 3(9)](https://www.legislation.gov.uk/uksi/2017/47/regulation/3/9) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/47/regulation/1/3), [3(16)](https://www.legislation.gov.uk/uksi/2017/47/regulation/3/16)) (as amended (12.3.2018) by [S.I. 2018/191](https://www.legislation.gov.uk/uksi/2018/191), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2018/191/regulation/2), [100](https://www.legislation.gov.uk/uksi/2018/191/regulation/100), [Sch. 6 paras. 2-4](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/2))
+
+[^key-a81c12180d050b83c8aa5002982e3a1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2737) revoked (1.9.2011) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2011 (S.I. 2011/148)](https://www.legislation.gov.uk/wsi/2011/148), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/1) (with [reg. 3(9)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/9)[(11)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/11))

@@ -1,0 +1,90 @@
+---
+title: The Teachers (Compulsory Registration) (Wales) Regulations 2000
+id: wsi/2000/3122
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-11-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2000/3122
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2000/3122/pdfs/wsi_20003122_mi.pdf
+- http://www.legislation.gov.uk/wsi/2000/3122/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Teachers (Compulsory Registration) (Wales) Regulations 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 3122 (W. 200 )
+
+EDUCATION, WALES
+
+The Teachers (Compulsory Registration) (Wales) Regulations 2000
+
+Made
+
+23rd November 2000
+
+Coming into force
+
+1st February 2001
+
+In exercise of the powers conferred on the Secretary of State by Section 218(1)(aa) of the Education Reform Act 1988[^f00001] and now vested in the National Assembly for Wales[^f00002] the National Assembly for Wales makes the following Regulations:
+
+## 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Teachers (Compulsory Registration) (Wales) Regulations 2000 and shall come into force on 1<sup>st</sup> February 2001.
+
+(2) These Regulations apply only to Wales.
+
+## 2. Compulsory registration with the General Teaching Council for Wales
+
+(1) Subject to paragraph (2), no person who is a qualified teacher shall be employed as a teacher at a school in Wales unless that person is registered in accordance with section 3 of the Teaching and Higher Education Act 1998[^f00003], by the General Teaching Council for Wales.
+
+(2) Paragraph (1) does not apply in relation to a person employed as a teacher at a school if that person is employed solely in the provision of –
+
+- (a) part-time education to persons over compulsory school age only; or
+- (b) full-time education to persons who have attained the age of 19 years only; or
+- (c) both such part-time and full-time education.
+
+(3) In this regulation —
+
+- (a) “qualified teacher” has the same meaning as in section 218(2) of the Education Reform Act 1988[^f00004];
+- (b) references to a person employed as a teacher include references to a person who is engaged to provide his or her services as a teacher otherwise than under a contract of employment; and
+- (c) references to a school are references:
+  - (i) to a school maintained by a local education authority within the meaning of section 142(1) of the School Standards and Framework Act 1998[^f00005]; or
+  - (ii) to a special school within the meaning of section 337(1) of the Education Act 1996[^f00006] which is not so maintained.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998 [^f00007].
+
+John Marek
+
+The Deputy Presiding Officer of the National Assembly
+
+23rd November 2000
+
+(This note does not form part of the Regulations)
+
+These regulations provide that no qualified teachers, save for certain exceptions, are to be employed in maintained schools or in non-maintained special schools unless they are registered by the General Teaching Council for Wales.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40). Section 218(1)(aa) was inserted by section 11 of the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30).
+
+[^f00002]: Footnote: The functions of the Secretary of State under section 218 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([SI 1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
+
+[^f00003]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30).
+
+[^f00004]: Footnote: At the time of making these Regulations, the regulations in force for Wales under this provision were the Education (Teachers' Qualifications and Health Standards) (Wales) Regulations 1999 (S.I. [1999/2817 (W.18)](https://www.legislation.gov.uk/wsi/1999/2817)); at the time of making these Regulations, the regulations in force for England under this provision were the Education (Teachers' Qualifications and Health Standards) (England) Regulations 1999 (S.I. [1999/2166](https://www.legislation.gov.uk/uksi/1999/2166)).
+
+[^f00005]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^f00006]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 337(1) is amended by paragraph 80 of Schedule 30 to the School Standards and Framework Act 1998.
+
+[^f00007]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

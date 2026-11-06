@@ -1,0 +1,79 @@
+---
+title: Building Safety (Wales) Act 2026, section 136
+act: Building Safety (Wales) Act 2026
+section: '136'
+status: revised-with-pending-changes
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/5/section/136
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Safety (Wales) Act 2026, section 136
+
+> **Warning: changes not yet applied to this text (157).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/asc/2026/5
+>
+> Extent: England, Wales.
+
+## 136. Interpretation[^key-46e5f827a2406b9e36f4eb6e1d182500]
+
+*Extent: E+W*
+
+(1) In this Act—
+
+- “**accountable person**” (“***person atebol***”), in relation to a regulated building, has the meaning given by section 8;
+- “**adult resident**” (“***preswylydd sy’n oedolyn***”) means a resident aged 18 or over;
+- “**building certificate**” (“***tystysgrif adeilad***”) means a certificate issued under section 44;
+- “**building control approval**” (“***cymeradwyaeth rheolaeth adeiladu***”) has the meaning given by paragraph 1B of Schedule 1 to the Building Act [1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55);
+- “building safety authority (“***awdurdod diogelwch adeiladau***”), and references to the building safety authority for a regulated building, are to be interpreted in accordance with section 122;‍
+- “**category 1 building**” (“***adeilad categori 1***”), “**category 2 building**” (“***adeilad categori 2***”) and “**category 3 building**” (“***adeilad categori 3***”) are to be interpreted in accordance with sections 6 and 7;
+- “**common parts**” (“***rhannau cyffredin***”), in relation to a regulated building, has the meaning given by section 13;
+- “**compliance notice**” (“***hysbysiad cydymffurfio***”) means a notice given under section 96;
+- “**the Crown**” (“***y Goron***”) is to be treated as including the Senedd Commission;
+- “**Crown premises**” (“***mangreoedd y Goron***”) means premises owned, or occupied for any purpose, by the Crown;
+- “**duty holder**” (“***deiliad dyletswydd***”), in relation to a relevant HMO, has the meaning given by section 79;
+- “**enactment**” (“***deddfiad***”) includes any enactment whenever passed or made;
+- “**enforcing authority**” (“***awdurdod gorfodi***”) has the meaning given by section 94(4);
+- “**fire**” (“***tân***”) includes heat, flames, smoke and other gases or substances emitted by a fire;
+- “**fire risk assessment**” (“***asesiad risg tân***”) has the meaning given by section 29(3);
+- “**fire safety authority**” (“***awdurdod diogelwch tân***”), and references to the fire safety authority for a regulated building or a relevant HMO, are to be interpreted in accordance with section 126;
+- “**the Fire Safety Order**” (“***y Gorchymyn Diogelwch Tân***”) means the Regulatory Reform (Fire Safety) Order 2005 ([S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541));
+- “**fire safety risk**” (“***risg diogelwch tân***”)—
+  - (a) in relation to a regulated building, has the meaning given by section 27(2);
+  - (b) in relation to a relevant HMO, has the meaning given by section 80;
+- “**HMO fire risk assessment**” (“***asesiad risg tân ar dy amlfeddiannaeth***”) has the meaning given by section 81(2);
+- “**information notice**” (“***hysbysiad gwybodaeth***”) means a notice given under section 95;
+- “**landlord**” (“***landlord***”), in relation to a relevant HMO, has the meaning given by section 79;
+- “**local housing authority**” (“***awdurdod tai lleol***”) and “**the local housing authority**” (“***yr awdurdod tai lleol***”) have the meanings given by section 261 of the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34);
+- “**occupied**” (“***wedi ei feddiannu***”), in relation to a regulated building, means that there are residents of more than one residential unit in the building;
+- “**occurrence recording system**” (“***system cofnodi achlysuron***”) means a system established and operated under section 38;
+- “**owner**” (“***perchennog***”), in relation to a residential unit or any other premises, means a person who—
+  - (a) is for the time being receiving the rackrent of the premises, whether directly or through an agent or trustee, or
+  - (b) would so receive the rackrent if the premises were let at a rackrent,
+
+  and for this purpose “**rackrent**” has the meaning given by section 126 of the Building Act [1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55);
+- “**planning permission**” (“***caniatâd cynllunio***”) has the meaning given by section 336(1) of the Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8);
+- “**principal accountable person**” (“***prif berson atebol***”), in relation to a regulated building, has the meaning given by section 9;
+- “**prohibition notice**” (“***hysbysiad gwahardd***”) means a notice given under section 98;
+- “**registered**” (“***cofrestredig***”), in relation to a category 1 building or a category 2 building, means registered under section 20;
+- “**registered social landlord**” (“***landlord cymdeithasol cofrestredig***”) means a body registered as a social landlord under Chapter 1 of Part 1 of the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52);
+- “**regulated building**” (“***adeilad rheoleiddiedig***”) is to be interpreted in accordance with sections 2 and 7;
+- “**relevant HMO**” (“***tŷ amlfeddiannaeth perthnasol***”) is to be interpreted in accordance with section 78;
+- “**resident**” (“***preswylydd***”), in relation to a regulated building or a part of such a building, means a resident of a residential unit in the building or part;
+- “**residential unit**” (“***uned breswyl***”) has the meaning given by section 5;
+- “**residents’ engagement strategy**” (“***strategaeth ymgysylltu â phreswylwyr***”) has the meaning given by section 40(2);
+- “**responsible person**” (“***person cyfrifol***”) has the meaning given by article 3 of the Fire Safety Order;
+- “**safety case report**” (“***adroddiad achos diogelwch***”) has the meaning given by section 37(2);
+- “**special measures manager**” (“***rheolwr mesurau arbennig***”) means a person appointed by a special measures order;
+- “**special measures order**” (“***gorchymyn mesurau arbennig***”) means an order under section 109;
+- “**structural risk assessment**” (“***asesiad risg strwythurol***”) has the meaning given by section 34(2);
+- “**structural safety risk**” (“***risg diogelwch strwythurol***”) has the meaning given by section 27(3).
+
+(2) In this Act, references to the part of a regulated building for which an accountable person is responsible are to be interpreted in accordance with section 16.
+
+(3) The Welsh Ministers may by regulations make provision about the meaning of being a “resident” of a residential unit.
+
+## Annotations
+
+[^key-46e5f827a2406b9e36f4eb6e1d182500]: Commencement: S. 136 in force at 28.4.2026, see [s. 138(1)(c)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/c)

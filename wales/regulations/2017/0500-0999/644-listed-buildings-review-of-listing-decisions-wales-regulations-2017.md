@@ -1,0 +1,486 @@
+---
+title: Listed Buildings (Review of Listing Decisions) (Wales) Regulations 2017
+id: wsi/2017/644
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-05-04'
+text_date: '2024-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2017/644
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2017/644/pdfs/wsi_20170644_mi.pdf
+- http://www.legislation.gov.uk/wsi/2017/644/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Listed Buildings (Review of Listing Decisions) (Wales) Regulations 2017
+
+> Text as at 2024-11-04.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+The Statutory Instrument has been published in substitution of the SI of the same number and is being issued free of charge to all known recipients of that Statutory Instrument
+
+2017 No. 644 (W. 150)
+
+Town And Country Planning, Wales
+
+Listed Buildings (Review of Listing Decisions) (Wales) Regulations 2017
+
+Made
+
+4 May 2017
+
+Laid before the National Assembly for Wales
+
+8 May 2017
+
+Coming into force
+
+31 May 2017
+
+The Welsh Ministers, in exercise of the powers conferred on them by section 2D of, and Schedule 1B to, the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00001], and the powers conferred on the Secretary of State by section 93 of that Act and now exercisable by the Welsh Ministers[^f00002], make the following Regulations:
+
+## PART 1 — Preliminary
+
+### 1. Title, commencement and application[^key-b4a5491062b8ded27e207e89ac8ccfa8]
+
+(1) The title of these Regulations is the Listed Buildings (Review of Listing Decisions) (Wales) Regulations 2017 and they come into force on 31 May 2017.
+
+(2) These Regulations apply to Wales.
+
+(3)[^key-bcb7ea91785656480c20bc20d87cb73f] These Regulations form part of a code of law relating to the historic environment of Wales.
+
+### 2. Interpretation[^key-9899fa2909a7a56b955c6fc8bc659927]
+
+In these Regulations—
+
+- “the 2023 Act” (“Deddf 2023”) means the Historic Environment (Wales) Act 2023;[^key-939362026723c7a7a4f1d637d9fb10ca]
+- “applicant” (“*ceisydd*”) means the owner or occupier of the building making an application for a review;
+- “appointed person” (“*person penodedig*”) means a person appointed by the Welsh Ministers under section 81(3) of the 2023 Act[^key-cd75a22aaaf35761729cb3c2273cb825];
+- “hearing” (“*gwrandawiad*”) means a hearing held under section 82(2)(b) of the 2023 Act[^key-7e004d0d28106ebc1180dda21724cb40] (review of certain listing decisions);
+- “inquiry” (“*ymchwiliad*”) means a local inquiry held under section 82(2)(a) of the 2023 Act;[^key-ef30a572df1b450fea2ef990c6b57357];
+- “inquiry statement” (“*datganiad ymchwiliad*”) has the meaning given in regulation 17(1)(a);
+- “interested person” (“*person â buddiant*”) means any person, other than the applicant, notified under section 78 of the 2023 Act (consultation before listing or de-listing building)[^key-212bb11aa6abd06346814136d7b0c069] about the Welsh Ministers’ proposal to include the building to which a review relates in a list;
+- “list” (“*rhestr*”) means a list of buildings of special architectural or historic interest maintained under section 76 of the 2023 Act (duty to maintain and publish list of buildings)[^key-8cbfd45fd8e80a812c1927ddc79fd426];
+- “review” (“*adolygiad*”) means a review carried out under section 81 of the 2023 Act[^key-c4ace950169644492f8e3c5191ea4d3c];
+- “specified matters” (“*materion penodedig*”) are, in relation to a review carried out by means of a hearing or an inquiry, the matters as specified by the appointed person to be considered at the hearing or inquiry;
+- “starting date” (“*dyddiad dechrau*”) has the meaning given in regulation 6(1)(a);
+- “the Welsh Ministers’ review statement” (“*datganiad Gweinidogion Cymru ar yr adolygiad*”) has the meaning given in regulation 8(1).
+
+## PART 2 — Initial Procedure: Decisions by appointed person, grounds for review and applications for review
+
+### 3. Classes of review to be decided by an appointed person[^key-c95ebbde9f2404e0d617ba366b141738]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Grounds for review[^key-524ca797ebcd8a58be3d0b7d33f4b945]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Applications for review[^key-e31458f5c04db9e057579f14a28b9c59]
+
+(1) An application for a review must be made to the Welsh Ministers in accordance with this regulation.
+
+(2) An application must consist of—
+
+- (a) the form published by the Welsh Ministers (or a form substantially to the like effect), including—
+  - (i) the name of the listed building to which the application relates;
+  - (ii) the address of the listed building or a description of the location of the land on which it is situated;
+  - (iii) the name and address of the applicant;
+  - (iv) a statement confirming whether the applicant is an owner or an occupier of the building;
+  - (v) the name and address of the representative of the applicant (if any) and confirmation as to whether any notice or other correspondence which is required by these Regulations to be sent to the applicant should be sent to the representative instead of the applicant;
+  - (vi) a statement setting out the full particulars of the grounds for the review, including all the matters which the applicant intends to raise in the course of the review and which the applicant considers the appointed person should take into account in carrying out the review;
+  - (vii) a statement as to which of the ways (or combination of ways) mentioned in section 82(2) of the 2023 Act[^key-f73a0b7fe856278d66e3d8fd3f52bea1] the applicant considers the review should be carried out; and
+- (b) the following—
+  - (i) all documents, materials and evidence which the applicant intends to rely on in the course of the review;
+  - (ii) a copy of the notice served by the Welsh Ministers in relation to the listed building under section 77(1) of the 2023 Act[^key-c9aa8b5e1b3672ef630e9d7ca3d5271f];
+  - (iii) where the applicant is not an owner of the listed building but an owner is known to the applicant, a certificate confirming that the owner of the listed building has been informed of the applicant’s intention to request the review;
+  - (iv) where the applicant is not an owner of the listed building and an owner is not known to the applicant, a signed certificate confirming that the applicant has taken all reasonable steps to identify any such owner but has been unable to do so.
+
+(3) An application must be made within the period of 12 weeks beginning with the date on which notice was served on an owner or occupier of the building under section 77(1) of the 2023 Act[^key-b083e3941b1693075f6e18a5a9af0f6f].
+
+### 6. Notification of receipt of application for review and related requirements[^key-f358797f7b706cabcf0bf31a739dcfca]
+
+(1) The appointed person must as soon as practicable after receiving an application in accordance with regulation 5 advise the applicant and the Welsh Ministers in writing of—
+
+- (a) the date on which the review is to begin (“the starting date”);
+- (b) the reference number allocated to the review; and
+- (c) the address to which written communications about the review are to be sent.
+
+(2) The Welsh Ministers must within the period of three working days beginning with the day on which they received notification under paragraph (1) send to the applicant and the appointed person a copy of any representation previously made to the Welsh Ministers under section 78 of the 2023 Act[^key-a1f7f79b41d0c46342b1bc7bebae42f5] by any interested person.
+
+(3) In this regulation “working day” means a day other than a Saturday, Sunday, Christmas Day, Good Friday or a bank holiday,
+
+### 7. Notice to interested persons and others[^key-856ca4d9f0a317940af07483fa53800e]
+
+(1) The appointed person must as soon as practicable after the expiration of the period referred to in regulation 6(2) give written notice of the review to—
+
+- (a) each interested person; and
+- (b) any other person or body that the appointed person considers appropriate.
+
+(2) A notice under paragraph (1) must—
+
+- (a) state the name of the applicant and the address of the listed building to which the review relates;
+- (b) set out the matters notified to the applicant under regulation 6(1);
+- (c) confirm that copies of any representations previously made to the Welsh Ministers under section 78 of the 2023 Act[^key-530a872f8ed3c38300dc91325826cc11] by any interested person have been sent to the applicant by the Welsh Ministers;
+- (d) state that any such representations will be considered by the appointed person when making a decision on the review;
+- (e) state that further written representations may be made to the appointed person in accordance with regulation 9(2); and
+- (f) state how a copy of the application for review and other documents related to the review may be inspected.
+
+### 8. Welsh Ministers’ review statement[^key-d853686d9270fca79a53aa39a1716444]
+
+(1) The Welsh Ministers must, within the period of four weeks beginning on the starting date, send to the applicant and the appointed person a statement setting out all the matters which the Welsh Ministers intend to raise in the course of the review and which they consider should be taken into account by the appointed person in carrying out the review (“the Welsh Ministers’ review statement”).
+
+(2) The Welsh Ministers’ review statement must be accompanied by all documents, materials and evidence which the Welsh Ministers intend to rely on in the course of the review.
+
+(3) Subject to paragraph (5) the applicant must send to the appointed person two copies of any written comments they have about the Welsh Ministers’ review statement so as to be received within the period of six weeks beginning on the starting date.
+
+(4) Where written comments are sent to the appointed person under paragraph (3) or (5), the appointed person must, as soon as practicable after receipt, send a copy of any such comments to the Welsh Ministers.
+
+(5) The requirement in paragraph (3) is to be construed as permitting the sending of only a single copy of any written comments for the purpose of satisfying that requirement in any case where the applicant elects to send the comments by means of electronic communications.
+
+## PART 3 — Written representations
+
+### 9. Written representations procedure[^key-c37d9af7dc33b30854f078cc15a95100]
+
+(1) Subject to paragraph (2), the following documents will be deemed for the purposes of section 82(2)(c) of the 2023 Act[^key-4aadcbd32a0023458047da0dbbbf55fe] to comprise the following persons’ written representations in relation to the review—
+
+- (a) in the case of the applicant—
+  - (i) an application made in accordance with regulation 5; and
+  - (ii) any written comments made under regulation 8(3);
+- (b) in the case of the Welsh Ministers, the Welsh Ministers’ review statement and accompanying documents, materials and evidence;
+- (c) in the case of an interested person, any written representations previously made under section 78 of the 2023 Act[^key-3e3a522946ba5f846f245f8f05b50e64] by that person;
+- (d) in the case of any person or body given notice under regulation 7(1)(b), any written representations previously made by such person or body about the Welsh Ministers’ proposal to include the building to which a review relates in a list.
+
+(2) An interested person or any person or body given notice under regulation 7(1)(b) may, in addition to the representations referred to in paragraph (1)(c) or (d) (whichever the case may be), make further written representations under section 82(2)(c) of the 2023 Act[^key-42491c492755011f5141b1de53c3114f], and where doing so must send three copies of such representations to the appointed person within the period of four weeks beginning on the starting date.
+
+(3) The appointed person must, as soon as practicable after receipt of any representations made under paragraph (2), send a copy of such representations to the applicant and the Welsh Ministers.
+
+(4) The applicant and the Welsh Ministers must send to the appointed person two copies of any written comments they have about any representations made under paragraph (1)(c), (d) or (2) so as to be received within the period of six weeks beginning on the starting date.
+
+(5) Where the appointed person has received any written comments in accordance with paragraph (4), the appointed person must—
+
+- (a) in the case of any such comments received from the applicant, send a copy to the Welsh Ministers; and
+- (b) in the case of any such comments received from the Welsh Ministers, send a copy to the applicant.
+
+(6) Where paragraphs (2) to (4) impose a requirement on any person or body to send more than a single copy of any written representations or comments (whichever the case may be) to any other person or body, such requirement is to be construed as permitting the sending of only a single version of that document for the purpose of satisfying that requirement in any case where the person upon whom the requirement is imposed elects to send the representations or comments by means of electronic communications.
+
+### 10. Appointment of assessor[^key-a5a5a26b7ca5a56a4bab224a5b9e17e8]
+
+Where an assessor is appointed under paragraph 3(2)(b) of Schedule 2 to the 2023 Act[^key-79ed6a1bd13289a839d039db8e48de4a] (decisions on reviews by person appointed by Welsh Ministers), the appointed person must notify in writing the applicant and the Welsh Ministers of the appointment, the name of the person appointed and the matters on which they will advise.
+
+## PART 4 — Hearings
+
+### 11. Notice of hearing, specified matters and appearances at hearing[^key-814db277e72700a4f5790b06c310ed66]
+
+(1) Where the appointed person decides that a review is to be carried out by means of a hearing, they must give written notice to that effect to—
+
+- (a) the applicant;
+- (b) the Welsh Ministers; and
+- (c) any other person or body that the appointed person considers appropriate.
+
+(2) The notice given under paragraph (1) must set out the specified matters, but the inclusion of such matters in the notice does not prevent the appointed person from allowing the consideration of such other matters as they consider appropriate.
+
+(3) The persons entitled to appear at the hearing are those referred to in paragraph (1)(a) to (c).
+
+(4) The attendance at the hearing of any person who is not entitled to appear is subject to the discretion of the appointed person.
+
+### 12. Date and notification of hearing[^key-446b4bc273dc445981401aece9ce514c]
+
+(1) The appointed person must determine (and may subsequently vary) the date, time and place at which the hearing is to be held.
+
+(2) The appointed person must give to those persons entitled to appear at the hearing not less than four weeks notice of the date, time and place fixed for the holding of the hearing (and any subsequent variation thereof).
+
+### 13. Procedure at hearing[^key-3ae46db8fdc1ac7e226a61c9a5308b12]
+
+(1) Except as otherwise provided in this Part, the procedure at a hearing is to be as the appointed person determines.
+
+(2) The appointed person must state at the commencement of the hearing the procedure that they propose to adopt.
+
+(3) Any person entitled to appear at the hearing may instead be represented by another person.
+
+(4) Where two or more persons have a similar interest in the issues being considered at the hearing, the appointed person may allow one or more persons to appear on behalf of some or all of any persons so interested.
+
+(5) The appointed person may refuse to permit the giving of any evidence which they consider irrelevant or repetitious.
+
+(6) The appointed person may proceed with a hearing in the absence of any person entitled to appear at the hearing.
+
+(7) The appointed person may—
+
+- (a) require any person taking part in, or present at, a hearing who, in the appointed person’s opinion is behaving in a disruptive manner to leave; and
+- (b) refuse to permit that person to return; or
+- (c) permit that person to return only on such conditions as the appointed person may specify,
+
+but any such person may submit to the appointed person any evidence or other matter in writing before the close of the hearing.
+
+(8) The appointed person may take into account any representation or evidence or any other document received from any person before a hearing opens or during the hearing on the condition that the appointed person discloses that fact at the hearing.
+
+(9) The appointed person may from time to time adjourn the hearing and—
+
+- (a) where the date, time and place at which the hearing is to be resumed are announced before the adjournment, must as soon as practicable take reasonable steps to give notice of such date, time and place to any person entitled to appear at the hearing who was absent at the time of the announcement; or
+- (b) where the date, time and place at which the hearing is to be resumed are not announced before the adjournment, must—
+  - (i) determine (and may subsequently vary) such date, time and place; and
+  - (ii) subject to paragraph (10), give to those persons entitled to appear at the hearing not less than four weeks notice of such date, time and place (and any subsequent variation thereof).
+
+(10) Where paragraph (9)(b) applies, the appointed person may give to those persons entitled to appear at the hearing less than four weeks notice of the date, time and place fixed for the resumption of the hearing (and any subsequent variation thereof) in any case where such shorter period is agreed between the applicant, appointed person and the Welsh Ministers.
+
+### 14. Appointment of assessor[^key-18ecae3a498532080c6b8a7ba864d2a2]
+
+Where an assessor is appointed under paragraph 3(2)(a) of Schedule 2 to the 2023 Act[^key-a339bf58b335990d6962e4273e87c0ab], the appointed person must notify in writing the persons entitled to appear at the hearing of the appointment, the name of the person appointed and the matters on which they will advise.
+
+## PART 5 — Inquiries procedure
+
+### 15. Notice of inquiry, specified matters and appearances at inquiry[^key-60c4c0e4d3f0f24188f9ce702a17b3a8]
+
+(1) Where the appointed person decides that a review is to be carried out by means of an inquiry, they must give notice to that effect to—
+
+- (a) the applicant;
+- (b) the Welsh Ministers; and
+- (c) any other person or body that the appointed person considers appropriate.
+
+(2) The notice given under paragraph (1) must set out the specified matters, but the inclusion of such matters in the notice does not prevent the appointed person from allowing the consideration of such other matters as they consider appropriate.
+
+(3) The persons entitled to appear at the inquiry are those referred to in paragraph (1)(a) to (c).
+
+### 16. Date and notification of, and publicity in relation to, inquiry[^key-0e908ad0ac70544fce5f013956218d4f]
+
+(1) The appointed person must determine (and may subsequently vary) the date, time and place at which the inquiry is to be held.
+
+(2) The appointed person must give to those persons entitled to appear at the inquiry not less than four weeks notice of the date, time and place fixed for the holding of the inquiry (and any subsequent variation thereof).
+
+(3) The appointed person may make further arrangements for publicising the holding of the inquiry as they consider appropriate in the circumstances.
+
+### 17. Service of inquiry statements, documents etc.[^key-8aadbbe425bd7057489576671363ff28]
+
+(1) The appointed person may by written notice require that any person or body entitled to appear at the inquiry must, by such date as is specified in the notice, send to the appointed person and such other persons or bodies specified in the notice—
+
+- (a) a statement in accordance with paragraph (2) (“inquiry statement”); and
+- (b) a copy of every document on the list of such documents comprised in that inquiry statement.
+
+(2) An inquiry statement must contain—
+
+- (a) a written statement which contains particulars of the case relating to the specified matters which a person proposes to put forward at an inquiry;
+- (b) a list of documents (if any) which the person putting forward such case intends to refer to, rely on or put in evidence; and
+- (c) a list of witnesses specifying—
+  - (i) the persons who are to give, or be called to give, evidence at the inquiry;
+  - (ii) the matters in respect of which such persons are to give evidence; and
+  - (iii) the relevant qualifications of such persons to do so.
+
+### 18. Procedure at inquiry[^key-7fc1450e989c1b8bb83fe2374f890522]
+
+(1) Except as otherwise provided in this Part, the procedure at an inquiry is to be as the appointed person determines.
+
+(2) The appointed person must state at the commencement of the inquiry the procedure that they propose to adopt.
+
+(3) Any person entitled to appear at the inquiry may instead be represented by another person.
+
+(4) Where two or more persons have a similar interest in the matter under inquiry, the appointed person may allow one or more persons to appear on behalf of some or all of any persons so interested.
+
+(5) Subject to paragraph (6), any person entitled to appear at the inquiry is entitled to call evidence, to cross-examine persons giving evidence and to make closing statements.
+
+(6) The appointed person may refuse to permit—
+
+- (a) the giving or production of evidence;
+- (b) the cross-examination of persons giving evidence; or
+- (c) the presentation of any other matter,
+
+which the appointed person considers to be irrelevant or repetitious.
+
+(7) The appointed person may proceed with an inquiry in the absence of any person entitled to appear at the inquiry.
+
+(8) The appointed person may—
+
+- (a) require any person taking part in, or present at, an inquiry who, in the appointed person’s opinion is behaving in a disruptive manner to leave; and
+- (b) refuse to permit that person to return; or
+- (c) permit that person to return only on such conditions as the appointed person may specify,
+
+but any such person may submit to the appointed person any evidence or other matter in writing before the close of the inquiry.
+
+(9) The appointed person may take into account any representation or evidence or any other document received from any person before an inquiry opens or during the inquiry on the condition that the appointed person discloses that fact at the inquiry.
+
+(10) The appointed person may from time to time adjourn the inquiry and—
+
+- (a) where the date, time and place at which the inquiry is to be resumed are announced before the adjournment, must as soon as practicable take reasonable steps to give notice of such date, time and place to any person entitled to appear at the inquiry who was absent at the time of the announcement; or
+- (b) where the date, time and place at which the inquiry is to be resumed are not announced before the adjournment, must—
+  - (i) determine (and may subsequently vary) such date, time and place; and
+  - (ii) subject to paragraph (11) give to those persons entitled to appear at the inquiry not less than four weeks notice of such date, time and place (and any subsequent variation thereof).
+
+(11) Where paragraph (10)(b) applies, the appointed person may give to those persons entitled to appear at the inquiry less than four weeks notice of the date, time and place fixed for the resumption of the inquiry (and any subsequent variation thereof) in any case where such shorter period is agreed between the applicant, appointed person and the Welsh Ministers.
+
+### 19. Appointment of assessor[^key-8db90545ec06c55364673c9bd0301555]
+
+Where an assessor is appointed under paragraph 3(2)(a) of Schedule 2 to the 2023 Act[^key-bb29c33d3b250755ee69f11dd6f1fa06], the appointed person must notify in writing the persons entitled to appear at the inquiry of the appointment, the name of the person appointed and the matters on which they will advise.
+
+## PART 6 — Supplementary matters
+
+**20.**[^key-14d8c4eacf7c3a0a55a7711fdff26c1d] (1) The appointed person may in writing, at any time before they give their decision on the review, require the applicant, the Welsh Ministers, any interested person or any other person or body to provide such further information relevant to the review as may be specified.
+
+(2) Such information must be provided in writing within such period as the appointed person may specify.
+
+(3) Where the appointed person requires further information under paragraph (1), they must allow the applicant and the Welsh Ministers the opportunity to comment on the information so provided in accordance with such arrangements as they consider appropriate.
+
+### 21. Site inspections[^key-9dd92801ddff9c546733f1130e388e9b]
+
+(1) The appointed person may at any time carry out—
+
+- (a) an unaccompanied inspection of the building to which the review relates; or
+- (b) an inspection of the building accompanied by any of the following—
+  - (i) the applicant;
+  - (ii) any other owner or occupier of the building known to the appointed person;
+  - (iii) the Welsh Ministers; and
+  - (iv) any other person that the appointed person considers appropriate.
+
+(2) Where the appointed person in any case intends to carry out an inspection, they must give to each of the persons referred to in paragraph (1)(b) such notice as may appear reasonable to them in the circumstances—
+
+- (a) of the date and time of the proposed inspection; and
+- (b) as to whether—
+  - (i) the appointed person intends to carry out an unaccompanied inspection; or
+  - (ii) any of the persons referred to in paragraph (1)(b) are invited to accompany the appointed person in carrying out the inspection.
+
+(3) The appointed person is not bound to defer an inspection if any person invited to accompany them under paragraph (2)(b)(ii) is not present at the time appointed.
+
+### 22. Allowing further time[^key-c774d1620316d49d5abf7b5412c1699e]
+
+The appointed person may at any time in any particular case allow further time for the taking of any step which is required or enabled to be taken by virtue of these Regulations; and references in these Regulations to a period within which any step is required or enabled to be taken are to be construed accordingly.
+
+### 23. Publication of review documents[^key-71853d64699946e56c0f34672178bbe9]
+
+(1) The appointed person must, as soon as reasonably practicable after receipt, make available for inspection copies of the materials referred to in paragraph (2).
+
+(2) The materials are—
+
+- (a) the application for the review;
+- (b) any inquiry statement, other representations, comments, inquiry statement, information or other documents sent to the appointed person in the course of the review.
+
+## PART 7 — Decisions on review
+
+### 24. Notification of decision[^key-6811c43ad4f98c9f3cb3375146da28ef]
+
+The appointed person, having concluded that no further evidence is required so as to enable them to make their decision on the review, must as soon as reasonably practicable notify their decision, and the reasons for reaching it, to—
+
+- (a) the applicant;
+- (b) the Welsh Ministers;
+- (c) each interested person; and
+- (d) any person given notice under regulation 7(1)(b).
+
+Ken Skates
+
+Cabinet Secretary for Economy and Infrastructure, one of the Welsh Minsters
+
+4 May 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision as to the procedure relevant to reviews carried out by the Welsh Ministers in relation to their decision to include a building in a list compiled or approved under section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+
+They include, in particular, provision in relation to the following matters—
+
+- The classes of review to be decided by an appointed person instead of the Welsh Ministers, the grounds for review, procedural requirements relevant to the making of an application and associated requirements (Part 2);
+- Procedural provision relevant to the extent that a review is carried out on the basis of written representations (Part 3);
+- Procedural provision relevant to the extent that a review is carried out by means of a hearing (Part 4);
+- Procedural provision relevant to the extent that a review is carried out by means of local inquiry (Part 5);
+- Supplementary matters (Part 6); and
+- Procedural provision relevant to the making of a decision on a review (Part 7).
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a Regulatory Impact Assessment as to the likely costs and benefits of complying with these Regulations. The Impact Assessment prepared for the Historic Environment (Wales) Act 2016 is relevant and is available from Historic Environment Services (Cadw), Welsh Government, Plas Carew, Cardiff, CF15 7QQ and on the Welsh Government’s website atwww.wales.gov.uk
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9); section 2D was inserted by section 24 of the [Historic Environment (Wales) Act 2016 (anaw 4)](https://www.legislation.gov.uk/anaw/2016/4) (“the 2016 Act”). Schedule 1B was inserted by section 24 of, and Schedule 2 to, that Act.
+
+[^f00002]: Footnote: The functions of the Secretary of State were transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of, and paragraphs 30 and 32 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-b4a5491062b8ded27e207e89ac8ccfa8]: Commencement: Reg. 1 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-bcb7ea91785656480c20bc20d87cb73f]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/3) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [126](https://www.legislation.gov.uk/wsi/2024/924/regulation/126)
+
+[^key-9899fa2909a7a56b955c6fc8bc659927]: Commencement: Reg. 2 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-939362026723c7a7a4f1d637d9fb10ca]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/644/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [127(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/127/a)
+
+[^key-cd75a22aaaf35761729cb3c2273cb825]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/644/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [127(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/127/b)
+
+[^key-7e004d0d28106ebc1180dda21724cb40]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/644/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [127(c)](https://www.legislation.gov.uk/wsi/2024/924/regulation/127/c)
+
+[^key-ef30a572df1b450fea2ef990c6b57357]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/644/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [127(d)](https://www.legislation.gov.uk/wsi/2024/924/regulation/127/d)
+
+[^key-212bb11aa6abd06346814136d7b0c069]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/644/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [127(e)](https://www.legislation.gov.uk/wsi/2024/924/regulation/127/e)
+
+[^key-8cbfd45fd8e80a812c1927ddc79fd426]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/644/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [127(f)](https://www.legislation.gov.uk/wsi/2024/924/regulation/127/f)
+
+[^key-c4ace950169644492f8e3c5191ea4d3c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/644/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [127(g)](https://www.legislation.gov.uk/wsi/2024/924/regulation/127/g)
+
+[^key-c95ebbde9f2404e0d617ba366b141738]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/644/regulation/3) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [128](https://www.legislation.gov.uk/wsi/2024/924/regulation/128)
+
+[^key-524ca797ebcd8a58be3d0b7d33f4b945]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/644/regulation/4) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [128](https://www.legislation.gov.uk/wsi/2024/924/regulation/128)
+
+[^key-e31458f5c04db9e057579f14a28b9c59]: Commencement: Reg. 5 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-f73a0b7fe856278d66e3d8fd3f52bea1]: Textual amendment: Words in [reg. 5(2)(a)(vii)](https://www.legislation.gov.uk/wsi/2017/644/regulation/5/2/a/vii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [129(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/129/a)
+
+[^key-c9aa8b5e1b3672ef630e9d7ca3d5271f]: Textual amendment: Words in [reg. 5(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2017/644/regulation/5/2/b/ii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [129(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/129/b)
+
+[^key-b083e3941b1693075f6e18a5a9af0f6f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2017/644/regulation/5/3) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [129(c)](https://www.legislation.gov.uk/wsi/2024/924/regulation/129/c)
+
+[^key-f358797f7b706cabcf0bf31a739dcfca]: Commencement: Reg. 6 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-a1f7f79b41d0c46342b1bc7bebae42f5]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2017/644/regulation/6/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [130](https://www.legislation.gov.uk/wsi/2024/924/regulation/130)
+
+[^key-856ca4d9f0a317940af07483fa53800e]: Commencement: Reg. 7 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-530a872f8ed3c38300dc91325826cc11]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/wsi/2017/644/regulation/7/2/c) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [130](https://www.legislation.gov.uk/wsi/2024/924/regulation/130)
+
+[^key-d853686d9270fca79a53aa39a1716444]: Commencement: Reg. 8 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-c37d9af7dc33b30854f078cc15a95100]: Commencement: Reg. 9 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-4aadcbd32a0023458047da0dbbbf55fe]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/9/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [131(a)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/131/a/i)
+
+[^key-3e3a522946ba5f846f245f8f05b50e64]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/wsi/2017/644/regulation/9/1/c) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [131(a)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/131/a/ii)
+
+[^key-42491c492755011f5141b1de53c3114f]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/wsi/2017/644/regulation/9/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [131(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/131/b)
+
+[^key-a5a5a26b7ca5a56a4bab224a5b9e17e8]: Commencement: Reg. 10 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-79ed6a1bd13289a839d039db8e48de4a]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/wsi/2017/644/regulation/10) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [132](https://www.legislation.gov.uk/wsi/2024/924/regulation/132)
+
+[^key-814db277e72700a4f5790b06c310ed66]: Commencement: Reg. 11 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-446b4bc273dc445981401aece9ce514c]: Commencement: Reg. 12 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-3ae46db8fdc1ac7e226a61c9a5308b12]: Commencement: Reg. 13 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-18ecae3a498532080c6b8a7ba864d2a2]: Commencement: Reg. 14 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-a339bf58b335990d6962e4273e87c0ab]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/wsi/2017/644/regulation/14) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [133](https://www.legislation.gov.uk/wsi/2024/924/regulation/133)
+
+[^key-60c4c0e4d3f0f24188f9ce702a17b3a8]: Commencement: Reg. 15 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-0e908ad0ac70544fce5f013956218d4f]: Commencement: Reg. 16 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-8aadbbe425bd7057489576671363ff28]: Commencement: Reg. 17 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-7fc1450e989c1b8bb83fe2374f890522]: Commencement: Reg. 18 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-8db90545ec06c55364673c9bd0301555]: Commencement: Reg. 19 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-bb29c33d3b250755ee69f11dd6f1fa06]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/wsi/2017/644/regulation/19) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [134](https://www.legislation.gov.uk/wsi/2024/924/regulation/134)
+
+[^key-14d8c4eacf7c3a0a55a7711fdff26c1d]: Commencement: Reg. 20 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-9dd92801ddff9c546733f1130e388e9b]: Commencement: Reg. 21 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-c774d1620316d49d5abf7b5412c1699e]: Commencement: Reg. 22 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-71853d64699946e56c0f34672178bbe9]: Commencement: Reg. 23 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)
+
+[^key-6811c43ad4f98c9f3cb3375146da28ef]: Commencement: Reg. 24 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/644/regulation/1/1)

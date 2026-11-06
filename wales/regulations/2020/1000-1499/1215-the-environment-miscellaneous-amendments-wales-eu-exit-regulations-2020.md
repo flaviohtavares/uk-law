@@ -1,0 +1,119 @@
+---
+title: The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020
+id: wsi/2020/1215
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-11-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2020/1215
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2020/1215/pdfs/wsi_20201215_mi.pdf
+- http://www.legislation.gov.uk/wsi/2020/1215/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 1215 (W. 274)
+
+Exiting The European Union, Wales
+
+Environmental Protection, Wales
+
+The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020
+
+Sift requirements satisfied
+
+2 November 2020
+
+Made
+
+4 November 2020
+
+Laid before Senedd Cymru
+
+6 November 2020
+
+Coming into force in accordance with regulation 1(2)
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by paragraph 1(1) of Schedule 2 and paragraph 21(b) of Schedule 7 to the European Union (Withdrawal) Act 2018[^f00001].
+
+The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the appropriate National Assembly for Wales scrutiny procedure for these Regulations) have been satisfied[^f00002].
+
+In accordance with paragraph 4 of Schedule 2 to that Act, the Welsh Ministers have consulted with the Secretary of State.
+
+## 1. Title and commencement
+
+(1) The title of these Regulations is the Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020.
+
+(2) These Regulations come into force on IP completion day except for regulation 3 which comes into force immediately before IP completion day.
+
+## 2. Amendment of the Natural Resources Body for Wales (Establishment) Order 2012
+
+(1) The Natural Resources Body for Wales (Establishment) Order 2012[^f00003] is amended as follows.
+
+(2) For article 11(3), substitute—
+
+> (3) The Welsh Ministers or the Secretary of State may give the Body general or specific directions for—
+>
+> - (a) securing that any retained EU obligation is met, or
+> - (b) the implementation of any international obligation of the United Kingdom.
+
+(3) For article 11A(2)(b), substitute—
+
+> - (b) under any other enactment for the purpose of—
+>   - (i) securing that any retained EU law obligation is met, or
+>   - (ii) the implementation of any international obligation of the United Kingdom,
+
+.
+
+(4) For article 11A(4), substitute—
+
+> (4) Paragraph (4A) applies if the Welsh Ministers or the Secretary of State vary or revoke any direction given to the Body (whether under article 11 or under any other enactment) for the purpose of—
+>
+> - (a) securing that any retained EU law obligation is met, or
+> - (b) the implementation of any international obligation of the United Kingdom.
+>
+> (4A) Where this paragraph applies, the person making the variation or revocation must—
+>
+> - (a) publish the variation or revocation as soon as reasonably practicable;
+> - (b) make copies of the variation or revocation available on request.
+
+## 3. Amendment of the Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019
+
+In regulation 2(5)(a) of the Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019[^f00004], for “[Directive 2008/1/EC](https://www.legislation.gov.uk/european/directive/2008/0001)” substitute “[Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)”.
+
+Lesley Griffiths
+
+Minister for Environment, Energy and Rural Affairs, one of the Welsh Ministers
+
+4 November 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers in paragraph 1(1) of Schedule 2 and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) in order to address failures of retained EU law to operate effectively and other deficiencies in retained EU law arising from the withdrawal of the United Kingdom from the European Union.
+
+Regulation 2 makes amendments to the Natural Resources Body for Wales (Establishment) Order 2012 ([S.I. 2012/1903 (W. 230)](https://www.legislation.gov.uk/wsi/2012/1903)).
+
+Regulation 3 amends the Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 ([S.I. 2019/390 (W. 95)](https://www.legislation.gov.uk/wsi/2019/390)), which itself amends the Air Quality Standards (Wales) Regulations 2010 ([S.I. 2010/1433 (W. 126)](https://www.legislation.gov.uk/wsi/2010/1433)).
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a Regulatory Impact Assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^f00002]: Footnote: The reference in Schedule 7 to the European Union (Withdrawal) Act 2018 to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00003]: Footnote: [S.I. 2012/1903 (W. 203)](https://www.legislation.gov.uk/wsi/2012/1903), as amended by [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755) and [2013/1821 (W. 1821)](https://www.legislation.gov.uk/wsi/2013/1821).
+
+[^f00004]: Footnote: [S.I. 2019/390 (W. 95)](https://www.legislation.gov.uk/wsi/2019/390).

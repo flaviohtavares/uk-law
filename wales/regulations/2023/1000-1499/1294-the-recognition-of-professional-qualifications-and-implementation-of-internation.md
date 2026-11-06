@@ -1,0 +1,611 @@
+---
+title: The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023
+id: wsi/2023/1294
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-11-30'
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2023/1294
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2023/1294/pdfs/wsi_20231294_mi.pdf
+- http://www.legislation.gov.uk/wsi/2023/1294/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2023 No. 1294 (W. 230)
+
+Professional Qualifications, Wales
+
+The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023
+
+Made
+
+at 2.10 p.m. on 30 November 2023
+
+Laid before Senedd Cymru
+
+at 4.50 p.m. on 30 November 2023
+
+Coming into force
+
+1 December 2023
+
+The Welsh Ministers, in exercise of the powers conferred by sections 3(1), 5(2) and 13(1) of the Professional Qualifications Act 2022[^f00001] (“**the 2022 Act**”), make the following Regulations.
+
+In accordance with section 14 of the 2022 Act, the Welsh Ministers are satisfied that the Regulations do not remove the ability of any Welsh regulator of a Welsh regulated profession to prevent individuals who are unfit to practise the profession from doing so, and that the Regulations will not have a material adverse effect on any Welsh regulated profession in terms of the knowledge, skills or experience of the individuals practising it.
+
+In accordance with section 15 of the 2022 Act, the Welsh Ministers have consulted with such Welsh regulators of Welsh regulated professions as the Welsh Ministers consider are likely to be affected by these Regulations or it is otherwise appropriate to consult.
+
+There has also been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178)[^f00002] of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
+
+## 1. Title and coming into force[^key-dafea0e4650885e4b1d4b4c290e73e2f]
+
+The title of these Regulations is the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 and they come into force on 1 December 2023.
+
+## 2. Interpretation[^key-40112caa9cc175fe41baf2173f1c7e8c]
+
+In these Regulations—
+
+- “**the 2022 Act**” (“***Deddf 2022***”) means the Professional Qualifications Act 2022;
+- “**the 2023 UK Regulations**” (“***Rheoliadau 2023 y DU***”) means the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023[^f00003];
+- “[^key-410bcc6dd175f10922b6b992c7475c8a]**adaptation period**” (“***cyfnod ymaddasu***”) means—
+  - (a) in the case of an applicant who makes an application in reliance on the holding of professional qualifications obtained in Switzerland, a period of supervised practice, subject to an assessment and which may be accompanied by further education or training, in a Welsh regulated profession under the responsibility of a qualified member of that profession;
+  - (b) in the case of an applicant who makes an application in reliance on the holding of professional qualifications obtained otherwise than in Switzerland, a period of supervised practice, subject to an assessment and which may be accompanied by further training, in a Welsh regulated profession under the responsibility of a qualified member of that profession;
+- “**any other part of the United Kingdom**” (“***unrhyw ran arall o’r Deyrnas Unedig***”) means England, Northern Ireland or Scotland;
+- “**applicant**” (“***ceisydd***”) means a specified state professional who—
+  - (a) wishes to access and pursue a Welsh regulated profession for which the possession of professional qualifications is required,
+  - (b) possesses professional qualifications for the same profession in a specified state, and
+  - (c) makes an application;
+- “**application**” (“***cais***”) means an application by an applicant to a Welsh regulator for recognition of their professional qualifications in Wales;
+- “**aptitude test**” (“***prawf gallu***”) means a test limited to the professional knowledge of a specified state professional, made by the Welsh regulator with the aim of assessing the ability of the professional to pursue a Welsh regulated profession;
+- “**EEA EFTA free trade agreement**” (“***cytundeb masnach rydd yr AEE EFTA***”) means the free trade agreement between Iceland, the Principality of Liechtenstein and the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland done at London on 8th July 2021[^f00004];
+- “**profession**” (“***proffesiwn***”) has the meaning given in section 19 of the 2022 Act;
+- “**professional activity**” (“***gweithgaredd proffesiynol***”) means an activity which forms part of a Welsh regulated profession;
+- “**professional experience**” (“***profiad proffesiynol***”) means the lawful and effective practice of the relevant Welsh regulated profession;
+- “**professional qualifications**” (“***cymwysterau proffesiynol***”) includes qualifications or professional experience;
+- “**qualification**” (“***cymhwyster***”) has the meaning given in section 19 of the 2022 Act;
+- [^key-4d6afb1f18d3b399b3c515bf095fc735]...
+- “**specified state**” (“***gwladwriaeth benodedig***”) means a state specified in Schedule 2;
+- “**specified state professional**” (“***proffesiynolyn gwladwriaeth benodedig***”) means a natural person who has obtained professional qualifications in a specified state;
+- “**Welsh regulated profession**” (“***proffesiwn rheoleiddiedig Cymreig***”) means any of the professions listed in Schedule 1;
+- “**Welsh regulator**” (“***rheoleiddiwr Cymreig***”), in relation to a Welsh regulated profession, means a person having functions under legislation that relate to the regulation of the profession in Wales.
+
+## 3. Amendments to legislation for the purpose of, and in connection with, the EEA EFTA free trade agreement[^key-f47c6e8fd9e5bc1b3a9606f6f3552bb3]
+
+Schedule 3 contains amendments to legislation for the purpose of, and in connection with, implementing Chapter 12 of the EEA EFTA free trade agreement (recognition of professional qualifications).
+
+## 4. Amendments to legislation consequent upon the coming into force of section 5(1) of the Professional Qualifications Act 2022[^key-1b509056dcc86e000479f46ee5020123]
+
+Schedule 4 contains amendments to legislation consequent upon the coming into force of section 5(1) of the Professional Qualifications Act 2022 (revocation of general EU system of recognition of overseas qualifications).
+
+## 5. Recognition of professional qualifications[^key-0c6709ed8b1154cb645213b1c82eca3a]
+
+(1) Subject to regulation 6, where a Welsh regulator receives an application, the Welsh regulator must recognise the applicant’s professional qualifications in Wales where those professional qualifications are comparable to the professional qualifications required to access and pursue the same profession in Wales.
+
+(2) A Welsh regulator that recognises an applicant’s professional qualifications under this regulation must—
+
+- (a) enable that person to access and pursue the Welsh regulated profession;
+- (b) for the purpose of access to and pursuit of the Welsh regulated profession, treat the applicant as if they had obtained their professional qualifications in Wales or any other part of the United Kingdom in which the profession is regulated.
+
+## 6. Refusal to recognise professional qualifications[^key-24cc883887afb77a8c759fef76066553]
+
+(1) A Welsh regulator may refuse to recognise an applicant’s professional qualifications if one or more of Conditions 1, 2, 3 or 4 is met.
+
+(2) Condition 1 is met where—
+
+- (a) there exists a substantial difference between the applicant’s professional qualifications and the essential knowledge or skills required to practise the Welsh regulated profession, and
+- (b) the applicant fails to pass, or refuses to take, an aptitude test or fails, or refuses, to complete, an adaptation period imposed in accordance with regulation 7 (aptitude tests and adaptation periods).
+
+(3) Condition 2 is met where—
+
+- (a) the Welsh regulated profession comprises one or more professional activities that cover substantially different matters from those covered by the applicant’s professional qualifications, and
+- (b) the applicant fails to pass, or refuses to take, an aptitude test or fails, or refuses to complete, an adaptation period imposed in accordance with regulation 7 (aptitude tests and adaptation periods).
+
+(4) Condition 3 is met where requiring the applicant to take an aptitude test or to complete an adaptation period in accordance with regulation 7 (aptitude tests and adaptation periods) would amount to requiring the applicant to acquire the professional qualifications required to practise the Welsh regulated profession.
+
+(5) Condition 4 is met where access to and pursuit of a Welsh regulated profession by a person whose professional qualifications were obtained in Wales or any other part of the United Kingdom is subject to conditions other than the possession of specific professional qualifications and the applicant fails to meet those conditions.
+
+## 7. Aptitude tests and adaptation periods[^key-2e13f6487dd52aa37f0006801f9cb9f2]
+
+(1) A Welsh regulator may require an applicant to take an aptitude test, standardised or otherwise, or to complete an adaptation period where—
+
+- (a) there exists a substantial difference between the applicant’s professional qualifications and the essential knowledge or skills required to practise the Welsh regulated profession, or
+- (b) the Welsh regulated profession comprises one or more professional activities that cover substantially different matters from those covered by the applicant’s professional qualifications.
+
+(2) A Welsh regulator must consider whether any requirement to take an aptitude test or to complete an adaptation period is proportionate to the difference sought to be addressed.
+
+(3) If requested to do so by an applicant, a Welsh regulator must, to the extent possible, provide its reasons in writing for requiring the applicant to take an aptitude test or to complete an adaptation period.
+
+(4) Where a Welsh regulator requires applicants to undertake an aptitude test, the Welsh regulator must schedule tests with reasonable frequency and at least once a year, where applicable.
+
+## 8. Procedure to be followed on application for recognition[^key-d779a73331303ae0cacb37c3ee0ed5b4]
+
+(1) A Welsh regulator must—
+
+- (a) acknowledge receipt of the application within one month of receipt and inform the applicant if any document is missing from the application;
+- (b) give the applicant adequate time to complete the requirements and procedures of the application process;
+- (c) deal promptly with the application and notify the applicant of its decision in writing before the end of the period of four months beginning with the day after the day on which the complete application was submitted.
+
+(2) A Welsh regulator may require an applicant to provide evidence of their professional qualifications.
+
+(3) The evidence a Welsh regulator may require under paragraph (2) must be no more than is necessary to demonstrate that the applicant holds professional qualifications that are comparable to the professional qualifications required to access and pursue the Welsh regulated profession.
+
+(4) Where access to, and pursuit of, a Welsh regulated profession by a person whose professional qualifications were obtained in Wales or any other part of the United Kingdom is subject to conditions other than the possession of specific professional qualifications, a Welsh regulator may require the applicant to provide evidence to demonstrate that they satisfy those conditions.
+
+(5) The evidence a Welsh regulator may require under paragraph (4) must be no more than is necessary to demonstrate that the applicant satisfies those conditions.
+
+(6) A Welsh regulator must accept copies of documents authenticated in accordance with the law of England and Wales, Scotland or Northern Ireland[^key-fc5c220cc363fdc97d1b44a843982a4c] in place of originals unless it requires original documents to protect the integrity of the recognition process.
+
+## 9. Knowledge of language[^key-7ce27f2d77082f153660214420c00def]
+
+(1) A Welsh regulator may require that an applicant demonstrates they possess the language skills necessary for practice of a Welsh regulated profession.
+
+(2) If a Welsh regulator requires an applicant to undertake a language test, the test must be proportionate to the activity to be pursued.
+
+## 10. Appeals[^key-368bd66b759784a8aadd997351969a36]
+
+A Welsh regulator must provide a right of appeal for an applicant against its—
+
+- (a) decision to refuse to recognise an applicant’s professional qualifications, and
+- (b) failure to notify the applicant of its decision in respect of an application within the time period referred to in regulation 8(1)(c).
+
+## 11. Fees[^key-605203e0d346a716820a094278d46f8d]
+
+(1) A Welsh regulator may charge such fees as they consider appropriate in connection with an application.
+
+(2) Any fees charged by a Welsh regulator in connection with an application must be—
+
+- (a) reasonable and proportionate to the cost of the application, and
+- (b) transparent and made public in advance.
+
+(3) In the case of an applicant who makes an application in reliance on professional qualifications obtained in Switzerland, any fees must be payable by electronic means.
+
+(4) In the case of an applicant who makes an application in reliance on professional qualifications obtained otherwise than in Switzerland, any fees must be payable by electronic means through the Welsh regulator’s website.
+
+## 12. Provision of information[^key-b1afdea83807dae285d0479da2bc80b8]
+
+A Welsh regulator must make available to specified state professionals information about—
+
+- (a) the professional qualifications required and any other conditions that apply to practise a Welsh regulated profession,
+- (b) the relevant laws to be applied regarding disciplinary action, financial responsibility or liability and any other relevant matters,
+- (c) the principles of discipline and enforcement of professional standards, including disciplinary jurisdiction and consequential effects on practising a Welsh regulated profession,
+- (d) the processes and procedures for the ongoing verification of competence,
+- (e) the criteria for, and procedures relating to, revocation of registration,
+- (f) the documentation required of professionals and the form in which it should be presented, and
+- (g) the acceptance of documents and certificates issued in relation to professional qualifications and other conditions that apply to the practice of a Welsh regulated profession.
+
+## 13. Enquiries relating to professional qualifications and other conditions of practice[^key-da84ee1f15f960b3e965abb8ee0e783a]
+
+A Welsh regulator must deal promptly with enquiries from specified state professionals about—
+
+- (a) the professional qualifications required to practise the Welsh regulated profession, and
+- (b) the conditions that apply to the practice of the Welsh regulated profession.
+
+## 14. Amendments to the 2023 UK Regulations[^key-8e9177bc90ceebde33df148a80b8b782]
+
+(1) The 2023 UK Regulations are amended as follows.
+
+(2) In regulation 2 (extent and application)—
+
+- (a) in paragraph (1), after “paragraph (2)”, insert “and (3)”;
+- (b) after paragraph (2) insert—
+
+  > (3) Paragraphs 1, 2, 6 and 7 of Schedule 3 do not apply in relation to Wales.
+
+(3) In regulation 3(2) (interpretation), after “Schedule 2” insert—
+
+> - or a “**Welsh regulator**” as defined by the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023
+
+.
+
+Jeremy Miles
+
+Minister for Education and Welsh Language, one of the Welsh Ministers
+
+At 2.10 p.m. on 30 November 2023
+
+## SCHEDULE 1 — The Welsh regulated professions referred to in regulation 2 (interpretation)
+
+Regulation 2
+
+**A1.**[^key-661324cfa7be45d4beaed2967f334f55] Adult learning practitioner
+
+**1.**[^key-d32aade4ad3c41f5a8d8a26dab5521cf] Agricultural analyst
+
+**2.**[^key-46b1755a89cdc9df7907a59f482ab4df] Food analyst
+
+**3.**[^key-7f32134fc47c9e490c788d71d706b18b] Food examiner
+
+**3A.**[^key-4f9042c4b24ceb0837163d5dc3075bb6] Further education teacher
+
+**4.**[^key-d9316064cbecd78eee8b1af7dc8e57f3] Professional driver and attendant engaged in the transport of livestock, equines and poultry
+
+**5.**[^key-fd7ff6d24935de970134a36f97d2a221] Public analyst
+
+**6.**[^key-bc84c8703f5781ae299a015d3d2cd811] School teacher
+
+**7.**[^key-fc2ca6ebfa6a9d256fd56265f63652b7] Slaughterer
+
+**8.**[^key-d62e2f27282f4ab8e54d1133846e7fef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-c2c65d3a1b079b89a9714e8925ce73be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-4fc0eb1994244b87ed0af524f48a43af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-e3b930ce18d3b466a8f99753a29f74dc] Youth support worker
+
+**12.**[^key-433d75365080744c885cb4bd2b29fff0] Youth worker
+
+## SCHEDULE 2 — The specified states
+
+Regulation 2
+
+**1.**[^key-bfc0609eecaee62f2157ad819010241d] Iceland
+
+**2.**[^key-83a21524e76eb57bbb13c72f50f4e65b] The Kingdom of Norway
+
+**3.**[^key-765e3029ae0a3de9a3be956ffcba9937] The Principality of Liechtenstein
+
+**4.**[^key-1080171fb9df83119cf1bc0d66895b5a] The Swiss Confederation
+
+## SCHEDULE 3 — Amendments for the purpose of, and in connection with, implementing the EEA EFTA free trade agreement
+
+Regulation 3
+
+### PART 1 — Amendments in relation to education professions
+
+#### 1. Amendments to the School Teachers’ Qualifications (Wales) Regulations 2012[^key-d14caa37cc890c3b821b6ea646535d7d]
+
+(1) The School Teachers’ Qualifications (Wales) Regulations 2012[^f00005] are amended as follows.
+
+(2) In Schedule 2 (qualified teacher status requirements), after paragraph 4A insert—
+
+> **4B.** Persons who are, as respects the profession of school teacher, entitled to practise pursuant to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023.
+
+#### 2. Amendments to the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015[^key-6ab3584db8da7283791864a88f9c535e]
+
+(1) The Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015[^f00006] are amended as follows.
+
+(2) In paragraph 8 of Schedule 2 (cases in which a person may be employed as a teacher in a relevant school without having satisfactorily completed an induction period), for “paragraph 4 or 4A” substitute “paragraph 4, 4A or 4B”.
+
+#### 3. Amendments to the Education Workforce Council (Registration of Youth Workers, Youth Support Workers and Work Based Learning Practitioners) Order 2016[^key-32d17166c11d0025b76e3f6c10c47c80]
+
+(1) The Education Workforce Council (Registration of Youth Workers, Youth Support Workers and Work Based Learning Practitioners) Order 2016[^f00007] is amended as follows.
+
+(2) In article 2 (interpretation), in the appropriate place insert—
+
+> - “**the 2023 Regulations**” (“***Rheoliadau 2023***”) means the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023;
+
+.
+
+(3) In paragraph 2 (alternative requirements) of Schedule 1 (youth workers)—
+
+- (a) at the end of sub-paragraph (a), delete “or”;
+- (b) at the end of sub-paragraph (b), for “.” substitute “,”;
+- (c) after sub-paragraph (b) insert—
+
+  > - (c) is, as respects the profession of youth worker, entitled to practise pursuant to the 2023 Regulations, or
+
+  .
+
+(4) In paragraph 7 (alternative requirements) of Schedule 2 (youth support workers)—
+
+- (a) at the end of sub-paragraph (a), delete “or”;
+- (b) at the end of sub-paragraph (b), for “.” substitute “,”;
+- (c) after sub-paragraph (b) insert—
+
+  > - (c) is, as respects the profession of youth support worker, entitled to practise pursuant to the 2023 Regulations, or
+
+  .
+
+### PART 2 — Amendments in relation to F-gas handler professions
+
+#### 4. Amendments to [Regulation (EU) No 517/2014](https://www.legislation.gov.uk/european/regulation/2014/0517) of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842)[^key-a3f9e366054fbcd7d599df126f80ee7f]
+
+(1) [Regulation (EU) No 517/2014](https://www.legislation.gov.uk/european/regulation/2014/0517) of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842)[^f00008] is amended as follows.
+
+(2) In Article 10 (training and certification)—
+
+- (a) in paragraph 10, after “as amended from time to time,” insert “or certificates and training attestations issued by an EEA EFTA state that are equivalent to those issued in any part of the United Kingdom,”;
+- (b) after paragraph 15, insert—
+
+  > **16.** For the purposes of this Article, an ‘EEA EFTA state’ means—
+  >
+  > - (a) Norway,
+  > - (b) Iceland, or
+  > - (c) Liechtenstein.
+
+#### 5. Amendments to the Ozone-Depleting Substances Regulations 2015[^key-ec6653f9ff611430bb6d60f8d19ff2da]
+
+(1) The Ozone-Depleting Substances Regulations 2015[^f00009] are amended as follows.
+
+(2) In regulation 4 (meaning of “**competent**”)—
+
+- (a) in paragraph (a), after “column 3 of that Table”, insert “, or has obtained the equivalent of those qualifications in an EEA EFTA state”;
+- (b) for paragraph (c), substitute—
+
+  > - (c) a person is competent to carry out work with methyl bromide if that person has—
+  >   - (i) obtained the British Pest Control Association Certificate of Proficiency for Fumigation Operators[^f00010] and successfully completed the British Pest Control Association module referred to in the list in Schedule 3 which relates to the work in question; or
+  >   - (ii) obtained an equivalent certificate, and successfully completed an equivalent module, in an EEA EFTA state.
+- (c) after paragraph (c), insert—
+
+  > - (d) For the purposes of this regulation, an “**EEA EFTA state**” means—
+  >   - (i) Norway,
+  >   - (ii) Iceland, or
+  >   - (iii) Liechtenstein.
+
+### PART 3 — Amendments in relation to food examiners
+
+#### 6. Amendments to the Food Safety (Sampling and Qualifications) (Wales) Regulations 2013[^key-41c43dd50e6e289187da38d126489aad]
+
+(1) The Food Safety (Sampling and Qualifications) (Wales) Regulations 2013[^f00011] are amended as follows.
+
+(2) In regulation 2 (interpretation), at the appropriate place insert—
+
+> - “**specified state**” (“***gwladwriaeth benodedig***”) means a state specified in Schedule 2 to the Recognition of Professional Qualifications and the Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023;
+
+.
+
+(3) In Schedule 2 (qualifications of food examiners)—
+
+- (a) in Part 1, in paragraph 6, after “a member State of the European Union” insert “or in a specified state”;
+- (b) in Part 2—
+  - (i) in paragraph 2, after “a member State of the European Union” insert “or of a specified state”;
+  - (ii) in paragraph 4, after “a member State of the European Union” insert “or of a specified state”.
+
+### PART 4 — Amendments in relation to professions in animal welfare
+
+#### 7. Amendments to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) of 22 December 2004 on the protection of animals during transport and related operations[^key-43505690b985210da5c27de7f7b0d15f]
+
+(1) Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) of 22 December 2004 on the protection of animals during transport and related operations[^f00012] is amended as follows.
+
+(2) In Annex 4 (training), after paragraph 3, insert—
+
+> **4.** Where a road driver or attendant holds a qualification which, by virtue of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023, is recognised by the competent authority, the road driver or attendant (as the case may be) is to be treated as having met the requirements of paragraph 1.
+
+#### 8. Amendments to Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) of 24 September 2009 on the protection of animals at the time of killing[^key-3801ec7b21f4a5820d8eef78442100fb]
+
+(1) Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) of 24 September 2009 on the protection of animals at the time of killing[^f00013] is amended as follows.
+
+(2) In Article 21, in paragraph 1, after point (c), insert—
+
+> - (d) delivering certificates of competence to persons whose qualifications have been recognised for those purposes under the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023.
+
+#### 9. Amendments to the Welfare of Animals at the Time of Killing (Wales) Regulations 2014[^key-761951806d7b68bc7d70d657529690cc]
+
+(1) The Welfare of Animals at the Time of Killing (Wales) Regulations 2014[^f00014] are amended as follows.
+
+(2) In regulation 3(1) (interpretation)—
+
+- (a) in the definition of “evidence of training and examination”, after sub-paragraph (ab), insert—
+
+  > - (ac) a qualification which has been recognised under the Professional Qualifications Regulations 2023 in relation to an operation specified in regulation 6,
+
+  ;
+- (b) after the definition of “local authority”, insert—
+
+  > - “**the Professional Qualifications Regulations 2023**” (“***Rheoliadau Cymwysterau Proffesiynol 2023***”) means the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023;
+
+  .
+
+(3) In regulation 22 (appeals)—
+
+- (a) after paragraph (1), insert—
+
+  > (1A) A person who has applied for recognition of a qualification under the Professional Qualifications Regulations 2023 in relation to an operation specified in regulation 6 may appeal against a decision of the competent authority not to recognise the person’s qualification for those purposes.
+
+  ;
+- (b) after paragraph (4), insert—
+
+  > (5) In paragraph (1A), the reference to a decision of the competent authority not to recognise a person’s qualification under the Professional Qualifications Regulations 2023 is to be treated as including any failure by the competent authority to notify the applicant of its decision concerning the person’s application within the period of four months beginning with the day after the day on which the person submitted a complete application to the competent authority under the Professional Qualifications Regulations 2023.
+
+## SCHEDULE 4 — Amendments consequent upon the coming into force of section 5(1) of the Professional Qualifications Act 2022
+
+Regulation 4
+
+### PART 1 — Amendments in relation to education professions
+
+#### 1. Amendments to the School Teachers’ Qualifications (Wales) Regulations 2012[^key-77232d0116a19effb36f31ff66c54c57]
+
+(1) The School Teachers’ Qualifications (Wales) Regulations 2012[^f00015] are amended as follows.
+
+(2) In paragraph 4 of Schedule 2 (qualified teacher status requirements)—
+
+- (a) at the end of sub-paragraph (b), omit “or”;
+- (b) at the end of sub-paragraph (c), for “.” substitute “; or”;
+- (c) after sub-paragraph (c), insert—
+
+  > - (d) a decision taken or determination made under the 2015 European Union Regulations in accordance with paragraphs 1, 2(2) and (3) of Schedule 1 to the Professional Qualifications Act 2022 (Commencement No. 3) Regulations 2023[^f00016].
+
+#### 2. Amendments to the Education Workforce Council (Registration of Youth Workers, Youth Support Workers and Work Based Learning Practitioners) Order 2016[^key-887c121ef16340f1d99bc47e58accfd7]
+
+(1) The Education Workforce Council (Registration of Youth Workers, Youth Support Workers and Work Based Learning Practitioners) Order 2016[^f00017] is amended as follows.
+
+(2) In article 2 (interpretation), in the appropriate place insert—
+
+> - “**the 2023 Commencement Regulations**” (“***Rheoliadau Cychwyn 2023***”) means the Professional Qualifications Act 2022 (Commencement No. 3) Regulations 2023[^f00018];
+
+.
+
+(3) In paragraph 2 (alternative requirements) of Schedule 1 (youth workers), after sub-paragraph (c) insert—
+
+> - (d) is authorised to practice as a youth worker by virtue of a decision taken or determination made under the 2015 Regulations in accordance with paragraphs 1, 2(2) and (3) of Schedule 1 to the 2023 Commencement Regulations.
+
+(4) In paragraph 7 (alternative requirements) of Schedule 2 (youth support workers), after sub-paragraph (c) insert—
+
+> - (d) is authorised to practice as a youth support worker by virtue of a decision taken or determination made under the 2015 Regulations in accordance with paragraphs 1, 2(2) and (3) of Schedule 1 to the 2023 Commencement Regulations.
+
+### PART 2 — Amendments in relation to social care professions
+
+#### 3. Amendment to Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019[^key-87601762546761092111f8a678a83582]
+
+(1) The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019[^f00019] are amended as follows.
+
+(2) Omit regulation 15C.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision under section 3(1) of the Professional Qualifications Act [2022 (c. 20)](https://www.legislation.gov.uk/ukpga/2022/20) (“**the 2022 Act**”) to implement in relation to Wales provisions relating to the recognition of professional qualifications contained in the free trade agreement between Iceland, the Principality of Liechtenstein and the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland done at London on 8th July 2021 (“**the EEA EFTA free trade agreement**”).
+
+Section 3(1) of the 2022 Act gives the appropriate national authority the power by regulations to make such provision as the authority considers appropriate for the purpose of, or in connection with, implementing any international recognition agreement to which the United Kingdom is a party. The Secretary of State used this power, amongst others, to make the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 ([S.I. 2023/1286](https://www.legislation.gov.uk/uksi/2023/1286)”) (“**the UK 2023 Regulations**”) to implement the EEA EFTA free trade agreement across the UK.
+
+Paragraph 10 (foreign affairs etc.) of Schedule 7A (reserved matters) to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) provides that observing and implementing international obligations is not a reserved matter.
+
+The UK 2023 Regulations include provision to implement the EEA EFTA free trade agreement in relation to subject areas which are devolved to Wales and impose statutory duties on regulators which the Senedd has the legislative competence to make.
+
+These Regulations amend the UK 2023 Regulations to provide that they do not apply to the regulators of the regulated professions listed in Schedule 1 in respect of which the Senedd has legislative competence, defined as “Welsh regulated professions”. These Regulations also make provision to implement the EEA EFTA free trade agreement in relation to the Welsh regulated professions.
+
+Schedule 3 contains amendments to sectoral legislation for the purpose of, and in connection with, implementing provisions relating to the recognition of professional qualifications in the EEA EFTA free trade agreement.
+
+Schedule 4 contains amendments to sectoral legislation consequent upon the coming into force of section 5(1) of the 2022 Act and the revocation of the European Union (Recognition of Professional Qualifications) Regulations 2015 ([S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059)) which provided a general system of recognition for qualifications from the European Economic Area and Switzerland. Following the end of the EU exit transition period, this system had been retained in the interim, enabling those holding EEA and Swiss qualifications to have their qualifications recognised in the UK. The 2022 Act revokes this system and establishes a new approach based on regulator autonomy and implementation of international agreements.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2022 c. 20](https://www.legislation.gov.uk/ukpga/2022/20).
+
+[^f00002]: Footnote: EUR 2002/178, amended by [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641); there are other amending instruments but none is relevant. [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641) was amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504).
+
+[^key-dafea0e4650885e4b1d4b4c290e73e2f]: Commencement: Reg. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-40112caa9cc175fe41baf2173f1c7e8c]: Commencement: Reg. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2023/1286](https://www.legislation.gov.uk/uksi/2023/1286).
+
+[^key-410bcc6dd175f10922b6b992c7475c8a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2023/1294/regulation/2) substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/3/2)
+
+[^f00004]: Footnote: Miscellaneous Series No.3 (2021); CP 496, done at London on 8th July 2021.
+
+[^key-4d6afb1f18d3b399b3c515bf095fc735]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2023/1294/regulation/2) omitted (1.1.2025) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [3(3)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/3/3)
+
+[^key-f47c6e8fd9e5bc1b3a9606f6f3552bb3]: Commencement: Reg. 3 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-1b509056dcc86e000479f46ee5020123]: Commencement: Reg. 4 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-0c6709ed8b1154cb645213b1c82eca3a]: Commencement: Reg. 5 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-24cc883887afb77a8c759fef76066553]: Commencement: Reg. 6 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-2e13f6487dd52aa37f0006801f9cb9f2]: Commencement: Reg. 7 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-d779a73331303ae0cacb37c3ee0ed5b4]: Commencement: Reg. 8 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-fc5c220cc363fdc97d1b44a843982a4c]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/wsi/2023/1294/regulation/8/6) substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [4](https://www.legislation.gov.uk/wsi/2024/1183/regulation/4)
+
+[^key-7ce27f2d77082f153660214420c00def]: Commencement: Reg. 9 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-368bd66b759784a8aadd997351969a36]: Commencement: Reg. 10 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-605203e0d346a716820a094278d46f8d]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2023/1294/regulation/11) substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [5](https://www.legislation.gov.uk/wsi/2024/1183/regulation/5)
+
+[^key-b1afdea83807dae285d0479da2bc80b8]: Commencement: Reg. 12 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-da84ee1f15f960b3e965abb8ee0e783a]: Commencement: Reg. 13 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-8e9177bc90ceebde33df148a80b8b782]: Commencement: Reg. 14 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-661324cfa7be45d4beaed2967f334f55]: Textual amendment: [Sch. 1 para. A1](https://www.legislation.gov.uk/wsi/2023/1294/schedule/1/paragraph/A1) inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [14(a)](https://www.legislation.gov.uk/wsi/2024/613/article/14/a)
+
+[^key-d32aade4ad3c41f5a8d8a26dab5521cf]: Commencement: Sch. 1 para. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-46b1755a89cdc9df7907a59f482ab4df]: Commencement: Sch. 1 para. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-7f32134fc47c9e490c788d71d706b18b]: Commencement: Sch. 1 para. 3 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-4f9042c4b24ceb0837163d5dc3075bb6]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/wsi/2023/1294/schedule/1/paragraph/3A) inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [14(b)](https://www.legislation.gov.uk/wsi/2024/613/article/14/b)
+
+[^key-d9316064cbecd78eee8b1af7dc8e57f3]: Commencement: Sch. 1 para. 4 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-fd7ff6d24935de970134a36f97d2a221]: Commencement: Sch. 1 para. 5 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-bc84c8703f5781ae299a015d3d2cd811]: Commencement: Sch. 1 para. 6 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-fc2ca6ebfa6a9d256fd56265f63652b7]: Commencement: Sch. 1 para. 7 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-d62e2f27282f4ab8e54d1133846e7fef]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2023/1294/schedule/1/paragraph/8) omitted (1.4.2026) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [16(2)(a)](https://www.legislation.gov.uk/wsi/2026/24/regulation/16/2/a)
+
+[^key-c2c65d3a1b079b89a9714e8925ce73be]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2023/1294/schedule/1/paragraph/9) omitted (1.4.2026) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [16(2)(b)](https://www.legislation.gov.uk/wsi/2026/24/regulation/16/2/b)
+
+[^key-4fc0eb1994244b87ed0af524f48a43af]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2023/1294/schedule/1/paragraph/10) omitted (1.4.2026) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [16(2)(c)](https://www.legislation.gov.uk/wsi/2026/24/regulation/16/2/c)
+
+[^key-e3b930ce18d3b466a8f99753a29f74dc]: Commencement: Sch. 1 para. 11 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-433d75365080744c885cb4bd2b29fff0]: Commencement: Sch. 1 para. 12 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-bfc0609eecaee62f2157ad819010241d]: Commencement: Sch. 2 para. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-83a21524e76eb57bbb13c72f50f4e65b]: Commencement: Sch. 2 para. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-765e3029ae0a3de9a3be956ffcba9937]: Commencement: Sch. 2 para. 3 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^key-1080171fb9df83119cf1bc0d66895b5a]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2023/1294/schedule/2/paragraph/4) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [6](https://www.legislation.gov.uk/wsi/2024/1183/regulation/6)
+
+[^key-d14caa37cc890c3b821b6ea646535d7d]: Commencement: Sch. 3 para. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00005]: Footnote: [S.I. 2012/724 (W. 96)](https://www.legislation.gov.uk/wsi/2012/724); paragraph 4A of Schedule 2 was inserted by [S.I. 2019/444 (W. 107)](https://www.legislation.gov.uk/wsi/2019/444). There are other amending instruments but none is relevant.
+
+[^key-6ab3584db8da7283791864a88f9c535e]: Commencement: Sch. 3 para. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00006]: Footnote: [S.I. 2015/484 (W. 41)](https://www.legislation.gov.uk/wsi/2015/484); paragraph 8 of Schedule 2 was substituted by [S.I. 2019/444 (W. 107)](https://www.legislation.gov.uk/wsi/2019/444). There are other amending instruments but none is relevant.
+
+[^key-32d17166c11d0025b76e3f6c10c47c80]: Commencement: Sch. 3 para. 3 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00007]: Footnote: [S.I. 2016/1183 (W. 288)](https://www.legislation.gov.uk/wsi/2016/1183), to which there are amendments not relevant to these Regulations.
+
+[^key-a3f9e366054fbcd7d599df126f80ee7f]: Commencement: Sch. 3 para. 4 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00008]: Footnote: EUR 2014/517, as amended by [S.I. 2019/5](https://www.legislation.gov.uk/uksi/2019/5). There are other amending instruments but none is relevant.
+
+[^key-ec6653f9ff611430bb6d60f8d19ff2da]: Commencement: Sch. 3 para. 5 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00009]: Footnote: [S.I. 2015/168](https://www.legislation.gov.uk/uksi/2015/168), to which there are amendments not relevant to these Regulations.
+
+[^f00010]: Footnote: Details can be obtained from the British Pest Control Association, 4A Mallard Way, Pride Park, Derby DE24 8GX, telephone number 01332 294288/225113; email: enquiry@bpca.org.uk.
+
+[^key-41c43dd50e6e289187da38d126489aad]: Commencement: Sch. 3 para. 6 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00011]: Footnote: [S.I. 2013/479 (W. 55)](https://www.legislation.gov.uk/wsi/2013/479), amended by [S.I. 2020/1581 (W. 331)](https://www.legislation.gov.uk/wsi/2020/1581); there are other amending instruments but none is relevant.
+
+[^key-43505690b985210da5c27de7f7b0d15f]: Commencement: Sch. 3 para. 7 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00012]: Footnote: EUR 2005/1, as amended by [S.I. 2019/802](https://www.legislation.gov.uk/uksi/2019/802). There are other amending instruments but none is relevant.
+
+[^key-3801ec7b21f4a5820d8eef78442100fb]: Commencement: Sch. 3 para. 8 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00013]: Footnote: EUR 2009/1099, as amended by [S.I. 2019/802](https://www.legislation.gov.uk/uksi/2019/802). There are other amending instruments but none is relevant.
+
+[^key-761951806d7b68bc7d70d657529690cc]: Commencement: Sch. 3 para. 9 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00014]: Footnote: [S.I. 2014/951 (W. 92)](https://www.legislation.gov.uk/wsi/2014/951), as amended by [S.I. 2019/684 (W. 131)](https://www.legislation.gov.uk/wsi/2019/684). There are other amending instruments but none is relevant.
+
+[^key-77232d0116a19effb36f31ff66c54c57]: Commencement: Sch. 4 para. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00015]: Footnote: [S.I. 2012/724 (W. 96)](https://www.legislation.gov.uk/wsi/2012/724); paragraph 4 of Schedule 2 was substituted by [S.I. 2019/444 (W. 107)](https://www.legislation.gov.uk/wsi/2019/444). There are other amending instruments but none is relevant.
+
+[^f00016]: Footnote: [S.I. 2023/1081](https://www.legislation.gov.uk/uksi/2023/1081).
+
+[^key-887c121ef16340f1d99bc47e58accfd7]: Commencement: Sch. 4 para. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00017]: Footnote: [S.I. 2016/1183 (W. 288)](https://www.legislation.gov.uk/wsi/2016/1183), to which there are amendments not relevant to these Regulations.
+
+[^f00018]: Footnote: [S.I. 2023/1081](https://www.legislation.gov.uk/uksi/2023/1081).
+
+[^key-87601762546761092111f8a678a83582]: Commencement: Sch. 4 para. 3 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1)
+
+[^f00019]: Footnote: [S.I. 2019/761 (W. 144)](https://www.legislation.gov.uk/wsi/2019/761), as amended by [S.I. 2020/1626 (W. 341)](https://www.legislation.gov.uk/wsi/2020/1626).

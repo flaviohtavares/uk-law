@@ -1,0 +1,304 @@
+---
+title: The Specified Sugar Products (Wales) Regulations 2003
+id: wsi/2003/3047
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-11-26'
+text_date: '2025-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2003/3047
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2003/3047/pdfs/wsi_20033047_mi.pdf
+- http://www.legislation.gov.uk/wsi/2003/3047/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Specified Sugar Products (Wales) Regulations 2003
+
+> Text as at 2025-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 3047 (W.290)
+
+FOOD, WALES
+
+The Specified Sugar Products (Wales) Regulations 2003
+
+Made
+
+26th November 2003
+
+Coming into force
+
+28th November 2003
+
+The National Assembly for Wales, in exercise of the powers conferred by sections 16(1)(e), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990 [^c5190881] and now vested in it [^c5190891], having had regard, in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency, and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council [^c5190901] and in accordance with section 48(4) and (4B) of the said Act, hereby makes the following Regulations:[^key-f8ce8500f69838e7212ccc812154842c]
+
+## 1. Title, commencement and application
+
+These Regulations may be cited as the Specified Sugar Products (Wales) Regulations 2003, shall come into force on 28th November 2003 and shall apply to Wales only.
+
+## 2. Interpretation
+
+In these Regulations —
+
+- “**the Act**” (“***y Ddeddf***”) means the Food Safety Act 1990;
+- “**candy sugar**” (“***siwgr candi***”) means crystalline sugar with crystals having any dimension greater than one centimetre;
+- “**catering establishment**” (“***sefydliad arlwyo***”) means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the ultimate consumer and is ready for consumption without further preparation;
+- [^key-a7d688863a3a501daff6020abc34e8f7]...
+- [^key-a7d688863a3a501daff6020abc34e8f7]...
+- “**food authority**” (“***awdurdod bwyd***”) has the same meaning as in section 5(1A) and (3)(a) and (b) of the Food Safety Act 1990;
+- “**icing sugar**” (“***siwgr eisin***”) means fine particles of white sugar or extra-white sugar or mixtures thereof;
+- [^key-4653321db83312f038a68e4307ed805d]...
+- “**preparation**” (“***paratoi***”) includes manufacture and any form of processing or treatment and “**prepared**” shall be construed accordingly;
+- “**reserved description**”, (“***disgrifiad neilltuedig***”) as respects any specified sugar product, means any description specified in relation to that product in column 1 of Schedule 1 (as read with the notes relating to that Schedule) and the use of any such description in these Regulations shall be construed as meaning the product to which that description relates;
+- “**sell**” (“***gwerthu***”) includes offer or expose for sale or have in possession for sale, and cognate expressions shall be construed accordingly;
+- “**specified sugar product**” (“***cynnyrch siwgr penodedig***”) means any food specified in column 2 of Schedule 1 (as read with the Notes relating to that Schedule) but does not include any such food in the form of icing sugar, candy sugar or sugar in loaf form;
+- “**sugar in loaf form**” (“***siwgr lwmp***”) means a piece of agglomerated crystalline sugar, usually conically shaped, weighing not less than 250 grammes; and
+- “**ultimate consumer**” (“***defnyddiwr olaf***”) means any person who buys otherwise than —
+  - (a) for the purpose of resale,
+  - (b) for the purposes of a catering establishment, or
+  - (c) for the purposes of a manufacturing business.
+
+## 3. Scope of Regulations
+
+These Regulations apply to specified sugar products, intended for human consumption and ready for delivery to the ultimate consumer or to a catering establishment.
+
+## 4. Reserved descriptions
+
+No person shall sell any food with a label, whether or not attached to or printed on the wrapper or container, which bears, comprises or includes any reserved description or any derivative thereof or any word or description substantially similar thereto unless —
+
+- (a) such food is the specified sugar product to which the reserved description relates;
+- (b) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food;
+- (c) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that such food is not and does not contain a specified sugar product; or
+- (d) such description, derivative or word is used in a customary name for another food product and is not liable to mislead the consumer.
+
+## 5. Labelling and description of specified sugar products
+
+Without prejudice to the generality of Regulation ([^key-6cd1f688e1c2950fe3cf6d7e032d8a65]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, no person shall sell any specified sugar product unless it is marked or labelled with the following particulars —
+
+- (a) the reserved description of the product; and
+- (b) in the case of sugar solution, invert sugar solution and invert sugar syrup, the dry matter and invert sugar content of the product.
+
+## 6. Manner of marking or labelling[^key-adc6c9ab6361ec0d94daa76025d377e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Penalties and enforcement
+
+(1) Any person who contravenes or fails to comply with regulation 4 or 5 of these Regulations shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) Each food authority shall enforce and execute these Regulations in its area.
+
+## 8. Defence in relation to exports[^key-e84a2e8e3d452da43365d38bfc84f44c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Application of various provisions of the Food Safety Act 1990
+
+The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part thereof shall be construed for the purposes of these Regulations as a reference to these Regulations —
+
+- (a) section 2 (extended meaning of sale etc.);
+- (b) section 3 (presumptions that food is intended for human consumption);
+- (c) section 20 (offences due to fault of another person);
+- (d) section 21 (defence of due diligence) as it applies for the purposes of sections 8, 14 or 15 of the Act;
+- (e) section 22 (defence of publication in the course of business);
+- (f) section 30(8) (which relates to documentary evidence);
+- (g) section 33(1) (obstruction etc. of officers);
+- (h) section 33(2), with the modification that the reference to “any such requirement as is mentioned in subsection (1)(b) above” shall be deemed to be a reference to any such requirement as is mentioned in that subsection as applied by sub-paragraph (g) above;
+- (i) section 35(1) (punishment of offences) insofar as it relates to offences under section 33(1) as applied by sub-paragraph (g) above;
+- (j) section 35(2) and (3) insofar as it relates to offences under section 33(2) as applied by sub-paragraph (h) above;
+- (k) section 36 (offences by bodies corporate); and
+- (l) section 44 (protection of officers acting in good faith).
+
+## 10. Revocations and consequential amendments
+
+(1) The following Regulations are hereby revoked (insofar as they apply to Wales):
+
+- (a) the Specified Sugar Products Regulations 1976 [^c5190951];
+- (b) the Specified Sugar Products (Amendment) Regulations 1982 [^c5190961].
+
+(2)[^key-3a508fb44902da3be5754eb9ad5745ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Entries relating to the Specified Sugar Products Regulations 1976 in the provisions of the Regulations set out below shall, insofar as the Regulations apply to Wales, be omitted —
+
+- (a) in the Food (Revision of Penalties) Regulations 1982 [^c5190971], in Schedule 1;
+- (b) in the Food (Revision of Penalties) Regulations 1985 [^c5190981], in the Schedule, Part I;
+- (c) in the Food Safety Act 1990 (Consequential Modifications) (England and Wales) Order 1990 [^c5190991], in Schedule 1, Part I, Schedule 2, Schedule 3, Part I and Schedules 6 and 12;
+- (d) in the Food Safety (Exports) Regulations 1991 [^c5191001], in Schedule 1, Part I;
+- (e) in the Food (Forces Exemptions) (Revocations) Regulations 1992 [^c5191011], in the Schedule, Part I;
+- (f) in the Miscellaneous Food Additives Regulations 1995 [^c5191021], in Schedule 9;
+- (g) in the Miscellaneous Food Additives (Amendment) Regulations 1999 [^c5191031], in regulation 14(1);
+- (h) in the Miscellaneous Food Additives (Amendment) (Wales) Regulations 2002 [^c5191041], in regulation 9(2).
+
+(4) In the Colours in Food Regulations 1995 [^c5191051], insofar as they apply to Wales, in regulation 12 paragraph (2) shall be omitted;
+
+(5) In the Miscellaneous Food Additives Regulations 1995, insofar as they apply to Wales —
+
+- (a) in regulation 10, paragraph (4) shall be omitted;
+- (b) in Schedule 2, in column 1, for the reference to “Directive [73/437/EEC](https://www.legislation.gov.uk/eudr/1973/437)” there is substituted a reference to “ Directive [2001/111/EC](https://www.legislation.gov.uk/eudr/2001/111) ”.
+
+(6) In the Coffee Extracts and Chicory Extracts (Wales) Regulations 2001 [^c5191061], in regulation 5(1)(c), for the reference to the Specified Sugar Products Regulations 1976 there is substituted a reference to the Specified Sugar Products (Wales) Regulations 2003.
+
+## 11. Transitional provision[^key-42a32127f2c530eddbb749b3b8a7c30c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c5191071] Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+## SCHEDULE 1 — SPECIFIED SUGAR PRODUCTS AND THEIR RESERVED DESCRIPTIONS
+
+Regulation 2
+
+ 
+
+| *Column 1* | *Column 2* |
+| --- | --- |
+| *Reserved Descriptions* | *Specified Sugar Products* |
+| **1.** **Semi-white sugar** | Purified and crystallised sucrose of sound and fair marketable quality with the following characteristics:<br>- (a) polarisation not less than 99.5°Z<br>- (b) invert sugar content not more than 0.1% by weight<br>- (c) loss on drying not more than 0.1% by weight |
+| **2.** **Sugar or white sugar** | Purified and crystallised sucrose of sound and fair marketable quality with the following characteristics:<br>- (a) polarisation not less than 99.7°Z<br>- (b) invert sugar content not more than 0.04% by weight<br>- (c) loss on drying not more than 0.06% by weight<br>- (d) type of colour not more than nine points determined in accordance with paragraph (2) of Schedule 2 |
+| **3.** **Extra-white sugar** | The product having the characteristics referred to in paragraph 2(a), (b) and (c) of this Schedule and in respect of which the total number of points determined according to the provisions of paragraphs 2 to 4 of Schedule 2 does not exceed eight, and not more than:<br>- — four for the colour type,<br>- — six for the ash content,<br>- — three for the colour in solution |
+| **4.** **Sugar solution** | The aqueous solution of sucrose with the following characteristics:<br>- (a) dry matter not less than 62% by weight<br>- (b) invert sugar content (ratio of fructose to dextrose = 1.0 ± 0.2) not more than 3% by weight of dry matter<br>- (c) conductivity ash not more than 0.1% by weight of dry matter, determined in accordance with paragraph 3 of Schedule 2<br>- (d) colour in solution not more than 45 ICUMSA units |
+| **5.** **Invert sugar solution** | The aqueous solution of sucrose partially inverted by hydrolysis, in which the proportion of invert sugar does not predominate, with the following characteristics:<br>- (a) dry matter not less than 62% by weight<br>- (b) invert sugar content (ratio of fructose to dextrose = 1.0 ± 0.1) more than 3% but not more than 50% by weight of dry matter<br>- (c) conductivity ash not more than 0.4% by weight of dry matter, determined in accordance with paragraph 3[^key-4f57ce3793a75a8b798dbbda88917145] of Schedule 2 |
+| **6.** **Invert sugar syrup** | The aqueous solution, whether or not crystallised, of sucrose that has been partly inverted via hydrolysis, in which the invert sugar content (fructose/dextrose quotient = 1.0 ± 0.1), must exceed 50% by weight of dry matter, but which must otherwise meet the requirements laid down in paragraph 5(a) and (c) of this Schedule. |
+| **7.** **Glucose syrup** | The purified and concentrated aqueous solution of nutritive saccharides obtained from starch and/or insulin, with the following characteristics:<br>- (a) dry matter not less than 70% by weight<br>- (b) dextrose equivalent not less than 20% by weight of dry matter and expressed as D-glucose<br>- (c) sulphated ash not more than 1% by weight of dry matter |
+| **8.** **Dried glucose syrup** | Partially dried glucose syrup with at least 93% by weight of dry matter, but which must otherwise meet the requirements laid down in paragraph 7(b) and (c) of this Schedule. |
+| **9.** **Dextrose or dextrose monohydrate** | Purified and crystallised D-glucose containing one molecule of water of crystallisation, with the following characteristics:<br>- (a) dextrose (D-glucose) not less than 99.5% by weight of dry matter<br>- (b) dry matter not less than 90% by weight<br>- (c) sulphated ash not more than 0.25% by weight of dry matter |
+| **10.** **Dextrose or dextrose anhydrous** | Purified and crystallised D-glucose not containing water of crystallisation, with at least 98% by weight of dry matter, but which must otherwise meet the requirements laid down in paragraph 9(a) and (c) of this Schedule. |
+| **11.** **Fructose** | Purified crystallised D-fructose with the following characteristics:<br>- fructose content 98% minimum<br>- glucose content 0.5% maximum<br>- loss on drying not more than 0.5% by weight<br>- conductivity ash not more than 0.1% by weight determined in accordance with paragraph 3[^key-bb1b1280b2f6fac71e4cf11970a09c3d] of Schedule 2 |
+
+### 1. Notes:
+
+The reserved description “sugar” or “white sugar” may be used as an alternative to the reserved description “extra-white sugar” in the case of the product described at paragraph 3 above.
+
+**2.** In the case of invert sugar syrup incorporating crystals in the solution the qualifying term “crystallised” shall be added to the description of the product.
+
+**3.** Where a specified sugar product described at paragraph 7 or 8 above contains fructose in a proportion of greater than 5% on a dry matter basis the reserved description shall be “glucose-fructose syrup” or “fructose-glucose syrup” and “dried glucose-fructose syrup” or “dried fructose-glucose syrup” as the case may be so as to reflect whether the glucose component or the fructose component is in greater proportion.
+
+**4.** The products described at paragraphs 1 to 11 above may, in addition to the reserved description, also bear commonly used qualifying terms provided that the result is not liable to mislead the consumer.
+
+**5.** The description “white” may be used in relation to any product described at paragraph 4 above where the colour in solution does not exceed 25 ICUMSA units determined in accordance with the method of the International Commission for Uniform Methods of Sugar Analysis (“ICUMSA”) as set out in paragraph 3 of Chapter A of the Annex to Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/eur/1969/1265) [^c5191081].
+
+**6.** The description “white” may be used in relation to any of the products described at paragraphs 5 and 6 above where the conductivity ash content does not exceed 0.1% and the colour in solution does not exceed 25 ICUMSA units determined as set out in paragraph 1 of Chapter A of the Annex to Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/eur/1969/1265).
+
+**7.**[^key-826c49dabf3ee95198cdb008482e828b] Specified sugar products may contain—
+
+- (a) a permitted extraction solvent, as defined in regulation 11 of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013;
+- (b) any food additive authorised under Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives.
+
+## SCHEDULE 2 — METHODS OF ANALYSIS
+
+**1.** The method for determining the loss on drying of semi-white sugar, sugar or white sugar and extra-white sugar is Method 1.
+
+**2.** The method of determining the colour type of sugar or white sugar and extra-white sugar is the method of the Brunswick Institute for Agricultural and Sugar Industry Technology set out in paragraph 2 of Chapter A of the Annex to Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/european/regulation/1969/1265). For the purpose of determining the number of points, one point corresponds to 0.5 units.
+
+**3.** The method of determining the ash content of extra-white sugar, sugar solution, invert sugar solution, invert sugar syrup and fructose is the method of ICUMSA as set out in paragraph 1 of Chapter A of the Annex to Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/european/regulation/1969/1265). For the purpose of determining the number of points, one point corresponds to 0.0018% of ash.
+
+**4.** The method of determining the colour in solution of extra-white sugar and sugar solution is the method of ICUMSA set out in paragraph 3 of Chapter A of the Annex to Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/european/regulation/1969/1265). For the purpose of determining the number of points for the purposes of paragraph 3 of Schedule 1, one point corresponds to 7.5 units.
+
+**5.** The method for determining the dry matter content of glucose syrup, dried glucose syrup, dextrose or dextrose monohydrate and dextrose or dextrose anhydrous is Method 2.
+
+**6.** The method for determining the dry matter content of sugar solution, invert sugar solution and invert sugar syrup is Method 3.
+
+**7.** The method for determining the invert sugar content of semi-white sugar is Method 4.
+
+**8.** The method for determining the invert sugar content of sugar or white sugar and extra-white sugar is Method 5.
+
+**9.** The method for determining the invert sugar content of sugar solution, invert sugar solution and invert sugar syrup is Method 7.
+
+**10.** The method for determining the sulphated ash content of glucose syrup, dried glucose syrup, dextrose or dextrose monohydrate and dextrose or dextrose anhydrous is Method 9.
+
+**11.** The method for determining the polarisation of semi-white sugar, sugar or white sugar and extra-white sugar is Method 10.
+
+**12.** For the purposes of this Schedule —
+
+- (a) references to Methods 1, 2, 3, 4, 5, 7, 9 and 10 are references to the Methods specified by the same numbers in Annex II to Commission Directive [79/796/EEC](https://www.legislation.gov.uk/european/directive/1979/0796) [^c5191111] laying down Community methods of analysis for testing certain sugars intended for human consumption, as read with the introduction to that Annex;
+- (b) “**ICUMSA**” means the International Commission for Uniform Methods of Sugar Analysis.
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which apply to Wales, implement Council Directive [2001/111/EC](https://www.legislation.gov.uk/european/directive/2001/0111) relating to certain sugars intended for human consumption (OJ No. L10, 12.1.2002, p.53) apart from Article 2.2 which concerns the labelling of weights on small pre-packaged products. They revoke and replace the Specified Sugar Products Regulations 1976, as amended, in relation to Wales.
+
+The Regulations —
+
+- (a) prescribe definitions and reserved descriptions for certain specified sugar products (regulation 2 and Schedules 1 and 2);
+- (b) provide for the Regulations to apply to such specified sugar products intended for human consumption and ready for delivery to the ultimate consumer or to a catering establishment (regulation 3);
+- (c) restrict the use of reserved descriptions to the specified sugar products to which they relate (regulation 4);
+- (d) prescribe labelling requirements for such products (regulation 5);
+- (e) prescribe the manner of marking or labelling by applying specified provisions of the Food Labelling Regulations 1996 (regulation 6);
+- (f) specify a penalty, enforcement authorities and, in accordance with Articles 2 and 3 of Council Directive [89/397/EEC](https://www.legislation.gov.uk/european/directive/1989/0397) on the official control of foodstuffs (OJ No. L186, 30.6.89, p.23) and the European Economic Area Agreement, a defence in relation to exports (regulations 7 and 8);
+- (g) apply various provisions of the Food Safety Act 1990 (regulation 9);
+- (h) revoke the previous Regulations and make consequential amendments and transitional provision (regulations 10 and 11). An effect of the revocation contained in regulation 10(1)(a) and the absence of any re-enactment of the provision thereby revoked is that Part II of the Food Labelling Regulations 1996 will apply in relation to the products to which these Regulations relate.
+
+A Regulatory appraisal has been prepared pursuant to section 65 of the Government of Wales Act 1998 and placed in the Library of the National Assembly for Wales together with a Transposition Note setting out how the main elements of the European legislation referred to above are transposed in these Regulations. Copies may be obtained from the Food Standards Agency, 11th Floor, Southgate House, Cardiff CF10 1EW.
+
+## Annotations
+
+[^c5190881]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^c5190891]: Marginal citation: Functions of “the Secretary of State” under the Food Safety Act 1990, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^c5190901]: Marginal citation: OJ No. L31, 1.2.2002, p.1.
+
+[^key-f8ce8500f69838e7212ccc812154842c]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2003/3047) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-a7d688863a3a501daff6020abc34e8f7]: Textual amendment: Words in reg. 2 omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [8(2)](https://www.legislation.gov.uk/wsi/2018/806/regulation/8/2)
+
+[^key-4653321db83312f038a68e4307ed805d]: Textual amendment: Words in reg. 2 omitted (13.12.2014) by virtue of [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 36](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/36)
+
+[^key-6cd1f688e1c2950fe3cf6d7e032d8a65]: Textual amendment: Words in reg. 5 substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 37](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/37)
+
+[^key-adc6c9ab6361ec0d94daa76025d377e3]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2003/3047/regulation/6) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
+
+[^key-e84a2e8e3d452da43365d38bfc84f44c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2003/3047/regulation/8) revoked (1.1.2006) by [The Official Feed and Food Controls (Wales) Regulations 2005 (S.I. 2005/3254)](https://www.legislation.gov.uk/wsi/2005/3254), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/wsi/2005/3254/schedule/6/part/2)
+
+[^c5190951]: Marginal citation: [S.I. 1976/509](https://www.legislation.gov.uk/uksi/1976/509).
+
+[^c5190961]: Marginal citation: [S.I. 1982/255](https://www.legislation.gov.uk/uksi/1982/255).
+
+[^key-3a508fb44902da3be5754eb9ad5745ff]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/wsi/2003/3047/regulation/10/2) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
+
+[^c5190971]: Marginal citation: [S.I. 1982/1727](https://www.legislation.gov.uk/uksi/1982/1727).
+
+[^c5190981]: Marginal citation: [S.I. 1985/67](https://www.legislation.gov.uk/uksi/1985/67).
+
+[^c5190991]: Marginal citation: [S.I. 1990/2486](https://www.legislation.gov.uk/uksi/1990/2486).
+
+[^c5191001]: Marginal citation: [S.I. 1991/1476](https://www.legislation.gov.uk/uksi/1991/1476).
+
+[^c5191011]: Marginal citation: [S.I. 1992/2596](https://www.legislation.gov.uk/uksi/1992/2596).
+
+[^c5191021]: Marginal citation: [S.I. 1995/3187](https://www.legislation.gov.uk/uksi/1995/3187).
+
+[^c5191031]: Marginal citation: [S.I. 1999/1136](https://www.legislation.gov.uk/uksi/1999/1136).
+
+[^c5191041]: Marginal citation: [S.I. 2002/329](https://www.legislation.gov.uk/uksi/2002/329) (W.42).
+
+[^c5191051]: Marginal citation: [S.I. 1995/3124](https://www.legislation.gov.uk/uksi/1995/3124).
+
+[^c5191061]: Marginal citation: [S.I. 2001/1440](https://www.legislation.gov.uk/uksi/2001/1440) (W.102).
+
+[^key-42a32127f2c530eddbb749b3b8a7c30c]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2003/3047/regulation/11) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [8(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/8/3)
+
+[^c5191071]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-4f57ce3793a75a8b798dbbda88917145]: Textual amendment: Words in Sch. 1 substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [8(4)(a)(i)](https://www.legislation.gov.uk/wsi/2018/806/regulation/8/4/a/i)
+
+[^key-bb1b1280b2f6fac71e4cf11970a09c3d]: Textual amendment: Words in Sch. 1 substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [8(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/8/4/a/ii)
+
+[^c5191081]: Marginal citation: OJ No. L163, 1.7.1969, p.1.
+
+[^key-826c49dabf3ee95198cdb008482e828b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2003/3047/schedule/1) Note 7 substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/1/2/b)
+
+[^c5191111]: Marginal citation: OJ No. L239, 22.9.79, p.24.

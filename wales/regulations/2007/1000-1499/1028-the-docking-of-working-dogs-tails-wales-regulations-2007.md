@@ -1,0 +1,216 @@
+---
+title: The Docking of Working Dogs' Tails (Wales) Regulations 2007
+id: wsi/2007/1028
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-03-28'
+text_date: '2015-12-25'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2007/1028
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2007/1028/pdfs/wsi_20071028_mi.pdf
+- http://www.legislation.gov.uk/wsi/2007/1028/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Docking of Working Dogs' Tails (Wales) Regulations 2007
+
+> Text as at 2015-12-25.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2007 No. 1028 (W.95)
+
+ANIMALS, WALES
+
+ANIMAL WELFARE
+
+The Docking of Working Dogs' Tails (Wales) Regulations 2007
+
+Made
+
+28 March 2007
+
+Coming into force
+
+29 March 2007
+
+The National Assembly for Wales, as the appropriate national authority in relation to Wales, makes the following Regulations in exercise of the powers conferred by section 6(4), (5), (6), (8) and (14) of the Animal Welfare Act 2006[^f00001].
+
+In accordance with section 6(15) of that Act, the Assembly has consulted those persons appearing to it to represent interests with which these Regulations are concerned as it considered appropriate.
+
+## 1. Title, commencement and application[^key-b6aec3e65901364d102401980fdf1fb0]
+
+The title of these Regulations is The Docking of Working Dogs' Tails (Wales) Regulations 2007. They apply in relation to Wales and come into force on 28 March 2007.
+
+## 2. Interpretation[^key-07c7e2243d0e1842f486210f787c74f5]
+
+In these Regulations—
+
+- “armed forces identification” (“*dynodiad yr heddlu*”) means evidence that the person presenting the identification is a member of one of Her Majesty’s armed forces, or is otherwise employed by or contracted to work for one of Her Majesty’s armed forces;
+- “club official” (“*swyddog clwb*”) means a person who serves a shoot club in an official capacity;
+- “emergency rescue identification” (“*dynodiad achub mewn argyfwng*”) means evidence that the person presenting the identification is a member of a body providing an emergency rescue service;
+- “gamekeeper” (“*ciper*”) means a person engaged by a person with shooting rights to preserve, protect or rear animals and to manage or assist with the management of a shoot;
+- “HMRC identification” (“*dynodiad CATHEM*”) means evidence that the person presenting the identification is an employee of Her Majesty’s Revenue & Customs;
+- “land-occupier” (“*meddiannydd tir*”) means a person who occupies land where a shoot takes place;
+- “person with shooting rights” “*person sydd â hawliau saethu*”) means an owner or lessee of shooting rights;
+- “police identification” (“*dynodiad yr heddlu*”) means evidence that the person presenting the identification is a police officer, or is otherwise employed by or contracted to work for a police authority;
+- “prison service identification” (“*dynodiad gwasanaeth carcharau*”) means evidence that the person presenting the identification is an authorised employee of either Her Majesty’s Prison Service or of an organisation contracted to provide custodial services on behalf of the Secretary of State;
+- “shoot” (“*crych saethu*”) means an occasion on which animals are shot for sporting purposes;
+- “shoot organiser” (“*trefynydd cyrch saethu*”) means any person responsible for the overall organisation of a shoot;
+- “specified type of work” (“*math penodedig o waith*”) means work in connection with law enforcement, activities of Her Majesty’s armed forces, emergency rescue, lawful pest control, or the lawful shooting of animals.
+
+## 3. Certification requirements[^key-320da6695fc5e7d22a68d0ab742799aa]
+
+(1) A veterinary surgeon may certify that he or she has seen evidence that a dog is likely to be used for a specified type of work and is a dog of a specified type, where—
+
+- (a) he or she is satisfied that the dam of the dog is of one or more of the types specified in Schedule 1;
+- (b) he or she reasonably believes that the dog is not more than 5 days old; and
+- (c) the owner of the dog, or another person whom the veterinary surgeon reasonably believes to be representing the owner, has shown to the veterinary surgeon the evidence specified in paragraph 2.
+
+(2) The evidence is—
+
+- (a) Evidence of the dam of the dog;
+- (b) a completed statement, made in Part 1 of a certificate in the form prescribed in Schedule 2, signed and dated by the owner of the dog or by another person whom the veterinary surgeon to whom it is presented reasonably believes to be representing the owner; and
+- (c) one of the following—
+  - (i) where the dog is presented for certification on behalf of one of Her Majesty’s armed forces, armed forces identification;
+  - (ii) where the dog is presented for certification on behalf of a body providing an emergency rescue service, emergency rescue identification;
+  - (iii) where the dog is presented for certification on behalf of a police authority, police identification;
+  - (iv) where the dog is presented for certification on behalf of Her Majesty’s Prison Service or of an organisation contracted to provide custodial services on behalf of the Secretary of State, prison service identification;
+  - (v) where the dog is presented for certification on behalf of Her Majesty’s Revenue & Customs, HMRC identification;
+  - (vi) evidence that the owner of the dog, or an agent or employee of the owner most likely to be using the dog, will be using the dog for work in connection with lawful pest control;
+  - (vii) a current shotgun or firearm certificate issued to the owner of the dog, or to the agent or employee of the owner most likely to be using the dog for work in connection with the lawful shooting of animals;
+  - (viii) a letter from a gamekeeper, a land-occupier (or their agent), a person with shooting rights, a shoot organiser, a club official, a person representing the National Working Terrier Federation, or a person engaged in lawful pest control, stating that the breeder of the dog whose tail is to be docked is known to him or her and that dogs bred by that breeder have been used (as the case may be) on his or her land, or in his or her shoot, or for pest control.
+
+(3) Any certification under paragraph (1) must be given in Part 2 of a certificate in the form prescribed in Schedule 2.
+
+## 4. Confirmation of tail docking[^key-1b53764db26108cf2fbd91799507d317]
+
+A veterinary surgeon who removes the whole or any part of a dog’s tail, otherwise than for the purpose of its medical treatment, must certify that fact in Part 3 of a certificate in the form prescribed in Schedule 2.
+
+## 5. Identification of docked dogs[^key-4d7915d74f50bedb95443f7ecf1cf265]
+
+(1) In order to be identified as a subsection (3) dog as required by section 6(8) of the Animal Welfare Act 2006 a dog must be microchipped—
+
+- (a) by a veterinary surgeon or a veterinary nurse acting under the supervision of a veterinary surgeon; and
+- (b)[^key-a05b4f90044bbd4fa61621130e88aecf] with a microchip which—
+  - (i) has a unique number which includes the manufacturer’s code;
+  - (ii) is compliant with ISO standard 11784:1996 of the International Standards Organisation’s standards for microchips;
+  - (iii) is compliant with all of ISO standard 11785:1996 of the International Standards Organisation’s standards for microchips apart from Annex A; and
+  - (iv) responds to a transceiver which operates at 134.2 kilohertz and conforms with the FDXB protocol set out in ISO standards 11784:1996 and 11785:1996.
+
+(2) A dog may only be microchipped for the purposes of these Regulations after the owner, or a person whom the veterinary surgeon who is to carry out or supervise the microchipping reasonably believes to be representing the owner, has made a signed and dated statement in Part 4 of a certificate in the form prescribed in Schedule 2.
+
+(3) The veterinary surgeon who carries out or supervises the microchipping must certify that fact in Part 5 of a certificate in the form prescribed in Schedule 2.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00003].
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+28 March 2007
+
+## SCHEDULE 1 — Specified Types of Dog[^key-83cafc7e6e3e6dd686948891dabf0ca0]
+
+Regulation 3(1)(a)
+
+[^key-83cafc7e6e3e6dd686948891dabf0ca0]
+
+- Spaniels
+
+  of the following breeds:
+
+  English Springer Spaniel
+
+  Welsh Springer Spaniel
+
+  Cocker Spaniel,
+
+  but not combinations of breeds.
+- Terriers
+
+  of the following breeds:
+
+  Jack Russell Terrier
+
+  Cairn Terrier
+
+  Lakeland Terrier,
+
+  Norfolk Terrier
+
+  but not combinations of breeds.
+- Hunt point retrieves
+
+  Of the breeds listed below:
+
+  Braque Italian
+
+  Brittany
+
+  German Long Haired Pointer
+
+  German Short Haired Pointer
+
+  German Wire Haired Pointer
+
+  Hungarian Vizsla
+
+  Hungarian Wire Haired Vizsla
+
+  Italian Spinone
+
+  Spanish Water Dog
+
+  Weinmaraner
+
+  Korthals Griffon
+
+  Slovakian Rough Haired Pointer
+
+  Large Munsterlander
+
+  Small Munsterlander
+
+## SCHEDULE 2 — Form of Certificate[^key-181b609e00491b4e391bb3cd4dc3312b]
+
+Regulations 3 and 4
+
+[image: see source](https://www.legislation.gov.uk/wsi/2007/1028/images/wsi_20071028_en_001) [image: see source](https://www.legislation.gov.uk/wsi/2007/1028/images/wsi_20071028_en_002) [image: see source](https://www.legislation.gov.uk/wsi/2007/1028/images/wsi_20071028_en_003) [image: see source](https://www.legislation.gov.uk/wsi/2007/1028/images/wsi_20071028_en_004) [image: see source](https://www.legislation.gov.uk/wsi/2007/1028/images/wsi_20071028_en_005) [image: see source](https://www.legislation.gov.uk/wsi/2007/1028/images/wsi_20071028_en_006)
+
+(This note is not part of the Regulations)
+
+Under section 6 of the Animal Welfare Act [2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), working dogs may be exempted by regulations from the prohibition upon the removal of the whole or any part of a dog’s tail, otherwise than for the purpose of its medical treatment.
+
+Regulation 3 sets out the requirements to be observed before a veterinary surgeon may certify that the dog is a working dog. Regulation 3(1)(a) and Schedule 1 specify the types of dog that are capable of being certified, and regulation 3(1)(c) and 3(2) describes the further evidence (concerning the likelihood that the dog will be used for certain work) that is required to be shown to a veterinary surgeon in order to obtain such a certificate. Regulation 4 requires a veterinary surgeon to certify the fact that he or she has docked a dog’s tail. Regulation 5 prescribes the way in which a dog whose tail is docked is to be identified by microchipping. Schedule 2 prescribes the form in which the certificate is to be given.
+
+A regulatory appraisal has been prepared. Copies may be obtained from the Office of the Chief Veterinary Officer, the Welsh Assembly Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 45](https://www.legislation.gov.uk/ukpga/2006/45). The appropriate national authority is defined in section 62(1) of the Act.
+
+[^key-b6aec3e65901364d102401980fdf1fb0]: Commencement: Reg. 1 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+
+[^key-07c7e2243d0e1842f486210f787c74f5]: Commencement: Reg. 2 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+
+[^key-320da6695fc5e7d22a68d0ab742799aa]: Commencement: Reg. 3 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+
+[^key-1b53764db26108cf2fbd91799507d317]: Commencement: Reg. 4 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+
+[^key-4d7915d74f50bedb95443f7ecf1cf265]: Commencement: Reg. 5 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+
+[^key-a05b4f90044bbd4fa61621130e88aecf]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2007/1028/regulation/5/1/b) substituted (25.12.2015) by [The Microchipping of Dogs (Wales) Regulations 2015 (S.I. 2015/1990)](https://www.legislation.gov.uk/wsi/2015/1990), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1990/regulation/1/2), [16](https://www.legislation.gov.uk/wsi/2015/1990/regulation/16)
+
+[^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-83cafc7e6e3e6dd686948891dabf0ca0]: Commencement: Sch. 1 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+
+[^key-181b609e00491b4e391bb3cd4dc3312b]: Commencement: Sch. 2 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)

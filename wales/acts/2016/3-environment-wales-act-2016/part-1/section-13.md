@@ -1,0 +1,25 @@
+---
+title: Environment (Wales) Act 2016, section 13
+act: Environment (Wales) Act 2016
+section: '13'
+status: revised-with-pending-changes
+text_date: '2026-06-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2016/3/section/13
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environment (Wales) Act 2016, section 13
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-06-27. See https://www.legislation.gov.uk/changes/affected/anaw/2016/3
+>
+> Extent: England, Wales.
+
+## 13. Guidance about implementing area statements
+
+*Extent: E+W*
+
+(1) In exercising its functions, a public body must have regard to any guidance given to it by the Welsh Ministers about steps that should be taken to address the matters specified in an area statement under section 11(3).
+
+(2) The Welsh Ministers must publish any guidance they give for the purposes of this section.

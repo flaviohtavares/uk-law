@@ -1,0 +1,22 @@
+---
+title: The County of Ceredigion (Communities) Order 2026, section 89
+act: The County of Ceredigion (Communities) Order 2026
+section: '89'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2026/94/section/89
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The County of Ceredigion (Communities) Order 2026, section 89
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 89. Creation of the new community of Llangynfelyn and Ysgubor-y-coed
+
+A new community is created which is to be known as Llangynfelyn and Ysgubor-y-coed in the English language and Llangynfelyn ac Ysgubor-y-coed in the Welsh language and which—
+
+- (a) comprises the area shown shaded on Map 40;
+- (b) forms part of the electoral ward of Ceulan a Maesmawr.

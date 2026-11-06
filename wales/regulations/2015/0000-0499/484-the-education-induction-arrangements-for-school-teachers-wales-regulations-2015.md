@@ -1,0 +1,736 @@
+---
+title: The Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015
+id: wsi/2015/484
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-03'
+text_date: '2023-12-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2015/484
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2015/484/pdfs/wsi_20150484_mi.pdf
+- http://www.legislation.gov.uk/wsi/2015/484/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015
+
+> Text as at 2023-12-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 484 (W. 41)
+
+Education, Wales
+
+The Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015
+
+Made
+
+3 March 2015
+
+Laid before the National Assembly for Wales
+
+5 March 2015
+
+Coming into force
+
+1 April 2015
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 17, 19(3) and 47(1) of the Education (Wales) Act 2014 [^c22439881] make the following Regulations:
+
+## 1. Title, commencement and application
+
+(1) The title of these Regulations is the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015 and they come into force on 1 April 2015.
+
+(2) These Regulations apply in relation to school teachers in Wales.
+
+## 2. Revocation and transitional provision
+
+(1) Subject to paragraph (2) the regulations set out in the first column of the table in Schedule 1 are revoked to the extent indicated in the third column of the table in Schedule 1.
+
+(2) A person who immediately before 1 April 2015 was serving an induction period in accordance with the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2005 [^c22439891] (“**the 2005 Regulations**”) is to be treated from that date as if they were serving an induction period in accordance with these Regulations and anything done under the 2005 Regulations is to be treated as done under these Regulations.
+
+## 3. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1998 Act**” (“***Deddf 1998***”) means the School Standards and Framework Act 1998 [^c22439901];
+- “**the 2002 Act**” (“***Deddf 2002***”) means the Education Act 2002 [^c22439911];
+- “**the 1999 Regulations**” (“***Rheoliadau 1999***”) means the Education (Teachers' Qualifications and Health Standards) (Wales) Regulations 1999 [^c22439921];
+- “**the 2014 Act**” (“***Deddf 2014***”) means the Education (Wales) Act 2014;
+- “[^key-5c8f33c50d1c90bb12fecdf92d90fba6]**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+- “**appropriate body**” (“***corff priodol***”) means the appropriate body under regulation 5;
+- “**authority**” (“***awdurdod***”) means a local authority in Wales;
+- “**the Council**” (“***y Cyngor***”) means the Education Workforce Council;
+- “**employer**” (“***cyflogwr***”) means an authority, governing body or other person who engages or make arrangements for the engagement of a person to provide their services as a teacher under a contract of employment or otherwise than under a contract of employment, and “**employed**” (“***cyflogedig***”), “**employment**” (“***cyflogaeth***”) and any expressions relating to the termination of employment are to be construed accordingly;
+- “**employment-based teacher training scheme**” (“***cynllun hyfforddi athrawon ar sail**cyflogaeth***”) means a scheme established by the Welsh Ministers under regulation 8 of the School Teachers' Qualifications Regulations;
+- “**England's Induction Regulations**” (“***Rheoliadau Sefydlu Lloegr***”) means regulations made from time to time under section 135A of the 2002 Act [^c22439931] in relation to teachers in England;
+- “**FE college**” (“***coleg AB***”) means an institution within the further education sector as defined in section 91(3) of the Further and Higher Education Act 1992 [^c22439941];
+- “**governing body**” (“***corff llywodraethu***”) in relation to an FE college has the same meaning as in section 90(1) of the Further and Higher Education Act 1992 and in relation to a relevant school which is a pupil referral unit, includes the management committee of the pupil referral unit (if there is one)[^key-b42b860b366a66543b4e2daa918e369b];
+- “**graduate teacher**” (“***athro neu athrawes raddedig***”) means a person who was granted an authorisation to teach in accordance with paragraphs 5 to 11 of Schedule 2 to the 1999 Regulations before 1 September 2004;
+- “**head teacher**” (“***pennaeth***”) includes the principal of an FE college and the teacher in charge of a pupil referral unit[^key-1a862cf13157a6c21fe2d1e9596da2cb];
+- “**induction period**” (“***cyfnod sefydlu***”) means an induction period required by these Regulations;
+- “institution (“*sefydliad*”) means a relevant school, an independent school or an FE college in which an induction period may be served under these Regulations, as the context requires;
+- [^key-c0cf2061257b47fc2b73303b7252be3b]...
+- “**non-maintained special school**” (“***ysgol arbennig nas cynhelir***”) means a special school which is neither a community special school nor a foundation special school;
+- “**pupil**” (“***disgybl***”) has the meaning given to it in section 3 of the Education Act 1996;
+- “[^key-5453e80178eb8e998d7aabbad1320961]**pupil referral unit**” (“***uned cyfeirio disgyblion***”) has the same meaning as in section 19A(2) of the Education Act 1996;
+- “**qualified teacher**” (“***athro neu athrawes gymwysedig***”) means a person who satisfies requirements specified in regulations made under section 132 of the 2002 Act;
+- “**reception year**” (“***blwyddyn derbyn***”) means a year group in which the majority of the pupils attain the age of 5;
+- “**registered teacher**” (“***athro neu athrawes gofrestredig***”) means a person who was granted an authorisation to teach in accordance with paragraphs 12 to 18 of Schedule 2 to the 1999 Regulations before 1 September 2004;
+- “**relevant school**” (“***ysgol berthnasol***”) means a school maintained by an authority or a non-maintained special school;
+- “**school day**” (“***diwrnod ysgol***”) in relation to a school means any day on which at that school there is a school session, and in relation to an FE college, means any day on which the college meets;
+- “**school session**” (“***sesiwn ysgol***”) has the same meaning as in regulations 4 and 5 of the Education (School Day and School Year) (Wales) Regulations 2003 [^c22439951];
+- “the School Teachers' Qualifications Regulations” (“*Rheoliadau Cymwysterau Athrawon Ysgol*”) means the Education (School Teachers' Qualifications) (Wales) Regulations 2012 [^c22439961];
+- “**school term**” (“***tymor ysgol***”) includes a term of an FE college;
+- “**school year**” (“***blwyddyn ysgol***”) includes the academic year of an FE college;
+- “**special school**” (“***ysgol arbennig***”) has the same meaning as in section 337[^key-0af25c89013c3c937ddf1542323ab896] of the Education Act 1996 [^c22439971];
+- “**supply teacher**” (“***athro neu athrawes gyflenwi***”) means a teacher employed wholly or mainly for the purpose of supervising or teaching pupils whose regular teacher is not available to teach them;
+- “**working day**” (“***diwrnod gwaith***”) means any day other than a Saturday, a Sunday , Christmas Day, Good Friday[^key-c45b4ed76cbf68eec1d28a85a259cc15] or a day which is a bank holiday in Wales and England[^key-1f6861f81c16f8961be0972ba142486c] within the meaning of the Banking and Financial Dealings Act 1971 [^c22439981].
+- “**year 1**” (“***blwyddyn 1***”) means the year group in which the majority of pupils attain the age of 6;
+- “**year 2**” (“***blwyddyn 2***”) means the year group in which the majority of pupils attain the age of 7;
+- “**year 3**” (“***blwyddyn 3***”) means the year group in which the majority of pupils attain the age of 8;
+- “**year 4**” (“***blwyddyn 4***”) means the year group in which the majority of pupils attain the age of 9;
+- “**year 5**” (“***blwyddyn 5***”) means the year group in which the majority of pupils attain the age of 10;
+- “**year 6**” (“***blwyddyn 6***”) means the year group in which the majority of pupils attain the age of 11;
+- “**year 7**” (“***blwyddyn 7***”) means the year group in which the majority of pupils attain the age of 12;
+- “**year 8**” (“***blwyddyn 8***”) means the year group in which the majority of pupils attain the age of 13;
+- “**year 9**” (“***blwyddyn 9***”) means the year group in which the majority of pupils attain the age of 14;
+- “**year 10**” (“***blwyddyn 10***”) means the year group in which the majority of pupils attain the age of 15;
+- “**year 11**” (“***blwyddyn 11***”) means the year group in which the majority of pupils attain the age of 16;
+- “**year group**” (“***grŵp blwyddyn***”) means a group of pupils at a school the majority of whom will, in a particular school year, attain the same age.
+
+(2) For the purposes of these Regulations a person has completed an induction period when that person has served an induction period of—
+
+- (a) three school terms; or
+- (b) such other length as determined in accordance with regulation 8(4) (comprising only periods of employment which count towards an induction period under regulation 9) or regulation 8(5) (appropriate body determination where standards met)[^key-eabe10e520e269c24479b03940cd3a76]; and
+
+where the appropriate body extends the induction period in accordance with regulation 10, the period of that extension.
+
+## 4. Breach of time limits
+
+Failure by any person to discharge any duty within a time limit specified in these Regulations does not relieve that person of that duty.
+
+## 5. Appropriate body
+
+(1) For the purposes of these Regulations—
+
+- (a) the appropriate body in relation to a community, foundation or voluntary school, a community or foundation special school, [^key-6ddbd2c2855dbf42ad01004ad5a57d31]... a maintained nursery school (in each case within the meaning of the 1998 Act) , or a pupil referral unit[^key-a42f76e6ff1c4331cc1a686446a331eb] is the authority maintaining it;
+- (b)[^key-a6e85279c44b27492886b37b3ec7b669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the appropriate body in relation to an independent school is—
+  - (i) an authority, or
+  - (ii) such persons or body as the Welsh Ministers may determine, which persons or body must include as a member representative of an authority, and
+- (d) the appropriate body in relation to an FE college is an authority.
+
+(2) Any question as to which is the appropriate body for the purposes of exercising any functions imposed or conferred on an appropriate body by these Regulations in a case where a person serves an induction period in more than one institution is to be determined by the Welsh Ministers.
+
+## 6. Requirement to serve an induction period
+
+Subject to the exceptions in Schedule 2, no person is to be employed on or after 1 April 2015 as a teacher at a relevant school unless that person has satisfactorily completed an induction period in accordance with these Regulations.
+
+## 6A. Time limit for satisfactory completion of an induction period[^key-ea7d26c594cd9e6ee72bf7408ec3dc30]
+
+(1) An induction period must be satisfactorily completed within 5 years beginning with the later of the date of award of qualified teacher status or 7 November 2022 (“the time limit”).
+
+(2) But where the appropriate body extends the time limit in accordance with regulation 6B, the induction period must be satisfactorily completed within the extended time limit.
+
+## 6B. Extension of time limit for satisfactory completion of an induction period
+
+(1) The appropriate body must extend the time limit in regulation 6A(1) for a person (whether or not it, or any period of extension, has already expired) where—
+
+- (a) that person’s induction period is extended in accordance with regulation 10, 13(2)(b), 16(2)(c) or (3)(c), and
+- (b) there is insufficient time available within the time limit for the appropriate body to make a decision in accordance with regulation 13(2).
+
+(2) The appropriate body may extend the time limit in regulation 6A(1) for a person (whether or not it, or any period of extension, has already expired) where it is satisfied that there are good reasons for doing so and the person consents.
+
+(3) An extension, or the total period of extension where there is more than one must not exceed 2 years beginning with the day following the day on which the time limit in regulation 6A(1) expired, unless it is necessary by virtue of paragraph (1).
+
+(4) The appropriate body must, within 10 working days beginning with the day on which the time limit in regulation 6A(1) was extended under paragraph (1) or (2), send written notice of the extension to—
+
+- (a) the person concerned,
+- (b) where the person concerned is employed at a relevant school or FE college, the governing body and the head teacher,
+- (c) where the person concerned is employed at an independent school, the proprietor and the head teacher,
+- (d) where the person is not employed by the appropriate body, any other employer (if not entitled to notice under (b) or (c)), and
+- (e) the Council.
+
+(5) Notice under paragraph (4) may be given by facsimile, electronic mail or other similar means which are capable of producing a document containing the text of the communication, and a notice sent by such a method is to be regarded as given when it is received in legible form.
+
+## 7. Institutions in which an induction period may be served
+
+(1) Subject to paragraph (2), an induction period may only be served in—
+
+- (a) a relevant school in Wales other than a community or foundation special school established in a hospital; or
+- (b) in the circumstances set out in paragraph (3) an independent school in Wales; or
+- (c) in the circumstances set out in paragraph (4) an FE college in Wales; or
+- (d) a school or an FE college in England in which an induction period may be served under England's Induction Regulations.
+
+(2) An induction period may not be served in—
+
+- (a) a school in Wales in respect of which the circumstances described in grounds 6 or 8 in section 2 of the School Standards and Organisation (Wales) Act 2013 [^c22439991] apply, unless—
+  - (i) the person in question began their induction period, or was employed as a graduate teacher or a registered teacher or on an employment-based teacher training scheme, at the school at a time when such circumstances did not apply, or
+  - (ii) one of Her Majesty's Inspectors of Education and Training in Wales has certified in writing that they are satisfied that the school is fit for the purpose of providing induction supervision and training, [^key-f1a71f609181112f3628c902aeaf6796]...
+- (b)[^key-f1a71f609181112f3628c902aeaf6796] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The circumstances in which a person may serve an induction period in an independent school in Wales are—
+
+- (a)[^key-58d50c80ccc9609fb790d42340d0b7bc] in the case of a person who is employed to teach pupils in years 7 to 11, the curriculum of the school for pupils in those year groups includes all the areas of learning and experience, including the mandatory elements, as defined in section 3 of the 2021 Act, which such person is employed to teach; and
+- (b)[^key-d2edffe7b2ffc3aa922c6b79bd5d5564] in all cases, the curriculum for all registered pupils in their reception year and in years 1 to 6 includes all the areas of learning and experience, including the mandatory elements, as defined in section 3 of the 2021 Act; and
+- (c) in all cases, before the start of the induction period the proprietor of the school and either an authority or the persons or body determined by the Welsh Ministers under regulation 5(1)(c) have agreed that the authority or the persons or body, as the case may be, are to act as the appropriate body in relation to the school.
+
+(4) A person may not serve an induction period in an FE college in Wales unless before the start of the induction period the governing body of the college and an authority have agreed that the authority are to act as the appropriate body in relation to the college.
+
+(5) A person may not serve an induction period in two or more institutions simultaneously unless before the start of the induction period the head teachers of all the institutions have agreed which of them is to act as the lead head teacher.
+
+(6) In this regulation, “**induction period**” (“***cyfnod sefydlu***”) includes a part of an induction period.
+
+## 7A. Professional learning that may count towards an induction period[^key-d34398e9846e216c2074df60b95f4bf4]
+
+A session of professional learning undertaken by a person may count towards that person’s induction period where that session of professional learning is—
+
+- (a) undertaken between 26 March 2020 and 31 August 2021,
+- (b) a minimum of 3 hours (whether consecutive or not), and
+- (c) approved by the appropriate body.
+
+## 8. Length of an induction period
+
+(1) Subject to paragraphs (3), (4) and (8)[^key-ae74a4bf14dbb625384fc5b8b0bb4a89] and (5)[^key-6d8be36d194155a54c0f9fbd9aa03f18], the length of an induction period is to be three school terms (“the three term rule”).
+
+(2) For the purpose of calculating the induction period a school term may be either one school term or two half school terms which (disregarding holidays) are consecutive.
+
+(3) The three term rule does not apply in the following circumstances—
+
+- (a) where an induction period is served at an institution at which a school year does not consist of three school terms;
+- (b) where an induction period is served by a person in part time service;
+- (c) where an induction period is served in two or more institutions simultaneously;
+- (d) where any periods of employment counting towards an induction period consist of a period of less than one school term; [^key-fa67d7049a13fc3cb97ce20f6ae67b79]...
+- (e) where in the opinion of the appropriate body it is not appropriate that it applies ; or[^key-b708bf087807c02fbeff1c476179b2ce]
+- (f)[^key-2d63534cbafd269506bc14a9706333f8] where paragraph (5) applies.
+- (f)[^key-9e1ed5376cef8b650672a0a55fae4a12] where paragraph (8) applies.
+
+(4) The length of an induction period where the three term rule does not apply—
+
+- (a) is 380 school sessions where paragraph (3)(d) applies; and
+- (b) where paragraph (3)(a), (b), (c) or (e) applies[^key-0f1ec6c3a915f894f3cb5fba1852c0b2], is such length as the appropriate body determines provided that this period is not less than the equivalent of 380 school sessions or 3 school terms.
+
+(5)[^key-5815f0e37c07bbaa42ac6d33931c41db] The appropriate body may, with the consent of the person concerned, reduce the length of an induction period which the person is required to serve to a minimum of 110 school sessions if the appropriate body is satisfied that the person has achieved the standards mentioned in section 18 of the 2014 Act.
+
+(6) In paragraphs (4) and (5) a “school session” may include a session of professional learning that satisfies the conditions of regulation 7A.
+
+(7) The sessions of professional learning that may count as school sessions must not exceed 16% of the total length of an induction period.
+
+(8)[^key-e4abcf3acc25d5c3a79703e07ae47b03] The appropriate body may, with the consent of the person concerned, reduce the length of the induction period which the person is required to serve to a minimum of one school term or 110 school sessions if the appropriate body is satisfied that the person has achieved the standards mentioned in section 18 of the 2014 Act.
+
+## 9. Periods of employment counting towards an induction period
+
+(1) The only periods of employment as a qualified teacher on or after 1 September 2003 but before 1 April 2015 that count towards an induction period are—
+
+- (a) a period of employment in an institution in Wales to which regulation 7(1) applies of not less than one school term in duration;
+- (b) a period of employment in an institution or institutions in Wales to which regulation 7(1) applies of two half school terms which (disregarding holidays) are consecutive;
+- (c) in the case of an individual teacher a period of employment in an institution in Wales to which regulation 7(1) applies of such other length as the appropriate body considers appropriate; or
+- (d) a period of employment in a school or FE college in England if it would count towards an induction period under England's Induction Regulations.
+
+(2) The only periods of employment as a qualified teacher on or after 1 April 2015 that count towards an induction period are—
+
+- (a) a period of employment in an institution in Wales to which regulation 7(1) applies of not less than one school session in duration;
+- (b) a period of employment in a school or FE college in England if it would count towards an induction period under England's Induction Regulations.
+
+## 10. Extension of an induction period before completion
+
+(1) Where a person serving an induction period is absent from work for an aggregate period of thirty or more school days the appropriate body may extend the induction period by the aggregate period of the absences or by any lesser period as it considers appropriate.
+
+(2) Where an induction period is extended under England's Induction Regulations and the person serving the induction period becomes employed at an institution in Wales, the induction period is to be treated as having been extended under this regulation.
+
+(3) Except as provided for in this regulation an induction period may not be extended before its completion.
+
+## 11. Service of more than one induction period
+
+Except as provided for in regulation 13 or 16, no person may serve more than one induction period.
+
+## 12. Supervision and training during the induction period
+
+(1) The head teacher of an institution in Wales in which a person serves an induction period is responsible for the daily supervision and training of that person.
+
+(2) The appropriate body in relation to an institution is responsible for the overall supervision and training of a person serving an induction period at that institution.
+
+(3) The supervision and training under paragraph (2) must include supervision and training by a person with knowledge of the standards mentioned in section 18 of the 2014 Act.
+
+## 13. Completion of an induction period
+
+(1) This regulation applies where a person has completed an induction period if—
+
+- (a) at the completion of the induction period, that person is employed at an institution in Wales; or
+- (b) at the completion of an induction period served in two or more institutions simultaneously, the lead head teacher's institution is in Wales.
+- (c)[^key-67d87a7d88d9b1386534792f2089e2fd] at the completion of the induction period, that person has undertaken a session of professional learning referred to in regulation 7A.
+
+(2) Within the period of twenty working days beginning with the date on which the induction period was completed, the appropriate body must decide whether the person who has completed an induction period—
+
+- (a) has achieved the standards mentioned in section 18 of the 2014 Act and has accordingly satisfactorily completed an induction period;
+- (b) should have the induction period extended by such period as it determines; or
+- (c) has failed satisfactorily to complete an induction period.
+
+(3) The appropriate body must have regard to any written representation received from the person concerned before making a decision under paragraph (2).
+
+(4) The appropriate body must within the period of 10[^key-aba6827d2f15cc47d38a0c96e14ec5d1] working days beginning with the date on which it made a decision under paragraph (2)—
+
+- (a) send written notice of its decision to—
+  - (i) the person concerned,
+  - (ii) in the case of a relevant school or a FE college, the governing body of the school or college at which the person is employed,
+  - (iii) in the case of an independent school, the proprietor,
+  - (iv) the head teacher of the institution at which the person serving the induction period was employed at the completion of the induction period,
+  - (v) if that person is not employed by the appropriate body, the person's employer (if not entitled to notice under paragraph (ii) or (iii)), and
+  - (vi) the Council, and
+- (b) if the appropriate body made a decision falling within paragraph (2)(b) or (c), send the person concerned written notice of—
+  - (i) the right to appeal to the Council against the decision,
+  - (ii) the contact details (including the address) for making an appeal to the Council, and
+  - (iii) the time period for making an appeal.
+
+(5) Notice under paragraphs (2) and (4) may be given to a person by facsimile, electronic mail or other similar means which are capable of producing a document containing the text of the communication, and a notice sent by such a method is to be regarded as given when it is received in legible form.
+
+## 14. Extension of an induction period pursuant to a decision of the appropriate body or the Council
+
+(1) Regulations 7, 9 to 13, 15 and 16 and Schedule 3 apply in relation to a person serving an induction period extended following its completion by a decision of the appropriate body under regulation 13 or of the Council under regulation 16 as those provisions apply in relation to the initial induction period.
+
+(2) Regulations 7, 9 to 13, 15 and 16 and Schedule 3 apply in relation to a person serving an induction period extended, following its completion, under England's Induction Regulations if that person is subsequently employed at an institution in Wales, as those provisions apply in relation to an initial induction period.
+
+## 15. Termination of employment following failure to complete an induction period satisfactorily
+
+(1) This paragraph applies to a person employed as a teacher at a relevant school in Wales who has failed satisfactorily to complete an induction period, whether in Wales or England.
+
+(2) The employer of a person to whom paragraph (1) applies must secure the termination of that person's employment as a teacher if—
+
+- (a) that person does not appeal to the Council against the decision of the appropriate body; or
+- (b) that person's appeal to the Council, or the appeal body under England's Induction Regulations, is dismissed.
+
+(3) The employer must take the steps necessary to secure the termination of a person's employment in the circumstances mentioned in paragraph (2)(a) so that the termination takes effect within the period of ten working days beginning with the date on which—
+
+- (a) the employer received written notification from such person that they did not intend to appeal to the Council; or
+- (b) the time limit for appeal imposed by paragraph 2(1) of Schedule 3 expired.
+
+(4) The employer must take the steps necessary to secure the termination of a person's employment in the circumstances mentioned in paragraph (2)(b) so that the termination takes effect within the period of ten working days beginning with the date on which the employer received notice of the outcome of the appeal hearing.
+
+(5) The employer of a person—
+
+- (a) to whom paragraph (1) applies; and
+- (b) who appeals to the Council against the decision of the appropriate body or who appeals to the appeal body under England's Induction Regulations,
+
+is not obliged to secure the termination of such person's employment as a teacher pending the outcome of the appeal provided such employer secures that the person only undertakes such limited teaching duties as the Welsh Ministers may determine.
+
+## 16. Appeals
+
+(1) Schedule 3 has effect in relation to appeals under section 19(1) of the 2014 Act.
+
+(2) Where a person appeals against a decision by an appropriate body under regulation 13 to have an induction period extended, the Council may—
+
+- (a) allow the appeal;
+- (b) dismiss the appeal; or
+- (c) substitute a different period of extension.
+
+(3) Where a person appeals against a decision by an appropriate body under regulation 13 that person has failed satisfactorily to complete an induction period, the Council may—
+
+- (a) allow the appeal;
+- (b) dismiss the appeal; or
+- (c) extend the induction period for such person as it thinks fit.
+
+## 17. Other functions of the appropriate body
+
+The appropriate body may in connection with providing induction training, supervision and assessment under these Regulations provide—
+
+- (a) guidance, support and assistance to schools and FE colleges; and
+- (b) training for teachers.
+
+## 18. Charges
+
+An appropriate body in relation to an independent school or an FE college may make a reasonable charge (not exceeding the cost of provision of the service) to the governing body of a school or an FE college for which it is the appropriate body in connection with any of its functions under these Regulations.
+
+Huw Lewis
+
+Minister for Education and Skills, one of the Welsh Ministers
+
+## SCHEDULE 1 — REGULATIONS REVOKED
+
+Regulation 2
+
+| *Regulations revoked* | *References* | *Extent of revocation* |
+| --- | --- | --- |
+| Education (Induction Arrangements for School Teachers) (Wales) Regulations 2005 | S.I. 2005/1818 (W. 146) | Fully |
+| Education (Amendments to Regulations regarding the Recognition of Professional Qualifications) (Wales) Regulations 2007 | S.I. 2007/2811 (W. 238) | Regulation 3 |
+| School Teachers' Qualifications (Wales) Regulations 2012 | S.I. 2012/724 (W. 96) | Regulation 10 |
+| Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2012 | S.I. 2012/1675 (W. 216) | Fully |
+
+## SCHEDULE 2 — Cases in which a person may be employed as a Teacher in a relevant school without having satisfactorily completed an Induction Period
+
+Regulation 6
+
+**1.** A person who on 1 April 2003 is a qualified teacher.
+
+**2.** A person who—
+
+- (a) is serving an induction period (including an induction period which has been extended before its completion under regulation 10 or after its completion under regulation 13 or 16); or
+- (b) has completed such an induction period and is being employed to work as a teacher pending a decision of the appropriate body under regulation 13 of these Regulations or regulation 15 of England's Induction Regulations.
+
+**3.** A person who has failed satisfactorily to complete an induction period whose employment is subject to restriction under regulation 15(5) pending the outcome of an appeal.
+
+**4.** A person who is a school teacher within the meaning of section 122(5) of the 2002 Act.
+
+**5.** A person who has satisfactorily completed an induction period under England's Induction Regulations.
+
+**6.** A person who has, or is eligible for, full registration as a teacher of primary or secondary education with the General Teaching Council for Scotland.
+
+**7.** A person—
+
+- (a) who has successfully completed the induction stage of teacher education in Northern Ireland; or
+- (b) was employed as a teacher in Northern Ireland at any time prior to the introduction of the induction stage of teacher training in Northern Ireland.
+
+**8.**[^key-ce0cded3380eac86ce43722467af0956] A person who is a qualified teacher who became so qualified by virtue of regulation 5 of, and paragraph 4, 4A or 4B[^key-088b2022c1eb70b6b33af0137eb8d1bb] of Schedule 2 to, the School Teachers' Qualifications Regulations.
+
+**9.** A person who has successfully completed a probationary period for teachers under arrangements approved and supervised by the Director of Education of Gibraltar.
+
+**10.** A person who has successfully completed the States of Jersey Induction Programme for Newly Qualified Teachers.
+
+**11.** A person who has been approved by the States of Guernsey Education Council as having successfully completed an induction period for teachers.
+
+**12.** A person who has successfully completed an induction period for teachers under arrangements approved and supervised by the Isle of Man Department of Education.
+
+**13.** A person who has successfully completed the Service Children's Education Schools Induction Programme in Germany or Cyprus.
+
+**14.** A person who on or before 1 April 2003—
+
+- (a) was employed as a teacher at a relevant school in England or Wales; and
+- (b) either—
+  - (i) had successfully completed a course of initial training for teachers in schools at an educational institution in Scotland, or
+  - (ii) was registered as a teacher of primary or secondary education with the General Teaching Council for Scotland.
+
+**15.** A person who on or before 1 April 2003—
+
+- (a) was employed as a teacher at a relevant school in England or Wales; and
+- (b) either—
+  - (i) had successfully completed a course of initial training for teachers in schools at an educational institution in Northern Ireland, or
+  - (ii) had been awarded confirmation of recognition as a teacher in schools in Northern Ireland by the Northern Ireland Department of Education, that confirmation not having been withdrawn at any time subsequent to the award.
+
+**16.** A person who is a qualified teacher by virtue of regulation 5 of, and paragraph 12 of Schedule 2 to, the School Teachers' Qualifications Regulations or by virtue of regulation 10 of, and paragraph 10 of Schedule 3 to, the 1999 Regulations.
+
+**17.** A person who is a qualified teacher by virtue of regulation 5 of, and paragraph 13 of Schedule 2 to, the School Teachers' Qualifications Regulations or by virtue of regulation 10 of, and paragraph 11 of Schedule 3 to, the 1999 Regulations.
+
+**18.** A person who, under England's Induction Regulations, may be employed as a teacher in a relevant school in England without having satisfactorily completed an induction period.
+
+**19.** A person who—
+
+- (a) has successfully completed a programme of professional training for teachers in any country outside the United Kingdom and which is recognised as such by the competent authority in that country;
+- (b) has no less than two years' full-time teaching experience, or its equivalent in the United Kingdom or elsewhere;
+- (c) is a qualified teacher by virtue of regulation 5 of, and paragraph 2 of Schedule 2 to the School Teachers' Qualifications Regulations or by virtue of regulation 5 of, and paragraph 9 or 10 of Schedule 2 to, the School Teachers' Qualifications Regulations or by virtue of regulation 10 of, and paragraph 7 of Schedule 3 to, the 1999 Regulations; and
+- (d) has either—
+  - (i) successfully satisfied a period of professional experience following professional training (comparable to an induction period in Wales) in any country outside the United Kingdom, which is recognised as such by the competent authority of that country, or
+  - (ii) been assessed as meeting the standards determined under section 18 of the 2014 Act by an institution accredited by the Higher Education Funding Council for Wales under regulation 7 of the School Teachers' Qualifications Regulations or a person approved by the Welsh Ministers.
+
+**20.** A person who—
+
+- (a) is a qualified teacher by virtue of regulation 5 of, and paragraph 7 of Schedule 2 to the School Teachers' Qualifications Regulations or by virtue of regulation 5 of, and paragraph 10 of Schedule 2 to, the School Teachers' Qualifications Regulations and who in either case became such a qualified teacher by satisfying the requirements of an employment based teacher training scheme otherwise than by successfully completing a period of training on the scheme; and
+- (b) has been assessed as meeting the standards determined under section 18 of the 2014 Act of an institution accredited by the Higher Education Funding Council for Wales under regulation 7 of the School Teachers' Qualifications Regulations or a person approved by the Welsh Ministers.
+
+## SCHEDULE 3 — The Procedure for Appeal against a Decision of the Appropriate Body
+
+Regulation 16
+
+### 1. Interpretation
+
+In this Schedule—
+
+- “**appellant**” (“***apelydd***”) means a person who brings an appeal under section 19(1) of the 2014 Act against a decision of the appropriate body under regulation 13;
+- “**appropriate body**” (“***corff priodol***”) means the appropriate body who took the decision subject to an appeal;
+- “**disputed decision**” (“***penderfyniad a herir***”) means the matter in relation to which the appellant appeals to the Council; and
+- “**proper officer**” (“***swyddog priodo*l**”) means the person appointed by the Council to perform the duties of a proper officer under this Schedule.
+
+### 2. The time for and manner of making an appeal
+
+(1) An appeal is to be made by sending a notice of appeal to the proper officer so that it is received within the period of 20 working days beginning with the date on which the appellant received notice under regulation 13(4) of the disputed decision.
+
+(2) The Council may extend the time limit imposed by sub-paragraph (1), whether or not it has already expired, but must not do so unless it is satisfied that not to extend the time limit would result in substantial injustice.
+
+(3) Where the appellant considers it likely that a notice of appeal will be received outside the time limit imposed by sub-paragraph (1) the notice of appeal may be accompanied by a statement of the reasons relied upon to justify the delay and the Council must consider any such statement in deciding whether or not to extend the time limit.
+
+### 3. The notice of appeal
+
+(1) The notice of appeal must state—
+
+- (a) the name and address of the appellant;
+- (b) the name and address of the school at which the appellant was employed at the end of the induction period;
+- (c) the name and address of the appellant's employer, if any, at the date when the appellant sends notice of the appeal to the Council;
+- (d) the grounds of the appeal;
+- (e) the name, address and profession of the person (if any) representing the appellant, and whether the Council should send documents concerning the appeal to the representative instead of to the appellant; and
+- (f) whether the appellant requests that the appeal should be decided at an oral hearing.
+
+(2) The notice of appeal must be signed by the appellant.
+
+(3) The appellant must annex to the notice of appeal a copy of—
+
+- (a) the notice given to the appellant by the appropriate body under regulation 13(4) relating to the disputed decision;
+- (b) any written statement given to the appellant by the appropriate body giving reasons for its decision; and
+- (c) every other document on which the appellant relies for the purposes of the appeal.
+
+### 4. Additional documents, amendment and withdrawal of the appeal
+
+(1) The appellant may at any time before receiving notice of the date fixed for the hearing under paragraph 13 or of a decision of the Council under paragraph 11—
+
+- (a) send copies of such additional documents as the appellant wishes to rely on for the purpose of the appeal to the proper officer;
+- (b) amend or withdraw the appeal, or any part of it; or
+- (c) amend or withdraw any material submitted in support of the appeal.
+
+(2) The appellant may at any time take any step mentioned in sub-paragraph (1) with the permission of the Council.
+
+(3) Where an appellant withdraws an appeal they may not bring a fresh appeal in relation to the disputed decision.
+
+(4) An appeal may be amended or withdrawn by sending to the proper officer an amended notice of appeal or a notice stating that the appeal is withdrawn, as the case may be.
+
+### 5. Acknowledgement and notification of the appeal
+
+(1) The proper officer must within the period of ten working days beginning with the date on which the Council received the notice of appeal—
+
+- (a) send an acknowledgement of its receipt to the appellant;
+- (b) send a copy of the notice of appeal and any accompanying documents to the appropriate body;
+- (c) if a person or body other than the appropriate body is named as the appellant's employer in the notice of appeal, send a copy of the notice of appeal to that person or body; and
+- (d) send a copy of the notice of appeal to the head teacher of the school or FE college at which the appellant was employed at the completion of the induction period.
+
+(2) Within the period of ten working days beginning with the date on which the Council received from the appellant any additional material, amended grounds of appeal, amended documents submitted in support of an appeal or notice of withdrawal of an appeal, the proper officer must send a copy to the appropriate body.
+
+### 6. Request for further material
+
+(1) Where the Council considers that the appeal could be decided more fairly and efficiently if the appellant provided further material, it may send to the appellant a notice inviting the appellant to supply that material within the period of ten working days beginning with the date of the notice.
+
+(2) Where the Council sends a notice under sub-paragraph (1) the proper officer must at the same time inform the appropriate body that it has done so.
+
+(3) The proper officer must within the period of ten working days beginning with the date on which the council received further material under sub-paragraph (1) send a copy of it to the appropriate body.
+
+### 7. Reply by the appropriate body
+
+(1) The appropriate body must send to the proper officer a reply fulfilling the requirements of paragraph 8 so that it is received within the period of 20 working days beginning with the date on which the appropriate body received a copy of the notice of appeal.
+
+(2) The Council may extend the time limit imposed by sub-paragraph (1) whether or not it has already expired.
+
+(3) The Council must allow the appeal where the appropriate body states in reply, or at any time states in writing, that it does not seek to uphold the disputed decision, and must do so within the period of ten working days beginning with the date on which the Council received notification that the appropriate body did not seek to uphold the disputed decision.
+
+### 8. Contents of the reply
+
+(1) The reply must state—
+
+- (a) the name and address of the appropriate body;
+- (b) whether the appropriate body seeks to uphold the disputed decision; and
+- (c) in cases where the appropriate body seeks to uphold the disputed decision—
+  - (i) the appropriate body's answer to each of the grounds of appeal supplied by the appellant,
+  - (ii) whether or not the appropriate body requests an oral hearing, and
+  - (iii) the name, address and profession of the person (if any) representing the appropriate body, and whether the Council should send documents concerning the appeal to that representative instead of to the appropriate body.
+
+(2) The appropriate body must annex to the reply—
+
+- (a) a copy of any document on which it wishes to rely for the purpose of opposing the appeal; and
+- (b) where the appellant has not sent to the proper officer a copy of a written statement given to the appellant by the appropriate body giving reasons for its decision, a statement giving reasons for the decision.
+
+### 9. Additional documents, amendment and withdrawal of the reply
+
+(1) The appropriate body may at any time before it receives notice of the date fixed for the hearing under paragraph 13 or of a decision of the Council under paragraph 11—
+
+- (a) send copies of such additional documents on which it wishes to rely on for the purpose of opposing the appeal to the proper officer;
+- (b) amend or withdraw its reply, or any part of it;
+- (c) amend or withdraw any material submitted in support of the reply.
+
+(2) The appropriate body may at any time take any step mentioned in sub-paragraph (1) with the permission of the Council.
+
+(3) A reply may be amended or withdrawn by sending to the proper officer an amended reply or a notice stating that the reply is withdrawn, as the case may be.
+
+### 10. Acknowledgement and notification of the reply
+
+(1) The proper officer must within the period of ten working days beginning with the date on which the Council received the reply—
+
+- (a) send an acknowledgement of its receipt to the appropriate body; and
+- (b) send a copy of the reply and any accompanying documents to the appellant.
+
+(2) Within the period of ten working days beginning with the date on which the Council received from the appropriate body any additional material, amended reply, amended documents submitted in support of a reply, or notice of withdrawal of a reply, the proper officer must send a copy to the appellant.
+
+### 11. Power to decide the appeal without a hearing
+
+(1) Where following the expiry of the period within which the appropriate body is required to send its reply neither the appellant or the appropriate body has requested an oral hearing, and the Council does not consider an oral hearing is necessary, the Council may decide the appeal without an oral hearing.
+
+(2) Where following the expiry of the period within which the appropriate body is required to send its reply the appropriate body has not done so, the Council may allow the appeal without an oral hearing.
+
+(3) If the Council decides the appeal without an oral hearing, it must send notice of its decision as required by paragraph 17 so that it is received by the appellant and the appropriate body within the period of 20 working days beginning with the day following the day on which the time limit for sending a reply expired.
+
+### 12. Appeal hearing
+
+Paragraphs 13 to 16 apply where the appeal is to be decided on the basis of an oral hearing.
+
+### 13. Fixing a date for the hearing
+
+(1) The Council must fix a date for the hearing—
+
+- (a) within the period of 20 working days beginning with the day following the date on which the time sending a reply expired; and
+- (b) not before the day following the date on which the time for sending a reply expired.
+
+(2) The proper officer must on the same day as the Council fixes a date for the hearing send to the appellant and the appropriate body a notice—
+
+- (a) informing them of the time and place of the hearing of the appeal;
+- (b) giving guidance regarding the procedure which will apply to the hearing;
+- (c) advising them of the consequences of not attending the hearing; and
+- (d) informing them of the right to submit written representations if they do not attend the hearing.
+
+(3) The date fixed for the hearing must not be less than 15 working days after the date of the notice.
+
+### 14. Action by the appellant and appropriate body on receiving notice of the hearing
+
+(1) Not less than ten working days before the date fixed for the hearing the appellant and the appropriate body—
+
+- (a) must inform the proper officer whether or not they intend to appear or be represented at the hearing;
+- (b) must inform the proper officer which, if any, witnesses they intend to call at the hearing;
+- (c) may, if they do not intend to appear or be represented at the hearing send to the proper officer any written representations in support of the material already sent to the proper officer.
+
+(2) The proper officer must within the period of three working days beginning with the date on which representations are received send to each party a copy of any representations received by the proper officer from the other party under this paragraph.
+
+### 15. Alteration of place or time of the hearing
+
+(1) The Council may alter the place or time of the hearing in such circumstances as it considers appropriate, provided that the altered date of the hearing is not earlier than the original date.
+
+(2) Where the Council alters the place or time of the hearing the proper officer must without delay and in any event within the period of three working days beginning with the date on which the alteration was made send a notice to the appellant and the appropriate body informing them of the alteration.
+
+### 16. Procedure at the hearing
+
+(1) Subject to the following provisions of this paragraph, the Council must determine the procedure at the hearing of the appeal.
+
+(2) The hearing of the appeal must be in public unless the Council determines that it is fair and reasonable for the hearing or any part of it to be in private.
+
+(3) The appellant and the appropriate body may appear at the hearing and may be represented or assisted by any person.
+
+(4) If the appellant or the appropriate body fails to attend the hearing, the Council may hear, and provided it has considered any representations made by the party concerned under paragraph 14, determine, the appeal in that party's absence.
+
+(5) Subject to sub-paragraph (6) the appellant and the appropriate body may give evidence, call witnesses, question any witnesses and address the Council both on the evidence and generally on the subject matter of the appeal.
+
+(6) The Council may at any point in the hearing limit the rights of either party under sub-paragraph (5) provided it is satisfied that to do so will not prevent the appeal from being decided fairly.
+
+(7) The Council may adjourn the hearing, but must not do so unless it is satisfied that it is necessary to do so in order for the appeal to be decided fairly.
+
+(8) The time and place for an adjourned hearing must either be announced before the adjournment or the Council must without delay and in any event within the period of three working days beginning with the date of the adjournment send notice to the appellant and the appropriate body informing them of the time and place of the adjourned hearing.
+
+### 17. Decision of the Council
+
+(1) The decision of the Council may be made and announced at the end of the hearing, but in any event, whether there has been a hearing or not, must be recorded immediately it is made in a document which must also contain a statement of the reasons for the decision and must be signed and dated by a person authorised by the Council.
+
+(2) The Council must within the period of five working days beginning with the date on which it made its decision—
+
+- (a) send a copy of the document referred to in sub-paragraph (1) to the appellant, the appropriate body and the head teacher of the school or FE college at which the appellant was employed at the completion of the induction period; and
+- (b) if a person or body other than the appropriate body is named as the appellant's employer in the notice of appeal, notify that body or person of its decision.
+
+### 18. Irregularities
+
+(1) Any irregularity resulting from failure to comply with any provision of this Schedule before the Council has reached its decision will not of itself render the proceedings of no effect.
+
+(2) Where any such irregularity comes to the attention of the Council it may, and must if it considers either party may have been prejudiced by the irregularity, give such directions as it thinks just, before reaching its decision, to cure or waive the irregularity.
+
+### 19. Documents
+
+(1) Anything required to be sent to a person for the purposes of an appeal under this Schedule may be—
+
+- (a) delivered to that person personally; or
+- (b) sent to that person at their appropriate address by post; or
+- (c) sent to them by facsimile or electronic mail or other similar means which are capable of producing a document containing the text of the communication, in which case the document is to be regarded as sent when it is received in a legible form.
+
+(2) A person's appropriate address is the address stated in the notice of appeal or reply, or such other address as may be subsequently notified to the proper officer.
+
+*(This note is not part of the Regulations)*
+
+The General Teaching Council for Wales was re-named the Education Workforce Council (“**the Council**”) by section 2 of the Education (Wales) Act 2014 (“**the 2014 Act**”).
+
+Sections 17 and 19 of the 2014 Act makes provision in relation to the requirement for school teachers to undertake a period of induction.
+
+These Regulations revoke and replace the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2005 (“**the 2005 Regulations**”), as amended. The provisions of the 2005 Regulations are re-enacted but the references to the General Teaching Council for Wales have been removed and replaced with references to the Education Workforce Council.
+
+The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^c22439881]: Marginal citation: 2014 anaw 5.
+
+[^c22439891]: Marginal citation: [S.I. 2005/1818](https://www.legislation.gov.uk/uksi/2005/1818) (W. 146) as amended by [S.I. 2007/2811](https://www.legislation.gov.uk/uksi/2007/2811) (W. 238), [S.I. 2010/1142](https://www.legislation.gov.uk/uksi/2010/1142) (W. 101), [S.I. 2012/724](https://www.legislation.gov.uk/uksi/2012/724) (W. 96) and [S.I. 2012/1675](https://www.legislation.gov.uk/uksi/2012/1675) (W. 216).
+
+[^c22439901]: Marginal citation: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^c22439911]: Marginal citation: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^c22439921]: Marginal citation: [S.I. 1999/2817](https://www.legislation.gov.uk/uksi/1999/2817) as amended by [S.I. 2002/1663](https://www.legislation.gov.uk/uksi/2002/1663) (W. 158), [S.I. 2002/2938](https://www.legislation.gov.uk/uksi/2002/2938) (W. 279), [S.I. 2003/140](https://www.legislation.gov.uk/uksi/2003/140) (W. 12), [S.I. 2004/1729](https://www.legislation.gov.uk/uksi/2004/1729) (W. 173), [S.I. 2004/1744](https://www.legislation.gov.uk/uksi/2004/1744) (W. 183), [S.I. 2004/2733](https://www.legislation.gov.uk/uksi/2004/2733) (W. 240), [S.I. 2006/873](https://www.legislation.gov.uk/uksi/2006/873) (W. 81), [S.I. 2010/1142](https://www.legislation.gov.uk/uksi/2010/1142) (W. 101) and [S.I. 2012/724](https://www.legislation.gov.uk/uksi/2012/724) (W. 96).
+
+[^key-5c8f33c50d1c90bb12fecdf92d90fba6]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (with effect in accordance with reg. 10(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/3/b)
+
+[^c22439931]: Marginal citation: Section 135A of the Education Act 2002 was inserted by section 9 of the [Education Act 2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21).
+
+[^c22439941]: Marginal citation: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13).
+
+[^key-b42b860b366a66543b4e2daa918e369b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/a)
+
+[^key-1a862cf13157a6c21fe2d1e9596da2cb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/b)
+
+[^key-c0cf2061257b47fc2b73303b7252be3b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) omitted (with effect in accordance with reg. 10(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/3/a)
+
+[^key-5453e80178eb8e998d7aabbad1320961]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(d)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/d)
+
+[^c22439951]: Marginal citation: [S.I. 2003/3231](https://www.legislation.gov.uk/uksi/2003/3231) (W. 311) as amended by [S.I. 2006/1262](https://www.legislation.gov.uk/uksi/2006/1262) (W. 119), [S.I. 2008/1739](https://www.legislation.gov.uk/uksi/2008/1739) (W. 171), [S.I. 2011/149](https://www.legislation.gov.uk/uksi/2011/149) (W. 33) and [S.I. 2012/248](https://www.legislation.gov.uk/uksi/2012/248) (W. 41).
+
+[^c22439961]: Marginal citation: [S.I. 2012/724](https://www.legislation.gov.uk/uksi/2012/724) (W. 96).
+
+[^key-0af25c89013c3c937ddf1542323ab896]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) substituted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [regs. 1](https://www.legislation.gov.uk/wsi/2021/933/regulation/1), [5(2)](https://www.legislation.gov.uk/wsi/2021/933/regulation/5/2)
+
+[^c22439971]: Marginal citation: 1996\. c.56.
+
+[^key-c45b4ed76cbf68eec1d28a85a259cc15]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/c/i)
+
+[^key-1f6861f81c16f8961be0972ba142486c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/1) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/3/c/ii)
+
+[^c22439981]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-eabe10e520e269c24479b03940cd3a76]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/3/2/b) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2020/623/regulation/6) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+
+[^key-6ddbd2c2855dbf42ad01004ad5a57d31]: Textual amendment: Word in [reg. 5(1)(a)](https://www.legislation.gov.uk/wsi/2015/484/regulation/5/1/a) omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/4/a/i)
+
+[^key-a42f76e6ff1c4331cc1a686446a331eb]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/wsi/2015/484/regulation/5/1/a) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/4/a/ii)
+
+[^key-a6e85279c44b27492886b37b3ec7b669]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/5/1/b) omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [4(b)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/4/b)
+
+[^key-ea7d26c594cd9e6ee72bf7408ec3dc30]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/wsi/2015/484/regulation/6A), [6B](https://www.legislation.gov.uk/wsi/2015/484/regulation/6B) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [5](https://www.legislation.gov.uk/wsi/2022/1058/regulation/5)
+
+[^c22439991]: Marginal citation: [2013 anaw 1](https://www.legislation.gov.uk/anaw/2013/1).
+
+[^key-f1a71f609181112f3628c902aeaf6796]: Textual amendment: [Reg. 7(2)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/7/2/b) and word omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [6](https://www.legislation.gov.uk/wsi/2022/1058/regulation/6)
+
+[^key-58d50c80ccc9609fb790d42340d0b7bc]: Textual amendment: [Reg. 7(3)(a)](https://www.legislation.gov.uk/wsi/2015/484/regulation/7/3/a) substituted (with effect in accordance with reg. 10(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/4/a)
+
+[^key-d2edffe7b2ffc3aa922c6b79bd5d5564]: Textual amendment: [Reg. 7(3)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/7/3/b) substituted (with effect in accordance with reg. 10(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/10/4/b)
+
+[^key-d34398e9846e216c2074df60b95f4bf4]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2015/484/regulation/7A) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2020/623/regulation/7) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+
+[^key-ae74a4bf14dbb625384fc5b8b0bb4a89]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/1) substituted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(a)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/a)
+
+[^key-6d8be36d194155a54c0f9fbd9aa03f18]: Textual amendment: Words in reg. 8(1) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2020/623/regulation/8/a) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+
+[^key-fa67d7049a13fc3cb97ce20f6ae67b79]: Textual amendment: Word in [reg. 8(3)(d)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/3/d) omitted (7.11.2022) by virtue of [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/b/i)
+
+[^key-b708bf087807c02fbeff1c476179b2ce]: Textual amendment: Word in [reg. 8(3)(e)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/3/e) substituted for full stop (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/b/ii)
+
+[^key-2d63534cbafd269506bc14a9706333f8]: Textual amendment: Reg. 8(3)(f) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2020/623/regulation/8/b) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+
+[^key-9e1ed5376cef8b650672a0a55fae4a12]: Textual amendment: [Reg. 8(3)(f)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/3/f) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(b)(iii)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/b/iii)
+
+[^key-0f1ec6c3a915f894f3cb5fba1852c0b2]: Textual amendment: Words in [reg. 8(4)(b)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/4/b) substituted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(c)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/c)
+
+[^key-5815f0e37c07bbaa42ac6d33931c41db]: Textual amendment: Reg. 8(5)-(7) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [8(d)](https://www.legislation.gov.uk/wsi/2020/623/regulation/8/d) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+
+[^key-e4abcf3acc25d5c3a79703e07ae47b03]: Textual amendment: [Reg. 8(8)](https://www.legislation.gov.uk/wsi/2015/484/regulation/8/8) inserted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [7(d)](https://www.legislation.gov.uk/wsi/2022/1058/regulation/7/d)
+
+[^key-67d87a7d88d9b1386534792f2089e2fd]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/wsi/2015/484/regulation/13/1/c) inserted (temp.) (15.7.2020) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/623)](https://www.legislation.gov.uk/wsi/2020/623), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/1/2), [9(a)](https://www.legislation.gov.uk/wsi/2020/623/regulation/9/a) (with [regs. 2(2)](https://www.legislation.gov.uk/wsi/2020/623/regulation/2/2), [3](https://www.legislation.gov.uk/wsi/2020/623/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/623/regulation/4))
+
+[^key-aba6827d2f15cc47d38a0c96e14ec5d1]: Textual amendment: Word in [reg. 13(4)](https://www.legislation.gov.uk/wsi/2015/484/regulation/13/4) substituted (7.11.2022) by [The Education (Induction Arrangements for School Teachers) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1058)](https://www.legislation.gov.uk/wsi/2022/1058), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1058/regulation/1), [8](https://www.legislation.gov.uk/wsi/2022/1058/regulation/8)
+
+[^key-ce0cded3380eac86ce43722467af0956]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2015/484/schedule/2/paragraph/8) substituted (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-088b2022c1eb70b6b33af0137eb8d1bb]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2015/484/schedule/2/paragraph/8) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/2/2)

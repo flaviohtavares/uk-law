@@ -1,0 +1,60 @@
+---
+title: Building Safety (Wales) Act 2026, section 131
+act: Building Safety (Wales) Act 2026
+section: '131'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/5/section/131
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Safety (Wales) Act 2026, section 131
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 131. Giving notices and other documents[^key-117b166d6dbe62be35726d0549520f77]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) This section applies where a provision of this Act, or of regulations made under it, requires or authorises a notice or other document to be given to a person (whether the provision uses the word “give” or any other expression).
+
+(2) The document may be given by—
+
+- (a) handing it to the person,
+- (b) leaving it at the person’s proper address,
+- (c) sending it by post to the person at that address, or
+- (d) sending it by email to an email address at which the person has agreed in writing to receive documents under this Act or regulations made under it (or documents of the kind in question).
+
+(3) A document is given in accordance with subsection (2)(a)—
+
+- (a) if the person is a body corporate, by handing the document to a director, manager, secretary or other similar officer of the body (and “**director**”, in relation to a body corporate whose affairs are managed by its members, means a member of the body);
+- (b) if the person is a partnership, by handing the document to a partner;
+- (c) if the person is an unincorporated association other than a partnership, by handing the document to an officer of the association or a member of its governing body.
+
+(4) For the purposes of this section, a person’s proper address is—
+
+- (a) if the person is a body corporate, the address of its registered or principal office;
+- (b) if the person is a partnership or other unincorporated association, the address of its principal office;
+- (c) in any other case, the last known address of the person.
+
+(5) If the person has given an address in the United Kingdom at which documents (or documents of the kind in question) may be given to the person under this Act or regulations made under it, that address is also to be treated as the person’s proper address.
+
+(6) A document left in accordance with subsection (2)(b) is treated as given when it was left.
+
+(7) A document sent by post in accordance with subsection (2)(c) is treated as given 48 hours after it was sent, unless the contrary is proved.
+
+(8) A document sent by email in accordance with subsection (2)(d) is treated as given 24 hours after it was sent, unless the contrary is proved.
+
+(9) Sections 231 and 233 of the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70) do not apply to documents to be given to or by a local authority under this Act or regulations made under it.
+
+(10) This section is subject to any different provision for the giving of a document that is made by this Act or regulations made under it.
+
+## Annotations
+
+[^key-117b166d6dbe62be35726d0549520f77]: Commencement: S. 131 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

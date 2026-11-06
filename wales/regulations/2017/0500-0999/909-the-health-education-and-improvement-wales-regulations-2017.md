@@ -1,0 +1,461 @@
+---
+title: The Health Education and Improvement Wales Regulations 2017
+id: wsi/2017/909
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-09-11'
+text_date: '2025-01-20'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2017/909
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2017/909/pdfs/wsi_20170909_mi.pdf
+- http://www.legislation.gov.uk/wsi/2017/909/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health Education and Improvement Wales Regulations 2017
+
+> Text as at 2025-01-20.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 909 (W. 221)
+
+National Health Service, Wales
+
+The Health Education and Improvement Wales Regulations 2017
+
+Made
+
+11 September 2017
+
+Laid before the National Assembly for Wales
+
+13 September 2017
+
+Coming into force
+
+5 October 2017
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 203(9) and (10) of, and paragraphs 3(3) and (4), 5 and 13 of Schedule 5 to, the National Health Service (Wales) Act 2006 [^c23310561]and after consultation in accordance with paragraph 4(1) of Schedule 5 to that Act.
+
+## 1. Title and commencement
+
+(1) The title of these Regulations is the Health Education and Improvement Wales Regulations 2017.
+
+(2) These Regulations come into force on 5 October 2017.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the Act**” (“***y Ddeddf***”) means the National Health Service (Wales) Act 2006;
+- “**chair**” (“***cadeirydd***”) means the chairman of HEIW;
+- “**health service body**” (“***corff gwasanaeth iechyd***”) means—
+  - (a) a clinical commissioning group established under section 14D of the National Health Service Act 2006 [^c23310571],
+  - (b) a Health Board or Special Health Board constituted under section 2 of the National Health Service (Scotland) Act 1978 [^c23310581],
+  - (c) Health Education England,
+  - (d) the Health Research Authority,
+  - (da) an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006,[^key-c38cd457dc34999c0988f4d924d90cb9]
+  - (e) NHS England[^key-46512bf79317e745bd471c6313554928],
+  - (f) the National Institute for Health and Care Excellence,
+  - (g) a Local Health Board,
+  - (h) an NHS trust established or continued under section 18 of the Act or established under section 25 of the National Health Service Act 2006,
+  - (i) an NHS foundation trust,
+  - (j) NHS Education for Scotland,
+  - (k) Northern Ireland Medical and Dental Training Agency;
+  - (l) a Special Health Authority established under section 22 of the Act;[^key-8c74fe6a0dc66b3cd4bca1ec6b11398a]
+- “**health service**” (“***gwasanaeth iechyd***”) means services provided as part of the health service continued under section 1(1) of the Act;
+- “**HEIW**” (“***AaGIC***”) means Health Education and Improvement Wales established by the Health Education and Improvement Wales (Establishment and Constitution) Order 2017 [^c23310591];
+- “**member**” (“***aelod***”), except in regulation 5(2) and paragraphs 3(4) and 4(1) of Schedule 1, means a member of HEIW, including the chair.
+
+## 3. Appointment of members
+
+(1) The members of HEIW are appointed as follows—
+
+- (a) the chair is appointed by the Welsh Ministers;
+- (b) up to six other members in addition to the chair are appointed by the Welsh Ministers;
+- (c) the chief executive is appointed in accordance with paragraph (4);
+- (d) up to four other members are appointed by the members appointed under sub-paragraphs (a) and (b).
+
+(2) The members appointed under paragraph (1)(a) and (b) must not be employees of HEIW and are referred to in these Regulations as “**non-officer members**”.
+
+(3) The members appointed under paragraph (1)(c) and (d) are to be employees of HEIW and are referred to in these Regulations as “**officer members**”.
+
+(4) The chief executive is appointed by the non-officer members apart from the first chief executive who is appointed by the Welsh Ministers.
+
+## 4. Terms of office
+
+(1) Subject to these Regulations, a person holds office as a non-officer member in accordance with the terms of that person's appointment.
+
+(2) The tenure of office of a non-officer member is such period, not exceeding 4 years, as the Welsh Ministers specify on the making of the appointment.
+
+(3)[^key-21b2617c66a92fca62ee0290fef66240] A person who has been a non-officer member is eligible for reappointment but a person must not be a non-officer member for a total period of more than 8 years.
+
+(4) A person may resign from office as a non-officer member by giving notice in writing to the Welsh Ministers.
+
+(5) Subject to these Regulations, a person holds office as an officer member in accordance with the terms of that person's appointment.
+
+(6) A person may resign from office as an officer member by giving notice in writing to HEIW.
+
+(7) If HIEW is of the opinion that it is not in the interests of HIEW or of the health service that an officer member should continue to hold office, HIEW must immediately terminate his or her appointment.
+
+## 5. Non-officer members – eligibility
+
+(1) A person is ineligible to be a chair or non-officer member if that person is, or has been within the preceding year, in the paid employment of—
+
+- (a) a Local Health Board; [^key-a950c61e09869127f9591b0bf9c42a3a]...
+- (b) an NHS trust established under section 18 of the Act;[^key-7c41c4ee1bc34ef49ba45ec07c89ddfa]
+- (c) a Special Health Authority in relation to Wales established by the Welsh Ministers under section 22 of the Act.
+
+(2) For the purposes of paragraph (1), a person is not to be treated as having been in paid employment by reason only of having held the position of chair, vice-chair or non-officer member of a Local Health Board or a Special Health Authority,[^key-7f18608e449d2d2bac42a3fdf999f3c0] or a chair, vice-chair or non-executive director of an NHS trust.
+
+## 6. Non-officer members – disqualification from membership
+
+(1) A person is disqualified from appointment, or from holding office as a non-officer member where that person falls within one or more paragraphs of Schedule 1.
+
+(2) If a person has been appointed as a non-officer member and becomes disqualified under this regulation, the person must notify the Welsh Ministers in writing of the disqualification.
+
+## 7. Non-officer members – arrangements for appointment
+
+The Welsh Ministers must ensure that the arrangements for the appointment of persons as members take into account the code published by the Minister for the Cabinet Office which sets out—
+
+- (a) the principles for public appointments; and
+- (b) the guidance on the practices to be followed in relation to making public appointments.
+
+## 8. Non-officer members – termination of term of appointment
+
+(1) The Welsh Ministers must immediately terminate a person's appointment as a non-officer member if the Welsh Ministers are satisfied—
+
+- (a) that it is not in the interests of HEIW or of the health service for that person to continue to hold office; or
+- (b) that the person is disqualified under regulation 6 from holding office or was disqualified at the time of their appointment.
+
+(2) The Welsh Ministers terminate a person's appointment under paragraph (1) by giving notice in writing to that effect.
+
+(3) If it comes to the notice of the Welsh Ministers that at the time of a person's appointment as a non-officer member the person was disqualified under regulation 6, the Welsh Ministers must—
+
+- (a) declare that the person was not duly appointed; and
+- (b) notify the person in writing to that effect.
+
+(4) If it comes to the notice of the Welsh Ministers that a person appointed as a non-officer member has, since the appointment, become disqualified under regulation 6, the Welsh Ministers must notify the person in writing to that effect.
+
+(5) If a person has received notice under paragraph (2), (3) or (4) the person's term of appointment is terminated with immediate effect and the person is to cease to act as a member.
+
+## 9. Non-officer members – suspension from office
+
+(1) The Welsh Ministers may suspend a non-officer member from office while they consider whether to terminate that person's appointment under regulation 8.
+
+(2) The Welsh Ministers must give notice of the decision to suspend a person and the suspension takes effect when the person receives the notice.
+
+(3) The notice may be—
+
+- (a) delivered in person, in which case the member is treated as receiving it when it is delivered; or
+- (b) sent by first class post to the person's last known postal address, in which case the person is treated as receiving it on the third day after the day on which it is posted.
+
+(4) The initial period of suspension must not exceed 6 months.
+
+(5) The Welsh Ministers may review the suspension at any time.
+
+(6) The Welsh Ministers may review the suspension if requested in writing by the person to do so, but need not carry out a review if a period of less than 3 months has elapsed since the beginning of the initial period of suspension.
+
+(7) Following a review, the Welsh Ministers may—
+
+- (a) revoke the suspension; or
+- (b) suspend the person for another period of not more than 6 months from the expiry of the current period.
+
+(8) The Welsh Ministers must revoke the suspension if at any time they decide that—
+
+- (a) there are no grounds to terminate a person's appointment under regulation 8; or
+- (b) there are such grounds but the Welsh Ministers are not minded to terminate that person's appointment under those provisions.
+
+## 10. Appointment of vice-chair
+
+(1) The members may appoint one of the non-officer members, other than the chair, to be vice-chair for such period, not exceeding the remainder of that person's term as a member, as they may specify on the appointment.
+
+(2) A member appointed under paragraph (1) may at any time resign from the office of vice-chair by giving notice in writing to the chair or, if the office of chair is vacant, to the members.
+
+(3) This regulation does not apply if regulation 11 applies.
+
+## 11. Appointment of vice-chair where chair is suspended
+
+(1) This regulation applies where the chair is suspended under regulation 9.
+
+(2) If a vice-chair has been appointed under regulation 10(1), that appointment ceases to have effect.
+
+(3) The Welsh Ministers may re-appoint the person mentioned in paragraph (2) or appoint another non-officer member to be vice-chair.
+
+(4) The appointment of a vice-chair under paragraph (3) must be for a period not exceeding the shorter of—
+
+- (a) the period for which the chair is suspended; or
+- (b) the remainder of the non-officer member's term of appointment as a member.
+
+(5) When the period for which a member is appointed as vice-chair expires, the Welsh Ministers may re-appoint the member as vice-chair or appoint another non-officer member as vice-chair.
+
+(6) A person appointed under paragraph (3) or (5) may, at any time, resign from the office of vice-chair by giving notice in writing to the Welsh Ministers.
+
+(7) The Welsh Ministers may terminate a person's appointment as vice-chair under paragraph (3) or (5) if the Welsh Ministers think that it would be in the best interests of HEIW for another non-officer member to be vice-chair.
+
+(8) If—
+
+- (a) a person resigns from the office of vice-chair under paragraph (6); or
+- (b) the Welsh Ministers terminate a person's appointment as vice-chair under paragraph (7),
+
+the Welsh Ministers may appoint another non-officer member as vice-chair under paragraph (3).
+
+## 12. Powers of vice-chair
+
+(1) This regulation applies if—
+
+- (a) the chair is suspended under regulation 9 and a non-officer member is appointed to be vice-chair under regulation 11; or
+- (b) a non-officer member is appointed to be vice-chair under regulation 10 and—
+  - (i) the office of chair is vacant for any reason; or
+  - (ii) the chair is unable to perform the duties of chair owing to illness, absence or any other cause.
+
+(2) Where this regulation applies—
+
+- (a) the vice-chair is to act as chair until a new chair is appointed or the existing chair resumes the chair's duties (as the case may be); and
+- (b) references in Schedule 2 to the chair are, for so long as there is no chair available to perform the duties of the chair, to be taken to include references to the vice-chair.
+
+## 13. Appointment of committees and sub-committees
+
+(1) Subject to any directions given by the Welsh Ministers, HEIW may, and if so directed by the Welsh Ministers must, appoint committees of HEIW.
+
+(2) A committee of HEIW may consist wholly or partly of members of HEIW or wholly of persons who are not members of HEIW.
+
+(3) Subject to any directions given by the Welsh Ministers or by HEIW, a committee appointed under this regulation may, and if so directed by the Welsh Ministers, must appoint sub-committees.
+
+(4) A sub-committee of HEIW may consist wholly or partly of members of a committee (whether or not members of HEIW) or wholly of persons who are not members of HEIW or a committee.
+
+(5) Subject to any directions given by the Welsh Ministers, regulation 6 applies to the appointment of members of committees and sub-committees as it applies to the appointment of members of HEIW.
+
+## 14. Arrangements for the exercise of functions
+
+Subject to any directions given by the Welsh Ministers, HEIW may make arrangements for the exercise of any of its functions by a committee or sub-committee appointed under regulation 13, or by an officer of HEIW, in each case subject to such restrictions and conditions as HEIW thinks fit.
+
+## 15. Meetings and proceedings
+
+(1) The meetings and proceedings of HEIW must be conducted in accordance with the rules set out in Schedule 2 and with standing orders made under this regulation.
+
+(2) HEIW must make standing orders for the regulation of its proceedings and business, including provision for the suspension of all or any of the standing orders.
+
+(3) HEIW may vary, revoke and remake its standing orders.
+
+(4) HEIW may make, vary and revoke standing orders relating to the quorum, proceedings and place of a meeting of a committee or sub-committee of HEIW.
+
+(5) Standing orders of HEIW or a committee or sub-committee—
+
+- (a) must be made in accordance with any directions given by the Welsh Ministers; and
+- (b) are subject to the provisions of these Regulations and any directions given by the Welsh Ministers.
+
+## 16. Reports
+
+(1) For each financial year HEIW must—
+
+- (a) prepare an annual report on how it has discharged its functions during that year; and
+- (b) send a copy of that report to the Welsh Ministers as soon as possible after the end of that financial year.
+
+(2) HEIW must—
+
+- (a) make such other reports to the Welsh Ministers in such manner and at such time as the Welsh Ministers direct; and
+- (b) provide the Welsh Ministers with such information as the Welsh Ministers from time to time request.
+
+## 17. Accounts
+
+For each financial year HEIW must—
+
+- (a) keep proper accounts and proper records in relation to those accounts; and
+- (b) prepare a statement of accounts;
+
+in accordance with any directions given by the Welsh Ministers.
+
+## 18. Disclosure of pecuniary interest
+
+(1) This paragraph applies where a member has a pecuniary interest, direct or indirect, in a contract, proposed contract or other matter and is present at a meeting of HEIW at which the contract, proposed contract or other matter is the subject of consideration.
+
+(2) Subject to the following provisions of this regulation, where paragraph (1) applies in respect of a member, the member must at the meeting and as soon as practicable after its commencement, disclose the interest and must not take part in the consideration or discussion of the contract, proposed contract or other matter or vote on any question with respect to it.
+
+(3) The Welsh Ministers may, subject to such conditions they think fit to impose, disapply a requirement imposed by paragraph (2) if the Welsh Ministers think it is in the interests of the health service to do so.
+
+(4) HEIW may, by standing orders made under regulation 15(2), provide for the exclusion of a member from a meeting of HEIW while any contract, proposed contract or other matter in which the member has a pecuniary interest, direct or indirect, is under consideration.
+
+(5) Any remuneration, compensation or allowances payable to a member by virtue of paragraph 2 of Schedule 5 to the Act (pay and allowances) is not a pecuniary interest for the purposes of this regulation.
+
+(6) Subject to paragraphs (3) and (7), the member must be treated for the purposes of this regulation as having an indirect pecuniary interest in a contract, proposed contract or other matter if—
+
+- (a) the member is a director of a company or other body with which the contract was made or is proposed to be made or which has a direct pecuniary interest in the other matter under consideration; or
+- (b) the member is a partner of, or is in the employment of, a person with whom the contract was made, or is proposed to be made or who has a direct pecuniary interest in the other matter under consideration, and in the case of two individuals living together as a couple (whether married or in a civil partnership or not) the interest of one is, if known to the other, to be taken for the purpose of this regulation as also being an interest of the other.
+
+(7) A member is not to be treated as having a pecuniary interest in a contract, proposed contract or other matter by reason only—
+
+- (a) of membership of a company or other body if the member has no beneficial interest in securities of the company or other body; or
+- (b) of an interest in a company, body or person with which the member is connected as mentioned in paragraph (6) which is so remote or insignificant that it cannot reasonably be regarded as likely to influence the member in the consideration or discussion of, or voting on, any question with respect to the contract, proposed contract or other matter.
+
+(8) Where a member—
+
+- (a) has an indirect pecuniary interest in a contract, proposed contract or other matter by reason only of a beneficial interest in securities of a company or other body;
+- (b) the total nominal value of the securities does not exceed £5,000 or one-hundredth of the total nominal value of the issued share capital of the company or body, whichever is the lesser; and
+- (c) if the share capital is of more than one class, the total nominal value of shares of any one class in which the person has a beneficial interest does not exceed one-hundredth of the total issued share capital of that class,
+
+this regulation does not prohibit the member from taking part in the consideration or discussion of the contract, proposed contract or other matter, or from voting on any question with respect to it, but, in such circumstances the member must nonetheless disclose their interest.
+
+(9) This regulation applies, subject to any directions given by the Welsh Ministers—
+
+- (a) to a committee or sub-committee as it applies to HEIW; and
+- (b) to a member of a committee or sub-committee (whether or not the person is a member of HEIW) as it applies to a member of HEIW.
+
+(10) In this regulation—
+
+- “**securities**” (“***gwarannau***”) means—
+  - (a) shares or debentures, whether or not constituting a charge on the assets of a company or other body, or rights or interests in a share or debenture; or
+  - (b) rights (whether actual or contingent) in respect of money lent to, or deposited with, an industrial or provident society or building society;
+- “**shares**” (“***cyfranddaliadau***”) means shares in the share capital of a company or other body or the stock of a company or other body.
+
+Vaughan Gething
+
+Cabinet Secretary for Health, Well-being and Sport, one of the Welsh Ministers
+
+SCHEDULES
+
+## SCHEDULE 1 — DISQUALIFICATION
+
+Regulation 6
+
+### 1. Criminal convictions
+
+(1) The person has within the period of 5 years immediately preceding the date of the proposed appointment been convicted, or at any time during their term of office is convicted—
+
+- (a) in the United Kingdom of any criminal offence; or
+- (b) outside the United Kingdom of an offence which, if committed in any part of the United Kingdom, would constitute a criminal offence in that part;
+
+and, in either case, the final outcome of the proceedings was a sentence of imprisonment (whether suspended or not) for a period of not less than 3 months without the option of paying a fine.
+
+(2) For the purposes of this paragraph, the date of conviction is deemed to be the date on which the ordinary period allowed for making an appeal or application with respect to the conviction expires or, if such an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its not being prosecuted.
+
+### 2. Bankruptcy
+
+(1) The person is subject to a bankruptcy restrictions order, an interim bankruptcy restrictions order or has made a composition or an arrangement with creditors.
+
+(2) Where a person is disqualified under sub-paragraph (1)—
+
+- (a) if the bankruptcy is annulled on the ground that the person ought not to have been adjudged bankrupt or on the ground that the person's debts have been paid in full, that person becomes eligible for appointment as a member on the date of the annulment;
+- (b) if the person is discharged from bankruptcy, that person becomes eligible for appointment as a member on the date of the discharge;
+- (c) if, having made a composition or arrangement with creditors, the person's debts are paid in full, that person becomes eligible for appointment as a member on the date upon which such debts are paid in full; and
+- (d) if, having made a composition or arrangement with creditors, a period of 5 years has expired from the date on which the terms of the composition or arrangement were fulfilled, that person becomes eligible for appointment as a member.
+
+### 3. Dismissal from health service body
+
+(1) The person has been dismissed within the period of 5 years immediately preceding the date of the proposed appointment or during their term as a member, otherwise than by reason of redundancy, from paid employment with a health service body.
+
+(2) A person who is disqualified under sub-paragraph (1) may, after the expiry of 2 years from the date of dismissal, apply in writing to the Welsh Ministers to have that disqualification removed.
+
+(3) If the Welsh Ministers refuse a person's application under sub-paragraph (2), no further application may be made by the person before the expiry of the period of 2 years beginning with the date of the person's last application.
+
+(4) For the purpose of this paragraph, a person is not to be treated as having been in paid employment by reason only of having been—
+
+- (a) in the case of a health service body which is not an NHS trust or an NHS foundation trust (other than a clinical commissioning group), the chairman or a non-officer member of the body;
+- (b) in the case of an NHS trust, the chairman or a non-executive director of the trust;
+- (c) in the case of an NHS foundation trust, the chairman, a governor or a non-executive director of the trust; or
+- (d) in the case of a clinical commissioning group, the chair or a member of the governing body.
+
+(5) In sub-paragraph (4)(a), “**non-officer member**” means a member of a health service body who is not employed by the body.
+
+### 4. Termination of membership of health service body
+
+(1) The person has—
+
+- (a) had his or her membership as chair, member or director of a health service body terminated, other than by reason of redundancy, voluntary resignation, reorganisation of the health service body, or expiry of the period of office for which that person was appointed; or
+- (b) been removed from office as the chair or a member of the governing body of a clinical commission group.
+
+(2) If a person is disqualified under sub-paragraph (1) the disqualification ceases to have effect on the expiry of 2 years beginning on the date of the termination of the term of appointment or such longer period as may have been specified by the body that terminated the person's membership.
+
+(3) The Welsh Ministers may reduce the period of disqualification mentioned in sub-paragraph (2) on the application of the disqualified person.
+
+### 5. Cessation of disqualification
+
+Where the Welsh Ministers have directed that a disqualification is to be removed under paragraph 3 or when the period of disqualification has come to an end under paragraph 4, the person is no longer disqualified for the purpose of this Schedule.
+
+## SCHEDULE 2 — RULES FOR THE MEETINGS AND PROCEEDINGS OF HEIW
+
+Regulation 15(1)
+
+**1.** Meetings of HEIW must be held on such day and at such place as may be fixed by the chair and the chair is responsible for convening the meeting.
+
+**2.** (1) The chair may call a meeting of HEIW at any time.
+
+(2) If a requisition for a meeting, signed by at least one third of the total number of members is presented to the chair and the chair either—
+
+- (a) refuses to call a meeting, or
+- (b) without so refusing, does not call a meeting within 21 days after the requisition has been presented to him or her,
+
+those members may call a meeting to be held immediately.
+
+(3) In sub-paragraph (2), “**total number of members**” means the total number of members excluding the chair and any member suspended for the time being under regulation 9.
+
+**3.** (1) Before each meeting, other than a meeting called under paragraph 2(2), a notice of the meeting must be delivered to each member, or sent by post to each member's last known address at least 5[^key-04f538c9bbfab1a5fd8e036ae27ffae8] clear days before the date of the meeting.
+
+(2) A notice under sub-paragraph (1) must—
+
+- (a) specify the principal business proposed to be transacted at the meeting, and
+- (b) be signed by the chair or by an officer authorised by the chair to sign on the chair's behalf.
+
+(3) The proceedings of a meeting are not invalidated by failure to deliver such notice to a member.
+
+(4) Sub-paragraph (1) does not apply if the chair thinks it is necessary to call a meeting without notice.
+
+**4.** (1) At HEIW's first meeting the chair must preside.
+
+(2) At a meeting of HEIW (other than its first meeting) the chair, or in the chair's absence, the vice-chair (if there is one and they are present) presides.
+
+(3) If at a meeting of HEIW (other than its first meeting) the chair and any vice-chair are absent, such other non-officer member present as the other members present may choose for the purpose presides.
+
+**5.** Every question at a meeting is determined by a majority of the votes of the members present and voting on the question and, in the case of any equality of votes, the person presiding has a second and casting vote.
+
+**6.** (1) Subject to sub-paragraph (2) and any directions given by the Welsh Ministers, no business may be transacted at a meeting unless six members are present.
+
+(2) The chief executive must be present at a meeting of HEIW at which other members who are officers of HEIW are appointed.
+
+**7.** (1) The minutes of the proceedings of a meeting must be drawn up and must be signed at the next ensuing meeting by the person presiding at the meeting.
+
+(2) The names of the members present at a meeting must be recorded in the minutes.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision concerning the membership and procedures of Health Education and Improvement Wales (“HEIW”). HEIW is a Special Health Authority established under section 22 of the National Health Service (Wales) Act 2006 by the Health Education and Improvement Wales (Establishment and Constitution) Order 2017.
+
+In particular, these Regulations provide for the appointment and term of office of the chair, the chief executive and other members of HEIW (regulations 3 and 4), for eligibility and disqualification of members (regulations 5 and 6), arrangements for appointment (regulation 7) and for the termination of appointment and suspension of non-officer members (regulations 8 and 9).
+
+Also included is provision relating to the appointment and powers of a vice-chair (regulations 10, 11 and 12) and the appointment of, and exercise of functions by, committees and sub-committees (regulations 13 and 14). Provision is also made in relation to the conduct of proceedings (regulation 15 and Schedule 2), for requiring HEIW to keep accounts and furnish reports to the Welsh Ministers (regulations 16 and 17) and for the disclosure of a pecuniary interest (regulation 18).
+
+The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Department of Health and Social Services, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^c23310561]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^c23310571]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c23310581]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-c38cd457dc34999c0988f4d924d90cb9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/909/regulation/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2024/1205/regulation/20)
+
+[^key-46512bf79317e745bd471c6313554928]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/909/regulation/2) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [92(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/92/2)
+
+[^key-8c74fe6a0dc66b3cd4bca1ec6b11398a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/909/regulation/2) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2024/1308/regulation/13)
+
+[^c23310591]: Marginal citation: [S.I. 2017/913](https://www.legislation.gov.uk/uksi/2017/913) (W. 224).
+
+[^key-21b2617c66a92fca62ee0290fef66240]: Modification: Reg. 4(3) excluded in part (temp.) (5.7.2020) by [The National Health Service (Temporary Disapplication of Tenure of Office) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/585)](https://www.legislation.gov.uk/wsi/2020/585), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/585/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2020/585/regulation/7) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/585/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2020/585/regulation/8))
+
+[^key-a950c61e09869127f9591b0bf9c42a3a]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2017/909/regulation/5/1) omitted (20.1.2025) by virtue of [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [14(a)(i)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/14/a/i)
+
+[^key-7c41c4ee1bc34ef49ba45ec07c89ddfa]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/wsi/2017/909/regulation/5/1/c) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [14(a)(ii)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/14/a/ii)
+
+[^key-7f18608e449d2d2bac42a3fdf999f3c0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2017/909/regulation/5/2) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [14(b)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/14/b)
+
+[^key-04f538c9bbfab1a5fd8e036ae27ffae8]: Textual amendment: Word in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/wsi/2017/909/schedule/2/paragraph/3/1) substituted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2024/1308/regulation/15)

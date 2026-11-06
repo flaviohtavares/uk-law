@@ -1,0 +1,909 @@
+---
+title: The Firefighters' Pension (Wales) Scheme (Amendment) Order 2006, SCHEDULE 1
+act: The Firefighters' Pension (Wales) Scheme (Amendment) Order 2006
+section: schedule-1
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2006/1672/schedule/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Firefighters' Pension (Wales) Scheme (Amendment) Order 2006, SCHEDULE 1
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## SCHEDULE 1 — AMENDMENT OF THE FIREFIGHTERS' PENSION (WALES) SCHEME
+
+Article 2
+
+**1.** In rule A3 (exclusive application to regular firefighters)[^f00009]in paragraph (3), for “a member of a brigade”, substitute “an employee of a fire and rescue authority”.
+
+**2.** In rule A4 (application to temporary employment connected with fire services)—
+
+- (a) in paragraph (2)—
+  - (i) for “fire services”, substitute “fire and rescue services”; and
+  - (ii) in sub-paragraphs (a), (c) and (d) after the words “Secretary of State”(in each place), insert “or National Assembly for Wales”; and
+- (b) for paragraph (3), substitute—
+
+  > (3) Where this rule applies the person’s relevant employment shall be treated for the purposes of this Scheme as employment by a fire and rescue authority and this Scheme applies in relation to the relevant employment as if—
+  >
+  > - (a) he were, and his duties were duties as, a regular firefighter,
+  > - (b) his pay and role were the same as they would have been had he not ceased to perform duties as a regular firefighter or, where section 10 of the Fire Services Act 1959[^f00010]applies, the same as his pay and role as an employee of a fire and rescue authority,
+  > - (c) any reference to employment with a fire and rescue authority were a reference to the relevant employment,
+  > - (d) rules A14, A15 and L2 were omitted, and
+  > - (e) any reference to a fire and rescue authority were a reference to the Secretary of State or the National Assembly for Wales.
+
+  .
+
+**3.** In rule A5 (application to permanent employment as instructor)—
+
+- (a) in paragraph (2)—
+  - (i) for “fire services”, substitute “fire and rescue services”; and
+  - (ii) after “Secretary of State”, insert “or the National Assembly for Wales”; and
+- (b) in paragraph (3)—
+  - (i) for “as a member of a brigade”, substitute “by a fire and rescue authority”;
+  - (ii) omit sub-paragraph (b);
+  - (iii) in sub-paragraph (c), for “fire authority”, substitute “fire and rescue authority”and after “Secretary of State” insert “or the National Assembly for Wales”.
+  - (iv) in sub-paragraph (d), for “A13 to”, substitute “A14,”.
+
+**4.** In rule A6 (no application to auxiliary firefighter)—
+
+- (a) for “a member of a brigade”, substitute “an employee of a fire and rescue authority”; and
+- (b) for “who is enrolled for service in the brigade which”, substitute “whose employment”.
+
+**5.** In rule A7 (reckoning of service for purposes of awards)—
+
+- (a) in paragraph (1), for “a member of a brigade”, substitute “an employee of a fire and rescue authority”;
+- (b) in paragraph (2)(b), for “fire authority”, substitute “fire and rescue authority”; and
+- (c) in paragraph (4), for “member of a brigade”(in both places), substitute “employee of a fire and rescue authority”.
+
+**6.** In rule A8 (aggregate pension contributions for purposes of awards), in paragraph (1)(a), for “fire authority”, substitute “fire and rescue authority”.
+
+**7.** In rule A9 (qualifying injury)—
+
+- (a) in paragraph (1), for “Except in rule J4,”, substitute “Except in rules J4, L1(5) and (6) and L4B(1)(b),”; and
+- (b) in paragraph (2)—
+  - (i) for “In rule J4, unless the context otherwise requires,”, substitute “In rules J4, L1(5) and (6) and L4B(1)(b)”; and
+  - (ii) for “member of a brigade”, substitute “firefighter”.
+
+**8.** In rule A10 (disablement)—
+
+- (a) for paragraph (1A)[^f00011], substitute—
+
+  > (1A) In determining whether a disablement is permanent, a fire and rescue authority shall have regard to whether the disablement will continue until the person’s normal pension age.
+
+  ; and
+- (b) in paragraph (4), for “fire authority”, substitute “fire and rescue authority”.
+
+**9.** For rules A13 (compulsory retirement on account of age) and A14 (compulsory retirement on grounds of efficiency of brigade), substitute—
+
+> **A13. Normal pension age**
+>
+> The normal pension age of employees of a fire and rescue authority appointed on terms under which they are or may be required to engage in fire-fighting is 55.
+>
+> **A14. Compulsory retirement of grounds of efficiency**
+>
+> A regular firefighter who—
+>
+> - (a) has attained the age of 50, and
+> - (b) has, or but for an election under rule G3 or a failure to make an election under rule G2A would have, completed 25 years' pensionable service,
+>
+> may be required by the fire and rescue authority to retire on the grounds that his retention in the fire and rescue service would not be in the general interests of its efficiency.
+
+.
+
+**10.** In rule A15 (compulsory retirement on grounds of disablement)[^f00012], for “fire authority”(in both places), substitute “fire and rescue authority”.
+
+**11.** In rule A16 (effective date of retirement), for “a member of a brigade”, substitute “an employee of a fire and rescue authority”.
+
+**12.** In rule B1(ordinary pension)—
+
+- (a) in paragraph (2)(a), for “joining another brigade”, substitute “taking up employment with another fire and rescue authority”; and
+- (b) in paragraph (2)(b)—
+  - (i) for “fire authority”, substitute “fire and rescue authority”; and
+  - (ii) for “chief officer”, substitute “chief fire officer”.
+
+**13.** In rule B2 (short service awards), for paragraph (1), substitute—
+
+> (1) This rule applies, unless immediately before his retirement an election under rule G3 not to pay pension contributions had effect, to a regular firefighter who—
+>
+> - (a) retires on or after attaining the age of 65,
+> - (b) is entitled to reckon at least 2 years' pensionable service, and
+> - (c) is not entitled to any other pension or gratuity under this Part.
+
+.
+
+**14.** In rule B3 (ill-health award)—
+
+- (a) in paragraph (2)(a) and (b), after “calculated”, insert “subject to paragraph (3)”; and
+- (b) after paragraph (2), insert—
+
+  > (3) Where the person has the role of Station Manager B or a superior role, the calculation required by paragraph (2)(a) or (b) shall be made as if his normal pension age were 60.
+
+  .
+
+**15.** In rule B5 (deferred pension)—
+
+- (a) in paragraph (2)—
+  - (i) for “a member of a brigade”, substitute “an employee of a fire and rescue authority”;
+  - (ii) for “joining another brigade”, substitute “taking up employment with another fire and rescue authority”; and
+  - (iii) after “calculated”, insert “subject to paragraph (3A)”;
+- (b) in paragraph (3)—
+  - (i) in sub-paragraph (b), for “rejoining his brigade”, substitute “re-employment with his fire and rescue authority”; and
+  - (ii) after “calculated”, insert “subject to paragraph (3A)”;
+- (c) after paragraph (3), insert—
+
+  > (3A) Where the person has the role of Station Manager B or a superior role, the calculation required by paragraph (2) or (3) shall be made as if his normal pension age were 60.
+
+  ; and
+- (d) in paragraph (4)(b), after “he becomes permanently disabled”, insert “for engaging in firefighting or performing any other duties appropriate to his former role as a firefighter”.
+
+**16.** In rule B6 (repayment of aggregate pension contributions), in paragraph (1),—
+
+- (a) for “a member of a brigade”, substitute “an employee of a fire and rescue authority”; and
+- (b) for “joining another brigade”, substitute “taking up employment as a regular firefighter with another fire and rescue authority”.
+
+**17.** In rule B7 (commutation— general provision)—
+
+- (a) for paragraph (5)(b), substitute “(b) he retires at, or after, normal pension age”;
+- (b) omit paragraph (5)(c); and
+- (c) in paragraphs (7) to (9), for “fire authority”, substitute “fire and rescue authority”.
+
+**18.** In rule B8 (commutation— small pensions)[^f00013], in paragraph (1), for “fire authority”, substitute “fire and rescue authority”.
+
+**19.** In rule B9 (allocation), in paragraphs (2), (6), (8) and (12), for “fire authority”substitute “fire and rescue authority”.
+
+**20.** In rule B11 (deduction of tax from certain awards), for “fire authority”, substitute “fire and rescue authority”.
+
+**21.** In rule B13 (part-time members)—
+
+- (a) after “calculated”, insert “subject to paragraph (2)”;
+- (b) renumber the existing provision, as so amended, as paragraph (1); and
+- (c) after that paragraph, insert—
+
+  > (2) Where the person has the role of Station Manager B or a superior role, the calculation required by paragraph (1) shall be made as if his normal pension age were 60.
+
+  .
+
+**22.** In rule C1 (spouse’s ordinary pension), in paragraphs (3), (5) and (6), for “fire authority”substitute “fire and rescue authority”.
+
+**23.** In rule C3 (spouse’s augmented award)—
+
+- (a) in paragraph (2), for “fire authority”(in both places), substitute “fire and rescue authority”; and
+- (b) in paragraph (5)—
+  - (i) for “rule C2(3) to (5) does not apply”, substitute “paragraphs (3) to (5) of rule C2 do not apply”; and
+  - (ii) for “holding the rank of firefighter in the brigade maintained by the London Fire and Civil Defence Authority”, substitute “employed in the role of firefighter by the London Fire and Emergency Planning Authority”.
+
+**24.** For rule C5 (limitation on award to widow by reference to date of marriage), substitute—
+
+> **C5. Limitation on award to spouse by reference to date of marriage**
+>
+> (1) A surviving spouse is not entitled to an ordinary pension under rule C1, a special award under rule C2, an augmented award under rule C3 or an accrued pension under rule C4 unless he was married to the deceased during a period before the deceased last ceased to be a regular firefighter.
+>
+> (2) A surviving spouse who, but for paragraph (1), would be entitled to a pension or other award mentioned in that paragraph, is instead entitled to a pension calculated in accordance with Part IV of Schedule 3.
+
+.
+
+**25.** For rule C6 (widow’s requisite benefit and temporary pension), substitute—
+
+> **C6. Spouse’s requisite benefit and temporary pension**
+>
+> (1) This rule applies where—
+>
+> - (a) a person entitled to reckon less than 2 years' pensionable service who is or has been a regular firefighter and by whom pension contributions have at any time been payable under rule G2 dies, leaving a surviving spouse, after the beginning of the tax year in which he attained or would have attained state pensionable age, and
+> - (b) neither rule C2 nor rule C4 applies.
+>
+> (2) Where this rule applies the surviving spouse is entitled—
+>
+> - (a) in respect of the first 13 weeks following the death, to a temporary pension, and
+> - (b) after the last of those 13 weeks, to a requisite benefit pension.
+>
+> (3) The weekly amount of the temporary pension is A− B, where—
+>
+> - A is the weekly amount, immediately before the deceased died, of his pensionable pay or, as the case may be, his pension or pensions (including any increase under the Pensions (Increase) Act 1971)[^f00014], and
+> - B is the weekly amount of any children’s allowances payable in respect of his death.
+>
+> (4) The requisite benefit pension shall be calculated in accordance with Part V of Schedule 3.
+>
+> (5) If—
+>
+> - (a) the deceased died while serving as a regular firefighter, and
+> - (b) the amount of the capitalised value of the requisite benefit pension, as calculated by the Government Actuary, is less than that of his average pensionable pay,
+>
+> the surviving spouse is entitled to a gratuity equal to the difference between those amounts.
+
+.
+
+**26.** In rule C8 (limitations where spouses living apart), in paragraphs (6) and (7), for “fire authority”, substitute “fire and rescue authority”.
+
+**27.** In rule C9 (effect of remarriage), for “fire authority”(in both places), substitute “fire and rescue authority”.
+
+**28.** In rule D5 (child’s allowance or special gratuity: limitations), in paragraphs (4)(c) and (5)(b), for “fire authority”, substitute “fire and rescue authority”.
+
+**29.** In rule E2 (adult dependent relative’s special pension), in paragraphs (3) and (4), for “fire authority”, substitute “fire and rescue authority”.
+
+**30.** In rule E3 (dependent relative’s gratuity), in paragraph (3), for “fire authority”, substitute “fire and rescue authority”.
+
+**31.** In rule E4 (payment of balance of contributions to estate), in paragraph (4), for “fire authority”, substitute “fire and rescue authority”.
+
+**32.** For rule E5 (gratuity in lieu of surviving spouse’s pension), substitute—
+
+> **E5. Gratuity in lieu of surviving spouse’s pension**
+>
+> (1) Where the amount of any pension payable under Part C, together with any increase under the Pensions (Increase) Act 1971, does not exceed £260, or any greater amount prescribed by regulations for the time being in force under section 12C(1) of the Pension Schemes Act 1993[^f00015], the fire and rescue authority may commute the pension for a gratuity.
+>
+> (2) Where—
+>
+> - (a) a surviving spouse is entitled to a pension under rule C1 or C2, and
+> - (b) the fire and rescue authority are satisfied that there are sufficient reasons, and
+> - (c) the surviving spouse consents,
+>
+> the fire and rescue authority may commute for a gratuity the pension or so much of it as may be commuted without contravening rule E7.
+>
+> (3) A fire and rescue authority may under this rule commute a pension for a gratuity only when the pension first becomes payable.
+>
+> (4) A gratuity under this rule shall be calculated in accordance with such guidance as is provided for the purpose by the Government Actuary.
+
+.
+
+**33.** In rule E6 (gratuity in lieu of child’s allowance), in paragraph (1), for “fire authority”(in both places), substitute “fire and rescue authority”.
+
+**34.** In rule E7 (limitation on discretion to commute pension or allowance for gratuity), in paragraph (2), for “fire authority”, substitute “fire and rescue authority”.
+
+**35.** In rule E9 (flat-rate awards)—
+
+- (a) in paragraph (2), after “applies”, insert “and the deceased retired before 1 October 2004,”;
+- (b) after paragraph (2), insert—
+
+  > (2A) Subject to paragraph (3), where paragraph (1)(a) or (b) applies and the deceased retired on or after 1 October 2004, the amount of the pension is—
+  >
+  > - (a) if his last role was not higher than Watch Manager A (Case A), £379.78;
+  > - (b) if his last role was higher than Watch Manager A but not higher than Area Manager A (Case B), £494.54; and
+  > - (c) in any other case (Case C), £594.18,
+  >
+  > increased, in each case, in accordance with paragraph (7).
+
+  ;
+- (c) in paragraph (3)(b), for the words after “April 1975”, substitute—
+
+  > and would have become entitled to reckon at least 10 years' pensionable service had he continued to serve until—
+  >
+  > - (i) he could have been required to retire on account of age; or
+  > - (ii) if he retired on or after 1st October 2004, normal pension age,
+  >
+  > the amount specified in, as the case may be, paragraph (2)(a), (b) or (c) or paragraph (2A)(a), (b) or (c), is increased by £29.91.
+
+  ;
+- (d) in paragraph (6), for “fire authority”, substitute “fire and rescue authority”; and
+- (e) in paragraph (9), for “the sums referred to in paragraph (2)(a), (b) and (c)”, substitute “the amounts specified in sub-paragraphs (a), (b) and (c) of paragraphs (2) and (2A)”.
+
+**36.** In rule F1 (reckoning of and certificates as to pensionable service)[^f00016]—
+
+- (a) in paragraph (3), for “fire authority”, substitute “fire and rescue authority”;
+- (b) in paragraph (4), for “Secretary of State”, substitute “National Assembly for Wales”;
+- (c) in paragraph (7), for “resumes service in his former brigade”, substitute “resumes employment with his former fire and rescue authority”.
+
+**37.** In rule F2 (current service)—
+
+- (a) for paragraphs (1) and (2), substitute—
+
+  > (1) Subject to paragraphs (2) and (3), a person serving as a regular firefighter is entitled to reckon as pensionable service—
+  >
+  > - (a) any period of service after 9 November 2004, as a regular firefighter in the employment of a fire and rescue authority, except a period during which pension contributions were not payable under rule G2, and
+  > - (b) if he served as a regular firefighter in a brigade after 31 March 1972 and before 10 November 2004, any period of service in that brigade, except a period during which pension contributions were not payable under rule G2, and
+  > - (c) if he was serving in a brigade both on and immediately before 1 April 1972, any period he was entitled to reckon immediately before that date.
+  >
+  > (2) A person is not entitled to reckon as pensionable service by virtue of paragraph (1)—
+  >
+  > - (a) if he ceases employment with a fire and rescue authority after 9 November 2004, and again takes up employment with the authority, any period of service before he last took up such employment, or
+  > - (b) if he left a fire brigade after 31 March 1972 and—
+  >   - (i) rejoined the brigade before 10 November 2004, or
+  >   - (ii) took up employment with a fire and rescue authority on or after that date,
+  >
+  >   any period of service before he last rejoined the brigade or, as the case may be, took up employment with the authority, or
+  > - (c) any period of absence from duty as a regular firefighter as a result of sickness or injury certified by a qualified medical practitioner to be due to his own misconduct, or
+  > - (d) subject to paragraph (3) and rule F2A, any period of absence from duty without pay, or
+  > - (e) any period of maternity or adoption leave in respect of which the person has the right to, but does not, pay contributions under rule G2A.
+
+  ; and
+- (b) in paragraph (3), for the words from the beginning to “is serving”, substitute “The fire and rescue authority which employs a person”.
+
+**38.** In rule F2A[^f00017](maternity, paternity and adoption leave), for “fire authority” (in both places), substitute “fire and rescue authority”.
+
+**39.** In rule F3 (previous service reckonable without payment)—
+
+- (a) in paragraph (a) for “a brigade”, substitute “employment by a fire and rescue authority”; and
+- (b) in paragraph (b), for “resumed service as a regular firefighter in the brigade”, substitute “again taken up employment with the fire and rescue authority as a regular firefighter”.
+
+**40.** In rule F4 (previous service reckonable on payment)—
+
+- (a) for paragraph (1), substitute—
+
+  > (1) A person who—
+  >
+  > - (a) has retired from employment with a fire and rescue authority without a pension and without any transfer value or cash equivalent becoming payable by the authority, and
+  > - (b) has within 12 months, with the written consent, applied for before retiring, of the authority from which he retired, taken up employment as a regular firefighter with another fire and rescue authority, and
+  > - (c) within 6 months of taking up that employment, or such longer period as the other authority may allow, has undertaken to pay the required amount in accordance with paragraph 1 of Part 1 of Schedule 6,
+  >
+  > is entitled to reckon as pensionable service the period he was entitled to reckon when he retired.
+
+  ;
+- (b) for paragraphs (3) and (4), substitute—
+
+  > (3) A person who—
+  >
+  > - (a) has retired from employment by a fire and rescue authority with no pension other than an ill-health pension the unsecured portion of which has been terminated as mentioned in rule K1(3), and
+  > - (b) has again taken up employment as a regular firefighter with that or another fire and rescue authority, and
+  > - (c) within 6 months of taking up that employment, or such longer period as his employing authority may allow, has undertaken to pay in accordance with paragraph 1 of Part I of Schedule 6 a sum calculated in accordance with paragraph 2 of that Part,
+  >
+  > is entitled to reckon as pensionable service the period he was entitled to reckon when he retired.
+  >
+  > (4) A person who—
+  >
+  > - (a) has retired from employment by a fire and rescue authority with a deferred pension, and
+  > - (b) has by written notice to the authority relinquished the pension, and
+  > - (c) has again taken up employment as a regular firefighter with that or another fire and rescue authority, and
+  > - (d) within 6 months of taking up that employment, or such longer period as his employing authority may allow, has undertaken to pay in accordance with paragraph 1 of Part I of Schedule 6 the required amount described in paragraph (2),
+  >
+  > is entitled to reckon as pensionable service the period he was entitled to reckon when he retired.
+
+  ; and
+- (c) in paragraph (5), in sub-paragraph (a), for “the fire authority maintaining the brigade from which”, substitute “the fire and rescue authority from whose employment”.
+
+**41.** In rule F5 (period during which injury pension was payable)—
+
+- (a) for paragraph (1), substitute—
+
+  > (1) A person who—
+  >
+  > - (a) retired from a brigade before 10 November 2004, or from employment with a fire and rescue authority on or after that date, and became entitled to an injury pension, and
+  > - (b) resumed service as a regular firefighter in that or another brigade before 10 November 2004, or took up employment with a fire and rescue authority on or after that date, in the circumstances and within the period mentioned in rule K1(1) to (4), and
+  > - (c) within 6 months of his resuming service, or such longer period as the fire authority, or as the case may be, the fire and rescue authority, may allow, has undertaken to pay the required amount in accordance with paragraph 1 of Part I of Schedule 6,
+  >
+  > is entitled to reckon as pensionable service the period during which he was entitled to the injury pension (“the pension period”).
+
+  ; and
+- (b) in paragraph (2), after “rank he held”, insert “or, as the case may be, role he had”.
+
+**42.** In rule F6A (previous service reckonable following actionable loss)[^f00018], for “fire authority”(in each place), substitute “fire and rescue authority”.
+
+**43.** In rule F6B (calculation of amount of restitution payment)[^f00019], for “fire authority”(in each place), substitute “fire and rescue authority”.
+
+**44.** In rule F7 (receipt of transfer value)[^f00020]—
+
+- (a) in paragraph (1)—
+  - (i) for “fire authority”, substitute “fire and rescue authority”; and
+  - (ii) for “has become a regular firefighter in the brigade maintained by them”substitute “has taken up employment with them as a regular firefighter”; and
+- (b) in paragraph (4), in the definition of “B”, for “fire authority”, substitute “fire and rescue authority”.
+
+**45.** In rule F8 (transfer payments between fire authorities)[^f00021], after paragraph (1), insert—
+
+> (1A) Where—
+>
+> - (a) after 8 November 2004, a person who retired from a brigade before 10 November 2004 (“the first employment”) takes up employment as a regular firefighter with a fire and rescue authority, or
+> - (b) a person retires from employment with a fire and rescue authority (“the first FRA”) and takes up employment as a regular firefighter with another fire and rescue authority (“the second FRA”), and
+> - (c) in either case becomes entitled under rule F4 to reckon as pensionable service the period he was entitled to reckon when he retired,
+>
+> the authority responsible for the person in the first employment or, as the case may be, the first FRA, shall, subject to paragraph (2), pay to the second FRA a sum calculated in accordance with Part III of Schedule 6.
+
+.
+
+**46.** In rule F9 (payment of transfer values)[^f00022]—
+
+- (a) in paragraph (1)—
+  - (i) for “fire authority”, substitute “fire and rescue authority”; and
+  - (ii) in sub-paragraph (a), for “serve as a regular firefighter in the brigade maintained by them”, substitute “be employed by the authority as a regular firefighter”;
+- (b) in paragraph (2)—
+  - (i) for “fire authority”, in the first place those words appear, substitute “fire and rescue authority”; and
+  - (ii) for “the fire authority”, in the second place those words appear, substitute “the authority”; and
+- (c) in paragraphs (5)(a) and (6)(b), for “fire authority”, substitute “fire and rescue authority”.
+
+**47.** In rule G1 (pensionable pay and average pensionable pay), for paragraph (1), substitute—
+
+> (1) Subject to paragraph (2), the pensionable pay of a regular firefighter is the amount determined in relation to the performance of the duties of his role (whether as a whole-time or part-time employee).
+
+.
+
+**48.** In rule G2 (pension contributions), for “fire authority”(in both places), substitute “fire and rescue authority”.
+
+**49.** In rule G2A (optional pension contributions during maternity and adoption leave)[^f00023]—
+
+- (a) in paragraph (3)—
+  - (i) for “fire authority”, in the first place those words appear, substitute “fire and rescue authority”; and
+  - (ii) for “fire authority”, in the second and third places those words appear, substitute “authority”; and
+- (b) in paragraphs (5) and (7), for “fire authority”(in each place), substitute “fire and rescue authority”.
+
+**50.** In rule G3 (election not to pay pension contributions), in paragraphs (1), (4), (5) and (6), for “fire authority”, substitute “fire and rescue authority”.
+
+**51.** In rule G5 (purchase of increased benefits)
+
+- (a) in paragraph (2)—
+  - (i) in sub-paragraph (c), for “retirement date”, substitute “normal pension age”;
+  - (ii) in sub-paragraph (d), for “on his retirement date”, substitute “at his normal pension age”; and
+- (b) omit paragraph (3).
+
+**52.** In rule G6 (election to purchase increased benefits)[^f00024]—
+
+- (a) in paragraph (1), for “fire authority”(in both places), substitute “fire and rescue authority”;
+- (b) in paragraph (2), for “retirement date”, substitute “normal pension age”;
+- (c) in paragraph (4)—
+  - (i) for “retirement date”, substitute “normal pension age”;
+  - (ii) for “fire authority”(in both places), substitute “fire and rescue authority”; and
+  - (iii) in sub-paragraph (a), omit “of brigade”; and
+- (d) for paragraph (5), substitute—
+
+  > (5) An election under this rule—
+  >
+  > - (a) takes effect, subject to paragraph (3)(b), on the day on which the written notice is received by the fire and rescue authority, and
+  > - (b) is irrevocable.
+
+  .
+
+**53.** In rule G7 (payment of periodical contributions for increased benefits)—
+
+- (a) in paragraphs (1)(a) and (2), for “retirement date”, substitute “normal pension age”; and
+- (b) in paragraph (4), for “fire authority”, substitute “fire and rescue authority”.
+
+**54.** In rule G8 (effect of payment for increased benefits)—
+
+- (a) in paragraph (2)(c), for “retirement date”, substitute “normal pension age”;
+- (b) in paragraph (4)(a), for “a member of a brigade”, substitute “an employee of a fire and rescue authority”; and
+- (c) in paragraph (6), for “retirement date”, substitute “normal pension age”.
+
+**55.** In rule H1 (determination by fire authority)—
+
+- (a) in paragraph (1), for “fire authority”, substitute “fire and rescue authority”;
+- (b) in paragraph (2), for “fire authority”(in both places), substitute “authority”; and
+- (c) in paragraph (2A)[^f00025], in sub-paragraph (b), for “the member, the fire authority”, substitute “the employee, the authority”.
+
+**56.** In rule H2 (appeal to board of medical referees)[^f00026], in paragraphs (1)(b), (2) and (3), for “fire authority”, substitute “fire and rescue authority”.
+
+**57.** In rule H3 (appeal to Crown Court or Sheriff)—
+
+- (a) in paragraphs (1) to (3), for “fire authority”, substitute “fire and rescue authority”; and
+- (b) in paragraph (4), for “Secretary of State,”substitute “National Assembly for Wales”.
+
+**58.** In rule I2 (awards to servicemen), in paragraph (3), for “fire authority”, substitute “fire and rescue authority”.
+
+**59.** In rule I3 (awards on death of servicemen), in paragraph (3), for “fire authority”, substitute “fire and rescue authority”.
+
+**60.** In rule I4 (servicemen who resume service as regular firefighters), for “fire authority”, substitute “fire and rescue authority”.
+
+**61.** In rule I5 (servicemen who do not resume service in their former brigade)—
+
+- (a) in paragraph (1)—
+  - (i) for “service in his former brigade”, substitute “employment with his former fire and rescue authority”; and
+  - (ii) for “his former brigade”(in the second place where those words appear), substitute “the employment of that authority”; and
+- (b) in paragraph (3), for “(former fire authority’s consent to joining new brigade)”, substitute “(former fire and rescue authority’s consent to taking up employment with new fire and rescue authority)”.
+
+**62.** In rule I6 (pensionable service), for “during his forces period to serve in his former brigade”, substitute “in the employment of his former fire and rescue authority throughout his forces period”.
+
+**63.** In rule I7 (pension contributions), in paragraph (1), for “to serve in his former brigade”, substitute “in the employment of his former fire and rescue authority”.
+
+**64.** In rule IA2 (commutation of pension credit benefits)[^f00027], in paragraphs (1) and (6) to (8), for “fire authority”, substitute “fire and rescue authority”.
+
+**65.** In rule IA4 (application of general rules), in paragraph (2), for “fire authority”, substitute “fire and rescue authority”, and for “fire authorities”, substitute “fire and rescue authorities”.
+
+**66.** In rule J1 (guaranteed minimum pensions), in paragraph (3)(b), after “fire authority”insert “or the fire and rescue authority, as the case may be”.
+
+**67.** In rule J3 (whole-time member of brigade who is not a regular firefighter)[^f00028]—
+
+- (a) in paragraph (1)—
+  - (i) for “member of a brigade”(in the first place where those words appear), substitute “employee of a fire and rescue authority”; and
+  - (ii) for “a member of the brigade”, substitute “an employee of the authority”;
+- (b) in paragraph (2), for “fire authority”, substitute “fire and rescue authority”;
+- (c) in paragraph (3), for “the brigade, the fire authority”, substitute “that employment, the fire and rescue authority”;
+- (d) in paragraph (5)(a), for “fire authority”, substitute “fire and rescue authority”; and
+- (e) in paragraph (7)(a), for “a regular firefighter of the rank of, as the case may be, fireman or firewoman”, substitute “employed in the role of firefighter”.
+
+**68.** In rule J4 (part-time member of brigade)—
+
+- (a) in paragraph (1)—
+  - (i) for “This”, substitute “Subject to paragraph (1A), this”; and
+  - (ii) for “a retained or volunteer member of a brigade”, substitute “employed by a fire and rescue authority as a retained firefighter or who was a volunteer firefighter”;
+- (b) after paragraph (1), insert—
+
+  > (1A) Paragraph (1) does not apply where the person was also employed by the authority as a regular firefighter.
+
+  ;
+- (c) in paragraph (3)—
+  - (i) for “This”, substitute “Subject to paragraph (3A), this”; and
+  - (ii) for “a retained or volunteer member of a brigade”, substitute “employed by a fire and rescue authority as a retained firefighter or who is or has been a volunteer firefighter”;
+- (d) after paragraph (3), insert—
+
+  > (3A) Paragraph (3) does not apply where the person was also employed by the authority as a regular firefighter.
+
+  ; and
+- (e) in paragraph (7)—
+  - (i) for “member of a brigade”, substitute “employee of a fire and rescue authority”; and
+  - (ii) for sub-paragraph (a), substitute—
+
+    > - (a) was employed in the same role as the retained or volunteer firefighter and had the same service in that role,
+
+    .
+
+**69.** In rule J5 (members of brigade other than regular firefighters— supplementary), in paragraph (2), for “member of a brigade”, substitute “person”.
+
+**70.** In rule K1 (cancellation of ill-health and injury pensions)—
+
+- (a) in paragraph (1)—
+  - (i) for “fire authority”, substitute “fire and rescue authority”; and
+  - (ii) in sub-paragraph (c), for “could not have been required to retire on account of age”, substitute “would not have attained normal pension age”;
+- (b) in paragraph (2), for “The fire authority”, substitute “The fire and rescue authority”; and
+- (c) in paragraph (4)—
+  - (i) for “service in the brigade”, substitute “employment with the fire and rescue authority”; and
+  - (ii) for sub-paragraph (a), substitute—
+
+    > - (a) the fire and rescue authority shall permit him to resume service forthwith in a role at a level equivalent to, or higher than, that which he had when he retired with the pension, and
+
+    .
+
+**71.** In rule K2 (reassessment of injury pension), in paragraphs (1) and (3), for “fire authority”substitute “fire and rescue authority”.
+
+**72.** In rule K3 (reduction of award in case of default), in paragraph (1), for “fire authority”, substitute “fire and rescue authority”.
+
+**73.** In rule K4 (withdrawal of pension during service as a regular firefighter)—
+
+- (a) for “fire authority”, substitute “fire and rescue authority”; and
+- (b) for “serving as a regular firefighter in any brigade”, substitute “employed as a regular firefighter by any fire and rescue authority”.
+
+**74.** In rule K5 (withdrawal of pension on conviction of certain offences)—
+
+- (a) in paragraph (1), for “fire authority”, substitute “fire and rescue authority”;
+- (b) in paragraph (2)(b), for “a member of a brigade”, substitute “an employee of a fire and rescue authority”, and for “Secretary of State”, substitute “National Assembly for Wales”; and
+- (c) in paragraphs (4) and (5), for “fire authority”, substitute “fire and rescue authority”.
+
+**75.** In rule L1(authorities responsible for payment of awards)[^f00029]—
+
+- (a) in paragraph (1)—
+  - (i) for “fire authority”, substitute “fire and rescue authority”; and
+  - (ii) at the end, insert “or, where his employment ceased before 10 November 2004, by the fire and rescue authority which inherited the liabilities of the fire authority which last employed him”;
+- (b) in paragraph (2)—
+  - (i) for “as a member of a brigade”, substitute “by a fire and rescue authority”; and
+  - (ii) for “the fire authority”, substitute “the authority”;
+- (c) in paragraph (3), for “fire authority”, substitute “fire and rescue authority”; and
+- (d) for paragraph (4), substitute—
+
+  > (4) In this Scheme “the relevant fire and rescue authority”, in relation to a pension credit member, means—
+  >
+  > - (a) the fire and rescue authority who employ the pension debit member from whose rights the pension credit member’s pension credit is derived at the time when the pension sharing order takes effect, or
+  > - (b) if he is not then employed by a fire and rescue authority, the fire and rescue authority by whom he was last employed or, where his employment ceased before 10 November 2004, by the fire and rescue authority which inherited the liabilities of the fire authority which last employed him.
+  >
+  > (5) Subject to paragraph (6), an award payable in respect of a qualifying injury sustained by a person who is employed as both a regular firefighter and a retained firefighter shall be paid—
+  >
+  > - (a) where the injury was sustained in the course of his regular employment, by the fire and rescue authority which employs him as a regular firefighter;
+  > - (b) where the injury was sustained in the course of his retained employment, by the fire and rescue authority which employs him as a retained firefighter;
+  > - (c) where the injury is of such a nature that it cannot be attributed solely to either his regular employment or his retained employment—
+  >   - (i) by such one of his employing authorities as may be agreed; or
+  >   - (ii) by both of them, in such proportion as may be agreed; or
+  >   - (iii) in default of agreement, in equal proportions.
+  >
+  > (6) An award payable to a person in respect of both a qualifying injury sustained in the course of his regular employment and a different qualifying injury sustained in the course of his retained employment, shall be paid—
+  >
+  > - (a) by such one of his employing authorities as may be agreed; or
+  > - (b) by both of them, in such proportion as may be agreed; or
+  > - (c) in default of agreement, in equal proportions.
+
+  .
+
+**76.** For rule L2 (expenses and receipts of fire authorities) substitute—
+
+> **L2. Expenses and receipts of fire and rescue authorities**
+>
+> Each fire and rescue authority shall maintain an account showing all sums received or paid by them under or for the purposes of this Scheme, or in consequence of rights acquired and obligations incurred by them under this Scheme, the 1973 Scheme or previous Firemen’s Pension Schemes.
+
+.
+
+**77.** In rule L3 (payment of awards)—
+
+- (a) in paragraph (1)—
+  - (i) for “fire authority”, in the first place those words appear, substitute “fire and rescue authority”; and
+  - (ii) for “the fire authority”, in the second place those words appear, substitute “the authority”; and
+- (b) in paragraphs (7), (8) and (9), for “fire authority”, substitute “fire and rescue authority”.
+
+**78.** In rule L4 (prevention of duplication)[^f00030]—
+
+- (a) omit paragraph (2)(c);
+- (b) in paragraph (3), after “paragraph (4)”, insert “and rule L4B”;
+- (c) in paragraph (4)—
+  - (i) for “service as a member of a brigade”, substitute “employment with a fire and rescue authority”
+  - (ii) for “such a member”, substitute “an employee of a fire and rescue authority”; and
+  - (iii) for “served as members of a brigade”, substitute “were employed by a fire and rescue authority”; and
+- (d) after paragraph (4), insert—
+
+  > (5) Where—
+  >
+  > - (a) a person who is employed as a retained firefighter by more than one fire and rescue authority sustains a qualifying injury; and
+  > - (b) it cannot be established that the injury is attributable to only one of those employments,
+  >
+  > a single award shall be paid under rule J4; and the award shall be payable by the fire and rescue authorities by whom the person is so employed in such proportion as may be agreed or, in default of agreement, in equal shares.”.
+  >
+  > **79.** After rule L4, insert—
+  >
+  > > **L4A. Prevention of duplication: other injury awards for persons who are both regular and retained firefighters**
+  > >
+  > > (1) This rule applies in relation to a person employed as both a regular firefighter and a retained firefighter who is entitled to both—
+  > >
+  > > - (a) an ill-health award under rule B3, an injury award under rule B4, or awards under both those rules, from the fire and rescue authority which employs him as a regular firefighter; and
+  > > - (b) an ill-health and injury award under rules B3 and B4, as they have effect as mentioned in rule J4(2) (“the rule J4 award”), from the fire and rescue authority which employs him as a retained firefighter.
+  > >
+  > > (2) The fire and rescue authority which employs the person as a regular firefighter shall pay the award under rule B3 in full and, subject to paragraph (3), the authority which employs him as a retained firefighter shall pay only the injury element of the rule J4 award.
+  > >
+  > > (3) Where the amount awarded under rule B3 is less than the amount which, but for paragraph (2), would have been paid to the person as the ill-health element of the rule J4 award, the fire and rescue authority which employs him as a retained firefighter shall pay him an amount equal to the amount of the difference.
+  > >
+  > > (4) A firefighter who is entitled to both an award under rule B4 and the rule J4 onward, shall receive a single award of an amount equal to the greater of the award under rule B4 and the rule J4 award; and rule L1(6) shall apply in respect of the payment of that single award.
+  >
+  > .
+  >
+  > **L4B. Prevention of duplication: other awards for spouses or children of persons who are both regular and retained firefighters**
+  >
+  > (1) This rule applies where—
+  >
+  > - (a) a person employed as both a regular firefighter and a retained firefighter dies (whether during or after such employment); and
+  > - (b) a qualifying injury sustained in the course of such employment is certified by an independent qualified medical practitioner as the cause of death; and
+  > - (c) in consequence of the person’s death, another person becomes entitled not only to an award of a description mentioned in paragraph (2), but also to an award of a description mentioned in paragraph (3).
+  >
+  > (2) The descriptions mentioned in this paragraph are—
+  >
+  > - (a) a spouse’s ordinary pension under rule C1,
+  > - (b) a spouse’s accrued pension under rule C4,
+  > - (c) a spouse’s requisite benefit and temporary pension under rule C6,
+  > - (d) a spouse’s award under rule C7 (award where no other award is payable),
+  > - (e) a child’s ordinary allowance under rule D1, and
+  > - (f) a child’s accrued allowance under rule D4.
+  >
+  > (3) The descriptions mentioned in this paragraph are—
+  >
+  > - (a) a spouse’s special award under rule C2 (whether or not by virtue of rule J4(4)),
+  > - (b) a spouse’s augmented award under rule C3 (whether or not by virtue of rule J4(4)),
+  > - (c) a child’s special allowance under rule D2 (whether or not by virtue of rule J4(5)), and
+  > - (d) a child’s special gratuity under rule D3 (whether or not by virtue of rule J4(5)).
+  >
+  > (4) The award of the description in paragraph (2) shall be paid in full, and the award of the description in paragraph (3) shall not be paid.
+  >
+  > (5) Where the amount of the award paid to a person in accordance with paragraph (4) is less than the amount which, but for that paragraph, would have been paid to him by way of an award of a description in paragraph (3), the fire and rescue authority which employed the deceased as a retained firefighter shall pay an amount equal to the amount of the difference.
+
+  .
+
+**80.** In rule L5 (payments of awards— supplementary)—
+
+- (a) in paragraphs (1) to (3), (6) and (9), for “fire authority”, substitute “fire and rescue authority”; and
+- (b) in paragraph (8)(b), for “a member of a brigade”, substitute “an employee of a fire and rescue authority”.
+
+**81.** In Schedule 1 (interpretation), in Part I(glossary of expressions)[^f00031]—
+
+- (a) insert, after the entry for the expression “eligible person”—
+  - (i) in the first column “fire and rescue authority”, and
+  - (ii) in the second column, “A fire and rescue authority under the Fire and Rescue Services Act 2004[^f00032]”;
+- (b) in the entry for the expression “Independent qualified medical practitioner”, for the words in the second column, substitute—
+
+  > - A medical practitioner holding a diploma in occupational medicine or an equivalent or higher qualification issued by a competent authority in an EEA State, or being an Associate, a Member or a Fellow of the Faculty of Occupational Medicine[^f00033] or an equivalent institution of an EEA State; and for the purposes of this definition “a competent authority” has the meaning given by the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^f00034].
+
+  ;
+- (c) after the entry for the expression “Normal benefit age”, insert—
+  - (i) in the first column, “Normal pension age”; and
+  - (ii) in the second column, “Construe in accordance with rule A13”;
+- (d) omit the entry (both columns) for the expression “Rank”;
+- (e) in the entry for the expression of “Regular firefighter”, in the second column—
+  - (i) after “after 13 September 2004”, insert “and before 10 November 2004”; and
+  - (ii) at the end insert—
+
+    > In relation to any time on or after 10 November 2004, the expression means a person who is employed—
+    >
+    > - (a) by a fire and rescue authority as a firefighter (whether whole-time or part-time), other than as a retained or volunteer firefighter, and
+    > - (b) on terms under which he is, or may be, required to engage in fire-fighting or, without a break in continuity of such employment, may be required to perform other duties appropriate to his role as a firefighter (whether instead of, or in addition to, engaging in fire-fighting) and whose employment is not temporary.
+
+    ;
+- (f) after the entry for the expression “Regular firefighter”, insert—
+  - (i) in the first column, “Relevant fire and rescue authority”; and
+  - (ii) in the second column, “Construe in accordance with rule L1(4)”;
+- (g) omit the entry (both columns) for the expression “Relevant fire authority”;
+- (h) for the entry for the expression “Retained member of a brigade”, substitute—
+  - (i) in the first column,
+
+    > - “Retained member”
+
+    ; and
+  - (ii) in the second column,
+
+    > - A member of the fire and rescue service who is obliged to attend—
+    >   - (a) at the station to which he is attached for training, development and maintenance duties for an average of 2 hours each week and, promptly, at any time, in response to a call; and
+    >   - (b) at any incident or other occurrence, or at any other station for standby duties during the employee’s period of availability.
+
+    ;
+- (i) omit the entry (both columns) for the expression “Retirement date”; and
+- (j) in the entry for the expression “Volunteer member of a brigade”—
+  - (i) in the first column, for “of a brigade”, substitute “of the fire and rescue service”;
+  - (ii) in the second column—
+    - (aa) for “of a brigade”, in the first place where those words appear, substitute “of the fire and rescue service”; and
+    - (bb) omit “of a brigade”in the second place where those words appear.
+
+**82.** In Schedule 2 (personal awards)—
+
+- (a) in Part III (ill-health pension), in paragraph 5(1)(a), for “could be required to retire on account of age”, substitute “reached normal pension age”;
+- (b) in Part V (injury awards), for paragraph 2, substitute—
+
+  > **2.** (1) The amount of a person’s pension under rule J4 shall be reduced by three quarters of the amount of any other pension referable to his service as a firefighter (including, if rule L4A applies in his case, the aggregate of the pension to which he is entitled under rule B3 and the amount of the difference referred to in rule L4A(3)).
+  >
+  > (2) The amount of a person’s injury pension calculated in accordance with paragraph 1 shall be reduced by three quarters of the amount of any other pension calculated by reference to pensionable service reckonable by virtue of the period of service during which he received the qualifying injury or, where an election under rule G3 had effect or the person failed to make an election under rule G2A, by the amount of any other pension which would otherwise have been so calculated.
+  >
+  > (3) For the purposes of sub-paragraphs (1) and (2), any reduction of the other pension—
+  >
+  > - (a) under rule B7 (commutation) or B9 (allocation),
+  > - (b) under Part VIII of this Schedule, or
+  > - (c) by virtue of a pension debit,
+  >
+  > shall be disregarded.
+
+  ;
+- (c) in Part VI (deferred pension), in paragraph 2(3)—
+  - (i) omit “he could”;
+  - (ii) at the beginning of sub-paragraph (a), insert “he could”; and
+  - (iii) for sub-paragraph (b), substitute “(b) he reached normal pension age”;
+- (d) in Part VIA (calculation of awards for part-time service), in paragraph 2, for “member of a brigade”(in each place), substitute “employee of a fire and rescue authority”; and
+- (e) in Part VII (reduction of pension at state pensionable age), in paragraph 2(4), for “fire authority”, substitute “fire and rescue authority”.
+
+**83.** In Schedule 3 (awards on death— spouses)—
+
+- (a) in Part II (spouse’s special pension), in paragraph 2(2), for “member of a brigade”, substitute “employee of a fire and rescue authority”;
+- (b) for Part IV (pension for widow of post-retirement marriage), substitute—
+
+  > **PART IV — PENSION FOR SURVIVING SPOUSE OF POST-RETIREMENT MARRIAGE**
+  >
+  > **1.** (1) Where the surviving spouse would otherwise have been entitled to an ordinary pension under rule C1, a special award under rule C2 or an augmented award under rule C3, the amount of his pension under rule C5 shall, subject to sub-paragraph (2), be calculated in accordance with paragraph 1 of Part I of this Schedule in the same way as that of an ordinary pension.
+  >
+  > (2) For the purposes of this paragraph, paragraph 1 of Part I has effect—
+  >
+  > - (a) as if the reference in sub-paragraph (1)(a) to the base pension were a reference to the appropriate proportion of the base pension, and
+  > - (b) where the surviving spouse would otherwise have been entitled to a special award under rule C2 or an augmented award under rule C3, as if the base pension were the ill-health pension to which the deceased would have been entitled if he had, when he ceased to serve, retired because he was disabled in circumstances entitling him to such a pension.
+  >
+  > **2.** (1) Where the surviving spouse would otherwise have been entitled to an accrued pension under rule C4, the amount of his pension under rule C5 shall, subject to sub-paragraph (2), be calculated in accordance with Part III of this Schedule in the same way as that of an accrued pension.
+  >
+  > (2) For the purposes of this paragraph, paragraph 2 of Part III has effect as if references to the deceased’s deferred pension were references to the greater of—
+  >
+  > - (a) the appropriate proportion of the deferred pension, and
+  > - (b) subject to sub-paragraph (3), 1/160th of the deceased’s average pensionable pay multiplied by the period in years of so much of his pensionable service as is reckonable by virtue of service or employment after 5 April 1978 (“relevant pensionable service”).
+  >
+  > (3) Where some or all of the deceased’s service, which is reckonable as pensionable service, was part-time service, the amount at sub-paragraph (2)(b) shall be calculated using the formula in paragraph 2 of Part VIA of Schedule 2.
+  >
+  > (4) In making the calculation mentioned in sub-paragraph (3)—
+  >
+  > - (a) for the value of A there shall be substituted “A is the amount calculated under paragraph 2(2)(b) of Part IV of Schedule 3 if the average pensionable pay was the pay the deceased would have received had he been a whole-time employee of a fire and rescue authority”; and
+  > - (b) in relation to B, C and D only pensionable service after 5 April 1978 shall be counted.
+  >
+  > **3.** The appropriate proportion mentioned in paragraphs 1 and 2 is the proportion which the deceased’s relevant pensionable service bears to his total pensionable service.
+
+  ; and
+- (c) in Part V (spouse’s requisite benefit pension), in paragraph 3, for “member of a brigade”, substitute “employee of a fire and rescue authority”.
+
+**84.** In Schedule 4 (awards on death— children), in Part II (child’s special allowance), in paragraph 4(2), for “member of a brigade”, substitute “employee of a fire and rescue authority”.
+
+**85.** In Schedule 5 (awards on death— additional provisions)—
+
+- (a) in Part I (adult dependent relative’s special pension)—
+  - (i) in paragraph 2(2), for “widow's”, substitute “surviving spouse's”; and
+  - (ii) in paragraph 3(2)[^f00035], for “member of a brigade”, substitute “employee of a fire and rescue authority”;
+- (b) omit Part II (gratuity in lieu of surviving spouse’s pension); and
+- (c) in Part III (gratuity in lieu of child’s allowance), in paragraph 1, for “fire authority”, substitute “fire and rescue authority”.
+
+**86.** In Schedule 6 (pensionable service and transfer values)—
+
+- (a) in Part 1 (payments in respect of previous service)—
+  - (i) in paragraph 1(1)—
+    - (aa) for “could be required to retire on grounds of age”, substitute “reaches normal pension age”; and
+    - (bb) for “fire authority”, substitute “fire and rescue authority”;
+  - (ii) in paragraph 1(2), for “fire authority”, substitute “fire and rescue authority”;
+  - (iii) in paragraph 1(4), for “fire authority”, substitute “fire and rescue authority”; and
+  - (iv) in paragraph 2(1), in the definition of “A”—
+    - (aa) for “member of a brigade”, substitute “employee of a fire and rescue authority”; and
+    - (bb) for “whole-time member”, substitute “whole-time employee”; and
+- (b) in Part II (service reckonable on receipt of transfer value) and—
+  - (i) in paragraph 1(1), for “fire authority”, substitute “fire and rescue authority”; and
+  - (ii) in paragraph 4(a)[^f00036]—
+    - (aa) for “average pensionable pay”, substitute “annual pensionable pay”; and
+    - (bb) for “member of a brigade”(in both places), substitute “employee of a fire and rescue authority”;
+- (c) in Part III (transfer payments between fire authorities), in paragraphs 2, 4(1), 5(b) and 6, after “brigade”, insert “or fire and rescue authority (as the case may be)”.
+
+**87.** In Schedule 8 (purchase of increased benefits)—
+
+- (a) in Part I (payments)—
+  - (i) in paragraph 1(1), in the definition of B, for “on his retirement date”, substitute “, subject to sub-paragraph (2)(c), his normal pension age”;
+  - (ii) in paragraph 1(2), at the end of paragraph (b), insert
+
+    > ; and
+    >
+    > - (c) if he has the role of Station Manager B or a superior role, the definition of B shall have effect as if his normal pension age were 60
+
+    ;
+  - (iii) in paragraph 3(1), in the definition of C, for “on his retirement date”, substitute “, subject to sub-paragraph (2)(c), his normal pension age”;
+  - (iv) in paragraph 3(2), at the end of paragraph (b), insert
+
+    > ; and
+    >
+    > - (c) if he has the role of Station Manager B or a superior role, the definition of C shall have effect as if his normal pension age were 60
+
+    ; and
+- (v) in paragraph 5—
+  - (aa) in the second column of the Table, for “Age on retirement date 60 or over”, substitute “Station Manager B or superior role”; and
+  - (bb) in the third column of the Table for “Under 60”, substitute “Roles below Station Manager B”;
+- (b) in Part II (calculation of appropriate amount)—
+  - (i) in paragraph 1, in the definition of C, for “retirement date within the meaning of rule G5(3)”, substitute “normal pension age”; and
+  - (ii) in paragraphs 2 and 3, for “retirement date”, substitute “normal pension age”; and
+- (c) in Part III (increases by reference to appropriate amount), in paragraph 2(2)(c), for “widow”, substitute “surviving spouse”.
+
+**88.** In Schedule 9 (appeals)[^f00037]—
+
+- (a) in Part I (appeal to board of medical referees)—
+  - (i) for “fire authority”(in each place), substitute “fire and rescue authority”; and
+  - (ii) for “fire authority's”, substitute “fire and rescue authority's”; and
+  - (iii) for “Secretary of State”(in each place), substitute “National Assembly for Wales”; and
+- (b) in Part II (appeal tribunals)—
+  - (i) in paragraph 1, after “divisional officer (Grade 1), insert “or a retired employee of a fire and rescue authority, other than the authority by whom the appellant is or was employed, who immediately before his retirement had a role not lower than Area Manager A.”; and
+  - (ii) in paragraph 2(1)(b), for “Secretary of State”, substitute “National Assembly for Wales”.
+
+**89.** In Schedule 11 (special cases), in Part IV (modification for persons serving on 10 July 1956)—
+
+- (a) in paragraph 9(a) for “widow”, substitute “surviving spouse”; and
+- (b) in paragraph 19, in paragraph 3 (Scheme II) of the substituted Part I of Schedule 3, for “widow's”, substitute “surviving spouse's”.
+
+## Annotations
+
+[^f00009]: Footnote: Rule A3 was amended by [S.I. 2001/3691](https://www.legislation.gov.uk/uksi/2001/3691).
+
+[^f00010]: Footnote: [1959 c. 44](https://www.legislation.gov.uk/ukpga/1959/44).
+
+[^f00011]: Footnote: Paragraph (1A) was inserted by [S.I. 2004/1912](https://www.legislation.gov.uk/uksi/2004/1912).
+
+[^f00012]: Footnote: Rule A15 was amended by [S.I. 1997/2309](https://www.legislation.gov.uk/uksi/1997/2309).
+
+[^f00013]: Footnote: Rule B8(1) was amended by [S.I. 2001/3691](https://www.legislation.gov.uk/uksi/2001/3691).
+
+[^f00014]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
+
+[^f00015]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Section 12C was inserted by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), section 136(5).
+
+[^f00016]: Footnote: Rule F1 was amended by [S.I. 1997/2851](https://www.legislation.gov.uk/uksi/1997/2851).
+
+[^f00017]: Footnote: Rule F2A was inserted by [S.I. 2004/1912](https://www.legislation.gov.uk/uksi/2004/1912).
+
+[^f00018]: Footnote: Rule F6A was inserted by [S.I. 1997/2851](https://www.legislation.gov.uk/uksi/1997/2851).
+
+[^f00019]: Footnote: Rule F6B was inserted by [S.I. 1997/2851](https://www.legislation.gov.uk/uksi/1997/2851).
+
+[^f00020]: Footnote: Rule F7 was amended by [S.I. 2001/3691](https://www.legislation.gov.uk/uksi/2001/3691).
+
+[^f00021]: Footnote: Rule F8 was amended by [S.I. 2001/3691](https://www.legislation.gov.uk/uksi/2001/3691).
+
+[^f00022]: Footnote: Rule F9 was amended by [S.I. 2001/3691](https://www.legislation.gov.uk/uksi/2001/3691).
+
+[^f00023]: Footnote: Rule G2A was inserted by [S.I. 2004/1912](https://www.legislation.gov.uk/uksi/2004/1912).
+
+[^f00024]: Footnote: Rule G6 was amended by [S.I. 2001/3691](https://www.legislation.gov.uk/uksi/2001/3691).
+
+[^f00025]: Footnote: Paragraph (2A) was inserted by [S.I. 2004/1912](https://www.legislation.gov.uk/uksi/2004/1912).
+
+[^f00026]: Footnote: Rule H2 was amended by [S.I. 1997/2309](https://www.legislation.gov.uk/uksi/1997/2309).
+
+[^f00027]: Footnote: Rule IA2 was inserted by [S.I. 2001/3691](https://www.legislation.gov.uk/uksi/2001/3691).
+
+[^f00028]: Footnote: Rule J3 was amended by [S.I. 2004/1912](https://www.legislation.gov.uk/uksi/2004/1912).
+
+[^f00029]: Footnote: Rule L1 was amended by [S.I. 2001/3691](https://www.legislation.gov.uk/uksi/2001/3691).
+
+[^f00030]: Footnote: Rule L4 was amended by [S.I. 2001/3691](https://www.legislation.gov.uk/uksi/2001/3691).
+
+[^f00031]: Footnote: Part 1 of Schedule 1 was amended by [S.I. 2001/3691](https://www.legislation.gov.uk/uksi/2001/3691).
+
+[^f00032]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
+
+[^f00033]: Footnote: The Faculty of Occupational Medicine is a registered charity no. 1035415.
+
+[^f00034]: Footnote: [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250), amended by [S.I. 2004/1947](https://www.legislation.gov.uk/uksi/2004/1947).
+
+[^f00035]: Footnote: Paragraph 3(2) was inserted by [S.I. 2004/1912](https://www.legislation.gov.uk/uksi/2004/1912), paragraph 39.
+
+[^f00036]: Footnote: Paragraph 4 was inserted by [S.I. 2004/1912](https://www.legislation.gov.uk/uksi/2004/1912), paragraph 41.
+
+[^f00037]: Footnote: Schedule 9 was amended by [S.I. 1997/2309](https://www.legislation.gov.uk/uksi/1997/2309).

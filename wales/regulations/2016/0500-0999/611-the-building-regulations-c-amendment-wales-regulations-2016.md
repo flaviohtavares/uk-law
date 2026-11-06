@@ -1,0 +1,214 @@
+---
+title: The Building Regulations &c. (Amendment) (Wales) Regulations 2016
+id: wsi/2016/611
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-05-25'
+text_date: '2025-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2016/611
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2016/611/pdfs/wsi_20160611_mi.pdf
+- http://www.legislation.gov.uk/wsi/2016/611/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Regulations &c. (Amendment) (Wales) Regulations 2016
+
+> Text as at 2025-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 611 (W. 168)
+
+Building And Buildings, Wales
+
+The Building Regulations &c. (Amendment) (Wales) Regulations 2016
+
+Made
+
+25 May 2016
+
+Laid before the National Assembly for Walest
+
+27 May 2016
+
+Coming into force
+
+17 June 2016
+
+The Welsh Ministers are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the design and construction of buildings, and in relation to services, fittings and equipment provided in or in connection with those buildings.
+
+The Welsh Ministers, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972 and by sections 1, 34, 35 and 47 of, and paragraphs 1, 2, 4, 4A, 7 and 10 of Schedule 1 to, the Building Act 1984[^f00003], now exercisable by them[^f00004], having consulted the Building Regulations Advisory Committee for Wales and such other bodies as appear to them to be representative of the interests concerned in accordance with section 14(7) of the Building Act 1984[^f00005], make the following Regulations.
+
+## 1. Title, application and commencement[^key-de9162f782b0f13726a729869fe0b339]
+
+(1) The title of these Regulations is the Building Regulations &c. (Amendment) (Wales) Regulations 2016.
+
+(2) These Regulations apply in relation to Wales.
+
+(3) These Regulations do not apply to an “excepted energy building”, and “excepted energy building” has the same meaning as in the Schedule to the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009[^f00006].
+
+(4) These Regulations come into force on 17 June 2016.
+
+## 2. Amendments to the Building Regulations 2010[^key-1959db1ff8b13cfb6910ad6a97847b23]
+
+(1) The Building Regulations 2010[^f00007] are amended in accordance with the following paragraphs.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) in the definition “energy efficiency requirements” omit “29 and”; and
+- (b) omit the definition “energy performance certificate”.
+
+(3) In regulation 10(2) (exemption of the Metropolitan Police Authority from procedural requirements) omit “, other than regulation 29,”.
+
+(4) In regulation 11(3) (power to dispense with or relax requirements) omit “, 29 (with the exception of paragraphs 4(e), 9A, 10, 11 and 12), 29A”.
+
+(5) In regulation 17(2A) (completion certificates)—
+
+- (a) for subparagraph (c) substitute—
+
+  > - (c) regulation 26A (primary energy consumption rates for new buildings),
+  > - (ca) regulation 26B (fabric performance values for new dwellings),
+
+  ;
+- (b) at the end of subparagraph (e) omit “and”; and
+- (c) at the end of subparagraph (f) for “.” substitute—
+
+  > ,
+  >
+  > - (g) regulation 7A (energy performance certificates on construction) of the Energy Performance of Buildings (England and Wales) Regulations 2012[^f00008]
+
+  .
+
+(6) In regulation 19(1) (supervision of building work otherwise than by local authorities) omit “29 (energy performance certificates),”.
+
+(7) In regulation 24(2) (methodology of calculation and expression of energy performance)—
+
+- (a) in the definition “asset rating” for “a numerical indicator of” substitute “an energy performance indicator determined from”; and
+- (b) for the definition “operational rating” substitute—
+
+  > - “operational rating” means an energy performance indicator determined from the amount of energy consumed during the occupation of a building over a period of time and the energy demand associated with a typical use of the building over that period.
+
+(8) In regulation 25 (minimum energy performance requirements for new buildings) for “set” substitute “calculated and expressed”.
+
+(9) In regulation 25C (new buildings: minimum energy performance requirements)—
+
+- (a) for “may” substitute “must”; and
+- (b) after “Welsh Ministers,” insert “calculated and expressed”.
+
+(10) In regulation 26 (CO2 emission rates for new buildings) after “25” insert “, applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24”.
+
+(11) In regulation 26A (primary energy consumption rates for new buildings) after “25C(a)” insert “, applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24”.
+
+(12) In regulation 26B (fabric performance values for new dwellings) after “25C(b)” insert “, applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24”.
+
+(13) In regulation 27 (CO2 emission rate calculations)—
+
+- (a) in paragraph (2)(a) after “building” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (b) in paragraph (2)(b) omit “calculated”, and after “designed” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (c) in paragraph (3)(a)(i) after “building” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (d) in paragraph (3)(a)(ii) omit “calculated”, and after “constructed” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”; and
+- (e) in paragraph (4) for “such certificates” substitute “energy performance certificates”.
+
+(14) In regulation 27A (primary energy consumption rate calculations)—
+
+- (a) in paragraph (2)(a) after “building” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (b) in paragraph (2)(b) omit “calculated”, and after “designed” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (c) in paragraph (3)(a)(i) after “building” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (d) in paragraph (3)(a)(ii) omit “calculated”, and after “constructed” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”; and
+- (e) in paragraph (4) for “such certificates” substitute “energy performance certificates”.
+
+(15) In regulation 27B (fabric performance values calculations)—
+
+- (a) in paragraph (2)(a) after “dwelling” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (b) in paragraph (2)(b) omit “calculated”, and after “designed” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (c) in paragraph (3)(a)(i) after “dwelling” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (d) in paragraph (3)(a)(ii) omit “calculated”, and after “constructed” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”; and
+- (e) in paragraph (4) for “such certificates” substitute “energy performance certificates”.
+
+(16) Omit regulation 29 (energy performance certificates) and Schedule 4A (Green Deal information).
+
+(17) Omit regulations 29A to 33.
+
+(18) In regulation 34(1) (application of building regulations to educational buildings, buildings of statutory undertakers and Crown Buildings) omit “, 29 (apart from regulations 29(4)(e), 29(9A), 29(10), 29(11) and 29(12)), 29A”.
+
+(19) In regulation 35 (interpretation of Part 6)—
+
+- (a) in paragraph (1)—
+  - (i) in the definition “energy assessor” for “regulation 30” substitute “regulation 22 (accreditation schemes) of the Energy Performance of Buildings (England and Wales) Regulations 2012”;
+  - (ii) after that definition insert the following definitions—
+
+    > - “energy performance certificate” means a certificate which complies with the requirements of regulation 9 (energy performance certificates) or 9A (energy performance certificates in respect of excluded buildings) of the Energy Performance of Buildings (England and Wales) Regulations 2012;
+    > - “energy performance of a building” means the calculated or measured amount of energy needed to meet the energy demand associated with a typical use of the building, which includes, inter alia, energy used for heating, cooling, ventilation, hot water and lighting;
+
+    ; and
+- (b) omit paragraph (2).
+
+(20) In regulation 47 (contravention of certain regulations not to be an offence) omit “29,”.
+
+(21) In regulation 48(1) (electronic service of documents) omit subparagraphs (i) and (j).
+
+(22) In Schedule 3 (self-certification schemes and exemptions from requirement to give building notice or deposit full plans), in column 2 of items 8 and 10 omit “BSI Assurance UK Limited,”.
+
+## 3. Amendments to the Building (Approved Inspectors etc.) Regulations 2010[^key-9707d8896ac5858d3677f9a8ae3d6cca]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Lesley Griffiths
+
+Cabinet Secretary for Environment and Rural Affairs, one of the Welsh Ministers
+
+25 May 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Building Regulations 2010 (“the Building Regulations”) and the Building (Approved Inspectors etc.) Regulations 2010 (“the Approved Inspectors Regulations”).
+
+Regulation 2 amends the Building Regulations.
+
+Regulation 2(2), (3), (4), (5)(b) and (c), (6), (13)(e), (14)(e), (15)(e), (16) to (18), (19)(a)(i) and (a)(ii), first definition, (19)(b), (20) and (21), revoke requirements relating to the provision of energy performance certificates for new and certain converted buildings. Those requirements have been consolidated in amendments made to the Energy Performance of Buildings (England and Wales) Regulations 2012 by the Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016.
+
+Regulation 2(5)(a), (7) to (12), (13)(a) to (d), (14)(a) to (d), (15)(a) to (d) and (19)(a)(ii), second definition, amend and supplement the implementation of Articles 3 (adoption of a methodology for calculating the energy performance of buildings) and 4 (setting of minimum energy performance requirements) of [Directive 2010/31/EU](https://www.legislation.gov.uk/european/directive/2010/0031) of the European Parliament and of the Council on the energy performance of buildings (recast) (OJ No L 153, 18.6.2010, p. 13).
+
+Regulation 2(7) and (19)(a)(ii), second definition, amend and supplement definitions relating to the energy performance of buildings. Regulation 2(5)(a) corrects an omission concerning certification of compliance with the Building Regulations.
+
+Regulation 2(8) to (12), (13)(a) to (d), (14)(a) to (d) and 15(a) to (d) clarify that methodologies approved pursuant to regulation 24 of the Building Regulations must be used in determining the energy performance of buildings under the various provisions in the Building Regulations.
+
+Regulation 2(22) updates the list in Schedule 3 to the Building Regulations of persons authorised to issue certificates of compliance with the requirements of those Regulations for their own work.
+
+Regulation 3 amends the Approved Inspectors Regulations. It makes provision consequential on the revocation in regulation 2 of requirements relating to the provision of energy performance certificates for new and certain converted buildings and their consolidation in the Energy Performance of Buildings (England and Wales) Regulations 2012.
+
+No impact assessment has been produced for these Regulations as no impact, or minimal impact, on the public, private, or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2016/161](https://www.legislation.gov.uk/uksi/2016/161).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3 of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00003]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Section 1 was amended by section 1 of the Sustainable and Secure Buildings Act [2004 (c. 22)](https://www.legislation.gov.uk/ukpga/2004/22) (the “2004 Act”). Section 47(1) was amended by article 3 of [S.I. 1996/1905](https://www.legislation.gov.uk/uksi/1996/1905) and section 8 of the 2004 Act. In Schedule 1, paragraph 4A was inserted by section 8 of and paragraph 7 was amended by section 3 of the 2004 Act. There are other amendments to paragraph 7 that are not relevant to this instrument.
+
+[^f00004]: Footnote: The functions conferred on the Secretary of State by sections 1, 34, 35 and 47(1) of, and paragraphs 1, 2, 4, 4A, 7 and 10 of Schedule 1 to, the Building Act 1984 were, insofar as exercisable in relation to Wales, transferred to the Welsh Ministers by the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009 ([S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019)), subject to articles 3 and 4 of that Order.
+
+[^f00005]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Section 14(7) was inserted by article 8(5) of the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009 ([S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019)).
+
+[^key-de9162f782b0f13726a729869fe0b339]: Commencement: Reg. 1 in force at 17.6.2016, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/611/regulation/1/4)
+
+[^f00006]: Footnote: [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
+
+[^key-1959db1ff8b13cfb6910ad6a97847b23]: Commencement: Reg. 2 in force at 17.6.2016, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/611/regulation/1/4)
+
+[^f00007]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), relevant amending instruments are [S.I. 2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747), [S.I. 2013/2621 (W. 258)](https://www.legislation.gov.uk/wsi/2013/2621), [S.I. 2014/110 (W. 10)](https://www.legislation.gov.uk/wsi/2014/110), [S.I. 2015/1486 (W. 165)](https://www.legislation.gov.uk/wsi/2015/1486) and [S.I. 2016/361 (W. 113)](https://www.legislation.gov.uk/wsi/2016/361). There are other amending instruments that are not relevant to this instrument.
+
+[^f00008]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118), as amended by [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10); [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181); [S.I. 2013/603](https://www.legislation.gov.uk/uksi/2013/603); [S.I. 2014/880](https://www.legislation.gov.uk/uksi/2014/880); [S.I. 2015/609](https://www.legislation.gov.uk/uksi/2015/609); [S.I. 2015/1681](https://www.legislation.gov.uk/uksi/2015/1681) and [S.I. 2016/284](https://www.legislation.gov.uk/uksi/2016/284).
+
+[^key-9707d8896ac5858d3677f9a8ae3d6cca]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/611/regulation/3) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(d)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/d)

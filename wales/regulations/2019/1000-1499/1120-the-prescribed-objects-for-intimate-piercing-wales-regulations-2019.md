@@ -1,0 +1,78 @@
+---
+title: The Prescribed Objects for Intimate Piercing (Wales) Regulations 2019
+id: wsi/2019/1120
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-07-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2019/1120
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2019/1120/pdfs/wsi_20191120_mi.pdf
+- http://www.legislation.gov.uk/wsi/2019/1120/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Prescribed Objects for Intimate Piercing (Wales) Regulations 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 1120 (W. 194)
+
+Public Health, Wales
+
+The Prescribed Objects for Intimate Piercing (Wales) Regulations 2019
+
+Made
+
+11 July 2019
+
+Coming into force
+
+1 August 2019
+
+The Welsh Ministers, in exercise of the powers conferred by sections 94(1) and 123(1) of the Public Health (Wales) Act 2017[^f00001], make the following Regulations.
+
+In accordance with section 123(2)(b) of that Act, a draft of these Regulations has been laid before, and approved by resolution of, the National Assembly for Wales.
+
+## 1. Title and commencement
+
+(1) The title of these Regulations is the Prescribed Objects for Intimate Piercing (Wales) Regulations 2019.
+
+(2) These Regulations come into force on 1 August 2019.
+
+## 2. Prescribed objects for the purposes of the offence of performing or making arrangements to perform an intimate piercing on a child
+
+Any object that is not jewellery is prescribed for the purposes of paragraph (b) in the definition of “body piercing” in section 94(1) of the Public Health (Wales) Act 2017, but only insofar as that definition applies for the purposes of the offence in section 95 of that Act (offence of performing or making arrangements to perform an intimate piercing on a child).
+
+Vaughan Gething
+
+Minister for Health and Social Services, one of the Welsh Ministers
+
+11 July 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Part 5 of the Public Health (Wales) Act 2017 (“the Act”) makes it an offence for a person in Wales to perform an intimate piercing on a person under the age of 18. It also makes it an offence for a person in Wales to make arrangements to perform an intimate piercing, in Wales, on a person under the age of 18. A person convicted of either offence is liable on summary conviction to an unlimited fine.
+
+An intimate piercing is a body piercing performed on an intimate body part where performed otherwise than in the course of a medical procedure.
+
+The intimate body parts are listed in section 96(2) of the Act and include the breast (including the nipple and areola), buttock, penis, vulva and tongue.
+
+The definition of “body piercing” is provided in section 94(1) of the Act and means the perforation (including puncture or incision) of an individual’s skin or mucous membrane, with a view to enabling jewellery or another object of a description prescribed in or under regulations to be attached to, implanted in, or removed from the individual’s body. Mucous membranes are included in the definition as the surface of some intimate body parts, such as the vulva, may comprise skin and mucous membranes.
+
+Regulation 2 of these Regulations prescribes any object that is not jewellery as an object for the purposes of paragraph (b) in the definition of “body piercing” in section 94(1) but only insofar as that definition applies for the purposes of the offence in section 95 of the Act (offence of performing or making arrangements to perform an intimate piercing on a person under the age of 18).
+
+This brings within the scope of the offence in Part 5 of the Act the perforation of a child’s skin or mucous membrane in an intimate area, with a view to enabling any object that is not jewellery (for example dermal and micro-dermal anchors, ribs, rods, safety pins, skin divers, padlocks) to be attached to, implanted in, or removed from the child’s body.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations in Wales. A copy can be obtained from the Population Health Directorate, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2017 anaw 2](https://www.legislation.gov.uk/anaw/2017/2). See section 124(1) of that Act for the definition of “regulations”.

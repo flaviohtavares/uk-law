@@ -1,0 +1,335 @@
+---
+title: The Town and Country Planning (Enforcement Notices and Appeals) (Wales) Regulations 2017
+id: wsi/2017/530
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-04-05'
+text_date: '2024-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2017/530
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2017/530/pdfs/wsi_20170530_mi.pdf
+- http://www.legislation.gov.uk/wsi/2017/530/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Enforcement Notices and Appeals) (Wales) Regulations 2017
+
+> Text as at 2024-11-04.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 530 (W. 113)
+
+Town And Country Planning, Wales
+
+The Town and Country Planning (Enforcement Notices and Appeals) (Wales) Regulations 2017
+
+Made
+
+5 April 2017
+
+Laid before the National Assembly for Wales
+
+11 April 2017
+
+Coming into force
+
+5 May 2017
+
+The Welsh Ministers, in exercise of the powers: conferred on the Secretary of State by sections 173, 174 and 175 of the Town and Country Planning Act 1990[^f00001] and sections 39 and 40 of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00002], and now exercisable by them[^f00003]; and the powers conferred on them by sections 208 and 217[^f00004] of the Town and Country Planning Act 1990, make the following Regulations:
+
+## 1. Title, commencement and application[^key-f0d2d00c6bc67e6d439e60aea22f77cd]
+
+(1) The title of these Regulations is the Town and Country Planning (Enforcement Notices and Appeals) (Wales) Regulations 2017 and they come into force on 5 May 2017.
+
+(2) These Regulations apply in relation to Wales.
+
+(2A)[^key-9ac923688e89b8bc7e995369519959fd] These Regulations form part of a code of law relating to the historic environment of Wales.
+
+(3) These Regulations apply to—
+
+- (a) an enforcement notice under section 172 or section 182 of the Planning Act which is issued on or after the date on which these Regulations come into force; and
+- (b) the appeals listed in paragraph (4) where the enforcement notice which is the subject of the appeal was issued on or after the date on which these Regulations come into force.
+
+(4) The appeals listed in this paragraph are—
+
+- (a) an appeal under section 174 of the Planning Act (appeal against enforcement notice);
+- (b) an appeal under section 208 of the Planning Act (appeals against tree replacement notices);
+- (c) an appeal under section 217 of the Planning Act (appeal against a notice requiring the maintenance of land); and
+- (d)[^key-b6bb5d09f4686f638235f107f1158b4c] an appeal under section 127 of the 2023 Act (right to appeal against enforcement notice) or under that section as applied by section 163 of that Act (application of Part 3 to conservation areas).
+
+## 2. Interpretation[^key-3b18db547d28cb418bf0b433bcfff748]
+
+(1) In these regulations—
+
+- [^key-a0a3598944a83297f212da3aebb83f88]...
+- **the 2023 Act[^key-448eeb44b143ee348c285c90b1fafac2]**” (“***Deddf 2023***”) means the Historic Environment (Wales) Act 2023;
+- “the Planning Act” (“*y Ddeddf Gynllunio*”) means the Town and Country Planning Act 1990;
+- “electronic communication” (“*cyfathrebiad electronig*”) has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00005];
+- “enforcement notice” (“*hysbysiad gorfodi*”) means a notice under—
+  - (a) section 172(1) of the Planning Act,
+  - (b) section 182(1) of the Planning Act,
+  - (c) section 207(1) of the Planning Act,
+  - (d) section 215(1) of the Planning Act,
+  - (e) section 123(1) of the 2023 Act or under that section as applied by section 163 of that Act,[^key-5c44a07e6bc9f89a7c25da902268efc2] or
+  - (f) section 134(1) of the 2023 Act;[^key-d36d59156c30612f94b198623cd5db31]
+- “local planning authority” (“a*wdurdod cynllunio lleol*”) means the body which issued the relevant enforcement notice;
+- “working day” (“*diwrnod gwaith*”) means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday in Wales.
+
+(2) In relation to the use of electronic communications for any purpose of these Regulations which is capable of being effected electronically—
+
+- (a) the expression “address” (“*cyfeiriad*”) includes any number or address used for the purposes of electronic communications;
+- (b) references to notices or other documents, or to copies of such documents, include references to such documents or copies of them in electronic form.
+
+## 3. Use of electronic communications[^key-77d57fdc2bed687f2ce5742992ea181f]
+
+(1) Paragraphs (2) to (6) of this regulation apply where an electronic communication is used by a person for the purpose of fulfilling any requirement in regulation 8 or 10 to give or send any statement, notice or other document to any other person (“the recipient”) , but this is subject to regulation 3A[^key-f54f202807a33f1c1994279a50fbc606].
+
+(2) The requirement is taken to be fulfilled where the notice or other document transmitted by means of the electronic communication is—
+
+- (a) capable of being accessed by the recipient;
+- (b) legible in all material respects; and
+- (c) sufficiently permanent to be used for subsequent reference.
+
+(3) In paragraph (2) “legible in all material respects” (“*darllenadwy ym mhob modd perthnasol*”) means that the information contained in the notice or other document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
+
+(4) Where the electronic communication is received by the recipient outside the recipient’s business hours, it will be taken to have been received on the next working day.
+
+(5) A requirement in these Regulations that any notice or other document should be in writing is fulfilled where that document meets the criteria in paragraph (2), and “written” (“*ysgrifenedig*”) and cognate expressions are to be construed accordingly.
+
+(6) Where an appellant sends any notice or other document to the Welsh Ministers using electronic communications, they will be taken to have agreed—
+
+- (a) to the use of such communications for all purposes relating to the appeal which are capable of being carried out electronically;
+- (b) that the appellant’s address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, the notice or other document;
+- (c) that the appellant’s deemed agreement under this paragraph will subsist until the appellant gives notice in accordance with regulation 5 of a wish to revoke the agreement.
+
+**3A.**[^key-521f3cfc8425ba3611ce4552c2c033c9] Regulations 3 and 4 do not apply to provision in these Regulations made under the 2023 Act (see section 205 of the 2023 Act).
+
+## 4. Transmission of documents[^key-e66546581a2337ac903cfed38c15a193]
+
+Notices or documents required or authorised to be sent or supplied under these Regulations may be sent or supplied by—
+
+- (a) post; or
+- (b) using electronic communications to transmit the notice or document (as the case may be) to a person at such address as may for the time being be specified by that person for such purpose.
+
+## 5. Withdrawal of consent to use of electronic communications[^key-2ae0bc5dd1c1f2ce38c3181748f266d3]
+
+(1) Where a person is no longer willing to accept the use of electronic communications for any purpose of these Regulations which is capable of being effected electronically, the person must give notice in writing—
+
+- (a) withdrawing any address notified to the Welsh Ministers or to a local planning authority for that purpose; or
+- (b) revoking any agreement entered into with the Welsh Ministers or with a local planning authority for that purpose.
+
+(2) Withdrawal or revocation under paragraph (1) is final and takes effect on the later of—
+
+- (a) the date specified by the person in the notice but that date must not be less than 1 week after the date on which the notice is given; or
+- (b) the expiry of the period of 1 week beginning with the date on which the notice is given.
+
+## 6. Additional matters to be specified in enforcement notice[^key-614a416ef150e733ced0dda27b6c354d]
+
+An enforcement notice issued under section 172 of the Planning Act must specify—
+
+- (a) the reasons why the local planning authority consider it expedient to issue the notice;
+- (b) all policies and proposals in the development plan which are relevant to the decision to issue an enforcement notice; and
+- (c) the precise boundaries of the land to which the notice relates, whether by reference to a plan or otherwise.
+
+## 7. Explanatory note to accompany copy of enforcement notice[^key-1d1897ee27e17c798e98555f27b2a944]
+
+Every copy of an enforcement notice served by a local planning authority under section 172(2) of the Planning Act must be accompanied by an explanatory note which must include the following—
+
+- (a) a copy of sections 171A, 171B and 172 to 177 of the Planning Act, or a summary of those sections including the following information—
+  - (i) that there is a right of appeal to the Welsh Ministers against that enforcement notice;
+  - (ii) that an appeal can only be made by giving written notice of the appeal to the Welsh Ministers before the date specified in the enforcement notice as the date on which it is to take effect or by sending such notice to the Welsh Ministers in a properly addressed, pre-paid letter posted to them at such time that, in the ordinary course of post, it would be delivered to them before that date; or, where electronic communications are used to send such notice to the Welsh Ministers, by sending the notice to them at such time that, in the ordinary course of transmission, it would be delivered to the Welsh Ministers before that date;
+  - (iii) the grounds on which an appeal may be brought under section 174 of the Planning Act;
+  - (iv) the fee payable under regulation 10 of the Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015[^f00006] for the deemed application for planning permission for the development alleged to be in breach of planning control in the enforcement notice;
+- (b) notification that an appellant must send to the Welsh Ministers, either when giving notice of appeal or before the end of the period specified in regulation 8(3), a full statement of case comprised of—
+  - (i) a statement in writing specifying the grounds of the appeal, stating the facts on which the appeal is based and containing full particulars of the case the appellant proposes to put forward in relation to the appeal; and
+  - (ii) copies of any supporting documents the appellant proposes to refer to or put forward in evidence; and
+- (c) a list of the names and addresses of the persons on whom a copy of the enforcement notice has been served.
+
+## 8. Appeals under section 174 of the Planning Act or section 127 of the 2023 Act[^key-74f3ca4f590c7db0d676461b5b03bc1b][^key-bcf4c496d53ecb464987b7abb282a25a]
+
+(1) A person who makes an appeal to the Welsh Ministers under section 174 of the Planning Act or section 127 of the 2023 Act or under that section as applied by section 163 of that Act[^key-2d4f262495b1543bef22b1f52f9a5c67] against an enforcement notice must send to the Welsh Ministers a full statement of case comprised of—
+
+- (a) a statement in writing specifying the grounds of the appeal[^f00007], stating the facts on which the appeal is based and containing full particulars of the case the appellant proposes to put forward in relation to the appeal; and
+- (b) copies of any supporting documents the appellant proposes to refer to or put forward in evidence.
+
+(2) If the full statement of case mentioned in paragraph (1) is not included with the notice of appeal, the appellant must send it to the Welsh Ministers so that it is received by them before the end of the period specified in paragraph (3).
+
+(3) The period specified in this paragraph is—
+
+- (a) 7 days beginning with the day on which the notice of appeal is received by the Welsh Ministers; or
+- (b) such longer period as the Welsh Ministers may allow provided that any such longer period is authorised in writing by them before the date specified in the enforcement notice as the date on which it is to take effect.
+
+(4) The appellant must send to the local planning authority, as soon as reasonably practicable, a copy of the notice of appeal and the full statement of case mentioned in paragraph (1).
+
+## 9. Appeals under section 208 of the Planning Act[^key-3731b7440da0f947ed4266058a0618ac]
+
+A written notice of appeal submitted to the Welsh Ministers in accordance with section 208(2) of the Planning Act must—
+
+- (a) indicate the grounds of the appeal[^f00008];
+- (b) state the facts on which the appeal is based[^f00009];
+- (c) be accompanied by a full statement of case comprised of—
+  - (i) a statement in writing containing full particulars of the case the appellant proposes to put forward in relation to the appeal; and
+  - (ii) copies of any supporting documents the appellant proposes to refer to or put forward in evidence.
+
+## 10. Appeals under section 217 of the Planning Act[^key-710795bdbaf6ce83657a913b5beede27]
+
+(1) An appeal under section 217 of the Planning Act must be made by giving written notice of the appeal to the Welsh Ministers so that the notice of appeal is received by them within the period specified in the enforcement notice under section 215 of the Planning Act as the period at the end of which it is to take effect.
+
+(2) A person who gives notice under paragraph (1) must send to the Welsh Ministers a full statement of case comprised of—
+
+- (a) a statement in writing specifying the grounds of the appeal, stating the facts on which the appeal is based and containing full particulars of the case the appellant proposes to put forward in relation to the appeal; and
+- (b) copies of any supporting documents the appellant proposes to refer to or put forward in evidence.
+
+(3) If the full statement of case mentioned in paragraph (2) is not included with the notice of appeal, the appellant must send it to the Welsh Ministers so that it is received by them before the end of the period specified in paragraph (4).
+
+(4) The period specified in this paragraph is—
+
+- (a) 7 days beginning with the day on which the notice of appeal is received by the Welsh Ministers; or
+- (b) such longer period as the Welsh Ministers may allow provided that any such longer period is authorised in writing by them within the period specified in the enforcement notice as the period at the end of which it is to take effect.
+
+(5) The appellant must send to the local planning authority, as soon as reasonably practicable, a copy of the notice of appeal and the full statement of case mentioned in paragraph (2).
+
+## 11. Application of these Regulations to notices issued by the Welsh Ministers[^key-70b9271ffaf9b05281635a48d8565b80]
+
+(1) These Regulations, except regulations 9 and 10, apply subject to the modifications set out in paragraph (2) to—
+
+- (a) enforcement notices issued by the Welsh Ministers under section 182 of the Planning Act,
+- (b) appeals against enforcement notices issued by the Welsh Ministers under section 182 of the Planning Act, and
+- (c) appeals against enforcement notices issued by the Welsh Ministers under section 134 of the 2023 Act,[^key-6af0cf7eb984cbe45245b9223e96faa6]
+
+as they apply to such notices issued by local planning authorities and to appeals made against them.
+
+(2) The modifications are as follows—
+
+- (a) for references to a local planning authority there are substituted references to the Welsh Ministers;
+- (b) in regulation 6, for “section 172” there is substituted “section 182”;
+- (c) in regulation 7—
+  - (i) for “section 172(2)” there is substituted “section 182(1)”; and
+  - (ii) in paragraph (a), for “sections 171A, 171B and 172 to 177” there are substituted “sections 171A, 171B, 172 to 177 and 182”;
+- (d) regulation 8(4)is omitted.
+
+## 12. Revocation, transitional and saving provisions[^key-d2bfc32d4ad270bf701774bd0a48b955]
+
+(1) The instruments listed in column (1) of the Schedule are revoked in so far as they apply in relation to Wales to the extent indicated in column (3) subject to paragraph (2).
+
+(2) The instruments listed in column (1) of the Schedule continue to apply where an appeal is made in relation to an enforcement notice issued before these Regulations come into force.
+
+Jane Hutt
+
+One of the Welsh Ministers
+
+5 April 2017
+
+## SCHEDULE — Statutory Instruments Revoked so far as they apply to Wales[^key-37e6fb10e10db1c93bc7a89647e446eb]
+
+Regulation 12
+
+| Statutory Instrument revoked | Reference | Extent of Revocation |
+| --- | --- | --- |
+| The Town and Country Planning (Enforcement Notices and Appeals) (Wales) Regulations 2003 | [S.I. 2003/394 (W. 53)](https://www.legislation.gov.uk/wsi/2003/394) | The whole Regulations |
+| The Town and Country Planning (Electronic Communications) (Wales) (No. 2) Order 2004 | [S.I. 2004/3157 (W. 274)](https://www.legislation.gov.uk/wsi/2004/3157) | Paragraph (1) of article 3 and Schedule 2 |
+| The Town and Country Planning (Application of Subordinate Legislation to the Crown) Order 2006 | [S.I. 2006/1282](https://www.legislation.gov.uk/uksi/2006/1282) | Article 36 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace with some changes the Town and Country Planning (Enforcement Notices and Appeals) (Wales) Regulations 2003 (“the 2003 Regulations”).
+
+The main changes made by these Regulations are—
+
+(1) the information to be included in an explanatory note to accompany every enforcement notice served by a local planning authority under section 172(2) of the Town and Country Planning Act 1990 (“the Planning Act”) is amended in light of the changes referred to in paragraph (4)(a) and (b) (regulation 7);
+
+(2) in relation to appeals to the Welsh Ministers under section 174(3) of the Planning Act or section 39(2) of the Planning (Listed Buildings and Conservation Areas) Act 1990 (“the Listed Buildings Act”)—
+
+- (a) the appellant must provide a full statement of case;
+- (b) the time prescribed under section 174(4) of the Planning Act and section 39(4) of the Listed Buildings Act for submitting a statement in writing to the Welsh Ministers is amended;
+- (c) the appellant must as soon as reasonably practicable send a copy of the notice of appeal and full statement of case to the local planning authority (regulation 8);
+
+(3) in relation to appeals under section 208(2) of the Planning Act, a written notice of appeal indicating the grounds of appeal and stating the facts on which the appeal is based must be accompanied by a full statement of case (regulation 9);
+
+(4) provision is made in relation to the steps to be taken in connection with the bringing of an appeal to the Welsh Ministers under section 217 of the Planning Act (regulation 10). Broadly the steps to be taken are the same as in relation to an appeal under section 174(3) of the Planning Act or section 39(2) of the Listed Buildings Act.
+
+Provision regarding the subsequent procedure to be followed in connection with appeals under sections 174, 208 and 217 of the Planning Act and section 39 of the Listed Buildings Act is made in the Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017.
+
+Some minor and consequential drafting changes have also been made.
+
+The 2003 Regulations and amending provisions are revoked and there are transitional and saving provisions.
+
+The Regulatory Impact Assessment applicable to these Regulations is obtainable from the Welsh Government at: Cathays Park, Cardiff, CF10 3NQ and on the Welsh Government website at www.gov.wales .
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 173 was substituted by section 5(1) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are amendments to sections 174 and 175 but none are relevant to these Regulations. For the meaning of “prescribed” *see* section 336(1) of the Town and Country Planning Act 1990.
+
+[^f00002]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). There are amendments to sections 39 and 40 but none are relevant to these Regulations. For the meaning of “prescribed” *see* section 91(1) of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+
+[^f00003]: Footnote: The functions of the Secretary of State were transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). *See* relevant entries in Schedule 1. The functions of the National Assembly for Wales were transferred to the Welsh Ministers by section 162 of, and paragraphs 30 and 32 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00004]: Footnote: Section 208(4) to (4C) were substituted for section 208(4) by section 197 of, and paragraph 4(2) of Schedule 11 to, the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) and section 208(4B) and (4C) were repealed by section 55 of, and paragraph 4(4) of Schedule 7 to, the [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4). There are other amendments to section 208 which are not relevant to these Regulations. Section 217 was amended by section 48 of the Planning (Wales) Act 2015.
+
+[^key-f0d2d00c6bc67e6d439e60aea22f77cd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/530/regulation/1) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^key-9ac923688e89b8bc7e995369519959fd]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/2A) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [87](https://www.legislation.gov.uk/wsi/2024/924/regulation/87)
+
+[^key-b6bb5d09f4686f638235f107f1158b4c]: Textual amendment: [Reg. 1(4)(d)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/4/d) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [88](https://www.legislation.gov.uk/wsi/2024/924/regulation/88)
+
+[^key-3b18db547d28cb418bf0b433bcfff748]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/530/regulation/2) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^key-a0a3598944a83297f212da3aebb83f88]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/2/1) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [89(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/89/b)
+
+[^key-448eeb44b143ee348c285c90b1fafac2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/2/1) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [89(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/89/a)
+
+[^f00005]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by section 406(1) of, and paragraph 158 of Schedule 17 to, the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-5c44a07e6bc9f89a7c25da902268efc2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/2/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [89(c)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/89/c/i)
+
+[^key-d36d59156c30612f94b198623cd5db31]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/2/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [89(c)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/89/c/ii)
+
+[^key-77d57fdc2bed687f2ce5742992ea181f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/530/regulation/3) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^key-f54f202807a33f1c1994279a50fbc606]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/3/1) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [90](https://www.legislation.gov.uk/wsi/2024/924/regulation/90)
+
+[^key-521f3cfc8425ba3611ce4552c2c033c9]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/wsi/2017/530/regulation/3A) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [91](https://www.legislation.gov.uk/wsi/2024/924/regulation/91)
+
+[^key-e66546581a2337ac903cfed38c15a193]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/530/regulation/4) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^key-2ae0bc5dd1c1f2ce38c3181748f266d3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/530/regulation/5) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^key-614a416ef150e733ced0dda27b6c354d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/530/regulation/6) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^key-1d1897ee27e17c798e98555f27b2a944]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2017/530/regulation/7) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^f00006]: Footnote: [S.I. 2015/1522 (W. 179)](https://www.legislation.gov.uk/wsi/2015/1522), amended by the Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) (Amendment) Regulations 2017 ([S.I. 2017/528 (W. 111 )](https://www.legislation.gov.uk/wsi/2017/528). There are other amending instruments but none are relevant.
+
+[^key-74f3ca4f590c7db0d676461b5b03bc1b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2017/530/regulation/8) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^key-bcf4c496d53ecb464987b7abb282a25a]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/wsi/2017/530/regulation/8) heading substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [92(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/92/a)
+
+[^key-2d4f262495b1543bef22b1f52f9a5c67]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/8/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [92(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/92/b)
+
+[^f00007]: Footnote: *See* section 174(4)(a) of the Town and Country Planning Act 1990 and section 39(4)(a) of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+
+[^key-3731b7440da0f947ed4266058a0618ac]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/530/regulation/9) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^f00008]: Footnote: *See* section 208(4)(a) of the Town and Country Planning Act 1990.
+
+[^f00009]: Footnote: *See* section 208(4)(b) of the Town and Country Planning Act 1990.
+
+[^key-710795bdbaf6ce83657a913b5beede27]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2017/530/regulation/10) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^key-70b9271ffaf9b05281635a48d8565b80]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2017/530/regulation/11) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^key-6af0cf7eb984cbe45245b9223e96faa6]: Textual amendment: Words in [reg. 11(1)(c)](https://www.legislation.gov.uk/wsi/2017/530/regulation/11/1/c) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [93](https://www.legislation.gov.uk/wsi/2024/924/regulation/93)
+
+[^key-d2bfc32d4ad270bf701774bd0a48b955]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2017/530/regulation/12) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)
+
+[^key-37e6fb10e10db1c93bc7a89647e446eb]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2017/530/schedule) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/530/regulation/1/1)

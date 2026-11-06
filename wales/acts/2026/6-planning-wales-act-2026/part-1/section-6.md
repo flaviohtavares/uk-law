@@ -1,0 +1,59 @@
+---
+title: Planning (Wales) Act 2026, section 6
+act: Planning (Wales) Act 2026
+section: '6'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/6/section/6
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning (Wales) Act 2026, section 6
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 6. Operations and changes in use that are not development[^key-8a65542a649d754b160dfabbca6641b3]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) This section provides that certain operations and changes in the use of land are not development.
+
+(2) Carrying out works for the maintenance, improvement or alteration of a building is not development if—
+
+- (a) the works affect only the interior of the building or do not materially affect its external appearance, and
+- (b) the works do not increase—
+  - (i) the gross internal floor area of the building, or
+  - (ii) the volume of underground space in the building.
+
+(3) The following operations are not development—
+
+- (a) the carrying out by a highway authority on land within the boundaries of a road of—
+  - (i) works required exclusively for the maintenance of the road, or
+  - (ii) other works required for the maintenance or improvement of the road, other than works that may have significant adverse effects on the environment;
+- (b) the carrying out by a local authority or statutory undertaker of works for the purpose of inspecting, repairing or renewing sewers, mains, pipes, cables or other apparatus, including breaking open a street or other land for that purpose.
+
+(4) See also section 5(2) of the Pipe-lines Act [1962 (c. 58)](https://www.legislation.gov.uk/ukpga/1962/58), which provides that certain works in relation to pipe-lines are not development.
+
+(5) The following changes in the use of land are not development—
+
+- (a) changing the use of a building or other land within the curtilage of a dwelling to any use that is incidental to the enjoyment of the dwelling;
+- (b) changing the use of land to any use for agriculture or forestry (including afforestation), or changing the use of a building that is occupied with land so used to any use for either of those purposes.
+
+(6) Regulations may provide that, where land is used for a purpose within a class specified in the regulations, changing the use of the land to use for any other purpose within the same class is not development.
+
+(7) Regulations under subsection (6) apply equally to a change in the use of part of the land, except so far as the regulations provide otherwise.
+
+(8) In subsection (3)(b)—
+
+- (a) the reference to a local authority does not include a National Park authority;
+- (b) the reference to a statutory undertaker does not include a universal postal service provider.
+
+## Annotations
+
+[^key-8a65542a649d754b160dfabbca6641b3]: Commencement: S. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

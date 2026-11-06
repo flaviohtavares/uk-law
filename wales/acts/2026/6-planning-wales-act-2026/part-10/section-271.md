@@ -1,0 +1,60 @@
+---
+title: Planning (Wales) Act 2026, section 271
+act: Planning (Wales) Act 2026
+section: '271'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/6/section/271
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning (Wales) Act 2026, section 271
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 271. Compulsory acquisition of land by the Welsh Ministers[^key-ae24a9263e041018eb803e42eab9cd6f]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The Welsh Ministers may acquire compulsorily any land in Wales—
+
+- (a) that is required for the public service, or
+- (b) that it is proposed to use not only for the public service but also—
+  - (i) for other purposes in the interests of the proper planning of any area in Wales, or
+  - (ii) to secure the best or most economic development or use of the land for other purposes.
+
+(2) The Welsh Ministers may not acquire an interest in Crown land under subsection (1) unless—
+
+- (a) the interest is held otherwise than by or on behalf of the Crown, and
+- (b) the appropriate Crown authority consents to the acquisition.
+
+(3) Where the Welsh Ministers have acquired or propose to acquire any land under subsection (1) (“the primary land”), they may compulsorily acquire other land that they consider ought to be acquired together with the primary land—
+
+- (a) in the interests of the proper planning of the area concerned,
+- (b) to ensure that the primary land (together with that other land) can be used, or developed and used, in what they consider to be the best or most economic way, or
+- (c) where the primary land, or any land the Welsh Ministers have acquired or propose to acquire under paragraph (a) or (b), forms part of a common, open space or allotment, for the purpose of being given in exchange for that land.
+
+(4) The power to acquire land compulsorily under this section includes the power to acquire new rights over land, unless the land forms part of a common, open space or allotment.
+
+(5) The Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67) applies to a compulsory acquisition under this section.
+
+(6) Where a draft of a compulsory purchase order authorising the acquisition of land under this section is prepared by the Welsh Ministers in accordance with Schedule 1 to that Act, they may disregard an objection to the draft order if they consider that it amounts in substance to an objection to a policy in the development plan specifically relating to the development or use of that or any other land.
+
+(7) In Part 1 of the Compulsory Purchase Act [1965 (c. 56)](https://www.legislation.gov.uk/ukpga/1965/56) as it applies to the acquisition of land under this section, references to the execution of the works include the erection of buildings on the land, or the construction or carrying out of works on it, on behalf of the Welsh Ministers for the purposes for which the land was acquired.
+
+(8) In subsection (1) “**the public service**” includes the service in the United Kingdom of—
+
+- (a) the government of the United Kingdom;
+- (b) an international organisation (whether or not the United Kingdom is or is to become a member);
+- (c) an office or agency established by or for the purposes of an international organisation, or established under an international agreement (whether or not the United Kingdom is or is to become a party);
+- (d) a State other than the United Kingdom.
+
+## Annotations
+
+[^key-ae24a9263e041018eb803e42eab9cd6f]: Commencement: S. 271 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

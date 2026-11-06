@@ -1,0 +1,59 @@
+---
+title: Children and Families (Wales) Measure 2010, section 38
+act: Children and Families (Wales) Measure 2010
+section: '38'
+status: revised
+text_date: '2025-11-19'
+extent: E+W
+source_url: https://www.legislation.gov.uk/mwa/2010/1/section/38
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children and Families (Wales) Measure 2010, section 38
+
+> Text as at 2025-11-19.
+>
+> Extent: England, Wales.
+
+## 38. Disqualification from registration[^key-a7bf24cde810a1b59dea5517ad0e72b8]
+
+*Extent: E+W*
+
+(1) In this section “**registration**” means registration under this Part.
+
+(2) Regulations may provide for a person to be disqualified from registration.
+
+(3) The regulations may, in particular, provide for a person to be disqualified from registration if—
+
+- (a) the person is barred from regulated activity relating to children (within the meaning of section 3(2) of the Safeguarding Vulnerable Groups Act 2006 (c. 47));
+- (b) an order of a prescribed kind has been made with respect to the person;
+- (c) an order of a prescribed kind has been made at any time with respect to a child who has been in the person's care;
+- (d) a requirement of a prescribed kind has been imposed at any time with respect to such a child, under or by virtue of any enactment;
+- (e) the person has at any time been refused registration under this Part of this Measure, Part 3 of the Childcare Act 2006 (c. 21) or under Part 10 or Part 10A of the Children Act 1989 (c. 41) or any prescribed enactment, or had any such registration cancelled;
+- (f) the person has been convicted of an offence of a prescribed kind or has been discharged absolutely or conditionally for such an offence;
+- (g) the person has been given a caution in respect of an offence of a prescribed kind;
+- (h) the person has at any time been disqualified from fostering a child privately (within the meaning of the Children Act 1989 (c. 41));
+- (i) a prohibition has been imposed on the person at any time under section 69 of the Children Act 1989 (c. 41), section 10 of the Foster Children (Scotland) Act 1984 (c. 56) or any prescribed enactment;
+- (j) the person's rights and powers with respect to a child have at any time been vested in a prescribed authority under a prescribed enactment.
+
+(4) Regulations may provide for a person to be disqualified from registration if—
+
+- (a) the person lives in the same household as another person who is disqualified from registration, or
+- (b) the person lives in a household in which another person who is disqualified is employed.
+
+(5) Regulations under subsection (2) or (4) may provide for a person not to be disqualified from registration (and in particular may provide for a person not to be disqualified from registration for the purposes of section 39) by reason of any fact which would otherwise cause the person to be disqualified if—
+
+- (a) the person has disclosed the fact to the Welsh Ministers, and
+- (b) the Welsh Ministers have consented in writing to the person not being disqualified from registration and have not withdrawn their consent.
+
+(6) In this section—
+
+- “**caution**” includes a reprimand or warning within the meaning of section 65 of the Crime and Disorder Act 1998 (c. 37);
+- “**enactment**” means any enactment having effect at any time in any part of the United Kingdom.
+
+(7) A conviction in respect of which a probation order was made before 1 October 1992 (which would not otherwise be treated as a conviction) is to be treated as a conviction for the purposes of this section.
+
+## Annotations
+
+[^key-a7bf24cde810a1b59dea5517ad0e72b8]: Commencement: [S. 38](https://www.legislation.gov.uk/mwa/2010/1/section/38) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))

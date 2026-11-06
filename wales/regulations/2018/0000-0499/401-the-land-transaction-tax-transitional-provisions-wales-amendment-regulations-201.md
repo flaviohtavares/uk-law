@@ -1,0 +1,88 @@
+---
+title: The Land Transaction Tax (Transitional Provisions) (Wales) (Amendment) Regulations 2018
+id: wsi/2018/401
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2018-03-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2018/401
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2018/401/pdfs/wsi_20180401_mi.pdf
+- http://www.legislation.gov.uk/wsi/2018/401/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Land Transaction Tax (Transitional Provisions) (Wales) (Amendment) Regulations 2018
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2018 No. 401 (W. 71)
+
+Land Transaction Tax, Wales
+
+The Land Transaction Tax (Transitional Provisions) (Wales) (Amendment) Regulations 2018
+
+Made
+
+22 March 2018
+
+Laid before the National Assembly for Wales
+
+23rd March 2018
+
+Coming into force
+
+1 April 2018
+
+The Welsh Ministers make the following Regulations in exercise of the power conferred on them by section 78(1) of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017[^f00001].
+
+## 1. Title and commencement
+
+(1) The title of these Regulations is the Land Transaction Tax (Transitional Provisions) (Wales) (Amendment) Regulations 2018.
+
+(2) These Regulations come into force on 1 April 2018.
+
+## 2. Amendment of the Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018
+
+After regulation 9 of the Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018[^f00002], insert—
+
+> **9A. Holdover tenancies**
+>
+> (1) This regulation applies where the old lease referred to in paragraph 8(1) of the Schedule has been granted prior to the commencement date.
+>
+> (2) Where this regulation applies—
+>
+> - (a) paragraph 8(1) of the Schedule applies to the old lease;
+> - (b) paragraph 8(3)(b) and (4) of the Schedule has effect as if for “ending at the end of the whole years of holdover” there were substituted “ending on the date before the date on which the new lease is granted”; and
+> - (c) the “taxable rent” payable in respect of the holdover tenancy for the purposes of paragraph 8(3) and (5)(b) of the Schedule is to include the amount that was taken into account in determining the tax chargeable under the provisions of Schedule 5 to the FA 2003 for that period.
+>
+> (3) In this regulation, “the Schedule” means Schedule 6 to the LTT Act.
+
+Mark Drakeford
+
+Cabinet Secretary for Finance, one of the Welsh Ministers
+
+22 March 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 to make further transitional provision in respect of a specific case where a fixed term lease continues for a period of more than a year after its contractual termination date (a period known as “holdover”), and is subsequently renewed and backdated to a day during holdover.
+
+Where the conditions in paragraph 8(1) of Schedule 6 to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 have been met, rent payable under the new lease is reduced for the purposes of land transaction tax by the amount of taxable rent payable in respect of the holdover tenancy.
+
+The amendment made by regulation 2 ensures that the reduction available under paragraph 8(3) of that Schedule applies in respect of leases granted prior to 1 April 2018 but renewed on or after that date, notwithstanding that the rent payable during the holdover was chargeable to stamp duty land tax.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a Regulatory Impact Assessment has been prepared as to the likely costs and benefits of complying with these Regulations A copy can be obtained from the Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2017 anaw 1](https://www.legislation.gov.uk/anaw/2017/1).
+
+[^f00002]: Footnote: [S.I. 2018/126 (W. 31)](https://www.legislation.gov.uk/wsi/2018/126).

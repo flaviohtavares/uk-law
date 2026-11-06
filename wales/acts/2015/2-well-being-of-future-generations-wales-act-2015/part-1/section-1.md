@@ -1,0 +1,55 @@
+---
+title: Well-being of Future Generations (Wales) Act 2015, section 1
+act: Well-being of Future Generations (Wales) Act 2015
+section: '1'
+status: revised-with-pending-changes
+text_date: '2024-08-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2015/2/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Well-being of Future Generations (Wales) Act 2015, section 1
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2024-08-01. See https://www.legislation.gov.uk/changes/affected/anaw/2015/2
+>
+> Extent: England, Wales.
+
+## 1. Overview[^key-81987c6cfef9c000281b840b9eba3158]
+
+*Extent: E+W*
+
+(1) This section is an overview of the main provisions of the Act.
+
+(2) Part 2 of this Act—
+
+- (a) explains what is meant by “sustainable development” and requires public bodies to carry out sustainable development (sections 2 and 3);
+- (b) requires the bodies to set well-being objectives that are to contribute to the achievement of well-being goals and to take steps to meet those objectives (section 3)
+- (c) requires the bodies to do those things in accordance with the sustainable development principle (section 3);
+- (d) explains what the well-being goals are and what it means to do things in accordance with the sustainable development principle (sections 4 and 5);
+- (e) requires indicators that measure progress towards achieving the well-being goals (section 10), and reports on future trends in the well-being of Wales (section 11), to be published by the Welsh Ministers;
+- (f) requires the bodies to report annually on their progress towards meeting their well-being objectives (sections 12 and 13 and Schedule 1);
+- (g) requires the Auditor General for Wales to carry out examinations into the extent to which public bodies set objectives and take steps to meet them in accordance with the sustainable development principle (section 15).
+
+(3) Part 3 of this Act—
+
+- (a) establishes the office of Future Generations Commissioner for Wales (section 17 and Schedule 2);
+- (b) provides for the Commissioner to promote the needs of future generations by monitoring and reporting on the extent to which the public bodies are setting and seeking to meet their well-being objectives in accordance with the sustainable development principle (section 18);
+- (c) provides for the Commissioner to carry out reviews of public bodies (section 20);
+- (d) establishes a panel of advisers to the Commissioner (sections 26 to 28).
+
+(4) Part 4 of this Act—
+
+- (a) establishes a public services board for each local authority area in Wales and sets out who else a board may work with (Chapter 1);
+- (b) requires boards to improve the well-being of their area by contributing to the well-being goals, which they are to do by assessing well-being in their area, setting local objectives designed to maximise the board's contribution (within its area) to the achievement of the well-being goals and taking steps to meet those objectives (Chapter 2, section 36);
+- (c) requires boards to do those things in accordance with the sustainable development principle (Chapter 2, section 36);
+- (d) requires boards to publish local well-being plans setting out their local objectives and how they propose to take steps to meet them (Chapter 2, section 39);
+- (e) makes specific provision about how local well-being plans apply to community councils and how, in that way, a community council may contribute to the activity of the public services board in its area (Chapter 2, section 40);
+- (f) provides for boards to merge or otherwise collaborate , and to demerge[^key-a8a11e09cb2c36da82457f5b6d810c4f] (Chapter 3).
+
+## Annotations
+
+[^key-81987c6cfef9c000281b840b9eba3158]: Commencement: S. 1 in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/a)
+
+[^key-a8a11e09cb2c36da82457f5b6d810c4f]: Textual amendment: Words in [s. 1(4)(f)](https://www.legislation.gov.uk/anaw/2015/2/section/1/4/f) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/2)

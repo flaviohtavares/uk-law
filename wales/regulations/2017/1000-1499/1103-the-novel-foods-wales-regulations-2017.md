@@ -1,0 +1,289 @@
+---
+title: The Novel Foods (Wales) Regulations 2017
+id: wsi/2017/1103
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-11-14'
+text_date: '2025-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2017/1103
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2017/1103/pdfs/wsi_20171103_mi.pdf
+- http://www.legislation.gov.uk/wsi/2017/1103/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Novel Foods (Wales) Regulations 2017
+
+> Text as at 2025-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 1103 (W. 279)
+
+Food, Wales
+
+The Novel Foods (Wales) Regulations 2017
+
+Made
+
+14 November 2017
+
+Laid before the National Assembly for Wales
+
+16 November 2017
+
+Coming into force
+
+1 January 2018
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 6(4), 16(1)(a), (e) and (f), 17(2), 18(1)(a), 26(1)(a) and (3), and 48(1) of the Food Safety Act 1990[^f00001] and, with the consent of the Treasury, in exercise of the powers conferred by section 56(1) of Finance Act 1973[^f00002] and now vested in them[^f00003].
+
+In accordance with section 48(4A)[^f00004] of the Food Safety Act 1990, the Welsh Ministers have had regard to relevant advice given by the Food Standards Agency before making these Regulations.
+
+There has been open and transparent public consultation during the preparation and evaluation of these Regulations as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00005].
+
+## 1. Title, application and commencement[^key-7afeacd58700ea0592e95216b4b839d5]
+
+(1) The title of these Regulations is the Novel Foods (Wales) Regulations 2017.
+
+(2) These Regulations apply in relation to Wales.
+
+(3) These Regulations come into force on 1 January 2018.
+
+## 2. Interpretation[^key-68e56f147f1bff074394317b2a777c27]
+
+(1) In these Regulations—
+
+- “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990;
+- “Regulation (EU) 2015/2283” (“*Rheoliad (EU) 2015/2283*”) means Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation [(EC) No 258/97](https://www.legislation.gov.uk/european/regulation/1997/0258) of the European Parliament and of the Council and [Commission Regulation (EC) No 1852/2001](https://www.legislation.gov.uk/european/regulation/2001/1852)[^f00006];
+- “specified EU provision” (“*darpariaeth UE benodedig*”) means a provision of Regulation (EU) 2015/2283 specified in column 1, and described in column 2, of the table in Schedule 1.
+
+(2) Unless the contrary intention appears, any expression used both in these Regulations and Regulation (EU) 2015/2283 has the meaning that it bears in Regulation (EU) 2015/2283.
+
+## 3. Enforcement[^key-4d702f04215bb8c7bb2e4b6efdb85a0c]
+
+It is the duty of a food authority within its area to enforce Regulation (EU) 2015/2283 and these Regulations.
+
+## 4. Offence and penalty[^key-1b9a94744e3619be17f89145046974f3]
+
+A person who fails to comply with Article 6[^key-0d512eac54ee7184ab31b4f20c67afd9] as read with Articles 24 and 35(2) of Regulation (EU) 2015/2283 is guilty of an offence and liable on summary conviction to a fine.
+
+## 5. Application and modification of provisions of the Act[^key-c99a813e54d96c36ee03cf5ccb1ef95b]
+
+(1) Section 10(1) and (2) of the Act (improvement notices) applies for the purposes of these Regulations with the modification (in the case of section 10(1)) set out in Part 1 of Schedule 2 for the purposes of—
+
+- (a) enabling an improvement notice to be served on a person requiring that person to comply with a specified EU provision; and
+- (b) making the failure to comply with a notice referred to in sub-paragraph (a) an offence.
+
+(2) Section 9 of the Act (inspection and seizure of suspected food) applies for the purposes of these Regulations with the modifications set out in Part 2 of Schedule 2 for the purposes of enabling an authorised officer of a food authority, if it appears to the authorised officer that Article 6[^key-ec836b22767446d7f862167c935a17ca] of Regulation (EU) 2015/2283 is being, or has been, contravened in relation to any food which has been placed on the market, to either—
+
+- (a) give notice to the person in charge of the food that it is not to be used for human consumption, and is not to be removed or is not to be removed except to some place specified in the notice, or
+- (b) seize the food and remove it in order to have it dealt with by a justice of the peace.
+
+(3) The provisions of the Act specified in column 1 of the table in Part 3 of Schedule 2 apply, with the modifications (if any) specified in column 2 of that table, for the purposes of these Regulations.
+
+(4) Paragraphs (1) to (3) are without prejudice to the application of the Act to these Regulations for purposes other than those specified in paragraphs (1) and (2).
+
+## 6. Revocations[^key-a90b6c2b0c11ed08ba3436d63cdc0eb9]
+
+The following Regulations are revoked—
+
+- (a) The Novel Foods and Novel Food Ingredients Regulations 1997[^f00007];
+- (b) The Novel Foods and Novel Food Ingredients (Fees) Regulations 1997[^f00008];
+- (c) The Food Enzymes (Wales) Regulations 2009[^f00009].
+
+Vaughan Gething
+
+Cabinet Secretary for Health and Social Services, one of the Welsh Ministers
+
+We consent
+
+Guto Bebb
+
+David Evennett
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+SCHEDULES
+
+## SCHEDULE 1 — Specified EU Provisions[^key-dd1d05747d874c197fd964b831b62396]
+
+Regulation 2(1)
+
+| *1. Specified EU Provision* | *2. Subject matter* |
+| --- | --- |
+| 1\. Article 4(1). | Requirement that food business operators verify whether food they intend to place on the market is within the scope of Regulation (EU) 2015/2283. |
+| 2\. Article 6[^key-36aae37fb62444c39f30adc03d3c70b1] as read with Articles 24 and 35(2). | Requirement that only novel foods authorised in accordance with Regulation (EU) 2015/2283[^key-e61a8ae648a4d1ca044c2e91523328c1] may be placed on the market as such, or used in or on food, in accordance with the conditions of use and the labelling requirements specified, and with any post-market monitoring requirements , in the authorisations concerned[^key-23963d030b04da8b5b1c2e82be93c482]. |
+| 3\. Article 25. | Requirement that a food business operator who has placed a novel food on the market must immediately inform the Food Safety Authority[^key-82c3e8647063895b3e33ea03342d7870] of any information of which it becomes aware concerning—<br>(a) any new scientific or technical information which might influence the evaluation of the safety of use of the novel food; or<br>(b) any prohibition or restriction imposed by a third country in which the novel food is placed on the market. |
+
+## SCHEDULE 2 — Application and modification of provisions of the Act
+
+Regulation 5
+
+### PART 1 — Modification of section 10(1)
+
+**1.**[^key-767fd71e1dcc75c9ab0f21f7bb9b9d05] For section 10(1) of the Act (improvement notices) substitute—
+
+> - If an authorised officer has reasonable grounds for believing that a person is failing to comply with any provision specified in Schedule 1 to the Novel Foods (Wales) Regulations 2017, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
+>   - (a) state the officer’s grounds for believing that the person is failing to comply with the relevant provision;
+>   - (c) specify the matters which constitute the person’s failure so to comply;
+>   - (d) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and
+>   - (e) require the person to take those measures, or measures that are at least equivalent to them, within such period (not being less than 14 days) as may be specified in the notice.
+
+### PART 2 — Modification of section 9
+
+**2.**[^key-aeff03c481047f16cc22bdc6aaa79b93] For section 9 of the Act (inspection and seizure of suspected food) substitute—
+
+> (1) This section applies where it appears to any authorised officer of a food authority that Article 6[^key-0c3eecd688605aba04b3c3df39146c87] of Regulation (EU) 2015/2283 is being, or has been, contravened in relation to any food which has been placed on the market.
+>
+> (2) The authorised officer may either—
+>
+> - (a) give notice to the person in charge of the food that, until the notice is withdrawn, the food—
+>   - (i) is not to be used for human consumption; and
+>   - (ii) either is not to be removed or is not to be removed except to some place specified in the notice; or
+> - (b) seize the food and remove it in order to have it dealt with by a justice of the peace;
+>
+> and any person who knowingly contravenes the requirements of a notice under paragraph (a) above is guilty of an offence and liable on summary conviction to a fine.
+>
+> (3) Where the authorised officer exercises the powers conferred by subsection (2)(a) above, the authorised officer must, as soon as is reasonably practicable and in any event within 21 days, determine whether or not they are satisfied that the food complies with Article 6 of Regulation (EU) 2015/2283, and—
+>
+> - (a) if so satisfied, immediately withdraw the notice;
+> - (b) if not so satisfied, seize the food and remove it in order to have it dealt with by a justice of the peace.
+>
+> (4) Where an authorised officer exercises the powers conferred by subsection (2)(b) or (3)(b) above, the authorised officer must inform the person in charge of the food that it is to be dealt with by a justice of the peace and—
+>
+> - (a) any person who might be liable to a prosecution in respect of the food must, if attending before the justice of the peace by whom the food falls to be dealt with, be entitled to be heard and to call witnesses; and
+> - (b) that justice of the peace may, but need not, be a member of the court before which any person is charged with an offence in relation to that food.
+>
+> (5) If it appears to a justice of the peace, on the basis of such evidence as the justice of the peace considers appropriate in the circumstances, that any food falling to be dealt with under this section fails to comply with Article 6 of Regulation (EU) 2015/2283, the justice of the peace must condemn the food and order—
+>
+> - (a) the food to be destroyed or to be disposed of as to prevent it from being used for human consumption; and
+> - (b) any expenses reasonably incurred in connection with the destruction or disposal to be defrayed by the owner of the food.
+>
+> (6) If a notice under subsection (2)(a) above is withdrawn, or the justice of the peace by whom any food falls to be dealt with under this section refuses to condemn it, the food authority must compensate the owner of the food for any depreciation in its value resulting from the action taken by the authorised officer.
+>
+> (7) Any disputed question as to the right to or the amount of any compensation payable under subsection (6) above is to be determined by arbitration.
+>
+> (8) For the purposes of this section, “Regulation (EU) 2015/2283” means Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation [(EC) No 258/97](https://www.legislation.gov.uk/european/regulation/1997/0258) of the European Parliament and of the Council and [Commission Regulation (EC) No 1852/2001](https://www.legislation.gov.uk/european/regulation/2001/1852).
+
+### PART 3 — Application and modification of other provisions of the Act[^key-e98caf34fa88776b331e2e9b7860350c]
+
+<table>
+<thead>
+<tr><th><em>Column 1</em><br><em>Provision of the Act</em></th><th><em>Column 2</em><br><em>Modifications</em></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">(1)<br>Section 35(1) is amended by paragraph 42 of Schedule 26 to the Criminal Justice Act <a href="https://www.legislation.gov.uk/ukpga/2003/44">2003 (c. 44)</a> from a date to be appointed. There are other amendments to section 35(1) not relevant to these Regulations.</td></tr>
+<tr><td colspan="2">(2)<br>Section 36A was inserted by section 40(1) of, and paragraphs 7 and 16 of Schedule 5 to, the Food Standards Act <a href="https://www.legislation.gov.uk/ukpga/1999/28">1999 (c. 28)</a>.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Section 2 (extended meaning of “sale” etc.)</td><td>For “this Act” (in each place it occurs) substitute “the Novel Foods (Wales) Regulations 2017”.</td></tr>
+<tr><td>Section 3 (presumptions that food intended for human consumption)</td><td>In subsection (1), for “this Act” substitute “the Novel Foods (Wales) Regulations 2017”.</td></tr>
+<tr><td>Section 20 (offences due to fault of another person)</td><td>For “any of the preceding provisions of this Part” substitute “section 10(2), as applied by regulation 5(1) of the Novel Foods (Wales) Regulations 2017 or under regulation 4 of those Regulations”.</td></tr>
+<tr><td>Section 21(1) and (5) (defence of due diligence)</td><td>In subsection (1), for “any of the preceding provisions of this Part” substitute “section 10(2), as applied by regulation 5(1) of the Novel Foods (Wales) Regulations 2017 or under regulation 4 of those Regulations”.</td></tr>
+<tr><td>Section 30(6) and (8) (evidence of certificates given by a food analyst or examiner)</td><td>In subsection (8), for “this Act” substitute “the Novel Foods (Wales) Regulations 2017”.</td></tr>
+<tr><td>Section 32 (powers of entry)</td><td>In subsection (1), for paragraphs (a) to (c), substitute “(a) to enter any premises within the authority’s area for the purpose of ascertaining whether Article 6 of Regulation (EU) 2015/2283 is being or has been contravened on the premises;”.</td></tr>
+<tr><td>Section 33 (obstruction etc. of officers)</td><td>In subsection (1), for “this Act” (in each place it occurs) substitute “the Novel Foods (Wales) Regulations 2017”.</td></tr>
+<tr><td>Section 35(1) and (2) (punishment of offences)</td><td>In subsection (1), after “section 33(1) above”, insert “, as applied and modified by regulation 5 of, and Part 3 of Schedule 2 to, the Novel Foods (Wales) Regulations 2017”.<br>In subsection (2), in the opening words, for “any other offence under this Act” substitute “an offence under section 33(2), as applied by regulation 5 of, and Part 3 of Schedule 2 to, the Novel Foods (Wales) Regulations 2017,”.</td></tr>
+<tr><td>Section 36 (offences by bodies corporate)</td><td>In subsection (1), for “this Act” substitute “section 10(2), as applied by regulation 5(1) of the Novel Foods (Wales) Regulations 2017 or under regulation 4 of those Regulations”.</td></tr>
+<tr><td>Section 36A(offences by Scottish partnerships)</td><td>For “this Act” substitute “section 10(2), as applied by regulation 5(1) of the Novel Foods (Wales) Regulations 2017 or under regulation 4 of those Regulations”.</td></tr>
+<tr><td>Section 37(1) and (6) (appeals to a magistrates’ court)</td><td>For subsection (1) substitute—<br>(1) Any person who is aggrieved by a decision of an authorised officer of a food authority to serve an improvement notice under section 10(1), as applied and modified by regulation 5 of, and Part 1 of Schedule 2 to, the Novel Foods (Wales) Regulations 2017, may appeal to a magistrates’ court.<br>In subsection (6)—<br>for “(3) or (4)” substitute “(1)”, and<br>in paragraph (a), omit “or to the sheriff”.</td></tr>
+<tr><td>Section 39 (appeals against improvement notices)</td><td>For subsection (1) substitute—<br>(1) On an appeal against an improvement notice served under section 10(1), as applied and modified by regulation 5 of, and Part 1 of Schedule 2 to, the Novel Foods (Wales) Regulations 2017, the magistrates’ court may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the magistrates’ court may in the circumstances think fit.<br>In subsection (3), omit “for want of prosecution”.</td></tr>
+</tbody>
+</table>
+
+[^key-64a9a63ca29cc01ffc05ec4e998cb613][^f01000][^f01001]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the execution and enforcement in Wales of Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation [(EC) No 258/97](https://www.legislation.gov.uk/european/regulation/1997/0258) of the European Parliament and of the Council and [Commission Regulation (EC) No 1852/2001](https://www.legislation.gov.uk/european/regulation/2001/1852) (OJ No L 327, 11.12.2015, p 1) (“the Novel Foods Regulation”).
+
+Regulation 3 makes food authorities responsible for the enforcement of the Regulations.
+
+Regulation 4 provides that it is an offence for a person to fail to comply with Article 6(2) of the Novel Foods Regulation, punishable on summary conviction by a fine. Article 6(2) provides that only novel foods authorised by the European Commission and included in the European Union’s list of novel foods may be placed on the market within the European Union, and the foods must be in accordance with conditions of use and the labelling requirements set out in the list.
+
+Regulation 5 and Schedule 2 apply certain provisions of the Food Safety Act 1990 ([1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16)) with modifications. This includes the application (with modifications) of—
+
+- (a) section 9, enabling an authorised officer, if he or she considers that Article 6(2) of the Novel Foods Regulation is being or has been contravened, to give notice to the person in charge of the food that it is not to be used for human consumption or is not to be removed except to some place specified in the notice, or to seize the food in order to have it dealt with by a justice of the peace; and
+- (b) section 10(1), enabling an improvement notice to be served requiring the person in charge of the food to comply with the provisions of the Novel Foods Regulation specified in Schedule 1 to these Regulations. The provisions, as applied, make the failure to comply with an improvement notice an offence.
+
+Regulation 6 revokes—
+
+- (a) The Novel Foods and Novel Food Ingredients Regulations 1997 ([S.I. 1997/1335](https://www.legislation.gov.uk/uksi/1997/1335)) in relation to Wales;
+- (b) The Novel Foods and Novel Food Ingredients (Fees) Regulations 1997 ([S.I. 1997/1336](https://www.legislation.gov.uk/uksi/1997/1336)) in relation to Wales;
+- (c) The Food Enzymes (Wales) Regulations 2009 ([S.I. 2009/3377 (W. 299)](https://www.legislation.gov.uk/wsi/2009/3377)).
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Food Standards Agency at Food Standards Agency Wales, 11<sup>th</sup> Floor, Southgate House, Wood Street, Cardiff, CF10 1EW or from the Agency’s website at www.food.gov.uk/wales.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). Section 6(4) was amended by paragraph 6 of Schedule 9 to the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), paragraph 10(1) and (3) of Schedule 5 and Schedule 6 to the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28) (“the 1999 Act”), and [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794). Section 16(1) was amended by paragraph 8 of Schedule 5 to the 1999 Act. Section 17(2) was amended by paragraphs 8 and 12(a) of Schedule 5 to the 1999 Act and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 26(3) was amended by Schedule 6 to the 1999 Act. Section 48 was amended by paragraph 8 of Schedule 5 to the 1999 Act. Functions formerly exercisable by the “the Ministers” so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I 1999/672](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the 1999 Act, and subsequently transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00002]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51). Subsection (1) was amended by article 6(1)(e) of [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^f00003]: Footnote: By virtue of section 59(5) of the Government of Wales Act 2006.
+
+[^f00004]: Footnote: Section 48(4A) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
+
+[^f00005]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
+
+[^key-7afeacd58700ea0592e95216b4b839d5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+
+[^key-68e56f147f1bff074394317b2a777c27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/1103/regulation/2) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+
+[^f00006]: Footnote: OJ No L 327, 11.12.2015, p 1.
+
+[^key-4d702f04215bb8c7bb2e4b6efdb85a0c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/1103/regulation/3) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+
+[^key-1b9a94744e3619be17f89145046974f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/1103/regulation/4) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+
+[^key-0d512eac54ee7184ab31b4f20c67afd9]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/wsi/2017/1103/regulation/4) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/2/b)
+
+[^key-c99a813e54d96c36ee03cf5ccb1ef95b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/1103/regulation/5) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+
+[^key-ec836b22767446d7f862167c935a17ca]: Textual amendment: Word in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/5/2) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/3/b)
+
+[^key-a90b6c2b0c11ed08ba3436d63cdc0eb9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/1103/regulation/6) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+
+[^f00007]: Footnote: [S.I. 1997/1335](https://www.legislation.gov.uk/uksi/1997/1335).
+
+[^f00008]: Footnote: [S.I. 1997/1336](https://www.legislation.gov.uk/uksi/1997/1336).
+
+[^f00009]: Footnote: [S.I. 2009/3377 (W. 299)](https://www.legislation.gov.uk/wsi/2009/3377).
+
+[^key-dd1d05747d874c197fd964b831b62396]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+
+[^key-36aae37fb62444c39f30adc03d3c70b1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/4/a/ii)
+
+[^key-e61a8ae648a4d1ca044c2e91523328c1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/4/b/ii/aa)
+
+[^key-23963d030b04da8b5b1c2e82be93c482]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) Table inserted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/4/b/ii/bb)
+
+[^key-82c3e8647063895b3e33ea03342d7870]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [10(2)(b)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-767fd71e1dcc75c9ab0f21f7bb9b9d05]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/paragraph/1) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+
+[^key-aeff03c481047f16cc22bdc6aaa79b93]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/paragraph/2) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+
+[^key-0c3eecd688605aba04b3c3df39146c87]: Textual amendment: Word in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/part/2) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/5/a/ii)
+
+[^key-e98caf34fa88776b331e2e9b7860350c]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/part/3) in force at 1.1.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/1/3)
+
+[^key-64a9a63ca29cc01ffc05ec4e998cb613]: Textual amendment: Word in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/wsi/2017/1103/schedule/2/part/3) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 6(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/6/5/b/ii)
+
+[^f01000]: Footnote: (1)
+
+    Section 35(1) is amended by paragraph 42 of Schedule 26 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) from a date to be appointed. There are other amendments to section 35(1) not relevant to these Regulations.
+
+[^f01001]: Footnote: (2)
+
+    Section 36A was inserted by section 40(1) of, and paragraphs 7 and 16 of Schedule 5 to, the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28).

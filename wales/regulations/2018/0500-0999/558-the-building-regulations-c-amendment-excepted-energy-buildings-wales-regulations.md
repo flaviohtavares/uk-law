@@ -1,0 +1,590 @@
+---
+title: The Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018
+id: wsi/2018/558
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-04-30'
+text_date: '2025-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2018/558
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2018/558/pdfs/wsi_20180558_mi.pdf
+- http://www.legislation.gov.uk/wsi/2018/558/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018
+
+> Text as at 2025-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2018 No. 558 (W. 97)
+
+Building And Buildings, Wales
+
+The Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018
+
+Made
+
+30th April 2018
+
+Laid before the National Assembly for Wales
+
+4th May 2018
+
+Coming into force
+
+8th June 2018
+
+The Welsh Ministers are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the design and construction of buildings and in relation to services, fittings and equipment provided in or in connection with those buildings.
+
+The Welsh Ministers, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, and on the Secretary of State by sections 1, 1A, 2, 2A, 3, 16, 17, 34, 35, 47, 49, 50, 51, 51A, 52 and 54 of, and paragraphs 1, 2, 4, 4A, 6, 7, 8 and 10 of Schedule 1 to, and paragraphs 2 and 3 of Schedule 4 to, the Building Act 1984[^f00003], and now exercisable by them[^f00004],having consulted the Building Regulations Advisory Committee for Wales and such other bodies as appear to them to be representative of the issues concerned in accordance with section 14(7) of that Act[^f00005] make the following Regulations:
+
+## PART 1 — Preliminary
+
+### 1. Title, commencement, application and interpretation[^key-6ac07581f97e5ad20abd1d252529d524]
+
+(1) The title of these Regulations is the Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018.
+
+(2) These Regulations come into force on 8 June 2018.
+
+(3) These Regulations apply in relation to excepted energy buildings in Wales.
+
+(4) In these Regulations “excepted energy buildings” (“*adeiladau ynni a eithrir*”) has the meaning given in the Schedule to the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009[^f00006].
+
+## PART 2 — The Building Regulations 2010
+
+### 2. Amendment to the Building Regulations 2010[^key-7abcec97edd9200be957c996635cb3a5]
+
+The Building Regulations 2010[^f00007] are amended as set out in regulations 3 to 16.
+
+### 3. Part 1 (general)[^key-7e6c604d40b0285afd26575ecddf13ef]
+
+In regulation 2 (interpretation) in paragraph (1)—
+
+- (a) in the definition of “energy efficiency requirements”—
+  - (i) after “26A,” insert “26B,”;
+  - (ii) for “40 and 43” substitute “and 40”;
+- (b) omit “excepted energy building”, “new dwelling”, “optional requirement” and “planning permission” and their respective definitions.
+
+### 4. Part 2 (control of building work)[^key-2085e5ca1b68e37564ec99d517fe8916]
+
+(1) In regulation 4 (requirements relating to building work)—
+
+- (a) in paragraph (1)(b) omit the words from “, except as may” to the end;
+- (b) omit paragraphs (1A) to (1D).
+
+(2) In regulation 6 (requirements relating to material change of use)—
+
+- (a) in paragraph (1)—
+  - (i) in sub-paragraph (i) for “M1 (access to and use of buildings other than dwellings)” substitute “M1 (access and use)”;
+  - (ii) omit sub-paragraph (j);
+- (b) in paragraph (2)—
+  - (i) at the end of sub-paragraph (c) insert “and”;
+  - (ii) omit sub-paragraph (e).
+
+(3) In regulation 8 (limitation on requirements) after “K” insert “, N”.
+
+(4) In regulation 9 (exempt buildings and work)—
+
+- (a) in paragraph (3)(a) omit “used for domestic purposes”;
+- (b) for paragraph (4) substitute—
+
+  > (4) The requirements of paragraph R1 of Schedule 1 apply to buildings controlled under other legislation falling within class 1 in Schedule 2.
+
+(5) In regulation 11(3) (power to dispense with or relax requirements)—
+
+- (a) after “25B” omit “and”;
+- (b) after “paragraph R1” omit “(in-building physical infrastructure for high-speed electronic communications networks)”.
+
+### 5. Part 3 (notices, plans and certificates)[^key-635aafcbfdf02790ddbbb3b75bcdd56a]
+
+(1) In regulation 12 (giving of a building notice or deposit of plans)—
+
+- (a) in paragraph (6)—
+  - (i) at the end of sub-paragraph (a) insert “or”;
+  - (ii) at the end of sub-paragraph (b) omit “;or”;
+  - (iii) omit sub-paragraph (c);
+- (b) omit paragraph (6A);
+- (c) in paragraph (9)—
+  - (i) at the end of the definition of “private street” omit “and”;
+  - (ii) omit “special location” and its definition.
+
+(2) In regulation 13 (particulars and plans where a building notice is given)—
+
+- (a) in paragraph (1)—
+  - (i) at the end of sub-paragraph (b) insert “and”;
+  - (ii) at the end of sub-paragraph (c) omit “; and”;
+  - (iii) omit sub-paragraph (d);
+- (b) omit paragraph (1A).
+
+(3) In regulation 14 (full plans) in paragraph (3)(a) omit “, (1A)”.
+
+(4) In regulation 16 (notice of commencement and completion of certain stages of work)—
+
+- (a) for paragraphs (2) and (3) substitute—
+
+  > (2) Subject to paragraph (8), a person carrying out building work shall not—
+  >
+  > - (a) cover up any excavation for a foundation, any foundation, any damp-proof course or any concrete or other material laid over a site; or
+  > - (b) cover up in any way any drain or sewer to which these Regulations apply, unless that person has given the local authority notice of intention to commence that work, and at least one day has elapsed since the end of the day on which the notice was given.
+  >
+  > (3) Subject to paragraph (8), a person who has laid, haunched or covered any drain or sewer in respect of which Part H of Schedule 1 (drainage and waste disposal) imposes a requirement shall give notice to that effect to the local authority not more than five days after the completion of the work.
+
+  ;
+- (b) omit paragraphs (3A) and (3B);
+- (c) in paragraph (6) for “or (2)” substitute “to (3)”.
+
+(5) In regulation 17 (completion certificates) in paragraph (2A)—
+
+- (a) in sub-paragraph (c) for “(target fabric energy efficiency requirements for new dwellings)” substitute “(primary energy consumption rates for new buildings)”;
+- (b) after sub-paragraph (c) insert—
+
+  > - (ca) regulation 26B (fabric performance values for new dwellings),
+
+  .
+
+### 6. Part 5 (self-certification schemes and third party certification schemes)[^key-76511fa44c034e593fb615a6f144b4e6]
+
+(1) In the heading of Part 5 omit “and third party certification schemes”.
+
+(2) In regulation 20 (provisions applicable to self- certification schemes)—
+
+- (a) after paragraph (3B) insert—
+
+  > (3C) Such a statement that relates to a part of the work must specify which part was paid for using the green deal plan.
+
+  ;
+- (b) at the end of paragraph (5) insert “, and the certificate shall contain this wording”.
+
+(3) Omit regulation 20A (provisions applicable to third party certification schemes).
+
+### 7. Part 6 (energy efficiency requirements)[^key-0025f715f446de87c1d097b7777c537c]
+
+(1) In regulation 21 (application of energy efficiency requirements) in paragraph (4)—
+
+- (a) at the end of sub-paragraph (a) omit “or”;
+- (b) at the end of sub-paragraph (b) insert “to heat the conservatory or porch; or”;
+- (c) after sub-paragraph (b) insert—
+
+  > - (c) in which a fixed heating appliance has been provided to heat the conservatory or porch.
+
+(2) For regulation 25 (minimum energy performance requirements for new buildings) substitute—
+
+> **25.** The Welsh Ministers shall approve minimum energy performance requirements for new buildings, in the form of target CO² emission rates, which shall be calculated and expressed in accordance with the methodology approved pursuant to regulation 24.
+
+(3) After regulation 25B (nearly zero-energy requirements for new buildings) insert—
+
+> **25C. New buildings: minimum energy performance requirements**
+>
+> Minimum energy performance requirements must be approved by the Welsh Ministers, calculated and expressed in accordance with the methodology approved pursuant to regulation 24, for—
+>
+> - (a) new buildings (other than new dwellings), in the form of target primary energy consumption rates; and
+> - (b) new dwellings, in the form of target fabric performance values.
+
+(4) For regulation 26A (fabric energy efficiency rate) and the heading before it substitute—
+
+> **26A. Primary energy consumption rates for new buildings**
+>
+> Where a building (other than a dwelling) is erected, it must not exceed the target primary energy consumption rate for the building which has been approved pursuant to regulation 25C(a), applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24.
+
+(5) After regulation 26A insert—
+
+> **26B. Fabric performance values for new dwellings**
+>
+> Where a dwelling is erected, it must not exceed the target fabric performance values for the dwelling which have been approved pursuant to regulation 25C(b), applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24.
+
+(6) In regulation 27A (fabric energy efficiency rates calculations)—
+
+- (a) for the heading substitute “Primary energy consumption rate calculations”;
+- (b) in paragraph (1) for “dwelling” substitute “building (other than a dwelling)”;
+- (c) in paragraphs (2) and (3) in each place where it occurs for “shall” substitute “must”;
+- (d) in paragraphs (2)(a) and (b) and (3)(a)(i) and (ii) in each place where it occurs for “fabric efficiency rate for the dwelling” substitute “primary energy consumption rate for the building”;
+- (e) in paragraphs (2)(c) and (3)(a)(iii) in each place where it occurs for “dwelling” substitute “building”;
+- (f) in paragraph (5) for “fabric energy efficiency rate” substitute “primary energy consumption rate”.
+
+(7) After regulation 27A insert—
+
+> **27B. Fabric performance values calculations**
+>
+> (1) This regulation applies where a dwelling is erected and regulation 26B applies.
+>
+> (2) Not later than the day before the work starts, the person carrying out the work must give the local authority a notice which specifies—
+>
+> - (a) the target fabric performance values for the dwelling, calculated and expressed in accordance with the methodology approved pursuant to regulation 24;
+> - (b) the fabric performance values for the dwelling as designed, calculated and expressed in accordance with the methodology approved pursuant to regulation 24; and
+> - (c) a list of specifications to which the dwelling is to be constructed.
+>
+> (3) Not later than five days after the work has been completed, the person carrying out the work must give the local authority—
+>
+> - (a) a notice which specifies—
+>   - (i) the target fabric performance values for the dwelling, calculated and expressed in accordance with the methodology approved pursuant to regulation 24;
+>   - (ii) the fabric performance values for the dwelling as constructed, calculated and expressed in accordance with the methodology approved pursuant to regulation 24; and
+>   - (iii) whether the dwelling has been constructed in accordance with the list of specifications referred to in paragraph 2(c), and if not a list of any changes to those specifications; or
+> - (b) a certificate of the sort referred to in paragraph (4) accompanied by the information referred to in sub-paragraph (a).
+>
+> (4) A local authority is authorised to accept, as evidence that the requirements of regulation 26B have been satisfied, a certificate to that effect by an energy assessor who is accredited to produce energy performance certificates for that category of building.
+>
+> (5) In this regulation, “specifications” means specifications used for the calculation of the fabric performance values.
+
+(8) For regulation 28 (consequential improvements to energy performance) substitute—
+
+> **28.** (1) Paragraph (3) applies to an existing building with a total useful floor area over 1000m² where the proposed building work consists of or includes—
+>
+> - (a) the initial provision of any fixed building services; or
+> - (b) an increase to the installed capacity of any fixed building services.
+>
+> (2) Paragraph (3) applies to an existing building where the proposed building work consists of or includes—
+>
+> - (a) an extension; or
+> - (b) the extension of the building’s heating system or the provision of a fixed heating appliance, to heat a previously unheated space.
+>
+> (3) Subject to paragraph (4), where this paragraph applies, such work, if any, shall be carried out as is necessary to ensure that the building complies with the requirements of Part L of Schedule 1.
+>
+> (4) Nothing in paragraph (3) requires work to be carried out if it is not technically, functionally and economically feasible.
+
+(9) In regulation 34 (application of building regulations to educational buildings, buildings of statutory undertakers or crown buildings) for “25(a)” substitute “25”.
+
+(10) In regulation 35 (interpretation of Part 6) omit “fabric energy efficiency” and “new dwelling” and their respective definitions.
+
+### 8. Part 7 (water efficiency)[^key-221f8369bee71db0d2d3687d780c8aaa]
+
+(1) For regulation 36 (water efficiency of new dwellings) substitute—
+
+> **36.** (1) The potential consumption of wholesome water by persons occupying a dwelling to which this regulation applies must not exceed 125 litres per person per day, calculated in accordance with the methodology approved by the Welsh Ministers.
+>
+> (2) This regulation applies to a dwelling which is—
+>
+> - (a) erected; or
+> - (b) formed by a material change of use of a building within the meaning of regulation 5(a) or (b).
+
+(2) For paragraph (1) of regulation 37 (wholesome water consumption calculation) substitute—
+
+> (1) Where regulation 36 applies, the person carrying out the work must give the local authority a notice which specifies the potential consumption of wholesome water per person per day calculated in accordance with the methodology referred to in that regulation in relation to the completed dwelling.
+
+### 9. Part 7A Automatic Fire Suppression Systems[^key-c48ba662ebff6b7db626dd7ce30135b7]
+
+After Part 7 insert—
+
+> **PART 7A — Automatic Fire Suppression Systems**
+>
+> **37A. Provision of automatic fire suppression systems**
+>
+> (1) This regulation applies where building work consists of the erection or material change of use of a building in relation to—
+>
+> - (a) care homes, which means places at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to persons aged 18 or over;
+> - (b) rooms for residential purposes other than rooms in—
+>   - (i) a hostel providing temporary accommodation to those who are ordinarily resident elsewhere;
+>   - (ii) an hotel;
+>   - (iii) a prison or young offender institution; and
+>   - (iv) a hospital;
+> - (c) dwelling-houses and flats,
+>
+> subject to paragraphs (4) and (5).
+>
+> (2) For the purposes of this regulation a material change of use comprises or includes a change of use within regulation 5 (a), (b), (c), (d), (g), (h) or (i).
+>
+> (3) A building to which this regulation applies must be provided with an automatic fire suppression system which is installed and operates in accordance with the requirements set in regulation 37B.
+>
+> (4) This regulation does not apply to buildings which are—
+>
+> - (a) listed in accordance with section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00008];
+> - (b) in a conservation area designated in accordance with section 69 of that Act; or
+> - (c) included in the schedule of monuments maintained under section 1 of the Ancient Monuments and Archaeological Areas Act 1979[^f00009],
+>
+> where installation of a fire suppression system would unacceptably alter their character or appearance.
+>
+> (5) This regulation does not apply to temporary buildings with a planned time of use of two years or less.
+>
+> **37B. Requirements of automatic fire suppression systems**
+>
+> For the purposes of regulation 37A(3), the requirements of an automatic fire suppression system are the requirements set out in any document approved and issued under section 6 of the Building Act 1984 for the purpose of providing practical guidance as to the requirements of regulation 37A.
+
+### 10. Part 9 (testing and commissioning)[^key-a90566bc9419b63511a1948327338091]
+
+In regulation 43 (pressure testing) in paragraph (2) omit “and regulation 26A”.
+
+### 11. Part 9A (physical infrastructure for high-speed electronic communications networks)[^key-d8f476cd5bf379c0262ccb0cd491f50c]
+
+(1) For regulation 44A (application of paragraph R1 of Schedule 1 to educational buildings, buildings of statutory undertakers and Crown buildings) substitute—
+
+> **44A.** The requirements of paragraph R1 (in-building physical infrastructure for high-speed electronic communications networks) of Schedule 1 apply to—
+>
+> - (a) educational buildings and buildings of statutory undertakers, falling within paragraphs (a), (b) or (c) of section 4(1) of the Act (notwithstanding section 4(1) of the Act);
+> - (b) Crown buildings; and
+> - (c) building work carried out or proposed to be carried out by Crown authorities.
+
+(2) In regulation 44B (exemptions from paragraph R1 of Schedule 1) in paragraph (a)—
+
+- (a) at the end of sub-paragraph (i) omit “or”;
+- (b) at the end of sub- paragraph (ii) insert “or”;
+- (c) after sub-paragraph (ii) insert—
+
+  > - (iii) included in the schedule of monuments maintained under section 1 of the Ancient Monuments and Archaeological Areas Act 1979,
+
+  .
+
+### 12. Part 10 (miscellaneous)[^key-657baba8acac2a93369b4b88a7b08e80]
+
+For regulation 47 (contravention of certain regulations not to be an offence) substitute—
+
+> **47.** Regulations 17, 17A, 25A, 27, 27A, 27B, 37, 41, 42, 43 and 44 are designated as provisions to which section 35 of the Act (penalty for contravening building regulations) does not apply.
+
+### 13. Schedule 1 (requirements in relation to building work)[^key-3fe8130022cd3f31c0c5852264b4429d]
+
+In Schedule 1—
+
+- (a) in Part H (drainage and waste disposal), in sub-paragraph (a) of the second column of requirement H3(2) (rainwater drainage)—
+  - (i) for “M1 (access to and use of buildings other than dwellings)” substitute “M1 (access and use), or”;
+  - (ii) omit “, or requirement M4(1), (2) or (3) (access to and use of dwellings)”;
+- (b) for Part K (protection from falling, collision and impact) substitute—
+
+  > <table>
+  > <tbody>
+  > <tr><th colspan="2">PART K PROTECTION FROM FALLING, COLLISION AND IMPACT</th></tr>
+  > <tr><th colspan="2">Stairs, ladders and ramps</th></tr>
+  > <tr><td><strong>K1.</strong> Stairs, ladders and ramps shall be so designed, constructed and installed as to be safe for people moving between different levels in or about the building.</td><td>Requirement K1 applies only to stairs, ladders and ramps which form part of the building.</td></tr>
+  > <tr><th colspan="2">Protection from falling</th></tr>
+  > <tr><td><strong>K2.</strong> (a) Any stairs, ramps, floors and balconies and any roof to which people have access, and<br>(b) any light well, basement area or similar sunken area connected to a building,<br>shall be provided with barriers where it is necessary to protect people in or about the building from falling.</td><td>Requirement K2(a) applies only to stairs and ramps which form part of the building.</td></tr>
+  > <tr><th colspan="2">Vehicle barriers and loading bays</th></tr>
+  > <tr><td><strong>K3.</strong>—(1) Vehicle ramps and any levels in a building to which vehicles have access, shall be provided with barriers where it is necessary to protect people in or about the building.<br>(2) Vehicle loading bays shall be constructed in such a way, or be provided with such features, as may be necessary to protect people in them from collision with vehicles.</td><td></td></tr>
+  > <tr><th colspan="2">Protection from collision with open windows etc.</th></tr>
+  > <tr><td><strong>K4.</strong> Provision shall be made to prevent people moving in or about the building from colliding with open windows, skylights or ventilators.</td><td>Requirement K4 does not apply to dwellings.</td></tr>
+  > <tr><th colspan="2">Protection against impact from and trapping by doors</th></tr>
+  > <tr><td><strong>K5.</strong>—(1) Provision shall be made to prevent any door or gate—<br>(a) which slides or opens upwards, from falling onto any person; and<br>(b) which is powered, from trapping any person.<br>(2) Provision shall be made for powered doors and gates to be opened in the event of a power failure.<br>(3) Provision shall be made to ensure a clear view of the space on either side of a swing door or gate.</td><td>Requirement K5 does not apply to—<br>(a) dwellings, or<br>(b) any door or gate which is part of a lift.</td></tr>
+  > </tbody>
+  > </table>
+- (c) for Part M (access and use of building) substitute—
+
+  > <table>
+  > <tbody>
+  > <tr><th colspan="2">PART M ACCESS TO AND USE OF BUILDINGS</th></tr>
+  > <tr><th colspan="2">Access and use</th></tr>
+  > <tr><td><strong>M1.</strong> Reasonable provision shall be made for people to—<br>(a) gain access to, and<br>(b) use the building and its facilities.</td><td>The requirements of this Part do not apply to—<br>(a) an extension of or material alteration of a dwelling; or<br>(b) any part of a building which is used solely to enable the building or any service or fitting in the building to be inspected, repaired or maintained.</td></tr>
+  > <tr><th colspan="2">Access to extensions to buildings other than dwellings</th></tr>
+  > <tr><td><strong>M2.</strong> Suitable independent access shall be provided to the extension where reasonably practicable.</td><td>Requirement M2 does not apply where suitable access to the extension is provided through the building that is extended.</td></tr>
+  > <tr><th colspan="2">Sanitary conveniences in extensions to buildings other than dwellings</th></tr>
+  > <tr><td><strong>M3.</strong> If sanitary conveniences are provided in any building that is to be extended, reasonable provision shall be made within the extension for sanitary conveniences.</td><td rowspan="3">Requirement M3 does not apply where there is reasonable provision for sanitary conveniences elsewhere in the building, such that people occupied in, or otherwise having occasion to enter the extension, can gain access to and use those sanitary conveniences.</td></tr>
+  > <tr><td><strong>Sanitary conveniences in dwellings</strong></td></tr>
+  > <tr><td><strong>M4.</strong>—(1) Reasonable provision shall be made in the entrance storey for sanitary conveniences, or where the entrance storey contains no habitable rooms, reasonable provision for sanitary conveniences shall be made in either the entrance storey or principal storey.<br>(2) In this paragraph “entrance storey” means the storey which contains the principal entrance and “principal storey” means the storey nearest to the entrance storey which contains a habitable room, or if there are two such storeys equally near, either such storey.</td></tr>
+  > </tbody>
+  > </table>
+- (d) after Part M insert—
+
+  > <table>
+  > <tbody>
+  > <tr><th colspan="2">PART N GLAZING — SAFETY IN RELATION TO IMPACT, OPENING AND CLEANING</th></tr>
+  > <tr><th colspan="2">Protection against impact</th></tr>
+  > <tr><td><strong>N1.</strong> Glazing, with which people are likely to come into contact whilst moving in or about the building shall—<br>(a) if broken on impact, break in a way which is unlikely to cause injury; or<br>(b) resist impact without breaking; or<br>(c) be shielded or protected from impact.</td><td></td></tr>
+  > <tr><th colspan="2">Manifestation of glazing</th></tr>
+  > <tr><td><strong>N2.</strong> Transparent glazing, with which people are likely to come into contact while moving in or about the building, shall incorporate features which make it apparent.</td><td>Requirement N2 does not apply to dwellings.</td></tr>
+  > <tr><th colspan="2">Safe opening and closing of windows etc.</th></tr>
+  > <tr><td><strong>N3.</strong> Windows, skylights and ventilators which can be opened by people in or about the building shall be so constructed or equipped that they may be opened, closed or adjusted safely.</td><td>Requirement N3 does not apply to dwellings.</td></tr>
+  > <tr><th colspan="2">Safe access for cleaning windows etc.</th></tr>
+  > <tr><td><strong>N4</strong>. Provision shall be made for any windows, skylights, or any transparent or translucent walls, ceilings or roofs to be safely accessible for cleaning.</td><td>Requirement N4 does not apply to—<br>(a) dwellings; or<br>(b) any transparent or translucent elements whose surfaces are not intended to be cleaned.</td></tr>
+  > </tbody>
+  > </table>
+- (e) omit Part Q (security).
+
+### 14. Schedule 2 (exempt buildings and work)[^key-34adbdd18de45cfb0aa6f7e9f716b8cf]
+
+In Class 7 (extensions) for “Part K4, K5.1, K5.2, K5.3, and K5.4” substitute “Part N”.
+
+### 15. Schedule 3A (third party certification schemes and exemptions from requirement to give building notice or deposit full plans)[^key-950ddd6ae0f0cf2f3234b9d680228331]
+
+Omit Schedule 3A.
+
+### 16. Schedule 4 (descriptions of work where no building notice or deposit of full plans required)[^key-94763f58170bafbdc11f3c62962c16c0]
+
+(1) In paragraph 1—
+
+- (a) after “work consisting of” insert—
+
+  > - (a) replacing any fixed electrical equipment which does not include the provision of—
+  >   - (i) any new fixed cabling, or
+  >   - (ii) a consumer unit;
+  > - (b) replacing a damaged cable for a single circuit only;
+  > - (c) re-fixing or replacing enclosures of existing installation components, where the circuit protective measures are unaffected;
+  > - (d) providing mechanical protection to an existing fixed installation, where the circuit protective measures and current carrying capacity of conductors are unaffected by the increased thermal insulation;
+  > - (e) installing or upgrading main or supplementary equipotential bonding;
+
+  ;
+- (b) in sub-paragraph (g)—
+  - (i) in paragraph (i) omit “(other than a fixed flueless gas cooker)”;
+  - (ii) in paragraph (ii) for “12(6A)” substitute “12(6)(b)”.
+
+(2) After paragraph 1 insert—
+
+> **2.** Work which—
+>
+> - (a) is not in a kitchen, or a special location;
+> - (b) does not involve work on a special installation; and
+> - (c) consists of—
+>   - (i) adding light fittings and switches to an existing circuit, or
+>   - (ii) adding socket outlets and fused spurs to an existing ring or radial circuit.
+>
+> **3.** Work on—
+>
+> - (a) telephone wiring or extra-low voltage wiring for the purposes of communications, information technology, signalling, control and similar purposes, where the wiring is not in a special location;
+> - (b) equipment associated with the wiring referred to in sub-paragraph (a);
+> - (c) pre-fabricated equipment sets and associated flexible leads with integral plug and socket connections.
+
+(3) In paragraph 4 at the appropriate places insert—
+
+> - “kitchen” means a room or part of a room which contains a sink and food preparation facilities;
+
+;
+
+> - “special installation” means an electric floor or ceiling heating system, an outdoor lighting or electric power installation, an electricity generator, or an extra-low voltage lighting system which is not a pre-assembled lighting set bearing the CE marking referred to in regulation 39 of the Electrical Equipment (Safety) Regulations 2016” [^f00010];
+
+;
+
+> - “special location” means a location within the limits of the relevant zones specified for a bath, a shower, a swimming or paddling pool or a hot air sauna in the Wiring Regulations, seventeenth edition, published by the Institution of Electrical Engineers and the British Standards Institution as BS 7671: 2008[^f00011].
+
+## PART 3 — The Building (Approved Inspectors etc.) Regulations 2010
+
+### 17. Amendments to the Building (Approved Inspectors etc.) Regulations 2010[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Part 1 (general)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Part 2 (grant and withdrawal of approval)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Part 3 (supervision of work by approved inspectors)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Part 4 (application of provisions of the principal regulations)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Schedule 1 (forms)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Schedule 2 (grounds for rejecting an initial notice, an amendment notice, or a plans certificate combined with an initial notice)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Schedule 3 (grounds for rejecting a plans certificate or a plans certificate combined with an initial notice)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Schedule 4 (grounds for rejecting a final certificate)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Schedule 5 (grounds for rejecting a public body’s notice, or a combined public body’s notice and plans certificate)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Schedule 6 (grounds for rejecting a public body’s plans certificate, or a combined public body’s notice and plans certificate)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Schedule 7 (grounds for rejecting a public body’s final certificate)[^key-3c3c7b6e167da73f42e328605be6abf7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Transitional Provision
+
+### 29. Transitional provision[^key-b781ddf7418486b2bd059128006fad05]
+
+The amendments made by these Regulations do not apply in any case where before the date these Regulations come into force in relation to an energy excepted building—
+
+- (a) a building notice, an initial notice, a plans certificate or a public body’s notice is given to, or full plans deposited with, a local authority; or
+- (b) building work is being or has been carried out in accordance with any such notice or plans whether with or without any departure from such notice or plans.
+
+Lesley Griffiths
+
+Cabinet Secretary for Energy, Planning and Rural Affairs, one of the Welsh Ministers
+
+30th April 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Building Regulations 2010 (“the Building Regulations”) and the Building (Approved Inspectors etc.) Regulations 2010 (“the Approved Inspectors Regulations”) in relation to excepted energy buildings in Wales.
+
+Functions under the Building Act 1984 (“the 1984 Act”) to make building regulations and associated matters were transferred to the Welsh Ministers by the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009 which came into force on 31 December 2011. An exclusion from the transfer was made in relation to “excepted energy buildings” which has the meaning given by the Schedule to that Order.
+
+Amendments to the Building Regulations and the Approved Inspectors Regulations made by the Secretary of State from 31 December 2011 applied in relation to England and to excepted energy buildings in Wales. Amendments to those Regulations made by the Welsh Ministers from 31 December 2011 applied in relation to Wales other than to excepted energy buildings.
+
+Section 54 of the Wales Act 2017 removes the exclusion in relation to excepted energy buildings by making the necessary provision for the transfer of functions under the 1984 Act for that category of buildings from 1 April 2018.
+
+The effect of the amendments made by these Regulations is to bring provisions in the Building Regulations and Approved Inspectors Regulations in relation to excepted energy buildings in Wales in line with provisions applying to other buildings in Wales.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [S.1. 2016/161](https://www.legislation.gov.uk/uksi/2016/161).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3 of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00003]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Section 1 was amended by section 1 of the Sustainable and Secure Buildings Act [2004 (c. 22)](https://www.legislation.gov.uk/ukpga/2004/22) (“the 2004 Act”); sections 1A and 2A were inserted by sections 2 and 4 of the 2004 Act respectively; section 16 was amended by the Statute Law (Repeals) Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), sections 47 and 52 were amended by [S.I. 1996/1905](https://www.legislation.gov.uk/uksi/1996/1905) and section 8 of the 2004 Act; sections 50 and 51 were amended, and section 51A was inserted, by [S.I. 1996/1905](https://www.legislation.gov.uk/uksi/1996/1905); Paragraph 4A was inserted into Schedule 1 by section 8 of the 2004 Act; paragraph 7 of Schedule 1 was amended by section 3 of the 2004 Act and by section 11 of the Climate Change and Sustainable Energy Act [2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19); and paragraph 8 of Schedule 1 was amended by section 3 of the 2004 Act and section 40 of the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
+
+[^f00004]: Footnote: Functions conferred or imposed on the Secretary of State by or under the Building Act 1984 (“the 1984 Act”) were, so far as exercisable in relation to Wales, transferred to the Welsh Ministers by the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009 ([S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019)) (“the 2009 Order”) subject to articles 3 and 4 of that Order. Article 3(a) of the 2009 Order provided that functions were not transferred so far as they were exercisable in relation to an excepted energy building as defined by the Schedule to that Order. Section 54 of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) removed this exclusion by making the necessary provision for the transfer of functions under the 1984 Act for that category of buildings.
+
+[^f00005]: Footnote: Section 14(7) was added by the 2009 Order.
+
+[^key-6ac07581f97e5ad20abd1d252529d524]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2018/558/regulation/1) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^f00006]: Footnote: [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
+
+[^key-7abcec97edd9200be957c996635cb3a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2018/558/regulation/2) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^f00007]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214); relevant amending instruments in relation to excepted energy buildings in Wales are [S.I. 2012/718](https://www.legislation.gov.uk/uksi/2012/718), [2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/181](https://www.legislation.gov.uk/uksi/2013/181), [2013/1105](https://www.legislation.gov.uk/uksi/2013/1105), [2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [2014/579](https://www.legislation.gov.uk/uksi/2014/579), [2015/767](https://www.legislation.gov.uk/uksi/2015/767), [2016/285](https://www.legislation.gov.uk/uksi/2016/285) and [2016/490](https://www.legislation.gov.uk/uksi/2016/490) and in relation to other buildings in Wales are [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181), [2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747), [2013/2730 (W. 264)](https://www.legislation.gov.uk/wsi/2013/2730), [2014/110 (W. 10)](https://www.legislation.gov.uk/wsi/2014/110), [2016/361 (W. 113)](https://www.legislation.gov.uk/wsi/2016/361) and [2016/611 (W. 168)](https://www.legislation.gov.uk/wsi/2016/611).
+
+[^key-7e6c604d40b0285afd26575ecddf13ef]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2018/558/regulation/3) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-2085e5ca1b68e37564ec99d517fe8916]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2018/558/regulation/4) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-635aafcbfdf02790ddbbb3b75bcdd56a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2018/558/regulation/5) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-76511fa44c034e593fb615a6f144b4e6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2018/558/regulation/6) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-0025f715f446de87c1d097b7777c537c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2018/558/regulation/7) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-221f8369bee71db0d2d3687d780c8aaa]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2018/558/regulation/8) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-c48ba662ebff6b7db626dd7ce30135b7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2018/558/regulation/9) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^f00008]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). Section 1 was amended by section 26 of the Historic Environment (Wales) Act [2016 (anaw 4)](https://www.legislation.gov.uk/anaw/2016/4) (“the 2016 Act”). Other amendments are not relevant.
+
+[^f00009]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46). Section 1 was amended by section 4 of the 2016 Act. Other amendments are not relevant.
+
+[^key-a90566bc9419b63511a1948327338091]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2018/558/regulation/10) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-d8f476cd5bf379c0262ccb0cd491f50c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2018/558/regulation/11) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-657baba8acac2a93369b4b88a7b08e80]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2018/558/regulation/12) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-3fe8130022cd3f31c0c5852264b4429d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2018/558/regulation/13) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-34adbdd18de45cfb0aa6f7e9f716b8cf]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2018/558/regulation/14) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-950ddd6ae0f0cf2f3234b9d680228331]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2018/558/regulation/15) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^key-94763f58170bafbdc11f3c62962c16c0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2018/558/regulation/16) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+
+[^f00010]: Footnote: [S.I. 2016/1101](https://www.legislation.gov.uk/uksi/2016/1101).
+
+[^f00011]: Footnote: ISBN 978-0-86341-844-0.
+
+[^key-3c3c7b6e167da73f42e328605be6abf7]: Textual amendment: [Regs. 17-28](https://www.legislation.gov.uk/wsi/2018/558/regulation/17) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(e)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/e)
+
+[^key-b781ddf7418486b2bd059128006fad05]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2018/558/regulation/29) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)

@@ -1,0 +1,1030 @@
+---
+title: The Single Use Carrier Bags Charge (Wales) Regulations 2010
+id: wsi/2010/2880
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-11-30'
+text_date: '2020-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2010/2880
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2010/2880/pdfs/wsi_20102880_mi.pdf
+- http://www.legislation.gov.uk/wsi/2010/2880/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Single Use Carrier Bags Charge (Wales) Regulations 2010
+
+> Text as at 2020-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 2880 (W.238)
+
+ENVIRONMENTAL PROTECTION, WALES
+
+The Single Use Carrier Bags Charge (Wales) Regulations 2010
+
+Made
+
+30 November 2010
+
+Coming into force
+
+1 October 2011
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by sections 77(2) and 90(3)(a) and (b) of, and paragraphs 1, 2, 3(1)(a) and (2)(a), 4 to 8, 9(1) and (2), 10, 12, 16 to 19 and 21 of Schedule 6 to, the Climate Change Act 2008 [^c20653461].
+
+The Welsh Ministers are satisfied in accordance with paragraph 23 of Schedule 6 to that Act that every county council and county borough council in Wales will act in accordance with the principles referred to in that paragraph when exercising a power conferred by these Regulations to impose a civil sanction.
+
+A draft of these Regulations has been laid before, and approved by resolution of, the National Assembly for Wales pursuant to section 77(4)(a) and (b) of, and paragraph 27(3) [^c20653471] of Schedule 6 to, the Climate Change Act 2008.
+
+## PART 1 — Introduction
+
+### 1. Title, commencement and application
+
+(1) The title of these Regulations is the Single Use Carrier Bags Charge (Wales) Regulations 2010.
+
+(2) These Regulations apply in relation to Wales and come into force on 1 October 2011.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “the charge” (“[^key-372496861b318d381af88935f0953752]*y tâl*”) means the minimum consideration that must be paid by a customer by virtue of regulation 6(2);
+- “consideration” (“[^key-cba15e27c76f7f4f9fe80511171f028a]*cydnabyddiaeth*”) includes any chargeable VAT;
+- “**enforcement costs recovery notice**” (“***hysbysiad adennill costau gorfodi***”) has the meaning given in regulation 16(1);
+- “**functions**” (“***swyddogaethau***”) includes powers and duties;
+- “**late payment penalty**” (“***cosb am dalu'n hwyr***”) means any increase in an amount payable—
+  - (a) as a fixed monetary penalty, by virtue of paragraph 10 of Schedule 2;
+  - (b) as a variable monetary penalty, by virtue of paragraph 9 of Schedule 3;
+  - (c) as a non-compliance penalty, by virtue of paragraph 8 of Schedule 4;
+- “**non-compliance penalty notice**” (“***hysbysiad o gosb am beidio â chydymffurfio***”) has the meaning given in paragraph 5(4) of Schedule 4;
+- “**record**” (“***cofnod***”) means the information specified in regulation 8(3);
+- “**reporting year**” (“***blwyddyn adrodd***”) means—
+  - (a) the period starting on the date on which these Regulations come into force and ending on 6 April 2012;
+  - (b) thereafter, the period commencing 7 April in one year and ending on 6 April the following year; the first such period to commence 7 April 2012;
+- “**specified sum**” (“***swm penodedig***”) has the meaning given in paragraph 4(2) of Schedule 2.
+- VAT” (“*TAW*”) has the meaning given in section 96 of the Value Added Tax Act 1994.
+
+(2) References to—
+
+- (a) a notice of intent in relation to a fixed monetary penalty, are references to a notice of intent served under paragraph 3(1) of Schedule 2;
+- (b) a final notice in relation to a fixed monetary penalty, are references to a final notice served under paragraph 6(5) of Schedule 2;
+- (c) to a notice of intent in relation to a discretionary requirement, are references to a notice of intent served under paragraph 3(1) of Schedule 3;
+- (d) to a final notice in relation to a discretionary requirement, are references to a final notice served under paragraph 5(6) of Schedule 3;
+- (e) to a notice of intent in relation to a non-compliance penalty, are references to a notice of intent served under paragraph 3(1) of Schedule 4.
+
+(3) References to single use carrier bags attracting the charge are references to those single use carrier bags to which regulation 6 applies.
+
+### 3. Meaning of “single use carrier bag”
+
+(1) In these Regulations “**single use carrier bag**” (“***bag siopa untro***”) means a bag fitting the description in paragraph (2) or (3)—
+
+(2) A bag fits the description in this paragraph if—
+
+- (a) it is made wholly or mainly of paper, plant-based material or natural starch; and
+- (b) it is not specifically manufactured for multiple reuse.
+
+(3) A bag fits the description in this paragraph if it is a plastic bag—
+
+- (a) which does not meet all of the specifications in paragraph (4); or
+- (b) which meets all of the specifications in paragraph (4) but is not intended for multiple reuse (*see* paragraph (5)).
+
+(4) The specifications are—
+
+- (a) both of the bag's dimensions are greater than 404 millimetres (“mm”);
+- (b) at least one of the bag's dimensions is greater than 439 mm;
+- (c) the bag is manufactured from material which is greater than 49 microns in thickness.
+
+(5) A plastic bag is intended for multiple reuse if—
+
+- (a) it is purchased by the customer; and
+- (b) when worn out, it is returnable to the seller from whom it was purchased to be replaced free of charge.
+
+(6) In this regulation—
+
+- “**dimensions**” (“***dimensiynau***”) means width or height;
+- “**plastic bag**” (“***bag plastig***”) means a bag which is made wholly or mainly of plastic.
+
+### 4. Meaning of “seller”
+
+(1) In these Regulations “**seller**” (“***gwerthwr***”) means a person who in the course of trade or business—
+
+- (a) sells goods from a place in Wales;
+- (b) sells goods which are delivered to persons in Wales.
+
+But this is subject to paragraph (2).
+
+(2) Where a person (A) sells goods in A's capacity as an officer or employee of another person (B), then for the purposes of these Regulations B is the seller in those circumstances, and not A.
+
+### 5. Administrator
+
+(1) A local authority is to administer the provision made by these Regulations and accordingly, is the administrator for its area [^c20653481].
+
+(2) In paragraph (1) the reference to a local authority is a reference to a county or county borough council.
+
+## PART 2 — The Charge
+
+### 6. Requirement to charge[^key-a037ff775535f6e743368107af49269e]
+
+(1) A seller must charge for every single use carrier bag supplied new—
+
+- (a) at the place in Wales where the goods are sold, for the purpose of enabling the goods to be taken away;
+- (b) for the purpose of enabling the goods to be delivered to persons in Wales.
+
+- This is subject to regulation 7.
+
+(2) The amount that a seller must charge is such amount as ensures that the consideration paid by a customer for each single use carrier bag is not less than 5 pence.
+
+### 7. Exemption from the requirement to charge
+
+Regulation 6 does not apply in relation to the supply of single use carrier bags of the kinds described in Schedule 1 and that Schedule has effect accordingly.
+
+## PART 3 — Records and Publication
+
+### 7A. Application of this Part[^key-1d3002dcecd80b400a5388db22d6dff4]
+
+(1) This Part applies to a seller in relation to any reporting year in which the seller meets the condition in paragraph (2).
+
+(2) The condition is that on the first day of the reporting year the seller employs ten or more full time equivalent members of staff .
+
+### 8. Record-keeping[^key-97b376ad8ce1d87ede91498b3feedf9a]
+
+(1) A seller must keep a record of the information specified in paragraph (3) for every reporting year.
+
+(2) Records must be retained by a seller for a period of three years beginning on 31 May in the reporting year following that to which a record relates.
+
+(3) The information is—
+
+- (a) the number of single use carrier bags supplied which attract the charge;
+- (b) the amount received by way of consideration for single use carrier bags which attract the charge;
+- (c) the amount received by way of the charge;
+- (d) the net proceeds of the charge;
+- (e) a breakdown of how the amount which represents the difference between the amount received by way of the charge and the net proceeds of the charge has been arrived at, including—
+  - (i) the apportionment between any chargeable VAT and reasonable costs;
+  - (ii) the apportionment between different heads of reasonable costs;
+- (f) the uses to which the net proceeds of the charge have been put.
+
+(4) The following are the amounts specified for the purposes of the definition of “net proceeds of the charge” in paragraph 7(4) of Schedule 6 to the Climate Change Act 2008—
+
+- (a) any amount in excess of the charge received by way of consideration for single use carrier bags which attract the charge;
+- (b) any amount of chargeable VAT received by way of the charge;
+- (c) the amount of any reasonable costs.
+
+(5) In this regulation “reasonable costs” (“*costau rhesymol*”) means—
+
+- (a) costs reasonably incurred by a seller to enable the seller to comply with these Regulations;
+- (b) costs reasonably incurred by a seller to enable the seller to communicate information about the charge to customers.
+
+- This is subject to paragraph (6).
+
+(6) In relation to the first reporting year, “reasonable costs” includes costs reasonably incurred by a seller before the date on which these Regulations come into force —
+
+- (a) to enable the seller to comply with these Regulations;
+- (b) to enable the seller to communicate information about the charge to customers.
+
+### 9. Availability of records
+
+(1) This regulation applies where a person mentioned in paragraph (4) requests a seller in writing to supply a record for a reporting year.
+
+(2) If the request is received during the retention period for the record in question, the seller must provide a copy of that record to the person who requested it within 28 days of receiving the written request.
+
+(3) The retention period is the three year period for which any particular record must be retained under regulation 8(2).
+
+(4) The persons are—
+
+- (a) the Welsh Ministers;
+- (b) a member of the public.
+
+### 10. Publication of records
+
+(1) A seller must publish the record for a reporting year if the conditions in paragraph (2) are met by the seller in relation to the reporting year in question.
+
+(2) The conditions are—
+
+- (a) that the seller is a taxable person for the purposes of the Value Added Tax Act 1994;
+- (b) that the seller supplies 1000 or more single use carrier bags which attract the charge.
+
+(3) A seller must publish the record on or before 31 May in the reporting year following that to which the record relates.
+
+(4) The record must remain published until 31 May in the following reporting year.
+
+(5) Publication must be by way of—
+
+- (a) the seller's internet site; or
+- (b) the display of a notice containing the record in all of the seller's premises in Wales to which customers have access.
+
+(6) If a seller publishes the record by way of its internet site—
+
+- (a) the record must be displayed prominently on the seller's home page; or
+- (b) if the record is to be displayed elsewhere on the seller's internet site, a link to the record must be displayed prominently on the seller's home page.
+
+(7) If a seller publishes the record in the way described in paragraph (5)(b), the notice must be displayed in a prominent position so that it is clearly visible to, and readable by, customers.
+
+## PART 4 — Breaches
+
+### 11. Breaches
+
+(1) A seller breaches these Regulations if, as a result of having failed to take all reasonable steps necessary to enable it to do so, a seller fails to comply with a requirement mentioned in paragraph (2).
+
+(2) The requirements are—
+
+- (a) the requirement to charge in accordance with regulation 6;
+- (b) the requirement to keep records in accordance with regulation 8;
+- (c) the requirement to retain records in accordance with regulation 8;
+- (d) the requirement to supply records in accordance with regulation 9;
+- (e) the requirement to publish records in accordance with regulation 10.
+
+(3) A seller breaches these Regulations if, without reasonable cause, a seller—
+
+- (a) gives false or misleading information to an administrator;
+- (b) otherwise obstructs or fails to assist an administrator in the conduct of its functions under these Regulations.
+
+## PART 5 — Civil sanctions
+
+### 12. Civil sanctions
+
+The following Schedules have effect—
+
+- (a) Schedule 2, which makes provision for fixed monetary penalties [^c20653531];
+- (b) Schedule 3, which makes provision for discretionary requirements [^c20653541].
+
+### 13. Combination of penalties
+
+(1)[^key-47c1208b12c3d142f6578ff3bc89078f] An administrator may not serve a notice of intent in relation to a fixed monetary penalty on a seller in any of the following circumstances—
+
+- (a) where a discretionary requirement has been imposed on that seller in relation to the same breach;
+- (b) where the seller has discharged liability to a fixed monetary penalty in respect of the same breach by payment of a specified sum;
+- (c) where a fixed monetary penalty has previously been imposed in respect of the same act or omission.
+
+(2) An administrator may not serve a notice of intent in relation to a discretionary requirement on a seller in any of the following circumstances—
+
+- (a) where a fixed monetary penalty has been imposed on that seller in relation to the same breach;
+- (b) where the seller has discharged liability to a fixed monetary penalty in respect of the same breach by payment of a specified sum;
+- (c) where a discretionary requirement has previously been imposed in respect of the same act or omission.
+
+## PART 6 — Enforcement and Non-compliance
+
+### 14. Enforcement powers
+
+(1) An administrator has the powers of enforcement in this regulation.
+
+(2) The powers are—
+
+- (a) to make test purchases of goods for the purposes of ascertaining whether these Regulations are being complied with;
+- (b) to inspect any goods and to enter any premises at any reasonable time (other than domestic premises) for the purposes of ascertaining whether these Regulations are being complied with;
+- (c) if an administrator reasonably believes that there has been a failure to comply with a requirement of these Regulations—
+  - (i) to question a seller or officers or employees of a seller;
+  - (ii) to require the production of documents or the provision of information.
+
+(3) In this regulation “**domestic premises**” (“***mangre ddomestig***”) means premises used wholly or mainly as a private dwelling.
+
+(4) An administrator seeking to exercise a power under paragraph (2)(b) or (c) must produce evidence of identity and authority if requested by a person who is, or appears to be—
+
+- (a) the seller, or an officer or employee of the seller;
+- (b) an owner or occupier of any premises in which the administrator seeks to exercise the power concerned.
+
+(5) Nothing in paragraph (2) compels the production of any document of which—
+
+- (a) in England and Wales or Northern Ireland, that person would on grounds of legal professional privilege be entitled to withhold production on an order for discovery in an action in the County Court or High Court; or
+- (b) in Scotland, that person would on grounds of confidentiality of communications be entitled to withhold production on an order for the production of documents in an action in the Court of Session.
+
+### 15. Non-monetary discretionary requirements: enforcement
+
+Schedule 4 makes provision for the imposition of monetary penalties in cases where a seller fails to comply with a non-monetary discretionary requirement [^c20653551] and that Schedule has effect accordingly.
+
+### 16. Enforcement costs recovery
+
+(1) An administrator may serve a notice (“an enforcement costs recovery notice”) on a seller on whom a discretionary requirement is imposed requiring that seller to pay the costs incurred by the administrator in relation to the imposition of the discretionary requirement up to the time of its imposition (“enforcement costs”).
+
+(2) Enforcement costs include, in particular—
+
+- (a) investigation costs;
+- (b) administration costs;
+- (c) costs of obtaining expert advice (including legal advice).
+
+(3) An enforcement costs recovery notice must specify the amount required to be paid and must include information as to—
+
+- (a) how payment may be made;
+- (b) the date by which payment must be made;
+- (c) the right of appeal; and
+- (d) the consequences of failure to make payment by the date it is due.
+
+(4) The date referred to in paragraph (3)(b) must be at least 28 days later than the date on which the enforcement costs recovery notice is served on the seller.
+
+(5) Enforcement costs must be paid by the seller by the date specified in the enforcement costs recovery notice.
+
+(6) But paragraph (5) is subject to the remaining provisions of this regulation and to regulation 21(4) (suspension of requirements and notices pending appeal).
+
+(7) If a decision of an administrator under this regulation is the subject of an appeal, then to the extent that that decision is upheld, the seller must pay the enforcement costs within 28 days of the day on which the appeal is determined.
+
+(8) An administrator must provide a detailed breakdown of the costs specified in an enforcement costs recovery notice if requested to do so by the seller on whom the notice is served.
+
+(9) A seller is not liable to pay any costs shown by that seller to have been unnecessarily incurred.
+
+(10) A seller may appeal—
+
+- (a) against a decision of an administrator to impose a requirement to pay costs;
+- (b) against a decision of an administrator as to the amount of those costs.
+
+### 17. Recovery of payments
+
+An administrator may recover any fixed monetary penalty, variable monetary penalty, non-compliance penalty, enforcement costs or late payment penalty—
+
+- (a) as a civil debt;
+- (b) on the order of a court, as if payable under a court order.
+
+### 18. Publicity for imposition of civil sanctions
+
+(1) An administrator may give a publicity notice to a seller on whom a civil sanction has been imposed [^c20653571].
+
+(2) The following is the information specified for the purposes of paragraph 19(2)(b) of Schedule 6 to the Climate Change Act 2008—
+
+- (a) the type of civil sanction concerned;
+- (b) the grounds on which the sanction was imposed;
+- (c) if the sanction was a fixed or variable monetary penalty, the amount of that penalty;
+- (d) if the sanction was a non-monetary discretionary requirement, the nature of the requirement in question.
+
+(3) A publicity notice must—
+
+- (a) specify the manner of publication required;
+- (b) specify the time for compliance with the notice;
+- (c) require the seller to provide evidence of compliance with the notice within a time specified in the notice.
+
+(4) If a seller fails to comply with a publicity notice within the time specified under paragraph (3)(b), the administrator may—
+
+- (a) publicise the information required to be publicised by the notice; and
+- (b) recover the costs of doing so from the seller in question.
+
+(5) Where an administrator publicises information under paragraph (4)(a) it must do so in a way it considers most likely to bring the information to the attention of members of the public in its area.
+
+## PART 7 — Administration
+
+### 19. Scope of administrators' powers
+
+The functions conferred on an administrator by these Regulations are exercisable by an administrator in, and in relation to, its area.
+
+### 20. Withdrawing or amending a notice
+
+(1) An administrator may at any time in writing—
+
+- (a) withdraw a notice of intent or a final notice in relation to a fixed monetary penalty;
+- (b) withdraw a notice of intent or final notice in relation to a variable monetary penalty or reduce the amount specified in the notice;
+- (c) withdraw a notice of intent or a final notice in relation to a non-monetary discretionary requirement or amend the steps specified in the notice so as to reduce the amount of work necessary to comply with the notice;
+- (d) withdraw a notice of intent in relation to a non-compliance penalty or reduce the amount specified in the notice;
+- (e) withdraw a non-compliance penalty notice or reduce the amount specified in the notice;
+- (f) withdraw an enforcement costs recovery notice or reduce the amount specified in the notice.
+
+(2) An administrator must consult the seller in question before withdrawing or amending a notice under paragraph (1).
+
+(3) But paragraph (2) does not apply in any case where it is impracticable to consult the seller concerned.
+
+### 21. Appeals
+
+(1) An appeal under these Regulations is to the First-tier Tribunal [^c20653581] (“**the Tribunal**”).
+
+(2) In any appeal where the commission of a breach is an issue requiring determination, the administrator must prove that breach on the balance of probabilities.
+
+(3) In any other case the Tribunal must determine the standard of proof.
+
+(4) A requirement or notice which is the subject of an appeal is suspended pending the determination of the appeal.
+
+(5) The Tribunal may, in relation to the imposition of a requirement or service of a notice—
+
+- (a) withdraw the requirement or notice;
+- (b) confirm the requirement or notice;
+- (c) take such steps as the administrator could take in relation to the act or omission giving rise to the requirement or notice;
+- (d) remit the decision whether to confirm the requirement or notice, or any matter relating to that decision, to the administrator.
+
+### 22. Guidance as to use of civil sanctions
+
+(1) An administrator must publish guidance about its use of civil sanctions under these Regulations.
+
+(2) The guidance must contain the relevant information (see paragraphs (5) and (6)).
+
+(3) An administrator must revise the guidance where appropriate.
+
+(4) An administrator must have regard to the guidance or revised guidance in exercising its functions.
+
+(5) In the case of guidance relating to a fixed monetary penalty, the relevant information referred to in paragraph (2) is information as to—
+
+- (a) the circumstances in which the penalty is likely to be imposed;
+- (b) the circumstances in which the penalty may not be imposed;
+- (c) the amount of the penalty;
+- (d) how liability for the penalty may be discharged and the effect of discharge;
+- (e) rights to make representations and objections; and
+- (f) rights of appeal.
+
+(6) In the case of guidance relating to a discretionary requirement, the relevant information referred to in paragraph (2) is information as to—
+
+- (a) the circumstances in which the requirement is likely to be imposed;
+- (b) the circumstances in which the requirement may not be imposed;
+- (c) in the case of a variable monetary penalty, the matters likely to be taken into account by the administrator in determining the amount of the penalty (including, where relevant, any discounts for voluntary reporting of non-compliance);
+- (d) rights to make representations and objections; and
+- (e) rights of appeal.
+
+### 23. Additional guidance
+
+(1) An administrator must publish guidance about how it will exercise the powers conferred by regulation 15 and Schedule 4 (non-compliance penalties) and regulation 16 (enforcement costs recovery).
+
+(2) The guidance must include, in particular, information as to—
+
+- (a) the circumstances in which the powers are likely to be exercised;
+- (b) matters to be taken into account in determining the amounts involved;
+- (c) rights of appeal.
+
+(3) An administrator must revise the guidance where appropriate.
+
+(4) An administrator must have regard to the guidance or revised guidance in exercising its functions.
+
+### 24. Consultation on guidance
+
+Before publishing any guidance or revised guidance under these Regulations an administrator must consult—
+
+- (a) the Welsh Ministers;
+- (b) the Local Better Regulation Office;
+- (c) the Confederation of British Industry;
+- (d) the Federation of Small Businesses;
+- (e) the British Retail Consortium.
+
+### 25. Publication of enforcement action
+
+(1) An administrator must from time to time publish reports specifying—
+
+- (a) the cases in which a civil sanction for a breach of these Regulations has been imposed;
+- (b) where the civil sanction is a fixed monetary penalty, the cases in which liability to the penalty has been discharged in accordance with paragraph 4 of Schedule 2 (discharge of liability following notice of intent).
+
+(2) In paragraph (1)(a) the reference to cases in which the civil sanction has been imposed does not include cases where the sanction has been imposed but overturned on appeal.
+
+(3) An administrator must not publish a report in any case where the Welsh Ministers notify the administrator in writing that it would be inappropriate to do so.
+
+Jane Davidson
+
+Minister for Environment, Sustainability and Housing, one of the Welsh Ministers
+
+## SCHEDULE 1
+
+Regulation 7
+
+### 1. Exemptions
+
+(1) The kinds of single use carrier bags to which regulation 6 does not apply are—
+
+- (za)[^key-02bc0651b839f0c06093bd46856984cd] bags used solely to contain one or more items of the following kinds—
+  - (i) unpackaged food for human or animal consumption;
+  - (ii) unpackaged loose seeds, bulbs, corms or rhizomes;
+  - (iii) any unpackaged axe, knife, knife blade or razor blade;
+  - (iv) unpackaged goods contaminated by soil;
+  - (v) items from the categories specified in sub-paragraph (2);
+- (a)[^key-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) bags used solely to contain packaged—
+  - (i) uncooked fish or fish products;
+  - (ii) uncooked meat or meat products;
+  - (iii) uncooked poultry or poultry products,
+
+  and in respect of which the maximum dimensions are 205 millimetres (“mm”) (width) x 125 mm (gusset width) x 458 mm (height inclusive of handles);
+- (f)[^key-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) bags used to contain purchases made on board ships, trains, aircraft, coaches or buses;
+- (h) bags used to contain purchases made in an area designated by the Secretary of State as a security restricted area under section 11A of the Aviation Security Act 1982 [^c20653591];
+- (i)[^key-3a0e61fd088bedd5211cc1ffe3463885] mail order dispatch and courier bags;
+- (j) bags which—
+  - (i) are made wholly from paper;
+  - (ii) have maximum dimensions of 175 mm (width) x 260 mm (height);
+  - (iii) do not have a gusset; and
+  - (iv) do not have a handle;
+- (k) bags which—
+  - (i) are made wholly or mainly from plastic;
+  - (ii) have maximum dimensions of 125 mm (width) x 125 mm (height);
+  - (iii) do not have a gusset; and
+  - (iv) do not have a handle;
+- (l) bags which—
+  - (i) are made wholly from paper;
+  - (ii) have maximum dimensions of 80 mm (width) x 50 mm (gusset width) x 155 mm (height); and
+  - (iii) do not have a handle;
+- (m) gusseted liners used to line or cover boxes, crates or other containers of a similar nature;
+- (n) bags used solely to contain live aquatic creatures in water;
+- (o)[^key-163bd81d00696c3a0121f7bbddf611f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (p)[^key-fd3f49219d71c0e820179c866eea9a87] subject to sub-paragraph (1A), bags intended to be used solely for the purpose of carrying goods purchased—
+  - (i) for delivery as part of a grocery delivery service; or
+  - (ii) for collection as part of a service that provides for collection of groceries.
+
+(1A)[^key-2a3216e4661db7ce3e889a6d4680e068] Bags falling within paragraph (p) of sub-paragraph (1) are exempted from the charge under regulation 6 only until midnight on 31 December 2020[^key-28be84bac6b330392bb92bf67b406e9f].
+
+(2) The specified categories are—
+
+- (a)[^key-171bd60202610a4b698107ed8ab5c907] medicinal products or listed appliances sold in accordance with a prescription issued by a registered medical practitioner, a dentist, a supplementary prescriber, a nurse independent prescriber, an independent nurse prescriber, an optometrist independent prescriber, a pharmacist independent prescriber, a physiotherapist independent prescriber, a podiatrist or a chiropodist independent prescriber , a therapeutic radiographer independent prescriber[^key-7adeae28227e9ac1e091701e798caf58] , a paramedic independent prescriber[^key-637a5b4772eaf65a39bdeff98a25db3a] or an EEA health professional;
+- (b) where sold [^key-4ca625d18f7aa00d2f45720675fb8556]...otherwise than in accordance with paragraph (a), pharmacy medicine.
+
+(3) In this paragraph—
+
+- [^c20653601]“**dentist**” (“***deintydd***”) means a person registered in the dentists register kept under section 14 of the Dentists Act 1984 ;
+- [^c20653611]“**EEA health professional**” (“***proffesiynolyn iechyd yr AEE***”) has the meaning given in regulation 213(1) of the Human Medicines Regulations 2012[^key-2668ab7640af16c4f1f69a450a21110b];
+- [^c20653621]“**independent nurse prescriber**” (“***nyrs sy'n rhagnodi'n annibynnol***”) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020[^key-6e1a0095aac9d7d94c4b7587269e76bf];
+- “**listed appliances**” (“***cyfarpar rhestredig***”) means listed appliances within the meaning of any of the following—
+  - (a) [^c20653631]section 80 of the National Health Service (Wales) Act 2006 ;
+  - (b) [^c20653641]article 63 of the Health and Personal Social Services (Northern Ireland) Order 1972 ;
+  - (c) [^c20653651]section 27 of the National Health Service (Scotland) Act 1978 ;
+  - (d) [^c20653661]section 126 of the National Health Service Act 2006 ;
+- [^c20653671]“**medicinal product**” (“***cynnyrch meddyginiaethol***”) has the meaning given in section 130 of the Medicines Act 1968;
+- “paramedic independent prescriber” ([^key-f8a2f5d50f2deb19b216b5209258b6a7]*“parafeddyg-ragnodydd annibynnol”*) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
+- “**pharmacy medicine**” (“***meddyginiaeth fferyllol***”) has the meaning given in regulation 5(5) of the Human Medicines Regulations 2012;[^key-e625846206ecbb882b99e70a6e5a3983]
+- “physiotherapist independent prescriber” (“[^key-b9c3103558a7a4ee10a4e50325b8c585]*ffisiotherapydd-ragnodydd annibynnol*”) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
+- “podiatrist or chiropodist independent prescriber” (“*podiatrydd-ragnodydd neu giropodydd-ragnodydd annibynnol*”) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
+- “**prescription only medicine**” (“***meddyginiaeth drwy bresgripsiwn yn unig***”) has the meaning given in regulation 5(3) of the Human Medicines Regulations 2012;[^key-3207205c9a9a6aa5f0f2d31316ebb7f8]
+- [^c20653721]“**supplementary prescriber**” (“***rhagnodydd atodol***”), “**nurse independent prescriber**” (“***nyrs-ragnodydd annibynnol***”), “**optometrist independent prescriber**” (“***optometrydd-ragnodydd annibynnol***”) and “**pharmacist independent prescriber**” (“***fferyllydd-ragnodydd annibynnol***”) each have the meanings respectively ascribed to them in regulation 8(1) of the Human Medicines Regulations 2012[^key-8e5c7d102039ec33e770390a6671b877];
+- “therapeutic radiographer independent prescriber”[^key-216c01babaf8c98bbbcac9521228a10e] *(“radiograffydd therapiwtig-ragnodydd annibynnol”)* has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
+- “**unpackaged**” (“***heb ei becynnu***”) means wholly or partly unwrapped.
+
+## SCHEDULE 2 — Fixed monetary penalties
+
+Regulation 12
+
+### PART 1 — Imposition of fixed monetary penalties and procedure
+
+#### 1. Power to impose fixed monetary penalty
+
+(1) An administrator may by notice impose a fixed monetary penalty on a seller who breaches these Regulations in the circumstances specified in regulation 11(1).
+
+(2) An administrator may exercise the power conferred by sub-paragraph (1) in relation to a case if it is satisfied on the balance of probabilities that the breach has occurred.
+
+#### 2. Fixed monetary penalties
+
+The amount of penalty which can be imposed by an administrator as a fixed monetary penalty in any case is the amount specified in the second column of the table in Part 2 by reference to the kind of breach concerned.
+
+#### 3. Notice of Intent
+
+(1) Where an administrator proposes to impose a fixed monetary penalty on a seller, the administrator must serve a notice of intent on that seller [^c20653731].
+
+(2) A notice of intent must—
+
+- (a) state the amount of the penalty;
+- (b) offer the seller the opportunity to discharge its liability to the penalty by paying the specified sum within 28 days beginning with the day on which the notice is received;
+- (c) include information as to—
+  - (i) the grounds for the proposal to impose the fixed monetary penalty;
+  - (ii) the effect of payment of the specified sum;
+  - (iii) the right to make representations and objections conferred by paragraph 5;
+  - (iv) the circumstances in which the administrator may not impose the fixed monetary penalty;
+  - (v) the 28 day period within which liability to the fixed monetary penalty may be discharged by virtue of paragraph 4;
+  - (vi) the 28 day period within which representations and objections may be made;
+  - (vii) how payment may be made.
+
+#### 4. Discharge of liability following notice of intent
+
+(1) A seller's liability to a fixed monetary penalty is discharged if the seller pays the specified sum within 28 days beginning with the day on which the notice of intent to which it relates was received.
+
+(2) The specified sum is the amount specified in the third column of the table in Part 2 by reference to the kind of breach concerned.
+
+#### 5. Making representations and objections
+
+(1) This paragraph applies if a seller does not discharge its liability to a fixed monetary penalty by payment of the specified sum.
+
+(2) Within 28 days of the day on which the notice of intent was received by the seller, the seller may make written representations and objections to the administrator in relation to the proposed imposition of the fixed monetary penalty.
+
+#### 6. Decision whether to impose a fixed monetary penalty
+
+(1) At the end of the 28 day period for making representations and objections under paragraph 5, the administrator must decide whether to impose the fixed monetary penalty.
+
+(2) In making a decision under this paragraph an administrator must take into consideration any representations or objections made by the seller in accordance with that paragraph.
+
+(3) An administrator may not decide to impose a fixed monetary penalty in any of the following circumstances—
+
+- (a) if liability to a fixed monetary penalty in respect of the same breach has been discharged by payment of the specified sum;
+- (b) if a fixed monetary penalty has previously been imposed in respect of the same breach;
+- (c) if a discretionary requirement has been imposed in respect of the same act or omission;
+
+(4) Without restricting the power under sub-paragraph (1), an administrator may decide not to impose a fixed penalty if the administrator considers that in all the circumstances of the case it would be inexpedient to do so.
+
+(5) Where the administrator decides to impose the fixed monetary penalty it must do so by serving the final notice on the seller [^c20653741].
+
+(6) The final notice must comply with paragraph 7.
+
+#### 7. Contents of final notice
+
+The final notice must include information as to—
+
+- (a) the grounds for imposing the fixed monetary penalty;
+- (b) the administrator's response to any representation and objections made by the seller;
+- (c) the amount of the penalty;
+- (d) how payment may be made;
+- (e) the period of 56 days within which payment must be made;
+- (f) the effect of paragraph 9 (early payment discount);
+- (g) the effect of paragraph 10 (late payment penalty);
+- (h) rights of appeal; and
+- (i) the consequences of non-payment.
+
+#### 8. Payment
+
+(1) A fixed monetary penalty must be paid by a seller within 56 days beginning with the day on which the final notice imposing it was received.
+
+But this is subject to regulation 21(4) (suspension of requirements and notices pending appeal).
+
+(2) If a decision to impose a fixed monetary penalty is the subject of an appeal then if that decision is upheld, the penalty must be paid by the seller within 28 days beginning with the day on which the appeal is determined.
+
+#### 9. Early payment discount
+
+A seller may discharge its liability to a fixed monetary penalty by paying 50% of the amount of the penalty within 28 days beginning with the day on which the final notice imposing it was received.
+
+#### 10. Late payment penalty
+
+If a fixed monetary penalty is not paid within the period allowed in accordance with paragraph 8 the amount of the penalty is increased by 50%.
+
+#### 11. Grounds of appeal
+
+(1) A seller may appeal against an administrator's decision to impose a fixed monetary penalty.
+
+(2) The grounds of appeal are—
+
+- (a) that the decision was based on an error of fact;
+- (b) that the decision was wrong in law;
+- (c) that the decision was unreasonable for any other reason;
+- (d) any other reason.
+
+### PART 2 — Fixed monetary penalty amounts and specified sums
+
+| *Breach* | *Amount of penalty which can be imposed as a fixed monetary penalty* | *Specified sums* |
+| --- | --- | --- |
+| Failure to comply with the requirement to charge in accordance with regulation 6 (regulation 11(1) and (2)) | £200 | £100 |
+| Failure to keep records in accordance with regulation 8 (regulation 11(1) and (2)) | £100 | £50 |
+| Failure to retain records in accordance with regulation 8 (regulation 11(1) and (2)) | £100 | £50 |
+| Failure to supply records in accordance with regulation 9 (regulation 11(1) and (2)) | £100 | £50 |
+| Failure to publish records in accordance with regulation 10 (regulation 11(1) and (2)) | £100 | £50 |
+
+## SCHEDULE 3 — Discretionary requirements
+
+Regulation 12
+
+### PART 1 — Imposition of discretionary requirements and procedure
+
+#### 1. Power to impose discretionary requirements
+
+(1) An administrator may by notice impose one or more discretionary requirements on a seller who breaches these Regulations [^c20653751].
+
+(2) An administrator may exercise the power conferred by sub-paragraph (1) in relation to a case if it is satisfied on the balance of probabilities that the breach has occurred.
+
+#### 2. Variable monetary penalties: maximum amounts
+
+The maximum penalty which may be imposed by an administrator as a variable monetary penalty in respect of any particular kind of breach is the amount specified in the second column of the table in Part 2 by reference to the kind of breach concerned [^c20653761].
+
+#### 3. Notice of intent
+
+(1) Where an administrator proposes to impose one or more discretionary requirements on a seller, the administrator must serve a notice of intent on that seller [^c20653771].
+
+(2) The notice of intent must—
+
+- (a) if the administrator proposes to impose a non-monetary discretionary requirement [^c20653781]—
+  - (i) specify the steps that the administrator proposes the seller be required to take;
+  - (ii) specify the time period within which the administrator proposes that those steps are to be completed;
+- (b) if the administrator proposes to impose a variable monetary penalty, specify the amount of penalty proposed;
+- (c) include information as to—
+  - (i) the grounds for the proposal to impose the one or more discretionary requirements;
+  - (ii) the right to make representations and objections conferred by paragraph 4;
+  - (iii) the circumstances in which the administrator may not impose the one or more discretionary requirements;
+  - (iv) the 28 day period within which representations and objections may be made;
+  - (v) in the case of a variable monetary penalty, how payment may be made.
+
+#### 4. Making representations and objections
+
+Within 28 days beginning with the day on which the notice of intent is received by the seller, the seller may make written representations and objections to the administrator in relation to the proposed imposition of the one or more discretionary requirements.
+
+#### 5. Decision whether to impose discretionary requirements
+
+(1) After the end of the 28 day period for making representations and objections under paragraph 4, the administrator must decide whether to—
+
+- (a) impose the one or more discretionary requirements with or without modifications; or
+- (b) impose any other discretionary requirement that the administrator has the power to impose under this Schedule.
+
+(2) In making a decision under this paragraph an administrator must take into consideration any representations or objections made by the seller in accordance with paragraph 4.
+
+(3) An administrator may not decide to impose a discretionary requirement in any of the following circumstances—
+
+- (a) if a discretionary requirement has previously been imposed in relation to the same act or omission;
+- (b) if liability to a fixed monetary penalty in respect of the same breach has been discharged by payment of a specified sum;
+- (c) if a fixed monetary penalty has been imposed in respect of the same breach.
+
+(4) An administrator may not decide under this paragraph to impose a fixed monetary penalty in place of a discretionary requirement.
+
+(5) Without restricting the power under sub-paragraph (1), an administrator may decide not to impose a discretionary requirement if the administrator considers that in all the circumstances of the case it would be inexpedient to do so.
+
+(6) Where an administrator decides to impose a discretionary requirement it must do so by serving the final notice on the seller [^c20653791].
+
+(7) The final notice must comply with paragraph 6.
+
+#### 6. Contents of a final notice
+
+The final notice must include information as to—
+
+- (a) the grounds for imposing the one or more discretionary requirements;
+- (b) the administrator's response to any representation and objections made by the seller, including the effect (if any) on the amount of any variable monetary penalty imposed;
+- (c) where the discretionary requirement is a non-monetary discretionary requirement—
+  - (i) the steps the seller is required to take;
+  - (ii) the period within which those steps must be completed;
+- (d) where the discretionary requirement is a variable monetary penalty—
+  - (i) the amount of the penalty;
+  - (ii) how payment may be made;
+  - (iii) the period within which payment must be made;
+  - (iv) the effect of paragraph 8 (early payment discount)
+  - (v) the effect of paragraph 9 (late payment penalty);
+- (e) rights of appeal; and
+- (f) the consequences of failing to comply with the notice.
+
+#### 7. Payment
+
+(1) A variable monetary penalty must be paid by a seller within 56 days beginning with the day on which the final notice imposing it was received.
+
+But this is subject to regulation 21(4) (suspension of requirements and notices pending appeal).
+
+(2) If the decision to impose a variable monetary penalty is the subject of an appeal then to the extent that that decision is upheld, the penalty must be paid by the seller within 28 days beginning with the day on which the appeal is determined.
+
+#### 8. Early payment discount
+
+A seller may discharge its liability to a variable monetary penalty by paying 50% of the amount of the penalty within 28 days beginning with the day on which the final notice imposing it is received.
+
+#### 9. Late payment penalty
+
+If a variable monetary penalty is not paid within the period allowed in accordance with paragraph 7 the amount payable is increased by 50%.
+
+#### 10. Grounds of appeal
+
+(1) A seller may appeal against an administrator's decision to impose a discretionary requirement.
+
+(2) The grounds of appeal are—
+
+- (a) that the decision was based on an error of fact;
+- (b) that the decision was wrong in law;
+- (c) in case of a variable monetary penalty, that the amount of the penalty is unreasonable;
+- (d) in the case of a non-monetary discretionary requirement, that the nature of the requirement is unreasonable;
+- (e) that the decision was unreasonable for any other reason;
+- (f) any other reason.
+
+### PART 2 — Variable monetary penalties: maximum amounts
+
+| *Breach* | *Maximum amount which may be imposed as a variable monetary penalty* |
+| --- | --- |
+| Failure to comply with the requirement to charge in accordance with regulation 6 (regulation 11(1) and (2)) | £5,000 |
+| Failure to keep records in accordance with regulation 8 (regulation 11(1) and (2)) | £5,000 |
+| Failure to retain records in accordance with regulation 8 (regulation 11(1) and (2)) | £5,000 |
+| Failure to supply records in accordance with regulation 9 (regulation 11(1) and (2)) | £5,000 |
+| Failure to publish records in accordance with regulation 10 (regulation 11(1) and (2)) | £5,000 |
+| Without reasonable cause, giving false or misleading information to an administrator (regulation 11(3)) | £20,000 |
+| Without reasonable cause, otherwise obstructing or failing to assist an administrator in the conduct of its functions under these Regulations (regulation 11(3)) | £20,000 |
+
+## SCHEDULE 4 — Non-monetary Discretionary requirements: enforcement
+
+Regulation 15
+
+**1.** (1) In this Schedule—
+
+- “**specified steps**” (“***camau penodedig***”) means the steps specified in a final notice under paragraph 6(c)(i) of Schedule 3;
+- “**specified period**” (“***cyfnod penodedig***”) means the period specified in a final notice under paragraph 6(c)(ii) of Schedule 3.
+
+(2) A reference in this Schedule to a complete failure is a reference to a seller having taken none of the specified steps within the specified period.
+
+(3) A reference in this Schedule to a partial failure is a reference to a seller having taken at least one, but not all, of the specified steps within the specified period.
+
+### 2. Power to impose non-compliance penalties
+
+(1) If a seller fails to comply with a non-monetary discretionary requirement an administrator may by notice impose a non-compliance penalty on the seller.
+
+(2) A non-compliance penalty may be imposed in respect of a complete or partial failure to comply with a non-monetary discretionary requirement.
+
+(3) A non-compliance penalty may be imposed irrespective of whether a variable monetary penalty was imposed in addition to the non-discretionary requirement to which the non-compliance penalty relates.
+
+(4) The amount of a non-compliance penalty is to be determined by the administrator.
+
+(5) But the maximum penalty which may be imposed by an administrator as a non-compliance penalty is the amount specified in sub-paragraph (6) by reference to the kind of failure concerned.
+
+(6) The maximum penalties are—
+
+- (a) £5,000 in relation to a partial failure;
+- (b) £5,000 in relation to a complete failure.
+
+### 3. Notice of intent
+
+(1) Where an administrator proposes to impose a non-compliance penalty on a seller, the administrator must serve on that seller a notice of what is proposed (a “notice of intent”).
+
+(2) A notice of intent must include information as to—
+
+- (a) the kind of failure in relation to which the administrator proposes to impose the non-compliance penalty;
+- (b) the specified steps which remain to be taken by the seller concerned;
+- (c) the amount of the penalty proposed;
+- (d) how payment may be made;
+- (e) the date by which payment would be due;
+- (f) the consequences of failure to make payment by the date it is due;
+- (g) the right to make representations and objections conferred by paragraph 4;
+- (h) the 28 day period within which representations and objections may be made;
+- (i) the circumstances (if any) in which the administrator may be inclined to reduce the amount of the penalty proposed.
+
+### 4. Making representations and objections
+
+Within 28 days beginning with the date on which the notice of intent is received by the seller, the seller may make written representations and objections to the administrator in relation to the proposed imposition of a non-compliance penalty.
+
+### 5. Decision whether to impose a non-compliance penalty
+
+(1) After the end of the 28 day period for making representations and objections under paragraph 4, the administrator must decide whether to impose the non-compliance penalty with or without modifications.
+
+(2) Without restricting the power under sub-paragraph (1), an administrator may decide not to impose a non-compliance penalty if the administrator considers that in all the circumstances of the case it would be inexpedient to do so.
+
+(3) In making a decision under this paragraph an administrator must take into consideration any representations or objections made by the seller in accordance with paragraph 4.
+
+(4) Where an administrator decides to impose a non-compliance penalty it must do so by serving a notice (“a non-compliance penalty notice”) on the seller.
+
+(5) A non-compliance penalty notice must comply with paragraph 6.
+
+### 6. Contents of a non-compliance penalty notice
+
+(1) A non-compliance penalty notice must include information as to—
+
+- (a) the grounds for imposing the non-compliance penalty;
+- (b) the administrator's response to any representations and objections made by the seller, including the effect (if any) on the amount of the penalty imposed;
+- (c) the amount of the penalty;
+- (d) how payment may be made;
+- (e) the date by which payment must be made;
+- (f) the right of appeal; and
+- (g) the consequences of failure to make payment by the date it is due.
+
+(2) A non-compliance penalty must be paid by a seller within 56 days beginning with the date on which the notice imposing it was received.
+
+(3) But this is subject to sub-paragraph (4) and regulation 21(4) (suspension of requirements and notices pending determination of an appeal).
+
+(4) If the requirements of the non-monetary discretionary requirement are complied with before the 56 days expire, the non-compliance penalty is not payable.
+
+(5) A seller on whom a non-compliance penalty notice is served may appeal against it.
+
+(6) The grounds of appeal are—
+
+- (a) that the decision to serve the notice was based on an error of fact;
+- (b) that the decision was wrong in law;
+- (c) that the amount of the penalty was unreasonable;
+- (d) that the decision was unfair or unreasonable for any other reason;
+- (e) any other reason.
+
+### 7. Payment of non-compliance penalties following appeal
+
+If a non-compliance penalty notice is the subject of an appeal, then to the extent that the notice is upheld, the penalty must be paid by the seller within 28 days beginning with the day on which the appeal is determined.
+
+### 8. Non-compliance penalties: late payment penalty
+
+If a non-compliance penalty is not paid within the period allowed by paragraph 6(2) or (as the case may be) by paragraph 7, the amount payable is increased by 50%.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision about a minimum amount which sellers of goods must charge for single use carrier bags. The Regulations are made under sections 77 and 90 of, and Schedule 6 to, the Climate Change Act 2008.
+
+Part 1 of the Regulations deals with definitions and administrators. It includes a definition of “single use carrier bag” and a definition of “seller”; and appoints county councils and county borough councils as administrators under the Regulations.
+
+Part 2 of the Regulations deals with the minimum amount which a seller must charge for a single use carrier bag and the types of single use carrier bags to which the requirement to charge does not apply (the bags in question are set out in Schedule 1 to the Regulations).
+
+Part 3 of the Regulations deals with the keeping, supply and publication of records by sellers.
+
+Part 4 of the Regulations specifies the circumstances in which a seller breaches these Regulations.
+
+Part 5 of the Regulations concerns civil sanctions. It introduces Schedules 2 and 3 and deals with the circumstances in which a formal proposal to impose a fixed penalty or discretionary requirement cannot be made.
+
+Schedule 2 confers power on administrators to impose fixed monetary penalties and contains associated procedural rights and obligations. Schedule 3 confers power on administrators to impose discretionary requirements and contains associated procedural rights and obligations.
+
+Part 6 of the Regulations deals with enforcement and non-compliance. It confers enforcement powers on administrators; allows administrators to recover certain enforcement costs which they have reasonably incurred; and allows administrators to recover penalties and enforcement costs through the civil courts or, if a court so orders, as if payable under a court order. This Part introduces Schedule 4 which allows administrators to impose penalties on sellers who fail to comply with certain requirements previously imposed on them. This Part also allows administrators to require sellers to publish details of any civil sanctions which they have incurred.
+
+Part 7 of the Regulations deals with administrative matters such as the scope of administrators' powers under the Regulations, general provision in relation to appeals and duties on administrators to publish guidance about how they will exercise their civil sanctioning and enforcement powers under the Regulations.
+
+The Welsh Assembly Government commissioned the Local Better Regulation Office (“LBRO”) to carry out a review of the progress of all county and county borough councils in Wales in working to the principles of good regulation, as set out in paragraph 23 of Schedule 6 to the Climate Change Act 2008. A copy of the LBRO's report can be obtained from the Welsh Assembly Government, Cathays Park, Cardiff, CF10 3NQ.
+
+An impact assessment has been prepared for these Regulations. A copy can be obtained from the Welsh Assembly Government, Cathays Park, Cardiff, CF10 3NQ.
+
+A draft of the Regulations was notified to the European Commission in accordance with:
+
+- (i) Article 8 of Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and of the Council laying down a procedure for the provision of information in the field of technical standards and regulations (OJ No. L204, 21.7.1998, p.37) last amended by Council Directive [2006/96/EC](https://www.legislation.gov.uk/european/directive/2006/0096) (OJ No. L363, 20.12.2006, p. 81); and
+- (ii) Article 16 of European Parliament and Council Directive [94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) of 20 December 1994 on packaging and packaging waste (OJ No. L365, 31.12.1994, p.10) last amended by Regulation [(EC) No. 219/2009](https://www.legislation.gov.uk/european/regulation/2009/0219) (OJ No. L87, 31.3.2009, p.109).
+
+## Annotations
+
+[^c20653461]: Marginal citation: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27); *see* section 77(3) of the Climate Change Act 2008 for the definition of “the relevant national authority”; and paragraph 3(4) of Schedule 6 to that Act for the definition of “specified”.
+
+[^c20653471]: Marginal citation: *See* section 97 of that Act for the definition of “devolved legislature”.
+
+[^key-372496861b318d381af88935f0953752]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2010/2880/regulation/2/1) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/3/1/a)
+
+[^key-cba15e27c76f7f4f9fe80511171f028a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2010/2880/regulation/2/1) inserted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/3/1/b)
+
+[^c20653481]: Marginal citation: For the definition of “administrator”, *see* paragraph 6(1) and (4) of Schedule 6 to the Climate Change Act 2008; and for the scope of administrators' powers under these Regulations, *see* regulation 19.
+
+[^key-a037ff775535f6e743368107af49269e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2010/2880/regulation/6) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2011/2184/regulation/4)
+
+[^key-1d3002dcecd80b400a5388db22d6dff4]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2010/2880/regulation/7A) inserted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2011/2184/regulation/5)
+
+[^key-97b376ad8ce1d87ede91498b3feedf9a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2010/2880/regulation/8) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2011/2184/regulation/6)
+
+[^c20653531]: Marginal citation: For the meaning of “fixed monetary penalty”
+
+    *see* paragraph 10(3) of Schedule 6 to the Climate Change Act 2008.
+
+[^c20653541]: Marginal citation: For the meaning of “discretionary requirement”
+
+    *see* paragraph 12(3) of Schedule 6 to that Act.
+
+[^key-47c1208b12c3d142f6578ff3bc89078f]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/wsi/2010/2880/regulation/13/1) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2011/2184/regulation/7)
+
+[^c20653551]: Marginal citation: For the meaning of “non-monetary discretionary requirement”
+
+    *see* paragraph 12(3)(b) of Schedule 6 to the Climate Change Act 2008.
+
+[^c20653571]: Marginal citation: For the meaning of “publicity notice”
+
+    *see* paragraph 19(2) of Schedule 6 to the Climate Change Act 2008.
+
+[^c20653581]: Marginal citation: Appeals are assigned to the General Regulatory Chamber of the First-tier Tribunal by virtue of article 5B(a) of the First-tier Tribunal and Upper Tribunal (Chambers) Order 2008 ([S.I. 2008/2684](https://www.legislation.gov.uk/uksi/2008/2684), amended by [S.I. 2009/196](https://www.legislation.gov.uk/uksi/2009/196), 2009/1021 and 2009/1590). [The Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009 (S.I. 2009/1976)](https://www.legislation.gov.uk/uksi/2009/1976) sets out procedural rules relating to such appeals.
+
+[^key-02bc0651b839f0c06093bd46856984cd]: Textual amendment: Sch. 1 para. 1(1)(za) inserted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/a)
+
+[^key-add66370e48c230caeb026c260dba661]: Textual amendment: Sch. 1 para. 1(1)(a)-(d) (f) omitted (1.10.2011) by virtue of [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/b)
+
+[^c20653591]: Marginal citation: [1982 c. 36](https://www.legislation.gov.uk/ukpga/1982/36); section 11A was inserted by the [Aviation and Maritime Security Act 1990 (c. 31)](https://www.legislation.gov.uk/ukpga/1990/31), [Schedule 1](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1), [paragraph 3](https://www.legislation.gov.uk/ukpga/1990/31/paragraph/3); and amended by [S.I. 2010/902](https://www.legislation.gov.uk/uksi/2010/902), [regulations 3](https://www.legislation.gov.uk/uksi/2010/902/regulation/3) and 9(b).
+
+[^key-3a0e61fd088bedd5211cc1ffe3463885]: Textual amendment: Sch. 1 para. 1(1)(i) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(c)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/c)
+
+[^key-163bd81d00696c3a0121f7bbddf611f4]: Textual amendment: Sch. 1 para. 1(1)(o) omitted (1.10.2011) by virtue of [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(d)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/d)
+
+[^key-fd3f49219d71c0e820179c866eea9a87]: Textual amendment: Sch. 1 para. 1(1)(p) inserted (9.4.2020) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2020 (S.I. 2020/414)](https://www.legislation.gov.uk/wsi/2020/414), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/414/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2020/414/regulation/3/a)
+
+[^key-2a3216e4661db7ce3e889a6d4680e068]: Textual amendment: Sch. 1 para. 1(1A) inserted (9.4.2020) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2020 (S.I. 2020/414)](https://www.legislation.gov.uk/wsi/2020/414), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/414/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2020/414/regulation/3/b)
+
+[^key-28be84bac6b330392bb92bf67b406e9f]: Textual amendment: Words in Sch. 1 para. 1(1A) substituted (9.7.2020) by [The Single Use Carrier Bags Charge (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/593)](https://www.legislation.gov.uk/wsi/2020/593), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/593/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/593/regulation/2/2)
+
+[^key-171bd60202610a4b698107ed8ab5c907]: Textual amendment: Sch. 1 para. 1(2)(a) substituted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/5/2)
+
+[^key-7adeae28227e9ac1e091701e798caf58]: Textual amendment: Words in Sch. 1 para. 1(2)(a) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [5(2)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/5/2)
+
+[^key-637a5b4772eaf65a39bdeff98a25db3a]: Textual amendment: Words in Sch. 1 para. 1(2)(a) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/149/regulation/4/2/a)
+
+[^key-4ca625d18f7aa00d2f45720675fb8556]: Textual amendment: Words in Sch. 1 para. 1(2)(b) omitted (1.10.2011) by virtue of [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/2)
+
+[^c20653601]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24); section 14 was substituted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [articles 2(1)](https://www.legislation.gov.uk/uksi/2005/2011/article/2/1) and 6; and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [regulations 109](https://www.legislation.gov.uk/uksi/2007/3101/regulation/109) and 111.
+
+[^c20653611]: Marginal citation: [S.I. 2008/1692](https://www.legislation.gov.uk/uksi/2008/1692), to which there are amendments not relevant to these Regulations.
+
+[^key-2668ab7640af16c4f1f69a450a21110b]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^c20653621]: Marginal citation: [S.I. 1992/662](https://www.legislation.gov.uk/uksi/1992/662); relevant amending instruments are [S.I. 2003/2624](https://www.legislation.gov.uk/uksi/2003/2624) (W. 252), [S.I. 2007/205](https://www.legislation.gov.uk/uksi/2007/205) (W. 19) and [S.I. 2010/1647](https://www.legislation.gov.uk/uksi/2010/1647) (W.155).
+
+[^key-6e1a0095aac9d7d94c4b7587269e76bf]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/wsi/2010/2880/schedule/1/paragraph/1/3) substituted (1.10.2020) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (S.I. 2020/1073)](https://www.legislation.gov.uk/wsi/2020/1073), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2), [Sch. 8 para. 6](https://www.legislation.gov.uk/wsi/2020/1073/schedule/8/paragraph/6)
+
+[^c20653631]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^c20653641]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265), amended by 1978/1907 (N.I. 26); there are other amendments but none is relevant.
+
+[^c20653651]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); there are amendments to section 27 which are not relevant to these Regulations.
+
+[^c20653661]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c20653671]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67); section 130 was amended by [S.I. 1994/3119](https://www.legislation.gov.uk/uksi/1994/3119), [regulation 2(b)](https://www.legislation.gov.uk/uksi/1994/3119/regulation/2/b); and [S.I. 2005/50](https://www.legislation.gov.uk/uksi/2005/50), [regulation 25(1)(c)](https://www.legislation.gov.uk/uksi/2005/50/regulation/25/1/c) and (d); there are other amendments but none is relevant.
+
+[^key-f8a2f5d50f2deb19b216b5209258b6a7]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/149/regulation/4/2/b)
+
+[^key-e625846206ecbb882b99e70a6e5a3983]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^key-b9c3103558a7a4ee10a4e50325b8c585]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [5(3)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/5/3)
+
+[^key-3207205c9a9a6aa5f0f2d31316ebb7f8]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(c)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/c) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^c20653721]: Marginal citation: [S.I. 1997/1830](https://www.legislation.gov.uk/uksi/1997/1830); relevant amending instruments are [S.I. 2003/696](https://www.legislation.gov.uk/uksi/2003/696). [S.I. 2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.I](https://www.legislation.gov.uk/uksi/2004/1771/section/I). 2005/765, [S.I. 2006/915](https://www.legislation.gov.uk/uksi/2006/915), [S.I](https://www.legislation.gov.uk/uksi/2006/915/section/I). 2010/1621.
+
+[^key-8e5c7d102039ec33e770390a6671b877]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(d)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/d) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^key-216c01babaf8c98bbbcac9521228a10e]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [5(3)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/5/3)
+
+[^c20653731]: Marginal citation: For the meaning of “*notice of intent*”
+
+    *see* paragraph 11(1)(a) of Schedule 6 to the Climate Change Act 2008.
+
+[^c20653741]: Marginal citation: For the meaning of “the final notice”
+
+    *see* paragraph 11(1)(d) of Schedule 6 to the Climate Change Act 2008.
+
+[^c20653751]: Marginal citation: For the meaning of “discretionary requirement”
+
+    *see* paragraph 12(3) of Schedule 6 to the Climate Change Act 2008.
+
+[^c20653761]: Marginal citation: For the meaning of “variable monetary penalty”
+
+    *see* paragraph 12(4) of schedule 6 to the Climate Change Act 2008.
+
+[^c20653771]: Marginal citation: For the meaning of “notice of intent”
+
+    *see* paragraph 13(1)(a) of Schedule 6 to that Act.
+
+[^c20653781]: Marginal citation: For the meaning of “non-monetary discretionary requirement”
+
+    *see* paragraph 12(4) of that Act.
+
+[^c20653791]: Marginal citation: For the meaning of “the final notice”
+
+    *see* paragraph 13(1)(d) of Schedule 6 to the Climate Change Act 2008.

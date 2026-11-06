@@ -1,0 +1,475 @@
+---
+title: The Mental Health (Care Co-ordination and Care and Treatment Planning) (Wales) Regulations 2011
+id: wsi/2011/2942
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-12-06'
+text_date: '2019-12-02'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2011/2942
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2011/2942/pdfs/wsi_20112942_mi.pdf
+- http://www.legislation.gov.uk/wsi/2011/2942/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mental Health (Care Co-ordination and Care and Treatment Planning) (Wales) Regulations 2011
+
+> Text as at 2019-12-02.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 2942 (W.318)
+
+MENTAL HEALTH, WALES
+
+The Mental Health (Care Co-ordination and Care and Treatment Planning) (Wales) Regulations 2011
+
+Made
+
+6 December 2011
+
+Coming into force
+
+6 June 2012
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by sections 15(4), 18(1)(c), 18(8), 18(9), 47(1)(b), 47(2) and 52(2) of the Mental Health (Wales) Measure 2010[^f00001].
+
+A draft of this instrument has been laid before the National Assembly for Wales in accordance with section 52(6) of the Measure, and approved by resolution of the National Assembly for Wales.
+
+## Part 1 — — General
+
+### 1. Title, commencement and application[^key-3649cfcb5e539e5ef43fb9fe6ce9631a]
+
+(1) The title of these Regulations is The Mental Health (Care Co-ordination and Care and Treatment Planning) (Wales) Regulations 2011 and they come into force on 6 June 2012.
+
+(2) These Regulations apply in relation to Wales.
+
+### 2. Interpretation[^key-0f42b2b3617bea393937b2749964ea63]
+
+(1) In these Regulations—
+
+- “adult placement carer” (“*gofalwr lleoliad oedolyn*”) means a person in whose home an adult is or may be accommodated and provided with personal care under an individual placement agreement entered into by the carer in accordance with regulation 12 of the Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019[^key-24f2c33719b8cfb9c669bfca480764f6];
+- “care and treatment plan” (“*cynllun gofal a thriniaeth*”) means a plan prepared for the purpose of achieving the outcomes which the provision of mental health services for a relevant patient[^f00002] is designed to achieve, as provided in section 18(1)(b) (functions of the care coordinator) of the Measure;
+- “carer” (“*gofalwr*”) means, in relation to a relevant patient, an individual who provides or intends to provide a substantial amount of care on a regular basis for that patient, but does not include an individual who provides, or intends to provide care for that patient by virtue of a contract of employment or other contract with any person or as a volunteer for a body (whether incorporated or not incorporated);
+- “employed” (“*wedi'i gyflogi*”) means employed under a contract of service or engaged under a contract for services;
+- “guardian” (“*gwarcheidwad*”) means the person named as guardian in a guardianship application made under section 7 (application for guardianship) of the 1983 Act or a guardianship order made under section 37 (powers of courts to order hospital admission or guardianship) of the 1983 Act;
+- “managing authority” (“*awdurdod rheoli*”) in relation to a National Health Service hospital has the meaning given by paragraph 176 (hospitals and their managing authorities) of Schedule A1 (hospital and care home residents: deprivation of liberty) to the 2005 Act, in relation to an independent hospital has the meaning given by paragraph 177(b) (hospitals and their managing authorities) of Schedule A1 to the 2005 Act, and in relation to a care home has the meaning given by paragraph 179(b) (care homes and their managing authorities) of Schedule A1 to the 2005 Act;
+- “the Measure” (“*y Mesur*”) means the Mental Health (Wales) Measure 2010[^f00003];
+- “parental responsibility” (“*cyfrifoldeb rhiant*”) has the meaning given by section 3 (meaning of “parental responsibility”) of the 1989 Act;
+- “relevant discharge period” (“*cyfnod rhyddhau perthnasol*”) means the period within which an adult may request that a mental health assessment is carried out following discharge from secondary mental health services[^f00004];
+- “relevant mental health service provider” (“*darparydd gwasanaeth iechyd meddwl perthnasol*”) means the secondary mental health service provider who is identified as a relevant patient’s relevant mental health service provider in accordance with section 15 (identification of the relevant mental health service provider for a relevant patient) of the Measure or regulation 3 of these Regulations;
+- “relevant patient’s medical practitioner” (“*ymarferydd meddygol claf perthnasol*”) means, in relation to a relevant patient, the registered medical practitioner with whom the patient is registered and any registered medical practitioner with whom a patient is not registered but by whom that patient is referred for a primary mental health assessment under Part 1 (local primary mental health support services) of the Measure;
+- “responsible clinician” (“*clinigydd cyfrifol*”) has the meaning given by section 34(1) (interpretation of Part II) of the 1983 Act;
+- “responsible Local Social Services Authority” (“*Awdurdod Gwasanaethau Cymdeithasol Lleol cyfrifol*”) has the meaning provided by section 34(3) of the 1983 Act;
+- “supervisory body” (“*corff goruchwylio*”) in relation to a hospital has the identity given by paragraph 181 (supervisory bodies: hospitals) of Schedule A1 to the 2005 Act, and in relation to a care home has the identity given by paragraph 182 (supervisory bodies: care homes) of Schedule A1 to the 2005 Act;
+- “the 1983 Act” (“*Deddf 1983*”) means the Mental Health Act 1983[^f00005];
+- “the 1989 Act” (“*Deddf 1989*”) means the Children Act 1989[^f00006];
+- “the 2005 Act” (“*Deddf 2005*”) means the Mental Capacity Act 2005[^f00007]; and
+- “working day” (“*diwrnod gwaith*”) means any day except Saturday, Sunday, Christmas Day, Good Friday or a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00008].
+
+## Part 2 — — Care coordinators
+
+### 3. Identification of relevant mental health service provider[^key-c03cd4b7065387a29f6fc4c543865c17]
+
+(1) Where a Local Health Board is responsible for providing a secondary mental health service[^f00009] to a relevant patient and a local authority is also responsible for providing such a service, then the provisions of this regulation apply.
+
+(2) The Local Health Board is the relevant mental health service provider for a relevant patient unless paragraphs (3) or (4) apply.
+
+(3) A local authority is the relevant mental health service provider for a relevant patient if that patient is the subject of—
+
+- (a) a guardianship application made under section 7 of the 1983 Act; or
+- (b) a guardianship order made under section 37 of the 1983 Act.
+
+(4) A local authority is the relevant mental health service provider for a relevant patient if that patient is under the age of eighteen years and—
+
+- (a)[^key-e85657d08194e124e51011f8ac371b6d] is looked after by a local authority within the meaning of section 74(1) of the Social Services and Well-being (Wales) Act 2014;
+- (b)[^key-6a0dd5e482a3a850ee6b98bfa5a0c46f] is a category 2 young person within the meaning of section 104(2) of the Social Services and Well-being (Wales) Act 2014;
+- (c)[^key-914c88b29da41c7000be0ee85c4c63d5] qualifies for advice and assistance under section 104 of the Social Services and Well-being (Wales) Act 2014 in so far as that section relates to category 5 and 6 young persons within the meaning of that Act; or
+- (d) is admitted to a school in accordance with a statement of special educational needs made under section 324 (statement of special educational needs) of the Education Act 1996[^f00010] that names the school.
+
+### 4. Eligibility requirements for care coordinators[^key-fb6d82754cfa353f8d2400d022920e15]
+
+(1) A person is eligible to be appointed as a care coordinator if that person—
+
+- (a) fulfils one or more of the professional requirements in Schedule 1 to these Regulations; and
+- (b) has demonstrated to the satisfaction of the relevant mental health service provider that he or she has appropriate experience, skills or training, or an appropriate combination of experience, skills and training.
+
+(2) When determining whether a person satisfies the appointment requirement in paragraph (1)(b) regard must be had to standards in any Codes of Practice issued under section 44 (codes of practice) of the Measure, and any guidance that may be from time to time issued by the Welsh Ministers.
+
+## Part 3 — — Care and treatment plans
+
+### 5. Form and content of care and treatment plans[^key-dc320cdb83d14fef5139a51818a2960e]
+
+(1) A care coordinator must ensure that a care and treatment plan which records all of the outcomes which the provision of mental health services are designed to achieve for a relevant patient is completed in writing in the form set out in Schedule 2.
+
+(2) The outcomes must include (but are not limited to) achievements in at least one of the areas provided in section 18(1)(a) (functions of the care coordinator) of the Measure.
+
+## Part 4 — — Preparing, reviewing and revising care and treatment plans
+
+### 6. Persons to be consulted[^key-235a553e63a6f114b2b42f540abde095]
+
+(1) Where a relevant patient’s care coordinator must work with a relevant patient and that patient’s mental health service providers to—
+
+- (a) agree the outcomes which the provision of mental health services for that patient are designed to achieve as provided by section 18(1)(a) of the Measure;
+- (b) agree a care and treatment plan for that patient as provided by section 18(1)(b) of the Measure; or
+- (c) review and revise a care and treatment plan for that patient as provided by section 18(1)(c) of the Measure,
+
+then the provisions of this regulation apply.
+
+(2) Subject to paragraph (4), the care coordinator is to take all practicable steps to consult the following persons where those persons are identified in relation to a relevant patient—
+
+- (a) all persons with parental responsibility for that patient;
+- (b) all carers and adult placement carers of that patient;
+- (c) that patient’s responsible clinician;
+- (d) where a guardian has been appointed for that patient as a result of a guardianship application made under section 7 of the 1983 Act or a guardianship order made under section 37 of the 1983 Act, that patient’s guardian;
+- (e) a donee of that patient’s lasting power of attorney who has been appointed in accordance with section 10 (appointment of donees) of the 2005 Act, or a deputy of that patient who has been appointed by the Court of Protection in accordance with section 16 (powers to make decisions and appoint deputies: general) of the 2005 Act, provided that—
+  - (i) in the case of a donee, the matters which are to be considered in the consultation fall within the scope of the lasting power of attorney, or
+  - (ii) in the case of a deputy, the matters which are to be considered in the consultation fall within the scope of the order, directions or terms of appointment of the deputy which have been specified by the Court of Protection;
+- (f) where there are acts or decisions proposed in relation to that patient under sections 37 (provision of serious medical treatment by NHS body), 38 (provision of accommodation by NHS body), 39 (provision of accommodation by local authority), 39A (person becomes subject to Schedule A1), 39C (person unrepresented whilst subject to Schedule A1) or 39D (person subject to Schedule A1 without paid representative) of the 2005 Act, an Independent Mental Capacity Advocate who has been appointed to represent that patient in accordance with section 35 (appointment of independent mental capacity advocates) of that Act;
+- (g) where that patient is subject to a standard authorisation given under Part 4 (standard authorisations) of Schedule A1 to the 2005 Act, the managing authority, the supervisory body and the relevant person’s representative who has been appointed for that patient under paragraph 139 (supervisory body to appoint representative) of Schedule A1 to the 2005 Act; and
+- (h) where that patient is subject to an urgent authorisation given under Part 5 (urgent authorisations) of Schedule A1 to the 2005 Act, the managing authority and the supervisory body.
+
+(3) Subject to paragraph (4), where the following persons are identified in relation to a relevant patient, he or she may be consulted by the care coordinator—
+
+- (a) any person who the care coordinator wishes to consult, in order to facilitate the carrying out of the care coordinator’s functions; and
+- (b) any person who that patient wishes to be consulted in connection with the care coordinator carrying out his or her functions.
+
+(4) Before consulting any of the persons mentioned in paragraphs (2) and (3)(a) the care coordinator is to take account of the views of a relevant patient regarding whether such persons ought to be consulted.
+
+(5) But the care coordinator may consult any of the persons mentioned in paragraphs (2) and (3)(a) against the wishes of a relevant patient provided that the care coordinator has given due consideration to the views of that patient.
+
+(6) Where the same person is to be consulted in more than one capacity under paragraphs (2) and (3), only one consultation need take place.
+
+(7) Where the person consulted is not an individual, consultation may take place with an individual acting on behalf of, or employed by, the person.
+
+### 7. Review and revision of care and treatment plans[^key-2cf7bd61e307f42e9c3f539e0218bee6]
+
+(1) A care and treatment plan may be reviewed or revised by the care coordinator at any time provided that the care coordinator agrees to that review or revision.
+
+(2) Subject to regulation 11, a care coordinator must review and, if necessary revise, a care and treatment plan when—
+
+- (a) a period of no more than 12 calendar months has elapsed since the initial preparation or the last review of that plan;
+- (b) a relevant patient requests a review of his or her plan before the 12 calendar month period has elapsed;
+- (c) a relevant patient’s carer or adult placement carer requests a review of that patient’s plan before the 12 calendar month period has elapsed; or
+- (d) a mental health service provider for the purposes of Part 2 (coordination of and care planning for secondary mental health service users) of the Measure[^f00011] requests a review of a relevant patient’s plan.
+
+(3) But a care coordinator need not review a care and treatment plan at the request of a relevant patient, that patient’s carer or that patient’s adult placement carer if, in his or her opinion—
+
+- (a) the request for a review is frivolous or vexatious; or
+- (b) since the last review there has been no change in circumstances which merit the holding of another review before the 12 month period in paragraph (2)(a) has passed.
+
+(4) With the exception of the requirement to have a review and, if necessary, a revision of a care and treatment plan as provided in paragraph (2)(a), a care coordinator need not review a care and treatment plan under any provision of this regulation if minor amendments are required to the plan which, in the care coordinator’s opinion, it is appropriate to make without a review being carried out.
+
+### 8. Copies of care and treatment plans[^key-7b80ed156d8ccbd67b3555c818e44186]
+
+(1) Where a relevant patient’s care coordinator has—
+
+- (a) agreed a care and treatment plan for a relevant patient and recorded the plan in writing as provided by section 18(1) and (2) of the Measure;
+- (b) recorded the plan or plans determined under the provisions of section 18(4) or (5) of the Measure in writing as provided by section 18(6) of the Measure; or
+- (c) reviewed or revised a care and treatment plan for a relevant patient as provided by regulation 7 or 11 of the Regulations,
+
+then the provisions of this regulation apply.
+
+(2) Subject to paragraph (4), where the following persons are identified in relation to a relevant patient, the care coordinator is to take all practicable steps to ensure that such persons are provided with a written copy of that patient’s care and treatment plan—
+
+- (a) that patient, unless—
+  - (i) that patient has declined to receive a copy of the plan; or
+  - (ii) the provision of a copy of the plan is likely to cause serious harm to the physical or mental health or condition of that patient;
+- (b) all persons with parental responsibility for that patient, unless a person with such responsibility has declined to receive a copy of the plan;
+- (c) all carers and adult placement carers of that patient, unless a carer or adult placement carer has declined to receive a copy of the plan;
+- (d) that patient’s registered medical practitioner;
+- (e) the mental health service providers and voluntary organisations who provide mental health services to that patient;
+- (f) that patient’s responsible clinician;
+- (g) where a guardian has been appointed for that patient as a result of a guardianship application made under section 7 of the 1983 Act or a guardianship order made under section 37 of the 1983 Act—
+  - (i) that patient’s guardian, and
+  - (ii) that patient’s responsible Local Social Services Authority;
+- (h) a donee of that patient’s lasting power of attorney who has been appointed in accordance with section 10 of the 2005 Act, or a deputy of that patient who has been appointed by the Court of Protection in accordance with section 16 of the 2005 Act, provided that—
+  - (i) in the case of a donee, the matters with which the plan is concerned including (but not limited to) outcomes which have been agreed in accordance with section 18(1)(a) of the Measure, fall within the scope of the lasting power of attorney, or
+  - (ii) in the case of a deputy, the matters with which the plan is concerned including (but not limited to) outcomes which have been agreed in accordance with section 18(1)(a) of the Measure, fall within the scope of the order, directions or terms of appointment of the deputy which may have been specified by the Court of Protection;
+- (i) where there are acts or decisions proposed in relation to that patient under sections 37, 38, 39, 39A, 39C or 39D of the 2005 Act, an Independent Mental Capacity Advocate who has been appointed to represent that patient in accordance with section 35 of that Act;
+- (j) where that patient is subject to a standard authorisation given under Part 4 of Schedule A1 to the 2005 Act, the managing authority, the supervisory body and the relevant person’s representative who has been appointed for that patient under paragraph 139 of Schedule A1 to the 2005 Act; and
+- (k) where that patient is subject to an urgent authorisation given under Part 5 of Schedule A1 to the 2005 Act, the managing authority and the supervisory body.
+
+(3) Subject to paragraph (4), where the following persons are identified in relation to a relevant patient, he or she may be provided with a written copy of that relevant patient’s care and treatment plan—
+
+- (a) any person who the care coordinator wishes to receive a copy of the plan, in order to facilitate the achievement of the outcomes which the provision of mental health services are designed to achieve for that patient; and
+- (b) any person who that patient wishes to be provided with a copy of the plan.
+
+(4) Before providing copies of a relevant patient’s care and treatment plan to any of the persons mentioned in paragraphs (2) and (3)(a) the care coordinator is to take account of the views of that patient regarding whether such persons ought to be provided with such copies.
+
+(5) But the care coordinator may provide copies of a relevant patient’s plan to any of the persons mentioned in paragraphs (2) and (3)(a) against the wishes of that patient provided that the care coordinator has given due consideration to the views of that patient.
+
+(6) For the purposes of this regulation—
+
+- (a) where a copy of a plan is to be provided to a person, the care coordinator may withhold that copy or provide a copy of part of that plan if the care coordinator is of the view that it is in a relevant patient’s interests to do so;
+- (b) where a person is eligible to receive more than one copy of a plan relating to a relevant patient, only one copy of the plan need be provided;
+- (c) a person is eligible to receive a copy of a plan if he or she is eligible under one or more of the categories in paragraph (2) at the time when copies of the plan are to be provided under paragraph (1);
+- (d) a person to whom a plan is to be provided cannot decline to receive a plan unless a provision in paragraph (2) expressly allows him or her to do so.
+
+### 9. Delivery of copies of care and treatment plans[^key-51b41b4b65cb44de64a43b9b2f900cc5]
+
+(1) Any copy of a care and treatment plan is provided if it is—
+
+- (a) delivered by hand to a person;
+- (b) delivered by hand to the last known address of a person;
+- (c) sent by prepaid post to the last known address of a person;
+- (d) sent by facsimile transmission to a number specified by a person; or
+- (e) delivered or sent by any other means whether electronic or otherwise as may be agreed between the care coordinator and a person.
+
+(2) Where a person is not an individual, a copy of a plan is provided if it is delivered or sent to an individual acting on behalf of, or employed by, that person.
+
+## Part 5 — — Discharge
+
+### 10. Information for persons ceasing to be relevant patients[^key-c64ae2cf669d62fb25ff3c5c49a92f95]
+
+(1) The following information must be provided in writing to an individual on his or her discharge from secondary mental health services—
+
+- (a) the reason for that individual’s discharge from secondary mental health services; and
+- (b) the action which may be taken, and by whom, if that individual considers that further support and advice in relation to his or her mental health is required following discharge.
+
+(2) In addition to the information in paragraph (1), an adult must be provided with information in writing regarding his or her entitlement to assessment under Part 3 (assessments of former users of secondary mental health services) of the Measure.
+
+(3) In addition to the information in paragraph (1), where an individual is discharged from secondary mental health services as a child but becomes an adult during the relevant discharge period the following information must be provided in writing—
+
+- (a) information on his or her entitlement on reaching the age of eighteen years to assessment under Part 3 of the Measure;
+- (b) an explanation of how his or her eighteenth birthday is relevant for the purposes entitlement to such an assessment; and
+- (c) the length of the relevant discharge period which is unexpired at the individual’s eighteenth birthday.
+
+(4) Information other than that which must be provided in accordance with paragraphs (1), (2) and (3) may be given to the individual on his or her discharge from secondary mental health services.
+
+(5) Where a Local Health Board discharges an individual from secondary mental health services, the Board must provide that individual with information in accordance with paragraphs (1), (2), (3) and (4) if, at the date of discharge, no local authority is providing that individual with a secondary mental health service.
+
+(6) Where a local authority discharges an individual from secondary mental health services, the authority must provide that individual with information in accordance with paragraphs (1), (2), (3) and (4) if, at the date of discharge, no Local Health Board is providing that individual with a secondary mental health service.
+
+## Part 6 — — Transition
+
+### 11. Transitional provisions[^key-a11cde1c26c57094e635548e76e78d2c]
+
+(1) In the case of a relevant patient for whom a care coordinator has not been appointed at the coming into force date of these Regulations, the relevant mental health service provider must—
+
+- (a) appoint a care coordinator for that patient no later than 1 calendar month from the coming into force date of these Regulations;
+- (b) ensure that the coordinator who is appointed satisfies the eligibility requirements for care coordinators set out in regulation 4 and Schedule 1 to these Regulations; and
+- (c) if the care coordinator is employed by another person, ensure that the consent of the other person to the care coordinator’s appointment is obtained in accordance with section 16(2) (further provision about the appointment of care coordinators) of the Measure.
+
+(2) Where a care coordinator has been appointed for a relevant patient at the coming into force date of these Regulations—
+
+- (a) the care coordinator is deemed to be appointed as care coordinator for that patient in accordance with regulation 4 and Schedule 1 of these Regulations, and is referred to as a “deemed care coordinator” for the purpose of this regulation;
+- (b) if the deemed care coordinator is employed by a person other than that patient’s relevant mental health service provider, the consent of the other person to the deemed care coordinator’s appointment must be obtained by the provider in accordance with section 16(2) of the Measure; and
+- (c) if the consent of the person who is the deemed care coordinator’s employer is not obtained, the relevant mental health service provider must appoint another care coordinator for that patient no later than 1 calendar month from the coming into force date of these Regulations.
+
+(3) Where the deemed care coordinator for a relevant patient does not satisfy the eligibility requirements for appointment as a care coordinator in accordance with regulation 4 and Schedule 1 of these Regulations, the patient’s relevant mental health service provider must appoint a care coordinator for that patient who satisfies the eligibility requirements no later than 1 calendar month from the coming into force date of these Regulations.
+
+(4) In the case of a relevant patient who does not have an existing care and treatment plan at the coming into force date of these Regulations, the care coordinator must—
+
+- (a) work with that patient and that patient’s relevant mental health service providers with a view to agreeing the outcomes which the provision of mental health services for that patient are designed to achieve, and prepare and record in writing a care and treatment plan for that patient in accordance with regulation 5 no later than 60 days from the coming into force date of these Regulations;
+- (b) consult with persons in accordance with regulation 6 as part of the process of agreeing outcomes and preparing a care and treatment plan for that patient no later than 60 days of the coming into force date of these Regulations;
+- (c) provide copies of that patient’s care and treatment plan in accordance with regulation 8 no later than 10 working days after the plan has been being prepared and recorded in writing; and
+- (d) review that patient’s care and treatment plan no later than 12 calendar months from the date on which the plan was prepared and recorded in writing.
+
+(5) Where a relevant patient has an existing care and treatment plan at the coming into force date of these Regulations, the care coordinator must—
+
+- (a) review that existing care and treatment plan no later than 12 calendar months from the coming into force date of these Regulations;
+- (b) as part of the review of that existing care and treatment plan for that patient—
+  - (i) consult with persons in accordance with regulation 6,
+  - (ii) work with that patient and that patient’s relevant mental health service providers with a view to agreeing the outcomes which the provision of mental health services for that patient are designed to achieve, and prepare and record in writing a care and treatment plan (the “new plan”) in accordance with regulation 5; and
+- (c) provide copies of that patient’s new plan as provided in regulation 8.
+
+Lesley Griffiths
+
+Minister for Health and Social Services, one of the Welsh Ministers
+
+6 December 2011
+
+## SCHEDULE 1 — PROFESSIONAL REQUIREMENTS
+
+Regulation 4(1)(a)
+
+**1.**[^key-44d98c4871ab230b3d90d16a09265d71] The professional requirements are that a person must be—
+
+- (a) a qualified social worker registered with Social Care Wales[^key-589efeb8e9370056facccf2f4edf0fbc] or in[^key-3b6a016413388d37ff9d7daf23f0aa80] the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017[^key-00f353534f966adee537c549afb4d142];
+- (b) a first or second level nurse, registered in Sub-Part 1 or Sub-Part 2 of the register maintained under article 5 of the Nursing and Midwifery Order 2001[^f00012], with the inclusion of an entry indicating that his or her field of practice is mental health or learning disabilities nursing;
+- (c) an occupational therapist who is registered in Part 6 of the Register maintained under article 5 of the Health Professions Order 2001[^key-974fc53ea7db534e98bd07c9a3673c75];
+- (d) a practitioner psychologist who is registered in Part 14 of the Register maintained under article 5 of the Health Professions Order 2001[^key-f4102ff8631a16a36e2a810bd1e242a8];
+- (e) a registered medical practitioner;
+- (f) a dietician who is registered in Part 4 of the Register maintained under article 5 of the Health Professions Order 2001[^key-195e5bf92cd2108f29b96fb4000e9ec7];
+- (g) a physiotherapist who is registered in Part 9 of the Register maintained under article 5 of the Health Professions Order 2001[^key-2bff8d0533bac0446ae8d8cd70931c12]; or
+- (h) a speech and language therapist who is registered in Part 12 of the Register maintained under article 5 of the Health Professions Order 2001[^key-93a071aaad8d18565abb9cff5a5c1d5f].
+
+## SCHEDULE 2 — Care and Treatment Plan[^key-679a359b7449ce8c9dfb2617708126f2]
+
+Regulation 5(1)
+
+[^key-679a359b7449ce8c9dfb2617708126f2]
+
+Gall y cynllun hwn cael ei gwblhau yn y Gymraeg neu yn y Saesneg, neu yn rhannol yn y Gymraeg ac yn rhannol yn y Saesneg
+
+[^key-679a359b7449ce8c9dfb2617708126f2]
+
+This plan may be completed in the Welsh or the English language, or partly in Welsh and partly in English
+
+### Mental Health (Wales) Measure 2010 Section 18 — Care and Treatment Plan
+
+[^key-679a359b7449ce8c9dfb2617708126f2]
+
+This care and treatment plan has been prepared under section 18 of the Mental Health (Wales) Measure 2010, and in accordance with the requirements of the Mental Health (Care Coordination and Care and Treatment Planning) (Wales) Regulations 2011.
+
+This is the care and treatment plan of \[Name of relevant patient\] who lives at \[Full usual address of relevant patient\].
+
+The care coordinator who has prepared this care and treatment plan is \[Name of care coordinator\] who can be contacted at \[Telephone number, postal address and, where appropriate, email address of care coordinator\]. The care coordinator has been appointed by, and is acting on behalf of, \[Name of Local Health Board or Local Authority that appointed the care coordinator\].
+
+This plan was made on \[Date the plan was made\] and is to be reviewed no later than \[Date by which the plan must be reviewed\]. However, \[Name of relevant patient\], his or her carer(s) or adult placement carer(s) may request a review of this care plan at any time.
+
+This part of the care and treatment plan records the outcomes which the provision of mental health services are designed to achieve, details of those services that are to be provided, and the actions that are to be taken with a view to achieving those outcomes.
+
+\[The planned outcome(s) included in the following part of the plan must relate to **one or more** of the areas listed, and include an explanation of how each outcome relates to each area. Outcomes also may be achieved in other areas, and are to take into account any risks identified in relation to the relevant patient.
+
+This part of the plan also sets out details of the services that are to be provided, or actions taken, to achieve the planned outcomes, including when, and by whom those services are to be provided or actions taken.
+
+\[Outcomes to be achieved must be agreed in relation to at least one of the following areas:
+
+- a) accommodation
+- b) education and training
+- c) finance and money
+- d) medical and other forms of treatment, including psychological interventions
+- e) parenting or caring relationships
+- f) personal care and physical well-being
+- g) social, cultural or spiritual
+- h) work and occupation.
+
+Outcomes to be achieved may also be agreed in relation to other areas\]
+
+- Outcome to be achieved
+- What services are to be provided, or actions taken
+- When
+- Who by
+
+The following thoughts, feelings or behaviours may indicate that \[Name of relevant patient\] is becoming more unwell and may require extra help from the care team (these are sometimes called relapse signatures):
+
+If \[Name of relevant patient\] feels that his or her mental health is deteriorating to the point where he or she requires extra help or support, the following actions ought to be taken (this is sometimes known as a crisis plan and must include details of the services to be contacted):
+
+Any language or communication requirements or wishes which \[Name of relevant patient\] has (including in relation to the use of the Welsh language) ought to be recorded here:
+
+The views of \[Name of relevant patient\] on this care and treatment plan, the mental health services that are to be provided, and any future arrangements that ought to be considered, are:
+
+\[Record any views that the relevant patient wishes to be included (including past and present wishes and feelings about the matters covered by the plan), and include any statements about any future arrangements which may apply. If the patient does not have any views or statements on these matters, or the patient’s views cannot be ascertained, this ought to be recorded also.\]
+
+This care and treatment plan has
+
+- \* been agreed with \[Name of relevant patient\] and is recorded in accordance with section 18(2) of the Mental Health (Wales) Measure 2010
+- \* not been agreed with \[Name of relevant patient\] but the outcomes have been determined by the mental health service provider(s), and are recorded in accordance with section 18(6) of the Mental Health (Wales) Measure 2010
+- \[\* delete as applicable (one, but not more than one, statement must apply)\]
+
+So far as it is reasonably practicable to do so, the following mental health service provider(s) must ensure that the mental health services set out in this care and treatment plan are provided: \[Enter the name of the Local Health Board and/or the Local Authority who are responsible for providing secondary mental health services to the relevant patient\]
+
+Signed \[The relevant patient may sign the care and treatment plan, if they wish\] Relevant patient
+
+Signed \[The care coordinator must sign this care and treatment plan\] Care coordinator
+
+Date \[Enter the date the care and treatment plan is made\]
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations contain provisions about care co-ordination and care and treatment planning for patients using secondary mental health services (within the meaning of The Mental Health (Wales) Measure 2010 (“the Measure”)). They also contain provision about the identification of relevant mental health service providers, and transitional provisions for patients who are already in secondary mental health services at the coming into force date of these Regulations.
+
+**2.** Regulation 3 provides for the identification of a relevant mental health service provider in circumstances where a patient is using secondary mental health services provided by both a Local Health Board and a local authority.
+
+**3.** Regulation 4 makes provision about the eligibility requirements which must be met before a person may be appointed as a care coordinator. Professional requirements which a person must satisfy are set out in Schedule 1.
+
+**4.** Regulation 5 makes provision about the form and content of care and treatment plans. The form of a care and treatment plan is set out in Schedule 2, and is to be completed in the Welsh or the English language, or partly in Welsh and partly in English.
+
+**5.** Regulation 6 makes provision about the persons who must be consulted by the care coordinator as part of the care coordinator’s functions of preparing, reviewing and revising care and treatment plans. Provision is made also regarding persons who may be consulted by the care coordinator, and for the views of the patient to be taken into account before any consultation under this regulation takes place.
+
+**6.** Regulation 7 provides for the review and revision of care and treatment plans. This includes provision about how frequently a plan must be reviewed and if necessary, revised, and who may request a review and, if necessary, revision.
+
+**7.** Regulation 8 makes provision about the persons who must be provided with a copy of a patient’s care and treatment plan following the preparation, review or revision of that plan. Provision is made also regarding persons who may be provided with copies of such plans, for copies of plans to be withheld or only parts of copies to be provided, and for the views of the patient to be taken into account before any copies of plans or parts of plans are provided.
+
+**8.** Regulation 9 makes provision about how copies of care and treatment plans are to be provided, and allows for the use of both electronic and non-electronic means of provision.
+
+**9.** Regulation 10 makes provision about the information which is to be provided to an individual when he or she is discharged from secondary mental health services.
+
+**10.** Regulation 11 makes transitional provision for patients who are already in secondary mental health services at the coming into force date of these Regulations. This includes provision for patients who do not have a care coordinator or a care and treatment plan at the coming into force date.
+
+**11.** A regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Mental Health Legislation Team, Department for Health, Social Services and Children, Welsh Government, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2010 nawm 7](https://www.legislation.gov.uk/mwa/2010/7).
+
+[^key-3649cfcb5e539e5ef43fb9fe6ce9631a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^key-0f42b2b3617bea393937b2749964ea63]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2011/2942/regulation/2) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^key-24f2c33719b8cfb9c669bfca480764f6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/2/1) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 20(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/20/2)
+
+[^f00002]: Footnote: See section 12 (meaning of “relevant patient”) of the Measure for the definition of relevant patient.
+
+[^f00003]: Footnote: [2010 nawm 7](https://www.legislation.gov.uk/mwa/2010/7).
+
+[^f00004]: Footnote: See regulation 3 (relevant discharge period) of The Mental Health (Assessment of Former Users of Secondary Mental Health Services) (Wales) Regulations 2011 (S.I. [2011/2500 (W. 272)](https://www.legislation.gov.uk/wsi/2011/2500)).
+
+[^f00005]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^f00006]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00007]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^f00008]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-c03cd4b7065387a29f6fc4c543865c17]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2011/2942/regulation/3) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^f00009]: Footnote: See section 49 of the Measure (meaning of secondary mental health services) for the definition of secondary mental health services.
+
+[^key-e85657d08194e124e51011f8ac371b6d]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/3/4/a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 126(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/126/2)
+
+[^key-6a0dd5e482a3a850ee6b98bfa5a0c46f]: Textual amendment: [Reg. 3(4)(b)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/3/4/b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 126(3)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/126/3)
+
+[^key-914c88b29da41c7000be0ee85c4c63d5]: Textual amendment: [Reg. 3(4)(c)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/3/4/c) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 126(4)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/126/4)
+
+[^f00010]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^key-fb6d82754cfa353f8d2400d022920e15]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/2942/regulation/4) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^key-dc320cdb83d14fef5139a51818a2960e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2011/2942/regulation/5) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^key-235a553e63a6f114b2b42f540abde095]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2011/2942/regulation/6) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^key-2cf7bd61e307f42e9c3f539e0218bee6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2011/2942/regulation/7) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^f00011]: Footnote: See section 13 (meaning of “mental health service provider”) of the Measure for the definition of mental health service provider for the purposes of Part 2.
+
+[^key-7b80ed156d8ccbd67b3555c818e44186]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2011/2942/regulation/8) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^key-51b41b4b65cb44de64a43b9b2f900cc5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2011/2942/regulation/9) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^key-c64ae2cf669d62fb25ff3c5c49a92f95]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2011/2942/regulation/10) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^key-a11cde1c26c57094e635548e76e78d2c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2011/2942/regulation/11) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^key-44d98c4871ab230b3d90d16a09265d71]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2011/2942/schedule/1/paragraph/1) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)
+
+[^key-589efeb8e9370056facccf2f4edf0fbc]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/wsi/2011/2942/schedule/1/paragraph/1/a) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 26(2)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/26/2)
+
+[^key-3b6a016413388d37ff9d7daf23f0aa80]: Textual amendment: Words in [Sch. 1(a)](https://www.legislation.gov.uk/wsi/2011/2942/schedule/1/a) substituted (1.8.2012) by [The Health and Social Care Act 2012 (Consequential Provision—Social Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [Sch. para. 93(1)](https://www.legislation.gov.uk/uksi/2012/1479/schedule/paragraph/93/1)
+
+[^key-00f353534f966adee537c549afb4d142]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/wsi/2011/2942/schedule/1/paragraph/1/a) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/28/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^f00012]: Footnote: S.I. [2002/253](https://www.legislation.gov.uk/uksi/2002/253).
+
+[^key-974fc53ea7db534e98bd07c9a3673c75]: Textual amendment: Words in [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/wsi/2011/2942/schedule/1/paragraph/1/c) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/28/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-f4102ff8631a16a36e2a810bd1e242a8]: Textual amendment: Words in [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/wsi/2011/2942/schedule/1/paragraph/1/d) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/28/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-195e5bf92cd2108f29b96fb4000e9ec7]: Textual amendment: Words in [Sch. 1 para. 1(f)](https://www.legislation.gov.uk/wsi/2011/2942/schedule/1/paragraph/1/f) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/28/3/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-2bff8d0533bac0446ae8d8cd70931c12]: Textual amendment: Words in [Sch. 1 para. 1(g)](https://www.legislation.gov.uk/wsi/2011/2942/schedule/1/paragraph/1/g) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/28/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-93a071aaad8d18565abb9cff5a5c1d5f]: Textual amendment: Words in [Sch. 1 para. 1(h)](https://www.legislation.gov.uk/wsi/2011/2942/schedule/1/paragraph/1/h) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/28/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-679a359b7449ce8c9dfb2617708126f2]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2011/2942/schedule/2) in force at 6.6.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2942/regulation/1/1)

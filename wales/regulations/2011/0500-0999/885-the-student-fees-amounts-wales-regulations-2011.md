@@ -1,0 +1,125 @@
+---
+title: The Student Fees (Amounts) (Wales) Regulations 2011
+id: wsi/2011/885
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-21'
+text_date: '2014-08-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2011/885
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2011/885/pdfs/wsi_20110885_mi.pdf
+- http://www.legislation.gov.uk/wsi/2011/885/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Student Fees (Amounts) (Wales) Regulations 2011
+
+> Text as at 2014-08-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 885 (W.129)
+
+EDUCATION, WALES
+
+The Student Fees (Amounts) (Wales) Regulations 2011
+
+Made
+
+21 March 2011
+
+Coming into force
+
+31 March 2011
+
+These Regulations are made by the Welsh Ministers in exercise of the powers conferred on the National Assembly for Wales by sections 28(6) and 47(5) of the Higher Education Act 2004[^f00001] and now exercisable by them[^f00002].
+
+These are the first regulations to be made under section 28(6) of that Act prescribing the basic amount and the higher amount for the purposes of that section.
+
+In accordance with section 26(1) of that Act[^f00003] a draft of these Regulations was laid before and approved by a resolution of the National Assembly for Wales.
+
+## 1. Title, commencement and application[^key-4a94477e531bee9c503904d90bc09e6b]
+
+(1) The title of these Regulations is the Student Fees (Amounts) (Wales) Regulations 2011 and they come into force on 31 March 2011.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation[^key-104db83932e27e4b99e05f36e94ae477]
+
+In these Regulations—
+
+- “the 2004 Act” (“*Deddf 2004*”) means the Higher Education Act 2004;
+- “overseas institution” (“*sefydliad tramor*”) means an institution other than one in Wales, England, Scotland, Northern Ireland, the Channel Islands or the Isle of Man;
+- “sandwich course” (“*cwrs rhyngosod*”) has the meaning given in regulation 2(6) of the Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2011[^f00004].
+
+## 3. Prescribed basic and higher amounts[^key-49b870a762147a1284772e645630096d]
+
+Subject to regulations 4–6[^key-441a23c1671a9176684e97d9252474ff], for the purpose of section 28 of the 2004 Act, the basic amount is prescribed as £4,000 and the higher amount is prescribed as £9,000.
+
+## 4. Prescribed basic and higher amounts for certain final academic years of courses and academic years of courses of initial training of teachers[^key-7cc5691d874c0601b8473447cd0cd163]
+
+For the purpose of section 28 of the 2004 Act the basic amount is £2,000 and the higher amount is £4,500 in respect of:
+
+- (a) the final academic year of a course where that academic year is normally required to be completed after less than 15 weeks’ attendance;
+- (b) a course of initial training of teachers (including such a course leading to a first degree), an academic year during which any periods of full time study are in aggregate less than 10 weeks.
+
+## 5. Prescribed basic and higher amounts for sandwich courses[^key-4807001ca09994f98cf29a7739111c98]
+
+For the purpose of section 28 of the 2004 Act the basic amount is £800 and the higher amount is £1,800 in respect of an academic year of a sandwich course—
+
+- (a) during which any periods of full time study are in aggregate less than 10 weeks; or
+- (b) if in respect of that academic year and any previous academic years of the course the aggregate of any one or more periods of attendance which are not periods of full time study at the institution (disregarding intervening vacations) exceeds 30 weeks.
+
+## 6. Prescribed basic and higher amounts for study and work placements overseas
+
+For the purpose of section 28 of the 2004 Act the basic amount is £600 and the higher amount is £1,350 in respect of an academic year of a course provided in conjunction with an overseas institution—
+
+- (a) during which any periods of full time study at the institution in the United Kingdom are in aggregate less than 10 weeks; or
+- (b) if in respect of that academic year and any previous academic years of the course the aggregate of any one or more periods of attendance which are not periods of full time study at the institution in the United Kingdom (disregarding intervening vacations) exceeds 30 weeks.
+
+Leighton Andrews
+
+Minister for Children, Education and Lifelong Learning, one of the Welsh Ministers
+
+21 March 2011
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe the basic and higher amounts which relevant institutions may charge by way of tuition fees for full-time undergraduate courses.
+
+The basic and higher amounts are prescribed for the purposes of conditions in accordance with section 28 of the Higher Education Act 2004 (“the 2004 Act”), being conditions for the purposes of section 27 of the 2004 Act.
+
+Section 27 of the 2004 Act enables the Welsh Ministers to impose conditions on grants to the Higher Education Funding Council for Wales (“the Council”) requiring it to impose conditions on financial support given by the Council to the governing body of a relevant institution. These conditions will require the governing body to secure that the fees payable for a qualifying course by a qualifying person do not exceed the basic amount specified in these Regulations, or, where an institution has an approved plan in force, the amount specified in that plan which is not to exceed the higher amount prescribed by these Regulations.
+
+Regulation 3 prescribes the amounts which will ordinarily apply. For certain courses specified in regulation 4, lower amounts are prescribed.
+
+The Regulatory Impact Assessment applicable to these Regulations is obtainable from the Welsh Assembly Government at: Cathays Park Cardiff CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 8](https://www.legislation.gov.uk/ukpga/2004/8). There are amendments to section 28 not relevant for the purposes of these Regulations.
+
+[^f00002]: Footnote: The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of paragraphs 30(1) and 30(2)(c) of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00003]: Footnote: The function of prescribing the basic and higher amount now exercisable by the Welsh Ministers under section 28(6) of the Higher Education Act 2004 is the same or substantially the same as the function of the Secretary of State under section 24(6) of that Act. Under section 26(1) of that Act, the first regulations may not be made under section 24(1) of that Act prescribing the basic amount and the higher amount unless a draft of the regulations has been laid before and approved by a resolution of each House of Parliament. By virtue of paragraph 34(2) of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), the provision applies to the exercise by the Welsh Ministers of the function of making the first regulations as if any reference to either House of Parliament were a reference to the National Assembly for Wales.
+
+[^key-4a94477e531bee9c503904d90bc09e6b]: Commencement: Reg. 1 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/885/regulation/1/1)
+
+[^key-104db83932e27e4b99e05f36e94ae477]: Commencement: Reg. 2 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/885/regulation/1/1)
+
+[^f00004]: Footnote: [SI 2011/148 (W.32)](https://www.legislation.gov.uk/wsi/2011/148).
+
+[^key-49b870a762147a1284772e645630096d]: Commencement: Reg. 3 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/885/regulation/1/1)
+
+[^key-441a23c1671a9176684e97d9252474ff]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2011/885/regulation/3) substituted (31.8.2014) by [The Student Fees (Amounts) (Wales) (Amendment) Regulations 2014 (S.I. 2014/2071)](https://www.legislation.gov.uk/wsi/2014/2071), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/2071/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2014/2071/regulation/3)
+
+[^key-7cc5691d874c0601b8473447cd0cd163]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/885/regulation/4) substituted (31.8.2014) by [The Student Fees (Amounts) (Wales) (Amendment) Regulations 2014 (S.I. 2014/2071)](https://www.legislation.gov.uk/wsi/2014/2071), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/2071/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2014/2071/regulation/4)
+
+[^key-4807001ca09994f98cf29a7739111c98]: Textual amendment: [Regs. 5](https://www.legislation.gov.uk/wsi/2011/885/regulation/5), [6](https://www.legislation.gov.uk/wsi/2011/885/regulation/6) inserted (31.8.2014) by [The Student Fees (Amounts) (Wales) (Amendment) Regulations 2014 (S.I. 2014/2071)](https://www.legislation.gov.uk/wsi/2014/2071), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/2071/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2014/2071/regulation/5)

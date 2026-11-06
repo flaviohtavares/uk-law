@@ -1,0 +1,20 @@
+---
+title: The County of Pembrokeshire (Communities) Order 2026, section 100
+act: The County of Pembrokeshire (Communities) Order 2026
+section: '100'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2026/83/section/100
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The County of Pembrokeshire (Communities) Order 2026, section 100
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+**100.** The part of the Saundersfoot South ward of the community of Saundersfoot shown shaded on Map 47—
+
+- (a) is transferred to the community of St Mary Out Liberty;
+- (b) forms part of the electoral ward of St Florence and St Mary Out Liberty.

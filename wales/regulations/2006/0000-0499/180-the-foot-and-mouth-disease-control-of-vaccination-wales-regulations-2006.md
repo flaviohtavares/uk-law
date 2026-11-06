@@ -1,0 +1,1062 @@
+---
+title: The Foot-and-Mouth Disease (Control of Vaccination) (Wales) Regulations 2006
+id: wsi/2006/180
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-01-31'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2006/180
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2006/180/pdfs/wsi_20060180_mi.pdf
+- http://www.legislation.gov.uk/wsi/2006/180/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Foot-and-Mouth Disease (Control of Vaccination) (Wales) Regulations 2006
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2006 No. 180 (W. 31)
+
+ANIMALS, WALES
+
+ANIMAL HEALTH
+
+The Foot-and-Mouth Disease (Control of Vaccination) (Wales) Regulations 2006
+
+Made
+
+31 January 2006
+
+Coming into force
+
+1 February 2006
+
+The National Assembly for Wales, being designated for the purposes of section 2(2) of the European Communities Act 1972 [^c15478941] in relation to the common agricultural policy of the European Community [^c15478951], exercising the powers conferred upon it by that section hereby makes the following Regulations:
+
+## PART 1 — Introduction
+
+### 1. Title, application and commencement
+
+(1) The title of these Regulations is the Foot-and-Mouth Disease (Control of Vaccination) (Wales) Regulations 2006.
+
+(2) They apply in relation to Wales and come into force on 1 February 2006.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Animal Health Act 1981 [^c15478961];
+- “**animal product**” means anything originating or made (whether in whole or in part) from an animal or from a carcase;
+- “**border inspection post**” means a place specified as a border inspection post in Schedule 2 to the Animal and Animal Products (Import and Export) (Wales) Regulations 2005 [^c15478971];
+- “**bovine animal**” includes buffalo and bison;
+- “**carcase**” means the carcase of an animal and includes part of a carcase, and the meat, bones, hide, skin, hooves, offal or other part of an animal, separately or otherwise, or any portion thereof;
+- “**disease**” means foot-and-mouth disease;
+- “**fresh meat**” means meat (including offal and any meat preparation) that has not undergone any preserving process other than chilling, freezing or quick-freezing, including meat that is vacuum wrapped or wrapped in a controlled atmosphere;
+- “[^key-118f98a1b38119ab1400f060b075280f]**health marked**” (“***yn dwyn marc iechyd***”) means bearing the health mark as defined in Article 3(51) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;
+- “**identification marked**” means bearing the identification mark required by article 5(1) of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and the Council laying down specific hygiene rules for food of animal original [^c15478991];
+- “**infected premises**” means any premises declared to be infected premises under the Order;
+- “**keeper**” means any person responsible for animals, whether on a permanent or temporary basis, but does not include a person who is responsible for animals solely because he or she is transporting them;
+- “**inspector**” means an inspector appointed under the Act;
+- “**local authority**” has the meaning assigned to that term by section 50(1) of the Act;
+- “**meat preparation**” means fresh meat, including meat that has been reduced to fragments, which has had foodstuffs, seasonings or additives added to it or which has undergone processes insufficient to modify the internal muscle fibre structure of the meat and thus to eliminate the characteristics of fresh meat;
+- “**mechanically separated meat**” means the product obtained by removing meat from flesh-bearing bones after boning, using mechanical means resulting in the loss or modification of the muscle fibre structure;
+- “**milk**” includes cream, separated milk, skimmed milk and buttermilk;
+- “**milk product**” includes butter, cheese, whey, yoghurt and any other product the main constituent of which is milk;
+- “**minced meat**” means boned meat that has been minced into fragments and contains less than 1% salt;
+- “**National Assembly**” means the National Assembly for Wales;
+- “**occupier**” means, in relation to any premises, the person in charge of those premises;
+- “**the Order**” means the Foot-and-Mouth Disease (Wales) Order 2006 [^c15479001];
+- “**overstamped**” means, in relation to a health marked or identification marked item bearing an additional diagonal cross consisting of two straight lines intersecting at the centre of the health or identification mark and allowing the information there to remain legible (irrespective of whether that additional cross is applied by the same stamp as the mark);
+- “**phase 1**” means, in respect of a vaccination zone, the period of time commencing with declaration of that vaccination zone and ending with a declaration under regulation 16(2);
+- “**phase 2**” means, in respect of a vaccination zone, the period of time commencing with the end of phase 1 and ending with a declaration under regulation 16(3);
+- “**phase 3**” means, in respect of a vaccination zone, the period of time commencing with the end of phase 2 and ending with a declaration under regulation 16(5);
+- “**premises**” includes any land, building or other place;
+- “**protection zone**” means a protection zone declared under the Order;
+- “**protective vaccination**” means vaccination carried out to protect susceptible animals against airborne spread or spread through fomites of the disease virus and where the vaccinated animals are not intended to be slaughtered to prevent the spread of disease;
+- “**public highway**” means a highway maintainable at the public expense;
+- “**reactor premises**” means premises declared to be reactor premises under regulation 25(1)(b)(ii);
+- “**sell**” means sell to the final consumer or user;
+- “**slaughterhouse**” has the meaning given to that term in regulation 5(6) of the Food Hygiene (Wales) Regulations 2006 [^c15479011];
+- “**slaughter**” means any process which causes the death of an animal;
+- “**suppressive vaccination**” means vaccination carried out on premises or in an area where there is an urgent need to prevent the spread of disease outside the premises or area by reducing the quantity of circulating disease virus there and where the vaccinated animals are intended for slaughter to prevent the spread of disease;
+- “**surveillance zone**” means a surveillance zone declared under the Order;
+- “**susceptible animal**” means a cow, bull, sheep, goat, deer, camel, llama, alpaca, guanaco, vicuna, any other ruminant, any swine (that is, a member of the suborder Suina of the order Artiodactyla), elephant or rodent (other than a pet rodent);
+- “**temporary control zone**” means a temporary control zone declared under the Order;
+- “**vaccinate**” means treat a susceptible animal with hyperimmune serum or vaccine against disease;
+- “**vaccination surveillance zone**” means a vaccination surveillance zone declared under regulation 13;
+- “**vaccination zone**” means a vaccination zone declared under regulation 13;
+- “**vehicle**” includes—
+  - (a) a trailer, semi-trailer or other thing which is designed or adapted to be towed by another vehicle;
+  - (b) a detachable part of a vehicle;
+  - (c) a container or other structure designed or adapted to be carried by or on a vehicle;
+- “**veterinary inspector**” means a veterinary inspector appointed under the Act.
+
+(2) In these Regulations “**specified for vaccination**” means specified as an animal to be vaccinated in a decision to undertake a vaccination programme made in accordance with regulation 9(2).
+
+(3) References in these Regulations to “animals originating in” a vaccination zone mean—
+
+- (a) animals kept in the vaccination zone, and
+- (b) animals which were kept within the boundaries of the vaccination zone at any time during the period—
+  - (i) beginning 21 days before the declaration of the vaccination zone, and
+  - (ii) ending with that declaration.
+
+### 3. Premises comprising common or unenclosed land
+
+In these Regulations—
+
+- (a) common or unenclosed land forms separate premises from other land unless—
+  - (i) the parcels of land adjoin, and
+  - (ii) all animals kept on each parcel of land are in the charge of the same keeper;
+- (b) a notice which is to be served on the occupier of premises wholly or partially comprising any common or unenclosed land is validly served if served on every keeper of animals kept there (so far as those persons are reasonably ascertainable);
+- (c) a requirement or restriction imposed on the occupier of premises wholly or partially comprising any common or unenclosed land applies to every keeper of animals kept there.
+
+### 4. Licences and declarations
+
+(1) Licences granted under these Regulations—
+
+- (a) must be in writing,
+- (b) may, in addition to any conditions required by these Regulations, be made subject to such conditions as the National Assembly considers necessary to prevent the spread of disease, and
+- (c) may be amended, suspended or revoked in writing at any time.
+
+(2) Except where otherwise directed by the National Assembly, a licence granted in England or Scotland for the same purpose as a licence which may be granted under these Regulations is valid for that purpose in Wales and its conditions apply in Wales as if it was a licence granted under these Regulations.
+
+(3) Declarations under these Regulations must be in writing and any amendment or revocation of a declaration must be made by further declaration.
+
+### 5. Notices
+
+(1) Notices issued under these Regulations—
+
+- (a) must be in writing; and
+- (b) may be amended or revoked in writing at any time.
+
+(2) Notices whose service on the occupier of any premises results in any requirement or restriction in relation to those premises must contain a description of those premises sufficient to ascertain their extent.
+
+(3) Such a description may be amended by a veterinary inspector if he or she is satisfied that it does not describe a single epidemiological unit in respect of disease.
+
+### 6. Dissemination of information concerning restrictions and requirements
+
+The National Assembly must take such steps as it considers necessary to ensure that licences, declarations and notices are brought to the attention of those who may be affected by them and in particular must ensure that the extent of any zone declared under these Regulations, the nature of the restrictions and requirements applicable within it and the dates of its declaration and withdrawal are publicised.
+
+### 7. Disinfection
+
+Disinfection under these Regulations must be carried out with a disinfectant which is —
+
+- (a) approved for use for the purpose of Foot-and-Mouth Disease Orders by the Diseases of Animals (Approved Disinfectants) Order 1978 [^c15479021],
+- (b) used at the concentration specified in that Order, and
+- (c) used in accordance with the manufacturer's instructions or recommendations (if any) and in particular, if use is recommended before any date, used before that date.
+
+## PART 2 — The vaccination programme
+
+### 8. Prohibition on vaccination except under licence
+
+(1) No person is permitted to vaccinate an animal except under the authority of a licence granted by the National Assembly permitting suppressive or protective vaccination.
+
+(2) The prohibition in this regulation does not apply to—
+
+- (a) anything done under the authority of a licence granted under article 4 of the Specified Animal Pathogens Order 1998 [^c15479031]; or
+- (b) administration of a vaccine in accordance with an animal test certificate granted under regulation 8 of the Veterinary Medicines Regulations 2005 [^c15479041].
+
+### 9. Factors informing a decision to permit suppressive or protective vaccination
+
+(1) The National Assembly must take into account the following factors in deciding whether to permit suppressive or protective vaccination—
+
+- (a) the risk of an outbreak—
+  - (i) in the United Kingdom becoming widespread in any part of the country,
+  - (ii) spreading to Wales with imported susceptible animals, carcases or other things liable to spread disease,
+  - (iii) spreading from Wales with exported susceptible animals, carcases or other things liable to spread disease, or
+  - (iv) spreading to or from Wales because of the prevailing meteorological conditions;
+- (b) any threat from disease to animals in—
+  - (i) a laboratory, zoo, wildlife park or other premises where susceptible animals are kept principally for the purposes of display and education of the public, or an enclosed area principally used for shooting;
+  - (ii) premises not falling within (i) of a body, institute or centre which—
+    - (aa) keeps susceptible animals only for the purposes of conservation, display and education of the public, or scientific research or breeding of such animals for research, and
+    - (bb) is approved in relation to those animals under regulation 9 of the Animal and Animal Products (Import and Export) (Wales) Regulations 2005;
+  - (iii) other premises where susceptible animals are kept for scientific purposes or purposes related to conservation of species or farm animal genetic resources;
+- (c) the criteria in Annex X of Council Directive [2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/0085) on Community measures for the control of foot-and-mouth disease repealing Directive [85/511/EEC](https://www.legislation.gov.uk/european/directive/1985/0511) and Decisions [89/531/EEC](https://www.legislation.gov.uk/european/decision/1989/0531) and [91/665/EEC](https://www.legislation.gov.uk/european/decision/1991/0665) and amending Directive [92/46/EEC](https://www.legislation.gov.uk/european/decision/1992/0046) [^c15479051];
+- (d) other means of preventing the spread of disease available to it;
+- (e) in the case of suppressive vaccination, whether such vaccination is necessary urgently to prevent the spread of disease from premises or a geographical area by reducing the quantity of circulating disease virus there; and
+- (f) in the case of protective vaccination—
+  - (i) whether such vaccination will protect susceptible animals in the proposed vaccination zone against airborne spread or spread through fomites of the disease virus, and
+  - (ii) the effect of the measures which would apply in the vaccination zone and vaccination surveillance zone on persons and animals there.
+
+(2) Where, having taken those factors into account, the National Assembly considers that permitting suppressive or protective vaccination is the most appropriate means of preventing the spread of disease, it must decide to undertake a vaccination programme.
+
+(3) If the National Assembly decides to undertake a vaccination programme it will grant one or more licences permitting suppressive or protective vaccination.
+
+(4)[^key-941d7447e6d9085f054249889f482dac] For the purposes of paragraph (1)(c), point 3.2 of Annex X of Council [Directive 2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/0085) is to be read as if—
+
+- (a) the reference to “Member States” were a reference to “the Welsh Ministers”;
+- (b) Article 2(u) of [Directive 2001/89/EC](https://www.legislation.gov.uk/european/directive/2001/0089) as it applies to point 3.2 were modified so that—
+  - (i) for the words “region, as defined in Article 2(2)(p) of Council [Directive 64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)”, there were substituted “county or county borough in Wales”;
+  - (ii) for “such a region” there were substituted “such a county or county borough
+
+### 10. Form of the decision to undertake a vaccination programme
+
+(1) The decision to undertake a vaccination programme must be stated in writing.
+
+(2) The decision must contain the following information about the vaccination programme—
+
+- (a) whether it is a programme of suppressive or of protective vaccination;
+- (b) the place or geographical area where it is to be undertaken;
+- (c) specification of the animals to be vaccinated (including their species and age);
+- (d) the intended duration of the programme;
+- (e) notice of the prohibition on movement of animals and animal products in regulation 12(2);
+- (f) the form of the eartag to be affixed and vaccination records to be made under regulation 19;
+- (g) such other information (if any) as the National Assembly considers necessary to inform those who may be affected by the vaccination programme.
+
+(3) Any decision of the National Assembly which results in a change to the information in sub-paragraph (2) must also be stated in writing.
+
+(4) The National Assembly must take such steps as it considers necessary to bring any decision required to be in writing by this regulation to the attention of those who may be affected by it.
+
+### 11. Licences permitting suppressive or protective vaccination
+
+(1) No licence permitting suppressive vaccination is to authorise vaccination outside a protection zone.
+
+(2) No licence permitting protective vaccination is to authorise vaccination in a vaccination surveillance zone.
+
+(3) A licence permitting suppressive or protective vaccination is not to be interpreted as having the effect of requiring any person to vaccinate any animal.
+
+### 12. Facilitation of vaccination
+
+(1) The keeper of any animal specified in a decision to undertake a vaccination programme must, where required by an inspector or a person acting at his or her direction—
+
+- (a) state (if required, in writing) the species, ages, and numbers of the animals for which he or she is responsible; and
+- (b) submit any such animal for vaccination at such time and in such place as required.
+
+(2) No person is permitted to move the following from any premises where any animal specified in a decision to undertake a vaccination programme is kept before all such animals have been vaccinated except under the authority of a licence granted by the National Assembly—
+
+- (a) any animal, or
+- (b) any animal product produced on the premises from a susceptible animal.
+
+### 13. Declaration of a vaccination zone and of a vaccination surveillance zone
+
+(1) If it decides to undertake a programme of protective vaccination, the National Assembly must at the same time declare any part of Wales where it is to be undertaken to be a vaccination zone and must also declare an associated vaccination surveillance zone.
+
+(2) A declaration under paragraph (1) must designate—
+
+- (a) the extent of the vaccination zone, and
+- (b) the extent of the associated vaccination surveillance zone, which must extend from the vaccination zone for at least ten kilometres and otherwise be of such size as the National Assembly considers necessary to prevent the spread of disease.
+
+(3) If it decides to vary the place or geographical area where a programme of protective vaccination is to be undertaken, the National Assembly must amend the declaration under paragraph (1) so that the vaccination zone comprises the place or geographical area as varied.
+
+### 14. Declaration of a vaccination surveillance zone on protective vaccination in England
+
+(1) This regulation applies where a programme of protective vaccination is to be undertaken in England.
+
+(2) Where this regulation applies and any part of the programme of protective vaccination is to be undertaken within ten kilometres of the border with Wales, the National Assembly must declare a vaccination surveillance zone in Wales
+
+(3) Where this regulation applies and a zone having equivalent effect to a vaccination surveillance zone has been declared in England abutting the border with Wales, the National Assembly may declare a vaccination surveillance zone in Wales.
+
+(4) Subject to paragraph (5), a vaccination surveillance zone declared under this regulation must be of such size as the National Assembly considers necessary to prevent the spread of disease.
+
+(5) A declaration under this regulation must specify the extent of the vaccination surveillance zone, and the National Assembly must ensure that any such zone—
+
+- (a) abuts the border with England, and
+- (b) extends from that border such that its boundary is at least ten kilometres from the perimeter of any zone having equivalent effect to a vaccination zone in England.
+
+### 15. Vaccination zones and vaccination surveillance zones: general provisions
+
+(1) Any premises which are partly inside and partly outside a vaccination zone are deemed to be wholly within it.
+
+(2) Any premises which are partly inside and partly outside a vaccination surveillance zone are deemed to be wholly within it (except premises which are also partly within a vaccination zone).
+
+(3) An area is to remain a vaccination zone or a vaccination surveillance zone (or part of one) until the National Assembly—
+
+- (a) amends the declaration creating it so as to exclude that area or,
+- (b) revokes that declaration.
+
+(4) Any amendment or revocation of a declaration creating a vaccination zone or a vaccination surveillance zone must refer to that declaration and state the date and time it is to take effect.
+
+### 16. Time phases and measures applicable in respect of a vaccination zone
+
+(1) Subject to regulation 25(2), the provisions of the Schedule apply in respect of a vaccination zone without prejudice to any requirements or restrictions applying in any part of it because that part falls within a protection zone or a surveillance zone.
+
+(2) After 30 days have elapsed since all animals in a vaccination zone specified for vaccination in a decision to undertake a programme of protective vaccination have been vaccinated, the National Assembly may declare the end of phase 1 and the commencement of phase 2 and the declaration must specify the date and time it is to take effect.
+
+(3) On completion of the measures in sub-paragraphs (a) to (d) of regulation 25(2) in every reactor premises in a vaccination zone, the National Assembly must declare the end of phase 2 and the commencement of phase 3 and such declaration must specify the date and time it is to take effect.
+
+(4) Notwithstanding paragraph (3), the National Assembly may, before completion of those measures in every reactor premises serve a notice on the occupier of any premises classified as free of disease under regulation 25(1)(b) stating that those premises must enter phase 3 and phase 3 must be deemed to have commenced in respect of those premises on such service.
+
+(5) The National Assembly may declare the end of phase 3 where it is satisfied that the disease has been eradicated in Wales.
+
+### 17. Measures applying in a vaccination surveillance zone
+
+(1) No person is permitted to move any susceptible animal within or out of a vaccination surveillance zone except—
+
+- (a) within the premises on which it is kept, or
+- (b) under the authority of a licence granted by the National Assembly.
+
+(2) This regulation applies without prejudice to any requirements or restrictions applying in any part of a vaccination surveillance zone because that part falls within a protection zone or a surveillance zone.
+
+### 18. Extension of the power to cause vaccination
+
+Notwithstanding section 16(1) of the Act, the National Assembly may cause vaccination of animals which do not fall within that sub-section where they are in a vaccination zone and the following provisions of the Act apply as if such vaccination was carried out in exercise of the power in section 16(1)
+
+- (a) the remainder of section 16 (treatment after exposure to infection),
+- (b) section 16A (slaughter of vaccinated animals), and
+- (c) section 62A (slaughter: power of entry).
+
+### 19. Identification of vaccinated animals
+
+(1) The National Assembly must provide every person issued with a licence permitting suppressive or protective vaccination with sufficient eartags to affix an eartag to every animal which may be vaccinated under that licence.
+
+(2) Each eartag must carry such information as the National Assembly considers necessary to identify the animal to which it is affixed as a vaccinated animal.
+
+(3) Any person vaccinating an animal must—
+
+- (a) identify it immediately after vaccination by affixing an eartag;
+- (b) make a written vaccination record containing the following information—
+  - (i) the date,
+  - (ii) the place, and
+  - (iii) a description of the animal;
+- (c) ensure that the National Assembly and the keeper of the animal receives a copy of that vaccination record; and
+- (d) retain that record for a period of six years.
+
+(4) Records must be in a form approved by the National Assembly.
+
+(5) Every person provided with eartags under this regulation must return unused eartags to the National Assembly on demand and without delay.
+
+### 20. Marking of cattle passports
+
+(1) This paragraph applies to any animal specified for vaccination which is issued with—
+
+- (a) a cattle passport under the Cattle Passports Order 1996 [^c15479061];
+- (b) a cattle passport under the Cattle Identification Regulations 1998 [^c15479071];
+- (c) a registration certificate under the Cattle (Identification of Older Animals)(Wales) Regulations 2000 [^c15479081].
+
+(2) If the keeper of any animal to which this paragraph applies has its cattle passport or registration certificate in his or her possession at the time of vaccination he or she must give it to the person carrying out the vaccination at that time.
+
+(3) The person carrying out the vaccination must ensure that the cattle passport or registration certificate given to him or her at the time of vaccination is marked at that time to indicate that the animal has been vaccinated and then returned to the keeper.
+
+(4) If the cattle passport or registration certificate of any animal to which this paragraph applies is not in the possession of its keeper at the time of vaccination, the National assembly must serve a notice on that keeper requiring him or her to submit it to the National Assembly for marking to indicate that the animal has been vaccinated.
+
+(5) A notice under paragraph (4) must specify the administrative arrangements to be followed when submitting the cattle passport or registration certificate for marking.
+
+(6) Any person on whom a notice under paragraph (4) is served must take all reasonable steps to secure the return of the cattle passport or registration certificate to his or her possession without delay and must comply with the requirements of the notice without delay on its return.
+
+### 21. Removal of eartags and missing eartags
+
+(1) No person is permitted to intentionally remove an eartag affixed under regulation 19(3) unless it is removed to prevent unnecessary pain and suffering.
+
+(2) If the keeper of a vaccinated animal removes its eartag in accordance with paragraph (1) or discovers that an eartag is missing he or she must notify the National Assembly in writing without delay.
+
+(3) On receipt of a notification under this regulation, the National Assembly must—
+
+- (a) arrange for a new eartag to be affixed to the vaccinated animal, or
+- (b) if affixing an eartag would cause uneccessary pain and suffering, arrange for the animal to be identified as vaccinated by applying a permanent indelible mark.
+
+(4) Any person who knows or suspects that an animal has been vaccinated but is not carrying an eartag must immediately notify the keeper and the National Assembly of that animal.
+
+### 22. Sale and slaughter of vaccinated animals
+
+No person is permitted to sell a vaccinated animal or send such an animal for slaughter unless it bears an eartag affixed under these Regulations.
+
+### 23. Failure to vaccinate animals specified for vaccination
+
+(1) Any person who knows or suspects that an animal has been specified for vaccination but was not vaccinated at the time when it should have been must immediately notify the keeper of that animal and the Welsh Ministers[^key-be20d16f6527349ae483cfe64f94c5b2].
+
+(2) If an inspector suspects that an animal has been specified for vaccination but was not vaccinated on the date it should have been he or she must arrange for that animal to be vaccinated as soon as is reasonably practicable (but not sooner than 21 days after the date it should have been vaccinated).
+
+### 24. Carcases of animals specified for vaccination
+
+(1) If an inspector knows or supects that a carcase is of a vaccinated animal and is intended for sale (whether before or after processing), but is not being dealt with as such he or she may serve a notice on the person in charge of it requiring him or her to dispose of it.
+
+(2) If an inspector knows or suspects that a carcase is of an animal specified for vaccination which has not been vaccinated and is intended for sale (whether before or after processing), he or she must serve a notice on the person in charge of it requiring him or her to deal with it at all times as if it was the carcase of a vaccinated animal.
+
+### 25. Survey and classification of premises during phase 2
+
+(1) The National Assembly must ensure that during phase 2—
+
+- (a) a clinical and serological survey of all premises in the vaccination zone where susceptible animals are kept is carried out in accordance with the following method—
+  - (i) all susceptible animals in the vaccination zone are clinically inspected, and
+  - (ii) either—
+    - (aa) testing for infection with the disease virus by an assay for antibodies against non-structural proteins of the disease virus is carried out on a selection of susceptible animals, or
+    - (bb) testing for antibodies against non-structural proteins of the disease virus is carried out on samples from all vaccinated animals and their non-vaccinated offspring; and
+- (b) every premises in the vaccination zone where susceptible animals are kept is classified according to the outcome of the survey and the criteria in Schedule 3 of the Order—
+  - (i) where the premises contained at least one susceptible animal in which the presence of the disease virus is confirmed, as infected premises;
+  - (ii) where the premises contained at least one susceptible animal suspected of being infected but where further testing including all susceptible animals on the premises confirmed the absence of circulating disease virus, as reactor premises (and the National Assembly must serve a notice on the occupier declaring the premises to be reactor premises); or
+  - (iii) otherwise, as free of disease (and the National Assembly must communicate that classification by serving a notice on the occupier).
+
+(2) The following measures apply to reactor premises—
+
+- (a) the National Assembly must ensure that susceptible animals which have tested positive to at least one of the tests in sub-paragraph (1)(a)(ii) are slaughtered on the premises;
+- (b) the National Assembly may by notice served on the occupier direct that other susceptible animals on the premises must be slaughtered;
+- (c) the occupier must dispose of the carcases of any susceptible animals slaughtered on the premises in accordance with the directions of an inspector;
+- (d) the National Assembly must ensure that the premises are cleansed and disinfected in accordance with Schedule 1 of the Order;
+- (e) no person is permitted to restock the premises except under the authority of a licence granted by the National Assembly and in accordance with Schedule 8 of the Order.
+
+### 26. Duty of the local authority to erect signs
+
+The local authority must ensure that the boundaries of every vaccination zone and vaccination surveillance zone are indicated by signs erected in a conspicuous position on all roads entering the zones on which it considers susceptible animals are likely to be moved.
+
+### 27. Trade in vaccinated animals[^key-aa36d66d86c64413f96ae390f66a11d6]
+
+No person is permitted to send any vaccinated animal for trade with a member State, Norway, Iceland or Liechtenstein[^key-1d97ba9714fbb90b0572d633fc576a5d].
+
+## PART 3 — General and supplementary provisions
+
+### 28. Cleansing and disinfection of vehicles: provision of facilities, equipment and materials
+
+Where cleansing and disinfection of vehicles is required at any premises by or under these Regulations the occupier of those premises must provide adequate facilities and proper equipment and materials for that cleansing and disinfection.
+
+### 29. Marks applied under these Regulations
+
+No person is permitted to obscure or erase a mark applied to any animal, carcase, animal product, vehicle or other thing under these Regulations unless—
+
+- (a) the mark is the overstamp to a health mark or identification mark in which case the overstamp may be removed in the same manner as that mark, or
+- (b) an inspector has given written authority.
+
+### 30. Change of occupation of premises under restriction
+
+(1) This regulation applies if the keeper of any animal or poultry is unable to move it from premises on the termination of his or her right of occupation because of a restriction imposed by or under these Regulations.
+
+(2) Where this regulation applies, the person entitled to occupation of the premises on that termination must—
+
+- (a) provide such facilities for feeding, tending or otherwise using the animal or poultry (including selling it) as the keeper may reasonably require, and
+- (b) allow entry to the premises to that keeper and any person authorised by him or her at reasonable times for feeding, tending or otherwise using the animal or poultry.
+
+(3) If the keeper is unable or unwilling to feed or tend the animal or poultry, the person entitled to occupation of the premises must take such steps as are necessary to ensure it is properly fed and tended.
+
+(4) The keeper of the animal or poultry is liable to pay the reasonable costs incurred under this regulation by any person feeding or tending it, or providing facilities for feeding, tending or otherwise using it.
+
+### 31. Reasonable assistance
+
+Any person required to give reasonable assistance or information to a person acting in the execution of these Regulations for the performance of his or her functions under it must, unless he or she has reasonable cause, do so without delay.
+
+### 32. False information
+
+No person is to furnish information which he or she knows to be false or misleading to a person acting in the execution of these Regulations.
+
+### 33. Production of records
+
+(1) Any person required to produce a record by a person acting in the execution of these Regulations must do so without delay.
+
+(2) On production, a person acting in the execution of these Regulations may—
+
+- (a) copy any records, in whatever form they may be held, or
+- (b) remove any records to enable them to be copied, or where they are kept electronically, require them to be produced in a form which may be taken away.
+
+(3) A person removing records under this regulation must give a written receipt for them.
+
+### 34. Compliance with notices and directions
+
+(1) Any notice served under these Regulations must be complied with at the expense of the person on whom it is served, except where otherwise provided in that notice.
+
+(2) Any oral direction given under these Regulations must be complied with at the expense of the person to whom it is given, except where otherwise provided in a written direction of the National Assembly.
+
+### 35. Powers of inspectors
+
+(1) Section 63 of the Act applies as if these Regulations were contained within the Act and as if the definition of animal in section 87 of the Act was extended to include every susceptible animal.
+
+(2) The following provisions of the Act apply as if these Regulations were an Order made under the Act and as if the definition of animal in section 87 of the Act was extended to include every susceptible animal—
+
+- (a) section 64A (powers of inspectors relating to retained[^key-c4beb4533b9f5ea015681d8e5bb3f050] EU law), and
+- (b) section 65(1) to (3) (power to detain vessels and aircraft).
+
+(3) Section 65A of the Act (inspection of vehicles) applies as if—
+
+- (a) these Regulations were an Order under the Act;
+- (b) the definition of animal in section 87 of the Act was extended to include every susceptible animal; and
+- (c) every vaccination zone and vaccination surveillance zone was designated for the duration of its existence for the purposes of that section.
+
+### 36. Enforcement, offences and proceedings
+
+(1) The following provisions of the Act apply as if these Regulations were an Order made under the Act—
+
+- (a) section 60 (duties and authorities of constables),
+- (b) section 66 (refusal and obstruction),
+- (c) section 67 (issue of false licences etc.),
+- (d) section 68 (issue of licences etc. in blank),
+- (e) section 71 (other offences as to licences);
+- (f) section 71A, (prosecutions: time limit)
+- (g) section 73 (general offences);
+- (h) section 77 (money recoverable summarily), and
+- (i) section 79(1) to (4) (evidence and procedure)
+
+and as if the definition of animal in section 87 of the Act was extended to include every susceptible animal.
+
+(2) Section 69 of the Act (falsely obtaining licences etc.) applies as if licences, certificates or instruments granted or issued under these Regulations were granted or issued under an Order made under the Act.
+
+(3) Section 75 of the Act (penalties for certain summary offences) applies as if these Regulations were an Order made under the Act except that any term of imprisonment on summary conviction is not to exceed three months.
+
+### 37. Production of licences and unloading after licensed movements
+
+Every person issued with a licence under this these regulations, must, while executing the licensed activity, carry the licence and produce it to an inspector on demand and without delay.
+
+### 38. General powers of veterinary inspectors to take action to prevent the spread of disease
+
+(1) This regulation applies in every vaccination zone and vaccination surveillance zone.
+
+(2) Where this regulation applies, a veterinary inspector may, if he or she considers it necessary to prevent the spread of disease, require—
+
+- (a) the detention and isolation of any vehicle, equipment or other thing and its subsequent cleansing and disinfection by serving a notice requiring such action on the occupier of the premises where it is present, or on the person in charge of it;
+- (b) the cleaning and disinfection of any premises or other place in accordance with Schedule 1 to the Order by serving a notice requiring it on the occupier of those premises or that place;
+- (c) the removal, laundering, cleansing and disinfection or disposal of the clothing or footwear of any person by serving a notice on him or her requiring it;
+- (d) any person to cleanse himself or herself by serving a notice requiring it on him or her;
+- (e) the detention or isolation in a specified place of any animal or poultry by serving a notice requiring it on the occupier of the premises where it is present, or on its keeper;
+- (f) the separation of any animal or poultry from other animals or poultry by serving a notice requiring it on the occupier of the premises where it is present, or on its keeper.
+
+(3) A notice under this regulation may contain such directions and conditions as the person serving it considers necessary to prevent the spread of disease.
+
+(4) The powers conferred on a veterinary inspector by this regulation are without prejudice to powers conferred by any other provision of these Regulations.
+
+### 39. Powers of inspectors in case of default
+
+(1) Where a person fails to comply with a requirement imposed by or under these Regulations an inspector may take any steps he or she considers necessary to ensure the requirement is met.
+
+(2) Where a person acts in contravention of a requirement imposed by or under these Regulations an inspector may take any steps he or she considers necessary to rectify the situation so as to prevent the spread of disease.
+
+(3) In taking steps under paragraph (1) or (2) an inspector may seize and detain any animal moved, kept or otherwise dealt with in contravention of a restriction or requirement imposed by or under these Regulations.
+
+(4) In taking steps under paragraph (2), an inspector may by notice served on any person direct that person to take or refrain from specified action in respect of any place, animal, poultry, vehicle, animal product or other thing.
+
+(5) Any steps taken under this regulation are without prejudice to proceedings for an offence arising out of the default.
+
+(6) The person in default must reimburse any reasonable expenses incurred by the National Assembly or the local authority in taking such steps and any reimbursement is recoverable summarily.
+
+### 40. Offences by bodies corporate
+
+(1) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of —
+
+- (a) any director, manager, secretary or other similar officer of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+he or she as well as the body corporate will be guilty of an offence and be liable to be proceeded against and punished accordingly.
+
+(2) For the purposes of paragraph (1), “**director**” in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+### 41. Offences: no knowledge of restriction or requirement
+
+No person will be guilty of failing to comply with a restriction or requirement which applies because of the declaration of—
+
+- (a) a vaccination zone, or
+- (b) a vaccination surveillance zone
+
+if he or she shows to the court's satisfaction that he or she did not know of that restriction or requirement and that he or she could not with reasonable diligence have obtained knowledge of it.
+
+### 42. Enforcement
+
+(1) Subject to paragraphs (2) and (3), these Regulations are to be enforced by the local authority.
+
+(2) These Regulations are to be enforced in relation to slaughterhouses by the National Assembly.
+
+(3) The National Assembly may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority under these Regulations is to be discharged by the National Assembly and not by the local authority.
+
+### 43. Revocations
+
+The following instruments are revoked—
+
+- (a) the Foot-and-Mouth Disease (Infected Areas) (Vaccination) Order 1972 [^c15479091] (insofar as the Order applies to Wales); and
+- (b) the Foot-and-Mouth Disease (Prohibition of Vaccination) (Wales) Regulations 2001 [^c15479101].
+
+[^c15479111]Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998 .
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+## SCHEDULE — Measures applicable in respect of a vaccination zone
+
+Regulation 16(1)
+
+### PART 1 — Movement of susceptible animals
+
+#### 1. Movement of susceptible animals during phase 1
+
+(1) During phase 1 no person is permitted to move any susceptible animal within or out of a vaccination zone except within premises or under the authority of a licence granted by the National Assembly.
+
+(2) No licence is to be granted under sub-paragraph (1) except for—
+
+- (a) direct transport of animals from premises to a slaughterhouse for immediate slaughter—
+  - (i) in the same vaccination zone, or
+  - (ii) where there is no slaughterhouse in that vaccination zone, outside the vaccination zone; or
+- (b) movement from one part of premises to another part of the same premises using an intervening public highway.
+
+(3) No licence is to be granted for transport under sub-paragraph (2)(a) unless the person granting it is satisfied that—
+
+- (a) the National Assembly has within the previous 24 hours carried out a clinical inspection on every susceptible animal on the premises, and
+- (b) there is no suspicion of infection or contamination on the premises.
+
+#### 2. Movement of susceptible animals during phase 2
+
+(1) During phase 2, no person is permitted to move any susceptible animal from or to any premises in a vaccination zone except under the authority of a licence granted by the National Assembly.
+
+(2) No licence is to be granted under sub-paragraph (1) for a movement from any reactor premises unless—
+
+- (a) it is for direct transport to a slaughterhouse, for the purpose of immediate slaughter, and
+- (b) each of the animals has been subjected to a diagnostic test by a veterinary inspector either for infection or for antibodies against non-structural proteins for the disease virus without a positive reaction to any such test.
+
+(3) No licence is to be granted under sub-paragraph (1) for any other movement unless it is for—
+
+- (a) transport to a slaughterhouse for the purpose of immediate slaughter from premises classified under regulation 25(1)(b) as free of disease, or
+- (b) movement from one part of premises to another part of the same premises using an intervening public highway.
+
+(4) A licence granted under this paragraph (other than a licence for movement under sub-paragraph (3)(b)) must require that—
+
+- (a) the animals do not come into contact with any other susceptible animals during transport or in the slaughterhouse; and
+- (b) the animals are accompanied during transport by a copy of the notice classifying their holding under regulation 25(1)(b), certified as a true copy by the National Assembly.
+
+#### 3. Movement of susceptible animals during phase 3
+
+(1) During phase 3, no person is permitted to move any susceptible animal within or out of a vaccination zone except within premises or under the authority of a licence granted by the National Assembly.
+
+(2) No licence for movement out of the vaccination zone is to be granted under sub-paragraph (1) except where it is for direct transport from premises classified under regulation 25(1)(b) as free of disease to a slaughterhouse for the purposes of immediate slaughter and it complies with the conditions in sub-paragraph (3).
+
+(3) The conditions of this sub-paragraph are that—
+
+- (a) the animals do not come into contact with any other susceptible animals during transport; and
+- (b) the animals are accompanied during transport by a copy of the notice classifying their premises of origin under regulation 25(1)(b), certified as a true copy by an inspector.
+
+(4) No licence for movement within the vaccination zone is to be granted under this paragraph unless—
+
+- (a) it specifies a route to be taken which, in the opinion of the person granting the licence, ensures the animals are not exposed to infection during the journey, and either—
+  - (i) the animals concerned are unvaccinated, and the conditions in sub-paragraph (5) have been complied with, or
+  - (ii) the movement is from one part of premises to another part of the same premises using an intervening public highway.
+
+(5) The conditions in this sub-paragraph are that—
+
+- (a) the National Assembly has within the previous 24 hours carried out a clinical examination on every susceptible animal on the premises of origin and has not identified signs of disease;
+- (b) every susceptible animal on the premises of origin has been kept there for at least 30 days;
+- (c) the premises of origin is not in a protection zone or a surveillance zone; and
+- (d) either—
+  - (i) every animal intended for transport has been tested by a veterinary inspector for antibodies against disease after it has been on the premises of origin for a period at least as long as its incubation period with negative results, or
+  - (ii) a serological survey pursuant to a sampling protocol suitable to detect 5% prevalence with at least 95% level of confidence has been completed on the premises of origin with negative result by a veterinary inspector.
+
+(6) No licence is to be granted under this paragraph for movement of the unvaccinated offspring of a vaccinated dam unless either—
+
+- (a) each animal has undergone a serological test by a veterinary inspector for the detection of antibodies against disease with a negative result; or
+- (b) the licence is for movement to—
+  - (i) premises in the vaccination zone with the same classification under regulation 25(1)(b);
+  - (ii) a slaughterhouse for immediate slaughter; or
+  - (iii) other specified premises in which case sub-paragraph (7) applies; or
+- (c) the licence is for a movement within sub-paragraph (4)(a)(ii).
+
+(7) Where this sub-paragraph applies, during phase 3 no person is permitted to subsequently move any animal moved from those specified premises except for—
+
+- (a) movement to a slaughterhouse for immediate slaughter, or
+- (b) movement from one part of the premises to another part of the same premises using an intervening public highway.
+
+(8) The occupier of any slaughterhouse to which susceptible animals are transported under the authority of a licence granted under this paragraph from premises classified as free of disease under regulation 25(1)(b) must ensure that—
+
+- (a) before slaughter each animal undergoes an ante-mortem health check at the slaughterhouse, and
+- (b) at the slaughterhouse, the transported animals do not come into contact with other animals.
+
+#### 4. Cleansing and disinfection of vehicles transporting susceptible animals
+
+(1) The person in charge of any vehicle used to move susceptible animals under the authority of a licence granted under paragraph 1, 2 or 3 must—
+
+- (a) ensure that it is cleansed and disinfected in accordance with Schedule 2 to the Transport of Animals (Cleansing and Disinfection) (Wales) (No.3) Order 2003 [^c15479121] and any additional requirements an inspector may by written directions impose,
+- (b) make a record of the time and date of each cleansing and disinfection undertaken during phase 2 or phase 3,
+- (c) keep the record with the vehicle at all times, and
+- (d) retain the record for 6 months after the last such cleansing and disinfection.
+
+(2) Such cleansing and disinfection must be undertaken—
+
+- (a) before loading
+- (b) after loading and before leaving the premises of origin (the wheels and wheel arches of the vehicle only so that they are clean on leaving the premises); and
+- (c) after unloading and before leaving the premises of destination.
+
+#### 5. Production of licences and unloading after licensed movements
+
+(1) This paragraph applies where any licence is granted for movement of susceptible animals between premises under this Part, unless that licence provides otherwise.
+
+(2) Where this paragraph applies, no person is permitted to unload susceptible animals at premises to which they are moved unless that person first gives the movement licence to the occupier of those premises.
+
+(3) Where this paragraph applies, the occupier of any premises to which susceptible animals are moved must—
+
+- (a) forward the movement licence without delay to the local authority and, in the case of a slaughterhouse, provide a copy to any official veterinary surgeon appointed for those premises;
+- (b) retain a copy of the licence for a period of 6 months and produce it on request for inspection by an inspector;
+- (c) in the case of a collecting centre, ensure that sheep are marked or tagged in accordance with the directions of the National Assembly so as to enable the identity of the collecting centre and the premises from which they were moved to be established throughout their onward movement to a slaughterhouse.
+
+### PART 2 — Fresh meat, minced meat and mechanically separated meat
+
+#### 6. Fresh meat etc. derived from vaccinated animals slaughtered during phase 1
+
+(1) This paragraph applies to fresh meat, minced meat and mechanically separated meat derived from vaccinated animals slaughtered during phase 1.
+
+(2) No person is permitted to sell or consign for sale meat to which this paragraph applies unless it satisfies the following requirements—
+
+- (a) it was health or identification marked and that mark was overstamped;
+- (b) after marking, it was at all times stored and transported separately from meat which was not so marked;
+- (c) it was transported in sealed containers for treatment at an establishment designated by the National Assembly;
+- (d) it was treated at that establishment so that it falls within paragraph 1 of Schedule 5 to the Order.
+
+#### 7. Fresh meat etc. derived from vaccinated ruminants slaughtered during phase 2
+
+(1) This paragraph applies to fresh meat, minced meat and mechanically separated meat derived from vaccinated ruminants slaughtered during phase 2.
+
+(2) No person is permitted to sell or consign for sale offal to which this paragraph applies.
+
+(3) No person is permitted to sell or consign for sale meat other than offal to which this paragraph applies unless it has been produced in an establishment which—
+
+- (a) is authorised by a licence granted by the National Assembly imposing such conditions as it considers necessary to impose strict veterinary control of the establishment;
+- (b) processes only meat falling within sub-paragraph (4); and
+- (c) at all times during the production process stores, identifies and transports animal products eligible for sale separately from those which are not, and in accordance with the directions of the National Assembly.
+
+(4) Meat falls within this sub-paragraph if—
+
+- (a) it has been—
+  - (i) deboned and matured so that it falls within paragraphs 11 and 12 of Schedule 5 to the Order, or
+  - (ii) obtained from animals reared and slaughtered outside a vaccination zone; and
+- (b) it is health or identification marked.
+
+#### 8. Fresh meat etc. from vaccinated swine slaughtered during phase 2
+
+(1) This paragraph applies to fresh meat, minced meat and mechanically separated meat derived from vaccinated swine slaughtered during phase 2.
+
+(2) No person is permitted to sell or consign for sale meat to which this paragraph applies unless it satisfies the following requirements—
+
+- (a) it was health or identification marked and that mark was overstamped;
+- (b) after marking, it was at all times stored and transported separately from meat which was not so marked;
+- (c) it was transported in sealed containers for treatment at an establishment designated by the National Assembly;
+- (d) it was treated at that establishment so that it falls within paragraph 1 of Schedule 5 to the Order.
+
+#### 9. Fresh meat etc. derived from unvaccinated susceptible animals slaughtered in a vaccination zone during phase 3
+
+(1) This paragraph applies to fresh meat, minced meat and mechanically separated meat derived from unvaccinated susceptible animals slaughtered in a vaccination zone during phase 3.
+
+(2) No person is permitted to sell or consign for sale meat to which this paragraph applies unless—
+
+- (a) either—
+  - (i) all susceptible animals on all reactor premises in the vaccination zone have been slaughtered, or
+  - (ii) the animals from which the meat was derived were transported to the slaughterhouse in compliance with sub-paragraph (3) or (4); and
+- (b) it was produced in an establishment which complies with sub-paragraph (5).
+
+(3) Transport complies with this sub-paragraph if it satisfies the following requirements—
+
+- (a) the animals do not come into contact with any other susceptible animals during transport or in the slaughterhouse; and
+- (b) the animals are accompanied during transport by a copy of the notice classifying their premises of origin under regulation 25(1)(b), certified as a true copy by an inspector.
+
+(4) Transport complies with this sub-paragraph if the animals transported have either—
+
+- (a) all been tested by the National Assembly for antibodies against the disease after the end of its incubation period with negative results, or
+- (b) been subjected to a serological survey by the National Assembly at that time with negative results.
+
+(5) An establishment complies with this paragraph if it—
+
+- (a) is authorised by a licence granted by the National Assembly imposing such conditions as it considers necessary to impose strict veterinary control of the establishment;
+- (b) processes only meat falling within sub-paragraph (6); and
+- (c) at all times during the production process stores, identifies and transports animal products eligible for sale separately from those which are not, and in accordance with the directions of the National Assembly.
+
+(6) Meat falls within this sub-paragraph if—
+
+- (a) it—
+  - (i) has been deboned and matured so that it falls within paragraphs 11 and 12 of Schedule 5 of the Order,
+  - (ii) has been transported to the establishment under the authority of a licence granted under paragraph 3, or
+  - (iii) comes from animals which were reared and slaughtered outside a vaccination zone; and
+- (b) it is health or identification marked.
+
+#### 10. Fresh meat etc. derived from vaccinated ruminants and the unvaccinated seropositive offspring of vaccinated ruminant dams slaughtered during phase 3
+
+(1) This paragraph applies to fresh meat, minced meat and mechanically separated meat derived from the following animals slaughtered during phase 3—
+
+- (a) vaccinated ruminants; and
+- (b) unvaccinated seropositive offspring of vaccinated ruminant dams.
+
+(2) No person is permitted to sell or consign for sale offal to which this paragraph applies.
+
+(3) No person is permitted to sell or consign for sale meat to which this paragraph applies unless it complies with sub-paragraph (4) or it was produced in an establishment complying with sub-paragraph (5).
+
+(4) Meat complies with this sub-paragraph if it satisfies the following requirements—
+
+- (a) it was health or identification and that mark was overstamped;
+- (b) after marking, it was at all times stored and transported separately from meat which was not so marked;
+- (c) it was transported in sealed containers for treatment at an establishment designated by the National Assembly;
+- (d) it was treated at that establishment so that it falls within paragraph 1 of Schedule 5 to the Order.
+
+(5) An establishment complies with this sub-paragraph if it—
+
+- (a) is authorised by a licence granted by the National Assembly imposing such conditions as it considers necessary to impose strict veterinary control of the establishment;
+- (b) processes only meat falling within sub-paragraph (6); and
+- (c) at all times during the production process stores, identifies and transports animal products eligible for sale separately from those which are not, and in accordance with the directions of the National Assembly.
+
+(6) Meat falls within this sub-paragraph if—
+
+- (a) it—
+  - (i) has been deboned and matured so that it falls within paragraphs 11 and 12 of Schedule 5 to the Order,
+  - (ii) has been transported to the establishment under the authority of a licence granted under paragraph 3, or
+  - (iii) comes from animals which were reared and slaughtered outside a vaccination zone; and
+- (b) it is health or identification marked.
+
+#### 11. Fresh meat etc. derived from vaccinated swine and the unvaccinated seropositive offspring of vaccinated swine slaughtered during phase 3
+
+(1) This paragraph applies to fresh meat, minced meat and mechanically separated meat derived from the following animals slaughtered during phase 3—
+
+- (a) vaccinated swine; and
+- (b) unvaccinated seropositive offspring of vaccinated swine.
+
+(2) No person is permitted to sell or consign for sale meat to which this paragraph applies unless it complies with sub-paragraph (3) or it was produced in an establishment complying with sub-paragraph (4).
+
+(3) Meat complies with this sub-paragraph if it satisfies the following requirements—
+
+- (a) it was health or identification marked and that mark was overstamped;
+- (b) after marking, it was at all times stored and transported separately from meat which was not so marked;
+- (c) it was transported in sealed containers for treatment at an establishment designated by the National Assembly;
+- (d) it was treated at that establishment so that it falls within paragraph 1 of Schedule 5 to the Order.
+
+(4) An establishment complies with this sub-paragraph if it—
+
+- (a) is authorised by a licence granted by the National Assembly imposing such conditions as it considers necessary to impose strict veterinary control of the establishment;
+- (b) processes only meat falling within sub-paragraph (5); and
+- (c) at all times during the production process stores, identifies and transports animal products intended to be eligible for marketing separately from those which are not, and in accordance with the directions of the National Assembly.
+
+(5) Meat falls within this sub-paragraph if it comes from animals—
+
+- (a) originating on premises which have been declared free of disease under regulation 25(1)(b), or
+- (b) which were reared and slaughtered outside a vaccination zone.
+
+### PART 3 — Products other than fresh meat etc.
+
+#### 12. Milk and milk products produced from vaccinated animals
+
+(1) No person is permitted to sell or consign for sale the milk of a vaccinated animal or any milk product produced from such milk unless it complies with sub-paragraph (2).
+
+(2) Milk and milk products comply with this sub-paragraph if—
+
+- (a) they have been treated so as to fall within paragraph 13 or 14 of Schedule 5 to the Order, and
+- (b) that treatment was carried out either—
+  - (i) inside the vaccination zone on premises complying with sub-paragraph (3), or
+  - (ii) outside the vaccination zone on such premises as the National Assembly may direct.
+
+(3) Premises comply with this sub-paragraph if they satisfy the following requirements—
+
+- (a) they are authorised by a licence granted by the National Assembly imposing such conditions as it considers necessary to ensure strict veterinary control;
+- (b) all milk entering the premises—
+  - (i) has been treated so as to fall within paragraph 13 or 14 of Schedule 5 to the Order, or
+  - (ii) enters for such treatment, or
+  - (iii) is raw milk obtained from outside a vaccination zone;
+- (c) milk on the premises and leaving the premises is clearly identified as eligible for sale outside the vaccination zone and is at all times stored and transported separately from raw milk and raw milk products which are not so eligible.
+
+#### 13. Collection, transport and processing of milk produced in a vaccination zone
+
+(1) No person is permitted to collect and transport milk produced in a vaccination zone unless such transport complies with sub-paragraph (2) and is carried out in a vehicle which complies with sub-paragraph (3).
+
+(2) Transport complies with this sub-paragraph if it is—
+
+- (a) transport of samples of raw milk—
+  - (i) to a laboratory authorised in respect of the disease under article 4 of the Specified Animal Pathogens Order 1998 [^c15479131], or
+  - (ii) to another laboratory under the authority of a licence granted by an inspector; or
+- (b) transport to premises other than a laboratory under the authority of a licence granted by an inspector.
+
+(3) A vehicle complies with this sub-paragraph if it—
+
+- (a) has been authorised to operate within the part of Wales in which the journey is to take place by a licence granted by the National Assembly, and
+- (b) has been marked so as to identify the geographical area in which it is authorised to operate in accordance with the directions of the National Assembly.
+
+(4) A licence granted under sub-paragraph (2)(b) must specify the route to be taken and must include a condition prohibiting the vehicle used from entering any premises in the zone where susceptible animals are kept for purposes other than to load milk.
+
+(5) Any person transporting milk under the authority of a licence granted under sub-paragraph (2)(b) must ensure that—
+
+- (a) the vehicle used is constructed and maintained so that there is no leakage of milk during transport and is equipped to avoid aerosol dispersion during loading and unloading,
+- (b) before every loading, the vehicle is cleansed and disinfected in accordance with the directions of an inspector, and
+- (c) after every loading and before leaving the premises, the connection pipes, tyres, wheel cases and lower parts of the vehicle, and any spillage of milk, are cleansed and disinfected in accordance with the directions of an inspector.
+
+(6) No person is to process milk transported under sub-paragraph (2) except under the authority of a licence granted by an inspector.
+
+#### 14. Artificial insemination and collection of ova and embryos
+
+(1) No person is permitted to collect semen for artificial insemination from a susceptible animal kept in a semen collection centre in a vaccination zone unless such collection complies with sub-paragraph (3).
+
+(2) No person is permitted to collect ova or embryos from susceptible animals kept in a vaccination zone.
+
+(3) Collection of semen for artificial insemination complies with this sub-paragraph if—
+
+- (a) it is under the authority of a licence granted by the National Assembly;
+- (b) the semen collected is clearly marked in accordance with the directions of the National Assembly;
+- (c) where the donor animal is unvaccinated—
+  - (i) all animals kept in the semen collection centre have undergone a clinical examination and samples have been subjected to a serological test which substantiates the absence of infection in that centre to the satisfaction of the National Assembly, and
+  - (ii) it has been subjected with negative result to a serological test carried out by the National Assembly for the detection of antibodies against disease on a sample taken not earlier than 28 days after collection of the semen.
+- (d) where the donor animal is vaccinated—
+  - (i) the vaccination took place following a test for antibodies against the disease virus carried out by the National Assembly with negative result,
+  - (ii) a negative result has been achieved in a test for detection of either the disease virus or viral genome or for the detection of antibody against non-structural proteins, carried out by the National Assembly at the end of the quarantine period for the semen on samples taken from all susceptible animals present at the semen collection centre at that time, and
+  - (iii) 5% of the semen from each collection (with a minimum of five straws) has been subjected to a virus isolation test for the disease carried out by the National Assembly with negative results.
+
+(4) No person is permitted to use semen collected in compliance with sub-paragraph (3) for artificial insemination unless it was stored separately from other semen for at least 30 days after collection.
+
+#### 15. Hides and skins
+
+(1) This paragraph applies to hides and skins of susceptible animals originating in a vaccination zone.
+
+(2) No person is permitted to sell or consign for sale any animal product to which this paragraph applies unless either—
+
+- (a) it was—
+  - (i) produced before the date 21 days before the vaccination zone was declared, and
+  - (ii) at all times stored separately from hides and skins which were not so produced; or
+- (b) it has been treated so that it falls within paragraph 2 of Schedule 5 to the Order.
+
+#### 16. Wool, ruminant hair and pig bristles
+
+(1) This paragraph applies to wool, ruminant hair and pig bristles from animals originating in a vaccination zone.
+
+(2) No person is permitted to sell or consign for sale any animal product to which this paragraph applies unless either—
+
+- (a) it was—
+  - (i) produced before the date 21 days before the vaccination zone was declared, and
+  - (ii) at all times stored separately from wool, ruminant hair and pig bristles which were not so produced; or
+- (b) it has been treated so that it falls within paragraph 3 of Schedule 5 to the Order.
+
+#### 17. Other animal products
+
+(1) This paragraph applies to any animal products to which the other paragraphs in this Schedule do not apply where they are produced from susceptible animals originating in a vaccination zone.
+
+(2) No person is permitted to sell or consign for sale an animal product to which this paragraph applies unless it satisfies one of the following requirements—
+
+- (a) it was—
+  - (i) produced before the date 21 days before the vaccination zone was declared, and
+  - (ii) at all times stored and transported separately from animal products which were not so produced;
+- (b) it has been treated so that it falls within paragraph 4 of Schedule 5 to the Order;
+- (c) where it is referred to in one of paragraphs 5 to 9 of Schedule 5 to the Order, it has been treated so that it falls within that paragraph;
+- (d) it is a composite product (that is, a manufactured or processed product containing more than one ingredient at least one of which is an animal product) and each ingredient which is an animal product—
+  - (i) is referred to in a paragraph of Schedule 5 to the Order and has been treated so that it falls within that paragraph (either before manufacturing or processing, or as part of the composite product), or
+  - (ii) was produced from susceptible animals not originating on infected, suspect or contact premises or in a temporary control zone, protection zone, surveillance zone or vaccination zone;
+- (e) it is a packaged product ready for use—
+  - (i) as a reagent, reagent product, calibrator, kit or any other system (whether used alone or in combination),
+  - (ii) in vitro for the examination of samples of human or animal origin (with the exception of donated organs or blood), and
+  - (iii) solely or principally with a view to the diagnosis of a physiological state, state of health, disease or genetic abnormality or to determine safety and compatibility with reagents.
+
+(3) In this paragraph, the terms “susceptible animals originating on” (in respect of infected, suspect or contact premises) and “susceptible animals originating in” (in respect of a temporary control zone, protection zone or surveillance zone) have the meanings given to them in article 3 of the Order.
+
+#### 18. Transport, treatment and distribution of dung and manure
+
+(1) This paragraph applies to dung or manure from premises in a vaccination zone where susceptible animals are kept.
+
+(2) No person is permitted to transport dung or manure to which this paragraph applies unless such transport complies with sub-paragraph (3), (5) or (7), and with sub-paragraph (10).
+
+(3) Transport of dung or manure complies with this sub-paragraph where it is to an establishment for treatment to destroy the disease virus under the authority of a licence granted by the National Assembly.
+
+(4)[^key-9b8ef5e124f7fbcf8cc9bbd926781ed1] The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) must ensure that it is treated in accordance with—
+
+- (a) Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council; and
+- (b) Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Commission Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council.
+
+(5) Transport of dung or manure complies with this sub-paragraph if—
+
+- (a) the dung or manure is for spreading,
+- (b) the transport is under the authority of a licence granted by an inspector, and
+- (c) before grant of the licence a veterinary inspector has examined all susceptible animals on the premises where it was produced and is satisfied that they are not suspected of infection.
+
+(6) No person is permitted to spread dung or manure transported by authority of a licence granted under sub-paragraph (5) unless such spreading is authorised by an inspector and the dung or manure—
+
+- (a) is spread from not more than 1 metre above the ground,
+- (b) if liquid, is not discharged by equipment producing a jet or spray unless the discharge point is directed downwards at an angle of not less than 45°from horizontal, and
+- (c) is immediately incorporated into the ground.
+
+(7) Transport of dung or manure complies with this sub-paragraph if—
+
+- (a) the dung or manure is for spreading,
+- (b) the transport is under the authority of a licence granted by an inspector, and
+- (c) before grant of the licence a veterinary inspector clinically examined all susceptible animals on the premises where it was produced and was satisfied that they are not suspected of infection.
+
+(8) No person is permitted to spread dung or manure transported by authority of a licence granted under sub-paragraph (7) unless such spreading is authorised by a licence granted by an inspector and the dung or manure is injected into the ground.
+
+(9) Any licence granted under sub-paragraph (5), (6) or (8) must contain at least the following terms—
+
+- (a) designation of the areas within which the dung or manure must be spread;
+- (b) designation of a distance from other premises where susceptible animals are kept within which dung or manure must not be spread.
+
+(10) Transport of dung or manure complies with this sub-paragraph if it is carried out in a vehicle which is—
+
+- (a) constructed and maintained so that there is no leakage of the load during transport, and
+- (b) cleansed and disinfected after loading and before leaving the premises of origin.
+
+(11) After transporting dung or manure under this paragraph, the person in charge of the vehicle must ensure it is cleansed and disinfected after unloading or spreading and before leaving the premises of destination.
+
+(12) The person in charge of a vehicle to be cleansed and disinfected under sub-paragraph (10) or (11) must ensure that such cleansing and disinfection is carried out so that—
+
+- (a) the exterior (including the wheels and wheel arches) is not marked with mud, dung, manure or similar matter on leaving either premises,
+- (b) the interior (excluding any driver or passenger compartment) is not so marked on leaving the premises of destination, and
+- (c) any additional requirements as an inspector directs are complied with.
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which apply in relation to Wales, transpose those aspects of Council Directive [2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/0085) on Community measures for the control of foot and mouth disease (“**the Directive**”) that relate to vaccination against foot and mouth disease (“disease”).
+
+The Foot and Mouth Disease (Wales) Order 2006, which comes into force contemporaneously with these Regulations, and the Animal Health Act (Amendment) Regulations 2005, give effect to the remaining provisions of the Directive.
+
+Part 1 of the Regulations contain introductory and interpretative provisions.
+
+Parts 2 makes provision for a programme of vaccination against disease and Part 3 prescribes general and supplementary provision. In particular Part 2 and 3 provide for the following:
+
+- (a) prohibition of vaccination unless under authority of a licence granted by the National Assembly (regulation 8);
+- (b) factors to be taken into account by the National Assembly in deciding to whether to grant a licence permitting suppressive or protective vaccination (regulation 9);
+- (c) form of decisions to undertake vaccination programmes (regulation 10);
+- (d) effect of licences permitting vaccination (regulation 11);
+- (e) facilitation of vaccination procedures by keepers (regulation 12);
+- (f) declaration of, and measures applicable within, vaccination zones and vaccination surveillance zones (regulations 13 to 17);
+- (g) extension of the power to vaccinate in section 16 of the Animal Health Act 1981 (regulation 18);
+- (h) requirements as to the identification of vaccinated animals including provisions concerning cattle passports, eartags and identification for sale and slaughter (regulations 19 to 22 );
+- (i) provision for cases where animals (and their carcases) included in vaccination programmes have not been vaccinated (regulations 23 & 24);
+- (j) Survey and classification of premises (regulation 25);
+- (k) Duty of local authority to erect signs (regulation 26);
+- (l) Prohibition on intra-Community trade of vaccinated animals (regulation 27);
+- (m) Cleansing and disinfection of vehicles used pursuant to the provisions of these Regulations (regulation 28);
+- (n) Marks applied to animals, animal products, carcases and vehicles under these Regulations (regulation 29);
+- (o) Access and facilities to be provided by persons entitled to occupation where animals or poultry are prevented from moving from their premises by movement restrictions (regulation 30);
+- (p) Provision of assistance, records and information to inspectors, offences, powers of inspectors and general powers of enforcement including the application of certain provisions (including enforcement provisions) of the Animal Health Act 1981 to these Regulations (regulations 31 to 42).
+
+These Regulations also revoke the Foot and Mouth Disease (Infected Areas) Vaccination) Order 1972 (S.I. 1972/1509) (insofar as it applies in relation to Wales), and the Foot and Mouth Disease (Prohibition of Vaccination)(Wales) regulations 2001 (S.I. 2001/2374) (regulation 43).
+
+A Regulatory Appraisal has been prepared in respect of these Regulations and is available for inspection at the offices of the National Assembly for Wales, Department for Environment, Planning and Countryside, Cathays Park, Crown Buildings, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^c15478941]: Marginal citation: 1972, c. 68
+
+[^c15478951]: Marginal citation: [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766)
+
+[^c15478961]: Marginal citation: 1981, c. 22, amended by the Animal Health Act 2002, c. 42.
+
+[^c15478971]: Marginal citation: [S.I. 2005/1158](https://www.legislation.gov.uk/uksi/2005/1158) (W.75)..
+
+[^key-118f98a1b38119ab1400f060b075280f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/180/regulation/2/1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [18](https://www.legislation.gov.uk/wsi/2020/44/regulation/18)
+
+[^c15478991]: Marginal citation: OJ No. L139, 30.4.2004, p.55. The revised text of the Regulation is contained in a corrigendum (OJ No. L226, 25.6.2004, p.22).
+
+[^c15479001]: Marginal citation: [S.I. 2006/180](https://www.legislation.gov.uk/uksi/2006/180) (W.319).
+
+[^c15479011]: Marginal citation: [S.I. 2006/31](https://www.legislation.gov.uk/uksi/2006/31) (W.5).
+
+[^c15479021]: Marginal citation: [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), amended by [S.I. 2005/583](https://www.legislation.gov.uk/uksi/2005/583) (W.49); there are other amending instruments but none are relevant.
+
+[^c15479031]: Marginal citation: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463).
+
+[^c15479041]: Marginal citation: [S.I. 2005/2745](https://www.legislation.gov.uk/uksi/2005/2745).
+
+[^c15479051]: Marginal citation: OJ No. L306, 22.11.2003, pl.
+
+[^key-941d7447e6d9085f054249889f482dac]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/wsi/2006/180/regulation/9/4) inserted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c15479061]: Marginal citation: [S.I. 1996/1686](https://www.legislation.gov.uk/uksi/1996/1686).
+
+[^c15479071]: Marginal citation: [S.I. 1998/871](https://www.legislation.gov.uk/uksi/1998/871), to which there are amendments not relevant to these Regulations.
+
+[^c15479081]: Marginal citation: [S.I. 2000/3339](https://www.legislation.gov.uk/uksi/2000/3339), to which there are amendments not relevant to these Regulations.
+
+[^key-be20d16f6527349ae483cfe64f94c5b2]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/wsi/2006/180/regulation/23/1) substituted (1.4.2010) by [The Animals (Divisional Veterinary Managers) (Wales) Regulations 2010 (S.I. 2010/619)](https://www.legislation.gov.uk/wsi/2010/619), [regs. 1](https://www.legislation.gov.uk/wsi/2010/619/regulation/1), [3](https://www.legislation.gov.uk/wsi/2010/619/regulation/3)
+
+[^key-aa36d66d86c64413f96ae390f66a11d6]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/wsi/2006/180/regulation/27) heading substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1d97ba9714fbb90b0572d633fc576a5d]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/wsi/2006/180/regulation/27) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c4beb4533b9f5ea015681d8e5bb3f050]: Textual amendment: Words in [reg. 35(2)(a)](https://www.legislation.gov.uk/wsi/2006/180/regulation/35/2/a) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c15479091]: Marginal citation: [S.I. 1972/1509](https://www.legislation.gov.uk/uksi/1972/1509)
+
+[^c15479101]: Marginal citation: [S.I. 2001/2374](https://www.legislation.gov.uk/uksi/2001/2374) (W.198).
+
+[^c15479111]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^c15479121]: Marginal citation: [S.I. 2003/1968](https://www.legislation.gov.uk/uksi/2003/1968) (W.213).
+
+[^c15479131]: Marginal citation: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463).
+
+[^key-9b8ef5e124f7fbcf8cc9bbd926781ed1]: Textual amendment: [Sch. para. 18(4)](https://www.legislation.gov.uk/wsi/2006/180/schedule/paragraph/18/4) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/2)

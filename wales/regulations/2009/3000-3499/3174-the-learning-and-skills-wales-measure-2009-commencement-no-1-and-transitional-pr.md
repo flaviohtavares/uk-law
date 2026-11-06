@@ -1,0 +1,153 @@
+---
+title: The Learning and Skills (Wales) Measure 2009 (Commencement No. 1 and Transitional Provision) Order 2009
+id: wsi/2009/3174
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2009-12-02'
+text_date: '2010-05-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2009/3174
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2009/3174/pdfs/wsi_20093174_mi.pdf
+- http://www.legislation.gov.uk/wsi/2009/3174/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Learning and Skills (Wales) Measure 2009 (Commencement No. 1 and Transitional Provision) Order 2009
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2010-05-05. See https://www.legislation.gov.uk/changes/affected/wsi/2009/3174
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 3174 (W.276) (C.141)
+
+EDUCATION, WALES
+
+The Learning and Skills (Wales) Measure 2009 (Commencement No. 1 and Transitional Provision) Order 2009
+
+Made
+
+2 December 2009
+
+The Welsh Ministers, in exercise of the powers conferred upon them by sections 48(2) and 49(2) of the Learning and Skills (Wales) Measure 2009[^f00001], make the following Order:
+
+## 1. Title and interpretation[^key-6b655606355442080984b3079a0ce349]
+
+(1) The title of this Order is the Learning and Skills (Wales) Measure 2009 (Commencement No. 1 and Transitional Provision) Order 2009.
+
+(2) In this Order—
+
+- “the 2002 Act” (“*Deddf 2002*”) means the Education Act 2002[^f00002];
+- “the Measure” (“*y Mesur*”) means the Learning and Skills (Wales) Measure 2009.
+
+## 2. Appointed Days[^key-d81979c60a573564c18f999ed1c679b2]
+
+(1) The following provisions of the Measure come into force on 7 December 2009—
+
+- (a) section 1 (interpretation);
+- (b) section 4 (formation of local curricula for pupils in Key Stage 4) for the purpose of carrying out the preparatory work necessary to form the local curriculum in accordance with the provisions of section 4 when it comes fully into force and for the purposes of making regulations under section 116A(5) of the 2002 Act and giving directions under section 116A(6) of the 2002 Act;
+- (c) section 7 (pupils choices of local curriculum courses) for the purpose of making regulations under section 116D(2) of the 2002 Act;
+- (d) section 9 (head teacher’s decision as to entitlement) for the purpose of making regulations under section 116F(3) of the 2002 Act;
+- (e) section 11 (head teacher’s decision to remove entitlement) for the purpose of making regulations under section 116H(3) of the 2002 Act;
+- (f) section 12 (planning the local curriculum);
+- (g) section 13 (delivery of local curriculum entitlements: joint-working);
+- (h) section 14 (joint-working: guidance and directions);
+- (i) section 18 (local curriculum: directions);
+- (j) section 20 (regulations and orders: procedure);
+- (k) section 40 (provision of services by maintained schools and further education institutions);
+- (l) section 41 (duties of governing bodies);
+- (m) section 42 (amendments to the Learning and Skills Act 2000);
+- (n) section 43 (the learning pathway document);
+- (o) section 44 (learning pathways: interpretation);
+- (p) section 45 (provision of curriculum information);
+- (q) section 47 (minor and consequential amendments) in so far as it relates to the provisions of the Schedule specified in paragraph (r);
+- (r) paragraphs 11 to 22 of the Schedule (minor and consequential amendments).
+
+(2) The following provisions of the Measure come into force on 1 January 2010—
+
+- (a) section 2 (duty to implement general requirements);
+- (b) section 3 (basic curriculum for every maintained school in Wales);
+- (c) section 4 (formation of local curricula for pupils in Key Stage 4) fully;
+- (d) section 5 (local curricula: Welsh language);
+- (e) section 6 (authorities with more than one local curriculum);
+- (f) section 7 (pupils' choices of local curriculum courses) fully;
+- (g) section 8 (pupils' local curriculum entitlements);
+- (h) section 9 (head teacher’s decision as to entitlement) fully;
+- (i) section 10 (delivery of local curriculum entitlements);
+- (j) section 11 (head teacher’s decision to remove entitlement) fully.
+- (k) section 15 (power to amend learning domains);
+- (l) section 16 (application of local curriculum provisions to children who are not registered pupils);
+- (m) section 17 (application of local curriculum provisions to children who are registered pupils of special schools);
+- (n) section 19 (powers to alter or remove requirements for fourth key stage).
+
+## 3. Transitional provision[^key-df94d2eefe01ceb5f5e56711c23f9a19]
+
+Despite the coming into force of section 5 of the Measure on 1 January 2010, the requirement for a local authority[^key-717f8d9ea59d7abc7114547637df46b3] to provide a report under section 116B of the 2002 Act does not apply in relation to the end of the academic year 2009 to 2010.
+
+John Griffiths
+
+Deputy Minister for Skills under authority of the Minister for Children, Education, Lifelong Learning and Skills, one of the Welsh Ministers
+
+2 December 2009
+
+(This note is not part of the Order)
+
+This is the first Commencement Order made by the Welsh Ministers under the Learning and Skills (Wales) Measure 2009. It brings into force on 7 December 2009 and 1 January 2010 various provisions of the Measure specified in article 2 of the Order.
+
+The provisions of the Measure brought into force on 7 December 2009 are as follows:
+
+- Section 1 contains definitions.
+- Section 4 (which is commenced for the purpose of carrying out preparatory work, making regulations and issuing directions) inserts section 116A into the Education Act 2002 (“the 2002 Act”) which requires local authorities to form one or more local curricula for 14-16 year olds.
+- Section 7 (which is commenced for the purpose of making regulations) inserts section 116D into the 2002 Act which confers on pupils the right to elect to follow a particular course of study.
+- Section 9 (which is commenced for the purpose of making regulations) inserts section 116F into the 2002 Act which makes provision for a head teacher to decide that a pupil is not entitled to follow a particular course or courses of study.
+- Section 11 (which is commenced for the purpose of making regulations) inserts section 116H into the 2002 Act which makes provision for a head teacher to decide that a pupil is no longer be entitled to follow a course of study.
+- Section 12 inserts section 116I into the 2002 Act. This requires governing bodies of secondary schools, head teachers, governing bodies of further education institutions and their principals to assist local education authorities in planning their local curricula.
+- Section 13 inserts section 116J into the 2002 Act which makes provision in relation to maximising the availability of courses of study included in a local curriculum.
+- Section 14 inserts section 116K into the 2002 Act which makes provision in relation to the joint-working obligations imposed by section 116J.
+- Section 18 inserts section 116O into the 2002 Act and makes provision about directions.
+- Section 20 amends section 210 of the 2002 Act in relation to the procedure for making regulations and orders.
+- Section 40 makes provision in relation to the provision of learner support services by the governing bodies of schools and further education institutions.
+- Section 41 requires governing bodies to comply with a direction given under section 40.
+- Section 42 amends section 126 of the Learning and Skills Act 2000 so that it applies in relation to learner support services and section 127 of that Act so that Estyn can arrange for inspections of the provision of learner support services.
+- Section 43 makes provision for each “relevant pupil” or “relevant student” to be provided with a document which records his or her learning pathway.
+- Section 44 defines terms used in section 43.
+- Section 45 inserts a new section 45B into the Education Act 1997 which permits careers services providers to require schools and further education institutions to provide them with curriculum information.
+- Section 47 and paragraphs 11 to 22 of the Schedule contain minor and consequential amendments.
+
+The provisions of the Measure brought into force on 1 January 2010 are as follows:
+
+- Section 2 amends section 100 of the 2002 Act in relation to the general requirements for the curriculum for a maintained school.
+- Section 3 amends section 101 of the 2002 Act in relation to the basic curriculum for schools.
+- Section 5 inserts section 116B into the 2002 Act to require local education authorities to promote access to and availability of courses of study which are taught in the Welsh language.
+- Section 6 inserts section 116C into the 2002 Act which makes provision for a local education authority that forms more than one local curriculum.
+- Section 7 is commenced fully.
+- Section 8 inserts section 116E into the 2002 Act which makes provision as to a pupil’s entitlement to follow a chosen course of study.
+- Section 9 is commenced fully
+- Section 10 inserts section 116G into the 2002 Act which imposes a duty on a school governing body to deliver local curriculum entitlements during the fourth key stage.
+- Section 11 is commenced fully.
+- Section 15 inserts section 116L into the 2002 Act which allows Welsh Ministers to amend section 116A(3) of that Act.
+- Section 16 inserts section 116M into the 2002 Act which provides for the making of regulations to apply the local curriculum provisions to children who are not registered pupils of maintained schools.
+- Section 17 inserts section 116N into the 2002 Act which provides for the making of regulations to apply the local curriculum provisions in respect of registered pupils of special schools.
+- Section 19 amends section 107 of the 2002 Act in relation to the power to alter or remove requirements for the fourth key stage.
+
+Article 3 of the Order makes transitional provision in relation to the report required to be published under section 116B of the 2002 Act on Welsh medium courses.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 nawm 1](https://www.legislation.gov.uk/mwa/2090/1).
+
+[^key-6b655606355442080984b3079a0ce349]: Commencement: Art. 1 in force at made date
+
+[^f00002]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^key-d81979c60a573564c18f999ed1c679b2]: Commencement: Art. 2 in force at made date
+
+[^key-df94d2eefe01ceb5f5e56711c23f9a19]: Commencement: Art. 3 in force at made date
+
+[^key-717f8d9ea59d7abc7114547637df46b3]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2009/3174/article/3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/27)

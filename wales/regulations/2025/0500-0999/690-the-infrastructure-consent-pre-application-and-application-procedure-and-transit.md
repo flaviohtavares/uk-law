@@ -1,0 +1,804 @@
+---
+title: The Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025
+id: wsi/2025/690
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-06-16'
+text_date: '2026-06-02'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2025/690
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2025/690/pdfs/wsi_20250690_mi.pdf
+- http://www.legislation.gov.uk/wsi/2025/690/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025
+
+> Text as at 2026-06-02.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2025 No. 690 (W. 114)
+
+Infrastructure Planning, Wales
+
+The Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025
+
+Made
+
+16 June 2025
+
+Laid before Senedd Cymru
+
+17 June 2025
+
+Coming into force
+
+15 December 2025
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 29(1)(h), (2), (3) and (5), 30(2) and (3), 32(4) and (5), 34(2)(c), (3) and (5), 35(1)(a), 36(4)(b), 37(4)(b), 60(2)(d), (4)(d) and (6), 62(3)(d), 129(3)(a) and (4), 132(2), 140(1) and (2)[^f00001], 141(2) and 144 of the Infrastructure (Wales) Act 2024[^f00002], make the following Regulations.
+
+## PART 1 — Preliminary
+
+### 1. Title and coming into force[^key-54b0f2c9b1284135dfdb373a12c0f093]
+
+The title of these Regulations is the Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025 and they come into force on 15 December 2025.
+
+### 2. Interpretation and giving notices etc[^key-e6dcb0fd57ce8c72a82e093934521a0f]
+
+(1) In these Regulations—
+
+- “**the 2024 Act**” (“***Deddf 2024***”) means the Infrastructure (Wales) Act 2024;
+- “**applicant**” (“***ceisydd***”) means a person who proposes to make, or has made an application for infrastructure consent;
+- “**application**” (“***cais***”) means an application for infrastructure consent made under section 32 of the 2024 Act;
+- “**appropriate Crown authority**” (“***awdurdod priodol y Goron***”) has the meaning given in section 134(5) of the 2024 Act;
+- “**consent**” (“***cydsyniad***”) for the purpose of deemed consent and extinguished consent means—
+  - (a) a consent or authorisation that is required, under an enactment, to be obtained for development,
+  - (b) a consent or authorisation that—
+    - (i) may authorise development, and
+    - (ii) is given under an enactment, or
+  - (c) a notice that is required by an enactment to be given in relation to development;
+- “**co-ordinates**” (“***cyfesurynnau***”) means—
+  - (a) co-ordinates of latitude and longitude on the world Geodetic System 1984[^f00003], or
+  - (b) co-ordinates on the National Grid used by the Ordnance Survey;
+- “**Crown land**” (“***tir y Goron***”) has the meaning given in section 134(2) of the 2024 Act;
+- “**deemed consent**” (“***cydsyniad tybiedig***”) means a consent that it is proposed the infrastructure consent order will deem to have been granted in accordance with section 84(1)(b) of the 2024 Act;
+- “**development**” (“***datblygiad***”) has the meaning given in section 133 of the 2024 Act;
+- “**EIA development**” (“***datblygiad AEA***”) means activity that—
+  - (a) is “**EIA development**” as defined in regulation 2 of the Planning EIA Regulations[^key-dbe007d4838adf647e0d4409f0fe9a28], or
+  - (b) requires an environmental impact assessment in accordance with regulation 2A or Part 2 of the Marine EIA Regulations[^key-bb62b46f9a33cb158335237073a22b05];
+- [^key-74de950e15eb919414940efa68274ddb]...
+- “**environmental statement**” (“***datganiad amgylcheddol***”) has the meaning given in regulation 2(1) of the Planning EIA Regulations in the case of development in Wales and regulation 2(1) of the Marine EIA[^key-c7e10ae243294568fe941dc7fe69e441] Regulations in the case of development in the Welsh marine area;
+- “**examining authority**” (“***awdurdod archwilio***”) means a person or panel of persons appointed under section 40 of the 2024 Act in respect of a particular application;
+- “**extinguished consent**” (“***cydsyniad a ddiddymwyd***”) means a consent where it is proposed the infrastructure consent order will remove the requirement for the consent to be granted in accordance with section 84(1)(a) of the 2024 Act;
+- “**infrastructure consent**” (“***cydsyniad seilwaith***”) means the consent required by section 19 of the 2024 Act;
+- “**infrastructure consent order**” (“***gorchymyn cydsyniad seilwaith***”) means an order made under the 2024 Act granting infrastructure consent;
+- “**land**” (“***tir***”) includes buildings, monuments and land covered with waters (including the sea bed); and in relation to Part 6 of the 2024 Act (infrastructure consent orders) must be read in accordance with section 102 of that Act;
+- “**the Marine EIA Regulations**” (“***y Rheoliadau AEA Morol***”) means the Marine Works (Environmental Impact Assessment) Regulations 2007[^f00008];
+- “**notice of acceptance**” (“***hysbysiad derbyn***”) means a notice given under section 29(4) of the 2024 Act that the notification has been accepted;
+- “**notice of proposed application**” (“*hysbysiad o gais arfaethedig*”*)* means a notice given by an applicant in accordance with section 29(1) of the 2024 Act;
+- “**notice of a valid application**” (“***hysbysiad o gais dilys***”) means a notice under section 34(2) of the 2024 Act;
+- “**planning authority**” (*“awdurdod cynllunio*”) means the local planning authority within the meaning given by Part 1 of the TCPA 1990 for an area in Wales;
+- “**the Planning EIA Regulations**” (“***y Rheoliadau AEA Cynllunio***”) means the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017[^f00009];
+- “**pre-application services**” (“***gwasanaethau cyn gwneud cais***”) is to be interpreted in accordance with section 27(2) of the 2024 Act;
+- “**regulated activity**” (“***gweithgaredd a reoleiddir***”) has the meaning given in regulation 2(1) of the Marine EIA Regulations;
+- “**relevant claim**” (“***hawliad perthnasol***”) means—
+  - (a) a claim under section 10 of the Compulsory Purchase Act 1965[^f00010] (compensation where satisfaction not made for compulsory purchase of land or not made for injurious affection resulting from compulsory purchase);
+  - (b) a claim under Part 1 of the Land Compensation Act 1973[^f00011] (compensation for depreciation of land value by physical factors caused by use of public works);
+  - (c) a claim under section 101(3) of the 2024 Act;
+- “**significant infrastructure project**” (“***prosiect seilwaith arwyddocaol***”) has the meaning given by Part 1 of the 2024 Act;
+- “**specialist consultee**” (“ *ymgynghorai arbenigol”)* has the meaning in regulation 3(2)(b);
+- “**statutory consultee**” (“***ymgynghorai statudol***”) has the meaning in regulation 3(2)(a);
+- “**screening direction**” (“*cyfarwyddyd* cwmpasu”) means a direction made by the Welsh Ministers as to whether development is EIA development;
+- “**TCPA 1990**” (“*DCGTh 1990*) means the Town and Country Planning Act 1990[^f00012];
+- “**Wales**” (“***Cymru***”) means the combined area of the counties and county boroughs in Wales (see Parts 1 and 2 of Schedule 4 to the Local Government Act 1972[^f00013];
+- “**Welsh marine area**” (“***ardal forol Cymru***”) means the sea adjacent to Wales out as far as the seaward boundary of the territorial sea, and the question on which parts of the sea are adjacent to Wales is to be determined in accordance with article 6 of the National Assembly for Wales (Transfer of Functions) Order 1999[^f00014].
+
+(2) See section 136 of the 2024 Act in relation to provision in these Regulations which requires or authorises a person to—
+
+- (a) notify another person of something, or
+- (b) give a document to another person (whether the provision uses the word “serve”, “give” or other term).
+
+## PART 2 — Pre-application notification
+
+### 3. Notice of proposed application[^key-49a6374a0eab798d87342f00db82bbd7]
+
+(1) The notice of proposed application must consist of—
+
+- (a) the form published on a website maintained by the Welsh Ministers or on their behalf or a form substantially to the same effect,
+- (b) the particulars specified or referred to in the form,
+- (c) for development in Wales, a plan drawn to an identified scale and showing the direction of north, or for development in the Welsh marine area, co-ordinates which identify the location to which the application relates,
+- (d) either—
+  - (i) a statement confirming that an environmental statement will be provided, or
+  - (ii) a screening direction, and
+- (e) details of other persons to whom the pre-application form and other supporting information have been sent to.
+
+(2) In addition to the persons specified in section 29(1) of the 2024 Act, the notice of proposed application must be sent to—
+
+- (a) the person in the third column of the table in the Schedule, where the application relates to the category of development listed in the second column of that table (“statutory consultee”), and
+- (b) the person in the fourth column of the table in the Schedule, where the application relates to the category of development listed in the second column of that table (“specialist consultee”).
+
+(3) The notice of proposed application must be accompanied by any fee required to be paid in relation to the giving of such notification.
+
+(4) The form published by the Welsh Ministers in accordance with paragraph (1)(a) must include the following information—
+
+- (a) the name and address of the applicant,
+- (b) the location of the proposed development by reference to a site address or co-ordinates, and
+- (c) a non-technical description of the proposed development.
+
+### 4. Acceptance of notice of proposed application[^key-9d4a605b7354f9a4d780944d6b5fc32f]
+
+Where a notice of proposed application is accepted, a notice of acceptance must be given by the Welsh Ministers within 14 days, beginning with the day after the receipt of the proposed application by the Welsh Ministers to—
+
+- (a) the relevant statutory consultees and specialist consultees;
+- (b) any person or persons notified under section 29(1)(a) to (g) of the 2024 Act;
+- (c) any person or persons identified by the applicant in accordance with regulation 3(1)(e).
+
+## PART 3 — Pre-application consultation and publicity
+
+### 5. Pre-application requirements[^key-dc48c09486d5b6d7361496c5fc38d6b8]
+
+An applicant must comply with the requirements of this Part before an application is submitted.
+
+### 6. Consultation and publicity: website[^key-b430d45e1291d3a2d6271b6be2724e9f]
+
+(1) The applicant must publish and maintain information about the proposed development on a website within 3 months beginning with the day after receipt of the notice of acceptance by the Welsh Ministers.
+
+(2) The following information must be published on the website until an application is made—
+
+- (a) the draft application form,
+- (b) a copy of the notice of proposed application,
+- (c) draft details of the community benefit of the scheme,
+- (d) a non-technical description of the proposed development,
+- (e) for development in Wales a plan drawn to an identified scale and showing the direction of north, or for development in the Welsh marine area, co-ordinates which identify the location to which the proposed application relates,
+- (f) non-technical descriptions of any documents, plans, drawings and information relating to a proposed development,
+- (g) drafts of any other documents, plans, drawings and information necessary to describe the proposed development,
+- (h) details of consultation events undertaken or proposed to be undertaken,
+- (i) details of up-dates, timescales and changes made to the proposed development,
+- (j) a copy of the notice of acceptance of the proposed application,
+- (k) where applicable, a draft of the environmental statement for the proposed development,
+- (l) in a case where it is proposed that an infrastructure consent order should include either a deemed or extinguished consent, a draft statement about such consents, and
+- (m) contact details for the applicant, including a postal and email address and telephone number.
+
+(3) Any plans or drawings to be provided under this regulation must be drawn to an identified scale and in the case of plans must show the direction of north.
+
+### 7. Consultation and publicity: site notice[^key-2b3575c099f1818378edc7be1b563eea]
+
+(1) In the case of a proposed application for development on land in Wales, the applicant must display a notice (“site notice”) in at least one place on or near the land to which the proposed application relates for not less than 42 days.
+
+(2) Where a proposed development relates to a linear scheme exceeding 5km in length, a site notice must be displayed at intervals of no more than 5km from the start to the end of the proposed route unless it is impracticable to do so.
+
+(3) Where the site notice is, without any fault of the applicant, removed, obscured or defaced before the period of 42 days has elapsed, the applicant will be treated as having complied with the requirements of the relevant paragraph if they have taken reasonable steps to protect the site notice and if need be, replace it.
+
+### 8. Consultation and publicity for development in Wales: written notice[^key-7140a9c529b1be8587ce1cfac7027ae0]
+
+The applicant must give notice in writing of the proposed application to—
+
+- (a) any owner or occupier of the land adjoining the land to which the proposed development relates,
+- (b) if the proposed development is in Wales, each planning authority for the area in which the proposed development is located,
+- (c) all relevant statutory consultees and specialist consultees,
+- (d) if the proposed development is located in an area for which there is a community council, the community council,
+- (e) each Member of the Senedd representing an area in which the proposed development is located,
+- (f) each Member of the House of Commons representing an area in which the proposed development is located,
+- (g) all persons who own, occupy or have another interest in the land to which a proposed development relates, or could be affected in such a way that they may be able to make a relevant claim, and
+- (h) any other person or persons the applicant considers appropriate including individuals, groups or societies identified by any pre-application services provided.
+
+### 9. Consultation and publicity for development in Wales: additional requirements[^key-37a06543beb9533b72ee3b1995f94676]
+
+The applicant must publicise the proposed application by the following methods—
+
+- (a) by publication of the notice in a newspaper circulating in the locality in which the land to which the proposed application relates is situated for a minimum period of 7 days, and
+- (b) by holding at least one public engagement event in the locality of the land to which the application relates.
+
+### 10. Consultation and publicity for development in the Welsh marine area: additional requirements before applying for infrastructure consent[^key-3e4dfbe827337cadbd968119eb2f5746]
+
+(1) In the case of a proposed application for development in the Welsh marine area, the applicant must—
+
+- (a) give notice to —
+  - (i) any planning authority considered appropriate by the applicant;
+  - (ii) all relevant statutory consultees and specialist consultees;
+  - (iii) any relevant community council considered appropriate by the applicant;
+  - (iv) any Member of the Senedd considered appropriate by the applicant;
+  - (v) any Member of the House of Commons considered appropriate by the applicant;
+  - (vi) Natural Resources Wales;
+  - (vii) any other person or persons the applicant considers appropriate, including individuals, groups or societies identified by any pre-application services provided;
+- (b) by publishing the notice for at least 7 days in—
+  - (i) one or more local newspapers which are likely to come to the attention of those likely to be affected by the proposed development;
+  - (ii) at least one appropriate fishing journal if one is in circulation;
+  - (iii) Lloyd’s List.
+
+(2) The applicant must have complied with paragraph (1) before an application is submitted.
+
+### 11. Information to be contained in notices[^key-b28b50b44218627422c776b5760af4a7]
+
+Notices issued as part of pre-application publicity and consultation under regulations 7 to 10[^key-9a111dec7e06d2f8ca2683b13ce67556] must contain the following information—
+
+- (a) the name and address of the applicant including a postal and email address and telephone number,
+- (b) the location of the proposed development,
+- (c) a summary of the main proposals, including whether the proposed application includes a request to authorise the compulsory acquisition of land[^f00015],
+- (d) details of any pre-application consultation events to be held,
+- (e) details of the website under regulation 6(1) and an address at which documents published on that website can be viewed, and
+- (f) the date by which any responses are to be received, such date being no less than 42 days beginning with the day after the date the notice is issued.
+
+### 12. Responses to pre-application consultation[^key-20c31fac66b0fc363b575ac710549073]
+
+(1) A statutory consultee, consulted under regulation 8 or 10 must provide a substantive response within 42 days beginning with the day after the notice referred to in regulation 8 or 10[^key-1965d35eb420eb27f0a1b1b6b79a0a7b] is given or such other period as may be agreed in writing between the statutory consultee and the applicant.
+
+(2) A substantive response is one which—
+
+- (a) states the statutory consultee has no comment to make and gives reasons for that response,
+- (b) states the statutory consultee has no objection to the proposed development and refers the applicant to current standing advice by the statutory consultee on the subject of the consultation,
+- (c) advises the applicant the statutory consultee has concerns about the proposed development and how those can be addressed, or
+- (d) advises the applicant the statutory consultee has concerns about the proposed development and that it would object to an application made in the same or substantially the same terms and sets out the reasons for those objections.
+
+## PART 4 — Applications for infrastructure consent
+
+### 13. Interpretation[^key-4dfa5c372a060c31868cabf952709e06]
+
+In this Part “gas”, “generating station”, “goods”, “harbour”, “highway” and “rail freight interchange” each has the meaning given in section 143 of the 2024 Act.
+
+### 14. Period within which applications must be made[^key-6b9f04b8803399e2ada6098e93e083ea]
+
+(1) An application must be made within 18 months beginning with the day after the Welsh Ministers give notice of acceptance [^key-ba60c7c888f6968cb74e73dc9c8bcd04]....
+
+(2) The period in paragraph (1) will be extended by 56 days where—
+
+- (a) one or more relevant statutory consultees has either—
+  - (i) advised the applicant that the statutory consultee has concerns about the proposed development and how those can be addressed, or
+  - (ii) advised the applicant the statutory consultee has concerns about the proposed development and that it would object to an application made in the same or substantially the same terms and sets out the reasons for those objections, and
+- (b) the applicant gives written notice that they wish to extend the period in paragraph (1) to address the concerns of the relevant statutory consultee to—
+  - (i) the Welsh Ministers, and
+  - (ii) the relevant statutory consultee that provided such advice.
+
+(3) This regulation is subject to regulation 8 of the Infrastructure Consent (Compulsory Acquisition) (Wales) Regulations 2025[^f00016].
+
+### 15. Applications: general requirements[^key-eeb0d90d8997d9a326041a67dccd807f]
+
+(1) An application must in all cases—
+
+- (a) be made on the form published by the Welsh Ministers or a form substantially to the same effect, and
+- (b) include the matters specified in the form and the information, documents and other materials specified in paragraph (2).
+
+(2) The information, documents and other materials which must be included in the application are—
+
+- (a) for development in Wales, a plan drawn to an identified scale and showing the direction of north or for development in the Welsh marine area, co-ordinates which identify the location to which the application relates,
+- (b) any other plans, drawings and information necessary to describe the proposed development,
+- (c) a copy of the notice of acceptance given by the Welsh Ministers,
+- (d) where applicable, an environmental statement,
+- (e) a written statement about whether the proposal engages one or more of the matters set out in section 79(1) of the Environmental Protection Act 1990[^f00017] (statutory nuisances and inspections therefor) and if so, how the applicant proposes to mitigate or limit them,
+- (f) a report identifying any European site to which regulation 63 of the Conservation of Habitats and Species Regulations 2017[^f00018] applies, or any site designated under paragraph 1 of article 2 of the Ramsar Convention of Wetlands of International Importance Especially as Waterfowl Habitat[^f00019], which may be affected by the proposed development, together with sufficient information to enable the Welsh Ministers to make an appropriate assessment of the implications for the site if required by regulation 63 of the Conservation of Habitats and Species Regulations 2017[^f00020],
+- (g) where applicable, a flood risk assessment,
+- (h) any fee payable to the Welsh Ministers, and
+- (i) any fee payable for pre-application services.
+
+(3) Any plans or drawings required to be provided under paragraph (2)(a) or (b) must be drawn to an identified scale and in the case of plans, must show the north.
+
+(4) Where an application is made electronically the Welsh Ministers and planning authority may request that the applicant deposits one hard copy of the application with the Welsh Ministers.
+
+### 16. Notification of receipt of application[^key-09306f196fd9f7a41b64eaf05ba01420]
+
+The Welsh Ministers must as soon as practicable after receiving an application give notice of its receipt to—
+
+- (a) the applicant,
+- (b) in the case of an application for development in Wales—
+  - (i) each planning authority for an area in which the proposed development is located, and
+  - (ii) any other persons the Welsh Ministers consider appropriate, or
+- (c) in the case of an application for development in the Welsh marine area—
+  - (i) the applicant,
+  - (ii) each planning authority the Welsh Ministers consider appropriate,
+  - (iii) Natural Resources Wales, and
+  - (iv) any other persons the Welsh Ministers consider appropriate.
+
+### 17. Applications for the construction or extension of a generating station: additional requirements[^key-0b6447665faa38c08f0f92c84c1f1c92]
+
+(1) An application for the construction or extension of a generating station must include—
+
+- (a) in the case of an application for development in Wales—
+  - (i) a statement identifying who will be responsible for designing and building the connection to the electricity grid, and
+  - (ii) if the application relates to a gas-fuelled generating station, a statement identifying who will be responsible for designing and building the gas pipeline connection to the generating station, or
+- (b) in the case of an application for development in the Welsh marine area—
+  - (i) details of the proposed route and method of installation of any cable;
+  - (ii) a statement about any applications the applicant proposes to make for safety zones under section 95 of the Energy Act 2004[^f00021].
+
+(2) In this regulation “**construction**”, in relation to as much of a generating station as comprises or is to comprise a renewable energy installation, has the same meaning as in Chapter 2 of Part 2 of the Energy Act 2004 (see section 104 of that Act), and in this definition “**renewable energy installation**” has the same meaning as in Chapter 2 of Part 2 of the Energy Act 2004 (see section 104 of that Act).
+
+(3) In this regulation “**extension**” (“***estyniad***”) in relation to a generating station has the meaning given by section 36(9) of the Electricity Act 1989[^f00022].
+
+### 18. Highways, railways and rail freight interchanges[^key-05a881df57c92a7b0f88bcdf4f7a3203]
+
+An application for highway related development or for the construction or alteration of a railway or rail freight interchange must include—
+
+- (a) section drawings, drawn to identified horizontal and vertical scales which show (by reference to Ordnance Survey or Chart datum) the levels of the proposed works, including where relevant—
+  - (i) ground levels,
+  - (ii) the height of every proposed bridge, viaduct, aqueduct, embankment and elevated guideway,
+  - (iii) the depth of every proposed cutting and tunnel,
+  - (iv) the levels of the bed and any tidal waters or inland waterway in which it is proposed that any works should be situated,
+  - (v) the height of every structure or device (including a cable, but not catenary and related equipment) intended to be erected above, on or below the surface of, or on or beneath the bed, of tidal waters of an inland waterway, and
+  - (vi) drainage outfall details for highways, and
+- (b) a cross section of every intended tunnel and any altered gradient of a carriageway or a way forming part of a guided transport system on either side of every level crossing, bridge, tunnel or underpass which would carry the carriageway or way or through which it would pass.
+
+### 19. Applications for the construction or alteration of harbour facilities: additional requirements[^key-70b1535ac4ad691b0dcafaa4d16d11e9]
+
+An application for the construction or alteration of harbour facilities must include a statement setting out why the making of an infrastructure consent order is desirable in the interests of—
+
+- (a) securing the improvement, maintenance or management of the harbour in an efficient and economical manner, or
+- (b) facilitating the efficient and economic transport of goods or passengers by sea or in the interests of the recreational use of sea-going ships.
+
+### 20. Applications in respect of Crown land: additional requirements[^key-aa4e577790ab221a166a6eab2a7bd56a]
+
+An application in relation to Crown land must include—
+
+- (a) a statement that the draft infrastructure consent order includes provision in relation to Crown land or rights benefitting the Crown, and
+- (b) where the appropriate Crown authority consents to the inclusion of the provision, a copy of that authorisation.
+
+### 21. Decisions on the validity of applications[^key-fc778a1626b098f0d0f5e4be0540d56a]
+
+(1) The Welsh Ministers must give notice of their decision on the validity of an application under section 33(2) or (3) of the 2024 Act within the period set out in this regulation.
+
+(2) The notice may include any information in relation to the application which the Welsh Ministers consider appropriate.
+
+(3) The period in which the notice must be given is—
+
+- (a) in the case of an application which includes an environmental statement, within 42 days beginning with the day after the Welsh Ministers receive the application, and
+- (b) in any other case, within 28 days beginning with the day after the Welsh Ministers receive the application.
+
+### 22. Extending the timescale for validating an application[^key-3849c2175dcfc15d49489acdfd04e2ab]
+
+(1) The Welsh Ministers may make a direction to extend the timescale for validating an application.
+
+(2) Where the Welsh Ministers make a direction, they must provide written notice to anyone notified that a valid application has been received.
+
+(3) The notice under paragraph (2) must specify the date by which a decision on the validity of an application will be made.
+
+(4) The date by which a decision on the validity of an application must be made is no more than 14 days after the proposed 42 or 28 day period, or such period as the Welsh Ministers determine.
+
+### 23. Notice of a valid application[^key-93215482617b2d310dad9749c8d690b3]
+
+(1) In addition to the persons specified in section 34(2) of the 2024 Act the Welsh Ministers must give notice of a valid application to —
+
+- (a) relevant statutory consultees,
+- (b) relevant specialist consultees, and
+- (c) any other persons the Welsh Ministers consider appropriate.
+
+(2) In the case of an application for development in Wales, the Welsh Ministers must also give notice of a valid application to—
+
+- (a) any owner or occupier of the land, other than the applicant, to which an application relates;
+- (b) all persons who own, occupy or have another interest in the land to which a proposed development relates or who could be affected in such a way that they may be able to make a relevant claim;
+- (c) any adjoining owner or occupier of the land to which an application relates.
+
+(3) The notice of valid application must be given as soon as practicable following the acceptance of an application.
+
+### 24. Content of a notice of valid application[^key-9ea6a2ce547531a718967d8d0b917c04]
+
+A notice of valid application must, in addition to the deadline for receiving representations required by section 34(4)(a) of the 2024 Act, contain the following information—
+
+- (a) the name and address of the applicant,
+- (b) a statement indicating that an application has been made to the Welsh Ministers and has been accepted by them,
+- (c) the reference number allocated to the application,
+- (d) a summary of the main proposals in the application,
+- (e) whether the application includes a request to authorise compulsory acquisition of land,
+- (f) a statement specifying whether the application is EIA development or a regulated activity [^key-068aa65c03d25de928dd2d0b8291d229]...,
+- (g) when and where a copy of the application (including documents submitted as part of the application) may be viewed,
+- (h) details of the website under regulation 25,
+- (i) details of how representations on the application are to be made,
+- (j) details of how a request for an open- floor hearing under section 43 of the 2024 Act is to be made,
+- (k) details of how a person who requests an open-floor hearing may give notice of the topics they wish to make representations on at the open floor hearing, and
+- (l) the date by which representations regarding the proposed development must be received which must be not less than 42 days beginning with the day after the issuing of the notice.
+
+### 25. Publicity for valid applications: website[^key-8ded6891130e66dd41e6d4659bbb10ab][^key-ad64ec39289fb2286e1d0c909ab33530]
+
+Where the Welsh Ministers accept an application as a valid application, they must publish the following information on a website maintained by them or on their behalf—
+
+- (a) the location of the proposed development,
+- (b) a description of the proposed development,
+- (c) where and when the application may be inspected,
+- (d) how representations may be made in relation to the application,
+- (e) the date by which representations are to be received,
+- (f) in the case of an application accompanied by an environmental statement, the fact that the proposed development is subject to an EIA procedure and—
+  - (i) how copies of the environmental statement may be obtained, and
+  - (ii) the fee for obtaining copies of the environmental statement,
+- (g) in accordance with the requirements of the Freedom of Information Act 2000[^f00023] and the Data Protection Act 1998[^f00024], the main reports and advice issued to the Welsh Ministers at the time the information is published (if any),
+- (h) details of the arrangements for public participation in the decision-making procedure,
+- (i) the procedure and publication of any new information subsequently submitted by the applicant, and
+- (j) any other information relevant to an application which only becomes available after the time all other information is published.
+
+### 26. Publicity of valid applications: notices[^key-26c90f35eeb0c3ee99941eceeee48ee9][^key-cf56c642ee9ee30e64bc3914f6b61202]
+
+(1) Where a valid application for development in Wales is accepted, the Welsh Ministers must—
+
+- (a) publish a notice of the application, in one or more newspapers circulating in the locality of the proposed development for a minimum period of one week commencing within 5 working days beginning with the day after the application is accepted as valid, and
+- (b) display at least one site notice on or near the site to which the proposed development relates for at least 42 days commencing within 5 working days beginning with the day after the application is accepted as valid.
+
+(2) Where the application relates to a linear scheme exceeding 5km in length, a site notice must be displayed at intervals of no more than 5km from the start to the end of the proposed route unless it is impracticable to do so.
+
+(3)[^key-d3a591b5bc7d5b6d8fd76aee6f4d01ea] Where the site notice is, without any fault of the Welsh Ministers or a person or body directed to comply with the requirements in this regulation by virtue of sections 34(10) or 130(1) of the 2024 Act, removed, obscured or defaced before the period of 42 days has elapsed, the Welsh Ministers or such person or body will be treated as having complied with the requirements of the relevant paragraph if they have taken reasonable steps to protect the site notice and if need be, replace it.
+
+(4) Where a valid application is accepted for development in the Welsh marine area, the Welsh Ministers must publish notice of the application in—
+
+- (a) one or more local newspapers which are likely to come to the attention of those likely to be affected by a proposed development for a minimum period of one week commencing within 5 working days beginning with the day after the application is accepted as valid,
+- (b) Lloyd’s List for a minimum period of one week commencing within 5 working days beginning with the day after the application is accepted as valid[^key-fee8efbca66fd54ab38fe9927ae6492a], and
+- (c) at least one appropriate fishing journal if one is in circulation for a minimum period of one week commencing within 5 working days beginning with the day after the application is accepted as valid.
+
+(5) Where the Welsh Ministers direct another person or body to undertake the publicity and notification requirements in this regulation by virtue of sections 34(10)[^key-33d157486edfc765ca61a9989305a4d8] or 130(1) of the 2024 Act, it must confirm to the Welsh Ministers that they have complied with that direction within 14 days, beginning with[^key-45219d48345712bf804852ec0fe1674e] the day after they receive the direction from the Welsh Ministers.
+
+(6) Where any person is directed to comply with the requirements in this regulation by virtue of sections 34(10)[^key-06992ef7b8456cacf965415cb1146ebb] or 130 of the 2024 Act and fails to do so, the Welsh Ministers may take the steps required.
+
+### 27. Consulting statutory consultees[^key-110448790b1d4c3b3b6e000bb73bfdb3]
+
+(1) A statutory consultee must provide a substantive response within 42 days beginning with the day after notice of valid application is given or such other period as may be agreed in writing between the statutory consultee and the Welsh Ministers under section 129 of the 2024 Act.
+
+(2) Where a substantive response advises the statutory consultee has concerns about the proposed development under paragraphs (4)(c) and (d) of this regulation, the substantive response must include a statement setting out whether it considers its concerns should be heard by—
+
+- (a) written representations,
+- (b) hearing,
+- (c) inquiry, or
+- (d) confirms it has no preference as to the method of examination procedure used to hear their concerns.
+
+(3) Where a statutory consultee raises concerns in its substantive response under this regulation which were not raised in their response to pre-application consultation under regulation 12[^key-9ed1cba9c94c8ac9e7e1970c959e89e2], it must give reasons for doing so.
+
+(4) In this regulation a substantive response is one which—
+
+- (a) states the statutory consultee has no comment to make and gives reasons for that response,
+- (b) states the statutory consultee has no objection to the proposed development and refers the applicant to current standing advice by the statutory consultee on the subject of the consultation,
+- (c) advises the applicant the statutory consultee has concerns about the proposed development and how those can be addressed, or
+- (d) advises the applicant the statutory consultee has concerns about the proposed development and that it would object to an application made in the same or substantially the same terms and sets out the reasons for those objections.
+
+## PART 5 — Reports
+
+### 28. Local impact reports[^key-6ec5b13504534e6e01ba82d0c7065849]
+
+A local impact report which a planning authority is required to submit under section 36(1) of the 2024 Act must include—
+
+- (a) a description of—
+  - (i) the relevant planning history of the land to which the application relates,
+  - (ii) any local designations relevant to the land to which the application relates, and
+  - (iii) the likely impact of any application in relation to a deemed or extinguished consent,
+- (b) confirmation the planning authority has complied with any direction under section 130 of the 2024 Act requiring the planning authority to—
+  - (i) notify persons of the application,
+  - (ii) publicise the application, and
+- (c) details of any —
+  - (i) locally applicable planning policies, guidance and other documents relevant to the application, and
+  - (ii) draft conditions or obligations the planning authority considers should be included in the infrastructure consent order (including in relation to any deemed or extinguished consents) which would mitigate any likely impacts of the proposed development on the area (or part of the area) of the authority,
+  - (iii) reasons for any draft conditions or obligations being suggested under sub-paragraph (ii)[^key-897c051b8bf6666d73086c44603d4ba1] of this regulation being necessary,
+  - (iv) relevant development proposals under consideration by the planning authority, and
+  - (v) site constraints.
+
+### 29. Voluntary local impact reports by a planning authority or community council[^key-564905d99bdb4a825e3f2c868c8cfaf2]
+
+(1) This regulation applies where—
+
+- (a) a planning authority chooses to submit a local impact report under section 36(1) or (3) of the 2024 Act, or
+- (b) a community council submits a local impact report under section 36(2) or (3) of that Act.
+
+(2) A local impact report must include—
+
+- (a) a description of the likely impact of any application for a deemed or extinguished consent being granted, and[^key-3f93d0c54a71f34f5d9a67f9186a5c9c]
+- (b) details of any—
+  - (i) locally applicable planning policies, guidance and other documents relevant to the application,
+  - (ii) draft conditions or obligations the planning authority considers should be included in the infrastructure consent order (including in relation to any deemed or extinguished consents) which would mitigate any likely impacts of the proposed development on the area or part of the area) of the authority, and
+  - (iii) reasons for any conditions being suggested under paragraph 2(b)(ii) of this regulation being necessary.
+
+### 30. Marine impact reports[^key-951ac0bd7059b4c2d9436fbc2eb2446a]
+
+(1) A marine impact report submitted by Natural Resources Wales under section 37 of the 2024 Act must comply with this regulation.
+
+(2) Such a report must include—
+
+- (a) comments on any environmental assessments and their conclusions, submitted by the applicant,
+- (b) the relevant marine licence history of the area to which the application relates,
+- (c) comments on any relevant policies and guidance and other documents relevant to the application, identified by the applicant as part of the application, and
+- (d) comments on any draft conditions or obligations included in a deemed marine licence.
+
+(3) Such report may include the substantive response of Natural Resources Wales required under regulation 27 of these Regulations.
+
+(4) Where a substantive response required under regulation 27 is submitted as part of the marine impact report, Natural Resources Wales will have complied with the requirements of that regulation.
+
+## PART 6 — Variation of applications
+
+### 31. Procedure for variation of applications[^key-c5fe45b05cf0172795777289d11b126c]
+
+(1) An applicant may request to vary an application on one occasion before the examining authority has exercised its function under section 42(1) of the 2024 Act (determination of procedure).
+
+(2) A request to vary an application must—
+
+- (a) be made on a form published by the Welsh Ministers or a form substantially to the same effect,
+- (b) include a description of the variation,
+- (c) be accompanied by any fee payable when making a request to vary an application, and
+- (d) be made before the end of 14 days beginning with the day after the deadline by which the Welsh Ministers must receive representations on the request.
+
+(3) The Welsh Ministers must decide whether to accept a request to vary an application.
+
+(4) The Welsh Ministers must not accept a request to vary where the effect of the variation would be to substantially change the development for which infrastructure consent is sought.
+
+(5) The Welsh Ministers must give notice of the decision to the applicant within 7 days beginning with the day after the day the request to vary is received.
+
+(6) Where the Welsh Ministers accept a request to vary, the applicant must submit the varied application to the Welsh Ministers—
+
+- (a) within 28 days, beginning with the day after the Welsh Ministers give notice the request to vary has been accepted, or
+- (b) by the end of any period agreed in writing between the applicant and the Welsh Ministers.
+
+(7) The Welsh Ministers may—
+
+- (a) give notice of the varied application to any person they consider appropriate,
+- (b) publicise the varied application in any way they consider appropriate.
+
+## PART 7 — Transitional provisions
+
+### 32. Transitional provisions[^key-695266af113bf5c41c0e3ea629552b0b]
+
+(1) An application made in the 12-month period beginning with[^key-c59e9c7d127262840edb8c00fdb05f77] the day after these Regulations come into force will meet the requirements of section 30 of the 2024 Act provided the Welsh Ministers are satisfied that during the 12 month period before these Regulations come into force the applicant has—
+
+- (a) consulted—
+  - (i) the persons specified in regulation 8 of these Regulations where the application relates to land in Wales, or
+  - (ii) the persons set out in regulation 10 of these Regulations where the application relates to the Welsh marine area, and
+- (b) publicised the proposed application in a manner which, had Part 3 of these Regulations been in force at the date of such publicity, would have fulfilled the requirements of that Part.
+
+(2) Any applicant relying on the provisions in this regulation—
+
+- (a) must notify the Welsh Ministers of the proposed application before any application is submitted,
+- (b) need not comply with the requirements of regulation 3.
+
+(3) Where the Welsh Ministers are not satisfied the requirements in paragraphs 1 and 2 have been met—
+
+- (a) they must notify the applicant as soon as practicable, and
+- (b) the applicant will not be permitted to seek a direction under section 131 of the 2024 Act referred to in regulation 8[^key-a2dfd7cfc4316f68adfccbbd98e6aa19] of the Infrastructure Consent (Miscellaneous Provisions) (Wales) Regulations 2025[^f00025].
+
+Rebecca Evans
+
+Cabinet Secretary for Economy, Energy and Planning, one of the Welsh Ministers
+
+16 June 2025
+
+## SCHEDULE — Consultations before the grant of Infrastructure Consent[^key-c9717a75fbf10f4387b0d6b7343b41af]
+
+Regulation 3(2)
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr>
+<tr><th>Paragraph</th><th>Description of Development</th><th>Relevant Statutory Consultee</th><th>Relevant Specialist Consultee</th></tr>
+</thead>
+<tbody>
+<tr><td>(a)</td><td>All applications</td><td>Natural Resources Wales<br>The relevant water and sewerage undertaker<br>National Air Traffic Services<br>Ministry of Defence<br>Public Health Wales<br>Transport for Wales</td><td>Canal and River Trust<br>Distribution Network Operators</td></tr>
+<tr><td>(b)</td><td>Development likely to result in a material increase in the volume or material change in the character of traffic—<br>(i) entering or leaving a trunk road;<br>(ii) using a level crossing over a railway.</td><td>The Welsh Ministers<br>The operator of the network which includes or consists of the railway in question and the Welsh Ministers</td><td></td></tr>
+<tr><td>(c)</td><td>Development which involves the provision of a building or pipeline in an area of coal working notified by the Coal Authority to the Welsh Ministers</td><td>The Coal Authority</td><td></td></tr>
+<tr><td>(d)</td><td>(i) Development which has a physical impact on a scheduled monument<br>(ii) Development likely to be visible from a scheduled monument and which meets one of the following criteria—<br>(aa) it is within a distance of 0.5 km from any point of the perimeter of a scheduled monument,<br>(bb) it is within a distance of 1 km from the perimeter of a scheduled monument and is 15 metres or more in height, or has an area of 0.2 hectares or more,<br>(cc) it is within a distance of 2 km from the perimeter of a scheduled monument and is 50 metres or more in height, or has an area of 0.5 hectares or more,<br>(dd) it is within a distance of 3 km from the perimeter of a scheduled monument and is 75 metres or more in height, or has an area of 1 hectare or more, or<br>(ee) it is within a distance of 5 km from the perimeter of a scheduled monument and is 100 metres or more in height, or has an area of 1 hectare or more.<br>(iii) Development likely to affect the site of a registered historic park or garden or its setting,<br>(iv) Development within a registered historic landscape that requires an Environmental Impact Assessment,<br>(v) Development likely to have an impact on the outstanding universal value of a World Heritage Site.</td><td>The Welsh Ministers</td><td></td></tr>
+<tr><td>(e)</td><td>Development involving any land on which there is a theatre</td><td></td><td>The Theatres Trust</td></tr>
+<tr><td>(f)</td><td>Development which involves —<br>(i) the loss of not less than 20 hectares of grades 1, 2 or 3a agricultural land which is for the time being used (or was last used) for agricultural purposes, or<br>(ii) the loss of less than 20 hectares of grades 1, 2 or 3a agricultural land which is for the time being used (or was last used) for agricultural purposes, in circumstances in which the development is likely to lead to a further loss of agricultural land amounting cumulatively to 20 hectares or more.</td><td>The Welsh Ministers</td><td></td></tr>
+<tr><td>(g)</td><td>Development which—<br>(i) is likely to prejudice the use, or lead to the loss of use, of land being used as a playing field, or<br>(ii) is on land which has been:<br>(aa) used as a playing field at any time in the years before the making of the relevant application and which remains undeveloped,<br>(bb) allocated for use as a playing field in a development plan or in proposals for such a plan or its alteration or replacement, or<br>(iii) involves the replacement of the grass surface of a playing pitch on a playing field with an artificial, man-made or composite surface.</td><td>The Sports Council for Wales</td><td></td></tr>
+<tr><td>(h)</td><td>Development—<br>(i) involving waste development<br>(ii) involving the provision of a building where the floor space to be created by the development is 1,000 square metres or more<br>(iii) carried out on a site having an area of 1 hectare or more</td><td>The Fire and Rescue Authority concerned</td><td></td></tr>
+<tr><td>(i)</td><td>Development that includes a requirement for a deemed marine licence</td><td>The Crown Estate<br>The Joint Nature Conservation Committee<br>The Maritime and Coastguard Agency<br>Trinity House<br>Reserved Trust Ports<br>Local harbour authority<br>Local ports<br>Welsh Ministers<br>Royal Commission on Ancient and Historic Monuments of Wales<br>Inshore Fisheries and Conservation Authorities</td><td>The Royal Yachting Association<br>Concerned Welsh archaeological trust<br>UK Chamber of Shipping<br>National Federation of Fishermen’s Organisations<br>Welsh Fishermen’s<br>Association</td></tr>
+<tr><td>(j)</td><td>Developments likely to affect the maritime or coastal environment, or the shipping industry</td><td>The Maritime and Coastguard Agency</td><td></td></tr>
+<tr><td>(k)</td><td>Development which may impact the marine environment</td><td>Joint Nature Conservation Committee</td><td></td></tr>
+<tr><td>(l)</td><td>Development which may affect the marine environment within English territorial waters</td><td>The Marine Management Organisation</td><td></td></tr>
+<tr><td>(m)</td><td>Developments likely to affect navigation in tidal waters</td><td>Trinity House</td><td></td></tr>
+<tr><td>(n)</td><td>Development relating to airports or which are likely to affect an airport or its current or future operation</td><td>The Civil Aviation Authority</td><td></td></tr>
+<tr><td>(o)</td><td>Development likely to affect the Crown Estate or is located on Crown Land</td><td>The Crown Estate</td><td></td></tr>
+<tr><td>(p)</td><td>Development likely to affect an area under control of a harbour authority</td><td>Harbour Authority concerned<br>Navigation Authority concerned<br>Associated British Ports</td><td></td></tr>
+<tr><td>(q)</td><td>Development which includes railway or is likely to affect railway</td><td>Network operators</td><td></td></tr>
+<tr><td>(r)</td><td>Development which includes the provision of electricity infrastructure</td><td></td><td>Distribution Network Operators</td></tr>
+</tbody>
+</table>
+
+### Interpretation of Table
+
+[^key-c9717a75fbf10f4387b0d6b7343b41af]
+
+In the above Table—
+
+- (a) In paragraph (b)—
+  - “**network**” and “**operator**” have the same meaning as in section 83(1) of the Railways Act 1993[^f00026] (the provision of railway services), and
+  - “**trunk road**” has the same meaning as in section 143 of the 2024 Act.
+- (b) In paragraph (d)—
+  - “**scheduled monument**” has the same meaning as in section 3(7) of the Historic Environment (Wales) Act 2023[^f00027] (duty to maintain and publish schedule of monuments);
+  - Reference to the height of development is to be construed as a reference to its height when measured from ground level; and for the purposes of this paragraph “**ground level**” means the level of the surface of the ground immediately adjacent to the development in question, or where the level of the surface of the ground on which it is situated is not uniform, the level of the highest part of the surface immediately[^key-1d5311ef692c6eccbf7c5a1f581b34e7] adjacent to it;
+  - “registered historic park or garden” and “**registered historic landscape**” means the park, garden or landscape included in the Register of Landscapes, Parks and Gardens of Special Historic Interest in Wales maintained by the Welsh Ministers;
+  - “**World Heritage Site**” means land appearing on the World Heritage List kept under article 11(2) of the UNESCO Convention for the Protection of the World Cultural and Natural Heritage adopted at Paris on 16<sup>th</sup> November 1972;
+- (c) In paragraph (e), “**theatre**” has the same meaning as in section 5 of the Theatres Trust Act 1976[^f00028] (interpretation);
+- (d) In paragraph (g)—
+  - “**playing field**” means the whole of a site which encompasses at least one playing pitch;
+  - “**playing pitch**” means a delineated area which, together with run-off area, is of 0.2 hectares or more and which is used for association football, American football, rugby, cricket, hockey, lacrosse, rounders, baseball, softball, Australian football, Gaelic football, shinty, hurling, polo or cycle polo.
+- (e) In paragraphs (i) and (p) “**harbour authority**” has the meaning given in section 143 of the 2024 Act;
+- (f) In paragraph (n) “**airport**” has the meaning given in section 143 of the 2024 Act[^key-40cd9935b09e76e9070949f5f55376fc];
+- (g) In paragraph (r) “**Distribution Network Operators**” means companies licensed to operate the networks that distribute electricity from the national transmission grid to end users.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Infrastructure (Wales) Act 2024 (“**the 2024 Act**”) establishes a unified application and consenting process to enable making and consideration of applications for infrastructure consent. The process applies to the significant infrastructure projects that are specified in Part 1 of the 2024 Act. Broadly, they are energy, transport, waste and water projects.
+
+Part 2 of the 2024 Act contains the requirement for infrastructure consent. Part 3 of the 2024 Act makes provision about applying for infrastructure consent.
+
+Part 4 of the 2024 Act contains provision about appointing an authority to examine applications for infrastructure consent (“**the examining authority**”) and about particular aspects of the examination process. Part 5 of the 2024 Act contains provisions about deciding applications for infrastructure consent.
+
+These Regulations make provision for the process for pre-application notification, the manner in which applications for infrastructure consent in respect of such development are to be dealt with by the Welsh Ministers and the process to be followed following examination of an application for infrastructure consent.
+
+**Part 1** of these Regulations deals with preliminary issues.
+
+**Part 2** of these Regulations deals with pre-application notification. It includes provision about notice of proposed application and acceptance of notice of proposed application.
+
+**Part 3** of these Regulations deals with pre-application and publicity. It includes provision about pre-application requirements, website, site notices and written notice for consultation and publicity as well as details of additional requirements according to whether the application is for development is in Wales or the Welsh marine area. It also includes provision for the information to be contained in notices and responses to pre-application consultation.
+
+**Part 4** of these Regulations deals with applications for infrastructure consent. It includes provision about the period within which applications must be made, general requirements and notification of receipt of application. Provision is made regarding applications for the construction of a generating station, development relating to highways, railways and rail freight interchanges, harbour facilities and applications in respect of Crown land. Provision is also made on the validity of applications, extending the timescale of validating an application, content of a notice of valid application, publicity of valid applications and consulting statutory consultees.
+
+**Part 5** of these Regulations makes provision in relation to local impact reports, voluntary impact reports by a planning authority or community council and marine impact reports.
+
+**Part 6** of these Regulations deals with the procedure for variation of applications.
+
+**Part 7** of these Regulations makes transitional provisions. The transitional provisions in regulation 32 provide that an application for infrastructure consent made in the 12 month period beginning the day after these Regulations come into force will meet the requirements of section 30 of the 2024 Act provided the applicant has consulted those specified in regulation 32(1) and publicised the application.
+
+The Schedule to the Regulations sets out the statutory and specialist consultees who must be consulted before the grant of infrastructure consent may be made according to the type of development being applied for.
+
+The Infrastructure Consent (Examination and Decision) (Procedure) (Wales) Regulations 2025 ([S.I. 2025/692](https://www.legislation.gov.uk/uksi/2025/692)) deal with the examination procedure which follows an application and make further provision in relation to an examining authority, preparation for and the examination of applications and post-examination processes.
+
+The Infrastructure Consent (Compulsory Acquisition) (Wales) Regulations 2025 ([S.I. 2025/691](https://www.legislation.gov.uk/uksi/2025/691)) make supplementary provision where an application for infrastructure consent includes a request to authorise compulsory acquisition of land or of an interest in or right over land.
+
+The Welsh Ministers’ Code of Practice in the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from Welsh Government, Cathays Park, Cardiff, CF10 3NQ and is published on www.gov.wales.
+
+## Annotations
+
+[^f00001]: Footnote: For the meaning of “appropriate Minister” *see* section 140(4) of the [Infrastructure (Wales) Act 2024 (asc. 3)](https://www.legislation.gov.uk/asc/2024/3); *see* section 140(3) otherwise.
+
+[^f00002]: Footnote: [2024 asc 3](https://www.legislation.gov.uk/asc/2024/3).
+
+[^key-54b0f2c9b1284135dfdb373a12c0f093]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-e6dcb0fd57ce8c72a82e093934521a0f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/690/regulation/2) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^f00003]: Footnote: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the earth, for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the United States’ National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3<sup></sup>January 2000 entitled “Department of Defense World Geodetic System 1984” https://gis-lab.info/docs/nima-tr8350.2-wgs84fin.pdf.
+
+[^key-dbe007d4838adf647e0d4409f0fe9a28]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2025/690/regulation/2/1) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/2/a/i)
+
+[^key-bb62b46f9a33cb158335237073a22b05]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2025/690/regulation/2/1) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/2/a/ii)
+
+[^key-74de950e15eb919414940efa68274ddb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2025/690/regulation/2/1) omitted (2.6.2026) by virtue of [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2026/85/regulation/3)
+
+[^key-c7e10ae243294568fe941dc7fe69e441]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2025/690/regulation/2/1) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/2/b)
+
+[^f00008]: Footnote: [S.I. 2007/1518](https://www.legislation.gov.uk/uksi/2007/1518), to which there are amendments not relevant to these Regulations.
+
+[^f00009]: Footnote: [S.I. 2017/567 (W. 136)](https://www.legislation.gov.uk/wsi/2017/567), to which there are amendments not relevant to these Regulations.
+
+[^f00010]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^f00011]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
+
+[^f00012]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^f00013]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Part 1 was amended by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), section 1(2) and Schedule 1, paragraph 1 and Part 2 was amended by section 1(2) and Schedule 1, paragraph 2 of that Act.
+
+[^f00014]: Footnote: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^key-49a6374a0eab798d87342f00db82bbd7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/690/regulation/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-9d4a605b7354f9a4d780944d6b5fc32f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/690/regulation/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-dc48c09486d5b6d7361496c5fc38d6b8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/690/regulation/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-b430d45e1291d3a2d6271b6be2724e9f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/690/regulation/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-2b3575c099f1818378edc7be1b563eea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/690/regulation/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-7140a9c529b1be8587ce1cfac7027ae0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/690/regulation/8) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-37a06543beb9533b72ee3b1995f94676]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/690/regulation/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-3e4dfbe827337cadbd968119eb2f5746]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/690/regulation/10) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-b28b50b44218627422c776b5760af4a7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/690/regulation/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-9a111dec7e06d2f8ca2683b13ce67556]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/wsi/2025/690/regulation/11) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/4/a)
+
+[^f00015]: Footnote: See [S.I. 2025/691 (W.115)](https://www.legislation.gov.uk/wsi/2025/691).
+
+[^key-20c31fac66b0fc363b575ac710549073]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/690/regulation/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-1965d35eb420eb27f0a1b1b6b79a0a7b]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/wsi/2025/690/regulation/12/1) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/5)
+
+[^key-4dfa5c372a060c31868cabf952709e06]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/690/regulation/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-6b9f04b8803399e2ada6098e93e083ea]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/690/regulation/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-ba60c7c888f6968cb74e73dc9c8bcd04]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/wsi/2025/690/regulation/14/1) omitted (14.12.2025) by virtue of [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/6)
+
+[^f00016]: Footnote: [S.I. 2025/691 (W. 115)](https://www.legislation.gov.uk/wsi/2025/691).
+
+[^key-eeb0d90d8997d9a326041a67dccd807f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/690/regulation/15) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^f00017]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^f00018]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012),as amended by the Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 ([S.I. 2019/579](https://www.legislation.gov.uk/uksi/2019/579), regulations 3 and 24 and the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 ([S. I. 2020/94](https://www.legislation.gov.uk/uksi/2020/94), regulation 13.
+
+[^f00019]: Footnote: Originally the Convention on Wetlands of International Importance Especially as Waterfowl Habitat. Opened for signature 2.2.71, ATS 1975, No 0048 (entered into force 21.12.75).
+
+[^f00020]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
+
+[^key-09306f196fd9f7a41b64eaf05ba01420]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/690/regulation/16) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-0b6447665faa38c08f0f92c84c1f1c92]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/690/regulation/17) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^f00021]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20), as amended by Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), sections 41(2)(a), (b), (c) and (d), 41(3) and (4))
+
+[^f00022]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
+
+[^key-05a881df57c92a7b0f88bcdf4f7a3203]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/690/regulation/18) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-70b1535ac4ad691b0dcafaa4d16d11e9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/690/regulation/19) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-aa4e577790ab221a166a6eab2a7bd56a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2025/690/regulation/20) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-fc778a1626b098f0d0f5e4be0540d56a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2025/690/regulation/21) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-3849c2175dcfc15d49489acdfd04e2ab]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2025/690/regulation/22) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-93215482617b2d310dad9749c8d690b3]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2025/690/regulation/23) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-9ea6a2ce547531a718967d8d0b917c04]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2025/690/regulation/24) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-068aa65c03d25de928dd2d0b8291d229]: Textual amendment: Words in [reg. 24(f)](https://www.legislation.gov.uk/wsi/2025/690/regulation/24/f) omitted (14.12.2025) by virtue of [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(9)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/9)
+
+[^key-8ded6891130e66dd41e6d4659bbb10ab]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2025/690/regulation/25) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-ad64ec39289fb2286e1d0c909ab33530]: Modification: [Reg. 25](https://www.legislation.gov.uk/wsi/2025/690/regulation/25) applied (with modifications) (15.12.2025) by WSI 2017/567, reg. 18(5A) (as inserted by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(17)(d)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/17/d) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44)))
+
+[^f00023]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^f00024]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^key-26c90f35eeb0c3ee99941eceeee48ee9]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2025/690/regulation/26) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-cf56c642ee9ee30e64bc3914f6b61202]: Modification: [Reg. 26](https://www.legislation.gov.uk/wsi/2025/690/regulation/26) applied (with modifications) (15.12.2025) by WSI 2017/567, reg. 18(5A) (as inserted by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(17)(d)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/17/d) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44)))
+
+[^key-d3a591b5bc7d5b6d8fd76aee6f4d01ea]: Textual amendment: [Reg. 26(3)](https://www.legislation.gov.uk/wsi/2025/690/regulation/26/3) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/10/a)
+
+[^key-fee8efbca66fd54ab38fe9927ae6492a]: Textual amendment: Words in [reg. 26(4)(b)](https://www.legislation.gov.uk/wsi/2025/690/regulation/26/4/b) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/10/b)
+
+[^key-33d157486edfc765ca61a9989305a4d8]: Textual amendment: Word in [reg. 26(5)](https://www.legislation.gov.uk/wsi/2025/690/regulation/26/5) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(10)(d)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/10/d)
+
+[^key-45219d48345712bf804852ec0fe1674e]: Textual amendment: Word in [reg. 26(5)](https://www.legislation.gov.uk/wsi/2025/690/regulation/26/5) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(10)(c)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/10/c)
+
+[^key-06992ef7b8456cacf965415cb1146ebb]: Textual amendment: Word in [reg. 26(6)](https://www.legislation.gov.uk/wsi/2025/690/regulation/26/6) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(10)(d)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/10/d)
+
+[^key-110448790b1d4c3b3b6e000bb73bfdb3]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2025/690/regulation/27) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-9ed1cba9c94c8ac9e7e1970c959e89e2]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/wsi/2025/690/regulation/27/3) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/11/b)
+
+[^key-6ec5b13504534e6e01ba82d0c7065849]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2025/690/regulation/28) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-897c051b8bf6666d73086c44603d4ba1]: Textual amendment: Words in [reg. 28(c)(iii)](https://www.legislation.gov.uk/wsi/2025/690/regulation/28/c/iii) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(12)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/12)
+
+[^key-564905d99bdb4a825e3f2c868c8cfaf2]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2025/690/regulation/29) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-3f93d0c54a71f34f5d9a67f9186a5c9c]: Textual amendment: Word in [reg. 29(2)(a)](https://www.legislation.gov.uk/wsi/2025/690/regulation/29/2/a) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(13)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/13)
+
+[^key-951ac0bd7059b4c2d9436fbc2eb2446a]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2025/690/regulation/30) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-c5fe45b05cf0172795777289d11b126c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2025/690/regulation/31) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-695266af113bf5c41c0e3ea629552b0b]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2025/690/regulation/32) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^key-c59e9c7d127262840edb8c00fdb05f77]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/wsi/2025/690/regulation/32/1) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(16)(a)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/16/a)
+
+[^key-a2dfd7cfc4316f68adfccbbd98e6aa19]: Textual amendment: Words in [reg. 32(3)(b)](https://www.legislation.gov.uk/wsi/2025/690/regulation/32/3/b) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(16)(b)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/16/b)
+
+[^f00025]: Footnote: S. I. XXXX/2025.
+
+[^key-c9717a75fbf10f4387b0d6b7343b41af]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2025/690/schedule) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/690/regulation/1)
+
+[^f00026]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^f00027]: Footnote: [2023 asc 3](https://www.legislation.gov.uk/asc/2023/3).
+
+[^key-1d5311ef692c6eccbf7c5a1f581b34e7]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/wsi/2025/690/schedule) inserted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(17)(b)(i)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/17/b/i)
+
+[^f00028]: Footnote: [1976 c. 27](https://www.legislation.gov.uk/ukpga/1976/27).
+
+[^key-40cd9935b09e76e9070949f5f55376fc]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2025/690/schedule) substituted (14.12.2025) by [The Infrastructure Consent (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/1091)](https://www.legislation.gov.uk/wsi/2025/1091), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/1/2), [2(17)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1091/regulation/2/17/b/ii)

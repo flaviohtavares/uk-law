@@ -1,0 +1,40 @@
+---
+title: Rights of Children and Young Persons (Wales) Measure 2011, section 2
+act: Rights of Children and Young Persons (Wales) Measure 2011
+section: '2'
+status: revised
+text_date: '2022-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/mwa/2011/2/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Rights of Children and Young Persons (Wales) Measure 2011, section 2
+
+> Text as at 2022-09-01.
+>
+> Extent: England, Wales.
+
+## 2. The children's scheme
+
+*Extent: E+W*
+
+(1) The Welsh Ministers must make a scheme (“**the children's scheme**”) setting out the arrangements they have made, or propose to make, for the purpose of securing compliance with the duty under section 1.
+
+(2) The scheme may—
+
+- (a) require the Welsh Ministers to publish reports on the operation of the scheme or on any other matter mentioned in it (in addition to the reports required under section 4(1)), and
+- (b) specify matters which must be included in such reports or in reports under section 4(1).
+
+(3) The scheme may contain such other matters as the Welsh Ministers consider appropriate.
+
+(4) The Welsh Ministers must, within six months of the Committee making any suggestion or general recommendation under article 45(d) based on a UK report, consider whether to revise or remake the scheme in the light of that suggestion or recommendation.
+
+(5) The Welsh Ministers may revise or remake the scheme at any time.
+
+(6) In this section—
+
+- (a) “**the Committee**” means the Committee on the Rights of the Child established under article 43(1);
+- (b) “**UK report**” means a report submitted by the United Kingdom under article 44(1)(b); and
+- (c) any reference to an article is a reference to that article of the Convention.

@@ -1,0 +1,1791 @@
+---
+title: The Town and Country Planning (Environmental Impact Assessment) (Undetermined Reviews of Old Mineral Permissions) (Wales) Regulations 2009
+id: wsi/2009/3342
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-12-16'
+text_date: '2024-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2009/3342
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2009/3342/pdfs/wsi_20093342_we.pdf
+- http://www.legislation.gov.uk/wsi/2009/3342/pdfs/wsi_20093342_mi.pdf
+- http://www.legislation.gov.uk/wsi/2009/3342/pdfs/wsi_20093342_en.pdf
+- http://www.legislation.gov.uk/wsi/2009/3342/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Environmental Impact Assessment) (Undetermined Reviews of Old Mineral Permissions) (Wales) Regulations 2009
+
+> Text as at 2024-11-04.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 3342 (W.293)
+
+TOWN AND COUNTRY PLANNING, WALES
+
+The Town and Country Planning (Environmental Impact Assessment) (Undetermined Reviews of Old Mineral Permissions) (Wales) Regulations 2009
+
+Made
+
+16 December 2009
+
+Laid before the National Assembly for Wales
+
+17 December 2009
+
+Coming into force
+
+8 January 2010
+
+The Welsh Ministers, having been designated [^c20072391] for the purposes of section 2(2) of the European Communities Act 1972 [^c20072401] in relation to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, in so far as it concerns town and country planning, make the following Regulations:[^key-6c52121e02dee494bc6f1fe86864fbcd]
+
+## PART 1 — General
+
+### 1. Title, commencement and application
+
+(1) The title of these Regulations is the Town and Country Planning (Environmental Impact Assessment) (Undetermined Reviews of Old Mineral Permissions) (Wales) Regulations 2009.
+
+(2) These Regulations come into force on 8 January 2010.
+
+(3) These Regulations apply in relation to Wales.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” (“***y Ddeddf***”) means the Town and Country Planning Act 1990 (c. 8) and references to sections are references to sections of that Act;
+- “**the 1991 Act**” (“***Deddf 1991***”) means the Planning and Compensation Act 1991 (c. 34);
+- “**the 1995 Act**” (“***Deddf 1995***”) means the Environment Act 1995 (c. 25);
+- **“the 2016 Regulations[^key-d49ab4f9da70bac7d12da823af731680]**”(“*Rheoliadau 2016*”) means the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016;
+- “**any other information**” (“***unrhyw wybodaeth arall***”) means any substantive information provided by an applicant, appellant or operator which is relevant to the determination of the EIA application other than—
+  - (a) screening information;
+  - (b) scoping information;
+  - (c) further information;
+  - (d) evidence.
+- “**any particular person**” (“***unrhyw berson penodol***”) includes any non-governmental organisation promoting environmental protection;
+- “**the consultation bodies**” (“***y cyrff ymgynghori***”) means—
+  - (a) any body which the relevant mineral planning authority is required to consult or would, if an application for planning permission for the development in question were before it, be required to consult by virtue of article 10 (consultations before the grant of permission) of the Order or of any direction under that article; and
+  - (b) the following bodies if not included by virtue of sub-paragraph (a)—
+    - (i) any principal council for the area where the land is situated, if not the relevant mineral planning authority;
+    - (ii) the Natural Resources Body for Wales[^key-4cc7100ee29f3dcd95818859562577a4];
+    - (iii) [^key-6cf8567f3243dc55f170ae02e1bce866]...
+    - (iv) other bodies designated by statutory provision as having specific environmental responsibilities and which the relevant mineral planning authority or the Welsh Ministers, as the case may be, consider are likely to have an interest in the application;
+- “the Directive” (“[^key-45d9804a33550171a620a4cdc7d6f849]*y Gyfarwyddeb*”) means [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment as adopted on 13 December 2011;
+- “**draft environmental statement**” (“***datganiad amgylcheddol drafft***”) has the meaning attributed to it in regulation 17(2), 17(3) and 17(4);
+- “**EEA State**” (“***Gwladwriaeth AEE***”) means a State party to the Agreement on the European Economic Area;
+- “**EIA application**” (“***cais AEA***”) means an undetermined ROMP application for EIA development;
+- “**EIA development**” (“***datblygiad AEA***”) means ROMP development in respect of which a negative screening direction has not been made;
+- “**environmental information**” (“***gwybodaeth amgylcheddol***”) means the environmental statement together with any further information, evidence, any other information, any representations made by any body required by these Regulations to be invited to make representations, and any representations duly made by any other person about the environmental effects of the EIA development;
+- “**environmental statement**” (“***datganiad amgylcheddol***”) means a statement—
+  - (a) presented in an appropriate form;
+  - (b) that includes at least the information referred to in Part 2 of Schedule 2;
+  - (c) that includes such of the information referred to in Part 1 of Schedule 2 as is specified in the relevant scoping decision;
+- “**exempt development**” (“***datblygiad esempt***”) means ROMP development in respect of which the Welsh Ministers have made a direction under regulation 9(1);
+- “**further information**” (“***gwybodaeth bellach***”) means, in respect of any particular EIA application, information which the relevant mineral planning authority or the Welsh Ministers reasonably consider—
+  - (a) relates to the main effects of the EIA development; or
+  - (b) is of material relevance to the determination of conditions to which the planning permission is to be subject,
+
+  and which, having regard in particular to current knowledge and methods of assessment, can reasonably be required to be compiled;
+- “**the land**” (“***y tir***”) means the land to which the planning permission which is the subject of the ROMP application relates or, where more than one planning permission is the subject of a ROMP application, the aggregate of the land to which the planning permissions which are the subject of the ROMP application relate;
+- “**by local advertisement**” (“***drwy hysbysebu yn lleol***”), in relation to a notice, means—
+  - (a) by publication of the notice in a newspaper circulating in the locality in which the land to which the application or appeal relates is situated; and
+  - (b) where the local planning authority maintains a website for the purpose of advertisement of applications, by publication of the notice on the website;
+- “**minerals development**” (“***datblygiad mwynau***”) means development consisting of the winning and working of minerals, or involving the depositing of mineral waste;
+- “**negative screening direction**” (“***cyfarwyddyd sgrinio negyddol***”) means a direction made pursuant to regulation 9 to the effect that ROMP development is exempt development, or regulation 11, to the effect that ROMP development is not EIA development;
+- “**operator**” (“***gweithredwr***”) means, in respect of any particular undetermined ROMP application, any person other than the applicant or appellant, who is entitled to carry out any of the ROMP development which is authorised by the planning permission to which the application relates;
+- “**the Order**” (“***y Gorchymyn***”) means the Town and Country Planning (General Development Procedure) Order 1995 [^c20072421];
+- “**other relevant information**” (“***gwybodaeth berthnasol arall***”) has the meaning ascribed to it in regulation 36(5);
+- “**principal council**” (“***prif gyngor***”) has the meaning given by sub-section (1) of section 270 (general provisions as to interpretation) of the Local Government Act 1972 [^c20072431];
+- “**positive screening direction**” (“***cyfarwyddyd sgrinio cadarnhaol***”) means a direction made pursuant to regulation 11, to the effect that ROMP development is EIA development;
+- “**register**” (“***cofrestr***”) means a register kept pursuant to section 69 (registers of applications etc) and “**appropriate register**” (“***cofrestr briodol***”) means the register on which particulars of an undetermined ROMP application fall to be placed by virtue of section 69, as applied by regulation 47(1), and regulation 48(1);
+- “**relevant mineral planning authority**” (“***awdurdod cynllunio mwynau perthnasol***”) means the body to which it falls or would, but for a direction under paragraph—
+  - (a) 7 of Schedule 2 to the 1991 Act;
+  - (b) 13 of Schedule 13 to the 1995 Act; or
+  - (c) 8 of Schedule 14 to the 1995 Act,
+
+  fall to determine the undetermined ROMP application in question;
+- “**the relevant scoping decision**” (“***penderfyniad cwmpasu perthnasol***”) means whichever of the following was last adopted or made—
+  - (a) the scoping opinion notified under regulation 12(7);
+  - (b) where the applicant has requested a scoping direction pursuant to regulation 12(8), the scoping direction notified pursuant to regulation 13(12);
+  - (c) the scoping direction notified pursuant to regulation 14(13);
+  - (d) any scoping direction notified under regulation 15(13)
+- “**ROMP application**” (“***cais AHGM***”) means an application to a relevant mineral planning authority to determine the conditions to which a planning permission is to be subject under paragraph—
+  - (a) 2(2) of Schedule 2 to the 1991 Act (registration of old mining permissions);
+  - (b) 9(1) of Schedule 13 to the 1995 Act (review of old mineral planning permissions); or
+  - (c) 6(1) of Schedule 14 to the 1995 Act (periodic review of mineral planning permissions);
+- “**ROMP development**” (“***datblygiad AHGM***”) means development which has yet to be carried out and which is authorised by a planning permission which is the subject of an undetermined ROMP application;
+- “**scoping direction**” (“***cyfarwyddyd cwmpasu***”) means a written statement of the opinion of the Welsh Ministers made pursuant to regulation 13, 14 or 15, as to the scope of the information referred to in Part I of Schedule 2 which they consider to be relevant to—
+  - (a) the specific characteristics of the particular EIA development to which the direction relates;
+  - (b) the specific characteristics of development of the type concerned;
+  - (c) the environmental features likely to be affected by the EIA development,
+
+  and which, having regard in particular to current knowledge and methods of assessment, the Welsh Ministers consider can reasonably be required to be compiled;
+- “**scoping information**” (“***gwybodaeth gwmpasu***”) has the meaning attributed to it in regulations 12(2), 13(4), 14(5) and 15(5);
+- “**scoping opinion**” (“***barn gwmpasu***”) means a written statement of the opinion of the relevant mineral planning authority adopted pursuant to regulation 12 as to the scope of the information referred to in Part I of Schedule 2 which the authority considers to be relevant to—
+  - (a) the specific characteristics of the particular EIA development to which the opinion relates;
+  - (b) the specific characteristics of development of the type concerned;
+  - (c) the environmental features likely to be affected by the EIA development,
+
+  and which, having regard in particular to current knowledge and methods of assessment, the authority considers can reasonably be required to be compiled;
+- “**screening direction**” (“***cyfarwyddyd sgrinio***”) means a direction made pursuant to regulation 9 to the effect that ROMP development is exempt development, or regulation 11, as to whether ROMP development is EIA development;
+- “**screening information**” (“***gwybodaeth sgrinio***”) has the meaning ascribed to it in regulation 11(3);
+- “**sensitive area**” (“***ardal sensitif***”) means any of the following—
+  - (a) land notified under sub-section (1) of section 28 (areas of special scientific interest) of the Wildlife and Countryside Act 1981 [^c20072441];
+  - (b) land to which sub-section (3) of section 29 (nature conservation orders) of the Wildlife and Countryside Act 1981 applies;
+  - (c) an area to which paragraph (u)(ii) in the table in article 10 of the Order applies;
+  - (d) a National Park within the meaning of the National Parks and Access to the Countryside Act 1949 [^c20072451];
+  - (e) a property appearing on the World Heritage List kept under Article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage;
+  - (f) a scheduled monument within the meaning of section 3 of the Historic Environment (Wales) Act 2023[^key-4aa4c5e3847398d712ba372bbc31052e];
+  - (g) an area of outstanding natural beauty designated as such by an order made by the Natural Resources Body for Wales[^key-3bd1c9e299004cf443761a5d0c3ebe63] under section 82 (designation of areas) of the Countryside and Rights of Way Act 2000 [^c20072471] as confirmed by the Welsh Ministers [^c20072481];
+  - (h) a European site within the meaning of regulation 8 of the Conservation of Habitats and Species Regulations 2017[^key-61720f40296d3eeaf0be88d1ac8711b9];
+- “**specified information**” (“***gwybodaeth benodedig***”) has the meaning given in regulation 18(6)(a);
+- “**suspension date**” (“***dyddiad atal***”) means the date on which, in accordance with any of the following provisions, a planning permission ceases to authorise any minerals development—
+  - (a) regulation 11(9);
+  - (b) regulation 12(5);
+  - (c) regulation 13(10);
+  - (d) regulation 14(11);
+  - (e) regulation 15(11);
+  - (f) regulation 17(8);
+  - (g) regulation 18(10);
+  - (h) regulation 18(17);
+  - (i) regulation 19(2);
+  - (j) regulation 26(5);
+  - (k) regulation 27(5);
+  - (l) regulation 28(7);
+  - (m) regulation 29(2);
+- “**unauthorised minerals development**” (“***datblygiad mwynau diawdurdod***”) means minerals development which has ceased to be authorised by a planning permission pursuant to—
+  - (a) regulation 11(9);
+  - (b) regulation 12(5);
+  - (c) regulation 13(10);
+  - (d) regulation 14(11);
+  - (e) regulation 15(11);
+  - (f) regulation 17(8);
+  - (g) regulation 18(10);
+  - (h) regulation 18(17);
+  - (i) regulation 19(2);
+  - (j) regulation 26(5);
+  - (k) regulation 27(5);
+  - (l) regulation 28(7);
+  - (m) regulation 29(2);
+- “**undetermined ROMP application**” (“***cais AHGM amhenderfynedig***”) means a ROMP application made before 15 November 2000 which, on or after the date on which these Regulations come into force, falls to be determined by a relevant mineral planning authority or the Welsh Ministers.
+
+(2) References (however expressed) in these Regulations to the referral of an application to the Welsh Ministers for determination are references to the referral of an application to the Welsh Ministers [^c20072501] under any of the following—
+
+- (a) paragraph 7(1) of Schedule 2 to the 1991 Act (reference of applications to Secretary of State));
+- (b) paragraph 13(1) of Schedule 13 to the 1995 Act (reference of applications to the Secretary of State);
+- (c) paragraph 8(1) of Schedule 14 to the 1995 Act (reference of applications to Secretary of State);
+- (d) regulation 6 (default powers of the Welsh Ministers).
+
+(3) References (however expressed) in these Regulations to an appeal are references to an appeal under—
+
+- (a) paragraph 5(2) of Schedule 2 to the 1991 Act, paragraph 11(1) of Schedule 13 to the 1995 Act or paragraph 9(1) of Schedule 14 to the 1995 Act (right of appeal); or
+- (b) the provisions mentioned in sub-paragraph (a) as applied by regulation 45.
+
+(4) References in these Regulations to “**suspension of minerals development**” (“***atal datblygu mwynau***”) are references to a planning permission ceasing to authorise any minerals development pursuant to any of the following—
+
+- (a) regulation 11(9);
+- (b) regulation 12(5);
+- (c) regulation 13(10);
+- (d) regulation 14(11);
+- (e) regulation 15(11);
+- (f) regulation 17(8);
+- (g) regulation 18(10);
+- (h) regulation 18(17);
+- (i) regulation 19(2);
+- (j) regulation 26(5);
+- (k) regulation 27(5);
+- (l) regulation 28(7);
+- (m) regulation 29(2).
+
+(5) Subject to paragraph (6), expressions used both in these Regulations and in the Act have the same meaning for the purposes of these Regulations as they have for the purposes of the Act.
+
+(6) Expressions used both in these Regulations and in the Directive (whether or not also used in the Act) have the same meaning for the purposes of these Regulations as they have for the purposes of the Directive.
+
+(7) In these Regulations any reference to a Council Directive (other than the Directive)[^key-2baba8aaabfed108ef19a4f5fa73e7cd] is a reference to that Directive as amended at the date these Regulations were made.
+
+### 3. Prohibition on determination without consideration of environmental information
+
+A relevant mineral planning authority or the Welsh Ministers must not determine an EIA application or an appeal in relation to an EIA application unless they have first taken the environmental information into consideration, and they must state in their decision that they have done so.
+
+### 4. Guidance by the Welsh Ministers
+
+(1) The Welsh Ministers may give guidance to relevant mineral planning authorities as to the exercise of authorities' functions pursuant to these Regulations.
+
+(2) A relevant mineral planning authority must have regard to any guidance given under paragraph (1).
+
+### 5. Extension of time periods within which steps must be taken by mineral planning authorities
+
+(1) Where a relevant mineral planning authority—
+
+- (a) is required to take any step within a period specified under, or agreed in accordance with, these Regulations (“**the specified period**”); and
+- (b) reasonably concludes that it will be unable to take the step within the specified period,
+
+the relevant mineral planning authority may make a written request to the Welsh Ministers to make a direction under this regulation.
+
+(2) A request made under paragraph (1) must—
+
+- (a) identify the step which the authority is required to take;
+- (b) state the date by which the authority is required to take the step in question;
+- (c) be accompanied by a written statement of the authority's reasons for concluding that it will be unable to take the step in question within the specified period;
+- (d) state a date by which the authority proposes to take the step in question;
+- (e) be accompanied by a written statement of the authority's reasons for concluding that it will be able to take the step in question by the date stated pursuant to sub-paragraph (d); and
+- (f) be accompanied either by written confirmation that the relevant mineral planning authority has complied with paragraph (3), or by the authority's written explanation as to why it was unable, or why it was not possible, to comply with that paragraph.
+
+(3) Before submitting a request under paragraph (1) a relevant mineral planning authority must notify the applicant in writing—
+
+- (a) of its intention to submit a request to the Welsh Ministers under paragraph (1);
+- (b) of the matters set out in paragraph (2) (other than the matter referred to in paragraph (2)(f));
+- (c) that the applicant may submit representations to the Welsh Ministers within 14 days of the date of the notification; and
+- (d) the effect of paragraph (10).
+
+(4) The Welsh Ministers may make a direction under this regulation specifying an alternative period within which the step in question is to be taken if, having considered a request made pursuant to paragraph (1), any representations made by the applicant and such other matters as they consider relevant, the Welsh Ministers are satisfied that—
+
+- (a) the relevant mineral planning authority cannot reasonably be required to take the step in question within the specified period; and
+- (b) the authority's request under paragraph (1) did not arise as a result of any fault or intention of the authority.
+
+(5) The Welsh Ministers must, as soon as reasonably practicable following the making of a direction under paragraph (4), send to the relevant mineral planning authority and to the applicant, a copy of that direction.
+
+(6) If the Welsh Ministers are not satisfied as to both of the matters mentioned in paragraph (4)(a) and (b) they must decline to make a direction under this regulation.
+
+(7) The Welsh Ministers must, as soon as reasonably practicable following the taking of a decision pursuant to paragraph (6), give written notification to the relevant mineral planning authority of that decision and of the reasons for it.
+
+(8) The Welsh Ministers must send a copy of any notification given pursuant to paragraph (7) to the applicant.
+
+(9) A direction made under this regulation may specify such alternative period as the Welsh Ministers consider appropriate.
+
+(10) Upon receipt by the Welsh Ministers of a duly made request under paragraph (1), the specified period within which the step identified pursuant to paragraph (2)(a) is to be taken, is extended until—
+
+- (a) where the Welsh Ministers make a direction specifying an alternative period, the date on which that alternative period expires; or
+- (b) where the Welsh Ministers decline to make a direction under this regulation, the date falling 14 days after the latest of the following dates–
+  - (i) the date on which the specified period ends;
+  - (ii) the date on which written notification is given pursuant to paragraph (7);
+  - (iii) the date on which any copy of a written notification is sent to the applicant pursuant to paragraph (8).
+
+(11) A direction made under this regulation may be amended or revoked by a further direction.
+
+(12) The Welsh Ministers must notify the mineral planning authority and the applicant of any direction, or decision to decline to make a direction, made under this regulation.
+
+### 6. Default powers of the Welsh Ministers
+
+(1) Where, in relation to an EIA application, a relevant mineral planning authority–
+
+- (a) is required to take any step within a particular period; and
+- (b) does not take the step in question within the particular period,
+
+the Welsh Ministers may direct that the EIA application in question be referred to them instead of being dealt with by the relevant mineral planning authority.
+
+(2) Where the Welsh Ministers have given a direction under this regulation and the circumstances mentioned in paragraph (3) apply, the Welsh Ministers may recover from the relevant mineral planning authority such costs or expenses as they have reasonably incurred in dealing with the EIA application to which the direction relates.
+
+(3) The circumstances referred to in paragraph (2) are that the Welsh Ministers consider on the evidence available to them, that the failure of the authority to take the step in question within the particular period was brought about as a result of the fault or intention of the relevant mineral planning authority.
+
+(4) Before giving a direction under this regulation the Welsh Ministers must consult the relevant mineral planning authority and the applicant.
+
+(5) Any EIA application in respect of which a direction under this regulation is given must be referred to the Welsh Ministers accordingly.
+
+(6) For the purposes of this regulation the reference to a particular period is a reference to any of the following—
+
+- (a) a period specified under these Regulations;
+- (b) a period agreed in writing in accordance with the provisions of these Regulations;
+- (c) where a relevant mineral planning authority has made a written request under regulation 5(1), the period calculated in accordance with regulation 5(10).
+
+(7) Before determining the application the Welsh Ministers may, if either the applicant or the relevant mineral planning authority so wish, give each of them an opportunity of appearing before and being heard by a person appointed by the Welsh Ministers for the purpose.
+
+(8) The decision of the Welsh Ministers on the application is final.
+
+(9) The powers conferred by this regulation are in addition to, and not in derogation from, any other powers of the Welsh Ministers including in particular, the power conferred by section 77.
+
+### 7. Welsh Ministers' powers to require returns from relevant mineral planning authorities
+
+(1) The Welsh Ministers may by notice in writing, require a relevant mineral planning authority to provide such information in relation to the exercise of the authority's functions under these Regulations as the Welsh Ministers consider appropriate.
+
+(2) Information required in accordance with a written notification given under paragraph (1) must be provided by a relevant mineral planning authority within such period as may be specified in the notice, or within such longer period as may be agreed in writing with the Welsh Ministers.
+
+### 8. Format of environmental statements, information, evidence etc.
+
+An environmental statement and any further information or evidence required to be submitted under these Regulations must be submitted in paper and electronic format and references to copies of any such statement, information or evidence are to be construed accordingly.
+
+## PART 2 — Screening
+
+### 9. General provisions relating to screening
+
+(1) Without prejudice to regulation 52, the Welsh Ministers[^key-331c460bb75e615716f11c7b43393170] may direct that particular ROMP development is exempted from the application of these Regulations [^key-2fbcc9c839e0871992d52915c1243e34]....
+
+(2) Where a direction is given under paragraph (1), the Welsh Ministers must—
+
+- (a) send a copy of any such direction to the relevant mineral planning authority and to the applicant or appellant;
+- (b) make available to the public the information considered in making the direction and the reasons for making the direction;
+- (c) consider whether another form of assessment would be appropriate; and
+- (d) take such steps as they consider appropriate to bring the information obtained under the other form of assessment to the attention of the public.
+
+(3) Where the Welsh Ministers are to decide under these Regulations whether ROMP development is EIA development the Welsh Ministers must take into account in making that decision such of the selection criteria set out in Schedule 1 as are relevant to the development.
+
+(4) Where the Welsh Ministers make a screening direction under these Regulations—
+
+- (a) that direction must be accompanied by a written statement giving clearly and precisely the full reasons for the decision comprised in the direction; and
+- (b) the Welsh Ministers must send a copy of the direction and a copy of the written statement required by sub-paragraph (a) to the applicant or appellant, as the case may be, and to the relevant mineral planning authority.
+
+(5) The Welsh Ministers may make a screening direction irrespective of whether they have received a request to do so.
+
+### 10. General screening of ROMP development
+
+(1) ROMP development is EIA development.
+
+This is subject to paragraph (2) and without prejudice to regulation 9.
+
+(2) Any applicant or appellant may, within three weeks of the date on which these Regulations come into force, request the Welsh Ministers to make a screening direction under regulation 11.
+
+### 11. Screening directions of the Welsh Ministers
+
+(1) An applicant or appellant who, pursuant to regulation 10(2), requests the Welsh Ministers to make a screening direction under this regulation must submit with that request—
+
+- (a) a copy of the ROMP application;
+- (b) a plan sufficient to identify the land;
+- (c) a description of the nature and purpose of the ROMP development and its possible effects on the environment;
+- (d) any representations that the applicant or appellant wishes to make.
+
+(2) An applicant or appellant who makes a request pursuant to regulation 10(2) in connection with an undetermined ROMP application which is before a mineral planning authority for determination, must forthwith, send to the relevant mineral planning authority a copy of that request and of any representations that that person makes to the Welsh Ministers.
+
+(3) The Welsh Ministers must, if they consider that they have not been provided with sufficient information to make a screening direction, notify in writing the applicant, appellant or a relevant operator of the additional information (“screening information”) they require and of the matters set out in paragraph 2 of Schedule 3.
+
+(4) For the purposes of paragraph (3), a relevant operator is any operator which the Welsh Ministers reasonably consider is, or should be, able to provide screening information.
+
+(5) The Welsh Ministers must send a copy of any written notification given under paragraph (3) to the relevant mineral planning authority.
+
+(6) The Welsh Ministers may in writing request the relevant mineral planning authority to provide such information as it can in relation to screening information requested under paragraph (3).
+
+(7) A mineral planning authority to which a request is made under paragraph (6) must, within 3 weeks of the date on which that request is made, or such longer period as is agreed in writing with the Welsh Ministers—
+
+- (a) provide such information as it can in relation to the screening information; or
+- (b) notify the Welsh Ministers in writing of the reasons why it cannot provide any such information.
+
+(8) Screening information required pursuant to written notification given under paragraph (3) must be provided within 3 weeks beginning with the date on which the notification is given, or such longer period as may be agreed in writing with the Welsh Ministers (“**the relevant period**”).
+
+(9) If screening information required pursuant to written notification given under paragraph (3) is not provided within the relevant period the planning permission to which the undetermined ROMP application relates ceases to authorise any minerals development from the end of the relevant period.
+
+(10) The Welsh Ministers must make a screening direction as soon as reasonably practicable following the latest of the following dates—
+
+- (a) the date on which a request pursuant to regulation 10(2) is received;
+- (b) where the person making the request has been notified pursuant to paragraph (3), the date on which the screening information required is received;
+- (c) the date on which a written response under paragraph (7) is received.
+
+(11) If the ROMP development which is the subject of a screening request made pursuant to regulation 10(2) is development of a type listed in Annex I to the Directive, the Welsh Ministers must direct that that development is EIA development.
+
+This is without prejudice to regulation 9.
+
+(12) The Welsh Ministers must, as soon as reasonably practicable following the making of a screening direction under this regulation, send to the person who made the request—
+
+- (a) a copy of the screening direction made; and
+- (b) where the screening direction is to the effect that the development in question is EIA development, written notification of the matters set out in paragraph 3 of Schedule 3.
+
+(13) The Welsh Ministers may withdraw a written notification given under paragraph (3) at any time before the expiration of the relevant period.
+
+## PART 3 — Environmental Statements
+
+### CHAPTER 1 — Preparation of Environmental Statements
+
+#### 12. Scoping opinions of the relevant mineral planning authority
+
+(1) A relevant mineral planning authority must adopt a scoping opinion in relation to every EIA application which is before it for determination and comply with paragraph (7)—
+
+- (a) where paragraph (2) applies, within 8 weeks of receipt of such scoping information as may be required pursuant to written notification given under that paragraph;
+- (b) where an applicant has made a request pursuant to regulation 10(2), within 8 weeks of receipt of a copy of a positive screening direction;
+- (c) in all other cases, within 8 weeks of the date on which these Regulations come into force.
+
+(2) If an authority considers that it has not been provided with sufficient information to adopt a scoping opinion it must—
+
+- (a) where an applicant has made a request pursuant to regulation 10(2), within 8 weeks of receipt of a copy of a positive screening direction made under that regulation; otherwise
+- (b) within 8 weeks of the date on which these Regulations come into force;
+
+notify the applicant or a relevant operator in writing of the additional information (“scoping information”) it requires and of the matters set out in paragraph 4 of Schedule 3.
+
+(3) For the purposes of paragraph (2), a relevant operator is any operator which the relevant mineral planning authority reasonably considers is, or should be, able to provide scoping information.
+
+(4) Scoping information required pursuant to written notification given under paragraph (2) must be provided within 3 weeks beginning on the date on which the notification is given or such longer period as may be agreed in writing with the authority (“**the relevant period**”).
+
+(5) If scoping information required pursuant to written notification given under paragraph (2) is not provided within the relevant period the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of the relevant period.
+
+(6) An authority must not adopt a scoping opinion under paragraph (1) until it has consulted the applicant, any relevant operator notified under paragraph (2) and the consultation bodies.
+
+(7) An authority must send to an applicant—
+
+- (a) a copy of its scoping opinion adopted under this regulation; and
+- (b) written notification of the matters set out in paragraph 5 of Schedule 3.
+
+(8) Where an authority fails to comply with paragraph (7) within the 8 week period applicable in accordance with paragraph (1), the applicant may request the Welsh Ministers to make a scoping direction under regulation 13.
+
+(9) The adoption of a scoping opinion under this regulation does not preclude the relevant mineral planning authority or the Welsh Ministers from giving written notification under regulation 26 (further information) or regulation 27 (evidence).
+
+(10) Where a relevant mineral planning authority receives a copy of a scoping direction pursuant to regulation 13(12) the authority must, within seven days of receipt of the copy, notify the applicant in writing of the matters set out in paragraph 6 of Schedule 3.
+
+(11) A relevant mineral planning authority may withdraw a written notification given under paragraph (2) at any time before the expiration of the relevant period.
+
+#### 13. Scoping directions of the Welsh Ministers requested under regulation 12(8)
+
+(1) An applicant who, pursuant to regulation 12(8), requests the Welsh Ministers to make a scoping direction must submit with that request–
+
+- (a) a plan sufficient to identify the land;
+- (b) a brief description of the nature and purpose of the development and of its possible effects on the environment;
+- (c) a copy of any relevant notification given to the applicant under regulation 12(2) and of any response;
+- (d) such other information or representations as the applicant may wish to provide or make.
+
+(2) An applicant who makes a request pursuant to regulation 12(8) must send to the relevant mineral planning authority a copy of that request and of any information or representations which the applicant submits to the Welsh Ministers pursuant to paragraph 13(1)(d).
+
+(3) As soon as reasonably practicable—
+
+- (a) following receipt of a request made pursuant to regulation 12(8); or
+- (b) where paragraph (4) applies, following receipt of such scoping information as may be required pursuant to written notification given under that paragraph,
+
+the Welsh Ministers must make a scoping direction in relation to the EIA application which is the subject of the request.
+
+(4) If the Welsh Ministers consider that they have not been provided with sufficient information to make a scoping direction they must, as soon as reasonably practicable following receipt of a request made pursuant to regulation 12(8), notify the applicant or a relevant operator in writing of the additional information (“scoping information”) they require and of the matters set out in paragraph 7 of Schedule 3.
+
+(5) For the purposes of paragraph (4), a relevant operator is any operator which the Welsh Ministers reasonably consider is, or should be, able to provide scoping information.
+
+(6) The Welsh Ministers must send a copy of any notification given under paragraph (4) to the relevant mineral planning authority.
+
+(7) The Welsh Ministers may in writing, request the relevant mineral planning authority to provide such information as it can in relation to scoping information required pursuant to a written notification given under paragraph (4).
+
+(8) A mineral planning authority to which a request is made under paragraph (7) must, within 3 weeks of the date on which that request is made, or such longer period as is agreed in writing with the Welsh Ministers—
+
+- (a) provide such information as it can in relation to the scoping information; or
+- (b) notify the Welsh Ministers in writing of the reasons why it cannot provide any such information.
+
+(9) Scoping information required pursuant to written notification given under paragraph (4) must be provided within 3 weeks beginning with the date on which the notification is given, or such longer period as may be agreed in writing with the Welsh Ministers (“**the relevant period**”).
+
+(10) If scoping information required pursuant to written notification given under paragraph (4) is not provided within the relevant period the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of the relevant period.
+
+(11) The Welsh Ministers must not make a scoping direction under this regulation until they have consulted the applicant, any relevant operator notified under paragraph (4) and the consultation bodies.
+
+(12) The Welsh Ministers must, as soon as reasonably practicable following the making of a scoping direction under this regulation, send to the applicant and the relevant mineral planning authority a copy of that direction.
+
+(13) The copy of the direction sent to the applicant under paragraph (12) must be accompanied by written notification of the right to challenge the direction and the time period for doing so.
+
+(14) The making of a scoping direction under this regulation does not preclude the Welsh Ministers or a relevant mineral planning authority from giving written notification under regulation 26 (further information) or regulation 27 (evidence).
+
+(15) The Welsh Ministers may withdraw a written notification given under paragraph (4) at any time before the expiration of the relevant period.
+
+#### 14. Scoping directions of the Welsh Ministers
+
+(1) This paragraph applies to every EIA application which, immediately before the date on which these Regulations come into force, is before the Welsh Ministers for determination.
+
+(2) The Welsh Ministers must make a scoping direction in relation to every EIA application to which paragraph (1) applies—
+
+- (a) in cases where paragraph (5) applies, as soon as reasonably practicable following receipt of such scoping information as may be required pursuant to written notification given under that paragraph;
+- (b) where an applicant or appellant has made a request pursuant to regulation 10(2), as soon as reasonably practicable following the making of a positive screening direction;
+- (c) in all other cases, as soon as reasonably practicable after the date on which these Regulations come into force.
+
+(3) This paragraph applies to every EIA application referred to the Welsh Ministers for determination on or after the date on which these Regulations come into force and in respect of which—
+
+- (a) a copy of a scoping opinion has not been sent to the applicant under regulation 12(7); and
+- (b) a copy of a screening direction has not been sent to the applicant under regulation 13(12).
+
+(4) The Welsh Ministers must make a scoping direction in relation to every EIA application to which paragraph (3) applies—
+
+- (a) as soon as reasonably practicable following the application being so referred; or
+- (b) where paragraph (5) applies, as soon as reasonably practicable following receipt of such scoping information as may be required pursuant to written notification given under that paragraph.
+
+(5) If the Welsh Ministers consider that they have not been provided with sufficient information to make a scoping direction they must—
+
+- (a) in relation to an EIA application to which paragraph (1) applies, as soon as reasonably practicable following the date on which these Regulations come into force; or
+- (b) in relation to an EIA application to which paragraph (3) applies, as soon as reasonably practicable following the application being so referred,
+
+notify the applicant or appellant or a relevant operator in writing of the additional information (“scoping information”) they require and of the matters set out in paragraph 8 of Schedule 3.
+
+(6) For the purposes of paragraph (5), a relevant operator is any operator which the Welsh Ministers reasonably consider is, or should be, able to provide scoping information.
+
+(7) The Welsh Ministers may in writing, request the relevant mineral planning authority to provide such information as it can in relation to scoping information which is the subject of a written notification under paragraph (5).
+
+(8) A request made pursuant to paragraph (7) must be accompanied by a copy of the notification given under paragraph (5) to which the request relates.
+
+(9) A mineral planning authority to which a request is made under paragraph (7) must, within 3 weeks of the date on which that request is made, or such longer period as is agreed in writing with the Welsh Ministers—
+
+- (a) provide such information as it can in relation to the scoping information; or
+- (b) notify the Welsh Ministers in writing of the reasons why it cannot provide any such information.
+
+(10) Scoping information required pursuant to a written notification given under paragraph (5) must be provided within 3 weeks beginning with the date on which notification under that paragraph is given, or such longer period as may be agreed in writing with the Welsh Ministers (“**the relevant period**”).
+
+(11) If scoping information required pursuant to written notification given under paragraph (5) is not provided within the relevant period the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of the relevant period.
+
+(12) The Welsh Ministers must not make a scoping direction under paragraph (2) or (4) until they have consulted the applicant or appellant, any relevant operator notified under paragraph (5), and the consultation bodies.
+
+(13) The Welsh Ministers must, as soon as they have made a scoping direction under this regulation, send to the applicant or appellant—
+
+- (a) a copy of that direction; and
+- (b) written notification of the matters set out in paragraph 9 of Schedule 3.
+
+(14) The Welsh Ministers must send a copy of any direction sent, and written notification given, under paragraph (13) to the relevant mineral planning authority.
+
+(15) The making of a scoping direction under this regulation does not preclude the Welsh Ministers from giving written notification under regulation 26 (further information) or 27 (evidence).
+
+(16) The Welsh Ministers may withdraw a written notification given under paragraph (5) at any time before the expiration of the relevant period.
+
+#### 15. Substitute scoping directions
+
+(1) This regulation applies to any EIA application in respect of which all of the following conditions are met—
+
+- (a) a relevant scoping decision has been notified;
+- (b) notification under regulation 18(21) has yet to be been given; and
+- (c) the EIA application in question has been referred to the Welsh Ministers for determination.
+
+(2) For the purposes of paragraph (1)(a), a relevant scoping decision has been notified if, in relation to the EIA application in question, the relevant mineral planning authority has complied with regulation 12(7), or the Welsh Ministers have complied with regulation 13(12).
+
+(3) The Welsh Ministers may make a scoping direction in relation to an EIA application to which this regulation applies if they consider it expedient to do so.
+
+(4) A scoping direction made under paragraph (3) replaces, for the purposes of these Regulations–
+
+- (a) the scoping opinion adopted under regulation 12; and
+- (b) any scoping direction made under regulation 13.
+
+(5) If the Welsh Ministers consider that they do not have sufficient information to make a scoping direction under paragraph (3) they must notify the applicant or a relevant operator in writing of the additional information (“scoping information”) they require and of the matters set out in paragraph 10 of Schedule 3.
+
+(6) For the purposes of paragraph (5), a relevant operator is any operator which the Welsh Ministers reasonably consider is, or should be, able to provide scoping information.
+
+(7) The Welsh Ministers may in writing, request the relevant mineral planning authority to provide such information as it can in relation to scoping information required pursuant to a written notification given under paragraph (5).
+
+(8) A request made pursuant to paragraph (7) must be accompanied by a copy of the notification given under paragraph (5) to which the request relates.
+
+(9) A mineral planning authority to which a request is made under paragraph (7) must, within 3 weeks of the date on which that request is made, or such longer period as is agreed in writing with the Welsh Ministers—
+
+- (a) provide such information as it can in relation to the scoping information; or
+- (b) notify the Welsh Ministers in writing of the reasons why it cannot provide any such information.
+
+(10) Scoping information required pursuant to a written notification given under paragraph (5) must be provided within 3 weeks beginning with the date on which notification under that paragraph is given, or such longer period as may be agreed in writing with the Welsh Ministers (“**the relevant period**”).
+
+(11) If scoping information required pursuant to written notification given under paragraph (5) is not provided within the relevant period the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of the relevant period.
+
+(12) The Welsh Ministers must not make a scoping direction under paragraph (3) until they have consulted the applicant, any relevant operator notified under paragraph (5), and the consultation bodies.
+
+(13) As soon as reasonably practicable following the making of a scoping direction under paragraph (3), the Welsh Ministers must send to the applicant a copy of that direction and written notification of the matters set out in paragraph 11 of Schedule 3.
+
+(14) The Welsh Ministers must send a copy of any scoping direction made under this regulation to the relevant mineral planning authority.
+
+(15) The making of a scoping direction under this regulation does preclude the Welsh Ministers from giving written notification under regulation 26 (further information) or 27 (evidence).
+
+(16) The Welsh Ministers may withdraw a written notification given under paragraph (5) at any time before the expiration of the relevant period.
+
+#### 16. Procedure to facilitate preparation of environmental statements
+
+(1) Subject to paragraph (6), the relevant mineral planning authority must, if requested by a person notified in accordance with regulation 12(7), 13(12), 14(13) or 15(13), enter into consultation with that person to determine whether the authority has in its possession any information which the person or the authority considers relevant to the preparation of the environmental statement and, if it has, the authority must make that information available to that person.
+
+(2) Any person notified in accordance with regulation 12(7), 13(12), 14(13) or 15(13) may give notice in writing to the relevant mineral planning authority or, as the case may be, to the Welsh Ministers, under this paragraph.
+
+(3) A notice under paragraph (2) must include the information necessary to identify the land and the nature and purpose of the EIA development
+
+(4) The recipient of such notice as is mentioned in paragraph (2) must—
+
+- (a) notify the consultation bodies in writing of the name and address of the person who gave notice under paragraph (2), and of the duty imposed on the consultation bodies by paragraph (5) to make information available to that person; and
+- (b) inform in writing the person who gave the notice of the names and addresses of the bodies so notified.
+
+(5) Subject to paragraph (6), any body notified in accordance with paragraph (4)(a) must, if requested by the person identified to the body as being the person who gave notice under paragraph (2), enter into consultation with that person to determine whether the body has in its possession any information which the person or the body considers relevant to the preparation of the environmental statement and, if it has, the body must make that information available to that person.
+
+(6) This regulation does not require the disclosure of any information—
+
+- (a) to which the Environmental Information Regulations 2004 [^c20072511] apply, where the person holding it would be entitled to withhold it in response to a request made in accordance with those Regulations; or
+- (b) which in any other case would be exempt information if a request for its disclosure were made in accordance with the Freedom of Information Act 2000 [^c20072521].
+
+(7) A reasonable charge reflecting the cost of making the relevant information available may be made by an authority or body which makes information available in accordance with paragraph (1) or (5).
+
+### CHAPTER 2 — Submission of Environmental Statements
+
+#### 17. Requirement to submit environmental statement
+
+(1) An environmental statement must be submitted for every EIA application in connection with which written notification is given pursuant to regulation 12(7), 13(12), 14(13) or 15(13).
+
+(2) An environmental statement required in connection with an EIA application which is before a relevant mineral planning authority for determination must be submitted to that authority in draft (“draft environmental statement”)—
+
+- (a) within 16 weeks of the date on which, in accordance with regulation 12(7)(a), a copy of the authority's scoping opinion is sent to the applicant; or
+- (b) where a scoping direction has been requested pursuant to regulation 12(8), within 16 weeks of the date on which, in accordance with regulation 13(12), a copy of the Welsh Ministers' scoping direction is sent to the applicant,
+
+or such longer period as may be agreed in writing with the authority (“**the relevant period**”).
+
+(3) An environmental statement required in connection with an EIA application to which regulation 14(1) or 14(3) applies, must be submitted to the Welsh Ministers in draft (a “draft environmental statement”) within 16 weeks of the date of the notification given under regulation 14(13), or such longer period as may be agreed in writing by the Welsh Ministers (“**the relevant period**”).
+
+(4) An environmental statement required in connection with an EIA application to which regulation 15 applies, must be submitted to the Welsh ministers in draft (a “draft environmental statement”) within 16 weeks of the date of the notification given under regulation 15(13), or such longer period as may be agreed in writing by the Welsh Ministers (“**the relevant period**”).
+
+(5) This paragraph applies where an EIA application is referred to the Welsh Ministers—
+
+- (a) following the date on which a scoping opinion or direction is sent to the applicant pursuant to regulation 12(7)(a) or 13(12); and
+- (b) before an environmental statement is submitted to a relevant mineral planning authority under this regulation.
+
+(6) Where paragraph (5) applies, the draft environmental statement must be submitted to the Welsh Ministers within 16 weeks of the date on which, the scoping opinion or direction was sent to the applicant pursuant to regulation 12(7)(a) or 13(12), as the case may be, or such longer period as may be agreed in writing by the Welsh Ministers (“**the relevant period**”).
+
+(7) No more than one draft environmental statement may be accepted by a relevant mineral planning authority or the Welsh Ministers in respect of any EIA application.
+
+(8) If a draft environmental statement is not submitted within the relevant period applicable in accordance with paragraph (2), (3), (4) or (6), the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of the relevant period.
+
+#### Draft environmental statements: pre-consultation checks
+
+*Time periods within which written notification must be given*
+
+#### 18.
+
+(1) A relevant mineral planning authority must, within 3 weeks of receipt of a draft environmental statement, comply with paragraph (3) and give written notification in accordance with one of the following–
+
+- (a) paragraph (6);
+- (b) paragraph (15); or
+- (c) paragraph (21).
+
+(2) The Welsh Ministers must, within such period following receipt of a draft environmental statement as they may reasonably require, comply with paragraph (3) and give written notification in accordance with one of the following—
+
+- (a) paragraph (6);
+- (b) paragraph (15); or
+- (c) paragraph (21).
+
+*Requirement to check consistency between relevant scoping decision and draft environmental statement*
+
+(3) On receipt of a draft environmental statement a relevant mineral planning authority must check whether the content and extent of the information included in the draft environmental statement appears to be consistent with the relevant scoping decision.
+
+(4) On receipt of a draft environmental statement in connection with an EIA application which was referred or appealed to the Welsh Ministers before the date on which these Regulations come into force, the Welsh Ministers must check whether the content and extent of the information included in the draft environmental statement appears to be consistent with the scoping direction notified under regulation 14(13).
+
+(5) On receipt of a draft environmental statement in connection with an EIA application referred to the Welsh Ministers on or after the date on which these Regulations come into force, the Welsh Ministers must check whether the content and extent of the information included in the draft environmental statement appears to be consistent with the relevant scoping decision.
+
+*Notification requirements concerning material inconsistencies between relevant scoping decision and draft environmental statement*
+
+(6) If it appears to a relevant mineral planning authority or the Welsh Ministers that the content or extent of the information included in a draft environmental statement submitted to them is materially inconsistent with the relevant scoping decision, the authority or the Welsh Ministers must give written notification to the applicant or appellant, or to a relevant operator–
+
+- (a) identifying clearly and precisely both the material inconsistency in question, and the information which is necessary to remedy the inconsistency (“specified information”); and
+- (b) of the matters set out in paragraph 12 of Schedule 3.
+
+(7) For the purposes of paragraph (6), a relevant operator is any operator which the relevant mineral planning authority or the Welsh Ministers reasonably consider is, or should be, able to provide specified information.
+
+*Requirement to provide specified information*
+
+(8) Specified information identified pursuant to a written notification given by a relevant mineral planning authority under paragraph (6) must be provided to that authority within 3 weeks of the date of the notification given under that paragraph, or such longer period as may be agreed in writing with the authority (“**the relevant period**”).
+
+(9) Specified information identified pursuant to a written notification given by the Welsh Ministers under paragraph (6) must be provided to the Welsh Ministers within 3 weeks of the date of the notification given under that paragraph, or such longer period as may be agreed in writing with the Welsh Ministers (“**the relevant period**”).
+
+(10) If specified information identified pursuant to a written notification under paragraph (6) is not provided within the relevant period mentioned in paragraph (8) or, as the case may be, paragraph (9), the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of the relevant period in question.
+
+(11) A relevant mineral planning authority or the Welsh Ministers may withdraw a written notification given under paragraph (6) at any time before the expiration of the relevant period referred to in paragraph (8) or, as the case may be, paragraph (9).
+
+*Requirement to consider form in which draft environmental statement is presented*
+
+(12) If a relevant mineral planning authority or the Welsh Ministers is or are satisfied that a draft environmental statement appears to contain all of the information specified in the relevant scoping decision, the authority or the Welsh Ministers (as the case may be) must consider whether the draft environmental statement is presented in an inappropriate form.
+
+(13) Where a relevant mineral planning authority is satisfied as mentioned in paragraph (12) as a result of specified information received pursuant to written notification given under paragraph (6), the authority must, within 3 weeks of receipt of the specified information, comply with paragraph (12) and notify the applicant in writing in accordance with one of the following—
+
+- (a) paragraph (15); or
+- (b) paragraph (21).
+
+(14) Where the Welsh Ministers are satisfied as mentioned in paragraph (12) as a result of specified information received pursuant to written notification given under paragraph (6), the Welsh Ministers must, within such period following receipt of the specified information as they may reasonably require, comply with paragraph (12) and notify the applicant or appellant in writing in accordance with one of the following—
+
+- (a) paragraph (15); or
+- (b) paragraph (21).
+
+*Notification requirements concerning form of draft environmental statement*
+
+(15) If a relevant mineral planning authority or the Welsh Ministers reasonably consider that a draft environmental statement is presented in an inappropriate form, the authority or the Welsh Ministers (as the case may be) must notify the applicant or appellant in writing of—
+
+- (a) the changes which are required to be made to the form in which the draft environmental statement is presented; and
+- (b) the matters set out in paragraph 13 of Schedule 3.
+
+*Requirement to re-submit draft environmental statement*
+
+(16) Where changes are required to be made to the form of a draft environmental statement pursuant to a written notification given under paragraph (15), a further draft environmental statement incorporating those changes must be submitted in accordance with this regulation within 3 weeks of the date of the notification given under that paragraph, or such longer period as may be agreed in writing with the relevant mineral planning authority or the Welsh Ministers, as the case may be (“**the relevant period**”).
+
+(17) If a further draft environmental statement incorporating the changes required pursuant to a written notification given under paragraph (15) is not submitted within the relevant period mentioned in paragraph (16), the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of that relevant period.
+
+(18) A relevant mineral planning authority or the Welsh Ministers may withdraw a written notification given under paragraph (15) at any time before the expiration of the relevant period referred to in paragraph (16).
+
+*Authority to which specified information or further draft environmental statement is to be provided following referral*
+
+(19) This paragraph applies where an EIA application is referred to the Welsh Ministers for determination—
+
+- (a) on or after the date on which written notification is given under paragraph (6) or (15); and
+- (b) before the specified information or, as the case may be, the further draft environmental statement, is submitted.
+
+(20) Where paragraph (19) applies, the specified information or, as the case may be, the further draft environmental statement, must be submitted to the Welsh Ministers within the relevant period mentioned in paragraph (8) or, as the case may be, paragraph (16).
+
+*Instruction to publish environmental statement*
+
+(21) If a relevant mineral planning authority or the Welsh Ministers is or are satisfied that a draft environmental statement submitted to it or them—
+
+- (a) appears to contain all of the information specified in the relevant scoping decision; and
+- (b) is not presented in an inappropriate form,
+
+the authority or, as the case may be, the Welsh Ministers must give to the applicant or appellant the written notification specified in paragraph (24).
+
+(22) Where a relevant mineral planning authority is satisfied as mentioned in paragraph (21) as a result of a further draft environmental statement received pursuant to written notification given under paragraph (15), the authority must, within 3 weeks of receipt of the further draft environmental statement, comply with paragraph (21).
+
+(23) Where the Welsh Ministers are satisfied as mentioned in paragraph (21) as a result of a further draft environmental statement received pursuant to written notification given under paragraph (15), the Welsh Ministers must, within such period following receipt of the further draft environmental statement as they may reasonably require, comply with paragraph (21).
+
+(24) The written notification referred to in paragraph (21) must—
+
+- (a) instruct the applicant or appellant to comply with regulation 20;
+- (b) specify the number of copies of the environmental statement required for the purposes of the duties imposed on the authority or, as the case may be, on the Welsh Ministers, by regulation 22;
+- (c) where the authority or the Welsh Ministers is or are aware that any particular person is or is likely to be affected by, or has an interest in, the application and who is unlikely to become aware of it by means of a site notice or by local advertisement, identify any such person;
+- (d) notify the applicant or appellant of the matters set out in paragraph 14 of Schedule 3.
+
+*Further information and evidence*
+
+(25) Written notification given pursuant to paragraph (21) does not preclude the relevant mineral planning authority or the Welsh Ministers from giving written notification under regulation 26 (further information) or 27 (evidence).
+
+#### 19. Environmental statements: requirement to submit documentary evidence of publication
+
+(1) An applicant or appellant notified in accordance with regulation 18(21) must comply with regulation 21 within 6 weeks of the date of the notification given under regulation 18(21), or such longer period as may be agreed in writing with the authority or, as the case may be, the Welsh Ministers (“**the relevant period**”).
+
+(2) If an applicant or appellant notified in accordance with regulation 18(21) does not comply with regulation 21 within the relevant period, the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of that relevant period.
+
+### CHAPTER 3 — Environmental Statements: Consultation and Public Participation
+
+#### 20. Environmental statements: publicity requirements
+
+(1) The applicant or appellant must publish in a local newspaper circulating in the locality in which the land is situated a notice stating–
+
+- (a) the name of the person who has applied for or who has appealed in relation to the determination of the conditions to which the planning permission is to be subject, the relevant provisions of the 1991 or 1995 Act pursuant to which the application is made and the name and address of the relevant mineral planning authority;
+- (b) the date on which the application was made and, if it be the case, that it has been referred to the Welsh Ministers for determination or is the subject of an appeal to them;
+- (c) the address or location and the nature of the proposed development;
+- (d) that a copy of the application and of any plan and other documents submitted with it together with a copy of the environmental statement may be inspected by members of the public at all reasonable hours;
+- (e) an address in the locality in which the land is situated at which those documents may be inspected, and the latest date on which they will be available for inspection (being a date not less than 21 days later than the date on which the notice is published);
+- (f) an address (whether or not the same as that given under sub-paragraph (e)) in the locality in which the land is situated at which copies of the statement may be obtained;
+- (g) that copies may be obtained there so long as stocks last;
+- (h) if a charge is to be made for a copy, the amount of the charge;
+- (i) if further information or evidence has been the subject of a written notification given under regulation 28(8), that a copy of that information or evidence may be inspected by members of the public at all reasonable hours;
+- (j) if other relevant information has been the subject of publicity under regulation 37, that a copy of that other relevant information may be inspected by members of the public at all reasonable hours;
+- (k) an address in the locality in which the land is situated at which copies of any information or evidence mentioned in sub-paragraphs (i) and (j) may be inspected;
+- (l) that any person wishing to make representations about the application should make them in writing to the relevant mineral planning authority or the Welsh Ministers (as the case may be), before the expiration of 21 days from the date of the notice ; and
+- (m) the address to which representations should be sent.
+
+(2) Where the applicant or appellant has been notified of any particular person who is or is likely to be affected by, or have an interest in the application, the applicant or appellant must serve on every person of whom the applicant has been so notified, a notice; and the notice must contain the information specified in paragraph (1), except that the date specified as the latest date on which the documents will be available for inspection must not be less than 21 days later than the date on which the notice is first served.
+
+(3) The applicant or appellant must, unless the applicant or appellant has not, and was not reasonably able to acquire, such rights as would enable the applicant or appellant to do so, post on the land a notice containing the information specified in paragraph (1), except that the date named as the latest date on which the documents will be available for inspection must be not less than 21 days later than the date on which the notice is first posted.
+
+(4) The notice mentioned in paragraph (3) must–
+
+- (a) be left in position for not less than seven days in the 28 days immediately preceding the date on which the certificate required pursuant to regulation 21(2)(b) is submitted; and
+- (b) be affixed firmly to some object on the land and sited and displayed in such a way as to be easily visible to, and readable by, members of the public without going on to the land.
+
+#### 21. Documentary evidence to be submitted to a relevant mineral planning authority or the Welsh Ministers following publication of notice of environmental statement
+
+(1) An applicant or appellant notified in accordance with regulation 18(21) must submit—
+
+- (a) where the notification was given by a relevant mineral planning authority, to that authority;
+- (b) where the notification was given by a relevant mineral planning authority and before submitting the documents required under this regulation the EIA application in question is referred to the Welsh Ministers for determination, to the Welsh Ministers; or
+- (c) where the notification was given by the Welsh Ministers, to the Welsh Ministers,
+
+the documents specified in paragraph (2).
+
+(2) The documents referred to in paragraph (1) are–
+
+- (a) a copy of the notice mentioned in regulation 20(1) certified by or on behalf of the applicant or appellant as having been published in a named newspaper on a date specified in the certificate;
+- (b) a certificate by or on behalf of the applicant or appellant which states either—
+  - (i) that the applicant or appellant has posted a notice on the land in compliance with regulation 20(3) and (4), the date on which the notice was so posted, and that either the notice was left in position for not less than seven days in the 28 days immediately preceding the date on which the certificate is submitted, or that, without any fault or intention on the part of the applicant or appellant, it was removed, obscured or defaced before seven days had elapsed and the applicant or appellant took reasonable steps for its protection or replacement, specifying the steps taken; or
+  - (ii) that the applicant or appellant was unable to comply with regulation 20(3) and (4) because the applicant or appellant did not have the necessary rights to do so; that the applicant or appellant has taken such reasonable steps as are open to the applicant or appellant to acquire those rights; and has been unable to do so, specifying the steps taken; and
+- (c) where the applicant or appellant has been notified of any particular person who is likely to affected by, or have an interest in, the application, a copy of the notice mentioned in regulation 20(2) certified by or on behalf of the applicant or appellant as having been given to that person on a date specified in the certificate.
+
+(3) If any person issues a certificate which purports to comply with the requirements of paragraph (2)(b) and which contains a statement which that person knows to be false or misleading in any material particular, or recklessly issues a certificate which purports to comply with those requirements and which contains a statement which is false or misleading in any material particular, that person is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+#### 22. Procedure following notification given under regulation 18(21)
+
+(1) An applicant or appellant notified under regulation 18(21) must, within 7 days of the date of that notification, provide to the relevant mineral planning authority or the Welsh Ministers (as the case may be), such number of copies of the environmental statement as are specified in the notice given under that regulation.
+
+(2) A relevant mineral planning authority must, within 14 days of the date of a notice given by it under regulation 18(21)—
+
+- (a) send to the Welsh Ministers, two copies of the environmental statement to which the notification relates and a copy of the relevant application and of any documents submitted with the application;
+- (b) send to each of the consultation bodies a copy of the environmental statement to which the notice relates; and
+- (c) give written notification to each consultation body stating that any representation it wishes to make in response to the consultation regarding the application must be made in writing to the relevant mineral planning authority within 28 days of the date of the notice (or such longer period as may be agreed between the relevant mineral planning authority and the consultation body).
+
+(3) The Welsh Ministers must, as soon as reasonably practicable following the giving of notice by them under regulation 18(21)—
+
+- (a) send to each of the consultation bodies a copy of the environmental statement to which the notification relates;
+- (b) give written notification to each consultation body stating that any representation it wishes to make in response to the consultation regarding the application must be made in writing to the Welsh Ministers within 28 days of the date of the notice (or such longer period as may be agreed between the Welsh Ministers and the consultation body); and
+- (c) send to the relevant mineral planning authority a copy of the environmental statement to which the notice relates.
+
+(4) Where a relevant mineral planning authority or the Welsh Ministers give written notification under regulation 18(21), the authority or, as the case may be, the Welsh Ministers, must suspend consideration of the application or appeal in question until the expiry of the relevant period applicable in accordance with regulation 19(1); and must not determine the application or appeal until the expiry of 21 days following the date on which that relevant period ends.
+
+#### 23. Availability of copies of environmental statements
+
+An applicant or an appellant to whom written notification is given under regulation 18(21) must ensure that a reasonable number of copies of the environmental statement are available at the address named in the notices published or posted pursuant to regulation 20 as the address at which such copies may be obtained.
+
+#### 24. Provision of copies of environmental statements for the Welsh Ministers on referral or appeal
+
+Where an EIA application is referred or appealed to the Welsh Ministers on or after the date on which these Regulations come into force, the Welsh Ministers may by notice in writing, require the applicant to provide such number of copies of the environmental statement as they consider necessary, within such period as is specified in the notice.
+
+#### 25. Charges for copies of environmental statements
+
+A reasonable charge reflecting printing and distribution costs may be made to a member of the public for a copy of an environmental statement made available in accordance with regulation 23.
+
+## PART 4 — Further Information, Evidence and Other Information etc.
+
+### CHAPTER 4 — Further Information and Evidence
+
+#### 26. Further information
+
+(1) Where a relevant mineral planning authority or the Welsh Ministers reasonably consider that further information is required to properly consider an EIA application or, in the case of the Welsh Ministers, to properly consider an appeal in relation to an EIA application, and either—
+
+- (a) the applicant or appellant is (or should be) able to provide such information, or
+- (b) an operator is (or should be) able to provide such information,
+
+the relevant mineral planning authority or the Welsh Ministers must notify the applicant, the appellant or, as the case may be, the operator, in writing of the further information required.
+
+(2) A written notification given under paragraph (1) must state clearly and precisely the information required.
+
+(3) Written notification given under paragraph (1) must be accompanied by written notification of the matters set out in paragraph 15 of Schedule 3.
+
+(4) Further information required pursuant to a notification under paragraph (1) must be provided within 6 weeks of the date of the notice, or such longer period as may be agreed in writing with the relevant mineral planning authority or the Welsh Ministers (as the case may be) (“**the relevant period**”).
+
+(5) If further information is not provided within the relevant period the planning permission to which the EIA application or appeal relates ceases to authorise any minerals development from the end of the relevant period.
+
+(6) A written notification given under paragraph (1) does not preclude a relevant mineral planning authority or the Welsh Ministers from giving a further written notification under that paragraph or under regulation 27 (evidence).
+
+(7) A relevant mineral planning authority or the Welsh Ministers may withdraw a written notification given under paragraph (1) at any time before the expiration of the relevant period.
+
+#### 27. Evidence
+
+(1) A relevant mineral planning authority or the Welsh Ministers may by notification in writing require an applicant or appellant to produce such evidence as they may reasonably call for to verify–
+
+- (a) any screening information;
+- (b) any scoping information;
+- (c) any information in an environmental statement;
+- (d) any further information;
+- (e) any other information,
+
+submitted by the applicant or, as the case may be, by the appellant.
+
+(2) A relevant mineral planning authority or the Welsh Ministers may by notification in writing, require an operator to produce such evidence as they may reasonably call for to verify any screening information, scoping information, specified information or any further information submitted by the operator pursuant to a written notification given under these Regulations.
+
+(3) Written notification given under paragraph (1) or (2) must be accompanied by written notification of the matters set out in paragraph 16 of Schedule 3
+
+(4) Evidence required pursuant to a written notification given under paragraph (1) or (2) must be provided within 6 weeks beginning with the date of the notification or such longer period as may be agreed in writing with the authority or the Welsh Ministers (“**the relevant period**”).
+
+(5) If evidence required pursuant to a written notification given under paragraph (1) or (2) is not provided within the relevant period the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of the relevant period.
+
+(6) A written notification given under paragraph (1) or (2) does not preclude a relevant mineral planning authority or the Welsh Ministers from giving a further written notification under those paragraphs or under regulation 26 (further information).
+
+(7) A relevant mineral planning authority or the Welsh Ministers may withdraw a written notification given under paragraph (1) or (2) at any time before the expiration of the relevant period.
+
+#### 28. Further information and evidence: pre-consultation check
+
+(1) Where a relevant mineral planning authority or the Welsh Ministers (“**the recipient**”) receives further information or evidence the recipient must comply with paragraph (4) and notify the applicant, the appellant or, as the case may be, the operator, in writing in accordance with either—
+
+- (a) paragraph (5); or
+- (b) paragraph (8).
+
+(2) Where the recipient is a relevant mineral planning authority, the recipient must comply with paragraph (1) within 3 weeks of receipt of the further information or evidence in question.
+
+But this is subject to paragraph (10).
+
+(3) Where the recipient is the Welsh Ministers, the recipient must comply with paragraph (1) as soon as reasonably practicable following receipt of the further information or evidence.
+
+But this is subject to paragraph (12).
+
+(4) The recipient must consider whether the further information or evidence is presented in an inappropriate form.
+
+(5) If the recipient reasonably considers that the further information or evidence is presented in an inappropriate form, the recipient must notify the applicant, the appellant or, as the case may be, the operator, in writing of—
+
+- (a) the changes which are required to be made to the form in which the further information or evidence is presented; and
+- (b) the matters set out in paragraph 17 of Schedule 3.
+
+(6) Where changes are required to be made to the form in which further information or evidence is presented pursuant to a written notification given under paragraph (5), the further information or evidence must be re-submitted in a form incorporating the changes identified in the notification within 3 weeks of the date of the notification given under that paragraph, or such longer period as may be agreed in writing with the relevant mineral planning authority or the Welsh Ministers (“**the relevant period**”).
+
+(7) If the further information or evidence is not re-submitted in a form incorporating the changes identified pursuant to a written notification given under paragraph (5) within the relevant period, the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of the relevant period.
+
+(8) If the recipient is satisfied that further information or evidence is not presented in an inappropriate form, the recipient must, in writing—
+
+- (a) instruct the applicant, the appellant or, as the case may be, the operator, to comply with regulation 30;
+- (b) specify the number of copies of the further information or evidence required for the purposes of the recipient's duties under regulation 32;
+- (c) where the recipient is aware that any particular person is or is likely to be affected by, or has an interest in, the application and who is unlikely to become aware of it by means of a site notice or by local advertisement, identify any such person;
+- (d) notify the applicant, the appellant or, as the case may be, the operator, of the matters set out in paragraph 18 of Schedule 3.
+
+(9) Where the recipient is a relevant mineral planning authority and the recipient is satisfied as mentioned in paragraph (8) as a result of further information or evidence re-submitted pursuant to a written notification given under paragraph (5) the recipient must comply with paragraph (8) within 3 weeks of receipt of the re-submitted further information or evidence in question.
+
+But this is subject to paragraph (10).
+
+(10) Where the recipient is a relevant mineral planning authority and the further information or evidence received by it relates to an application in connection with which written notification pursuant to regulation 18(21) has yet to be given, the recipient need not comply with paragraph (8) within 3 weeks of receipt of the further information or evidence in question or, as the case may be, within 3 weeks of receipt of the re-submitted further information or evidence in question, but must comply with that paragraph within 14 days of the date on which written notification is given pursuant to regulation 18(21).
+
+(11) Where the recipient is the Welsh Ministers and the recipient is satisfied as mentioned in paragraph (8) as a result of further information or evidence re-submitted pursuant to a written notification given under paragraph (5), the recipient must comply with paragraph (8) as soon as reasonably practicable following receipt of the further information or evidence in question.
+
+But this is subject to paragraph (12).
+
+(12) Where recipient is the Welsh Ministers and the further information or evidence received by them relates to an application or appeal in connection with which written notification pursuant to regulation 18(21) has yet to be given, the recipient need not comply with paragraph (8) as soon as reasonably practicable following receipt of the further information or evidence in question or, as the case may be, as soon as reasonably practicable following receipt of the re-submitted further information or evidence in question, but must comply with that paragraph as soon as reasonably practicable following the date on which written notification is given pursuant to regulation 18(21).
+
+(13) Written notification given under this regulation does not preclude a relevant mineral planning authority or the Welsh Ministers from giving written notification under regulation 26 (further information) or 27 (evidence).
+
+(14) A relevant mineral planning authority or the Welsh Ministers may withdraw a written notification given under paragraph (5) at any time before the expiration of the relevant period.
+
+#### 29. Further information and evidence: requirement to submit documentary evidence of publication
+
+(1) An applicant, an appellant or an operator notified under regulation 28(8) must comply with regulation 30 within 6 weeks of the date of that notification, or such longer period as may be agreed in writing with the authority or, as the case may be, the Welsh Ministers (“**the relevant period**”).
+
+(2) If an applicant, an appellant or an operator notified under regulation 28(8) does not comply with regulation 30 within the relevant period, the planning permission to which the EIA application relates ceases to authorise any minerals development from the end of that relevant period.
+
+### CHAPTER 5 — Further Information and Evidence: Consultation and Public Participation
+
+#### 30. Further information or evidence: publicity requirements
+
+(1) The applicant, appellant or operator must publish in a local newspaper circulating in the locality in which the land is situated, a notice stating–
+
+- (a) the name of the person who has applied for or who has appealed in relation to the determination of the conditions to which the planning permission is to be subject, the relevant provisions of the 1991 or 1995 Act pursuant to which the application is made and the name and address of the relevant mineral planning authority;
+- (b) the date on which the application was made and, if it be the case, that it has been referred to the Welsh Ministers for determination or is the subject of an appeal to them;
+- (c) the address or location and the nature of the proposed development;
+- (d) that a copy of the application and of any plan and other documents submitted with it may be inspected by members of the public at all reasonable hours;
+- (e) if an environmental statement has been the subject of written notification given under regulation 18(21), that a copy of the environmental statement may be inspected by members of the public at all reasonable hours;
+- (f) if further information or evidence has previously been the subject of written notification given under regulation 28(8), that a copy of that information or evidence may be inspected by members of the public at all reasonable hours;
+- (g) if other relevant information has previously been published in accordance with regulation 37, that a copy of that other relevant information may be inspected by members of the public at all reasonable hours;
+- (h) that further information or evidence is available in connection with an EIA application;
+- (i) that a copy of that further information or evidence may be inspected by members of the public at all reasonable hours;
+- (j) an address in the locality in which the land is situated at which that further information or evidence may be inspected and the latest date on which it will be available for inspection (being a date not less than 21 days later than the date on which the notice is published);
+- (k) an address in the locality in which the land is situated at which copies of the application, any environmental statement, any further information or evidence of the kind referred to in sub-paragraph (f), or any other relevant information of the kind referred to in sub-paragraph (g), may be inspected;
+- (l) an address (whether or not the same as that given pursuant to sub-paragraph (j)) in the locality in which the land is situated at which copies of that further information or evidence may be obtained;
+- (m) that copies may be obtained there so long as stocks last;
+- (n) if a charge is to be made for a copy, the amount of the charge;
+- (o) that any person wishing to make representations about the further information or evidence should make them in writing to the relevant mineral planning authority or, as the case may be, to the Welsh Ministers, before the expiration of 21 days from the date of the notice; and
+- (p) the address to which representations must be sent.
+
+(2) Where the applicant, appellant or operator has been notified of any particular person who is or is likely to be affected by, or have an interest in the EIA application, the applicant, appellant or operator must serve on every such person a notice; and the notice must contain the information specified in paragraph (1), except that the date specified as the latest date on which the documents will be available for inspection must not be less than 21 days later than the date on which the notice is first served.
+
+(3) The applicant, appellant or operator must, unless it has not, and was not reasonably able to acquire, such rights as would enable it to do so post, or arrange to have posted, on the land a notice containing the information specified in paragraph (1), except that the date specified as the latest date on which the documents will be available for inspection must be not less than 21 days later than the date on which the notice is first posted.
+
+(4) The notice mentioned in paragraph (3) must–
+
+- (a) be left in position for not less than seven days in the 28 days immediately preceding the date on which the certificate required pursuant to regulation 31(2)(b) is submitted; and
+- (b) be affixed firmly to some object on the land and sited and displayed in such a way as to be easily visible to, and readable by, members of the public without going on to the land.
+
+#### 31. Documentary evidence to be submitted to a relevant mineral planning authority or the Welsh Ministers following publicity regarding further information or evidence
+
+(1) An applicant or operator notified under regulation 28(8) must submit—
+
+- (a) where the notification was given by a relevant mineral planning authority, to that authority;
+- (b) where the notification was given by a relevant mineral planning authority and before submitting the documents required under this regulation the EIA application in question is referred to the Welsh Ministers for determination, to the Welsh Ministers; or
+- (c) where the notification was given by the Welsh Ministers, to the Welsh Ministers,
+
+the documents specified in paragraph (2).
+
+(2) The specified documents are—
+
+- (a) a copy of the notice mentioned in regulation 30(1) certified by or on behalf of the applicant, appellant or operator as having been published in a named newspaper on a date specified in the certificate;
+- (b) a certificate by or on behalf of the applicant, appellant or operator which states either—
+  - (i) that the applicant, appellant or operator has posted a notice on the land in compliance with this regulation and the date on which the notice was so posted, and that either the notice was left in position for not less than seven days in the 28 days immediately preceding the date on which the certificate is submitted, or that, without any fault or intention on the part of the applicant, appellant or operator, it was removed, obscured or defaced before seven days had elapsed and the applicant, appellant or operator took reasonable steps for its protection or replacement, specifying the steps taken; or
+  - (ii) that the applicant, appellant or operator was unable to comply with regulation 30(3) and (4) because the applicant, appellant or operator did not have the necessary rights to do so; that the applicant, appellant or operator has taken such reasonable steps as are open to the applicant, appellant or operator to acquire those rights; and has been unable to do so, specifying the steps taken; and
+- (c) where the applicant, appellant or operator has been notified of any particular person who is likely to affected by, or have an interest in, the application, a copy of the notice mentioned in regulation 30(2) certified by or on behalf of the applicant, appellant or operator as having been given on a date specified in the certificate.
+
+(3) If any person issues a certificate which purports to comply with the requirements of paragraph (2)(b) and which contains a statement which that person knows to be false or misleading in any material particular, or recklessly issues a certificate which purports to comply with those requirements and which contains a statement which is false or misleading in any material particular, that person is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+#### 32. Procedure following notice given under regulation 28(8)
+
+(1) An applicant, appellant or operator notified under regulation 28(8) must, within seven days of the date of that notification, provide to the relevant mineral planning authority or the Welsh Ministers (as the case may be), such number of copies of the further information or evidence as are specified in the notice given under that regulation.
+
+(2) A relevant mineral planning authority must, within 14 days of the date of a notice given by it under regulation 28(8)—
+
+- (a) send to the Welsh Ministers, two copies of the further information or evidence to which the notice relates;
+- (b) send to each of the consultation bodies a copy of the further information or evidence to which the notice relates; and
+- (c) give written notification to each consultation body stating that any representation it wishes to make in response to the consultation should be made in writing to the relevant mineral planning authority within 28 days of the date of the notice (or such longer period as may be agreed between the relevant mineral planning authority and the consultation body);
+
+(3) The Welsh Ministers must, as soon as reasonably practicable following the date of a notice given by them under regulation 28(8)—
+
+- (a) send to each of the consultation bodies a copy of the further information or evidence to which the notice relates;
+- (b) give written notification to each consultation body stating that any representation it wishes to make in response to the consultation should be made in writing to the Welsh Ministers within 28 days of the date of the notice (or such longer period as may be agreed between the Welsh Ministers and the consultation body); and
+- (c) send to the relevant mineral planning authority a copy of the further information or evidence to which the notice relates.
+
+(4) Where a relevant mineral planning authority or the Welsh Ministers give written notification under regulation 28(8), the authority or, as the case may be, the Welsh Ministers, must suspend consideration of the application or appeal in question until the expiry of the relevant period applicable in accordance with regulation 29(1); and must not determine the application or appeal until the expiry of 21 days following the date on which that relevant period ends .
+
+#### 33. Availability of copies of further information and evidence
+
+An applicant, appellant or operator to which written notification is given under regulation 28(8) must ensure that a reasonable number of copies of the further information or evidence are available at the address named in the notices published or posted pursuant to regulation 30 as the address at which such copies may be obtained.
+
+#### 34. Provision of copies of further information and evidence for the Welsh Ministers on referral or appeal
+
+Where an EIA application is referred or appealed to the Welsh Ministers on or after the date on which these Regulations come into force, the Welsh Ministers may by notice in writing, require the applicant, appellant or an operator to provide such number of copies of any further information or evidence as they consider necessary, within such period as is specified in the notice.
+
+#### 35. Charges for copies of further information and evidence
+
+A reasonable charge reflecting printing and distribution costs may be made to a member of the public for a copy of further information or evidence made available in accordance with regulation 33.
+
+### CHAPTER 6 — Other Information etc.
+
+#### 36. Reports, advice and any other information
+
+(1) This paragraph applies to information of the following kind—
+
+- (a) any other information;
+- (b) any report in connection with an EIA application or appeal which is issued to a relevant mineral planning authority or the Welsh Ministers on or after the date on which these Regulations come into force; and
+- (c) any advice in connection with an EIA application or appeal which is provided to a relevant mineral planning authority or the Welsh Ministers on or after the date on which these Regulations come into force.
+
+(2) This paragraph applies to information of the following kind—
+
+- (a) any report in connection with an EIA application or appeal which was issued to a relevant mineral planning authority or the Welsh Ministers before the date on which these Regulations come into force; and
+- (b) any advice in connection with an EIA application or appeal which was provided to a relevant mineral planning authority or the Welsh Ministers before the date on which these Regulations come into force.
+
+(3) Paragraph (1) does not apply to any information of the type mentioned in paragraph (1)(b) or (c)–
+
+- (a) to which the Environmental Information Regulations 2004 apply, where the person holding it would be entitled to withhold it in response to a request made in accordance with those Regulations; or
+- (b) which in any other case would be exempt information if a request for its disclosure were made in accordance with the Freedom of Information Act 2000.
+
+(4) Paragraph (2) does not apply to any information of the type mentioned there—
+
+- (a) to which the Environmental Information Regulations 2004 apply, where the person holding it would be entitled to withhold it in response to a request made in accordance with those Regulations; or
+- (b) which in any other case would be exempt information if a request for its disclosure were made in accordance with the Freedom of Information Act 2000.
+
+(5) Where a relevant mineral planning authority or the Welsh Ministers (“**the recipient**”) receives or holds any information to which paragraph (1) or (2) applies and the recipient is of the opinion that that information relates to the main effects of the EIA development in question, or is of material relevance to the determination of conditions to which the planning permission is to be subject (“other relevant information”), the recipient must—
+
+- (a) publish that other relevant information in accordance with regulation 37; and
+- (b) if the other relevant information is information of the kind mentioned in paragraph (1)(a), notify the applicant or appellant in writing of–
+  - (i) the number of copies of the other relevant information required for the purposes of the duty imposed on the authority or, as the case may be, the Welsh Ministers, by regulation 38;
+  - (ii) the duty imposed by regulation 39(1); and
+  - (iii) the right conferred by regulation 41.
+
+(6) Where the recipient is a relevant mineral planning authority, and the other relevant information is information to which paragraph (1) applies, the recipient must comply with paragraph (5) within 14 days of receipt of the other relevant information.
+
+But this is subject to paragraph (10).
+
+(7) Where the recipient is a relevant mineral planning authority, and the other relevant information is information to which paragraph (2) applies, the recipient must comply with paragraph (5) within 3 weeks of the date on which the authority gives written notification pursuant to regulation 18(21).
+
+(8) Where the recipient is the Welsh Ministers, and the other relevant information is information to which paragraph (1) applies, the recipient must comply with paragraph (5) as soon as reasonably practicable following receipt of the other relevant information.
+
+But this is subject to paragraph (11).
+
+(9) Where the recipient is the Welsh Ministers, and the other relevant information is information to which paragraph (2) applies, the recipient must comply with paragraph (5) as soon as reasonably practicable following the date on which the Welsh Ministers give written notification pursuant to regulation 18(21).
+
+(10) Where the recipient is a relevant mineral planning authority and other relevant information is received by it in connection with an EIA application in respect of which written notification pursuant to regulation 18(21) has yet to be given, the recipient need not comply with paragraph (5) within 14 days of receipt of the other relevant information in question, but must comply with that paragraph within 14 days of the date on which written notification is given pursuant to regulation 18(21).
+
+(11) Where the recipient is the Welsh Ministers and other relevant information is received by it in connection with an EIA application in respect of which written notification pursuant to regulation 18(21) has yet to be given, the recipient need not comply with paragraph (8) as soon as reasonably practicable following receipt of the other relevant information in question, but must comply with that paragraph as soon as reasonably practicable following the date on which the Welsh Ministers give written notification pursuant to regulation 18(21).
+
+(12) Where information to which paragraph (2) applies is held by a relevant mineral planning authority in connection with an EIA application—
+
+- (a) which is referred to the Welsh Ministers on or after the date on which these Regulations come into force; and
+- (b) in respect of which written notification pursuant to regulation 18(21) has yet to be given,
+
+the relevant mineral planning authority must, within 14 days of the date on which the application is so referred, provide that information to the Welsh Ministers.
+
+(13) The receipt of information by the Welsh Ministers pursuant to paragraph (12) does not require that information to be treated as information to which paragraph (1) applies.
+
+### CHAPTER 7 — Other Relevant Information: Consultation and Public Participation
+
+#### 37. Other relevant information: publicity requirements
+
+(1) The recipient must publish in a local newspaper circulating in the locality in which the land is situated, a notice stating—
+
+- (a) the name of the person who has applied for or who has appealed in relation to the determination of the conditions to which the planning permission is to be subject, the relevant provisions of the 1991 or 1995 Act pursuant to which the application is made and the name and address of the relevant mineral planning authority;
+- (b) the date on which the application was made and, if it be the case, that it has been referred to the Welsh Ministers for determination or is the subject of an appeal to them;
+- (c) the address or location and the nature of the proposed development;
+- (d) that a copy of the application and of any plan and other documents submitted with it may be inspected by members of the public at all reasonable hours;
+- (e) if an environmental statement has been the subject of written notification under regulation 18(21), that a copy of the environmental statement may be inspected by members of the public at all reasonable hours;
+- (f) if further information or evidence has been the subject of written notification given under regulation 28(8), that a copy of that information or evidence may be inspected by members of the public at all reasonable hours;
+- (g) if other relevant information has previously been published in accordance with regulation 37, that a copy of that other relevant information may be inspected by members of the public at all reasonable hours;
+- (h) that other relevant information is available in connection with an EIA application;
+- (i) that a copy of that other relevant information may be inspected by members of the public at all reasonable hours;
+- (j) an address in the locality in which the land is situated at which that other relevant information may be inspected and the latest date on which it will be available for inspection (being a date not less than 21 days later than the date on which the notice is published);
+- (k) an address in the locality in which the land is situated at which copies of the application, any environmental statement, any further information or evidence of the kind referred to in sub-paragraph (f), or any other relevant information of the kind mentioned in sub-paragraph (g) may be inspected;
+- (l) an address (whether or not the same as that given pursuant to sub-paragraph (j)) in the locality in which the land is situated at which copies of that other relevant information may be obtained;
+- (m) that copies may be obtained there so long as stocks last;
+- (n) if a charge is to be made for a copy, the amount of the charge;
+- (o) that any person wishing to make representations about the other relevant information should make them in writing to the relevant mineral planning authority or the Welsh Ministers (as the case may be), before the expiration of 21 days from the date of the notice; and
+- (p) the address to which representations must be sent.
+
+(2) Where the recipient is aware of any particular person who is or is likely to be affected by, or have an interest in the application, the recipient must serve on every such person a notice; and the notice must contain the information specified in paragraph (1), except that the date specified as the latest date on which the documents will be available for inspection must not be less than 21 days later than the date on which the notice is first served.
+
+(3) The recipient must, unless it has not, and was not reasonably able to acquire, such rights as would enable it to do so post, or arrange to have posted, on the land a notice containing the information specified in paragraph (1), except that the date specified as the latest date on which the documents will be available for inspection must be not less than 21 days later than the date on which the notice is first posted.
+
+(4) The notice mentioned in paragraph (3) must–
+
+- (a) be left in position for not less than 14 days; and
+- (b) be affixed firmly to some object on the land and sited and displayed in such a way as to be easily visible to, and readable by, members of the public without going on to the land.
+
+#### 38. Procedure following publication under regulation 37
+
+(1) An applicant or appellant notified pursuant to regulation 36(5)(b) must, within seven days of the date of that notification, provide to the relevant mineral planning authority or the Welsh Ministers (as the case may be), such number of copies of the other relevant information as are specified in the notice given under that regulation.
+
+(2) A relevant mineral planning authority must, within 14 days of the date of publishing a notice under regulation 37—
+
+- (a) send to the Welsh Ministers, two copies of the other relevant information to which the notice relates;
+- (b) send to each of the consultation bodies a copy of the other relevant information; and
+- (c) give written notification to each consultation body stating that any representation it wishes to make in response to the consultation regarding the other relevant information must be made in writing to the relevant mineral planning authority within 21 days of the date of the notice (or such longer period as may be agreed between the relevant mineral planning authority and the consultation body).
+
+(3) The Welsh Ministers must, as soon as reasonably practicable following the date of publishing a notice under regulation 37—
+
+- (a) send to each of the consultation bodies a copy of the other relevant information;
+- (b) give written notification to each consultation body stating that any representation it wishes to make in response to the consultation regarding the other relevant information must be made in writing to the Welsh Ministers within 21 days of the date of the notice (or such longer period as may be agreed between the Welsh Ministers and the consultation body); and
+- (c) send to the relevant mineral planning authority a copy of the other relevant information.
+
+(4) Where other relevant information is published in accordance with regulation 37, the relevant mineral planning authority or the Welsh Ministers (as the case may be), must not determine the application or appeal until the expiry of the period of 21 days after the latest of the following dates—
+
+- (a) the date on which notice of the other relevant information was published in a local newspaper pursuant to regulation 37(1);
+- (b) the date (if any) on which notice of the other relevant information was served pursuant to regulation 37(2);
+- (c) the date on which notice of the other relevant information was posted on the land pursuant to regulation 37(3);
+- (d) the date on which the other relevant information was sent to the consultation bodies pursuant to this regulation.
+
+#### 39. Availability of copies of other relevant information
+
+(1) An applicant or appellant who receives written notification pursuant to regulation 36(5)(b) must ensure that a reasonable number of copies of the other relevant information which is the subject of the notification, are available at the address named in the notice published pursuant to regulation 37(1) as the address at which such copies may be obtained.
+
+(2) If a relevant mineral planning authority or the Welsh Ministers publish other relevant information of the type mentioned in regulation 36(1)(b) or (c), or other relevant information to which regulation 36(2) applies, the authority or, as the case may be, the Welsh Ministers, must ensure that a reasonable number of copies of that other relevant information are available at the address named in the notice published pursuant to regulation 37(1) as the address at which such copies may be obtained.
+
+#### 40. Provision of copies of other relevant information for the Welsh Ministers on referral or appeal
+
+Where an EIA application is referred or appealed to the Welsh Ministers on or after the date on which these Regulations come into force, the Welsh Ministers may by notice in writing, require the applicant to provide such number of copies of any other relevant information of the type mentioned in regulation 36(1)(a) as they consider necessary, within such period as is specified in the notice.
+
+#### 41. Charges for copies of other relevant information
+
+A reasonable charge reflecting printing and distribution costs may be made to a member of the public for a copy of other relevant information made available in accordance with regulation 39(1).
+
+## PART 5 — Determination of Conditions
+
+### 42. Deemed determination of conditions under the 1991 and 1995 Acts
+
+(1) Paragraph 2(6)(b) of Schedule 2 to the 1991 Act, paragraph 9(9) of Schedule 13 to the 1995 Act and paragraph 6(8) of Schedule 14 to the 1995 Act do not apply to an undetermined ROMP application unless the Welsh Ministers have made a screening direction under regulation 9 or 11 to the effect that the development in question is not EIA development.
+
+(2) In determining for the purposes of paragraphs 2(6)(b) of Schedule 2 to the 1991 Act, 9(9) of Schedule 13 to the 1995 Act and 6(8) of Schedule 14 to the 1995 Act (determination of conditions) the time which has elapsed without the mineral planning authority giving the applicant written notice of its determination in a case where the Welsh Ministers have made a direction under regulation 9 to the effect that ROMP development is exempt development, or regulation 11 to the effect that the development in question is not EIA development, the period prior to the issue of the direction is to be disregarded.
+
+### 43. Disapplication of paragraph 4(4) of Schedule 2 to the 1991 Act
+
+Paragraph 4(4) of Schedule 2 to the 1991 Act (requirement for mineral planning authority to give written notice of determination) does not apply to an EIA application made under paragraph 2(2) of that Schedule.
+
+### 44. Determination of conditions
+
+(1) A relevant mineral planning authority must give written notification of its determination of an EIA application within 16 weeks of the latest of the following dates—
+
+- (a) the date falling 21 days after the date on which the documents required by regulation 21 are received by it or, if those documents are received on different dates, the date falling 21 days after the date on which the final document is received;
+- (b) the date falling 21 days after the date on which any documents required by regulation 31 are received by it or, if those documents are received on different dates, the date falling 21 days after the date on which the final document is received;
+- (c) the date falling 21 days after the date on which the relevant mineral planning authority publishes any other relevant information under regulation 37,
+
+or such longer period as may be agreed between the applicant and the relevant mineral planning authority.
+
+(2) The Welsh Ministers must give written notification of their determination of an EIA application within such period following the latest of the following dates as they may reasonably require—
+
+- (a) the date falling 21 days after the date on which the documents required by regulation 21 are received by them or, if those documents are received on different dates, the date falling 21 days after the date on which the final document is received;
+- (b) the date falling 21 days after the date on which any documents required by regulation 31 are received by them or, if those documents are received on different dates, the date falling 21 days after the date on which the final document is received;
+- (c) the date falling 21 days after the date on which the Welsh Ministers publish any other relevant information under regulation 37,
+
+or such longer period as may be agreed between the Welsh Ministers and the applicant or appellant.
+
+### 45. Appeals against non-determination
+
+(1) Paragraph 5(2) of Schedule 2 to the 1991 Act, paragraph 11(1) of Schedule 13 to the 1995 Act and paragraph 9(1) of Schedule 14 to the 1995 Act (right of appeal) have effect as if there were also a right of appeal to the Welsh Ministers [^c20072531] where the relevant mineral planning authority has not given written notice of its determination in accordance with regulation 44.
+
+This is subject to paragraph (2).
+
+(2) Paragraph 5(5) of Schedule 2 to the 1991 Act, paragraph 11(2) of Schedule 13 to the 1995 Act and paragraph 9(2) of Schedule 14 to the 1995 Act (right of appeal) have effect as if they also provided for notice of appeal to be made within six months from the expiry of the 16 week or other period agreed pursuant to regulation 44.
+
+## PART 6 — Publicity for, and Availability of, Directions, Opinions, Notifications etc. and Notification of Decisions
+
+### Publicity for opinions, directions, notifications etc.
+
+#### 46. Publicity to be undertaken by relevant mineral planning authorities
+
+(1) A relevant mineral planning authority must take such steps as it considers most likely to bring to the attention of persons likely to be interested in an undetermined ROMP application, any information of the kind specified in paragraph (4)(a) to (g) or (k) to (l) within 14 days of the date on which any such information is sent to the authority by the Welsh Ministers.
+
+(2) A relevant mineral planning authority must take such steps as it considers most likely to bring to the attention of persons likely to be interested in an undetermined ROMP application, any information of the kind specified in paragraph (4)(h) to (j) or (m) to (v) within 14 days of the date on which any such information is sent or given by the authority.
+
+(3) Paragraphs (1) and (2) do not require a relevant mineral planning authority to post a site notice.
+
+(4) The information referred to in paragraphs (1) and (2) is—
+
+- (a) any direction made under regulation 5, a copy of which is sent to the relevant mineral planning authority pursuant to regulation 5(5);
+- (b) any written notification given to the relevant mineral planning authority under regulation 5(7);
+- (c) any direction given under regulation 6;
+- (d) any written notification given by the Welsh Ministers under regulation 11(3), a copy of which is sent to a relevant mineral planning authority under regulation 11(5);
+- (e) any screening direction made by the Welsh Ministers which relates to an undetermined ROMP application which is before the relevant mineral planning authority for determination, a copy of which is sent to the authority pursuant to regulation 9(2)(a) or 9(4)(b);
+- (f) any written statement of reasons sent to the authority pursuant to regulation 9(4)(b);
+- (g) any written notification which accompanies a copy of a screening direction sent to the authority pursuant to regulation 11(12);
+- (h) any written notification given by the authority under regulation 12(2);
+- (i) any scoping opinion adopted by the authority, a copy of which is sent to an applicant pursuant to regulation 12(7);
+- (j) the written notification required by regulation 12(7)(b) to accompany a copy of any scoping opinion sent pursuant to regulation 12(7)(a);
+- (k) any written notification given by the Welsh Ministers under regulation 13(4), a copy of which is sent to the authority pursuant to regulation 13(6);
+- (l) any scoping direction made by the Welsh Ministers, a copy of which is sent to the authority pursuant to regulation 13(12);
+- (m) any written notification given by the authority under regulation 12(10);
+- (n) any written notification given by the authority under regulation 18(6);
+- (o) any written notification given by the authority under regulation 18(15);
+- (p) any written notification given by the authority pursuant to regulation 18(21);
+- (q) any written notification given by the authority under regulation 26(1);
+- (r) the written notification required by regulation 26(3) to accompany any written notification given under regulation 26(1);
+- (s) any written notification given by the authority under regulation 27(1) or (2);
+- (t) the written notification required by regulation 27(3) to accompany any written notification given under regulation 27(1) or (2);
+- (u) any written notification given by the authority under regulation 28(5);
+- (v) any written notification given by the authority under regulation 28(8).
+
+### Publicity to be undertaken by the Welsh Ministers
+
+ 
+
+(5) The Welsh Ministers must take such steps as they consider most likely to bring to the attention of persons likely to be interested in an undetermined ROMP application, any information of the kind specified in paragraph (7) as soon as reasonably practicable following the date on which any such information is sent or given by the Welsh Ministers.
+
+(6) Paragraph (5) does not require the Welsh Ministers to post a site notice.
+
+(7) The information referred to in paragraph (5) is–
+
+- (a) any direction made by the Welsh Ministers under regulation 5;
+- (b) any decision notified to a relevant mineral planning authority under regulation 5(7);
+- (c) any direction given under regulation 6;
+- (d) any written notification given by the Welsh Ministers under regulation 11(3);
+- (e) any screening direction made by the Welsh Ministers, a copy of which is sent to an applicant or appellant pursuant to regulation 9(2)(a), 9(4)(b) or 11(12)(a);
+- (f) in respect of any screening direction mentioned in sub-paragraph (e), the written statement of reasons required by regulation 9(4)(a) to accompany it;
+- (g) in respect of any screening direction made under regulation 11, any notification required by regulation 11(12)(b) to accompany it
+- (h) any written notification given under regulation 13(4);
+- (i) any scoping direction a copy of which is sent to an applicant or appellant pursuant to regulation 13(12);
+- (j) the written notification required by regulation 13(13) to accompany a copy of any scoping direction sent pursuant to regulation 13(12);
+- (k) any written notification given under regulation 14(5);
+- (l) any scoping direction, a copy of which is sent to an applicant or appellant under regulation 14(13)(a);
+- (m) any written notification, a copy of which is sent to an applicant or appellant under regulation 14(13)(b);
+- (n) any written notification given under regulation 15(5);
+- (o) any scoping direction, a copy of which is sent to an applicant under regulation 15(13);
+- (p) the written notification required by regulation 15(13) to accompany a copy of a scoping direction sent to an applicant under that regulation;
+- (q) any written notification given by the Welsh Ministers under regulation 18(6);
+- (r) any written notification given by the Welsh Ministers under regulation 18(15);
+- (s) any written notification given by the Welsh Ministers pursuant to regulation 18(21);
+- (t) any written notification given by the Welsh Ministers under regulation 26(1);
+- (u) the written notification required by regulation 26(3) to accompany any written notification given under regulation 26(1);
+- (v) any written notification given by the Welsh Ministers under regulation 27(1) or (2);
+- (w) the written notification required by regulation 27(3) to accompany any written notification given under regulation 27(1) or (2);
+- (x) any written notification given by the Welsh Ministers under regulation 28(5);
+- (y) any written notification given by the Welsh Ministers under regulation 28(8).
+
+### Site notice publicity to be undertaken by applicants, appellants and operators
+
+ 
+
+(8) This paragraph applies to any applicant or appellant to whom a copy of a screening direction is sent pursuant to regulation 9(2)(a), 9(4)(b) or 11(12)(a), or to whom written notification is given pursuant to any provision mentioned in paragraph (4) or (7).
+
+(9) An applicant or appellant to whom paragraph (8) applies must, unless the applicant or appellant has not, and was not reasonably able to acquire, such rights as would enable the applicant or appellant to do so, post on the land a copy of–
+
+- (a) any screening direction mentioned in that paragraph;
+- (b) any written notification given to the applicant or appellant pursuant to any provision mentioned in paragraph (4) or (7);
+
+within 14 days of the date on which such notification is given.
+
+(10) Where a copy of a written notification posted on the land in accordance with paragraph (9)(b) is of the kind mentioned in paragraph (4)(j) or (m), or paragraph (7)(j), (m) or (p), the copy of that notification which is posted on the land must be accompanied by a notice stating an address in the locality in which the land is situated, at which a copy of the associated scoping opinion or direction can be inspected at all reasonable hours.
+
+(11) This paragraph applies to any operator to whom written notification is given under or pursuant to–
+
+- (a) regulation 11(3);
+- (b) regulation 12(2);
+- (c) regulation 13(4);
+- (d) regulation 14(5);
+- (e) regulation 15(5);
+- (f) regulation 18(6);
+- (g) regulation 26(1);
+- (h) regulation 27(2);
+- (i) regulation 28(5);
+- (j) regulation 28(8).
+
+(12) An operator to which paragraph (11) applies must, unless the operator has not, and was not reasonably able to acquire, such rights as would enable the operator to do so, post on the land a copy of any such written notification as is referred to in that paragraph within 14 days of the date on which the notification is given.
+
+(13) A copy of a direction or written notification posted on the land in accordance with paragraph (9), and any notification posted on the land in accordance with paragraph (10) or (12), must—
+
+- (a) be left in position for not less than fourteen days; and
+- (b) be affixed firmly to some object on the land and sited and displayed in such a way as to be easily visible to, and readable by, members of the public without going on to the land.
+
+#### 47. Availability of opinions, directions, etc. for inspection
+
+(1) Section 69 (register of applications, etc.), and any provisions of the Order made by virtue of that section, has effect with any necessary amendments as if references to applications for planning permission included undetermined ROMP applications under paragraph 9(1) of Schedule 13 to the 1995 Act and paragraph 6(1) of Schedule 14 to the 1995 Act.
+
+(2) Where the relevant mineral planning authority is not the authority required to keep the register, the relevant mineral planning authority must provide the authority required to keep it with such information and documents as that authority requires to comply with–
+
+- (a) section 69 as applied by paragraph (1); and
+- (b) regulation 48.
+
+#### 48. Information to be placed on the register
+
+(1) Where particulars of an undetermined ROMP application are placed on Part I of the register, the relevant mineral planning authority must take steps to secure that there is also placed on that Part an information of the following kind which relates to the undetermined ROMP application in question—
+
+- (a) any screening direction;
+- (b) any scoping opinion;
+- (c) any scoping direction;
+- (d) any written notification referred to in regulation 46(4) or (7);
+- (e) any environmental statement which is the subject of written notification given under regulation 18(21);
+- (f) any further information or evidence which is the subject of a written notification given under regulation 28(8);
+- (g) any other relevant information published in accordance with regulation 37;
+- (h) any statement of reasons accompanying any of the above;
+- (i) particulars of any suspension of minerals development;
+- (j) the date (if any) on which any suspension of minerals development ended;
+- (k) particulars of any order made under Schedule 9 to the Act pursuant to regulation 51.
+
+#### 49. Duties to inform the public and the Welsh Ministers of final decisions
+
+(1) Where an EIA application is determined by a relevant mineral planning authority, the authority must—
+
+- (a) in writing, inform the Welsh Ministers and the consultation bodies of the decision;
+- (b) inform the public of the decision, by local advertisement, or by such other means as are reasonable in the circumstances; and
+- (c) make available for public inspection at the place where the appropriate register (or relevant section of that register) is kept a statement containing—
+  - (i) the content of the decision and any conditions attached thereto;
+  - (ii) the main reasons and considerations on which the decision is based including, if relevant, information about the participation of the public;
+  - (iii) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the development; and
+  - (iv) information regarding the right to challenge the validity of the decision and the procedures for doing so.
+
+(2) Where an EIA application is determined by the Welsh Ministers the Welsh Ministers must—
+
+- (a) notify the relevant mineral planning authority and the consultation bodies of the decision; and
+- (b) provide the authority with such a statement as is mentioned in paragraph (1)(c).
+
+(3) The relevant mineral planning authority must, as soon as reasonably practicable following receipt of a notification given under paragraph (2), comply with sub-paragraphs (b) and (c) of paragraph (1) in relation to the decision so notified as if it were a decision of the authority.
+
+## PART 7 — Suspension of Minerals Development
+
+### 50. Duration of suspension of minerals development
+
+(1) A suspension of minerals development remains in effect until every relevant requirement has been complied with.
+
+(2) For the purposes of paragraph (1), a relevant requirement is any requirement imposed on an applicant, appellant or operator by or under a provision referred to in regulation 51(4) in connection with the EIA application to which the suspension of minerals development relates.
+
+(3) A suspension of minerals development does not affect any minerals development carried out under the planning permission before the suspension date.
+
+### 51. Prohibition Orders
+
+(1) This paragraph applies where, in relation to any unauthorised minerals development–
+
+- (a) a period of 2 years has elapsed, beginning with the suspension date; and
+- (b) any requirement imposed on an applicant, appellant or operator by or under a provision mentioned in paragraph (4) has yet to be complied with.
+
+(2) Where paragraph (1) applies, the relevant mineral planning authority must consider whether to make an order under under paragraph 3 of Schedule 9 to the Act in relation to some or all of the unauthorised minerals development in question.
+
+(3) For the purposes of paragraph (2), Schedule 9 to the Act has effect subject to the modifications set out in paragraphs (5) to (8).
+
+(4) The requirements referred to in paragraph (1)(b) are any requirements imposed by or under any of the following provisions—
+
+- (a) regulations 11 to 15;
+- (b) regulations 17 to 19;
+- (c) regulations 26 to 29.
+
+(5) Paragraph 3 of Schedule 9 has effect in relation to any part of a site as it has effect in relation to the whole site.
+
+(6) Paragraph 3(1)(b) of Schedule 9 has effect as if for that paragraph there were substituted–
+
+> - (b) the winning and working or depositing has permanently ceased, the mineral planning authority—
+>   - (i) must by order prohibit the resumption of the winning and working or the depositing; and
+>   - (ii) may, by provision made in the order, impose in relation to the site, any such requirement as is specified in sub-paragraph (3).
+
+.
+
+(7) Paragraph 3(2) of Schedule 9 has effect—
+
+- (a) as if for “may assume” there were substituted “ must assume ”;
+- (b) as if the word “only” were omitted; and
+- (c) as if the references to winning and working or depositing in sub-paragraph (2)(a) and (b) were references to winning and working or depositing other than winning and working or depositing which has ceased to be authorised by a planning permission by or under these Regulations.
+
+(8) Paragraph 4(7) of Schedule 9 has effect as if for “have effect” there were substituted “ authorise that development ”.
+
+(9) Nothing in this regulation requires a relevant mineral planning authority to make an order under paragraph 3 of Schedule 9 to the Act in relation to any land within the period of five years immediately following the day on which any other order under section 97 of, or paragraph 1 or 3 of Schedule 9 to, the Act was made in respect of the same land.
+
+## PART 8 — Miscellaneous
+
+### 52. Regulations 53 and 54 of the 2016 Regulations[^key-753d0245ea8593d8e691a5770fadd059]
+
+Regulations 53 (development in Wales likely to have significant effects in another EEA State) and 54 (projects in another EEA State likely to have significant transboundary effects) of the 2016 Regulations apply for the purposes of these Regulations as they apply for the purposes of the 2016 Regulations.
+
+### 53. Service of notices etc.
+
+Any notice or other document to be sent, served or given under these Regulations may be served or given in a manner specified in section 329 (service of notices).
+
+### 54. Application to the High Court
+
+(1) For the purposes of Part XII of the Act (validity of other orders, decisions and directions), the reference in section 288, as applied by paragraph 9(3) of Schedule 2 to the 1991 Act, paragraph 16(4) of Schedule 13 to the 1995 Act or paragraph 9(4) of Schedule 14 to the 1995 Act, to action of the Secretary of State [^c20072541] which is not within the powers of the Act is to be taken to extend to the determination of an EIA application by the Welsh Ministers in contravention of regulation 3.
+
+(2) For the purposes of Part XII of the Act (validity of certain orders, decisions and directions) sections 284 and 288 have effect as if the references in section 284(1)(e) and (2)(e) to an order under paragraph 3 of Schedule 9 to the Act included a reference to an order made under that paragraph pursuant to regulation 51.
+
+Jane Hutt
+
+Minister for Business and Budget, one of the Welsh Ministers
+
+## SCHEDULE 1 — Selection criteria for screening
+
+### 1. Characteristics of development
+
+The characteristics of development must be considered having regard, in particular, to—
+
+- (a) the size of the development;
+- (b) the cumulation with other development;
+- (c) the use of natural resources;
+- (d) the production of waste;
+- (e) pollution and nuisances;
+- (f) the risk of accidents, having regard in particular to substances or technologies used.
+
+### 2. Location of development
+
+The environmental sensitivity of geographical areas likely to be affected by development must be considered, having regard, in particular, to—
+
+- (a) the existing land use;
+- (b) the relative abundance, quality and regenerative capacity of natural resources in the area;
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas—
+  - (i) wetlands;
+  - (ii) coastal zones;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) areas classified or protected under Member States' legislation or the legislation of any part of the UK[^key-064ddd084e3503f4568149d6fa805c3a]; areas designated under EU-derived domestic legislation which transposed[^key-003ab1ade8cf5fa445b0ca26422e54f8] Council Directive [79/409/EEC](https://www.legislation.gov.uk/european/directive/1979/0409) [^c20072551] on the conservation of wild birds [^c20072561] or[^key-19d72ad6906819a4e0da2d7672aac03e] [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds and Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) [^c20072571] on the conservation of natural habitats and of wild fauna and flora [^c20072581];
+  - (vi) areas in which the environmental quality standards laid down in retained EU law[^key-e6028562ac8905a9fe98217f673d135a] have already been exceeded;
+  - (vii) densely populated areas;
+  - (viii) landscapes of historical, cultural or archaeological significance.
+
+### 3. Characteristics of the potential impact
+
+The potential significant effects of development must be considered in relation to criteria set out under paragraphs 1 and 2 above, and having regard in particular to—
+
+- (a) the extent of the impact (geographical area and size of the affected population);
+- (b) the transfrontier nature of the impact;
+- (c) the magnitude and complexity of the impact;
+- (d) the probability of the impact;
+- (e) the duration, frequency and reversibility of the impact.
+
+## SCHEDULE 2 — Information for inclusion in environmental statements
+
+### PART 1
+
+**1.** Description of the development, including in particular—
+
+- (a) a description of the physical characteristics of the whole development and the land-use requirements during the construction and operational phases;
+- (b) a description of the main characteristics of the production processes, for instance, nature and quantity of the materials used;
+- (c) an estimate, by type and quantity, of expected residues and emissions (water, air and soil pollution, noise, vibration, light, heat, radiation, etc.) resulting from the operation of the proposed development.
+
+**2.** A detailed working programme or programmes in accordance with which the applicant or appellant proposes to carry out the development including, in particular, details of the direction and depth of working.
+
+**3.** An outline of the main alternatives studied by the applicant or appellant and an indication of the main reasons for the applicant's or appellant's choice or choices, taking into account the environmental effects.
+
+**4.** A description of the aspects of the environment likely to be significantly affected by the development including, in particular, population, fauna, flora, soil, water, air, climatic factors, material assets, including the architectural and archaeological heritage, landscape and the inter-relationship between the above factors.
+
+**5.** A description of the likely significant effects of the development on the environment, which should cover the direct effects and any indirect, secondary, cumulative, short, medium and long-term, permanent and temporary, positive and negative effects of the development, resulting from—
+
+- (a) the existence of the development;
+- (b) the use of natural resources;
+- (c) the emission of pollutants, the creation of nuisances and the elimination of waste,
+
+and the description by the applicant of the forecasting methods used to assess the effects on the environment.
+
+**6.** A description of the measures envisaged to prevent, reduce and where possible offset any significant adverse effects on the environment.
+
+**7.** A non-technical summary of the information provided under paragraphs 1 to 6 of this Part.
+
+**8.** An indication of any difficulties (technical deficiencies or lack of know-how) encountered by the applicant or appellant in compiling the required information.
+
+### PART 2
+
+**9.** A description of the development comprising information on the site, design and size of the development.
+
+**10.** A detailed working programme in accordance with which the applicant proposes to carry out the development including, in particular, details of the direction and depth of working.
+
+**11.** A description of the measures envisaged in order to avoid, reduce and, if possible, remedy significant adverse effects.
+
+**12.** The data required to identify and assess the main effects which the development is likely to have on the environment.
+
+**13.** An outline of the main alternatives studied by the applicant or appellant and an indication of the main reasons for the applicant's or appellant's choice, taking into account the environmental effects.
+
+**14.** A non-technical summary of the information provided under paragraphs 9 to 13 of this Part.
+
+## SCHEDULE 3 — Notifications
+
+**1.** Words in parenthesis in this Schedule are not part of the Regulations.
+
+### 2. Notifications under regulation 11 (screening directions of the Welsh Ministers)
+
+The matters referred to in regulation 11(3) are—
+
+- (a) the date by which the screening information must be provided (being the date on which the relevant period for the purposes of regulation 11(8) ends);
+- (b) the effect of regulation 11(9) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the duty imposed on the applicant, appellant or, as the case may be, on the operator, by regulation 46 (publicity by site notice);
+- (f) the right to challenge the notification and the time period for doing so.
+
+**3.** The matters referred to in regulation 11(12)(b) are—
+
+- (a) the effect of the Welsh Ministers' direction being that the undetermined ROMP application in question cannot be determined without consideration of the environmental information;
+- (b) that a draft environmental statement will be required in due course;
+- (c) that the relevant mineral planning authority is now required to adopt a scoping opinion under regulation 12 or, as the case may be, that the Welsh Ministers are now required to make a scoping direction under regulation 14;
+- (d) the effect of regulation 12(5) or, as the case may be, 14(11) (suspension) in the event that any scoping information required is not submitted within the relevant period;
+- (e) the effect of regulation 50 (duration of suspension);
+- (f) the effect of regulation 51 (prohibition);
+- (g) where the written notification relates to an EIA application which is before a relevant mineral planning authority for determination, the effect of regulation 12(1) (period within which notification of scoping opinion to be given);
+- (h) the right conferred by regulation 12(8) (right to request scoping direction);
+- (i) the duty imposed on the applicant or appellant by regulation 46 (publicity);
+- (j) the right to challenge the screening direction and the time period for doing so.
+
+### 4. Notifications under regulation 12 (scoping opinions of the relevant mineral planning authority)
+
+The matters referred to in regulation 12(2) are—
+
+- (a) the date by which the scoping information must be provided (being the date on which the relevant period for the purposes of regulation 12(4) ends);
+- (b) the effect of regulation 12(5) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the effect of regulation 12(6) (consultation prior to adoption of scoping opinion);
+- (f) the right conferred by regulation 12(8) (right to request scoping direction);
+- (g) the effect of regulation 12(9) (adoption of scoping opinion does not preclude right to require further information or evidence);
+- (h) the duty imposed on the applicant or, as the case may be, the operator, by regulation 46 (publicity);
+- (i) the right to challenge the notification and the time period for doing so.
+
+**5.** The matters referred to in regulation 12(7)(b) are–
+
+- (a) the date by which the draft environmental statement must be submitted (being the date on which the relevant period for the purposes of regulation 17(2) ends);
+- (b) that the draft environmental statement must include all of the information specified in the scoping opinion;
+- (c) the effect of regulation 17(8) (suspension);
+- (d) the effect of regulation 50 (duration of suspension);
+- (e) the effect of regulation 51 (prohibition);
+- (f) the effect of regulation 16 (procedure to facilitate preparation of environmental statements);
+- (g) the effect of regulation 12(9) (adoption of scoping opinion does not preclude right to require further information or evidence);
+- (h) the effect of regulation 18 (draft environmental statement: pre-consultation checks);
+- (i) the duty imposed on the applicant by regulation 46 (publicity);
+- (j) the right to challenge the scoping opinion and the time period for doing so.
+
+**6.** The matters referred to in regulation 12(10) are—
+
+- (a) the date by which the draft environmental statement must be submitted (being the date on which the relevant period for the purposes of regulation 17(2) ends);
+- (b) that the draft environmental statement must include all of the information specified in the scoping direction;
+- (c) the effect of regulation 17(8) (suspension);
+- (d) the effect of regulation 50 (duration of suspension);
+- (e) the effect of regulation 51 (prohibition);
+- (f) the effect of regulation 16 (procedure to facilitate preparation of environmental statements);
+- (g) the effect of regulation 13(14) (making of a scoping direction does not preclude right to require further information or evidence);
+- (h) the effect of regulation 18 (draft environmental statement: pre-consultation checks);
+- (i) the duty imposed on the applicant by regulation 46 (publicity).
+
+### 7. Notifications under regulation 13 (scoping directions of the Welsh Ministers requested under regulation 12(8))
+
+The matters referred to in regulation 13(4) are—
+
+- (a) the date by which the scoping information must be provided (being the date on which the relevant period for the purposes of regulation 13(9) ends);
+- (b) the effect of regulation 13(10) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the effect of regulation 13(11) (consultation prior to adoption of scoping opinion);
+- (f) the effect of regulation 13(14) (adoption of scoping opinion does not preclude right to require further information or evidence);
+- (g) the duty imposed on the applicant or, as the case may be, the operator, by regulation 46 (publicity).
+- (h) the right to challenge the notification and the time period for doing so.
+
+### 8. Notifications under regulation 14 (scoping directions of the Welsh Ministers)
+
+The matters referred to in regulation 14(5) are—
+
+- (a) the date by which the scoping information must be provided (being the date on which the relevant period for the purposes of regulation 14(10) ends);
+- (b) the effect of regulation 14(11) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the effect of regulation 14(12) (consultation prior to making scoping direction);
+- (f) the effect of regulation 14(15) (making of scoping direction does not preclude right to require further information or evidence);
+- (g) the duty imposed on the applicant or, as the case may be, the operator, by regulation 46 (publicity).
+- (h) the right to challenge the notification and the time period for doing so.
+
+**9.** The matters referred to in regulation 14(13)(b) are—
+
+- (a) the date by which the draft environmental statement must be submitted (being the date on which the relevant period for the purposes of regulation 17(3) ends);
+- (b) that the environmental statement must include all of the information specified in the scoping direction;
+- (c) the effect of regulation 17(8) (suspension);
+- (d) the effect of regulation 50 (duration of suspension);
+- (e) the effect of regulation 51 (prohibition);
+- (f) the effect of regulation 16 (procedure to facilitate preparation of environmental statements);
+- (g) the effect of regulation 14(15) (making of scoping direction does not preclude right to require further information or evidence);
+- (h) the effect of regulation 18 (draft environmental statement: pre-consultation checks);
+- (i) the duty imposed on the applicant or appellant by regulation 46 (publicity).
+- (j) the right to challenge the scoping direction and the time period for doing so.
+
+### 10. Notifications under regulation 15 (substitute scoping directions)
+
+The matters referred to in regulation 15(5) are—
+
+- (a) the date by which the scoping information must be provided (being the date on which the relevant period for the purposes of regulation 15(10) ends);
+- (b) the effect of regulation 15(11) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the Welsh Ministers' duties under regulation 15(12) (consultation prior to making scoping direction);
+- (f) the effect of regulation 15(15) (making of scoping direction does not preclude right to require further information or evidence);
+- (g) the duty imposed on the applicant, appellant or, as the case may be, the operator, by regulation 46 (publicity).
+- (h) the right to challenge the notification and the time period for doing so.
+
+**11.** The matters referred to in regulation 15(13) are–
+
+- (a) the date by which the draft environmental statement must be submitted (being the date on which the relevant period for the purposes of regulation 17(4) ends);
+- (b) that the environmental statement must include all of the information specified in the scoping direction;
+- (c) the effect of regulation 17(8) (suspension);
+- (d) the effect of regulation 50 (duration of suspension);
+- (e) the effect of regulation 51 (prohibition);
+- (f) the effect of regulation 16 (procedure to facilitate preparation of environmental statements);
+- (g) the effect of regulation 15(15) (making of scoping direction does not preclude right to require further information or evidence);
+- (h) the effect of regulation 18 (draft environmental statement: pre-consultation checks);
+- (i) the duty imposed on the applicant or appellant by regulation 46 (publicity).
+- (j) the right to challenge the scoping direction and the time period for doing so.
+
+### 12. Notifications under regulation 18 (draft environmental statement: pre-consultation checks)
+
+The matters referred to in regulation 18(6)(b) are—
+
+- (a) the date by which the specified information must be provided (being the date on which the relevant period for the purposes of regulation 18(8) or, as the case may be, regulation 18(9), ends);
+- (b) the effect of regulation 18(10) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the effect of regulation 18(12) to (24) (requirement to consider form of environmental statement);
+- (f) the effect of regulation 18(25) (instruction to publish does not preclude right to require further information or evidence);
+- (g) the duty imposed on the applicant, appellant or, as the case may be, the operator, by regulation 46 (publicity).
+- (h) the right to challenge the notification and the time period for doing so
+
+**13.** The matters referred to in regulation 18(15) are–
+
+- (a) the date by which the further draft environmental statement must be submitted (being the date on which the relevant period for the purposes of regulation 18(16) ends);
+- (b) the effect of regulation 18(17) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the effect of regulation 18(19) to (24);
+- (f) the effect of regulation 18(25) (instruction to publish does not preclude right to require further information or evidence);
+- (g) the duty imposed on the applicant or appellant by regulation 46 (publicity).
+- (h) the right to challenge the notification and the time period for doing so.
+
+**14.** The matters referred to in regulation 18(24)(d) are—
+
+- (a) the effect of regulation 19(1) (duty to comply with regulation 21);
+- (b) the date by which the documentary evidence required by regulation 21 must be submitted (being the date on which the relevant period for the purposes of regulation 19(1) ends);
+- (c) the effect of regulation 19(2) (suspension);
+- (d) the effect of regulation 50 (duration of suspension);
+- (e) the effect of regulation 51 (prohibition);
+- (f) the requirements of regulation 20 (environmental statements: publicity requirements);
+- (g) the requirements of regulation 21 (requirement to submit documentary evidence of publication);
+- (h) the requirement imposed by regulation 22(1) (provision of copies of environmental statement);
+- (i) the requirement imposed by regulation 23 (availability of copies of environmental statements);
+- (j) the right conferred by regulation 25 (charges for copies of environmental statements);
+- (k) where the notification relates to an EIA application which is before a relevant mineral planning authority for determination, the effect of regulation 24 (provision of copies of environmental statements for the Welsh Ministers on referral or appeal);
+- (l) the effect of regulation 18(25) (instruction to publish does not preclude right to require further information or evidence);
+- (m) the effect of regulation 32(4) (prohibition on determination during consultation period);
+- (n) the duty imposed on the applicant or appellant by regulation 46 (publicity);
+- (o) the right to challenge the notification and the time period for doing so.
+
+### 15. Notifications under regulation 26 (further information)
+
+The matters referred to in regulation 26(3) are—
+
+- (a) the date by which the further information must be provided (being the date on which the relevant period for the purposes of regulation 26(4) ends);
+- (b) the effect of regulation 26(5) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the effect of regulation 28 (further information and evidence: pre-consultation checks);
+- (f) the effect of regulation 26(6) (notification does not preclude requirement to submit further information or evidence);
+- (g) the duty imposed on the applicant, appellant or, as the case may be, the operator, by regulation 46 (publicity);
+- (h) the right to challenge the notification and the time period for doing so.
+
+### 16. Notifications under regulation 27 (evidence)
+
+The matters referred to in regulation 27(3) are—
+
+- (a) the date by which the evidence must be provided (being the date on which the relevant period for the purposes of regulation 27(4) ends);
+- (b) the effect of regulation 27(5) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the effect of regulation 28 (further information and evidence: pre-consultation checks);
+- (f) the effect of regulation 27(6) (notification does not preclude requirement to submit further information or evidence);
+- (g) the duty imposed on the applicant, appellant or, as the case may be, the operator, by regulation 46 (publicity);
+- (h) the right to challenge the notification and the time period for doing so.
+
+### 17. Notifications under regulation 28 (further information and evidence: pre-consultation checks)
+
+The matters referred to in regulation 28(5)(b) are—
+
+- (a) the date by which the further information or evidence must be re-submitted (being the date on which the relevant period for the purposes of regulation 28(6) ends);
+- (b) the effect of regulation 28(7) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the effect of regulation 28(8) to (12);
+- (f) the effect of regulation 28(13) (notification does not preclude requirement to submit further information or evidence);
+- (g) the duty imposed on the applicant, appellant or, as the case may be, the operator, by regulation 46 (publicity);
+- (h) the right to challenge the notification and the time period for doing so.
+
+**18.** The matters referred to in regulation 28(8)(d) are—
+
+- (a) the date by which the documentary evidence of publication must be provided (being the date on which the relevant period for the purposes of regulation 29(1) ends);
+- (b) the effect of regulation 29(2) (suspension);
+- (c) the effect of regulation 50 (duration of suspension);
+- (d) the effect of regulation 51 (prohibition);
+- (e) the requirements of regulation 30 (further information or evidence: publicity requirements);
+- (f) the requirements of regulation 31 (documentary evidence of publication);
+- (g) the effect of regulation 32(1) (provision of consultation copies to relevant mineral planning authority or the Welsh Ministers);
+- (h) the effect of regulation 33 (reasonable number of copies of further information or evidence to be made available to the public);
+- (i) the right conferred by regulation 35 (charges for copies of further information or evidence);
+- (j) the effect of regulation 34 (provision of copies of further information and evidence for the Welsh Ministers on referral or appeal);
+- (k) the effect of regulation 32(4) (prohibition on determination during consultation period);
+- (l) the effect of regulation 28(13) (written notification given under regulation 28 does not preclude right to require further information or evidence);
+- (m) the duty imposed on the applicant, appellant or, as the case may be, the operator, by regulation 46 (publicity);
+- (n) the right to challenge the notification and the time period for doing so.
+
+*(This note is not part of the Regulations)*
+
+Schedule 2 to the Planning and Compensation Act 1991 and Schedules 13 and 14 to the Environment Act 1995 establish a mandatory procedure for the review of the conditions to which old mineral planning permissions are to be subject. Applications for reviews are made to relevant mineral planning authorities (“ROMP applications”) and may be the subject of a referral or appeal to the Welsh Ministers.
+
+These Regulations implement in relation to Wales, Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) on the assessment of the effects of certain public and private projects on the environment (O.J. No. L 175, 5.7.1985, p. 40), as amended by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011) (O.J. No. L 73, 14.3.1997, p. 5) and Council Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035) (OJ No L 156, 25.6.2003, p. 17) (“**the Directive**”) in relation to ROMP applications which were submitted before 15 November 2000 and which, on or after the date on which these Regulations come into force, fall to be determined by a relevant mineral planning authority or the Welsh Ministers (“undetermined ROMP applications”).
+
+The Directive is implemented in relation to ROMP applications in Wales which were submitted after 15 November 2000 by the Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999 (S.I. 1999/293), as modified by the Town and Country Planning (Environmental Impact Assessment) (England and Wales) (Amendment) Regulations 2000 (2000/2867) (“**the principal Regulations**”).
+
+The provision made by these Regulations departs in some respects from that made by the principal Regulations. The main differences are summarised below.
+
+Part 1 of the Regulations introduces a procedure to permit mineral planning authorities to extend the statutory time periods for compliance with obligations imposed by the Regulations, confers power on the Welsh Ministers to direct applications to be referred to them for determination and to recover costs from mineral planning authorities in certain cases.
+
+Part 2 automatically deems all undetermined ROMP applications to be EIA applications, subject to a 3 week period within which an applicant can request a screening decision from the Welsh Ministers.
+
+Part 3 requires a scoping decision to be made in respect of every EIA application and requires an environmental statement (“ES”) to be submitted in draft for pre-consultation checking.
+
+Part 4 permits mineral planning authorities and the Welsh Ministers to call for further information or evidence and requires that any such information undergoes pre-consultation checking. This Part also requires mineral planning authorities and the Welsh Ministers to publicise any relevant reports or advice received by them in relation to EIA applications before the Regulations come into force.
+
+Part 6 requires applicants, mineral planning authorities and the Welsh Ministers to publish any formal notifications given under the Regulations.
+
+Part 7 deals with suspension of minerals development and prohibition orders. Where an applicant, appellant or operator fails to comply with the obligations imposed by the Regulations, minerals development authorised by the planning permission or permissions which are the subject of an EIA application is suspended. This Part provides that where a suspension engages under the Regulations, that suspension remains in effect until all relevant obligations have been complied with.
+
+This Part also imposes a duty on mineral planning authorities to consider whether to exercise their prohibition order-making functions under paragraph 3 of Schedule 9 to the Town and Country Planning Act 1990 in cases where minerals development has been suspended for 2 years and relevant obligations under these Regulations have yet to be complied with. For the purposes of this duty, this Part modifies Schedule 9 to the 1990 Act so that mineral planning authorities must assume that minerals development has permanently ceased after 2 years suspension if they are satisfied that the resumption of lawful minerals development to any substantial extent is unlikely.
+
+A partial regulatory impact assessment has been prepared and copies are available from the Welsh Assembly Government, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^c20072391]: Marginal citation: The Welsh Ministers are so designated by [S.I. 2007/1679](https://www.legislation.gov.uk/uksi/2007/1679).
+
+[^c20072401]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) includes power to make certain provision in relation to the European Economic Area by virtue of section 2(5) of the [European Economic Area Act 1993 (1993 c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
+
+[^key-6c52121e02dee494bc6f1fe86864fbcd]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2009/3342) power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-d49ab4f9da70bac7d12da823af731680]: Textual amendment: Words in reg. 2(1) substituted (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 9 para. 6(2)](https://www.legislation.gov.uk/wsi/2016/58/schedule/9/paragraph/6/2) (with [reg. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59))
+
+[^key-4cc7100ee29f3dcd95818859562577a4]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 56(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/56/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-6cf8567f3243dc55f170ae02e1bce866]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 56(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/56/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-45d9804a33550171a620a4cdc7d6f849]: Textual amendment: Words in reg. 2(1) substituted (7.3.2019) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/wsi/2019/245/regulation/3/2/a/i)
+
+[^c20072421]: Marginal citation: S.I. [1995 No. 419](https://www.legislation.gov.uk/ukcm/1995/419); relevant amendments were made by [S.I. 1996/525](https://www.legislation.gov.uk/uksi/1996/525); [S.I. 1996/1817](https://www.legislation.gov.uk/uksi/1996/1817); [S.I. 1997/858](https://www.legislation.gov.uk/uksi/1997/858); [S.I. 1999/981](https://www.legislation.gov.uk/uksi/1999/981); the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25); and the Countryside and Rights of Way Act 2000 (c 37).
+
+[^c20072431]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c20072441]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
+
+[^c20072451]: Marginal citation: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97).
+
+[^key-4aa4c5e3847398d712ba372bbc31052e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2009/3342/regulation/2/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [47](https://www.legislation.gov.uk/wsi/2024/924/regulation/47)
+
+[^key-3bd1c9e299004cf443761a5d0c3ebe63]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 56(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/56/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^c20072471]: Marginal citation: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37).
+
+[^c20072481]: Marginal citation: The 2000 Act conferred the relevant functions on the National Assembly for Wales and those functions are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-61720f40296d3eeaf0be88d1ac8711b9]: Textual amendment: Words in reg. 2(1) substituted (7.3.2019) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/245/regulation/3/2/a/ii)
+
+[^c20072501]: Marginal citation: The relevant functions of the Secretary of State under the 1991 and 1995 Acts so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by S.I. [1999 No. 672](https://www.legislation.gov.uk/ukcm/1999/672) and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-2baba8aaabfed108ef19a4f5fa73e7cd]: Textual amendment: Words in reg. 2(7) inserted (7.3.2019) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/wsi/2019/245/regulation/3/2/b)
+
+[^key-331c460bb75e615716f11c7b43393170]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2009/3342/regulation/9/1) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [3(3)(a)](https://www.legislation.gov.uk/wsi/2019/245/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2fbcc9c839e0871992d52915c1243e34]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2009/3342/regulation/9/1) omitted (31.12.2020) by virtue of [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/wsi/2019/245/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20072511]: Marginal citation: S.I. [2004 No. 3391](https://www.legislation.gov.uk/ukcm/2004/3391).
+
+[^c20072521]: Marginal citation: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^c20072531]: Marginal citation: The Secretary of State's functions under the 1991 and 1995 Acts so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by S.I. [1999 No. 672](https://www.legislation.gov.uk/ukcm/1999/672) and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-753d0245ea8593d8e691a5770fadd059]: Textual amendment: [Reg. 52](https://www.legislation.gov.uk/wsi/2009/3342/regulation/52) substituted (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 9 para. 6(3)](https://www.legislation.gov.uk/wsi/2016/58/schedule/9/paragraph/6/3) (with [reg. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59))
+
+[^c20072541]: Marginal citation: The functions of the Secretary of State so far as exercisable in relation to Wales were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-064ddd084e3503f4568149d6fa805c3a]: Textual amendment: Words in [Sch. 1 para. 2(c)(v)](https://www.legislation.gov.uk/wsi/2009/3342/schedule/1/paragraph/2/c/v) inserted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [3(4)(a)(i)](https://www.legislation.gov.uk/wsi/2019/245/regulation/3/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-003ab1ade8cf5fa445b0ca26422e54f8]: Textual amendment: Words in [Sch. 1 para. 2(c)(v)](https://www.legislation.gov.uk/wsi/2009/3342/schedule/1/paragraph/2/c/v) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [3(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/245/regulation/3/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20072551]: Marginal citation: O.J. No. L103, 25.4.79, p.1.
+
+[^c20072561]: Marginal citation: The Wild Birds Directive was last amended by Council Directive 2008/102/EC, O.J. No. L323, 3.12.2008, p.31.
+
+[^key-19d72ad6906819a4e0da2d7672aac03e]: Textual amendment: Words in Sch. 1 para. 2(c)(v) inserted (7.3.2019) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [3(4)(a)(iii)](https://www.legislation.gov.uk/wsi/2019/245/regulation/3/4/a/iii)
+
+[^c20072571]: Marginal citation: O.J. No. L206, 27.7.92, p.7.
+
+[^c20072581]: Marginal citation: The Habitats Directive was last amended by Council Directive 2006/105/EC of 20 November 2006 adapting Directives 79/409/EEC, 92/43/EEC, 97/68/EC, 2001/80/EC and 2001/81/EC in the field of environment, by reason of the accession of Bulgaria and Romania (O.J. No. L363, 20.12.2006, p. 368; and see O.J. L80, 21.3.2007, p. 15, for the Corrigendum amending the original title).
+
+[^key-e6028562ac8905a9fe98217f673d135a]: Textual amendment: Words in [Sch. 1 para. 2(c)(vi)](https://www.legislation.gov.uk/wsi/2009/3342/schedule/1/paragraph/2/c/vi) substituted (31.12.2020) by [The Environmental Assessment of Plans and Programmes and the Environmental Impact Assessment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/245)](https://www.legislation.gov.uk/wsi/2019/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2019/245/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/wsi/2019/245/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

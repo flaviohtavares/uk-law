@@ -1,0 +1,155 @@
+---
+title: The National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016
+id: wsi/2016/837
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2016-08-05'
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2016/837
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2016/837/pdfs/wsi_20160837_mi.pdf
+- http://www.legislation.gov.uk/wsi/2016/837/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/wsi/2016/837
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 837 (W. 211)
+
+Education, Wales
+
+The National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016
+
+Made
+
+5 August 2016
+
+Laid before the National Assembly for Wales
+
+10 August 2016
+
+Coming into force
+
+1 September 2016
+
+The Welsh Ministers, in exercise of the powers in sections 29[^f00001], 408[^f00002], 537[^f00003], 537A(1) and (2)[^f00004], 563 and 569(4) and (5)[^f00005] of the Education Act 1996, and in sections 30(1) and (2) and 210 of the Education Act 2002[^f00006] and exercisable by them[^f00007] and after consulting with those persons with whom consultation appeared to the Welsh Minsters to be desirable pursuant to section 408(5) of the Education Act 1996 make the following Regulations:
+
+## 1. Title, commencement and application[^key-0f66f8e9a2f21c90958c8576d5f05188]
+
+(1) The title of these Regulations is the National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016 and they come into force on 1 September 2016.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Education (Information About Individual Pupils) (Wales) Regulations 2007[^key-481fa13e0d40b5c2f543bb2e422e1b75]
+
+The Education (Information About Individual Pupils) (Wales) Regulations 2007[^f00008] are amended as follows—
+
+- (a) in regulation 3—
+  - (i)[^key-fd139daa248eb11c01be0b4fa2690d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^key-a52880a2cd7a941ed2f6448e25450857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-bea6f0f883ae3f0cdc1cefb71d366cd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) for sub-paragraph (a) in paragraph 9 of Schedule 2 substitute—
+
+  > - (a) all of the pupil’s special educational needs identified;
+
+  .
+
+## 3. Pupil Information (Wales) Regulations 2011[^key-8cf2588297c4e0e6aad12fa044524820]
+
+In regulation 3(1) of the Pupil Information (Wales) Regulations 2011[^f00009] for “Schedule 2” substitute “the Schedule to the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011”.
+
+## 4. Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^key-7d105c12a3ee025ae1ad5736fbd15517]
+
+In the definition of “area of learning” in regulation 2(1) of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^f00010], for ““Framework for Children’s Learning for 3 to 7 year-olds in Wales”” substitute ““Curriculum for Wales: Foundation Phase Framework””[^f00011].
+
+## 5. School Performance Information (Wales) Regulations 2011[^key-cb23ca205fcd19cdd5da7795be363515]
+
+In regulation 2(1) of the School Performance Information (Wales) Regulations 2011[^f00012] in the definition of “statutory assessments” before sub-paragraph (i) insert—
+
+> - (ai) in the National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) Order 2015;
+
+[^f00013].
+
+Kirsty Williams
+
+Cabinet Secretary for Education, one of the Welsh Ministers
+
+5 August 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the—
+
+- (a) Education (Information About Individual Pupils) (Wales) Regulations 2007 (“the Individual Pupil Information Regulations”);
+- (b) Pupil Information (Wales) Regulations 2011 (“the Pupil Information Regulations”);
+- (c) Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011 (“the Head Teacher Reporting Regulations”); and
+- (d) School Performance Information (Wales) Regulations 2011 (“the School Performance Information Regulations”).
+
+The Individual Pupil Information Regulations require the governing body of a maintained school upon written request from the local authority that maintains the school to supply the information requested and which is set out in the Schedule to those Regulations. The first key stage has now been replaced by the foundation phase in Wales and so references to the first key stage in the Individual Pupil Information Regulations are no longer relevant. Accordingly, these Regulations substitute the definition of “key stage” in the Individual Pupil Information Regulations with a new definition which omits reference to the first key stage and, also insert a new definition of “foundation phase” (regulation 2(a)). These Regulations also omit the reference to the first key stage in regulation 5(5)(a) of the Individual Pupil Information Regulations (regulation 2(b)).
+
+Regulation 2 further amends the Individual Pupil Information Regulations so as to remove the requirement to notify the local authority that maintains the school, of the ranked primary and secondary special educational needs identified in relation to a pupil. Instead a school will only have to notify the local authority of all the special educational needs that have been identified. Therefore, there will be no requirement to rank those needs as primary or secondary.
+
+Regulation 3 amends regulation 3(1) of the Pupil Information Regulations so as to correct a mistake in a cross reference. Regulation 3(1) of the Pupil Information Regulations refers to Schedule 2 to those Regulations but should instead refer to the Schedule to the Head Teacher Reporting Regulations.
+
+The Head Teacher Reporting Regulations make provision as to the report the head teacher of a maintained school is required to send to parents and adult pupils each year and the additional information a parent may request from the head teacher. These Regulations amend the definition of “area of learning” in the Head Teacher Reporting Regulations so as to substitute a reference to a document entitled “Framework for Children’s Learning for 3 to 7 year-olds in Wales” (“the old document”) for a reference to a document entitled “Curriculum for Wales: Foundation Phase Framework” (“the new document”). The old document contained the former curriculum for the foundation phase and the new document sets out the new curriculum for the foundation phase. The new document was given legal effect by the Education (National Curriculum) (Attainment Targets and Programmes of Study) (Wales) (Amendment) Order 2015 (regulation 4).
+
+The School Performance Information Regulations make provision about the collection of information about the performance of schools. These Regulations amend the School Performance Information Regulations so as to include within the definition of “statutory assessments” such assessment arrangements as are specified in the National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) Order 2015 (regulation 5).
+
+The Welsh Minister’s Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 29(2) was repealed by Schedule 30 and paragraph 67 of Schedule 31 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31). Section 29(3) was also amended by Schedule 30 and paragraph 67 of Schedule 31 to the School Standards and Framework Act 1998. The heading of section 29 and subsections (1), (3) and (5) were amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 29(6) was repealed by paragraph 35 of Part 3 of Schedule 21 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32). Section 29(6A) was inserted by section 9(1) and (2) of the [Violence Against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015 (anaw 3)](https://www.legislation.gov.uk/anaw/2015/3).
+
+[^f00002]: Footnote: Section 408 of the Education Act 1996 was amended by paragraph 30 of Schedule 7 and Schedule 8 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), paragraphs 57 and 106 of Schedule 30 and Schedule 31 to the School Standards and Framework Act 1998, paragraphs 1 and 57 of Schedule 9 to the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 21 to the Education Act 2002, Schedule 12 and Part 7 of Schedule 16 to the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 9(1) and (3) of the Violence Against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015, Schedule 4 to the [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5) and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00003]: Footnote: Section 537 of the Education Act 1996 was amended by paragraph 37 of Schedule 7 to the Education Act 1997, paragraphs 57 and 152 of Schedule 30 to the School Standards and Framework Act 1998, paragraph 60 of Schedule 9 to the Learning and Skills Act 2000, Part 2 of Schedule 7 and Part 3 of Schedule 22 to the Education Act 2002, Schedule 13 to the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00004]: Footnote: Section 537A of the Education Act 1996 was substituted by paragraph 153 of Schedule 30 to the School Standards and Framework Act 1998 and further amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). There are other amendments to this section which are not relevant to Wales.
+
+[^f00005]: Footnote: Section 569(4) of the Education Act 1996 was amended by section 8(1) and (5) of the Education (Wales) Measure [2009 (nawm 7)](https://www.legislation.gov.uk/mwa/2009/7).
+
+[^f00006]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Subsections (1) and (2) of section 30 were amended by section 103((1)(a) and (c) of the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18) and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00007]: Footnote: The functions in the sections in the Education Act 1996 were conferred on the Secretary of State and were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers under paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). The functions in the sections in the Education Act 2002 were conferred on the National Assembly for Wales and were transferred to the Welsh Ministers under paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act 2006.
+
+[^key-0f66f8e9a2f21c90958c8576d5f05188]: Commencement: Reg. 1 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
+
+[^key-481fa13e0d40b5c2f543bb2e422e1b75]: Commencement: Reg. 2 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
+
+[^f00008]: Footnote: [S.I. 2007/3562 (W. 312)](https://www.legislation.gov.uk/wsi/2007/3562) as amended by [S.I. 2010/1142](https://www.legislation.gov.uk/uksi/2010/1142), [S.I. 2011/2325 (W. 242)](https://www.legislation.gov.uk/wsi/2011/2325), [S.I. 2013/3137 (W. 310)](https://www.legislation.gov.uk/wsi/2013/3137), [S.I. 2016/211 (W. 84)](https://www.legislation.gov.uk/wsi/2016/211) and [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236).
+
+[^key-fd139daa248eb11c01be0b4fa2690d95]: Textual amendment: Reg. 2(a)(i) omitted (1.9.2026) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [19(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/19/3)
+
+[^key-a52880a2cd7a941ed2f6448e25450857]: Textual amendment: Reg. 2(a)(ii) omitted (1.9.2024) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [19(2)(a)](https://www.legislation.gov.uk/wsi/2022/758/regulation/19/2/a)
+
+[^key-bea6f0f883ae3f0cdc1cefb71d366cd7]: Textual amendment: Reg. 2(b) omitted (1.9.2024) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [19(2)(b)](https://www.legislation.gov.uk/wsi/2022/758/regulation/19/2/b)
+
+[^key-8cf2588297c4e0e6aad12fa044524820]: Commencement: Reg. 3 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 2011/1942 (W. 209)](https://www.legislation.gov.uk/wsi/2011/1942).
+
+[^key-7d105c12a3ee025ae1ad5736fbd15517]: Commencement: Reg. 4 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
+
+[^f00010]: Footnote: [S.I. 2011/1943 (W. 210)](https://www.legislation.gov.uk/wsi/2011/1943) as amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2014/1998 (W. 199)](https://www.legislation.gov.uk/wsi/2014/1998) and [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236).
+
+[^f00011]: Footnote: ISBN number 9781473442177.
+
+[^key-cb23ca205fcd19cdd5da7795be363515]: Commencement: Reg. 5 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
+
+[^f00012]: Footnote: [S.I. 2011/1963 (W. 127)](https://www.legislation.gov.uk/wsi/2011/1963) as amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437) and [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236).
+
+[^f00013]: Footnote: [S.I. 2015/1596 (W. 195)](https://www.legislation.gov.uk/wsi/2015/1596).

@@ -1,0 +1,163 @@
+---
+title: The Care and Support (Business Failure) (Wales) Regulations 2015
+id: wsi/2015/1920
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-11-18'
+text_date: '2019-04-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2015/1920
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2015/1920/pdfs/wsi_20151920_mi.pdf
+- http://www.legislation.gov.uk/wsi/2015/1920/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Care and Support (Business Failure) (Wales) Regulations 2015
+
+> Text as at 2019-04-29.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 1920 (W. 286)
+
+Social Care, Wales
+
+The Care and Support (Business Failure) (Wales) Regulations 2015
+
+Made
+
+18 November 2015
+
+Laid before the National Assembly for Wales
+
+20 November 2015
+
+Coming into force
+
+6 April 2016
+
+The Welsh Ministers, in exercise of the powers conferred by sections 191(7) and 196(2) of the Social Services and Well-being (Wales) Act 2014[^f00001], make the following Regulations:
+
+## 1. Title, commencement, application and interpretation[^key-010c604b769eb3a4879c3ecab669cb75]
+
+(1) The title of these Regulations is the Care and Support (Business Failure) (Wales) Regulations 2015 and they come into force on 6 April 2016.
+
+(2) These Regulations apply in relation to Wales.
+
+(3) In these Regulations—
+
+- “the Act” (“*y Ddeddf*”) means the Social Services and Well-being (Wales) Act 2014;
+- “the 1986 Act” (“*Deddf 1986*”) means the Insolvency Act 1986[^f00002];
+- “the 1989 Order” (“*Gorchymyn 1989*”) means the Insolvency (Northern Ireland) Order 1989[^f00003];
+- “a members’ voluntary winding up” (“*achos o ddirwyn i ben yn wirfoddol gan yr aelodau*”) means a winding up where a statutory declaration has been made under section 89 of the 1986 Act or article 75 of the 1989 Order[^f00004];
+- “a provider” (“*darparwr*”) means a person registered under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 in respect of a regulated service (within the meaning of that Act),[^key-4c05dc2cb142bec44d563e059f0a83bf] [^key-1aa0404d1898833cecf2824c7f2a68d1]... ;
+- “the relevant amount” (“*y swm perthnasol*”) means the amount specified in section 123(1)(a) of the 1986 Act (definition of inability to pay debts).
+
+## 2. Business failure[^key-aee909ed81976a13761356bf2a89b6ef]
+
+(1) For the purposes of sections 189 and 191 of the Act—
+
+- (a) business failure has the meaning given in paragraphs (2) to (5); and
+- (b) a provider is to be treated as unable to carry on or manage an establishment or an agency because of business failure if the provider’s inability to do so follows business failure.
+
+(2) Where a provider is not an individual, business failure means that, in respect of that provider—
+
+- (a) the appointment of an administrator (within the meaning given by paragraph 1(1) of Schedule B1 to the 1986 Act[^f00006] or paragraph 2(1) of Schedule B1 to the 1989 Order[^f00007]) takes effect;
+- (b) a receiver is appointed;
+- (c) an administrative receiver as defined in section 251 of the 1986 Act or article 5 of the 1989 Order is appointed;
+- (d) a resolution for a voluntary winding up is passed other than in a members’ voluntary winding up;
+- (e) a winding up order is made;
+- (f) an order by virtue of article 11 of the Insolvent Partnerships Order 1994 (joint bankruptcy petition by individual members of insolvent partnership)[^f00008] is made;
+- (g) an order by virtue of article 11 of the Insolvent Partnerships Order (Northern Ireland) 1995 (joint bankruptcy petition by individual members of insolvent partnership)[^f00009] is made;
+- (h) the charity trustees of the provider become unable to pay their debts as they fall due;
+- (i) every member of the partnership (in a case where the provider is a partnership) is made bankrupt; or
+- (j) a voluntary arrangement proposed for the purposes of Part I of the 1986 Act[^f00010] or Part 2 of the 1989 Order has been approved under that Part of that Act or Order.
+
+(3) In relation to a provider who is an individual, business failure means that—
+
+- (a) the individual is made bankrupt;
+- (b) a voluntary arrangement pursuant to Part 8 of the 1986 Act or Part 8 of the 1989 Order is proposed by or entered into by the individual; or
+- (c) a debt relief order is made under Part VIIA of the 1986 Act or Part 7A of the 1989 Order[^f00011].
+
+(4) For the purposes of paragraph (2)(h), a person is a charity trustee of a provider if—
+
+- (a) the provider is a charity that is unincorporated; and
+- (b) the person is a trustee of that charity.
+
+(5) For the purposes of paragraph (2)(h), the charity trustees of a provider are to be treated as becoming unable to pay their debts as they fall due if—
+
+- (a) a creditor to whom the trustees are indebted in a sum exceeding the relevant amount then due has served on the trustees a written demand requiring the trustees to pay the sum so due and the trustees have for 3 weeks thereafter neglected to pay the sum or to secure or compound for it to the reasonable satisfaction of the creditor;
+- (b) in England and Wales, execution or other process issued on a judgment, decree or order of a court in favour of a creditor of the trustees is returned unsatisfied in whole or in part;
+- (c) in Scotland, the induciae of a charge for payment on an extract decree, or an extract registered bond, or an extract registered protest, have expired without payment being made; or
+- (d) in Northern Ireland, a certificate of unenforceability has been granted in respect of a judgment against the trustees.
+
+Mark Drakeford
+
+Minister for Health and Social Services, one of the Welsh Ministers
+
+18 November 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Sections 189 to 191 of the Social Services and Well-being (Wales) Act 2014 (“the Act”) impose duties (“temporary duties”) on local authorities in Wales to meet care and support needs of adults, or support needs of carers, in circumstances where registered providers of care are unable to carry on because of “business failure”.
+
+These Regulations make provision as to the interpretation, for those purposes, of “business failure” and as to circumstances in which a person is to be treated as unable to do something because of “business failure”.
+
+Regulation 2 sets out the events which constitute “business failure” for the purposes of the temporary duties on local authorities in Wales.
+
+In relation to a provider, other than an individual, registered in Wales, business failure consists of—
+
+- the appointment of an administrator;
+- the appointment of a receiver;
+- the appointment of an administrative receiver;
+- the passing of a resolution for a voluntary winding up in a creditors’ voluntary winding up;
+- the making of a winding up order;
+- the making of bankruptcy orders where individual members of a partnership present a joint bankruptcy petition;
+- in relation to an unincorporated charity, the charity trustees becoming unable to pay their debts as they fall due;
+- all members of a partnership being made bankrupt; or
+- a voluntary arrangement being approved under the Insolvency Act 1986 (“the 1986 Act”) or the Insolvency (Northern Ireland) Order 1989 (“the 1989 Order”).
+
+In relation to a provider who is an individual registered in Wales, “business failure” consists of the individual being made bankrupt or proposing or entering into an individual voluntary arrangement under Part 8 of the 1986 Act or Part 8 of the 1989 Order, or being the subject of a debt relief order under Part VIIA of the 1986 Act or Part 7A of the 1989 Order.
+
+Under the Act, the temporary duties are triggered where a registered provider becomes unable to carry on or manage an establishment or agency because of business failure. Regulation 2(1)(b) provides that a provider is to be treated as unable to carry on or manage an establishment or agency because of business failure if the provider’s inability to do so follows business failure.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has not been prepared as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
+
+[^key-010c604b769eb3a4879c3ecab669cb75]: Commencement: Reg. 1 in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1920/regulation/1/1)
+
+[^f00002]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^f00003]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
+
+[^f00004]: Footnote: *See* [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090) and [2012/3013](https://www.legislation.gov.uk/uksi/2012/3013) as to the application of section 89 to Limited Liability Partnerships and Charitable Incorporated Organisations respectively. As to the application of section 89 to co-operative and community benefit societies, *see* section 123 of the Co-operative and Community Benefit Societies Act [2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14). As to the application of article 75 of the 1989 Order to industrial and provident societies in Northern Ireland, *see* section 64 of the Industrial and Provident Societies Act (Northern Ireland) [1969 (c. 24)](https://www.legislation.gov.uk/ukpga/1969/24), as substituted by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^key-4c05dc2cb142bec44d563e059f0a83bf]: Textual amendment: Words in reg. 1(3) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 38(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/38/2)
+
+[^key-1aa0404d1898833cecf2824c7f2a68d1]: Textual amendment: Words in reg. 1(3) omitted (29.4.2019) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 26(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/26/2)
+
+[^key-aee909ed81976a13761356bf2a89b6ef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1920/regulation/2) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1920/regulation/1/1)
+
+[^f00006]: Footnote: Schedule B1 was inserted by section 248(2) of, and Schedule 16 to, the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40). As to the application of Part 2 of the 1986 Act to co-operative and community benefit societies, *see* [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229) as amended by [S.I. 2014/1822](https://www.legislation.gov.uk/uksi/2014/1822).
+
+[^f00007]: Footnote: Schedule B1 was inserted by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).
+
+[^f00008]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421).
+
+[^f00009]: Footnote: [S.R. (N.I.) 1995 No. 225](https://www.legislation.gov.uk/nisr/1995/225).
+
+[^f00010]: Footnote: As to the application of Part 1 of the 1986 Act to co-operative and community benefit societies, *see* [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229) as amended by S.I.
+
+[^f00011]: Footnote: Part 7A of the 1989 Order was inserted by the Debt Relief Act (Northern Ireland) [2010 (c. 16)](https://www.legislation.gov.uk/ukpga/2010/16).

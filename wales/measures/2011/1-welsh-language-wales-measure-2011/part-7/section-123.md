@@ -1,0 +1,68 @@
+---
+title: Welsh Language (Wales) Measure 2011, section 123
+act: Welsh Language (Wales) Measure 2011
+section: '123'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/mwa/2011/1/section/123
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Welsh Language (Wales) Measure 2011, section 123
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/mwa/2011/1
+>
+> Extent: England, Wales.
+
+## 123. Welsh Language Tribunal Rules[^key-7d9f1b824eb77cba5a00cf767f6407e5]
+
+*Extent: E+W*
+
+(1) The President must make rules governing the practice and procedure to be followed in the Tribunal.
+
+(2) The rules are to be known as “**Welsh Language Tribunal Rules**” (but are referred to in this Measure as “Tribunal Rules”).
+
+(3) Tribunal Rules must include the following—
+
+- (a) provision about the selection under section 121(2) of the three members of the Tribunal to deal with proceedings;
+- (b) provision about the selection under section 121(5) of the legal member to chair proceedings;
+- (c) provision about conflicts of interest that arise—
+  - (i) in relation to the participation of members of the Tribunal in the determination of proceedings, or
+  - (ii) in relation to the exercise of the President's functions under section 121.
+
+(4) Tribunal Rules may, amongst other things, include provision about the following matters—
+
+- (a) the exercise by the President, or by the member chairing any proceedings, of any functions which relate to matters that are preliminary or incidental to the proceedings;
+- (b) the conduct of proceedings in the absence of any member other than the member chairing them;
+- (c) the disclosure or inspection of documents, and such right to further particulars as might be granted by a county court;
+- (d) the determination of proceedings without a hearing in circumstances prescribed in Tribunal Rules;
+- (e) frivolous and vexatious proceedings;
+- (f) the award of costs (including, but not limited to, punitive costs) or expenses;
+- (g) assessing or otherwise settling any such costs or expenses (and, in particular, for enabling such costs to be assessed in the county court);
+- (h) the publication of reports of the Tribunal's decisions;
+- (i) the Tribunal's powers to review its decisions, or revoke or vary its orders, in such circumstances as may be determined in accordance with Tribunal Rules;
+- (j) the date upon which a notice is deemed to have been given by the Tribunal.
+
+(5) The power to make Tribunal Rules includes power—
+
+- (a) to make different provision for different purposes, and
+- (b) to confer functions on the President or the Welsh Ministers (as well as on any other person), including functions involving the exercise of a discretion.
+
+(6) The President must submit Tribunal Rules to the Welsh Ministers.
+
+(7) The Welsh Ministers may allow or disallow Tribunal Rules submitted to them.
+
+(8) Rules allowed by the Welsh Ministers—
+
+- (a) come into force on such day that the Welsh Ministers direct, and
+- (b) are to be contained in a Welsh statutory instrument[^key-85ecc4592c5dd081b71a054b253f59d3].
+
+(9) A statutory instrument containing rules made by the President is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+## Annotations
+
+[^key-7d9f1b824eb77cba5a00cf767f6407e5]: Commencement: [S. 123](https://www.legislation.gov.uk/mwa/2011/1/section/123) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(d)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/d)
+
+[^key-85ecc4592c5dd081b71a054b253f59d3]: Textual amendment: Words in [s. 123(8)](https://www.legislation.gov.uk/mwa/2011/1/section/123/8) substituted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 8](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/8); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/e)

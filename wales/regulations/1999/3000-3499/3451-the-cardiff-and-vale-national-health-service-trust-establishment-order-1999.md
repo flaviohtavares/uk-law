@@ -1,0 +1,131 @@
+---
+title: The Cardiff and Vale National Health Service Trust Establishment Order 1999
+id: wsi/1999/3451
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-12-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/1999/3451
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/1999/3451/pdfs/wsi_19993451_mi.pdf
+- http://www.legislation.gov.uk/wsi/1999/3451/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cardiff and Vale National Health Service Trust Establishment Order 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 3451 (W.49)
+
+NATIONAL HEALTH SERVICE, WALES
+
+The Cardiff and Vale National Health Service Trust Establishment Order 1999
+
+Made
+
+15 December 1999
+
+Coming into force
+
+1 January 2000
+
+The National Assembly for Wales makes the following Order in exercise of the powers conferred on the Secretary of State for Wales by section 5(1) of and paragraphs 1, 3, 4 and 5 of Schedule 2 to the National Health Service and Community Care Act 1990[^f00001], section 25(2) of the Welsh Language Act 1993[^f00002] and of all other powers enabling the Secretary of State in that behalf and now vested in the National Assembly for Wales[^f00003], after completion of the consultation prescribed under section 5(2) of the National Health Service and Community Care Act 1990[^f00004]:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Cardiff and Vale National Health Service Trust Establishment Order 1999 and shall come into force on 1 January 2000.
+
+(2) In this Order —
+
+- “the Act” means the National Health Service and Community Care Act 1990 *(“ y Ddeddf”)*;
+- “establishment date” means 1st January 2000 *(“dyddiad sefydlu”)*;
+- “operational date” means the date on which the trust is to begin to undertake the whole of the functions conferred on it. *(“dyddiad gweithredol”)*;
+- “the trust” means the Cardiff and Vale National Health Service Trust established by article 2 of this Order *(“yr ymddiriedolaeth”)*.
+
+## 2. Establishment of the trust
+
+There is hereby established an NHS Trust which shall be called Ymddiriedolaeth Gwasanaeth Iechyd Gwladol Caerdydd a'r Fro or Cardiff and Vale National Health Service Trust.
+
+## 3. Nature and functions of the trust
+
+(1) The trust is established for the purposes specified in section 5(1) of the Act.
+
+(2) The trust’s functions shall be to provide goods and services for the purposes of the health service from the hospitals specified in paragraph (3) or from associated hospitals and premises.
+
+(3) The hospitals specified for the purposes of paragraph (2) are —
+
+- i) University Hospital of Wales, Heath Park, Cardiff, CF14 4WZ;
+- ii) Llandough Hospital, Llandough, Penarth, CF64 2XX;
+- iii) Whitchurch Hospital, Park Road, Cardiff, CF14 7XB;
+- iv) Royal Hamadryad Hospital, Hunter Street, Cardiff Bay, Cardiff, CF10 5UQ; and
+- v) Dental Hospital and School, Heath Park, Cardiff, CF14 4XW.
+
+## 4. Directors of the trust
+
+(1) The trust shall have, in addition to the chairman, 7 non-executive directors and 5 executive directors.
+
+(2) Since the trust is to be regarded as having a significant teaching commitment within the meaning of paragraph 3(1)(d) of Schedule 2 to the Act, one of the non-executive directors shall be appointed from the University of Wales.
+
+## 5. Operational date and accounting date of the trust
+
+(1) The operational date of the trust shall be 1st April 2000.
+
+(2) The accounting date of the trust shall be 31st March.
+
+## 6. Limited functions before operational date
+
+Between its establishment date and its operational date the trust shall have the functions —
+
+- (a) of entering into NHS contracts;
+- (b) of entering into other contracts including contracts of employment; and
+- (c) of doing such other things as are reasonably necessary to enable it to begin to operate satisfactorily with effect from its operational date.
+
+## 7. Assistance by health authorities before operational date
+
+(1) Bro Taf Health Authority shall —
+
+- (a) until the operational date make such staff and facilities available to the trust as are required to enable the trust to carry out its limited functions pending the transfer or appointment of staff to or by the trust and the transfer of facilities to the trust;
+- (b) make available such premises as are required to enable the trust to carry out its limited functions pending the transfer of those premises to the trust.
+
+(2) Bro Taf Health Authority shall discharge the liabilities of the trust, incurred between the establishment date and the operational date, that are of a description specified in paragraph (3) of this article.
+
+(3) The liabilities referred to in the preceding paragraph are —
+
+- (a) liability for the remuneration and travelling or other allowances of the chairman and non-executive directors of the trust;
+- (b) liability for the travelling or other allowances of the members of committees and sub-committees of the trust who are not also directors of the trust;
+- (c) liability for the remuneration of persons employed by the trust; and
+- (d) any other liability which may reasonably be incurred by the trust for the purpose of enabling it to begin to operate satisfactorily with effect from the operational date.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998.[^f00005]
+
+Dafydd Elis Thomas
+
+Presiding Officer
+
+15th December 1999
+
+(This note is not part of the Order)
+
+This Order establishes the Cardiff and Vale National Health Service Trust as an NHS Trust under section 5 of the National Health Service and Community Care Act 1990, as amended, in particular, by the Health Act 1999.
+
+The Trust is responsible for the services previously managed by the University Hospital of Wales and Llandough Hospital National Health Service Trust and the Cardiff and District Community National Health Service Trust. Provision for their dissolution, with effect from 1st April 2000, is made by the National Health Service Trusts (Wales) (Dissolution No. 2) Order 1999.
+
+The Establishment Order provides for the name of the Trust (article 2); for the functions of the Trust (article 3); for the number of non-executive directors, one of whom is to be appointed from the University of Wales to reflect the Trust’s significant teaching commitment, and for the number of executive directors (article 4); for the date (1st April 2000) from which the Trust will be fully operational and for its accounting date (article 5); for the carrying out of functions before the operational date (article 6); and for liability for the Trust’s expenses and other liabilities incurred between the date of its establishment and the date on which it assumes all its functions (article 7).
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19); section 5(1) and paragraph 3(2) of Schedule 2 were amended by section 13(1) of the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”); paragraph 1 of Schedule 2 is cited for the interpretation of references to “an order” under section 5(1); paragraphs 3, 4 and 5 were amended by paragraph 85 of Schedule 1 to the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17) (“the 1995 Act”)
+
+[^f00002]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).
+
+[^f00003]: Footnote: The functions of the Secretary of State for Wales under section 5 of, and Schedule 2 to, the National Health Service and Community Care Act 1990 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)); the amendments to section 5 and Schedule 2 made by the 1999 Act have effect as if made by an Order in Council under section 22 of the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^f00004]: Footnote: Section 5(2) was substituted by paragraph 69 of Schedule 1 to the 1995 Act.
+
+[^f00005]: Footnote: [1998 c38](https://www.legislation.gov.uk/ukpga/1998/38)

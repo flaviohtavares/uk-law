@@ -1,0 +1,122 @@
+---
+title: The National Park Authorities (Wales) (Amendment) Order 2020
+id: wsi/2020/119
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-02-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2020/119
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2020/119/pdfs/wsi_20200119_mi.pdf
+- http://www.legislation.gov.uk/wsi/2020/119/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Park Authorities (Wales) (Amendment) Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 119 (W. 21)
+
+Countryside, Wales
+
+The National Park Authorities (Wales) (Amendment) Order 2020
+
+Made
+
+4 February 2020
+
+Laid before the National Assembly for Wales
+
+6 February 2020
+
+Coming into force
+
+1 April 2020
+
+The Welsh Ministers make this Order in exercise of the powers conferred by sections 63(1) and (5) of, and paragraphs 1(2) and (3), and 2(1) and (2) of Schedule 7 to, the Environment Act 1995[^f00001], having consulted the councils for every principal area part of which is comprised in the Brecon Beacons National Park in accordance with paragraph 2(3) of Schedule 7 to the Environment Act 1995[^f00002].
+
+## 1. Title and commencement
+
+(1) The title of this Order is the National Park Authorities (Wales) (Amendment) Order 2020.
+
+(2) This Order comes into force on 1st April 2020.
+
+## 2. Amendment of the National Park Authorities (Wales) Order 1995
+
+(1) The National Park Authorities (Wales) Order 1995 is amended in accordance with the following paragraphs.
+
+(2) In Part 1 of Schedule 2 for—
+
+> Brecon Beacons National Park Authority
+>
+> |  |  |
+> | --- | --- |
+> | Local authority members | 16 |
+> | Secretary of State members | 8 |
+> | Total number of members | 24 |
+
+substitute—
+
+> Brecon Beacons National Park Authority
+>
+> |  |  |
+> | --- | --- |
+> | Local authority members | 12 |
+> | Secretary of State members | 6 |
+> | Total number of members | 18 |
+
+(3) In Part 2 of Schedule 2 for—
+
+> Brecon Beacons National Park Authority
+>
+> | Council of a principal area | Number of members |
+> | --- | --- |
+> | Blaenau Gwent County Borough Council | 1 |
+> | Carmarthenshire County Council | 2 |
+> | Merthyr Tydfil County Borough Council | 1 |
+> | Monmouthshire County Council | 2 |
+> | Powys Council | 8 |
+> | Rhondda, Cynon, Taff County Borough Council | 1 |
+> | Torfaen County Borough Council | 1 |
+
+substitute—
+
+> Brecon Beacons National Park Authority
+>
+> | Council of a principal area | Number of members |
+> | --- | --- |
+> | Blaenau Gwent County Borough Council | 1 |
+> | Carmarthenshire County Council | 1 |
+> | Merthyr Tydfil County Borough Council | 1 |
+> | Monmouthshire County Council | 1 |
+> | Powys Council | 6 |
+> | Rhondda Cynon Taff County Borough Council | 1 |
+> | Torfaen County Borough Council | 1 |
+
+Hannah Blythyn
+
+Deputy Minister for Housing and Local Government, acting under the authority of the Minister for Housing and Local Government, one of the Welsh Ministers
+
+4 February 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the National Park Authorities (Wales) Order 1995 ([S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803)).
+
+Article 3 of this Order amends Parts 1 and 2 of Schedule 2 to that Order so that the membership of the Brecon Beacons National Park Authority decreases from 24 to 18. The total number of members consists of 12 local authority members and 6 members appointed by the Welsh Ministers.
+
+The Welsh Ministers’ Code of Practice on the carrying out of regulatory impact assessments was considered in relation to this Order. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). The powers conferred on the Secretary of State by sections 63(1) and (5) of, and paragraphs 1(2) and (3), and 2(1) and (2) of Schedule 7 to, the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999, [SI 1999/672](https://www.legislation.gov.uk/uksi/1999/672). By virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), the functions conferred on the National Assembly for Wales are now exercisable by the Welsh Ministers.
+
+[^f00002]: Footnote: See section 79(1) for the definition of “principal area”.

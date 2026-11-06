@@ -1,0 +1,524 @@
+---
+title: The Marine Licensing (Appeals Against Licensing Decisions) (Wales) Regulations 2011
+id: wsi/2011/925
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-22'
+text_date: '2013-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2011/925
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2011/925/pdfs/wsi_20110925_mi.pdf
+- http://www.legislation.gov.uk/wsi/2011/925/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marine Licensing (Appeals Against Licensing Decisions) (Wales) Regulations 2011
+
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 925 (W.134)
+
+ENVIRONMENTAL PROTECTION, WALES
+
+LICENSING (MARINE), WALES
+
+MARINE POLLUTION, WALES
+
+TRIBUNALS AND INQUIRIES, WALES
+
+The Marine Licensing (Appeals Against Licensing Decisions) (Wales) Regulations 2011
+
+Made
+
+22 March 2011
+
+Coming into force
+
+6 April 2011
+
+The Welsh Ministers, as the appropriate licensing authority under section 113(4)(b) of the Marine and Coastal Access Act 2009[^f00001], make these Regulations in exercise of the powers conferred by sections 73 and 316(1) of that Act.
+
+In accordance with section 316(6)(b) and (7)(c) of that Act, a draft of these Regulations has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+## PART 1 — Introduction
+
+### 1. Title and commencement[^key-a2fc7617f1c268bdddc3618a12721534]
+
+(1) The title of these Regulations is the Marine Licensing (Appeals Against Licensing Decisions) (Wales) Regulations 2011.
+
+(2) These Regulations come into force on 6 April 2011.
+
+### 2. Application[^key-1d5a124889ac779a1419b873f09db7f1]
+
+These Regulations apply in relation to any licensable marine activity for which the Welsh Ministers are the appropriate licensing authority under section 113(4)(b) of the Marine and Coastal Access Act 2009[^f00002].
+
+### 3. Interpretation[^key-5615bfe33c25e1d6df50c141704f67b9]
+
+In these Regulations—
+
+- “the Act” (“ *y Ddeddf*”) means the Marine and Coastal Access Act 2009;
+- “the appointed person” (“*y person penodedig*”) means the person appointed under regulation 5(1);
+- “document” (“*dogfen*”) includes a map, photograph or report;
+- “the Licensing Authority” (“*yr Awdurdod Trwyddedu*”) means the Welsh Ministers acting in their capacity as the appropriate licensing authority under section 113(4)(b) of the Marine and Coastal Access Act 2009;
+- “marine licence” (“*trwydded morol*” ) means a licence granted under Part 4 of the Act;
+- “relevant time limits” (“*terfynau amser perthnasol*”) means—
+  - (a) the time limits specified in these Regulations or in any direction given or requirement made by the appointed person by virtue of these Regulations;
+  - (b) but sub-paragraph (a) is subject to regulation 25(1).
+- “start date” (“*dyddiad dechrau*”) has the meaning given by regulation 8(3);
+- “valid notice of appeal” (“*hysbysiad apêl dilys*”) means a notice of appeal that—
+  - (a) complies with regulation 7(1);
+  - (b) was accompanied by the documents required by regulation 7(2); and
+  - (c) was received by the Welsh Ministers within the relevant time limit.
+
+## PART 2 — Appeals — general
+
+### 4. Appeal against marine licensing decisions[^key-9cd6a74d145ced3198e401334ec89afe]
+
+(1) A person who has applied for a marine licence may by notice appeal to the Welsh Ministers against a decision taken under section 71 of the Act (refusal of licence or grant subject to conditions etc).
+
+(2) Appeals must be made in accordance with these Regulations.
+
+### 5. Determination by appointed person[^key-9b6b4a7227451046443eb5ae0a7e37cb]
+
+(1) The Welsh Ministers must appoint a person (“the appointed person”) to —
+
+- (a) determine, upon receipt of a notice of appeal pursuant to regulation 4(1), whether the notice received is a valid notice of appeal and if so;
+- (b) determine the appeal.
+
+(2) Appeals must be determined in accordance with these Regulations.
+
+(3) An appointment under paragraph (1)—
+
+- (a) must be in writing;
+- (b) may relate to any particular appeal specified in the appointment or to appeals of a class or description so specified;
+- (c) may be subject to such conditions as may be specified in the appointment;
+- (d) may provide for payment to be made to the appointed person.
+
+(4) In respect of any appeal that has not been determined the Welsh Ministers may revoke an appointment under paragraph (1) if they are—
+
+- (a) notified in writing by the appointed person; or
+- (b) are otherwise satisfied;
+
+that the appointed person is unable to carry out the requirements of paragraph (1).
+
+(5) Where an appointment is so revoked in respect of any appeal, the Welsh Ministers must, as soon as practicable, appoint another person under paragraph (1) to determine the appeal.
+
+(6) Where a new appointment is made, the consideration of the appeal, or any hearing or inquiry in connection with it, must be begun afresh.
+
+(7) But nothing in paragraph (6) requires any person to be given an opportunity to make fresh representations or comments or to modify or withdraw any representations or comments already made.
+
+## PART 3 — Starting the appeal
+
+### 6. Time limit for the notice of appeal[^key-1f2f3bb54eb950a857c3cda06b4075d8]
+
+(1)[^M_F_46e62e93-9e0a-453f-ea43-8ac51baea83d] Notice of an appeal must be received by the Welsh Ministers within the period of 6 months beginning with the date of the decision to which the appeal relates.
+
+(2)[^key-6385a0b9640ae3f90357390efb434650] A person who sends notice of an appeal to the Welsh Ministers must, at the same time, send a copy of that notice to the Licensing Authority.
+
+### 7. Contents of the notice of appeal[^key-8eabe1df84192aaef1138926c1a102a1]
+
+(1) A notice of appeal must include—
+
+- (a) the name, address (including any e-mail address) and telephone number of the appellant and any agent acting for the appellant;
+- (b) a statement of the grounds of appeal;
+- (c) a statement as to whether the appellant wishes to have the appeal dealt with by way of written representations, a hearing or an inquiry;
+- (d) a list of all the documents, including dates (where any document is dated), specified in paragraph (2).
+
+(2) A notice of appeal must be accompanied by—
+
+- (a) a copy of the decision to which the appeal relates; and
+- (b) a copy of all documents upon which the appellant wishes to rely.
+
+### 8. Decision as to appeal procedure and start date[^key-82708d4addcdf73339605456564167ae]
+
+(1) The appointed person must, as soon as practicable after determining the validity of a notice of appeal, decide whether the appeal is to be determined by means of written representations, a hearing or an inquiry.
+
+(2) The appointed person must notify the appellant and the Licensing Authority of that decision.
+
+(3) The date of that notification is the start date for the appeal.
+
+(4) A decision under paragraph (1) may be varied by a subsequent decision under that paragraph at any time before the appeal is determined.
+
+(5) But before making such a variation, the appointed person must consult the appellant and the Licensing Authority.
+
+(6) Where the decision referred to in paragraph (1) is varied—
+
+- (a) the appointed person must notify the appellant, the Licensing Authority and any other person who has made written representations in respect of the appeal, of the variation;
+- (b) anything done in relation to the former appeal procedure which could have been done under any corresponding provision of these Regulations relating to the new appeal procedure has effect as if done under that corresponding provision; and
+- (c) the appointed person may give consequential directions as to the procedure.
+
+(7) Nothing in paragraphs (4) to (6) affects the start date under paragraph (3).
+
+(8) In making a decision under paragraph (1), the appointed person must have regard to any criteria published by the Welsh Ministers.
+
+## PART 4 — Action following the start date
+
+### 9. Notice to interested persons[^key-43d31e007e2a4818d0ae712a3d3edcba]
+
+(1) The Licensing Authority must, within the period of 2 weeks beginning with the start date, give notice that an appeal has been lodged—
+
+- (a) to any person (other than the appellant) who has made representations in writing to the Licensing Authority in respect of the application to which the appeal relates; and
+- (b) to any other person it considers likely to have an interest.
+
+(2) The notice must state—
+
+- (a) the start date;
+- (b) the name and location of the site to which the appeal relates;
+- (c) the name of the appellant;
+- (d) that the appeal will be determined by way of written representations, a hearing or an inquiry (as the case may be);
+- (e) that, within the period of 4 weeks beginning with the date of the notice, the recipient may make written representations to the appointed person;
+- (f) the address to which such representations must be sent;
+- (g) that any representations received will be sent to the appellant and the Licensing Authority; and
+- (h) that if the recipient makes representations, the recipient will be notified by the appointed person of the date of any hearing or inquiry that may be held.
+
+(3) The notice must be accompanied by a copy of the decision to which the appeal relates.
+
+(4) The Licensing Authority must, within the period of 2 weeks beginning with the start date, send to the appointed person and the appellant—
+
+- (a) a list of the persons to whom, and the dates on which, notice under paragraph (1) was given; and
+- (b) copies of all representations referred to in paragraph (1)(a).
+
+### 10. Representations and comments[^key-ef6f50b87e92401807c5c097874fb4a5]
+
+(1) Where an appeal is to be determined by way of written representations—
+
+- (a) the Licensing Authority must, within the period of 6 weeks beginning with the start date, send to the appointed person any representations it wishes to make on the appeal together with any documents it wishes to rely on;
+- (b) if the appellant wishes to make representations on the appeal in addition to the statement of the grounds of appeal referred to in regulation 7(1)(b), or the documents accompanying it referred to in regulation 7(2), the appellant must send those representations to the appointed person within the period of 6 weeks beginning with the start date.
+
+(2) Where an appeal is to be determined by way of hearing or inquiry, the appellant and the Licensing Authority must each, within the period of 6 weeks beginning with the start date, send to the appointed person a statement containing full particulars of the case they propose to put forward at the hearing or inquiry and a list of any documents they propose to refer to or put in evidence.
+
+(3) At the end of the period of 6 weeks beginning with the start date, the appointed person must—
+
+- (a) where the appeal is to be determined by way of written representations—
+  - (i) send a copy of the Licensing Authority’s representations to the appellant; and
+  - (ii) send a copy of any representations made by the appellant under paragraph (1)(b) to the Licensing Authority
+- (b) where the appeal is to be determined by way of hearing or inquiry, send a copy of the Licensing Authority’s statement and list of documents to the appellant and a copy of the appellant’s statement and list of documents to the Licensing Authority;
+- (c) in all cases, send, at the same time, copies of any other representations received by the appointed person in relation to the appeal, to the appellant and the Licensing Authority.
+
+(4) The appellant and the Licensing Authority may, within the period of 9 weeks beginning with the start date, send comments on those representations or statements to the appointed person.
+
+(5) The appointed person must, as soon as practicable after that 9 week period, send a copy of the Licensing Authority’s comments to the appellant and at the same time, send a copy of the appellant’s comments to the Licensing Authority.
+
+## PART 5 — Hearings and inquiries
+
+### 11. Scope[^key-d02061ac66e5fdbe7dc8adba10832055]
+
+This Part applies if an appeal is to be determined by way of hearing or inquiry (but certain provisions apply only to hearings or only to inquiries).
+
+### 12. Establishing the hearing or inquiry[^key-ffa6813bbf9d8899327b7cc0b96af1a5]
+
+(1) The appointed person must set a date for the hearing or inquiry (“the relevant date”).
+
+(2) The appointed person must, at least 6 weeks before the relevant date, give notice of the relevant date to the appellant, the Licensing Authority and any person who has made representations concerning the appeal.
+
+(3) The Licensing Authority must, at least 3 weeks before the relevant date, publish notice of the hearing or inquiry in such manner as the Licensing Authority thinks will be most effective to bring it to the attention of any persons likely to be interested in it.
+
+(4) If the relevant date is changed the procedure in paragraphs (2) and (3) must be repeated.
+
+### 13. Pre-inquiry meeting[^key-2259f5f3ffc6b065203fc2f28d586502]
+
+(1) Where the appeal is to be determined by way of inquiry, the appointed person may hold a pre-inquiry meeting to determine the matters to be addressed and the procedure to be followed at the inquiry.
+
+(2) The appointed person must give at least 4 weeks' notice of such a meeting to—
+
+- (a) the appellant and the Licensing Authority;
+- (b) any person known at the date of the notice to be entitled to appear at the inquiry; and
+- (c) any other person whose presence the appointed person considers desirable.
+
+(3) At the meeting, the appointed person may give directions to the appellant, the Licensing Authority and any other person wishing to appear at the inquiry about things to be done in preparation for the inquiry and the date by which they must be done.
+
+(4) A person to whom a direction is given under paragraph (3) must comply with it.
+
+### 14. Statement of agreed facts — inquiries[^key-48f6ed4520eecc72c556564e41b32a7b]
+
+(1) The appellant and the Licensing Authority must together prepare a statement containing such factual information about the subject matter of the appeal as they are able to agree.
+
+(2) The Licensing Authority must ensure that the appointed person receives that statement at least 4 weeks before the inquiry date.
+
+### 15. Proofs of evidence — inquiries[^key-3d2019f71218af10f541a7d17c340728]
+
+(1) This regulation applies where a person entitled to appear at an inquiry intends to give, or to call a witness to give, evidence at the inquiry.
+
+(2) The person must, at least 4 weeks before the inquiry date or such other time as the appointed person directs, send a proof of the evidence intended to be given together with any written summary required to the appointed person.
+
+(3) The appointed person must, as soon as practicable after receiving a proof of evidence, send a copy of it to the appellant, the Licensing Authority and any other person who has sent a proof to the appointed person.
+
+(4) A written summary is required if the proof of evidence in question exceeds 1500 words.
+
+(5) Where a written summary is provided, only that summary may be read at the inquiry, unless the appointed person directs otherwise.
+
+(6) Where a person gives evidence at an inquiry by reading a summary of a proof of evidence—
+
+- (a) the proof of evidence is treated as tendered in evidence, unless the person required to provide the summary notifies the appointed person that the person now wishes to rely on the contents of that summary alone; and
+- (b) the person whose evidence the proof of evidence contains may be subject to cross-examination on it to the same extent as if it were evidence given orally.
+
+(7) The appointed person may allow any person to alter or add to that person’s proof of evidence or summary so far as may be necessary for the purposes of the inquiry.
+
+(8) But if this is done, the appointed person must (if necessary by adjourning the inquiry) give every other person appearing at the inquiry an adequate opportunity of considering any fresh matter or document.
+
+(9) This regulation is subject to regulation 17.
+
+### 16. Procedure[^key-b4518b52a379ae9535d9f4a11537db56]
+
+(1) Except as otherwise provided in these Regulations, the appointed person may determine the procedure to be followed at a hearing or inquiry.
+
+(2) Once the hearing or inquiry has started the appointed person may adjourn it at any time.
+
+(3) The persons entitled to appear are—
+
+- (a) the appellant;
+- (b) the Licensing Authority; and
+- (c) any person who has made representations concerning the appeal.
+
+(4) The appointed person may proceed in the absence of any person entitled to appear.
+
+(5) The appointed person may permit any other person to appear, and such permission must not be unreasonably withheld.
+
+(6) Any person entitled or permitted to appear may appear in person or be represented by any other person.
+
+(7) A person entitled to appear may call evidence, but the calling of evidence is otherwise at the appointed person’s discretion.
+
+(8) Cross-examination is not permitted at a hearing unless the appointed person considers that it is required to ensure a thorough examination of the main issues.
+
+(9) If the appointed person considers that cross-examination is required, the appointed person must consider, after consulting the appellant and the Licensing Authority, whether to close the hearing and start an inquiry instead.
+
+(10) A person entitled to appear at an inquiry may cross-examine persons giving evidence, but the cross-examination of persons giving evidence at an inquiry is otherwise at the appointed person’s discretion.
+
+(11) The appointed person may take into account any written representation, evidence or any other document received from any person before or during a hearing or inquiry, provided that the appointed person discloses it at the hearing or inquiry.
+
+(12) If the appointed person so decides, a hearing or an inquiry may be held wholly or partly in private.
+
+(13) This regulation is subject to regulation 17.
+
+### 17. Powers to exclude persons, evidence etc[^key-63e19c90353524298fbc22f4752ac423]
+
+(1) If, at any stage of a hearing or inquiry the appointed person considers that any of the reasons in paragraph (2) apply, the appointed person may prevent any person from—
+
+- (a) giving evidence;
+- (b) cross-examining a person giving evidence; or
+- (c) presenting any matter.
+
+(2) The reasons are —
+
+- (a) that the evidence or matter was not provided within the relevant time limits;
+- (b) that the evidence or matter was otherwise not provided in accordance with any provision of these Regulations or with any direction given or requirement made by the appointed person under these regulations;
+- (c) that the evidence or matter is irrelevant or repetitious; or
+- (d) that the person is behaving or has behaved in a disruptive manner at the hearing or inquiry.
+
+(3) Without prejudice to the powers in paragraph (1), if any person at the hearing or inquiry behaves in a disruptive manner the appointed person may—
+
+- (a) require that person to leave;
+- (b) prevent that person from participating in the hearing or inquiry; or
+- (c) permit that person to remain at, or participate in, the hearing or inquiry only on specified conditions.
+
+(4) Where the appointed person refuses to permit a person to give oral evidence under paragraph (3), the person may submit to the appointed person any evidence or other matter in writing before the close of the hearing or inquiry (but this is subject to paragraph (1)).
+
+### 18. Additional provisions as to evidence and costs[^key-147bedc91606c22ad3a2492fb425647b]
+
+(1) Subsections (2) to (5) of section 250 of the Local Government Act 1972[^f00003] (local inquiries: evidence and costs) apply, with the modifications described in paragraph (2), to any hearing or inquiry under these Regulations as they apply to inquiries under that section.
+
+(2) The modifications are—
+
+- (a) the reference to the person appointed to hold the inquiry is to be read as a reference to the appointed person;
+- (b) the reference to a local authority in sub-paragraph (b) to subsection (2) is to be read as a reference to the Licensing Authority;
+- (c) the reference to “such local authority” in subsection (4) is to be read as a reference to the Licensing Authority;
+- (d) references to the Minister causing an inquiry to be held are to be read as references to the appointed person.
+
+(3) Section 322A of the Town and Country Planning Act 1990[^f00004] (orders as to costs where no hearing or inquiry takes place) applies in relation to a hearing or inquiry under these Regulations as it applies in relation to a hearing or local inquiry referred to in that section.
+
+(4) Subject to paragraphs (1) and (3), the costs of a hearing or an inquiry held under these Regulations must be defrayed by the Welsh Ministers.
+
+### 19. Concurrent or combined inquiries[^key-5319ca24b1f71ffceb3e2a2f2b06c5fa]
+
+(1) Paragraph (2) applies where—
+
+- (a) the appeal is to be determined by way of an inquiry, and
+- (b) in the case of some other matter required or authorised to be the subject of an inquiry (“the other inquiry”), it appears to the relevant authority or authorities that the matters are so far cognate that they should be considered together.
+
+(2) The relevant authority or authorities may direct that the two inquiries be held concurrently or combined as one inquiry.
+
+(3) In this regulation “the relevant authority or authorities” means the appointed person or, where causing the other inquiry to be held is the function of some other person, the appointed person and that other person acting jointly.
+
+### 20. National security — inquiries[^key-7cdcf398d05cd978893fb10eecc58a8d]
+
+(1) If, in the case of any particular appeal, the Secretary of State certifies that it would in the opinion of the Secretary of State be contrary to the interests of national security—
+
+- (a) if an inquiry under these Regulations were to be held, or
+- (b) if any members of the public, or any specified persons, were to be admitted to the inquiry or some specified part of it,
+
+the inquiry is not to be held or, as the case may be, the public is not, or those persons are not, to be admitted to the inquiry or that part of it.
+
+(2) In paragraph (1) “specified” means—
+
+- (a) specified in the certificate, or
+- (b) of a description specified in the certificate.
+
+## PART 6 — Final determination of the appeal
+
+### 21. Determination of appeals determined by way of written representations[^key-30bba48d192bea668644f008babaf702]
+
+(1) This regulation applies if an appeal is to be determined by way of written representations.
+
+(2) A valid notice of appeal and the documents accompanying it, together with any representations or comments made by the appellant received under regulation 10(1)(b) and (4) within the relevant time limit, comprise the appellant’s representations in relation to the appeal.
+
+(3) The representations made under regulation 10(1)(a) within the relevant time limit, together with any comments made by the Licensing Authority under regulation 10(4) within the relevant time limit, comprise the Licensing Authority’s representations in relation to the appeal.
+
+(4) In determining the appeal, the appointed person may disregard any representation or comment made by the appellant or the Licensing Authority other than the appellant’s representations and the Licensing Authority’s representations as set out in paragraphs (2) and (3).
+
+### 22. Determining the appeal — general[^key-58a22eefb0e9272d5b1e30ec683edbc5]
+
+(1) On determining an appeal against a decision, the appointed person may—
+
+- (a) dismiss the appeal;
+- (b) allow the appeal and quash the decision in whole or in part;
+- (c) where the appointed person quashes a decision under sub-paragraph (b), direct the Licensing Authority—
+  - (i) to grant a marine licence; or
+  - (ii) to grant a marine licence on such terms or subject to such conditions as the appointed person may direct.
+
+(2) The appointed person must notify the appellant and the Licensing Authority in writing of the determination.
+
+## PART 7 — Supplementary provisions
+
+### 23. Failure to take action[^key-eaa6ac15b7934ce03274d022d072194c]
+
+(1) This regulation applies where the appellant or the Licensing Authority has failed, within relevant time limits, to take any step or provide any information required under these Regulations.
+
+(2) The appointed person may, after giving the appellant and the Licensing Authority notice of the intention to do so, determine an appeal even though that step has not been taken or that information has not been provided.
+
+### 24. Supply of documents etc[^key-a0cca12f64370ce5a97c425d5ff5bb90]
+
+(1) Anything required or permitted to be supplied (including any representations made) under these Regulations must be in writing.
+
+(2) If a document supplied refers to another document, a copy of that other document must also be supplied.
+
+(3) Anything required or permitted to be supplied under these Regulations may be supplied electronically if—
+
+- (a) it is capable of being accessed by the recipient;
+- (b) the information contained in it is available to the recipient to no lesser extent than it would be if it were in printed form;
+- (c) it is sufficiently permanent to be used for subsequent reference; and
+- (d) the recipient consents to it being supplied electronically.
+
+(4) Documents and copies supplied —
+
+- (a) by the appellant or the Licensing Authority must be supplied in duplicate;
+- (b) by any other person, must be supplied in triplicate.
+
+(5) But paragraph (4) does not apply to a document or copy—
+
+- (a) required to accompany a notice of appeal under regulation 7(1)(d) and (2), or
+- (b) supplied electronically.
+
+(6) If any document has already been supplied for the purposes of an appeal and is readily available to all parties, the appointed person may direct that it need not be supplied again.
+
+### 25. Extending relevant time limits and providing additional information or copies[^key-33e3f71dcb7e9cc269825126080e3c10]
+
+(1) The appointed person may at any time, in exceptional circumstances, extend any relevant time limit.
+
+(2) The appointed person may at any time—
+
+- (a) require further exchanges of information,
+- (b) offer further opportunities to make representations,
+- (c) require any person to provide further information relevant to the appeal or additional copies of any document,
+
+if the appointed person considers that it is necessary for the determination of the appeal.
+
+(3) A person who is subject to a requirement, or who is offered an opportunity to make further representations, under paragraph (2), must comply with any time limit specified by the appointed person.
+
+Jane Davidson
+
+Minister for Environment, Sustainability and Housing, one of the Welsh Ministers
+
+22 March 2011
+
+(This note is not part of the Regulations)
+
+These Regulations establish an appeals procedure in relation to decisions taken under section 71 of the Marine and Coastal Access Act 2009. They apply in relation to any licensable marine activity for which the Welsh Ministers are the appropriate licensing authority under section 113 of that Act.
+
+Part 1 (regulations 1 to 3) deals with introductory matters.
+
+Part 2 (regulations 4 and 5) contains provisions setting out a right of appeal to the Welsh Ministers against marine licensing decisions and requiring the Welsh Ministers to appoint a person to determine such appeals.
+
+Part 3 (regulations 6 to 8) contains provisions relating to time limits for, and contents of, notices of appeal, and decisions as to appeal procedure.
+
+Part 4 (regulations 9 and 10) contains provisions relating to notices, representations and comments.
+
+Part 5 (regulations 11 to 20) contains provisions relating to hearings and inquiries.
+
+Part 6 (regulations 21 and 22) contains provisions relating to the determination of the appeal.
+
+Part 7 (regulations 23 to 25) contains supplementary provisions relating to failure to take action, supply of documents, extending deadlines and providing additional information.
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Marine Consents Unit, Welsh Assembly Government, Cathays Park, Cardiff, CF10 3NQ, or at the Welsh Assembly Government website at www.wales.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-a2fc7617f1c268bdddc3618a12721534]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-1d5a124889ac779a1419b873f09db7f1]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^f00002]: Footnote: By virtue of section 113(4)(b) of the Marine and Coastal Access Act 2009, the Welsh Ministers are the appropriate licensing authority as respects anything done in the course of carrying on licensable marine activities in Wales and the Welsh inshore region, other than activities for which the Secretary of State is the licensing authority under section 113(4)(a) and (5) of that Act. See section 322(1) for a definition of that region.
+
+[^key-5615bfe33c25e1d6df50c141704f67b9]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-9cd6a74d145ced3198e401334ec89afe]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-9b6b4a7227451046443eb5ae0a7e37cb]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-1f2f3bb54eb950a857c3cda06b4075d8]: Commencement: Reg. 6 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^M_F_46e62e93-9e0a-453f-ea43-8ac51baea83d]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2011/925/regulation/6) renumbered as reg. 6(1) (1.4.2013) by [The Marine Licensing (Delegation of Functions) (Wales) Order 2013 (S.I. 2013/414)](https://www.legislation.gov.uk/uksi/2013/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/414/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2013/414/article/6/2) (with [arts. 2](https://www.legislation.gov.uk/uksi/2013/414/article/2), [7](https://www.legislation.gov.uk/uksi/2013/414/article/7))
+
+[^key-6385a0b9640ae3f90357390efb434650]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/6/2) inserted (1.4.2013) by [The Marine Licensing (Delegation of Functions) (Wales) Order 2013 (S.I. 2013/414)](https://www.legislation.gov.uk/wsi/2013/414), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/414/article/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2013/414/article/6/3) (with [arts. 2](https://www.legislation.gov.uk/wsi/2013/414/article/2), [7](https://www.legislation.gov.uk/wsi/2013/414/article/7))
+
+[^key-8eabe1df84192aaef1138926c1a102a1]: Commencement: Reg. 7 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-82708d4addcdf73339605456564167ae]: Commencement: Reg. 8 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-43d31e007e2a4818d0ae712a3d3edcba]: Commencement: Reg. 9 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-ef6f50b87e92401807c5c097874fb4a5]: Commencement: Reg. 10 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-d02061ac66e5fdbe7dc8adba10832055]: Commencement: Reg. 11 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-ffa6813bbf9d8899327b7cc0b96af1a5]: Commencement: Reg. 12 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-2259f5f3ffc6b065203fc2f28d586502]: Commencement: Reg. 13 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-48f6ed4520eecc72c556564e41b32a7b]: Commencement: Reg. 14 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-3d2019f71218af10f541a7d17c340728]: Commencement: Reg. 15 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-b4518b52a379ae9535d9f4a11537db56]: Commencement: Reg. 16 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-63e19c90353524298fbc22f4752ac423]: Commencement: Reg. 17 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-147bedc91606c22ad3a2492fb425647b]: Commencement: Reg. 18 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^f00003]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 250 has been amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37, 38 and 46, by the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), section 49(2) and Schedule 12 and by the Statute Law (Repeals) Act [1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43).
+
+[^f00004]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 322A was inserted by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 30(1), and subsection (1A) of that section was inserted by the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), section 196(4) and Schedule 10, paragraphs 1 and 11.
+
+[^key-5319ca24b1f71ffceb3e2a2f2b06c5fa]: Commencement: Reg. 19 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-7cdcf398d05cd978893fb10eecc58a8d]: Commencement: Reg. 20 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-30bba48d192bea668644f008babaf702]: Commencement: Reg. 21 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-58a22eefb0e9272d5b1e30ec683edbc5]: Commencement: Reg. 22 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-eaa6ac15b7934ce03274d022d072194c]: Commencement: Reg. 23 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-a0cca12f64370ce5a97c425d5ff5bb90]: Commencement: Reg. 24 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+
+[^key-33e3f71dcb7e9cc269825126080e3c10]: Commencement: Reg. 25 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)

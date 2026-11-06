@@ -1,0 +1,54 @@
+---
+title: Welsh Language (Wales) Measure 2011, section 12
+act: Welsh Language (Wales) Measure 2011
+section: '12'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/mwa/2011/1/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Welsh Language (Wales) Measure 2011, section 12
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/mwa/2011/1
+>
+> Extent: England, Wales.
+
+## 12. Staff[^key-6f85b1fc64004e9d9d704dae7fa90486]
+
+*Extent: E+W*
+
+(1) The Commissioner—
+
+- (a) must appoint a person to be the Deputy Welsh Language Commissioner (referred to in this Measure as “the Deputy Commissioner”), and
+- (b) may appoint such other staff as the Commissioner thinks appropriate in connection with the exercise of his or her functions.
+
+(2) References in this Measure to the Commissioner's staff are to the Deputy Commissioner and other staff.
+
+(3) The Commissioner may pay remuneration to the members of the Commissioner's staff.
+
+(4) The Commissioner may pay allowances (including, but not limited to, travelling and subsistence allowances) and gratuities to the members of the Commissioner's staff.
+
+(5) The Commissioner may pay—
+
+- (a) pensions to, or in respect of, persons who have been members of the Commissioner's staff, and
+- (b) amounts for or towards provision of pensions to, or in respect of, persons who have been members of the Commissioner's staff.
+
+(6) The Commissioner must obtain the approval of the Welsh Ministers for—
+
+- (a) the number of staff that may be appointed,
+- (b) the terms and conditions of service of the staff, and
+- (c) payments made under any of subsections (3) to (5).
+
+(7) The First Minister must appoint the Deputy Commissioner if—
+
+- (a) the office of Commissioner is vacant, or
+- (b) it appears to the First Minister that the Commissioner will fail to appoint the Deputy Commissioner in accordance with this section.
+
+(8) For provision about the integrity of the Deputy Commissioner, see Chapter 1 of Part 8.
+
+## Annotations
+
+[^key-6f85b1fc64004e9d9d704dae7fa90486]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2011/1/section/12) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)

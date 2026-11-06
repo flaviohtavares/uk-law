@@ -1,0 +1,204 @@
+---
+title: The Operation of the Local Curriculum (Wales) Regulations 2013
+id: wsi/2013/1793
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-07-16'
+text_date: '2022-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2013/1793
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2013/1793/pdfs/wsi_20131793_mi.pdf
+- http://www.legislation.gov.uk/wsi/2013/1793/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Operation of the Local Curriculum (Wales) Regulations 2013
+
+> Text as at 2022-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 1793 (W. 180)
+
+Education, Wales
+
+The Operation of the Local Curriculum (Wales) Regulations 2013
+
+Made
+
+16 July 2013
+
+Laid before the National Assembly for Wales
+
+19 July 2013
+
+Coming into force
+
+1 September 2013
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 46 and 48(2) of the Learning and Skills (Wales) Measure 2009[^f00001] make the following Regulations:
+
+## 1. Title, commencement and application[^key-a861bf9fa7e6d9bd47cebe271ef9a652]
+
+(1) The title of these Regulations is the Operation of the Local Curriculum (Wales) Regulations 2013 and they come into force on 1 September 2013.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation[^key-63f0a450f9e4fdbdf7f9cd35de6f1e7e]
+
+In these Regulations—
+
+- “1992 Act” (“*Deddf 1992*”) means the Further and Higher Education Act 1992[^f00002];
+- “1996 Act” (“*Deddf 1996*”) means the Education Act 1996[^f00003];
+- “1998 Act” (“*Deddf 1998*”) means the School Standards and Framework Act 1998[^f00004];
+- “2000 Act” (“*Deddf 2000*”) means the Learning and Skills Act 2000[^f00005];
+- “2002 Act” (“*Deddf 2002*”) means the Education Act 2002[^f00006];
+- “compulsory school age” (“*oedran ysgol gorfodol*”) has the meaning given by section 8 of the 1996 Act;
+- “course of study” means a course of education or training that—[^key-2a108bb62c38486dc51ff9fc1a5f9948]
+  - (a) leads to a form of qualification or set of forms of qualification approved under Part 4 of the Qualification Wales Act 2015 or designated under Part 5 of that Act, or
+  - (b) is designated by the Welsh Ministers under section 34(8) of that Act;
+- [^key-c7b6fd3699e20961b16597c2a315117e]...
+- “[^key-c5b067444bce46d7e456d7080d8ee7eb]**local curriculum**” (“***cwricwlwm lleol***”), in relation to students who are above compulsory school age but have not attained the age of nineteen, has the meaning given by section 33N of the 2000 Act;
+- “local curriculum student” (“*myfyriwr cwricwlwm lleol*”) means a person who, in order to follow a course of study included within a local curriculum, attends a school where he or she is not a registered pupil or an institution where he or she is not enrolled as a full-time student; and
+- “registered pupil” (“*disgybl cofrestredig*”) has the meaning given by section 434(5) of the 1996 Act.
+
+## 3. Application of legislation related to education to pupils and students following courses of study in the local curriculum[^key-d87956d469573ae29ae72dce05d6c454]
+
+For the purposes of the following provisions a local curriculum student is to be taken to be a student of, or at, an institution within the further education sector, a person receiving education at such an institution or a person attending such an institution—
+
+- (a) section 43 of the Education (No. 2) Act 1986[^f00007];
+- (b) sections 18(3)(c), 44(2A), 85B and 85C of the 1992 Act;
+- (c) sections 20 and 22 of the Education Act 1994[^f00008]; and
+- (d) section 45 of the Education Act 1997[^f00009].
+
+**4.**[^key-34cfe86673880ff8ec527b91ff3be332] Save where these Regulations provide otherwise, a local curriculum student who is being provided with part-time education at a school is to be taken to be a pupil at the school for the purposes of the 1996 Act (despite section 3(1)(b) of that Act).
+
+**5.**[^key-a4828d551f6d5b0bbaae06e35518dc6e] For the purpose of section 316 of the 1996 Act a child is to be taken as being educated in a school if the child is a registered pupil at a school who is following a course of study included within the local curriculum for the school and that course is provided at a place other than a school.
+
+**6.**[^key-3cedc4d4256490dd8518c3716a274a61] (1) For the purposes of the following provisions a local curriculum student is to be taken to be a registered pupil at a school—
+
+- (a) sections 317(1)(c), 451(1), 452(6), 453, 454(1), (3), (4), 455(1), 457(3), and 460 of the 1996 Act;
+- (b) section 462(2) of the 1996 Act in so far as the definition of “residential trip” applies to sections 452 and 455(1)(d) of the 1996 Act;
+- (c) section 62 of the 1998 Act; and
+- (d) section 29(3) of the 2002 Act.
+
+(2) The definition of “residential trip” in section 462(2) of the 1996 Act includes, for the purpose of section 457(4) of the 1996 Act, a trip arranged by or on behalf of a governing body of another maintained school where pupils attend for the purposes of following a course of study within the local curriculum.
+
+(3) For the purposes of Chapter 3 of the 1996 Act, in addition to the circumstances set out in section 462(3) of that Act, a pupil is to be regarded as having been prepared at a school where the pupil is a registered pupil for a syllabus for a prescribed public examination if any part of the education provided with a view to preparing the pupil for that examination in that syllabus has been provided for the pupil at another school or place where the pupil has attended for the purpose of following a course of study within the local curriculum.
+
+**7.**[^key-2f76368a69072f1dbeb5769de2a5116f] For the purposes of the following provisions a local curriculum student is to be taken as a person attending a school or a person who is being educated in a school—
+
+- (a) section 317(4) of the 1996 Act; and
+- (b) section 45 of the Education Act 1997.
+
+**8.**[^key-9efbc8110781e15a200fa3fd3f3adb0e] For the purposes of the following provisions a local curriculum student is not to be taken to be a pupil at a school or in attendance at a school—
+
+- (a) section 434 of the 1996 Act; and
+- (b) section 52 of the 2002 Act.
+
+**9.**[^key-f240b3c9286ecfc66eeabf3031f480dd] For the purposes of section 450 of the 1996 Act no charge may be made in respect of a person’s admission to a maintained school in order to follow a course of study included within a local curriculum (even if that person is receiving part-time education suitable to the requirements of persons of any age over compulsory school age).
+
+**10.**[^key-03ba71e2aa6ca201e5fc5eafff94f890] Section 80 of the 1998 Act does not apply in relation to part-time education provided to a local curriculum student.
+
+**11.**[^key-fdd579886e3e49cfe2bbcac53adb5104] (1) Any arrangements which are made for a person to follow a course of study included within a local curriculum at a school where that person is not a registered pupil, or is not proposing to become a registered pupil, are not to be taken to be admission arrangements for the purposes of Part 3 of the 1998 Act.
+
+(2) The requirement to make arrangements under sections 86 and 86A of the 1998 Act does not apply in relation to any preference as to the school where a particular course of study within a local curriculum is to be followed where that school is different from the school where a child or a child’s parents wish the child to be a registered pupil.
+
+(3) The determination of the number of pupils made under section 89A of the 1998 Act whom it is intended to admit to a school in a particular school year is not to include the number of local curriculum students that are likely to attend the school in that year.
+
+(4) The duty in section 94 of the 1998 Act to make arrangements for enabling persons to appeal does not apply in relation to any decision as to the school where a person may follow a course of study included within a local curriculum where that school is different from the school where a child or a child’s parents wish the child to be a registered pupil.
+
+**12.**[^key-3ef73b7f2d1cbaa064952ef7753f70a2] Where the measures determined by a head teacher under section 89 of the Education and Inspections Act 2006[^f00010] that may be taken with a view to regulating the conduct of pupils include the detention of pupils outside school sessions, the parents of a local curriculum students are to be taken to be parents of registered pupils for the purposes of section 92(3)(b) and (d) of that Act if those measures are to apply in relation to local curriculum students.
+
+**13.**[^key-e3fd27c206c188cf8195282bc0fd00d3] (1) Where––
+
+- (a) a person has elected to follow a course of study under [^key-2bf3fd4b725e583c629d87830bded108]... section 33E(1) of the 2000 Act, and
+- (b) that course of study is not provided at the school where the person is a registered pupil or the institution where the person is enrolled as a full time student,
+
+the responsible body for the school or institution which provides the course of study is, in relation to that person, to be taken to be making arrangements for deciding who is offered admission, to be offering to admit or to be not admitting for the purpose of sections 85(1) and (4) and 91(1) and (6) of the Equality Act 2010[^f00011].
+
+(2) Where—
+
+- (a) a person has elected to follow a course of study under [^key-8e44b975f1e2a9f8532b04e268361204]... section 33E(1) of the 2000 Act, and
+- (b) that course of study is not provided at the school where the person is a registered pupil or the institution where the person is enrolled as a full time student,
+
+that person is to be taken to be a person who has applied for admission for the purpose of sections 85(3)(b) and 91(5)(b) of the Equality Act 2010.
+
+Huw Lewis
+
+Minister for Education and Skills, one of the Welsh Ministers
+
+16 July 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to the operation of the local curriculum, introduced by the Learning and Skills (Wales) Measure 2009. They set out how various provisions of education related legislation are applied in relation to pupils and students following courses of study for the purpose of the local curriculum provided at a school or institution other than their own. The Regulations make it clear when they are to be taken as a pupil or student of that other school or institution.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 nawm 1](https://www.legislation.gov.uk/mwa/2009/1).
+
+[^key-a861bf9fa7e6d9bd47cebe271ef9a652]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^key-63f0a450f9e4fdbdf7f9cd35de6f1e7e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2013/1793/regulation/2) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^f00002]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13).
+
+[^f00003]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^f00004]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^f00005]: Footnote: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21).
+
+[^f00006]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^key-2a108bb62c38486dc51ff9fc1a5f9948]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2013/1793/regulation/2) substituted (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [15](https://www.legislation.gov.uk/wsi/2016/236/regulation/15)
+
+[^key-c7b6fd3699e20961b16597c2a315117e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2013/1793/regulation/2) omitted (with effect in accordance with reg. 9(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/9/3/a)
+
+[^key-c5b067444bce46d7e456d7080d8ee7eb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2013/1793/regulation/2) substituted (with effect in accordance with reg. 9(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/9/3/b)
+
+[^key-d87956d469573ae29ae72dce05d6c454]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2013/1793/regulation/3) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^f00007]: Footnote: [1986 c.61](https://www.legislation.gov.uk/ukpga/1986/61).
+
+[^f00008]: Footnote: [1994 c.30](https://www.legislation.gov.uk/ukpga/1994/30).
+
+[^f00009]: Footnote: [1997 c.44](https://www.legislation.gov.uk/ukpga/1997/44).
+
+[^key-34cfe86673880ff8ec527b91ff3be332]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2013/1793/regulation/4) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^key-a4828d551f6d5b0bbaae06e35518dc6e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2013/1793/regulation/5) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^key-3cedc4d4256490dd8518c3716a274a61]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^key-2f76368a69072f1dbeb5769de2a5116f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2013/1793/regulation/7) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^key-9efbc8110781e15a200fa3fd3f3adb0e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2013/1793/regulation/8) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^key-f240b3c9286ecfc66eeabf3031f480dd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2013/1793/regulation/9) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^key-03ba71e2aa6ca201e5fc5eafff94f890]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2013/1793/regulation/10) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^key-fdd579886e3e49cfe2bbcac53adb5104]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2013/1793/regulation/11) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^key-3ef73b7f2d1cbaa064952ef7753f70a2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2013/1793/regulation/12) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^f00010]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^key-e3fd27c206c188cf8195282bc0fd00d3]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2013/1793/regulation/13) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1)
+
+[^key-2bf3fd4b725e583c629d87830bded108]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/13/1/a) omitted (with effect in accordance with reg. 9(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/9/4/a)
+
+[^f00011]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^key-8e44b975f1e2a9f8532b04e268361204]: Textual amendment: Words in [reg. 13(2)(a)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/13/2/a) omitted (with effect in accordance with reg. 9(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/9/4/b)

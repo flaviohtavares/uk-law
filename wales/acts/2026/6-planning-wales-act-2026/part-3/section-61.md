@@ -1,0 +1,47 @@
+---
+title: Planning (Wales) Act 2026, section 61
+act: Planning (Wales) Act 2026
+section: '61'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/6/section/61
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning (Wales) Act 2026, section 61
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 61. Right to appeal against notice of invalidity[^key-d6f6c250074a5d7afd33ce28f6fc3b71]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) If a planning authority gives an applicant notice under section 60, the applicant may appeal to the Welsh Ministers.
+
+(2) An appeal may be made on either or both of the following grounds—
+
+- (a) that the application complies with the requirement identified in the notice;
+- (b) that the application is not one to which the requirement applies.
+
+(3) In the case of a notice given under section 60(2) in relation to a requirement imposed under section 56(4), an appeal may also be made on either or both of the following grounds—
+
+- (a) that the period specified under section 63(2)(f) or 73(4) begins to run in relation to the application irrespective of whether the requirement is complied with;
+- (b) that the requirement does not comply with section 56(5).
+
+(4) An appeal must be made by serving a notice of appeal on the Welsh Ministers.
+
+(5) Regulations may make provision about—
+
+- (a) the form and content of a notice of appeal;
+- (b) information that must be included with a notice of appeal;
+- (c) the way in which, and period within which, a notice of appeal must be served (which may include provision enabling the Welsh Ministers to extend the period).
+
+## Annotations
+
+[^key-d6f6c250074a5d7afd33ce28f6fc3b71]: Commencement: S. 61 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

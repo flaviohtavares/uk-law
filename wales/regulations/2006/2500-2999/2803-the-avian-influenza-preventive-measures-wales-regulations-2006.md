@@ -1,0 +1,445 @@
+---
+title: The Avian Influenza (Preventive Measures) (Wales) Regulations 2006
+id: wsi/2006/2803
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-10-18'
+text_date: '2024-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2006/2803
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2006/2803/pdfs/wsi_20062803_mi.pdf
+- http://www.legislation.gov.uk/wsi/2006/2803/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Avian Influenza (Preventive Measures) (Wales) Regulations 2006
+
+> Text as at 2024-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2006 No. 2803 (W.242)
+
+ANIMALS, WALES
+
+ANIMAL HEALTH
+
+The Avian Influenza (Preventive Measures) (Wales) Regulations 2006
+
+Made
+
+18 October 2006
+
+Coming into force
+
+13 November 2006
+
+The National Assembly for Wales is designated for the purposes of section 2(2) of the European Communities Act 1972 [^c16928891] in relation to the common agricultural policy of the European Community [^c16928901].
+
+Exercising the powers conferred upon it by that section, the National Assembly for Wales makes the following Regulations:
+
+## 1. Title, application and commencement
+
+(1) The title of these Regulations is the Avian Influenza (Preventive Measures) (Wales) Regulations 2006.
+
+(2) These Regulations apply in relation to Wales and come into force on 13 November 2006.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the Act**” (“***y Ddeddf***”) means the Animal Health Act 1981 [^c16928911];
+- “**avian influenza**” (“***ffliw adar***”) means an infection of poultry or other captive birds caused by any influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
+- “**disinfect**” (“***diheintio***”) means disinfect with a disinfectant approved by the National Assembly under the Diseases of Animals (Approved Disinfectants) Order 1978 [^c16928921] for use under the Diseases of Poultry Order [^c16928931];
+- “**inspector**” (“***arolygydd***”) means an inspector appointed by the National Assembly or by a local authority for the purposes of these Regulations or under the Act and, unless the context otherwise requires, includes a veterinary inspector;
+- “**keeper**” (“***ceidwad***”) means the person with day to day responsibility for poultry or other captive birds at any premises;
+- “**local authority**” (“***awdurdod lleol***”) means in relation to an area the county council or county borough council for that area;
+- “**National Assembly**” (“***Cynulliad Cenedlaethol***”) means the National Assembly for Wales;
+- “**occupier**” (“***meddiannydd***”) means, in relation to any premises, the person in charge of those premises;
+- “**other captive bird**” (“***aderyn caeth arall***”) means any bird kept in captivity which is not poultry and includes a pet bird and any bird kept for shows, races, exhibitions, competitions, breeding or for sale;
+- “**poultry**” (“***dofednod***”) means all birds that are reared or kept in captivity for the production of meat or eggs for consumption, the production of other commercial products, for restocking supplies of game or for the purposes of any breeding programme for the production of these categories of birds;
+- “**premises**” (“***mangre***”) includes any land, building or place;
+- “**vaccinate**” (“***brechu***”) means treat poultry or other captive birds with vaccine against avian influenza;
+- “**vehicle**” (“***cerbyd***”) includes—
+  - (a) a trailer, semi-trailer or other thing designed or adapted to be towed by another vehicle;
+  - (b) a detachable part of any vehicle; and
+  - (c) a container or other structure designed or adapted to be carried on a vehicle;
+- “**veterinary inspector**” (“***arolygydd milfeddygol***”) means a person appointed as such by the National Assembly for the purposes of these Regulations or under the Act;
+- “**zoo**” (“***sw***”) means either—
+  - (i) a permanent establishment where animals of wild species are kept for exhibition to the public for seven or more days a year, with the exception of circuses and pet shops; or
+  - (ii) an approved body, institute or centre, as defined in point (c) of Article 2(1) of Council Directive 92/65 EC laying down animal health requirements governing trade in and imports into the European Union[^key-fca3ee6109ff9928b2f04eecb812aed7] of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(I) to Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425) [^c16928941], as last amended by Council Directive [2004/68/EC](https://www.legislation.gov.uk/eudr/2004/68) [^c16928951].
+
+## 3. Licences and notices
+
+(1) Licences and notices under these Regulations must be in writing and may be amended, suspended or revoked in writing at any time.
+
+(2) Licences under these Regulations may be general or specific and subject to such conditions as the person granting them considers necessary.
+
+## 4. Licences granted in England or Scotland
+
+Licences granted in England or Scotland for activities that could be licensed in Wales under these Regulations have effect in Wales as if they were granted under these Regulations, but an inspector acting under the direction of the National Assembly may serve a notice on any person moving any thing under the authority of such a licence, directing him or her to move it to and keep it on premises specified in the notice or move it out of Wales.
+
+## 5. Production of licences
+
+(1) A person moving anything under the authority of a specific licence granted under these Regulations must—
+
+- (a) keep the licence or a copy of it with him or her at all times during the licensed movement;
+- (b) on demand by an inspector, veterinary inspector or other officer of the National Assembly, produce the licence or copy and allow a copy or extract of it to be taken; and
+- (c) on such demand, provide his or her name and address.
+
+(2) A person moving anything under the authority of a general licence granted under these Regulations must—
+
+- (a) keep with him or her, at all times during the licensed movement, a consignment note that contains details of—
+  - (i) what is moved, including its quantity;
+  - (ii) the date of the movement;
+  - (iii) the name of the consignor;
+  - (iv) the address of the premises from which the thing was moved;
+  - (v) the name of the consignee;
+  - (vi) the address of the premises to which the thing is being moved.
+- (b) on demand by an inspector, veterinary inspector or other officer of the National Assembly, produce the consignment note and allow a copy or extract to be taken; and
+- (c) on such demand, provide his or her name and address.
+
+## 6. Prohibition of bird gatherings
+
+(1) No person may arrange any fair, market, show, exhibition or other gathering involving the collecting together of poultry or other captive birds unless the National Assembly licenses him or her to do so.
+
+(2) No person may bring any poultry or other captive bird to such a gathering if he or she knows or suspects that the gathering is not so licensed.
+
+(3) The National Assembly must not grant a licence under paragraph (1) unless—
+
+- (a) a veterinary risk assessment has been carried out; and
+- (b) the National Assembly is satisfied that such a gathering and the transit of birds to and from such a gathering would not significantly increase the risk of the transmission of avian influenza virus.
+
+## 7. Notification of premises where poultry or other captive birds are kept[^key-a08ef98468f098b9d900b9b420fc7ca7]
+
+(1) A person who keeps poultry or other captive birds at any premises must notify the Welsh Ministers in writing of the following information in relation to the premises—
+
+- (a) the address and the holding number of the premises (if there is one);
+- (b) that person’s name and address and, if different from that person’s, those of—
+  - (i) the owner of the poultry or other captive birds; and
+  - (ii) the occupier of the premises;
+- (c) the species of poultry or other captive birds kept at the premises;
+- (d) the number of birds of each species of poultry or other captive birds kept at the premises; and
+- (e) the purpose or purposes for which the poultry or other captive birds are kept.
+
+(2) A person who keeps 50 or more poultry or other captive birds at any premises must notify the Welsh Ministers in writing of the following information in addition to the requirements set out in paragraph (1)—
+
+- (a) in relation to poultry—
+  - (i) the husbandry system or systems in use at the premises; and
+  - (ii) the purpose or purposes for which poultry is kept, whether for the production of meat, hatching eggs, eggs for consumption or any other purpose;
+- (b) details of any seasonal stocking variations which are likely to result in a significant variation in the number or species of poultry or other captive birds on the premises at any time during the 12 month period following a notification or update under paragraph (3); and
+- (c) details of the number and species of poultry or other captive birds with access to open air on the premises.
+
+(3) A notification made under paragraph (1) or (2) must be—
+
+- (a) made in writing on or before 1 October 2024; and
+- (b) updated online—
+  - (i) before 1 October 2025; and
+  - (ii) in each subsequent calendar year within 12 months of the update last made under this paragraph or paragraph (5).
+
+(4) A person who, after 1 September 2024, becomes the keeper of any poultry or other captive birds at any premises, must—
+
+- (a) within 30 days of becoming the keeper, notify the Welsh Ministers in writing of the information referred to in paragraph (1), and where applicable, in addition, of the information referred to in paragraph (2); and
+- (b) update that notification online in each subsequent calendar year, within 12 months of the update last made under this paragraph or paragraph (5).
+
+(5) A person who has made a notification under this regulation must update the notification within 30 days of any change of the following kinds—
+
+- (a) a change in any of the matters required to be notified under paragraph (1)(a), (b), (c), (e), or (2); and
+- (b) in relation to premises where 50 or more poultry or other captive birds are kept, an increase or decrease of 20% or more in the number of poultry or other captive birds specified under paragraph (2) unless this change is due to—
+  - (i) the emptying of poultry houses or hatcheries for immediate restocking; or
+  - (ii) seasonal stocking.
+
+(6) The Welsh Ministers may, by notice, require a person making a notification under paragraph (1) or (2) to notify information additional to that required under the paragraph in question.
+
+(7) A person required to notify information under paragraph (6) must do so within 30 days of receiving notice from the Welsh Ministers.
+
+(8) In this regulation and regulation 7A, “**access to open air**” means—
+
+- (a) a permanent or temporary housing of poultry or other captive birds in a fully or partially meshed, netted or caged outdoor structure, whether fixed or mobile, which is not fully enclosed within a building; or
+- (b) temporary removal of poultry or other captive birds from their housing in order to be flown freely outdoors.
+
+## 7A. Notification of premises where poultry or other captive birds are kept: exceptions[^key-34bce185d08d1da1ac1b522616888d95]
+
+The requirement to notify the Welsh Ministers under regulation 7 does not apply to keepers of other captive birds at any premises where the only other captive birds kept—
+
+- (a) belong to the order Psittaciformes or Passeriformes; and
+- (b) are housed on the premises fully within a dwelling or within a bird house with no direct access to open air.
+
+## 8. Restriction on vaccination of zoo birds
+
+(1) No person may vaccinate any zoo bird unless he or she is required or licensed to do so by the National Assembly.
+
+(2) Paragraph (1) does not apply to—
+
+- (a) anything done under the authority of a licence granted under article 4 of the Specified Animal Pathogens Order 1998 [^c16928991]; or
+- (b) administration of a vaccine for research purposes in accordance with an animal test certificate granted under regulation 8 of the Veterinary Medicines Regulations 2005 [^c16929001].
+
+## 9. Vaccination of zoo birds
+
+(1) If the condition in paragraph (2) is fulfilled, the National Assembly may—
+
+- (a) vaccinate such birds in such zoos as it considers necessary (after giving written notice to the occupier of such zoos);
+- (b) require (by written notice to the occupier of any zoo) the vaccination of any bird in the zoo; or
+- (c) license the occupier of a zoo to vaccinate any bird in the zoo.
+
+(2) The condition is that the National Assembly has carried out a risk assessment and considers there is a risk that avian influenza will be transmitted to zoo birds or to categories of such birds.
+
+(3) As part of its risk assessment, the National Assembly must consider whether a zoo is—
+
+- (a) on a migratory flyway;
+- (b) close to any body of water where migratory birds may gather;
+- (c) located in an area with a high density of migratory birds.
+
+(4) The National Assembly must specify, in a notice or licence under this regulation—
+
+- (a) the number and species of birds to be vaccinated;
+- (b) biosecurity conditions to be met at the zoo or any part of the zoo;
+- (c) conditions relating to the storage and administration of vaccine.
+
+(5) The National Assembly must ensure that vaccination is carried out in accordance with the preventive vaccination plan approved in accordance with Article 56(2) of Council[^key-bd84cf3b1e11864a6a08905c71a4f26f] [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza and repealing [Directive 92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040) as read with Article 5 of Commission Decision 2007/598 concerning measures to prevent the spread of highly pathogenic avian influenza to other captive birds kept in zoos and approved bodies, institutes or centres.
+
+## 10. Extension of the power to cause vaccination
+
+The following provisions of the Act apply as if vaccination under these Regulations was carried out in exercise of the power to vaccinate in section 16(1) of the Act—
+
+- (a) section 16(2) to (17) [^c16929021] (treatment after exposure to infection);
+- (b) section 16A [^c16929031] (slaughter of vaccinated animals);
+- (c) section 62A [^c16929041] (slaughter: power of entry).
+
+## 11. Restrictions relating to vaccinated zoo birds
+
+(1) No person may move any vaccinated zoo bird unless he or she is licensed to do so by a veterinary inspector or by an inspector acting under the direction of a veterinary inspector.
+
+(2) A veterinary inspector or inspector acting under his or her direction may only license the movement of vaccinated zoo birds—
+
+- (a) to a zoo in the United Kingdom or in a[^key-e99c671cdc31668971d50d67290f07cb] member State; or
+- (b) directly to a third country.
+
+(3) A veterinary inspector or inspector acting under his or her direction must not license a movement to a[^key-8f4d7dcd2ff116ad023b8f7e6b0b7ca9] member State or to a third country unless its competent authority has authorised the movement.
+
+(4) An inspector must supervise any movement licensed under paragraph (2) while the bird is in Wales.
+
+(5) No person may release any vaccinated zoo bird into the wild unless he or she is licensed to do so by a veterinary inspector.
+
+(6) No person may supply or sell, for human consumption, a product from a vaccinated zoo bird.
+
+(7) In this regulation, “**competent authority**” means—
+
+- (a) in relation to a member State, the authority in that member State authorised to carry out physical checks or administrative formalities in accordance with Council Directive [2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza and repealing Directive [92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040) [^c16929051]; and
+- (b) in relation to third countries, the authority in that third country authorised to regulate the importation of zoo birds.
+
+## 12. Surveillance at zoos
+
+The National Assembly must ensure that such surveillance for avian influenza as it considers necessary to limit the spread of avian influenza is carried out at any zoo where birds have been vaccinated under these Regulations.
+
+## 13. Failure to vaccinate birds
+
+Any person who knows or suspects that any bird has not been vaccinated as required by the National Assembly must immediately notify the Welsh Ministers[^key-ddbccc0a7c96db6f1d3371c83c397f7f].
+
+## 14. General duties relating to execution of these Regulations
+
+(1) Any person required to give reasonable assistance or information to a person performing a function under these Regulations must, unless he or she has reasonable cause, do so without delay.
+
+(2) No person may deface, obscure or remove any mark applied by an inspector under regulation 18(1).
+
+(3) No person may provide information which he or she knows to be false or misleading to a person performing a function under these Regulations.
+
+(4) The costs incurred by any person in taking action required, or in refraining from taking action prohibited, under these Regulations must be met by that person unless the National Assembly directs otherwise in writing.
+
+## 15. Production of records
+
+(1) A person required to produce a record by a person performing a function under these Regulations must do so without delay.
+
+(2) On production of the record, the person performing the function may—
+
+- (a) copy the record, in whatever form it is held;
+- (b) require any computer record to be produced in a form which can be taken away; and
+- (c) take any record away and retain it until he or she has carried out his or her functions under these Regulations.
+
+## 16. Change of occupation of premises under restriction
+
+(1) This regulation applies if the keeper of any poultry or other captive bird is unable to move it from premises on the termination of his or her right of occupation because of a movement restriction imposed under these Regulations and continues to apply for seven days after any such restriction has been removed.
+
+(2) The person entitled to occupation of the premises following that termination must—
+
+- (a) provide such facilities for feeding, tending or otherwise using the poultry or other captive bird (including selling it) as the keeper may reasonably require; and
+- (b) allow entry to the premises to that keeper and any person authorised by him or her at reasonable times for feeding, tending or otherwise using the poultry or other captive bird.
+
+(3) If the keeper is unable or unwilling to feed or tend the poultry or other captive bird, the person entitled to occupation of the premises must take such steps as are necessary to ensure it is properly fed and tended.
+
+(4) The keeper of the poultry or other captive bird is liable to pay the reasonable costs incurred under this regulation by any person feeding or tending it, or providing facilities for feeding, tending or otherwise using it.
+
+## 17. Disapplication of provisions to a person performing a function under these Regulations
+
+Provisions in these Regulations which prohibit or restrict the movement or use of any thing do not apply to the following in their performance of any function under these Regulations—
+
+- (a) the National Assembly;
+- (b) an inspector;
+- (c) any other person authorised by the National Assembly or by the local authority to perform a function under these Regulations.
+
+## 18. Powers of inspectors
+
+(1) An inspector performing a function under these Regulations may—
+
+- (a) mark any bird or other thing for identification purposes; and
+- (b) require, by notice, the person in charge of any vehicle or equipment to cleanse and disinfect it.
+
+(2) A veterinary inspector or an inspector acting under his or her direction may, when performing functions under these Regulations—
+
+- (a) cleanse and disinfect any part of premises or any thing on those premises;
+- (b) require, by notice, the occupier of any premises to cleanse and disinfect any part of those premises or any thing on those premises;
+- (c) require, by notice, the occupier of any premises or the keeper of any poultry or other captive bird—
+  - (i) to keep or isolate any poultry, other captive bird or animal in a specified place;
+  - (ii) to separate any poultry, other captive bird or animal from any other animal or bird.
+
+(3) The following provisions of the Act apply as if these Regulations were an Order made under the Act—
+
+- (a) section 63 (general powers of inspectors);
+- (b) section 64 (powers of inspectors as to poultry);
+- (c) section 64A [^c16929061] (powers of inspectors relating to retained[^key-3965ba7dd1b011b44ba952d5170b0739] EU law), and
+- (d) section 65(1) to (3) (power to detain vessels and aircraft).
+
+## 19. Powers of inspectors in case of default
+
+(1) If any person fails to comply with a requirement in or under these Regulations, an inspector may take such steps he or she considers necessary to ensure the requirement is met, at the expense of that person.
+
+(2) An inspector's powers under paragraph (1) include powers—
+
+- (a) to require, by notice, any person to take or refrain from specified action in respect of any place, animal, bird, vehicle, or other thing; and
+- (b) to seize and detain any thing.
+
+## 20. Offences
+
+(1) The following provisions of the Act apply as if these Regulations were an Order made under the Act—
+
+- (a) sections 66 and 66A [^c16929071] (refusal and obstruction);
+- (b) section 67 (issue of false licences etc.);
+- (c) section 68 (issue of licences etc. in blank);
+- (d) section 71 (other offences as to licences);
+- (e) section 71A [^c16929081] (prosecutions: time limit);
+- (f) section 73 (general offences);
+- (g) section 77 (money recoverable summarily); and
+- (h) section 79(1) to (4) (evidence and procedure).
+
+(2) Section 69 of the Act (falsely obtaining licences etc) applies as if licences granted under these Regulations were granted under an Order made under the Act.
+
+(3) Section 75 of the Act [^c16929091] (penalties for certain summary offences) applies as if these Regulations were an Order made under the Act except that any term of imprisonment on summary conviction must not exceed three months.
+
+## 21. Offences by bodies corporate
+
+(1) If an offence committed by a body corporate is shown—
+
+- (a) to have been committed with the consent or connivance of an officer; or
+- (b) to be attributable to any neglect on his or her part,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director of the body.
+
+(3) “**Officer**”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+## 22. Enforcement
+
+(1) Subject to paragraph (2), these Regulations must be enforced by the local authority.
+
+(2) The National Assembly may direct, in relation to cases of a particular description or to a particular case, that it will enforce these Regulations instead of the local authority.
+
+## 23. Revocations and savings
+
+(1) The Avian Influenza (Preventive Measures) (Wales) (No.2) Regulations 2005 [^c16929101] are revoked.
+
+(2) The Avian Influenza (Preventive Measures in Zoos) (Wales) (No.2) Regulations 2005 [^c16929111] are revoked.
+
+(3) The general licence for bird gatherings issued by the National Assembly under regulation 5 of the Avian Influenza (Preventive Measures) (Wales) (No.2) Regulations 2005 remains in force as if it were granted under regulation 6(1) of these Regulations.
+
+[^c16929121]Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+*(This note is not part of the Regulations)*
+
+**1**.These Regulations—
+
+- (a) revoke and replace the Avian Influenza (Preventive Measures) (Wales) (No.2) Regulations 2005 (SI 2005/3384 (W.268)) (“**the Main Regulations**”) and the Avian Influenza (Preventive Measures in Zoos) (Wales) (No.2) Regulations 2005 (SI 2005/3385 (W.269)) (“**the Zoos Regulations**”);
+- (b) continue to give effect to paragraph 2 of Article 2a of Commission Decision [2005/734/EC](https://www.legislation.gov.uk/european/decision/2005/0734) laying down biosecurity measures to reduce the risk of transmission of highly pathogenic avian influenza caused by influenza A virus of subtype H5N1 from birds living in the wild to poultry and other captive birds and providing for an early detection system in areas at particular risk (OJ No L 274, 20.10.2005, p. 105), as last amended by Commission Decision [2006/574/EC](https://www.legislation.gov.uk/european/decision/2006/0574) (OJ No L 228, 22.8.2006, p. 24);
+- (c) give effect to Commission Decision [2006/474/EC](https://www.legislation.gov.uk/european/decision/2006/0474) concerning measures to prevent the spread of highly pathogenic avian influenza caused by influenza A virus of subtype H5N1 to birds kept in zoos and approved bodies, institutes and centres in the Member States and repealing Decision [2005/744/EC](https://www.legislation.gov.uk/european/decision/2005/0744) (OJ No L 187, 8.7.2006, p. 37); and
+- (d) implement provisions requiring or dependant on the identification of poultry premises under Council Directive [2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza and repealing Directive [92/40/EC](https://www.legislation.gov.uk/european/directive/1992/0040) (OJ No L10, 14.1.2006, p16).
+
+**2.** Regulations 1 to 5 contain introductory provisions on definitions, licences and notices.
+
+**3.** Regulation 6 prohibits any person from arranging an unlicensed gathering of poultry or other captive birds. It also prohibits any person from bringing such birds to a bird gathering which he or she knows or suspects is unlicensed.
+
+**4.** Regulation 7 requires the keeper of 50 or more poultry on any one premises to notify the National Assembly for Wales (“**the National Assembly**”) of specified information relating to those poultry. This requirement now applies to all premises, not just to commercial premises as was the case under the Main Regulations. Regulation 7 also imposes a new obligation to inform the National Assembly of specified changes to this information.
+
+**5.** Regulations 8 to 13 relate to the vaccination of zoo birds. Regulation 8 contains a general prohibition on the unauthorised vaccination of zoo birds. Regulation 9 allows the National Assembly to vaccinate zoo birds, to require their vaccination or to license their vaccination. Regulation 11 sets out restrictions on the movement of vaccinated zoo birds.
+
+**6.** Regulations 14 to 16 place general obligations on those bound by these Regulations. Regulations 17 to 19 relate to the powers of those performing a function under these Regulations. Regulations 20 to 22 relate to offences and enforcement. Regulation 23 revokes the Main Regulations and the Zoos Regulations but provides that the general licence for bird gatherings issued under the Main Regulations continues to have effect.
+
+**7.** A regulatory appraisal of the effect that these Regulations will have has not been prepared because of the need to implement the measures referred to in paragraph 1(c) and (d) above as quickly as possible.
+
+## Annotations
+
+[^c16928891]: Marginal citation: 1972, c. 68.
+
+[^c16928901]: Marginal citation: [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766).
+
+[^c16928911]: Marginal citation: 1981, c 22; as amended by the [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42), [S.I](https://www.legislation.gov.uk/ukpga/2002/42/section/I). 1992/3293 and [S.I. 2003/1734](https://www.legislation.gov.uk/uksi/2003/1734). Other amendments are not relevant to these Regulations.
+
+[^c16928921]: Marginal citation: [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), amended by [S.I. 2005/583](https://www.legislation.gov.uk/uksi/2005/583) (W.49) and [S.I. 2006/1762](https://www.legislation.gov.uk/uksi/2006/1762) (W.184). Other amending instruments are not relevant to these Regulations.
+
+[^c16928931]: Marginal citation: The Diseases of Poultry Order is defined in [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32) as the Diseases of Poultry (Wales) Order 2003 ([S.I. 2003/1079](https://www.legislation.gov.uk/uksi/2003/1079) (W.148)) and the Avian Influenza and Influenza of Avian Origin in Mammals (Wales) Order 2006 ([S.I. 2006/1762](https://www.legislation.gov.uk/uksi/2006/1762) (W.184)).
+
+[^key-fca3ee6109ff9928b2f04eecb812aed7]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+
+[^c16928941]: Marginal citation: OJ No L 268, 14.9.1992, p. 54.
+
+[^c16928951]: Marginal citation: OJ No L 139, 30.4.2004, p. 321; *see* the corrected text as set out in the corrigendum to the Directive published in OJ No L 226, 25.6.2004, p.128.
+
+[^key-a08ef98468f098b9d900b9b420fc7ca7]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2006/2803/regulation/7) substituted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Wales) (Amendment) Regulations 2024 (S.I. 2024/795)](https://www.legislation.gov.uk/wsi/2024/795), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/795/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2024/795/regulation/3)
+
+[^key-34bce185d08d1da1ac1b522616888d95]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2006/2803/regulation/7A) inserted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Wales) (Amendment) Regulations 2024 (S.I. 2024/795)](https://www.legislation.gov.uk/wsi/2024/795), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/795/regulation/1/3), [4](https://www.legislation.gov.uk/wsi/2024/795/regulation/4)
+
+[^c16928991]: Marginal citation: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463), to which there is an amendment not relevant to these Regulations.
+
+[^c16929001]: Marginal citation: [S.I. 2005/2745](https://www.legislation.gov.uk/uksi/2005/2745).
+
+[^key-bd84cf3b1e11864a6a08905c71a4f26f]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/9/5) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c16929021]: Marginal citation: [Section 16](https://www.legislation.gov.uk/wsi/2006/2803/section/16) of the 1981 Act was amended by section 7 of the [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42).
+
+[^c16929031]: Marginal citation: [Section 16A](https://www.legislation.gov.uk/wsi/2006/2803/section/16A) of the 1981 Act was inserted by section 5 of the Animal Health Act 2002. It was extended to apply to avian influenza by [S.I. 2003/1734](https://www.legislation.gov.uk/uksi/2003/1734).
+
+[^c16929041]: Marginal citation: [Section 62A](https://www.legislation.gov.uk/wsi/2006/2803/section/62A) of the 1981 Act was inserted by section 8 of the Animal Health Act 2002.
+
+[^key-e99c671cdc31668971d50d67290f07cb]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/11/2/a) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8f4d7dcd2ff116ad023b8f7e6b0b7ca9]: Textual amendment: Word in [reg. 11(3)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/11/3) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c16929051]: Marginal citation: OJ No. L10, 14.1.2006, p. 16.
+
+[^key-ddbccc0a7c96db6f1d3371c83c397f7f]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2006/2803/regulation/13) substituted (1.4.2010) by [The Animals (Divisional Veterinary Managers) (Wales) Regulations 2010 (S.I. 2010/619)](https://www.legislation.gov.uk/wsi/2010/619), [regs. 1](https://www.legislation.gov.uk/wsi/2010/619/regulation/1), [4](https://www.legislation.gov.uk/wsi/2010/619/regulation/4)
+
+[^c16929061]: Marginal citation: Section 64A of the 1981 Act was inserted by the [Animal Health Act 1981 (Amendment) Regulations 1992 (S.I. 1992/3293)](https://www.legislation.gov.uk/uksi/1992/3293), [regulation 2](https://www.legislation.gov.uk/uksi/1992/3293/regulation/2).
+
+[^key-3965ba7dd1b011b44ba952d5170b0739]: Textual amendment: Words in [reg. 18(3)(c)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/18/3/c) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c16929071]: Marginal citation: [Section 66A](https://www.legislation.gov.uk/wsi/2006/2803/section/66A) of the 1981 Act was inserted by section 8(2) of the [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42).
+
+[^c16929081]: Marginal citation: [Section 71A](https://www.legislation.gov.uk/wsi/2006/2803/section/71A) of the 1981 Act was inserted by the [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42), [section 14](https://www.legislation.gov.uk/ukpga/2002/42/section/14).
+
+[^c16929091]: Marginal citation: [Section 75](https://www.legislation.gov.uk/wsi/2006/2803/section/75) was amended by the [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42), [section 13](https://www.legislation.gov.uk/ukpga/2002/42/section/13).
+
+[^c16929101]: Marginal citation: SI 2005/3384 (W.268).
+
+[^c16929111]: Marginal citation: SI 2005/3385 (W.269).
+
+[^c16929121]: Marginal citation: 1998, c. 38.

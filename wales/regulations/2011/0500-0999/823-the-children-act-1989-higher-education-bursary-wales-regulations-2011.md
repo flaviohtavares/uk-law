@@ -1,0 +1,157 @@
+---
+title: The Children Act 1989 (Higher Education Bursary) (Wales) Regulations 2011
+id: wsi/2011/823
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-16'
+text_date: '2026-02-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2011/823
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2011/823/pdfs/wsi_20110823_mi.pdf
+- http://www.legislation.gov.uk/wsi/2011/823/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Children Act 1989 (Higher Education Bursary) (Wales) Regulations 2011
+
+> Text as at 2026-02-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 823 (W.122)
+
+CHILDREN AND YOUNG PERSONS, WALES
+
+The Children Act 1989 (Higher Education Bursary) (Wales) Regulations 2011
+
+Made
+
+16 March 2011
+
+Coming into force in accordance with regulation 1
+
+The Welsh Ministers, in exercise of the powers conferred by sections 23C(5B) and 104(4) of the Children Act 1989[^f00001], make the following Regulations:
+
+In accordance with section 104A(3) and (4)[^f00002] of that Act, a draft of these Regulations was laid before, and approved by resolution of, the National Assembly for Wales.
+
+## 1. Title, commencement and application[^key-8e12df9050ff7d7d132920c2bfc3081e]
+
+(1) The title of these Regulations is the Children Act 1989 (Higher Education Bursary) (Wales) Regulations 2011.
+
+(2) These Regulations come into force on the day after the day on which they are made and apply in relation to Wales.
+
+## 2. Interpretation[^key-1563d8443b44c4afb1a0b54d1130cc7b]
+
+In these Regulations “the 1989 Act” (“*Deddf 1989*”) means the Children Act 1989.
+
+## 3. Relevant amount[^key-b6e14f12c64945d6759df241107f0750]
+
+“The relevant amount” (“*y swm perthnasol*”) for the purposes of section 23C(5A) of the 1989 Act is prescribed as £2,000.
+
+## 4. Meaning of “higher education”[^key-2b6d847383e6d97107833798d33eb77b]
+
+(1) “Higher education” (“*addysg uwch*”) for the purposes of section 23C(5A) of the 1989 Act is prescribed as a course of education that is—
+
+- (a) one of the following—
+  - (i) a first degree;
+  - (ii) a course for the Diploma of Higher Education;
+  - (iii) a course for the Higher National Diploma of the Business and Technician Education Council or Qualifications Scotland[^key-e77fc4f36ff2bc900d54a5b4623d163d];
+  - (iv) a course for the initial training of teachers;
+  - (v) a course for the further training of youth and community workers;
+  - (vi) a course (for entry to which a first degree or equivalent qualification is not normally required) in preparation for a professional examination at a higher level;
+- (b) of at least two academic years' duration (as a full-time course or as a part-time course expressed as its full time equivalent); and
+- (c) designated by or under Regulations made under section 22(1) of the Teaching and Higher Education Act 1998[^f00003] on the date on which the former relevant child[^f00004] starts the course.
+
+(2) For the purposes of sub-paragraph (vi) an examination at a higher level is one that is of a standard higher than—
+
+- (a) the examination at advanced level for the General Certificate of Education or the examination at higher level for the Scottish Certificate of Education; or
+- (b) the examination for the National Certificate or the National Diploma of the Business and Technician Education Council or Qualifications Scotland[^key-e0247a2230f0f95ff4eccf174cde96a8].
+
+## 5. Provision as to the payment of the relevant amount[^key-da23a7f57e8888cb6620150de0b6640a]
+
+(1) The local authority[^f00005] may pay the relevant amount to a former relevant child as a lump sum or by instalments.
+
+(2) In the case of a former relevant child who started higher education on or after 1 September 2010 but before 1 September 2011—
+
+- (a) if the relevant amount is to be paid as a lump sum, it must be paid by 30 June 2011; and
+- (b) if the relevant amount is to be paid by instalments—
+  - (i) the first instalment must be paid by 30 June 2011; and
+  - (ii) the final instalment must be paid before the end of the course or not more than four weeks after the start of the fourth year of the course, whichever is the earlier.
+
+(3) In the case of a former relevant child who starts higher education on or after 1 September 2011—
+
+- (a) if the relevant amount is to be paid as a lump sum, it must be paid by 31 December 2011 or not more than three months after the start of the course, whichever is later; and
+- (b) if the relevant amount is to be paid by instalments—
+  - (i) the first instalment must be paid by 31 December 2011 or not more than three months after the start of the course, whichever is later; and
+  - (ii) the final instalment must be paid before the end of the course or not more than four weeks after the start of the fourth year of the course, whichever is the earlier.
+
+(4) Before making any decision about payment of the relevant amount under paragraph (1) the local authority must, as far as reasonably practicable, ascertain and give due consideration to the wishes and feelings of the former relevant child.
+
+(5) The local authority may withhold payment of any unpaid balance of the relevant amount during any period when the former relevant child is not pursuing higher education in accordance with the pathway plan[^f00006] for that person.
+
+## 6. Recovery of the relevant amount by the local authority[^key-8baec71ea62b57e52c300f67e2d07a22]
+
+The local authority may recover the whole of the relevant amount or any part of it from a person to whom payment has been made if there has been a mistake as to the eligibility of that person for the payment.
+
+Leighton Andrews
+
+Minister for Children, Education and Lifelong Learning, one of the Welsh Ministers
+
+16 March 2011
+
+(This note is not part of the Regulations)
+
+These Regulations are made under section 23C(5B) of the Children Act 1989 (“the 1989 Act”). As this is the first time the powers in section 23C(5B)(b) (prescribing the meaning of “higher education” for the purposes of section 23C(5A)) have been exercised by the Welsh Ministers, the Regulations have been laid in draft before, and approved by a resolution of, the National Assembly for Wales in accordance with section 104A(3) and (4) of the 1989 Act.
+
+Regulation 3 prescribes that the relevant amount (higher education bursary) payable under section 23C(5A) of the 1989 Act by a local authority to a former relevant child is £2,000. A higher education bursary is payable to a former relevant child who begins a higher education course on or after 1 September 2010 in accordance with their pathway plan.
+
+A former relevant child is a person aged 18 or above who was previously either a relevant child or an eligible child for the purposes of the 1989 Act.
+
+A pathway plan is a plan setting out the advice, assistance and support which a local authority intend to provide to a former relevant child.
+
+Regulation 4 prescribes the meaning of “higher education” as being a course of higher education leading to a first degree or other qualification of an equivalent standard, that is of at least two years' duration (when taken as a full-time course or a part-time equivalent) and is designated by or under Regulations made under section 22 of the Teaching and Higher Education Act 1998.
+
+Regulation 5 makes provision for the payment of the higher education bursary as a lump sum or by instalments. It is for the local authority to decide on the method of payment having, as far as reasonably practicable, ascertained and given due consideration to the wishes and feelings of the former relevant child. If the higher education bursary is paid as a lump sum it must be paid by the local authority to the former relevant child during the first academic year of the course of higher education. If the higher education bursary is to be paid by instalment the first instalment must be paid during the first academic year of the course of higher education, with the final instalment being paid before the end of the course of higher education. Alternatively, if the course has a duration of 4 years or more, the final instalment must be paid in the first 4 weeks of the fourth year of the course.
+
+Regulation 5(5) allows the local authority to withhold any unpaid element of the higher education bursary during periods when a former relevant child is not pursuing the higher education course in accordance with their pathway plan.
+
+Regulation 6 makes provision for the local authority to recover any sums paid by mistake to any person.
+
+A regulatory impact assessment has been prepared in connection with these Regulations. A copy can be obtained from the Welsh Assembly Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Subsection (5B) of section 23C of the Children Act 1989 (“the 1989 Act”) was inserted by section 21(2) of the Children and Young Persons Act 2008 (“the 2008 Act”) (c.23). “Prescribed” means prescribed in Regulations made under the 1989 Act — *see* section 105 of the 1989 Act. “Appropriate national authority” means in relation to Wales the Welsh Ministers — *see* section 30A of the 1989 Act. Section 104(4) of the 1989 Act was amended by paragraphs 1 and 25 of Schedule 3 to the 2008 Act.
+
+[^f00002]: Footnote: Section 104A of the 1989 Act was inserted by section 39 of and paragraphs 1 and 26 of Schedule 3 to the 2008 Act. Section 104A (3) and (4) provide that the first regulations to be made in exercise of the power conferred by section 23C(5B)(b) shall not be made by the Welsh Ministers unless a draft of the statutory instrument has been laid before and approved by resolution of the National Assembly for Wales.
+
+[^key-8e12df9050ff7d7d132920c2bfc3081e]: Commencement: Reg. 1 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+
+[^key-1563d8443b44c4afb1a0b54d1130cc7b]: Commencement: Reg. 2 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+
+[^key-b6e14f12c64945d6759df241107f0750]: Commencement: Reg. 3 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+
+[^key-2b6d847383e6d97107833798d33eb77b]: Commencement: Reg. 4 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+
+[^key-e77fc4f36ff2bc900d54a5b4623d163d]: Textual amendment: Words in reg. 4(1)(a)(iii) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/11/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+
+[^f00003]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). At the time of making these Regulations relevant Regulations are the Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2009 ([S.I. 2009/2737](https://www.legislation.gov.uk/uksi/2009/2737)) and the Education (Student Support) (Dance and Drama) Regulations 1999 ([S.I. 1999/2263](https://www.legislation.gov.uk/uksi/1999/2263)).
+
+[^f00004]: Footnote: “Former relevant child” is defined in section 23C(1) of the 1989 Act. These Regulations relate to a former relevant child for whom a local authority in Wales was last responsible.
+
+[^key-e0247a2230f0f95ff4eccf174cde96a8]: Textual amendment: Words in reg. 4(2)(b) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/11/3/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+
+[^key-da23a7f57e8888cb6620150de0b6640a]: Commencement: Reg. 5 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+
+[^f00005]: Footnote: “The local authority” is the council of a county or county borough in Wales that was last responsible for a former relevant child.
+
+[^f00006]: Footnote: “Pathway plan” is defined in section 23E of the 1989 Act, inserted by section 3 of the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35).
+
+[^key-8baec71ea62b57e52c300f67e2d07a22]: Commencement: Reg. 6 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)

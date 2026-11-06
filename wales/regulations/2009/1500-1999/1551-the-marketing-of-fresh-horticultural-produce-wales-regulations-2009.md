@@ -1,0 +1,628 @@
+---
+title: The Marketing of Fresh Horticultural Produce (Wales) Regulations 2009
+id: wsi/2009/1551
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-06-23'
+text_date: '2022-12-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2009/1551
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2009/1551/pdfs/wsi_20091551_mi.pdf
+- http://www.legislation.gov.uk/wsi/2009/1551/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marketing of Fresh Horticultural Produce (Wales) Regulations 2009
+
+> Text as at 2022-12-14.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 1551 (W.151)
+
+HORTICULTURE, WALES
+
+The Marketing of Fresh Horticultural Produce (Wales) Regulations 2009
+
+Made
+
+23 June 2009
+
+Laid before the National Assembly for Wales
+
+24 June 2009
+
+Coming into force
+
+16 July 2009
+
+These Regulations are made in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c19788351].
+
+The Welsh Ministers are designated [^c19788361] for the purposes of section 2(2) of the European Communities Act 1972 in relation to the common agricultural policy of the European Community.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Welsh Ministers that it is expedient for references to provisions of Community instruments to be construed as a reference to those provisions as amended from time to time.
+
+There has been open and transparent public consultation during the preparation of these Regulations as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) [^c19788371] of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
+
+Accordingly, the Welsh Minister for Rural Affairs makes the following Regulations.
+
+## PART 1 — Introduction
+
+### 1. Title, commencement, extent and application
+
+The title of these Regulations is The Marketing of Fresh Horticultural Produce (Wales) Regulations 2009 and they come into force on 16 July 2009 and apply in relation to Wales.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “Commission Implementing Regulation 543/2011” (“[^key-5b18181787dd3ed4aa5dff1621d88e60]*Rheoliad Gweithredu'r Comisiwn 543/2011*”) means Commission Implementing Regulation (EU) No 543/2011 of 7 June 2011 laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) in respect of the fruit and vegetables and processed fruit and vegetables sectors, as amended from time to time.
+
+(2) In these Regulations—
+
+- “**authorised officer**” (“***swyddog awdurdodedig***”) means an officer appointed by the Welsh Ministers in accordance with regulation 3(3) of these Regulations;
+- “marketing rules”[^key-4b63db2226c18ba223a1c4b700746a2f] *(“rheolau marchnata”)* ” means the general marketing standard and the specific marketing standards covering fresh fruit and vegetables listed in Part IX of Annex I to Regulation ([^key-6a135081796c6af5fe7c0118de951abd]EU) 2013, and includes the rules relating to those standards contained in Articles 74 and 76 of Regulation (EU) 2013,[^key-8d036ba93517e61a903f8a1cceaad11c] and Title II of Commission Implementing Regulation 543/2011
+- “**container**” (“***cynhwysydd***”) includes any basket, pail, tray, package or receptacle of any kind, whether open or closed;
+- “**controlled**” (“***sydd dan reolaeth***”) in relation to horticultural produce, means that the power conferred by regulation 12(1) (stop notice) has been exercised in relation to it and that the stop notice is for the time being in force;
+- [^key-b7683ba8bb5643e4c630c03eb2dc2d12]...
+- “general marketing standard” (“[^key-1e9b32adface931ee8a8c8e252e53c41]*safon farchnata gyffredinol*”) means the requirements of Article 76(1) of Regulation ([^key-1bd384866ec7af032f4988159a8b2f52]EU) 2013 as detailed in Article 3(1) and Part A of Annex I to Commission Implementing Regulation 543/2011
+- “**horticultural produce**” (“***cynnyrch garddwriaethol***”) means fruit and vegetables listed in Part IX of Annex I to Regulation ([^key-66ea5a9c5f51dc0e4ab1e20b7c38f5c3]EU) 2013 to which marketing rules[^key-4c1da5342f9fc0ec193237d936e57133] apply;
+- “**label**” (“***label***”) includes any device for conveying information by written characters or other symbols, and any characters or symbols stamped or otherwise placed directly on to any horticultural produce or container, and references to the affixing of a label are construed accordingly;
+- “**labelling defect label**” (“***label labelu diffygiol***”) has the meaning given in regulation 11;
+- “**out-graded label**” (“***label allraddio***”) has the meaning given in regulation 10;
+- “**premises**” (“***mangre***”) includes any place, vehicle or trailer, stall, vessel, container, moveable structure, aircraft, or hovercraft;
+- “**re-graded label**” (“***label ailraddio***”) has the meaning given in regulation 9;
+- “Regulation ([^key-633521dbbee25c11f4212efcd3889db7]EU) 2013” (“*Rheoliad (EU) 2013*”) means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time;
+- “**specific marketing standards**” (“***safonau marchnata penodol***”) means the marketing standards [^key-11d8984547fa79697464412e6d597a7e]... as detailed in Article 3(2) and Part B of Annex I to Commission Implementing Regulation 543/2011[^key-0095aa8a2220e876e8eaeb78f90b417d], and “**specific marketing standard**” (“**safon farchnata benodol**”) means one of those specific marketing standards;
+- “**stop notice label**” (“***label hysbysiad atal***”) has the meaning given in regulation 13.
+
+(3) Unless otherwise provided in this regulation, terms used in these Regulations have the same meaning as they have in Regulation ([^key-343d7c2ad6adec769c33e977ef308033]EU) 2013 and Commission Implementing Regulation 543/2011[^key-7ee07469e6fa8ed5f4cb46e870399735].
+
+### 3. Designations, provision of information, and appointment of authorised officers
+
+(1) The Welsh Ministers are designated as the inspection body under Article 9(1)(b) of Commission Implementing Regulation 543/2011[^key-079d78ca72149487aab801a76839943f].
+
+(2) For the purposes of fulfilling the obligations on inspection bodies contained in the marketing rules[^key-15c5292370eff56569dd7bc23443fff1] and for the enforcement of these Regulations, the Welsh Ministers may as appropriate or where required to do so provide information to the Secretary of State, the Northern Ireland or Scotland inspection bodies[^key-9ffb5bf7f137683281489101522a660d].
+
+(3) The Welsh Ministers may appoint officers for the purposes of the enforcement of these Regulations, in these Regulations referred to as authorised officers.
+
+## PART 2 — General offences, derogation and exercise of powers on premises
+
+### 4. Marketing rules offences[^key-333c84068a17cd0cacd4b6593e61bb46]
+
+(1) A person is guilty of an offence if they display, offer for sale, deliver or market in any other manner, horticultural produce in contravention of or which is not compliant with—
+
+- (a) the general marketing standard, if applicable; or
+- (b) any specific marketing standard applying to that horticultural produce.
+
+(2) Paragraph (1) does not apply in the circumstances mentioned in regulation 5.
+
+(3) A person is guilty of an offence if they fail to comply with any provision of Commission Implementing Regulation 543/2011[^key-d2bd9bb3462faa4438bde0c21e9eadb4] mentioned in column 1 of the Schedule, as read with any provision mentioned in any corresponding entry in column 2 of that Schedule.
+
+(4) Where—
+
+- (a) an authorised officer has inspected horticultural produce and found it not to be compliant with marketing rules[^key-4e509b9d8c08f1c305defe0cfe8e3bf9], and
+- (b) the person in charge of that horticultural produce has given an undertaking, or has been responsible for the giving of an undertaking in relation to that horticultural produce,
+
+it is an offence for that person to act in breach of the undertaking or to cause or permit their agent or employee to act in breach of the undertaking.
+
+(5) A person is guilty of an offence if, in purporting to provide the information particulars required by marketing rules[^key-9e6df378d233b1696151c7e5baba748e] for horticultural produce, they give an inaccurate or false description of that horticultural produce on a label affixed to, or in a notice or document accompanying, that horticultural produce.
+
+(6) A person, other than an authorised officer, is guilty of an offence if they affix, or cause or permit to be affixed, a re-graded label, an out-graded label or a labelling defect label to the container of horticultural produce, or to the horticultural produce itself, or to any notice or document which is required by marketing rules[^key-0f4aa22e692842f79917ae50994f7a48] to accompany that horticultural produce.
+
+(7) A person, other than an authorised officer, is guilty of an offence if they remove, conceal, deface or alter, or cause or permit to be removed, concealed, defaced or altered—
+
+- (a) any notice or document which is required by marketing rules[^key-1f4fdb278cc6328bf35d3cdccc24c023] to accompany horticultural produce or any label required by marketing rules to be affixed to that horticultural produce or to its container;
+- (b) a re-graded label, an out-graded label or a labelling defect label which has been applied by an authorised officer in the execution of these Regulations to the horticultural produce or to its container;
+- (c) any demarcation tape or other material used by an authorised officer in accordance with regulation 8(1)(f) to identify horticultural produce or a specific lot of horticultural produce which is found not to be compliant with marketing rules[^key-28519f45fae1edcfd211f3c275211108] .
+
+(8) A person is guilty of an offence if they export or import any consignment of horticultural produce to or from any place outside Great Britain[^key-66f2e2aa41a140b90e1ed1f94ebb279d] without a document, label or notice required by marketing rules[^key-08f03718c38edaccf05478821ec26eec] to accompany that horticultural produce.
+
+### 5. Derogation from specific marketing standards
+
+Horticultural produce to which a specific marketing standard applies is not required to comply [^c19788411] with that specific marketing standard if that horticultural produce complies with the general marketing standard and if it is—
+
+- (a) presented for retail sale to consumers for their personal use;
+- (b) labelled “product intended for processing” or with any other equivalent wording; and
+- (c) not intended for industrial processing.
+
+### 6. Exercise of powers on premises
+
+The powers under Part 3 and Part 4 of these Regulations may not be exercised on premises, or part of any premises, used only as a dwelling-house.
+
+## PART 3 — Powers of authorised officers
+
+### 7. Powers of entry
+
+(1) An authorised officer may enter any premises at any reasonable hour for the purposes of the enforcement of these Regulations.
+
+(2) An authorised officer must, if requested to do so, produce a duly authenticated authorisation document.
+
+(3) An authorised officer may—
+
+- (a) be accompanied by—
+  - (i) such other persons as the authorised officer considers necessary;
+  - (ii)[^key-1776e446c360e3c7b5da81655dcfa068] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) bring on to the premises such equipment as the authorised officer considers necessary.
+
+(4) If a justice of the peace, on sworn information in writing, is satisfied that there are reasonable grounds for entry into any premises for the purposes of enforcing these Regulations, and either—
+
+- (a) admission to an authorised officer has been refused, or a refusal is expected, and (in either case) that notice of the intention to apply for a warrant has been given to the occupier; or
+- (b) that an application for admission to the premises, or the giving of such a notice, would defeat the object of the entry, or
+- (c) that the premises are unoccupied or the occupier is temporarily absent; or
+- (d) that the case is one of urgency,
+
+the justice may by signed warrant authorise the authorised officer to enter the premises, if need be by reasonable force.
+
+(5) A warrant under this regulation is valid for three months.
+
+(6) An authorised officer who enters by virtue of this regulation any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
+
+(7) It is an offence for a person who has obtained confidential information in the course of acting for the purposes of the enforcement of these Regulations to disclose the confidential information obtained, whether it was obtained on premises entered under or by virtue of these Regulations or otherwise, unless the disclosure is made in the performance of that person's duty or in accordance with section 17(2) of the Anti-terrorism, Crime and Security Act 2001 [^c19788421].
+
+### 8. Other powers of an authorised officer
+
+(1) An authorised officer who has lawfully entered premises for the purposes of the enforcement of these Regulations, may for those purposes —
+
+- (a) require any person to provide such assistance, information or facilities as the authorised officer may reasonably require;
+- (b) make any enquiries, observe any activity or process, and take photographs;
+- (c) inspect and search the premises;
+- (d) inspect any machinery or equipment, and any other article on the premises;
+- (e) inspect and take samples of any horticultural produce found on the premises;
+- (f) identify, with demarcation tape or other material, horticultural produce or a specific lot of horticultural produce which is found not to be compliant with marketing rules[^key-7ad38cd9da42c9844b7b8a78c6b93989];
+- (g) inspect, seize and detain any container used in connection with horticultural produce;
+- (h) have access to, inspect and copy any label, notice, document or record (in whatever form they are held), remove them to enable them to be copied or require copies to be made;
+- (i) detach, or give permission to be detached, any re-graded label, out-graded label, labelling defect label or stop notice label when the reasons for their being affixed no longer apply;
+- (j) have access to, inspect and check the data on, and operation of, any computer and any associated apparatus or material that is or has been in use in connection with a label, notice, document or record mentioned in this regulation, including data relating to deleted files and activity logs; and for this purpose may require any person having charge of, or otherwise concerned with the operation of the computer, apparatus or material to afford such assistance (including the provision of passwords) as may reasonably be required and, where these items are kept by means of a computer, may require them to be produced in a form in which they may be taken away;
+- (k) seize any computers and associated equipment for the purpose of copying any data, but only if that authorised officer has a reasonable suspicion that an offence under these Regulations has been committed, and provided they are returned as soon as practicable;
+- (l) seize and detain any items in sub-paragraph (h) if that authorised officer has reason to believe that they may be required as evidence in proceedings under these Regulations.
+
+(2) Where an authorised officer takes a bulk sample of horticultural produce from a specific lot in accordance with Annex V to Commission Implementing Regulation 543/2011[^key-3c299b99f188f8bf3ca5b4127fa7742b] and finds that horticultural produce not to be compliant with the marketing rules[^key-84000b49982e07a0909ffc2cec0fa8fd], the power to affix—
+
+- (a) a re-graded label under regulation 9(1);
+- (b) an out-graded label under regulation 10(1);
+- (c) a labelling defect label under regulation 11(1);
+- (d) a stop notice label under regulation 13(1),
+
+may be exercised in relation to all or any of the horticultural produce or containers of horticultural produce within that lot in the same way as in relation to the bulk sample taken.
+
+(3) An authorised officer must—
+
+- (a) as soon as is reasonably practicable, provide to the person appearing to be responsible for any items that that authorised officer seizes and detains under paragraph (1) a written receipt identifying those items; and
+- (b) as soon as is reasonably practicable after deciding that those items are no longer required, return them, apart from those to be used as evidence in court proceedings.
+
+(4) Where an authorised officer has seized and detained items under paragraph (1) for use in evidence in court proceedings and—
+
+- (a) it is subsequently decided—
+  - (i) that no court proceedings are to be brought; or
+  - (ii) that those items are no longer needed as evidence in court proceedings; or
+- (b) the court proceedings are completed and no order in relation to those items has been made by the court,
+
+an authorised officer must return the items as soon as is reasonably practicable.
+
+### 9. Power to affix a re-graded label
+
+(1) Where an authorised officer, who has lawfully entered premises for the purposes of the enforcement of these Regulations, finds horticultural produce subject to a specific marketing standard which has affixed to it a label or is accompanied by a notice or a document required by marketing rules[^key-be724aaae9edcb7f5592d7618b77e7b7], or is in a container to which such a label is affixed or which is accompanied by such a notice or document—
+
+- (a) indicating in either case that that horticultural produce is of a particular class under the relevant specific marketing standard, but
+- (b) which the authorised officer has reasonable cause to believe to be of an inferior class under that specific marketing standard,
+
+the authorised officer may amend or cancel the label, notice or document and may affix to the horticultural produce, or, as the case may be, to the notice or container, a label indicating that fact (a “re-graded label”).
+
+(2) The re-graded label is a label which—
+
+- (a) shows the following information—
+  - (i) the personal number assigned to the authorised officer who carried out the inspection;
+  - (ii) the date of the inspection;
+  - (iii) the logotype of the Welsh Assembly Government or the Welsh Assembly Government's successor;
+  - (iv) the logotype of the Rural Payments Agency the design of which is displayed on the website:www.rpa.gov.uk/rpa/index.nsf/home and the wording— “ *The Rural Payments Agency is an Executive Agency of the Department for Environment, Food and Rural Affairs (Defra) acting in Wales on behalf of the Welsh Ministers* ”
+
+or equivalent wording agreed by any successor to the Rural Payments Agency with the Welsh Ministers, and that successor's logotype;
+
+- (i) the wording— “ *It is an offence under the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009 to remove, conceal, deface or alter this label without lawful authority* ”;
+- (b) shows one of the following, as appropriate—
+  - (i) the words “RE-GRADED CLASS I”; or
+  - (ii) the words “RE-GRADED CLASS II”.
+
+### 10. Power to affix an out-graded label
+
+(1) Where an authorised officer, who has lawfully entered premises for the purposes of the enforcement of these Regulations, finds any horticultural produce which either has affixed to it a label or is accompanied by a notice or a document required by marketing rules[^key-1c6d45f7b28cd3ec18b6dd219c140913], or is in a container to which such a label is affixed or which is accompanied by such a notice or document, indicating in either case that one of the situations in paragraphs (2) to (4) applies, an authorised officer may amend or cancel the label, notice or document and may affix to the horticultural produce, or, as the case may be, to the notice or container, a label indicating that fact (an “out-graded label”).
+
+(2) Situation 1 is where the label, notice or document indicates that horticultural produce is of a class marketable under the specific marketing standard applicable to it but the authorised officer has reasonable cause to believe that the horticultural produce does not comply with any class of that specific marketing standard but only complies with the general marketing standard.
+
+(3) Situation 2 is where the label, notice or document indicates that horticultural produce is of a class marketable under the specific marketing standard applicable to it but the authorised officer has reasonable cause to believe that the horticultural produce is not of a standard marketable under marketing rules[^key-0835d624642a2a8c937321e5b51040da].
+
+(4) Situation 3 is where the label, notice or document indicates that horticultural produce complies with the general marketing standard but the authorised officer has reasonable cause to believe that the horticultural produce is not of a standard marketable under marketing rules.
+
+(5) The out-graded label is a label which—
+
+- (a) shows the following information—
+  - (i) the personal number assigned to the authorised officer who carried out the inspection;
+  - (ii) the date of the inspection;
+  - (iii) the logotype of the Welsh Assembly Government or the Welsh Assembly Government's successor;
+  - (iv) the logotype of the Rural Payments Agency the design of which is displayed on the website:www.rpa.gov.uk/rpa/index.nsf/home and the wording— “ *The Rural Payments Agency is an Executive Agency of the Department for Environment, Food and Rural Affairs (Defra) acting in Wales on behalf of the Welsh Ministers* ”
+
+or equivalent wording agreed by any successor to the Rural Payments Agency with the Welsh Ministers, and that successor's logotype;
+
+- (i) the wording— “ *It is an offence under the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009 to remove, conceal, deface or alter this label without lawful authority* ”;
+- (b) shows one of the following, as appropriate—
+  - (i) in the case of paragraph (2) of this regulation the words “SPECIFIC MARKETING STANDARD OUTGRADED; GENERAL MARKETING STANDARD COMPLIANT”;
+  - (ii) in the case of paragraph (3) of this regulation the words “SPECIFIC MARKETING STANDARD OUTGRADED; GENERAL MARKETING STANDARD NON-COMPLIANT”;
+  - (iii) in the case of paragraph (4) of this regulation the words “GENERAL MARKETING STANDARD NON-COMPLIANT”.
+
+### 11. Power to affix a labelling defect label
+
+(1) Where an authorised officer, who has lawfully entered premises for the purposes of the enforcement of these Regulations, finds any horticultural produce, or container holding horticultural produce, which—
+
+- (a) does not have a label required by the marketing rules[^key-24b8db734b286221107eaa5cb045a271] affixed to it; or
+- (b) is not accompanied by a notice or document required by the marketing rules; or
+- (c) has a label required by the marketing rules affixed to it, or to its container, but the label appears to the authorised officer to be incorrect (other than in relation to a particular class under the specific marketing standard applying to that horticultural produce, if applicable), or to have been altered or defaced; or
+- (d) is accompanied by a notice or document required by the marketing rules but which appears to the authorised officer to be incorrect (other than in relation to a particular class under the specific marketing standard applying to that horticultural produce, if applicable), or to have been altered or defaced with the result that it is incorrect,
+
+the authorised officer may, as appropriate, amend or cancel the label, notice or document and may affix to the horticultural produce, or, as the case may be, to the container, a label indicating that fact (a “labelling defect” label).
+
+(2) The labelling defect label is a label which shows the following information—
+
+- (a) the personal number assigned to the authorised officer who carried out the inspection;
+- (b) the date of the inspection;
+- (c) the logotype of the Welsh Assembly Government or the Welsh Assembly Government's successor;
+- (d) the logotype of the Rural Payments Agency the design of which is displayed on the website: www.rpa.gov.uk/rpa/index.nsf/home and the wording— “ *The Rural Payments Agency is an Executive Agency of the Department for Environment, Food and Rural Affairs (Defra) acting in Wales on behalf of the Welsh Ministers* ”
+
+or equivalent wording agreed by any successor to the Rural Payments Agency with the Welsh Ministers, and that successor's logotype;
+
+- (e) the wording— “ *It is an offence under the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009 to remove, conceal, deface or alter this label without lawful authority* ”;
+- (f) the words “LABELLING DEFECT”.
+
+## PART 4 — Controlled horticultural produce and related powers and offences
+
+### 12. Powers to control the movement of horticultural produce
+
+(1) An authorised officer may, by written notice (a “stop notice”) pursuant to paragraph (2), prohibit the movement of any horticultural produce if the authorised officer reasonably suspects that an offence under these Regulations is being committed in respect of that horticultural produce.
+
+(2) The written notice referred to in paragraph (1) must be served on the person appearing to the authorised officer to be in charge of the horticultural produce concerned and must—
+
+- (a) state the date and time of service of the notice;
+- (b) identify the recipient of the notice;
+- (c) specify the horticultural produce in relation to which the power has been exercised;
+- (d) state the reason for its detention;
+- (e) confirm that options for bringing the horticultural produce into conformity with the marketing rules[^key-3988ccc4fb0f42a75a3a8b2d6330dfbd] within a specified time or for the appropriate sale or disposal of that horticultural produce within a specified time in such a manner that no offence under these Regulations will be committed in respect of it have been discussed between the authorised officer and the person appearing to be in charge of the horticultural produce;
+- (f) state the location of the horticultural produce;
+- (g) state that the horticultural produce must not be moved from that location without the written consent of an authorised officer; and
+- (h) contain information regarding the right to a review of the written notice under this regulation, when and how it may be exercised and contact details of persons to whom notice of exercise of the right must be given.
+
+(3) The person on whom the stop notice is served, or the owner of the horticultural produce or an agent or employee acting on behalf of the owner, may request a review.
+
+(4) The request must be made in the manner provided for in paragraph (8) as soon as reasonably practicable, and in any event within the time limit specified in paragraph (5) or (7) as is applicable.
+
+(5) The time limit for a person on whom the stop notice was served is 48 hours from service of the stop notice.
+
+(6) Where the person on whom the notice is served is not the owner, or an agent or employee acting on behalf of the owner, the authorised officer must use best endeavours to identify such a person and bring the contents of the stop notice to that person's attention within 48 hours from service of the notice.
+
+(7) The time limit for a person referred to in paragraph (6) is within 48 hours of the contents of the stop notice coming to that person's attention or within 96 hours from the time of service of the notice whichever is the sooner.
+
+(8) A request for a review must be exercised by informing an authorised officer either in person, or by telephone to be confirmed in writing as soon as reasonably practicable, or by email or fax at the contact details indicated in the stop notice.
+
+(9) The Welsh Ministers must maintain arrangements for the conduct of a review by an authorised officer unconnected with the original decision to determine whether there were valid grounds for serving the stop notice.
+
+(10) The authorised officer conducting the review may cancel the notice or confirm it, with or without modification.
+
+(11) The authorised officer must complete the review as soon as reasonably practicable and in any event within 48 hours of the request, and notify the person who requested it, and, if different, the person on whom the notice was served and any other person in possession of the horticultural produce, of the outcome, as soon as reasonably practicable.
+
+### 13. Power to affix a stop notice label
+
+(1) An authorised officer may affix to any controlled horticultural produce, or to any container in which the controlled horticultural produce is packed, a label warning of the exercise of the power in regulation 12(1) (a “stop notice label”).
+
+(2) The stop notice label is a label which shows the following information—
+
+- (a) the personal number assigned to the authorised officer;
+- (b) the date the stop notice label is affixed;
+- (c) the number assigned by the authorised officer to the stop notice label;
+- (d) the logotype of the Welsh Assembly Government or the Welsh Assembly Government's successor;
+- (e) the logotype of the Rural Payments Agency the design of which is displayed on the website: www.rpa.gov.uk/rpa/index.nsf/home and the wording— “ *The Rural Payments Agency is an Executive Agency of the Department for Environment, Food and Rural Affairs (Defra) acting in Wales on behalf of the Welsh Ministers* ”
+
+or equivalent wording agreed by any successor to the Rural Payment Agency with the Welsh Ministers, and that successor's logotype;
+
+- (f) the words— “ *This lot is subject to a Stop Notice. Any unauthorised movement of the horticultural produce to which this label applies or the removal of this label is an offence under the Marketing of Fresh Horticultural Produce (Wales) Regulations 2009* ”.
+
+### 14. Controlled horticultural produce — further provision
+
+(1) An authorised officer may, at any time, give written consent to the movement of controlled horticultural produce and to the lifting of the stop notice.
+
+(2) An authorised officer must, upon request, give written consent to the movement of controlled horticultural produce and to the lifting of the stop notice if the circumstances in paragraph (3) apply.
+
+(3) The circumstances in which this paragraph applies are where—
+
+- (a) the authorised officer is satisfied that no offence under these Regulations would be committed in respect of the horticultural produce if it were sold in circumstances in which marketing rules[^key-2166855a4cff23edfefd774ec3865f28] apply; or
+- (b) the authorised officer, or another authorised officer, has been given a written undertaking that the horticultural produce will be sold or disposed of in a specified manner and the authorised officer is satisfied that if the horticultural produce is sold or disposed of in that manner no offence under these Regulations will be committed in respect of it and the authorised officer has no reason to doubt that the terms of the undertaking will be met.
+
+(4) An authorised officer must, upon request, give written consent to the movement of controlled horticultural produce if the circumstances in paragraph (5) apply.
+
+(5) The circumstances in which this paragraph applies are where—
+
+- (a) the authorised officer, or another authorised officer, has been given a written undertaking to the effect that—
+  - (i) the horticultural produce will be moved to a place approved by an authorised officer;
+  - (ii) at the approved place the steps required to ensure that the horticultural produce may be sold in circumstances in which marketing rules[^key-c8d052a620cbb42615d0ff05acda4a0e] apply without an offence under these Regulations being committed in respect of it will be taken;
+  - (iii) the horticultural produce will not be moved from that place without the written consent of an authorised officer; and
+- (b) the authorised officer has no reason to doubt that the terms of the undertaking will be met.
+
+(6) A consent given by an authorised officer under this regulation must—
+
+- (a) specify the horticultural produce to which it relates; and
+- (b) where the consent is given under paragraph (4), state that the horticultural produce continues to be controlled.
+
+### 15. Offences relating to movement of controlled horticultural produce
+
+(1) A person is guilty of an offence if they move controlled horticultural produce or a container with controlled horticultural produce in it, or cause or permit them to be moved without the written consent of an authorised officer.
+
+(2) A person, other than an authorised officer, is guilty of an offence if they remove or cause or permit to be removed from that controlled horticultural produce or its container a stop notice label affixed by an authorised officer under regulation 13.
+
+(3) A person is guilty of an offence if they fail to comply with the undertaking they gave for the purposes of regulation 14.
+
+## PART 5 — Additional enforcement provisions
+
+### 16. Obstruction
+
+(1) A person is guilty of an offence if they—
+
+- (a) without reasonable excuse, proof of which lies on that person, obstructs an authorised officer acting for the purposes of the enforcement of these Regulations, or a person accompanying such an authorised officer under regulation 7(3)(a);
+- (b) without reasonable excuse, proof of which lies on that person, fails to give an authorised officer acting for the purposes of the enforcement of these Regulations any assistance or information or to provide any record or facilities that they may reasonably require;
+- (c) without reasonable excuse, proof of which lies on that person, fails to make any request for inspection when so required by marketing rules[^key-27a4421a5b7a63cff0175d47d706df36] or fails to give any notice or information required by marketing rules.
+
+(2) A person who without reasonable excuse, proof of which lies on that person, supplies to an authorised officer acting for the purposes of the enforcement of these Regulations any information knowing it to be false or misleading is guilty of an offence.
+
+### 17. Offence due to fault of another person
+
+(1) Where the commission by a person (“A”) of an offence under these Regulations was due to an act or default of another person (“B”), B is guilty of an offence.
+
+(2) B may be charged with and convicted of the offence whether or not proceedings are taken against A.
+
+### 18. Defences
+
+(1) It is a defence for a person charged (“A”) with an offence under these Regulations, except for the offences in regulation 16, to prove that their actions were carried out with lawful authority or that they took all reasonable precautions and exercised all due diligence to avoid committing the offence.
+
+(2) Where A wishes to rely on the defence in paragraph (1), A must serve on the prosecutor a written notice of that fact in accordance with paragraph (4).
+
+(3) Where the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to the act or default of another person, A is not, without leave of the court, entitled to rely on that defence unless A has served on the prosecutor a written notice in accordance with paragraph (4) giving such information identifying or assisting in the identification of that person as was then in A's possession.
+
+(4) The notice must be served—
+
+- (a) at least seven clear days before the hearing, and
+- (b) where A has previously appeared before a court in connection with the alleged offence, within one month of A's first such appearance.
+
+### 19. Offences by bodies corporate etc.
+
+(1) If an offence under these Regulations committed by a body corporate is proved—
+
+- (a) to have been committed with the consent or connivance of an officer, or
+- (b) to be attributable to any neglect on their part,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1) “**officer**” (“***swyddog***”) in relation to the body corporate, means a director, manager, secretary, or other similar officer of the body, or a person purporting to act in any such capacity.
+
+(3) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with that member's functions of management as if that member were a director of the body corporate.
+
+(4) If an offence under these Regulations committed by a partnership is proved—
+
+- (a) to have been committed with the consent or connivance of a partner, or
+- (b) to be attributable to any neglect on the part of that partner,
+
+the partner as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(5) In paragraph (4) “**partner**” (“***partner***”) includes a person purporting to act as a partner.
+
+(6) If an offence under these Regulations committed by an unincorporated association (other than a partnership) is proved—
+
+- (a) to have been committed with the consent or connivance of an officer of the association or a member of its governing body, or
+- (b) to be attributable to any neglect on the part of such an officer or member,
+
+the officer or member as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(7) For the purposes of proceedings brought in the name of a partnership or an unincorporated association—
+
+- (a) rules of court relating to the service of documents are to have effect as if the partnership or the unincorporated association were a body corporate;
+- (b) section 33 of the Criminal Justice Act 1925 [^c19788451] and Schedule 3 to the Magistrates' Courts Act 1980 [^c19788461] apply in relation to the partnership or unincorporated association as they apply in relation to a body corporate.
+
+(8) A fine imposed on a partnership or unincorporated association on its conviction of an offence under these Regulations is to be paid out of the funds of the partnership or the unincorporated association.
+
+### 20. Penalties
+
+A person guilty of an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## PART 6 — Revocations and disapplications
+
+### 21. Revocations
+
+The following statutory instruments are revoked so far as they apply to Wales—
+
+- (a) the Grading of Horticultural Produce (Amendment) Regulations 1973 [^c19788471];
+- (b) the Grading of Horticultural Produce (Forms of Labels) Regulations 1982 [^c19788481];
+- (c) the Grading of Horticultural Produce (Amendment) Regulations 1983 [^c19788491].
+
+### 22. Disapplication
+
+The following Acts do not apply in Wales to horticultural produce—
+
+- (a) the Agriculture and Horticulture Act 1964 [^c19788501] and the Horticultural Produce Act 1986 [^c19788511] which modifies it;
+- (b) the Agricultural Produce (Grading and Marking) Acts 1928 [^c19788521] and 1931 [^c19788531];
+- (c) the Agricultural Marketing Act 1958 [^c19788541].
+
+### 23. Transitional provisions: withdrawal from the EU[^key-407c477e67ad78b7711ee9e37230a681]
+
+(1) Regulation 4 does not apply in relation to a failure to comply with Article 7 of Commission Implementing Regulation 543/2011 if the matter constituting the alleged contravention—
+
+- (a) relates to a product that was placed on the market before 1 January 2024[^key-b3f3ec5e7e121e27eea527c5525d673d], and
+- (b) would not have constituted a contravention of that Regulation as it applied immediately before IP completion day.
+
+(2) An authorised officer must not exercise the powers under regulation 11(1) in relation to a failure to comply with Article 7 of Commission Implementing Regulation 543/2011 if the matter constituting the alleged contravention—
+
+- (a) relates to a product that was placed on the market before 1 January 2024[^key-ed4118681d56834f7cf781faf11435d2], and
+- (b) would not have constituted a contravention of that Regulation as it applied immediately before IP completion day.
+
+Elin Jones
+
+Minister for Rural Affairs, one of the Welsh Ministers
+
+## SCHEDULE — Provisions under Commission Implementing Regulation 543/2011[^M_F_96aa0992-de74-499f-f3a3-d43a7cd644f5]
+
+Regulation 4(3)
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| **Relevant provision of Commission Implementing Regulation 543/2011** | **Provision of Commission Implementing Regulation 543/2011 to be read with the provision in column 1** | **Subject matter** |
+| Article 5(1) | Annex I, Art 4(3), Art 5(2) to (4), Art 6, Art 7 | General requirements for information particulars |
+| Article 5(2) | Annex I, Art 5(1), (3) and (4), Art 76 | Requirements for information particulars in documents accompanying bulk shipments and goods loaded directly onto a means of transport |
+| Article 5(3) | Annex I, Art 5(1) and (4), Art 7 | Requirement for information particulars in the case of distance contracts to be available before the purchase is concluded |
+| Article 5(4) | Annex I, Art 5(1) to (3), Art 7 | Requirement for information particulars on invoices and accompanying documents |
+| Article 6 | Annex I, Art 4(3), Art 7 | Requirement for information particulars at the retail stage |
+| Article 7(1) | Annex I, Art 4(3), Art 6, Art 7(2) and (3) | Requirements for sale of mixes of different types of fruit and vegetables |
+| Article 10(6) | Art 10(1) to (5) | Requirement for traders to provide information that the appropriate authorities[^key-274a96ad39b63fa2d380b251d4abdf4a] consider necessary for the database |
+| Article 11(4) | Art 11(1) to (3), Art 12, Art 14 and Annex III, Art 15 | Requirement for traders to provide inspection bodies with all information required by them for organising and carrying out conformity checks |
+| Article 17(3), final sub-paragraph | Art 10, Art 17(1), (2) and the rest of (3), Annex V | Requirement for traders to supply all information deemed necessary by the inspection body for method of inspection |
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide a new statutory framework for the enforcement of the European Community marketing rules in the fresh fruit and vegetable sector provided for in Articles 113 and 113a of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) (OJ No L 299, 16.11.2007, p.1) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation), and contained in Title II of Commission Regulation [(EC) No 1580/2007](https://www.legislation.gov.uk/european/regulation/2007/1580) (OJ No L 350, 31.12.2007, p.1) laying down implementing rules of Council Regulations [(EC) No 2200/96](https://www.legislation.gov.uk/european/regulation/1996/2200), [(EC) No 2201/96](https://www.legislation.gov.uk/european/regulation/1996/2201) and [(EC) No 1182/2007](https://www.legislation.gov.uk/european/regulation/2007/1182) in the fruit and vegetable sector. In particular, they implement the revisions made to the Community marketing rules introduced by Commission Regulation [(EC) No 1221/2008](https://www.legislation.gov.uk/european/regulation/2008/1221) (OJ No L 336, 13.12.2008, p 1) amending Regulation [(EC) No 1580/2007](https://www.legislation.gov.uk/european/regulation/2007/1580) laying down implementing rules of Council Regulations [(EC) No 2200/96](https://www.legislation.gov.uk/european/regulation/1996/2200), [(EC) No 2201/96](https://www.legislation.gov.uk/european/regulation/1996/2201) and [(EC) No 1182/2007](https://www.legislation.gov.uk/european/regulation/2007/1182) in the fruit and vegetable sector as regards marketing standards.
+
+These Regulations revoke the Grading of Horticultural Produce (Amendment) Regulations 1973 (S.I. 1973/22), the Grading of Horticultural Produce (Forms of Labels) Regulations 1982 (S.I. 1982/387) and the Grading of Horticultural Produce (Amendment) Regulations 1983 (S.I. 1983/1053).
+
+They disapply the Agriculture and Horticulture Act 1964 (c. 28) and the Horticultural Produce Act 1986 (c. 20) which modifies the 1964 Act from the Community marketing rules in the fresh fruit and vegetable sector. They also disapply the Agricultural Produce (Grading and Marking) Acts 1928 and 1931 (c. 19 and c. 40 respectively) and the Agricultural Marketing Act 1958 (c. 47).
+
+They designate the Welsh Ministers as inspection body for Wales under Article 8(1)(b) of Commission Regulation [(EC) No 1580/2007](https://www.legislation.gov.uk/european/regulation/2007/1580), provide that the Welsh Ministers may disclose or where required to do so provide information to the Secretary of State, the Northern Ireland and Scotland inspection bodies or the European Commission and that the Welsh Ministers may appoint authorised officers (regulation 3).
+
+The Regulations make the failure to comply with Article 113a(3) of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), and the provisions of Commission Regulation [(EC) No 1580/2007](https://www.legislation.gov.uk/european/regulation/2007/1580) mentioned in the Schedule, an offence. They contain additional offences necessary for the effective enforcement of the Community marketing rules (regulation 4 and the Schedule).
+
+They exercise the derogation in Article 3(3) of Commission Regulation [(EC) No 1580/2007](https://www.legislation.gov.uk/european/regulation/2007/1580) (regulation 5). This derogation exempts products presented for retail sale to consumers for their personal use from the specific marketing standards provided they are labelled “product intended for processing”, or with other equivalent wording, and the products are not intended for industrial processing.
+
+Regulation 6 provides that the powers under Parts 3 and 4 of the Regulations may not be exercised on premises, or part of any premises, used wholly as a dwelling-house. The Regulations confer powers of entry (regulation 7) and other powers (regulation 8), including seizure powers which require authorised officers to fulfil certain duties in relation to any items seized. They contain powers to affix labels indicating various types of non-conformity with the Community marketing rules (regulations 9, 10 and 11).
+
+They confer power on authorised officers to control the movement of horticultural produce and give a right of review to those served with a written notice informing of the exercise of that power (regulation 12). They confer power to affix a stop notice label warning of its exercise (regulation 13). There is provision for giving consent to the movement of controlled horticultural produce when certain conditions are met (regulation 14).
+
+Regulations 15, 16, 17 and 19 contain provisions on offences relating to controlled horticultural produce, to the obstruction of an authorised officer, to the commission of an offence due to the fault of another person and to the commission of offences by bodies corporate etc. Regulation 18 provides for defences of acting with lawful authority or exercising due diligence and taking reasonable precautions. Finally, regulation 20 provides that the penalty for offences is on summary conviction a fine not exceeding level 5 on the standard scale.
+
+A regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Welsh Assembly Government, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^c19788351]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A was inserted into Schedule 2 by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^c19788361]: Marginal citation: [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766). By virtue of sections 59(1) and 162 of and paragraphs 28 and 30 of Schedule 11 to the Government of Wales Act 2006, functions conferred on the National Assembly for Wales by this designation are exercisable by the Welsh Ministers.
+
+[^c19788371]: Marginal citation: OJ No L 31, 1.2.2002, p.1, last amended by Commission Regulation (EC) No 202/2008 (OJ No L 60, 5.3.2008, p.17).
+
+[^key-5b18181787dd3ed4aa5dff1621d88e60]: Textual amendment: Words in reg. 2(1) substituted (8.11.2011) by [The Marketing of Fresh Horticultural Produce (Wales) (Amendment) Regulations 2011 (S.I. 2011/2486)](https://www.legislation.gov.uk/wsi/2011/2486), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/1/3), [4(a)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/4/a)
+
+[^key-4b63db2226c18ba223a1c4b700746a2f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/2/2) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6a135081796c6af5fe7c0118de951abd]: Textual amendment: Words in reg. 2(2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [6(2)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/6/2/a)
+
+[^key-8d036ba93517e61a903f8a1cceaad11c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/2/2) substituted (14.12.2022) by [The Common Organisation of the Markets in Agricultural Products (Amendment) (Wales) Regulations 2022 (S.I. 2022/1215)](https://www.legislation.gov.uk/wsi/2022/1215), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1215/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/wsi/2022/1215/regulation/9/2/a)
+
+[^key-b7683ba8bb5643e4c630c03eb2dc2d12]: Textual amendment: Words in reg. 2(2) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [6(2)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/6/2/b)
+
+[^key-1e9b32adface931ee8a8c8e252e53c41]: Textual amendment: Words in reg. 2(2) substituted (8.11.2011) by [The Marketing of Fresh Horticultural Produce (Wales) (Amendment) Regulations 2011 (S.I. 2011/2486)](https://www.legislation.gov.uk/wsi/2011/2486), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/1/3), [4(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/4/b/ii)
+
+[^key-1bd384866ec7af032f4988159a8b2f52]: Textual amendment: Words in reg. 2(2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [6(2)(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/6/2/c)
+
+[^key-66ea5a9c5f51dc0e4ab1e20b7c38f5c3]: Textual amendment: Words in reg. 2(2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [6(2)(d)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/6/2/d)
+
+[^key-4c1da5342f9fc0ec193237d936e57133]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/2/2) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-633521dbbee25c11f4212efcd3889db7]: Textual amendment: Words in reg. 2(2) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [23](https://www.legislation.gov.uk/wsi/2018/1216/regulation/23)
+
+[^key-11d8984547fa79697464412e6d597a7e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/2/2) omitted (14.12.2022) by virtue of [The Common Organisation of the Markets in Agricultural Products (Amendment) (Wales) Regulations 2022 (S.I. 2022/1215)](https://www.legislation.gov.uk/wsi/2022/1215), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1215/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/wsi/2022/1215/regulation/9/2/b)
+
+[^key-0095aa8a2220e876e8eaeb78f90b417d]: Textual amendment: Words in reg. 2(2) substituted (8.11.2011) by [The Marketing of Fresh Horticultural Produce (Wales) (Amendment) Regulations 2011 (S.I. 2011/2486)](https://www.legislation.gov.uk/wsi/2011/2486), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/1/3), [4(b)(iii)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/4/b/iii)
+
+[^key-343d7c2ad6adec769c33e977ef308033]: Textual amendment: Words in reg. 2(3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [6(3)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/6/3)
+
+[^key-7ee07469e6fa8ed5f4cb46e870399735]: Textual amendment: Words in reg. 2(3) substituted (8.11.2011) by [The Marketing of Fresh Horticultural Produce (Wales) (Amendment) Regulations 2011 (S.I. 2011/2486)](https://www.legislation.gov.uk/wsi/2011/2486), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/1/3), [4(c)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/4/c)
+
+[^key-079d78ca72149487aab801a76839943f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/3/1) substituted (8.11.2011) by [The Marketing of Fresh Horticultural Produce (Wales) (Amendment) Regulations 2011 (S.I. 2011/2486)](https://www.legislation.gov.uk/wsi/2011/2486), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/1/3), [5](https://www.legislation.gov.uk/wsi/2011/2486/regulation/5)
+
+[^key-15c5292370eff56569dd7bc23443fff1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/3/2) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9ffb5bf7f137683281489101522a660d]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/3/2) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-333c84068a17cd0cacd4b6593e61bb46]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2009/1551/regulation/4) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d2bd9bb3462faa4438bde0c21e9eadb4]: Textual amendment: Words in reg. 4(3) substituted (8.11.2011) by [The Marketing of Fresh Horticultural Produce (Wales) (Amendment) Regulations 2011 (S.I. 2011/2486)](https://www.legislation.gov.uk/wsi/2011/2486), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2011/2486/regulation/6)
+
+[^key-4e509b9d8c08f1c305defe0cfe8e3bf9]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/4/4/a) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9e6df378d233b1696151c7e5baba748e]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/4/5) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0f4aa22e692842f79917ae50994f7a48]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/4/6) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1f4fdb278cc6328bf35d3cdccc24c023]: Textual amendment: Words in [reg. 4(7)(a)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/4/7/a) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-28519f45fae1edcfd211f3c275211108]: Textual amendment: Words in [reg. 4(7)(c)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/4/7/c) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-66f2e2aa41a140b90e1ed1f94ebb279d]: Textual amendment: Words in [reg. 4(8)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/4/8) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/uksi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/732/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/732/regulation/2/5/a) (as substituted by [S.I. 2020/1308](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-08f03718c38edaccf05478821ec26eec]: Textual amendment: Words in [reg. 4(8)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/4/8) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19788411]: Marginal citation: [Regulation 5](https://www.legislation.gov.uk/wsi/2009/1551/regulation/5) exercises the derogation in Article 3(3) of Commission Regulation (EC) No 1580/2007, as replaced with new text by virtue of Article 1(c) of Commission Regulation (EC) No 1221/2008 amending Regulation (EC) No 1580/2007 laying down implementing rules of Council Regulations (EC) No 2200/96, (EC) No 2201/96 and (EC) No 1182/2007 in the fruit and vegetable sector as regards marketing standards (OJ No L 336, 13.12.2008, p 1 as corrected by Corrigendum (OJ No L 36, 5.2.2009, p.84)).
+
+[^key-1776e446c360e3c7b5da81655dcfa068]: Textual amendment: [Reg. 7(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/7/3/a/ii) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19788421]: Marginal citation: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24).
+
+[^key-7ad38cd9da42c9844b7b8a78c6b93989]: Textual amendment: Words in [reg. 8(1)(f)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/8/1/f) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3c299b99f188f8bf3ca5b4127fa7742b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/8/2) substituted (8.11.2011) by [The Marketing of Fresh Horticultural Produce (Wales) (Amendment) Regulations 2011 (S.I. 2011/2486)](https://www.legislation.gov.uk/wsi/2011/2486), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2011/2486/regulation/1/3), [7](https://www.legislation.gov.uk/wsi/2011/2486/regulation/7)
+
+[^key-84000b49982e07a0909ffc2cec0fa8fd]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/8/2) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-be724aaae9edcb7f5592d7618b77e7b7]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/9/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1c6d45f7b28cd3ec18b6dd219c140913]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/10/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0835d624642a2a8c937321e5b51040da]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/10/3)[(4)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/10/4) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-24b8db734b286221107eaa5cb045a271]: Textual amendment: Words in [reg. 11(1)(a)-(d)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/11/1/a) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(g)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3988ccc4fb0f42a75a3a8b2d6330dfbd]: Textual amendment: Words in [reg. 12(2)(e)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/12/2/e) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(h)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2166855a4cff23edfefd774ec3865f28]: Textual amendment: Words in [reg. 14(3)(a)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/14/3/a) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(i)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c8d052a620cbb42615d0ff05acda4a0e]: Textual amendment: Words in [reg. 14(5)(a)(ii)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/14/5/a/ii) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(i)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-27a4421a5b7a63cff0175d47d706df36]: Textual amendment: Words in [reg. 16(1)(c)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/16/1/c) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [2(3)(j)](https://www.legislation.gov.uk/wsi/2019/732/regulation/2/3/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19788451]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1) and (2) of section 33 were repealed by the [Magistrates' Courts Act 1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), [section 132](https://www.legislation.gov.uk/ukpga/1952/55/section/132) and Schedule 6; subsection (3) was amended by the [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), [section 56(1)](https://www.legislation.gov.uk/ukpga/1971/23/section/56/1) and Schedule 8, part II, paragraph 19; subsection (4) was amended by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [section 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1) and (3), Schedule 8, paragraph 71 and Schedule 10, and by the [Magistrates' Courts Act 1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), [section 154](https://www.legislation.gov.uk/ukpga/1980/43/section/154) and Schedule 7, paragraph 5; subsection (5) was repealed by the Magistrates' Court Act 1952, section 132, Schedule 6.
+
+[^c19788461]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Sub-paragraph 2(a) was amended by the [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [section 47](https://www.legislation.gov.uk/ukpga/1996/25/section/47), [Schedule 1](https://www.legislation.gov.uk/ukpga/1996/25/schedule/1), [paragraph 13](https://www.legislation.gov.uk/ukpga/1996/25/paragraph/13), and was repealed by the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [sections 41](https://www.legislation.gov.uk/ukpga/2003/44/section/41) and 332, Schedule 3, part 2, paragraph 51, sub-paragraphs (1), (13)(a), and Schedule 37, part 4 (with effect from a date to be appointed); [paragraph 5](https://www.legislation.gov.uk/wsi/2009/1551/paragraph/5) was repealed by the [Criminal Justice Act 1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), [sections 25(2)](https://www.legislation.gov.uk/ukpga/1991/53/section/25/2) and 101(2) and Schedule 13; [paragraph 6](https://www.legislation.gov.uk/wsi/2009/1551/paragraph/6) was amended by the Criminal Justice Act 2003, section 41, Schedule 3, part 2, paragraph 51, sub-paragraphs (1) and (13)(b) (with effect from a date to be appointed).
+
+[^c19788471]: Marginal citation: [S.I. 1973/22](https://www.legislation.gov.uk/uksi/1973/22).
+
+[^c19788481]: Marginal citation: [S.I. 1982/387](https://www.legislation.gov.uk/uksi/1982/387).
+
+[^c19788491]: Marginal citation: [S.I. 1983/1053](https://www.legislation.gov.uk/uksi/1983/1053).
+
+[^c19788501]: Marginal citation: [1964 c. 28](https://www.legislation.gov.uk/ukpga/1964/28).
+
+[^c19788511]: Marginal citation: [1986 c. 20](https://www.legislation.gov.uk/ukpga/1986/20).
+
+[^c19788521]: Marginal citation: [1928 c. 19](https://www.legislation.gov.uk/ukpga/1928/19).
+
+[^c19788531]: Marginal citation: [1931 c. 40](https://www.legislation.gov.uk/ukpga/1931/40). This Act amended the Agricultural Produce (Grading and Marking) Act 1928 and the two Acts may be cited together as the Agricultural Produce (Grading and Marking) Acts 1928 and 1931.
+
+[^c19788541]: Marginal citation: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47).
+
+[^key-407c477e67ad78b7711ee9e37230a681]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/wsi/2009/1551/regulation/23) inserted (31.12.2020) by [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1376)](https://www.legislation.gov.uk/uksi/2019/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1376/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/1376/regulation/2) (as amended by [S.I. 2020/1308](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b3f3ec5e7e121e27eea527c5525d673d]: Textual amendment: Words in [reg. 23(1)(a)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/23/1/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2022/939/regulation/4/2/a)
+
+[^key-ed4118681d56834f7cf781faf11435d2]: Textual amendment: Words in [reg. 23(2)(a)](https://www.legislation.gov.uk/wsi/2009/1551/regulation/23/2/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2022/939/regulation/4/2/b)
+
+[^M_F_96aa0992-de74-499f-f3a3-d43a7cd644f5]: Textual amendment: Sch. substituted (8.11.2011) by [The Marketing of Fresh Horticultural Produce (Wales) (Amendment) Regulations 2011 (S.I. 2011/2486)](https://www.legislation.gov.uk/uksi/2011/2486), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2011/2486/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2011/2486/regulation/8)
+
+[^key-274a96ad39b63fa2d380b251d4abdf4a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2009/1551/schedule) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/uksi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/732/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/732/regulation/2/7) (as amended by [S.I. 2019/1281](https://www.legislation.gov.uk/uksi/2019/1281), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1281/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/1281/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

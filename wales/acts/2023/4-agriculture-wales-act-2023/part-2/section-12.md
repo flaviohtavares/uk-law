@@ -1,0 +1,55 @@
+---
+title: Agriculture (Wales) Act 2023, section 12
+act: Agriculture (Wales) Act 2023
+section: '12'
+status: revised-with-pending-changes
+text_date: '2024-07-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2023/4/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Agriculture (Wales) Act 2023, section 12
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-07-15. See https://www.legislation.gov.uk/changes/affected/asc/2023/4
+>
+> Extent: England, Wales.
+
+## 12. Power to make provision about checking eligibility for support, etc.[^key-c6f95d2a30d0372a93ddf75b2f44713d]
+
+*Extent: E+W*
+
+(1) The Welsh Ministers may by regulations make provision for, or in connection with—
+
+- (a) checking whether eligibility criteria for support are met;
+- (b) the consequences, where support has been provided without eligibility criteria having been met;
+- (c) enforcing compliance with any conditions subject to which support is or has been provided;
+- (d) monitoring the extent to which the purpose of support has been achieved;
+- (e) the investigation of suspected offences in connection with applications for, or the provision of, support.
+
+(2) Regulations under subsection (1) may, among other things, include provision—
+
+- (a) about the provision of information;
+- (b) conferring powers of entry;
+- (c) conferring powers of inspection, search and seizure;
+- (d) about the process for determining whether eligibility criteria or conditions in respect of the provision of support are met;
+- (e) about record keeping;
+- (f) about the recovery or making good of all or any part of financial support (with or without interest);
+- (g) about withholding support, in whole or in part;
+- (h) about steps to be taken, by a person to whom support is or has been provided, to rectify any breach of a condition applicable to that support;
+- (i) about monetary penalties (including penalties calculated by reference to the amount of any financial support);
+- (j) for recovery of amounts due in respect of monetary penalties, including provision for interest, set-off and security for payment;
+- (k) prohibiting a person from receiving support, or support of a specified description, for a specified period or until specified conditions are satisfied;
+- (l) about appeals;
+- (m) conferring functions (including functions involving the exercise of a discretion) on a person.
+
+(3) Regulations under subsection (1) may not authorise entry to a private dwelling without a warrant issued by a justice of the peace.
+
+(4) The provision that may be made under subsection (2)(i) includes provision for interest on any recoverable amount to be payable from whatever day (whether the day on which the support in question was provided, or another day) may be provided for in, or determined under, the regulations.
+
+(5) In this section, “**specified**” means specified in, or determined under, regulations under subsection (1).
+
+## Annotations
+
+[^key-c6f95d2a30d0372a93ddf75b2f44713d]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2023/4/section/12) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)

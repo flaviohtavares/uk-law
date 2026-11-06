@@ -1,0 +1,43 @@
+---
+title: Local Government and Elections (Wales) Act 2021, section 155
+act: Local Government and Elections (Wales) Act 2021
+section: '155'
+status: revised-with-pending-changes
+text_date: '2025-09-10'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2021/1/section/155
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government and Elections (Wales) Act 2021, section 155
+
+> **Warning: changes not yet applied to this text (21).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/asc/2021/1
+>
+> Extent: England, Wales.
+
+## 155. Amendment of Chapter 3 of Part 5 of the Local Government Finance Act 1988
+
+*Extent: E+W*
+
+(1) Chapter 3 of Part 5 of the Local Government Finance Act 1988 (c. 41) (revenue support grant: Wales) is amended as follows.
+
+(2) In section 84J (calculation of grant payable to receiving authorities), in subsection (4) after “subsection (1) or” insert “ by virtue of subsection ”.
+
+(3) In section 84K (payment of grant to receiving authorities)—
+
+- (a) in subsection (1), for “section 84J(2)” substitute “ section 84J(1) ”;
+- (b) in subsections (2) and (5), for “under section 84J(4)” substitute “ by virtue of section 84J(2) ”.
+
+(4) In section 84M (recalculation of grant following amending report), in subsection (6) after “subsection (2) or” insert “ by virtue of subsection ”.
+
+(5) In section 84N (payment of grant following amending report), in subsections (1) and (4) for “(4)” substitute “ by virtue of section 84M(4) ”.
+
+(6) In section 84P (information deadlines), in subsection (1) for “under section 84J(2) or (4) or 84M(2) or (4)” substitute
+
+> —
+>
+> - (a) under section 84J(1) or by virtue of section 84J(2), or
+> - (b) under section 84M(2) or by virtue of section 84M(4)
+
+.

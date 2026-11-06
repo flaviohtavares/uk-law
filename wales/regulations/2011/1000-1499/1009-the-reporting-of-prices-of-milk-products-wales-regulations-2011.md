@@ -1,0 +1,123 @@
+---
+title: The Reporting of Prices of Milk Products (Wales) Regulations 2011
+id: wsi/2011/1009
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-29'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2011/1009
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2011/1009/pdfs/wsi_20111009_mi.pdf
+- http://www.legislation.gov.uk/wsi/2011/1009/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Reporting of Prices of Milk Products (Wales) Regulations 2011
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 1009 (W.149)
+
+AGRICULTURE, WALES
+
+The Reporting of Prices of Milk Products (Wales) Regulations 2011
+
+Made
+
+29 March 2011
+
+Laid before the National Assembly for Wales
+
+31 March 2011
+
+Coming into force
+
+21 April 2011
+
+The Welsh Ministers, are designated[^f00001] for the purposes of making regulations under section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Union.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Welsh Ministers that it is expedient for the references to a European Union instrument, in these Regulations, to be construed as references to that European Union instrument as amended from time to time.
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred upon them by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972.
+
+## 1. Title, commencement and application[^key-efa5a286058271376e807bc8b60ac6cb]
+
+The title of these Regulations is the Reporting of Prices of Milk Products (Wales) Regulations 2011. They come into force on 21 April2011 and apply in relation to Wales.
+
+## 2. Interpretation[^key-8785e7815310cedab4730ef3cc859844]
+
+In these Regulations—
+
+- [^key-c108c60cf642519aa0961646a24bfba9]...
+- “milk processor” (“*proseswr llaeth*”) means a person operating an establishment which manufactures milk products; and
+- “milk products” ([^key-6f2cf85756a00ce2e592cb973e09e764]*“cynhyrchion llaeth”*) means whey powder, skimmed milk powder, whole milk powder, butter, cheeses (including commodity cheeses) and raw milk.
+
+## 3. Provision of information on prices of milk products[^key-6e4464085ce46fe7bd61ee514100e865]
+
+(1) A milk processor must provide to the Welsh Ministers such information relating to the prices of milk products as the Welsh Ministers may by notice require [^key-83e37f3efceb173914a27070ac5382b4]....
+
+(2) The notice referred to under paragraph (1) may require the milk processor to provide the information requested on a regular basis, and may specify when and in what format the information must be provided.
+
+## 4. Offences[^key-f84ee7a4e4e69fd2b6b4b7a7b7f4edce]
+
+(1) Any person who fails to comply with a notice referred to in regulation 3(1) is guilty of an offence, and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) Where a body corporate is guilty of an offence under paragraph (1) and the offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
+
+- (a) any director, manager, secretary or other similar person of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+that person is guilty of the offence as well as the body corporate.
+
+(3) For the purposes of paragraph (2) “director” in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+## 5. Revocation[^key-49fcf1030cf1756ea7dcdb5c52552b2c]
+
+The Reporting of Prices of Milk Products (Wales) Regulations 2005[^f00004] are revoked.
+
+Elin Jones
+
+Minister for Rural Affairs, one of the Welsh Ministers
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Reporting of Prices of Milk Products (Wales) Regulations 2005 (“the 2005 Regulations”) which made provision in Wales for the implementation of article 6 of Commission Regulation [(EC) No 562/2005](https://www.legislation.gov.uk/european/regulation/2005/0562) (OJ No L95, 14.4.2005, p.11) laying down rules for the implementation of Council Regulation [(EC) No 1255/1999](https://www.legislation.gov.uk/european/regulation/1999/1255) as regards communications between the Member States and the Commission in the milk and milk products sector as amended from time to time.
+
+Commission Regulation [(EC) No 562/2005](https://www.legislation.gov.uk/european/regulation/2005/0562) was repealed from 1 August 2010 and replaced by Commission Regulation (EU) No 479/2010 laying down rules for the implementation of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards Member States notifications to the Commission in the milk and milk products sector as amended from time to time. Council Regulation [(EC) No 1255/1999](https://www.legislation.gov.uk/european/regulation/1999/1255) was repealed from 1 July 2008 and replaced by Commission Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234).
+
+These Regulations require milk processors to provide the Welsh Ministers with such information relating to the prices of certain milk products, as they may require by notice (regulation 3). Failure to comply with such a requirement is an offence punishable on summary conviction by a fine not exceeding level 5 on the standard scale (regulation 4).
+
+A full regulatory impact assessment on the effect on the costs of business was prepared in respect of the 2005 Regulations and copies of this can be obtained from the Welsh Assembly Government, Cathays Park, Cardiff, CF10 3NQ. A further full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2010/2690](https://www.legislation.gov.uk/uksi/2010/2690).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A was inserted into Schedule 2 by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^key-efa5a286058271376e807bc8b60ac6cb]: Commencement: Reg. 1 in force at 21.4.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1009/regulation/1)
+
+[^key-8785e7815310cedab4730ef3cc859844]: Commencement: Reg. 2 in force at 21.4.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1009/regulation/1)
+
+[^key-c108c60cf642519aa0961646a24bfba9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/1009/regulation/2) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/wsi/2019/732/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6f2cf85756a00ce2e592cb973e09e764]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/1009/regulation/2) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6e4464085ce46fe7bd61ee514100e865]: Commencement: Reg. 3 in force at 21.4.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1009/regulation/1)
+
+[^key-83e37f3efceb173914a27070ac5382b4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/1009/regulation/3/1) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2019/732/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f84ee7a4e4e69fd2b6b4b7a7b7f4edce]: Commencement: Reg. 4 in force at 21.4.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1009/regulation/1)
+
+[^key-49fcf1030cf1756ea7dcdb5c52552b2c]: Commencement: Reg. 5 in force at 21.4.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1009/regulation/1)
+
+[^f00004]: Footnote: [S.I. 2005/2907 (W.206)](https://www.legislation.gov.uk/wsi/2005/2907).

@@ -1,0 +1,274 @@
+---
+title: The Food Additives and Novel Foods (Authorisations and Miscellaneous Amendments) and Food Flavourings (Removal of Authorisations) (Wales) Regulations 2024
+id: wsi/2024/741
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-06-05'
+text_date: '2025-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2024/741
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2024/741/pdfs/wsi_20240741_mi.pdf
+- http://www.legislation.gov.uk/wsi/2024/741/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food Additives and Novel Foods (Authorisations and Miscellaneous Amendments) and Food Flavourings (Removal of Authorisations) (Wales) Regulations 2024
+
+> Text as at 2025-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**No longer in force.**
+
+2024 No. 741 (W. 102)
+
+Food, Wales
+
+[^key-ff708343def612acc897f1ec67e42ea9]The Food Additives and Novel Foods (Authorisations and Miscellaneous Amendments) and Food Flavourings (Removal of Authorisations) (Wales) Regulations 2024
+
+Made
+
+5 June 2024
+
+Laid before Senedd Cymru
+
+7 June 2024
+
+Coming into force
+
+28 June 2024
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by—
+
+- Articles 7(4) and (5) and 14A(2)(b) of Regulation [(EC) No 1331/2008](https://www.legislation.gov.uk/european/regulation/2008/1331) of the European Parliament and of the Council establishing a common authorisation procedure for food additives, food enzymes and food flavourings;
+- Articles 12(1) and 32A(3)(b) of [Regulation (EU) 2015/2283](https://www.legislation.gov.uk/european/regulation/2015/2283) of the European Parliament and of the Council on novel foods.
+
+The Welsh Ministers have sought, and had regard to, advice from the Food Standards Agency as required by Article 7(4) and (5) of Regulation [(EC) No 1331/2008](https://www.legislation.gov.uk/european/regulation/2008/1331) (in relation to Parts 2 and 3 of these Regulations).
+
+There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
+
+## PART 1 — Introduction
+
+### 1. Title, extent, application and coming into force[^key-18c6ddcd9098ecad0aa3f8bdedb0e715]
+
+(1) The title of these Regulations is the Food Additives and Novel Foods (Authorisations and Miscellaneous Amendments) and Food Flavourings (Removal of Authorisations) (Wales) Regulations 2024.
+
+(2) These Regulations—
+
+- (a) extend to England and Wales;
+- (b) apply in relation to Wales;
+- (c) come into force on 28 June 2024.
+
+## PART 2 — Food Additives[^key-ff708343def612acc897f1ec67e42ea9]
+
+**No longer in force.**
+
+### 2. Amendment of Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333)[^key-ff708343def612acc897f1ec67e42ea9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Amendment of [Commission Regulation (EU) No 231/2012](https://www.legislation.gov.uk/european/regulation/2012/0231)[^key-ff708343def612acc897f1ec67e42ea9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Food Flavourings
+
+### 4. Amendment of Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334)[^key-65b43dd730fdf8aba50b87f6ac7c2370]
+
+(1)[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In Part A (domestic list of flavouring substances), in Section 2, in Table 1, omit the entries for the following flavouring substances—
+
+- (a) FL No.[^f00008] “07.030” chemical name “1-(4-Methoxyphenyl)pent-1-en-3-one”;
+- (b) FL No. “07.046” chemical name “Vanillylidene acetone”;
+- (c) FL No. “07.049” chemical name “1-(4-Methoxyphenyl)-4-methylpent-1-en-3-one”;
+- (d) FL No. “07.206” chemical name “4-(2,3,6-Trimethylphenyl)but-3-en-2-one”;
+- (e) FL No. “07.258” chemical name “6-Methyl-3-hepten-2-one”;
+- (f) FL No. “10.034” chemical name “5,6-Dihydro-3,6-dimethylbenzofuran-2(4H)-one”;
+- (g) FL No. “10.036” chemical name “5,6,7,7a-Tetrahydro-3,6-dimethylbenzofuran-2(4H)-one”;
+- (h) FL No. “10.042” chemical name “3,4-Dimethyl-5-pentylidenefuran-2(5H)-one”;
+- (i) FL No. “10.043” chemical name “2,7-Dimethylocta-5(trans),7-dieno-1,4-lactone”;
+- (j) FL No. “10.046” chemical name “Hex-2-eno-1,4-lactone”;
+- (k) FL No. “10.054” chemical name “Non-2-eno-1,4-lactone”;
+- (l) FL No. “10.060” chemical name “2-Decen-1,4-lactone”;
+- (m) FL No. “10.170” chemical name “5-Pentyl-3H-furan-2-one”;
+- (n) FL No. “13.004” chemical name “Allyl 2-furoate”;
+- (o) FL No. “13.034” chemical name “3-(2-furyl)acrylaldehyde”;
+- (p) FL No. “13.043” chemical name “Furfurylidene-2-butanal”;
+- (q) FL No. “13.044” chemical name “4-(2-Furyl)but-3-en-2-one”;
+- (r) FL No. “13.046” chemical name “3-(2-Furyl)-2-methylprop-2-enal”;
+- (s) FL No. “13.066” chemical name “3-Acetyl-2,5-dimethylfuran”;
+- (t) FL No. “13.103” chemical name “2-Butylfuran”;
+- (u) FL No. “13.137” chemical name “3-(2-Furyl)-2-phenylprop-2-enal”;
+- (v) FL No. “13.150” chemical name “3-(5-Methyl-2-furyl)prop-2-enal”.
+
+### 5. Transitional provision[^key-a9874a23223bca8bcf7163c3d0bf520f]
+
+(1) This paragraph applies to flavouring substances referred to in regulation 4(2)(a) to (v) and food containing them that were—
+
+- (a) present in the United Kingdom and were, or could have been, lawfully placed on the market in Great Britain before the end of 27 June 2024, or
+- (b) in transit to Great Britain before the end of 27 June 2024, and could have lawfully been imported or moved into Great Britain and placed on the market on that date.
+
+(2) Flavouring substances and food to which paragraph (1) applies may, until their date of minimum durability or ‘use by’ date, be placed on the market and, as the case may be, added to other food.
+
+(3) Food containing one or more flavouring substances to which paragraph (1) applies may, until its date of minimum durability or ‘use by’ date, be placed on the market and, as the case may be, be added to other food.
+
+(4) In this regulation—
+
+- “**date of minimum durability**” (“***dyddiad parhauster lleiaf***”) has the same meaning as in [Regulation (EU) No1169/2011](https://www.legislation.gov.uk/european/regulation/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers[^f00009][^f00010];
+- “‘use by’ date” (“*dyddiad* ‘*defnyddio erbyn*’”) has the same meaning as in Article 24 of [Regulation (EU) No1169/2011](https://www.legislation.gov.uk/european/regulation/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers.
+
+(5) Other expressions used in this regulation and in Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334) of the European Parliament and of the Council on flavourings and certain food ingredients with flavouring properties for use in and on foods have the same meaning as in that Regulation.
+
+## PART 4 — Novel Foods[^key-ff708343def612acc897f1ec67e42ea9]
+
+**No longer in force.**
+
+### 6. Amendment of Commission Implementing [Regulation (EU) 2017/2470](https://www.legislation.gov.uk/european/regulation/2017/2470)[^key-ff708343def612acc897f1ec67e42ea9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Jayne Bryant
+
+Minister for Mental Health and Early Years, under the authority of the Cabinet Secretary for Health and Social Care, one of the Welsh Ministers
+
+5 June 2024
+
+## SCHEDULE 1[^key-ff708343def612acc897f1ec67e42ea9]
+
+**No longer in force.**
+
+Regulation 2
+
+**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2[^key-ff708343def612acc897f1ec67e42ea9]
+
+Regulation 3(4)
+
+**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3[^key-ff708343def612acc897f1ec67e42ea9]
+
+Regulation 3(5)
+
+**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4[^key-ff708343def612acc897f1ec67e42ea9]
+
+Regulation 6
+
+**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5[^key-ff708343def612acc897f1ec67e42ea9]
+
+Regulation 6
+
+**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6[^key-ff708343def612acc897f1ec67e42ea9]
+
+Regulation 6
+
+**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7[^key-ff708343def612acc897f1ec67e42ea9]
+
+Regulation 6
+
+**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 8[^key-ff708343def612acc897f1ec67e42ea9]
+
+Regulation 6
+
+**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision, in relation to Wales, on regulated food product authorisations.
+
+Part 2 of these Regulations (regulations 2 and 3 and Schedules 1 to 3) is made in exercise of powers in Regulation [(EC) No 1331/2008](https://www.legislation.gov.uk/european/regulation/2008/1331) establishing a common authorisation procedure for food additives, food enzymes and food flavourings (EUR 2008/1331). Regulation 2 and Schedule 1 update, in relation to Wales, the domestic list of food additives approved for use in foods in Annex 2 of Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) on food additives (EUR 2008/1333). Regulation 3 and Schedules 2 and 3 amend, in relation to Wales, [Commission Regulation (EU) No 231/2012](https://www.legislation.gov.uk/european/regulation/2012/0231) laying down specifications for food additives listed in Annexes II and III to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) (EUR 2012/231).
+
+The amendments made in Part 2 of these Regulations provide for—
+
+- the authorisation, in relation to Wales, of the placing on the market and use of the food additive E 960b steviol glycosides from fermentation (*Yarrowia lipolytica*);
+- the authorisation, in relation to Wales, of a new production method for an existing authorised additive: E 960c enzymatically produced steviol glycosides. The specification for the existing production method in the Annex to EUR 2012/231 is renumbered as E 960c(i). The specification for the new production method is inserted as “E 960c(ii) rebaudioside M, AM and D produced via enzymatic conversion of highly purified steviol glycosides from Stevia leaf extracts”;
+- the authorisation, in relation to Wales, of a new use (edible ices) for the food additive E 476 polyglycerol polyricinoleate, and an amendment to an existing authorised use (sauces);
+- the introduction of a maximum residue limit of 0.1 mg/kg for residues of ethylene oxide applying to all authorised food additives;
+- minor miscellaneous corrections to Annex 2 to EUR 2008/1333.
+
+Part 3 of these Regulations is also made in exercise of powers in EUR 2008/1331. Regulation 4 removes, in relation to Wales, 22 flavouring substances from the domestic list of authorised flavouring substances in Annex 1 to Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334) on flavourings and certain food ingredients with flavouring properties for use in and on foods (EUR 2008/1334). Regulation 5 makes transitional provision to allow existing products containing these substances to continue to be marketed and used until their date of minimum durability (‘best before’ date) or ‘use by’ date.
+
+Part 4 of these Regulations (regulation 6 and Schedules 4 to 8) is made in exercise of powers in [Regulation (EU) 2015/2283](https://www.legislation.gov.uk/european/regulation/2015/2283) on novel foods (EUR 2015/2283). Part 4 updates, in relation to Wales, the list of authorised novel foods in the Annex to Commission Implementing [Regulation (EU) 2017/2470](https://www.legislation.gov.uk/european/regulation/2017/2470) establishing the Union list of novel foods (EUR 2017/2470)—
+
+- Schedule 4 inserts a new entry, authorising the placing on the market of partially hydrolysed protein from spent barley (*Hordeum vulgare*) and rice (*Oryza sativa*) as a novel food for use in the specified food categories.
+- Schedule 5 inserts a new entry, authorising the placing on the market of cetylated fatty acids as a novel food for use in food supplements for adults only.
+- Schedule 6 inserts a new entry, authorising the placing on the market of 3-fucosyllactose (3-FL) (from a strain of *Escherichia coli* K-12 DH1) as a novel food for use in the specified food categories.
+- Schedule 7 inserts a new entry, authorising the placing on the market of lacto-*N*-fucopentaose I (LNFP-I) and 2’-fucosyllactose (2’-FL) mixture as a novel food for use in the specified food categories.
+- Schedule 8 corrects errors in existing entries—
+  - In Table 1 only, the existing entry for “bovine milk basic whey protein isolate” is replaced to address formatting errors in the existing entry.
+  - In Table 2 only, the specification for Xylo-oligosaccharides is amended to add the parameter for “Dry material (%)”, which was missing from the existing entry.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^key-ff708343def612acc897f1ec67e42ea9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2024/741) revoked (except for reg. 5 and regs. 1, 4(2)(a)-(v) so far as they relate to reg. 5) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/2) (h) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+
+[^key-18c6ddcd9098ecad0aa3f8bdedb0e715]: Commencement: Reg. 1 in force at 28.6.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/741/regulation/1/2/c)
+
+[^key-65b43dd730fdf8aba50b87f6ac7c2370]: Commencement: Reg. 4 in force at 28.6.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/741/regulation/1/2/c)
+
+[^f00008]: Footnote: Unique identification number allocated by the European Food Safety Authority under the EU flavouring information system “FLAVIS”.
+
+[^key-a9874a23223bca8bcf7163c3d0bf520f]: Commencement: Reg. 5 in force at 28.6.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/741/regulation/1/2/c)
+
+[^f00009]: Footnote: EUR 2011/1169; relevant amending instruments are [S.I. 2019/529](https://www.legislation.gov.uk/uksi/2019/529), [778](https://www.legislation.gov.uk/uksi/2019/778), [2020/1627](https://www.legislation.gov.uk/uksi/2020/1627). [S.I. 2019/529](https://www.legislation.gov.uk/uksi/2019/529) was amended by [S.I. 2020/1501](https://www.legislation.gov.uk/uksi/2020/1501).
+
+[^f00010]: Footnote: The term “date of minimum durability of a food” is defined in Article 2(2)(r) of EUR 2011/1169 but see also Articles 9(1)(f) and 24.

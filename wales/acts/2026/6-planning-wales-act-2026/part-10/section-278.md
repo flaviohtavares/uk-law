@@ -1,0 +1,64 @@
+---
+title: Planning (Wales) Act 2026, section 278
+act: Planning (Wales) Act 2026
+section: '278'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/6/section/278
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning (Wales) Act 2026, section 278
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 278. Further provision about regulations under sections 276 and 277[^key-eb57dfb61ee41fbe8574852d48b2aa6f]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) Regulations under section 277—
+
+- (a) must make such provision as the Welsh Ministers consider necessary to ensure that any development or use of land to which the regulations apply is, so far as possible, subject to the same control—
+  - (i) as is imposed by law in relation to any similar development or use authorised either by an enactment other than this Act or by a Church of England Measure, or
+  - (ii) as it would be proper to impose on a disposal of the land otherwise than under an enactment or Church of England Measure;
+- (b) must impose such requirements in relation to the disposal of the land as the Welsh Ministers consider necessary to ensure that section 277 is complied with in relation to the development or use of the land.
+
+(2) Regulations under section 277 that contain incidental or consequential provision by virtue of section 407(3)(b) may, in particular, include provision about the closing of registers.
+
+(3) Subsections (4) to (8) apply to regulations under sections 276 and 277 about the removal and reinterment of human remains and the disposal of monuments.
+
+(4) The regulations must require the person entitled to the land to publish notice of the person’s intention to carry out the removal and reinterment of any human remains or the disposal of any monuments.
+
+(5) The regulations must make provision—
+
+- (a) enabling the personal representatives or relatives of a deceased person to carry out—
+  - (i) the removal and reinterment of the remains of the deceased, and
+  - (ii) the disposal of any monument commemorating the deceased, and
+- (b) requiring the person entitled to the land to meet the expenses of the personal representatives or relatives in doing so (up to the amount, if any, specified in the regulations).
+
+(6) The regulations must require compliance—
+
+- (a) in the case of consecrated land, with the reasonable conditions (if any) imposed by the bishop of the diocese in relation to—
+  - (i) how any human remains are to be removed,
+  - (ii) how and where any human remains are to be reinterred, and
+  - (iii) the disposal of any monuments;
+- (b) in any case, with any directions given by the Welsh Ministers in relation to the removal and reinterment of any human remains.
+
+(7) No faculty is required for—
+
+- (a) the removal and reinterment of any human remains in accordance with the regulations, or
+- (b) the removal or disposal of any monuments in accordance with the regulations,
+
+but this is subject to any provision to the contrary made by the regulations.
+
+(8) Section 25 of the Burial Act [1857 (c. 81)](https://www.legislation.gov.uk/ukpga/1857/81) (prohibition of removal of human remains without the licence of the Secretary of State except in certain cases) does not apply to the removal of human remains in accordance with the regulations.
+
+## Annotations
+
+[^key-eb57dfb61ee41fbe8574852d48b2aa6f]: Commencement: S. 278 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -1,0 +1,81 @@
+---
+title: The Local Authorities (Proposals for Executive Arrangements) (Wales) Order 2001
+id: wsi/2001/2277
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-06-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2001/2277
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2001/2277/pdfs/wsi_20012277_mi.pdf
+- http://www.legislation.gov.uk/wsi/2001/2277/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Proposals for Executive Arrangements) (Wales) Order 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 2277 (W. 167 )
+
+LOCAL GOVERNMENT, WALES
+
+The Local Authorities (Proposals for Executive Arrangements) (Wales) Order 2001
+
+Made
+
+21st June 2001
+
+Coming into force
+
+28 July 2001
+
+The National Assembly for Wales makes the following Order in exercise of the powers conferred upon it by sections 25(8), 105(1) and 106(1) and (2) of the Local Government Act 2000[^f00001]:
+
+## 1. Citation, commencement and application
+
+(1) This Order may be cited as the Local Authorities (Proposals for Executive Arrangements) (Wales) Order 2001 and shall come into force on 28th July 2001.
+
+(2) This Order applies to Wales only.
+
+## 2. Interpretation
+
+In this Order —
+
+- “the Act” (“*y Ddeddf*”) means the Local Government Act 2000; and
+- “local authority” (“*awdurdod lleol*”) means every county or county borough council in Wales except a county or county borough council to which section 31 of the Act applies and which has decided to draw up proposals for alternative arrangements under section 31(4)(a) of the Act.
+
+## 3. Date by which local authorities must comply with section 25 of the Act.
+
+A local authority must comply with section 25 of the Act by 31 January 2002.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00002].
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+21st June 2001
+
+(This note does not form part of the Order)
+
+Subject to the exception below, every county and county borough council in Wales (“local authority”) is required by section 25 of the Local Government Act 2000 (“the Act”) to draw up proposals for the operation of executive arrangements as defined by section 10(1) of the Act.
+
+The exception is where section 31 of the Act applies to the local authority and it decides to draw up proposals for the operation of alternative arrangements under section 31(4)(a) of the Act.
+
+In drawing up proposals under section 25 of the Act, a local authority must decide what form their executive is to take. Their proposals must include such details of the executive arrangements as the National Assembly for Wales may direct, a timetable with respect to the implementation of their proposals and details of any transitional arrangements which are necessary for the implementation of the proposals.
+
+A copy of the proposals must be sent to the National Assembly for Wales and be accompanied by a statement describing the steps taken by the local authority to consult the local government electors for, and other interested persons in, their area. The statement must also describe the outcome of the consultation and the extent to which that outcome is reflected in the proposals.
+
+This Order specifies the date by which a local authority must comply with the requirements of section 25 of the Act. That date is 31 January 2002.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
+
+[^f00002]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

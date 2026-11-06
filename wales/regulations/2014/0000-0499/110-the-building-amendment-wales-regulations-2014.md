@@ -1,0 +1,247 @@
+---
+title: The Building (Amendment) (Wales) Regulations 2014
+id: wsi/2014/110
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-01-21'
+text_date: '2025-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2014/110
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2014/110/pdfs/wsi_20140110_mi.pdf
+- http://www.legislation.gov.uk/wsi/2014/110/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building (Amendment) (Wales) Regulations 2014
+
+> Text as at 2025-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 110 (W. 10)
+
+Building And Buildings, Wales
+
+The Building (Amendment) (Wales) Regulations 2014
+
+Made
+
+21 January 2014
+
+Laid before the National Assembly for Wales
+
+23 January 2014
+
+Coming into force
+
+31 July 2014
+
+The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 1 and 34 of and paragraphs 1, 4, 7 and 10 of Schedule 1 to the Building Act 1984[^f00001], now exercisable by them[^f00002], having consulted, in accordance with section 14(7) of that Act, the Building Regulations Advisory Committee for Wales and such other bodies as appear to them to be representative of the interests concerned, make the following Regulations:
+
+## PART 1 — General
+
+### 1. Title, application and commencement[^key-7fbebcd855dd22cc90a0338616592bea]
+
+(1) The title of these Regulations is the Building (Amendment) (Wales) Regulations 2014.
+
+(2) These Regulations apply in relation to Wales but do not apply in relation to excepted energy buildings in Wales.
+
+(3) These Regulations come into force on 31 July 2014.
+
+(4) In this regulation “excepted energy building” has the meaning given by the Schedule to the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009[^f00003].
+
+## PART 2 — Amendment of the Building Regulations 2010
+
+### 2. Amendment of the Building Regulations 2010[^key-3accd627deab144dddcc02f8f980b68a]
+
+The Building Regulations 2010[^f00004] are amended as set out in Regulations 3 to 9.
+
+### 3. Interpretation[^key-65af7c92483e0c21224e9c8123c4f98c]
+
+In regulation 2(1), in the definition of “energy efficiency requirements”, after “26,” insert “26A, 26B,”.
+
+### 4. Application of energy efficiency requirements[^key-769701c44d4273a04cb63021a0038b52]
+
+In regulation 21—
+
+- (a) at the end of paragraph 4(a) omit “or”;
+- (b) after “extended” in paragraph (4)(b) insert—
+
+  > to heat the conservatory or porch; or
+  >
+  > - (c) in which a fixed heating appliance has been provided to heat the conservatory or porch.
+
+### 5. New buildings: minimum energy performance requirements[^key-8b83ea99884085f63a53b3b77cf0208d]
+
+After regulation 25B insert—
+
+> **25C. New buildings: minimum energy performance requirements**
+>
+> Minimum energy performance requirements may be approved by the Welsh Ministers, in accordance with the methodology approved pursuant to regulation 24, for—
+>
+> - (a) new buildings (other than new dwellings), in the form of target primary energy consumption rates; and
+> - (b) new dwellings, in the form of target fabric performance values.
+
+### 6. Primary energy consumption rates and fabric performance values[^key-ddcbd0fbc258497a8a5b3da99db56673]
+
+After regulation 26, insert—
+
+> **26A. Primary energy consumption rates for new buildings**
+>
+> Where a building (other than a dwelling) is erected, it must not exceed the target primary energy consumption rate for the building which has been approved pursuant to regulation 25C(a).
+>
+> **26B. Fabric performance values for new dwellings**
+>
+> Where a dwelling is erected, it must not exceed the target fabric performance values for the dwelling which have been approved pursuant to regulation 25C(b).
+
+### 7. Primary energy consumption rate and fabric performance values calculations[^key-8e50ebaeab32e6c4648249d837cdeeaf]
+
+After regulation 27 insert—
+
+> **27A. Primary energy consumption rate calculations**
+>
+> (1) This regulation applies where a building (other than a dwelling) is erected and regulation 26A applies.
+>
+> (2) Not later than the day before the work starts, the person carrying out the work must give the local authority a notice which specifies**—**
+>
+> - (a) the target primary energy consumption rate for the building;
+> - (b) the calculated primary energy consumption rate for the building as designed; and
+> - (c) a list of specifications to which the building is to be constructed.
+>
+> (3) Not later than five days after the work has been completed, the person carrying out the work must give the local authority**—**
+>
+> - (a) a notice which specifies**—**
+>   - (i) the target primary energy consumption rate for the building;
+>   - (ii) the calculated primary energy consumption rate for the building as constructed; and
+>   - (iii) whether the building has been constructed in accordance with the list of specifications referred to in paragraph 2(c), and if not a list of any changes to those specifications; or
+> - (b) a certificate of the sort referred to in paragraph (4) accompanied by the information referred to in sub-paragraph (a).
+>
+> (4) A local authority is authorised to accept, as evidence that the requirements of regulation 26A have been satisfied, a certificate to that effect by an energy assessor who is accredited to produce such certificates for that category of building.
+>
+> (5) In this regulation, “specifications” means specifications used for the calculation of the primary energy consumption rate.
+>
+> **27B. Fabric performance values calculations**
+>
+> (1) This regulation applies where a dwelling is erected and regulation 26B applies.
+>
+> (2) Not later than the day before the work starts, the person carrying out the work must give the local authority a notice which specifies**—**
+>
+> - (a) the target fabric performance values for the dwelling;
+> - (b) the calculated fabric performance values for the dwelling as designed; and
+> - (c) a list of specifications to which the dwelling is to be constructed.
+>
+> (3) Not later than five days after the work has been completed, the person carrying out the work must give the local authority**—**
+>
+> - (a) a notice which specifies**—**
+>   - (i) the target fabric performance values for the dwelling;
+>   - (ii) the calculated fabric performance values for the dwelling as constructed; and
+>   - (iii) whether the dwelling has been constructed in accordance with the list of specifications referred to in paragraph 2(c), and if not a list of any changes to those specifications; or
+> - (b) a certificate of the sort referred to in paragraph (4) accompanied by the information referred to in sub-paragraph (a).
+>
+> (4) A local authority is authorised to accept, as evidence that the requirements of regulation 26B have been satisfied, a certificate to that effect by an energy assessor who is accredited to produce such certificates for that category of building.
+>
+> (5) In this regulation, “specifications” means specifications used for the calculation of the fabric performance values.
+
+### 8. Consequential improvements to energy performance[^key-e9abe38463aa6c0eb69085be2d3cf38b]
+
+For regulation 28 (and the heading before it) substitute—
+
+> **28. Consequential improvements to energy performance**
+>
+> (1) Paragraph (3) applies to an existing building with a total useful floor area over 1000m<sup>2</sup> where the proposed building work consists of or includes—
+>
+> - (a) the initial provision of any fixed building services; or
+> - (b) an increase to the installed capacity of any fixed building services.
+>
+> (2) Paragraph (3) applies to an existing building where the proposed building work consists of or includes—
+>
+> - (a) an extension; or
+> - (b) the extension of the building’s heating system or the provision of a fixed heating appliance, to heat a previously unheated space.
+>
+> (3) Subject to paragraph (4), where this paragraph applies, such work, if any, shall be carried out as is necessary to ensure that the building complies with the requirements of Part L of Schedule 1.
+>
+> (4) Nothing in paragraph (3) requires work to be carried out if it is not technically, functionally and economically feasible.
+
+### 9. Contravention of certain regulations not to be an offence[^key-e22c4917a0754a7f339ebca1a0395532]
+
+In regulation 47, after “27,” insert “27A, 27B,”.
+
+### 10. Transitional provisions[^key-71986c7b8bef9b499a9142dd9949bc18]
+
+(1) The amendments made by regulation 4 (in respect of the new regulation 21(4)(c) which it introduces to the Building Regulations 2010), regulation 6 and regulation 8 (in respect of the new regulation 28(2) which it introduces to the Building Regulations 2010) do not apply in any case where on the date these Regulations come into force—
+
+- (a) building work has started in accordance with any relevant notification provision; or
+- (b) a relevant notification provision has been complied with in relation to proposed building work and the building work is started within the period of twelve months beginning on the day these Regulations come into force.
+
+(2) In this regulation, “relevant notification provision” (“*darpariaeth hysbysu berthnasol*”) means regulation 12(2) of the Building Regulations 2010 and sections 47(1), 50, 51A(2) and 54 of the Building Act 1984.
+
+## PART 3 — Amendment of the Building (Approved Inspectors etc.) Regulations 2010
+
+### 11. Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^key-87fab6bf56629a4f60d2b170ffb5ce1d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Functions of approved inspectors[^key-87fab6bf56629a4f60d2b170ffb5ce1d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Application of regulations 20, 25A, 27, 29, 37, 41, 42, 43 and 44 of the Building Regulations[^key-87fab6bf56629a4f60d2b170ffb5ce1d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Carl Sargeant
+
+Minister for Housing and Regeneration, one of the Welsh Ministers
+
+21 January 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Part 2 of these Regulations amends the Building Regulations 2010 (“the 2010 Regulations”) to insert new and to extend existing provisions relating to the energy efficiency of buildings.
+
+Regulation 4 supplements regulation 21(4) of the 2010 Regulations to extend the energy efficiency requirements in the 2010 Regulations to a conservatory or porch in which a fixed heating appliance has been provided to heat the conservatory or porch. Regulation 5 enables the Welsh Ministers to approve target primary energy consumption rates for new buildings (other than new dwellings) and target fabric performance values for new dwellings. Regulation 6 inserts regulations 26A and 26B into the 2010 Regulations to require that new buildings (other than new dwellings) must not exceed the target primary energy consumption rates and new dwellings must not exceed the target fabric performance values. Regulation 7 inserts regulations 27A and 27B into the 2010 Regulations which set out the procedure to be followed to submit evidence regarding the target primary energy consumption rates and the target fabric performance values to the local authority. Regulation 8 substitutes regulation 28 of the 2010 Regulations to supplement and to extend certain requirements to buildings with a total useful floor area under 1000m<sup>2</sup>.
+
+Part 3 of these Regulations amends the Building (Approved Inspectors etc.) Regulations 2010. The amendments made are consequential to the amendments to the 2010 Regulations.
+
+A regulatory impact assessment has been prepared in relation to these Regulations. Copies are available from the Welsh Government at Cathays Park, Cardiff, CF10 3NQ and on the Welsh Government’s website at www.wales.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55). Section 1 was amended by section 1 of the Sustainable and Secure Buildings Act [2004 (c.22)](https://www.legislation.gov.uk/ukpga/2004/22); paragraph 7 of Schedule 1 was amended by section 3 of that Act and by section 11 of the Climate Change and Sustainable Energy Act [2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19).
+
+[^f00002]: Footnote: The functions conferred on the Secretary of State by sections 1 and 34 of and paragraphs 1, 4, 7 and 10 of Schedule 1 to the Building Act 1984 were, so far as exercisable in relation to Wales, transferred to the Welsh Ministers by the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009 ([S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019)).
+
+[^key-7fbebcd855dd22cc90a0338616592bea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/110/regulation/1) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+
+[^f00003]: Footnote: [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019). The Welsh Ministers (Transfer of Functions) (No. 2) Order 2009 transferred certain functions conferred on the Secretary of State by or under the Building Act 1984, so far as exercisable in relation to Wales, to the Welsh Ministers. Article 3(a) of the Order provided that functions were not transferred so far as they were exercisable in relation to an excepted energy building as defined by the Schedule to the Order.
+
+[^key-3accd627deab144dddcc02f8f980b68a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/110/regulation/2) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+
+[^f00004]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214); relevant amending instruments are [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181), [S.I. 2013/747 (W.89)](https://www.legislation.gov.uk/wsi/2013/747) and [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959).
+
+[^key-65af7c92483e0c21224e9c8123c4f98c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2014/110/regulation/3) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+
+[^key-769701c44d4273a04cb63021a0038b52]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2014/110/regulation/4) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+
+[^key-8b83ea99884085f63a53b3b77cf0208d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2014/110/regulation/5) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+
+[^key-ddcbd0fbc258497a8a5b3da99db56673]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2014/110/regulation/6) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+
+[^key-8e50ebaeab32e6c4648249d837cdeeaf]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2014/110/regulation/7) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+
+[^key-e9abe38463aa6c0eb69085be2d3cf38b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2014/110/regulation/8) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+
+[^key-e22c4917a0754a7f339ebca1a0395532]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2014/110/regulation/9) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+
+[^key-71986c7b8bef9b499a9142dd9949bc18]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2014/110/regulation/10) in force at 31.7.2014, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/110/regulation/1/3)
+
+[^key-87fab6bf56629a4f60d2b170ffb5ce1d]: Textual amendment: Regs. 11-13 revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(c)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/c)

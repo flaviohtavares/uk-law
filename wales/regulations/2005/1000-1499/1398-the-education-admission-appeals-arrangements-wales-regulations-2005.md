@@ -1,0 +1,510 @@
+---
+title: The Education (Admission Appeals Arrangements) (Wales) Regulations 2005
+id: wsi/2005/1398
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-05-24'
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2005/1398
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2005/1398/pdfs/wsi_20051398_mi.pdf
+- http://www.legislation.gov.uk/wsi/2005/1398/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Admission Appeals Arrangements) (Wales) Regulations 2005
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2005 No. 1398 (W.112)
+
+EDUCATION, WALES
+
+The Education (Admission Appeals Arrangements) (Wales) Regulations 2005
+
+Made
+
+24 May 2005
+
+Coming into force
+
+31 May 2005
+
+In exercise of the powers conferred on the Secretary of State by sections 94(5), (5A), (5C), 95(3), (3A), (3B) and 138(7) of the Schools Standards and Framework Act 1998 [^c10789581], now vested in the National Assembly for Wales [^c10789591] and after consultation with the Council on Tribunals in accordance with section 8 of the Tribunal and Inquiries Act 1992 [^c10789601] the National Assembly for Wales makes the following Regulations:
+
+## 1. Title, commencement and application
+
+(1) The title of these Regulations is the Education (Admission Appeals Arrangements) (Wales) Regulations 2005 and they come into force on 31 May 2005.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation
+
+(1) In these Regulations —
+
+- [^key-c9d395f5a0cf2d252364f73e3c5603a6]...
+- “**the 1998 Act**” (“***Deddf 1998***”) means the School Standards and Framework Act 1998.
+- [^key-4566f219633b938dbfd6bf6239d3e1d5]...
+- “[^key-1e3ed88c8af1f6c5a53c080e835f06b5]**the 2013 Act**” (“***Deddf 2013***”) means the Democracy and Boundary Commission Cymru etc. Act 2013;
+- “[^key-5868a036165ee0ce88a2e9435baa9489]**the admission authority**” has the same meaning as in section 88(1)(a) and (b) of the 1998 Act;
+- “**appeal hearing**” (“***gwrandawiad apêl***”) means a hearing of an appeal for the purposes of Chapter 1 of Part 3 of the 1998 Act;
+- “**appropriate authority**”(“***awdurdod priodol***”) means the body or the bodies responsible for making the arrangements described in regulation 3;
+- “**the Commission**” (“***y Comisiwn***”) means the Democracy and Boundary Commission Cymru;
+- “**lay member**” (“***aelod lleyg***”) has the meaning given to it by paragraphs 1(4) and 2(4) of Schedule 1;
+- “**presenting officer**” (“***swyddog cyflwyno***”) means a person nominated by the appropriate authority, to make oral representations to the appeal panel in relation to the appeal;
+- “**remote access**” (“***mynediad o bell***”) means access to an appeal hearing to enable those who are not all present together at the same place to attend or participate simultaneously in the hearing by electronic means, including by live audio link and live video link;
+- “School Admissions Code” (“[^key-02693f94e3bf0b2716bc95466ae7864e]*Cod Derbyniadau Ysgol*”) means any code for school admissions issued under section 84;
+- [^c10789621]“**school day**” (“***diwrnod ysgol***”) has the same meaning given to it by section 579(1) of the Education Act 1996.
+
+(2) Any reference in these Regulations to—
+
+- (a) a numbered section is a reference to that section of the 1998 Act, unless stated otherwise;
+- (b) a teacher includes a headteacher.
+
+(3)[^key-b2b17aee3eda94c5b86e1af6ad71471e] A “**live audio link**”, in relation to a person (P) taking part in the appeal hearing, is a live telephone link or other arrangement which—
+
+- (a) enables P to hear all other persons taking part in the appeal hearing who are not in the same location as P, and
+- (b) enables all other persons taking part in the appeal hearing who are not in the same location as P to hear P.
+
+(4) A “**live video link**”, in relation to a person (P) taking part in the appeal hearing, is a live television link or other arrangement which—
+
+- (a) enables P to see and hear all other persons taking part in the appeal hearing who are not in the same location as P, and
+- (b) enables all other persons taking part in the appeal hearing who are not in the same location as P to see and hear P.
+
+## 3. Constitution of appeal panels
+
+Where arrangements or joint arrangements are made by —
+
+- (a) a local education authority under section 94(1) or (1A) [^c10789631];
+- (b) the governing body of a foundation or voluntary aided school under section 94(2) or (2A) [^c10789641];
+- (c) the governing bodies of two or more foundation or voluntary aided schools maintained by the same local education authority, in accordance with section 94(3) [^c10789651];
+- (d) a local education authority and the governing body or bodies of one or more foundation or voluntary aided schools maintained by the authority, in accordance with section 94(4) [^c10789661];
+- (e) a local education authority under section 95(2),
+
+an appeal is to be made to an appeal panel constituted in accordance with the relevant paragraph of [^key-20ed368c9f6535860e7c3497f58df621]... Schedule 1.
+
+## 4. Duty to advertise for lay members
+
+(1) The appropriate authority must during the period referred to in paragraph (2), secure the publication of an advertisement for lay members of appeal panels constituted in accordance with any of the paragraphs of Schedule 1.
+
+(2) The advertisement referred to in paragraph (1) must be published before the end of the three year period starting when the last advertisement was published by that authority for lay members of an appeal panel constituted in accordance with Schedule 24 to the 1998 Act, and thereafter in every three year period following the date upon which an advertisement (or the final advertisement of a series of advertisements) was last published by that authority in accordance with this regulation.
+
+(3) The advertisement referred to in paragraph (1) above must —
+
+- (a) identify by name, class, or general description, the schools served by the appeal panels to which the advertisement refers;
+- (b) be placed in at least one local newspaper circulating in the area in which the schools identified in the advertisement are situated;
+- (c) allow a period of at least 21 days from the date of publication of the advertisement for replies.
+
+(4) Before appointing any lay member the appropriate authority must consider any eligible persons who have applied to the authority in response to the most recent advertisement or series of advertisements placed in pursuance of paragraph (1) indicating that they wish to be considered for such appointment.
+
+## 5. Procedure for appeals
+
+An appeal under arrangements specified in regulation 3 must be made in accordance with [^key-8b764b7d2b59e1ab36651e83f7771914]... Schedule 2.
+
+## 6. Relevant considerations in appeals brought under sections 94 and 95 of the 1998 Act[^key-50dfbf1e7826748c54220a8ae80b3c82]
+
+(1) In relation to an appeal made under the arrangements referred to in regulation 3(a) to (d), the matters to be taken into account by an appeal panel, in considering an appeal, must include—
+
+- (a) any preference expressed by the appellant; and
+- (b) the arrangements for admission of pupils published by the local authority or the governing body in accordance with regulations made under section 92.
+
+(2) The arrangements for admission referred to in paragraph (1)(b) are the arrangements published when any preference was expressed by the appellant.
+
+(3) Consideration of the matter mentioned in paragraph (1)(b) may include consideration of whether those arrangements comply with any mandatory requirements of—
+
+- (i) a School Admissions Code, or
+- (ii) Part 3 of the 1998 Act.
+
+(4) Where the decision was made on the ground that prejudice of the kind referred to in section 86(3)(a) would arise as mentioned in subsection (4) of that section, an appeal panel may determine that a place is to be offered to the child only if they are satisfied that one of the conditions mentioned in paragraph (5) applies.
+
+(5) The conditions mentioned in this paragraph are—
+
+- (a) the child would have been offered a place if the schools admission arrangements had complied with the requirements of—
+  - (i) a School Admissions Code, or
+  - (ii) Part 3 of the 1998 Act;
+- (b) the child would have been offered a place if the school’s admission arrangements had been properly implemented; or
+- (c) the decision was not one which a reasonable admission authority would have made in the circumstances of the case.
+
+(6) In relation to an appeal made under arrangements referred to in regulation 3(e) an appeal panel in considering an appeal must have regard to—
+
+- (a) the reasons for the local authority’s decision that the child in question should be admitted; and
+- (b) any reasons put forward by the governing body as to why the child’s admission would be inappropriate.
+
+(7) In this regulation, “preference” (“*hoff ddewis*”) means a preference expressed in accordance with arrangements made under section 86(1) or section 86A(1), in relation to the school year 2013-2014, and subsequent schools years.
+
+## 7. Payment of allowances[^key-30261d4c0416ba866958f0e2b2231204]
+
+(1) This regulation applies to any member of an appeal panel constituted in accordance with any of the paragraphs of Schedule 1.
+
+(2) The relevant local authority may pay to a member referred to in paragraph (1) allowances for—
+
+- (a) financial loss;
+- (b) travel; and
+- (c) subsistence.
+
+(3) The allowances referred to in paragraph (2) are to be at the most recent rates set out for payments to members of a community and town council in a report (“the report”) by the Commission issued under Part 5A of the 2013 Act (functions relating to payments and pensions)[^key-027f066ec463d41365d26d33e5ed839d].
+
+(4) Any reference in the report to an approved duty is to be read as including a reference to attendance at a meeting of an appeal panel.
+
+## 8. Indemnity
+
+(1) The appropriate authority must indemnify the members of any appeal panel constituted for the purposes of the arrangements which it has made, as specified in regulation 3, against any reasonable legal costs and expenses reasonably incurred by those members in connection with any decision or action taken by them in good faith in pursuance of their functions as members of that panel.
+
+(2) Where any such panel is constituted by —
+
+- (a) the governing bodies of two or more foundation or voluntary aided schools maintained by the same local education authority; or
+- (b) a local education authority and the governing body or bodies of one or more foundation or voluntary aided schools maintained by the authority,
+
+any liability arising under paragraph (1) is to be a joint and several liability of the bodies by whom the joint arrangements are made unless otherwise previously agreed in writing between those bodies.
+
+## 9. Time limits[^M_F_761011e1-49d1-4d09-a0cd-131e2cb4aea5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c10789701]Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998 .
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+## SCHEDULE 1 — CONSTITUTION OF APPEAL PANELS
+
+Regulation 3
+
+**A1.**[^M_F_3d3f7d1e-8f07-49c5-b1d9-2b81bff3bf55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1. Arrangements made by a local education authority
+
+(1) Where the arrangements are those specified in regulation 3(a), an appeal panel is to consist of three or five members appointed by a local education authority from —
+
+- (a) persons who are eligible to be lay members; and
+- (b) persons who have experience in education or who are acquainted with educational conditions in the area of the authority; or
+- (c) persons who are parents of registered pupils at a school.
+
+(2) Of the members of an appeal panel —
+
+- (a) at least one must be a person who is eligible to be a lay member and is appointed as such; and
+- (b) at least one must be a person falling within sub-paragraph (1)(b) or (1)(c).
+
+(3) The local education authority must appoint one member of the panel to act as chair.
+
+(4) For the purposes of this paragraph a person is eligible to be a lay member if he or she is a person without personal experience in the management of any school or the provision of education in any school (disregarding any such experience as a governor or in any other voluntary capacity).
+
+(5) Sufficient persons may be appointed by the authority under this paragraph to enable two or more appeal panels to sit at the same time.
+
+(6) No person is to be a member of an appeal panel if he or she is disqualified by virtue of sub-paragraph (7).
+
+(7) The following persons are disqualified from membership of an appeal panel —
+
+- (a) any member of the authority or governing body of the school in question;
+- (b) any person employed by the authority or the governing body or governing bodies, other than a person employed as a teacher;
+- (c) any person who has, or at any time has had, any connection with —
+  - (i) the authority or the school, or
+  - (ii) any person within paragraph (b)
+
+  of a kind which might reasonably be taken to raise doubts about his or her ability to act impartially in relation to the authority or the school.
+
+(8) A person employed as a teacher by the authority is not to be taken, by reason only of that employment, to have such a connection with the authority as is mentioned in sub-paragraph (7)(c).
+
+(9) A person is not to be a member of an appeal panel for the consideration of an appeal against a decision if he or she was among those who made the decision or took part in discussions as to whether the decision should be made.
+
+(10) A person who is a teacher at a school is not to be a member of an appeal panel for the consideration of an appeal involving a question whether a child is to be admitted to that school.
+
+(11) Where, at any time after an appeal panel has begun to consider an appeal, any of the members —
+
+- (a) dies; or
+- (b) becomes unable through illness to continue as a member; or
+- (c) becomes unable to continue as a member because doubts may reasonably be raised about his or her ability to act impartially,
+
+the panel may continue with their consideration and determination of the appeal so long as the number of remaining members is not less than three and the requirements of sub-paragraph (2) above are satisfied.
+
+### 2. Arrangements made by a governing body
+
+(1) Where the arrangements are those specified in regulation 3(b), a panel is to consist of three or five members appointed by the governing body from —
+
+- (a) persons who are eligible to be lay members; and
+- (b) persons who have experience in education or who are acquainted with educational conditions in the area of the authority; or
+- (c) persons who are parents of registered pupils at a school.
+
+(2) Of the members of an appeal panel —
+
+- (a) at least one must be a person who is eligible to be a lay member and is appointed as such; and
+- (b) at least one must be a person falling within sub-paragraph (1)(b) or (1)(c).
+
+(3) The governing body must appoint one member of the panel to act as chair.
+
+(4) For the purposes of this paragraph a person is eligible to be a lay member if he or she is a person without personal experience in the management of any school or the provision of education in any school (disregarding any such experience as a governor or in any other voluntary capacity).
+
+(5) Sufficient persons may be appointed by the governing body under this paragraph to enable two or more appeal panels to sit at the same time.
+
+(6) No person is to be a member of an appeal panel if he or she is disqualified by virtue of sub-paragraph (7).
+
+(7) The following persons are disqualified from membership of an appeal panel —
+
+- (a) any member of the local education authority by whom the school is maintained or of the governing body;
+- (b) any person employed by the authority or the governing body, other than a person employed as a teacher;
+- (c) any person who has, or at any time has had, any connection with —
+  - (i) the authority or the school, or
+  - (ii) any person within paragraph (b),
+
+  of a kind which might reasonably be taken to raise doubts about his or her ability to act impartially in relation to the authority or the school.
+
+(8) A person employed as a teacher by the authority is not be taken, by reason only of that employment, to have such a connection with the authority as is mentioned in sub-paragraph (7)(c).
+
+(9) A person who is a teacher at a school is not to be a member of an appeal panel for the consideration of an appeal involving a question whether a child is to be admitted to that school.
+
+(10) Where, at any time after an appeal panel has begun to consider an appeal, any of the members —
+
+- (a) dies; or
+- (b) becomes unable through illness to continue as a member; or
+- (c) becomes unable to continue as a member because doubts may reasonably be raised about his or her ability to act impartially,
+
+the panel may continue with their consideration and determination of the appeal so long as the number of remaining members is not less than three and the requirements of sub-paragraph (2) above are satisfied.
+
+### 3. Joint arrangements by two or more governing bodies
+
+(1) Where arrangements are those specified in regulation 3(c), paragraph 2 of this Schedule is to apply as if—
+
+- (a) (except in sub-paragraph (7)) any reference to the governing body were a reference to the governing bodies of both or all the schools; and
+- (b) in sub-paragraph (7), any reference to the governing body of the school in question or to that school were a reference to any of those governing bodies or to any of those schools.
+
+### 4. Joint arrangements by a local education authority and one or more governing body
+
+Where the arrangements are those specified in regulation 3(d), paragraph 1 of this Schedule is to apply in relation to those arrangements as it applies in relation to arrangements made by a local education authority such as are referred to in regulation 3(a) but as if in sub-paragraph (7) any reference to the governing body of the school in question or to that school were a reference to the governing body of any school to which the arrangements relate or to any such school.
+
+### 5. Appeals by a governing body under section 95
+
+(1) Subject to sub-paragraph (2), where the arrangements are those specified in regulation 3(e), paragraph 1 of this Schedule is to have effect as it has effect where the arrangements are those specified in regulation 3(a).
+
+(2) A person is not to be a member of an appeal panel for the consideration of an appeal under section 95(2) if he or she has to any extent been involved in any previous consideration of the question whether the child in question should or should not be reinstated at any school from which he or she has at any time been permanently excluded, or in any previous appeal relating to the child under section 95(2).
+
+## SCHEDULE 2 — PROCEDURE ON APPEAL[^key-a09f7b9b8e85646a68a2e06619434552]
+
+Regulation 5
+
+### A1. Appeal hearings[^key-57c844db72093d1567f142af5c136b64]
+
+(1) An admission authority may decide an appeal hearing must be held—
+
+- (a) in person,
+- (b) wholly through the use of remote access (“a remote appeal”), provided the conditions in sub-paragraph (4) are met, or
+- (c) partly in person and partly through the use of remote access (“a hybrid appeal”), provided the conditions in sub-paragraph (4) are met.
+
+(2) A remote appeal may only be held entirely by live audio link if—
+
+- (a) a live video link is not available for reasons relating to internet connectivity, and
+- (b) both the appellant and presenting officer agree.
+
+(3) If an admission authority decides either that a remote appeal or a hybrid appeal must be held it must make all necessary arrangements for the appeal panel to have access to the necessary remote access equipment.
+
+(4) The conditions referred to in sub-paragraphs (1)(b) and (c) are—
+
+- (a) the parties are able to present their case fully,
+- (b) each participant has access to the electronic means to allow them to hear and be heard and (where using a live video link) see and be seen, throughout the appeal hearing, and
+- (c) the admission authority considers that the appeal is capable of being heard fairly and transparently.
+
+(5) The admission authority may decide that an appeal will be decided on the written information submitted if either the presenting officer or the appellant are unable to attend on the date of the hearing.
+
+### 1. Appeals made pursuant to section 94
+
+(1) In this paragraph—
+
+- “appeal” means an appeal made under the arrangements specified in regulation 3(a) to (d); and
+- “a decision about sixth form education” means a decision—
+  - (a) made in relation to a preference expressed in accordance with arrangements made under section 86A(1) as to where education should be provided for a child; or
+  - (b) refusing permission for a child to enter the sixth form of the school to which the child has been admitted.
+
+(2) Particulars of the arrangements for making an appeal, including information containing the contact details for whichever body or bodies are responsible for those arrangements, must be set out in any document containing a notification to parents of—
+
+- (a) a decision referred to in section 94(1)(za), (b) and (2) refusing their child admission to a school for which the parents have expressed a preference in accordance with the arrangements made under section 86(1); or
+- (b) a decision referred to in section 94(1)(a) as to the school at which education is to be provided for their child.
+
+(3) In the case of a decision about sixth form education, notices must be sent to the child and the child’s parents containing the following—
+
+- (a) notification of —
+  - (i) a decision referred to in section 94(1)(za), (b) and (2) refusing the child admission to a school for which the child or any parent of the child has expressed a preference in accordance with the arrangements made under section 86A(1);
+  - (ii) a decision referred to in section 94(1)(a) as to the school at which education is to be provided for the child; or
+  - (iii) a decision referred to in section 94(1A) or (2A) refusing permission for a child who has already been admitted to a school to enter the school’s sixth form;
+- (b) particulars of the arrangements for making an appeal, including information containing the contact details for the appropriate authority; and
+- (c) a statement explaining that where a child and any parent of the child make separate appeals in respect of the same school, the appeals must be heard together.
+
+(4) Where a child and any parent of the child make separate appeals in respect of the same school, the appeals must be heard together.
+
+(5) An appeal must be by notice in writing setting out the grounds on which it is made.
+
+(6) An appeal must give the appellant an opportunity of [^key-b8f38594c7bd2101736f509babe8ff7f]... making oral representations, and allow him or her to be accompanied by a friend or to be represented.
+
+(7) An appeal must be heard in private except where the body or bodies by whom the arrangements under section 94 are made direct otherwise; but—
+
+- (a) if the panel so directs, one member of the local education authority[^key-70386d303c11fd21cd6d02f83373f420] may attend, as an observer, any hearing of an appeal by an appeal panel constituted in accordance with paragraph 1 of Schedule 1;
+- (b) if the panel so directs, one member of the governing body of the school in question may attend, as an observer, any hearing of an appeal by an appeal panel constituted in accordance with paragraph 1 or 2 of Schedule 1 (or in accordance with paragraph 2 as it applies by virtue of paragraph 3 of that Schedule); and
+- (c) if the panel so directs, any person may attend a hearing of an appeal for the following purposes—
+  - (i) training; or
+  - (ii) appraisal of the performance of clerks or appeal panel members.
+
+(8) For the purposes of sub-paragraph (7), an appeal to an appeal panel constituted in accordance with paragraph 1 of Schedule 1, as it applies by virtue of paragraph 4 of that Schedule, is to be treated—
+
+- (a) as an appeal to an appeal panel constituted in accordance with paragraph 1 of that Schedule if it relates to a community or voluntary controlled school; and
+- (b) as an appeal to an appeal panel constituted in accordance with paragraph 2 of that Schedule, if it relates to a foundation or voluntary aided school.
+
+(9) In the event of a disagreement between the members of an appeal panel, the appeal under consideration is to be decided by a simple majority of the votes cast and, in the case of an equality of votes, the chair of the panel is to have a second or casting vote.
+
+(10) The decision of an appeal panel and the grounds on which it is made must be communicated by the panel in writing to—
+
+- (a) the appellant and the local education authority,
+- (b) in the case of an appeal heard jointly with another appeal in accordance with paragraph 1(4), to the appellant in the other appeal; and
+- (c) in the case of an appeal to an appeal panel constituted in accordance with paragraph 2 of Schedule 1, (or in accordance with that paragraph as it applies by virtue of paragraph 3 of that Schedule), to the governing body by whom or on whose behalf the decision appealed against was made.
+
+(11) For the purposes of sub-paragraph (10), an appeal to an appeal panel constituted in accordance with paragraph 1 of Schedule 1, as it applies by virtue of paragraph 4 of that Schedule, is to be treated as an appeal to an appeal panel constituted in accordance with paragraph 2 of that Schedule, if it relates to a foundation or voluntary aided school.
+
+(12) Subject to sub-paragraphs (2) to (11), all matters relating to the procedure on appeals, including the time within which they are to be brought, are to be determined by the appropriate authority.
+
+### 2. Appeals made pursuant to section 95
+
+(1) In this paragraph “appeal” means an appeal made under the arrangements specified in regulation 3(e).
+
+(2) Where any such decision as is mentioned in section 95(2) is made by or on behalf of the local education authority, the authority must give the governing body of the school notice in writing—
+
+- (a) of that decision; and
+- (b) of the governing body’s right to appeal against the decision in accordance with sub-paragraph (3).
+
+(3) An appeal by the governing body against any such decision must be made not later than the fifteenth school day after the day on which they are given notice under sub-paragraph (2).
+
+(4) An appeal must be by notice in writing setting out the grounds on which it is made.
+
+(5) The appeal panel must meet to consider an appeal on such date as the local education authority may determine but the date so determined must not be later than the fifteenth school day after the day on which the notice referred to in sub-paragraph (4) is received by that authority.
+
+(6) On an appeal the panel must allow—
+
+- (a) the local education authority and the governing body to make written representations;
+- (b) an officer of the authority nominated by the authority, and a governor nominated by the governing body, to [^key-31037e4d753d0be94b521c6e73738bed]... make oral representations; and
+- (c) the governing body to be represented.
+
+(7) Appeals must be heard in private except when the local education authority direct otherwise; but—
+
+- (a) if the panel so direct, one member of the local education authority may attend, as an observer, any hearing of an appeal by an appeal panel;
+- (b) if the panel so direct, any person may attend a hearing of an appeal for the following purposes—
+  - (i) training; or
+  - (ii) appraisal of the performance of clerks or appeal panel members.
+
+(8) Two or more appeals may be combined and dealt with in the same proceedings if the appeal panel consider that it is expedient to do so because the issues raised by the appeals are the same or connected.
+
+(9) In the event of a disagreement between the members of an appeal panel, the appeal under consideration is to be decided by a simple majority of the votes cast and, in the case of an equality of votes, the chair of the panel is to have a second or casting vote.
+
+(10) The decision of an appeal panel and the grounds on which it is made must—
+
+- (a) be communicated by the panel in writing to the local education authority and the governing body; and
+- (b) be so communicated by the end of the second day after the conclusion of the hearing of the appeal.
+
+(11) Subject to sub-paragraphs (2) to (10), all matters relating to the procedure on appeals are to be determined by the local education authority.
+
+## SCHEDULE 3 — Temporary amendments of Constitution of Appeal Panels and Procedure on Appeal[^M_F_7c2d78a2-973e-4891-aa7d-c7ba3510c838]
+
+**No longer in force.**
+
+Regulations 3, 5 and 9
+
+### 1. Arrangements made by a local authority or governing body: when coronavirus exception applies[^M_F_7c2d78a2-973e-4891-aa7d-c7ba3510c838][^M_F_7c2d78a2-973e-4891-aa7d-c7ba3510c838]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Appeal hearings[^M_F_7c2d78a2-973e-4891-aa7d-c7ba3510c838]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Time limits[^M_F_7c2d78a2-973e-4891-aa7d-c7ba3510c838]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^M_F_7c2d78a2-973e-4891-aa7d-c7ba3510c838] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^M_F_7c2d78a2-973e-4891-aa7d-c7ba3510c838] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+These Regulations prescribe matters relating to appeals brought under sections 94 and 95 of the School Standards and Framework Act 1998 as amended by the Education Act 2002.
+
+Under section 94 arrangements must be made by a local education authority or in the case of a foundation or voluntary aided school, a governing body, enabling parents to appeal against school admission decisions, including decisions refusing permission to children already admitted to a school to enter the school's sixth form.
+
+Under section 95 arrangements must be made by a local education authority enabling a governing body of a community or voluntary controlled school to appeal against the authority's decision to admit a child who, at the time the decision was made, has been permanently excluded from two or more schools.
+
+Regulation 3 of, and Schedule 1 to these Regulations make provision as to the manner in which an appeal panel is to be constituted where appeal arrangements are made by a local education authority, a governing body, or where joint arrangements are made by two or more governing bodies, or the local education authority and one or more governing bodies.
+
+Regulation 4 sets out an admission authority's duty to advertise for lay members.
+
+Regulation 5 of, and Schedule 2, to these Regulations prescribe the procedure which an appeal panel is to adopt when hearing an appeal.
+
+Regulation 6 sets out the matters that the admission appeal panel is required to take into account when hearing an appeal.
+
+Regulation 7 makes provision for the payment of allowances to appeal panel members by the local education authority or governing body responsible for making the arrangements in respect of financial loss, and travel and subsistence expenses.
+
+Regulation 8 imposes a duty on the local education authority or governing body responsible for making the appeal arrangements to indemnify appeal panel members against expenses or legal costs incurred in respect of any decision they make.
+
+## Annotations
+
+[^c10789581]: Marginal citation: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Sub-sections (5), (5A), and (5C) of section 94 were substituted by section 50 of the Education Act [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Sub-sections (3), (3A) and (3B) of section 95 were substituted by section 51 of, and paragraph 9 of Schedule 4 to, the Education Act 2002. For the definition of “prescribed” and “regulations”
+
+    *see* section 142(1) of the 1998 Act.
+
+[^c10789591]: Marginal citation: *See* the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) and section 211 of the Education Act 2002.
+
+[^c10789601]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53), amended by paragraph 22 of Schedule 21 to the Education Act 2002.
+
+[^key-c9d395f5a0cf2d252364f73e3c5603a6]: Textual amendment: Words in reg. 2(1) revoked (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/2/a)
+
+[^key-4566f219633b938dbfd6bf6239d3e1d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/1) omitted (1.4.2026) by virtue of [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/wsi/2025/286/regulation/5/2/a)
+
+[^key-1e3ed88c8af1f6c5a53c080e835f06b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/1) inserted (1.4.2026) by [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/wsi/2025/286/regulation/5/2/b)
+
+[^key-5868a036165ee0ce88a2e9435baa9489]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/1) inserted (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/2/a)
+
+[^key-02693f94e3bf0b2716bc95466ae7864e]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/2/b)
+
+[^c10789621]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^key-b2b17aee3eda94c5b86e1af6ad71471e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/3)[(4)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/2/4) inserted (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/2/b)
+
+[^c10789631]: Marginal citation: Section 94(1A) was inserted by section 51 of, and paragraph 8(1) and (2) of Schedule 4 to, the Education Act 2002.
+
+[^c10789641]: Marginal citation: Section 94(2A) was inserted by section 51 of, and paragraph 8(1) and (3) of Schedule 4 to, the Education Act 2002.
+
+[^c10789651]: Marginal citation: Section 94(3) was amended by section 51 of, and paragraph 8(1) and (4) of Schedule 4 to, the Education Act 2002.
+
+[^c10789661]: Marginal citation: Section 94(4) was amended by section 51 of, and paragraph 8(1) and (5) of Schedule 4 to, the Education Act 2002.
+
+[^key-20ed368c9f6535860e7c3497f58df621]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2005/1398/regulation/3) omitted (28.6.2024) by virtue of [The Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/698)](https://www.legislation.gov.uk/wsi/2024/698), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2024/698/regulation/8/a)
+
+[^key-8b764b7d2b59e1ab36651e83f7771914]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/wsi/2005/1398/regulation/5) omitted (28.6.2024) by virtue of [The Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/698)](https://www.legislation.gov.uk/wsi/2024/698), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2024/698/regulation/8/b)
+
+[^key-50dfbf1e7826748c54220a8ae80b3c82]: Textual amendment: Reg. 6 substituted (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/3)
+
+[^key-30261d4c0416ba866958f0e2b2231204]: Textual amendment: Reg. 7 substituted (1.1.2014) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2013 (S.I. 2013/2535)](https://www.legislation.gov.uk/wsi/2013/2535), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2013/2535/regulation/2/4)
+
+[^key-027f066ec463d41365d26d33e5ed839d]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2005/1398/regulation/7/3) substituted (1.4.2026) by [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/3), [5(3)](https://www.legislation.gov.uk/wsi/2025/286/regulation/5/3)
+
+[^M_F_761011e1-49d1-4d09-a0cd-131e2cb4aea5]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2005/1398/regulation/9) expiry of earlier inserting provision [S.I. 2020/479](https://www.legislation.gov.uk/uksi/2020/479), [reg. 9](https://www.legislation.gov.uk/uksi/2020/479/regulation/9) (30.9.2022) by [The Education (Admission Appeals Arrangements) (Wales) (Coronavirus) (Amendment) Regulations 2020 (revoked) 2020 (S.I. 2020/479)](https://www.legislation.gov.uk/uksi/2020/479), [reg. 2](https://www.legislation.gov.uk/uksi/2020/479/regulation/2) (as amended by [S.I. 2021/996](https://www.legislation.gov.uk/uksi/2021/996), [regs. 1](https://www.legislation.gov.uk/uksi/2021/996/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/996/regulation/2/3))
+
+[^c10789701]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^M_F_3d3f7d1e-8f07-49c5-b1d9-2b81bff3bf55]: Textual amendment: [Sch. 1 para. A1](https://www.legislation.gov.uk/wsi/2005/1398/schedule/1/paragraph/A1) expiry of earlier inserting provision [S.I. 2020/479](https://www.legislation.gov.uk/uksi/2020/479), [reg. 10](https://www.legislation.gov.uk/uksi/2020/479/regulation/10) (30.9.2022) by [The Education (Admission Appeals Arrangements) (Wales) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/479)](https://www.legislation.gov.uk/uksi/2020/479), [reg. 2](https://www.legislation.gov.uk/uksi/2020/479/regulation/2) (as amended by [S.I. 2021/996](https://www.legislation.gov.uk/uksi/2021/996), [regs. 1](https://www.legislation.gov.uk/uksi/2021/996/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/996/regulation/2/3))
+
+[^key-a09f7b9b8e85646a68a2e06619434552]: Textual amendment: Sch. 2 substituted (22.4.2009) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2009 (S.I. 2009/823)](https://www.legislation.gov.uk/uksi/2009/823), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/823/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/823/regulation/2/3)
+
+[^key-57c844db72093d1567f142af5c136b64]: Textual amendment: [Sch. 2 para. A1](https://www.legislation.gov.uk/wsi/2005/1398/schedule/2/paragraph/A1) inserted (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/5/a)
+
+[^key-b8f38594c7bd2101736f509babe8ff7f]: Textual amendment: Words in [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/wsi/2005/1398/schedule/2/paragraph/1/6) omitted (3.5.2023) by virtue of [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/5/b)
+
+[^key-70386d303c11fd21cd6d02f83373f420]: Textual amendment: Words in Sch. 2 substituted (15.7.2009) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment No. 2) Regulations 2009 (S.I. 2009/1500)](https://www.legislation.gov.uk/uksi/2009/1500), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1500/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1500/regulation/2/2)
+
+[^key-31037e4d753d0be94b521c6e73738bed]: Textual amendment: Words in [Sch. 2 para. 2(6)(b)](https://www.legislation.gov.uk/wsi/2005/1398/schedule/2/paragraph/2/6/b) omitted (3.5.2023) by virtue of [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2023/420/regulation/3/5/c)
+
+[^M_F_7c2d78a2-973e-4891-aa7d-c7ba3510c838]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2005/1398/schedule/3) expiry of earlier inserting provision [S.I. 2020/479](https://www.legislation.gov.uk/uksi/2020/479), [reg. 12](https://www.legislation.gov.uk/uksi/2020/479/regulation/12) (30.9.2022) by [The Education (Admission Appeals Arrangements) (Wales) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/479)](https://www.legislation.gov.uk/uksi/2020/479), [reg. 2](https://www.legislation.gov.uk/uksi/2020/479/regulation/2) (as amended by [S.I. 2021/996](https://www.legislation.gov.uk/uksi/2021/996), [regs. 1](https://www.legislation.gov.uk/uksi/2021/996/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/996/regulation/2/3))

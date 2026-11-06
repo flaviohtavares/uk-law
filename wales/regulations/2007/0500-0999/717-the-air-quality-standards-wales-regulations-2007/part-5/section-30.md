@@ -1,0 +1,19 @@
+---
+title: The Air Quality Standards (Wales) Regulations 2007, section 30
+act: The Air Quality Standards (Wales) Regulations 2007
+section: '30'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2007/717/section/30
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Quality Standards (Wales) Regulations 2007, section 30
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 30. Revocations
+
+The Regulations set out in Schedule 13 are revoked in accordance with that Schedule.

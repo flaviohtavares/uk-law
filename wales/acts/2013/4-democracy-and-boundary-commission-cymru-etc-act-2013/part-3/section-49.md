@@ -1,0 +1,50 @@
+---
+title: Democracy and Boundary Commission Cymru etc. Act 2013, section 49
+act: Democracy and Boundary Commission Cymru etc. Act 2013
+section: '49'
+status: revised-with-pending-changes
+text_date: '2025-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2013/4/section/49
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Democracy and Boundary Commission Cymru etc. Act 2013, section 49
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2013/4
+>
+> Extent: England, Wales.
+
+## 49. Local inquiries
+
+*Extent: E+W*
+
+(1) The Commission or, as the case may be, a principal council, may cause a local inquiry to be held with respect to any review carried out by it under this Part.
+
+(2) The Welsh Ministers, the Commission or, as the case may be, a principal council may cause a local inquiry to be held in respect of a draft order prepared under section 43.
+
+(3) A person appointed to hold an inquiry may by summons require a person to attend at a time and place specified in the summons—
+
+- (a) to give evidence, or
+- (b) to produce any information relating to any matter in question which is held by, or is under the control of, the person.
+
+(4) A person appointed to hold an inquiry may take evidence on oath and for that purpose may administer oaths.
+
+(5) A person required to attend under subsection (3) must be paid any reasonably incurred expenses.
+
+(6) Despite subsection (3)(b), a person may not be required to produce the title (or any instrument relating to the title) of any land which does not belong to a local authority.
+
+(7) A person commits an offence if the person—
+
+- (a) refuses or deliberately fails to comply with a requirement of a summons served on the person under subsection (3),
+- (b) deliberately alters, suppresses, conceals or destroys any information which the person is required to produce under this section.
+
+(8) A person guilty of an offence under subsection (7) is liable on summary conviction to a fine not exceeding level 3 on the standard scale or to imprisonment for a term not exceeding 6 months, or to both.
+
+(9) The persons or body causing an inquiry to be held under this section may make orders as to—
+
+- (a) the costs of the parties at the inquiry, and
+- (b) the parties by whom the costs are to be paid.
+
+(10) An order under subsection (9) may be made a rule of the High Court on the application of a party named in the order.

@@ -1,0 +1,736 @@
+---
+title: The Children and Families (Wales) Measure 2010 (Commencement No. 2, Savings and Transitional Provisions) Order 2010
+id: wsi/2010/2582
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-10-20'
+text_date: '2024-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2010/2582
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2010/2582/pdfs/wsi_20102582_mi.pdf
+- http://www.legislation.gov.uk/wsi/2010/2582/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Children and Families (Wales) Measure 2010 (Commencement No. 2, Savings and Transitional Provisions) Order 2010
+
+> Text as at 2024-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 2582 (W.216) (C.123)
+
+SOCIAL CARE, WALES
+
+CHILDREN AND YOUNG PERSONS, WALES
+
+The Children and Families (Wales) Measure 2010 (Commencement No. 2, Savings and Transitional Provisions) Order 2010
+
+Made
+
+20 October 2010
+
+The Welsh Ministers, in exercise of the powers conferred by sections 74(2)(c) and 75(3) of the Children and Families (Wales) Measure 2010[^f00001], make the following Order:
+
+## 1. Title and interpretation[^key-3eb8f7daeda775d06f4e8ded9bbe93e9]
+
+(1) The title of this Order is the Children and Families (Wales) Measure 2010 (Commencement No. 2, Savings and Transitional Provisions) Order 2010.
+
+(2) In this Order—
+
+- “the 1989 Act” (“*Deddf 1989*”) means the Children Act 1989[^f00002];
+- “the Measure” (“*y Mesur*”) means the Children and Families (Wales) Measure 2010;
+- “the Disqualification Regulations” (“*y Rheoliadau Anghymwyso*”) means the Child Minding and Day Care (Disqualification) (Wales) Regulations 2010[^f00003].
+
+## 2. Provisions coming into force on 1 April 2011[^key-9f69995383e8b1356d797f023ae51e22]
+
+Subject to articles 3, 4 and 5, the provisions of the Measure specified in Schedule 1 come into force on 1 April 2011.
+
+## 3. Saving provision for the Disqualification Regulations[^key-0e5a9b4e23842fd184e407d50afa9d9c]
+
+Notwithstanding the repeal of sections 79C(2) and (3) and 79M of the 1989 Act, the Child Minding and Day Care (Disqualification) (Wales) Regulations 2010 continue to have effect until such time as regulations are made under section 38 of the Measure (*disqualification from registration*).
+
+## 4. Savings and transitional provisions[^key-f0956458170f5ac1b4c7044127b16a74]
+
+Schedules 2 and 3, which make savings and transitional provisions in connection with the commencement by this Order of the provisions set out in Schedule 1, have effect and come into force on 1 April 2011.
+
+## 5. Consequential amendments to miscellaneous subordinate legislation[^key-391ef4bb8269d855c19eb2db6d8bfcd7]
+
+Schedule 4, which contains amendments to miscellaneous subordinate legislation in consequence of the commencement of the provisions specified in Schedule 1, has effect and comes into force on 1 April 2011.
+
+Huw Lewis
+
+Deputy Minister for Children, under authority of the Minister for Children, Education and Lifelong Learning, one of the Welsh Ministers
+
+20 October 2010
+
+## SCHEDULE 1 — PROVISIONS COMING INTO FORCE ON 1 APRIL 2011[^key-13eb8b36df7e9fe2b94941c58ba9f2d4]
+
+Article 2
+
+|  |  |
+| --- | --- |
+| Section 19 | Meaning of child minding and day care for children |
+| Section 20 | Register of child minders |
+| Section 21 | Duty of child minders to register |
+| Section 22 | Register of providers of day care for children |
+| Section 23 | Duty of day care providers to register |
+| Section 24 | Applications for registration: child minding |
+| Section 25 | Prescribed requirements for registration as a child minder |
+| Section 26 | Applications for registration: day care for children |
+| Section 27 | Prescribed requirements for registration of providers of day care for children |
+| Section 28 | Entry on register and certificates |
+| Section 29 | Conditions on registration |
+| Section 30 | Regulations governing activities |
+| Section 31 | Cancellation of registration |
+| Section 32 | Suspension of registration |
+| Section 33 | Voluntary removal from the register |
+| Section 34 | Protection of children in an emergency: cancellation of registration |
+| Section 35 | Protection of children in an emergency: changes to conditions |
+| Section 36 | Procedure for taking certain steps |
+| Section 37 | Appeals |
+| Section 38 | Disqualification from registration |
+| Section 39 | Consequences of disqualification |
+| Section 40 | Inspection |
+| Section 41 | Powers of entry |
+| Section 42 | Powers of inspection |
+| Section 43 | Power of constable to assist in exercising powers of entry |
+| Section 44 | Supply of information to the Welsh Ministers |
+| Section 45 | Supply of information to local authorities |
+| Section 46 | Offence of making false or misleading statement |
+| Section 47 | Penalty notices |
+| Section 48 | Penalty notices: supplementary provisions |
+| Section 49 | Time limit for proceedings |
+| Section 50 | Offences by bodies corporate |
+| Section 51 | Unincorporated associations |
+| Section 52 | Functions of local authorities |
+| Section 53 | Fees |
+| Section 54 | Co-operation between authorities |
+| Section 55 | Notices |
+| Section 56 | Death of registered person |
+| Section 72 and Schedule 1 in so far as they relate to | - (i) paragraphs 1 to 18;<br>- (ii) paragraphs 21 to 28. |
+| Section 73 and Schedule 2 in so far as they relate to | - (i) the Children Act 1989;<br>- (ii) the Education Act 2002; and<br>- (iii) the Childcare Act 2006. |
+
+## SCHEDULE 2 — GENERAL SAVINGS
+
+Article 4
+
+### 1. Interpretation[^key-9e67713ab1cf442628c31ac98240bc25]
+
+In this Schedule and in Schedule 3—
+
+- “First-tier Tribunal” (“*Tribiwnlys Haen Cyntaf*”) has the same meaning as in the Tribunals, Courts and Enforcement Act 2007[^f00004].
+
+### 2. General savings for things done before the relevant date[^key-c69cff74da04ea18bcddd81f57fc8046]
+
+(1) Unless in Schedule 3 the contrary intention appears, the coming into force of the provisions set out in Schedule 1 does not affect—
+
+- (a) any act done, any notice served, any application made or any decision taken; or
+- (b) any requirement or limitation of time; or
+- (c) any legal proceedings commenced; or
+- (d) any order made by a court, a justice of the peace or the First-Tier Tribunal
+
+under, or in relation to any of the provisions amended or repealed as a consequence of the commencement of Schedules 1 and 2 of the Measure.
+
+(2) In relation to the provisions amended or repealed as consequence of the commencement of Schedules 1 and 2 of the Measure, legal proceedings may be brought or continued and remedies or penalties may be imposed and enforced in relation to acts done under, in relation to, or in contravention of any of those provisions before the relevant date, as if the amendments or repeals had not been made.
+
+## SCHEDULE 3 — SAVINGS AND TRANSITIONAL PROVISIONS IN RESPECT OF PART XA OF AND SCHEDULE 9A TO THE 1989 ACT, AND PART 2 OF THE MEASURE
+
+Article 4
+
+### 1. Interpretation[^key-91823d7fe6b6dfb073633537b20ade05]
+
+In this Schedule—
+
+- “Part 2 of the Measure” (“*Rhan 2 o'r Mesur*”) means sections 19 to 56 of the Measure;
+- “the 2002 Regulations” (“*Rheoliadau 2002*”) means the Child Minding and Day Care (Wales) Regulations 2002[^f00005];
+- “the 2010 Regulations” (“*Rheoliadau 2010*”) means the Child Minding and Day Care (Wales) Regulations 2010[^f00006];
+- “the Suspension Regulations 2004” (“*Rheoliadau 2004*”) means the Suspension of Day Care Providers and Child Minders (Wales) Regulations 2004[^f00007];
+- “the Exceptions Order 2010” (“*Gorchymyn Eithriadau*”) means the Child Minding and Day Care Exceptions (Wales) Order 2010;
+- “the Disqualification Regulations 2010” (“*Rheoliadau Anghymwyso 2010*”) means the Disqualification from Caring for Children (Wales) Regulations 2010[^f00008];
+- “the relevant date” (“*y dyddiad perthnasol*”) means 1 April 2011;
+- “transfer” (“*trosglwyddo*”) in relation to registration refers to the process for which provision is made in paragraph 2(2) and “transferred” (“*trosglwyddwyd*”) is to be construed accordingly.
+
+### 2. Registration of Child Minders and Day Care Providers under Part XA of and Schedule 9A to the 1989 Act on 1 April 2011[^key-f957bf48d4b0ad72c42f8a0a9ec4f5e8]
+
+(1) This paragraph applies in respect of a person who immediately before the relevant date—
+
+- (a) is registered as a child minder by the Welsh Ministers under section 79(F)(1) of the 1989 Act (*grant or refusal of registration*); or
+- (b) is registered as a provider of day care for children by the Welsh Ministers under section 79(F)(2) of the 1989 Act.
+
+(2) With effect from the relevant date, a person referred to in sub-paragraph (1) will, for the purposes of Part 2 of the Measure, be treated as having applied for and having been granted registration.
+
+(3) Where a person’s registration is transferred pursuant to sub-paragraph (2), any condition, which was imposed upon that person under section 79F(3) (*grant or refusal of registration*) or 79M(2) (*appeals*) of the 1989 Act and which applied to a person’s registration immediately before the relevant date, continues to have effect as if it were a condition imposed under section 29 (*conditions on registration*) or section 37 (*appeals*) of the Measure.
+
+(4) Subject to paragraph 14, this paragraph applies even when immediately before the relevant date the person’s registration is suspended by the Welsh Ministers in accordance with regulation 3 of the Suspension Regulations 2004.
+
+(5) Sub-paragraph (2) does not apply in respect of a person who, before the relevant date, has communicated to the Welsh Ministers the wish not to be registered as a child minder under section 24 or, as the case may be, provider of day care for children under section 26 of the Measure.
+
+(6) Sub-paragraph (2) does not apply in respect of a person who immediately before the relevant date was registered as child minder under section 79F(1) or, as the case may be, a provider of day care under section 79F(2) of the 1989 Act and who, on the relevant date and in accordance with the coming into force of the Exceptions Order 2010, is no longer eligible to register as child minder under section 24 or, as the case may be, a provider of day care for children under section 26 of the Measure.
+
+### 3. Certificates of registration[^key-95180e02a8fb111cc39503be2a5b44c4]
+
+(1) This paragraph applies in relation to any person whose registration is transferred under paragraph 2(2).
+
+(2) The transfer does not constitute a grant of registration for the purposes of section 28(1)(b) or (2)(b) of the Measure (*entry on the register and certificates*).
+
+(3) A certificate issued by the Welsh Ministers to that person in relation to the original registration under section 79F of the 1989 Act which was current immediately before the relevant date will, subject to sub-paragraphs (4) and (5), have effect for all purposes as if it was issued on the relevant date pursuant to section 28(1)(b) or (2)(b) of the Measure.
+
+(4) Section 28(3) of the Measure does not have effect in relation to a certificate to which sub-paragraph (3) refers.
+
+(5) For the purposes of section 28(4) of the Measure (which provides for the issue of amended certificates due to a change of circumstances) and without prejudice to its effect otherwise, the occasion of the first inspection following the relevant date by an authorised inspector of—
+
+- (a) child minding, or
+- (b) day care on any premises
+
+provided by a person to whom this paragraph applies will be taken to constitute a change of circumstances for the purposes of that section in relation to the registration concerned.
+
+### 4. Persons not eligible for registration under Part XA of and Schedule 9A to the 1989 Act before 1 April 2011[^key-8b0602e6ffc1cafd09ed71f106a8305d]
+
+(1) This sub-paragraph applies to any person (“an unregistered child minder”) who before the relevant date—
+
+- (a) is not eligible to register as a child minder under Part XA of and Schedule 9A to the 1989 Act but is required to register under Part 2 of the Measure;
+- (b) looks after children under the age of eight on domestic premises for reward; and
+- (c) duly makes an application before 1 July 2011 under section 24 of the Measure for registration as a child minder.
+
+(2) The provisions under section 21(1), (2), (5) and (6) of the Measure do not apply to an unregistered child minder under sub-paragraph (1)–
+
+- (a) until such time as the application is granted, either unconditionally or subject only to conditions which have been agreed in writing with the Welsh Ministers; or
+- (b) if the application is granted subject to conditions which have not been so agreed, or refused—
+  - (i) if no appeal is brought, until the expiration of the period of 28 days after service upon the unregistered provider of the decision of the Welsh Ministers; or
+  - (ii) if an appeal is brought, until it is determined or abandoned.
+
+(3) This sub-paragraph applies to any person (“an unregistered provider of day care for children”) who before the relevant date—
+
+- (a) is not eligible to register as provider of day care under Part XA of and Schedule 9A to the 1989 Act;
+- (b) looks after children under the age of eight on premises other than domestic premises for reward; and
+- (c) duly makes an application before 1 July 2011 under section 26 of the Measure for registration as a provider of day care for children.
+
+(4) The provisions under section 23 (1) and (2) of the Measure do not apply to an unregistered provider of day care for children under sub-paragraph (3) in respect of their premises—
+
+- (a) until such time as the application is granted, either unconditionally or subject only to conditions which have been agreed in writing with the Welsh Ministers; or
+- (b) if the application is granted subject to conditions which have not been so agreed, or refused—
+  - (i) if no appeal is brought, until the expiration of the period of 28 days after service upon the unregistered provider of the decision of the Welsh Ministers; or
+  - (ii) if an appeal is brought, until it is determined or abandoned.
+
+### 5. Applications for registration under Part XA of and Schedule 9A to the 1989 Act: undetermined applications[^key-695f8b7df68b5c0a16188f58e0626159]
+
+(1) Where a person has applied for registration as a child minder under section 79E of the 1989 (*applications for registration*) and, immediately before the relevant date, the Welsh Ministers have not granted or refused the person’s application, the application is to be determined as if it had been made under section 24 of the Measure (*applications for registration: child minding*).
+
+(2) Where a person has applied for registration as a provider of day care under section 79E of the 1989 Act and, immediately before the relevant date, the Welsh Ministers have not granted or refused the person’s application, the application is to be determined as if it had been made under section 26 of the Measure (*applications for registration: day care for children*).
+
+(3) Where this paragraph applies, the Welsh Ministers may only register that person if, had the application been made under Part 2 of the Measure, the Welsh Ministers would have been required by section 24 or, as the case may be, section 26 of the Measure, to grant the application.
+
+### 6. Notice of intention to refuse an application for registration under section 79L(1)(a) of the 1989 Act[^key-114baf1732877b7455db680b022da6cd]
+
+(1) This paragraph applies where the Welsh Ministers have, before the relevant date, sent a notice to a person of intention to refuse an application for registration under section 79(L)(1)(a) of the 1989 Act (*notice of intention to take steps*).
+
+(2) The notice will, on and after the relevant date, be treated as a notice given under section 36(3) of the Measure (*procedure for taking certain steps*) .
+
+(3) A person who has, before the relevant date, informed the Welsh Ministers, in accordance with section 79L(3) of the 1989 Act, of the desire to object to the step being taken, will be treated as having given notice under section 36(6) of the Measure.
+
+(4) An objection made before the relevant date under section 79L(3) of the 1989 Act to a step being taken will be treated on or after that date as having been made in pursuance of section 36(6) of the Measure.
+
+(5) A notice sent to the person in accordance with section 79L(5) of the 1989 Act before the relevant date will be treated on and after that date as being a notice given under section 36(8) of the Measure.
+
+(6) Where this paragraph applies, a notice continues to have effect only to the extent that it could have had effect had it been given under section 36 of the Measure.
+
+### 7. Notice of intention to take steps under section 79L(1)(b) to (d) of the 1989 Act[^key-5b1017a597fa7b56ab8fe21991b7d1ee]
+
+(1) This paragraph applies where—
+
+- (a) a person’s registration is transferred in accordance with paragraph 2(2);
+- (b) the Welsh Ministers have, before the relevant date, sent a notice to the person of intention to take one of the steps mentioned in section 79L(1)(b) to (d) of the 1989 Act; and
+- (c) that step has not taken effect.
+
+(2) The notice sent to the person under section 79L(1) will, on and after the relevant date, be treated as being notice given under section 36(3) of the Measure.
+
+(3) A person who has, before the relevant date, informed the Welsh Ministers of the desire to object to the step being taken under section 79L(3) of the 1989 Act, will be treated as having given notice under section 36(6) of the Measure.
+
+(4) An objection made before the relevant date under section 79L(3) of the 1989 Act to a step being taken will be treated on and after that date as having been made in pursuance to section 36(6) of the Measure.
+
+(5) A notice sent to a person by the Welsh Ministers in accordance with section 79L(5) of the 1989 Act before the relevant date will be treated on and after that date as being notice given under section 36(8) of the Measure.
+
+(6) Where this paragraph applies, a notice continues to have effect only to the extent that it could have effect had it been given under section 36 of the Measure.
+
+### 8. Appeals against steps mentioned in section 79L(1) of the 1989 Act[^key-fd75a3536beb649e45df98e68def19b9]
+
+(1) This paragraph applies where, before the relevant date, an appeal has been made to the First-tier Tribunal under section 79M(1) of the 1989 Act (*appeals*) against a step taken by the Welsh Ministers mentioned in section 79L(1), in respect of which the Tribunal has not reached a decision under section 79M(2).
+
+(2) The appeal will be treated, on and after the relevant date, as being an appeal under section 37 of the Measure (*appeals*).
+
+(3) Where this paragraph applies, an appeal falls to be decided as if the step in respect of which the appeal is brought had been taken under the Measure.
+
+### 9. Appeals: protection of children in an emergency[^key-b19b88389fa101363b840a544482b295]
+
+(1) This paragraph applies where, before the relevant date, an appeal has been made to the First-Tier Tribunal under section 79M(1) of the 1989 Act against an order under section 79K of the 1989 Act (*protection of children in an emergency*), in respect of which the Tribunal has not reached a decision under section 79M(2).
+
+(2) The appeal will be treated, on and after the relevant date, as being an appeal under section 37 of the Measure.
+
+### 10. Appeals: disqualification[^key-b4955ee06266f9008b5df3a25a04b74a]
+
+(1) This paragraph applies where, before the relevant date, an appeal has been made to the First-Tier Tribunal under section 79M(1) of the 1989 Act against a determination by the Welsh Ministers under regulation 9 of the Disqualification Regulations 2010, in respect of which the Tribunal has not reached a decision under section 79M(2).
+
+(2) Subject to article 3, the appeal will be treated, on and after the relevant date, as being an appeal made in accordance with the Disqualification Regulations 2010 and will be determined in accordance with section 79M of the 1989 Act.
+
+### 11. Notice under section 79D of the 1989 Act[^key-488d4cc0c4b4261856a8bc61006def70]
+
+Where before the relevant date, the Welsh Ministers have served an enforcement notice under section 79D(2) of the 1989 Act, the notice continues to have effect on and after the relevant date as if it had been served under section 21(3) of the Measure (*duty of child minders to register*).
+
+### 12. Compliance notices under the 2002 Regulations[^key-98a570c11b0d7e90d30d487b1c1dbe20]
+
+Where before the relevant date, the Welsh Ministers have issued a compliance notice in accordance with regulation 3C of the 2002 Regulations (*compliance notification*), on or after the relevant date that notice will be treated as having been given under regulation 18 of the 2010 Regulations.
+
+### 13. National Minimum Standards[^key-7c08f2df48c7b034105bda23f4c60995]
+
+In exercising functions under Part 2 of the Measure, the Welsh Ministers may have regard to–
+
+- (a) anything done, or alleged to have been done, by a person registered under Part XA of and Schedule 9A to the 1989 Act to comply with the duty imposed by regulation 23 of the 2002 Regulations (*standards*);
+- (b) any failure, or alleged failure, by a person registered under Part XA of and Schedule 9A to the 1989 Act to comply with the duty imposed by regulation 24 of the 2002 Regulations.
+
+### 14. Suspension[^key-3eaabaebb5daaa3768ccafcd755a6066]
+
+(1) This paragraph applies where immediately before the relevant date a person’s registration is suspended by the Welsh Ministers under regulation 3 of the Suspension Regulations 2004 (*power to suspend registration*).
+
+(2) The person’s registration will, on and after the relevant date, be treated as suspended by the Welsh Ministers under regulation 40 of the 2010 Regulations (*power to suspend registration*).
+
+(3) Where a person has appealed to the Tribunal under regulation 8 of the Suspension Regulations 2004 (*rights of appeal*) and the First-Tier Tribunal has not reached a decision, the appeal will, on and after the relevant date, be treated as having been made under regulation 45 of the 2010 Regulations (*rights of appeal*).
+
+### 15. Disqualification: waivers[^key-521fd74cb0ce42a24a93993dc8747838]
+
+(1) Where before the relevant date the Welsh Ministers have given consent to waive a disqualification under regulation 9 of the Disqualification Regulations 2010 (and have not withdrawn that consent) that consent will continue to have effect on and after the relevant date.
+
+(2) Where before the relevant date a person has requested that the Welsh Ministers give consent to waive a disqualification under regulation 9 of the Disqualification Regulations 2010, and immediately before the relevant date, the Welsh Minsters have not made a determination in respect of the request, the Welsh Ministers must make the determination in accordance with regulation 9 of the Disqualification Regulations 2010.
+
+(3) A consent given by a local authority and referred to in regulation 9(3)(b) of the Disqualification Regulations 2010 continues to have effect on and after the relevant date.
+
+### 16. Protection of children in an emergency: application under section 79K of the 1989 Act[^key-e5ee70e702ae5526b4dea435505f6fb0]
+
+Where the Welsh Ministers have applied to a justice of the peace for an order—
+
+- (a) cancelling a person’s registration under section 79K(1)(a)(i) (protection of children in an emergency) of the 1989 Act and, immediately before the relevant date, the justice of the peace has not made the order, the application will, on and after that date, be treated as having been made under section 34 of the Measure (*protection of children in an emergency: cancellation of registration*);
+- (b) seeking to vary or remove any condition upon a person’s registration, or to impose a new condition under section 79K(1)(a)(ii) or (iii) respectively of the 1989 Act and, immediately before the relevant date, the justice of the peace has not made the order, the Welsh Ministers will withdraw the application and take action in accordance with the provisions of section 35 of the Measure (*protection of children in an emergency: changes to conditions*).
+
+## SCHEDULE 4 — CONSEQUENTIAL AMENDMENTS TO MISCELLANEOUS SUBORDINATE LEGISLATION[^key-efc0950d85ce87b6926df3e1604dac2f]
+
+Article 5
+
+### 1. Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975
+
+(1) The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 is amended as follows.
+
+(2) In article 2—
+
+- (a) in paragraph (a) of the definition of “child minding”, for “section 79A of the Children Act 1989” substitute “section 19 of the Children and Families (Wales) Measure 2010”, and
+- (b) in paragraph (a) of the definition of “day care”, for “section 79D(5) of the Children Act 1989” substitute “section 23(1) of the Children and Families (Wales) Measure 2010”.
+
+### 2. Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993[^key-ed04225da0e59ddb363081b07a7146e1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Social Security Benefit (Computation of Earnings) Regulations 1996
+
+(1) The Social Security (Computation of Earnings) Regulations 1996 are amended as follows.
+
+(2) In Schedule 2 (childcare charges to be deducted in the calculation of earnings), in paragraph 2, in the definition of “relevant child care charges”—
+
+- (a) in paragraph (e), for “Part XA of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”, and
+- (b) for paragraph (f) substitute—
+
+  > - (f) by a person who is excepted from registration under Part 2 of the Children and Families (Wales) Measure 2010 because the child care that person provides is in a school referred to in article 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010;
+
+  .
+
+### 4. Housing Renewal Grants Regulations 1996
+
+(1) The Housing Renewal Grants Regulations 1996 are amended in relation to Wales as follows.
+
+(2) In regulation 19(7) (treatment of child care charges)—
+
+- (a) in sub-paragraph (f), for “Part XA of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”, and
+- (b) for sub-paragraph (g) substitute—
+
+  > - (g) by a person who is excepted from registration under Part 2 of the Children and Families (Wales) Measure 2010 because the child care that person provides is in a school or establishment referred to in article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010;
+
+  .
+
+### 5. Police Act 1997 (Criminal Records) Regulations 2002
+
+(1) The Police Act 1997 (Criminal Records) Regulations 2002 are amended as follows.
+
+(2) Regulation 2 (interpretation) is amended as follows—
+
+- (a) in the definition of “child minding”, for “section 79A(2) of the Children Act 1989” substitute “section 19(2) of the Children and Families (Wales) Measure 2010”, and
+- (b) in the definition of “day care”, for “section 79A(6) of the Children Act 1989” substitute “section 19(3) of the Children and Families (Wales) Measure 2010”.
+
+(3) In paragraph (g) of regulation 5A (enhanced criminal record certificates: prescribed purposes), for “Part XA of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”. .
+
+### 6. Disqualification from Caring for Children (England) Regulations 2002
+
+(1) The Disqualification from Caring for Children (England) Regulations 2002 are amended as follows.
+
+(2) In regulation 2(10) (grounds for disqualification)—
+
+- (a) omit “or” where it appears after sub-paragraph (c), and
+- (b) at the end of sub-paragraph (d) substitute a semi colon for the full stop and insert the following —
+
+  > or
+  >
+  > - (e) Part 2 of the Children and Families (Wales) Measure 2010.
+
+  .
+
+### 7. Independent Schools (Provision of Information) (Wales) Regulations 2003
+
+(1) The Independent Schools (Provision of Information) (Wales) Regulations 2003 are amended as follows.
+
+(2) In Part 2 of the Schedule (information required in an application), in paragraph 3(7), for “paragraph 1(2) of Schedule 9A to the Childrens Act 1989” substitute “article 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010”.
+
+### 8. Disqualification from Caring for Children (Wales) Regulations 2004
+
+(1) The Disqualification from Caring for Children (Wales) Regulations 2004 are amended as follows.
+
+(2) In regulation 3 (interpretation)—
+
+- (a) in paragraph (1), omit the definitions of—
+  - (i) “appropriate office” (“*swyddfa briodol*”), and
+  - (ii) “disqualified” (“*wedi'i ddatgymhwyso / wedi'u datgymhwyso*);
+- (b) omit paragraph (2); and
+- (c) re-number the existing provision in paragraph (1) as regulation 3.
+
+(3) In Part II of the Schedule, in paragraph 28 (refusal of registration, disqualification and cancellation of registration for provision of nurseries, day care or for child minding), after sub-paragraph (c), insert—
+
+> - (ca) Part 2 of the Children and Families (Wales) Measure 2010;
+
+.
+
+### 9. Government of Maintained Schools (Wales) Regulations 2005
+
+(1) The Government of Maintained Schools (Wales) Regulations 2005 are amended as follows.
+
+(2) In Schedule 5 (qualifications and disqualifications), in paragraph 9(bc) (persons whose employment is prohibited or restricted), for “Part XA of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”.
+
+### 10. Housing Benefit Regulations 2006
+
+(1) The Housing Benefit Regulations 2006 are amended as follows.
+
+(2) In regulation 28(8) (treatment of child care charges)—
+
+- (a) in sub-paragraph (c), for “Part 10A of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”, and
+- (b) for sub-paragraph (d) substitute—
+
+  > - (d) by a person who is excepted from registration under Part 2 of the Children and Families (Wales) Measure 2010 because the child care that person provides is in a school or establishment referred to in article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010;
+
+  .
+
+### 11. Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006
+
+(1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 are amended as follows.
+
+(2) In regulation 31(8) (treatment of child care charges)—
+
+- (a) in sub-paragraph (c), “for Part 10A of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”, and
+- (b) for sub-paragraph (d) substitute—
+
+  > - (d) by a person who is excepted from registration under Part 2 of the Children and Families (Wales) Measure 2010 because the child care that person provides is in a school or establishment referred to in article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010;
+
+  .
+
+### 12. Council Tax Benefit Regulations 2006
+
+(1) The Council Tax Benefit Regulations 2006 are amended as follows.
+
+(2) In regulation 18(8) (treatment of child care charges)—
+
+- (a) in sub-paragraph (c), for “Part 10A of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”, and
+- (b) for sub-paragraph (d) substitute—
+
+  > - (d) by a person who is excepted from registration under Part 2 of the Children and Families (Wales) Measure 2010 because the child care that person provides is in a school or establishment referred to in article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010;
+
+  .
+
+### 13. Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006
+
+(1) The Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 are amended as follows.
+
+(2) In regulation 21(8) (treatment of child care charges)—
+
+- (a) in sub-paragraph (c), for “Part 10A of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”, and
+- (b) for sub-paragraph (d) substitute the following—
+
+  > - (d) by a person who is excepted from registration under Part 2 of the Children and Families (Wales) Measure 2010 because the child care that person provides is in a school or establishment referred to in article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010;
+
+  .
+
+### 14. Criminal Defence Service (Financial Eligibility) Regulations 2006
+
+(1) The Criminal Defence Service (Financial Eligibility) Regulations 2006 are amended as follows.
+
+(2) In regulation 2(1) (interpretation), in the definition of “child care costs” —
+
+- (a) in paragraph (d), for “Part XA of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”, and
+- (b) for paragraph (e) substitute—
+
+  > - (e) persons referred to in article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010, in schools or establishments referred to in those articles;
+
+  .
+
+### 15. Tax Credits (Approval of Child Care Providers) (Wales) Scheme 2007
+
+(1) The Tax Credits (Approval of Child Care Providers) (Wales) Scheme 2007 is amended as follows.
+
+(2) In article 5(3)(a) (qualifying child care), for “Part 10A of the 1989 Act” substitute “Part 2 of the Children and Families (Wales) Measure 2010”.
+
+(3) In article 11(2) (appeals), for “section 79M of the 1989 Act” substitute “section 37 of the Children and Families (Wales) Measure 2010”.
+
+### 16. School Governance (Constitution) (England) Regulations 2007
+
+(1) The School Governance (Constitution) (England) Regulations 2007 are amended as follows.
+
+(2) In Schedule 6 (qualifications and disqualifications), in paragraph 9(d) (persons whose employment is prohibited or restricted), for “Part 10A of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”.
+
+### 17. School Governance (New Schools) (England) Regulations 2007
+
+(1) The School Governance (New Schools) (England) Regulations 2007 are amended as follows.
+
+(2) In Schedule 2 (qualifications and disqualifications), in paragraph 8(d) (persons whose employment is prohibited or restricted), for “Part 10A of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”.
+
+### 18. School Organisation (Requirements as to Foundations) (England) Regulations 2007
+
+(1) The School Organisation (Requirements as to Foundations) (England) Regulations 2007 are amended as follows.
+
+(2) In the Schedule (individuals disqualified from acting as charity trustees of a foundation), in paragraph 1(d), for “Part 10A of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”.
+
+### 19. Education (Pupil Referral Units) (Management Committees etc.) (England) Regulations 2007
+
+(1) The Education (Pupil Referral Units) (Management Committees etc.) (England) Regulations 2007 are amended as follows.
+
+(2) In Schedule 2 (qualifications and disqualifications), in paragraph 8(d) (persons whose employment is prohibited or restricted), for “Part 10A of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”.
+
+### 20. The Childcare Act 2006 (Local Authority Assessment) (Wales) Regulations 2008
+
+(1) The Childcare Act 2006 (Local Authority Assessment) (Wales) Regulations 2008 are amended as follows.
+
+(2) In regulation 2(1), in the definition of “childcare” (“*gofal plant*”)—
+
+- (a) for “part 10A of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010, and
+- (b) for “part 10A” substitute “Part 2”.
+
+### 21. Childcare (Early Years and General Childcare Registers) (Common Provisions) Regulations 2008
+
+In regulation 5(2)(h) of the Childcare (Early Years and General Childcare Registers) (Common Provisions) Regulations 2008 (prescribed descriptions of information), for paragraph (i) substitute—
+
+> - (i) the Welsh Ministers in pursuance of their functions as registration authority under Part 2 of the Children and Families (Wales) Measure 2010;
+
+.
+
+### 22. Non-Domestic Rating (Small Business Relief) (Wales) Order 2008
+
+(1) The Non-Domestic Rating (Small Business Relief) (Wales) Order 2008 is amended as follows.
+
+(2) In article 8(a) (conditions for relief – the child care conditions), for “Part XA of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”.
+
+### 23. Childcare (Disqualification) Regulations 2009
+
+In paragraph 19 of Schedule 1 to the Childcare (Disqualification) Regulations 2009 (orders etc. relating to the care of children)—
+
+- (a) omit “or” where it appears after sub-paragraph (h), and
+- (b) at the end of sub-paragraph (i) substitute a semi colon for the full stop and insert the following—
+
+  > or,
+  >
+  > - (j) Part 2 of the Children and Families (Wales) Measure 2010.
+
+  .
+
+### 24. Supreme Court Fees Order 2009[^key-ada0fa731faadefb335a295814eff24c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Criminal Defence Service (Contribution Orders) Regulations 2009
+
+(1) The Criminal Defence Service (Contribution Orders) Regulations 2009 are amended as follows.
+
+(2) In regulation 2(1) (interpretation), in the definition of “child care costs” —
+
+- (a) in paragraph (d), for “Part XA of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”, and
+- (b) for paragraph (e) substitute—
+
+  > - (e) persons referred to in article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010, in schools or establishments referred to in those articles;
+
+  .
+
+### 26. Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010
+
+(1) The Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010 are amended as follows.
+
+(2) In Schedule 7 (qualifications and disqualifications), in paragraph 9(d) (persons whose employment is prohibited or restricted), for “Part XA of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010”.
+
+### 27. Child Minding and Day Care (Disqualification) (Wales) Regulations 2010
+
+The Child Minding and Day Care (Disqualification) (Wales) Regulations 2010 are amended as follows—
+
+- (a) in regulation 2(1) (interpretation)—
+  - (i) in the appropriate place in the alphabetical order, insert—
+
+    > - “the Measure” (“*y Mesur*”) means the Children and Families (Wales) Measure 2010;
+
+    , and
+  - (ii) in the definition of “disqualified” (“*wedi ei anghymhwyso / wedi eu hanghymhwys*o”) for “Part 10A of the Act” substitute “Part 2 of the Measure”;
+- (b) in regulation 2(2), for “Part 10A of the Act” substitute “Part 2 of the Measure”;
+- (c) for regulation 10 (prescribed determination) substitute the following—
+
+  > **10. Prescribed determination**
+  >
+  > For the purposes of section 37(2)(a) of the Measure (appeals), a determination by the Welsh Ministers as to whether to give consent to waive disqualification under regulation 9(1) is a prescribed determination.
+
+  ;
+- (d) in regulation 11(1) (duty of disclosure), for “Part 10A of the Act” substitute “Part 2 of the Measure”;
+- (e) in paragraph 20 of Schedule 1 (orders etc relating to the care of children)—
+  - (i) after sub-paragraph (h) omit “or”, and
+  - (ii) at the end of sub-paragraph (i) substitute a semi colon for the full stop and insert the following—
+
+    > or,
+    >
+    > - (j) Part 2 of the Measure.
+
+    .
+
+(This note is not part of the Order)
+
+This is the second commencement order made by the Welsh Ministers under the Children and Families (Wales) Measure 2010 (“the Measure”).
+
+This Order commences the provisions within Part 2 of the Measure, which relate to child minding and the provision of day care for children under the age of eight. It is intended that these provisions will be used to replace the provisions within Part XA of and Schedule 9A to the Children Act 1989 (*child minding and day care for young children in Wales*) (“the 1989 Act”), which currently govern the arrangements for the provision and regulation of such care provided in Wales and which are repealed by this Order.
+
+Subject to the savings provisions contained in articles 3 and 4, article 2 and Schedule 1 bring into force on 1 April 2011 Part 2 of the Measure, more particularly:
+
+- section 19 of the Measure, which sets out the definition of “child minding” and “day care for children”;
+- section 20 of the Measure, which requires the Welsh Ministers to maintain a register of persons who are registered as child minders;
+- section 21 of the Measure, which provides that a person may not act as a child minder unless that person is registered as a child minder under Part 2 of the Measure;
+- section 22 of the Measure, which requires the Welsh Ministers to maintain a register of persons who are registered to provide day care for children;
+- section 23 of the Measure, which provides that a person may not provide day care for children on any premises in Wales unless that person is registered as a provider of day care for children under Part 2 of the Measure;
+- sections 24 to 30 of the Measure , which make provision for the requirement to and process for registration as a child minder or provider of day care for children under Part 2 of the Measure;
+- sections 31 to 33 of the Measure, which make provision for the cancellation of registration (section 31), suspension of registration (section 32) and for the voluntary removal from the register (section 33) of a child minder or a provider of day care for children;
+- sections 34 and 35 of the Measure, which make provision for the protection of children in an emergency. Section 34 makes provision for the cancellation of a person’s registration as a child minder or provider of day care for children and section 35 for changes to conditions to be imposed upon a person’s registration as a child minder or a provider of day care for children;
+- section 36 of the Measure which lays down procedural safeguards for the taking of certain steps under Part 2 of the Measure;
+- section 37, which makes provision for appeals to be made to the First-tier Tribunal against the taking of specified steps and in respect of specified decisions;
+- sections 38 and 39, which make provision for a person’s disqualification from registration (section 38) and the consequences of such disqualification (section 39);
+- sections 40 to 43, which make provision for a power of inspection and entry in respect of services provided in accordance with Part 2 of the Measure;
+- sections 44 and 45, which relate to the supply of information to the Welsh Ministers (section 44) and to local authorities (section 45);
+- sections 46 to 51, which make provision for offences, criminal proceedings and fixed penalties;
+- sections 52 to 56 of the Measure, which make provision for the functions of local authorities (section 52), fees (section 53), co-operation between authorities (section 54), notices (section 55) and death of the registered person (section 56).
+
+Article 3 of the Order saves the Child Minding and Day Care (Disqualification) (Wales) Regulations 2010 notwithstanding the repeal of the provisions of the 1989 Act under which they have been made.
+
+Article 4 of and Schedules 2 and 3 to the Order make saving and transitional provision as a consequence of the coming into force of Part 2 of the Measure and the repeal of Part XA of and Schedule 9A to the 1989 Act. In particular, in Schedule 2, provision is made to ensure that legal proceedings under or in relation to Part XA of and Schedule 9A to the 1989 Act are unaffected.
+
+Schedule 3 contains savings and transitional provision. In particular—
+
+- Paragraph 2 provides that persons who are registered as child minders or providers of day care under Part XA of and Schedule 9A to the 1989 Act immediately before 1 April 2011 will, subject to exceptions, be treated on and after that date (“the relevant date”) as if they were registered in accordance with the provisions of the new regime under Part 2 of the Measure. It also makes appropriate provision about conditions attaching to this “transferred” registration.
+- Paragraph 3 makes provision about certificates of registration where a person’s registration is deemed to be transferred under the new regime set out in Part 2 of the Measure. Provision is also made for the issue of a certificate of registration under Part 2 of the Measure in prescribed circumstances.
+- Paragraph 4 makes provision for persons who were not eligible for registration as child minders or providers of day care before the relevant date. In particular, it disapplies, in prescribed circumstances, the application of provisions in Part 2 of the Measure which make it an offence to act as a child minder or provider of day care for children without being registered.
+- Paragraph 5 makes provision for applications made under Part XA of and Schedule 9A to the 1989 Act that have not been determined on 1 April 2011 to be treated as having been made under Part 2 of the Measure and determined by the Welsh Ministers under those provisions.
+- Paragraphs 6 and 7 make provision for notices of intention issued in the prescribed circumstances under Part XA of the 1989 Act (to refuse an application for registration, or to cancel an existing registration, to impose a condition upon a person’s registration or to refuse to remove or vary any condition already imposed on a person’s registration) to be treated as though the notices were issued in accordance with section 36 of the Measure.
+- Paragraphs 8, 9 and 10 make provision in respect of appeals made to the First-tier Tribunal in accordance with section 79M of 1989 Act, which have been made before the relevant date and which have not been determined, to be treated as an appeal under section 37 of the Measure and determined in accordance with that provision.
+- Paragraph 11 provides that an enforcement notice served by the Welsh Ministers in accordance with section 79D of the 1989 Act which continues to have effect immediately before the relevant date will continue to have effect on and from that date as though it were served under section 21(3) of the Measure.
+- Paragraph 12 makes provision for a compliance notice issued by the Welsh Ministers to a person in accordance with the Child Minding and Day Care (Wales) Regulations 2002 before the relevant date to continue to have effect on and after that date as though it were issued in accordance with regulation 18 of the Child Minding and Day Care (Wales) Regulations 2010.
+- Paragraph 13 allows the Welsh Ministers to have regard, when exercising their functions under Part 2 of the Measure, to a person’s compliance or failure to comply with the duty imposed by regulation 23 of the Child Minding and Day Care (Wales) Regulations 2002 (*national minimum standards*).
+- Paragraph 14 provides that where immediately before the relevant date, a person’s registration is suspended by the Welsh Ministers in accordance the Suspension of Day Care Providers and Child Minders (Wales) Regulations 2004, the suspension is to be treated on and after that date as if it were made under the Child Minding and Day Care (Wales) Regulations 2010 (“the 2010 Regulations”). Appeals against a suspension made before the relevant date and which have not been determined by the First-tier Tribunal will be treated on and after that date as having been made under regulation 45 of the 2010 Regulations.
+- Paragraph 15 make provision for any consents given (under the Disqualification Regulations 2010) to waive a disqualification, which have not been withdrawn, to continue to have effect under those Regulations, which are saved by article 3 until such time as regulations are made under section 38 of the Measure (*disqualification from registration*).
+- Paragraph 16 provides that where the Welsh Ministers have made an application to a justice of the peace for an order under section 79K(1)(a)(i) of the 1989 Act cancelling a person’s registration and immediately before the relevant date that order has not been made, that application will on and after that date be treated as having been made under section 34 of the Measure (*protection of children in an emergency: cancellation of registration*).
+- It also makes provision for when the order applied for seeks to vary or remove a condition, or to impose a new condition, upon a person’s registration (in accordance with section 79K(1)(a)(ii) or (iii) respectively), and immediately before the relevant date that order has not been made, the Welsh Ministers will withdraw that application and take action in accordance with section 35 of the Measure (*protection of children in an emergency: changes to conditions*).
+
+(This note is not part of the Order)
+
+| Provision | Date of commencement | S.I. number |
+| --- | --- | --- |
+| Section 57 | 1 September 2010 | S.I. [2010/1699 (W.160) (C.87)](https://www.legislation.gov.uk/wsi/2010/1699) |
+| Section 58 (partially) | 1 September 2010 | S.I. [2010/1699 (W.160) (C.87)](https://www.legislation.gov.uk/wsi/2010/1699) |
+| Section 59 | 1 September 2010 | S.I. [2010/1699 (W.160) (C.87)](https://www.legislation.gov.uk/wsi/2010/1699) |
+| Section 60 | 1 September 2010 | S.I. [2010/1699 (W.160) (C.87)](https://www.legislation.gov.uk/wsi/2010/1699) |
+| Section 61 | 1 September 2010 | S.I. [2010/1699 (W.160) (C.87)](https://www.legislation.gov.uk/wsi/2010/1699) |
+| Section 62 | 1 September 2010 | S.I. [2010/1699 (W.160) (C.87)](https://www.legislation.gov.uk/wsi/2010/1699) |
+| Section 63 | 1 September 2010 | S.I. [2010/1699 (W.160) (C.87)](https://www.legislation.gov.uk/wsi/2010/1699) |
+| Section 64 | 1 September 2010 | S.I. [2010/1699 (W.160) (C.87)](https://www.legislation.gov.uk/wsi/2010/1699) |
+| Section 65 | 1 September 2010 | S.I. [2010/1699 (W.160) (C.87)](https://www.legislation.gov.uk/wsi/2010/1699) |
+
+*See* also section 75(1) and (2) of the Measure for the provisions that came into force on 10 February 2010 (date of approval by Her Majesty in Council).
+
+## Annotations
+
+[^f00001]: Footnote: [2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1).
+
+[^key-3eb8f7daeda775d06f4e8ded9bbe93e9]: Commencement: Art. 1 in force at made date
+
+[^f00002]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00003]: Footnote: S.I. [2010/1703 (W.163)](https://www.legislation.gov.uk/wsi/2010/1703).
+
+[^key-9f69995383e8b1356d797f023ae51e22]: Commencement: Art. 2 in force at made date
+
+[^key-0e5a9b4e23842fd184e407d50afa9d9c]: Commencement: Art. 3 in force at made date
+
+[^key-f0956458170f5ac1b4c7044127b16a74]: Commencement: Art. 4 in force at made date
+
+[^key-391ef4bb8269d855c19eb2db6d8bfcd7]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/wsi/2010/2582/article/5) inserted (4.3.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/wsi/2011/577), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/577/article/2/1)[(2)](https://www.legislation.gov.uk/wsi/2011/577/article/2/2)
+
+[^key-13eb8b36df7e9fe2b94941c58ba9f2d4]: Commencement: Sch. 1 in force at made date
+
+[^key-9e67713ab1cf442628c31ac98240bc25]: Commencement: Sch. 2 para. 1 in force at made date
+
+[^f00004]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^key-c69cff74da04ea18bcddd81f57fc8046]: Commencement: Sch. 2 para. 2 in force at made date
+
+[^key-91823d7fe6b6dfb073633537b20ade05]: Commencement: Sch. 3 para. 1 in force at made date
+
+[^f00005]: Footnote: S.I. [2002/812 (W.92)](https://www.legislation.gov.uk/wsi/2002/812).
+
+[^f00006]: Footnote: S.I. [2010/2574 (W.214)](https://www.legislation.gov.uk/wsi/2010/2574).
+
+[^f00007]: Footnote: S.I. [2004/3282 (W.285)](https://www.legislation.gov.uk/wsi/2004/3282).
+
+[^f00008]: Footnote: S.I. [2010/1703 (W.163)](https://www.legislation.gov.uk/wsi/2010/1703).
+
+[^key-f957bf48d4b0ad72c42f8a0a9ec4f5e8]: Commencement: Sch. 3 para. 2 in force at made date
+
+[^key-95180e02a8fb111cc39503be2a5b44c4]: Commencement: Sch. 3 para. 3 in force at made date
+
+[^key-8b0602e6ffc1cafd09ed71f106a8305d]: Commencement: Sch. 3 para. 4 in force at made date
+
+[^key-695f8b7df68b5c0a16188f58e0626159]: Commencement: Sch. 3 para. 5 in force at made date
+
+[^key-114baf1732877b7455db680b022da6cd]: Commencement: Sch. 3 para. 6 in force at made date
+
+[^key-5b1017a597fa7b56ab8fe21991b7d1ee]: Commencement: Sch. 3 para. 7 in force at made date
+
+[^key-fd75a3536beb649e45df98e68def19b9]: Commencement: Sch. 3 para. 8 in force at made date
+
+[^key-b19b88389fa101363b840a544482b295]: Commencement: Sch. 3 para. 9 in force at made date
+
+[^key-b4955ee06266f9008b5df3a25a04b74a]: Commencement: Sch. 3 para. 10 in force at made date
+
+[^key-488d4cc0c4b4261856a8bc61006def70]: Commencement: Sch. 3 para. 11 in force at made date
+
+[^key-98a570c11b0d7e90d30d487b1c1dbe20]: Commencement: Sch. 3 para. 12 in force at made date
+
+[^key-7c08f2df48c7b034105bda23f4c60995]: Commencement: Sch. 3 para. 13 in force at made date
+
+[^key-3eaabaebb5daaa3768ccafcd755a6066]: Commencement: Sch. 3 para. 14 in force at made date
+
+[^key-521fd74cb0ce42a24a93993dc8747838]: Commencement: Sch. 3 para. 15 in force at made date
+
+[^key-e5ee70e702ae5526b4dea435505f6fb0]: Commencement: Sch. 3 para. 16 in force at made date
+
+[^key-efc0950d85ce87b6926df3e1604dac2f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2010/2582/schedule/4) inserted (4.3.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/wsi/2011/577), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/577/article/2/1)[(3)](https://www.legislation.gov.uk/wsi/2011/577/article/2/3), [Sch.](https://www.legislation.gov.uk/wsi/2011/577/schedule)
+
+[^key-ed04225da0e59ddb363081b07a7146e1]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/4/paragraph/2) revoked (13.3.2017 with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/4) (with [reg. 7](https://www.legislation.gov.uk/wsi/2017/113/regulation/7))
+
+[^key-ada0fa731faadefb335a295814eff24c]: Textual amendment: [Sch. 4 para. 24](https://www.legislation.gov.uk/wsi/2010/2582/schedule/4/paragraph/24) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)

@@ -1,0 +1,345 @@
+---
+title: The Quick-frozen Foodstuffs (Wales) Regulations 2007
+id: wsi/2007/389
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2007-02-13'
+text_date: '2023-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2007/389
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2007/389/pdfs/wsi_20070389_mi.pdf
+- http://www.legislation.gov.uk/wsi/2007/389/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Quick-frozen Foodstuffs (Wales) Regulations 2007
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-10-01. See https://www.legislation.gov.uk/changes/affected/wsi/2007/389
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2007 No. 389 (W.40)
+
+FOOD, WALES
+
+The Quick-frozen Foodstuffs (Wales) Regulations 2007
+
+Made
+
+13 February 2007
+
+Coming into force
+
+1 March 2007
+
+The National Assembly for Wales makes the following Regulations in exercise of the powers conferred on it by section 2(2) of the European Communities Act 1972 [^c18067381].
+
+The National Assembly for Wales has been designated [^c18067391] for the purposes of that section in relation to measures relating to food (including drink) including the primary production of food.
+
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c18067401] there has been open and transparent public consultation during the preparation of the following Regulations.[^key-6988544f228c769ba23b5ffb30d3def1]
+
+## 1. Title, commencement and application
+
+(1) The title of these Regulations is “The Quick-frozen Foodstuffs (Wales) Regulations 2007”.
+
+(2) These Regulations come into force on 1 March 2007.
+
+(3) These Regulations apply in relation to Wales.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” (“***y Ddeddf***”) means the Food Safety Act 1990 [^c18067411];
+- “**authorised officer**” (“***swyddog awdurdodedig***”) in relation to an enforcement authority, means any person (whether or not an officer of the authority) who is authorised by them in writing, either generally or specially, to act in matters arising under these Regulations;
+- [^key-1d9c3a051fbd6fa5f00602f508bb734f]...
+- [^key-2d45ba7d22f5b746509cba2acbf8dc78]...
+- “**Directive 92/2**” (“***Cyfarwyddeb 92/2***”) means Commission Directive [92/2/EEC](https://www.legislation.gov.uk/european/directive/1992/0002) laying down the sampling procedure and the Community method of analysis for the official control of the temperatures of quick-frozen foods intended for human consumption [^c18067441];
+- “**enforcement authority**” (“***awdurdod gorfodi***”) means the authority which, by virtue of regulation 9(5), is responsible for executing and enforcing these Regulations;
+- “**food**” (“***bwyd***”) has the meaning that it bears in Regulation 178/2002;
+- “food authority” (“[^key-4f5383ab802eb20cb54b18d764296a44]*awdurdod bwyd*”) has the meaning it bears by virtue of section 5(1A) of the Act;
+- “local distribution”, (“dosbarthiad lleol”and “dosbarthu'n lleol”) in relation to any product, means that part of the distribution chain in which the product is delivered to the point of placing on the market for retail purposes (such placing on the market to include placing on the market to a mass caterer[^key-b85843a9dfd291fc26864559d6c91647]);
+- “[^key-87341b88033aade56b3789550353d145]**mass caterer**” (“***arlwywr mawr***”) has the meaning given by Article 2(2)(d) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers;
+- “**placing on the market**” (“***rhoi ar y farchnad***”) has the meaning that it bears in Regulation 178/2002 and “**placed on the market**” (“**wedi'i rhoi ar y farchnad**”) and “**place on the market**” shall be construed accordingly;
+- “**prepackaging**” (“***rhagbecyn***”) is construed in accordance with the definition of “prepacked” in Article 2(2)(e) of Regulation ([^key-b098660ca24e76cb944841b8f55199c6]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers but with the words “placed on the market” being substituted for the words “offered for sale”;
+- “**quick-frozen foodstuff**” (“***deunydd bwyd sydd wedi'i rewi'n gyflym***”) means a product—
+  - (a) comprising food which has undergone a freezing process known as “quick-freezing” whereby the zone of maximum crystallisation is crossed as rapidly as possible, depending on the type of product; and
+  - (b) which is labelled for the purpose of placing on the market to indicate that it has undergone that process,
+
+  but does not include ice-cream or any other edible ice;
+- “**Regulation 178/2002**” (“***Rheoliad 178/2002***”) means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety;
+- “**Regulation 37/2005**” (“***Rheoliad 37/2005***”) means Commission Regulation [(EC) No. 37/2005](https://www.legislation.gov.uk/european/regulation/2005/0037) on the monitoring of temperatures in the means of transport, warehousing and storage of quick-frozen foodstuffs intended for human consumption [^c18067451];
+- “**retail display cabinet**” (“***cabinet arddangos manwerthol***”) means any cabinet in which a quick-frozen foodstuff is placed on the market for retail purposes or in the course of a cash-and-carry business;
+- “**specified Community provision**” (“***darpariaeth Gymunedol benodedig***”) means any provision of Regulation 37/2005 that is specified in column 1 of Schedule 1 and whose subject-matter is described in column 2 of that Schedule; and
+- “[^key-ffe0a436b968538b28ca6de7fbdf5e55]**ultimate consumer**” (“***defnyddiwr olaf***”) has the same meaning as “final consumer” in point 18 of Article 3 of Regulation 178/2002.
+
+(2) Unless the context otherwise requires, any expression used both in these Regulations and in [^key-4d54d9ba21be1c9faeb7e7cbd5a96df2]... Directive 92/2 or Regulation 37/2005 has the meaning that it bears in [^key-4d54d9ba21be1c9faeb7e7cbd5a96df2]... Directive 92/2 or Regulation 37/2005, as the case may be.
+
+(3) Where any functions under the Act are assigned—
+
+- (a) by an order under section 2 [^key-16f5b0cab007598081d83258a882b76d]... of the Public Health (Control of Disease) Act 1984 [^c18067461], to a port health authority; or[^key-5e914e81ac2ccba3063658ab14dd4c4a]
+- (b) by an order under section 6 of the Public Health Act 1936 [^c18067471], to a joint board for a united district; [^key-6dc0edb78f707dc02de1b92118a984ec]...
+- (c)[^key-ba9f2e97e93f3535c8800730fd8567c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+any reference in these Regulations to a food authority is to be construed, so far as relating to those functions, as a reference to the authority to whom they are so assigned.
+
+## 3. Placing on the market of quick-frozen foodstuffs
+
+No person may place a quick-frozen foodstuff on the market for human consumption unless the conditions set out in paragraph 1 of Schedule 2 are satisfied in relation to it.
+
+## 4. Packaging of quick-frozen foodstuffs intended for the ultimate consumer
+
+No person may place any quick-frozen foodstuff intended for the ultimate consumer on the market unless—
+
+- (a) it has been packed by its manufacturer or packer in such prepackaging as is suitable to protect it from microbial and other forms of external contamination and against dehydration; and
+- (b) the quick-frozen foodstuff has remained in such prepackaging up to the time of placing on the market.
+
+## 5. Marketing or labelling of quick-frozen foodstuffs
+
+(1) No person may place on the market any food intended for the ultimate consumer or any mass caterer[^key-1382aa7a1e0150da1ff2fbfd87f6d436] where its labelling or marking contravenes paragraph (2) or (3) and no person may place on the market any food intended for any other person where its labelling or marking contravenes paragraph (2) or (4).
+
+(2) The description “*quick-frozen*” or its equivalent in any other language[^key-39cb215cab2a4b1fcc877b5eeec220f5] may only be used in the labelling for the purpose of placing on the market of—
+
+- (a) a quick-frozen foodstuff; or
+- (b) a food which by virtue of that labelling becomes a quick-frozen foodstuff.
+
+(3) A quick-frozen foodstuff intended for supply, without further processing, to the ultimate consumer or to a mass caterer[^key-276632cd322b483f19e2a222b692e4de] must, in addition to the description “quick-frozen” (and, as the intending supplier may see fit, its equivalent in any other language[^key-012935384c4fa5dbcca6cb3388f9d043]) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with—
+
+- (a) an indication of the date of minimum durability;
+- (b) an indication of the maximum period during which it is advisable to store it;
+- (c) an indication of—
+  - (i) the temperature at which, and/or
+  - (ii) the equipment in which,
+
+  it is advisable to store it;
+- (d) a reference allowing identification of the batch to which it belongs; and
+- (e) a clear message of the type “do not refreeze after defrosting”.
+
+(4) Any other quick-frozen foodstuff must, in addition to the description “quick-frozen” (and, as the supplier may see fit, its equivalent in any other language[^key-dd69335ff442d2d7d30b931b1965ee76]) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with—
+
+- (a) a reference allowing identification of the batch to which it belongs; and
+- (b) the name or business name and address of the manufacturer or packer, or of a person who places that foodstuff on the market established within the United Kingdom[^key-e5f8e86a8ed756045f0d94819cfc807f].
+
+## 6. Equipment
+
+Each food operator handling a quick-frozen foodstuff intended for placing on the market for human consumption must ensure during each stage which it is within the food operator's control that the equipment used in respect of that foodstuff is such as to ensure that its eventual placing on the market does not contravene these Regulations, whether through an act or an omission on the part of the food operator.
+
+## 7. Sampling and method of measuring temperatures
+
+Where, further to an inspection, an authorised officer of an enforcement authority has reasonable grounds to believe that the temperatures that are being or have been maintained in respect of any quick-frozen foodstuff are not the temperatures prescribed for such foodstuff in paragraph 1(e) and (f) of Schedule 2, he must further inspect such quick-frozen foodstuff and such temperatures in accordance with the provisions of Directive 92/2.
+
+## 8. Records
+
+Each food operator handling a quick-frozen foodstuff must at the request of an authorised officer of an enforcement authority make available, to that or another authorised officer of that authority, the records required to be kept under Article 2 of Regulation 37/2005.
+
+## 9. Offences, penalties and enforcement
+
+(1) If any person contravenes or fails to comply with any of the provisions of these Regulations that person is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) Subject to paragraphs (3) and (4), if any person contravenes or fails to comply with a specified Community provision that person is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3)[^key-ceb6f9c3af82b7133098e890cd964253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A person will not be considered to have contravened or failed to comply with Article 2 of Regulation 37/2005 if—
+
+- (a) the offence which would otherwise have been committed was in respect of a cold store facility with a capacity of less than 10m<sup>3</sup>x2 used for storing stock in retail outlets; and
+- (b) the air temperature in the cold store is measured by an easily visible thermometer.
+
+(5) Each food authority must enforce and execute these Regulations within its area.
+
+## 10. Application of various provisions of the Food Safety Act 1990
+
+The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or a Part of it is to be construed as a reference to these Regulations—
+
+- (a) section 3 (presumptions that food intended for human consumption);
+- (b) section 20 (offences due to fault of another person);
+- (c) section 21 (defence of due diligence) [^c18067491], with the modifications that subsections (2) to (4) shall apply in relation to an offence under regulation 9(1) consisting of a contravention or failure to comply with regulation 3, 4 or 5(1) as they apply in relation to an offence under section 14 or 15 and that in subsection (4)(b) of section 21 the reference to “sale” shall be deemed to be include references to “placing on the market”;
+- (d) section 30(8) (which relates to documentary evidence);
+- (e) section 33(1) (obstruction etc. of officers);
+- (f) section 33(2) with the modification that the reference to “any such requirement as is mentioned in subsection (1)(b) above” shall be deemed to be a reference to any such requirement as is mentioned in section 33(1)(b) as applied by sub-paragraph (e);
+- (g) section 35(1) punishment of offences [^c18067501], in so far as it relates to offences under section 33(1) as applied by sub-paragraph (e);
+- (h) section 35(2) and (3) [^c18067511], in so far as it relates to offences under section 33(2) as applied by sub-paragraph (f);
+- (i) section 36 (offences by bodies corporate);
+- (j) section 36A (offences by Scottish partnerships) [^c18067521];
+- (k) section 44 (protection of officers acting in good faith); and
+- (l) section 58(1) (which relates to territorial waters).
+
+## 11. Revocation
+
+In so far as they apply in relation to Wales, the Quick-frozen Foodstuffs Regulations 1990 [^c18067531] are revoked.
+
+## 12. Transitional provision: withdrawal from the EU[^key-439a17fd27cfb8c78711d7bd7540cc7a]
+
+For the purpose of regulation 9(1), a person is not considered to have contravened or failed to comply with regulation 5(1) in respect of the requirements set out in relation to regulation 5(4)(b) if—
+
+- (a) the alleged contravention would relate to a product that was placed on the market on or after the day on which the Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 came into force and before 1 January 2024[^key-cb99239a942bfa374e9872810b9e5d9c]; and
+- (b) the matter constituting the alleged contravention or failure to comply would not have constituted a contravention of, or failure to comply with those provisions of these Regulations as they had effect immediately before IP completion day.
+
+[^c18067541]Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+## SCHEDULE 1 — SPECIFIED COMMUNITY PROVISIONS
+
+Regulations 2 and 9(2)
+
+| *1. Provision of Regulation 37/2005* | *2. Subject-matter* |
+| --- | --- |
+| Article 2.1 | Requirement that the means of transport, warehousing and storage of quick-frozen foodstuffs shall be fitted with suitable recording instruments to monitor, at frequent and regular intervals, the air temperature to which the quick-frozen foodstuffs are subjected. |
+| Article 2.2 — first sentence of first paragraph | Requirement that all measuring instruments described in Article 2.1 of Regulation 37/2005 shall comply with EN 12830, EN 13485 and EN 13486 standards. |
+| Article 2.2 — second sentence of first paragraph | Requirement that food operators keep all relevant documents verifying that the measuring instruments conform to the relevant EN standard. |
+| Article 2.3 | Requirement that temperature recording shall be dated and stored by the food operator for a period of at least a year, or for longer taking into account the nature and shelf life of the quick-frozen foodstuffs. |
+| Article 3.1 — first paragraph | Requirement that storage in retail display cabinets, or in the course of local distribution the air temperature shall only be measured by at least one easily visible thermometer. |
+| Article 3.1 — second paragraph (a) and (b) | Requirement that in open retail cabinets the maximum load line of the cabinet shall be clearly marked and the thermometer shall indicate the temperature at the air return side at the level of that mark. |
+
+## SCHEDULE 2 — Conditions that have to be satisfied in relation to a quick-frozen foodstuff if it is to be placed on the market for human consumption
+
+Regulation 3
+
+**1.** The conditions are that—
+
+- (a) the quick-frozen foodstuff has been manufactured from raw materials of sound, genuine and merchantable quality and no other materials;
+- (b) no raw material has been used in the manufacture of the quick-frozen foodstuff unless, at the time of its use, it would have been lawful for the raw material to be placed on the market for human consumption;
+- (c) the preparation and quick-freezing of the quick-frozen foodstuff have been carried out with sufficient promptness, and by use of appropriate technical equipment, to minimise any chemical, biochemical and microbiological changes to the food comprised in it;
+- (d) no cryogenic medium other than an authorised cryogenic medium has been used in direct contact with any food comprised in the quick-frozen foodstuff;
+- (e) the quick-freezing of each food comprised in the quick-frozen foodstuff has resulted in the temperature of that food after thermal stabilisation being −18°C or colder; and
+- (f) following the quick-freezing and thermal stabilisation of each food comprised in the quick-frozen foodstuff in compliance with sub-paragraph (e) the temperature of that food has been maintained at a level no warmer than −18°C except where a permitted exception relating to the temperature of the food applies.
+
+**2.** For the purposes of paragraph 1—
+
+- (a) an authorised cryogenic medium is—
+  - (i) air,
+  - (ii) nitrogen, or
+  - (iii) carbon dioxide;
+
+  and
+- (b) a permitted exception relating to the temperature of a food applies when—
+  - (i) that food is kept within brief periods during transport (including local distribution) at a temperature warmer than −18°C but not warmer than −15°C, or
+  - (ii) that food is kept in a retail display cabinet at a temperature warmer than −18°C to an extent consistent with good storage practice but not warmer than −12°C.
+
+## SCHEDULE 3 — TRANSITITONAL REQUIREMENTS FOR MEASURING INSTRUMENTS INSTALLED BEFORE 1ST JANUARY 2006[^key-1c92ea410a986163daa3defd3d68f64a]
+
+**No longer in force.**
+
+Regulation 9(3)
+
+### 1. Application[^key-1c92ea410a986163daa3defd3d68f64a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-1c92ea410a986163daa3defd3d68f64a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Requirements[^key-1c92ea410a986163daa3defd3d68f64a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations apply in relation to Wales only. They revoke and re-enact in relation to Wales the Quick-frozen Foodstuffs Regulations 1990 (S.I. 1990/2615, as amended), which extend to the whole of Great Britain. In addition to continuing the implementation of the Directives specified in paragraph 3 below, these Regulations now also provide for the execution and enforcement of Commission Regulation [(EC) No. 37/2005](https://www.legislation.gov.uk/european/regulation/2005/0037) on the monitoring of temperatures in the means of transport, warehousing and storage of quick-frozen foodstuffs intended for human consumption (OJ No. L10, 13.1.2005, p.18).
+
+**2.** These Regulations—
+
+- (a) prohibit the placing on the market of a quick-frozen foodstuff unless certain conditions are satisfied (*regulation 3*);
+- (b) prohibit the placing on the market of a quick-frozen foodstuff intended for the ultimate consumer unless certain conditions regarding packaging are satisfied (*regulation 4*);
+- (c) impose requirements relating to the labelling of quick-frozen foodstuffs (*regulation 5*);
+- (d) impose requirements in relation to the equipment used in respect of quick-frozen foodstuffs intended for placing on the market for human consumption (*regulation 6*);
+- (e) provide for additional inspections of quick-frozen foodstuffs and of the temperatures maintained in respect of them (*regulation 7*);
+- (f) require a food operator to make records available in certain circumstances (*regulation 8*);
+- (g) provide that a person who contravenes or fails to comply with any of the provisions of these Regulations is guilty of an offence and create a penalty for that offence (*regulation 9(1)*);
+- (h) provide that subject to certain exceptions, namely compliance with transitional requirements for measuring instruments installed before 1st January 2006 in the case of a contravention of the first paragraph of Article 2.2 of Commission Regulation [(EC) No. 37/2005](https://www.legislation.gov.uk/european/regulation/2005/0037) and a contravention of Article 2 of Commission Regulation [(EC) No. 37/2005](https://www.legislation.gov.uk/european/regulation/2005/0037) in respect of small cold stores in retail outlets where the air temperature is measured by an easily visible thermometer) a person who contravenes or fails to comply with specified provisions of that Regulation is guilty of an offence and create a penalty for that offence (*regulation 9(2), (3) and (4)*);
+- (i) provide for the execution and enforcement of these Regulations (*regulation 9(5)*); and
+- (j) apply with modifications certain provisions of the Food Safety Act 1990 (1990 c. 16) for the purposes of these Regulations (*regulation 10*).
+
+**3.** The Directives implemented by S.I. 1990/2615 that these Regulations continue to implement are—
+
+- (a) [^c18067551]Council Directive [89/108/EEC](https://www.legislation.gov.uk/european/directive/1989/0108) on the approximation of the laws of Member States relating to quick-frozen foodstuffs for human consumption ; and
+- (b) Commission Directive [92/2/EEC](https://www.legislation.gov.uk/european/directive/1992/0002) laying down the sampling procedure and the Community method of analysis for the official control of the temperatures of quick-frozen foods intended for human consumption (OJ No. L34, 11.2.92, p.30).
+
+**4.** A full Regulatory Appraisal of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Food Standards Agency, 11th Floor, Southgate House, Wood Street, Cardiff CF10 1EW, and is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website.
+
+## Annotations
+
+[^c18067381]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c18067391]: Marginal citation: [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901).
+
+[^c18067401]: Marginal citation: OJ No. L31, 1.2.2002, p.1. as last amended as at the making of this instrument by commission Regulation (EC) No. 575/2006 amending Regulation (EC) No. 178/2002 of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3).
+
+[^key-6988544f228c769ba23b5ffb30d3def1]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^c18067411]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^key-1d9c3a051fbd6fa5f00602f508bb734f]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(a)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/a)
+
+[^key-2d45ba7d22f5b746509cba2acbf8dc78]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/389/regulation/2/1) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c18067441]: Marginal citation: OJ No. L034, 11.2.92, p.30.
+
+[^key-4f5383ab802eb20cb54b18d764296a44]: Textual amendment: Words in reg. 2(1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/a/ii)
+
+[^key-b85843a9dfd291fc26864559d6c91647]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(b)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/b)
+
+[^key-87341b88033aade56b3789550353d145]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(c)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/c)
+
+[^key-b098660ca24e76cb944841b8f55199c6]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(d)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/d)
+
+[^c18067451]: Marginal citation: OJ No. L10, 13.1.05, p.18.
+
+[^key-ffe0a436b968538b28ca6de7fbdf5e55]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 43(e)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/43/e)
+
+[^key-4d54d9ba21be1c9faeb7e7cbd5a96df2]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2007/389/regulation/2/2) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-16f5b0cab007598081d83258a882b76d]: Textual amendment: Words in reg. 2(3)(a) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(i)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/i)
+
+[^c18067461]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22); section 7(3)(d) was substituted by paragraph 27 of Schedule 3 to the [Food Safety Act 1990 (1990 c. 16)](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^key-5e914e81ac2ccba3063658ab14dd4c4a]: Textual amendment: Word in reg. 2(3)(a) inserted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/ii)
+
+[^c18067471]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49); section 6 is to be read with paragraph 1 of Schedule 3 to the Food Safety Act 1990.
+
+[^key-6dc0edb78f707dc02de1b92118a984ec]: Textual amendment: Word in reg. 2(3)(b) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/iii)
+
+[^key-ba9f2e97e93f3535c8800730fd8567c0]: Textual amendment: Reg. 2(3)(c) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/2/b/iv)
+
+[^key-1382aa7a1e0150da1ff2fbfd87f6d436]: Textual amendment: Words in reg. 5(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 44](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/44)
+
+[^key-39cb215cab2a4b1fcc877b5eeec220f5]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/2) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-276632cd322b483f19e2a222b692e4de]: Textual amendment: Words in reg. 5(3) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 44](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/44)
+
+[^key-012935384c4fa5dbcca6cb3388f9d043]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/3) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/wsi/2019/434/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dd69335ff442d2d7d30b931b1965ee76]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/4) substituted (31.12.2020) by S.I. 2019/434 reg. 4(3)(c)(i) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/3/2))
+
+[^key-e5f8e86a8ed756045f0d94819cfc807f]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/wsi/2007/389/regulation/5/4/b) substituted (31.12.2020) by S.I. 2019/434 reg. 4(3)(c)(ii) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/3/2))
+
+[^key-ceb6f9c3af82b7133098e890cd964253]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/wsi/2007/389/regulation/9/3) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/3)
+
+[^c18067491]: Marginal citation: [Section 21](https://www.legislation.gov.uk/wsi/2007/389/section/21) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c18067501]: Marginal citation: [Section 35(1)](https://www.legislation.gov.uk/wsi/2007/389/section/35/1) is amended by the Criminal Justice Act 2003, ([2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44)) Schedule 26, paragraph 42, from a date to be appointed.
+
+[^c18067511]: Marginal citation: [Section 35(3)](https://www.legislation.gov.uk/wsi/2007/389/section/35/3) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c18067521]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/wsi/2007/389/section/36A) was inserted by the [Food Standards Act 1999 (1999 c. 28)](https://www.legislation.gov.uk/ukpga/1999/28) , Schedule 5, paragraph 16.
+
+[^c18067531]: Marginal citation: [S.I. 1990/2615](https://www.legislation.gov.uk/uksi/1990/2615).
+
+[^key-439a17fd27cfb8c78711d7bd7540cc7a]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2007/389/regulation/12) inserted (14.4.2021) by [The Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/371)](https://www.legislation.gov.uk/wsi/2021/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/371/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/371/regulation/3)
+
+[^key-cb99239a942bfa374e9872810b9e5d9c]: Textual amendment: Words in [reg. 12(a)](https://www.legislation.gov.uk/wsi/2007/389/regulation/12/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/939/regulation/3)
+
+[^c18067541]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-1c92ea410a986163daa3defd3d68f64a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2007/389/schedule/3) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [15(4)](https://www.legislation.gov.uk/wsi/2018/806/regulation/15/4)
+
+[^c18067551]: Marginal citation: OJ No. L40, 11.12.89, p.34 as last amended as at the making of this instrument by Council Directive 2006/107/EC adapting Directive 89/108/EEC relating to quick frozen foodstuffs for human consumption and Directive 2000/13/EC of the European Parliament and of the Council relating to the labelling, presentation and advertising of foodstuffs, by reason of the accession of Bulgaria and Romania (OJ No. L363, 20.12.06, p.411).

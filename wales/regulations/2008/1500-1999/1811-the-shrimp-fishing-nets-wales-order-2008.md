@@ -1,0 +1,161 @@
+---
+title: The Shrimp Fishing Nets (Wales) Order 2008
+id: wsi/2008/1811
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-07-08'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2008/1811
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2008/1811/pdfs/wsi_20081811_mi.pdf
+- http://www.legislation.gov.uk/wsi/2008/1811/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Shrimp Fishing Nets (Wales) Order 2008
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2008 No. 1811 (W.175)
+
+SEA FISHERIES, WALES
+
+CONSERVATION OF SEA FISH
+
+The Shrimp Fishing Nets (Wales) Order 2008
+
+Made
+
+8 July 2008
+
+Laid before the National Assembly for Wales
+
+9 July 2008
+
+Coming into force
+
+30 July 2008
+
+The Welsh Ministers are designated [^c19343561] for the purposes of section 2(2) of the European Communities Act 1972 [^c19343571], as read with paragraph 1A of Schedule 2 to that Act [^c19343581], in relation to the common agricultural policy of the European Community.
+
+This Order makes provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for the references to European Community instruments in this Order to be construed as references to those instruments as amended from time to time.
+
+The Welsh Ministers, in exercise of the powers conferred by sections 3(1) and 15(3) of the Sea Fish (Conservation) Act 1967 [^c19343591], and in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972, make the following Order:
+
+## 1. Title, commencement and application
+
+(1) The title of this Order is the Shrimp Fishing Nets (Wales) Order 2008 and comes into force on 30 July 2008.
+
+(2) This Order applies in relation to Wales.
+
+## 2. Interpretation
+
+(1) In this Order:
+
+- [^key-988da79c1296f4dbd3adc6ba5962d576]...
+- “**codend**” (“***pen y cwd***”) means the rearmost part of a net, being made up of one or more panels comprising pieces of netting of the same mesh size attached to one another along their sides in the long axis of the net by a lacing;
+- “**equivalent Order**” (“***Gorchymyn cyfatebol***”) means an order extending to any other part of the United Kingdom made under section 3 of the Sea Fish (Conservation) Act 1967 containing a similar provision to that in article 3; and
+- “**Wales**” (“***Cymru***”) has the meaning given to it in section 158(1) of the Government of Wales Act 2006 [^c19343611].
+
+(2) For the purpose of this Order, the mesh of a net or netting is to be measured in accordance with [Commission Regulation (EC) No. 517/2008](https://www.legislation.gov.uk/european/regulation/2008/0517)[^key-eb9558dbaa8da65de78a9716ad3bc514] of 10 June 2008 laying down detailed rules for the implementation of Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) as regards the determination of the mesh size and assessing the thickness of twine of fishing nets.
+
+(3) Any reference in this Order to an EU[^M_F_10065570-ab3a-4980-f0a1-9e9ad95cc80e] instrument is a reference to that instrument as amended from time to time.
+
+## 3. Prohibition on fishing for shrimps without a separator trawl or sorting grid
+
+(1) Fishing boats[^key-4cb7915704feab18579ea9824520fd91] are prohibited from carrying or deploying a net, the mesh of which measures between 16 and 31 millimetres unless —
+
+- (a) netting, the mesh of which measures at least twice that of the codend and no more than 70 millimetres, is fitted across the entire cross-section of the net in such a way that —
+  - (i) fish cannot reach the codend without first passing through the netting; and
+  - (ii) there is a hole in the net through which all fish that do not pass through the netting are able to escape;
+- (b) a rigid grid, the spacing between the bars of which is no more than 20 millimetres, is fitted across the entire cross-section of the net in such a way that —
+  - (i) fish cannot reach the codend without first passing through the grid; and
+  - (ii) there is a hole in the net through which all fish that do not pass through the grid are able to escape;
+- (c) no fish have been retained on board the boat; or
+- (d) the retention of fish on board the boat is consistent with Article 25(3) of Council Regulation 850/98 of 30 March 1998 for the conservation of fishery resources through technical measures for the protection of juveniles of[^key-fbb9fcaf9a22309aae18aa676e3fad01] marine organisms [^c19343631].
+
+## 4. Powers of British Sea-fishery officers
+
+(1) For the purposes of enforcing this Order or any equivalent Order, a British sea fishery officer may exercise the powers conferred by this article in relation to a relevant British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be; and[^key-2ca6eaea4bb67b42876fb78fa814e257]
+
+- (a) in relation to a relevant British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be; and
+- (b) in relation to any other fishing boat, in any waters adjacent to the United Kingdom and within relevant British fishery limits.
+
+(2) The officer may go on board the boat, with or without persons assigned to assist in the officer's duties, and for that purpose may require the boat to stop and do anything else which will facilitate the boarding of the boat.
+
+(3) The officer may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to the officer to be necessary for the purpose of enforcing this Order, and, in particular —
+
+- (a) may examine any fish on that boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything which appears to the officer to be necessary for facilitating the examination; and
+- (b) may require any person on board the boat to produce any document relating to the boat, to its fishing operations or other operations ancillary thereto or to the persons on board which is in that person's custody or possession and may take copies of any such document;
+- (c) for the purpose of ascertaining whether the master, owner or charterer of the boat has committed an offence under section 3(5) of the Sea Fish (Conservation) Act 1967 as read with this Order or any equivalent Order, may search the boat for any such document and may require any person on board the boat to do anything which appears to the officer to be necessary for facilitating the search;
+- (d) where the boat is one in relation to which the officer has reason to suspect that such an offence has been committed, may seize and detain any such document produced to the officer or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence;
+
+but nothing in sub-paragraph (d) above permits any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
+
+(4) Where it appears to a British sea-fishery officer that a contravention of any provision of this Order has at any time taken place, the officer may —
+
+- (a) require the master of the boat in relation to which the contravention took place to take, or the officer may take, the boat and its crew to the port which appears to the officer to be the nearest convenient port; and
+- (b) detain or require the master to detain the boat in the port;
+
+and where such an officer detains or requires the detention of a boat, the officer must serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
+
+## 5. Revocation
+
+The Shrimp Fishing Nets (Wales) Order 2003 [^c19343641] is revoked.
+
+Elin Jones
+
+Minister for Rural Affairs, one of the Welsh Ministers
+
+*(This note is not part of the Order)*
+
+This Order regulates the carriage and use of any fishing nets with mesh size between 16 and 31 millimetres, measured in accordance with Commission Regulation [(EC) No. 129/2003](https://www.legislation.gov.uk/european/regulation/2003/0129) of 24 January 2003 laying down detailed rules for determining the mesh size and thickness of twine of fishing nets. This Order sets out the national provisions called for by Article 25 of Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) of 30 March 1998, by specifying veil nets and sorting grids as the types of device required to be used.
+
+The Order applies to British fishing boats in Wales and prohibits them from carrying or using such nets other than in certain specified circumstances (article 3).
+
+The specified exceptions are where defined attachments are fitted to the net (article 3(1)(a) and (b)), where no sea fish have been caught (article 3(1)(c)) or where any sea fish retained on board are retained in accordance with Article 25(3) of Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) (article 3(1)(d)).
+
+If any boat breaches this prohibition, the master, owner and charterer is guilty of an offence and is liable to a fine not exceeding £5,000 on summary conviction and on conviction on indictment to a fine (sections 3(5) and 11(1)(b) of the Sea Fish (Conservation) Act 1967). The court may also impose an additional fine not exceeding the value of the fish caught with the net or order the net's forfeiture (section 11(2) and (3) of the 1967 Act).
+
+Additionally the Order confers powers of enforcement on British sea-fishery officers for the purposes of enforcing this Order or any equivalent Order (article 4).
+
+The Order revokes the Shrimp Fishing Nets (Wales) Order 2003 (article 5).
+
+No regulatory impact assessment has been prepared in relation to this Order.
+
+## Annotations
+
+[^c19343561]: Marginal citation: [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766) (as amended by [S.I. 2006/3329](https://www.legislation.gov.uk/uksi/2006/3329)). By virtue of sections 59(1) and 162 of and paragraphs 28 and 30 of Schedule 11 to the Government of Wales Act 2006, functions conferred on the National Assembly for Wales (as constituted under the [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38)) are exercisable by the Welsh Ministers.
+
+[^c19343571]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c19343581]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/wsi/2008/1811/paragraph/1A) was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^c19343591]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84). Section 3 was amended by the [Fishery Limits Act 1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), [section 9(1)](https://www.legislation.gov.uk/ukpga/1976/86/section/9/1) and Schedule 2, paragraph 16(1); the [Inshore Fishing (Scotland) Act 1984 (c. 26)](https://www.legislation.gov.uk/ukpga/1984/26), [section 10(1)](https://www.legislation.gov.uk/ukpga/1984/26/section/10/1) and Schedule 1 and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [article 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Schedule 2](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2), Part I, [paragraph 43(1)](https://www.legislation.gov.uk/uksi/1999/1820/paragraph/43/1), (2) and (4). Section 15(3) was substituted by the [Sea Fisheries Act 1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77) section 22(1), Schedule 1, paragraph 38(3) and amended by the [Fishery Limits Act 1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) section 9(1), Schedule 2, paragraph 16(1) and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [article 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Schedule 2](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2), [paragraph 43(1)](https://www.legislation.gov.uk/uksi/1999/1820/paragraph/43/1) and (2)(b). *See* section 22(2)(a) for definitions of “**the Ministers**” for the purposes of sections 3 and 15(3); [section 22(2)](https://www.legislation.gov.uk/wsi/2008/1811/section/22/2) was amended by the Fisheries Act 1981, sections 19(2)(d) and 45(b) and (c) and by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [article 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [paragraph 43(12)](https://www.legislation.gov.uk/uksi/1999/1820/paragraph/43/12) of Schedule 2. The functions of the Ministers in sections 3(1) and 15(3) of the 1967 Act, so far as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales (as constituted under the Government of Wales Act 1998) by article 2 of and Schedule 1 to the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672). Those functions were subsequently transferred to the Welsh Ministers by section 162 of and paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38).
+
+[^key-988da79c1296f4dbd3adc6ba5962d576]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2008/1811/article/2/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/14/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^c19343611]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). This definition includes “the sea adjacent to Wales out as far as the seaward boundary of the territorial sea”.
+
+[^key-eb9558dbaa8da65de78a9716ad3bc514]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/wsi/2008/1811/article/2/2) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [4](https://www.legislation.gov.uk/wsi/2018/1095/article/4)
+
+[^M_F_10065570-ab3a-4980-f0a1-9e9ad95cc80e]: Textual amendment: Words in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+
+[^key-4cb7915704feab18579ea9824520fd91]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/wsi/2008/1811/article/3/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/14/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-fbb9fcaf9a22309aae18aa676e3fad01]: Textual amendment: Word in [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2008/1811/article/3/1/d) substituted (2.1.2009) by [The Shrimp Fishing Nets (Wales) (Amendment) Order 2008 (S.I. 2008/3144)](https://www.legislation.gov.uk/wsi/2008/3144), [arts. 1](https://www.legislation.gov.uk/wsi/2008/3144/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2008/3144/article/2/2)
+
+[^c19343631]: Marginal citation: OJ No. L125, 27.4.1998, p.1.
+
+[^key-2ca6eaea4bb67b42876fb78fa814e257]: Textual amendment: [Art. 4(1)(a)(b)](https://www.legislation.gov.uk/wsi/2008/1811/article/4/1/a/b) and words substituted for words (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 14(4)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/14/4/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^c19343641]: Marginal citation: [S.I. 2003/3035](https://www.legislation.gov.uk/uksi/2003/3035) (W.283).

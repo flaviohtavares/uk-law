@@ -1,0 +1,247 @@
+---
+title: The Cockles and Mussels (Specified Area) (Wales) Order 2011
+id: wsi/2011/1988
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-08-10'
+text_date: '2024-07-10'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2011/1988
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2011/1988/pdfs/wsi_20111988_mi.pdf
+- http://www.legislation.gov.uk/wsi/2011/1988/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cockles and Mussels (Specified Area) (Wales) Order 2011
+
+> Text as at 2024-07-10.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 1988 (W.219)
+
+SEA FISHERIES, WALES
+
+The Cockles and Mussels (Specified Area) (Wales) Order 2011
+
+Made
+
+10 August 2011
+
+Laid before the National Assembly for Wales
+
+11 August 2011
+
+Coming into force
+
+1 September 2011
+
+The Welsh Ministers make the following Order in exercise of the powers conferred by sections 189(1) and 316(1) of the Marine and Coastal Access Act 2009[^f00001].
+
+## 1. Title, commencement and application[^key-fdc77dfed306aef59ce90ff3ef1620a2]
+
+(1) The title of this Order is the Cockles and Mussels (Specified Area) (Wales) Order 2011 and it comes into force on 1 September 2011.
+
+(2) This Order applies in relation to Wales.
+
+## 2. Interpretation[^key-fb28f15f6e2d7921aae7790c9ecba987]
+
+In this Order—
+
+- [^key-91429e264fd2ea3ab8a8ed0b3312662e]...
+- [^key-47ca370bea50b9a6b731eaf75189fa82]...
+- “Foreshore Gatherers Safety Training Certificate” (“*Tystysgrif Hyfforddiant Diogelwch Casglwyr Blaendraeth*”) means a document issued by the Sea Fish Industry Authority, certifying the applicant’s successful completion of a safety training course for intertidal shellfishing;
+- “mussels” (“*cregyn gleision*”) means any shellfish of the type *Mytilus edulis*;
+- “permit” (“*trwydded*”) means a permit issued by the Welsh Ministers pursuant to article 6 of this Order;
+- “specified area” (“*ardal benodedig*”) means the area described in the Schedule to this Order;
+- [^key-d586ba0bd9048a69b3fee9515bc40c8b]...
+- “Wales” (“*Cymru*”) has the meaning given in section 158 of the Government of Wales Act 2006[^f00003].
+
+## 3. Fishing restrictions[^key-ecd831262b3bb4be733c9535f2fa2a95]
+
+(1) Subject to paragraph (2), no person may fish for or take mussels[^key-1cb4da8ecff1e883918e63684c20fee2] within the specified area unless they do so in accordance with the conditions of a permit.
+
+(2) Paragraph (1) does not apply to any person who—
+
+- (a) takes by hand not more than [^key-3883a2b525d0acee82ca90dd24f16e44]... five kilograms in live weight of mussels in any one day for personal consumption;
+- (b) takes mussels[^key-c2627c1915b76c330effdc4a1067d4e7] whilst onboard a fishing boat[^key-b996d251c10355ab723a064699ea4e40]; or
+- (c) takes mussels pursuant to an Order made under section 1 of the Sea Fisheries (Shellfish) Act 1967[^f00004].
+
+(3) Any person fishing for or taking mussels within the specified area must produce a copy of that person’s permit if requested to do so by a person authorised by the Welsh Ministers.
+
+(4) Any person who has been requested to produce a permit pursuant to paragraph (3) must not fish for or take mussels within the specified area until that permit has been produced.
+
+## 4. Permit duration, application and terms[^key-3e333bf812757c42e97152e727711d1a]
+
+A permit will be valid from 1 September in one year until 31 August in the following year.
+
+**5.**[^key-e9e2154325c6cdd6de14afff34bce28d] (1) A person wishing to apply for a permit must complete and submit to the Welsh Ministers an application in such form as the Welsh Ministers may require.
+
+(2) An application pursuant to paragraph (1) must be accompanied by such proof of identity and address as the Welsh Ministers may require.
+
+(3) An application pursuant to paragraph (1) may be made on or after 1 July in the same year as the permit is due to commence.
+
+**6.**[^key-c1e99b74a9891e6e66a5fea54e83e0a9] (1) The Welsh Ministers may issue a permit to—
+
+- (a) any person who held a permit to fish for or take mussels[^key-26d937b0dea381d6e31ede0cd4f6e6ee] in the specified area during the period from 1 September in the preceding year until 31 August in the year during which the permit being applied for will commence; and
+- (b) forty applicants who hold a current Foreshore Gatherers Safety Training Certificate.
+
+(2) Applications for the permits that the Welsh Ministers may issue pursuant to sub-paragraph (1)(b) will be considered in chronological order of receipt and those forty permits will be issued to the first forty applicants where eligibility in accordance with that sub-paragraph is established.
+
+**7.**[^key-96252fd2b3de3d3f82917d0656476152] A permit—
+
+- (a) may contain such conditions relating to the fishing for or taking of mussels[^key-8494bc54f9c25afa65c931efecc575bd] as the Welsh Ministers may determine;
+- (b) authorises only the named permit holder to fish for or take mussels within the specified area; and
+- (c) is not transferable.
+
+**8.**[^key-6f07ed6821157d19f786f9dd4db1d7e5] (1) A person who fishes for or takes mussels[^key-4397ed8ffc4a9acf0f9fde5c2bd011e0] within the specified area must submit a catch return to the Welsh Ministers on or before the fifth day of the calendar month following the month in which those mussels[^key-3a125d3aae70ba8fa9a8718ba75f9b18] were fished for or taken.
+
+(2) A catch return for the purposes of paragraph (1) must record—
+
+- (a) the date of each catch of mussels[^key-8486f5b8eb18db17b9f82b4a2273dda4];
+- (b)[^key-2177c0fabe11d8c5cf5e8a7fcf49acd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the total live weight of all mussels taken on that date;
+- (d) the location from which the mussels[^key-ca653718ae83a0f9a71bb6e589629ccb] were taken; and
+- (e) such further information as may be required by the Welsh Ministers and notified to the permit holder from time to time.
+
+## 9. Revocation and consequential amendment[^key-8977bbaf642a44564ab2ecc889f1e8e6]
+
+(1) Byelaw 5 (Permit to Fish for Cockles (*Cerastoderma edule*) and Mussels (*Mytilis edulis*))[^f00005] of the former North Western and North Wales Sea Fisheries Committee[^f00006] is revoked in relation to Wales.
+
+(2) In the Table in Schedule 4 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010[^f00007] delete the row relating to Byelaw 5.
+
+Alun Davies
+
+Deputy Minister for Agriculture, Food, Fisheries and European Programmes, under authority of the Minister for Business, Enterprise, Technology and Science, one of the Welsh Ministers
+
+## SCHEDULE — SPECIFIED AREA
+
+Article 2
+
+**1.**[^key-b8d83d0e3593a03c2aa099079f865489] Subject to paragraph 2, the specified area is so much of the sea within six nautical miles from the baselines in Wales, as lies within the following limits—
+
+- (a) on the north, a line drawn between the co-ordinates in the Dee Estuary set out in Schedule 3 to the National Assembly for Wales (Transfer of Functions) Order 1999[^f00008]; and
+- (b) on the south, a line drawn true north-west from the northern extremity of Cemaes Head in the county of Ceredigion.
+
+**2.**[^key-80c8c7750fac81e595b75ed309646308] The specified area does not extend above a line drawn at or near the mouth of every river or stream flowing into the sea or into any estuary, or of the estuaries, within the limits of the specified area as follows—
+
+- (a) a line drawn across the river Dee (Dyfrdwy) from Hilbre Point to the north-western extremity of Hilbre Island in the Metropolitan Borough of Wirral and then to the disused lighthouse at the Point of Ayr, in the county of Flintshire;
+- (b) a line drawn across the river Clwyd, along the seaward side of the bridge carrying the A548 road at Rhyl;
+- (c) lines drawn across the rivers Conwy and Aber, along the seaward side of the railway bridges across the said rivers near Conwy and Aber respectively;
+- (d) a line drawn across the river Seiont, along the seaward side of the bridge carrying the A487 road at Caernarfon;
+- (e) a line drawn across the mouth of Foryd Bay (river Gwyrfai) from Tŷ Calch to the flagstaff at Belan Fort;
+- (f) a line drawn across the river Cefni, along the seaward side of the bridge carrying the A4080 road at Malltraeth;
+- (g) a line drawn across the river Soch, along the seaward side of the bridge carrying the A499 road at Abersoch;
+- (h) a line drawn across the river Erch, along the seaward side of the railway bridge at Pwllheli Harbour;
+- (i) a line drawn across the river Rhyd-hir, along the seaward side of the bridge carrying the Embankment Road at the western side of Pwllheli Harbour;
+- (j) a line drawn across the river Glaslyn, along the seaward side of the embankment near Porthmadog;
+- (k) lines drawn across the rivers Dwyryd and Artro, along the seaward side of the railway bridges across the said rivers near Llandecwyn and Llanbedr and Pen-Sarn Stations respectively;
+- (l) lines drawn across the rivers Ysgethin and Dysynni, along the seaward side of the railway bridges across the said rivers near Tal-y-bont and Tonfannau respectively;
+- (m) a line drawn across the river Mawddach, from the point at which it is joined on the north shore by the Cwm-llechen stream near Bontddu to the point on the south shore where it is joined by the Gwynant stream;
+- (n) a line drawn across the river Dyfi, from the point at Trefri to the south-western abutment of the railway bridge across the Tre'r-ddôl stream (river Cletwr);
+- (o) a line drawn across the river Aeron, along the seaward side of the bridge carrying the A487 road at Aberaeron;
+- (p) a line drawn across the river Teifi, along the seaward side of the bridge carrying the A487 road at Cardigan; and
+- (q) a line drawn across every river or stream not specified above, such line being in continuation of the coast at mean high water springs.
+
+(This note is not part of the Order)
+
+This Order, which applies in relation to Wales, revokes and replaces Byelaw 5 (Permit to Fish for Cockles (*Cerastoderma edule*) and Mussels (*Mytilis edulis*)) of the former North Western and North Wales Sea Fisheries Committee (“the Sea Fisheries Committee”).
+
+The Sea Fisheries Committee was abolished, in relation to Wales, on 1 April 2010 when the Sea Fisheries Regulation Act 1966 was repealed by section 187 of the Marine and Coastal Access Act 2009 (“the 2009 Act”).
+
+Byelaw 5 of the Sea Fisheries Committee has had effect since 1 April 2010 as if made by the Welsh Ministers in a statutory instrument by virtue of article 13(3) of and Schedule 4 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 (“the 2010 Order”).
+
+Byelaw 5 of the Sea Fisheries Committee expires on 31 August 2011 and this Order revokes and replaces the provisions of that Byelaw.
+
+Article 3 of this Order prohibits, subject to the stated exceptions, fishing for cockles and mussels within the specified area unless that activity is undertaken in accordance with a permit issued by the Welsh Ministers. It also requires that permit holders must be able to produce a permit, when asked, whilst fishing within the specified area.
+
+The specified area is that part of Wales which previously formed part of the Sea Fisheries Committee’s district.
+
+The exceptions to the prohibition set out in article 3 relate to individuals who take by hand not more than 5kg of cockles and 5kg of mussels during any one day, those who take cockles and mussels whilst onboard a registered British fishing boat and those who take cockles and mussels pursuant to an Order made under section 1 of the Sea Fisheries (Shellfish) Act 1967.
+
+Article 4 provides that a permit will be valid between 1 September in one year and 31 August in the following year.
+
+Article 5 provides that an application for a permit must be made to the Welsh Ministers in such form and accompanied by such proof of identity and address as the Welsh Ministers may require. It also provides that such applications may be made on or after 1 July in the year during which the permit being applied for is due to commence.
+
+Article 6 enables the Welsh Ministers to issue a permit to any person who held a similar permit to fish for cockles and mussels in the specified area during the season immediately preceding the season of the permit being applied for. It also enables the Welsh Ministers to issue forty new permits each year to applicants who did not hold a similar permit to fish for cockles and mussels in the specified area during the season immediately preceding the season of the permit being applied for, provided that those applicants must hold a current Foreshore Gatherers Safety Training Certificate issued by the Sea Fish Industry Authority.
+
+Article 7 enables the Welsh Ministers to attach conditions to the permit. It also provides that each permit authorises only the named person to fish and is not transferable to any other person.
+
+Article 8 requires each permit holder to submit a catch return on or before the fifth day of the month following the month during which the cockles and mussels were taken from the specified area.
+
+Article 9 revokes Byelaw 5 of the Sea Fisheries Committee and makes the necessary consequential amendment to the 2010 Order.
+
+A Regulatory Impact Assessment has not been produced for this Order as no impact on the costs of business or the voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-fdc77dfed306aef59ce90ff3ef1620a2]: Commencement: Art. 1 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)
+
+[^key-fb28f15f6e2d7921aae7790c9ecba987]: Commencement: Art. 2 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)
+
+[^key-91429e264fd2ea3ab8a8ed0b3312662e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2011/1988/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/17/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-47ca370bea50b9a6b731eaf75189fa82]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2011/1988/article/2) omitted (10.7.2024) by virtue of [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/2/a)
+
+[^key-d586ba0bd9048a69b3fee9515bc40c8b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2011/1988/article/2) omitted (10.7.2024) by virtue of [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/2/b)
+
+[^f00003]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-ecd831262b3bb4be733c9535f2fa2a95]: Commencement: Art. 3 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)
+
+[^key-1cb4da8ecff1e883918e63684c20fee2]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/3/1) substituted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/3/b)
+
+[^key-3883a2b525d0acee82ca90dd24f16e44]: Textual amendment: Words in [art. 3(2)(a)](https://www.legislation.gov.uk/wsi/2011/1988/article/3/2/a) omitted (10.7.2024) by virtue of [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(3)(c)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/3/c)
+
+[^key-c2627c1915b76c330effdc4a1067d4e7]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/wsi/2011/1988/article/3) substituted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/3/a)
+
+[^key-b996d251c10355ab723a064699ea4e40]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/wsi/2011/1988/article/3/2/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/17/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^f00004]: Footnote: [1967 c. 83](https://www.legislation.gov.uk/ukpga/1967/83).
+
+[^key-3e333bf812757c42e97152e727711d1a]: Commencement: Art. 4 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)
+
+[^key-e9e2154325c6cdd6de14afff34bce28d]: Commencement: Art. 5 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)
+
+[^key-c1e99b74a9891e6e66a5fea54e83e0a9]: Commencement: Art. 6 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)
+
+[^key-26d937b0dea381d6e31ede0cd4f6e6ee]: Textual amendment: Word in [art. 6(1)(a)](https://www.legislation.gov.uk/wsi/2011/1988/article/6/1/a) substituted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/4)
+
+[^key-96252fd2b3de3d3f82917d0656476152]: Commencement: Art. 7 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)
+
+[^key-8494bc54f9c25afa65c931efecc575bd]: Textual amendment: Word in [art. 7](https://www.legislation.gov.uk/wsi/2011/1988/article/7) substituted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(5)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/5)
+
+[^key-6f07ed6821157d19f786f9dd4db1d7e5]: Commencement: Art. 8 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)
+
+[^key-4397ed8ffc4a9acf0f9fde5c2bd011e0]: Textual amendment: Word in [art. 8(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/8/1) substituted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(6)(a)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/6/a)
+
+[^key-3a125d3aae70ba8fa9a8718ba75f9b18]: Textual amendment: Word in [art. 8(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/8/1) substituted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(6)(b)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/6/b)
+
+[^key-8486f5b8eb18db17b9f82b4a2273dda4]: Textual amendment: Word in [art. 8(2)(a)](https://www.legislation.gov.uk/wsi/2011/1988/article/8/2/a) substituted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(6)(c)(i)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/6/c/i)
+
+[^key-2177c0fabe11d8c5cf5e8a7fcf49acd7]: Textual amendment: [Art. 8(2)(b)](https://www.legislation.gov.uk/wsi/2011/1988/article/8/2/b) omitted (10.7.2024) by virtue of [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(6)(c)(ii)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/6/c/ii)
+
+[^key-ca653718ae83a0f9a71bb6e589629ccb]: Textual amendment: Word in [art. 8(2)(d)](https://www.legislation.gov.uk/wsi/2011/1988/article/8/2/d) substituted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a), [Sch. 3 para. 2(6)(c)(i)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/2/6/c/i)
+
+[^key-8977bbaf642a44564ab2ecc889f1e8e6]: Commencement: Art. 9 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)
+
+[^f00005]: Footnote: From 1 April 2010, Byelaw 5 of the former North Western and North Wales Sea Fisheries Committee has effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that byelaw originally applied by virtue of article 13(3) of and Schedule 4 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C.42)](https://www.legislation.gov.uk/uksi/2010/630)).
+
+[^f00006]: Footnote: The North Western and North Wales Sea Fisheries Committee was dissolved, in relation to Wales, on 1 April 2010 when article 3 of the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C.42)](https://www.legislation.gov.uk/uksi/2010/630)) brought into force section 187 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), with the effect of repealing the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38).
+
+[^f00007]: Footnote: [S.I. 2010/630 (C.42)](https://www.legislation.gov.uk/uksi/2010/630).
+
+[^key-b8d83d0e3593a03c2aa099079f865489]: Commencement: Sch. para. 1 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)
+
+[^f00008]: Footnote: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^key-80c8c7750fac81e595b75ed309646308]: Commencement: Sch. para. 2 in force at 1.9.2011, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2011/1988/article/1/1)

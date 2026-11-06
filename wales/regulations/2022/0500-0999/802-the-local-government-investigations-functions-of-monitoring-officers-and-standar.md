@@ -1,0 +1,217 @@
+---
+title: The Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) (Amendment) Regulations 2022
+id: wsi/2022/802
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-07-13'
+text_date: '2022-08-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2022/802
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2022/802/pdfs/wsi_20220802_mi.pdf
+- http://www.legislation.gov.uk/wsi/2022/802/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) (Amendment) Regulations 2022
+
+> Text as at 2022-08-05.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2022 No. 802 (W. 178)
+
+Local Government, Wales
+
+The Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) (Amendment) Regulations 2022
+
+Made
+
+13 July 2022
+
+Laid before Senedd Cymru
+
+15 July 2022
+
+Coming into force
+
+5 August 2022
+
+The Welsh Ministers make the following Regulations in exercise of the power conferred on them by section 73(1), (2)(b), (2)(d) and (2)(e), and section 105(2)(a) and (2)(b) and (3), of the Local Government Act 2000[^f00001].
+
+## 1. Title and coming into force[^key-7a559ecbc9d1ed873a4c5432d043af9d]
+
+The title of these Regulations is the Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) (Amendment) Regulations 2022 and they come into force on 5 August 2022.
+
+## 2. Amendments to the Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001[^key-9ac8ad21bc172b5f5f9d73703b7975b8]
+
+The Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001[^f00002] are amended as follows.
+
+**3.**[^key-75047be6f591b7d99093c2a26f198f27] In regulation 2, in the definition of “relevant authority”—
+
+- (a) after “a scheme to which section 4 of that Act applies,” omit “and”;
+- (b) for “1995;” substitute “1995, and”;
+- (c) at the end insert “a corporate joint committee;”.
+
+**4.**[^key-35f7a8df963f666a10222e4abe7098fc] In regulation 3, after paragraph (2) insert—
+
+> (2A) Where the relevant authority concerned is a corporate joint committee, in the matter of a member or co-opted member who is also a member or co-opted member of—
+>
+> - (a) a constituent council of the corporate joint committee;
+> - (b) a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021[^f00003] to appoint a member of the corporate joint committee,
+>
+> the monitoring officer of the corporate joint committee must also send a copy of any report and recommendations issued under paragraph (1)(b) or any recommendations made under paragraph (2) to the monitoring officer of that constituent council or National Park authority.
+
+**5.**[^key-17410c9c09978f48971f9e0aeff063d3] In regulation 6, after paragraph (a) insert—
+
+> - (aa) where any person who is the subject of the investigation is a member or co-opted member of a corporate joint committee and is also a member or co-opted member of—
+>   - (i) a constituent council of the corporate joint committee;
+>   - (ii) a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+>
+>   send a copy of the report and any recommendations to the monitoring officer of that constituent council or National Park authority;
+
+.
+
+**6.**[^key-00d64cfce154ec0117cbd74431a18164] In regulation 7(1)(a), after paragraph (i) insert—
+
+> - (ia) where the person who is the subject of the investigation is a member or co-opted member of a corporate joint committee and is also a member or co-opted member of—
+>   - (aa) a constituent council of the corporate joint committee;
+>   - (bb) a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+>
+>   the monitoring officer of that constituent council or National Park authority;
+
+.
+
+**7.**[^key-5364ab20b75f8ed8bb739e0f9472df0c] In regulation 7A(1), after sub-paragraph (a) insert—
+
+> - (aa) where a subject of the investigation is a member or co-opted member of a corporate joint committee and is also a member or co-opted member of—
+>   - (i) a constituent council of the corporate joint committee;
+>   - (ii) a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+>
+>   the monitoring officer of that constituent council or National Park authority;
+
+.
+
+**8.**[^key-6769fbced0d8ca5c92b50491a51d9a9c] In regulation 8—
+
+- (a) in paragraph (4), for “Regulation 7(b)” substitute “regulation 7(1)(b)”;
+- (b) in paragraph (6)(b), for “Regulation 12(a)(i)” substitute “regulation 12(1)(a)(i)”;
+- (c) in paragraph (6)(c), for “Regulation 12(a)(ii)” substitute “regulation 12(1)(a)(ii)”.
+
+**9.**[^key-d6354f119006d060f95791a4d243f9d6] In regulation 9—
+
+- (a) in paragraph (2), for “Regulation 12(a)(ii)” substitute “regulation 12(1)(a)(ii)”;
+- (b) after paragraph (3)(a), insert—
+
+  > - (aa) where a subject of the investigation is a member or co-opted member of a corporate joint committee and is also a member or co-opted member of—
+  >   - (i) a constituent council of the corporate joint committee;
+  >   - (ii) a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+  >
+  >   the monitoring officer of that constituent council or National Park authority;
+
+  .
+
+**10.**[^key-3105470779edd2d3421c28639e05ecda] In regulation 10(10), after sub-paragraph (a) insert—
+
+> - (aa) where the person seeking permission to appeal is a member or co-opted member of a corporate joint committee and is also a member or co-opted member of—
+>   - (i) a constituent council of the corporate joint committee;
+>   - (ii) a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+>
+>   the monitoring officer of that constituent council or National Park authority;
+
+.
+
+**11.**[^key-3730f17a35b18785a15173001d55bf17] In regulation 12—
+
+- (a) the existing provision becomes paragraph (1);
+- (b) in paragraph (1), omit the words from “, and must inform” to “decision”;
+- (c) after paragraph (1), insert—
+
+  > (2) After making a decision in accordance with paragraph (1), the appeals tribunal must give notice of that decision and reasons for the decision to:
+  >
+  > - (a) any person who is the subject of the investigation,
+  > - (b) the Public Services Ombudsman for Wales,
+  > - (c) the Standards Committee of the relevant authority, and
+  > - (d) where any person subject to the investigation is a member of a corporate joint committee, and is also a member or co-opted member of—
+  >   - (i) a constituent council of the corporate joint committee;
+  >   - (ii) a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+  >
+  >   the monitoring officer of that constituent council or National Park authority.
+
+**12.**[^key-7e2b3f322dbf595d56acc2bfc4aa5b20] In regulation 13—
+
+- (a) in paragraph (1)—
+  - (i) in sub-paragraph (b), for “Regulation 12(a)(i) or (b)” substitute “regulation 12(1)(a)(i) or (b)”;
+  - (ii) in sub-paragraph (c), for “Regulation 12(a)(ii)” substitute “regulation 12(1)(a)(ii)”;
+  - (iii) omit the words from “and send” to “gave rise to the investigation”;
+- (b) after paragraph (1), insert—
+
+  > (1A) The Standards Committee must send a copy of the report to:
+  >
+  > - (a) any person who is the subject of the investigation,
+  > - (b) the Public Services Ombudsman for Wales,
+  > - (c) the monitoring officer of the relevant authority concerned, and
+  > - (d) where any person subject to the investigation is a member or co-opted member of a corporate joint committee, and is also a member or co-opted member of—
+  >   - (i) a constituent council of the corporate joint committee;
+  >   - (ii) a National Park authority which is required by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 to appoint a member of the corporate joint committee,
+  >
+  >   the monitoring officer of that constituent council or National Park authority.
+  >
+  > (1B) The Standards Committee must also take reasonable steps to send a copy of the report to any person who made any allegation which gave rise to the investigation.
+
+  ;
+- (c) in paragraph (2), in the words before sub-paragraph (a), after “authority” insert “concerned”.
+
+Rebecca Evans
+
+Minister for Finance and Local Government, one of the Welsh Ministers
+
+13 July 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations add corporate joint committees established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021 to the definition of “relevant authority” in the Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001 (“**the 2001 Regulations**”).
+
+These Regulations also amend the 2001 Regulations to provide that where a corporate joint committee member (or co-opted member) is under investigation, and they are also a member (or co-opted member) of a constituent council or National Park authority, specified information, reports and recommendations must also be sent to that council or authority.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to the regulations which establish corporate joint committees, and connected regulations and orders. As a result, a regulatory impact assessment was prepared at the time of making those establishment regulations and is relied on for the purpose of these Regulations. A copy can be obtained from the Local Government Strategic Finance Division, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). The functions of the National Assembly for Wales now vest in the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). Regulation 3(2)(a) of [S.I. 2022/372 (W. 92)](https://www.legislation.gov.uk/wsi/2022/372) inserted corporate joint committees to the definition of “relevant authority” in section 49 of the 2000 Act. Section 49 is contained in Part 3 of the 2000 Act and concerns the conduct of local government members and employees.
+
+[^key-7a559ecbc9d1ed873a4c5432d043af9d]: Commencement: Reg. 1 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^key-9ac8ad21bc172b5f5f9d73703b7975b8]: Commencement: Reg. 2 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^f00002]: Footnote: [S.I. 2001/2281 (W. 171)](https://www.legislation.gov.uk/wsi/2001/2281); relevant amending instruments are [S.I. 2005/2929 (W. 214)](https://www.legislation.gov.uk/wsi/2005/2929), [2006/362 (W. 48)](https://www.legislation.gov.uk/wsi/2006/362), [2016/85 (W. 39)](https://www.legislation.gov.uk/wsi/2016/85).
+
+[^key-75047be6f591b7d99093c2a26f198f27]: Commencement: Reg. 3 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^key-35f7a8df963f666a10222e4abe7098fc]: Commencement: Reg. 4 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^f00003]: Footnote: [2021 asc 1](https://www.legislation.gov.uk/asc/2021/1).
+
+[^key-17410c9c09978f48971f9e0aeff063d3]: Commencement: Reg. 5 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^key-00d64cfce154ec0117cbd74431a18164]: Commencement: Reg. 6 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^key-5364ab20b75f8ed8bb739e0f9472df0c]: Commencement: Reg. 7 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^key-6769fbced0d8ca5c92b50491a51d9a9c]: Commencement: Reg. 8 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^key-d6354f119006d060f95791a4d243f9d6]: Commencement: Reg. 9 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^key-3105470779edd2d3421c28639e05ecda]: Commencement: Reg. 10 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^key-3730f17a35b18785a15173001d55bf17]: Commencement: Reg. 11 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)
+
+[^key-7e2b3f322dbf595d56acc2bfc4aa5b20]: Commencement: Reg. 12 in force at 5.8.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/802/regulation/1)

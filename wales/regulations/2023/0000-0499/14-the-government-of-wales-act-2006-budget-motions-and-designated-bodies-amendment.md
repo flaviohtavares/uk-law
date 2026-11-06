@@ -1,0 +1,106 @@
+---
+title: The Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2023
+id: wsi/2023/14
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-01-11'
+text_date: '2023-02-13'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2023/14
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2023/14/pdfs/wsi_20230014_mi.pdf
+- http://www.legislation.gov.uk/wsi/2023/14/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2023
+
+> Text as at 2023-02-13.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2023 No. 14 (W. 3)
+
+Constitutional Law
+
+The Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2023
+
+Made
+
+11 January 2023
+
+Laid before Senedd Cymru
+
+13 January 2023
+
+Coming into force
+
+13 February 2023
+
+The Welsh Ministers, in exercise of the powers conferred on them by section 126A(2)(a) and (3) of the Government of Wales Act 2006[^f00001], make the following Order.
+
+In accordance with section 126A(6) of that Act the Welsh Ministers have consulted with the Treasury on the making of this Order.
+
+## 1. Title and commencement[^key-6335167909c194e08353db575cc21a64]
+
+(1) The title of this Order is the Government of Wales Act 2006 (Budget Motions and Designated Bodies) (Amendment) Order 2023.
+
+(2) This Order comes into force on 13 February 2023.
+
+## 2. Amendments to the Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018[^key-e1bb13c7c63ad340026366164b9fd9dd]
+
+(1) The Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018[^f00002] is amended as follows.
+
+(2) In the Schedule (Designated Bodies), at the appropriate places insert—
+
+> - Adnodd Cyfyngedig (company number 14227941)
+
+> - Education Workforce Council
+
+[^f00003]
+
+> - Her Majesty’s Chief Inspector of Education and Training in Wales
+
+[^f00004]
+
+> - Qualifications Wales
+
+[^f00005].
+
+Rebecca Evans
+
+Minister for Finance and Local Government, one of the Welsh Ministers
+
+11 January 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018 (“**the 2018 Order**”). It inserts 4 additional bodies into the list of designated bodies contained within the Schedule to the 2018 Order.
+
+The effect of this amendment is that the resources expected to be used by the bodies inserted in the Schedule by this Order may be included within a Budget motion.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to this Order. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32); section 126A was inserted by section 44(1) and (2) of the Constitutional Reform and Governance Act [2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25). Subsections (9) and (10) of section 126A were amended by the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), section 9 and Schedule 1, paragraphs 2(6)(a) and (b) respectively.
+
+[^key-6335167909c194e08353db575cc21a64]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2023/14/article/1) in force at 13.2.2023, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2023/14/article/1/2)
+
+[^key-e1bb13c7c63ad340026366164b9fd9dd]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2023/14/article/2) in force at 13.2.2023, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2023/14/article/1/2)
+
+[^f00002]: Footnote: [S.I. 2018/1173 (W. 237)](https://www.legislation.gov.uk/wsi/2018/1173), amended by [S.I. 2019/1483 (W. 267)](https://www.legislation.gov.uk/wsi/2019/1483), [S.I. 2021/1345 (W. 347)](https://www.legislation.gov.uk/wsi/2021/1345) and [S.I. 2022/58 (W. 22)](https://www.legislation.gov.uk/wsi/2022/58).
+
+[^f00003]: Footnote: Established by section 8(1) of the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30) as the General Teaching Council for Wales and renamed Education Workforce Council by section 2(1) of the Education (Wales) Act [2014 (anaw 5)](https://www.legislation.gov.uk/anaw/2014/5).
+
+[^f00004]: Footnote: Established by section 5(1) of the Education (Schools) Act [1992 (c. 38)](https://www.legislation.gov.uk/ukpga/1992/38) as Her Majesty’s Chief Inspector of Schools in Wales and renamed Her Majesty’s Chief Inspector of Education and Training in Wales by section 73(1) of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21).
+
+[^f00005]: Footnote: Established by section 2(1) of Qualifications Wales Act [2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5).

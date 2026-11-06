@@ -1,0 +1,57 @@
+---
+title: Local Government (Wales) Measure 2011, section 107
+act: Local Government (Wales) Measure 2011
+section: '107'
+status: revised-with-pending-changes
+text_date: '2025-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/mwa/2011/4/section/107
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government (Wales) Measure 2011, section 107
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/mwa/2011/4
+>
+> Extent: England, Wales.
+
+## 107. Power of community meeting to apply for an order adding its community to a group of communities with a common council
+
+*Extent: E+W*
+
+After section 27F of the Local Government Act 1972 insert the following—
+
+> **27G. Power of community meeting to apply for an order adding its community to a group of communities with a common council**
+>
+> (1) This section sets out the conditions that must be met before an application may be made by a community meeting for an order under section 27H adding the community to a group of communities all of which lie in the same principal area as the community and for which there is a common community council.
+>
+> (2) The first condition is that the community meeting has taken an effective decision to hold a poll on a proposal to add the community to a group of communities all of which lie in the same principal area as the community and for which there is a common community council.
+>
+> (3) For the purposes of the first condition a decision is only effective if not less than—
+>
+> - (a) 10% of the local government electors for the community, or
+> - (b) 150 of the electors (if 10% of the electors exceeds 150 electors),
+>
+> are present and voting at the community meeting.
+>
+> (4) The second condition is that a majority of those voting in the poll support the proposal to add the community to a group of communities all of which lie in the same principal area as the community and for which there is a common community council.
+>
+> (5) The third condition is that a community meeting of each of the communities in the group has made an effective decision to hold a poll on a proposal to consent to the community in question becoming a member of the group.
+>
+> (6) For the purposes of the third condition a decision is only effective if not less than—
+>
+> - (a) 10% of the local government electors for the community, or
+> - (b) 150 of the electors (if 10% of the electors exceeds 150 electors),
+>
+> are present and voting at the community meeting.
+>
+> (7) The fourth condition is that a majority of those voting in a poll following an effective decision for the purposes of the third condition support the proposal to consent to the community in question becoming a member of the group.
+>
+> (8) The fifth condition is that none of the above polls are held within two years of an earlier poll which resulted in a rejection of an identical proposal to add the community in question to the group of communities (that period of two years beginning with the day on which the earlier poll was held).
+>
+> (9) The sixth condition is that none of the above polls are held before the end of the period of 42 days beginning with the day on which the decision to hold that poll was taken.
+>
+> (10) Paragraph 34 of Schedule 12 to this Act (voting at community meetings) shall have effect subject to the provisions of this section.
+
+.

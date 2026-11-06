@@ -1,0 +1,59 @@
+---
+title: Building Safety (Wales) Act 2026, section 20
+act: Building Safety (Wales) Act 2026
+section: '20'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/5/section/20
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Safety (Wales) Act 2026, section 20
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 20. Registration procedure[^key-ca6ca3fa8ece54911d145be0c7cb61f6]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The building safety authority for a category 1 building or a category 2 building must register the building if the principal accountable person for the building has—
+
+- (a) made an application to register the building that complies with regulations made under subsection (3), and
+- (b) paid the fee (if any) required by regulations made under section 125.
+
+(2) The building safety authority must not register the building if the principal accountable person has not paid the fee (if any) required by regulations made under section 125.
+
+(3) The Welsh Ministers‍ must by regulations make provision about—
+
+- (a) how an application to register the building must be made;
+- (b) the form and content of an application‍.
+
+(4) Regulations under subsection (3) may make provision about the documents (if any) that must be included with an application.
+
+(5) If the building safety authority registers the building, it must give the principal accountable person a notice confirming that the building is registered.
+
+(6) The notice must include—
+
+- (a) the date of registration,
+- (b) the registration number given to the building,
+- (c) the category of the building (see section 6) and information about the right of review under section 64, and
+- (d) information about how the principal accountable person may obtain a copy of the entry in the register for the building.
+
+(7) If the building safety authority does not register the building, it must give the principal accountable person a notice confirming that the building is not registered.
+
+(8) The notice must include—
+
+- (a) the reasons for the building not being registered, and
+- (b) information about the right of review under section 64.
+
+(9) The building safety authority must give a notice under subsection (5) or (7) before the end of 21 days beginning with the day after the day on which the application to register is received by the authority.
+
+## Annotations
+
+[^key-ca6ca3fa8ece54911d145be0c7cb61f6]: Commencement: S. 20 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

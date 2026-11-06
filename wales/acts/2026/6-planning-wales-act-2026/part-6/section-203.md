@@ -1,0 +1,54 @@
+---
+title: Planning (Wales) Act 2026, section 203
+act: Planning (Wales) Act 2026
+section: '203'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/6/section/203
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning (Wales) Act 2026, section 203
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 203. Relationship with other powers[^key-f9379e6668776d67002bc138917fd878]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) CIL regulations may include provision about the matters in subsection (2) but only for a purpose set out in subsection (4).
+
+(2) The matters are—
+
+- (a) how powers under the following provisions are to be used, or are not to be used—
+  - (i) sections 165 and 166 (planning obligations and their enforcement), and
+  - (ii) section 278 of the Highways Act (agreements relating to execution of works);
+- (b) the exercise of any other power relating to planning or development.
+
+(3) The Welsh Ministers may not give guidance about how a power relating to planning or development is to be exercised in connection with CIL except for a purpose set out in subsection (4); and if they give such guidance, charging authorities and other public authorities must have regard to it.
+
+(4) The purposes are—
+
+- (a) complementing the main purpose of CIL regulations;
+- (b) enhancing the effectiveness, or increasing the use, of CIL regulations;
+- (c) preventing agreements, undertakings or other transactions from being used to—
+  - (i) undermine or circumvent CIL regulations;
+  - (ii) achieve a purpose that the Welsh Ministers think would be better achieved through the application of CIL regulations;
+- (d) preventing or restricting the imposition of burdens, the making of agreements or the giving of undertakings, in addition to CIL.
+
+(5) CIL regulations may provide that guidance or directions may not be given—
+
+- (a) in relation to matters specified in the regulations;
+- (b) in cases or circumstances specified in the regulations;
+- (c) for a purpose specified in the regulations;
+- (d) to an extent specified in the regulations.
+
+## Annotations
+
+[^key-f9379e6668776d67002bc138917fd878]: Commencement: S. 203 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

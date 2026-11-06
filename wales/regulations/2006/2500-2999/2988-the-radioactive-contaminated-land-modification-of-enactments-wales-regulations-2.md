@@ -1,0 +1,586 @@
+---
+title: The Radioactive Contaminated Land (Modification of Enactments) (Wales) Regulations 2006
+id: wsi/2006/2988
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-11-15'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2006/2988
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2006/2988/pdfs/wsi_20062988_mi.pdf
+- http://www.legislation.gov.uk/wsi/2006/2988/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Radioactive Contaminated Land (Modification of Enactments) (Wales) Regulations 2006
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2006 No. 2988 (W.277)
+
+ENVIRONMENTAL PROTECTION, WALES
+
+The Radioactive Contaminated Land (Modification of Enactments) (Wales) Regulations 2006
+
+Made
+
+15 November 2006
+
+Coming into force
+
+in accordance with regulation 1(2)
+
+The National Assembly for Wales (“**the National Assembly**”), in exercise of the powers conferred on the Secretary of State by sections 78A(9) and 78YC of the Environmental Protection Act 1990 (“**the 1990 Act**”) [^c17231491] and which are now exercisable in relation to Wales by the National Assembly [^c17231501], makes the following Regulations:
+
+## 1. Title, commencement and application
+
+(1) The title of these Regulations is The Radioactive Contaminated Land (Modification of Enactments) (Wales) Regulations 2006.
+
+(2) These Regulations come into force—
+
+- (a) insofar as Part 2A of the 1990 Act empowers the National Assembly to make regulations or orders, give directions or issue guidance, or makes provision with respect to the exercise of any such power, on 16 November 2006; and
+- (b) for all other purposes, on 10 December 2006.
+
+(3) These Regulations apply in relation to Wales.
+
+## 2. Interpretation
+
+In these Regulations, “**Part 2A**” means Part 2A of the 1990 Act and, unless otherwise indicated, any reference in these Regulations to a numbered section is to the section of the 1990 Act which bears that number.
+
+## 3. Modification of Part 2A
+
+Part 2A applies in relation to, and for the purposes of dealing with, harm so far as attributable to any radioactivity possessed by any substance and has effect with the modifications made by regulations 5 to 17[^key-9db7b4227d6df66b8495cbfad5da2bfc].
+
+## 4. Interpretation of modifications[^key-5a1f321efd779e6a338fbd7b27ea57ea]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Section 78A (preliminary)[^key-4a5cbe1bfa68e20281cb0a011df45a91]
+
+(1) Section 78A (preliminary) has effect with the following modifications.
+
+(2) For subsection (2), substitute—
+
+> (2) “Contaminated land” is any land which appears to the local authority in whose area it is situated to be in such a condition, by reason of substances in, on or under the land, that—
+>
+> - (a) harm is being caused; or
+> - (b) there is a significant possibility of harm being caused;
+>
+> and in determining whether any land appears to be such land, a local authority shall, subject to subsection (5) below, act in accordance with guidance issued by the Welsh Ministers[^key-cd42473ec66d6d684626a67cf1862cc9] in accordance with section 78YA below with respect to the manner in which that determination is to be made.
+>
+> (2A) “Land contaminated by a nuclear occurrence” means land which is contaminated land by reason of the presence in, on or under that land of any substances, in so far as by reason of that presence damage to that land has occurred, being—
+>
+> - (a) damage caused in breach of any duty imposed by section 7, 7B,[^key-d2b7ff9bf185c2665d2d1478716114bd] 8, 9 or 10 of the 1965 Act, or deemed to be so caused by section 12(2) of that Act;
+> - (b) damage which would have been so caused or would have been deemed by section 12(2) of the 1965 Act to have been so caused if, in section 7(1A)(b) or (1C)(b)[^key-71e76dfec8d5ea706e0de84a6fd8a28b] of that Act, the words “other than the licensee” or, in section 10(1)(b)[^key-735afe132373fa014ccc9f9a824e0feb] of that Act, the words “other than that operator” had not been enacted;
+> - (ba)[^key-e2d9d8db6db34dc22c9d53c1affd72f7] damage caused by preventive measures taken after a breach of a duty imposed by section 7, 7B, 8, 9 or 10 of the 1965 Act in respect of which a claim for compensation may be made under section 11H(2) of the 1965 Act or could have been made if section 11H(4) of the 1965 Act had not been enacted; or
+> - (c) damage in respect of which any relevant foreign operator or other person is liable under any relevant foreign law, or for which he would be so liable—
+>   - (i) but for any exclusion or limitation of liability applying by virtue of any provision of that law made for purposes corresponding to those of section 13(3) or (4)(a), 15, 16(1), (1ZA), (1ZB), (2), (3B) or (3C)[^key-8f14ce3c49b1691fc4a2606a2ff34b26] or 18 of the 1965 Act; or
+>   - (ii) if any such relevant foreign law which does not contain provision made for purposes corresponding to those of section 13(4)(b) of the 1965 Act did contain such provision.
+
+.
+
+(3) For subsection (4), substitute—
+
+> (4) “Harm” means lasting exposure to any person resulting from the after-effects of an[^key-2f41daa6be73376e3d6bb5c9009fc419] emergency, past practice or past work activity (except in section 78E(4A)(a))[^key-db5d367536a09a2b2bb88bb298bc1c8c].
+
+.
+
+(4) For subsection (5), substitute—
+
+> (5) The questions—
+>
+> - (a) whether harm is being caused, and
+> - (b) whether the possibility of harm being caused is “significant”,
+>
+> shall be determined in accordance with guidance issued for the purpose by the Welsh Ministers[^key-4948e3848d5003c90b717fd8b533b50d] in accordance with section 78YA below.
+
+.
+
+(5) For subsection (6), substitute—
+
+> (6) Without prejudice to the guidance that may be issued under subsection (5) above—
+>
+> - (a) guidance under paragraph (a) of that subsection may make provision for different degrees and descriptions of harm;
+> - (b) guidance under paragraph (b) of that subsection may make provision for different degrees of possibility to be regarded as “significant” (or as not being “significant”) in relation to different descriptions of harm.
+
+.
+
+(6) For subsection (7), substitute—
+
+> (7) “Remediation” means—
+>
+> - (a) the doing of anything for the purpose of assessing the condition of—
+>   - (i) the contaminated land in question; or
+>   - (ii) any land adjoining or adjacent to that land;
+> - (b) the doing of any works, the carrying out of any operations or the taking of any steps in relation to any such land for the purpose—
+>   - (i) of preventing or minimising, or remedying or mitigating the effects of, any harm by reason of which the contaminated land is such land; or
+>   - (ii) of restoring the land to its former state; or
+> - (c) the making of subsequent inspections from time to time for the purpose of keeping under review the condition of the land;
+>
+> and references to remediating[^key-5d838a951d1cb1bb3d683387a21427c7] shall be construed accordingly.
+>
+> (7A) For the purpose of paragraph (b) of subsection (7) above, “the doing of any works, the carrying out of any operations or the taking of any steps in relation to any such land” shall include ensuring that—
+>
+> - (a) any such area is demarcated;
+> - (aa)[^key-b790207857b971b8988cf9740756993e] affected members of the public are identified;
+> - (ab) assessment of the means available to the individuals identified under paragraph (aa) for controlling their own exposure is made;
+> - (b) arrangements for the monitoring of the harm are made;
+> - (c)[^key-abf0129f21a9e67d3bc533eed60066ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d) access to or use of land or buildings situated in the demarcated area is regulated ; and[^key-cd9fe92a953c80fdef64721a94667be7]
+> - (e)[^key-1360b6271ed1217bb5359fd799833f55] any other appropriate protective or remedial measure is implemented.
+
+.
+
+(7) Subsection (8) is omitted.
+
+(8) In subsection (9)—
+
+- (a) before the definition of “the appropriate Agency”, insert—
+
+  > - “the 1965 Act” means the Nuclear Installations Act 1965;
+
+  ;
+- (b) omit the definitions of “controlled waters” and “pollution of controlled waters”;
+- (c) after the definition of “heritable security” insert—
+
+  > - “licensee”, “relevant foreign law” and “relevant foreign operator” have the meanings given by section 26(1) of the 1965 Act;
+
+  ;
+- (d)[^key-8f784639eaee71d6d413a60790217f2f] for the definition of “substance”, substitute—
+  - “substance” means, whether in solid or liquid form or in the form of a gas or vapour, any substance containing radionuclides which have resulted from the after-effects of an emergency or have been processed as part of a past practice or past work activity;
+- (e)[^key-731c25e32928342fe2a51618ed7a7986] after the definition of “unitary authority”, insert—
+
+  > and any other word or expression used both in this Part and in Council Directive 2013/59/Euratom, laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation and repealing Council Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom, has the same meaning for the purposes of this Part as it has in that Directive.
+
+(9)[^key-d4df03417a9a2ece063757d72c73f9c5] After subsection (9) insert—
+
+> (9A) When reading Council Directive 2013/59/Euratom for the purpose of subsection (9), article 4(43) of Council Directive 2013/59/Euratom is to be read as if, for the words “any competent authority”, there were substituted “the enforcing authority”.
+
+## 6. Section 78B (identification of contaminated land)
+
+(1) Section 78B (identification of contaminated land) has effect with the following modifications.
+
+(2) For subsection (1), substitute—
+
+> (1) Where a local authority considers that there are reasonable grounds for believing that any land may be contaminated, it shall cause the land to be inspected for the purpose of—
+>
+> - (a) identifying whether it is contaminated land; and
+> - (b) enabling the authority to decide whether the land is land which is required to be designated as a special site.
+>
+> (1A) The fact that substances have been or are present on the land shall not of itself be taken to be reasonable grounds for the purposes of subsection (1).
+
+.
+
+## 7. Section 78C (identification and designation of special sites)
+
+(1) Section 78C (identification and designation of special sites) has effect with the following modifications.
+
+(2) In subsection (10), for paragraphs (a) and (b), substitute—
+
+> - (a) whether land of the description in question appears to the Welsh Ministers[^key-8aa52be7c2e97ea497658d80570ffb8a] to be land which is likely to be in such a condition, by reason of substances in, on or under the land that serious harm would or might be caused; or
+> - (b) whether the appropriate Agency is likely to have expertise in dealing with the kind of harm by reason of which land of the description in question is contaminated land.
+
+.
+
+## 8. Section 78E (duty of enforcing authority to require remediation of contaminated land etc)
+
+(1) Section 78E (duty of enforcing authority to require remediation of contaminated land etc) has effect with the following modifications.
+
+(2) In subsection (2), omit “or waters”.
+
+(3) For subsection (4), substitute—
+
+> (4) Subject to subsection (4A), the only things by way of remediation which the enforcing authority may do, or require to be done, under or by virtue of this Part are things which it considers reasonable, having regard to—
+>
+> - (a) the cost which is likely to be involved; and
+> - (b) the seriousness of the harm in question.
+>
+> (4A)[^key-eedd7a993da3dd178cc83e8e7d6ee939] Where remediation includes the implementation of a protective or remedial measure, that part of the remediation which consists of the implementation of any such measure may be considered reasonable only—
+>
+> - (a) where the measure does more good than harm; and
+> - (b) where the form, scale and duration of the measure is optimised.
+>
+> (4B) For the purpose of subsection (4A), the form, scale and duration of a protective or remedial measure shall be taken to be optimised if the magnitude of individual doses, the likelihood of exposure and the number of individuals exposed are kept as low as reasonably achievable taking into account the current state of technical knowledge and economic and societal factors.
+
+.
+
+(4) In subsection (5), in paragraph (b), omit “, or waters are,”.
+
+## 9. Section 78F (determination of the appropriate person to bear responsibility for remediation)[^key-958608626a61a35bcd4408a32ea2fedb]
+
+(1) Section 78F (determination of the appropriate person to bear responsibility for remediation) has effect with the following modifications—
+
+- (a) after subsection (1), insert—
+
+  > (1A) In relation to any land contaminated by a nuclear occurrence, the Secretary of State is deemed to be the appropriate person.
+
+  ;
+- (b) for subsection (2), substitute—
+
+  > (2) Except where subsection (1A) applies and subject to the following provisions of this section, any person, or any of the persons, who caused or knowingly permitted the substances, or any of the substances, by reason of which the contaminated land in question is such land to be in, on or under that land is an appropriate person.
+
+  ; and
+- (c) in subsection (9), after “biological process”, insert “or radioactive decay”.
+
+## 10. Section 78G (grant of, and compensation for, rights of entry etc)
+
+(1) Section 78G (grant of, and compensation for, rights of entry etc) has effect with the following modifications.
+
+(2) In subsection (2), for “any of the relevant land or waters”, substitute “ any relevant land ”.
+
+(3) In subsection (3), in paragraph (a), omit “or waters”.
+
+(4) In subsection (4), omit “or serious pollution of controlled waters,”.
+
+(5) For subsection (7), substitute—
+
+> (7) In this section, “**relevant land**” means—
+>
+> - (a) the contaminated land in question; or
+> - (b) any land adjoining or adjacent to that land.
+
+.
+
+## 11. Section 78H (restrictions and prohibitions on serving remediation notices)[^key-1a564fc27e7ddf263ea8c78dc29e06f0]
+
+Section 78H (restrictions and prohibitions on serving remediation notices) has effect with the following modifications—
+
+- (a) in subsection (4) omit “, or serious pollution of controlled waters,”; and
+- (b) in paragraph (c) of subsection (5), after “the authority itself” insert “or the Secretary of State by virtue of section 78F(1A)”.
+
+## 12. Section 78J (restrictions on liability relating to the pollution of controlled waters)
+
+Section 78J is omitted.
+
+## 13. Section 78K (liability in respect of contaminating substances which escape to other land)
+
+(1) Section 78K (liability in respect of contaminating substances which escape to other land) has effect with the following modifications.
+
+(2) For subsection (3), substitute—
+
+> (3) Where this subsection applies, no remediation notice shall require a person—
+>
+> - (a) who is the owner or occupier of land A, and
+> - (b) who has not caused or knowingly permitted the substances in question to be in, on or under that land,
+>
+> to do anything by way of remediation to any land (other than land of which that person is the owner or occupier) in consequence of land A appearing to be in such a condition, by reason of the presence of those substances in, on or under it, that harm is being caused, or there is a significant possibility of harm being caused.
+
+.
+
+(3) For subsection (4), substitute—
+
+> (4) Where this subsection applies, no remediation notice shall require a person—
+>
+> - (a) who is the owner or occupier of land A, and
+> - (b) who has not caused or knowingly permitted the substances in question to be in, on or under that land,
+>
+> to do anything by way of remediation in consequence of any further land in, on or under which those substances or any of them appear to be or to have been present as a result of their escape from land A (“land B”) appearing to be in such a condition, by reason of the presence of those substances in, on or under it, that harm is being caused, or there is a significant possibility of such harm being caused, unless that person is also the owner or occupier of land B.
+
+.
+
+## 14. Section 78N (powers of the enforcing authority to carry out remediation)[^key-350914223f8eb55efcd210832a260302]
+
+(1) Section 78N (powers of the enforcing authority to carry out remediation) has effect with the following modifications.
+
+(2) In subsection (1), omit “or waters”.
+
+(3) After subsection (1), insert—
+
+> (1A) The enforcing authority shall exercise its power under subsection (1) in any case falling within paragraph (c), (d), (e), (f) or (g) of subsection (3).
+>
+> (1B) In relation to any land which is not land contaminated by a nuclear occurrence, the Welsh Ministers may make available to the enforcing authority a sum of money in respect of costs and expenses incurred or to be incurred by the enforcing authority (or by a person on its behalf) in relation to the exercise of its duty under subsection (1A) provided that—
+>
+> - (a) the amount of such costs and expenses exceeds or is expected to exceed any reasonable provision for such costs and expenses made by the appropriate Agency; and
+> - (b) the total amount made available does not exceed the difference between the amount of such costs and expenses and the amount of such provision.
+>
+> (1C) In relation to any land contaminated by a nuclear occurrence, the Secretary of State shall make available to the enforcing authority a sum of money in respect of costs and expenses incurred or to be incurred by the enforcing authority (or by a person on its behalf) in relation to the exercise of its duty under subsection (1A).
+
+.
+
+(4) In subsection (3)—
+
+- (a) in paragraph (a), omit “, or serious pollution of controlled waters,”;
+- (b) in paragraph (d), omit “78J or”; and
+- (c) at the end of paragraph (f), insert—
+
+  > ;
+  >
+  > - (g) where section 78F(1A) applies
+
+  .
+
+(5) In subsection (4)(d), omit “78J or”.
+
+(6) For subsection (5), substitute—
+
+> (5) In this section “the relevant land” means—
+>
+> - (a) the contaminated land in question; or
+> - (b) any land adjoining or adjacent to that land.
+
+.
+
+## 15. Section 78P (recovery of, and security for, the cost of remediation by the enforcing authority)
+
+Subsection (1) of section 78P (recovery of, and security for, the cost of remediation by the enforcing authority) has effect with the substitution for “sections 78J(7) and” of “ section ”.
+
+## 16. Section 78X (supplementary provisions)
+
+(1) Section 78X (supplementary provisions) has effect with the following modifications.
+
+(2) For subsection (1), substitute—
+
+> (1) Where it appears to a local authority that two or more different sites, when considered together, are in such a condition, by reason of substances in, on or under the land, that—
+>
+> - (a) harm is being caused, or
+> - (b) there is a significant possibility of harm being caused,
+>
+> this Part shall apply in relation to each of those sites, whether or not the condition of the land at any of them, when considered alone, appears to the authority to be such that harm is being caused or there is a significant possibility of harm being caused.
+
+.
+
+(3) For subsection (2), substitute—
+
+> (2) Where it appears to a local authority that any land outside, but adjoining or adjacent to, its area is in such a condition, by reason of substances in, on or under the land, that harm is being caused, or there is a significant possibility of harm being caused within its area—
+>
+> - (a) the authority may, in exercising its functions under this Part, treat that land as if it were land situated within its area; and
+> - (b) except in this subsection, any reference—
+>   - (i) to land within the area of a local authority, or
+>   - (ii) to the local authority in whose area any land is situated,
+>
+>   shall be construed accordingly;
+>
+> but this subsection is without prejudice to the functions of the local authority in whose area the land is in fact situated.
+
+.
+
+## 17. Section 78YB (interaction of Part 2A with other enactments)[^key-a5421ce511abce07b200fc5ca81b9a2c]
+
+(1) Section 78YB (interaction of Part 2A with other enactments) has effect with the following modifications.
+
+(2) In subsection (1)—
+
+- (a) in paragraph (a), omit the words “significant” and “, or pollution of controlled waters,”; and
+- (b) in paragraph (b), omit the words “or pollution”.
+
+(3) After subsection (4) insert—
+
+> (4A) Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land within a nuclear site.
+>
+> (4AA)[^key-832518e25e2514feffeb86e6d5312045] Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land within a relevant disposal site.
+>
+> (4B) Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land on a site—
+>
+> - (a) in respect of which there is no nuclear site licence in force; and
+> - (b) which is used by or on behalf of the Secretary of State for Defence for a purpose which, if section 1 of the 1965 Act applied to the Crown, would require the authority of a nuclear site licence in respect of that site.
+>
+> (4BA)[^key-84f3ae92e26a0811f33a09afedd82d64] Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land within a site used by the Secretary of State for Defence for a purpose which, if section 7B of the 1965 Act applied to the Crown, would cause the site to be a relevant disposal site.
+>
+> (4C) Nothing in this Part applies in respect of land which, except for this subsection, would otherwise fall to be regarded as contaminated land if—
+>
+> - (a) action is required to be taken by a local authority under paragraph (3) of regulation 17 (implementation of emergency plans) of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-c4742a5feaa92ca86320572c15b64b71]; and
+> - (b) that action would for the purposes of Part 2A amount to remediation of the relevant land.
+
+.
+
+(4) For subsection 5, substitute—
+
+> (5) In this section—
+>
+> - “enforcement action” means action under regulation 36, 37 or 42 of the Environmental Permitting (England and Wales) Regulations 2016[^key-c4245dc09594ba816c0ce580149e1d46] (in this subsection referred to as “the 2016 Regulations[^key-c3984fa9e0915c2ca789624700f0dae4]”);
+> - “licensed site”, “nuclear site licence” and, in relation to a licensee, “period of responsibility” have the meaning given by section 26(1) of the 1965 Act;
+> - “nuclear site” means any licensed site in respect of which, or part of which—
+>   - (a) a nuclear site licence is for the time being in force; or
+>   - (b) after the revocation or surrender of a nuclear site licence, the period of responsibility of the licensee has not come to an end; and
+> - “regulated facility” has the meaning given in regulation 8 of the 2016 Regulations.
+> - “relevant disposal site” has the meaning given by section 7B of the[^key-fb38d1cb072f2460ad1939ef1b5bd766] 1965 Act.
+
+.
+
+## 18. Modification of the Environment Act 1995
+
+(1) In its application in relation to harm so far as attributable to any radioactivity possessed by any substance, the Environment Act 1995 [^c17231531] has effect with the modifications mentioned in paragraph (2).
+
+(2) Subsection (15) of section 108 (powers of enforcing authorities and persons authorised by them) has effect with the following modifications—
+
+- (a) in the definition of “**pollution control functions**”, in relation to the Agency , the Natural Resources Body for Wales[^key-218fdb58dabf9b3e589fc21dec3e56e2] or SEPA, after paragraph (m), insert—
+
+  > - (n) regulations made by virtue of section 78YC of the Environmental Protection Act 1990;
+
+  ; and
+- (b) in the definition of “**pollution control functions**”, in relation to a local enforcing authority, after paragraph (c), insert—
+
+  > or
+  >
+  > - (d) by or under regulations made by virtue of section 78YC of the Environmental Protection Act 1990;
+
+  .
+
+## 19. Modification of the Contaminated Land (Wales) Regulations 2006[^key-44e0ebf1bf206c4e147938653ad62cb8]
+
+The Contaminated Land (Wales) Regulations 2006 apply with the modification that in regulation 7, after paragraph (1)(n) there is inserted—
+
+> - (na) that the enforcing authority itself has power, in a case falling within section 78N(3)(g), to do what is appropriate by way of remediation;
+
+.
+
+[^c17231541]Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+## SCHEDULE — DIRECTIVE DEFINITIONS
+
+Regulation 4
+
+Activity (A): the activity, A, of an amount of a radionuclide in a particular energy state at a given time is the quotient of dN by dt, where dN is the expectation value of the number of spontaneous nuclear transitions from that energy state in the time interval dt:
+
+[formula: see source](https://www.legislation.gov.uk/wsi/2006/2988)
+
+the unit of activity is the becquerel.
+
+Apprentice: a person receiving training or instruction within an undertaking with a view to exercising a specific skill.
+
+Artificial sources: radiation sources other than natural radiation sources.
+
+Becquerel (Bq): is the special name of the unit of activity. One becquerel is equivalent to one transition per second:
+
+[formula: see source](https://www.legislation.gov.uk/wsi/2006/2988)
+
+Dose limits: maximum references laid down in Title IV for the doses resulting from the exposure of workers, apprentices and students and members of the public to ionizing radiation covered by this Directive that apply to the sum of the relevant doses from external exposures in the specified period and the 50-year committed doses (up to age 70 for children) from intakes in the same period.
+
+Emergency exposure: an exposure of individuals implementing the necessary rapid action to bring help to endangered individuals, prevent exposure of a large number of people or save a valuable installation or goods, whereby one of the individual dose limits equal to that laid down for exposed workers could be exceeded. Emergency exposure shall apply only to volunteers.
+
+Exposed workers: persons, either self-employed or working for an employer, subject to an exposure incurred at work from practices covered by this Directive and liable to result in doses exceeding one or other of the dose levels equal to the dose limits for members of the public.
+
+Exposure: the process of being exposed to ionizing radiation.
+
+Health detriment: an estimate of the risk of reduction in length and quality of life occurring in a population following exposure to ionizing radiations. This includes loss arising from somatic effects, cancer and severe genetic disorder.
+
+Intake: the activities of radionuclides entering the body from the external environment.
+
+Intervention: a human activity that prevents or decreases the exposure of individuals to radiation from sources which are not part of a practice or which are out of control, by acting on sources, transmission pathways and individuals themselves.
+
+Ionizing radiation: the transfer of energy in the form of particles or electromagnetic waves of a wavelength of 100 nanometers or less or a frequency of 3 x 1015 Hertz or more capable of producing ions directly or indirectly.
+
+Members of the public: individuals in the population, excluding exposed workers, apprentices and students during their working hours and individuals during the exposures referred to in Article 6(4)(a), (b) and (c).
+
+Natural radiation sources: sources of ionizing radiation from natural terrestrial or cosmic origin.
+
+Practice: a human activity that can increase the exposure of individuals to radiation from an artificial source, or from a natural radiation source where natural radionuclides are processed for their radioactive, fissile or fertile properties, except in the case of an emergency exposure.
+
+Radioactive substance: any substance that contains one or more radionuclides the activity or concentration of which cannot be disregarded as far as radiation protection is concerned.
+
+Radiological emergency: a situation that requires urgent action in order to protect workers, members of the public or the population either partially or as a whole.
+
+Source: an apparatus, a radioactive substance or an installation capable of emitting ionizing radiation or radioactive substances.
+
+Undertaking: any natural or legal person who carries out the practices or work activities referred to in Article 2 of this Directive and who has the legal responsibility under national law for such practices or work activities.
+
+*(This note is not part of the Regulations)*
+
+Part 2A of the Environmental Protection Act 1990 (c. 43) (“Part 2A” of “the 1990 Act”) sets out a regime for the identification and remediation of contaminated land. Section 78YC provides that the National Assembly for Wales may apply Part 2A in relation to harm or the pollution of controlled waters, so far as attributable to any radioactivity possessed by any substance.
+
+These Regulations, which apply in relation to Wales, make provision for Part 2A to have effect with modifications for the purpose of the identification and remediation of radioactive contaminated land other than in circumstances where the operator of a nuclear installation is liable under the Nuclear Installations Act 1965 (c. 57), or in related circumstances (see regulation 17).
+
+These Regulations also transpose Articles 48 and 53 of Council Directive 1996/29/Euratom, which lays down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionizing radiation (OJ No. L 159, 29.06.1996, p.1).
+
+Regulation 5 modifies various definitions in section 78A of the 1990 Act.
+
+Regulation 6 provides for section 78B of the 1990 Act to have effect with a modification to ensure that the local authority's duty of inspection only applies in relation to land that it has reasonable grounds for believing may be contaminated.
+
+Regulation 8 restricts the discretion of the enforcement authority to determine what is reasonable by way of remediation for the purposes of section 78E(4) of the 1990 Act. The effect is to require the enforcement authority to weigh-up the benefit of any intervention against the health detriment and costs arising from such intervention and maximise the benefit of such intervention.
+
+Regulation 14 modifies section 78N of the 1990 Act so as to require the enforcing authority to carry out remediation itself in certain circumstances.
+
+Regulation 17 provides that Part 2A does not apply where land is contaminated land by reason of substances being in, on or under the land, insofar as by reason of that presence damage to any property occurs in breach of certain duties under the Nuclear Installations Act 1965, or in related circumstances.
+
+Regulation 18 ensures that the powers of the Environment Agency or local authority under section 108 of the Environment Act 1995 (c. 25) extend to their functions under Part 2A as it applies to harm attributable to radioactivity.
+
+## Annotations
+
+[^c17231491]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Sections 78A to 78YC were inserted by section 57 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). *See* the definition of “prescribed” and “regulations” in section 78A(9).
+
+[^c17231501]: Marginal citation: *See* article 2 of, and Schedule 1 to, the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^key-9db7b4227d6df66b8495cbfad5da2bfc]: Textual amendment: Words in reg. 3 substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2007 (S.I. 2007/3250)](https://www.legislation.gov.uk/uksi/2007/3250), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3250/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/3250/regulation/3/2)
+
+[^key-5a1f321efd779e6a338fbd7b27ea57ea]: Textual amendment: Reg. 4 revoked (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2007 (S.I. 2007/3250)](https://www.legislation.gov.uk/uksi/2007/3250), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3250/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/3250/regulation/4)
+
+[^key-4a5cbe1bfa68e20281cb0a011df45a91]: Textual amendment: Reg. 5 substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2007 (S.I. 2007/3250)](https://www.legislation.gov.uk/uksi/2007/3250), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3250/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/3250/regulation/3/3)
+
+[^key-cd42473ec66d6d684626a67cf1862cc9]: Textual amendment: Words in reg. 5(2) substituted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/2)
+
+[^key-d2b7ff9bf185c2665d2d1478716114bd]: Textual amendment: Word in reg. 5(2) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/562/article/1/2), [Sch. 2 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/10/2/a) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+
+[^key-71e76dfec8d5ea706e0de84a6fd8a28b]: Textual amendment: Words in reg. 5(2) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/562/article/1/2), [Sch. 2 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/10/2/b) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+
+[^key-735afe132373fa014ccc9f9a824e0feb]: Textual amendment: Word in reg. 5(2) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/562/article/1/2), [Sch. 2 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/10/2/c) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+
+[^key-e2d9d8db6db34dc22c9d53c1affd72f7]: Textual amendment: Words in reg. 5(2) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/562/article/1/2), [Sch. 2 para. 10(2)(d)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/10/2/d) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+
+[^key-8f14ce3c49b1691fc4a2606a2ff34b26]: Textual amendment: Words in reg. 5(2) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/562/article/1/2), [Sch. 2 para. 10(2)(e)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/10/2/e) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+
+[^key-2f41daa6be73376e3d6bb5c9009fc419]: Textual amendment: Words in reg. 5(3) substituted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/3/a)
+
+[^key-db5d367536a09a2b2bb88bb298bc1c8c]: Textual amendment: Words in reg. 5(3) inserted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/3/b)
+
+[^key-4948e3848d5003c90b717fd8b533b50d]: Textual amendment: Words in reg. 5(4) substituted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/4)
+
+[^key-5d838a951d1cb1bb3d683387a21427c7]: Textual amendment: Words in reg. 5(6) substituted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/5)
+
+[^key-b790207857b971b8988cf9740756993e]: Textual amendment: Words in reg. 5(6) inserted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/6/a)
+
+[^key-abf0129f21a9e67d3bc533eed60066ca]: Textual amendment: Words in reg. 5(6) omitted (4.7.2018) by virtue of [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/6/b)
+
+[^key-cd9fe92a953c80fdef64721a94667be7]: Textual amendment: Word in reg. 5(6) substituted for full stop (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/6/c)
+
+[^key-1360b6271ed1217bb5359fd799833f55]: Textual amendment: Words in reg. 5(6) inserted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(6)(d)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/6/d)
+
+[^key-8f784639eaee71d6d413a60790217f2f]: Textual amendment: Reg. 5(8)(d) substituted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/7/a)
+
+[^key-731c25e32928342fe2a51618ed7a7986]: Textual amendment: Reg. 5(8)(e) substituted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/wsi/2018/725/regulation/3/7/b)
+
+[^key-d4df03417a9a2ece063757d72c73f9c5]: Textual amendment: [Reg. 5(9)](https://www.legislation.gov.uk/wsi/2006/2988/regulation/5/9) inserted (31.12.2020) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/114)](https://www.legislation.gov.uk/wsi/2019/114), [regs. 1](https://www.legislation.gov.uk/wsi/2019/114/regulation/1), [2](https://www.legislation.gov.uk/wsi/2019/114/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8aa52be7c2e97ea497658d80570ffb8a]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2006/2988/regulation/7/2) substituted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2018/725/regulation/4)
+
+[^key-eedd7a993da3dd178cc83e8e7d6ee939]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/wsi/2006/2988/regulation/8/3) substituted (4.7.2018) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2018 (S.I. 2018/725)](https://www.legislation.gov.uk/wsi/2018/725), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/725/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2018/725/regulation/5)
+
+[^key-958608626a61a35bcd4408a32ea2fedb]: Textual amendment: Reg. 9 substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2007 (S.I. 2007/3250)](https://www.legislation.gov.uk/uksi/2007/3250), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3250/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/3250/regulation/3/4) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/3250/regulation/2/2))
+
+[^key-1a564fc27e7ddf263ea8c78dc29e06f0]: Textual amendment: Reg. 11 substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2007 (S.I. 2007/3250)](https://www.legislation.gov.uk/uksi/2007/3250), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3250/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2007/3250/regulation/3/5)
+
+[^key-350914223f8eb55efcd210832a260302]: Textual amendment: Reg. 14 substituted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2007 (S.I. 2007/3250)](https://www.legislation.gov.uk/uksi/2007/3250), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3250/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2007/3250/regulation/3/6)
+
+[^key-a5421ce511abce07b200fc5ca81b9a2c]: Textual amendment: Reg. 17 substituted (6.4.2008) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2008 (S.I. 2008/521)](https://www.legislation.gov.uk/uksi/2008/521), [regs. 1](https://www.legislation.gov.uk/uksi/2008/521/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/521/regulation/2/3)
+
+[^key-832518e25e2514feffeb86e6d5312045]: Textual amendment: Words in reg. 17(3) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/562/article/1/2), [Sch. 2 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/10/3/a) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+
+[^key-84f3ae92e26a0811f33a09afedd82d64]: Textual amendment: Words in reg. 17(3) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/562/article/1/2), [Sch. 2 para. 10(3)(b)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/10/3/b) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+
+[^key-c4742a5feaa92ca86320572c15b64b71]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/wsi/2006/2988/regulation/17/3) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 7](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+
+[^key-c4245dc09594ba816c0ce580149e1d46]: Textual amendment: Words in reg. 17(4) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 23(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/23/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-c3984fa9e0915c2ca789624700f0dae4]: Textual amendment: Words in reg. 17(4) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 23(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/23/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-fb38d1cb072f2460ad1939ef1b5bd766]: Textual amendment: Words in reg. 17(4) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/562/article/1/2), [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/10/4) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+
+[^c17231531]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^key-218fdb58dabf9b3e589fc21dec3e56e2]: Textual amendment: Words in reg. 18(2)(a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 38](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/38) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-44e0ebf1bf206c4e147938653ad62cb8]: Textual amendment: Reg. 19 inserted (10.12.2007) by [The Radioactive Contaminated Land (Modification of Enactments) (Wales) (Amendment) Regulations 2007 (S.I. 2007/3250)](https://www.legislation.gov.uk/uksi/2007/3250), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3250/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2007/3250/regulation/3/8)
+
+[^c17231541]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

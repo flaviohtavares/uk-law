@@ -1,0 +1,37 @@
+---
+title: Housing (Wales) Act 2014, section 115
+act: Housing (Wales) Act 2014
+section: '115'
+status: revised-with-pending-changes
+text_date: '2026-06-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2014/7/section/115
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing (Wales) Act 2014, section 115
+
+> **Warning: changes not yet applied to this text (144).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/anaw/2014/7
+>
+> Extent: England, Wales.
+
+## 115. Powers of entry[^key-10fd1e3fb214dfa02c2ff6cb05a2c51f]
+
+*Extent: E+W*
+
+(1) This section applies where it appears to the Welsh Ministers that a local housing authority may be failing to maintain or repair any premises in accordance with standards set under section 111 or guidance given under section 112.
+
+(2) A person authorised by the Welsh Ministers may at any reasonable time, on giving not less than 28 days' notice of his or her intention to the local housing authority concerned, enter any such premises for the purpose of survey and examination.
+
+(3) Where such notice is given to the local housing authority, the authority must give the occupier or occupiers of the premises not less than seven days' notice of the proposed survey and examination.
+
+(4) An authorisation for the purposes of this section must be in writing stating the particular purpose or purposes for which the entry is authorised and must, if so required, be produced for inspection by the occupier or anyone acting on his or her behalf.
+
+(5) The Welsh Ministers must give a copy of any survey carried out in exercise of the powers conferred by this section to the local housing authority concerned.
+
+(6) The Welsh Ministers may require the local housing authority concerned to pay to them such amount as the Welsh Ministers may determine towards the costs of carrying out any survey under this section.
+
+## Annotations
+
+[^key-10fd1e3fb214dfa02c2ff6cb05a2c51f]: Commencement: [S. 115](https://www.legislation.gov.uk/anaw/2014/7/section/115) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

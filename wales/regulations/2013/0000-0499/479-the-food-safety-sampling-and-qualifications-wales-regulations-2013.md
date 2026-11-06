@@ -1,0 +1,284 @@
+---
+title: The Food Safety (Sampling and Qualifications) (Wales) Regulations 2013
+id: wsi/2013/479
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-03-04'
+text_date: '2023-12-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2013/479
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2013/479/pdfs/wsi_20130479_mi.pdf
+- http://www.legislation.gov.uk/wsi/2013/479/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food Safety (Sampling and Qualifications) (Wales) Regulations 2013
+
+> Text as at 2023-12-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 479 (W.55)
+
+FOOD, WALES
+
+The Food Safety (Sampling and Qualifications) (Wales) Regulations 2013
+
+Made
+
+4 March 2013
+
+Laid before the National Assembly for Wales
+
+6 March 2013
+
+Coming into force
+
+6 April 2013
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 27(2) and (5), 30(9), 31(1),(2)(c),(d),(e),(g) and (h), 48(1) and 49(2) of the Food Safety Act 1990 [^c21702961] and now vested in them [^c21702971].
+
+In so far as these Regulations cannot be made under powers contained in the 1990 Act, the Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972 [^c21702981].
+
+The Welsh Ministers have been designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures in the veterinary and phytosanitary fields for the protection of public health [^c21702991].
+
+In accordance with section 48(4A) of that Act, the Welsh Ministers have had regard to relevant advice given by the Food Standards Agency.
+
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21703001], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
+
+## 1. Title application and commencement
+
+The title of these Regulations is the Food Safety (Sampling and Qualifications) (Wales) Regulations 2013, they apply in relation to Wales and come into force on 6 April 2013.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the Act**” means the Food Safety Act 1990;
+- “**owner**” means—
+  - (a) in the case of goods in transit, the consignor (or, if the consignor does not have an address in Wales, the consignee);
+  - (b) in the case of goods from a vending machine—
+    - (i) if the machine is marked with the name and address of its owner, and the address is in Wales, that person; and
+    - (ii) in any other case, the occupier of the premises on which the machine stands or to which it is affixed;
+  - (c) in any other case, the person appearing to the authorised officer to be the owner of the sample when the officer procured it;
+- “**qualified**” means qualified for the purposes of the Act.
+- “[^key-35805bb85dedbc61cc109ab5c4df895e]**specified state**” (“***gwladwriaeth benodedig***”) means a state specified in Schedule 2 to the Recognition of Professional Qualifications and the Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023;
+
+## 3. Sampling and analysis provisions to which these Regulations do not apply
+
+The provisions of these Regulations specified in column 3 of Schedule 1 do not apply to any sample taken under the provisions of the Regulations listed in the corresponding entry in the first column of that Schedule.
+
+## 4. Qualifications of analysts
+
+A person is qualified to be a food analyst or a public analyst if that person possesses a Mastership in Chemical Analysis awarded by the Royal Society of Chemistry.
+
+## 5. Qualifications of food examiners
+
+(1) A person is qualified to be a food examiner if that person—
+
+- (a) before the coming into force of these Regulations, was qualified to be a food examiner under regulation 4 of the Food Safety (Sampling and Qualifications) Regulations 1990 [^c21703011]; or
+- (b) on or after that date,
+  - (i) possesses a qualification listed in Part 1 of Schedule 2; and
+  - (ii) has carried out examination of food over a period or periods amounting in aggregate to at least 3 years in one or more of the laboratories listed in Part 2 of that Schedule.
+
+(2) In calculating the qualification period in paragraph (1)(b)(ii), no account is to be taken of any period spent as an undergraduate in a laboratory specified in paragraphs 4 to 6 of Part 2 of Schedule 2.
+
+## 6. Restrictions applying to analysts and examiners
+
+(1) No director, owner or employee of a food business or partner in a food business may act as a public analyst or food examiner for the area in which such business is situated.
+
+(2) No person mentioned in paragraph (1) may analyse or examine any sample which that person knows to have been taken from the business.
+
+## 7. Procedure where a sample is to be analysed
+
+(1) An authorised officer who has procured a sample under section 29 of the Act and who considers that it should be analysed must, subject to paragraph (4), cause the sample to be divided into three parts.
+
+(2) If the sample consists of sealed containers and opening them would, in the opinion of the authorised officer, impede a proper analysis, the authorised officer shall divide the sample into parts by putting the containers into three lots, and each lot shall be treated as being a part.
+
+(3) The authorised officer shall—
+
+- (a) if necessary place each part in a suitable container and seal each container;
+- (b) mark or label each part or container;
+- (c) as soon as reasonably practicable give one part to the owner and give the owner notice that the sample will be analysed;
+- (d) submit one part for analysis; and
+- (e) retain one part for future submission under regulation 8.
+
+(4) If the authorised officer is of the opinion that division of the parts is not reasonably practicable or is likely to impede a proper analysis the officer must , as soon as is reasonably practicable, give notice to the owner that the undivided sample will be analysed and shall submit it for analysis.
+
+## 8. Submission of the retained part of the sample
+
+(1) Where a part of the sample has been retained under regulation 7(3)(e) and—
+
+- (a) proceedings are intended to be or have been commenced against a person for an offence in connection with that sample; and
+- (b) the prosecution intends to adduce as evidence the result of the analysis mentioned above,
+
+paragraphs (2) to (6) apply.
+
+(2) An authorised officer—
+
+- (a) may of the officer's own volition;
+- (b) must, if requested by the prosecutor (if a person other than the authorised officer);
+- (c) must if the court so orders; or
+- (d) must, subject to paragraph (6), if requested by the person accused,
+
+send the retained part of the sample to the Government Chemist for analysis.
+
+(3) The Government Chemist must analyse, or direct a food analyst to analyse, the part sent under paragraph (2) and send to the authorised officer a Government Chemist's certificate of analysis.
+
+(4) Any certificate sent by the Government Chemist must be signed by or on behalf of the Government Chemist, but the analysis may be carried out by a person under the direction of the person who signs the certificate.
+
+(5) On receipt of the certificate the authorised officer must, as soon as is reasonably practicable, supply a copy of it to the prosecutor (if a person other than the authorised officer) and to the person accused.
+
+(6) Where a request is made under paragraph (2)(d) the authorised officer may give notice in writing to the person accused requesting payment of a fee specified in the notice to defray some or all of the Government Chemist's charges for performing the functions under paragraph (3) and in the absence of agreement by the person accused to pay the fee specified in the notice the authorised officer may refuse to comply with the request.
+
+## 9. Procedure where a sample is to be examined
+
+An authorised officer who has procured a sample under section 29 of the Act and who considers that it should be examined must—
+
+- (a) if necessary place the sample in a suitable container and seal the container;
+- (b) mark or label the sample or container; and
+- (c) as soon as reasonably practicable,
+  - (i) submit the sample for examination, and
+  - (ii) give notice to the owner that it is to be examined.
+
+## 10. Certificates
+
+(1) Where a sample procured under section 29 of the Act has been analysed or examined, the owner is entitled on request to be supplied with a copy of the certificate of analysis or examination by the enforcement authority.
+
+(2) The certificate given by a food analyst or examiner under section 30(6) of the Act must, subject to such adaptations as circumstances may reasonably require, be in the form of the example set out in Schedule 3.
+
+## 11. Consequential amendments
+
+In the following provisions, for “the Food Safety (Sampling and Qualifications) Regulations 1990” substitute “ the Food Safety (Sampling and Qualifications) (Wales) Regulations 2013 ”
+
+- (a) paragraphs (10) and (11) of regulation 13 (analysis etc. of samples) of the Food Hygiene (Wales) Regulations 2006 [^c21703021];
+- (b) paragraphs (10) and (11) of regulation 38 (analysis etc. of samples) of the Official Feed and Food Controls (Wales) Regulations 2009 [^c21703031];
+
+## 12. Revocation
+
+The Food Safety (Sampling and Qualifications) Regulations 1990 [^c21703041] are revoked in relation to Wales.
+
+Lesley Griffiths
+
+Minister for Health and Social Services, one of the Welsh Ministers
+
+## SCHEDULE 1 — Instruments to which specified provisions of these Regulations do not apply
+
+Regulation 3
+
+| *Title* | *Reference* | *Specified provisions* |
+| --- | --- | --- |
+| The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations 1997 | S.I. 1997/1729 | Regulations 7,8,9 and 10 |
+| [^key-1f4606bff1d9609b578b10afebcf5759]. . . | [^key-1f4606bff1d9609b578b10afebcf5759]. . . | [^key-1f4606bff1d9609b578b10afebcf5759]. . . |
+| The Materials and Articles in Contact with Food (Wales) Regulations 2012 | S.I. 2012/2705 (W.291) | Regulations 7,8 and 9 |
+| The Contaminants in Food (Wales) Regulations 2013 (to the extent that a sample falls to be prepared and analysed in accordance with[^key-f33909d71b5cbd649e316447a1288a9f] Commission Regulation [(EC) No. 1881/2006](https://www.legislation.gov.uk/eur/2006/1881) setting maximum levels for certain contaminants in foodstuffs) | S.I.  2013/----. | Regulations 7,8 and 9 |
+| The Poultry Meat (Wales) Regulations 2011 | S.I. 2011/1719 (W.195) | Regulations 7,8 and 9 |
+
+## SCHEDULE 2 — Qualifications of Food Examiners
+
+Regulation 5
+
+### PART 1
+
+**1.** A first degree (with honours) in microbiology (irrespective of the title of the degree).
+
+**2.** A degree of Master of Science, provided that —
+
+- (a) the degree was awarded following an examination rather than a thesis; and
+- (b) at least one paper in the degree was in microbiology.
+
+**3.** Fellowship of the Institute of Biomedical Sciences if that Fellowship has been gained after passing the higher specialist diploma examination in medical microbiology set by that Institute.
+
+**4.** The degree in Mastership in Chemical Analysis awarded by the Royal Society of Chemistry.
+
+**5.** Fellowship or Membership of the Institute of Food Science and Technology[^M_F_a7c0e1ed-9d86-49b9-c3c1-a21d929664e2]....
+
+**6.** In paragraphs 1 and 2 of this Part, “**degree**” means a degree awarded by a body recognised for the purposes of section 214 of the Education Reform Act 1988 (which relates to bodies empowered to award degrees in the United Kingdom) or by a university in a member State of the European Union[^key-5b385dd32c11344f2bf210e030e698fe] or in a specified state[^key-231deee6d536f608b9bd4876000dedd1].
+
+### PART 2
+
+**1.** The Laboratory of the Government Chemist.
+
+**2.** A laboratory owned by a Government Department or a laboratory under the equivalent control of the government of a member State of the European Union[^key-77c14ca127916316987db6d134a22db0] or of a specified state[^key-80da4e8297fa68e85016d702f4dc6ec5].
+
+**3.** A laboratory appointed as an official laboratory under Regulation[^key-f750c3da3cd57dac56207d0509fbe5db] [(EU) 2017/625](https://www.legislation.gov.uk/eur/2017/625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
+
+**4.** A laboratory of a university in the United Kingdom or of a member State of the European Union[^key-8d8eb5bf269ce02f25c21df01b28cf57] or of a specified state[^key-e19b5243e199f1bfcf283a21de1bf534].
+
+**5.** A laboratory of a fundable body within the meaning of the Further and Higher Education (Scotland) Act 2005 [^c21703051].
+
+**6.** A laboratory of the Scottish Agricultural College.
+
+**7.** A laboratory specialising in food microbiology and accredited to ISO/IEC 17025.
+
+## SCHEDULE 3 — Certificate of Analysis and/or Examination
+
+Regulation 10(2)
+
+[image: see source](https://www.legislation.gov.uk/wsi/2013/479/images/wsi_20130479_en_sld_001)[image: see source](https://www.legislation.gov.uk/wsi/2013/479/images/wsi_20130479_en_sld_002)
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke, in relation to Wales, (at *regulation 12*) and remake with amendments provisions of the Food Safety (Sampling and Qualifications) Regulations 1990 (S.I. 1990/2463).
+
+The Regulations —
+
+- (a) specify the qualifications necessary to be a public analyst or food analyst (*regulation 4*) or food examiner (*regulation 5 and Schedule 2*) for the purposes of the Food Safety Act 1990;
+- (b) prohibit specified persons from carrying out analyses or examinations (*regulation 6*);
+- (c) specify the procedures to be followed when a sample has been procured under that Act for analysis or examination (*regulations 7, 8 and 9*), and exclude from these procedures samples taken under Regulations which have their own procedures (*regulation 3 and Schedule 1*); and
+- (d) prescribe the form of certificate to be used by analysts and examiners in making their reports (*regulation 10 and Schedule 3*).
+
+The Regulations also make consequential amendments to other Regulations (*regulation 11*).
+
+The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Food Standards Agency at Food Standards Agency Wales, 11th Floor, Southgate House, Wood Street, Cardiff CF10 1EW
+
+## Annotations
+
+[^c21702961]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). Section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Sections 27(2), 30(9), 31(1) and 49(2) were amended by paragraph 8 of Schedule 5 to the [Food Standards Act 1999 (1999 c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), (“**the 1999 Act**”). Section 48 was amended by paragraphs 8 and 21 of Schedule 5 to the 1999 Act and by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Section 53(2) was amended by paragraph 19 of Schedule 16 to the [Deregulation and Contracting Out Act 1994 (1994 c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), Schedule 6 to the 1999 Act, [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990) and [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c21702971]: Marginal citation: Functions formerly exercisable by “the Ministers” so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the 1999 Act, and subsequently transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (2006 c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^c21702981]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c21702991]: Marginal citation: [S.I. 2008/1792](https://www.legislation.gov.uk/uksi/2008/1792).
+
+[^c21703001]: Marginal citation: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Commission Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the treaty to Council Decision 1999/468/EC with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny — Part Four (OJ No. L188, 18.7.2009, p.14).
+
+[^key-35805bb85dedbc61cc109ab5c4df895e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2013/479/regulation/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/2)
+
+[^c21703011]: Marginal citation: [S.I. 1990/2463](https://www.legislation.gov.uk/uksi/1990/2463).
+
+[^c21703021]: Marginal citation: [S.I. 2006/31](https://www.legislation.gov.uk/uksi/2006/31). There are amendments to this instrument but none is relevant.
+
+[^c21703031]: Marginal citation: [S.I. 2009/3376](https://www.legislation.gov.uk/uksi/2009/3376). The figure “35” in paragraph (10) of regulation 38 was corrected to “37” by a correction slip.
+
+[^c21703041]: Marginal citation: [S.I. 1990/2463](https://www.legislation.gov.uk/uksi/1990/2463).
+
+[^key-1f4606bff1d9609b578b10afebcf5759]: Textual amendment: Words in Sch. 1 omitted (28.11.2015) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2015 (S.I. 2015/1867)](https://www.legislation.gov.uk/wsi/2015/1867), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/1/2), [Sch. 13 para. 4](https://www.legislation.gov.uk/wsi/2015/1867/schedule/13/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1867/regulation/3))
+
+[^key-f33909d71b5cbd649e316447a1288a9f]: Textual amendment: Words in Sch. 1 substituted (31.10.2013) by [The Contaminants in Food (Wales) Regulations 2013 (S.I. 2013/2493)](https://www.legislation.gov.uk/wsi/2013/2493), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2493/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2013/2493/regulation/9)
+
+[^M_F_a7c0e1ed-9d86-49b9-c3c1-a21d929664e2]: Textual amendment: Words in Sch. 2 para. 5 omitted (1.1.2014) by virtue of [The Food (Miscellaneous Amendments) (Wales) Regulations 2013 (S.I. 2013/3049)](https://www.legislation.gov.uk/uksi/2013/3049), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3049/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2013/3049/regulation/4/2)
+
+[^key-5b385dd32c11344f2bf210e030e698fe]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/1/paragraph/6) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [11(2)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/11/2/a)
+
+[^key-231deee6d536f608b9bd4876000dedd1]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/1/paragraph/6) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(3)(a)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/3/a)
+
+[^key-77c14ca127916316987db6d134a22db0]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/2) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [11(2)(b)(i)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/11/2/b/i)
+
+[^key-80da4e8297fa68e85016d702f4dc6ec5]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(3)(b)(i)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/3/b/i)
+
+[^key-f750c3da3cd57dac56207d0509fbe5db]: Textual amendment: Words in Sch. 2 Pt. 2 para. 3 substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/2), [38](https://www.legislation.gov.uk/wsi/2019/1482/regulation/38)
+
+[^key-8d8eb5bf269ce02f25c21df01b28cf57]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/4) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [11(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/11/2/b/ii)
+
+[^key-e19b5243e199f1bfcf283a21de1bf534]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/wsi/2013/479/schedule/2/part/2/paragraph/4) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 6(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/6/3/b/ii)
+
+[^c21703051]: Marginal citation: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6).

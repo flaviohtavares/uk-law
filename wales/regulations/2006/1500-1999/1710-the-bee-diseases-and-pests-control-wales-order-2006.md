@@ -1,0 +1,364 @@
+---
+title: The Bee Diseases and Pests Control (Wales) Order 2006
+id: wsi/2006/1710
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-06-27'
+text_date: '2021-04-21'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2006/1710
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2006/1710/pdfs/wsi_20061710_mi.pdf
+- http://www.legislation.gov.uk/wsi/2006/1710/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bee Diseases and Pests Control (Wales) Order 2006
+
+> Text as at 2021-04-21.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2006 No. 1710 (W.172)
+
+BEE DISEASES, WALES
+
+The Bee Diseases and Pests Control (Wales) Order 2006
+
+Made
+
+27 June 2006
+
+Coming into force
+
+1 July 2006
+
+The National Assembly for Wales in exercise of the powers conferred by section 1 of the Bees Act 1980[^f00001] and now vested in it makes the following Order—
+
+## 1. Title, commencement and application[^key-afa2ef73edf39b9c4b89db06c523dee6]
+
+The title of this Order is the Bee Diseases and Pests Control (Wales) Order 2006, it comes into force on 1 July 2006 and applies in relation to Wales.
+
+## 2. Interpretation[^key-4fa8efb55502b90ce6270d8641650a0d]
+
+(1) In this Order—
+
+- “appliances” (“*offer*”) means containers or any other equipment used in connection with keeping or transporting bees;
+- “bee pest” (“*pla gwenyn*”) means any beetle, mite or similar organism that may be injurious to bees and that is in any stage of its life cycle;
+- “field test kit” (“*pecyn profi yn y maes*”) means a portable test kit that is used for the purpose of confirming the presence of a disease without the need to send samples to a laboratory;
+- “hive” (“*cwch*”) means any thing that contains or has at any time contained, a colony of bees;
+- “National Assembly” (“*Cynulliad Cenedlaethol*”) means the National Assembly for Wales?CQ?;
+- “notifiable disease” (“*clefyd hysbysadwy*”) means American foul brood or European foul brood;
+- “notifiable pest” means the small hive beetle (*Aethina tumida*) or any species of the *Tropilaelaps* mite;
+- “premises” (“*mangre*”) includes any place with or without buildings; and
+- “vehicle” (“*cerbyd*”) includes any vessel, boat, hovercraft or aircraft.
+
+(2) A notice under this Order—
+
+- (a) must be in writing;
+- (b) may be suspended, amended or revoked by further notice at any time; and
+- (c) may be subject to conditions.
+
+(3) Paragraph (2)(c) does not apply to a notice under article 10.
+
+(4) A licence under this Order must be in writing, may be general or specific, may contain conditions and may be suspended, amended or revoked by notice at any time.
+
+(5) A general licence issued under this Order must be brought to the attention of those persons whom it is likely to affect by its publication in such newspapers or periodicals or in such other manner as the National Assembly considers necessary.
+
+## 2A. Reporting of Varroa mite (Varroosis)[^key-92e58e35709a44f6f904cce691f76aa6]
+
+Any owner or person in charge of a hive who know or suspects that any species of the Varroa mite is present in the hive must report, as soon as practicable, that fact to the Welsh Ministers.
+
+## 3. Notification of suspicion of a disease or pest[^key-77c856d64a7506519ddd463f9eb35751]
+
+(1) An owner or person in charge of a hive who knows or suspects that—
+
+- (a) any bees from the hive are infected with a notifiable disease;
+- (b) a notifiable pest is present in the hive; or
+- (c) a notifiable pest is present on or in the same premises or vehicle as the hive,
+
+must immediately notify that fact to the National Assembly.
+
+(2) Any other person who—
+
+- (a) has in his or her possession or charge; or
+- (b) discovers in the course of his or her occupation,
+
+a bee pest that he or she knows or suspects is a notifiable pest must immediately notify that fact to the National Assembly.
+
+## 4. Prohibition on removal[^key-60161bf52614df75f0b99855aefb4eb8]
+
+(1) Where notification has been given under article 3, the owner or person in charge of the hive must not remove, or permit to be removed, from the premises or vehicle on or in which the hive is situated—
+
+- (a) any hive, bees, combs, bee products, bee pests, hive debris or appliances; or
+- (b) any other thing liable to spread the notifiable disease or the notifiable pest.
+
+(2) The owner or person in charge of a hive may, notwithstanding the provisions of paragraph 4 of the Schedule, submit to the National Assembly for laboratory tests samples of—
+
+- (a) any parts of the hive, bees, combs, bee products or hive debris, to establish whether they are infected with a notifiable disease or a notifiable pest;
+- (b) any bee pest to establish whether it is a notifiable pest; and
+- (c) soil from the area surrounding the hive to establish whether it is infected with a notifiable pest.
+
+(3) If a notice is served under article 6(1) or (2), the prohibition on removal in that notice will apply in place of the prohibition on removal in paragraph 4 of the Schedule.
+
+(4) In the absence of a notice served under article 6(1) or (2), the prohibition on removal in paragraph 4 of the Schedule will apply until—
+
+- (a) an authorised person has confirmed by notice that he or she is satisfied that the bees are not infected with the notifiable disease or that the notifiable pest is not present in the hive or on or in the same premises or vehicle as the hive; or
+- (b) the owner or person in charge of the hive has been informed that the test results on samples submitted to the National Assembly under paragraph (2) confirm that the material sampled is free from infection or is not a notifiable pest.
+
+(5) Any person who gives notification under article 3(2) is not permitted to, remove, or allow removal of, any bee pest or any other thing by which the notifiable pest is liable to be spread from the premises or vehicle on or in which it is situated.
+
+(6) Any person who gives notification under article 3(2) may, notwithstanding the provisions of paragraph (5), submit to the National Assembly for laboratory tests samples of—
+
+- (a) any bee pest to see if it is a notifiable pest; and
+- (b) any other thing, including soil, to see if it is infected with a notifiable pest.
+
+(7) If a notice is served under article 6(1) or (2), the prohibition on removal in that notice will apply in place of the prohibition on removal in paragraph (5).
+
+(8) In the absence of a notice served under article 6(1) or (2), the prohibition on removal in paragraph (5) will apply until—
+
+- (a) an authorised person has confirmed by notice that he or she is satisfied that the notifiable pest is not present; or
+- (b) the person who gave notification under article 3(2) has been informed that the test results on samples submitted to the National Assembly under paragraph (6) confirm that the material sampled is not a notifiable pest or is not infected with a notifiable pest.
+
+(9) Any sample submitted under paragraph (2) or (6) must be packed so as to prevent as far as possible the risk of the spread of infection during transit.
+
+## 5. Marking of hives and appliances[^key-be02a370f3c090e0b00ce81f61e180be]
+
+(1) An authorised person may mark any hive or appliance for identification purposes.
+
+(2) No person is permitted to interfere with any identifying mark made under paragraph (1) or permit such a mark to be interfered with.
+
+## 6. Notices prohibiting removal[^key-e518037d602438510f6f812b3c2db082]
+
+(1) Where an authorised person has reasonable grounds for suspecting that a notifiable disease or a notifiable pest is present on or in any premises or vehicle, he or she must serve on the owner or person in charge of—
+
+- (a) any hive, bees, combs, bee products, bee pests, hive debris or appliances situated on or in the premises or vehicle; or
+- (b) any other thing liable to spread the notifiable disease or the notifiable pest situated on or in the premises or vehicle,
+
+a notice prohibiting their removal and the removal of any bee pests contained in or affecting them, except under the authority of a licence issued by the National Assembly.
+
+(2) Where an authorised person is obstructed in the exercise of his or her power of entry under section 2 of the Act, he or she may serve on the person appearing to him or her to be the owner or occupier of the premises or the owner or person in charge of the vehicle a notice prohibiting the removal from the premises or vehicle of—
+
+- (a) any hive, bees, combs, bee products, bee pests, hive debris or appliances; or
+- (b) any other thing liable to spread a notifiable disease or a notifiable pest.
+
+(3) A notice served pursuant to paragraph (2) must be revoked if an authorised person is subsequently able to act without obstruction in the exercise of his or her power of entry under section 2 of the Act on or in the premises or vehicle.
+
+(4) In this article “the Act” (“*y Ddeddf*”) means the Bees Act 1980.
+
+## 7. Disease control measures[^key-2e6e15f1a74cafa0f1288b1df5b8fe75]
+
+(1) The presence of a notifiable disease may be confirmed by an authorised person on the basis of a laboratory test result or a field test kit result.
+
+(2) Where the presence of American foul brood has been confirmed in a hive, an authorised person—
+
+- (a) must serve on the owner or person in charge of the hive a notice requiring the destruction in accordance with the notice of any bees, combs or bee products from the hive;
+- (b) may serve on the owner or person in charge of the hive a notice requiring the destruction or treatment in accordance with the notice of the hive, debris from the hive and any appliances or other things liable to spread the disease;
+- (c) may serve on any other person who is the owner or person in charge of any appliances or other things liable to spread the disease a notice requiring their destruction or treatment in accordance with the notice.
+
+(3) Where the presence of European foul brood has been confirmed in a hive, an authorised person—
+
+- (a) must serve on the owner or person in charge of the hive a notice requiring the destruction or treatment in accordance with the notice of any bees, combs or bee products from the hive;
+- (b) may serve on the owner or person in charge of the hive a notice requiring the destruction or treatment in accordance with the notice of the hive, debris from the hive and any appliances or other things liable to spread the disease;
+- (c) may serve on any other person who is the owner or person in charge of any appliances or other things liable to spread the disease a notice requiring their destruction or treatment in accordance with the notice.
+
+(4) If, once any treatment required by a notice served under this article has been carried out, an authorised person confirms by way of a laboratory test result or a field test kit result that the notifiable disease remains, an authorised person may serve further notices under this article.
+
+## 8. Pest control measures[^key-5cf39fba424295f8922a9809abaa83a5]
+
+(1) The presence of a notifiable pest may be confirmed by an authorised person on the basis of a laboratory test result or an examination.
+
+(2) Where the presence of a notifiable pest has been confirmed in a hive or on or in the same premises or vehicle as a hive, an authorised person—
+
+- (a) must serve on the owner or person in charge of the hive a notice requiring the destruction or treatment in accordance with the notice of the hive, any bees, combs, bee products, bee pests or debris from the hive, and any appliances or other things by which the notifiable pest is liable to be spread;
+- (b) may serve on the owner or occupier of the premises on which the hive is situated a notice requiring the treatment in accordance with the notice of the soil surrounding the hive;
+- (c) may serve on any other person who is the owner or person in charge of any appliances or other things by which the notifiable pest is liable to be spread a notice requiring their destruction or treatment in accordance with the notice.
+
+(3) Where the presence of a notifiable pest is confirmed on or in any other premises or vehicle, an authorised person may serve a notice requiring the destruction or treatment in accordance with the notice of any bee pests and of any other things by which the notifiable pest is liable to be spread on—
+
+- (a) any person who has a bee pest in his or her possession or charge;
+- (b) the owner or occupier of the premises, or the owner or person in charge of the vehicle.
+
+(4) If, once any treatment required by a notice served under this article has been carried out, an authorised person confirms on the basis of a laboratory test result or an examination that the notifiable pest remains, an authorised person may serve further notices under this article.
+
+## 9. Notices served under article 7 or 8[^key-f5f4ef7212fc78cd9c614b25ff87d51a]
+
+A notice served under article 7 or 8 must specify—
+
+- (a) the method of destruction or treatment, which may, in the case of treatment, include the use of a particular substance or any other action intended to control the disease or pest; and
+- (b) the date by which destruction or treatment must take place, or the period during which treatment must take place,
+
+and may specify that the destruction or treatment is to be carried out by an authorised person, in the presence of an authorised person or under the supervision of an authorised person.
+
+## 10. Declaration of infected area[^key-7e92c3fb82de055687e86e9886a8e982]
+
+(1) The National Assembly may by notice declare an area in which it is satisfied that a notifiable pest is present to be an infected area.
+
+(2) The notice may provide that all or any of the provisions specified in the Schedule apply in all or part of the infected area, and that different provisions apply in different parts of the infected area, as the National Assembly considers necessary to prevent the spread of the pest.
+
+(3) The National Assembly must publish any notice issued under paragraph (1) and any notice amending or revoking such a notice in such manner as it considers appropriate to bring it to the attention of persons likely to be affected by it.
+
+## 11. Imported bees[^key-f9c700d3583d382ac9a687851fbbd8d9]
+
+(1) Where consignments of queen bees mentioned in Article 7(3)(a) of Commission Regulation (EU) No 206/2010 arrive at the designated place of final destination from a third country or territory mentioned in Article 7(1) of that Regulation, the consignee must—
+
+- (a) transfer them to new cages in accordance with Article 13(1) of that Regulation; and
+- (b) send the cages, attendants and other material that accompanied those queen bees from the third country of origin to a laboratory in accordance with Article 13(2) of that Regulation.
+
+(2) Where consignments of bumble bees mentioned in Article 7(3)(b) of Commission Regulation (EU) No 206/2010 are introduced into Wales from a third country or territory mentioned in Article 7(1) of that Regulation, the owner or person in charge of those bumble bees must destroy the container and material that accompanied them from the third country of origin in accordance with the third paragraph of Article 13(3) of that Regulation.
+
+(3) The Welsh Ministers are the competent authority for the purposes of Article 13(1) and (2) of that Regulation.
+
+(4) For the purposes of this article—
+
+- (a) “Commission Regulation (EU) No 206/2010” (“*Rheoliad y Comisiwn (EU) Rhif 206/2010*”) means Commission Regulation (EU) No 206/2010 laying down lists of third countries, territories or parts thereof authorised for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements;
+- (b) “the consignee” (“*y traddodai*”) means the consignee as indicated on the veterinary certificate accompanying the bees in accordance with Article 7(4)(a) of Commission Regulation (EU) No 206/2010; and
+- (c) “designated place of final destination” (“*cyrchfan derfynol ddynodedig*”) has the same meaning in this article as it has in Article 13 of Commission Regulation (EU) No 206/2010.
+
+## 12. Provision of facilities and other obligations[^key-470f1beb8fb6de23f2b443d4148973ea]
+
+(1) The owner or person in charge of any hive, bees, combs, bee products or appliances and the owner or occupier of any premises and the owner or person in charge of any vehicle on or in which there is suspected to be a notifiable pest or notifiable disease[^key-6f325a50b7b1f2cb5bbec110a1abac1a] must—
+
+- (a) make available all such facilities, and
+- (b) give such information (including information concerning the number, location and any movements of hives, bees, combs, bee products or appliances that are or have been in his or her possession or charge and information concerning the location of any bee pests on the premises or vehicle),
+
+to an authorised person as that authorised person may reasonably require for the purposes of this Order.
+
+(2) No person may treat bees with a substance which may have the effect of disguising the presence of, or rendering difficult the detection of, a notifiable disease unless he or she is carrying out the treatment of bees in accordance with a notice served under article 7.
+
+(3) The National Assembly may by licence exempt any person from the prohibition contained in paragraph (2).
+
+(4) Any person upon whom a notice is served under this Order or who is subject to the provisions of a notice declaring an area to be an infected area within the meaning of article 10 must comply with the provisions of that notice.
+
+## 13. Action in default[^key-bf6890e0a6fc1432941b4049ff8e3f29]
+
+(1) Where any person has not complied with a notice served upon him or her under this Order, an authorised person may take such steps as he or she considers necessary to ensure that the requirements of the notice are complied with.
+
+(2) The person upon whom the notice is served will be liable for any costs incurred under paragraph (1).
+
+(3) Any action taken by an authorised person under paragraph (1) and any action for the recovery of costs under paragraph (2) will be without prejudice to any proceedings for an offence arising out of contravention of a notice served under this Order.
+
+## 14. Service of notices[^key-019775608a8f9896c7d0f63d0b45fcf5]
+
+(1) Any notice served under this Order will be properly served on any person if—
+
+- (a) it is delivered to him or her personally;
+- (b) it is left at or posted to his or her home or place of business last known to the National Assembly; or
+- (c) where the conditions in paragraph 14(2) are fulfilled, sent to him or her by e-mail.
+
+(2) A notice served on any person by e-mail will be deemed to be properly served on him or her if he or she—
+
+- (a) has indicated in writing to the National Assembly (and has not withdrawn the indication) that he or she is willing to accept service of notices under this Order by e-mail; and
+- (b) has provided in writing, to the National Assembly, an e-mail address for this purpose.
+
+## 15. Exemptions[^key-114d158bc9e83492824f609253386f6a]
+
+Any person who is undertaking research or a course of training, relating to pests or diseases affecting bees, may, by way of licence issued by the National Assembly, be exempted from any of the provisions of this Order apart from the provisions of article 11.
+
+## 16. Revocations[^key-d73e02cb6785f8dc30252945edf95731]
+
+The Bee Diseases Control Order 1982[^f00003] and the Importation of Bees Order 1997[^f00004] are revoked in so far as they apply in relation to Wales.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00005]
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+## SCHEDULE — Provisions that may apply in an infected area
+
+Article 10
+
+**1.**[^key-7f682bb6864dd19be6ba74d25f05f40b] An authorised person may serve on the owner or person in charge of any hive, bees, combs, bee products, hive debris or appliances found to have been exposed to infection with the notifiable pest, a notice complying with article 9, requiring their destruction or treatment in accordance with the notice.
+
+**2.**[^key-7627cbf4f08ac8d1682bd2e026998233] An authorised person may serve on the owner or occupier of any premises on which a hive found to have been exposed to infection is situated a notice complying with article 9, requiring the treatment in accordance with the notice, of the soil surrounding the hive.
+
+**3.**[^key-2baffe662a4ccd1a0cfd835558390c2f] No person is permitted to move, or permit to be moved, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread into or out of the infected area, except under the authority of a licence granted by the National Assembly.
+
+**4.**[^key-b826c0a04a23ad6f0c2c3a058c7b2e81] No person is permitted to remove, or permit to be removed, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread from the premises or vehicle on or in which they are situated, except under the authority of a licence granted by the National Assembly.
+
+**5.**[^key-bd720684f2e09bbf29e4c3585b7d3798] The owner or person in charge of any hive, bees, combs, bee products or appliances must notify the National Assembly as soon as is reasonably practicable of his or her name and address and the location of any hive, bees, combs, bee products or appliances in his or her possession or charge.
+
+(This note is not part of the Order)
+
+This Order, which applies in relation to Wales, revokes and replaces the Bee Diseases Control Order 1982 (S.I. [1982/107](https://www.legislation.gov.uk/uksi/1982/107)). It also revokes the Importation of Bees Order 1997 (S.I. [1997/310](https://www.legislation.gov.uk/uksi/1997/310)).
+
+Article 3 of the Order makes provision for the notification of the presence or suspected presence of a notifiable disease or a notifiable pest to the National Assembly. The giving of such notification triggers a prohibition on the movement of things that might spread the disease or pest (article 4). Under the Order American foul brood and European foul brood are notifiable diseases, and small hive beetle and any species of the *Tropilaelaps* mite are notifiable pests.
+
+Where an authorised person has reasonable grounds for suspecting the presence of a notifiable disease or a notifiable pest, he or she must serve a notice prohibiting the movement of certain items (article 6). If an authorised person is obstructed in the exercise of his or her power of entry he or she may serve a notice prohibiting movement of certain items (article 6(2)).
+
+Article 7 sets out the measures that apply on confirmation of the presence of a notifiable disease. Article 8 sets out the measures that apply on confirmation of the presence of a notifiable pest.
+
+The National Assembly may declare by notice an area to be an infected area if it is satisfied that a notifiable pest is present in that area (article 10). The National Assembly may specify in the notice that all or any of the provisions in the Schedule apply in some or all of the infected area.
+
+Article 11 implements the provisions of Commission Decision [2003/881/EC](https://www.legislation.gov.uk/european/decision/2003/0881) (OJ No. L328, 17.12.2003, p. 26) as amended by Commission Decision [2005/60/EC](https://www.legislation.gov.uk/european/decision/2005/0060) (OJ No. L25, 28.1.2005, p.64) that apply to bees after they have been imported into the United Kingdom from a third country. The Animals and Animal Products (Import and Export) (Wales) Regulations 2006 (S.I. [2006/1536 (W.153)](https://www.legislation.gov.uk/wsi/2006/1536) implement the import conditions contained in Commission Decision [2003/881/EC](https://www.legislation.gov.uk/european/decision/2003/0881).
+
+Article 12 requires the provision of facilities and the giving of information to authorised persons in certain circumstances. Article 12 also prohibits the use of substances that may disguise the presence of or render difficult the detection of a notifiable disease other than in accordance with a notice requiring treatment under article 7.
+
+Article 13 provides that where any person has not complied with a notice served under the Order, an authorised person may arrange for it to be complied with at the expense of the person upon whom the notice is served.
+
+In accordance with section 1(7) of the Bees Act [1980 (c. 12)](https://www.legislation.gov.uk/ukpga/1980/12), breach of any provision of the Order or of any condition imposed by any licence issued under the Order constitutes an offence punishable on summary conviction by a fine not exceeding level 5 on the standard scale (currently £5000).
+
+A regulatory appraisal has been prepared in respect of this Order and is available for inspection at the offices of the National Assembly for Wales, Department for Environment, Planning and Countryside, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 12](https://www.legislation.gov.uk/ukpga/1980/12). In respect of section 1 of the 1980 Act, the functions of the Secretary of State for Wales were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales (“the National Assembly”) by virtue of S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672). The functions of the Secretary of State for Scotland were transferred to the Minister for Agriculture Fisheries and Food by [S.I. 1999 / 3141](https://www.legislation.gov.uk/uksi/1999/3141). The functions of the Minister for Agriculture Fisheries and Food were transferred to the Secretary of State by S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794) and the functions of Secretary of State were, in so far as exercisable in relation to Wales, transferred to the National Assembly by S.I. [2004/3044](https://www.legislation.gov.uk/uksi/2004/3044).
+
+[^key-afa2ef73edf39b9c4b89db06c523dee6]: Commencement: Art. 1 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-4fa8efb55502b90ce6270d8641650a0d]: Commencement: Art. 2 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-92e58e35709a44f6f904cce691f76aa6]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/wsi/2006/1710/article/2A) inserted (21.4.2021) by [The Bee Diseases and Pests Control (Wales) (Amendment) Order 2021 (S.I. 2021/351)](https://www.legislation.gov.uk/wsi/2021/351), [arts. 1](https://www.legislation.gov.uk/wsi/2021/351/article/1), [2](https://www.legislation.gov.uk/wsi/2021/351/article/2)
+
+[^key-77c856d64a7506519ddd463f9eb35751]: Commencement: Art. 3 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-60161bf52614df75f0b99855aefb4eb8]: Commencement: Art. 4 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-be02a370f3c090e0b00ce81f61e180be]: Commencement: Art. 5 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-e518037d602438510f6f812b3c2db082]: Commencement: Art. 6 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-2e6e15f1a74cafa0f1288b1df5b8fe75]: Commencement: Art. 7 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-5cf39fba424295f8922a9809abaa83a5]: Commencement: Art. 8 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-f5f4ef7212fc78cd9c614b25ff87d51a]: Commencement: Art. 9 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-7e92c3fb82de055687e86e9886a8e982]: Commencement: Art. 10 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-f9c700d3583d382ac9a687851fbbd8d9]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/wsi/2006/1710/article/11) substituted (28.2.2011) by [The Bee Diseases and Pests Control (Wales) (Amendment) Order 2011 (S.I. 2011/226)](https://www.legislation.gov.uk/wsi/2011/226), [arts. 1](https://www.legislation.gov.uk/wsi/2011/226/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2011/226/article/2/2)
+
+[^key-470f1beb8fb6de23f2b443d4148973ea]: Commencement: Art. 12 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-6f325a50b7b1f2cb5bbec110a1abac1a]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/wsi/2006/1710/article/12/1) inserted (28.2.2011) by [The Bee Diseases and Pests Control (Wales) (Amendment) Order 2011 (S.I. 2011/226)](https://www.legislation.gov.uk/wsi/2011/226), [arts. 1](https://www.legislation.gov.uk/wsi/2011/226/article/1), [2(3)](https://www.legislation.gov.uk/wsi/2011/226/article/2/3)
+
+[^key-bf6890e0a6fc1432941b4049ff8e3f29]: Commencement: Art. 13 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-019775608a8f9896c7d0f63d0b45fcf5]: Commencement: Art. 14 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-114d158bc9e83492824f609253386f6a]: Commencement: Art. 15 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-d73e02cb6785f8dc30252945edf95731]: Commencement: Art. 16 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^f00003]: Footnote: S.I. [1982/107](https://www.legislation.gov.uk/uksi/1982/107).
+
+[^f00004]: Footnote: S.I. [1997/310](https://www.legislation.gov.uk/uksi/1997/310).
+
+[^f00005]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-7f682bb6864dd19be6ba74d25f05f40b]: Commencement: Sch. para. 1 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-7627cbf4f08ac8d1682bd2e026998233]: Commencement: Sch. para. 2 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-2baffe662a4ccd1a0cfd835558390c2f]: Commencement: Sch. para. 3 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-b826c0a04a23ad6f0c2c3a058c7b2e81]: Commencement: Sch. para. 4 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)
+
+[^key-bd720684f2e09bbf29e4c3585b7d3798]: Commencement: Sch. para. 5 in force at 1.7.2006, see [art. 1](https://www.legislation.gov.uk/wsi/2006/1710/article/1)

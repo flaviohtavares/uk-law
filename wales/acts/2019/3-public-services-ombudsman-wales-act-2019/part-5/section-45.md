@@ -1,0 +1,68 @@
+---
+title: Public Services Ombudsman (Wales) Act 2019, section 45
+act: Public Services Ombudsman (Wales) Act 2019
+section: '45'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2019/3/section/45
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Services Ombudsman (Wales) Act 2019, section 45
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/anaw/2019/3
+>
+> Extent: England, Wales.
+
+## 45. Criteria for own initiative investigations[^key-d16d9aea2e7490afcf0f38ff030bf0f1]
+
+*Extent: E+W*
+
+(1) The Ombudsman must publish criteria to be used in determining whether to begin an investigation under section 44.
+
+(2) The Ombudsman must lay a draft of the first criteria before the Assembly.
+
+(3) If, before the end of the 40 day period, the Assembly resolves not to approve the draft criteria, the Ombudsman must not publish the criteria in the form of the draft.
+
+(4) If no such resolution is made before the end of that period, the Ombudsman must publish the criteria in the form of the draft.
+
+(5) The 40 day period—
+
+- (a) begins on the day on which the draft is laid before the Assembly, and
+- (b) does not include any time during which the Assembly is dissolved or is in recess for more than four days.
+
+(6) Subsection (3) does not prevent new draft criteria from being laid before the Assembly.
+
+(7) Before laying the draft criteria before the Assembly, the Ombudsman must consult—
+
+- (a) the Welsh Ministers,
+- (b) the listed authorities in Schedule 3, and
+- (c) such other persons as the Ombudsman thinks appropriate.
+
+(8) The Ombudsman must, in preparing the draft criteria to be laid before the Assembly, have regard to any representations made during the consultation mentioned in subsection (7).
+
+(9) The criteria come into force when they are published by the Ombudsman.
+
+(10) The Ombudsman may from time to time revise and re-publish the criteria.
+
+(11) If, in the opinion of the Ombudsman, revisions made under subsection (10) effect any material change to the criteria, the Ombudsman must lay a draft of those revisions before the Assembly.
+
+(12) Subsections (3) to (9) apply to draft revisions laid before the Assembly under subsection (11) as they apply to the first criteria.
+
+(13) The Welsh Ministers may by regulations amend criteria published by the Ombudsman under this section by adding criteria, removing criteria or changing the criteria.
+
+(14) Where the Welsh Ministers make regulations under subsection (13), the Ombudsman must publish the criteria, as amended by the regulations, on the day the regulations come into force.
+
+(15) Before making regulations under subsection (13), the Welsh Ministers must consult—
+
+- (a) the Ombudsman,
+- (b) the listed authorities in Schedule 3, and
+- (c) such other persons as the Welsh Ministers think appropriate.
+
+(16) No regulations are to be made under subsection (13) unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, the Assembly.
+
+## Annotations
+
+[^key-d16d9aea2e7490afcf0f38ff030bf0f1]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2019/3/section/45) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

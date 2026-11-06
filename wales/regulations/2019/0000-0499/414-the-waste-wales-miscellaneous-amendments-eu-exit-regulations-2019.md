@@ -1,0 +1,724 @@
+---
+title: The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019
+id: wsi/2019/414
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-02-28'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2019/414
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2019/414/pdfs/wsi_20190414_mi.pdf
+- http://www.legislation.gov.uk/wsi/2019/414/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2019 No. 414 (W. 96)
+
+Exiting The European Union, Wales
+
+Environmental Protection, Wales
+
+Waste, Wales
+
+The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019
+
+Sift requirements satisfied
+
+18 February 2019
+
+Made
+
+28 February 2019
+
+Laid before the National Assembly for Wales
+
+1 March 2019
+
+Coming into force in accordance with regulation 1(2)
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by—
+
+- (a) in relation to Part 1, the powers mentioned in paragraphs (b) and (c);
+- (b) in relation to Part 2, section 2(2) of the European Communities Act 1972 [^c23613211];
+- (c) in relation to the remainder of the Regulations, paragraph 1(1) of Schedule 2 to the European Union (Withdrawal) Act 2018 [^c23613221].
+
+The Welsh Ministers are designated [^c23613231] for the purposes of section 2(2) of the European Communities Act 1972 in relation to—
+
+- (a) measures relating to the prevention, reduction and elimination of pollution caused by waste and the management of packaging and packaging waste [^c23613241];
+- (b) the prevention, reduction and management of waste [^c23613251].
+
+The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate National Assembly for Wales scrutiny procedure for these Regulations) have been satisfied.
+
+## PART 1 — Introductory
+
+### 1. Title and commencement[^key-ef6b2174b4514aa3b502b3892b186d73]
+
+(1) The title of these Regulations is the Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019.
+
+(2) They come into force as follows—
+
+- (a) as regards this Part and Part 2, 21 days after the day on which they are laid;
+- (b) as regards the remainder, on exit day.
+
+## PART 2 — Amendments to out of date references
+
+### 2. The Waste (Wales) Measure 2010[^key-074519ab524d193ac3117de644a16941]
+
+(1) The Waste (Wales) Measure 2010 [^c23613261] is amended as follows.
+
+(2) In section 9(3), at the end insert “ , as last amended by Council Directive 2011/97/EU [^c23613271] ”.
+
+(3) In section 17(2), at the end insert “ , as last amended by Council Regulation (EU) 2017/997 [^c23613281] ”.
+
+### 3. The Landfill Allowance Scheme (Wales) Regulations 2005[^key-2084c98f9ce938a63cdced3d3f88152f]
+
+(1) The Landfill Allowance Scheme (Wales) Regulations 2004 [^c23613291] are amended as follows.
+
+(2) In regulation 2(1), in the definition of “waste facility” (*“cyfleuster gwastraff”*), for “as last amended by Commission Directive (EU) 2015/1127” substitute “as last amended by Council Regulation (EU) 2017/997.
+
+(3) In regulation 7(10), at the end insert “as last amended by Council Regulation 2011/97/EU.
+
+### 4. The Hazardous Waste (Wales) Regulations 2005[^key-732708d4deecd437bdb101e6a70633c7]
+
+(1) The Hazardous Waste (Wales) Regulations 2005 [^c23613301] are amended as follows.
+
+(2) In regulation 47(5B), after “waste,” insert “ as last amended by Council Directive 2011/97/EU ”.
+
+(3) In regulation 48(6B), after “waste,” insert “ as last amended by Council Directive 2011/97/EU ”.
+
+### 5. The Recycling, Preparation for Re-use and Compositing Targets (Monitoring and Penalties) (Wales) Regulations 2011[^key-a25f2cb8b013231b9140e2bbb650f6ba]
+
+In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011 [^c23613311] in the definition of “the Waste Framework Directive” (*“y Gyfarwyddeb Fframwaith Gwastraff”*) for “as last amended by Commission Directive (EU) 2015/1127” substitute “ as last amended by Council Regulation (EU) 2017/997 ”.
+
+## PART 3 — Amendment of primary legislation
+
+### 6. The Waste (Wales) Measure 2010[^key-16f0d05004b983f3e447822f32e60060]
+
+(1) The Waste (Wales) Measure 2010 [^c23613321] is amended as follows.
+
+(2)[^key-0cdc04a81bdd389bb7dabed3335e60b0] In section 9(3) at the end insert “, and read as if—
+
+- (a) in Article 2—
+  - (i) in point (a) the reference to the definition of ’waste’ were omitted;
+  - (ii) after point (a) there were inserted—
+
+    > - (aa) ‘Waste’ has the meaning given in Article 3(1) of [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) (“the Waste Framework Directive”), as read with Articles 5 and 6 of that Directive.
+
+    ;
+- (b) in Article 3—
+  - (i) in paragraph (2) for “Without prejudice to existing Community legislation the” there were substituted “The”;
+  - (ii) for paragraph (3) there were substituted—
+
+    > **3.** The management of extractive waste, within the meaning given in regulation 2(1) of the Environmental Permitting (England and Wales) Regulations 2016, is excluded from the scope of this Directive where it falls within the scope of Schedule 20, or paragraph 8(a) or (b) of Schedule 22, to those Regulations.
+
+(3)[^key-ed65d0191d525df2c486b42caf8eecb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 17—
+
+- (a) in subsection (2) [^key-a7511749bf2090bc733281eb3c10a219]..., at the end insert “ , and read in accordance with subsections (3) to (8) ”;
+- (b) after subsection (2) insert—
+
+  > (3) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^key-661f897827b51a9f49fc10a28e0c7a97], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+  >
+  > (4) Article 2 is to be read as if—
+  >
+  > - (a) in paragraph 2—
+  >   - (i) in the words before point (a), for “other Community legislation” there were substituted “ retained EU law ”;
+  >   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
+  >   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there were substituted “ the Mining Waste Directive (see section 17A) ”;
+  > - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
+  > - (c) paragraph 4 were omitted.
+  >
+  > (5)[^key-872768019048424e18de883c76b302b4] Article 5 is to be read as if—
+  >
+  > - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that a”, there were substituted “A”;
+  > - (b) after paragraph 1 there were inserted—
+  >
+  >   > **1A.** Any decision as to whether a substance or object is a by-product, must be made—
+  >   >
+  >   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+  >   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.
+  >
+  >   ;
+  > - (c) paragraphs 2 and 3 were omitted.
+  >
+  > (6) Article 6 is to be read as if—
+  >
+  > - (a) in paragraph 1 for “Member States shall take appropriate measures to ensure that waste”, there were substituted “Waste”;
+  > - (b) after paragraph 1 there were inserted—
+  >
+  >   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+  >   >
+  >   > - (a) in accordance with any regulations or retained direct EU legislation (within the meaning given to that expression in the European Union (Withdrawal) Act 2018) setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  >   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.
+  >
+  >   ;
+  > - (c) in paragraph 2—
+  >   - (i) the first sub-paragraph were omitted;
+  >   - (ii) in the second sub-paragraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+  >   - (iii) the third and fourth sub-paragraphs were omitted;
+  > - (d) paragraph 3 were omitted;
+  > - (e) in paragraph 4—
+  >   - (i) in the first sub-paragraph—
+  >     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a) the Natural Resources Body for Wales”;
+  >     - (bb) the second sentence were omitted;
+  >   - (ii) in the second sub-paragraph—
+  >     - (aa) for “Member States” there were substituted “The Natural Resources Body for Wales”;
+  >     - (bb) “by competent authorities” were omitted.
+  >
+  > (7) Article 7 is to be read as if—
+  >
+  > - (a) before paragraph 1 there were inserted—
+  >
+  >   > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eud/2000/0532), as that list has effect in Wales.
+  >
+  >   ;
+  > - (b) in paragraph 1—
+  >   - (i) the first and second sentences were omitted;
+  >   - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eud/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+  > - (c) paragraphs 2, 3, 6 and 7 were omitted.
+  >
+  > (8) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+
+(5) After section 17 insert—
+
+> **17A. Meaning of the “Mining Waste Directive”**
+>
+> (1) In reading Article 2 of the Waste Framework Directive in accordance with section 17(4), “the Mining Waste Directive” (as inserted by paragraph (a)(iii) of section 17(4)) means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries [^c23613381], read in accordance with subsections (2) to (5).
+>
+> (2) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2(c), the reference to Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) [^c23613391] were a reference to that Article read in accordance with subsection (4);
+> - (b) paragraphs 3 and 4 were omitted**.**
+>
+> (3) Article 3(1) is to be read as if, for “Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive ”.
+>
+> (4) For the purposes of subsection (2)(a), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
+>
+> - (a) the first reference to “Member States” were a reference to the Welsh Ministers or the Natural Resources Body for Wales;
+> - (b) at the end there were inserted—
+>
+>   > and “**environmental objectives**”, in relation to a river basin district within the meaning of the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 [^c23613401] has the same meaning as in those Regulations.
+>
+>   .
+>
+> (5) In reading the Mining Waste Directive in accordance with subsection (3), the reference in that Directive, to the “Waste Framework Directive” (as inserted by subsection (3)) has the meaning given by section 17(2) of this measure.
+
+.
+
+## PART 4 — Amendment of subordinate legislation
+
+### 7. The Landfill Allowances Scheme (Wales) Regulations 2004[^key-c5e93a44efc9dc7aea81f6a78f41e153]
+
+(1) The Landfill Allowances Scheme (Wales) Regulations 2004 [^c23613411] are amended as follows.
+
+(2)[^key-b7061cf82ecdbd019992c97f350b915f] In regulation 2(1)—
+
+- (a) in the definition of “waste facility *(“cyfleuster gwastraff”)*”, omit “(as substituted by regulation 4(2))”;
+- (b) after the definition of “waste facility” insert—
+
+  > - “the Waste Framework Directive” *(“y* *Gyfarwyddeb Fframwaith Gwastraff”**)* means [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851 and read in accordance with paragraphs (3) to (9).
+
+(3)[^key-330222415bceb95d07bebd07554c7c8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) After regulation 2(2)[^key-d0c33649cbb19b9d1700ee6b644aac3b] insert—
+
+> (3) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^key-c26a12eacb575b71d454c742d4911c14], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+>
+> (4) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2—
+>   - (i) in the words before point (a), for “other Community legislation” there were substituted “ retained EU law ”;
+>   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
+>   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there were substituted “ the Mining Waste Directive (see regulation 2A) ”;
+> - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
+> - (c) paragraph 4 were omitted.
+>
+> (5)[^key-45ef411e4864b8bef87d305b40fcf223] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that a”, there were substituted “A”;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (6) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that waste” there were substituted “Waste”;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation (within the meaning given to that expression in the European Union (Withdrawal) Act 2018) setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first sub-paragraph were omitted;
+>   - (ii) in the second sub-paragraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth sub-paragraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first sub-paragraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the Natural Resources Body for Wales”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second sub-paragraph—
+>     - (aa) for “Member States” there were substituted “The Natural Resources Body for Wales”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (7) Article 7 is to be read as if—
+>
+> - (a) before paragraph 1 there were inserted—
+>
+>   > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eud/2000/0532), as that list has effect in Wales.
+>
+>   ;
+> - (b) in paragraph 1—
+>   - (i) the first and second sentences were omitted;
+>   - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eud/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+> - (c) paragraphs 2, 3, 6 and 7 were omitted.
+>
+> (8) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+>
+> (9) In paragraph (3) “**local authority**” means a county council or a county borough council.
+
+.
+
+(5) After regulation 2, insert—
+
+> **2A. Meaning of “the Mining Waste Directive” in regulation 2**
+>
+> (1) In regulation 2(4)(a)(iii), “**the Mining Waste Directive**” means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries, read in accordance with paragraphs (2) to (4).
+>
+> (2) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2(c), the reference to Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Article read in accordance with paragraph (4) of this regulation;
+> - (b) paragraphs 3 and 4 were omitted.
+>
+> (3) Article 3(1) is to be read as if, for “Article 1(a) of Directive [75/442/EC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive ”.
+>
+> (4) For the purposes of paragraph (2)(a), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
+>
+> - (a) the first reference to “Member States” were a reference to the Welsh Ministers or the Natural Resources Body for Wales;
+> - (b) at the end, there were inserted—
+>
+>   > and “**environmental objectives**”, in relation to a river basin district within the meaning of the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 has the same meaning as in those Regulations.
+>
+>   .
+
+(6) In regulation 7(10) [^key-2897b66234fd01fc07764f0fa3c84226]... , at the end, insert “read in accordance with paragraph (11).
+
+(7)[^key-d816f933f5595d586c79e83b59a0901a] After regulation 7(10) insert—
+
+> (11) For the purposes of regulation 7(10) [Directive 1999/31/EC](https://www.legislation.gov.uk/eudr/1999/0031) is to be read as if—
+>
+> - (a) in Article 2—
+>   - (i) in point (a), the reference to the definition of ’waste’ were omitted;
+>   - (ii) after point (a) there were inserted—
+>
+>     > - (aa) ‘Waste’ has the meaning given in Article 3(1) of [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) (“the Waste Framework Directive”), as read with Articles 5 and 6 of that Directive”;
+> - (b) in Article 3—
+>   - (i) in paragraph (2) for “Without prejudice to existing Community legislation the” there were substituted “The”;
+>   - (ii) for paragraph (3) there were substituted—
+>
+> (3) The management of extractive waste, within the meaning given in regulation 2(1) of the Environmental Permitting (England and Wales) Regulations 2016, is excluded from the scope of this Directive where it falls within the scope of Schedule 20, or paragraph 8(a) or (b) of Schedule 22, to those Regulations.
+
+### 8. The Hazardous Waste (Wales) Regulations 2005[^key-163c6687126413a52aca4efe11a59aab]
+
+(1) The Hazardous Waste (Wales) Regulations 2005 [^c23613451] are amended as follows.
+
+(2) In regulation 2(1)—
+
+- (a) in sub-paragraph (a), at the end insert “ , and read in accordance with regulation 2A ”;
+- (b) in sub-paragraph (b)(i), at the end insert “ , as read with Articles 5 and 6 of that Directive ”.
+
+(3) After regulation 2 insert—
+
+> **2A. Meaning of the Waste Directive**
+>
+> (1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
+>
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^key-bbbe5c2cbfe5e8cadd4757e60b1c64b7], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+>
+> (3) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2—
+>   - (i) in the words before point (a), for “other Community legislation” there were substituted “ retained EU law ”;
+>   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
+>   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there substituted “ the Mining Waste Directive ”;
+> - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
+> - (c) paragraph 4 were omitted.
+>
+> (4)[^key-cf5d60ca6ba5cc2dac4eb1182b001bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (5)[^key-197e0df510fa4c669861ffa03a79df53] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that a” there were substituted “A”;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (6) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that waste” there were substituted “Waste”;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste, must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation (within the meaning given to that expression in the European Union (Withdrawal) Act 2018) setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first sub-paragraph were omitted;
+>   - (ii) in the second sub-paragraph for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth sub-paragraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first sub-paragraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the Natural Resources Body for Wales”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second sub-paragraph—
+>     - (aa) for “Member States” there were substituted “The Natural Resources Body for Wales”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (7) Article 7 is to be read as if—
+>
+> - (a) before paragraph 1 there were inserted—
+>
+>   > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eud/2000/0532), as that list has effect in Wales.”;
+> - (b) in paragraph 1—
+>   - (i) the first and second sentences were omitted;
+>   - (ii) for the third sentence, there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eud/2000/0532), be binding as regards determination of the wastewhich is to be considered as hazardous waste or non-hazardous waste.”;
+> - (c) paragraphs 2, 3, 6 and 7 were omitted.
+>
+> (8) Article 19 is to be read as if—
+>
+> - (a) in paragraph 1, for “Community” there was substituted “ national ”;
+> - (b) in paragraph 2, for “a Member State” there were substituted “ Wales ”.
+>
+> (9) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+>
+> (10) In paragraph (2) “**local authority**” means a county council or a county borough council.
+>
+> **2B. Meaning of the “Mining Waste Directive” ...[^key-3d8a74e7bb2e5ee4d64a35cf00b0bd2e]**
+>
+> (1) In regulation 2A(3)(a)(iii), “**the Mining Waste Directive**” means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries, read in accordance with paragraphs (2) and (3).
+>
+> (2) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2(c), the reference to Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Article read in accordance with paragraph (7) of this regulation;
+> - (b) paragraphs 3 and 4 were omitted**.**
+>
+> (3) Article 3(1) is to be read as if, for “Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Directive, as read with Articles 5 and 6 of that Directive ”.
+>
+> (4)[^key-b6ac611aebb34321d95b59d7f5c91420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (5)[^key-b6ac611aebb34321d95b59d7f5c91420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (6)[^key-b6ac611aebb34321d95b59d7f5c91420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (7) For the purposes of paragraph (2)(a), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
+>
+> - (a) the first reference to “Member States” were a reference to the appropriate authority;
+> - (b) at the end, there were inserted—
+>
+>   > and “**environmental objectives**”, in relation to a river basin district within the meaning of the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017, has the same meaning as in those Regulations
+>
+>   .
+
+(4) In regulation 5(1)—
+
+- (a) in the relevant place insert—
+
+  “**appropriate authority**” (“**awdurdod priodol**”) means the Welsh Ministers, NRBW or the Agency;”;
+- (b) after the definition of “**hazardous waste**” (“**gwastraff peryglus**”) insert—
+
+  “the Landfill Directive”[^key-577fbbb94e9e396cf981d3031b4ada99] *(“y Gyfarwyddeb Dirlenwi”)* means Council [Directive 1999/31/EC](https://www.legislation.gov.uk/eudr/1999/0031) on the landfill of waste, as last amended by Directive (EU) 2018/850, and read as if—
+
+  - (a) in Article 2—
+    - (i) in point (a)—
+      - (aa) the reference to the definition of ‘waste’ were omitted; and
+      - (bb) for “[Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” there were substituted “the Waste Framework Directive”;
+    - (ii) after point (a) there were inserted—
+
+      > - (aa) ‘waste’ has the meaning given by regulation 2(1)(b) of the Hazardous Waste (Wales) Regulations 2005
+
+      ;
+  - (b) in Article 3—
+    - (i) in paragraph 2, for “Without prejudice to existing Community legislation the” there were substituted “The”;
+    - (ii) for paragraph 3 there were substituted—
+
+      > **3.** The management of extractive waste, within the meaning given in regulation 2(1) of the Environmental Permitting Regulations, is excluded from the scope of this Directive where it falls within the scope of Schedule 20, or paragraph 8(a) or (b) of Schedule 22, to those Regulations.
+
+(5) In regulation 8—
+
+- (a) in paragraph (2)—
+  - (i) omit the words from “by the Secretary of State” to “may be,”;
+  - (ii) for “Article 7(2) of the Waste Directive” substitute “ paragraph (3) ”;
+- (b) after paragraph (2) insert—
+
+  > (3) For the purposes of paragraph (2), a specific batch of waste is determined to be hazardous—
+  >
+  > - (a) in relation to England if—
+  >   - (i) of a type listed in regulations made under section 62A(2) of the 1990 Act;
+  >   - (ii) it is the subject of a determination by the Secretary of State under regulation 8 of the Hazardous Waste (England and Wales) Regulations 2005 [^c23613521];
+  > - (b) in relation to Northern Ireland, it is the subject of a determination by the Department of Agriculture, Environment and Rural Affairs under regulation 9 of the Hazardous Waste Regulations (Northern Ireland) 2005 [^c23613531];
+  > - (c) in relation to Scotland, it is the subject of a determination by the Scottish Ministers, because the Scottish Ministers consider that the waste displays one or more of the hazardous properties listed in Annex III.
+
+  .
+
+(6) In regulation 9—
+
+- (a) in paragraph (2)—
+  - (i) omit the words from “by the Secretary of State” to “may be,”;
+  - (ii) for “Article 7(2) of the Waste Directive” substitute “ paragraph (3) ”;
+- (b) after paragraph (2) insert—
+
+  > (3) For the purposes of paragraph (2), a specific batch of waste is determined to be non-hazardous if it is the subject of a decision—
+  >
+  > - (a) in relation to England, by the Secretary of State under regulation 9 of the Hazardous Waste (England and Wales) Regulations 2005;
+  > - (b) in relation to Northern Ireland, by the Department of Agriculture, Environment and Rural Affairs under regulation 10 of the Hazardous Waste Regulations (Northern Ireland) 2005;
+  > - (c) in relation to Scotland, by the Scottish Ministers that the Scottish Ministers consider that the waste displays none of the hazardous properties listed in Annex III.
+
+  .
+
+(7) In regulations 47(5B) and 48(6B) [^key-de21bdac935044664a1370df35792035]..., for “Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste as last amended by Council Directive 2011/97/EU” substitute “ the Landfill Directive ”.
+
+(8) In regulation 60(1), in the words before sub-paragraph (a), omit from “and” to “Directive”.
+
+### 9. The Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011[^key-7e739fd86cba56df2150f4a51fac2c1a]
+
+(1) The Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011 [^c23613541] are amended as follows.
+
+(2) In regulation 2(1), in the definition of “**the Waste Framework Directive**” [^key-a1621931535607dcd690542d8373a3b9]..., at the end, insert “ and read in accordance with paragraphs (3) to (8) ”.
+
+(3) After regulation 2(2)[^key-3813afceeb2b956e4c8ebc226b5b948a] insert—
+
+> (3) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^key-348e8c170fc9ebbd2dc8c960beeb12d2], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+>
+> (4) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2—
+>   - (i) in the words before point (a), for “other Community legislation” there were substituted “ retained EU law ”;
+>   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
+>   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there substituted “ the Mining Waste Directive (see regulation 2A) ”;
+> - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
+> - (c) paragraph 4 were omitted.(5) Article 5 is to be read as if paragraph 2 were omitted.
+>
+> (5)[^key-aaeba8eb57306dff73a0bb3038c8a233] Article 5 is to be read as if—
+>
+> - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that a” there were substituted “A”;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+>   >
+>   > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+>   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.
+>
+>   ;
+> - (c) paragraphs 2 and 3 were omitted.
+>
+> (6) Article 6 is to be read as if—
+>
+> - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that waste” there were substituted “Waste”;
+> - (b) after paragraph 1 there were inserted—
+>
+>   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+>   >
+>   > - (a) in accordance with any regulations or retained direct EU legislation (within the meaning given to that expression in the European Union (Withdrawal) Act 2018 setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+>   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural resources Body for Wales for the purposes of this Article.
+>
+>   ;
+> - (c) in paragraph 2—
+>   - (i) the first sub-paragraph were omitted;
+>   - (ii) in the second sub-paragraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+>   - (iii) the third and fourth sub-paragraphs were omitted;
+> - (d) paragraph 3 were omitted;
+> - (e) in paragraph 4—
+>   - (i) in the first sub-paragraph—
+>     - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the Natural Resources Body for Wales”;
+>     - (bb) the second sentence were omitted;
+>   - (ii) in the second sub-paragraph—
+>     - (aa) for “Member States” there were substituted “The Natural Resources Body for Wales”;
+>     - (bb) “by competent authorities” were omitted.
+>
+> (7) Article 7 is to be read as if—
+>
+> - (a) before paragraph 1 there were inserted—
+>
+>   > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eud/2000/0532), as that list has effect in Wales.
+>
+>   ;
+> - (b) in paragraph 1—
+>   - (i) the first and second sentences were omitted;
+>   - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eud/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+> - (c) paragraphs 2, 3, 6 and 7 were omitted.
+>
+> (8) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+
+(4) After regulation 2, insert—
+
+> **2A. Meaning of “the Mining Waste Directive” in regulation 2**
+>
+> (1) In regulation 2(4)(a)(iii), “**the Mining Waste Directive**” means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries, read in accordance with subsections (2) to (4).
+>
+> (2) Article 2 is to be read as if—
+>
+> - (a) in paragraph 2(c), the reference to Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Article read in accordance with subsection (4);
+> - (b) paragraphs 3 and 4 were omitted.
+>
+> (3) Article 3(1) is to be read as if, for “Article 1(a) of Directive [75/442/EC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive ”.
+>
+> (4) For the purposes of paragraph (2)(a), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
+>
+> - (a) the first reference to “Member States” were a reference to the Welsh Ministers or the Natural Resources Body for Wales;
+> - (b) at the end, there were inserted—
+>
+>   > and “**environmental objectives**”, in relation to a river basin district within the meaning of the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 has the same meaning as in those Regulations.
+>
+>   .
+
+Hannah Blythyn
+
+Deputy Minister for Housing and Local Government,
+
+*(This note is not part of the Regulations)*
+
+These Regulations (except Part 2) are made in exercise of the powers in paragraph 1(1) of Schedule 2 to the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies in retained EU law arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations make amendments to legislation in the field of waste. Part 3 amends primary legislation and Part 4 amends subordinate legislation.
+
+Part 2 of these Regulations is made in exercise of the powers in section 2(2) of the European Communities Act 1972 (c. 68), and update references to Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste (OJ No L 312, 22.11.2008, p 3) and Directive [1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste (OJ No L 182, 16.07.1999, p1).
+
+The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^c23613211]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [section 27(1)(a)](https://www.legislation.gov.uk/ukpga/2006/51/section/27/1/a) and the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), the Schedule, Part 1. It is prospectively repealed by the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [section 1](https://www.legislation.gov.uk/ukpga/2018/16/section/1) from exit day (see [section 20](https://www.legislation.gov.uk/ukpga/2018/16/section/20) of that Act).
+
+[^c23613221]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23613231]: Marginal citation: By virtue of section 59(2) of the Government of Wales Act 2006, the Welsh Ministers may exercise the power conferred by section 2(2) of the European Communities Act 1972 in relation to any matter, or for any purpose, if they have been designated in relation to that matter or for that purpose.
+
+[^c23613241]: Marginal citation: [S.I. 2005/850](https://www.legislation.gov.uk/uksi/2005/850), to which there is an amendment not relevant to these Regulations. By virtue of paragraph 28(1) of Schedule 11 to the Government of Wales Act 2006, [S.I. 2005/850](https://www.legislation.gov.uk/uksi/2005/850) has effect as if made under section 59(1) of that Act.
+
+[^c23613251]: Marginal citation: [S.I.2010/1552](https://www.legislation.gov.uk/uksi/2010/1552).
+
+[^key-ef6b2174b4514aa3b502b3892b186d73]: Commencement: Reg. 1 in force at 22.3.2019, see reg. 1(2)(a)
+
+[^key-074519ab524d193ac3117de644a16941]: Commencement: Reg. 2 in force at 22.3.2019, see reg. 1(2)(a)
+
+[^c23613261]: Marginal citation: 2010 nawm 8, to which there are amendments not relevant to these Regulations.
+
+[^c23613271]: Marginal citation: OJ No L 328, 10.12.2011, p 49.
+
+[^c23613281]: Marginal citation: OJ No L 150, 14.6.2017, p 1.
+
+[^key-2084c98f9ce938a63cdced3d3f88152f]: Commencement: Reg. 3 in force at 22.3.2019, see reg. 1(2)(a)
+
+[^c23613291]: Marginal citation: [S.I. 2004/1490](https://www.legislation.gov.uk/uksi/2004/1490) (W. 155), as amended by [S.I. 2011/971](https://www.legislation.gov.uk/uksi/2011/971) (W. 141); there are other amending instruments but none is relevant to these Regulations.
+
+[^key-732708d4deecd437bdb101e6a70633c7]: Commencement: Reg. 4 in force at 22.3.2019, see reg. 1(2)(a)
+
+[^c23613301]: Marginal citation: [S.I. 2005/1806](https://www.legislation.gov.uk/uksi/2005/1806) (W. 138), as amended by [S.I. 2011/971](https://www.legislation.gov.uk/uksi/2011/971) (W. 141) and [S.I. 2018/721](https://www.legislation.gov.uk/uksi/2018/721) (W. 140); there are other amending instruments but none is relevant to these Regulations.
+
+[^key-a25f2cb8b013231b9140e2bbb650f6ba]: Commencement: Reg. 5 in force at 22.3.2019, see reg. 1(2)(a)
+
+[^c23613311]: Marginal citation: [S.I. 2011/1014](https://www.legislation.gov.uk/uksi/2011/1014) (W. 152), amended by [S.I. 2016/691](https://www.legislation.gov.uk/uksi/2016/691) (W. 189); there are other amending instruments but none is relevant to these Regulations.
+
+[^key-16f0d05004b983f3e447822f32e60060]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23613321]: Marginal citation: 2010 nawm 8. Section 9A was inserted by the Environment (Wales) Act 2016, s 67.
+
+[^key-0cdc04a81bdd389bb7dabed3335e60b0]: Textual amendment: Reg. 6(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/a)
+
+[^key-ed65d0191d525df2c486b42caf8eecb4]: Textual amendment: Reg. 6(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/b)
+
+[^key-a7511749bf2090bc733281eb3c10a219]: Textual amendment: Words in reg. 6(4)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(c)(i)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/c/i)
+
+[^key-661f897827b51a9f49fc10a28e0c7a97]: Textual amendment: Words in reg. 6(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(c)(ii)(aa)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/c/ii/aa)
+
+[^key-872768019048424e18de883c76b302b4]: Textual amendment: Words in reg. 6(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(c)(ii)(bb)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/c/ii/bb)
+
+[^c23613381]: Marginal citation: OJ No L 102, 11.4.2006, p 15, as amended by Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ No L 118, 18.7.2009, p 14).
+
+[^c23613391]: Marginal citation: OJ No L 327, 22.12.2000, p 1, as last amended by Commission Directive 2014/101/EU (OJ No L 311, 31.10.2014, p 32).
+
+[^c23613401]: Marginal citation: [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), to which there are amendments not relevant to these Regulations.
+
+[^key-c5e93a44efc9dc7aea81f6a78f41e153]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23613411]: Marginal citation: [S.I. 2004/1490](https://www.legislation.gov.uk/uksi/2004/1490) (W.155).
+
+[^key-b7061cf82ecdbd019992c97f350b915f]: Textual amendment: Reg. 7(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/a)
+
+[^key-330222415bceb95d07bebd07554c7c8f]: Textual amendment: Reg. 7(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/b)
+
+[^key-d0c33649cbb19b9d1700ee6b644aac3b]: Textual amendment: Words in reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(c)(i)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/c/i)
+
+[^key-c26a12eacb575b71d454c742d4911c14]: Textual amendment: Words in reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/c/ii)
+
+[^key-45ef411e4864b8bef87d305b40fcf223]: Textual amendment: Words in reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(c)(iii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/c/iii)
+
+[^key-2897b66234fd01fc07764f0fa3c84226]: Textual amendment: Words in reg. 7(6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(d)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/d)
+
+[^key-d816f933f5595d586c79e83b59a0901a]: Textual amendment: Reg. 7(7) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(e)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/e)
+
+[^key-163c6687126413a52aca4efe11a59aab]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23613451]: Marginal citation: [S.I. 2005/1806](https://www.legislation.gov.uk/uksi/2005/1806) (W.138).
+
+[^key-bbbe5c2cbfe5e8cadd4757e60b1c64b7]: Textual amendment: Words in reg. 8(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(i)(aa)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/i/aa)
+
+[^key-cf5d60ca6ba5cc2dac4eb1182b001bfc]: Textual amendment: Words in reg. 8(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(i)(bb)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/i/bb)
+
+[^key-197e0df510fa4c669861ffa03a79df53]: Textual amendment: Words in reg. 8(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(i)(cc)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/i/cc)
+
+[^key-3d8a74e7bb2e5ee4d64a35cf00b0bd2e]: Textual amendment: Words in reg. 8(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(ii)(aa)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/ii/aa)
+
+[^key-b6ac611aebb34321d95b59d7f5c91420]: Textual amendment: Words in reg. 8(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(ii)(bb)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/ii/bb)
+
+[^key-577fbbb94e9e396cf981d3031b4ada99]: Textual amendment: Words in reg. 8(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/b)
+
+[^c23613521]: Marginal citation: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), 2015/1360, 2016/738, 2018/575.
+
+[^c23613531]: Marginal citation: S.R. [2005 No. 300](https://www.legislation.gov.uk/ukcm/2005/300); relevant amending instruments are S.R [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127) and S.R [2015 No. 288](https://www.legislation.gov.uk/ukcm/2015/288).
+
+[^key-de21bdac935044664a1370df35792035]: Textual amendment: Words in reg. 8(7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(c)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/c)
+
+[^key-7e739fd86cba56df2150f4a51fac2c1a]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+
+[^c23613541]: Marginal citation: [S.I. 2011/1014](https://www.legislation.gov.uk/uksi/2011/1014) (W.152), amended by [S.I.2016/691](https://www.legislation.gov.uk/uksi/2016/691) (W.189); there are other amending instruments but none is relevant.
+
+[^key-a1621931535607dcd690542d8373a3b9]: Textual amendment: Words in reg. 9(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/a)
+
+[^key-3813afceeb2b956e4c8ebc226b5b948a]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(b)(i)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/b/i)
+
+[^key-348e8c170fc9ebbd2dc8c960beeb12d2]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/b/ii)
+
+[^key-aaeba8eb57306dff73a0bb3038c8a233]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(b)(iii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/b/iii)

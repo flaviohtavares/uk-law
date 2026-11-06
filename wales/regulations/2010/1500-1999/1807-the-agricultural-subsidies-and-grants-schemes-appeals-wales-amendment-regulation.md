@@ -1,0 +1,116 @@
+---
+title: The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010
+id: wsi/2010/1807
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-07-13'
+text_date: '2010-12-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2010/1807
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2010/1807/pdfs/wsi_20101807_mi.pdf
+- http://www.legislation.gov.uk/wsi/2010/1807/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010
+
+> Text as at 2010-12-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 1807 (W.175)
+
+AGRICULTURE, WALES
+
+The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010
+
+Made
+
+13 July 2010
+
+Laid before the National Assembly for Wales
+
+15 July 2010
+
+Coming into force
+
+9 August 2010
+
+The Welsh Ministers are designated [^c20393481] for the purposes of section 2(2) of the European Communities Act 1972 [^c20393491] in relation to the common agricultural policy of the European Union.
+
+These Regulations and the Regulations they amend, the Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006 (“**the principal Regulations**”), make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972. References are made to EU instruments in the Schedule to the principal Regulations. It appears to the Welsh Ministers that it is expedient for any reference in the principal Regulations to EU instruments to be construed as a reference to those instruments as amended from time to time.
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972.
+
+## 1. Title, application, commencement
+
+(1) The title of these Regulations is the Agricultural Subsidies and Grants Schemes (Appeals) (Wales) (Amendment) Regulations 2010.
+
+(2) These Regulations apply in relation to Wales, and come into force on 9 August 2010.
+
+## 2. Amendments to the Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006
+
+(1) The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006 [^c20393501] are amended in accordance with this regulation.
+
+(2) In regulation 2(1) and in the Schedule replace references to “Community legislation” with references to “EU legislation”.
+
+(3) In regulation 2(2) replace the reference to “a Community instrument” with a reference to “an EU instrument”.
+
+(4) In the Schedule after paragraph (12) add—
+
+> **13.**
+>
+> Commission Regulation [(EC) No 1857/2006](https://www.legislation.gov.uk/european/regulation/2006/1857) of 15 December 2006 on the application of Articles 87 and 88 of the Treaty to State aid to small and medium-sized enterprises active in the production of agricultural products and amending Regulation [(EC) No 70/2001](https://www.legislation.gov.uk/european/regulation/2001/0070) [^c20393511].
+>
+> **14.**
+>
+> Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers [^c20393521].
+>
+> **15.**
+>
+> Commission Regulation [(EC) No 1120/2009](https://www.legislation.gov.uk/european/regulation/2009/1120) of 29 October 2009 laying down detailed rules for the implementation of the single payment scheme provided for in Title III of Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers [^c20393531].
+>
+> **16.**
+>
+> Commission Regulation [(EC) No 1121/2009](https://www.legislation.gov.uk/european/regulation/2009/1121) of 29 October 2009 laying down detailed rules for the application of Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) as regards the support schemes for farmers provided for in Titles IV and V thereof [^c20393541].
+>
+> **17.**
+>
+> Commission Regulation [(EC) No 1122/2009](https://www.legislation.gov.uk/european/regulation/2009/1122) of 30 November 2009 laying down detailed rules for the implementation of Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) as regards cross-compliance, modulation and the integrated administration and control system, under the direct support schemes for farmers provided for that Regulation, as well as for the implementation of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards cross-compliance under the support scheme provided for the wine sector [^c20393551].
+
+.
+
+Elin Jones
+
+Minister for Rural Affairs, one of the Welsh Ministers
+
+*(This note is not part of the Regulations)*
+
+These Regulations make further amendments to the Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006, S.I. 2006/3342 (W. 303). The amendments replace the references to “Community legislation” with references to “EU legislation”(European Union legislation), and update the list of such legislation in S.I. 2006/3342 (W. 303) as amended by S.I. 2007/2900 (W. 251).
+
+A Regulatory Impact Assessment has not been prepared as the amendments covered by these Regulations relate to existing arrangements for appeals.
+
+## Annotations
+
+[^c20393481]: Marginal citation: [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766). By virtue of sections 59 and 162 of, and paragraphs 28 and 30 of Schedule 11 to, the Government of Wales Act 2006, functions conferred upon the National Assembly for Wales are exercisable by the Welsh Ministers.
+
+[^c20393491]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c20393501]: Marginal citation: [S.I. 2006/3342](https://www.legislation.gov.uk/uksi/2006/3342) (W. 303), as amended by [S.I. 2007/2900](https://www.legislation.gov.uk/uksi/2007/2900) (W. 251).
+
+[^c20393511]: Marginal citation: O.J. No L 358, 16.12.2006, p.3.
+
+[^c20393521]: Marginal citation: O.J. No L 30, 31.1.2009, p.16.
+
+[^c20393531]: Marginal citation: O.J. No L 316, 2.12.2009, p. 1.
+
+[^c20393541]: Marginal citation: O.J. No L 316, 2.12.2009, p. 27.
+
+[^c20393551]: Marginal citation: O.J. No L 316, 2.12.2009, p. 65.

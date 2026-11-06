@@ -1,0 +1,38 @@
+---
+title: Environment (Wales) Act 2016, section 16
+act: Environment (Wales) Act 2016
+section: '16'
+status: revised-with-pending-changes
+text_date: '2026-06-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2016/3/section/16
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environment (Wales) Act 2016, section 16
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-06-27. See https://www.legislation.gov.uk/changes/affected/anaw/2016/3
+>
+> Extent: England, Wales.
+
+## 16. Power to enter into land management agreements
+
+*Extent: E+W*
+
+(1) NRW may make an agreement with a person who has an interest in land in Wales about the management or use of the land (a “land management agreement”), if doing so appears to it to promote the achievement of any objective it has in the exercise of its functions.
+
+(2) A land management agreement may, among other things—
+
+- (a) impose on the person who has an interest in the land obligations in respect of the use of the land;
+- (b) impose on the person who has an interest in the land restrictions on the exercise of rights over the land;
+- (c) provide for the carrying out of such work as may be expedient for the purposes of the agreement by any person or persons;
+- (d) provide for any matter for which a management scheme relating to a site of special scientific interest provides (or could provide);
+- (e) provide for the making of payments by either party to the other party or to any other person;
+- (f) contain incidental and consequential provision.
+
+(3) In this section—
+
+- “**interest in land**” (“***buddiant mewn tir***”) includes any estate in land and any right over land, whether the right is exercisable by virtue of ownership of an interest in land or by virtue of a licence or agreement, and in particular includes sporting rights;
+- “**management scheme**” (“***cynllun rheoli***”) has the meaning given by Part 2 of the Wildlife and Countryside Act 1981 (c. 69) (see section 28J);
+- “**site of special scientific interest**” (“***safle o ddiddordeb gwyddonol arbennig***”) has the meaning given by Part 2 of the Wildlife and Countryside Act 1981 (see section 52(1)).

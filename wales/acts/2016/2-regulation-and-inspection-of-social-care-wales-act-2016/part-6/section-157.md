@@ -1,0 +1,76 @@
+---
+title: Regulation and Inspection of Social Care (Wales) Act 2016, section 157
+act: Regulation and Inspection of Social Care (Wales) Act 2016
+section: '157'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2016/2/section/157
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulation and Inspection of Social Care (Wales) Act 2016, section 157
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 157. Decisions in review cases: notification and taking effect[^key-396e3cda86b2cdfef4c97ce2b5e6ec22]
+
+*Extent: E+W*
+
+(1) Where a fitness to practise panel disposes of a review case in any of the ways specified in sections 152 to 155, SCW must give notice to the registered person of the decision as to the disposal of the case.
+
+(2) In any case where the disposal follows a finding as to impairment of fitness to practise, the notice given to the registered person must include—
+
+- (a) a statement of facts found by the panel, and
+- (b) the panel's reasons for its finding.
+
+(3) A decision to dispose of a review case in any of the ways specified in sections 152 to 155, except those disposals specified in subsection (4), takes effect immediately.
+
+(4) Subsection (5) applies where a fitness to practise panel disposes of a review case in any of the ways specified in—
+
+- (a) section 152(8),
+- (b) section 153(6), (7) or (9),
+- (c) section 154(6), (7), (8) or (10), or
+- (d) section 155(9) or (10).
+
+(5) SCW must also give notice to the registered person of the right of appeal under section 158 against the decision.
+
+(6) A decision to dispose of a review case in any of the ways specified in subsection (4) does not take effect until—
+
+- (a) the end of the period of 28 days beginning with the day on which the registered person was notified of the decision, or
+- (b) if an appeal is made within that period, the appeal is withdrawn, discontinued or dismissed.
+
+(7) Subsection (8) applies where—
+
+- (a) a registered person is subject to a conditional registration order under section 138(7), 152(8)(c), 153(6) or (7), 154(8)(c) or 155(10)(c), and
+- (b) a fitness to practise panel disposes of a review case in any of the ways specified in section 153(6), (7) or (9)(c) or (d) (“the decision”).
+
+(8) The registered person's conditional registration under the order as mentioned in subsection (7)(a) continues to have effect until—
+
+- (a) the decision takes effect in accordance with subsection (6), or
+- (b) an appeal against the decision is upheld,
+
+despite the fact that, were it not for this subsection, the conditional registration would cease to have effect before that date.
+
+(9) Where a registered person is subject to a conditional registration order as mentioned in subsection (7)(a) and a fitness to practise panel disposes of a review case by extending the period of the conditional registration order under section 153(7)(c) that extended period of conditional registration is to be treated as having started on the date on which the previous period of conditional registration would, were it not for subsection (8), have ceased to have had effect.
+
+(10) Subsection (11) applies where—
+
+- (a) a registered person is subject to a suspension order under section 138(8), 152(8)(d), 153(9)(c) or 154(6) or (7), or an indefinite suspension order under section 154(10) or 155(9), and
+- (b) a fitness to practise panel disposes of a review case in any of the ways specified in section 154(6), (7), (8)(c) or (d) or (10) or 155(10)(c) (“the decision”).
+
+(11) The registered person's suspension under the order as mentioned in subsection (10)(a) continues to have effect until—
+
+- (a) the decision takes effect in accordance with subsection (6), or
+- (b) an appeal against the decision is upheld,
+
+despite the fact that, were it not for this subsection, the suspension would cease to have effect before that date.
+
+(12) Where a registered person is subject to a suspension order under section 138(8), 152(8)(d), 153(9)(c) or 154(6) or (7) and a fitness to practise panel disposes of a review case by extending the period of the suspension order under section 154(7)(a) that extended period of suspension is to be treated as having started on the date on which the previous period of suspension would, were it not for subsection (11), have ceased to have had effect.
+
+## Annotations
+
+[^key-396e3cda86b2cdfef4c97ce2b5e6ec22]: Commencement: [S. 157](https://www.legislation.gov.uk/anaw/2016/2/section/157) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

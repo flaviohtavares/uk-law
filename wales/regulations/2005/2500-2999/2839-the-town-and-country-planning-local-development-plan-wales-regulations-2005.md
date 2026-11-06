@@ -1,0 +1,1089 @@
+---
+title: The Town and Country Planning (Local Development Plan) (Wales) Regulations 2005
+id: wsi/2005/2839
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-10-11'
+text_date: '2022-02-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2005/2839
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2005/2839/pdfs/wsi_20052839_mi.pdf
+- http://www.legislation.gov.uk/wsi/2005/2839/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Local Development Plan) (Wales) Regulations 2005
+
+> Text as at 2022-02-28.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2005 No. 2839 (W.203)
+
+TOWN AND COUNTRY PLANNING, WALES
+
+The Town and Country Planning (Local Development Plan) (Wales) Regulations 2005
+
+Made
+
+11 October 2005
+
+Coming into force
+
+15 October 2005
+
+The National Assembly of Wales (“the National Assembly”), in exercise of the powers conferred upon it by sections 62(4) and (5)(g), 63(3)(a), 63(7), 64(3), 69, 72(7), 76(2) and (3) and 77 of the Planning and Compulsory Purchase Act 2004 (“the Act”)[^f00001] and paragraph 5(2) of Schedule 4A to the Town and Country Planning Act 1990[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-7332b7153936aa88e08c574dcc925729]
+
+## PART 1 — GENERAL
+
+### 1. Title, commencement and application[^key-1acdf8de36873a7e82bc34bc53bdbb5a]
+
+(1) These Regulations may be called the Town and Country Planning (Local Development Plan) (Wales) Regulations 2005 and come into force on 15 October 2005.
+
+(2) These Regulations apply in relation to Wales.
+
+### 2. Interpretation[^key-5a114ee6529e47920324a35dcfa3976b]
+
+(1) In these Regulations—
+
+- “address”, (“*cyfeiriad*”) in relation to electronic communications, means any number or address used for the purposes of such communications;
+- “adoption statement” (“*datganiad mabwysiadu*”) means a statement—
+  - (a) of the date on which an LDP is adopted;
+  - (b) that a person aggrieved by the LDP may make an application to the High Court under section 113; and
+  - (c) of the grounds on, and the time within which such an application may be made;
+- [^key-c424e4d7d1b0d31bd8e329f6c2e59976]...
+- “candidate sites register” (“[^key-e2ba170b8a97a04a03d761614b42fe8e]*cofrestr y safleoedd ymgeisiol*”) means the list of sites prepared in accordance with regulation 14(4) or 26A(8);
+- “decision statement” (“*datganiad penderfynu*”) means—
+  - (a) a statement that the National Assembly has decided to approve, approve subject to modifications, or reject an LDP (as the case may be);
+  - (b) where the National Assembly decides to approve an LDP, or to approve an LDP subject to modifications, a statement—
+    - (i) of the date on which the LDP is adopted,
+    - (ii) that a person aggrieved by the LDP may make an application to the High Court under section 113, and
+    - (iii) of the grounds on, and the time within which such an application may be made;
+- “delivery agreement” (“*cytundeb cyflawni*”) means the agreed community involvement scheme together with the agreed timetable referred to in section 63(1);
+- “deposit matters” (“*materion adneuo*”) means—
+  - (a) the title of the LDP;
+  - (b) the period within which representations about the LDP must be made in accordance with regulation 18 or 26C[^key-6d52d4830edc811bd224e5b6d8fd5ebc];
+  - (c) the address to which and, where appropriate, the person to whom representations (whether made by way of electronic communications or otherwise) must be sent in accordance with regulation 18 or 26C, as the case may be[^key-30eb803f96de37b2e4310b42fcc55c5a];
+  - (d) a statement that representations may be accompanied by a request to be notified at a specified address of the publication of the recommendations of the person appointed to carry out an examination under section 64 or the adoption of the LDP or both;
+- “disabled person” (“*person anabl*”) has the meaning given by section 1(2) of the Disability Discrimination Act 1995[^f00003];
+- “electronic communication” (“*cyfathrebiad electronig*”) has the meaning given by section 15(1) of the Electronic Communications Act 2000[^f00004];
+- “electronic communications apparatus” (“*offer cyfathrebu electronig*”) has the meaning given by paragraph 5[^key-64cecbd10da8d1e6b020a30c94530cec] of the electronic communications code[^f00005];
+- “electronic communications code” (“*cod cyfathrebu electronig*”) has the same meaning as in section 106(1) of the Communications Act 2003[^f00006];
+- “emerging LDP” (“CDLl sydd wrthi’n ymddangos”) means—
+  - (a) a document proposed as an LDP, made available pursuant to regulations 15, 17 or 22(1);
+  - (b) a document proposed as a revision of an LDP made available pursuant to regulations 15, 17, 22(1) or 26B,
+
+  in either case which has not been adopted either by the LPA under section 67, or approved by the Welsh Minsters under section 65 or 71(4);
+- “general consultation bodies” (“*cyrff ymgynghori cyffredinol*”) means—
+  - (a) voluntary bodies, some or all of whose activities benefit any part of the LPA’s area;
+  - (b) bodies which represent the interests of different racial, ethnic or national groups in the LPA’s area;
+  - (c) bodies which represent the interests of different religious groups in the LPA’s area;
+  - (d) bodies which represent the interests of disabled persons in the LPA’s area;
+  - (e) bodies which represent the interests of persons carrying on business in the LPA’s area; and
+  - (f) bodies which represent the interests of Welsh culture in the LPA’s area;
+- “initial consultation report” (“*adroddiad ymgynghori cychwynnol*”) means the report of the LPA prepared pursuant to regulations 14 to 16A or regulation 26A(4), whichever is required[^key-dc256c9db53a0d727c73d91f4c31deab];
+- “inspection” (“*arolygu*”) means inspection by the public;
+- “LDP” (“*CDLl*”) means a local development plan;
+- “LDP documents” (“*dogfennau CDLl*”) means—
+  - (a) the deposit LDP;
+  - (b) the sustainability appraisal report;
+  - (c) the initial consultation report;
+  - (d) such supporting documents as in the opinion of the LPA are relevant to the preparation of the LDP;
+  - (e) any relevant review report;[^key-96d27206fb91a6c03cf7df64089cf30b]
+  - (f) any candidate sites register
+- “LPA” (“*ACLl*”) means the local planning authority;
+- “National Assembly” (“*Cynulliad Cenedlaethol*”) means the National Assembly for Wales;
+- “Ordnance Survey map” (“*map yr Arolwg Ordnans*”) means a map produced by Ordnance Survey or a map on a similar base at a registered scale;
+- “person appointed” (“*person a benodwyd*”) means a person appointed by the National Assembly under section 64(4) to carry out an independent examination;
+- “pre-deposit proposals documents” (“*dogfennau cynigion cyn-adneuo*”) means the LPA’s preferred strategy, options and proposals for the LDP and the implications of these, with earlier alternatives and implications made explicit the candidate sites register and any review report,[^key-b41b9d592517ea87387e3f2a1cd2fa34] , together with such supporting documents as in the opinion of the LPA are relevant to those documents;
+- “pre-deposit matters” (“*materion cyn-adneuo*”) means—
+  - (a) the title of the LDP;
+  - (b) the period within which representations on the proposals may be made in accordance with regulation 16(2)(a);
+  - (c) the address to which and, where appropriate, the person to whom representations (whether made by way of electronic communications or otherwise) must be sent in accordance with regulation 16(2)(b);
+  - (d) a statement that any representations may be accompanied by a request to be notified at a specified address that the LDP has been submitted to the National Assembly for independent examination under section 64 and of the adoption of the LDP;
+- “relevant authority” (“*awdurdod perthnasol*”) means—
+  - (a) an LPA;
+  - (b) a community council;
+- “review report” (“*adroddiad adolygu*”) means a report prepared pursuant to section 69 or regulation 41(4).
+- [^key-c0054ac937e3f7e37fe06c2c44d037be]...
+- [^key-c0054ac937e3f7e37fe06c2c44d037be]...
+- “specific consultation bodies” (“*cyrff ymgynghori penodol*”) means the bodies specified or described in paragraphs (a) to (g)[^key-68edd177372ed01f80b35c8f8c83184b] of this definition;
+  - (a) the Natural Resources Body for Wales[^key-dc7cbcdf355139a1c633dea9a25dbb52] ,
+  - (b) Network Rail Infrastructure Limited;[^key-6c7f78dc4a4ebbf7b0a39c11dbdd2580]
+  - (b) [^key-3aa1b951f7629f6c1edc24c1feb848e4]...
+  - (c) insofar as the Secretary of State exercises functions previously exercisable by the Strategic Rail Authority, the Secretary of State,
+  - (d) the National Assembly,
+  - (e) a relevant authority any part of whose area is in or adjoins the area of the LPA,
+  - (f) any person—
+    - (i) to whom the electronic communications code applies by virtue of a direction given under section 106(3)(a) of the Communications Act 2003, and
+    - (ii) who owns or controls electronic communications apparatus situated in any part of the area of the LPA (where known),
+  - (g) if it exercises functions in any part of the LPA’s area—
+    - (i) a Local Health Board[^f00009],
+    - (ii) a person to whom a licence has been granted under section 6(1)(b) or (c) of the Electricity Act 1989[^f00010],
+    - (iii) a person to whom a licence has been granted under section 7(2) of the Gas Act 1986[^f00011],
+    - (iv) a sewerage undertaker,
+    - (v) a water undertaker;
+- “sustainability appraisal report” (“*adroddiad arfarnu cynaliadwyedd*”) means the report prepared pursuant to section 62(6)(b); and includes any environmental report required under the provisions of the Environmental Assessment of Plans and Programmes (Wales) Regulations 2004[^f00012] or any re-enactment thereof;
+- “Waste Strategy for Wales” (“Strategaeth Wastraff Cymru”) means the national waste management plan within the meaning of the Waste (England and Wales) Regulations 2011, known by that name and prepared by the Welsh Ministers;[^key-41af58af605798e2644d56887132335b]
+
+(2) In these Regulations, unless otherwise stated, any reference to a section is a reference to that section of the Act and any reference to a regulation is a reference to that regulation in these Regulations.
+
+### 3. Scope of Regulations[^key-61dbe6f60df9daa4e3296928d2139036]
+
+(1)[^key-9028756f966d2a3fe8ff5813e9016d93] These Regulations have effect in relation to the revision of an LDP as they apply to the preparation of an LDP, except—
+
+- (a) regulations 5 and 7 which do not apply to the revision of an LDP;
+- (b) where an LPA proceeds in accordance with Part 4A, Part 4 does not apply other than to the extent specified in Part 4A;
+- (c) where an LPA proposes to revise its LDP and proceeds in accordance with Part 4, Part 4A does not apply.
+
+(2) Where—
+
+- (a) an LPA; or
+- (b) the National Assembly
+
+has, in relation to the preparation of a local development plan, taken any step in relation to any regulation made under the provisions of Part 6 of the Act, that step is to be regarded as having been taken pursuant to the duties imposed on the local planning authority or the National Assembly under that regulation, whether that step was taken before, on or after the day appointed for the coming into force of that regulation.
+
+### 4. Electronic communications[^key-758e32fe22c5698a7f11affd759932d4]
+
+(1) Where, within these Regulations—
+
+- (a) a person is required to—
+  - (i) send a document, a copy of a document or any notice to another person,
+  - (ii) notify another person of any matter; and
+- (b) that other person has an address for the purposes of electronic communications;
+
+the document, copy, notice or notification may be sent or made by way of electronic communications.
+
+(2) Where, within these Regulations, a person may make representations on any matter or document, those representations may be made—
+
+- (a) in writing; or
+- (b) by way of electronic communications.
+
+(3) Where—
+
+- (a) an electronic communication is used as mentioned in paragraphs (1) and (2); and
+- (b) the communication is received by the recipient outside that person’s normal office hours, it will be taken to have been received on the next working day; and, in this regulation, “working day” means a day which is not a Saturday, Sunday, Bank Holiday[^f00015] or other public holiday.
+
+## PART 2 — PRELIMINARY
+
+### 5. Community Involvement Scheme Preparation[^key-ae836a5ba92474969d31eff5c489e3de]
+
+The persons who are to be engaged in the preparation of a community involvement scheme for the purposes of section 63(7)(a)[^key-32b05ddff8270ea4e1d70f386931df00] are those general consultation bodies as appear to the LPA as having an interest in matters relating to the development in the LPA’s area.
+
+### 6. Content of Community Involvement Scheme[^key-49a280b8e907bc1ba6e6a8dcc4637e5b]
+
+A community involvement scheme must include within it the following matters—
+
+- (a) a list of all those general and specific consultation bodies to be involved in the LDP procedure;
+- (b) the principles of the LDP participation strategy to be adopted by the LPA;
+- (c) the timing of, and the method by which—
+  - (i) participation will occur at each stage of the LDP procedure, and
+  - (ii) the LPA will respond to the participation process referred to in sub-paragraph (i);
+- (d) details of how the LPA will use those responses at each stage in developing the content of its LDP.
+
+### 7. Timetable Preparation[^key-324b43b8927e4a2655b9a5607d93f8a7]
+
+The persons that must be consulted in the preparation of a timetable for the purposes of section 63(7)(a) are all the specific consultation bodies.
+
+### 8. Content of Timetable[^key-e42269a6530e633a22dfa6754041d85f]
+
+The timetable must include all key dates—
+
+- (a) specified in guidance made under section 75, which must include—
+  - (i) a definitive date for each stage of the LDP procedure up to deposit stage, and
+  - (ii) indicative dates up to adoption of the LDP,
+- (b) for the preparation and publication of—
+  - (i) the sustainability appraisal report, and
+  - (ii) the annual monitoring report.
+
+### 9. Delivery Agreement[^key-59a5f8f85471b7e261f4a5f7a85ef563]
+
+(1) A delivery agreement must consist of the community involvement scheme (prepared in accordance with regulation 6) and the timetable (prepared in accordance with regulation 8) and must be approved by resolution of the[^key-002abf91682305d3bc02b573c874eda5] LPA and then submitted to the Welsh Ministers for their agreement.
+
+(2) The National Assembly must respond within four weeks of receipt of the delivery agreement, unless it has, before the expiry of that period, notified the LPA in writing that it requires more time to consider the document.
+
+(3) If before the end of the period mentioned in paragraph (2), the National Assembly has failed to respond to the receipt by it of the delivery agreement, it will be deemed to be agreed at the end of that period.
+
+(4)[^key-10a812d5b77bedf67617194d9eaa00f8] Until such time as the Welsh Ministers agree the delivery agreement, the LPA must not take any steps under regulation 15 or 26A.
+
+(4A)[^key-10c3d77d208ecedc5891f6c29f6309f4] The LPA must notify—
+
+- (a) the specific consultation bodies; and
+- (b) such of the general consultation bodies as the LPA considers appropriate,
+
+as soon as reasonably practicable after a revision to a delivery agreement is agreed or deemed to be agreed under paragraph (3).
+
+(5) The LPA must keep the delivery agreement under regular review and any revision must comply with paragraph (1)(a) prior to being agreed with the National Assembly, and subject to paragraph (2) and (3).
+
+(6)[^key-27f7021db2453c7b8b9b2200f326e1a3] The LPA does not need to comply with a particular requirement of its community involvement scheme if it has reasonable grounds to believe that it is not likely to prejudice any person’s opportunity to be involved in the exercise of the LPA’s functions under Part 6 of the Act if it does not comply with that requirement.
+
+### 10. Availability of a Delivery Agreement[^key-61e05dfabd64a27b882791d7418a5583]
+
+(1) Where a delivery agreement takes effect in accordance with regulation 9, an LPA must—
+
+- (a) make a copy of the agreement available for inspection at its principal office during normal office hours, and
+- (b) publish the agreement on its website.
+
+(2) Where a revision to a delivery agreement takes effect under regulation 9, within 2 weeks of it taking effect, the LPA[^key-2c216975688998bc36e708f6295531d6] must incorporate the revision into the agreement made available for inspection and published under paragraph (1).
+
+## PART 3 — FORM AND CONTENT OF LDP
+
+### 11. Form and content of LDP[^key-da6800c346c60a20b7a77fe13d0fb7a5]
+
+(1) An LDP must contain a—
+
+- (a) title which must—
+  - (i) give the name of the area of the LPA for which the LDP is prepared, and
+  - (ii) indicate that it is an LDP; and
+- (b) sub-title which must indicate—
+  - (i) the date of adoption of the LDP, [^key-545a9dda9d20a3acaef5366f944a7598]...
+  - (ii)[^key-e9c9532610890b59d7dc8cc5709b7968] the date of the expiry of the period in relation to which the LDP has been prepared by the LPA; and
+  - (iii) where it is an emerging LDP, the stage reached and date of its publication.
+
+(2) An LDP must contain a reasoned justification of the policies contained in it.
+
+(3) Those parts of an LDP which comprise the policies of the LDP and those parts which comprise the reasoned justification required by paragraph (2) must be readily distinguishable.
+
+### 12. Proposals Map[^key-619851a7e6e1c239193fa9983fa324ad]
+
+(1) The LDP must contain a map (“a proposals map”) of the LPA’s area and which must—
+
+- (a) show the proposals for the development and use of land in its area;
+- (b) be reproduced from, or based on, an Ordnance Survey map; and
+- (c) show National Grid lines and reference numbers.
+
+(2) For the purposes of this regulation, a proposal is a site specific policy.
+
+(3) Policies for any part of the LPA’s area may be illustrated on a separate map on a scale larger than a proposals map (an “inset map”).
+
+(4) Where an inset map is included in an LDP, the area covered by the inset map must be identified on the proposals map and the policies for that area must be illustrated on that inset map only.
+
+(5) The title (and any sub-title) of an LDP must be set out on the proposals map and on any inset map contained in the LDP, and the proposals map and any inset map must show the scale to which it has been prepared and include an explanation of any symbol or notation used in the map.
+
+### 13. LDP : additional matters to which regard to be had[^key-deb38b9907f947cbf94aeb577cf76af3]
+
+(1) The matters (additional to those specified in sections 39 and 62(5)(a) to (f)) prescribed for the purposes of section 62(5) are—
+
+- (a) any local transport plan, the policies of which affect any part of the LPA’s area;
+- (b) any other policies prepared under section 108(1) and (2) of the Transport Act 2000[^f00016] which affect any part of the LPA’s area;
+- (c)[^key-7b52dcfb080da447b7fa059439fe6472] the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment [^key-900868f67e50c8dc8435b74ec5118039]...;
+- (d)[^key-5d363ead3bcf5c64ba3fa112131a5636] the need, in the long term—
+  - (i) to maintain appropriate safety distances between establishments and residential areas, buildings and areas of public use, recreational areas, and, as far as possible, major transport routes;
+  - (ii) to protect areas of particular natural sensitivity or interest in the vicinity of establishments, where appropriate through appropriate safety distances or other relevant measures;
+  - (iii)[^key-967161d873083517dfe27a764eba0723] in the case of existing establishments, to facilitate and encourage operators to take all necessary measures to prevent major accidents and to limit their consequences for human health and the environment.
+- (e) the Waste Strategy for Wales;
+- (f)[^key-fff6819ee16e97ec41367bb4f148462a] any marine plan adopted and published by the Welsh Ministers under Part 3 of the Marine and Coastal Access Act 2009 which affects any part of the LPA’s area; and
+- (g) any local housing strategy, the policies of which affect any part of the LPA’s area.
+
+(2) Expressions appearing both in paragraph (1) and in Directive 2012/18/EU[^key-b5a60cce7300673d3cc8bb95897a6e45] have the same meaning as in that Directive.
+
+(3) In paragraph (1)(a), “local transport plan” has the same meaning as in section 108(3) of the Transport Act 2000.
+
+**13A.**[^key-5c98ba6d61d05ef896b25e07e5a802fd] Where an LPA proposes to revise its LDP and it appears to it that the issues involved are not of sufficient significance to justify undertaking the full procedure for preparing a revision to an LDP as set out in regulations 14 to 16, they may proceed in accordance with Part 4A instead of Part 4.
+
+## PART 4 — LDP PROCEDURE
+
+### 14. Pre-deposit participation[^key-10e51aa854cc5865ed82c7dc83ac8959]
+
+(1)[^key-9a88eda6c5d8e49d945acbca2ea040ab] Before an LPA complies with regulation 15, it must, for the purpose of generating alternative strategies and options, engage—
+
+- (a) each of the specific consultation bodies to the extent that the LPA thinks that the proposed subject matter of the LDP affects those bodies; and
+- (b) such of the general consultation bodies as the LPA considers appropriate.
+
+(2)[^key-718ed1d9d16cf9e2485348328734efcd] Before an LPA complies with regulation 15, it must request nominations for sites proposed to be included in the LDP.
+
+(3) The LPA must—
+
+- (a) publish the request for nominations on its website and by such other means as it considers appropriate; and
+- (b) state in its request the date by which such nominations must be received by the LPA.
+
+(4) The LPA must prepare a list of all the sites nominated.
+
+(5) The LPA must consider any sites nominated before determining the content of the LDP deposited in accordance with regulation 17.
+
+### 15. Pre-deposit public consultation[^key-da7c668c6ee46143ef2bfad856b80e05]
+
+Before an LPA finally determines the content of a deposit LDP in accordance with regulation 17, it must—
+
+- (a) make copies of the pre-deposit proposals documents and a statement of the pre-deposit matters available for inspection during normal office hours at—
+  - (i) its principal office, and
+  - (ii) such other places within its area as the LPA considers appropriate;
+- (b) publish on its website—
+  - (i) the pre-deposit proposals documents,
+  - (ii) the pre-deposit matters,
+  - (iii) a statement of the fact that the pre-deposit proposals documents are available for inspection and the places and times at which they can be inspected;
+- (c) send to those bodies identified under regulation 14(a) and (b)—
+  - (i) the LPA’s pre-deposit proposals documents,
+  - (ii) such supporting documents as are relevant to the body to which the documents are being sent,
+  - (iii) notice of the pre-deposit matters,
+  - (iv) the statement in paragraph (b)(iii); [^key-8b904914db6f0467015e666811c3c1f6]...
+- (d)[^key-f18285d4bb366114854ce33b246ebf7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Public Consultation Representations[^key-f65e62d84404d5b5aa057e82ff778d62]
+
+(1) Any person may make representations about an LPA’s pre-deposit proposals documents.
+
+(2) Any such representations must be—
+
+- (a) made within a period of 6 weeks starting on the day the LPA complies with regulation 15(a), (c) and (d); and
+- (b) sent to the address and the person (if any) specified, pursuant to regulation 15(d).
+
+(3) An LPA must consider any representations made in accordance with paragraph (2) before finally determining the content of the LDP proposals to be made available under regulation 17.
+
+### 16A. Initial consultation report[^key-2be1d60a7df35c21b7a642b548a3a0a1]
+
+The LPA must prepare a report which must set out—
+
+- (a) which bodies it has engaged, notified or consulted pursuant to regulations 14 and 15;
+- (b) a summary of the main issues raised in, and responses from, those engagements, notifications and consultations;
+- (c) in relation to the LDP to be deposited in accordance with regulation 17—
+  - (i) how those main issues have been addressed; and
+  - (ii) the extent to which those responses have been addressed;
+- (d) the total number of representations received pursuant to regulation 16; and
+- (e) any deviation from the community involvement scheme.
+
+### 17. Deposit of Proposals[^key-503f8e912fc346d46dbf50697a9ba71e]
+
+The LPA must—
+
+- (a) make copies of the LDP documents, and a statement of the deposit matters[^key-bf7d0e978ef9ec3ef45122b85a72aa58], available for inspection during normal office hours at the places at which the pre-deposit proposals documents were made available under regulation 15(a);
+- (b) publish on its website—
+  - (i) the LDP documents,
+  - (ii) the deposit matters, and
+  - (iii) a statement of the fact that the LDP documents are available for inspection and of the places and times at which they can be inspected;
+- (c) send to each of the bodies identified at regulation 14(a) and (b), copies of—
+  - (i) the deposit LDP,
+  - (ii) the sustainability appraisal report,
+  - (iii) the initial consultation report,
+  - (iv) a list of such of the supporting documents as in the opinion of the LPA are relevant to the preparation of the LDP,
+  - (v) notice of the deposit matters, and
+  - (vi) the statement referred to in paragraph (b)(iii); [^key-b5498c04c69086b81956569c30798c42]...
+- (d)[^key-7aacf7dcafbbb13ebf0a952d89991445] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Representations on deposit proposals of LDPs[^key-5c4cfe80421b180559110f6fd6c12bb7][^key-49cb07b24419276b10379a022c2576c9]
+
+A person may make representations about an LDP by sending them to the address and person (if any) specified in the deposit matters, within the period of 6 weeks, starting on the day on which the LPA has complied with regulation 17(a) and (c).
+
+### 19. Handling of representations: deposit[^key-facbb497d666ae8287d599164db0b9d0]
+
+(1)[^key-0c114b7936e4bc828598a3a95af097b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) As soon as reasonably practicable after an LPA has received a representation on an LDP under regulation 18, it must—
+
+- (a) make a copy of the representation available at the places at which the pre-deposit proposals documents were made available under regulation 15(a);
+- (b) where practicable, publish on its website details of all representations received together with a statement of how they can be inspected in accordance with regulation 15(a).
+
+(3) An LPA need not comply with paragraph (2) if the representation is made after the period specified in regulation 18.
+
+### 20. Handling of representations : site allocation representations[^key-d17911dfbeb28391b498e38c53b8142a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Representations on a site allocation representation[^key-bc067317bcab132b0b44d1d51a1534cc][^key-695a7c059e5954bf6b6c64d6019c642e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Submission of LDP to the National Assembly[^key-2bfa18908d756e48dcf9d73e308deccc]
+
+(1) An LPA must not submit the LDP to the National Assembly unless and until it has considered any representations made under regulation 18[^key-be46baa4e7a1349b8d1f942cc8f87371].
+
+(2) The documents prescribed for the purposes of section 64(3) are—
+
+- (a) the sustainability appraisal report;
+- (b) the community involvement scheme;
+- (c) a consultation report setting out—
+  - (i) which of the bodies they have engaged or consulted pursuant to regulations 14, 15 and 17[^key-7d1b30fa6ccd15bbd52e5b5e63e2e561],
+  - (ii) a summary of the main issues raised in those engagements, consultations and representations,
+  - (iii) in respect of the main issues raised under regulation 16,[^key-f1d3e056e9db550bf28a30379977f38b] how those main issues have been addressed in the LDP,
+  - (iv) the total number of representations received pursuant to each of regulations 16 and 18[^key-bc96c5250e4be622c7e4f8766a4d48b2],
+  - (v) its recommendations as to how it considers the main issues raised in the representations received pursuant to regulation 18[^key-fcff3770f36a2a184355648abfc382a7] should be addressed in the LDP,
+  - (vi) its recommendations as to how it considers each of the representations received pursuant to regulation 18[^key-6a7550f9922be7df49f3795ac492156e] should be addressed in the LDP, and
+  - (vii) any deviation from the community involvement scheme;
+- (ca)[^key-037b6c3839e0b1d7ba1c281f50794cb8] any relevant review report;
+- (cb) any candidate sites register;
+- (d) a copy of the representations received pursuant to regulation 18[^key-03757a76eaaa6cd02a9199495aa8cd6e]; and
+- (e) such supporting documents as the LPA considers relevant to the preparation of the LDP.
+
+(3) Of the documents referred to in paragraph (2)(a) to (c) and (e)—
+
+- (a) four copies of each must be sent in paper form, and
+- (b) one copy must be sent electronically, provided that, in the case of documents mentioned or referred to in paragraph (2)(e), it would be practicable to do so.
+
+(4) Of the documents referred to in paragraph (2)(d), one copy of each must be sent in paper form.
+
+(5) The LPA must—
+
+- (a) publish a statement on its website that the LDP has been submitted for examination under section 64(1);
+- (b)[^key-6ec15e6ea00bda31a279408f699403c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) make available for inspection during normal office hours at the places at which the pre-deposit proposals documents were made available under regulation 15(a) the documents referred to in paragraph (2)(c) and (e);
+- (d) publish the documents referred to at paragraph (2)(c) and, if practicable, (2)(e) on its website;
+- (e) give notice to those persons who requested notification when the LDP is submitted to the National Assembly, that it has been so submitted.
+
+### 23. Independent examination[^key-3c2b1e4d8ebe21b8abe53c26a340f676]
+
+(1) At least six weeks before the start of the first hearing under section 64(6),[^key-bfe41dea5e58d32666cb5f956e680510] the LPA must—
+
+- (a) publish the matters referred to in paragraph (2) on its website;
+- (b) notify any person who has made (and not withdrawn) a representation in accordance with regulation 18 of those matters.[^key-0ea2c61114496d8f9179f688c598c518]
+- (c)[^key-b53a12e37f15568dfe4705f9deca1598] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The matters referred to in paragraph (1) are the—
+
+- (a) time and place at which the hearing[^key-7a0b78813cad4291c91ea8ac98e840e3] is to be held; and
+- (b) name of the person appointed to carry out the examination.
+
+(3) Before the person appointed to carry out the examination complies with section 64(7), that person must consider any representations made in accordance with regulation 18[^key-bb6c63b09012d589e25cfdd009db4b19].
+
+### 24. Publication of the recommendations of the person appointed[^key-af56935a273c4ebe46154d4bf3a55e5d]
+
+(1) The LPA must comply with section 64(8)—
+
+- (a) on or before the day on which the LDP is adopted; or
+- (b) if the National Assembly gives a direction under section 65(1) or (4) after the person appointed has complied with section 64(7), as soon as reasonably practicable after receipt of the direction.
+
+(2) When the LPA complies with section 64(8), it must—
+
+- (a) make the recommendations of the person appointed, and the reasons given for those recommendations, available for inspection during normal office hours at the places at which the pre-deposit proposals documents were made available under regulation 15;
+- (b) publish the recommendations and reasons on its website; and
+- (c) give notice to those persons who asked to be notified of the publication of the recommendations of the person appointed that they have been so published.
+
+### 25. Adoption of an LDP[^key-c83eb5bd583c01c595fbe8e8a17fef5d]
+
+(1) The LPA must adopt the LDP within eight weeks of receipt of the recommendations and reasons given by the person appointed to carry out the examination unless otherwise agreed in writing by the National Assembly.
+
+(2) As soon as reasonably practicable after the[^key-02533e497f0e6073917eef0fee2e7ea0] LPA adopts an LDP, it must—
+
+- (a) make available for inspection during normal office hours at the places at which the pre-deposit proposals documents were made available under regulation 15—
+  - (i) the LDP,
+  - (ii) an adoption statement, and
+  - (iii) the sustainability appraisal report;
+- (b) publish the adoption statement on its website;
+- (c)[^key-34dce2be036dff96951ea2ea939797a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) send the adoption statement to any person who has asked to be notified of the adoption of the LDP; and
+- (e) send four copies of the LDP and the adoption statement to the National Assembly.
+
+(3)[^key-ea7955107f2e913747a36b0113f0a30e] Where an LDP is adopted by resolution of the LPA or is approved by the Welsh Ministers under section 65 or 71, it supersedes any existing LDP which ceases to have effect.
+
+### 25A. Adoption of revisions to LDP[^key-a89809a001f48edb3c785def7d6eeaee]
+
+(1) The LPA may adopt a revised LDP, with revisions as originally prepared, if the person appointed to carry out the independent examination under section 64(4) so recommends.
+
+(2) The LPA may adopt a revised LDP with modified revisions if the person appointed to carry out the independent examination under section 64(4) so recommends.
+
+### 26. Withdrawal of an LDP[^key-0161f13c7391dc7b8da4f0afe2527be0]
+
+As soon as reasonably practicable after an LDP is withdrawn under section 66, the LPA must—
+
+- (a) publish a statement of that fact on its website;
+- (b)[^key-5f6748630efc4831cac65b6277ab91da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) notify any body to which notification was given under regulation 15(c) of that fact; and
+- (d) remove any copies, documents, matters and statements made available or published under regulations 15(a) and (b), 17(a) and (b), 19(2)(a) and (b)[^key-58fe468710ef07946873d1f8ec28c3e2]...; and
+- (e) notify any person who has made (and not withdrawn) a representation in accordance with regulation 18[^key-61c2d8324a23bd247b8850f7ab868230] of this fact.
+
+## PART 4A — Short form procedure for revisions not of sufficient significance[^key-1b6cd3842fa998ef920b99a865a73ac9]
+
+### 26A. Pre-deposit requirements
+
+(1) Before the LPA complies with regulation 26B (deposit of proposed revision), it must, for the purpose of determining the scope of the proposed revision and of generating alternative options—
+
+- (a) notify each of the bodies or persons specified in paragraph (2) of the subject of the revision to the LDP which the LPA proposes to prepare and of the review report; and
+- (b) invite each of them to make representations to the LPA about what a revision should include.
+
+(2) The bodies or persons referred to in paragraph (1) are—
+
+- (a) such of the specific consultation bodies as the LPA considers may have an interest in the proposed revision; and
+- (b) such of the general consultation bodies as the LPA considers appropriate.
+
+(3) An LPA must consider any representations made in accordance with paragraph (1) before finally determining the content of the proposed revision to be made available under regulation 26B.
+
+(4) The LPA must prepare a report of what it has done pursuant to paragraph (1).
+
+(5) Regulation 16A applies to that report as if—
+
+- (a) references to regulations 14, 15 or 16 were to this regulation; and
+- (b) references to the LDP deposited in accordance with regulation 17, were to the proposed revision deposited in accordance with regulation 26B.
+
+(6) Before the LPA complies with regulation 26B, if the proposed revision includes land identified for development, it must request nominations for sites proposed to be included in the proposed revision.
+
+(7) The LPA must—
+
+- (a) publish the request for nominations on its website and by such other means as it considers appropriate; and
+- (b) state in its request the date by which such nominations must be received by the LPA.
+
+(8) The LPA must prepare a list of all the sites nominated.
+
+(9) The LPA must consider any sites nominated before determining the content of the revision deposited in accordance with regulation 26B.
+
+### 26B. Deposit of proposed revision
+
+The LPA must—
+
+- (a) make copies of the LDP documents, and a statement of the deposit matters, available for inspection during normal office hours at—
+  - (i) its principal office; and
+  - (ii) such other places within its area as the LPA considers appropriate;
+- (b) publish on its website—
+  - (i) the LDP documents;
+  - (ii) the deposit matters; and
+  - (iii) a statement of the fact that the LDP documents are available for inspection and of the places and times at which they can be inspected; and
+- (c) send to each of the bodies identified under regulation 26A(2), copies of—
+  - (i) the deposit LDP revision;
+  - (ii) the sustainability appraisal report;
+  - (iii) the initial consultation report;
+  - (iv) a list of such supporting documents as in the opinion of the LPA are relevant to the preparation of the LDP revision;
+  - (v) notice of the deposit matters; and
+  - (vi) the statement referred to in paragraph (b)(iii).
+
+### 26C. Representations on deposit proposals of revision to LDPs
+
+A person may make representations about a proposed revision to an LDP by sending them—
+
+- (a) to the address and person (if any) specified in the deposit matters,
+- (b) within the period of 6 weeks, starting on the day on which the LPA has complied with regulation 26B(a) and (c).
+
+### 26D. Handling of representations: deposit of revision
+
+(1) As soon as reasonably practicable after the LPA has received a representation on a proposed revision to an LDP under regulation 26C, it must—
+
+- (a) make a copy of the representation available at the places at which the LDP documents were made available under regulation 26B(a);
+- (b) where practicable, publish on its website details of all representations received together with a statement that the representations are available for inspection at the places referred to in regulation 26B(a).
+
+(2) An LPA need not comply with paragraph (1) if the representation is made after the period specified in regulation 26C.
+
+### 26E. Application of regulations 22 to 26 (Submission, independent examination, publication of recommendations, adoption and withdrawal)
+
+(1) Regulations 22 to 26 apply to a revision which proceeds in accordance with this Part as they would to the preparation of an LDP, but read in accordance with the following provisions.
+
+(2) References—
+
+- (a) to regulations 14, 15 or 16 are to be read as references to regulation 26A;
+- (b) to regulation 17, are to be read as references to regulation 26B;
+- (c) to regulation 18 are to be read as references to regulation 26C; and
+- (d) to the LDP are to be read as references to the LDP revision, except in regulation 25;
+- (e) in regulation 22(2)(c)(i), the reference to “consulted” is to be read as a reference to “notified”;
+- (f) in regulations 22(5)(c), 24(2)(a) and 25(2)(a) to the places at which the pre-deposit proposals documents were made available under regulation 15 are to be read as references to the places at which the LDP documents were made available under regulation 26B(a); and
+- (g) in regulation 26 to—
+  - (i) regulation 15(c) are to be read as a reference to regulation 26A(1);
+  - (ii) regulation 17(a) and (b) are to be read as a reference to regulation 26B(1)(a) and (b);
+  - (iii) regulation 19(2)(a) and (b) are to be read as references to 26D(1)(a) and (b).
+
+## PART 5 — INTERVENTION BY THE NATIONAL ASSEMBLY
+
+### 27. Documents to be supplied to the National Assembly[^key-fd71986480ad7b5684e090fbb5333cbc]
+
+An LPA must supply the National Assembly with a copy of every notice published by the LPA in accordance with these Regulations when the notice is first published, together with a copy of every document made available for inspection in accordance with these Regulations.
+
+### 28. Direction not to adopt an LDP[^key-276e8d182695a1b8528b15f92db45767]
+
+(1) Where, in relation to an LDP, the person appointed to carry out an examination under section 64 has complied with subsection (7) of that section, the National Assembly may at any time direct the LPA not to adopt that LDP until the National Assembly has decided whether to give a direction under section 65(1) or (4).
+
+(2) If the National Assembly gives such a direction, the LPA must—
+
+- (a) make the direction available for inspection during normal office hours at the places at which the pre-deposit proposals documents were made available under regulation 15 or 26B as the case may be[^key-583cfd30d659a81034ef164649e68dfc];
+- (b) publish the direction on its website;
+- (c) not adopt the LDP until the National Assembly has notified the LPA of its decision under paragraph (1).
+
+### 29. Direction to modify an LDP[^key-0ea89d048141aa3af3e207c94b475c91]
+
+If the National Assembly gives a direction under section 65(1) in respect of an LDP, the LPA must—
+
+- (a) make the direction available for inspection during normal office hours at the places at which the pre-deposit proposals documents were made available under regulation 15 or 26B as the case may be[^key-033250bd868be94b141717a656c0db81];
+- (b) publish the direction on its website; and
+- (c) at the time it complies with regulation 25, publish and make available for inspection in accordance with that regulation—
+  - (i) a statement that the National Assembly has withdrawn the direction, or
+  - (ii) the National Assembly’s notice under section 65(2)(b).
+
+### 30. Section 65(4) directions (call-in)[^key-a5ac65b5ba6d4dbbe3f5953f32122914]
+
+(1) This regulation, and regulations 31 to 35, apply where the National Assembly gives a direction under section 65(4).
+
+(2)[^key-b29e44b0a0136af4947cd50e29664033] If the direction is given before the LPA submits the LDP under section 64(1) the LPA must—
+
+- (a) comply with section 62(6) unless it has already done so;
+- (b) make the direction available for inspection during normal office hours at the places at which the pre-deposit proposals documents were made available under regulation 15 or the LDP documents were made available under regulation 26B as the case may be;
+- (c) publish the direction on its website;
+- (d) subject to any necessary modification and to paragraph (4), comply with the regulations cited in paragraph (3) as if it were preparing the LDP.
+
+(3) The regulations referred to in paragraph (2)(d) are regulations 15 to 19, or 26A to 26D, as the case may be.
+
+(4) Nothing in paragraph (2)(d) requires an LPA to repeat any step taken before receipt of the direction.
+
+### 31. Changes proposed by the National Assembly to an LDP (call-in)[^key-58896998b2275034aca0d9dcdda88a1c]
+
+(1) If the National Assembly proposes to depart from the recommendations of the person appointed to carry out an examination under section 64, it must publish—
+
+- (a) the changes it proposes to make; and
+- (b) its reasons for doing so.
+
+(2) As soon as reasonably practicable after the National Assembly complies with paragraph (1), the LPA must—
+
+- (a) make copies of the changes and reasons and a statement of the matters in paragraph (3) available for inspection during normal office hours at the places at which the pre-deposit proposals documents were made available under regulation 15 or 26B as the case may be[^key-3542e237d709e39b946a2469c70e202b];
+- (b) publish on its website—
+  - (i) the changes and reasons,
+  - (ii) the matters in paragraph (3),
+  - (iii) a statement of the fact that the changes and reasons are available for inspection and the places and times at which they can be inspected; and[^key-c17a15fe685da64f900eff7ae29e6acf]
+- (c) send copies of the changes and reasons to the bodies referred to in paragraph (4) and notify those bodies of the matters referred to in paragraph (3); [^key-d3b11efd4acf4d5a7826c774bd8680f1]...
+- (d)[^key-ddbba2c0a7027d4c3a59ae5ddb0d4823] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The matters referred to in paragraph (2) are—
+
+- (a) the period within which representations on the changes must be made;
+- (b) the address at the National Assembly to which and, where appropriate, the person to whom representations (whether made by way of electronic communications or otherwise) must be sent; and
+- (c) a statement that any representations made may be accompanied by a request to be notified at a specified address of the National Assembly’s decision under section 65(9)(a).
+
+(4) The bodies referred to in paragraph (2)(c) are—
+
+- (a) each of the specific consultation bodies to the extent that the National Assembly thinks the changes affect those bodies; and
+- (b) such of the general consultation bodies as the National Assembly considers appropriate.
+
+### 32. Representations on proposed changes (call-in)[^key-1010eca6a94c7ad0b1d7fc6461476cfc]
+
+(1) Any person may make representations on the changes the National Assembly proposes to make by sending them to the address and the person (if any) specified, pursuant to regulation 31(3) within the period of six weeks, starting on the day on which the National Assembly complies with regulation 31(1).
+
+(2) Before the National Assembly complies with section 65(9)(a), it must consider any representations made in accordance with paragraph (1).
+
+### 33. Publication of the recommendations of the person appointed to carry out the independent examination (call-in)[^key-3d77a65c8ba41b7d7a9e2283bff61713]
+
+As soon as reasonably practicable after the National Assembly complies with section 65(6), the LPA must—
+
+- (a) make the recommendations, and reasons for those recommendations of the person appointed to carry out the examination available for inspection during normal office hours at the places at which the pre-deposit proposals[^key-b8e2c7ac208cac060c5dab2b33debf4e] were made available under regulation 15 or 26B as the case may be[^key-793acbcf8a8d66e511eb99987d97f5b1]; and
+- (b) publish the recommendations and reasons on its website.
+
+### 34. National Assembly’s decision after section 65(4) direction (call-in)[^key-c0f9add372ef38cd099ff581e74d82e5]
+
+As soon as reasonably practicable after the National Assembly approves, approves subject to modifications, or rejects an LDP in accordance with section 65(9)(a) (as the case may be), the LPA must—
+
+- (a) make available for inspection during normal office hours at the places at which the pre-deposit proposals[^key-8b53e48815a87da2f46d9a19d598cee6] were made available under regulation 15(a) or regulation 26B as the case may be[^key-b360c1113fad2ab4577db31c00d60eda]—
+  - (i) the LDP and the reasons given by the National Assembly pursuant to section 65(9)(b), and
+  - (ii) a decision statement;
+- (b) publish the decision statement on its website; and[^key-15d65f590e852c6ee630490baf8cc092]
+- (c)[^key-420156466e71828b36d696bf578902da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) send the decision statement to any person who has asked to be notified of the National Assembly’s decision under section 65(9)(a).
+
+### 35. National Assembly’s default power[^key-61cac3121c38b8d3ecd499fa3ca9f918]
+
+Where the National Assembly prepares or revises an LDP under section 71—
+
+- (a) it must comply with such provisions of Part 6 of the Act and such provisions of these Regulations as—
+  - (i) are relevant to the preparation of the LDP or revision, and
+  - (ii) if references in those provisions to the LPA were references to the National Assembly; and
+- (b) regulations 31 to 35 apply, subject to any necessary modifications and as if references to an LPA were references to the National Assembly.
+
+## PART 6 — JOINT LOCAL DEVELOPMENT PLANS
+
+### 36. Joint LDP: corresponding plans[^key-64e0f3cb808ff2d4c97b04a7aa29c151]
+
+(1) In relation to an agreement mentioned in section 72(1), the period prescribed for the purposes of section 72(7) is three months, starting on the day on which any LPA which is a party to the agreement withdraws from it.
+
+(2) A corresponding LDP for the purposes of section 72(5) is an LDP which—
+
+- (a) does not relate to any part of the area of the LPA that has withdrawn from the agreement; and
+- (b) with respect to the areas of the LPAs which prepared it, has substantially the same effect as the original joint plan.
+
+(3) In paragraph (2)(b), “original joint plan” means a joint LDP prepared pursuant to the agreement mentioned in paragraph (1).
+
+## PART 7 — ANNUAL MONITORING REPORT
+
+### 37. Annual monitoring report[^key-fc124cb936cf8c7e277fc41fb13ceec8]
+
+(1) An LPA must publish its annual monitoring report on its website and also submit it to the National Assembly on or before the date specified in guidance made under section 75.
+
+(2) Where a policy specified in an LDP is not being implemented, the annual monitoring report must identify that policy.
+
+(3) Where an annual monitoring report identifies a policy pursuant to paragraph (2), that report must include a statement of—
+
+- (a) the reasons why that policy is not being implemented;
+- (b) the steps (if any) that the LPA intend to take to secure that the policy is implemented; and
+- (c) whether the LPA intends to prepare a revision of the LDP to replace or amend the policy.
+
+(4) The annual monitoring report must specify —
+
+- (a) the housing land supply taken from the current Housing Land Availability Study; and
+- (b) the number (if any) of net additional affordable and general market dwellings built in the LPA’s area
+
+both in the period in respect of which the report is made; and in the period since the LDP was first adopted or approved.
+
+## PART 8 — AVAILABILITY OF DOCUMENTS
+
+### 38. Availability of documents for inspection : general[^key-ece0423c3b35571b6f616818eb5493da]
+
+(1) This regulation does not apply to an LDP or revision which is made available or published under regulation 39.
+
+(2) Copies, documents, representations, directions, matters, notices or statements which under these Regulations are—
+
+- (a) made available for inspection; or
+- (b) published on an LPA’s website,
+
+may be removed at the time specified in paragraph (3).
+
+(3) The time mentioned in paragraph (2) is the end of the period of six weeks referred to in section 113(4) (period for challenging the validity of a relevant plan) that applies as regards the LDP concerned.
+
+### 39. Availability of adopted or approved LDP[^key-780efa1dba7a0e285a953036920297fa]
+
+(1) Paragraph (2) applies where an LPA adopts, or the National Assembly approves, an LDP.
+
+(2) As soon as reasonably practicable after the document is adopted or approved, the LPA must—
+
+- (a) make a copy of the LDP available for inspection at its principal office during normal office hours;
+- (b) publish the LDP on its website.
+
+(3) Paragraph (4) applies where an LPA adopts, or the National Assembly approves, a revision of an LDP.
+
+(4) As soon as reasonably practicable after the revision is adopted or approved, the LPA must incorporate the revision into the LDP made available for inspection and published under paragraph (2).
+
+(5) Where the National Assembly revokes an LDP, the LPA must, within two weeks of the date on which the LDP was revoked—
+
+- (a) publish a statement of that fact on its website;
+- (b) remove the copy of the LDP made available for inspection and published under paragraph (2);
+- (c) take such other steps as it considers necessary to draw the revocation of the LDP to the attention of persons living or working in their area; [^key-5752d0e2e126036637ca606931e27d6f]...
+- (d)[^key-d0448e3dc045f8369edd517194053474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40. Copies of documents[^key-20e7eaa253b8845807f1b9f79458432d]
+
+(1) Where—
+
+- (a) a person makes any document available for inspection under these Regulations;
+- (b) that document is not published pursuant to a requirement of Part 6 of the Act; and
+- (c) the person is asked by another person for a copy of that document,
+
+the person first-mentioned must provide a copy of the document to that other person as soon as reasonably practicable after receipt of that other person’s request.
+
+(2) Any person who provides a copy—
+
+- (a) under paragraph (1); or
+- (b) of any document pursuant to a requirement under Part 6 of the Act,
+
+may make a reasonable charge for the copy.
+
+## PART 9 — REVIEW OF LOCAL DEVELOPMENT PLAN
+
+### 41. Review of LDP[^key-6f0b78c8d59fcceb4e2dec97b996de88][^key-7a0ef73e2cf3603e557bc2ed00aa57e5]
+
+(1) For the purposes of section 69(1), the LPA must commence a review of its LDP at intervals not longer than every four years from the later of—
+
+- (a) the date of the first adoption of the LDP; or
+- (b) the date of the last adoption of the LDP following a review under section 69(1).
+
+(2) Before it prepares a revision of an LDP, an LPA must review its LDP.
+
+(3) For the purposes of paragraph (2), such a review may be either a review under section 69(1) or a selective review.
+
+(4) The LPA must report to the Welsh Ministers on the findings of a selective review.
+
+(5) An LPA must approve by resolution a report of a review prepared in accordance with section 69(1) before it submits it to the Welsh Minsters in accordance with section 69(2).
+
+(6) An LPA must approve by resolution a report of a selective review and submit the approved report to the Welsh Minsters.
+
+(7) As soon as reasonably practicable after a review report has been approved by resolution of the LPA in accordance with paragraph (5) or (6), the LPA must—
+
+- (a) publish the review report on its website; and
+- (b) make copies available at its principal office and at other places that the LPA considers appropriate.
+
+(8) For the purposes of this regulation “selective review” means a review of part or parts of an LDP.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00019].
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+11 October 2005
+
+(This note is not part of the Regulations)
+
+Part 6 of the Planning and Compulsory Purchase Act 2004 (“the Act”) establishes a new system of local development plans (“LDPs”) in Wales. These Regulations make provision for the operation of that system.
+
+The Regulations prescribe the form and content of LDPs (to be prepared by local planning authorities (“LPAs”)) (Part 3 of these Regulations) and make provision for the procedure to be followed in their preparation (Part 4 of these Regulations).
+
+The main steps in the LDP making procedure are—
+
+- (a) the delivery agreement consisting of the community involvement scheme and the timetable for preparation of the LDP (Part 2 of these Regulations);
+- (b) pre-deposit participation (regulation 14);
+- (c) pre-deposit public consultation (regulation 15);
+- (d) making and consideration of representations (regulation 16);
+- (e) deposit of proposals (regulation 17);
+- (f) making and consideration of representations on proposals (regulations 18 to 20);
+- (g) representations on site allocation representations (regulation 21);
+- (h) submission of deposit LDP for examination to the National Assembly for Wales (“the National Assembly”) (regulations 22 and 23);
+- (i) publication of the recommendations of the person appointed to carry out the examination (regulation 24); and
+- (j) adoption of the LDP by the LPA (regulation 25).
+
+There are also provisions about how different forms of representation on an LDP are to be handled (regulations 19 and 20), about the withdrawal of an LDP (regulation 26) and the intervention of the National Assembly in the LDP preparation process (including provisions about LDPs which the National Assembly has directed must be submitted for its consideration) (Part 5 of these Regulations).
+
+The Regulations make provision for the preparation of joint LDPs (regulation 36), require an LPA to review its LDP every four years (Part 9), permits electronic communications (regulation 4) and make provision in relation to the availability of documents (Part 8).
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5). As to powers to prescribe, *see* section 122(1).
+
+[^f00002]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Schedule 4A was inserted by Schedule 1 to the Planning and Compulsory Purchase Act 2004.
+
+[^key-7332b7153936aa88e08c574dcc925729]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2005/2839) applied (with modifications) (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Consequential Modifications and Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/188)](https://www.legislation.gov.uk/wsi/2022/188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/188/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/188/regulation/3), [Sch. para. 1](https://www.legislation.gov.uk/wsi/2022/188/schedule/paragraph/1)
+
+[^key-1acdf8de36873a7e82bc34bc53bdbb5a]: Commencement: Reg. 1 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-5a114ee6529e47920324a35dcfa3976b]: Commencement: Reg. 2 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-c424e4d7d1b0d31bd8e329f6c2e59976]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-e2ba170b8a97a04a03d761614b42fe8e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(2)(h)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/2/h) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-6d52d4830edc811bd224e5b6d8fd5ebc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/2/b/i) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-30eb803f96de37b2e4310b42fcc55c5a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/2/b/ii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^f00003]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50).
+
+[^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-64cecbd10da8d1e6b020a30c94530cec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/4/2)
+
+[^f00005]: Footnote: The definition of “electronic communications apparatus” has been inserted into paragraph 1(1) of the electronic communications code by paragraph 2(2) of Schedule 3 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00006]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-dc256c9db53a0d727c73d91f4c31deab]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-96d27206fb91a6c03cf7df64089cf30b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-b41b9d592517ea87387e3f2a1cd2fa34]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/2/e) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-c0054ac937e3f7e37fe06c2c44d037be]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(2)(f)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/2/f) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-68edd177372ed01f80b35c8f8c83184b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(2)(g)(i)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/2/g/i) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-dc7cbcdf355139a1c633dea9a25dbb52]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 37(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/37/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-6c7f78dc4a4ebbf7b0a39c11dbdd2580]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(2)(g)(ii)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/2/g/ii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-3aa1b951f7629f6c1edc24c1feb848e4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 37(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/37/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^f00009]: Footnote: See section 16BA of the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49).
+
+[^f00010]: Footnote: [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29); section 6 was substituted by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 30.
+
+[^f00011]: Footnote: [1986 (c. 44)](https://www.legislation.gov.uk/ukpga/1986/44); section 7 was substituted by the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and section 7(2) was amended by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), sections 3(2), 76(1) and (3) and Schedule 6, paragraphs 1 and 4.
+
+[^f00012]: Footnote: S.I. [2004/1656](https://www.legislation.gov.uk/uksi/2004/1656).
+
+[^key-41af58af605798e2644d56887132335b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/2/1) substituted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2011/971/regulation/5)
+
+[^key-61dbe6f60df9daa4e3296928d2139036]: Commencement: Reg. 3 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-9028756f966d2a3fe8ff5813e9016d93]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/3/1) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-758e32fe22c5698a7f11affd759932d4]: Commencement: Reg. 4 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^f00015]: Footnote: Banking and Financial Dealings Act [1971 (c. 80)](https://www.legislation.gov.uk/ukpga/1971/80), section 1(1) and schedule 1, paragraph 1.
+
+[^key-ae836a5ba92474969d31eff5c489e3de]: Commencement: Reg. 5 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-32b05ddff8270ea4e1d70f386931df00]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/wsi/2005/2839/regulation/5) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-49a280b8e907bc1ba6e6a8dcc4637e5b]: Commencement: Reg. 6 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-324b43b8927e4a2655b9a5607d93f8a7]: Commencement: Reg. 7 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-e42269a6530e633a22dfa6754041d85f]: Commencement: Reg. 8 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-59a5f8f85471b7e261f4a5f7a85ef563]: Commencement: Reg. 9 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-002abf91682305d3bc02b573c874eda5]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/9/1) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/5/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-10a812d5b77bedf67617194d9eaa00f8]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/9/4) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-10c3d77d208ecedc5891f6c29f6309f4]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/9/4A) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/5/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-27f7021db2453c7b8b9b2200f326e1a3]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/9/6) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/5/d) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-61e05dfabd64a27b882791d7418a5583]: Commencement: Reg. 10 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-2c216975688998bc36e708f6295531d6]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/10/2) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(6)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-da6800c346c60a20b7a77fe13d0fb7a5]: Commencement: Reg. 11 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-545a9dda9d20a3acaef5366f944a7598]: Textual amendment: Word in [reg. 11(b)(i)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/11/b/i) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/7/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-e9c9532610890b59d7dc8cc5709b7968]: Textual amendment: [Reg. 11(b)(ii)(iii)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/11/b/ii/iii) substituted for [reg. 11(b)(ii)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/11/b/ii) (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/7/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-619851a7e6e1c239193fa9983fa324ad]: Commencement: Reg. 12 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-deb38b9907f947cbf94aeb577cf76af3]: Commencement: Reg. 13 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^f00016]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^key-7b52dcfb080da447b7fa059439fe6472]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/13/1/c) substituted (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [Sch. 5 para. 1(2)(a)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/5/paragraph/1/2/a) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+
+[^key-900868f67e50c8dc8435b74ec5118039]: Textual amendment: Words in [reg. 13(1)(c)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/13/1/c) omitted (31.12.2020) by virtue of [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2019/456/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5d363ead3bcf5c64ba3fa112131a5636]: Textual amendment: [Reg. 13(1)(d)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/13/1/d) substituted (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [Sch. 5 para. 1(2)(b)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/5/paragraph/1/2/b) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+
+[^key-967161d873083517dfe27a764eba0723]: Textual amendment: [Reg. 13(1)(d)(iii)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/13/1/d/iii) substituted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2019/456/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fff6819ee16e97ec41367bb4f148462a]: Textual amendment: Words in [reg. 13(f)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/13/f) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(8)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-b5a60cce7300673d3cc8bb95897a6e45]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/13/2) substituted (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [Sch. 5 para. 1(2)(c)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/5/paragraph/1/2/c) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+
+[^key-5c98ba6d61d05ef896b25e07e5a802fd]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/wsi/2005/2839/regulation/13A) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(9)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/9) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-10e51aa854cc5865ed82c7dc83ac8959]: Commencement: Reg. 14 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-9a88eda6c5d8e49d945acbca2ea040ab]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/14/1): reg. 14 renumbered as reg. 14(1) (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(10)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/10/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-718ed1d9d16cf9e2485348328734efcd]: Textual amendment: [Reg. 14(2)-(5)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/14/2) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(10)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/10/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-da7c668c6ee46143ef2bfad856b80e05]: Commencement: Reg. 15 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-8b904914db6f0467015e666811c3c1f6]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/wsi/2005/2839/regulation/15) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(11)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/11/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-f18285d4bb366114854ce33b246ebf7f]: Textual amendment: [Reg. 15(d)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/15/d) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(11)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/11/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-f65e62d84404d5b5aa057e82ff778d62]: Commencement: Reg. 16 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-2be1d60a7df35c21b7a642b548a3a0a1]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/wsi/2005/2839/regulation/16A) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(12)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/12) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-503f8e912fc346d46dbf50697a9ba71e]: Commencement: Reg. 17 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-bf7d0e978ef9ec3ef45122b85a72aa58]: Textual amendment: Words in [reg. 17(a)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/17/a) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(13)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/13/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-b5498c04c69086b81956569c30798c42]: Textual amendment: Word in [reg. 17(c)(vi)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/17/c/vi) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(13)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/13/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-7aacf7dcafbbb13ebf0a952d89991445]: Textual amendment: [Reg. 17(d)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/17/d) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(13)(c)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/13/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-5c4cfe80421b180559110f6fd6c12bb7]: Commencement: Reg. 18 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-49cb07b24419276b10379a022c2576c9]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/wsi/2005/2839/regulation/18) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(14)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/14) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-facbb497d666ae8287d599164db0b9d0]: Commencement: Reg. 19 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-0c114b7936e4bc828598a3a95af097b9]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/19/1) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(15)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/15) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-d17911dfbeb28391b498e38c53b8142a]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/wsi/2005/2839/regulation/20) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(16)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/16) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-bc067317bcab132b0b44d1d51a1534cc]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/wsi/2005/2839/regulation/21) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(16)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/16) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-695a7c059e5954bf6b6c64d6019c642e]: Commencement: Reg. 21 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-2bfa18908d756e48dcf9d73e308deccc]: Commencement: Reg. 22 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-be46baa4e7a1349b8d1f942cc8f87371]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/22/1) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(17)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/17/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-7d1b30fa6ccd15bbd52e5b5e63e2e561]: Textual amendment: Words in [reg. 22(2)(c)(i)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/22/2/c/i) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(17)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/17/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-f1d3e056e9db550bf28a30379977f38b]: Textual amendment: Words in [reg. 22(2)(c)(iii)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/22/2/c/iii) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(17)(c)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/17/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-bc96c5250e4be622c7e4f8766a4d48b2]: Textual amendment: Words in [reg. 22(2)(c)(iv)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/22/2/c/iv) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(17)(d)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/17/d) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-fcff3770f36a2a184355648abfc382a7]: Textual amendment: Words in [reg. 22(2)(c)(v)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/22/2/c/v) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(17)(e)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/17/e) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-6a7550f9922be7df49f3795ac492156e]: Textual amendment: Words in [reg. 22(2)(c)(vi)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/22/2/c/vi) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(17)(e)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/17/e) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-037b6c3839e0b1d7ba1c281f50794cb8]: Textual amendment: [Reg. 22(2)(ca)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/22/2/ca)[(cb)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/22/2/cb) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(17)(f)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/17/f) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-03757a76eaaa6cd02a9199495aa8cd6e]: Textual amendment: Words in [reg. 22(2)(d)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/22/2/d) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/uksi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1598/regulation/1/1), [2(17)(g)](https://www.legislation.gov.uk/uksi/2015/1598/regulation/2/17/g) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1598/regulation/3))
+
+[^key-6ec15e6ea00bda31a279408f699403c6]: Textual amendment: [Reg. 22(5)(b)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/22/5/b) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(17)(h)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/17/h) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-3c2b1e4d8ebe21b8abe53c26a340f676]: Commencement: Reg. 23 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-bfe41dea5e58d32666cb5f956e680510]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/23/1) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(18)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/18/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-0ea2c61114496d8f9179f688c598c518]: Textual amendment: Words in [reg. 23(1)(b)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/23/1/b) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(18)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/18/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-b53a12e37f15568dfe4705f9deca1598]: Textual amendment: [Reg. 23(1)(c)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/23/1/c) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(18)(c)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/18/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-7a0b78813cad4291c91ea8ac98e840e3]: Textual amendment: Word in [reg. 23(2)(a)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/23/2/a) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(18)(d)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/18/d) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-bb6c63b09012d589e25cfdd009db4b19]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/23/3) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(18)(e)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/18/e) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-af56935a273c4ebe46154d4bf3a55e5d]: Commencement: Reg. 24 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-c83eb5bd583c01c595fbe8e8a17fef5d]: Commencement: Reg. 25 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-02533e497f0e6073917eef0fee2e7ea0]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/25/2) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(19)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/19/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-34dce2be036dff96951ea2ea939797a7]: Textual amendment: [Reg. 25(2)(c)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/25/2/c) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(19)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/19/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-ea7955107f2e913747a36b0113f0a30e]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/25/3) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(19)(c)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/19/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-a89809a001f48edb3c785def7d6eeaee]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/wsi/2005/2839/regulation/25A) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(20)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/20) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-0161f13c7391dc7b8da4f0afe2527be0]: Commencement: Reg. 26 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-5f6748630efc4831cac65b6277ab91da]: Textual amendment: [Reg. 26(b)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/26/b) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(21)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/21/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-58fe468710ef07946873d1f8ec28c3e2]: Textual amendment: Words in [reg. 26(d)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/26/d) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(21)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/21/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-61c2d8324a23bd247b8850f7ab868230]: Textual amendment: Words in [reg. 26(e)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/26/e) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(21)(c)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/21/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-1b6cd3842fa998ef920b99a865a73ac9]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/wsi/2005/2839/part/4A) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(22)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/22) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-fd71986480ad7b5684e090fbb5333cbc]: Commencement: Reg. 27 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-276e8d182695a1b8528b15f92db45767]: Commencement: Reg. 28 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-583cfd30d659a81034ef164649e68dfc]: Textual amendment: Words in [reg. 28(2)(a)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/28/2/a) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(23)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/23/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-0ea89d048141aa3af3e207c94b475c91]: Commencement: Reg. 29 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-033250bd868be94b141717a656c0db81]: Textual amendment: Words in [reg. 29(a)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/29/a) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(23)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/23/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-a5ac65b5ba6d4dbbe3f5953f32122914]: Commencement: Reg. 30 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-b29e44b0a0136af4947cd50e29664033]: Textual amendment: [Reg. 30(2)-(4)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/30/2) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(24)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/24) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-58896998b2275034aca0d9dcdda88a1c]: Commencement: Reg. 31 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-3542e237d709e39b946a2469c70e202b]: Textual amendment: Words in [reg. 31(2)(a)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/31/2/a) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(23)(c)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/23/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-c17a15fe685da64f900eff7ae29e6acf]: Textual amendment: Word in [reg. 31(2)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/31/2) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(25)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/25/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-d3b11efd4acf4d5a7826c774bd8680f1]: Textual amendment: Word in [reg. 31(2)(c)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/31/2/c) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(25)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/25/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-ddbba2c0a7027d4c3a59ae5ddb0d4823]: Textual amendment: [Reg. 31(2)(d)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/31/2/d) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(25)(c)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/25/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-1010eca6a94c7ad0b1d7fc6461476cfc]: Commencement: Reg. 32 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-3d77a65c8ba41b7d7a9e2283bff61713]: Commencement: Reg. 33 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-b8e2c7ac208cac060c5dab2b33debf4e]: Textual amendment: Words in [reg. 33(a)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/33/a) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(26)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/26) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-793acbcf8a8d66e511eb99987d97f5b1]: Textual amendment: Words in [reg. 33(a)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/33/a) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(23)(d)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/23/d) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-c0f9add372ef38cd099ff581e74d82e5]: Commencement: Reg. 34 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-8b53e48815a87da2f46d9a19d598cee6]: Textual amendment: Words in [reg. 34(a)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/34/a) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(26)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/26) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-b360c1113fad2ab4577db31c00d60eda]: Textual amendment: Words in [reg. 34(a)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/34/a) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(27)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/27/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-15d65f590e852c6ee630490baf8cc092]: Textual amendment: Word in [reg. 34](https://www.legislation.gov.uk/wsi/2005/2839/regulation/34) inserted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(27)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/27/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-420156466e71828b36d696bf578902da]: Textual amendment: [Reg. 34(c)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/34/c) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(27)(c)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/27/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-61cac3121c38b8d3ecd499fa3ca9f918]: Commencement: Reg. 35 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-64e0f3cb808ff2d4c97b04a7aa29c151]: Commencement: Reg. 36 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-fc124cb936cf8c7e277fc41fb13ceec8]: Commencement: Reg. 37 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-ece0423c3b35571b6f616818eb5493da]: Commencement: Reg. 38 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-780efa1dba7a0e285a953036920297fa]: Commencement: Reg. 39 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-5752d0e2e126036637ca606931e27d6f]: Textual amendment: Word in [reg. 39(5)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/39/5) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(28)(a)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/28/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-d0448e3dc045f8369edd517194053474]: Textual amendment: [Reg. 39(5)(d)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/39/5/d) omitted (28.8.2015) by virtue of [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(28)(b)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/28/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^key-20e7eaa253b8845807f1b9f79458432d]: Commencement: Reg. 40 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-6f0b78c8d59fcceb4e2dec97b996de88]: Commencement: Reg. 41 in force at 15.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2839/regulation/1/1)
+
+[^key-7a0ef73e2cf3603e557bc2ed00aa57e5]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/wsi/2005/2839/regulation/41) substituted (28.8.2015) by [The Town and Country Planning (Local Development Plan) (Wales) (Amendment) Regulations 2015 (S.I. 2015/1598)](https://www.legislation.gov.uk/wsi/2015/1598), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/1/1), [2(29)](https://www.legislation.gov.uk/wsi/2015/1598/regulation/2/29) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1598/regulation/3))
+
+[^f00019]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

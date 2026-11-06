@@ -1,0 +1,56 @@
+---
+title: Renting Homes (Wales) Act 2016, section 108
+act: Renting Homes (Wales) Act 2016
+section: '108'
+status: revised-with-pending-changes
+text_date: '2026-06-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2016/1/section/108
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Renting Homes (Wales) Act 2016, section 108
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/1
+>
+> Extent: England, Wales.
+
+## 108. Limitation on variation[^key-a475fedb3a068a91ae8477eb79e7cc9e]
+
+*Extent: E+W*
+
+(1) A fundamental term of a secure contract incorporating any of the fundamental provisions to which subsection (2) applies may not be varied (except by or as a result of an enactment).
+
+(2) This subsection applies to the following fundamental provisions—
+
+- (a) section 103(1)(b) and (2) and this section,
+- (b) section 45 (requirement to use deposit scheme),
+- (c) section 52 (joint contract-holder ceasing to be a party to the occupation contract),
+- (d) section 55 (anti-social behaviour and other prohibited conduct),
+- (e) section 148 (permissible termination),
+- (f) section 149 (possession claims),
+- (g) section 155 (death of sole contract-holder), and
+- (h) section 158 (securing contract by use of false statement).
+
+(3) A variation of any other fundamental term (other than by or as a result of an enactment) is of no effect—
+
+- (a) unless as a result of the variation—
+  - (i) the fundamental provision which the term incorporates would be incorporated without modification, or
+  - (ii) the fundamental provision which the term incorporates would not be incorporated or would be incorporated with modification, but [^key-765c5ce6671eb9b22f9faccedd6d2f21]... the effect of this would be that the position of the contract-holder is improved;
+- (b) if the variation (regardless of whether it is within paragraph (a)) would render the fundamental term incompatible with a fundamental term which incorporates a fundamental provision to which subsection (2) applies.
+
+(4) A variation of a term of a secure contract is of no effect if it would render any term of the contract incompatible with a fundamental term (unless that fundamental term is also varied in accordance with this section in a way that would avoid the incompatibility).
+
+(5) Subsection (4) does not apply to a variation made by or as a result of an enactment.
+
+(6) This section is a fundamental provision which is incorporated as a term of all secure contracts; section 20 provides that this section—
+
+- (a) must be incorporated, and
+- (b) must not be incorporated with modifications.
+
+## Annotations
+
+[^key-a475fedb3a068a91ae8477eb79e7cc9e]: Commencement: [S. 108](https://www.legislation.gov.uk/anaw/2016/1/section/108) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+
+[^key-765c5ce6671eb9b22f9faccedd6d2f21]: Textual amendment: Words in [s. 108(3)(a)(ii)](https://www.legislation.gov.uk/anaw/2016/1/section/108/3/a/ii) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/2/2)

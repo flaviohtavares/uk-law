@@ -1,0 +1,262 @@
+---
+title: The Health Protection (Coronavirus, International Travel and Restrictions) (Amendment) (No. 2) (Wales) Regulations 2021
+id: wsi/2021/46
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-01-14'
+text_date: '2022-03-18'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2021/46
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2021/46/pdfs/wsi_20210046_mi.pdf
+- http://www.legislation.gov.uk/wsi/2021/46/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health Protection (Coronavirus, International Travel and Restrictions) (Amendment) (No. 2) (Wales) Regulations 2021
+
+> Text as at 2022-03-18.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2021 No. 46 (W. 10)
+
+Public Health, Wales
+
+The Health Protection (Coronavirus, International Travel and Restrictions) (Amendment) (No. 2) (Wales) Regulations 2021
+
+Approved by Senedd Cymru
+
+Made
+
+14 January 2021
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+Laid before Senedd Cymru
+
+at 12.30 p.m. on 15 January 2021
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 45B, 45C(1) and (3), 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984[^f00001], make the following Regulations.
+
+These Regulations are made in response to the serious and imminent threat to public health which is posed by the incidence and spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Wales.
+
+The Welsh Ministers consider that restrictions and requirements imposed by these Regulations are proportionate to what they seek to achieve, which is a public health response to that threat.
+
+In accordance with section 45R of that Act the Welsh Ministers are of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, Senedd Cymru.
+
+## PART 1 — General
+
+### 1. Title, coming into force and interpretation[^key-00adff9b5f31b8bc35a21366fc7738bb][^key-00adff9b5f31b8bc35a21366fc7738bb]
+
+(1) The title of these Regulations is the Health Protection (Coronavirus, International Travel and Restrictions) (Amendment) (No. 2) (Wales) Regulations 2021.
+
+(2) Parts 1, 3 and 4 of these Regulations come into force at 4.00 a.m. on 15 January 2021.
+
+(3) Part 2 of these Regulations comes into force at 4.00 a.m. on 16 January 2021.
+
+(4) In these Regulations—
+
+- (a) the “International Travel Regulations” means the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^f00002];
+- (b) the “Restrictions Regulations” means the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^f00003].
+
+## PART 2 — Amendments to the list of exempt countries and territories in Schedule 3 to the International Travel Regulations[^key-7df4ffbc7e145ff695d3b3b6b86c07b4]
+
+**No longer in force.**
+
+### 2. Removal of countries and territories from the list of exempt countries and territories[^key-7df4ffbc7e145ff695d3b3b6b86c07b4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Transitional provision in connection with regulation 2[^key-7df4ffbc7e145ff695d3b3b6b86c07b4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Other amendments to the International Travel Regulations[^key-9803869490cee2f332db7abdc2da1f17]
+
+**No longer in force.**
+
+### 4. Addition of countries to the list of countries and territories subject to additional measures[^key-9803869490cee2f332db7abdc2da1f17]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Transitional provision in connection with regulation 4[^key-9803869490cee2f332db7abdc2da1f17]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Amendment of regulation 12E of the International Travel Regulations[^key-9803869490cee2f332db7abdc2da1f17]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Amendment of Schedule 2 to the International Travel Regulations[^key-9803869490cee2f332db7abdc2da1f17]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Amendments to the Restrictions Regulations
+
+### 8. Amendments to the Restrictions Regulations[^key-8b3ffa01b77e751a2b14b520d5c10a9a][^key-8b3ffa01b77e751a2b14b520d5c10a9a]
+
+(1) The Restrictions Regulations are amended as follows.
+
+(2) In regulation 11A, for the heading substitute—
+
+> Requirement to isolate: specific provision for people who are in Wales on 9 January 2021 and who have been in certain countries in the previous 10 days
+
+.
+
+(3) After regulation 11A insert—
+
+> **11AA. Requirement to isolate: specific provision for people who are in Wales on 15 January 2021 and who have been in certain countries in the previous 10 days**
+>
+> (1) This regulation applies where a person (“P”)—
+>
+> - (a) is in Wales at 4.00 a.m. on 15 January 2021,
+> - (b) has arrived in Wales within the period of 10 days ending immediately before 4.00 a.m. on 15 January 2021, and
+> - (c) has been in a listed country within that period.
+>
+> (2) Unless regulation 11B applies, P, and any person living in the same household with P, may not leave or be outside the place where they are living until the end of the period of 10 days beginning with the day on which P was last in a listed country.
+>
+> (3) If requested by a contract tracer, P must notify the contract tracer—
+>
+> - (a) of the name of each person living at the place P is living, and
+> - (b) of the address of that place.
+>
+> (4) For the purposes of this regulation, the following are listed countries—
+>
+> - (a) Argentina;
+> - (b) Brazil;
+> - (c) Bolivia;
+> - (d) Chile;
+> - (e) Colombia;
+> - (f) Ecuador;
+> - (g) French Guiana;
+> - (h) Guyana;
+> - (i) Paraguay;
+> - (j) Peru;
+> - (k) Portugal;
+> - (l) Republic of Cabo Verde;
+> - (m) Republic of Panama;
+> - (n) Suriname;
+> - (o) Uruguay;
+> - (p) Venezuela.
+>
+> (5) This regulation does not apply where P—
+>
+> - (a) is a road haulage worker (within the meaning given in paragraph 6 of Schedule 2 to the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020),
+> - (b) has been in Portugal within the period of 10 days ending immediately before 4.00 a.m. on 15 January 2021, and
+> - (c) has not, during that period, been in any other listed country.
+
+(4) In regulation 11B(1), after “11A(2)” insert “or 11AA(2)”.
+
+(5) In regulation 12, for “or 11A(2)” substitute “, 11A(2) or 11AA(2)”.
+
+(6) In regulation 14(2)(aa), after “11A(2)” insert “or 11AA(2)”.
+
+(7) In regulation 22(4)(a), for “or 11A(2)” substitute “, 11A(2) or 11AA(2)”.
+
+(8) In regulation 30, for “or 11A(2)” substitute “, 11A(2) or 11AA(2)”.
+
+(9) In regulation 40—
+
+- (a) in paragraph (1)—
+  - (i) in sub-paragraph (a), after “11A(2)” insert “, 11AA(2)”;
+  - (ii) in sub-paragraph (b), for “or 11A(3)” substitute “, 11A(3) or 11AA(3)”;
+- (b) in paragraph (2)(a), for “or 11A(3)” substitute “, 11A(3) or 11AA(3)”.
+
+(10) In paragraph 48 of Schedule 4, in the Welsh language text, for “a chartrefi arddangos” substitute “a swyddfeydd gwerthiant datblygwyr”.
+
+Vaughan Gething
+
+Minister for Health and Social Services, one of the Welsh Ministers
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Part 2A of the Public Health (Control of Disease) Act 1984 enables the Welsh Ministers, by regulations, to make provision for the purpose of preventing, protecting against, controlling or providing a public health response to the incidence or spread of infection or contamination in Wales.
+
+These Regulations are made in response to the serious and imminent threat to public health which is posed by the incidence and spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Wales.
+
+These Regulations amend the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020 ([S.I. 2020/574 (W. 132)](https://www.legislation.gov.uk/wsi/2020/574)) (the “International Travel Regulations”) and the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 ([S.I. 2020/1609 (W. 335)](https://www.legislation.gov.uk/wsi/2020/1609))) (the “Restrictions Regulations”).
+
+The International Travel Regulations have been previously amended by:
+
+- the Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020 ([S.I. 2020/595) (W. 136)](https://www.legislation.gov.uk/wsi/2020/595);
+- the Health Protection (Coronavirus, International Travel and Public Health Information to Travellers) (Wales) (Amendment) Regulations 2020 ([S.I. 2020/714) (W. 160)](https://www.legislation.gov.uk/wsi/2020/714);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) Regulations 2020 ([S.I. 2020/726) (W. 163)](https://www.legislation.gov.uk/wsi/2020/726);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 2) Regulations 2020 ([S.I. 2020/804) (W. 177)](https://www.legislation.gov.uk/wsi/2020/804);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 3) Regulations 2020 ([S.I. 2020/817) (W. 179)](https://www.legislation.gov.uk/wsi/2020/817);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 4) Regulations 2020 ([S.I. 2020/840) (W. 185)](https://www.legislation.gov.uk/wsi/2020/840);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 5) Regulations 2020 ([S.I. 2020/868) (W. 190)](https://www.legislation.gov.uk/wsi/2020/868);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 6) Regulations 2020 ([S.I. 2020/886) (W. 196)](https://www.legislation.gov.uk/wsi/2020/886);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 7) Regulations 2020 ([S.I. 2020/917) (W. 205)](https://www.legislation.gov.uk/wsi/2020/917);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 8) Regulations 2020 ([S.I. 2020/944) (W. 210)](https://www.legislation.gov.uk/wsi/2020/944);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 9) Regulations 2020 ([S.I. 2020/962) (W. 216)](https://www.legislation.gov.uk/wsi/2020/962);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 10) Regulations 2020 ([S.I. 2020/981) (W. 220)](https://www.legislation.gov.uk/wsi/2020/981);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 11) Regulations 2020 ([S.I. 2020/1015) (W. 226)](https://www.legislation.gov.uk/wsi/2020/1015);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 12) Regulations 2020 ([S.I. 2020/1042) (W. 231)](https://www.legislation.gov.uk/wsi/2020/1042);
+- the Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 ([S.I. 2020/942)](https://www.legislation.gov.uk/wsi/2020/942);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 13) Regulations 2020 ([S.I. 2020/1080) (W. 243)](https://www.legislation.gov.uk/wsi/2020/1080);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 14) Regulations 2020 ([S.I. 2020/1098) (W. 249)](https://www.legislation.gov.uk/wsi/2020/1098);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 15) Regulations 2020 ([S.I. 2020/1133) (W. 258)](https://www.legislation.gov.uk/wsi/2020/1133);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 16) Regulations 2020 ([S.I. 2020/1165) (W. 263)](https://www.legislation.gov.uk/wsi/2020/1165);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 17) Regulations 2020 ([S.I. 2020/1191) (W. 269)](https://www.legislation.gov.uk/wsi/2020/1191);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 18) Regulations 2020 ([S.I. 2020/1223) (W. 277)](https://www.legislation.gov.uk/wsi/2020/1223);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 19) Regulations 2020 ([S.I. 2020/1232) (W. 278)](https://www.legislation.gov.uk/wsi/2020/1232);
+- the Health Protection (Coronavirus, International Travel and Restrictions) (Amendment) (Wales) Regulations 2020 ([S.I. 2020/1237) (W. 279)](https://www.legislation.gov.uk/wsi/2020/1237);
+- the Health Protection (Coronavirus, International Travel and Restrictions) (Amendment) (No. 2) (Wales) Regulations 2020 ([S.I. 2020/1288) (W. 286)](https://www.legislation.gov.uk/wsi/2020/1288);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 20) Regulations 2020 ([S.I. 2020/1329) (W. 295)](https://www.legislation.gov.uk/wsi/2020/1329);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 21) Regulations 2020 ([S.I. 2020/1362) (W. 301)](https://www.legislation.gov.uk/wsi/2020/1362);
+- the Health Protection (Coronavirus, International Travel and Restrictions) (Amendment) (No. 3) (Wales) Regulations 2020 ([S.I. 2020/1477) (W. 316)](https://www.legislation.gov.uk/wsi/2020/1477);
+- the Health Protection (Coronavirus, International Travel and Public Health Information to Travellers) (Wales) (Amendment) (No. 2) Regulations 2020 ([S.I. 2020/1521) (W. 325)](https://www.legislation.gov.uk/wsi/2020/1521);
+- the Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 22) Regulations 2020 ([S.I. 2020/1602) (W. 332)](https://www.legislation.gov.uk/wsi/2020/1602);
+- the Health Protection (Coronavirus, South Africa) (Wales) Regulations 2020 ([S.I. 2020/1645) (W. 345)](https://www.legislation.gov.uk/wsi/2020/1645);
+- The Health Protection (Coronavirus, International Travel and Restrictions) (Wales) (Amendment) Regulations 2021 ([S.I. 2021/20) (W. 7)](https://www.legislation.gov.uk/wsi/2021/20); and
+- The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) 2021 ([S.I. 2021/24) (W. 8)](https://www.legislation.gov.uk/wsi/2021/24).
+
+The Restrictions Regulations have been previously amended by:
+
+- the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2020 ([S.I. 2020/1610) (W. 336)](https://www.legislation.gov.uk/wsi/2020/1610);
+- the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 2) Regulations 2020 ([S.I. 2020/1623) (W. 340)](https://www.legislation.gov.uk/wsi/2020/1623);
+- the Health Protection (Coronavirus, South Africa) (Wales) Regulations 2020 ([S.I. 2020/1645) (W. 345)](https://www.legislation.gov.uk/wsi/2020/1645); and
+- The Health Protection (Coronavirus, International Travel and Restrictions) (Wales) (Amendment) Regulations 2021 ([S.I. 2021/20) (W. 7)](https://www.legislation.gov.uk/wsi/2021/20).
+
+The International Travel Regulations impose requirements on persons entering Wales after having been abroad. They include a requirement for persons arriving in Wales to isolate for a period determined in accordance with those Regulations.
+
+The requirements imposed by the International Travel Regulations are subject to exceptions, and certain categories of person are exempt from having to comply.
+
+Persons entering Wales after being in one or more of the countries and territories listed in Schedule 3 to the International Travel Regulations are not required to isolate. The countries and territories listed in Schedule 3 are referred to as “exempt countries and territories”.
+
+Part 2 of these Regulations amends the list of exempt countries and territories. Regulation 2 amends the International Travel Regulations to remove the entries for Aruba, the Azores, Bonaire, Sint Eustatius and Saba, Chile, and Madeira and Qatar.
+
+Regulation 3 of these Regulations makes transitional provision in connection with these countries’ and territories’ change of status. The transitional provision addresses a potential area of doubt in terms of the effect on the operation of the International Travel Regulations, of the amendments made by regulation 2 of these Regulations.
+
+Part 3 of these Regulations amends Schedule 3A to the International Travel Regulations. Schedule 3A to the International Travel Regulations list those countries and territories subject to additional measures by virtue of regulations 12E and 12F of those Regulations. Regulation 12E provides that when a person has been in a specified country or territory listed in Schedule 3A, that person and members of their household are required to isolate. Further, the categories of exempt persons as detailed at Schedule 2 to the International Travel Regulations do not apply, and there are more limited circumstances in which a person may leave isolation. Regulation 12F imposes restrictions on the arrival of aircraft and vessels arriving directly from a country listed in the Schedule 3A to the International Travel Regulations.
+
+Regulation 4 lists the following countries and territories in Schedule 3A: Argentina; Brazil; Bolivia; Chile; Colombia; Ecuador; French Guiana; Guyana; Paraguay; Peru; Portugal; Republic of Cabo Verde; Republic of Panama; Suriname; Uruguay; and Venezuela.
+
+Part 4 of these Regulations amends the Restrictions Regulations to impose more stringent isolation requirements on people who have been in one of 16 listed countries within the period of 10 days prior to 4.00 a.m. on 15 January 2021 and on anyone in the same household as such people. These are countries where there is evidence of community spread of a new variant of coronavirus. The amendments also correct the Welsh language text of paragraph 48 of Schedule 4 to the Restrictions Regulations to clarify that show homes are permitted to stay open in Alert Level 4 areas.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has not been prepared as to the likely cost and benefit of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14). The function of making regulations under Part 2A is conferred on “the appropriate Minister”. Under section 45T(6) of the 1984 Act the appropriate Minister as respects Wales, is the Welsh Ministers.
+
+[^key-00adff9b5f31b8bc35a21366fc7738bb]: Commencement: Reg. 1 in force at 15.1.2021 at 4.00 a.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/46/regulation/1/2)
+
+[^f00002]: Footnote: [S.I. 2020/574 (W. 132)](https://www.legislation.gov.uk/wsi/2020/574), as amended by [S.I. 2020/595 (W. 136)](https://www.legislation.gov.uk/wsi/2020/595), [S.I. 2020/714 (W. 160)](https://www.legislation.gov.uk/wsi/2020/714), [S.I. 2020/726 (W. 163)](https://www.legislation.gov.uk/wsi/2020/726), [S.I. 2020/804 (W. 177)](https://www.legislation.gov.uk/wsi/2020/804), [S.I. 2020/817 (W. 179)](https://www.legislation.gov.uk/wsi/2020/817), [S.I. 2020/840 (W. 185)](https://www.legislation.gov.uk/wsi/2020/840), [S.I. 2020/868 (W. 190)](https://www.legislation.gov.uk/wsi/2020/868), [S.I. 2020/886 (W. 196)](https://www.legislation.gov.uk/wsi/2020/886), [S.I. 2020/917 (W. 205)](https://www.legislation.gov.uk/wsi/2020/917), [S.I. 2020/942](https://www.legislation.gov.uk/uksi/2020/942), [S.I. 2020/944 (W. 210)](https://www.legislation.gov.uk/wsi/2020/944), [S.I. 2020/962 (W. 216)](https://www.legislation.gov.uk/wsi/2020/962), [S.I. 2020/981 (W. 220)](https://www.legislation.gov.uk/wsi/2020/981), [S.I. 2020/1015 (W. 226)](https://www.legislation.gov.uk/wsi/2020/1015), [S.I. 2020/1042 (W. 231)](https://www.legislation.gov.uk/wsi/2020/1042), [S.I. 2020/1080 (W. 243)](https://www.legislation.gov.uk/wsi/2020/1080), [S.I. 2020/1098 (W. 249)](https://www.legislation.gov.uk/wsi/2020/1098), [S.I. 2020/1133 (W. 258)](https://www.legislation.gov.uk/wsi/2020/1133), [S.I. 2020/1165 (W. 263)](https://www.legislation.gov.uk/wsi/2020/1165), S.I 2020/1191 (W. 269), [S.I. 2020/1223 (W. 277)](https://www.legislation.gov.uk/wsi/2020/1223), [S.I. 2020/1232 (W. 278)](https://www.legislation.gov.uk/wsi/2020/1232), [S.I. 2020/1237 (W. 279)](https://www.legislation.gov.uk/wsi/2020/1237), [S.I. 2020/1288 (W. 286)](https://www.legislation.gov.uk/wsi/2020/1288), [S.I. 2020/1329 (W. 295)](https://www.legislation.gov.uk/wsi/2020/1329), [S.I. 2020/1362 (W. 301)](https://www.legislation.gov.uk/wsi/2020/1362), [S.I. 2020/1477 (W. 316)](https://www.legislation.gov.uk/wsi/2020/1477), [S.I. 2020/1521 (W. 325)](https://www.legislation.gov.uk/wsi/2020/1521), [S.I. 2020/1602 (W. 332)](https://www.legislation.gov.uk/wsi/2020/1602), [S.I. 2020/1645 (W. 345)](https://www.legislation.gov.uk/wsi/2020/1645), [S.I. 2021/20 (W. 7)](https://www.legislation.gov.uk/wsi/2021/20) and [S.I. 2021/24 (W. 8)](https://www.legislation.gov.uk/wsi/2021/24).
+
+[^f00003]: Footnote: [S.I. 2020/1609 (W. 335)](https://www.legislation.gov.uk/wsi/2020/1609) as amended by [S.I. 2020/1610 (W. 336)](https://www.legislation.gov.uk/wsi/2020/1610), [S.I. 2020/1623 (W. 340)](https://www.legislation.gov.uk/wsi/2020/1623), [S.I. 2020/1645 (W. 345)](https://www.legislation.gov.uk/wsi/2020/1645) and [S.I. 2021/20 (W. 7)](https://www.legislation.gov.uk/wsi/2021/20).
+
+[^key-7df4ffbc7e145ff695d3b3b6b86c07b4]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/wsi/2021/46/part/2) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/62)
+
+[^key-9803869490cee2f332db7abdc2da1f17]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2021/46/part/3) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/62)
+
+[^key-8b3ffa01b77e751a2b14b520d5c10a9a]: Commencement: Reg. 8 in force at 15.1.2021 at 4.00 a.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/46/regulation/1/2)

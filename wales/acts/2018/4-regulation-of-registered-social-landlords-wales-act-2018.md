@@ -1,0 +1,613 @@
+---
+title: Regulation of Registered Social Landlords (Wales) Act 2018
+id: anaw/2018/4
+type: WelshNationalAssemblyAct
+category: primary
+status: revised
+made_date: '2018-06-13'
+text_date: '2018-08-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2018/4
+pdf_urls:
+- http://www.legislation.gov.uk/anaw/2018/4/pdfs/anawen_20180004_en.pdf
+- http://www.legislation.gov.uk/anaw/2018/4/pdfs/anawen_20180004_mi.pdf
+- http://www.legislation.gov.uk/anaw/2018/4/pdfs/anawen_20180004_we.pdf
+- http://www.legislation.gov.uk/anaw/2018/4/pdfs/anaw_20180004_en.pdf
+- http://www.legislation.gov.uk/anaw/2018/4/pdfs/anaw_20180004_we.pdf
+- http://www.legislation.gov.uk/anaw/2018/4/pdfs/anaw_20180004_mi.pdf
+- http://www.legislation.gov.uk/anaw/2018/4/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulation of Registered Social Landlords (Wales) Act 2018
+
+> Text as at 2018-08-15.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Regulation of Registered Social Landlords (Wales) Act 2018
+
+2018 anaw 4
+
+An Act of the National Assembly for Wales to make provision about the regulation of registered social landlords by the Welsh Ministers and local authorities.
+
+\[13 June 2018\]
+
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
+
+## Overview
+
+### 1. Overview of this Act[^key-f4e5328b7ec6256176f956744abd98d3]
+
+(1) This Act makes provision in respect of registered social landlords by amending existing Acts, including in particular the Housing Act 1996 (c. 52).
+
+(2) Sections 3 to 5 make provision about requirements to be complied with when certain changes are made in respect of the constitutional arrangements or structure of a registered social landlord.
+
+(3) Sections 6 to 9 make provision about the Welsh Ministers' power to intervene in respect of the officers or management of a registered social landlord.
+
+(4) Section 10 makes provision about the Welsh Ministers' powers in respect of inquiries into registered social landlords.
+
+(5) Sections 11 and 12 make provision about enforcement notices and penalties.
+
+(6) Sections 13 to 15 make provision about disposals of land by registered social landlords.
+
+(7) Section 16 introduces Schedule 1, making provision limiting local authority influence on the boards of registered social landlords.
+
+(8) Sections 17 to 20 contain general provisions applicable to the Act, including provision about the power to make consequential amendments, and the coming into force of the Act.
+
+## Interpretation
+
+### 2. Meaning of the “1996 Act”[^key-7536f5f33529d671066aa15095094af8]
+
+References in this Act to the “1996 Act” are to the Housing Act 1996 (c. 52).
+
+## Notification by registered social landlord of constitutional changes, etc.
+
+### 3. Change of rules or articles[^key-ed278beafbf9fb9d87a25842b444e261]
+
+(1) Schedule 1 to the 1996 Act is amended as follows.
+
+(2) In paragraph 9 (change of rules of registered society), for sub-paragraphs (2) to (5) substitute—
+
+> (2) The registered society must notify the Welsh Ministers of any amendment to its rules (including a change in its registered office or name).
+>
+> (3) The reference in sub-paragraph (2) to an amendment to the rules of a society is to be interpreted in accordance with section 149 of the Co-operative and Community Benefit Societies Act 2014 (c. 14).
+
+(3) In paragraph 11 (change of company articles), for sub-paragraphs (2) to (4) substitute—
+
+> (2) The company must notify the Welsh Ministers of any change to—
+>
+> - (a) its name;
+> - (b) the address of its registered office;
+> - (c) its articles of association.
+
+### 4. Amalgamation and other structural changes[^key-bc534c0c6df304074a03e8fae6a3ccf6]
+
+(1) Schedule 1 to the 1996 Act is amended as follows.
+
+(2) In paragraph 12 (amalgamation and dissolution), in sub-paragraph (2)—
+
+- (a) for “The Financial Conduct Authority shall not register a special resolution which is” substitute “ The society must notify the Welsh Ministers of a special resolution which it has ”, and
+- (b) omit the words from “unless” to the end of the sub-paragraph.
+
+(3) In paragraph 12, after sub-paragraph (2) insert—
+
+> (2A) On giving notification under sub-paragraph (2), a society must also provide the Welsh Ministers with a statement about the consultation carried out by the society with its tenants before passing the resolution to which the notification relates.
+>
+> (2B) But the requirement in sub-paragraph (2A) does not apply in respect of a resolution passed for the purposes of paragraph (a) of section 112(1) of the 2014 Act (conversion of society into a company).
+
+(4) In paragraph 12, in sub-paragraph (4), for the words from “the resolution has no effect” to the end of the sub-paragraph substitute “ the society must notify the Welsh Ministers of the resolution. ”
+
+(5) In paragraph 12, for sub-paragraph (5) substitute—
+
+> (5) If an instrument of dissolution is approved in accordance with section 119(3) of the 2014 Act (dissolution of society by instrument), the society to which the instrument relates must notify the Welsh Ministers of the approval.
+
+(6) In paragraph 12, omit sub-paragraph (6).
+
+(7) In paragraph 13 (arrangement, reconstruction, etc.), for sub-paragraphs (2) to (5) substitute—
+
+> (2) If a court makes an order under section 899 of the Companies Act 2006 (sanction of compromise or arrangement with creditors or members) in relation to the company, the company must notify the Welsh Ministers of the order.
+>
+> (3) If a court makes an order under section 900 of the Companies Act 2006 (powers of court to facilitate reconstruction or amalgamation) in relation to the company, the company must notify the Welsh Ministers of the order.
+>
+> (4) If the company passes a resolution under section 115 of the Co-operative and Community Benefit Societies Act 2014 (conversion of company into registered society), the company must notify the Welsh Ministers of the resolution.
+>
+> (5) If a voluntary arrangement is proposed under Part 1 of the Insolvency Act 1986 in relation to a company, the company must notify the Welsh Ministers of the proposal.
+
+(8) In paragraph 13, in sub-paragraph (6), for the words from “the resolution has no effect” to the end of the sub-paragraph substitute “ the company must notify the Welsh Ministers of the resolution. ”
+
+(9) In paragraph 13, omit sub-paragraph (7).
+
+(10) Omit paragraph 14 (Welsh Ministers' power to petition for winding up).
+
+### 5. Directions about notifications to be given to Welsh Ministers[^key-bc8781c6ccae5f7c02e94cb98e1ca1c0]
+
+In Schedule 1 to the 1996 Act, after paragraph 13 insert—
+
+> **13A. Directions to registered social landlords about notifications**
+>
+> (1) The Welsh Ministers may give directions to registered social landlords about—
+>
+> - (a) the delivery, form and content of a notification given to the Welsh Ministers under paragraph 9, 11, 12 or 13;
+> - (b) the deadline for giving a notification referred to in paragraph (a).
+>
+> (2) The Welsh Ministers may give directions to registered social landlords dispensing with a requirement to give a notification referred to in sub-paragraph (1)(a).
+>
+> (3) A direction under this paragraph may be given generally in respect of all registered social landlords, or in respect of a particular registered social landlord or a particular type of registered social landlord, and may make provision about notifications generally, or about particular notifications or types of notification.
+>
+> (4) A direction may vary or revoke a previous direction under this paragraph.
+>
+> (5) A registered social landlord must comply with a direction under this paragraph.
+
+## Powers exercisable in respect of officers and management of registered social landlord
+
+### 6. Removal or appointment of officer of registered social landlord[^key-bcf42a2895d7f396859cb21dc66131f7]
+
+(1) Schedule 1 to the 1996 Act is amended as follows.
+
+(2) In paragraph 4 (Welsh Ministers' power to remove officer), in sub-paragraph (2)(g), for “proper management of the registered social landlord's affairs” substitute “ registered social landlord's compliance with a requirement imposed by or under an enactment ”.
+
+(3) In paragraph 6 (power to appoint officer of registered charity), in sub-paragraph (1)(c), for “for the proper management of the charity's affairs to have an additional officer” substitute “ to have an additional officer in order to ensure that the charity complies with a requirement imposed by or under an enactment ”.
+
+(4) In paragraph 7 (power to appoint officer of company), in sub-paragraph (1)(c), for “for the proper management of the company's affairs to have an additional officer” substitute “ to have an additional officer in order to ensure that the company complies with a requirement imposed by or under an enactment ”.
+
+(5) In paragraph 8 (power to appoint officer of registered society), in sub-paragraph (1)(c), for “for the proper management of the society's affairs to have an additional officer” substitute “ to have an additional officer in order to ensure that the society complies with a requirement imposed by or under an enactment ”.
+
+### 7. Tender or transfer of registered social landlord's management functions[^key-35c8f7d48e4d65be41396a0fecec6f26]
+
+(1) Schedule 1 to the 1996 Act is amended as follows.
+
+(2) In paragraph 15B (management tender), in sub-paragraph (1), for the words from “that” to the end of the sub-paragraph substitute “ that a registered social landlord has failed to comply with a requirement imposed by or under an enactment. ”
+
+(3) In paragraph 15B, in sub-paragraph (2), for “where the misconduct or mismanagement” substitute “ if the failure ”.
+
+(4) In paragraph 15D (management transfer), in sub-paragraph (1), for the words from “that” to the end of the sub-paragraph substitute “ that a registered social landlord has failed to comply with a requirement imposed by or under an enactment. ”
+
+(5) In paragraph 15D, for sub-paragraph (2) substitute—
+
+> (2) But this paragraph does not apply if the failure relates only to the registered social landlord's provision of housing in England.
+
+### 8. Appointment of manager of registered social landlord[^key-c68e6eab0c80c6044110923896731444]
+
+(1) In Schedule 1 to the 1996 Act, paragraph 15F (appointment of manager) is amended as follows.
+
+(2) In sub-paragraph (1), for the words from “that” to the end of the sub-paragraph substitute “ that a registered social landlord has failed to comply with a requirement imposed by or under an enactment. ”
+
+(3) In sub-paragraph (2), for “where the misconduct or mismanagement” substitute “ if the failure ”.
+
+### 9. Amalgamation effected by Welsh Ministers[^key-7076f666ab017a2f2f13fa812f4cfa96]
+
+(1) In Schedule 1 to the 1996 Act, paragraph 15H (amalgamation) is amended as follows.
+
+(2) In sub-paragraph (1), for the words from “that” to the end of the sub-paragraph substitute “ that a registered social landlord which is a registered society has failed to comply with a requirement imposed by or under an enactment. ”
+
+(3) For sub-paragraph (2) substitute—
+
+> (2) But this paragraph does not apply if the failure relates only to the registered social landlord's provision of housing in England.
+
+## Powers exercisable in respect of inquiries etc.
+
+### 10. Inquiries and reports[^key-fd36e475ab6b05f3d93df42bb86e1c2a]
+
+(1) Schedule 1 to the 1996 Act is amended as follows.
+
+(2) In paragraph 20 (Welsh Ministers' power to direct inquiry), in sub-paragraph (1), for “there may have been misconduct or mismanagement” substitute “ the registered social landlord may have failed to comply with a requirement imposed by or under an enactment. ”
+
+(3) In paragraph 23 (powers exercisable on interim basis), in sub-paragraph (1)—
+
+- (a) for paragraph (a)(i) substitute—
+
+  > - (i) that a registered social landlord has failed to comply with a requirement imposed by or under an enactment, and
+
+  ; and
+- (b) in paragraph (b), for the words from “there” to the end of that paragraph substitute “ a registered social landlord has failed to comply with a requirement imposed by or under an enactment. ”
+
+(4) In paragraph 23, in sub-paragraph (2)(a), for “misconduct or mismanagement” substitute “ failure ”.
+
+(5) In paragraph 24 (powers exercisable as result of final report or audit), in sub-paragraph (1), for the words from “there” to “landlord” substitute “ a registered social landlord has failed to comply with a requirement imposed by or under an enactment ”.
+
+(6) In paragraph 24, in sub-paragraph (2)(a), for “misconduct or mismanagement” substitute “ failure ”.
+
+(7) In paragraph 27 (power to direct transfer of land), for sub-paragraph (1)(a) substitute—
+
+> - (a) that it has failed to comply with a requirement imposed by or under an enactment, and
+
+.
+
+## Enforcement notices and penalties
+
+### 11. Enforcement notices[^key-7e91e7bb0e2e560000c362b22d2d03eb]
+
+(1) Section 50C of the 1996 Act (enforcement notices) is amended as follows.
+
+(2) For subsection (3) substitute—
+
+> (3) Case 2 is where the registered social landlord has failed to comply with a requirement imposed by or under an enactment.
+
+(3) After subsection (10) insert—
+
+> (10A) But Case 2 is not to be treated as applying if any of the other cases listed in this section applies.
+
+### 12. Requirement to pay a penalty[^key-07a7b1b14fd31d1528bfcac03c001de2]
+
+(1) Section 50H of the 1996 Act (cases in which penalty may be imposed) is amended as follows.
+
+(2) For subsection (3) substitute—
+
+> (3) Case 2 is where the registered social landlord has failed to comply with a requirement imposed by or under an enactment.
+
+(3) After subsection (6) insert—
+
+> (6A) But Case 2 is not to be treated as applying if any of the other cases listed in this section applies.
+
+## Disposals of land
+
+### 13. Disposal of land: consent[^key-8bc05c22ace9dbc731c844c54a386979]
+
+(1) In the Housing Act 1985 (c. 68), in section 171D (subsequent dealings: qualifying dwelling house), in subsection (2ZA), after “housing” insert “ or by a registered social landlord ”.
+
+(2) In the Housing Act 1988 (c. 50), omit section 81 (consent required for certain subsequent disposals).
+
+(3) Section 133 of the Housing Act 1988 (consents required for subsequent disposals) is amended as follows.
+
+(4) In subsection (1), omit “as defined in section 81(8) above”.
+
+(5) In subsection (1B), after “housing” insert “ or to a body registered as a registered social landlord under Chapter 1 of Part 1 of the Housing Act 1996. ”
+
+(6) In subsection (7), omit “9 or”.
+
+(7) After subsection (10), insert—
+
+> (11) In this section “**exempt disposal**” means—
+>
+> - (a) the disposal of a dwelling-house to a person having the right to buy it under Part 5 of the Housing Act 1985 (whether the disposal is in fact made under that Part or otherwise);
+> - (b) a compulsory disposal, within the meaning of Part 5 of the Housing Act 1985;
+> - (c) the disposal of an easement or rentcharge;
+> - (d) the disposal of an interest by way of security for a loan;
+> - (e) the grant of a secure tenancy or what would be a secure tenancy but for any of paragraphs 2 to 12 of Schedule 1 to the Housing Act 1985;
+> - (f) the grant of an assured tenancy or an assured agricultural occupancy, within the meaning of Part 1 of this Act, or what would be such a tenancy or occupancy but for any of paragraphs 4 to 8 of Schedule 1 to this Act;
+> - (g) the transfer of an interest held on trust for any person where the disposal is made in connection with the appointment of a new trustee or in connection with the discharge of any trustee.
+
+### 14. Disposal of land: notification[^key-3a843204e641874b30bd572c61708f47]
+
+In the 1996 Act, for section 9 substitute—
+
+> **9. Notification to Welsh Ministers of disposal of land**
+>
+> (1) If a registered social landlord disposes of land under section 8, the landlord must notify the Welsh Ministers.
+>
+> (2) For the purposes of this section disposing of land means selling it, leasing it, mortgaging it, making it subject to a charge, or disposing of it in any other way.
+>
+> (3) The Welsh Ministers may give directions to registered social landlords about—
+>
+> - (a) the delivery, form and content of notification under this section;
+> - (b) the deadline for giving notification under this section.
+>
+> (4) The Welsh Ministers may give directions to registered social landlords dispensing with a requirement to give notification under this section.
+>
+> (5) A direction under this section may be given generally in respect of all registered social landlords, or in respect of a particular registered social landlord or a particular type of registered social landlord, and may make provision about notifications generally, or about particular notifications or types of notification.
+>
+> (6) A direction may vary or revoke a previous direction under this section.
+>
+> (7) A registered social landlord must comply with a direction under this section.
+
+### 15. Disposal proceeds fund[^key-df2f9da061e3de555b17ebda8cadcfaa]
+
+In the 1996 Act, omit—
+
+- (a) section 24 (disposal proceeds fund);
+- (b) section 25 (application or appropriation of disposal proceeds);
+- (c) section 26 (disposal proceeds: power to require information).
+
+## Board membership and voting rights
+
+### 16. Limit on local authority board membership and voting rights[^key-10826b8877ff4e928991e74fe77b5698]
+
+Schedule 1 to this Act inserts a new Chapter 1A into Part 1 of the 1996 Act (social rented sector regulated by the Welsh Ministers), limiting local authorities' powers in respect of the membership of the board of a registered social landlord and their voting rights.
+
+## General
+
+### 17. Minor and consequential amendments[^key-a39bafc67c8c0dd17ac683f915474053]
+
+Schedule 2 contains minor and consequential amendments.
+
+### 18. Power to make further consequential amendments etc.[^key-97f09630c36d00340823a0fe93da17bf]
+
+(1) The Welsh Ministers may by regulations make such provision amending, repealing or revoking any enactment as they consider appropriate in consequence of any provision made by or under this Act, or for the purpose of giving full effect to any provision made by or under this Act.
+
+(2) In this section, “**enactment**” means a provision contained in any of the following, whenever enacted or made—
+
+- (a) an Act of Parliament;
+- (b) a Measure or Act of the National Assembly for Wales;
+- (c) any instrument made under an Act within paragraph (a), or an Act or Measure within paragraph (b).
+
+(3) Regulations under this section—
+
+- (a) are to be made by statutory instrument;
+- (b) may include transitional, transitory or saving provision.
+
+(4) A statutory instrument containing regulations under this section which amend or repeal any provision of an Act of Parliament, or a Measure or Act of the National Assembly for Wales, may not be made unless a draft of the instrument has been laid before, and approved by resolution of, the National Assembly for Wales.
+
+(5) Any other instrument containing regulations under this section is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+### 19. Coming into force
+
+(1) This section and section 20 come into force on the day after the day on which this Act receives Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Welsh Ministers may appoint by order made by statutory instrument.
+
+(3) An order under subsection (2) may—
+
+- (a) appoint different days for different purposes;
+- (b) make transitional, transitory or saving provision in connection with the coming into force of a provision in this Act.
+
+### 20. Short title
+
+The short title of this Act is the Regulation of Registered Social Landlords (Wales) Act 2018.
+
+## SCHEDULE 1 — LIMIT ON LOCAL AUTHORITY BOARD MEMBERSHIP AND VOTING RIGHTS[^key-dacd1473c6615d9977a458125176dd46]
+
+(introduced by section 16)
+
+[^key-dacd1473c6615d9977a458125176dd46]
+
+In Part 1 of the 1996 Act, after Chapter 1 insert—
+
+> **Chapter 1A — BOARD MEMBERSHIP AND VOTING RIGHTS**
+>
+> **General**
+>
+> **7A. Meaning of key terms used in this Chapter**
+>
+> (1) References in this Chapter to the board of a registered social landlord are—
+>
+> - (a) in the case of a registered social landlord that is a company (including a company that is a registered charity), references to the company's board of directors;
+> - (b) in the case of a registered social landlord that is a registered charity (but is not a company), references to the charity's board of trustees;
+> - (c) in the case of a registered social landlord that is a registered society, references to the society's committee.
+>
+> (2) References in this Chapter to board members, in relation to a registered social landlord, are to members of the registered social landlord's board.
+>
+> (3) References in this Chapter to local authority appointees, in relation to the board of a registered social landlord, are to persons appointed to the board, or nominated for appointment to the board, by a local authority.
+>
+> **Limit on local authority appointees to board**
+>
+> **7B. Limit on local authority appointments to board**
+>
+> (1) No appointment within subsection (2) may be made to the board of a registered social landlord on or after the day on which this section comes into force.
+>
+> (2) An appointment is within this subsection if its effect, but for this section, would be that more than 24 per cent of the board members of the registered social landlord would be local authority appointees.
+>
+> (3) To the extent that any provision in the constitution or rules of a registered social landlord would, but for this subsection, conflict with subsection (1) or (2), that provision is to be treated as having no effect.
+>
+> **7C. Removal of local authority appointees to comply with 24 per cent limit**
+>
+> (1) This section applies in respect of a registered social landlord if, on the commencement date, more than 24 per cent of the board members of the registered social landlord are local authority appointees.
+>
+> (2) The registered social landlord must remove local authority appointees from the board to the extent it is necessary to do so to comply with the 24 per cent limit.
+>
+> (3) The registered social landlord must comply with the duty in subsection (2) before the expiry of the 4 month period but, subject to subsection (5), the landlord may not remove an appointee until after the 2 month period expires.
+>
+> (4) A local authority may, before the expiry of the 2 month period, give notice to the registered social landlord specifying local authority appointees appointed or nominated by that authority who are to be removed from the board in order to comply with the 24 per cent limit.
+>
+> (5) Where notice has been given in accordance with subsection (4) the registered social landlord, in complying with subsection (2), must remove the specified local authority appointees from the board (and may do so before the expiry of the 2 month period).
+>
+> (6) Where notice has not been given in accordance with subsection (4) the registered social landlord, in complying with subsection (2), must select the local authority appointees who are to be removed from the board.
+>
+> (7) In this section—
+>
+> - “**commencement date**” means the day on which this section comes into force;
+> - “**2 month period**” means the period of 2 months beginning with the commencement date;
+> - “**4 month period**” means the period of 4 months beginning with the commencement date;
+>
+> references to complying with the 24 per cent limit, in relation to the board of a registered social landlord, are to ensuring that no more than 24 per cent of the members of the board of the registered social landlord are local authority appointees.
+>
+> **7D. Procedure for selection by registered social landlord of local authority appointees for removal**
+>
+> (1) The selection under section 7C(6) of a local authority appointee for removal from the board of a registered social landlord is to be effected by a majority vote of the votes cast by board members who are not local authority appointees.
+>
+> (2) To the extent that any provision in the constitution or rules of the landlord would, but for this subsection, conflict with subsection (1), that provision is to be treated as having no effect for the purposes of section 7C.
+>
+> **Quorum and voting rights of board members**
+>
+> **7E. Board quorum: no requirement for local authority appointee**
+>
+> (1) To the extent that any provision of the constitution or rules of a registered social landlord is within subsection (2), it is to be treated as having no effect.
+>
+> (2) Provision is within this subsection if, but for this section, it would require the presence of one or more local authority appointees in order for a meeting of the board of the registered social landlord to be quorate.
+>
+> **7F. Board resolutions: 75 per cent threshold**
+>
+> (1) To the extent that any provision in the constitution or rules of a registered social landlord is within subsection (2), subsection (3) applies in respect of that provision.
+>
+> (2) Provision is within this section if, but for this section, it would permit a resolution of the board of the registered social landlord to be passed only if more than 75 per cent of the votes cast by the board are in favour of the resolution.
+>
+> (3) The provision is to be treated as requiring only 75 per cent of the votes cast by the board to be in favour of the resolution.
+>
+> **Consent to constitutional change**
+>
+> **7G. Constitutional changes: no requirement for local authority consent and no power of veto**
+>
+> (1) To the extent that any provision of the constitution or rules of a registered social landlord is within subsection (2), it is to be treated as having no effect.
+>
+> (2) Provision is within this subsection if, but for this section, it would—
+>
+> - (a) require the consent of a local authority, or of a local authority appointee, to a change to the constitution or rules of the registered social landlord, or
+> - (b) confer on a local authority, or a local authority appointee, power to veto a change within paragraph (a).
+>
+> **Voting rights of members of registered social landlord**
+>
+> **7H. Voting rights of local authorities**
+>
+> (1) This section applies if a local authority is a member of a registered social landlord.
+>
+> (2) To the extent that any provision in the constitution or rules of the registered social landlord would confer on the local authority the right, as a member of the registered social landlord, to vote on resolutions of the registered social landlord, that provision is to be treated as having no effect.
+>
+> **7I. Provision in agreements that is to be treated as having no effect**
+>
+> To the extent that any provision in an agreement between a registered social landlord and another person would, if it were included in the constitution or rules of the registered social landlord, be treated as having no effect by virtue of this Chapter, that provision of the agreement is to be treated as having no effect.
+>
+> **Wholly controlled subsidiaries: power to disapply this Chapter**
+>
+> **7J. Power to disapply provisions of this Chapter**
+>
+> (1) The Welsh Ministers may by order provide that provisions of this Chapter specified in the order are not to apply to registered social landlords that are wholly controlled local authority subsidiaries.
+>
+> (2) A registered social landlord is a wholly controlled local authority subsidiary if—
+>
+> - (a) it is a company or registered society;
+> - (b) all of its members are within subsection (3), and
+> - (c) one or more of the conditions in subsection (4) (in the case of a company) or in subsection (5) (in the case of a registered society) is met.
+>
+> (3) A person is within this subsection if the person is—
+>
+> - (a) a local authority;
+> - (b) a company or registered society that is a subsidiary of a local authority (see subsection (6));
+> - (c) a person acting on behalf of a person within paragraph (a) or (b).
+>
+> (4) The conditions are—
+>
+> - (a) a local authority has power to appoint or remove all or a majority of the board of directors;
+> - (b) a local authority holds more than half in nominal value of the company's equity share capital;
+> - (c) the company is a subsidiary, within the meaning of the Companies Act 2006 or Part 7 of the Co-operative and Community Benefit Societies Act 2014, of a company or a registered society that is a subsidiary of a local authority by virtue of meeting the condition in paragraph (a) or (b) or in subsection (5)(a).
+>
+> (5) The conditions are—
+>
+> - (a) a local authority has power to appoint or remove all or a majority of the members of the committee of management of the society;
+> - (b) the society is a subsidiary, within the meaning of the Companies Act 2006 or Part 7 of the Co-operative and Community Benefit Societies Act 2014, of a company or a registered society that is a subsidiary of a local authority by virtue of meeting the condition in paragraph (a) or in subsection (4)(a) or (b).
+>
+> (6) For the purposes of subsection (3)(b), a company or registered society is a subsidiary of a local authority if one or more of the conditions in subsection (4) (in the case of a company) or subsection (5) (in the case of a registered society) is met.
+>
+> (7) The Welsh Ministers may by order make provision for a registered social landlord of a description specified in the order to be treated as being a wholly controlled local authority subsidiary for the purposes of this section and any order made under it.
+>
+> (8) An order under this section is to be made by statutory instrument subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+## SCHEDULE 2 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+(introduced by section 17)
+
+### Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+
+**1.**[^key-36b32fc86eff01e0fb92ddfae9ea5c35] In paragraph 1(2) of Schedule 10 to the Leasehold Reform, Housing and Urban Development Act 1993 (acquisition of interests from local authorities)—
+
+- (a) in paragraph (ba), for “sections 9 and” substitute “ section ”;
+- (b) in paragraph (c), omit “and section 81 of that Act (certain subsequent disposals); and”.
+
+### Housing Act 1996 (c. 52)
+
+**2.**[^key-1ad2984d99e52a6d5b6dfb58ef3709ba] The 1996 Act is amended as follows.
+
+**3.**[^key-434e867eb26032986d42f4863c8e723c] In section 8 (power of registered social landlord to dispose of land), in subsection (3), for “(control by Welsh Ministers of land transactions)” substitute “ (notification to Welsh Ministers of disposal of land) ”.
+
+**4.**[^key-f2ecca0c6cdab90108839f7619349dc4] In the italic cross-heading before section 9, for “Control by Welsh Ministers of” substitute “ Requirements relating to ”.
+
+**5.**[^key-56656f7ced084ce1e94e0a2622102020] Omit section 10 (disposals not requiring consent).
+
+**6.**[^key-60d5411d8c33a43c9a33d1ada5f777f2] In section 11 (covenant for repayment of discount on disposal), in subsection (1)—
+
+- (a) omit “, in accordance with a consent given by the Welsh Ministers under section 9,”;
+- (b) omit “and the consent does not provide otherwise,”.
+
+**7.**[^key-0cd16e47af40c979deae80d7ee317c0c] In section 12A (right of first refusal for registered social landlord), in subsection (1)—
+
+- (a) omit “, in accordance with a consent given by the Welsh Ministers under section 9,“ ;
+- (b) omit “and the consent does not provide otherwise,”.
+
+**8.**[^key-9caeeb083e3eda02bffb46c573c12e16] In section 13 (restriction on disposal of houses in National Parks etc.), in subsection (1), omit “, in accordance with a consent given by the Welsh Ministers under section 9,”.
+
+**9.**[^key-91c724d0be9a1d81df16277ad658d014] In section 16 (right of tenant to acquire dwelling), in subsection (2)(b), for “(see section 25)” substitute “ maintained under this Act prior to the coming into force of section 15 of the Regulation of Registered Social Landlords (Wales) Act 2018 ”.
+
+**10.**[^key-615b3c547b01ab250b6f5e7ac7d5c4e4] In section 36 (guidance about the management of housing in England), omit subsection (7).
+
+**11.**[^key-9346a0b98fa0f3d29dcdf4efeb37ce98] In section 42 (moratorium on disposal of land), for subsection (3) substitute—
+
+> (3) Consent is not required under this section for—
+>
+> - (a) a letting of land under an assured tenancy or an assured agricultural occupancy, or what would be an assured tenancy or an assured agricultural occupancy but for any of paragraphs 4 to 8, or paragraph 12(1)(h), or any of paragraphs 12ZA to 12B, of Schedule 1 to the Housing Act 1988;
+> - (b) a letting of land under a secure tenancy or what would be a secure tenancy but for any of paragraphs 2 to 12 of Schedule 1 to the Housing Act 1985;
+> - (c) a disposal under Part 5 of the Housing Act 1985 (the right to buy) or under the right conferred by section 16 (the right to acquire).
+
+**12.**[^key-8fd2475bdfc8df9f6f33fba810d7dd84] In section 52 (general provisions as to orders), in subsection (1), after “section 2,” insert “ 7J, ”.
+
+**13.**[^key-9bd84dddf5b300ff9306c6fc78d2866d] In section 63, in the appropriate place, insert “ “**notify**” means notify in writing; ”.
+
+**14.**[^key-49f9eaf3d7a7e295998ae894d54dd09e] In Schedule 1 (registered social landlords, regulation), in paragraph 25, in sub-paragraph (1)(a), omit “for misconduct or mismanagement”.
+
+**15.**[^key-fe90905f6dd7d5c2a0b0af7f4d216ecd] In Schedule 1, in paragraph 28—
+
+- (a) in sub-paragraph (4)(b), omit “in connection with misconduct or mismanagement”;
+- (b) in sub-paragraph (4)(c), omit “in connection with misconduct or mismanagement”.
+
+## Annotations
+
+[^key-f4e5328b7ec6256176f956744abd98d3]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2018/4/section/1) in force at 15.6.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/777/article/2/a)
+
+[^key-7536f5f33529d671066aa15095094af8]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2018/4/section/2) in force at 15.6.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/777/article/2/b)
+
+[^key-ed278beafbf9fb9d87a25842b444e261]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2018/4/section/3) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(a)](https://www.legislation.gov.uk/wsi/2018/777/article/3/a)
+
+[^key-bc534c0c6df304074a03e8fae6a3ccf6]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2018/4/section/4) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(a)](https://www.legislation.gov.uk/wsi/2018/777/article/3/a)
+
+[^key-bc8781c6ccae5f7c02e94cb98e1ca1c0]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2018/4/section/5) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(a)](https://www.legislation.gov.uk/wsi/2018/777/article/3/a)
+
+[^key-bcf42a2895d7f396859cb21dc66131f7]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2018/4/section/6) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
+
+[^key-35c8f7d48e4d65be41396a0fecec6f26]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2018/4/section/7) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
+
+[^key-c68e6eab0c80c6044110923896731444]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2018/4/section/8) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
+
+[^key-7076f666ab017a2f2f13fa812f4cfa96]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2018/4/section/9) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(b)](https://www.legislation.gov.uk/wsi/2018/777/article/3/b)
+
+[^key-fd36e475ab6b05f3d93df42bb86e1c2a]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2018/4/section/10) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(c)](https://www.legislation.gov.uk/wsi/2018/777/article/3/c)
+
+[^key-7e91e7bb0e2e560000c362b22d2d03eb]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2018/4/section/11) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(d)](https://www.legislation.gov.uk/wsi/2018/777/article/3/d)
+
+[^key-07a7b1b14fd31d1528bfcac03c001de2]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2018/4/section/12) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(d)](https://www.legislation.gov.uk/wsi/2018/777/article/3/d)
+
+[^key-8bc05c22ace9dbc731c844c54a386979]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2018/4/section/13) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e)
+
+[^key-3a843204e641874b30bd572c61708f47]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2018/4/section/14) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e)
+
+[^key-df2f9da061e3de555b17ebda8cadcfaa]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2018/4/section/15) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(e)](https://www.legislation.gov.uk/wsi/2018/777/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2018/777/article/4))
+
+[^key-10826b8877ff4e928991e74fe77b5698]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2018/4/section/16) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(f)](https://www.legislation.gov.uk/wsi/2018/777/article/3/f)
+
+[^key-a39bafc67c8c0dd17ac683f915474053]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2018/4/section/17) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-97f09630c36d00340823a0fe93da17bf]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2018/4/section/18) in force at 15.6.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/777/article/2/c)
+
+[^key-dacd1473c6615d9977a458125176dd46]: Commencement: [Sch. 1](https://www.legislation.gov.uk/anaw/2018/4/schedule/1) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(f)](https://www.legislation.gov.uk/wsi/2018/777/article/3/f)
+
+[^key-36b32fc86eff01e0fb92ddfae9ea5c35]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/1) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-1ad2984d99e52a6d5b6dfb58ef3709ba]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/2) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-434e867eb26032986d42f4863c8e723c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/3) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-f2ecca0c6cdab90108839f7619349dc4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/4) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-56656f7ced084ce1e94e0a2622102020]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/5) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-60d5411d8c33a43c9a33d1ada5f777f2]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/6) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-0cd16e47af40c979deae80d7ee317c0c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/7) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-9caeeb083e3eda02bffb46c573c12e16]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/8) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-91c724d0be9a1d81df16277ad658d014]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/9) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-615b3c547b01ab250b6f5e7ac7d5c4e4]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/10) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-9346a0b98fa0f3d29dcdf4efeb37ce98]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/11) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-8fd2475bdfc8df9f6f33fba810d7dd84]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/12) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-9bd84dddf5b300ff9306c6fc78d2866d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/13) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-49f9eaf3d7a7e295998ae894d54dd09e]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/14) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)
+
+[^key-fe90905f6dd7d5c2a0b0af7f4d216ecd]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2018/4/schedule/2/paragraph/15) in force at 15.8.2018 by [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(g)](https://www.legislation.gov.uk/wsi/2018/777/article/3/g)

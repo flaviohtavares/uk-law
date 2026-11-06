@@ -1,0 +1,130 @@
+---
+title: The Education (School Day and School Year) (Wales) Regulations 2000
+id: wsi/2000/1323
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-04-19'
+text_date: '2002-07-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2000/1323
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2000/1323/pdfs/wsi_20001323_mi.pdf
+- http://www.legislation.gov.uk/wsi/2000/1323/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (School Day and School Year) (Wales) Regulations 2000
+
+> Text as at 2002-07-30.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2000 No. 1323 (W.101)
+
+EDUCATION, WALES
+
+The Education (School Day and School Year) (Wales) Regulations 2000
+
+Made
+
+19th April 2000
+
+Coming into force
+
+1st May 2000
+
+In exercise of the powers conferred on the Secretary of State by sections 551 and 569(4) and (5) of the Education Act 1996[^f00001] and now vested in the National Assembly for Wales[^f00002] the National Assembly for Wales makes the following Regulations:
+
+**1.**[^key-7d8c8b75cd2f4c702419aea06efe9476] –
+
+(1) These Regulations may be cited as the Education (School Day and School Year) (Wales) Regulations 2000 and shall come into force on 1st May 2000.
+
+(2) These Regulations apply only to Wales.
+
+(3) Regulation 10 of the Education (Schools and Further Education) Regulations 1981[^f00003] is hereby revoked.
+
+**2.**[^key-f195f5d1a4fbdde47185aa37be4be415] In these Regulations —
+
+- “nursery class” (“*dosbarth meithrin*”) means a class predominantly engaged in the provision of full-time or part-time education suitable for children who have not attained compulsory school age;
+- “school” (“*ysgol*”) means a school maintained by a local education authority, or a special school not maintained by a local education authority; and
+- “school year” (“*y flwyddyn ysgol*”) means the period beginning with the first school term to begin after July and ending with the beginning of the first such term to begin after the following July.
+
+**3.**[^key-0e0e1ab84accfc70e6eba82710b8825c] –
+
+(1) Subject to paragraph (5), every day on which a school meets shall be divided into two sessions which shall be separated by a break in the middle of the day unless exceptional circumstances make this undesirable.
+
+(2) At least 380 sessions shall be held at a school during any school year so however that nothing in this paragraph shall require a nursery class to meet for that number of sessions.
+
+(3) Where at any time a school is prevented from meeting for one or more sessions for which it was intended that it should meet, and it is not reasonably practicable for arrangements to be made for it to meet at an alternative time for those sessions, the school shall be treated for the purposes of paragraph (2) as if it had met as intended.
+
+(4) On every day on which a nursery school or nursery class meets there shall be provided at least three hours of suitable activities:
+
+- Provided that on a day on which a pupil —
+  - (a) attends a nursery school or nursery class which meets for only a single session; or
+  - (b) attends a nursery school or nursery class for one only of two sessions,
+
+  it shall be sufficient to provide the pupil with one and a half hours of suitable activities.
+
+(5) In a school which meets on six days a week there may on two of those days be only a single session.
+
+(6)[^key-54a9aa1e75b8a33fe5d5f855fa0c669f] In relation to the 2001—2002 school year, the reference in paragraph (2) to 380 sessions is to be taken as a reference to 378 sessions.
+
+**4.**[^key-bb4c455b8cf7fd5dcd5370bf6dd9e2af] –
+
+(1) Subject to paragraph (3), where a school session in the period beginning on 1st May 2000 and ending on 31st December 2002[^key-d60fa146a3b05497f127db1e4f6e3438] is devoted wholly or mainly to the provision to teachers employed at that school of training to which this paragraph applies, that session shall be regarded for the purposes of regulation 3 as a session on which that school has met.
+
+(2) Paragraph (1) applies to training related to the appraisal of school teachers, the school teachers' pay system or school staffing structures.
+
+(3) Paragraph (1) has effect only in relation to six school sessions in total, and where during the period mentioned in that paragraph more than four school sessions are devoted wholly or mainly to the provision to teachers at the school of training to which that paragraph applies, at least two of those sessions must be in the 2000-2001 school year.
+
+**5.**[^key-49b1b06adecd4b5c2cbd9b610dc53448] (1) Where a school session in the 2002—2003 school year is devoted wholly or mainly to the provision to teachers employed at that school of training to which this paragraph applies, that session shall be regarded for the purposes of regulation 3 as a session on which that school has met.
+
+(2) Paragraph (1) shall not have effect in relation to more than two school sessions.
+
+(3) Paragraph (1) applies to training relating to the teaching of pupils at the school who are in the second key stage or the third key stage.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00004].
+
+D. Elis Thomas
+
+The Presiding Officer of the National Assembly
+
+19th April 2000
+
+(This note does not form part of the Regulations)
+
+These Regulations revoke and replace regulation 10 of the Education (Schools and Further Education) Regulations 1981 in relation to Wales only.
+
+Regulation 3 makes provision about the length of the school day and the school year.
+
+Regulation 4 provides that not more than six school sessions devoted to the training of teachers in school teachers' appraisal, the school teachers' pay system or school staffing structures during the period 1st May 2000 to 31st July 2001 may be treated as sessions on which the school has met. Where more than four school sessions are devoted to such training during that period at least two must be in the 2000-2001 school year.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 551(1A) was inserted by paragraph 39 of Schedule 7 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), section 551(2) was amended by paragraph 166 of Schedule 30 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31). For the meaning of “regulations” *see* section 579(1).
+
+[^f00002]: Footnote: The functions of the Secretary of State were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
+
+[^key-7d8c8b75cd2f4c702419aea06efe9476]: Commencement: Reg. 1 in force at 1.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1323/regulation/1/1)
+
+[^f00003]: Footnote: S.I. [1981/1086](https://www.legislation.gov.uk/uksi/1981/1086); the relevant amending instruments are S.I. [1987/879](https://www.legislation.gov.uk/uksi/1987/879), [1990/2259](https://www.legislation.gov.uk/uksi/1990/2259) and [1998/2792](https://www.legislation.gov.uk/uksi/1998/2792).
+
+[^key-f195f5d1a4fbdde47185aa37be4be415]: Commencement: Reg. 2 in force at 1.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1323/regulation/1/1)
+
+[^key-0e0e1ab84accfc70e6eba82710b8825c]: Commencement: Reg. 3 in force at 1.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1323/regulation/1/1)
+
+[^key-54a9aa1e75b8a33fe5d5f855fa0c669f]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/wsi/2000/1323/regulation/3/6) added (18.2.2002) by [The Education (School Day and School Year) (Amendment) (Wales) Regulations 2002 (S.I. 2002/107)](https://www.legislation.gov.uk/wsi/2002/107), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2002/107/regulation/1/1), [3](https://www.legislation.gov.uk/wsi/2002/107/regulation/3)
+
+[^key-bb4c455b8cf7fd5dcd5370bf6dd9e2af]: Commencement: Reg. 4 in force at 1.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/1323/regulation/1/1)
+
+[^key-d60fa146a3b05497f127db1e4f6e3438]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2000/1323/regulation/4/1) substituted (30.7.2002) by [The Education (School Day and School Year) (Amendment) (No. 2) (Wales) Regulations 2002 (S.I. 2002/1556)](https://www.legislation.gov.uk/wsi/2002/1556), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2002/1556/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2002/1556/regulation/2/2)
+
+[^key-49b1b06adecd4b5c2cbd9b610dc53448]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2000/1323/regulation/5) added (18.2.2002) by [The Education (School Day and School Year) (Amendment) (Wales) Regulations 2002 (S.I. 2002/107)](https://www.legislation.gov.uk/wsi/2002/107), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2002/107/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2002/107/regulation/4)
+
+[^f00004]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

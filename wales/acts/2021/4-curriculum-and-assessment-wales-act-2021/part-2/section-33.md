@@ -1,0 +1,61 @@
+---
+title: Curriculum and Assessment (Wales) Act 2021, section 33
+act: Curriculum and Assessment (Wales) Act 2021
+section: '33'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2021/4/section/33
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Curriculum and Assessment (Wales) Act 2021, section 33
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/asc/2021/4
+>
+> Extent: England, Wales.
+
+## 33. Reviews and appeals relating to pupil choice[^key-5412c024e3dee294cc4bc2b4f3b1d9b3][^key-d8627c77040d1df98a476db29ca22247]
+
+*Extent: E+W*
+
+(1) A pupil or parent who is given information about a determination made by a head teacher under section 31—
+
+- (a) may require the head teacher to review the determination, and
+- (b) if dissatisfied with the head teacher's decision on the review, may appeal to the governing body of the school against that decision.
+
+(2) On a review, the head teacher—
+
+- (a) may confirm, vary or revoke the determination, and
+- (b) must give written notice of that decision to—
+  - (i) the pupil,
+  - (ii) the pupil's parent, and
+  - (iii) the governing body.
+
+(3) But subsection (2)(b)(i) does not apply if the head teacher considers that the pupil does not have the capacity to understand—
+
+- (a) the information that would be given, or
+- (b) what it means to exercise the right conferred by subsection (1)(b).
+
+(4) On an appeal, the governing body—
+
+- (a) may confirm the head teacher's decision on the review or direct the head teacher to take the action that it considers appropriate, and
+- (b) must give written notice of its decision to—
+  - (i) the pupil,
+  - (ii) the pupil's parent, and
+  - (iii) the head teacher.
+
+(5) But subsection (4)(b)(i) does not apply if the governing body considers that the pupil does not have the capacity to understand the information that would be given.
+
+(6) The head teacher must comply with a direction given under subsection (4)(a).
+
+(7) The head teacher and governing body of a school within subsection (8) must publish information setting out a procedure for reviews and appeals under this section.
+
+(8) A school is within this subsection if the adopted curriculum applies to pupils who have completed the school year in which the majority of the pupils in their class attained the age of 14.
+
+## Annotations
+
+[^key-5412c024e3dee294cc4bc2b4f3b1d9b3]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2021/4/section/33) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+
+[^key-d8627c77040d1df98a476db29ca22247]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2021/4/section/33) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

@@ -1,0 +1,125 @@
+---
+title: The Town and Country Planning (General Permitted Development) (Amendment) (Wales) Order 2007
+id: wsi/2007/952
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-03-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2007/952
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2007/952/pdfs/wsi_20070952_mi.pdf
+- http://www.legislation.gov.uk/wsi/2007/952/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (General Permitted Development) (Amendment) (Wales) Order 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 952 (W.83)
+
+TOWN AND COUNTRY PLANNING, WALES
+
+The Town and Country Planning (General Permitted Development) (Amendment) (Wales) Order 2007
+
+Made
+
+21 March 2007
+
+Coming into force
+
+22 March 2007
+
+The National Assembly for Wales, in exercise of the powers conferred by sections 59, 60 and 333(7) of the Town and Country Planning Act 1990[^f00001] and now vested in it[^f00002], makes the following Order—
+
+## 1. Citation, commencement and application
+
+(1) The title of this Order is the Town and Country Planning (General Permitted Development) (Amendment) (Wales) Order 2007 and it will come into force on 22 March 2007.
+
+(2) This Order applies in relation to Wales.
+
+## 2. Amendment of Order
+
+(1) The Town and Country Planning (General Permitted Development) Order 1995[^f00003] is amended in accordance with paragraph (2) of this article.
+
+(2) After Part 38 of Schedule 2 add—
+
+> **PART 39 — TEMPORARY PROTECTION OF POULTRY AND OTHER CAPTIVE BIRDS**
+>
+> **Class A**
+>
+> **A. Permitted development**
+>
+> **The erection of a building where that is necessary for the purposes of housing poultry or other captive birds to protect them from avian influenza.**
+>
+> **A.1. Development not permitted**
+>
+> Development is not permitted by Class A if—
+>
+> - (a) the development would affect a listed building or its setting;
+> - (b) the height of the building would exceed 12 metres;
+> - (c) where the development is within three kilometres of an aerodrome, the height of the building would exceed three metres;
+> - (d) the area of ground which would be covered by the building would exceed 465 square metres;
+> - (e) where development permitted by Class A is carried out more than once on land in the occupation of a particular person, the aggregate of the area of ground covered by any such development would exceed 465 square metres;
+> - (f) where the development consists of the extension of a building, the area of ground covered by the building as extended would exceed the area of ground covered by the existing building by more than 50 per cent.
+>
+> **A.2. Conditions**
+>
+> Development is permitted by Class A subject to the following conditions—
+>
+> - (a) the development shall not be used for any purpose other than to house poultry or other captive birds to protect them from avian influenza;
+> - (b) the developer shall, as soon as practicable, and in any event no later than 14 days, after commencing development, serve the relevant notice on the local planning authority; and
+> - (c) on or before the relevant date—
+>   - (i) any building permitted by Class A shall be removed from the land; and
+>   - (ii) the land shall be restored to its condition before the development took place, or restored to such other condition as may be agreed in writing between the local planning authority and the developer.
+>
+> **A.3. Interpretation of Class A**
+>
+> For the purposes of Class A—
+>
+> - “approved body” means a body approved in accordance with Article 2(1)(c) of Directive [92/65/EEC](https://www.legislation.gov.uk/european/directive/1992/0065)[^f00004] laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(1) to Directive [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425)[^f00005];
+> - “avian influenza” means an infection of poultry or other captive birds caused by any influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
+> - “other captive bird” means a bird kept in captivity which is not poultry and includes a bird kept as a pet; for shows, races, exhibitions or competitions; for breeding; for sale; or for use by an approved body;
+> - “poultry” means birds reared or kept in captivity for the production of meat or eggs for consumption, for the production of other products, for restocking supplies of game or for the purposes of any breeding programme for the production of such categories of birds;
+> - “relevant date” means—
+>   - (a) 21 March 2008; or
+>   - (b) the date on which the use of the building permitted by Class A ceases to be necessary for the purposes of protecting poultry or other captive birds from avian influenza,
+>
+>   whichever is the earlier;
+> - “relevant notice” means a notice signed and dated by or on behalf of the developer and containing—
+>   - (a) the name of the developer;
+>   - (b) the address or location of the development (including a site plan and grid reference);
+>   - (c) the name and address of the owner and occupier of the land on which the development is being carried out (if not the developer);
+>   - (d) a description of the development (including the type of poultry or other captive birds to be protected); and
+>   - (e) the date on which the development commenced.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00006]
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+21 March 2007
+
+(This note is not part of the Order)
+
+This Order adds a new Part 39 to Schedule 2 to the Town and Country Planning (General Permitted Development) Order 1995. Part 39 grants planning permission in respect of certain development which is necessary for the purposes of housing poultry and other captive birds to protect them from avian influenza. The extent and nature of the development permitted are subject to limitations. Where Part 39 applies to the development, no specific application for planning permission is needed. Planning permission is instead granted by Part 39, subject to conditions requiring notification to the local planning authority and removal of the development once the need for it has ended or by 21 March 2008 whichever is the sooner.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8), to which there are amendments not relevant to this Order.
+
+[^f00002]: Footnote: The functions of the Secretary of State under sections 59, 60 and 333(7) of the Town and Country Planning Act 1990 were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2 of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)): see the entry in Schedule 1 for the Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8) as substituted by article 4 of, and Schedule 3 to, the National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. [2000/253](https://www.legislation.gov.uk/uksi/2000/253)). By virtue of section 333(4) of the 1990 Act, the powers conferred by sections 59, 60 and 333 (7) of the 1990 Act are exercisable by statutory instrument.
+
+[^f00003]: Footnote: S.I. [1995/418](https://www.legislation.gov.uk/uksi/1995/418); relevant amending instruments are S.I. [1999/293](https://www.legislation.gov.uk/uksi/1999/293), [2004/3156 (W.273)](https://www.legislation.gov.uk/wsi/2004/3156), [2006/1282](https://www.legislation.gov.uk/uksi/2006/1282) and [2006/1386 (W.136)](https://www.legislation.gov.uk/wsi/2006/1386).
+
+[^f00004]: Footnote: OJ No L 268, 14.9.1992, p54-72.
+
+[^f00005]: Footnote: OJ No L 224, 18.8.1990, p29-41
+
+[^f00006]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

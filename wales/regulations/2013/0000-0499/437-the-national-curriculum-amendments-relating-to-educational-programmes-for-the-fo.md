@@ -1,0 +1,155 @@
+---
+title: The National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013
+id: wsi/2013/437
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2013-02-27'
+text_date: '2022-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2013/437
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2013/437/pdfs/wsi_20130437_mi.pdf
+- http://www.legislation.gov.uk/wsi/2013/437/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2022-09-01. See https://www.legislation.gov.uk/changes/affected/wsi/2013/437
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 437 (W.53)
+
+EDUCATION, WALES
+
+The National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013
+
+Made
+
+27 February 2013
+
+Laid before the National Assembly for Wales
+
+28 February 2013
+
+Coming into force in accordance with section 1(1)
+
+The Welsh Ministers, in exercise of the powers in sections 29, 408, 537, 537A(1) and (2) and 569(4) and (5) of the Education Act 199[^f00001]), and in sections 30(1) and (2) and 210 of the Education Act 2002[^f00002] and now vested in them[^f00003] and after consulting with those persons with whom consultation appeared to the Welsh Ministers to be desirable pursuant to section 408(5) of the Education Act 1996 make the following Regulations:
+
+## 1. Title, commencement and application[^key-ecccc396f8f426c60494291f92bde42f]
+
+(1) The title of these Regulations is the National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013 and they come into force on 1 May 2013 except for regulation 3(5) which comes into force on 1 September 2013.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. School Governors' Annual Reports (Wales) Regulations 2011[^key-10e8d0895b390b6ede9e6395e6d76a65]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^key-7bb964ab17677e45d7252266f163c04d][^key-703fea12a3b25060a7aab33b533b6277]
+
+(1) The Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^f00005] is amended as follows.
+
+(2) In regulation 3, omit paragraph (3)(a).
+
+(3) In regulation 4, after paragraph (3) insert—
+
+> (4) Where a pupil is in the final year of the foundation phase the report must contain the information in paragraph 1 of Part 1 of the Schedule.
+
+.
+
+(4) In the Schedule, after paragraph 6 insert—
+
+> **Part 4A — Assessment of pupils in the foundation phase and the second and third key stages in reading and numeracy**
+>
+> **6A.** (1) The results of any assessment carried out in accordance with the assessment arrangements specified by the Welsh Ministers in the Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) Order 2013.
+
+.
+
+(5) In the Schedule, after paragraph 6 insert—
+
+> **Part 4B — Progress of pupils in the foundation phase and the second and third key stages in reading and numeracy**
+>
+> (1) A brief summary of the pupils progress against the additional educational programmes and additional programmes of study given legal effect to by the National Curriculum (Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Order 2013.
+
+.
+
+## 4. School Information (Wales) Regulations 2011[^key-3d8fcb23e32a13d58dc9ca4e7a8b1550]
+
+(1) The School Information (Wales) Regulations 2011[^f00006] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) after the definition of “language category” insert—
+
+  > - “literacy and numeracy comparative report” (“*adroddiad cymharol ar lythrennedd a rhifedd*”) means a report provided to the school by the Welsh Ministers of a school’s performance in the statutory assessments containing a comparison of that school’s performance in respect of those tests in relation to other schools;
+
+  ;
+- (b) after the definition of “school prospectus” insert—
+
+  > - “statutory assessments” (“*asesiadau statudol*”) means the assessment arrangements specified by the Welsh Ministers in the Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) Order 2013;
+
+  .
+
+(3) In regulation 5(1) for “before 1 October” substitute “no later than 1 October”.
+
+(4) In Schedule 3, after paragraph 30 insert—
+
+> (31) The most recent literacy and numeracy comparative report
+
+.
+
+## 5. School Performance Information (Wales) Regulations 2011[^key-8e9caa2ec23e847c0bc4bd607c68b1cb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Leighton Andrews
+
+Minister for Education and Skills, one of the Welsh Ministers
+
+(This note is not part of the Regulations)
+
+These Regulations amend a number of regulations as a consequence of the assessment arrangements specified by the Welsh Ministers in the Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) Order 2013 (“the Assessment Order”). The Assessment Order specifies the assessment arrangements for testing literacy and numeracy in the national curriculum for Wales (“the literacy and numeracy tests”). The Regulations come into force on 1 May 2013 except for regulation 3(5) which comes into force on 1 September 2013.
+
+The Welsh Ministers have added to the national curriculum for Wales by specifying additional educational programmes (“the additional educational programmes”) for the language, literacy and communication skills area of learning and the mathematical development area of learning in the foundation phase, and have also specified additional programmes of study (“the additional programmes of study”) for English, Welsh and mathematics in respect of the second and third key stages.
+
+The additional educational programmes and additional programmes of study were given legal effect by the National Curriculum (Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Order 2013.
+
+Regulation 2 amends the School Governors' Annual Reports (Wales) Regulations 2011 so as to require the governing body of a maintained school to publish in its annual report, the most recent literacy and numeracy comparative information in relation to the school’s performance in the literacy and numeracy tests.
+
+Regulation 3(2) and (3) amends the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011 (“the Head Teacher’s Report Regulations”) so as to require head teacher of a maintained school to report to parents on the results of the end of phase tests in the foundation phase in the final year the child is in the foundation phase. Regulation 3(4) also amends the Head Teacher’s Report Regulations so as to require the head teacher of a maintained school to report to parents on the results of the literacy and numeracy tests.
+
+Regulation 4 amends the School Information (Wales) Regulations 2011 so as to require governing bodies of maintained schools to publish in the school prospectus the most recent literacy and numeracy comparative information in relation to the school’s performance in the literacy and numeracy tests.
+
+Regulation 5 amends the School Performance Information (Wales) Regulations 2011 so as to require the governing body of a maintained school to include in the information provided to Welsh Ministers and local authorities the results of the literacy and numeracy tests.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 29(3) was amended by Schedule 30 and paragraph 67 of Schedule 31 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31). Section 29(3) and (5) were amended by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 408 was amended by paragraph 30 of Schedule 7 and Schedule 8 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), paragraphs 57 and 106 of Schedule 30 and Schedule 31 to the School Standards and Framework Act 1998, paragraph 57 of Schedule 9 to the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 21 of the Education Act 2002, Schedule 12 and Part 7 of Schedule 16 to the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) and by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 537 was amended by paragraph 37 of Schedule 7 to the Education Act 1997, paragraphs 57 and 152 of Schedule 30 to the School Standards and Framework Act 1998, paragraph 60 of Schedule 9 to the Learning and Skills Act 2000 and by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 537A was substituted by paragraph 153 of Schedule 30 to the School Standards and Framework Act 1998 and further amended by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00002]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Sub-sections (1) and (2) of section 30 were amended by the Education Act 2005, section 103(1)(a). Sub-sections (3) and (4) of section 30 were amended by the Education Act 2005, section 103(1)(b).
+
+[^f00003]: Footnote: The functions of the Secretary of State in the sections in the Education Act 1996 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act 2006. The functions of the National Assembly for Wales in the sections in the Education Act 2002 were transferred to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^key-ecccc396f8f426c60494291f92bde42f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2013/437/regulation/1) in force at 1.5.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
+
+[^key-10e8d0895b390b6ede9e6395e6d76a65]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2013/437/regulation/2) revoked (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [12(2)](https://www.legislation.gov.uk/wsi/2022/679/regulation/12/2)
+
+[^key-7bb964ab17677e45d7252266f163c04d]: Commencement: Reg. 3(1)-(4) in force at 1.5.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
+
+[^key-703fea12a3b25060a7aab33b533b6277]: Commencement: Reg. 3(5) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
+
+[^f00005]: Footnote: S.I. [2011/1943 (W.210)](https://www.legislation.gov.uk/wsi/2011/1943).
+
+[^key-3d8fcb23e32a13d58dc9ca4e7a8b1550]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2013/437/regulation/4) in force at 1.5.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
+
+[^f00006]: Footnote: S.I. [2011/1944 (W.211)](https://www.legislation.gov.uk/wsi/2011/1944).
+
+[^key-8e9caa2ec23e847c0bc4bd607c68b1cb]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2013/437/regulation/5) omitted (1.9.2022) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [18](https://www.legislation.gov.uk/wsi/2022/758/regulation/18)

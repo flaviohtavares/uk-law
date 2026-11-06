@@ -1,0 +1,179 @@
+---
+title: The Education (Admission of Looked After Children) (Wales) Regulations 2009
+id: wsi/2009/821
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2009-03-31'
+text_date: '2016-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2009/821
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2009/821/pdfs/wsi_20090821_mi.pdf
+- http://www.legislation.gov.uk/wsi/2009/821/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Admission of Looked After Children) (Wales) Regulations 2009
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/wsi/2009/821
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 821 (W.72)
+
+EDUCATION, WALES
+
+The Education (Admission of Looked After Children) (Wales) Regulations 2009
+
+Made
+
+31 March 2009
+
+Laid before the National Assembly for Wales
+
+1 April 2009
+
+Coming into force
+
+22 April 2009
+
+The Welsh Ministers in exercise of the powers conferred upon the National Assembly for Wales by sections 89(8), 97D and section 138(7) and (8) of the School Standards and Framework Act 1998[^f00001], and now vested in them[^f00002] make the following Regulations:
+
+## 1. Title, commencement and application[^key-c649b85838697cb4d18017a26549f7cf]
+
+(1) The title of these Regulations is the Education (Admission of Looked After Children) (Wales) Regulations 2009.
+
+(2) These Regulations apply in relation to Wales.
+
+(3) Regulations 7, 8 and 9 come into force on 22 April 2009.
+
+(4) The remainder of the Regulations come into force on 22 April 2009 and in relation to admission arrangements under which pupils are to be admitted to maintained schools in Wales in the school year 2010/2011 and any subsequent school year.
+
+## 2. Interpretation[^key-47e0f6d4e53b7607fca3770d5cfa9b40]
+
+(1) In these Regulations—
+
+- “the 1998 Act” (“*Deddf 1998*”) means the School Standards and Framework Act 1998;
+- “code for school admissions” (“*y cod ar gyfer derbyn i ysgolion*”) means the code issued by the Welsh Ministers under section 84 of the 1998 Act;
+- “community school” (“*ysgol gymunedol*”) is to be interpreted in accordance with the 1998 Act;
+- “outside the normal admission round” (“*y tu allan i'r cylch derbyn arferol*”) is to be interpreted in accordance with regulations 2, 3 and 4 of the Education (Infant Class Sizes) (Wales) Regulations 1998[^f00003];
+- “oversubscription criteria” (“*meini prawf gordanysgrifio*”) means the criteria to be used to allocate places at a school if the admission authority receives more applications than there are places available;
+- “relevant looked after child”(“*plentyn perthnasol sy'n derbyn gofal*”) means a child who is looked after by a Welsh local authority in accordance with section 74 of the Social Services and Well-being (Wales) Act 2014[^key-1a2999fd71e09bc2c7f9144a0888d367] at the time of application for his or her admission to a school is made, and who the local authority has confirmed will be looked after at the time when he or she is admitted to the school;
+- “voluntary controlled school” (“*ysgol wirfoddol a reolir*”) is to be interpreted in accordance with the 1998 Act.
+
+(2) Any reference in these Regulations to an admission authority for a school giving priority in its oversubscription criteria to a relevant looked after child is a reference to the authority giving priority to such a child when determining its admission arrangements before the beginning of each school year in accordance with section 89(1) of the 1998 Act.
+
+## 3. Action to be taken by an admission authority to give priority to looked after children in its admission arrangements[^key-8982e26f25d265c234fe6af7ca80420f]
+
+Except where regulations 4, 5 or 6 apply, an admission authority for a maintained school must give first priority in its oversubscription criteria to all relevant looked after children.
+
+## 4. Schools which have been designated as having a religious character[^key-bc88f622e6d49388738562e2e240cedf]
+
+(1) This regulation applies to an admission authority for a school which has been designated by the Welsh Ministers as a school which has a religious character, in accordance with section 69(3) of the 1998 Act.
+
+(2) The admission authority may give first priority in its oversubscription criteria to all relevant looked after children, whether or not they are of the same faith as that which applies to the school in accordance with its designation, and must in any event—
+
+- (a) give first priority to all relevant looked after children who are of that faith over all other children of that faith; and
+- (b) give higher priority to all relevant looked after children not of that faith than all other children not of that faith.
+
+## 5. Schools which have pre-existing arrangements for selection[^key-874d69188733ac29c69b308971cd90a8]
+
+(1) This regulation applies to an admission authority for a school which at the beginning of the 1997-1998 school year made provision in their admission arrangements for selection by ability or by aptitude and has at all times since that date continued to do so, in accordance with section 100(1) of the 1998 Act.
+
+(2) The admission authority must give first priority in its oversubscription criteria to all relevant looked after children who have been selected for admission by reference to ability or aptitude over all other children who have been selected for admission by reference to ability or aptitude.
+
+(3) Where the admission authority has allocated places in accordance with paragraph (2), all relevant looked after children who have not been allocated a place on the basis of their ability or aptitude shall be given higher priority in the oversubscription criteria than all other children who have not been offered a place on the basis of their ability or aptitude.
+
+## 6. Schools which select by pupil banding[^key-2dce1b310ad4580bdfff3dd4042446ce]
+
+(1) This regulation applies to an admission authority for a school which makes provision for selection by ability to the extent that the arrangements are designed to secure that there is equal representation of all levels of ability among applicants, in accordance with section 101(1) of the 1998 Act.
+
+(2) The admission authority must give first priority in its oversubscription criteria to a relevant looked after child within each band over another child who is eligible for a school place within that band.
+
+## 7. Varying admission arrangements already determined for the school year 2010/2011[^key-31101456736ddd634c8b0ae6f6ca4959]
+
+(1) This regulation applies to admission authorities who have already determined their admission arrangements in accordance with section 89(4) of the 1998 Act in relation to the school year 2010/2011.
+
+(2) If an admission authority needs to vary its admission arrangements in order to comply with these Regulations it may vary them without the need to refer the proposed variation to the Welsh Ministers in accordance with section 89(5) of the 1998 Act.
+
+## 8. Admission of relevant looked after children to a maintained school in Wales outside the normal admission round[^key-c46c9ddee54a5b1ed81cfb84db44fc39]
+
+(1) Subject to regulation 9, this regulation applies where, outside the normal admission round, an application for admission has been made by a Welsh local authority in relation to a relevant looked after child to an admission authority for a maintained school in Wales.
+
+(2) The admission authority to whom the application has been made must admit the child.
+
+(3) The local authority may not make an application under this regulation to a school from which the child is permanently excluded.
+
+(4) Before making an application the local authority must consult the admission authority for the school in the manner prescribed in the code for school admissions.
+
+(5) The admission authority may, within the period of 7 days beginning with the day on which the application form was received, refer the matter in the manner prescribed and supplying information as may be prescribed in the code for school admissions to the Welsh Ministers for determination.
+
+(6) A reference under paragraph (5) may only be made on the grounds that the admission of the child to the school would seriously prejudice the provision of efficient education or the efficient use of resources.
+
+## 9. Admission of relevant looked after children to whom section 87 of the 1998 Act applies (admission of twice excluded pupils)[^key-4487e9418fdbb38561b6cde295bf2186]
+
+(1) Section 95(2) of the 1998 Act does not apply in relation to a decision made by, or on behalf of, a Welsh local education authority to admit to a school a relevant looked after child.
+
+(2) The Welsh local education authority must consult, in the manner prescribed in the code for school admissions, with the governing body of any community or voluntary controlled school in Wales before making an application for admission on behalf of a relevant looked after child to whom section 87 of the 1998 Act applies.
+
+(3) The governing body may, within the period of 7 days beginning with the day on which the application form was received, refer the matter in the manner prescribed and supplying the information as may be prescribed in the code for school admissions to the Welsh Ministers.
+
+(4) A reference under paragraph (3) may only be made on the grounds that the admission of the child to the school would seriously prejudice the provision of efficient education or the efficient use of resources.
+
+Jane Hutt
+
+Minister for Children, Education, Lifelong Learning and Skills, one of the Welsh Ministers
+
+31 March 2009
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe the actions to be taken and the circumstances in which an admission authority for a maintained school must give priority in their admission arrangements to a “relevant looked after child” (a child who is looked after by a Welsh local authority within the meaning of section 22 of the Children Act 1989 at the time of their application and who will still be so looked after at the time when he or she is admitted to school).
+
+Regulation 3 requires admission authorities to give priority in their oversubscription criteria to relevant looked after children, subject to the exceptions in regulations 4, 5 and 6.
+
+Regulation 4 allows admission authorities for schools designated as having a religious character to give first priority in their oversubscription criteria to all relevant looked after children, regardless of their faith. The regulation requires them, in any event, to give higher priority to relevant looked after children of the faith of the school, over other children of that faith, and to give higher priority to relevant looked after children not of that faith than other children not of that faith.
+
+Regulation 5 requires admission authorities for schools which have made provision in their admission arrangements for selection by ability or aptitude since the beginning of the 1997-1998 school year to give priority to relevant looked after children who have been selected by ability or aptitude over other children who have been selected by ability or aptitude. Relevant looked after children who have not been allocated a place on the basis of ability or aptitude must be given priority over other children who have not been allocated a place on that basis.
+
+Regulation 6 requires admission authorities for schools which make provision for selection by banding to give priority to relevant looked after children within each band.
+
+Regulation 7 permits an admission authority, in order to comply with these Regulations, to vary the admission arrangements that have already been determined in respect of the school year 2010/2011 without the need to refer the proposed variation to the Welsh Ministers.
+
+Regulation 8 requires admission authorities of maintained schools in Wales to admit a child looked after by a local authority in Wales. It also requires the local authority to consult with the admission authority. An admission authority may make a reference within 7 days to the Welsh Ministers if the admission of the child would cause serious prejudice to the efficient use of education or the efficient use of resources. The manner in which the local authority is to consult, and the manner in which the admission authority is to make the reference to the Welsh Ministers and the information that may be required are to be prescribed in the code for school admissions.
+
+Regulation 9 disapplies section 95(2) of the School Standards and Framework Act 1998 in relation to relevant looked after children. Section 95(2) of the School Standards and Framework Act 1998 places a duty on the local education authority, as the admission authority for a community or voluntary controlled school, to enable the governing body of the school to appeal against any decision made by or on behalf of the authority to admit a twice excluded pupil to the school. Regulation 9 requires the local authority to consult with the governing body. A governing body may make a reference within 7 days to the Welsh Ministers if the admission of the child would cause serious prejudice to the efficient use of education or the efficient use of resources. The manner in which the local education authority is to consult, and the manner in which the governing body is to make the reference to the Welsh Ministers and the information that may be required are to be prescribed in the code for school admissions.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^f00002]: Footnote: By virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-c649b85838697cb4d18017a26549f7cf]: Commencement: Reg. 1 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+
+[^key-47e0f6d4e53b7607fca3770d5cfa9b40]: Commencement: Reg. 2 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+
+[^f00003]: Footnote: S.I. [1998/1943](https://www.legislation.gov.uk/uksi/1998/1943).
+
+[^key-1a2999fd71e09bc2c7f9144a0888d367]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2009/821/regulation/2/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 109](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/109)
+
+[^key-8982e26f25d265c234fe6af7ca80420f]: Commencement: Reg. 3 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+
+[^key-bc88f622e6d49388738562e2e240cedf]: Commencement: Reg. 4 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+
+[^key-874d69188733ac29c69b308971cd90a8]: Commencement: Reg. 5 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+
+[^key-2dce1b310ad4580bdfff3dd4042446ce]: Commencement: Reg. 6 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+
+[^key-31101456736ddd634c8b0ae6f6ca4959]: Commencement: Reg. 7 in force at 22.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/3)
+
+[^key-c46c9ddee54a5b1ed81cfb84db44fc39]: Commencement: Reg. 8 in force at 22.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/3)
+
+[^key-4487e9418fdbb38561b6cde295bf2186]: Commencement: Reg. 9 in force at 22.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/3)

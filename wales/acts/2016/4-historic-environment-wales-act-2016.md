@@ -1,0 +1,361 @@
+---
+title: Historic Environment (Wales) Act 2016
+id: anaw/2016/4
+type: WelshNationalAssemblyAct
+category: primary
+status: repealed
+made_date: '2016-03-21'
+text_date: '2024-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2016/4
+pdf_urls:
+- http://www.legislation.gov.uk/anaw/2016/4/pdfs/anawen_20160004_we.pdf
+- http://www.legislation.gov.uk/anaw/2016/4/pdfs/anawen_20160004_mi.pdf
+- http://www.legislation.gov.uk/anaw/2016/4/pdfs/anawen_20160004_en.pdf
+- http://www.legislation.gov.uk/anaw/2016/4/pdfs/anaw_20160004_mi.pdf
+- http://www.legislation.gov.uk/anaw/2016/4/pdfs/anaw_20160004_we.pdf
+- http://www.legislation.gov.uk/anaw/2016/4/pdfs/anaw_20160004_en.pdf
+- http://www.legislation.gov.uk/anaw/2016/4/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Historic Environment (Wales) Act 2016
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**No longer in force.**
+
+Historic Environment (Wales) Act 2016 (repealed)
+
+2016 anaw 4
+
+[^key-4b214faf4bedd133ebbb1fc8fede76e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## PART 1 — OVERVIEW[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+### 1. Overview[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — ANCIENT MONUMENTS ETC[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+### Overview[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 2. Overview of this Part[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Schedule of monuments[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 3. Amendments relating to the Schedule[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Amendments relating to the Schedule: consequential provision[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Scheduled monument consent[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 5. Simplification of process[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Grant of consent for unauthorised works[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Offence of false information on application[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Refusal of repeat applications etc[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Procedure for determining applications[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Compensation for refusal of scheduled monument consent[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Agreements relating to scheduled monuments[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 11. Heritage partnership agreements[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Scheduled monuments: enforcement[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 12. Enforcement notices[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13. Temporary stop notices[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 14. Injunctions[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Modifications relating to offences[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 15. Control of works affecting scheduled monuments[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16. Damaging certain ancient monuments[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17. Restrictions on use of metal detectors[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Historic parks and gardens[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 18. Register of historic parks and gardens[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 19. Land believed to contain an ancient monument: power of entry[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 20. Monuments in territorial waters[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 21. Service of documents by electronic communication[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 22. Meaning of “monument” in the Ancient Monuments and Archaeological Areas Act 1979[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — LISTED BUILDINGS[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+### Overview[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 23. Overview of this Part[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Listing of buildings of special architectural or historic interest[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 24. Amendments relating to the listing of buildings[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 25. Amendments relating to the temporary listing of buildings[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 26. Amendments relating to the listing of buildings: consequential provision[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 27. Issue of certificate that building not intended to be listed[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Agreements relating to listed buildings[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 28. Heritage partnership agreements[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Listed buildings: enforcement[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 29. Temporary stop notices[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Prevention of deterioration or damage to listed buildings[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 30. Urgent works: extension of scope and recovery of costs[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 31. Preservation of listed buildings in disrepair[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 32. Service of documents by electronic communication[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 33. Determination of appeals by appointed person: supplementary provision[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — MISCELLANEOUS[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+### Historic place names[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 34. List of historic place names[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Historic environment records[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 35. Historic environment records[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 36. Access to historic environment records[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 37. Guidance[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Advisory Panel for the Welsh Historic Environment[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+#### 38. Establishment of Panel and work programme[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 39. Constitution etc[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — GENERAL[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+### 40. Regulations and orders[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 41. Coming into force[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 42. Short title[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## SCHEDULE 1 — SCHEDULES A1 AND A2 TO BE INSERTED INTO THE ANCIENT MONUMENTS AND ARCHAEOLOGICAL AREAS ACT 1979[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+(introduced by section 3)
+
+> **SCHEDULE A1 — LAPSE OF INTERIM PROTECTION[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> (introduced by section 1AC)
+>
+> **1.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **3.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **4.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **5.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **6.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **SCHEDULE A2 — DECISIONS ON REVIEWS BY PERSON APPOINTED BY WELSH MINISTERS[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> (introduced by section 1AE)
+>
+> **Decisions on reviews by appointed persons[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **1.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Powers and duties of appointed person[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **2.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Appointment of another person to make a decision on a review[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **3.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Public local inquiries, hearings and written representations[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **4.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Directions[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **5.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Delegation[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **6.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Supplementary provision[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **7.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — SCHEDULES 1A AND 1B TO BE INSERTED INTO THE PLANNING (LISTED BUILDINGS AND CONSERVATION AREAS) ACT 1990[^key-4b214faf4bedd133ebbb1fc8fede76e4]
+
+(introduced by section 24)
+
+> **SCHEDULE 1A — LAPSE OF INTERIM PROTECTION[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> (introduced by section 2C)
+>
+> **1.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **3.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **4.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **5.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **SCHEDULE 1B — DECISIONS ON REVIEWS BY PERSON APPOINTED BY WELSH MINISTERS[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> (introduced by section 2D)
+>
+> **Decisions on reviews by appointed persons[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **1.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Powers and duties of appointed person[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **2.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Appointment of another person to make a decision on a review[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **3.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Local inquiries, hearings and written representations[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **4.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Directions[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **5.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Delegation[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **6.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Supplementary provision[^key-4b214faf4bedd133ebbb1fc8fede76e4]**
+>
+> **7.**[^key-4b214faf4bedd133ebbb1fc8fede76e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-4b214faf4bedd133ebbb1fc8fede76e4]: Textual amendment: [Act](https://www.legislation.gov.uk/anaw/2016/4) repealed (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 193](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/193) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

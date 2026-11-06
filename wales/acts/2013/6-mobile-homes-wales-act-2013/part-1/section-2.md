@@ -1,0 +1,47 @@
+---
+title: Mobile Homes (Wales) Act 2013, section 2
+act: Mobile Homes (Wales) Act 2013
+section: '2'
+status: revised-with-pending-changes
+text_date: '2025-09-10'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2013/6/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mobile Homes (Wales) Act 2013, section 2
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/anaw/2013/6
+>
+> Extent: England, Wales.
+
+## 2. Mobile home sites subject to Act[^key-dd0f17c00cd11e0a6cb7a60dfdae78fe]
+
+*Extent: E+W*
+
+(1) In this Act “**regulated site**” means any land in Wales on which a mobile home is stationed for the purposes of human habitation (including any land in Wales used in conjunction with that land), other than—
+
+- (a) a site which Schedule 1 provides is not to be a regulated site, or
+- (b) a holiday site.
+
+(2) In this Act “**protected site**” means land which is—
+
+- (a) a regulated site, or
+- (b) a site that would be a regulated site but for paragraph 11 of Schedule 1.
+
+(3) In subsection (1) “**holiday site**” means a site in respect of which the relevant planning permission or the site licence for the site under the Caravan Sites and Control of Development Act 1960—
+
+- (a) is expressed to be granted for holiday use only, or
+- (b) requires that there are times of the year when no mobile home may be stationed on the site for human habitation.
+
+(4) For the purpose of determining whether or not a site is a holiday site, any provision of the relevant planning permission or of the site licence which permits the stationing of a mobile home on the land for human habitation all year round is to be ignored if the mobile home is authorised to be occupied by—
+
+- (a) the person who is the owner of the site, or
+- (b) a person employed by that person but who does not occupy the mobile home under an agreement to which Part 4 applies.
+
+(5) In this Act “**local authority Gypsy and Traveller site**” means land owned by a local authority for the stationing of mobile homes providing accommodation for Gypsies and Travellers.
+
+## Annotations
+
+[^key-dd0f17c00cd11e0a6cb7a60dfdae78fe]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2013/6/section/2) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

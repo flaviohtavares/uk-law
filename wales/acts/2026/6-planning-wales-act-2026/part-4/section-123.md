@@ -1,0 +1,40 @@
+---
+title: Planning (Wales) Act 2026, section 123
+act: Planning (Wales) Act 2026
+section: '123'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/6/section/123
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning (Wales) Act 2026, section 123
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 123. Offence of breaching temporary stop notice[^key-177050c2a9bc22d229ad9dc30b365f07]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) A person commits an offence if, at any time when a temporary stop notice has effect, the person carries out an activity prohibited by the notice or causes or permits such an activity to be carried out.
+
+(2) A person may be charged with an offence under this section by reference to a day or a longer period, and may be convicted of more than one offence in relation to the same temporary stop notice by reference to different periods.
+
+(3) In proceedings against a person for an offence under this section, it is a defence for the person to prove that—
+
+- (a) a copy of the temporary stop notice was not served on the person, and
+- (b) the person did not know, and could not reasonably have been expected to know, of the existence of the notice.
+
+(4) A person guilty of an offence under this section is liable on summary conviction, or on conviction on indictment, to a fine.
+
+(5) In determining the amount of the fine, the court must in particular have regard to any financial benefit that has accrued or appears likely to accrue to the person in consequence of the offence.
+
+## Annotations
+
+[^key-177050c2a9bc22d229ad9dc30b365f07]: Commencement: S. 123 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

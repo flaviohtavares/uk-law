@@ -1,0 +1,49 @@
+---
+title: Democracy and Boundary Commission Cymru etc. Act 2013, section 33
+act: Democracy and Boundary Commission Cymru etc. Act 2013
+section: '33'
+status: revised-with-pending-changes
+text_date: '2025-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2013/4/section/33
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Democracy and Boundary Commission Cymru etc. Act 2013, section 33
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2013/4
+>
+> Extent: England, Wales.
+
+## 33. Considerations for a review of community electoral arrangements
+
+*Extent: E+W*
+
+(1) This section applies where a principal council is considering making or, as the case may be, the Commission is considering recommending, changes to the electoral arrangements for a community.
+
+(2) In considering whether a community should be divided into community wards, regard is to be had to—
+
+- (a) whether the number or distribution of the local government electors for the community is such as to make a single election of community councillors impractical or inconvenient, and
+- (b) whether it is desirable that any area of the community should be separately represented on the community council.
+
+(3) Where it is decided to divide a community into community wards, in considering the size and boundaries of the wards and in fixing the number of community councillors to be elected for each ward, regard is to be had to—
+
+- (a) any change in the number or distribution of local government electors of the community which is likely to take place within the period of five years immediately following any recommendation,
+- (b)[^key-243b635669140e36c9b57a999e0efc97] special geographical considerations, including in particular the size, shape and accessibility of a community ward, and
+- (c) any local ties (including local ties connected to the use of the Welsh language)[^key-8b61759bac76bec1e30e1a800c4054fb] which will be broken by the fixing of any particular boundaries.
+
+(4) Where it is decided not to divide a community into community wards, in fixing the number of councillors to be elected for each community, regard is to be had to—
+
+- (a) the number and distribution of local government electors in the community, and
+- (b) any change in such number or distribution which is likely to take place within the period of five years immediately following the fixing of the number of community councillors.
+
+(5) For the purposes of this section, account is to be taken of any discrepancy between the number of local government electors and number of persons that are eligible to be local government electors (as indicated by relevant official statistics).
+
+(6) In this section, “**relevant official statistics**” means such official statistics (within the meaning of section 6 of the Statistics and Registration Service Act 2007 (c. 18)) as the Commission, or as the case may be, principal council considers appropriate.
+
+## Annotations
+
+[^key-243b635669140e36c9b57a999e0efc97]: Textual amendment: S. 33(3)(b) substituted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(4)(a)](https://www.legislation.gov.uk/asc/2024/5/section/51/4/a), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+
+[^key-8b61759bac76bec1e30e1a800c4054fb]: Textual amendment: Words in s. 33(3)(c) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(4)(b)](https://www.legislation.gov.uk/asc/2024/5/section/51/4/b), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

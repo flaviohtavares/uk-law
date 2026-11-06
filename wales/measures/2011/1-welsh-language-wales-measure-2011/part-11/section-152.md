@@ -1,0 +1,57 @@
+---
+title: Welsh Language (Wales) Measure 2011, section 152
+act: Welsh Language (Wales) Measure 2011
+section: '152'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/mwa/2011/1/section/152
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Welsh Language (Wales) Measure 2011, section 152
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/mwa/2011/1
+>
+> Extent: England, Wales.
+
+## 152. Notices etc
+
+*Extent: E+W*
+
+(1) This section applies in relation to notices and other documents required or authorised to be given under this Measure.
+
+(2) A notice or document that is required or authorised to be given to the Commissioner may be given—
+
+- (a) by delivering it to the Commissioner,
+- (b) by sending it by post to the principal office of the Commissioner, or
+- (c) subject to subsection (3), by transmitting it electronically.
+
+(3) A notice or document may be given to the Commissioner by transmitting it electronically only if it has been transmitted in such manner as the Commissioner may require.
+
+(4) A notice or document that the Commissioner is required or authorised to give to another person may be given—
+
+- (a) by delivering it to the person,
+- (b) by sending it by post to the person's last known address, or
+- (c) subject to subsection (5), by transmitting it electronically.
+
+(5) The Commissioner may give a notice or document to a person by transmitting it electronically only if the following requirements are met—
+
+- (a) the person to whom the notice or document is to be given must have—
+  - (i) indicated to the Commissioner that person's willingness to receive the notice or document by transmission by electronic means, and
+  - (ii) provided the Commissioner with an address suitable for that purpose, and
+- (b) the Commissioner must send the notice or document to the address provided by that person.
+
+(6) A person may give, for the purposes of subsection (4), an indication of willingness to receive—
+
+- (a) notices or documents generally by transmission by electronic means, or
+- (b) notices or documents of particular descriptions by electronic means.
+
+(7) This section does not exclude any method of giving or sending a notice or other document not expressly provided for by this section.
+
+(8) A requirement of this Measure for a notice or document to be in writing does not prevent this section from applying in relation to it.
+
+(9) A requirement for the Commissioner to give a notice or other document to a person does not apply if the Commissioner thinks that it is not practicable to give that notice or document to that person in accordance with subsection (4).
+
+(10) The Welsh Ministers may by order make provision about the date upon which a notice or document is deemed to have been given.

@@ -1,0 +1,354 @@
+---
+title: The Specified Crustaceans (Prohibition on Fishing, Landing, Sale and Carriage) (Wales) Order 2015
+id: wsi/2015/2076
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-12-23'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2015/2076
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2015/2076/pdfs/wsi_20152076_mi.pdf
+- http://www.legislation.gov.uk/wsi/2015/2076/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Specified Crustaceans (Prohibition on Fishing, Landing, Sale and Carriage) (Wales) Order 2015
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 2076 (W. 312)
+
+Sea Fisheries, Wales
+
+Conservation Of Sea Fish
+
+The Specified Crustaceans (Prohibition on Fishing, Landing, Sale and Carriage) (Wales) Order 2015
+
+Made
+
+23 December 2015
+
+Laid before the National Assembly for Wales
+
+30 December 2015
+
+Coming into force
+
+1 February 2016
+
+The Welsh Ministers make the following Order in exercise of the powers conferred by sections 1(1), (2), (3), (4) and (6), 5(1) and (2), 6(1) and (3) and 20(1) of the Sea Fish (Conservation) Act 1967[^f00001] and sections 189(1) and 316(1) of the Marine and Coastal Access Act 2009[^f00002].
+
+## 1. Title, commencement and application[^key-d699f600211607eef2c8823331e97ee9]
+
+(1) The title of this Order is the Specified Crustaceans (Prohibition on Fishing, Landing, Sale and Carriage) (Wales) Order 2015 and it comes into force on 1 February 2016.
+
+(2) Subject to paragraph (3), this Order applies in relation to Wales.
+
+(3) Articles 3(f), (g), (h) and (i) and 6(1)(f) apply in relation to Wales and the Welsh zone.
+
+## 2. Interpretation[^key-93b4d359fda3bba3f9351d4a22b82398]
+
+In this Order—
+
+- “the Act” (“*y Ddeddf*“) means the Sea Fish (Conservation) Act 1967[^f00003];
+- [^key-a59ba525ee8ba57568602b29b2fe1009]...
+- “crawfish” (“*cimwch coch*”) means crawfish of the species *Palinurus elephas* and *Palinurus mauritanicus*;
+- “edible crab” (“*cranc coch*”) means crab of the species *Cancer pagurus*;
+- [^key-a59ba525ee8ba57568602b29b2fe1009]...
+- “green crab” (“*cranc gwyrdd*”) means crab of the species *Carcinus maenas*;
+- “lobster” (“*cimwch*”) means lobster of the species *Homarus gammarus*;
+- “mutilated” (“*wedi ei lurgunio*”) in relation to a lobster or crawfish, means a lobster or crawfish which is mutilated in such a manner as to obscure a V notch;
+- “size” (“*maint*”) means—
+  - (a) in relation to a crawfish, the length of the carapace, along the midline, from the tip of the central rostral spine to the distal edge of the carapace, as shown in Diagram 1 in the Schedule to this Order,
+  - (b) in relation to an edible crab, the width of the carapace measured across the broadest part of the back, as shown in Diagram 2 in the Schedule to this Order,
+  - (c) in relation to a lobster, the length of the carapace, measured parallel to the mid-line from the back of either eye socket to the distal edge of the carapace, as shown in Diagram 3 in the Schedule to this Order,
+  - (d) in relation to a spider crab, the length of the carapace, along the midline, from the edge of the carapace between the rostrums to the posterior edge of the carapace, as shown in Diagram 4 in the Schedule to this Order, and
+  - (e) in relation to a velvet crab, the width of the carapace measured across the broadest part, excluding spines, of the back, as shown in Diagram 2 in the Schedule to this Order;
+- “spider crab” (“*cranc heglog*”) means crab of the species *Maia spp*;
+- “velvet crab” (“*cranc llygatgoch*”) means crab of the species *Necora puber*;
+- “V notch” (“*hollt v*”) means a marking in the shape of a letter “V” cut into at least one of the five flaps of the tail of any lobster or crawfish, with the apex of the letter “V” positioned inward from the edge of the flap;
+- “Wales” (“*Cymru*”) has the same meaning as it has by virtue of section 158 of the Government of Wales Act 2006[^f00005]; and
+- “Welsh zone” (“*parth Cymru*”) has the same meaning as it has by virtue of section 158 of the Government of Wales Act 2006[^f00006].
+
+## 3. Fishing prohibition for specified crawfish, lobster, edible crab, spider crab and velvet crab[^key-a7de541f9fb35b6b720cd3e019bb466e]
+
+(1) Fishing for—
+
+- (a) crawfish with a size of less than 110 millimetres;
+- (b) lobster with a size of less than 90 millimetres;
+- (c) edible crab with a size of less than 140 millimetres;
+- (d) female spider crab with a size of less than 120 millimetres;
+- (e) male spider crab with a size of less than 130 millimetres;
+- (f) velvet crab with a size of less than 65 millimetres;
+- (g) a mutilated crawfish;
+- (h) a mutilated lobster; or
+- (i) any crawfish or lobster bearing a V notch, is prohibited.
+
+(2)[^key-cb135c8ea3f902daddd9f57e441d12e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Prohibitions on landing of specified crawfish, lobster, edible crab, green crab, spider crab and velvet crab[^key-ac142ebece48d72e752101da6f8a8cda]
+
+(1) For the purposes of section 1(1) of the Act (which prohibits the landing of any sea fish of any description which does not meet the requirements as to size as may be prescribed in relation to sea fish of that description), it is prescribed that the minimum size for—
+
+- (a) crawfish, is 110 millimetres;
+- (b) lobster, is 90 millimetres;
+- (c) edible crab, is 140 millimetres;
+- (d) female spider crab, is 120 millimetres;
+- (e) male spider crab, is 130 millimetres; and
+- (f) velvet crab, is 65 millimetres.
+
+(2)[^key-336029f5f3a94a4db40e04990fa1741d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The landing of any—
+
+- (a) mutilated crawfish;
+- (b) mutilated lobster;
+- (c) crawfish or lobster bearing a V notch; or
+- (d) claw or other detached part of any edible crab, green crab, spider crab or velvet crab,
+
+wherever caught, is prohibited.
+
+(4)[^key-4398ccef6bab7cd8c9400b0139fd6ebc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Prohibitions on sale, exposure or offer for sale or possession of specified crawfish, lobster, edible crab, spider crab and velvet crab[^key-6554296e3efd089f8daa4760d48400d7]
+
+(1) For the purposes of section 1(2) of the Act (which prohibits the sale, exposure or offer for sale or possession for the purpose of sale of any sea fish of any description which does not meet the requirements as to size as may be prescribed in relation to sea fish of that description), it is prescribed that the minimum size for—
+
+- (a) crawfish, is 110 millimetres;
+- (b) lobster, is 90 millimetres;
+- (c) edible crab, is 140 millimetres;
+- (d) female spider crab, is 120 millimetres;
+- (e) male spider crab, is 130 millimetres; and
+- (f) velvet crab, is 65 millimetres.
+
+(2)[^key-8eaa69fa41d026bad0273b310d563b13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The sale, exposure or offer for sale of any—
+
+- (a) mutilated crawfish;
+- (b) mutilated lobster;
+- (c) crawfish or lobster bearing a V notch; or
+- (d) claw or other detached part of any edible crab, green crab, spider crab or velvet crab,
+
+wherever caught, is prohibited.
+
+(4)[^key-c42dbf2294a7641345790abf8d3a5da4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Prohibitions on carriage of specified crawfish, lobster, edible crab, green crab, spider crab and velvet crab ...[^key-ef84cf867c915eb81433f759f7b42d60][^key-d340d56a393da46d2101a278735759d9]
+
+(1) For the purposes of section 1(3) of the Act (which prohibits the carriage on specified fishing boats of any sea fish of any description which does not meet the requirements as to size prescribed in relation to sea fish of that description), it is prohibited for a fishing boat[^key-19de10c899b5f675e056bbe97fa32586] to carry any—
+
+- (a) crawfish with a size of less than 110 millimetres;
+- (b) lobster with a size of less than 90 millimetres;
+- (c) edible crab with a size of less than 140 millimetres;
+- (d) female spider crab with a size of less than 120 millimetres;
+- (e) male spider crab with a size of less than 130 millimetres; and
+- (f) velvet crab with a size of less than 65 millimetres.
+
+(2) The carriage on a fishing boat[^key-88ecbe0d515ea1a254f32c6c56d1328f] in Wales of—
+
+- (a) a mutilated crawfish;
+- (b) a mutilated lobster;
+- (c) any crawfish or lobster bearing a V notch;
+- (d) a claw or any other detached part of an edible crab, a green crab, a spider crab or a velvet crab,
+
+wherever caught, is prohibited.
+
+## 7. Revocations and consequential amendments[^key-f2d09379684bb51f601a7dd62b85f7ee]
+
+(1) The following Orders are revoked in relation to Wales—
+
+- (a) the Undersized Crabs Order 1986[^f00007];
+- (b) the Undersized Crabs (Variation) Order 1989[^f00008];
+- (c) the Undersized Lobsters Order 1993[^f00009];
+- (d) the Lobster and Crawfish (Prohibition of Fishing and Landing) (Wales) Order 2002[^f00010];
+- (e) the Undersized Spider Crabs (Wales) Order 2002[^f00011].
+
+(2) The Lobster and Crawfish (Prohibition of Fishing and Landing) Order 2000[^f00012] is revoked in relation to the area of the Welsh zone that lies beyond Wales.
+
+(3) The Undersized Velvet Crabs Order 1989[^f00013] is revoked in relation to Wales and the Welsh zone.
+
+(4) The following Byelaws of the former South Wales Sea Fisheries Committee[^f00014] are revoked in relation to Wales—
+
+- (a) Byelaw 3 (Lobster – Minimum size)[^f00015];
+- (b) Byelaw 5 (Protection of V-Notched Lobsters)[^f00016];
+- (c) Byelaw 6 (Crabs – Minimum size)[^f00017];
+- (d) Byelaw 7 (Crawfish – Minimum size)[^f00018]; and
+- (e) Byelaw 46 (Parts of Crustacean Shellfish)[^f00019].
+
+(5) The following Byelaws of the former North Western and North Wales Sea Fisheries Committee[^f00020] are revoked in relation to Wales—
+
+- (a) Byelaw 29 (Minimum size of Lobster)[^f00021]; and
+- (b) Byelaw 31 (Protection of V-Notched Lobsters)[^f00022].
+
+(6) In the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010[^f00023]—
+
+- (a) in the Table in Schedule 3, delete the rows relating to Byelaws 3, 5, 6, 7 and 46; and
+- (b) in the Table in Schedule 4, delete the rows relating to Byelaws 29 and 31.
+
+(7) In Byelaw 19 (Specified Fish Sizes)[^f00024] of the former North Western and North Wales Sea Fisheries Committee[^f00025], in the Table specifying minimum shellfish size, delete the rows relating to Crawfish (*Palinurus spp*), Edible Crab (*Cancer pagurus*), Lobster (*Homarus gammarus*), Spider Crab (*Maja squinado*) and Velvet Crab (*Liocarcinus puber*).
+
+Carl Sargeant
+
+Minister for Natural Resources, one of the Welsh Ministers
+
+## SCHEDULE — MEASUREMENT OF SIZE OF SPECIFIED CRUSTACEANS[^key-53649a6747455e2af56e4217d102438e]
+
+Article 2
+
+[^key-53649a6747455e2af56e4217d102438e]Diagram 1 (Crawfish)
+
+[^key-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_001)
+
+[^key-53649a6747455e2af56e4217d102438e]Diagram 2 (Edible Crab and Velvet Crab)
+
+[^key-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_002)
+
+[^key-53649a6747455e2af56e4217d102438e]Diagram 3 (Lobster)
+
+[^key-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_003)
+
+[^key-53649a6747455e2af56e4217d102438e]Diagram 4 (Spider Crab)
+
+[^key-53649a6747455e2af56e4217d102438e][image: see source](https://www.legislation.gov.uk/wsi/2015/2076/images/wsi_20152076_en_004)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision regarding fishing for, landing, sale, exposure or offer for sale, possession for the purposes of sale and carriage of specified crustaceans in Wales and the Welsh zone.
+
+This Order revokes, replaces and remakes with amendments the provisions of the Undersized Crabs Order 1986 ([S.I. 1986/497](https://www.legislation.gov.uk/uksi/1986/497)), the Undersized Velvet Crabs Order 1989 ([S.I. 1989/919](https://www.legislation.gov.uk/uksi/1989/919)), the Undersized Crabs (Variation) Order 1989 ([S.I. 1989/2443](https://www.legislation.gov.uk/uksi/1989/2443)), the Undersized Lobsters Order 1993 ([S.I. 1993/1178](https://www.legislation.gov.uk/uksi/1993/1178)), the Lobster and Crawfish (Prohibition of Fishing and Landing) Order 2000 ([S.I. 2000/874](https://www.legislation.gov.uk/uksi/2000/874)), the Lobster and Crawfish (Prohibition of Fishing and Landing) (Wales) Order 2002 ([S.I. 2002/676 (W. 73)](https://www.legislation.gov.uk/wsi/2002/676)) and the Undersized Spider Crabs (Wales) Order 2002 ([S.I. 2002/1897 (W. 198)](https://www.legislation.gov.uk/wsi/2002/1897)). Paragraphs (1) to (3) of article 7 of this Order make the necessary revocations.
+
+The provisions of the subordinate legislation mentioned above which provide enforcement powers for British sea-fishery officers are not replicated in this Order because the enforcement of the provisions consolidated in this Order is now undertaken by Marine Enforcement Officers (pursuant to powers found in Part 8 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23)) and not by British sea-fishery officers.
+
+The Order also revokes, replaces and remakes with amendments Byelaws 3 (Lobster – Minimum size), 5 (Protection of V-Notched Lobsters), 6 (Crabs – Minimum size), 7 (Crawfish – Minimum size) and 46 (Parts of Crustacean Shellfish) of the former South Wales Sea Fisheries Committee (“SWSFC”) and Byelaws 29 (Minimum size of Lobster) and 31 (Protection of V-Notched Lobsters) of the former North Western and North Wales Sea Fisheries Committee (“NWNWSFC”). Paragraphs (4) and (5) of article 7 of this Order make the necessary revocations. Various parts of Byelaw 19 (Specified Fish Sizes) of the former NWNWSFC are also remade in this Order and consequential amendments are made to that Byelaw (article 7(7)).
+
+The SWSFC and the NWNWSFC were abolished, in relation to Wales, on 1 April 2010 when the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38) was repealed by section 187 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23). Since 1 April 2010, the Byelaws mentioned above have had effect as if made by the Welsh Ministers in a statutory instrument by virtue of paragraphs (1) and (3) of article 13 of and Schedules 3 and 4 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)). Article 7(6) of this Order makes the necessary consequential amendments to the 2010 Order.
+
+Article 3(1) of this Order prohibits fishing for crawfish, lobster, edible crab and spider crab under specified minimum sizes in Wales. It further prohibits fishing in Wales and the Welsh zone for velvet crabs under a specified minimum size and any crawfish or lobster which bears a V notch or any crawfish or lobster which has been mutilated in a way which could obscure a V notch. Foreign vessels are exempt from the fishing prohibition imposed by article 3(1) (article 3(2)).
+
+From time to time voluntary schemes are observed pursuant to which fishermen cut a V shaped notch into the tail of a certain lobster or crawfish before returning the relevant animal to the sea. These animals are often berried females or animals slightly below the minimum landing size. Article 3(1)(g), (h) and (i) of this Order will provide those animals with temporary protection, allowing the animal to spawn and further contribute to the stock of that species until the notch grows out.
+
+By virtue of section 5(1) of the Sea Fish (Conservation) Act [1967 (c. 84)](https://www.legislation.gov.uk/ukpga/1967/84) (“the 1967 Act”) it is an offence to fish for the sea fish specified in article 3 of this Order. Where a fishing boat is used in connection with that offence, the master, the owner and the charterer (if any) of that fishing boat will each be guilty of an offence. Section 5(6) of that Act provides that where any sea fish specified in article 3 of this Order are caught, they must (subject to section 9 of the 1967 Act) be returned to the sea immediately. Section 5(7) provides that where subsection (6) is not complied with the master, the owner and the charterer (if any) of the fishing boat will each be guilty of an offence. Penalties are prescribed by section 11 of the 1967 Act.
+
+Article 4(1) of this Order prescribes minimum sizes for the landing of crawfish, lobster, edible crab, spider crab and velvet crab in Wales. There is an exemption from the minimum landing size for the landing of the sea fish specified in article 4(1) from foreign vessels (article 4(2)). Section 1(1) of the 1967 Act prohibits the landing of those species which do not meet the requirements as to minimum size. Offences and penalties are prescribed by section 1(7) and (8) and section 11 of the 1967 Act.
+
+Article 4(3) prohibits the landing in Wales of any crawfish or lobster which bears a V notch or any crawfish or lobster which has been mutilated in a way which could obscure a V notch. It also prohibits the landing in Wales of any claw or other detached part of any edible crab, green crab, spider crab or velvet crab. Foreign vessels are exempt from the prohibition set out in article 4(3) (article 4(4)).
+
+By virtue of section 6(1) of the 1967 Act it is an offence to land the crawfish, lobsters or parts of crab specified in article 4(3). Penalties are prescribed by section 11 of the 1967 Act.
+
+Article 5(1) of this Order prescribes minimum sizes for the sale, exposure or offer for sale or possession for the purpose of sale of crawfish, lobster, edible crab, spider crab and velvet crab in Wales. There is an exemption for the sale etc. of the specified species under the minimum size from foreign vessels (article 5(2)). Section 1(2) of the 1967 Act prohibits the sale etc. of those species which do not meet the requirements as to minimum size set out by article 5(1). Offences and penalties are prescribed by section 1(7) and (8) and section 11 of the 1967 Act.
+
+Article 5(3) prohibits the sale, exposure or offer for sale of any crawfish or lobster which bears a V notch, any crawfish or lobster which has been mutilated in a way which could obscure a V notch or any claw or other detached part of any edible crab, green crab, spider crab or velvet crab. There is an exemption for the sale etc. of such crawfish, lobster or crab parts from foreign vessels (article 5(4)).
+
+Offences and penalties in relation to the sale etc. of such crawfish or lobster in contravention of article 5(3) are prescribed at sections 190 and 191 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+Article 6(1) of this Order prescribes minimum sizes for the carriage of crawfish, lobster, edible crab and spider crab on British fishing boats in Wales. It further prescribes the minimum size of velvet crab which may be carried on British fishing boats in Wales and the Welsh zone. Section 1(3) of the 1967 Act prohibits the carriage of those species which do not meet the requirements as to minimum size prescribed by article 6(1) of this Order in the relevant area. Offences and penalties are prescribed by section 1(7) and (8) and section 11 of the 1967 Act.
+
+Article 6(2) prohibits the carriage on any British fishing boat in Wales of any crawfish or lobster which bears a V notch or any crawfish or lobster which has been mutilated in a way which could obscure a V notch. It further prohibits the carriage on a British fishing boat in Wales of any claw or other detached part of any edible crab, green crab, spider crab or velvet crab. Offences and penalties in relation to the carriage of such crawfish, lobster or the claws or other detached parts of the specified crabs in contravention of article 6(2) are prescribed at sections 190 and 191 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+Article 7 of this Order makes the necessary consequential amendments and revocations in relation to [S.I. 1986/497](https://www.legislation.gov.uk/uksi/1986/497), [S.I. 1989/919](https://www.legislation.gov.uk/uksi/1989/919), [S.I. 1989/2443](https://www.legislation.gov.uk/uksi/1989/2443), [S.I. 1993/1178](https://www.legislation.gov.uk/uksi/1993/1178), [S.I. 2000/874](https://www.legislation.gov.uk/uksi/2000/874), [S.I. 2002/676 (W. 73)](https://www.legislation.gov.uk/wsi/2002/676), [S.I. 2002/1897 (W. 198)](https://www.legislation.gov.uk/wsi/2002/1897) and Byelaws 3 (Lobster – Minimum size), 5 (Protection of V-Notched Lobsters), 6 (Crabs – Minimum size), 7 (Crawfish – Minimum size) and 46 (Parts of Crustacean Shellfish) of the former SWSFC and Byelaws 19 (Specified Fish Sizes), 29 (Minimum size of Lobster) and 31 (Protection of V-Notched Lobsters) of the former NWNWSFC.
+
+Minimum sizes for crawfish, lobster, edible crab and spider crab are specified by Article 17 of and Annex XII to Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) of 30 March 1998 for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms (OJ No. L 125, 24.04.98, p. 1) (“the Council Regulation”). Article 19(1) of the Council Regulation provides that marine organisms under the specified minimum sizes must not be retained on board or be transhipped, landed, transported, stored, sold, displayed or offered for sale and that they must be returned immediately to the sea.
+
+Article 18(3) of the Council Regulation provides that lobsters and crawfish (and other specified species) may only be retained on board and landed whole.
+
+This Order is made in reliance upon Article 46(1) of the Council Regulation, which authorises Member States to take certain national technical measures for the conservation and management of stocks.
+
+The minimum size restrictions imposed by Article 17 of and Annex XII to the Council Regulation will continue to apply in the area of the Welsh zone that lies beyond Wales. The provisions of this Order will supplement the Council Regulation provisions by introducing lower minimum sizes for crawfish, lobster, edible crab and spider crab in the territorial sea adjacent to Wales. This Order also introduces protection for velvet crab (by setting a minimum size for fishing, landing, sale and carriage throughout Wales and the Welsh zone) and green crab (by prohibiting the landing or carriage of detached parts of green crab in Wales).
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to this Order. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with this Order. A copy can be obtained from the Welsh Government, Marine and Fisheries Division, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84) (“the 1967 Act”). Section 1 of the 1967 Act was substituted by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 19(1). Section 1(1) of the 1967 Act was amended by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) (“the 2009 Act”), section 194(1) and (2) and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), article 4, Schedule 2, Part 1, paragraphs 43(1), (2)(a). Section 1(2) of the 1967 Act was amended by the 2009 Act, section 194(1) and (3) and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), article 4, Schedule 2, Part 1, paragraph 43(1), (2)(a). Section 1(3) of the 1967 Act was substituted by the 2009 Act, section 194(1) and (4). Section 1(4) of the 1967 Act was amended by the 2009 Act, section 201, Schedule 15, paragraph 1(1), (2)(a) and (b). See section 1(9) for a definition of “the appropriate national authority”. Section 1(9) was inserted by the 2009 Act, section 194(1) and (5) and amended by [S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760), article 4(2) and (3). Section 5(1) was substituted by the 2009 Act, section 198(1) and (2). Section 5(2) was amended by the 2009 Act, section 201, Schedule 15, paragraph 3(1) and (2). See section 5(9) for a definition of “the appropriate national authority”. Section 5(9) was inserted by the 2009 Act, section 198(3) and amended by [S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760), article 4(2) and (4). Section 6(1) was amended by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), article 4, Schedule 2, Part I, paragraph 43(1) and (6)(a). Section 22(2) of the 1967 Act, which contains a definition of “the Ministers” was amended by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 19(2)(d) and (3) and 45 and 46, Schedule 5, Part II and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), article 4, Schedule 2, Part I, paragraph 43(1) and (12), Part IV. The functions of the Ministers exercisable under sections 6(1) and 20(1) of the 1967 Act and the function of the Board of Trade in section 6(1) of the 1967 Act were transferred to the National Assembly for Wales (as constituted under the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38)) in so far as exercisable in relation to Wales, by virtue of article 2(a) of and Schedule 2 to the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). In so far as those functions are exercisable in relation to the Welsh zone, those functions have been transferred to the Welsh Ministers by virtue of article 4(1)(e) of the Welsh Zone (Boundaries and Transfer of Functions) Order 2010 ([S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760)).
+
+[^f00002]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-d699f600211607eef2c8823331e97ee9]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2015/2076/article/1) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+
+[^key-93b4d359fda3bba3f9351d4a22b82398]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2015/2076/article/2) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+
+[^f00003]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
+
+[^key-a59ba525ee8ba57568602b29b2fe1009]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/2076/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^f00005]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 158(1) was amended by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), section 43(1) and (2). For the purposes of the definition of “Wales” in section 158(1) of the 2009 Act, the boundary between those parts of the sea within the Severn and Dee Estuaries which are to be treated as adjacent to Wales and those which are not are, in each case, a line drawn between the co-ordinates set out in Schedule 3 to the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). By virtue of section 162 of and paragraph 26 of Schedule 11 to the 2006 Act, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) continues to have effect.
+
+[^f00006]: Footnote: The Welsh zone is specified in [S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760).
+
+[^key-a7de541f9fb35b6b720cd3e019bb466e]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2015/2076/article/3) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+
+[^key-cb135c8ea3f902daddd9f57e441d12e4]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/3/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-ac142ebece48d72e752101da6f8a8cda]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2015/2076/article/4) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+
+[^key-336029f5f3a94a4db40e04990fa1741d]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/4/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-4398ccef6bab7cd8c9400b0139fd6ebc]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/wsi/2015/2076/article/4/4) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-6554296e3efd089f8daa4760d48400d7]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2015/2076/article/5) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+
+[^key-8eaa69fa41d026bad0273b310d563b13]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/5/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-c42dbf2294a7641345790abf8d3a5da4]: Textual amendment: [Art. 5(4)](https://www.legislation.gov.uk/wsi/2015/2076/article/5/4) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-ef84cf867c915eb81433f759f7b42d60]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2015/2076/article/6) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+
+[^key-d340d56a393da46d2101a278735759d9]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/wsi/2015/2076/article/6) heading omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/6/a/i) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-19de10c899b5f675e056bbe97fa32586]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/6/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/6/a/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-88ecbe0d515ea1a254f32c6c56d1328f]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/wsi/2015/2076/article/6/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 20(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/20/6/a/ii) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-f2d09379684bb51f601a7dd62b85f7ee]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2015/2076/article/7) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)
+
+[^f00007]: Footnote: [S.I. 1986/497](https://www.legislation.gov.uk/uksi/1986/497) as amended by [S.I. 1989/2443](https://www.legislation.gov.uk/uksi/1989/2443).
+
+[^f00008]: Footnote: [S.I. 1989/2443](https://www.legislation.gov.uk/uksi/1989/2443).
+
+[^f00009]: Footnote: [S.I. 1993/1178](https://www.legislation.gov.uk/uksi/1993/1178).
+
+[^f00010]: Footnote: [S.I. 2002/676 (W. 73)](https://www.legislation.gov.uk/wsi/2002/676).
+
+[^f00011]: Footnote: [S.I. 2002/1897 (W. 198)](https://www.legislation.gov.uk/wsi/2002/1897).
+
+[^f00012]: Footnote: [S.I. 2000/874](https://www.legislation.gov.uk/uksi/2000/874).
+
+[^f00013]: Footnote: [S.I. 1989/919](https://www.legislation.gov.uk/uksi/1989/919).
+
+[^f00014]: Footnote: The South Wales Sea Fisheries Committee was dissolved on 1 April 2010 when article 3 of the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)) brought into force section 187 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), with the effect of repealing the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38).
+
+[^f00015]: Footnote: Byelaw 3 of the former South Wales Sea Fisheries Committee has effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that Byelaw originally applied by virtue of article 13(1) of and Schedule 3 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)).
+
+[^f00016]: Footnote: Byelaw 5 of the former South Wales Sea Fisheries Committee has effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that byelaw originally applied by virtue of article 13(1) of and Schedule 3 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)).
+
+[^f00017]: Footnote: Byelaw 6 of the former South Wales Sea Fisheries Committee has effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that byelaw originally applied by virtue of article 13(1) of and Schedule 3 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)).
+
+[^f00018]: Footnote: Byelaw 7 of the former South Wales Sea Fisheries Committee has effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that byelaw originally applied by virtue of article 13(1) of and Schedule 3 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)).
+
+[^f00019]: Footnote: Byelaw 46 of the former South Wales Sea Fisheries Committee has effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that byelaw originally applied by virtue of article 13(1) of and Schedule 3 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)).
+
+[^f00020]: Footnote: The North Western and North Wales Sea Fisheries Committee was dissolved, in relation to Wales, on 1 April 2010 when article 3 of the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)) brought into force section 187 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), with the effect of repealing the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38) in relation to Wales.
+
+[^f00021]: Footnote: Byelaw 29 of the former North Western and North Wales Sea Fisheries Committee has effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that Byelaw originally applied by virtue of article 13(3) of and Schedule 4 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)).
+
+[^f00022]: Footnote: Byelaw 31 of the former North Western and North Wales Sea Fisheries Committee has effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that Byelaw originally applied by virtue of article 13(3) of and Schedule 4 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)).
+
+[^f00023]: Footnote: [S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630). There are amendments to Schedule 4 to the 2010 Order but they are not relevant to this Order.
+
+[^f00024]: Footnote: Byelaw 19 of the former North Western and North Wales Sea Fisheries Committee has effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that Byelaw originally applied by virtue of article 13(3) of and Schedule 4 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)).
+
+[^f00025]: Footnote: The North Western and North Wales Sea Fisheries Committee was dissolved, in relation to Wales, on 1 April 2010 when article 3 of the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)) brought into force section 187 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), with the effect of repealing the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38) in relation to Wales.
+
+[^key-53649a6747455e2af56e4217d102438e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2015/2076/schedule) in force at 1.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1)

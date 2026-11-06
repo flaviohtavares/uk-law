@@ -1,0 +1,130 @@
+---
+title: The Allocation of Housing and Homelessness (Eligibility) (Wales) (Amendment) Regulations 2022
+id: wsi/2022/485
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-04-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2022/485
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2022/485/pdfs/wsi_20220485_mi.pdf
+- http://www.legislation.gov.uk/wsi/2022/485/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Allocation of Housing and Homelessness (Eligibility) (Wales) (Amendment) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 485 (W. 121)
+
+Housing, Wales
+
+The Allocation of Housing and Homelessness (Eligibility) (Wales) (Amendment) Regulations 2022
+
+Made
+
+27 April 2022
+
+Coming into force
+
+28 April 2022
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 160A(3) and (5) and 172(4)[^f00001] of the Housing Act 1996[^f00002] and section 142(2)(a) and (b) of, and paragraph 1(2) and (4) of Schedule 2 to, the Housing (Wales) Act 2014[^f00003].
+
+In accordance with section 142(3)(b)(ii) of the Housing (Wales) Act 2014, a draft of these Regulations has been laid before, and approved by a resolution of, Senedd Cymru[^f00004].
+
+## 1. Title and commencement
+
+The title of these Regulations is the Allocation of Housing and Homelessness (Eligibility) (Wales) (Amendment) Regulations 2022 and they come into force on 28 April 2022.
+
+## 2. Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014
+
+The Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^f00005] are amended as follows.
+
+## 3. Amendments to regulation 3
+
+In regulation 3 (persons subject to immigration control who are eligible for an allocation of housing accommodation)—
+
+- (a) omit the “and” immediately following paragraph (j);
+- (b) at the end of paragraph (k), for “.” substitute “; and”;
+- (c) after paragraph (k) insert—
+
+  > (1) Class L – a person who has been granted leave to enter or remain in the United Kingdom by virtue of Appendix Ukraine Scheme of the Immigration Rules[^f00006].
+
+## 4. Amendments to regulation 4
+
+In regulation 4(2) (other persons from abroad who are ineligible for an allocation of housing accommodation)—
+
+- (a) omit the “and” after sub-paragraph (h);
+- (b) at the end of sub-paragraph (i), for “.” substitute “; and”;
+- (c) after sub-paragraph (i) insert—
+
+  > - (j) a person who was residing in Ukraine immediately before 1 January 2022 and who left Ukraine in connection with the Russian invasion which took place on 24 February 2022.
+
+## 5. Amendments to regulation 5
+
+In regulation 5(1) (persons subject to immigration control who are eligible for housing assistance)—
+
+- (a) omit the “and” immediately following sub-paragraph (k);
+- (b) at the end of sub-paragraph (l), for “.” substitute “; and”;
+- (c) after sub-paragraph (l) insert—
+
+  > - (m) Class M – a person who has been granted leave to enter or remain in the United Kingdom by virtue of Appendix Ukraine Scheme of the Immigration Rules.
+
+## 6. Amendments to regulation 6
+
+In regulation 6(2) (other persons from abroad who are ineligible for housing assistance)—
+
+- (a) omit the “and” after sub-paragraph (h);
+- (b) at the end of sub-paragraph (i), for “.” substitute “; and”;
+- (c) after sub-paragraph (i) insert—
+
+  > - (j) a person who was residing in Ukraine immediately before 1 January 2022 and who left Ukraine in connection with the Russian invasion which took place on 24 February 2022.
+
+Julie James
+
+Minister for Climate Change, one of the Welsh Ministers
+
+27 April 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Under section 160A(3) of the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52) (“**the 1996 Act**”), a person who is subject to immigration control is ineligible for an allocation of housing accommodation by a local authority unless they come within a class of persons prescribed in regulations made by the Welsh Ministers. Under section 160A(5) the Welsh Ministers may prescribe classes of persons from abroad who, whilst not subject to immigration control, are ineligible for an allocation of housing accommodation.
+
+Under paragraph 1(2) of Schedule 2 to the Housing (Wales) Act [2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7) (“**the 2014 Act**”), a person who is subject to immigration control is ineligible for housing assistance under Chapter 2 of Part 2 of that Act unless they come within a class of persons prescribed in regulations by the Welsh Ministers (or the Secretary of State). Under paragraph 1(4) the Welsh Ministers (or the Secretary of State) may prescribe classes of persons from abroad who, whilst not subject to immigration control, are ineligible for housing assistance.
+
+These Regulations amend the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014 ([S.I. 2014/2603 (W. 257)](https://www.legislation.gov.uk/wsi/2014/2603)) (“**the 2014 Regulations**”) which make provision for which persons, subject to immigration control, are eligible for an allocation of housing accommodation and for housing assistance. The 2014 Regulations also make provision in regard to persons from abroad who are not subject to immigration control but are ineligible for an allocation of housing accommodation and housing assistance.
+
+Regulation 3 amends regulation 3 of the 2014 Regulations which relates to the eligibility of persons subject to immigration control for an allocation of housing accommodation under the 1996 Act. It prescribes an additional class of persons (“**Class L**”) subject to immigration control who are eligible for an allocation of housing accommodation under the 1996 Act.
+
+Class L applies to certain persons who are affected by the conflict in Ukraine following the Russian invasion which took place on 24 February 2022 and who have been granted leave to enter or remain in the United Kingdom in accordance with Appendix Ukraine Scheme in the Immigration Rules made under section 3(2) of the Immigration Act [1971 (c. 77)](https://www.legislation.gov.uk/ukpga/1971/77).
+
+Regulation 4 amends regulation 4(2) of the 2014 Regulations to provide that certain persons from abroad who are not subject to immigration control but would be ineligible for an allocation of housing accommodation due to not being habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland are eligible for an allocation of housing accommodation. The persons to whom this amendment applies are those who were residing in Ukraine immediately before 1 January 2022 and who left Ukraine in connection with the Russian invasion which took place on 24 February 2022.
+
+Regulation 5 amends regulation 5(1) of the 2014 Regulations which relates to the eligibility of persons subject to immigration control for housing assistance under the 2014 Act. It prescribes an additional class of persons (“**Class M**”) who are eligible for such assistance. This class is equivalent to Class L inserted by regulation 3.
+
+Regulation 6 amends regulation 6(2) of the 2014 Regulations so that certain persons from abroad who are not subject to immigration control, but would be ineligible for housing assistance due to not being habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland, are eligible. The persons to whom this amendment applies are the same as for regulation 4.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government, Cathays Park, Cardiff CF10 3NQ and on the Welsh Government’s website at www.gov.wales.
+
+## Annotations
+
+[^f00001]: Footnote: The functions of the Secretary of State under sections 160A(3) and (5) and 172(4) of the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52) were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and the entry in relation to that Act in Schedule 1, as read in accordance with section 17(1) of the Homelessness Act [2002 (c. 7)](https://www.legislation.gov.uk/ukpga/2002/7). Those functions were subsequently transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00002]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52). Section 160A inserted by the Homelessness Act 2002, section 14(2); subsections (3) and (5) amended by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 146(2)(d) and (e) respectively.
+
+[^f00003]: Footnote: [2014 anaw 7](https://www.legislation.gov.uk/anaw/2014/7). See section 99 for the definition of “prescribed”.
+
+[^f00004]: Footnote: The reference in section 142(3) to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act 2006. See also section 40 of the Legislation (Wales) Act 2019 (anaw 4) for provision about the procedure that applies to this instrument.
+
+[^f00005]: Footnote: [S.I. 2014/2603 (W. 257)](https://www.legislation.gov.uk/wsi/2014/2603) (as saved and modified by [S.I. 2015/1272 (W. 88)](https://www.legislation.gov.uk/wsi/2015/1272) (C. 73), article 5), amended by [S.I. 2017/698 (W. 164)](https://www.legislation.gov.uk/wsi/2017/698), [S.I. 2019/1041 (W. 183)](https://www.legislation.gov.uk/wsi/2019/1041), [S.I. 2019/1149 (W. 199)](https://www.legislation.gov.uk/wsi/2019/1149), [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309) regulation 76, [S.I. 2020/1372](https://www.legislation.gov.uk/uksi/2020/1372) regulation 26, [S.I. 2021/353 (W. 105)](https://www.legislation.gov.uk/wsi/2021/353) and [S.I. 2021/1147 (W. 282)](https://www.legislation.gov.uk/wsi/2021/1147).
+
+[^f00006]: Footnote: Laid before Parliament on 23 May 1994 (HC 395), as amended. Appendix Ukraine Scheme was introduced by the statement of changes in the Immigration Rules: HC 1220, which was laid before Parliament on 29 March 2022.

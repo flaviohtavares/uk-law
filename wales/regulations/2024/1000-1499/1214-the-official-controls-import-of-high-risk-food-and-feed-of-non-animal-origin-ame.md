@@ -1,0 +1,188 @@
+---
+title: The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (No. 2) (Wales) Regulations 2024
+id: wsi/2024/1214
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-11-25'
+text_date: '2026-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2024/1214
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2024/1214/pdfs/wsi_20241214_mi.pdf
+- http://www.legislation.gov.uk/wsi/2024/1214/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (No. 2) (Wales) Regulations 2024
+
+> Text as at 2026-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2024 No. 1214 (W. 198)
+
+Agriculture, Wales
+
+Food, Wales
+
+The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (No. 2) (Wales) Regulations 2024
+
+Made
+
+25 November 2024
+
+Laid before Senedd Cymru
+
+27 November 2024
+
+Coming into force
+
+18 December 2024
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by—
+
+- Articles 34(6), 47(2)(b), 54(4)(a) and (b) and 144(6)(a) of [Regulation (EU) 2017/625](https://www.legislation.gov.uk/european/regulation/2017/0625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^f00001];
+- Articles 53(1)(b) and 57a(6)(a) of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00002].
+
+There has been consultation as required by Article 144(7) of [Regulation (EU) 2017/625](https://www.legislation.gov.uk/european/regulation/2017/0625) and as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178).
+
+## 1. Title, extent, application and coming into force[^key-35219003511436c04f0f3e48c0d5785d]
+
+(1) The title of these Regulations is the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)) (No. 2) (Wales) Regulations 2024.
+
+(2) These Regulations—
+
+- (a) extend to England and Wales;
+- (b) apply in relation to Wales;
+- (c) come into force on 18 December 2024.
+
+## 2. Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)[^key-12242245eb86566b6d655517ab0d6de9]
+
+(1) Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793) on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries[^f00003] is amended as follows.
+
+(2) In Article 1(1)(b) (subject matter and scope), in the words before paragraph (i), omit “, pentachlorophenol and dioxins”.
+
+(3) In Article 3(d) (sampling and analysis), for “Annex II” substitute “Annex 1”.
+
+(4) In Article 10 (results of sampling and analysis performed by the competent authorities of the third country)—
+
+- (a) in paragraph (2), omit sub-paragraph (c);
+- (b) omit paragraph (3).
+
+(5)[^key-e7e7eaca2f306173f566fb333be47a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-d2c3a4f3d2331fcf52e89802af46b915] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)) (Wales) Regulations 2024[^key-27f5f49ce0288eee22cc3bd06869b0ea]
+
+In the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)) (Wales) Regulations 2024[^f00004]—
+
+- (a) in regulation 2 (amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)), omit paragraphs (4) and (5);
+- (b) omit Schedules 1 and 2.
+
+Sarah Murphy
+
+Minister for Mental Health and Wellbeing, under the authority of the Cabinet Secretary for Health and Social Care, one of the Welsh Ministers
+
+25 November 2024
+
+## SCHEDULE 1 — Annex to be substituted for Annex 1 to Commission Implementing Regulation (EU) 2019/1793[^key-7fc638c06868ad1833595c05ef72bd45]
+
+**No longer in force.**
+
+Regulation 2(5)
+
+> **ANNEX 1 — Food and feed of non-animal origin from certain third countries subject to a temporary increase of official controls at border control posts and control points[^key-7fc638c06868ad1833595c05ef72bd45]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Annex to be substituted for Annex 2 to Commission Implementing Regulation (EU) 2019/1793[^key-5b26793dfb2cf4f9f7eb1ebdd414f900]
+
+**No longer in force.**
+
+Regulation 2(6)
+
+> **ANNEX 2 — Food and feed from certain third countries subject to special conditions for the entry into Great Britain due to contamination risk by mycotoxins, including aflatoxins, pesticide residues and microbiological contamination[^key-5b26793dfb2cf4f9f7eb1ebdd414f900]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend, in relation to Wales, Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793) on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries (EUR 2019/1793).
+
+Regulation 2 makes provision to update the lists of high-risk food and feed of non-animal origin in Annexes 1 and 2 to EUR 2019/1793. Regulation 2(5) and (6), and Schedules 1 and 2, substitute those Annexes. The substitution of Annex 1 is made using powers in Articles 47(2)(b) and 54(4)(a) of [Regulation (EU) 2017/625](https://www.legislation.gov.uk/european/regulation/2017/0625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products (EUR 2017/625). The substitution of Annex 2 is made using powers in Article 53 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (EUR 2002/178) and Article 54(4)(b) of EUR 2017/625.
+
+Regulation 2(3) amends EUR 2019/1793 (using powers in Article 34(6) of EUR 2017/625) to make provision in relation to sampling and analysis for the hazard pentachlorophenol and dioxins in guar gum listed in Annex 1 (as substituted by these Regulations). Regulation 2(2) and (4) makes consequential amendments to EUR 2019/1793 following the removal of the entry in Annex 2 for guar gum (by these Regulations).
+
+Regulation 3 makes consequential amendments to the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)) (Wales) Regulations 2024 ([S.I. 2024/119 (W. 27)](https://www.legislation.gov.uk/wsi/2024/119)), to remove earlier amendments to EUR 2019/1793 that are superseded by the amendments made by these Regulations.
+
+Annex 1 to EUR 2019/1793 contains the list of food and feed of non-animal origin that is subject to a temporary increase in official controls at border control posts or at control points in Great Britain. The changes being made to Annex 1 are as follows:
+
+- Updates to the CN codes of various listed commodities following updates to the UK Integrated Online Tariff: www.trade-tariff.service.gov.uk/find\_commodity.
+- Updates to table footnotes and to table footnote references.
+- The entries for groundnuts (peanuts) and associated products, from Brazil, (for pesticide residues) have been removed.
+- The entry for “tea, whether or not flavoured” from China (for pesticide residues) has been removed. The entry is transferred into Annex 2, Table 1 with a frequency of checks of 5%.
+- New entries for products associated with hazelnuts from Georgia (for aflatoxins) have been added to the existing entries. The frequency of checks for the new entries is prescribed at the same level as for the existing entries (20%).
+- A new entry for basil from Israel (for pesticide residues). The frequency of checks is prescribed at 10%.
+- A new entry for mint from Israel (for pesticide residues). The frequency of checks is prescribed at 10%.
+- A new entry for cumin seeds from India (for pesticide residues). The frequency of checks is prescribed at 10%.
+- A new entry for crushed or ground cumin seeds from India (for pesticide residues). The frequency of checks is prescribed at 10%.
+- A new entry for fenugreek leaves from India (for pesticide residues). The frequency of checks is prescribed at 10%.
+- A new entry for guar gum from India (for pentachlorophenol and dioxins). The frequency of checks is prescribed at 20%. The entry is transferred into Annex 1 (from Annex 2, Table 1).
+- A new entry for nutmeg from India (for aflatoxins). The frequency of checks is prescribed at 50%. The entry is transferred into Annex 1 (from Annex 2, Table 1).
+- A new entry for peppers of the genus *Capsicum* (sweet or other than sweet) from India (for aflatoxins). The frequency of checks is prescribed at 20%. The entry is transferred into Annex 1 (from Annex 2, Table 1).
+- A new entry for yardlong beans from India (for pesticide residues). The frequency of checks is prescribed at 20%.
+- A new entry for mukunuwenna from Sri Lanka (for pesticide residues). The frequency of checks is prescribed at 10%.
+- A new entry for groundnuts paste from Madagascar (for aflatoxins). The frequency of checks is prescribed at 50%.
+- A new entry for grapefruits from Türkiye (for pesticide residues). The frequency of checks is prescribed at 10%.
+- A new entry for *Sesamum* seeds from Türkiye (for *Salmonella*). The frequency of checks is prescribed at 10%.
+- A new entry for tahini and halva from *Sesamum* seeds from Türkiye (for *Salmonella*). The frequency of checks is prescribed at 10%.
+
+In Annex 2 to EUR 2019/1793, Table 1 contains the list of food and feed of non-animal origin for which special conditions are prescribed governing their entry into Great Britain. The changes being made to Annex 2, Table 1, are as follows:
+
+- Updates to table footnotes and to table footnote references.
+- A new entry for groundnuts paste from Argentina (for aflatoxins). The frequency of checks is prescribed at 5%.
+- A new entry for “tea, whether or not flavoured” from China (for pesticide residues). The frequency of checks is prescribed at 5%. The entry is transferred into Annex 2, Table 1 (from Annex 1).
+- The entry for guar gum from India (for pentachlorophenol and dioxins) has been removed. The entry is transferred into Annex 1 with a frequency of checks of 20%.
+- The entry for nutmeg from India (for aflatoxins) has been removed. The entry is transferred into Annex 1 with a frequency of checks of 50%.
+- The entry for peppers of the genus *Capsicum* (sweet or other than sweet) from India (for aflatoxins) has been removed. The entry is transferred into Annex 1 with a frequency of checks of 20%.
+- The frequency of checks on *Sesamum* seeds from India (for *Salmonella)* is increased to 30% (from 20%).
+- The frequency of checks on *Sesamum* seeds from India (for pesticide residues) is decreased to 30% (from 50%).
+
+In Annex 2 to EUR 2019/1793, Table 2 contains a list of compound food containing any of the food listed in Table 1 to Annex 2 due to the risk of contamination by aflatoxins in a quantity above 20% of either a single product or as the sum of those products. Table 2 is restated with no changes.
+
+Annex 2a to EUR 2019/1793 contains the list of food and feed of non-animal origin that is prohibited from entering Great Britain. There are no changes being made to Annex 2a.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: EUR 2017/625, amended by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481); there are other amending instruments but none is relevant. The term “the appropriate authority” is defined in Article 3(2A) of EUR 2017/625.
+
+[^f00002]: Footnote: EUR 2002/178, amended by [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641) and [2022/377](https://www.legislation.gov.uk/uksi/2022/377). [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641) was amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504). The term “appropriate authority” is defined in Article 3(19) of EUR 2002/178.
+
+[^key-35219003511436c04f0f3e48c0d5785d]: Commencement: Reg. 1 in force at 18.12.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/1/2/c)
+
+[^key-12242245eb86566b6d655517ab0d6de9]: Commencement: Reg. 2 in force at 18.12.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/1/2/c)
+
+[^f00003]: Footnote: EUR 2019/1793, amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [2022/1330 (W. 269)](https://www.legislation.gov.uk/wsi/2022/1330) and [2024/119 (W. 27)](https://www.legislation.gov.uk/wsi/2024/119); there are other amending instruments but none is relevant.
+
+[^key-e7e7eaca2f306173f566fb333be47a15]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/2/5) omitted (1.1.2026) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (Wales) Regulations 2025 (S.I. 2025/1169)](https://www.legislation.gov.uk/wsi/2025/1169), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2025/1169/regulation/1/2/c), [3(a)](https://www.legislation.gov.uk/wsi/2025/1169/regulation/3/a)
+
+[^key-d2c3a4f3d2331fcf52e89802af46b915]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/2/6) omitted (1.1.2026) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (Wales) Regulations 2025 (S.I. 2025/1169)](https://www.legislation.gov.uk/wsi/2025/1169), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2025/1169/regulation/1/2/c), [3(a)](https://www.legislation.gov.uk/wsi/2025/1169/regulation/3/a)
+
+[^key-27f5f49ce0288eee22cc3bd06869b0ea]: Commencement: Reg. 3 in force at 18.12.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/1/2/c)
+
+[^f00004]: Footnote: [S.I. 2024/119 (W. 27)](https://www.legislation.gov.uk/wsi/2024/119).
+
+[^key-7fc638c06868ad1833595c05ef72bd45]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2024/1214/schedule/1) omitted (1.1.2026) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (Wales) Regulations 2025 (S.I. 2025/1169)](https://www.legislation.gov.uk/wsi/2025/1169), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2025/1169/regulation/1/2/c), [3(b)](https://www.legislation.gov.uk/wsi/2025/1169/regulation/3/b)
+
+[^key-5b26793dfb2cf4f9f7eb1ebdd414f900]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2024/1214/schedule/2) omitted (1.1.2026) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (Wales) Regulations 2025 (S.I. 2025/1169)](https://www.legislation.gov.uk/wsi/2025/1169), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2025/1169/regulation/1/2/c), [3(b)](https://www.legislation.gov.uk/wsi/2025/1169/regulation/3/b)

@@ -1,0 +1,178 @@
+---
+title: The Special Educational Needs (Provision of Information by Local Authorities ) (Wales) Regulations 2002
+id: wsi/2002/157
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-01-29'
+text_date: '2010-05-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2002/157
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2002/157/pdfs/wsi_20020157_mi.pdf
+- http://www.legislation.gov.uk/wsi/2002/157/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Special Educational Needs (Provision of Information by Local Authorities ) (Wales) Regulations 2002
+
+> Text as at 2010-05-05.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2002 No. 157 (W.23)
+
+EDUCATION, WALES
+
+The Special Educational Needs (Provision of Information by Local Authorities[^key-656b7a26ff0276827b5a922fae814840]) (Wales) Regulations 2002
+
+Made
+
+29th January 2002
+
+Coming into force
+
+1st April 2002
+
+The National Assembly for Wales, in exercise of the powers conferred on the Secretary of State by sections 29(5) and 569(4) and (5) of the Education Act 1996[^f00001], and now vested in the National Assembly for Wales[^f00002] hereby makes the following Regulations:
+
+## 1. Citation, commencement, interpretation and application[^key-68c687fa62e77d029532003c5976685a]
+
+(1) These Regulations are called the Special Educational Needs (Provision of Information by Local Authorities[^key-67cbef1647c6d56627e026223bd7f710]) (Wales) Regulations 2002 and shall come into force on 1st April 2002.
+
+(2) In these Regulations—
+
+- “health authority” (“*awdurdod iechyd*”) has the same meaning as in the National Health Service Act 1977[^f00003];
+- [^key-c6075caa5fcd9b427b498c282466ef29]...
+- “statement” (“*datganiad*”) means a statement of special educational needs made under section 324 of the Education Act 1996.
+
+(3) These Regulations apply only in relation to Wales.
+
+(4)[^key-564486ad9f6f308b9e96bcaa090c9408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Publication of information[^key-49f4721ec89a55b2048051d5885f20cb]
+
+A local authority[^key-be7237b2d0feda1a41ee1c276fd65995] shall—
+
+- (a)[^key-9bb6eea069b07f6f9e3fd846851d9694] publish information about the matters set out in the Schedule to these Regulations in accordance with regulation 3(1), (2) and (3);
+- (b) keep that information under review; and
+- (c) where there is a significant change in any of that information, revise the information accordingly and publish the revised information in accordance with regulation 3(4).
+
+## 3. Manner of publication of information[^key-2e282389f6f0b15c688bfc1c2527ed99]
+
+(1)[^key-712d8eaa3f9580e54852f63ede92eb62] The local authority[^key-3f567a39bd5480020b133053e20cf380] shall publish the information referred to in regulation 2(a) by—
+
+- (a) providing a written copy of the information to any health authority or any other local authority[^key-1157d42b69530da4c611d3b64e5d6c90] which in the opinion of the local authority has an interest in that information by post, by electronic communication or by any other means agreed with the authority;
+- (b) making the information available on any website which the authority may maintain on the Internet;
+- (c) providing a written copy of the information to the maintained schools in the authority’s area by post, by electronic communication or by any other means agreed with the authority; and
+- (d) providing a written copy of the information to any person on request by post, by electronic communication or by any other means agreed with the authority.
+
+(2)[^key-712d8eaa3f9580e54852f63ede92eb62] The information about the matters set out in paragraph 1 of the Schedule to these Regulations shall be published on or before 30th April 2002.
+
+(3)[^key-712d8eaa3f9580e54852f63ede92eb62] The information about the matters set out in paragraphs 2 and 3 of the Schedule to these Regulations shall be published on or before 31st July 2002.
+
+(4) Any information to be published pursuant to regulation 2(c) shall be published by the local authority[^key-65a74fabe373a1e404bbec8ea01196aa] as soon as reasonably practicable after a revision has been made, by—
+
+- (a) providing the revised information to a health authority or other local authority[^key-62302179184e5dd57d93b22d6072cbb2] previously provided with information by the local authority pursuant to regulation 3(1)(a) by post, by electronic communication or by any other means agreed with the authority;
+- (b) updating any website maintained by the authority on the Internet to display the revised information;
+- (c) notifying the maintained schools in the authority’s area of the revisions by post, by electronic communication or by any other means agreed with the authority; and
+- (d) providing the revised information to any person on request by post, by electronic communication or by any other means agreed with the authority.
+
+(5) Information published in accordance with this regulation shall be published free of charge.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00005]
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+29th January 2002
+
+## SCHEDULE — INFORMATION TO BE PROVIDED BY LOCAL AUTHORITIES[^key-e3a3e1a62bc1dc64ea3c4ee64c95afd8]
+
+Regulation 2
+
+**1.**[^key-6d539b7155daf13bfa8a3fac7513df19] An explanation of that element of special educational provision for children with special educational needs (but without statements) which the local authority[^key-589af4111d6f87b5dea35e5709bec33b] expect normally to be met from maintained schools' budget shares or maintained nursery schools' budget shares[^key-f50921ede4482d53dc377e046d6a2bee] and that element of such provision that the authority expect normally to be met by the authority from funds which it holds centrally.
+
+**2.**[^key-ce2412c98d09836f4d0ca2bfa109e392] The broad aims of the local education authority’s policy in respect of children with special educational needs together with information about the action the authority is taking to—
+
+- (a) promote high standards of education for children with special educational needs;
+- (b) encourage children with special educational needs to participate fully in their school and community and to take part in decisions and make choices about their education;
+- (c) encourage schools in their area to share their practice in making special educational provision for children with special educational needs; and
+- (d) work with other statutory and voluntary bodies to provide support for children with special educational needs.
+
+**3.**[^key-240744aad560450f02ace2ca5cdbc6e1] The general arrangements made by the local authority, including any plans, objectives and timescales, for—
+
+- (a) identifying children in their area with special educational needs;
+- (b) monitoring the admission of children with special educational needs (whether or not those children have a statement) to maintained schools and maintained nursery schools[^key-7859b1edba31acaf13668c53931c51b5] in their area;
+- (c) organising the assessment of children’s educational needs pursuant to section 323 of the Education Act 1996 in the local education authority’s area including any local protocols for so doing;
+- (d) organising the making and maintaining of statements in their area including any local protocols for so doing;
+- (e) providing support to schools in their area with regard to making special educational provision for children with special educational needs;
+- (f) auditing, planning, monitoring and reviewing provision for children with special educational needs in their area, both generally and in relation to individual children;
+- (g) securing training, advice and support for staff working in their area with children with special educational needs; and
+- (h) reviewing and updating the arrangements referred to in sub-paragraphs (a) to (g).
+
+(This note is not part of the Regulations)
+
+These Regulations place a duty on local education authorities to publish information about matters relating to the provision of education for children with special educational needs.
+
+In particular they are required to publish an explanation of that part of special educational provision that they expect maintained schools to fund from their budget shares, and that element that they expect to fund themselves.
+
+They must also publish information about the broad aims of their policy on special educational needs, as well as specific action they are taking on special educational needs issues.
+
+## Annotations
+
+[^key-656b7a26ff0276827b5a922fae814840]: Textual amendment: Words in Title substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/9/2)
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^f00002]: Footnote: *See* the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
+
+[^key-68c687fa62e77d029532003c5976685a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2002/157/regulation/1) in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/157/regulation/1/1)
+
+[^key-67cbef1647c6d56627e026223bd7f710]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/157/regulation/1/1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/9/3)
+
+[^f00003]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); amended by the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17) and the Health Act [1999 (c. 32)](https://www.legislation.gov.uk/ukpga/1999/32).
+
+[^key-c6075caa5fcd9b427b498c282466ef29]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/157/regulation/1/2) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/9/4)
+
+[^key-564486ad9f6f308b9e96bcaa090c9408]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/wsi/2002/157/regulation/1/4) omitted (31.10.2005) by virtue of [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (Wales) Regulations 2005 (S.I. 2005/2913)](https://www.legislation.gov.uk/wsi/2005/2913), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/1/1), [14(1)(a)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/14/1/a)
+
+[^key-49f4721ec89a55b2048051d5885f20cb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2002/157/regulation/2) in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/157/regulation/1/1)
+
+[^key-be7237b2d0feda1a41ee1c276fd65995]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2002/157/regulation/2) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 9(5)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/9/5)
+
+[^key-9bb6eea069b07f6f9e3fd846851d9694]: Modification: [Reg. 2(a)](https://www.legislation.gov.uk/wsi/2002/157/regulation/2/a) applied (with modifications) (31.10.2005) by [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (Wales) Regulations 2005 (S.I. 2005/2913)](https://www.legislation.gov.uk/wsi/2005/2913), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/1/1), [14(2)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/14/2)
+
+[^key-2e282389f6f0b15c688bfc1c2527ed99]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2002/157/regulation/3) in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/157/regulation/1/1)
+
+[^key-712d8eaa3f9580e54852f63ede92eb62]: Modification: [Reg. 3(1)-(3)](https://www.legislation.gov.uk/wsi/2002/157/regulation/3/1) applied (with modifications) (31.10.2005) by [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (Wales) Regulations 2005 (S.I. 2005/2913)](https://www.legislation.gov.uk/wsi/2005/2913), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/1/1), [14(2)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/14/2)
+
+[^key-3f567a39bd5480020b133053e20cf380]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2002/157/regulation/3/1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 9(6)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/9/6/a)
+
+[^key-1157d42b69530da4c611d3b64e5d6c90]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/wsi/2002/157/regulation/3/1/a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 9(6)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/9/6/b)
+
+[^key-65a74fabe373a1e404bbec8ea01196aa]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/wsi/2002/157/regulation/3/4) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 9(6)(c)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/9/6/c)
+
+[^key-62302179184e5dd57d93b22d6072cbb2]: Textual amendment: Words in [reg. 3(4)(a)](https://www.legislation.gov.uk/wsi/2002/157/regulation/3/4/a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 9(6)(d)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/9/6/d)
+
+[^f00005]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-e3a3e1a62bc1dc64ea3c4ee64c95afd8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2002/157/schedule) heading substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 9(7)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/9/7)
+
+[^key-6d539b7155daf13bfa8a3fac7513df19]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2002/157/schedule/paragraph/1) in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/157/regulation/1/1)
+
+[^key-589af4111d6f87b5dea35e5709bec33b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2002/157/schedule) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 9(8)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/9/8)
+
+[^key-f50921ede4482d53dc377e046d6a2bee]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/wsi/2002/157/schedule/paragraph/1) inserted (31.10.2005) by [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (Wales) Regulations 2005 (S.I. 2005/2913)](https://www.legislation.gov.uk/wsi/2005/2913), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/1/1), [14(1)(b)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/14/1/b)
+
+[^key-ce2412c98d09836f4d0ca2bfa109e392]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2002/157/schedule/paragraph/2) in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/157/regulation/1/1)
+
+[^key-240744aad560450f02ace2ca5cdbc6e1]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2002/157/schedule/paragraph/3) in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/157/regulation/1/1)
+
+[^key-7859b1edba31acaf13668c53931c51b5]: Textual amendment: Words in [Sch. para. 3(b)](https://www.legislation.gov.uk/wsi/2002/157/schedule/paragraph/3/b) inserted (31.10.2005) by [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (Wales) Regulations 2005 (S.I. 2005/2913)](https://www.legislation.gov.uk/wsi/2005/2913), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/1/1), [14(1)(c)](https://www.legislation.gov.uk/wsi/2005/2913/regulation/14/1/c)

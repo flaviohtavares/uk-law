@@ -1,0 +1,42 @@
+---
+title: Tertiary Education and Research (Wales) Act 2022, section 16
+act: Tertiary Education and Research (Wales) Act 2022
+section: '16'
+status: revised-with-pending-changes
+text_date: '2026-08-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2022/1/section/16
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Tertiary Education and Research (Wales) Act 2022, section 16
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/asc/2022/1
+>
+> Extent: England, Wales.
+
+## 16. Review of strategic plan[^key-a8f82302d5ca3ed7f8e4c159149e61e2][^key-ca77b2cac54adabbed88740007adf9e2]
+
+*Extent: E+W*
+
+(1) If the Welsh Ministers amend their statement under section 13(2) after the Commission has published its approved strategic plan under section 15(5), the Commission must review its strategic plan.
+
+(2) The Commission may review its strategic plan at any other time.
+
+(3) The Commission may revise its strategic plan after a review under subsection (1) or (2) if it considers it appropriate to do so.
+
+(4) If the Commission revises its strategic plan, section 14 applies in relation to the revision of the plan as it applies in relation to the preparation of a plan.
+
+(5) The Commission must send its revised strategic plan to the Welsh Ministers for their approval—
+
+- (a) where the revision is in consequence of a review under subsection (1), before the end of a period of 6 months beginning with the day on which the Welsh Ministers publish the amendments to their statement, or
+- (b) where the revision is in consequence of a review under subsection (2), as soon as is reasonably practicable.
+
+(6) Subsections (2) to (7) of section 15 apply to a plan revised under this section as they apply to a plan prepared under section 14.
+
+## Annotations
+
+[^key-a8f82302d5ca3ed7f8e4c159149e61e2]: Commencement: S. 16 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+
+[^key-ca77b2cac54adabbed88740007adf9e2]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2022/1/section/16) in force at 1.4.2024 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(b)](https://www.legislation.gov.uk/wsi/2023/919/article/4/b)

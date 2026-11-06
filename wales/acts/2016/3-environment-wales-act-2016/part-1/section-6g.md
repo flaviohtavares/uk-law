@@ -1,0 +1,58 @@
+---
+title: Environment (Wales) Act 2016, section 6G
+act: Environment (Wales) Act 2016
+section: 6G
+status: revised-with-pending-changes
+text_date: '2026-06-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2016/3/section/6G
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environment (Wales) Act 2016, section 6G
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-06-27. See https://www.legislation.gov.uk/changes/affected/anaw/2016/3
+>
+> Extent: England, Wales.
+
+## 6G. Review of targets[^key-9d208f1228c7636e1f852fa036cdbfaa]
+
+*Extent: E+W*
+
+(1) The Welsh Ministers may, from time to time, review a target set in regulations under section 6B.
+
+(2) The Welsh Ministers must review a target set in regulations under section 6B if it appears to them—
+
+- (a) that the target may not be met, or
+- (b) that the target may no longer be appropriate.‍
+
+(3) The Welsh Ministers may, from time to time, review the effectiveness of all current targets for the purpose of determining whether setting further targets in regulations under section 6B would be more effective in contributing to halting and reversing the decline in biodiversity or to restoring biodiversity to resilient levels.
+
+(4) The Welsh Ministers must review the effectiveness of all current targets for the purpose mentioned in subsection (3)—
+
+- (a) if a target set in regulations under section 6B has not been met by the specified date in relation to that target;
+- (b) if 10 years have passed since the most recently completed review under any of subsection (3), this subsection or subsection (5).
+
+(5) If no review under subsection (3) or (4) has been completed before the end of 2041, the Welsh Ministers must review the effectiveness of all current targets for the purpose mentioned in subsection (3).
+
+(6) A target is current for the purpose of subsections (3) to (5) if—
+
+- (a) it has been set in regulations under section 6B that are in force at the time of the review, and
+- (b) it has not been met at that time.
+
+(7) In carrying out a review under this section, the Welsh Ministers must seek advice from persons they consider to be independent and to have relevant expertise.
+
+(8) The Welsh Ministers must publish a summary of any such advice they receive.
+
+(9) After carrying out a review under this section, the Welsh Ministers must lay before Senedd Cymru, and publish, a statement noting its conclusions.
+
+(10) If‍ a review under subsection (1) or (2) concludes that a target will not be met or is no longer appropriate, the statement must note the reasons for that conclusion and the steps, if any, the Welsh Ministers intend to take in relation to the target in consequence of the review.
+
+(11) If a review under subsection (3), (4) or (5) concludes that further targets should be set in regulations under section 6B, the Welsh Ministers must lay a draft of a Welsh statutory instrument containing such regulations before Senedd Cymru before the end of the period of 2 years beginning with the day on which the review was completed.
+
+(12) A review is completed for the purpose of subsections (4)(b), (5) and (11) when the statement required by subsection (9) is published.
+
+## Annotations
+
+[^key-9d208f1228c7636e1f852fa036cdbfaa]: Textual amendment: [Ss. 6B-6I](https://www.legislation.gov.uk/anaw/2016/3/section/6B) and cross-heading inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 35(1)](https://www.legislation.gov.uk/asc/2026/4/section/35/1), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)

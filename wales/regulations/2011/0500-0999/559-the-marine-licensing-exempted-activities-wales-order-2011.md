@@ -1,0 +1,1020 @@
+---
+title: The Marine Licensing (Exempted Activities) (Wales) Order 2011
+id: wsi/2011/559
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-02-25'
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2011/559
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2011/559/pdfs/wsi_20110559_mi.pdf
+- http://www.legislation.gov.uk/wsi/2011/559/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marine Licensing (Exempted Activities) (Wales) Order 2011
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 559 (W.81)
+
+ENVIRONMENTAL PROTECTION, WALES
+
+LICENSING (MARINE), WALES
+
+MARINE POLLUTION, WALES
+
+The Marine Licensing (Exempted Activities) (Wales) Order 2011
+
+Made
+
+25 February 2011
+
+Laid before the National Assembly for Wales
+
+1 March 2011
+
+Coming into force
+
+6 April 2011
+
+The Welsh Ministers, as the appropriate licensing authority under section 113(4)(b) of the Marine and Coastal Access Act 2009[^f00001], make the following Order in exercise of the powers conferred by sections 74(1), (2) and (3) and 316(1) of that Act, and by section 2(2) of the European Communities Act 1972[^f00002].
+
+The Welsh Ministers are designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to the prevention, reduction and management of waste[^f00003].
+
+In deciding to make this Order, the Welsh Ministers have had regard to the matters mentioned in section 74(4) of the Marine and Coastal Access Act 2009.
+
+The Welsh Ministers have carried out a consultation in accordance with section 74(5) of that Act.
+
+## PART 1 — Introductory provisions
+
+### 1. Title and commencement[^key-05e89bad0d749c0c1f6bf28155aa181f]
+
+(1) The title of this Order is the Marine Licensing (Exempted Activities) (Wales) Order 2011.
+
+(2) This Order comes into force on 6 April 2011.
+
+### 2. Application[^key-9ce452ade4a349879ffebfc2090d9251]
+
+This Order applies in relation to any licensable marine activity for which the Welsh Ministers are the appropriate licensing authority under section 113 of the Marine and Coastal Access Act 2009[^f00004].
+
+### 3. Interpretation[^key-f2de817477301b52c5aa312c3c994525]
+
+In this Order—
+
+- “the Act” (“*y Ddeddf*”) means the Marine and Coastal Access Act 2009;
+- “activity” (“*gweithgaredd*”) means licensable marine activity[^f00005];
+- “[^key-d01ee85be5049520356068fbaef424d9]**coast protection authority**” (“***awdurdod diogelu’r arfordir***”) has the same meaning as in the Coast Protection Act 1949;
+- “disposal” (“*gwaredu*”) has the meaning given by Article 3 of the Waste Framework Directive;
+- [^key-83604c6ccfc8a99ad6d9da2f345c7b08]...
+- “exempt activity” (“*gweithgaredd esempt*”) has the meaning given by article 4;
+- “fishing operation” (“*gweithred bysgota*”) includes fishing for or taking shellfish but does not include an activity relating to the propagation or cultivation of shellfish;
+- “harbour authority” (“*awdurdod harbwr*”) has the meaning given by section 57(1) of the Harbours Act 1964[^f00008];
+- “**invasive non-native species**” (“***rhywogaeth estron oresgynnol***”) has the same meaning as in Schedule 9A to the Wildlife and Countryside Act 1981 (see paragraph 2(1) to (3));
+- “licensing authority” (“*awdurdod trwyddedu*”) means the Welsh Ministers as the appropriate licensing authority under section 113(4)(b) of the Act;
+- “lighthouse authority” (“*awdurdod goleudy*”) means a general lighthouse authority or a local lighthouse authority within the meaning of Part 8 of the Merchant Shipping Act 1995[^f00009];
+- “**local authority**” (“***awdurdod lleol***”) means a county council or county borough council in Wales;
+- “**marine litter**” (“*sbwriel m*ôr”) means any persistent, manufactured or processed solid material discarded, disposed of or abandoned occurring in the marine and coastal environment;
+- “**marine protected area**” (“***ardal forol warchodedig***”) means a site—
+  - (i) designated as a special area of conservation in accordance with regulation 12(1) of the Conservation of Habitats and Species Regulations 2017 or regulation 7(1) of the Conservation of Offshore Marine Habitats and Species Regulations 2017;
+  - (ii) classified as special protection area in accordance with regulation 15(1) of the Conservation of Habitats and Species Regulations 2017 or regulation 12(1) of the Conservation of Offshore Marine Habitats and Species Regulations 2017;
+  - (iii) designated as marine conservation zone in accordance with section 116(1) of the 2009 Act;
+  - (iv) notified as a site of special scientific interest in accordance with section 28(1) of the Wildlife and Countryside Act 1981[^f00008];
+- “**MoD strategic interest**” (“***buddiant strategol y Weinyddiaeth Amddiffyn***”) includes any training, test, evaluation or operation carried out or due to be carried out by the Ministry of Defence, on behalf of the Ministry of Defence or with the permission of the Ministry of Defence;
+- “plan or project” (“*cynllun neu brosiect*”) has the same meaning as in Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora[^f00010];
+- “Ramsar site” (“*safle Ramsar*”) has the same meaning as in section 37A of the Wildlife and Countryside Act 1981[^f00011];
+- “shellfish” (“*pysgod cregyn*”) includes crustaceans and molluscs of any kind and any part of a shellfish;
+- “**the Trinity House**” (“***Trinity House***”) has the meaning given in section 223(1) of the Merchant Shipping Act 1995;
+- “**the UK Hydrographic Office**” (“***Swyddfa Hydrograffig y DU***”) means the Hydrographic Office of the Ministry of Defence;
+
+“waste” (“*gwastraff*”) means anything that—
+
+- (a) is waste within the meaning of Article 3(1) of the Waste Framework Directive, as read with Article 5(1) of that Directive, and
+- (b) is not excluded from the scope of that Directive by Article 2(1), (2) or (3) of that Directive;
+
+- “the Waste Framework Directive” (“*y Gyfarwyddeb Fframwaith Gwastraff*”) means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste[^f00012] ,[^key-33451ba8dd2bcf5d288dcd86878bc4f6] as last amended by Council Regulation ([^key-6063c614ce574599ca47901ec487a093]EU) 2017/997.
+- “**Welsh risk management authority**” (“***awdurdod rheoli risg i Gymru***”) has the meaning given in section 6 of the Flood and Water Management Act 2010[^f00010].
+
+### 3A. Modification of the Waste Framework Directive[^key-393cce0d172e385e84786d8e8e18a1e5]
+
+(1) For the purposes of this Order, the Waste Framework Directive is to be read in accordance with this article.
+
+(2) A reference to one or more Member States in a provision imposing an obligation or conferring a discretion on a Member State or Member States is to be read as a reference to the appropriate authority or local authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+
+(3) Article 2 is to be read as if—
+
+- (a) in paragraph 2—
+  - (i) in the words immediately before point (a), for “other Community legislation” there were substituted “ retained EU law ”;
+  - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
+  - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there were substituted “ the Mining Waste Directive ”;
+- (b) in paragraph 3, the words from “Without prejudice” to “Community legislation” were omitted;
+- (c) paragraph 4 were omitted.
+
+(4) Article 5 is to be read as if paragraph 2 were omitted.
+
+(5) Article 6 is to be read as if—
+
+- (a) paragraphs 1 to 3 were omitted;
+- (b) in paragraph 4—
+  - (i) in the first sentence, for the words from “Where criteria” to “paragraphs 1 and 2” there were substituted “ Except where waste ceases to be waste in accordance with Council Regulation (EU) No 333/2011, Commission Regulation (EU) No 1179/2012 or Commission Regulation (EU) No 715/2013 ”;
+  - (ii) the second sentence were omitted.
+
+(6) Article 7 is to be read as if—
+
+- (a) in paragraph 1—
+  - (i) the first and second sentences were omitted;
+  - (ii) in the third sentence, for “shall be binding” there were substituted “ shall, subject to paragraph 1A, be binding ”;
+- (b) after paragraph 1, there were inserted—
+
+  > **1A.**
+  >
+  > Paragraph 1 is subject to—
+  >
+  > - (a) a determination by the Welsh Ministers under regulation 8(1) of the Hazardous Waste (Wales) Regulations 2005 that a specific batch of waste is to be treated as hazardous waste;
+  > - (b) a decision made by the Welsh Ministers under regulation 9(1) of the Hazardous Waste (Wales) Regulations 2005 that a specific batch of waste is to be treated as non-hazardous waste;
+  > - (c) the treating of a specific batch of waste as hazardous or, as the case may be, non-hazardous, in accordance with regulation 8(2) or 9(2) of the Hazardous Waste (Wales) Regulations 2005;
+  > - (d) regulations (if any) made by the Welsh Ministers under section 62A(2) of the Environmental Protection Act 1990 (lists of waste displaying hazardous properties).
+
+  ;
+- (c) paragraphs 2, 3 and 5 were omitted;
+- (d) after paragraph 6, there were inserted—
+
+  > **6A.**
+  >
+  > In this Article, the “**list of waste**” means the list established by Commission Decision [2000/532/EC](https://www.legislation.gov.uk/eud/2000/532).
+
+  ;
+- (e) paragraph 7 were omitted.
+
+(7) Article 23 is to be read as if—
+
+- (a) a reference to the “**competent authority**” were a reference to the “**appropriate authority**”;
+- (b) in paragraph 5, “or Community” were omitted.
+
+(8) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+
+(9) In reading the Waste Framework Directive in accordance with this article—
+
+- (a) “**appropriate authority**” (“***awdurdod priodol***”) means the Welsh Ministers or the Natural Resources Body for Wales;
+- (b)[^key-1907324c15d4d8c40f2876fcb52e9694] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3B. Meaning of “Mining Waste Directive”
+
+(1) In reading Article 2 of the Waste Framework Directive in accordance with article 3A, the reference to “the Mining Waste Directive” (as inserted by article 3A(3)(a)(iii)) means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries, read in accordance with paragraphs (2) to (4).
+
+(2) Article 2 is to be read as if—
+
+- (a) in paragraph 2(c), the reference to Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Article read in accordance with paragraph (4) of this article;
+- (b) paragraphs 3 and 4 were omitted.
+
+(3) Article 3(1) is to be read as if, for “Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive ”.
+
+(4) In reading the Mining Waste Directive in accordance with this article, the reference to the “**Waste Framework Directive**” (as inserted by paragraph (3)) has the meaning given by article 3 of this Order read in accordance with article 3A.
+
+(5) For the purposes of paragraph (2), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
+
+- (a) the references to “Member States” were references to the “**Welsh Ministers or the Natural Resources Body for Wales**”;
+- (b) at the end, there were inserted—
+
+  > and “**environmental objective**”, in relation to a river basin district (within the meaning of the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017), has the same meaning as in those Regulations.
+
+## PART 2 — Exempt activities – general provisions
+
+### 4. Exemption from need for marine licence[^key-efbe0f4ed557c6038dad14880e1dc2b3]
+
+(1) A marine licence is not needed for an activity carried on in Wales , the Welsh inshore region or the Welsh offshore region[^key-2911a2d0e9be5ce50b0556dc5d54206e] that is an exempt activity.
+
+(2) An activity is an exempt activity to the extent that—
+
+- (a) it is an activity to which this article applies [^f00013]; and
+- (b) where the application of this article to an activity is subject to a condition specified in Part 3, that condition is satisfied in relation to that activity.
+
+(3) But this is subject to paragraph (4) and article 5.
+
+(4) Nothing in this Order makes an activity an exempt activity to the extent to which the carrying on of the activity is contrary to international law.
+
+### 5. Activities relating to disposal or recovery of waste[^key-c9aad0911eb33c0dc01991e513a9fe8a]
+
+(1) An activity carried on by an establishment or undertaking involving the disposal or recovery of waste is not an exempt activity unless the conditions in this article are satisfied.
+
+(2) Condition 1 is that the establishment or undertaking is carrying out—
+
+- (a) disposal of its own non-hazardous waste at the place of production; or
+- (b) recovery of waste.
+
+(3) Condition 2 is that the type and quantity of waste involved, and the method of disposal or recovery, are consistent with the need to attain the objectives mentioned in Article 13 of the Waste Framework Directive.
+
+(4) Condition 3 is that the establishment or undertaking must be registered with the Natural Resources Body for Wales[^key-4d707477446e8548e823421875cf1318].
+
+(5) The Natural Resources Body for Wales[^key-93dd3efdcac1acbf468a08ebff708b95] must, for the purposes of paragraph (4), maintain a register containing the name and address of any establishment or undertaking carrying on an exempt activity involving the disposal or recovery of waste in the licensing authority’s area.
+
+(6) The register may be kept in any form.
+
+(7) In this article—
+
+- (a) “establishment” and “undertaking” have the same meaning as in articles 23 and 24 of the Waste Framework Directive;
+- (b) “non-hazardous waste” has the same meaning as in the Waste Framework Directive;
+- (c) “recovery” has the meaning given by Article 3 of the Waste Framework Directive.
+
+## PART 3 — Activities to which article 4 (exemption from need for marine licence) applies, and conditions
+
+### 6. Interpretation of this Part[^key-09e40151e29aa8a1c7378976fff59bbd]
+
+(1) In this Part, a reference to a numbered item is a reference to that numbered item in section 66(1) of the Act.
+
+(2) In this Part—
+
+- (a) a reference to a “deposit” is a reference to a deposit falling within item 1 (deposits within the UK marine licensing area etc), item 2 (deposits from British vessels etc anywhere in the sea etc), item 3 (deposit from vehicle, vessel etc loaded in the United Kingdom except Scotland or the UK marine licensing area) or, except as otherwise provided, item 10 (deposit of explosives within the UK marine licensing area etc);
+- (b) a reference to a “dredging activity” is a reference to an activity falling within item 9 (to carry out any form of dredging within the UK marine licensing area etc);
+- (c) a reference to a “removal activity” is a reference to an activity falling within item 8 (use of a vehicle, vessel etc to remove a substance or object from the sea bed within the UK marine licensing area);
+- (d) a reference to a “works activity” is a reference to an activity falling within item 7 (construction, alteration or improvement of works within the UK marine licensing area etc).
+
+### 7. Activities falling within Part 6 of the Merchant Shipping Act 1995[^key-8b762732979e986d97021ee1283ea2c9]
+
+Article 4 applies to an activity falling within the subject matter of Part 6 of the Merchant Shipping Act 1995[^f00014] (prevention of pollution).
+
+### 8. Safety directions under the Merchant Shipping Act 1995[^key-37b8409d8722a40de3a43ed56139bbe0]
+
+Article 4 applies to an activity carried on–
+
+- (a) by or on behalf of the Secretary of State in exercise of a power under Schedule 3A to the Merchant Shipping Act 1995[^f00015] (safety directions);
+- (b) by any person for the purpose of complying with a direction under that Schedule; or
+- (c) by any person for the purpose of avoiding interference with action taken by virtue of that Schedule.
+
+### 9. Salvage activities[^key-fdc2ad154561b8e11367f7af9b3d3075]
+
+(1)[^key-445210a7210b5b59a222adf815d533a6] Article 4 applies to an activity carried on, in the course of a salvage operation, for the purpose of ensuring the safety of a vessel or preventing pollution.
+
+(2)[^key-6d9d527f2741d3a1c00ed40524b257c7] But article 4 does not apply to the removal of wrecks or objects of archaeological or historical interest.
+
+### 10. Fire fighting etc[^key-03154d213e791c165b5cf6ccc1a87fae]
+
+Article 4 applies to an activity carried on for the purpose of fighting, or preventing the spread of, any fire.
+
+### 11. Air accident investigation[^key-d47057023eaa4cdf3748aa091409906c]
+
+Article 4 applies to a deposit or removal activity carried on for the purpose of recovering any substance or object as part of an investigation into any accident involving an aircraft.
+
+### 12. Fishing operations[^key-d5a407c8bf24748e35a91992ed24289d]
+
+(1) Article 4 applies to any of the following activities if carried on in the course of a fishing operation—
+
+- (a) the deposit of fishing gear, other than a deposit made for the purpose of disposal;
+- (b) a removal activity or dredging activity carried on for the purpose of—
+  - (i) fishing for or taking fish, or
+  - (ii) removing fishing gear;
+- (c) the deposit by way of return to the sea of any fish or other object.
+
+(2) Article 4 also applies to the deposit by way of return to the sea of any fish during the course of fish processing at sea.
+
+(3) In this article—
+
+- (a) “fish” includes shellfish and any part of a fish;
+- (b) “fishing gear” includes gear used to fish for or take shellfish, but does not otherwise include anything used in connection with the propagation or cultivation of shellfish.
+
+### 13. Shellfish propagation and cultivation[^key-9c6d72a1dd20852cee82e05b63231e02]
+
+(1) Article 4 applies to—
+
+- (a) the deposit of any shellfish, trestle, raft, cage, pole, rope or line in the course of the propagation or cultivation of shellfish;
+- (b) a removal activity or dredging activity carried on for the purpose of moving shellfish within the sea in the course of its propagation or cultivation.
+
+(2) But article 4 does not apply to any such deposit , removal activity or dredging activity[^key-8f6a7e6e0c804f91f9825de17394f276]–
+
+- (a) made for the purpose of disposal;
+- (b) made for the purpose of creating, altering or maintaining an artificial reef; [^key-2afb513b1c1e8c57a840cf362152b0a1]...
+- (c) that causes or is likely to cause obstruction or danger to navigation.
+- (d)[^key-03ffb4f6584a9c78f24f92dce5d55f37] that is likely to have a significant effect on a marine protected area;
+- (e) made for the purpose of expanding shellfish propagation or cultivation beyond the boundaries of existing activities.
+
+(3)[^key-3e579afc518a80199351482ace4f1508] Paragraph (1) is subject to the condition that notification is given to the UK Hydrographic Office at least 5 days before the day on which any deposit begins, including details of any structures or markers and their co-ordinates of latitude and longitude according to the World Geodetic System 1984.
+
+### 14. Deposit of marine chemical and marine oil treatment substances etc[^key-dd250cea0c40174ec55ae4b7717ba762]
+
+(1) Article 4 applies to the deposit of any–
+
+- (a) marine chemical treatment substance;
+- (b) marine oil treatment substance;
+- (c) substance used or intended to be used for removing surface fouling matter from the surface of the sea or of the sea bed.
+
+(2) Paragraph (1) is subject to conditions 1 to 4.
+
+(3) Condition 1 is that the substance must be one the use of which is for the time being approved for the purposes of this Order by the licensing authority.
+
+(4) Condition 2 is that the substance must be used in accordance with any conditions to which the approval is subject.
+
+(5) Condition 3 is that no deposit may be made in an area of the sea of a depth of less than 20 metres or within one nautical mile of any such area except with the approval of the licensing authority.
+
+(6) Condition 4 is that no deposit of any marine chemical treatment substance or marine oil treatment substance may be made below the surface of the sea except with the approval of the licensing authority.
+
+(7) In this article, “marine chemical treatment substance” and “marine oil treatment substance” have the same meaning as in section 107(2) of the Act.
+
+### 15. Deposit of equipment to control, contain or recover oil etc[^key-98ddf68aae96cfbf76fb95e7a7a7639f]
+
+(1) Article 4 applies to the deposit and removal[^key-ea64727caac4c9f2d5cc20c44e4c7f6f] of any equipment for the purpose of controlling, containing or recovering any—
+
+- (a) oil,
+- (b) mixture containing oil,
+- (c) chemical,
+- (d) flotsam, or
+- (e) algal bloom.
+
+(2) But article 4 does not apply to any such deposit to the extent that it falls within item 10.
+
+### 16. Scientific instruments etc[^key-3ef4e2712f5dd442077f2b147e7ea41c]
+
+(1) Article 4 applies—
+
+- (a) to the deposit of any scientific instrument or associated equipment in connection with any scientific experiment or survey;
+- (b) to a removal activity carried on for the purpose of removing any scientific instrument or associated equipment referred to in sub-paragraph (a);
+- (c) to the deposit of any reagent;
+- (d) to the deposit of any tracer.
+
+(2) Sub-paragraph (a) of paragraph (1) is subject to condition 1.
+
+(3) Sub-paragraph (b) of paragraph (1) is subject to condition 2.
+
+(4) Sub-paragraphs (c) and (d) of paragraph (1) are subject to conditions 3 and 4.
+
+(5) Condition 1 is that details of any scientific instrument or associated equipment to be deposited must be notified to the UK Hydrographic Office at least 5 days before the day on which any deposit is made.
+
+(6) Condition 2 is that notification is given to the UK Hydrographic Office of any removal of any scientific instrument or associated equipment within 5 days of the removal.
+
+(7) Condition 3 is that the reagent or tracer must be one the use of which is for the time being approved for the purposes of this Order by the licensing authority.
+
+(8) Condition 4 is that the reagent or tracer must be used in accordance with any conditions to which the approval is subject.
+
+(9) But article 4 does not apply to—
+
+- (a) any such deposit made for the purpose of disposal;
+- (b) any such deposit that causes or is likely to cause obstruction or danger to navigation, in particular where such a deposit is tethered to the seabed or reduces navigational clearance by more than 5% by reference to Chart Datum;
+- (c) any such deposit or removal activity that is likely to have a significant effect on a marine protected area.
+
+### 17. Deposits in the course of aggregates or mineral dredging[^key-6d0b79c55767d0c71ceac78b4ab61632]
+
+(1) Article 4 applies—
+
+- (a) to the deposit on the site of dredging for aggregates or other minerals of any substance or object taken from the sea in the course of such dredging (other than any of the aggregates or minerals being dredged);
+- (b) to the deposit of waters (whether by overflow or pumped discharge) from the hold of a vessel—
+  - (i) in the normal course of dredging for aggregates or other minerals, or
+  - (ii) at the site of such dredging following its completion or during the return journey of the vessel.
+
+### 18. Maintenance of coast protection, drainage and flood defence works[^key-300809b13545f090ef217a0d14044a42]
+
+(1) Article 4 applies—
+
+- (a) to an activity carried on by or on behalf of a Welsh risk management authority or a coast protection authority[^key-49c3d1a6c24b0aa75d34fab427f72fba] for the purpose of maintaining any—
+  - (i) coast protection works;
+  - (ii) drainage works;
+  - (iii) flood defence works;
+- (b)[^key-31798b1cd583a5555ef66195a38bc8c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Paragraph (1) is subject to the condition that the activity is carried on within the existing boundaries of the works being maintained.
+
+(3) Article 4 does not apply in relation to any such activity that consists of beach replenishment.
+
+### 19. Emergency works in response to flood or flood risk[^key-7cefaa448f62839c79fbbf31f3c5d3c9]
+
+(1) Article 4 applies to an activity carried out[^key-2e2a373bbc5bdde5c5c03bedec5d7cb9] for the purpose of executing emergency works in response to any flood or the imminent risk of any flood.
+
+(2)[^key-2b2cfc50d5ff1577c5bfa6ece9d5208a] But article 4 does not apply where there has been a failure to maintain a structure before a flood or flood risk occurs.
+
+### 20. Use of vehicles to remove litter, marine litter, debris or dead animals from beaches and intertidal areas[^key-c74b863204fea69e2eb96f0a48e0f7cd]
+
+(1) Article 4 applies to a removal activity using a vehicle or vessel carried on by or on behalf of the Welsh Ministers, a local authority, harbour authority within its jurisdiction, Natural Resources Body for Wales or an environmental charity for the purpose of removing—
+
+- (a) litter, marine litter, debris or dead animals from a beach or intertidal area, or
+- (b) abandoned, discarded, or lost fishing gear.
+
+(2) Paragraph (1) is subject to conditions 1 and 2.
+
+(3) Condition 1 is that a dead animal must not be removed by an environmental charity unless it is acting on behalf of the Welsh Ministers, the Natural Resources Body for Wales or a local authority.
+
+(4) Condition 2 is that notice of the intention to remove a dead animal is given to the enforcement authority before the removal activity is undertaken.
+
+(5) But article 4 does not apply to a removal activity that is likely to—
+
+- (a) have a significant effect on a marine protected area;
+- (b) cause damage to features of archaeological or historic interest in an area where the removal activity occurs.
+
+(6) In this article—
+
+- (a) “**enforcement authority**” has the meaning given in section 114 of the Act;
+- (b) “**environmental charity**” has the meaning given in sections 1(1), 2(1) and 3(1)(i) of the Charities Act 2011;
+- (c) “**intertidal area**” means the area between the level of mean high water spring tides and the level of mean low water spring tides.
+
+### 21. Deposits in the course of normal navigation or maintenance[^key-9ce6a1d252ba9fa416cea033d976387f]
+
+(1) Article 4 applies to the deposit from a vehicle, vessel, aircraft or marine structure in the course of its normal navigation or maintenance , or any related removal activity[^key-b9881b5e8d8b34eb24889529279baad0].
+
+(2) But article 4 does not apply to any such deposit–
+
+- (a) made for the purpose of disposal;
+- (b) to the extent that it falls within item 10.
+
+### 22. Maintenance of harbour works[^key-f64b7affe44ac09f481006fdc6faf7ad]
+
+(1) Article 4 applies to a deposit, removal activity or works activity carried on by or on behalf of a harbour authority for the purpose of maintaining any harbour works.
+
+(2) Paragraph (1) is subject to the condition that the activity is carried on within the existing boundaries of the works being maintained.
+
+### 23. Removal of obstruction or danger to navigation[^key-4c3eee8c267243893230c802c9f8aa7a]
+
+(1) Article 4 applies to a removal activity carried on by a person referred to in paragraph (2) for the purpose of removing anything causing or likely to cause obstruction or danger to navigation.
+
+(2) The persons are—
+
+- (a) a conservancy authority (within the meaning given by section 313(1) of the Merchant Shipping Act 1995[^f00018];
+- (b) a harbour authority;
+- (c) a lighthouse authority;
+- (d) a person having powers under any enactment or statutory order to work or maintain a canal or other inland navigation, including a navigation in tidal water.
+
+(3)[^key-4681957a8bcabeec655880089e663c9a] Paragraph (1) is subject to the condition that the UK Hydrographic Office is given notification of the removal activity within 5 days of the removal.
+
+### 24. Moorings and aids to navigation[^key-442b807ae040ec7bcd102a2e9aef661e]
+
+(1) Article 4 applies—
+
+- (a) to a deposit or works activity carried on by a person referred to in paragraph (2) for the purpose of providing a pile mooring, swinging mooring, trot mooring or aid to navigation;
+- (b) to a removal activity carried on by any such person referred to in paragraph (2)[^key-0e3c65de5327feb00cd0e439fc146751] for the purpose of removing any such mooring or aid to navigation.
+- (c)[^key-1c2553d67c19ac2670395d7dd565021b] to a deposit, removal activity or works activity carried on by a person referred to in paragraph (2) for the purpose of replacing or maintaining any such mooring or aid to navigation.
+
+(2) The persons are—
+
+- (a) a harbour authority;
+- (b) a lighthouse authority;
+- (c) any other person, where the activity is carried on in accordance with a consent required from, and granted by, any such authority.
+
+(3) But article 4 does not apply to any such activity which consists of the deposit or the construction of a pontoon.
+
+### 25. Markers for marine protected areas[^key-63c446b83fd61a9bfddbd436da193edd][^key-f92132938444d1246cb5f911586d0a01]
+
+(1) Article 4 applies to—
+
+- (a) a deposit by the Natural Resources Body for Wales[^key-cc457c5ed55f6c8aabcd49c253c53506] for the purpose of installing a marker to indicate the existence and extent of a marine protected area[^key-6cddfb752461968e6e3db79f3c763e08];
+- (b) a removal activity carried on by the Natural Resources Body for Wales for the purpose of removing a marker referred to in sub-paragraph (a).
+
+(2)[^key-cafd4e54f1344a6d78dab075f3f38342] Paragraph (1) is subject to the condition that a notification of any deposit or removal activity is given to the following bodies at least 5 days before the day on which any deposit or removal activity commences—
+
+- (a) the Maritime and Coastguard Agency,
+- (b) the Trinity House, and
+- (c) the UK Hydrographic Office.
+
+### 26. Launching and removal of vessels etc[^key-c4228c6d3115ca599671af1f2f716716][^key-53d96506c52b32959d3d9bcf5b601d6b]
+
+Article 4 applies to a deposit in connection with the launching of any vehicle, vessel, aircraft, marine structure or floating container and a subsequent removal activity[^key-404662a2a5756b320d40fa80cc633c8e].
+
+### 27. Dismantling of ships[^key-c43f4e9619cea7729600ef756106b5be]
+
+(1) Article 4 applies to a deposit or removal activity carried on as part of dismantling a ship that is waste.
+
+(2) But article 4 does not apply to any such deposit to the extent that it falls within item 10.
+
+### 28. Diver trails within restricted areas and in relation to scheduled monuments[^key-7db7834472edf4b7e734cdcadfd003a4]
+
+(1) Article 4 applies to a deposit or removal activity carried on for the purpose of placing, securing or removing signage or other identifying markers relating to—
+
+- (a) a wreck within an area designated as a restricted area within the meaning of section 1 of the Protection of Wrecks Act 1973,
+- (b) a scheduled monument within the meaning of section 3(7) of the Historic Environment (Wales) Act 2023, or
+- (c) an area designated as a controlled site under section 1(2)(b) of the Protection of Military Remains Act 1986.
+
+### 29. Coastguard activities – safety purposes and training[^key-14695252132cc797a8bdb691c19f435f]
+
+Article 4 applies to a deposit or removal activity[^key-13fe775ba17cd35d428dc1a70eae30d1] carried on by or on behalf of the Secretary of State for Transport, acting through the Maritime and Coastguard Agency, or to anyone acting in connection with[^key-c1af20333e0f7be63ffb18118e08641f]—
+
+- (a) securing the safety of a vessel, aircraft or marine structure;
+- (b) saving life or property[^key-b6eba2e4608f660d9cd0ef6110896484]; or
+- (c) training for any purpose referred to in paragraph (a) or (b).
+
+### 30. Deposit and use of flares etc – safety purposes and training[^key-8cbbf71577cff272177798798524774a]
+
+Article 4 applies to the deposit or use of any distress flare, smoke float or similar pyrotechnic substance or object for the purpose of–
+
+- (a) securing the safety of a vessel, aircraft or marine structure;
+- (b) saving life; or
+- (c) training for any purpose referred to in sub-paragraph (a) or (b).
+
+### 31. Cables and pipelines – authorised emergency inspection and repair[^key-42d8ed7173c747ab20136b5a6271d58a]
+
+(1) Article 4 applies to a deposit, removal activity or dredging activity carried on for the purpose of executing emergency inspection or repair works to any cable or pipeline.
+
+(2) Paragraph (1) is subject to the condition that notification is given to the UK Hydrographic Office of any amendments made to charted cable and pipeline positions within 5 days after the completion of any emergency repair works[^key-534a9de7736be042e9c7d05607b3ed13].
+
+(3) But article 4 does not apply to any such deposit falling within item 10 or to any such deposit for the purpose of providing long-term cable or pipeline protection.[^key-e095aee663f77924f68f304cfbe4f5ce]
+
+### 32. Bored tunnels[^key-fe472c9fa0b6cd52093ab175deee1018]
+
+(1) Article 4 applies to a deposit or works activity carried on wholly under the seabed in connection with the construction or operation of a bored tunnel.
+
+(2) Paragraph (1) is subject to conditions 1 to 3.
+
+(3) Condition 1 is that the activity must not adversely affect the environment of Wales, the Welsh inshore region and the Welsh offshore region or the living resources that environment supports.
+
+(4) Condition 2 is that the deposit or works activity does not or is not likely to cause obstruction or danger to navigation.
+
+(5) Condition 3 is that the deposit or works activity does not or is not likely to cause damage to features of archaeological or historic interest.
+
+(6) But article 4 does not apply to any such deposit carried on for the purpose of disposal.
+
+### 33. Rights of foreign vessels etc under international law[^key-7dcba5c4e55d437c25b096bb5df4a9e7]
+
+(1) Article 4 applies to an activity to the extent that it is carried on in exercise of a right under rules of international law, by or in relation to–
+
+- (a) a third country vessel;
+- (b) a warship, naval auxiliary, other vessel or aircraft owned or operated by a State and used, for the time being, only on government non-commercial service (whether or not the warship, naval auxiliary or other vessel is a third country vessel).
+
+(2) In paragraph (1), “third country vessel” means a vessel which—
+
+- (a) is flying the flag of, or is registered in, any State or territory other than the United Kingdom.[^key-bdefa2749742909c51e7c731b5fce1fa]
+- (b)[^key-243f533c4f2a0b14c6c21cbfb62203cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Loading of a vehicle or vessel etc for incineration outside Wales , the Welsh inshore region and the Welsh offshore region[^key-776eb705621abab46b79bd92f7415d61][^key-a2a952a52aba10121ee599c9275b422e]
+
+(1) Article 4 applies to the loading of a vehicle, vessel, aircraft, marine structure or floating container with any substance or object for incineration–
+
+- (a) in the Scottish inshore region;
+- (b) in the UK marine licensing area other than in Wales , the Welsh inshore region and the Welsh offshore region[^key-e4da15a2c4dcadd58e0f4f71ef8221a6];
+- (c) outside the UK marine licensing area and the Scottish inshore region, where the incineration is to take place on—
+  - (i) a British vessel or marine structure; or
+  - (ii) a container floating in the sea, if the incineration is controlled from a British vessel, British aircraft or British marine structure.
+
+(2) But paragraph (1) applies only to the extent that such an activity falls within item 13.
+
+### 35. Routine minor works to maintain existing bridges, cantilevered structures, jetties and piers[^key-06401b29b0bfdd61fb12783e9f4915a7]
+
+(1) Article 4 applies to routine minor works carried out by a local authority or a harbour authority, or any persons acting on their behalf to maintain existing bridges, cantilevered structures, jetties or piers.
+
+(2) But article 4 does not apply to any—
+
+- (a) construction of structures required to support access,
+- (b) dredge or disposal works,
+- (c) deposit or removal activity that causes or is likely to cause an obstruction or danger to navigation,
+- (d) deposit or removal activity which reduces the air clearance above Highest Astronomical Tide for any vessels passing under a bridge, or
+- (e) deposit or removal activity that is likely to have a significant effect on a marine protected area.
+
+### 36. Removal of abandoned or derelict vessels
+
+(1) Article 4 applies to a deposit or removal activity carried on by, or on behalf of, a harbour authority or the Natural Resources Body for Wales, during the removal of an abandoned or derelict vessel.
+
+(2) Paragraph (1) is subject to the condition that notification is given to the Maritime and Coastguard Agency at least 24 hours before any deposit or removal activity is carried on.
+
+(3) But article 4 does not apply to—
+
+- (a) any deposit or removal activity that causes or is likely to cause an obstruction or danger to navigation,
+- (b) any deposit or removal activity that is likely to have a significant effect on a marine protected area, or
+- (c) the removal of a wreck within an area designated as a restricted area within the meaning of section 1 of the Protection of Wrecks Act 1973.
+
+(4) In this article—
+
+- “**abandoned**” (“***wedi ei gadael***”) means a vessel where the owner is unknown, following reasonable attempts to identify them, or has surrendered rights of ownership;
+- “**derelict**” (“***adfeiliedig***”) means a vessel in a state of disrepair and neglect.
+
+### 37. Firework displays
+
+(1) Article 4 applies to the deposit or use of fireworks as part of a firework display and the removal of any associated litter from the marine environment.
+
+(2) But article 4 does not apply to any activity—
+
+- (a) that causes or is likely to cause an obstruction or danger to navigation, or
+- (b) that is likely to have a significant effect on a marine protected area.
+
+### 38. Samples for testing or analysis
+
+(1) Article 4 applies to a removal activity carried out for the purpose of taking a sample of any material for testing or analysis.
+
+(2) Paragraph (1) is subject to the condition that no activity takes place which adversely affects or is likely to adversely affect any MoD strategic interest.
+
+(3) But article 4 does not apply to any deposit or removal activity—
+
+- (a) where the volume of material removed exceeds 1 cubic metre,
+- (b) that causes or is likely to cause obstruction or danger to navigation,
+- (c) that is likely to have a significant effect on a marine protected area,
+- (d) that falls within an area designated as a restricted area within the meaning of section 1 of the Protection of Wrecks Act 1973,
+- (e) that is likely to cause damage to scheduled monuments within the meaning of section 3(7) of the Historic Environment (Wales) Act 2023, or
+- (f) which may cause an adverse effect to an area designated as a controlled site under section 1(2)(b) of the Protection of Military Remains Act 1986.
+
+### 39. Divers removing marine litter
+
+(1) Article 4 applies to the removal of the following during diving activities—
+
+- (a) marine litter, and
+- (b) abandoned, discarded, or lost fishing gear.
+
+(2) But article 4 does not apply to a removal activity—
+
+- (a) that is likely to cause damage to features of archaeological or historic interest in the area where the diving activities occur, or
+- (b) that is likely to have a significant effect on a marine protected area.
+
+### 40. Accidental deposits - removal activity
+
+(1) Article 4 applies to a removal activity carried on for the purpose of removing any object which has been accidently deposited on the seabed.
+
+(2) Paragraph (1) is subject to the condition that the removal activity must begin within 12 months beginning with the day the object was accidently deposited on the seabed.
+
+(3) But article 4 does not apply to a removal activity that—
+
+- (a) causes, or is likely to cause an obstruction or danger to navigation, or
+- (b) is likely to have a significant effect on a marine protected area.
+
+### 41. Navigational maintenance dredging
+
+(1) Article 4 applies to dredging activity carried on for the purpose of conserving or maintaining the navigation of an area of the sea.
+
+(2) Paragraph (1) is subject to conditions 1 to 3.
+
+(3) Condition 1 is that the dredging activity may only be carried on at a site and a depth where, in the 10 years before the dredging activity is commenced, at least one other dredging activity or relevant operation has been carried on for the purpose referred to in paragraph (1).
+
+(4) Condition 2 is that at the site where the dredging activity is to be carried on, no more than 1,500 cubic metres of material are to be dredged as a result of—
+
+- (a) that dredging activity, and
+- (b) any other dredging activities, carried on for the purpose referred to in paragraph (1) in the 12 months before that dredging activity begins.
+
+(5) Condition 3 is that no dredging activity can be carried on which adversely affects or is likely to adversely affect any MoD strategic interest.
+
+(6) But article 4 does not apply to—
+
+- (a) dredging activity where the volume of material exceeds 500 cubic metres,
+- (b) dredging activity that causes or is likely to cause obstruction or danger to navigation,
+- (c) dredging activity that is likely to have a significant effect on a marine protected area,
+- (d) dredging activity that has or is likely to have the effect, in relation to any body of water, of—
+  - (i) preventing the achievement of any of the environmental objectives listed in the relevant river basin management plan as applicable in relation to that body of water, or
+  - (ii) causing environmental damage, or
+- (d) any disposal of dredged material.
+
+(7) In this article—
+
+- “**body of water**” (“***crynofa ddŵr***”) has the same meaning as in regulation 2 of the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^f00017]
+- “**environmental damage**” (“***difrod amgylcheddol***”) has the same meaning as in regulation 4 of the Environmental Damage (Prevention and Remediation) (Wales) Regulations 2009[^f00018];
+- “**river basin management plan**” (“***cynllun rheoli basn afon***”) has the same meaning as in regulation 2 of the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
+
+### 42. Temporary markers
+
+(1) Article 4 applies to a deposit for the purpose of placing a marker and any associated equipment to mark out areas for recreational activities such as sailing, swimming or diving.
+
+(2) Paragraph (1) is subject to conditions 1 and 2.
+
+(3) Condition 1 is that notice of the intention to carry out any deposit or subsequent removal activity referred to in paragraph (1) is given to the Maritime and Coastguard Agency and the Trinity House at least 5 days before the deposit is carried out, if the marker will remain in place for longer than 24 hours.
+
+(4) Condition 2 is that the marker and any associated equipment must be removed from the sea and, where applicable, the seabed within 28 days beginning with the day on which the deposit is made.
+
+(5) But article 4 does not apply to any deposit or removal activity that—
+
+- (a) causes, or is likely to cause an obstruction or danger to navigation, or
+- (b) is likely to have a significant effect on a marine protected area.
+
+### 43. The establishment or restoration of seagrass bed
+
+(1) Article 4 applies to—
+
+- (a) any deposit or removal activity carried on for the purpose of establishing or restoring a seagrass bed;
+- (b) the deposit of any native species of seagrass seed, cutting or plant in the course of establishing or restoring a seagrass bed;
+- (c) a removal activity carried on for the purpose of moving a seagrass seed, cutting or plant in the course of establishing or restoring a seagrass bed, so long as this does not negatively impact the donor bed;
+- (d) the movement of seagrass cores or sods, carried on for the purpose of moving a seagrass seed, sediment, cutting or plant in the course of establishing or restoring a seagrass bed so long as this does not negatively impact the donor bed.
+
+(2) Paragraph (1) is subject to conditions 1 to 3.
+
+(3) Condition 1 is that any removal and subsequent deposit of seagrass seed from a healthy donor bed to another area must follow International Union for Conservation of Nature Guidelines for Reintroductions and Other Conservation Translocations.
+
+(4) Condition 2 is that the native seagrass seed, cutting or plant is free from invasive non-native species.
+
+(5) Condition 3 is that no activity takes place which adversely affects or is likely to adversely affect any MoD strategic interest.
+
+(6) But article 4 does not apply to a deposit—
+
+- (a) made for the purpose of disposal,
+- (b) or removal activity that causes or is likely to cause an obstruction or danger to navigation,
+- (c) or removal activity that is likely to have a significant effect on a marine protected area,
+- (d) or removal activity that is likely to cause damage to features of archaeological or historic interest, or
+- (e) which includes any non-biodegradable materials or harmful substances.
+
+(7) In this article—
+
+- “**native species**” (“***rhywogaethau brodorol***”) means species that naturally occur or have in the past naturally occurred in Wales, including—
+  - (i) regularly occurring migratory species (both breeding and non-breeding) and natural colonists, and
+  - (ii) species that have been reintroduced in Wales following past extinction;
+- “**natural colonists**” (“***coloneiddwyr naturiol***”) means species that arrived in Wales of their own accord and have become established, including those that become migratory species.
+
+### 44. Upgrades to coastal, drainage and flood defence structures
+
+(1) Article 4 applies to a deposit or removal activity carried on by or on behalf of a Welsh risk management authority, or coast protection authority where a local planning permission is required to upgrade any—
+
+- (a) coast protection works;
+- (b) drainage works;
+- (c) flood defence works.
+
+(2) Paragraph (1) is subject to conditions 1 and 2.
+
+(3) Condition 1 is that the deposit or removal activity is carried out within the existing boundaries of the works being maintained.
+
+(4) Condition 2 is that the UK Hydrographic office is notified of any such deposit or removal activities at least 5 days prior to the activity beginning.
+
+(5) But article 4 does not apply to any construction, deposit or removal activity that extends below the mean low water spring tide mark.
+
+### 45. Dry dock facilities
+
+(1) Article 4 applies to a deposit or removal activity carried on in a dry dock area, within a harbour which is regulated under the Harbours Act 1964[^f00020], where the deposit or removal activity is carried on by, or on behalf of, a harbour authority.
+
+(2) Paragraph (1) is subject to conditions 1 and 2.
+
+(3) Condition 1 is that notification of the intention to carry on any deposit or removal activity is given to the Maritime and Coastguard Agency and the Trinity House at least 5 days before any deposit or removal activity is carried on.
+
+(4) Condition 2 is that all debris is removed from the dry dock prior to any entry or exit of any vessel.
+
+(5) But article 4 does not apply to a deposit or removal activity that—
+
+- (a) causes or is likely to cause obstruction or danger to navigation,
+- (b) is likely to have a significant effect on a marine protected area, or
+- (c) is likely to cause damage to features of archaeological or historical interest.
+
+### 46. Discharge of offshore chemicals and oil
+
+—Article 4 applies to any activity in relation to which a permit is required under—
+
+- (a) The Offshore Chemicals Regulations 2002[^f00021], or
+- (b) The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005.
+
+### 47. Removal of windblown sand and subsequent deposit
+
+(1) Article 4 applies to a deposit or removal activity carried on by a local authority, a harbour authority, the Natural Resources Body for Wales or any person acting on their behalf for the purpose of clearing sand blown onto promenades, roads or slipways following a storm event.
+
+(2) Paragraph (1) is subject to conditions 1 and 2.
+
+(3) Condition 1 is that the sand is free from marine litter, debris and land-based contaminants before it is deposited back onto a beach.
+
+(4) Condition 2 is that the sand is deposited back onto a beach within 7 days after it was blown by the wind onto the promenade, road or slipway.
+
+### 48. Pontoons
+
+(1) Article 4 applies to a—
+
+- (a) deposit or works activity carried on by, or with the consent of, a harbour authority for the purpose of providing a pontoon within harbour or port limits;
+- (b) removal activity carried on by, or with the consent of a harbour authority for the purpose of removing a pontoon.
+
+(2) Paragraph (1)(a) is subject to conditions 1 and 2.
+
+(3) Condition 1 is that no more than 10 pontoons have been constructed or deposited at the same site in the previous 6 months.
+
+(4) Condition 2 is that the pontoon must be free from invasive non-native species before the deposit or during the works activity.
+
+(5) But article 4 does not apply—
+
+- (a) to the deposit, construction or removal of a pontoon which has a deck with an area exceeding 30 square metres,
+- (b) to any dwelling, permanent structure or infrastructure placed or fixed on top of a pontoon, or
+- (c) to any piling works.
+
+### 49. Trial pits
+
+(1) Article 4 applies to a deposit or removal activity carried on for the purpose of the excavation and backfilling of trial pits.
+
+(2) Paragraph (1) is subject to the condition that the materials removed from the seabed, as part of any plan or project, do not exceed 5 cubic metres.
+
+(3) But article 4 does not apply to a deposit or removal activity that—
+
+- (a) causes or is likely to cause an obstruction or danger to navigation,
+- (b) is likely to have a significant effect on a marine protected area, or
+- (c) is likely to cause damage to features of archaeological or historical interest.
+
+### 50. Boreholes
+
+(1) Article 4 applies to a deposit or removal activity carried on for the purpose of removing, from the seabed, objects or materials in connection with drilling of boreholes.
+
+(2) Paragraph (1) is subject to the condition that the materials removed from the seabed, as part of any plan or project, do not exceed 5 cubic metres.
+
+(3) But article 4 does not apply to a such deposit or removal activity that—
+
+- (a) causes or is likely to cause obstruction or danger to navigation,
+- (b) is likely to have a significant effect on a marine protected area, or
+- (c) is likely to cause damage to features of archaeological or historical interest.
+
+### 51. Vibrocore sampling
+
+(1) Article 4 applies to a deposit or removal activity carried on for the purpose of taking a sample of material for testing or analysis during vibrocore sampling.
+
+(2) Paragraph (1) is subject to the condition that the removal of material does not exceed more than 5 cubic meters in any plan or project.
+
+(3) But article 4 does not apply to any such deposit or removal activity that—
+
+- (a) causes or is likely to cause an obstruction or danger to navigation,
+- (b) is likely to have a significant effect on a marine protected area, or
+- (c) is likely to cause damage to features of archaeological or historical interest.
+
+(4) In this article, “**vibrocore sampling**” means the technique in which a vibrating core tube is driven into underwater sediments such as sand, silt, clay or soft soils using an electronically or hydraulically powered vibration head which recovers a continuous core sample.
+
+### 52. In-water hull cleaning
+
+(1) Article 4 applies to the deposit of a substance removed from the hull of a vessel during cleaning.
+
+(2) Paragraph (1) is subject to the condition that the removal of the substance is undertaken by hand, using only–
+
+- (a) a soft cloth,
+- (b) a sponge, or
+- (c) the bristles of a soft brush.
+
+Jane Davidson
+
+Minister for Environment, Sustainability and Housing, one of the Welsh Ministers
+
+(This note is not part of the Order)
+
+This Order specifies activities which are not to need a marine licence, or not to need a marine licence if conditions specified in the Order are satisfied. It applies in relation to any licensable marine activity carried on in Wales and the Welsh inshore region, in relation to which the Welsh Ministers are the appropriate licensing authority under section 113 of the Marine and Coastal Access Act 2009 (article 2).
+
+Part 1 (articles 1 to 3) contains introductory provisions.
+
+Part 2 (articles 4 and 5) contains provisions setting out when a marine licence is not needed for a licensable marine activity, and provisions relating to waste (which implement in part Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste (OJ No L 312, 22.11.2008, p.3)).
+
+Part 3 (articles 6 to 34) contains provisions setting out the licensable marine activities which do not need a marine licence (including any conditions that must be satisfied as part of that exemption).
+
+A full impact assessment of the effects that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Marine Consents Unit, Welsh Assembly Government, Cathays Park, Cardiff, CF10 3NQ or at the Welsh Assembly Government website at www.wales.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: Article 3 of the European Communities (Designation) (No.2) Order 2010 \[S.I. [2010/1552](https://www.legislation.gov.uk/uksi/2010/1552)\].
+
+[^key-05e89bad0d749c0c1f6bf28155aa181f]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2011/559/article/1) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-9ce452ade4a349879ffebfc2090d9251]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2011/559/article/2) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^f00004]: Footnote: By virtue of section 113(4)(b) of the Marine and Coastal Access Act 2009, the Welsh Ministers are the appropriate licensing authority as respects anything done in the course of carrying on licensable marine activities in relation to Wales and the Welsh inshore region other than activities for which the Secretary of State is the appropriate licensing authority under section 113(4)(a) and (5) of that Act. *See* section 322(1) for a definition of the Welsh inshore region.
+
+[^key-f2de817477301b52c5aa312c3c994525]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2011/559/article/3) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^f00005]: Footnote: *See* sections 66 and 115(1) of the Act.
+
+[^key-d01ee85be5049520356068fbaef424d9]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2011/559/article/3) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2026/21/article/3/b)
+
+[^key-83604c6ccfc8a99ad6d9da2f345c7b08]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2011/559/article/3) omitted (1.4.2026) by virtue of [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2026/21/article/3/a)
+
+[^f00008]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40) to which there are amendments not relevant to this Order.
+
+[^f00009]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). *See* section 193 of that Act to which section relevant amendments have been made by paragraph 6 of Schedule 6 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28).
+
+[^f00010]: Footnote: OJ No L 206, 22.7.1992, p.7, last amended by Council Directive [2006/105/EC](https://www.legislation.gov.uk/european/directive/2006/0105) (OJ No L 363, 20.12.2006, p.368).
+
+[^f00011]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 37A was inserted, in relation to England and Wales, by section 77 of the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), and amended by section 105(1) of, and paragraph 86 of Schedule 11 to, the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^f00012]: Footnote: OJ No L 312, 22.11.2008, p.3.
+
+[^key-33451ba8dd2bcf5d288dcd86878bc4f6]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2011/559/article/3) inserted (31.7.2016) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2016 (S.I. 2016/690)](https://www.legislation.gov.uk/wsi/2016/690), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/690/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2016/690/article/2/2)
+
+[^key-6063c614ce574599ca47901ec487a093]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2011/559/article/3) substituted (5.7.2018) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2018 (S.I. 2018/724)](https://www.legislation.gov.uk/wsi/2018/724), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/724/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2018/724/article/2/2)
+
+[^key-393cce0d172e385e84786d8e8e18a1e5]: Textual amendment: [Arts. 3A](https://www.legislation.gov.uk/wsi/2011/559/article/3A), [3B](https://www.legislation.gov.uk/wsi/2011/559/article/3B) inserted (31.12.2020) by [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/370)](https://www.legislation.gov.uk/uksi/2019/370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/370/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2019/370/regulation/3/2) (as amended by [S.I. 2020/1249](https://www.legislation.gov.uk/uksi/2020/1249), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1249/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1249/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1907324c15d4d8c40f2876fcb52e9694]: Textual amendment: [Art. 3A(9)(b)](https://www.legislation.gov.uk/wsi/2011/559/article/3A/9/b) omitted (1.4.2026) by virtue of [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [4](https://www.legislation.gov.uk/wsi/2026/21/article/4)
+
+[^key-efbe0f4ed557c6038dad14880e1dc2b3]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2011/559/article/4) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-2911a2d0e9be5ce50b0556dc5d54206e]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2011/559/article/4/1) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/7), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+
+[^f00013]: Footnote: Part 3 sets out the activities to which this article applies.
+
+[^key-c9aad0911eb33c0dc01991e513a9fe8a]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2011/559/article/5) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-4d707477446e8548e823421875cf1318]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/wsi/2011/559/article/5/4) substituted (1.4.2013) by [The Marine Licensing (Delegation of Functions) (Wales) Order 2013 (S.I. 2013/414)](https://www.legislation.gov.uk/wsi/2013/414), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/414/article/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2013/414/article/5/2) (with [arts. 2](https://www.legislation.gov.uk/wsi/2013/414/article/2), [7](https://www.legislation.gov.uk/wsi/2013/414/article/7))
+
+[^key-93dd3efdcac1acbf468a08ebff708b95]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/wsi/2011/559/article/5/5) substituted (1.4.2013) by [The Marine Licensing (Delegation of Functions) (Wales) Order 2013 (S.I. 2013/414)](https://www.legislation.gov.uk/wsi/2013/414), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/414/article/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2013/414/article/5/2) (with [arts. 2](https://www.legislation.gov.uk/wsi/2013/414/article/2), [7](https://www.legislation.gov.uk/wsi/2013/414/article/7))
+
+[^key-09e40151e29aa8a1c7378976fff59bbd]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2011/559/article/6) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-8b762732979e986d97021ee1283ea2c9]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2011/559/article/7) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^f00014]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Relevant amendments and repeals to provisions in Part 6 were made by the Merchant Shipping (Pollution) Act [2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8); the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28); the Pollution Prevention and Control Act [1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24); the Marine Safety Act [2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), and S.I. [2006/1244](https://www.legislation.gov.uk/uksi/2006/1244).
+
+[^key-37b8409d8722a40de3a43ed56139bbe0]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2011/559/article/8) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^f00015]: Footnote: Section 108A of the Merchant Shipping Act 1995, which gives effect to Schedule 3A, was inserted by section 1(1) of the Marine Safety Act 2003.
+
+[^key-fdc2ad154561b8e11367f7af9b3d3075]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2011/559/article/9) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-445210a7210b5b59a222adf815d533a6]: Textual amendment: Art. 9 renumbered as art. 9(1) (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2026/21/article/5/a)
+
+[^key-6d9d527f2741d3a1c00ed40524b257c7]: Textual amendment: [Art. 9(2)](https://www.legislation.gov.uk/wsi/2011/559/article/9/2) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2026/21/article/5/b)
+
+[^key-03154d213e791c165b5cf6ccc1a87fae]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2011/559/article/10) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-d47057023eaa4cdf3748aa091409906c]: Commencement: [Art. 11](https://www.legislation.gov.uk/wsi/2011/559/article/11) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-d5a407c8bf24748e35a91992ed24289d]: Commencement: [Art. 12](https://www.legislation.gov.uk/wsi/2011/559/article/12) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-9c6d72a1dd20852cee82e05b63231e02]: Commencement: [Art. 13](https://www.legislation.gov.uk/wsi/2011/559/article/13) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-8f6a7e6e0c804f91f9825de17394f276]: Textual amendment: Words in [art. 13(2)](https://www.legislation.gov.uk/wsi/2011/559/article/13/2) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [6(a)(i)](https://www.legislation.gov.uk/wsi/2026/21/article/6/a/i)
+
+[^key-2afb513b1c1e8c57a840cf362152b0a1]: Textual amendment: Word in [art. 13(2)](https://www.legislation.gov.uk/wsi/2011/559/article/13/2) omitted (1.4.2026) by virtue of [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [6(a)(ii)](https://www.legislation.gov.uk/wsi/2026/21/article/6/a/ii)
+
+[^key-03ffb4f6584a9c78f24f92dce5d55f37]: Textual amendment: [Art. 13(2)(d)](https://www.legislation.gov.uk/wsi/2011/559/article/13/d)[(e)](https://www.legislation.gov.uk/wsi/2011/559/article/13/e) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2026/21/article/6/b)
+
+[^key-3e579afc518a80199351482ace4f1508]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/wsi/2011/559/article/13/3) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2026/21/article/6/b)
+
+[^key-dd250cea0c40174ec55ae4b7717ba762]: Commencement: [Art. 14](https://www.legislation.gov.uk/wsi/2011/559/article/14) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-98ddf68aae96cfbf76fb95e7a7a7639f]: Commencement: [Art. 15](https://www.legislation.gov.uk/wsi/2011/559/article/15) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-ea64727caac4c9f2d5cc20c44e4c7f6f]: Textual amendment: Words in [art. 15(1)](https://www.legislation.gov.uk/wsi/2011/559/article/15/1) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [7](https://www.legislation.gov.uk/wsi/2026/21/article/7)
+
+[^key-3ef4e2712f5dd442077f2b147e7ea41c]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/wsi/2011/559/article/16) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [8](https://www.legislation.gov.uk/wsi/2026/21/article/8)
+
+[^key-6d0b79c55767d0c71ceac78b4ab61632]: Commencement: [Art. 17](https://www.legislation.gov.uk/wsi/2011/559/article/17) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-300809b13545f090ef217a0d14044a42]: Commencement: [Art. 18](https://www.legislation.gov.uk/wsi/2011/559/article/18) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-49c3d1a6c24b0aa75d34fab427f72fba]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/wsi/2011/559/article/18/1) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [9(a)](https://www.legislation.gov.uk/wsi/2026/21/article/9/a)
+
+[^key-31798b1cd583a5555ef66195a38bc8c5]: Textual amendment: [Art. 18(1)(b)](https://www.legislation.gov.uk/wsi/2011/559/article/18/1/b) omitted (1.4.2026) by virtue of [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [9(b)](https://www.legislation.gov.uk/wsi/2026/21/article/9/b)
+
+[^key-7cefaa448f62839c79fbbf31f3c5d3c9]: Commencement: [Art. 19](https://www.legislation.gov.uk/wsi/2011/559/article/19) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-2e2a373bbc5bdde5c5c03bedec5d7cb9]: Textual amendment: Word in [art. 19(1)](https://www.legislation.gov.uk/wsi/2011/559/article/19/1) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [10(a)](https://www.legislation.gov.uk/wsi/2026/21/article/10/a)
+
+[^key-2b2cfc50d5ff1577c5bfa6ece9d5208a]: Textual amendment: [Art. 19(2)](https://www.legislation.gov.uk/wsi/2011/559/article/19/2) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [10(b)](https://www.legislation.gov.uk/wsi/2026/21/article/10/b)
+
+[^key-c74b863204fea69e2eb96f0a48e0f7cd]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/wsi/2011/559/article/20) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [11](https://www.legislation.gov.uk/wsi/2026/21/article/11)
+
+[^key-9ce6a1d252ba9fa416cea033d976387f]: Commencement: [Art. 21](https://www.legislation.gov.uk/wsi/2011/559/article/21) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-b9881b5e8d8b34eb24889529279baad0]: Textual amendment: Words in [art. 21(1)](https://www.legislation.gov.uk/wsi/2011/559/article/21/1) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [12](https://www.legislation.gov.uk/wsi/2026/21/article/12)
+
+[^key-f64b7affe44ac09f481006fdc6faf7ad]: Commencement: [Art. 22](https://www.legislation.gov.uk/wsi/2011/559/article/22) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-4c3eee8c267243893230c802c9f8aa7a]: Commencement: [Art. 23](https://www.legislation.gov.uk/wsi/2011/559/article/23) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^f00018]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
+
+[^key-4681957a8bcabeec655880089e663c9a]: Textual amendment: [Art. 23(3)](https://www.legislation.gov.uk/wsi/2011/559/article/23/3) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [13](https://www.legislation.gov.uk/wsi/2026/21/article/13)
+
+[^key-442b807ae040ec7bcd102a2e9aef661e]: Commencement: [Art. 24](https://www.legislation.gov.uk/wsi/2011/559/article/24) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-0e3c65de5327feb00cd0e439fc146751]: Textual amendment: Words in [art. 24(1)(b)](https://www.legislation.gov.uk/wsi/2011/559/article/24/1/b) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [14(a)](https://www.legislation.gov.uk/wsi/2026/21/article/14/a)
+
+[^key-1c2553d67c19ac2670395d7dd565021b]: Textual amendment: [Art. 24(1)(c)](https://www.legislation.gov.uk/wsi/2011/559/article/24/1/c) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [14(b)](https://www.legislation.gov.uk/wsi/2026/21/article/14/b)
+
+[^key-63c446b83fd61a9bfddbd436da193edd]: Commencement: [Art. 25](https://www.legislation.gov.uk/wsi/2011/559/article/25) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-f92132938444d1246cb5f911586d0a01]: Textual amendment: Words in [art. 25](https://www.legislation.gov.uk/wsi/2011/559/article/25) heading substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [15(a)](https://www.legislation.gov.uk/wsi/2026/21/article/15/a)
+
+[^key-cc457c5ed55f6c8aabcd49c253c53506]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/wsi/2011/559/article/25/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 67](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/67) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-6cddfb752461968e6e3db79f3c763e08]: Textual amendment: Words in [art. 25(1)(a)](https://www.legislation.gov.uk/wsi/2011/559/article/25/1/a) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [15(b)](https://www.legislation.gov.uk/wsi/2026/21/article/15/b)
+
+[^key-cafd4e54f1344a6d78dab075f3f38342]: Textual amendment: [Art. 25(2)](https://www.legislation.gov.uk/wsi/2011/559/article/25/2) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [15(c)](https://www.legislation.gov.uk/wsi/2026/21/article/15/c)
+
+[^key-c4228c6d3115ca599671af1f2f716716]: Commencement: [Art. 26](https://www.legislation.gov.uk/wsi/2011/559/article/26) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-53d96506c52b32959d3d9bcf5b601d6b]: Textual amendment: Words in [art. 26](https://www.legislation.gov.uk/wsi/2011/559/article/26) heading inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [16(a)](https://www.legislation.gov.uk/wsi/2026/21/article/16/a)
+
+[^key-404662a2a5756b320d40fa80cc633c8e]: Textual amendment: Words in [art. 26](https://www.legislation.gov.uk/wsi/2011/559/article/26) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [16(b)](https://www.legislation.gov.uk/wsi/2026/21/article/16/b)
+
+[^key-c43f4e9619cea7729600ef756106b5be]: Commencement: [Art. 27](https://www.legislation.gov.uk/wsi/2011/559/article/27) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-7db7834472edf4b7e734cdcadfd003a4]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/wsi/2011/559/article/28) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [17](https://www.legislation.gov.uk/wsi/2026/21/article/17)
+
+[^key-14695252132cc797a8bdb691c19f435f]: Commencement: [Art. 29](https://www.legislation.gov.uk/wsi/2011/559/article/29) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-13fe775ba17cd35d428dc1a70eae30d1]: Textual amendment: Words in [art. 29](https://www.legislation.gov.uk/wsi/2011/559/article/29) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [18(a)](https://www.legislation.gov.uk/wsi/2026/21/article/18/a)
+
+[^key-c1af20333e0f7be63ffb18118e08641f]: Textual amendment: Words in [art. 29](https://www.legislation.gov.uk/wsi/2011/559/article/29) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [18(b)](https://www.legislation.gov.uk/wsi/2026/21/article/18/b)
+
+[^key-b6eba2e4608f660d9cd0ef6110896484]: Textual amendment: Words in [art. 29(b)](https://www.legislation.gov.uk/wsi/2011/559/article/29/b) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [18(c)](https://www.legislation.gov.uk/wsi/2026/21/article/18/c)
+
+[^key-8cbbf71577cff272177798798524774a]: Commencement: [Art. 30](https://www.legislation.gov.uk/wsi/2011/559/article/30) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-42d8ed7173c747ab20136b5a6271d58a]: Commencement: [Art. 31](https://www.legislation.gov.uk/wsi/2011/559/article/31) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-534a9de7736be042e9c7d05607b3ed13]: Textual amendment: Words in [art. 31(2)](https://www.legislation.gov.uk/wsi/2011/559/article/31/2) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [19(a)](https://www.legislation.gov.uk/wsi/2026/21/article/19/a)
+
+[^key-e095aee663f77924f68f304cfbe4f5ce]: Textual amendment: Words in [art. 31(3)](https://www.legislation.gov.uk/wsi/2011/559/article/31/3) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [19(b)](https://www.legislation.gov.uk/wsi/2026/21/article/19/b)
+
+[^key-fe472c9fa0b6cd52093ab175deee1018]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/wsi/2011/559/article/32) substituted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [20](https://www.legislation.gov.uk/wsi/2026/21/article/20)
+
+[^key-7dcba5c4e55d437c25b096bb5df4a9e7]: Commencement: [Art. 33](https://www.legislation.gov.uk/wsi/2011/559/article/33) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-bdefa2749742909c51e7c731b5fce1fa]: Textual amendment: Words in [art. 33(2)(a)](https://www.legislation.gov.uk/wsi/2011/559/article/33/2/a) substituted (31.12.2020) by [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/370)](https://www.legislation.gov.uk/wsi/2019/370), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/370/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2019/370/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-243f533c4f2a0b14c6c21cbfb62203cd]: Textual amendment: [Art. 33(2)(b)](https://www.legislation.gov.uk/wsi/2011/559/article/33/2/b) omitted (31.12.2020) by virtue of [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/370)](https://www.legislation.gov.uk/wsi/2019/370), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/370/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2019/370/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-776eb705621abab46b79bd92f7415d61]: Commencement: [Art. 34](https://www.legislation.gov.uk/wsi/2011/559/article/34) in force at 6.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/559/article/1/2)
+
+[^key-a2a952a52aba10121ee599c9275b422e]: Textual amendment: Words in [art. 34](https://www.legislation.gov.uk/wsi/2011/559/article/34) heading substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(9)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/9/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+
+[^key-e4da15a2c4dcadd58e0f4f71ef8221a6]: Textual amendment: Words in [art. 34(1)(b)](https://www.legislation.gov.uk/wsi/2011/559/article/34/1/b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(9)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/9/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+
+[^key-06401b29b0bfdd61fb12783e9f4915a7]: Textual amendment: [Arts. 35-52](https://www.legislation.gov.uk/wsi/2011/559/article/35) inserted (1.4.2026) by [The Marine Licensing (Exempted Activities) (Wales) (Amendment) Order 2026 (W.S.I. 2026/21)](https://www.legislation.gov.uk/wsi/2026/21), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/21/article/1/2), [21](https://www.legislation.gov.uk/wsi/2026/21/article/21)
+
+[^f00017]: Footnote: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74). Part 1 has been amended by Schedule 2 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), from a date to be appointed.
+
+[^f00020]: Footnote: *See* regulation 8(4) for a definition of “European marine site”.
+
+[^f00021]: Footnote: [1973 c. 33](https://www.legislation.gov.uk/ukpga/1973/33). Functions under the Protection of Wrecks Act 1973, with the exception of section 2, were transferred to the Welsh Ministers by article 2 and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 \[[S.I.1999/672](https://www.legislation.gov.uk/uksi/1999/672)\] and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).

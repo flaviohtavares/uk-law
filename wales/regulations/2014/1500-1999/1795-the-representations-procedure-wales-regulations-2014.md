@@ -1,0 +1,521 @@
+---
+title: The Representations Procedure (Wales) Regulations 2014
+id: wsi/2014/1795
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-07-07'
+text_date: '2020-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2014/1795
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2014/1795/pdfs/wsi_20141795_mi.pdf
+- http://www.legislation.gov.uk/wsi/2014/1795/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Representations Procedure (Wales) Regulations 2014
+
+> Text as at 2020-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 1795 (W. 188)
+
+Social Care, Wales
+
+Children And Young Persons, Wales
+
+The Representations Procedure (Wales) Regulations 2014
+
+Made
+
+7 July 2014
+
+Laid before the National Assembly for Wales
+
+9 July 2014
+
+Coming into force
+
+1 August 2014
+
+The Welsh Ministers, in exercise of the powers conferred by sections 24D(1A), 24D(2), 26(3A), 26(3B), 26(3C), 26(4A), 26(5), 26(5A), 26(6), 26A(3), 104(4) ,104A and Schedule 7, paragraph 6 to the Children Act 1989[^f00001], make the following Regulations:
+
+## PART 1 — GENERAL
+
+### 1. Title, commencement and application[^key-b3dd9df4e7ea1a48be8f5846584901fc]
+
+(1) The title of these Regulations is the Representations Procedure (Wales) Regulations 2014 and they come into force on 1 August 2014.
+
+(2) These Regulations apply in relation to Wales.
+
+### 2. Interpretation[^key-47dee554ca7c98f44a9b55e370d438df]
+
+In these Regulations—
+
+- “the 1989 Act” (“*Deddf 1989*”) means the Children Act 1989;
+- “the 2002 Act” (“*Deddf 2002*”) means the Adoption and Children Act 2002[^f00002];
+- “the 2005 Regulations” (“*Rheoliadau 2005”)* means the Representations Procedure (Children)(Wales) Regulations 2005[^f00003];
+- “advocate” (“[^key-b3abbcd2ff2ec89b5f5b2525d6de0ccc]*eiriolwr*”) means a person who provides assistance under arrangements made by a local authority pursuant to section 178(1) of the Social Services and Well-being (Wales) Act 2014;
+- “former representations procedure” (*“gweithdrefn sylwadau flaenorol”*) means the representations procedure established under the provisions of the 2005 Regulations;
+- “independent investigator” *(“ymchwilydd annibynnol*”) means the person, being neither a member nor officer of the local authority to which representations have been made, or the spouse or civil partner of such a person but does include a person with whom the local authority has entered into a contract for services in order to conduct an investigation;
+- “independent person” (“*person annibynnol”*) means the person, being neither a member nor officer of the local authority to which representations have been made, or the spouse or civil partner of such a person, who takes part in the consideration of the representations and in any subsequent discussions, in accordance with section 174(6) of the Social Services and Well-being (Wales) Act 2014[^key-3e59a38323393c2b684c0eac5cadb029];
+- “local authority” (*“awdurdod lleol”*) means a county council or county borough council in Wales;
+- “representations” (“[^key-86864e423b8719a8a902ac144ccfd290]*sylwadau*”) means representations made under section 174 or 175 of the Social Services and Well-being (Wales) Act 2014 or paragraph 6(2) of Schedule 7 to the 1989 Act;
+- “to consider representations” (“*ystyried sylwadau”)* means to consider representations under the procedure set out in these Regulations;
+- “working day” (“*diwrnod gwaith*”) means a day except Saturday, Sunday, Christmas Day, Boxing Day, Good Friday, or a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00005].
+
+### 3. General principles in handling representations[^key-6bae25a83d829fbb817f7b2dd0e5ed50]
+
+(1)[^key-e73f93ad0650237f4952fdece3161b10] Any representations procedure set up under the Social Services and Well-being (Wales) Act 2014 must be operated in accordance with the principle that, where representations are made by a category 2 or 3 young person, or under section 174(3)(a) of that Act, the welfare of the person making representations should be safeguarded and promoted.
+
+(2) Account should be taken of the ascertainable wishes and feelings of the person making representations.
+
+(3)[^key-a4368d8073a2b39a45a178f20e52bbe1] In paragraph (1) “category 2 or 3 young person” has the meaning given in section 104(2) of the Social Services and Well-being (Wales) Act 2014.
+
+## PART 2 — SETTING UP THE REPRESENTATIONS PROCEDURE
+
+### 4. Senior Officer responsible for complaints[^key-74875000dffc886c96b53ef573ef35cc]
+
+Each local authority must designate a senior officer to be responsible for ensuring compliance with the arrangements made by the local authority under these Regulations.
+
+### 5. Complaints officer[^key-99171c074a38636e5077b8e442b9c2a0]
+
+(1) Each local authority must appoint a person, in these Regulations referred to as a complaints officer.
+
+(2) The function of the complaints officer is to manage the procedures for handling and considering representations.
+
+(3) The function of the complaints officer may be performed by any person authorised by the local authority to act on behalf of the complaints officer.
+
+(4) A complaints officer need not be an employee of the local authority and may be appointed as a complaints officer for more than one local authority.
+
+### 6. Form of communication[^key-0939d37a5a96dae312872f267ccacaba]
+
+(1) Any communication which is required by these Regulations to be made to any person making a representation may be sent to that person electronically where that person has—
+
+- (a) consented in writing; and
+- (b) not withdrawn such consent in writing; and
+- (c) provided the local authority with a suitable electronic mail address.
+
+(2) Any requirement in these Regulations for a document to be signed by a person is satisfied, in the case of a document which is sent electronically in accordance with these Regulations, by the individual who is authorised to sign the document typing their name or producing their name using a computer or other electronic means.
+
+### 7. Information and training of staff[^key-089e745c9523e6ac2c746b5eb9ad5861]
+
+Each local authority must ensure that its staff are informed about and appropriately trained in the operation of the arrangements for the handling and investigation of representations.
+
+## PART 3 — SCOPE OF THE REPRESENTATIONS PROCEDURE
+
+### 8. Specified functions under Parts 4 and 5 of the 1989 Act[^key-a5e933d82e58e098480d25e6ffc5122b]
+
+For the purpose of section 174(2)(c) of the Social Services and Well-being (Wales) Act 2014[^key-259343d0c62b005cffe65c9b93e4db62], the following functions of the local authority are qualifying functions under Parts 4 and 5 of the 1989 Act—
+
+- (a) functions under section 31 (care and supervision orders);
+- (b) functions under section 33 (effect of care order);
+- (c) functions under section 34 (parental contact etc. with children in care);
+- (d) functions under section 35 (supervision orders);
+- (e) functions under section 43 (child assessment orders);
+- (f) functions under section 44 (orders for emergency protection of children); and
+- (g) functions under section 47 (local authority’s duty to investigate).
+
+### 9. Specified functions under the 2002 Act[^key-e740f463ec50e88e2c3336104b355b5a]
+
+(1) For the purposes of section 174(1)(c) and (5) of the Social Services and Well-being (Wales) Act 2014[^key-85d4e5a5c274475465d3585d31a11816], specified functions under the 2002 Act are—
+
+- (a) the provision of adoption support services—
+  - (i) as prescribed in section 2(6) of the 2002 Act; and
+  - (ii) further prescribed in regulation 3 of the Adoption Support Services (Local Authorities) (Wales) Regulations 2005 (for the purposes of this regulation, “the Adoption Support Services Regulations”)[^f00006] except that the provision of services prescribed in regulation 3(b) of the Adoption Support Services Regulations is only a specified function under this regulation in so far as it is to enable groups of adoptive children to discuss matters relating to adoption;
+- (b) functions under regulations 7 to 17 of the Adoption Support Services Regulations in so far as they relate to the adoption support services referred to in sub-paragraph (a);
+- (c) functions under sections 18 to 29 (placement of children by adoption agency for adoption) of the 2002 Act;
+- (d) functions under sections 30 to 35 (removal of children who are or may be placed by adoption agencies) of the 2002 Act;
+- (e) functions under sections 36 to 40 (removal of children in non-agency cases) of the 2002 Act;
+- (f) the following functions under the Adoption Agencies (Wales) Regulations 2005[^f00007]—
+  - (i) Part 3 (duties of adoption agency where the agency is considering adoption for a child);
+  - (ia)[^key-956b0251e5609e520276d4fc0df0f0cc] Part 4 (duties of adoption agency in respect of a prospective adopter) in so far as those functions relate to a decision under regulation 27 (pre-assessment decision) that a prospective adopter is not suitable to adopt a child;
+  - (ii) Part 5 (duties of adoption agency in respect of proposed placement of child with prospective adopters);
+  - (iii) Part 6 (placements and reviews); and
+  - (iv) Part 7 (records) in so far as those functions relate to a child’s case record as defined in regulation 12, and regulation 47 (contact); and
+- (g) the following functions under the Adoptions with a Foreign Element Regulations 2005[^f00008]—
+  - (i) regulation 10 (requirements applicable in respect of giving parental responsibility prior to adoption abroad); and
+  - (ii) Chapter 3 (miscellaneous provisions) of Part 3 (adoptions under the Convention).
+
+(2) For the purposes of this regulation, “adoptive child” (“*plentyn mabwysiadol*”) has the same meaning given in regulation 2 of the Adoption Support Services Regulations.
+
+### 10. Consideration of representations under paragraph 6 of Schedule 7 to the 1989 Act (foster parents: limits on number of children a person may foster)[^key-88def5a2f88daeced786f917caad2ab5]
+
+Regulations 2 and 11 to 21 apply in relation to a local authority’s consideration of representations under paragraph 6(1) of Schedule 7 to the 1989 Act.
+
+### 11. Matters excluded from consideration[^key-63057590bde719b27cefcd0f1221aa68]
+
+(1) A local authority is not required to deal with the following representations in accordance with these Regulations—
+
+- (a) a representation which is or has been investigated under any former representations procedure;
+- (b) a representation, the subject matter of which has previously been considered in accordance with arrangements made under these Regulations;
+- (c) a representation which is being or has been investigated by the Public Services Ombudsman for Wales; or
+- (d) a representation which is made orally, either in person, or on the telephone and is resolved to the satisfaction of the person who made the representation not later than the next working day after the day on which the representation was made.
+
+(2) Subject to paragraph (3), where a representation is made in respect of the matters referred to in paragraph (1) and the local authority determines that it is not required to deal with the representation, the local authority must as soon as reasonably practicable notify in writing the person who made the representation of its decision and the reason for its decision.
+
+(3) Paragraph (2) does not apply to a matter specified in sub-paragraph (d) of paragraph (1).
+
+(4) Where a representation specified in paragraph (1) is part of, or is connected with, another representation which is not so specified, nothing in this regulation prevents that other representation being considered as a representation made under these Regulations.
+
+### 12. Matters subject to concurrent consideration[^key-de4bbe6aa843067ca6d699f8b41fc6d0]
+
+(1) A local authority must not consider, or further consider, a representation under these Regulations if—
+
+- (a) it concerns any matter in relation to which—
+  - (i) the person making the representation has stated in writing to the local authority that they are taking or intend to take, proceedings in any court or tribunal;
+  - (ii) the local authority is taking or proposing to take disciplinary proceedings against any person;
+  - (iii) the local authority has been notified that criminal proceedings are pending; or
+  - (iv) civil proceedings (including section 31 Children Act 1989 proceedings) are contemplated; and
+- (b) the local authority decides that consideration, or further consideration, of the representation under these Regulations would prejudice the conduct of the proceedings or investigation under this paragraph.
+
+(2) In this regulation, “disciplinary proceedings” means any procedure for disciplining employees adopted by a local authority.
+
+(3) Any proceedings or investigation falling under paragraph (1) is to be referred to as a “concurrent consideration” for the purposes of this regulation.
+
+(4) Where a local authority decides that it will not consider, or further consider, a representation in accordance with paragraph (1) the local authority must give notice in writing to the person making the representation explaining the reasons for their decision and specifying the relevant concurrent consideration.
+
+(5) Where the concurrent consideration specified in a notice under paragraph (4) has been discontinued or completed the person to whom the notice was given may resubmit to the local authority the representations to which the notice relates and, subject to paragraph (6), the local authority must consider them in accordance with regulations 15 to 22A[^key-f254d3ae2d155497aae02300d6bbd613].
+
+(6) Any person who resubmits a representation in accordance with paragraph (5) must do so no later than 6 months after the concurrent consideration is discontinued or completed and accordingly regulation 13(1) will not apply.
+
+### 13. Time limit for making representations[^key-81b1a46970809aa1d0ad25692a1397f9]
+
+(1) Subject to paragraph (2), a representation must be made no later than 12 months after—
+
+- (a) the date on which the matter which is the subject of the representation occurred; or
+- (b) if later the date on which the matter which is the subject of the representation came to the notice of the person making the representation.
+
+(2) The time limit in paragraph (1) will not apply if the local authority is satisfied that—
+
+- (a) the person making the representation has good reasons for not making the representation within that time limit; and
+- (b) despite the delay, it is still possible to investigate the representation effectively and fairly.
+
+### 14. Withdrawal of representations[^key-4ed3190f6706abf593349463aaa299cb]
+
+(1) A representation may be withdrawn at any time by the person who made the representation and the withdrawal may be notified—
+
+- (a) orally, either by telephone or in person; or
+- (b) in writing.
+
+(2) A local authority must as soon as reasonably practicable write to the person who has withdrawn a representation orally to confirm the oral withdrawal of the representation.
+
+(3) Where a representation has been withdrawn, a local authority may nevertheless continue to investigate any issues raised by a representation in accordance with Part 4, if the local authority considers it necessary to do so.
+
+## PART 4 — HANDLING AND INVESTIGATION OF REPRESENTATIONS
+
+### 15. Representations made by “other persons” under section 174(1)(b) or (c), (3)(f), (4)(d) and (5)(b) of the Social Services and Well-being (Wales) Act 2014[^key-f294f8e0e0269437e05a8c6f6085d678][^key-75b210147a0ca025116c2671094c48dc]
+
+(1) Where a local authority has received representations from a person falling within 174(1)(b) or (c), (3)(f), (4)(d) and (5)(b) of the Social Services and Well-being (Wales) Act 2014[^key-dc9032bbc3a548a889050a92d3280880], they must as soon as reasonably practicable decide whether that person has a sufficient interest in the welfare of the child concerned to warrant that child’s representations being considered by them.
+
+(2) In reaching its decision under paragraph (1) the local authority must take into account the ascertainable wishes and feelings of the child in accordance with the child’s age and level of understanding.
+
+(3) If the local authority decides that the person does have sufficient interest then it must consider the representations in accordance with regulations 16 to 22A[^key-4a36378a4ba46d98d8243e48d4795c0d].
+
+(4) If the local authority decides that the person does not have sufficient interest then it must notify that person of its decision and advise that person that no further action will be taken in respect of the representation.
+
+(5) The local authority must notify the child of the decision made under paragraph (1) if the local authority considers it appropriate to do so having regard to the child’s age and level of understanding.
+
+### 16. Local authority action upon receipt of representations[^key-48c7d55934d919883bf8e27721f23cd4]
+
+(1) A representation may be made orally or in writing.
+
+(2) A local authority must acknowledge receipt of the representation not later than 2 working days after the day on which it receives it.
+
+(3) Where a representation is made orally, the local authority must—
+
+- (a) make a formal written record of the representation; and
+- (b) provide a copy of the written record to the person making the representation.
+
+(4) At the same time that it acknowledges receipt of a representation the local authority must—
+
+- (a) provide the person making the representation with—
+  - (i) details of its procedure for considering representations; and
+  - (ii) where relevant, information about advocacy services;
+- (b) offer to the person making the representation—
+  - (i) assistance and guidance on following the representations procedure or advice on where such assistance and guidance may be obtained; and
+  - (ii) where relevant, help in obtaining an advocate; and
+- (c) notify the person making the representation that they may request that the local authority considers the representation in accordance with regulation 18.
+
+### 17. Local Resolution[^key-8868f41783cd18077fb37594e0c8cca5]
+
+(1) The procedure followed by the local authority in considering representations under this regulation need not involve an independent investigator.
+
+(2) The local authority must offer to discuss the representation with the person making it in an attempt to informally resolve the matter.
+
+(3) Any discussion that takes place in accordance with paragraph (2) must be held within 10 working days of the start date as defined in paragraph (4).
+
+(4) For the purposes of this regulation the “start date” means—
+
+- (a) in any case where representations are received from a person falling within regulation 15(3), the date on which the local authority decide that the person making the representations has sufficient interest to warrant their representations being considered by them;
+- (b) in any case where the person making the representation has requested the involvement of an advocate, the date on which the advocate was appointed; and
+- (c) in any other case, the date on which the representation was acknowledged by the local authority.
+
+(5) The time limit for any discussion that takes place in accordance with paragraph (2) may, in exceptional circumstances, be extended by agreement between the local authority and the person making the representation.
+
+(6) Where the local authority resolves the matter to the satisfaction of the person making the representation then the local authority must provide that person and, where one has been appointed, that person’s advocate, with written details of the terms of the resolution within 5 working days of the date of resolution.
+
+### 18. Formal Investigation[^key-e1fbc1c47e88d850c3af5c9b39cc6d7f]
+
+(1) Where—
+
+- (a) the person making the representation has—
+  - (i) made a request in accordance with regulation 16(4)(c); or
+  - (ii) refused an offer of discussion under regulation 17(2); or
+- (b) following a discussion under regulation 17(2) the representation has not been resolved to the satisfaction of the person making it;
+
+the local authority must consider the representation in accordance with this regulation.
+
+(2) The local authority must compile a formal written record of the representation and send it to the person making the representation with an invitation to comment on its accuracy.
+
+(3) The local authority must consider any comments made by the person making the representation under paragraph (2) and in the light of those comments make any amendments to the record that are necessary to ensure it is, in the opinion of the local authority, an accurate record of the representation.
+
+(4) The local authority must—
+
+- (a) appoint an independent investigator; and
+- (b) together with the independent investigator, investigate the representation in a manner appropriate to resolve it speedily and efficiently; and
+- (c) during the consideration of the representation, keep the person making the representation informed, as far as reasonably practicable, as to the progress of the investigation.
+
+### 19. Appointment of Independent Person[^key-1ef7e0fffad8b7f56fe95618d5755737]
+
+(1) The arrangements made under regulation 18 must include the appointment of an independent person.
+
+(2) The independent person must take part in the investigation of the representation by the local authority and the independent investigator under regulation 18.
+
+(3) The independent person must take part in any discussions which are held by the local authority about the action to be taken in light of its investigation of the representation.
+
+### 20. Response[^key-8ff86f2a682a8985ffab613f37a80f63]
+
+(1) The local authority must within 25 working days of the “start date” as defined in paragraph (2) send the person making the representation a written response which—
+
+- (a) summarises the nature and substance of the representation;
+- (b) describes the investigation undertaken in accordance with regulation 18(4)(b);
+- (c) where appropriate, contains an apology;
+- (d) identifies what action, if any, will be taken in light of the outcome of the investigation;
+- (e) contains details of the right to complain to the Public Services Ombudsman for Wales;
+- (f) offers the person making the representation the opportunity to discuss the contents of the response with the complaints officer or a person acting on his or her behalf; and
+- (g) is signed by the Director of Social Services or a person acting on that person’s behalf.
+
+(2) For the purposes of this regulation, the “start date” means the date on which the local authority produces the final written record of the representation in accordance with regulations 18(2) or 18(3).
+
+(3) If exceptional circumstances mean that the local authority is not able to provide a response in accordance with the time limit in paragraph (1) then it must—
+
+- (a) notify the person making the representation accordingly and explain the reason why; and
+- (b) send the response as soon as reasonably practicable and within 6 months beginning on the day upon which it received the representation.
+
+(4) Copies of the response prepared in accordance with paragraph (1) must be sent to—
+
+- (a) any advocate appointed on behalf of the person making the representation;
+- (b) the independent person appointed under regulation 19; and
+- (c) any person who was the subject of the representation.
+
+### 21. Representations involving more than one local authority[^key-f15709f82bb0aad125fd7562785b5d99]
+
+(1) In any case where it appears to the complaints officer that a representation is or may be a representation which relates to the exercise of functions by more than one local authority the complaints officer must, as soon as reasonably practicable—
+
+- (a) notify the other local authority or local authorities involved and decide with the complaints officer of each of them which local authority will take the lead in handling the representation; and
+- (b) notify the person making the representation.
+
+(2) The complaints officer of a local authority which is the lead authority must ensure that—
+
+- (a) any part of the representation relating to the actions of the lead local authority is considered under this Part of the regulations;
+- (b) the person making the representation is kept informed about the progress of the investigation; and
+- (c) the response required under regulations 17(6) or 20(1) so far as reasonably practicable includes a response on any other matter which was the responsibility of another local authority mentioned in paragraph (1).
+
+(3) The complaints officer of a local authority which is not the lead authority must—
+
+- (a) ensure that any part of the representation relating to the actions of its local authority is considered under these Regulations; and
+- (b) advise the complaints officer of the lead local authority of any resolution of the matter under regulations 17(6) or 20(1).
+
+### 22. Handling of care standards representations[^key-69b6fe35c3f71016c1d2fdeaa2e7dda8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22A. Handling of regulated services representations[^key-aebf9a9e7670ce5d9d81a8a9001797d3]
+
+(1) Except where paragraph (2) applies, in any case where representations relate wholly or partly to a regulated service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, the local authority receiving such representations must, within 2 working days of receipt—
+
+- (a) send details of the whole of the representations or that part of any representation which relates to the regulated service to the person registered by the Welsh Ministers as the service provider in respect of that regulated service;
+- (b) request the service provider to whom the details are sent under sub-paragraph (a) to notify the authority within 10 working days of receipt of the outcome of its consideration of the representations; and
+- (c) inform the person making the representations of the action taken under sub-paragraphs (a) and (b).
+
+(2) This paragraph applies where—
+
+- (a) representations have already been considered by the service provider; or
+- (b) the local authority is of the opinion that to proceed under paragraph (1) would be likely to compromise or prejudice an investigation by the Welsh Ministers.
+
+(3) In any case where representations relate wholly or partly to services provided by a regulated service in respect of which a person is registered by the Welsh Ministers, the local authority must notify the Welsh Ministers if it has not been possible to resolve the representations under regulation 17.
+
+## PART 5 — LEARNING FROM REPRESENTATIONS.
+
+### 23. Monitoring[^key-84696dcdc1e0ea3b4484604dac33c616]
+
+Each local authority must keep a record of—
+
+- (a) each representation it receives;
+- (b) the outcome of each representation;
+- (c) whether the local authority has complied with the time limits specified in regulations 16 to 20;
+
+with the intention of monitoring its compliance with these Regulations.
+
+### 24. Annual Report[^key-cb22e474c17ce1e88be1a93e521e85d8]
+
+(1) Each local authority must prepare an annual report, which must include details of the records kept in accordance with regulation 23, on its performance in the handling and investigation of representations for the purposes of—
+
+- (a) monitoring compliance with these Regulations; and
+- (b) improving the handling and investigation of representations.
+
+(2) The first report referred to in paragraph (1) must be compiled within 12 months of the date of the coming into force of these Regulations.
+
+## PART 6 — TRANSITIONAL PROVISION, REVOCATION AND AMENDMENT.
+
+### 25. Transitional Provision[^key-f4e7c1d60e4a6a31a5dbb67b6c8facca]
+
+Where the consideration of a representation in accordance with the former representations procedure has not been concluded at the time that these Regulations come into force then it must be considered in accordance with that procedure.
+
+### 26. Revocation[^key-b679f0409d158f8d57671af9488af1dc]
+
+The Representations Procedure (Children) (Wales) Regulations 2005 are revoked save to the extent necessary for the purposes of regulation 25.
+
+### 27. Amendment[^key-066f0e5586a1941ff2152863051fd4c1]
+
+In Schedule 1 paragraph 10 of the Local Authority Adoption Service (Wales) Regulations 2007[^f00010] for “The Representations Procedure (Children) (Wales) Regulations 2005” substitute—
+
+“The Representations Procedure (Wales) Regulations 2014.”
+
+Gwenda Thomas
+
+Deputy Minister for Children and Social Services under the authority of the Minister for Health and Social Services, one of the Welsh Ministers.
+
+7 July 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the 2005 Representations Procedure (Children) (Wales) Regulations and establish a new procedure which local authorities must follow in the consideration of representations made to them about the discharge of specific functions under the Children Act 1989 (“the 1989 Act”) and under the Adoption and Children Act 2002 (“the 2002 Act”).
+
+Sections 24D and 26 of the 1989 Act place a duty upon local authorities to establish a procedure for considering representations (including complaints) made to them about the discharge of specific functions under the 1989 Act and the 2002 Act.
+
+These Regulations specify further local authority functions about which representations can be made under sections 24, 26(3A), (3B).
+
+Part 2 (regulations 4 to 7) makes provision about the arrangements for the setting up of a representations procedure. Regulation 4 requires the local authority to designate a senior officer to be responsible for ensuring compliance with arrangements made by the local authority. Regulation 5 requires the local authority to appoint a complaints officer to manage the procedure for handling and consideration of representations. Regulation 6 provides for electronic communication. Regulation 7 requires the local authority to ensure that its staff are appropriately trained.
+
+Part 3 (Regulations 8 to 14) sets out the scope of the representations procedure. Regulation 8 specifies the qualifying functions under Parts 4 and 5 of the 1989 Act for the purposes of section 24D of the 1989 Act. Regulation 9 specifies the qualifying functions under the 2002 Act for the purposes of section 26(3B) of the 1989 Act.
+
+Under paragraph 6 of Schedule 7 to the 1989 Act, every local authority is required to establish a procedure for considering any representations made to it about the discharge of its functions under paragraph 4 of Schedule 7 which allows a local authority to exempt people from the limit on the number of children they may foster. Regulation 10 specifies which regulations will apply to representations made to the local authority in this regard.
+
+Part 4 (regulations 15 to 22) sets out the procedure for the handling and investigation of representations. Regulation 15 makes provision about the ability of “other persons” to make representations on behalf of a child. Regulation 16 requires that a representation must be acknowledged within 2 working days of receipt. Regulation 17 requires that the person making the representation must be offered a discussion in an attempt to informally resolve the matter. That discussion must take place within 10 working days of the start date which will vary depending upon whether the representation is being made by another person on behalf of a child or where an advocate is appointed. If informal resolution of the representation is achieved then the local authority must write to the person making the representation with details of the terms of the resolution. The 10 day time limit may be extended in exceptional circumstances by agreement between the local authority and the person making the representation.
+
+Regulations 18 to 20 prescribe the second formal stage of the process that involves the local authority investigating the representation together with an independent investigator. This stage will apply if the person making the representation refuses an offer of discussion, elects to have the representation dealt with under this procedure or if the representation has not been resolved to the satisfaction of the person making it at the local resolution stage. Regulation 19 requires the appointment of an independent person. Regulation 20 requires the local authority to send a written response to the person making the representation within 25 working days of the production of the final written record of the representation. Regulation 21 sets out the procedure in the event that a representation concerns the actions of more than one local authority. Regulation 22 concerns the handling of care standards representations.
+
+In Part 5 regulation 23 sets out the duty upon local authorities to monitor the arrangements they have made with a view to ensuring that they comply with these Regulations and regulation 24 makes provision for an annual report to be prepared.
+
+Part 6 contains provisions for transitional arrangements, revocation and amendment.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from: the Social Services Strategy and Improvement Division, Department for Health and Social Services, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Functions of the Minister and Secretary of State transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). By virtue of section 162 and paragraph 30(2)(c) of Schedule 11 to the Government of Wales Act [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32), the functions of the National Assembly for Wales were transferred to and now vest in the Welsh Ministers.
+
+[^key-b3dd9df4e7ea1a48be8f5846584901fc]: Commencement: Reg. 1 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-47dee554ca7c98f44a9b55e370d438df]: Commencement: Reg. 2 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^f00002]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^f00003]: Footnote: [S.I. 2005/3365 (W.262)](https://www.legislation.gov.uk/wsi/2005/3365).
+
+[^key-b3abbcd2ff2ec89b5f5b2525d6de0ccc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2014/1795/regulation/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 169(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/169/2)
+
+[^key-3e59a38323393c2b684c0eac5cadb029]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2014/1795/regulation/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 169(3)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/169/3)
+
+[^key-86864e423b8719a8a902ac144ccfd290]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2014/1795/regulation/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 169(4)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/169/4)
+
+[^f00005]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-6bae25a83d829fbb817f7b2dd0e5ed50]: Commencement: Reg. 3 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-e73f93ad0650237f4952fdece3161b10]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/3/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 170(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/170/2)
+
+[^key-a4368d8073a2b39a45a178f20e52bbe1]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/3/3) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 170(3)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/170/3)
+
+[^key-74875000dffc886c96b53ef573ef35cc]: Commencement: Reg. 4 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-99171c074a38636e5077b8e442b9c2a0]: Commencement: Reg. 5 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-0939d37a5a96dae312872f267ccacaba]: Commencement: Reg. 6 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-089e745c9523e6ac2c746b5eb9ad5861]: Commencement: Reg. 7 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-a5e933d82e58e098480d25e6ffc5122b]: Commencement: Reg. 8 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-259343d0c62b005cffe65c9b93e4db62]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/wsi/2014/1795/regulation/8) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 171](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/171)
+
+[^key-e740f463ec50e88e2c3336104b355b5a]: Commencement: Reg. 9 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-85d4e5a5c274475465d3585d31a11816]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2014/1795/regulation/9) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 172](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/172)
+
+[^f00006]: Footnote: [S.I. 2005/1512 (W.116)](https://www.legislation.gov.uk/wsi/2005/1512).
+
+[^f00007]: Footnote: [S.I. 2005/1313 (W.95)](https://www.legislation.gov.uk/wsi/2005/1313).
+
+[^key-956b0251e5609e520276d4fc0df0f0cc]: Textual amendment: [Reg. 9(1)(f)(ia)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/9/1/f) inserted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2020/163/schedule/1/paragraph/4)
+
+[^f00008]: Footnote: [S.I. 2005/392](https://www.legislation.gov.uk/uksi/2005/392).
+
+[^key-88def5a2f88daeced786f917caad2ab5]: Commencement: Reg. 10 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-63057590bde719b27cefcd0f1221aa68]: Commencement: Reg. 11 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-de4bbe6aa843067ca6d699f8b41fc6d0]: Commencement: Reg. 12 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-f254d3ae2d155497aae02300d6bbd613]: Textual amendment: Word in [reg. 12(5)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/12/5) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 30(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/30/2)
+
+[^key-81b1a46970809aa1d0ad25692a1397f9]: Commencement: Reg. 13 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-4ed3190f6706abf593349463aaa299cb]: Commencement: Reg. 14 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-f294f8e0e0269437e05a8c6f6085d678]: Commencement: Reg. 15 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-75b210147a0ca025116c2671094c48dc]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/wsi/2014/1795/regulation/15) heading substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 173(3)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/173/3)
+
+[^key-dc9032bbc3a548a889050a92d3280880]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/15/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 173(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/173/2)
+
+[^key-4a36378a4ba46d98d8243e48d4795c0d]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/15/3) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 30(3)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/30/3)
+
+[^key-48c7d55934d919883bf8e27721f23cd4]: Commencement: Reg. 16 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-8868f41783cd18077fb37594e0c8cca5]: Commencement: Reg. 17 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-e1fbc1c47e88d850c3af5c9b39cc6d7f]: Commencement: Reg. 18 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-1ef7e0fffad8b7f56fe95618d5755737]: Commencement: Reg. 19 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-8ff86f2a682a8985ffab613f37a80f63]: Commencement: Reg. 20 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-f15709f82bb0aad125fd7562785b5d99]: Commencement: Reg. 21 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-69b6fe35c3f71016c1d2fdeaa2e7dda8]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/wsi/2014/1795/regulation/22) omitted (29.4.2019) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 23(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/23/2)
+
+[^key-aebf9a9e7670ce5d9d81a8a9001797d3]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/wsi/2014/1795/regulation/22A) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 30(4)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/30/4)
+
+[^key-84696dcdc1e0ea3b4484604dac33c616]: Commencement: Reg. 23 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-cb22e474c17ce1e88be1a93e521e85d8]: Commencement: Reg. 24 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-f4e7c1d60e4a6a31a5dbb67b6c8facca]: Commencement: Reg. 25 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-b679f0409d158f8d57671af9488af1dc]: Commencement: Reg. 26 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^key-066f0e5586a1941ff2152863051fd4c1]: Commencement: Reg. 27 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1795/regulation/1/1)
+
+[^f00010]: Footnote: [S.I. 2007/1357 (W.128)](https://www.legislation.gov.uk/wsi/2007/1357).

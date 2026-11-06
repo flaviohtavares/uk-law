@@ -1,0 +1,517 @@
+---
+title: The Infrastructure Consent (Fees) (Wales) Regulations 2025
+id: wsi/2025/883
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-07-16'
+text_date: '2026-03-16'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2025/883
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2025/883/pdfs/wsi_20250883_mi.pdf
+- http://www.legislation.gov.uk/wsi/2025/883/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Infrastructure Consent (Fees) (Wales) Regulations 2025
+
+> Text as at 2026-03-16.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2025 No. 883 (W. 153)
+
+Infrastructure Planning, Wales
+
+The Infrastructure Consent (Fees) (Wales) Regulations 2025
+
+Made
+
+16 July 2025
+
+Coming into force
+
+15 December 2025
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 124(1), (4), (5) and (6) and 141(2) of the Infrastructure (Wales) Act 2024[^f00001], make the following Regulations.
+
+In accordance with section 141(3) and (4)(h) of that Act, a draft of this instrument was laid before and approved by resolution of Senedd Cymru.
+
+## PART 1 — Preliminary
+
+### 1. Title and coming into force[^key-f78c7b14c2080bd7675d45ce15949883]
+
+The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regulations 2025 and they come into force on 15 December 2025.
+
+### 2. Interpretation[^key-522557cf1f193f02c960e61cc7eeb018]
+
+(1) In these Regulations—
+
+- “**the 2024 Act**” (“***Deddf 2024***”) means the Infrastructure (Wales) Act 2024);
+- “**applicant**” (“***ceisydd***”) means , except in Part 6,[^key-2d9964791be792a87a31d11221f110f8] a person who proposes to make, or has made an application for infrastructure consent;
+- “**application**” (“***cais***”) means , except in Part 6,[^key-67314606af0dbfc4d8eb79bc2cfadfd8] an application for infrastructure consent made under section 32 of the 2024 Act;
+- “**financial year**” (“***blwyddyn ariannol***”) means any period of 12 months beginning with 1 April;
+- “**infrastructure consent**” (“***cydsyniad seilwaith***”) means a consent given under section 19 of the 2024 Act;
+- “**local impact report**” (“***adroddiad ar yr effaith leol***”) means any local impact report required under section 36(1) of the 2024 Act;
+- “**marine impact report**” (“*adroddiad effaith ar y* môr”) means any marine impact report required under section 37(1) and (2) of the 2024 Act;
+- “**planning authority**” (“***awdurdod cynllunio***”) means the local planning authority within the meaning given by Part 1 of the Town and Country Planning Act 1990[^f00002] for an area in Wales in which the proposed development is located;
+- “**pre-application services**” (“***gwasanaethau cyn gwneud cais***”) means services provided to a person under section 27 of the 2024 Act for the purpose of assisting the person in applying for an infrastructure consent order.
+
+(2) See section 136 of the 2024 Act in relation to provision in these Regulations which requires or authorises a person to—
+
+- (a) notify another person of something, or
+- (b) give a document to another person (whether the provision uses the word “serve”, “give” or other term).
+
+## PART 2 — Fees for providing pre-application services
+
+### 3. Fee for pre-application services provided by the Welsh Ministers[^key-7c48512d8e504d7755ec10ee2ef8f466]
+
+(1) Where the Welsh Ministers provide pre-application services, a fee must be paid to the Welsh Ministers.
+
+(2) Subject to paragraphs (8) and (9), the fee payable under this regulation is the amount published on a website maintained by or on behalf of the Welsh Ministers.
+
+(3) The Welsh Ministers must ensure that the following information is published on the website—
+
+- (a) the pre-application services for which fees are charged,
+- (b) the fees payable,
+- (c) the method used to calculate fees, and
+- (d) the enactment under which the relevant pre-application services are provided.
+
+(4) The Welsh Ministers must ensure that—
+
+- (a) the fee payable is published on the website no less than one month before the fee comes into force, and
+- (b) the fee payable does not exceed the costs reasonably incurred by them in providing the relevant pre-application services, taking one financial year with another.
+
+(5) Following a request for pre-application services, the Welsh Ministers must provide a notice to the applicant setting out the fee to be paid for providing those services.
+
+(6) The applicant must pay the fee to the Welsh Ministers within such period as may be specified in the notice, provided such period is not less than 21 days beginning the day after the date of that notice.
+
+(7) If the applicant fails to pay a fee payable to the Welsh Ministers within the period specified, the Welsh Ministers may—
+
+- (a) recover any unpaid fees for any work completed as a civil debt, and
+- (b) notwithstanding any requirement to provide the relevant pre-application services, withhold the relevant pre-application services until the fees are paid.
+
+(8) Where the cost of providing pre-application services is likely to exceed the fee payable under paragraph (2) of this regulation the Welsh Ministers must—
+
+- (a) inform the applicant the cost is likely to exceed the fee,
+- (b) indicate the amount by which the fee is likely to be exceeded, and
+- (c) ask the applicant to respond within 14 days to confirm they accept that an additional fee is payable.
+
+(9) Where an additional fee is payable under paragraph (8) the fee will be administered by invoice payable by the applicant within 21 days beginning on the day after the date of the invoice.
+
+(10) Any fee paid under this regulation must be refunded if the request for pre-application services is rejected as invalid.
+
+### 4. Fee for pre-application services provided by planning authorities[^key-6438a28b3b1d69c21e36e8820bb5b0f2]
+
+(1) Subject to paragraphs (7) and (8), where a planning authority provides pre-application services, a fee must be paid to that authority.
+
+(2) The fee payable under this regulation is the amount published on a website maintained by or on behalf of the planning authority.
+
+(3) The relevant planning authority must ensure that the following information is published on their website—
+
+- (a) the pre-application services for which fees are charged,
+- (b) the fee payable,
+- (c) the method used to calculate fees, and
+- (d) the enactment under which the relevant pre-application services are provided.
+
+(4) The planning authority must—
+
+- (a) publish the fee payable on their website no less than one month before the fee comes into force, and
+- (b) ensure the fee payable does not exceed the costs reasonably incurred by them in providing the relevant pre-application services, taking one financial year with another.
+
+(5) Following a request for pre-application services, the planning authority must provide a notice to the applicant setting out the fee for providing those services.
+
+(6) The applicant must pay the fee to the planning authority within such period as may be specified in the notice provided by the planning authority, provided such period is not less than 21 days beginning the day after the date of that notice.
+
+(7) Where the cost of providing pre-application services is likely to exceed the fee payable under paragraph (2) of this regulation the planning authority must—
+
+- (a) inform the applicant the cost is likely to exceed the fee,
+- (b) indicate the amount by which the fee is likely to be exceeded, and
+- (c) ask the applicant to respond within 14 days to confirm they accept that an additional fee is payable.
+
+(8) Where an additional fee is payable under paragraph (7), the fee will be administered by invoice payable by the applicant within 21 days beginning the day after the date of the invoice.
+
+(9) If the applicant fails to pay a fee to the planning authority within the period specified, the planning authority may—
+
+- (a) recover any unpaid fees for any work completed as a civil debt, and
+- (b) notwithstanding any requirement to provide the relevant pre-application services, withhold the relevant pre-application services until the fees are paid.
+
+(10) Any fee paid under this regulation must be refunded if the request for pre-application services is rejected as invalid.
+
+### 5. Fee for pre-application services provided by Natural Resources Wales[^key-a30170972e42c2636171d43e0f5f91ce]
+
+(1) Subject to paragraphs (7) and (8), where Natural Resources Wales provides pre-application services, a fee must be paid to Natural Resources Wales.
+
+(2) The fee payable under this regulation is the amount published on a website maintained by or on behalf of Natural Resources Wales.
+
+(3) Natural Resources Wales must ensure that the following information is published on the website—
+
+- (a) the pre-application services for which fees are charged,
+- (b) the fees payable,
+- (c) the method used to calculate fees, and
+- (d) the enactment under which the relevant pre-application services are provided.
+
+(4) Natural Resources Wales must—
+
+- (a) publish the fees payable on the website no less than one month before the fee comes into force, and
+- (b) ensure that the fee payable does not exceed the costs reasonably incurred by them in providing the relevant pre-application services, taking one financial year with another.
+
+(5) Following a request for pre-application services, Natural Resources Wales must provide a notice to the applicant setting out the fee for providing those services.
+
+(6) The applicant must pay the fees to Natural Resources Wales within such period as may be specified in the notice provided by Natural Resources Wales, provided such period is not less than 21 days beginning on the day after the date of that notice.
+
+(7) Where the cost of providing pre-application services is likely to exceed the fee payable under paragraph (2) of this regulation Natural Resources Wales must—
+
+- (a) inform the applicant the cost is likely to exceed the fee,
+- (b) indicate the amount by which the cost is likely to be exceeded, and
+- (c) ask the applicant to respond within 14 days to confirm they accept that an additional fee is payable.
+
+(8) Where an additional fee is payable under paragraph (7), the fee will be administered by an invoice payable within 21 days beginning the day after the date of the invoice.
+
+(9) If the applicant fails to pay a fee to Natural Resources Wales, Natural Resources Wales may—
+
+- (a) recover the unpaid fees for any completed work from the applicant as a civil debt, and
+- (b) notwithstanding any requirement to provide the relevant pre-application services, withhold the relevant pre-application services until the fees are paid.
+
+(10) Any fee paid pursuant to this regulation must be refunded if the request for pre-application services is rejected as invalid.
+
+## PART 3 — Fees for providing information regarding interests in land and for exercising powers of entry to survey land
+
+### 6. Fee for obtaining information about interests in land[^key-6421f96df0a495b4b589212561d0b4c6]
+
+(1) An applicant who makes a request to the Welsh Ministers to authorise service of a notice for information under section 28 of the 2024 Act (obtaining information about interests in land), must pay a fee with the request.
+
+(2) The fee payable under paragraph (1) is the amount published on a website maintained by or on behalf of the Welsh Ministers.
+
+(3) The Welsh Ministers must—
+
+- (a) publish the fee payable on the website no less than one month before the fee comes into force, and
+- (b) ensure the fee payable does not exceed the costs reasonably incurred by them in dealing with the request referred to in paragraph (1), taking one financial year with another.
+
+### 7. Fee for exercising powers of entry to survey land[^key-bb785227d04540dc0c485fcba8ce5fc5]
+
+(1) A person who makes a request to the Welsh Ministers to exercise a power under section 125 of the 2024 Act (powers of entry to survey land) including as applied by section 126(1) of the 2024 Act (powers of entry to survey land: Crown land), must pay a fee with the request.
+
+(2) The fee payable under paragraph (1) is the amount published on a website maintained by the Welsh Ministers.
+
+(3) The Welsh Ministers must—
+
+- (a) publish the fee payable on the website no less than one month before the fee comes into force, and
+- (b) ensure the fee payable does not exceed the costs reasonably incurred by them in dealing with the request.
+
+## PART 4 — Fees payable for making an application
+
+### 8. Fee for giving notice of proposed application to the Welsh Ministers[^key-bdee11e64e225535dc5d18adc2a7d612]
+
+(1) An applicant who gives notice of a proposed application under section 29 of the 2024 Act, must pay a fee to the Welsh Ministers with the notice.
+
+(2) The fee payable under paragraph (1) is the amount published on a website maintained by or on behalf of the Welsh Ministers.
+
+(3) The Welsh Ministers must—
+
+- (a) publish the fee payable on the website no less than one month before the fee comes into force, and
+- (b) ensure the fee payable does not exceed the costs reasonably incurred by them in dealing with the request, taking one financial year with another.
+
+### 9. Fee for making an application[^key-6f4b9a2c2f349f6c6f0ab53bf9d13716]
+
+(1) An applicant who makes an application must pay a fee to the Welsh Ministers when the application is made.
+
+(2) The fee payable under this regulation is the amount published on a website maintained by or on behalf of the Welsh Ministers.
+
+(3) The Welsh Ministers must ensure that the following information is published on the website—
+
+- (a) details of the functions for which the fee is charged,
+- (b) the fees payable,
+- (c) the method used to calculate the fees, and
+- (d) the enactment under which the relevant functions are provided.
+
+(4) The Welsh Ministers must publish the fee on the website no less than one month before the fee comes into force.
+
+(5) A fee is payable under this regulation for the following functions—
+
+- (a) submission of the application,
+- (b) examination of the application,
+- (c) preparation of a local impact report by the planning authority,
+- (d) preparation of a marine impact report by Natural Resources Wales, and
+- (e) determination of the application.
+
+### 10. Fee for a local impact report[^key-e160b2cdea2efd9cbf58e0aa63fe8ca3]
+
+(1) Where a planning authority submits a local impact report to the Welsh Ministers under section 36(1) of the 2024 Act the Welsh Ministers must pay the portion of the fee referred to in regulation 9 which relates to the local impact report to the relevant planning authority (“the local impact report fee”).
+
+(2) Unless the Welsh Ministers otherwise agree with the relevant planning authority, the Welsh Ministers must—
+
+- (a) pay the full local impact report fee to the relevant planning authority if the local impact report is received within the deadline for receipt of representations specified in the notice of accepted application given under section 34(2)(a) or (b) of the 2024 Act, or
+- (b) pay 50% of the local impact report fee to the relevant planning authority where the local impact report is submitted within the period of two weeks after the deadline for receipt of representations specified in the notice of accepted application given under section 34(2)(a) or (b) of the 2024 Act.
+
+(3) The Welsh Ministers must—
+
+- (a) refund the applicant any part of the local impact report fee that is not paid to the relevant planning authority, or
+- (b) refund the applicant in full if the application is not accepted or is withdrawn before the submission of a local impact report by the relevant planning authority.
+
+### 11. Fee for a marine impact report[^key-f0403dd5e709fd79c066898ba3c66fa5]
+
+(1) Where Natural Resources Wales submits a marine impact report to the Welsh Ministers under section 37(1) or (2) of the 2024 Act, the Welsh Ministers must pay the portion of the fee referred to in regulation 9 which relates to the marine impact report to Natural Resources Wales (“the marine impact report fee”).
+
+(2) Unless the Welsh Ministers otherwise agree with Natural Resources Wales the Welsh Ministers must—
+
+- (a) pay the full marine impact report fee to Natural Resources Wales if the marine impact report is received within the deadline for receipt of representations specified in the notice of accepted application given under section 34(2)(b) of the 2024 Act, or within the deadline specified in a direction given under section 37(2) of the 2024 Act, or
+- (b) pay 50% of the marine impact report fee to Natural Resources Wales where the marine impact report is submitted within the period of two weeks after the deadline for receipt of representations specified in the notice of accepted application given under section 34(2)(b) of the 2024 Act, or within the deadline specified in a direction given under section 37(2) of the 2024 Act.
+
+(3) The Welsh Ministers must—
+
+- (a) refund the applicant any part of the marine impact report fee that is not paid to Natural Resources Wales, or
+- (b) refund the applicant in full if the application is not accepted or is withdrawn before the submission of a marine impact report by Natural Resources Wales.
+
+### 12. Refund of unspent fees[^key-9e39407ca0e834be141756d8186e8165]
+
+The Welsh Ministers must refund to the applicant any part of the fee paid under regulation 9 which has not been spent after the determination of the application.
+
+## PART 5 — Fees payable for other services
+
+### 13. Fees payable to relevant statutory consultees and relevant planning authorities for providing services other than pre-application services[^key-6fc26967eeba1108ef98850dcd451654]
+
+(1) A relevant statutory consultee and a relevant planning authority may charge a fee for providing services to applicants in accordance with this regulation.
+
+(2) A relevant statutory consultee and a relevant planning authority referred to in paragraph (1) must publish the following information on their website—
+
+- (a) the services in respect of which fees are charged,
+- (b) the fee charged for those services, and
+- (c) the method used to calculate fees.
+
+(3) The relevant statutory consultee and relevant planning authority must—
+
+- (a) publish the fee payable on their website no less than one month before the fee comes into force;
+- (b) ensure the fee payable does not exceed the costs reasonably incurred by them in providing the relevant services taking one financial year with another.
+
+(4) The relevant statutory consultee and relevant planning authority must provide a notice setting out the fee to be paid by the applicant when an application is made for a service published on their website.
+
+(5) The applicant must pay the fees to the relevant statutory consultee or relevant planning authority (as appropriate) within such period as may be specified in the notice referred to in paragraph (4) provided such period is not less than 21 days beginning with the day after the date of that notice.
+
+(6) If the applicant fails to pay the fees to the relevant statutory consultee or relevant planning authority (as appropriate) within the period specified, the relevant statutory consultee or relevant planning authority may—
+
+- (a) recover the fees for any completed work from the applicant as a civil debt, and
+- (b) notwithstanding any requirement to provide the relevant services, withhold the relevant services until the fees are paid.
+
+(7) In this regulation—
+
+- “**relevant planning authority**” (“***awdurdod cynllunio perthnasol***”) means the planning authority for the area in which the proposed development is located;
+- “**relevant statutory consultee**” (“*ymgynghorai statudol perthnasol”*) means a consultee referred to in column 3 of the Table in the Schedule to the Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025[^f00003] where the significant infrastructure project to which the application or proposed application relates falls within a category set out in column 2 of the Table;
+- “**services**” (“***gwasanaethau***”) means the performance of an infrastructure consent function or the provision of an infrastructure consent service within the meaning of section 124 of the 2024 Act.
+
+### 14. Fees payable to relevant authorities for applications for removing consent requirements and deeming consents[^key-cd29998ebbad6b02ded48d3bc622c2a6]
+
+(1) A relevant authority may charge the applicant a fee in accordance with this regulation for—
+
+- (a) a consent provided under section 84(2) of the 2024 Act (removing consent requirements and deeming consents), or
+- (b) an infrastructure consent service provided in relation to that consent.
+
+(2) A relevant authority must publish the following information on their website—
+
+- (a) the services in respect of which fees are charged,
+- (b) the fee charged for those services, and
+- (c) the method used to calculate fees.
+
+(3) Where a fee is payable by the applicant to the relevant authority, the relevant authority will provide the applicant with details of the amount payable.
+
+(4) A relevant authority must—
+
+- (a) publish the fee payable on its website no less than one month before the fee comes into force;
+- (b) ensure the fee payable does not exceed the costs reasonably incurred in providing the relevant services taking one financial year with another.
+
+(5) The relevant authority must provide a notice setting out the fee to be paid by the applicant when an application is made for a service published on their website.
+
+(6) The applicant must pay the fees to the relevant authority within such period as may be specified in the notice provided by the relevant authority provided such period is not less than 21 days beginning with the day after the date of that notice.
+
+(7) If the applicant fails to pay the fees to the relevant authority within the period specified in the notice referred to in paragraph (6), the relevant authority may—
+
+- (a) recover the fees for any completed work from the applicant as a civil debt, and
+- (b) notwithstanding any requirement to provide the relevant services, withhold the relevant services until the fees are paid.
+
+(8) In this regulation—
+
+- “**consent**” (“***cydsyniad***”) has the same meaning as in section 84(5) of the 2024 Act;
+- “**infrastructure consent service**” (“*gwasanaeth cydsyniad seilwaith”*) has the same meaning as in section 124(3) of the 2024 Act;
+- “**relevant authority**” (“***awdurdod perthnasol***”) has the same meaning as in section 84(5) of the 2024 Act.
+
+## PART 6 — Fees for proposed applications and applications to change or revoke an infrastructure consent order[^key-a45a5e30d228bfa46a5366300807ef3e]
+
+### 15. Interpretation of Part
+
+In this Part—
+
+- “**the 2026 Regulations**” (“***Rheoliadau 2026***”) means the Infrastructure Consent (Correcting Errors and Applications to Change or Revoke Infrastructure Consent Orders) (Procedure) (Wales) Regulations 2026;
+- “**applicant**” (“***ceisydd***”) means a person who proposes to make, or has made, an application to change or revoke an infrastructure consent order;
+- “**application to change or revoke an infrastructure consent order**” (“***cais i newid neu ddirymu gorchymyn cydsyniad seilwaith***”) means an application under section 90 of the 2024 Act;
+- “**infrastructure consent order**” (“***gorchymyn cydsyniad seilwaith***”) means an order made under the 2024 Act granting infrastructure consent.
+
+### 16. Fee for giving notice of proposed application to change or revoke an infrastructure consent order
+
+(1) An applicant who gives notice of proposed application under regulation 6 of the 2026 Regulations must pay a fee to the Welsh Ministers with the notice.
+
+(2) The fee payable under paragraph (1) is the amount published on a website maintained by or on behalf of the Welsh Ministers.
+
+(3) The Welsh Ministers must—
+
+- (a) publish the fee payable on the website no less than one month before the fee comes into force, and
+- (b) ensure the fee payable does not exceed the costs reasonably incurred by them in dealing with the notice, taking one financial year with another.
+
+### 17. Fees for applications to change or revoke an infrastructure consent order
+
+(1) An applicant who makes any of the following applications must pay a fee to the Welsh Ministers when the application is made—
+
+- (a) an application for a non-material change;
+- (b) an application for a material change;
+- (c) an application for revocation
+
+(2) An applicant who receives a notice of acceptance which includes provision under regulation 7(5) of the 2026 Regulations that the applicant’s notice of proposed application is to be treated as an application must pay a fee to the Welsh Ministers on receipt of the notice of acceptance.
+
+(3) The fees payable under this regulation are the amounts published on a website maintained by or on behalf of the Welsh Ministers.
+
+(4) The Welsh Ministers must ensure that the following information is published on the website—
+
+- (a) details of the functions for which the fees are charged,
+- (b) the fees payable,
+- (c) the method used to calculate the fees, and
+- (d) the enactment under which the relevant functions are provided.
+
+(5) The Welsh Ministers must—
+
+- (a) publish the fee for each kind of application specified in paragraph (1) and the fee payable under paragraph (2) on the website no less than one month before the fee comes into force;
+- (b) ensure the fee payable does not exceed the costs reasonably incurred by them in performing the relevant functions, taking one financial year with another.
+
+(6) In this regulation—
+
+- “**application for a material change**” (“***cais am newid sylweddol***”) has the meaning given in regulation 9(1)(b)(i) of the 2026 Regulations;
+- “**application for a non-material change**” (“***cais am newid ansylweddol***”) has the meaning given in regulation 15(1)(b) of the 2026 Regulations;
+- “**application for revocation**” (“***cais am ddirymiad***”) has the meaning given in regulation 9(1)(b)(ii) of the 2026 Regulations;
+- “**notice of acceptance**” (“***hysbysiad derbyn***”) means a notice given under regulation 7(3) of the 2026 Regulations;
+- “**notice of proposed application**” (“***hysbysiad o gais arfaethedig***”) means a notice given in accordance with regulation 6 of the 2026 Regulations.
+
+### 18. Fee for examining an application to change or revoke an infrastructure consent order
+
+(1) Where a person or panel of persons is appointed under section 40(2) of the 2024 Act to examine an application to change or revoke an infrastructure consent order (“**examining authority**”), an applicant must pay a fee to the Welsh Ministers.
+
+(2) The fee under paragraph (1) must be paid to the Welsh Ministers on receipt of notice under regulation 28(1)(a) of the 2026 Regulations of the first appointment of an examining authority.
+
+(3) The fee payable under this regulation is the amount published on a website maintained by or on behalf of the Welsh Ministers.
+
+(4) The Welsh Ministers must ensure that the following information is published on the website—
+
+- (a) details of the functions for which the fee is charged,
+- (b) the fee payable,
+- (c) the method used to calculate the fee, and
+- (d) the enactment under which the relevant functions are provided.
+
+(5) The Welsh Ministers must—
+
+- (a) publish the fee on the website no less than one month before the fee comes into force;
+- (b) ensure the fee payable does not exceed the costs reasonably incurred by them in performing the relevant functions, taking one financial year with another.
+
+(6) In this regulation “**examining authority**” has the meaning given in paragraph (1).
+
+### 19. Refund of unspent fees in connection with applications to change or revoke an infrastructure consent order
+
+The Welsh Ministers must refund to the applicant any part of the fee paid under regulation 17 or 18 which was not spent after the determination of the application to change or revoke an infrastructure consent order.
+
+### 20. Fees payable to relevant statutory consultees and relevant planning authorities
+
+Regulation 13 applies to applications to change or revoke an infrastructure consent order as it applies to applications for infrastructure consent under section 32 of the 2024 Act but as if—
+
+- (a) “applicant” had the meaning given in regulation 15;
+- (b) in paragraph (7)—
+  - (i) for the definition of “relevant planning authority” there were substituted—
+
+    > - “**relevant planning authority**” (“***awdurdod cynllunio perthnasol***”) means a planning authority that provides services in connection with a proposed application or an application to change or revoke an infrastructure consent order;
+  - (ii) for the definition of “relevant statutory consultee” there were substituted—
+
+    > - “**relevant statutory consultee**” (“***ymgynghorai statudol perthnasol***”) means a statutory consultee or an original statutory consultee within the meanings given in regulation 2(1) of the 2026 Regulations;
+
+Rebecca Evans
+
+Cabinet Secretary for Economy, Energy and Planning, one of the Welsh Ministers
+
+16 July 2025
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Infrastructure (Wales) Act 2024 (“**the 2024 Act**”) establishes a unified application and consenting process to enable making and consideration of applications for infrastructure consent. The process applies to the significant infrastructure projects that are specified in Part 1 of the 2024 Act. Broadly, they are energy, transport, waste and water projects.
+
+Part 2 of the 2024 Act contains the requirement for infrastructure consent. Part 3 of the 2024 Act makes provision about applying for infrastructure consent.
+
+Part 4 of the 2024 Act contains provision about appointing an authority to examine applications for infrastructure consent (“**the examining authority**”) and about particular aspects of the examination process. Part 5 of the 2024 Act contains provisions about deciding applications for infrastructure consent.
+
+The 2024 Act enables the Welsh Ministers to make provision for or in connection with the charging of fees by specified public authorities for the performance of an infrastructure consent function and the provision of an infrastructure consent service (as defined in section 124 of the Act).
+
+These Regulations make provision in relation to the following—
+
+- fees for pre-application services provided by the Welsh Ministers (regulation 3),
+- fees for pre-application services provided by planning authorities (regulation 4),
+- fees for pre-application services provided by Natural Resources Wales (regulation 5),
+- fees for obtaining information about interests in land (regulation 6),
+- fees for exercising powers of entry to survey land (regulation 7),
+- fees for giving notice of proposed application (regulation 8),
+- fees for making an application (regulation 9),
+- fees for a local impact report (regulation 10),
+- fees for a marine impact report (regulation 11),
+- refund of unspent fees (regulation 12),
+- fees payable to relevant statutory consultees and relevant planning authorities for providing services other than pre-application services (regulation 13), and
+- fees payable to relevant authorities for applications for removing consent requirement and deeming consents (regulation 14).
+
+The Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025 ([S.I. 2025/690) (W. 114)](https://www.legislation.gov.uk/wsi/2025/690) make provisions for the process for pre-application notification, the manner in which applications for infrastructure consent in respect of such development are to be dealt with by the Welsh Ministers and the process to be followed following examination of an application for infrastructure consent.
+
+The Infrastructure Consent (Examination and Decision) (Procedure) (Wales) Regulations 2025 ([S.I. 2025/692) (W. 116)](https://www.legislation.gov.uk/wsi/2025/692) deal with the examination procedure which follows an application and make further provision in relation to an examining authority, preparation for and the examination of applications and post-examination processes.
+
+The Infrastructure Consent (Compulsory Acquisition) (Wales) Regulations 2025 ([S.I. 2025/691) (W. 115)](https://www.legislation.gov.uk/wsi/2025/691) make supplementary provision where an application for infrastructure consent includes a request to authorise compulsory acquisition of land or an interest in or right over land.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government at Cathays Park, Cardiff CF10 3NQ and on the Welsh Government website at www.gov.wales.
+
+## Annotations
+
+[^f00001]: Footnote: [2024 asc 3](https://www.legislation.gov.uk/asc/2024/3).
+
+[^key-f78c7b14c2080bd7675d45ce15949883]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-522557cf1f193f02c960e61cc7eeb018]: Commencement: Reg. 2 in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-2d9964791be792a87a31d11221f110f8]: Textual amendment: Words in reg. 2(1) inserted (16.3.2026) by [The Infrastructure Consent (Fees) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/70)](https://www.legislation.gov.uk/wsi/2026/70), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/70/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2026/70/regulation/2/2/a)
+
+[^key-67314606af0dbfc4d8eb79bc2cfadfd8]: Textual amendment: Words in reg. 2(1) inserted (16.3.2026) by [The Infrastructure Consent (Fees) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/70)](https://www.legislation.gov.uk/wsi/2026/70), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/70/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/70/regulation/2/2/b)
+
+[^f00002]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8)
+
+[^key-7c48512d8e504d7755ec10ee2ef8f466]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/883/regulation/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-6438a28b3b1d69c21e36e8820bb5b0f2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/883/regulation/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-a30170972e42c2636171d43e0f5f91ce]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/883/regulation/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-6421f96df0a495b4b589212561d0b4c6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/883/regulation/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-bb785227d04540dc0c485fcba8ce5fc5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/883/regulation/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-bdee11e64e225535dc5d18adc2a7d612]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/883/regulation/8) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-6f4b9a2c2f349f6c6f0ab53bf9d13716]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/883/regulation/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-e160b2cdea2efd9cbf58e0aa63fe8ca3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/883/regulation/10) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-f0403dd5e709fd79c066898ba3c66fa5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/883/regulation/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-9e39407ca0e834be141756d8186e8165]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/883/regulation/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-6fc26967eeba1108ef98850dcd451654]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/883/regulation/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2025/690 (W 114)](https://www.legislation.gov.uk/wsi/2025/690).
+
+[^key-cd29998ebbad6b02ded48d3bc622c2a6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/883/regulation/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+
+[^key-a45a5e30d228bfa46a5366300807ef3e]: Textual amendment: Pt. 6 inserted (16.3.2026) by [The Infrastructure Consent (Fees) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/70)](https://www.legislation.gov.uk/wsi/2026/70), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/70/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/70/regulation/2/3)

@@ -1,0 +1,73 @@
+---
+title: Social Services and Well-being (Wales) Act 2014, section 28
+act: Social Services and Well-being (Wales) Act 2014
+section: '28'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2014/4/section/28
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Social Services and Well-being (Wales) Act 2014, section 28
+
+> **Warning: changes not yet applied to this text (21).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2014/4
+>
+> Extent: England, Wales.
+
+## 28. Combining needs assessments for a carer and a cared for person[^key-98b3a75d0d54d3b30872a1ee3880d6f9]
+
+*Extent: E+W*
+
+(1) Where a person who appears to need care and support has a carer, a local authority may combine—
+
+- (a) the person's needs assessment under section 19 or 21, and
+- (b) the carer's needs assessment under section 24,
+
+but this is subject to subsections (2) to (4).
+
+(2) A local authority may not combine a needs assessment for an adult (whether under section 19 or 24) with a needs assessment for another person unless—
+
+- (a) the adult (or, where applicable, an authorised person) gives valid consent, or
+- (b) the requirement for valid consent may be dispensed with.
+
+(3) A local authority may not combine a needs assessment for a child aged 16 or 17 (whether under section 21 or 24) with a needs assessment for another person unless—
+
+- (a) the child (or, where applicable, an authorised person) gives valid consent,
+- (b) a person with parental responsibility for the child gives valid consent in circumstances in which the local authority is satisfied that—
+  - (i) the child lacks capacity to decide whether to consent to the combining of the needs assessments, and
+  - (ii) there is no authorised person to make the decision on the child's behalf, or
+- (c) the requirement for valid consent may be dispensed with.
+
+(4) A local authority may not combine a needs assessment for a child aged under 16 (whether under section 21 or 24) with a needs assessment for another person unless—
+
+- (a) the child or a person with parental responsibility for the child gives valid consent, or
+- (b) the requirement for valid consent may be dispensed with.
+
+(5) Consent given under subsection (2), (3) or (4) is valid except in the following cases—
+
+- CASE 1 - the local authority is satisfied, in the case of consent given by an adult or a child aged 16 or 17, that the adult or child lacks capacity to consent to the combination of the needs assessments;
+- CASE 2 - the local authority is satisfied, in the case of consent given by a child aged under 16, that the child does not have sufficient understanding to make an informed decision about the combination of the needs assessments;
+- CASE 3 - the local authority is satisfied, in the case of consent given by a person with parental responsibility for a child aged under 16 in relation to the child's needs assessment, that the child—
+  - (a) has sufficient understanding to make an informed decision about the combination of the needs assessments, and
+  - (b) does not agree with the consent given by the person with parental responsibility.
+
+(6) A local authority may dispense with the requirement for valid consent in the following cases—
+
+- CASE 1 - the local authority is satisfied, with regard to the needs assessment of an adult, that—
+  - (a) there is no person who may give valid consent, and
+  - (b) combining the needs assessments would be in the adult's best interests;
+- CASE 2 - the local authority is satisfied, with regard to the needs assessment of a child aged 16 or 17, that—
+  - (a) the child lacks capacity to give valid consent,
+  - (b) there is no authorised person who may give valid consent on the child's behalf, and
+  - (c) combining the needs assessments would be in the child's best interests;
+- CASE 3 - the local authority is satisfied, with regard to the needs assessment of a child aged under 16, that—
+  - (a) the child does not have sufficient understanding to make an informed decision about the combination of the needs assessments, and
+  - (b) combining the needs assessments would be consistent with the child's well-being.
+
+(7) In this section “**authorised person**” means a person authorised under the Mental Capacity Act 2005 (whether in general or specific terms) to decide whether to consent to the combination of the needs assessments on the adult or child's behalf.
+
+## Annotations
+
+[^key-98b3a75d0d54d3b30872a1ee3880d6f9]: Commencement: S. 28 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

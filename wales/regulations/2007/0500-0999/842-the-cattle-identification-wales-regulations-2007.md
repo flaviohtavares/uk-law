@@ -1,0 +1,739 @@
+---
+title: The Cattle Identification (Wales) Regulations 2007
+id: wsi/2007/842
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-03-13'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2007/842
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2007/842/pdfs/wsi_20070842_mi.pdf
+- http://www.legislation.gov.uk/wsi/2007/842/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cattle Identification (Wales) Regulations 2007
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2007 No. 842 (W.74)
+
+ANIMALS, WALES
+
+ANIMAL HEALTH
+
+The Cattle Identification (Wales) Regulations 2007
+
+Made
+
+13 March 2007
+
+Coming into force
+
+6 April 2007
+
+The National Assembly for Wales is designated for the purposes of section 2(2) of the European Communities Act 1972 [^c18381021] in relation to the common agricultural policy of the European Community [^c18381031] and in relation to measures in the veterinary field for the protection of public health [^c18381041].
+
+The Treasury consent to these Regulations in accordance with section 56(1) of the Finance Act 1973 [^c18381051].
+
+The National Assembly for Wales makes these Regulations under section 2(2) European Communities Act 1972 and section 56(1) of the Finance Act 1973.
+
+## PART 1 — INTRODUCTION
+
+### 1. Title, application and commencement
+
+The title of these Regulations is The Cattle Identification (Wales) Regulations 2007. They apply in relation to Wales and come into force on 6 April 2007.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**cattle**” means bovine animals, including bison and buffalo;
+- “**cattle passport**” means—
+  - (a) a cattle passport issued under Schedule 3 to these Regulations or the equivalent measure in England or Scotland[^key-71faa0ae133b360ee440db3c5915ae93];
+  - (b) a cattle passport issued under the Cattle Passports Order 1996 [^c18381061]; and
+  - (c) a movement document issued under the Cattle (Identification of Older Animals) (Wales) Regulations 2000 [^c18381071] or the equivalent measure in Scotland, England or Northern Ireland;
+- “Commission Regulation[^key-bfc368d4b513c4e544c8ddbdbff7c196] [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494)” (“*Rheoliad y Comisiwn [(EC) Rhif 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494)*”) means Commission Regulation [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494) laying down detailed rules for the implementation of Council Regulation [(EC) No 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) as regards the application of minimum administrative sanctions in the framework of the system for the identification and registration of bovine animals;”.
+- “[^key-2bb81442eeed1b56f6e8bd7b76a39a93][Commission Regulation (EC) No 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911)” (*“Rheoliad y Comisiwn [(EC) Rhif 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911)”*) means [Commission Regulation (EC) No 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) implementing Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council as regards eartags, passports and holding registers, as last amended by Commission Implementing Regulation (EU) 2017/949.
+- “**holding**” means any establishment, construction or, in the case of an open-air farm, any place in which cattle are held, kept or handled;
+- “**inspector**” means a person appointed to be an inspector for the purposes of these Regulations by the National Assembly or a local authority;
+- “**keeper**” means any person responsible for animals, whether on a permanent or temporary basis, including during transportation or at a market;
+- “**local authority**” means in relation to an area the county council or county borough council for that area;
+- “**National Assembly**” means the National Assembly for Wales of Cathays Park, Cardiff CF10 3NQ;
+- “**previous cattle tagging legislation**” means—
+  - (a) the Cattle Identification Regulations 1998 [^c18381081];
+  - (b) the Bovine Animals (Records, Identification and Movement) Order 1995 [^c18381091];
+  - (c) the Bovine Animals (Identification, Marking and Breeding Records) Order 1990 [^c18381101];
+  - (d) the Tuberculosis (England and Wales) Order 1984 [^c18381111]; and
+  - (e) the Tuberculosis (Scotland) Order 1984 [^c18381121];
+- “**Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760)**” means Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council (establishing a system for the identification and registration of bovine animals and regarding the labelling of beef products and repealing Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) [^c18381131]) , as amended by Regulation (EU) 2016/429 of the European Parliament and the Council[^key-1c13faaf35a1482c21d5704943d2052a];
+- “**valid**”, in relation to a cattle passport, means a cattle passport that has been correctly completed and signed in the appropriate place by each keeper of the animal and the identification number and description of the animal in the passport correlate to the ear tags and the animal.
+
+(2) Any approval, authorisation, licence, notice or registration issued under—
+
+- (a) these Regulations,
+- (b) Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760);
+- (c) Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) [^key-ac87fdbbd5d7f6ec667de78816a50a26]...; or
+- (d) Commission Regulation [(EC) No. 644/2005](https://www.legislation.gov.uk/european/regulation/2005/0644) (authorising a special identification system for bovine animals kept for cultural and historical purposes on approved premises as provided for in Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council [^c18381151]),
+
+must be in writing, may be made subject to conditions and may be amended or revoked by notice in writing at any time.
+
+## PART 2
+
+### 3. Notification of holdings
+
+(1) An occupier of a holding who begins to keep cattle on that holding, and any person who takes over the occupation of a holding where cattle are kept, must notify the National Assembly within one month of—
+
+- (a) his or her name and address; and
+- (b) the address of the holding.
+
+(2) When it receives notification under paragraph (1) the National Assembly must issue a herdmark for each holding.
+
+(3) The occupier must notify the National Assembly of any change to the information in paragraph (1) within one month.
+
+(4)[^M_F_5efc4f2f-f30b-4dd5-ad3a-840a3b23a0d5] Any person who fails to comply with paragraph (1) or (3) is guilty of an offence.
+
+## PART 3 — Identification and registration of cattle
+
+### 4. Ear tags
+
+Schedule 1 (ear tags) has effect.
+
+### 5. Registration of cattle
+
+Schedule 2 (registration of cattle) has effect.
+
+### 6. Cattle passports
+
+Schedule 3 (cattle passports) has effect.
+
+### 7. Notification of movements and death
+
+Schedule 4 (notification of movement or death) has effect.
+
+### 8. Records
+
+Schedule 5 (records) has effect.
+
+## PART 4 — GENERAL
+
+### 9. Charging for information
+
+The National Assembly may make a reasonable charge for providing information that is stored in the database required by Article 5 of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) and provided in accordance with the second paragraph of Article 3 of that Regulation.
+
+### 10. Powers of inspectors
+
+(1) An inspector may, on producing a duly authenticated document showing his or her authority, if required, at all reasonable hours enter any land or premises for the purposes of ascertaining whether there is or has been any contravention of —
+
+- (a) these Regulations;
+- (b) Title I of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760);
+- (c)[^key-357dbf5d88daeba4f76fe72b4c723e72] Commission Regulation [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494);
+- (d) Commission Regulation [(EC) No. 509/1999](https://www.legislation.gov.uk/european/regulation/1999/0509) (concerning an extension of the maximum period laid down for the application of ear tags to bison [^c18381171])
+- (e) Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911); and
+- (f) Commission Regulation [(EC) No. 644/2005](https://www.legislation.gov.uk/european/regulation/2005/0644),
+
+and in this regulation “**premises**” includes any place, installation, vehicle, ship, vessel, boat, craft, hovercraft or aircraft.
+
+(2) The power to enter premises only includes a power to enter domestic premises if they are being used in connection with the provisions in paragraph (1).
+
+(3) An inspector may carry out all checks and examinations necessary for the enforcement of the provisions in paragraph (1), and in particular may—
+
+- (a) collect, pen and inspect any cattle, and may require the keeper to arrange for the collection, penning and securing of cattle;
+- (b) take samples;
+- (c) examine any records in whatever form, and take copies of those records;
+- (d) remove and retain any records or documents (including passports) relating to these Regulations;
+- (e) have access to, and inspect and check the operation of, any computer and any associated apparatus or material that is or has been used in connection with records, and may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford him or her such assistance as he or she may reasonably require;
+- (f) where records are kept by means of a computer, require the records to be produced in a form in which they may be taken away;
+- (g) require production of any unused ear tags and record their numbers; and
+- (h) take with him or her any[^key-64528306240983ebbfb3747231409f88] person he or she considers necessary.
+
+### 11. Powers to restrict movements
+
+In accordance with the second paragraph of Article 22(1) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760), an officer of the National Assembly may serve a notice on a keeper of animals on a holding restricting the movement of cattle to or from the holding if he or she is satisfied that this is necessary for the proper enforcement of that Regulation, these Regulations, Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494), No. 509/1999, No. 911/2004 and No. 644/2005, and any person who fails to comply with that notice is guilty of an offence.
+
+### 12. Slaughter of unmarked animals
+
+The National Assembly is [^key-662c025acfab84139dbe25f48a00c7c7]... the competent authority for the purposes of Article 1(2) of Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494).
+
+### 13. Obstruction etc.
+
+(1) A person who—
+
+- (a) obstructs any person acting in the execution of these Regulations;
+- (b) without reasonable cause, fails to give to any person acting in the execution of these Regulations any assistance or information that that person may reasonably require of him or her for the purposes of his or her functions;
+- (c) furnishes to any person acting in the execution of these Regulations any information that he or she knows to be false or misleading; or
+- (d) fails to produce a passport, document or record when required to do so to any person acting under these Regulations,
+
+is guilty of an offence.
+
+(2) Any person who provides false information in any notification made under these Regulations is guilty of an offence.
+
+### 14. Offences by bodies corporate
+
+(1) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
+
+- (a) any director, manager, secretary or other similar officer of the body corporate; or
+- (b) any person who was purporting to act in any such capacity,
+
+he or she, as well as the body corporate, is guilty of the offence and be liable to be proceeded against and punished accordingly.
+
+(2) In this regulation “**director**” in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+### 15. Penalties
+
+A person guilty of an offence under these Regulations is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment not exceeding three months or to both;
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+### 16. Enforcement
+
+(1) These Regulations are enforced by the local authority.
+
+(2) The National Assembly may direct in any particular case or class of case that it will enforce them instead.
+
+### 17. Revocations
+
+The following are revoked insofar as they apply in relation to Wales—
+
+- (a) the Bovine Animals (Records, Identification and Movement) Order 1995 [^c18381181];
+- (b) the Cattle Identification Regulations 1998 [^c18381191];
+- (c) the Cattle Database Regulations 1998 [^c18381201];
+- (d) the Cattle Identification (Amendment) Regulations 1998 [^c18381211];
+- (e) the Cattle Identification (Amendment) Regulations 1999 [^c18381221];
+- (f) the Cattle (Identification of Older Animals) (Wales) Regulations 2000 [^c18381231];
+- (g) the Cattle Database (Amendment) (Wales) Regulations 2002 [^c18381241];
+- (h) the Cattle (Identification of Older Animals) (Wales) (Amendment) Regulations 2002 [^c18381251];
+- (i) the Cattle Identification (Amendment) Regulations 2006 [^c18381261]; and
+- (j) the Cattle Database (Amendment) Regulations 2006 [^c18381271].
+
+[^c18381281]Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+## SCHEDULE 1 — Ear tags
+
+Regulation 4
+
+### 1. Enforcement of Article 4 of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760)
+
+(1) The National Assembly—
+
+- (a) is the competent authority for the purposes of approving ear tags for the purposes of Article 4(1) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760); and
+- (b) on application from a manufacturer of approved ear tags, must issue unique identification codes for the purposes of that Article, conforming with the provisions of paragraphs 1 and 2 of Article 1 of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) (except that he may refuse to allocate numbers in the circumstances set out in Article 1(5) of that Regulation).
+
+(2) The person responsible for identifying cattle by means of an ear tag applied to each ear in accordance with Article 4(1) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) is the keeper.
+
+(3) In accordance with Article 4(2) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760)—
+
+- (a) in the case of a dairy herd, the keeper must apply one ear tag to the calf within 36 hours of birth and the second tag within 20 days of birth;
+- (b) in the case of any other herd (other than bison) the keeper must apply both tags within 20 days of birth;
+- (c) in the case of bison, in accordance with Articles 1 and 2 of Commission Regulation [(EC) No. 509/1999](https://www.legislation.gov.uk/european/regulation/1999/0509), the keeper must apply both tags when the calves are separated from their dams or within nine months of the birth, whichever is the sooner.
+
+(4) Any person who fails to comply with the requirement in Article 4(1) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) to apply an ear tag within the period specified in paragraph (3) above is guilty of an offence.
+
+### 2. Form of ear tags
+
+(1) Ear tags applied under Article 4(1) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) must be approved by the National Assembly.
+
+(2) In accordance with paragraphs 1 and 2 of Article 1 of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911), both ear tags must have the logo specified in paragraph 11 (in the case of a two-piece ear tag, both pieces must have it), the letters “UK” and the unique number allocated by the National Assembly.
+
+(3) In accordance with Article 1(3) of that Regulation an ear tag may also have a bar code.
+
+(4) The power in Article 4 of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) (a power to choose other material or model for the second ear tag) may be exercised by the National Assembly.
+
+### 3. Movement from a holding
+
+(1) Subject to paragraph (3), any person who moves an animal from a holding in breach of the third paragraph of Article 4(2) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) is guilty of an offence.
+
+(2) Subject to paragraph (3), any person who moves from a holding cattle that should have been tagged or marked under previous cattle tagging legislation and that are not correctly tagged or marked is guilty of an offence.
+
+(3) If an animal at a market is not correctly tagged or marked, an inspector may issue a licence to the keeper permitting the animal to be moved from the market to a holding specified in the licence.
+
+(4) Any person who moves an animal in breach of the licence or any condition of the licence is guilty of an offence.
+
+### 4. Replacement ear tags
+
+(1) The National Assembly is the competent authority for the purposes of Article 4(5) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760), and any person who either removes or replaces an ear tag (or an ear tag attached under previous cattle tagging legislation) without permission in contravention of that Article or Article 4(4) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) is guilty of an offence.
+
+(2) If a keeper of an animal born in Great Britain on or after 1 January 1998 discovers that an ear tag has become illegible or has been lost, he or she must, within 28 days of the discovery, replace it with another ear tag bearing the same number (which must be a primary tag if the original was primary, or a primary or secondary tag if the original tag was secondary) and failure to do is an offence.
+
+(3) If a keeper of an animal born in Great Britain before 1 January 1998 discovers that an ear tag has become illegible or has been lost, he or she must, within 28 days of the discovery, either re-tag it with another single tag, or re-tag it with double tags in accordance with these Regulations, and any person failing to do so is guilty of an offence.
+
+(4) If an animal born outside Great Britain loses an ear tag the keeper must, within 28 days of discovering that the ear tag has been lost, re-tag it using a replacement tag that has—
+
+- (a) the crown logo specified in paragraph 11; and
+- (b) the original identification code,
+
+and any person failing to do so is guilty of an offence.
+
+(5) It is an offence to apply an ear tag to an animal if it has previously been used to identify a different animal.
+
+(6) It is an offence to apply an ear tag to an animal if the ear tag number has already been used on a different animal.
+
+(7) Paragraphs (2) to (4) do not apply to the occupier of a slaughterhouse or the operator of a market.
+
+### 5. Change of ear tag number
+
+If an animal born before 1 January 1998 is re-tagged with a different ear tag number, the keeper must, within 14 days of the new ear tag being attached and in any event before the animal is moved off the holding, notify the National Assembly of the new ear tag number and return the old cattle passport with an application for a new cattle passport to be issued with the new ear tag number, and failure to do so is an offence.
+
+### 6. Ear tags for animals kept for cultural or historical purposes
+
+(1) A person who keeps cattle for cultural or historical purposes may apply to the National Assembly to have his or her holding registered for this purpose in accordance with Article 1 of Commission Regulation [(EC) No. 644/2005](https://www.legislation.gov.uk/european/regulation/2005/0644).
+
+(2) If the National Assembly has approved a holding for these purposes, the derogation relating to tagging in Article 2 of that Regulation applies provided that the cattle are identified by means of an electronic identifier contained in a ruminal bolus.
+
+### 7. Temporary marks
+
+If an animal is not tagged in accordance with these Regulations or previous cattle tagging legislation, an inspector may apply an identification mark to it.
+
+### 8. Intra-Community trade[^key-e2860367d82fa86a8e5818eec7414a63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Imports from third countries
+
+(1) Any person who fails to apply ear tags to an animal imported from a third country within 20 days of the animal being released from the border inspection post at which it was imported, and in any event before the animal leaves the holding of destination, as specified in Article 4(3) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760), is guilty of an offence.
+
+(2) It is a defence for any person charged under this regulation to prove that—
+
+- (a) when the animal was imported, the holding of destination was a slaughterhouse, and
+- (b) the animal was slaughtered within 20 days of leaving the border inspection post.
+
+### 10. Alteration and storage of ear tags
+
+(1) It is an offence to alter, obliterate or deface an ear tag applied under Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) or previous cattle tagging legislation, or a temporary mark applied by an inspector in accordance with paragraph 7 (application of temporary marks).
+
+(2) Any person who has in his or her possession unused ear tags issued for the purposes of these Regulations must keep them in a secure place, and failure to do so is an offence.
+
+### 11. Logo for ear tags
+
+The crown logo for ear tags is—
+
+[image: see source](https://www.legislation.gov.uk/wsi/2007/842/images/wsi_20070842_en_sld_001)
+
+## SCHEDULE 2 — Registration of cattle
+
+Regulation 5
+
+### 1. Registration
+
+It is an offence to fail to register an animal in accordance with this Schedule.
+
+### 2. Method of registration
+
+(1) An application to register an animal must be made to the National Assembly.
+
+(2) Registration is by means of an application for a passport.
+
+(3) The application must be made—
+
+- (a) using the National Assembly's interactive website;
+- (aa)[^key-9c7764914f6f7c70a647e989807cc921] using the Welsh Ministers' automated telephony service;
+- (b) using software approved by the National Assembly; or
+- (c) in writing, using the application form provided by the National Assembly,
+
+and must provide all the required information.
+
+### 3. Registration of birth
+
+(1) When a calf is born its keeper must register it within 7 days from the date it is tagged (or, in the case of a dairy herd, from the date on which the second ear tag is applied to the animal).
+
+(2) In the case of bison, the time limit for registration is 7 days from the birth of the calf, whether or not the animal has been tagged, and the application must state the tag number intended to be used for the animal.
+
+### 4. Registration of cattle brought in from a member State etc.[^key-ded4d7d11c9c2f7168084d6070726769]
+
+(1) If cattle are brought in from a[^key-73c32ba5dd94f80a8de72ca842e3121f] member State, the Channel Islands, the Isle of Man or Northern Ireland, the keeper must, within 15 days of an animal arriving at the holding of destination—
+
+- (a) register it with the National Assembly, and
+- (b) surrender its cattle passport (if any) to the National Assembly.
+
+(2) If cattle are brought in from a place specified in paragraph (1) and the holding of destination is a market or a showground, the provisions of paragraph (1) do not apply until the animal reaches a holding that is not a market or a showground.
+
+(3) The requirement to register does not apply in relation to cattle at a slaughterhouse.
+
+### 5. Cattle from outside the European Union
+
+(1) In the case of cattle imported from outside the European Union the keeper must register an animal within 15 days from the date that the animal must be tagged in accordance with the first paragraph of Article 4(3) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760).
+
+(2) The requirement to register does not apply in relation to cattle at a slaughterhouse.
+
+## SCHEDULE 3 — Cattle passports
+
+Regulation 6
+
+### PART 1 — Passports
+
+#### 1. Issue of a passport
+
+(1) If the National Assembly receives a fully completed and accurate application for the registration of an animal within the specified time limits, it must issue a cattle passport for that animal.
+
+(2) The National Assembly may issue one if it receives an application outside the specified time, but only if it is satisfied of the animal's identity and that all the information in the application is accurate.
+
+(3) The passport remains the property of the National Assembly at all times.
+
+#### 2. Retention of cattle passports
+
+(1) A keeper must retain the cattle passport for each animal (unless it has been submitted to the National Assembly) and produce it to an inspector on demand.
+
+(2) Failure to comply with this paragraph is an offence.
+
+#### 3. Lost cattle passports and replacements
+
+(1) If a cattle passport is lost, stolen or destroyed, the keeper of the animal to which it relates must notify the National Assembly in writing within 14 days of becoming aware of the fact and apply for a replacement.
+
+(2) The National Assembly may only provide a replacement cattle passport if it is satisfied that it can accurately reconstruct the movements of the animal since birth or importation.
+
+(3)[^key-a2e67c58938323d55abda3f17c82de6a] If the Welsh Ministers do not provide a replacement, the animal to which it relates must not be moved off a holding except (under the authority of a licence granted by the Welsh Ministers) to—
+
+- (a) a plant approved under Article 24(1)(a), (b), (c) or (h) of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council , as last amended by Regulation (EU) No 1385/2013 of the European Parliament and of the Council[^key-339c3476f88af1f2d4b938d698874ada]; or
+- (b) a registered collection centre which complies with Section 1 of Chapter II of Annex VI of Commission Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council.
+
+(4) If a person who has obtained a replacement cattle passport subsequently finds the original cattle passport, he or she must notify the National Assembly within 7 days and enclose with the notification the original cattle passport.
+
+(5) Any person who fails to comply with any provision of this paragraph is guilty of an offence.
+
+#### 4. Fees
+
+(1) The National Assembly may set a fee for a replacement cattle passport.
+
+(2) The fee is the amount that the National Assembly considers reasonable to enable it to meet its expenses in replacing the passport.
+
+(3) The National Assembly must publicise the fee on its website.
+
+(4) The fee is payable with the application and is not refundable if the applicant withdraws the application or the National Assembly is unable to obtain sufficient information to issue a replacement passport.
+
+#### 5. Confiscation of cattle passports
+
+(1) An officer of the National Assembly or a local authority may serve a notice on a keeper requiring him or her to surrender a passport if—
+
+- (a) there is no animal on the holding for that passport;
+- (b) the passport does not correctly describe the animal to which it purports to relate, or the passport was issued for a different animal;
+- (c) the ear tag number in the passport is different from the ear tag number on the animal;
+- (d) the movement details on the passport are not the same as the movement details on the database kept by the National Assembly in accordance with these Regulations or in the records kept by the keeper in accordance with these Regulations;
+
+and any person who fails to comply with such a notice is guilty of an offence.
+
+(2) The National Assembly may not return a passport until it is satisfied that the passport accurately describes an animal in the possession of the keeper and that the movement entries in the passport are accurate.
+
+#### 6. Stolen animals
+
+If an animal with a cattle passport is lost or stolen, the keeper must send the cattle passport to the National Assembly within 7 days of becoming aware of the fact, together with written details of what has occurred, and failure to do so is an offence.
+
+#### 7. Alterations
+
+It is an offence to alter or deface any information in a cattle passport.
+
+#### 8. Misusing a passport
+
+It is an offence to use a cattle passport in relation to an animal other than the animal for which it was granted.
+
+### PART 2 — Movement using passports
+
+#### 9. Movement off a holding
+
+(1) When cattle are moved off a holding, the keeper must ensure that the cattle passport is marked with the date of movement and must sign it in the appropriate place.
+
+(2) He or she must give the cattle passport duly completed to the transporter before the cattle are moved off the holding.
+
+(3) Failure to comply with this paragraph is an offence.
+
+#### 10. Transporting cattle
+
+(1) Anyone transporting cattle must ensure that each animal is accompanied throughout its journey by a valid cattle passport..
+
+(2) Failure to comply with this paragraph is an offence.
+
+(3) But, if the transporter is not the owner of the animals, it is a defence for him or her to prove that he or she had no reason to believe that an animal was not accompanied by a valid cattle passport
+
+#### 11. Movement on to a holding
+
+(1) When cattle are moved on to a holding, the transporter must give each animal's cattle passport to the new keeper (or, if moved through a market, he or she must give it to the market operator, who must then give it to the new keeper).
+
+(2) The new keeper or market operator must ensure that the cattle passport is marked with—
+
+- (a) the date of movement on to the holding,
+- (b) the name and address of the keeper (or, in the case of a market, the operator of the market) and the holding number, using if practicable the bar code label provided by the National Assembly,
+
+and must sign it.
+
+(2A)[^key-9e19c1c0403790ffd25d1f9ebbe1eb18] But sub-paragraph (2) does not apply to the occupier of a slaughterhouse.
+
+(3) He or she must do this within 36 hours of the arrival of the animal
+
+(4) No one may move the animal off the holding until the passport has been completed in accordance with this paragraph.
+
+(5) Failure to comply with this paragraph is an offence.
+
+#### 12. Imported cattle
+
+(1) In the case of cattle brought into Wales from outside Great Britain, the animal may be moved from the place it was brought into Wales to the holding at which it must be registered in accordance with paragraph 4 or 5 of Schedule 2 using its passport (if it has one) or its movement document.
+
+(2) If it has a passport its keeper must complete it in accordance with this Schedule, and failure to do so is an offence.
+
+#### 13. Exports[^key-cec4efa3fc767cd7b4e9e77f398601ae]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 14. Markets and animal gatherings
+
+(1) The operator of a market or other animal gathering commits an offence if any cattle are accepted without a valid cattle passport (or, in the case of imported cattle, documentation permitting them to be moved).
+
+(2) In this and the following paragraph “**animal gathering**” means an occasion at which animals are brought together for one or more of the following purposes—
+
+- (a) a sale, show or exhibition;
+- (b) onward consignment; or
+- (c) inspection to confirm the animals possess specific breed characteristics.
+
+#### 15. Licences
+
+An officer of the National Assembly (or, in the case of an animal at a market, animal gathering or slaughterhouse, an inspector) may at any time issue a licence for cattle to be moved without a cattle passport if he or she is satisfied that it is necessary to do so and that it is not practicable to obtain one.
+
+## SCHEDULE 4 — Notification of movement or death
+
+Regulation 7
+
+### 1. Notification of movement
+
+(1) A keeper must notify the National Assembly within three days of any movement of cattle on to or off a holding—
+
+- (a) using the National Assembly's interactive website;
+- (aa)[^key-03013a5ec6be2df61d70f61a58062557] using the Welsh Ministers automated telephony service;
+- (b) using software approved by the National Assembly; or
+- (c) in writing, using the movement card provided by the National Assembly,
+
+and must provide all the required information.
+
+(2) Failure to comply with this paragraph is an offence.
+
+### 2. Notification of death
+
+(1)[^key-beda4c45bf690f17dad8ef92afb9e7b8] When an animal is slaughtered at a slaughterhouse, the occupier of the slaughterhouse must notify the Welsh Ministers of the death within seven days—
+
+- (a) using the Welsh Ministers' interactive website;
+- (b) using the Welsh Ministers' automated telephony service;
+- (c) using software approved by the Welsh Ministers; or
+- (d) by completing the death details in the animal’s passport and returning it to the Welsh Ministers,
+
+  and must return the animal’s passport to the Welsh Ministers within seven days.
+
+(2) If an animal is slaughtered outside a slaughterhouse but sent to a slaughterhouse for dressing, the keeper must complete the death details in the passport and send it with the animal to the slaughterhouse, and the occupier of the slaughterhouse must notify the death by returning the passport to the Welsh Ministers within seven days of the death of the animal.
+
+(3) In any other case, when an animal dies or is killed the keeper must notify the Welsh Ministers of the death within seven days—
+
+- (a) using the Welsh Ministers interactive website;
+- (b) using the Welsh Ministers automated telephony service;
+- (c) using software approved by the Welsh Ministers; or
+- (d) by completing the death details in the animal’s passport and returning it to the Welsh Ministers,
+
+and must return the animal’s passport to the Welsh Ministers within seven days.
+
+(3A) But where an animal’s passport has been taken and retained by an inspector under regulation 10(3)(d), a requirement under this paragraph to return the passport to the Welsh Ministers does not apply for so long as the passport is so retained.
+
+(4) If an animal does not have a cattle passport, the keeper must notify its death to the National Assembly in writing within seven days, and include the ear tag number, the date of death and the holding on which it died.
+
+(5)[^key-f83567637349568860e55f34df0cf2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Failure to comply with this paragraph is an offence.
+
+## SCHEDULE 5 — Records
+
+Regulation 8
+
+### 1. Making a record
+
+(1) In accordance with Article 7(1), first indent and Article 7(4) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) (keeping an up-to-date register) any person who fails to complete a register in accordance with this paragraph, is guilty of an offence.
+
+(2) He or she must complete it at the following times—
+
+- (a) in the case of the movement of an animal on or off a holding, within 36 hours of the movement;
+- (b) in the case of the birth of an animal in a dairy herd, within seven days of the birth;
+- (c) in the case of the birth of an animal otherwise than in a dairy herd, within 30 days of the birth;
+- (d) in the case of the death of an animal, within 7 days of the death;
+- (e) in the case of a replacement ear tag where the ear tag umber is changed, within 36 hours of the replacement.
+
+(3) The register must contain the information in Article 8 of Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) and, in addition, the identification of the dam (in the case of embryo transfer, the surrogate dam and, if known, genetic dam) [^c18381311] (in the case of an animal born before 1 April 1995 that does not have an ear tag, the identification mark must be recorded instead of the ear tag number).
+
+### 2. Provision of information
+
+Any person who fails to comply with Article 7(3) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760). (provision of information) is guilty of an offence.
+
+### 3. Retention of records
+
+(1) For the purposes of Article 7(4) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760), the register must be kept for 10 years in the case of a farm and 3 years in any other case, in both cases from the end of the calendar year in which the last entry was made; and any record made under the Bovine Animals (Records, Identification and Movement) Order 1995 must be kept for the same period.
+
+(2) Failure to comply with this paragraph is an offence.
+
+*(This note is not part of the Regulations)*
+
+## Earlier legislation
+
+These Regulations revoke and remake insofar as they apply in relation to Wales the provisions of—
+
+- (a) [^c18381321]the Bovine Animals (Records, Identification and Movement) Order 1995 ;
+- (b) [^c18381331]the Cattle Identification Regulations 1998 ;
+- (c) [^c18381341]the Cattle Database Regulations 1998 ;
+- (d) [^c18381351]the Cattle (Identification of Older Animals) (Wales) Regulations 2000 .
+
+together with the amendments to those instruments.
+
+## Principal changes
+
+The principal changes are as follows.
+
+The Regulations now allow bison to be tagged up to 9 months after birth (paragraph 1(3) of Schedule 1).
+
+They create an offence of transferring eartags between animals (paragraph 4(5) of Schedule 1).
+
+They no longer permit the use of temporary calf passports.
+
+They permit electronic registration of cattle (paragraph 2(3) of Schedule 2).
+
+They change the £50 fee for replacement passports to a fee reflecting the cost of issue (paragraph 4 of Schedule 3).
+
+They simplify the provisions on records (Schedule 5).
+
+## The Regulations
+
+The Regulations enforce—
+
+- [^c18381361]Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council (establishing a system for the identification and registration of bovine animals and regarding the labelling of beef products and repealing Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) );
+- [^c18381371]Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494) laying down detailed rules for the implementation of Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) as regards the application of minimum administrative sanctions in the framework of the system for the identification and registration of bovine animals ;
+- [^c18381381]Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) (implementing Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council as regards ear tags, passports and holding registers );and
+- [^c18381391]Commission Regulation [(EC) No. 644/2005](https://www.legislation.gov.uk/european/regulation/2005/0644) (authorising a special identification system for bovine animals kept for cultural and historical purposes on approved premises as provided for in Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council ).
+
+They provide for notification of a holding to the National Assembly if cattle are kept there (regulation 3).
+
+They make provision for eartags (regulation 4 and Schedule 1), registration of cattle (regulation 5 and Schedule 2), passports (regulation 6 and Schedule 3) and notification of movement and death (regulation 7 and Schedule 4).
+
+They provide for records to be kept in the form specified in Schedule 5.
+
+They provide for the enforcement of the Regulations (Part 4). They are enforced by the local authority (regulation 16).
+
+Breach of the Regulations is an offence, punishable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment not exceeding three months or to both;
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+A full regulatory appraisal of the effect that this instrument will have on the costs of business and the voluntary sector is available from the National Assembly for Wales, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^c18381021]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c18381031]: Marginal citation: [S. I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766).
+
+[^c18381041]: Marginal citation: [S. I. 2003/1246](https://www.legislation.gov.uk/uksi/2003/1246).
+
+[^c18381051]: Marginal citation: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
+
+[^key-71faa0ae133b360ee440db3c5915ae93]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/842/regulation/2/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c18381061]: Marginal citation: [S. I. 1996/1686](https://www.legislation.gov.uk/uksi/1996/1686).
+
+[^c18381071]: Marginal citation: [S. I. 2000/3339](https://www.legislation.gov.uk/uksi/2000/3339) (W.217) as amended by [S.I. 2002/273](https://www.legislation.gov.uk/uksi/2002/273) (W.29).
+
+[^key-bfc368d4b513c4e544c8ddbdbff7c196]: Textual amendment: Words in reg. 2(1) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [3](https://www.legislation.gov.uk/wsi/2013/821/regulation/3)
+
+[^key-2bb81442eeed1b56f6e8bd7b76a39a93]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(2)(a)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/2/a)
+
+[^c18381081]: Marginal citation: [S. I. 1998/871](https://www.legislation.gov.uk/uksi/1998/871).
+
+[^c18381091]: Marginal citation: [S. I. 1995/12](https://www.legislation.gov.uk/uksi/1995/12).
+
+[^c18381101]: Marginal citation: [S. I. 1990/1867](https://www.legislation.gov.uk/uksi/1990/1867).
+
+[^c18381111]: Marginal citation: [S. I. 1984/1943](https://www.legislation.gov.uk/uksi/1984/1943).
+
+[^c18381121]: Marginal citation: [S. I. 1984/2036](https://www.legislation.gov.uk/uksi/1984/2036).
+
+[^c18381131]: Marginal citation: OJ No. L204, 11.8.2000, p. 1.
+
+[^key-1c13faaf35a1482c21d5704943d2052a]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/2/b)
+
+[^key-ac87fdbbd5d7f6ec667de78816a50a26]: Textual amendment: Words in reg. 2(2)(c) omitted (28.3.2019) by virtue of [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/3)
+
+[^c18381151]: Marginal citation: OJ No. L 107, 28.4.2005, p. 18.
+
+[^M_F_5efc4f2f-f30b-4dd5-ad3a-840a3b23a0d5]: Textual amendment: Reg. 3(4) inserted (14.11.2007) by [The Cattle Identification (Wales) (Amendment) Regulations 2007 (S.I. 2007/3004)](https://www.legislation.gov.uk/uksi/2007/3004), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3004/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/3004/regulation/2)
+
+[^key-357dbf5d88daeba4f76fe72b4c723e72]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/wsi/2007/842/regulation/10/1/c) substituted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [4](https://www.legislation.gov.uk/wsi/2013/821/regulation/4)
+
+[^c18381171]: Marginal citation: OJ No. L60, 9.3.1999, p. 53,
+
+[^key-64528306240983ebbfb3747231409f88]: Textual amendment: Word in [reg. 10(3)(h)](https://www.legislation.gov.uk/wsi/2007/842/regulation/10/3/h) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-662c025acfab84139dbe25f48a00c7c7]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/wsi/2007/842/regulation/12) omitted (1.5.2013) by virtue of [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [5](https://www.legislation.gov.uk/wsi/2013/821/regulation/5)
+
+[^c18381181]: Marginal citation: [S. I. 1995/12](https://www.legislation.gov.uk/uksi/1995/12).
+
+[^c18381191]: Marginal citation: [S. I. 1998/871](https://www.legislation.gov.uk/uksi/1998/871).
+
+[^c18381201]: Marginal citation: [S. I. 1998/1796](https://www.legislation.gov.uk/uksi/1998/1796).
+
+[^c18381211]: Marginal citation: [S. I. 1998/2969](https://www.legislation.gov.uk/uksi/1998/2969).
+
+[^c18381221]: Marginal citation: [S. I. 1999/1339](https://www.legislation.gov.uk/uksi/1999/1339).
+
+[^c18381231]: Marginal citation: [S. I. 2000/3339](https://www.legislation.gov.uk/uksi/2000/3339) (W.217).
+
+[^c18381241]: Marginal citation: [S. I. 2002/304](https://www.legislation.gov.uk/uksi/2002/304) (W.35).
+
+[^c18381251]: Marginal citation: [S. I. 2002/273](https://www.legislation.gov.uk/uksi/2002/273) (W.29).
+
+[^c18381261]: Marginal citation: [S. I. 2006/1538](https://www.legislation.gov.uk/uksi/2006/1538).
+
+[^c18381271]: Marginal citation: [S. I. 2006/1539](https://www.legislation.gov.uk/uksi/2006/1539).
+
+[^c18381281]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-e2860367d82fa86a8e5818eec7414a63]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2007/842/schedule/1/paragraph/8) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9c7764914f6f7c70a647e989807cc921]: Textual amendment: [Sch. 2 para. 2(3)(aa)](https://www.legislation.gov.uk/wsi/2007/842/schedule/2/paragraph/2/3/aa) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [6](https://www.legislation.gov.uk/wsi/2013/821/regulation/6)
+
+[^key-ded4d7d11c9c2f7168084d6070726769]: Textual amendment: Word in [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2007/842/schedule/2/paragraph/4) title substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-73c32ba5dd94f80a8de72ca842e3121f]: Textual amendment: Word in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/wsi/2007/842/schedule/2/paragraph/4/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a2e67c58938323d55abda3f17c82de6a]: Textual amendment: Sch. 3 para. 3(3) substituted (20.10.2011 at 12.15 a.m.) by [The Animal By-Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/wsi/2011/2377), [reg. 31(2)](https://www.legislation.gov.uk/wsi/2011/2377/regulation/31/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2011/2377/schedule/2/paragraph/13)
+
+[^key-339c3476f88af1f2d4b938d698874ada]: Textual amendment: Words in Sch. 3 para. 3(3)(a) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(4)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/4)
+
+[^key-9e19c1c0403790ffd25d1f9ebbe1eb18]: Textual amendment: [Sch. 3 para. 11(2A)](https://www.legislation.gov.uk/wsi/2007/842/schedule/3/paragraph/11/2A) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [7](https://www.legislation.gov.uk/wsi/2013/821/regulation/7)
+
+[^key-cec4efa3fc767cd7b4e9e77f398601ae]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/wsi/2007/842/schedule/3/part/2/paragraph/13) omitted (31.12.2020) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/wsi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/1/3), [2](https://www.legislation.gov.uk/wsi/2019/737/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-03013a5ec6be2df61d70f61a58062557]: Textual amendment: [Sch. 4 para. 1(1)(aa)](https://www.legislation.gov.uk/wsi/2007/842/schedule/4/paragraph/1/1/aa) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [8(a)](https://www.legislation.gov.uk/wsi/2013/821/regulation/8/a)
+
+[^key-beda4c45bf690f17dad8ef92afb9e7b8]: Textual amendment: Sch. 4 para. 2(1)-(3A) substituted for Sch. 4 para. 2(1)-(3) (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/wsi/2013/821/regulation/8/b/i)
+
+[^key-f83567637349568860e55f34df0cf2a6]: Textual amendment: Sch. 4 para. 2(5) omitted (1.5.2013) by virtue of [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [8(b)(ii)](https://www.legislation.gov.uk/wsi/2013/821/regulation/8/b/ii)
+
+[^c18381311]: Marginal citation: The required information and a suitable format is available at http//defraweb/animalh/tracing/cattle/passport/records/records-index.htm
+
+[^c18381321]: Marginal citation: [S. I. 1995/12](https://www.legislation.gov.uk/uksi/1995/12).
+
+[^c18381331]: Marginal citation: [S. I. 1998/871](https://www.legislation.gov.uk/uksi/1998/871).
+
+[^c18381341]: Marginal citation: [S. I. 1998/1796](https://www.legislation.gov.uk/uksi/1998/1796).
+
+[^c18381351]: Marginal citation: [S. I. 2000/3339](https://www.legislation.gov.uk/uksi/2000/3339) (W.217).
+
+[^c18381361]: Marginal citation: OJ No. L204, 11.8.2000, p. 1.
+
+[^c18381371]: Marginal citation: OJ No. L60, 28.2.1998, p. 78.
+
+[^c18381381]: Marginal citation: OJ No. L 163, 30.4.2004, p. 63.
+
+[^c18381391]: Marginal citation: OJ No. L 107, 28.4.2005, p. 18.

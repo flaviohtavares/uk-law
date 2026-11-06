@@ -1,0 +1,212 @@
+---
+title: The Dissolution of Further Education Corporations (Publication of Proposals and Prescribed Bodies) (Wales) Regulations 2014
+id: wsi/2014/2126
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-08-06'
+text_date: '2024-08-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2014/2126
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2014/2126/pdfs/wsi_20142126_mi.pdf
+- http://www.legislation.gov.uk/wsi/2014/2126/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dissolution of Further Education Corporations (Publication of Proposals and Prescribed Bodies) (Wales) Regulations 2014
+
+> Text as at 2024-08-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 2126 (W. 209)
+
+Education, Wales
+
+The Dissolution of Further Education Corporations (Publication of Proposals and Prescribed Bodies) (Wales) Regulations 2014
+
+Made
+
+6 August 2014
+
+Laid before the National Assembly for Wales
+
+8 August 2014
+
+Coming into force
+
+1 September 2014
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 27(2) to (4), 27B(1) and 89(4) of the Further and Higher Education Act 1992[^f00001].
+
+## 1. Title, commencement and application[^key-670136987785a41d9c9205b7791f7d7a]
+
+(1) The title of these Regulations is the Dissolution of Further Education Corporations (Publication of Proposals and Prescribed Bodies) (Wales) Regulations 2014 and they come into force on 1 September 2014.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation[^key-ee145367c0988f4b30767cfd145fbfff]
+
+In these Regulations “the Act” (“*y Ddeddf*”) means the Further and Higher Education Act 1992.
+
+## 3. Publication of proposals for dissolution of further education corporations[^key-653cd75682d4ea259985002473395b46]
+
+(1) For the purposes of section 27(2) and (3) of the Act the corporation must publish the proposal in accordance with paragraphs (2) to (5).
+
+(2) The proposal must contain the information set out in Schedule 1.
+
+(3) The corporation must publish the proposal at least six months before the date which is specified in the proposal for the dissolution of the corporation.
+
+(4) The corporation must publish a notice of the proposal:
+
+- (a) in at least one newspaper circulating in the area served by the institution to which the proposal relates,
+- (b) in at least one newspaper circulating throughout Wales,
+- (c) on the institution’s website.
+
+(5) The notice referred to in paragraph (4) must contain, as a minimum, the following information:
+
+- (a) the name of the further education corporation and the name of the institution concerned (if different),
+- (b) the date proposed for the dissolution of the further education corporation,
+- (c) the procedure for obtaining a copy of the proposal.
+
+## 4. Consultation[^key-e35d56c6ea8e7110bb601386732d55ad]
+
+(1) The corporation must send a copy of the proposal for dissolution to:
+
+- (a) the governing body of any institution in the further education sector within the local authority area in which the institution is situated,
+- (b) the governing body of any institution in the higher education sector within the local authority area in which the institution is situated,
+- (c) the governing body of any maintained school which provides education suitable to the requirements of persons over compulsory school age within the local authority area in which the institution is situated,
+- (d) the local authority in whose area the institution is situated,
+- (e) the Assembly Member in whose constituency, or in whose region, the institution to which the proposal relates is situated and any other Assembly Member whose constituents it appears to the corporation are likely to be affected by the proposal,
+- (f) the Welsh Ministers,
+- (g) the Member of Parliament in whose constituency the institution to which the proposal relates, is situated,
+- (h) the Commission for Tertiary Education and Research[^key-04ef7f5f19753c43395fba255ad7e6fb],
+- (i) any association recognised by the corporation which represents students at the institution,
+- (j) any trade union recognised by the corporation which represents staff at the institution,
+- (k) any person who requests a copy in accordance with the procedure referred to in regulation 3(5)(c), and
+- (l) any other person who appears to the corporation to have an interest.
+
+(2) For the purpose of section 27(4) of the Act the corporation must:
+
+- (a) provide for a period of at least one month beginning on the date of publication described in regulation 3(3) for representations to be made on the proposal,
+- (b) take account of the views expressed in any representations received under sub-paragraph (a),
+- (c) publish a summary of the representations received under sub-paragraph (a) and the outcome of the consultation on the institution’s website within two months beginning on the date after the end of the consultation period described in sub-paragraph (a) and prior to the dissolution of the corporation, and make a paper copy of the summary available free of charge to any person who requests it.
+
+## 5. Prescribed bodies[^key-05ee5e62b551f9335da8f2e65595f4c1]
+
+A person or body is prescribed for the purposes of section 27B(1) of the Act (dissolution of further education corporations: transfer of property, rights and liabilities) if:
+
+- (a) it is listed in Schedule 2, and
+- (b) its activities are wholly or principally carried on in Wales.
+
+Huw Lewis
+
+Minister for Education and Skills, one of the Welsh Ministers.
+
+6 August 2014
+
+## SCHEDULE 1
+
+Regulation 3(2)
+
+**1.**[^key-0197d1903f55752d2f58463dfeaf11f0] The name of the further education corporation and the name of the institution concerned (if different).
+
+**2.**[^key-ccb220e6cf669e10c0353d57d7c5a737] The address of the institution.
+
+**3.**[^key-49c45b597cd3bd5921e7fda464c68442] A general description of the education provided by the institution.
+
+**4.**[^key-cb4530b3247a07c578482c3a36fad3af] The number of full-time students, the number of part-time students, and the total number of students at the institution.
+
+**5.**[^key-f064128e50b0908eedc2a64d132541a8] The reason for proposing the dissolution of the further education corporation.
+
+**6.**[^key-b2fc7de0915d1d1eef5d8d062f71f29c] The date proposed for the dissolution of the further education corporation.
+
+**7.**[^key-915149a870a178654abea654f2dae32e] The educational provision to be made for those students who have not completed their courses on that date.
+
+**8.**[^key-0637d859d6c2c6857c6c715083d5391d] The proposed arrangements for the transfer of the property, rights and liabilities of the further education corporation.
+
+## SCHEDULE 2[^key-ed905be773ff306a1d3e54a171034aea]
+
+Regulation 5(a)
+
+[^key-ed905be773ff306a1d3e54a171034aea]
+
+For the purposes of regulation 5 the following are the prescribed bodies:
+
+*Extent: E+W+S+N.I.*
+
+**1.** A further education corporation.
+
+*Extent: E+W+S+N.I.*
+
+**2.** The governing body of a designated institution.
+
+*Extent: E+W+S+N.I.*
+
+**3.** The governing body of a school maintained by a local authority
+
+*Extent: E+W+S+N.I.*
+
+**4.** A local authority.
+
+*Extent: E+W+S+N.I.*
+
+**5.** A university in receipt of financial support from the Commission for Tertiary Education and Research[^key-63247b480da1696f37c6d48cc05e654c].
+
+*Extent: E+W+S+N.I.*
+
+**6.** A higher education corporation.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations prescribe the time and manner of publication, and content of draft proposals for the dissolution of further education corporations. The Regulations also provide detail on the consultation process that must be followed, as well as prescribing the bodies to which a further education corporation can transfer its property, rights and liabilities upon dissolution.
+
+Regulation 3 and Schedule 1 specify the information a further education corporation must publish about its proposed dissolution. Regulation 3 also provides when and where the further education corporation must publish this information.
+
+Regulation 4 sets out who must be sent a copy of the dissolution proposal and the consultation process that must be followed.
+
+Regulation 5 and Schedule 2 prescribe the bodies to which a further education corporation can transfer its property, rights and liabilities upon dissolution.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); sections 27 and 27B were inserted by section 3 of the [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1). For the definition of regulations see section 61(1) and section 90(5) of the Further and Higher Education Act 1992. See also section 579(1) of the Education Act 1996 for the meaning of prescribed.
+
+[^key-670136987785a41d9c9205b7791f7d7a]: Commencement: Reg. 1 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-ee145367c0988f4b30767cfd145fbfff]: Commencement: Reg. 2 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-653cd75682d4ea259985002473395b46]: Commencement: Reg. 3 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-e35d56c6ea8e7110bb601386732d55ad]: Commencement: Reg. 4 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-04ef7f5f19753c43395fba255ad7e6fb]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/4/1/h) substituted (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2024 (S.I. 2024/803)](https://www.legislation.gov.uk/wsi/2024/803), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/8/2)
+
+[^key-05ee5e62b551f9335da8f2e65595f4c1]: Commencement: Reg. 5 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-0197d1903f55752d2f58463dfeaf11f0]: Commencement: Sch. 1 para. 1 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-ccb220e6cf669e10c0353d57d7c5a737]: Commencement: Sch. 1 para. 2 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-49c45b597cd3bd5921e7fda464c68442]: Commencement: Sch. 1 para. 3 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-cb4530b3247a07c578482c3a36fad3af]: Commencement: Sch. 1 para. 4 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-f064128e50b0908eedc2a64d132541a8]: Commencement: Sch. 1 para. 5 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-b2fc7de0915d1d1eef5d8d062f71f29c]: Commencement: Sch. 1 para. 6 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-915149a870a178654abea654f2dae32e]: Commencement: Sch. 1 para. 7 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-0637d859d6c2c6857c6c715083d5391d]: Commencement: Sch. 1 para. 8 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-ed905be773ff306a1d3e54a171034aea]: Commencement: Sch. 2 in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2126/regulation/1/1)
+
+[^key-63247b480da1696f37c6d48cc05e654c]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2014/2126/schedule/2/paragraph/5) substituted (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2024 (S.I. 2024/803)](https://www.legislation.gov.uk/wsi/2024/803), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/1/2), [8(3)](https://www.legislation.gov.uk/wsi/2024/803/regulation/8/3)

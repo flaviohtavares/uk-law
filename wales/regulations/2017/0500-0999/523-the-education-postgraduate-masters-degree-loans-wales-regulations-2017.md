@@ -1,0 +1,1272 @@
+---
+title: The Education (Postgraduate Master's Degree Loans) (Wales) Regulations 2017
+id: wsi/2017/523
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-04-04'
+text_date: '2022-05-06'
+extent: W
+source_url: https://www.legislation.gov.uk/wsi/2017/523
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2017/523/pdfs/wsi_20170523_mi.pdf
+- http://www.legislation.gov.uk/wsi/2017/523/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Postgraduate Master's Degree Loans) (Wales) Regulations 2017
+
+> Text as at 2022-05-06.
+>
+> Extent: Wales.
+
+*Extent: W*
+
+2017 No. 523 (W. 109)
+
+Education, Wales
+
+The Education (Postgraduate Master's Degree Loans) (Wales) Regulations 2017
+
+Made
+
+4 April 2017
+
+Laid before the National Assembly for Wales
+
+6 April 2017
+
+Coming into force
+
+28 April 2017
+
+The Welsh Ministers, in exercise of the powers conferred upon the Secretary of State by sections 22 and 42(6) of the Teaching and Higher Education Act 1998 [^c23304511], and now exercisable by them [^c23304521] make the following Regulations:
+
+## PART 1 — GENERAL
+
+### 1. Title, commencement and application
+
+(1) The title of these Regulations is the Education (Postgraduate Master's Degree Loans) (Wales) Regulations 2017.
+
+(2) These Regulations come into force on 28 April 2017 and apply in relation to Wales.
+
+(3) These Regulations apply in relation to the provision of postgraduate master's degree loans to students in relation to courses which begins on or after 1 August 2017 whether anything done under these Regulations is done before, on or after 1 August 2017.
+
+(4)[^key-9aa04fbc2f7810cd388c27ffd23af017] These Regulations do not apply to the provision of postgraduate master's degree loans to students in relation to courses which begin on or after 1 August 2019 unless regulation 2(3) of the Education (Student Support) (Postgraduate Master's Degrees) (Wales) Regulations 2019 applies to the course.
+
+### 2. Interpretation
+
+(1) In these Regulations, except where the context otherwise requires—
+
+- “**the 1998 Act**” (“***Deddf 1998***”) means the Teaching and Higher Education Act 1998;
+- “the 2020 Citizens’ Rights Regulations” (“[^key-15b234949d50e1b8905aa458275ada7b]*Rheoliadau Hawliau Dinasyddion 2020*”) means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020;
+- “**academic authority**” (“***awdurdod academaidd***”) means, in relation to an institution, the governing body or other body having the functions of a governing body and includes a person acting with the authority of that body;
+- “**academic year**” (“***blwyddyn academaidd***”) means the period of twelve months beginning on 1 January, 1 April, 1 July or 1 September of the calendar year in which the academic year of the course in question begins according to whether that academic year begins on or after 1 January and before 1 April, on or after 1 April and before 1 July, on or after 1 July and before 1 August or on or after 1 August and on or before 31 December, respectively;
+- “**course**” (“***cwrs***”) means, unless the context otherwise requires, a taught programme of study, a programme of research, or a combination of both, and which may include one or more periods of work experience, and which leads, on successful completion, to the award of a postgraduate master's degree;
+- “**designated course**” (“***cwrs dynodedig***”), means a course designated by regulation 4(1) or by the Welsh Ministers under regulation 4(6);
+- “**Directive 2004/38**” (“***Cyfarwyddeb 2004/38***”) means Directive [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council [^c23304531] on the right of citizens of the Union and their family members to move and reside freely in the territory of the Member States;
+- “**distance learning course**” (“***cwrs dysgu o bell***”) means a course in relation to which a student undertaking the course is not required to be in attendance by the institution providing the course, other than to satisfy any requirement imposed by the institution to attend any institution—
+  - (a) for the purpose of registration, enrolment or any examination; or
+  - (b) on a weekend or during any vacation;
+- “**electronic signature**” (“***llofnod electronig***”) is so much of anything in electronic form as—
+  - (a) is incorporated into or otherwise logically associated with any electronic communication or electronic data; and
+  - (b) purports to be so incorporated or associated for the purpose of being used in establishing the authenticity of the communication or data, the integrity of the communication or data, or both;
+- “**eligible prisoner**” (“***carcharor cymwys***”) means a prisoner—
+  - (a) who begins a designated course or on after 1 August 2017;
+  - (b) who has been authorised by the prison Governor or Director or other appropriate authority to study the designated course; and
+  - (c) whose earliest release date is within 4 years of the first day of the first academic year of the designated course;
+- “**eligible student**” (“***myfyriwr cymwys***”) has the meaning given in regulation 3;
+- “**equivalent or higher qualification**” (“***cymhwyster cyfatebol neu uwch***”) means a qualification determined in accordance with paragraph (2) to be an equivalent or higher qualification;
+- “**EU national**” (“***gwladolyn UE***”) means a national of a Member State of the EU;
+- “[^key-2f95a55bca209c0328f8d495501aefd0]**fees**” (“***ffioedd***”) has the meaning given in section 57(1) of the Higher Education (Wales) Act 2015 ;
+- “**full-time equivalent**” (“***cwrs llawnamser cyfatebol***”) means a full-time course leading to a postgraduate master's degree in the same subject as the part-time course in question;
+- [^key-d70afa143bd0b01e5dbab4747f948c58]...
+- “**healthcare bursary**” (“***bwrsari gofal iechyd***”) means a bursary or award of similar description under section 63 of the Health Services and Public Health Act 1968 [^c23304551] or Article 44 of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c23304561];
+- “immigration rules” (“[^key-655ab0715e054ea27f46b766c4da0576]*rheolau mewnfudo*”) means the rules laid before Parliament by the Secretary of State under section 3(2) of the Immigration Act 1971;
+- “**information**” (“***gwybodaeth***”) includes documents;
+- “**Islands**” (“***Ynysoedd***”) means the Channel Islands and the Isle of Man;
+- “**period of eligibility**” (“***cyfnod cymwystra***”) has the meaning given in regulation 5 in relation to an eligible student;
+- “**periods of work experience**” (“***cyfnodau o brofiad gwaith***”) means—
+  - (a) periods of industrial, professional or commercial experience associated with the designated course at an institution, but at a place outside that institution;
+  - (b) periods during which a student is employed and residing in a country whose language is one that the student is studying for that student's designated course (provided that the period of residence in that country is a requirement of that student's course and the study of one or more modern languages accounts for not less than one half of the total time spent studying on the course);
+- “person granted leave to remain as a protected partner” (“*person y rhoddwyd caniatâd iddo aros fel partner a ddiogelir*”) means a person with extant leave to remain in the United Kingdom as either a victim of domestic violence or domestic abuse or as a bereaved partner under any of the following provisions of the immigration rules—
+  - (a) paragraphs 289B and 289D (victims of domestic violence);
+  - (b) paragraphs D-DVILR.1.1. and D-DVILR.1.2. of Appendix FM (victims of domestic abuse);
+  - (c) paragraphs 40 and 41 of Appendix Armed Forces (victims of domestic violence who are partners of members of the armed forces);
+  - (d) paragraph 288, as a person in relation to whom the requirements in paragraph 287(b) of those rules are met (bereaved spouses or civil partners);
+  - (e) paragraphs D-BPILR.1.1. and D-BPILR.1.2. of Appendix FM (bereaved partners);
+  - (f) paragraphs 36 and 37 of Appendix Armed Forces (bereaved partners); or
+  - (g) paragraph 295N, as a person in relation to whom the requirements in paragraph 295M of those rules are met (bereaved unmarried or same sex partners);
+- “person granted stateless leave” (“*person y rhoddwyd caniatâd iddo aros fel person diwladwriaeth*”) means a person who—
+  - (a) has extant leave to remain as a stateless person under the immigration rules; and
+  - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “person with Calais leave” (“*person sydd â chaniatâd Calais*”) means a person with extant leave to remain under paragraphs 352J, 352K, 352L or 352T of the immigration rules (Calais leave and “leave in line” granted by virtue of being a dependent child of a person granted Calais leave);
+- “**person with leave to enter or remain**” (“***person sydd â chaniatâd i ddod i mewn neu i aros***”) means a person (“A” in this definition)—
+  - (a) who has—[^key-64ebdeb97ca3bb6e50cb56d53c1f0b3a]
+    - (i) applied for refugee status but has, as a result of that application, been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that, although A is considered not to qualify for recognition as a refugee, it is thought right to allow A to enter or remain in the United Kingdom on the grounds of [^key-1e8c1bb5199c974dfa46b950085a33f2]... discretionary leave, and who has been granted leave to enter or remain accordingly;
+    - (ii) not applied for refugee status but has been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that it is thought right to allow A to enter or remain in the United Kingdom on the grounds of discretionary leave, and who has been granted leave to enter or remain accordingly;
+    - (iia) been granted leave to remain on the grounds of family life under the immigration rules;[^key-1a939449eee35e58fcb3d4e18f24854a]
+    - (iii) been granted leave to remain on the grounds of private life under the immigration rules; or
+    - (iv) been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that, although A is not considered to qualify for leave to remain on the grounds of private or family[^key-8f16ebd52d3e5941f82f3584c2d7ea86] life under the immigration rules, A has been granted leave to remain outside the rules on the grounds of Article 8 of the European Convention on Human Rights;
+  - (c) whose period of leave to enter or remain has not expired or has been renewed and the period for which it was renewed has not expired or in respect of whose leave to enter or remain an appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002 [^c23304571]); and
+  - (d) who has been ordinarily resident in the United Kingdom and Islands throughout the period since A was granted leave to enter or remain;
+- “person with protected rights” (“*person sydd â hawliau gwarchodedig*”) means—[^key-a405fceaacf8678cc548c321ed5952bd]
+  - (1)
+    - (a) a person within the personal scope of the citizens’ rights provisions who—
+      - (i) has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules;
+      - (ii) is an Irish citizen who, pursuant to section 3ZA of the Immigration Act 1971, does not require leave to enter or remain in the United Kingdom;
+      - (iii) [^key-28393fdbc88b304d20e08ba8ae70fe49]...
+      - (iv) is an applicant for the purposes of regulation 4 of the 2020 Citizens’ Rights Regulations where the relevant period has not expired; or
+      - (v) otherwise has rights deemed to apply by virtue of any citizens’ rights deeming provisions; or[^key-9024d1fc84ae16b1e4f30b7222efe5e1]
+    - (b) a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules;
+  - (2) In paragraph (1)(a)(v) “[^key-7b1840d6b6d4f8f55dca7eecf36fec7e]**citizens’ rights deeming provisions**” means—
+    - (a) Article 18(2) and (3) (issuance of residence documents) of the EU withdrawal agreement;
+    - (b) Article 17(2) and (3) (issuance of residence documents) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
+    - (c) Article 16(2) and (3) (issuance of residence documents) of the Swiss citizens’ rights agreement.
+- “[^key-89a04d9cf4df9a742e85e8b70d1f9943]**person with section 67 leave to remain**” (“***person sydd â chaniatâd i aros o dan adran 67***”) means a person who—
+  - (a) has extant leave to remain in the United Kingdom under section 67 of the Immigration Act 2016 and in accordance with the immigration rules ; and
+  - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “**postgraduate master's degree loan**” (“***benthyciad at radd feistr ôl-raddedig***”) means a loan payable to an eligible student under Part 4 of these Regulations;
+- “**prisoner**” (“***carcharor***”) means a person who is serving a sentence of imprisonment in the United Kingdom including a person who is detained in a young offender institution;
+- “**private institution**” (“***sefydliad preifat***”) means an institution which is not publicly funded;
+- “**public funds**” (“***cronfeydd cyhoeddus***”) means moneys provided by Parliament including funds provided by the Welsh Ministers;
+- “publicly funded” (“*a gyllidir yn gyhoeddus*”, “*cael ei gyllido'n gyhoeddus*”) means maintained or assisted by recurrent grants out of public funds, and related expressions are to be interpreted accordingly;
+- “**refugee**” (“***ffoadur***”) means a person who is recognised by Her Majesty's government as a refugee within the meaning of the United Nations Convention relating to the Status of Refugees done at Geneva on 28 July 1951 [^c23304581] as extended by the Protocol thereto which entered into force on 4 October 1967 [^c23304591];
+- “relevant period” (“*cyfnod perthnasol*”) has the meaning given by regulation 4 of the 2020 Citizens’ Rights Regulations;
+- “relevant person of Northern Ireland” (“*person perthnasol o Ogledd Iwerddon*”) has the meaning given by residence scheme immigration rules;
+- “residence scheme immigration rules” (“*rheolau mewnfudo’r cynllun preswylio*”) has the meaning given by section 17(1) of the European Union (Withdrawal Agreement) Act 2020;
+- [^key-884820e29f10032fd7b39f201fb7b959]...
+- “**student loans legislation**” (“***y ddeddfwriaeth ar fenthyciadau i fyfyrwyr***”) means the Education (Student Loans) Act 1990 [^c23304601], the Education (Student Loans) (Northern Ireland) Order 1990 [^c23304611], the Education (Scotland) Act 1980 [^c23304621] and regulations made under those Acts or that Order, the Education (Student Support) (Northern Ireland) Order 1998 [^c23304631] and regulations made under that Order or the 1998 Act and regulations made under the 1998 Act;
+- “**student support regulations**” (“***rheoliadau cymorth i fyfyrwyr***”) means the Education (Student Support) (Wales) Regulations 2017 [^c23304641];
+- “Swiss citizens’ rights agreement” (“*cytundeb ar hawliau dinasyddion Swisaidd*”) has the meaning given by section 39(1) of the European Union (Withdrawal Agreement) Act 2020;
+- “**Turkish worker**” (“***gweithiwr Twrcaidd***”) means a Turkish national who—
+  - (a) is ordinarily resident in the United Kingdom and Islands; and
+  - (b) is, or has been, lawfully employed in the United Kingdom.
+
+(2) The Welsh Ministers may determine that a qualification is an equivalent or higher qualification if—
+
+- (a) an eligible student holds a higher education qualification from any institution whether or not in the United Kingdom; and
+- (b) the qualification referred to in sub-paragraph (a) is a postgraduate master's degree from an institution in the United Kingdom or is of an academic level which, in the opinion of the Welsh Ministers, is equivalent to or higher than a qualification to which the designated course leads.
+
+(3)[^key-4c691ecdb44dda51f8d93cfdd62f3dec] For the purposes of these Regulations, a person is within the personal scope of the citizens’ rights provisions if that person falls within—
+
+- (a) Article 10 (personal scope) of the EU withdrawal agreement;
+- (b) Article 9 (personal scope) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
+- (c) Article 10 (personal scope) of the Swiss citizens’ rights agreement.
+
+## PART 2 — ELIGIBILITY
+
+### 3. Eligible students
+
+(1) An eligible student qualifies for a postgraduate master's degree loan in connection with a designated course subject to and in accordance with these Regulations.
+
+(2)[^key-a08813074edd427da099690822f23794] Subject to the following provisions of this regulation, a person is an eligible student in connection with a designated course if, in assessing that person’s application for a postgraduate master’s degree loan under regulation 9, the Welsh Ministers determine that the person falls within one of the categories set out—
+
+- (a) in paragraph 2, 2A, 3, 4, 4ZA, 4ZB, 5, 6A, 7A, 8A, 9A, 9B, 9BA,[^key-75acdc5681cd82b5d597efda0499b367] 9C, 9D, 10A, 11A or 12A of Part 2 of Schedule 1; or
+- (b) in paragraph 6, 7, 8, 9, 10, 11 or 12 of Part 2 of Schedule 1 where paragraph (2A) applies.
+
+(2A) This paragraph applies where—
+
+- (a) in connection with a designated course, the Welsh Ministers—
+  - (i) in assessing an application for a postgraduate master’s degree loan by a person (“A”) determined that A fell within one of the categories set out in paragraph 6, 7, 8, 9, 10, 11 or 12 of Part 2 of Schedule 1 in relation to an academic year of the course beginning before 1 August 2021; or
+  - (ii) would have so determined had A made an application for a postgraduate master’s degree loan in accordance with these Regulations in relation to an academic year of the course beginning before that date; and
+- (b) A applies for a postgraduate master’s degree loan in connection with—
+  - (i) that course; or
+  - (ii) a designated course to which A’s status as an eligible student is transferred from that course in accordance with these Regulations.
+
+(3) A person (“A”) is not an eligible student if—
+
+- (a) A has reached the age of 60 on the first day of the academic year in which the designated course starts;
+- (b) A is in breach of any obligation to repay any loan;
+- (c) A has reached the age of 18 and has not ratified any agreement for a loan made with A when A was under the age of 18;
+- (d) A has, in the opinion of the Welsh Ministers, shown by A's conduct that A is unfitted to receive a postgraduate master's degree loan;
+- (e) A is a prisoner, unless A is an eligible prisoner;
+- (f) A is enrolled on a course which is a designated course under regulation 5 (designated courses), 66 (designated distance learning courses) or 83 (designated part-time courses) of the student support regulations and is receiving support under the student support regulations for that course;
+- (g) A has already obtained an equivalent or higher qualification;
+- (h) A is already enrolled on a designated course and is in receipt of a postgraduate master's degree loan under these Regulations for that course;
+- (i) subject to paragraph (8), A has previously received a postgraduate master's degree loan under these Regulations;
+- (j) there has been bestowed on or paid to A in relation to A undertaking the course—
+  - (i) a healthcare bursary;
+  - (ii) any allowance under the Nursing and Midwifery Student Allowances (Scotland) Regulations 2007 [^c23304651];
+  - (iii) any allowance, bursary or award of similar description made under section 67(4)(a) of the Care Standards Act 2000 , or under section 46 of the Children and Social Work Act 2017,[^key-9f5b51d33677507891a1f426192a12ae] save to the extent that A is eligible for such a payment in respect of travel expenses; or
+  - (iv) any allowance, bursary or award of similar description made under section 116(2)(a) of the Regulation and Inspection of Social Care (Wales) Act 2016 [^c23304671]save to the extent that A is eligible for such a payment in respect of travel expenses; or
+- (k) subject to paragraph (8),[^key-8affec3bfe9c7c6eeacf8a53ae91ae73] A has previously received a loan in respect of a course other than under these Regulations, where that loan was provided out of funds provided by a government authority within the United Kingdom.
+
+(4) Where the eligible student is undertaking a designated course which is a distance learning course, the student does not qualify for support in respect of that course unless the Welsh Ministers consider that the student is undertaking the course in Wales on the first day of the course, whether the course is a designated course at that date or is designated on a later date during the academic year.
+
+(5) An eligible student ceases to be eligible for a postgraduate master's degree loan in respect of a distance learning course if the Welsh Ministers consider that the student is undertaking the course outside the United Kingdom notwithstanding whether that student has previously been considered by the Welsh Ministers to be undertaking their course within the United Kingdom.
+
+(6) Paragraphs (4) and (5) do not apply to a person who is treated as being ordinarily resident in the United Kingdom by virtue of paragraph 1(4) of Schedule 1 on the basis of temporary employment falling within paragraph 1(5)(a) of Schedule 1.
+
+(7) For the purposes of paragraph (3)(b) and (c), “**loan**” means a loan made under any provision of the student loans legislation.
+
+(8)[^key-64bb8b0c2ff03a67fdda7451e8c204f6] The Welsh Ministers may deem a person described in paragraph (3)(i) or (3)(k) to be an eligible student where the Welsh Ministers are of the view that the person had not been able to complete the course to which the previous loan related due to compelling personal reasons.
+
+(9) The Welsh Ministers may only exercise their discretion under paragraph (8) once in respect of a particular student.
+
+(10)[^key-b8c564bab4de14413176a08fadedfb66] Where—
+
+- (a) the Welsh Ministers have determined that by virtue of—
+  - (i) falling within paragraph (1)(a)[^key-28c85a25ab7a4c0f33f3c7d153c2918c] [^key-4249d96e2f7351d76ae354ccef649f2f]... (iv) or (v) of the definition of “person with protected rights”; or
+  - (ii) meeting the conditions in paragraph 3(1)(a) [^key-38c531e74f3441fe765bb3cb38f23257]... (iv) of Part 2 of Schedule 1,
+
+  a person (“A”) is an eligible student in connection with an application for a postgraduate master’s degree loan for a designated course; and
+- (b) as at the day before the first day of the first academic year of that designated course, A is not a person with protected rights,
+
+A’s status as an eligible student terminates immediately before the first day of the first academic year of that designated course.
+
+### 4. Designated courses
+
+(1) Subject to paragraphs (5) and (6), a course is a designated course for the purposes of section 22(1) of the 1998 Act and regulation 3 if it is—
+
+- (a) a course which falls within paragraph (2);
+- (b)[^key-2bd76900ccea2e9ab7f0379734dd9ff6] wholly provided by an institution in the United Kingdom that before 1 August 2019 was a publicly funded institution (whether alone or in conjunction with another such institution or with an institution situated outside the United Kingdom);
+- (c) substantially provided in the United Kingdom; and
+- (d) a course which—
+  - (i) leads to an award granted or to be granted by a body falling within section 214(2)(a) or (b) of the Education Reform Act 1988 [^c23304681]; and
+  - (ii) the teaching and supervision which comprise the course has been approved by that body.
+
+(2)[^key-766cc69d789409834c5c500c97f9bde7] For the purpose of paragraph (1)(a) the course must be one of the following—
+
+- (a) a full-time course of one or two academic years’ duration; or
+- (b) a part-time course which is ordinarily possible to complete in up to four academic years.
+
+(3) For the purposes of paragraph (1)(b) and (c)—
+
+- (a) a course is provided by an institution if it provides the teaching and supervision which comprise the course, whether or not the institution has entered into an agreement with the student to provide the course;
+- (b) a course is substantially provided in the United Kingdom where at least half of the teaching and supervision which comprise the course is provided in the United Kingdom;
+- (c) a university and any constituent college or institution in the nature of a college of a university is to be regarded as publicly funded if either the university or the constituent college or institution is publicly funded;
+- (d)[^key-5582703aaeaaf818027fc34af91ae6bf] an institution is not to be regarded as having been publicly funded before 1 August 2019 by reason only that it received public funds before that date from the governing body of a higher education institution in accordance with section 65(3A) of the Further and Higher Education Act 1992; and
+- (e) a course is not to be regarded as provided on behalf of a publicly funded educational institution where a part of the course is provided by a private institution.
+
+(4) The designated course may, but need not, be a distance learning course.
+
+(5) A course is not a designated course for the purposes of regulation 3 if it is recognised as a designated course for the purposes of regulations 5 or 83 of the student support regulations.
+
+(6) For the purposes of section 22 of the 1998 Act [^c23304701] and regulation 3, the Welsh Ministers may designate courses of higher education which are not designated under paragraph (1).
+
+(7) The Welsh Ministers may revoke or suspend the designation of a course which is designated under paragraph (6).
+
+### 5. Period of eligibility
+
+(1) A student's status as an eligible student is retained in connection with a designated course until the status terminates in accordance with this regulation or regulation 3.
+
+(2) The period for which an eligible student retains the status referred to in paragraph (1) is the “period of eligibility”*.*
+
+(3) Subject to the following paragraphs and regulation 3, the period of eligibility terminates at the end of the academic year in which the student completes the designated course.
+
+(4) The period of eligibility terminates when—
+
+- (a) the eligible student (“A”) withdraws from A's designated course in circumstances where the Welsh Ministers are not obliged under regulation 6 to transfer A's status as an eligible student to another course; or
+- (b) A abandons or is expelled from A's designated course.
+
+(5) The Welsh Ministers may terminate the period of eligibility where A has shown by A's conduct that A is unfitted to receive a postgraduate master's degree loan.
+
+(6) If the Welsh Ministers are satisfied that an eligible student has failed to comply with any requirement to provide information under these Regulations or has provided information which is inaccurate in a material particular, the Welsh Ministers may take such of the following actions as they consider appropriate in the circumstances—
+
+- (a) terminate the period of eligibility;
+- (b) determine that the student no longer qualifies for a postgraduate master's degree loan;
+- (c) treat any postgraduate master's degree loan paid to the student as an overpayment which may be recovered under regulation 17.
+
+(7) Where the period of eligibility terminates before the end of the academic year in which the student completes the designated course, the Welsh Ministers may, at any time, renew the period of eligibility for such period as they determine.
+
+### 6. Transfer of status
+
+(1) Where an eligible student (“A”) transfers to another course, the Welsh Ministers must transfer A's status as an eligible student to that course where—
+
+- (a) the Welsh Ministers receive a request from the eligible student to do so;
+- (b) the Welsh Ministers are satisfied that one or more of the grounds for transfer in paragraph (2) applies; and
+- (c) the period of eligibility has not terminated.
+
+(2) The grounds for transfer are—
+
+- (a) on the recommendation of the academic authority A ceases one designated course and starts to undertake another designated course at the same institution; or
+- (b) A starts to undertake a designated course at another institution.
+
+(3) Where A transfers under paragraph (1), A is entitled to receive in connection with the course to which A transfers, the remainder of the postgraduate master's degree loan, if any, in accordance with regulation 13 and, where relevant, regulation 16, in respect of the course from which A transfers.
+
+### 7. Students becoming eligible during a course
+
+Where one of the events listed in regulation 8 occurs during the currency of a student's course, a student may qualify for a postgraduate master's degree loan, provided the student complies with the application provisions set out in Part 3.
+
+### 8. Events
+
+The events are—
+
+- (a) the student's course becomes a designated course;
+- (b)[^key-9f263986aa4e1945331df99556590b94] the student or the student’s spouse, civil partner, parent, parent’s spouse or parent’s civil partner is recognised as a refugee, becomes a person granted stateless leave, becomes a person with leave to enter or remain or becomes a person granted humanitarian protection under paragraph 339C of the immigration rules;
+- (ba)[^key-7c2eea75645b214c799d3a33a5d7112e] the student or the student's parent becomes a person with section 67 leave to remain or a person granted leave to remain as a protected partner[^key-4c6eca74f4f1ec3e821326fc3966e4c3];
+- (bb)[^key-9f6848561a8863f41976a7e277354e15] the student becomes a person with Calais leave;
+- (c)[^key-d152da4038accde46ac649cbda41b82d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-e7e23f5b02edc5c2a07a0ba07a01ea37] the student becomes a family member described in paragraph 9A(1)(a), 9B(1)(a), 9C(1)(a) or 9D(1)(a) of Schedule 1;
+- (e)[^key-8a2c87880e922183c99e34bc95c61fa8] the student becomes a person described in paragraph 3(1)(a)[^key-b6dc8b312c5a6f148fa58c581d8bd469] of Schedule 1;
+- (f)[^key-cc399575b1b8baaabd124b98491acd91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) the student becomes a person described in paragraph 6A(1)(a)[^key-50f5355021e19c5263bcecb3ddbabaec] of Schedule 1;
+- (h)[^key-136f50b9954926fc77959d281b675606] the student becomes a person described in paragraph 11A(a) of Schedule 1; or
+- (i) the student commences a designated course after the start date of the designated course as the relevant academic authority has permitted the student to commence the course at this later start date.
+
+## PART 3 — APPLYING FOR SUPPORT
+
+### 9. Applications for a postgraduate master's degree loan
+
+(1) A person (“**the applicant**”) must apply for a postgraduate master's degree loan in connection with a designated course by completing and submitting to the Welsh Ministers an application in such form and accompanied by such documentation as the Welsh Ministers may require.
+
+(2) The Welsh Ministers may take such steps and make such inquiries as they consider necessary to determine whether the applicant is an eligible student.
+
+(3) The Welsh Ministers must notify the applicant of whether or not the applicant qualifies for a postgraduate master's degree loan.
+
+### 10. Time limits
+
+(1) Subject to paragraph (3), the application must reach the Welsh Ministers no later than the end of the ninth month of the academic year during which it is submitted.
+
+(2) Subject to paragraph (3), where the applicant is applying to amend the amount of the postgraduate master's degree loan under regulation 12(3), the application must reach the Welsh Ministers no later than the end of the ninth month of the academic year during which it is submitted.
+
+(3) Paragraphs (1) or (2) do not apply where the Welsh Ministers consider that having regard to the circumstances of the particular case the time limit should not apply, in which case the application to amend the amount must reach the Welsh Ministers not later than such date as they specify in writing.
+
+### 11. Requirement to enter into a contract for a loan
+
+(1) To receive a postgraduate master's degree loan a student must enter into a contract with the Welsh Ministers on terms to be decided by the Welsh Ministers.
+
+(2) Where the Welsh Ministers require a contract to be signed by a student, an electronic signature in such form as the Welsh Ministers may specify satisfies such a requirement.
+
+## PART 4 — THE LOAN
+
+### 12. Amount of postgraduate master's degree loan
+
+(1) Subject to paragraph (2), a person may apply for a postgraduate master's degree loan of up to £13,000[^key-fdde87aafa9453ca64f2742a9ad48691] towards the costs of undertaking a designated course.
+
+(2) Subject to regulation 16(5), where an eligible prisoner applies for a postgraduate master's degree loan the amount of the loan must not exceed the lesser of—
+
+- (a) the fees payable in respect of the course, and
+- (b)  £13,000.
+
+(3) Except where regulation 16(5) to (6) applies an eligible student may apply to the Welsh Ministers to amend the amount of postgraduate master's degree loan for which the student has applied, provided that—
+
+- (a) in aggregate, the amounts of postgraduate master's degree loan applied for do not exceed the applicable amounts set out in paragraphs (1) and (2);
+- (b) such application is made in accordance with regulation 10(2).
+
+(4) If the Welsh Ministers have determined under regulation 9(2) that the applicant is an eligible student, the Welsh Ministers must pay the amount the eligible student has applied for and for which the eligible student qualifies in accordance with regulation 13, provided that the amount applied for is in accordance with paragraphs (1) or (2), as applicable.
+
+### 13. Payment of postgraduate master's degree loan
+
+(1) The Welsh Ministers may pay the postgraduate master's degree loan for which a student qualifies under these Regulations—
+
+- (a) either as a lump sum or by instalments; and
+- (b) at such times, and in such manner, as the Welsh Ministers consider appropriate.
+
+(2) The Welsh Ministers may make it a condition of entitlement to payment that the eligible student must provide the Welsh Ministers with particulars of a bank or building society account in the United Kingdom into which payments may be made by electronic transfer.
+
+(3) In the case of an eligible prisoner, the Welsh Ministers must pay the postgraduate master's degree loan for which an eligible prisoner qualifies to the institution to which the eligible prisoner is liable to make payment for the fees payable in connection with the designated course or to such third party that the Welsh Ministers consider appropriate for the purpose of ensuring the payment of such fees to the relevant institution.
+
+(4) The Welsh Ministers must not pay the postgraduate master's degree loan or any instalment of the loan for which an eligible student qualifies unless they have received from the relevant academic authority confirmation (in such form as may be required by the Welsh Ministers) of the student's attendance on the designated course.
+
+(5) The academic authority must forthwith inform the Welsh Ministers and provide the Welsh Ministers with particulars if the student withdraws, is suspended or is expelled from the designated course, or is otherwise absent.
+
+(6) An eligible student is not to be considered absent from the eligible student's course if the eligible student is unable to attend due to illness and the eligible student's absence has not exceeded 60 days.
+
+### 14. Provision of United Kingdom national insurance number
+
+(1) The Welsh Ministers may make it a condition of entitlement to payment of the postgraduate master's degree loan or any instalment of the loan that an eligible student must provide the Welsh Ministers with the student's United Kingdom national insurance number.
+
+(2) Subject to paragraph (3), where the Welsh Ministers have imposed a condition under paragraph (1), they must not make payment of the postgraduate master's degree loan or any instalment of the loan to the eligible student, or in the case of an eligible prisoner to the institution or relevant third party, before they are satisfied that the eligible student has complied with that condition.
+
+(3) Despite paragraph (2), the Welsh Ministers may make payment of [^key-29f732a0128d3ad3ebb0564bb4ee7790]... the postgraduate master's degree loan or any instalment of the loan to an eligible student if they are satisfied that owing to exceptional circumstances it would be appropriate to make such a payment without the eligible student having complied with the condition imposed under paragraph (1).
+
+### 15. Absence from course
+
+(1) Subject to paragraphs (2) to (4), if the Welsh Ministers receive notice under regulation 13(5) or paragraph 2(a) to (d) of Schedule 2 to these Regulations, the Welsh Ministers may not make any further payment of the postgraduate master's loan in respect of the eligible student to which the notice relates.
+
+(2) Further payments may be made despite the student's lack of attendance if, in the opinion of the Welsh Ministers, those payments would be appropriate in all the circumstances during the student's absence.
+
+(3) If the eligible student recommences the designated course the student must notify the Welsh Ministers and give full details of the length and cause of the preceding absence.
+
+(4) After considering the student's notification under paragraph (3), the Welsh Ministers may recommence any remaining payments of the postgraduate master's loan under regulation 13, if, in the opinion of the Welsh Ministers, it would be appropriate in all the circumstances for such payment to be made.
+
+### 16. Effect of becoming, or ceasing to be, an eligible prisoner
+
+(1) Paragraph (2) applies where an eligible student who is in receipt of a postgraduate master's degree loan becomes an eligible prisoner and continues to undertake a designated course.
+
+(2) The Welsh Ministers must—
+
+- (a) adjust future payment of the postgraduate master's degree loan or future instalments of the postgraduate master's degree loan, so that the total of the postgraduate master's degree loan awarded does not exceed the amount to which the student, as an eligible prisoner, is entitled to under regulation 12(2); and
+- (b) pay any remaining sum of the postgraduate master's degree loan, or any future instalments of the postgraduate master's degree loan, in accordance with regulation 13(3).
+
+(3) Paragraphs (4) to (6) apply where an eligible prisoner who is in receipt of a postgraduate master's degree loan ceases to be an eligible prisoner and remains an eligible student, and continues to undertake a designated course.
+
+(4) The Welsh Ministers must pay the remaining sum of the postgraduate master's degree loan, or future instalments of the postgraduate master's degree loan, if any, in accordance with regulation 13(1).
+
+(5) Where an eligible student (“A”) ceases to be an eligible prisoner and would have qualified for a higher amount of postgraduate master's degree loan had A not been an eligible prisoner when A's loan application was originally determined in accordance with these Regulations, A may, subject to paragraph (6), apply for the amount of loan to be increased.
+
+(6) The maximum amount of the increase in A's postgraduate master's degree loan for which A may apply under paragraph (5) is the amount which is calculated by reference to the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/wsi/2017/523)
+
+where—
+
+F equals the amount which A would have qualified for if A had not been an eligible prisoner;
+
+R equals the amount which A qualifies for as an eligible prisoner;
+
+T is the number of days of the course which remain when A ceases to be an eligible prisoner beginning with the day after the day on which A ceases to be an eligible prisoner; and
+
+M is the total number of the days of the duration of the course.
+
+### 17. Overpayments of a postgraduate master's degree loan
+
+(1) Any overpayment of a postgraduate master's degree loan is recoverable by the Welsh Ministers from—
+
+- (a) the institution or third party which received the monies of the postgraduate master's degree loan where payment was made to such institution or third party; or
+- (b) the student who received the postgraduate master's degree loan.
+
+(2) A student must, if so required by the Welsh Ministers, repay any amount of the postgraduate master's degree loan paid to the student or paid in respect of the student, which for whatever reason exceeds the amount of loan to which the student is entitled.
+
+(3) An overpayment of a postgraduate master's degree loan may be recovered from a student under paragraph (1)(b) in whichever one or more of the following ways the Welsh Ministers consider appropriate in all the circumstances—
+
+- (a) by subtracting the overpayment from any amount of the postgraduate master's degree loan which remains to be paid;
+- (b) by subtracting the overpayment from any kind of grant or loan payable to the student from time to time pursuant to regulations made by the Welsh Ministers under section 22 of the 1998 Act;
+- (c) by requiring the student to repay the postgraduate master's loan in accordance with regulations made under section 22 of the 1998 Act;
+- (d) by taking such other action for the recovery of an overpayment as is available to them.
+
+### 18. Repayment
+
+(1) The Welsh Ministers may at any time require an applicant or eligible student to enter into an agreement to repay a postgraduate master's degree loan by a particular method.
+
+(2) Where the Welsh Ministers have required an agreement as to the method of repayment under this regulation, the Welsh Ministers may withhold any payment of a postgraduate master's degree loan until the applicant or eligible student provides what has been required.
+
+## PART 5 — INFORMATION REQUIREMENTS
+
+### 19. Information requirements
+
+(1) Schedule 2 applies in respect of the provision of information by an applicant and an eligible student.
+
+(2) The Welsh Ministers may at any time request from an applicant or eligible student information that the Welsh Ministers consider is required to recover a postgraduate master's degree loan.
+
+(3) The Welsh Ministers may at any time request from an applicant or eligible student sight of their valid national identity card, valid passport issued by the state of which they are a national or their birth certificate.
+
+(4) Where the Welsh Ministers have requested information under this regulation, the Welsh Ministers may withhold any payment of a postgraduate master's degree loan until the applicant or eligible student provides what has been requested or provides a satisfactory explanation for not complying with the request.
+
+Kirsty Williams
+
+Cabinet Secretary for Education, one of the Welsh Ministers
+
+4 April 2017
+
+## SCHEDULE 1 — ELIGIBLE STUDENTS
+
+Regulations 3 and 8
+
+### PART 1 — Interpretation
+
+**1.** (1) For the purposes of this Schedule—
+
+- [^key-ae61aa545399a297114f346ba288ecbf]...
+- “**EEA frontier self-employed person**” (“***person hunangyflogedig trawsffiniol AEE***”) means an EEA national who—
+  - (a) is a self-employed person in Wales; and
+  - (b) resides in Switzerland or the territory of an EEA State [^key-7804bc042bfc637f64c67159c77e20cb]... and returns to the national's residence in Switzerland or that EEA State, as the case may be, daily or at least once a week;
+- “**EEA frontier worker**” (“***gweithiwr trawsffiniol AEE***”) means an EEA national who—
+  - (a) is a worker in Wales; and
+  - (b) resides in Switzerland or the territory of an EEA State [^key-7804bc042bfc637f64c67159c77e20cb]... and returns to the national's residence in Switzerland or that EEA State, as the case may be, daily or at least once a week;
+- “**EEA migrant worker**” (“***gweithiwr mudol AEE***”) means an EEA national who is a worker, other than an EEA frontier worker, in the United Kingdom;
+- “**EEA national**” (“***gwladolyn AEE***”) means a national of an EEA State [^key-7804bc042bfc637f64c67159c77e20cb]...;
+- “EEA self-employed person” (“*person hunangyflogedig**AEE*””) means and EEA national who is a self-employed person, other than an EEA frontier self-employed person, in the United Kingdom;
+- “**employed person**” (“***person cyflogedig***”) means an employed person within the meaning of Annex 1 to the Swiss Agreement;
+- “**European Economic Area**” (“***Ardal Economaidd Ewropeaidd***”) means the area comprised by the EEA States;
+- “**family member**” (“***aelod o deulu***”) means (unless otherwise indicated)—
+  - (a) in relation to an EEA frontier worker, an EEA migrant worker, an EEA frontier self-employed person , an EEA self-employed person or a relevant person of Northern Ireland who is treated as an EEA migrant worker or an EEA self-employed person by virtue of paragraph 6A(3)[^key-1077bbce29a4fb5fdb75216174dd4e99]—
+    - (i) the person's spouse or civil partner;
+    - (ii) direct descendants of the person or of the person's spouse or civil partner who are—
+    - (aa) under the age of 21; or
+    - (bb) dependants of the person or the person's spouse or civil partner; or
+    - (iii) dependent direct relatives in the ascending line of the person or that of the person's spouse or civil partner;
+  - (b) in relation to a Swiss employed person, a Swiss frontier employed person, a Swiss frontier self-employed person or a Swiss self-employed person—
+    - (i) the person's spouse or civil partner; or
+    - (ii) the person's child or the child of the person's spouse or civil partner;
+  - (c) in relation to an EU national who falls within Article 7(1)(c) of Directive [2004/38](https://www.legislation.gov.uk/eudr/2004/38) or, for the purposes of paragraph 9A, in relation to a relevant person of Northern Ireland who would fall within Article 7(1)(c) of Directive[^key-9120d4e9b66c8ab802fa986bf802b55c] [2004/38](https://www.legislation.gov.uk/eudr/2004/38) if that person were an EU national or solely an EU national—
+    - (i) the national's spouse or civil partner; or
+    - (ii) direct descendants of the national or of the national's spouse or civil partner who are—
+    - (aa) under the age of 21; or
+    - (bb) dependants of the national or of the national's spouse or civil partner;
+  - (d) in relation to an EU national who falls within Article 7(1)(b) of Directive [2004/38](https://www.legislation.gov.uk/eudr/2004/38) or, for the purposes of paragraph 9A, in relation to a relevant person of Northern Ireland who would fall within Article 7(1)(b) of Directive[^key-eebfe7429739ba10ce4fa7f168f18810] [2004/38](https://www.legislation.gov.uk/eudr/2004/38) if that person were an EU national or solely an EU national—
+    - (i) the national's spouse or civil partner;
+    - (ii) direct descendants of the national or of the national's spouse or civil partner who are—
+    - (aa) under the age of 21; or
+    - (bb) dependants of the national or of the national's spouse or civil partner; or
+    - (iii) dependent direct relatives in the national's ascending line or that of the national's spouse or civil partner;
+  - (e) in relation to a United Kingdom national, for the purposes of paragraphs 9, 9B, 9C and 9D[^key-217cea462507d06091956b9725b86ba2]—
+    - (i) the national's spouse or civil partner; or
+    - (ii) direct descendants of the national or of the national's spouse or civil partner who are—
+    - (aa) under the age of 21; or
+    - (bb) dependants of the national or of the national's spouse or civil partner;
+- [^key-ae61aa545399a297114f346ba288ecbf]...
+- [^key-ae61aa545399a297114f346ba288ecbf]...
+- “**self-employed person**” (“***person hunangyflogedig***”) means—
+  - (a) in relation to an EEA national, a person who is self-employed within the meaning of Article 7 of Directive [2004/38](https://www.legislation.gov.uk/eudr/2004/38) or the EEA Agreement, as the case may be; or
+  - (b) in relation to a Swiss national, a person who is a self-employed person within the meaning of Annex 1 to the Swiss Agreement;
+- “**settled**” (“***wedi setlo***”) has the meaning given by section 33(2A) of the Immigration Act 1971 [^c23304711];
+- “**Swiss Agreement**” (“***Cytundeb y Swistir***”) means the Agreement between the European Community and its Member States, of the one part, and the Swiss Confederation of the other, on the Free Movement of Persons signed at Luxembourg on 21 June 1999 [^c23304721] and which came into force on 1 June 2002;
+- [^key-ae61aa545399a297114f346ba288ecbf]...
+- “**Swiss employed person**” (“***person cyflogedig Swisaidd***”) means a Swiss national who is an employed person, other than a Swiss frontier employed person, in the United Kingdom;
+- “**Swiss frontier employed person**” (“***person**cyflogedig trawsffiniol Swisaidd***”) means a Swiss national who—
+  - (a) is an employed person in Wales; and
+  - (b) resides in Switzerland or in the territory of an EEA State [^key-7804bc042bfc637f64c67159c77e20cb]... and returns to the national's residence in Switzerland or that EEA State, as the case may be, daily or at least once a week;
+- “**Swiss frontier self-employed person**” (“***person hunangyflogedig trawsffiniol Swisaidd***”) means a Swiss national who—
+  - (a) is a self-employed person in Wales; and
+  - (b) resides in Switzerland or in the territory of an EEA State, [^key-7804bc042bfc637f64c67159c77e20cb]..., and returns to the national's residence in Switzerland or that EEA State, as the case may be, daily or at least once a week;
+- “**Swiss self-employed person**” (“***person hunangyflogedig Swisaidd***”) means a Swiss national who is a self-employed person, other than a Swiss frontier self-employed person, in the United Kingdom;
+- “United Kingdom national” (“[^key-6a3ed9ff1b194b52ac8b4a5d3e527c4b]*gwladolyn o’r Deyrnas Unedig*”) has the meaning given by Article 2(d) of the EU withdrawal agreement;
+- “**worker**” (“***gweithiwr***”) means a worker within the meaning of Article 7 of Directive [2004/38](https://www.legislation.gov.uk/eudr/2004/38) or the EEA Agreement, as the case may be;
+
+(1A)[^key-9f902b2e9bd774daa3b1091caa0eeb73] For the purposes of this Schedule, a reference to a “Member State” or “State” in Article 7 of Directive [2004/38](https://www.legislation.gov.uk/eudr/2004/38) is to be read as including the United Kingdom.
+
+(2) For the purposes of this Schedule, “**parent**” (“***rhiant***”) includes a guardian, any other person having parental responsibility for a child and any person having care of a child and “**child**” (“***plentyn***”) is to be construed accordingly.
+
+(3) For the purposes of this Schedule, a person who is ordinarily resident in Wales, England, Scotland, Northern Ireland or the Islands, as a result of having moved from another of those areas for the purpose of undertaking—
+
+- (a) the designated course; or
+- (b) a course which, disregarding any intervening vacation, the student undertook immediately before undertaking the designated course,
+
+is to be considered to be ordinarily resident in the place from which the person moved.
+
+(4) For the purposes of this Schedule, a person (“A” in this sub-paragraph) is to be treated as ordinarily resident in Wales, the United Kingdom and Islands , the territory comprising the United Kingdom, Islands and the Republic of Ireland[^key-64e43222440ea8e00347c6e081aa13af] or in the territory comprising the United Kingdom, Gibraltar,[^key-f7ae4f23a4b11b1cf4134890639b7a58] the European Economic Area, Switzerland and Turkey if A would have been so resident but for the fact that—
+
+- (a) A;
+- (b) A's spouse or civil partner; or
+- (c) in the case of a dependent direct relative in the ascending line, A's child or child's spouse or civil partner,
+
+is or was temporarily employed outside Wales, the United Kingdom and Islands , the territory comprising the United Kingdom, Islands and the Republic of Ireland or the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey.
+
+(5) For the purposes of sub-paragraph (4), temporary employment outside Wales, the United Kingdom and Islands , the territory comprising the United Kingdom, Islands and the Republic of Ireland[^key-2b007837d3c0de926938336697a92097] or the territory comprising the United Kingdom, Gibraltar,[^key-29b745035cce0e9416a63b0bdc9c2a73] the European Economic Area, Switzerland and Turkey includes—
+
+- (a) in the case of members of the regular naval, military or air forces of the Crown, any period which they serve outside the United Kingdom as members of such forces; [^key-d564800caa1bbc75dcb7317e2b047c65]...
+- (aa)[^key-8ecbcf7bb1ff6292a004008a8dadbd94] in the case of members of the regular armed forces of the Republic of Ireland, any period which they serve outside the territory comprising the United Kingdom, Islands and the Republic of Ireland as members of such forces;
+- (b) in the case of members of the regular armed forces of an EEA State or Switzerland, any period which they serve outside the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland as members of such forces; and
+- (c) in the case of members of the regular armed forces of Turkey, any period which they serve outside of the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey as members of such forces.
+
+(6) For the purposes of this Schedule an area other than the United Kingdom or Gibraltar[^key-b3041ccb8e21bffe7502dc82fd38b179] which—
+
+- (a) was previously not part of the EU or the European Economic Area; but
+- (b) at any time before or after these Regulations come into force has become part of one or other or both of these areas,
+
+is to be considered to have always been a part of the European Economic Area.
+
+(7) For the purposes of this Schedule an eligible prisoner is to be considered ordinarily resident in the part of the United Kingdom where the prisoner resided prior to sentencing.
+
+### PART 2 — Categories
+
+#### 2. Persons who are settled in the United Kingdom
+
+(1) A person who on the first day of the first academic year of the course—
+
+- (a)[^key-ca62f0d94696453ac96fe7b6d887cd62] is settled in the United Kingdom and does not fall within paragraph 3;
+- (b) is ordinarily resident in Wales;
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) subject to sub-paragraph (2), whose residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(4).
+
+**2A.**[^key-0c447fae403ced4594dc2a10ee8b0983] (1) A person—
+
+- (a) who is settled in the United Kingdom on the day on which the first term of the first academic year actually begins[^key-b84af66660bb933244fbadee2dc694e2] and does not fall within paragraph 3;
+- (b) who is attending or undertaking a designated course in Wales;
+- (c) who has been ordinarily resident in the territory comprising the United Kingdom, Islands and the Republic of Ireland throughout the three-year period preceding the first day of the first academic year of the course and who has been ordinarily resident in the Republic of Ireland for at least part of that period[^key-df99f0bd0abc44b2808194d7ced8a8ec]; [^key-e2a48e7bea00d12d346b4544aea16b1a]...
+- (d) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Islands and the Republic of Ireland has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education; and[^M_F_9f79e197-4bfb-4c21-f46d-98fb362c2cf8]
+- (e)[^key-413cc827dba406c62c0bca3a43fef0c8] who did not move to Wales from the Islands for the purpose of undertaking the designated course, or a course which, disregarding any intervening vacation, the person undertook immediately before undertaking the designated course.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Islands and the Republic of Ireland in accordance with paragraph 1(4).
+
+**3.** (1)[^key-b4f047df6495b05ef6e1e8b6e62accef] A person who—
+
+- (a)[^key-6f8d104a8e8aada353e2f97bb8b3c16a] meets one of the following conditions—
+  - (i) the person is within the personal scope of the citizens’ rights provisions and is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
+  - (ii) the person—
+    - (aa) is within the personal scope of the citizens’ rights provisions;
+    - (bb) is an Irish citizen settled in the United Kingdom who, pursuant to section 3ZA of the Immigration Act 1971, does not require leave to enter or remain in the United Kingdom; and
+    - (cc) would meet the eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules if that person were to make an application for such leave;
+  - (iii)[^key-6a0266ebe733075cbd9b89a957eaf1fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) the person—
+    - (aa) is within the personal scope of the citizens’ rights provisions;
+    - (bb) is an applicant for the purposes of regulation 4 of the 2020 Citizens’ Rights Regulations or otherwise has rights deemed to apply by virtue of any of the citizens’ rights provisions specified in paragraph (3)[^key-226a1fd672262b56c86b33c94be69199]; and
+    - (cc) has, or is treated as having, a right of permanent residence for the purposes of the Immigration (European Economic Area) Regulations 2016, as those Regulations continue to have effect by virtue of the 2020 Citizens’ Rights Regulations, in relation to that person during the relevant period or otherwise has a deemed right of permanent residence by virtue of any of the citizens’ rights provisions specified in paragraph (3)[^key-c02689e07d26355ff0cbfad22e35c6a4]; or
+  - (v) the person is a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
+- (b) is ordinarily resident in Wales on the first day of the first academic year of the course;
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) in a case where the person's ordinary residence referred to in sub-paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-b380aaf7793ecb56b188f530a8cb9090] the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in sub-paragraph (c).
+
+(2)[^key-85cfaaaa1cf96af7e004da1b055a17b3] For the purposes of sub-paragraph (1)(a)(ii)(cc), “eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules” means the eligibility requirements for such leave in accordance with paragraph EU11 of Appendix EU to the immigration rules.
+
+(3)[^key-72bc08de4e1bfe39b5431a479e1b71aa] For the purposes of sub-paragraph (1)(a)(iv), the citizens’ rights provisions referred to are—
+
+- (a) Article 18(3) (issuance of residence documents) of the EU withdrawal agreement;
+- (b) Article 17(3) (issuance of residence documents) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
+- (c) Article 16(3) (issuance of residence documents) of the Swiss citizens’ rights agreement.
+
+#### 4. Refugees and their family members
+
+(1) A person who—
+
+- (a) is a refugee;
+- (b) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since the person was recognised as a refugee; and
+- (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+(2) A person who—
+
+- (a) is the spouse or civil partner of a refugee;
+- (b) was the spouse or civil partner of the refugee on the date on which the refugee made the application for asylum;
+- (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to remain in the United Kingdom; and
+- (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+(3) A person who—
+
+- (a) is the child of a refugee or the child of the spouse or civil partner of a refugee;
+- (b) on the date on which the refugee made the application for asylum, was the child of the refugee or the child of a person who was the spouse or civil partner of the refugee on that date;
+- (c) was under 18 on the date on which the refugee made the application for asylum;
+- (d) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to remain in the United Kingdom; and
+- (e) is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+#### 4ZA. Protected persons and their family members[^key-5fd2d6a5c92dd2bbfa25aebe70821741]
+
+(1) A person—
+
+- (a) granted leave to enter or remain as a protected person;
+- (b) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted such leave; and
+- (c) is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+(2) A person who—
+
+- (a) is a protected spouse or civil partner;
+- (b) on the leave application date, was the spouse or civil partner of a person granted leave to enter or remain as a protected person (by virtue of humanitarian protection under paragraph 339C of the immigration rules or as a stateless person under the immigration rules);
+- (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom;
+- (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+(3) A person who—
+
+- (a) is a protected child;
+- (b) on the leave application date was—
+  - (i) under 18 years old; and
+  - (ii) was the child of a person granted leave to enter or remain as a protected person or, as the case may be, the child of a person who was the spouse or civil partner of the person granted leave to enter or remain as a protected person on that date (by virtue of humanitarian protection under paragraph 339C of the immigration rules, stateless leave under the immigration rules or section 67 of the Immigration Act 2016 and the immigration rules, as the case may be);
+- (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom;
+- (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+(4) In this paragraph—
+
+- (a) “leave application date” means the date on which a person (“P”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a person granted leave to enter or remain as a protected person;
+- (b) “leave to enter or remain as a protected person” means—
+  - (i) a person granted leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules;
+  - (ii) a person granted stateless leave;
+  - (iii) a person with section 67 leave to remain; or
+  - (iv) a person with Calais leave;
+- (c) “protected child” means—
+  - (i) a child of—
+    - (aa) a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules;
+    - (ab) a person granted stateless leave; or
+    - (ac) a person with section 67 leave to remain;
+  - (ii) a child of the spouse or civil partner of—
+    - (aa) a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules; or
+    - (ab) a person granted stateless leave;
+- (d) “protected spouse or civil partner” means a spouse or civil partner of—
+  - (i) a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules; or
+  - (ii) a person granted stateless leave.
+
+#### 4ZB. Persons granted leave to remain as a protected partner and their children[^key-251d60712b5872c228d044a013c7a034]
+
+(1) A person—
+
+- (a) granted leave to remain as a protected partner;
+- (b) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted such leave; and
+- (c) who is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+(2) A person who—
+
+- (a) is the child of a person granted leave to remain as a protected partner;
+- (b) on the leave application date was under 18 years old and was the child of a person granted leave to remain as a protected partner;
+- (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to remain in the United Kingdom;
+- (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+(3) In this paragraph, “leave application date” means the date on which a person (“P”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a person granted leave to remain as a protected partner.
+
+#### 4A. Persons granted stateless leave and their family members[^key-45e4bf989c2b91ed1f60d11465ffe1f3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Persons with leave to enter or remain and their family members
+
+(1) A person—
+
+- (a) with leave to enter or remain;
+- (b) who is ordinarily resident in Wales on the first day of the first academic year of the course; and
+- (c) who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course.
+
+(2) A person—
+
+- (a) who is the spouse or civil partner of a person with leave to enter or remain;
+- (b)[^key-211ca596cfe799b7cea7ef991f369d97] who was the spouse or civil partner of the person with leave to enter or remain on the leave application date;
+- (c) who is ordinarily resident in Wales on the first day of the first academic year of the course; and
+- (d) who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course.
+
+(3) A person—
+
+- (a) who is the child of a person with leave to enter or remain or the child of the spouse or civil partner of a person with leave to enter or remain;
+- (b)[^key-1f54f736bf85531842743024fde15921] who, on the leave application date, was the child of the person with leave to enter or remain or the child of a person who was the spouse or civil partner of the person with leave to enter or remain on that date;
+- (c)[^key-f499ffaa3a9d3572a14498a739f1e107] who was under 18 on the leave application date;
+- (d) who is ordinarily resident in Wales on the first day of the first academic year of the course; and
+- (e) who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course.
+
+(4)[^key-72601079f9ecb7af43dc5b5246534b36] In this paragraph, “leave application date” means the date on which the person with leave to enter or remain made the application that led to that person being granted leave to enter or remain in the United Kingdom.
+
+#### 5A. Persons with section 67 leave to remain[^key-4ff3c8b8088dea248eee924a31aefcf9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Workers, employed persons, self-employed persons and their family members
+
+(1) A person who—
+
+- (a) is—
+  - (i) an EEA migrant worker or an EEA self-employed person;
+  - (ii) a Swiss employed person or a Swiss self-employed person;
+  - (iii) a family member of a person mentioned in sub-paragraph (i) or (ii);
+  - (iv) an EEA frontier worker or an EEA frontier self-employed person;
+  - (v) a Swiss frontier employed person or a Swiss frontier self-employed person; or
+  - (vi) a family member of a person mentioned in sub-paragraph (iv) or (v);
+- (b) subject to sub-paragraph (2), is ordinarily resident in Wales on the first day of the first academic year of the course; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-bfa600e109fad0583f80116642a5cd3b] the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support under these Regulations falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
+
+**6A.**[^key-f54f146754c02fb02a20c92adfa37d89] (1) A person with protected rights or a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020, who—
+
+- (a) is—
+  - (i) an EEA migrant worker or an EEA self-employed person;
+  - (ii) a Swiss employed person or a Swiss self-employed person;
+  - (iii) a family member of a person mentioned in sub-paragraph (i) or (ii);
+  - (iv) an EEA frontier worker or an EEA frontier self-employed person;
+  - (v) a Swiss frontier employed person or a Swiss frontier self-employed person; or
+  - (vi) a family member of a person mentioned in sub-paragraph (iv) or (v);
+- (b) subject to sub-paragraph (2), is ordinarily resident in Wales on the first day of the first academic year of the course; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
+
+(3) In this paragraph, a description of a person in sub-paragraph (1)(a)(i) is to be read as if it includes a relevant person of Northern Ireland who would, if that person were an EEA national or solely an EEA national, be an EEA migrant worker or an EEA self-employed person.
+
+**7.** (1)[^key-ddd2a7aebc49296009980f7f5bccf1e3] A person who—
+
+- (a) is ordinarily resident in Wales on the first day of the first academic year of the course;
+- (b) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-475891bb506587ad497277f0801a2bf3] the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (c) is entitled to support by virtue of Article 10 of[^key-cf474961b8a46b5a011335482af7baa9] [Regulation (EU) No. 492/2011](https://www.legislation.gov.uk/european/regulation/2011/0492) of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union (“the Workers Regulation”), as it had effect immediately before IP completion day, as extended by the EEA Agreement, as it had effect immediately before IP completion day;
+- (d)[^key-33d87623ee5ee9b620e01a839fa4895e] for the purposes of paragraph (c), in Article 10 of the Workers Regulation the reference to “another Member State” is to be read as including the United Kingdom and the references to “that State” construed accordingly.
+
+(2)[^key-91c3e5529a74ed0f91daf9128929c9d5] Any description of person who would have been eligible under this paragraph immediately before IP[^key-d06dc80f6b5dc276de7606174e6299cb] completion day is to be eligible on and after IP completion day.
+
+**7A.**[^key-e04e928389bb175f96e592e591cd8aa4] (1) A person with protected rights who—
+
+- (a) is ordinarily resident in Wales on the first day of the first academic year of the course;
+- (b) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (c) is entitled to support by virtue of Article 10 of [Regulation (EU) No. 492/2011](https://www.legislation.gov.uk/european/regulation/2011/0492) of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union (“the Workers Regulation”), as it had effect immediately before IP completion day, as extended by the EEA Agreement, as it had effect immediately before IP completion day.
+
+(2) For the purposes of sub-paragraph (1)(c), in Article 10 of the Workers Regulation—
+
+- (a) the reference to a “national of a Member State” is to be read as including a relevant person of Northern Ireland; and
+- (b) the reference to “another Member State” is to be read as including the United Kingdom, and the references to “that State” construed accordingly.
+
+#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere
+
+(1) A person who—
+
+- (a) is settled in the United Kingdom;
+- (b) was ordinarily resident in Wales and settled in the United Kingdom immediately before leaving the United Kingdom and who has exercised a right of residence before[^key-94fb9ed22763aae7953baadd33ebe486] IP[^key-316fced44679eb3f031d84133e0ee86c] completion day;
+- (c) is ordinarily resident in the United Kingdom on the day on which the first term of the first academic year actually begins;
+- (d) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-e6c61d7ae816746727f050e54230bd21] the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (e) in a case where the person's ordinary residence referred to in paragraph (d) was wholly or mainly for the purposes of receiving full time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-ca8c588e44667a4856481085c84b333d] the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (d).
+
+(2) For the purposes of this paragraph, a person has exercised a right of residence if that person is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who had the right[^key-a79b26a1b16c368f674d7925af1f7d40] of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and had the right of permanent residence, if that person has gone[^key-a07b964103cf6b275294d5ccba0aed9e] to the state within the territory comprising the European Economic Area and Switzerland of which that person is a national or of which the person in relation to whom that person is a family member is a national.
+
+(3)[^key-d8c36e18d271d62fc2b1ec21c194d160] For the purposes of this paragraph, a person had the right of permanent residence if they had a right which arose under Directive 2004/38 to reside permanently in the United Kingdom without restriction.
+
+**8A.**[^key-d3d3de2d80944c1ba190d186f4be08dd] (1) A person who—
+
+- (a) is settled in the United Kingdom;
+- (b) was ordinarily resident in Wales and settled in the United Kingdom immediately before leaving the United Kingdom and who has exercised a right of residence before IP completion day;
+- (c) was ordinarily resident immediately before IP completion day—
+  - (i) in the territory comprising Gibraltar, the European Economic Area and Switzerland; or
+  - (ii) in the United Kingdom, where that ordinary residence began after 31 December 2017 immediately following a period of ordinary residence in the territory comprising Gibraltar, the European Economic Area and Switzerland,
+
+  and has remained ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the period beginning on IP completion day and ending immediately before the first day of the first academic year of the course;
+- (d) is ordinarily resident in the United Kingdom on the day on which the first term of the first academic year actually begins;
+- (e) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (f) in a case where the person’s ordinary residence referred to in paragraph (e) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (e).
+
+(2) For the purposes of this paragraph, a person has exercised a right of residence if that person is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive [2004/38](https://www.legislation.gov.uk/eudr/2004/38) (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who has the right of permanent residence who in each case has exercised a right under Article 7 of Directive [2004/38](https://www.legislation.gov.uk/eudr/2004/38) or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and had the right of permanent residence, if the person has gone to the state within the territory comprising the European Economic Area and Switzerland of which the person is a national or of which the person in relation to whom the person is a family member is a national.
+
+(3) For the purposes of sub-paragraph (2), a person had the right of permanent residence if they had a right which arose under Directive [2004/38](https://www.legislation.gov.uk/eudr/2004/38) to reside permanently in the United Kingdom without restriction.
+
+#### 9. EU nationals etc.[^key-d175fdd015696bfdee7f7dde709d3988]
+
+(1) A person [^key-485b916aa4241b8c2f6d2fce41c7a8cc]...—
+
+- (a)[^key-2c13122687976170d9b495552b449f67] who, on the first day of the first academic year of the course, is—
+  - (i) an EU national;
+  - (ii) a United Kingdom national who has exercised a right of residence; or
+  - (iii) the family member of a person in sub-paragraph (i) or (ii);
+- (b) who[^key-858a51ea96b6692ac3c09ff2ab51bc6a] is attending or undertaking a designated course in Wales; [^key-23623d4e231b46f1ad99a4c64cf1d23b]...
+- (c) who[^key-c76fc52c9063eda4feed4590fbfab179] has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-09b1ca1e4b546a66bc0affc7f94cf680] the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar,[^key-0bb7af042b0c8b319ee12b98d1efe950] the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-272ce4876e8798ac059f3d2dfefd73e6] the European Economic Area and Switzerland in accordance with paragraph 1(4).
+
+(3) Where a state accedes to the EU after the first day of the first academic year of the course and a person is a national of that state or the family member of a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EU national on the first day of the first academic year of the course is treated as being satisfied.
+
+(4) For the purposes of this paragraph, a United Kingdom national has exercised a right of residence if that person has resided in Gibraltar or[^key-e8d33a8df2f5ee41d9f7a3ce99c0bbce] has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom.
+
+(5)[^key-8a9a693215aeaf9570c3af046420ad52] Any description of person who would have been eligible under this paragraph immediately before IP[^key-e922f151ca8ed84204aca307cdb974aa] completion day is to be eligible on and after IP completion day.
+
+**9A.**[^key-2b3def19d72db8aa7c63d2132bce0af7] (1) A person with protected rights—
+
+- (a) who is—
+  - (i) an EU national on the first day of the first academic year of the course;
+  - (ii) a family member of a person mentioned in sub-paragraph (i); or
+  - (iii) a family member of a relevant person of Northern Ireland;
+- (b) who is attending or undertaking a designated course in Wales;
+- (c) who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland in accordance with paragraph 1(4).
+
+#### 9B. United Kingdom nationals
+
+(1) A person—
+
+- (a) who is—
+  - (i) a United Kingdom national on the first day of the first academic year of the course; or
+  - (ii) a family member of a person mentioned in sub-paragraph (i);
+- (b) who was ordinarily resident immediately before IP completion day—
+  - (i) in the territory comprising the European Economic Area and Switzerland; or
+  - (ii) in the United Kingdom, where that ordinary residence began after 31 December 2017 immediately following a period of ordinary residence in the territory comprising the European Economic Area and Switzerland,
+
+  and has remained ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the period from IP completion day and ending immediately before the first day of the first academic year of the course;
+- (c) who is attending or undertaking a designated course in Wales;
+- (d) who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (e) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (d) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland in accordance with paragraph 1(4).
+
+(3) Where a person (“P”) falls within sub-paragraph (1)(a)(ii), the person in relation to whom P is a family member must also meet the requirements of sub-paragraph (1)(b) and (d).
+
+#### 9BA. Irish citizens in the EEA and Switzerland[^key-b8aa63b8f4c9cea71431c446197d9065]
+
+A person—
+
+- (a) who is an Irish citizen on the first day of the first academic year of the course;
+- (b) who was ordinarily resident immediately before IP completion day—
+  - (i) in the territory comprising the European Economic Area and Switzerland; or
+  - (ii) in the United Kingdom, where that ordinary residence began after 31 December 2017 immediately following a period of ordinary residence in the territory comprising the European Economic Area and Switzerland,
+
+  and has remained ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the period beginning on IP completion day and ending immediately before the first day of the first academic year of the course;
+- (c) who is undertaking a designated course in Wales;
+- (d) who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (e) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (d) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland in accordance with paragraph 1(4).
+
+**9C.** (1) A person—
+
+- (a) who is a family member of a person who is a United Kingdom national on the first day of the first academic year of the course;
+- (b) who is attending or undertaking a designated course in Wales;
+- (c) who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; [^key-1ea32790417d0ca266edf6a79c34e13c]...
+- (d) subject to sub-paragraph (2), whose ordinary residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education; and[^key-3fcc1b1b682f614a3ea74bac181774bf]
+- (e) who did not move to Wales from the Islands for the purpose of undertaking the designated course, or a course which, disregarding any intervening vacation, the person undertook immediately before undertaking the designated course.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(4).
+
+#### 9D. Persons resident in Gibraltar
+
+(1) A person—
+
+- (a) who is—
+  - (i) a United Kingdom national who has resident status in Gibraltar granted by the Government of Gibraltar;
+  - (ii) a family member of a United Kingdom national, where that family member has resident status in Gibraltar granted by the Government of Gibraltar;
+  - (iii) an EU national who has a right of residence in Gibraltar arising under the EU withdrawal agreement; or
+  - (iv) a family member of an EU national, where that family member has a right of residence in Gibraltar arising under the EU withdrawal agreement;
+- (b) who is attending or undertaking a designated course in Wales;
+- (c) who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland in accordance with paragraph 1(4).
+
+#### 10. EU nationals ordinarily resident in the United Kingdom and Islands[^key-4c4b25869cf3ff5100f1438172506203]
+
+(1) A person who—
+
+- (a) is an EU national [^key-2de73e145aa58d1d0dcdefd7ebe6be5c]... national on the first day of the first academic year of the course;
+- (b) is ordinarily resident in Wales on the first day of the first academic year of the course;
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period immediately preceding the first day of the first academic year of the course; and
+- (d) in a case where the person's ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-1a921910b76c9d4b039cd9775720e618] the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
+
+(2) Where a state accedes to the EU after the first day of the first academic year of the course and a person is a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EU national [^key-94efc50e3b080fc98cc161c2d1875be1]... on the first day of the first academic year of the course is treated as being satisfied.
+
+**10A.**[^key-d8e7f112c46bc73b0a1a9f55bbf7c706] A person with protected rights who—
+
+- (a) is an EU national on the first day of the first academic year of the course;
+- (b) is ordinarily resident in Wales on the first day of the first academic year of the course;
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) in a case where the person’s ordinary residence referred to in sub-paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in sub-paragraph (c).
+
+#### 11. Children of Swiss nationals[^key-7be26f438ea1f519683dfa17073f6ee7]
+
+(1) A person who—
+
+- (a) is the child of a Swiss national who is entitled to support in the United Kingdom by virtue of Article 3(6) of Annex 1 to the Swiss Agreement;
+- (b) is ordinarily resident in Wales on the first day of the first academic year of the course;
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
+
+(2) Any description of person who would have been eligible under this paragraph immediately before IP[^key-352c1b6f3d3aa0f1c40cafaeccd34191] completion day is to be eligible on and after IP completion day.
+
+**11A.**[^key-1e4e9f7f83e7c90e87e4a47d45b611d2] A person with protected rights who—
+
+- (a) is the child of a Swiss national who is entitled to support in the United Kingdom by virtue of Article 18(2) of the Swiss citizens’ rights agreement;
+- (b) is ordinarily resident in Wales on the first day of the first academic year of the course;
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) in a case where the person’s ordinary residence referred to in sub-paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in sub-paragraph (c).
+
+#### 12. Children of Turkish workers
+
+A person who—
+
+- (a) is the child of a Turkish worker;
+- (b) is ordinarily resident in Wales on the first day of the first academic year of the course; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-b3e0970d661d9ba53abb1f8eba249240] the European Economic Area, Switzerland and Turkey throughout the three-year period preceding the first day of the first academic year of the course.
+
+**12A.**[^key-3f24ccfe832c2eea329c2fa3af28cf35] A person who—
+
+- (a) is the child of a Turkish worker (“T”) where T was ordinarily resident in the United Kingdom immediately before IP completion day;
+- (b) immediately before IP completion day—
+  - (i) was the child of T; and
+  - (ii) was ordinarily resident in the United Kingdom;
+- (c) is ordinarily resident in Wales on the first day of the first academic year of the course; and
+- (d) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey throughout the three-year period preceding the first day of the first academic year of the course.
+
+## SCHEDULE 2 — INFORMATION
+
+Regulations 15 and 19
+
+**1.** Every applicant and eligible student must, as soon as reasonably practicable after being requested to do so, provide the Welsh Ministers with such information as the Welsh Ministers consider the Welsh Ministers require for the purposes of these Regulations.
+
+**2.** Every applicant and eligible student must forthwith inform the Welsh Ministers and provide the Welsh Ministers with particulars if any of the following occurs—
+
+- (a) the applicant or student withdraws from, is suspended, abandons or is expelled from their course;
+- (b) the applicant or student transfers to any other course at the same or at a different institution;
+- (c) the applicant or student ceases to undertake their course and does not intend to or is not permitted to continue it for the remainder of the academic year;
+- (d) the applicant or student is absent from the course for more than 60 days due to illness or for any period for any other reason;
+- (e) the month for the start or completion of the course changes;
+- (f) the applicant or student's home or term-time address or telephone number changes;
+- (g) the applicant or student becomes, or ceases to be, a prisoner or eligible prisoner.
+
+**3.** Information provided to the Welsh Ministers under these Regulations must be in the format that the Welsh Ministers require and, if they require the information to be signed by the person providing it, an electronic signature in such form as the Welsh Ministers may specify satisfies such a requirement.
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for the making of loans to students who are ordinarily resident in Wales for postgraduate master's degree courses which begin on or after 1 August 2017.
+
+To qualify for a loan a student must be an “eligible student”. Broadly, a person is an eligible student if that person falls within one of the categories listed in Part 2 of Schedule 1 and also satisfies the eligibility provisions in Part 2 of the Regulations.
+
+These Regulations apply to students ordinarily resident in Wales wherever they study on a designated course in the United Kingdom. For the purposes of these Regulations a person who is ordinarily resident in Wales, England, Scotland, Northern Ireland, the Channel Islands or the Isle of Man as a result of having moved from one of those areas for the purpose of undertaking a designated course is considered ordinarily resident in the place from which that person has moved (Schedule 1, paragraph 1(3)). An eligible student must also satisfy any requirements elsewhere in the Regulations. A loan is only available under these Regulations in respect of “designated” courses.
+
+Part 2 deals with eligibility. Regulation 3 sets out who can be considered an eligible student for the purposes of a postgraduate master's degree loan. Regulation 4 sets out which courses are deemed designated courses for which an eligible student can receive a loan. Regulation 5 sets out when a student ceases to be considered an eligible student. Regulation 6 recognises that an eligible student may transfer to another course in certain circumstances. Regulations 7 and 8 set out the circumstances in which a student may qualify for a postgraduate master's degree loan after the designated course has started.
+
+Part 3 deals with the formalities of how an eligible student applies for a loan, including the application deadlines.
+
+Part 4 deals with the loan itself. Regulations 12 and 13 provide that the maximum loan amount an eligible student can receive is £10,280, other than in the case of an eligible prisoner, where the maximum amount is the value of the fees of the designated course. Regulation 13 gives the Welsh Ministers the power to pay any loan in instalments and provides that payments are made directly to the student's bank account, other than in the case of an eligible prisoner where the payment is made to the institution to which the prisoner is liable to make payment for the fees or to a third party. Regulation 14 gives the Welsh Ministers the power to make payment of the loan conditional upon the student providing them with a national insurance number. Regulation 15 enables the Welsh Ministers to cease further loan payments if they receive notice of a student's lack of attendance on the course, other than where they consider it appropriate to make such payments during the student's absence.
+
+Regulation 16 sets out how loan entitlement amounts change when an eligible student becomes an eligible prisoner and vice versa. Regulation 17 sets out how the Welsh Ministers can recover any overpayments of a postgraduate master's degree loan. Regulation 18 gives the Welsh Ministers the power to require a student to enter into a repayment agreement.
+
+Part 5 deals with information requirements.
+
+The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Higher Education Division, Welsh Government, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^c23304511]: Marginal citation: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); [section 22](https://www.legislation.gov.uk/wsi/2017/523/section/22) was amended by the [Learning and Skills Act 2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), [section 146](https://www.legislation.gov.uk/ukpga/2000/21/section/146) and Schedule 11, the [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [Schedule 6](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6), the [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [section 147](https://www.legislation.gov.uk/ukpga/2003/14/section/147), the [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [sections 42](https://www.legislation.gov.uk/ukpga/2004/8/section/42) and 43 and Schedule 7, the Apprenticeships, Skills, Children and Learning Act 2009 (c .22), section 257, the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [section 76](https://www.legislation.gov.uk/ukpga/2011/21/section/76) and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). *See* section 43(1) of the Teaching and Higher Education Act 1998 for the definition of “prescribed” and “regulations”.
+
+[^c23304521]: Marginal citation: The functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 (except so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5) of section 22) were transferred to the National Assembly for Wales by section 44 of the Higher Education Act 2004 and the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) Order 2005 ([S.I. 2005/1833](https://www.legislation.gov.uk/uksi/2005/1833) (W. 149) (C. 79)) as amended by the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) (Amendment) Order 2006 ([S.I. 2006/1660](https://www.legislation.gov.uk/uksi/2006/1660) (W. 159) (C. 56)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of paragraphs 30(1) and 30(2)(c) of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-9aa04fbc2f7810cd388c27ffd23af017]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/wsi/2017/523/regulation/1/4) inserted (27.5.2019) by [The Education (Student Support) (Postgraduate Master's Degrees) (Wales) Regulations 2019 (S.I. 2019/895)](https://www.legislation.gov.uk/wsi/2019/895), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2), [44](https://www.legislation.gov.uk/wsi/2019/895/regulation/44) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/wsi/2019/895/regulation/2/2))
+
+[^key-15b234949d50e1b8905aa458275ada7b]: Textual amendment: Words in reg. 2(1) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [92(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/92/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^c23304531]: Marginal citation: OJ No L158, 30.04.2004, p. 77-123.
+
+[^key-2f95a55bca209c0328f8d495501aefd0]: Textual amendment: Words in reg. 2(1) substituted (27.5.2019) by [The Education (Student Support) (Postgraduate Master's Degrees) (Wales) Regulations 2019 (S.I. 2019/895)](https://www.legislation.gov.uk/wsi/2019/895), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2), [45(a)](https://www.legislation.gov.uk/wsi/2019/895/regulation/45/a) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/wsi/2019/895/regulation/2/2))
+
+[^key-d70afa143bd0b01e5dbab4747f948c58]: Textual amendment: Words in reg. 2(1) omitted (6.5.2022) by virtue of [The Education (Postgraduate Student Support) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/403)](https://www.legislation.gov.uk/wsi/2022/403), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/403/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2022/403/regulation/4/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2022/403/regulation/2))
+
+[^c23304551]: Marginal citation: [1968 c. 46](https://www.legislation.gov.uk/ukpga/1968/46); [section 63](https://www.legislation.gov.uk/wsi/2017/523/section/63) was amended by the [National Health Service (Scotland) Act 1972 (c. 58)](https://www.legislation.gov.uk/ukpga/1972/58), [Schedule 7](https://www.legislation.gov.uk/ukpga/1972/58/schedule/7), the [National Health Service Reorganisation Act 1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), [Schedules 4](https://www.legislation.gov.uk/ukpga/1973/32/schedule/4) and 5, the [National Health Service Act 1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49), [Schedules 15](https://www.legislation.gov.uk/ukpga/1977/49/schedule/15) and 16, the [National Health Service (Scotland) Act 1978 (c. 29)](https://www.legislation.gov.uk/ukpga/1978/29), [Schedules 16](https://www.legislation.gov.uk/ukpga/1978/29/schedule/16) and 17, the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [Schedule 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17), the [Health and Medicines Act 1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), [section 20](https://www.legislation.gov.uk/ukpga/1988/49/section/20), [section 25(2)](https://www.legislation.gov.uk/ukpga/1988/49/section/25/2) and Schedule 3, the [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), [Schedule 13](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13), the [Health Authorities Act 1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17), [Schedule 1](https://www.legislation.gov.uk/ukpga/1995/17/schedule/1), the [Local Government Reorganisation (Wales) (Consequential Amendments No. 2) Order 1996 (S.I. 1996/1008)](https://www.legislation.gov.uk/uksi/1996/1008), the [National Health Service (Primary Care) Act 1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), [Schedule 2](https://www.legislation.gov.uk/ukpga/1997/46/schedule/2), the [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [Schedule 4](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4), the [Health and Social Care Act 2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), [Schedule 5](https://www.legislation.gov.uk/ukpga/2001/15/schedule/5), the [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [Schedules 2](https://www.legislation.gov.uk/ukpga/2002/17/schedule/2), [5](https://www.legislation.gov.uk/ukpga/2002/17/schedule/5) and 9, [S.I. 2002/2202](https://www.legislation.gov.uk/uksi/2002/2202), [article 4(a)](https://www.legislation.gov.uk/uksi/2002/2202/article/4/a) and (b), the [National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002 (S.I. 2002/2469)](https://www.legislation.gov.uk/uksi/2002/2469), [Schedule 1](https://www.legislation.gov.uk/uksi/2002/2469/schedule/1), the [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [Schedules 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/4), [11](https://www.legislation.gov.uk/ukpga/2003/43/schedule/11) and 14, the [Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) Order 2004 (S.I. 2004/288)](https://www.legislation.gov.uk/uksi/2004/288), [article 7](https://www.legislation.gov.uk/uksi/2004/288/article/7), the [Health and Social Care (Community Health and Standards) Act 2003 (Commencement No. 1) (Wales) Order 2004 (S.I. 2004/480)](https://www.legislation.gov.uk/uksi/2004/480); the [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [section 55](https://www.legislation.gov.uk/ukpga/2004/31/section/55); [S.I. 2004/957](https://www.legislation.gov.uk/uksi/2004/957), the Schedule; the [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [Schedule 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1), [S.I](https://www.legislation.gov.uk/ukpga/2006/43/section/I). 2007/961, the [Schedule, the Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [Schedule 1](https://www.legislation.gov.uk/ukpga/2009/21/schedule/1) and the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [Schedule 5](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5) and the [Social Services and Wellbeing (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/uksi/2016/413) (W. 131).
+
+[^c23304561]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
+
+[^key-655ab0715e054ea27f46b766c4da0576]: Textual amendment: Words in reg. 2(1) inserted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [51(a)](https://www.legislation.gov.uk/wsi/2018/814/regulation/51/a)
+
+[^key-64ebdeb97ca3bb6e50cb56d53c1f0b3a]: Textual amendment: Words in reg. 2(1) substituted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [51(b)](https://www.legislation.gov.uk/wsi/2018/814/regulation/51/b)
+
+[^key-1e8c1bb5199c974dfa46b950085a33f2]: Textual amendment: Words in reg. 2(1) omitted (28.1.2021) by virtue of [The Education (Student Fees, Awards and Support) (Ordinary Residence) (Wales) Regulations 2021 (S.I. 2021/9)](https://www.legislation.gov.uk/wsi/2021/9), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2), [36](https://www.legislation.gov.uk/wsi/2021/9/regulation/36)
+
+[^key-1a939449eee35e58fcb3d4e18f24854a]: Textual amendment: Words in reg. 2(1) inserted (9.9.2019) by [The Education (Student Finance) (Amendments to Student Eligibility) (Wales) Regulations 2019 (S.I. 2019/1192)](https://www.legislation.gov.uk/wsi/2019/1192), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/6/2/a)
+
+[^key-8f16ebd52d3e5941f82f3584c2d7ea86]: Textual amendment: Words in reg. 2(1) inserted (9.9.2019) by [The Education (Student Finance) (Amendments to Student Eligibility) (Wales) Regulations 2019 (S.I. 2019/1192)](https://www.legislation.gov.uk/wsi/2019/1192), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/wsi/2019/1192/regulation/6/2/b)
+
+[^c23304571]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by the [Asylum and Immigration (Treatement of Claimants, etc) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [Schedules 2](https://www.legislation.gov.uk/ukpga/2004/19/schedule/2) and 4, the [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [section 9](https://www.legislation.gov.uk/ukpga/2006/13/section/9), [S.I](https://www.legislation.gov.uk/ukpga/2006/13/section/I). 2010/21, [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [Schedule 9 Part 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/part/4), [S.I](https://www.legislation.gov.uk/ukpga/2014/22/section/I). 2011/2581, [S.I. 2014/2924](https://www.legislation.gov.uk/uksi/2014/2924) and [S.I. 2016/360](https://www.legislation.gov.uk/uksi/2016/360).
+
+[^key-a405fceaacf8678cc548c321ed5952bd]: Textual amendment: Reg. 2(1): words in definition renumbered as para. 1 (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [28(a)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/28/a)
+
+[^key-28393fdbc88b304d20e08ba8ae70fe49]: Textual amendment: Words in reg. 2(1) omitted (6.5.2022) by virtue of [The Education (Postgraduate Student Support) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/403)](https://www.legislation.gov.uk/wsi/2022/403), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/403/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2022/403/regulation/4/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2022/403/regulation/2))
+
+[^key-9024d1fc84ae16b1e4f30b7222efe5e1]: Textual amendment: Words in reg. 2(1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [28(b)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/28/b)
+
+[^key-7b1840d6b6d4f8f55dca7eecf36fec7e]: Textual amendment: Words in reg. 2(1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [28(c)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/28/c)
+
+[^key-89a04d9cf4df9a742e85e8b70d1f9943]: Textual amendment: Words in reg. 2(1) inserted (27.5.2019) by [The Education (Student Support) (Postgraduate Master's Degrees) (Wales) Regulations 2019 (S.I. 2019/895)](https://www.legislation.gov.uk/wsi/2019/895), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2), [45(b)](https://www.legislation.gov.uk/wsi/2019/895/regulation/45/b) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/wsi/2019/895/regulation/2/2))
+
+[^c23304581]: Marginal citation: Cmnd. 9171.
+
+[^c23304591]: Marginal citation: Cmnd. 3906 (out of print).
+
+[^key-884820e29f10032fd7b39f201fb7b959]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [25](https://www.legislation.gov.uk/wsi/2020/1302/regulation/25)
+
+[^c23304601]: Marginal citation: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6); repealed by the [Teaching and Higher Education Act 1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), [Schedule 4](https://www.legislation.gov.uk/ukpga/1998/30/schedule/4), with savings *see* the [Teaching and Higher Education Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998 (S.I. 1998/2004)](https://www.legislation.gov.uk/uksi/1998/2004) (C. 46).
+
+[^c23304611]: Marginal citation: [S.I. 1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506), amended by [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274), [Article 43](https://www.legislation.gov.uk/nisi/1996/274/article/43) and Schedule 5 Part II, [S.I. 1996/1918 (N.I. 15)](https://www.legislation.gov.uk/nisi/1996/1918), [Article 3](https://www.legislation.gov.uk/nisi/1996/1918/article/3) and the Schedule and [S.I. 1998/258 (N.I. 1)](https://www.legislation.gov.uk/nisi/1998/258), [Articles 3 to 6](https://www.legislation.gov.uk/nisi/1998/258/article/3) and revoked, with savings, by SR (N.I.) [1998 No. 306](https://www.legislation.gov.uk/ukcm/1998/306).
+
+[^c23304621]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^c23304631]: Marginal citation: [S.I.1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760) to which there have been amendments not relevant to these Regulations.
+
+[^c23304641]: Marginal citation: [S.I. 2017/47](https://www.legislation.gov.uk/uksi/2017/47) (W. 21).
+
+[^key-4c691ecdb44dda51f8d93cfdd62f3dec]: Textual amendment: Reg. 2(3) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [92(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/92/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-a08813074edd427da099690822f23794]: Textual amendment: Reg. 3(2)(2A) substituted for reg. 3(2) (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [93(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/93/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-75acdc5681cd82b5d597efda0499b367]: Textual amendment: Word in reg. 3(2)(a) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [31](https://www.legislation.gov.uk/wsi/2021/1365/regulation/31)
+
+[^c23304651]: Marginal citation: [S.S.I. 2007/151](https://www.legislation.gov.uk/ssi/2007/151), as amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503), [S.S.I. 2008/206](https://www.legislation.gov.uk/ssi/2008/206), S.S.I 2009/188, [S.S.I. 2009/309](https://www.legislation.gov.uk/ssi/2009/309), [S.S.I. 2012/72](https://www.legislation.gov.uk/ssi/2012/72), [S.S.I. 2013/80](https://www.legislation.gov.uk/ssi/2013/80) and [S.S.I. 2016/82](https://www.legislation.gov.uk/ssi/2016/82).
+
+[^key-9f5b51d33677507891a1f426192a12ae]: Textual amendment: Words in reg. 3(3)(j)(iii) inserted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 42(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/42/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^c23304671]: Marginal citation: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2). This provision is not yet in force.
+
+[^key-8affec3bfe9c7c6eeacf8a53ae91ae73]: Textual amendment: Words in reg. 3(3)(k) inserted (28.7.2017) by [The Education (Postgraduate Master’s Degree Loans) (Wales) (Amendment) Regulations 2017 (S.I. 2017/712)](https://www.legislation.gov.uk/wsi/2017/712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/712/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2017/712/regulation/3/a)
+
+[^key-64bb8b0c2ff03a67fdda7451e8c204f6]: Textual amendment: Reg. 3(8) substituted (28.7.2017) by [The Education (Postgraduate Master’s Degree Loans) (Wales) (Amendment) Regulations 2017 (S.I. 2017/712)](https://www.legislation.gov.uk/wsi/2017/712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/712/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2017/712/regulation/3/b)
+
+[^key-b8c564bab4de14413176a08fadedfb66]: Textual amendment: Reg. 3(10) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [93(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/93/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-28c85a25ab7a4c0f33f3c7d153c2918c]: Textual amendment: Words in reg. 3(10)(a)(i) substituted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [29](https://www.legislation.gov.uk/wsi/2021/1365/regulation/29)
+
+[^key-4249d96e2f7351d76ae354ccef649f2f]: Textual amendment: Word in reg. 3(10)(a)(i) omitted (6.5.2022) by virtue of [The Education (Postgraduate Student Support) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/403)](https://www.legislation.gov.uk/wsi/2022/403), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/403/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2022/403/regulation/5/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2022/403/regulation/2))
+
+[^key-38c531e74f3441fe765bb3cb38f23257]: Textual amendment: Words in reg. 3(10)(a)(ii) omitted (6.5.2022) by virtue of [The Education (Postgraduate Student Support) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/403)](https://www.legislation.gov.uk/wsi/2022/403), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/403/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2022/403/regulation/5/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2022/403/regulation/2))
+
+[^key-2bd76900ccea2e9ab7f0379734dd9ff6]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/wsi/2017/523/regulation/4/1/b) substituted (27.5.2019) by [The Education (Student Support) (Postgraduate Master's Degrees) (Wales) Regulations 2019 (S.I. 2019/895)](https://www.legislation.gov.uk/wsi/2019/895), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2), [46(a)](https://www.legislation.gov.uk/wsi/2019/895/regulation/46/a) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/wsi/2019/895/regulation/2/2))
+
+[^c23304681]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40); [section 214(2)](https://www.legislation.gov.uk/wsi/2017/523/section/214/2) was amended by the [Further and Higher Education Act 1992 (c.13)](https://www.legislation.gov.uk/ukpga/1992/13), [section 93](https://www.legislation.gov.uk/ukpga/1992/13/section/93) and Schedule 8.
+
+[^key-766cc69d789409834c5c500c97f9bde7]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/wsi/2017/523/regulation/4/2) substituted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Education (Postgraduate Master's Degree Loans) (Wales) (Amendment) Regulations 2018 (S.I. 2018/277)](https://www.legislation.gov.uk/wsi/2018/277), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/277/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2018/277/regulation/3)
+
+[^key-5582703aaeaaf818027fc34af91ae6bf]: Textual amendment: [Reg. 4(3)(d)](https://www.legislation.gov.uk/wsi/2017/523/regulation/4/3/d) substituted (27.5.2019) by [The Education (Student Support) (Postgraduate Master's Degrees) (Wales) Regulations 2019 (S.I. 2019/895)](https://www.legislation.gov.uk/wsi/2019/895), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2), [46(b)](https://www.legislation.gov.uk/wsi/2019/895/regulation/46/b) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/wsi/2019/895/regulation/2/2))
+
+[^c23304701]: Marginal citation: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30).
+
+[^key-9f263986aa4e1945331df99556590b94]: Textual amendment: Reg. 8(b) substituted (28.1.2021) by [The Education (Student Fees, Awards and Support) (Ordinary Residence) (Wales) Regulations 2021 (S.I. 2021/9)](https://www.legislation.gov.uk/wsi/2021/9), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2), [37](https://www.legislation.gov.uk/wsi/2021/9/regulation/37)
+
+[^key-7c2eea75645b214c799d3a33a5d7112e]: Textual amendment: Reg. 8(ba) inserted (27.5.2019) by [The Education (Student Support) (Postgraduate Master's Degrees) (Wales) Regulations 2019 (S.I. 2019/895)](https://www.legislation.gov.uk/wsi/2019/895), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2), [47](https://www.legislation.gov.uk/wsi/2019/895/regulation/47) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/wsi/2019/895/regulation/2/2))
+
+[^key-4c6eca74f4f1ec3e821326fc3966e4c3]: Textual amendment: Words in reg. 8(ba) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [94(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/94/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-9f6848561a8863f41976a7e277354e15]: Textual amendment: Reg. 8(bb) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [94(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/94/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-d152da4038accde46ac649cbda41b82d]: Textual amendment: Reg. 8(c) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [94(c)](https://www.legislation.gov.uk/wsi/2021/481/regulation/94/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-e7e23f5b02edc5c2a07a0ba07a01ea37]: Textual amendment: Reg. 8(d) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [94(d)](https://www.legislation.gov.uk/wsi/2021/481/regulation/94/d) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-8a2c87880e922183c99e34bc95c61fa8]: Textual amendment: Reg. 8(e) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [26(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/26/b)
+
+[^key-b6dc8b312c5a6f148fa58c581d8bd469]: Textual amendment: Word in reg. 8(e) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [94(e)](https://www.legislation.gov.uk/wsi/2021/481/regulation/94/e) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-cc399575b1b8baaabd124b98491acd91]: Textual amendment: Reg. 8(f) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [94(f)](https://www.legislation.gov.uk/wsi/2021/481/regulation/94/f) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-50f5355021e19c5263bcecb3ddbabaec]: Textual amendment: Word in reg. 8(g) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [94(g)](https://www.legislation.gov.uk/wsi/2021/481/regulation/94/g) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-136f50b9954926fc77959d281b675606]: Textual amendment: Reg. 8(h) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [94(h)](https://www.legislation.gov.uk/wsi/2021/481/regulation/94/h) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-fdde87aafa9453ca64f2742a9ad48691]: Textual amendment: Sum in [reg. 12](https://www.legislation.gov.uk/wsi/2017/523/regulation/12) substituted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Education (Postgraduate Master's Degree Loans) (Wales) (Amendment) Regulations 2018 (S.I. 2018/277)](https://www.legislation.gov.uk/wsi/2018/277), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/277/regulation/1/3), [4](https://www.legislation.gov.uk/wsi/2018/277/regulation/4)
+
+[^key-29f732a0128d3ad3ebb0564bb4ee7790]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/wsi/2017/523/regulation/14/3) omitted (28.7.2017) by virtue of [The Education (Postgraduate Master’s Degree Loans) (Wales) (Amendment) Regulations 2017 (S.I. 2017/712)](https://www.legislation.gov.uk/wsi/2017/712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/712/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2017/712/regulation/4)
+
+[^key-ae61aa545399a297114f346ba288ecbf]: Textual amendment: Words in Sch. 1 para. 1(1) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(2)(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/2/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-7804bc042bfc637f64c67159c77e20cb]: Textual amendment: Words in Sch. 1 para. 1(1) omitted (31.12.2020) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/2/a/i)
+
+[^key-1077bbce29a4fb5fdb75216174dd4e99]: Textual amendment: Words in Sch. 1 para. 1(1) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(2)(b)(i)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/2/b/i) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-9120d4e9b66c8ab802fa986bf802b55c]: Textual amendment: Words in Sch. 1 para. 1(1) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/2/b/ii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-eebfe7429739ba10ce4fa7f168f18810]: Textual amendment: Words in Sch. 1 para. 1(1) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/2/b/iii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-217cea462507d06091956b9725b86ba2]: Textual amendment: Words in Sch. 1 para. 1(1) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/2/b/iv) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^c23304711]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); [section 33(2A)](https://www.legislation.gov.uk/wsi/2017/523/section/33/2A) was inserted by paragraph 7 of Schedule 4 to the [British Nationality Act 1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^c23304721]: Marginal citation: Cm. 4904 and OJ No L114, 30.04.02, p. 6.
+
+[^key-6a3ed9ff1b194b52ac8b4a5d3e527c4b]: Textual amendment: Words in Sch. 1 para. 1(1) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(2)(c)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/2/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-9f902b2e9bd774daa3b1091caa0eeb73]: Textual amendment: Sch. 1 para. 1(1A) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(3)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/3) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-64e43222440ea8e00347c6e081aa13af]: Textual amendment: Words in Sch. 1 para. 1(4) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(4)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-f7ae4f23a4b11b1cf4134890639b7a58]: Textual amendment: Words in Sch. 1 para. 1(4) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(2)(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/2/b)
+
+[^key-2b007837d3c0de926938336697a92097]: Textual amendment: Words in Sch. 1 para. 1(5) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(5)(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/5/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-29b745035cce0e9416a63b0bdc9c2a73]: Textual amendment: Words in Sch. 1 para. 1(5) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(2)(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/2/b)
+
+[^key-d564800caa1bbc75dcb7317e2b047c65]: Textual amendment: Word in Sch. 1 para. 1(5) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(5)(b)(i)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/5/b/i) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-8ecbcf7bb1ff6292a004008a8dadbd94]: Textual amendment: Sch. 1 para. 1(5)(aa) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [95(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2021/481/regulation/95/5/b/ii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-b3041ccb8e21bffe7502dc82fd38b179]: Textual amendment: Words in Sch. 1 para. 1(6) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(2)(c)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/2/c)
+
+[^key-ca62f0d94696453ac96fe7b6d887cd62]: Textual amendment: Sch. 1 para. 2(1)(a) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [96](https://www.legislation.gov.uk/wsi/2021/481/regulation/96) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-0c447fae403ced4594dc2a10ee8b0983]: Textual amendment: Sch. 1 para. 2A inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [97](https://www.legislation.gov.uk/wsi/2021/481/regulation/97) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-b84af66660bb933244fbadee2dc694e2]: Textual amendment: Words in Sch. 1 para. 2A(1)(a) substituted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [30(a)(i)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/30/a/i)
+
+[^key-df99f0bd0abc44b2808194d7ced8a8ec]: Textual amendment: Words in Sch. 1 para. 2A(1)(c) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [30(a)(ii)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/30/a/ii)
+
+[^key-e2a48e7bea00d12d346b4544aea16b1a]: Textual amendment: Word in Sch. 1 para. 2A(1)(c) omitted (31.12.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [30(a)(ii)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/30/a/ii)
+
+[^M_F_9f79e197-4bfb-4c21-f46d-98fb362c2cf8]: Textual amendment: Word in Sch. 1 para. 2A(1)(d) inserted (31.12.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [30(a)(ii)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/30/a/ii)
+
+[^key-413cc827dba406c62c0bca3a43fef0c8]: Textual amendment: Sch. 1 para. 2A(1)(e) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [30(a)(iii)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/30/a/iii)
+
+[^key-b4f047df6495b05ef6e1e8b6e62accef]: Textual amendment: Sch. 1 para. 3 renumbered as Sch. 1 para. 3(1) (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [98(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/98/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-6f8d104a8e8aada353e2f97bb8b3c16a]: Textual amendment: Sch. 1 para. 3(1)(a) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [98(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/98/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-6a0266ebe733075cbd9b89a957eaf1fa]: Textual amendment: Sch. 1 para. 3(1)(a)(iii) omitted (6.5.2022) by virtue of [The Education (Postgraduate Student Support) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/403)](https://www.legislation.gov.uk/wsi/2022/403), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/403/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2022/403/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/wsi/2022/403/regulation/2))
+
+[^key-226a1fd672262b56c86b33c94be69199]: Textual amendment: Words in Sch. 1 para. 3(1)(a)(iv)(bb) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [30(b)(i)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/30/b/i)
+
+[^key-c02689e07d26355ff0cbfad22e35c6a4]: Textual amendment: Words in Sch. 1 para. 3(1)(a)(iv)(cc) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [30(b)(ii)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/30/b/ii)
+
+[^key-b380aaf7793ecb56b188f530a8cb9090]: Textual amendment: Words in Sch. 1 para. 3(d) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/a/ii)
+
+[^key-85cfaaaa1cf96af7e004da1b055a17b3]: Textual amendment: Sch. 1 para. 3(2) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [98(c)](https://www.legislation.gov.uk/wsi/2021/481/regulation/98/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-72bc08de4e1bfe39b5431a479e1b71aa]: Textual amendment: Sch. 1 para. 3(3) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [30(b)(iii)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/30/b/iii)
+
+[^key-5fd2d6a5c92dd2bbfa25aebe70821741]: Textual amendment: Sch. 1 para. 4ZA and cross-heading substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [99](https://www.legislation.gov.uk/wsi/2021/481/regulation/99) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-251d60712b5872c228d044a013c7a034]: Textual amendment: Sch. 1 para. 4ZB and cross-heading inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [100](https://www.legislation.gov.uk/wsi/2021/481/regulation/100) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-45e4bf989c2b91ed1f60d11465ffe1f3]: Textual amendment: Sch. 1 para. 4A omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [101](https://www.legislation.gov.uk/wsi/2021/481/regulation/101) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-211ca596cfe799b7cea7ef991f369d97]: Textual amendment: Sch. 1 para. 5(2)(b) substituted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [53(b)(i)](https://www.legislation.gov.uk/wsi/2018/814/regulation/53/b/i)
+
+[^key-1f54f736bf85531842743024fde15921]: Textual amendment: Sch. 1 para. 5(3)(b) substituted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [53(b)(ii)](https://www.legislation.gov.uk/wsi/2018/814/regulation/53/b/ii)
+
+[^key-f499ffaa3a9d3572a14498a739f1e107]: Textual amendment: Sch. 1 para. 5(3)(c) substituted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [53(b)(iii)](https://www.legislation.gov.uk/wsi/2018/814/regulation/53/b/iii)
+
+[^key-72601079f9ecb7af43dc5b5246534b36]: Textual amendment: Sch. 1 para. 5(4) inserted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [53(b)(iv)](https://www.legislation.gov.uk/wsi/2018/814/regulation/53/b/iv)
+
+[^key-4ff3c8b8088dea248eee924a31aefcf9]: Textual amendment: Sch. 1 para. 5A omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [101](https://www.legislation.gov.uk/wsi/2021/481/regulation/101) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-bfa600e109fad0583f80116642a5cd3b]: Textual amendment: Words in Sch. 1 para. 6(1)(c) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/b)
+
+[^key-f54f146754c02fb02a20c92adfa37d89]: Textual amendment: Sch. 1 para. 6A inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [102](https://www.legislation.gov.uk/wsi/2021/481/regulation/102) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-ddd2a7aebc49296009980f7f5bccf1e3]: Textual amendment: Sch. 1 para. 7 renumbered as Sch. 1 para. 7(1) (31.12.2020) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/uksi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1302/regulation/1/3), [27(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1302/regulation/27/3/c/i)
+
+[^key-475891bb506587ad497277f0801a2bf3]: Textual amendment: Words in Sch. 1 para. 7(1)(b) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/c/ii)
+
+[^key-cf474961b8a46b5a011335482af7baa9]: Textual amendment: Words in Sch. 1 para. 7(1)(c) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [103(a)(i)](https://www.legislation.gov.uk/wsi/2021/481/regulation/103/a/i) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-33d87623ee5ee9b620e01a839fa4895e]: Textual amendment: Sch. 1 para. 7(1)(d) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [103(a)(ii)](https://www.legislation.gov.uk/wsi/2021/481/regulation/103/a/ii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-91c3e5529a74ed0f91daf9128929c9d5]: Textual amendment: Sch. 1 para. 7(2) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(c)(iii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/c/iii)
+
+[^key-d06dc80f6b5dc276de7606174e6299cb]: Textual amendment: Word in Sch. 1 para. 7(2) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [103(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/103/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-e04e928389bb175f96e592e591cd8aa4]: Textual amendment: Sch. 1 para. 7A inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [104](https://www.legislation.gov.uk/wsi/2021/481/regulation/104) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-94fb9ed22763aae7953baadd33ebe486]: Textual amendment: Words in Sch. 1 para. 8(1)(b) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(d)(i)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/d/i)
+
+[^key-316fced44679eb3f031d84133e0ee86c]: Textual amendment: Word in Sch. 1 para. 8(1)(b) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [105](https://www.legislation.gov.uk/wsi/2021/481/regulation/105) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-e6c61d7ae816746727f050e54230bd21]: Textual amendment: Words in Sch. 1 para. 8(1)(d) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(d)(ii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/d/ii)
+
+[^key-ca8c588e44667a4856481085c84b333d]: Textual amendment: Words in Sch. 1 para. 8(1)(e) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(d)(ii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/d/ii)
+
+[^key-a79b26a1b16c368f674d7925af1f7d40]: Textual amendment: Words in Sch. 1 para. 8(2) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(d)(iii)(aa)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/d/iii/aa)
+
+[^key-a07b964103cf6b275294d5ccba0aed9e]: Textual amendment: Words in Sch. 1 para. 8(2) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(d)(iii)(bb)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/d/iii/bb)
+
+[^key-d8c36e18d271d62fc2b1ec21c194d160]: Textual amendment: Sch. 1 para. 8(3) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(d)(iv)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/d/iv)
+
+[^key-d3d3de2d80944c1ba190d186f4be08dd]: Textual amendment: Sch. 1 para. 8A inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [106](https://www.legislation.gov.uk/wsi/2021/481/regulation/106) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-d175fdd015696bfdee7f7dde709d3988]: Textual amendment: Word in Sch. 1 para. 9 cross-heading inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [107(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/107/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-485b916aa4241b8c2f6d2fce41c7a8cc]: Textual amendment: Word in Sch. 1 para. 9(1) omitted (28.7.2017) by virtue of [The Education (Postgraduate Master’s Degree Loans) (Wales) (Amendment) Regulations 2017 (S.I. 2017/712)](https://www.legislation.gov.uk/wsi/2017/712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/712/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2017/712/regulation/5/a)
+
+[^key-2c13122687976170d9b495552b449f67]: Textual amendment: Sch. 1 para. 9(1)(a) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(e)(i)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/e/i)
+
+[^key-858a51ea96b6692ac3c09ff2ab51bc6a]: Textual amendment: Word in Sch. 1 para. 9(1)(b) inserted (28.7.2017) by [The Education (Postgraduate Master’s Degree Loans) (Wales) (Amendment) Regulations 2017 (S.I. 2017/712)](https://www.legislation.gov.uk/wsi/2017/712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/712/regulation/1/2), [5(d)](https://www.legislation.gov.uk/wsi/2017/712/regulation/5/d)
+
+[^key-23623d4e231b46f1ad99a4c64cf1d23b]: Textual amendment: Word in Sch. 1 para. 9(1)(b) omitted (28.7.2017) by virtue of [The Education (Postgraduate Master’s Degree Loans) (Wales) (Amendment) Regulations 2017 (S.I. 2017/712)](https://www.legislation.gov.uk/wsi/2017/712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/712/regulation/1/2), [5(e)](https://www.legislation.gov.uk/wsi/2017/712/regulation/5/e)
+
+[^key-c76fc52c9063eda4feed4590fbfab179]: Textual amendment: Word in Sch. 1 para. 9(1)(c) inserted (28.7.2017) by [The Education (Postgraduate Master’s Degree Loans) (Wales) (Amendment) Regulations 2017 (S.I. 2017/712)](https://www.legislation.gov.uk/wsi/2017/712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/712/regulation/1/2), [5(f)](https://www.legislation.gov.uk/wsi/2017/712/regulation/5/f)
+
+[^key-09b1ca1e4b546a66bc0affc7f94cf680]: Textual amendment: Words in Sch. 1 para. 9(1)(c) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(e)(ii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/e/ii)
+
+[^key-0bb7af042b0c8b319ee12b98d1efe950]: Textual amendment: Words in Sch. 1 para. 9(1)(d) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(e)(ii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/e/ii)
+
+[^key-272ce4876e8798ac059f3d2dfefd73e6]: Textual amendment: Words in Sch. 1 para. 9(2) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(e)(ii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/e/ii)
+
+[^key-e8d33a8df2f5ee41d9f7a3ce99c0bbce]: Textual amendment: Words in Sch. 1 para. 9(4) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(e)(iii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/e/iii)
+
+[^key-8a9a693215aeaf9570c3af046420ad52]: Textual amendment: Sch. 1 para. 9(5) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(e)(iv)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/e/iv)
+
+[^key-e922f151ca8ed84204aca307cdb974aa]: Textual amendment: Word in Sch. 1 para. 9(5) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [107(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/107/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-2b3def19d72db8aa7c63d2132bce0af7]: Textual amendment: Sch. 1 paras. 9A-9D and cross-headings inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [108](https://www.legislation.gov.uk/wsi/2021/481/regulation/108) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-b8aa63b8f4c9cea71431c446197d9065]: Textual amendment: Sch. 1 para. 9BA and cross-heading inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [32](https://www.legislation.gov.uk/wsi/2021/1365/regulation/32)
+
+[^key-1ea32790417d0ca266edf6a79c34e13c]: Textual amendment: Word in Sch. 1 para. 9C(1)(d) omitted (31.12.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [30(c)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/30/c)
+
+[^key-3fcc1b1b682f614a3ea74bac181774bf]: Textual amendment: Sch. 1 para. 9C(1)(e) and word inserted (31.12.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [30(c)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/30/c)
+
+[^key-4c4b25869cf3ff5100f1438172506203]: Textual amendment: Sch. 1 para. 10 cross-heading inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [109](https://www.legislation.gov.uk/wsi/2021/481/regulation/109) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-2de73e145aa58d1d0dcdefd7ebe6be5c]: Textual amendment: Words in Sch. 1 para. 10(1)(a) omitted (31.12.2020) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(f)(i)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/f/i)
+
+[^key-1a921910b76c9d4b039cd9775720e618]: Textual amendment: Words in Sch. 1 para. 10(1)(d) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(f)(ii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/f/ii)
+
+[^key-94efc50e3b080fc98cc161c2d1875be1]: Textual amendment: Words in Sch. 1 para. 10(2) omitted (31.12.2020) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(f)(iii)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/f/iii)
+
+[^key-d8e7f112c46bc73b0a1a9f55bbf7c706]: Textual amendment: Sch. 1 para. 10A inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [110](https://www.legislation.gov.uk/wsi/2021/481/regulation/110) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-7be26f438ea1f519683dfa17073f6ee7]: Textual amendment: Sch. 1 para. 11 substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(g)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/g)
+
+[^key-352c1b6f3d3aa0f1c40cafaeccd34191]: Textual amendment: Word in Sch. 1 para. 11(2) substituted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [111](https://www.legislation.gov.uk/wsi/2021/481/regulation/111) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-1e4e9f7f83e7c90e87e4a47d45b611d2]: Textual amendment: Sch. 1 para. 11A inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [112](https://www.legislation.gov.uk/wsi/2021/481/regulation/112) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+
+[^key-b3e0970d661d9ba53abb1f8eba249240]: Textual amendment: Words in Sch. 1 para. 12(c) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [27(3)(h)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/27/3/h)
+
+[^key-3f24ccfe832c2eea329c2fa3af28cf35]: Textual amendment: Sch. 1 para. 12A inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [113](https://www.legislation.gov.uk/wsi/2021/481/regulation/113) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))

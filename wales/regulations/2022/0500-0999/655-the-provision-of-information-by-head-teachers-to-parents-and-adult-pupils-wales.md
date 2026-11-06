@@ -1,0 +1,502 @@
+---
+title: The Provision of Information by Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022
+id: wsi/2022/655
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-06-15'
+text_date: '2024-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2022/655
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2022/655/pdfs/wsi_20220655_mi.pdf
+- http://www.legislation.gov.uk/wsi/2022/655/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Provision of Information by Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022
+
+> Text as at 2024-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2022 No. 655 (W. 145)
+
+Education, Wales
+
+The Provision of Information by Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022
+
+Made
+
+15 June 2022
+
+Laid before Senedd Cymru
+
+17 June 2022
+
+Coming into force in accordance with regulation 1(2) to (8)
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 408(1)[^f00001] and 569(4) and (5)[^f00002] of, and paragraph 3 of Schedule 1[^f00003] to, the Education Act 1996[^f00004], make the following Regulations.
+
+In accordance with section 408(5) of that Act, the Welsh Ministers have consulted with such persons as they consider desirable.
+
+## 1. Title, commencement and application[^key-7b193413a099d654d65ff5174bad7198]
+
+(1) The title of these Regulations is the Provision of Information by Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022.
+
+(2) These Regulations come into force on 1 September 2022—
+
+- (a) for pupils in a nursery class[^f00005] at a maintained school[^f00006];
+- (b) for pupils in their reception year[^f00007] at a maintained school;
+- (c) for pupils[^f00008] in years 1, 2, 3, 4, 5 and 6[^f00009] at a maintained school[^f00010];
+- (d) for pupils in year 7 at a maintained school where the head teacher and governing body have adopted a relevant curriculum under Part 2 of the 2021 Act[^f00011];
+- (e) for pupils in years 1, 2, 3, 4, 5 and 6 at a pupil referral unit[^f00012];
+- (f) for pupils in year 7 at a pupil referral unit where the local authority, the management committee (if any) and the teacher in charge have a curriculum for that unit which meets the requirements of section 50 of the 2021 Act.
+
+(3) These Regulations come into force on 1 September 2023—
+
+- (a) for pupils in years 7 and 8 at a maintained school;
+- (b) for pupils in years 7 and 8 at a pupil referral unit.
+
+(4) These Regulations come into force on 1 September 2024—
+
+- (a) for pupils in year 9 at a maintained school;
+- (b) for pupils in year 9 at a pupil referral unit.
+
+(5) These Regulations come into force on 1 September 2025—
+
+- (a) for pupils in year 10 at a maintained school;
+- (b) for pupils in year 10 at a pupil referral unit.
+
+(6) These Regulations come into force on 1 September 2026—
+
+- (a) for pupils in year 11 at a maintained school;
+- (b) for pupils in year 11 at a pupil referral unit.
+
+(7) These Regulations come into force on 1 September 2027 for pupils in year 12 at a maintained school.
+
+(8) These Regulations come into force on 1 September 2028 for pupils in year 13 at a maintained school.
+
+(9) These Regulations apply in relation to Wales.
+
+## 2. Interpretation[^key-ee737b727bd69727009ea156d2f14bbc]
+
+(1) In these Regulations—
+
+- “**the 1996 Act**” (“***Deddf 1996***”) means the Education Act 1996;
+- “**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021[^f00013];
+- “**adult pupil**” (“***disgybl sy’n oedolyn***”) means a pupil aged 18 or over at the time the information referred to in regulation 4 or regulation 5 is made available and who is not proposing to leave the school by the end of the school year;
+- “**approved relevant qualification**” (“***cymhwyster perthnasol a gymeradwywyd***”) is a qualification within the meaning of section 56 of the Qualifications Wales Act 2015[^f00014];
+- “**attendance record**” (“***cofnod presenoldeb***”) means the record of a pupil’s school attendance contained in the attendance register kept in accordance with section 434 of the 1996 Act[^f00015] and the Education (Pupil Registration) (Wales) Regulations 2010[^f00016];
+- “**compulsory school age**” (“***oedran ysgol gorfodol***”) has the meaning given to it in section 8 of the 1996 Act[^f00017];
+- “**education welfare officer**” (“***swyddog lles addysg***”) means any person who is employed by a local authority, and whose duties include securing the regular attendance at school of pupils of compulsory school age;
+- “**local authority**” (“***awdurdod lleol***”) means the local authority that maintains the school;
+- “**maintained school**” (“***ysgol a gynhelir***”) means a—
+  - (a) community, foundation or voluntary school,
+  - (b) community or foundation special school (other than one established in a hospital),
+  - (c) maintained nursery school, and
+  - (d) pupil referral unit;
+- “**nursery year**” (“***blwyddyn meithrin***”) means a year group in which the majority of pupils attain the age of 4;
+- “**parent**” (“***rhiant***”) has the meaning given to it in section 576 of the 1996 Act;
+- “**pupil referral unit (PRU)**” (“*uned cyfeirio disgyblion (UCD)*” has the meaning given to it in section 81(1) of the 2021 Act;
+- “**pupil**” (“***disgybl***”) has the meaning given to it in section 3 of the 1996 Act[^f00018];
+- “**registered pupil**” (“***disgybl cofrestredig***”) has the meaning given to it in section 434(5) of the 1996 Act;
+- “**reception year**” (“***blwyddyn derbyn***”) means a year group in which the majority of pupils attain the age of 5;
+- “**relevant curriculum**” (“***cwricwlwm perthnasol***”) has the meaning given to it—
+  - (a) in section 56(5)(a) of the 2021 Act in relation to a maintained school; and
+  - (b) in section 56(5)(c) of the 2021 Act in relation to a PRU;
+- “**school day**” (“***diwrnod ysgol***”) has the meaning given to it in section 579(1) of the 1996 Act;
+- “**school term**” (“***tymor ysgol***”) means the dates on which the school terms and holidays are to begin and end;
+- “**school year**” (“***blwyddyn ysgol***”) has the meaning given to it in section 579(1) of the 1996 Act;
+- “**unit or credit**” (“***uned neu gredyd***”), in relation to a qualification, means a module or part of a course leading to that qualification which, when successfully completed, can be counted together with other modules or parts towards obtaining that qualification;
+- “**year 1**” (“***blwyddyn 1***”) means a year group in which the majority of pupils attain the age of 6;
+- “**year 2**” (“***blwyddyn 2***”) means a year group in which the majority of pupils attain the age of 7;
+- “**year 3**” (“***blwyddyn 3***”) means a year group in which the majority of pupils attain the age of 8;
+- “**year 4**” (“***blwyddyn 4***”) means a year group in which the majority of pupils attain the age of 9;
+- “**year 5**” (“***blwyddyn 5***”) means a year group in which the majority of pupils attain the age of 10;
+- “**year 6**” (“***blwyddyn 6***”) means a year group in which the majority of pupils attain the age of 11;
+- “**year 7**” (“***blwyddyn 7***”) means a year group in which the majority of pupils attain the age of 12;
+- “**year 8**” (“***blwyddyn 8***”) means a year group in which the majority of pupils attain the age of 13;
+- “**year 9**” (“***blwyddyn 9***”) means a year group in which the majority of pupils attain the age of 14;
+- “**year 10**” (“***blwyddyn 10***”) means a year group in which the majority of pupils attain the age of 15;
+- “**year 11**” (“***blwyddyn 11***”) means a year group in which the majority of pupils attain the age of 16;
+- “**year 12**” (“***blwyddyn 12***”) means a year group in which the majority of pupils attain the age of 17;
+- “**year 13**” (“***blwyddyn 13***”) means a year group in which the majority of pupils attain the age of 18.
+
+(2) In these Regulations any reference in relation to a PRU to—
+
+- (a) a head teacher is a reference to a teacher in charge of a PRU, or
+- (b) a governing body is a reference to management committee (if there is one) and to a teacher in charge of a PRU if there is no management committee.
+
+## 3. Disapplication and revocation of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^key-758f9de111a349fa266bc8322f7687eb]
+
+(1) The Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^f00019] (“**the 2011 Regulations**”) are disapplied as follows.
+
+(2) The 2011 Regulations do not apply—
+
+- (a) from the school year 2022 to 2023 to children and pupils in—
+  - (i) the nursery year,
+  - (ii) the reception year,
+  - (iii) year 1, year 2, year 3, year 4, year 5 and year 6, and
+  - (iv) year 7 where they are provided with a relevant curriculum in accordance with the 2021 Act,
+- (b) from the school year 2023 to 2024 to pupils in year 7 and year 8,
+- (c) from the school year 2024 to 2025 to pupils in year 9,
+- (d) from the school year 2025 to 2026 to pupils in year 10,
+- (e) from the school year 2026 to 2027 to pupils in year 11,
+- (f) from the school year 2027 to 2028 to pupils in year 12, and
+- (g) from the school year 2028 to 2029 to pupils in year 13.
+
+(3) The Regulations in Schedule 1 to these Regulations are revoked from 1 September 2028.
+
+## 4. Requirement to provide information: Termly progress[^key-2c12c6164725c116283fb197a05696e2]
+
+(1) The head teacher of every maintained school must make arrangements for providing the information in Part 1 of Schedule 2 (“the termly information”).
+
+(2) The termly information must be provided before the end of each school term.
+
+(3) The termly information must be made available to—
+
+- (a) each adult pupil,
+- (b) the parent of each adult pupil (if the head teacher considers there to be special circumstances which make it appropriate), or
+- (c) the parent of each pupil in the case of all other registered pupils at the school.
+
+(4) The termly information may be provided in such form as the head teacher reasonably considers appropriate.
+
+## 5. Requirement to provide information: Annual progress[^key-b3a7cd16c045a9887b873b8158f723e5]
+
+(1) The head teacher of every maintained school must make arrangements for providing (“the annual information”)—
+
+- (a) in relation to pupils up to and including year 9, the information in Part 2 of Schedule 2,
+- (b) in relation to pupils up to and including year 9 and who are entered for an approved relevant qualification, the information in Parts 2 and 3 of Schedule 2, and
+- (c) in relation to pupils in years 10 and 11, the information in Parts 2 and 3 of Schedule 2.
+
+(2) The annual information may be provided in such form as the head teacher reasonably considers appropriate.
+
+(3) The annual information must be made available before the end of each school year.
+
+(4) Nothing in this regulation prevents the annual information being contained in more than one document provided that, subject to regulation 6(2), the head teacher provides such information before the end of the school year.
+
+(5) The annual information must be made available to—
+
+- (a) each adult pupil,
+- (b) the parent of each adult pupil (if the head teacher considers there to be special circumstances which make it appropriate), or
+- (c) the parent of each pupil in the case of all other registered pupils at the school.
+
+(6) This regulation does not apply in relation to any pupil who is to be provided with a school leaver’s report pursuant to regulation 8.
+
+## 6. Reporting period: Annual progress[^key-030418ed81b7fa5adb8418e4c7cf7118]
+
+(1) The period to which the annual information specified in regulation 5 relates begins with the later of—
+
+- (a) the date of the pupil’s admission to the school, or
+- (b) the end of the period in which the last report on such matters was made under these Regulations or under the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011.
+
+(2) Where any of the particulars necessary to provide the information specified in Part 3 of Schedule 2 are not received by the head teacher until after the end of the summer term, the head teacher must make available such information as soon as practicable and in any event not later than the following 30 September.
+
+## 7. Additional information to be made available: Annual progress[^key-e3c1353c16ca4d2e7c0e842b82bf1413]
+
+(1) If any person set out in regulation 5(5) considers the annual information provided does not contain all the information required by regulation 5 that person may request the head teacher provide the missing information.
+
+(2) Any request pursuant to paragraph (1) must—
+
+- (a) be made in writing, and
+- (b) set out the information requested.
+
+(3) The head teacher must comply with such a request within 15 school days of receiving it.
+
+(4) Paragraph (1) does not apply if the information referred to in the request has previously been made available to the adult pupil or the pupil’s parent under these Regulations.
+
+## 8. Requirement to provide information: School leaver’s report[^key-3136d5c413be24f0ceb007255026b08a]
+
+(1) The head teacher of every maintained school must make available to any pupil who has ceased to be of compulsory school age and is proposing to leave or has left the school a report containing the information referred to in Part 4 of Schedule 2.
+
+(2) The report must be in writing and may be in electronic form.
+
+(3) The part of the report—
+
+- (a) in which the information referred to in paragraphs 16, 17 and 19 of Schedule 2 is made available must provide for signature by the pupil (“first part”);
+- (b) which comprises of the first part and the part of the report in which the information referred to in paragraphs 16 and 18 of Schedule 2 is made available, must provide for signature by a teacher who is familiar with the pupil and that pupil’s achievements.
+
+(4) Any signature provided pursuant to paragraph (3) may be provided electronically.
+
+## 9. Reporting period: School leaver’s report[^key-ff4ab475c7ddb1fb22ca241487945c46]
+
+The report in regulation 8 must be made available to the pupil not later than 30 September following the end of the school year during or at the end of which the pupil left the school.
+
+## 10. Restrictions on provision of information[^key-568bdf3fcc7ce7a6cb805f0c935bb9de]
+
+(1) Nothing in these Regulations requires the making available of any information—
+
+- (a) originating from or supplied by or on behalf of any person other than—
+  - (i) an employee of the local authority which maintains the school,
+  - (ii) in the case of a voluntary aided school, a teacher or other employee at the school (including an educational psychologist engaged by the governing body under a contract for services),
+  - (iii) an education welfare officer,
+  - (iv) the person requesting disclosure, or
+- (b) to the extent that it would reveal, or enable to be deduced, the identity of a person as the source of the information or as a person to whom that information relates—
+  - (i) other than the pupil to whom that information relates, or
+  - (ii) person mentioned in paragraph (1)(a).
+
+(2) Nothing in these Regulations requires the making available of any information—
+
+- (a) to the extent that disclosure would in the opinion of the head teacher be likely to cause serious harm to the physical or mental health or emotional condition of the pupil to whom the information relates or of any other person, or
+- (b) to the extent that in the opinion of the head teacher it is relevant to the question whether the pupil to which it relates is or has been the subject of or may be at risk of child abuse.
+
+(3) In this regulation “**child abuse**” includes physical (other than accidental) injury to, and physical or emotional neglect, ill-treatment or sexual abuse of, a child.
+
+## 11. Translation of information and documents[^key-483f04e96298f475ca28c2543343b5a9]
+
+(1) If it appears necessary to the head teacher of any maintained school that any document or information required to be made available under these Regulations which is provided in Welsh should be translated into English, it must be so translated and these Regulations are to apply to the document or information so translated as they apply to the original document or information.
+
+(2) If it appears necessary to the head teacher of any maintained school that any document or information required to be made available under these Regulations which is provided in English should be translated into Welsh, it must be so translated and these Regulations are to apply to the document or information so translated as they apply to the original document or information.
+
+(3) If it appears necessary to the head teacher of any maintained school that any document or information required to be made available under these Regulations should be translated into a language other than English or Welsh or that a Braille or audio tape version of such a document or information should be available, it must be so translated or produced in Braille or audio tape, as the case may be, and these Regulations are to apply to the translated document, information, Braille or audio version as they apply to the original document or information.
+
+(4) No charge must be made for a copy of any information translated or produced in accordance with paragraphs (1), (2) or (3), but where a charge is made for a copy of an original document no greater charge must be made for a copy of the document so translated or produced.
+
+## 12. Amendment to the Pupil Information (Wales) Regulations 2011[^key-d11bfb7f7ea32efc92e05031a5aaa96a]
+
+In regulation 3 of the Pupil Information (Wales) Regulations 2011[^f00020], for paragraph (1) substitute—
+
+> (1) In these Regulations “**curricular record**” (“***cofnod cwricwlaidd***”) means a formal record of a pupil’s academic achievements, the pupil’s other skills and abilities and his or her progress in school, as detailed in—
+>
+> - (a) in relation to those pupils provided with education under the old curriculum, the Schedule to the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011, or
+> - (b) in relation to those pupils provided with education under the new curriculum, the Provision of Information by Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022.
+>
+> (2A) References in these Regulations to pupils provided with education “under the old curriculum” are to those children and pupils to whom Part 2, 3 or 5 of the Curriculum and Assessment (Wales) Act 2021 applies, but in relation to whom the relevant Part of that Act has not yet come into force.
+>
+> (2B) References in these Regulations to pupils provided with education “under the new curriculum” are to those children and pupils to whom Part 2, 3 or 5 of the Curriculum and Assessment (Wales) Act 2021 applies, and in relation to whom the relevant Part of that Act has come into force.
+
+Jeremy Miles
+
+Minister for Education and Welsh Language, one of the Welsh Ministers
+
+15 June 2022
+
+## SCHEDULE 1 — Regulations revoked[^key-7550c33f4af8d631c9b87cf841511f3e]
+
+Regulation 3(3)
+
+| Regulations revoked | References | Extent of revocation |
+| --- | --- | --- |
+| The Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011 | [S.I. 2011/1943 (W. 210)](https://www.legislation.gov.uk/wsi/2011/1943) | The whole Regulations |
+| The National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013 | [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437) | Regulation 3 |
+| The Head Teacher’s Report to Parents and Adult Pupils (Wales) (Amendment) Regulations 2014 | [S.I. 2014/1998 (W. 199)](https://www.legislation.gov.uk/wsi/2014/1998) | The whole Regulations |
+| The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 | [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236) | Regulation 12 |
+| The National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016 | [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837) | Regulation 4 |
+| The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 | [S.I. 2018/766 (W. 153)](https://www.legislation.gov.uk/wsi/2018/766) | Regulation 4 |
+| The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 | [S.I. 2020/729 (W. 164)](https://www.legislation.gov.uk/wsi/2020/729) | Regulation 3 |
+| The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2021 | [S.I. 2021/612 (W. 163)](https://www.legislation.gov.uk/wsi/2021/612) | Regulation 3 |
+| The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 | [S.I. 2022/517 (W. 124)](https://www.legislation.gov.uk/wsi/2022/517) | Regulation 9 |
+
+## SCHEDULE 2 — Information to be provided
+
+Regulation 4
+
+### PART 1 — Information to be provided in termly updates
+
+**1.**[^key-54fddfb81cac22f9943fa73af9a6cecb] A brief commentary on the pupil’s well-being.
+
+**2.**[^key-b68c9fb425f773863a904162abdb7505] A brief commentary on the key progress and learning of the pupil.
+
+**3.**[^key-313e9ad8868c119d3f3fd3690280ccbb] A brief summary of the key progression needs of the pupil and the next steps to support that pupil’s progression.
+
+**4.**[^key-97528a5c2f12a2f8c99ded93858b9254] Brief advice on how the parents can support their child’s progression.
+
+### PART 2 — Information to be provided in annual updates
+
+**5.**[^key-ac12a9156b158b0675f517a8b3cc07b5] A brief commentary about the progress in learning across the relevant curriculum.
+
+**6.**[^key-0c494f21e61a3cda489a5e04df128dca] A brief commentary of the results of the assessments carried out under the Education (Arrangements for Assessing Reading and Numeracy in the Curriculum for Wales) Regulations 2024[^key-005f3ee24b009be305f1cf3c57d3c662].
+
+**7.**[^key-0d899a4947b049bd603ecc29eddeea97] A brief summary of the pupil’s progression needs and the next steps to support that pupil’s progression.
+
+**8.**[^key-2d785cdf6254241d557958a4498d853b] Brief advice on how parents can support their child’s progression.
+
+**9.**[^key-19879101202d60ebe7305e73efcdec68] A brief commentary about the pupil’s well-being.
+
+**10.**[^key-30e27bdbabff478d4e7c875c4e23784c] A brief summary of the qualifications attained.
+
+**11.**[^key-814c771e6e6698e347f1def27a34d3bc] A summary of the pupil’s attendance record during the period to which information relates showing the number of authorised and unauthorised absences (within the meaning of the Education (Pupil Registration) (Wales) Regulations 2010[^f00022]) and the number of possible attendances.
+
+**12.**[^key-1e07cc31f8001d30df0900f8ebb0cc3f] Particulars of the arrangements under which the information provided may be discussed with the pupil’s teachers by the pupil’s parent or, in the case of an adult pupil, the pupil.
+
+### PART 3 — Approved relevant qualifications
+
+**13.**[^key-27a9d77c6b365da1bf61024b6693608c] The name of any subject in which the pupil was entered in respect of an approved relevant qualification and the grade (if any) achieved.
+
+**14.**[^key-eeaa8fcb8a9964a77e4901703f518b55] Details of any approved relevant qualification or any unit or credit towards such qualification obtained by the pupil during the period to which the information relates which is not referred to elsewhere in this Schedule.
+
+**15.**[^key-5aa7680c6f93c4c7d90b8131dd01c505] Brief particulars of the pupil’s achievements in any area of learning, including the Welsh Baccalaureate Qualification Core Certificate, not mentioned elsewhere in this Schedule which forms part of the school curriculum and of the pupil’s skills and abilities and about the pupil’s general progress at school during the period to which the information relates.
+
+### PART 4 — School leavers report
+
+**16.**[^key-182861aef3a592c8e8efca44fe4677eb] The pupil’s name.
+
+**17.**[^key-899fd76f738b2121f9177577ca508ea2] The pupil’s school.
+
+**18.**[^key-97bc2492d7ca8f2741073457fe764136] The details of any approved relevant qualification and any unit or credit towards such a qualification awarded to the pupil.
+
+**19.**[^key-d39ba69dfdc53e011890e35f13db7b43] Brief particulars of the pupil’s progress and achievements in subjects (other than those in which the pupil has achieved any approved relevant qualification or any unit or credit towards such a qualification).
+
+**20.**[^key-bcb29688cb759a9926f54b0d4e18e8bc] Brief particulars of the pupil’s progress in any activities forming part of the school curriculum, in the school year during or at the end of which the pupil left the school.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Curriculum and Assessment (Wales) Act 2021 (“**the 2021 Act**”) establishes a new framework for a curriculum and makes provision about assessment for children and pupils in Wales (“the new CfW”).
+
+Regulation 1 provides for the commencement of these Regulations by year groups. This will mirror the planned roll out of the new CfW which will also be phased in over a period of time by year groups.
+
+The new CfW and these Regulations will be rolled out for children and pupils in a phased manner. The new CfW will become mandatory for the year groups in schools and other settings as follows—
+
+- (a) on 1 September 2022 for—
+  - (i) children in a maintained nursery school,
+  - (ii) pupils in a reception year, and
+  - (iii) pupils in years 1, 2, 3, 4, 5 and 6,
+- (b) on 1 September 2022 for children and pupils in year 7 in those schools and other settings where there is a curriculum provided in accordance with the 2021 Act,
+- (c) on 1 September 2023 for children and pupils in years 7 and 8,
+- (d) on 1 September 2024 for children and pupils in year 9,
+- (e) on 1 September 2025 for children and pupils in year 10, and
+- (f) on 1 September 2026 for children and pupils in year 11.
+
+These Regulations apply in relation to children and pupils to whom education is provided—
+
+- (a) in maintained schools,
+- (b) in maintained nursery schools, and
+- (c) in pupil referral units (“PRUs”).
+
+These Regulations apply to PRUs by virtue of paragraph 3 of Schedule 1 to the Education Act 1996. Regulation 2(2) provides that, in relation to a PRU, a reference to a head teacher is a reference to a teacher in charge of a PRU and that a reference to a governing body is a reference to management committee (if there is one) and to a teacher in charge of a PRU if there is not.
+
+Regulation 3 and Schedule 1 provide for the phased disapplication and revocation of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011 (“**the 2011 Regulations**”). The disapplication and revocation of the 2011 Regulations mirrors the planned roll out of the new CfW and these Regulations.
+
+Regulation 4 requires the head teacher of a maintained school to make arrangements to provide information about the pupil’s termly progress to parents of registered pupils and to adult pupils. The information that must be provided is set out in Part 1 of Schedule 2.
+
+Regulation 5 requires the head teacher of a maintained school to provide information on the annual progress of registered pupils to parents of registered pupils and to adult pupils (“annual information”). The information that must be provided is set out in Parts 2 and 3 of Schedule 2. Regulation 6 sets out the reporting period for the annual information.
+
+Regulation 7 provides that an adult pupil or the parent of a pupil may request any information required by virtue of regulation 5 and Parts 2 and 3 of Schedule 2 they consider is missing from the annual information provided.
+
+Regulation 8 requires the head teacher to provide to any pupil who has ceased to be of compulsory school age a school leaver’s report (“school leaver’s report”). The information that must be provided in the school leaver’s report is set out in Part 4 of Schedule 2. Regulation 9 sets out the reporting period for the school leaver’s report.
+
+Regulation 10 sets out certain restrictions on the provision of information.
+
+Regulation 11 provides that where necessary any document or information required to be made available under these Regulations must be translated into English or Welsh or another language or produced in Braille or audio tape.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government at Crown Building, Cathays Park, Cardiff CF10 3NQ and on the Welsh Government website at www.gov.wales.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 408(1) was amended by paragraph 30(a) of Schedule 7 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), paragraph 106(a) of Schedule 30, and Schedule 31, to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), paragraphs 1 and 57(1) and (2) of Schedule 9 to the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), paragraph 46(1) and (2) of Schedule 21 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), paragraphs 9, 11(1) and (2) of Schedule 12 to the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), paragraphs 5 and 7 of Schedule 8 to the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), paragraph 1(1) and (2)(a) of Schedule 4 to the Qualifications Wales Act 2015 (anaw 5) and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). There are other amendments to this section which are not relevant to these Regulations.
+
+[^f00002]: Footnote: Section 569(4) was amended by section 8(1) and (5) of the Education (Wales) Measure [2009 (nawm 5)](https://www.legislation.gov.uk/mwa/2009/5) and by section 73 and paragraphs 1 and 22(b) of Schedule 2 to the Curriculum and Assessment (Wales) [Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4). There are other amendments which are not relevant to these Regulations.
+
+[^f00003]: Footnote: Paragraph 3 of Schedule 1 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00004]: Footnote: For the definitions of “prescribed” and “regulations” see section 579(1) of the Education Act 1996. The functions of the Secretary of State in the Education Act 1996 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and are now exercisable by the Welsh Ministers under section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-7b193413a099d654d65ff5174bad7198]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/655/regulation/1) comes into force in accordance with reg. 1(2)-(8)
+
+[^f00005]: Footnote: See regulation 2 for the definition of “nursery class”.
+
+[^f00006]: Footnote: See regulation 2 for the definition of “maintained school”.
+
+[^f00007]: Footnote: See regulation 2 for the definition of “reception year”.
+
+[^f00008]: Footnote: See regulation 2 for the definition of “pupils”.
+
+[^f00009]: Footnote: See regulation 2 for the definition of “school year”.
+
+[^f00010]: Footnote: See regulation 2 for the definition of “maintained school”.
+
+[^f00011]: Footnote: See regulation 2 for the definition of “relevant curriculum”.
+
+[^f00012]: Footnote: See regulation 2 for the definition of “pupil referral unit”. For the purposes of these Regulations maintained schools are defined to include PRUs (see regulation 2(1)).
+
+[^key-ee737b727bd69727009ea156d2f14bbc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/655/regulation/2) comes into force in accordance with reg. 1(2)-(8)
+
+[^f00013]: Footnote: [2021 asc 4](https://www.legislation.gov.uk/asc/2021/4).
+
+[^f00014]: Footnote: [2015 anaw 5](https://www.legislation.gov.uk/anaw/2015/5).
+
+[^f00015]: Footnote: As amended by section 140(1) and (3) of, and paragraph 111(a) and (b) of Schedule 30 to, the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00016]: Footnote: [S.I. 2010/1954 (W. 187)](https://www.legislation.gov.uk/wsi/2010/1954).
+
+[^f00017]: Footnote: Subsections (2) and (4) were substituted by section 52(2) and (3) of the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44).
+
+[^f00018]: Footnote: Subsection (1) was amended by section 57(1) and paragraph 9 of Schedule 7 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44) and subsection (1) and (1A) were further amended by section 215(1) and paragraph 34 of Schedule 21 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^key-758f9de111a349fa266bc8322f7687eb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/655/regulation/3) comes into force in accordance with reg. 1(2)-(8)
+
+[^f00019]: Footnote: [S.I. 2011/1943 (W. 210)](https://www.legislation.gov.uk/wsi/2011/1943) amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2014/1998 (W. 199)](https://www.legislation.gov.uk/wsi/2014/1998), [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236), [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837), [S.I. 2018/766 (W. 153)](https://www.legislation.gov.uk/wsi/2018/766), [S.I. 2020/729 (W. 164)](https://www.legislation.gov.uk/wsi/2020/729), [S.I. 2021/612 (W. 612)](https://www.legislation.gov.uk/wsi/2021/612) and [S.I. 2022/517 (W. 124)](https://www.legislation.gov.uk/wsi/2022/517).
+
+[^key-2c12c6164725c116283fb197a05696e2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/655/regulation/4) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-b3a7cd16c045a9887b873b8158f723e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/655/regulation/5) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-030418ed81b7fa5adb8418e4c7cf7118]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/655/regulation/6) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-e3c1353c16ca4d2e7c0e842b82bf1413]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/655/regulation/7) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-3136d5c413be24f0ceb007255026b08a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/655/regulation/8) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-ff4ab475c7ddb1fb22ca241487945c46]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/655/regulation/9) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-568bdf3fcc7ce7a6cb805f0c935bb9de]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/655/regulation/10) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-483f04e96298f475ca28c2543343b5a9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/655/regulation/11) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-d11bfb7f7ea32efc92e05031a5aaa96a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/655/regulation/12) comes into force in accordance with reg. 1(2)-(8)
+
+[^f00020]: Footnote: [S.I. 2011/1942 (W. 209)](https://www.legislation.gov.uk/wsi/2011/1942) amended by [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837), paragraph 365(1) and (2)(a) of Part 2 of Schedule 19 to the Data Protection Act 2018 and [S.I. 2019/1281 (W. 225)](https://www.legislation.gov.uk/wsi/2019/1281).
+
+[^key-7550c33f4af8d631c9b87cf841511f3e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2022/655/schedule/1) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-54fddfb81cac22f9943fa73af9a6cecb]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/1) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-b68c9fb425f773863a904162abdb7505]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/2) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-313e9ad8868c119d3f3fd3690280ccbb]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/3) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-97528a5c2f12a2f8c99ded93858b9254]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/4) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-ac12a9156b158b0675f517a8b3cc07b5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/5) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-0c494f21e61a3cda489a5e04df128dca]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/6) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-005f3ee24b009be305f1cf3c57d3c662]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/6) substituted (1.9.2024) by [The Education (Arrangements for Assessing Reading and Numeracy in the Curriculum for Wales) Regulations 2024 (S.I. 2024/607)](https://www.legislation.gov.uk/wsi/2024/607), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/607/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2024/607/regulation/6)
+
+[^key-0d899a4947b049bd603ecc29eddeea97]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/7) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-2d785cdf6254241d557958a4498d853b]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/8) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-19879101202d60ebe7305e73efcdec68]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/9) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-30e27bdbabff478d4e7c875c4e23784c]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/10) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-814c771e6e6698e347f1def27a34d3bc]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/11) comes into force in accordance with reg. 1(2)-(8)
+
+[^f00022]: Footnote: [S.I. 2010/1954 (W. 187)](https://www.legislation.gov.uk/wsi/2010/1954).
+
+[^key-1e07cc31f8001d30df0900f8ebb0cc3f]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/12) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-27a9d77c6b365da1bf61024b6693608c]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/13) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-eeaa8fcb8a9964a77e4901703f518b55]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/14) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-5aa7680c6f93c4c7d90b8131dd01c505]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/15) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-182861aef3a592c8e8efca44fe4677eb]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/16) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-899fd76f738b2121f9177577ca508ea2]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/17) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-97bc2492d7ca8f2741073457fe764136]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/18) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-d39ba69dfdc53e011890e35f13db7b43]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/19) comes into force in accordance with reg. 1(2)-(8)
+
+[^key-bcb29688cb759a9926f54b0d4e18e8bc]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/20) comes into force in accordance with reg. 1(2)-(8)

@@ -1,0 +1,113 @@
+---
+title: The Education Workforce Council (Additional Functions and Revocation) (Wales) Order 2015
+id: wsi/2015/194
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-10'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2015/194
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2015/194/pdfs/wsi_20150194_mi.pdf
+- http://www.legislation.gov.uk/wsi/2015/194/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education Workforce Council (Additional Functions and Revocation) (Wales) Order 2015
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 194 (W. 9)
+
+Education, Wales
+
+The Education Workforce Council (Additional Functions and Revocation) (Wales) Order 2015
+
+Made
+
+10 February 2015
+
+Coming into force
+
+1 April 2015
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 5 and 47(1) and (2) of the Education (Wales) Act 2014[^f00001], having consulted such persons as they consider appropriate make the following Order:
+
+## 1. Title, commencement, application and revocation[^key-c06febcbd115b2d60b1979e211195088]
+
+(1) The title of this Order is the Education Workforce Council (Additional Functions and Revocation) (Wales) Order 2015 and it comes into force on 1 April 2015.
+
+(2) This Order applies in relation to Wales.
+
+(3) The Orders set out in the Schedule are revoked.
+
+## 2. Interpretation[^key-ea1451cbb8191755e47d3d566f502a1a]
+
+In this Order—
+
+- [^key-6512456cd3cb5a1990527cd3be6ec875]...
+- the Regulations means “the European Union (Recognition of Professional Qualifications) Regulations 2015”;[^key-280d57790ba39f2fa2c628af87c8c78a] and
+- “relevant state” (“*gwladwriaeth berthnasol*”) means an EEA state or Switzerland.
+
+## 3. Additional Functions[^key-8e9b363346d04b68e1048a758d3c11fc]
+
+(1) The Education Workforce Council, having been specified as a competent authority in accordance with the Regulations, is to have the function of considering applications and granting authorisations to practice the profession of school teacher in Wales [^key-f54f80ad2532e6f59519668e46bbb5c1]....
+
+(2) The Council is to give advice and information to the public about the requirements for recognition in Wales of teaching qualifications obtained in a relevant state.
+
+Huw Lewis
+
+Minister for Education and Skills, one of the Welsh Ministers
+
+## SCHEDULE — ORDERS REVOKED[^key-c21e11a0ff50b862e7723646230091d5]
+
+Article 1
+
+| Orders revoked | References | Extent of revocation |
+| --- | --- | --- |
+| The General Teaching Council for Wales (Additional Functions) Order 2000 | [S.I. 2000/1941 (W. 139)](https://www.legislation.gov.uk/wsi/2000/1941) | Fully |
+| The General Teaching Council for Wales (Additional Functions) (Amendment) Order 2001 | [S.I. 2001/2497 (W. 201)](https://www.legislation.gov.uk/wsi/2001/2497) | Fully |
+| The General Teaching Council for Wales (Additional Functions) Order 2005 | [S.I. 2005/36 (W. 3)](https://www.legislation.gov.uk/wsi/2005/36) | Fully |
+| The General Teaching Council for Wales (Additional Functions) (Amendment) Order 2005 | [S.I. 2005/68 (W. 6)](https://www.legislation.gov.uk/wsi/2005/68) | Fully |
+| The General Teaching Council for Wales (Additional Functions) (Amendment) Order 2006 | [S.I. 2006/1341 (W. 132)](https://www.legislation.gov.uk/wsi/2006/1341) | Fully |
+| The General Teaching Council for Wales (Additional Functions) (Amendment) Order 2007 | [S.I. 2007/2810 (W. 237)](https://www.legislation.gov.uk/wsi/2007/2810) | Fully |
+| The General Teaching Council for Wales (Additional Functions) (Amendment) Order 2009 | [S.I. 2009/1351 (W. 127)](https://www.legislation.gov.uk/wsi/2009/1351) | Fully |
+| The General Teaching Council for Wales (Additional Functions) (Amendment) Order 2012 | [S.I. 2012/167 (W. 26)](https://www.legislation.gov.uk/wsi/2012/167) | Fully |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+The General Teaching Council for Wales (“the GTCW”) was specified as a competent authority in the European Communities (Recognition of Professional Qualifications) Regulations 2007 (“the 2007 Regulations”). The 2007 Regulations are made under the European Communities Act 1972. The 2007 Regulations give effect to Council Directive [2005/36/EC](https://www.legislation.gov.uk/european/directive/2005/0036) on a general system on the recognition of professional qualifications. Section 2 of the Education (Wales) Act 2014 provides that the GTCW is to continue to exist but is re-named the Education Workforce Council (“the Council”). The Council will remain the competent authority for the purposes of the 2007 Regulations.
+
+The General Teaching Council for Wales (Additional Functions) Order 2005 (“the 2005 Order”) conferred on the GTCW the function of acting as a designated authority. As a designated authority the GTCW was to deal with applications from persons who qualified in a relevant state (member states of the European Union) for recognition of their professional qualifications. The 2005 Order also conferred on the GTCW the additional function of providing information and advice to the public about the requirements for recognition in Wales of teaching qualifications obtained in a relevant state. This Order re-enacts the 2005 Order.
+
+This Order also revokes the General Teaching Council for Wales (Additional Functions) Order 2000. That Order conferred additional functions on the GTCW in relation to the maintenance of records in respect of persons registered with it. It is anticipated that the provision in relation to the maintenance of such records by the Council will be contained in the Education Workforce Council (Main Functions) (Wales) Regulations 2015 (“the 2015 Regulations”). The 2015 Regulations are not in force at the date this Order is made and it is anticipated the 2015 Regulations will come into force on 1 April 2015.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to this Order. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 anaw 5](https://www.legislation.gov.uk/anaw/2014/5).
+
+[^key-c06febcbd115b2d60b1979e211195088]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2015/194/article/1) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)
+
+[^key-ea1451cbb8191755e47d3d566f502a1a]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2015/194/article/2) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)
+
+[^key-6512456cd3cb5a1990527cd3be6ec875]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/194/article/2) omitted (31.12.2020) by virtue of [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/wsi/2019/444/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-280d57790ba39f2fa2c628af87c8c78a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2015/194/article/2) substituted (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/wsi/2019/444/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8e9b363346d04b68e1048a758d3c11fc]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2015/194/article/3) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)
+
+[^key-f54f80ad2532e6f59519668e46bbb5c1]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/wsi/2015/194/article/3/1) omitted (31.12.2020) by virtue of [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2019/444/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c21e11a0ff50b862e7723646230091d5]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2015/194/schedule) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/194/article/1/1)

@@ -1,0 +1,80 @@
+---
+title: The Assessment of Accommodation Needs of Gypsies and Travellers (Extension of Review Period) (Wales) (Coronavirus) Order 2021
+id: wsi/2021/340
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-03-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2021/340
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2021/340/pdfs/wsi_20210340_mi.pdf
+- http://www.legislation.gov.uk/wsi/2021/340/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Assessment of Accommodation Needs of Gypsies and Travellers (Extension of Review Period) (Wales) (Coronavirus) Order 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 340 (W. 94)
+
+Housing, Wales
+
+The Assessment of Accommodation Needs of Gypsies and Travellers (Extension of Review Period) (Wales) (Coronavirus) Order 2021
+
+Made
+
+17 March 2021
+
+Coming into force
+
+18 March 2021
+
+The Welsh Ministers make the following Order in exercise of the power conferred on them by section 101(4) of the Housing (Wales) Act 2014[^f00001].
+
+In accordance with section 142(3)(c) of that Act, a draft of this Order has been laid before, and approved by a resolution of, Senedd Cymru[^f00002].
+
+## 1. Title and commencement
+
+(1) The title of this Order is the Assessment of Accommodation Needs of Gypsies and Travellers (Extension of Review Period) (Wales) (Coronavirus) Order 2021.
+
+(2) This Order comes into force on 18 March 2021.
+
+## 2. Amendment to section 101(3) of the Housing (Wales) Act 2014
+
+(1) Section 101(3) of the Housing (Wales) Act 2014 is amended as follows.
+
+(2) For paragraph (b) substitute—
+
+> - (b) the period of 6 years beginning with the day after the period in paragraph (a) ended, and each subsequent period of 5 years beginning with the day after the previous review period ended.
+
+Jane Hutt
+
+Deputy Minister and Chief Whip under the authority of the Welsh Ministers
+
+17 March 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends section 101(3)(b) of the Housing (Wales) Act 2014 (“the Act”).
+
+Section 101 of the Act makes provision for the assessment of accommodation needs by a local housing authority of Gypsies and Travellers residing in or resorting to its area. Section 101(3) of the Act sets out the meaning of the “review period”, which is the period during which this assessment must be carried out.
+
+The first review period under section 101(3)(a) was the period from 25 February 2015 to 24 February 2016. Under section 101(3)(b) all subsequent assessments were to take place during each subsequent period of 5 years. Due to the impacts of coronavirus on communities in Wales and the effect that it has had on administration within local housing authorities the review period, which otherwise would have come to an end on 24 February 2021, is extended by one year.
+
+This Order amends the meaning of “review period” in section 101(3) of the Act so that the review period following the review period under paragraph (a) is increased from 5 to 6 years. Thereafter, the review period is 5 years.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to this Order. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with this Order. A copy can be obtained from the Local Government Strategic Finance Division, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 anaw 7](https://www.legislation.gov.uk/anaw/2014/7).
+
+[^f00002]: Footnote: The reference in section 142(3) to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).

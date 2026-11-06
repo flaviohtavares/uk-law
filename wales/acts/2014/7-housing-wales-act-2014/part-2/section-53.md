@@ -1,0 +1,54 @@
+---
+title: Housing (Wales) Act 2014, section 53
+act: Housing (Wales) Act 2014
+section: '53'
+status: revised-with-pending-changes
+text_date: '2026-06-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2014/7/section/53
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing (Wales) Act 2014, section 53
+
+> **Warning: changes not yet applied to this text (144).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/anaw/2014/7
+>
+> Extent: England, Wales.
+
+## 53. Overview of this Chapter[^key-8a2ffd7c5e1085da4dcb9c55c9672caa]
+
+*Extent: E+W*
+
+(1) This Chapter confers duties on local housing authorities to help people who are homeless or threatened with homelessness and makes connected provision.
+
+(2) Sections 55 to 59 define and otherwise explain the meaning of some key terms (further provision about interpretation and an index of terms defined in this Chapter is at section 99).
+
+(3) Section 60 requires local housing authorities to secure the provision of a service providing people with information and advice connected with homelessness and assistance in accessing help under this Chapter.
+
+(4) Section 61 introduces Schedule 2 which makes provision about eligibility for help under this Chapter.
+
+(5) Section 62 places a duty on a local housing authority to assess the cases of people (“applicants”) who apply to the authority for accommodation, or help in retaining or obtaining accommodation, where they appear to the authority to be homeless or threatened with homelessness.
+
+(6) Section 63 provides for notice to be given to applicants about the outcome of the assessment.
+
+(7) Section 64 gives examples of the kinds of ways in which the subsequent duties to secure or help to secure the availability of accommodation may be discharged and what may be done to discharge them; and section 65 explains what “**help to secure**” means.
+
+(8) Sections 66 to 79 set out the main duties on local housing authorities to help applicants, the circumstances in which those duties come to an end and connected provision; the main duties are—
+
+- (a) a duty to help to prevent applicants who are threatened with homelessness from becoming homeless (section 66);
+- (b) a duty to secure interim accommodation for applicants in priority need (section 68) (section 70 provides for who is to have priority need for accommodation for the purposes of the Chapter);
+- (c) a duty to help to secure that suitable accommodation is available for occupation by homeless applicants (section 73);
+- (d) a duty to secure accommodation for applicants in priority need when the duty in section 73 comes to an end (section 75).
+
+(9) Section 78 provides for the circumstances in which local housing authorities may have regard to whether an applicant became homeless intentionally when it is considering whether a duty to secure accommodation for applicants in priority need applies; section 77 provides for the meaning of intentionally homeless.
+
+(10) Sections 80 to 82 provide for local housing authorities to end their duties to applicants by referring their cases to other authorities in Wales or England, where the applicants have a local connection with the areas of those other authorities; section 81 defines the meaning of “**local connection**” for the purposes of this Chapter.
+
+(11) Sections 85 to 89 provide for reviews and appeals.
+
+(12) Sections 90 to 99 make supplementary and general provision.
+
+## Annotations
+
+[^key-8a2ffd7c5e1085da4dcb9c55c9672caa]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2014/7/section/53) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 4](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/4)

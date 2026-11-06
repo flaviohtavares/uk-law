@@ -1,0 +1,134 @@
+---
+title: The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2020
+id: wsi/2020/37
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-01-16'
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2020/37
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2020/37/pdfs/wsi_20200037_mi.pdf
+- http://www.legislation.gov.uk/wsi/2020/37/pdfs/wsi_20200037_we.pdf
+- http://www.legislation.gov.uk/wsi/2020/37/pdfs/wsi_20200037_en.pdf
+- http://www.legislation.gov.uk/wsi/2020/37/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2020
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2020 No. 37 (W. 4)
+
+Education, Wales
+
+The Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2020
+
+Made
+
+16th January 2020
+
+Laid before the National Assembly for Wales
+
+20th January 2020
+
+Coming into force
+
+1st September 2020
+
+The Welsh Ministers in exercise of the powers conferred on the Secretary of State by section 122(1) of, and paragraph 6B(1)(a) of Schedule 26 to, the School Standards and Framework Act 1998[^f00001], and in exercise of the powers conferred on the National Assembly for Wales by section 77(2) of the Learning and Skills Act 2000[^f00002], and by sections 28(1)[^f00003], 50(4)[^f00004], 55(4)[^f00005] and 56(3)[^f00006] of the Education Act 2005[^f00007], and now exercisable by them make the following Regulations:
+
+## 1. Title and commencement[^key-398b0a516ab91dd75fb7ad1368a5c7e0]
+
+(1) The title of these Regulations is the Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2020.
+
+(2) These Regulations come into force on 1 September 2020.
+
+## 2. Amendments to the Inspection of Education and Training (Wales) Regulations 2001[^key-400995dbb81fa51e8d1aa4fa0be5ca32]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendments to the Education (School Inspection) (Wales) Regulations 2006[^key-94179fe341aece56ed24ed2c19694cf5]
+
+In regulations 6(1)(b) and 14(b) of the Education (School Inspection) (Wales) Regulations 2006[^f00009]—
+
+- (a) for “a seven year” substitute “the”, and
+- (b) for “2023” substitute “2024”.
+
+## 4. Amendments to the Inspection of the Careers and Related Services (Wales) Regulations 2006[^key-5a571147af1569ec8382089713e28ef6]
+
+In regulation 4(1) of the Inspection of the Careers and Related Services (Wales) Regulations 2006[^f00010]—
+
+- (a) for “a seven year” substitute “the”, and
+- (b) for “2023” substitute “2024”.
+
+## 5. Amendments to the Education (Inspection of Nursery Education) (Wales) Regulations 2015[^key-ac6f437e5e271e17a29731aaa8e742c0]
+
+In regulation 4(1)(b) of the Education (Inspection of Nursery Education) (Wales) Regulations 2015[^f00011]—
+
+- (a) for “a seven year” substitute “the”, and
+- (b) for “2023” substitute “2024”.
+
+Kirsty Williams
+
+Minister for Education, one of the Welsh Ministers
+
+16th January 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the following Regulations (“the Inspection Regulations”)—
+
+- (a) the Inspection of Education and Training (Wales) Regulations 2001,
+- (b) the Education (School Inspection) (Wales) Regulations 2006,
+- (c) the Inspection of Careers and Related Services (Wales) Regulations 2006, and
+- (d) the Education (Inspection of Nursery Education) (Wales) Regulations 2015.
+
+Currently the Inspection Regulations require Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru to carry out an inspection at least once within the 7 year period beginning on 1 September 2016 and ending on 31 August 2023 (“the First Inspection Period”) and at least once within every subsequent 6 year inspection period.
+
+These Regulations amend the First Inspection Period in each of the Inspection Regulations so that it will end on 31 August 2024 instead of 31 August 2023. All subsequent inspections will continue to be once in every 6 year inspection period.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31); *see* section 142(1) for the definitions of “prescribed” and “regulations”. The function of the Secretary of State under paragraph 6B(1)(a) of Schedule 26, so far as exercisable in relation to Wales, was transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and is now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00002]: Footnote: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21); *see* section 77(9) for the definition of “prescribed” and section 74(1) for the definition of “the National Assembly”. The function of the National Assembly for Wales in section 77(2), so far as exercisable in relation to Wales, was transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act 2006.
+
+[^f00003]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18); *see* section 31(1) for the definition of “prescribed” and “regulations” and section 122(1) for the definition of “the Assembly”.
+
+[^f00004]: Footnote: *See* section 50(8) for the definition of “prescribed” and section 122(1) for the definition of “the Assembly”.
+
+[^f00005]: Footnote: *See* section 55(8) for the definitions of “prescribed” and “regulations” and section 122(1) for the definition of “the Assembly”.
+
+[^f00006]: Footnote: *See* section 55(8) for the definitions of “prescribed” and “regulations” and section 122(1) for the definition of “the Assembly”.
+
+[^f00007]: Footnote: The functions of the National Assembly for Wales under sections 28, 50, 55 and 56, so far as exercisable in relation to Wales, were transferred to the Welsh Ministers by virtue of section 162, and paragraph 30 of Schedule 11 to, the Government of Wales Act 2006.
+
+[^key-398b0a516ab91dd75fb7ad1368a5c7e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/37/regulation/1) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
+
+[^key-400995dbb81fa51e8d1aa4fa0be5ca32]: Textual amendment: Reg. 2 revoked (1.4.2026) by [The Inspection of Education and Training (Wales) Regulations 2026 (W.S.I. 2026/67)](https://www.legislation.gov.uk/wsi/2026/67), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/67/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/67/regulation/4)
+
+[^key-94179fe341aece56ed24ed2c19694cf5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/37/regulation/3) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
+
+[^f00009]: Footnote: [S.I. 2006/1714 (W. 176)](https://www.legislation.gov.uk/wsi/2006/1714), amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142), [S.I. 2010/1436 (W. 127)](https://www.legislation.gov.uk/wsi/2010/1436), [S.I. 2014/1212 (W. 128)](https://www.legislation.gov.uk/wsi/2014/1212), [S.I. 2016/135 (W. 65)](https://www.legislation.gov.uk/wsi/2016/135), [S.I. 2016/211 (W. 84)](https://www.legislation.gov.uk/wsi/2016/211) and [S.I. 2017/710 (W. 167)](https://www.legislation.gov.uk/wsi/2017/710).
+
+[^key-5a571147af1569ec8382089713e28ef6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/37/regulation/4) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
+
+[^f00010]: Footnote: [S.I. 2006/3103 (W. 286)](https://www.legislation.gov.uk/wsi/2006/3103), amended by [S.I. 2010/1436 (W. 127)](https://www.legislation.gov.uk/wsi/2010/1436), [S.I. 2014/1212 (W. 128)](https://www.legislation.gov.uk/wsi/2014/1212) and [S.I. 2016/135 (W. 65)](https://www.legislation.gov.uk/wsi/2016/135).
+
+[^key-ac6f437e5e271e17a29731aaa8e742c0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2020/37/regulation/5) in force at 1.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/37/regulation/1/2)
+
+[^f00011]: Footnote: [S.I. 2015/1599 (W. 198)](https://www.legislation.gov.uk/wsi/2015/1599), amended by [S.I. 2016/135 (W. 65)](https://www.legislation.gov.uk/wsi/2016/135) and [S.I. 2016/211 (W. 84)](https://www.legislation.gov.uk/wsi/2016/211).

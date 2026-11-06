@@ -1,0 +1,566 @@
+---
+title: The Bluetongue (Wales) Regulations 2008
+id: wsi/2008/1090
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-04-16'
+text_date: '2024-09-23'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2008/1090
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2008/1090/pdfs/wsi_20081090_mi.pdf
+- http://www.legislation.gov.uk/wsi/2008/1090/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bluetongue (Wales) Regulations 2008
+
+> Text as at 2024-09-23.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2008 No. 1090 (W.116)
+
+ANIMALS, WALES
+
+ANIMAL HEALTH
+
+The Bluetongue (Wales) Regulations 2008
+
+Made
+
+16 April 2008
+
+Laid before the National Assembly for Wales 2008
+
+17 April 2008
+
+Coming into force
+
+26 April 2008
+
+The Welsh Ministers are designated [^c19226911] for the purposes of section 2(2) of the European Communities Act 1972 [^c19226921] in relation to the common agricultural policy of the European Community.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for the reference to Commission Regulation [(EC) No. 1266/2007](https://www.legislation.gov.uk/european/regulation/2007/1266) (on implementing rules for Council Directive [2000/75/EC](https://www.legislation.gov.uk/european/directive/2000/0075) as regards the control, monitoring, surveillance and restrictions on movements of certain species of susceptible animals in relation to bluetongue [^c19226931]) to be construed as a reference to that Regulation as amended from time to time.
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972 and paragraph 1A of Schedule 2 to that Ac [^c19226941]).
+
+## PART 1 — Introduction
+
+### 1. Title, application and commencement
+
+The title of these Regulations is the Bluetongue (Wales) Regulations 2008; they apply in relation to Wales come into force on 26 April 2008.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**animal**” (“***anifail***”) means a ruminating animal or a camelid;[^key-db39c915b32754406e1d709cbcd2de23]
+- “[^key-95da63d94c62c518e99cca5f56f1ab5f]**carcase**” (“***carcas***”) means the carcase of an animal;
+- “[^key-589a649fcdb9eaea6605ef40e4679e87]**Chief Veterinary Officer**” (“***Prif Swyddog milfeddygol***”) means the Chief Veterinary Officer for Wales;
+- “**control zone**” (“***parth rheoli***”) means a zone referred to in regulation 12;
+- “[^key-ad4b05a0550eabceea4ed0511ae6e633]**germinal product**” (“***cynnyrch cenhedlol***”) means the embryo, ovum, or semen of an animal;
+- “inactivated vaccines” (“[^key-83a6ec05bf02beb238d1d3f9327dd104]*brechlynnau anweithredol*”) means vaccines that are not live attenuated vaccines;
+- “**infected premises**” (“***mangre heintiedig***”) means premises on which the existence of bluetongue has been confirmed;
+- “**inspector**” (“***arolygydd***”) means an inspector appointed as such by the Welsh Ministers or a local authority for the purpose of these Regulations and, unless the context otherwise requires, includes a veterinary inspector;
+- “live attenuated vaccines” (“*brechlynnau byw a wanhawyd*”) means vaccines which are produced by adapting bluetongue virus field isolates through serial passages in tissue culture or in embryonated hens' eggs;
+- “**local authority**” (“***awdurdod lleol***”) means in relation to an area the county council or county borough council for that area;
+- “**midge**” (“***gwybedyn***”) means an insect of the genus *Culicoides*;
+- “**premises**” (“***mangre***”) includes any any land, building or other place[^key-1c3fc05fac73c1d098019447dc308dc0];
+- “**vaccine**” (“***brechlyn***”) means vaccine against bluetongue virus; and
+- “**veterinary inspector**” (“***arolygydd milfeddygol***”) means a person appointed as such by the Welsh Ministers for the purposes of these Regulations.
+
+(2) Any authorisation, licence, notice or designation under these Regulations must be in writing, may be subject to conditions and may be amended, suspended or revoked [^key-758a23253191b2db7f0215c253bc87bd]... at any time.
+
+### 3. Exemptions[^key-05f3ba16933b716cd52e1cfafab14c59]
+
+These Regulations do not apply to—
+
+- (a) anything a person is authorised to do by licence granted under the Specified Animal Pathogens (Wales) Order 2008;
+- (b) administration of a vaccine for research purposes in accordance with an animal test certificate granted under the Veterinary Medicines Regulations 2011.
+
+### 4. Licences
+
+(1) A person moving anything under the authority of a specific licence granted under these Regulations must—
+
+- (a) carry the licence or a copy of it at all times during the licensed movement;
+- (b) on demand by a veterinary inspector, inspector or an officer of the Welsh Ministers, produce the licence or copy and allow a copy or extract to be taken.
+
+(2) A person moving anything under the authority of a general licence granted under these Regulations must—
+
+- (a) carry, at all times during the movement, a consignment note that contains details of—
+  - (i) what is being transported, including the quantity;
+  - (ii) the date of the movement;
+  - (iii) the name of the consignor;
+  - (iv) the address of the premises from which the movement started;
+  - (v) the name of the consignee;
+  - (vi) the address of the premises of destination;
+- (b) on demand by a veterinary inspector, inspector or an officer of the Welsh Ministers, produce the consignment note and allow a copy or extract to be taken.
+
+### 5. Licences granted outside Wales
+
+Except where otherwise directed by the Welsh Ministers and except in respect of a licence to obtain vaccine or a licence to vaccinate, licences granted in Scotland or England for activities which could be licensed in Wales under these Regulations have effect in Wales as if they were licences granted under these Regulations.
+
+### 6. Declarations of zones
+
+Declarations of zones—
+
+- (a) must be in writing;
+- (b) may be amended by further declaration at any time;
+- (c) must designate the extent of the zone being declared; and
+- (d) may only be revoked by further declaration.
+
+### 7. Premises straddling zones
+
+(1) Premises partly inside a temporary control zone and not inside any other zone are treated as being inside the temporary control zone.
+
+(2) Premises partly inside a control zone are treated as being inside that zone.
+
+(3) Premises partly inside a vaccination zone are treated as being inside that zone.
+
+(4) Otherwise—
+
+- (a) if a restricted zone has been divided into a protection zone and a surveillance zone premises partly inside the protection zone and partly inside the surveillance zone are treated as being inside the protection zone;
+- (b) premises partly inside a restricted zone and partly inside an area that does not have controls for bluetongue are treated as being inside the restricted zone; and
+- (c) premises partly inside a restricted zone and partly inside a temporary control zone are treated as being inside the temporary control zone[^key-0ec6b273264755d9e0e6ba1ee5c6aa77].
+
+## PART 2 — Suspected and confirmed bluetongue
+
+### 8. Initial requirements where bluetongue is known or suspected
+
+(1) The owner or keeper of any animal or carcase, or any person who examines or inspects any animal or carcase, who knows or suspects that the animal or carcase is infected with bluetongue, must—
+
+- (a) immediately notify the Welsh Ministers[^key-e9d8ac7cc2222c7c3858e7275776b595]; and
+- (b) not move any animal or carcase on or off the premises where the animal or carcase known to be or suspected of being diseased is located, except as authorised by an inspector.
+
+(2) A person who analyses a sample taken from any animal or carcase and who finds evidence of antibodies to, or antigens or nucleic acids of, the bluetongue virus or any evidence of vaccination for bluetongue must immediately notify the Welsh Ministers[^key-b63807bc09b079e98ef5388a10386ac1].
+
+(3)[^key-b60949c0f1180bfbe77542fb92913600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Measures at suspected or infected premises[^key-0f12734f3e13b55bdbdd324f3246498b]
+
+(1) If the presence of bluetongue or bluetongue virus is suspected or confirmed at any premises, a veterinary inspector or inspector acting under the instructions of a veterinary inspector may serve a notice on the occupier or keeper of any animals on those premises, prohibiting the movement of animals or germinal products to or from the premises except in accordance with a licence.
+
+(2) A notice served under paragraph (1) may impose the following requirements on the occupier or keeper—
+
+- (a) to make and maintain daily, an inventory of all animals and germinal products on the premises, recording, for each species—
+  - (i) the total number of animals;
+  - (ii) the total number and type of germinal products;
+  - (iii) the number of animals or germinal products affected or suspected of being affected with bluetongue or bluetongue virus;
+  - (iv) the number of animals which die or germinal products which are destroyed;
+  - (v) the number and destination of any animals or germinal products which are moved from the premises;
+- (b) to keep a record of the inventory for a minimum period of two years from the date on which the notice is served;
+- (c) to ensure all animals are kept indoors, or in accordance with the instructions of a veterinary inspector or inspector acting under the instructions of a veterinary inspector;
+- (d) to subject animals on the premises to the midge control measures specified in the notice.
+
+(3) A licence granted under paragraph (1) must impose such conditions on the movement of animals or germinal products as a veterinary inspector or inspector acting under the instructions of a veterinary inspector considers necessary to prevent the spread of bluetongue virus.
+
+(4) A veterinary inspector or inspector acting under the instructions of a veterinary inspector may—
+
+- (a) serve a notice under paragraph (1) on the occupier of premises or keeper of animals on those premises if the veterinary inspector or inspector acting under the instructions of a veterinary inspector suspects that animals on the premises have been exposed to bluetongue virus;
+- (b) include such of the measures in paragraph (2) as are considered necessary to prevent the spread of bluetongue virus.
+
+### 10. Temporary control zones
+
+(1) If an inspector suspects that the bluetongue virus exists on any premises, the Welsh Ministers may declare a temporary control zone.
+
+(2) When a temporary control zone has been established in England which touches the border with Wales the Welsh Ministers may establish an associated temporary control zone in Wales.
+
+(3) The location and size of the temporary control zone is to be such as the Welsh Ministers consider appropriate to prevent the spread of disease.
+
+(4) Where a temporary control zone has been established, no person may move any animal or germinal product[^key-f36f66ce680a71b6867ac26bc5086cee] on to or off premises in the zone except in accordance with a licence issued by a veterinary inspector or by an inspector or officer of the Welsh Ministers acting under the instructions of a veterinary inspector[^key-3a83fe9eea9a34d70c313b4278025d85].
+
+(5)[^key-ea6da2d8c930fcd768d3fbbcc8b3078f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Confirmation of bluetongue on premises
+
+(1)[^key-cc51c82411b19b14a8d91564bbdea976] Once a veterinary inspector is satisfied that bluetongue exists on any premises, a veterinary inspector or inspector acting under the instructions of a veterinary inspector[^key-36a1c83b850b21eaa20671906c0f0ec9] may serve a notice on the occupier or the keeper of any animals on those premises—
+
+- (a) confirming the existence of bluetongue on the premises; [^key-651c282e0d49ec9435d69e89360d54cd]...
+- (b)[^key-651c282e0d49ec9435d69e89360d54cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-9b7a39c6ca14ba419cb75cb9a81ee48e] A notice under paragraph (1) may notify the occupier that (notwithstanding regulation 8) it is unnecessary to notify any further suspected cases of bluetongue on the premises to a veterinary inspector.
+
+### 12. Measures on confirmation of the bluetongue virus
+
+(1) If the Chief Veterinary Officer confirms that the bluetongue virus is circulating in Wales, the Welsh Ministers, on being satisfied [^key-1e1191fcb1e899c714fba684d42a0165]... that this is appropriate for disease control purposes, may[^key-969f823f0637adc9e33bb94d34adf1b4] declare an area to be a control zone.
+
+(2) The control zone must include the infected premises, and be of such size as the Welsh Ministers consider appropriate for disease control purposes.
+
+(3) No person may move an animal or germinal product[^key-7304e938a6391b9a4cc78f3d14172082] to or from premises in a control zone except in accordance with a licence issued by a veterinary inspector or by an inspector or officer of the Welsh Ministers acting under the instructions of a veterinary inspector[^key-ee5c58ce5b64a3e93bb23ec548297e11].
+
+### 12A. Power to slaughter animals[^key-44fa455fad6c96e8a99270a837f1d982]
+
+(1) Section 32 of the Animal Health Act 1981 (which relates to slaughter and compensation) applies to bluetongue.
+
+### 13. Restrictions in protection and surveillance zones
+
+(1) If the Chief Veterinary Officer confirms that the bluetongue virus is circulating in Wales the Welsh Ministers—
+
+- (a) may[^key-74c53b3cb004738a5cd83d3694c793fa] declare an appropriate area to be a restricted zone;
+- (b) may, within a restricted zone, declare any area around an infected premises to be a protection zone, and any area beyond such protection zone to be a surveillance zone.
+
+(1A)[^key-4608b87e518378a32221cf7a41fa8fc4] A surveillance zone declared by the Welsh Ministers must not contain any land where animals have been vaccinated with live attenuated vaccines against bluetongue within the last 12 months.
+
+(1B) No person may vaccinate against bluetongue using live attenuated vaccine in a surveillance zone declared under this regulation.
+
+(2) No person may move an animal or germinal product[^key-1ea70e4e271456597e3a28fcc30e32c9] out of a restricted zone except under the authority of a licence granted by a veterinary inspector or by an inspector or officer of the Welsh Ministers acting under the direction of a veterinary inspector[^key-1fc25d2f7c54a914661d0a8c39b6f35a].
+
+(3) No person may move an animal or germinal product[^key-c21151d69ff506f219da9f537399f786] out of a protection or surveillance[^key-c9afae72f4f490fdca7bba1b7372f916] zone except under the authority of a licence granted by a veterinary inspector or by an inspector or officer of the Welsh Ministers acting under the direction of a veterinary inspector[^key-8ad6077065a3c766a6db8d17478040d9].
+
+(3A)[^key-aeabc81d5c8d89541a24082b8970c6dd] A declaration under paragraph (1) may include a prohibition on the movement of animals or germinal products onto or from premises within a zone, except under the authority of a licence granted by a veterinary inspector or by an inspector or officer of the Welsh Ministers acting under the direction of a veterinary inspector.
+
+(4)[^key-749eaadca41a25c92e8cc611de28a329] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A person is prohibited from moving an animal within a restricted zone if the animal shows clinical signs of bluetongue on the day of transport.
+
+### 13A. Measures where bluetongue virus is present but not circulating[^key-9fbb1d7da40bc31875ab744740e187b7]
+
+(1) If bluetongue virus is confirmed in an animal or germinal product and if the Chief Veterinary Officer considers—
+
+- (a) that the virus is not circulating; and
+- (b) there is a disease control benefit from doing so,
+
+the Welsh Ministers may declare an appropriate area to be a restricted zone.
+
+(2) A restricted zone declared under this regulation must—
+
+- (a) be centred on the location of the animal or germinal product in which bluetongue virus is confirmed; and
+- (b) be of such size as is considered necessary by the Chief Veterinary Officer for the prevention of spread of bluetongue virus.
+
+(3) No person may move an animal or germinal product out of a restricted zone declared under this regulation except under the authority of a licence granted by a veterinary inspector or an inspector acting under the direction of a veterinary inspector.
+
+### 13B. Measures to reduce the risk of incursion or spread of bluetongue virus
+
+(1) If, after carrying out a risk assessment, the Welsh Ministers consider such action necessary to reduce the risk of incursion of bluetongue virus into any part of Wales or spread of bluetongue virus to animals or germinal products from any source, the Welsh Ministers may—
+
+- (a) declare a bluetongue prevention zone in all or any part of Wales; and
+- (b) serve, or require an inspector to serve, a notice on the occupier of premises or keeper of animals at premises where animals or germinal products specified in the notice are kept.
+
+(2) A notice or declaration under paragraph (1) may—
+
+- (a) impose such measures as the Welsh Ministers consider necessary to reduce the risk of incursion of bluetongue virus into any part of Wales or spread of bluetongue virus;
+- (b) subject to paragraph (3), restrict the movement of animals or germinal products—
+  - (i) within a bluetongue prevention zone; or
+  - (ii) from premises within the bluetongue prevention zone to an area which is not in the bluetongue prevention zone.
+
+(3) No person may move animals or germinal products within or from a bluetongue prevention zone except under the authority of a licence granted by a veterinary inspector or by an inspector or officer of the Welsh Ministers acting under the direction of a veterinary inspector.
+
+(4) No person may move animals within or from a bluetongue prevention zone if the animal shows clinical signs of bluetongue on or before the day of transport.
+
+### 14. Slaughterhouses
+
+(1) The Welsh Ministers may designate a slaughterhouse for the purpose of slaughtering animals moved in accordance with these Regulations[^key-ca425a2ab32bb61712f13cde61ffa477].
+
+(2) If an animal is transported from a restricted zone to a slaughterhouse outside that restricted zone in accordance with a licence, the operator of the slaughterhouse must slaughter the animal within 24 hours of arrival.
+
+(3)[^key-f710638dde9952b056d1151cb0d0ad50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14A. Other designated premises[^key-bb92bf6f04249239056f4577004d3031]
+
+(1) The Welsh Ministers may designate any premises for the purpose of collecting, processing, handling or storing germinal products.
+
+(2) A designation under this regulation may contain such measures as the Welsh Ministers consider necessary to prevent the spread of bluetongue virus.
+
+### 15. Movement of animals or other things[^key-44922a6fe060acd9be8b27849815639f]
+
+(1) Following the movement of an animal or germinal product from premises within a temporary control zone, protection zone, surveillance zone, control zone or restricted zone, a veterinary inspector or inspector acting under the direction of a veterinary inspector may by notice served on the occupier of premises to which the animal or germinal product has been moved—
+
+- (a) prohibit the movement of that animal or germinal product off the premises to which the animal or germinal product has been moved;
+- (b) prohibit the movement of any other animal or germinal product on to or off such premises;
+- (c) specify such requirements as are considered by a veterinary inspector to be necessary in order to prevent the spread of disease.
+
+(2) A movement prohibited by a notice under paragraph (1) may be authorised under a licence issued by a veterinary inspector or by an inspector or officer of the Welsh Ministers acting under the direction of a veterinary inspector.
+
+### 16. Bluetongue outside Wales
+
+If bluetongue is confirmed outside Wales and the Welsh Ministers consider it appropriate for disease control purposes, the Welsh Ministers may declare in Wales a temporary control zone, a control zone, a protection zone, a surveillance zone or a restricted zone (which may be made up of a protection zone and a surveillance zone).
+
+## PART 3 — Vaccination[^key-c19397edd9e0135e21fb1f6100563ae6]
+
+### 17. Obtaining vaccine
+
+No person other than the holder of a marketing authorisation, a manufacturing authorisation or a wholesale dealer’s authorisation granted by the Secretary of State under the Veterinary Medicines Regulations 2013[^key-d316a301d5b56042469ea11c87dc7e75] may obtain vaccine except for the purpose of enabling the use of vaccines under regulation 19.
+
+### 18. Prohibition on vaccination
+
+No person may vaccinate an animal against bluetongue except in accordance with regulation 19.
+
+### 19. Use of vaccines
+
+(1) The Welsh Ministers may grant a specific or general licence permitting the use of [^key-2180e943686e71edb94ae1a5d3281245]... vaccines against bluetongue in accordance with this regulation.
+
+(2) The Welsh Ministers may declare a vaccination zone in which any occupier of premises or keeper of animals must ensure the vaccination of their animals [^key-f5c23bca2a55520724c1289368063e64]... vaccines and comply with any other measures related to either vaccination or vaccine specified in that declaration.
+
+(3) Where a zone is declared under paragraph (2), a veterinary inspector or by an inspector or officer of the Welsh Ministers acting under the direction of a veterinary inspector[^key-44862ef6e411e59803cb248892584292] may serve a notice on the occupier of premises or the keeper of animals on premises requiring that occupier or keeper to ensure the vaccination [^key-6a8194e82fd00a4db69ea17b91b68a4a]... vaccines of animals at the premises.
+
+(4)[^key-74a35b427cc9d0af95641de969f618ea] The Welsh Ministers may only grant a licence under paragraph (1) or declare a zone under paragraph (2) if the decision to use the vaccine is based on the result of a specific risk assessment carried out by the Welsh Ministers.
+
+(5) Whenever live attenuated vaccines are to be used, the Welsh Ministers must declare—
+
+- (a) a protection zone consisting of at least the vaccination area; and
+- (b) a surveillance zone extending beyond the limits of the protection zone in which no animals have been vaccinated with live attenuated vaccines against bluetongue within the last 12 months.
+
+(6) No person may vaccinate against bluetongue using live attenuated vaccine in a surveillance zone declared under this regulation.
+
+## PART 3A — Exports[^key-2efb5087a3e63a71eef019b74a95b566]
+
+**19A.** (1) A person must not export any animal, semen, ovum or embryo to a third country unless it complies with Commission Regulation [(EC) No. 1266/2007](https://www.legislation.gov.uk/european/regulation/2007/1266) on implementing rules for Council Directive [2000/75/EC](https://www.legislation.gov.uk/european/directive/2000/0075) as regards the control, monitoring, surveillance and restrictions on movements of certain animals of susceptible species in relation to bluetongue.
+
+(2) An inspector who has reasonable cause to suspect that a person intends to export any animal, semen, ovum or embryo in contravention of this regulation may by notice served on that person, that person's representative or the person appearing to be in charge of the animal, semen, ovum or embryo, prohibit that export and require the person on whom the notice is served to take the animal, semen, ovum or embryo to such places as may be specified in the notice and to take such further action in relation to it as may be specified in the notice.
+
+(3) If a notice served under paragraph (2) is not complied with, an inspector may seize any animal or thing to which it relates and arrange for the requirements of the notice to be complied with at the expense of the person on whom the notice was served.
+
+## PART 4 — Inspection, offences and enforcement
+
+### 20. Powers of veterinary inspectors, officers and inspectors
+
+(1) On producing, if required, a duly authenticated document showing the required authority, a veterinary inspector, inspector or an officer of the Welsh Ministers acting under the direction of a veterinary inspector may, at all reasonable hours, enter any premises, vehicle or vessel for the purpose of monitoring or surveillance for the bluetongue virus, antibodies to the bluetongue virus or midges.
+
+(2) On producing, if required, a duly authenticated document showing the required authority, a veterinary inspector, inspector or an officer of the Welsh Ministers may, at all reasonable hours, enter any premises, vehicle or vessel for the purpose of ensuring that these Regulations are being complied with.
+
+(3) A person entering premises, a vehicle or a vessel under paragraphs (1) or (2) may take with him or her—
+
+- (a) any equipment; and
+- (b) such other person as is appropriate.
+
+(4) Any person entering premises under paragraphs (1) or (2) may take a vehicle with him or her.
+
+(5) A veterinary inspector, inspector or an officer of the Welsh Ministers may—
+
+- (a) detain, isolate or[^key-eb544ccb7fe26a29560140b6f7cc1104] restrain any animal;
+- (b) require the detention, isolation or restraint of any animal;
+- (c) mark for identification purposes any animal, carcase or thing;
+- (d) detain or isolate any thing;
+- (e) require the detention or isolation of any thing;
+- (f) require any person who knows about an animal's movements to give details of those movements and of any other animal with which it has been in contact;
+- (g) require the occupier of premises or keeper of animals on those premises to give details of animals either on those premises or on other premises where the occupier or keeper has animals;
+- (h) require the production of any record kept under these Regulations, in whatever form that record is held;
+- (i) copy any record referred to in paragraph (f); or
+- (j) inspect and check the operation of any computer and associated apparatus or material used in the connection with the making and keeping of records under these Regulations.
+
+(6) A veterinary inspector or an inspector or officer of the Welsh Ministers acting under the direction of a veterinary inspector may—
+
+- (a) examine any carcase or thing;
+- (b) require the treatment of any animal;
+- (c) carry out an epidemiological investigation relevant to the control of bluetongue;
+- (d) carry out tests and take samples (including blood samples) from any animal, carcase or thing for the purpose of diagnosis or epidemiological investigation;
+- (e) trap midges;
+- (f) implement midge control measures;
+- (g) require the destruction, burial, disposal or treatment of any thing; or
+- (h) require the cleansing and disinfection of any part of the premises or of any person, animal, vehicle, vessel or thing on the premises.
+
+(7) A veterinary inspector may—
+
+- (a) on entering any premises, vehicle or vessel under this regulation, examine or vaccinate any animal;
+- (b) require, by notice, the occupier of premises or the keeper of animals on premises to —
+  - (i) allow the vaccination of any animal kept there;
+  - (ii) retain animals for use as sentinel animals or allow the introduction of sentinel animals onto those premises; or
+  - (iii) move an animal which has been moved other than in accordance with regulations 13 or 15 to a place specified by the veterinary inspector;
+
+(8) “**Sentinel animal**” (“***anifail rhybuddio***”) means an animal that is used for surveillance for the bluetongue virus which does not have antibodies to the bluetongue virus of the strain in respect of which surveillance is being carried out when first introduced or retained at the premises.
+
+### 21. Obstruction
+
+(1) No person may—
+
+- (a) intentionally obstruct any person acting in the execution of these Regulations; or
+- (b) furnish to any person acting in the execution of these Regulations any information which that person knows to be false or misleading.
+
+(2) Any person required to give reasonable assistance or information to a person acting under these Regulations must do so without delay unless there is reasonable cause to do otherwise.
+
+### 22. Interference with traps and marks
+
+No person may—
+
+- (a) damage, interfere with or remove any traps set for midges under these Regulations; or
+- (b) deface, obliterate or remove any mark made by any person under these Regulations.
+
+### 23. Costs of compliance
+
+Unless the Welsh Ministers direct otherwise in writing, the costs incurred by any person in taking any action required, or in refraining from taking action that is prohibited, by or under these Regulations must be met by that person.
+
+### 24. Powers of inspectors in case of default
+
+If any person fails to comply with a requirement in or under these Regulations, an inspector may take such steps as that inspector considers necessary to ensure the requirement is met at the expense of that person.
+
+### 25. Offences and penalties
+
+A person contravening any requirement or prohibition in or under these Regulations is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment not exceeding three months or both.
+
+### 26. Offences by bodies corporate
+
+(1) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
+
+- (a) any director, manager, secretary or other similar person of the body corporate; or
+- (b) any person who was purporting to act in any such capacity,
+
+that person is guilty of the offence as well as the body corporate.
+
+(2) For the purposes of this regulation, “**director**” (“***cyfarwyddwr***”), in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+### 27. Enforcement
+
+(1) These Regulations are enforced by the local authority.
+
+(2) The Welsh Ministers may direct, in relation to cases of a particular description or to particular cases, that the Welsh Ministers will enforce these Regulations instead.
+
+## PART 5 — Miscellaneous
+
+### 28. Exceptional circumstances
+
+The Welsh Ministers may for the purpose of ensuring the health or welfare of any animal—
+
+- (a) license a person to carry out any action that is otherwise prohibited under these Regulations; or
+- (b) exempt a person, by notice, from any requirement under these Regulations.
+
+### 29. Revocation
+
+The Bluetongue (No. 2) (Wales) Order 2007 [^c19226991] is revoked (except for article 17).
+
+Elin Jones
+
+Minister for Rural Affairs, one of the Welsh Ministers
+
+*(This note is not part of the Regulations)*
+
+[^c19227001][^c19227011]These Regulations implement Council Directive [2000/75/EC](https://www.legislation.gov.uk/european/directive/2000/0075) laying down specific provisions for the control and eradication of bluetongue and enforce Commission Regulation [(EC) No. 1266/2007](https://www.legislation.gov.uk/european/regulation/2007/1266) . They revoke and remake with changes the Bluetongue (No. 2) (Wales) Order 2007 .
+
+The changes are that—
+
+- (a) the Welsh Ministers may, within a restricted zone, declare any area around an infected premises to be a protection zone, and any area beyond such protection zone to be a surveillance zone (regulation 13(1)(b)).
+- (b) a person is prohibited from moving an animal in a restricted zone if the animal shows clinical signs of bluetongue on the day of transport (regulation 13(5)).
+- (c) the operator of a slaughterhouse in a surveillance zone must obtain a licence if that operator proposes to slaughter animals from a protection zone (regulation 14(3)).
+- (d) if bluetongue is confirmed outside Wales, the Welsh Ministers may declare a protection zone and a surveillance zone in Wales (regulation 16).
+- (e) unless in an excepted category, a person requires a licence to obtain bluetongue vaccine (regulation 17). Vaccination can only take place if authorised by the Welsh Ministers (regulation 18) or where vaccination is required either in a vaccination zone or by notice served on particular premises (regulation 19).
+- (f) power is given to the Welsh Ministers to allow a person to take or avoid taking an action otherwise than in accordance with the other provisions of these Regulations for the purpose only of ensuring the health and welfare of any animal (regulation 28).
+
+Part 1 of the Regulations makes provision for exemptions from the requirements of the Regulations, for licences and for the declaration of zones (regulations 3 to 7).
+
+Part 2 of the Regulations provides for the reporting of symptoms of bluetongue (regulation 8), the establishment of restrictions on premises (regulation 9), the establishment of temporary control zones (regulation 10), confirmation of bluetongue on premises (regulation 11), and the establishment of zones and controls on movements of animals within and out of those zones (regulations 12 and 13). Power is given to the Welsh Ministers to license or designate certain slaughterhouses (regulation 14). Movement without a licence of animals from the restricted zone where a notice has been served on the occupier of the premises of destination is prohibited (regulation 15). This Part also provides for the Welsh Ministers to declare zones in Wales when bluetongue is confirmed outside Wales.
+
+Part 3 makes provision for vaccination (regulations 17 to 19).
+
+Part 4 makes provision for enforcement and sets out the offences of obstruction and interference with traps and marks (regulations 20 to 24 and regulation 26). Failure to comply with any requirement or to observe any prohibition in or under these Regulations is an offence (regulation 25). The Regulations are enforced by the local authority, unless the Welsh Ministers direct otherwise (regulation 27).
+
+Part 5 gives power to the Welsh Ministers to permit anything that would otherwise be prohibited or to exempt a person from any requirement under the Regulations, for the purpose of ensuring the health or welfare of any animal (regulation 28).
+
+A regulatory impact assessment of the effect that this instrument will have is available from the Welsh Assembly Government, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^c19226911]: Marginal citation: [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766). By virtue of sections 59(1) and 162 of and paragraphs 28 and 30 of Schedule 11 to the Government of Wales Act 2006, functions conferred on the National Assembly for Wales are exercisable by the Welsh Ministers.
+
+[^c19226921]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c19226931]: Marginal citation: OJ No L283, 27.10.2007, p 37.
+
+[^c19226941]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/wsi/2008/1090/paragraph/1A) was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^key-db39c915b32754406e1d709cbcd2de23]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/2/1) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2024/971/article/4/2/a)
+
+[^key-95da63d94c62c518e99cca5f56f1ab5f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/2/1) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2024/971/article/4/2/b)
+
+[^key-589a649fcdb9eaea6605ef40e4679e87]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/2/1) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(2)(c)](https://www.legislation.gov.uk/wsi/2024/971/article/4/2/c)
+
+[^key-ad4b05a0550eabceea4ed0511ae6e633]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/2/1) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(2)(d)](https://www.legislation.gov.uk/wsi/2024/971/article/4/2/d)
+
+[^key-83a6ec05bf02beb238d1d3f9327dd104]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2008/1090/regulation/2) inserted (10.10.2012) by [The Bluetongue (Wales) (Amendment) Regulations 2012 (S.I. 2012/2403)](https://www.legislation.gov.uk/wsi/2012/2403), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2012/2403/regulation/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2012/2403/regulation/2/2)
+
+[^key-1c3fc05fac73c1d098019447dc308dc0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/2/1) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(2)(e)](https://www.legislation.gov.uk/wsi/2024/971/article/4/2/e)
+
+[^key-758a23253191b2db7f0215c253bc87bd]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/2/2) omitted (23.9.2024) by virtue of [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2024/971/article/4/3)
+
+[^key-05f3ba16933b716cd52e1cfafab14c59]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2008/1090/regulation/3) substituted (10.10.2012) by [The Bluetongue (Wales) (Amendment) Regulations 2012 (S.I. 2012/2403)](https://www.legislation.gov.uk/wsi/2012/2403), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2012/2403/regulation/1/3), [2(3)](https://www.legislation.gov.uk/wsi/2012/2403/regulation/2/3)
+
+[^key-0ec6b273264755d9e0e6ba1ee5c6aa77]: Textual amendment: Words in [reg. 7(4)(c)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/7/4/c) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2024/971/article/4/4)
+
+[^key-e9d8ac7cc2222c7c3858e7275776b595]: Textual amendment: Words in reg. 8(1)(a) substituted (1.4.2010) by [The Animals (Divisional Veterinary Managers) (Wales) Regulations 2010 (S.I. 2010/619)](https://www.legislation.gov.uk/uksi/2010/619), [regs. 1](https://www.legislation.gov.uk/uksi/2010/619/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2010/619/regulation/6/3)
+
+[^key-b63807bc09b079e98ef5388a10386ac1]: Textual amendment: Words in reg. 8(2) substituted (1.4.2010) by [The Animals (Divisional Veterinary Managers) (Wales) Regulations 2010 (S.I. 2010/619)](https://www.legislation.gov.uk/uksi/2010/619), [regs. 1](https://www.legislation.gov.uk/uksi/2010/619/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2010/619/regulation/6/3)
+
+[^key-b60949c0f1180bfbe77542fb92913600]: Textual amendment: Reg. 8(3) revoked (1.4.2010) by [The Animals (Divisional Veterinary Managers) (Wales) Regulations 2010 (S.I. 2010/619)](https://www.legislation.gov.uk/uksi/2010/619), [regs. 1](https://www.legislation.gov.uk/uksi/2010/619/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/619/regulation/6/2)
+
+[^key-0f12734f3e13b55bdbdd324f3246498b]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2008/1090/regulation/9) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(5)](https://www.legislation.gov.uk/wsi/2024/971/article/4/5)
+
+[^key-f36f66ce680a71b6867ac26bc5086cee]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/10/4) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(6)(a)(i)](https://www.legislation.gov.uk/wsi/2024/971/article/4/6/a/i)
+
+[^key-3a83fe9eea9a34d70c313b4278025d85]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/10/4) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(6)(a)(ii)](https://www.legislation.gov.uk/wsi/2024/971/article/4/6/a/ii)
+
+[^key-ea6da2d8c930fcd768d3fbbcc8b3078f]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/10/5) omitted (23.9.2024) by virtue of [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(6)(b)](https://www.legislation.gov.uk/wsi/2024/971/article/4/6/b)
+
+[^key-cc51c82411b19b14a8d91564bbdea976]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2008/1090/regulation/11) renumbered as reg. 11(1) (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/uksi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/971/article/1/2), [4(7)(a)](https://www.legislation.gov.uk/uksi/2024/971/article/4/7/a)
+
+[^key-36a1c83b850b21eaa20671906c0f0ec9]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/11/1) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(7)(c)](https://www.legislation.gov.uk/wsi/2024/971/article/4/7/c)
+
+[^key-651c282e0d49ec9435d69e89360d54cd]: Textual amendment: [Reg. 11(b)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/11/b) and word omitted (23.9.2024) by virtue of [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(7)(b)](https://www.legislation.gov.uk/wsi/2024/971/article/4/7/b)
+
+[^key-9b7a39c6ca14ba419cb75cb9a81ee48e]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/11/2) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(7)(d)](https://www.legislation.gov.uk/wsi/2024/971/article/4/7/d)
+
+[^key-1e1191fcb1e899c714fba684d42a0165]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/12/1) omitted (23.9.2024) by virtue of [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(8)(a)(i)](https://www.legislation.gov.uk/wsi/2024/971/article/4/8/a/i)
+
+[^key-969f823f0637adc9e33bb94d34adf1b4]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/12/1) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(8)(a)(ii)](https://www.legislation.gov.uk/wsi/2024/971/article/4/8/a/ii)
+
+[^key-7304e938a6391b9a4cc78f3d14172082]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/12/3) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(8)(b)(i)](https://www.legislation.gov.uk/wsi/2024/971/article/4/8/b/i)
+
+[^key-ee5c58ce5b64a3e93bb23ec548297e11]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/12/3) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(8)(b)(ii)](https://www.legislation.gov.uk/wsi/2024/971/article/4/8/b/ii)
+
+[^key-44fa455fad6c96e8a99270a837f1d982]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/wsi/2008/1090/regulation/12A) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(9)](https://www.legislation.gov.uk/wsi/2024/971/article/4/9)
+
+[^key-74c53b3cb004738a5cd83d3694c793fa]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13/1/a) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(10)(a)](https://www.legislation.gov.uk/wsi/2024/971/article/4/10/a)
+
+[^key-4608b87e518378a32221cf7a41fa8fc4]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13/1A)[(1B)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13/1B) inserted (10.10.2012) by [The Bluetongue (Wales) (Amendment) Regulations 2012 (S.I. 2012/2403)](https://www.legislation.gov.uk/wsi/2012/2403), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2012/2403/regulation/1/3), [2(4)](https://www.legislation.gov.uk/wsi/2012/2403/regulation/2/4)
+
+[^key-1ea70e4e271456597e3a28fcc30e32c9]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13/2) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(10)(b)(i)](https://www.legislation.gov.uk/wsi/2024/971/article/4/10/b/i)
+
+[^key-1fc25d2f7c54a914661d0a8c39b6f35a]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13/2) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(10)(b)(ii)](https://www.legislation.gov.uk/wsi/2024/971/article/4/10/b/ii)
+
+[^key-c21151d69ff506f219da9f537399f786]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13/3) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(10)(c)(i)](https://www.legislation.gov.uk/wsi/2024/971/article/4/10/c/i)
+
+[^key-c9afae72f4f490fdca7bba1b7372f916]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13/3) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(10)(c)(ii)](https://www.legislation.gov.uk/wsi/2024/971/article/4/10/c/ii)
+
+[^key-8ad6077065a3c766a6db8d17478040d9]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13/3) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(10)(c)(iii)](https://www.legislation.gov.uk/wsi/2024/971/article/4/10/c/iii)
+
+[^key-aeabc81d5c8d89541a24082b8970c6dd]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13/3A) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(10)(d)](https://www.legislation.gov.uk/wsi/2024/971/article/4/10/d)
+
+[^key-749eaadca41a25c92e8cc611de28a329]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13/4) omitted (23.9.2024) by virtue of [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(10)(e)](https://www.legislation.gov.uk/wsi/2024/971/article/4/10/e)
+
+[^key-9fbb1d7da40bc31875ab744740e187b7]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13A), [13B](https://www.legislation.gov.uk/wsi/2008/1090/regulation/13B) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(11)](https://www.legislation.gov.uk/wsi/2024/971/article/4/11)
+
+[^key-ca425a2ab32bb61712f13cde61ffa477]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/14/1) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(12)(a)](https://www.legislation.gov.uk/wsi/2024/971/article/4/12/a)
+
+[^key-f710638dde9952b056d1151cb0d0ad50]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/14/3) omitted (23.9.2024) by virtue of [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(12)(b)](https://www.legislation.gov.uk/wsi/2024/971/article/4/12/b)
+
+[^key-bb92bf6f04249239056f4577004d3031]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/wsi/2008/1090/regulation/14A) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(13)](https://www.legislation.gov.uk/wsi/2024/971/article/4/13)
+
+[^key-44922a6fe060acd9be8b27849815639f]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/wsi/2008/1090/regulation/15) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(14)](https://www.legislation.gov.uk/wsi/2024/971/article/4/14)
+
+[^key-c19397edd9e0135e21fb1f6100563ae6]: Textual amendment: Pt. 3 substituted (10.10.2012) by [The Bluetongue (Wales) (Amendment) Regulations 2012 (S.I. 2012/2403)](https://www.legislation.gov.uk/wsi/2012/2403), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2012/2403/regulation/1/3), [2(5)](https://www.legislation.gov.uk/wsi/2012/2403/regulation/2/5)
+
+[^key-d316a301d5b56042469ea11c87dc7e75]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/wsi/2008/1090/regulation/17) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [34](https://www.legislation.gov.uk/wsi/2018/1216/regulation/34)
+
+[^key-2180e943686e71edb94ae1a5d3281245]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/19/1) omitted (23.9.2024) by virtue of [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(15)(a)](https://www.legislation.gov.uk/wsi/2024/971/article/4/15/a)
+
+[^key-f5c23bca2a55520724c1289368063e64]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/19/2) omitted (23.9.2024) by virtue of [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(15)(b)](https://www.legislation.gov.uk/wsi/2024/971/article/4/15/b)
+
+[^key-44862ef6e411e59803cb248892584292]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/19/3) inserted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(15)(c)(i)](https://www.legislation.gov.uk/wsi/2024/971/article/4/15/c/i)
+
+[^key-6a8194e82fd00a4db69ea17b91b68a4a]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/19/3) omitted (23.9.2024) by virtue of [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(15)(c)(ii)](https://www.legislation.gov.uk/wsi/2024/971/article/4/15/c/ii)
+
+[^key-74a35b427cc9d0af95641de969f618ea]: Textual amendment: [Reg. 19(4)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/19/4) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2019/371/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2efb5087a3e63a71eef019b74a95b566]: Textual amendment: Pt. 3A inserted (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/wsi/2011/2379), [reg. 1](https://www.legislation.gov.uk/wsi/2011/2379/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2011/2379/schedule/4/paragraph/1) (with [reg. 3](https://www.legislation.gov.uk/wsi/2011/2379/regulation/3))
+
+[^key-eb544ccb7fe26a29560140b6f7cc1104]: Textual amendment: Words in [reg. 20(5)(a)](https://www.legislation.gov.uk/wsi/2008/1090/regulation/20/5/a) substituted (23.9.2024) by [The Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024 (S.I. 2024/971)](https://www.legislation.gov.uk/wsi/2024/971), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2), [4(16)](https://www.legislation.gov.uk/wsi/2024/971/article/4/16)
+
+[^c19226991]: Marginal citation: S I. 2007/3309 (W.294).
+
+[^c19227001]: Marginal citation: OJ No L283, 27.10.2007, p 37.
+
+[^c19227011]: Marginal citation: [S.I. 2007/3309](https://www.legislation.gov.uk/uksi/2007/3309) (W.294).

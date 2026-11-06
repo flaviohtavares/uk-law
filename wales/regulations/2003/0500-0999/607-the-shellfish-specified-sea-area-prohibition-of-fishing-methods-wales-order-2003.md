@@ -1,0 +1,115 @@
+---
+title: The Shellfish (Specified Sea Area) (Prohibition of Fishing Methods) (Wales) Order 2003
+id: wsi/2003/607
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-03-06'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2003/607
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2003/607/pdfs/wsi_20030607_mi.pdf
+- http://www.legislation.gov.uk/wsi/2003/607/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Shellfish (Specified Sea Area) (Prohibition of Fishing Methods) (Wales) Order 2003
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 607 (W.81)
+
+SEA FISHERIES, WALES
+
+The Shellfish (Specified Sea Area) (Prohibition of Fishing Methods) (Wales) Order 2003
+
+Made
+
+6th March 2003
+
+Coming into force
+
+9th March 2003
+
+The National Assembly for Wales, in exercise of the powers conferred by sections 5, 5A and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001], and now vested in it[^f00002], hereby makes the following Order:
+
+## 1. Title and commencement[^key-40f03e6d0f380f4a56ea5350785b66d0]
+
+This Order is called the The Shellfish (Specified Sea Area) (Prohibition of Fishing Methods) (Wales) Order 2003 and comes into force on 9th March 2003.
+
+## 2. Interpretation[^key-fb28cbdf4e619438ba3724ba6661aeba]
+
+In this Order—
+
+- “the Act” (“*y Ddeddf*”) means the Sea Fish (Conservation) Act 1967;
+- “bivalve molluscs” (“*molysgiaid dwygragennog*”) means molluscs with a shell hinged in two parts that encases the soft parts of the animal;
+- “hydraulic dredging” (“*carthu hydrolig*”) means a method of fishing for bivalve molluscs buried in the sea bed whereby the dredge is trailed behind the boat at the end of a 10-20cm diameter pipe and water is pumped at high pressure to the mouth of the dredge and directed back up the pipe creating suction causing material, including the fish being dredged for, to be lifted to the surface of the water;
+- “the specified sea area” (“*yr ardal fôr benodedig*”) means that area of Carmarthen Bay north of a line directly southwards from the Gower Peninsula to a point whose co-ordinates are 04°10−W, 51°30−N then westwards to 04°27−W, 51°30−N, then northwards to 04°27−W, 51°36−N, then westwards to 04°42−W, 51°36−N, then directly northwards across Caldey Island to the coastline at Tenby.
+
+## 3. Prohibition[^key-5ba99bc810bd9e4ffe74aad55726b536]
+
+The use of hydraulic dredging to recover bivalve molluscs in the specified sea area is hereby prohibited.
+
+## 4. Powers of British sea-fishery officers in relation to fishing boats[^key-82274e9d21dc9bbac6361624121606a4]
+
+(1) For the purpose of the enforcement of article 2 of this Order a British sea-fishery officer may exercise in relation to any fishing boat[^key-21d3a49da284b5478f92a1153455821a] within the territorial sea adjacent to Wales the powers conferred by paragraphs (2) to (4) of this Article.
+
+(2) The officer may go on board the boat, with or without persons assigned to assist with the officer’s duties, and for that purpose may require the boat to stop and may do anything else that would facilitate the boarding of the boat
+
+(3) The officer may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to be necessary for the purpose mentioned in paragraph (1) of this Article and, in particular—
+
+- (a) may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything which appears to the officer to be necessary for facilitating the examination;
+- (b) may require any person on board the boat to produce any document relating to the boat, to its fishing operations or other operations ancillary thereto or to the persons on board which is in that person’s custody or possession and may take copies of any such document;
+- (c) for the purpose of ascertaining whether the master, owner or charterer of the boat has committed an offence under section 5 of the Act as read with this Order, may search the boat for any such document and may require any person on board the boat to do anything which appears to the officer to be necessary for facilitating the search; and
+- (d) where the boat is one in relation to which the officer has reason to suspect that such an offence has been committed, may seize and detain any such document produced or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence;
+
+but nothing in subparagraph (d) above permits any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
+
+(4) Where it appears to a British sea-fishery officer that a contravention of section 5 of the Act as read with this Order has at any time taken place within British fishery limits, that officer may—
+
+- (a) require the master of the boat in relation to which the offence took place to take, or may himself take, the boat and its crew to the port which appears to the officer to be the nearest convenient port; and
+- (b) detain or require the master to detain the boat in the port;
+
+and where such an officer detains or requires the detention of a boat that officer must serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00003]
+
+D.Elis-Thomas
+
+The Presiding Officer of the Assembly
+
+(This note is not part of the Order)
+
+Section 5 of the Sea Fish (Conservation) Act 1967 contains a power to prohibit all fishing for sea fish, or a specific type of sea fish, or a specific method of fishing either sea fish generally or sea fish of a particular description. By virtue of Section 22 of that Act sea fish includes shellfish. Section 5A of the Act permits the power to make an order under section 5 to be used for marine environmental purposes. The power is exercisable by the National Assembly for Wales in relation to the territorial sea adjacent to Wales.
+
+That part of the sea off the South Wales coast described in article 2 of the Order has been identified as a potential Special Protection Area for the purposes of the Birds Directive (Council Directive [79/409/EEC](https://www.legislation.gov.uk/european/directive/1979/0409)).
+
+The area in question is an important site for non-breeding Common Scoter, and this Order prohibits the use of hydraulic dredging for bivalve molluscs in that area. Scientific and other exemptions are contained in section 9 of the 1967 Act.
+
+The Order contains provisions relating to enforcement. Other provisions, including those relating to offences, are contained in the 1967 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
+
+[^f00002]: Footnote: By virtue of the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999 No. 672)](https://www.legislation.gov.uk/uksi/1999/672) the functions of “the Ministers” under the Act were transferred to the National Assembly.
+
+[^key-40f03e6d0f380f4a56ea5350785b66d0]: Commencement: Art. 1 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
+
+[^key-fb28cbdf4e619438ba3724ba6661aeba]: Commencement: Art. 2 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
+
+[^key-5ba99bc810bd9e4ffe74aad55726b536]: Commencement: Art. 3 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
+
+[^key-82274e9d21dc9bbac6361624121606a4]: Commencement: Art. 4 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
+
+[^key-21d3a49da284b5478f92a1153455821a]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2003/607/article/4/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/9/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

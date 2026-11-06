@@ -1,0 +1,79 @@
+---
+title: The Civil Enforcement of Bus Lane and Moving Traffic Contraventions (County of Carmarthenshire) Designation Order 2018
+id: wsi/2018/1180
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2018-11-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2018/1180
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2018/1180/pdfs/wsi_20181180_mi.pdf
+- http://www.legislation.gov.uk/wsi/2018/1180/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Enforcement of Bus Lane and Moving Traffic Contraventions (County of Carmarthenshire) Designation Order 2018
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2018 No. 1180 (W. 239)
+
+Road Traffic, Wales
+
+The Civil Enforcement of Bus Lane and Moving Traffic Contraventions (County of Carmarthenshire) Designation Order 2018
+
+Made
+
+13 November 2018
+
+Laid before the National Assembly for Wales
+
+15 November 2018
+
+Coming into force
+
+10 December 2018
+
+This Order is made in exercise of the powers conferred on the National Assembly for Wales by paragraphs 9(1) and 10(1) of Schedule 8 to the Traffic Management Act 2004 (“the Act”)[^f00001] and now vested in the Welsh Ministers[^f00002].
+
+Carmarthenshire County Council has applied to the Welsh Ministers for an Order to be made under these powers with respect to the county of Carmarthenshire.
+
+The Welsh Ministers have consulted the chief officer of Dyfed-Powys Police in accordance with the requirements of paragraph 10(4) of Schedule 8 to the Act.
+
+## 1. Title and commencement
+
+The title of this Order is The Civil Enforcement of Bus Lane and Moving Traffic Contraventions (County of Carmarthenshire) Designation Order 2018 and it comes into force on 10 December 2018.
+
+## 2. Designation of civil enforcement area
+
+The Welsh Ministers designate the county of Carmarthenshire as—
+
+- (a) a civil enforcement area for bus lane contraventions; and
+- (b) a civil enforcement area for moving traffic contraventions.
+
+Ken Skates
+
+Cabinet Secretary for Economy and Transport, one of the Welsh Ministers
+
+13 November 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order designates the county of Carmarthenshire as a civil enforcement area for bus lane and moving traffic contraventions for the purposes of Part 6 of the Traffic Management Act 2004. The county of Carmarthenshire is already designated as a civil enforcement area for parking contraventions under that Act by the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Carmarthenshire) Order 2004 ([S.I. 2004/104 (W. 11)](https://www.legislation.gov.uk/wsi/2004/104)), which is deemed by paragraph 8(4) of Schedule 8 to the Act to be an order designating the area as a civil enforcement area for parking contraventions under paragraph 8 of Schedule 8 to the Act.
+
+The practical effect of the Order is to enable Carmarthenshire County Council to enforce bus lane and moving traffic contraventions within the county of Carmarthenshire through a civil law regime.
+
+A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained from the Orders Branch, the Department for Economy, Skills and Natural Resources, the Welsh Government, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
+
+[^f00002]: Footnote: The functions of the National Assembly for Wales under the Act were transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). By virtue of section 92(1) of the Act, the National Assembly for Wales was designated as the appropriate national authority as regards Wales, for the purposes of Part 6 of that Act.

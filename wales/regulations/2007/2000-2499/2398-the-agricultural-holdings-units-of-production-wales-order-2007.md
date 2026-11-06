@@ -1,0 +1,198 @@
+---
+title: The Agricultural Holdings (Units of Production) (Wales) Order 2007
+id: wsi/2007/2398
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-08-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2007/2398
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2007/2398/pdfs/wsi_20072398_mi.pdf
+- http://www.legislation.gov.uk/wsi/2007/2398/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Agricultural Holdings (Units of Production) (Wales) Order 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 2398 (W.199)
+
+LANDLORD AND TENANT, WALES
+
+The Agricultural Holdings (Units of Production) (Wales) Order 2007
+
+Made
+
+14 August 2007
+
+Laid before the National Assembly for Wales
+
+14 August 2007
+
+Coming into force
+
+7 September 2007
+
+The Welsh Ministers in exercise of the powers conferred by paragraph 4 of Schedule 6 to the Agricultural Holdings Act 1986[^f00001], and now vested in them[^f00002], make the following Order:—
+
+## 1. Title, commencement and interpretation
+
+(1) The title of this Order is the Agricultural Holdings (Units of Production) (Wales) Order 2007 and it comes into force on \[date\]
+
+(2) This Order applies in relation to Wales.
+
+(3) In this Order:
+
+- “Council Regulation 1782/2003” (“*Rheoliad y Cyngor 1782/2003*”) means Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) establishing common rules for direct support schemes under the common agricultural policy and establishing certain direct schemes for farmers and amending certain regulations[^f00003] as last amended by Commission Regulation [(EC) No. 1156/2006](https://www.legislation.gov.uk/european/regulation/2006/1156) [^f00004];
+- “designated maps” (“*mapiau dynodedig*”) means the two volumes of maps numbered 1 and 2 each volume being marked “Volume of Maps of less favoured farming areas in Wales” and with the number of the volume dated 20 May 1999 signed by the Secretary of State for Wales and deposited at the offices of the Welsh Assembly Government Agriculture Department at Cathays Park, Cardiff, CF10 3NQ;
+- “disadvantaged land” (“*tir tan anfantais*”) (except in the expression “severely disadvantaged land”) means any area of land shown coloured blue on the designated maps;
+- “eligible hectare” (“*hectar cymwys*”)has the same meaning as in Article 44(2) of Council Regulation 1782/2003;
+- “eligible land” (“*tir cymwys*”) means such part of the qualifying land as lies within a less favoured area;
+- “less favoured area” (“*tir llai ffafriol*”) means land that is disadvantaged or severely disadvantaged;
+- “severely disadvantaged land” (*tir tan anfantais ddifrifol*”) means the area of land shown coloured in pink on the designated maps;
+- “Tir Mynydd payment” (“*Taliad Tir Mynydd*”) means financial assistance paid in accordance with regulation 3 of the Rural Development Programmes (Wales) Regulations 2006[^f00005].
+
+## 2. Assessment of productive capacity of land
+
+(1) Paragraphs (2) and (3) of this article have effect for the purpose of the assessment of the productive capacity of a unit of agricultural land situated in Wales, in order to determine whether that unit is a commercial unit of agricultural land within the meaning of paragraph 3(1) of Schedule 6 to the Agricultural Holdings Act 1986.
+
+(2) Where the land in question is capable when farmed under competent management, of being used to produce any livestock, farm arable crop, outdoor horticultural crop or fruit as is mentioned in any of the entries 1 to 3 of column 1 of the Schedule to this Order then—
+
+- (a) the unit of production prescribed in relation to that use of the land is the unit in the entry in column 2 of Schedule 1 opposite to that entry, and
+- (b) the amount determined for the period of 12 months beginning with 12 September 2006 as the net annual income from that unit of production in that period is the amount in the entry in column 3 of that Schedule opposite to that entry as read with any relevant note to that Schedule.
+
+(3) Where land capable, when farmed under competent management, of producing a net annual income is in receipt of a Tir Mynydd payment or was set aside from production in 2005 or was an eligible hectare in 2005 as is mentioned in entries 4 , 5 and 6 in column 1 of the Schedule, then—
+
+- (a) the unit of production prescribed in relation to that use of the land is the unit specified in column 2 of that Schedule opposite to that entry, and
+- (b) the amount determined for the period of 12 months beginning with 12 September 2006 as the net annual income from that unit of production in that period is the amount in the entry in column 3 of that Schedule opposite to that entry.
+
+## 3. Revocation
+
+The Agricultural Holdings (Units of Production) (Wales) Order 2006[^f00006] is revoked.
+
+Elin Jones
+
+Minister for Rural Affairs, one of the Welsh Ministers
+
+14 August 2007
+
+## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME
+
+Article 2
+
+<table>
+<thead>
+<tr><th>Column 1</th><th></th><th>Column 2</th><th>Column 3</th></tr>
+<tr><th>Farming use</th><th></th><th>Unit of production</th><th>Net annual income from unit of production (£)</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="4"><strong>NOTES TO THE SCHEDULE</strong></td></tr>
+<tr><td colspan="4">(1)<br>This is the figure for animals which would be kept for 12 months. In the case of animals kept for less than 12 months a pro rata adjustment of this figure is to be made.</td></tr>
+<tr><td colspan="4">(2)<br>This is the figure for animals (irrespective of age) which would be kept for 12 months. In the case of animals kept for less than 12 months a pro rata adjustment of this figure is to be made.</td></tr>
+<tr><td colspan="4">(3)<br>This figure includes the protein crop premium provided for in Article 76 of Council Regulation 1782/2003.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>1. Livestock</th></tr>
+<tr><td>Dairy cows (other than Channel Islands breeds)</td><td></td><td>cow</td><td>302</td></tr>
+<tr><td>Beef breeding cows :</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>On land which is “eligible land” for the purposes of a Tir Mynydd payment</td><td>cow</td><td>−138</td></tr>
+<tr><td></td><td>On other land</td><td>cow</td><td>−59</td></tr>
+<tr><td>Beef fattening cattle (semi-intensive)</td><td></td><td>head</td><td>−57</td></tr>
+<tr><td>Dairy replacements</td><td></td><td>head</td><td>80</td></tr>
+<tr><td>Ewes:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>On land which is “eligible land” for the purposes of a Tir Mynydd</td><td>ewe</td><td>8</td></tr>
+<tr><td></td><td>On other land</td><td>ewe</td><td>19</td></tr>
+<tr><td>Store lambs (including ewe lambs sold as shearlings)</td><td></td><td>head</td><td>2</td></tr>
+<tr><td>Pigs:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Sows and gilts in pig</td><td>sow or gilt</td><td>160</td></tr>
+<tr><td></td><td>Porker</td><td>head</td><td>3</td></tr>
+<tr><td></td><td>Cutter</td><td>head</td><td>5.50</td></tr>
+<tr><td></td><td>Bacon</td><td>head</td><td>8.20</td></tr>
+<tr><td>Poultry:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Laying hens</td><td>bird</td><td>2</td></tr>
+<tr><td></td><td>Broilers</td><td>bird</td><td>0.24</td></tr>
+<tr><td></td><td>Point-of-lay pullets</td><td>bird</td><td>0.45</td></tr>
+<tr><td>Christmas turkeys</td><td></td><td>bird</td><td>4.50</td></tr>
+<tr><th>2. Farm arable crops</th></tr>
+<tr><td>Barley</td><td></td><td>hectare</td><td>24</td></tr>
+<tr><td>Beans</td><td></td><td>hectare</td><td>54.18</td></tr>
+<tr><td>Herbage seed</td><td></td><td>hectare</td><td>230</td></tr>
+<tr><td>Oilseed rape</td><td></td><td>hectare</td><td>22</td></tr>
+<tr><td>Peas:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Dried</td><td>hectare</td><td>14.18</td></tr>
+<tr><td></td><td>Vining</td><td>hectare</td><td>350</td></tr>
+<tr><td>Potatoes:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>First early</td><td>hectare</td><td>1800</td></tr>
+<tr><td></td><td>Maincrop (including seed)</td><td>hectare</td><td>1500</td></tr>
+<tr><td>Sugar Beet</td><td></td><td>hectare</td><td>250</td></tr>
+<tr><td>Wheat</td><td></td><td>hectare</td><td>35</td></tr>
+<tr><th>3. Outdoor horticultural crops aand fruit</th></tr>
+<tr><td>Root vegetables and onions</td><td></td><td>hectare</td><td>2500</td></tr>
+<tr><td>Brassicas</td><td></td><td>hectare</td><td>1750</td></tr>
+<tr><td>Fresh peas and beans</td><td></td><td>hectare</td><td>1100</td></tr>
+<tr><td>Orchard fruit</td><td></td><td>hectare</td><td>1300</td></tr>
+<tr><td>Soft fruit</td><td></td><td>hectare</td><td>3600</td></tr>
+<tr><th>4. Forage Land</th></tr>
+<tr><td>On land which is “eligible land” for the purposes of a Tir Mynydd payment</td><td></td><td>hectare</td><td>The amount of the Tir Mynydd payment required to be paid under regulation 3 of the Rural Development Programmes (Wales) Regulations 2006</td></tr>
+<tr><th>5. Set-aside</th></tr>
+<tr><td>Land which was in 2005 set-aside from production under Article 54(3) of Council Regulation 1782/2003</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Severely disadvantaged land</td><td>hectare</td><td>−19.91</td></tr>
+<tr><td></td><td>Disadvantaged land</td><td>hectare</td><td>−16.77</td></tr>
+<tr><td></td><td>All other land</td><td>hectare</td><td>−120.77</td></tr>
+<tr><th>6. Eligible hectares</th></tr>
+<tr><td>Land which was in 2005 an eligible hectare for the purposes of Council Regulation 1782/2003 except land which was set aside from production under Article 54(3) of that Regulation:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Severely disadvantaged land</td><td>hectare</td><td>104.20</td></tr>
+<tr><td></td><td>Disadvantaged land</td><td>hectare</td><td>121.22</td></tr>
+<tr><td></td><td>All other land</td><td>hectare</td><td>69.96</td></tr>
+</tbody>
+</table>
+
+[^f01000][^f01001][^f01002][^f01002]
+
+(This note is not part of the Order)
+
+This Order prescribes units of production for the assessment of the productive capacity of agricultural land situated in Wales and sets out the amount which is to be regarded as the net annual income from each such unit for the year 12 September 2006 to 11 September 2007 inclusive.
+
+This Order revokes the Agricultural Holdings (Units of Production) (Wales) Order 2006.
+
+An assessment of the productive capacity of agricultural land is required in determining whether or not the land in question is a “commercial unit of agricultural land” for the purposes of the succession provisions in the Agricultural Holdings Act 1986: see in particular sections 36(3) and 50(2).
+
+A “commercial unit of agricultural land” is land which, when farmed under competent management, is capable of producing a net annual income which is not less than the aggregate of the average annual earnings of two full-time male agricultural workers aged 20 years or over (paragraph 3 of Schedule 6 to the 1986 Act).
+
+Article 2 of this Order provides that in determining this annual income figure, whenever a particular farming use mentioned in column 1 of the Schedule is relevant to the assessment of the productive capacity of the land in question, the units of production and the net annual income specified in columns 2 and 3 respectively will form the basis of that assessment.
+
+The net annual income figures in column 3 of the Schedule prescribe the net annual income from one unit of production. In some cases the net annual income is derived from a unit which will be on the land for the full twelve-month period. In other cases the net annual income is derived from a unit which will be on the land for only part of the year, and there may be more than one production cycle in the twelve-month period. The assessment of the productive capacity of the land will take account of the total production in the course of a year.
+
+This Order includes net annual income figures for land which was in 2005 an eligible hectare for the purposes of Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) (O.J. No. L270, 21.10.2003, p.1), which establishes the Single Payment Scheme. There are separate figures in the Schedule for severely disadvantaged land, disadvantaged land and other land. There are also separate figures for land which was set aside from production in 2005.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
+
+[^f00002]: Footnote: Functions conferred under the Agricultural Holdings Act 1986 were transferred to the National Assembly for Wales by virtue of S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672) and S.I. [2004/3044](https://www.legislation.gov.uk/uksi/2004/3044) and are exercisable by the Welsh Ministers by virtue of s.162 and paragraph 30 of Schedule 11 of the Government of Wales Act [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00003]: Footnote: O.J. No. L 270, 21.10.2003, p.1.
+
+[^f00004]: Footnote: O.J. No. L 208, 29.7.2006, p.3.
+
+[^f00005]: Footnote: S.I. [2006/3343 (W.304)](https://www.legislation.gov.uk/wsi/2006/3343).
+
+[^f00006]: Footnote: [2006/2796 (W.133)](https://www.legislation.gov.uk/wsi/2006/2796).
+
+[^f01000]: Footnote: (1)
+
+    This is the figure for animals which would be kept for 12 months. In the case of animals kept for less than 12 months a pro rata adjustment of this figure is to be made.
+
+[^f01001]: Footnote: (2)
+
+    This is the figure for animals (irrespective of age) which would be kept for 12 months. In the case of animals kept for less than 12 months a pro rata adjustment of this figure is to be made.
+
+[^f01002]: Footnote: (3)
+
+    This figure includes the protein crop premium provided for in Article 76 of Council Regulation 1782/2003.

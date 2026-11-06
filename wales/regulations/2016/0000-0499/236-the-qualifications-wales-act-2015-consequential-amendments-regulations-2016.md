@@ -1,0 +1,333 @@
+---
+title: The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016
+id: wsi/2016/236
+type: WelshStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2016-02-24'
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2016/236
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2016/236/pdfs/wsi_20160236_mi.pdf
+- http://www.legislation.gov.uk/wsi/2016/236/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/wsi/2016/236
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 236 (W. 88)
+
+Education, England And Wales
+
+The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016
+
+Made
+
+24 February 2016
+
+Coming into force
+
+1 May 2016
+
+The Welsh Ministers in exercise of the powers in sections 55(1)(c) and 59 of the Qualifications Wales Act 2015[^f00001] make the following Regulations.
+
+The Welsh Ministers consider it expedient for the purposes of, or in consequence of, provisions of that Act to make the following Regulations.
+
+In accordance with section 55(2) of the Qualifications Wales Act 2015, a draft of these Regulations was laid before the National Assembly for Wales and approved by a resolution of the National Assembly for Wales.
+
+## PART 1 — Introduction
+
+### 1. Title and commencement[^key-001caf335da22d4617e0278b8d05a67a]
+
+The title of these Regulations is the Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 and they come into force on 1 May 2016.
+
+## PART 2 — Amendments to primary legislation
+
+### 2. Amendment to the Learning and Skills Act 2000[^key-8e10a6ab06e6b156e50cc5f443a53320]
+
+In section 33N(1) of the Learning and Skills Act 2000[^f00002] for the definition of “course of study” substitute—
+
+> - “course of study” means a course of education or training that—
+>   - (a) leads to a form of qualification or set of forms of qualification approved under Part 4 of the Qualifications Wales Act 2015 or designated under Part 5 of that Act, or
+>   - (b) is designated by the Welsh Ministers under section 34(8) of that Act;
+
+.
+
+### 3. Amendment to the Education Act 2002[^key-3296b8091cf7cd80fe6398830239e25c]
+
+In section 97 of the Education Act 2002[^f00003] for the definition of “course of study” substitute—
+
+> - “course of study” means a course of education or training that—
+>   - (a) leads to a form of qualification or set of forms of qualification approved under Part 4 of the Qualifications Wales Act 2015 or designated under Part 5 of that Act, or
+>   - (b) is designated by the Welsh Ministers under section 34(8) of that Act;
+
+.
+
+## PART 3 — Amendments to secondary legislation
+
+### 4. Amendment to the Council Tax (Discount Disregards) Order 1992[^key-edd4bed6b017bfe2f329e61b932e7fef]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Amendment to the Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994[^key-a04dd5a8946c9b8742fe5a665a8659d2]
+
+In regulation 2(1) of the Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994[^f00005], as it applies in relation to Wales, for the definition of “approved relevant qualification” substitute—
+
+> - “approved relevant qualification” is a qualification within the meaning of section 56 of the Qualifications Wales Act 2015;
+
+.
+
+### 6. Amendment to the Education (Special Schools) Regulations 1994[^key-27adaa5d6d3c268517884fd0c33ed271]
+
+In regulation 2(1) of the Education (Special Schools) Regulations 1994[^f00006] for the definition of “approved relevant qualification” substitute—
+
+> - “approved relevant qualification” is a qualification within the meaning of section 56 of the Qualifications Wales Act 2015;
+
+.
+
+### 7. Amendment to the Motor Vehicles (Driving Licences) Regulations 1999[^key-d096fa7bf231bd3bcb4af87ee2f997d9]
+
+In regulation 22 of the Motor Vehicles (Driving Licences) Regulations 1999[^f00007], within the definition of “educational qualification” for paragraph (f) substitute—
+
+> - (f) a qualification which has been awarded by a body in respect of the award of which it is recognised by Qualifications Wales under Part 3 of the Qualifications Wales Act 2015;
+
+.
+
+### 8. Amendment to the Education (Information About Individual Pupils) (Wales) Regulations 2007[^key-ca8ecdcc06d4da821b67215795ad588f]
+
+The Education (Information About Individual Pupils) (Wales) Regulations 2007[^f00008] are amended as follows—
+
+- (a) in regulation 3, delete the definition of “relevant qualification”;
+- (b) in regulation 5(2) for subparagraph (f) substitute—
+
+  > - (ea) Qualifications Wales;
+  > - (f) any body recognised by Qualifications Wales under Part 3 of the Qualifications Wales Act 2015 as a body awarding qualifications in Wales;
+
+  ;
+- (c) in regulation 5(5) in subparagraph (e) delete “and”; and
+- (d) in regulation 5(5) at the end insert —
+
+  > ; and
+  >
+  > - (g) any course of study leading to a qualification (other than one of the kind referred to in sub-paragraph (b) or (e) above) provided to pupils of compulsory school age in any school maintained by a local authority if —
+  >   - (i) the form of qualification to which the course leads is approved under Part 4 of the Qualifications Wales Act 2015 or designated under Part 5 of that Act, or
+  >   - (ii) the course is designated by the Welsh Ministers under section 34(8) of the Qualifications Wales Act 2015.
+
+### 9. Amendment to the Education (Individual Pupil Information) (Prescribed Persons) (England) Regulations 2009[^key-c306c7db884d60d011c43c5e5bb9cc5a]
+
+At the end of regulation 3(5) of the Education (Individual Pupil Information) (Prescribed Persons) (England) Regulations 2009[^f00009] add—
+
+> - (x) Qualifications Wales.
+
+### 10. Amendment to the Education (Local Curriculum for Pupils in Key Stage 4) (Wales) Regulations 2009[^key-c7ae3a2edde8b691740e820b48b1b23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Amendment to the Education (Information About Children in Alternative Provision) (Wales) Regulations 2009[^key-5452eaf0519f75134a2c9617bfd801c5]
+
+In regulation 2 of the Education (Information About Children in Alternative Provision) (Wales) Regulations 2009[^f00011] for the definition of “approved relevant qualification” substitute—
+
+> - “approved relevant qualification” (“*cymhwyster perthnasol a gymeradwywyd*”) is a qualification within the meaning of section 56 of the Qualifications Wales Act 2015;
+
+.
+
+### 12. Amendment to the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^key-53ae2efc4905786f3b5a1829c02ad078]
+
+In regulation 2(1) of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^f00012]—
+
+- (a) in the definition of “approved relevant qualification” for “section 30(5) of the Education Act 1997” substitute “section 56 of the Qualifications Wales Act 2015”; and
+- (b) in the definition of “NQF” omit the words from “comprising relevant qualifications” to the end.
+
+### 13. Amendment to the School Performance and Absence Targets (Wales) Regulations 2011[^key-0af4ef6c4e40cdc5c9b436c1a06a621f][^key-4e39398f21564722e9433be152692be2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Amendment to the School Performance Information (Wales) Regulations 2011[^key-ba21a5be6194f366dcf08536d8d6b362]
+
+(1) The School Performance Information (Wales) Regulations 2011[^f00014] are amended as follows.
+
+(2) In regulation 2(1) at the appropriate place insert—
+
+> - “approval number”(“*rhif cymeradwyo*”) is the number allocated to a qualification by Qualifications Wales under section 22(3) of the Qualifications Wales Act 2015;
+
+.
+
+(3) In regulation 2(1), for the definition of “approved relevant qualification” substitute—
+
+> - “approved relevant qualification” (“*cymhwyster perthnasol a gymeradwywyd*”) is a qualification within the meaning of section 56 of the Qualifications Wales Act 2015;
+
+.
+
+(4) In paragraph 3 in Part 1 of Schedule 3, for sub-paragraphs (e) and (f) substitute—
+
+> - (e) the date awarded;
+> - (f) the qualification number (if any); and
+> - (g) the approval number (if any).
+
+(5) In paragraph 6 in Part 2 of Schedule 3, for sub-paragraphs (e) and (f) substitute—
+
+> - (e) the date awarded;
+> - (f) the qualification number (if any); and
+> - (g) the approval number (if any).
+
+### 15. Amendment to the Operation of the Local Curriculum (Wales) Regulations 2013[^key-353d7bf296e34b6eb282db8fc376c925]
+
+In regulation 2 of the Operation of the Local Curriculum (Wales) Regulations 2013[^f00015] for the definition of “course of study” substitute—
+
+> - “course of study” means a course of education or training that—
+>   - (a) leads to a form of qualification or set of forms of qualification approved under Part 4 of the Qualification Wales Act 2015 or designated under Part 5 of that Act, or
+>   - (b) is designated by the Welsh Ministers under section 34(8) of that Act;
+
+.
+
+### 16. Amendment to the Gangmasters Licensing (Exclusions) Regulations 2013[^key-4a1534d83465dc06c30a921611fb0cab]
+
+In paragraph 13 of Part 2 of the Schedule to the Gangmasters Licensing (Exclusions) Regulations 2013[^f00016] for subparagraph (b) substitute—
+
+> - (b) in relation to Wales, is a qualification within the meaning of section 56 of the Qualifications Wales Act 2015;
+
+.
+
+### 17. Amendment to the Welsh in Education Strategic Plans and Assessing Demand for Welsh Medium Education (Wales) Regulations 2013[^key-895b35f374c90793bdaf52a5a8f1266e]
+
+In regulation 2 of the Welsh in Education Strategic Plans and Assessing Demand for Welsh Medium Education (Wales) Regulations 2013[^f00017] in the definition of “relevant qualification” for “it in section 30(5) of the Education Act 1997” substitute ““qualification” in section 56 of the Qualifications Wales Act 2015”.
+
+### 18. Amendment to the Education (School Development Plans) (Wales) Regulations 2014[^key-c415d5f173f13c490feede911a991f46]
+
+In regulation 2(1) of the Education (School Development Plans) (Wales) Regulations 2014[^f00018] in the definition of “approved relevant qualifications” for “section 30(5) of the Education Act 1997” substitute “section 56 of the Qualifications Wales Act 2015”.
+
+### 19. Amendment to the National Minimum Wage Regulations 2015[^key-73e07eec283b3de4d0709a7d1b5da4a1]
+
+In regulation 3 of the National Minimum Wage Regulations 2015[^f00019] in the definition of “further education course” in paragraph (b) for subparagraphs (ii), (iii) and (iv) substitute—
+
+> - (ii) is funded by a local authority, or
+> - (iii) leads to a qualification awarded by a body in respect of the award of which it is recognised by Qualifications Wales under Part 3 of the Qualifications Wales Act 2015;
+
+.
+
+### 20. Amendment to the Education (Student Information) (England) Regulations 2015[^key-03d26efd36d981e55c14d8fa69a45f46]
+
+In Schedule 2 to the Education (Student Information) (England) Regulations 2015[^f00020]—
+
+- (a) in paragraph 1(18) of Part 1 delete “and”; and
+- (b) at the end of paragraph 1(19) add—
+
+  > ; and
+  >
+  > (20) Qualifications Wales.
+
+### 21. Revocation of saving provision in respect of accredited qualifications for the purposes of the National Minimum Wage Regulations 2015[^key-cdc9ae26dc37716c2f0d2a622cbdb9e5]
+
+Article 13 of the Qualifications Wales Act 2015 (Commencement No. 2 and Transitional and Saving Provisions) Order 2015[^f00021] is revoked.
+
+Huw Lewis
+
+Minister for Education and Skills, one of the Welsh Ministers
+
+24 February 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in consequence of the Qualifications Wales Act 2015 (“the 2015 Act”). Part 2 of the 2015 Act establishes Qualifications Wales and sets out its principal aims.
+
+These Regulations update references in legislation so as to reflect the new system of qualification regulation provided for in the 2015 Act.
+
+These Regulations make amendments to primary and secondary legislation, which are in consequence of, or for the purposes of, provisions of the 2015 Act, namely Part 2 (establishment and principal aims of Qualifications Wales), Part 3 (recognition of awarding bodies), Part 6 (further provision relevant to recognition, approval and designation), section 56 (interpretation of references to “qualification”) of, and Schedule 3 (further provision about recognition of awarding bodies) and Schedule 4 (consequential amendments) to, the 2015 Act.
+
+Qualifications Wales (which is established by section 2 of the Act) has functions of recognising bodies awarding qualifications in Wales (Part 3) and regulating such bodies through conditions of recognition (section 36 and Schedule 3). Section 34 addresses the qualifications which may be used on certain publicly funded courses, which generally limits them to forms of qualification which are either approved by Qualifications Wales (under Part 4) or designated by it (under Part 5). Schedule 4 amends Part 5 of the Education Act 1997 and Part 5 of the Learning and Skills Act 2000.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2015 anaw 5](https://www.legislation.gov.uk/anaw/2015/5).
+
+[^key-001caf335da22d4617e0278b8d05a67a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^key-8e10a6ab06e6b156e50cc5f443a53320]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/236/regulation/2) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00002]: Footnote: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21). Section 33N was inserted by section 35 of the Learning and Skills (Wales) Measure [2009 (nawm 1)](https://www.legislation.gov.uk/mwa/2009/1). There are other amendments to section 33N which are not relevant to this instrument.
+
+[^key-3296b8091cf7cd80fe6398830239e25c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/236/regulation/3) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00003]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). The definition of “course of study” was inserted into section 97 by section 1(1) and (2) of the Learning and Skills (Wales) Measure 2009.
+
+[^key-edd4bed6b017bfe2f329e61b932e7fef]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/236/regulation/4) omitted (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/12)
+
+[^key-a04dd5a8946c9b8742fe5a665a8659d2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/236/regulation/5) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00005]: Footnote: [S.I. 1994/651](https://www.legislation.gov.uk/uksi/1994/651). The definition of “approved relevant qualification” was inserted into regulation 2 in relation to Wales by [S.I. 2010/2431](https://www.legislation.gov.uk/uksi/2010/2431), regulation 2(a). There are other amendments to regulation 2 which are not relevant to this instrument.
+
+[^key-27adaa5d6d3c268517884fd0c33ed271]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/236/regulation/6) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00006]: Footnote: [S.I. 1994/652](https://www.legislation.gov.uk/uksi/1994/652). The definition of “approved relevant qualification” was inserted into regulation 2 in relation to Wales by [S.I. 2010/2431](https://www.legislation.gov.uk/uksi/2010/2431), regulation 3(a). There are other amendments to regulation 2 which are not relevant to this instrument.
+
+[^key-d096fa7bf231bd3bcb4af87ee2f997d9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/236/regulation/7) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00007]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864). The definition of “educational qualification” was inserted into regulation 22 by [S.I. 2010/1203](https://www.legislation.gov.uk/uksi/2010/1203), regulations 2 and 6(b). There are other amendments to regulation 22 which are not relevant to this instrument.
+
+[^key-ca8ecdcc06d4da821b67215795ad588f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/236/regulation/8) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00008]: Footnote: [S.I. 2007/3562 (W. 312)](https://www.legislation.gov.uk/wsi/2007/3562). The definition of “relevant qualification” in regulation 3 and sub-paragraphs (e) - (h) of regulation 5(2) were inserted by [S.I. 2011/2325](https://www.legislation.gov.uk/uksi/2011/2325), regulation 2(1), (2)(c) and (3)(a). There are other amendments which are not relevant to this instrument.
+
+[^key-c306c7db884d60d011c43c5e5bb9cc5a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/236/regulation/9) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00009]: Footnote: [S.I. 2009/1563](https://www.legislation.gov.uk/uksi/2009/1563). There are amendments to regulation 3 which are not relevant to this instrument.
+
+[^key-c7ae3a2edde8b691740e820b48b1b23c]: Textual amendment: Reg. 10 revoked (1.9.2026) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [8(3)(d)](https://www.legislation.gov.uk/wsi/2022/679/regulation/8/3/d)
+
+[^key-5452eaf0519f75134a2c9617bfd801c5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2016/236/regulation/11) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00011]: Footnote: [S.I. 2009/3355 (W. 294)](https://www.legislation.gov.uk/wsi/2009/3355). The definition of “approved relevant qualification” was inserted into regulation 2 by [S.I. 2010/2431](https://www.legislation.gov.uk/uksi/2010/2431), regulation 9(a). There is another amendment to regulation 2 which is not relevant to this instrument.
+
+[^key-53ae2efc4905786f3b5a1829c02ad078]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/236/regulation/12) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00012]: Footnote: [S.I. 2011/1943 (W. 210)](https://www.legislation.gov.uk/wsi/2011/1943). There is an amendment which is not relevant to this instrument.
+
+[^key-0af4ef6c4e40cdc5c9b436c1a06a621f]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/wsi/2016/236/regulation/13) revoked (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2020/729/regulation/5/b)
+
+[^key-4e39398f21564722e9433be152692be2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2016/236/regulation/13) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^key-ba21a5be6194f366dcf08536d8d6b362]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2016/236/regulation/14) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00014]: Footnote: [S.I. 2011/1963 (W. 217)](https://www.legislation.gov.uk/wsi/2011/1963). There is an amendment which is not relevant to this instrument.
+
+[^key-353d7bf296e34b6eb282db8fc376c925]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2016/236/regulation/15) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00015]: Footnote: [S.I. 2013/1793 (W. 180)](https://www.legislation.gov.uk/wsi/2013/1793).
+
+[^key-4a1534d83465dc06c30a921611fb0cab]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2016/236/regulation/16) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00016]: Footnote: [S.I. 2013/2216](https://www.legislation.gov.uk/uksi/2013/2216).
+
+[^key-895b35f374c90793bdaf52a5a8f1266e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2016/236/regulation/17) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00017]: Footnote: [S.I. 2013/3048 (W. 307)](https://www.legislation.gov.uk/wsi/2013/3048).
+
+[^key-c415d5f173f13c490feede911a991f46]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2016/236/regulation/18) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00018]: Footnote: [S.I. 2014/2677 (W. 265)](https://www.legislation.gov.uk/wsi/2014/2677).
+
+[^key-73e07eec283b3de4d0709a7d1b5da4a1]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2016/236/regulation/19) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00019]: Footnote: [S.I. 2015/621](https://www.legislation.gov.uk/uksi/2015/621). There are amendments to regulation 3 which are not relevant to this instrument.
+
+[^key-03d26efd36d981e55c14d8fa69a45f46]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2016/236/regulation/20) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00020]: Footnote: [S.I. 2015/1567](https://www.legislation.gov.uk/uksi/2015/1567).
+
+[^key-cdc9ae26dc37716c2f0d2a622cbdb9e5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2016/236/regulation/21) in force at 1.5.2016, see [reg. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1)
+
+[^f00021]: Footnote: [S.I. 2015/1687 (W. 219) (C. 98)](https://www.legislation.gov.uk/wsi/2015/1687).

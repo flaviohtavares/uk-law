@@ -1,0 +1,159 @@
+---
+title: The Food (Withdrawal of Recognition) (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2022
+id: wsi/2022/112
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-02-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2022/112
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2022/112/pdfs/wsi_20220112_mi.pdf
+- http://www.legislation.gov.uk/wsi/2022/112/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food (Withdrawal of Recognition) (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 112 (W. 40)
+
+Exiting The European Union, Wales
+
+Food, Wales
+
+The Food (Withdrawal of Recognition) (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2022
+
+Made
+
+7 February 2022
+
+Laid before Senedd Cymru
+
+9 February 2022
+
+Coming into force
+
+3 March 2022
+
+The Welsh Ministers make these Regulations in exercise of the powers conferred by sections 16(1)(a) and (e), 26(1) and 48(1) of the Food Safety Act 1990[^f00001] and now vested in them[^f00002].
+
+There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
+
+The Welsh Ministers have had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A) of the Food Safety Act 1990[^f00004].
+
+## 1. Title, commencement, extent and application
+
+(1) The title of these Regulations is the Food (Withdrawal of Recognition) (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2022
+
+(2) These Regulations come into force on 3 March 2022.
+
+(3) These Regulations extend to England and Wales, and apply in relation to Wales.
+
+## 2. Amendment of the Bread and Flour Regulations 1998 and transitional provision
+
+(1) The Bread and Flour Regulations 1998[^f00005] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definitions of “EEA Agreement” and “EEA State”;
+- (b) after the definition of “sell”, insert—
+
+  > - “**third country**” means any country, other than the United Kingdom, and includes—
+  >   - (a) the Bailiwick of Guernsey;
+  >   - (b) the Bailiwick of Jersey;
+  >   - (c) the Isle of Man.
+
+(3) In regulation 3 (exemptions)—
+
+- (a) omit paragraphs (2) and (3);
+- (b) in the appropriate place, insert—
+
+  > (4) These Regulations do not apply to the following bread or flour if the nature of that bread or flour is clearly indicated on the labelling—
+  >
+  > - (a) any bread produced in Wales that is to be exported to a third country;
+  > - (b) any flour produced in Wales that is—
+  >   - (i) to be exported to a third country, or
+  >   - (ii) for use in the production of food that is to be exported to a third country;
+  > - (c) any flour imported or moved into Wales that is for use in Wales for the production of food that is to be exported to a third country.
+
+(4) In regulation 4 (composition of flour)—
+
+- (a) in paragraph (4), for sub-paragraph (b) substitute—
+
+  > - (b) no person shall import or move into Wales any flour, or sell any flour imported or moved into Wales by them, which does not comply with this regulation.
+- (b) in paragraph (5), for “or importation into Great Britain” substitute “, importation or movement into Wales”.
+
+**3.** (1) Despite the amendments made by regulation 2(3)(a) of these Regulations, regulation 3(2) of the Bread and Flour Regulations 1998 continues to have effect as it did immediately before these Regulations came into force.
+
+(2) Paragraph (1) ceases to have effect at the end of 30 September 2022.
+
+## 4. Amendment of the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (Wales) Regulations 2008 and transitional provision
+
+In the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (Wales) Regulations 2008[^f00006], omit regulation 3 (exemptions).
+
+**5.** (1) Despite the amendment made by regulation 4 of these Regulations, regulation 3 of the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (Wales) Regulations 2008 continues to have effect as it did immediately before these Regulations came into force.
+
+(2) Paragraph (1) ceases to have effect at the end of 30 September 2022.
+
+## 6. Amendment of the Products Containing Meat etc. (Wales) Regulations 2014 and transitional provision
+
+In the Products Containing Meat etc. (Wales) Regulations 2014[^f00007], in regulation 3 (scope)—
+
+- (a) in paragraph (1), for “paragraphs (2) and (3)” substitute “paragraph (2)”;
+- (b) omit paragraph (3).
+
+**7.** (1) Despite the amendments made by regulation 6 of these Regulations, regulation 3(3) of the Products Containing Meat etc. (Wales) Regulations 2014 continues to have effect as it did immediately before these Regulations came into force.
+
+(2) Paragraph (1) ceases to have effect at the end of 30 September 2022.
+
+## 8. Amendment of the Jam and Similar Products (Wales) Regulations 2018 and transitional provision
+
+In the Jam and Similar Products (Wales) Regulations 2018[^f00008], in regulation 3 (scope), omit paragraph (2).
+
+**9.** (1) Despite the amendment made by regulation 8 of these Regulations, regulation 3(2) of the Jam and Similar Products (Wales) Regulations 2018 continues to have effect as it did immediately before these Regulations came into force.
+
+(2) Paragraph (1) ceases to have effect at the end of 30 September 2022.
+
+Lynne Neagle
+
+Deputy Minister for Mental Health and Wellbeing under authority of the Minister for Health and Social Services, one of the Welsh Ministers
+
+7 February 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend a number of statutory instruments in relation to food composition. These Regulations apply in relation to Wales.
+
+Regulations 2, 4, 6 and 8 remove certain exemptions for products from EU member States or EEA countries (subject to transitional provisions). The exemptions are no longer appropriate following the withdrawal of the United Kingdom from the European Union.
+
+Regulation 2 also amends the Bread and Flour Regulations 1998 ([S.I. 1998/141](https://www.legislation.gov.uk/uksi/1998/141)), in relation to Wales, to provide new exemptions for bread or flour that is to be exported to third countries, or is to be used only for production of food that is to be exported to third counties.
+
+Regulations 3, 5, 7 and 9 introduce a transitional period, beginning with the day these Regulations come into force and ending at the end of 30 September 2022, during which the removed exemptions continue to apply.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Food Standards Agency at: Food Standards Agency Wales, 11th Floor, Southgate House, Wood Street, Cardiff, CF10 1EW or from the Agency’s website at www.food.gov.uk .
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); section 16(1) was amended by paragraph 8 of Schedule 5 to the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28) (“**the 1999 Act**”). Section 26(3) was partially repealed by Schedule 6 to the 1999 Act. Section 48(1) was amended by paragraph 8 of Schedule 5 to the 1999 Act.
+
+[^f00002]: Footnote: Those functions, formerly exercisable by “the Ministers”, were conferred on the Secretary of State pursuant to paragraph 8 of Schedule 5 to the 1999 Act. Those functions, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the 1999 Act. Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00003]: Footnote: EUR 2002/178, to which there are amendments not relevant to these Regulations.
+
+[^f00004]: Footnote: Section 48(4A) was inserted by paragraph 21 of Schedule 5 to the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28). Those functions conferred on the Secretary of State, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the 1999 Act. Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00005]: Footnote: [S.I. 1998/141](https://www.legislation.gov.uk/uksi/1998/141), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2012/1809](https://www.legislation.gov.uk/uksi/2012/1809), [2014/2303 (W. 227)](https://www.legislation.gov.uk/wsi/2014/2303) and [2021/616](https://www.legislation.gov.uk/uksi/2021/616). [S.I 2021/616](https://www.legislation.gov.uk/uksi/2021/616) applies in England only. There are other amending instruments but none is relevant to these Regulations.
+
+[^f00006]: Footnote: [S.I. 2008/1341 (W. 141)](https://www.legislation.gov.uk/wsi/2008/1341), amended by [S.I 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809). There are other amending instruments but none is relevant to these Regulations.
+
+[^f00007]: Footnote: [S.I. 2014/3087 (W. 308)](https://www.legislation.gov.uk/wsi/2014/3087), to which there are amendments not relevant to these Regulations.
+
+[^f00008]: Footnote: [S.I. 2018/274 (W. 50)](https://www.legislation.gov.uk/wsi/2018/274).

@@ -1,0 +1,38 @@
+---
+title: Local Government and Elections (Wales) Act 2021, section 4
+act: Local Government and Elections (Wales) Act 2021
+section: '4'
+status: revised-with-pending-changes
+text_date: '2025-09-10'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2021/1/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government and Elections (Wales) Act 2021, section 4
+
+> **Warning: changes not yet applied to this text (21).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/asc/2021/1
+>
+> Extent: England, Wales.
+
+## 4. Duty to promote awareness and provide assistance
+
+*Extent: E+W*
+
+(1) A principal council must—
+
+- (a) promote awareness among relevant young people of the arrangements for registration as local government electors that apply to them;
+- (b) take the steps the council considers necessary to help relevant young people register as local government electors.
+
+(2) In this section “**relevant young people**” means—
+
+- (a) persons resident in the principal council's area who have attained the age of 14, but are under the age of 18;
+- (b) persons of the same age who—
+  - (i) are not resident in the area of the principal council, and
+  - (ii) are looked after by the council;
+- (c) persons of the same age who—
+  - (i) are not resident in the area of the principal council, and
+  - (ii) are persons to whom the council has a duty to safeguard and promote their well-being under section 109 of the Social Services and Well-being (Wales) Act 2014 (anaw 4).
+
+(3) In this section, a person is looked after if the person is a looked after child for the purposes of the Social Services and Well-being (Wales) Act 2014.

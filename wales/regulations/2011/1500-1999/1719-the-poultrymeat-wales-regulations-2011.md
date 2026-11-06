@@ -1,0 +1,749 @@
+---
+title: The Poultrymeat (Wales) Regulations 2011
+id: wsi/2011/1719
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-07-12'
+text_date: '2024-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2011/1719
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2011/1719/pdfs/wsi_20111719_mi.pdf
+- http://www.legislation.gov.uk/wsi/2011/1719/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Poultrymeat (Wales) Regulations 2011
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 1719 (W.195)
+
+FOOD, WALES
+
+The Poultrymeat (Wales) Regulations 2011
+
+Made
+
+12 July 2011
+
+Laid before the National Assembly for Wales
+
+14 July 2011
+
+Coming into force
+
+15 August 2011
+
+The Welsh Ministers are designated [^c20967661] for the purposes of section 2(2) of the European Communities Act 1972 [^c20967671] in relation to the common agricultural policy of the European Union.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for references in these Regulations to the following Regulations to be construed as references to those Regulations as amended from time to time—
+
+- (a) Part B of Annex XIV to Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) [^c20967681] establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation); and
+- (b) Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/eur/2008/543) [^c20967691] laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards the marketing standards for poultrymeat.
+
+Insofar as these Regulations are made in exercise of powers under the Food Safety Act 1990 [^c20967701], the Welsh Ministers have had regard to relevant advice given by the Food Standards Agency as required by section 48(4A) [^c20967711] of the Food Safety Act 1990.
+
+There has been open and transparent public consultation during the preparation of the following Regulations as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council [^c20967721] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
+
+The Welsh Ministers, in whom the powers conferred by sections 6(4), 16(1), 17, 26(2) and (3), 45(1) and 48(1) [^c20967731] of the Food Safety Act 1990 are now vested [^c20967741], make these Regulations in exercise of those powers and the powers conferred by section 2(2) of, and paragraph 1A [^c20967751] of Schedule 2 to, the European Communities Act 1972.
+
+## 1. Title, commencement and application
+
+(1) The title of these Regulations is the Poultrymeat (Wales) Regulations 2011.
+
+(2) These Regulations come into force on 15 August 2011 and apply in relation to Wales.
+
+(3) These Regulations apply to poultrymeat described in point I of Part V of Annex[^key-06550fb820f43d2a995b40bce6216819] VII to Regulation (EU) 2013, excluding poultrymeat described in point I(2) of Part B of Annex[^key-dd96e5e48ea6fc6707a05b63212228bc] XIV to the Single CMO Regulation.
+
+(4) These Regulations do not apply to the direct supply of small quantities of poultrymeat by a producer with an annual production of under 10,000 birds where the meat—
+
+- (a) comes from poultry slaughtered on the producer's farm; and
+- (b) is supplied to—
+  - (i) the final consumer; or
+  - (ii) a local retail establishment directly supplying such meat to the final consumer as fresh meat.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Agency**” (“***yr Asiantaeth***”) means the Food Standards Agency;
+- “**authorised officer**” (“***swyddog awdurdodedig***”) means any person who has written authority from an enforcement authority to act in matters arising under these Regulations;
+- “**Commission Regulation**” (“***Rheoliad y Comisiwn***”) means Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/eur/2008/543) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards the marketing standards for poultrymeat, as amended from time to time;
+- “**contravene**” (“***torri***”) includes failure to comply, and “**contravention**” (“***toriad***”) is to be construed accordingly;
+- “**enforcement authority**” (“***awdurdod gorfodi***”) means an authority exercising a function conferred on it by regulation 9;
+- “[^key-06cc3929f9175dd94e8a17b4949ed87c]**assimilated poultrymeat provision**” (“**darpariaeth cig dofednod a gymathwyd**”) means a provision of the Single CMO Regulation or Regulation ([^key-90cbdbe452c47a4e29296e914085afc9]EU) 2013 or the Commission Regulation specified in column 1 of Part 1 or 2 of Schedule 1, as read with any provision mentioned in the corresponding entry in column 2 of Part 1 or 2 of that Schedule;
+- “**officer**” (“***swyddog***”)—
+  - (a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body; and
+  - (b) in relation to an unincorporated body, means any member of its governing body or a chief executive, manager or other similar officer of the body;
+- “poultrymeat” (“[^key-b20cc71005d7e50b445ce3e73e3fdfb2]*cig dofednod*”) has the meaning given by point II(1) of Part V of Annex VII to Regulation (EU) 2013;
+- “**premises**” (“***mangre***”) means any place, including those requiring inspection under Article 12(5)(a) to (d) of the Commission Regulation, and any vehicle, trailer, stall or moveable structure;
+- “Regulation ([^key-bedc10de3f4f515be190ef72f4a9a268]EU) 2013” (“*Rheoliad (EU) 2013*”) means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products[^key-5ba0a0c295ea1a676e0b17ea26af1858], as amended from time to time;
+- “**Single CMO Regulation**” (“***y Rheoliad CMO Sengl***”) means Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation).
+- “[^key-fdf025c771954b031663118cac55af1b]**third country**” (“***trydedd wlad***”) means any country or territory other than—
+  - (a) the United Kingdom;
+  - (b) the Bailiwick of Guernsey;
+  - (c) the Bailiwick of Jersey;
+  - (d) the Isle of Man.
+
+(2) In these Regulations, any reference to Part B of Annex XIV to the Single CMO Regulation is a reference to Part B of Annex XIV to the Single CMO Regulation as amended from time to time.
+
+(3) Other expressions used in these Regulations and in the Single CMO Regulation or Regulation ([^key-0dcf2b41c121e413f4bcc18f30e8e872]EU) 2013 or the Commission Regulation have the same meaning in these Regulations as in the European Regulation in which they are used.
+
+## 3. Offences
+
+A person is guilty of an offence if that person contravenes a provision of the Commission Regulation referred to in column 1 of Schedule 2, as read with any provision mentioned in the corresponding entry in column 2 of that Schedule.
+
+## 4. Temperature requirement for fresh poultrymeat
+
+(1) Poultrymeat that is cut and handled in premises of the type mentioned in paragraph (2) and is marketed on those premises as fresh poultrymeat must be kept on those premises at a temperature not below — 2ºC and not higher than 8ºC [^c20967761].
+
+(2) The type of premises are—
+
+- (a) retail shops; and
+- (b) premises adjacent to sales points,
+
+where the cutting and handling are performed solely for the purpose of supplying the consumer directly on the spot.
+
+## 5. Registration as required by Article 12 of the Commission Regulation
+
+(1) The Welsh Ministers are designated as the competent authority for the purpose of registration of slaughterhouses and producers as required by Article 12 of the Commission Regulation.
+
+(2) Any person who wishes to operate as—
+
+- (a) a slaughterhouse; or
+- (b) a producer,
+
+authorised to use the terms specified in Article 11 of the Commission Regulation may make an application in writing to the Welsh Ministers.
+
+(3) Where the Welsh Ministers receive an application for registration the Welsh Ministers must notify the applicant in writing of the matters specified in paragraph (4) without unreasonable delay.
+
+(4) The specified matters are—
+
+- (a) the decision of the Welsh Ministers on the application;
+- (b) the reasons for any refusal of registration; and
+- (c) the right of appeal conferred by regulation 6 in the case of any refusal of registration.
+
+(5) Where the Welsh Ministers decide to cancel a registration, the Welsh Ministers must notify the producer, or the person carrying on the business of the slaughterhouse concerned, as the case may be, of the matters specified in paragraph (6).
+
+(6) The specified matters are—
+
+- (a) the decision of the Welsh Ministers to cancel the registration;
+- (b) the date on which the cancellation is to take effect;
+- (c) the reasons for the cancellation; and
+- (d) the right of appeal conferred by regulation 6.
+
+## 6. Appeals against registration decisions
+
+(1) Any person who is aggrieved about a decision specified in paragraph (2) may appeal against that decision to a magistrates' court.
+
+(2) The decisions are—
+
+- (a) refusal of registration, or
+- (b) cancellation of a registration.
+
+(3) The procedure on an appeal to a magistrates' court under paragraph (1) is by way of complaint and the Magistrates' Courts Act 1980 [^c20967771] applies to the proceedings.
+
+(4) The period within which an appeal may be brought against a decision specified in paragraph (2) is 28 days, beginning with the day on which notification of the decision is given.
+
+(5) The cancellation of a registration mentioned in paragraph (2)(b) does not take effect until the time for appealing against it has expired or, if an appeal is lodged, until the appeal is finally disposed of or withdrawn.
+
+## 7. Powers of a magistrates' court on appeal
+
+On an appeal against a decision by the Welsh Ministers mentioned in regulation 6(2) the magistrates' court may either overturn the decision or confirm the decision.
+
+## 8. Water content checks
+
+(1) Except where a water content check required by Article 16(1), (2), (3) or (4) or 20(2), (3) and (4) of the Commission Regulation is carried out by the Agency, such a check must be carried out by the food business operator of the slaughterhouse or cutting plant concerned.
+
+(2) Except where a water content check referred to in paragraph (1) is carried out by the Agency, such a check must be carried out—
+
+- (a) at the food business operator's expense; and
+- (b) under the responsibility of, and in accordance with any directions given by, the Agency.
+
+(3) Schedule 3 has effect in relation to the fees payable to the Agency for water content checks carried out by the Agency.
+
+(4) In this regulation “**food business operator**” (“***gweithredwr busnes bwyd***”) has the same meaning as in Article 3(3) of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council [^c20967781] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
+
+## 9. Enforcement
+
+(1) The Agency must enforce the assimilated[^key-d7b15020a75b1cf16c90faed0f915c2b] poultrymeat provisions at slaughterhouses and cutting plants.
+
+(2) Subject to paragraphs (3) and (4), a food authority must enforce—
+
+- (a) the assimilated[^key-d8332ecf3fd54205e8b7a21472d191bb] poultrymeat provisions in its area (other than at slaughterhouses and cutting plants); and
+- (b) regulation 4.
+
+(3) A port health authority must enforce these Regulations in its district in relation to poultrymeat imported from a third country.
+
+(4) The record keeping requirements in Article 12(2) and (4) of the Commission Regulation must be enforced by the Welsh Ministers.
+
+(5) In this regulation—
+
+- “**food authority**” (“***awdurdod bwyd***”) has the meaning that it bears by virtue of section 5(1A) of the Food Safety Act 1990;
+- “**port health authority**” (“***awdurdod iechyd porthladd***”) means in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984 [^c20967791], a port health authority for that district constituted by order under section 2(4) of that Act.
+
+## 10. Duty to give assistance and provide information
+
+Each enforcement authority must give such assistance and information to any other enforcement authority as that authority may reasonably require for the purpose of helping that authority perform their duties under these Regulations.
+
+## 11. Powers of entry
+
+(1) An authorised officer may enter any premises (except premises used as a private dwelling house) at any reasonable hour for the purpose of ensuring that the provisions of these Regulations are being complied with.
+
+(2) The authorised officer may be accompanied by—
+
+- (a) such other persons as the authorised officer considers necessary; [^key-ff2f9b32863c22ebc71b123636fb42b6]...
+- (b)[^key-ff2f9b32863c22ebc71b123636fb42b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) An authorised officer must not exercise the powers under paragraph (1) or (2) except on the production, if so required, of a duly authenticated document showing the officer's authority.
+
+(4) Admission to any premises used as a private dwelling house may not be demanded as of right unless entry is in accordance with a warrant granted under this regulation.
+
+(5) If a justice of the peace, on sworn information in writing, is satisfied of the matters mentioned in paragraph (6), the justice may sign a warrant permitting an authorised officer to enter any premises, if need be by reasonable force.
+
+(6) The matters are that—
+
+- (a) there are reasonable grounds for believing that Condition A or B is met; and
+- (b) Condition C, D, E or F is met.
+
+(7) Condition A is that on the premises there are items of the type mentioned in regulation 12(1)(a) or documents or records of the type mentioned in regulation 12(1)(d) and that their inspection is likely to disclose evidence of a contravention of these Regulations.
+
+(8) Condition B is that a contravention of these Regulations has occurred, is occurring or is about to occur on those premises.
+
+(9) Condition C is that admission to the premises has been, or is likely to be, refused, and that the occupier has been informed (whether orally or in writing) that a warrant may be applied for.
+
+(10) Condition D is that admission to the premises has been, or is likely to be, refused, and informing the occupier that a warrant under this regulation may be applied for may defeat the object of the entry.
+
+(11) Condition E is that the premises are unoccupied or that the occupier is temporarily absent and it may defeat the object of the entry to await the occupier's return.
+
+(12) Condition F is that the premises are used as a private dwelling house.
+
+(13) A warrant granted under paragraph (5)—
+
+- (a) is valid for one month, beginning with the day on which it is granted; and
+- (b) must be produced for inspection to the person (if there is one) who appears to the officer to be the occupier, or the person in charge of the premises.
+
+(14) An authorised officer who enters any premises that are unoccupied or where the occupier is temporarily absent must leave the premises as effectively secured against unauthorised entry as when the officer found them.
+
+## 12. Powers of an authorised officer
+
+(1) An authorised officer (“O”) entering premises under regulation 11 may—
+
+- (a) inspect the premises, and any plant, machinery or equipment on those premises, and any of the following found on those premises—
+  - (i) any meat that O has reasonable grounds for believing is poultrymeat (including giblets and any packaging in which the meat is found);
+  - (ii) any empty container;
+  - (iii) any label;
+  - (iv) any packaging; and
+  - (v) any live poultry;
+- (b) search the premises;
+- (c) carry out any inquiries, examinations or tests;
+- (d) have access to, and inspect and copy, any documents or records (in whatever form they are held) relating to matters covered by these Regulations, and remove them to enable them to be copied;
+- (e) have access to, and inspect and check the data on, and operation of, any computer, and any associated electronic storage device or apparatus (“computer equipment”) that is, or has been in use in connection with, the documents or records mentioned in sub-paragraph (d), including data relating to deleted files and activity logs; and for this purpose O may require any person having charge of, or otherwise concerned with the operation of, the computer equipment to afford to O such assistance (including the provision of passwords) as O may reasonably require, and, during the course of the checks, O may recover data held on the computer equipment; and
+- (f) where a document or record mentioned in sub-paragraph (d) is kept by means of a computer, require the record to be produced in a form in which it may be taken away.
+
+(2) O may direct a person appearing to O to be in charge of the items or premises mentioned below that the following must be left undisturbed for as long as is reasonably necessary for the purpose of any examination or investigation—
+
+- (a) any one or more of the items mentioned in paragraph (1)(a)(i) to (v); and
+- (b) any premises on or in which any of those items are found.
+
+(3) Where O gives a person a direction under paragraph (2) those items which are the subject of the direction must be kept on the premises at that person's expense.
+
+(4) O may seize and detain any item of the type mentioned in paragraph (1)(a)(i) to (iv) or document or record mentioned in paragraph (1)(d) that O has reason to believe may be required as evidence in proceedings under these Regulations.
+
+(5) O may seize as liable to destruction any item of the type mentioned in paragraph (1)(a)(i) to (iv) that O reasonably believes contravenes any provision of these Regulations.
+
+(6) O may seize any computer equipment for the purpose of copying documents or records of the type mentioned in paragraph (1)(d), and for checking the data on, and operation of, any computer equipment that is, or has been, in use in connection with those documents or records (and in doing so may recover data), provided the equipment is returned as soon as practicable and, in any event, within 14 days, beginning with the day on which the equipment is seized.
+
+(7) If O is not able to remove an item or computer equipment seized under paragraph (4), (5) or (6) immediately, O may—
+
+- (a) mark it in any way that O sees fit; and
+- (b) give the person appearing to O to be in charge of the item or computer equipment a notice (“a regulation 12(7) notice”)—
+  - (i) identifying it;
+  - (ii) requiring the item or computer equipment to be left undisturbed until it is collected by O; and
+  - (iii) prohibiting the removal of the item or computer equipment from the premises on which it was found until it is collected by O.
+
+(8) Where, in accordance with Article 8 of the Commission Regulation, O has checked a batch of poultrymeat and is satisfied that it does not comply with the requirements of Article 1 or 7 of the Commission Regulation, O may direct any person appearing to O to be in charge of the batch or premises not to market or import that batch until such time as proof has been produced to the enforcement authority that it has been made to comply with those requirements.
+
+(9) O may give such directions as O thinks appropriate in relation to a batch of poultrymeat to which paragraph (10) applies—
+
+- (a) to prevent it being marketed in Great Britain[^key-193e35d57f8dc18854c61dd5125e4207] until the packaging has been marked, under supervision, in the manner mentioned in the first sub-paragraph of Article 16(6) of the Commission Regulation; or
+- (b) to ensure that it is exported to a third country.
+
+(10) This paragraph applies to—
+
+- (a) a batch of frozen or quick-frozen chickens that is deemed, after counter-analysis, not to comply with Article 15(1) of the Commission Regulation;
+- (b) an imported batch of frozen or quick-frozen chickens that is found not to comply with Article 15(1) of the Commission Regulation;
+- (c) a batch of fresh, frozen or quick-frozen poultry cuts that is deemed, after counter-analysis, not to comply with Article 20(1) of the Commission Regulation; and
+- (d) an imported batch of fresh, frozen or quick-frozen poultry cuts that is found not to comply with Article 20(1) of the Commission Regulation.
+
+(11) O must not exercise any power under this regulation, or give a direction under this regulation, except on the production, if so required, of a duly authenticated document showing O's authority.
+
+(12)[^key-4ff372641767b5f6c32096b3b4763e49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13) In this regulation “**live poultry**” (“***dofednod byw***”) has the meaning given to it in Part XX of Annex I to the Regulation ([^key-8f213c61f65b5c37aed11141a4b4fef2]EU) 2013.
+
+## 13. Procedure on seizure
+
+(1) An authorised officer (“O”) must follow the procedures set out in this regulation if O seizes anything under regulation 12(4), (5) or (6).
+
+(2) O must give to the person appearing to O to be in charge of the premises from which the item or computer equipment was seized (“**the premises**”) a notice that must state—
+
+- (a) what O has seized;
+- (b) when O seized it;
+- (c) the grounds for the seizure of the item or equipment; and
+- (d) the address to which, and the period during which, a claim may be made for the return of the item or equipment.
+
+(3) But where the premises are unoccupied, or no-one appears to O to be in charge of the premises, O must attach a notice to a conspicuous part of the premises containing the information mentioned in sub-paragraphs (a) to (d) of paragraph (2).
+
+(4) A person having a proprietary interest in the seized item or computer equipment (including a creditor who has a debt secured on the item or equipment) may notify O of any claim that the seized item, document or record, or equipment was not liable to seizure, setting out the grounds for the claim in full.
+
+(5) The claim must be made within 14 days of the seizure, beginning on the day on which the item or computer equipment was seized, to the address specified in the seizure notice.
+
+(6) If a notification of a claim is not received within 14 days in respect of an item seized under regulation 12(4), the enforcement authority may retain the seized item for as long as necessary while it is being held for the purpose of any criminal investigation or proceedings or for use as evidence at a trial.
+
+(7) If a notification of a claim is received within 14 days in respect of an item seized under regulation 12(4), the enforcement authority must—
+
+- (a) return the seized item within 7 days, beginning with the day on which the claim is received; or
+- (b) retain the seized item for as long as necessary while it is being held for the purpose of any criminal investigation or proceedings, or for use as evidence at a trial, but it must notify the claimant that the seized item is being retained, and of the reason why it is being retained within 28 days, beginning with the day on which the claim is received.
+
+(8) If a notification of a claim is not received within 14 days in respect of an item seized under regulation 12(5), the enforcement authority may—
+
+- (a) if a decision is taken by the enforcement authority not to destroy the seized item but to retain it for the purpose of any criminal investigation or proceedings, or for use as evidence at a trial, retain the seized item for as long as necessary for one of those purposes, but the enforcement authority must—
+  - (i) notify the relevant person that the seized item is being retained, and of the reason why it is being retained, within 14 days of the expiry of the claim period, beginning with the day after the claim period expires; or
+  - (ii) where the enforcement authority does not know who the relevant person is, and this cannot be ascertained after reasonable enquiries have been made by the enforcement authority, attach a notice to a conspicuous part of the premises, or a conspicuous object on those premises, within 14 days of the expiry of the claim period, beginning with the day after the claim period expires, stating that the seized item is being retained, and the reason why it is being retained; or
+- (b) destroy the seized item within 14 days, beginning with the day after the 14 day claim period expires, but the enforcement authority must—
+  - (i) notify the relevant person that the seized item has been destroyed within 14 days of its destruction, beginning with the day on which the item is destroyed (or the last day of destruction where the destruction of the item takes place on more than one day); or
+  - (ii) where the enforcement authority does not know who the relevant person is, and this cannot be ascertained after reasonable enquiries have been made by the enforcement authority, attach a notice to a conspicuous part of the premises, or to a conspicuous object on those premises, within 14 days of the destruction of the item, beginning with the day on which the item is destroyed (or the last day of destruction where the destruction of the item takes place on more than one day) stating that the seized item has been destroyed.
+
+(9) In paragraph (8) the “**relevant person**” (“***person perthnasol***”) means—
+
+- (a) if the enforcement authority knows the identity of a person with a proprietary interest in the seized item, that person or (where the enforcement authority knows the identity of more than one person with a proprietary interest in the seized item) each of those persons; or
+- (b) if the enforcement authority does not know the identity of a person with a proprietary interest in the seized item, the person appearing to the enforcement authority to be in charge of the premises.
+
+(10) In the case of any item destroyed under paragraph (8)(b), the enforcement authority may recover the following costs as a debt from any person who had a proprietary interest in the item immediately before its destruction (apart from a creditor who has a debt secured on the item)—
+
+- (a) the costs of the removal and transport of the item from the premises to the place at which it is stored;
+- (b) the costs of the storage of the item for up to 14 days;
+- (c) any costs for the removal and transport of the item if it is moved from one place of storage to another place of storage;
+- (d) the costs of the transport of the item from the place of storage to the place of destruction; and
+- (e) the costs of the destruction of the item.
+
+(11) If a notification of a claim is received within 14 days in respect of an item seized under regulation 12(5), the enforcement authority must—
+
+- (a) return the seized item within seven days, beginning with the day on which the claim is received;
+- (b) if a decision is taken by the enforcement authority not to destroy the seized item but to retain it for the purpose of any criminal investigation or proceedings or for use as evidence at a trial, retain the item for as long as necessary for one of those purposes but the enforcement authority must notify the claimant that the seized item is being retained, and of the reason why it is being retained, within seven days of the claim, beginning with the day on which the claim is received; or
+- (c) within 14 days of the claim, beginning with the day on which the claim is received, take proceedings (“regulation 13(11)(c) proceedings”) in a magistrates' court for an order giving authority to destroy the item.
+
+(12) In regulation 13(11)(c) proceedings the magistrates' court may—
+
+- (a) authorise the enforcement authority to destroy the seized item;
+- (b) authorise the enforcement authority to retain the item for the purpose of any criminal investigation or proceedings, or for use as evidence at a trial, for as long as necessary for one of those purposes; or
+- (c) require the enforcement authority to return the item to the claimant and impose a deadline by which this must be done.
+
+(13) If, in regulation 13(11)(c) proceedings, the magistrates' court authorises the enforcement authority to destroy the seized item, it may also make an order requiring the claimant (but not a claimant who is a creditor with a debt secured on the item) to pay such of the costs listed in paragraph (10) as the court may specify.
+
+(14) Where a person with a proprietary interest in an item seized under regulation 12(5) does not intend to make a claim under paragraph (4), that person may notify the enforcement authority of this in writing, and the enforcement authority may (but does not have to) proceed in one of the ways specified in paragraph (8) without waiting for the 14 day claim period to expire upon receiving—
+
+- (a) written confirmation from that person that no-one else has a proprietary interest in that item (or that all those with a proprietary interest in the item are content for the enforcement authority to proceed without waiting for the 14 day claim period to expire); and
+- (b) a written indemnity from that person against any claim made by another person with a proprietary interest in the item arising as a consequence of the enforcement authority proceeding without waiting for the 14 day claim period to expire.
+
+(15) If a notification of a claim is received within 14 days in the case of any computer equipment seized under regulation 12(6), the enforcement authority must—
+
+- (a) return the seized computer equipment within seven days of the claim, beginning with the day on which the claim is received, or, if shorter, within the remainder of the maximum 14 day period provided for in regulation 12(6); or
+- (b) take proceedings in a magistrates' court within seven days of the claim, beginning with the day on which the claim is received unless there are seven days or less remaining before the expiry of the maximum 14 day period provided for in regulation 12(6), for an order authorising the enforcement authority to retain the seized computer equipment for longer than the 14 day period specified in regulation 12(6).
+
+(16) If, in the case of any computer equipment seized under regulation 12(6), the magistrates' court authorises the enforcement authority to retain the seized computer equipment, the court may impose conditions as to the basis on which the equipment may continue to be retained, including the imposition of a deadline by which the equipment must be returned.
+
+(17) The procedure in a magistrates' court under this regulation is by way of complaint and the Magistrates' Courts Act 1980 [^c20967801] applies to the proceedings.
+
+## 14. Compliance notices
+
+(1) If an authorised officer has reasonable grounds for believing that any person is contravening, or has contravened—
+
+- (a) an assimilated[^key-5c267bd6f5886347e38d0d0d2cf7002d] poultrymeat provision; or
+- (b) regulation 4,
+
+the authorised officer may, by notice (a “compliance notice”), require a person to take such steps (or steps at least equivalent to them), within such period as the authorised officer may specify, to secure that the contravention does not continue or recur.
+
+(2) A compliance notice must—
+
+- (a) state the authorised officer's grounds for the belief;
+- (b) specify the matter that constitutes the contravention of these Regulations;
+- (c) specify the activities that must stop, or the measures that must be taken in order to comply with these Regulations;
+- (d) state the period within which an activity must stop or measures specified in the notice, or measures at least equivalent to them must be taken;
+- (e) state the right of appeal to a magistrates' court conferred by regulation 15; and
+- (f) state the period within which such an appeal may be brought.
+
+(3) It is an offence not to comply with a compliance notice.
+
+## 15. Appeals against compliance notices
+
+(1) Any person who is aggrieved about a compliance notice may appeal against that notice to a magistrates' court.
+
+(2) The procedure on an appeal to a magistrates' court under paragraph (1) is by way of complaint and the Magistrates' Courts Act 1980 applies to the proceedings.
+
+(3) The period within which an appeal may be brought against a compliance notice is 28 days, beginning with the day on which the compliance notice is served.
+
+(4) A magistrates' court may suspend a compliance notice pending an appeal.
+
+## 16. Powers of a magistrates' court on appeal
+
+On an appeal against a compliance notice, the magistrates' court may either cancel the compliance notice or confirm the notice with or without modification.
+
+## 17. Publicity
+
+(1) An enforcement authority may publicise the cases in which items seized under regulation 12(5) have been destroyed, in such manner as it sees fit.
+
+(2) An enforcement authority may publicise the cases in which compliance notices are given by it in such manner as it sees fit.
+
+(3) But an enforcement authority must not publicise a compliance notice given by it—
+
+- (a) until the time for appealing against the compliance notice has passed;
+- (b) during the period that any appeal against the compliance notice is ongoing; or
+- (c) where an appeal against the compliance notice is successful.
+
+## 18. Obstruction
+
+A person is guilty of an offence if that person—
+
+- (a) intentionally obstructs an authorised officer acting in the execution of these Regulations;
+- (b) fails without reasonable excuse to give to an authorised officer any assistance or information the officer may reasonably require for the performance of functions under these Regulations;
+- (c) fails without reasonable excuse to comply with a direction given under regulation 12(2), (8) or (9);
+- (d) fails without reasonable excuse to comply with a regulation 12(7) notice;
+- (e) intentionally furnishes any false or misleading information to an authorised officer; or
+- (f) fails without reasonable excuse to produce a document or record when required to do so by an authorised officer.
+
+## 19. Criminal offences: penalty
+
+A person guilty of an offence under regulation 3, 14(3) or 18 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 20. Extended period for bringing prosecutions
+
+(1) Proceedings for an offence under these Regulations may be commenced within the period of one year from the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the prosecutor's knowledge.
+
+(2) But no such proceedings may be commenced by virtue of paragraph (1) more than three years after the commission of the offence.
+
+(3) For the purposes of this regulation—
+
+- (a) a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in the prosecutor's opinion to warrant the proceedings came to the prosecutor's knowledge is conclusive evidence of that fact; and
+- (b) a certificate stating that matter and purporting to be so signed is deemed to be so signed unless the contrary is proved.
+
+## 21. Offences by bodies corporate etc.
+
+(1) Where an offence committed by a body corporate (other than a limited liability partnership or a Scottish partnership) is proved to have been committed with the consent or connivance of, or is attributable to any neglect on the part of, an officer of the body corporate, or a person purporting to act in such a capacity, that officer or person (as well as the body corporate) is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member, and a person purporting to act in such a capacity, in connection with the member's functions of management as it applies to an officer of a body corporate.
+
+(3) Where an offence committed by an unincorporated body (other than an unincorporated partnership) is proved to have been committed with the consent or connivance of, or is attributable to any neglect on the part of, any officer, or a person purporting to act in such a capacity, that officer or person (as well as the unincorporated body) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(4) Where an offence committed by a partnership (including a limited liability partnership and a Scottish partnership) is proved to have been committed with the consent or connivance of, or is attributable to any neglect on the part of a partner, or a person purporting to act in such a capacity, the partner or person (as well as the partnership) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(5) In this regulation “**offence**” (“***tramgwydd***”) means an offence under these Regulations.
+
+## 22. Act or default of third person
+
+Where the commission by one person (“A”) of an offence under these Regulations is due to the act or default of another (“B”), B also commits the offence, and B may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are taken against A.
+
+## 23. Defences
+
+(1) It is a defence for a person charged with an offence under these Regulations to prove that that person took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+(2) A may not rely on a defence that involves an allegation that the commission of the offence was due to the act or default of B unless—
+
+- (a) at least seven days before the hearing A has given to the prosecutor a notice in writing giving such information identifying or assisting in the identification of B as was then in A's possession; or
+- (b) the court grants A leave.
+
+## 24. Giving of notices
+
+(1) Any notice required to be given under these Regulations to any person must be given to that person by—
+
+- (a) delivering it to that person;
+- (b) leaving it at that person's proper address;
+- (c) sending it to that person by post at that address; or
+- (d) subject to paragraph (9), sending it to that person by an electronic communication.
+
+(2) The notice may be given to a body corporate by being given to an officer of that body.
+
+(3) The notice may be given to a limited liability partnership, Scottish partnership or unincorporated partnership by being given to a partner or a person having the control or management of the partnership business.
+
+(4) The notice may be given to any other unincorporated body by being given to an officer of the unincorporated body.
+
+(5) For the purposes of this regulation and section 7 of the Interpretation Act 1978 [^c20967811] (references to service by post) in its application to this regulation, the proper address of any person to whom a notice is to be given is—
+
+- (a) in the case of a body corporate, the address of the registered or principal office of the body;
+- (b) in the case of an unincorporated partnership or any other unincorporated body, the address of the principal office of the partnership or body;
+- (c) in the case of a person to whom the notice is given in reliance on paragraph (2), (3) or (4), the proper address of the body corporate, partnership or other unincorporated body in question; and
+- (d) in any other case, the last known address of the person in question.
+
+(6) For the purposes of paragraph (5) the references to the “**principal office**” in relation to a company which is registered outside the United Kingdom, a partnership which is carrying on business outside the United Kingdom or any other unincorporated body which has its principal office outside the United Kingdom, include a reference, in each case, to that body's principal office within the United Kingdom (if any).
+
+(7) Paragraph (8) applies if a person to be given a notice under these Regulations has specified an address (“the specified address”) within the United Kingdom other than the person's proper address (as decided under paragraph (5)) as the one at which that person, or someone on that person's behalf, will accept documents of the same description as a notice given under these Regulations.
+
+(8) The specified address is also to be treated for the purposes of this regulation and section 7 of the Interpretation Act 1978 in its application to this regulation as the person's proper address.
+
+(9) If a notice under these Regulations to be given to a person is sent by an enforcement authority by electronic communication, it is to be treated as given only if—
+
+- (a) the person to whom the notice is given has indicated a willingness to the enforcement authority to receive notices by an electronic communication and provided an address suitable for that purpose; and
+- (b) the notice is sent to the address provided by that person.
+
+(10) In this regulation—
+
+- “**body corporate**” (“***corff corfforaethol***”) does not include a limited liability partnership or a Scottish partnership; and
+- “**electronic communication**” (“***cyfathrebiad electronig***”) has the same meaning as in section 15(1) of the Electronic Communications Act 2000 [^c20967821].
+
+## 25. Application of various provisions of the Food Safety Act 1990
+
+(1) The following provisions of the Food Safety Act 1990 [^c20967831] apply for the purposes of these Regulations with the modifications specified in paragraph (2)—
+
+- (a) section 3 (presumptions that food intended for human consumption);
+- (b) section 29 (procurement of samples);
+- (c) section 30(8) (documentary evidence);
+- (d) section 44 (protection of officers acting in good faith); and
+- (e) section 46(1) (expenses of authorised officers).
+
+(2) The modifications are—
+
+- (a) construe any reference in the provisions specified in paragraph (1) to the Food Safety Act 1990 (or a Part of that Act) as a reference to these Regulations;
+- (b) construe any reference in the provisions specified in paragraph (1) to an authorised officer, or an officer of an enforcement authority or food authority, as a reference to an authorised officer as defined in regulation 2(1) of these Regulations;
+- (c) in relation to section 29—
+  - (i) in paragraph (b)(ii), construe the reference to section 32 as a reference to these Regulations; and
+  - (ii) in paragraph (d), omit the words “or of regulations or order made under it”;
+- (d) in relation to section 30(8)(a), omit the words “under subsection(6) above”; and
+- (e) in relation to section 44, construe any reference to a food authority as a reference to an enforcement authority.
+
+## 26. Consequential amendment
+
+In the Food Safety (Sampling and Qualifications) Regulations 1990 [^c20967841] in Schedule 1 (provisions to which those Regulations do not apply), in relation to Wales, for the title and reference to the Poultry Meat (Water Content) Regulations 1984 [^c20967851], substitute the title and reference to these Regulations.
+
+## 27. Revocations
+
+The following are revoked in relation to Wales—
+
+- (a) the Poultry Meat (Water Content) Regulations 1984; and
+- (b) in the Food Safety Act 1990 (Consequential Modifications) (England and Wales) Order 1990 [^c20967861]—
+  - (i) article 9; and
+  - (ii) in Schedules 1, 3 and 5, the references to the Poultry Meat (Water Content) Regulations 1984.
+
+Alun Davies
+
+Deputy Minister for Agriculture, Food, Fisheries and European Programmes, under authority of the Minister for Business, Enterprise, Technology and Science, one of the Welsh Ministers
+
+## SCHEDULE 1 — ASSIMILATED POULTRYMEAT PROVISIONS CONTRAVENTION OF WHICH MAY RESULT IN THE ISSUING OF A COMPLIANCE NOTICE[^key-9383404dd30a4555429486452ec2a56f][^key-d534157a95282e1a19404ed0e4d01c7a]
+
+Regulation 2(1)
+
+### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION or Regulation (EU) 2013[^key-cd9fa75dc6d88c40fafca21224296284]
+
+| *Column 1* | *Column 2* | *Column 3* |
+| --- | --- | --- |
+| Relevant provision of the Single CMO or Regulation ([^key-4b3e60044764581f6bc48440c996f2cf]EU) 2013 | *Provisions to be read with the provisions of the Single CMO Regulation or Regulation ([^key-730c927678edd46e637823f7db65ea8e]EU) 2013 mentioned in column 1* | *Subject matter* |
+| Article 116 of the Single CMO Regulation, insofar as that provision relates to the marketing of poultrymeat[^key-6d8451195205f42aeae53878a5d12ea2] | Part B(I)(2) and (3) and (III)(1) of Annex XIV to the Single CMO Regulation and the Commission Regulation[^key-0a8ffd0f860fbf9f5436a529b8dc9494] | Prohibition on the marketing of poultrymeat except in accordance with the marketing standards laid down in Part B(I)(2) and (3) and ([^key-c23ba57efa7b6593156f161af693f214]III)(I) of Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013 and the Commission Regulation.<br>Quality grading. |
+| Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^key-3f1ab56edf65bfe5dfbd96fe557db830] | Article 7 of the Commission Regulation |  |
+| point[^key-9b5402681f76c4399a9d875f0b95d920] III of Part V of Annex VII to Regulation (EU) 2013 | Regulation 4 of these Regulations and Point II(2) of Part V of Annex[^key-e87d3c6425e45870123f611138f2374f] VII to Regulation (EU) 2013 in relation to fresh poultrymeat<br>Point II(3) of Part V of Annex VII to Regulation (EU) 2013 in relation to frozen poultrymeat<br>Point II(4) of Part V of Annex VII to Regulation (EU) 2013 in relation to quick-frozen poultrymeat<br>Point II(6) of Part V of Annex VII to Regulation (EU) 2013 in relation to fresh poultrymeat preparation | Marketing of poultrymeat and poultrymeat preparations in a fresh, frozen or quick-frozen condition. |
+
+### PART 2 — PROVISIONS OF THE COMMISSION REGULATION
+
+| *Column 1* | *Column 2* | *Column 3* |
+| --- | --- | --- |
+| *Relevant provision of the Commission Regulation* | *Provisions to be read with the provisions of the Commission Regulation mentioned in column 1* | *Subject matter* |
+| Article 3(1) | Article 3(2), (3) and (4) of the Commission Regulation | Presentation of poultry carcases. |
+| Article 3(4), first sub-paragraph | Article 3(1) of the Commission Regulation | Composition of giblets where a poultry carcase is presented for marketing with giblets. |
+| Article 3(4), second s ub-paragraph | Article 3(1) of the Commission Regulation | Labelling of a poultry carcase that is presented for marketing with giblets but the giblets do not include one or more of the heart, neck, gizzard or liver. |
+| Article 3(5) | Point[^key-1174e98af26e4686b1605666a6bf3e74] III(1) of Part B of Annex XIV to the Single CMO Regulation and point III of Part V of Annex VII to Regulation (EU) 2013 | Indications to be shown on certain commercial documents. |
+| Article 4(1) | Articles 1 and 3(1) of, and Annex I to, the Commission Regulation | Names under which poultrymeat must be sold. |
+| Article 4(2) | Articles 1(1) and (2) and 11 of the Commission Regulation | Requirement that supplemental terms do not mislead the consumer. |
+| Article 5(1) | Articles 1 and 11 of the Commission Regulation | Restriction on the use of names to prevent confusion with the names in Article 1 of the Commission Regulation (relating to types and presentations of poultrymeat), and the indications provided for in Article 11 of the Commission Regulation (relating to types of farming method, age at slaughter and length of fattening period). |
+| Article 5(2) | Article 5(3), (4) and (6) of the Commission Regulation, as read, in the case of Article 5(4), with Article 5(5) of that Regulation | Additional requirements relating to the labelling, presentation and advertising of poultrymeat intended for the final consumer. |
+| Article 6 | Point[^key-16d1b7889ba17ecb043e36d52f569b55] II(3) of Part V of Annex VII to Regulation (EU) 2013 | Temperature at which frozen poultrymeat must be stored and kept. |
+| Article 7(1) | Point III(I) of Part B of Annex XIV to the Single CMO Regulation | Criteria to be applied when grading poultry carcases and cuts into class A or B. |
+| Article 7(2) | Article 7(1) of the Commission Regulation | Additional criteria for grading poultry carcases and cuts as class A. |
+| Article 10 | Annex III to the Commission Regulation | Terms to describe the method by which poultrymeat has been chilled. |
+| Article 11(1), first sub-paragraph | The second sub-paragraph of Article 11(1) of, and Annexes IV and V to, the Commission Regulation | Terms to describe particular types of farming method. |
+| Article 11(1), third sub-paragraph | The first sub-paragraph of Article 11(1) of the Commission Regulation | Foie gras indication. |
+| Article 11(2) | Article 1(1)(a), fourth indent and 11(1) of, and Annex V(b), (c) or (d) to, the Commission Regulation | Use of indications relating to age at slaughter and length of fattening period. |
+| Article 12(1) | Article 11 of the Commission Regulation | Registration of producers and slaughterhouses using the special marketing terms mentioned in Article 11(1) relating to farming methods and related record-keeping obligation on slaughterhouses. |
+| Article 12(2) | Article 12(1) of the Commission Regulation | Record-keeping by producers using the special marketing terms mentioned in Article 11(1) relating to farming methods. |
+| Article 12(3) | Article 11(1)(a) of the Commission Regulation | Record-keeping by feed manufacturers and suppliers in respect of the composition of feed supplied to producers who are producing birds that will be marketed using the special marketing term relating to feed (“fed with .................... % .....................”). |
+| Article 12(4) | Article 11(1)(d) and (e) of the Commission Regulation | Record-keeping by hatcheries supplying slow growing strains of birds to producers of “traditional free range” and “free-range — total freedom” birds. |
+| Article 14, first paragraph | Article 10 and 11 of the Commission Regulation | Prohibition on imported poultrymeat bearing certain optional indications relating to method of chilling or certain types of farming unless accompanied by an official certificate. |
+| Article 15(1) | Annexes VI and VII to the Commission Regulation | Prohibition on the marketing of frozen and quick-frozen chickens where the water content exceeds technically unavoidable values. |
+| Article 16(1) | Annexes VI and IX to the Commission Regulation | Water content checks on carcases. |
+| Article 16(1), second sub-paragraph | Annexes VI and XI to the Commission Regulation | Making the necessary technical adjustments when water content is above the permitted level. |
+| Article 16(2) | Article 15(1) of, and Annexes VI and VII to, the Commission Regulation | Water content checks on frozen and quick frozen chickens. |
+| Article 16(3) | Articles 16(1) and (2) of, and Annexes VI,VII and IX to, the Commission Regulation | Increased frequency of water content checks on frozen and quick frozen chickens. |
+| Article 16(4) | Article 16(1) and (2) of, and Annexes VI to IX to, the Commission Regulation | Water content checks on air chilled chicken carcases. |
+| Article 16(6) | Annex X to the Commission Regulation | Marketing of frozen and quick-frozen chickens under supervision where the water content exceeds technically unavoidable values. |
+| Article 20(1) | Annex VIII to the Commission Regulation | Prohibition on the marketing of certain poultry cuts if the water content exceeds technically unavoidable values. |
+| Article 20(2)(a) | Articles 16(1) and 20(1) of, and Annex IX to, the Commission Regulation | Water content checks at slaughterhouses on chicken and turkey carcases intended for use in poultry cuts. |
+| Article 20(2), second sub-paragraph | Article 20(2)(a) and (3) of, and Annexes VI to IX to, the Commission Regulation | Water content checks on air-chilled poultry cuts. |
+| Article 20(3) | Article 20(1) of, and Annex VIII to, the Commission Regulation | Water content checks at cutting plants on poultry cuts. |
+| Article 20(4) in so far as it applies Article 16(3) of the Commission Regulation | Article 16(1) and (2) of, and Annexes VI, VII and IX to, the Commission Regulation | Increased frequency of water content checks on poultry cuts. |
+| Article 20(4) in so far as it applies Article 16(6) of the Commission Regulation | Annex X to the Commission Regulation | Marketing of certain poultry cuts under supervision where the water content exceeds technically unavoidable values. |
+
+## SCHEDULE 2 — PROVISIONS OF THE COMMISSION REGULATION, CONTRAVENTION OF WHICH IS AN OFFENCE
+
+Regulation 3
+
+| *Column 1* | *Column 2* | *Column 3* |
+| --- | --- | --- |
+| *Relevant provision of the Commission Regulation* | *Provisions to be read with the provisions of the Commission Regulation mentioned in column 1* | *Subject matter* |
+| Article 4(2) | Articles 1(1) and (2) and 11 of the Commission Regulation | Requirement that supplemental terms do not mislead the consumer. |
+| Article 5(2) | Article 5(3), (4) and (6) of the Commission Regulation, as read, in the case of Article 5(4), with Article 5(5) of that Regulation | Additional requirements relating to the labelling, presentation and advertising of poultrymeat intended for the final consumer. |
+| Article 11(1), first sub-paragraph | The second sub-paragraph of Article 11(1) of, and Annexes IV and V to, the Commission Regulation | Terms to describe particular types of farming method. |
+| Article 11(1), third sub-paragraph | The first sub-paragraph of Article 11(1) of the Commission Regulation | *Foie gras* indication. |
+
+## SCHEDULE 3 — FEES FOR WATER CONTENT CHECKS
+
+Regulation 8(3)
+
+**1.** In this Schedule—
+
+- “**Article 16(1) water content check**” (“***gwiriad cynhwysiad dŵr Erthygl 16(1)***”) means a check of the type mentioned in the first sub-paragraph of Article 16(1) of the Commission Regulation;
+- “**Article 16(2) water content check**” (“**gwiriad cynhwysiad dŵr Erthygl 16(2)**”) means a check of the type mentioned in Article 16(2) of the Commission Regulation;
+- “**Article 16(3) water content check**” (“***gwiriad cynhwysiad dŵr Erthygl 16(3)***”) means a check of the type mentioned in the second sub-paragraph of Article 16(3) of the Commission Regulation;
+- “**Article 20(2) water content check**” (“***gwiriad cynhwysiad dŵr Erthygl 20(2)***”) means a check of the type mentioned in paragraph (a) of the first sub-paragraph of Article 20(2) of the Commission Regulation;
+- “**Article 20(3) water content check**” (“***gwiriad cynhwysiad dŵr Erthygl 20(3)***”) means a check of the type mentioned in Article 20(3) of the Commission Regulation;
+- “**Article 20(4) water content check**” (“***gwiriad cynhwysiad dŵr Erthygl 20(4)***”) means a check of the type mentioned in second sub-paragraph of Article 16(3) of the Commission Regulation, as applying to poultry cuts by virtue of Article 20(4) of that Regulation.
+
+**2.** The following table sets out the fees payable in respect of water content checks carried out by the Agency—
+
+| *Check* | *Fee (£)* |
+| --- | --- |
+| Article 16(1) water content check | 42 |
+| Article 16(2) water content check | 297.02 |
+| Article 16(3) water content check | 297.02 |
+| Article 20(2) water content check | 42 |
+| Article 20(3) water content check | 207.02 |
+| Article 20(4) water content check | 207.02 |
+
+**3.** All fees payable under this Schedule are payable to the Agency within 28 days of the Agency giving an operator an invoice demanding the payment of the fee, beginning with the day on which the invoice is received.
+
+*(This note is not part of the Regulations)*
+
+These Regulations which apply in relation to Wales make provision for the enforcement and execution of directly applicable EU (European Union) marketing standards relating to poultrymeat.
+
+These Regulations:
+
+- (a) revoke, in relation to Wales, the Poultry Meat (Water Content) Regulations 1984 (S.I. 1984/1145),
+- (b) make the failure to comply with the provisions of Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543) (OJ No L 157, 17.6.2008, p. 46) mentioned in Schedule 2 (provisions relating to the marketing of poultrymeat) an offence (regulation 3 and Schedule 2),
+- (c) make provision in relation to the registration of slaughterhouses and producers as required by Article 12 of Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543) (regulation 5) and provide for appeals against a decision to refuse such a registration and a decision to cancel such a registration (regulations 6 and 7),
+- (d) provide for the payment of fees in relation to water content checks carried out by the Food Standards Agency (regulation 8 and Schedule 3),
+- (e) provide for enforcement (regulations 9 and 10),
+- (f) confer powers of entry (regulation 11) and other powers (regulation 12), including seizure and destruction powers,
+- (g) make the failure to comply with the provisions of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) (OJ No L 299, 16.11.2007, p. 1) and Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543) mentioned in Schedule 1 a matter for which a compliance notice may be issued (regulation 14) and provide for appeals against compliance notices (regulations 15 and 16). Failure to comply with a compliance notice is an offence, and
+- (h) make obstruction of an authorised officer an offence (regulation 18).
+
+Offences under the Regulations are punishable on summary conviction by a fine not exceeding level 5 on the standard scale (regulation 19).
+
+A regulatory impact assessment of the effect that these Regulations will have on the costs of business and the voluntary sector is available at www.wales.gov.uk or from the Department for Rural Affairs, Welsh Assembly Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^c20967661]: Marginal citation: By virtue of article 3 of the European Communities (Designation) (No. 5) Order 2010, [S.I. 2010/2690](https://www.legislation.gov.uk/uksi/2010/2690).
+
+[^c20967671]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c20967681]: Marginal citation: OJ No L 299, 16.11.2007, p.1, last amended by Commission Regulation (EU) No 513/2010 (OJ No L 150, 16.6.2010, p.40).
+
+[^c20967691]: Marginal citation: OJ No L 157, 17.6.2008, p.46, last amended by Commission Regulation (EU) No 557/2010 (OJ No L 159, 25.6.2010, p. 13).
+
+[^c20967701]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^c20967711]: Marginal citation: Sub-section (4A) of section 48 was inserted by paragraph 21 of Schedule 5 to the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28).
+
+[^c20967721]: Marginal citation: OJ No L 31, 1.2.2002, p. 1, last amended by Regulation (EC) No 596/2009 (OJ No L 188, 18.7.2009, p. 14).
+
+[^c20967731]: Marginal citation: Section 6(4) was amended by paragraph 6 of Schedule 9 to the [Deregulation and Contracting Out Act 1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), paragraphs 7, 10(1) and (3) of Schedule 5, and Schedule 6, to the Food Standards Act 1999 (“**the 1999 Act**”) and [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794). Section 16(1) was amended by paragraphs 7 and 8 of Schedule 5 to the 1999 Act. Section 17 was amended by paragraphs 7, 8 and 12 of Schedule 5 to the 1999 Act. Section 26(2) was amended by paragraph 13 of Schedule 8, and Part 1 of Schedule 23, to the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15). Section 26(3) has been partially repealed by Schedule 6 to the 1999 Act. Section 45(1) was amended by paragraphs 8 and 20 of Schedule 5 to the 1999 Act. Section 48(1) was amended by paragraphs 7 and 8 of Schedule 5 to the 1999 Act.
+
+[^c20967741]: Marginal citation: Functions of “the Ministers”, so far as exercisable in relation to Wales, are now exercisable by the Welsh Ministers, having been transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672), as read with section 40(3) of the Food Standards Act 1999, and then transferred to the Welsh Ministers by section 162 of and paragraph 30(2)(a) of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^c20967751]: Marginal citation: Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^key-06550fb820f43d2a995b40bce6216819]: Textual amendment: Words in reg. 1(3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(2)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/2/a)
+
+[^key-dd96e5e48ea6fc6707a05b63212228bc]: Textual amendment: Words in reg. 1(3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(2)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/2/b)
+
+[^key-06cc3929f9175dd94e8a17b4949ed87c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/2)
+
+[^key-90cbdbe452c47a4e29296e914085afc9]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(a)(i)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/a/i)
+
+[^key-b20cc71005d7e50b445ce3e73e3fdfb2]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/a/ii)
+
+[^key-bedc10de3f4f515be190ef72f4a9a268]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/a/iii)
+
+[^key-5ba0a0c295ea1a676e0b17ea26af1858]: Textual amendment: Words in reg. 2(1) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [25](https://www.legislation.gov.uk/wsi/2019/463/regulation/25)
+
+[^key-fdf025c771954b031663118cac55af1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/2/1) inserted (31.12.2020) by [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1376)](https://www.legislation.gov.uk/wsi/2019/1376), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1376/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2019/1376/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0dcf2b41c121e413f4bcc18f30e8e872]: Textual amendment: Words in reg. 2(3) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/b)
+
+[^c20967761]: Marginal citation: This derogates from the provisions of point II(2) of Part B of Annex XIV to the Single CMO Regulation.
+
+[^c20967771]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c20967781]: Marginal citation: OJ No L 31, 1.2.2002 p. 1, last amended by Regulation (EC) No 596/2009 (OJ No L188, 18.7.2009, p. 14).
+
+[^key-d7b15020a75b1cf16c90faed0f915c2b]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/9/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/3/a)
+
+[^key-d8332ecf3fd54205e8b7a21472d191bb]: Textual amendment: Word in [reg. 9(2)(a)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/9/2/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(3)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/3/b)
+
+[^c20967791]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
+
+[^key-ff2f9b32863c22ebc71b123636fb42b6]: Textual amendment: [Reg. 11(2)(b)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/11/2/b) and word omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [7(4)](https://www.legislation.gov.uk/wsi/2019/732/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-193e35d57f8dc18854c61dd5125e4207]: Textual amendment: Words in reg. 12(9)(a) substituted (31.12.2020) by [S.I. 2019/732](https://www.legislation.gov.uk/uksi/2019/732), [reg. 7(5)(a)](https://www.legislation.gov.uk/uksi/2019/732/regulation/7/5/a) (as substituted by [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/3/4))
+
+[^key-4ff372641767b5f6c32096b3b4763e49]: Textual amendment: [Reg. 12(12)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/12/12) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/7/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8f213c61f65b5c37aed11141a4b4fef2]: Textual amendment: Words in reg. 12 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(4)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/4)
+
+[^c20967801]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-5c267bd6f5886347e38d0d0d2cf7002d]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/14/1/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(4)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/4)
+
+[^c20967811]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^c20967821]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^c20967831]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^c20967841]: Marginal citation: [S.I. 1990/2463](https://www.legislation.gov.uk/uksi/1990/2463).
+
+[^c20967851]: Marginal citation: [S.I. 1984/1145](https://www.legislation.gov.uk/uksi/1984/1145).
+
+[^c20967861]: Marginal citation: [S.I. 1990/2486](https://www.legislation.gov.uk/uksi/1990/2486).
+
+[^key-9383404dd30a4555429486452ec2a56f]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2011/1719/schedule/1) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(5)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/5)
+
+[^key-d534157a95282e1a19404ed0e4d01c7a]: Textual amendment: [Sch. 1 heading](https://www.legislation.gov.uk/wsi/2011/1719/schedule/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [7(7)](https://www.legislation.gov.uk/wsi/2019/732/regulation/7/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cd9fa75dc6d88c40fafca21224296284]: Textual amendment: Words in Sch. 1 Pt. 1 heading inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/a)
+
+[^key-4b3e60044764581f6bc48440c996f2cf]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/b)
+
+[^key-730c927678edd46e637823f7db65ea8e]: Textual amendment: Words in Sch. 1 Pt. 1 table inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/c)
+
+[^key-6d8451195205f42aeae53878a5d12ea2]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (20.11.2019) by [The Rural Affairs and Environment (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1408)](https://www.legislation.gov.uk/wsi/2019/1408), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/4/2/a)
+
+[^key-0a8ffd0f860fbf9f5436a529b8dc9494]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (20.11.2019) by [The Rural Affairs and Environment (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1408)](https://www.legislation.gov.uk/wsi/2019/1408), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/4/2/b)
+
+[^key-c23ba57efa7b6593156f161af693f214]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(f)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/f)
+
+[^key-3f1ab56edf65bfe5dfbd96fe557db830]: Textual amendment: Words in Sch. 1 Pt. 1 table inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(g)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/g)
+
+[^key-9b5402681f76c4399a9d875f0b95d920]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(h)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/h)
+
+[^key-e87d3c6425e45870123f611138f2374f]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(i)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/i)
+
+[^key-1174e98af26e4686b1605666a6bf3e74]: Textual amendment: Words in Sch. 1 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(6)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/6/a)
+
+[^key-16d1b7889ba17ecb043e36d52f569b55]: Textual amendment: Words in Sch. 1 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(6)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/6/b)

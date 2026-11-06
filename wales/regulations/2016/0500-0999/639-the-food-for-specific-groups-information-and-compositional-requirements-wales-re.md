@@ -1,0 +1,656 @@
+---
+title: The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016
+id: wsi/2016/639
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-07-12'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2016/639
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2016/639/pdfs/wsi_20160639_mi.pdf
+- http://www.legislation.gov.uk/wsi/2016/639/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 639 (W. 175)
+
+Food, Wales
+
+The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016
+
+Made
+
+12 July 2016
+
+Laid before the National Assembly for Wales
+
+12 July 2016
+
+Coming into force
+
+2 August 2016
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 6(4), 16(1), 17(1) and (2), 26(1) and (3), and 48(1) of the Food Safety Act 1990[^f00001] and paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00002].
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for any references to specified provisions of Regulation (EU) No 609/2013 of the European Parliament and of the Council on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council [Directive 92/52/EEC](https://www.legislation.gov.uk/european/directive/1992/0052), Commission Directives [96/8/EC](https://www.legislation.gov.uk/european/directive/1996/0008), [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021), [2006/125/EC](https://www.legislation.gov.uk/european/directive/2006/0125) and [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141), [Directive 2009/39/EC](https://www.legislation.gov.uk/european/directive/2009/0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041) and [(EC) No 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953)[^f00003] to be construed as references to those provisions as amended from time to time.
+
+So far as these Regulations are made in exercise of powers under the Food Safety Act 1990, the Welsh Ministers have had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A)[^f00004] of that Act.
+
+There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00005], during the preparation and evaluation of the following Regulations.
+
+## 1. Title, application and commencement[^key-89d18cdc6c8d8e109a6856a485777076]
+
+(1) The title of these Regulations is the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016.
+
+(2) These Regulations apply in relation to Wales.
+
+(3) These Regulations come into force on 2 August 2016.
+
+## 2. Interpretation[^key-de885c56b037528753ccc8f1c83f1221]
+
+(1) In these Regulations—
+
+- “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990;
+- “[^key-93e1885f8b0d2daf8098cf668ed137fa]**the Delegated Regulation**” (“***y Rheoliad Dirprwyedig***”) means Commission Delegated Regulation (EU) 2016/128 as amended from time to time supplementing Regulation (EU) No 609/2013 of the European Parliament and of the Council as regards the specific compositional and information requirements for food for special medical purposes;
+- “the EU Regulation” (“*Rheoliad yr UE*”) means Regulation (EU) No 609/2013 of the European Parliament and of the Council on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council [Directive 92/52/EEC](https://www.legislation.gov.uk/european/directive/1992/0052), Commission Directives [96/8/EC](https://www.legislation.gov.uk/european/directive/1996/0008), [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021), [2006/125/EC](https://www.legislation.gov.uk/european/directive/2006/0125) and [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141), [Directive 2009/39/EC](https://www.legislation.gov.uk/european/directive/2009/0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041) and [(EC) No 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953);
+- “**food for special medical purposes**” (“***bwyd at ddibenion meddygol arbennig***”) has the same meaning in these Regulations as in the EU Regulation;
+- “**infant**” (“***baban***”) means a child under the age of 12 months;
+- “specified EU requirement” (“*gofyniad UE penodedig*”) means a provision of the EU Regulation or the Delegated Regulation[^key-7c513dec09c23cc1c93b2ca7d005b12b] specified in column 1 of Schedule 1, as read with the provisions in column 2.
+
+(2) Where any functions under the Act are assigned to a port health authority by an order under section 2 of the Public Health (Control of Disease) Act 1984[^f00006], any reference in these Regulations to a food authority is to be construed, so far as relating to those functions, as a reference to the port health authority to which they are assigned.
+
+(3) Any reference to an Article or Annex in these Regulations is a reference to an Article of, or an Annex to, the EU Regulation.
+
+(4) Any reference to a provision of the EU Regulation contained in the table in Schedule 1, except a reference to Article 1(1), is a reference to that provision as amended from time to time.
+
+(5)[^key-fb6b5f91f159c7c44de02b4b6773def3] Any reference to a provision of the Delegated Regulation contained in the table in Schedule 1 is a reference to that provision as amended from time to time.
+
+(6)[^key-99550579c99cbb5c87648f18e388ee70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Enforcement[^key-8388160556827e26d62d50ec1d178492]
+
+Each food authority must execute and enforce these Regulations within its area.
+
+## 4. Application of provisions of the Act[^key-f286e3c2dd1fb2dbf8909cdecd0f43c8]
+
+(1) Section 10 of the Act (improvement notices) applies in relation to the enforcement of a specified EU requirement for the purposes of these Regulations, with the modifications specified in Part 1 of Schedule 2.
+
+(2) Section 32 of the Act (powers of entry) applies in relation to the enforcement of a specified EU requirement for the purposes of these Regulations, with the modifications specified in Part 2 of Schedule 2.
+
+(3) Section 35 of the Act (punishment of offences) applies in relation to the enforcement of a specified EU requirement for the purposes of these Regulations, with the modification specified in Part 3 of Schedule 2.
+
+(4) Section 37(1), (3), (5) and (6) of the Act (appeals) applies to an improvement notice served in relation to a specified EU requirement, with the modifications (in the case of section 37(1), (5) and (6)) specified in Part 4 of Schedule 2.
+
+(5) Section 39 of the Act (appeals against improvement notices) applies to an appeal against an improvement notice[^key-73bc7e543f28fa645c5a5d8d851c10db] served in relation to a specified EU requirement, with the modification specified in Part 5 of Schedule 2.
+
+(6) The provisions of the Act specified in paragraph (7) apply in relation to the enforcement of a specified EU requirement for the purposes of these Regulations, insofar as they relate to the provisions of the Act specified in and modified by paragraphs (1) to (5).
+
+(7) The provisions of the Act specified for the purposes of this paragraph are—
+
+- (a) section 3 (presumptions that food intended for human consumption);
+- (b) section 20 (offences due to fault of another person);
+- (c) section 21 (defence of due diligence);
+- (d) section 22 (defence of publication in the course of business);
+- (e) section 29 (procurement of samples);
+- (f) section 30(8) (which relates to evidence of certificates given by a food analyst or examiner);
+- (g) section 33 (obstruction etc. of officers);
+- (h) section 36 (offences by bodies corporate);
+- (i) section 36A (offences by Scottish partnerships);
+- (j) section 44 (protection of officers acting in good faith);
+
+and any reference in those provisions to a section of the Act, including a reference to “any of the preceding provisions of this Part”, is to be read as a reference to such sections of the Act that apply by virtue of, and with the modifications made by, these Regulations.
+
+## 5. Revocation[^key-906a53abd7c1a4db302d36d2c4a7fa78]
+
+The following Regulations are revoked—
+
+- (a) the Notification of Marketing of Food for Particular Nutritional Uses (Wales) Regulations 2007[^f00007];
+- (b) regulations 26 and 27 of the Infant Formula and Follow-on Formula (Wales) Regulations 2007[^f00008];
+- (c) the Food for Particular Nutritional Uses (Miscellaneous Amendments) (Wales) Regulations 2010[^f00009];
+- (d) regulation 3 of the Transfer of Functions (Food) (Wales) Regulations 2014[^f00010].
+
+## 6. Amendments to statutory instruments[^key-edb6ffe3517193c576ac882f5168dcc4]
+
+Schedule 3 has effect.
+
+## 7. Transitional arrangements[^key-3a0317c65fbc49c2fa4a5ce378ecbc7d][^key-a909c30464ed77a00f000a462317b41f]
+
+Food for special medical purposes that does not comply with any specified provision of the Delegated Regulation specified in Schedule 1 may continue to be marketed until stocks of such food are exhausted provided that—
+
+- (a) it complies with the provisions of the EU Regulation specified in Schedule 1,
+- (b) it was placed on the market or labelled—
+  - (i) before 22 February 2019, or
+  - (ii) before 22 February 2020 in the case of food for special medical purposes developed to satisfy the nutritional requirements of infants, and
+- (c) the requirements specified in regulation 3(1) and (2) of the Medical Food (Wales) Regulations 2000 are met.
+
+Rebecca Evans
+
+Minister for Social Services and Public Health, under authority of the Cabinet Secretary for Health, Well-being and Sport, one of the Welsh Ministers
+
+## SCHEDULE 1 — Specified EU requirements[^key-5d01ff52eca9309513dfe7cac5d87cf9]
+
+Regulation 2(1)
+
+| *Column 1* | *Column 2* |
+| --- | --- |
+| **Specified provision of the EU Regulation[^key-db33c74ec0192066d8058e584e652de4]** | **Provisions to be read with the specified provision of the EU Regulation** |
+| Article 4(2) (requirement for relevant food to be pre-packed) | Articles 1(1) and 4(1) |
+| Article 9(1) (requirement for the composition of food to be nutritionally appropriate and suitable) | Articles 1(1), 4(1) and 9(3) |
+| Article 9(2) (prohibition on substances in dangerous quantities) | Articles 1(1) and 4(1) |
+| Article 9(5) (requirements as to labelling, presentation and advertising of relevant food) | Articles 1(1), 4(1) and 9(6) |
+| Article 10 (additional requirements for infant formula and follow-on formula) | Article 4(1) |
+| Article 15(1) (Great Britain list)[^key-8f83a1ecdd81a10072349daaff5a38ed] | Articles 1(1)(a) and (c) and 4(1) and the Annex insofar as it applies to infant formula, follow-on formula, and food for special medical purposes[^key-9385b90b243407a2f3dcb61b12323a43] |
+| **Specified provision of the Delegated Regulation[^key-6fd800b4f8625862ef772fa3ce908d39]** | ***Provisions to be read with the specified provision of the Delegated Regulation*** |
+| Article 2(2) (requirement for the formulation of food to be based on sound medical and nutritional principles) | Article 1 |
+| The first sub-paragraph of Article 2(3) (requirement for food for special medical purposes developed to satisfy the nutritional requirements of infants to comply with the compositional requirements in Part A of Annex 1) | Articles 1 and 2(4) and Part A of Annex 1 |
+| The second sub-paragraph of Article 2(3) (requirement for food other than that developed to satisfy the nutritional requirements of infants to comply with the compositional requirements in Part B of Annex 1) | Articles 1 and 2(4) and Part B of Annex 1 |
+| Article 3(2) (requirement relating to residue threshold for certain active substances where food for special medical purposes is developed to satisfy the nutritional requirements of infants and young children) | Articles 1 and 3(1), (3) and (5) and Annex 2 |
+| Article 3(3) (maximum residue levels for substances listed in Annex 2) | Articles 1 and 3(1), (2) and (5) and Annex 2 |
+| Article 3(4) (prohibition on the use of plant protection products) | Articles 1 and 3(1) and (5) and Annex 3 |
+| Article 4 (name of the food) | Article 1 |
+| Article 5(1) (requirement for food for special medical purposes to comply with Regulation (EU) No. 1169/2011 unless otherwise specified) | Articles 1 and 5(2) |
+| Article 5(2) (additional mandatory particulars relating to food information) | Articles 1 and 5(1) and (3) |
+| Article 5(3) (application of Articles 13(2) and (3) of Regulation (EU) No. 1169/2011 to additional mandatory particulars) | Articles 1 and 5(1) and (2) |
+| Article 6 (specific requirements on the nutrition declaration) | Article 1 and Annex 1 |
+| Article 7 (nutrition and health claims) | Article 1 |
+| Article 8(1) (requirement for mandatory particulars to appear in a language easily understood by consumers) | Article 1 |
+| The first sub-paragraph of Article 8(2) (prohibition of pictures of infants or certain other pictures or text) | Article 1 |
+| Article 8(3) (requirements relating to labelling, presentation and advertising) | Article 1 |
+| The first sub-paragraph of Article 8(4) (restriction on publication) | Article 1 and the third sub-paragraph of Article 8(4) |
+| Article 8(5) (prohibition on use of promotional devices to induce sales) | Article 1 |
+| Article 8(6) (prohibition on providing free or low-priced products, samples or other promotional gifts) | Article 1 |
+| Article 9 (notification) | Article 1 |
+
+## SCHEDULE 2 — Modification of provisions of the Act
+
+### PART 1 — Modification of section 10
+
+Regulation 4(1)
+
+**1.**[^key-e352ea621fab839f3c5690b1d0491bc1] For section 10(1) (improvement notices) substitute—
+
+> (1) If an authorised officer of an enforcement authority has reasonable grounds for believing that a person is failing to comply with a specified EU requirement, or has placed food on the market that does not comply with a specified EU requirement, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
+>
+> - (a) state the officer’s grounds for believing that the person is failing to comply, or as the case may be, that the food does not comply with the specified EU requirement;
+> - (b) specify the matters which constitute the failure to so comply;
+> - (c) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and
+> - (d) require the person to take those measures, or such measures that are at least equivalent to them, within such period as may be specified in the notice.
+
+**2.**[^key-91bc315b628c2e453ad266d605757021] Section 10(3) does not apply.
+
+**3.**[^key-d23653ac1a5383f76931158634c0d137] After section 10(3) insert—
+
+> (4) In this section “specified EU requirement” has the meaning given to that term in regulation 2(1) of the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016.
+
+### PART 2 — Modification of section 32
+
+Regulation 4(2)
+
+**4.**[^key-9e884726b67363c2b528697124b70a40] For paragraphs (a) to (c) of section 32(1) (powers of entry) substitute—
+
+> - (a) to enter any premises within the authority’s area for the purpose of ascertaining whether there has been any contravention of a specified EU requirement; and
+> - (b) to enter any business premises, whether within or outside the authority’s area, for the purpose of ascertaining whether there is on the premises any evidence of any contravention of such a requirement;
+
+.
+
+**5.**[^key-5b1d6ecd5a4dea68ec4d70dc391d4bf4] Section 32(9) does not apply.
+
+**6.**[^key-261b4d67ff086a43242fa89c2f6c5718] After section 32(9) insert—
+
+> (10) In this section “specified EU requirement” has the meaning given to that term in regulation 2(1) of the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016.
+
+### PART 3 — Modification of section 35
+
+Regulation 4(3)
+
+**6A.**[^key-1d727e643dedb26c45361a7361292554] In section 35(1), after “section 33(1) above” insert “, as applied by regulation 4(6) and (7) of the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016,
+
+**7.**[^key-f6045ce820a94186d53f60a7fbfa9315] In section 35 (punishment of offences), after subsection (1) insert—
+
+> (1A) A person guilty of an offence under section 10(2), as applied by regulation 4(1) of the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016, is liable, on summary conviction, to a fine.
+
+**7A.**[^key-0e86ab90fe1052af5eecb8808025097c] In section 35(2), after “any other offence under this Act” insert “including an offence under section 33(2), as applied by regulation 4(6) and (7) of the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016,
+
+### PART 4 — Modification of section 37
+
+Regulation 4(4)
+
+**8.**[^key-b8ff3df3bf05428ca2cbd4d17c4e1be1] For section 37(1) (appeals) substitute—
+
+> (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve an improvement notice under section 10(1), as applied and modified by regulation 4(1) of, and Part 1 of Schedule 2 to, the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016, may appeal to the magistrates’ court.
+
+**9.**[^key-2bf6650ef4da663b26ae78b718d77b9d] For section 37(5) substitute—
+
+> (5) The period within which such an appeal as is mentioned in subsection (1) above may be brought shall be—
+>
+> - (a) one month from the date on which notice of the decision was served on the person desiring to appeal; or
+> - (b) the period specified in the improvement notice,
+>
+> whichever ends the earlier; and in the case of such an appeal, the making of the complaint shall be deemed for the purposes of this subsection to be the bringing of the appeal.
+
+**10.**[^key-cb151ca6453bee048103b6d1958c9ad7] In section 37(6)—
+
+- (a) for “(3) or (4)” substitute “(1)”; and
+- (b) in paragraph (a), omit “or to the sheriff”.
+
+### PART 5 — Modification of section 39
+
+Regulation 4(5)
+
+**11.**[^key-a514e628d9f3ee9ecc67f25a9c75965f] In section 39(3) (appeals against improvement notices) omit “for want of prosecution”.
+
+## SCHEDULE 3 — Amendments to statutory instruments
+
+Regulation 6
+
+### 1. The Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997[^key-5a91cdec2d51f625667762b6022a5b23]
+
+The Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997[^f00011] are amended as follows—
+
+- (a) in regulation 1(2) for the definition of “relevant food” substitute—
+
+  > - “relevant food” means specially formulated food intended for use in energy-restricted diets for weight reduction, being food which complies with the compositional requirements in Schedule 1 and which, when used as instructed by the manufacturer, replaces the whole of the total daily diet;
+
+  ;
+- (b) for regulation 2 substitute—
+
+  > **2. Name of the food and compositional requirements**
+  >
+  > (1) No person shall sell any relevant food under any name other than “total diet replacement for weight control” in the case of products intended as a replacement for the whole of the daily diet.
+  >
+  > (2) No person shall sell any food in the labelling of which the name “total diet replacement for weight control” is used unless that food is relevant food.
+  >
+  > (3) Nothing in paragraph (1) prevents the use of the words “amnewidiad deiet cyflawn ar gyfer rheoli pwysau” in addition to the words “total diet replacement for weight control”.
+  >
+  > (4) Nothing in paragraphs (1) or (3) prevents the use of equivalent words in any other language in addition to Welsh and English.
+
+  ;
+- (c) in regulation 3(e) insert “and” after “adequate daily fluid intake;”;
+- (d) in regulation 3(f) for “medical advice; and” substitute “medical advice.”;
+- (e) omit regulation 3(g);
+- (f) in regulation 5 for “regulation 2(1)(a)” substitute “regulation 2(1)”;
+- (g) after regulation 6, insert—
+
+  > **6A. Application of the improvement notice provisions of the Act**
+  >
+  > (1) Section 10(1) and (2) of the Act (improvement notices) applies, with the modification (in the case of section 10(1)) specified in Part 1 of Schedule 3, for the purposes of—
+  >
+  > - (a) enabling an improvement notice to be served on a person requiring the person to secure compliance with any of the requirements specified in regulation 2; and
+  > - (b) making the failure to comply with a notice referred to in subparagraph (a) an offence.
+  >
+  > (2) Section 32(1) to (8) of the Act (powers of entry) applies, with the modification (in the case of section 32(1)) specified in Part 2 of Schedule 3, for the purposes of enabling an authorised officer of an enforcement authority—
+  >
+  > - (a) to exercise a power of entry to ascertain whether food that does not comply with one or more of the requirements specified in regulation 2 is, or has been, sold; and
+  > - (b) to exercise a power of entry to ascertain whether there is any evidence of any contravention of regulation 2.
+  >
+  > (3) Section 35 of the Act (punishment of offences) applies, with the modification specified in Part 3 of Schedule 3, for the purpose of specifying the punishment of an offence committed under paragraph (1)(b).
+  >
+  > (4) Section 37(1), (3), (5) and (6) of the Act (appeals) applies, with the modification (in the case of section 37(1), (5) and (6)) specified in Part 4 of Schedule 3, for the purpose of enabling a decision to serve a notice referred to in paragraph (1)(a) to be appealed.
+  >
+  > (5) Section 39 of the Act (appeals against improvement notices) applies, with the modification (in the case of section 39(3)) specified in Part 5 of Schedule 3, for the purpose of dealing with appeals against a decision to serve a notice referred to in paragraph (1)(a).
+
+  ;
+- (h) Schedule 1 is amended as follows—
+  - (i) in paragraph 1.1 for “regulation 2(1)(a)” substitute “regulation 2(1)”;
+  - (ii) omit paragraph 1.2;
+  - (iii) in paragraph 2.1 for “regulation 2(1)(a) and (b)” substitute “regulation 2(1)”, and for “regulation 2(1)(a)” substitute “regulation 2(1)”;
+  - (iv) in paragraph 3.2 for “regulation 2(1)(a)” substitute “regulation 2(1)”;
+  - (v) omit paragraph 3.3;
+  - (vi) in paragraph 4 for “regulation 2(1)(a)” substitute “regulation 2(1)”;
+  - (vii) in paragraph 5.1 for “regulation 2(1)(a)” substitute “regulation 2(1)”; and
+  - (viii) omit paragraph 5.2; and
+- (i) after Schedule 2, insert—
+
+  > **SCHEDULE 3 — Modification of the improvement notice provisions of the Act**
+  >
+  > Regulation 6A
+  >
+  > **PART 1 — Modification of section 10(1)**
+  >
+  > **1.** For section 10(1) (improvement notices) substitute—
+  >
+  > > (1) If an authorised officer of an enforcement authority has reasonable grounds for suspecting that a person is failing to comply with regulation 2 of the Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
+  > >
+  > > - (a) state the officer’s grounds for suspecting that the person is failing to comply or, as the case may be, that the food does not comply with the relevant provision;
+  > > - (b) specify the matters which constitute the failure to so comply;
+  > > - (c) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and
+  > > - (d) require the person to take those measures, or such measures that are at least equivalent to them, within such period as may be specified in the notice.
+  >
+  > **PART 2 — Modification of section 32(1)**
+  >
+  > **2.** For paragraphs (a) to (c) of section 32(1) (powers of entry) substitute—
+  >
+  > > - (a) to enter any premises within the authority’s area for the purpose of ascertaining whether there has been any contravention of regulation 2 of the Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997; and
+  > > - (b) to enter any business premises, whether within or outside the authority’s area, for the purpose of ascertaining whether there is on the premises any evidence of any contravention of that regulation;
+  >
+  > .
+  >
+  > **PART 3 — Modification of section 35**
+  >
+  > **3.** In section 35 (punishment of offences), after subsection (1), insert—
+  >
+  > > (1A) A person guilty of an offence under section 10(2), as applied by regulation 6A(1) of the Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997, is liable, on summary conviction, to a fine.
+  >
+  > **PART 4 — Modification of section 37(1), (5) and (6)**
+  >
+  > **4.** For section 37(1) (appeals) substitute—
+  >
+  > > (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve an improvement notice under section 10(1), as applied and modified by regulation 6A(1) of, and Part 1 of Schedule 3 to, the Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997, may apply to the magistrates’ court.
+  >
+  > **5.** For section 37(5) substitute—
+  >
+  > > (5) The period within which such an appeal as is mentioned in subsection (1) above may be brought shall be—
+  > >
+  > > - (a) one month from the date on which notice of the decision was served on the person desiring to appeal; or
+  > > - (b) the period specified in the improvement notice,
+  > >
+  > > whichever ends the earlier; and in the case of such an appeal, the making of the complaint shall be deemed for the purposes of this subsection to be the bringing of the appeal.
+  >
+  > **6.** In section 37(6)—
+  >
+  > - (a) for “(3) or (4)” substitute “(1)”; and
+  > - (b) in paragraph (a), omit “or to the sheriff”.
+  >
+  > **PART 5 — Modification of section 39(3)**
+  >
+  > **7.** In section 39(3) (appeals against improvement notices), omit “for want of prosecution”.
+
+### 2. The Medical Food (Wales) Regulations 2000[^key-260bb53c6c515d99d4234136619c6a1a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004[^key-5e5382ec18d1ef62e4cec04368fbad03]
+
+The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004[^f00013] are amended as follows—
+
+- (a) in regulation 2(1), in the definition of “sell”, after the words “advertise for sale”, insert “, and “sold” (“*cael ei werthu*”) is to be construed accordingly”;
+- (b) after regulation 10, insert—
+
+  > **10A. Application of the improvement notice provisions of the Act**
+  >
+  > (1) Section 10(1) and (2) of the Act (improvement notices) applies, with the modification (in the case of section 10(1)) specified in Part 1 of Schedule 9, for the purposes of—
+  >
+  > - (a) enabling an improvement notice to be served on a person requiring the person to secure compliance with any of the requirements specified in regulation 4; and
+  > - (b) making the failure to comply with a notice referred to in subparagraph (a) an offence.
+  >
+  > (2) Section 32(1) to (8) of the Act (powers of entry) applies, with the modification (in the case of section 32(1)) specified in Part 2 of Schedule 9, for the purposes of enabling an authorised officer of an enforcement authority—
+  >
+  > - (a) to exercise a power of entry to ascertain whether food that does not comply with one or more of the requirements specified in regulation 4 is, or has been, sold; and
+  > - (b) to exercise a power of entry to ascertain whether there is any evidence of any contravention of regulation 4.
+  >
+  > (3) Section 35 of the Act (punishment of offences) applies, with the modification specified in Part 3 of Schedule 9, for the purpose of specifying the punishment of an offence committed under paragraph (1)(b).
+  >
+  > (4) Section 37(1), (3), (5) and (6) of the Act (appeals) applies, with the modification (in the case of section 37(1), (5) and (6)) specified in Part 4 of Schedule 9, for the purpose of enabling a decision to serve a notice referred to in paragraph (1)(a) to be appealed.
+  >
+  > (5) Section 39 of the Act (appeals against improvement notices) applies, with the modification (in the case of section 39(3)) specified in Part 5 of Schedule 9, for the purpose of dealing with appeals against a decision to serve a notice referred to in paragraph (1)(a).
+
+  ; and
+- (c) after Schedule 8, insert—
+
+  > **SCHEDULE 9 — Modification of the improvement notice provisions of the Act**
+  >
+  > Regulation 10A
+  >
+  > **PART 1 — Modification of section 10(1)**
+  >
+  > **1.** For section 10(1) (improvement notices) substitute—
+  >
+  > > (1) If an authorised officer of an enforcement authority has reasonable grounds for suspecting that a person is failing to comply with regulation 4 of the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
+  > >
+  > > - (a) state the officer’s grounds for suspecting that the person is failing to comply or, as the case may be, that the food does not comply with the relevant provision;
+  > > - (b) specify the matters which constitute the failure to so comply;
+  > > - (c) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and
+  > > - (d) require the person to take those measures, or such measures that are at least equivalent to them, within such period as may be specified in the notice.
+  >
+  > **PART 2 — Modification of section 32(1)**
+  >
+  > **2.** For paragraphs (a) to (c) of section 32(1) (powers of entry) substitute—
+  >
+  > > - (a) to enter any premises within the authority’s area for the purpose of ascertaining whether there has been any contravention of regulation 4 of the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004; and
+  > > - (b) to enter any business premises, whether within or outside the authority’s area, for the purpose of ascertaining whether there is on the premises any evidence of any contravention of that regulation;
+  >
+  > .
+  >
+  > **PART 3 — Modification of section 35**
+  >
+  > **3.** In section 35 (punishment of offences), after subsection (1), insert—
+  >
+  > > (1A) A person guilty of an offence under section 10(2), as applied by regulation 10A(1) of the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004, is liable, on summary conviction, to a fine.
+  >
+  > **PART 4 — Modification of section 37(1), (5) and (6)**
+  >
+  > **4.** For section 37(1) (appeals) substitute—
+  >
+  > > (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve an improvement notice under section 10(1) as applied and modified by regulation 10A(1) of, and Part 1 of Schedule 9 to, the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004, may apply to the magistrates’ court.
+  >
+  > **5.** For section 37(5) substitute—
+  >
+  > > (5) The period within which such an appeal as is mentioned in subsection (1) above may be brought shall be—
+  > >
+  > > - (a) one month from the date on which notice of the decision was served on the person desiring to appeal; or
+  > > - (b) the period specified in the improvement notice,
+  > >
+  > > whichever ends the earlier; and in the case of such an appeal, the making of the complaint shall be deemed for the purposes of this subsection to be the bringing of the appeal.
+  >
+  > **6.** In section 37(6)—
+  >
+  > - (a) for “(3) or (4)” substitute “(1)”; and
+  > - (b) in paragraph (a), omit “or to the sheriff”.
+  >
+  > **PART 5 — Modification of section 39(3)**
+  >
+  > **7.** In section 39(3) (appeals against improvement notices), omit “for want of prosecution”.
+
+### 4. The Infant Formula and Follow-on Formula (Wales) Regulations 2007[^key-9aad8853b6feac140d9d8869f2274b93]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009[^key-71b7e085c386aa404bf5bc7d74a930d2]
+
+The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009[^f00015] are amended as follows—
+
+- (a) after regulation 3, insert—
+
+  > **3A. Application of the improvement notice provisions of the Act**
+  >
+  > (1) Section 10(1) and (2) of the Act (improvement notices) applies, with the modification (in the case of section 10(1)) specified in Part 1 of Schedule 2, for the purposes of—
+  >
+  > - (a) enabling an improvement notice to be served on a person requiring the person to secure compliance with the specified provisions contained in Schedule 1; and
+  > - (b) making the failure to comply with a notice referred to in subparagraph (a) an offence.
+  >
+  > (2) Section 32(1) to (8) of the Act (powers of entry) applies, with the modification (in the case of section 32(1)) specified in Part 2 of Schedule 2, for the purposes of enabling an authorised officer of an enforcement authority—
+  >
+  > - (a) to exercise a power of entry to ascertain whether food that does not comply with one or more of the specified provisions contained in Schedule 1 is, or has been, sold; and
+  > - (b) to exercise a power of entry to ascertain whether there is any evidence of any contravention of the specified provisions contained in Schedule 1.
+  >
+  > (3) Section 35 of the Act (punishment of offences) applies, with the modification specified in Part 3 of Schedule 2, for the purpose of specifying the punishment of an offence committed under paragraph (1)(b).
+  >
+  > (4) Section 37(1), (3), (5) and (6) of the Act (appeals) applies, with the modification (in the case of section 37(1), (5) and (6)) specified in Part 4 of Schedule 2, for the purpose of enabling a decision to serve a notice referred to in paragraph (1)(a) to be appealed.
+  >
+  > (5) Section 39 of the Act (appeals against improvement notices) applies, with the modification (in the case of section 39(3)) specified in Part 5 of Schedule 2, for the purpose of dealing with appeals against a decision to serve a notice referred to in paragraph (1)(a).
+
+  ;
+- (b) in the title of the Schedule, in place of “The Schedule” substitute “Schedule 1”;
+- (c) for the shoulder note to Schedule 1 substitute “Regulations 2(1), 3(1), and 3A(1) and (2)”; and
+- (d) after Schedule 1, insert—
+
+  > **SCHEDULE 2 — Modification of the improvement notice provisions of the Act**
+  >
+  > Regulation 3A
+  >
+  > **PART 1 — Modification of section 10(1)**
+  >
+  > **1.** For section 10(1) (improvement notices) substitute—
+  >
+  > > (1) If an authorised officer of an enforcement authority has reasonable grounds for suspecting that a person is failing to comply with the provisions specified in Schedule 1 of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
+  > >
+  > > - (a) state the officer’s grounds for suspecting that the person is failing to comply or, as the case may be, that the food does not comply with the relevant provision;
+  > > - (b) specify the matters which constitute the failure to so comply;
+  > > - (c) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and
+  > > - (d) require the person to take those measures, or such measures that are at least equivalent to them, within such period as may be specified in the notice.
+  >
+  > **PART 2 — Modification of section 32(1)**
+  >
+  > **2.** For paragraphs (a) to (c) of section 32(1) (powers of entry) substitute—
+  >
+  > > - (a) to enter any premises within the authority’s area for the purpose of ascertaining whether there has been any contravention of the provisions specified in Schedule 1 of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009; and
+  > > - (b) to enter any business premises, whether within or outside the authority’s area, for the purpose of ascertaining whether there is on the premises any evidence of any contravention of that regulation;
+  >
+  > .
+  >
+  > **PART 3 — Modification of section 35**
+  >
+  > **3.** In section 35 (punishment of offences), after subsection (1), insert—
+  >
+  > > (1A) A person guilty of an offence under section 10(2), as applied by regulation 3A(1) of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009, is liable, on summary conviction, to a fine.
+  >
+  > **PART 4 — Modification of section 37(1), (5) and (6)**
+  >
+  > **4.** For section 37(1) (appeals) substitute—
+  >
+  > > (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve an improvement notice under section 10(1) as applied and modified by regulation 3A(1) of, and Part 1 of Schedule 2 to, the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009, may apply to the magistrates’ court.
+  >
+  > **5.** For section 37(5) substitute—
+  >
+  > > (5) The period within which such an appeal as is mentioned in subsection (1) above may be brought shall be—
+  > >
+  > > - (a) one month from the date on which notice of the decision was served on the person desiring to appeal; or
+  > > - (b) the period specified in the improvement notice,
+  > >
+  > > whichever ends the earlier; and in the case of such an appeal, the making of the complaint shall be deemed for the purposes of this subsection to be the bringing of the appeal.
+  >
+  > **6.** In section 37(6)—
+  >
+  > - (a) for “(3) or (4)” substitute “(1)”; and
+  > - (b) in paragraph (a), omit “or to the sheriff”.
+  >
+  > **PART 5 — Modification of section 39(3)**
+  >
+  > **7.** In section 39(3) (appeals against improvement notices), omit “for want of prosecution”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision to enforce, in Wales, certain provisions of Regulation (EU) No 609/2013 of the European Parliament and of the Council on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council [Directive 92/52/EEC](https://www.legislation.gov.uk/european/directive/1992/0052), Commission Directives [96/8/EC](https://www.legislation.gov.uk/european/directive/1996/0008), [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021), [2006/125/EC](https://www.legislation.gov.uk/european/directive/2006/0125) and [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141), [Directive 2009/39/EC](https://www.legislation.gov.uk/european/directive/2009/0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041) and [(EC) No 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953) (OJ No L 181, 29.6.2013, p. 35) (“Regulation (EU) 609/2013”).
+
+Regulation (EU) 609/2013 repeals and replaces a regime regulating (mostly, but not exclusively) compositional and labelling requirements which must be met by certain groups of food before such food may be marketed in Member States. These Regulations provide for the enforcement of certain provisions of Regulation (EU) No 609/2013 and provide for an improvement notice enforcement regime alongside existing domestic criminal sanctions in the Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997, the Medical Food (Wales) Regulations 2000, the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004, the Infant Formula and Follow-on Formula (Wales) Regulations 2007, and the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009.
+
+Regulation 4 and Schedule 2 apply, with modifications, certain provisions of the Food Safety Act 1990 (“the Act”). This includes the application (with modifications) of section 10(1) of the Act, enabling an improvement notice to be served requiring compliance with a specified EU requirement of Regulation (EU) No 609/2013. The specified requirements are listed in Schedule 1. The provisions, as applied and modified, make the failure to comply with an improvement notice a criminal offence.
+
+Schedule 3 amends statutory instruments applying to this area of regulation to enable an improvement notice to be served requiring compliance with relevant regulations. The provisions, as applied and modified in the statutory instruments, make the failure to comply with an improvement notice a criminal offence.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). Section 16(1) was amended by paragraph 8 of Schedule 5 to the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28) (“the 1999 Act”). Section 17(2) was amended by paragraphs 8 and 12 of Schedule 5 to the 1999 Act and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 48(1) was amended by paragraph 8 of Schedule 5 to the 1999 Act. Functions formerly exercisable by “the Ministers” so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the 1999 Act, and subsequently transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and was amended by Part 1 of the Schedule to the European Union (Amendment) Act [2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388) and [S.I. 2014/2303 (W. 227)](https://www.legislation.gov.uk/wsi/2014/2303).
+
+[^f00003]: Footnote: OJ No L 181, 29.6.2013, p. 35.
+
+[^f00004]: Footnote: Section 48(4A) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
+
+[^f00005]: Footnote: OJ No L 31, 1.2.2002, p. 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No. L 189, 27.6.2014, p. 1).
+
+[^key-89d18cdc6c8d8e109a6856a485777076]: Commencement: Reg. 1 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-de885c56b037528753ccc8f1c83f1221]: Commencement: Reg. 2 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-93e1885f8b0d2daf8098cf668ed137fa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/639/regulation/2/1) inserted (22.2.2019) by [The Food for Specific Groups (Information and Compositional Requirements) (Amendment) (Wales) Regulations 2019 (S.I. 2019/70)](https://www.legislation.gov.uk/wsi/2019/70), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/wsi/2019/70/regulation/3/2/a/i)
+
+[^key-7c513dec09c23cc1c93b2ca7d005b12b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/639/regulation/2/1) inserted (22.2.2019) by [The Food for Specific Groups (Information and Compositional Requirements) (Amendment) (Wales) Regulations 2019 (S.I. 2019/70)](https://www.legislation.gov.uk/wsi/2019/70), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/70/regulation/3/2/a/ii)
+
+[^f00006]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
+
+[^key-fb6b5f91f159c7c44de02b4b6773def3]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/wsi/2016/639/regulation/2/5)[(6)](https://www.legislation.gov.uk/wsi/2016/639/regulation/2/6) inserted (22.2.2019) by [The Food for Specific Groups (Information and Compositional Requirements) (Amendment) (Wales) Regulations 2019 (S.I. 2019/70)](https://www.legislation.gov.uk/wsi/2019/70), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/wsi/2019/70/regulation/3/2/b)
+
+[^key-99550579c99cbb5c87648f18e388ee70]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/wsi/2016/639/regulation/2/6) omitted (22.2.2020) by virtue of [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/92/regulation/4)
+
+[^key-8388160556827e26d62d50ec1d178492]: Commencement: Reg. 3 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-f286e3c2dd1fb2dbf8909cdecd0f43c8]: Commencement: Reg. 4 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-73bc7e543f28fa645c5a5d8d851c10db]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/wsi/2016/639/regulation/4/5) substituted (22.2.2020) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2020/92/regulation/5)
+
+[^key-906a53abd7c1a4db302d36d2c4a7fa78]: Commencement: Reg. 5 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^f00007]: Footnote: [S.I. 2007/1040 (W. 100)](https://www.legislation.gov.uk/wsi/2007/1040).
+
+[^f00008]: Footnote: [S.I. 2007/3573 (W. 316)](https://www.legislation.gov.uk/wsi/2007/3573), amended by [S.I. 2008/2602](https://www.legislation.gov.uk/uksi/2008/2602).
+
+[^f00009]: Footnote: [S.I. 2010/363 (W. 45)](https://www.legislation.gov.uk/wsi/2010/363).
+
+[^f00010]: Footnote: [S.I. 2014/1102 (W. 110)](https://www.legislation.gov.uk/wsi/2014/1102).
+
+[^key-edb6ffe3517193c576ac882f5168dcc4]: Commencement: Reg. 6 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-3a0317c65fbc49c2fa4a5ce378ecbc7d]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/639/regulation/7) inserted (22.2.2019) by [The Food for Specific Groups (Information and Compositional Requirements) (Amendment) (Wales) Regulations 2019 (S.I. 2019/70)](https://www.legislation.gov.uk/wsi/2019/70), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3), [3(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/3/3)
+
+[^key-a909c30464ed77a00f000a462317b41f]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/639/regulation/7) substituted (22.2.2020) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2020/92/regulation/6)
+
+[^key-5d01ff52eca9309513dfe7cac5d87cf9]: Commencement: Sch. 1 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-db33c74ec0192066d8058e584e652de4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2016/639/schedule/1) Table substituted (22.2.2019) by [The Food for Specific Groups (Information and Compositional Requirements) (Amendment) (Wales) Regulations 2019 (S.I. 2019/70)](https://www.legislation.gov.uk/wsi/2019/70), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3), [4](https://www.legislation.gov.uk/wsi/2019/70/regulation/4)
+
+[^key-8f83a1ecdd81a10072349daaff5a38ed]: Textual amendment: Words in Sch. 1 substituted (31.12.2020) by [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/179)](https://www.legislation.gov.uk/uksi/2019/179), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/179/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/179/regulation/8/3) (as amended by [S.I. 2020/1252](https://www.legislation.gov.uk/uksi/2020/1252), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1252/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1252/regulation/2/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9385b90b243407a2f3dcb61b12323a43]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2016/639/schedule/1) substituted (22.2.2020) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2020/92/regulation/7/a)
+
+[^key-6fd800b4f8625862ef772fa3ce908d39]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2016/639/schedule/1) substituted (22.2.2020) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2020/92/regulation/7/b)
+
+[^key-e352ea621fab839f3c5690b1d0491bc1]: Commencement: Sch. 2 para. 1 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-91bc315b628c2e453ad266d605757021]: Commencement: Sch. 2 para. 2 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-d23653ac1a5383f76931158634c0d137]: Commencement: Sch. 2 para. 3 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-9e884726b67363c2b528697124b70a40]: Commencement: Sch. 2 para. 4 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-5b1d6ecd5a4dea68ec4d70dc391d4bf4]: Commencement: Sch. 2 para. 5 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-261b4d67ff086a43242fa89c2f6c5718]: Commencement: Sch. 2 para. 6 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-1d727e643dedb26c45361a7361292554]: Textual amendment: [Sch. 2 para. 6A](https://www.legislation.gov.uk/wsi/2016/639/schedule/2/paragraph/6A) inserted (22.2.2020) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2020/92/regulation/8/a)
+
+[^key-f6045ce820a94186d53f60a7fbfa9315]: Commencement: Sch. 2 para. 7 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-0e86ab90fe1052af5eecb8808025097c]: Textual amendment: [Sch. 2 para. 7A](https://www.legislation.gov.uk/wsi/2016/639/schedule/2/paragraph/7A) inserted (22.2.2020) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2020/92/regulation/8/b)
+
+[^key-b8ff3df3bf05428ca2cbd4d17c4e1be1]: Commencement: Sch. 2 para. 8 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-2bf6650ef4da663b26ae78b718d77b9d]: Commencement: Sch. 2 para. 9 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-cb151ca6453bee048103b6d1958c9ad7]: Commencement: Sch. 2 para. 10 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-a514e628d9f3ee9ecc67f25a9c75965f]: Commencement: Sch. 2 para. 11 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^key-5a91cdec2d51f625667762b6022a5b23]: Commencement: Sch. 3 para. 1 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^f00011]: Footnote: [S.I. 1997/2182](https://www.legislation.gov.uk/uksi/1997/2182), to which there are amendments not relevant to these Regulations.
+
+[^key-260bb53c6c515d99d4234136619c6a1a]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2016/639/schedule/3/paragraph/2) revoked (22.2.2020) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2020/92/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/9/2))
+
+[^key-5e5382ec18d1ef62e4cec04368fbad03]: Commencement: Sch. 3 para. 3 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^f00013]: Footnote: [S.I. 2004/314 (W. 32)](https://www.legislation.gov.uk/wsi/2004/314), amended by [S.I. 2005/3111 (W. 231)](https://www.legislation.gov.uk/wsi/2005/3111), [S.I. 2005/3254 (W. 247)](https://www.legislation.gov.uk/wsi/2005/3254), [S.I. 2007/2753 (W. 232)](https://www.legislation.gov.uk/wsi/2007/2753), [S.I. 2011/2131](https://www.legislation.gov.uk/uksi/2011/2131), [S.I. 2014/2303 (W. 227)](https://www.legislation.gov.uk/wsi/2014/2303).
+
+[^key-9aad8853b6feac140d9d8869f2274b93]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2016/639/schedule/3/paragraph/4) revoked (22.2.2020 for all purposes except in respect of infant formula and follow-on formula manufactured from protein hydrolysates and 22.2.2021 in so far as not already in force) by [The Infant Formula and Follow-on Formula (Wales) Regulations 2020 (S.I. 2020/89)](https://www.legislation.gov.uk/wsi/2020/89), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/wsi/2020/89/schedule/3) (with [reg. 5(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/5/2)[(3)](https://www.legislation.gov.uk/wsi/2020/89/regulation/5/3))
+
+[^key-71b7e085c386aa404bf5bc7d74a930d2]: Commencement: Sch. 3 para. 5 in force at 2.8.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3)
+
+[^f00015]: Footnote: [S.I. 2009/3254 (W. 283)](https://www.legislation.gov.uk/wsi/2009/3254).

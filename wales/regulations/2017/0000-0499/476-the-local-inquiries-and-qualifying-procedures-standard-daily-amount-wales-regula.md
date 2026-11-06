@@ -1,0 +1,148 @@
+---
+title: The Local Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2017
+id: wsi/2017/476
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-24'
+text_date: '2024-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2017/476
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2017/476/pdfs/wsi_20170476_mi.pdf
+- http://www.legislation.gov.uk/wsi/2017/476/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2017
+
+> Text as at 2024-11-04.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 476 (W. 99)
+
+Tribunals And Inquiries, Wales
+
+Town And Country Planning, Wales
+
+The Local Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2017
+
+Made
+
+24 March 2017
+
+Laid before the National Assembly for Wales
+
+31 March 2017
+
+Coming into force
+
+5 May 2017
+
+The Welsh Ministers in exercise of the powers conferred by section 42(4) of the Housing and Planning Act 1986[^f00001] on any Minister authorised, under or by virtue of statutory provisions mentioned in section 42(1)[^f00002] of that Act or to which that section is applied[^f00003], to recover costs incurred by the Minister in relation to an inquiry, which powers are now exercisable by them[^f00004]; and conferred upon the National Assembly for Wales as the appropriate authority by section 303A(5) of the Town and Country Planning Act 1990[^f00005] which powers are now exercisable by them[^f00006], make the following Regulations:
+
+## 1. Title, commencement, application and interpretation[^key-b4c2fec37c7d0ebbf32472201afd0225]
+
+(1) The title of these Regulations is the Local Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2017 and they come into force on 5 May 2017.
+
+(2) These Regulations apply in relation to Wales.
+
+(3) These Regulations apply in relation to—
+
+- (a) a local inquiry; and
+- (b) any person appointed by the Welsh Ministers to hold a qualifying procedure.
+
+(4) In these Regulations—
+
+- “local inquiry” (“*ymchwiliad lleol*”) means an inquiry in relation to which the Welsh Ministers are entitled to recover their costs under or by virtue of section 250(4) of the Local Government Act 1972 (general provision as to costs of inquiries)[^f00007] or section 69(5) of the Land Drainage Act 1991 (costs of an inquiry under that Act) or paragraph 3 of Schedule 6 to the Historic Environment (Wales) Act 2023[^key-99ba214a8c7ec1a0f7c68f5273dfd80e]; and
+- “qualifying procedure” (“*gweithdrefn gymwys*”) means a qualifying procedure within the meaning of that term in section 303A(1A) of the Town and Country Planning Act 1990[^f00008].
+
+## 2. Standard daily amount for local inquiries and qualifying procedures[^key-42b46fcd42ed1ca3dd42a767be14883e]
+
+The standard daily amount prescribed pursuant to section 42(4) of the Housing and Planning Act 1986 for a local inquiry and section 303A(5) of the Town and Country Planning Act 1990 for a qualifying procedure—
+
+- (a) opening on or after the date on which these Regulations come into force and before 1 April 2018 is £508;
+- (b) opening on or after 1 April 2018 and before 1 April 2019 is £513; and
+- (c) opening on or after 1 April 2019 is £518.
+
+## 3. Revocation and saving provisions[^key-60b68886f0dd6a04d14cfe70b41275a9]
+
+(1) Subject to paragraph (2), the Regulations specified in the table in the Schedule are revoked in so far as they apply in relation to Wales.
+
+(2) The Local Inquiries, Qualifying Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2011[^f00009] continue to have effect in relation to a local inquiry or qualifying procedure to which those Regulations applied and which opened before, and remains ongoing after the date on which these Regulations come into force.
+
+Lesley Griffiths
+
+Cabinet Secretary for Environment and Rural Affairs, one of the Welsh Ministers
+
+24 March 2017
+
+## SCHEDULE — Statutory Instruments revoked so far as they apply in relation to Wales[^key-05198563d99c5023aaebbdbfc72095f2]
+
+Regulation 3
+
+| Regulations revoked | Reference |
+| --- | --- |
+| The Fees for Inquiries (Standard Daily Amount) Regulations 1994 | [1994/642](https://www.legislation.gov.uk/uksi/1994/642) |
+| The Town and Country Planning (Costs of Inquiries etc.) (Standard Daily Amount) Regulations 1996 | [1996/24](https://www.legislation.gov.uk/uksi/1996/24) |
+| The Fees for Inquiries (Standard Daily Amount) Regulations 1998 | [S.I. 1998/2864](https://www.legislation.gov.uk/uksi/1998/2864) |
+| The Town and Country Planning (Costs of Inquiries etc.) (Standard Daily Amount) Regulations 1999 | [1999/327](https://www.legislation.gov.uk/uksi/1999/327) |
+| The Local Inquiries, Qualifying Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2011 | [2011/2415 (W. 261)](https://www.legislation.gov.uk/wsi/2011/2415) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations apply where the Welsh Ministers are authorised to recover costs borne by them in connection with—
+
+- (a) inquiries in relation to which the Welsh Ministers are entitled to recover their costs under or by virtue of section 250(4) of the Local Government Act 1972 (including compulsory purchase order inquiries to which that section is applied by section 5 of the Acquisition of Land Act 1981) or section 69(5) of the Land Drainage Act 1991 (“local inquiries”); and
+- (b) qualifying procedures as defined by section 303A(1A) of the Town and Country Planning Act 1990 (independent examinations held in relation to local development plans and inquiries in relation to consideration of objections to simplified planning zone schemes) (“qualifying procedures”).
+
+These Regulations prescribe the standard daily amount which may be recovered by the Welsh Ministers for each day, or part of a day, on which—
+
+- (a) a local inquiry sits or the person appointed to hold the local inquiry is otherwise engaged in work connected with it; or
+- (b) the person appointed to hold a qualifying procedure is engaged in the holding of, or otherwise engaged on work connected with, the qualifying procedure.
+
+The standard daily amount is £508 for local inquiries and qualifying procedures opening on or after the date on which these Regulations come into force and before 1 April 2018. The amount is £513 for local inquiries and qualifying procedures opening on or after 1 April 2018 and before 1 April 2019 and £518 for local inquiries and qualifying procedures opening on or after 1 April 2019. These replace the amounts of £742 in relation local inquiries and of £679 in relation to qualifying procedures which were prescribed in the Local Inquiries, Qualifying Inquiries and Qualifying Proceedings (Standard Daily Amount) (Wales) Regulations 2011 (“the 2011 Regulations”). Further details regarding how these standard daily amounts have been calculated and how costs are to be recovered by the Welsh Ministers are provided in the Explanatory Memorandum.
+
+These Regulations revoke the instruments set out in the Schedule including the 2011 Regulations.
+
+There are transitional and saving provisions.
+
+The Explanatory Memorandum and Regulatory Impact Assessment applicable to these Regulations are obtainable from the Welsh Government at: Cathays Park, Cardiff, CF10 3NQ and on the Welsh Government website at www.gov.wales.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 63](https://www.legislation.gov.uk/ukpga/1986/63).
+
+[^f00002]: Footnote: Section 42(1)(b) was repealed by section 3(1) of, and Part 1 of Schedule 3 to, the Water Consolidation (Consequential Provisions) Act [1991 (c. 60)](https://www.legislation.gov.uk/ukpga/1991/60). Section 42(1)(d) was repealed by section 194(4) of, and Part 2 of Schedule 12 to, the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42). Section 129(1)(d) of the Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27) referred to in section 42(1)(c) was repealed by section 49(2) of, and Schedule 3 to, the Inquiries Act [2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12).
+
+[^f00003]: Footnote: Section 69(7) of the Land Drainage Act [1991 (c. 59)](https://www.legislation.gov.uk/ukpga/1991/59) (“the 1991 Act”) provides that section 42 of the Housing and Planning Act 1986 (“the 1986 Act”) applies where either of “the Ministers” is authorised by section 69(5) of the 1991 Act to recover costs incurred by that Minister in relation to an inquiry as it applies where a Minister is authorised by virtue of any enactment specified in section 42(1) of the 1986 Act. *See* section 72(1) of the 1991 Act and the Ministry of Agriculture, Fisheries and Food (Dissolution) Order ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)) for the definition of “the Ministers” i.e. the Secretary of State or the Minister of Agriculture, Fisheries and Food. The functions of the Secretary of State were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) (“the 1999 TFO”). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by section 162 of, and paragraphs 30 and 32 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) (“GOWA”).
+
+[^f00004]: Footnote: Article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 2000 ([S.I. 2000/253) (W. 5)](https://www.legislation.gov.uk/wsi/2000/253) provides for the functions under section 42 of the 1986 Act to be exercisable by the National Assembly for Wales concurrently with any Minister of the Crown by whom they are exercisable. The functions of the National Assembly for Wales were transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, GOWA.
+
+[^f00005]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 303A was inserted into the Town and Country Planning Act 1990 (“the 1990 Act”) by section 1(1) of the Town and Country Planning (Costs of Inquiries etc.) Act [1995 (c. 49)](https://www.legislation.gov.uk/ukpga/1995/49) which was itself repealed by the Statute Law (Repeals) Act [2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12). Section 303A(5) was amended by section 118(1) of, and paragraph 11 of Schedule 6 to, the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) (“the 2004 Act”). *See* section 336 of the 1990 Act for the meaning of “prescribed”.
+
+[^f00006]: Footnote: The functions under section 303A(5) of the 1990 Act were transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, GOWA.
+
+[^key-b4c2fec37c7d0ebbf32472201afd0225]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/476/regulation/1) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)
+
+[^f00007]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). The functions under section 250(4) of the Local Government Act 1972 were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 TFO. The functions of the National Assembly for Wales were transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, GOWA.
+
+[^key-99ba214a8c7ec1a0f7c68f5273dfd80e]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/4) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [85](https://www.legislation.gov.uk/wsi/2024/924/regulation/85)
+
+[^f00008]: Footnote: Section 303(1A) was inserted into the 1990 Act by section 118 of, and paragraph 11 of Schedule 6 to, the 2004 Act.
+
+[^key-42b46fcd42ed1ca3dd42a767be14883e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/476/regulation/2) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)
+
+[^key-60b68886f0dd6a04d14cfe70b41275a9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/476/regulation/3) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 2011/2415 (W. 261)](https://www.legislation.gov.uk/wsi/2011/2415).
+
+[^key-05198563d99c5023aaebbdbfc72095f2]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2017/476/schedule) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)

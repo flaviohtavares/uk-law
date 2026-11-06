@@ -1,0 +1,105 @@
+---
+title: The Payments to Farmers (Controls and Checks) (Wales) (Coronavirus) Regulations 2020
+id: wsi/2020/531
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-05-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2020/531
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2020/531/pdfs/wsi_20200531_mi.pdf
+- http://www.legislation.gov.uk/wsi/2020/531/pdfs/wsi_20200531_we.pdf
+- http://www.legislation.gov.uk/wsi/2020/531/pdfs/wsi_20200531_en.pdf
+- http://www.legislation.gov.uk/wsi/2020/531/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Payments to Farmers (Controls and Checks) (Wales) (Coronavirus) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 531 (W. 125)
+
+Agriculture, Wales
+
+The Payments to Farmers (Controls and Checks) (Wales) (Coronavirus) Regulations 2020
+
+Made
+
+21 May 2020
+
+Laid before Senedd Cymru
+
+22 May 2020
+
+Coming into force
+
+14 June 2020
+
+The Welsh Ministers, in exercise of the powers conferred on them by Article 62(2)(a) and (b) of Regulation (EU) No. 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy[^f00001], make the following Regulations:
+
+## 1. Title, commencement, application and interpretation
+
+(1) he title of these Regulations is the Payments to Farmers (Controls and Checks) (Wales) (Coronavirus) Regulations 2020.
+
+(2) These Regulations come into force on 14 June 2020.
+
+(3) These Regulations apply in relation to Wales.
+
+(4) In these Regulations—
+
+- “claim year 2020” (“*blwyddyn hawlio 2020*”) is to be interpreted in accordance with section 1(7) of the Direct Payments to Farmers (Legislative Continuity) Act 2020[^f00002];
+- “Commission Implementing Regulation (EU) No. 809/2014” (“*Rheoliad Gweithredu’r Comisiwn (EU) Rhif 809/2014*”) means the Commission Implementing Regulation (EU) No. 809/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance[^f00003], as it forms part of domestic law by virtue of section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020.
+
+## 2. Modification of Commission Implementing Regulation (EU) No. 809/2014
+
+For the purposes of claim year 2020, Commission Implementing Regulation (EU) No. 809/2014 has effect as if—
+
+- (a) after the first subparagraph of Article 24(4), there were inserted—
+
+  > By way of derogation from the first subparagraph of this paragraph, the competent authority may, in relation to the checks to be carried out in relation to area-related aid schemes, use photo-interpretation of satellite or aerial ortho-images or other relevant evidence including evidence provided by the beneficiary at the request of the competent authority, including geotagged photos, which could permit definitive conclusions to be drawn to the satisfaction of the competent authority.
+
+  ;
+- (b) after the third subparagraph of Article 26(4), there were inserted—
+
+  > By way of derogation from the first three subparagraphs of this paragraph, the relevant authority may carry out the checks by the use of new technologies, or other relevant evidence, including geotagged photos, in addition to the possibility to use remote sensing in accordance with Article 40.
+
+  ;
+- (c) in Article 30(d), for “5%”, there were substituted “3%”;
+- (d) in Article 31(1)(a), for “5%” in both places it occurs, there were substituted “3%”;
+- (e) Article 33a has been omitted;
+- (f) in Article 36(2), for “3%” there were substituted “1%”;
+- (g) in Article 68(1), for “1%” there were substituted “0.5%”.
+
+Lesley Griffiths
+
+Minister for Environment, Energy and Rural Affairs, one of the Welsh Ministers
+
+21 May 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Regulation 2 modifies Commission Implementing Regulation (EU) No. 809/2014 (“Regulation 809/2014”) laying down rules for the application of Regulation (EU) No. 1306/2013 with regard to the integrated administration and control system, rural development measures and cross compliance for claim year 2020.
+
+Regulation 809/2014 lays down rules on the timing of on-the-spot checks, the control rates of certain on-the-spot checks within the integrated system including for area-related aid schemes, and the increase or reduction of the control rates. In addition, Regulation 809/2014 contains rules on on-the-spot checks relating to eligibility criteria, and commitments.
+
+Several obligations pursuant to Regulation (EU) No. 1306/2013 and Regulation (EU) No. 1307/2013 rely on specific and different time frames for their fulfilment, and consequently require the on-the-spot checks to be carried out within those time frames. The measures in place to address the COVID-19 pandemic affects the feasibility of performing the required on-the-spot checks accurately and within the corresponding time limits.
+
+Regulation 2 provides for derogations from those requirements and reduces the minimum rate of the on-the-spot checks compared to the normal control rates for Greening, cross-compliance, Basic Payment Scheme, redistributive and young farmer obligations.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: Regulation (EU) No. 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations [(EEC) No. 352/78](https://www.legislation.gov.uk/european/regulation/1978/0352), [(EC) No. 165/94](https://www.legislation.gov.uk/european/regulation/1994/0165), [(EC) No. 2799/98](https://www.legislation.gov.uk/european/regulation/1998/2799), [(EC) No. 814/2000](https://www.legislation.gov.uk/european/regulation/2000/0814), [(EC) No. 1290/2005](https://www.legislation.gov.uk/european/regulation/2005/1290) and [(EC) No. 485/2008](https://www.legislation.gov.uk/european/regulation/2008/0485) (OJ No L 347, 20.12.2013, p. 549). The Direct Payment to Farmers (Legislative Continuity) Act [2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2) provides the legal basis to continue paying direct payments to farmers for claim year 2020 (Article 137 of the Agreement on the Withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union (19 October 2019) provided that Regulation (EU) No. 1307/2013 does not apply to the UK for claim year 2020). Regulation (EU) No. 1307/2013 established the rules for direct payments to farmers. In so far as relating to the CAP direct payment schemes for claim year 2020, Regulation (EU) No. 1306/2013, has been incorporated into domestic law by virtue of section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020. Article 62(2) of Regulation (EU) No. 1306/2013 has been amended by regulation 7(4) of the Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 ([S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90)). In particular, the function in Article 62(2) has been amended so that it is exercisable by the Welsh Ministers (see Article 2(1)(k) and (m) of Regulation (EU) No. 1306/2013 for the definitions of “relevant authority” and “appropriate authority”). There are other amendments to Regulation (EU) No. 1306/2013 but they are not relevant to these Regulations.
+
+[^f00002]: Footnote: [2020 c. 2](https://www.legislation.gov.uk/ukpga/2020/2).
+
+[^f00003]: Footnote: Commission Implementing Regulation (EU) No. 809/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance (OJ No L 227, 31.7.2014, p. 69). In so far as relating to the direct payment schemes for claim year 2020, Commission Implementing Regulation (EU) No. 809/2014 has been incorporated into domestic law by virtue of section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020. Commission Implementing Regulation (EU) No. 809/2014 has been amended by regulation 14 of the Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 ([S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90)). There are other amending instruments but none are relevant.

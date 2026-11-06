@@ -1,0 +1,691 @@
+---
+title: The Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009
+id: wsi/2009/779
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-03-24'
+text_date: '2025-01-20'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2009/779
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2009/779/pdfs/wsi_20090779_mi.pdf
+- http://www.legislation.gov.uk/wsi/2009/779/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009
+
+> Text as at 2025-01-20.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 779 (W.67)
+
+NATIONAL HEALTH SERVICE, WALES
+
+The Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009
+
+Made
+
+24 March 2009
+
+Laid before the National Assembly for Wales
+
+25 March 2009
+
+Coming into force
+
+1 June 2009
+
+The Welsh Ministers in exercise of the powers conferred on them by sections 12(3) and 13(2) and (4) of and paragraphs 4(1), (2) and 7(3) of Schedule 2 to the National Health Service (Wales) Act 2006 [^c19715281] and after consultation in accordance with paragraph 7(4) of Schedule 2 to that Act make the following Regulations.
+
+## PART 1 — Introduction
+
+### 1. Title, commencement and application
+
+The title of these Regulations is the Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009 and they come into force on 1 June 2009.
+
+### 2. Interpretation
+
+The following words and phrases have the following meanings —
+
+- “**the Act**” (“***y Ddeddf***”) means the National Health Service (Wales) Act 2006;
+- “**associate member**” (“***aelod cyswllt***”) means a person who is appointed in accordance with regulation 4(3) or 4(4).
+- “**Board**” (“***Bwrdd***”) means a Local Health Board;
+- “**Board's area**” (“***ardal y Bwrdd***”) means the area for which a Board is established as set out—
+  - (a) in the Local Health Boards (Establishment and Dissolution) (Wales) Order 2009 [^c19715291];
+  - (b) in relation to Powys Local Health Board, in the Local Health Boards (Establishment) (Wales) Order 2003 [^c19715301],
+
+  as such area may be varied from time to time;
+- “[^key-daae51a5ee7ebf4142d537311d868a2b]**former health service body**” (“***cyn gorff gwasanaeth iechyd***”) means a clinical commissioning group,[^key-be53cdaf50a943fb73eb338d27208959] Strategic Health Authority , Primary Care Trust[^key-b1419c8c679340647eccfef7d2af5514] , the Health and Social Care Information Centre or Health Education England[^key-8032ca1df8230c2e2d3da63fe3fe8623];
+- “**health service body**” (“***corff gwasanaeth iechyd***”) means[^key-cd77854016590633713829c27f86acf8] an integrated care board,[^key-a84f605c1e0d406a6946b704e207c457] NHS England[^key-55a17320ac3d89fcd4c4a185665b19ed], the National Institute for Health and Care Excellence,[^key-6db9f66e5c0a7e7166f551afff298291] [^key-6d02811e6c967640b1b5b02103b9d8b0]... the Health Research Authority,[^key-c95bced7de3cf88568f342c327b7c08b] [^key-2d53b37f172b57fb9f70dad043c7a803]... [^key-c08e98538b2c2d62b107edd47a180e7a]... [^key-18d2afcd07e347975b49071b525ae165]..., Strategic Health Authority, Local Health Board, NHS Trust, NHS[^key-8259ff5a3e3050d118ce0f3091a32ef0] Foundation Trust;
+- “**local authority**” (“***awdurdod lleol***”) means a county or county borough council in Wales;
+- “**member**” (“***aelod***”) means a chair, vice-chair, officer or non-officer member of a Board;
+- “**non-officer member**” (“***aelod nad yw'n swyddog***”) means a member of a Board who holds any office set out in regulation 3(4);
+- “**officer member**” (“***swyddog-aelod***”) means a member of a Board who holds any office set out in regulation 3(2);
+- “**shadow period**” (“***cyfnod cysgodol***”) means the period between the date of the coming into force of these Regulations and 1 October 2009;
+- “**trade union**” (“***undeb llafur***”) has the meaning assigned to it in section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c19715311] and which is registered on the list of trade unions held by the Certification Officer in accordance with section 2 of that Act;
+- “**voluntary organisations**” (“***sefydliadau gwirfoddol***”) has the meaning assigned to it in section 206(1) of the Act.
+
+## PART 2 — Membership
+
+### 3. Membership of Local Health Boards
+
+(1) The members of the Board consist of—
+
+- (a) a chair;
+- (b) a vice-chair;
+- (c) officer members; and
+- (d) non-officer members.
+
+(2) The officer members consist of—
+
+- (a) a chief officer;
+- (b) a medical officer;
+- (c) a finance officer;
+- (d) a nurse officer;
+- (e) an officer who has responsibility for provision of the following—
+  - (i) primary care services;
+  - (ii) community health services; and
+  - (iii) mental health services.
+- (f) an officer who has responsibility for workforce and organisational development;
+- (g) an officer who has responsibility for public health;
+- (h) an officer who has responsibility for the strategic and operational planning of the provision of health services;
+- (i) an officer who has responsibility for therapies and health science.
+
+(3) Officer members in paragraph (2) will have such other responsibilities as may be prescribed by the Board.
+
+(4) There are nine non-officer members which must include—
+
+- (a) a local authority member;
+- (b) a voluntary organisation member;
+- (c) a trade union member;
+- (d) a person who holds a post in a university that is related to health.
+
+(5) In addition there may be associate members appointed in accordance with regulation 4(3) and (4).
+
+### 4. Appointment of Local Health Board members
+
+(1) The chair, vice-chair and non-officer members are appointed by the Welsh Ministers.
+
+(2)[^key-9ef5ad853aac5d6b68d805a00c729f22] The officer members are appointed as follows—
+
+- (a) the chief officer is appointed by the chair, vice-chair and non-officer members;
+- (b) the remaining officer members are appointed by the chair, vice-chair, non-officer members and the chief officer.
+
+(3) The Welsh Ministers may appoint no more than three associate members.
+
+(4) If it considers it necessary or expedient for the performance by the Board of any of its functions, the Board may appoint one associate member.
+
+(5) Before making an appointment in accordance with paragraph (4) the Board must have written consent from the Welsh Ministers.
+
+(6) Where the Board makes an appointment in accordance with paragraphs (2) or (4) it must have regard to any guidance issued by the Welsh Ministers from time to time concerning appointments.
+
+(7) Appointments made in accordance with paragraphs (1) will be in accordance with the provisions in Schedule 1 (where they apply).
+
+(8) Where a person is appointed in accordance with paragraphs (1), (3) and (4) regard must be had to the need to encourage diversity in the range of persons who may be appointed and to ensure that they are representative of the interests of the community within the Board's area.
+
+(9) Each local authority within the Board's area may nominate two persons and the Welsh Ministers may choose a person from those persons nominated to be the local authority member under regulation 3(4)(a).
+
+(9A)[^key-b79134202a9c0dbb71b84be769468ddd] Each trade union recognised by the Board in relation to employment matters may nominate two persons and the Welsh Ministers may choose a person from those persons nominated to be the trade union member under regulation 3(4)(c).
+
+(10) The university in column 1 of Schedule 4 may nominate two persons and the Welsh Ministers may choose a person from those persons nominated to be the university member under regulation 3(4)(d) for the Local Health Board assigned to it in column 2 of Schedule 4.
+
+(11)[^key-d07a35fb380ae554b6230e6fbefc1ce5] The validity of appointments made under paragraph 2 is not affected by any vacancy among those members making the appointment.
+
+### 5. Eligibility requirements for membership of a Local Health Board
+
+Any person must fulfil the relevant requirements for eligibility in Schedule 2 before that person may be appointed as a member or associate member and must continue to fulfil the relevant requirements while that person holds office.
+
+### 6. Tenure of office of chair, vice-chair, non-officer members and associate members
+
+(1) This regulation applies to any person who is appointed as—
+
+- (a) a chair, vice-chair or non-officer member; or
+- (b) an associate member appointed by Welsh Ministers in accordance with regulation 4(3).
+
+(2) Subject to these Regulations, a member or associate member holds and vacates office in accordance with the terms of that person's appointment.
+
+(3) A member or associate member may be appointed for a period of no longer than four years.
+
+(4) Subject to paragraph (5) a member or associate member may on the expiration of his or her term of office be re-appointed in accordance with regulations 4(1) or 4(3).
+
+(5)[^key-6e093efc0757a81f5a7204361c346d5b] A person may not hold office as a member or an associate member for the same Board for a total period of more than eight years.
+
+### 7. Tenure of office of associate members appointed by the Board
+
+(1) This regulation applies to any person who is appointed by the Board as an associate member in accordance with regulation 4(4).
+
+(2) Subject to these Regulations, an associate member holds and vacates office in accordance with the terms of that person's appointment.
+
+(3) An associate member may be appointed for a period of no longer than one year.
+
+(4) Subject to paragraph (5), an associate member may on the expiration of his or her term of office be re-appointed in accordance with regulation 4(4).
+
+(5)[^key-fd18f88e4a819b7911fe80daeb45884c] A person may not hold office as an associate member for the same Board for a total period of more than four years.
+
+### 8. Termination of appointment of officer members
+
+(1) The chair, vice-chair and non-officer members may immediately remove an officer member from office —
+
+- (a) if they are of the opinion that it is not in the interests of the Board that a person who is an officer member should continue to hold office as a member; or
+- (b) having been notified by officer members in accordance with paragraph (2), they are of the opinion that it is not in the interests of the Board that a person who is an officer member should continue to hold office as a member.
+
+(2) If all of the officer members (other than an officer member who is the subject of a notification to the chair under this paragraph) are of the opinion that a person who is an officer member should not continue to hold office as a member, they may notify the Board.
+
+(3) Where the chair, the vice-chair and non-officer members remove a person from office in accordance with paragraph (1) or, having been notified by the officer members in accordance with paragraph (2), determine that a person should continue to hold office, they must immediately notify the Welsh Ministers in writing, stating the reasons for their decision.
+
+(4) Where a person has been appointed to be an officer member, if it comes to the notice of the chair, the vice-chair or any of the non-officer members that the person—
+
+- (a) has become ineligible for appointment under Schedule 2, or
+- (b) was at the time of their appointment ineligible for appointment under Schedule 2,
+
+they must immediately notify the Board and the chair must immediately notify that officer member and the Welsh Ministers in writing of such ineligibility.
+
+(5) An officer member must immediately notify the Board if that member becomes ineligible under Schedule 2.
+
+(6) Where notice has been given in accordance with paragraph (4), the chair, the vice-chair and the non-officer members must remove that person from office and that person ceases to act as an officer member.
+
+(7) If it appears to the chair, the vice-chair and the non-officer members that an officer member has failed to comply with regulation 17, they may remove that person from office and that person ceases to act as an officer member.
+
+(8) Where an officer member has been removed from office in accordance with paragraphs (6) and (7) the chair must immediately notify the Welsh Ministers.
+
+(9) If a person who is an officer member has failed to attend any meeting of the Board for a period of six months or more, the chair, the vice-chair and the non-officer members must remove that person from office unless they are satisfied that —
+
+- (a) the absence was due to a reasonable cause; and
+- (b) the person will be able to attend such meetings within such period as the chair, the vice-chair and the non-officer members consider reasonable.
+
+### 9. Suspension of officer members
+
+(1) Before deciding whether to remove a person from office in accordance with regulation 8, the chair, the vice-chair and the non-officer members may, if they consider it appropriate to do so, suspend the tenure of office of an officer member for such period as they consider reasonable.
+
+(2) Where an officer member is suspended in accordance with paragraph (1), the chair, the vice-chair and the non-officer members must immediately notify that member and the Welsh Ministers in writing, stating the reasons for his or her suspension.
+
+(3) An officer member whose tenure of office is suspended may not perform the functions of any member of the Board.
+
+### 10. Termination of appointment of members and associate members appointed by Welsh Ministers
+
+(1) This regulation applies to any person who is appointed as—
+
+- (a) a chair;
+- (b) a vice-chair;
+- (c) a non-officer member;
+- (d) an associate member appointed by the Welsh Ministers in accordance with regulation 4(3).
+
+(2) The Welsh Ministers may immediately remove a person from office if they determine that —
+
+- (a) it is not in the interests of the health service in the area for which the Board acts; or
+- (b) it is not conducive to the good management of a Board,
+
+for that person to continue to hold office.
+
+(3) If it comes to the notice of the Welsh Ministers that a person appointed has become ineligible under Schedule 2 or has failed to comply with regulation 17, the Welsh Ministers may remove that person from that office.
+
+(4) A person appointed must immediately notify the Board if that person becomes ineligible under Schedule 2.
+
+(5) If a person appointed has failed to attend any meeting of the Board for a period of six months or more, the Welsh Ministers may remove that person from that office unless they are satisfied that —
+
+- (a) the absence was due to a reasonable cause; and
+- (b) the person will be able to attend such meetings within such period as the Welsh Ministers consider reasonable.
+
+(6) A person may at any time resign his or her office as member or associate member by notice in writing to the Welsh Ministers and to the Board but subject to the terms of that person's appointment.
+
+### 11. Suspension of members and associate members appointed by Welsh Ministers
+
+(1) Before making a decision to remove a person from office under regulation 10, the Welsh Ministers may suspend the tenure of office of that person for such period as they consider reasonable.
+
+(2) Where a member is suspended in accordance with paragraph (1), the Welsh Ministers will immediately notify that member in writing, stating the reasons for his or her suspension.
+
+(3) A person whose appointment is suspended under paragraph (1) may not perform the functions of any member.
+
+### 12. Termination of appointment of associate members appointed by the Board
+
+(1) This regulation applies to associate members appointed in accordance with regulation 4(4).
+
+(2) The Board may immediately remove a person from office if it determines that —
+
+- (a) it is not in the interests of the health service in the area for which the Board acts; or
+- (b) it is not conducive to the good management of a Board,
+
+for a person to continue to hold office .
+
+(3) If it comes to the notice of the Board that a person appointed has become ineligible for appointment under Schedule 2 or has failed to comply with regulation 17, the Board may remove that person from that office.
+
+(4) A person appointed must immediately notify the Board if that person becomes ineligible under Schedule 2.
+
+(5) If a person appointed as an associate member is required to attend a meeting of the Board but has failed to do so for a period of six months or more, the Board may remove that person from that office unless satisfied that —
+
+- (a) the absence was due to a reasonable cause; and
+- (b) the person will be able to attend such meetings within such period as the Board considers reasonable.
+
+(6) Any member may at any time resign his or her office as associate member by notice in writing to the Welsh Ministers and to the Board but subject to the terms of that person's appointment.
+
+## PART 3 — Proceedings and Administrative Arrangements of Boards
+
+### 13. Powers of vice-chair
+
+Where the chair of the Board—
+
+- (a) has died;
+- (b) has ceased to hold office; or
+- (c) is unable to perform the duties of chair owing to illness, absence or any other cause,
+
+the vice-chair will act as chair until a new chair is appointed or the existing chair resumes the duties of chair, as the case may be; and references to the chair in Schedule 3 will, so long as there is no chair able to perform the duties of chair, be taken to include references to the vice-chair.
+
+### 14. Appointment of committees and sub-committees
+
+Subject to such directions as may be given by the Welsh Ministers, the Board may and, if directed by the Welsh Ministers, must —
+
+- (a) appoint committees or sub-committees of the Board, or
+- (b) together with one or more Boards or NHS Trusts or a local authority in the Board's area, appoint joint committees or joint sub-committees,
+
+consisting wholly or partly of the members of the Board or other health service bodies or of persons who are not members of the Board or other health service bodies.
+
+### 15. Meetings and proceedings
+
+(1) The meetings and proceedings of the Board must be conducted in accordance with Schedule 3 and with Standing Orders made under paragraph (2).
+
+(2) The Board must make Standing Orders for the regulation of its proceedings and business including provisions for the Board's suspension.
+
+(3) The Board may—
+
+- (a) vary; or
+- (b) revoke and remake,
+
+its Standing Orders.
+
+(4) The Board may, in the case of a committee or sub-committee established in accordance with regulation 14(a), make, vary and revoke Standing Orders relating to that committee or sub-committee.
+
+(5) Where a joint committee or joint sub-committee has been established in accordance with regulation 14(b), the Board must approve any Standing Orders that may be made by that committee or sub-committee.
+
+(6) Standing Orders made under this regulation will be subject to, and must be made in accordance with, such directions as may be issued by Welsh Ministers.
+
+### 16. Associate members
+
+Associate members may not vote in any meetings or proceedings of a Board.
+
+### 17. Disability of members on account of pecuniary interest
+
+(1) Subject to this regulation, if a member or an associate member—
+
+- (a) has any pecuniary interest, direct or indirect, in any contract, proposed contract or other matter; and
+- (b) is present at a meeting of the Board at which the contract, proposed contract or other matter is the subject of consideration,
+
+that member must at the meeting and as soon as practicable after its commencement disclose the fact and must not take part in the consideration or discussion of the contract, proposed contract or other matter or, if that member has the right to vote, must not vote on any question with respect to it.
+
+(2) The Welsh Ministers may, subject to such conditions as they may consider fit, impose or remove any disability imposed by this regulation in any case in which it appears to the Welsh Ministers to be in the interests of the health service to do so.
+
+(3) A Board may, by Standing Orders made under regulation 15, provide for the exclusion of any member or associate member from a meeting of the Board while any contract, proposed contract or other matter in which that member has a pecuniary interest, direct or indirect, is under consideration.
+
+(4) Any remuneration, compensation or allowances payable to a member or associate member by virtue of paragraph 10 of Schedule 2 to the Act is not to be treated as a pecuniary interest for the purpose of this regulation.
+
+(5) Subject to paragraphs (2) and (6), a member or associate member is to be treated for the purposes of this regulation as having an indirect pecuniary interest in a contract, proposed contract or other matter if such member, or any nominee of such member —
+
+- (a) is a director or other officer of a company or other body, not being a public body, with which the contract was made or is proposed to be made or which has a direct pecuniary interest in the matter under consideration; or
+- (b) is a person with whom the contract was made or is proposed to be made, or who has a direct pecuniary interest in the matter under consideration, or is a partner of, or is in the employment of, such a person;
+
+and in the case of persons who are married to each other or in a civil partnership with each other or who are living together as spouses or civil partners, the interest of one such person will, if known to the other, be deemed for the purpose of this regulation to be also an interest of the other.
+
+(6) A member or an associate member is not to be treated as having a pecuniary interest in any contract, proposed contract or other matter by reason only —
+
+- (a) of such member's membership of a company or other body if such member has no beneficial interest in any securities of that company or body; or
+- (b) of an interest in any company, body or person with which such member is connected as mentioned in paragraph (5) which is so remote or insignificant that it cannot reasonably be regarded as likely to influence a member in the consideration or discussion of or in voting on, any question with respect to that contract, proposed contract or matter.
+
+(7) Where a member or an associate member has an indirect pecuniary interest in a contract, proposed contract or other matter by reason only of a beneficial interest in securities of a company or other body, and—
+
+- (a) the total nominal value of those securities does not exceed £5,000 or one hundredth of the total nominal value of the issued share capital of the company or body, whichever is the less, and
+- (b) if the share capital is of more than one class, the total nominal value of shares of any one class in which that member has a beneficial interest does not exceed one hundredth of the total issued share capital of that class,
+
+this regulation does not prohibit that member from taking part in the consideration or discussion of the contract, proposed contract or other matter or, where that member has the right to vote, from voting on any question with respect to it.
+
+(8) Paragraph (7) does not affect a member's or associate member's duty to disclose an interest under paragraph (1).
+
+(9) This regulation applies in relation to a committee or sub-committee and to a joint committee or joint sub-committee as it applies in relation to a Board, and applies to a member of any such committee, sub-committee or joint committee or sub-committee (whether or not such person is also a member of a Board or an associate member) as it applies to a member of a Board or associate member.
+
+(10) In this regulation —
+
+- “**public body**” (“***corff cyhoeddus***”) includes any body established for the purpose of carrying on, under national ownership, any industry or part of any industry or undertaking, the governing body of any university, university college or college, school or hall of a university and the National Trust for Places of Historic Interest or Natural Beauty incorporated by the National Trust Act 1907 [^c19715341];
+- “**securities**” (“***gwarannau***”) means —
+  - (a) shares or debentures, whether or not constituting a charge on the assets of a company or other body, or rights or interests in any share or debentures; or
+  - (b) rights (whether actual or contingent) in respect of money lent to, or deposited with, any building society or society, other than a society registered as a credit union, which is—[^key-c9149b8ee5aa2619d3668c5a0bf87a1e]
+    - ((i)) a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014; or
+    - ((ii)) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969;
+- “**shares**” (“***cyfranddaliadau***”) means shares in the share capital of a company or other body or the stock of a company or other body.
+
+## PART 4 — Transitional Arrangements for Powys Teaching Local Health Board
+
+### 18.
+
+This Part applies in relation to the Powys Teaching Local Health Board only.
+
+### 19. Arrangements for existing members of Powys Teaching Local Health Board
+
+Any person who is, or has been, appointed to be a member or co-opted member in accordance with the Local Health Board (Constitution, Membership and Procedures) (Wales) Regulations 2003 [^c19715351] will cease to be a member or co-opted member at the end of the shadow period.
+
+### 20. Arrangements for the shadow board
+
+(1) Persons appointed in accordance with paragraphs (2) and (3) will comprise the shadow Board until the end of the shadow period.
+
+(2) The Welsh Ministers will appoint persons who will become the chair, vice-chair and non-officer members at the end of the shadow period.
+
+(3) The shadow Board will appoint persons who will become officer members at the end of the shadow period.
+
+(4) The Board will co-operate with the shadow Board to enable the shadow Board to operate as the Board from the end of the shadow period.
+
+(5) Persons appointed in accordance with paragraphs (2) and (3) must comply with the eligibility requirements in Schedule 2 and will be treated as if they were members appointed in accordance with regulation 4.
+
+## PART 5 — Miscellaneous
+
+### 21. Transitional arrangements during the shadow period
+
+During the shadow period paragraph 6 of Schedule 3 applies as if it read— “ No business may be transacted at a meeting unless the number of members present is not less than two. ”.
+
+### 22. Revocation
+
+(1) Subject to paragraphs (2) and (3), the following Regulations are revoked—
+
+- (a) the Local Health Board (Constitution, Membership and Procedure) (Wales) Regulations 2003 [^c19715361];
+- (b) the Local Health Board (Constitution, Membership and Procedure) (Wales) (Amendment) Regulations 2007 [^c19715371].
+
+(2) In relation to the Boards listed in Schedule 2 to the Local Health Boards (Establishment and Dissolution) (Wales) Order 2009 [^c19715381]—
+
+- (a) the Regulations in paragraph (1) are revoked at the end of the shadow period;
+- (b) except for this regulation, these Regulations do not apply.
+
+(3) In relation to Powys Teaching Local Health Board—
+
+- (a) subject to sub-paragraph (b), the Regulations in paragraph (1) are revoked at the end of the shadow period;
+- (b) these Regulations will apply at the end of the shadow period except that for the purposes of appointments under regulation 20 and for this regulation they apply from the beginning of the shadow period.
+
+Edwina Hart
+
+Minister for Health and Social Services, one of the Welsh Ministers
+
+## SCHEDULE 1 — PROCEDURES FOR APPOINTMENT OF CHAIRS, VICE-CHAIRS AND NON-OFFICER MEMBERS
+
+Regulation 4(1)
+
+**1.** This Schedule applies to the selection and appointment of chairs, vice-chairs and non-officer members.
+
+**2.** The Welsh Ministers will ensure that appropriate arrangements are in place for the selection and appointment of persons as members and that those arrangements take into account —
+
+- (a) the principles from time to time laid down by the Commissioner for Public Appointments and in the Welsh Minister's Code of Practice for Ministerial Appointments to Public Bodies;
+- (b) the requirement that the selection and appointment be open and transparent;
+- (c) the requirement of fair and open competition in the selection and appointment; and
+- (d) the need to ensure that successful candidates meet the relevant eligibility requirements set out in Schedule 2 and that they meet the selection criteria and standards of competence applied by the Board.
+
+## SCHEDULE 2 — ELIGIBILITY REQUIREMENTS FOR MEMBERS AND ASSOCIATE MEMBERS
+
+Regulation 5
+
+### PART 1 — General requirements
+
+**1.** (1) Part 1 of this Schedule applies in relation to the eligibility for appointment of members and associate members.
+
+(2) Subject to paragraph (4), (5), (6) and (8), a person is not be eligible for appointment as a member or associate member if that person —
+
+- (a) has within the preceding five years been convicted in the United Kingdom, the Channel Islands or the Isle of Man of any offence and has received a sentence of imprisonment (whether suspended or not) for a period of not less than three months without the option of a fine;
+- (b) is the subject of a bankruptcy restrictions order or an interim order or has made a composition or arrangement with creditors;
+- (c) has been dismissed, other than by reason of redundancy, from any paid employment with a health service body or former health service body[^key-9dbb986f8ee271002fc733280078b94c];
+- (d) has had his or her membership as chair, member or director of a health service body [^key-2503ccffcbaf863cd81ae3c75f204f0e]... or of a former health service body[^key-3ecb083eb15d9d92e20d260c4cdb00cf] other than a clinical commissioning group[^key-2312dec62b52aab81f75eade9b3bcdf6] terminated, other than by reason of redundancy, voluntary resignation, reorganisation of the body[^key-97e17ab5018064e846be6a4f39743172], or expiry of the period of office for which that person was appointed;
+- (e)[^key-a31f7feb1d9040606b5bfed8d0088f84] has been removed from office as the chair or a member of the governing body of a clinical commissioning group.
+
+(3) For the purposes of paragraph (2) (a) the date of conviction is deemed to be the date on which the ordinary period allowed for making an appeal or application with respect to the conviction expires or, if such an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its not being prosecuted.
+
+(4) For the purposes of paragraph (2) (c), a person is not be treated as having been in paid employment by reason only of having held the position of member, associate member or director of a health service body [^key-c83bfc589772b2f9d90f06f6bb882db2]...[^key-99002bf295d7254b47a73be9d18125b7] or of a former health service body[^key-b64b0b36f7048109d90e894328e42959] other than a clinical commissioning group[^key-a8012606fb184fdc5f5de4ff3bf5d379], or of having held the position of chair or member of the governing body of a clinical commissioning group.
+
+(5) Where a person is ineligible by reason of paragraph (2) (b) —
+
+- (a) if the bankruptcy is annulled on the ground that the person ought not to have been adjudged bankrupt or on the ground that the person's debts have been paid in full, that person becomes eligible for appointment as a member or associate member on the date of the annulment;
+- (b) if the person is discharged from bankruptcy, that person becomes eligible for appointment as a member or associate member on the date of the discharge;
+- (c) if, having made a composition or arrangement with creditors, the person's debts are paid in full, that person becomes eligible for appointment as a member or associate member on the date upon which such debts are paid in full; and
+- (d) if, having made a composition or arrangement with creditors, that person becomes eligible for appointment as a member or associate member on the expiry of five years from the date on which the terms of the deed of composition or arrangement were fulfilled.
+
+(6) Subject to paragraph (7), where a person is ineligible by reason of paragraph (2) (c), that person may, after the expiry of two years from the date of dismissal, apply in writing to the Welsh Ministers to remove the ineligibility, and the Welsh Ministers may direct that the ineligibility ceases.
+
+(7) Where the Welsh Ministers refuse an application to remove an ineligibility, no further application may be made by that person until the expiry of two years beginning with the date of the application and this paragraph applies to any subsequent application.
+
+(8) Where a person is ineligible by reason of paragraph (2)(d), that person becomes eligible for appointment as a member or associate member on the expiry of two years from the date of termination of membership or such longer period as may have been specified by the authority which terminated the membership, but the Welsh Ministers may, on application being made in writing to them by that person, reduce the period of ineligibility.
+
+### PART 2 — Eligibility Requirements for Chairs, Vice-chairs and Non-officer Members
+
+**2.** (1) Subject to paragraph (2) a person is ineligible to be a chair, vice-chair or non-officer member if that person is, or has been within the preceding year, in the paid employment of [^key-081f16c2847d55c69b39bd9c695c7eb5]...—
+
+- (a)[^key-8d8576d6d6136a09f1b51ea7b6a69540] a Local Health Board established under section 11 of the Act,
+- (b) an NHS Trust established under section 18 of the Act, or
+- (c) a Special Health Authority in relation to Wales established by the Welsh Ministers under section 22 of the Act.
+- (d)[^key-c2dcdb8a574e35cf5e4d2a029a47a9da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A person is not ineligible under paragraph (1) if that person is appointed as—
+
+- (a) a trade union member in accordance with regulation 3(4)(c);or
+- (b) a university member in accordance with regulation 3(4)(d).
+
+(3) For the purposes of paragraph (1), a person is not to be treated as having been in paid employment by reason only of having held the position of chair, vice-chair or non-officer member of a Local Health Board or a chair, vice-chair or non-executive director of a NHS Trust.
+
+### PART 3 — Eligibility Requirements for Specific Categories of Member
+
+#### 3. Medical officer
+
+To be eligible for appointment as the medical officer in regulation 3(2)(b) the person must be listed in the General Medical Council General Practitioner Register [^c19715421] or Specialist Register [^c19715431].
+
+#### 4. Nurse officer
+
+To be eligible for appointment as the nurse officer in regulation 3(2)(d), a person must be included on the register maintained by the Nursing and Midwifery Council [^c19715441].
+
+#### 5. Public health officer
+
+To be eligible for appointment as the officer with responsibility for public health under regulation 3(2)(g), the person must have completed higher specialist training in public health or a related discipline and be listed in the General Medical Council Specialist Register, the General Dental Council Specialist List in Dental Public Health [^c19715451] or the UK Public Health Register [^c19715461].
+
+#### 6. Therapies and health science officer
+
+To be eligible for appointment as a member appointed under regulation 3(2)(i), a person must be included on the register maintained by the Health Professions Council [^c19715471].
+
+#### 7. Local authority member
+
+To be eligible for appointment as a member appointed under regulation 3(4)(a) the person must be an elected member of a local authority whose area is within the Board's area.
+
+#### 8. Voluntary organisation member
+
+To be eligible for appointment as a member appointed under regulation 3(4)(b) the person must be an employee or a member of a voluntary organisation that operates within the Board's area.
+
+#### 9. Trade union member
+
+To be eligible for appointment as a member appointed under regulation 3(4)(c) the person must be—
+
+- (a) employed by the Board; and
+- (b) a member of a trade union recognised by the Board in relation to employment matters.
+
+## SCHEDULE 3 — RULES AS TO MEETINGS AND PROCEEDINGS OF BOARDS
+
+Regulation 15
+
+**1.** Meetings of a Board must be held on such day and at such place as may be fixed by the chair and the chair is responsible for convening the meeting.
+
+**2.** (1) The chair may call a meeting of the Board at any time.
+
+(2) If the chair refuses to call a meeting after a requisition for that purpose, signed by at least one third of the members, has been presented to him or her, or if, without so refusing, the chair does not call a meeting within seven days after such requisition has been presented to him or her, such one third or more members may call a meeting to be held immediately.
+
+(3) Before each meeting of a Board, a notice of the meeting, specifying the business proposed to be transacted at it, and signed by the chair or by an officer authorised by the chair to sign on his or her behalf must be delivered to every member and associate member, or sent by post to the usual place of residence of such member, so as to be available to such member, where reasonably practicable, at least five[^key-bb9457b6466f935bd34cf3a5497c401d] clear days before the meeting.
+
+(4) Want of service of the notice on any member does not affect the validity of a meeting.
+
+(5) In the case of a meeting called by members in default of the chair, the notice must be signed by those members and no business may be transacted at the meeting other than that specified in the notice.
+
+**3.** (1) At any meeting of the Board the chair, if present, presides.
+
+(2) If the chair is absent from the meeting, the vice-chair, if present, presides.
+
+(3) If the chair and vice-chair are absent, such non-officer member as the members present choose presides.
+
+**4.** (1) Every question at a meeting is determined by a majority of the votes of the members present and voting on the question and, in the case of any equality of votes, the person presiding has a second and casting vote.
+
+(2) In determining every question at a meeting the members must take account, where relevant, of representations made by persons who represent the interests of the community within the Board's area and health professionals.
+
+(3) In this paragraph “**health professionals**” (“***proffesiynolion iechyd***”) has the meaning assigned to it in section 69 of the Data Protection Act 1998 [^c19715481].
+
+**5.** The names of the chair, members and associate members present at the meeting must be recorded.
+
+**6.** No business may be transacted at a meeting unless —
+
+- (a) the number of members present is not less than six; and
+- (b) those present include at least three officer member and three non-officer member.
+
+**7.** The minutes of the proceedings of a meeting must be drawn up and submitted for agreement at the next meeting of the Board where, if agreed, they must be signed by the person presiding.
+
+**8.** (1) Subject to paragraph (2), any meeting of a Board must be open to the public.
+
+(2) A Board may resolve to exclude the public from a meeting in accordance with the provisions of section 1(2) and (3) of the Public Bodies (Admission to Meetings) Act 1960 [^c19715491].
+
+## SCHEDULE 4 — UNIVERSITIES WHO MAY NOMINATE A MEMBER OF A LOCAL HEALTH BOARD
+
+Regulation 4(10)
+
+<table>
+<tbody>
+<tr><th colspan="2"><em>Column 1</em></th><th><em>Column 2</em></th></tr>
+<tr><th><em>University</em></th><th></th><th><em>Local Health Board</em></th></tr>
+<tr><td>1</td><td>Cardiff University</td><td>Aneurin Bevan Local Health Board</td></tr>
+<tr><td>2</td><td>Cardiff University</td><td>Cwm Taf Morgannwg University Local Health Board</td></tr>
+<tr><td>3</td><td>Cardiff University</td><td>Cardiff and Vale University Local Health Board</td></tr>
+<tr><td>4</td><td>Swansea University</td><td>Swansea Bay University Local Health Board</td></tr>
+<tr><td>5</td><td>Swansea University</td><td>Hywel Dda Local Health Board</td></tr>
+<tr><td>6</td><td>Bangor University</td><td>Betsi Cadwaladr University Local Health Board</td></tr>
+<tr><td>7</td><td>Cardiff University</td><td>Powys Teaching Local Health Board</td></tr>
+</tbody>
+</table>
+
+[^key-e2c58bdb72e0565b4d29f67fee5a5454][^key-7c748437c98e9d474c974d04b45ae3f2]
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations, which apply in relation to Wales, revoke the Local Health Board (Constitution, Membership and Procedures) (Wales) Regulations 2003 (S.I. 2003/149 (W.19))(“**the 2003 Regulations**”) and the Local Health Boards (Constitution, Membership and Procedures) (Wales) (Amendment) Regulations 2007 (S.I. 2007/953 (W.84))(“the 2007 Regulations). They make provisions for the constitution and membership of the Local Health Boards including their procedures and administrative arrangements.
+
+**2.** Part 2 of these Regulations make provisions—
+
+- (a) for the composition and membership of the Boards (regulation 3);
+- (b) for the appointment of their members (regulation 4);
+- (c) for eligibility requirements for their members (regulation 5 and Schedule 2);
+- (d) in relation to tenure of office, termination of appointment and suspension of their members (regulations 6 to 12).
+
+**3.** Part 3 contains various provisions in relation to the proceedings of the Board including the powers of the vice-chair, procedures for meetings and provisions about when a member is prohibited from voting.
+
+**4.** Part 4 sets out transitional arrangements for Powys Teaching Local Health Board and provides for new members to be appointed and for existing members to cease to be members.
+
+**5.** Part 5 contains transitional arrangements for the new Local Health Boards to replace the existing Local Health Boards and provisions to revoke the 2003 Regulations and the 2007 Regulations.
+
+**6.** A regulatory impact assessment has been prepared in connection with these Regulations. A copy can be obtained from the Welsh Assembly Government, Cathays Park, Cardiff CF10 3NQ.
+
+## Annotations
+
+[^c19715281]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^c19715291]: Marginal citation: S.I. [2009 No. 778](https://www.legislation.gov.uk/ukcm/2009/778) (W.66).
+
+[^c19715301]: Marginal citation: S.I. [2003 No.148](https://www.legislation.gov.uk/ukcm/2003/148) (W.18) as amended by [S.I. 2009/778](https://www.legislation.gov.uk/uksi/2009/778) (W.66).
+
+[^key-daae51a5ee7ebf4142d537311d868a2b]: Textual amendment: Words in reg. 2 inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 126(2)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/126/2/a)
+
+[^key-be53cdaf50a943fb73eb338d27208959]: Textual amendment: Words in reg. 2 inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [38(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/38/2/a)
+
+[^key-b1419c8c679340647eccfef7d2af5514]: Textual amendment: Words in reg. 2 substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 37(2)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/37/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-8032ca1df8230c2e2d3da63fe3fe8623]: Textual amendment: Words in reg. 2 substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/9/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+
+[^key-cd77854016590633713829c27f86acf8]: Textual amendment: Words in reg. 2 substituted (1.10.2012) by [The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/1641)](https://www.legislation.gov.uk/uksi/2012/1641), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b), [Sch. 3 para. 14(2)](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/14/2)
+
+[^key-a84f605c1e0d406a6946b704e207c457]: Textual amendment: Words in reg. 2 inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2024/1205/regulation/12)
+
+[^key-55a17320ac3d89fcd4c4a185665b19ed]: Textual amendment: Words in reg. 2 substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [35(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/35/2)
+
+[^key-6db9f66e5c0a7e7166f551afff298291]: Textual amendment: Words in reg. 2 inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 126(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/126/2/b/i)
+
+[^key-6d02811e6c967640b1b5b02103b9d8b0]: Textual amendment: Words in reg. 2 omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/9/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+
+[^key-c95bced7de3cf88568f342c327b7c08b]: Textual amendment: Words in reg. 2 inserted (1.4.2015) by [The Care Act 2014 (Health Education England and the Health Research Authority) (Consequential Amendments and Revocations) Order 2015 (S.I. 2015/137)](https://www.legislation.gov.uk/uksi/2015/137), [art. 1](https://www.legislation.gov.uk/uksi/2015/137/article/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2015/137/schedule/2/paragraph/6/2)
+
+[^key-2d53b37f172b57fb9f70dad043c7a803]: Textual amendment: Words in reg. 2 omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 37(2)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/37/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-c08e98538b2c2d62b107edd47a180e7a]: Textual amendment: Words in reg. 2 omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [38(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/38/2/b)
+
+[^key-18d2afcd07e347975b49071b525ae165]: Textual amendment: Words in reg. 2 omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 126(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/126/2/b/ii)
+
+[^key-8259ff5a3e3050d118ce0f3091a32ef0]: Textual amendment: Words in reg. 2 substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 126(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/126/2/b/iii)
+
+[^c19715311]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^key-9ef5ad853aac5d6b68d805a00c729f22]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/wsi/2009/779/regulation/4/2) substituted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/3/a)
+
+[^key-b79134202a9c0dbb71b84be769468ddd]: Textual amendment: [Reg. 4(9A)](https://www.legislation.gov.uk/wsi/2009/779/regulation/4/9A) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/3/b)
+
+[^key-d07a35fb380ae554b6230e6fbefc1ce5]: Textual amendment: [Reg. 4(11)](https://www.legislation.gov.uk/wsi/2009/779/regulation/4/11) inserted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/3/c)
+
+[^key-6e093efc0757a81f5a7204361c346d5b]: Modification: [Reg. 6(5)](https://www.legislation.gov.uk/wsi/2009/779/regulation/6/5) excluded (temp.) (5.7.2020) by [The National Health Service (Temporary Disapplication of Tenure of Office) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/585)](https://www.legislation.gov.uk/wsi/2020/585), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/585/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2020/585/regulation/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/585/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2020/585/regulation/8))
+
+[^key-fd18f88e4a819b7911fe80daeb45884c]: Modification: [Reg. 7(5)](https://www.legislation.gov.uk/wsi/2009/779/regulation/7/5) excluded (temp.) (5.7.2020) by [The National Health Service (Temporary Disapplication of Tenure of Office) (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/585)](https://www.legislation.gov.uk/wsi/2020/585), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/585/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2020/585/regulation/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/585/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2020/585/regulation/8))
+
+[^c19715341]: Marginal citation: [1907 c. 136](https://www.legislation.gov.uk/ukpga/1907/136).
+
+[^key-c9149b8ee5aa2619d3668c5a0bf87a1e]: Textual amendment: Words in reg. 17(10) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/23)
+
+[^c19715351]: Marginal citation: [S.I. 2003/149](https://www.legislation.gov.uk/uksi/2003/149) (W.19). As amended by [S.I. 2007/953](https://www.legislation.gov.uk/uksi/2007/953) (W.84).
+
+[^c19715361]: Marginal citation: [S.I. 2003/149](https://www.legislation.gov.uk/uksi/2003/149) (W.19).
+
+[^c19715371]: Marginal citation: [S.I. 2007/953](https://www.legislation.gov.uk/uksi/2007/953) (W.84).
+
+[^c19715381]: Marginal citation: [S.I. 2009/778](https://www.legislation.gov.uk/uksi/2009/778) (W.66).
+
+[^key-9dbb986f8ee271002fc733280078b94c]: Textual amendment: Words in Sch. 2 para. 1(2)(c) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 126(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/126/3/a)
+
+[^key-2503ccffcbaf863cd81ae3c75f204f0e]: Textual amendment: Words in [Sch. 2 para. 1(2)(d)](https://www.legislation.gov.uk/wsi/2009/779/schedule/2/paragraph/1/2/d) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [38(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/38/3/a/i)
+
+[^key-3ecb083eb15d9d92e20d260c4cdb00cf]: Textual amendment: Words in Sch. 2 para. 1(2)(d) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 126(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/126/3/b/i)
+
+[^key-2312dec62b52aab81f75eade9b3bcdf6]: Textual amendment: Words in [Sch. 2 para. 1(2)(d)](https://www.legislation.gov.uk/wsi/2009/779/schedule/2/paragraph/1/2/d) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [38(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/38/3/a/ii)
+
+[^key-97e17ab5018064e846be6a4f39743172]: Textual amendment: Words in Sch. 2 para. 1(2)(d) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 126(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/126/3/b/ii)
+
+[^key-a31f7feb1d9040606b5bfed8d0088f84]: Textual amendment: Sch. 2 para. 1(2)(e) inserted (1.10.2012) by [The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/1641)](https://www.legislation.gov.uk/uksi/2012/1641), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b), [Sch. 3 para. 14(3)(b)](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/14/3/b)
+
+[^key-c83bfc589772b2f9d90f06f6bb882db2]: Textual amendment: Words in [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/wsi/2009/779/schedule/2/paragraph/1/4) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [38(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/38/3/b/i)
+
+[^key-99002bf295d7254b47a73be9d18125b7]: Textual amendment: Words in Sch. 2 para. 1(4) inserted (1.10.2012) by [The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/1641)](https://www.legislation.gov.uk/uksi/2012/1641), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b), [Sch. 3 para. 14(4)](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/14/4)
+
+[^key-b64b0b36f7048109d90e894328e42959]: Textual amendment: Words in Sch. 2 para. 1(4) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 126(3)(c)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/126/3/c)
+
+[^key-a8012606fb184fdc5f5de4ff3bf5d379]: Textual amendment: Words in [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/wsi/2009/779/schedule/2/paragraph/1/4) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [38(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/38/3/b/ii)
+
+[^key-081f16c2847d55c69b39bd9c695c7eb5]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/wsi/2009/779/schedule/2/paragraph/2/1) omitted (20.1.2025) by virtue of [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/4/a)
+
+[^key-8d8576d6d6136a09f1b51ea7b6a69540]: Textual amendment: [Sch. 2 para. 2(1)(a)-(c)](https://www.legislation.gov.uk/wsi/2009/779/schedule/2/paragraph/2/1/a) substituted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/4/b)
+
+[^key-c2dcdb8a574e35cf5e4d2a029a47a9da]: Textual amendment: [Sch. 2 para. 2(1)(d)](https://www.legislation.gov.uk/wsi/2009/779/schedule/2/paragraph/2/1/d) omitted (20.1.2025) by virtue of [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/4/c)
+
+[^c19715421]: Marginal citation: The General Practitioner Register is maintained by the General Medical Council under article 10 of the [General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003 (S.I. 2003/1250)](https://www.legislation.gov.uk/uksi/2003/1250).
+
+[^c19715431]: Marginal citation: The Specialist Register is maintained by the General Medical Council under article 13 of the [General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003 (S.I. 2003/1250)](https://www.legislation.gov.uk/uksi/2003/1250).
+
+[^c19715441]: Marginal citation: The Nursing and Midwifery Council maintains a register in accordance with Article 5 of the [Nursing and Midwifery Council Order 2002 (S.I. 2002/253)](https://www.legislation.gov.uk/uksi/2002/253).
+
+[^c19715451]: Marginal citation: The Dental Public Health Specialists List is prescribed by the General Dental Council (Specialist List) Regulations 2008 made by the Council under sections 26 and 52 of the [Dentists Act 1984 (c. 24)](https://www.legislation.gov.uk/ukpga/1984/24).
+
+[^c19715461]: Marginal citation: The UK Public Health Register is maintained by the Public Health Register a company limited by guarantee registered in England and Wales under registration number 4776439.
+
+[^c19715471]: Marginal citation: The Health Professions Council maintains a register in accordance with Article 5 of the [Health Professions Order 2001 (S.I. 2002/254)](https://www.legislation.gov.uk/uksi/2001/254).
+
+[^key-bb9457b6466f935bd34cf3a5497c401d]: Textual amendment: Word in [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/wsi/2009/779/schedule/3/paragraph/2/3) substituted (20.1.2025) by [The Local Health Boards, NHS Trusts and Special Health Authorities (Constitution, Membership and Procedures) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1308)](https://www.legislation.gov.uk/wsi/2024/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1308/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2024/1308/regulation/5)
+
+[^c19715481]: Marginal citation: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^c19715491]: Marginal citation: [1960 c. 67](https://www.legislation.gov.uk/ukpga/1960/67).
+
+[^key-e2c58bdb72e0565b4d29f67fee5a5454]: Textual amendment: Words in Sch. 4 Table substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/349/article/4/2/a)
+
+[^key-7c748437c98e9d474c974d04b45ae3f2]: Textual amendment: Words in Sch. 4 Table substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/349/article/4/2/b)

@@ -1,0 +1,63 @@
+---
+title: Disused Mine and Quarry Tips (Wales) Act 2025, section 50
+act: Disused Mine and Quarry Tips (Wales) Act 2025
+section: '50'
+status: not-yet-in-force
+text_date: '2025-09-12'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2025/4/section/50
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Disused Mine and Quarry Tips (Wales) Act 2025, section 50
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 50. Compensation for damage, loss or disturbance etc.[^key-08c36a03204a7f92278316c4a0ade3e6]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) This section applies where—
+
+- (a) as a result of operations carried out by an owner of land in compliance with a notice under section 35, or any consequential works of reinstatement—
+  - (i) any land is damaged,
+  - (ii) any other property is damaged, removed or disposed of, or
+  - (iii) any person’s enjoyment of any land is disturbed;
+- (b) as a result of operations, or any consequential works of reinstatement, carried out by the Authority under section 44—
+  - (i) any land is damaged,
+  - (ii) any other property is damaged, removed or disposed of, or
+  - (iii) any person’s enjoyment of any land is disturbed;
+- (c) as a result of investigations carried out under section 55 to determine whether operations need to be required under section 35 or carried out under section 44—
+  - (i) any land is damaged,
+  - (ii) any other property is damaged, or
+  - (iii) any person’s enjoyment of any land is disturbed.
+
+(2) The persons referred to in subsection (3) are entitled to compensation in respect of the damage, loss or disturbance or, in the case of the removal of property, in respect of any financial loss directly attributable to the removal.
+
+(3) The persons are—
+
+- (a) in the case of damage to land, any person with an estate or interest in the land;
+- (b) in the case of damage to other property, or the removal or disposal of that property, the owner of the property;
+- (c) in the case of disturbance to a person’s enjoyment of land, the person whose enjoyment of the land is disturbed.
+
+(4) Compensation in relation to damage, removal, loss or disturbance resulting from the carrying out of operations or consequential works of reinstatement is recoverable from—
+
+- (a) the owner of the land, if the owner carried out the operations or works;
+- (b) the Authority, if the Authority carried out the operations or works.
+
+(5) Compensation in relation to damage or disturbance resulting from the carrying out of investigations is recoverable from the Authority.
+
+(6) Nothing in this section entitles an owner of land to compensation in relation to damage, removal, loss or disturbance resulting from operations carried out by the owner or by any other person who was the owner of the land at the time the operations were carried out.
+
+(7) Any dispute arising on a claim for compensation under this section is to be determined by the court.
+
+(8) Schedule 2 has effect in relation to certain claims for compensation under this section.
+
+## Annotations
+
+[^key-08c36a03204a7f92278316c4a0ade3e6]: Commencement: S. 50 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

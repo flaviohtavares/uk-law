@@ -1,0 +1,116 @@
+---
+title: The Council Tax (Situation and Valuation of Dwellings) (Wales) (Amendment) Regulations 2005
+id: wsi/2005/701
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-03-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2005/701
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2005/701/pdfs/wsi_20050701_en.pdf
+- http://www.legislation.gov.uk/wsi/2005/701/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax (Situation and Valuation of Dwellings) (Wales) (Amendment) Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 701 (W.60)
+
+COUNCIL TAX, WALES
+
+The Council Tax (Situation and Valuation of Dwellings) (Wales) (Amendment) Regulations 2005
+
+Made
+
+15 March 2005
+
+Coming into force
+
+16 March 2005
+
+The National Assembly for Wales makes the following Regulations in exercise of the powers conferred on the Secretary of State under sections 21(2) and 116(1) of the Local Government Finance Act 1992[^f00001] which are now vested in the National Assembly for Wales so far as exercisable in Wales[^f00002]:
+
+## 1. Name, commencement and application
+
+(1) These Regulations are called the Council Tax (Situation and Valuation of Dwellings) (Wales) (Amendment) Regulations 2005 and come into force on 16 March 2005.
+
+(2) These Regulations apply in relation to Wales only.
+
+## 2. Interpretation
+
+In these Regulations —
+
+- “the 1992 Regulations” means the Council Tax (Situation and Valuation of Dwellings) Regulations 1992[^f00003].
+
+## 3. Amendments to the 1992 Regulations
+
+(1) The 1992 Regulations are amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 6(1) for “vendor on 1 April 1991” substitute —
+
+> - vendor —
+>   - (a) in relation to a list under section 22 or section 22A of the Act, on 1 April 1991; and
+>   - (b) in relation to a list under section 22B of the Act, on 1 April 2003.
+
+.
+
+(3) In regulation 6(3)(b)(v) for “as on 1 April 1993” substitute —
+
+> - as —
+>   - (a) in relation to a list under section 22 or section 22A of the Act, on 1 April 1993; and
+>   - (b) in relation to a list under section 22B of the Act, on 1 April 2005.
+
+.
+
+(4) In regulation 6(5A)(a), for “in the valuation list on the day it was compiled, 1 April 1993” substitute —
+
+> in —
+>
+> - (i) the valuation list under section 22 or section 22A of the Act on the day it was compiled, 1 April 1993; and
+> - (ii) the valuation list under section 22B of the Act on the day it was compiled, 1 April 2005;
+
+.
+
+(5) In regulation 6(5A)(d), for “1 April 1993” substitute
+
+> - (i) in relation to a list under section 22 or section 22A of the Act, 1 April 1993; and
+> - (ii) in relation to a list under section 22B of the Act, 1 April 2005;
+
+.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00004].
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+15 March 2005
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Council Tax (Situation and Valuation of Dwellings) Regulations 1992 (“the 1992 Regulations”).
+
+These Regulations are made under section 21(2) (Valuations for purposes of lists) of the Local Government Finance Act 1992 (“the 1992 Act”). Section 21 of the 1992 Act provides that the Commissioners of Inland Revenue shall carry out such valuations of dwellings in England and Wales and furnish listing officers for billing authorities with such information obtained in carrying out valuations as they consider necessary for the purpose of facilitating the compilation and maintenance by listing officers of valuation lists.
+
+Section 77 of the Local Government Act 2003 inserted a new section 22B into the 1992 Act. Section 22B of the 1992 Act requires the listing officer for a billing authority to compile and then maintain new valuation lists in accordance with Chapter II of Part I of the 1992 Act.
+
+In relation to a valuation list under section 22B of the 1992 Act, valuations in Wales are carried out by reference to the date that is two years before the date on which the section 22B list falls to be compiled (namely by reference to 1 April 2003). Such valuations are also to be carried out on such assumptions and in accordance with such principles as may be prescribed by regulations, in relation to Wales, by the National Assembly for Wales.
+
+The 1992 Regulations prescribe assumptions for the purpose of valuations. Regulation 3 of these Regulations amends assumptions prescribed in regulation 6 of the 1992 Regulations in respect of the new valuation lists under section 22B of the 1992 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
+
+[^f00002]: Footnote: *See* the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
+
+[^f00003]: Footnote: S.I. [1992/550](https://www.legislation.gov.uk/uksi/1992/550) as amended by S.I. [1994/1747](https://www.legislation.gov.uk/uksi/1994/1747).
+
+[^f00004]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

@@ -1,0 +1,67 @@
+---
+title: Regulation and Inspection of Social Care (Wales) Act 2016, section 154
+act: Regulation and Inspection of Social Care (Wales) Act 2016
+section: '154'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2016/2/section/154
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulation and Inspection of Social Care (Wales) Act 2016, section 154
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 154. Review of suspension orders: disposals by fitness to practise panel[^key-c8cd76aa4de5ad4eb0982a6910030f24]
+
+*Extent: E+W*
+
+(1) This section specifies the possible disposals which may be made by a fitness to practise panel which has completed a review under section 151(6) or (7) of the fitness to practise of a registered person who is subject to a suspension order.
+
+(2) If the registered person has applied under section 92 for the removal of the entry relating to the person from the register by agreement, the panel may make an order for the removal of that entry.
+
+(3) If the panel determines that the registered person's fitness to practise is no longer impaired, the panel—
+
+- (a) must revoke the suspension order, and
+- (b) may do either or both of the following—
+  - (i) give advice to the person on any matter related to the case;
+  - (ii) give the person a warning in respect of future conduct or performance.
+
+(4) The panel may agree undertakings with the registered person—
+
+- (a) if the person admits that his or her fitness to practise is impaired, or
+- (b) if the panel determines that the person's fitness to practise is impaired.
+
+(5) If the panel determines that the registered person's fitness to practise is impaired (and undertakings have not been agreed), the panel may dispose of the case as described in subsections (6), (7), (8) or (10).
+
+(6) The panel may confirm the suspension order with no variations.
+
+(7) The panel may—
+
+- (a) extend the period for which the suspension order is to have effect for a period of no more than 12 months, or
+- (b) reduce the period for which the suspension order is to have effect.
+
+(8) The panel may revoke the suspension order and make a decision to—
+
+- (a) take no further action in respect of the registered person,
+- (b) give a warning to the person in respect of future conduct or performance,
+- (c) make a conditional registration order, or
+- (d) make a removal order.
+
+(9) The panel may not make a removal order in a case where the panel has determined that the registered person's fitness to practise is impaired on the grounds of adverse physical or mental health, and no other ground in section 117.
+
+(10) If the conditions in subsection (11) are met, the panel may make an indefinite suspension order, which is an order suspending the registered person's registration in the register for an indefinite period.
+
+(11) The conditions are—
+
+- (a) the panel has determined that the registered person's fitness to practise is impaired on the grounds of adverse physical or mental health, and on no other ground specified in section 117,
+- (b) at the date of the panel's decision, the person has been suspended for at least 2 years, and
+- (c) the suspension order to which the person is subject is due to expire within 2 months of the date of the panel's decision.
+
+## Annotations
+
+[^key-c8cd76aa4de5ad4eb0982a6910030f24]: Commencement: [S. 154](https://www.legislation.gov.uk/anaw/2016/2/section/154) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

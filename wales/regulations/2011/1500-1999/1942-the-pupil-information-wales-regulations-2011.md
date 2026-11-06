@@ -1,0 +1,313 @@
+---
+title: The Pupil Information (Wales) Regulations 2011
+id: wsi/2011/1942
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-07-29'
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2011/1942
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2011/1942/pdfs/wsi_20111942_mi.pdf
+- http://www.legislation.gov.uk/wsi/2011/1942/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pupil Information (Wales) Regulations 2011
+
+> Text as at 2026-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 1942 (W.209)
+
+EDUCATION, WALES
+
+The Pupil Information (Wales) Regulations 2011
+
+Made
+
+29 July 2011
+
+Laid before the National Assembly for Wales
+
+4 August 2011
+
+Coming into force
+
+1 September 2011
+
+The Welsh Ministers in exercise of the powers conferred on the Secretary of State by sections 408, 563 and 569(4) and (5) of the Education Act 1996[^f00001] and now vested in them[^f00002] and after consulting with those persons with whom consultation appeared to the Welsh Ministers to be desirable pursuant to section 408(5) of the Education Act 1996 make the following Regulations:
+
+## 1. Title, commencement, application and revocation[^key-bbd18e26677849994827e384fb5fef8d]
+
+(1) The title of these Regulations is the Pupil Information (Wales) Regulations 2011 and they come into force on 1 September 2011.
+
+(2) These Regulations apply in relation to Wales.
+
+(3) The regulations in Schedule 1 are revoked.
+
+## 2. Interpretation[^key-5a2ad77a536c4c51d94071abf8c7798c]
+
+(1) In these Regulations—
+
+- “the 1996 Act” (“*Deddf 1996*”) means the Education Act 1996;
+- “the 2002 Act” (“*Deddf 2002*”) means the Education Act 2002[^f00003];
+- “[^key-a23c18963c2bcd19ecfc206d6825a19d]**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+- “foundation phase” (“*cyfnod sylfaen*”) is to be construed in accordance with section 102 of the 2002 Act;
+- “LA number” (“*rhif ALl*”) is a combination of numbers allocated to a local authority which is particular to that authority, determined by the Welsh Ministers;
+- “maintained school” (“*ysgol a gynhelir*”) means a community, foundation or voluntary school or a community or foundation special school (other than one established in a hospital) and, unless the context otherwise requires, a nursery school maintained by a local authority or a pupil referral unit;
+- “responsible person” (“*person cyfrifol*”) means—
+  - (a) the head teacher or proprietor of an independent school;
+  - (b) the teacher in charge of a pupil referral unit;
+  - (c) the governing body of any other school; or
+  - (d) the person responsible for the conduct of any institution of further education or other place of education or training to which a pupil transfers or may transfer;
+- “result” (“*canlyniad*”) in relation to any assessment under the statutory assessments means the result of the assessment as determined and recorded in accordance with those arrangements;
+- “school number” (“*rhif ysgol*”) is a combination of numbers allocated to a school which is particular to that school, determined by the Welsh Ministers;
+- “statutory assessments” (“*asesiadau statudol*”) means such assessment arrangements as are specified by the Welsh Ministers in regulations made under section 56 of the 2021 Act;[^key-e513c304db4e4044530e7a7f729e3e0b]
+- “unique learner number” (“*rhif unigryw dysgwr*”), in relation to a registered pupil at a school, means the specific combination of numbers allocated to the pupil by the Chief Executive of the Skills Funding Agency as that pupil’s unique learner number; and
+- “unique pupil number” (“*rhif unigryw disgybl*”) means a combination of numbers which together with a letter or letters are allocated to a pupil and are particular to that pupil, by use of a formula determined by the Welsh Ministers.
+
+(2) In these Regulations, unless the context otherwise requires, any reference to a head teacher or governing body is, in relation to a pupil referral unit, a reference to the teacher in charge of the pupil referral unit.
+
+## 3. Meanings of curricular record and educational record[^key-90a6af5b5f7dba211806792588880a5a]
+
+(1)[^key-43e8946bf84fcd75ab4af30f25aaeb2a] In these Regulations “**curricular record**” (“***cofnod cwricwlaidd***”) means a formal record of a pupil’s academic achievements, the pupil’s other skills and abilities and his or her progress in school, as detailed in—
+
+- (a) in relation to those pupils provided with education under the old curriculum, the Schedule to the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011, or
+- (b) in relation to those pupils provided with education under the new curriculum, the Provision of Information by Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022.
+
+(2A) References in these Regulations to pupils provided with education “under the old curriculum” are to those children and pupils to whom Part 2, 3 or 5 of the Curriculum and Assessment (Wales) Act 2021 applies, but in relation to whom the relevant Part of that Act has not yet come into force.
+
+(2B) References in these Regulations to pupils provided with education “under the new curriculum” are to those children and pupils to whom Part 2, 3 or 5 of the Curriculum and Assessment (Wales) Act 2021 applies, and in relation to whom the relevant Part of that Act has come into force.
+
+(2) In these Regulations “educational record” (“*cofnod addysgol*”) means any record of information, including a pupil’s curricular record, which—
+
+- (a) is processed by or on behalf of the governing body of, or a teacher at, any school specified in paragraph (3);
+- (b) relates to any person who is or has been a pupil at the school; and
+- (c) originated from or was supplied by or on behalf of any of the persons specified in paragraph (4), other than information which is processed by a teacher solely for the teacher’s own use.
+
+(3) The schools referred to in paragraph (2)(a) are—
+
+- (a) a maintained school; and
+- (b) a special school which is not maintained by a local authority.
+
+(4) The persons referred to in paragraph (2)(c) are—
+
+- (a) an employee of the local authority which maintains the school;
+- (b) in the case of—
+  - (i) a voluntary aided, foundation or foundation special school; or
+  - (ii) a special school which is not maintained by a local authority,
+
+  a teacher or other employee at the school (including an educational psychologist engaged by the governing body under a contract for services);
+- (c) the pupil to whom the record relates; and
+- (d) a parent of that pupil.
+
+## 4. Duties of head teacher — curricular records[^key-dcde3ca83be06e80491e37135ae5ae1a]
+
+The head teacher of every maintained school and of every special school not maintained by a local authority must keep a curricular record, updated at least once a year, in respect of every registered pupil at the school.
+
+## 5. Duties of head teacher — educational records[^key-49af52e41c3fa82c8528294a3a37f9eb]
+
+(1) Within fifteen school days of receiving a written request by a parent for disclosure of a pupil’s educational record, the head teacher of a maintained school and of a special school not maintained by a local authority must make it available for inspection, free of charge, to the parent.
+
+(2) Within fifteen school days of receiving a written request by a parent for a copy of a pupil’s educational record, the head teacher of such a school must give the parent a copy of it on payment of such fee (not exceeding the cost of supply), if any, as the governing body may prescribe.
+
+(3) In every case where the pupil is under consideration for admission to another school (including an independent school) or to an institution of further education or any other place of education or training, the head teacher must transfer the pupil’s educational record to the responsible person, free of charge, if that person so requests, within fifteen school days of receiving the request.
+
+(4) The record supplied under paragraph (3) must not include the results of any assessment of the pupil’s achievements.
+
+(5) When complying with a request for disclosure or a copy of a pupil’s educational record under paragraphs (1), (2) or (3) of this regulation, a head teacher must not disclose any information—[^key-7681a390c1c738695443100499a57f53]
+
+- (a) which the head teacher could not lawfully disclose to the pupil under the UK GDPR[^key-a3f53a983ea9297aa915dfbbc5bf87f7], or
+- (b) to which the pupil would have no right of access under the UK GDPR[^key-85827237ff6f0e569bcbfd1c7865f6c6].
+
+(6)[^key-39d7402f17f96e49f530842034af095e] In this regulation, “**the UK GDPR**” (“***GDPR y DU***”) has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act).
+
+## 6. Transfer of information when a pupil changes school[^key-37b951b3d48b03c418b151489d3b950d]
+
+(1) In this regulation “common transfer information” (“*gwybodaeth drosglwyddo gyffredin*”) means the information listed in Schedule 2.
+
+(2) Where this regulation requires information to be transferred in machine readable form, that requirement may be met by transferring the information—
+
+- (a) through a secure internet website provided for that purpose by or on behalf of the Welsh Ministers; or
+- (b) through an intranet provided for that purpose by or on behalf of a local authority, and for the purposes of this regulation an intranet means a closed network that can only be accessed—
+  - (i) by the local authority,
+  - (ii) by or on behalf of a governing body of a school within that authority,
+  - (iii) by a teacher at a school within that authority,
+
+  save that where a pupil transfers to a maintained school maintained by another local authority the requirement must be met by transferring the information through a secure internet website provided for that purpose by or on behalf of the Welsh Ministers.
+
+(3) Subject to paragraph (8), where a pupil ceases to be a registered pupil at a maintained school (the “old school”) and becomes a registered pupil at another school (the “new school”), the pupil’s common transfer information and educational record must be transferred to the head teacher of the new school as soon as possible after the date on which the head teacher of the old school first learned of the pupil’s registration at the new school and in any event no later than within fifteen school days after the day on which the pupil ceases to be registered at the old school.
+
+(4) The information and record referred to in paragraph (3) must be transferred by the head teacher of the old school or, where this has been agreed between that head teacher and the local authority, that authority.
+
+(5) The common transfer information must be transferred in machine readable form.
+
+(6) The educational record may be transferred in machine readable form or in paper form or in a combination of both forms.
+
+(7) Where it is not reasonably practicable for the head teacher of the old school to ascertain the pupil’s new school, or where the head teacher is aware that the pupil is moving to a school other than a maintained school in Wales or England, the requirements in paragraphs (3) and (4) of this regulation do not apply but the head teacher of the old school must transfer the common transfer information to a secure internet website provided for that purpose by or on behalf of the Welsh Ministers.
+
+(8) Where a pupil has been registered at a maintained school for less than four weeks, it is to be sufficient compliance for the purposes of paragraphs (3) and (4) if the head teacher of that school or, where applicable, the local authority transfers such information and record as they have received under this regulation from the school at which the pupil was previously registered in the form in which it was received by them.
+
+(9) For the purposes of paragraph (8), the reference in paragraph (3) to “fifteen school days” is a reference to the number of days after the day on which the pupil ceases to be registered at the school in question or to the number of days after the information and record have been received by the head teacher of that school, whichever is the later.
+
+(10) If the head teacher of a pupil’s old school receives a request from the head teacher of the school at which the pupil is currently a registered pupil, either for the common transfer information relating to the time when the pupil left the old school or for any educational record relating to that pupil in the old school’s possession, the head teacher must provide it within fifteen school days of receiving the request.
+
+(11) If a pupil arrives at a new maintained school without his or her old school being available, the head teacher of the new school must contact the local authority which maintains the new school to request a search of the secure internet website provided by or on behalf of the Welsh Ministers for the pupil’s common transfer information.
+
+## 7. Translation of information and documents[^key-8d109f72fa277d1f8efbeafbdad18f25]
+
+(1) If it appears necessary to the head teacher of any school that any document or information required to be made available under these Regulations which is provided in Welsh should be translated into English, it must be so translated and these Regulations are to apply to the document or information so translated as they apply to the original document or information.
+
+(2) If it appears necessary to the head teacher of any school that any document or information required to be made available under these Regulations which is provided in English should be translated into Welsh, it must be so translated and these Regulations are to apply to the document or information so translated as they apply to the original document or information.
+
+(3) If it appears necessary to the head teacher of any school that any document or information required to be made available under these Regulations should be translated into a language other than English or Welsh or that a Braille or audio tape version of such a document should be available, it must be so translated or produced in Braille or audio tape, as the case may be, and these Regulations are to apply to the translated document, information, Braille or audio version as they apply to the original document or information.
+
+(4) No charge is to be made for a copy of any information translated in accordance with paragraphs (1), (2) or (3), but where a charge is made for a copy of an original document no greater charge is to be made for a copy of the document so translated.
+
+Leighton Andrews
+
+Minister for Education and Skills, one of the Welsh Ministers
+
+## SCHEDULE 1 — REGULATIONS REVOKED[^key-a88070affaef732168a0f0047ef46404]
+
+Regulation 1
+
+[^key-a88070affaef732168a0f0047ef46404]
+
+| Regulations revoked | References | Extent of revocation |
+| --- | --- | --- |
+| The Education (Pupil Information) (Wales) Regulations 2004 | [S.I. 2004/1026 (W.123)](https://www.legislation.gov.uk/wsi/2004/1026) | The whole regulations |
+| The National Curriculum (Key Stage 2 Assessment Arrangements) (Consequential Amendments) (Wales) Regulations 2004 | [S.I. 2004/2914 (W.253)](https://www.legislation.gov.uk/wsi/2004/2914) | Regulation 5 |
+| The National Curriculum Assessment Arrangements (Miscellaneous Amendments) (Wales) Regulations 2005 | [S.I. 2005/1396 (W.110)](https://www.legislation.gov.uk/wsi/2005/1396) | Regulation 5 |
+| The Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 | [S.I. 2005/3239 (W.244)](https://www.legislation.gov.uk/wsi/2005/3239) | Paragraph 13 of Schedule 2 |
+| The Education (Pupil Information) (Wales) (Amendment) Regulations 2007 | [S.I. 2007/3563 (W.313)](https://www.legislation.gov.uk/wsi/2007/3563) | The whole regulations |
+| The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (Wales) Regulations 2010 | [S.I. 2010/2431 (W.209)](https://www.legislation.gov.uk/wsi/2010/2431) | Regulation 7 |
+
+## SCHEDULE 2 — COMMON TRANSFER INFORMATION
+
+Regulation 6
+
+**1.**[^key-4551e15d434f6ab2d6c428063cd2b940] The following information about the pupil—
+
+- (a) unique pupil number;
+- (b) unique learner number, if known;
+- (c) surname;
+- (d) first name(s);
+- (e) date of birth;
+- (f) gender;
+- (g) ethnic group;
+- (h) national identity;
+- (i) who provided the information as to the pupil’s ethnic group;
+- (j) the pupil’s first language;
+- (k) the pupil’s level of fluency in the Welsh language;
+- (l) whether or not the pupil speaks Welsh at home;
+- (m) who provided the information as to the pupil’s level of fluency in the Welsh language and the pupil’s speaking of Welsh at home; and
+- (n) whether, pursuant to sections 512(3) and 512ZB of the 1996 Act[^f00007], the pupil has applied and been found eligible for free school meals.
+
+**2.**[^key-8b88cc85c3cf3ef725b2b8a8e7a33a5d] Where the pupil is learning English as an additional language, a brief statement of the pupil’s level of acquisition when assessed against the following levels of achievement—
+
+- (a) “New to English” (“*Newydd i Saesneg*”);
+- (b) “Early Acquisition” (“*Wedi Dysgu'n Ifanc*”);
+- (c) “Developing Competence” (“*Wedi Magu Cymhwysedd*”);
+- (d) “Competent” (“*Cymwys*”); or
+- (e) “Fluent” (“*Rhugl*”).
+
+**3.**[^key-c8c8fecad04b9dd48903e4c3856ba186] Whether the pupil has special educational needs and, if so, confirmation of—
+
+- (a) the pupil’s primary need and any secondary need identified;
+- (b) the SEN provision type forming part of the graduated approach adopted pursuant to “The Special Educational Needs Code of Practice for Wales”[^f00008], which was issued under section 313 of the 1996 Act, that is being made for that pupil; and
+- (c) the support being provided.
+
+**4.**[^key-f2c65b5f3ab9669e42d95ec490d68cab] Where the pupil is a child looked after by a local authority, that fact and the name of the local authority.
+
+**5.**[^key-73872b69acd667e5f96170c5a4d0e832] Details of the address where the pupil normally resides.
+
+**6.**[^key-8596708dd4e7d4e021ab5d92b98154c7] The surname of at least one contact person and details of their relationship to the pupil.
+
+**7.**[^key-f967286bbe0f2b2f0fb1c56f92523903] An indicator where medical information exists that may be relevant to the pupil’s new school.
+
+**8.**[^key-1f52e1e2cec5222dc76fa0c7ee05e8d2] The total number of—
+
+- (a) sessions in the school year to the date the pupil ceases to be registered at the old school;
+- (b) such sessions in the school year attended by the pupil; and
+- (c) the pupil’s authorised and unauthorised absences (within the meaning of the Education (Pupil Registration) (Wales) Regulations 2010[^f00009]) in the school year.
+
+**9.**[^key-a2981a8be1fd9b391065fb69587ca920] The LA number and the school number for each of the old school and the new school.
+
+(This note is not part of the Regulations)
+
+These Regulations replace with changes provisions formerly contained in the Education (Pupil Information) (Wales) Regulations 2004 (“the 2004 Regulations”), as amended. These Regulations provide for the keeping by the head teacher of records about the curricular records (as defined in regulation 3) of a pupil at a school maintained by a local authority and a special school not so maintained (regulation 4). The provisions in the 2004 Regulations in relation to a head teacher’s report to parents and adult pupils are now contained in the Head teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011.
+
+They also make provision for the disclosure and transfer by the head teacher of educational records (as defined in regulation 3) to parents and schools to which pupils are under consideration for transfer (regulation 5). Regulation 6 and Schedule 2 set out the contents of the report that the head teacher of the old school is required to send the head teacher of the new school once the pupil has transferred to the new school.
+
+Where necessary, any document or information required to be made available under the Regulations must be translated into English or Welsh or another language or produced in Braille or audio tape (regulation 7).
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 408 was amended by paragraph 30 of Schedule 7 and Schedule 8 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), paragraphs 57 and 106 of Schedule 30, and Schedule 31, to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), and paragraph 57 of Schedule 9 to the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 21 of the Education Act 2002, Schedule 12 and Part 7 of Schedule 16 of the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 563(3)(a) and (c) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 563(3)(a) and (b) was further amended by paragraph 172(a) and (b) of Schedule 30 to the School Standards and Framework Act 1998.
+
+[^f00002]: Footnote: The functions of the Secretary of State under these sections were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-bbd18e26677849994827e384fb5fef8d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-5a2ad77a536c4c51d94071abf8c7798c]: Commencement: Reg. 2 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^f00003]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^key-a23c18963c2bcd19ecfc206d6825a19d]: Textual amendment: Words in reg. 2(1) inserted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/14/2)
+
+[^key-e513c304db4e4044530e7a7f729e3e0b]: Textual amendment: Words in reg. 2(1) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [14(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/14/3)[(4)](https://www.legislation.gov.uk/wsi/2022/758/regulation/14/4)
+
+[^key-90a6af5b5f7dba211806792588880a5a]: Commencement: Reg. 3 in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-43e8946bf84fcd75ab4af30f25aaeb2a]: Textual amendment: Reg. 3(1)-(2B) substituted for reg. 3(1) (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Provision of Information by Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022 (S.I. 2022/655)](https://www.legislation.gov.uk/wsi/2022/655), [reg. 12](https://www.legislation.gov.uk/wsi/2022/655/regulation/12) (with [reg. 10](https://www.legislation.gov.uk/wsi/2022/655/regulation/10))
+
+[^key-dcde3ca83be06e80491e37135ae5ae1a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/1942/regulation/4) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-49af52e41c3fa82c8528294a3a37f9eb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2011/1942/regulation/5) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-7681a390c1c738695443100499a57f53]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/5/5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 365(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/365/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-a3f53a983ea9297aa915dfbbc5bf87f7]: Textual amendment: Words in [reg. 5(5)(a)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/5/5/a) substituted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-85827237ff6f0e569bcbfd1c7865f6c6]: Textual amendment: Words in [reg. 5(5)(b)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/5/5/b) substituted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-39d7402f17f96e49f530842034af095e]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/5/6) substituted (31.12.2020) by [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [8(3)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-37b951b3d48b03c418b151489d3b950d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2011/1942/regulation/6) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-8d109f72fa277d1f8efbeafbdad18f25]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2011/1942/regulation/7) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-a88070affaef732168a0f0047ef46404]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2011/1942/schedule/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-4551e15d434f6ab2d6c428063cd2b940]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2011/1942/schedule/2/paragraph/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^f00007]: Footnote: Sections 512 and 512ZB, together with section 512ZA, were substituted for section 512 as originally enacted by the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), section 201(1). Section 512ZB(4)(a)(iia) was inserted by Schedule 3, paragraph 16(1) and (3) of the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5) and sections 512 and 512ZB were further amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 512ZB(4)(a)(i) was repealed by the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), Part 1 of Schedule 7. Section 512ZB(4) was amended by the Child Poverty Act [2010 (c. 9)](https://www.legislation.gov.uk/ukpga/2010/9), section 26(1)(b), (c) and (d).
+
+[^key-8b88cc85c3cf3ef725b2b8a8e7a33a5d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2011/1942/schedule/2/paragraph/2) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-c8c8fecad04b9dd48903e4c3856ba186]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2011/1942/schedule/2/paragraph/3) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^f00008]: Footnote: ISBN 0750427574.
+
+[^key-f2c65b5f3ab9669e42d95ec490d68cab]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2011/1942/schedule/2/paragraph/4) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-73872b69acd667e5f96170c5a4d0e832]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2011/1942/schedule/2/paragraph/5) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-8596708dd4e7d4e021ab5d92b98154c7]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2011/1942/schedule/2/paragraph/6) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-f967286bbe0f2b2f0fb1c56f92523903]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2011/1942/schedule/2/paragraph/7) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^key-1f52e1e2cec5222dc76fa0c7ee05e8d2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2011/1942/schedule/2/paragraph/8) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 2010/1954 (W.187)](https://www.legislation.gov.uk/wsi/2010/1954).
+
+[^key-a2981a8be1fd9b391065fb69587ca920]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2011/1942/schedule/2/paragraph/9) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1942/regulation/1/1)

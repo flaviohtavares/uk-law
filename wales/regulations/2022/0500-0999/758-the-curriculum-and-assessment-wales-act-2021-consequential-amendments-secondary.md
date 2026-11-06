@@ -1,0 +1,702 @@
+---
+title: The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022
+id: wsi/2022/758
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-07-04'
+text_date: '2022-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2022/758
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2022/758/pdfs/wsi_20220758_mi.pdf
+- http://www.legislation.gov.uk/wsi/2022/758/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022
+
+> Text as at 2022-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2022 No. 758 (W. 164)
+
+Education, Wales
+
+The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022
+
+Made
+
+4 July 2022
+
+Laid before Senedd Cymru
+
+6 July 2022
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 74(1) and 75(1)(b) of the Curriculum and Assessment (Wales) Act 2021[^f00001], make the following Regulations:
+
+## PART 1 — Introduction
+
+### 1. Title and commencement[^key-ea26ea2c38a724716b5805db518f7116]
+
+(1) The title of these Regulations is the Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022.
+
+(2) Subject to paragraph (3) these Regulations come into force on 1 September 2022.
+
+(3) Regulations 7(4), 9(2) and (3), 10(3), (5), (7) and (8), 11(4), 13(3), 14(3), 15(2) and (3), 16(2) and (3), 17(2), and 19(2) and (3) provide the dates on which specific provisions of Part 2 (Consequential Amendments) come into force.
+
+### 2. Interpretation[^key-956eda7d3c36660685408397bed9a4c0]
+
+(1) In these Regulations—
+
+- “**the 1996 Act**” (“***Deddf 1996***”) means the Education Act 1996[^f00002];
+- “**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+- “**academic year**” (“***blwyddyn academaidd***”) means the period of 12 months beginning on 1 September;
+- “**child**” (“***plentyn***”) has the meaning given to it in section 579(1) of the 1996 Act;
+- “**head teacher**” (“***pennaeth***”) has the meaning given to it in section 579(1) of the 1996 Act;
+- “**maintained nursery school**” (“***ysgol feithrin a gynhelir***”) has the meaning given to it in section 79(1)(b) of the 2021 Act;
+- “**maintained school**” (“*ysgol a gynhelir*”*)* has the meaning given to it in section 79(1)(a) of the 2021 Act;
+- “**nursery education**” (“***addysg feithrin***”) means education provided to children or pupils below compulsory school age—
+  - (a) in a maintained school or a maintained nursery school, or
+  - (b) by the provider of funded non-maintained nursery education;
+- “**nursery year**” (“***blwyddyn meithrin***”) means a year group in which the majority of the pupils attain the age of 4;
+- “**pupil**” (“***disgybl***”) has the meaning given to it in section 3 of the 1996 Act[^f00003];
+- “**pupil referral unit**” (“***uned cyfeirio disgyblion***”) has the meaning given to it in section 81(1) of the 2021 Act;
+- “**provider of funded non-maintained nursery education**” (“***darparwr addysg feithrin a gyllidir ond nas cynhelir***”) has the meaning given to it in section 80(2)(a) of the 2021 Act;
+- “**reception year**” (“***blwyddyn derbyn***”) means a year group in which the majority of the pupils attain the age of 5;
+- “**relevant curriculum**” (“***cwricwlwm perthnasol***”) has the meaning given to it in section 56(5) of the 2021 Act;
+- “**setting**” (“***lleoliad***”) means—
+  - (a) a maintained nursery school,
+  - (b) a maintained school,
+  - (c) a provider of funded non-maintained nursery education,
+  - (d) a pupil referral unit, and
+  - (e) the provision of teaching and learning for a child otherwise than at a pupil referral unit by virtue of arrangements made under section 19A of the 1996 Act;
+- “**year 6**” (“***blwyddyn 6***”) means a year group in which the majority of pupils attain the age of 11;
+- “**year 7**” (“***blwyddyn 7***”) means a year group in which the majority of pupils attain the age of 12;
+- “**year 8**” (“***blwyddyn 8***”) means a year group in which the majority of pupils attain the age of 13;
+- “**year 9**” (“***blwyddyn 9***”) means a year group in which the majority of pupils attain the age of 14;
+- “**year 10**” (“***blwyddyn 10***”) means a year group in which the majority of pupils attain the age of 15;
+- “**year 11**” (“***blwyddyn 11***”) means a year group in which the majority of pupils attain the age of 16;
+- “**year 12**” (“***blwyddyn 12***”) means a year group in which the majority of pupils attain the age of 17;
+- “**year 13**” (“***blwyddyn 13***”) means a year group in which the majority of pupils attain the age of 18”; and
+- “**year group**” (“***grŵp blwyddyn***”) means a group of children or pupils at a setting the majority of whom will, in a particular academic year, attain the same age.
+
+(2) Expressions used in these Regulations and in the 2021 Act have the same meaning as in that Act.
+
+## PART 2 — Consequential Amendments
+
+### 3. The Education (School Curriculum and Related Information) Regulations 1989[^key-41615fd35ed4bff6508ef5db6fc1bd7d]
+
+In regulation 1(3) of the Education (School Curriculum and Related Information) Regulations 1989[^f00004] omit the words “and Wales”.
+
+### 4. The Education (National Curriculum) (Exceptions) (Wales) Regulations 1995[^key-2f95a604c8b1a66dddcf7aa2cb18f064]
+
+The Education (National Curriculum) (Exceptions) (Wales) Regulations 1995[^f00005] are revoked.
+
+### 5. The Education (Special Educational Needs) (Information) (Wales) Regulations 1999[^key-33fc347fe1bf636e63edd2254ca1a4e5]
+
+(1) The Education (Special Educational Needs) (Information) (Wales) Regulations 1999[^f00006] are amended as follows.
+
+(2) In regulation 2, insert in the appropriate place—
+
+> - “**the 2021 Act**” means the Curriculum and Assessment (Wales) Act 2021;
+
+.
+
+(3) For paragraph 9 of Schedule 1, paragraph 6 of Schedule 2 and paragraph 7 of Schedule 3, substitute—
+
+> Arrangements for providing access by pupils with special educational needs to—
+>
+> - (a) a balanced and broadly based curriculum (including the National Curriculum); or
+> - (b) a curriculum adopted under the 2021 Act.
+
+.
+
+### 6. The Education (Special Educational Needs) (Wales) Regulations 2002[^key-a7886a59970415601937c53ada60b86e]
+
+(1) The Education (Special Educational Needs) (Wales) Regulations 2002[^f00007] are amended as follows.
+
+(2) In regulation 2, insert in the appropriate place—
+
+> - “**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+
+.
+
+(3) In paragraph (5) of regulations 20 and 21, for sub-paragraph (c) substitute—
+
+> - (c) where the school is a community, foundation or voluntary school or a community or foundation special school other than a special school established in a hospital, the application of the provisions of—
+>   - (i) the National Curriculum to the child, and the progress made in relation to those provisions by the child since the statement was made or the last review under section 328; or
+>   - (ii) the curriculum adopted or otherwise provided to the child under the 2021 Act and the progress made in relation to those provisions by the child, as assessed under arrangements made in regulations under section 56 of the 2021 Act since the statement was made or the last review under section 328;
+
+.
+
+### 7. The Education Standards Grants (Wales) Regulations 2002[^key-49c41a40cb94c10d3b20d138e048f403]
+
+(1) The Education Standards Grants (Wales) Regulations 2002[^f00008] (“**the 2002 Regulations**”) are amended as follows.
+
+(2) In regulation 2(1)—
+
+- (a) insert in the appropriate places—
+
+  > - “**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+
+  ,
+
+  > - “**child**” (“***plentyn***”) has the meaning given to it in section 579(1) of the 1996 Act;
+
+  ,
+
+  > - “**Hwb**” means the digital platform for learning and teaching in Wales which—
+  >   - (a) is a strategic digital channel provided by the Welsh Government to support the delivery of the curriculum in Wales, and
+  >   - (b) provides access to a range of Welsh Government funded bilingual digital tools and resources;
+
+  ,
+
+  > - “**reception year**” (“***blwyddyn derbyn***”) means a year group in which the majority of pupils attain the age of 5;
+
+  ,
+
+  > - “**relevant curriculum**” (“***cwricwlwm perthnasol***”) has the meaning given to it in section 56(5) of the 2021 Act;
+
+  ,
+
+  > - “**setting**” (“***lleoliad***”) means—
+  >   - (a) a maintained school, and
+  >   - (b) a pupil referral unit;
+
+  ,
+
+  > - “**summer digital competence school**” (“***ysgol haf ar gymhwysedd digidol***”) means a scheme taking place during the summer holidays which aims to raise standards of digital competence in pupils who are about to join secondary school;
+
+  ,
+
+  > - “**year 13**” (“***blwyddyn 13***”) means a year group in which the majority of pupils attain the age of 18;
+
+  , and
+
+  > - “**year group**” (“***grŵp blwyddyn***”) means a group of pupils at a setting the majority of whom will, in a particular school year, attain the same age;
+
+  , and
+- (b) omit the definition of “National Grid for Learning”.
+
+(3) In the Schedule—
+
+- (a) in paragraph 1 omit sub-paragraphs (d), (e) and (h),
+- (b) in paragraph 4 for sub-paragraph (a) substitute—
+
+  > - (a) Support for schemes to improve the teaching of literacy, numeracy and digital competence in primary schools with a view to improving pupils’ literacy, numeracy and digital competence in such schools.
+
+  ,
+- (c) in paragraph 4 for sub-paragraph (c) substitute—
+
+  > - (c) Support for the setting up and running of summer literacy schools, summer numeracy schools and summer digital competence schools.
+
+  , and
+- (d) in paragraph 9 for sub-paragraph (a) substitute—
+
+  > - (a) Support to enable maintained schools to secure effective use of the networked educational services made available through Hwb.
+
+  .
+
+(4) The amendments in paragraph (5) come into force—
+
+- (a) from 1 September 2022 in respect of—
+  - (i) children and pupils in the nursery year to year 6 in a maintained school;
+  - (ii) pupils in year 7 at a maintained school where the head teacher and governing body have adopted a relevant curriculum for those year 7 pupils under Part 2 of the 2021 Act;
+- (b) from 1 September 2023 in respect of children and pupils in years 7 and 8 at a maintained school;
+- (c) from 1 September 2024 in respect of children and pupils in year 9 at a maintained school;
+- (d) from 1 September 2025 in respect of children and pupils in year 10 at a maintained school;
+- (e) from 1 September 2026 in respect of children and pupils in all other year groups at a maintained school.
+
+(5) The following amendments apply—
+
+- (a) in regulation 2(1), omit the definition of “key stages 1, 2, 3 and 4”, and
+- (b) in the Schedule—
+  - (i) in paragraph 1—
+    - (aa) in sub-paragraph (a), for “National Curriculum” substitute “curriculum adopted under the 2021 Act”,
+    - (bb) in sub-paragraph (b), after “attainment” in the first place it occurs, omit the text to the end and insert in its place “and learning progression of pupils and reducing any difference in such standards of attainment and learning progression between male and female pupils;”,
+    - (cc) in sub-paragraph (c), for “the arrangements for assessing pupils in relation to National Curriculum attainment targets under Chapter II of Part V of the 1996 Act, or in relation to a baseline assessment scheme” substitute “any assessment or progression arrangements required under sections 56 and 57 of the 2021 Act”,
+    - (dd) in sub-paragraph (f), for “young people in Years 9 to 13” substitute “children and pupils in reception year to year 13”,
+    - (ee) omit sub-paragraph (g), and
+    - (ff) in sub-paragraph (j), for “subjects” substitute “examinations”,
+  - (ii) in paragraph 2, in sub-paragraph (a), for “improve the standards attained by” substitute “provide for appropriate progression by children and”,
+  - (iii) in paragraph 4—
+    - (aa) in sub-paragraph (b), for “standards” to the end substitute “learners’ literacy, numeracy and digital competence by encouraging parents to assist their children to develop their communication skills.”, and
+    - (bb) in sub-paragraph (d), for “to improve standards of literacy in Welsh and English and standards of numeracy in schools” substitute “in schools to improve pupils’ progression in Welsh and English, numeracy and digital competence”,
+  - (iv) in paragraph 5—
+    - (aa) in sub-paragraph (c), for “standards of achievement” substitute “progression”, and
+    - (bb) in sub-paragraph (f), after “to”, insert “support appropriate progression and”, and
+  - (v) in paragraph 7, for “subjects required to be taught under the National Curriculum” substitute “areas of learning and experience and cross curricular skills required to be taught as part of the school’s relevant curriculum under the 2021 Act”.”.
+
+(6) In this regulation, “**maintained school**” has the same meaning as in regulation 2(1) of the 2002 Regulations[^f00009].
+
+### 8. The Single Education Plan (Wales) Regulations 2006[^key-be8d94765d704396fb01d01c812fe0f7]
+
+The Single Education Plan (Wales) Regulations 2006[^f00010] are revoked.
+
+### 9. The Education (Pupil Referral Units) (Application of Enactments) (Wales) Regulations 2007[^key-0a838d949c521306ea6fd57578b6d064]
+
+(1) The Education (Pupil Referral Units) (Application of Enactments) (Wales) Regulations 2007[^f00011] are amended as follows.
+
+(2) Paragraphs 1, 2 and 10 of Schedule 1 are disapplied—
+
+- (a) from 1 September 2022 in respect of—
+  - (i) pupils in the reception year to year 6;
+  - (ii) pupils in year 7 where a relevant curriculum is provided for those year 7 pupils under Part 3;
+- (b) from 1 September 2023 in respect of pupils in years 7 and 8;
+- (c) from 1 September 2024 in respect of pupils in year 9;
+- (d) from 1 September 2025 in respect of pupils in year 10.
+
+(3) On 1 September 2026, paragraphs 1, 2 and 10 of Schedule 1 are revoked.
+
+### 10. The Education (Information About Individual Pupils) (Wales) Regulations 2007[^key-d2e4e9fee6ffa79a6a0c47d8988973f3]
+
+(1) The Education (Information About Individual Pupils) (Wales) Regulations 2007[^f00012] (“**the 2007 Regulations**”) are amended as follows.
+
+(2) In regulation 3, insert in the appropriate places—
+
+> - “**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+
+,
+
+> - “**nursery year**” (“***blwyddyn meithrin***”) means a year group in which the majority of pupils attain the age of 4;
+
+,
+
+> - “**relevant curriculum**” (“***cwricwlwm perthnasol***”) has the meaning given to it in section 56(5) of the 2021 Act;
+
+,
+
+> - “**year 9**” (“***blwyddyn 9***”) means a year group in which the majority of pupils attain the age of 14;
+
+,
+
+> - “**year 11**” (“***blwyddyn 11***”) means a year group in which the majority of pupils attain the age of 16;
+
+, and
+
+> - “**year group**” (“***grŵp blwyddyn***”) means a group of children at a school the majority of whom will, in a particular school year, attain the same age;
+
+.
+
+(3) The amendment in paragraph (4) comes into force—
+
+- (a) from 1 September 2022 in respect of—
+  - (i) pupils in the nursery year to year 6 at a maintained school;
+  - (ii) pupils in year 7 at a maintained school where the head teacher and governing body have adopted a relevant curriculum for those year 7 pupils under Part 2 of the 2021 Act;
+- (b) from 1 September 2023 in respect of pupils in years 7 and 8 at a maintained school;
+- (c) from 1 September 2024 in respect of pupils in year 9 at a maintained school.
+
+(4) In paragraph (5) of regulation 5—
+
+- (a) the text of sub-paragraph (a) becomes sub-paragraph (a)(i), and
+- (b) after that sub-paragraph insert—
+
+  > - (ii) any assessment of pupils in the nursery year to year 9 inclusive made under section 56 of the 2021 Act in relation to a relevant curriculum;
+
+  .
+
+(5) The amendment in paragraph (6) comes into force—
+
+- (a) from 1 September 2022 in respect of—
+  - (i) pupils in the nursery year to year 6 at a maintained school;
+  - (ii) pupils in year 7 at a maintained school where the head teacher and governing body have adopted a relevant curriculum for those year 7 pupils under Part 2 of the 2021 Act;
+- (b) from 1 September 2023 in respect of pupils in years 7 and 8 at a maintained school;
+- (c) from 1 September 2024 in respect of pupils in year 9 at a maintained school;
+- (d) from 1 September 2025 in respect of pupils in year 10 at a maintained school.
+
+(6) In Schedule 2, for paragraph 1(j) substitute—
+
+> for pupils in nursery year to year 11, the year group in which the pupil is taught;
+
+.
+
+(7) On 1 September 2024—
+
+- (a) in regulation 3—
+  - (i) omit the definition of “foundation phase”, and
+  - (ii) for the definition of “key stage” substitute—
+
+    > - “**key stage**” (“***cyfnod allweddol***”) means any of the periods set out in paragraphs (c) to (d) of section 103(1) of the 2002 Act and a reference to the third key stage is a reference to the period set out in paragraph (c) of section 103(1) of the 2002 Act;
+
+    , and
+- (b) in regulation 5(5)(a)(i), omit the words “foundation phase, second or”.
+
+(8) On 1 September 2026—
+
+- (a) in regulation 3, omit the definitions of “the 2002 Act” and “key stage”,
+- (b) for regulation 5(5)(a) substitute—
+
+  > - any assessment of pupils in the nursery year to year 9 inclusive made under section 56 of the 2021 Act in relation to a relevant curriculum;
+
+  , and
+- (c) in Schedule 2, for paragraph 1(j) substitute the following—
+
+  > for pupils in nursery year to year 11, the year group in which the pupil is taught;
+
+  .
+
+(9) In this regulation “**maintained school**” means a “**school**” as defined in regulation 3 of the 2007 Regulations.
+
+### 11. The Education (Information About Children in Alternative Provision) (Wales) Regulations 2009[^key-b3846f0b368fbfa05ac823d1d6f9b2e5]
+
+(1) The Education (Information About Children in Alternative Provision) (Wales) Regulations 2009[^f00013] are amended as follows.
+
+(2) In regulation 2, insert in the appropriate places—
+
+> - “**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+
+,
+
+> - “**academic year**” (“***blwyddyn academaidd***”) means the period of 12 months beginning on 1 September;
+
+,
+
+> - “**maintained school**” (“***ysgol a gynhelir***”) has the meaning given to it in section 79(1)(a) of the 2021 Act;
+
+,
+
+> - “**provider of funded non-maintained nursery education**” (“***darparwr addysg feithrin a gyllidir ond nas cynhelir***”) has the meaning given to it in section 80(2)(a) of the 2021 Act;
+
+,
+
+> - “**pupil referral unit**” (“***uned cyfeirio disgyblion***”) has the meaning given to it in section 81(1) of the 2021 Act;
+
+,
+
+> - “**setting**” (“***lleoliad***”) means—
+>   - (a) a maintained school;
+>   - (b) a provider of funded non-maintained nursery education;
+>   - (c) a pupil referral unit; and
+>   - (d) the provision of teaching and learning for a child otherwise than at a pupil referral unit by virtue of arrangements made under section 19A of the 1996 Act;
+
+,
+
+> - “**statutory assessments**” (“***asesiadau statudol***”) means such assessment arrangements as are specified by the Welsh Ministers in regulations made under section 56 of the 2021 Act;
+
+,
+
+> - “**year group**” (“***grŵp blwyddyn***”) means a group of children at a setting the majority of whom will, in a particular academic year, attain the same age;
+
+.
+
+(3) In paragraph 1(i) of Schedule 1, omit “national curriculum”.
+
+(4) The amendments in paragraphs (5) to (7) apply in relation to the settings listed in regulation 3 of the 2009 Regulations[^f00014], and come into force—
+
+- (a) from 1 September 2022 in respect of—
+  - (i) children and pupils in the reception year to year 6;
+  - (ii) pupils in year 7 where a setting has a relevant curriculum in place for those year 7 pupils under Parts 2 or 3 of the 2021 Act;
+- (b) from 1 September 2023 in respect of children and pupils in years 7 and 8;
+- (c) from 1 September 2024 in respect of children and pupils in year 9;
+- (d) from 1 September 2025 in respect of children and pupils in year 10;
+- (e) from 1 September 2026 in respect of children and pupils in all other year groups.
+
+(5) In regulation 3(b), for “section 19” substitute “section 19A”.
+
+(6) In regulation 9—
+
+- (a) in paragraph (1) for “The teacher in charge of a pupil referral unit and the” substitute “The”, and
+- (b) in paragraph (2) omit “the teacher in charge of a pupil referral unit or”.
+
+(7) In Schedule 2, for paragraphs 1 to 8 substitute—
+
+> **1.** Brief comments on the progress in learning across the relevant curriculum.
+>
+> **2.** Brief comments on the results of any statutory assessments carried out under regulations made under section 56 of the 2021 Act.
+>
+> **3.** A summary of the child or pupil’s future progression needs and the next steps to support that child or pupil’s progression.
+>
+> **4.** Brief advice on how parents can support their child’s progression.
+>
+> **5.** A summary of the child or pupil’s well-being.
+>
+> **6.** A summary of the qualifications for which the child or pupil was entered, and attainment or grade where relevant, including details of any unit or credit towards such qualification obtained by the child or pupil during the period to which the report relates.
+>
+> **7.** A summary of the child or pupil’s attendance record during the period to which information relates showing the number of authorised and unauthorised absences (within the meaning of the Education (Pupil Registration) (Wales) Regulations 2010[^f00015] and the number of possible attendances.
+>
+> **8.** Particulars of the arrangements under which parents may discuss the report with the child’s teacher.
+
+.
+
+### 12. The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010[^key-03eac6ba563afd98d8c94c3969bce365]
+
+Paragraph 17 of Schedule 2 to the Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010[^f00016] is revoked.
+
+### 13. The Education (Pupil Registration) (Wales) Regulations 2010[^key-1840b84415de3f0ed065992bcc08859c]
+
+(1) The Education (Pupil Registration) (Wales) Regulations 2010[^f00017] are amended as follows.
+
+(2) In regulation 2, in the appropriate place insert—
+
+> - “**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+
+.
+
+(3) The amendments in paragraphs (4) and (5) come into force—
+
+- (a) from 1 September 2022 in respect of—
+  - (i) pupils in the reception year to year 6 at a school;
+  - (ii) pupils in year 7 at a school where the head teacher and governing body have adopted a relevant curriculum for those year 7 pupils under Part 2 of the 2021 Act;
+- (b) from 1 September 2023 in respect of pupils in years 7 and 8;
+- (c) from 1 September 2024 in respect of pupils in year 9;
+- (d) from 1 September 2025 in respect of pupils in year 10;
+- (e) from 1 September 2026 in respect of pupils in all other year groups.
+
+(4) In regulation 2, in the definition of “local curriculum”, omit the words “in relation to pupils in the fourth key stage, has the meaning given by section 97 of the Education Act 2002 and,”.
+
+(5) In regulation 6(4)—
+
+- (a) at the end of sub-paragraph (b) omit “or”,
+- (b) in sub-paragraph (c), for “.” substitute “; or”, and
+- (c) after sub-paragraph (c) insert—
+
+  > - (d) attendance on a course of study within the curriculum adopted for pupils aged 14 to 16 under sections 28 and 30 of the 2021 Act at a place other than the school.
+
+  .
+
+### 14. The Pupil Information (Wales) Regulations 2011[^key-bab96bf4fa7103a640d98ed86b977ccd]
+
+(1) The Pupil Information (Wales) Regulations 2011[^f00018] (“**the 2011 Regulations**”) are amended as follows.
+
+(2) In regulation 2(1) insert in the appropriate place—
+
+> - “**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+
+.
+
+(3) The amendments in paragraph (4) come into force—
+
+- (a) from 1 September 2022 in respect of pupils in nursery year to year 7 at a maintained school, where the head teacher and governing body have adopted a relevant curriculum for those year 7 pupils under Part 2 of the 2021 Act;
+- (b) from 1 September 2023 in respect of pupils in years 7 and 8 at a maintained school;
+- (c) from 1 September 2024, in respect of pupils in year 9 at a maintained school;
+- (d) from 1 September 2025, in respect of pupils in year 10 at a maintained school;
+- (e) from 1 September 2026 in respect of pupils in all other year groups at a maintained school.
+
+(4) In the definition of “statutory assessments” in regulation 2(1), from the words “in an order” to “a key stage” substitute “in regulations made under section 56 of the 2021 Act;”.
+
+(5) In this regulation, “**maintained school**” has the meaning in regulation 2(1) of the 2011 Regulations[^f00019].
+
+### 15. The School Performance Information (Wales) Regulations 2011[^key-6cdceca0c3969addabb7b762787e43d4]
+
+(1) The School Performance Information (Wales) Regulations 2011[^f00020] (“**the 2011 Regulations**”) apply as follows.
+
+(2) Regulations 5 and 6 of, and Schedule 2 to, the 2011 Regulations are disapplied—
+
+- (a) from 1 September 2022—
+  - (i) in respect of pupils in nursery year to year 6 at a maintained school;
+  - (ii) in respect of pupils in year 7 at a maintained school, where the head teacher and governing body have adopted a relevant curriculum for those year 7 pupils under Part 2 of the 2021 Act;
+- (b) from 1 September 2023 in respect of pupils in years 7 and 8 at a maintained school.
+
+(3) On 1 September 2024—
+
+- (a) in regulation 2—
+  - (i) in paragraph (1), omit the definitions of “the 2002 Act” and “foundation phase”,
+  - (ii) for “; and” at the end of paragraph (2)(b) substitute “.”, and
+  - (iii) omit paragraph (2)(c),
+- (b) in regulation 4, for “Schedules 2 and 3” substitute “Schedule 3”,
+- (c) regulations 5 and 6 are revoked, and
+- (d) Schedule 2 is revoked.
+
+(4) In this regulation, “**maintained school**” has the meaning in regulation 2(1) of the 2011 Regulations[^f00021].
+
+### 16. The Education (Middle Schools) (Wales) Regulations 2012[^key-d70719f1c2b9c0d9c3611d654ee7ad35]
+
+(1) The Education (Middle Schools) (Wales) Regulations 2012[^f00022] apply as follows.
+
+(2) From 1 September 2024 the following provisions do not apply to pupils in year 9 at a maintained school—
+
+- (a) in regulation 3, the definitions of “2002 Act” and “fourth key stage”, and
+- (b) regulations 7 and 8.
+
+(3) On 1 September 2026, the following provisions are revoked—
+
+- (a) in regulation 3, the definitions of “2002 Act” and “fourth key stage”, and
+- (b) regulations 7 and 8.
+
+### 17. The Education (Penalty Notices) (Wales) Regulations 2013[^key-566fdbe4594914d01b029e1794e5e9f8]
+
+(1) The Education (Penalty Notices) (Wales) Regulations 2013[^f00023] are amended as follows.
+
+(2) The amendment in paragraph (3) comes into force—
+
+- (a) from 1 September 2022—
+  - (i) in respect of children or pupils in reception year to year 6 who are failing to attend school or alternative educational provision;
+  - (ii) in respect of a children or pupils in year 7 in a school or where the head teacher and governing body have adopted a relevant curriculum for those year 7 pupils under Part 2 of the 2021 Act, and the child or pupil is failing to attend school;
+- (b) from 1 September 2023, in respect of children or pupils in years 7 and 8 who are failing to attend school or alternative educational provision;
+- (c) from 1 September 2024, in respect of children or pupils in year 9 who are failing to attend school or alternative educational provision;
+- (d) from 1 September 2025, in respect of children or pupils in year 10 who are failing to attend school or alternative educational provision;
+- (e) from 1 September 2026, in respect of children or pupils in all other year groups who are failing to attend school or alternative educational provision.
+
+(3) In regulation 2(1), in paragraph (a) of the definition of “alternative educational provision”, for “19” substitute “19A”.
+
+### 18. The National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013[^key-d9311336a07f3a3a49584791a0d7b172]
+
+Omit regulation 5 of the National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013[^f00024].
+
+### 19. The National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016[^key-597274cefc8def16e26b5dc122b03738]
+
+(1) The National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016[^f00025] are amended as follows.
+
+(2) On 1 September 2024,
+
+- (a) omit regulation 2(a)(iii), and
+- (b) omit regulation 2(b).
+
+(3) On 1 September 2026 omit regulation 2(a)(i).
+
+### 20. The Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022[^key-dc83790146f592c98bc83ca784c81b0c]
+
+In regulation 2(1) of the Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022[^f00026], in the definition of “child” for “1996 Act” substitute “Education Act 1996”.
+
+### 21. The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022[^key-f9fefb5f441e8aa171c9181aac6f893a]
+
+(1) The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022[^f00027] are amended as follows.
+
+(2) In regulation 2 of the English language text—
+
+- (a) in the definition of “the 2021 Act”, for “*y Ddeddf*” substitute “*Deddf 2021*”, and
+- (b) in the definition of “head teacher”, after “head teacher” insert “(“***pennaeth***”)”.
+
+Jeremy Miles
+
+Minister for Education and Welsh Language, one of the Welsh Ministers
+
+4 July 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Curriculum and Assessment (Wales) Act 2021 (“**the 2021 Act**”) establishes a new legal framework for a curriculum and makes provision about assessment for children and pupils in Wales – the Curriculum for Wales (“the CfW”). Section 74(1) of the 2021 Act provides that the Welsh Ministers may make consequential amendments in relation to that Act in order to give it its effect. Section 75(1)(b) of the 2021 Act further provides that the Welsh Ministers may make different provision for different purposes.
+
+The new CfW will be rolled out for children and pupils in a phased manner. The new CfW will become mandatory for the year groups in schools and other settings as follows—
+
+- (a) from 1 September 2022 for—
+  - (i) children for whom funded non-maintained nursery education is provided,
+  - (ii) pupils receiving nursery education at maintained schools and maintained nursery schools,
+  - (iii) pupils in their reception year,
+  - (iv) children and pupils in years 1 to 6, and
+  - (v) children and pupils in year 7 who are provided with a relevant curriculum under Part 2 or 3 of the 2021 Act,
+- (b) from 1 September 2023 for children and pupils—
+  - (i) in year 7, and
+  - (ii) in year 8,
+- (c) from 1 September 2024 for children and pupils in year 9,
+- (d) from 1 September 2025 for children and pupils in year 10, and
+- (e) from 1 September 2026 for children and pupils in year 11.
+
+These Regulations apply in relation to children and pupils to whom education is provided—
+
+- (a) in maintained schools,
+- (b) in maintained nursery schools,
+- (c) by funded non-maintained nursery education providers,
+- (d) in pupil referral units, and
+- (e) by persons who provide teaching and learning for a child otherwise than at a maintained school, maintained nursery school or pupil referral unit by virtue of arrangements made under section 19A of the Education Act 1996.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2021 asc 4](https://www.legislation.gov.uk/asc/2021/4). See section 82(1) for the definition of “regulations”.
+
+[^key-ea26ea2c38a724716b5805db518f7116]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/758/regulation/1) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^key-956eda7d3c36660685408397bed9a4c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/758/regulation/2) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^f00003]: Footnote: Subsection (1) was amended by section 51(1) of, and paragraph 9 of Schedule 7 to, the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44) and subsections (1) and (1A) were further amended by section 215(1) of, and paragraph 34 of Schedule 21 to, the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^key-41615fd35ed4bff6508ef5db6fc1bd7d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/758/regulation/3) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^f00004]: Footnote: [S.I. 1989/954](https://www.legislation.gov.uk/uksi/1989/954). There are amendments not relevant to these Regulations.
+
+[^key-2f95a604c8b1a66dddcf7aa2cb18f064]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/758/regulation/4) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^f00005]: Footnote: [S.I. 1995/1574](https://www.legislation.gov.uk/uksi/1995/1574). Following the consolidation of the Education Reform Act 1988, these Regulations had effect as if made under sections 363 and 569(4) of the 1996 Act. Following the repeal of section 363, they now have effect as if made under sections 112, 117 and 210 of the Education Act 2002.
+
+[^key-33fc347fe1bf636e63edd2254ca1a4e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/758/regulation/5) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^f00006]: Footnote: [S.I. 1999/1442](https://www.legislation.gov.uk/uksi/1999/1442). There are amendments not relevant to these Regulations.
+
+[^key-a7886a59970415601937c53ada60b86e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/758/regulation/6) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^f00007]: Footnote: [S.I. 2002/152 (W. 20)](https://www.legislation.gov.uk/wsi/2002/152) as amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142). There are amendments not relevant to these Regulations.
+
+[^key-49c41a40cb94c10d3b20d138e048f403]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/758/regulation/7) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 7(4), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+
+[^f00008]: Footnote: [S.I. 2002/438 (W. 56)](https://www.legislation.gov.uk/wsi/2002/438) as amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142). There are other amendments not relevant to these Regulations.
+
+[^f00009]: Footnote: Maintained school means a school maintained by an education authority.
+
+[^key-be8d94765d704396fb01d01c812fe0f7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/758/regulation/8) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^f00010]: Footnote: [S.I. 2006/877 (W. 82)](https://www.legislation.gov.uk/wsi/2006/877).
+
+[^key-0a838d949c521306ea6fd57578b6d064]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/758/regulation/9) in force at 1.9.2022 but the amendments come into force in accordance with reg. 9(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+
+[^f00011]: Footnote: [S.I. 2007/1069 (W. 109)](https://www.legislation.gov.uk/wsi/2007/1069). There are amendments not relevant to these Regulations.
+
+[^key-d2e4e9fee6ffa79a6a0c47d8988973f3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/758/regulation/10) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 10(3)(5)(7)(8), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+
+[^f00012]: Footnote: [S.I. 2007/3562 (W. 312)](https://www.legislation.gov.uk/wsi/2007/3562) as amended by [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837). There are other amendments not relevant to these Regulations.
+
+[^key-b3846f0b368fbfa05ac823d1d6f9b2e5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/758/regulation/11) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 11(4), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+
+[^f00013]: Footnote: [S.I. 2009/3355 (W. 294)](https://www.legislation.gov.uk/wsi/2009/3355) as amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142) and [S.I. 2010/2431 (W. 209)](https://www.legislation.gov.uk/wsi/2010/2431). There are other amendments which are not relevant to these Regulations.
+
+[^f00014]: Footnote: Namely (a) funded education provided under arrangements made by a relevant local authority; (b) education provided at an independent school arranged and funded by a local authority in Wales pursuant to section 19A of the 1996 Act; and (c) education provided in a pupil referral unit funded by a relevant local authority.
+
+[^f00015]: Footnote: [S.I. 2010/1954 (W. 187)](https://www.legislation.gov.uk/wsi/2010/1954).
+
+[^key-03eac6ba563afd98d8c94c3969bce365]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/758/regulation/12) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^f00016]: Footnote: [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142).
+
+[^key-1840b84415de3f0ed065992bcc08859c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2022/758/regulation/13) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 13(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+
+[^f00017]: Footnote: [S.I. 2010/1954 (W. 187)](https://www.legislation.gov.uk/wsi/2010/1954).
+
+[^key-bab96bf4fa7103a640d98ed86b977ccd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2022/758/regulation/14) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 14(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+
+[^f00018]: Footnote: [S.I. 2011/1942 (W. 209)](https://www.legislation.gov.uk/wsi/2011/1942). There are amendments not relevant to these Regulations.
+
+[^f00019]: Footnote: “**maintained school**” means a community, foundation or voluntary school or a community or foundation special school (other than one established in a hospital) and, unless the context otherwise requires, a nursery school maintained by a local authority or pupil referral unit.
+
+[^key-6cdceca0c3969addabb7b762787e43d4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2022/758/regulation/15) in force at 1.9.2022 but the amendments come into force in accordance with reg. 15(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+
+[^f00020]: Footnote: [S.I. 2011/1963 (W. 217)](https://www.legislation.gov.uk/wsi/2011/1963) as amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837) and [S.I. 2022/17 (W. 9)](https://www.legislation.gov.uk/wsi/2022/17). There are other amendments not relevant to these Regulations.
+
+[^f00021]: Footnote: “**maintained school**” means (i) any community, foundation or voluntary school, or (ii) any community or foundation special school which is not established in a hospital; but excludes any nursery school.
+
+[^key-d70719f1c2b9c0d9c3611d654ee7ad35]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2022/758/regulation/16) in force at 1.9.2022 but the amendments come into force in accordance with reg. 16(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+
+[^f00022]: Footnote: [S.I. 2012/1797 (W. 227)](https://www.legislation.gov.uk/wsi/2012/1797).
+
+[^key-566fdbe4594914d01b029e1794e5e9f8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2022/758/regulation/17) in force at 1.9.2022 but the amendments come into force in accordance with reg. 17(2), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+
+[^f00023]: Footnote: [S.I. 2013/1983 (W. 193)](https://www.legislation.gov.uk/wsi/2013/1983).
+
+[^key-d9311336a07f3a3a49584791a0d7b172]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2022/758/regulation/18) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^f00024]: Footnote: [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437).
+
+[^key-597274cefc8def16e26b5dc122b03738]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2022/758/regulation/19) in force at 1.9.2022 but the amendments come into force in accordance with reg. 19(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+
+[^f00025]: Footnote: [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837).
+
+[^key-dc83790146f592c98bc83ca784c81b0c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2022/758/regulation/20) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^f00026]: Footnote: [S.I. 2022/111 (W. 39)](https://www.legislation.gov.uk/wsi/2022/111).
+
+[^key-f9fefb5f441e8aa171c9181aac6f893a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2022/758/regulation/21) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+
+[^f00027]: Footnote: [S.I. 2022/679 (W. 155)](https://www.legislation.gov.uk/wsi/2022/679).

@@ -1,0 +1,64 @@
+---
+title: Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025, section 65
+act: Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025
+section: '65'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2025/5/section/65
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025, section 65
+
+> **Warning: changes not yet applied to this text (50).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/asc/2025/5
+>
+> Extent: England, Wales.
+
+## 65. Regulations under this Act[^key-8447a54df698316817ac0a91515d74af]
+
+*Extent: E+W*
+
+(1) A power to make regulations under this Act is exercisable by statutory instrument.
+
+(2) A power to make regulations under this Act includes power—
+
+- (a) to make different provision for different purposes or different areas;
+- (b) to make incidental, supplementary, consequential, transitional or saving provision.
+
+(3) The provision that may be made by virtue of subsection (2)(b) includes provision that amends, modifies, repeals or revokes any enactment (whenever enacted or made, and including any provision of this Act).
+
+(4) A statutory instrument containing any of the following may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru—
+
+- (a) regulations under section 2(5);
+- (b) regulations under section 5(2);
+- (c) regulations under section 26(1);
+- (d) regulations under section 29(5);
+- (e) regulations under section 29(6);
+- (f) regulations under section 31(6);
+- (g) regulations under section 32(2);
+- (h) regulations under section 33(3);
+- (i) regulations under section 34(1);
+- (j) regulations under section 35(8);
+- (k) regulations under section 37(3);
+- (l) regulations under section 45(5);
+- (m) regulations under section 53(1);
+- (n) regulations under section 54(2);
+- (o) regulations under section 57;
+- (p) regulations under section 59(1);
+- (q) regulations under section 60(1);
+- (r) regulations under section 62;
+- (s) regulations under section 64(1), where the regulations amend, modify or repeal an enactment contained in primary legislation (including any provision of this Act).
+
+(5) Any other statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(6) In this section, “**primary legislation**” means the following—
+
+- (a) an Act of Senedd Cymru;
+- (b) an Assembly Measure;
+- (c) an Act of the Parliament of the United Kingdom.
+
+## Annotations
+
+[^key-8447a54df698316817ac0a91515d74af]: Commencement: S. 65 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

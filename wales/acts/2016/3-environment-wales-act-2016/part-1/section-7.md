@@ -1,0 +1,38 @@
+---
+title: Environment (Wales) Act 2016, section 7
+act: Environment (Wales) Act 2016
+section: '7'
+status: revised-with-pending-changes
+text_date: '2026-06-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2016/3/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environment (Wales) Act 2016, section 7
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-06-27. See https://www.legislation.gov.uk/changes/affected/anaw/2016/3
+>
+> Extent: England, Wales.
+
+## 7. Biodiversity lists and duty to take steps to maintain and enhance biodiversity
+
+*Extent: E+W*
+
+(1) The Welsh Ministers must prepare and publish a list of the living organisms and types of habitat which in their opinion are of principal importance for the purpose of maintaining and enhancing biodiversity in relation to Wales.
+
+(2) Before publishing a list under this section the Welsh Ministers must consult the Natural Resources Body for Wales (“NRW”) as to the living organisms or types of habitat to be included in the list.
+
+(3) Without prejudice to section 6, the Welsh Ministers must—
+
+- (a) take all reasonable steps to maintain and enhance the living organisms and types of habitat included in any list published under this section, and
+- (b) encourage others to take such steps.
+
+(4) The Welsh Ministers must, in consultation with NRW—
+
+- (a) keep under review any list published by them under this section,
+- (b) make such revisions of any such list as appear to them appropriate, and
+- (c) publish any list so revised as soon as is reasonably practicable after revising it.
+
+(5) In exercising their functions under this section, the Welsh Ministers must apply the principles of sustainable management of natural resources.

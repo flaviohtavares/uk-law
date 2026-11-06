@@ -1,0 +1,44 @@
+---
+title: School Standards and Organisation (Wales) Act 2013, section 93
+act: School Standards and Organisation (Wales) Act 2013
+section: '93'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2013/1/section/93
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# School Standards and Organisation (Wales) Act 2013, section 93
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/anaw/2013/1
+>
+> Extent: England, Wales.
+
+## 93. Information about independent counselling services
+
+*Extent: E+W*
+
+(1) A local authority must comply with a direction given by the Welsh Ministers to the authority—
+
+- (a) to compile information about the independent counselling service it secures under section 92;
+- (b) to provide information about that service to the Welsh Ministers.
+
+(2) A direction under subsection (1) may include instructions to compile or provide information in a way, and at a time, specified in the direction.
+
+(3) A direction under subsection (1) may not require a local authority—
+
+- (a) to provide information about an identified individual;
+- (b) to provide information in a way that, either by itself or in combination with any other information, identifies any individual to whom it relates or enables that individual to be identified.
+
+(4) If the person providing an independent counselling service is not the local authority—
+
+- (a) the local authority must give the person providing the service a copy of any direction given to the authority under subsection (1), and
+- (b) the person providing the service must compile the information necessary for compliance with the direction, and provide it to the local authority, in a way that does not identify the individuals to whom it relates, or enable them to be identified (either by itself or in combination with other information).
+
+(5) A direction under this section—
+
+- (a) must be in writing;
+- (b) may be varied or revoked by a later direction;
+- (c) is enforceable by mandatory order on application by, or on behalf of, the Welsh Ministers.

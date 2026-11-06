@@ -1,0 +1,52 @@
+---
+title: Infrastructure (Wales) Act 2024, section 133
+act: Infrastructure (Wales) Act 2024
+section: '133'
+status: revised-with-pending-changes
+text_date: '2026-03-16'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2024/3/section/133
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Infrastructure (Wales) Act 2024, section 133
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-03-16. See https://www.legislation.gov.uk/changes/affected/asc/2024/3
+>
+> Extent: England, Wales.
+
+## 133. Meaning of “development”[^key-1ab8f6c10de8430858a12a52ef815f5f]
+
+*Extent: E+W*
+
+(1) In this Act, “**development**” has the same meaning as it has in TCPA 1990, subject to subsections (2), (3) and (4).
+
+(2) For the purposes of this Act—
+
+- (a) the conversion of a generating station with a view to its being fuelled by crude liquid petroleum, a petroleum product or natural gas is treated as a material change in the use of the generating station;
+- (b) an increase in the permitted use of an airport is treated as a material change in the use of the airport.
+
+(3) For the purposes of this Act, the following works are taken to be development (to the extent that they would not be otherwise)—
+
+- (a) works for the demolition of a listed building or its alteration or extension in a way that would affect its character as a building of special architectural or historic interest;
+- (b) works for the demolition of a building in a conservation area;
+- (c) works resulting in the demolition or destruction of or any damage to a scheduled monument;
+- (d) works for the purpose of removing or repairing a scheduled monument or any part of it or making any alterations or additions to the monument or any part of it;
+- (e) flooding or tipping operations on land in, on or under which a scheduled monument is situated.
+
+(4) For the purposes of this Act, “**development**” includes operations and changes of use in the sea and other areas covered with waters.
+
+(5) In this section—
+
+- “**conservation area**” (“***ardal gadwraeth***”) means an area designated under section 158 of the [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3);
+- “**flooding operations**” (“***gweithdrediadau i foddi tir***”) has the meaning given by section 75(1) of the Historic Environment (Wales) Act 2023;
+- “**listed building**” (“***adeilad rhestredig***”) has the meaning given by section 76 of the Historic Environment (Wales) Act 2023;
+- “**permitted**” (“***a ganiateir***”) means permitted by planning permission or infrastructure consent;
+- “**petroleum products**” (“***cynhyrchion petroliwm***”) has the meaning given by section 21 of the Energy Act [1976 (c. 76)](https://www.legislation.gov.uk/ukpga/1976/76);
+- “**scheduled monument**” (“***heneb gofrestredig***”) has the meaning given by section 3(7) of the Historic Environment (Wales) Act 2023;
+- “**tipping operations**” (“***gweithrediadau tipio***”) has the meaning given by section 75(1) of the Historic Environment (Wales) Act 2023.
+
+## Annotations
+
+[^key-1ab8f6c10de8430858a12a52ef815f5f]: Commencement: S. 133 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

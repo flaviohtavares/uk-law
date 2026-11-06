@@ -1,0 +1,69 @@
+---
+title: Building Safety (Wales) Act 2026, section 115
+act: Building Safety (Wales) Act 2026
+section: '115'
+status: not-yet-in-force
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2026/5/section/115
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Safety (Wales) Act 2026, section 115
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 115. Remediation contribution orders[^key-2d5c12218dce86e7cebb1f8059cd4148]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The Welsh Ministers must by regulations—
+
+- (a) provide that a residential property tribunal may make a remediation contribution order on the application of an interested person;
+- (b) make further provision in connection with remediation contribution orders.
+
+(2) A remediation contribution order is an order requiring a relevant body corporate or partnership to make payments to a specified person for the purpose of meeting costs incurred or to be incurred in remedying, or otherwise in connection with, relevant defects (or specified relevant defects) relating to a relevant building (“remediation costs”).
+
+(3) Regulations under subsection (1) may provide for remediation contribution orders to require the making of payments—
+
+- (a) of specified amounts or in relation to specified things, or both;
+- (b) at specified times or on demand following specified events, or both.
+
+(4) In subsections (2) and (3) “**specified**” means specified in the remediation contribution order.
+
+(5) In this section—
+
+- “**developer**” (“***datblygwr***”), in relation to a relevant building, means a person who undertook or commissioned the construction or conversion of the building (or part of the building) with a view to granting or disposing of interests in the building or parts of it;
+- “**interested person**” (“***person a chanddo fuddiant***”), in relation to a relevant building, means—
+  - (a) the Welsh Ministers;
+  - (b) the building safety authority for the building;
+  - (c) the fire safety authority for the building;
+  - (d) a person with a legal or equitable interest in the building or any part of it;
+  - (e) any other person specified, or of a description specified, in regulations made by the Welsh Ministers;
+- “**partnership**” (“***partneriaeth***”) means—
+  - (a) a partnership within the meaning of the Partnership Act 1890, or
+  - (b) a limited partnership registered under the Limited Partnerships Act 1907,
+
+  or a firm or entity of a similar character formed under the law of a country or territory outside the United Kingdom;
+- “**relevant body corporate or partnership**” (“***corff corfforedig perthnasol neu bartneriaeth berthnasol***”) means a body corporate or partnership that is—
+  - (a) a landlord under a lease of the relevant building or any part of it,
+  - (b) a person who was such a landlord at the beginning of 20 February 2026,
+  - (c) a developer in relation to the relevant building, or
+  - (d) a person associated with a person within any of paragraphs (a) to (c).
+
+(6) The Welsh Ministers may by regulations—
+
+- (a) make provision about costs that are, or are not, to be regarded as remediation costs;
+- (b) make provision about the circumstances in which a partnership or body corporate is associated with another person;
+- (c) provide that this section applies, with or without modifications, in relation to a building that would, but for section 112(1)(b) or (2), be a relevant building.
+
+(7) The Welsh Ministers must lay a draft of a Welsh statutory instrument containing regulations under subsection (1) before Senedd Cymru before the end of the period of 9 months beginning with the day on which this Act receives Royal Assent.
+
+## Annotations
+
+[^key-2d5c12218dce86e7cebb1f8059cd4148]: Commencement: S. 115 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

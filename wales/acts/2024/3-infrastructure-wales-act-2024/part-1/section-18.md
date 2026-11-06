@@ -1,0 +1,31 @@
+---
+title: Infrastructure (Wales) Act 2024, section 18
+act: Infrastructure (Wales) Act 2024
+section: '18'
+status: revised-with-pending-changes
+text_date: '2026-03-16'
+extent: E+W
+source_url: https://www.legislation.gov.uk/asc/2024/3/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Infrastructure (Wales) Act 2024, section 18
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-03-16. See https://www.legislation.gov.uk/changes/affected/asc/2024/3
+>
+> Extent: England, Wales.
+
+## 18. Cross-border projects[^key-65c115246e854e2f97ff3bf7002ce65c]
+
+*Extent: E+W*
+
+(1) In this Part, references to development being in Wales include development partly in Wales, unless reference is made to a development being wholly in Wales.
+
+(2) In this Part, references to development being in the Welsh marine area include development partly in the Welsh marine area.
+
+(3) If infrastructure consent is required for development that is partly in Wales or partly in Welsh marine area, infrastructure consent is required to the extent it is in Wales or the Welsh marine area (as the case may be).
+
+## Annotations
+
+[^key-65c115246e854e2f97ff3bf7002ce65c]: Commencement: S. 18 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

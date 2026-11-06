@@ -1,0 +1,1180 @@
+---
+title: The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023
+id: wsi/2023/1349
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-12-08'
+text_date: '2026-02-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2023/1349
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2023/1349/pdfs/wsi_20231349_mi.pdf
+- http://www.legislation.gov.uk/wsi/2023/1349/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023
+
+> Text as at 2026-02-05.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2023 No. 1349 (W. 243)
+
+Education, Wales
+
+The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023
+
+Made
+
+8 December 2023
+
+Laid before Senedd Cymru
+
+12 December 2023
+
+Coming into force
+
+4 January 2024
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred upon the Secretary of State by sections 1 and 2 of the Education (Fees and Awards) Act 1983[^f00001] and sections 22(1)(a), (2)(a) and (b) and 42(6) of the Teaching and Higher Education Act 1998[^f00002], and now exercisable by them[^f00003], and powers conferred on them under sections 5(5)(b) and 55(2) of the Higher Education (Wales) Act 2015[^f00004].
+
+## PART 1 — Title, coming into force and application
+
+### 1. Title and coming into force[^key-9d46c8ccec050cb655d0f335229625f7]
+
+(1) The title of these Regulations is the Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023.
+
+(2) These Regulations come into force on 4 January 2024.
+
+### 2. Application[^key-5e1e638099bb4d9e5ba44d06cf0beb6d]
+
+(1) The following regulations apply only in relation to the provision of support, and to fees and awards applicable, in relation to an academic year which begins on or after 1 August 2024, whether or not anything done under these Regulations is done before, on or after 1 August 2024—
+
+- (a) regulations 4, 5, 10, 11, 15, 16, 34, 35, 36, 37, 58, 59, 60, 66 and 67 (amendments relating to family members of Afghan citizens),
+- (b) regulations 6, 12, 13, 17, 19, 20, 21, 22, 23, 24, 38, 39, 40, 41, 61, 62, 68, 69 and 70 (amendments relating to family members of Ukrainian nationals), and
+- (c) regulations 30, 31, 32 and 53 (amendments relating to healthcare bursary – loan for living costs and maintenance loan).
+
+(2) The following regulations apply only in relation to the provision of support in respect of a course which begins on or after 1 August 2024 whether or not anything done under these Regulations is done before, on or after 1 August 2024—
+
+- (a) regulation 54 (amendments to grants for dependants – distance learning students), and
+- (b) regulations 63, 71, 72, 73, 74, 75 and 76 (amendments relating to early termination of eligibility).
+
+## PART 2 — Amendments to the Education (Fees and Awards) (Wales) Regulations 2007
+
+### CHAPTER 1 — Introduction
+
+**3.**[^key-b66a0d19aa05965a04ab2f7a6742c83a] The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this Part.
+
+### CHAPTER 2 — Family members of Afghan citizens
+
+**4.**[^key-aaa361cb6f0c84bb5357d9eecf9b8875] (1) In each of the regulations specified in paragraph (2), after “4C,” insert “4D,”.
+
+(2) The regulations specified for the purpose of paragraph (1) are regulation 4(1)(a), 5(1)(b)(i), 5(1)(c)(i), 6(2)(a), 6(3)(a), 7(2)(a), 7(3)(a), 8(1)(a) and 8(2)(a).
+
+**5.**[^key-92a530811e3e630978347feeb1b5a058] In the Schedule—
+
+- (a) in paragraph 1, in the definition of “person granted leave to enter or remain as a protected person”—
+  - (i) after paragraph (c) insert “or”;
+  - (ii) omit paragraphs (e), (ea), (eb), (f), (g) and (h);
+- (b) in paragraph 1, at the appropriate place insert—
+
+  > - “**person with leave to enter or remain as a relevant Afghan citizen**” (“***person sydd â chaniatâd i ddod i mewn neu i aros fel dinesydd perthnasol o Affganistan***”) means a person who has—
+  >   - (a) indefinite leave to enter the United Kingdom under paragraph 276BA2 of the immigration rules or indefinite leave to remain in the United Kingdom under paragraph 276BS2 of the immigration rules;
+  >   - (b) indefinite leave to enter the United Kingdom under paragraph ARAP 6.1 of Appendix Afghan Relocation and Assistance Policy to the immigration rules or indefinite leave to remain in the United Kingdom under paragraph ARAP 6.2 of that Appendix to the immigration rules;
+  >   - (c) leave to enter or indefinite leave to enter or remain in the United Kingdom outside the immigration rules on the basis of the Afghan Relocations and Assistance Policy Scheme; or
+  >   - (d) indefinite leave to enter or remain in the United Kingdom outside the immigration rules on the basis of the Afghan Citizens Resettlement Scheme;
+
+  .
+- (c) after paragraph 4C insert—
+
+  > **4D. Persons with leave to enter or remain as a relevant Afghan citizen**
+  >
+  > (1) A person who—
+  >
+  > - (a) is a person with leave to enter or remain as a relevant Afghan citizen;
+  > - (b) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted such leave; and
+  > - (c) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+  >
+  > (2) A person who—
+  >
+  > - (a) is the spouse or civil partner of a person with leave to enter or remain as a relevant Afghan citizen;
+  > - (b) on the leave application date was the spouse or civil partner of a person with leave to enter or remain as a relevant Afghan citizen;
+  > - (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+  > - (d) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+  >
+  > (3) A person who—
+  >
+  > - (a) is—
+  >   - (i) the child of a person with leave to enter or remain as a relevant Afghan citizen; or
+  >   - (ii) the child of the spouse or civil partner of a person with leave to enter or remain as a relevant Afghan citizen;
+  > - (b) on the leave application date was—
+  >   - (i) under 18 years old; and
+  >   - (ii) the child of a person with leave to enter or remain as a relevant Afghan citizen or, as the case may be, the child of a person who was the spouse or civil partner of a person with leave to enter or remain as a relevant Afghan citizen;
+  > - (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+  > - (d) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+  >
+  > (4) In this paragraph, “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a person with leave to enter or remain as a relevant Afghan citizen.
+
+### CHAPTER 3 — Family members of Ukrainian nationals
+
+**6.**[^key-163bf0143badf8ce65628dab113c966c] In the Schedule, in paragraph 4C—
+
+- (a) the existing text becomes sub-paragraph (1);
+- (b) after that sub-paragraph insert—
+
+  > (2) A person who—
+  >
+  > - (a) is the spouse or civil partner of a protected Ukrainian national;
+  > - (b) on the leave application date, was the spouse or civil partner of that person;
+  > - (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+  > - (d) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+  >
+  > (3) A person who—
+  >
+  > - (a) is—
+  >   - (i) the child of a protected Ukrainian national; or
+  >   - (ii) the child of the spouse or civil partner of a protected Ukrainian national;
+  > - (b) on the leave application date was—
+  >   - (i) under 18 years old; and
+  >   - (ii) the child of a protected Ukrainian national or, as the case may be, the child of a person who was the spouse or civil partner of a protected Ukrainian national;
+  > - (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+  > - (d) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+  >
+  > (4) In this paragraph, “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a protected Ukrainian national.
+
+### CHAPTER 4 — Corrections to the Welsh language text
+
+**7.**[^key-57a2f34e71af724c9106651a1862ddf2] (1) In each of the regulations specified in paragraph (2), in the Welsh language text—
+
+- (a) after “9C,” insert “9Ch,”;
+- (b) omit “9E,”.
+
+(2) The regulations specified for the purpose of paragraph (1) are regulations 4(1)(a), 5(1)(b)(i), 6(2)(a), 6(3)(a), 7(2)(a), 7(3)(a), 8(1)(a) and 8(2)(a).
+
+## PART 3 — Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-93bf557828a421abccb97a0d788630df]
+
+**No longer in force.**
+
+### CHAPTER 1 — Introduction[^key-93bf557828a421abccb97a0d788630df]
+
+**8.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 2 — Amendments to the definition of “person with leave to enter or remain as a relevant Afghan citizen”[^key-93bf557828a421abccb97a0d788630df]
+
+**9.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 3 — Family members of Afghan citizens[^key-93bf557828a421abccb97a0d788630df]
+
+**10.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 4 — Family members of Ukrainian nationals[^key-93bf557828a421abccb97a0d788630df]
+
+**12.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015
+
+### CHAPTER 1 — Introduction
+
+**14.**[^key-a5e66725b61beb9297763b902f9a20b6] The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00007] are amended in accordance with this Part.
+
+### CHAPTER 2 — Family members of Afghan citizens
+
+**15.**[^key-f094cfcb30e37090bd6688e7620eaef1] In regulation 4(9)(a), after “4C,” insert “4D,”.
+
+**16.**[^key-b9a12b498206994258ef7bb02048a97a] In the Schedule—
+
+- (a) in paragraph 1(1), in the definition of “person granted leave to enter or remain as a protected person”—
+  - (i) after paragraph (c) insert “or”;
+  - (ii) omit paragraphs (e), (ea), (eb), (f), (g) and (h);
+- (b) in paragraph 1(1), at the appropriate place insert—
+
+  > - “**person with leave to enter or remain as a relevant Afghan citizen**” (“***person sydd â chaniatâd i ddod i mewn neu i aros fel dinesydd perthnasol o Affganistan***”) means a person who has—
+  >   - (a) indefinite leave to enter the United Kingdom under paragraph 276BA2 of the immigration rules or indefinite leave to remain in the United Kingdom under paragraph 276BS2 of the immigration rules;
+  >   - (b) indefinite leave to enter the United Kingdom under paragraph ARAP 6.1 of Appendix Afghan Relocation and Assistance Policy to the immigration rules or indefinite leave to remain in the United Kingdom under paragraph ARAP 6.2 of that Appendix to the immigration rules;
+  >   - (c) leave to enter or indefinite leave to enter or remain in the United Kingdom outside the immigration rules on the basis of the Afghan Relocations and Assistance Policy Scheme; or
+  >   - (d) indefinite leave to enter or remain in the United Kingdom outside the immigration rules on the basis of the Afghan Citizens Resettlement Scheme;
+
+  ;
+- (c) After paragraph 4C insert—
+
+  > **4D. Person with leave to enter or remain as a relevant Afghan citizen**
+  >
+  > (1) A person who—
+  >
+  > - (a) is a person with leave to enter or remain as a relevant Afghan citizen;
+  > - (b) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted such leave; and
+  > - (c) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+  >
+  > (2) A person who—
+  >
+  > - (a) is the spouse or civil partner of a person with leave to enter or remain as a relevant Afghan citizen;
+  > - (b) on the leave application date was the spouse or civil partner of a person with leave to enter or remain as a relevant Afghan citizen;
+  > - (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+  > - (d) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+  >
+  > (3) A person who—
+  >
+  > - (a) is—
+  >   - (i) the child of a person with leave to enter or remain as a relevant Afghan citizen; or
+  >   - (ii) the child of the spouse or civil partner of a person with leave to enter or remain as a relevant Afghan citizen;
+  > - (b) on the leave application date was—
+  >   - (i) under 18 years old; and
+  >   - (ii) the child of the person with leave to enter or remain as a relevant Afghan citizen or, as the case may be, the child of a person who was the spouse or civil partner of a person with leave to enter or remain as a relevant Afghan citizen;
+  > - (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+  > - (d) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+  >
+  > (4) In this paragraph, “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a person with leave to enter or remain as a relevant Afghan citizen.
+
+### CHAPTER 3 — Family members of Ukrainian nationals
+
+**17.**[^key-460f4e6cc2f05833c0a3f27389d68f1d] In the Schedule, in paragraph 4C—
+
+- (a) the existing text becomes sub-paragraph (1);
+- (b) after that sub-paragraph insert—
+
+  > (2) A person who—
+  >
+  > - (a) is the spouse or civil partner of a protected Ukrainian national;
+  > - (b) on the leave application date, was the spouse or civil partner of that person;
+  > - (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+  > - (d) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+  >
+  > (3) A person who—
+  >
+  > - (a) is—
+  >   - (i) the child of a protected Ukrainian national; or
+  >   - (ii) the child of a spouse or civil partner of a protected Ukrainian national;
+  > - (b) on the leave application date was—
+  >   - (i) under 18 years old; and
+  >   - (ii) the child of the protected Ukrainian national or, as the case may be, the child of a person who was the spouse or civil partner of a protected Ukrainian national;
+  > - (c) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+  > - (d) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
+  >
+  > (4) In this paragraph, “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a person granted leave to enter or remain as a protected Ukrainian national.
+
+## PART 5 — Amendments to the Education (Student Support) (Wales) Regulations 2017
+
+### CHAPTER 1 — Introduction
+
+**18.**[^key-838dc22d05be0d33e79c07cfa1cf2030] The Education (Student Support) (Wales) Regulations 2017[^f00008] are amended in accordance with this Part.
+
+### CHAPTER 2 — Family members of Ukrainian nationals
+
+**19.**[^key-5cca5e8381ab233b3880cc0fda0f777d] In regulation 4(10F)—
+
+- (a) in sub-paragraph (a), after “Ukrainian national” insert “or the spouse, civil partner, child or step-child of such a person”;
+- (b) in sub-paragraph (b), for “A is allowed to stay in the United Kingdom” substitute “the person granted leave to enter or remain”.
+
+**20.**[^key-17cd6fedb41c06eeca782610145a6bc5] At the end of each of regulations 15(bc), 23(12)(bc), 49(2)(bc), 82(4)(bc) and 111(2)(bc), insert “or the spouse, civil partner, child or step-child of such a person”.
+
+**21.**[^key-c34930a186795d03754d124b342b68fa] In regulation 81(10F)—
+
+- (a) in sub-paragraph (a), after “Ukrainian national” insert “or the spouse, civil partner, child or step-child of such a person”;
+- (b) in sub-paragraph (b), for “A is allowed to stay in the United Kingdom” substitute “the person granted leave to enter or remain”.
+
+**22.**[^key-568c1a60ff6ca57ef498c97940c4ed9b] In regulation 110(12F)—
+
+- (a) in sub-paragraph (a), after “Ukrainian national” insert “or the spouse, civil partner, child or step-child of such a person”;
+- (b) in sub-paragraph (b), for “A is allowed to stay in the United Kingdom” substitute “the person granted leave to enter or remain”.
+
+**23.**[^key-49b369909fd95c9318a2396b50fe680b] In Schedule 1, in paragraph 4ZC—
+
+- (a) the existing text becomes sub-paragraph (1);
+- (b) after that sub-paragraph insert—
+
+  > (2) A person who—
+  >
+  > - (a) is the spouse or civil partner of a protected Ukrainian national;
+  > - (b) on the leave application date was the spouse or civil partner of that person;
+  > - (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+  > - (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+  >
+  > (3) A person who—
+  >
+  > - (a) is—
+  >   - (i) the child of a protected Ukrainian national; or
+  >   - (ii) the child of a spouse or civil partner of a protected Ukrainian national;
+  > - (b) on the leave application date was—
+  >   - (i) under 18 years old; and
+  >   - (ii) the child of a protected Ukrainian national or, as the case may be, the child of a person who was the spouse or civil partner of a protected Ukrainian national;
+  > - (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+  > - (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+  >
+  > (4) In this paragraph, “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a protected Ukrainian national.
+
+**24.**[^key-4210ad78ceb379f0b905b8600b1bb088] In Schedule 4, in paragraph 6(ac), at the end insert “or the spouse, civil partner, child or step-child of such a person”.
+
+### CHAPTER 3 — Scottish healthcare allowances
+
+**25.**[^key-9bd1081e06df88fd1354d18b95da8ddb] In regulation 2(1)—
+
+- (a) in the definition of “bursary year” omit “or a Scottish healthcare allowance”;
+- (b) omit the definition of “Scottish healthcare allowance”.
+
+**26.**[^key-84df645ff827d40986c2b812025691a6] For regulation 4(3)(c) substitute—
+
+> - (c) there has been bestowed on, or paid to, A in relation to A’s attendance on the course a healthcare bursary, other than a universal healthcare bursary, the amount of which is not calculated by reference to A’s income;
+
+.
+
+**27.**[^key-874e28cec3e074c473d46fe877d84593] For regulation 7(5)(b) substitute—
+
+> - (b) the eligible student is to receive any payment under a healthcare bursary the amount of which is calculated by reference to the student’s income; or
+
+.
+
+**28.**[^key-9f1bce8c7f92c569c2ec431990c9d1c7] For regulation 81(3)(a) substitute—
+
+> - (a) there has been bestowed on, or paid to, A in relation to A undertaking the part-time course, a healthcare bursary whether or not the amount of such bursary is calculated by reference to A’s income;
+
+.
+
+**29.**[^key-519a7c5e9e0186b564dd525efa198a70] Omit regulation 110(4)(a)(ii).
+
+### CHAPTER 4 — Amendments relating to healthcare bursary – loan for living costs
+
+**30.**[^key-297ed8438b1d9467ad1b1e6fac503a6f] In regulation 43—
+
+- (a) in the heading, omit “undertaking their first year of study”;
+- (b) in paragraph (1), omit “who is undertaking their first year of study”.
+
+**31.**[^key-d05eb5ec51f446ed0c48fe16ea87654a] In regulation 45—
+
+- (a) in paragraph (1), omit sub-paragraph (a);
+- (b) in paragraph (2), omit sub-paragraph (a).
+
+**32.**[^key-c8c879cb7acabca595d2b8bee798e91e] In regulation 52(i)(i), omit “regulation 23(3) or”.
+
+## PART 6 — Amendments to the Education (Student Support) (Wales) Regulations 2018
+
+### CHAPTER 1 — Introduction
+
+**33.**[^key-a23334ef358be95c1f10dbc78a74df7a] The Education (Student Support) (Wales) Regulations 2018[^f00009] are amended in accordance with this Part.
+
+### CHAPTER 2 — Family members of Afghan citizens
+
+**34.**[^key-d573c77e7c559b9c5fe0aeb3aaed139e] In regulation 23F(1)—
+
+- (a) in sub-paragraph (a), after “(see Schedule 2, paragraph 2ZA)” insert “or the spouse, civil partner, child or stepchild of such a person”;
+- (b) for sub-paragraph (b), substitute—
+
+  > - (b) as at the end of the day before the first day of the academic year in respect of which P is applying for support, the period for which—
+  >   - (i) P, or
+  >   - (ii) the person who, as a result of being a person with leave to enter or remain as a relevant Afghan citizen, caused P to be an eligible student,
+  >
+  >   is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending.
+
+**35.**[^key-f6cb159eca53c25e588034f82913a27a] In each of regulations 80(2)(b)(ic) and 81(3)(b)(ic), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+
+**36.**[^key-d6d10eb37180cb4fcd605f31ea474d5f] In Schedule 2, paragraph 2ZA, sub-paragraph (4)—
+
+- (a) in paragraph (ea)—
+  - (i) omit sub-paragraph (ia);
+  - (ii) after sub-paragraph (ii) insert “or”;
+  - (iii) omit sub-paragraph (iv) and the “or” before it;
+- (b) in paragraph (g)(i)—
+  - (i) omit “or” after paragraph (ab);
+  - (ii) after paragraph (ac) insert—
+
+    > - (ad) a person with leave to enter or remain as a relevant Afghan citizen, or
+
+    ;
+- (c) in paragraph (g)(ii)—
+  - (i) omit “or” after paragraph (aa);
+  - (ii) after paragraph (ab) insert—
+
+    > or
+    >
+    > - (ac) a person with leave to enter or remain as a relevant Afghan citizen,
+
+    ;
+- (d) in paragraph (h)—
+  - (i) omit “or” after sub-paragraph (i);
+  - (ii) at the end of sub-paragraph (ii), for the full stop substitute “, or”;
+  - (iii) after sub-paragraph (ii) insert—
+
+    > - (iii) a person with leave to enter or remain as a relevant Afghan citizen.
+
+**37.**[^key-3b3c49d04ae9eac378a0800b3680b0e2] In Schedule 4—
+
+- (a) in paragraph 13F(1)—
+  - (i) in paragraph (a), after “(see Schedule 2, paragraph 2ZA)” insert “or the spouse, civil partner, child or stepchild of such a person”;
+  - (ii) for paragraph (b) substitute—
+
+    > - (b) as at the end of the day before the first day of the academic year in respect of which P is applying for support, the period for which—
+    >   - (i) P, or
+    >   - (ii) the person who, as a result of being a person with leave to enter or remain as a relevant Afghan citizen, caused P to be an eligible student,
+    >
+    >   is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending.
+
+    ;
+- (b) in paragraph 14(3)(b)(ic), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+
+### CHAPTER 3 — Family members of Ukrainian nationals
+
+**38.**[^key-0259cdb75b8e993dd28c53e51a014b56] In regulation 23G(1)—
+
+- (a) in sub-paragraph (a), after “(see Schedule 2, paragraph 2ZC)” insert “or the spouse, civil partner, child or stepchild of such a person”;
+- (b) for sub-paragraph (b) substitute—
+
+  > - (b) as at the end of the day before the first day of the academic year in respect of which P is applying for support, the period for which—
+  >   - (i) P, or
+  >   - (ii) the person who, as a result of being a person granted leave to remain as a protected Ukrainian national, caused P to be an eligible student,
+  >
+  >   is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted.
+
+**39.**[^key-7a9f61f286fe3b034f767b74a70bc9fa] In each of regulations 80(2)(b)(id) and 81(3)(b)(id), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+
+**40.**[^key-fe74b35a85d024a301153b8c96d1dd4c] In Schedule 2, in paragraph 2ZC—
+
+- (a) after sub-paragraph (1) insert—
+
+  > (1A) A person who—
+  >
+  > - (a) is the spouse or civil partner of a protected Ukrainian national,
+  > - (b) on the leave application date, was the spouse or civil partner of that person,
+  > - (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom, and
+  > - (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+  >
+  > (1B) A person who—
+  >
+  > - (a) is—
+  >   - (i) the child of a protected Ukrainian national, or
+  >   - (ii) the child of the spouse or civil partner of a protected Ukrainian national,
+  > - (b) on the leave application date was—
+  >   - (i) under 18 years old, and
+  >   - (ii) the child of a protected Ukrainian national or, as the case may be, the child of a person who was the spouse or civil partner of a protected Ukrainian national,
+  > - (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom, and
+  > - (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+
+  ;
+- (b) after sub-paragraph (2) insert—
+
+  > (3) In this paragraph “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a person granted leave to enter or remain as a protected Ukrainian national.
+
+**41.**[^key-943c2d60214e43dfdf877ceece219d5b] In Schedule 4—
+
+- (a) in paragraph 13G(1)—
+  - (i) in paragraph (a), after “(see Schedule 2, paragraph 2ZC)” insert “or the spouse, civil partner, child or stepchild of such a person”;
+  - (ii) for paragraph (b) substitute—
+
+    > - (b) as at the end of the day before the first day of the academic year in respect of which P is applying for support, the period for which—
+    >   - (i) P, or
+    >   - (ii) the person who, as a result of being a person granted leave to remain as a protected Ukrainian national, caused P to be an eligible student,
+    >
+    >   is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted.
+
+    ;
+- (b) in paragraph 14(3)(b)(id), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+
+### CHAPTER 4 — Scottish healthcare allowances
+
+**42.**[^key-99f7ab493980e05d331b6236567511f7] In regulation 10—
+
+- (a) in paragraph (1), in Exception 3—
+  - (i) for paragraph (a) substitute—
+
+    > - (a) where the course is a full-time course, a healthcare bursary, the amount of which is not calculated by reference to P’s income (unless it is a bursary grant for living costs);
+
+    ;
+  - (ii) for paragraph (b) substitute—
+
+    > - (b) where the course is a part-time course, a healthcare bursary (whether or not calculated by reference to P’s income).
+
+    ;
+- (b) in paragraph (4), omit the definition of “Scottish healthcare allowance”.
+
+**43.**[^key-b43f920a8cb7e0c6f08aeb6c9faf41b9] In regulation 24(2), in Case 2, for paragraph (b) substitute—
+
+> - (b) the graduate is to receive any payment under a healthcare bursary, the amount of which is calculated by reference to the graduate’s income;
+
+.
+
+**44.**[^key-32953ae93740ce3ae2bbddf14e7b012b] In regulation 39, for Exception 2 (but not the heading before it) substitute—
+
+> Where the present course is not an accelerated graduate entry course, the academic year is a year in respect of which a student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
+
+**45.**[^key-ad92ee9c3191682ccb8747a722ea85fd] In regulation 44(1), for Exception 3 (but not the heading before it) substitute—
+
+> The academic year is a year in respect of which the student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
+
+**46.**[^key-e7f269ebdc4a88799becec7be386b6ab] In regulation 55(3), in Category 2, for paragraph (a) substitute—
+
+> - (a) an academic year in respect of which a student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount), or
+
+.
+
+**47.**[^key-7e4585502aa893e890f1b6eca546acc6] In regulation 62(2), for Exception 3 (but not the heading before it) substitute—
+
+> The present course is a full-time course and the academic year is a year in respect of which the student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
+
+**48.**[^key-dbfb3696e85cbcc711dcd9f56da42fb4] In regulation 65(1), for Condition 3 (but not the heading before it) substitute—
+
+> The academic year is not a year in respect of which the student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
+
+**49.**[^key-c6326ab5281e9d29cd4f64ba1e69d3bc] In regulation 69(2), for Exception 3 (but not the heading before it) substitute—
+
+> The academic year is a year in respect of which the student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
+
+**50.**[^key-def6336a43e42bf82f07ad587efbc406] In Schedule 4, in paragraph 5(1), in Exception 2 omit paragraph (b).
+
+**51.**[^key-fc6da726fc40f1510d5f65caac252f6e] In Schedule 5, in paragraph 2, in Condition 4, for paragraph (b) substitute—
+
+> - (b) is a course where at least one academic year is one in relation to which the eligible Oxbridge student is eligible to apply for a bursary or award of a similar description under section 63 of the Health Services and Public Health Act 1968 or Article 44 of the Health and Personal Social Services (Northern Ireland) Order 1972, provided that the bursary or similar award is calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
+
+**52.**[^key-3c20a094e86c8ef5c49d02189e1682c6] In Schedule 7, in Table 16, omit the table entry relating to “Scottish healthcare allowance”.
+
+### CHAPTER 5 — Amendment relating to healthcare bursary – maintenance loan
+
+**53.**[^key-37a78e7977e017867f4254ff93595340] In regulation 55(3) (as amended by regulation 46 of these Regulations)—
+
+- (a) for Category 1 (but not the heading before it) substitute—
+
+  > An eligible student undertaking an academic year of a designated course, who is not a Category 2 student.
+
+  ;
+- (b) for Category 2 (but not the heading before it) substitute—
+
+  > An eligible student undertaking an academic year of a sandwich course during which the periods of full-time study undertaken by the student are in aggregate less than 10 weeks (unless it is a year to which regulation 44(2) applies).
+
+### CHAPTER 6 — Amendments to grants for dependants – distance learning students
+
+**54.**[^key-2564ceea3c5620c26b0ed994aebb8a54] In regulation 69(2), after Exception 7 insert—
+
+> Exception 8
+>
+> The present course is a distance learning course and the student (“**S**”) is not in Wales on the first day of the first academic year of the course.
+>
+> But this exception does not apply where—
+>
+> - (a) S is not in Wales on the first day of the first academic year of the course because S, or a close relative of S, is serving as a member of the armed forces outside Wales, or
+> - (b) S is unable to be in Wales on the first day of the first academic year of the course for a reason related to coronavirus.
+
+### CHAPTER 7 — Miscellaneous amendments
+
+**55.**[^key-8a845cff26953b78f4bc8b2198d64faa] In Schedule 2, in paragraph 9(2)—
+
+- (a) in paragraph (b), omit “or”
+- (b) after paragraph (b) insert—
+
+  > - (ba) P’s parent, or
+
+  .
+
+**56.**[^key-cf8c62e4772427baed201b9146616070] In Schedule 7, in Table 16, at the appropriate place in alphabetical order of the first column insert the following table entries—
+
+> |  |  |
+> | --- | --- |
+> | “**leave application date**” (for the purpose of determining if a person is a protected spouse or civil partner or a protected child) | Schedule 2, paragraph 2ZA |
+
+> |  |  |
+> | --- | --- |
+> | “**leave application date**” (for the purpose of determining if a person is a protected partner or a child of a protected partner) | Schedule 2, paragraph 2ZB |
+
+> |  |  |
+> | --- | --- |
+> | “**leave application date**” (for the purpose of determining if a person is a spouse, civil partner, child or stepchild of a protected Ukrainian national) | Schedule 2, paragraph 2ZC |
+
+> |  |  |
+> | --- | --- |
+> | “**leave application date**” (for the purpose of determining if a person is a spouse or civil partner of a person with leave to enter or remain or a child of a person with leave to enter or remain or a child of the spouse or civil partner of a person with leave to enter or remain) | Schedule 2, paragraph 3 |
+
+## PART 7 — Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018
+
+### CHAPTER 1 — Introduction
+
+**57.**[^key-b03f896f0652211448e8d98104f5bca5] The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00010] are amended in accordance with this Part.
+
+### CHAPTER 2 — Family members of Afghan citizens
+
+**58.**[^key-432628e3ee430f115f3b844df75ff3ea] In regulation 2(1), in the definition of “person with leave to enter or remain as a relevant Afghan citizen”—
+
+- (a) omit paragraph (aa);
+- (b) after paragraph (b) insert “or”;
+- (c) omit paragraph (d) and the “or” before it.
+
+**59.**[^key-b5e7a3df30d0e2f35c97097fd61fba72] In regulation 8(bc), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+
+**60.**[^key-1df8e8338971dd92b01f049004032d3a] In Schedule 1, paragraph 4A(4)—
+
+- (a) in paragraph (c)(i)—
+  - (i) after paragraph (ab) omit “or”;
+  - (ii) after paragraph (ac) insert—
+
+    > or
+    >
+    > - (ad) a person with leave to enter or remain as a relevant Afghan citizen;
+
+    ;
+- (b) in paragraph (c)(ii)—
+  - (i) after paragraph (aa) omit “or”;
+  - (ii) after paragraph (ab) insert—
+
+    > or
+    >
+    > - (ac) a person with leave to enter or remain as a relevant Afghan citizen;
+
+    ;
+- (c) in paragraph (d)—
+  - (i) after sub-paragraph (i) omit “or”;
+  - (ii) at the end of sub-paragraph (ii), for the full stop substitute “; or”;
+  - (iii) after sub-paragraph (ii) insert—
+
+    > - (iii) a person with leave to enter or remain as a relevant Afghan citizen.
+
+### CHAPTER 3 — Family members of Ukrainian nationals
+
+**61.**[^key-f8db9fe1c68fe9920fa8aa9d2b4f858d] In regulation 8(bd), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+
+**62.**[^key-c1119563339bac307718cc743019bd6a] In Schedule 1, in paragraph 4C—
+
+- (a) the existing text becomes sub-paragraph (1);
+- (b) after that sub-paragraph insert—
+
+  > (2) A person who—
+  >
+  > - (a) is the spouse or civil partner of a protected Ukrainian national;
+  > - (b) on the leave application date was the spouse or civil partner of that person;
+  > - (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to remain in the United Kingdom; and
+  > - (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+  >
+  > (3) A person who
+  >
+  > - (a) is—
+  >   - (i) the child of a protected Ukrainian national; or
+  >   - (ii) the child of the spouse or civil partner of a protected Ukrainian national;
+  > - (b) on the leave application date was—
+  >   - (i) under 18 years old; and
+  >   - (ii) the child of a protected Ukrainian national or, as the case may be, the child of a person who was the spouse or civil partner of a protected Ukrainian national;
+  > - (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to remain in the United Kingdom; and
+  > - (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+  >
+  > (4) In this paragraph, “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a person granted leave to enter or remain as a protected Ukrainian national.
+
+### CHAPTER 4 — Early termination of eligibility
+
+**63.**[^key-0e292b63ac327fcaa33496b522a4a11d] In regulation 3—
+
+- (a) after paragraph (10) insert—
+
+  > (10A) Where—
+  >
+  > - (a) the Welsh Ministers have determined that, by virtue of being a refugee or the spouse, civil partner, child or stepchild of a refugee, a person (“**A**”) was an eligible student in connection with an application for a postgraduate doctoral degree loan for a designated course; and
+  > - (b) as at the day before the relevant day, the refugee status of A, or of A’s spouse, civil partner, parent or step-parent, as the case may be, has expired and no further leave to remain has been granted and no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002),
+  >
+  > A’s status as an eligible student terminates immediately before the relevant day.
+  >
+  > (10B) Where—
+  >
+  > - (a) the Welsh Ministers have determined that, by virtue of being a person granted stateless leave or the spouse, civil partner, child or stepchild of such a person, a person (“**A**”) was an eligible student in connection with an application for a postgraduate doctoral degree loan for a designated course; and
+  > - (b) as at the day before the relevant day, the period for which the person granted stateless leave is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no application for administrative review in accordance with the immigration rules is pending,
+  >
+  > A’s status as an eligible student terminates immediately before the relevant day.
+  >
+  > (10C) Where—
+  >
+  > - (a) the Welsh Ministers have determined that, by virtue of being a person with leave to enter or remain or the spouse, civil partner, child or stepchild of such a person, a person (“**A**”) was an eligible student in connection with an application for a postgraduate doctoral degree loan for a designated course; and
+  > - (b) as at the day before the relevant day, the period for which the person with leave to enter or remain is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002),
+  >
+  > A’s status as an eligible student terminates immediately before the relevant day.
+  >
+  > (10D) Where—
+  >
+  > - (a) the Welsh Ministers have determined that, by virtue of being a person granted humanitarian protection under paragraph 339C of the immigration rules or the spouse, civil partner, child or stepchild of such a person, a person (“**A**”) was an eligible student in connection with an application for a postgraduate doctoral degree loan for a designated course; and
+  > - (b) as at the day before the relevant day, the period for which the person granted humanitarian protection is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002),
+  >
+  > A’s status as an eligible student terminates immediately before the relevant day.
+  >
+  > (10E) Where—
+  >
+  > - (a) the Welsh Ministers have determined that, by virtue of being a person with section 67 leave to remain or the child of such a person, a person (“**A**”) was an eligible student in connection with an application for a postgraduate doctoral degree loan for a designated course; and
+  > - (b) as at the day before the relevant day, the period for which the person with section 67 leave to remain is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002),
+  >
+  > A’s status as an eligible student terminates immediately before the relevant day.
+  >
+  > (10F) Where—
+  >
+  > - (a) the Welsh Ministers have determined that, by virtue of being a person with Calais leave, a person (“**A**”) was an eligible student in connection with an application for a postgraduate doctoral degree loan for a designated course; and
+  > - (b) as at the day before the relevant day, the period for which A is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted,
+  >
+  > A’s status as an eligible student terminates immediately before the relevant day.
+  >
+  > (10G) Where—
+  >
+  > - (a) the Welsh Ministers have determined that, by virtue of being a person with protected rights with limited leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules, a person (“**A**”) was an eligible student in connection with an application for a postgraduate doctoral degree loan for a designated course; and
+  > - (b) as at the day before the relevant day, A no longer has extant limited leave to enter or remain granted by virtue of residence scheme immigration rules, and no further leave to enter or remain has been granted under those rules,
+  >
+  > A’s status as an eligible student terminates immediately before the relevant day.
+  >
+  > (10H) Where—
+  >
+  > - (a) the Welsh Ministers have determined that, by virtue of being a protected Ukrainian national or the spouse, civil partner, child or stepchild of a protected Ukrainian national, a person (“**A**”) was an eligible student in connection with an application for a postgraduate doctoral degree loan for a designated course; and
+  > - (b) as at the day before the relevant day, the status of A as a protected Ukrainian national, or of A’s spouse, civil partner, parent or step-parent, as the case may be, has expired and no further leave to enter or remain has been granted,
+  >
+  > A’s status as an eligible student terminates immediately before the relevant day.
+  >
+  > (10I) Where—
+  >
+  > - (a) the Welsh Ministers have determined that, by virtue of being a person with leave to enter or remain as a relevant Afghan citizen or the spouse, civil partner, child or stepchild of such a person, a person (“**A**”) was an eligible student in connection with an application for a postgraduate doctoral degree loan for a designated course; and
+  > - (b) as at the day before the relevant day, the period for which the person with leave to enter or remain as a relevant Afghan citizen is allowed to stay in the United Kingdom has expired and no further leave to enter or remain has been granted,
+  >
+  > A’s status as an eligible student terminates immediately before the relevant day.
+  >
+  > (10J) Paragraphs (10A), (10B), (10C), (10D), (10E), (10F), (10G), (10H), (10I) or (11) do not apply where, as at the relevant day—
+  >
+  > - (a) A, or
+  > - (b) the person who, as a result of their immigration status, caused A to be an eligible student,
+  >
+  > is a British or Irish citizen.
+
+  ;
+- (b) in paragraph (11)—
+  - (i) in sub-paragraph (b), for “the first day of the first academic year of that designated course” substitute “the relevant day”;
+  - (ii) in the words after sub-paragraph (b), for “the first day of the first academic year of that designated course” substitute “the relevant day”;
+- (c) after paragraph (11) insert—
+
+  > (12) In this regulation, “**relevant day**” means—
+  >
+  > - (a) the first day of the first academic year of the designated course (“the AY1 start date”); or
+  > - (b) if the relevant status or period for which a person is allowed to stay in the United Kingdom expires on or after AY1 start date, the first day of the academic year which begins immediately after the academic year during which the status or period expires.
+
+### CHAPTER 5 — Scottish healthcare allowances
+
+**64.**[^key-9bf24296a88a0fc80a3b9f13dad94d58] Omit regulation 3(3)(j)(ii).
+
+## PART 8 — Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019
+
+### CHAPTER 1 — Introduction
+
+**65.**[^key-12196334d11559b2c0db874c9d90abae] The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00011] are amended in accordance with this Part.
+
+### CHAPTER 2 — Family members of Afghan citizens
+
+**66.**[^key-141b2c764390d7458028feafdc624502] In regulation 16(1)(b)(ia), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+
+**67.**[^key-1bfc5dd90ed6e300432b18367197acf3] In Schedule 2, in paragraph 2A(4)—
+
+- (a) in paragraph (da)—
+  - (i) omit sub-paragraph (ia);
+  - (ii) after sub-paragraph (ii) insert “or”;
+  - (iii) omit sub-paragraph (iv) and the “or” before it;
+- (b) in paragraph (f)(i)—
+  - (i) omit “or” at the end of paragraph (ab);
+  - (ii) at the end of paragraph (ac), for the semi colon substitute “, or”;
+  - (iii) after paragraph (ac) insert—
+
+    > - (ad) a person with leave to enter or remain as a relevant Afghan citizen;
+
+    ;
+- (c) in paragraph (f)(ii)—
+  - (i) omit “or” after paragraph (aa);
+  - (ii) at the end of paragraph (ab), for the semi colon substitute “, or”;
+  - (iii) after paragraph (ab) insert—
+
+    > - (ac) a person with leave to enter or remain as a relevant Afghan citizen;
+
+    ;
+- (d) in paragraph (g)—
+  - (i) omit “or” after sub-paragraph (i);
+  - (ii) at the end of sub-paragraph (ii), for the full stop substitute “, or”;
+  - (iii) after sub-paragraph (ii) insert—
+
+    > - (iii) a person with leave to enter or remain as a relevant Afghan citizen.
+
+### CHAPTER 3 — Family members of Ukrainian nationals
+
+**68.**[^key-ceab07fcdae56ca1faaa637af18f3743] In regulation 16(1)(b)(ib), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+
+**69.**[^key-9045d14efe72e38eb59a748c20b8acac] In Schedule 2, in paragraph 2C—
+
+- (a) after sub-paragraph (1) insert—
+
+  > (1A) A person who—
+  >
+  > - (a) is the spouse or civil partner of a protected Ukrainian national,
+  > - (b) on the leave application date was the spouse or civil partner of that person,
+  > - (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to remain in the United Kingdom, and
+  > - (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+  >
+  > (1B) A person who—
+  >
+  > - (a) is—
+  >   - (i) the child of a protected Ukrainian national, or
+  >   - (ii) the child of the spouse or civil partner of a protected Ukrainian national,
+  > - (b) on the leave application date was—
+  >   - (i) under 18 years old, and
+  >   - (ii) the child of a protected Ukrainian national or, as the case may be, the child of a person who was the spouse or civil partner of a protected Ukrainian national,
+  > - (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to remain in the United Kingdom, and
+  > - (d) is ordinarily resident in Wales on the first day of the first academic year of the course.
+- (b) after sub-paragraph (2) insert—
+
+  > (3) In this paragraph, “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a person granted leave to enter or remain as a protected Ukrainian national.
+
+**70.**[^key-d4c4fce7544962344ba7cbc6df663866] In Schedule 4, in Table 3, after the entry for “leave application date” in the second place it occurs, insert the following table entry—
+
+> |  |  |
+> | --- | --- |
+> | “**leave application date**” (for the purpose of determining if a person is a spouse, civil partner, child or stepchild of a protected Ukrainian national) | Schedule 2, paragraph 2C(3) |
+
+### CHAPTER 4 — Early termination of eligibility
+
+**71.**[^key-84c1f5f672162311de1cb6d283631ce5] Before regulation 12A insert the heading “Persons who cease to have leave to remain under residence scheme immigration rules”.
+
+**72.**[^key-5959f788dc59434eb1c14b9f16f09ea0] In regulation 12A—
+
+- (a) in paragraph (b), for “as at the day before the first day of the first academic year of that designated course” substitute “as at the day before the relevant day”;
+- (b) in the words after paragraph (b), for “immediately before the first day of the first academic year of that designated course” substitute “immediately before the relevant day”.
+
+**73.**[^key-6e511871a2a48046676ee826e61c9b66] After regulation 12A insert—
+
+> **12AA.** Where—
+>
+> - (a) the Welsh Ministers have determined that, by virtue of being a person with protected rights with limited leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules, a person (“**A**”) was an eligible student in connection with an application for support for a designated course; and
+> - (b) as at the end of the day before the relevant day, A no longer has extant limited leave to enter or remain granted by virtue of residence scheme immigration rules, and no further leave to enter or remain has been granted under those rules,
+>
+> A’s status as an eligible student terminates immediately before the relevant day.
+
+**74.**[^key-2c72d46009b73116c8d4ee026e747f3d] After regulation 12AA (as inserted by regulation 73 of these Regulations) insert—
+
+> **12B. Refugees who cease to have leave to remain**
+>
+> Where—
+>
+> - (a) the Welsh Ministers have determined that, by virtue of being a refugee or the spouse, civil partner, child or stepchild of a refugee, a person (“**A**”) was an eligible student in connection with an application for support for a designated course, and
+> - (b) as at the day before the relevant day, the refugee status of A, or of A’s spouse, civil partner, parent or step-parent, as the case may be, has expired and no further leave to remain has been granted and no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002),
+>
+> A’s status as an eligible student terminates immediately before the relevant day.
+>
+> **12C. Persons who cease to have stateless leave**
+>
+> Where—
+>
+> - (a) the Welsh Ministers have determined that, by virtue of being a person granted stateless leave or the spouse, civil partner, child or stepchild of such a person, a person (“**A**”) was an eligible student in connection with an application for support for a designated course, and
+> - (b) as at the day before the relevant day, the period for which the person granted stateless leave is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no application for administrative review in accordance with the immigration rules is pending,
+>
+> A’s status as an eligible student terminates immediately before the relevant day.
+>
+> **12D. Persons who cease to have leave to enter or remain**
+>
+> Where—
+>
+> - (a) the Welsh Ministers have determined that, by virtue of being a person with leave to enter or remain or the spouse, civil partner, child or stepchild of such a person, a person (“**A**”) was an eligible student in connection with an application for support for a designated course, and
+> - (b) as at the day before the relevant day, the period for which the person with leave to enter or remain is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002),
+>
+> A’s status as an eligible student terminates immediately before the relevant day.
+>
+> **12E. Persons who cease to have humanitarian protection**
+>
+> Where—
+>
+> - (a) the Welsh Ministers have determined that, by virtue of being a person granted leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules or the spouse, civil partner, child or stepchild of such a person, a person (“**A**”) was an eligible student in connection with an application for support for a designated course, and
+> - (b) as at the day before the relevant day, the period for which the person with leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002),
+>
+> A’s status as an eligible student terminates immediately before the relevant day.
+>
+> **12F. Persons who cease to have section 67 leave to remain**
+>
+> Where—
+>
+> - (a) the Welsh Ministers have determined that, by virtue of being a person with section 67 leave to remain or the child of such a person, a person (“**A**”) was an eligible student in connection with an application for support for a designated course, and
+> - (b) as at the day before the relevant day, the period for which the person with section 67 leave to remain is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002),
+>
+> A’s status as an eligible student terminates immediately before the relevant day.
+>
+> **12G. Persons who cease to have Calais leave**
+>
+> Where—
+>
+> - (a) the Welsh Ministers have determined that by virtue of being a person with Calais leave, a person (“**A**”) was an eligible student in connection with an application for support for a designated course, and
+> - (b) as at the day before the relevant day, the period for which A is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted,
+>
+> A’s status as an eligible student terminates immediately before the relevant day.
+>
+> **12H. Persons who cease to be protected Ukrainian nationals**
+>
+> Where—
+>
+> - (a) the Welsh Ministers have determined that, by virtue of being a protected Ukrainian national or the spouse, civil partner, child or stepchild of such a person, a person (“**A**”) was an eligible student in connection with an application for support for a designated course, and
+> - (b) as at the day before the relevant day, the status of A as a protected Ukrainian national or of A’s spouse, civil partner, parent or step-parent, as the case may be, has expired and no further leave to enter or remain has been granted,
+>
+> A’s status as an eligible student terminates immediately before the relevant day.
+>
+> **12I. Persons who cease to have leave to enter or remain as a relevant Afghan citizen**
+>
+> Where—
+>
+> - (a) the Welsh Ministers have determined that, by virtue of being a person with leave to enter or remain as a relevant Afghan citizen or the spouse, civil partner, child or stepchild of such a person, a person (“**A**”) was an eligible student in connection with an application for support for a designated course, and
+> - (b) as at the day before the relevant day, the period for which the person granted leave to enter or remain as a relevant Afghan citizen is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted,
+>
+> A’s status as an eligible student terminates immediately before the relevant day.
+>
+> **12J.** Regulations 12A, 12AA, 12B, 12C, 12D, 12E, 12F, 12G, 12H and 12I do not apply where, as at the end of the day before relevant day—
+>
+> - (a) A, or
+> - (b) the person who, as a result of their immigration status, caused A to be an eligible student,
+>
+> is a British or Irish citizen.
+
+**75.**[^key-9d83bddc21809f64882ba31fbab7a309] In Schedule 1, paragraph 3(1), at the appropriate place insert—
+
+> - “**relevant day**” (“***diwrnod perthnasol***”) means—
+>   - (a) the first day of the first academic year of the designated course (“the AY1 start date”); or
+>   - (b) if the relevant status or period for which a person is allowed to stay in the United Kingdom expires on or after AY1 start date, the first day of the academic year which begins immediately after the academic year during which the status or period expires.
+
+**76.**[^key-273e5833ba1b7e26cb59411ce116921b] In Schedule 4, in Table 3, at the appropriate place insert the following table entry—
+
+> |  |  |
+> | --- | --- |
+> | “relevant day” | Schedule 1, paragraph 3(1) |
+
+### CHAPTER 5 — Scottish healthcare allowances
+
+**77.**[^key-178835b5b93a1c146df639d8afe8774b] In regulation 10(1), in Exception 9, omit paragraph (b).
+
+## PART 9 — Savings
+
+### 78. Interpretation[^key-d77a04009c62c551c90856aee46a4402]
+
+In this Part “**earlier academic year**” means an academic year beginning before 1 August 2024.
+
+### 79. Savings: the Education (European University Institute) (Wales) Regulations 2014[^key-05acdedccdea7b79760268fd942f17c9][^key-63918a3161a3892b330d9c3293348c32]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 80. Savings: the Education (Student Support) (Wales) Regulations 2018[^key-37a15d68c44719bd0fc55129240bf166]
+
+(1) This regulation applies where a current Afghan scheme student (“**S**”) applies for support under the 2018 Regulations in respect of an academic year of a relevant course which begins on or after 1 August 2024 (“**the current course**”).
+
+(2) For the purposes of determining whether S’s status as a relevant student terminates before the first day of the academic year of the current course in respect of which S is applying for support (see regulation 23F and Schedule 4, paragraph 13F of the 2018 Regulations (as the case may be)), the 2018 Regulations apply as if the amendments made by regulations 34, 35, 36 and 37 of these Regulations had not been made.
+
+(3) In this regulation—
+
+- “**the 2018 Regulations**” (“***Rheoliadau 2018***”) means the Education (Student Support) (Wales) Regulations 2018;
+- “**current Afghan scheme student**” (“***myfyriwr cyfredol sydd ar y cynllun Affganistan***”) means a student who the Welsh Ministers determined, by virtue of the student falling within paragraph 2ZA(4)(ea)(ia) or (iv) of Schedule 2 to the 2018 Regulations to be a relevant student—
+  - (a) in connection with an application for support for an earlier academic year of the current course, or
+  - (b) in connection with an application for support for a relevant course from which S’s status as an eligible student or an eligible postgraduate student has been transferred to the current course;
+- “**designated course**” (“***cwrs dynodedig***”), “**designated postgraduate course**” (“***cwrs ôl-radd dynodedig***”), “**eligible student**” (“***myfyriwr cymwys***”) and “**eligible postgraduate student**” (“***myfyriwr ôl-raddedig cymwys***”) have the meanings given in the 2018 Regulations;
+- “**relevant course**” (“***cwrs perthnasol***”) means a designated course or a designated postgraduate course;
+- “**relevant student**” (“***myfyriwr perthnasol***”) means an eligible student or an eligible postgraduate student.
+
+Jeremy Miles
+
+Minister for Education and Welsh language, one of the Welsh Ministers
+
+8 December 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which are in nine Parts, amend various Regulations which make provision about, and in connection with, student finance.
+
+Part 1 makes provision about the coming into force and application of these Regulations.
+
+Parts 2 to 8 make amendments to the following Regulations—
+
+- (a) Part 2 amends the Education (Fees and Awards) (Wales) Regulations 2007 (“**the 2007 Regulations**”),
+- (b) Part 3 amends the Education (European University Institute) (Wales) Regulations 2014 (“**the 2014 Regulations**”),
+- (c) Part 4 amends the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015 (“**the 2015 Regulations**”),
+- (d) Part 5 amends the Education (Student Support) (Wales) Regulations 2017 (“**the 2017 Regulations**”),
+- (e) Part 6 amends the Education (Student Support) (Wales) Regulations 2018 (“**the 2018 Regulations**”),
+- (f) Part 7 amends the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018 (“**the Doctoral Degree Loan Regulations**”), and
+- (g) Part 8 amends the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019 (“**the 2019 Regulations**”).
+
+Part 9 makes savings in respect of the 2014 Regulations and the 2018 Regulations.
+
+Amendments made by these Regulations—
+
+- (a) update the categories of eligible students in the 2014 Regulations, the 2017 Regulations, the 2018 Regulations, the Doctoral Degree Loan Regulations and the 2019 Regulations and make corresponding changes to the 2007 Regulations and the 2015 Regulations, to include certain family members of persons who are granted leave to enter or remain in the United Kingdom under the Afghan or Ukraine related immigration schemes;
+- (b) update the definition of a “person with leave to enter or remain as a relevant Afghan citizen” in the 2014 Regulations as a result of changes to the immigration rules;
+- (c) omit obsolete references to Scottish legislation in the 2017 Regulations and the 2018 Regulations;
+- (d) provide for students who are eligible to apply for a healthcare bursary, to qualify for the full rate of maintenance loan in the 2017 Regulations and the 2018 Regulations;
+- (e) require distance learning students to be in Wales on the first day of the first academic year to qualify for a grant for dependants, unless an exception applies, under the 2018 Regulations; and
+- (f) provide for early termination of eligibility under the Doctoral Degree Loan Regulations and the 2019 Regulations where a student ceases to have certain types of leave to enter or remain in the United Kingdom.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Higher Education Division, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c. 40](https://www.legislation.gov.uk/ukpga/1983/40); section 1 was amended by the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), Schedule 12, paragraph 91; the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), Schedule 8, paragraph 19; the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 7; the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), Schedule 37, paragraph 57(a) and (b); the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraphs 1 and 11; the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 21, paragraph 5 and Schedule 22; the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), Schedule 14, paragraph 9; [S.I. 2005/3238 (W. 243)](https://www.legislation.gov.uk/wsi/2005/3238), Schedule 1, paragraph 9; [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080), Schedule 1, paragraph 12; [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, paragraph 1; the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), Schedule 5, paragraph 5 and Schedule 16, paragraph 5; and the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), Schedule 14, paragraph 33. Section 2 was amended by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44 and Schedule 4.
+
+[^f00002]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); section 22(1) was amended by the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 146. See section 43(1) of the Teaching and Higher Education Act 1998 for the definitions of “prescribed” and “regulations”.
+
+[^f00003]: Footnote: The functions of the Secretary of State in section 1 of the Education (Fees and Awards) Act 1983 were transferred to the National Assembly for Wales so far as exercisable in relation to Wales by the National Assembly for Wales (Transfer of Functions) Order 2006, article 2(a) ([S.I. 2006/1458](https://www.legislation.gov.uk/uksi/2006/1458)) with effect from 8 June 2006. The functions of the Secretary of State in section 2 of that Act were transferred to the National Assembly for Wales so far as exercisable in relation to Wales by the National Assembly for Wales (Transfer of Functions) Order 1999, article 2 and Schedule 1 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) with effect from 1 July 1999. The function of the Secretary of State in section 22(1) of the Teaching and Higher Education Act 1998 was transferred to the National Assembly for Wales, so far as it relates to making provision in relation to Wales by section 44 of the Higher Education Act 2004. Section 44 of the Higher Education Act 2004 also provided that the functions in section 22(2)(a) of the Teaching and Higher Education Act 1998 were to be exercised by the National Assembly for Wales concurrently with the Secretary of State, so far as they relate to making provision in relation to Wales. The Secretary of State’s function in section 42(6) of the Teaching and Higher Education Act 1998, in so far as being exercisable in relation to Wales, was transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999, article 2 and Schedule 1 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). See section 57(1) for the definitions of “prescribed” and “regulations”.
+
+[^key-9d46c8ccec050cb655d0f335229625f7]: Commencement: Reg. 1 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-5e1e638099bb4d9e5ba44d06cf0beb6d]: Commencement: Reg. 2 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-b66a0d19aa05965a04ab2f7a6742c83a]: Commencement: Reg. 3 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633). There are other amending instruments but none are relevant.
+
+[^key-aaa361cb6f0c84bb5357d9eecf9b8875]: Commencement: Reg. 4 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-92a530811e3e630978347feeb1b5a058]: Commencement: Reg. 5 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-163bf0143badf8ce65628dab113c966c]: Commencement: Reg. 6 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-57a2f34e71af724c9106651a1862ddf2]: Commencement: Reg. 7 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-93bf557828a421abccb97a0d788630df]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2023/1349/part/3) omitted (with application in accordance with reg. 2 of the amending W.S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(k)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/k)
+
+[^key-a5e66725b61beb9297763b902f9a20b6]: Commencement: Reg. 14 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^f00007]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633). There are other amending instruments but none are relevant.
+
+[^key-f094cfcb30e37090bd6688e7620eaef1]: Commencement: Reg. 15 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-b9a12b498206994258ef7bb02048a97a]: Commencement: Reg. 16 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-460f4e6cc2f05833c0a3f27389d68f1d]: Commencement: Reg. 17 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-838dc22d05be0d33e79c07cfa1cf2030]: Commencement: Reg. 18 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^f00008]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), amended by [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87). There are other amending instruments but none are relevant.
+
+[^key-5cca5e8381ab233b3880cc0fda0f777d]: Commencement: Reg. 19 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-17cd6fedb41c06eeca782610145a6bc5]: Commencement: Reg. 20 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-c34930a186795d03754d124b342b68fa]: Commencement: Reg. 21 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-568c1a60ff6ca57ef498c97940c4ed9b]: Commencement: Reg. 22 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-49b369909fd95c9318a2396b50fe680b]: Commencement: Reg. 23 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-4210ad78ceb379f0b905b8600b1bb088]: Commencement: Reg. 24 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-9bd1081e06df88fd1354d18b95da8ddb]: Commencement: Reg. 25 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-84df645ff827d40986c2b812025691a6]: Commencement: Reg. 26 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-874e28cec3e074c473d46fe877d84593]: Commencement: Reg. 27 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-9f1bce8c7f92c569c2ec431990c9d1c7]: Commencement: Reg. 28 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-519a7c5e9e0186b564dd525efa198a70]: Commencement: Reg. 29 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-297ed8438b1d9467ad1b1e6fac503a6f]: Commencement: Reg. 30 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-d05eb5ec51f446ed0c48fe16ea87654a]: Commencement: Reg. 31 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-c8c879cb7acabca595d2b8bee798e91e]: Commencement: Reg. 32 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-a23334ef358be95c1f10dbc78a74df7a]: Commencement: Reg. 33 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^f00009]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633). There are other amending instruments but none are relevant.
+
+[^key-d573c77e7c559b9c5fe0aeb3aaed139e]: Commencement: Reg. 34 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-f6cb159eca53c25e588034f82913a27a]: Commencement: Reg. 35 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-d6d10eb37180cb4fcd605f31ea474d5f]: Commencement: Reg. 36 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-3b3c49d04ae9eac378a0800b3680b0e2]: Commencement: Reg. 37 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-0259cdb75b8e993dd28c53e51a014b56]: Commencement: Reg. 38 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-7a9f61f286fe3b034f767b74a70bc9fa]: Commencement: Reg. 39 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-fe74b35a85d024a301153b8c96d1dd4c]: Commencement: Reg. 40 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-943c2d60214e43dfdf877ceece219d5b]: Commencement: Reg. 41 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-99f7ab493980e05d331b6236567511f7]: Commencement: Reg. 42 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-b43f920a8cb7e0c6f08aeb6c9faf41b9]: Commencement: Reg. 43 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-32953ae93740ce3ae2bbddf14e7b012b]: Commencement: Reg. 44 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-ad92ee9c3191682ccb8747a722ea85fd]: Commencement: Reg. 45 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-e7f269ebdc4a88799becec7be386b6ab]: Commencement: Reg. 46 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-7e4585502aa893e890f1b6eca546acc6]: Commencement: Reg. 47 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-dbfb3696e85cbcc711dcd9f56da42fb4]: Commencement: Reg. 48 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-c6326ab5281e9d29cd4f64ba1e69d3bc]: Commencement: Reg. 49 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-def6336a43e42bf82f07ad587efbc406]: Commencement: Reg. 50 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-fc6da726fc40f1510d5f65caac252f6e]: Commencement: Reg. 51 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-3c20a094e86c8ef5c49d02189e1682c6]: Commencement: Reg. 52 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-37a78e7977e017867f4254ff93595340]: Commencement: Reg. 53 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-2564ceea3c5620c26b0ed994aebb8a54]: Commencement: Reg. 54 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-8a845cff26953b78f4bc8b2198d64faa]: Commencement: Reg. 55 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-cf8c62e4772427baed201b9146616070]: Commencement: Reg. 56 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-b03f896f0652211448e8d98104f5bca5]: Commencement: Reg. 57 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^f00010]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633). There are other amending instruments but none are relevant.
+
+[^key-432628e3ee430f115f3b844df75ff3ea]: Commencement: Reg. 58 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-b5e7a3df30d0e2f35c97097fd61fba72]: Commencement: Reg. 59 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-1df8e8338971dd92b01f049004032d3a]: Commencement: Reg. 60 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-f8db9fe1c68fe9920fa8aa9d2b4f858d]: Commencement: Reg. 61 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-c1119563339bac307718cc743019bd6a]: Commencement: Reg. 62 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-0e292b63ac327fcaa33496b522a4a11d]: Commencement: Reg. 63 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-9bf24296a88a0fc80a3b9f13dad94d58]: Commencement: Reg. 64 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-12196334d11559b2c0db874c9d90abae]: Commencement: Reg. 65 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^f00011]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633). There are other amending instruments but none are relevant.
+
+[^key-141b2c764390d7458028feafdc624502]: Commencement: Reg. 66 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-1bfc5dd90ed6e300432b18367197acf3]: Commencement: Reg. 67 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-ceab07fcdae56ca1faaa637af18f3743]: Commencement: Reg. 68 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-9045d14efe72e38eb59a748c20b8acac]: Commencement: Reg. 69 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-d4c4fce7544962344ba7cbc6df663866]: Commencement: Reg. 70 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-84c1f5f672162311de1cb6d283631ce5]: Commencement: Reg. 71 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-5959f788dc59434eb1c14b9f16f09ea0]: Commencement: Reg. 72 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-6e511871a2a48046676ee826e61c9b66]: Commencement: Reg. 73 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-2c72d46009b73116c8d4ee026e747f3d]: Commencement: Reg. 74 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-9d83bddc21809f64882ba31fbab7a309]: Commencement: Reg. 75 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-273e5833ba1b7e26cb59411ce116921b]: Commencement: Reg. 76 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-178835b5b93a1c146df639d8afe8774b]: Commencement: Reg. 77 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-d77a04009c62c551c90856aee46a4402]: Commencement: Reg. 78 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-05acdedccdea7b79760268fd942f17c9]: Textual amendment: [Reg. 79](https://www.legislation.gov.uk/wsi/2023/1349/regulation/79) omitted (with application in accordance with reg. 2 of the amending W.S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(k)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/k)
+
+[^key-63918a3161a3892b330d9c3293348c32]: Commencement: Reg. 79 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+
+[^key-37a15d68c44719bd0fc55129240bf166]: Commencement: Reg. 80 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)

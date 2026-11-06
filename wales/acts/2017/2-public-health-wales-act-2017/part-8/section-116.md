@@ -1,0 +1,49 @@
+---
+title: Public Health (Wales) Act 2017, section 116
+act: Public Health (Wales) Act 2017
+section: '116'
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/anaw/2017/2/section/116
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Health (Wales) Act 2017, section 116
+
+> **Warning: changes not yet applied to this text (47).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/anaw/2017/2
+>
+> Extent: England, Wales.
+
+## 116. Local authority power to provide public toilets[^key-59b30d47ba1fe9238bbeff102e1cd4e7]
+
+*Extent: E+W*
+
+(1) A local authority may provide toilets in its area for use by the public.
+
+(2) A local authority must have regard to the relevant local toilets strategy when determining⁠—
+
+- (a) whether to provide toilets under subsection (1), and
+- (b) the types of toilets to be provided.
+
+(3) For the purposes of subsection (2), the relevant local toilets strategy is—
+
+- (a) in the case of a county or county borough council (“a principal council”), the local toilets strategy most recently published under section 113 by that council, and
+- (b) in the case of a community council, the local toilets strategy most recently published under section 113 by the principal council of the area in which the community council is situated.
+
+(4) A local authority may not provide toilets under subsection (1) on or under land adjoining, or in the vicinity of, a highway or proposed highway unless—
+
+- (a) the local authority is (or in the case of a proposed highway, will be) the highway authority for that highway, or
+- (b) the local authority has obtained the consent of the highway authority for that highway, or (in the case of a proposed highway) of the authority that will be the highway authority for that highway, to provide such toilets.
+
+(5) A local authority that provides toilets under this section may charge fees for the use of those toilets.
+
+(6) In this section—
+
+- “**highway**” (“***priffordd***”) has the meaning given by section 113(9);
+- “**local authority**” (“***awdurdod lleol***”) includes a community council.
+
+## Annotations
+
+[^key-59b30d47ba1fe9238bbeff102e1cd4e7]: Commencement: [S. 116](https://www.legislation.gov.uk/anaw/2017/2/section/116) in force at 31.5.2018 by [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/605/article/2/a)

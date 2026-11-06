@@ -1,0 +1,501 @@
+---
+title: The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) Regulations 2003
+id: wsi/2003/3246
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-12-09'
+text_date: '2025-08-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2003/3246
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2003/3246/pdfs/wsi_20033246_mi.pdf
+- http://www.legislation.gov.uk/wsi/2003/3246/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) Regulations 2003
+
+> Text as at 2025-08-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 3246 (W.321)
+
+EDUCATION, WALES
+
+The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) Regulations 2003
+
+Made
+
+9th December 2003
+
+Coming into force
+
+9th January 2004
+
+In exercise of the powers conferred on the National Assembly for Wales by sections 52(3), (4) and (5), 210(7) and 214 of the Education Act 2002[^f00001], and after consultation with the Council on Tribunals in accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00002], the National Assembly for Wales makes the following Regulations:
+
+## 1. Name, commencement and application[^key-a4a23f51b4853b17297c49d298b2176a]
+
+(1) These Regulations are called the Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) Regulations 2003 and come into force on 9th January 2004.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation[^key-4832d39d6fd59b314bb0cb1e69a49493]
+
+(1) In these Regulations —
+
+- “the 2002 Act” (“*Deddf 2002*”) means the Education Act 2002;
+- “the 2003 Regulations” (“*Rheoliadau 2003*”) means the Education (Pupil Exclusions and Appeals) (Maintained Schools) (Wales) Regulations 2003[^f00003];
+- “the relevant person” (“*y person perthnasol*”) means —
+  - (a) in relation to a pupil who was aged 10 or below on the day before the beginning of the school year in which that pupil is excluded, a parent of his or hers;
+  - (b) in relation to a pupil of compulsory school age who was aged 11 or above on the day before the beginning of the school year in which that pupil is excluded, both that pupil and a parent of his or hers;
+  - (c) in relation to a pupil who is above compulsory school age, the pupil himself or herself.
+
+(2) Any exclusion for a fixed period consisting of the period between the morning and afternoon school sessions is for the purposes of these Regulations to be taken as equivalent to a quarter of a school day.
+
+## 3. Responsible Body[^key-aefa12610813d0325b60aa8384fd5612]
+
+For the purposes of section 52(5) of the 2002 Act the management committee of[^key-103fd6045fb43799eabf9aa5d3bb61ec] a pupil referral unit[^f00004] is prescribed as the responsible body in relation to an exclusion[^key-602a4778d39b180407cf5643bd2bdab1] from that pupil referral unit.
+
+## 4. Power of teacher in charge to exclude pupils[^key-ff4175d140360ca4af40ca2b9ee9d20a]
+
+A teacher in charge of a pupil referral unit may not exercise the power under section 52(2) of the 2002 Act so as to exclude a pupil from the pupil referral unit for one or more fixed periods if, as a result, the pupil would be excluded for more than 45 school days in any one school year.
+
+## 5. Exclusion of pupils: duty to inform the relevant person , management committee and local authority[^key-137a2b7b734418427faceb72d237f538][^key-f985876fad0ffd0a257865c3614c982f][^M_F_3ab61dba-356c-426f-f984-fc8277ddde31]
+
+(1) Where the teacher in charge of a pupil referral unit excludes any pupil [^key-7b382ddc83e20043326510c34b2ee780]..., the teacher in charge must without delay take reasonable steps to inform the relevant person of the following matters —
+
+- (a) the period of exclusion or, if the pupil is being permanently excluded, that the pupil is being permanently excluded[^key-1420cf23e8aa03e8f679a74ed1265cc5];
+- (b) the reasons for exclusion;
+- (c) that the relevant person[^key-c33604030ab03f81e2d696696a12927e] may make representations about the exclusion to the management committee[^key-54d396325137b00eb8c8cd34f3ee745a] and that the excluded pupil may also make representations about the exclusion to the management committee where the pupil is not the relevant person; and
+- (d) the means by which such representations may be made.
+
+(1A)[^key-7d1177c6cac3847734bc7e3ca109443a] Where the teacher in charge of a pupil referral unit decides that any exclusion of a pupil for a fixed period should be made permanent, the teacher in charge must without delay take reasonable steps to inform the relevant person of—
+
+- (a) the decision, and
+- (b) the matters specified in sub-paragraphs (b) to (d) of paragraph (1).
+
+(2)[^key-3f851acb3b66e603eee8bbaa1255b85f] Paragraph (3) applies where the teacher in charge of a pupil referral unit—
+
+- (a) excludes any pupil in circumstances where the pupil would, as a result of the exclusion—
+  - (i) be excluded from the pupil referral unit for a total of more than five school days in any one term, or
+  - (ii) lose an opportunity to take any public examination,
+- (b) excludes a pupil permanently, or
+- (c) decides that any exclusion of a pupil should be made permanent.
+
+(3) Where this paragraph applies, the teacher in charge must without delay inform the management committee and the local authority of the following matters—
+
+- (a) the period of the exclusion or, if the pupil is being permanently excluded, that the pupil is being so excluded, or
+- (b) the teacher in charge’s decision that any exclusion of a pupil for a fixed period should be made permanent,
+
+and (in either case) the reasons for it.
+
+(4)[^key-bbb5ba1ea21075b22570201415ece34a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The teacher in charge must in each term inform the management committee and[^key-19b9e01b28b018f30099c014e454f1a6] the local authority of any exclusions which do not fall within paragraph (2)[^key-c7c977300b8cdf91f39e82f3805ec28c] and in respect of each such exclusion must provide details of the period of the exclusion and the reason for it.
+
+## 6. Exclusion of pupils: provision of information to the local authority and the Welsh Ministers[^key-76e4a72538b9ab3f9de75bb140b07f87][^M_F_9e4f255d-18ba-45a6-c040-58c2b757d737][^key-204e919054b3c1e4f204a4e0426a11a1]
+
+(1) The management committee[^key-7f12fb52cacf697c88883e0f4270f60e] must in each term provide the following information on each exclusion to the local authority —
+
+- (a) the excluded pupil’s name, age, date of birth,[^key-338ce40bd8181c73487073b955ac5728] gender and ethnic group;
+- (b) whether the excluded pupil has a statement of special educational needs maintained by a local authority under section 324 of the Education Act 1996[^f00005], is being assessed for such a statement or is receiving support through School Action or School Action Plus pursuant to “The Special Educational Needs Code of Practice for Wales[^f00006]” which was issued under section 313 of the Education Act 1996 and came into force on 1st April 2002;
+- (ba)[^key-0ade47f3abbe543ba76ba1a28c8deb39] where the excluded pupil has or may have additional learning needs, whether the governing body or the local authority is, or was at the time of the exclusion—
+  - (i) determining whether the pupil has additional learning needs,
+  - (ii) preparing an individual development plan for the pupil, or
+  - (iii) maintaining an individual development plan for the pupil,
+
+  in accordance with Part 2 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018;
+- (c) whether the excluded pupil is looked after by a local authority;
+- (d) the period of the exclusion; and
+- (e) the reason for the exclusion.
+
+(2)[^key-c9833d3aa4d9cd2ac8405672f1a7de42] A local authority must provide to the Welsh Ministers at their request any information the local authority has received from a teacher in charge under regulation 5(3) or 5(5) or from a management committee under regulation 6(1).
+
+## 7. Functions of management committee in relation to excluded pupils[^key-13260340406834fde16fcab7115a7671][^key-c06670802546174ff3ff2ed85e7889bb][^key-6cb8e0aa19028e95bb8796268c80d72b]
+
+(1)[^key-278b6b054c9157cfdc2623948f67a55e] Paragraphs (2) to (6) apply where the management committee is informed under regulation 5(3) of—
+
+- (a) the permanent exclusion of a pupil,
+- (b) a decision that any exclusion of a pupil should be made permanent, or
+- (c) the exclusion of any pupil, and the circumstances are that the pupil would, as a result of the exclusion—
+  - (i) be excluded from the pupil referral unit for a total of more than 15 school days in any one term, or
+  - (ii) lose an opportunity to take a public examination.
+
+(2) The management committee[^key-5ee4794b9c376daefd0f0550d896c5f4] must in any such case —
+
+- (a) consider the circumstances in which the pupil was excluded;
+- (b) consider any representations about the exclusion made to the “management committee[^key-c586e7f502b45f33667d9a438d22d6da] —
+  - (i) by the relevant person in pursuance of regulation 5(1)(c),
+  - (ii) by the excluded pupil where the pupil is not the relevant person in pursuance of regulation 5(1)(c), [^key-010c5981a52fb5ff287d25ec3f69d580]...
+  - (iii) by the teacher in charge of the pupil referral unit , and[^key-1c7ef2952295f68d268b2cd1929cb050]
+  - (iv)[^key-1785d1be2f3a55bd48dab41e06bbd8eb] by the local authority;
+- (c) convene a meeting and[^key-0d2a7681a96e55cf78eefde77a29b138] allow each of the following, namely —
+  - (i) the relevant person,
+  - (ii) the excluded pupil where the pupil is not the relevant person, [^key-8243b09aeba937d6d131522cd00b59f9]...
+  - (iii) the teacher in charge of the pupil referral unit,and[^key-beb25e8b58f56144411bddf65c86fccb]
+  - (iv) an officer of the local authority nominated by the authority,
+
+  to attend that meeting[^key-3f25d662dad96cc46f3e7b45bd6c72fe] and to make oral representations about the exclusion; and
+- (d) consider any oral representations so made.
+
+(3)[^key-3156c0f68a6972c802cdcd6f20289ed3] The management committee[^key-d81ab1605c546b2279f31e5b146207c3] must consider whether or not the pupil should be reinstated and they must in addition consider whether the pupil[^key-a9cd66b3169fc07f9ad8bdd552779cce] should be reinstated immediately or reinstated by a particular date and whether it would not be practical for the teacher in charge to comply with a direction requiring the reinstatement of the pupil.
+
+(4) If the management committee[^key-749de8c3954933795b45a25752326953] decide that the pupil should be reinstated, they must, unless they consider that it would not be practical for the teacher in charge to comply with a direction requiring the reinstatement of the pupil,[^key-f690e352bbb6c1f405d46a1d4431b08d] without delay —
+
+- (a) give the appropriate direction to the teacher in charge, and
+- (b) inform the relevant person and the local authority[^key-609acd607d16c829af93958d97edb592] of their decision.
+
+(5) The teacher in charge must comply with any direction of the management committee[^key-9000ecc5c3083be805f548768613fa42] for the reinstatement of a pupil who has been excluded from the pupil referral unit.
+
+(6) If the management committee[^key-7434e5a75a98b27b7e5efbfa9b29fcff] decide that the pupil should not be reinstated , or, having decided that the pupil should be reinstated, decide not to give a direction to the teacher in charge requiring the reinstatement of the pupil[^key-4687306195cab44e993f7e1d012a42d4], they must without delay—[^key-b4078d31a435057e7781c677d12962b4]
+
+- (a) inform the relevant person, the teacher in charge and the local authority of their decision, and
+- (b) in addition, in the case of a pupil who is permanently excluded, give the relevant person notice in writing referring to that decision and stating the following matters—
+  - (i) the reasons for the decision,
+  - (ii) the relevant person’s right to appeal against the decision,
+  - (iii) the person to whom the relevant person should give any notice of appeal,
+  - (iv) that any notice of appeal must contain the grounds of appeal, and
+  - (v) the last date on which an appeal may be made.
+
+(7) Where —
+
+- (a) the teacher in charge of a pupil referral unit excludes a pupil for a fixed period in a case where paragraphs (2) to (6) do not apply; and
+- (b) the management committee[^key-9a68e846f0f31a75792a100dc4aaa146] receive any representations made in pursuance of regulation 5(1)(c) by the relevant person about the exclusion,
+
+they must consider those representations.
+
+(8) Subject to paragraph (9), the management committee[^key-6cb20492457c5ca299e302fbc3a71d1b] must take each of the steps referred to in paragraph (2) —
+
+- (a) not earlier than six school days; and
+- (b) not later than 15 school days, in the case of a permanent exclusion or[^key-714c790f5c2a65da412821b8fc2985c1] an exclusion for a fixed period of more than 15 school days; or
+- (c) not later than 50 school days, in the case of an exclusion for a fixed period of 15 school days or fewer,
+
+after the date on which they were informed of the matters referred to in regulation 5(3)[^key-0b729bbd1c5677b0a4b7f27c4e0ec17d].
+
+(9) Where a pupil has been excluded [^key-a7053c572376fb49b7e9b8ae2382fb58]... in circumstances in which the pupil[^key-909a6943f69dd7b5f87a55357e063c98] would, as a result of the exclusion, lose an opportunity to take a public examination, the management committee[^key-7ee30437b94767916bd29140e60e5cc9] must (so far as it is practical for them to do so) take each of the steps referred to in paragraph (2) before the date on which the pupil is due to take the examination and in any event no later than is required by paragraph (8).
+
+(10) The management committee[^key-8968ac8ea7abff974d37def2b605f498] is not relieved of the duty to take any step referred to in paragraph (2) because it has not been taken within the periods specified in paragraphs (8) and (9).
+
+(11)[^key-770ac61ef00a58c07b3652cf8a1457f1] The notice in writing referred to in paragraph (6)(b) may be given either—
+
+- (a) by delivering it by hand to the relevant person’s last known address, or
+- (b) by sending it by first class post in a properly addressed, pre-paid envelope to the relevant person’s last known address.
+
+## 8. Appeals against permanent exclusion of pupils[^key-e9fbfb06dc75284c1be393f00e9a27e8]
+
+(1) A local authority[^M_F_c1e89756-696e-49a4-8048-10f0a87df35a] must make arrangements for enabling the relevant person to appeal against any decision of the management committee under regulation 7 not to reinstate a pupil who has been permanently excluded[^key-aea0e252cf4da59ff37e7f16edc3e14b] from a pupil referral unit maintained by the authority.
+
+(2) The Schedule to the 2003 Regulations has effect, with the modifications prescribed in the Schedule to these Regulations, in relation to the making and hearing of appeals pursuant to arrangements made under paragraph (1); and in paragraphs (3) to (5) “appeal panel” means an appeal panel constituted in accordance with paragraph 2 of the Schedule to the 2003 Regulations as modified.
+
+(3) An appeal panel must not determine that a pupil is to be reinstated merely because of the failure of any person to comply with any procedural requirement imposed by or under these Regulations in relation to the decision under regulation 7[^key-379c075ebaf9858936d385da9e4d8c96] against which the appeal is brought , or the exclusion or decision by the teacher in charge to which that decision related[^key-8e50747d261d0704be4a23fe3f6a9f9f].
+
+(4) The decision of an appeal panel on an appeal pursuant to arrangements made under paragraph (1) is binding on the relevant person, the teacher in charge , the management committee[^key-965d14dca49e22299def9785f36fee7b] and the local authority.
+
+(5) On such an appeal the appeal panel may —
+
+- (a) uphold the exclusion;
+- (b) direct that the pupil is to be reinstated (either immediately or by a date specified in the direction), or
+- (c) decide that because of exceptional circumstances or for other reasons it is not practical to give a direction requiring the pupil’s[^key-a43ba2b819aba88c3f95b75eb502db3b] reinstatement, but that it would otherwise have been appropriate to give such a direction.
+
+## 9. Exclusion of pupils: guidance[^key-d0a17510bd3e67b2b0331aa7219d01bb]
+
+This regulation applies to any functions of —
+
+- (a) the teacher in charge of a pupil referral unit,
+- (aa)[^key-e2ddff455ab379c88be17895b6c5f4e4] the management committee,
+- (b) a local authority[^M_F_c936026a-e506-4d45-8f06-a527c9ebaf26], or
+- (c) an appeal panel constituted in accordance with paragraph 2 of the Schedule to the 2003 Regulations as modified,
+
+under section 52(2) of the 2002 Act or these Regulations.
+
+(2) In discharging any such function, such a person or body must have regard to any guidance given from time to time by the Welsh Ministers[^key-c60c1457e2186971cdd7c3e84421a0d5].
+
+## 9A. Exclusions — standard of proof[^key-55df2acd82573b685c0cdf0d7ce3affb]
+
+Where it falls to—
+
+- (a) the teacher in charge of a pupil referral unit, in exercise of the power conferred by section 52(2) of the 2002 Act,
+- (b) the management committee[^key-1b2f25517b798157c3855aa84b0b1346], in exercise of functions under regulation 7, or
+- (c) an appeal panel constituted in accordance with paragraph 2 of the Schedule to the 2003 Regulations as modified, in exercise of functions under regulation 8,
+
+to establish any fact, any question as to whether that fact is established must be decided on a balance of probabilities.
+
+## 10. Revocation[^key-813ebb438eed1e057260a6b36009520b]
+
+(1) Subject to paragraph (2) the Education (Pupil Referral Units) (Appeals against Permanent Exclusion) (Wales) Regulations 2003[^f00007] are revoked.
+
+(2) Nothing in paragraph (1) is to affect the continued application of those Regulations by virtue of regulation 7 of the Education Act 2002 (Transitional Provisions) (No.2) (Wales) Regulations 2003[^f00008] (pupils excluded before 9th January 2004).
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00009]
+
+D. Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+9th December 2003
+
+## SCHEDULE — MODIFICATIONS OF THE SCHEDULE TO THE EDUCATION (PUPIL EXCLUSIONS AND APPEALS) (MAINTAINED SCHOOLS) (WALES) REGULATIONS 2003
+
+Regulation 8
+
+**1.**[^key-b3f4731b9148175e819eb8ebe513eb6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**1A.**[^key-4e0f66f8c3146df68465eba4fabb28ef] In paragraph 1(1)—
+
+- (a)[^key-822037f0c87445de2aab3081d40c38d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) for “6(6)(b)” there is substituted “7(6)(b)”.
+
+**2.**[^key-414aca053873a0f178ed3c88619b0b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-62f3c3dfbf7c7bd3bbd88df91bc32364] For “regulation 7(1)” in each place where it occurs, there is substituted “regulation 8(1)”.
+
+**4.**[^key-fde701ae8780ede770e5f06fc279ae3c] For paragraph 2(7) there is substituted —
+
+> (7) The following persons are disqualified for membership of an appeal panel —
+>
+> - (a) any member of the local authority[^M_F_67d76b6e-acca-455b-8752-f1170752bfb3] or of the management committee [^key-97457e176720ef80865573328efd7e89]... of the pupil referral unit in question;
+> - (b) the teacher in charge of, or any teacher at, the pupil referral unit in question or any person who has held any such position within the previous five years;
+> - (c) any person employed by the local authority, other than a person employed as a head teacher or a teacher;
+> - (d) any person who has, or at any time has had, any connection with —
+>   - (i) the local authority or the pupil referral unit, or with any person within paragraph (b) or (c), or
+>   - (ii) the pupil in question or the incident leading to the pupil’s[^key-14fb627811d96e6ca2d7ff7d7f9df849] exclusion,
+>
+>   of a kind which might reasonably be taken to raise doubts about the person’s[^key-24a88802c0c3e16080846832443622c7] ability to act impartially.
+
+.
+
+**5.**[^key-4743a6dc271f3ba9e2932fa213873b54] For paragraph 10(2) there is substituted —
+
+> (2) The panel must also allow —
+>
+> - (a) the teacher in charge to make written representations, to be represented and to appear and make oral representations, [^key-4ec9167369864adce87eb3c001f7035c]...
+> - (aa)[^key-f38676196998f698afb84a12b48768d7] the management committee to make written representations, to be represented and to appear and make oral representations, and
+> - (b) the local authority[^M_F_e0f76a61-694e-4909-f1bf-2a7369926f0e] to make written representations [^key-f5a53b26d35cc5463b02f5f7d942db26]..., to be represented and to appear and make oral representations.
+
+.
+
+**6.**[^key-fec6885b84144e27dd8472748c9c9a32][^key-672adeb62a614f054a433868e15d46d4] In paragraph 14(a), for “the governing body and the head teacher” there is substituted “the management committee and the teacher in charge”.
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe limits on the powers of teachers in charge of pupil referral units to exclude pupils under section 52(2) of the Education Act 2002, and the procedure which is to be followed by the teacher in charge and the local education authority following an exclusion from a pupil referral unit.
+
+Regulation 2 introduces a new definition of “relevant person” for the purposes of these Regulations and also provides that any fixed period exclusion during the lunchtime period is to be counted as an exclusion for a quarter of a school day.
+
+Regulation 3 prescribes the local education authority as the body responsible under section 52(3) of the 2002 Act for considering whether the excluded pupil should be reinstated.
+
+Regulation 5 requires the teacher in charge to inform the relevant person of details of an exclusion. The teacher in charge must also inform the local education authority if the exclusion is permanent, will result in the pupil missing a public examination, or takes the total exclusions for that pupil over five days in a term.
+
+Regulation 6 makes provision as to the range of information that the teacher in charge must provide to the local education authority and the range of information the local education authority must provide to the National Assembly for Wales at its request.
+
+Regulation 7 requires the local education authority, where the exclusion will result in the pupil missing a public examination, or takes the total exclusions for that pupil over 15 days in a term, to consider the circumstances, listen to any representations from the relevant person, the excluded pupil where the pupil is not the relevant person and the teacher in charge, and to decide whether the pupil should be reinstated or not.
+
+Regulation 8 requires the local education authority to make arrangements for the relevant person to appeal against a decision of the teacher in charge to permanently exclude a pupil. A failure to follow procedural requirements is not of itself to lead to a decision to reinstate. The decision of the appeal panel is binding. The panel may decide not to issue a direction requiring reinstatement of the pupil if they consider it is not practical because of exceptional circumstances or other reasons.
+
+Regulation 9 requires teachers in charge, local education authorities and appeal panels to have regard to guidance given by the National Assembly for Wales.
+
+The Schedule prescribes the constitution and procedure for appeal panels by making appropriate modifications to the Schedule to the Education (Pupil Exclusions and Appeals) (Maintained Schools) (Wales) Regulations 2003.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32); *see* section 212(1) for the meaning of “regulations” and “prescribed”.
+
+[^f00002]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53), amended by paragraph 22 of Schedule 21 to the Education Act 2002.
+
+[^key-a4a23f51b4853b17297c49d298b2176a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^key-4832d39d6fd59b314bb0cb1e69a49493]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2003/3246/regulation/2) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^f00003]: Footnote: S.I. [2003/3227 (W.308)](https://www.legislation.gov.uk/wsi/2003/3227).
+
+[^key-aefa12610813d0325b60aa8384fd5612]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2003/3246/regulation/3) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^key-103fd6045fb43799eabf9aa5d3bb61ec]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2003/3246/regulation/3) substituted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/3/2) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^f00004]: Footnote: Pupil referral units are established and maintained under section 19 of the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^key-602a4778d39b180407cf5643bd2bdab1]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2003/3246/regulation/3) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2024/316/regulation/3/3) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-ff4175d140360ca4af40ca2b9ee9d20a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2003/3246/regulation/4) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^key-137a2b7b734418427faceb72d237f538]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^key-f985876fad0ffd0a257865c3614c982f]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5) heading inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/4/2) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^M_F_3ab61dba-356c-426f-f984-fc8277ddde31]: Textual amendment: Words in Regulations substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/uksi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1142/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1142/article/2/3)
+
+[^key-7b382ddc83e20043326510c34b2ee780]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5/1) omitted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/4/3/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-1420cf23e8aa03e8f679a74ed1265cc5]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5/1/a) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/4/3/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-c33604030ab03f81e2d696696a12927e]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5/1/c) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [4(3)(c)(i)](https://www.legislation.gov.uk/wsi/2024/316/regulation/4/3/c/i) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-54d396325137b00eb8c8cd34f3ee745a]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5/1/c) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [4(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2024/316/regulation/4/3/c/ii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-7d1177c6cac3847734bc7e3ca109443a]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5/1A) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2024/316/regulation/4/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-3f851acb3b66e603eee8bbaa1255b85f]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5/2)[(3)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5/3) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [4(5)](https://www.legislation.gov.uk/wsi/2024/316/regulation/4/5) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-bbb5ba1ea21075b22570201415ece34a]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5/4) omitted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [4(6)](https://www.legislation.gov.uk/wsi/2024/316/regulation/4/6) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-19b9e01b28b018f30099c014e454f1a6]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5/5) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [4(7)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/4/7/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-c7c977300b8cdf91f39e82f3805ec28c]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/5/5) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [4(7)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/4/7/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-76e4a72538b9ab3f9de75bb140b07f87]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2003/3246/regulation/6) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^M_F_9e4f255d-18ba-45a6-c040-58c2b757d737]: Textual amendment: Words in Regulations substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/uksi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1142/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1142/article/2/3)
+
+[^key-204e919054b3c1e4f204a4e0426a11a1]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/wsi/2003/3246/regulation/6) heading substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/5/2) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-7f12fb52cacf697c88883e0f4270f60e]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/6/1) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/5/3/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-338ce40bd8181c73487073b955ac5728]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/6/1/a) inserted (1.9.2004) by [The Education (Pupil Exclusions and Appeals) (Wales) (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/1805)](https://www.legislation.gov.uk/wsi/2004/1805), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/1805/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2004/1805/regulation/4)
+
+[^f00005]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^f00006]: Footnote: ISBN 0 7504 27574.
+
+[^key-0ade47f3abbe543ba76ba1a28c8deb39]: Textual amendment: [Reg. 6(1)(ba)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/6/1/ba) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/5/3/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-c9833d3aa4d9cd2ac8405672f1a7de42]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/6/2) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [5(4)](https://www.legislation.gov.uk/wsi/2024/316/regulation/5/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-13260340406834fde16fcab7115a7671]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^key-c06670802546174ff3ff2ed85e7889bb]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7) heading substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/2/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-6cb8e0aa19028e95bb8796268c80d72b]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7) heading substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/2/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-278b6b054c9157cfdc2623948f67a55e]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/1) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/3) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-5ee4794b9c376daefd0f0550d896c5f4]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/2) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/4/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-c586e7f502b45f33667d9a438d22d6da]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/2/b) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(4)(b)(i)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/4/b/i) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-010c5981a52fb5ff287d25ec3f69d580]: Textual amendment: Word in [reg. 7(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/2/b/ii) omitted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(4)(b)(ii)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/4/b/ii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-1c7ef2952295f68d268b2cd1929cb050]: Textual amendment: Word in [reg. 7(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/2/b/iii) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(4)(b)(iii)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/4/b/iii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-1785d1be2f3a55bd48dab41e06bbd8eb]: Textual amendment: [Reg. 7(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/2/b/iv) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(4)(b)(iv)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/4/b/iv) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-0d2a7681a96e55cf78eefde77a29b138]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/2/c) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(4)(c)(i)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/4/c/i) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-8243b09aeba937d6d131522cd00b59f9]: Textual amendment: Word in [reg. 7(2)(c)(ii)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/2/c/ii) omitted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(4)(c)(ii)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/4/c/ii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-beb25e8b58f56144411bddf65c86fccb]: Textual amendment: [Reg. 7(2)(c)(iv)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/2/c/iv) and word inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(4)(c)(iii)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/4/c/iii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-3f25d662dad96cc46f3e7b45bd6c72fe]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/2/c) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(4)(c)(iv)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/4/c/iv) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-3156c0f68a6972c802cdcd6f20289ed3]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/3) substituted (1.9.2004) by [The Education (Pupil Exclusions and Appeals) (Wales) (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/1805)](https://www.legislation.gov.uk/wsi/2004/1805), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/1805/regulation/1/1), [6(1)](https://www.legislation.gov.uk/wsi/2004/1805/regulation/6/1)
+
+[^key-d81ab1605c546b2279f31e5b146207c3]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/3) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(5)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/5/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-a9cd66b3169fc07f9ad8bdd552779cce]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/3) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(5)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/5/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-749de8c3954933795b45a25752326953]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/4) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(6)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/6/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-f690e352bbb6c1f405d46a1d4431b08d]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/4) inserted (1.9.2004) by [The Education (Pupil Exclusions and Appeals) (Wales) (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/1805)](https://www.legislation.gov.uk/wsi/2004/1805), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/1805/regulation/1/1), [6(2)](https://www.legislation.gov.uk/wsi/2004/1805/regulation/6/2)
+
+[^key-609acd607d16c829af93958d97edb592]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/4/b) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(6)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/6/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-9000ecc5c3083be805f548768613fa42]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/5) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(7)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/7) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-7434e5a75a98b27b7e5efbfa9b29fcff]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/6) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(8)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/8/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-4687306195cab44e993f7e1d012a42d4]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/6) inserted (1.9.2004) by [The Education (Pupil Exclusions and Appeals) (Wales) (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/1805)](https://www.legislation.gov.uk/wsi/2004/1805), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/1805/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2004/1805/regulation/6/3)
+
+[^key-b4078d31a435057e7781c677d12962b4]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/6) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(8)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/8/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-9a68e846f0f31a75792a100dc4aaa146]: Textual amendment: Words in [reg. 7(7)(b)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/7/b) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(9)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/9) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-6cb20492457c5ca299e302fbc3a71d1b]: Textual amendment: Words in [reg. 7(8)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/8) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(10)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/10/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-714c790f5c2a65da412821b8fc2985c1]: Textual amendment: Words in [reg. 7(8)(b)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/8/b) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(10)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/10/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-0b729bbd1c5677b0a4b7f27c4e0ec17d]: Textual amendment: Word in [reg. 7(8)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/8) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(10)(c)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/10/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-a7053c572376fb49b7e9b8ae2382fb58]: Textual amendment: Words in [reg. 7(9)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/9) omitted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(11)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/11/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-909a6943f69dd7b5f87a55357e063c98]: Textual amendment: Words in [reg. 7(9)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/9) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(11)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/11/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-7ee30437b94767916bd29140e60e5cc9]: Textual amendment: Words in [reg. 7(9)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/9) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(11)(c)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/11/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-8968ac8ea7abff974d37def2b605f498]: Textual amendment: Words in [reg. 7(10)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/10) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(12)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/12) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-770ac61ef00a58c07b3652cf8a1457f1]: Textual amendment: [Reg. 7(11)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/7/11) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [6(13)](https://www.legislation.gov.uk/wsi/2024/316/regulation/6/13) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-e9fbfb06dc75284c1be393f00e9a27e8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2003/3246/regulation/8) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^M_F_c1e89756-696e-49a4-8048-10f0a87df35a]: Textual amendment: Words in Regulations substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/uksi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1142/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1142/article/2/3)
+
+[^key-aea0e252cf4da59ff37e7f16edc3e14b]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/8/1) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/7/2) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-379c075ebaf9858936d385da9e4d8c96]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/8/3) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/7/3/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-8e50747d261d0704be4a23fe3f6a9f9f]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/8/3) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/wsi/2024/316/regulation/7/3/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-965d14dca49e22299def9785f36fee7b]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/8/4) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [7(4)](https://www.legislation.gov.uk/wsi/2024/316/regulation/7/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-a43ba2b819aba88c3f95b75eb502db3b]: Textual amendment: Words in [reg. 8(5)(c)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/8/5/c) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [7(5)](https://www.legislation.gov.uk/wsi/2024/316/regulation/7/5) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-d0a17510bd3e67b2b0331aa7219d01bb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2003/3246/regulation/9) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^key-e2ddff455ab379c88be17895b6c5f4e4]: Textual amendment: [Reg. 9(1)(aa)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/9/1/aa) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/8/2) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^M_F_c936026a-e506-4d45-8f06-a527c9ebaf26]: Textual amendment: Words in Regulations substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/uksi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1142/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1142/article/2/3)
+
+[^key-c60c1457e2186971cdd7c3e84421a0d5]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/9/2) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [8(3)](https://www.legislation.gov.uk/wsi/2024/316/regulation/8/3) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-55df2acd82573b685c0cdf0d7ce3affb]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/wsi/2003/3246/regulation/9A) inserted (1.9.2004) by [The Education (Pupil Exclusions and Appeals) (Wales) (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/1805)](https://www.legislation.gov.uk/wsi/2004/1805), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/1805/regulation/1/1), [8](https://www.legislation.gov.uk/wsi/2004/1805/regulation/8)
+
+[^key-1b2f25517b798157c3855aa84b0b1346]: Textual amendment: Words in [reg. 9A(b)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/9A/b) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2024/316/regulation/9) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-813ebb438eed1e057260a6b36009520b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2003/3246/regulation/10) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^f00007]: Footnote: S.I. [2003/287 (W.39)](https://www.legislation.gov.uk/wsi/2003/287).
+
+[^f00008]: Footnote: S.I. [2003/2959 (W.277)](https://www.legislation.gov.uk/wsi/2003/2959).
+
+[^f00009]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-b3f4731b9148175e819eb8ebe513eb6b]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/1) omitted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/10/2) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-4e0f66f8c3146df68465eba4fabb28ef]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/1A) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2024/316/regulation/10/3) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-822037f0c87445de2aab3081d40c38d5]: Textual amendment: [Sch. para. 1A(a)](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/1A/a) omitted (1.8.2025) by virtue of [The Amendments to Subordinate Legislation (Miscellaneous Corrections) (Wales) Regulations 2025 (S.I. 2025/805)](https://www.legislation.gov.uk/wsi/2025/805), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/805/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2025/805/regulation/3)
+
+[^key-414aca053873a0f178ed3c88619b0b9e]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/2) omitted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2024/316/regulation/10/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-62f3c3dfbf7c7bd3bbd88df91bc32364]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/3) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^key-fde701ae8780ede770e5f06fc279ae3c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/4) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^M_F_67d76b6e-acca-455b-8752-f1170752bfb3]: Textual amendment: Words in Regulations substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/uksi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1142/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1142/article/2/3)
+
+[^key-97457e176720ef80865573328efd7e89]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/4) omitted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [10(5)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/10/5/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-14fb627811d96e6ca2d7ff7d7f9df849]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/4) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/10/5/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-24a88802c0c3e16080846832443622c7]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/4) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [10(5)(c)](https://www.legislation.gov.uk/wsi/2024/316/regulation/10/5/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-4743a6dc271f3ba9e2932fa213873b54]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/5) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^key-4ec9167369864adce87eb3c001f7035c]: Textual amendment: Word in [Sch. para. 5](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/5) omitted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [10(6)(a)](https://www.legislation.gov.uk/wsi/2024/316/regulation/10/6/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-f38676196998f698afb84a12b48768d7]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/5) inserted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [10(6)(b)](https://www.legislation.gov.uk/wsi/2024/316/regulation/10/6/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^M_F_e0f76a61-694e-4909-f1bf-2a7369926f0e]: Textual amendment: Words in Regulations substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/uksi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1142/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1142/article/2/3)
+
+[^key-f5a53b26d35cc5463b02f5f7d942db26]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/5) omitted (8.4.2024) by virtue of [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [10(6)(c)](https://www.legislation.gov.uk/wsi/2024/316/regulation/10/6/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))
+
+[^key-fec6885b84144e27dd8472748c9c9a32]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/6) in force at 9.1.2004, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/3246/regulation/1/1)
+
+[^key-672adeb62a614f054a433868e15d46d4]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2003/3246/schedule/paragraph/6) substituted (8.4.2024) by [The Education (Pupil Exclusions and Appeals) (Pupil Referral Units) (Wales) (Amendment) Regulations 2024 (S.I. 2024/316)](https://www.legislation.gov.uk/wsi/2024/316), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/316/regulation/1/2), [10(7)](https://www.legislation.gov.uk/wsi/2024/316/regulation/10/7) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/316/regulation/2))

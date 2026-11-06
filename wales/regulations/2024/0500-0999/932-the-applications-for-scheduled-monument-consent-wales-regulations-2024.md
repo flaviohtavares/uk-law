@@ -1,0 +1,284 @@
+---
+title: The Applications for Scheduled Monument Consent (Wales) Regulations 2024
+id: wsi/2024/932
+type: WelshStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-09-09'
+text_date: '2025-12-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/wsi/2024/932
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2024/932/pdfs/wsi_20240932_mi.pdf
+- http://www.legislation.gov.uk/wsi/2024/932/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Applications for Scheduled Monument Consent (Wales) Regulations 2024
+
+> Text as at 2025-12-15.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2024 No. 932 (W. 156)
+
+Historic Environment, Wales
+
+The Applications for Scheduled Monument Consent (Wales) Regulations 2024
+
+Made
+
+9 September 2024
+
+Laid before Senedd Cymru
+
+11 September 2024
+
+Coming into force
+
+4 November 2024
+
+The Welsh Ministers, in exercise of the powers conferred on them by sections 14(3), 209(2) and 211(3)(a) and (4) of the Historic Environment (Wales) Act 2023[^f00001], make the following Regulations.[^key-5fa6009294615bd654293c8daae8a227]
+
+## 1. Title, coming into force and code[^key-f304e23561785ee2b6928807908c22d5]
+
+(1) The title of these Regulations is the Applications for Scheduled Monument Consent (Wales) Regulations 2024.
+
+(2) These Regulations come into force on 4 November 2024.
+
+(3) These Regulations form part of a code of law relating to the historic environment of Wales[^f00002].
+
+## 2. Applying for scheduled monument consent[^key-3e5dab7dd269ad2bedba8e315e423e66]
+
+(1) In addition to the requirements of section 14(2) of the 2023 Act, an application for scheduled monument consent within the meaning of section 13(1) or (2) of that Act must—
+
+- (a) be on a form published by the Welsh Ministers or a form substantially to the same effect,
+- (b) include the matters specified in the form,
+- (c) include the name and address of the owner of the monument, if the applicant is not the owner,
+- (d) include the name and address of the occupier of the monument, if the applicant is not the occupier, and
+- (e) be accompanied by plans and drawings that are necessary to—
+  - (i) identify the land to which the application relates, and
+  - (ii) describe the works that are within section 11(2) of the 2023 Act.
+
+(2) In this regulation—
+
+- “**the 2023 Act**” (“***Deddf 2023***”) means the Historic Environment (Wales) Act 2023;
+- “**owner**” (“***perchennog***”) means—
+  - (a) an owner of the freehold estate, or
+  - (b) a tenant under a lease granted or extended for a fixed term that has at least 7 years left to run.
+
+## 3. Consequential amendments to the Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992[^key-611e4585b8b9bdecb68e377d0ee1fbbe]
+
+(1) The Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992[^f00003] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) omit the definition of “the 2017 Regulations”;
+- (b) in the definition of “scheduled monument consent”, after “Act” insert “in relation to a monument in England, and has the same meaning as in section 13 of the Historic Environment (Wales) Act 2023 in relation to a monument in Wales”.
+
+(3) In regulation 4—
+
+- (a) at the end of the heading, insert “in relation to a monument in England”;
+- (b) in paragraph (1), after “consent” insert “in relation to a monument in England”;
+- (c) in paragraph (2)—
+  - (i) for “Act,” substitute “Act and”;
+  - (ii) omit “and the 2017 Regulations”.
+
+(4) After regulation 4 insert—
+
+> **4A. Modification of procedures for scheduled monument consent in relation to a monument in Wales**
+>
+> (1) This regulation applies where scheduled monument consent is required in relation to a monument in Wales for the purposes of proposals included in a section 6 application and either—
+>
+> - (a) the application for scheduled monument consent has been made not later than 10 weeks after the section 6 application; or
+> - (b) the Secretary of State considers it appropriate that this regulation should apply and has given a direction to that effect.
+>
+> (2) Where this regulation applies, the Historic Environment (Wales) Act 2023 and the Applications for Scheduled Monument Consent (Wales) Regulations 2024 have effect with the modifications in Schedule 3.
+
+(5) In Schedule 2—
+
+- (a) in the heading, for “, the Ancient Monuments” to the end, substitute “and the Ancient Monuments Regulations”;
+- (b) omit paragraph 3.
+
+(6) After Schedule 2 insert—
+
+> **SCHEDULE 3 — Modifications of the Historic Environment (Wales) Act 2023 and the Applications for Scheduled Monument Consent (Wales) Regulations 2024**
+>
+> Regulation 4A
+>
+> **1.** Section 15 of the Historic Environment (Wales) Act 2023 applies as if—
+>
+> - (a) in the Welsh text, after subsection (1)(a), there were inserted—
+>
+>   > - (aa) declarasiwn bod—
+>   >   - (i) hysbysiad o’r cais cydredol wedi ei roi yn unol â rheolau a wnaed o dan adran 6 o Ddeddf Trafnidiaeth a Gweithfeydd 1992 i’r holl bersonau (ac eithrio’r ceisydd) a oedd, ar ddechrau cyfnod o 28 o ddiwrnodau a ddaeth i ben â dyddiad y cais cydredol, yn berchnogion ar yr heneb, a
+>   >   - (ii) pob hysbysiad o’r fath yn cynnwys datganiad bod cais am gydsyniad heneb gofrestredig wedi ei wneud, neu i’w wneud, mewn cysylltiad â’r heneb,
+>
+>   ;
+> - (b) in the English text, after subsection (1)(a) there were inserted—
+>
+>   > - (aa) a declaration that—
+>   >   - (i) notice of the concurrent application has been given in accordance with rules made under section 6 of the Transport and Works Act 1992 to all the persons (other than the applicant) who, at the beginning of a period of 28 days ending with the date of the concurrent application, were owners of the monument, and
+>   >   - (ii) every such notice contains a statement that an application for scheduled monument consent has been, or is to be, made in respect of the monument,
+>
+>   ;
+> - (c) in the Welsh and English texts, in subsection (1)(c)(i), the reference to paragraphs (a) or (b) were a reference to paragraphs (a), (aa) or (b);
+> - (d) in the Welsh text, for subsection (6) there were substituted—
+>
+>   > (6) Yn yr adran hon ystyr “perchennog” yw—
+>   >
+>   > - (a) person sydd, am y tro, â hawl i waredu ffi syml yr heneb (pa un a yw mewn meddiant neu rifersiwn) ond nad yw’n forgeisai nad yw mewn meddiant, neu
+>   > - (b) person sy’n dal les neu gytundeb sydd ag o leiaf 3 blynedd yn weddill, neu berson sydd â hawl i rent ac elw’r tir o dan les neu gytundeb o’r fath.
+>
+>   ;
+> - (e) in the English text, for subsection (6) there were substituted—
+>
+>   > (6) In this section “**owner**” means—
+>   >
+>   > - (a) a person who is, for the time being, entitled to dispose of the fee simple of the monument (whether in possession or reversion) but who is not a mortgagee not in possession, or
+>   > - (b) a person holding, or entitled to the rents and profits of the land under, a lease or agreement that has at least 3 years to run.
+>
+>   ;
+> - (f) in the Welsh text, after subsection (6) there were inserted—
+>
+>   > (7) Yn yr adran hon ystyr “cais cydredol” yw cais a wneir o dan adran 6 o Ddeddf Trafnidiaeth a Gweithfeydd 1992, sy’n ymwneud â chynigion y mae rhoi cydsyniad heneb gofrestredig yn ofynnol ar eu cyfer mewn cysylltiad â’r heneb.
+>
+>   ;
+> - (g) in the English text, after subsection (6) there were inserted—
+>
+>   > (7) In this section “**concurrent application**” means an application made under section 6 of the Transport and Works Act 1992, relating to proposals for which the grant of scheduled monument consent is required in respect of the monument.
+>
+> **2.** The Applications for Scheduled Monument Consent (Wales) Regulations 2024 apply as if—
+>
+> - (a) in regulation 2—
+>   - (i) in the Welsh text, for paragraph (1)(e) there were substituted—
+>
+>     > - (e) dod gyda’r canlynol—
+>     >   - (i) plan sy’n nodi’r heneb y mae’r cais yn ymwneud â hi;
+>     >   - (ii) unrhyw blaniau eraill ac unrhyw luniadau eraill sy’n angenrheidiol i ddisgrifio’r gwaith ac a gaiff gynnwys—
+>     >     - (aa) planiau, lluniadau a thrychiadau manwl;
+>     >     - (bb) darnau o’r planiau, y lluniadau a’r trychiadau a gyflwynwyd gyda’r cais cydredol;
+>     >     - (cc) pan na fo unrhyw blaniau, unrhyw luniadau nac unrhyw drychiadau wedi eu llunio, disgrifiad ysgrifenedig clir o’r gwaith, wedi ei ategu gan unrhyw ddeunyddiau eraill y gall y ceisydd yn rhesymol eu darparu;
+>     >   - (iii) datganiad bod y cais wedi ei wneud at ddiben cynigion sydd wedi eu cynnwys yn y cais cydredol, y mae rhaid iddo roi (pan fônt yn hysbys) ddyddiad a chyfeirnod y cais cydredol.
+>
+>     ;
+>   - (ii) in the English text, for paragraph (1)(e), there were substituted—
+>
+>     > - (e) be accompanied by—
+>     >   - (i) a plan identifying the monument to which the application relates;
+>     >   - (ii) such other plans and drawings as are necessary to describe the works and which may include—
+>     >     - (aa) detailed plans, drawings and sections;
+>     >     - (bb) extracts from the plans, drawings and sections submitted with the concurrent application;
+>     >     - (cc) where no plans, drawings or sections have been prepared, a clear written description of the works supported by such other materials as the applicant is reasonably able to provide;
+>     >   - (iii) a statement that the application is made for the purpose of proposals included in the concurrent application, which must give (where known) the date and reference number of the concurrent application.
+>
+>     ;
+>   - (iii) in the Welsh text, in paragraph (2) there were inserted in the appropriate place—
+>
+>     > - ystyr “**cais cydredol**” (“***concurrent application***”) yw cais a wneir o dan adran 6 o Ddeddf Trafnidiaeth a Gweithfeydd 1992, sy’n ymwneud â chynigion y mae rhoi cydsyniad heneb gofrestredig yn ofynnol ar eu cyfer mewn cysylltiad â’r heneb;
+>
+>     ;
+>   - (iv) in the English text, in paragraph (2) there were inserted in the appropriate place—
+>
+>     > - “**concurrent application**” (“***cais cydredol***”) means an application made under section 6 of the Transport and Works Act 1992, relating to proposals for which the grant of scheduled monument consent is required in respect of the monument;
+>
+>     ;
+> - (b) in the Welsh text, after regulation 2 there were inserted—
+>
+>   > **2A. Ffurf datganiad**
+>   >
+>   > Rhaid i ddatganiad sy’n ofynnol gan adran 15(1)(aa) o Ddeddf yr Amgylchedd Hanesyddol (Cymru) 2023 fod ar y ffurf a ganlyn—
+>   >
+>   > **“Datganiad yn unol ag adran 15(1)(aa) o Ddeddf yr Amgylchedd Hanesyddol (Cymru) 2023**
+>   >
+>   > Mae wedi ei ddatgan—
+>   >
+>   > (1) bod y ceisydd, yn unol â rheolau a wnaed o dan adran 6 o Ddeddf Trafnidiaeth a Gweithfeydd 1992, wedi cyflwyno’r holl hysbysiadau y mae’n ofynnol eu cyflwyno i’r personau (ac eithrio’r ceisydd) a oedd yn berchnogion ar yr heneb ar ddechrau’r cyfnod o 28 o ddiwrnodau a ddaeth i ben â dyddiad cais o dan adran 6;
+>   >
+>   > (2) bod pob hysbysiad o’r fath yn cynnwys datganiad bod y cais cysylltiedig am gydsyniad heneb gofrestredig wedi ei wneud mewn cysylltiad â’r heneb.
+>   >
+>   > Llofnod…………………………….
+>   >
+>   > Dyddiad………………………………….”
+>
+>   ;
+> - (c) in the English text, after regulation 2 there were inserted—
+>
+>   > **2A. Form of declaration**
+>   >
+>   > A declaration which is required by section 15(1)(aa) of the Historic Environment (Wales) Act 2023 must be in the form—
+>   >
+>   > **“Declaration in accordance with section 15(1)(aa) of the Historic Environment (Wales) Act 2023**
+>   >
+>   > It is declared that—
+>   >
+>   > (1) the applicant has served, in accordance with rules made under section 6 of the Transport and Works Act 1992, all the notices required to be served upon the persons (other than the applicant) who were owners of the monument at the beginning of the period of 28 days ending with the date of an application under section 6;
+>   >
+>   > (2) every such notice contains a statement that the accompanying application for scheduled monument consent has been made in respect of the monument.
+>   >
+>   > Signature…………………………….
+>   >
+>   > Date………………………………….”
+
+.
+
+## 4. ...[^key-e272ceb7930aa479b1b2411f1e41d85f][^key-e272ceb7930aa479b1b2411f1e41d85f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Revocation[^key-7fc25bf29a2d355c1448d362ecc5a467]
+
+The Ancient Monuments (Applications for Scheduled Monument Consent) (Wales) Regulations 2017[^f00005] are revoked.
+
+Jane Hutt
+
+Cabinet Secretary for Culture, Social Justice, Trefnydd and Chief Whip, one of the Welsh Ministers
+
+9 September 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under powers given to the Welsh Ministers by the Historic Environment (Wales) Act 2023 (the “**2023 Act**”). The 2023 Act forms part of a code of law relating to the historic environment of Wales. These Regulations also form part of that Code.
+
+The 2023 Act protects monuments of special historic interest. A monument may comprise a building, structure, work, cave or excavation, or site. The 2023 Act provides that the Welsh Ministers must maintain a record (referred to as a “**schedule**”) of monuments in Wales that are of national importance. Particular types of works may only be carried out to a “scheduled monument” if they are authorised by the Welsh Ministers. This authorisation is called “scheduled monument consent” and is granted under Part 2 of the 2023 Act.
+
+The framework for applications for scheduled monument consent is set out in sections 14 and 15 of the 2023 Act. These Regulations make further provision about such applications relating to scheduled monuments in Wales.
+
+Regulation 2 makes further provision about the form and content of an application for scheduled monument consent, how to make such an application and the documents that must be included with it.
+
+Regulation 3 amends the Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992 (the “**1992 Regulations**”). The 1992 Regulations align the procedures for making applications and holding inquiries where an application made under section 6 of the Transport and Works Act 1992 also requires scheduled monument consent.
+
+Regulation 4 makes consequential amendments to the Developments of National Significance (Wales) Regulations 2016.
+
+Regulation 5 revokes the Ancient Monuments (Applications for Scheduled Monument Consent) (Wales) Regulations 2017.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2023 asc 3](https://www.legislation.gov.uk/asc/2023/3).
+
+[^key-5fa6009294615bd654293c8daae8a227]: Modification: Regulations applied (with modifications) (4.11.2024) by [S.I. 1992/3138](https://www.legislation.gov.uk/uksi/1992/3138), [reg. 4A](https://www.legislation.gov.uk/uksi/1992/3138/regulation/4A), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1992/3138/schedule/3/paragraph/2) (as inserted by [The Applications for Scheduled Monument Consent (Wales) Regulations 2024 (S.I. 2024/932)](https://www.legislation.gov.uk/uksi/2024/932), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/932/regulation/1/2), [3(4)(6)](https://www.legislation.gov.uk/uksi/2024/932/regulation/3/4/6))
+
+[^key-f304e23561785ee2b6928807908c22d5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/932/regulation/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
+
+[^f00002]: Footnote: See paragraphs 8 to 10 of the Explanatory Notes to the Historic Environment (Wales) Act 2023, which can be found at https://www.legislation.gov.uk/asc/2023/3/notes/division/3.
+
+[^key-3e5dab7dd269ad2bedba8e315e423e66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/932/regulation/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
+
+[^key-611e4585b8b9bdecb68e377d0ee1fbbe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/932/regulation/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
+
+[^f00003]: Footnote: [S.I. 1992/3138](https://www.legislation.gov.uk/uksi/1992/3138), amended by [S.I. 2017/642 (W. 148)](https://www.legislation.gov.uk/wsi/2017/642).
+
+[^key-e272ceb7930aa479b1b2411f1e41d85f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/932/regulation/4) and heading omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [19(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/19/2) (with [reg. 19(3)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/19/3))
+
+[^key-7fc25bf29a2d355c1448d362ecc5a467]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/932/regulation/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
+
+[^f00005]: Footnote: [S.I. 2017/642 (W. 148)](https://www.legislation.gov.uk/wsi/2017/642).

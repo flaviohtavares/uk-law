@@ -1,0 +1,150 @@
+---
+title: The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2014
+id: wsi/2014/3193
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2014-11-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2014/3193
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2014/3193/pdfs/wsi_20143193_mi.pdf
+- http://www.legislation.gov.uk/wsi/2014/3193/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2014
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2014 No. 3193 (W. 323)
+
+Rating And Valuation, Wales
+
+The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2014
+
+Made
+
+28 November 2014
+
+Laid before the National Assembly for Wales
+
+3 December 2014
+
+Coming into force
+
+31 December 2014
+
+The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 60 of, and paragraphs 4 and 6 of Schedule 8 to, the Local Government Finance Act 1988[^f00001].
+
+## 1. Title and commencement
+
+The title of these Regulations is The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 2014 and they come into force on 31 December 2014.
+
+## 2. Amendment to the Non-Domestic Rating Contributions (Wales) Regulations 1992
+
+(1) The Non-Domestic Rating Contributions (Wales) Regulations 1992[^f00002] are amended as follows in relation to financial years beginning on or after 1 April 2015.
+
+(2) In Schedule 1, for paragraph 3 substitute—
+
+> **3.** (1) The amount which is the total of—
+>
+> - (a) 25 per cent of the difference between the amount calculated in accordance with paragraph 2 and the amount which would be so calculated if, in respect of any relevant day or any day in a preceding year, any determination by the billing authority under section 47(1)(a)[^f00003] of the Act as regards a hereditament in relation to which the condition in section 47(3) applies were taken into account provided that on the chargeable day the ratepayer is a charity or trustees for a charity, and the hereditament is wholly or mainly used for charitable purposes (whether of that charity or of that and other charities);
+> - (b) 90 per cent of the difference between the amount calculated in accordance with paragraph 2 and the amount which would be so calculated if, in respect of any relevant day or any day in a preceding year, any determination by the billing authority under section 47(1)(a) of the Act as regards a hereditament in relation to which the condition in section 47(3) applies were taken into account, provided that one of the following applies on the chargeable day—
+>   - (i) the hereditament is not an excepted hereditament, and all or part of it is occupied for the purposes of one or more institutions or other organisations none of which is established or conducted for profit and each of whose main objects are charitable or are otherwise philanthropic or religious or concerned with education, social welfare, science, literature or the fine arts;
+>   - (ii) the ratepayer is a registered club for the purposes of Chapter 9 of Part 13 of the Corporation Tax Act 2010[^f00004] (community amateur sports clubs) and the hereditament is not an excepted hereditament and is wholly or mainly used—
+>     - (aa) for the purposes of that club; or
+>     - (bb) for the purposes of that club and of other such registered clubs; or
+>   - (iii) the hereditament is not an excepted hereditament, it is wholly or mainly used for purposes of recreation, and all or part of it is occupied for the purposes of a club, society or other organisation not established or conducted for profit; and
+> - (c) 75 per cent of the difference between the amount calculated in accordance with paragraph 2 and the amount which would be so calculated if, in respect of any relevant day or any day in a preceding year, any reduction or remission by the billing authority under section 49[^f00005] of the Act were taken into account;
+>
+> less the amount calculated under sub-paragraph (3) below.
+>
+> (2) For the purposes of sub-paragraph (1) there shall be ignored any determination in so far as it is made in respect of the occupation of a hereditament for the purposes of a maintained school (within the meaning of section 20 of the School Standards and Framework Act 1998[^f00006]).
+>
+> (3) The total of any reduction in a chargeable amount by virtue of a determination under section 47(1)(a) of the Act and any reduction or remission under section 49 of the Act which has been taken into account in a calculation for a preceding year but which—
+>
+> - (a) on the basis of the information before the person making the relevant calculation, should not have been so taken into account; and
+> - (b) has not been taken into account for the purposes of this sub-paragraph in a calculation for a preceding year;
+>
+> multiplied by the relevant percentage.
+>
+> (4) In sub-paragraph (3) above, “the relevant percentage” means—
+>
+> - (a) 25 per cent, in the case of a reduction in a chargeable amount by virtue of any determination by the authority under section 47(1)(a) of the Act as regards a hereditament in relation to which the condition in section 47(3) applies and on the chargeable day the ratepayer is a charity or trustees for a charity, and the hereditament is wholly or mainly used for charitable purposes (whether of that charity or of that and other charities);
+> - (b) 75 per cent, in the case of any other reduction in a chargeable amount by virtue of any determination by the authority under section 47(1)(a) of the Act as regards a hereditament in relation to which the condition in section 47(3) applies and one of the following applies on the chargeable day—
+>   - (i) the hereditament is not an excepted hereditament, and all or part of it is occupied for the purposes of one or more institutions or other organisations none of which is established or conducted for profit and each of whose main objects are charitable or are otherwise philanthropic or religious or concerned with education, social welfare, science, literature or the fine arts;
+>   - (ii) the ratepayer is a registered club for the purposes of Chapter 9 of Part 13 of the Corporation Tax Act 2010 (community amateur sports clubs) and the hereditament is not an excepted hereditament and is wholly or mainly used—
+>     - (aa) for the purposes of that club; or
+>     - (bb) for the purposes of that club and of other such registered clubs; or
+>   - (iii) the hereditament is not an excepted hereditament, it is wholly or mainly used for purposes of recreation, and all or part of it is occupied for the purposes of a club, society or other organisation not established or conducted for profit; and
+> - (c) 75 per cent, in the case of any reduction or remission by the authority under section 49 of the Act.
+
+(3) For Schedule 4 to the 1992 Regulations substitute the Schedule to these Regulations.
+
+Leighton Andrews
+
+Minister for Public Services, one of the Welsh Ministers
+
+28 November 2014
+
+## SCHEDULE
+
+Regulation 2(3)
+
+> **SCHEDULE 4 — ADULT POPULATION FIGURES**
+>
+> | *Billing authority area* | *Prescribed figure* |
+> | --- | --- |
+> | Blaenau Gwent | 55,716 |
+> | Bridgend | 111,450 |
+> | Caerphilly | 140,263 |
+> | Carmarthenshire | 147,313 |
+> | Cardiff | 279,269 |
+> | Ceredigion | 63,416 |
+> | Conwy | 94,048 |
+> | Denbighshire | 75,144 |
+> | Flintshire | 121,016 |
+> | Gwynedd | 98,316 |
+> | Isle of Anglesey | 56,463 |
+> | Merthyr Tydfil | 46,513 |
+> | Monmouthshire | 73,745 |
+> | Neath Port Talbot | 112,063 |
+> | Newport | 113,338 |
+> | Pembrokeshire | 98,378 |
+> | Powys | 107,236 |
+> | Rhondda Cynon Taf | 186,077 |
+> | Swansea | 193,324 |
+> | Torfaen | 71,980 |
+> | Vale of Glamorgan (The) | 100,113 |
+> | Wrexham | 107,020 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply in relation to Wales, amend the Non-Domestic Rating Contributions (Wales) Regulations 1992 ([S.I. 1992/3238](https://www.legislation.gov.uk/uksi/1992/3238)) (“the 1992 Regulations”).
+
+Under Part II of Schedule 8 to the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41) (“the 1988 Act”), billing authorities (in Wales, county and county borough councils) are required to pay amounts (called non-domestic rating contributions) to the Welsh Ministers. The 1992 Regulations contain rules for the calculation of those contributions for Welsh billing authorities.
+
+These Regulations amend those rules for the financial years beginning on or after 1 April 2015 by substituting paragraph 3 of Schedule 1 to the 1992 Regulations. The percentage amounts in respect of discretionary relief in paragraph 3 are unchanged; the amendments are consequential on, and take account of, amendments to section 47 of the 1988 Act made by section 69 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
+
+These Regulations also substitute a new Schedule 4 (Adult Population Figures).
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Section 60 of, and paragraphs 4 and 6 of Schedule 8 to, the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41) were amended by section 5 of, and Part 1 of Schedule 3 to, the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17).
+
+[^f00002]: Footnote: [S.I. 1992/3238](https://www.legislation.gov.uk/uksi/1992/3238), amended by [S.I. 1993/1505](https://www.legislation.gov.uk/uksi/1993/1505), [1993/3077](https://www.legislation.gov.uk/uksi/1993/3077), [1994/547](https://www.legislation.gov.uk/uksi/1994/547), [1994/1742](https://www.legislation.gov.uk/uksi/1994/1742), [1994/3125](https://www.legislation.gov.uk/uksi/1994/3125), [1995/3235](https://www.legislation.gov.uk/uksi/1995/3235), [1996/619](https://www.legislation.gov.uk/uksi/1996/619), [1996/3018](https://www.legislation.gov.uk/uksi/1996/3018), [1997/3003](https://www.legislation.gov.uk/uksi/1997/3003), [1998/2962](https://www.legislation.gov.uk/uksi/1998/2962), [1999/3439 (W. 47)](https://www.legislation.gov.uk/wsi/1999/3439), [2000/3382 (W. 220)](https://www.legislation.gov.uk/wsi/2000/3382), [2001/3910 (W. 322)](https://www.legislation.gov.uk/wsi/2001/3910), [2002/3054 (W. 289)](https://www.legislation.gov.uk/wsi/2002/3054), [2003/3211 (W. 304)](https://www.legislation.gov.uk/wsi/2003/3211), [2004/3232 (W. 280)](https://www.legislation.gov.uk/wsi/2004/3232), [2005/3345 (W. 259)](https://www.legislation.gov.uk/wsi/2005/3345), [2006/3347 (W. 307)](https://www.legislation.gov.uk/wsi/2006/3347), [2007/3343 (W. 295)](https://www.legislation.gov.uk/wsi/2007/3343), [2008/2929 (W. 258)](https://www.legislation.gov.uk/wsi/2008/2929), [2009/3147 (W. 274)](https://www.legislation.gov.uk/wsi/2009/3147), [2010/2889 (W. 239)](https://www.legislation.gov.uk/wsi/2010/2889), [2011/2610 (W. 283)](https://www.legislation.gov.uk/wsi/2011/2610), [2012/3036 (W. 310)](https://www.legislation.gov.uk/wsi/2012/3036) and [2013/3046 (W. 305)](https://www.legislation.gov.uk/wsi/2013/3046).
+
+[^f00003]: Footnote: Section 47 was amended by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraphs 26 and 79(3); the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 13, paragraph 65; the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29), Schedule 1, paragraph 3, and Schedule 3, paragraph 23; the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), Schedule 34, Part 1; the Rating (Former Agricultural Premises and Rural Shops) Act [2001 (c. 14)](https://www.legislation.gov.uk/ukpga/2001/14), section 2; the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), Schedule 7, paragraphs 9 and 10; the Rating (Empty Properties) Act [2007 (c. 9)](https://www.legislation.gov.uk/ukpga/2007/9), Schedule 1, paragraph 2; and the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 69 and Schedule 25, Part 10.
+
+[^f00004]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^f00005]: Footnote: Section 49 was amended by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraphs 27 and 79; the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 13, paragraph 66; and the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), Schedule 7, paragraphs 9(1) and 11.
+
+[^f00006]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Section 20 was amended by the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 21, paragraph 95; the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 3, paragraph 13(1) and (2); [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158); and the [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), Schedule 5, Part 2, paragraph 19(1) and (2).

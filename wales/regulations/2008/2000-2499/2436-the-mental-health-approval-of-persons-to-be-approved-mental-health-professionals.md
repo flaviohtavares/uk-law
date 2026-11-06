@@ -1,0 +1,288 @@
+---
+title: The Mental Health (Approval of Persons to be Approved Mental Health Professionals) (Wales) Regulations 2008
+id: wsi/2008/2436
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-09-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2008/2436
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2008/2436/pdfs/wsi_20082436_mi.pdf
+- http://www.legislation.gov.uk/wsi/2008/2436/made/data.pdf
+pending_changes: 9
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mental Health (Approval of Persons to be Approved Mental Health Professionals) (Wales) Regulations 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 2436 (W.209)
+
+MENTAL HEALTH, WALES
+
+The Mental Health (Approval of Persons to be Approved Mental Health Professionals) (Wales) Regulations 2008
+
+Made
+
+15 September 2008
+
+Laid before the National Assembly for Wales
+
+17 September 2008
+
+Coming into force
+
+3 November 2008
+
+The Welsh Ministers, in exercise of the powers conferred upon them by section 114 of the Mental Health Act 1983[^f00001], hereby make the following Regulations:
+
+## 1. Title, commencement and application
+
+(1) The title of these Regulations is the Mental Health (Approval of Persons to be Approved Mental Health Professionals) (Wales) Regulations 2008 and they come into force on 3 November 2008.
+
+(2) These Regulations apply in relation to Wales.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the Act” (“*y Ddeddf*”) means the Mental Health Act 1983;
+- “AMHP” (“*GPIMC*”) means an approved mental health professional;
+- except in the context of regulation 3, “approve” (“*cymeradwyo*”) and “approval” (“*cymeradwyaeth*”) include “re-approve” (“*ail gymeradwyo*”) and “re-approval” (“*ail gymeradwyaeth*”);
+- “approving LSSA” (“*AGCLl sy'n cymeradwyo*”) means the LSSA that has approved the person to be an AMHP;
+- “Care Council for Wales” (“*Cyngor Gofal Cymru*”) has the meaning given by section 54(1) of the Care Standards Act 2000[^f00002];
+- “LSSA” (“*AGCLl*”) means a local social services authority in Wales;
+- “professional requirements” (“*gofynion proffesiynol*”) means the requirements set out in Schedule 1;
+- “relevant competencies” (“*cymwyseddau perthnasol*”) means the skills set out in Schedule 2.
+
+## 3. Granting approval
+
+(1) Subject to paragraph (2), an LSSA may only grant approval to a person to be an AMHP, where that person is not already approved as an AMHP under these Regulations, or has not been so approved within the previous five years, if that person–
+
+- (a) fulfils the professional requirements;
+- (b) is able to demonstrate that he or she possesses the relevant competencies; and
+- (c) has completed within the last two years a course for the initial training of AMHPs approved by the Care Council for Wales.
+
+(2) An LSSA may only approve a person to be an AMHP, where the person is not already approved as an AMHP under these Regulations, but is approved to act in relation to England, or has been so approved within the previous five years if that person–
+
+- (a) fulfils the professional requirements; and
+- (b) is able to demonstrate that he or she possesses the relevant competencies such as will enable that person to act within Wales, or if not, completes such course as the approving LSSA deems necessary to enable him or her to do so.
+
+(3) In determining whether a person seeking approval as an AMHP possesses the relevant competencies as required under paragraphs (1)(b) or (2)(b) above, the LSSA must have regard to the references of that person.
+
+## 4. Period of approval
+
+Subject to regulation 5, an LSSA may approve a person to be an AMHP for a period of up to five years.
+
+## 5. End of approval
+
+(1) Subject to paragraph (2) below, the approval of an AMHP will cease as soon as the period of the approval has expired.
+
+(2) The approval of a person as an AMHP will cease before the period of approval has expired in the following circumstances—
+
+- (a) if that person ceases to carry out functions as an AMHP on behalf of the approving LSSA;
+- (b) if that person fails to meet any of the conditions attached to his or her approval in accordance with regulation 7;
+- (c) if, in the opinion of the approving LSSA, that person no longer possesses the relevant competencies;
+- (d) if that person no longer fulfils the professional requirements;
+- (e) if that person becomes approved as an AMHP by another LSSA;
+- (f) if that person makes a written request for cessation of approval.
+
+(3) Following the end of an approval, the approving LSSA must notify that fact to any other LSSA for whom it knows that person has agreed to act as an AMHP.
+
+(4) If the approval of a person as an AMHP ends in the circumstance provided in paragraph (2)(e) above, the new approving LSSA must notify that fact to the previous approving LSSA.
+
+(5) Where an approving LSSA ends the approval of an AMHP under paragraph (2), that LSSA must immediately notify that person in writing of the date of the ending of and the reasons for ending that approval.
+
+## 6. Suspension of or Conditions attaching to Registration
+
+(1) If at any time after being approved, an AMHP’s registration or listing in accordance with fulfilment of the professional requirements as required under regulation 3(1) is suspended, the approving LSSA must suspend that person’s approval for the duration of the suspension of his or her registration or listing.
+
+(2) In the event of conditions being attached to an AMHP’s registration or listing, as the case may be, the LSSA may attach such conditions to the approval as it may deem necessary, or it may suspend the approval.
+
+(3) Where the suspension of approval has ended, the approval will continue to run for any unexpired period of approval, unless the approving LSSA ends it earlier in accordance with regulation 5.
+
+## 7. Conditions of Approval
+
+Any approval is subject to the following conditions—
+
+- (a) the AMHP must complete whilst he or she remains approved such training as required by the approving LSSA, at such intervals as determined by the LSSA as being necessary;
+- (b) the AMHP must provide evidence to the reasonable satisfaction of the approving LSSA, at no less than annual intervals of the date of his or her approval, that he or she continues to have appropriate competence to carry out functions as an AMHP;
+- (c) the AMHP must notify the approving LSSA in writing as soon as reasonably practicable if he or she agrees to carry out duties as an AMHP on behalf of another LSSA, and when such agreement ends;
+- (d) the AMHP must notify the approving LSSA, in writing as soon as reasonably practicable, if the AMHP is approved by a different LSSA;
+- (e) the AMHP must notify the approving LSSA immediately if he or she no longer meets any of the requirements set out in regulation 3 or regulation 8 as the case may be;
+- (f) the AMHP must notify the approving LSSA immediately in the event of him or her being suspended from registration or listing, as the case may be, or having conditions attached to the same.
+
+## 8. Reapproval
+
+(1) An LSSA may grant approval of a person who has previously been approved within Wales, such approval having been in force within the previous five years prior to the proposed date of reapproval, in accordance with these Regulations where that person–
+
+- (a) fulfils the professional requirements; and
+- (b) is able to demonstrate that he or she possesses the relevant competencies.
+
+(2) In determining whether the person seeking approval as an AMHP possesses the relevant competencies as required under paragraph (1)(b) above, the LSSA must have regard to the references of that person.
+
+## 9. Monitoring and Records
+
+(1) The approving LSSA must keep a record of all persons that it approves as AMHPs, including–
+
+- (a) their names;
+- (b) their professions;
+- (c) the dates of approval;
+- (d) the periods for which approval is given;
+- (e) details of completion of any training referred to in regulation 7(a);
+- (f) evidence provided to it by the AMHPs under regulation 7(b);
+- (g) names of other LSSAs for whom such persons act as an AMHPs;
+- (h) any details of the ending or suspension of approval, or conditions attached to the same.
+
+(2) The approving LSSA must keep the records referred to in paragraph 1 above relating to persons approved by it as AMHPs for three years following the ending of such persons' approval.
+
+Edwina Hart
+
+Minister for Health and Social Services, one of the Welsh Ministers
+
+15 September 2008
+
+## SCHEDULE 1 — Professional Requirements
+
+Regulations 2 and 3
+
+**1.** In order to fulfil the professional requirements, a person must be one of the following—
+
+- (a) a social worker registered with the Care Council for Wales;
+- (b) a first level nurse, registered in Sub-Part 1 of the registered maintained under article 5 of the Nurses and Midwifery Order 2001[^f00003], with the inclusion of an entry indicating that his or her field of practice is mental health or learning disabilities nursing;
+- (c) an occupational therapist registered in Part 6 of the Register maintained under article 5 of the Health Professions Order 2001[^f00004];
+- (d) a chartered psychologist listed in the British Psychological Society’s Register of Chartered Psychologists and who holds a relevant practising certificate issued by that Society[^f00005].
+
+## SCHEDULE 2 — Factors to be taken into account to determine competence
+
+Regulation 3(4) and (5)
+
+### 1.1. Key Competence Area 1: Values-based Practice
+
+The ability to identify what constitutes least restrictive health and social care for those dealt with or who may be dealt with under the Act;
+
+**1.2.** The ability to identify, challenge and, where practicable, redress discrimination and inequality in all its forms in relation to AMHP practice;
+
+**1.3.** Understanding and respect for diversity and the ability to identify and counter any decision which may be based upon oppressive practice;
+
+**1.4.** Understanding and respect for individuals' qualities, abilities and diverse backgrounds;
+
+**1.5.** Race and culturally-sensitive understanding in the application of knowledge of mental health legislation;
+
+**1.6.** Consideration of the needs of individuals for whom Welsh is their language of choice;
+
+**1.7.** The ability to promote the rights, dignity and self determination of patients consistent with their own needs and wishes, to enable them to contribute to the decisions made affecting their quality of life and liberty.
+
+### 2.1. Key Competence Area 2: Application of Knowledge: Legislation and Policy
+
+Appropriate knowledge of and ability to apply in practice—
+
+- (a) mental health legislation, related codes of practice and national and local policy guidance, and
+- (b) relevant parts of other legislation, codes of practice, national and local policy guidance, in particular the Children Act 1989[^f00006], the Children Act 2004[^f00007], the Human Rights Act 1998[^f00008] and the Mental Capacity Act 2005[^f00009];
+
+**2.2.** Application of knowledge of Welsh language legislation and policy;
+
+**2.3.** An explicit awareness of the legal position and accountability of AMHPs in relation to the Act, any employing organisation and the authority on whose behalf they are acting;
+
+**2.4.** The ability to evaluate critically local and national policy and relevant case law to inform AMHP practice;
+
+**2.5.** The ability to base AMHP practice on a critical evaluation of a range of research relevant to evidence based practice, including that on the impact of the experience of discrimination on mental health.
+
+### 3.1. Key Competence Area 3: Application of Knowledge: Mental Disorder
+
+Critical and applied understanding of a range of models of mental health and mental disorder, including the contribution of social, physical and development factors;
+
+**3.2.** Critical and applied understanding of the social perspective on mental disorder and mental health needs in working with patients, relatives, carers and other professionals;
+
+**3.3.** Critical and applied understanding of the implications of mental disorder for patients, children, families and carers;
+
+**3.4.** Critical and applied understanding of the implications of a range of relevant treatments and interventions for patients, children, families and carers;
+
+**3.5.** Critical understanding of the resources that might be available to provide an alternative to admission to hospital.
+
+### 4.1. Key Competence Area 4 – Application of Skills: Effective Partnership Working
+
+The ability to articulate, and demonstrate in practice, the social perspective on mental disorder and mental health needs;
+
+**4.2.** The ability to communicate appropriately with, and to establish effective relationships with, patients, relatives and carers;
+
+**4.3.** The ability to articulate the role of the AMHP in the course of contributing to effective inter-agency and inter professional working;
+
+**4.4.** The ability to use networks and community groups to influence collaborative working with a range of individuals, agencies and advocates;
+
+**4.5.** The ability to contribute effectively to planning and implementing options for care, such as alternatives to compulsory admission, discharge and aftercare;
+
+**4.6.** The ability to recognise, assess and manage effectively risk in the context of the AMHP role;
+
+**4.7.** The ability to manage effectively difficult situations of anxiety, risk and conflict, reflecting on the potential impact of such situations on patients and others;
+
+**4.8.** The ability to balance the inherent power in the AMHP role with the objectives of empowering patients;
+
+**4.9.** The ability to plan, negotiate and, manage, compulsory admission to hospital, reception into guardianship or arrangements for supervised community treatment;
+
+**4.10.** The ability to manage and co-ordinate effectively the relevant legal and practical processes including the involvement of other professionals as well as patients, relatives and carers;
+
+**4.11.** The ability to balance and manage the competing requirements of confidentiality and effective information sharing to the benefit of patients and other stakeholders.
+
+### 5.1. Key Competence Area 5: Application of Skills: Professional Decision Making
+
+The ability to assert a social perspective in decision making and to make properly informed, independent decisions;
+
+**5.2.** The ability to obtain, analyse and share appropriate information from individuals and other resources in order to manage the decision-making process;
+
+**5.3.** The ability to provide reasoned and clear oral and written reports to promote effective, accountable and independent AMHP decision making;
+
+**5.4.** The ability to present a case at a legal hearing;
+
+**5.5.** The ability to exercise their functions as an AMHP independently, and with authority and autonomy;
+
+**5.6.** The ability to evaluate the outcomes of interventions with patients, carers and others, including the identification of any unmet need.
+
+(This note is not part of the Regulations)
+
+These Regulations are made under section 114 of the Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20) as substituted by section 18 of the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12). They set out a number of matters with which a local social services authority (“LSSA”) must comply when approving a person to be an approved mental health professional (“AMHP”).
+
+Regulation 3 sets out certain prerequisites before a person can be approved in Wales as an AMHP by an LSSA. These are that the person belongs to one of the professions set out in Schedule 1, and has appropriate competence taking into account the skills listed in Schedule 2 and his or her references. Before a person may be approved as an AMHP for the first time, that person must have completed an approved course within the last two years. Additionally where that person has only acted as an AMHP within England, the LSSA must satisfy itself that the person is able to demonstrate that he or she has appropriate competence such as will enable him or her to act as an AMHP within Wales, or failing which, to undertake whatever training the LSSA considers necessary to ensure that the AMHP becomes competent to do so.
+
+Regulation 4 specifies a maximum period of approval or reapproval as five years.
+
+Regulation 5 sets out the circumstances in which approval ends and imposes requirements as to the notification of such a fact to other LSSAs.
+
+Regulation 6 provides for suspension of approval in the event of a person being suspended from the applicable register or listing of the listed professions or the attachment of conditions to approval in the event of conditions being attached to his or her registration or listing.
+
+Regulation 7 lists conditions to which approval or reapproval generally will be subject.
+
+Regulation 8 sets out prerequisites before a person can be reapproved as an AMHP.
+
+Regulation 9 requires LSSAs to keep records with specified details of AMHPs for whom it is the approving LSSA.
+
+Schedule 1 lists the professions in respect of which a person may be approved as an AMHP.
+
+Schedule 2 sets out factors to be taken into account when assessing competence of a person to be approved as an AMHP.
+
+A full regulatory impact assessment has not been produced for this instrument as no significant impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Section 114 was substituted by section 18 of the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12). The Secretary of State has issued separate regulations in relation to England.
+
+[^f00002]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^f00003]: Footnote: S.I. [2002/253](https://www.legislation.gov.uk/uksi/2002/253).
+
+[^f00004]: Footnote: S.I. [2002/254](https://www.legislation.gov.uk/uksi/2002/254).
+
+[^f00005]: Footnote: The British Psychological Society is a Royal Charter body, registered as a charity in England and Wales No.229642 and is at St Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
+
+[^f00006]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00007]: Footnote: [2004 c. 31](https://www.legislation.gov.uk/ukpga/2004/31).
+
+[^f00008]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
+
+[^f00009]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).

@@ -1,0 +1,134 @@
+---
+title: The Relocation Grants (Forms of Application) (Amendment) (Wales) Regulations 2002
+id: wsi/2002/2800
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-11-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2002/2800
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2002/2800/pdfs/wsi_20022800_mi.pdf
+- http://www.legislation.gov.uk/wsi/2002/2800/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Relocation Grants (Forms of Application) (Amendment) (Wales) Regulations 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 2800 (W.268)
+
+HOUSING, WALES
+
+The Relocation Grants (Forms of Application) (Amendment) (Wales) Regulations 2002
+
+Made
+
+12th November 2002
+
+Coming into force
+
+13th November 2002
+
+The National Assembly for Wales in exercise of the powers conferred upon it by sections 132(3) and (4) and 146(1) and (2) of the Housing Grants, Construction and Regeneration Act 1996[^f00001] as extended by section 26(3) of the Welsh Language Act 1993[^f00002] makes the following Regulations:
+
+## 1. Name, commencement and application
+
+(1) These Regulations are called the Relocation Grants (Forms of Application) (Amendment) (Wales) Regulations 2002 and they shall come into force on 13th November 2002.
+
+(2) These Regulations apply to Wales only, and do not have effect in relation to applications for grant made before the date on which these Regulations come into force.
+
+## 2. Amendments
+
+(1) The (English language) form set out in the Schedule to the Relocation Grants (Form of Application) Regulations 1997[^f00003] is amended as set out in the English language text of the Schedule to these Regulations.
+
+(2) The (Welsh language) form set out in the Schedule to the Relocation Grants (Form of Application) (Welsh Form of Application) Regulations 1999[^f00004] is amended as set out in Welsh language text of the Schedule to these Regulations.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00005]
+
+D.Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+12th November 2002
+
+## SCHEDULE
+
+Regulation 2
+
+**1.** At the end of question 4.1, add—
+
+> - or are both of you receiving (and entitled to receive) a joint-claim jobseeker’s allowance?
+
+.
+
+**2.** In question 4.29 insert the following entries in the appropriate place—
+
+- (a) “Bereavement Allowance: £ £ **Note 44C**”;
+- (b) “Joint-claim jobseeker’s allowance: £ £ **Note 8**”;
+- (c) “Widowed mother’s allowance: £ £ **Note 44D**”;
+- (d) “Widowed parent’s allowance: £ £ **Note 44D**”.
+
+**3.** After question 4.34B, insert—
+
+> **4.34C.** Please give details of any payment made to you or your partner to compensate for events which occurred during the Second World War. **Note 50F**
+
+.
+
+**4.** In paragraphs (a) and (b) of the Authorisation at the end of Part 4 of the form, after “an income-based jobseeker’s allowance” insert “or a joint-claim jobseeker’s allowance”.
+
+**5.** In note 8—
+
+- (a) after “replaced Income Support” add “Where both partners qualify for the jobseeker’s allowance from 19th March 2001 they should make a “joint claim” for jobseeker’s allowance.”;
+- (b) after “**Part 4**”, in the second place where it occurs, insert “where a couple are receiving a joint-claim jobseeker’s allowance, both members of the couple may complete the **authorisation** at the end of **Part 4**.”.
+
+**6.** In the list in the first paragraph of note 43 for “or in the Environment task Force Option of the New Deal where you are self-employed under the Employment Option of the New Deal made under section 2 of the Employment and Training Act 1973;” substitute “, Environment Task Force Option of the New Deal where you are self-employed under the Employment Option of the New Deal, the Intensive Activity Period programme or the Intensive Activity period for 50 plus made under section 2 of the Employment and Training Act 1973 or as assistance to support your self-employment”.
+
+**7.** After note 44B insert—
+
+> **44C.** Please give the details of any bereavement allowance which you have received in the last 12 months. A bereavement allowance is paid to a person aged over 55 years and under 60 who has been widowed on or after 9th April 2001. The allowance is paid under section 39B of the Social Security Contributions and Benefits Act 1992.
+>
+> **44D.** A widowed mother’s allowance is paid under section 37 of the Social Security Contributions and Benefits Act 1992 and a widowed parent’s allowance is paid under section 39A of that Act.
+
+.
+
+**8.** After note 50E, insert—
+
+> **50F.** The payments which are disregarded in the calculation of capital are those payable to you or your partner to compensate you, your partner, your deceased spouse or your partner’s deceased spouse for having been, during the second World War, a slave labourer or forced labourer or the parent of a child who has died or for having suffered personal injury or loss of property during that War.
+
+.
+
+**9.** At the end of note 53, add:
+
+> - You should answer “No” to this question where you are on maternity leave, entitled to statutory maternity pay under section 164 of the Social Security Contributions and Benefits Act 1992 or maternity allowance under section 35 of that Act, and the childcare payments are only paid for the child to whom the maternity leave relates.
+
+.
+
+**10.** In note 55A for “**Part 3**” substitute “**Part 4**.Where a couple are receiving joint-claim jobseeker’s allowance, both members of the couple may complete the **authorisation** at the end of **Part 4**.”.
+
+(This note is not part of the Regulations)
+
+These Regulations amend the (bilingual) forms to be used for an application for relocation grant payable under sections 131 to 140 of the Housing Grants, Construction and Regeneration Act 1996.
+
+The Welsh language form amended is set out in the Schedule to the Relocation Grants (Form of Application) (Welsh Form of Application) Regulations 1999 (S.I. [1999/2315](https://www.legislation.gov.uk/uksi/1999/2315) as amended).
+
+The English language form amended is set out in the Schedule to the Relocation Grants (Form of Application) Regulations 1997 (S.I. [1997/2847](https://www.legislation.gov.uk/uksi/1997/2847) as amended).
+
+The amendments are consequential on those being made by the [Housing Renewal Grants (Amendment) (Wales) Regulations 2002 (S.I. 2798) (W.266)](https://www.legislation.gov.uk/wsi/2002/2798) to the Housing Renewal Grants Regulations 1996 (S.I. [1996/2890](https://www.legislation.gov.uk/uksi/1996/2890)).
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53). The functions of the Secretary of State have been transferred to the National Assembly for Wales. *See* article 2 of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)). For the definition of “prescribed” *see* section 140(1).
+
+[^f00002]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).
+
+[^f00003]: Footnote: S.I. [1997/2847](https://www.legislation.gov.uk/uksi/1997/2847), amended by S.I. [1998/810](https://www.legislation.gov.uk/uksi/1998/810), [1999/1541](https://www.legislation.gov.uk/uksi/1999/1541), [1999/2625](https://www.legislation.gov.uk/uksi/1999/2625), [2000/720](https://www.legislation.gov.uk/uksi/2000/720), [2001/2072 (W.144)](https://www.legislation.gov.uk/wsi/2001/2072) and [2001/4008 (W.334)](https://www.legislation.gov.uk/wsi/2001/4008).
+
+[^f00004]: Footnote: S.I. [1999/2315](https://www.legislation.gov.uk/uksi/1999/2315) as amended by S.I. [1999/3469 (W.55)](https://www.legislation.gov.uk/wsi/1999/3469). [2000/1710 (W.116)](https://www.legislation.gov.uk/wsi/2000/1710), [2001/2072 (W.144)](https://www.legislation.gov.uk/wsi/2001/2072) and [2001/4008 (W.334)](https://www.legislation.gov.uk/wsi/2001/4008).
+
+[^f00005]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

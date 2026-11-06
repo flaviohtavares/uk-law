@@ -1,0 +1,90 @@
+---
+title: The Preserved Counties (Amendment to Boundaries) (Wales) Order 2003
+id: wsi/2003/974
+type: WelshStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-04-01'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/wsi/2003/974
+pdf_urls:
+- http://www.legislation.gov.uk/wsi/2003/974/pdfs/wsi_20030974_mi.pdf
+- http://www.legislation.gov.uk/wsi/2003/974/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Preserved Counties (Amendment to Boundaries) (Wales) Order 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 974 (W.133)
+
+LOCAL GOVERNMENT, WALES
+
+The Preserved Counties (Amendment to Boundaries) (Wales) Order 2003
+
+Made
+
+1st April 2003
+
+Coming into force
+
+2nd April 2003
+
+The Local Government Boundary Commission for Wales reported in November 2002 in a “Review of Preserved County Boundaries”.
+
+The National Assembly for Wales, having agreed with the proposals, makes the following Order in exercise of the powers conferred on it by section 58(2) of the Local Government Act 1972[^f00001].
+
+## 1. Title, commencement and application
+
+(1) This Order is called The Preserved Counties (Amendment to Boundaries) (Wales) Order 2003 and comes into force on 2nd April 2003.
+
+(2) This Order applies to Wales only.
+
+## 2. Amendment of Preserved County Boundaries
+
+The Preserved County boundaries between Clwyd and Gwynedd, South Glamorgan and Mid Glamorgan, and Gwent and Mid Glamorgan are revised such that the areas of those Preserved Counties are as described in Article 3.
+
+## 3. New Preserved County Boundaries
+
+(1) The Preserved County of Clwyd comprises the areas of the counties and county boroughs of Denbighshire, Flintshire, Wrexham and Conwy.
+
+(2) The Preserved County of Gwynedd comprises the areas of the counties of Anglesey and Gwynedd.
+
+(3) The Preserved County of Gwent comprises the areas of the counties and county boroughs of Monmouthshire, Blaenau Gwent, Torfaen, Newport and Caerphilly.
+
+(4) The Preserved County of Mid Glamorgan comprises the areas of the county boroughs of Bridgend, Merthyr Tydfil and Rhondda Cynon Taff.
+
+(5) The Preserved County of South Glamorgan comprises the areas of the county and county boroughs of Cardiff and The Vale of Glamorgan.
+
+Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998[^f00002]
+
+D.Elis-Thomas
+
+The Presiding Officer of the National Assembly
+
+1st April 2003
+
+(This note is not part of the Order)
+
+The Local Government Act 1972 as amended by The Local Government (Wales) Act 1994 retains the former 8 County Council areas as “Preserved Counties” with, in some cases, modified boundaries. These operate for limited purposes concerning such matters as Lord Lieutenants and Sheriffs.
+
+The Local Government Boundary Commission for Wales reported in its 'Review of Preserved County Boundaries' (dated November 2002) and recommended 3 changes to the existing Preserved County boundaries, one in North Wales and the others in South Wales. This Order gives effect to those recommendations without modification.
+
+The Preserved County boundary in North Wales between Gwynedd and Clwyd is modified to include the whole of Conwy within the Preserved County of Clwyd.
+
+The Preserved County boundaries in South Wales between Mid Glamorgan and Gwent and Mid Glamorgan and South Glamorgan are modified as follows.
+
+The boundary between Mid Glamorgan and Gwent is modified to include the whole of Caerphilly within the preserved County of Gwent.
+
+The Preserved County boundary between Mid Glamorgan and South Glamorgan is modified to reflect changes made by Order to the boundary between the County Borough of Rhondda Cynon Taff and the County Borough of The Vale of Glamorgan in the area of Llanharry and Penllyn ([The Rhondda Cynon Taff and Vale of Glamorgan (Llanharry, Pont-y-clun, Penllyn, Welsh St Donats and Pendoylan) Order 2002 S.I. No. 654 (W.70))](https://www.legislation.gov.uk/wsi/2002/654) which came into force on 6th April 2002.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00002]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
