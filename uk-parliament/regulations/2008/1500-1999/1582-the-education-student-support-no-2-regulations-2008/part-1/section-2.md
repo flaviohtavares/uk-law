@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 2
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '2'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 2
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation
+## 2. Interpretation[^c-560d26a6bd42b8960eed63388b7c164a]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) In these Regulations—
 
@@ -248,6 +254,8 @@ summary: ''
 (13) Where the current course is an end-on course, the specified designated course is the course in relation to which the current course is an end-on course (the “preceding course”). Where the preceding course is itself an end-on course, the specified designated course is the course in relation to which the preceding course is an end-on course.
 
 ## Annotations
+
+[^c-560d26a6bd42b8960eed63388b7c164a]: Commencement: Reg. 2 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00003]: Footnote: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); sections 1 to 4 and Schedule 1 were substituted by the provisions set out in Schedule 5 to the Education Act [1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20). Section 1(3)(d) was amended by the Education (Grants and Awards) Act [1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11), section 4. Section 4 was amended by the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 2. The entire Act was repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to the transitional provisions and savings set out in the Teaching and Higher Education Act 1998 (Commencement No. 4 and Transitional Provisions) Order 1998 ([S.I. 1998/3237](https://www.legislation.gov.uk/uksi/1998/3237)), article 3.
 

@@ -3,16 +3,16 @@ title: The General Pharmaceutical Council (Statutory Committees and their Advise
 id: uksi/2010/1616
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2010-06-28'
-text_date: null
-extent: null
+text_date: '2021-05-21'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2010/1616
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/1616/pdfs/uksiem_20101616_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/1616/pdfs/uksi_20101616_en.pdf
-- http://www.legislation.gov.uk/uksi/2010/1616/made/data.pdf
-pending_changes: 58
+- http://www.legislation.gov.uk/uksi/2010/1616/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The General Pharmaceutical Council (Statutory Committees and their Advisers Rules) Order of Council 2010
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2021-05-21.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2010 No. 1616
 
@@ -66,158 +70,24 @@ Clerk of the Privy Council
 
 ## SCHEDULE — The General Pharmaceutical Council (Statutory Committees and their Advisers) Rules 2010
 
-Contents
-
-PART 1
-
-General
-
-1
-
-Citation and commencement
-
-2
-
-Interpretation
-
-PART 2
-
-Composition of the Statutory Committees
-
-3
-
-Composition of the statutory committees
-
-PART 3
-
-Functions of the Investigating Committee and the Fitness to Practise Committee
-
-4
-
-Additional functions of the Investigating Committee
-
-5
-
-Additional functions of the Fitness to Practise Committee
-
-PART 4
-
-Appointment and Removal of Statutory Committee Members
-
-6
-
-Appointments Committee
-
-7
-
-Eligibility of members and former members of the Council for appointment to statutory committees
-
-8
-
-Eligibility of employees of the Council and other persons for appointment to statutory committees
-
-9
-
-Required competencies for members of statutory committees
-
-10
-
-Standards and training for statutory committee members
-
-11
-
-Terms of office of statutory committee members
-
-12
-
-Resignation of statutory committee members
-
-13
-
-Reserve list
-
-14
-
-Suspension and removal of statutory committee members and persons on the reserve list
-
-15
-
-Casual vacancies
-
-16
-
-Power to co-opt members of statutory committees
-
-PART 5
-
-Provisions Relating to Meeting and Hearings
-
-17
-
-Secretaries of statutory committees
-
-18
-
-The composition of statutory committees at particular meetings or hearings
-
-19
-
-Provisions against bias
-
-20
-
-Voting
-
-PART 6
-
-Advisers and their Advice
-
-21
-
-Functions of legal advisers
-
-22
-
-Functions of clinical advisers
-
-23
-
-Functions of specialist advisers
-
-24
-
-Requirement to give or repeat advice in public
-
-25
-
-Requirement to keep records of advice and interventions
-
-26
-
-Refusal by a statutory committee to accept advice
-
-27
-
-Questioning of witnesses
-
 The General Pharmaceutical Council makes these Rules in exercise of the powers conferred by articles 18(2), 63(4), 64(8) and 66(1) of, and paragraph 5 of Schedule 1 to, the Pharmacy Order 2010.
 
 In accordance with article 66(3) of that Order, the General Pharmaceutical Council has, in relation to rules under Parts 4 and 7 of that Order, consulted such persons or organisations as it considered appropriate including persons and organisations listed in paragraphs (a) to (h) of article 66(3) of that Order.
 
 ### PART 1 — General
 
-#### 1. Citation and commencement
+#### 1. Citation and commencement[^c-0e03d5d42ef64a991fcf0dc75625c1ab]
 
 These Rules may be cited as the General Pharmaceutical Council (Statutory Committees and their Advisers) Rules 2010 and come into force on 27th September 2010.
 
-#### 2. Interpretation
+#### 2. Interpretation[^c-851aad767ce55a37745c1646f9266309]
 
 In these Rules—
 
 - “the Order” means the Pharmacy Order 2010;
 - “the Appeals Committee Rules” means the General Pharmaceutical Council (Appeals Committee) Rules 2010[^f00003];
 - “Appointments Committee” means the committee established by the Council pursuant to its powers in article 4(7) of the Order for the purpose of exercising the functions conferred on it by these Rules and other functions delegated to it by the Council;
-- “the CHRE” means the Council for Healthcare Regulatory Excellence[^f00004];
+- [^c-d6acd44dc3e9aa10e32aedf934800d9d]...
 - “criminal conduct allegation” means a complaint to, or concern of, the Council which gives rise to, or may give rise to, criminal proceedings under any enactment;
 - “disqualification allegation” means a complaint to, or concern of, the Council which gives rise to, or may give rise to, an inquiry under Part 4 of the Medicines Act 1968[^f00005];
 - “final outcome” means, in relation to any proceedings where there are rights of appeal, the outcome of proceedings—
@@ -229,6 +99,7 @@ In these Rules—
   - (a) a barrister, advocate or solicitor who falls within subparagraphs (i) or (ii) of article 61(2)(c) of the Order; or
   - (b) a solicitor in Scotland who does not fall within paragraph (a);
 - “licensing body” means any body anywhere in the world which licenses or regulates any profession;
+- “the[^c-a5dd445a5046177f8cb62032760182f3] PSA” means the Professional Standards Authority for Health and Social Care;
 - “registrant member” means a member of a statutory committee who is a registrant**;**
 - “Registration Rules” means the General Pharmaceutical Council (Registration) Rules 2010[^f00006];
 - “spent conviction” means—
@@ -238,28 +109,30 @@ In these Rules—
 
 ### PART 2 — Composition of the Statutory Committees
 
-#### 3. Composition of the statutory committees
+#### 3. Composition of the statutory committees[^c-bcaf1e4d67f18a1f92b4d5c07c89d993]
 
 (1) The Investigating Committee is to consist of—
 
 - (a) a lay member who is the chair;
-- (b) two lay members who are deputy chairs;
-- (c) two other lay members; and
-- (d) five registrant members.
+- (b) two lay members who are deputy chairs; and[^c-83798f1a7630999f47d00654062482d4]
+- (c)[^c-088cd84d27abe40703223332b7bcda36] not fewer than three and not more than eleven other members who may be lay members or registrant members.
+- (d)[^c-fc77e7a1e909934a0cec1ab1ac1dd7be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Fitness to Practise Committee is to consist of—
 
 - (a) a lay member who is the chair;
-- (b) eight lay members who are deputy chairs;
-- (c) eleven other lay members; and
-- (d) twenty registrant members**.**
+- (b)[^c-214877866c087065e65de5270879b4c6] not fewer than three and not more than eight lay members who are deputy chairs; and
+- (c)[^c-376310d5a02a7005c572b196ac7f82d6] not fewer than eight and not more than fifty one other members who may be lay members or registrant members.
+- (d)[^c-86829a3b73536d34cbdcf471d4a0c1e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Appeals Committee is to consist of—
 
 - (a) a lay member who is the chair;
-- (b) two lay members who are deputy chairs;
-- (c) three other lay members; and
-- (d) six registrant members.
+- (b) two lay members who are deputy chairs; and[^c-57255683b251525ad299fba873e0babd]
+- (c)[^c-ed0e13f050c02828b860ab274c210379] not fewer than three and not more than seventeen other members who may be lay members or registrant members.
+- (d)[^c-785e91c6b3c5aebe95c2f08f528de0f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^c-6fa4a54f993a6adb4c4c46a116a32b30] The number of lay members of each committee (including any chair or deputy chair) must be at least the same as the number of registrant members.
 
 (4) The chairs and deputy chairs referred to in paragraphs (1)(a) and (b), (2)(a) and (b) and (3)(a) and (b) may be legally qualified.
 
@@ -267,56 +140,56 @@ In these Rules—
 
 ### PART 3 — Functions of the Investigating Committee and the Fitness to Practise Committee
 
-#### 4. Additional functions of the Investigating Committee
+#### 4. Additional functions of the Investigating Committee[^c-872b930526a1d1176e1a9f703c2f005a]
 
 (1) The Investigating Committee has the following additional functions—
 
-- (a) providing an annual report to the Council in respect of each calendar year, by a date specified by the Council, which is to include—
-  - (i) trends, patterns and learning points observed from cases considered by the Investigating Committee,
-  - (ii) details of the numbers of fitness to practise and disqualification allegations which were disposed of by the Investigating Committee by means of warnings and undertakings during that year, and
-  - (iii) the reasons why the allegations referred to in sub-paragraph (ii) were not referred to the Fitness to Practise Committee;
-- (b) preparing, publishing and amending from time to time its referral criteria;
+- (a)[^c-011bef67ce06e376af6f0ec87931e778] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c4beac52147357878bf3b5aac965e05e] providing advice to the Council about the content of any guidance to be issued by the Council about the circumstances in which allegations that have been referred to the Investigating Committee should be referred to the Fitness to Practise Committee;
 - (c) determining whether or not disqualification allegations that have been referred to it should be referred to the Fitness to Practise Committee;
 - (d) considering criminal conduct allegations referred to it by the Registrar; and
-- (e) determining whether the Council should exercise its powers to bring criminal proceedings—
-  - (i) in relation to criminal conduct allegations, and
-  - (ii) in cases that have been referred to it as disqualification allegations.
+- (e)[^c-619ee864818ba769a8ad147c639bf2cb] determining whether to notify the Registrar that the Council should consider exercising any of its powers to bring criminal proceedings in relation to—
+  - (i) criminal conduct allegations, and
+  - (ii) cases that have been referred to it as disqualification allegations.
 
-(2) The Investigating Committee may not exercise its functions under paragraph (1)(e) or article 53(4) of the Order to bring criminal proceedings unless it is satisfied that—
+(2)[^c-6c24e61320c5a935a8340ef373846e4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) there is a real prospect of securing a conviction; and
-- (b) it is in the public interest to bring the proceedings.
-
-#### 5. Additional functions of the Fitness to Practise Committee
+#### 5. Additional functions of the Fitness to Practise Committee[^c-b7f2e333e28c8e172f43e02d4a5f8919]
 
 The Fitness to Practise Committee has the following additional functions—
 
 - (a) providing advice requested by the Registrar under rule 10(8) or (10) or 20(2) of the Registration Rules;
-- (b) providing advice to the Investigating Committee about the types of cases that should not be referred from that Committee to it;
+- (ab)[^c-0fabcca856bfa16729e0ffe185c13e54] providing advice requested by the Registrar under rule 9(2)(b) of the General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules 2011;
+- (b)[^c-35283c4c7ce26f6c8902a1de1c4340e5] providing advice to the Council about the content of the guidance referred to in rule 4(1)(b);
 - (c) providing advice to the Appeals Committee under rule 9(1)(d) of the Appeals Committee Rules; and
-- (d) preparing, publishing and amending from time to time its approach to decision making in the form of Indicative Sanctions Guidance[^f00009].
+- (d)[^c-262ac977804e438efed8ceafdeb69b18] providing advice to the Council about the content of any guidance to be issued by the Council about sanctions that particular classes of cases before the Fitness to Practise Committee should attract.
 
 ### PART 4 — Appointment and Removal of Statutory Committee Members
 
-#### 6. Appointments Committee
+#### 6. Appointments Committee[^c-62b9cae11905f56893379cf0cf96434f]
 
-The Appointments Committee is to exercise the following functions in accordance with these Rules—
+(1)[^c-cdbef28cfc3db4f46c6a3793edd6f65d] The Appointments Committee is to exercise the following functions in accordance with these Rules—
 
 - (a) selecting and appointing appropriate persons to serve as members of the statutory committees including as chairs and deputy chairs;
 - (b) where appropriate, suspending or removing from office members, including chairs and deputy chairs, of the statutory committees; and
 - (c) overseeing procedures for the training, development, performance review and appraisal of members, including chairs and deputy chairs, of the statutory committees.
 
-#### 7. Eligibility of members and former members of the Council for appointment to statutory committees
+(2)[^c-285c29c786ad18f8ef2326d370daa979] In exercising the functions under paragraph (1)(a), the Appointments Committee must ensure that the requirements of rule 3 as to the size and composition of each statutory committee are met.
+
+#### 7. Eligibility of members and former members of the Council for appointment to statutory committees[^c-fb917e781f94b2f0d5c8196b98b1c157]
 
 (1) Members of the Council may not be appointed to any of the statutory committees.
 
 (2) Former members of the Council may be appointed to one of the statutory committees, provided that they have not held office as a member of the Council for a period of four years prior to the date of application for membership of the relevant statutory committee.
 
-#### 8. Eligibility of employees of the Council and other persons for appointment to statutory committees
+#### 8. Eligibility of employees of the Council and other persons for appointment to statutory committees[^c-0098955f64ef201da27f59110e797263]
 
 (1) An employee of the Council may not be appointed to any of the statutory committees.
 
-(2) A person who is a member of one of the statutory committees may not be appointed to any of the other statutory committees.
+(2)[^c-ab75883e41c6e37186cc4c88e786e894] A person may not be appointed to be at the same time—
+
+- (a) a member of the Investigating Committee; and
+- (b) a member of another statutory committee.
 
 (3) A person may not be appointed to a statutory committee if that person—
 
@@ -340,7 +213,7 @@ The Appointments Committee is to exercise the following functions in accordance 
   - (i) in the United Kingdom where the final outcome of the proceedings was a sentence of imprisonment or detention, and the conviction is not spent,
   - (ii) in the United Kingdom where the final outcome of the proceedings was not a sentence of imprisonment or detention, the conviction is not spent, and the Appointments Committee is satisfied that the person’s membership of a statutory committee would be liable to undermine public confidence in the regulation of pharmacists or pharmacy technicians, or
   - (iii) outside the United Kingdom and the Appointments Committee is satisfied that the person’s membership of a statutory committee would be liable to undermine public confidence in the regulation of pharmacists or pharmacy technicians;
-- (f) has received a formal caution for a criminal offence in the United Kingdom and the Appointments Committee is satisfied that the person’s membership of a statutory committee would be liable to undermine public confidence in the regulation of pharmacists or pharmacy technicians;
+- (f) has received a caution[^c-85f0c0b54e3185737b09786f2c733bb9] for a criminal offence in the United Kingdom and the Appointments Committee is satisfied that the person’s membership of a statutory committee would be liable to undermine public confidence in the regulation of pharmacists or pharmacy technicians;
 - (g) has at any time been included in—
   - (i) any barred list within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00010], or
   - (ii) any barred list within the meaning of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00011],
@@ -367,17 +240,17 @@ The Appointments Committee is to exercise the following functions in accordance 
 - (n) has at any time been removed from office as the chair, or a member, convenor or director, of any public body on the grounds that it was not in the interests of, or conducive to the good management of, that body that the person should continue to hold that office; or
 - (o) has at any time made a composition or arrangement with, or granted a trust deed for, the person’s creditors and the person has not been discharged in respect of it.
 
-#### 9. Required competencies for members of statutory committees
+#### 9. Required competencies for members of statutory committees[^c-7382a5abf60956becb8427f5f2c559a3]
 
-(1) The Appointments Committee is to advise the Council on the minimum competencies it considers are required for appointment as a chair, deputy chair or other member of a statutory committee.
+(1)[^c-71d8179ab653ca0e412d32246e79057f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Council is to determine the minimum competencies required for appointment as a chair, deputy chair or other member of a statutory committee.
 
-(3) In giving advice as provided for in paragraph (1), the Appointments Committee is to have regard to best practice on competencies required for membership of quasi-judicial committees, as disseminated by the Judicial Studies Board or the CHRE (or any successor bodies)[^f00023].
+(3)[^c-71d8179ab653ca0e412d32246e79057f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) No person may be appointed as a chair, deputy chair or other member of a statutory committee unless that person possesses, or has demonstrated the ability to acquire within a reasonable period of time (as determined by the Appointments Committee), the minimum competencies determined by the Council.
 
-#### 10. Standards and training for statutory committee members
+#### 10. Standards and training for statutory committee members[^c-05ea5ac8f04167b204dcc845bb229776]
 
 (1) A member (“B”) of a statutory committee must—
 
@@ -392,51 +265,74 @@ The Appointments Committee is to exercise the following functions in accordance 
 
 (4) The appraisal referred to in paragraph (3) must include consideration of the member’s participation in training and attendance at meetings of the relevant statutory committee.
 
-#### 11. Terms of office of statutory committee members
+#### 11. Period of membership of a statutory committee[^c-4464ce5ec8e18a9a50a7834143dc13fc]
 
-(1) The term of office of a member of a statutory committee (including a chair and a deputy chair) is to be four years.
+No person—
 
-(2) No member of a statutory committee (including a chair and a deputy chair) is to hold office as a member of that statutory committee for more than an aggregate period of eight years in any twenty year period.
+- (a) may be appointed as a member of a particular statutory committee (including a chair or deputy chair) for a term of office that is longer than four years;
+- (b) may serve as a member of the same committee for more than a total of eight years in any twenty year period.
 
-#### 12. Resignation of statutory committee members
+#### 12. Resignation of statutory committee members[^c-27d8b5e1e4d9b5ef3490f5e38925f9b4]
 
 A member of a statutory committee may resign from that committee at any time by notifying the Appointments Committee in writing.
 
-#### 13. Reserve list
+#### 13. Reserve list[^c-b39a7437aa52eecc593fc698a2a6ab92]
 
-(1) The Appointments Committee must maintain a reserve list of appropriate persons who are eligible to serve as—
+(1)[^c-cf6bef60864efd0e14e29d2ea906ccac] The Appointments Committee must maintain a reserve list of persons who are eligible to serve as a member of one or more statutory committees.
 
-- (a) the chair of each of the statutory committees;
-- (b) deputy chairs of each of the statutory committees; and
-- (c) other members of each of the statutory committees (which is to include both prospective lay members and prospective registrant members).
+(1A)[^c-e9a26eb7a5cfd235182e815822b41959] In relation to any person whose name appears on the reserve list, the Appointments Committee must specify—
+
+- (a) the statutory committee or statutory committees to which appointment may be appropriate;
+- (b) whether any appointment would be as a registrant member or as a lay member;
+- (c) whether appointment as a chair or deputy chair of the Investigating Committee may be appropriate;
+- (d) whether appointment as a deputy chair of the Fitness to Practise Committee may be appropriate; and
+- (e) whether appointment as a chair or deputy chair of the Appeals Committee may be appropriate.
+
+(1B) In relation to any person whose name appears on the reserve list, where—
+
+- (a) both the Fitness to Practise Committee and the Appeals Committee are specified as statutory committees to which the person’s appointment may be appropriate; and
+- (b) the person is appointed to one of those committees,
+
+the person’s name may be retained on the reserve list for the purpose of appointment to the other committee.
 
 (2) Persons may only be retained on the reserve list for a period of 3 consecutive years, after which time their suitability for continued inclusion in that list is to be reconsidered by the Appointments Committee.
 
-(3) Persons on the reserve list who are eligible to serve as the chair of a statutory committee may be appointed as the chair, a deputy chair or a member of that statutory committee without further interview by the Appointments Committee, in the event that a vacancy arises on that statutory committee.
+(3)[^c-66a548676fbfe8db93fa95d179280271] Persons on the reserve list may be appointed to fill a vacancy that arises on a statutory committee only if—
 
-(4) Persons on the reserve list who are eligible to serve as a deputy chair of a statutory committee may be appointed as a deputy chair or a member of that statutory committee without further interview by the Appointments Committee, in the event that a vacancy arises on that statutory committee.
+- (a) the matters specified in the reserve list under paragraph (1A) in respect of that person show that the person is suitable for the vacancy; and
+- (b) the Appointments Committee considers that it would be appropriate to make the appointment.
 
-(5) Persons on the reserve list who are eligible to serve as a member of a statutory committee may be appointed as a member of that statutory committee without further interview by the Appointments Committee, in the event that a vacancy arises on that statutory committee.
+(4)[^c-6f099da688a4ff405f5d0dad5221b032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^c-6f099da688a4ff405f5d0dad5221b032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Persons on the reserve list may be invited to attend training provided or arranged by the Council (which may be training provided by another body) to maintain their suitability for continued inclusion on the reserve list.
 
-(7) In the event that a member of a statutory committee (including a deputy chair but excluding a chair) is unable to sit to consider a case for any reason, persons on the reserve list who are eligible to serve as a chair, deputy chair or other member of that statutory committee may be co-opted on to that committee, if its chair decides that it is appropriate to do so, to serve as a member of that statutory committee (including as a deputy chair) for that particular case.
+(7)[^c-8c983631b19151fe79662721f32bd911] Where a member of a statutory committee other than the chair is unable to sit to consider a case for any reason, the chair of the committee may co-opt a person whose name appears on the reserve list to serve as a member of the committee (including as a deputy chair) for that particular case if—
 
-#### 14. Suspension and removal of statutory committee members and persons on the reserve list
+- (a) that committee is specified as a statutory committee to which the person’s appointment may be appropriate; and
+- (b) the chair considers that it would be appropriate for the person to serve as a member of the committee.
+
+(8)[^c-65c7a1c8d1c4bfdb44b027f7bd28401a] A person may not be co-opted under paragraph (7) to be at the same time—
+
+- (a) a member of the Investigating Committee; and
+- (b) a member of another statutory committee.
+
+#### 14. Suspension and removal of statutory committee members and persons on the reserve list[^c-5a85d38fadde39e239f473cc5695c65b]
 
 (1) The Appointments Committee must remove from a statutory committee any member—
 
-- (a) who resigns from membership of a statutory committee in accordance with these Rules;
-- (b) whose term of office has expired;
+- (a) who resigns from membership of the statutory committee in question[^c-330e7a0eb18cf335dc0bc3ee440e8fc1] in accordance with these Rules;
+- (b) whose term of office for the statutory committee in question[^c-4d4a40cab10273c6c687fdff1db8f0fe] has expired;
 - (c) who, in the case of a registrant member, has ceased to be entered in the Register;
 - (d) who, in the opinion of the Appointments Committee,—
-  - (i) has ceased to be an appropriate person to be a member of a statutory committee (for example, by reason of misconduct or a criminal conviction),
-  - (ii) has seriously or persistently failed to meet the standards of performance, conduct, attendance or participation in training required of a member of a statutory committee in the ordinary course of a member’s duties,
+  - (i) has ceased to be an appropriate person to be a member of the statutory committee in question[^c-4f1ef0c0e770df8c3700bd41b3fe6c8e] (for example, by reason of misconduct or a criminal conviction),
+  - (ii) has seriously or persistently failed to meet the standards of performance, conduct, attendance or participation in training required of a member of the statutory committee in question in the ordinary course of a member’s duties,
   - (iii) is unable to perform the duties of a member because of ill health,
-  - (iv) has improperly disclosed confidential information obtained by the member in the course of membership of a statutory committee,
+  - (iv) has improperly disclosed confidential information obtained by the member in the course of membership of any statutory committee[^c-1e13f292eb8ea47cf57c0616a750f32e],
   - (v) has brought the Council into disrepute,
   - (vi) has failed to comply with the code of conduct for statutory committee members approved and published on the Council’s website by the Council[^f00024], or
-  - (vii) should no longer continue to be a member of a statutory committee in the public interest.
+  - (vii) should no longer continue to be a member of the statutory committee in question in the public interest.
 
 (2) The Appointments Committee must remove from the reserve list any person—
 
@@ -452,45 +348,49 @@ A member of a statutory committee may resign from that committee at any time by 
 
 (4) The Appointments Committee must afford any member of a statutory committee, or any person on the reserve list, who is under investigation the opportunity to make written and oral representations before reaching a decision on whether to remove that member from the statutory committee or that person from the reserve list.
 
-(5) The procedure for the suspension or removal of a member of a statutory committee, and the removal of a person from the reserve list, is to be—
+(5)[^c-8498df1996d5fc0873a7eec18be5959f] The Council must determine the procedure for—
 
-- (a) drafted by the Appointments Committee and submitted to the Council for approval;
-- (b) considered by the Council, who may decide to amend the relevant procedure prior to approving it; and
-- (c) once approved by the Council, set out in writing by the Appointments Committee,
+- (a) the suspension or removal of a member of a statutory committee; and
+- (b) the removal of a person from the reserve list,
 
-- and a copy of the relevant procedure must be given to every member of a statutory committee or person on the reserve list.
+and must prepare and issue a statement of that procedure to each committee member and person on the reserve list.
 
-#### 15. Casual vacancies
+#### 15. Casual vacancies[^c-87c12d80f5f25fcdecea88a0a20ccebc]
 
 Where a vacancy occurs on a statutory committee as a result of the resignation, removal or death of a chair, deputy chair or other member of that statutory committee, the Appointments Committee must—
 
 - (a) appoint a replacement chair, deputy chair or other member from the reserve list; or
 - (b) where no suitable replacement member is available from the reserve list, appoint a replacement in accordance with these Rules.
 
-#### 16. Power to co-opt members of statutory committees
+#### 16. Power to co-opt members of statutory committees[^c-8e75dd4d1568f78305d483b1faf7db37]
 
-(1) Subject to paragraphs (3) and (4), the chair of a statutory committee may, after consulting with a legal adviser to that committee, co-opt appropriate persons to act as members of that statutory committee where it is necessary or desirable to do so in order for that statutory committee to be able to dispose of a particular case.
+(1) Subject to paragraphs (3) to (4)[^c-cc35e56ef7a2e3e84b234cc7ae74a7ff], the chair of a statutory committee may, after consulting with a legal adviser to that committee, co-opt appropriate persons to act as members of that statutory committee where it is necessary or desirable to do so in order for that statutory committee to be able to dispose of a particular case.
 
 (2) The power in paragraph (1) is in addition to the power in rule 13(7).
 
 (3) No person may be co-opted as a member of a statutory committee unless that person possesses, or has demonstrated the ability to acquire within a reasonable period of time (as determined by the chair of the statutory committee to which it is proposed the person will be co-opted as a member), the relevant competencies determined by the Council.
 
-(4) The following persons may not be co-opted as a member of a statutory committee—
+(3A)[^c-a1ff857854eed755d43f4fda02c6a639] A person may not be co-opted under paragraph (1) to be at the same time—
+
+- (a) a member of the Investigating Committee; and
+- (b) a member of another statutory committee.
+
+(4) The following other[^c-45def4cbbf75d5597ef663d37e56ce64] persons may not be co-opted as a member of a statutory committee—
 
 - (a) a member of the Council;
-- (b) a member of another statutory committee;
+- (b)[^c-5620486cec9a3039f4b55eff0777eabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a member of the Appointments Committee; and
 - (d) an employee of the Council.
 
 ### PART 5 — Provisions Relating to Meeting and Hearings
 
-#### 17. Secretaries of statutory committees
+#### 17. Secretaries of statutory committees[^c-c25e6b5e5780f06751d1cebfdf3e7af2]
 
 (1) Each statutory committee is to be assisted by a secretary.
 
 (2) No person may act as secretary to a statutory committee if that person is a member of the Council.
 
-(3) No person acting as secretary to the Investigating Committee may act as secretary to the Fitness to Practise Committee.
+(3)[^c-80f3a78aee5e665767477d1536e0b2c9] A person who acts as secretary to the Investigating Committee in relation to a fitness to practise allegation must not act as secretary to the Fitness to Practise Committee in any proceedings before the Fitness to Practise Committee in connection with that allegation.
 
 (4) The secretary to a statutory committee is to be responsible for the administrative arrangements relating to the proceedings of that committee.
 
@@ -500,38 +400,55 @@ Where a vacancy occurs on a statutory committee as a result of the resignation, 
 
 (7) The secretary to a statutory committee may not participate in the decision making of the statutory committee (and is not entitled to vote).
 
-#### 18. The composition of statutory committees at particular meetings or hearings
+#### 18. Composition of statutory committees: general[^c-4178d15dccb43b78b3777304fb49090f]
 
-(1) Subject to paragraph (2), the quorum for a meeting (other than a case management meeting) or a hearing of a statutory committee is three members which must include—
+(1) Subject to any determination made under rule 18A(or 18B(1) in respect of any particular meeting or hearing, the quorum for a meeting (other than a case management meeting) or a hearing of a statutory committee is three members.
+
+(2) The members must include—
 
 - (a) the chair or a deputy chair;
 - (b) a lay member; and
 - (c) a registrant member.
 
-(2) Subject to paragraphs (4) to (7), the chair of the Fitness to Practise Committee must, having consulted the secretary of the Committee, and with regard to—
+(3) At any meeting or hearing of a statutory committee, the number of registrant members considering a case must not exceed the number of lay members (including any chair or deputy chair) by more than one.
 
-- (a) matters to be considered by the Committee; and
-- (b) availability, experience and expertise of Committee members,
+(4) Case management meetings of the statutory committees are to be conducted by the chair of the statutory committee which is holding the case management meeting.
 
-determine the particular size, composition and quorum of the Committee required for each hearing and any related meetings.
+#### 18A. Composition of Fitness to Practise Committee: further provision[^c-b62f54a7699775965d83b7f8b5709f22]
 
-(3) Case management meetings of the statutory committees are to be conducted by the chair of the statutory committee which is holding the case management meeting.
+(1) The chair of the Fitness to Practise Committee may, having consulted the secretary of the Committee, and with regard to—
 
-(4) Where the chair of the Fitness to Practise Committee determines that only specified members of the Committee are required for a particular hearing and any related meetings, the chair must ensure that—
+- (a) the matters to be considered by the Committee; and
+- (b) the availability, experience and expertise of Committee members,
 
-- (a) the chair or a deputy chair of the Committee is one of the specified members;
-- (b) the quorum is not less than three; and
-- (c) the number of registrant members who are members of that formation of the Committee does not exceed the number of lay members by more than one.
+determine the particular size, composition and quorum of the Committee required for each hearing and any related meeting (other than any case management meeting).
 
-(5) The chair of the Fitness to Practise Committee must ensure that a member of the Committee who has sat in a formation of the Committee that has made an interim suspension order or an order for interim conditional entry in a particular case must not sit in subsequent proceedings in that case.
+(2) Where the chair determines that only specified members of the Committee are required for a particular hearing and any related meeting, the chair must ensure that—
 
-(6) Paragraph (5) does not apply where the subsequent proceedings relate solely to measures under article 56 of the Order.
+- (a) the chair or a deputy chair is one of those members;
+- (b) the quorum is not less than three;
+- (c) the number of registrant members who are members of that formation of the Committee does not exceed the number of lay members (including any chair or deputy chair) by more than one; and
+- (d) any member who has sat in a formation of the Committee that has made an interim suspension order or an order for interim conditional entry in a particular case does not sit in subsequent proceedings in that case.
 
-(7) For the purposes of paragraph (5), where an interim suspension order or an order for interim conditional entry is made in the course of the proceedings to determine a case substantively, the rest of the proceedings to determine the case substantively are not “subsequent proceedings” even if the case is adjourned (for whatever reason).
+(3) Paragraph (2)(d) does not apply where the subsequent proceedings are held solely for the purposes of determining under article 56 of the Order whether to confirm, vary, replace or revoke an interim suspension order or an order for interim conditional entry.
 
-(8) At any meeting or hearing of a statutory committee, the number of registrant members considering a case must not exceed the number of lay members by more than one.
+#### 18B. Composition of Appeals Committee: further provision
 
-#### 19. Provisions against bias
+(1) The chair of the Appeals Committee may, having consulted the secretary of the Committee, and with regard to—
+
+- (a) the decision appealed against and the matters set out in the Notice of Appeal; and
+- (b) the availability, experience and expertise of Committee members,
+
+determine the particular size, composition and quorum of the Committee required for each hearing and any related meeting (other than any case management meeting).
+
+(2) Where the chair determines that only specified members of the Committee are required for a particular hearing and any related meeting, the chair must ensure that—
+
+- (a) the chair or a deputy chair is one of those members;
+- (b) the quorum is not less than three; [^c-dec1809f6e66e1066c8d453209e36c64]...
+- (c) the number of registrant members who are members of that formation of the Committee does not exceed the number of lay members (including any chair or deputy chair) by more than one ; and[^c-361b926c47a51bd09b8eb8d1819b4dce]
+- (d) any member who has sat in a formation of the Fitness to Practise Committee that has given advice on, or made findings of fact in relation to, a particular matter does not sit in a formation of the Appeals Committee that hears an appeal in proceedings connected with that matter.
+
+#### 19. Provisions against bias[^c-f6695a80e600236c11b524b06fbde4e0]
 
 (1) No member of a statutory committee (or a formation of a statutory committee) may sit as a member considering a particular case, at any stage of the proceedings relating to that case, if that member has an actual, or potential, conflict of interest in relation to that case.
 
@@ -539,7 +456,7 @@ determine the particular size, composition and quorum of the Committee required 
 
 (3) Each member of the statutory committees must notify the Registrar immediately of any private interest that the member has not previously notified to the Registrar but which may need to be recorded in the register maintained under paragraph (2).
 
-#### 20. Voting
+#### 20. Voting[^c-0320d52c476cbd1c04d345f85a03c190]
 
 (1) Decisions of a statutory committee must be taken by a simple majority of the members, with the chair not having a casting vote.
 
@@ -549,17 +466,15 @@ determine the particular size, composition and quorum of the Committee required 
 
 ### PART 6 — Advisers and their Advice
 
-#### 21. Functions of legal advisers
+#### 21. Functions of legal advisers[^c-c96da51d6c18c3c4d40478a87d511506]
 
 (1) A legal adviser—
 
-- (a) must be present at all meetings of the Investigating Committee at which a decision is to be taken as to whether or not to—
-  - (i) refer a case to the Fitness to Practise Committee, or
-  - (ii) notify the Registrar that the Council should consider exercising any of its powers to bring criminal proceedings;
-- (b) may be present at any other hearing before, or meeting of, a statutory committee, at the request of the chair or secretary of that statutory committee; and
+- (a)[^c-15d488066a5f88398dbe57a5373f60fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) may be present at any [^c-e125c83207fba287fa75c644e0bdef35]... hearing before, or meeting of, a statutory committee, at the request of the chair or secretary of that statutory committee; and
 - (c) may be present at any other meeting of, or hearing before, a committee of the Council which is not a statutory committee, at the request of the Registrar.
 
-(2) The function of the legal adviser who is present at a meeting or hearing referred to in paragraph (1)(a) or (b) is to ensure that proceedings before the statutory committee are conducted fairly.
+(2) The function of the legal adviser who is present at a meeting or hearing referred to in paragraph (1)(b)[^c-395f84aa9120254e2d59844561559381] is to ensure that proceedings before the statutory committee are conducted fairly.
 
 (3) The legal adviser who is present at a meeting or hearing referred to in paragraph (1) must—
 
@@ -568,16 +483,11 @@ determine the particular size, composition and quorum of the Committee required 
 - (c) inform the committee immediately of any irregularity in the conduct of proceedings before it; and
 - (d) at the request of the chair, advise the committee on the structure, format and presentation of the reasons for a decision of that committee.
 
-(4) If the chair of—
-
-- (a) the Fitness to Practise Committee; or
-- (b) the Appeals Committee,
-
-is not legally qualified, a legal adviser must be present at a case management meeting of that Committee conducted by the chair of that Committee.
+(4)[^c-8cdf095fba09e1ade771e6777a2e820e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) At the request of the chair, the legal adviser who is present at a meeting or hearing of a committee referred to in paragraph (1) may be present during the private deliberations of a committee, but must not participate in the decision making of the committee (and is not entitled to vote).
 
-#### 22. Functions of clinical advisers
+#### 22. Functions of clinical advisers[^c-14d968226d654e1e59fb2bb1e94561d9]
 
 (1) A clinical adviser—
 
@@ -596,7 +506,7 @@ is not legally qualified, a legal adviser must be present at a case management m
 
 (4) A clinical adviser must not participate in the decision making of any committee (and is not entitled to vote).
 
-#### 23. Functions of specialist advisers
+#### 23. Functions of specialist advisers[^c-659d2fa1dafbf5a63996ea43bf950310]
 
 (1) A specialist adviser—
 
@@ -611,7 +521,7 @@ is not legally qualified, a legal adviser must be present at a case management m
 
 (4) A specialist adviser must not participate in the decision making of any committee (and is not entitled to vote).
 
-#### 24. Requirement to give or repeat advice in public
+#### 24. Requirement to give or repeat advice in public[^c-69396f0fafbd70a2bb2cf578ea1021f5]
 
 (1) Subject to paragraphs (2) and (3), any advice tendered by a legal, clinical or specialist adviser at a meeting or hearing must be tendered in the presence of every party, or person representing a party, in attendance at the meeting or hearing.
 
@@ -624,7 +534,7 @@ is not legally qualified, a legal adviser must be present at a case management m
 - (a) the legal adviser must repeat the advice tendered to the committee before the parties, or any person representing a party, in attendance at the hearing; and
 - (b) the parties or their representatives in attendance at the hearing must be provided with a reasonable opportunity to comment on the advice given by the legal adviser, before the committee makes its decision on the issue under consideration.
 
-#### 25. Requirement to keep records of advice and interventions
+#### 25. Requirement to keep records of advice and interventions[^c-a6fd77ce2dc8a124afc3be0c3df22bba]
 
 (1) The secretary to a statutory committee must keep a record of any advice tendered to the committee by the legal, clinical or specialist adviser to that committee.
 
@@ -632,7 +542,7 @@ is not legally qualified, a legal adviser must be present at a case management m
 
 (3) A record of any advice tendered by the legal, clinical or specialist adviser must be sent to the parties to the proceedings (that is, the Council and the appellant or person concerned, as the case may be) or their representatives, as appropriate, as soon as practicable after it has been tendered.
 
-#### 26. Refusal by a statutory committee to accept advice
+#### 26. Refusal by a statutory committee to accept advice[^c-3ab08ee1a1a9ed156c8448d1451a3dec]
 
 Where any advice tendered by the legal, clinical or specialist adviser to a statutory committee is not accepted by that committee—
 
@@ -641,7 +551,7 @@ Where any advice tendered by the legal, clinical or specialist adviser to a stat
   - (i) keep a record of the advice tendered, and the reasons why the committee refused to accept that advice, and
   - (ii) send a copy of the record of the advice tendered and the reasons why the committee refused to accept that advice, to the parties to the proceedings (that is, the Council and the appellant or person concerned, as the case may be) or their representatives, as appropriate.
 
-#### 27. Questioning of witnesses
+#### 27. Questioning of witnesses[^c-7d8cfbd5d4e6c674c0f5a146023e0dec]
 
 A legal, clinical or specialist adviser advising a committee in accordance with these Rules may, with the permission of the chair of that committee, question any witnesses appearing before the committee.
 
@@ -677,11 +587,17 @@ Part 6 deals with the functions of legal, clinical and other specialist advisers
 
 [^f00002]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
+[^c-0e03d5d42ef64a991fcf0dc75625c1ab]: Commencement: [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-851aad767ce55a37745c1646f9266309]: Commencement: Sch. rule 2 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
 [^f00003]: Footnote: These Rules are scheduled to [S.I. 2010/1614](https://www.legislation.gov.uk/uksi/2010/1614).
 
-[^f00004]: Footnote: The Council for Healthcare Regulatory Excellence is established under Part 2 of the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17). The Council’s name was changed by section 113 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) from the Council for the Regulation of Health Care Professionals to the Council for Healthcare Regulatory Excellence.
+[^c-d6acd44dc3e9aa10e32aedf934800d9d]: Textual amendment: Words in Sch. rule 2 omitted (1.12.2012) by virtue of [The Health and Social Care Act 2012 (Consequential Amendments – the Professional Standards Authority for Health and Social Care) Order 2012 (S.I. 2012/2672)](https://www.legislation.gov.uk/uksi/2012/2672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2672/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2012/2672/article/3/2/a)
 
 [^f00005]: Footnote: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67). Part 4 of the Act is amended by paragraph 1(8) of Schedule 4 to [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^c-a5dd445a5046177f8cb62032760182f3]: Textual amendment: Words in Sch. rule 2 inserted (1.12.2012) by [The Health and Social Care Act 2012 (Consequential Amendments – the Professional Standards Authority for Health and Social Care) Order 2012 (S.I. 2012/2672)](https://www.legislation.gov.uk/uksi/2012/2672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2672/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2012/2672/article/3/2/b)
 
 [^f00006]: Footnote: These Rules are scheduled to [S.I. 2010/1617](https://www.legislation.gov.uk/uksi/2010/1617).
 
@@ -689,7 +605,59 @@ Part 6 deals with the functions of legal, clinical and other specialist advisers
 
 [^f00008]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
 
-[^f00009]: Footnote: The Guidance can be found on the Council’s website at www.pharmacyregulation.org.
+[^c-bcaf1e4d67f18a1f92b4d5c07c89d993]: Commencement: Sch. rule 3 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-83798f1a7630999f47d00654062482d4]: Textual amendment: Word in Sch. rule 3(1)(b) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [4(2)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/4/2/a)
+
+[^c-088cd84d27abe40703223332b7bcda36]: Textual amendment: Sch. rule 3(1)(c) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [4(2)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/4/2/b)
+
+[^c-fc77e7a1e909934a0cec1ab1ac1dd7be]: Textual amendment: Sch. rule 3(1)(d) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [4(2)(c)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/4/2/c)
+
+[^c-214877866c087065e65de5270879b4c6]: Textual amendment: Sch. rule 3(2)(b) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/4/3/a)
+
+[^c-376310d5a02a7005c572b196ac7f82d6]: Textual amendment: Sch. rule 3(2)(c) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/4/3/b)
+
+[^c-86829a3b73536d34cbdcf471d4a0c1e5]: Textual amendment: Sch. rule 3(2)(d) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [4(3)(c)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/4/3/c)
+
+[^c-57255683b251525ad299fba873e0babd]: Textual amendment: Word in Sch. rule 3(3)(b) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [4(4)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/4/4/a)
+
+[^c-ed0e13f050c02828b860ab274c210379]: Textual amendment: Sch. rule 3(3)(c) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [4(4)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/4/4/b)
+
+[^c-785e91c6b3c5aebe95c2f08f528de0f8]: Textual amendment: Sch. rule 3(3)(d) repealed (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [4(4)(c)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/4/4/c)
+
+[^c-6fa4a54f993a6adb4c4c46a116a32b30]: Textual amendment: Sch. rule 3(3A) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [4(5)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/rule/4/5)
+
+[^c-872b930526a1d1176e1a9f703c2f005a]: Commencement: Sch. rule 4 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-011bef67ce06e376af6f0ec87931e778]: Textual amendment: Sch. rule 4(1)(a) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [5(2)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/5/2/a)
+
+[^c-c4beac52147357878bf3b5aac965e05e]: Textual amendment: Sch. rule 4(1)(b) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/5/2/b)
+
+[^c-619ee864818ba769a8ad147c639bf2cb]: Textual amendment: Sch. rule 4(1)(e) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [5(2)(c)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/5/2/c)
+
+[^c-6c24e61320c5a935a8340ef373846e4c]: Textual amendment: [Sch. rule 4(2)](https://www.legislation.gov.uk/uksi/2010/1616/schedule/article/4/2) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [5(3)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/5/3)
+
+[^c-b7f2e333e28c8e172f43e02d4a5f8919]: Commencement: Sch. rule 5 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-0fabcca856bfa16729e0ffe185c13e54]: Textual amendment: Sch. rule 5(ab) inserted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/6/2), [6(2)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/6)
+
+[^c-35283c4c7ce26f6c8902a1de1c4340e5]: Textual amendment: Sch. rule 5(b) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [6(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/6/a)
+
+[^c-262ac977804e438efed8ceafdeb69b18]: Textual amendment: [Sch. rule 5(d)](https://www.legislation.gov.uk/uksi/2010/1616/schedule/article/5/d) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [6(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/6/b)
+
+[^c-62b9cae11905f56893379cf0cf96434f]: Commencement: Sch. rule 6 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-cdbef28cfc3db4f46c6a3793edd6f65d]: Textual amendment: Sch. rule 6 renumbered as Sch. rule 6(1) (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [7(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/7/a)
+
+[^c-285c29c786ad18f8ef2326d370daa979]: Textual amendment: [Sch. rule 6(2)](https://www.legislation.gov.uk/uksi/2010/1616/schedule/article/6/2) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [7(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/7/b)
+
+[^c-fb917e781f94b2f0d5c8196b98b1c157]: Commencement: [Sch. rule 7](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/7) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-0098955f64ef201da27f59110e797263]: Commencement: Sch. rule 8 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-ab75883e41c6e37186cc4c88e786e894]: Textual amendment: Sch. rule 8(2) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [8(2)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/8/2)
+
+[^c-85f0c0b54e3185737b09786f2c733bb9]: Textual amendment: Word in Sch. rule 8(3)(f) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [8(3)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/8/3)
 
 [^f00010]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
@@ -717,6 +685,90 @@ Part 6 deals with the functions of legal, clinical and other specialist advisers
 
 [^f00022]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
-[^f00023]: Footnote: The current guidance issued by the Judicial Studies Board entitled “Tribunal Competencies - Qualities and Abilities in Action “ is available at www.judiciary.gov.uk/publications-and-reports.
+[^c-7382a5abf60956becb8427f5f2c559a3]: Commencement: Sch. rule 9 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-71d8179ab653ca0e412d32246e79057f]: Textual amendment: Sch. rule 9(1)(3) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [9](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/9)
+
+[^c-05ea5ac8f04167b204dcc845bb229776]: Commencement: [Sch. rule 10](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/10) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-4464ce5ec8e18a9a50a7834143dc13fc]: Textual amendment: Sch. rule 11 substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [10](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/10)
+
+[^c-27d8b5e1e4d9b5ef3490f5e38925f9b4]: Commencement: [Sch. rule 12](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/12) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-b39a7437aa52eecc593fc698a2a6ab92]: Commencement: Sch. rule 13 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-cf6bef60864efd0e14e29d2ea906ccac]: Textual amendment: Sch. rule 13(1) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [11(2)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/11/2)
+
+[^c-e9a26eb7a5cfd235182e815822b41959]: Textual amendment: Sch. rule 13(1A)(1B) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [11(3)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/11/3)
+
+[^c-66a548676fbfe8db93fa95d179280271]: Textual amendment: Sch. rule 13(3) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [11(4)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/11/4)
+
+[^c-6f099da688a4ff405f5d0dad5221b032]: Textual amendment: Sch. rule 13(4)(5) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [11(5)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/11/5)
+
+[^c-8c983631b19151fe79662721f32bd911]: Textual amendment: Sch. rule 13(7) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [11(6)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/11/6)
+
+[^c-65c7a1c8d1c4bfdb44b027f7bd28401a]: Textual amendment: Sch. rule 13(8) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [11(7)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/11/7)
+
+[^c-5a85d38fadde39e239f473cc5695c65b]: Commencement: Sch. rule 14 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-330e7a0eb18cf335dc0bc3ee440e8fc1]: Textual amendment: Words in Sch. rule 14(1)(a) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [12(2)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/12/2/a)
+
+[^c-4d4a40cab10273c6c687fdff1db8f0fe]: Textual amendment: Words in Sch. rule 14(1)(b) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [12(2)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/12/2/b)
+
+[^c-4f1ef0c0e770df8c3700bd41b3fe6c8e]: Textual amendment: Words in Sch. rule 14(1)(d)(i)(ii)(vii) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [12(2)(c)(i)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/12/2/c)
+
+[^c-1e13f292eb8ea47cf57c0616a750f32e]: Textual amendment: Words in Sch. rule 14(1)(d)(iv) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [12(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/12/2/a)
 
 [^f00024]: Footnote: The guidance can be found on the Council’s website at www.pharmacyregulation.org.
+
+[^c-8498df1996d5fc0873a7eec18be5959f]: Textual amendment: Sch. rule 14(5) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [12(3)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/12/3)
+
+[^c-87c12d80f5f25fcdecea88a0a20ccebc]: Commencement: [Sch. rule 15](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/15) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-8e75dd4d1568f78305d483b1faf7db37]: Commencement: Sch. rule 16 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-cc35e56ef7a2e3e84b234cc7ae74a7ff]: Textual amendment: Words in [Sch. rule 16(2)](https://www.legislation.gov.uk/uksi/2010/1616/schedule/article/16/2) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [13(2)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/13/2)
+
+[^c-a1ff857854eed755d43f4fda02c6a639]: Textual amendment: Sch. rule 16(3A) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [13(3)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/13/3)
+
+[^c-45def4cbbf75d5597ef663d37e56ce64]: Textual amendment: Word in [Sch. rule 16(4)](https://www.legislation.gov.uk/uksi/2010/1616/schedule/article/16/4) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [13(4)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/13/4/a)
+
+[^c-5620486cec9a3039f4b55eff0777eabc]: Textual amendment: [Sch. rule 16(4)(b)](https://www.legislation.gov.uk/uksi/2010/1616/schedule/article/16/4/b) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [13(4)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/13/4/b)
+
+[^c-c25e6b5e5780f06751d1cebfdf3e7af2]: Commencement: Sch. rule 17 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-80f3a78aee5e665767477d1536e0b2c9]: Textual amendment: Sch. rule 17(3) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [14](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/14)
+
+[^c-4178d15dccb43b78b3777304fb49090f]: Textual amendment: Sch. rule 18 substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [15](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/15)
+
+[^c-b62f54a7699775965d83b7f8b5709f22]: Textual amendment: Sch. rules 18A, 18B inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [16](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/16)
+
+[^c-dec1809f6e66e1066c8d453209e36c64]: Textual amendment: Word in Sch. rule 18B(2)(b) omitted (21.11.2016) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/2/a)
+
+[^c-361b926c47a51bd09b8eb8d1819b4dce]: Textual amendment: Sch. rule 18B(2)(d) and word inserted (21.11.2016) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2016 (S.I. 2016/1008)](https://www.legislation.gov.uk/uksi/2016/1008), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2016/1008/schedule/paragraph/2/b)
+
+[^c-f6695a80e600236c11b524b06fbde4e0]: Commencement: [Sch. rule 19](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/19) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-0320d52c476cbd1c04d345f85a03c190]: Commencement: [Sch. rule 20](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/20) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-c96da51d6c18c3c4d40478a87d511506]: Commencement: Sch. rule 21 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-15d488066a5f88398dbe57a5373f60fb]: Textual amendment: Sch. rule 21(1)(a) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [17(2)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/17/2/a)
+
+[^c-e125c83207fba287fa75c644e0bdef35]: Textual amendment: Word in Sch. rule 21(1)(b) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [17(2)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/17/2/b)
+
+[^c-395f84aa9120254e2d59844561559381]: Textual amendment: Words in Sch. rule 21(2) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [17(3)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/17/3)
+
+[^c-8cdf095fba09e1ade771e6777a2e820e]: Textual amendment: Sch. rule 21(4) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/4/4/b), [17(4)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/17/4)
+
+[^c-14d968226d654e1e59fb2bb1e94561d9]: Commencement: [Sch. rule 22](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/22) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-659d2fa1dafbf5a63996ea43bf950310]: Commencement: [Sch. rule 23](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/23) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-69396f0fafbd70a2bb2cf578ea1021f5]: Commencement: [Sch. rule 24](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/24) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-a6fd77ce2dc8a124afc3be0c3df22bba]: Commencement: [Sch. rule 25](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/25) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-3ab08ee1a1a9ed156c8448d1451a3dec]: Commencement: [Sch. rule 26](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/26) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)
+
+[^c-7d8cfbd5d4e6c674c0f5a146023e0dec]: Commencement: [Sch. rule 27](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/27) in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1616/schedule/rule/1)

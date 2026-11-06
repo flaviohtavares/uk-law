@@ -219,7 +219,7 @@ EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
-This Order approves amendments made by the Nursing and Midwifery Council (“the Council”) to its Rules relating to the election scheme for the elected members of the Council. Elections are held annually for groups of registrant and alternate members of the Council on the basis of either the “first past the post” system, if there are only two candidates, or a “single transferable vote” system, if there are more than two candidates. The winner of the ballot becomes the registrant member and the second placed candidate becomes the alternate member for the particular national constituency and part of the Council’s register in relation to which the election is taking place.
+This Order approves amendments made by the Nursing and Midwifery Council (“**the Council**”) to its Rules relating to the election scheme for the elected members of the Council. Elections are held annually for groups of registrant and alternate members of the Council on the basis of either the “first past the post” system, if there are only two candidates, or a “single transferable vote” system, if there are more than two candidates. The winner of the ballot becomes the registrant member and the second placed candidate becomes the alternate member for the particular national constituency and part of the Council’s register in relation to which the election is taking place.
 
 The overall timetable for elections is reduced from six months to three, with corresponding cuts in the time allowed for each stage of the electoral process to take place (rules 3(a), 4, 6(a), 8(a) to (c))
 

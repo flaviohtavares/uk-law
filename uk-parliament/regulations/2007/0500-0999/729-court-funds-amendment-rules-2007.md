@@ -62,11 +62,11 @@ The Court Funds Rules 1987 are amended as follows—
 
 - (a) replace the definition of “Appointed Officer” with—
 
-  > - “Appropriation” means where the whole or any part of money paid into court under a court order or in support of a defence of tender before claim—
+  > - “**Appropriation**” means where the whole or any part of money paid into court under a court order or in support of a defence of tender before claim—
   >   - (a) prior to 6th April 2007, was treated as a CPR Part 36 payment in accordance with CPR Part 37 as it was in force immediately prior to that date; and
   >   - (b) on or after 6th April 2007, is used to satisfy a Part 36 offer in accordance with CPR Part 37.3,
   >
-  >   and the verb “appropriate” shall be construed accordingly.;
+  >   and the verb “**appropriate**” shall be construed accordingly.;
 
   ;
 - (b) omit the definition of “Authorised Officer”;
@@ -75,13 +75,13 @@ The Court Funds Rules 1987 are amended as follows—
 - (e) omit the definition of “Duty”;
 - (f) before the definition of “Employment Appeal Tribunal” insert—
 
-  > - “Effective date of appropriation” means, in relation to funds appropriated prior to 6th April 2007, the date on which a notice of appropriation was received by the Accountant General;
+  > - “**Effective date of appropriation**” means, in relation to funds appropriated prior to 6th April 2007, the date on which a notice of appropriation was received by the Accountant General;
 
   ;
 - (g) omit the definition of “Fund or Fund in Court”; and
 - (h) after the definition of “Special Account” insert—
 
-  > - “Transitional funds” means money which, less than 21 days prior to 6th April 2007, in satisfaction of a claim—
+  > - “**Transitional funds**” means money which, less than 21 days prior to 6th April 2007, in satisfaction of a claim—
   >   - (a) had been paid into court in accordance with CPR Part 36; or
   >   - (b) had been appropriated in accordance with CPR Part 37,
   >

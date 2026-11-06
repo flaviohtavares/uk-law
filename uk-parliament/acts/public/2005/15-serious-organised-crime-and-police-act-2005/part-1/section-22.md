@@ -3,7 +3,7 @@ title: Serious Organised Crime and Police Act 2005, section 22
 act: Serious Organised Crime and Police Act 2005
 section: '22'
 status: repealed
-text_date: '2026-06-29'
+text_date: '2026-10-15'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2005/15/section/22
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

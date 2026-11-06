@@ -59,7 +59,7 @@ The Trade Marks Rules 2000[^f00002] are amended as follows.
 > - (a) the applicant; and
 > - (b) any relevant proprietor.
 >
-> (2) In paragraph (1), “relevant proprietor” means—
+> (2) In paragraph (1), “**relevant proprietor**” means—
 >
 > - (a) the proprietor of a registered trade mark or international trade mark (UK) which is an earlier trade mark in relation to which it appears to the registrar that the conditions set out in section 5(1) or (2) obtain but does not include a proprietor who has notified the registrar that he does not wish to be notified; and
 > - (b) the proprietor of a Community trade mark or international trade mark (EC) which is an earlier trade mark in relation to which it appears to the registrar that the conditions set out in section 5(1) or (2) obtain and who has filed a request to be notified in relation to that mark in accordance with paragraph (4) below.
@@ -68,7 +68,7 @@ The Trade Marks Rules 2000[^f00002] are amended as follows.
 >
 > (4) The proprietor of a Community trade mark or international trade mark (EC) may file a request to be notified in relation to that mark of the results of a notifiable search on Form TM6, which shall be filed electronically using the filing system provided on the Office website, or by such other means as the registrar may at her discretion permit in any particular case, and shall be subject to payment of the prescribed fee.
 >
-> (5) In paragraph (4) a “notifiable search” means any search under Article 4 of the Trade Marks (Relative Grounds) Order 2007 conducted within the period of three years beginning with the date on which the request was filed.
+> (5) In paragraph (4) a “**notifiable search**” means any search under Article 4 of the Trade Marks (Relative Grounds) Order 2007 conducted within the period of three years beginning with the date on which the request was filed.
 >
 > (6) The filing of any request under paragraph (4) shall be subject to such terms or conditions as the registrar may specify generally by published notice or in any particular case by written notice to the person desiring to file the request otherwise than by electronic means.
 >

@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1990-05-24'
-text_date: '2026-10-31'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1990/8
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1990/8/pdfs/ukpga_19900008_en.pdf
 - http://www.legislation.gov.uk/ukpga/1990/8/data.pdf
-pending_changes: 816
+pending_changes: 805
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Town and Country Planning Act 1990
 
-> **Warning: changes not yet applied to this text (816).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/8
+> **Warning: changes not yet applied to this text (805).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/8
 >
 > Extent: England, Wales.
 
@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 
 \[24th May 1990\]
 
-[^c14014551][^c14014561][^c14014571][^c14014581][^c14014591][^c18811351][^c18871971][^c19897331][^c19901431][^c20573341][^c21003851]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c9ac83d0a766c046ee822f2998f20665][^c-d67af27b689010230292f1f09f078faa][^c-5cacd62f9a0ae14b82cc65d71b706662][^c-e88ee41f8d920c07b2fe93c615f4d771][^c-5fbed5b09dd57097ba02e438e6145b28][^c-862bfba418437da4e85d94efc80d9d24][^c-89fd2136123961d9f0a990ece2f7c650][^c-73e6dc646ed04f6bdc18d3b7912dc6b2][^c-4062c4d4a370691cb76310efae40f424][^c-70d73aa57cc7ae679f069b0d36465761][^c-6429aa637201c264fc415dc644fa458a][^c-909ac4590a9862e481a4ec712e53c0de][^c-074183525d0a9b3df37f05a7e75923f7][^c-7e23675eabfb24ab75b9b8316de8c8c7][^c-92172f958cb1d2b0c05b68d4f1d858ef][^c-980f74f84749d8fd54e3948799a8a9a9][^c-1341e6f6a3a2c14aeac9a47d04b25b5a][^c-65d5817ca5483453c06d7fc61fb11833][^c-f8389b17ae2f9baec953b74ab690e451][^c-20be874f265383e446dc48b5a1dba5aa][^c-f493933cb7808f395bbe6932db9a6d91]
+[^c14014551][^c14014561][^c14014571][^c14014581][^c14014591][^c18811351][^c18871971][^c19897331][^c19901431][^c20573341][^c21003851]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c9ac83d0a766c046ee822f2998f20665][^c-d67af27b689010230292f1f09f078faa][^c-5cacd62f9a0ae14b82cc65d71b706662][^c-e88ee41f8d920c07b2fe93c615f4d771][^c-5fbed5b09dd57097ba02e438e6145b28][^c-862bfba418437da4e85d94efc80d9d24][^c-89fd2136123961d9f0a990ece2f7c650][^c-73e6dc646ed04f6bdc18d3b7912dc6b2][^c-4062c4d4a370691cb76310efae40f424][^c-70d73aa57cc7ae679f069b0d36465761][^c-6429aa637201c264fc415dc644fa458a][^c-909ac4590a9862e481a4ec712e53c0de][^c-074183525d0a9b3df37f05a7e75923f7][^c-7e23675eabfb24ab75b9b8316de8c8c7][^c-92172f958cb1d2b0c05b68d4f1d858ef][^c-980f74f84749d8fd54e3948799a8a9a9][^c-1341e6f6a3a2c14aeac9a47d04b25b5a][^c-65d5817ca5483453c06d7fc61fb11833][^c-f8389b17ae2f9baec953b74ab690e451][^c-20be874f265383e446dc48b5a1dba5aa][^c-f493933cb7808f395bbe6932db9a6d91][^c-93eac6e9a6bcace7b73e0dd6eb03f399]
 
 ## Contents
 
@@ -1341,6 +1341,8 @@ SCHEDULES
 [^c-20be874f265383e446dc48b5a1dba5aa]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) modified (15.12.2025) by [The Portsmouth International Port and Camber Harbour Revision Order 2025 (S.I. 2025/1223)](https://www.legislation.gov.uk/uksi/2025/1223), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1223/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2025/1223/article/4/5) (with [arts. 31](https://www.legislation.gov.uk/uksi/2025/1223/article/31), [59-61](https://www.legislation.gov.uk/uksi/2025/1223/article/59))
 
 [^c-f493933cb7808f395bbe6932db9a6d91]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) modified (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [20(1)](https://www.legislation.gov.uk/uksi/2026/724/article/20/1) (with [arts. 36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
+
+[^c-93eac6e9a6bcace7b73e0dd6eb03f399]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) modified (5.11.2026) by [The Port of Tyne Harbour Revision Order 2026 (S.I. 2026/1088)](https://www.legislation.gov.uk/uksi/2026/1088), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1088/article/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2026/1088/article/13/3) (with [arts. 64](https://www.legislation.gov.uk/uksi/2026/1088/article/64), [65](https://www.legislation.gov.uk/uksi/2026/1088/article/65))
 
 [^c14014621]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1990/8/part/1) applied by [Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/9), [s. 81](https://www.legislation.gov.uk/ukpga/1990/9/section/81), [Sch. 4](https://www.legislation.gov.uk/ukpga/1990/9/schedule/4)
 

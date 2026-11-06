@@ -3,7 +3,7 @@ title: Neighbourhood Planning Act 2017, section 35
 act: Neighbourhood Planning Act 2017
 section: '35'
 status: revised-with-pending-changes
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2017/20/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Neighbourhood Planning Act 2017, section 35
 
-> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/20
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

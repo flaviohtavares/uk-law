@@ -58,7 +58,7 @@ The Town and Country Planning (Inquiries Procedure) (Wales) Rules 2003[^f00002] 
 
 - (a) in rule 2 (interpretation), for the definition of “starting date” substitute—
 
-  > - “starting date” means the date of the notice given by the Welsh Ministers under rule 3A or the date of the relevant notice, whichever is the later;
+  > - “**starting date**” means the date of the notice given by the Welsh Ministers under rule 3A or the date of the relevant notice, whichever is the later;
 
   ;
 - (b) after rule 3 (application of these Rules), insert—
@@ -90,7 +90,7 @@ The Town and Country Planning (Determination by Inspectors) (Inquiries Procedure
 
 - (a) in rule 2 (interpretation), for the definition of “starting date” substitute—
 
-  > - “starting date” means the date of the notice given by the Welsh Ministers under rule 3A or the date of the relevant notice, whichever is the later;
+  > - “**starting date**” means the date of the notice given by the Welsh Ministers under rule 3A or the date of the relevant notice, whichever is the later;
 
   ;
 - (b) after rule 3 (application of these Rules), insert—
@@ -141,7 +141,7 @@ The Town and Country Planning (Hearings Procedure) (Wales) Rules 2003[^f00007] a
 
 - (a) in rule 2 (interpretation), for the definition of “starting date” substitute—
 
-  > - “starting date” means the date of the notice given by the Welsh Ministers under rule 3A or the date of the relevant notice, whichever is the later;
+  > - “**starting date**” means the date of the notice given by the Welsh Ministers under rule 3A or the date of the relevant notice, whichever is the later;
 
   ;
 - (b) after rule 3 (application of these Rules), insert—
@@ -185,7 +185,7 @@ Rule 7 amends the Town and Country Planning (Hearings Procedure) (Wales) Rules 2
 
 These amendments —
 
-- (a) place a duty on the Welsh Ministers (referred to in the original Rules as “the National Assembly for Wales” but now referred to as “the Welsh Ministers” in accordance with the terminology used to reflect the new devolved institutions established by the Government of Wales Act 2006) to notify the appellant and the local planning authority that they have received all the documents they require to enable them to entertain an appeal;
+- (a) place a duty on the Welsh Ministers (referred to in the original Rules as “the National Assembly for Wales” but now referred to as “**the Welsh Ministers**” in accordance with the terminology used to reflect the new devolved institutions established by the Government of Wales Act 2006) to notify the appellant and the local planning authority that they have received all the documents they require to enable them to entertain an appeal;
 - (b) place a duty on the Welsh Ministers to notify the appellant and the local planning authority that the appeal is to be dealt with by holding a hearing or, as the case may be, an inquiry;
 - (c) specify the period of time within which statements of case must be sent by the parties; and
 - (d) specify, where a pre-inquiry meeting has been held, the period of time within which the exchange of representations between the parties must be completed.

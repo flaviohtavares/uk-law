@@ -3,16 +3,16 @@ title: The Immigration and Nationality (Cost Recovery Fees)(Amendment) Regulatio
 id: uksi/2008/218
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-04'
-text_date: null
-extent: null
+text_date: '2008-02-29'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/218
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/218/pdfs/uksiem_20080218_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/218/pdfs/uksi_20080218_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/218/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/218/data.pdf
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Immigration and Nationality (Cost Recovery Fees)(Amendment) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-02-29. See https://www.legislation.gov.uk/changes/affected/uksi/2008/218
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 218
 
@@ -42,7 +46,7 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State makes the following Regulations with the consent of the Treasury in exercise of the powers conferred on her by sections 51(3) and 52(3) of the Immigration, Asylum and Nationality Act 2006[^f00001].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-203904336cc86e39caf061f64767b69f]
 
 (1) These Regulations may be cited as the Immigration and Nationality (Cost Recovery Fees) (Amendment) Regulations 2008.
 
@@ -50,7 +54,7 @@ The Secretary of State makes the following Regulations with the consent of the T
 
 (3) Regulations 2(4) and 2(6) shall come into force on 1st April 2008.
 
-## 2. Amendment
+## 2. Amendment[^c-8de64178a2f962a781099b85c5326f48][^c-6f91b2487a26b8dc8d9ce60c3377c33a]
 
 (1) The Immigration and Nationality (Cost Recovery Fees) Regulations 2007[^f00002] shall be amended as follows.
 
@@ -191,6 +195,12 @@ An impact assessment has been prepared in respect of the proposed fees for spons
 ## Annotations
 
 [^f00001]: Footnote: [2006 c.13](https://www.legislation.gov.uk/ukpga/2006/13).
+
+[^c-203904336cc86e39caf061f64767b69f]: Commencement: Reg. 1 in force at 29.2.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/218/regulation/1/2)
+
+[^c-8de64178a2f962a781099b85c5326f48]: Commencement: Reg. 2(1)-(3)(5)(7) in force at 29.2.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/218/regulation/1/2)
+
+[^c-6f91b2487a26b8dc8d9ce60c3377c33a]: Commencement: Reg. 2(4)(6) in force at 1.4.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/218/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 2007/936](https://www.legislation.gov.uk/uksi/2007/936).
 

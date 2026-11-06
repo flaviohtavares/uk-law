@@ -3,7 +3,7 @@ title: Housing and Planning Act 2016, section 203
 act: Housing and Planning Act 2016
 section: '203'
 status: revised-with-pending-changes
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2016/22/section/203
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Housing and Planning Act 2016, section 203
 
-> **Warning: changes not yet applied to this text (34).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
+> **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Power to override easements and other rights[^c-a247c4a92f6d20fba974f8c0bed1436d][^c-226aa1d5f4b96b66c59ff2fbc1641868][^c-02d2dab452223ef5ac4316fed0c18c41][^c-8dbcfe1949c50f64b09fd12e38c6e826][^c-0464c39b68c1d3fdbdc01831b5706d13][^c-2ed6e714dabb8dcc58589d3378738932][^c-ab5bfc055ba713a8774f923431f634b2][^c-3821eca575f0a78a749cd9c7a4fa4a9c][^c-3fb309f9939ba2e756bbc5e54cc1bc07][^c-8033f9b3158b8657b41c252e02699032][^c-6b2a3d4522fad300cbb50cacd31fa8f3][^c-658c8289ade51109e256df1db31f641d][^c-c5c23c3316b0d1ac332adb0e3ca5ffdb][^c-3eca71a8b7add4ef671b29ee3682175b][^c-21c71dce66d9382f96169862ca1c6a20][^c-5e5c5f0c184eab2c8c708dd04c97bd19][^c-d04508ee28a712a302200daea093ed91][^c-2a5e7b90d1e302492fe4a8e4fd63ff5c][^c-0fc3de1e789bd08b85ad10d90844c5c6][^c-10d77ad93d5079efaba678ed8d1b9bbd][^c-b5fe2f937796da4d66b2f4de802ec31b][^c-6cb756e9e2ba1f83f67df6ebd62b1c0d][^c-9c064be6db63eb3ecb68037806967dff][^c-eae5a4c6b23685081831b0025375a3c3][^c-ad06298c41f8c6e09f740c47b4acdab0][^c-24d5d52b2f0a7fc61f5a76f309d141c8][^c-506aa8ad761334f78a361f1cfd646019][^M_C_6543c4b2-6028-4eb7-d1bf-ac003689a934][^c-30ce1fff91bf4bd39d78f805ba5c41c3][^c-c8e03c282317f881a014c92e11c5e23d][^c-eedc50fa5fb9e71dab65a240e6c0f1b3][^c-61ac9886a5523a45e5d18c41b019fa2a][^c-70afec1d9cc05db050308cf4cda40d40][^c-875043ef94381af84c1f12b7e583a187]
+## 203. Power to override easements and other rights[^c-a247c4a92f6d20fba974f8c0bed1436d][^c-226aa1d5f4b96b66c59ff2fbc1641868][^c-02d2dab452223ef5ac4316fed0c18c41][^c-8dbcfe1949c50f64b09fd12e38c6e826][^c-0464c39b68c1d3fdbdc01831b5706d13][^c-2ed6e714dabb8dcc58589d3378738932][^c-ab5bfc055ba713a8774f923431f634b2][^c-3821eca575f0a78a749cd9c7a4fa4a9c][^c-3fb309f9939ba2e756bbc5e54cc1bc07][^c-8033f9b3158b8657b41c252e02699032][^c-6b2a3d4522fad300cbb50cacd31fa8f3][^c-658c8289ade51109e256df1db31f641d][^c-c5c23c3316b0d1ac332adb0e3ca5ffdb][^c-3eca71a8b7add4ef671b29ee3682175b][^c-21c71dce66d9382f96169862ca1c6a20][^c-5e5c5f0c184eab2c8c708dd04c97bd19][^c-d04508ee28a712a302200daea093ed91][^c-2a5e7b90d1e302492fe4a8e4fd63ff5c][^c-0fc3de1e789bd08b85ad10d90844c5c6][^c-10d77ad93d5079efaba678ed8d1b9bbd][^c-b5fe2f937796da4d66b2f4de802ec31b][^c-6cb756e9e2ba1f83f67df6ebd62b1c0d][^c-9c064be6db63eb3ecb68037806967dff][^c-eae5a4c6b23685081831b0025375a3c3][^c-ad06298c41f8c6e09f740c47b4acdab0][^c-24d5d52b2f0a7fc61f5a76f309d141c8][^c-506aa8ad761334f78a361f1cfd646019][^M_C_6543c4b2-6028-4eb7-d1bf-ac003689a934][^c-30ce1fff91bf4bd39d78f805ba5c41c3][^c-c8e03c282317f881a014c92e11c5e23d][^c-eedc50fa5fb9e71dab65a240e6c0f1b3][^c-61ac9886a5523a45e5d18c41b019fa2a][^c-70afec1d9cc05db050308cf4cda40d40][^c-875043ef94381af84c1f12b7e583a187][^c-e9e30b93faf64ed610e3b0a40cda15e1]
 
 *Extent: E+W*
 
@@ -157,6 +157,8 @@ summary: ''
 [^c-70afec1d9cc05db050308cf4cda40d40]: Modification: [S. 203](https://www.legislation.gov.uk/ukpga/2016/22/section/203) restricted (23.7.2026) by [The Peartree Hill Solar Farm Order 2026 (S.I. 2026/869)](https://www.legislation.gov.uk/uksi/2026/869), [art. 1](https://www.legislation.gov.uk/uksi/2026/869/article/1), [Sch. 11 para. 74(3)](https://www.legislation.gov.uk/uksi/2026/869/schedule/11/paragraph/74/3) (with [art. 37](https://www.legislation.gov.uk/uksi/2026/869/article/37), [Sch. 11](https://www.legislation.gov.uk/uksi/2026/869/schedule/11))
 
 [^c-875043ef94381af84c1f12b7e583a187]: Modification: [S. 203](https://www.legislation.gov.uk/ukpga/2016/22/section/203) excluded (14.9.2026) by [The Beacon Fen Energy Park Order 2026 (S.I. 2026/1025)](https://www.legislation.gov.uk/uksi/2026/1025), [art. 1](https://www.legislation.gov.uk/uksi/2026/1025/article/1), [Sch. 11 para. 116(1)(p)](https://www.legislation.gov.uk/uksi/2026/1025/schedule/11/paragraph/116/1/p) (with [art. 39](https://www.legislation.gov.uk/uksi/2026/1025/article/39), [Sch. 11 para. 131](https://www.legislation.gov.uk/uksi/2026/1025/schedule/11/paragraph/131))
+
+[^c-e9e30b93faf64ed610e3b0a40cda15e1]: Modification: [S. 203](https://www.legislation.gov.uk/ukpga/2016/22/section/203) restricted (31.10.2026) by [The Steeple Renewables Project Order 2026 (S.I. 2026/1086)](https://www.legislation.gov.uk/uksi/2026/1086), [art. 1](https://www.legislation.gov.uk/uksi/2026/1086/article/1), [Sch. 10 para. 129(1)](https://www.legislation.gov.uk/uksi/2026/1086/schedule/10/paragraph/129/1) (with [Sch. 10](https://www.legislation.gov.uk/uksi/2026/1086/schedule/10))
 
 [^c-74a34e9af5c4cbc06f51ac86c8166666]: Textual amendment: Words in s. 203(1)(b) renumbered as s. 203(1)(b)(i) (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 20 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/20/paragraph/5/2/a) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/d)
 

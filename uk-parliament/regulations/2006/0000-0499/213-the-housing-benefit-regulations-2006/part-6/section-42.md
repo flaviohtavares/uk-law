@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations 2006, section 42
 act: The Housing Benefit Regulations 2006
 section: '42'
 status: revised-with-pending-changes
-text_date: '2026-10-05'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2006/213/section/42
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations 2006, section 42
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
 >
 > Extent: England, Wales, Scotland.
 
@@ -52,7 +52,7 @@ any income which would become available to the claimant upon application being m
 
 (7)[^c-8770f8c67045146b9e1647ebda2890c6] Paragraph (6) shall not apply in respect of a payment of income made—
 
-- (a) under or by[^c-5373b73b53434dd9a16dce0f897f35fe] the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust , MFET Limited[^c-b5b0e4ba1a63636e6ae6aa1489d4f037], the Skipton Fund, the Caxton Foundation[^c-6fa663a3279d42a67f2eb1aff19e93d9] , the Scottish Infected Blood Support Scheme[^c-3a85539fc864caed55fa549bb91e3576] , an approved blood scheme[^c-e86424c8cc91903cf7d2298c5c8164db] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-bb7dbe30d13919f46747ef1e8ff6b5b1], the National Emergencies Trust[^c-a077cda856493ed2613693ff944ff55b] or the Independent Living Fund (2006)[^c-24062eb42dd56f794eeb2bff8230e72b];
+- (a) under or by[^c-5373b73b53434dd9a16dce0f897f35fe] the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust , MFET Limited[^c-b5b0e4ba1a63636e6ae6aa1489d4f037] , the Skipton Fund, the Caxton Foundation[^c-6fa663a3279d42a67f2eb1aff19e93d9] , the Scottish Infected Blood Support Scheme[^c-3a85539fc864caed55fa549bb91e3576] , an approved blood scheme[^c-e86424c8cc91903cf7d2298c5c8164db] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-bb7dbe30d13919f46747ef1e8ff6b5b1] , the National Emergencies Trust[^c-a077cda856493ed2613693ff944ff55b] or the Independent Living Fund (2006)[^c-24062eb42dd56f794eeb2bff8230e72b];
 - (b) pursuant to section 19(1)(a) of the Coal Industry Act 1994 [^c15407601] (concessionary coal);
 - (c) pursuant to section 2 of the 1973 Act in respect of a person's participation—
   - (i) in an employment programme specified in regulation 75(1)(a)(ii) of the Jobseeker's Allowance Regulations;
@@ -76,7 +76,8 @@ any income which would become available to the claimant upon application being m
 - (c)[^c-d7a6b9415caaffe7eb3944ae64d1d68d] a Windrush payment;
 - (d) a Post Office compensation payment;
 - (e) an LGBT Financial Recognition Scheme payment;[^c-b56e8092c99f08b3e65743d77c9d1602]
-- (f) a miscarriage of justice compensation payment.
+- (f) a miscarriage of justice compensation payment;[^c-e5b6948e70c468382094702fb8b1e390]
+- (g) a Mother and Baby Scheme payment.
 
 (8) Where a claimant is in receipt of any benefit (other than housing benefit) under the benefit Acts and the rate of that benefit is altered with effect from a date on or after 1st April in any year but not more than 14 days thereafter, the relevant authority shall treat the claimant as possessing such benefit at the altered rate—
 
@@ -179,6 +180,8 @@ the relevant authority shall treat the claimant as possessing such earnings (if 
 [^c-d7a6b9415caaffe7eb3944ae64d1d68d]: Textual amendment: [Reg. 42(7A)(c)-(e)](https://www.legislation.gov.uk/uksi/2006/213/regulation/42/7A/c) substituted for [reg. 42(7A)(c)(d)](https://www.legislation.gov.uk/uksi/2006/213/regulation/42/7A/c) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2025/44/regulation/6/3)
 
 [^c-b56e8092c99f08b3e65743d77c9d1602]: Textual amendment: [Reg. 42(7A)(f)](https://www.legislation.gov.uk/uksi/2006/213/regulation/42/7A/f) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2025/778/regulation/5/3)
+
+[^c-e5b6948e70c468382094702fb8b1e390]: Textual amendment: [Reg. 42(7A)(g)](https://www.legislation.gov.uk/uksi/2006/213/regulation/42/7A/g) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/4/3)
 
 [^c-e08ddb5e13216c378a736459236bc41a]: Textual amendment: Words in reg. 42(8)(a) inserted (1.4.2006) by [The Social Security (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/588)](https://www.legislation.gov.uk/uksi/2006/588), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2006/588/regulation/1/4), [8(2)(d)](https://www.legislation.gov.uk/uksi/2006/588/regulation/8/2/d)
 

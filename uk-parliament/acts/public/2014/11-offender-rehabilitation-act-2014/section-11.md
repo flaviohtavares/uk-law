@@ -2,8 +2,8 @@
 title: Offender Rehabilitation Act 2014, section 11
 act: Offender Rehabilitation Act 2014
 section: '11'
-status: revised-with-pending-changes
-text_date: '2026-05-11'
+status: revised
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2014/11/section/11
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Offender Rehabilitation Act 2014, section 11
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-05-11. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/11
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -25,22 +25,9 @@ summary: ''
 (2) In section 64 (release on licence: drug testing requirements)—
 
 - (a) in subsection (1)(a), omit “for a trigger offence, and”,
-- (b) in that subsection, at the end insert
-
-  > , and
-  >
-  > - (c) the Secretary of State is satisfied of the matters in subsection (1A).
-
-  ,
-- (c) after that subsection insert—
-
-  > (1A) Those matters are—
-  >
-  > - (a) that the misuse by the person of a specified class A drug or a specified class B drug caused or contributed to an offence of which the person has been convicted or is likely to cause or contribute to the commission of further offences by the person, and
-  > - (b) that the person is dependent on, or has a propensity to misuse, a specified class A drug or a specified class B drug.
-
-  ,
-- (d) in subsection (2), after “conditions” insert “ mentioned in subsection (1)(b) ”, and
+- (b)[^c-e9eab0f142609c0d6aa98810f674bcf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e9eab0f142609c0d6aa98810f674bcf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-e9eab0f142609c0d6aa98810f674bcf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in subsection (3), after “specified Class A drug” insert “ or specified Class B drug ”.
 
 (3) In section 70(1) (interpretation)—
@@ -51,3 +38,5 @@ summary: ''
 ## Annotations
 
 [^c-2cc73163a428d40e9a04b5bf536ddf8f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/11/section/11) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(j)](https://www.legislation.gov.uk/uksi/2015/40/article/2/j)
+
+[^c-e9eab0f142609c0d6aa98810f674bcf0]: Textual amendment: [S. 11(2)(b)-(d)](https://www.legislation.gov.uk/ukpga/2014/11/section/11/2/b) omitted (1.10.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 27(8)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/8), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 27(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/9)); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

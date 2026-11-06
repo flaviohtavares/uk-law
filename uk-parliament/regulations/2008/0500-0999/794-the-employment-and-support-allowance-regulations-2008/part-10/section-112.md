@@ -3,7 +3,7 @@ title: The Employment and Support Allowance Regulations 2008, section 112
 act: The Employment and Support Allowance Regulations 2008
 section: '112'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/794/section/112
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Employment and Support Allowance Regulations 2008, section 112
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2008/794
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/794
 >
 > Extent: England, Wales, Scotland.
 
@@ -43,7 +43,8 @@ summary: ''
   - (iii)[^c-2bd661f655a5bab85f257a61afd00eb0] Windrush payment;
   - (iv) Post Office compensation payment;
   - (v) LGBT Financial Recognition Scheme payment;[^c-d3cba5b7b9e66b49c193eea37c654768]
-  - (vi) miscarriage of justice compensation payment.
+  - (vi) miscarriage of justice compensation payment;[^c-666984f8934a18c91b28c2e44c0519bb]
+  - (vii) Mother and Baby Scheme payment.
 
 (9) Any arrears of subsistence allowance which are paid to a claimant as a lump sum are to be treated as capital.
 
@@ -66,3 +67,5 @@ summary: ''
 [^c-2bd661f655a5bab85f257a61afd00eb0]: Textual amendment: [Reg. 112(8)(b)(iii)-(v)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b/iii) substituted for [reg. 112(8)(b)(iii)(iv)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b/iii) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2025/44/regulation/8/4)
 
 [^c-d3cba5b7b9e66b49c193eea37c654768]: Textual amendment: [Reg. 112(8)(b)(vi)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b/vi) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2025/778/regulation/7/4)
+
+[^c-666984f8934a18c91b28c2e44c0519bb]: Textual amendment: [Reg. 112(8)(b)(vii)](https://www.legislation.gov.uk/uksi/2008/794/regulation/112/8/b/vii) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/6/4)

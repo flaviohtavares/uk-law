@@ -3,16 +3,16 @@ title: Offender Rehabilitation Act 2014
 id: ukpga/2014/11
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '2014-03-13'
-text_date: '2026-05-11'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2014/11
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2014/11/pdfs/ukpgaen_20140011_en.pdf
 - http://www.legislation.gov.uk/ukpga/2014/11/pdfs/ukpga_20140011_en.pdf
 - http://www.legislation.gov.uk/ukpga/2014/11/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Offender Rehabilitation Act 2014
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-05-11. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/11
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 29
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '29'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/29
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 29
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Old system students who are gap year students who have studied on a previous course
+## 29. Old system students who are gap year students who have studied on a previous course[^c-2e02c9d1343f7aa0b152c291b7398aae]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) This regulation applies where—
 
@@ -48,3 +54,7 @@ where
 (9) Where an old system student to whom this regulation applies qualifies for a grant for fees under paragraph (8), the Secretary of State must not allocate a grant for fees under paragraph (6) to the first academic year that the student takes of the designated course that is not a bursary year or an Erasmus year.
 
 (10) The amount of the grant for fees in respect of an academic year is determined in accordance with regulation 31 or 32 where the eligible student falls within paragraph (1)(a) and in accordance with regulation 31, 32 or 33 where the eligible student falls within paragraph (1)(b) and in either case the amount may be nil.
+
+## Annotations
+
+[^c-2e02c9d1343f7aa0b152c291b7398aae]: Commencement: Reg. 29 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

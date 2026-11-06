@@ -37,7 +37,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## 1. Citation, commencement and extent
 
-(1) These Regulations may be cited as the Police Act 1997 (Criminal Records and Registration) (Guernsey) (Amendment) Regulations 2026 and come into force on the day after the day on which it is registered by the Royal Court of Guernsey.
+(1) These Regulations may be cited as the Police Act 1997 (Criminal Records and Registration) (Guernsey) (Amendment) Regulations 2026 and come into force on the day after the day on which they are registered by the Royal Court of Guernsey.
 
 (2) These Regulations extend to Guernsey.
 

@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: null
-text_date: '2023-12-26'
+text_date: '2026-10-05'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1982/41
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1982/41/pdfs/ukpga_19820041_en.pdf
 - http://www.legislation.gov.uk/ukpga/1982/41/data.pdf
-pending_changes: 3
+pending_changes: 2
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Stock Transfer Act 1982
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2023-12-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/41
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/41
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -147,7 +147,7 @@ Securities issued in the United Kingdom by the African Development Bank, the Asi
 
 (2) In sub-paragraph (1) above “**local authority**” means—
 
-- (a)[^c7538581][^c7538591] any of the following authorities in England and Wales, namely, the Greater London Authority[^c7538601]a county council . . . [^c7538611], a district council, a London borough council, the Common Council of the City of London , a functional body (within the meaning of the Greater London Authority Act 1999),[^c7538621] . . .[^c7538631] [^c7538641] a joint authority established by Part IV of the Local Government Act 1985 ,[^c-9711188676302b12a99f1f8c96fee241] an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009, a combined authority established under section 103 of that Act[^c-5e45f869994514f7acf766178e4a6d1f] , a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023 *(Extent: E+W)*[^c-5e517ad06ea85682bdd74605a0ed6767] [^c-eaa0a783e97c5063c93bd3e39185648b]... or the Council of the Isles of Scilly;
+- (a)[^c7538581][^c7538591][^c-5f76c1d6170460f7fa44b84d789a73b9] any of the following authorities in England and Wales, namely, the Greater London Authority[^c7538601]a county council . . . [^c7538611], a district council, a London borough council, the Common Council of the City of London , a functional body (within the meaning of the Greater London Authority Act 1999),[^c7538621] . . .[^c7538631] [^c7538641] a joint authority established by Part IV of the Local Government Act 1985 ,[^c-9711188676302b12a99f1f8c96fee241] an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009, a combined authority established under section 103 of that Act[^c-5e45f869994514f7acf766178e4a6d1f] , a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023 *(Extent: E+W)*[^c-5e517ad06ea85682bdd74605a0ed6767] [^c-eaa0a783e97c5063c93bd3e39185648b]... or the Council of the Isles of Scilly;
 - (b)[^c7538651] any council constituted under section 2 of the Local Government etc. (Scotland) Act 1994
 - (c) a council, within the meaning of the [^c7538661]Local Government Act (Northern Ireland) 1972;
 
@@ -259,6 +259,8 @@ Section 3.
 [^c7538581]: Modification: Sch. 1 para. 7(2)(*a*) extended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 4](https://www.legislation.gov.uk/uksi/1985/1884/article/4)(*v*)
 
 [^c7538591]: Modification: Sch. 1 para. 7(2)(*a*) amended by [S.I. 1987/2110](https://www.legislation.gov.uk/uksi/1987/2110), [art. 2](https://www.legislation.gov.uk/uksi/1987/2110/article/2), [Sch. 1 para. 8(p)](https://www.legislation.gov.uk/uksi/1987/2110/schedule/1/paragraph/8/p)
+
+[^c-5f76c1d6170460f7fa44b84d789a73b9]: Modification: [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/1982/41/schedule/1/paragraph/7/2/a) modified (E.) (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(k)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/k) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^c7538601]: Textual amendment: Words in Sch. 1 para. 7(2)(a) inserted (8.5.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 392(1)(3)(a)](https://www.legislation.gov.uk/ukpga/1999/29/section/392/1/3/a) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), [art. 3](https://www.legislation.gov.uk/uksi/1999/3434/article/3)
 

@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 67
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '67'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/67
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 67
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. General
+## 67. General[^c-ff1df23421de74a1b6782a5cc64135eb]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) The maximum amount of a loan for living costs in respect of an academic year is calculated as follows—
 
@@ -22,3 +28,7 @@ summary: ''
 - (b) where the eligible student is a current system student (other than a 2008 cohort student) with full entitlement, in accordance with regulation 69 or 70;
 - (c) where the eligible student is an old system student with full entitlement, in accordance with regulation 71;
 - (d) where the eligible student is a student with reduced entitlement, in accordance with regulation 72.
+
+## Annotations
+
+[^c-ff1df23421de74a1b6782a5cc64135eb]: Commencement: Reg. 67 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

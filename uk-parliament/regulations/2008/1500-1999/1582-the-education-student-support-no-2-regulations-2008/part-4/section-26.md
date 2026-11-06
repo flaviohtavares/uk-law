@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 26
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '26'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/26
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 26
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Old system students who are transferring students
+## 26. Old system students who are transferring students[^c-e82ae3e9b953a3a841c8b41da74ce5aa]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), this regulation applies to an old system student who—
 
@@ -72,3 +78,7 @@ where
 (13) A transferring student qualifies for a grant for fees in respect of a standard academic year of the designated course if the Secretary of State allocates a grant for fees to that year when assessing the application for support for that year.
 
 (14) The amount of the grant for fees in respect of an academic year is determined in accordance with regulation 31, 32 or 33 and may be nil.
+
+## Annotations
+
+[^c-e82ae3e9b953a3a841c8b41da74ce5aa]: Commencement: Reg. 26 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

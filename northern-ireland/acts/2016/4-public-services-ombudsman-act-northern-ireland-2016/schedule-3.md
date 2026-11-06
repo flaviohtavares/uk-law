@@ -3,7 +3,7 @@ title: Public Services Ombudsman Act (Northern Ireland) 2016, SCHEDULE 3
 act: Public Services Ombudsman Act (Northern Ireland) 2016
 section: schedule-3
 status: revised-with-pending-changes
-text_date: '2026-09-30'
+text_date: '2026-10-08'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nia/2016/4/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Public Services Ombudsman Act (Northern Ireland) 2016, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/nia/2016/4
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-08. See https://www.legislation.gov.uk/changes/affected/nia/2016/4
 >
 > Extent: Northern Ireland.
 
@@ -134,6 +134,7 @@ Section 12.
 - The Northern Ireland Audit Office
 - The Northern Ireland Authority for Utility Regulation
 - The Northern Ireland Fire and Rescue Service Board
+- The Northern Ireland Fiscal Council[^c-3ffe3a569054bba4ad13b10b86d6edc2]
 - The Office of Identity and Cultural Expression
 - The Office of the Commissioner for Older People for Northern Ireland
 - The Office of the Commissioner for Survivors of Institutional Childhood Abuse[^c-13e2fcd8a90bdfbd1de3b226665e5288]
@@ -158,5 +159,7 @@ Notes:
 [^c-6f649a49b7004a0f9967d76d74c31451]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) inserted (6.12.2022) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2022/45/section/9/4), [10(1)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/1)
 
 [^c-06eaf437b4b02bed95eedb54ac44ebc0]: Textual amendment: Words in Sch. 3 inserted (27.3.2020) by [Historical Institutional Abuse (Northern Ireland) Act 2019 (c. 31)](https://www.legislation.gov.uk/ukpga/2019/31), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/31/section/33/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2019/31/schedule/1/paragraph/14); [S.R. 2020/48](https://www.legislation.gov.uk/nisr/2020/48), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/48/article/2/b)
+
+[^c-3ffe3a569054bba4ad13b10b86d6edc2]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) inserted (8.10.2026) by [Northern Ireland Fiscal Council Act (Northern Ireland) 2026 (c. 8)](https://www.legislation.gov.uk/nia/2026/8), [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2026/8/schedule/2/paragraph/4)
 
 [^c-13e2fcd8a90bdfbd1de3b226665e5288]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/3) inserted (2.11.2020) by [Historical Institutional Abuse (Northern Ireland) Act 2019 (c. 31)](https://www.legislation.gov.uk/ukpga/2019/31), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/31/section/33/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2019/31/schedule/2/paragraph/15); [S.R. 2020/229](https://www.legislation.gov.uk/nisr/2020/229), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/229/article/2/b)

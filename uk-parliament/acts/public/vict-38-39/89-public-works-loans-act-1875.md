@@ -3,15 +3,15 @@ title: Public Works Loans Act 1875
 id: ukpga/Vict/38-39/89
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '1875-08-13'
-text_date: '2020-02-25'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/Vict/38-39/89
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/Vict/38-39/89/pdfs/ukpga_18750089_en.pdf
 - http://www.legislation.gov.uk/ukpga/Vict/38-39/89/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Public Works Loans Act 1875
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2020-02-25. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/38-39/89
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -211,7 +211,7 @@ Nothing in this Act shall operate to invalidate or affect the rights of any pers
 
 Any money arising from the taking possession, lease, sale, mortgage, or other disposition under this Act by or under the direction of the Treasury[^c-17e3dfa90d4049c67b06779502f73202] of any mortgaged property shall be applied first in discharge of all costs, charges, and expenses incurred by or under the direction of the Treasury[^c-a66ae618e6b151afb29170ef9145dff6] in respect thereof, or otherwise by reason of the default in payment, and secondly in discharge of the whole of the principal of the loan secured by the mortgage and for the time being unpaid (notwithstanding that the same or any instalment thereof may not have become actually due), and in discharge of all interest accrued due on such principal, and of all other sums (if any) due under the mortgage.
 
-The surplus (if any) of such money either shall be paid to the mortgagor or other person or persons entitled thereto, or, if the Treasury think fit, shall be paid by the Public Works Loans Secretary[^c-6710ec3e5c123b0acb81e4a9170a49ed] into the Chancery Division of the High Court[^c569362] in England in like manner as if he were a trustee of such money for the persons entitled thereto, and the court may make such orders for the payment and distribution of such money to or among those persons as may from time to time seem to the court just.
+The surplus (if any) of such money either shall be paid to the mortgagor or other person or persons entitled thereto, or, if the Treasury think fit, shall be paid by the Public Works Loans Secretary[^c-6710ec3e5c123b0acb81e4a9170a49ed] into the[^c569362] Business and Property Division[^c-f6bd812c6a1c7ec6376fa1d8e2669e68] of the High Court in England in like manner as if he were a trustee of such money for the persons entitled thereto, and the court may make such orders for the payment and distribution of such money to or among those persons as may from time to time seem to the court just.
 
 ### 29. Payment of local loan before it is due, and transfer of security for all or part of local loan.[^c-00b34824a32ae90757d33886ab1fb494][^c569363]
 
@@ -583,6 +583,8 @@ SCHEDULES
 [^c-6710ec3e5c123b0acb81e4a9170a49ed]: Textual amendment: Words in s. 28 substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 27(5)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/27/5) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
 [^c569362]: Textual amendment: Words substituted by virtue of [Supreme Court of Judicature (Consolidation) Act 1925 (c. 49)](https://www.legislation.gov.uk/ukpga/1925/49), [ss. 56(1)(a)](https://www.legislation.gov.uk/ukpga/1925/49/section/56/1/a), [224(1)](https://www.legislation.gov.uk/ukpga/1925/49/section/224/1)
+
+[^c-f6bd812c6a1c7ec6376fa1d8e2669e68]: Textual amendment: Words in [s. 28](https://www.legislation.gov.uk/ukpga/Vict/38-39/89/section/28) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/4)
 
 [^c-00b34824a32ae90757d33886ab1fb494]: Textual amendment: Word in s. 29 heading inserted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 28(2)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/28/2) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 

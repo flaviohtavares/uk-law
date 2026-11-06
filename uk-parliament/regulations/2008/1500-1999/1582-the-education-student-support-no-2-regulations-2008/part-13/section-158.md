@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 158
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '158'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/158
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 158
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Overpayments
+## 158. Overpayments[^c-9045f196d1f28a176a9f4b7f790f6b9f]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) An eligible postgraduate student must, if so required by the Secretary of State, repay any amount paid to the student under this Part which for whatever reason exceeds the amount of grant to which the student is entitled under this Part.
 
@@ -43,3 +49,7 @@ summary: ''
 - (b) a payment of grant under this Part in respect of specialist equipment is made to the student after the period of eligibility terminated.
 
 (9) Where there is an overpayment of the grant under this Part, the Secretary of State may accept the return of specialist equipment purchased with the grant by way of recovery of all or part of the overpayment if the Secretary of State considers it is appropriate to do so.
+
+## Annotations
+
+[^c-9045f196d1f28a176a9f4b7f790f6b9f]: Commencement: Reg. 158 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

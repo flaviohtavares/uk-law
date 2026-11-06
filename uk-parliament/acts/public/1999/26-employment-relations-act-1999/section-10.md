@@ -3,7 +3,7 @@ title: Employment Relations Act 1999, section 10
 act: Employment Relations Act 1999
 section: '10'
 status: revised-with-pending-changes
-text_date: '2026-10-01'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1999/26/section/10
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Employment Relations Act 1999, section 10
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/26
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/26
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -73,6 +73,6 @@ the employer must postpone the hearing to the time proposed by the worker.
 
 [^c-36a39a31f4c0e2e5c2985f08c3671dd0]: Textual amendment: S. 10(2A)-(2C) substituted for s. 10(2) (1.10.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/37/1), [59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3); [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2004/2566/article/8))
 
-[^c-5f7402d7d73ebc4cb6d76acfc17a9eb6]: Textual amendment: Words in [s. 10(7)](https://www.legislation.gov.uk/ukpga/1999/26/section/10/7) substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21)
+[^c-5f7402d7d73ebc4cb6d76acfc17a9eb6]: Textual amendment: Words in [s. 10(7)](https://www.legislation.gov.uk/ukpga/1999/26/section/10/7) substituted (6.1.2026 for specified purposes, 30.10.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 64(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/64/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/1065/regulation/7))
 
 [^c12486121]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).

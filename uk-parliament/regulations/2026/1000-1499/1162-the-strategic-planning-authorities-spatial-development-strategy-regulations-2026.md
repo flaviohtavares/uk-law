@@ -1,0 +1,476 @@
+---
+title: The Strategic Planning Authorities (Spatial Development Strategy) Regulations 2026
+id: uksi/2026/1162
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-11-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/1162
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/1162/pdfs/uksiem_20261162_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/1162/pdfs/uksi_20261162_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/1162/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Strategic Planning Authorities (Spatial Development Strategy) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 1162
+
+TOWN AND COUNTRY PLANNING, ENGLAND
+
+The Strategic Planning Authorities (Spatial Development Strategy) Regulations 2026
+
+Made
+
+4th November 2026
+
+Laid before Parliament
+
+5th November 2026
+
+Coming into force
+
+26th November 2026
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 12D(8), 12E(3), 12F(1), (9) and (10), 12G(2)(d), 12H(2)(g) and (7), 12M(7), 12O(4), 12U and 122(3) of the [Planning and Compulsory Purchase Act 2004](https://www.legislation.gov.uk/ukpga/2004/5/contents)[^f00001].
+
+## Part 1 — INTRODUCTORY
+
+### 1. Citation, commencement, extent and application
+
+(1) These Regulations may be cited as the Strategic Planning Authorities (Spatial Development Strategy) Regulations 2026.
+
+(2) These Regulations come into force on 26th November 2026.
+
+(3) These Regulations extend to England and Wales and apply in relation to England only.
+
+(4) These Regulations apply in relation to the preparation and adoption of an alteration of a spatial development strategy as they apply in relation to the preparation and adoption of a spatial development strategy.
+
+### 2. Interpretation
+
+(1) In these Regulations,—
+
+- “**the 2004 Act**” means the [Planning and Compulsory Purchase Act 2004](https://www.legislation.gov.uk/ukpga/2004/5/contents);
+- “**address**” means—
+  - (a) a number or address used for the purposes of sending or receiving documents or information by electronic means;
+  - (b) a postal address;
+- “**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00002];
+- “**electronic communications apparatus**” has the same meaning as in paragraph 5(1) of the electronic communications code;
+- “**electronic communications code**” has the same meaning as in section 106(1) of the Communications Act 2003[^f00003];
+- “**examiner’s report**” means the report made by the examiner under [section 12I](https://www.legislation.gov.uk/ukpga/2004/5/section/12I) [(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/12I) of [the 2004 Act](https://www.legislation.gov.uk/ukpga/2004/5/contents);
+- “**highways authority**” has the meaning given in [section 1](https://www.legislation.gov.uk/ukpga/1980/66/section/1) of the [Highways Act 1980](https://www.legislation.gov.uk/ukpga/1980/66/contents)[^f00004];
+- “**integrated transport area**” has the meaning given in [section 77](https://www.legislation.gov.uk/ukpga/2008/26/section/77) [(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/77) of the [Local Transport Act 2008](https://www.legislation.gov.uk/ukpga/2008/26/contents)[^f00005];
+- “**Integrated Transport Authority**” means—
+  - (a) an authority which is known as an Integrated Transport Authority as a result of [section 77](https://www.legislation.gov.uk/ukpga/2008/26/section/77) [(2)](https://www.legislation.gov.uk/ukpga/2008/26/section/77) of the [Local Transport Act 2008](https://www.legislation.gov.uk/ukpga/2008/26/contents)[^f00006], or
+  - (b) an authority established under [Part 5](https://www.legislation.gov.uk/ukpga/1985/51/part/5) of [that Act](https://www.legislation.gov.uk/ukpga/1985/51/contents);
+- “**lead local flood authority**” has the meaning given in [section 6](https://www.legislation.gov.uk/ukpga/2010/29/section/6) [(7)](https://www.legislation.gov.uk/ukpga/2010/29/section/6) of the [Flood and Water Management Act 2010](https://www.legislation.gov.uk/ukpga/2010/29/contents)[^f00007];
+- “**neighbourhood forum**” means an organisation or body designated as such under section 61F(3) of the Town and Country Planning Act 1990[^f00008];
+- “**relevant strategy preparation stage**” means—
+  - (a) the publication of a draft spatial development strategy timetable under [section 12H](https://www.legislation.gov.uk/ukpga/2004/5/section/12H) [(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/12H) of [the 2004 Act](https://www.legislation.gov.uk/ukpga/2004/5/contents);
+  - (b) the submission of a draft spatial development strategy to the Secretary of State under regulation 17;
+  - (c) the submission of a draft spatial development strategy to the Secretary of State under [section 12K](https://www.legislation.gov.uk/ukpga/2004/5/section/12K) [(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/12K) of [the 2004 Act](https://www.legislation.gov.uk/ukpga/2004/5/contents);
+  - (d) the holding of a vote on a resolution to adopt the spatial development strategy under [section 12L](https://www.legislation.gov.uk/ukpga/2004/5/section/12L) [(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/12L) of [the 2004 Act](https://www.legislation.gov.uk/ukpga/2004/5/contents);
+- “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the [Banking and Financial Dealings Act 1971](https://www.legislation.gov.uk/ukpga/1971/80/contents)[^f00009] in England.
+
+(2) In these Regulations, a reference to—
+
+- (a) a strategic planning authority’s[^f00010] website includes a reference to the website of a constituent authority of a strategic planning board[^f00011];
+- (b) a strategic planning authority’s principal office includes a reference to the principal office of a constituent authority of a strategic planning board.
+
+### 3. Electronic communications
+
+Where—
+
+- (a) a document, copy, notice, notification or representations on any matter or document are sent or made by way of electronic communications, and
+- (b) the electronic communication is received by the recipient after 5pm on a working day,
+
+it is to be taken to have been received on the next working day after the day on which the electronic communication is received.
+
+## Part 2 — CONTENTS OF SPATIAL DEVELOPMENT STRATEGY
+
+### 4. Title of a spatial development strategy
+
+A spatial development strategy must contain a title which includes the words “spatial development strategy”.
+
+### 5. Key diagram
+
+(1) A spatial development strategy must contain a map of the strategy area[^f00012], known as a “key diagram”.
+
+(2) A key diagram must—
+
+- (a) include an explanation of any symbol or notation which it uses, and
+- (b) visually illustrate—
+  - (i) the strategic planning authority’s policies, in relation to the development and use of land in the strategy area, which are of strategic importance to that area, and
+  - (ii) the geographical application of those policies.
+
+## Part 3 — SPATIAL DEVELOPMENT STRATEGY TIMETABLE
+
+### 6. Content of a spatial development strategy timetable
+
+A spatial development strategy timetable must contain the following information from the date on which it is first published under section 12F(7) of the 2004 Act—
+
+- (a) the date on which the strategic planning authority will publish its commencement notice under regulation 13,
+- (b) the date on which the strategic planning authority will publish its draft spatial development strategy under section 12H(1) of the 2004 Act,
+- (c) the date on which the strategic planning authority will submit its draft spatial development strategy to the Secretary of State under regulation 17,
+- (d) the date on which the strategic planning authority will submit its draft spatial development strategy to the Secretary of State under section 12K(3) of the 2004 Act, and
+- (e) the date on which the strategic planning authority will hold a vote on a resolution to adopt its spatial development strategy under section 12L(3) of the 2004 Act.
+
+### 7. Submission of a draft spatial development strategy timetable to the Secretary of State
+
+(1) A strategic planning authority must submit its first draft spatial development strategy timetable to the Secretary of State under section 12F(1) of the 2004 Act—
+
+- (a) where the strategic planning authority is a strategic planning board, within the period of 90 days beginning with the day on which the regulations establishing the strategic planning board come into force;
+- (b) where the strategic planning authority was given a direction under section 12B(5) of the 2004 Act which was later revoked, within the period of 90 days beginning with the day on which the notice revoking the direction is sent to the strategic planning authority;
+- (c) in any other case, within the period of 90 days beginning with the day on which these Regulations come into force.
+
+(2) A strategic planning authority must thereafter submit its draft spatial development strategy timetable to the Secretary of State under section 12F(1) of the 2004 Act no earlier than the day on which the authority publishes its commencement notice under regulation 13.
+
+### 8. Approval of a draft spatial development strategy timetable by the Secretary of State
+
+(1) This regulation applies where the Secretary of State approves a revised draft spatial development strategy timetable under section 12F(4)(b) of the 2004 Act.
+
+(2) The Secretary of State must notify the strategic planning authority in writing, as soon as reasonably practicable, that the revised draft spatial development strategy timetable has been approved.
+
+### 9. Publication of a spatial development strategy timetable
+
+A strategic planning authority must publish its spatial development strategy timetable under section 12F(7) of the 2004 Act—
+
+- (a) where the Secretary of State approves a revised draft spatial development strategy timetable under section 12F(4)(b) of the 2004 Act, within the period of 7 days beginning with the day after the day on which the Secretary of State complies with regulation 8(2);
+- (b) where the Secretary of State gives a direction under section 12F(5) of the 2004 Act, within the period of 7 days beginning with the day after the day on which the direction is given;
+- (c) in any other case, within the period of 7 days beginning with the day after the day on which the period referred to in section 12F(3) of the 2004 Act elapses.
+
+### 10. Revision of a spatial development strategy timetable
+
+(1) A strategic planning authority must—
+
+- (a) keep its spatial development strategy timetable under review, and
+- (b) make any revisions to the timetable that are necessary to ensure that it is kept up to date.
+
+(2) Paragraph (3) applies where a relevant strategy preparation stage occurs.
+
+(3) By the end of the same day that a relevant strategy preparation stage occurs, the strategic planning authority must revise its spatial development strategy timetable to set out the date on which that stage occurred.
+
+(4) The Secretary of State may direct a strategic planning authority to revise its spatial development strategy timetable.
+
+(5) A strategic planning authority to which a direction is given under paragraph (4) must revise its spatial development strategy timetable within the period specified in the direction.
+
+### 11. Submission of a revised spatial development strategy timetable to the Secretary of State
+
+(1) This regulation applies where a strategic planning authority revises its spatial development strategy timetable in accordance with regulation 10(1)(b).
+
+(2) As soon as reasonably practicable after making the revision, the strategic planning authority must submit to the Secretary of State—
+
+- (a) its revised timetable, and
+- (b) a statement giving the strategic planning authority’s reason for the revision.
+
+(3) The Secretary of State may give a direction to the strategic planning authority that its revised spatial development strategy timetable requires the approval of the Secretary of State.
+
+(4) If the Secretary of State has not given such a direction to the strategic planning authority within the period of 4 weeks beginning with the date on which the revised timetable was sent to the Secretary of State, the strategic planning authority may bring the revised timetable into effect.
+
+(5) A strategic planning authority to which a direction under paragraph (3) is given may bring the revised timetable into effect only when the Secretary of State approves the revised timetable.
+
+(6) Where the Secretary of State approves a revised timetable, the Secretary of State must notify the strategic planning authority in writing, as soon as reasonably practicable, that the revised timetable has been approved.
+
+### 12. Publication of a revised spatial development strategy timetable
+
+(1) To bring a revised strategy timetable into effect, a strategic planning authority must publish it, together with a statement that the revised timetable is to have effect.
+
+(2) A strategic planning authority must comply with paragraph (1)—
+
+- (a) where regulation 11(4) applies, within the period of 7 days beginning with the day after the day on which the period referred to in that regulation elapses;
+- (b) where the Secretary of State approves the revised timetable under regulation 11(5), within the period of 7 days beginning with the day after the day on which the Secretary of State complies with regulation 11(6);
+- (c) in any other case, within the period of 7 days beginning with the day after the day on which the authority makes the revision.
+
+## Part 4 — PREPARATION OF SPATIAL DEVELOPMENT STRATEGY
+
+### 13. Commencement notice
+
+(1) Before preparing a draft spatial development strategy under section 12G(1) of the 2004 Act, a strategic planning authority must publish a notice, known as a “commencement notice”.
+
+(2) A commencement notice must specify—
+
+- (a) the name of the strategic planning authority which has prepared the notice,
+- (b) the strategy area to which the authority’s spatial development strategy is to relate,
+- (c) that the authority will commence preparing its draft spatial development strategy, and
+- (d) the date on which the notice is published under paragraph (1).
+
+(3) This regulation does not apply in relation to the preparation of an alteration to the spatial development strategy which does not materially affect the policies in the strategy.
+
+### 14. Additional matters to which regard is to be had
+
+The following matters are prescribed for the purposes of section 12G(2)(d) of the 2004 Act—
+
+- (a) the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment,
+- (b) the need, in the long term—
+  - (i) to maintain appropriate safety distances between establishments and residential areas, buildings and areas of public use, recreational areas, and, as far as possible, major transport routes,
+  - (ii) to protect areas of particular natural sensitivity or interest in the vicinity of establishments, where appropriate through appropriate safety distances or other relevant measures, and
+  - (iii) in the case of existing establishments, to take additional technical measures in accordance with regulation 5 of the Control of Major Accident Hazards Regulations 2015[^f00013] so as not to increase the risks to human health or the environment, and
+- (c) the desirability of prioritising development on land that has been previously developed.
+
+### 15. Consultation
+
+(1) A strategic planning authority must notify the persons specified in paragraph (2) that its draft spatial development strategy has been published on its website.
+
+(2) The persons referred to in paragraph (1) are—
+
+- (a) Active Travel England[^f00014];
+- (b) any person—
+  - (i) to whom the electronic communications code applies as a result of a direction given under section 106(3)(a) of the Communications Act 2003[^f00015], and
+  - (ii) who owns or controls electronic communications apparatus situated in any part of the strategy area;
+- (c) the Canal & River Trust[^f00016];
+- (d) the Civil Aviation Authority[^f00017];
+- (e) the English Sports Council[^f00018];
+- (f) the Environment Agency[^f00019];
+- (g) the Forestry Commission[^f00020];
+- (h) any highways authority for an area that is wholly or partly within the strategy area;
+- (i) the Historic Buildings and Monuments Commission for England[^f00021];
+- (j) the Homes and Communities Agency[^f00022];
+- (k) if it exercises functions in any part of the strategy area—
+  - (i) an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^f00023];
+  - (ii) a person to whom a licence has been granted under [section 6](https://www.legislation.gov.uk/ukpga/1989/29/section/6) [(1)](https://www.legislation.gov.uk/ukpga/1989/29/section/6) [(b)](https://www.legislation.gov.uk/ukpga/1989/29/section/6) or [(c)](https://www.legislation.gov.uk/ukpga/1989/29/section/6) of the [Electricity Act 1989](https://www.legislation.gov.uk/ukpga/1989/29/contents)[^f00024];
+  - (iii) a person to whom a licence has been granted under section 7(2) of the Gas Act 1986[^f00025];
+  - (iv) a sewerage undertaker appointed under section 6(1) of the Water Industry Act 1991[^f00026];
+  - (v) a water undertaker appointed under section 6(1) of the Water Industry Act 1991;
+- (l) if the strategic planning authority considers that the draft spatial development strategy is likely to affect its interests—
+  - (i) the Coal Authority[^f00027];
+  - (ii) the Marine Management Organisation[^f00028];
+- (m) any Integrated Transport Authority for an integrated transport area that is wholly or partly within the strategy area;
+- (n) any lead local flood authority for an area that is wholly or partly within the strategy area;
+- (o) National Highways Limited[^f00029];
+- (p) Natural England[^f00030];
+- (q) a neighbourhood forum for an area that is wholly or partly within the strategy area;
+- (r) Network Rail Infrastructure Limited[^f00031];
+- (s) NHS England[^f00032];
+- (t) the Office for Nuclear Regulation[^f00033];
+- (u) the Office of Rail and Road[^f00034];
+- (v) a parish council for an area that is wholly or partly within the strategy area.
+
+(3) This regulation does not apply in relation to the preparation of an alteration to the spatial development strategy which does not materially affect the policies in the strategy.
+
+### 16. Representations
+
+(1) An invitation to make representations under section 12H(4) or (5) of the 2004 Act must specify—
+
+- (a) the period within which representations may be made to the strategic planning authority (the “representation period”), and
+- (b) the address to which representations must be sent.
+
+(2) The representation period must be—
+
+- (a) where the strategic planning authority has prepared a draft alteration to the spatial development strategy which does not materially affect the policies in the strategy, a period of not less than 2 weeks from the date on which the invitation to make representations is made;
+- (b) where the strategic planning authority has prepared a draft alteration to the spatial development strategy which constitutes a minor alteration, a period of not less than 6 weeks from the date on which the invitation to make representations is made;
+- (c) in any other case, a period of not less than 12 weeks from the date on which the invitation to make representations is made.
+
+(3) Representations must be made—
+
+- (a) in writing, and
+- (b) within the representation period.
+
+### 17. Submission to Secretary of State after consultation
+
+(1) After the representation period has elapsed, a strategic planning authority must submit to the Secretary of State—
+
+- (a) its draft spatial development strategy,
+- (b) a copy of any representations received in accordance with regulation 16(3),
+- (c) a summary of the main issues raised in any representations in accordance with regulation 16(3),
+- (d) such supporting documents as the authority considers relevant, and
+- (e) a copy of the authority’s spatial development strategy timetable.
+
+(2) Within the period of 4 weeks beginning with the day on which the Secretary of State receives the documents referred to in paragraph (1), the Secretary of State must—
+
+- (a) appoint an examiner, or
+- (b) direct that no examination is required.
+
+### 18. Publication of the examiner’s report
+
+(1) A strategic planning authority must, within the period of 2 weeks beginning with the day on which it receives the examiner’s report,—
+
+- (a) comply with section 12I(9) of the 2004 Act, and
+- (b) notify the persons specified in paragraph (2) that the examiner’s report has been published on the authority’s website.
+
+(2) The persons referred to in paragraph (1)(b) are—
+
+- (a) where the strategic planning authority is a strategic planning board, the constituent authorities of the board;
+- (b) any county council for an area that is within, or any part of which is within, the strategy area;
+- (c) any district council for an area that is within, or any part of which is within, the strategy area.
+
+## Part 5 — MONITORING AND REPORTING
+
+### 19. Request for further information
+
+(1) The Secretary of State may at any time issue a request to a strategic planning authority for information, documents and evidence relating to the preparation, adoption, alteration, replacement or review of a spatial development strategy.
+
+(2) A request under paragraph (1) must specify—
+
+- (a) the information, documents or evidence requested,
+- (b) the date by which the information, documents or evidence requested must be sent to the Secretary of State, and
+- (c) the manner in which the information, documents or evidence requested must be sent to the Secretary of State.
+
+### 20. Annual monitoring report
+
+(1) A strategic planning authority must prepare a report in relation to its operative spatial development strategy, known as an “annual monitoring report”.
+
+(2) An annual monitoring report must include—
+
+- (a) a statement which provides information on delivery against the objectives, outcomes and policies set out in the operative spatial development strategy,
+- (b) where relevant, justification for why the spatial development strategy needs to be altered or replaced, and
+- (c) where relevant, a summary of any engagement between the authority and—
+  - (i) the persons specified in regulation 15(2)(b), (h), (k)(ii) to (v), (o) and (r);
+  - (ii) such other persons specified in regulation 15 as the authority considers appropriate.
+
+(3) A strategic planning authority must publish its annual monitoring report annually on the anniversary of the date on which its spatial development strategy was adopted under section 12L of the 2004 Act or approved by the Secretary of State under section 12P(9)(a) or (b) or 12Q(2)(a) or (b) of the 2004 Act.
+
+(4) If the anniversary referred to in paragraph (3) does not fall on a working day, the strategic planning authority must publish its annual monitoring report on the next working day after that anniversary.
+
+## Part 6 — AVAILABILITY OF DOCUMENTS
+
+### 21. Manner of publication
+
+(1) The strategic planning authority must publish the documents specified in paragraph (2) by—
+
+- (a) publishing the document on its website, and
+- (b) making copies of the document available for inspection at the authority’s principal office and at any other place that the authority considers appropriate.
+
+(2) The documents referred to in paragraph (1) are—
+
+- (a) a spatial development strategy timetable, together with a statement that the timetable has effect, published under section 12F(7) of the 2004 Act,
+- (b) a revised spatial development strategy timetable, together with a statement that the timetable has effect, published under regulation 12,
+- (c) a commencement notice published under regulation 13,
+- (d) a report by an examiner published under section 12I(9) of the 2004 Act,
+- (e) a spatial development strategy, together with a statement that it has been adopted, published under section 12L(6) of the 2004 Act, and
+- (f) a spatial development strategy approved by the Secretary of State under section 12P(9)(a) or (b) or 12Q(2)(a) or (b) of the 2004 Act.
+
+### 22. Duration of requirement to publish document
+
+(1) Once the period specified in paragraph (2) has expired, a strategic planning authority may cease to publish a document published as required by or under Part 1A of the 2004 Act.
+
+(2) The period referred to in paragraph (1) is the period of 3 months beginning with the day after the day on which the authority’s spatial development strategy is—
+
+- (a) adopted under section 12L of the 2004 Act, or
+- (b) approved by the Secretary of State under section 12P(9)(a) or (b) or 12Q(2)(a) or (b) of the 2004 Act.
+
+(3) Paragraph (1) does not apply to—
+
+- (a) a spatial development strategy, together with a statement that it has been adopted, published under section 12L(6) of the 2004 Act;
+- (b) a spatial development strategy approved by the Secretary of State under section 12P(9)(a) or (b) or 12Q(2)(a) or (b) of the 2004 Act.
+
+### 23. Copies of documents
+
+(1) Paragraph (2) applies where a person requests from a strategic planning authority a copy of any document published by the authority as required by or under Part 1A of the 2004 Act.
+
+(2) The strategic planning authority must provide a copy of the document to that person as soon as reasonably practicable after receipt of that person’s request.
+
+(3) The strategic planning authority may make a reasonable charge for a copy of a document published as required by or under Part 1A of the 2004 Act.
+
+Signed by authority of the Secretary of State for Housing, Communities and Local Government
+
+Matthew Pennycook
+
+Minister of State
+
+Ministry of Housing, Communities and Local Government
+
+4th November 2026
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+Part 1A of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) (inserted by section 58 of the Planning and Infrastructure Act [2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34)) requires strategic planning authorities to prepare a spatial development strategy (“**SDS**”) for their area. These Regulations make provision as to the procedure to be followed in connection with the preparation of a SDS.
+
+Part 1 of these Regulations contains introductory matters (regulation 1), key definitions (regulation 2) and provision regarding electronic communications (regulation 3).
+
+Part 2 of these Regulations prescribes the content of a SDS (regulations 4 and 5).
+
+Part 3 of these Regulations prescribes the content of a SDS timetable (regulation 6) and sets out when this timetable must be submitted to the Secretary of State (regulation 7), published (regulation 9) and revised (regulation 10). Part 3 also sets out a requirement for the Secretary of State to notify the strategic planning authority that the timetable has been approved (regulation 8).
+
+Part 4 of these Regulations deals with the preparation of a SDS and makes provision in respect of matters including—
+
+- (a) publication of a commencement notice (regulation 13);
+- (b) additional matters to which a strategic planning authority must have regard when preparing a draft SDS (regulation 14);
+- (c) consultation and representations (regulations 15 and 16);
+- (d) submission of documents to the Secretary of State (regulation 17);
+- (e) publication of the examiner’s report (regulation 18).
+
+Part 5 of these Regulations makes provision as to requests for further information (regulation 19) and publication of an annual monitoring report (regulation 20).
+
+Part 6 of these Regulations provides for requirements as to the availability of documents.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. An impact assessment was prepared for the Planning and Infrastructure Act 2025 and can be found at: https://www.gov.uk/government/publications/planning-and-infrastructure-bill-impact-assessment and can be inspected at the Ministry of Housing, Communities and Local Government, 2 Marsham Street, London, SW1P 4DF.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5). Sections 12D, 12E, 12F, 12G, 12H, 12M, 12O and 12U were inserted by section 58 of the Planning and Infrastructure Act [2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34). See section 122(1) of the Planning and Compulsory Purchase Act 2004 for the definition of “prescribed”.
+
+[^f00002]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00003]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 106(1) was amended by section 4(4) of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30); Schedule 3A was inserted by Schedule 1 to the Digital Economy Act 2017.
+
+[^f00004]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66/contents). Section 1 was amended by [paragraph 1](https://www.legislation.gov.uk/ukpga/1985/51/schedule/4/paragraph/1) of [Schedule 4](https://www.legislation.gov.uk/ukpga/1985/51/schedule/4) and [Schedule 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17) to the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51/contents), [section 21](https://www.legislation.gov.uk/ukpga/1991/22/section/21) of the [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22/contents), [paragraph 1](https://www.legislation.gov.uk/ukpga/1994/19/schedule/7/paragraph/1) of [Schedule 7](https://www.legislation.gov.uk/ukpga/1994/19/schedule/7) to the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19/contents), [section 259](https://www.legislation.gov.uk/ukpga/1999/29/section/259) [(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/259) and [(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/259) of the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29/contents) and [paragraph 2](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/2) of [Schedule 1](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1) to the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7/contents).
+
+[^f00005]: Footnote: [2008 c. 26](https://www.legislation.gov.uk/ukpga/2008/26). Section 77(1) renamed passenger transport areas established under section 9(1)(a)(i) of the Transport Act [1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73) as integrated transport areas.
+
+[^f00006]: Footnote: Section 77(2) renamed metropolitan county passenger transport authorities established under [section 28](https://www.legislation.gov.uk/ukpga/1985/51/section/28) [(1)](https://www.legislation.gov.uk/ukpga/1985/51/section/28) of the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51/contents) as Integrated Transport Authorities.
+
+[^f00007]: Footnote: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29/contents).
+
+[^f00008]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 61F was inserted by paragraph 2 of Schedule 9 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and amended by [section 5](https://www.legislation.gov.uk/ukpga/2017/20/section/5) [(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/5) of the [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20/contents).
+
+[^f00009]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80/contents).
+
+[^f00010]: Footnote: See [section 12A](https://www.legislation.gov.uk/ukpga/2004/5/section/12A) of the [Planning and Compulsory Purchase Act 2004](https://www.legislation.gov.uk/ukpga/2004/5/contents) for the meaning of “strategic planning authority”.
+
+[^f00011]: Footnote: See [section 12B](https://www.legislation.gov.uk/ukpga/2004/5/section/12B) of the [Planning and Compulsory Purchase Act 2004](https://www.legislation.gov.uk/ukpga/2004/5/contents) for the meaning of “constituent authority” and “strategic planning board”.
+
+[^f00012]: Footnote: See section 12A(4) of the Planning and Compulsory Purchase Act 2004 for the meaning of “strategy area”.
+
+[^f00013]: Footnote: [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483).
+
+[^f00014]: Footnote: Active Travel England is an executive agency of the Department for Transport.
+
+[^f00015]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00016]: Footnote: The Canal & River Trust is a company limited by guarantee (company registration number 07807276) whose registered office is at National Waterways Museum Ellesmere Port, South Pier Road, Ellesmere Port, Cheshire, CH65 4FW and a registered charity registered with the Charity Commission number 1146792.
+
+[^f00017]: Footnote: The Civil Aviation Authority was constituted as a body corporate under section 2 of the Civil Aviation Act [1982 (c. 16)](https://www.legislation.gov.uk/ukpga/1982/16); section 2 was amended by section 95(1) of the Civil Aviation Act [2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19).
+
+[^f00018]: Footnote: The English Sports Council was established by Royal Charter on 19th September 1996; it operates under the name “Sport England”.
+
+[^f00019]: Footnote: The Environment Agency was established as a body corporate under section 1 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^f00020]: Footnote: Section 1(1) of the Forestry Act [1967 (c. 10)](https://www.legislation.gov.uk/ukpga/1967/10) provides that the Forestry Commissioners constituted under the Forestry Acts 1919 to 1945 shall continue in existence. They are referred to in the Forestry Act [1967 (c. 10)](https://www.legislation.gov.uk/ukpga/1967/10) as “the Commissioners”; subsection (1A) provides that, in that Act, “**the appropriate forestry authority**” means, in relation to England, the Commissioners; section 1 was amended by section 4 of the Wildlife and Countryside (Amendment) Act [1985 (c. 31)](https://www.legislation.gov.uk/ukpga/1985/31); [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755); there are other amendments to section 1 which are not relevant to these Regulations.
+
+[^f00021]: Footnote: The Historic Buildings and Monuments Commission for England was established by section 32 of the National Heritage Act [1983 (c. 47)](https://www.legislation.gov.uk/ukpga/1983/47); it operates under the name “Historic England”.
+
+[^f00022]: Footnote: The Homes and Communities Agency is a body corporate established by section 1 of the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17); it operates under the name “Homes England”.
+
+[^f00023]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41); Chapter A3 was inserted by section 19(2) of the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31).
+
+[^f00024]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27); section 6(1)(b) and (c) were amended by section 136(1) of, and paragraph 1 of Schedule 23 to, the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^f00025]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was substituted by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45); section 7(2) was amended by sections 3(2) and 76(3) of, and paragraph 4 of Schedule 6 to, the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704).
+
+[^f00026]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 6(1) was amended by section 36(2) of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37).
+
+[^f00027]: Footnote: The Coal Authority was established as a body corporate under section 1 of the Coal Industry Act [1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21); it operates under the name “Mining Remediation Authority”.
+
+[^f00028]: Footnote: The Marine Management Organisation was established by section 1 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^f00029]: Footnote: National Highways Limited is a private limited company (company registration number 09346363) whose registered office is at Three Snowhill, Snow Hill Queensway, Birmingham, England, B4 6GA.
+
+[^f00030]: Footnote: Natural England was constituted under section 1 of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16); section 1 was amended by section 311 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^f00031]: Footnote: Network Rail Infrastructure Limited is a company limited by guarantee (company registration number 02904587).
+
+[^f00032]: Footnote: NHS England (formerly known as the National Health Service Commissioning Board) was established by section 1H of the National Health Service Act [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41); section 1H was inserted by section 9(1) of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) and amended by section 37 of, and paragraph 1 of Schedule 1 and paragraph 87 of Schedule 4 to, the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31) and [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831).
+
+[^f00033]: Footnote: The Office for Nuclear Regulation was established by section 77 of the Energy Act [2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32).
+
+[^f00034]: Footnote: The Office of Rail and Road was established by section 15 of the Railways and Transport Safety Act [2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20); section 15 was amended by [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682).

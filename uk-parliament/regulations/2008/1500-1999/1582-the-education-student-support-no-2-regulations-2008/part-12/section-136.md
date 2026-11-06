@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 136
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '136'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/136
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 136
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Assistance for part-time courses
+## 136. Assistance for part-time courses[^c-9262694751619de4588934e0c7244a95]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) For the purposes of this regulation, the assistance available is—
 
@@ -47,3 +53,7 @@ summary: ''
 
 - (a) it is a degree (other than an honours degree) that has been awarded to an eligible part-time student who has completed the required modules, examinations or other forms of assessment for the student’s first degree course; and
 - (b) the eligible part-time student is registered to continue the course at the same educational institution after the award of the student’s degree so as to obtain an honours degree on completion of the required modules, examinations or other form of assessment.
+
+## Annotations
+
+[^c-9262694751619de4588934e0c7244a95]: Commencement: Reg. 136 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

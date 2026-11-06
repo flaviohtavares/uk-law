@@ -3,14 +3,14 @@ title: The Social Security (Claims and Payments Etc.) (Amendment) Regulations (N
 id: nisr/1996/85
 type: NorthernIrelandStatutoryRule
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '1996-03-08'
-text_date: '1996-04-04'
+text_date: '2006-04-10'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisr/1996/85
 pdf_urls:
 - http://www.legislation.gov.uk/nisr/1996/85/data.pdf
-pending_changes: 5
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -18,7 +18,7 @@ summary: ''
 
 # The Social Security (Claims and Payments Etc.) (Amendment) Regulations (Northern Ireland) 1996
 
-> **Warning: changes not yet applied to this text (5).** Text as at 1996-04-04. See https://www.legislation.gov.uk/changes/affected/nisr/1996/85
+> Text as at 2006-04-10.
 >
 > Extent: Northern Ireland.
 
@@ -48,76 +48,36 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 ## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-bcf4fc34903cd5b556299869c1af4e16]
 
-(1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00003] shall be amended in accordance with paragraphs (2) to (6).
+(1)[^M_F_87cb09b6-2734-4198-82aa-d61d792e8a5b] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^M_F_87cb09b6-2734-4198-82aa-d61d792e8a5b][^f00003] shall be amended in accordance with paragraphs (2) to (6). *(affected by repeal, see note)*[^M_F_87cb09b6-2734-4198-82aa-d61d792e8a5b]
 
-(2) In regulation 20A[^f00004] (payment on presentation of an instrument for benefit payment)—
+(2)[^c-776bb2e600e49c74635af056ec875983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) for paragraph (2) there shall be substituted the following paragraph—
+(3) In regulation 21 (direct credit transfer)— *(affected by repeal, see note)*[^M_F_87cb09b6-2734-4198-82aa-d61d792e8a5b]
 
-  > (2) Where a beneficiary falls within a class mentioned in paragraph (1) the Department shall issue an instrument for benefit payment to whichever one or more of the following persons seems to it to be appropriate in the circumstances of the case—
-  >
-  > - (a) that beneficiary;
-  > - (b) the controller appointed by the High Court with power to receive benefit on behalf of that beneficiary;
-  > - (c) the person appointed by the Department under regulation 33 to act on behalf of that beneficiary;
-  > - (d) subject to paragraph (4A), the person authorised by that beneficiary to act on his behalf;
-  > - (e) the person to whom benefit is to be paid on that beneficiary’s behalf further to a direction by the Department under regulation 34; and
-  > - (f) the alternative payee under regulation 35.
+- (a)[^c-e4319b0a54b9c95094233fe2b5e02aef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) paragraph (6), *(affected by repeal, see note)*[^M_F_87cb09b6-2734-4198-82aa-d61d792e8a5b]
 
-  ;
-- (b) in paragraph (4)(*b*) at the beginning there shall be inserted “subject to paragraph (4A),”;
-- (c) after paragraph (4) there shall be inserted the following paragraph—
+shall be omitted. *(affected by repeal, see note)*[^M_F_87cb09b6-2734-4198-82aa-d61d792e8a5b]
 
-  > (4A) A person authorised by the beneficiary to act on his behalf under paragraph (2)(*d*) must be so authorised in respect of all benefits, payment of which may be obtained by means of that instrument for benefit payment.
+(4) For regulation 29 (payment to a person under age 18) there shall be substituted the following regulation— *(affected by repeal, see note)*[^M_F_87cb09b6-2734-4198-82aa-d61d792e8a5b]
 
-  ; and
-- (d) after paragraph (5) there shall be inserted the following paragraph—
-
-  > (5A) Where a person presents an instrument for benefit payment for the purpose of obtaining payment of any benefit to which—
-  >
-  > - (a) he is entitled in his own right;
-  > - (b) he, being a person such as is mentioned in paragraph (2)(*b*), (*c*), (*d*) or (*e*), as the case may be, is entitled to receive on the beneficiary’s behalf; or
-  > - (c) he is entitled to receive by virtue of regulation 35 (payment to a partner as alternative payee),
-  >
-  > the Department may require that person to accept payment of all monies then due in respect of such benefits, payment of which may be obtained by means of that instrument.
-
-  .
-
-(3) In regulation 21 (direct credit transfer)—
-
-- (a) in paragraph (1) the words “to which this regulation applies”; and
-- (b) paragraph (6),
-
-shall be omitted.
-
-(4) For regulation 29 (payment to a person under age 18) there shall be substituted the following regulation—
-
-> **29. Payments to persons under age 18**
+> **29. Payments to persons under age 18 (affected by repeal, see note)[^M_F_87cb09b6-2734-4198-82aa-d61d792e8a5b]**
 >
-> Where benefit is paid to a person under the age of 18 (whether on his own behalf or on behalf of another) the receipt of that person shall be a sufficient discharge to the Department.
+> Where benefit is paid to a person under the age of 18 (whether on his own behalf or on behalf of another) the receipt of that person shall be a sufficient discharge to the Department. *(affected by repeal, see note)*[^M_F_87cb09b6-2734-4198-82aa-d61d792e8a5b]
 
 .
 
-(5) In regulation 37(1) (extinguishment of right to payment of sums by way of benefit where payment is not obtained within the prescribed period)—
+(5)[^c-cb5f0f3846d191d2207a7f53f8a47591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-- (a) after sub-paragraph (*a*) there shall be inserted the following sub-paragraph—
-
-  > - (aa) in relation to any such sum which is payable by means of an instrument for benefit payment, on the first date when payment of that benefit could be obtained by that means;
-
-  ; and
-- (b) in sub-paragraph (*c*) for “neither sub-paragraph (*a*) nor sub-paragraph (*b*) applies” there shall be substituted “none of sub-paragraphs (*a*), (*aa*) or (*b*) apply”.
-
-(6) In Schedule 7 (manner and time of payment, effective date of change of circumstances and commencement of entitlement in income support cases), in paragraph 1 after “instrument of payment” there shall be inserted “or an instrument for benefit payment”.
+(6)[^c-cb5f0f3846d191d2207a7f53f8a47591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Amendment of the Statutory Sick Pay (General) Regulations[^c-48b9ad6c8ce90b941cd73c1c7d65bfff]
 
 In regulation 9C of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00005] (payments by the Department) after “instrument of payment” there shall be inserted “, instrument for benefit payment”.
 
-## 4. Amendment of the Social Security (Recoupment) Regulations[^c-82fcc45cea6d13404bb00e9169b87023]
+## 4. Amendment of the Social Security (Recoupment) Regulations[^c-fce7ae8b6bccc834f1419d44593efcf6]
 
-In regulation 2 of the Social Security (Recoupment) Regulations (Northern Ireland) 1990[^f00006] (relevant benefits)—
-
-- (a) in paragraph (2) after “instrument of payment” there shall be inserted “or paid concurrently with it by means of an instrument for benefit payment”; and
-- (b) in paragraph (3) for “instrument of payment” there shall be substituted “instrument for benefit payment”.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5. Revocations[^c-3fcc13a84123c09a83a268fd3b17149b]
 
@@ -149,17 +109,21 @@ These Regulations correspond to provision contained in regulations made by the S
 
 [^c-bcf4fc34903cd5b556299869c1af4e16]: Commencement: Reg. 2 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
 
+[^M_F_87cb09b6-2734-4198-82aa-d61d792e8a5b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/85/regulation/2) revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1989 No. 398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375) and [S.R. 1994 Nos. 345](https://www.legislation.gov.uk/nisr/1994/345), [456](https://www.legislation.gov.uk/nisr/1994/456) and [484](https://www.legislation.gov.uk/nisr/1994/484)
 
-[^f00004]: Footnote: Regulation 20A was inserted by regulation 2(4) of [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484)
+[^c-776bb2e600e49c74635af056ec875983]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/1996/85/regulation/2/2) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/168/schedule)
+
+[^c-e4319b0a54b9c95094233fe2b5e02aef]: Textual amendment: [Reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/1996/85/regulation/2/3/a) revoked (8.4.2003) by [The Social Security (Claims and Payments) (Amendment No. 3) Regulations (Northern Ireland) 2002 (S.R. 2002/297)](https://www.legislation.gov.uk/nisr/2002/297), [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2002/297/regulation/1/1/c), [Sch.](https://www.legislation.gov.uk/nisr/2002/297/schedule)
+
+[^c-cb5f0f3846d191d2207a7f53f8a47591]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/1996/85/regulation/2/5)[(6)](https://www.legislation.gov.uk/nisr/1996/85/regulation/2/6) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/168/schedule)
 
 [^c-48b9ad6c8ce90b941cd73c1c7d65bfff]: Commencement: Reg. 3 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263); relevant amending regulations are [S.R. 1987 No. 131](https://www.legislation.gov.uk/nisr/1987/131)
 
-[^c-82fcc45cea6d13404bb00e9169b87023]: Commencement: Reg. 4 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
-
-[^f00006]: Footnote: [S.R. 1990 No. 85](https://www.legislation.gov.uk/nisr/1990/85)
+[^c-fce7ae8b6bccc834f1419d44593efcf6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/85/regulation/4) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/168/schedule)
 
 [^c-3fcc13a84123c09a83a268fd3b17149b]: Commencement: Reg. 5 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
 

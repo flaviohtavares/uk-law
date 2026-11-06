@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 66
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '66'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/66
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 66
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Qualifying conditions for the loan for living costs – old system students
+## 66. Qualifying conditions for the loan for living costs – old system students[^c-c6d7c560a3c79bdf9e7c1b789413d33d]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (4) to (6), an old system student who falls within paragraph (a) or (d)(i) of the definition of “old system student” in regulation 2 qualifies for a loan for living costs in connection with the student’s attendance on a designated course if the student is under the age of 60 on the relevant date.
 
@@ -34,3 +40,7 @@ summary: ''
 (5) An old system student does not qualify for a loan for living costs in connection with the student’s attendance on a designated course if that course is a flexible postgraduate course for the initial training of teachers which is of less than one academic year’s duration.
 
 (6) An old system student does not qualify for a loan for living costs if the student is a prisoner.
+
+## Annotations
+
+[^c-c6d7c560a3c79bdf9e7c1b789413d33d]: Commencement: Reg. 66 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

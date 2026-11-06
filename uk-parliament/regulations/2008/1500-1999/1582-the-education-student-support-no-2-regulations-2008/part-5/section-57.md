@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 57
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '57'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/57
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 57
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Amount of the maintenance grant – 2008 cohort students
+## 57. Amount of the maintenance grant – 2008 cohort students[^c-db2ed7cd0afb973775dfe2174f77acd9]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) The maximum amount of maintenance grant available to a 2008 cohort student in respect of an academic year is —
 
@@ -55,3 +61,7 @@ summary: ''
   - *A* is £1 for every complete £5.86 by which the household income exceeds £25,000 but does not exceed £34,459
   - *B* is £1 for every complete £20.59 by which the household income exceeds £34,469 but does not exceed £60,032; and
 - (c) where the household income exceeds £60,032, no maintenance grant is payable.
+
+## Annotations
+
+[^c-db2ed7cd0afb973775dfe2174f77acd9]: Commencement: Reg. 57 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 126
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '126'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/126
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 126
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Transfer of status
+## 126. Transfer of status[^c-c309fd173efe320f8d7c65c0974c5330]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Where an eligible distance learning student transfers to another distance learning course, the Secretary of State must transfer the student’s status as an eligible distance learning student to that course where—
 
@@ -35,3 +41,7 @@ summary: ''
 (5) An eligible student who transfers under paragraph (1) after the Secretary of State has determined the student’s support in connection with the academic year of the course from which the student is transferring but before the student completes that year may not apply for another grant under regulation 119(1)(b) or regulation 122 in connection with the academic year of the course to which the student transfers.
 
 (6) Where a student transfers under paragraph (1), the maximum amount of support under regulation 119(1)(a) in respect of the academic years to and from which the student transfers is the amount of support available in connection with the course with the highest actual fees as defined in regulation 119
+
+## Annotations
+
+[^c-c309fd173efe320f8d7c65c0974c5330]: Commencement: Reg. 126 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

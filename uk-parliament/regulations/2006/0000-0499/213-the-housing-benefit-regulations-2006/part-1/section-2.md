@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations 2006, section 2
 act: The Housing Benefit Regulations 2006
 section: '2'
 status: revised-with-pending-changes
-text_date: '2026-10-05'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2006/213/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations 2006, section 2
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
 >
 > Extent: England, Wales, Scotland.
 
@@ -208,6 +208,7 @@ summary: ''
   - (b) any other payment made by the Secretary of State, the Scottish Ministers or, in Northern Ireland, the Department of Justice, for the purpose of compensating a person—
     - (i) for a miscarriage of justice in criminal proceedings, or
     - (ii) for being wrongfully charged with a criminal offence;
+- “[^c-28cc6290f3f2936a31dae5181a355e2e]**Mother and Baby Scheme payment**” means a payment under the Mother and Baby Institutions Payment Scheme established by the Irish Government under section 5 of the Irish Mother and Baby Institutions Payment Scheme Act 2023;
 - “mover” means a claimant who changes the dwelling occupied as the claimant’s home from a dwelling in the area of the appropriate authority to a dwelling in the area of a second authority;[^c-68ab5652f62e4030f11d775daf8afa00]
 - “the National Emergencies Trust” means the registered charity of that name (number 1182809) established on 28th March 2019;[^M_F_a0fcea01-eff3-4d94-ceb8-6ee5a64c018e]
 - “[^c-f5bd205d50b5cab21949e0061c963fb5]**neonatal care leave**” means leave under section 80EF of the Employment Rights Act 1996;
@@ -280,7 +281,7 @@ summary: ''
 - “qualifying parent or carer” means a person who has a bedroom in the dwelling they occupy as their home additional to those used by the persons who occupy the dwelling as their home and who—[^c-499c3bee9934353927f359263914ea4e]
   - (a) has a child or qualifying young person placed with them as mentioned in regulation 21(3) who by virtue of that provision is not treated as occupying their dwelling; or
   - (b) has been approved as a foster parent under regulation 27 of the Fostering Services (England) Regulations 2011 or regulation 28 of the Fostering Services (Wales) Regulations 2003 or as a kinship carer under regulation 10 or a foster carer under regulation 22 of the Looked After Children (Scotland) Regulations 2009 but does not have a child or qualifying young person placed with them and has not had a child or qualifying young person placed with them for a period which does not exceed 52 weeks;
-- “**qualifying person**” means a person in respect of whom a Grenfell Tower payment[^c-ec2ee4e41255c540bee329f4fe50d712] , a child abuse payment[^c-978bf54bb455125e917c3aaeea2a2121] , a Windrush payment, a Post Office compensation payment[^c-57a5bf40a815361fd54f26c5a4ca79e9] , a vaccine damage payment[^c-10c0e970f10bc6041fe84836c2c58aba] , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment[^c-bdb2352e71e0bec9ccc76b1114530752] has been made or payment has been made from the Fund, the Eileen Trust , MFET Limited[^c-c723161191cdbf3fb44bc20ee6a822c5], the Skipton Fund , the Caxton Foundation[^c-06808bba2d0daeb71be4e99a07f6c5cc] , the Scottish Infected Blood Support Scheme[^c-065f1af6c7a336e7b5ba2bb6cb189a52] , an approved blood scheme[^c-88600359fc23ed06aa33cc13ec07f0ec] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-61d01051bc3dbb3a721b462ccdef6c63] , the National Emergencies Trust[^c-584ab8739c6c32e3bb972c7bf25eb61a] , the Victims of Overseas Terrorism Compensation Scheme[^c-060586d9d119c898262368189e7c688a] or the London Bombings Relief Charitable Fund;
+- “**qualifying person**” means a person in respect of whom a Grenfell Tower payment[^c-ec2ee4e41255c540bee329f4fe50d712] , a child abuse payment[^c-978bf54bb455125e917c3aaeea2a2121] , a Windrush payment, a Post Office compensation payment[^c-57a5bf40a815361fd54f26c5a4ca79e9] , a vaccine damage payment[^c-10c0e970f10bc6041fe84836c2c58aba] , an LGBT Financial Recognition Scheme payment[^c-bdb2352e71e0bec9ccc76b1114530752] , a miscarriage of justice compensation payment or a Mother and Baby Scheme payment[^c-41de0a975a52947358f203a1f75f48f9] has been made or payment has been made from the Fund, the Eileen Trust , MFET Limited[^c-c723161191cdbf3fb44bc20ee6a822c5], the Skipton Fund , the Caxton Foundation[^c-06808bba2d0daeb71be4e99a07f6c5cc] , the Scottish Infected Blood Support Scheme[^c-065f1af6c7a336e7b5ba2bb6cb189a52] , an approved blood scheme[^c-88600359fc23ed06aa33cc13ec07f0ec] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-61d01051bc3dbb3a721b462ccdef6c63] , the National Emergencies Trust[^c-584ab8739c6c32e3bb972c7bf25eb61a] , the Victims of Overseas Terrorism Compensation Scheme[^c-060586d9d119c898262368189e7c688a] or the London Bombings Relief Charitable Fund;
 - “reckonable rent” means payments which a person is liable to make in respect of the dwelling which he occupies as his home, and which are eligible, or would, but for regulation 13, be eligible for housing benefit;
 - “registered housing association” means—[^c-7739b950f2f61eb07ead5ad1db0638e3]
   - (a) a private registered provider of social housing;
@@ -669,6 +670,8 @@ summary: ''
 
 [^c-7e9de3b21f392a8c209c617bfd8c1eb6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/213/regulation/2/1) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2025/778/regulation/5/2/a)
 
+[^c-28cc6290f3f2936a31dae5181a355e2e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/213/regulation/2/1) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/4/2/a)
+
 [^c-68ab5652f62e4030f11d775daf8afa00]: Textual amendment: Words in reg. 2(1) substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/2/c)
 
 [^M_F_a0fcea01-eff3-4d94-ceb8-6ee5a64c018e]: Textual amendment: Words in reg. 2(1) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/618)](https://www.legislation.gov.uk/uksi/2020/618), [regs. 1](https://www.legislation.gov.uk/uksi/2020/618/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/618/regulation/5/2/b/i)
@@ -748,6 +751,8 @@ summary: ''
 [^c-10c0e970f10bc6041fe84836c2c58aba]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/213/regulation/2/1) substituted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2025/44/regulation/6/2/b)
 
 [^c-bdb2352e71e0bec9ccc76b1114530752]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/213/regulation/2/1) substituted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2025/778/regulation/5/2/b)
+
+[^c-41de0a975a52947358f203a1f75f48f9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/213/regulation/2/1) substituted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/4/2/b)
 
 [^c-c723161191cdbf3fb44bc20ee6a822c5]: Textual amendment: Words in reg. 2(1) inserted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in force) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2010 (S.I. 2010/641)](https://www.legislation.gov.uk/uksi/2010/641), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/641/regulation/1/3/a), [8(3)(a)](https://www.legislation.gov.uk/uksi/2010/641/regulation/8/3/a)
 

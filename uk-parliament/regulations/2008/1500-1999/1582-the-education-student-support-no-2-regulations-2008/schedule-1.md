@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, SCHEDULE 1
 act: The Education (Student Support) (No.2) Regulations 2008
 section: schedule-1
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,15 +12,21 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, SCHEDULE 1
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 1 — ELIGIBLE STUDENTS
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 Regulations 5, 115, 132 and 149
 
 ### PART 1 — Interpretation
 
-**1.** (1) For the purposes of this Schedule—
+**1.**[^c-450a643db27da719f2f898446d0ac57c] (1) For the purposes of this Schedule—
 
 - “**EEA frontier self-employed person**” means an EEA national who—
   - (a) is a self-employed person in England; and
@@ -107,7 +113,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 ### PART 2 — Categories
 
-#### 2. Persons who are settled in the United Kingdom
+#### 2. Persons who are settled in the United Kingdom[^c-07235cac23aeaef2caf9056698745c83]
 
 (1) A person who on the first day of the first academic year of the course—
 
@@ -118,14 +124,14 @@ is to be considered to have always been a part of the European Economic Area.
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(4).
 
-**3.** (1) A person who—
+**3.**[^c-f47972dd0d3ff1eea8fa81c1d491363e] (1) A person who—
 
 - (a) is settled in the United Kingdom by virtue of having acquired the right of permanent residence;
 - (b) is ordinarily resident in England on the first day of the first academic year of the course;
 - (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
 - (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
 
-#### 4. Refugees and their family members
+#### 4. Refugees and their family members[^c-3622b7c46babd77c7e366006d47cc5ee]
 
 (1) A person—
 
@@ -148,7 +154,7 @@ is to be considered to have always been a part of the European Economic Area.
 - (d) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
 - (e) who is ordinarily resident in England on the first day of the first academic year of the course.
 
-#### 5. Persons with leave to enter or remain and their family members
+#### 5. Persons with leave to enter or remain and their family members[^c-ddb54c19feef47ddf3c74e51bb0bc68c]
 
 (1) A person—
 
@@ -171,7 +177,7 @@ is to be considered to have always been a part of the European Economic Area.
 - (d) who is ordinarily resident in England on the first day of the first academic year of the course; and
 - (e) who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course.
 
-#### 6. Workers, employed persons, self-employed persons and their family members
+#### 6. Workers, employed persons, self-employed persons and their family members[^c-a43e1a969a38e06c7a249fbdfd31ac73]
 
 (1) A person who—
 
@@ -187,13 +193,13 @@ is to be considered to have always been a part of the European Economic Area.
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
 
-**7.** A person who**—**
+**7.**[^c-45787461c6d9a96d0c8d6f99a0b78743] A person who**—**
 
 - (a) is ordinarily resident in England on the first day of the first academic year of the course;
 - (b) has been ordinarily resident in the territory comprising the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
 - (c) is entitled to support by virtue of Article 12 of [Council Regulation (EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on the freedom of movement of workers[^f00078], as extended by the EEA Agreement.
 
-#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere
+#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-4366f7a0492cd096ab99dab0db3f53f1]
 
 (1) A person who—
 
@@ -205,7 +211,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 (2) For the purposes of this paragraph, a person has exercised a right of residence if that person is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who has a right of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and has a right of permanent residence, if the person goes to the state within the territory comprising the European Economic Area and Switzerland of which the person is a national or of which the person in relation to whom the person is a family member is a national.
 
-#### 9. EC nationals
+#### 9. EC nationals[^c-65bed3c86e07e4c240b1c05856cc317d]
 
 (1) A person who—
 
@@ -222,7 +228,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 (3) Where a state accedes to the European Community after the first day of the first academic year of the course and a person is a national of that state or the family member of a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EC national on the first day of the first academic year of the course is treated as being satisfied.
 
-**10.** (1) A person who—
+**10.**[^c-ef38de6949395603075df163630ec74c] (1) A person who—
 
 - (a) is an EC national other than a United Kingdom national on the first day of the first academic year of the course;
 - (b) is ordinarily resident in England on the first day of the first academic year of the course;
@@ -231,7 +237,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 (2) Where a state accedes to the European Community after the first day of the first academic year of the course and a person is a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EC national other than a United Kingdom national on the first day of the first academic year of the course is treated as being satisfied.
 
-#### 11. Children of Swiss nationals
+#### 11. Children of Swiss nationals[^c-fc6954ebe7304ff0f127646ae7b9405d]
 
 A person who—
 
@@ -240,7 +246,7 @@ A person who—
 - (c) has been ordinarily resident in the territory comprising the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
 - (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
 
-#### 12. Children of Turkish workers
+#### 12. Children of Turkish workers[^c-77a449a4f747e0995a2e2e8b321acf3e]
 
 A person who—
 
@@ -250,8 +256,32 @@ A person who—
 
 ## Annotations
 
+[^c-450a643db27da719f2f898446d0ac57c]: Commencement: Sch. 1 para. 1 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
 [^f00076]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); section 33(2A) was inserted by paragraph 7 of Schedule 4 to the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
 
 [^f00077]: Footnote: Cm. 4904.
 
+[^c-07235cac23aeaef2caf9056698745c83]: Commencement: Sch. 1 para. 2 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-f47972dd0d3ff1eea8fa81c1d491363e]: Commencement: Sch. 1 para. 3 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-3622b7c46babd77c7e366006d47cc5ee]: Commencement: Sch. 1 para. 4 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-ddb54c19feef47ddf3c74e51bb0bc68c]: Commencement: Sch. 1 para. 5 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-a43e1a969a38e06c7a249fbdfd31ac73]: Commencement: Sch. 1 para. 6 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-45787461c6d9a96d0c8d6f99a0b78743]: Commencement: Sch. 1 para. 7 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
 [^f00078]: Footnote: OJ No L257, 19.10.1968, p2 (OJ/SE 1968 (II) p475).
+
+[^c-4366f7a0492cd096ab99dab0db3f53f1]: Commencement: Sch. 1 para. 8 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-65bed3c86e07e4c240b1c05856cc317d]: Commencement: Sch. 1 para. 9 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-ef38de6949395603075df163630ec74c]: Commencement: Sch. 1 para. 10 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-fc6954ebe7304ff0f127646ae7b9405d]: Commencement: Sch. 1 para. 11 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-77a449a4f747e0995a2e2e8b321acf3e]: Commencement: Sch. 1 para. 12 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

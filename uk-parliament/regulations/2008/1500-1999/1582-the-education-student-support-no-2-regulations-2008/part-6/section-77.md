@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 77
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '77'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/77
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 77
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Students becoming eligible in the course of an academic year
+## 77. Students becoming eligible in the course of an academic year[^c-be9b0c36751534450b985c189b75a884]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Where one of the events listed in paragraph (2) occurs in the course of an academic year, a student may qualify for a loan for living costs in respect of such quarters in respect of which a loan for living costs is payable as begin after the relevant event occurs.
 
@@ -37,3 +43,7 @@ summary: ''
 (6) The maximum amount of long courses loan payable is the aggregate of the maximum amount of long courses loan for each quarter in respect of which the student qualifies for the long courses loan under this regulation.
 
 (7) The maximum amount of long courses loan for each quarter is one third of the maximum amount of long courses loan which would apply for the academic year if the student fell into the category which applies to the relevant quarter for the duration of the academic year.
+
+## Annotations
+
+[^c-be9b0c36751534450b985c189b75a884]: Commencement: Reg. 77 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

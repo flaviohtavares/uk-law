@@ -3,7 +3,7 @@ title: Planning and Compulsory Purchase Act 2004, section 107
 act: Planning and Compulsory Purchase Act 2004
 section: '107'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-11-04'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2004/5/section/107
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Planning and Compulsory Purchase Act 2004, section 107
 
-> **Warning: changes not yet applied to this text (90).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
+> **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
 > Extent: England, Wales, Scotland.
 

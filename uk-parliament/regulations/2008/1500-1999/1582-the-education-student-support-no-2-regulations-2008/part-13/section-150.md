@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 150
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '150'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/150
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 150
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Students becoming eligible in the course of an academic year
+## 150. Students becoming eligible in the course of an academic year[^c-49dde16fe22c372776cf06f708b8c975]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Where one of the events listed in paragraph (2) occurs in the course of an academic year—
 
@@ -30,3 +36,7 @@ summary: ''
 - (e) the student becomes the child of a Turkish worker;
 - (f) the student becomes a person described in paragraph 6(1)(a) of Schedule 1; or
 - (g) the student becomes the child of a Swiss national.
+
+## Annotations
+
+[^c-49dde16fe22c372776cf06f708b8c975]: Commencement: Reg. 150 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

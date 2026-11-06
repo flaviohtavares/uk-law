@@ -3,16 +3,16 @@ title: The West Northamptonshire Joint Committee Order 2008
 id: uksi/2008/1572
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-11'
-text_date: null
-extent: null
+text_date: '2008-06-11'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1572
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1572/pdfs/uksiem_20081572_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1572/pdfs/uksi_20081572_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1572/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/1572/data.pdf
+pending_changes: 19
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The West Northamptonshire Joint Committee Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (19).** Text as at 2008-06-11. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1572
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1572
 
@@ -42,11 +48,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 29 of the Planning and Compulsory Purchase Act 2004[^f00001], makes the following Order:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-c59dfae5c73eb4a24ce4a58b2f73a31f]
 
 This Order may be cited as the West Northamptonshire Joint Committee Order 2008 and shall come into force on 25th July 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-08eb444b29f37d570400a305d567eea1]
 
 In this Order—
 
@@ -60,7 +66,7 @@ In this Order—
 - “substitute” means a person appointed in accordance with article 5(3); and
 - “voting member” means a person appointed in accordance with article 5(2).
 
-## 3. Establishment of the joint committee
+## 3. Establishment of the joint committee[^c-1fd39675704f770e39486bd3183393b0]
 
 (1) A joint committee, to be known as the West Northamptonshire Joint Strategic Planning Committee, is constituted as the local planning authority for the purposes of Part 2 (local development) of the 2004 Act for the administrative areas of Northampton Borough Council, Daventry District Council and South Northamptonshire District Council in respect of the matters specified in article 4(1) (being matters specified in the Agreement).
 
@@ -71,7 +77,7 @@ In this Order—
 - (c) Daventry District Council; and
 - (d) South Northamptonshire District Council.
 
-## 4. Functions of the joint committee
+## 4. Functions of the joint committee[^c-a419fab4f4351b1bfdbbb1665073dced]
 
 (1) The matters referred to in article 3(1) are the preparation, submission and revision of—
 
@@ -85,7 +91,7 @@ In this Order—
 
 .
 
-## 5. Membership of the joint committee and voting rights
+## 5. Membership of the joint committee and voting rights[^c-3c624773960e41d7662ee183d2babd2a]
 
 (1) The joint committee shall consist of—
 
@@ -109,13 +115,13 @@ In this Order—
 
 (8) Voting members and substitutes shall be entitled to recover from the constituent authority by which they are appointed any expense they incur in connection with the discharge of the joint committee’s functions.
 
-## 6. Disqualification for membership of the joint committee
+## 6. Disqualification for membership of the joint committee[^c-e3647158dfbc2e41356bbac7f6fcbc46]
 
 (1) A person who is disqualified under Part 5 (general provisions as to members and proceedings of local authorities) of the 1972 Act for being elected or being a member of a local authority shall be disqualified for being a member of the joint committee.
 
 (2) Section 92[^f00003] (proceedings for disqualification) of the 1972 Act, with the exception of subsections (7) and (8), shall apply with respect to membership of, or claims to be entitled to act as a member of, the joint committee as it applies to membership of, or claims to be entitled to act as a member of, a local authority.
 
-## 7. Tenure of office
+## 7. Tenure of office[^c-dd6874e925bbffad0bbd5f2dfc3fa64a]
 
 (1) A voting member shall hold office for a period of three years from the date of appointment but a person shall cease to be a voting member if the person—
 
@@ -138,17 +144,17 @@ In this Order—
 
 (5) Any casual vacancy shall be filled as soon as practicable by the body which appointed the member of the joint committee whose membership has ceased.
 
-## 8. Meetings and proceedings
+## 8. Meetings and proceedings[^c-13eff50f0753620999db9b1029837dbd]
 
 The meetings and proceedings of the joint committee shall be conducted in accordance with the rules set out in the Schedule to this Order.
 
-## 9. Secondments
+## 9. Secondments[^c-168a9b9954424f530eab0fea27902e15]
 
 (1) The constituent authorities may make secondments, in accordance with the Agreement, of such officers as they think necessary to enable the joint committee to discharge its functions.
 
 (2) The joint committee may make arrangements with a constituent authority for the services of any officer of that authority to be placed at the disposal of the joint committee for such period as may be agreed between the joint committee and the constituent authority.
 
-## 10. Expenses of joint committee
+## 10. Expenses of joint committee[^c-dfa7a1c332ee2fe9eb9cbc794f2f84a9]
 
 The expenses incurred by the joint committee shall be defrayed by South Northamptonshire District Council.
 
@@ -166,7 +172,7 @@ Department for Communities and Local Government
 
 Article 8
 
-### 1. Annual Meeting
+### 1. Annual Meeting[^c-ab6881975bc387ec30dbc120c528cb75]
 
 (1) The joint committee shall in every year hold an annual meeting.
 
@@ -174,7 +180,7 @@ Article 8
 
 (3) The joint committee may in every year hold, in addition to the annual meeting, such other meetings as it may determine.
 
-### 2. Appointment of chair and vice-chair
+### 2. Appointment of chair and vice-chair[^c-3ad44e73996d8b5508a6fb3064727de2]
 
 (1) The joint committee shall at its annual meeting appoint a chair and a vice-chair from among the voting members of the joint committee.
 
@@ -182,7 +188,7 @@ Article 8
 
 (3) The chair and vice-chair shall not be members of the same constituent authority.
 
-### 3. Casual vacancies
+### 3. Casual vacancies[^c-382392f2f7882fd5aa555b8210813c86]
 
 (1) This paragraph applies if a casual vacancy occurs in the office of chair or vice-chair of the joint committee.
 
@@ -190,7 +196,7 @@ Article 8
 
 (3) The person so appointed shall hold office until the next annual meeting.
 
-### 4. Conduct of meetings
+### 4. Conduct of meetings[^c-ca4f2582a38e28cf8f1ddbed933c0b40]
 
 (1) At a meeting of the joint committee the chair if present shall preside.
 
@@ -198,7 +204,7 @@ Article 8
 
 (3) If both the chair and vice-chair are absent, another voting member of the joint committee, chosen by the voting members of the joint committee present at the meeting, shall preside.
 
-### 5. Calling of meetings
+### 5. Calling of meetings[^c-78879f44846a2df09695882529d812fc]
 
 (1) The chair of the joint committee may call a meeting of the joint committee at any time.
 
@@ -226,11 +232,11 @@ any three members of the joint committee may, on that refusal or on the expirati
 
 (7) Where the office of chair is vacant, sub-paragraphs (1) to (6) shall apply as if references to the chair of the joint committee were references to the vice-chair of the joint committee.
 
-### 6. Quorum
+### 6. Quorum[^c-77868a8cfe017b69d8033680599b5b3b]
 
 No business shall be transacted at a meeting of the joint committee unless at least three voting members are present.
 
-### 7. Proceedings of meetings
+### 7. Proceedings of meetings[^c-ff5647697b941111b10dbbc50d57db0a]
 
 (1) Subject to sub-paragraph (2), all questions coming or arising before a meeting of the joint committee shall be decided by a majority of the voting members of the joint committee present and voting at that meeting.
 
@@ -242,7 +248,7 @@ No business shall be transacted at a meeting of the joint committee unless at le
 
 (5) The names of the members present at each meeting of the joint committee shall be recorded in the minutes of the proceedings of that meeting.
 
-### 8. Standing orders
+### 8. Standing orders[^c-94609629cd1718dc056fb23b735c6228]
 
 Subject to the provisions of this Order, the joint committee may make standing orders for the regulation of its proceedings and may vary or revoke any such orders.
 
@@ -264,6 +270,42 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2004 c.5](https://www.legislation.gov.uk/ukpga/2004/5).
 
+[^c-c59dfae5c73eb4a24ce4a58b2f73a31f]: Commencement: Art. 1 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-08eb444b29f37d570400a305d567eea1]: Commencement: Art. 2 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
 [^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70). Relevant amendments were made by section 46 of the Local Government Act [2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22), sections 1 and 94 of, and Schedule 12 to, the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), section 84 of, and Schedule 14 to, the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), section 206 of, and Schedule 8 to, the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2), section 54 of, and Schedule 3 to, the Audit Commission Act [1998 (c.18)](https://www.legislation.gov.uk/ukpga/1998/18), section 69 of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29), sections 37, 38 and 46 of the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48), section 78 of, and Schedule 10 to, the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 139(3) of the Transport Act [1985 (c.67)](https://www.legislation.gov.uk/ukpga/1985/67), section 38 of the Local Government Finance Act [1982 (c.32)](https://www.legislation.gov.uk/ukpga/1982/32), section 237 of, and Schedule 13 to, the Education Reform Act [1988 (c.40)](https://www.legislation.gov.uk/ukpga/1988/40) and sections 74(1), 209(2), 216(2) and 241 of, and Schedules 3, 13, 14 and 18 to, the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28). Relevant amending instruments are [S.I. 1999/2267](https://www.legislation.gov.uk/uksi/1999/2267) and [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237).
 
+[^c-1fd39675704f770e39486bd3183393b0]: Commencement: Art. 3 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-a419fab4f4351b1bfdbbb1665073dced]: Commencement: Art. 4 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-3c624773960e41d7662ee183d2babd2a]: Commencement: Art. 5 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-e3647158dfbc2e41356bbac7f6fcbc46]: Commencement: Art. 6 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
 [^f00003]: Footnote: Amended by sections 37, 38 and 46 of the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48).
+
+[^c-dd6874e925bbffad0bbd5f2dfc3fa64a]: Commencement: Art. 7 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-13eff50f0753620999db9b1029837dbd]: Commencement: Art. 8 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-168a9b9954424f530eab0fea27902e15]: Commencement: Art. 9 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-dfa7a1c332ee2fe9eb9cbc794f2f84a9]: Commencement: Art. 10 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-ab6881975bc387ec30dbc120c528cb75]: Commencement: Sch. para. 1 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-3ad44e73996d8b5508a6fb3064727de2]: Commencement: Sch. para. 2 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-382392f2f7882fd5aa555b8210813c86]: Commencement: Sch. para. 3 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-ca4f2582a38e28cf8f1ddbed933c0b40]: Commencement: Sch. para. 4 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-78879f44846a2df09695882529d812fc]: Commencement: Sch. para. 5 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-77868a8cfe017b69d8033680599b5b3b]: Commencement: Sch. para. 6 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-ff5647697b941111b10dbbc50d57db0a]: Commencement: Sch. para. 7 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)
+
+[^c-94609629cd1718dc056fb23b735c6228]: Commencement: Sch. para. 8 in force at 25.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1572/article/1)

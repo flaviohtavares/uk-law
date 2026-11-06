@@ -3,16 +3,16 @@ title: The Social Security (Overpayments and Recovery) Regulations 2013
 id: uksi/2013/384
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2013-02-25'
-text_date: '2016-04-06'
+text_date: '2026-10-30'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2013/384
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2013/384/pdfs/uksiem_20130384_en.pdf
 - http://www.legislation.gov.uk/uksi/2013/384/pdfs/uksi_20130384_en.pdf
 - http://www.legislation.gov.uk/uksi/2013/384/data.pdf
-pending_changes: 7
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Social Security (Overpayments and Recovery) Regulations 2013
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2013/384
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -98,11 +98,12 @@ In these Regulations—
 - (a) subject to regulations 7 to 9, the amount of any overpayment; and
 - (b) any other amount recoverable under any provision of the Act specified in paragraph (2).
 
-(2) Those provisions are [^c2166228]—
+(2) Those provisions are[^c2166228]—
 
-- (a) section 71ZE(3) (costs of court action etc.);
+- (a)[^c-05cf26e4ac3c78647591a4edf4f21941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 71ZG (recovery of payments on account);
 - (c) section 71ZH (recovery of hardship payments);
+- (ca)[^c-b1481ce59c5c093cab96b40297fe24a0] section 80G (recovery of costs);
 - (d) section 115B(4)(recovery of penalties imposed as an alternative to prosecution);
 - (e) section 115C(4) (recovery of civil penalties for incorrect statements); and
 - (f) section 115D(4) (recovery of civil penalties for failure to disclose information).
@@ -207,12 +208,12 @@ Section 71ZB(3) of the Act (recoverability of an overpayment dependent on revers
 
 - (a) in a case to which paragraph (3) applies, an amount equivalent to not more than 40 per cent.[^c-77211a5e2875d2d988631929110f78f9] of the appropriate universal credit standard allowance;
 - (b) in a case to which paragraph (4) applies but paragraph (3) does not apply, an amount equivalent to not more than 25 per cent.[^c-87fd0908a892f69f1f097ab2aae10d0a] of that allowance; and
-- (c) in any other case, an amount equivalent to not more than 15 per cent.[^c-4311cb2253eddc677f262c26e7ce7d51]of that allowance.
+- (c) in any other case, an amount equivalent to not more than 15 per cent.[^c-4311cb2253eddc677f262c26e7ce7d51] of that allowance.
 
 (3) This paragraph applies where deductions from universal credit are made to recover from the liable person—
 
 - (a) the whole or part of an overpayment in respect of which the liable person has—
-  - (i) been found guilty of an offence whether under statute or otherwise;
+  - (i) been convicted[^c-a7744c4c9b3599c8f7ac4e4fcd04ca4e] of an offence whether under statute or otherwise;
   - (ii) made an admission after caution of deception or fraud for the purpose of obtaining benefit under the Act or a tax credit under the Tax Credits Act 2002; or
   - (iii) agreed to pay a penalty under section 115A of the Act (penalty as an alternative to prosecution) and the agreement has not been withdrawn; or
 - (b) a payment which is recoverable by virtue of section 71ZH of the Act (hardship payments).
@@ -269,13 +270,13 @@ Section 71ZB(3) of the Act (recoverability of an overpayment dependent on revers
 
 (2) Subject to paragraphs (4) and (5), regulation 10 is to apply to the amount of state pension credit to which the liable person is presently entitled to the extent that there may be recovered in any one benefit week—
 
-- (a) in a case to which paragraph (3) applies, an amount equivalent to not more than 5 times 5 per cent. of the standard allowance for a single person aged 25 or over under regulation 36 of the UC Regulations; and
+- (a) in a case to which paragraph (3) applies, an amount equivalent to not more than 8 times 5 per cent.[^c-c2dceb74da41724a17a8c992cedee8df] of the standard allowance for a single person aged 25 or over under regulation 36 of the UC Regulations; and
 - (b) in any other case, an amount equivalent to not more than 3 times 5 per cent. of that allowance.
 
 (3) This paragraph applies where deductions from state pension credit are made to recover from the liable person—
 
 - (a) the whole or part of an overpayment in respect of which the liable person has—
-  - (i) been found guilty of an offence whether under statute or otherwise;
+  - (i) been convicted[^c-1628fc3a5a5d434a09f1f47628ab87f9] of an offence whether under statute or otherwise;
   - (ii) made an admission after caution of deception or fraud for the purpose of obtaining universal credit, jobseeker's allowance or employment and support allowance; or
   - (iii) agreed to pay a penalty under section 115A of the Act (penalty as an alternative to prosecution) and the agreement has not been withdrawn; or
 - (b) a payment which is recoverable by virtue of section 71ZH of the Act (hardship payments).
@@ -292,7 +293,7 @@ Section 71ZB(3) of the Act (recoverability of an overpayment dependent on revers
 
 (2) Where, in respect of the overpayment of that amount, the landlord has—
 
-- (a) been found guilty of an offence whether under statute or otherwise; or
+- (a) been convicted[^c-ca48ddb644682d9035a14a09ef08c2a0] of an offence whether under statute or otherwise; or
 - (b) agreed to pay a penalty under section 115A of the Act (penalty as an alternative to prosecution) and the agreement has not been withdrawn,
 
 that obligation is to be taken to be discharged by the amount of the deduction.
@@ -402,7 +403,7 @@ and Schedule 1 has effect for the purpose of this regulation.
 - (b) where the liable person's earnings are payable monthly, the percentage of their earnings specified in column 2 of Table B in that Schedule opposite the band in column 1 of that Table within which their net earnings payable on their pay-day fall; or
 - (c) a lower amount calculated in the manner specified by the appropriate authority in the notice.
 
-(3A)[^c-822737196c129520c9a1ed2095bb8659] Paragraph (3B) applies where deductions from earnings are made to recover from the liable person the whole or part of an overpayment in respect of which the liable person has been found guilty of an offence whether under statute or otherwise.
+(3A)[^c-822737196c129520c9a1ed2095bb8659] Paragraph (3B) applies where deductions from earnings are made to recover from the liable person the whole or part of an overpayment in respect of which the liable person has been convicted[^c-4e8dbbdcc4624bc24fedfb2d69dd2f16] of an offence whether under statute or otherwise.
 
 (3B) Where this paragraph applies, the amount to be deducted by the employer is—
 
@@ -422,9 +423,9 @@ and Schedule 1 has effect for the purpose of this regulation.
 
 (6) Where, on any pay-day (“the relevant pay-day”), the employer fails to deduct an amount under paragraph (3)or (3B)[^c-2775238567f63ab56ddae315c89c2ffe] or deducts an amount less than the amount specified in that paragraph, the employer must, on the next available pay-day or pay-days, first deduct the amount required to be deducted under paragraph (3)or (3B) for that pay-day and then the difference between the amount, if any, which was deducted on the relevant pay-day and the amount which should have been deducted on that pay-day.
 
-(7) Where a deduction made in accordance with paragraph (3) , (3B)[^c-854f517bae7fae78d0f39bd9c166d4c6]or (6) would reduce the amount paid to the liable person below the protected earnings proportion, the employer must deduct only such amount as will result in the employer paying the liable person an amount equal to the protected earnings proportion.
+(7) Where a deduction made in accordance with paragraph (3) , (3B)[^c-854f517bae7fae78d0f39bd9c166d4c6] or (6) would reduce the amount paid to the liable person below the protected earnings proportion, the employer must deduct only such amount as will result in the employer paying the liable person an amount equal to the protected earnings proportion.
 
-(8) Where, on any pay-day (“the relevant pay-day”), the employer deducts more than the amount required to be deducted under paragraph (3)or (3B)[^c-a6ea2f6f3c6ce37c29f1f3d8201ff935] the employer must, on the next available pay-day or pay-days, deduct only the amount required to be deducted under paragraph (3)or (3B) , less the difference between the amount which was deducted on the relevant pay-day and the amount which should have been deducted on that pay-day.
+(8) Where, on any pay-day (“the relevant pay-day”), the employer deducts more than the amount required to be deducted under paragraph (3)or (3B)[^c-a6ea2f6f3c6ce37c29f1f3d8201ff935] the employer must, on the next available pay-day or pay-days, deduct only the amount required to be deducted under paragraph (3)or (3B), less the difference between the amount which was deducted on the relevant pay-day and the amount which should have been deducted on that pay-day.
 
 (9) Where, on any pay-day, an employer makes a deduction from the earnings of a liable person in accordance with the notice, they may also deduct an additional amount not exceeding £1 in respect of their administrative costs and such deduction for administrative costs may reduce the amount which the employer pays to the liable person on that pay-day below the protected earnings proportion.
 
@@ -995,6 +996,10 @@ An impact assessment has not been produced for the remainder of this instrument 
 
 [^c2166228]: Marginal citation: [Sections 71ZE](https://www.legislation.gov.uk/uksi/2013/384/section/71ZE), [71ZG](https://www.legislation.gov.uk/uksi/2013/384/section/71ZG) and 71ZH are inserted by section 105 of the Welfare Reform Act 2012. Sections 115C and 115D are inserted by section 116 of that Act.
 
+[^c-05cf26e4ac3c78647591a4edf4f21941]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2013/384/regulation/3/2/a) omitted (29.10.2026) by virtue of [The Social Security (Further Methods of Recovery) Regulations 2026 (S.I. 2026/1069)](https://www.legislation.gov.uk/uksi/2026/1069), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/1/2), [31(2)(a)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/31/2/a)
+
+[^c-b1481ce59c5c093cab96b40297fe24a0]: Textual amendment: [Reg. 3(2)(ca)](https://www.legislation.gov.uk/uksi/2013/384/regulation/3/2/ca) inserted (29.10.2026) by [The Social Security (Further Methods of Recovery) Regulations 2026 (S.I. 2026/1069)](https://www.legislation.gov.uk/uksi/2026/1069), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/1/2), [31(2)(b)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/31/2/b)
+
 [^c2166229]: Marginal citation: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
 
 [^c2166230]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
@@ -1011,6 +1016,8 @@ An impact assessment has not been produced for the remainder of this instrument 
 
 [^c-4311cb2253eddc677f262c26e7ce7d51]: Textual amendment: Words in [reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/2/c) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [8(2)(c)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/8/2/c)
 
+[^c-a7744c4c9b3599c8f7ac4e4fcd04ca4e]: Textual amendment: Word in [reg. 11(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/3/a/i) substituted (29.10.2026) by [The Social Security (Further Methods of Recovery) Regulations 2026 (S.I. 2026/1069)](https://www.legislation.gov.uk/uksi/2026/1069), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/1/2), [31(3)(a)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/31/3/a)
+
 [^c-f3498f468a3d44ffea4b73116a6b4248]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/6) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [8(3)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/8/3)
 
 [^c2166232]: Marginal citation: [S.I.2013/381](https://www.legislation.gov.uk/uksi/2013/381).
@@ -1023,7 +1030,13 @@ An impact assessment has not been produced for the remainder of this instrument 
 
 [^c2166236]: Marginal citation: [S.I.2013/379](https://www.legislation.gov.uk/uksi/2013/379).
 
+[^c-c2dceb74da41724a17a8c992cedee8df]: Textual amendment: Words in [reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/2013/384/regulation/14/2/a) substituted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2026/1063/regulation/9)
+
+[^c-1628fc3a5a5d434a09f1f47628ab87f9]: Textual amendment: Word in [reg. 14(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/384/regulation/14/3/a/i) substituted (29.10.2026) by [The Social Security (Further Methods of Recovery) Regulations 2026 (S.I. 2026/1069)](https://www.legislation.gov.uk/uksi/2026/1069), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/1/2), [31(3)(b)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/31/3/b)
+
 [^c2166237]: Marginal citation: [S.I.2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
+
+[^c-ca48ddb644682d9035a14a09ef08c2a0]: Textual amendment: Word in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2013/384/regulation/15/2/a) substituted (29.10.2026) by [The Social Security (Further Methods of Recovery) Regulations 2026 (S.I. 2026/1069)](https://www.legislation.gov.uk/uksi/2026/1069), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/1/2), [31(3)(c)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/31/3/c)
 
 [^c2166238]: Marginal citation: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).
 
@@ -1040,6 +1053,8 @@ An impact assessment has not been produced for the remainder of this instrument 
 [^c-91a5ecf8dc3b480258b570a7009b03e1]: Textual amendment: Words in reg. 20(3) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/3)
 
 [^c-822737196c129520c9a1ed2095bb8659]: Textual amendment: Reg. 20(3A) - Reg. 20(3B) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/4)
+
+[^c-4e8dbbdcc4624bc24fedfb2d69dd2f16]: Textual amendment: Word in [reg. 20(3A)](https://www.legislation.gov.uk/uksi/2013/384/regulation/20/3A) substituted (29.10.2026) by [The Social Security (Further Methods of Recovery) Regulations 2026 (S.I. 2026/1069)](https://www.legislation.gov.uk/uksi/2026/1069), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/1/2), [31(3)(d)](https://www.legislation.gov.uk/uksi/2026/1069/regulation/31/3/d)
 
 [^c-68478a0d720321b74a9990ee43bc8993]: Textual amendment: Words in reg. 20(4) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/2)
 

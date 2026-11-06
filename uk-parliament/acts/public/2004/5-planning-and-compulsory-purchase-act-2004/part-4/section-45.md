@@ -3,7 +3,7 @@ title: Planning and Compulsory Purchase Act 2004, section 45
 act: Planning and Compulsory Purchase Act 2004
 section: '45'
 status: not-yet-in-force
-text_date: '2026-07-16'
+text_date: '2026-11-04'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2004/5/section/45
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

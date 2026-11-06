@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2016-05-12'
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2016/22
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # Housing and Planning Act 2016
 
-> **Warning: changes not yet applied to this text (34).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
+> **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

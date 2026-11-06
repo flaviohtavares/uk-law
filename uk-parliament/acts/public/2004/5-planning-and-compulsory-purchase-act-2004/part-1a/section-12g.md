@@ -3,7 +3,7 @@ title: Planning and Compulsory Purchase Act 2004, section 12G
 act: Planning and Compulsory Purchase Act 2004
 section: 12G
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-11-04'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2004/5/section/12G
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Planning and Compulsory Purchase Act 2004, section 12G
 
-> **Warning: changes not yet applied to this text (90).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
+> **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
 > Extent: England, Wales, Scotland.
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c-7d6fc29b9587be7529b03bdeead25eaf]: Textual amendment: Pt. 1A inserted (18.12.2025 for the purposes of making regulations, otherwise prosp.) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/1), [118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
-[^c-560e95b81e589866d55e3de2bf16220a]: Textual amendment: S. 12G(2A) inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 39](https://www.legislation.gov.uk/ukpga/2026/23/section/39), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-560e95b81e589866d55e3de2bf16220a]: Textual amendment: [S. 12G(2A)](https://www.legislation.gov.uk/ukpga/2004/5/section/12G/2A) inserted (29.4.2026 for specified purposes, 4.11.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 39](https://www.legislation.gov.uk/ukpga/2026/23/section/39), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/1157](https://www.legislation.gov.uk/uksi/2026/1157), [reg. 4](https://www.legislation.gov.uk/uksi/2026/1157/regulation/4)

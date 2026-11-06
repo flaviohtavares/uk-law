@@ -3,15 +3,15 @@ title: The Protection of Children and Vulnerable Adults and Care Standards Tribu
 id: uksi/2008/1497
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-09'
-text_date: null
-extent: null
+text_date: '2008-07-02'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1497
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1497/pdfs/uksiem_20081497_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1497/pdfs/uksi_20081497_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1497/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1497/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Protection of Children and Vulnerable Adults and Care Standards Tribunal (Children’s and Adults’ Barred Lists) (Transitional Provisions) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-02. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1497
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No.1497
 
@@ -46,7 +50,7 @@ The Secretary of State makes the following regulations in exercise of the powers
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation, commencement and interpretation
+### 1. Citation, commencement and interpretation[^c-67377e4d7db28a9fbcfabb7eb7c30546]
 
 (1) These Regulations may be cited as the Protection of Children and Vulnerable Adults and Care Standards Tribunal (Children’s and Adults’ Barred Lists) (Transitional Provisions) Regulations 2008 and shall come into force on 2nd July 2008.
 
@@ -72,7 +76,7 @@ The Secretary of State makes the following regulations in exercise of the powers
 
 ## PART 2 — CONSTITUTION
 
-### 2. Powers and functions exercisable by the President and Secretary
+### 2. Powers and functions exercisable by the President and Secretary[^c-1e2579320e4051c0119e5024c76c0b06]
 
 (1) Anything which must or may be done by the President (except under regulation 8(1), (2), (3) or (4) or 20(4)), may be done by a member of the chairmen’s panel authorised by the President.
 
@@ -80,7 +84,7 @@ The Secretary of State makes the following regulations in exercise of the powers
 
 ## PART 3 — APPLICATIONS FOR PERMISSION TO APPEAL
 
-### 3. Applying for permission to appeal
+### 3. Applying for permission to appeal[^c-e662b91f7f5731a9893d81c63698f453]
 
 (1) An application for permission to appeal to the Tribunal under section 4(4) of the Act against a decision—
 
@@ -103,7 +107,7 @@ must be made in writing to the Secretary and must be received by the Secretary n
 - (g) give, where these are available, the applicant’s telephone number, fax number and e-mail address and those of the applicant’s representative (if any); and
 - (h) be signed and dated by the applicant.
 
-### 4. Acknowledgement and notification of application
+### 4. Acknowledgement and notification of application[^c-a9b0e769810e146545d2931322b9ed03]
 
 (1) On receiving an application under regulation 3, the Secretary shall—
 
@@ -121,7 +125,7 @@ must be made in writing to the Secretary and must be received by the Secretary n
 - (b) he shall notify the applicant accordingly; and
 - (c) unless within 5 working days of receipt of the notification under sub-paragraph (b) of this paragraph the applicant notifies the Secretary in writing that he objects to the correction, the application shall be amended accordingly.
 
-### 5. Response to application
+### 5. Response to application[^c-f50e1d1d43b1c5b6ebc3c75e05014a5b]
 
 (1) The Secretary must send information provided by the applicant under regulation 3 to the respondent together with a request that it respond to the application within 20 working days of receiving it.
 
@@ -138,7 +142,7 @@ must be made in writing to the Secretary and must be received by the Secretary n
 
 (4) The Secretary must send to the applicant a copy of the response and the information and documents provided with it (subject, in the case of any material provided in accordance with paragraph (3)(b)(iv), to any direction of the President or the nominated chairman under regulation 16).
 
-### 6. Grant or refusal of leave
+### 6. Grant or refusal of leave[^c-6c763848f2f0569cea49c1c367eda1c1]
 
 (1) The President or the nominated chairman shall grant or refuse an application for permission under regulation 3 without a hearing, as he sees fit.
 
@@ -149,7 +153,7 @@ must be made in writing to the Secretary and must be received by the Secretary n
 - (a) must notify them of his reasons for doing so; and
 - (b) must inform the applicant of his right to request a reconsideration of the decision under regulation 7.
 
-### 7. Reconsideration of permission
+### 7. Reconsideration of permission[^c-8a8c7d5fbb076ab50a42897ce88fd2b1]
 
 (1) Where, pursuant to regulation 6, the President, or the nominated chairman, has refused permission to appeal, the applicant may apply to the President, or the nominated chairman, requesting a reconsideration of that decision.
 
@@ -168,7 +172,7 @@ must be made in writing to the Secretary and must be received by the Secretary n
 
 ## PART 4 — CASE MANAGEMENT
 
-### 8. Appointment of Tribunal
+### 8. Appointment of Tribunal[^c-5085b2a2716c6590eb8eb412a8ac6771]
 
 (1) The President shall, at such time as he considers it appropriate to do so, nominate a chairman (who may be himself) to determine the grant or refusal of permission to proceed with an application.
 
@@ -180,7 +184,7 @@ must be made in writing to the Secretary and must be received by the Secretary n
 
 (5) The President or the nominated chairman may determine any application made in relation to the case.
 
-### 9. Directions and preliminary matters
+### 9. Directions and preliminary matters[^c-155cd0572aa33b506185aa32d2751182]
 
 (1) If either party has requested that there shall be a preliminary hearing, or if the President or the nominated chairman considers that a preliminary hearing is necessary, the President or the nominated chairman, as the case may be, shall fix a date for the preliminary hearing as soon as possible.
 
@@ -202,7 +206,7 @@ must be made in writing to the Secretary and must be received by the Secretary n
 
 (8) The Tribunal (or the President or nominated chairman) may invite any person who, in its, or his, opinion, has an interest in the proceedings to submit written representations and any such representations shall be sent to the Secretary before the end of the period of 14 days beginning with the date on which the invitation is sent to that person.
 
-### 10. Fixing and notification of hearing
+### 10. Fixing and notification of hearing[^c-b335e502cecbc5f13b9d9ab1d11a2db7]
 
 (1) The Secretary must, in consultation with the President or the nominated chairman, fix a date for the hearing of the case unless the applicant has requested in writing that the case be determined without a hearing.
 
@@ -216,7 +220,7 @@ must be made in writing to the Secretary and must be received by the Secretary n
 
 (6) If the President or the nominated chairman adjourns the hearing, then the Secretary must, without delay, inform the parties in writing of the date, time and place at which the hearing will be resumed.
 
-### 11. General Conduct of Hearing
+### 11. General Conduct of Hearing[^c-e532b315f5a4cf5069711e3b8b930adb]
 
 (1) The Tribunal may regulate its own procedure.
 
@@ -232,7 +236,7 @@ must be made in writing to the Secretary and must be received by the Secretary n
 
 (7) If either party fails to attend or be represented at the hearing, the Tribunal may determine the case in that party’s absence.
 
-### 12. Hearing to be in public
+### 12. Hearing to be in public[^c-5a58c75cf47902a35b4d274ff5728e6f]
 
 (1) The hearing must be in public except in so far as any person is excluded under regulation 17.
 
@@ -246,7 +250,7 @@ are entitled to attend the hearing.
 
 (3) Whether or not the hearing is held in public, the President may remain present during the Tribunal’s deliberations, but must not take part in those deliberations, except where the President is the nominated chairman of the Tribunal.
 
-### 13. Summoning of witnesses
+### 13. Summoning of witnesses[^c-3448fa1a55cdf8ae38d9c560f6002fae]
 
 (1) The President or the nominated chairman may, upon being requested to do so by either of the parties, or on his own initiative, issue a summons requiring any person to—
 
@@ -267,7 +271,7 @@ are entitled to attend the hearing.
 
 (5) No person shall be required under this regulation to give any evidence or produce any document or other material that he could not be required to produce in legal proceedings in a county court.
 
-### 14. Child, vulnerable adult and sensitive witnesses
+### 14. Child, vulnerable adult and sensitive witnesses[^c-402399c863cdd62f4233e00803bec036]
 
 (1) A child shall only give evidence in person where, having regard to all the available evidence, and any representations made by the parties, the President or the nominated chairman considers that the welfare of the child will not be prejudiced by so doing.
 
@@ -293,7 +297,7 @@ are entitled to attend the hearing.
 
 (6) The Tribunal shall pay such reasonable fees as the President or the nominated chairman may determine to any person appointed under this regulation.
 
-### 15. Expert evidence
+### 15. Expert evidence[^c-60cd01614a529a4ac6a18b9085ccc983]
 
 (1) The President or the nominated chairman may, if he thinks that any question arises in relation to the case on which it would be desirable for the Tribunal to have the assistance of an expert, appoint a person having appropriate qualifications to enquire into and report on the matter.
 
@@ -303,7 +307,7 @@ are entitled to attend the hearing.
 
 (4) The Tribunal shall pay such reasonable fees as the President or the nominated chairman may determine to any person appointed under this regulation.
 
-### 16. Withholding medical report from disclosure in exceptional circumstances
+### 16. Withholding medical report from disclosure in exceptional circumstances[^c-3a066dd0e50470dc857274031a60ff68]
 
 (1) This regulation applies where—
 
@@ -321,7 +325,7 @@ are entitled to attend the hearing.
 
 (4) The Tribunal shall pay such reasonable fees as the President or the nominated chairman may determine to the person mentioned in paragraph (2).
 
-### 17. Exclusion of press and public
+### 17. Exclusion of press and public[^c-5f27032e721d3ccd9954b58ef30fb18c]
 
 (1) Where paragraph (2) applies, the President or the nominated chairman (or, at the hearing, the Tribunal) may on his (or its) own initiative, or on a request by the applicant that the hearing or any part of it should be conducted in private, direct that—
 
@@ -337,7 +341,7 @@ be excluded from all or part of the hearing.
 - (b) protect a person’s private life; or
 - (c) avoid the risk of injustice in any legal proceedings.
 
-### 18. Restricted Reporting Orders
+### 18. Restricted Reporting Orders[^c-8f61a89261c0fb2b5bd69cd702a92563]
 
 (1) Where paragraph (2) applies, the President or the nominated chairman (or, at the hearing, the Tribunal) may make a restricted reporting order.
 
@@ -353,7 +357,7 @@ be excluded from all or part of the hearing.
 
 ## PART 5 — DECISION
 
-### 19. The decision
+### 19. The decision[^c-1fa421dc3ce322844890afbcc5855dca]
 
 (1) The Tribunal’s decision may be taken by a majority and the decision shall record whether it was unanimous or taken by a majority.
 
@@ -367,7 +371,7 @@ be excluded from all or part of the hearing.
 
 (6) The decision shall be entered in the records.
 
-### 20. Review of the Tribunal’s decision
+### 20. Review of the Tribunal’s decision[^c-5a1169c2903dbd9b60c4fd595c0982aa]
 
 (1) A party may apply to the President for the Tribunal’s decision to be reviewed on the grounds that—
 
@@ -396,7 +400,7 @@ be excluded from all or part of the hearing.
 
 (7) The power to give directions under paragraph (6) includes a power to give a direction requiring a party to provide such particulars, evidence or statements as may reasonably be required for the determination of the review.
 
-### 21. Powers of Tribunal on review
+### 21. Powers of Tribunal on review[^c-785c8388906243faa3ecfc29a16a7b2d]
 
 (1) The Tribunal may, having reviewed a decision—
 
@@ -407,7 +411,7 @@ be excluded from all or part of the hearing.
 
 (3) Any decision of the Tribunal under this regulation may be taken by a majority and the decision shall record whether it was unanimous or taken by a majority.
 
-### 22. Publication
+### 22. Publication[^c-5c747ae581fed47832bb1db478d4037c]
 
 (1) The President must make such arrangements as he considers appropriate for the publication of Tribunal decisions.
 
@@ -423,7 +427,7 @@ be excluded from all or part of the hearing.
 
 ## PART 6 — SUPPLEMENTARY
 
-### 23. Methods of sending documents
+### 23. Methods of sending documents[^c-13ae94e99a85ba348825313ff1e45771]
 
 (1) Any document may be sent to the Secretary by post, by fax, electronically or through a document exchange, unless the President or the nominated chairman directs otherwise.
 
@@ -442,7 +446,7 @@ be excluded from all or part of the hearing.
 - (c) if left at a document exchange in accordance with paragraph (2)(c), on the second working day after it was left; and
 - (d) if served in accordance with a direction under paragraph (3), on the next working day after it was so served.
 
-### 24. Irregularities
+### 24. Irregularities[^c-3ddbb33ee492066cfd13d39a2b49b4a3]
 
 (1) Any irregularity resulting from failure to comply with any provision of these Regulations or any direction given in accordance with them before the Tribunal has reached its decision shall not of itself render the proceedings void.
 
@@ -452,18 +456,18 @@ be excluded from all or part of the hearing.
 
 (4) The Secretary shall as soon as practicable where a document is corrected in accordance with paragraph (3) send the parties a copy of any corrected document together with reasons for the decision to correct the document.
 
-### 25. Death of applicant
+### 25. Death of applicant[^c-8621e766a111a688fa1d235353b1f019]
 
 If the applicant dies before the case or application for permission is determined, the President or the nominated chairman may—
 
 - (a) strike out the case or application for permission in so far as it relates to that individual without making a costs order; or
 - (b) appoint such person as he thinks fit to proceed with the case or application in place of the deceased applicant.
 
-### 26. Withdrawal of application
+### 26. Withdrawal of application[^c-46974919d3a657487c97fefa45932ba0]
 
 If the applicant at any time notifies the Secretary of State in writing, or states at a hearing, that he no longer wishes to pursue the proceedings, the President or the nominated chairman (or at the hearing, the Tribunal) must dismiss the proceedings.
 
-### 27. Proof of documents and certification of decisions
+### 27. Proof of documents and certification of decisions[^c-d74609b0203c4306523b434c936ecf40]
 
 (1) A document purporting to be issued by the Secretary shall be taken to have been so issued, unless the contrary is proved.
 
@@ -474,7 +478,7 @@ If the applicant at any time notifies the Secretary of State in writing, or stat
 
 shall be sufficient evidence of the matters contained in it, unless the contrary is proved.
 
-### 28. Time
+### 28. Time[^c-65d74b674dcd3dc1d2a198ae18543b6d]
 
 (1) The President or the nominated chairman may extend any time limit mentioned in these Regulations if in the circumstances—
 
@@ -522,6 +526,8 @@ Part 6 deals with supplementary matters. Regulation 23 provides for the method o
 
 [^f00002]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53) as amended by paragraph 30 of Schedule 8 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
+[^c-67377e4d7db28a9fbcfabb7eb7c30546]: Commencement: Reg. 1 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
 [^f00003]: Footnote: [1999 c.14](https://www.legislation.gov.uk/ukpga/1999/14).
 
 [^f00004]: Footnote: [S.I. 2002/816](https://www.legislation.gov.uk/uksi/2002/816) to which there are amendments not relevant to these Regulations.
@@ -531,3 +537,57 @@ Part 6 deals with supplementary matters. Regulation 23 provides for the method o
 [^f00006]: Footnote: [1999 c. 14](https://www.legislation.gov.uk/ukpga/1999/14) to which there are amendments not relevant to these Regulations.
 
 [^f00007]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c-1e2579320e4051c0119e5024c76c0b06]: Commencement: Reg. 2 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-e662b91f7f5731a9893d81c63698f453]: Commencement: Reg. 3 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-a9b0e769810e146545d2931322b9ed03]: Commencement: Reg. 4 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-f50e1d1d43b1c5b6ebc3c75e05014a5b]: Commencement: Reg. 5 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-6c763848f2f0569cea49c1c367eda1c1]: Commencement: Reg. 6 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-8a8c7d5fbb076ab50a42897ce88fd2b1]: Commencement: Reg. 7 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-5085b2a2716c6590eb8eb412a8ac6771]: Commencement: Reg. 8 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-155cd0572aa33b506185aa32d2751182]: Commencement: Reg. 9 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-b335e502cecbc5f13b9d9ab1d11a2db7]: Commencement: Reg. 10 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-e532b315f5a4cf5069711e3b8b930adb]: Commencement: Reg. 11 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-5a58c75cf47902a35b4d274ff5728e6f]: Commencement: Reg. 12 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-3448fa1a55cdf8ae38d9c560f6002fae]: Commencement: Reg. 13 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-402399c863cdd62f4233e00803bec036]: Commencement: Reg. 14 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-60cd01614a529a4ac6a18b9085ccc983]: Commencement: Reg. 15 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-3a066dd0e50470dc857274031a60ff68]: Commencement: Reg. 16 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-5f27032e721d3ccd9954b58ef30fb18c]: Commencement: Reg. 17 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-8f61a89261c0fb2b5bd69cd702a92563]: Commencement: Reg. 18 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-1fa421dc3ce322844890afbcc5855dca]: Commencement: Reg. 19 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-5a1169c2903dbd9b60c4fd595c0982aa]: Commencement: Reg. 20 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-785c8388906243faa3ecfc29a16a7b2d]: Commencement: Reg. 21 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-5c747ae581fed47832bb1db478d4037c]: Commencement: Reg. 22 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-13ae94e99a85ba348825313ff1e45771]: Commencement: Reg. 23 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-3ddbb33ee492066cfd13d39a2b49b4a3]: Commencement: Reg. 24 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-8621e766a111a688fa1d235353b1f019]: Commencement: Reg. 25 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-46974919d3a657487c97fefa45932ba0]: Commencement: Reg. 26 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-d74609b0203c4306523b434c936ecf40]: Commencement: Reg. 27 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)
+
+[^c-65d74b674dcd3dc1d2a198ae18543b6d]: Commencement: Reg. 28 in force at 2.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1497/regulation/1/1)

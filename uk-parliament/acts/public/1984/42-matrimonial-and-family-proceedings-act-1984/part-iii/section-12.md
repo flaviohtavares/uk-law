@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Applica tions for financial relief after overseas divorce etc.
+## 12. Applications for financial relief after overseas divorce etc.
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 either party to the marriage may apply to the court in the manner prescribed by rules of court for an order for financial relief under this Part of this Act.
 
-(2) If after a marraige has been dissolved or annulled in an overseas country one of the parties to the marriage forms a subsequent marriage or civil partnership,[^c-e7a57e5637802e85c87b75cd1e2c5990] that party shall not be entitled to make an application in relation to that marriage.
+(2) If after a marriage has been dissolved or annulled in an overseas country one of the parties to the marriage forms a subsequent marriage or civil partnership,[^c-e7a57e5637802e85c87b75cd1e2c5990] that party shall not be entitled to make an application in relation to that marriage.
 
 (3)[^c-e1f75429d5c4cb4801407b820241a9a6] The reference in subsection (2) above to the forming of a subsequent marriage or civil partnership includes a reference to the forming of a marriage or civil partnership which is by law void or voidable.
 

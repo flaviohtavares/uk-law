@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 118
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '118'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/118
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 118
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Period of eligibility
+## 118. Period of eligibility[^c-71eb63e06c9678298b00f5bc4af7a87d]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) A student’s status as an eligible distance learning student is retained in connection with a designated distance learning course until the status terminates in accordance with this regulation or regulation 115.
 
@@ -36,3 +42,7 @@ summary: ''
 - (c) treat any support paid to the student as an overpayment which may be recovered under regulation 131.
 
 (7) Where the period of eligibility terminates before the end of the academic year in which the eligible distance learning student completes the designated distance learning course the Secretary of State may, at any time, renew or extend the period of eligibility for such period as the Secretary of State determines.
+
+## Annotations
+
+[^c-71eb63e06c9678298b00f5bc4af7a87d]: Commencement: Reg. 118 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

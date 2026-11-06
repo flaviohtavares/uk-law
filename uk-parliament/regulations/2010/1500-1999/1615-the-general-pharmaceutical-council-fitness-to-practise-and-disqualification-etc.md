@@ -3,16 +3,16 @@ title: The General Pharmaceutical Council (Fitness to Practise and Disqualificat
 id: uksi/2010/1615
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2010-06-28'
-text_date: null
-extent: null
+text_date: '2013-02-05'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2010/1615
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/1615/pdfs/uksiem_20101615_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/1615/pdfs/uksi_20101615_en.pdf
-- http://www.legislation.gov.uk/uksi/2010/1615/made/data.pdf
-pending_changes: 56
+- http://www.legislation.gov.uk/uksi/2010/1615/data.pdf
+pending_changes: 34
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The General Pharmaceutical Council (Fitness to Practise and Disqualification etc. Rules) Order of Council 2010
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (34).** Text as at 2013-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2010/1615
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2010 No. 1615
 
@@ -66,235 +70,17 @@ Clerk of the Privy Council
 
 ## SCHEDULE — The General Pharmaceutical Council (Fitness to Practise and Disqualification etc.) Rules 2010
 
-Contents
-
-PART 1
-
-Preliminary matters
-
-1
-
-Citation and commencement
-
-2
-
-Interpretation
-
-3
-
-Service of documents
-
-4
-
-Duty to provide information to the Registrar
-
-5
-
-Fitness to practise criteria
-
-PART 2
-
-Initial consideration by the Registrar
-
-6
-
-Initial action in respect of allegations
-
-7
-
-Notices of referral and documents to be supplied to persons concerned
-
-8
-
-Applications for restoration
-
-PART 3
-
-Consideration by the Investigating Committee
-
-9
-
-Procedures of the Investigating Committee
-
-10
-
-Agreement of undertakings by the Investigating Committee
-
-11
-
-Notices
-
-12
-
-Reconsideration of allegations
-
-PART 4
-
-Consideration by the Committee: initial stages
-
-13
-
-Action upon referral of an allegation
-
-14
-
-Disclosure provisions
-
-15
-
-Inspection of documents
-
-16
-
-Notices of hearing other than interim order hearings
-
-17
-
-Interim Order Notices and court referrals
-
-18
-
-Hearing bundles
-
-19
-
-Request for a case management meeting
-
-20
-
-Case management meetings
-
-21
-
-Case management directions
-
-PART 5
-
-Matters arising both before and during hearings
-
-22
-
-Practice directions
-
-23
-
-Clinical and other specialist advice
-
-24
-
-Evidence
-
-25
-
-Absence of the person concerned
-
-26
-
-Agreement of undertakings and giving of advice and warnings
-
-27
-
-Joinder of allegations for a joint hearing
-
-28
-
-Consideration of allegations that relate to more than one category of impairment
-
-29
-
-Consideration of additional allegations
-
-30
-
-Additional evidence for review hearings
-
-PART 6
-
-Procedure at hearings
-
-31
-
-Procedure at principal hearings before the Committee in fitness to practise proceedings
-
-32
-
-Procedure at principal hearings before the Committee in disqualification proceedings
-
-33
-
-Procedure in relation to hearings of registration cases before the Committee
-
-34
-
-Procedure at review hearings
-
-35
-
-Procedure at restoration hearings
-
-36
-
-Procedure at interim order hearings
-
-PART 7
-
-General
-
-37
-
-Postponements and adjournments
-
-38
-
-Disposal of allegations without hearings
-
-39
-
-Attendance of the public at hearings
-
-40
-
-Representation
-
-41
-
-Amendment of the particulars of the allegation at principal hearings
-
-42
-
-Burden and standard of proof
-
-43
-
-Witness evidence
-
-44
-
-Vulnerable witnesses at hearings
-
-45
-
-Review of undertakings
-
-46
-
-Costs of the hearing
-
-47
-
-Notes and transcripts of hearings
-
 The General Pharmaceutical Council makes these Rules in exercise of the powers conferred by articles 48(1)(b), 51(5), 52(1) and (2), 57(3), 61(1) to (3) and (6), 63(4), 64(8) and 66(1) of, and paragraph 5 of Schedule 1 to, the Pharmacy Order 2010[^f00003].
 
 In accordance with article 66(3) of that Order, the General Pharmaceutical Council has, in relation to the rules under Parts 6 and 7 of that Order, consulted such persons or organisations as it considered appropriate including the persons and organisations listed in paragraphs (a) to (h) of article 66(3) of that Order.
 
 ### PART 1 — Preliminary matters
 
-#### 1. Citation and commencement
+#### 1. Citation and commencement[^c-25c8f001a9c1bf1e5cb1fc3714305635]
 
 These Rules may be cited as the General Pharmaceutical Council (Fitness to Practise and Disqualification etc.) Rules 2010 and come into force on 27th September 2010.
 
-#### 2. Interpretation
+#### 2. Interpretation[^c-c06d535693730149c9399880925d6289]
 
 (1) In these Rules—
 
@@ -307,6 +93,7 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
   - (b) restoration of registration;
 - “the chair” means the chair of the Committee;
 - “the Committee” means the Fitness to Practise Committee established by virtue of article 4(6)(b) of the Order;
+- “the Continuing Professional Development Rules” means the General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules 2011;[^c-ab317ec09dd5c204f06ee25d83e85e63]
 - “criminal conduct allegation” means a complaint to, or concern of, the Council which gives rise or may give rise to criminal proceedings under any enactment;
 - “disqualification allegation” means a complaint to, or concern of, the Council which gives rise to, or may give rise to, an inquiry under Part 4 of the Act;
 - “fitness to practise allegation” means a complaint to, or concern of, the Council which is an allegation for the purposes of article 52(1), 53(1) or 54(1) of the Order, as appropriate;
@@ -329,7 +116,9 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
   - (a) reviewing directions issued by the Committee under article 54(2)(d) or (e) of the Order;
   - (b) reviewing undertakings agreed by the Committee; or
   - (c) revoking a direction by virtue of section 83(1) of the Act;
-- “secretary” means, except in relation to references to the secretary of the Investigating Committee, the secretary of the Committee;
+- “secretary”—[^c-30701af12df53ff2aa28699b8beabcc7]
+  - (a) except in relation to references to the secretary of the Investigating Committee, means the secretary to the Committee; and
+  - (b) in relation to either the Committee or the Investigating Committee, means the person who is for the time being acting as secretary to that Committee;
 - “section 80 party” means an individual who, or a body corporate which, is subject to proceedings before the Committee in connection with the giving of a direction under section 80(1) or (4) of the Act (or, where appropriate, their representatives);
 - “threshold criteria” means the criteria published by the Council under article 52(2)(a) of the Order, as amended from time to time;
 - “witness” means a person who gives evidence, or whose evidence is received, at a hearing.
@@ -338,7 +127,7 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 
 - (a) a meeting or hearing of the Committee, other than when it is deliberating in private, is considered to be “in private” if it is held in the presence of—
   - (i) the parties and any person present who is representing a party,
-  - (ii) the person acting as secretary,
+  - (ii)[^c-7990069081a1a6ee319d92fdb130d345] the secretary,
   - (iii) any witness giving evidence,
   - (iv) any legal, clinical or specialist adviser,
   - (v) any person responsible for the recording of the proceedings, or
@@ -346,13 +135,13 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 
   but otherwise excluding everyone else; and
 - (b) a meeting of the Investigating Committee and the private deliberations of that Committee are considered to be “in private” if they are held in the presence of—
-  - (i) the person acting as secretary to that Committee,
+  - (i)[^c-197484a184609fbf1c392726094deb17] the secretary to the Investigating Committee,
   - (ii) any legal, clinical or specialist adviser, or
   - (iii) any person responsible for the recording of the proceedings,
 
   but otherwise excluding everyone else.
 
-#### 3. Service of documents
+#### 3. Service of documents[^c-bc6ec1a806787ac7a7a6d66e5bdad709]
 
 (1) Subject to paragraph (2), any notice or document required to be served by the Council under these Rules must be in writing and may be served by sending it by a postal service or another delivery service (including, with the agreement of the person concerned, by electronic mail to an electronic mail address notified to the Registrar as an address for communications) or by leaving it at—
 
@@ -372,7 +161,7 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 
 (4) Where a notice or document has been sent by electronic mail or left at an address, it is to be treated as having been served on the day on which it was sent, or left at that address.
 
-#### 4. Duty to provide information to the Registrar
+#### 4. Duty to provide information to the Registrar[^c-f20af5f3bc07e943db06cc97439e3faa]
 
 (1) A registrant must notify the Registrar in writing of the events specified in paragraph (2) within the period of 7 days starting on the day on which the event occurs.
 
@@ -388,7 +177,7 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 - (h) becomes the subject of any fraud investigation by a body responsible for investigating fraud in relation to the health service (for example, the NHS Counter Fraud and Security Management Service, the NHS Business Services Authority or the NHS Scotland Counter Fraud Services, which is part of the Common Services Agency); or
 - (i) is removed, contingently removed or suspended from, refused admission to or conditionally included in any list held by a health service body of performers or providers of pharmaceutical services on fitness to practise grounds.
 
-#### 5. Fitness to practise criteria
+#### 5. Fitness to practise criteria[^c-652fe5573a53da8458925e7836b2edb2]
 
 (1) The Committee must have regard to the criteria specified in paragraph (2) or, where appropriate, (3), or, where appropriate, paragraphs (2) and (3), when deciding, in the case of any registrant, whether or not the requirements as to fitness to practise are met in relation to that registrant.
 
@@ -406,7 +195,7 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 
 ### PART 2 — Initial consideration by the Registrar
 
-#### 6. Initial action in respect of allegations
+#### 6. Initial action in respect of allegations[^c-940eeb38fc23f02f3a989119fdf8224e]
 
 (1) The Registrar may only refer an allegation where—
 
@@ -445,9 +234,16 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 - (a) in so far as the allegation relates to an entry in the Register, the Registrar has reasonable grounds for believing that that entry may have been fraudulently procured or incorrectly made; and
 - (b) the Registrar considers that the allegation should be so referred.
 
-(8) Where the Registrar refers an allegation to the Committee under paragraph (5), (6) or (7), the Registrar must inform the person concerned and the informant, if any, that the allegation has been so referred.
+(7A)[^c-dcc2fce5769ce779f1309b06c0891bef] The Registrar may refer an allegation to the Committee instead of to the Investigating Committee where the allegation relates to—
 
-#### 7. Notices of referral and documents to be supplied to persons concerned
+- (a) a failure to comply with the requirements or conditions of the framework adopted by the Council under article 43(4)(a) of the Order relating to the continuing professional development of registrants; or
+- (b) the making of a false declaration about compliance with the requirements or conditions of that framework;
+
+and the Registrar considers that the circumstances of the failure or false declaration are such that the allegation should be so referred.
+
+(8) Where the Registrar refers an allegation to the Committee under paragraph (5), (6), (7) or (7A)[^c-1968ed80ab9cd8e323643e5ce925777a], the Registrar must inform the person concerned and the informant, if any, that the allegation has been so referred.
+
+#### 7. Notices of referral and documents to be supplied to persons concerned[^c-8cec2052ba6d3fbfd8b0404973eec06e]
 
 (1) Once the Registrar has taken a decision to refer a fitness to practise allegation or a disqualification allegation to the Investigating Committee, the Registrar must—
 
@@ -477,7 +273,7 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 
 (3) A person who is the subject of a criminal conduct allegation must not be notified where that allegation is referred to the Investigating Committee, unless that person is a registrant and the allegation is being referred together with a fitness to practise or a disqualification allegation.
 
-#### 8. Applications for restoration
+#### 8. Applications for restoration[^c-c3951cd885257fc2f69164f5d6685ab7]
 
 (1) Subject to the following provisions of this rule, any person applying for restoration to Part 1 or 2 of the Register under article 57 of the Order must apply using the relevant application form, which is to be in such form as the Council may from time to time determine.
 
@@ -509,7 +305,7 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 
 ### PART 3 — Consideration by the Investigating Committee
 
-#### 9. Procedures of the Investigating Committee
+#### 9. Procedures of the Investigating Committee[^c-a7c6cb81efee9617f9c294ea9ed86a02]
 
 (1) The Investigating Committee is to meet in private.
 
@@ -519,7 +315,7 @@ These Rules may be cited as the General Pharmaceutical Council (Fitness to Pract
 
 - (a) must—
   - (i) consider all documents and recommendations placed before it by the Registrar, and
-  - (ii) have regard to its own published referral criteria;
+  - (ii)[^c-76e10f040b845b97596593fd9c27f9f6] have regard to any guidance issued by the Council about the circumstances in which allegations that have been referred to the Investigating Committee should be referred to the Committee;
 - (b) may—
   - (i) direct that further investigations should be undertaken,
   - (ii) obtain advice from a legal, clinical or other specialist adviser, and
@@ -549,7 +345,7 @@ it must notify the Committee accordingly.
 - (a) fitness to practise allegation to the Committee unless it is satisfied that there is a real prospect that the Committee will make a finding that the registrant’s fitness to practise is impaired; or
 - (b) disqualification allegation to the Committee unless it is satisfied that there is a real prospect that the Committee will make a direction for disqualification.
 
-#### 10. Agreement of undertakings by the Investigating Committee
+#### 10. Agreement of undertakings by the Investigating Committee[^c-a3d7235ba905d4ef74ce4fb31bc97622]
 
 (1) Where the registrant concerned admits that their fitness to practise is impaired, the Investigating Committee may, if it thinks fit, dispose of fitness to practise proceedings by agreeing undertakings with the registrant concerned (that is, that the registrant concerned will comply with such undertakings as the Committee considers appropriate), instead of referring the allegation to the Committee.
 
@@ -563,7 +359,7 @@ it must notify the Committee accordingly.
 - (a) with the agreement of the registrant concerned, vary those undertakings; or
 - (b) determine that those undertakings no longer apply.
 
-#### 11. Notices
+#### 11. Notices[^c-b6f8a09786acb7309c56a2ff6280520e]
 
 (1) In the case of a fitness to practise allegation, the information to be provided by the Registrar under article 53(2)(b) or (3)(c) of the Order or under rule 6(8) must be in a notice which is to be sent to the registrant concerned and the informant, if any, no later than 10 days after the date on which the relevant decision was made or, as the case may be, the allegation was referred.
 
@@ -587,7 +383,7 @@ it must notify the Committee accordingly.
 - (a) must particularise the matters to be referred; and
 - (b) where the Investigating Committee or the Registrar is of the view that the Committee should consider making an interim order, state the reasons for its view.
 
-#### 12. Reconsideration of allegations
+#### 12. Reconsideration of allegations[^c-9bfde38d6ba1a3b43a89d17a419e2d6d]
 
 (1) Where—
 
@@ -626,7 +422,7 @@ it may reconsider the allegation.
 
 ### PART 4 — Consideration by the Committee: initial stages
 
-#### 13. Action upon referral of an allegation
+#### 13. Action upon referral of an allegation[^c-b0791cbd381382d57d4bd39be0dc43bb]
 
 (1) After referral of an allegation by the Registrar or the Investigating Committee to the Committee—
 
@@ -636,7 +432,7 @@ it may reconsider the allegation.
 
 (2) In a case where the Registrar has referred an allegation to the Committee instead of to the Investigating Committee, the Council may request a case management meeting.
 
-#### 14. Disclosure provisions
+#### 14. Disclosure provisions[^c-4b3b6f4853eb1ad8cf53031d93f1cf0c]
 
 (1) As soon as is reasonably practicable after the date on which the person concerned is served with the notice given under rule 11 (“the referral date”), the Council must serve on the person concerned—
 
@@ -663,7 +459,7 @@ relied upon by the person concerned in support of their case.
 
 (5) The parties must notify the secretary of any changes to the agreed time estimate for the hearing or to the information provided by the parties in the listing questionnaire as soon as possible after becoming aware that that estimate or information has changed.
 
-#### 15. Inspection of documents
+#### 15. Inspection of documents[^c-f528b86b2755f838ee2e7af8d4d556a1]
 
 (1) At any time after the service of a document by a party under this Part, up until the commencement of the relevant hearing, the party being served with the document may serve notification on the other party in possession of the original version of the document that the party wishes to inspect and examine it.
 
@@ -672,7 +468,7 @@ relied upon by the person concerned in support of their case.
 - (a) within 10 days from the date on which the request was notified; or
 - (b) if the request is notified less than 10 days before the date on which the relevant hearing commences, as soon as is reasonably practicable to provide those facilities.
 
-#### 16. Notices of hearing other than interim order hearings
+#### 16. Notices of hearing other than interim order hearings[^c-dbd587787f6dd4bdc428b395b93c12ed]
 
 (1) Where the Committee is to hold a hearing, other than an interim order hearing, the secretary must serve a Notice of Hearing on the parties no less than 28 days before the date fixed for the hearing.
 
@@ -683,8 +479,9 @@ relied upon by the person concerned in support of their case.
   - (i) of a principal hearing, contain the finalised particulars of the allegation,
   - (ii) where the Registrar is seeking the advice of the Committee under—
     - (aa) rule 10(8) of the Registration Rules, contain a statement of the Registrar’s grounds for believing that the applicant’s fitness to practise may be impaired for reasons other than adverse physical or mental health,
-    - (bb) rule 10(10) of the Registration Rules, contain a statement of the Registrar’s grounds for believing that the applicant’s fitness to practise may be impaired because of adverse physical or mental health, and
-    - (cc) rule 20(2)(a) of the Registration Rules for the purposes of making findings of fact, contain a statement from the Registrar of the matters on which findings of fact are sought;
+    - (bb) rule 10(10) of the Registration Rules, contain a statement of the Registrar’s grounds for believing that the applicant’s fitness to practise may be impaired because of adverse physical or mental health, [^c-0f4b6487a61f0a72e66f96dfc88c7deb]...
+    - (cc) rule 20(2)(a) of the Registration Rules for the purposes of making findings of fact, contain a statement from the Registrar of the matters on which findings of fact are sought; and[^c-ef78377b7e675104f613274105d1b3c4]
+    - (dd) rule 9(2)(b) of the Continuing Professional Development Rules for the purposes of making findings of fact, contain a statement from the Registrar of the matters on which findings of fact are sought;
 - (c) where the Committee is to review directions previously given (including in relation to applications for restoration and applications under section 83 of the Act), contain a copy of the directions under review and the Committee’s reasons for making the directions;
 - (d) inform the person concerned of their right to attend and to be represented or accompanied at the hearing in accordance with rule 40;
 - (e) inform the person concerned that the Committee may proceed with the hearing in their absence in accordance with rule 25;
@@ -696,14 +493,15 @@ relied upon by the person concerned in support of their case.
   - (i) attend the hearing,
   - (ii) be represented at the hearing, and if so, by whom,
   - (iii) seek to call any witnesses at the hearing, and if so whom,
-  - (iv) in the case of a principal hearing, make any admissions in respect of the allegation, or
-  - (v) where a case has been referred to the Committee under rule 20(2)(a) of the Registration Rules for the purposes of making findings of fact, make any admissions;
+  - (iv) in the case of a principal hearing, make any admissions in respect of the allegation, [^c-c692146999ffb3e496633e5fe3d34d29]...
+  - (v) where a case has been referred to the Committee under rule 20(2)(a) of the Registration Rules for the purposes of making findings of fact, make any admissions; or[^c-08b1b04c759380505ad1426dbbe4a3a6]
+  - (vi) where a case has been referred to the Committee under rule 9(2)(b) of the Continuing Professional Development Rules for the purposes of making findings of fact, make any admissions;
 - (h) if the person concerned is a registrant, inform them of the powers of the Committee to make an interim order;
 - (i) in the case of a principal hearing, inform the person concerned of the sanctions that may be imposed;
 - (j) in the case of a review hearing in fitness to practise proceedings, inform the registrant concerned of the Committee’s powers to vary or revoke any sanctions that have been imposed; and
 - (k) in the case of a restoration hearing, inform the applicant concerned of the Committee’s powers to impose conditions if they are restored to the register.
 
-#### 17. Interim Order Notices and court referrals
+#### 17. Interim Order Notices and court referrals[^c-53344849a7f8657d46cf0e2c6eb4b429]
 
 (1) Where the Committee is to hold an interim order hearing, the secretary must serve on the registrant concerned an Interim Order Notice.
 
@@ -724,7 +522,7 @@ relied upon by the person concerned in support of their case.
 
 (4) Where it appears to the secretary that an application should be made to the relevant court under article 56(5) of the Order to extend, or further extend, the period of an interim order, the secretary must advise the Committee accordingly, and the Committee may advise the Council to make the application.
 
-#### 18. Hearing bundles
+#### 18. Hearing bundles[^c-b5c1f4e64a88a8df261f9bf8a2b4b709]
 
 (1) This rule does not apply in respect of interim order hearings.
 
@@ -746,7 +544,7 @@ relied upon by the person concerned in support of their case.
 
 (5) Any document which has not been served on the secretary by the end of the period specified in paragraph (3) is, except in exceptional circumstances, not to be admitted into evidence at the hearing.
 
-#### 19. Request for a case management meeting
+#### 19. Request for a case management meeting[^c-2d404f480b13b3d57f1e260d81217cf2]
 
 (1) A party to proceedings before the Committee may at any time serve on the secretary and the other party a written request for a case management meeting (in addition to the occasions on which they must, by virtue of these Rules, make such a request).
 
@@ -760,7 +558,7 @@ relied upon by the person concerned in support of their case.
 
 (4) The chair must agree to the request for a case management meeting unless the chair determines that the meeting is unnecessary or the request is an abuse of process.
 
-#### 20. Case management meetings
+#### 20. Case management meetings[^c-a4ef848e68eca525356d1921d8df7a5d]
 
 (1) Where requested by the chair, the secretary must list the matter for a case management meeting[^f00009].
 
@@ -772,7 +570,7 @@ relied upon by the person concerned in support of their case.
 
 (5) Case management meetings are to be held in private.
 
-#### 21. Case management directions
+#### 21. Case management directions[^c-8d501eb45a75072259b97b91c2bf75c7]
 
 (1) Case management directions may be issued—
 
@@ -802,18 +600,18 @@ relied upon by the person concerned in support of their case.
 
 ### PART 5 — Matters arising both before and during hearings
 
-#### 22. Practice directions
+#### 22. Practice directions[^c-fb3b3a677282a9d2523c5ba80011f1cb]
 
 The chair may issue practice directions of general application to any proceedings of the Committee.
 
-#### 23. Clinical and other specialist advice
+#### 23. Clinical and other specialist advice[^c-45988c2e75614e0f18ccb5a3155a0f13]
 
 The Committee may, at any time in the course of proceedings before it (including at a hearing), seek advice from—
 
 - (a) a clinical adviser, appointed under article 64(1)(a) of the Order, on a health related issue; or
 - (b) another specialist adviser, appointed under article 64(2)(a) of the Order, on issues falling within their speciality or related to it.
 
-#### 24. Evidence
+#### 24. Evidence[^c-d50194f36ca0ad0a5b2a5c14682adae1]
 
 (1) All questions of admissibility of evidence and law before the Committee are to be decided by the Committee (after having obtained the advice of the legal adviser, where appropriate).
 
@@ -833,10 +631,10 @@ whether or not such evidence would be admissible in any subsequent civil proceed
 
 (5) The only evidence which may be adduced by the person concerned in rebuttal of a conviction certified or extracted in accordance with paragraph (4) is evidence for the purpose of proving that the person concerned is not the person referred to in the certificate or extract.
 
-(6) Where it is alleged that an applicant or registrant has been included in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00010] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00011]) by the Independent Barring Board (“the Board”)—
+(6) Where it is alleged that an applicant or registrant has been included in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00010] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00011]) by the Disclosure and Barring Service[^c-30c5cfd11280f23f2f42389564735753] (“the Service”)—
 
 - (a) information provided by the Secretary of State under the Safeguarding Vulnerable Groups Act 2006 or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 that attests to that inclusion is to be conclusive proof of that inclusion, unless the applicant or registrant concerned can prove that they are not the person referred to in the information provided; and
-- (b) a document from the Board, authenticated in whatever way the Council may approve, that provides a statement of the findings of fact that led to that inclusion is conclusive proof of those facts.
+- (b) a document from the Service, authenticated in whatever way the Council may approve, that provides a statement of the findings of fact that led to that inclusion is conclusive proof of those facts.
 
 (7) Where it is alleged that an applicant or registrant is included in the children’s or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00012])—
 
@@ -861,7 +659,7 @@ whether or not such evidence would be admissible in any subsequent civil proceed
 
 (12) In paragraph (11), “the standards” means the standards of conduct, ethics and performance (including the Council’s Code of Conduct, Ethics and Performance and the related guidance) published by the Council under article 48(2) of the Order.
 
-#### 25. Absence of the person concerned
+#### 25. Absence of the person concerned[^c-39ef33b58e5ebbd5c0fe72bc61c8105d]
 
 Where the person concerned is neither present nor represented at any hearing and the Committee is satisfied that—
 
@@ -870,7 +668,7 @@ Where the person concerned is neither present nor represented at any hearing and
 
 the Committee may nevertheless proceed to consider and determine the matter or allegation.
 
-#### 26. Agreement of undertakings and giving of advice and warnings
+#### 26. Agreement of undertakings and giving of advice and warnings[^c-df61b74a60b6bb8cfee426fc93563a17]
 
 (1) The Committee may, if it thinks fit, dispose of fitness to practise proceedings by agreeing undertakings with the registrant concerned (that is, that the registrant will comply with such undertakings as the Committee considers appropriate) where they admit that their fitness to practise is impaired.
 
@@ -881,7 +679,7 @@ the Committee may nevertheless proceed to consider and determine the matter or a
 
 instead of issuing a direction under section 80 of the Act.
 
-#### 27. Joinder of allegations for a joint hearing
+#### 27. Joinder of allegations for a joint hearing[^c-cc42c56f7e674b8cb533fcfa402c078d]
 
 (1) Unless it is of the view that there is a risk of prejudice to the fairness of the proceedings, the Committee may consider and determine a fitness to practise or a disqualification allegation against two or more persons concerned at the same hearing where—
 
@@ -893,7 +691,7 @@ instead of issuing a direction under section 80 of the Act.
 - (a) these Rules are to have effect in relation to the hearing with the necessary modifications directed by the chair; and
 - (b) each person concerned is to be able to exercise any of the rights granted to that person under these Rules whether or not any other person concerned wishes to exercise that right.
 
-#### 28. Consideration of allegations that relate to more than one category of impairment
+#### 28. Consideration of allegations that relate to more than one category of impairment[^c-9dcb13a570221ae4e964035260735be1]
 
 (1) As regards any fitness to practise allegation before the Committee, if—
 
@@ -904,14 +702,14 @@ the chair must ensure (by adapting the procedure for the hearing, where necessar
 
 (2) In the circumstances set out in paragraph (1), the chair must also ensure (by adapting the procedure for the hearing, where necessary), that the Committee only makes its decision as regards impairment of fitness to practise once it has made its finding of fact in relation to all the allegations set out in the Notice of Hearing.
 
-#### 29. Consideration of additional allegations
+#### 29. Consideration of additional allegations[^c-e3a38765c55d3457045baee49e8bd9f2]
 
 Where, before a principal hearing, the Council becomes aware of an additional allegation against a person concerned—
 
 - (a) the Council may request case management directions; and
 - (b) the chair may, where they consider it just to do so, direct that the new allegation be considered at the same hearing as the allegation that has already been referred, and that these Rules are to apply as modified to take into account the particular circumstances of the case.
 
-#### 30. Additional evidence for review hearings
+#### 30. Additional evidence for review hearings[^c-00c8c76b9641690dc337e511504a52e1]
 
 Where, before a review hearing, the Council becomes aware of new evidence which it wishes to bring to the attention of the Committee (for example, evidence of a failure to comply with conditions)—
 
@@ -920,7 +718,7 @@ Where, before a review hearing, the Council becomes aware of new evidence which 
 
 ### PART 6 — Procedure at hearings
 
-#### 31. Procedure at principal hearings before the Committee in fitness to practise proceedings
+#### 31. Procedure at principal hearings before the Committee in fitness to practise proceedings[^c-1d263d15a91cd247554945c977432ab0]
 
 (1) Unless the Committee determines otherwise, the order of proceedings at a principal hearing in fitness to practise proceedings is to be in accordance with paragraphs (2) to (18).
 
@@ -931,7 +729,7 @@ Where, before a review hearing, the Council becomes aware of new evidence which 
 - (a) where the registrant concerned is present, require the registrant to confirm their name, or
 - (b) otherwise, require the presenter to confirm the registrant concerned’s name.
 
-(4) The person acting as secretary must read out the allegation and the alleged facts upon which it is based.
+(4) The secretary[^c-e9e2753d9b68f1fc98ad8f635195b1b5] must read out the allegation and the alleged facts upon which it is based.
 
 (5) The chair must inquire whether the registrant wishes to make any admissions.
 
@@ -951,7 +749,11 @@ Where, before a review hearing, the Council becomes aware of new evidence which 
 
 (13) The Committee may receive further evidence and hear any further submissions from the parties or from any other person who has a direct interest in the proceedings where the registrant’s fitness to practise is found to be impaired, as to the appropriate sanction, if any, to be imposed, including evidence as to any mitigating circumstances and any relevant matters in the previous history of the registrant concerned.
 
-(14) The Committee must consider and announce its decision as to the appropriate course of action to be taken in respect of the registrant of those specified in article 54(2) of the Order and give its reasons for that decision.
+(14)[^c-91ff2dcafc68f00b6465f89387315896] The Committee must—
+
+- (a) having regard to any guidance issued by the Council about sanctions that particular classes of cases before the Committee should attract, consider the course of action under article 54(2) of the Order which is appropriate in the registrant’s case;
+- (b) announce its decision; and
+- (c) give its reasons for that decision.
 
 (15) Where the Committee considers that it might make an order under article 60(2) or (4) of the Order in relation to the registrant’s registration (interim measures pending a direction taking effect), it must invite representations from the parties before considering and announcing whether it is to impose such an order, together with its reasons for that decision.
 
@@ -968,7 +770,7 @@ Where, before a review hearing, the Council becomes aware of new evidence which 
 
 (20) Notwithstanding the procedure set out in paragraphs (2) to (18), the Committee may allow the parties to make additional submissions at any time.
 
-#### 32. Procedure at principal hearings before the Committee in disqualification proceedings
+#### 32. Procedure at principal hearings before the Committee in disqualification proceedings[^c-3c517c18642376bde521bd2a274e9f2b]
 
 (1) Unless the Committee determines otherwise, the order of proceedings at a principal hearing in disqualification proceedings is to be in accordance with paragraphs (2) to (17).
 
@@ -979,7 +781,7 @@ Where, before a review hearing, the Council becomes aware of new evidence which 
 - (a) where the section 80 party or a representative of the party is present, require the party or representative to confirm the party’s name, or
 - (b) otherwise, require the presenter to confirm the section 80 party’s name.
 
-(4) The person acting as secretary must read out the allegation, and the alleged facts upon which it is based.
+(4) The secretary[^c-104519255631f5dcc1024ad11945a578] must read out the allegation, and the alleged facts upon which it is based.
 
 (5) The chair must inquire whether the section 80 party wishes to make any admissions.
 
@@ -1007,16 +809,20 @@ Where, before a review hearing, the Council becomes aware of new evidence which 
 
 (14) The Committee may receive further evidence and hear any further submissions from the parties or from any other person who has a direct interest in the proceedings as to whether a direction under section 80(1) or (4) of the Act should be imposed, including evidence as to any mitigating circumstances and any relevant matters in the previous history of the section 80 party.
 
-(15) The Committee must consider and announce its decision as to whether or not a direction under section 80(1) or (4) of the Act should be given and must give its reasons for that decision.
+(15)[^c-dbcb179cce05b83a28d107e4d7ca1325] The Committee must—
 
-(16) Where the decision under paragraph (15) is that the direction should be given, the chair must agree to that decision.
+- (a) having regard to any guidance issued by the Council about sanctions that particular classes of cases before the Committee should attract, consider whether or not a direction under section 80(1) or (4) of the Act should be given;
+- (b) announce its decision; and
+- (c) give its reasons for that decision.
+
+(16) Where the decision under paragraph (15) is that a direction[^c-458301bbd71ee54ac7a404bf915dea8f] should be given, the chair must agree to that decision.
 
 (17) At any stage before making its decision as to disqualification, the Committee may adjourn for further information or reports to be obtained in order to assist it in exercising its functions.
 
 (18) Where the Council becomes aware that a section 80 party has failed to comply with any undertakings agreed under rule 26(2)(a), the Committee must—
 
 - (a) resume its consideration of the matter (the procedure at the hearing being for the Committee to determine); and
-- (b) reconsider the sanction imposed, and may instead issue a direction under section 80(1) or, as the case may be, (4), of the Act.
+- (b)[^c-6cfef783c3eddcad30f08a0eb64f3b8f] reconsider the sanction imposed and, having regard to the guidance referred to in paragraph (15)(a), may instead issue a direction under section 80(1) or (4) of the Act (as the case may be).
 
 (19) The chair may refuse to allow a witness to give oral evidence, or to give oral evidence on a particular matter—
 
@@ -1025,13 +831,14 @@ Where, before a review hearing, the Council becomes aware of new evidence which 
 
 (20) Notwithstanding the procedure set out in paragraphs (2) to (17), the Committee may allow the parties to make additional submissions at any time.
 
-#### 33. Procedure in relation to hearings of registration cases before the Committee
+#### 33. Procedure in relation to certain registration and CPD cases before the Committee[^c-302d8791841699f8d6ab8b81ed66a684][^c-9a6ac442c4caca5aeabfb7fa6f65e3fb]
 
 (1) Unless the Committee determines otherwise, the order of proceedings where the Registrar is seeking the advice of the Committee—
 
 - (a) under rule 10(8) of the Registration Rules (which relates to whether the fitness to practise of an applicant for registration may be impaired for reasons other than adverse physical or mental health);
 - (b) under rule 10(10) of the Registration Rules (which relates to whether the fitness to practise of an applicant for registration may be impaired because of adverse physical or mental health);
-- (c) under rule 20(2)(a) of the Registration Rules (which relates to proceedings in respect of fraud or error or fitness to practise matters prior to registration); or
+- (c) under rule 20(2)(a) of the Registration Rules (which relates to proceedings in respect of fraud or error or fitness to practise matters prior to registration); [^c-d33a64491bdd35aa58eb20525d58b656]...
+- (ca)[^c-04c37767d02c7a238d04b47f502f011f] under rule 9(2)(b) of the Continuing Professional Development Rules (which makes provision for hearings to be held in certain circumstances in relation to continuing professional development matters); or
 - (d) under rule 9(1)(d) of the Appeals Committee Rules (which relates to where the Appeals Committee seeks the advice of the Committee),
 
 is to be in accordance with paragraphs (2) to (10).
@@ -1064,9 +871,9 @@ is to be in accordance with paragraphs (2) to (10).
 
 (12) Notwithstanding the procedure set out in paragraphs (2) to (10), the Committee may allow the parties to make additional submissions at any time.
 
-#### 34. Procedure at review hearings
+#### 34. Procedure at review hearings[^c-9af933dd9773d3a625d81537eb8cd74d]
 
-(1) Unless the Committee determines otherwise, the order of proceedings at a review hearing is to be in accordance with paragraphs (2) to (9).
+(1) Unless the Committee determines otherwise, the order of proceedings at a review hearing is to be in accordance with paragraphs (2) to (9A)[^c-80e0a051d6173e3aa2607552d6239ee3].
 
 (2) The Committee must hear and consider any preliminary legal arguments.
 
@@ -1103,6 +910,8 @@ and give its reasons for that decision.
 - (a) in fitness to practise proceedings, determine that the registrant’s fitness to practise is impaired on the basis of that failure to comply and make a determination under article 54(2) of the Order;
 - (b) in disqualification proceedings, treat the failure as misconduct and give a direction under section 80(1) or (4) of the Act.
 
+(9A)[^c-f0be307725290502764e23186887cd9b] In making a decision under paragraph (9), the Committee must have regard to any guidance issued by the Council about sanctions that particular classes of cases before the Committee should attract.
+
 (10) The chair may refuse to allow a witness to give oral evidence, or to give oral evidence on a particular matter—
 
 - (a) if not satisfied that the witness is in a position to provide relevant testimony; or
@@ -1110,7 +919,7 @@ and give its reasons for that decision.
 
 (11) Notwithstanding the procedure set out in paragraphs (2) to (9), the Committee may allow the parties to make additional submissions at any time.
 
-#### 35. Procedure at restoration hearings
+#### 35. Procedure at restoration hearings[^c-acc2bcb137047061ecb2d2fff54e0166]
 
 (1) Unless the Committee determines otherwise, the order of proceedings at a restoration hearing is to be in accordance with paragraphs (2) to (9).
 
@@ -1151,7 +960,7 @@ before reaching a decision as to whether the applicant should be restored to the
 
 (12) Notwithstanding the procedure set out in paragraphs (2) to (9), the Committee may allow the parties to make additional submissions at any time.
 
-#### 36. Procedure at interim order hearings
+#### 36. Procedure at interim order hearings[^c-ac69003ed070ac4b0c802b0643a53a0b]
 
 (1) The order of proceedings at an interim order hearing is to be in accordance with paragraphs (2) to (8).
 
@@ -1196,7 +1005,7 @@ the Committee may, after making its determination, advise the Registrar that an 
 
 ### PART 7 — General
 
-#### 37. Postponements and adjournments
+#### 37. Postponements and adjournments[^c-ebc9139c89459d01dcd2a64829f91709]
 
 (1) The chair may, of their own motion or upon the application of a party, postpone any meeting or hearing of which notice has been given under these Rules before the hearing begins.
 
@@ -1219,7 +1028,7 @@ the Committee may, after making its determination, advise the Registrar that an 
 
 (5) Where the proceedings have been postponed or adjourned, the secretary must, as soon as practicable, notify the parties of the date, time and venue of the postponed or resumed hearing.
 
-#### 38. Disposal of allegations without hearings
+#### 38. Disposal of allegations without hearings[^c-a42a789017ef5a3ed3ae12ada9d9a397]
 
 (1) Where—
 
@@ -1233,7 +1042,7 @@ the presenter must inform the Investigating Committee of their opinion forthwith
 
 (3) The Investigating Committee must not rescind a referral for a principal hearing without first giving the maker of the relevant allegation (if any) a reasonable opportunity to comment on the proposed rescission.
 
-#### 39. Attendance of the public at hearings
+#### 39. Attendance of the public at hearings[^c-b0bf2f3ca53e9b674ac73c841e764ecb]
 
 (1) Except as provided for in this rule, hearings of the Committee must be held in public.
 
@@ -1251,7 +1060,7 @@ that the public interest in holding the hearing in public outweighs the interest
 
 (4) The Committee may exclude from the whole or part of any hearing any person whose conduct, in its opinion, has disrupted or is likely to disrupt the proceedings.
 
-#### 40. Representation
+#### 40. Representation[^c-ae225bf1a420e52d42dc9bc4038057bf]
 
 (1) The presenter is to be a person who is—
 
@@ -1262,18 +1071,21 @@ that the public interest in holding the hearing in public outweighs the interest
 (2) The person concerned may be represented by a person who is—
 
 - (a) a barrister, advocate or solicitor who falls within sub-paragraph (i) or (ii) of article 61(2)(c) of the Order;
-- (b) a solicitor in Scotland who does not fall within sub-paragraph (a); or
-- (c) a representative from that party’s defence organisation or their trade union.
+- (b) a solicitor in Scotland who does not fall within sub-paragraph (a); [^c-fefd5c7d11893716538eb2fda1887c52]...
+- (c)[^c-4ced69923cc48cf67e96600645d32ef6] a representative from the trade union of the person concerned; or
+- (d)[^c-689bf28abe10baf46ee2f0b9339542f8] a representative from a relevant organisation acting on behalf of the person concerned.
 
 (3) Where the person concerned is not represented, they may be accompanied and advised by a supporter, but the supporter—
 
 - (a) must not be—
-  - (i) a member of the Council or of one of its statutory committees,
+  - (i) a member of the Council or of any of its statutory committees[^c-49e8771674de3c58af9b975fd2b5fee3],
   - (ii) an employee of the Council, or
   - (iii) a witness at the hearing; and
 - (b) may only address the Committee with the permission of the chair.
 
-#### 41. Amendment of the particulars of the allegation at principal hearings
+(4)[^c-ff6b91720837de724d8e357a694376d4] The reference in paragraph (2)(d) to a relevant organisation is to any body corporate or partnership which advises, assists or represents applicants concerned, registrants or section 80 parties in respect of matters to be determined by the Committee.
+
+#### 41. Amendment of the particulars of the allegation at principal hearings[^c-3e0a7c91b9d7d78f150bf06c84a92e41]
 
 (1) At a principal hearing, at any stage before making its findings of fact, the Committee may of its own motion or following an application of one of the parties, amend the particulars of the allegation set out in the Notice of Hearing, unless it is of the view that the required amendment would prejudice the fairness of the proceedings.
 
@@ -1282,7 +1094,7 @@ that the public interest in holding the hearing in public outweighs the interest
 - (a) any representations from the parties (where present); and
 - (b) in the case of a hearing in relation to a health allegation, the advice of the legal and clinical advisers.
 
-#### 42. Burden and standard of proof
+#### 42. Burden and standard of proof[^c-3d2c8cc725973b56ee68b929f36f93cd]
 
 (1) Where facts at a principal hearing are in dispute, the burden of proving the facts rests on the Council.
 
@@ -1290,7 +1102,7 @@ that the public interest in holding the hearing in public outweighs the interest
 
 (3) Where facts are in dispute, the Committee must consider whether they have been established in accordance with the civil standard of proof.
 
-#### 43. Witness evidence
+#### 43. Witness evidence[^c-c8e05fe0f55cd9f73d71ec3e9d0bf25a]
 
 (1) Witnesses are to be required to take an oath, or to affirm, before giving their oral evidence.
 
@@ -1322,7 +1134,7 @@ that the public interest in holding the hearing in public outweighs the interest
 
 (10) Except for expert witnesses and the person concerned, witnesses are not to be allowed to attend the proceedings until after they have completed giving their evidence and been formally released by the chair.
 
-#### 44. Vulnerable witnesses at hearings
+#### 44. Vulnerable witnesses at hearings[^c-0ab9ef90d7c68a70467e3b27f682350b]
 
 (1) In proceedings before the Committee, the following may, if the quality of their evidence is otherwise likely to be adversely affected, be treated as vulnerable witnesses—
 
@@ -1356,7 +1168,7 @@ the person concerned is not to be allowed to cross-examine the witness directly 
 
 (5) In the circumstances set out in paragraph (4), any questioning of the witness is to be undertaken by such person as the Committee considers appropriate.
 
-#### 45. Review of undertakings
+#### 45. Review of undertakings[^c-e156d8ab5399223ff8fe0fc6789a8d4e]
 
 (1) Where undertakings have been agreed by the Committee under rule 26, the Registrar may carry out any investigations which may include (but are not limited to) requesting the provision of reports or directing an assessment to be carried out where, in the Registrar’s opinion these are appropriate to the consideration of—
 
@@ -1375,7 +1187,7 @@ the person concerned is not to be allowed to cross-examine the witness directly 
 
 the Registrar may refer the matter to the Committee for a review hearing.
 
-#### 46. Costs of the hearing
+#### 46. Costs of the hearing[^c-63b5f4b55a31f7d255857c5f92408c50]
 
 (1) Where a principal hearing, a review hearing or a restoration hearing is to be held, a party may serve on the other party, and on the secretary, a schedule of costs or expenses relating to or connected with that hearing no less than 24 hours before the date of the hearing.
 
@@ -1390,7 +1202,7 @@ the Registrar may refer the matter to the Committee for a review hearing.
 
 (5) Where a person is appointed by the secretary in accordance with paragraph (4)(b), that person must also determine how the costs of the assessment are to be apportioned.
 
-#### 47. Notes and transcripts of hearings
+#### 47. Notes and transcripts of hearings[^c-bc0a78e5d4fdc73af237d57d2c1d1825]
 
 (1) Subject to paragraph (3), the Committee must arrange for all hearings to be recorded in writing or electronic form.
 
@@ -1436,22 +1248,172 @@ Part 7 of the Rules makes provisions of general application. These include provi
 
 [^f00003]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
+[^c-25c8f001a9c1bf1e5cb1fc3714305635]: Commencement: Sch. rule 1 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-c06d535693730149c9399880925d6289]: Commencement: Sch. rule 2 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
 [^f00004]: Footnote: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67). Relevant amendments are made by Schedule 4 to the Order.
 
 [^f00005]: Footnote: Scheduled to [S.I. 2010/1614](https://www.legislation.gov.uk/uksi/2010/1614).
 
+[^c-ab317ec09dd5c204f06ee25d83e85e63]: Textual amendment: Words in Sch. rule 2(1) inserted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/2/2011-07-02)
+
 [^f00006]: Footnote: Scheduled to [S.I. 2010/1617](https://www.legislation.gov.uk/uksi/2010/1617).
+
+[^c-30701af12df53ff2aa28699b8beabcc7]: Textual amendment: Words in Sch. rule 2(1) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [19(2)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/19/2)
+
+[^c-7990069081a1a6ee319d92fdb130d345]: Textual amendment: Sch. rule 2(2)(a)(ii) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [19(3)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/19/3/a)
+
+[^c-197484a184609fbf1c392726094deb17]: Textual amendment: Sch. rule 2(2)(b)(i) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [19(3)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/19/3/b)
+
+[^c-bc6ec1a806787ac7a7a6d66e5bdad709]: Commencement: Sch. rule 3 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-f20af5f3bc07e943db06cc97439e3faa]: Commencement: Sch. rule 4 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
 [^f00007]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
 [^f00008]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5); section 115A was inserted by the Social Security Administration (Fraud) Act [1997 (c.47)](https://www.legislation.gov.uk/ukpga/1997/47), section 15.
 
+[^c-652fe5573a53da8458925e7836b2edb2]: Commencement: Sch. rule 5 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-940eeb38fc23f02f3a989119fdf8224e]: Commencement: Sch. rule 6 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-dcc2fce5769ce779f1309b06c0891bef]: Textual amendment: Sch. rule 6(7A) inserted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/3/2011-07-02)
+
+[^c-1968ed80ab9cd8e323643e5ce925777a]: Textual amendment: Words in Sch. rule 6(8) substituted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/3/2011-07-02)
+
+[^c-8cec2052ba6d3fbfd8b0404973eec06e]: Commencement: Sch. rule 7 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-c3951cd885257fc2f69164f5d6685ab7]: Commencement: Sch. rule 8 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-a7c6cb81efee9617f9c294ea9ed86a02]: Commencement: Sch. rule 9 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-76e10f040b845b97596593fd9c27f9f6]: Textual amendment: Sch. rule 9(3)(a)(ii) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [20](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/20)
+
+[^c-a3d7235ba905d4ef74ce4fb31bc97622]: Commencement: Sch. rule 10 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-b6f8a09786acb7309c56a2ff6280520e]: Commencement: Sch. rule 11 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-9bfde38d6ba1a3b43a89d17a419e2d6d]: Commencement: Sch. rule 12 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-b0791cbd381382d57d4bd39be0dc43bb]: Commencement: Sch. rule 13 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-4b3b6f4853eb1ad8cf53031d93f1cf0c]: Commencement: Sch. rule 14 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-f528b86b2755f838ee2e7af8d4d556a1]: Commencement: Sch. rule 15 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-dbd587787f6dd4bdc428b395b93c12ed]: Commencement: Sch. rule 16 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-0f4b6487a61f0a72e66f96dfc88c7deb]: Textual amendment: Word in Sch. rule 16(2)(b)(ii)(bb) omitted (2.7.2011) by virtue of [he General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/4/2011-07-02)
+
+[^c-ef78377b7e675104f613274105d1b3c4]: Textual amendment: Sch. rule 16(2)(b)(ii)(dd) and word inserted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/4/2011-07-02)
+
+[^c-c692146999ffb3e496633e5fe3d34d29]: Textual amendment: Word in Sch. rule 16(2)(g)(iv) omitted (2.7.2011) by virtue of [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/4/2011-07-02)
+
+[^c-08b1b04c759380505ad1426dbbe4a3a6]: Textual amendment: Sch. rule 16(2)(g)(vi) and word inserted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 4(d)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/4/2011-07-02)
+
+[^c-53344849a7f8657d46cf0e2c6eb4b429]: Commencement: Sch. rule 17 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-b5c1f4e64a88a8df261f9bf8a2b4b709]: Commencement: Sch. rule 18 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-2d404f480b13b3d57f1e260d81217cf2]: Commencement: Sch. rule 19 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-a4ef848e68eca525356d1921d8df7a5d]: Commencement: Sch. rule 20 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
 [^f00009]: Footnote: By virtue of rule 18(3) of the General Pharmaceutical Council (Statutory Committees and their Advisers) Rules 2010 which are scheduled to [S.I.2010/1616](https://www.legislation.gov.uk/uksi/2010/1616), a case management meeting must be conducted by the chair. By virtue of rule 21(4) of those Rules, if the chair is not legally qualified (as defined in rule 2 of those Rules), a legal adviser must also be present at a case management meeting.
+
+[^c-8d501eb45a75072259b97b91c2bf75c7]: Commencement: Sch. rule 21 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-fb3b3a677282a9d2523c5ba80011f1cb]: Commencement: Sch. rule 22 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-45988c2e75614e0f18ccb5a3155a0f13]: Commencement: Sch. rule 23 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-d50194f36ca0ad0a5b2a5c14682adae1]: Commencement: Sch. rule 24 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
 
 [^f00010]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00011]: Footnote: [S.I. 2007 No.1351 (N.I.11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
+[^c-30c5cfd11280f23f2f42389564735753]: Textual amendment: Words in Sch. rule 24(6) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(dd)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/dd) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
 [^f00012]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
+[^c-39ef33b58e5ebbd5c0fe72bc61c8105d]: Commencement: Sch. rule 25 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-df61b74a60b6bb8cfee426fc93563a17]: Commencement: Sch. rule 26 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-cc42c56f7e674b8cb533fcfa402c078d]: Commencement: Sch. rule 27 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-9dcb13a570221ae4e964035260735be1]: Commencement: Sch. rule 28 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-e3a38765c55d3457045baee49e8bd9f2]: Commencement: Sch. rule 29 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-00c8c76b9641690dc337e511504a52e1]: Commencement: Sch. rule 30 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-1d263d15a91cd247554945c977432ab0]: Commencement: Sch. rule 31 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-e9e2753d9b68f1fc98ad8f635195b1b5]: Textual amendment: Words in Sch. rule 31(4) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [21(2)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/21/2)
+
+[^c-91ff2dcafc68f00b6465f89387315896]: Textual amendment: Sch. rule 31(14) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [21(3)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/21/3)
+
+[^c-3c517c18642376bde521bd2a274e9f2b]: Commencement: Sch. rule 32 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-104519255631f5dcc1024ad11945a578]: Textual amendment: Words in Sch. rule 32(4) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/22/2), [22(2)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/22/2)
+
+[^c-dbcb179cce05b83a28d107e4d7ca1325]: Textual amendment: Sch. rule 32(15) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/22/2), [22(3)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/22/3)
+
+[^c-458301bbd71ee54ac7a404bf915dea8f]: Textual amendment: Words in Sch. rule 32(16) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/22/2), [22(4)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/22/4)
+
+[^c-6cfef783c3eddcad30f08a0eb64f3b8f]: Textual amendment: Sch. rule 32(18)(b) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/22/2), [22(5)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/22/5)
+
+[^c-302d8791841699f8d6ab8b81ed66a684]: Commencement: Sch. rule 33 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-9a6ac442c4caca5aeabfb7fa6f65e3fb]: Textual amendment: Sch. rule 33 heading substituted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/5/2011-07-02)
+
+[^c-d33a64491bdd35aa58eb20525d58b656]: Textual amendment: Word in Sch. rule 33(1)(c) omitted (2.7.2011) by virtue of [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/5/2011-07-02)
+
+[^c-04c37767d02c7a238d04b47f502f011f]: Textual amendment: Sch. rule 33(1)(ca) inserted (2.7.2011) by [The General Pharmaceutical Council (Continuing Professional Development and Consequential Amendments) Rules Order of Council 2011 (S.I. 2011/1367)](https://www.legislation.gov.uk/uksi/2011/1367), [Sch. rule 1](https://www.legislation.gov.uk/uksi/2011/1367/schedule/paragraph/1/2011-07-02), [Sch. para. 5(c)](https://www.legislation.gov.uk/uksi/2011/1367/schedule/n2/paragraph/5/2011-07-02)
+
+[^c-9af933dd9773d3a625d81537eb8cd74d]: Commencement: Sch. rule 34 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-80e0a051d6173e3aa2607552d6239ee3]: Textual amendment: Words in Sch. rule 34(1) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/23/2), [23(2)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/23/2)
+
+[^c-f0be307725290502764e23186887cd9b]: Textual amendment: Sch. rule 34(9A) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/23/2), [23(3)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/23/3)
+
+[^c-acc2bcb137047061ecb2d2fff54e0166]: Commencement: Sch. rule 35 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-ac69003ed070ac4b0c802b0643a53a0b]: Commencement: Sch. rule 36 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-ebc9139c89459d01dcd2a64829f91709]: Commencement: Sch. rule 37 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-a42a789017ef5a3ed3ae12ada9d9a397]: Commencement: Sch. rule 38 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-b0bf2f3ca53e9b674ac73c841e764ecb]: Commencement: Sch. rule 39 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-ae225bf1a420e52d42dc9bc4038057bf]: Commencement: Sch. rule 40 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-fefd5c7d11893716538eb2fda1887c52]: Textual amendment: Word in Sch. rule 40(2)(b) omitted (5.2.2013) by virtue of [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [24(2)(a)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/24/2)
+
+[^c-4ced69923cc48cf67e96600645d32ef6]: Textual amendment: Sch. rule 40(2)(c) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [24(2)(b)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/24/2)
+
+[^c-689bf28abe10baf46ee2f0b9339542f8]: Textual amendment: Sch. rule 40(2)(d) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [24(2)(c)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/24/2)
+
+[^c-49e8771674de3c58af9b975fd2b5fee3]: Textual amendment: Words in Sch. rule 40(3) substituted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [24(3)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/24/3)
+
+[^c-ff6b91720837de724d8e357a694376d4]: Textual amendment: Sch. rule 40(4) inserted (5.2.2013) by [The General Pharmaceutical Council (Amendment of Miscellaneous Provisions) Rules Order of Council 2012 (S.I. 2012/3171)](https://www.legislation.gov.uk/uksi/2012/3171), [Sch. rules 2](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/2), [24(4)](https://www.legislation.gov.uk/uksi/2012/3171/schedule/paragraph/24/4)
+
+[^c-3e0a7c91b9d7d78f150bf06c84a92e41]: Commencement: Sch. rule 41 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-3d2c8cc725973b56ee68b929f36f93cd]: Commencement: Sch. rule 42 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-c8e05fe0f55cd9f73d71ec3e9d0bf25a]: Commencement: Sch. rule 43 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-0ab9ef90d7c68a70467e3b27f682350b]: Commencement: Sch. rule 44 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
 [^f00013]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20). “Mental disorder” is defined in section 1(2) as any disorder or disability of the mind.
+
+[^c-e156d8ab5399223ff8fe0fc6789a8d4e]: Commencement: Sch. rule 45 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-63b5f4b55a31f7d255857c5f92408c50]: Commencement: Sch. rule 46 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)
+
+[^c-bc0a78e5d4fdc73af237d57d2c1d1825]: Commencement: Sch. rule 47 in force at 27.9.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1615/schedule/rule/1)

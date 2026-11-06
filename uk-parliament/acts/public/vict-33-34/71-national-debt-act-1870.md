@@ -3,15 +3,15 @@ title: National Debt Act 1870
 id: ukpga/Vict/33-34/71
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '1870-08-09'
-text_date: '2015-03-26'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/Vict/33-34/71
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/Vict/33-34/71/pdfs/ukpga_18700071_en.pdf
 - http://www.legislation.gov.uk/ukpga/Vict/33-34/71/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # National Debt Act 1870
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2015-03-26. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/33-34/71
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -59,7 +59,7 @@ In this Act—
 - [^c5676351]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c-f3b23e6a910dfc12a96674b0b928db1a]......
 - “**The Consolidated Fund**” means the consolidated fund of the United Kingdom of Great Britain and Ireland:
-- “**The Court of Chancery**” means the Court of Chancery in England or the Court of Chancery in Ireland as the case requires:
+- “**The Court of Chancery**” means the Business and Property Division of the High Court in England and Wales[^c-c7e8307de1d8f5fdb31e44274683ae50] or the Court of Chancery in Ireland as the case requires:
 - “**Person**” includes corporation:
 
 - “the Registrar of Government Stock” means the person or persons appointed in accordance with regulations under section 47(1)(b) of the Finance Act 1942 (see regulation 3 of the Government Stock Regulations 2004):[^c-836448fd0c5941aa0799762cc3798469]
@@ -257,6 +257,8 @@ SCHEDULES
 [^c-80ff329cdb1d25507750495beb3e6915]: Textual amendment: Words in s. 3 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c-f3b23e6a910dfc12a96674b0b928db1a]: Textual amendment: Words in s. 3 omitted (1.7.2004) by virtue of [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+
+[^c-c7e8307de1d8f5fdb31e44274683ae50]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/3) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/3)
 
 [^c-836448fd0c5941aa0799762cc3798469]: Textual amendment: Words in s. 3 inserted (15.11.2004) by [Government Stock (Consequential and Transitional Provision) (No.3) Order 2004 (S.I. 2004/2744)](https://www.legislation.gov.uk/uksi/2004/2744), [art. 1](https://www.legislation.gov.uk/uksi/2004/2744/article/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2004/2744/schedule/paragraph/1/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2744/article/3))
 

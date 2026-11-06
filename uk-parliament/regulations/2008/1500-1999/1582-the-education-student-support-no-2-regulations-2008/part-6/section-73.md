@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 73
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '73'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/73
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 73
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Long courses loan
+## 73. Long courses loan[^c-bd9124c09c7813dae4db208767d1b8b4]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) A 2008 cohort student qualifies for a long courses loan in connection with the student’s attendance on a designated course if the student—
 
@@ -39,3 +45,7 @@ summary: ''
 - (iv) for a student in category D, £83.
 
 (6) A deduction from the amount of long courses loan calculated in accordance with this regulation may be made in accordance with Part 9.
+
+## Annotations
+
+[^c-bd9124c09c7813dae4db208767d1b8b4]: Commencement: Reg. 73 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

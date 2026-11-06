@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations 2006, section 74
 act: The Housing Benefit Regulations 2006
 section: '74'
 status: revised-with-pending-changes
-text_date: '2026-10-05'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2006/213/section/74
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations 2006, section 74
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
 >
 > Extent: England, Wales, Scotland.
 
@@ -80,6 +80,7 @@ summary: ''
 - (bd)[^c-5883be729e63b7843202cc4521ade89a] any Post Office compensation payment;
 - (be)[^c-6320ae1931c5d9dec6f19499eda295b1] any LGBT Financial Recognition Scheme payment;
 - (bf)[^c-14eef5f3070932b9bd3319354d0354d8] any miscarriage of justice compensation payment;
+- (bg)[^c-40be0e411f7562cfeb792b45b96979c5] any Mother and Baby Scheme payment;
 - (c) any payment which had his income fallen to be calculated under regulation 40 would have been disregarded under paragraph 35 of Schedule 5 (payments made under certain trusts and certain other payments).
 - (d)[^c-886559fca618878fa4deddec5a623c7a] any payment made under or by a trust, established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that during their mother’s pregnancy she had taken a preparation containing the drug known as Thalidomide, and which is approved by the Secretary of State.
 
@@ -194,6 +195,8 @@ summary: ''
 [^c-6320ae1931c5d9dec6f19499eda295b1]: Textual amendment: [Reg. 74(9)(be)](https://www.legislation.gov.uk/uksi/2006/213/regulation/74/9/be) inserted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2025/44/regulation/6/6)
 
 [^c-14eef5f3070932b9bd3319354d0354d8]: Textual amendment: [Reg. 74(9)(bf)](https://www.legislation.gov.uk/uksi/2006/213/regulation/74/9/bf) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2025/778/regulation/5/6)
+
+[^c-40be0e411f7562cfeb792b45b96979c5]: Textual amendment: [Reg. 74(9)(bg)](https://www.legislation.gov.uk/uksi/2006/213/regulation/74/9/bg) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/4/6)
 
 [^c-886559fca618878fa4deddec5a623c7a]: Textual amendment: Reg. 74(9)(d) inserted (23.10.2017) by [The Social Security (Infected Blood and Thalidomide) Regulations 2017 (S.I. 2017/870)](https://www.legislation.gov.uk/uksi/2017/870), [regs. 1](https://www.legislation.gov.uk/uksi/2017/870/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2017/870/regulation/6/4)
 

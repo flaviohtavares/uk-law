@@ -3,16 +3,16 @@ title: The Education (Pupil Referral Units) (Application of Enactments) (England
 id: uksi/2010/1074
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2010-03-29'
-text_date: null
-extent: null
+text_date: '2010-03-29'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2010/1074
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2010/1074/pdfs/uksiem_20101074_en.pdf
 - http://www.legislation.gov.uk/uksi/2010/1074/pdfs/uksi_20101074_en.pdf
-- http://www.legislation.gov.uk/uksi/2010/1074/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2010/1074/data.pdf
+pending_changes: 5
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Education (Pupil Referral Units) (Application of Enactments) (England) (Amendment) Regulations 2010
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (5).** Text as at 2010-03-29. See https://www.legislation.gov.uk/changes/affected/uksi/2010/1074
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2010 No. 1074
 
@@ -48,7 +54,7 @@ regulation 4
 
 The Secretary of State for Children, Schools and Families makes the following Regulations in the exercise of powers conferred by sections 19(7), 569 (4) and (5) of, and paragraph 3 of Schedule 1 to, the Education Act 1996[^f00001].
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-f7efed4400d3b4782b03d19395e3036f]
 
 (1) These Regulations may be cited as the Education (Pupil Referral Units) (Application of Enactments) (England) (Amendment) Regulations 2010.
 
@@ -58,11 +64,11 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 (4) These Regulations apply only in relation to England.
 
-## 2. Amendment of Schedule 1 to the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007
+## 2. Amendment of Schedule 1 to the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007[^c-d293998257e904e99fa1388e7886cd8c]
 
 Part 1 of Schedule 1 to the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007[^f00002] is amended as follows.
 
-**3.** After paragraph 20 of Part 1 of Schedule 1 insert—
+**3.**[^c-67daac2956a2f20c4d0aab1e0808d98f] After paragraph 20 of Part 1 of Schedule 1 insert—
 
 > **20A. Children Act 2004**
 >
@@ -74,7 +80,7 @@ Part 1 of Schedule 1 to the Education (Pupil Referral Units) (Application of Ena
 
 .
 
-**4.** After paragraph 23 of Part 1 of Schedule 1 insert—
+**4.**[^c-e6ca3a096bdfb7d6b3c9ed9c6dfea902] After paragraph 23 of Part 1 of Schedule 1 insert—
 
 > **23A. Apprenticeships, Skills, Children and Learning Act 2009**
 >
@@ -114,10 +120,18 @@ A full regulatory impact assessment was carried out in relation to behaviour and
 
 [^f00001]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
 
+[^c-f7efed4400d3b4782b03d19395e3036f]: Commencement: Reg. 1 in force at 30.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1074/regulation/1/2)
+
+[^c-d293998257e904e99fa1388e7886cd8c]: Commencement: Reg. 2 in force at 30.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1074/regulation/1/2)
+
 [^f00002]: Footnote: SI 2007 / 2979
+
+[^c-67daac2956a2f20c4d0aab1e0808d98f]: Commencement: Reg. 3 in force at 30.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1074/regulation/1/2)
 
 [^f00003]: Footnote: The Children Act [2004 c 31](https://www.legislation.gov.uk/ukpga/2004/31). section 10 has been amended by sections 193 and 194 of the Apprenticeships, Skills, Children and Learning Act 2009.
 
 [^f00004]: Footnote: For the purposes of this paragraph “maintained school” has the meaning given by section 10(11) of the Children Act [2004 c.31](https://www.legislation.gov.uk/ukpga/2004/31).
+
+[^c-e6ca3a096bdfb7d6b3c9ed9c6dfea902]: Commencement: Reg. 4 in force at 1.9.2010, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/1074/regulation/1/3)
 
 [^f00005]: Footnote: For the purposes of this paragraph “maintained secondary schools” has the meaning given by section 248(7) of the Apprenticeships, Skills, Children and Learning Act 2009.

@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1981-05-21'
-text_date: '2020-12-31'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1981/20
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1981/20/pdfs/ukpga_19810020_en.pdf
 - http://www.legislation.gov.uk/ukpga/1981/20/data.pdf
-pending_changes: 2
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Judicial Pensions Act 1981
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/20
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

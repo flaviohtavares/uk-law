@@ -5,7 +5,7 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2004-05-13'
-text_date: '2026-07-16'
+text_date: '2026-11-04'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/2004/5
 pdf_urls:
@@ -20,7 +20,7 @@ summary: ''
 
 # Planning and Compulsory Purchase Act 2004
 
-> **Warning: changes not yet applied to this text (90).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
+> **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
 > Extent: England, Wales, Scotland.
 

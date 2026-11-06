@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 94
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '94'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/94
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 94
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Insolvency
+## 94. Insolvency[^c-63a3df3dd1125ad0fc6b8a70413a1fef]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) In England and Wales—
 
@@ -33,6 +39,8 @@ summary: ''
 (3) In this regulation, “**loan**” means a loan pursuant to regulations made by the Secretary of State, the National Assembly for Wales or the Welsh Ministers under section 22 of the 1998 Act, including the interest on the loan and any penalties or charges incurred in connection with it.
 
 ## Annotations
+
+[^c-63a3df3dd1125ad0fc6b8a70413a1fef]: Commencement: Reg. 94 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00062]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 307 was amended by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), section 261. Section 310 was amended by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), section 122 and Schedule 3, paragraph 15, the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), section 18 and Schedule 2, paragraph 2 and the Enterprise Act 2002, sections 259 and 278 and Schedule 26.
 

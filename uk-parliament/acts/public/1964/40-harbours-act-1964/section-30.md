@@ -3,7 +3,7 @@ title: Harbours Act 1964, section 30
 act: Harbours Act 1964
 section: '30'
 status: revised-with-pending-changes
-text_date: '2026-09-24'
+text_date: '2026-10-23'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/ukpga/1964/40/section/30
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,11 +12,11 @@ summary: ''
 
 # Harbours Act 1964, section 30
 
-> **Warning: changes not yet applied to this text (7).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/40
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/40
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Duty of harbour and local lighthouse authorities to make available for inspection, and to keep for sale, copies of lists of certain charges.[^c7738861][^c7738871][^c7738881][^c-35b131c0ed59da51f6c530db092e0c80][^c-ef71773e4dc93201d24f6bae174ef395][^c-d4ba01de38e4bd2686088cab324dec64][^c-9cba0b6a65d9b5f44c3966e8c5b7600a][^c-f297301c0b698ab4b50c94eb09ba80ac][^c-23fa796fe33f4c55933b35a4c04d532b][^c-ee985ee881b6e384edfafc076fc1b2ae][^c-d568b9642ac7dd7dd8514bc16195f6f8][^c-a30e1cb5f815ea44b92302ae411b7bfc][^c-235ce4295bd8b5a5b62c0c6128c8fda1][^c-d9c2fd90975788786081d6516c667f33][^c-36afad887238fab1603f886ade4a6fd7][^c-710ead0f5c7a39fed8cf4592872d0d67][^c-57faf448d1e632446c17babc2b1f0282][^c-7dd46cd4c8aa13631facab3f0d666b3d][^c-9eede8beecb8853374a931fada1194ac][^c-57c3f7dbcd9a7ab36b5ac4081b5173af][^c-9a4ec1b1d26cdc07d753e4413f16d76c][^c-e8794f6f73f27c413641739f9231b468][^c-df32d1b1f54f115ee36dbc023c5de3dc][^M_C_54104789-2f8a-4602-fb64-8c0269d86a51][^c-364d8dfdad05d613922cde4181c288b5][^c-bd9d13198c0d43f8c6a9374a5015b562][^c-e2bff9a689fae63cf9308bf93a710c3d][^c-737ab646d9386eadc50d94e38bbefe7f][^c-6b7b32297271260d67ba57a00d256923][^c-3d41cb7c284a4f5713e51cf880cb90c7][^c-b50d6467df0e38b544465a0027fb059f][^c-403fb8a829a8a204f832d8a2d484bc18]
+## 30. Duty of harbour and local lighthouse authorities to make available for inspection, and to keep for sale, copies of lists of certain charges.[^c7738861][^c7738871][^c7738881][^c-35b131c0ed59da51f6c530db092e0c80][^c-ef71773e4dc93201d24f6bae174ef395][^c-d4ba01de38e4bd2686088cab324dec64][^c-9cba0b6a65d9b5f44c3966e8c5b7600a][^c-f297301c0b698ab4b50c94eb09ba80ac][^c-23fa796fe33f4c55933b35a4c04d532b][^c-ee985ee881b6e384edfafc076fc1b2ae][^c-d568b9642ac7dd7dd8514bc16195f6f8][^c-a30e1cb5f815ea44b92302ae411b7bfc][^c-235ce4295bd8b5a5b62c0c6128c8fda1][^c-d9c2fd90975788786081d6516c667f33][^c-36afad887238fab1603f886ade4a6fd7][^c-710ead0f5c7a39fed8cf4592872d0d67][^c-57faf448d1e632446c17babc2b1f0282][^c-7dd46cd4c8aa13631facab3f0d666b3d][^c-9eede8beecb8853374a931fada1194ac][^c-57c3f7dbcd9a7ab36b5ac4081b5173af][^c-9a4ec1b1d26cdc07d753e4413f16d76c][^c-e8794f6f73f27c413641739f9231b468][^c-df32d1b1f54f115ee36dbc023c5de3dc][^M_C_54104789-2f8a-4602-fb64-8c0269d86a51][^c-364d8dfdad05d613922cde4181c288b5][^c-bd9d13198c0d43f8c6a9374a5015b562][^c-e2bff9a689fae63cf9308bf93a710c3d][^c-737ab646d9386eadc50d94e38bbefe7f][^c-6b7b32297271260d67ba57a00d256923][^c-3d41cb7c284a4f5713e51cf880cb90c7][^c-b50d6467df0e38b544465a0027fb059f][^c-403fb8a829a8a204f832d8a2d484bc18][^c-4e3e758630986692974d44b93909b6eb]
 
 *Extent: E+W+S*
 
@@ -111,6 +111,8 @@ shall be kept at the harbour office and shall be open there during reasonable ho
 [^c-b50d6467df0e38b544465a0027fb059f]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/1964/40/section/30) applied (with modifications) (E.W.) (23.7.2026) by [S.I. 2012/1777](https://www.legislation.gov.uk/uksi/2012/1777), [art. 29A](https://www.legislation.gov.uk/uksi/2012/1777/article/29A) (as inserted by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(4)](https://www.legislation.gov.uk/uksi/2026/724/article/39/4) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37)))
 
 [^c-403fb8a829a8a204f832d8a2d484bc18]: Modification: [Ss. 30](https://www.legislation.gov.uk/ukpga/1964/40/section/30), [31](https://www.legislation.gov.uk/ukpga/1964/40/section/31) applied (with modifications) (S.) (24.9.2026) by [The Montrose Harbour Revision Order 2026 (S.S.I. 2026/273)](https://www.legislation.gov.uk/ssi/2026/273), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/273/article/1/1), [36](https://www.legislation.gov.uk/ssi/2026/273/article/36) (with [arts. 33](https://www.legislation.gov.uk/ssi/2026/273/article/33), [48](https://www.legislation.gov.uk/ssi/2026/273/article/48), [49](https://www.legislation.gov.uk/ssi/2026/273/article/49))
+
+[^c-4e3e758630986692974d44b93909b6eb]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/1964/40/section/30) restricted (23.10.2026) by [The Argyll and Bute Council (Oban) Harbour Revision Order 2026 (S.S.I. 2026/287)](https://www.legislation.gov.uk/ssi/2026/287), [arts. 1](https://www.legislation.gov.uk/ssi/2026/287/article/1), [31(2)](https://www.legislation.gov.uk/ssi/2026/287/article/31/2) (with [arts. 39-41](https://www.legislation.gov.uk/ssi/2026/287/article/39))
 
 [^c-3db6da52d1c6386c4f7b205b23cb4803]: Textual amendment: Word in s. 30(1)(a) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/2/3/a/i) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 

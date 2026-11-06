@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1976-11-22'
-text_date: '2026-06-29'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1976/80
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1976/80/pdfs/ukpga_19760080_en.pdf
 - http://www.legislation.gov.uk/ukpga/1976/80/data.pdf
-pending_changes: 2
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Rent (Agriculture) Act 1976
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/80
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/80
 >
 > Extent: England, Wales.
 

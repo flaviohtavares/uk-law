@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 13
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '13'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/13
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 13
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Previous course
+## 13. Previous course[^c-f326cc68e822197cabf1986d4a828f5b]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Subject to the exceptions in paragraphs (4), (5) and (6), a “previous course” is–
 
@@ -64,3 +70,7 @@ summary: ''
 (10) For the purpose of determining PC in the formulae in regulations 22 and 29, where a student (“**A**”) transfers from an academic year of one designated course to an academic year of another designated course before the Secretary of State considers that A has completed the year from which A is transferring, the time spent by A during the academic year in which the transfer takes place on the course from which A is transferring is not counted as a year spent on a previous course.
 
 (11) A student (“**A**”) who undertook a previous course but was not in attendance because A was unable to attend for a reason which related to A’s disability is only treated as having been in attendance on the previous course in respect of periods of study beginning on or after 1st September 2006.
+
+## Annotations
+
+[^c-f326cc68e822197cabf1986d4a828f5b]: Commencement: Reg. 13 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

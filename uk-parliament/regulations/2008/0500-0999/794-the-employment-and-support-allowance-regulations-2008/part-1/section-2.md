@@ -3,7 +3,7 @@ title: The Employment and Support Allowance Regulations 2008, section 2
 act: The Employment and Support Allowance Regulations 2008
 section: '2'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/794/section/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Employment and Support Allowance Regulations 2008, section 2
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2008/794
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/794
 >
 > Extent: England, Wales, Scotland.
 
@@ -178,6 +178,7 @@ summary: ''
     - (i) for a miscarriage of justice in criminal proceedings, or
     - (ii) for being wrongfully charged with a criminal offence;
 - “**mobility supplement**” means any supplement under article 20 of the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006 [^c1918855] including such a supplement by virtue of any other scheme or order or under article 25A of the Personal Injuries (Civilians) Scheme 1983[^c1918856];
+- “[^c-df371fadfc4cb5240ed4c2adef631eee]**Mother and Baby Scheme payment**” means a payment under the Mother and Baby Institutions Payment Scheme established by the Irish Government under section 5 of the Irish Mother and Baby Institutions Payment Scheme Act 2023;
 - “the National Emergencies Trust” means the registered charity of that name (number 1182809) established on 28th March 2019;[^c-7d8dfec4118d8b133d38a367e3a823f1]
 - “National Minimum Wage” means the rate of the national minimum wage specified in regulation 11 of the National Minimum Wage Regulations 1999 (rate of the national minimum wage);[^c-b0d359ece8df8ab9df2adfb9c0faaed1]
 - “[^c-03ebd44c13c496df0f0a8308d566ab91]**neonatal care leave**” means leave under section 80EF of the Employment Rights Act 1996;
@@ -222,7 +223,7 @@ summary: ''
 - “the qualifying age for state pension credit” means—
   - (a) in the case of a woman, pensionable age, and
   - (b) in the case of a man, the age which is pensionable age in the case of a woman born on the same day as the man;
-- “**qualifying person**” means a person in respect of whom a Grenfell Tower payment[^c-4d4e02529a7d6eff6600d364cf04d0cc] , a child abuse payment[^c-17e769f8bc7031a6bf6282a206d0560e] , a Windrush payment, a Post Office compensation payment[^c-9aaa5dd46881ca729cff02d5b766119e] , a vaccine damage payment[^c-7ec1e6ef9d328bf8e76224dbfd706a7e] , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment[^c-e3f4bcf360af61347c8e082df1251703] has been made or payment has been made from the Fund, the Eileen Trust , MFET Limited[^c-2309e1581d81b8d2f95aecfa1db12bbf], the Skipton Fund , the Caxton Foundation[^c-d25f59244ab54530d4a7328976d142ba] , the Scottish Infected Blood Support Scheme[^c-2495202e0fade403817041368541d2ab] , an approved blood scheme[^c-cce2620e0a77c949885ff7c383a7fbe6] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-3202281186b94ca19d4d9ac56c813311] , the National Emergencies Trust[^c-432f3cb67e3b3b4f41c175585d91c28d] , the Victims of Overseas Terrorism Compensation Scheme[^c-3599a69ff64e114c5a3fc499ce6556c1] or the London Bombings Relief Charitable Fund;
+- “**qualifying person**” means a person in respect of whom a Grenfell Tower payment[^c-4d4e02529a7d6eff6600d364cf04d0cc] , a child abuse payment[^c-17e769f8bc7031a6bf6282a206d0560e] , a Windrush payment, a Post Office compensation payment[^c-9aaa5dd46881ca729cff02d5b766119e] , a vaccine damage payment[^c-7ec1e6ef9d328bf8e76224dbfd706a7e] , an LGBT Financial Recognition Scheme payment[^c-e3f4bcf360af61347c8e082df1251703] , a miscarriage of justice compensation payment or a Mother and Baby Scheme payment[^c-b754fcdcc5a2775f5e1ce1fbd26147dc] has been made or payment has been made from the Fund, the Eileen Trust , MFET Limited[^c-2309e1581d81b8d2f95aecfa1db12bbf], the Skipton Fund , the Caxton Foundation[^c-d25f59244ab54530d4a7328976d142ba] , the Scottish Infected Blood Support Scheme[^c-2495202e0fade403817041368541d2ab] , an approved blood scheme[^c-cce2620e0a77c949885ff7c383a7fbe6] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-3202281186b94ca19d4d9ac56c813311] , the National Emergencies Trust[^c-432f3cb67e3b3b4f41c175585d91c28d] , the Victims of Overseas Terrorism Compensation Scheme[^c-3599a69ff64e114c5a3fc499ce6556c1] or the London Bombings Relief Charitable Fund;
 - “**qualifying remunerative work**” has the meaning given by Part 1 of the Tax Credits Act;
 - “**qualifying young person**” has the meaning given by section 142 of the Contributions and Benefits Act (child and qualifying young person);
 - “**relative**” means close relative, grand-parent, grand-child, uncle, aunt, nephew or niece;
@@ -465,6 +466,8 @@ summary: ''
 
 [^c1918856]: Textual amendment: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686).
 
+[^c-df371fadfc4cb5240ed4c2adef631eee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/794/regulation/2/1) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/6/2/a)
+
 [^c-7d8dfec4118d8b133d38a367e3a823f1]: Textual amendment: Words in reg. 2(1) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/618)](https://www.legislation.gov.uk/uksi/2020/618), [regs. 1](https://www.legislation.gov.uk/uksi/2020/618/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/618/regulation/7/2/a)
 
 [^c-b0d359ece8df8ab9df2adfb9c0faaed1]: Textual amendment: Words in reg. 2(1) inserted (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/674)](https://www.legislation.gov.uk/uksi/2011/674), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2011/674/regulation/1/4), [16(2)(c)](https://www.legislation.gov.uk/uksi/2011/674/regulation/16/2/c)
@@ -506,6 +509,8 @@ summary: ''
 [^c-7ec1e6ef9d328bf8e76224dbfd706a7e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/794/regulation/2/1) substituted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/44/regulation/8/2/b)
 
 [^c-e3f4bcf360af61347c8e082df1251703]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/794/regulation/2/1) substituted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2025/778/regulation/7/2/b)
+
+[^c-b754fcdcc5a2775f5e1ce1fbd26147dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/794/regulation/2/1) substituted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/6/2/b)
 
 [^c-2309e1581d81b8d2f95aecfa1db12bbf]: Textual amendment: Words in reg. 2(1) inserted (6.4.2010) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2010 (S.I. 2010/641)](https://www.legislation.gov.uk/uksi/2010/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/641/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2010/641/regulation/12/3/a)
 

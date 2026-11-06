@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 38
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '38'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/38
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 38
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. General qualifying conditions for grants for living and other costs
+## 38. General qualifying conditions for grants for living and other costs[^c-a0c62c0991da23e1d8f10d01cae95167]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) An eligible student qualifies for a grant under this Part provided that the student—
 
@@ -54,6 +60,8 @@ summary: ''
 (10) Paragraph (9) does not apply in respect of disabled students’ allowance.
 
 ## Annotations
+
+[^c-a0c62c0991da23e1d8f10d01cae95167]: Commencement: Reg. 38 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00045]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 

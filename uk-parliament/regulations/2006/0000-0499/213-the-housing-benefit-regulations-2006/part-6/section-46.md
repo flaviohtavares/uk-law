@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations 2006, section 46
 act: The Housing Benefit Regulations 2006
 section: '46'
 status: revised-with-pending-changes
-text_date: '2026-10-05'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2006/213/section/46
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations 2006, section 46
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
 >
 > Extent: England, Wales, Scotland.
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) In the case of employment as an employed earner, any advance of earnings or any loan made by the claimant's employer shall be treated as capital.
 
-(6) Any charitable or voluntary payment which is not made or due to be made at regular intervals, other than a Grenfell Tower payment[^c-05f77da1dd2263ed49f70d0bffc518b7] , a child abuse payment, a Windrush payment[^c-4318f5cd49857c6facaf64c053ddbf7e] , a Post Office compensation payment[^c-163b4fd4636a60032986c90e7cc09895] , an LGBT Financial Recognition Scheme payment[^c-9a9a51dd5d89d27b7aa42fd6854810dd] , a miscarriage of justice compensation payment[^c-d26e927a6cd584594fc8b2e549406028] or a payment which is made under or by[^c-db34675bf61c7e237412989df8e7cbb7] the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust , MFET Limited[^c-b5e6be059d41639a30bd0713c5d4c4d5] , the Skipton Fund, the Caxton Foundation[^c-8106387781d434b7fc1c90107eac2eef] , the Scottish Infected Blood Support Scheme[^c-7ec8f0c61f9690548d936f2f6f712bc5] , an approved blood scheme[^c-f5d2b937ecc4ff6fb98d8632b6c75ecb] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-843deb69c57cf3d7b3c2ddc981334393] , the National Emergencies Trust[^c-a64d9f99d06439c2646d224900f6dba1] , the Victims of Overseas Terrorism Compensation Scheme[^c-c8eefcd252e772294261ac13a694579e] or the Independent Living Fund (2006)[^c-88ba7254f30a143ae1c8dbcff6b8d1e3], shall be treated as capital.
+(6) Any charitable or voluntary payment which is not made or due to be made at regular intervals, other than a Grenfell Tower payment[^c-05f77da1dd2263ed49f70d0bffc518b7] , a child abuse payment, a Windrush payment[^c-4318f5cd49857c6facaf64c053ddbf7e] , a Post Office compensation payment[^c-163b4fd4636a60032986c90e7cc09895] , an LGBT Financial Recognition Scheme payment[^c-9a9a51dd5d89d27b7aa42fd6854810dd] , a miscarriage of justice compensation payment[^c-d26e927a6cd584594fc8b2e549406028] , a Mother and Baby Scheme payment[^c-72defb1471159ff80a231583d50c49e6] or a payment which is made under or by[^c-db34675bf61c7e237412989df8e7cbb7] the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust , MFET Limited[^c-b5e6be059d41639a30bd0713c5d4c4d5] , the Skipton Fund, the Caxton Foundation[^c-8106387781d434b7fc1c90107eac2eef] , the Scottish Infected Blood Support Scheme[^c-7ec8f0c61f9690548d936f2f6f712bc5] , an approved blood scheme[^c-f5d2b937ecc4ff6fb98d8632b6c75ecb] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-843deb69c57cf3d7b3c2ddc981334393] , the National Emergencies Trust[^c-a64d9f99d06439c2646d224900f6dba1] , the Victims of Overseas Terrorism Compensation Scheme[^c-c8eefcd252e772294261ac13a694579e] or the Independent Living Fund (2006)[^c-88ba7254f30a143ae1c8dbcff6b8d1e3], shall be treated as capital.
 
 (7) There shall be treated as capital the gross receipts of any commercial activity carried on by a person in respect of which assistance is received under the self-employment route, but only in so far as those receipts were payable into a special account [^c-c966b136af11205bc1cf4a43c63ea2d7]... during the period in which that person was receiving such assistance.
 
@@ -51,6 +51,8 @@ summary: ''
 [^c-9a9a51dd5d89d27b7aa42fd6854810dd]: Textual amendment: Words in [reg. 46(6)](https://www.legislation.gov.uk/uksi/2006/213/regulation/46/6) inserted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2025/44/regulation/6/4)
 
 [^c-d26e927a6cd584594fc8b2e549406028]: Textual amendment: Words in [reg. 46(6)](https://www.legislation.gov.uk/uksi/2006/213/regulation/46/6) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2025/778/regulation/5/4)
+
+[^c-72defb1471159ff80a231583d50c49e6]: Textual amendment: Words in [reg. 46(6)](https://www.legislation.gov.uk/uksi/2006/213/regulation/46/6) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/4/4)
 
 [^c-db34675bf61c7e237412989df8e7cbb7]: Textual amendment: Words in reg. 46(6) inserted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in force) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2010 (S.I. 2010/641)](https://www.legislation.gov.uk/uksi/2010/641), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/641/regulation/1/3/a), [8(5)(b)](https://www.legislation.gov.uk/uksi/2010/641/regulation/8/5/b)
 

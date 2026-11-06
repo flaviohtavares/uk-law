@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 138
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '138'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/138
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 138
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Interpretation of regulation 137
+## 138. Interpretation of regulation 137[^c-fef1a80e317c6c24ed5a78f1cf07ee99]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) For the purposes of regulation 137—
 
@@ -46,3 +52,7 @@ summary: ''
 - (f) “**income**” means gross income from all sources excluding any tax credits awarded pursuant to any claims under section 3 of the Tax Credits Act 2002;
 - (g) “**preceding financial year**” means the financial year immediately preceding the current financial year;
 - (h) “**specified designated part-time course**” means the course in respect of which the person is applying for support or, where the student’s status as an eligible part-time student has been transferred to the current designated part-time course as a result of one or more transfers of that status by the Secretary of State from a part-time course (the “initial course”) in connection with which the Secretary of State determined the student to be an eligible part-time student pursuant to regulations made under section 22 of the 1998 Act, the specified designated part-time course means the initial course.
+
+## Annotations
+
+[^c-fef1a80e317c6c24ed5a78f1cf07ee99]: Commencement: Reg. 138 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 116
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '116'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/116
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 116
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Students becoming eligible during the course of the academic year
+## 116. Students becoming eligible during the course of the academic year[^c-39f9660535e0d7159f81edde13dffe67]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Where one of the events listed in paragraph (4) occurs in the course of an academic year—
 
@@ -42,3 +48,7 @@ summary: ''
 - (g) the student becomes a person described in paragraph 6(1)(a) of Schedule 1;
 - (h) the student becomes the child of a Swiss national; or
 - (i) the student becomes the child of a Turkish worker.
+
+## Annotations
+
+[^c-39f9660535e0d7159f81edde13dffe67]: Commencement: Reg. 116 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

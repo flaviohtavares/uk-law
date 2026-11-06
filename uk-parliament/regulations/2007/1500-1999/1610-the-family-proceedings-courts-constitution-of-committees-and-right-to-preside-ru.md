@@ -56,14 +56,14 @@ In these Rules—
 
 - “the 2007 Rules” means the Justices of the Peace (Training Development and Committee) Rules 2007[^f00004];
 - “BTDC” means the Bench Training and Development Committee established in accordance with the 2007 Rules;
-- “District Judge (Magistrates’ Courts)” means a District Judge (Magistrates’ Courts) appointed under section 22 of the Courts Act 2003 or a Deputy District Judge (Magistrates’ Courts) appointed under section 24 of that Act[^f00005];
-- “family election meeting” means the meeting held by the family panel between 1st September and 30th November each year in accordance with rule 4.
-- “family justice” means a justice authorised to sit as a member of a family proceedings court;
+- “**District Judge (Magistrates’ Courts)**” means a District Judge (Magistrates’ Courts) appointed under section 22 of the Courts Act 2003 or a Deputy District Judge (Magistrates’ Courts) appointed under section 24 of that Act[^f00005];
+- “**family election meeting**” means the meeting held by the family panel between 1st September and 30th November each year in accordance with rule 4.
+- “**family justice**” means a justice authorised to sit as a member of a family proceedings court;
 - “FTDC” means the Family Training and Development Committee established in accordance with the 2007 Rules;
-- “Greater London area” means the local justice areas covering the London Boroughs listed in Part I of Schedule I to the 2007 Rules;
-- “justice” means a lay justice and, in relation to a local justice area, means a justice assigned to that area;
-- “justices’ clerk”, in relation to a local justice area means a justices’ clerk assigned to that area and includes any person acting as such; and
-- “outgoing panel” means—
+- “**Greater London area**” means the local justice areas covering the London Boroughs listed in Part I of Schedule I to the 2007 Rules;
+- “**justice**” means a lay justice and, in relation to a local justice area, means a justice assigned to that area;
+- “**justices’ clerk**”, in relation to a local justice area means a justices’ clerk assigned to that area and includes any person acting as such; and
+- “**outgoing panel**” means—
   - (a) in relation to the Greater London area, the family panel for Greater London established in accordance with the Family Proceedings Courts (Constitution) (Greater London) Rules 2003[^f00006]; and
   - (b) in any other case, the family panel formed for a local justice area in accordance with the Family Proceedings Courts (Constitution) Rules 1991[^f00007].
 
@@ -118,7 +118,7 @@ In these Rules—
 
 (1) In this rule—
 
-- (a) “previous chairman” means a family justice who has held office as chairman of a family panel established under these Rules or of an outgoing panel or combined outgoing panel; and
+- (a) “**previous chairman**” means a family justice who has held office as chairman of a family panel established under these Rules or of an outgoing panel or combined outgoing panel; and
 - (b) references, however phrased, to periods of office shall include periods of office held as chairman or deputy chairman, as the case may be, of an outgoing panel or combined outgoing panel.
 
 (2) A previous chairman shall not be eligible for re-election as chairman if, on 1st January after the election, he will have held such office for periods totalling more than two years unless at least six years have elapsed since he last held office.
@@ -152,7 +152,7 @@ A family panel shall—
 - (a) he is under the supervision of a family justice who is on the list of approved family court chairmen; and
 - (b) he has completed the training courses required by rule 31 of the 2007 Rules.
 
-(3) In this rule “list of approved family court chairmen” means a list kept by a FTDC or, where there is no FTDC, a BTDC in accordance with rules 32 and 35 of the 2007 Rules.
+(3) In this rule “**list of approved family court chairmen**” means a list kept by a FTDC or, where there is no FTDC, a BTDC in accordance with rules 32 and 35 of the 2007 Rules.
 
 ## 11. Absence of family justice entitled to preside
 

@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 61
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '61'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/61
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 61
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Amount of the special support grant – current system students who are not 2008 cohort students
+## 61. Amount of the special support grant – current system students who are not 2008 cohort students[^c-0fcdb0c469ccad15d262a61046b73e58]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) The maximum amount of special support grant available to a current system student who is not a 2008 cohort student in respect of an academic year is—
 
@@ -57,3 +63,7 @@ summary: ''
   - *RM* is £1,292
   - *A* is £1 for every complete £9.27 by which the household income exceeds £27,819; and
 - (d) where the household income exceeds £39,333, no special support grant is payable.
+
+## Annotations
+
+[^c-0fcdb0c469ccad15d262a61046b73e58]: Commencement: Reg. 61 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 18
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '18'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 18
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Events
+## 18. Events[^c-addcbb4330087c5b58c2a85a8e09cd02]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 The events are—
 
@@ -26,3 +32,7 @@ The events are—
 - (f) the student becomes the child of a Turkish worker;
 - (g) the student becomes a person described in paragraph 6(1)(a) of Schedule 1; or
 - (h) the student becomes the child of a Swiss national.
+
+## Annotations
+
+[^c-addcbb4330087c5b58c2a85a8e09cd02]: Commencement: Reg. 18 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

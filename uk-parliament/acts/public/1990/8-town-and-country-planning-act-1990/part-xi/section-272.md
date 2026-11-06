@@ -3,7 +3,7 @@ title: Town and Country Planning Act 1990, section 272
 act: Town and Country Planning Act 1990
 section: '272'
 status: revised-with-pending-changes
-text_date: '2026-10-31'
+text_date: '2026-11-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1990/8/section/272
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Town and Country Planning Act 1990, section 272
 
-> **Warning: changes not yet applied to this text (816).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/8
+> **Warning: changes not yet applied to this text (805).** Text as at 2026-11-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/8
 >
 > Extent: England, Wales.
 

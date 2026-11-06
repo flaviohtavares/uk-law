@@ -2,8 +2,8 @@
 title: The Care and Support (Charging and Assessment of Resources) Regulations 2014, SCHEDULE 2
 act: The Care and Support (Charging and Assessment of Resources) Regulations 2014
 section: schedule-2
-status: revised-with-pending-changes
-text_date: '2026-04-06'
+status: revised
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2014/2672/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Care and Support (Charging and Assessment of Resources) Regulations 2014, SCHEDULE 2
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2014/2672
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales.
 
@@ -172,6 +172,8 @@ but only for a period of 52 weeks from the date of the receipt of the arrears or
 
 **43.**[^c-c50190cb22046af241c590106e532212] Any payment made to the adult which would be disregarded under section 8 of the Social Security (Additional Payments) Act 2023 (payments to be disregarded for the purposes of tax and social security).
 
+**44.**[^c-c8b8063c6cea88de27796d6dccf019ce] Any payment made under the Mother and Baby Institutions Payment Scheme established by the Irish Government under section 5 of the Mother and Baby Institutions Payment Scheme Act 2023 (Ireland).
+
 ## Annotations
 
 [^c-8ff204bbc1bd20e168bbdf58da6218a5]: Commencement: Sch. 2 para. 1 in force at 1.4.2015 in accordance with reg. 1
@@ -295,3 +297,5 @@ but only for a period of 52 weeks from the date of the receipt of the arrears or
 [^c-c862fe54f5ecdfe71c8e7d05769ce5a1]: Textual amendment: Sch. 2 para. 42 inserted (2.11.2022) by [The Care and Support (Charging and Assessment of Resources) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/1038)](https://www.legislation.gov.uk/uksi/2022/1038), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1038/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/1038/regulation/2)
 
 [^c-c50190cb22046af241c590106e532212]: Textual amendment: Sch. 2 para. 43 inserted (24.4.2023) by [The Care and Support (Charging and Assessment of Resources) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/405)](https://www.legislation.gov.uk/uksi/2023/405), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/405/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/405/regulation/2)
+
+[^c-c8b8063c6cea88de27796d6dccf019ce]: Textual amendment: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2014/2672/schedule/2/paragraph/44) inserted (30.10.2026) by [The Care and Support (Charging and Assessment of Resources) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1028)](https://www.legislation.gov.uk/uksi/2026/1028), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1028/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/1028/regulation/2/3)

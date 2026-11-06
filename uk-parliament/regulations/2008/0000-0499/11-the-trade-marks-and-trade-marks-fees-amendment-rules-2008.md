@@ -3,16 +3,16 @@ title: The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2008
 id: uksi/2008/11
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-01-08'
-text_date: null
-extent: null
+text_date: '2008-01-08'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/11
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/11/pdfs/uksiem_20080011_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/11/pdfs/uksi_20080011_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/11/made/data.pdf
-pending_changes: 2
+- http://www.legislation.gov.uk/uksi/2008/11/data.pdf
+pending_changes: 9
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Trade Marks and Trade Marks (Fees) (Amendment) Rules 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (9).** Text as at 2008-01-08. See https://www.legislation.gov.uk/changes/affected/uksi/2008/11
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2008 No. 11
 
@@ -42,15 +48,15 @@ Coming into force
 
 The Secretary of State makes the following Rules in exercise of the powers conferred by sections 78 and 79 of the Trade Marks Act 1994[^f00001] and of the power conferred on him by the Department of Trade and Industry (Fees) Order 1988[^f00002].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-a014c19b34c4f02675156caf9875657c]
 
 These Rules may be cited as the Trade Marks and Trade Marks (Fees) (Amendment) Rules 2008 and shall come into force on 6th April 2008.
 
-## 2. Amendments to the Trade Marks Rules 2000
+## 2. Amendments to the Trade Marks Rules 2000[^c-4ea3c33e447380087999324b9a393c8f]
 
 The Trade Marks Rules 2000[^f00003] are amended as follows.
 
-**3.** In rule 5 (Applications for registration; s 32 (Form TM3)) after paragraph (1) insert—
+**3.**[^c-c7f4432c90f402fd587ceefa2ee00ab3] In rule 5 (Applications for registration; s 32 (Form TM3)) after paragraph (1) insert—
 
 > (1A) Where an application is for the registration of a single trade mark, an applicant may request the registrar to undertake an expedited examination of the application.
 >
@@ -62,7 +68,7 @@ The Trade Marks Rules 2000[^f00003] are amended as follows.
 
 .
 
-**4.** After rule 11A, insert—
+**4.**[^c-a6cdb5d0cafad317cf3d773dced02076] After rule 11A, insert—
 
 > **11B. Compliance with request for expedited examination**
 >
@@ -70,11 +76,11 @@ The Trade Marks Rules 2000[^f00003] are amended as follows.
 
 .
 
-## 5. Amendments to the Trade Marks (Fees) Rules 2000
+## 5. Amendments to the Trade Marks (Fees) Rules 2000[^c-2043def13b09fc95ae73d1d789fb3bb3]
 
 The Trade Marks (Fees) Rules 2000[^f00004] are amended as follows.
 
-**6.** After rule 3, insert—
+**6.**[^c-ecec89308437f52cd15ef1c892fad131] After rule 3, insert—
 
 > **3A.** Where the registrar—
 >
@@ -85,7 +91,7 @@ The Trade Marks (Fees) Rules 2000[^f00004] are amended as follows.
 
 .
 
-**7.** The Schedule is amended by inserting after the entry “Form TM3 – Application for registration of a trade mark (rule 5) or a series of trade marks (rule 21)” the following—
+**7.**[^c-d04ff80e365ed6f590caa50745fa1508] The Schedule is amended by inserting after the entry “Form TM3 – Application for registration of a trade mark (rule 5) or a series of trade marks (rule 21)” the following—
 
 > <table>
 > <thead>
@@ -126,6 +132,20 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [S.I. 1988/93](https://www.legislation.gov.uk/uksi/1988/93), as amended by [S.I. 1990/1473](https://www.legislation.gov.uk/uksi/1990/1473), which was made under section 102 of the Finance (No.2) Act [1987 (c. 51)](https://www.legislation.gov.uk/ukpga/1987/51)
 
+[^c-a014c19b34c4f02675156caf9875657c]: Commencement: Rule 1 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/11/rule/1)
+
+[^c-4ea3c33e447380087999324b9a393c8f]: Commencement: Rule 2 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/11/rule/1)
+
 [^f00003]: Footnote: [S.I. 2000/136](https://www.legislation.gov.uk/uksi/2000/136), amended by [S.I. 2004/947](https://www.legislation.gov.uk/uksi/2004/947) and [2007/2076](https://www.legislation.gov.uk/uksi/2007/2076), there are other amending instruments but none is relevant.
 
+[^c-c7f4432c90f402fd587ceefa2ee00ab3]: Commencement: Rule 3 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/11/rule/1)
+
+[^c-a6cdb5d0cafad317cf3d773dced02076]: Commencement: Rule 4 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/11/rule/1)
+
+[^c-2043def13b09fc95ae73d1d789fb3bb3]: Commencement: Rule 5 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/11/rule/1)
+
 [^f00004]: Footnote: [S.I. 2000/137](https://www.legislation.gov.uk/uksi/2000/137), amended by [S.I. 2007/2077](https://www.legislation.gov.uk/uksi/2007/2077).
+
+[^c-ecec89308437f52cd15ef1c892fad131]: Commencement: Rule 6 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/11/rule/1)
+
+[^c-d04ff80e365ed6f590caa50745fa1508]: Commencement: Rule 7 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/11/rule/1)

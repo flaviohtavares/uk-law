@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 23
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '23'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/23
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 23
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Standard entitlement of current system students on end-on courses and certain degree courses
+## 23. Standard entitlement of current system students on end-on courses and certain degree courses[^c-70f0fb8946a202f7b2f7368f6c73684e]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Where the current course began before 1st September 2009, this regulation applies to—
 
@@ -62,3 +68,7 @@ where
   - where the ordinary duration of the preliminary course was five years, and
   - where the ordinary duration of the preliminary course was six years
 - *PrC* is the number of academic years that the student spent on the preliminary course excluding any years of repeat study for compelling personal reasons.
+
+## Annotations
+
+[^c-70f0fb8946a202f7b2f7368f6c73684e]: Commencement: Reg. 23 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

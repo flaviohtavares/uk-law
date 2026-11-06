@@ -3,15 +3,15 @@ title: The Energy Performance of Buildings (Scotland) Amendment Regulations 2013
 id: ssi/2013/12
 type: ScottishStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2013-01-22'
-text_date: null
-extent: null
+text_date: '2013-01-27'
+extent: S
 source_url: https://www.legislation.gov.uk/ssi/2013/12
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2013/12/pdfs/ssipn_20130012_en.pdf
 - http://www.legislation.gov.uk/ssi/2013/12/pdfs/ssi_20130012_en.pdf
-- http://www.legislation.gov.uk/ssi/2013/12/made/data.pdf
+- http://www.legislation.gov.uk/ssi/2013/12/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Energy Performance of Buildings (Scotland) Amendment Regulations 2013
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2013-01-27. See https://www.legislation.gov.uk/changes/affected/ssi/2013/12
+>
+> Extent: Scotland.
+
+*Extent: S*
 
 2013 No. 12
 
@@ -44,15 +48,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and sections 10 and 75 of the Energy Act 2011[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-5df1ce27e5ebc8b4553480fa75652928]
 
 These Regulations may be cited as the Energy Performance of Buildings (Scotland) Amendment Regulations 2013 and come into force on 27th January 2013.
 
-## 2. Amendment of the Energy Performance of Buildings (Scotland) Regulations 2008
+## 2. Amendment of the Energy Performance of Buildings (Scotland) Regulations 2008[^c-a217b2f4e87e67f7647300f3c0be5249]
 
 The Energy Performance of Buildings (Scotland) Regulations 2008[^f00003] are amended in accordance with regulations 3 to 11.
 
-## 3. Interpretation
+## 3. Interpretation[^c-18ca00309298114faa35a52be61c6c3c]
 
 (1) In regulation 2 (interpretation)—
 
@@ -81,7 +85,7 @@ The Energy Performance of Buildings (Scotland) Regulations 2008[^f00003] are am
 
   .
 
-## 4. Energy performance certificates
+## 4. Energy performance certificates[^c-2efd6953d6d020b962720eb03424e0e7]
 
 In regulation 6 (energy performance certificates)—
 
@@ -105,7 +109,7 @@ In regulation 6 (energy performance certificates)—
 
   .
 
-## 5. Recommendations report
+## 5. Recommendations report[^c-c2911484a4c5e5bc854803aacbcd0aea]
 
 In regulation 6A (recommendations report)—
 
@@ -125,7 +129,7 @@ In regulation 6A (recommendations report)—
 
   .
 
-## 6. Registration of green deal information
+## 6. Registration of green deal information[^c-d1337b2552b8de5cbdb4526a23f857b6]
 
 In regulation 10 (registration of energy performance data)—
 
@@ -136,11 +140,11 @@ In regulation 10 (registration of energy performance data)—
 
   .
 
-## 7. Disclosures generally
+## 7. Disclosures generally[^c-f47b93171bb937a70f93c97b9a2877a1]
 
 In regulation 11 (disclosures generally) for “regulation 12 or 13” substitute “or required to do so by regulations 12 to 14A”.
 
-## 8. Disclosure of data relating to a particular green deal property
+## 8. Disclosure of data relating to a particular green deal property[^c-15a5abc9e202198244d7428c76b7e05b]
 
 After regulation 12A(2)(b) (disclosure of data relating to a particular building or building unit) insert—
 
@@ -150,7 +154,7 @@ After regulation 12A(2)(b) (disclosure of data relating to a particular building
 
 .
 
-## 9. Disclosures of bulk access data
+## 9. Disclosures of bulk access data[^c-2a0acbd04105a60b97a8f6319cd4a73c]
 
 After regulation 13(2)(c) (disclosure of bulk access data) insert—
 
@@ -160,7 +164,7 @@ After regulation 13(2)(c) (disclosure of bulk access data) insert—
 
 .
 
-## 10. Disclosure of green deal information
+## 10. Disclosure of green deal information[^c-f0a7ea5ab6883b9599048748596ca91a]
 
 After regulation 14 (disclosure of data) insert—
 
@@ -175,7 +179,7 @@ After regulation 14 (disclosure of data) insert—
 
 .
 
-## 11. Information relating to green deal properties
+## 11. Information relating to green deal properties[^c-a3d5574a200353473281f8c235b2fbe3]
 
 After Schedule 1 (disclosure of data) insert Schedule 2 as set out in the Schedule to these Regulations.
 
@@ -189,7 +193,7 @@ Edinburgh
 
 22nd January 2013
 
-## SCHEDULE
+## SCHEDULE[^c-74609930fe9aedd75910b5d98b94e82b]
 
 Regulation 11
 
@@ -346,7 +350,31 @@ Regulations 7 to 10 amend regulations 11, 12A and 13 of the 2008 Regulations and
 
 [^f00002]: Footnote: [2011 c.16](https://www.legislation.gov.uk/ukpga/2011/16).
 
+[^c-5df1ce27e5ebc8b4553480fa75652928]: Commencement: Reg. 1 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
+[^c-a217b2f4e87e67f7647300f3c0be5249]: Commencement: Reg. 2 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
 [^f00003]: Footnote: [S.S.I.2008/309](https://www.legislation.gov.uk/ssi/2008/309) as amended by [S.S.I.2008/389](https://www.legislation.gov.uk/ssi/2008/389), [2012/190](https://www.legislation.gov.uk/ssi/2012/190), [2012/208](https://www.legislation.gov.uk/ssi/2012/208) and [2012/315](https://www.legislation.gov.uk/ssi/2012/315) .
+
+[^c-18ca00309298114faa35a52be61c6c3c]: Commencement: Reg. 3 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
+[^c-2efd6953d6d020b962720eb03424e0e7]: Commencement: Reg. 4 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
+[^c-c2911484a4c5e5bc854803aacbcd0aea]: Commencement: Reg. 5 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
+[^c-d1337b2552b8de5cbdb4526a23f857b6]: Commencement: Reg. 6 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
+[^c-f47b93171bb937a70f93c97b9a2877a1]: Commencement: Reg. 7 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
+[^c-15a5abc9e202198244d7428c76b7e05b]: Commencement: Reg. 8 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
+[^c-2a0acbd04105a60b97a8f6319cd4a73c]: Commencement: Reg. 9 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
+[^c-f0a7ea5ab6883b9599048748596ca91a]: Commencement: Reg. 10 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
+[^c-a3d5574a200353473281f8c235b2fbe3]: Commencement: Reg. 11 in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
+
+[^c-74609930fe9aedd75910b5d98b94e82b]: Commencement: Sch. in force at 27.1.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1)
 
 [^f00004]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 

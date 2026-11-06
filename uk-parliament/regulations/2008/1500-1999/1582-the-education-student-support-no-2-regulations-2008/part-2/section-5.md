@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 5
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '5'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 5
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Eligible students
+## 5. Eligible students[^c-37be4034b04d0f84dab911d0efe2fee7]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) An eligible student qualifies for support in connection with a designated course subject to and in accordance with these Regulations.
 
@@ -94,5 +100,7 @@ A’s status as an eligible or qualifying student terminates immediately before 
 (13) Paragraphs (11) and (12) do not apply where A began the course in connection with which the Secretary of State determined that A was an eligible part-time student, an eligible student or a qualifying student, as the case may be, before 1st September 2007.
 
 ## Annotations
+
+[^c-37be4034b04d0f84dab911d0efe2fee7]: Commencement: Reg. 5 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00041]: Footnote: [S.S.I. 2007/151](https://www.legislation.gov.uk/ssi/2007/151), amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503).

@@ -3,9 +3,9 @@ title: The Care and Support (Charging and Assessment of Resources) Regulations 2
 id: uksi/2014/2672
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2014-10-22'
-text_date: '2026-04-06'
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2014/2672
 pdf_urls:
@@ -14,7 +14,7 @@ pdf_urls:
 - http://www.legislation.gov.uk/uksi/2014/2672/pdfs/uksiem_20142672_en.pdf
 - http://www.legislation.gov.uk/uksi/2014/2672/pdfs/uksi_20142672_en.pdf
 - http://www.legislation.gov.uk/uksi/2014/2672/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -22,7 +22,7 @@ summary: ''
 
 # The Care and Support (Charging and Assessment of Resources) Regulations 2014
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2014/2672
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales.
 

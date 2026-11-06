@@ -3,7 +3,7 @@ title: The Employment and Support Allowance Regulations 2008, section 115
 act: The Employment and Support Allowance Regulations 2008
 section: '115'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/794/section/115
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Employment and Support Allowance Regulations 2008, section 115
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2008/794
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/794
 >
 > Extent: England, Wales, Scotland.
 
@@ -75,7 +75,8 @@ any capital which would become available to the claimant upon application being 
 - (d) a Post Office compensation payment;
 - (e) a vaccine damage payment;
 - (f) an LGBT Financial Recognition Scheme payment;[^c-807dcd211c013084e31c332fa6737de8]
-- (g) a miscarriage of justice compensation payment.
+- (g) a miscarriage of justice compensation payment;[^c-4e37f12d2ca836299621c7cd667116fd]
+- (h) a Mother and Baby Scheme payment.
 
 (6) Where a claimant stands in relation to a company in a position analogous to that of a sole owner or partner in the business of that company, the claimant is to be treated as if that claimant were such sole owner or partner and in such a case—
 
@@ -125,3 +126,5 @@ any capital which would become available to the claimant upon application being 
 [^c-de91c104a2b30e0531888942b7ffbb0b]: Textual amendment: [Reg. 115(5A)(c)-(f)](https://www.legislation.gov.uk/uksi/2008/794/regulation/115/5A/c) substituted for [reg. 115(5A)(c)-(e)](https://www.legislation.gov.uk/uksi/2008/794/regulation/115/5A/c) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2025/44/regulation/8/5)
 
 [^c-807dcd211c013084e31c332fa6737de8]: Textual amendment: [Reg. 115(5A)(g)](https://www.legislation.gov.uk/uksi/2008/794/regulation/115/5A/g) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2025/778/regulation/7/5)
+
+[^c-4e37f12d2ca836299621c7cd667116fd]: Textual amendment: [Reg. 115(5A)(h)](https://www.legislation.gov.uk/uksi/2008/794/regulation/115/5A/h) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/6/5)

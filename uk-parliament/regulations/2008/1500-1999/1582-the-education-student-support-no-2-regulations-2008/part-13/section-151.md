@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 151
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '151'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/151
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 151
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Designated postgraduate courses
+## 151. Designated postgraduate courses[^c-45cde2151604a49641fe046a5ee8a647]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) A postgraduate course is designated for the purposes of section 22(1) of the 1998 Act and regulation 149 if—
 
@@ -44,5 +50,7 @@ summary: ''
 (4) For the purposes of section 22 of the 1998 Act and regulation 149, the Secretary of State may designate courses of higher education which are not designated under paragraph (1).
 
 ## Annotations
+
+[^c-45cde2151604a49641fe046a5ee8a647]: Commencement: Reg. 151 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00075]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.

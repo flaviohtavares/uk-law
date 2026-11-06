@@ -3,7 +3,7 @@ title: Judicial Pensions Act 1981, SCHEDULE 1A
 act: Judicial Pensions Act 1981
 section: schedule-1a
 status: not-yet-in-force
-text_date: '2020-12-31'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1981/20/schedule/1a
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 93
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '93'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/93
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 93
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Interest
+## 93. Interest[^c-4043843fe30a336bdfb9bde86867b558]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), loans bear interest at the rate which will result in an annual percentage rate of charge determined in accordance with the Consumer Credit (Total Charge for Credit) Regulations 1980[^f00059] equal to the percentage increase between the retail prices all items index published by the Office for National Statistics for March 2008 and that index so published for March 2009.
 
@@ -25,6 +31,8 @@ summary: ''
 (4) The index of prices to which the Secretary of State is required by section 22(8) of the 1998 Act[^f00061] to have regard in prescribing the rate of interest which loans bear is the retail prices all items index mentioned in paragraph (1).
 
 ## Annotations
+
+[^c-4043843fe30a336bdfb9bde86867b558]: Commencement: Reg. 93 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00059]: Footnote: [S.I. 1980/51](https://www.legislation.gov.uk/uksi/1980/51), amended by [S.I. 1989/596](https://www.legislation.gov.uk/uksi/1989/596) and [S.I. 1999/3177](https://www.legislation.gov.uk/uksi/1999/3177).
 

@@ -3,7 +3,7 @@ title: Judicial Pensions Act 1981, SCHEDULE 1
 act: Judicial Pensions Act 1981
 section: schedule-1
 status: revised-with-pending-changes
-text_date: '2020-12-31'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1981/20/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Judicial Pensions Act 1981, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/20
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/20
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -31,7 +31,7 @@ Sections 9(4) and 14.
 - Master, Queen’s Bench Division.[^c20895441]
 - [^c20895451]. . .
 - Admiralty Registrar.
-- Master, Chancery Division.
+- Master, Business and Property Division[^c-8747dcd5be2097088471984a6c7d2346].
 - Registrar in Bankruptcy of the High Court *(Extent: E+W)* *(affected by repeal, see note)*[^c-c85012b418da0c43232f4a7106ec5741] Insolvency and Companies Court Judge *(Extent: E+W)*.
 - Taxing Master of the Senior Courts[^c20895461].
 - District judge of the Principal Registry of the Family Division.[^c20895471]
@@ -304,6 +304,8 @@ The reference in head (b) above to provisions of this Schedule does not include 
 [^c20895441]: Textual amendment: List substituted (E.W.) by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/1981/54/schedule/5/paragraph/2)
 
 [^c20895451]: Textual amendment: Words repealed by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [ss. 78(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/78/3), [125(7)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/7), [Sch. 20](https://www.legislation.gov.uk/ukpga/1990/41/schedule/20)
+
+[^c-8747dcd5be2097088471984a6c7d2346]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1981/20/schedule/1/paragraph/1) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/11)
 
 [^c-c85012b418da0c43232f4a7106ec5741]: Textual amendment: Words in Sch. 1 para. 1 substituted (E.W.) (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/5)
 

@@ -69,7 +69,7 @@ An Act to amend the Matrimonial Causes Act 1973 so far as it restricts the time 
 
 #### Applications for financial relief
 
-- [Section 12 — Applica tions for financial relief after overseas divorce etc.](part-iii/section-12.md)
+- [Section 12 — Applications for financial relief after overseas divorce etc.](part-iii/section-12.md)
 - [Section 13 — Leave of the court required for applications for financial relief.](part-iii/section-13.md)
 - [Section 14 — Interim orders for maintenance.](part-iii/section-14.md)
 - [Section 15 — Jurisdiction of the court.](part-iii/section-15.md)

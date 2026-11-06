@@ -3,15 +3,15 @@ title: Law of Property Act 1922
 id: ukpga/Geo5/12-13/16
 type: UnitedKingdomPublicGeneralAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '1922-06-29'
-text_date: '2011-12-23'
+text_date: '2026-10-01'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/Geo5/12-13/16
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/Geo5/12-13/16/pdfs/ukpga_19220016_en.pdf
 - http://www.legislation.gov.uk/ukpga/Geo5/12-13/16/data.pdf
-pending_changes: 1
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Law of Property Act 1922
 
-> **Warning: changes not yet applied to this text (1).** Text as at 2011-12-23. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/12-13/16
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales.
 
@@ -220,7 +220,7 @@ In this Act unless a contrary intention appears—
 
 (2)—(5)[^c644466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) “**Court**” means the High Court of Justice, [^c644467]. . . or the county court, [^c644467]. . . and all matters within the jurisdiction of the High Court under this Act shall, subject to the Acts regulating the court, be assigned to the Chancery Division of the court; and every application to the court under this Act shall, except where it is otherwise expressed and subject to any rules of court to the contrary, be by summons at chambers, and the court shall have full power and discretion to make such order as it thinks fit respecting the costs, charges and expenses of all or any of the parties to any application;
+(6) “**Court**” means the High Court of Justice, [^c644467]. . . or the county court, [^c644467]. . . and all matters within the jurisdiction of the High Court under this Act shall, subject to the Acts regulating the court, be assigned to the Business and Property Division[^c-7551c24e5f729957720e2a74ecb085ec] of the court; and every application to the court under this Act shall, except where it is otherwise expressed and subject to any rules of court to the contrary, be by summons at chambers, and the court shall have full power and discretion to make such order as it thinks fit respecting the costs, charges and expenses of all or any of the parties to any application;
 
 (7)(8)[^c644466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -581,17 +581,19 @@ Where any lease or underlease to which this Part of this Act applies is register
 
 [^c644439]: Textual amendment: [Ss. 164–187](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/164) and Sch. 16 repealed by [Land Registration Act 1925 (c. 21)](https://www.legislation.gov.uk/ukpga/1925/21), [Sch.](https://www.legislation.gov.uk/ukpga/1925/21/schedule)
 
-[^c644464]: Textual amendment: Words in [s. 188(1)](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/188/1) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [s. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
+[^c644464]: Textual amendment: Words in s. 188(1) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [s. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
-[^c644466]: Textual amendment: [Ss. 43(4)–(7)](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/43/4), [128–136](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/128), [138–143](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/138), [188(2)–(5)](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/188/2)(7)(8)(10)–(18)(20)–(22)(24)–(29)(32), 189 and Schs. 12–14 repealed by [Statute Law (Repeals) Act 1969 (c. 52)](https://www.legislation.gov.uk/ukpga/1969/52), [Sch. Pt. III](https://www.legislation.gov.uk/ukpga/1969/52/schedule/part/III)
+[^c644466]: Textual amendment: Ss. 43(4)–(7), 128–136, 138–143, 188(2)–(5)(7)(8)(10)–(18)(20)–(22)(24)–(29)(32), 189 and Schs. 12–14 repealed by [Statute Law (Repeals) Act 1969 (c. 52)](https://www.legislation.gov.uk/ukpga/1969/52), [Sch. Pt. III](https://www.legislation.gov.uk/ukpga/1969/52/schedule/part/III)
 
 [^c644467]: Textual amendment: Words repealed by [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1971/23/schedule/11/part/II)
 
-[^c644471]: Textual amendment: [S. 188(19)](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/188/19) repealed by [Mental Health Act 1959 (c. 72)](https://www.legislation.gov.uk/ukpga/1959/72), [Sch. 8](https://www.legislation.gov.uk/ukpga/1959/72/schedule/8), [Pt. I](https://www.legislation.gov.uk/ukpga/1959/72/part/I)
+[^c-7551c24e5f729957720e2a74ecb085ec]: Textual amendment: Words in s. 188(6) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/7)
 
-[^c644474]: Textual amendment: [S. 188(30)](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/188/30) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
+[^c644471]: Textual amendment: S. 188(19) repealed by [Mental Health Act 1959 (c. 72)](https://www.legislation.gov.uk/ukpga/1959/72), [Sch. 8](https://www.legislation.gov.uk/ukpga/1959/72/schedule/8), [Pt. I](https://www.legislation.gov.uk/ukpga/1959/72/part/I)
 
-[^c644475]: Textual amendment: [S. 188(31)](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/188/31) repealed (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(2)](https://www.legislation.gov.uk/uksi/2002/794/article/5/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/794/schedule/2) (with [arts. 5(3)](https://www.legislation.gov.uk/uksi/2002/794/article/5/3), [6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
+[^c644474]: Textual amendment: S. 188(30) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
+
+[^c644475]: Textual amendment: S. 188(31) repealed (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(2)](https://www.legislation.gov.uk/uksi/2002/794/article/5/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/794/schedule/2) (with [arts. 5(3)](https://www.legislation.gov.uk/uksi/2002/794/article/5/3), [6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
 
 [^c644477]: Textual amendment: [Ss. 43(4)–(7)](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/43/4), [128–136](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/128), [138–143](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/138), [188(2)–(5)](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/188/2)(7)(8)(10)–(18)(20)–(22)(24)–(29)(32), 189 and Schs. 12–14 repealed by [Statute Law (Repeals) Act 1969 (c. 52)](https://www.legislation.gov.uk/ukpga/1969/52), [Sch. Pt. III](https://www.legislation.gov.uk/ukpga/1969/52/schedule/part/III)
 

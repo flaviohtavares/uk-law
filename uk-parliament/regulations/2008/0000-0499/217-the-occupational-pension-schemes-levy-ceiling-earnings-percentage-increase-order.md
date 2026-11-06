@@ -3,15 +3,15 @@ title: The Occupational Pension Schemes (Levy Ceiling - Earnings Percentage Incr
 id: uksi/2008/217
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-05'
-text_date: null
-extent: null
+text_date: '2008-03-04'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/217
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/217/pdfs/uksiem_20080217_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/217/pdfs/uksi_20080217_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/217/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/217/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Occupational Pension Schemes (Levy Ceiling - Earnings Percentage Increase) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-03-04. See https://www.legislation.gov.uk/changes/affected/uksi/2008/217
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2008 No. 217
 
@@ -44,11 +48,11 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 In accordance with section 178(5) of that Act, he has reviewed the general level of earnings obtaining in Great Britain during the period of 12 months ending with 31st July 2007. It appears to him that the general level of earnings has increased by 3.6 per cent during that period.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-2c50115ad920badbcba5e7e1cb919000]
 
 This Order may be cited as the Occupational Pension Schemes (Levy Ceiling - Earnings Percentage Increase) Order 2008 and shall come into force on 4th March 2008.
 
-## 2. The earnings percentage
+## 2. The earnings percentage[^c-794d968f065e96ea86f3f019e8ead543]
 
 For the purposes of section 178(3)(a) of the Pensions Act 2004 (the levy ceiling), the percentage by which it appears to the Secretary of State that the general level of earnings has increased during the review period[^f00002] is 3.6 per cent.
 
@@ -75,5 +79,9 @@ An Impact Assessment has not been prepared for this instrument as it has no impa
 ## Annotations
 
 [^f00001]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^c-2c50115ad920badbcba5e7e1cb919000]: Commencement: Art. 1 in force at 4.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/217/article/1)
+
+[^c-794d968f065e96ea86f3f019e8ead543]: Commencement: Art. 2 in force at 4.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/217/article/1)
 
 [^f00002]: Footnote: *See* section 178(4) of the Pensions Act 2004 and regulation 3 of [S.I. 2006/2692](https://www.legislation.gov.uk/uksi/2006/2692) which provide that the review period is the period of 12 months ending with 31st July 2007.

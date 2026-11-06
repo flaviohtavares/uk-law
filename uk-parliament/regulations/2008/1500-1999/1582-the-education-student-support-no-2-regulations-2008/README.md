@@ -3,16 +3,16 @@ title: The Education (Student Support) (No.2) Regulations 2008
 id: uksi/2008/1582
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-17'
-text_date: null
-extent: null
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1582/pdfs/uksiem_20081582_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1582/pdfs/uksi_20081582_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1582/made/data.pdf
-pending_changes: 78
+- http://www.legislation.gov.uk/uksi/2008/1582/data.pdf
+pending_changes: 279
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (279).** Text as at 2008-06-17. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1582
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2008 No. 1582
 
@@ -46,12 +52,20 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 ### PART 1 — GENERAL
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 1 — Citation, commencement, application and extent](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Amendment of the Education (Student Support) Regulations 2008](part-1/section-3.md)
 - [Section 4 — Revocation, savings and transitional provisions](part-1/section-4.md)
 
 ### PART 2 — ELIGIBILITY
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 5 — Eligible students](part-2/section-5.md)
 - [Section 6 — Designated courses](part-2/section-6.md)
@@ -60,6 +74,10 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 ### PART 3 — APPLYING FOR SUPPORT, PROVISION OF INFORMATION AND LOAN CONTRACTS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 9 — Applications for support](part-3/section-9.md)
 - [Section 10 — Time limits](part-3/section-10.md)
 - [Section 11 — Information](part-3/section-11.md)
@@ -67,12 +85,24 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 ### PART 4 — FEE SUPPORT
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 #### CHAPTER 1 — GENERAL
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 13 — Previous course](part-4/section-13.md)
 - [Section 14 — Miscellaneous](part-4/section-14.md)
 
 #### CHAPTER 2 — TYPES OF FEE SUPPORT AVAILABLE
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 15 — Current system students](part-4/section-15.md)
 - [Section 16 — Old system students](part-4/section-16.md)
@@ -82,6 +112,10 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 #### CHAPTER 3 — FEE LOANS FOR CURRENT SYSTEM STUDENTS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 20 — Availability of fee loans to current system students - general](part-4/section-20.md)
 - [Section 21 — Standard entitlement of current system students who have not studied on a previous course](part-4/section-21.md)
 - [Section 22 — Standard entitlement of current system students who have transferred from or otherwise studied on a previous course](part-4/section-22.md)
@@ -89,6 +123,10 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 - [Section 24 — Amount of the fee loan](part-4/section-24.md)
 
 #### CHAPTER 4 — GRANTS FOR FEES FOR OLD SYSTEM STUDENTS
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 25 — Old system students who are continuing students](part-4/section-25.md)
 - [Section 26 — Old system students who are transferring students](part-4/section-26.md)
@@ -102,27 +140,51 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 #### CHAPTER 5 — FEE CONTRIBUTION LOANS FOR OLD SYSTEM STUDENTS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 34 — Availability of fee contribution loans to old system students](part-4/section-34.md)
 - [Section 35 — Amount of the fee contribution loan](part-4/section-35.md)
 
 ### PART 5 — GRANTS FOR LIVING AND OTHER COSTS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 #### CHAPTER 1 — TYPES OF GRANTS AVAILABLE
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 36 — Current system students](part-5/section-36.md)
 - [Section 37 — Old system students](part-5/section-37.md)
 
 #### CHAPTER 2 — GENERAL PROVISIONS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 38 — General qualifying conditions for grants for living and other costs](part-5/section-38.md)
 - [Section 39 — Students who are treated as in attendance](part-5/section-39.md)
 
 #### CHAPTER 3 — DISABLED STUDENTS’ ALLOWANCES
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 40 — Qualifying conditions for the disabled students’ allowance](part-5/section-40.md)
 - [Section 41 — Amount of the disabled students’ allowance](part-5/section-41.md)
 
 #### CHAPTER 4 — GRANTS FOR DEPENDANTS
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 42 — Interpretation of Chapter 4](part-5/section-42.md)
 - [Section 43 — General](part-5/section-43.md)
@@ -132,6 +194,10 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 - [Section 47 — Calculations](part-5/section-47.md)
 
 #### CHAPTER 5 — GRANTS FOR TRAVEL
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 48 — Interpretation](part-5/section-48.md)
 - [Section 49 — General](part-5/section-49.md)
@@ -143,11 +209,19 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 #### CHAPTER 6 — MAINTENANCE GRANTS FOR CURRENT SYSTEM STUDENTS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 56 — Qualifying conditions for the maintenance grant](part-5/section-56.md)
 - [Section 57 — Amount of the maintenance grant – 2008 cohort students](part-5/section-57.md)
 - [Section 58 — Amount of the maintenance grant – current system students who are not 2008 cohort students](part-5/section-58.md)
 
 #### CHAPTER 7 — SPECIAL SUPPORT GRANTS FOR CURRENT SYSTEM STUDENTS
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 59 — Qualifying conditions for the special support grant](part-5/section-59.md)
 - [Section 60 — Amount of the special support grant – 2008 cohort students](part-5/section-60.md)
@@ -155,18 +229,34 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 #### CHAPTER 8 — HIGHER EDUCATION GRANTS FOR OLD SYSTEM STUDENTS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 62 — Qualifying conditions for the higher education grant](part-5/section-62.md)
 - [Section 63 — Amount of the higher education grant](part-5/section-63.md)
 
 ### PART 6 — LOANS FOR LIVING COSTS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 #### CHAPTER 1 — QUALIFYING CONDITIONS
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 64 — Interpretation of Part 6](part-6/section-64.md)
 - [Section 65 — Qualifying conditions for the loan for living costs – current system students](part-6/section-65.md)
 - [Section 66 — Qualifying conditions for the loan for living costs – old system students](part-6/section-66.md)
 
 #### CHAPTER 2 — MAXIMUM AMOUNTS OF LOANS
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 67 — General](part-6/section-67.md)
 - [Section 68 — 2008 cohort students with full entitlement](part-6/section-68.md)
@@ -177,9 +267,17 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 #### CHAPTER 3 — LONG COURSES LOAN
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 73 — Long courses loan](part-6/section-73.md)
 
 #### CHAPTER 4 — MISCELLANEOUS
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 74 — Quarters in respect of which the loan for living costs is payable](part-6/section-74.md)
 - [Section 75 — Students falling into more than one category](part-6/section-75.md)
@@ -193,6 +291,10 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 ### PART 7 — COLLEGE FEE LOANS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 83 — General](part-7/section-83.md)
 - [Section 84 — Qualifying conditions](part-7/section-84.md)
 - [Section 85 — Persons to be treated as eligible students](part-7/section-85.md)
@@ -204,10 +306,18 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 ### PART 8 — INTEREST AND INSOLVENCY
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 93 — Interest](part-8/section-93.md)
 - [Section 94 — Insolvency](part-8/section-94.md)
 
 ### PART 9 — FINANCIAL ASSESSMENT
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 95 — Calculation of contribution](part-9/section-95.md)
 - [Section 96 — Application of contribution – 2008 cohort students](part-9/section-96.md)
@@ -220,19 +330,39 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 ### PART 10 — PAYMENTS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 #### CHAPTER 1 — INTERPRETATION OF PART 10
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 103 — Interpretation](part-10/section-103.md)
 
 #### CHAPTER 2 — PAYMENT OF GRANTS FOR FEES
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 104 — Payment of grants for fees](part-10/section-104.md)
 
 #### CHAPTER 3 — PAYMENT OF GRANTS FOR LIVING AND OTHER COSTS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 105 — Payment of grants for living and other costs](part-10/section-105.md)
 
 #### CHAPTER 4 — PAYMENT OF LOANS
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 106 — General](part-10/section-106.md)
 - [Section 107 — Provision of United Kingdom national insurance number](part-10/section-107.md)
@@ -243,11 +373,19 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 #### CHAPTER 5 — OVERPAYMENTS
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 112 — Overpayments of fee support](part-10/section-112.md)
 - [Section 113 — Overpayments of college fee loan](part-10/section-113.md)
 - [Section 114 — Overpayments of support payable under Part 5 or Part 6](part-10/section-114.md)
 
 ### PART 11 — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 - [Section 115 — Eligible distance learning students](part-11/section-115.md)
 - [Section 116 — Students becoming eligible during the course of the academic year](part-11/section-116.md)
@@ -269,6 +407,10 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 ### PART 12 — SUPPORT FOR PART-TIME COURSES
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 132 — Eligible part-time students](part-12/section-132.md)
 - [Section 133 — Students becoming eligible during the course of the academic year](part-12/section-133.md)
 - [Section 134 — Designated part-time courses](part-12/section-134.md)
@@ -289,6 +431,10 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 
 ### PART 13 — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 - [Section 149 — Eligible postgraduate students](part-13/section-149.md)
 - [Section 150 — Students becoming eligible in the course of an academic year](part-13/section-150.md)
 - [Section 151 — Designated postgraduate courses](part-13/section-151.md)
@@ -306,6 +452,10 @@ The Secretary of State for Innovation, Universities and Skills makes the followi
 - [SCHEDULE 4](schedule-4.md)
 - [SCHEDULE 5](schedule-5.md)
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 Bill Rammell
 
 Minister of State
@@ -313,6 +463,10 @@ Minister of State
 Department for Innovation, Universities and Skills
 
 17th June 2008
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 EXPLANATORY NOTE
 

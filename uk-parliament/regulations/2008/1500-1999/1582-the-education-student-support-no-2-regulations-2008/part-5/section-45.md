@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 45
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '45'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/45
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 45
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Childcare grant
+## 45. Childcare grant[^c-5198132b239d4e4b4cff7b174308741e]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) An eligible student (“**A**”) qualifies for a childcare grant in connection with A’s attendance on a designated course in accordance with this regulation.
 
@@ -42,6 +48,8 @@ except that A does not qualify for any such grant in respect of each week fallin
 (7) In this regulation “**prescribed childcare charges**” means childcare charges of a description prescribed for the purposes of section 12 of the Tax Credits Act 2002[^f00056].
 
 ## Annotations
+
+[^c-5198132b239d4e4b4cff7b174308741e]: Commencement: Reg. 45 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00054]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 312 was amended by the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), Schedule 7, paragraph 23, the Schools Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), section 140, Schedule 30, paragraph 71 and Schedule 31, the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraph 56 and the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 1, paragraph 3.
 

@@ -3,7 +3,7 @@ title: Rent (Agriculture) Act 1976, SCHEDULE 6
 act: Rent (Agriculture) Act 1976
 section: schedule-6
 status: revised-with-pending-changes
-text_date: '2026-06-29'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1976/80/schedule/6
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Rent (Agriculture) Act 1976, SCHEDULE 6
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/80
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/80
 >
 > Extent: England, Wales.
 

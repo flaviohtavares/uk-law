@@ -51,7 +51,7 @@ The Lord Chancellor makes the following Rules, in exercise of the powers conferr
 (2) In rule 2(2)—
 
 - (a) in the definition of “the Tribunal” for “140.” substitute “140;”; and
-- (b) after the definition of “the Tribunal” insert ““working day” means any day except for Saturday, Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971[^f00004].”.
+- (b) after the definition of “the Tribunal” insert ““**working day**” means any day except for Saturday, Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971[^f00004].”.
 
 (3) In rule 5(2)(f) omit “, which may be by e-mail”.
 

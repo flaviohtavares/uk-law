@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 25
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '25'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/25
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 25
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Old system students who are continuing students
+## 25. Old system students who are continuing students[^c-5528d488988b2753889821d5b71181eb]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) This regulation applies to an old system student who began a designated course before 1st September 2006 and is continuing on that course after 31st August 2009 (a “continuing student”).
 
@@ -40,3 +46,7 @@ where
 (8) A continuing student qualifies for a grant for fees in respect of a standard academic year of the designated course if the Secretary of State allocates a grant for fees to that year when assessing the application for support for that year.
 
 (9) The amount of the grant for fees in respect of an academic year is determined in accordance with regulation 31, 32 or 33 and may be nil.
+
+## Annotations
+
+[^c-5528d488988b2753889821d5b71181eb]: Commencement: Reg. 25 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

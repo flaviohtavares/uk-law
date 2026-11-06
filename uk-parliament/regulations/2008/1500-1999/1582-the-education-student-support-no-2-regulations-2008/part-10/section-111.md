@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 111
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '111'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/111
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 111
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Payment of loans for living costs and long courses loans
+## 111. Payment of loans for living costs and long courses loans[^c-b22c7dc89ecf46604cae9d48c0c26f5b]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) The Secretary of State may pay support under Part 6 in instalments.
 
@@ -49,3 +55,7 @@ summary: ''
 - (a) the Secretary of State must subtract from any amount of the loan in question which remains to be paid such amount as is necessary to ensure that the student does not borrow an amount of the loan in question which is greater than that for which the student qualifies;
 - (b) if the amount to be subtracted is greater than the amount of the loan in question remaining to be paid, the amount of that loan remaining to be paid is reduced to nil;
 - (c) any remaining overpayment is recoverable in accordance with Chapter 5 of this Part.
+
+## Annotations
+
+[^c-b22c7dc89ecf46604cae9d48c0c26f5b]: Commencement: Reg. 111 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

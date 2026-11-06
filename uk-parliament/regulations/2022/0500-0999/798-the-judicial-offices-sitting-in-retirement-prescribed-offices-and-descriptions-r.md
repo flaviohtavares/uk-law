@@ -3,16 +3,16 @@ title: The Judicial Offices (Sitting in Retirement - Prescribed Offices and Desc
 id: uksi/2022/798
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2022-07-12'
-text_date: null
-extent: null
+text_date: '2022-07-12'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2022/798
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2022/798/pdfs/uksiem_20220798_en.pdf
 - http://www.legislation.gov.uk/uksi/2022/798/pdfs/uksi_20220798_en.pdf
-- http://www.legislation.gov.uk/uksi/2022/798/made/data.pdf
-pending_changes: 5
+- http://www.legislation.gov.uk/uksi/2022/798/data.pdf
+pending_changes: 13
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Judicial Offices (Sitting in Retirement - Prescribed Offices and Descriptions) Regulations 2022
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (13).** Text as at 2022-07-12. See https://www.legislation.gov.uk/changes/affected/uksi/2022/798
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2022 No. 798
 
@@ -42,21 +48,21 @@ Coming into force
 
 The Lord Chancellor, with the concurrence of the Lord Chief Justice, the Senior President of Tribunals, the Lady Chief Justice of Northern Ireland and the Lord President of the Court of Session, makes the following Regulations in exercise of the powers conferred by section 124(3) and (4)(a), (b), (c) and (f), and section 129(1)(b) of the Public Service Pensions and Judicial Offices Act 2022[^f00001].
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-9a65857175582507a0490d81bbe5433b]
 
 These Regulations may be cited as the Judicial Offices (Sitting in Retirement - Prescribed Offices and Descriptions) Regulations 2022 and come into force on 1st October 2022.
 
-## 2. Interpretation
+## 2. Interpretation[^c-410c2ee1469d84c645044756514ec731]
 
 In these Regulations “**the Act**” means the Public Service Pensions and Judicial Offices Act 2022
 
-## 3. Offices prescribed in relation to an appointment to a sitting in retirement office
+## 3. Offices prescribed in relation to an appointment to a sitting in retirement office[^c-ff78f3f0653e482dd0918f115b8ed419]
 
 (1) A person who holds or has held an office listed in column 2 of the Tables in Schedule 1 (a “prescribed office”) is eligible for appointment to the sitting in retirement office listed in the corresponding row of column 1.
 
 (2) Paragraph (1) is subject to regulation 4.
 
-**4.** (1) In relation to an appointment to the sitting in retirement office referred to in column 1 at row 20 of Table 1 in Schedule 1, an eligible person (“**P**”) who holds or has held the prescribed office of Supreme Court Justice must satisfy the following further description:
+**4.**[^c-3e2081a26e7241e9b2aaeb01be96cbfc] (1) In relation to an appointment to the sitting in retirement office referred to in column 1 at row 20 of Table 1 in Schedule 1, an eligible person (“**P**”) who holds or has held the prescribed office of Supreme Court Justice must satisfy the following further description:
 
 - (a) P must have held a judicial office in the Court of Appeal in England and Wales or the High Court in England and Wales for a period of at least two years; or
 - (b) P must have satisfied the judicial-appointment eligibility condition on a 15-year basis.
@@ -102,7 +108,7 @@ Regulation 4
 
 ### PART 1
 
-#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 1 of Schedule 3 to the Act, and Corresponding Prescribed Offices
+#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 1 of Schedule 3 to the Act, and Corresponding Prescribed Offices[^c-42649aef8a779f74a2903713abab3f41]
 
 Table 1
 
@@ -136,7 +142,7 @@ Table 1
 
 ### PART 2
 
-#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 2 of Schedule 3 to the Act, and Corresponding Prescribed Offices
+#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 2 of Schedule 3 to the Act, and Corresponding Prescribed Offices[^c-67a1435f0ad91e560b0e40cde205958a]
 
 Table 2
 
@@ -157,7 +163,7 @@ Table 2
 
 ### PART 3
 
-#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 3 of Schedule 3 to the Act, and Corresponding Prescribed Offices
+#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 3 of Schedule 3 to the Act, and Corresponding Prescribed Offices[^c-bc47e39b8c0672fbea9668490b468c26]
 
 Table 3
 
@@ -189,7 +195,7 @@ Table 3
 
 ### PART 4
 
-#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 6 of Schedule 3 to the Act, and Corresponding Prescribed Offices
+#### Sitting in Retirement Offices, Further to the Judicial Offices Listed in Part 6 of Schedule 3 to the Act, and Corresponding Prescribed Offices[^c-65979c6c3fa19ab7bb367a0ab94015fa]
 
 Table 4
 
@@ -211,10 +217,26 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: 2022 c. 7.
 
+[^c-9a65857175582507a0490d81bbe5433b]: Commencement: Reg. 1 in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+
+[^c-410c2ee1469d84c645044756514ec731]: Commencement: Reg. 2 in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+
+[^c-ff78f3f0653e482dd0918f115b8ed419]: Commencement: Reg. 3 in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+
+[^c-3e2081a26e7241e9b2aaeb01be96cbfc]: Commencement: Reg. 4 in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+
+[^c-42649aef8a779f74a2903713abab3f41]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2022/798/schedule/1/part/1) in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+
 [^f00002]: Footnote: See paragraph 2 of Part I of Schedule 2 to the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23) in relation to the Recorder of London and Common Sergeant, who are also Circuit Judges.
 
 [^f00003]: Footnote: See section 89(2) of the Senior Courts Act [1981 (c. 54)](https://www.legislation.gov.uk/ukpga/1981/54) in relation to the Queen’s coroner and attorney and master of the Crown Office and Registrar of criminal appeals, who is also a Master of the Queen’s Bench Division.
 
+[^c-67a1435f0ad91e560b0e40cde205958a]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2022/798/schedule/1/part/2) in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+
 [^f00004]: Footnote: See section 4 of the Tribunals, Courts and Enforcement Act 2007 (“**the 2007 Act**”) in relation to office holders who are also judges of the First-tier Tribunal.
 
 [^f00005]: Footnote: See section 5 of the 2007 Act in relation to office holders who are also judges of the Upper Tribunal (which includes Chamber Presidents and Deputy Chamber Presidents).
+
+[^c-bc47e39b8c0672fbea9668490b468c26]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2022/798/schedule/1/part/3) in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)
+
+[^c-65979c6c3fa19ab7bb367a0ab94015fa]: Commencement: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2022/798/schedule/1/part/4) in force at 1.10.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/798/regulation/1)

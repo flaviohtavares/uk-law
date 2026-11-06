@@ -5,13 +5,13 @@ type: NorthernIrelandOrderInCouncil
 category: secondary
 status: revised-with-pending-changes
 made_date: '2003-02-27'
-text_date: '2026-09-30'
+text_date: '2026-10-08'
 extent: N.I.
 source_url: https://www.legislation.gov.uk/nisi/2003/439
 pdf_urls:
 - http://www.legislation.gov.uk/nisi/2003/439/pdfs/uksi_20030439_en.pdf
 - http://www.legislation.gov.uk/nisi/2003/439/data.pdf
-pending_changes: 3
+pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # The Commissioner for Children and Young People (Northern Ireland) Order 2003
 
-> **Warning: changes not yet applied to this text (3).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/nisi/2003/439
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-08. See https://www.legislation.gov.uk/changes/affected/nisi/2003/439
 >
 > Extent: Northern Ireland.
 
@@ -329,10 +329,8 @@ unless the Commissioner is satisfied that, in the particular circumstances, it i
 
 (3) The Commissioner shall not conduct an investigation in respect of any action which is, or has been, the subject of—[^c17055561]
 
-- (a) an inquiry under the Inquiries Act 2005 or the Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013[^c-8df7ac403a9f0ccfe4419d155236341e] , or
-- (b) any such inquiry as is referred to in section 23 of the Interpretation Act (Northern Ireland) 1954 (inquiries and investigations)
-
-.
+- (a) an inquiry under the Inquiries Act 2005 [^c-3f9811913c8aeaa1800be14466db9544]...[^c-8df7ac403a9f0ccfe4419d155236341e] the Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013 or the Inquiry (Mother and Baby Institutions, Magdalene Laundries and Workhouses) and Redress Scheme Act (Northern Ireland) 2026[^c-e7bf1bbc20c45ebec7fae4b96cacc1db], or
+- (b) any such inquiry as is referred to in section 23 of the Interpretation Act (Northern Ireland) 1954 (inquiries and investigations).
 
 (4) The Commissioner shall not conduct an investigation into a complaint if it appears to the Commissioner that there has been an unreasonable delay in making the complaint to the Commissioner.
 
@@ -1019,7 +1017,11 @@ may be published in such manner as the Commissioner considers appropriate.
 
 [^c17055561]: Textual amendment: [2005 c. 12](https://www.legislation.gov.uk/ukpga/2005/12)
 
+[^c-3f9811913c8aeaa1800be14466db9544]: Textual amendment: Word in [art. 13(3)(a)](https://www.legislation.gov.uk/nisi/2003/439/article/13/3/a) omitted (8.10.2026) by virtue of [Inquiry (Mother and Baby Institutions, Magdalene Laundries and Workhouses) and Redress Scheme Act (Northern Ireland) 2026 (c. 9)](https://www.legislation.gov.uk/nia/2026/9), [ss. 29(a)](https://www.legislation.gov.uk/nia/2026/9/section/29/a), [47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
+
 [^c-8df7ac403a9f0ccfe4419d155236341e]: Textual amendment: Words in [art. 13(3)](https://www.legislation.gov.uk/nisi/2003/439/article/13/3) inserted (19.1.2013) by [Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013 (c. 2)](https://www.legislation.gov.uk/nia/2013/2), [ss. 23(2)](https://www.legislation.gov.uk/nia/2013/2/section/23/2), [25(1)](https://www.legislation.gov.uk/nia/2013/2/section/25/1) (with [s. 22](https://www.legislation.gov.uk/nia/2013/2/section/22))
+
+[^c-e7bf1bbc20c45ebec7fae4b96cacc1db]: Textual amendment: Words in [art. 13(3)(a)](https://www.legislation.gov.uk/nisi/2003/439/article/13/3/a) inserted (8.10.2026) by [Inquiry (Mother and Baby Institutions, Magdalene Laundries and Workhouses) and Redress Scheme Act (Northern Ireland) 2026 (c. 9)](https://www.legislation.gov.uk/nia/2026/9), [ss. 29(b)](https://www.legislation.gov.uk/nia/2026/9/section/29/b), [47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
 [^c-e9f5f8ccbc7a4fe679dfe01eb3f77164]: Modification: [Art. 16(11)](https://www.legislation.gov.uk/nisi/2003/439/article/16/11): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 

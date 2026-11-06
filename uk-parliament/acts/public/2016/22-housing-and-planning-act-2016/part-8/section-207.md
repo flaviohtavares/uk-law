@@ -3,7 +3,7 @@ title: Housing and Planning Act 2016, section 207
 act: Housing and Planning Act 2016
 section: '207'
 status: not-yet-in-force
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2016/22/section/207
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

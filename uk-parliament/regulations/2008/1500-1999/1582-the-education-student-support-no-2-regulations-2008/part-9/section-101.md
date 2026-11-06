@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 101
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '101'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/101
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 101
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Minimum level of loan for living costs
+## 101. Minimum level of loan for living costs[^c-dff303d3fda35223828ec03c4e7d8117]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraphs (2) and (3), the “minimum level for the academic year” in regulation 68(5) and 100(d) is—
 
@@ -37,3 +43,7 @@ summary: ''
 (5) The rate applicable for a quarter is determined in accordance with regulation 75.
 
 (6) Categories A to D have the meaning given in regulation 82.
+
+## Annotations
+
+[^c-dff303d3fda35223828ec03c4e7d8117]: Commencement: Reg. 101 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

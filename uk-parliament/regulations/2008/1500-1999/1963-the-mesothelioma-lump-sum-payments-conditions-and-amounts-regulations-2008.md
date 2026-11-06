@@ -5,7 +5,7 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised
 made_date: '2008-07-17'
-text_date: '2026-04-01'
+text_date: '2026-10-31'
 extent: null
 source_url: https://www.legislation.gov.uk/uksi/2008/1963
 pdf_urls:
@@ -21,7 +21,7 @@ summary: ''
 
 # The Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations 2008
 
-> Text as at 2026-04-01.
+> Text as at 2026-10-31.
 
 2008 No. 1963
 
@@ -92,6 +92,23 @@ A payment made in error and which in consequence is liable to be repaid in accor
 (3) The amount of a payment made under section 46(2) of the Act to a dependant shall be determined in accordance with Table 2 of the Schedule.
 
 (4) In Table 2 of the Schedule, the reference to the age of the person with mesothelioma is a reference to the age of that person at death.
+
+## 5A. Payment to personal representatives[^c-88cbbf0c91b508de763903d47618d9b4]
+
+(1) Where—
+
+- (a) a claim is made, and
+- (b) the person making the claim dies before payment is made,
+
+payment must be made to the person’s personal representatives, subject to the condition in paragraph (2) having been met.
+
+(2) The condition is that any document that is by law sufficient evidence of the grant of—
+
+- (a) probate of the will of the person,
+- (b) letters of administration of the estate of the person, or
+- (c) confirmation as executor of the person,
+
+has been provided to the Secretary of State.
 
 ## 6. Amendment of Pneumoconiosis etc. (Workers' Compensation) (Payment of Claims) Regulations 1988
 
@@ -166,43 +183,53 @@ Amount of lump sum payment to person with mesothelioma
 | 76 | 19,377 |
 | 77 or over | 18,733; |
 
-Table 2[^c-f806c4fbecae9b2f11f58a698d766a5a]
+Table 2[^c-098ace6447bf5804a15eb7ef5d11c4d5]
 
 Amount of lump sum payment to dependant
 
 | **Age of person with mesothelioma at death** | ***Payment***<br>***£*** |
 | --- | --- |
-| 37 or under | 62,743 |
-| 38 | 61,396 |
-| 39 | 60,049 |
-| 40 | 58,703 |
-| 41 | 57,358 |
-| 42 | 56,013 |
-| 43 | 54,723 |
-| 44 | 53,424 |
-| 45 | 52,145 |
-| 46 | 50,858 |
-| 47 | 49,573 |
-| 48 | 47,994 |
-| 49 | 46,409 |
-| 50 | 44,831 |
-| 51 | 43,257 |
-| 52 | 41,676 |
-| 53 | 40,381 |
-| 54 | 39,099 |
-| 55 | 37,811 |
-| 56 | 36,515 |
-| 57 | 35,231 |
-| 58 | 31,668 |
-| 59 | 28,091 |
-| 60 | 24,526 |
-| 61 | 20,954 |
-| 62 | 17,379 |
-| 63 | 16,359 |
-| 64 | 15,347 |
-| 65 | 14,308 |
-| 66 | 13,286 |
-| 67 or over | 10,387. |
+| 37 or under | 120,566 |
+| 38 | 118,221 |
+| 39 | 115,882 |
+| 40 | 113,543 |
+| 41 | 111,199 |
+| 42 | 108,858 |
+| 43 | 107,691 |
+| 44 | 106,513 |
+| 45 | 105,347 |
+| 46 | 104,176 |
+| 47 | 103,005 |
+| 48 | 99,733 |
+| 49 | 96,457 |
+| 50 | 93,173 |
+| 51 | 89,901 |
+| 52 | 86,614 |
+| 53 | 84,275 |
+| 54 | 81,939 |
+| 55 | 79,602 |
+| 56 | 77,249 |
+| 57 | 74,908 |
+| 58 | 68,825 |
+| 59 | 62,735 |
+| 60 | 56,656 |
+| 61 | 50,567 |
+| 62 | 44,481 |
+| 63 | 40,735 |
+| 64 | 36,985 |
+| 65 | 33,245 |
+| 66 | 29,498 |
+| 67 | 25,753 |
+| 68 | 24,989 |
+| 69 | 24,224 |
+| 70 | 23,471 |
+| 71 | 22,710 |
+| 72 | 21,953 |
+| 73 | 21,304 |
+| 74 | 20,644 |
+| 75 | 20,012 |
+| 76 | 19,377 |
+| 77 or over | 18,733 |
 
 *(This note is not part of the Regulations)*
 
@@ -232,8 +259,10 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^c-6ee7cd2d5ccf304f25dfe68644d4b67f]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2008/1963/regulation/2/1/c) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/2365/regulation/5)
 
+[^c-88cbbf0c91b508de763903d47618d9b4]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2008/1963/regulation/5A) inserted (31.10.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1148)](https://www.legislation.gov.uk/uksi/2026/1148), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1148/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/1148/regulation/3)
+
 [^c1934960]: Marginal citation: [S.I. 1988/668](https://www.legislation.gov.uk/uksi/1988/668).
 
 [^c-f676fb4baeb3aa691f2ab5a0b235a17a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/1963/schedule) Table 1 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2026 (S.I. 2026/377)](https://www.legislation.gov.uk/uksi/2026/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/377/regulation/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/2))
 
-[^c-f806c4fbecae9b2f11f58a698d766a5a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/1963/schedule) Table 2 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2026 (S.I. 2026/377)](https://www.legislation.gov.uk/uksi/2026/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/377/regulation/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/3))
+[^c-098ace6447bf5804a15eb7ef5d11c4d5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/1963/schedule) Table 2 substituted (31.10.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1148)](https://www.legislation.gov.uk/uksi/2026/1148), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1148/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/1148/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1148/regulation/1/2))

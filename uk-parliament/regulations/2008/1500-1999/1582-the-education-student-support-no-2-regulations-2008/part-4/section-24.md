@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 24
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '24'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/24
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 24
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amount of the fee loan
+## 24. Amount of the fee loan[^c-a7b44c20345551619c2ea3a80ee317fc]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Unless one of the cases set out in paragraph (3) applies, the amount of a fee loan in respect of an academic year of a designated course must not exceed the lesser of—
 
@@ -59,3 +65,7 @@ summary: ''
 - (b) the fees payable by the student in connection with that year.
 
 (10) Where a current system student has applied for a fee loan of less than the maximum amount available in relation to an academic year, that student may apply to borrow an additional amount which when added to the amount already applied for does not exceed the relevant maximum applicable in that student’s case.
+
+## Annotations
+
+[^c-a7b44c20345551619c2ea3a80ee317fc]: Commencement: Reg. 24 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

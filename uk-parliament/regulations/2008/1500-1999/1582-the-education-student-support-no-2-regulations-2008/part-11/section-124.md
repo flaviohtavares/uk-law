@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 124
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '124'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/124
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 124
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Declarations provided by academic authorities
+## 124. Declarations provided by academic authorities[^c-12b065b4d300a1ed66ee065168af4c6a]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), the academic authority must, on the request of the applicant, complete a declaration in such form as may be required by the Secretary of State to accompany the application for support.
 
@@ -34,3 +40,7 @@ summary: ''
 - (a) the amount of fees being charged in respect of the academic year in respect of which the applicant is applying for support;
 - (b) certification by the academic authority that it considers the applicant is undertaking the designated distance learning course in England; and
 - (c) in any case where the applicant is a disabled student, certification by the academic authority that it considers the applicant has chosen to undertake the designated distance learning course for a reason other than that the applicant is unable to attend a designated course for a reason which relates to the applicant’s disability.
+
+## Annotations
+
+[^c-12b065b4d300a1ed66ee065168af4c6a]: Commencement: Reg. 124 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

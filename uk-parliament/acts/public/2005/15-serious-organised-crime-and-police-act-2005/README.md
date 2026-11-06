@@ -5,14 +5,14 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '2005-04-07'
-text_date: '2026-06-29'
+text_date: '2026-10-15'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2005/15
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/2005/15/pdfs/ukpgaen_20050015_en.pdf
 - http://www.legislation.gov.uk/ukpga/2005/15/pdfs/ukpga_20050015_en.pdf
 - http://www.legislation.gov.uk/ukpga/2005/15/data.pdf
-pending_changes: 9
+pending_changes: 8
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Serious Organised Crime and Police Act 2005
 
-> **Warning: changes not yet applied to this text (9).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -237,7 +237,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Part 2 — Investigations, prosecutions, proceedings and proceeds of crime
 
-#### Chapter 1 — Investigatory powers of DPP, etc.[^c-c73cc242f8c5cd0ddc2585c49940532a][^c-2748d4a3f9b21adb3b881adb981129fb][^c-66bd05a8bc830a5e55e79049939b25dd][^c-89f137fbea2d35441da8f8175dfeb100][^c-97c053c3ed7a30ed4b748895472eb63c][^c-9b52ede781c3a26067168751f2ca8949][^c-fbabe98115ac17096f97cecfd8440fdd][^c-54d3029ce80bcd19fb0d0a8b9ca040c7][^c-ab242cb68d4aa5292ab4580bcc90d7fb][^c-0946ae5a6fe6575f5f4d7686ed188bc2][^c-c53099ec8a125d494c4c70870b1024da][^c-dd045ad2fb6997b99ef3ffb98247bea1][^c-9cd33d7ba5143f1ecb7be94c09866e88][^c-a1dd6b42d600bc58a7f74da7f9466f7e][^c-e4bd286568bc30d992cc5dd2ad630dbe][^c-4427e74b0530f58adb1a7a59cacddcfa][^c-e82aeecccfd28288419835cd9ce23c12][^c-fde48912257cbcef726f59b0c72baa00][^c-528a3ca46b7cd5a09af548e2727e97fb][^c-e95a48845a00a5d284bce16364291510][^c-ae20bd45cf796c050d148b21d57b1605][^c-2903ffaab28af8db8a668541e3c3a134][^c-dbfc24a9026231aa6d8f2f52ce7b01f3][^c-3c4c847bd12c8632a27f1ba07f50d5eb][^c-c6df8d3e4308a2bb68ec3b5264ed4770][^c-ab95afa2bae725d46b44fdcec626aedb][^c-abe8d60f8a2ace73d60136fd9ebe7180][^c-79f109fdd27f7d7749787641960a4aa1][^c-0850e7abd3a97772f081b13870f4e418][^c-be759ee906bf84624e310fa69879ad4e][^c-9cd0501fc8c560abd0c4b58f0ae2c558][^c-0b887349e4a9acca20f23374c9fff84c][^c-416d91839a1279284607487231f70961][^c-ca6176a03d453d645e95ea44e61de8b8][^c-536cf536b0b78bb8acfba66d984c5015][^c-dc6531f6bd1df4607470654e3a8475d9][^c-aab8ee9caee0b5236f7f63c8a837029c][^c-f876a4d59d6caf1f36ffb4c1d1e79c6e][^c-9c3e13df5e7a205e0ada26794aceb703][^c-c6804ef68279214b10ba34aff817580c]
+#### Chapter 1 — Investigatory powers of DPP, etc.[^c-c73cc242f8c5cd0ddc2585c49940532a][^c-2748d4a3f9b21adb3b881adb981129fb][^c-66bd05a8bc830a5e55e79049939b25dd][^c-89f137fbea2d35441da8f8175dfeb100][^c-97c053c3ed7a30ed4b748895472eb63c][^c-9b52ede781c3a26067168751f2ca8949][^c-fbabe98115ac17096f97cecfd8440fdd][^c-54d3029ce80bcd19fb0d0a8b9ca040c7][^c-ab242cb68d4aa5292ab4580bcc90d7fb][^c-0946ae5a6fe6575f5f4d7686ed188bc2][^c-c53099ec8a125d494c4c70870b1024da][^c-dd045ad2fb6997b99ef3ffb98247bea1][^c-9cd33d7ba5143f1ecb7be94c09866e88][^c-a1dd6b42d600bc58a7f74da7f9466f7e][^c-e4bd286568bc30d992cc5dd2ad630dbe][^c-4427e74b0530f58adb1a7a59cacddcfa][^c-e82aeecccfd28288419835cd9ce23c12][^c-fde48912257cbcef726f59b0c72baa00][^c-528a3ca46b7cd5a09af548e2727e97fb][^c-e95a48845a00a5d284bce16364291510][^c-ae20bd45cf796c050d148b21d57b1605][^c-2903ffaab28af8db8a668541e3c3a134][^c-dbfc24a9026231aa6d8f2f52ce7b01f3][^c-3c4c847bd12c8632a27f1ba07f50d5eb][^c-c6df8d3e4308a2bb68ec3b5264ed4770][^c-ab95afa2bae725d46b44fdcec626aedb][^c-abe8d60f8a2ace73d60136fd9ebe7180][^c-79f109fdd27f7d7749787641960a4aa1][^c-0850e7abd3a97772f081b13870f4e418][^c-be759ee906bf84624e310fa69879ad4e][^c-9cd0501fc8c560abd0c4b58f0ae2c558][^c-0b887349e4a9acca20f23374c9fff84c][^c-416d91839a1279284607487231f70961][^c-ca6176a03d453d645e95ea44e61de8b8][^c-536cf536b0b78bb8acfba66d984c5015][^c-dc6531f6bd1df4607470654e3a8475d9][^c-aab8ee9caee0b5236f7f63c8a837029c][^c-f876a4d59d6caf1f36ffb4c1d1e79c6e][^c-9c3e13df5e7a205e0ada26794aceb703][^c-c6804ef68279214b10ba34aff817580c][^c-4474e2e696354d1b7cdf77e6cbab3bd8]
 
 ##### Introductory
 
@@ -622,3 +622,5 @@ SCHEDULES
 [^c-9c3e13df5e7a205e0ada26794aceb703]: Modification: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/ukpga/2005/15/part/2/chapter/1) applied (10.10.2024) by [The Trade, Aircraft and Shipping Sanctions (Civil Enforcement) Regulations 2024 (S.I. 2024/948)](https://www.legislation.gov.uk/uksi/2024/948), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/948/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2024/948/regulation/30) (with [regs. 14](https://www.legislation.gov.uk/uksi/2024/948/regulation/14), [29](https://www.legislation.gov.uk/uksi/2024/948/regulation/29))
 
 [^c-c6804ef68279214b10ba34aff817580c]: Modification: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/ukpga/2005/15/part/2/chapter/1) applied (23.7.2025) by [The Global Irregular Migration and Trafficking in Persons Sanctions Regulations 2025 (S.I. 2025/902)](https://www.legislation.gov.uk/uksi/2025/902), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/902/regulation/1/2), [47](https://www.legislation.gov.uk/uksi/2025/902/regulation/47)
+
+[^c-4474e2e696354d1b7cdf77e6cbab3bd8]: Modification: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/ukpga/2005/15/part/2/chapter/1) applied (15.10.2026) by [The Global Human Rights and International Humanitarian Law Sanctions Regulations 2026 (S.I. 2026/1071)](https://www.legislation.gov.uk/uksi/2026/1071), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2), [47](https://www.legislation.gov.uk/uksi/2026/1071/regulation/47) (with [regs. 49-51](https://www.legislation.gov.uk/uksi/2026/1071/regulation/49))

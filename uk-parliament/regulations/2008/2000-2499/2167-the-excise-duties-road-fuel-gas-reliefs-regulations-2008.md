@@ -3,16 +3,16 @@ title: The Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2008
 id: uksi/2008/2167
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-08-13'
-text_date: null
-extent: null
+text_date: '2008-08-13'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2167
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2167/pdfs/uksiem_20082167_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2167/pdfs/uksi_20082167_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2167/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/2167/data.pdf
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (3).** Text as at 2008-08-13. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2167
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2008 No. 2167
 
@@ -42,7 +48,7 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 20AA(1)(a) and (2)(a), (b), (c), (h) and (i) of the Hydrocarbon Oil Duties Act 1979[^f00001]:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-73eebe4b2fb420ec3260eea965067fc4]
 
 (1) These Regulations may be cited as the Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2008.
 
@@ -50,7 +56,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 (3) In these Regulations, “duty” means the duty of excise charged by section 8(1) or (2) of the Hydrocarbon Oil Duties Act 1979[^f00002].
 
-## 2. Relief
+## 2. Relief[^c-01d15d16f07cbc2868301729439c7937]
 
 Relief from duty is allowed as follows—
 
@@ -81,4 +87,8 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^f00001]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5); section 5 was amended to provide a definition of “natural road fuel gas” by section 6(1) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Section 20AA was inserted by section 2(1) of the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26). Relevant amendments were made to section 20AA by Part 1(4) of Schedule 23 to the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34) and section 10(3) of the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17). Section 27(3) applies the definition of “the Commissioners” in section 1(1) of the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), namely “the Commissioners” means “the Commissioners for Her Majesty’s Revenue and Customs” (see the amendment made by paragraph 22(b) of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11)).
 
+[^c-73eebe4b2fb420ec3260eea965067fc4]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2167/regulation/1/2)
+
 [^f00002]: Footnote: The rate of excise duty charged is specified in section 8(3). Relevant amendments were made to section 8(3) by section 6(2) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), section 1(3) of the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), section 6(2) of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), sections 4(6) and 5(5) of the Finance Act [2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7), sections 6(5) and 7(5) of the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25), section 10(5) of the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11) and section 15(5) of the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^c-01d15d16f07cbc2868301729439c7937]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2167/regulation/1/2)

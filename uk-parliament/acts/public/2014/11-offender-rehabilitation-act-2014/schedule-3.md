@@ -2,8 +2,8 @@
 title: Offender Rehabilitation Act 2014, SCHEDULE 3
 act: Offender Rehabilitation Act 2014
 section: schedule-3
-status: revised-with-pending-changes
-text_date: '2026-05-11'
+status: revised
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2014/11/schedule/3
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Offender Rehabilitation Act 2014, SCHEDULE 3
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-05-11. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/11
+> Text as at 2026-10-01.
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
@@ -203,7 +203,7 @@ Section 7
 
 **17.**[^c-2b41523f8b51861e0597c11b7b5d829f] In section 243A(3)(a) (duty to release prisoners serving less than 12 months unconditionally: definition of requisite custodial period), for the words from “in relation to” to “such a term” substitute “ in relation to a person serving one sentence ”.
 
-**18.**[^c-2ca84256563efea89235a110b467b58d] In section 244(3)(a) (duty to release prisoners on licence: definition of requisite custodial period), for the words from “in relation to” to “such a term” substitute “ in relation to a prisoner serving one sentence ”.
+**18.**[^c-01e006b03ab00588ed443b530be97a7c] In section 244(3)(a) (duty to release prisoners on licence: definition of requisite custodial period), for the words from “in relation to” to “such a term” substitute “ in relation to a prisoner serving one sentence ”. *(affected by repeal, see note)*[^c-01e006b03ab00588ed443b530be97a7c]
 
 **19.**[^c-276a89897fdb20996b2ac7a05d56a480] Omit the italic heading before section 256B.
 
@@ -296,7 +296,7 @@ Section 7
 
 [^c-2b41523f8b51861e0597c11b7b5d829f]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/17) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(t)](https://www.legislation.gov.uk/uksi/2015/40/article/2/t)
 
-[^c-2ca84256563efea89235a110b467b58d]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/18) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(t)](https://www.legislation.gov.uk/uksi/2015/40/article/2/t)
+[^c-01e006b03ab00588ed443b530be97a7c]: Textual amendment: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/18) omitted (1.10.2026 except in relation to sentences for excluded offences listed in Sch.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 23(11)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/11/b), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 23(12)-(15)](https://www.legislation.gov.uk/ukpga/2026/2/section/23/12)); [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/a), [5](https://www.legislation.gov.uk/uksi/2026/953/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)
 
 [^c-276a89897fdb20996b2ac7a05d56a480]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/19) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(t)](https://www.legislation.gov.uk/uksi/2015/40/article/2/t)
 

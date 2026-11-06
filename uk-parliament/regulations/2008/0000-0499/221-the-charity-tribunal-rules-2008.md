@@ -3,15 +3,15 @@ title: The Charity Tribunal Rules 2008
 id: uksi/2008/221
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-02-04'
-text_date: null
-extent: null
+text_date: '2008-02-27'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/221
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/221/pdfs/uksiem_20080221_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/221/pdfs/uksi_20080221_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/221/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/221/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Charity Tribunal Rules 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2008/221
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
 
 2008 No. 221
 
@@ -44,11 +48,11 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement
+### 1. Citation and commencement[^c-084067920499dc3755335c5cef1d746e]
 
 These Rules may be cited as the Charity Tribunal Rules 2008 and shall come into force on 27th February 2008.
 
-### 2. Interpretation
+### 2. Interpretation[^c-db03a1f71c7c58b45466555e535cc645]
 
 (1) A reference in these Rules to a rule by number alone means the rule so numbered in these Rules.
 
@@ -88,7 +92,7 @@ These Rules may be cited as the Charity Tribunal Rules 2008 and shall come into 
 
 ## PART 2 — General matters in appeals and applications
 
-### 3. Directions
+### 3. Directions[^c-bde65ef634d9573b2b08b4c26488c5e1]
 
 (1) The Tribunal may at any time give directions to—
 
@@ -130,7 +134,7 @@ These Rules may be cited as the Charity Tribunal Rules 2008 and shall come into 
 
 (13) The Tribunal must not vary or set aside a direction without first giving the party who requested the direction an opportunity to oppose that action.
 
-### 4. Application for permission to make a late appeal or application
+### 4. Application for permission to make a late appeal or application[^c-aedaca6332ad39d3ad597f1ee7dfd986]
 
 Where an appellant has made a request under rule 17(9) (appeal notice) to the Tribunal for a direction under rule 3 (directions) to allow an appeal or application to be made after the time limit for doing so has expired, the Tribunal must consider—
 
@@ -138,7 +142,7 @@ Where an appellant has made a request under rule 17(9) (appeal notice) to the Tr
 - (b) when the appellant became aware of the Commission’s final decision; and
 - (c) when the appellant became aware of the right to make the appeal or application and of the time limit for making the appeal or application.
 
-### 5. Powers of Tribunal to strike out etc.
+### 5. Powers of Tribunal to strike out etc.[^c-eecee5e79767e4844d3badfefae91420]
 
 (1) The Tribunal may regulate its own procedure and may, if the Tribunal thinks fit order any appeal notice, response, response document, supplementary statement or representation to be struck out at any stage of the proceedings on the ground that it—
 
@@ -148,7 +152,7 @@ Where an appellant has made a request under rule 17(9) (appeal notice) to the Tr
 
 (2) Before making any order under paragraph (1), the Tribunal must provide an opportunity for the party against whom it is proposed that the order should be made, to make representations against the making of the order.
 
-### 6. Failure to comply
+### 6. Failure to comply[^c-2b4d4d3bd8bda1ef7f31195cb892bc9c]
 
 (1) The Tribunal may take any one or more of the steps in paragraph (2) in respect of a party, where that party has, without reasonable excuse, failed to comply—
 
@@ -162,7 +166,7 @@ Where an appellant has made a request under rule 17(9) (appeal notice) to the Tr
 
 (3) The Tribunal must not take any of the steps under this rule in respect of a party unless it has given that party an opportunity to make representations against the taking of any such steps.
 
-### 7. Irregularities
+### 7. Irregularities[^c-28fd3bba2fbea093482de51943ba584e]
 
 (1) Any irregularity that arises before the Tribunal has reached its decision, resulting from failure to comply with any provision of these Rules or of any direction of the Tribunal, will not of itself render the proceedings void.
 
@@ -170,15 +174,15 @@ Where an appellant has made a request under rule 17(9) (appeal notice) to the Tr
 
 (3) Mistakes in any document recording a direction or decision, or errors arising in such a document from an accidental slip or omission, may be corrected by a certificate signed by the Tribunal.
 
-### 8. Signature of documents
+### 8. Signature of documents[^c-7a675c3806f238e986ef946fb6dcf2d1]
 
 Any requirement in these Rules or in a direction of the Tribunal for a document to be signed by a person is satisfied, in the case of a document which is sent electronically in accordance with these Rules or with a direction of the Tribunal, by that person producing the name using a computer or other mechanical means.
 
-### 9. Calculation of time
+### 9. Calculation of time[^c-bda277fb83a0cde1a113a7e5302a7a64]
 
 Where the time prescribed for doing any act under these Rules expires on a day, which is not a working day, the act is done on time if done on the next working day.
 
-### 10. Sending of notices
+### 10. Sending of notices[^c-5d448d7c072f3d938759b11097531df1]
 
 (1) Subject to paragraph (4) any document that is required to be sent under these Rules may only be sent—
 
@@ -213,7 +217,7 @@ Where the time prescribed for doing any act under these Rules expires on a day, 
 
 (7) The Tribunal may direct that service of any documents under these Rules may be dispensed with and, in those circumstances, may make such consequential directions as the Tribunal deems appropriate.
 
-### 11. Orders against a vexatious litigant
+### 11. Orders against a vexatious litigant[^c-e9e97f2d209055caefb789b0c4194f82]
 
 (1) The Tribunal may make an order where a person has persistently initiated proceedings before the Tribunal which are without merit.
 
@@ -245,7 +249,7 @@ Where the time prescribed for doing any act under these Rules expires on a day, 
 - (a) on the papers; and
 - (b) promptly, after having considered any representations made under paragraph (9).
 
-### 12. Consolidation of appeals or applications
+### 12. Consolidation of appeals or applications[^c-af8dae391d8ac2726c7c210565cceac9]
 
 Where two or more appeal notices have been filed the Tribunal may direct that the appeals or the applications or any particular issue raised in the appeals or applications be consolidated or heard together—
 
@@ -253,7 +257,7 @@ Where two or more appeal notices have been filed the Tribunal may direct that th
 - (ii) in respect of separate issues in the same matter; or
 - (iii) which involve the same or similar issues.
 
-### 13. Pre-hearing review
+### 13. Pre-hearing review[^c-fdeffc4b97240108f9735e5e961f4abc]
 
 (1) Where the Tribunal directs that it is appropriate to hold a pre-hearing review of the appeal or the application, unless the parties consent to shorter notice, the Tribunal must give the parties not less than 14 days’ notice of the time and place of the pre-hearing review.
 
@@ -262,7 +266,7 @@ Where two or more appeal notices have been filed the Tribunal may direct that th
 - (a) the Tribunal must give all directions appearing necessary or desirable to securing the just, expeditious and economical conduct of the appeal or the application; and
 - (b) the Tribunal must endeavour to secure that the parties make all such admissions and agreements as they ought reasonably to have made in relation to the proceedings.
 
-### 14. Preliminary questions
+### 14. Preliminary questions[^c-2de33964be19e850eb42a99974c5d9cd]
 
 (1) The Tribunal may direct that any preliminary question of fact or law which appears to be in issue in relation to the appeal or the application, be determined at a preliminary hearing.
 
@@ -277,7 +281,7 @@ Where two or more appeal notices have been filed the Tribunal may direct that th
 
 (5) Where the Tribunal determines the preliminary question without an oral hearing under paragraph (4), the Tribunal must not at the same time dispose of the appeal or the application unless the parties have agreed in writing to dispose of the appeal or application without an oral hearing.
 
-### 15. Exceptions to disclosure
+### 15. Exceptions to disclosure[^c-2eb757fde91ffea7b130cf6b3f2cbcf3]
 
 (1) A party is not required to allow for the inspection of any document in a list under these Rules where inspection could not be compelled in a civil trial in England or Wales.
 
@@ -294,7 +298,7 @@ Where two or more appeal notices have been filed the Tribunal may direct that th
 - (a) require that the document be produced to the Tribunal together with a statement of the reasons why it should not be included on a list or inspected as the case may be; and
 - (b) without disclosing the document, invite any other person to make representations.
 
-### 16. Provision of copy documents
+### 16. Provision of copy documents[^c-bf5a70c1e7fdb3dbb54d394aa03c4d0c]
 
 Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a list under rule 18(4)(a) (Commission’s response), 19(3) (appellant’s reply) or 20(1) (secondary disclosure by Commission) must, no later than 7 days from the date of the request of any other party—
 
@@ -303,7 +307,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 ## PART 3 — Initiating an appeal or application
 
-### 17. Appeal notice
+### 17. Appeal notice[^c-42d0bf1552fde62a6a01dc1b72755473]
 
 (1) An appeal or application must be made by way of an appeal notice signed, dated and filed by an appellant.
 
@@ -365,7 +369,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 - (a) take the steps in paragraphs (13)(a) to (c) in relation to the appeal or the application; and
 - (b) inform the parties of the Tribunal’s decision relating to the request for directions under paragraph (9).
 
-### 18. Commission’s response
+### 18. Commission’s response[^c-1b99f2e5c8fc276ff211cbefa2ab4b03]
 
 (1) The Commission must file a response to the appeal notice under rule 17 (appeal notice).
 
@@ -409,7 +413,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 (10) Where a request under paragraphs (7) or (8) has been determined, the Tribunal must send the parties the decision (including the particulars of the direction) and specify the date on which the decision is being sent.
 
-### 19. Appellant’s reply
+### 19. Appellant’s reply[^c-268de3cee2ebbc7981f615bfb88ad645]
 
 (1) An appellant must file a written reply so that it is received by the Tribunal no later than 28 days after the date on which that appellant received the documents under rule 18(6) (Commission’s response).
 
@@ -443,7 +447,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 (10) The Tribunal when sending the documents in paragraph (9) must specify the date on which they are being sent.
 
-### 20. Secondary disclosure by the Commission
+### 20. Secondary disclosure by the Commission[^c-a2b6e80bc0b5f8b4ebead98742d145b7]
 
 (1) Except where rule 15(2) (exceptions to disclosure) applies, following the receipt of an appellant’s reply, the Commission must file a list of any further material—
 
@@ -456,7 +460,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 ## PART 4 — Hearings of appeals and applications
 
-### 21. Fixing the time and place of the hearing of the appeal or application
+### 21. Fixing the time and place of the hearing of the appeal or application[^c-e474a09870e8d6d3bcc6efcdeb5ad898]
 
 (1) Unless the parties otherwise agree or the Tribunal otherwise directs, the Tribunal must give the parties not less than 28 days notice of the time and place of the hearing of the appeal or application.
 
@@ -465,7 +469,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 - (a) whether the appeal or the application should be dealt with as a matter of urgency; and
 - (b) the convenience and the ability of any appellant to attend a hearing, which is to be heard at short notice.
 
-### 22. Intervention by Attorney General in appeals and applications
+### 22. Intervention by Attorney General in appeals and applications[^c-a4ebd6fe71856a73fd9cf785230b9ce0]
 
 (1) Where the Attorney General has received papers sent in accordance with section 2D(2) and (3) of the 1993 Act, the Attorney General must notify the Tribunal whether the Attorney General intends to intervene in the proceedings not later than 28 days after the date on which the Attorney General received those papers.
 
@@ -477,7 +481,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 (5) When the Attorney General intervenes in proceedings under paragraph (2) the Attorney General may request under rule 3 (directions) that the Tribunal send all the necessary papers in the proceedings to the Attorney General.
 
-### 23. Requests to the Attorney General for assistance
+### 23. Requests to the Attorney General for assistance[^c-e78101395e56a068f6d417b5116f2f15]
 
 (1) A request by the Tribunal to the Attorney General to argue any question in the proceedings pursuant to section 2D(4)(b) of the 1993 Act must be made in accordance with this rule.
 
@@ -495,7 +499,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 (6) The Tribunal must give the parties, and the Attorney General if the Attorney General agrees to argue the question, not less than 28 days notice of a directions hearing under paragraph (5), unless the parties to that hearing agree to shorter notice.
 
-### 24. Withdrawal of appeal or application and unopposed appeals or applications
+### 24. Withdrawal of appeal or application and unopposed appeals or applications[^c-0e7c1c67de3db73769139ed7911cd68c]
 
 (1) An appellant may withdraw their appeal or their application, and in accordance with paragraphs (a) and (b) the Tribunal must dismiss that party’s appeal or application where it is withdrawn—
 
@@ -511,14 +515,14 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 (4) When the Tribunal dismisses or allows a party’s appeal or application under this rule it may award costs in accordance with rule 33 (costs).
 
-### 25. Determination without oral hearing
+### 25. Determination without oral hearing[^c-7191eb6f6f722adce6adc021c9167c33]
 
 — The Tribunal may determine an appeal, an application, or any particular issue arising in an appeal or application, without an oral hearing if—
 
 - (a) the parties agree in writing; or
 - (b) the issue concerns a request for directions.
 
-### 26. Public hearings and directions for private hearings
+### 26. Public hearings and directions for private hearings[^c-9950f35def53a5ee6a0506c1630d64b5]
 
 (1) In this rule, “**hearing**” means any oral hearing under these Rules except for a directions hearing that takes place without notice to the other parties under rule 15(2) (exceptions to disclosure).
 
@@ -545,7 +549,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 (11) Where a direction is given under paragraph (10), the Tribunal must state what information (if any), is to be entered in the register or removed from it.
 
-### 27. Representation at hearings
+### 27. Representation at hearings[^c-ea287fde0e2ad8f5adc7c7bc007a3449]
 
 (1) Subject to paragraph (2), the parties may appear at a hearing and may be assisted or represented by any person, whether or not that person is a legal representative.
 
@@ -555,7 +559,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 (4) A party must make all reasonable enquiries to find out whether an order has been made in the circumstances set out in paragraph (3) and inform the Tribunal in accordance with that paragraph.
 
-### 28. Adjournment of hearing
+### 28. Adjournment of hearing[^c-a0e27d9190d22577ceb48ac334c9eac4]
 
 (1) Where a party requests an adjournment of an appeal or an application hearing, that party must—
 
@@ -570,7 +574,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 - (a) must not be more than 28 days after the original hearing date, unless there are exceptional circumstances that mean the appeal or the application cannot be justly heard within that time; and
 - (b) must not be later than is strictly required by the circumstances necessitating the adjournment.
 
-### 29. Procedure at hearings
+### 29. Procedure at hearings[^c-1883382447fa9983b2834ac3452882b4]
 
 (1) Subject to the 1993 Act, the 2006 Act and these Rules, the Tribunal must conduct all hearings under these Rules in such manner as the Tribunal considers most suitable to the clarification of the issues before it, and generally to the just, expeditious and economical determination of the proceedings.
 
@@ -587,7 +591,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 - (a) whether or not it would be admissible in a civil trial in England and Wales; and
 - (b) whether or not it was available to the Commission when the Commission’s final decision was made.
 
-### 30. Failure to attend a hearing
+### 30. Failure to attend a hearing[^c-566d3ac2739566b1a72f4c7f747b0807]
 
 (1) If a party fails to attend or be represented at any hearing of which that party has been duly notified, the Tribunal may, if it is satisfied that there is no sufficient reason for the absence—
 
@@ -600,7 +604,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 (4) When a request is made under paragraph (3) the Tribunal may set the decision aside if the party making the request shows good reason for failure to attend or be represented.
 
-### 31. Publication of decisions of the Tribunal
+### 31. Publication of decisions of the Tribunal[^c-0b436d4831d179b8121d87bf6f9a6542]
 
 (1) The Tribunal must publish its decisions and the reasons for those decisions except where the Tribunal considers that there are circumstances that make it necessary to impose restrictions on publication.
 
@@ -626,7 +630,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 (7) Before reaching a decision on whether to impose restrictions on publication the Tribunal must invite the parties, and any other person that the Tribunal considers necessary, to make representations.
 
-### 32. Notification of the Tribunal’s decision
+### 32. Notification of the Tribunal’s decision[^c-53a83c10e04ebecd3dc742071a216137]
 
 (1) The Tribunal must as soon as may be practicable—
 
@@ -638,7 +642,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 - (a) the right to appeal from the Tribunal to the High Court; and
 - (b) the time within which, and the place at which, an application for permission to appeal is to be made.
 
-### 33. Costs
+### 33. Costs[^c-35de3f796bf02b985598140273e0d0ab]
 
 (1) No costs order may be made by the Tribunal under section 2B(6) or (7) of the 1993 Act or under rule 24 (withdrawal of appeal or application and unopposed appeals or applications) without first giving the paying party an opportunity to make representations against the making of an order.
 
@@ -647,7 +651,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 - (a) that an amount fixed by the Tribunal must be paid by the paying party to the receiving party; or
 - (b) that the costs are to be assessed by the Tribunal on such basis as the Tribunal specifies.
 
-### 34. Review of the Tribunal’s decision
+### 34. Review of the Tribunal’s decision[^c-c97804a1dafb7db2f62c7bc8c12d9780]
 
 (1) If, at the request of a party or at the Tribunal’s own initiative, the Tribunal is satisfied that the Tribunal’s decision was wrongly made as a result of an administrative error on the part of the Tribunal or staff, the Tribunal may review that decision.
 
@@ -677,7 +681,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 ## PART 5 — Appeals from the Tribunal in appeals and applications
 
-### 35. Permission to appeal to the High Court
+### 35. Permission to appeal to the High Court[^c-214fa5862a0154bf176bc6ac0f8b31a3]
 
 (1) A request to the Tribunal for permission to appeal to the High Court may be made by the applicant—
 
@@ -691,7 +695,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 - (b) identify the decision of the Tribunal to which the request relates; and
 - (c) state the grounds on which the applicant intends to rely before the High Court.
 
-### 36. Decision as to permission to appeal to the High Court
+### 36. Decision as to permission to appeal to the High Court[^c-288715417f3cd979cdfb262b6dd61bbe]
 
 (1) The request for permission to appeal to the High Court must be decided on the papers unless the Tribunal considers that special circumstances make a hearing desirable.
 
@@ -701,7 +705,7 @@ Without prejudice to rule 15 (exceptions to disclosure), a party who has filed a
 
 (4) If the Tribunal refuses the request, the notification to the applicant under paragraph (3) must inform the applicant of the right to seek permission to appeal from the High Court.
 
-### 37. Appeal remitted by the High Court for rehearing
+### 37. Appeal remitted by the High Court for rehearing[^c-fff2c52b35bc6e6254e498b460436d3c]
 
 Where the High Court remits an appeal to the Tribunal for rehearing and determination (“the rehearing”)—
 
@@ -710,7 +714,7 @@ Where the High Court remits an appeal to the Tribunal for rehearing and determin
 
 ## PART 6 — Special provisions for references
 
-### 38. Notice of reference
+### 38. Notice of reference[^c-dfbec75224418ef1795755d89c7ebe3b]
 
 (1) For the purposes of this Part, and where these Rules are stated as applying to the proceedings in a reference, “**party**” means the referrer or a respondent.
 
@@ -743,7 +747,7 @@ Where the High Court remits an appeal to the Tribunal for rehearing and determin
 
 (7) The Tribunal will notify in writing those persons specified in a direction in paragraph (6).
 
-### 39. Respondent’s notice
+### 39. Respondent’s notice[^c-897e312067c3be7913563d4997edc359]
 
 (1) The Tribunal will send to the referrer and to persons selected as being respondents under rule 38(6) (notice of reference) a copy of the reference notice.
 
@@ -765,7 +769,7 @@ Where the High Court remits an appeal to the Tribunal for rehearing and determin
 
 (6) At the same time as filing the respondent’s notice and the list in paragraph (4) the respondent must send to the referrer and any other respondent a copy of the notice.
 
-### 40. Procedure at the reference hearing
+### 40. Procedure at the reference hearing[^c-d62fed0d879ea02973860adcde4d220f]
 
 (1) After the notice of reference and the respondent’s notice have been filed, the Tribunal must convene a directions hearing.
 
@@ -809,6 +813,10 @@ Part 6 makes special provision for references that are brought by the Attorney G
 
 [^f00002]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53) as amended by Schedule 8 to the Tribunals, Courts and Enforcement Act [2008 c.15](https://www.legislation.gov.uk/ukpga/2008/15).
 
+[^c-084067920499dc3755335c5cef1d746e]: Commencement: Rule 1 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-db03a1f71c7c58b45466555e535cc645]: Commencement: Rule 2 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
 [^f00003]: Footnote: Sections 1A, 2A, 2B, 2C, 2D and Schedules 1B, 1C and 1D as inserted by the Charities Act [2006 c.50](https://www.legislation.gov.uk/ukpga/2006/50).
 
 [^f00004]: Footnote: [2006 c.50](https://www.legislation.gov.uk/ukpga/2006/50).
@@ -817,6 +825,82 @@ Part 6 makes special provision for references that are brought by the Attorney G
 
 [^f00006]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
+[^c-bde65ef634d9573b2b08b4c26488c5e1]: Commencement: Rule 3 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-aedaca6332ad39d3ad597f1ee7dfd986]: Commencement: Rule 4 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-eecee5e79767e4844d3badfefae91420]: Commencement: Rule 5 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-2b4d4d3bd8bda1ef7f31195cb892bc9c]: Commencement: Rule 6 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-28fd3bba2fbea093482de51943ba584e]: Commencement: Rule 7 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-7a675c3806f238e986ef946fb6dcf2d1]: Commencement: Rule 8 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-bda277fb83a0cde1a113a7e5302a7a64]: Commencement: Rule 9 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-5d448d7c072f3d938759b11097531df1]: Commencement: Rule 10 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-e9e97f2d209055caefb789b0c4194f82]: Commencement: Rule 11 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-af8dae391d8ac2726c7c210565cceac9]: Commencement: Rule 12 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-fdeffc4b97240108f9735e5e961f4abc]: Commencement: Rule 13 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-2de33964be19e850eb42a99974c5d9cd]: Commencement: Rule 14 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-2eb757fde91ffea7b130cf6b3f2cbcf3]: Commencement: Rule 15 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-bf5a70c1e7fdb3dbb54d394aa03c4d0c]: Commencement: Rule 16 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-42d0bf1552fde62a6a01dc1b72755473]: Commencement: Rule 17 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-1b99f2e5c8fc276ff211cbefa2ab4b03]: Commencement: Rule 18 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-268de3cee2ebbc7981f615bfb88ad645]: Commencement: Rule 19 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-a2b6e80bc0b5f8b4ebead98742d145b7]: Commencement: Rule 20 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-e474a09870e8d6d3bcc6efcdeb5ad898]: Commencement: Rule 21 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-a4ebd6fe71856a73fd9cf785230b9ce0]: Commencement: Rule 22 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-e78101395e56a068f6d417b5116f2f15]: Commencement: Rule 23 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-0e7c1c67de3db73769139ed7911cd68c]: Commencement: Rule 24 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-7191eb6f6f722adce6adc021c9167c33]: Commencement: Rule 25 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-9950f35def53a5ee6a0506c1630d64b5]: Commencement: Rule 26 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-ea287fde0e2ad8f5adc7c7bc007a3449]: Commencement: Rule 27 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
 [^f00007]: Footnote: [1981 c.54](https://www.legislation.gov.uk/ukpga/1981/54).
 
 [^f00008]: Footnote: [1996 c.17](https://www.legislation.gov.uk/ukpga/1996/17).
+
+[^c-a0e27d9190d22577ceb48ac334c9eac4]: Commencement: Rule 28 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-1883382447fa9983b2834ac3452882b4]: Commencement: Rule 29 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-566d3ac2739566b1a72f4c7f747b0807]: Commencement: Rule 30 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-0b436d4831d179b8121d87bf6f9a6542]: Commencement: Rule 31 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-53a83c10e04ebecd3dc742071a216137]: Commencement: Rule 32 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-35de3f796bf02b985598140273e0d0ab]: Commencement: Rule 33 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-c97804a1dafb7db2f62c7bc8c12d9780]: Commencement: Rule 34 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-214fa5862a0154bf176bc6ac0f8b31a3]: Commencement: Rule 35 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-288715417f3cd979cdfb262b6dd61bbe]: Commencement: Rule 36 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-fff2c52b35bc6e6254e498b460436d3c]: Commencement: Rule 37 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-dfbec75224418ef1795755d89c7ebe3b]: Commencement: Rule 38 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-897e312067c3be7913563d4997edc359]: Commencement: Rule 39 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)
+
+[^c-d62fed0d879ea02973860adcde4d220f]: Commencement: Rule 40 in force at 27.2.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/221/rule/1)

@@ -5,13 +5,13 @@ type: UnitedKingdomPublicGeneralAct
 category: primary
 status: revised-with-pending-changes
 made_date: '1974-07-31'
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/1974/40
 pdf_urls:
 - http://www.legislation.gov.uk/ukpga/1974/40/pdfs/ukpga_19740040_en.pdf
 - http://www.legislation.gov.uk/ukpga/1974/40/data.pdf
-pending_changes: 5
+pending_changes: 3
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,7 @@ summary: ''
 
 # Control of Pollution Act 1974
 
-> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

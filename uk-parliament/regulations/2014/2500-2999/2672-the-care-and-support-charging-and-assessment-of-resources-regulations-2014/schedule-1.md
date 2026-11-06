@@ -2,8 +2,8 @@
 title: The Care and Support (Charging and Assessment of Resources) Regulations 2014, SCHEDULE 1
 act: The Care and Support (Charging and Assessment of Resources) Regulations 2014
 section: schedule-1
-status: revised-with-pending-changes
-text_date: '2026-04-06'
+status: revised
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2014/2672/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Care and Support (Charging and Assessment of Resources) Regulations 2014, SCHEDULE 1
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2014/2672
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales.
 
@@ -238,6 +238,8 @@ sub-paragraph (4) does not apply to the adult.
 
 (2) In this paragraph, “course of study”, student and “student loan” have the same meaning as in the Income Support Regulations.
 
+**44A.**[^c-0138d7c2f952428f341f02831583f218] Any payment made under the Mother and Baby Institutions Payment Scheme established by the Irish Government under section 5 of the Mother and Baby Institutions Payment Scheme Act 2023 (Ireland).
+
 ### PART 2 — Special provisions relating to charitable or voluntary payments and certain pensions
 
 **45.**[^c-ed9ec0134bf1234fc4ee6ac5d5bf65d1] Paragraph 15 does not apply to any payment which is made or due to be made—
@@ -402,6 +404,8 @@ sub-paragraph (4) does not apply to the adult.
 [^f00053]: Footnote: Section 14F was inserted by section 115(1) of the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38).
 
 [^c-fb6296ef57ea5d6f8d39adc8a577a4d5]: Commencement: Sch. 1 para. 44 in force at 1.4.2015 in accordance with reg. 1
+
+[^c-0138d7c2f952428f341f02831583f218]: Textual amendment: [Sch. 1 para. 44A](https://www.legislation.gov.uk/uksi/2014/2672/schedule/1/paragraph/44A) inserted (30.10.2026) by [The Care and Support (Charging and Assessment of Resources) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/1028)](https://www.legislation.gov.uk/uksi/2026/1028), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1028/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/1028/regulation/2/2)
 
 [^c-ed9ec0134bf1234fc4ee6ac5d5bf65d1]: Commencement: Sch. 1 para. 45 in force at 1.4.2015 in accordance with reg. 1
 

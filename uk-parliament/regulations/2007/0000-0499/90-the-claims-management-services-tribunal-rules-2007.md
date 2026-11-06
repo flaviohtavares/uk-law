@@ -60,33 +60,33 @@ These Rules may be cited as the Claims Management Services Tribunal Rules 2007 a
 
 - “the 2000 Act” means the Financial Services and Markets Act 2000[^f00004];
 - “the 2006 Act” means the Compensation Act 2006;
-- “appeal” means an appeal to the Tribunal under section 13(1);
-- “appeal notice” means an appeal filed under rule 4(1);
-- “appellant” means a person who makes an appeal to the Tribunal;
-- “applicant” means an appellant who seeks permission to bring an appeal, or who appeals against, the decision of the Tribunal to the Court of Appeal;
-- “chairman” means the person who from time to time acts as chairman of the Tribunal in respect of an appeal;
-- “direction” includes any direction, summons or order given or made by the Tribunal;
-- “document” means information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include references to producing a copy of the information—
+- “**appeal**” means an appeal to the Tribunal under section 13(1);
+- “**appeal notice**” means an appeal filed under rule 4(1);
+- “**appellant**” means a person who makes an appeal to the Tribunal;
+- “**applicant**” means an appellant who seeks permission to bring an appeal, or who appeals against, the decision of the Tribunal to the Court of Appeal;
+- “**chairman**” means the person who from time to time acts as chairman of the Tribunal in respect of an appeal;
+- “**direction**” includes any direction, summons or order given or made by the Tribunal;
+- “**document**” means information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include references to producing a copy of the information—
   - (i) in legible form; or
   - (ii) in a form from which it can readily be produced in a legible form;
-- “file” means send to the Tribunal;
+- “**file**” means send to the Tribunal;
 - “member of the Tribunal staff” means a person appointed by the Lord Chancellor in accordance with paragraph 6 of Schedule 13 to the 2000 Act as applied by section 12(5) of the 2006 Act;
-- “party” means the appellant or the Regulator;
+- “**party**” means the appellant or the Regulator;
 - “President” means the President of the Tribunal when acting under section 12(2)(b);
 - “Regulations” means the Compensation (Claims Management Services) Regulations 2006;
-- “Regulator” means the person exercising the functions of the Regulator under section 5(9);
-- “Regulator’s decision” means the decision of the Regulator which is the subject matter of the appeal;
-- “register” means the register maintained in accordance with rule 32;
-- “reply” means a reply filed by the appellant under rule 6(1);
-- “representations” means written representations or (with the consent of the Tribunal, or at its request) oral representations;
-- “response document” means—
+- “**Regulator**” means the person exercising the functions of the Regulator under section 5(9);
+- “**Regulator’s decision**” means the decision of the Regulator which is the subject matter of the appeal;
+- “**register**” means the register maintained in accordance with rule 32;
+- “**reply**” means a reply filed by the appellant under rule 6(1);
+- “**representations**” means written representations or (with the consent of the Tribunal, or at its request) oral representations;
+- “**response document**” means—
   - (i) in relation to the Regulator, his statement of case; and
   - (ii) in relation to the appellant, his reply;
-- “secretary” means the person from time to time appointed as secretary to the Tribunal, being a member of the Tribunal’s staff;
-- “statement of case” means a statement filed by the Regulator under rule 5(1);
-- “supplementary statement” means a statement that is supplementary to a response document and filed in accordance with a direction given under rule 12(f);
+- “**secretary**” means the person from time to time appointed as secretary to the Tribunal, being a member of the Tribunal’s staff;
+- “**statement of case**” means a statement filed by the Regulator under rule 5(1);
+- “**supplementary statement**” means a statement that is supplementary to a response document and filed in accordance with a direction given under rule 12(f);
 - “Tribunal” means the Claims Management Services Tribunal established under section 12; and
-- “working day” means any day except a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday.
+- “**working day**” means any day except a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday.
 
 (3) Unless the context requires otherwise, anything permitted or required by these Rules to be done by a party may be done by any representative of that party.
 
@@ -389,8 +389,8 @@ Directions given by the Tribunal may in particular—
 
 (1) In this rule—
 
-- “effective decision” means a Regulator’s decision, other than one to refuse to grant authorisation in accordance with regulation 13(5), which is not suspended or, in the case of a decision which is partly suspended, such a decision to the extent that it is not suspended; and
-- “suspension direction” means a direction under paragraph (2).
+- “**effective decision**” means a Regulator’s decision, other than one to refuse to grant authorisation in accordance with regulation 13(5), which is not suspended or, in the case of a decision which is partly suspended, such a decision to the extent that it is not suspended; and
+- “**suspension direction**” means a direction under paragraph (2).
 
 (2) If the appellant applies to the Tribunal under this rule, the Tribunal may direct that the effect of an effective decision is suspended or further suspended, wholly or partly.
 
@@ -526,7 +526,7 @@ the Tribunal may (subject to its power to give a direction under rule 15(7)) det
 
 ### 24. Public hearings and directions for private hearings
 
-(1) In this rule, “hearing” means any hearing under these Rules except for the hearing of any application made to the Tribunal without notice to the other party.
+(1) In this rule, “**hearing**” means any hearing under these Rules except for the hearing of any application made to the Tribunal without notice to the other party.
 
 (2) Subject to the following paragraphs of this rule, all hearings must be in public.
 
@@ -564,7 +564,7 @@ if the Tribunal is satisfied that a hearing in private would not prejudice the i
 
 (2) If in any particular case the Tribunal is satisfied that there are good and sufficient reasons for doing so, it may refuse to permit a person to assist or represent a party at the hearing.
 
-(3) In this rule, “hearing” means any hearing under these Rules.
+(3) In this rule, “**hearing**” means any hearing under these Rules.
 
 ### 26. Procedure at hearings
 
@@ -760,8 +760,8 @@ Any matter (other than the determination of an appeal or the setting aside of a 
 (1) This rule applies to any notice sent under these Rules, and in this rule—
 
 - “send” to a person includes deliver or give to, or serve on, that person;
-- “notice” includes any notice or other information required or authorised by these Rules to be sent or delivered to, or served on, any person; and
-- “recipient” means a person to, or on whom, any notice is required or authorised to be sent for the purposes of these Rules.
+- “**notice**” includes any notice or other information required or authorised by these Rules to be sent or delivered to, or served on, any person; and
+- “**recipient**” means a person to, or on whom, any notice is required or authorised to be sent for the purposes of these Rules.
 
 (2) A notice may be sent—
 
@@ -804,7 +804,7 @@ Any matter (other than the determination of an appeal or the setting aside of a 
 
 (9) Where this paragraph applies the chairman may dispense with service on the recipient or may make an order for alternative service on such other person or in such other form (whether by advertisement in a newspaper or otherwise) as the chairman may think fit.
 
-(10) In this rule, “bank holiday” means a day that is specified in, or appointed under, the Banking and Financial Dealings Act 1971[^f00005].
+(10) In this rule, “**bank holiday**” means a day that is specified in, or appointed under, the Banking and Financial Dealings Act 1971[^f00005].
 
 Signed on behalf of the Lord Chancellor
 

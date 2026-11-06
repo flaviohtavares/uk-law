@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 121
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '121'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/121
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 121
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Interpretation of regulation 120
+## 121. Interpretation of regulation 120[^c-417289692f126353a8b686489989120e]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) For the purposes of regulation 120—
 
@@ -48,5 +54,7 @@ summary: ''
 - (h) “**specified designated distance learning course**” means the course in respect of which the person is applying for support or, where the student’s status as an eligible distance learning student has been transferred to the current designated distance learning course as a result of one or more transfers of that status by the Secretary of State from a distance learning course (the “initial course”) in connection with which the Secretary of State determined the student to be an eligible distance learning student pursuant to regulations made under section 22 of the 1998 Act, the specified designated distance learning course means the initial course.
 
 ## Annotations
+
+[^c-417289692f126353a8b686489989120e]: Commencement: Reg. 121 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00071]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21); section 3 was amended by the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 24.

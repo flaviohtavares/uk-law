@@ -3,15 +3,15 @@ title: The Mental Health (Approval of Persons to be Approved Mental Health Profe
 id: wsi/2008/2436
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-09-15'
-text_date: null
-extent: null
+text_date: '2008-09-15'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2008/2436
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2008/2436/pdfs/wsi_20082436_mi.pdf
-- http://www.legislation.gov.uk/wsi/2008/2436/made/data.pdf
-pending_changes: 9
+- http://www.legislation.gov.uk/wsi/2008/2436/data.pdf
+pending_changes: 24
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The Mental Health (Approval of Persons to be Approved Mental Health Professionals) (Wales) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (24).** Text as at 2008-09-15. See https://www.legislation.gov.uk/changes/affected/wsi/2008/2436
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 2436 (W.209)
 
@@ -41,13 +47,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred upon them by section 114 of the Mental Health Act 1983[^f00001], hereby make the following Regulations:
 
-## 1. Title, commencement and application
+## 1. Title, commencement and application[^c-2cac721c193545907f79a12e1ac58302]
 
 (1) The title of these Regulations is the Mental Health (Approval of Persons to be Approved Mental Health Professionals) (Wales) Regulations 2008 and they come into force on 3 November 2008.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation
+## 2. Interpretation[^c-aac9e9f78f5e29cfa7b2075c6807b3ae]
 
 In these Regulations—
 
@@ -60,7 +66,7 @@ In these Regulations—
 - “professional requirements” (“*gofynion proffesiynol*”) means the requirements set out in Schedule 1;
 - “relevant competencies” (“*cymwyseddau perthnasol*”) means the skills set out in Schedule 2.
 
-## 3. Granting approval
+## 3. Granting approval[^c-673cfa2d05abc71deabc1735e98fb64f]
 
 (1) Subject to paragraph (2), an LSSA may only grant approval to a person to be an AMHP, where that person is not already approved as an AMHP under these Regulations, or has not been so approved within the previous five years, if that person–
 
@@ -75,11 +81,11 @@ In these Regulations—
 
 (3) In determining whether a person seeking approval as an AMHP possesses the relevant competencies as required under paragraphs (1)(b) or (2)(b) above, the LSSA must have regard to the references of that person.
 
-## 4. Period of approval
+## 4. Period of approval[^c-f04100577e546e3638a53455fb280be2]
 
 Subject to regulation 5, an LSSA may approve a person to be an AMHP for a period of up to five years.
 
-## 5. End of approval
+## 5. End of approval[^c-8eddfa8ec79e6dd7b72ab8025232cbab]
 
 (1) Subject to paragraph (2) below, the approval of an AMHP will cease as soon as the period of the approval has expired.
 
@@ -98,7 +104,7 @@ Subject to regulation 5, an LSSA may approve a person to be an AMHP for a period
 
 (5) Where an approving LSSA ends the approval of an AMHP under paragraph (2), that LSSA must immediately notify that person in writing of the date of the ending of and the reasons for ending that approval.
 
-## 6. Suspension of or Conditions attaching to Registration
+## 6. Suspension of or Conditions attaching to Registration[^c-1dd09fa9497f47e1a2964e6b630c2ca4]
 
 (1) If at any time after being approved, an AMHP’s registration or listing in accordance with fulfilment of the professional requirements as required under regulation 3(1) is suspended, the approving LSSA must suspend that person’s approval for the duration of the suspension of his or her registration or listing.
 
@@ -106,7 +112,7 @@ Subject to regulation 5, an LSSA may approve a person to be an AMHP for a period
 
 (3) Where the suspension of approval has ended, the approval will continue to run for any unexpired period of approval, unless the approving LSSA ends it earlier in accordance with regulation 5.
 
-## 7. Conditions of Approval
+## 7. Conditions of Approval[^c-f8db6a38d6c9dd46416bc5f555779f5d]
 
 Any approval is subject to the following conditions—
 
@@ -117,7 +123,7 @@ Any approval is subject to the following conditions—
 - (e) the AMHP must notify the approving LSSA immediately if he or she no longer meets any of the requirements set out in regulation 3 or regulation 8 as the case may be;
 - (f) the AMHP must notify the approving LSSA immediately in the event of him or her being suspended from registration or listing, as the case may be, or having conditions attached to the same.
 
-## 8. Reapproval
+## 8. Reapproval[^c-a3a0ab537cf6fcbfa85eb16c47bddcb5]
 
 (1) An LSSA may grant approval of a person who has previously been approved within Wales, such approval having been in force within the previous five years prior to the proposed date of reapproval, in accordance with these Regulations where that person–
 
@@ -126,7 +132,7 @@ Any approval is subject to the following conditions—
 
 (2) In determining whether the person seeking approval as an AMHP possesses the relevant competencies as required under paragraph (1)(b) above, the LSSA must have regard to the references of that person.
 
-## 9. Monitoring and Records
+## 9. Monitoring and Records[^c-94ce9536eea24272150384a2742fb5ec]
 
 (1) The approving LSSA must keep a record of all persons that it approves as AMHPs, including–
 
@@ -151,7 +157,7 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 Regulations 2 and 3
 
-**1.** In order to fulfil the professional requirements, a person must be one of the following—
+**1.**[^c-d1485e51ea1ba95de6ea804f9264578f] In order to fulfil the professional requirements, a person must be one of the following—
 
 - (a) a social worker registered with the Care Council for Wales;
 - (b) a first level nurse, registered in Sub-Part 1 of the registered maintained under article 5 of the Nurses and Midwifery Order 2001[^f00003], with the inclusion of an entry indicating that his or her field of practice is mental health or learning disabilities nursing;
@@ -162,86 +168,86 @@ Regulations 2 and 3
 
 Regulation 3(4) and (5)
 
-### 1.1. Key Competence Area 1: Values-based Practice
+### 1.1. Key Competence Area 1: Values-based Practice[^c-1a75422d8fd5dafce7d52aa0956cee88]
 
 The ability to identify what constitutes least restrictive health and social care for those dealt with or who may be dealt with under the Act;
 
-**1.2.** The ability to identify, challenge and, where practicable, redress discrimination and inequality in all its forms in relation to AMHP practice;
+**1.2.**[^c-1a75422d8fd5dafce7d52aa0956cee88] The ability to identify, challenge and, where practicable, redress discrimination and inequality in all its forms in relation to AMHP practice;
 
-**1.3.** Understanding and respect for diversity and the ability to identify and counter any decision which may be based upon oppressive practice;
+**1.3.**[^c-1a75422d8fd5dafce7d52aa0956cee88] Understanding and respect for diversity and the ability to identify and counter any decision which may be based upon oppressive practice;
 
-**1.4.** Understanding and respect for individuals' qualities, abilities and diverse backgrounds;
+**1.4.**[^c-1a75422d8fd5dafce7d52aa0956cee88] Understanding and respect for individuals' qualities, abilities and diverse backgrounds;
 
-**1.5.** Race and culturally-sensitive understanding in the application of knowledge of mental health legislation;
+**1.5.**[^c-1a75422d8fd5dafce7d52aa0956cee88] Race and culturally-sensitive understanding in the application of knowledge of mental health legislation;
 
-**1.6.** Consideration of the needs of individuals for whom Welsh is their language of choice;
+**1.6.**[^c-1a75422d8fd5dafce7d52aa0956cee88] Consideration of the needs of individuals for whom Welsh is their language of choice;
 
-**1.7.** The ability to promote the rights, dignity and self determination of patients consistent with their own needs and wishes, to enable them to contribute to the decisions made affecting their quality of life and liberty.
+**1.7.**[^c-1a75422d8fd5dafce7d52aa0956cee88] The ability to promote the rights, dignity and self determination of patients consistent with their own needs and wishes, to enable them to contribute to the decisions made affecting their quality of life and liberty.
 
-### 2.1. Key Competence Area 2: Application of Knowledge: Legislation and Policy
+### 2.1. Key Competence Area 2: Application of Knowledge: Legislation and Policy[^c-e6831879ce579b11cb8a11e5599b5d41]
 
 Appropriate knowledge of and ability to apply in practice—
 
 - (a) mental health legislation, related codes of practice and national and local policy guidance, and
 - (b) relevant parts of other legislation, codes of practice, national and local policy guidance, in particular the Children Act 1989[^f00006], the Children Act 2004[^f00007], the Human Rights Act 1998[^f00008] and the Mental Capacity Act 2005[^f00009];
 
-**2.2.** Application of knowledge of Welsh language legislation and policy;
+**2.2.**[^c-e6831879ce579b11cb8a11e5599b5d41] Application of knowledge of Welsh language legislation and policy;
 
-**2.3.** An explicit awareness of the legal position and accountability of AMHPs in relation to the Act, any employing organisation and the authority on whose behalf they are acting;
+**2.3.**[^c-e6831879ce579b11cb8a11e5599b5d41] An explicit awareness of the legal position and accountability of AMHPs in relation to the Act, any employing organisation and the authority on whose behalf they are acting;
 
-**2.4.** The ability to evaluate critically local and national policy and relevant case law to inform AMHP practice;
+**2.4.**[^c-e6831879ce579b11cb8a11e5599b5d41] The ability to evaluate critically local and national policy and relevant case law to inform AMHP practice;
 
-**2.5.** The ability to base AMHP practice on a critical evaluation of a range of research relevant to evidence based practice, including that on the impact of the experience of discrimination on mental health.
+**2.5.**[^c-e6831879ce579b11cb8a11e5599b5d41] The ability to base AMHP practice on a critical evaluation of a range of research relevant to evidence based practice, including that on the impact of the experience of discrimination on mental health.
 
-### 3.1. Key Competence Area 3: Application of Knowledge: Mental Disorder
+### 3.1. Key Competence Area 3: Application of Knowledge: Mental Disorder[^c-8ab6fd3ec0228e55d9213b8f62a6d008]
 
 Critical and applied understanding of a range of models of mental health and mental disorder, including the contribution of social, physical and development factors;
 
-**3.2.** Critical and applied understanding of the social perspective on mental disorder and mental health needs in working with patients, relatives, carers and other professionals;
+**3.2.**[^c-8ab6fd3ec0228e55d9213b8f62a6d008] Critical and applied understanding of the social perspective on mental disorder and mental health needs in working with patients, relatives, carers and other professionals;
 
-**3.3.** Critical and applied understanding of the implications of mental disorder for patients, children, families and carers;
+**3.3.**[^c-8ab6fd3ec0228e55d9213b8f62a6d008] Critical and applied understanding of the implications of mental disorder for patients, children, families and carers;
 
-**3.4.** Critical and applied understanding of the implications of a range of relevant treatments and interventions for patients, children, families and carers;
+**3.4.**[^c-8ab6fd3ec0228e55d9213b8f62a6d008] Critical and applied understanding of the implications of a range of relevant treatments and interventions for patients, children, families and carers;
 
-**3.5.** Critical understanding of the resources that might be available to provide an alternative to admission to hospital.
+**3.5.**[^c-8ab6fd3ec0228e55d9213b8f62a6d008] Critical understanding of the resources that might be available to provide an alternative to admission to hospital.
 
-### 4.1. Key Competence Area 4 – Application of Skills: Effective Partnership Working
+### 4.1. Key Competence Area 4 – Application of Skills: Effective Partnership Working[^c-f7744540ae985c4c2be647ce061d1ee4]
 
 The ability to articulate, and demonstrate in practice, the social perspective on mental disorder and mental health needs;
 
-**4.2.** The ability to communicate appropriately with, and to establish effective relationships with, patients, relatives and carers;
+**4.2.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to communicate appropriately with, and to establish effective relationships with, patients, relatives and carers;
 
-**4.3.** The ability to articulate the role of the AMHP in the course of contributing to effective inter-agency and inter professional working;
+**4.3.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to articulate the role of the AMHP in the course of contributing to effective inter-agency and inter professional working;
 
-**4.4.** The ability to use networks and community groups to influence collaborative working with a range of individuals, agencies and advocates;
+**4.4.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to use networks and community groups to influence collaborative working with a range of individuals, agencies and advocates;
 
-**4.5.** The ability to contribute effectively to planning and implementing options for care, such as alternatives to compulsory admission, discharge and aftercare;
+**4.5.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to contribute effectively to planning and implementing options for care, such as alternatives to compulsory admission, discharge and aftercare;
 
-**4.6.** The ability to recognise, assess and manage effectively risk in the context of the AMHP role;
+**4.6.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to recognise, assess and manage effectively risk in the context of the AMHP role;
 
-**4.7.** The ability to manage effectively difficult situations of anxiety, risk and conflict, reflecting on the potential impact of such situations on patients and others;
+**4.7.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to manage effectively difficult situations of anxiety, risk and conflict, reflecting on the potential impact of such situations on patients and others;
 
-**4.8.** The ability to balance the inherent power in the AMHP role with the objectives of empowering patients;
+**4.8.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to balance the inherent power in the AMHP role with the objectives of empowering patients;
 
-**4.9.** The ability to plan, negotiate and, manage, compulsory admission to hospital, reception into guardianship or arrangements for supervised community treatment;
+**4.9.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to plan, negotiate and, manage, compulsory admission to hospital, reception into guardianship or arrangements for supervised community treatment;
 
-**4.10.** The ability to manage and co-ordinate effectively the relevant legal and practical processes including the involvement of other professionals as well as patients, relatives and carers;
+**4.10.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to manage and co-ordinate effectively the relevant legal and practical processes including the involvement of other professionals as well as patients, relatives and carers;
 
-**4.11.** The ability to balance and manage the competing requirements of confidentiality and effective information sharing to the benefit of patients and other stakeholders.
+**4.11.**[^c-f7744540ae985c4c2be647ce061d1ee4] The ability to balance and manage the competing requirements of confidentiality and effective information sharing to the benefit of patients and other stakeholders.
 
-### 5.1. Key Competence Area 5: Application of Skills: Professional Decision Making
+### 5.1. Key Competence Area 5: Application of Skills: Professional Decision Making[^c-b500a69d4603f1e20a5802d9f7e1b0d2]
 
 The ability to assert a social perspective in decision making and to make properly informed, independent decisions;
 
-**5.2.** The ability to obtain, analyse and share appropriate information from individuals and other resources in order to manage the decision-making process;
+**5.2.**[^c-b500a69d4603f1e20a5802d9f7e1b0d2] The ability to obtain, analyse and share appropriate information from individuals and other resources in order to manage the decision-making process;
 
-**5.3.** The ability to provide reasoned and clear oral and written reports to promote effective, accountable and independent AMHP decision making;
+**5.3.**[^c-b500a69d4603f1e20a5802d9f7e1b0d2] The ability to provide reasoned and clear oral and written reports to promote effective, accountable and independent AMHP decision making;
 
-**5.4.** The ability to present a case at a legal hearing;
+**5.4.**[^c-b500a69d4603f1e20a5802d9f7e1b0d2] The ability to present a case at a legal hearing;
 
-**5.5.** The ability to exercise their functions as an AMHP independently, and with authority and autonomy;
+**5.5.**[^c-b500a69d4603f1e20a5802d9f7e1b0d2] The ability to exercise their functions as an AMHP independently, and with authority and autonomy;
 
-**5.6.** The ability to evaluate the outcomes of interventions with patients, carers and others, including the identification of any unmet need.
+**5.6.**[^c-b500a69d4603f1e20a5802d9f7e1b0d2] The ability to evaluate the outcomes of interventions with patients, carers and others, including the identification of any unmet need.
 
 (This note is not part of the Regulations)
 
@@ -271,13 +277,37 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Section 114 was substituted by section 18 of the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12). The Secretary of State has issued separate regulations in relation to England.
 
+[^c-2cac721c193545907f79a12e1ac58302]: Commencement: Reg. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-aac9e9f78f5e29cfa7b2075c6807b3ae]: Commencement: Reg. 2 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
 [^f00002]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^c-673cfa2d05abc71deabc1735e98fb64f]: Commencement: Reg. 3 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-f04100577e546e3638a53455fb280be2]: Commencement: Reg. 4 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-8eddfa8ec79e6dd7b72ab8025232cbab]: Commencement: Reg. 5 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-1dd09fa9497f47e1a2964e6b630c2ca4]: Commencement: Reg. 6 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-f8db6a38d6c9dd46416bc5f555779f5d]: Commencement: Reg. 7 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-a3a0ab537cf6fcbfa85eb16c47bddcb5]: Commencement: Reg. 8 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-94ce9536eea24272150384a2742fb5ec]: Commencement: Reg. 9 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-d1485e51ea1ba95de6ea804f9264578f]: Commencement: Sch. 1 para. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [2002/253](https://www.legislation.gov.uk/uksi/2002/253).
 
 [^f00004]: Footnote: S.I. [2002/254](https://www.legislation.gov.uk/uksi/2002/254).
 
 [^f00005]: Footnote: The British Psychological Society is a Royal Charter body, registered as a charity in England and Wales No.229642 and is at St Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
+
+[^c-1a75422d8fd5dafce7d52aa0956cee88]: Commencement: Sch. 2 para. 1 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-e6831879ce579b11cb8a11e5599b5d41]: Commencement: Sch. 2 para. 2 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
 
 [^f00006]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -286,3 +316,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 [^f00008]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
 [^f00009]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^c-8ab6fd3ec0228e55d9213b8f62a6d008]: Commencement: Sch. 2 para. 3 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-f7744540ae985c4c2be647ce061d1ee4]: Commencement: Sch. 2 para. 4 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)
+
+[^c-b500a69d4603f1e20a5802d9f7e1b0d2]: Commencement: Sch. 2 para. 5 in force at 3.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2436/regulation/1/1)

@@ -3,16 +3,16 @@ title: Marine (Scotland) Act 2010
 id: asp/2010/5
 type: ScottishAct
 category: primary
-status: revised-with-pending-changes
+status: revised
 made_date: '2010-03-10'
-text_date: '2026-08-09'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2010/5
 pdf_urls:
 - http://www.legislation.gov.uk/asp/2010/5/pdfs/aspen_20100005_en.pdf
 - http://www.legislation.gov.uk/asp/2010/5/pdfs/asp_20100005_en.pdf
 - http://www.legislation.gov.uk/asp/2010/5/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # Marine (Scotland) Act 2010
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-08-09. See https://www.legislation.gov.uk/changes/affected/asp/2010/5
+> Text as at 2026-10-26.
 >
 > Extent: Scotland.
 

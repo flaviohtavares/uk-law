@@ -3,16 +3,16 @@ title: The Home Loss Payments (Prescribed Amounts) (England) Regulations 2008
 id: uksi/2008/1598
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-19'
-text_date: null
-extent: null
+text_date: '2008-06-19'
+extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2008/1598
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1598/pdfs/uksiem_20081598_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/1598/pdfs/uksi_20081598_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1598/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/1598/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Home Loss Payments (Prescribed Amounts) (England) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2008-06-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1598
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2008 No. 1598
 
@@ -44,13 +50,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 30(5) of the Land Compensation Act 1973[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application
+## 1. Citation, commencement and application[^c-b89f44942ea32e8b27916d5bd84f38ea]
 
 (1) These Regulations may be cited as the Home Loss Payments (Prescribed Amounts) (England) Regulations 2008 and shall come into force on 1st September 2008.
 
 (2) These Regulations shall apply in relation to cases of displacement in England only.
 
-## 2. Revision of prescribed amounts for home loss payment
+## 2. Revision of prescribed amounts for home loss payment[^c-7b5896457f6dad4122f1f77d2dd5eba7]
 
 (1) This regulation applies where the date of displacement is on or after 1st September 2008.
 
@@ -61,7 +67,7 @@ The Secretary of State, in exercise of the powers conferred by section 30(5) of 
 
 (3) For the purposes of section 30(2) of the Land Compensation Act 1973, the prescribed amount of home loss payment shall be £4,700.
 
-## 3. Revocation and savings
+## 3. Revocation and savings[^c-0814e9546878459e71828ded33b48a1c]
 
 (1) Subject to paragraph (2), the Home Loss Payments (Prescribed Amounts) (England) Regulations 2007[^f00003] are revoked.
 
@@ -103,6 +109,12 @@ A full impact assessment has not been produced for these Regulations, as they pu
 
 [^f00001]: Footnote: [1973 c.26](https://www.legislation.gov.uk/ukpga/1973/26). Section 30 was substituted by section 68(3) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
+[^c-b89f44942ea32e8b27916d5bd84f38ea]: Commencement: Reg. 1 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1598/regulation/1/1)
+
+[^c-7b5896457f6dad4122f1f77d2dd5eba7]: Commencement: Reg. 2 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1598/regulation/1/1)
+
 [^f00002]: Footnote: For the definition of “home loss payment”, *see* section 29(1) of the Land Compensation Act 1973.
+
+[^c-0814e9546878459e71828ded33b48a1c]: Commencement: Reg. 3 in force at 1.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1598/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2007/1750](https://www.legislation.gov.uk/uksi/2007/1750).

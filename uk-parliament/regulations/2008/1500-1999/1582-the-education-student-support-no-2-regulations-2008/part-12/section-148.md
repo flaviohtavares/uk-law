@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 148
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '148'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/148
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 148
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Overpayments
+## 148. Overpayments[^c-1f0ae5156651eaa7f844c73b6bdf7bcb]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Any overpayment of a grant in respect of fees is recoverable by the Secretary of State from the academic authority.
 
@@ -45,3 +51,7 @@ summary: ''
 - (b) a payment of the disabled part-time students’ allowance in respect of specialist equipment is made to the student after the period of eligibility terminated.
 
 (10) Where there is an overpayment of the disabled part-time students’ allowance, the Secretary of State may accept the return of specialist equipment purchased with the grant by way of recovery of all or part of the overpayment if the Secretary of State considers it is appropriate to do so.
+
+## Annotations
+
+[^c-1f0ae5156651eaa7f844c73b6bdf7bcb]: Commencement: Reg. 148 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

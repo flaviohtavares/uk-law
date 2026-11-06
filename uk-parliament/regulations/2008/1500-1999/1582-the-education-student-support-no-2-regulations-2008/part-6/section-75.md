@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 75
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '75'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/75
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 75
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Students falling into more than one category
+## 75. Students falling into more than one category[^c-474dcf1257dde23d7023b0f63d3fd794]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 Where an eligible student falls into more than one of the categories set out in regulation 82 in the course of the academic year—
 
@@ -25,3 +31,7 @@ Where an eligible student falls into more than one of the categories set out in 
 - (e) the category which applies to a quarter is—
   - (i) the category into which the student falls for the longer or longest period in that quarter; or
   - (ii) if the student falls into more than one category for an equal period in that quarter, the category with the higher or highest rate of loan for living costs for the academic year.
+
+## Annotations
+
+[^c-474dcf1257dde23d7023b0f63d3fd794]: Commencement: Reg. 75 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

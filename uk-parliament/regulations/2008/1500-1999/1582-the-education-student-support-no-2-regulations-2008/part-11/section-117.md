@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 117
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '117'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/117
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 117
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Designated distance learning courses
+## 117. Designated distance learning courses[^c-7fad646982c146680ff4f3f2fb6c1aed]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) A course is designated for the purposes of section 22(1) of the 1998 Act and regulation 115 if it is designated by the Secretary of State under this regulation.
 
@@ -43,3 +49,7 @@ summary: ''
 - (a) it leads to the award of a professional qualification;
 - (b) a first degree (or equivalent qualification) would normally be required for entry to a course leading to the award of that professional qualification; and
 - (c) the current course begins on or after 1st September 2009.
+
+## Annotations
+
+[^c-7fad646982c146680ff4f3f2fb6c1aed]: Commencement: Reg. 117 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

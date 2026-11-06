@@ -3,16 +3,16 @@ title: The Postal Services Regulated Providers (Redress Scheme) Order 2008
 id: uksi/2008/2267
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-08-16'
-text_date: null
-extent: null
+text_date: '2008-08-16'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2267
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2267/pdfs/uksiem_20082267_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2267/pdfs/uksi_20082267_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2267/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/2267/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,13 @@ summary: ''
 
 # The Postal Services Regulated Providers (Redress Scheme) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2008-08-16. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2267
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 2008 No. 2267
 
@@ -48,11 +54,11 @@ In accordance with section 47(4) of that Act, he has consulted the Postal Servic
 
 In accordance with section 47(7) of that Act he is satisfied that there is at least one qualifying redress scheme in place which regulated providers will be eligible to join and membership of which will satisfy the requirement imposed by this Order.
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-34eecfbe6a7b680bd264b862bacdd4e6]
 
 This Order may be cited as the Postal Services Regulated Providers (Redress Scheme) Order 2008 and shall come into force on 1st October 2008.
 
-## 2. Interpretation
+## 2. Interpretation[^c-fd895cd4c76d08369f4d3c8603e306fe]
 
 In this Order—
 
@@ -64,7 +70,7 @@ In this Order—
 - “regulated provider” means a person holding a licence under Part 2 of the Postal Services Act 2000[^f00003] who provides relevant postal services to a relevant consumer; and
 - “relevant consumer” means a person who is a consumer in relation to relevant postal services except to the extent that the consumer is a party to a contract for the provision of relevant postal services.
 
-## 3. Obligation to join a redress scheme
+## 3. Obligation to join a redress scheme[^c-5a143ec4bbe2805a5fabf8a19eeafa07]
 
 A regulated provider must be a member of a qualifying redress scheme in relation to consumer complaints about the provision of a relevant postal service.
 
@@ -96,4 +102,10 @@ An Impact Assessment of the effect that this Order will have on the costs to bus
 
 [^f00002]: Footnote: The Postal Services Commission was established under section 1 of the Postal Services Act [2000 (c.26)](https://www.legislation.gov.uk/ukpga/2000/26).
 
+[^c-34eecfbe6a7b680bd264b862bacdd4e6]: Commencement: Art. 1 in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2267/article/1)
+
+[^c-fd895cd4c76d08369f4d3c8603e306fe]: Commencement: Art. 2 in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2267/article/1)
+
 [^f00003]: Footnote: [2000 c.26](https://www.legislation.gov.uk/ukpga/2000/26).
+
+[^c-5a143ec4bbe2805a5fabf8a19eeafa07]: Commencement: Art. 3 in force at 1.10.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2267/article/1)

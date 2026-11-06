@@ -63,7 +63,7 @@ Rule 2(2) is amended as follows—
 - (c) in the definition of “Court”, after the entry “The Supreme Court”, insert “The Court of Protection”;
 - (d) after the definition of “Court Funds Office Account”, insert–
 
-  > - “Deputy” means, in relation to a person who lacks capacity, a person–
+  > - “**Deputy**” means, in relation to a person who lacks capacity, a person–
   >   - (a) appointed by the Court under section 16(2)(b) of the 2005 Act to make decisions on that person’s behalf; or
   >   - (b) deemed to be so appointed by virtue of paragraph 1 of Schedule 5 to that Act (existing receivers);
 
@@ -71,7 +71,7 @@ Rule 2(2) is amended as follows—
 - (e) in the definition of the “Employment Appeal Tribunal”, for the words “under section 87 of the Employment Protection Act 1975” substitute “by the Employment Tribunals Act 1996[^f00003]”;
 - (f) after the definition of “Interest bearing account”, insert–
 
-  > - “International money transfer” means a method of payment by which funds are transferred from a bank in the United Kingdom to a bank outside the United Kingdom by means of an automated system;
+  > - “**International money transfer**” means a method of payment by which funds are transferred from a bank in the United Kingdom to a bank outside the United Kingdom by means of an automated system;
 
   ;
 - (g) in the definition of “Master”, omit the words “or Master of the Court of Protection”;
@@ -81,7 +81,7 @@ Rule 2(2) is amended as follows—
 - (k) in the definition of “Person under a disability”, for the word “patient”, substitute “person who lacks capacity”; and
 - (l) after the definition of “Person under a disability”, insert–
 
-  > - “Person who lacks capacity” means a person who–
+  > - “**Person who lacks capacity**” means a person who–
   >   - (a) immediately before 1 October 2007, was a patient within the meaning of Part VII of the Mental Health Act 1983 (as that Act was in force immediately prior to that date); or
   >   - (b) a court has found lacks capacity within the meaning of the 2005 Act and whose lack of capacity relates (directly or indirectly) to funds in court held (or to be held) on his behalf;
 
@@ -91,7 +91,7 @@ Rule 2(2) is amended as follows—
 
 > (2A) Where two or more deputies are appointed in relation to a person who lacks capacity, in these Rules—
 >
-> - (i) the word “deputy” is to be construed as a reference to those deputies acting jointly if and to the extent that joint action is required by the terms of their appointment; and
+> - (i) the word “**deputy**” is to be construed as a reference to those deputies acting jointly if and to the extent that joint action is required by the terms of their appointment; and
 > - (ii) any rule permitting the Accountant General to refuse to–
 >   - (a) follow a direction given by; or
 >   - (b) undertake any other act at the request of,
@@ -143,7 +143,7 @@ Rule 2(2) is amended as follows—
 
   > (3) Paragraph (2) does not apply to money under the control of or subject to an order of the Court of Protection.
   >
-  > (4) In paragraphs (5) to (7), “investment manager” means a person appointed by a deputy to make decisions as to the investment of money held in court on behalf of a person who lacks capacity.
+  > (4) In paragraphs (5) to (7), “**investment manager**” means a person appointed by a deputy to make decisions as to the investment of money held in court on behalf of a person who lacks capacity.
   >
   > (5) Money under the control of or subject to an order of the Court of Protection may be invested or reinvested by the Accountant General in such investments–
   >
@@ -227,7 +227,7 @@ Rule 2(2) is amended as follows—
 
 > **43A. Payment of funeral expenses out of funds in court**
 >
-> (1) In this rule and rule 43B, “the deceased” means a person–
+> (1) In this rule and rule 43B, “**the deceased**” means a person–
 >
 > - (i) who immediately prior to his death was entitled to a fund in court in his own right;
 > - (ii) in respect of whom–

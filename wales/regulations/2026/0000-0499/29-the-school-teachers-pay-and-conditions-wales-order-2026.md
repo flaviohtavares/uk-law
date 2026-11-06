@@ -3,15 +3,15 @@ title: The School Teachers’ Pay and Conditions (Wales) Order 2026
 id: wsi/2026/29
 type: WelshStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2026-02-04'
-text_date: null
-extent: null
+text_date: '2026-02-04'
+extent: E+W
 source_url: https://www.legislation.gov.uk/wsi/2026/29
 pdf_urls:
 - http://www.legislation.gov.uk/wsi/2026/29/pdfs/wsi_20260029_mi.pdf
-- http://www.legislation.gov.uk/wsi/2026/29/made/data.pdf
-pending_changes: 0
+- http://www.legislation.gov.uk/wsi/2026/29/data.pdf
+pending_changes: 4
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -19,7 +19,13 @@ summary: ''
 
 # The School Teachers’ Pay and Conditions (Wales) Order 2026
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-02-04. See https://www.legislation.gov.uk/changes/affected/wsi/2026/29
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
 
 2026 No. 29
 
@@ -39,7 +45,7 @@ The Welsh Ministers, in the exercise of the powers conferred on the Secretary of
 
 The Welsh Ministers in accordance with section 126[^f00003] of that Act have consulted such of the persons and bodies referred to in that section as appeared to the Welsh Ministers to be appropriate.
 
-## 1. Title, coming into force, application and interpretation
+## 1. Title, coming into force, application and interpretation[^c-e901c51bb1ffc4bac911baa9dfcdbad4]
 
 (1) The title of this Order is the School Teachers’ Pay and Conditions (Wales) Order 2026.
 
@@ -49,7 +55,7 @@ The Welsh Ministers in accordance with section 126[^f00003] of that Act have con
 
 (4) In this Order, “**school teacher**” has the meaning given by section 122(3) to (6) of the Education Act 2002.
 
-## 2. The Documents
+## 2. The Documents[^c-99cb9231481577cf5d065ab8667a2f90]
 
 (1) For the purposes specified in paragraph (2)—
 
@@ -66,7 +72,7 @@ The Welsh Ministers in accordance with section 126[^f00003] of that Act have con
 - “**the 2025 Document (revised) February 2026**” (“***Dogfen 2025 (diwygiedig) Chewfror 2026***”) means the document entitled “School Teachers’ Pay and Conditions (Wales) Document 2025/26 and guidance on school teachers’ pay and conditions (revised) – February 2026” and published on the gov.wales website[^f00004];
 - “**the 2025 Document (revised) March 2026**” (“***Dogfen 2025 (diwygiedig) Mawrth 2026***”) means the document entitled “School Teachers’ Pay and Conditions (Wales) Document 2025/26 and guidance on school teachers’ pay and conditions (revised) – March 2026” and published on the gov.wales website[^f00005].
 
-## 3. Revocation
+## 3. Revocation[^c-9553ad3c85ca9b00f9b335a6690cd10f]
 
 The School Teachers’ Pay and Conditions (Wales) Order 2025[^f00006] is revoked.
 
@@ -105,8 +111,14 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: This function of the Secretary of State was transferred to the Welsh Ministers by article 39(3) of [S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644).
 
+[^c-e901c51bb1ffc4bac911baa9dfcdbad4]: Commencement: Art. 1 in force at 6.3.2026, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/29/article/1/2)
+
+[^c-99cb9231481577cf5d065ab8667a2f90]: Commencement: Art. 2 in force at 6.3.2026, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/29/article/1/2)
+
 [^f00004]: Footnote: https://gov.wales/teaching-and-leadership.
 
 [^f00005]: Footnote: https://gov.wales/teaching-and-leadership.
+
+[^c-9553ad3c85ca9b00f9b335a6690cd10f]: Commencement: Art. 3 in force at 6.3.2026, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/29/article/1/2)
 
 [^f00006]: Footnote: [S.I. 2025/1016 (W. 176)](https://www.legislation.gov.uk/wsi/2025/1016).

@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 149
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '149'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/149
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 149
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Eligible postgraduate students
+## 149. Eligible postgraduate students[^c-3d480949af2fcbec57801696aea11fde]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) An eligible postgraduate student qualifies, subject to and in accordance with this Part, for a grant to assist with the additional expenditure which the Secretary of State is satisfied the student is obliged to incur by reason of a disability to which the student is subject in respect of undertaking a designated postgraduate course.
 
@@ -90,5 +96,7 @@ A’s status as an eligible postgraduate student terminates immediately before t
 - (d) a designated postgraduate course and a designated part-time course.
 
 ## Annotations
+
+[^c-3d480949af2fcbec57801696aea11fde]: Commencement: Reg. 149 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00074]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).

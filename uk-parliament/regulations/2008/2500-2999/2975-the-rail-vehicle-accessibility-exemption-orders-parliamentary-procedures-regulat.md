@@ -3,16 +3,16 @@ title: The Rail Vehicle Accessibility Exemption Orders (Parliamentary Procedures
 id: uksi/2008/2975
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised
 made_date: '2008-11-14'
-text_date: null
-extent: null
+text_date: '2010-10-01'
+extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/2975
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2975/pdfs/uksiem_20082975_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2975/pdfs/uksi_20082975_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2975/made/data.pdf
-pending_changes: 1
+- http://www.legislation.gov.uk/uksi/2008/2975/data.pdf
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,11 @@ summary: ''
 
 # The Rail Vehicle Accessibility Exemption Orders (Parliamentary Procedures) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> Text as at 2010-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
 
 2008 No. 2975
 
@@ -40,9 +44,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 67A(4) of that Act the Secretary of State has consulted the Disabled Persons Transport Advisory Committee[^f00002] and such other persons as the Secretary of State considers appropriate.
 
-A draft of these Regulations has been laid before Parliament in accordance with section 67(4)(g) and (4A) of that Act and approved by a resolution of each House of Parliament.
+A draft of these Regulations has been laid before Parliament in accordance with section 67(4)(g) and (4A) of that Act and approved by a resolution of each House of Parliament.[^c-7e24b8a985fc60e3a8588d35081b777f]
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-29b7ce10138c8d70aabb2aa44512f270]
 
 (1) These Regulations may be cited as the Rail Vehicle Accessibility Exemption Orders (Parliamentary Procedures) Regulations 2008 and shall come into force on the day after the day on which they are made.
 
@@ -58,7 +62,7 @@ A draft of these Regulations has been laid before Parliament in accordance with 
   - (b) the application of which is not limited to specified vehicles;
 - “RVA Regulations” means rail vehicle accessibility regulations made under section 46(1) of the 1995 Act.
 
-## 2. Orders under section 47 of the 1995 Act which are normally subject to the negative resolution procedure
+## 2. Orders under section 47 of the 1995 Act which are normally subject to the negative resolution procedure[^c-d5da063ce151f149f244d06ce7f8c234]
 
 (1) When the Secretary of State comes to make an order under section 47(1) of the 1995 Act in any of the circumstances referred to in paragraph (3), the Secretary of State will decide that the negative resolution procedure is to be adopted in connection with the making of the order.
 
@@ -71,7 +75,7 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 - (c) the order is made solely to revoke an order, to remove an exemption or to reduce the scope of an exemption, or
 - (d) the effects of the order could be achieved by one or more orders (each an “alternative order”), and each alternative order would fall within sub-paragraph (a), (b) or (c).
 
-## 3. Criteria relating to existing vehicles, and minor amendments etc
+## 3. Criteria relating to existing vehicles, and minor amendments etc[^c-0576abf2636a48983e9ac05a704629e5]
 
 (1) The qualification criteria referred to in regulation 2(3)(a) are that—
 
@@ -107,7 +111,7 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 - (c) an amendment made solely for the purpose of extending to additional vehicles an exemption which was previously granted to more than one specified vehicle, and the additional vehicles are of an identical type to the specified vehicles,
 - (d) an amendment which does not create or extend the scope of an exemption.
 
-## 4. Criteria relating to vehicles used on exempt networks, and historical vehicles etc
+## 4. Criteria relating to vehicles used on exempt networks, and historical vehicles etc[^c-29691169cab0a22918fef04f3b17699f]
 
 (1) The qualification criteria referred to in regulation 2(3)(b) are that–
 
@@ -125,7 +129,7 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 - (b) other than where the sole purpose is to amend a typographical error, the order amends an order by extending the period of time for which the exemption applies;
 - (c) the order is a network order creating or extending the scope of an exemption.
 
-## 5. Orders under the 1995 Act which are normally subject to the draft affirmative resolution procedure
+## 5. Orders under the 1995 Act which are normally subject to the draft affirmative resolution procedure[^c-ca8d7a90f3e733b5ae4a75e460ef808f]
 
 (1) When the Secretary of State comes to make an order under section 47(1) of the 1995 Act otherwise than in any of the circumstances referred to in regulation 2(3), the Secretary of State will decide that the draft affirmative resolution procedure is to be adopted in connection with the making of the order.
 
@@ -159,7 +163,15 @@ An impact assessment has not been produced for this instrument because no additi
 
 [^f00002]: Footnote: The Disabled Persons Transport Advisory Committee was established under section 125 of the Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67) and has a statutory duty to provide the Government with advice on the public passenger transport needs of disabled people.
 
+[^c-7e24b8a985fc60e3a8588d35081b777f]: Modification: Regulations continued under new enabling powers in [2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2279)](https://www.legislation.gov.uk/ukpga/2010/15) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
+
+[^c-29b7ce10138c8d70aabb2aa44512f270]: Commencement: Reg. 1 in force at 15.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2975/regulation/1/1)
+
 [^f00003]: Footnote: Section 47(1) was amended by section 6(3) of the Disability Discrimination Act 2005.
+
+[^c-d5da063ce151f149f244d06ce7f8c234]: Commencement: Reg. 2 in force at 15.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2975/regulation/1/1)
+
+[^c-0576abf2636a48983e9ac05a704629e5]: Commencement: Reg. 3 in force at 15.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2975/regulation/1/1)
 
 [^f00004]: Footnote: Section 6(2) of the Disability Discrimination Act 2005 will amend the definition of rail vehicle in section 46(6) of the 1995 Act so that the scope of the power to make regulations under section 46(1) will not be limited to vehicles first brought into use, or belonging to a class of vehicle first brought into use, on or after 1st January 1999.
 
@@ -170,3 +182,7 @@ An impact assessment has not been produced for this instrument because no additi
 [^f00007]: Footnote: [S.I. 1992/3231](https://www.legislation.gov.uk/uksi/1992/3231) as amended by [S.I. 1997/1951](https://www.legislation.gov.uk/uksi/1997/1951).
 
 [^f00008]: Footnote: The Joint Committee on Statutory Instruments operates under House of Commons Public Business Standing Order No 151 and House of Lords Public Business Standing Order 74.
+
+[^c-29691169cab0a22918fef04f3b17699f]: Commencement: Reg. 4 in force at 15.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2975/regulation/1/1)
+
+[^c-ca8d7a90f3e733b5ae4a75e460ef808f]: Commencement: Reg. 5 in force at 15.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2975/regulation/1/1)

@@ -3,15 +3,15 @@ title: The Taxes (Fees for Payment by Internet) Regulations 2008
 id: uksi/2008/2991
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-11-17'
-text_date: null
-extent: null
+text_date: '2008-12-09'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/2991
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/2991/pdfs/uksiem_20082991_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/2991/pdfs/uksi_20082991_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/2991/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/2991/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Taxes (Fees for Payment by Internet) Regulations 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-12-09. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2991
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 2991
 
@@ -42,11 +46,11 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the powers conferred by section 136(1) and (3) of the Finance Act 2008[^f00001], make the following Regulations:
 
-## 1. Citation and Commencement
+## 1. Citation and Commencement[^c-f98247221908048320178860b89c698a]
 
 These Regulations may be cited as the Taxes (Fees for Payment by Internet) Regulations 2008 and shall come into force on 9th December 2008.
 
-## 2. Fee payable for internet payments by credit card
+## 2. Fee payable for internet payments by credit card[^c-5242f1f1a9def371bbe4dbe1724b7d34]
 
 (1) Since the Commissioners expect that they will be required to pay a fee in connection with amounts paid by using a credit card, a person who—
 
@@ -87,5 +91,9 @@ and through the Explanatory Memorandum which is available alongside the instrume
 ## Annotations
 
 [^f00001]: Footnote: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9); section 139 of that Act defines “the Commissioners” as meaning the Commissioners for Her Majesty’s Revenue and Customs.
+
+[^c-f98247221908048320178860b89c698a]: Commencement: Reg. 1 in force at 9.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2991/regulation/1)
+
+[^c-5242f1f1a9def371bbe4dbe1724b7d34]: Commencement: Reg. 2 in force at 9.12.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2991/regulation/1)
 
 [^f00002]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).

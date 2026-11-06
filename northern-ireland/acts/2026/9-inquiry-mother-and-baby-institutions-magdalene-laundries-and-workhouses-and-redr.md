@@ -39,7 +39,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 ### The inquiry
 
-#### 1. The inquiry[^c-69cb9309f40d5d8c991a5564de4ec78a]
+#### 1. The inquiry[^c-d8377e2649789f0c1c1e702546c374e5]
 
 (1) The First Minister and deputy First Minister acting jointly may cause an inquiry to be held under this Act (“the inquiry”).
 
@@ -55,7 +55,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 (7) Sections 3 and 4 provide definitions for the purposes of this Part.
 
-#### 2. Terms of reference[^c-dc311289560fc001ac9452bdad8e9883]
+#### 2. Terms of reference[^c-48edea962c48bd9881699d212180edb9]
 
 (1) The terms of reference of the inquiry are to be prepared and published by the Executive Office.
 
@@ -83,7 +83,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 (7) In subsection (3), ‘other persons’ includes but is not limited to private hospitals, private maternity homes and private nursing homes; general practitioners; social workers; clergy; and private businesses.
 
-#### 3. Definition of “prescribed institutions”[^c-f7284d45a46e4f70579681f91b5ff777]
+#### 3. Definition of “prescribed institutions”[^c-9af7313b45931c44e79396b3dec3bb73]
 
 (1) For the purposes of this Part, “**prescribed institutions**” means such—
 
@@ -98,7 +98,7 @@ as may be prescribed in regulations made by the Executive Office.
 
 (3) Regulations under this section may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
-#### 4. Definition of “relevant persons”[^c-868e9e462829cb996aa3436be2be1d8c]
+#### 4. Definition of “relevant persons”[^c-6e47af3c8b4a50433111b0070506a19b]
 
 (1) For the purposes of this Part, subject to subsections (2) and (3) “relevant persons” are the following—
 
@@ -122,7 +122,7 @@ as may be prescribed in regulations made by the Executive Office.
 
 (5) Regulations under this section may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
-#### 5. The inquiry panel[^c-540aa428c8a265887fc7c882e5140b14]
+#### 5. The inquiry panel[^c-7ff7454a4310d33f41db73e8b64566c8]
 
 (1) The inquiry is to be undertaken by an inquiry panel consisting of a chairperson with one or more other members.
 
@@ -133,7 +133,7 @@ as may be prescribed in regulations made by the Executive Office.
 
 any person’s civil or criminal liability.
 
-#### 6. Appointment of members[^c-e22e090f20af03c22086a19888fad32b]
+#### 6. Appointment of members[^c-1be45af8007d66b6ddebc109b5c53b83]
 
 (1) Each member of the inquiry panel is to be appointed by the First Minister and deputy First Minister acting jointly by an instrument in writing.
 
@@ -155,7 +155,7 @@ any person’s civil or criminal liability.
 
 (7) The power to appoint a replacement chairperson may be exercised by appointing a person who is already a member of the inquiry panel.
 
-#### 7. Requirement of impartiality[^c-4c6009fcf731e39430f7f2ab580d663e]
+#### 7. Requirement of impartiality[^c-4c02c7abfacf528155a8b56616dd2b6f]
 
 (1) The First Minister and deputy First Minister may not appoint a person as a member of the inquiry panel if it appears to them that the person has—
 
@@ -172,7 +172,7 @@ but this is subject to subsection (2).
 
 (5) A member of the inquiry panel must not undertake any activity that could reasonably be regarded as affecting the person’s suitability to serve as such.
 
-#### 8. Duration of appointment of members[^c-8dcea198cf5d0c468bce0eb1f78eb77f]
+#### 8. Duration of appointment of members[^c-cccfb378859d91c742b4606adc9d3572]
 
 (1) Subject to the following provisions of this section, a member of the inquiry panel remains a member until the inquiry comes to an end (or until the member’s death if the member dies before then).
 
@@ -205,7 +205,7 @@ but this is subject to subsection (2).
   - (i) the member is the chairperson, consulted each other member of the inquiry panel concerning the exercise of the power in relation to the member;
   - (ii) where the member is not the chairperson, consulted each other member of the inquiry panel (other than the chairperson) concerning the exercise of the power in relation to the member.
 
-#### 9. Expert advisers[^c-06005aa93db896062c0faad087ceaaec]
+#### 9. Expert advisers[^c-7b6587e55708509a4535f85afdb39dae]
 
 (1) The chairperson may appoint one or more persons to act as expert advisers to assist the inquiry panel.
 
@@ -213,7 +213,7 @@ but this is subject to subsection (2).
 
 (3) The chairperson may at any time suspend or terminate the appointment of an expert adviser.
 
-#### 10. Advisory Panel[^c-15c9bcc773f5a6823603d408649b3b66]
+#### 10. Advisory Panel[^c-fe158afe2d28efed14f3682b3663d282]
 
 (1) The chairperson, having consulted each other member of the inquiry panel, may appoint a panel of persons to act as advisers to the inquiry panel on such matters as the inquiry panel considers appropriate.
 
@@ -230,7 +230,7 @@ but this is subject to subsection (2).
 
 (5) For the purposes of this section, “**relative**” means a parent, grandparent, child, grandchild, brother, sister, uncle or aunt, (whether by a biological relationship, adoption, marriage or civil partnership).
 
-#### 11. Power to suspend inquiry[^c-33266d1b925af9a4db7d77d647c27752]
+#### 11. Power to suspend inquiry[^c-9767718cf60d6a39f1d06be21a043630]
 
 (1) The First Minister and deputy First Minister acting jointly may at any time, by notice to the chairperson, suspend the inquiry for such period as appears to them to be necessary to allow for—
 
@@ -259,7 +259,7 @@ but this is subject to subsection (2).
 - (b) the happening of the event referred to in subsection (4)(b); or
 - (c) the receipt by the chairperson of the notice referred to in subsection (4)(c).
 
-#### 12. End of inquiry[^c-3772067e6006c5cc4fee0d1ffe789954]
+#### 12. End of inquiry[^c-d292c794d3b6dc302fc2bf0d8a2646bc]
 
 (1) For the purposes of this Act the inquiry comes to an end—
 
@@ -276,7 +276,7 @@ but this is subject to subsection (2).
 
 ### Report on financial contributions
 
-#### 13. Contributions to payments[^c-b1dd08fc7f9f7e2d8fdb9d63e4363cc4]
+#### 13. Contributions to payments[^c-4fd877ec5e86dac4a2d2a7d962f30c06]
 
 (1) The Department must publish a report on a scheme to seek financial contributions from any prescribed institution, public body or other person in relation to which the inquiry determines that there were any systemic failings such as referred to in section 2(3)(a) or (c).
 
@@ -293,7 +293,7 @@ but this is subject to subsection (2).
 
 ### Inquiry proceedings
 
-#### 14. Evidence and procedure[^c-6854dd662417d1385bff7dbedc37c1b7]
+#### 14. Evidence and procedure[^c-b5dc713c8cc3830362a2f1ed3df1d17c]
 
 (1) The procedure and conduct of the inquiry are to be such as the chairperson may direct; but this is subject to any provision of this Act or of rules under section 28.
 
@@ -307,7 +307,7 @@ but this is subject to subsection (2).
 
 (6) For the purposes of subsection (5) any impairment of sight or hearing is to be disregarded.
 
-#### 15. Public access to inquiry proceedings and information[^c-bbf309124c0e1c22f106da7b01468dd5]
+#### 15. Public access to inquiry proceedings and information[^c-1171a34c94d14292f9167c40e458803d]
 
 (1) The chairperson must take such steps as the chairperson considers reasonable to secure that members of the public (including reporters) are able—
 
@@ -321,7 +321,7 @@ but this is subject to any restrictions imposed by an order under section 16.
 - (a) at the request of the chairperson, or
 - (b) with the permission of the chairperson and in accordance with any terms on which permission is given.
 
-#### 16. Restrictions on public access, etc.[^c-5bc31cba5ffeece8493818158c26dfab]
+#### 16. Restrictions on public access, etc.[^c-2cedbc7d211258652aa13235a66986d5]
 
 (1) Restrictions may, in accordance with this section, be imposed on—
 
@@ -363,7 +363,7 @@ but this is subject to any restrictions imposed by an order under section 16.
 
 (9) In subsection (4)(b), “**harm**” includes death or injury.
 
-#### 17. Powers to require production of evidence[^c-d6aa45b2da50eb1e69d431b1cee68ac2]
+#### 17. Powers to require production of evidence[^c-691589ea04afd89be4950222e370e470]
 
 (1) The chairperson may by notice require a person to attend at a time and place stated in the notice—
 
@@ -411,7 +411,7 @@ is to be determined by the chairperson, who may revoke or vary the notice on tha
 - (a) the nature of the evidence, documents or other things sought, and
 - (b) the person from whom they were sought.
 
-#### 18. Privileged information, etc.[^c-9edb29fd3445a29d08000969ba464702]
+#### 18. Privileged information, etc.[^c-fe86acab43debe9015c66a4276185176]
 
 (1) A person may not under section 17 be required to give, produce or provide any evidence or document if—
 
@@ -422,7 +422,7 @@ is to be determined by the chairperson, who may revoke or vary the notice on tha
 
 ### Reports
 
-#### 19. Submission of reports[^c-ef1b251be8a6da0ace121e1344a180dc]
+#### 19. Submission of reports[^c-9e33cc2f598a8beced8d48465146bccb]
 
 (1) The chairperson must deliver a report to the First Minister and deputy First Minister setting out—
 
@@ -437,7 +437,7 @@ is to be determined by the chairperson, who may revoke or vary the notice on tha
 
 (4) If the inquiry panel is unable to produce a unanimous report (whether under subsection (1) or subsection (3)), the report must reasonably reflect the points of disagreement.
 
-#### 20. Publication of reports[^c-161e7044e1b04d4312674ca727542689]
+#### 20. Publication of reports[^c-c312eb3acbdfeeca44cc2fef1115f98b]
 
 (1) The chairperson must make arrangements for reports under section 19 to be published.
 
@@ -462,13 +462,13 @@ is to be determined by the chairperson, who may revoke or vary the notice on tha
 
 (8) In subsection (4)(b), “**harm**” includes death or injury.
 
-#### 21. Laying of reports before the Assembly[^c-e30b831f3b925e7d3346fc071db444e3]
+#### 21. Laying of reports before the Assembly[^c-e06b36974e70a21f493f73117a0cb6d2]
 
 Whatever is required to be published under section 20 must be laid before the Assembly by the First Minister and deputy First Minister acting jointly.
 
 ### Expenses
 
-#### 22. Expenses of witnesses, etc.[^c-39000436433d68adbd3a38b3b88fb9b4]
+#### 22. Expenses of witnesses, etc.[^c-1c143e66d85e92fd2809753cb989e65a]
 
 (1) The chairperson may, with the approval of the Executive Office, award such amounts as the chairperson thinks reasonable to a person—
 
@@ -486,7 +486,7 @@ in attending, or otherwise in relation to, the inquiry.
 
 (4) The power to make an award under this section is subject to such conditions or qualifications as may be determined by the Executive Office and notified by it to the chairperson.
 
-#### 23. Payment of inquiry expenses by the Executive Office[^c-aa044d52cb8257f437630ba2f44d9181]
+#### 23. Payment of inquiry expenses by the Executive Office[^c-6be5963b878607273edb833c2ce965b6]
 
 (1) The Executive Office may agree to pay to—
 
@@ -517,7 +517,7 @@ but this is subject to provision made by rules under section 28.
 
 ### Supplementary
 
-#### 24. Offences[^c-742d95b25ce963c3b7a2c7a911216283]
+#### 24. Offences[^c-22fdc3511cd91e109184c95fdba35d97]
 
 (1) A person is guilty of an offence if the person, without reasonable excuse—
 
@@ -549,7 +549,7 @@ but this is subject to provision made by rules under section 28.
 
 (8) A person who is guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale or to imprisonment for a term not exceeding six months, or to both.
 
-#### 25. Enforcement by High Court[^c-0ea4abba9ef20ebce7d1ff6087be08e2]
+#### 25. Enforcement by High Court[^c-1170092b1ff79be01b6bc7f30df7be48]
 
 (1) Where a person—
 
@@ -560,7 +560,7 @@ the chairperson may certify the matter to the High Court.
 
 (2) The High Court, after hearing any evidence or representations on the matter certified to it under subsection (1), may make any order by way of enforcement or otherwise that it could have made if the matter had arisen in proceedings before it.
 
-#### 26. Immunity from suit[^c-e912b2c72c6e345c5ef802283db9ee02]
+#### 26. Immunity from suit[^c-97cee543e522bc0666a98c693d0c6655]
 
 (1) No action lies against a person who is—
 
@@ -580,7 +580,7 @@ in respect of any act done or omission made in the execution of that person’s 
 
 as would be the case if those proceedings were proceedings before a court in Northern Ireland.
 
-#### 27. Time limit for applying for judicial review[^c-6aa70760521726fd719b67962145f0b3]
+#### 27. Time limit for applying for judicial review[^c-d5b13058e2a05dabdf633fc2f618832b]
 
 (1) An application for judicial review of a decision made—
 
@@ -598,7 +598,7 @@ must be brought within 21 days after the day on which the applicant became aware
 
 (4) In subsection (1), “**the Executive Office**” includes the First Minister and deputy First Minister.
 
-#### 28. Rules[^c-f9990175c27898affb16b37c2b3cef43]
+#### 28. Rules[^c-eb0bfab4b498a2417b1c13b4e40e3795]
 
 (1) The Executive Office may make rules dealing with—
 
@@ -619,14 +619,14 @@ must be brought within 21 days after the day on which the applicant became aware
 
 (6) Rules under this section are subject to negative resolution.
 
-#### 29. Consequential amendment[^c-9943086913a563e5365620fe54e5ed82]
+#### 29. Consequential amendment[^c-3f0da7d3dc3fb2c1e6f14f675dc5b9cf]
 
 In Article 13(3)(a) of the Commissioner for Children and Young People (Northern Ireland) Order 2003 (actions which may be investigated: restrictions and exclusions)—
 
 - (a) omit the first “or”;
 - (b) after “2013” insert “or the Inquiry (Mother and Baby Institutions, Magdalene Laundries and Workhouses) and Redress Scheme Act (Northern Ireland) 2026”.
 
-#### 30. Interpretation of this Part[^c-18edf8ba4285e73460f39bf2cc0f9a96]
+#### 30. Interpretation of this Part[^c-72630be6cd13e3e7907e05d67e743c1a]
 
 (1) In this Part—
 
@@ -965,19 +965,19 @@ anything which is required, or which there are reasonable grounds for believing 
 
 ## Part 3 — General
 
-### 44. Application to the Crown[^c-8fe0a50baa8691a4c849fc8b25d1fb9d]
+### 44. Application to the Crown[^c-4a8fe787df444098aaf73cda8143fede]
 
 (1) This Act binds the Crown to the full extent authorised or permitted by the constitutional laws of Northern Ireland except as provided by subsection (2).
 
 (2) The powers conferred by sections 17 and 36 are not exercisable so as to require any evidence, document or other thing to be given, produced or provided by or on behalf of His Majesty’s Government in the United Kingdom, the Scottish Ministers or the Welsh Ministers.
 
-### 45. Power to make supplementary, etc. provision[^c-6e0af4481026d312ac9a6839fc7c298a]
+### 45. Power to make supplementary, etc. provision[^c-083f1e4c706158af62a5b5b574d75daa]
 
 (1) The Executive Office may by regulations make such supplementary, transitional, incidental or consequential provision as it considers appropriate for the purposes of this Act or in consequence of, or for giving full effect to, any provision of this Act.
 
 (2) Regulations under subsection (1) may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
-### 46. General interpretation[^c-41fe7eece2b88e1d97d969236aa01655]
+### 46. General interpretation[^c-0d9d930f376c7fe416a052c50cd1eba4]
 
 (1) In this Act—
 
@@ -986,13 +986,13 @@ anything which is required, or which there are reasonable grounds for believing 
 
 (2) References in this Act to producing or providing a document, in relation to information recorded otherwise than in legible form, are to be read as references to producing or providing a copy of the information in a legible form.
 
-### 47. Commencement[^c-dce7f294a0cf77e54f15f945ba096a77]
+### 47. Commencement[^c-22ac9ab1ba49e5a8b19d954e6fa142e9]
 
 (1) This Part and Part 1 come into operation on the day after the day on which this Act receives Royal Assent.
 
 (2) Part 2 comes into operation on such day or days as the Executive Office may by order appoint.
 
-### 48. Short title[^c-915576e1810c3b9b2af520d1a15f24a7]
+### 48. Short title[^c-b00cae1d08b0b73fed189ea0887e440e]
 
 This Act may be cited as the Inquiry (Mother and Baby Institutions, Magdalene Laundries and Workhouses) and Redress Scheme Act (Northern Ireland) 2026.
 
@@ -1456,65 +1456,65 @@ Section 38
 
 ## Annotations
 
-[^c-69cb9309f40d5d8c991a5564de4ec78a]: Commencement: S. 1 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-d8377e2649789f0c1c1e702546c374e5]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2026/9/section/1) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-dc311289560fc001ac9452bdad8e9883]: Commencement: S. 2 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-48edea962c48bd9881699d212180edb9]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2026/9/section/2) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-f7284d45a46e4f70579681f91b5ff777]: Commencement: S. 3 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-9af7313b45931c44e79396b3dec3bb73]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2026/9/section/3) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-868e9e462829cb996aa3436be2be1d8c]: Commencement: S. 4 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-6e47af3c8b4a50433111b0070506a19b]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2026/9/section/4) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-540aa428c8a265887fc7c882e5140b14]: Commencement: S. 5 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-7ff7454a4310d33f41db73e8b64566c8]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2026/9/section/5) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-e22e090f20af03c22086a19888fad32b]: Commencement: S. 6 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-1be45af8007d66b6ddebc109b5c53b83]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2026/9/section/6) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-4c6009fcf731e39430f7f2ab580d663e]: Commencement: S. 7 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-4c02c7abfacf528155a8b56616dd2b6f]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2026/9/section/7) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-8dcea198cf5d0c468bce0eb1f78eb77f]: Commencement: S. 8 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-cccfb378859d91c742b4606adc9d3572]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2026/9/section/8) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-06005aa93db896062c0faad087ceaaec]: Commencement: S. 9 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-7b6587e55708509a4535f85afdb39dae]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2026/9/section/9) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-15c9bcc773f5a6823603d408649b3b66]: Commencement: S. 10 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-fe158afe2d28efed14f3682b3663d282]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2026/9/section/10) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-33266d1b925af9a4db7d77d647c27752]: Commencement: S. 11 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-9767718cf60d6a39f1d06be21a043630]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2026/9/section/11) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-3772067e6006c5cc4fee0d1ffe789954]: Commencement: S. 12 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-d292c794d3b6dc302fc2bf0d8a2646bc]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2026/9/section/12) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-b1dd08fc7f9f7e2d8fdb9d63e4363cc4]: Commencement: S. 13 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-4fd877ec5e86dac4a2d2a7d962f30c06]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2026/9/section/13) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-6854dd662417d1385bff7dbedc37c1b7]: Commencement: S. 14 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-b5dc713c8cc3830362a2f1ed3df1d17c]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2026/9/section/14) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-bbf309124c0e1c22f106da7b01468dd5]: Commencement: S. 15 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-1171a34c94d14292f9167c40e458803d]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2026/9/section/15) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-5bc31cba5ffeece8493818158c26dfab]: Commencement: S. 16 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-2cedbc7d211258652aa13235a66986d5]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2026/9/section/16) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-d6aa45b2da50eb1e69d431b1cee68ac2]: Commencement: S. 17 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-691589ea04afd89be4950222e370e470]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2026/9/section/17) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-9edb29fd3445a29d08000969ba464702]: Commencement: S. 18 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-fe86acab43debe9015c66a4276185176]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2026/9/section/18) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-ef1b251be8a6da0ace121e1344a180dc]: Commencement: S. 19 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-9e33cc2f598a8beced8d48465146bccb]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2026/9/section/19) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-161e7044e1b04d4312674ca727542689]: Commencement: S. 20 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-c312eb3acbdfeeca44cc2fef1115f98b]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2026/9/section/20) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-e30b831f3b925e7d3346fc071db444e3]: Commencement: S. 21 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-e06b36974e70a21f493f73117a0cb6d2]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2026/9/section/21) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-39000436433d68adbd3a38b3b88fb9b4]: Commencement: S. 22 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-1c143e66d85e92fd2809753cb989e65a]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2026/9/section/22) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-aa044d52cb8257f437630ba2f44d9181]: Commencement: S. 23 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-6be5963b878607273edb833c2ce965b6]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2026/9/section/23) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-742d95b25ce963c3b7a2c7a911216283]: Commencement: S. 24 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-22fdc3511cd91e109184c95fdba35d97]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2026/9/section/24) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-0ea4abba9ef20ebce7d1ff6087be08e2]: Commencement: S. 25 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-1170092b1ff79be01b6bc7f30df7be48]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2026/9/section/25) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-e912b2c72c6e345c5ef802283db9ee02]: Commencement: S. 26 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-97cee543e522bc0666a98c693d0c6655]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2026/9/section/26) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-6aa70760521726fd719b67962145f0b3]: Commencement: S. 27 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-d5b13058e2a05dabdf633fc2f618832b]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2026/9/section/27) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-f9990175c27898affb16b37c2b3cef43]: Commencement: S. 28 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-eb0bfab4b498a2417b1c13b4e40e3795]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2026/9/section/28) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-9943086913a563e5365620fe54e5ed82]: Commencement: S. 29 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-3f0da7d3dc3fb2c1e6f14f675dc5b9cf]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2026/9/section/29) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-18edf8ba4285e73460f39bf2cc0f9a96]: Commencement: S. 30 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-72630be6cd13e3e7907e05d67e743c1a]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2026/9/section/30) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
 [^c-b9d427f123468e713b92d8f28e146c41]: Commencement: S. 31 not in operation at Royal Assent, see [s. 47(02)](https://www.legislation.gov.uk/nia/2026/9/section/47/02)
 
@@ -1542,15 +1542,15 @@ Section 38
 
 [^c-902277e779153a3654c4a22d969cf6ad]: Commencement: S. 43 not in operation at Royal Assent, see [s. 47(02)](https://www.legislation.gov.uk/nia/2026/9/section/47/02)
 
-[^c-8fe0a50baa8691a4c849fc8b25d1fb9d]: Commencement: S. 44 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-4a8fe787df444098aaf73cda8143fede]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2026/9/section/44) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-6e0af4481026d312ac9a6839fc7c298a]: Commencement: S. 45 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-083f1e4c706158af62a5b5b574d75daa]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2026/9/section/45) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-41fe7eece2b88e1d97d969236aa01655]: Commencement: S. 46 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-0d9d930f376c7fe416a052c50cd1eba4]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2026/9/section/46) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-dce7f294a0cf77e54f15f945ba096a77]: Commencement: S. 47 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-22ac9ab1ba49e5a8b19d954e6fa142e9]: Commencement: [S. 47](https://www.legislation.gov.uk/nia/2026/9/section/47) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
-[^c-915576e1810c3b9b2af520d1a15f24a7]: Commencement: S. 48 in operation at 8.10.2026, see [s. 47(01)](https://www.legislation.gov.uk/nia/2026/9/section/47/01)
+[^c-b00cae1d08b0b73fed189ea0887e440e]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2026/9/section/48) in operation at 8.10.2026, see [s. 47(1)](https://www.legislation.gov.uk/nia/2026/9/section/47/1)
 
 [^c-762a704d7223eb07c74cbc355d7618e3]: Commencement: Sch. 1 para. 1 not in operation at Royal Assent, see [s. 47(02)](https://www.legislation.gov.uk/nia/2026/9/section/47/02)
 

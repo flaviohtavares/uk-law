@@ -3,7 +3,7 @@ title: The Employment and Support Allowance Regulations 2008, section 107
 act: The Employment and Support Allowance Regulations 2008
 section: '107'
 status: revised-with-pending-changes
-text_date: '2026-07-16'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2008/794/section/107
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Employment and Support Allowance Regulations 2008, section 107
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2008/794
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/794
 >
 > Extent: England, Wales, Scotland.
 
@@ -71,7 +71,8 @@ but, except where sub-paragraph (a) applies, this paragraph does not apply to an
 - (c)[^c-bb23ae191218280c34254d847629b272] a Windrush payment;
 - (d) a Post Office compensation payment;
 - (e) an LGBT Financial Recognition Scheme payment;[^c-8bfde7d8ae33020b934ad06507dd84ea]
-- (f) a miscarriage of justice compensation payment.
+- (f) a miscarriage of justice compensation payment;[^c-1c50fe5572ba10d5661bc45419271c8c]
+- (g) a Mother and Baby Scheme payment.
 
 (6) Where the claimant resides in a care home, an Abbeyfield Home or an independent hospital, or is temporarily absent from such a home or hospital, any payment made by a person other than the claimant or a member of the claimant's family in respect of some or all of the cost of maintaining the claimant or the claimant's partner in that home or hospital is to be treated as possessed by the claimant or the claimant's partner.
 
@@ -124,6 +125,8 @@ but, except where sub-paragraph (a) applies, this paragraph does not apply to an
 [^c-bb23ae191218280c34254d847629b272]: Textual amendment: [Reg. 107(5A)(c)-(e)](https://www.legislation.gov.uk/uksi/2008/794/regulation/107/5A/c) substituted for [reg. 107(5A)(c)(d)](https://www.legislation.gov.uk/uksi/2008/794/regulation/107/5A/c) (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2025/44/regulation/8/3)
 
 [^c-8bfde7d8ae33020b934ad06507dd84ea]: Textual amendment: [Reg. 107(5A)(f)](https://www.legislation.gov.uk/uksi/2008/794/regulation/107/5A/f) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2025/778/regulation/7/3)
+
+[^c-1c50fe5572ba10d5661bc45419271c8c]: Textual amendment: [Reg. 107(5A)(g)](https://www.legislation.gov.uk/uksi/2008/794/regulation/107/5A/g) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/6/3)
 
 [^c-8af32618daddbb138dec219bdf705774]: Textual amendment: Reg. 107(8) added (for specified purposes and with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/2/d), [11(9)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/9)
 

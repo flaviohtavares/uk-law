@@ -78,26 +78,26 @@ The Postgraduate Medical Education and Training Board makes the following Rules 
 
 (1) In these Rules—
 
-- “Application” includes the processing of, and the making of a determination in respect of, the application;
-- “Oral Appeal” means an appeal determined after an oral hearing;
+- “**Application**” includes the processing of, and the making of a determination in respect of, the application;
+- “**Oral Appeal**” means an appeal determined after an oral hearing;
 - “Order” means the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003;
-- “Original Decision” means a decision of the Board under article 8(1), article 11(6) or article 14(10) which is not a Subsequent Decision;
-- “relevant date” has the meaning given to it in paragraph 1(b) of Schedule 8 to the Order;
-- “Re-submitted Application” means an application submitted by a person to the Board pursuant to—
+- “**Original Decision**” means a decision of the Board under article 8(1), article 11(6) or article 14(10) which is not a Subsequent Decision;
+- “**relevant date**” has the meaning given to it in paragraph 1(b) of Schedule 8 to the Order;
+- “**Re-submitted Application**” means an application submitted by a person to the Board pursuant to—
   - (a) article 8(1) where the Board has previously issued to that person an Original Decision under that article;
   - (b) article 11(3), where the Board has previously issued to that person an Original Decision under article 11(6); or
   - (c) article 14(4) or (5), where the Board has previously issued to that person an Original Decision under article 14(10),
 
 where that application is received by the Board within the period of three years beginning with the date of the Board’s Original Decision, regardless of whether that application includes a request for a statement of eligibility for registration pursuant to article 11(7) or 14(11);
 
-- “Review” means a review of—
+- “**Review**” means a review of—
   - (a) an Original or a Subsequent Decision; or
   - (b) a decision of the Board in respect of an application for a certificate of acquired rights under article 12(3) of the Order,
 
 as provided for in the Postgraduate Medical Education and Training Board (Award of Certificates) Rules 2005[^f00003];
 
-- “Subsequent Decision” means a decision of the Board under article 8(1), article 11(6) or article 14(10) made pursuant to a Re-submitted Application; and
-- “Written Appeal” means an appeal determined without an oral hearing.
+- “**Subsequent Decision**” means a decision of the Board under article 8(1), article 11(6) or article 14(10) made pursuant to a Re-submitted Application; and
+- “**Written Appeal**” means an appeal determined without an oral hearing.
 
 (2) Any reference in these Rules to a numbered article is a reference to the article bearing that number in the Order.
 

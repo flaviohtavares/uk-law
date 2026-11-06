@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 105
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '105'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/105
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 105
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Payment of grants for living and other costs
+## 105. Payment of grants for living and other costs[^c-71a79ffcbf94a30e0c7569da0d03f68a]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) The Secretary of State may pay support under Part 5 in instalments.
 
@@ -69,3 +75,7 @@ summary: ''
 - (b) if the determination decreases the amount of that grant for which the student qualifies the Secretary of State must subtract the amount of the decrease from the amount of that grant which remains to be paid;
 - (c) if the amount of the decrease is greater than the amount of that grant remaining to be paid the latter amount is reduced to nil and the balance subtracted from any other grant for living and other costs for which the student qualifies in respect of the academic year;
 - (d) any remaining overpayment is recoverable in accordance with Chapter 5 of this Part.
+
+## Annotations
+
+[^c-71a79ffcbf94a30e0c7569da0d03f68a]: Commencement: Reg. 105 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

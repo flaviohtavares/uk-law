@@ -3,16 +3,16 @@ title: The Sale of Tobacco (Prescribed Documents) (Scotland) Regulations 2013
 id: ssi/2013/202
 type: ScottishStatutoryInstrument
 category: secondary
-status: revised-with-pending-changes
+status: revised
 made_date: '2013-06-18'
-text_date: '2020-12-31'
+text_date: '2026-10-29'
 extent: S
 source_url: https://www.legislation.gov.uk/ssi/2013/202
 pdf_urls:
 - http://www.legislation.gov.uk/ssi/2013/202/pdfs/ssipn_20130202_en_001.pdf
 - http://www.legislation.gov.uk/ssi/2013/202/pdfs/ssi_20130202_en.pdf
 - http://www.legislation.gov.uk/ssi/2013/202/data.pdf
-pending_changes: 2
+pending_changes: 0
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Sale of Tobacco (Prescribed Documents) (Scotland) Regulations 2013
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/ssi/2013/202
+> Text as at 2026-10-29.
 >
 > Extent: Scotland.
 
@@ -50,7 +50,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 These Regulations may be cited as the Sale of Tobacco (Prescribed Documents) (Scotland) Regulations 2013 and come into force on 1st October 2013.
 
-## 2. Sale of tobacco products to persons under 18 – prescribed documents[^c-a4aabcbe03b9ecd0cf119ef612adf56b]
+## 2. Sale of tobacco and herbal smoking products products to persons born on or after 1 January 2009 – prescribed documents[^c-a4aabcbe03b9ecd0cf119ef612adf56b][^c-b4e5f40b08a9ade2fe80b69077288d3a][^c-a6645299ab73ed5be00b6775e0696b50]
 
 The documents and descriptions of documents prescribed[^f00002] for the purposes of section 4(4)(c) of the Tobacco and Primary Medical Services (Scotland) Act 2010 (documents establishing a person’s age) are—
 
@@ -97,6 +97,10 @@ Regulation 3 revokes the Sale of Tobacco (Prescribed Document) Regulations 2010 
 [^c-6110e55ac7dfa0610613387ef3adb258]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/202/regulation/1) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/202/regulation/1)
 
 [^c-a4aabcbe03b9ecd0cf119ef612adf56b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/202/regulation/2) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/202/regulation/1)
+
+[^c-b4e5f40b08a9ade2fe80b69077288d3a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/202/regulation/2) heading inserted (29.10.2026) by [The Tobacco and Vapes Act 2026 (Consequential, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/213)](https://www.legislation.gov.uk/ssi/2026/213), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/213/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2026/213/regulation/3)
+
+[^c-a6645299ab73ed5be00b6775e0696b50]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2013/202/regulation/2) heading substituted (29.10.2026) by [The Tobacco and Vapes Act 2026 (Consequential, Transitional and Saving Provisions) (Scotland) Regulations 2026 (S.S.I. 2026/213)](https://www.legislation.gov.uk/ssi/2026/213), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/213/regulation/1/4), [10](https://www.legislation.gov.uk/ssi/2026/213/regulation/10)
 
 [^f00002]: Footnote: “Prescribed” is defined in section 35 of the Tobacco and Primary Medical Services (Scotland) Act 2010 to mean prescribed in regulations made by the Scottish Ministers.
 

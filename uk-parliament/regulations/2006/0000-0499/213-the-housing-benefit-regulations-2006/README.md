@@ -5,14 +5,14 @@ type: UnitedKingdomStatutoryInstrument
 category: secondary
 status: revised-with-pending-changes
 made_date: '2006-02-02'
-text_date: '2026-10-05'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2006/213
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2006/213/pdfs/uksiem_20060213_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/213/pdfs/uksi_20060213_en.pdf
 - http://www.legislation.gov.uk/uksi/2006/213/data.pdf
-pending_changes: 22
+pending_changes: 11
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -20,7 +20,7 @@ summary: ''
 
 # The Housing Benefit Regulations 2006
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
 >
 > Extent: England, Wales, Scotland.
 

@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 142
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '142'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/142
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 142
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Declarations provided by academic authorities
+## 142. Declarations provided by academic authorities[^c-c9a85314f2844e59d6fc527a347fc06a]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2), the academic authority must, on the request of the applicant, complete a declaration in such form as may be required by the Secretary of State to accompany the application for support.
 
@@ -41,3 +47,7 @@ summary: ''
 
 - (a) any increase in intensity of study that would be required for the applicant to complete the course within the period specified in regulation 134(1)(c);
 - (b) any parts of the course which the applicant has been required to repeat.
+
+## Annotations
+
+[^c-c9a85314f2844e59d6fc527a347fc06a]: Commencement: Reg. 142 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 145
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '145'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/145
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 145
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Conversion of status
+## 145. Conversion of status[^c-dbd9fdc48d21d4d316e01aa5632839f9]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Where an eligible student ceases to undertake a designated course and transfers to a designated part-time course at the same or at another institution, the Secretary of State must convert the student’s status as an eligible student to that of an eligible part-time student in connection with the course to which the student is transferring where—
 
@@ -87,3 +93,7 @@ must not exceed the amount of support determined to be payable to the student un
 - (b) the academic year to which the student transfers;
 
 must not exceed the maximum amount of support determined to be payable to the student under regulation 119(1)(a).
+
+## Annotations
+
+[^c-dbd9fdc48d21d4d316e01aa5632839f9]: Commencement: Reg. 145 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

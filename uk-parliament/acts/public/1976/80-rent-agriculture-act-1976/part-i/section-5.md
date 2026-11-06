@@ -3,7 +3,7 @@ title: Rent (Agriculture) Act 1976, section 5
 act: Rent (Agriculture) Act 1976
 section: '5'
 status: revised-with-pending-changes
-text_date: '2026-06-29'
+text_date: '2026-10-05'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/1976/80/section/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Rent (Agriculture) Act 1976, section 5
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/80
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/80
 >
 > Extent: England, Wales.
 
@@ -35,7 +35,7 @@ except that an interest belonging to Her Majesty in right of the Crown shall not
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13229411]the council of a London borough or the Common Council of the City of London;
 - (baa)[^c-b469cfaf805a36bcae00ca1804cde1ab][^c-c1b167b6bd7550f9b0edb0750e0f45fd][^c-ce1314743bef33b4087ffa61bb03d603] a police and crime commissioner;
 - (ba) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13229451]
-- (bb)[^c13229471][^c13229461] a joint authority established by Part IV of the Local Government Act 1985;
+- (bb)[^c13229471][^c-03cb1b8265254f5bcd7526505ee582a1][^c13229461] a joint authority established by Part IV of the Local Government Act 1985;
 - (bbza)[^c-1aad6d2e6f01a3c48541751dabbaab92] an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009;
 - (bbzb) a combined authority established under section 103 of that Act;
 - (bbzc)[^c-11ac1fda49f4da48415b7ea3727558b9] a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;
@@ -87,6 +87,8 @@ except that an interest belonging to Her Majesty in right of the Crown shall not
 [^c13229451]: Textual amendment: S. 5(3)(*ba*) (which was inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 84](https://www.legislation.gov.uk/ukpga/1985/51/section/84), [Sch. 14 para. 55](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14/paragraph/55)) repealed by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237](https://www.legislation.gov.uk/ukpga/1988/40/section/237), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1988/40/schedule/13/part/I)
 
 [^c13229471]: Modification: S. 5(3)(*bb*) extended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 10](https://www.legislation.gov.uk/uksi/1985/1884/article/10), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1985/1884/schedule/3/paragraph/4)(*O*)
+
+[^c-03cb1b8265254f5bcd7526505ee582a1]: Modification: [S. 5(3)(bb)](https://www.legislation.gov.uk/ukpga/1976/80/section/5/3/bb) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(g)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/g) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^c13229461]: Textual amendment: S. 5(3)(*bb*) inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 84](https://www.legislation.gov.uk/ukpga/1985/51/section/84), [Sch. 14 para. 55](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14/paragraph/55)
 

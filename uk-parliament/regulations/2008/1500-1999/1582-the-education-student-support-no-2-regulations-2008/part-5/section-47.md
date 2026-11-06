@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 47
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '47'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/47
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 47
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Calculations
+## 47. Calculations[^c-61842fa9f12cefd68171f6daba57c196]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Subject to the following paragraphs, the amount payable in respect of a particular element of the grant for dependants for which the eligible student qualifies under regulations 44 to 46 is the amount of that element remaining after applying, until it is extinguished, an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/1582)as follows and in the following order—
 
@@ -78,3 +84,7 @@ summary: ''
 - (b) otherwise, a quarter other than the one quarter during which, in the opinion of the Secretary of State, the longest of any vacation occurs.
 
 (13) A deduction may be made in accordance with Part 9 from the amount payable in respect of a particular element of the grant for dependants calculated under this Part.
+
+## Annotations
+
+[^c-61842fa9f12cefd68171f6daba57c196]: Commencement: Reg. 47 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

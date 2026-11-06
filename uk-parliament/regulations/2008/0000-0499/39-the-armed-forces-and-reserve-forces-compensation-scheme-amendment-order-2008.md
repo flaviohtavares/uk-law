@@ -3,15 +3,15 @@ title: The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Ord
 id: uksi/2008/39
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-01-11'
-text_date: null
-extent: null
+text_date: '2008-02-08'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/39
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/39/pdfs/uksiem_20080039_en.pdf
 - http://www.legislation.gov.uk/uksi/2008/39/pdfs/uksi_20080039_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/39/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/39/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -20,7 +20,11 @@ summary: ''
 
 # The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-02-08. See https://www.legislation.gov.uk/changes/affected/uksi/2008/39
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 39
 
@@ -42,17 +46,17 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 1(2) and 10(2) and (3) of the Armed Forces (Pensions and Compensation) Act 2004[^f00001], makes the following Order:
 
-## 1. Citation, commencement and interpretation
+## 1. Citation, commencement and interpretation[^c-13ebf1457cf317a1b42f065cbfcff95a]
 
 (1) This Order may be cited as the Armed Forces and Reserve Forces (Compensation Scheme)(Amendment) Order 2008 and shall come into force on 8th February 2008.
 
 (2) In this Order “the principal Order” means the Armed Forces and Reserve Forces (Compensation Scheme) Order 2005[^f00002] and a reference to a numbered article or Schedule is a reference to the article or Schedule in the principal Order which bears that number.
 
-## 2. Amendments to the principal Order
+## 2. Amendments to the principal Order[^c-8e0d1df77a2cc9f292998267733abe75]
 
 The principal Order is amended as follows.
 
-## 3. Amendment of article 2 (interpretation)
+## 3. Amendment of article 2 (interpretation)[^c-5d05c0d5ebd5d6727231d2e1adf65254]
 
 Article 2(1) is amended as follows —
 
@@ -63,19 +67,19 @@ Article 2(1) is amended as follows —
   ;
 - (b) in the definition of “lump sum” after “means” insert “,except in the expression “additional multiple injury lump sum,”.
 
-## 4. Amendment of article 7 (injury caused by service)
+## 4. Amendment of article 7 (injury caused by service)[^c-91c292a37a20cadf7266cdce056334f4]
 
 In article 7(1) before “Benefit is payable” insert “Subject to articles 15(1A), 15A(1) and 15B(1)”.
 
-## 5. Amendment of article 13 (interpretation of Part III)
+## 5. Amendment of article 13 (interpretation of Part III)[^c-ded4ee8f6cb29e55e4a75615c84a27e2]
 
 In article 13(b) before “any reference” insert “subject to article 15B(6)”.
 
-## 6. Amendment of article 14 (description of benefits – injury)
+## 6. Amendment of article 14 (description of benefits – injury)[^c-f790aa5f90997c2171ed90d9f85ae6df]
 
 In article 14(2) after “lump sum” insert “, additional multiple injury lump sum”.
 
-## 7. Amendment of article 15 (amount of lump sum)
+## 7. Amendment of article 15 (amount of lump sum)[^c-76cc59079cdf6bd3ed90a5cfd558121d]
 
 (1) After article 15(1) insert—
 
@@ -100,7 +104,7 @@ In article 14(2) after “lump sum” insert “, additional multiple injury lum
 
 (4) In article 15(7), after “Paragraphs (4), (5) and (6)” insert “(6A) and (6B)”.
 
-## 8. Insertion of articles 15A and 15B
+## 8. Insertion of articles 15A and 15B[^c-0b610cd2b992fd8c20753f3524135bfe]
 
 After article 15 insert—
 
@@ -156,7 +160,7 @@ After article 15 insert—
 
 .
 
-## 9. Amendment of article 20 (temporary awards)
+## 9. Amendment of article 20 (temporary awards)[^c-0f065979817b78cb5eb03ae082725c8d]
 
 (1) In article 20(1)(b) after “injury benefit” insert “or of an additional multiple injury lump sum”.
 
@@ -164,7 +168,7 @@ After article 15 insert—
 
 (3) In article 20(4)(a)(ii) after “amount” omit “either lump sum or guaranteed income payment” and replace with “of any lump sum, of any additional multiple injury lump sum or of any guaranteed income payment”.
 
-## 10. Amendment of article 37 (cases where claims are not required)
+## 10. Amendment of article 37 (cases where claims are not required)[^c-0893ba24cdf1d82bdbd33e1f7842f577]
 
 After article 37(1) insert—
 
@@ -172,30 +176,30 @@ After article 37(1) insert—
 
 .
 
-## 11. Amendment of article 44 (interim awards)
+## 11. Amendment of article 44 (interim awards)[^c-9222ccc37f1ba8056f9b4e88f88519f2]
 
 In article 44(1) after “injury benefit” insert “or to an additional multiple injury lump sum”.
 
-## 12. Amendment of article 47 (review on discharge on medical grounds)
+## 12. Amendment of article 47 (review on discharge on medical grounds)[^c-4ec2aa6afee55f6a3f7e0a3c0e7ab4a9]
 
 In article 47(1)—
 
 - (a) after “injury benefit” insert “or an additional multiple injury lump sum”;
 - (b) omit “that benefit” and replace with “the injury benefit or additional multiple injury lump sum”.
 
-## 13. Amendment of article 48 (review – exceptional circumstances)
+## 13. Amendment of article 48 (review – exceptional circumstances)[^c-07adbd9c5a73d76703fa4a82961557d7]
 
 (1) In article 48(1) after “injury benefit” insert “or of an additional multiple injury lump sum”.
 
 (2) In article 48(2) after the first use of the words “final decision” insert “to award injury benefit”.
 
-## 14. Amendment of article 54 (date on which awards of benefit become payable)
+## 14. Amendment of article 54 (date on which awards of benefit become payable)[^c-2b2bd88e67a1a64b26d1db849711d62e]
 
 (1) In article 54(1) after “lump sum” insert “,an additional multiple injury lump sum”.
 
 (2) In article 54(7) after “article 15(4)” insert “, 15(6B) or 15A(4)”.
 
-## 15. Amendment of Table 5 (amputations) of Schedule 4 (the Tariff)
+## 15. Amendment of Table 5 (amputations) of Schedule 4 (the Tariff)[^c-87e051ebc5fff765f0a0efb8c95eaaf7]
 
 (1) Table 5 of Schedule 4 is amended as follows.
 
@@ -279,4 +283,34 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2004 c.32](https://www.legislation.gov.uk/ukpga/2004/32).
 
+[^c-13ebf1457cf317a1b42f065cbfcff95a]: Commencement: Art. 1 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
 [^f00002]: Footnote: [S.I. 2005/439](https://www.legislation.gov.uk/uksi/2005/439), amended by [S.I. 2006/1438](https://www.legislation.gov.uk/uksi/2006/1438) and [S.I. 2007/2609](https://www.legislation.gov.uk/uksi/2007/2609).
+
+[^c-8e0d1df77a2cc9f292998267733abe75]: Commencement: Art. 2 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-5d05c0d5ebd5d6727231d2e1adf65254]: Commencement: Art. 3 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-91c292a37a20cadf7266cdce056334f4]: Commencement: Art. 4 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-ded4ee8f6cb29e55e4a75615c84a27e2]: Commencement: Art. 5 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-f790aa5f90997c2171ed90d9f85ae6df]: Commencement: Art. 6 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-76cc59079cdf6bd3ed90a5cfd558121d]: Commencement: Art. 7 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-0b610cd2b992fd8c20753f3524135bfe]: Commencement: Art. 8 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-0f065979817b78cb5eb03ae082725c8d]: Commencement: Art. 9 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-0893ba24cdf1d82bdbd33e1f7842f577]: Commencement: Art. 10 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-9222ccc37f1ba8056f9b4e88f88519f2]: Commencement: Art. 11 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-4ec2aa6afee55f6a3f7e0a3c0e7ab4a9]: Commencement: Art. 12 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-07adbd9c5a73d76703fa4a82961557d7]: Commencement: Art. 13 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-2b2bd88e67a1a64b26d1db849711d62e]: Commencement: Art. 14 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)
+
+[^c-87e051ebc5fff765f0a0efb8c95eaaf7]: Commencement: Art. 15 in force at 8.2.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/39/article/1/1)

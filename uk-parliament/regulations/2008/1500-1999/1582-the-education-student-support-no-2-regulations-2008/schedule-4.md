@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, SCHEDULE 4
 act: The Education (Student Support) (No.2) Regulations 2008
 section: schedule-4
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/schedule/4
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,13 +12,19 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, SCHEDULE 4
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 4 — FINANCIAL ASSESSMENT
 
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
 Regulation 95
 
-### 1. Definitions
+### 1. Definitions[^c-1ebc231d5f1989e3d5b57f601606ed2b]
 
 (1) In this Schedule:—
 
@@ -53,7 +59,7 @@ Regulation 95
 
 (2) The income referred to in this sub-paragraph is any benefits under a pension arrangement pursuant to an order made under section 23 of the Matrimonial Causes Act 1973[^f00079] which includes provision made by virtue of sections 25B(4) and 25E(3) of that Act or pension benefits under Part 1 of Schedule 5 to the Civil Partnership Act 2004[^f00080] which includes provision made by virtue of Parts 6 and 7 of that Schedule.
 
-### 2. Independent eligible student
+### 2. Independent eligible student[^c-6acc7687b6a2e5559be7683f033f9daa]
 
 (1) An independent eligible student is an eligible student where—
 
@@ -78,7 +84,7 @@ Regulation 95
 
 (2) An eligible student who qualifies as an independent eligible student under paragraph 2(1)(j) in respect of an academic year of a designated course retains that status for the duration of the period of eligibility.
 
-### 3. Household income
+### 3. Household income[^c-b76e16f684ea689d9a87b9297992c83a]
 
 (1) The amount of an eligible student’s contribution depends on the household income.
 
@@ -97,7 +103,7 @@ Regulation 95
 
 (4) For the purpose of calculating the contribution payable in respect of a parent student, the residual income of the parent student’s partner must not be aggregated under paragraph (b) of sub-paragraph (2) in the case of a parent student whose child or whose partner’s child holds an award in respect of which the household income is calculated with reference to the residual income of the parent student or of the parent student’s partner or of both.
 
-### 4. Calculation of eligible student’s residual income
+### 4. Calculation of eligible student’s residual income[^c-5f95805a2c0e6f3208bcfbb326d637a7]
 
 (1) For the purpose of determining the residual income of an eligible student, there is deducted from the student’s taxable income (unless already deducted in determining taxable income) the aggregate of any amounts falling within any of the following sub-paragraphs—
 
@@ -111,7 +117,7 @@ Regulation 95
 - (a) if the student purchases sterling with the income, the amount of sterling the student so receives;
 - (b) otherwise, the value of the sterling which the income would purchase using the rate for the month in which it is received published by the Office for National Statistics[^f00084].
 
-### 5. Calculation of parent’s residual income
+### 5. Calculation of parent’s residual income[^c-b7f96a31caf4ad8a7083164767a0bdef]
 
 (1) For the purposes of determining the taxable income of an eligible student’s parent, (“A” in this paragraph) any deductions which fall to be made or exemptions which are permitted—
 
@@ -157,7 +163,7 @@ A’s taxable income for the purposes of this Schedule is computed as though the
 - (a) the appropriate proportion of the household income determined in accordance with sub-paragraph (9), being the proportion in respect of that part of the relevant year during which the parents are separated; and
 - (b) the appropriate proportion of the household income determined otherwise in respect of the remainder of the relevant year.
 
-### 6. Calculation of eligible student’s partner’s residual income
+### 6. Calculation of eligible student’s partner’s residual income[^c-05a3dac4e3e1698830aa39c7c6973183]
 
 (1) Subject to sub-paragraphs (2), (3) and (4) of this paragraph, an eligible student’s partner’s income is determined in accordance with paragraph 5 (other than sub-paragraphs (8), (9) and (10) of paragraph 5), references to the parent being construed as references to the eligible student’s partner.
 
@@ -167,11 +173,11 @@ A’s taxable income for the purposes of this Schedule is computed as though the
 
 (4) Where an eligible student has more than one partner in any one academic year, the provisions of this paragraph apply in relation to each.
 
-### 7. Calculation of parent’s partner’s residual income
+### 7. Calculation of parent’s partner’s residual income[^c-2c4342b98ef503b52f0c182545d838f7]
 
 The income of a new eligible student’s parent’s partner whose income is part of the household income by virtue of paragraph 3(2)(a) is determined in accordance with paragraph 6, references to the eligible student’s partner being construed as references to the new eligible student’s parent’s partner, and references to the eligible student being construed as references to the new eligible student’s parent.
 
-### 8. Calculation of contribution – old system students
+### 8. Calculation of contribution – old system students[^c-2c272c90da4a4f7894b0a616e29db1ca]
 
 (1) The contribution payable in relation to an old system student who is not an independent eligible student or is an independent eligible student with a partner is—
 
@@ -194,7 +200,7 @@ The income of a new eligible student’s parent’s partner whose income is part
 - (a) a contribution is payable in relation to two or more eligible students (other than current system students) in respect of the same income under paragraph 5 or, where the relevant parent’s partner’s residual income is taken into account, under paragraphs 5 and 7; or
 - (b) the household income consists of the residual income of an independent eligible student and the student’s partner where both hold a statutory award.
 
-### 9. Calculation of contribution – current system students
+### 9. Calculation of contribution – current system students[^c-78d6abc3ae6123654d6aeb5478e42de1]
 
 (1) In relation to an eligible student who is a current system student, the contribution payable is—
 
@@ -212,17 +218,25 @@ The income of a new eligible student’s parent’s partner whose income is part
 - (a) a contribution is payable in relation to two or more eligible students (other than old system students) in respect of the same income under paragraph 5 or, where the relevant parent’s partner’s residual income is taken into account, under paragraphs 5 and 7; or
 - (b) the household income consists of the residual income of an independent eligible student and the student’s partner where both hold a statutory award.
 
-### 10. Split contributions
+### 10. Split contributions[^c-d002806ac7fb7fa6eed21e05974989d9]
 
 Where the same household income is used to assess the amount of a statutory award for which two or more persons qualify, the contribution payable in respect of the eligible student is divided by the number of such persons.
 
 ## Annotations
 
+[^c-1ebc231d5f1989e3d5b57f601606ed2b]: Commencement: Sch. 4 para. 1 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
 [^f00079]: Footnote: [1973 c.18](https://www.legislation.gov.uk/ukpga/1973/18); section 23 was amended by the [Administration of Justice Act 1982 (c..53)](https://www.legislation.gov.uk/ukpga/1982/53), section 18. Section 25B was inserted by the [Pensions Act 1995(c.26)](https://www.legislation.gov.uk/ukpga/1995/26), section 166(1) and was amended by the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 4. Section 25E was inserted by the [Pensions Act 2004(c.35)](https://www.legislation.gov.uk/ukpga/2004/35), section 319(1), Schedule 12, paragraph 3.
 
 [^f00080]: Footnote: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33); paragraph 25 of Schedule 5 was modified by [S.I.2006/1934](https://www.legislation.gov.uk/uksi/2006/1934)
 
+[^c-6acc7687b6a2e5559be7683f033f9daa]: Commencement: Sch. 4 para. 2 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
 [^f00081]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22 has been amended by the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 2, Local Government Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41), Schedule 5, paragraph 19, the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), section 116(2) and the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), section 52.
+
+[^c-b76e16f684ea689d9a87b9297992c83a]: Commencement: Sch. 4 para. 3 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-5f95805a2c0e6f3208bcfbb326d637a7]: Commencement: Sch. 4 para. 4 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00082]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 273 was amended by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), Schedule 3, paragraph 10, the Income Tax (Trading and other Income) Act 2005, Schedule 1, the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), section 281 and Schedule 35, [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229) and, the Income Tax Act 2007, Schedule 1.
 
@@ -230,4 +244,16 @@ Where the same household income is used to assess the amount of a statutory awar
 
 [^f00084]: Footnote: “**Financial Statistics**” (ISSN 0015-203X).
 
+[^c-b7f96a31caf4ad8a7083164767a0bdef]: Commencement: Sch. 4 para. 5 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
 [^f00085]: Footnote: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1); Chapter 1 of Part VII was amended by the Finance Act [1988 (c.39)](https://www.legislation.gov.uk/ukpga/1988/39), sections 29, 31 and 33 and Schedules 3 and 14, the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26) section 33, the Finance Act [1990 (c.29)](https://www.legislation.gov.uk/ukpga/1990/29) Schedule 19, the Finance (No.2) Act [1992 (c.48)](https://www.legislation.gov.uk/ukpga/1992/48) Schedules 5 and 9, the Finance Act [1993 (c.34)](https://www.legislation.gov.uk/ukpga/1993/34), section 107 and Schedule 23, the Finance Act [1994 (c.9)](https://www.legislation.gov.uk/ukpga/1994/9), section 77 and Schedules 8, 17 and 26, the Finance Act [1996 (c.8)](https://www.legislation.gov.uk/ukpga/1996/8), sections 145 and 171 and Schedules 20, 21 and 41, the Finance Act [1997 (c.16)](https://www.legislation.gov.uk/ukpga/1997/16) section 56, the Finance Act [1999 (c.16)](https://www.legislation.gov.uk/ukpga/1999/16), sections 25, 30 and 31 and Schedule 20, [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21) Schedule 6, the Finance Act [2002 (c.23)](https://www.legislation.gov.uk/ukpga/2002/23) section 27, the Income Tax (Earnings and Pensions) Act [2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1) Schedule 6, the Finance Act [2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12) Schedule 35, the Income Tax (Trading and Other Income) Act [2005 (c.5)](https://www.legislation.gov.uk/ukpga/2005/5) Schedule 1, [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229), [S.I. 2006/3241](https://www.legislation.gov.uk/uksi/2006/3241), the Income Tax Act [2007 (c.3)](https://www.legislation.gov.uk/ukpga/2007/3), Schedules 1 and 3 and [S.I. 2008/673](https://www.legislation.gov.uk/uksi/2008/673).
+
+[^c-05a3dac4e3e1698830aa39c7c6973183]: Commencement: Sch. 4 para. 6 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-2c4342b98ef503b52f0c182545d838f7]: Commencement: Sch. 4 para. 7 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-2c272c90da4a4f7894b0a616e29db1ca]: Commencement: Sch. 4 para. 8 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-78d6abc3ae6123654d6aeb5478e42de1]: Commencement: Sch. 4 para. 9 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
+
+[^c-d002806ac7fb7fa6eed21e05974989d9]: Commencement: Sch. 4 para. 10 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

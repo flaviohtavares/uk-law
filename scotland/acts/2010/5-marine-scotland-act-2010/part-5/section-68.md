@@ -2,8 +2,8 @@
 title: Marine (Scotland) Act 2010, section 68
 act: Marine (Scotland) Act 2010
 section: '68'
-status: revised-with-pending-changes
-text_date: '2026-08-09'
+status: revised
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2010/5/section/68
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Marine (Scotland) Act 2010, section 68
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-08-09. See https://www.legislation.gov.uk/changes/affected/asp/2010/5
+> Text as at 2026-10-26.
 >
 > Extent: Scotland.
 
@@ -48,7 +48,7 @@ the Nature Conservation MPA.
 
 (6) For the purposes of subsection (1)(a) and (b)(i), conserving marine flora or fauna, or (as the case may be) marine habitat or types of such habitat includes conserving the diversity of such flora or fauna or (as the case may be) such habitats or types of such habitats, whether or not any or all of them are rare or threatened.
 
-(7) In considering whether to designate an area, the Scottish Ministers may have regard to the extent to which doing so will contribute to the mitigation of climate change.
+(7) In considering whether to designate an area, the Scottish Ministers must[^c-8a8ec084b07ee13547384b99a7f4db76] have regard to the extent to which doing so will contribute to climate adaptation and[^c-683236fee2a30228819834ade0bc5818] the mitigation of climate change.
 
 (8) In considering whether it is desirable to designate an area as a Nature Conservation MPA, the Scottish Ministers may have regard to any social or economic consequences of designation.
 
@@ -72,3 +72,7 @@ in the area.
 ## Annotations
 
 [^c-6b68cbe0e115dceea3aedc102cd5659a]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2010/5/section/68) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+
+[^c-8a8ec084b07ee13547384b99a7f4db76]: Textual amendment: Word in [s. 68(7)](https://www.legislation.gov.uk/asp/2010/5/section/68/7) substituted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 42(2)(a)](https://www.legislation.gov.uk/asp/2026/6/section/42/2/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(y)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/y)
+
+[^c-683236fee2a30228819834ade0bc5818]: Textual amendment: Words in [s. 68(7)](https://www.legislation.gov.uk/asp/2010/5/section/68/7) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 42(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/42/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(y)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/y)

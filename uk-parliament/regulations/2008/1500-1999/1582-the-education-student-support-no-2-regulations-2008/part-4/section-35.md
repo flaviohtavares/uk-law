@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 35
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '35'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/35
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 35
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amount of the fee contribution loan
+## 35. Amount of the fee contribution loan[^c-c822496f33cd5f5ef02615347a426252]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Where an old system student applies for a grant for fees and a fee contribution loan, the amount of the fee contribution loan in respect of an academic year of the designated course is the amount for which the student applies not exceeding the difference between the basic amount of the grant determined under regulation 31 or 32 and the amount of the grant that is payable after the application of the contribution in accordance with regulation 98.
 
@@ -33,3 +39,7 @@ summary: ''
 (4) The additional amount under paragraph (3) is an amount which when added to the amount already applied for does not exceed the increased maximum.
 
 (5) Where an old system student (“**A**”) has applied for a fee contribution loan of less than the maximum amount to which A is entitled, A may apply to borrow an additional amount which, when added to the amount already applied for, does not exceed the relevant maximum applicable in A’s case.
+
+## Annotations
+
+[^c-c822496f33cd5f5ef02615347a426252]: Commencement: Reg. 35 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)

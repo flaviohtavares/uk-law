@@ -3,7 +3,7 @@ title: Offender Rehabilitation Act 2014, SCHEDULE 2
 act: Offender Rehabilitation Act 2014
 section: schedule-2
 status: repealed
-text_date: '2026-05-11'
+text_date: '2026-10-01'
 extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/ukpga/2014/11/schedule/2
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

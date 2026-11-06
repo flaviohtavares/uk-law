@@ -3,7 +3,7 @@ title: Neighbourhood Planning Act 2017, section 28
 act: Neighbourhood Planning Act 2017
 section: '28'
 status: not-yet-in-force
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2017/20/section/28
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

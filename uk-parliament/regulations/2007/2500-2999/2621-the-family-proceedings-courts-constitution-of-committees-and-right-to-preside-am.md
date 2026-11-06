@@ -56,7 +56,7 @@ The Family Proceedings Courts (Constitution of Committees and Right to Preside) 
 
 (1) for paragraph (1) substitute—
 
-> (1) In this rule, “previous chairman” means a family justice who has held office as chairman of a family panel established under these Rules.
+> (1) In this rule, “**previous chairman**” means a family justice who has held office as chairman of a family panel established under these Rules.
 
 ;
 

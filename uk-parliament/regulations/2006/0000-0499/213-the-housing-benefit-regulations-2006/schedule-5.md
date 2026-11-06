@@ -3,7 +3,7 @@ title: The Housing Benefit Regulations 2006, SCHEDULE 5
 act: The Housing Benefit Regulations 2006
 section: schedule-5
 status: revised-with-pending-changes
-text_date: '2026-10-05'
+text_date: '2026-10-30'
 extent: E+W+S
 source_url: https://www.legislation.gov.uk/uksi/2006/213/schedule/5
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Housing Benefit Regulations 2006, SCHEDULE 5
 
-> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2006/213
 >
 > Extent: England, Wales, Scotland.
 
@@ -254,21 +254,22 @@ whichever is less.
 - (c)[^c-2419bc14b1176f391db21f8509549983] a Windrush payment;
 - (d) Post Office compensation payment;
 - (e) LGBT Financial Recognition Scheme payment.;[^c-c9ac73830e9a8e766ab9821c1f9907bf]
-- (f) miscarriage of justice compensation payment.
+- (f) miscarriage of justice compensation payment.;[^c-00783ea473fe15406eaffe5d77128c70]
+- (g) Mother and Baby Scheme payment.
 
-(2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia or who is or was a qualifying person, which derives from a payment made under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment[^c-a7836092ab479272bed8e31ff227996f] , a child abuse payment[^c-67982a1e696aa0cdb7d5006665241d4e] , a Windrush payment, a Post Office compensation payment[^c-c96dc0b3f23aacafacb049dd6bcbed22] , a vaccine damage payment[^c-7481aae497ce249570a4e7984806542e] , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment[^c-a2f4797927ef166c13c56304ef8cccea], and which is made to or for the benefit of—
+(2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia or who is or was a qualifying person, which derives from a payment made under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment[^c-a7836092ab479272bed8e31ff227996f] , a child abuse payment[^c-67982a1e696aa0cdb7d5006665241d4e] , a Windrush payment, a Post Office compensation payment[^c-c96dc0b3f23aacafacb049dd6bcbed22] , a vaccine damage payment[^c-7481aae497ce249570a4e7984806542e] , an LGBT Financial Recognition Scheme payment[^c-a2f4797927ef166c13c56304ef8cccea] , a miscarriage of justice compensation payment or a Mother and Baby Scheme payment[^c-72cfed78a5ebb4d9579751210c43e5b5], and which is made to or for the benefit of—
 
 - (a) that person's partner or former partner from whom he is not, or where that person has died was not, estranged or divorced or with whom he has formed a civil partnership that has not been dissolved or, where that person has died, had not been dissolved at the time of that person's death;
 - (b) any child who is a member of that person's family or who was such a member and who is a member of the claimant's family; or
 - (c) any young person who is a member of that person's family or who was such a member and who is a member of the claimant's family.
 
-(3) Any payment by or on behalf of the partner or former partner of a person who is suffering or who suffered from haemophilia or who is or was a qualifying person provided that the partner or former partner and that person are not, or if either of them has died were not, estranged or divorced or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death, which derives from a payment made under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment[^c-d764994c21fec64e5052c9b860ecf3c1] , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment, and which is made to or for the benefit of—
+(3) Any payment by or on behalf of the partner or former partner of a person who is suffering or who suffered from haemophilia or who is or was a qualifying person provided that the partner or former partner and that person are not, or if either of them has died were not, estranged or divorced or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death, which derives from a payment made under or by any of the Trusts to which sub-paragraph (1) refers , or from a Grenfell Tower payment[^c-d764994c21fec64e5052c9b860ecf3c1] , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment , a miscarriage of justice compensation payment or a Mother and Baby Scheme payment, and which is made to or for the benefit of—
 
 - (a) the person who is suffering from haemophilia or who is a qualifying person;
 - (b) any child who is a member of that person's family or who was such a member and who is a member of the claimant's family; or
 - (c) any young person who is a member of that person's family or who was such a member and who is a member of the claimant's family.
 
-(4) Any payment by a person who is suffering from haemophilia or who is a qualifying person, which derives from a payment under or by any of the Trusts to which sub-paragraph (1) refers, or from a Grenfell Tower payment[^c-ff28d2f3acdc59b4abbf8b5d0b774cf0] , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment, where—
+(4) Any payment by a person who is suffering from haemophilia or who is a qualifying person, which derives from a payment under or by any of the Trusts to which sub-paragraph (1) refers, or from a Grenfell Tower payment[^c-ff28d2f3acdc59b4abbf8b5d0b774cf0] , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment , a miscarriage of justice compensation payment or a Mother and Baby Scheme payment, where—
 
 - (a) that person has no partner or former partner from whom he is not estranged or divorced or with whom he has formed a civil partnership that has not been dissolved, nor any child or young person who is or had been a member of that person's family; and
 - (b) the payment is made either—
@@ -277,7 +278,7 @@ whichever is less.
 
 but only for a period from the date of the payment until the end of two years from that person's death.
 
-(5) Any payment out of the estate of a person who suffered from haemophilia or who was a qualifying person, which derives from a payment under or by any of the Trusts to which sub-paragraph (1) refers, or from a Grenfell Tower payment[^c-9070631a2b40bf2c748aac8b4cd1d6b9] , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment, where—
+(5) Any payment out of the estate of a person who suffered from haemophilia or who was a qualifying person, which derives from a payment under or by any of the Trusts to which sub-paragraph (1) refers, or from a Grenfell Tower payment[^c-9070631a2b40bf2c748aac8b4cd1d6b9] , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment , a miscarriage of justice compensation payment or a Mother and Baby Scheme payment, where—
 
 - (a) that person at the date of his death (the relevant date) had no partner or former partner from whom he was not estranged or divorced or with whom he had formed a civil partnership that had not been dissolved, nor any child or young person who was or had been a member of his family; and
 - (b) the payment is made either—
@@ -286,7 +287,7 @@ but only for a period from the date of the payment until the end of two years fr
 
 but only for a period of two years from the relevant date.
 
-(6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any income which derives from any payment of income or capital made under or deriving from any of the Trusts or from a Grenfell Tower payment[^c-8ae40fe9cd85abbcd752f33c304fd2c5] , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment.
+(6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any income which derives from any payment of income or capital made under or deriving from any of the Trusts or from a Grenfell Tower payment[^c-8ae40fe9cd85abbcd752f33c304fd2c5] , a child abuse payment , a Windrush payment, a Post Office compensation payment , a vaccine damage payment , an LGBT Financial Recognition Scheme payment , a miscarriage of justice compensation payment or a Mother and Baby Scheme payment.
 
 (7) For the purposes of sub-paragraphs (2) to (6), any reference to the Trusts shall be construed as including a reference to the Fund, the Eileen Trust , MFET Limited[^c-18d0966bff8e64cede5df579d3ce7c70], the Skipton Fund , the Caxton Foundation[^c-5bc951bbfcde648ca794a98595a1413a] , the Scottish Infected Blood Support Scheme[^c-8779c05df433e81f03f4890e0097a4d6] , an approved blood scheme[^c-acfa1919eb5c890357160e84b4b61518] , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-ca8a0dbeb862679d5cf323bac6f62228] , the National Emergencies Trust[^c-146fb39086579379ee7097cfa3e65b76] or the London Bombings[^c-6803e73f3fc7c66a794b71ad59eed189] Relief Charitable Fund.
 
@@ -618,6 +619,8 @@ in respect of which such assistance is or was received.
 
 [^c-c9ac73830e9a8e766ab9821c1f9907bf]: Textual amendment: [Sch. 5 para. 35(1A)(f)](https://www.legislation.gov.uk/uksi/2006/213/schedule/5/paragraph/35/1A/f) inserted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [5(7)(a)](https://www.legislation.gov.uk/uksi/2025/778/regulation/5/7/a)
 
+[^c-00783ea473fe15406eaffe5d77128c70]: Textual amendment: [Sch. 5 para. 35(1A)(g)](https://www.legislation.gov.uk/uksi/2006/213/schedule/5/paragraph/35/1A/g) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [4(7)(a)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/4/7/a)
+
 [^c-a7836092ab479272bed8e31ff227996f]: Textual amendment: Words in Sch. 5 para. 35(2) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/618)](https://www.legislation.gov.uk/uksi/2020/618), [regs. 1](https://www.legislation.gov.uk/uksi/2020/618/regulation/1), [5(11)(c)](https://www.legislation.gov.uk/uksi/2020/618/regulation/5/11/c)
 
 [^c-67982a1e696aa0cdb7d5006665241d4e]: Textual amendment: Words in [Sch. 5 para. 35(2)-(6)](https://www.legislation.gov.uk/uksi/2006/213/schedule/5/paragraph/35/2) inserted (1.1.2022) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2021 (S.I. 2021/1405)](https://www.legislation.gov.uk/uksi/2021/1405), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1405/regulation/1), [5(7)(b)](https://www.legislation.gov.uk/uksi/2021/1405/regulation/5/7/b)
@@ -627,6 +630,8 @@ in respect of which such assistance is or was received.
 [^c-7481aae497ce249570a4e7984806542e]: Textual amendment: Words in [Sch. 5 para. 35(2)-(6)](https://www.legislation.gov.uk/uksi/2006/213/schedule/5/paragraph/35/2) substituted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [6(7)(b)](https://www.legislation.gov.uk/uksi/2025/44/regulation/6/7/b)
 
 [^c-a2f4797927ef166c13c56304ef8cccea]: Textual amendment: Words in [Sch. 5 para. 35(2)-(6)](https://www.legislation.gov.uk/uksi/2006/213/schedule/5/paragraph/35/2) substituted (22.7.2025) by [The Social Security (Income and Capital Disregards) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/778)](https://www.legislation.gov.uk/uksi/2025/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/778/regulation/1/1), [5(7)(b)](https://www.legislation.gov.uk/uksi/2025/778/regulation/5/7/b)
+
+[^c-72cfed78a5ebb4d9579751210c43e5b5]: Textual amendment: Words in [Sch. 5 para. 35(2)-(6)](https://www.legislation.gov.uk/uksi/2006/213/schedule/5/paragraph/35/2) substituted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [4(7)(b)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/4/7/b)
 
 [^c-d764994c21fec64e5052c9b860ecf3c1]: Textual amendment: Words in Sch. 5 para. 35(3) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/618)](https://www.legislation.gov.uk/uksi/2020/618), [regs. 1](https://www.legislation.gov.uk/uksi/2020/618/regulation/1), [5(11)(c)](https://www.legislation.gov.uk/uksi/2020/618/regulation/5/11/c)
 

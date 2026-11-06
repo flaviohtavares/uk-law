@@ -2,9 +2,9 @@
 title: The Education (Student Support) (No.2) Regulations 2008, section 120
 act: The Education (Student Support) (No.2) Regulations 2008
 section: '120'
-status: as-enacted
-text_date: null
-extent: null
+status: not-yet-in-force
+text_date: '2008-06-17'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1582/section/120
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
 summary: ''
@@ -12,9 +12,15 @@ summary: ''
 
 # The Education (Student Support) (No.2) Regulations 2008, section 120
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Amount of support
+## 120. Amount of support[^c-f49f6fb7de28bc4c632889d5b12e83e4]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
 
 (1) Subject to paragraph (2) and regulation 126(6), the amount of support payable in respect of an academic year is determined as follows—
 
@@ -38,6 +44,8 @@ summary: ''
 - (b) where the actual fees are less than £1,210, an amount equal to that left after deducting from the amount calculated under sub-paragraph (a) the difference between £1,210 and the actual fees (unless the amount is a negative number in which case the maximum amount of support available under regulation 119(1)(a) is payable).
 
 ## Annotations
+
+[^c-f49f6fb7de28bc4c632889d5b12e83e4]: Commencement: Reg. 120 in force at 1.9.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)
 
 [^f00068]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); Part VII was amended by the Housing Act [1991 (c. 52)](https://www.legislation.gov.uk/ukpga/1991/52), Schedule 19; the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 9 and Schedule 14, the Social Security (Incapacity for Work) Act [1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18), Schedules 1 and 2, the Local Government etc (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedules 13 and 14, the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), Schedule 2 and Schedule 3, the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), Schedule 19 Part 6, the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 8, the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), Schedule 6 Part 3, the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), Schedule 2 and Schedule 3; the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), Schedule 6, the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, paragraphs 169 and 179; the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 24; the Welfare Reform Act [2007 (c. 40)](https://www.legislation.gov.uk/ukpga/2007/40), Sections 30(2) and 31(1), Schedule 3, Schedule 5 and Schedule 8 and [S.I. 2008/632](https://www.legislation.gov.uk/uksi/2008/632).
 

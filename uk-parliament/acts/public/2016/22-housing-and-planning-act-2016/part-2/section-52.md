@@ -3,7 +3,7 @@ title: Housing and Planning Act 2016, section 52
 act: Housing and Planning Act 2016
 section: '52'
 status: revised-with-pending-changes
-text_date: '2026-09-14'
+text_date: '2026-10-31'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2016/22/section/52
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # Housing and Planning Act 2016, section 52
 
-> **Warning: changes not yet applied to this text (34).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
+> **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 

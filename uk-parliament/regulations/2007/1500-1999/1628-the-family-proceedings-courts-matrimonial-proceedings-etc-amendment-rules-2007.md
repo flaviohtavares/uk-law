@@ -89,7 +89,7 @@ The Family Proceedings Courts (Matrimonial Proceedings etc.) Rules 1991[^f00002]
 
 - (a) for paragraph (1), substitute—
 
-  > (1) Where a power of arrest is attached to one or more of the provisions (“the relevant provisions”) of an occupation order under the Family Law Act 1996, the relevant provisions shall be set out in Form FL406 and the form shall not include any provisions of the order to which the power of arrest was not attached.
+  > (1) Where a power of arrest is attached to one or more of the provisions (“**the relevant provisions**”) of an occupation order under the Family Law Act 1996, the relevant provisions shall be set out in Form FL406 and the form shall not include any provisions of the order to which the power of arrest was not attached.
   >
   > (1A) Where the court makes a non-molestation order under that Act or paragraph (1) applies, the following documents shall be delivered to the officer for the time being in charge of any police station for the applicant’s address or of such other police station as the court may specify—
   >

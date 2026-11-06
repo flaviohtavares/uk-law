@@ -3,7 +3,7 @@ title: Marine (Scotland) Act 2010, SCHEDULE 1
 act: Marine (Scotland) Act 2010
 section: schedule-1
 status: not-yet-in-force
-text_date: '2026-08-09'
+text_date: '2026-10-26'
 extent: S
 source_url: https://www.legislation.gov.uk/asp/2010/5/schedule/1
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

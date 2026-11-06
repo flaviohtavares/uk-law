@@ -19,22 +19,22 @@ Documents that legislation.gov.uk lists but holds only as a scanned PDF or as a 
 
 | type | folder | revised | revised-with-pending-changes | as-enacted | repealed | catalogue only |
 |---|---|---|---|---|---|---|
-| `ukpga` | uk-parliament/acts/public | 2536 | 918 | 87 | 853 | 13169 |
+| `ukpga` | uk-parliament/acts/public | 2540 | 914 | 87 | 853 | 13169 |
 | `ukla` | uk-parliament/acts/local | 16 | 0 | 182 | 1 | 19972 |
 | `ukppa` | uk-parliament/acts/private | 0 | 0 | 0 | 0 | 869 |
 | `ukcm` | uk-parliament/church-measures | 101 | 28 | 0 | 28 | 87 |
 | `ukci` | uk-parliament/church-instruments | 0 | 0 | 60 | 0 | 0 |
-| `uksi` | uk-parliament/regulations | 5131 | 921 | 50544 | 4027 | 48827 |
+| `uksi` | uk-parliament/regulations | 5137 | 930 | 50519 | 4044 | 48827 |
 | `uksro` | uk-parliament/regulations | 0 | 0 | 0 | 0 | 307 |
 | `ukmo` | uk-parliament/regulations | 0 | 0 | 1 | 0 | 124 |
-| `asp` | scotland/acts | 273 | 112 | 0 | 17 | 0 |
-| `ssi` | scotland/regulations | 941 | 158 | 6528 | 1108 | 2754 |
+| `asp` | scotland/acts | 274 | 111 | 0 | 17 | 0 |
+| `ssi` | scotland/regulations | 942 | 158 | 6533 | 1108 | 2754 |
 | `anaw` | wales/acts | 26 | 16 | 0 | 2 | 0 |
 | `asc` | wales/acts | 17 | 16 | 0 | 1 | 0 |
 | `mwa` | wales/measures | 13 | 6 | 0 | 3 | 0 |
-| `wsi` | wales/regulations | 707 | 96 | 3064 | 806 | 2106 |
+| `wsi` | wales/regulations | 707 | 98 | 3063 | 806 | 2106 |
 | `nia` | northern-ireland/acts | 166 | 35 | 11 | 26 | 0 |
-| `nisr` | northern-ireland/regulations | 1889 | 382 | 5069 | 2034 | 9184 |
+| `nisr` | northern-ireland/regulations | 1890 | 380 | 5069 | 2035 | 9184 |
 | `nisro` | northern-ireland/regulations | 0 | 0 | 1 | 0 | 8791 |
 | `nisi` | northern-ireland/orders-in-council | 296 | 160 | 61 | 41 | 133 |
 | `aep` | historic/england | 66 | 0 | 586 | 13 | 28 |
@@ -49,7 +49,7 @@ Documents that legislation.gov.uk lists but holds only as a scanned PDF or as a 
 | `eudr` | eu-origin/directives | 1185 | 137 | 0 | 713 | 2133 |
 | `eut` | eu-origin/treaties | 5 | 0 | 0 | 0 | 0 |
 | `ukmd` | (catalogue only) | 0 | 0 | 0 | 0 | 1 |
-| **total** |  | **41643** | **5111** | **66195** | **17403** | **228894** |
+| **total** |  | **41656** | **5115** | **66174** | **17421** | **228894** |
 
 ## Known conversion gaps
 

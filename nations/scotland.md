@@ -301,7 +301,7 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 - [Housing (Scotland) Act 2010](../scotland/acts/2010/17-housing-scotland-act-2010/README.md) *(changes pending)*
 - [Interpretation and Legislative Reform (Scotland) Act 2010](../scotland/acts/2010/10-interpretation-and-legislative-reform-scotland-act-2010.md)
 - [Legal Services (Scotland) Act 2010](../scotland/acts/2010/16-legal-services-scotland-act-2010/README.md) *(changes pending)*
-- [Marine (Scotland) Act 2010](../scotland/acts/2010/5-marine-scotland-act-2010/README.md) *(changes pending)*
+- [Marine (Scotland) Act 2010](../scotland/acts/2010/5-marine-scotland-act-2010/README.md)
 - [Public Services Reform (Scotland) Act 2010](../scotland/acts/2010/8-public-services-reform-scotland-act-2010/README.md) *(changes pending)*
 - [Schools (Consultation) (Scotland) Act 2010](../scotland/acts/2010/2-schools-consultation-scotland-act-2010.md)
 - [Scottish Parliamentary Commissions and Commissioners etc. Act 2010](../scotland/acts/2010/11-scottish-parliamentary-commissions-and-commissioners-etc-act-2010/README.md)
@@ -685,11 +685,11 @@ Repealed laws are not listed here; they are still in their folders. Laws marked 
 
 ## Scottish Statutory Instruments
 
-7627 in force, by year:
+7633 in force, by year:
 
 | year | in force |
 |---|---|
-| [2026](../scotland/regulations/2026/) | 183 |
+| [2026](../scotland/regulations/2026/) | 189 |
 | [2025](../scotland/regulations/2025/) | 206 |
 | [2024](../scotland/regulations/2024/) | 198 |
 | [2023](../scotland/regulations/2023/) | 190 |

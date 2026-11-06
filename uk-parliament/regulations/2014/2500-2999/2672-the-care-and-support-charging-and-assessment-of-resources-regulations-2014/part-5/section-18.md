@@ -2,8 +2,8 @@
 title: The Care and Support (Charging and Assessment of Resources) Regulations 2014, section 18
 act: The Care and Support (Charging and Assessment of Resources) Regulations 2014
 section: '18'
-status: revised-with-pending-changes
-text_date: '2026-04-06'
+status: revised
+text_date: '2026-10-30'
 extent: E+W
 source_url: https://www.legislation.gov.uk/uksi/2014/2672/section/18
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -12,7 +12,7 @@ summary: ''
 
 # The Care and Support (Charging and Assessment of Resources) Regulations 2014, section 18
 
-> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2014/2672
+> Text as at 2026-10-30.
 >
 > Extent: England, Wales.
 

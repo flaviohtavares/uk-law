@@ -3,7 +3,7 @@ title: Planning and Compulsory Purchase Act 2004, SCHEDULE 2A
 act: Planning and Compulsory Purchase Act 2004
 section: schedule-2a
 status: repealed
-text_date: '2026-07-16'
+text_date: '2026-11-04'
 extent: E+W
 source_url: https://www.legislation.gov.uk/ukpga/2004/5/schedule/2a
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.

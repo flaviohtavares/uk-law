@@ -3,14 +3,14 @@ title: The Air Navigation (Isle of Man) (Amendment) Order 2008
 id: uksi/2008/1487
 type: UnitedKingdomStatutoryInstrument
 category: secondary
-status: as-enacted
+status: revised-with-pending-changes
 made_date: '2008-06-11'
-text_date: null
-extent: null
+text_date: '2008-07-01'
+extent: E+W+S+N.I.
 source_url: https://www.legislation.gov.uk/uksi/2008/1487
 pdf_urls:
 - http://www.legislation.gov.uk/uksi/2008/1487/pdfs/uksi_20081487_en.pdf
-- http://www.legislation.gov.uk/uksi/2008/1487/made/data.pdf
+- http://www.legislation.gov.uk/uksi/2008/1487/data.pdf
 pending_changes: 1
 repealed_on: null
 attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
@@ -19,7 +19,11 @@ summary: ''
 
 # The Air Navigation (Isle of Man) (Amendment) Order 2008
 
-> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+> **Warning: changes not yet applied to this text (1).** Text as at 2008-07-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1487
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
 
 2008 No. 1487
 
@@ -43,15 +47,15 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred on Her by sections 60 and 61 of the Civil Aviation Act 1982[^f00001], as extended by the Civil Aviation (Isle of Man) Order 2007[^f00002], is pleased, by and with the advice of her Privy Council, to order as follows:
 
-## 1. Citation and commencement
+## 1. Citation and commencement[^c-1681816ffcef79b1e46c7a7711c2fe43]
 
 This Order may be cited as the Air Navigation (Isle of Man) (Amendment) Order 2008 and shall come into force on 1st July 2008.
 
-## 2. Amendment of the Air Navigation (Isle of Man) Order 2007
+## 2. Amendment of the Air Navigation (Isle of Man) Order 2007[^c-6d2599bcd99a8784cdd292f797d3659f]
 
 The Air Navigation (Isle of Man) Order 2007[^f00003] shall be amended as follows.
 
-## 3. Requirements for non-public transport flights
+## 3. Requirements for non-public transport flights[^c-e5d981e48f70cd18522935fd69e54a27]
 
 (1) After article 25(6) insert —
 
@@ -135,7 +139,7 @@ The Air Navigation (Isle of Man) Order 2007[^f00003] shall be amended as follows
 
 .
 
-## 4. Introduction of 8.33kHz channel spacing
+## 4. Introduction of 8.33kHz channel spacing[^c-4c5483c3aff0cf848564584c8e411be9]
 
 In Schedule 4 —
 
@@ -148,7 +152,7 @@ In Schedule 4 —
 
   .
 
-## 5. Other changes
+## 5. Other changes[^c-c6d3f7d98a2b78e7498c400be2d762a6]
 
 (1) Omit article 3(14).
 
@@ -244,4 +248,14 @@ This Order amends the Air Navigation (Isle of Man) Order 2007 ([S.I. 2007/1115](
 
 [^f00002]: Footnote: [S.I. 2007/614](https://www.legislation.gov.uk/uksi/2007/614).
 
+[^c-1681816ffcef79b1e46c7a7711c2fe43]: Commencement: Art. 1 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1487/article/1)
+
+[^c-6d2599bcd99a8784cdd292f797d3659f]: Commencement: Art. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1487/article/1)
+
 [^f00003]: Footnote: [S.I. 2007/1115](https://www.legislation.gov.uk/uksi/2007/1115).
+
+[^c-e5d981e48f70cd18522935fd69e54a27]: Commencement: Art. 3 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1487/article/1)
+
+[^c-4c5483c3aff0cf848564584c8e411be9]: Commencement: Art. 4 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1487/article/1)
+
+[^c-c6d3f7d98a2b78e7498c400be2d762a6]: Commencement: Art. 5 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1487/article/1)
